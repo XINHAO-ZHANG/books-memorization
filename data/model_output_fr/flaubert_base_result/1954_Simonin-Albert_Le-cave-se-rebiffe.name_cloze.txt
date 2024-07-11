@@ -1,0 +1,200 @@
+['-', '</s>', 'il', '"', '...']	Larpin	— Quelles idées encore ? [MASK] haussait les épaules en gaffant le Gros. — J’ai pas dit que vous l’aviez fait, ou que vous l’aviez fait faire, il rectifiait… Je t’ai seulement demandé si vous étiez assurés contre ça !
+
+['il', 'qui', 'et', '-', ',']	Pierrot	[MASK] devait penser comme moi. Il a remarqué : — Avec la bouille qu’ils lui ont faite, je vois mal le moyen de le sortir en chiquant au bon ami malade ! Une idée me venait. Je devais vérifier. J’ai levé la trappe de la cave.
+
+['vous', 'de', 'toi', 'ministre', 'la']	Max	Dès le seuil, elle m’a fait le serre : — Les perdreaux sont là ! Elle m’avait glissé cet avertissement d’une voix neutre qui ne devait pas porter plus loin que mes tympans, vite, avant de s’exclamer : — C’est chouette, [MASK], de venir nous surprendre
+
+['elle', 'ne', 'ça', 'cela', 'je']	Odette	J’ai guetté du côté de la cuisine, dont je voyais la porte par l’enfilade des pièces, si [MASK] rallégeait pas, avant de dire : — Ça se déroule comme t’avais prévu, seulement un peu moins vite… T’as appelé trop tôt.
+
+['je', 'mais', 'etc', 'euh', '"']	Irène	— Je suis content de l’avoir revu. Elle se taisait, et ne me regardait même plus. J’ai annoncé : « Je me tire, [MASK]… » sans qu’elle bouge. — Te casse pas la tête, j’ai dit en me levant…
+
+['moi', 'elle', 't-il', 'tu', 'je']	Marinette	Va falloir que je la correctionne une bonne fois, cette conne, expliquait [MASK], qu’elle se mette bien dans la tête que c’est nous les tauliers… Je l’ai surprise tout à l’heure dans la cuisine, et tu devineras pas à quoi faire ?
+
+['moi', 'mes', 'mon', 'ma', 'la']	mézigue	J’ai dû cesser d’y gamberger, à ces caprices de la fortune, parce qu’on s’occupait un peu trop de [MASK], à l’autre bout du comptoir. Histoire d’égayer les deux radeuses, de se tailler une réputation de rigolo à mes dépens, le négro commençait à me chambrer.
+
+['moi', 'maman', 'oui', 'chérie', 'mère']	Max	— Pour toi, [MASK], j’ai dû me décommander à déjeuner… et j’ai refusé d’accompagner ma mère à un récital. — Tu te recommandes, c’est simple… Et tu vas ensuite à ton machin de musique, avec ta daronne !
+
+['toi', 'moi', 'la', 'un', "l'"]	Babylas	? — Tu peux. Sans même serrer la pogne à [MASK], et en laissant, tout juste un bifton sur la table pour son loufiat, je me suis tiré de là. Je devais l’exécuter presto ma sortie, si je voulais éviter la rencontre gênante.
+
+['mais', 'non', 'moi', 'maman', 'hein']	Max	— T’as ripé à temps, il m’expliquait… On était deux dans la salle, avec ordre de te suivre et de te plomber… — Ordre de qui ? — Ne me demande pas ça, [MASK]… Je peux pas te le dire.
+
+['moi', 'plus', 'lui', '</s>', 'moi-même']	Francis	Sans rien dire de [MASK], bien sûr, je l’ai affranchie : je sentais pouvoir le faire. — T’as raison, elle m’a dit, il est en danger, le vieux… Qu’est-ce que je peux faire… le prévenir ?
+
+['la', 'charge', 'vie', "l'", 'chambre']	Paulo	— Bon, si c’est ça ! il a dit… Puis, après un moment de réflexion : — Je crois qu’il vit en ce moment chez sa fille, la môme Irène, une brune, l’ancienne femme à [MASK] des Ternes…
+
+['</s>', 'il', 'on', 'Il', 'elle']	Pierrot	Les affaires, à ce qu’il soutenait, demandaient à être arrosées pour porter chance ! Y avait plus moyen de s’en défaire de ce mec. [MASK] a cédé à sa musique ; moi pas ! Pour aujourd’hui, j’en avais mon compte de ce pante, marre de sa jovialité commerciale.
+
+['il', 'se', 'elle', 'qui', 'me']	Pierrot	[MASK] répétait, nerveux, en me voyant disparaître : — Faut pas le garder ici, j’te dis… Faut pas ! Ma mémoire me gourait pas. Le panier d’osier que j’avais cru remarquer hier dans un recoin s’y trouvait bien, et même, du format que j’imaginais.
+
+['le', 'la', 'les', "l'", 'jeanne']	Théo	Dans la rue où créchait [MASK], rien n’avait changé, les mêmes becs de gaz jetaient leur clignotement jaunâtre sur la même palissade pourrissante, d’où se décollaient toujours les affiches, et j’aurais pu croire y être venu la veille.
+
+['il', 'elle', 'on', 'et', 'qui']	Francis	Chantonnant, un gonze venait d’entrer, un gros pante écarlate, qui s’est mis à lisbroquer dru, sans cesser de fredonner son motif de mambo. Nous tournant le dos, [MASK] s’essuyait lentement les pognes.
+
+['on', 'il', 'elle', 'tu', 'je']	Marinette	— [MASK] le croit, mais il y est pas… À cette heure-ci, on peut te rappeler au numéro que t’as donné ? Devant imaginer le Gros en train de se donner une petite fiesta chez une sœur, le Dabe se fendait à l’autre bout du fil :
+
+['moi', 'toi', 'lui', 'maman', 'moi-même']	Pierrot	Je me suis préparé à toutes les patiences, et j’ai demandé, en lui serrant la pogne, puisqu’il me la tendait : — C’est moi que tu cherchais ? — Toi et [MASK], du moment que vous êtes associés.
+
+['moi', 'eux', 'nous', 'lui', 'vous']	Arsène	C’est chaud ! Les condés étaient chez [MASK], y a plus d’une heure ; ils ont dû faire du chemin depuis. — J’sens que je vais en avoir deux à assister avant qu’il soit longtemps ! Je pouvais rien dire là-dessus.
+
+['</s>', "c'", 'ce', 'et', 'mais']	Bamboula	Je le coupais en plein délire publicitaire, [MASK], au moment où, tant à l’intention de ces deux filles qu’à la mienne, il soulignait d’une main précise les avantages de sa race, nous invitant cordialement à en croquer, sans retard et sans gêne.
+
+['</s>', ')', '!', '.', 'le']	Pierrot	Et c’est bien à notre porte que se sont rués les tiges pour frapper sans succès, avant de s’engouffrer sous la voûte, chez le pipelet sans doute ! [MASK], qui s’était retourné pour suivre tout ce cirque du regard, m’a fait :
+
+['étaient', 'était', 'toujours', 'tout', 'étais']	Pierrot	Tout en roulant vers les Champs-Élysées, [MASK] à mon côté. Je laissais un peu divaguer ma tronche. Tout s’arrangeait pour le mieux, et ces mecs, pas si tocs qu’ils avaient voulu nous le faire croire, voyant qu’ils parvenaient pas à nous impressionner, allaient retirer leurs billes.
+
+['elle', 'il', 'on', 'qui', 'et']	Fabienne	… Elle commence à me les briser menus ta vieille ; qu’elle aille se faire cuire un œuf ! De m’entendre renauder, [MASK] avait commencé à rire, constatant l’effet que me reprocurait l’évocation de sa maternelle, elle tentait maintenant de me calmer.
+
+['moi', 'maman', 'non', 'vrai', 'toi']	Max	— Je t’y conduirais si c’était ça, [MASK]. Non, j’y suis jamais allé, seulement, les jours où son vieux se trouve complètement ourdé, souvent elle passe par ici le chercher et c’est le chauffeur qui les conduit qui m’a expliqué.
+
+['non', 'hein', 'mais', 'pas', 'elle']	Irène	Il n’en est tout à coup resté que trois, de frangines, dont la plus mordante, s’est tout de suite détronchée pour venir me demander du feu. Je souhaitais tout de suite que ce soit pas elle, [MASK], cette tocarde avec sa tronche de pétardière.
+
+['sarah', 'autrefois', 'moi', 'sara', 'catherine']	Irène	J’ai posé dix sacs sur l’addition, et au moment où il emmenait le tout, l’homme en habit, j’ai suivi. Je voulais la voir à tout prix, à l’instant, cette caissière qui s’appelait [MASK].
+
+['arme', 'viser', 'armes', 'doute', 'tirer']	rébecca	Je la lui ai administrée en plein pif, en me cramponnant ferme de la main gauche à la portière, au départ, pour appuyer le coup. Le mouchoir sur la tronche, je l’ai vu se tirer, sans [MASK], longeant les voitures, en direction des Champs-Élysées.
+
+['moi', 'nous', 'mon', 'm', 'ma']	Arsène	C’était ma tournée cette fois, chez [MASK]. On trinquait à l’Anjou, un très honnête tutu qu’il débitait en fillettes pour l’amateur. — T’es moins pressé qu’avant-hier ! il m’a fait.
+
+['il', 'elle', 'on', "j'", 'qui']	Pierrot	— Avec la bouille qu’ils lui ont faite, je vois mal le moyen de le sortir en chiquant au bon ami malade ! Une idée me venait. Je devais vérifier. J’ai levé la trappe de la cave. Comme [MASK] avait dû enclencher tous les interrupteurs elle se trouvait éclairée.
+
+['elle', 'maman', 'marie', 'on', 'je']	Marinette	D’ici à ce que je revienne, le coup avait des chances de s’écraser. — Magne-toi ! il m’a crié, en m’entendant partir… [MASK] tient absolument à ce que tu reviennes prendre le jus ; elle nous le prépare tout de suite.
+
+['</s>', 'on', 'il', '"', 'qui']	Pierre	— L’argent est plus facile qu’ici, j’ai admis, mais il faut le gagner quand même. Le loufiat amenait la première rouille. On l’a attaquée, et c’était agréable de boire frais, sans hâte. [MASK] a remarqué ma satisfaction :
+
+['qui', '"', ',', '_', 'et']	Francis	j’ai hasardé. J’étais plus certain que ce soit la bonne formule d’emmener [MASK] hors d’ici. Et l’emmener où ? Je nous voyais, supposé qu’on parvienne encore à le décarrer sans que personne ne remarque rien, bien embarrassés ensuite de ce colis.
+
+['il', 'elle', 'je', 'lui', 'se']	Fabienne	! Je disais n’importe quoi, pour que cesse cette conversation sans issue. Mais, tenace, [MASK] reprenait : — Tu n’es plus le même depuis quelque temps… Je reconnais à peine le Max de nos premières rencontres… Je ne te plais plus.
+
+['autrefois', 'avant', 'jadis', 'auparavant', 'traditionnellement']	Théo	Qu’est-ce qu’y a pour ton service ? Chez [MASK], toute affaire s’amorçait rituellement par un gorgeon à la salle à manger, sur la toile cirée à carreaux bleus qui semblait devoir durer cent ans. Je ne pouvais pas y échapper.
+
+['(', 'de', 'par', 'ou', ',']	Pierrot	j’allais quand même le leur offrir, le casse-graine de ce soir. Ils l’avaient pas volé ! Que la môme Odette soit une escaladeuse de braguettes, on pouvait pas en rendre l’univers responsable, non ? — Go, mec ! m’a fait soudain [MASK].
+
+['amour', 'lui', 'elle', 'eux', 'plaisir']	Théo	— C’est sur les bouteilles et sur les verres qu’on relève toujours les plus belles, il avait dit avant de se mettre à l’ouvrage. C’était dans des tout petits godets qu’on avait bu avec [MASK], ce qu’il ne savait pas être son dernier glass
+
+['le', 'mon', 'la', "quelqu'", 'ma']	Tintin	Ça m’a permis, lorsque le loufiat a posé le verre devant moi, de capter son regard, sans quoi il ne m’aurait peut-être pas répondu : — Vous avez vu [MASK], ce soir ? je lui ai demandé.
+
+["m'", 'lui', 'il', "l'", 'nous']	Pierrot	[MASK] a proposé, la chopotte en main : — Encore une larmichette ? Il n’en était plus question. Ils ont refusé simultanément, faisant non de la tête avec ensemble, pareils des boys de music-hall.
+
+['tout', 'dieu', 'tous', 'rien', 'toujours']	Fabienne	J’y revenais trop souvent à ce livre, avec trop de complaisance, et je sentais bien qu’il fallait pas que je cède à ce nouveau vice qui m’agrichait. Surtout en ce moment, avec [MASK] à portée de la main.
+
+['quoi', '?', 'midi', 'moi', 'dîner']	Tintin	Élysées. — Ils t’ont d’abord demandé après [MASK] ? — Oui, et puis, quand j’ai eu répondu ce que tu m’avais dit de prétendre, ils se sont mis à fouiller l’appartement. — Ils t’ont pris quelque chose ?
+
+['lui', 'moi', 'celui', 'elle', 'toi']	mézigue	Elle baissait pas son regard, qui était devenu si méchant que je comprenais avoir jamais su à qui j’avais affaire. J’ai eu le trac. Je suis parti dans le noir, sans rien ajouter, avant qu’elle miaule. De nous deux, c’est [MASK] qui devait avoir le plus mal.
+
+['moi', 'lui', 'nous', 'eux', 'vous']	mézigue	Ça m’a instantanément fait songer, ce réflexe de jeunesse, que le bon usage devait pas autoriser à ce qu’on se présente enfouraillé dans une salle de coffres ; surtout pour ceux qui, comme [MASK], avaient dans le passé fréquenté les banques, surtout le calibre au poing, face aux guichets.
+
+['il', 'elle', 'on', 'qui', 'lui']	Pierrot	Nous mettre à la tortore si tôt, faisait pas notre balle. Regardant sa tocante, [MASK] a remarqué : — Il va être neuf heures quand même ! J’entendais bien ce qu’il me disait, mais sans que ses mots me touchent.
+
+['</s>', '-', 'il', 'on', 'elle']	Irène	— Ils ont finalement cru que tu ne savais rien ? [MASK] gambergeait. — Il me semble ! Sans ça, je crois qu’ils m’auraient fait du mal pour me rendre causante. Je gambergeais à mon tour.
+
+['et', 'mais', '-', 'la', '"']	Fabienne	— T’étais avec cette môme !… t’étais avec cette môme ! il répétait, sincèrement désolé. [MASK] mêlée à ce coup, ça l’épouvantait franchement. — T’es sûr d’elle ? il m’a fait… T’as pas l’impression qu’elle peut en parler à quelqu’un…
+
+['.', '</s>', 'et', 'il', '"']	Pierrot	Il avançait sur le Dabe que la soudaineté de l’attaque avait fait rompre de deux mètres, et qui, maintenant, attendait, adossé à une machine. Il avait trop confiance en sa puissance, [MASK]. Sous l’empire de la colère, il se croyait invincible ;
+
+['et', 'tout', 'comme', 'en', 'mais']	Tintin	! Il semblait tout triste soudain, [MASK]. J’ai suggéré : — Tu crois pas qu’ils t’ont balancé, tes associés ? Ça devait lui venir à l’esprit, ce soupçon, et je devais le renforcer le temps nécessaire à ce qu’il jacte.
+
+['moi', 'nous', 'vous', 'toi', 'lui']	Tintin	On est entré d’auto à la cuisine, déserte à cette heure, et où une demi-Rœderer attendait sur la glacière, flanquée de deux verres frappés. — Qu’est-ce qui se passe pour [MASK] ?… Les bourres sortaient juste d’ici quand tu as appelé !
+
+['lui', 'moi', 'son', 'maître', 'mon']	Pierrot	Je m’étais jamais farci de ballon en compagnie de [MASK], et je me demandais comment il devait s’y comporter devant la tortore, qui y est, de tradition, toujours légère. Rien que de jongler du dîner, il me faisait déjà toute une musique.
+
+['arrête', 'dis-je', 'dit-il', 'reviens', 'laisse-moi']	Gros	Il m’appartenait, je ne pouvais pas admettre qu’un autre que moi le rectifie. Il y allait de la paix de mon esprit. — Arrête, [MASK]… Arrête !… Arrête, il est pour moi !
+
+['pantin', 'neuilly', 'vincennes', 'banlieue', 'nanterre']	Lucien	On doit pas s’éterniser dans ce coin. Il y est allé. L’arrivée de nos deux tires devant la crèche de [MASK], dans cette banlieue où la cabane façon clapier dominait, imitait à s’y tromper la descente policière. La pipelette de la bâtisse s’y est méprise.
+
+['un', 'le', 'se', 'que', 'ce']	Marinette	Et il y aurait pas de mérite à se faire une réputation, comme c’était le cas pour notre volière, qu’était connue dans les cinq parties du monde. — C’est prêt, les hommes, vous pouvez passer à table ! on a entendu [MASK] dire soudain.
+
+['ça', 'avant', 'maintenant', 'ce', 'que']	chicandier	Là, sa frime s’est éclairée. Le Dabe charriait pas. Comme [MASK], je le trouvais un peu du bâtiment, ce mec. Levé, il venait maintenant à moi, bousculant les chaises de rotin, dans sa hâte : — Fernand !… Fernand !
+
+[',', '"', '...', ';', ')']	Francis	J’attirais le coup fourré comme le colombin la mouche, depuis quelques heures, et je ne voyais aucune raison pour que cette série s’interrompe, au contraire. « T’es en danger », m’avait affranchi [MASK] ! C’étaient pas des pronostics de cartomancienne, ces mots
+
+['lui', ',', 'moi', '"', 'lui-même']	Tintin	! Il avait dû lui sembler bizarre que je parle si légèrement de laisser emballer [MASK] par les tiges, car sa voix s’était voilée tout à coup. On s’est tus, tandis qu’il décapuchonnait sa roteuse.
+
+['il', '.', '...', 'maman', 'jacques']	Pierrot	— Va falloir le sortir et le mettre à même le coffre ! a dit [MASK]. Y avait évidemment pas d’autre moyen de s’en tirer, mais elle m’enthousiasmait pas, cette manipulation. — Qu’est-ce que t’as idée d’en faire ?
+
+['quelque', ',', 'cela', 'encore', 'que']	Marinette	C’était le mot qui convenait. Dans le format imposant, pour ceux qui aiment, elle devait se classer en première série. Elle me rappelait [MASK] vingt piges plus tôt ; même autorité, et regard semblablement marle et chaud.
+
+['franchement', "c'", 'avec', 'je', 'vraiment']	Max	Quelques secondes ont passé avant qu’il reprenne : — Franchement, [MASK], cette affaire, j’en ai plus rien à foutre… Seulement, à cinquante piges passées, j’admets pas qu’on vienne me faire la loi. — T’as raison. Pierrot !
+
+["s'", 'on', 'se', 'nous', 'après']	Pierrot	On s’est regardés, puis [MASK], tourné vers le vendeur, balancé : — Vous êtes peut-être aussi en cheville avec les pompes funèbres ? Il désespérait celui-là. La bonne bouille optimiste qu’il nous avait montrée tout à l’heure devenait soucieuse ;
+
+['moi', 'lui', 'terre', 'côté', 'elle']	Irène	mais pas de les donner à porter à un autre homme. Je la quittai, sa taule à [MASK], sur la pointe des pieds ; par discrétion d’abord, pour respecter son sommeil, et surtout me défiant fort des attendrissements qui vous saisissent toujours aux moments les moins indiqués.
+
+['il', 'elle', 'on', 'et', 'y']	Larpin	Il nous a regardés tour à tour, le condé, guignant les réactions de nos visages, mais le Gros comme mézigue, on entendait ce nom-là pour la première fois. Y avait pas à s’y tromper. Convaincu de ça, [MASK] a insisté, de façon assez marle, il faut le reconnaître :
+
+['et', 'personne', 'mais', 'lui', 'elle']	Odette	» Servi le premier, et tout de suite, qu’il se trouvait. Jamais elle avait dû rencontrer tant de qualités réunies chez un même personnage, [MASK], et ce qu’elle apportait honnêtement en échange comme plastique, se trouvait aussi de toute première bourre.
+
+['travers', 'front', 'tête', 'corps', 'derrière']	Pierrot	J’ai plongé pour descendre, cette fois, et à point pour cueillir l’ordure qui, du côté où je me tenais, essayait de se glisser hors de la charrette. Utilisant la portière en bouclier contre les balles qui pouvaient lui venir de [MASK], il me tournait le dos.
+
+['je', 'ça', 'tout', 'cela', 'ne']	Lucien	— Sept heures, sept heures un quart ; je rentrais mes boîtes. Saint-Lazare ! Ils devaient y avoir déposé leurs valises à la consigne, les deux marles, en vitesse, avant que [MASK] rabatte à l’imprimerie, pour nous le mettre royalement dans le fion.
+
+['temps', 'vous', 'tant', ':', 'autant']	Max	Un habitué pourtant, qu’il me répétait souvent en reprenant le récit de ses déboires…, un habitué, si chouette client, [MASK], que je lui aurais fait crédit pour un peu, s’il me l’avait demandé ; personne pouvait le prendre pour un pervers
+
+['moi', 'monsieur', 'non', 'ça', 'dit-il']	Pierrot	Des hommes de ce caractère, des hommes capables de proposer une chose pareille, vous en rencontrez plus lerche de nos jours. — Y a pas de raison, [MASK], j’ai protesté. On s’est attelés à deux, y a pas de raison qu’un des deux dételle.
+
+['et', '...', 'mais', ',', 'lui']	Max	J’ai entendu les verrous jouer, puis le bruit d’une chaîne qu’on décroche, et la lourde a pivoté sur ses gonds bien huilés, sans presque de bruit. — Entre, [MASK], a fait le vieux en me tendant la louche…
+
+['</s>', '-', '"', 'il', 'chacun']	Marinette	: — Je donne cent sacs de prime à ceux qui me feront retrouver notre camelote. [MASK] revenait à ce moment, le litron de pastaga sous le bras, quatre guindals et le seau à glace sur un plateau. Le Gros a versé.
+
+['il', 'qui', 'lui', "j'", 'jean']	Tintin	Comme beaucoup de vieux poivrots, [MASK] avait la larme facile. À la pensée de la gentillesse de cette fille dont il ne parvenait pas à lasser la patience, elles lui sont montées aux yeux. — Garde-toi, mon pote ! Je lui ai dit en le quittant…
+
+['travail', 'midi', 'ce', 'soir', 'jour']	Max	— À quatre heures, [MASK], j’allais partir chez le coiffeur… Ils ont sonné à deux. — Comment ils étaient ? — Des petits mecs que je ne connais pas, façon gigolpinces, le plus petit avec une veste claire et un froc foncé, les cheveux en brosse
+
+['moi', 'ce', 'mais', 'voilà', 'toi']	Arsène	On s’est fixés aux châsses, presque durement. — Tu te goures, [MASK], j’ai fait… J’ai pas le temps de t’expliquer, mais, parole d’homme, je cherche pas de misères au vieux ; faut seulement que je le trouve !
+
+['ou', 'mais', 'si', 'etc', 'et']	Fabienne	Vous ne vouliez pas, l’autre jour, vous adresser à la police, soi-disant par souci de ne pas me compromettre, et vous proposez le contraire aujourd’hui… Les policiers vont venir chez moi ? — Ils y viendront si je réclame votre témoignage, [MASK]…
+
+['</s>', ')', '.', '!', '?']	Mézigue	! [MASK], j’avais quand même frôlé d’un poil le seringage… sans compter qu’ils étaient encore bien pour moi, les deux mecs de la route, que ce soient leurs potes ou bien les poulets qui me les mettent sur l’alzingue !
+
+['il', 'qui', 'elle', 'le', 'et']	Pierrot	Vous traînez pas, vous autres. Sans interrompre son découpage, [MASK] sifflait entre ses dents, d’une façon qui, selon qu’on le connaissait ou non, pouvait s’interpréter comme un hommage ou comme un charre. — Augustin Maillotin, ça vous dit quelque chose
+
+['à', 'et', 'de', 'en', ',']	Tintin-le-Sourdingue	T’es seul à l’appareil ?… T’as personne qui esgourde près de toi ? — Rien que des pommes, et d’assez loin. — Bon ! j’ai repris… Fais gy quand même à pas prononcer de noms… [MASK], est-il chez toi
+
+['déjà', 'lui-même', 'dieu', 'napoléon', 'tout']	Pierrot	Le loufiat m’a amené mon demi, et, peu après, j’ai vu poindre la tire du Gros, à deux cents mètres. Je faisais gaffe. Tel que je connaissais [MASK], il avait certes observé ce qui se passait derrière lui, mais deux paires d’yeux valent mieux qu’une, toujours.
+
+['2', 'est', '1', '3', 'subsidiaire']	Aldo	Question [MASK], on a pas eu beaucoup de temps la nuit dernière, et t’avais d’autres soucis avec tes châsses. Il admettait quand même. — Quoi qu’ils me veuillent, j’ai fait, je ne peux pas me laisser alpaguer avant demain soir, et toi non plus…
+
+['cela', 'ça', 'je', 'celle-ci', 'celui-ci']	Lucette	On entendait plus rien que le tintement clair de l’argenterie heurtée. On a sonné à ce moment à la grande lourde. Pour faire drôle, j’ai demandé, alors que [MASK] se tirait ouvrir : — Il arrive jamais que d’anciens michetons, sachant pas, reviennent ?
+
+['il', 'elle', 'on', 'et', 'qui']	Fabienne	Il n’y était question que de se voir ou pas se voir. Or, on pouvait pas se voir, ça c’était la certitude ! Le combiné, que j’avais placé sur mon oreille attigée, me faisait mal. Je l’ai passé de l’autre côté. [MASK] continuait à renauder.
+
+['le', 'la', "l'", 'un', 'ce']	Blanc-Blanc	Ils devaient, ces trois mecs, amorcer depuis un bout de temps les deux pétasses, à grand renfort de vannes et de coup de châsse prometteurs. Surtout [MASK], dont le bréchet bombé faisait savoir qu’il se sentait de taille à se les farcir facilement toutes les deux.
+
+['</s>', 'ne', 'ça', 'on', 'ca']	Odette	il a fallu s’exécuter. C’est peut-être le complexe du libérable qui voit s’approcher la classe qui a joué, mais ça n’a pas été toc du tout. [MASK] s’était pas attardée, comme j’avais craint qu’elle le fasse.
+
+['h', 'nouveau', '...', 'partir', 'm']	Pierre	Quelques pas à l’écart, le mari de la môme jactait à [MASK], et je voyais mon cousin bidon détourner par instants son regard vers moi, puis hocher la tête, comme pour dire à son ami : « C’est tout naturel, voyons, comptez sur moi
+
+['ce', "l'", 'la', 'son', 'julien']	Pierrot	Mais, le moyen de le faire entendre à [MASK], qui répétait, tout en se donnant à fond : — Tu as osé nous repasser, enviandé !… Tu t’es permis de nous faire ça, à nous ? C’était nos patins à tous les deux qu’il prenait.
+
+['tout', 'il', "m'", 'elle', 'qui']	Marinette	— Dis-nous ce qu’elle maquillait, j’ai demandé, vite, avant que ne se déclenche le pétard. Ayant déjà pas très faim, je souhaitais au moins jaffer tranquille. Avec un regard qui signifiait que c’était uniquement pour moi qu’elle rengraciait, [MASK] a dit
+
+['2008', '2011', '2010', 'demain', '2009']	Tintin	Je ne devais pas compter dessus, pour aller dans mes vieux jours me défendre aux vertiges de la faim, ou au vieux paludéen. J’en arrivais presque à le regretter, étant donné que les vieux jours de mézigue, ils allaient peut-être même pas valoir ceux de [MASK].
+
+['la', "l'", 'fer', 'le', 'son']	Pierrot	De quelque manière qu’on s’y prenne, la malle refusait d’entrer dans la Frégate de [MASK] ! Dans le coffre, fallait même pas y songer. On restait là, comme deux cons, en bras de chemise, tout mouillés de sueur de nos efforts, et pas autrement joyeux.
+
+['de', 'par', 'ce', ',', '(']	Marinette	Toujours sous le coup de cette sorte d’allégresse qui avait déjà inquiété [MASK], il remarquait plus rien. Le pif lui faisait défaut aujourd’hui, à mon pote. Mais, puisqu’on m’amenait un ami, valait mieux me mettre dans le ton, qui était à la joie
+
+['elle', 'israël', 'autres', 'hitler', 'eux']	Irène	J’avais plus assez de salive, tout à coup, dans la trappe, pour jacter. De la tête, j’ai fait oui. Concernant n’importe quelle autre fille, cette inquiétude aurait paru légitime ; à propos d’[MASK], je la trouvais pas justifiée.
+
+['hier', 'automne', 'hiver', 'autrefois', 'horace']	Aldo	« le fumier d’[MASK] a encore fait des siennes ! » j’ai pensé. Le Gros, je le voyais, démarrait sec derrière moi. Avant que j’ai eu le temps de gauchir pour stopper devant chez moi, il m’a doublé.
+
+['tous', 'toi', 'nous', 'allah', 'lui']	Max	— Fous-lui la paix à [MASK] ! qu’il prévenait… Fous-lui bien la paix ! Sans lui, Dieu sait où je serais ! — Je devrais le remercier, peut-être, de t’aider à faire tes conneries. On voit le ton.
+
+['</s>', 'il', '_', '-', '"']	Pierrot	Il se marrait si fort, l’inspecteur joli, qu’il y avait pas à douter qu’il médite de lancer une salade. [MASK] l’a devancé : — Vous trouverez tout ça au fichier, mon ami, il a expliqué…
+
+['beaucoup', 'bien', 'à', 'de', 'en']	Roger	C’était, d’apparence tout au moins, un fort gentil garçon, étonnamment jeunot d’allure, et qui, de traits, me rappelait [MASK], un des plus chouettes avocats que j’aie jamais rencontrés, un mec qui croyait si peu à la justice qu’un beau jour il avait tourné truand.
+
+['maman', 'marie', 'la', 'mère', 'celle-ci']	Larpin	C’était son portrait parlé que j’étais en train de faire là, pas à la façon de [MASK], bien sûr, mais la môme s’est tout de suite reconnue. Il y a eu un petit silence entre nous.
+
+['autres', 'propriétaires', 'autorités', 'parents', 'français']	lichedus	— Y a ce qu’il faut pour écrire, il m’a dit, d’entrée, frappant sur ses poches qui apparaissaient garnies. Preuve qu’il avait pu atteindre sa cabane et en revenir sans encombres. J’ai même pas demandé des nouvelles des [MASK] ;
+
+['</s>', '"', 'lui', 'moi', '_']	Fabienne	C’est là-dessus qu’on se divisait, lui s’imaginant certain d’amener la clientèle des gros schpileurs chez nous, alors que j’y croyais pas, moi. [MASK], patiente, attendait que j’en sorte, de ma méditation.
+
+['</s>', '-', 'elle', 'il', 'on']	Irène	— S’il y est pas ? — Attendez-moi, qu’on le cherche ensemble ! Lui ayant serré la main, qu’elle avait tiède et douce, je me tirai. [MASK] m’a rappelé. De sa caisse directement, elle venait d’extraire une liasse.
+
+['peu', 'jour', 'homme', 'accident', 'médecin']	Jules	J’hésitais un peu à appuyer sur le bouton de la sonnette. Si j’allais la réveiller, cette môme ? Elle avait un turf à rentrer à des heures inhumaines, et dormait peut-être encore. Un [MASK] ? Je croyais pas en voir surgir un ;
+
+['moi', 'nous', 'lui', 'eux', 'toi']	Arsène	Je croyais l’entendre s’expliquer de sa voix lasse, pleine de sommeils avortés, et je ne me sentais même pas la force de me prendre de rif contre ce bouseux ; tout était de ma faute ! Devant chez [MASK], j’ai gardé le bahut dont le chauffeur drivait bien.
+
+['à', 'et', ',', 'ce', 'la']	Pierrot	J’ai fait part à [MASK] de ce péril. — Et tu crois qu’ils seront beaucoup plus longs à l’apprendre, ton matricule, les motards de la routière ? il demandait. C’était réel. On l’avait dans le fion d’une façon ou de l’autre
+
+['place', 'internet', 'scène', 'le', 'facebook']	Aldo	Sortir cet extirpateur du champ, le placer en plein travers du chemin qu’il obturait parfaitement, avait été le dernier turbin pénible de cette entreprise ; maintenant en venait la partie agréable. J’en riais tout seul maintenant, des imaginations que j’avais pu me faire sur [MASK].
+

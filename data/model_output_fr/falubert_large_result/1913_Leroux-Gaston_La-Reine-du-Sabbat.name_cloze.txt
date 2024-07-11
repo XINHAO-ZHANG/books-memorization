@@ -1,0 +1,200 @@
+['.', '"', 'la', 'l', 'salon']	Salomé	danse de [MASK] ». On essayait, dans le moment où la passion de l’archiduc pour la baronne paraissait dangereuse, de lui donner du goût pour cette fille dont l’art troublant et lascif avait fait courir toute la capitale.
+
+['-', 'son', '"', "l'", 'ces']	Petit-Jeannot	» – Oui-dà ! Elle a dit ça ? Elle ne veut pas la mort de [MASK] ? – Elle a même ajouté : « Puisqu’il ne me garde pas, c’est moi qui vais le garder. Allons le chercher. »
+
+['...', '-je', ',', 'ans', 'je']	Karl	[MASK] ! vivrais-je mille années… je verrai toujours mon père sanglant, s’abattant, le front ouvert, jusque sur ma bouche… Ma bouche a baisé sa blessure ! ma bouche a été pleine de son sang !
+
+['Il', 'Elle', 'M', 'il', 'A']	Myrrha	« – Qu’est-ce que vous voulez que j’en fasse ? répondit [MASK] avec hauteur. « – Vous êtes une honnête fille, lui dit le directeur, et vous ne pouvez, en effet, après un pareil scandale, garder ces bijoux.
+
+['re', 'la', 'se', 'le', 'à']	Jeannot	Mais ce cri, la malheureuse n’eût même pas, je crois bien, le temps de l’entendre… car… car… Mais qu’est-ce que vous avez donc comme cela à regarder tout le temps à travers les carreaux ? – Va, [MASK], va…
+
+['Elle', 'elle', 'Il', 'il', 'et']	Karl	– Emmenons les trois compères au château, lui dit-elle. Là-bas ils pourront parler s’ils sont bavards et la cage de la tour Cage-de-Fer n’est point faite pour les chiens. [MASK] eut un sourire sinistre.
+
+['il', 'elle', 'Il', 'Elle', 'on']	Rynaldo	Encore quelques marches et il fut dans cette lueur. Encore quelques pas, et il fut à l’intérieur d’une église qu’il reconnut tout de suite. Il était là dans l’église des Augustins. Et [MASK] se retourna pour voir d’où il sortait.
+
+['présent', 'nouveau', 'moitié', 'droite', 'part']	Régina	– Oh ! souffla-t-il à [MASK]… on marche dans l’escalier ! C’est lui ! Il arrive ! Vite ! Cachons-nous ! Il entraîna la jeune fille derrière la palissade, sur laquelle on rejeta la tapisserie… – Mais il n’est pas tout seul !
+
+['elle', 'lui', 'terre', 'Jeanne', 'eux']	Myrrha	On se rua sur [MASK], on la renversa sur la table, on la désarma en lui tordant le poignet ; l’un des misérables, qu’elle ne pouvait point voir, la secouait par derrière, avec sa chevelure qu’il lui tirait à pleines mains.
+
+['elle', 'puis', 'Elle', ',', 'et']	Stella	. Je ne vous quitte plus ! – Ni moi non plus ! fit une bonne petite voix aigrelette. [MASK] tourna la tête à droite et aperçut un grand, long, dégingandé corps qu’elle connaissait bien. – Tiens !
+
+['son', 'sa', "l'", 'tous', 'la']	Myrrha	Il y passa le reste de la nuit au milieu des plus étranges et des plus sinistres réflexions. Cependant il pensait peu à la trahison dont il avait été certainement victime et au sort qui l’attendait : le destin de [MASK] le préoccupait davantage.
+
+['le', "l'", 'la', 'de', ',']	Mgr	J’irai me jeter à ses genoux ! – Sire, j’oserai dire à Votre Majesté qu’il vaudrait mieux pour tout le monde ici que Sa Majesté interrogeât une fois, une seule, sérieusement, [MASK] le duc de Bramberg ou le roi Léopold-Ferdinand…
+
+['il', '</s>', 'ce', 'en', 'Il']	Clémentine	L’empereur laissa passer cette crise nerveuse. [MASK] revint à elle pour embrasser avec reconnaissance les mains de son généreux et désintéressé protecteur. Sur ces entrefaites, le fiacre s’arrêta devant une maison de modeste apparence de Thuberstrasse, dont les fenêtres donnaient sur des jardins.
+
+['il', 'elle', 'on', 'en', 'elles']	Ismaïl	Il versa le contenu des bouteilles, dont aucune n’était pleine, dans quelques-uns de ces verres et déposa ceux-ci suivant certaines règles qu’[MASK] semblait connaître. Les différents niveaux des liquides dans les verres devaient correspondre à des lettres, car l’un des garçons du laboratoire lut couramment et à haute voix :
+
+['et', '-', '.', 'etc', 'etc.']	Brixen	Les champignons n’ont rien à faire dans cette histoire… nous étions quatre à en manger, et ils ne nous ont point incommodés… Ma fille a été empoisonnée avec de l’arsenic, [MASK] ! – C’est impossible ! – Pourquoi donc ?
+
+['S', 'que', 'ELLE', ',', '...']	François	– Oui, sire, par des champignons… – Non, monsieur ! répliqua [MASK] d’une voix basse et hésitante, elle est morte assassinée par mes ennemis… – C’est impossible, sire ! car Votre Majesté n’a point d’ennemis… – Qu’en savez-vous, monsieur
+
+['de', "d'", 'Tu', 'tu', 'et']	Régina	! Ce n’est pourtant pas la faute de maman si elle est devenue folle ! Mon Dieu ! Comme le malheur des reines est terrible ! Ca ne te fait pas peur, toi, de devenir reine, [MASK] ? Impératrice ? Ah !
+
+['France', 'Paris', 'guerre', 'fer', 'Bretagne']	Croatie	Car le ban de [MASK], je m’en moque ; mais l’écuyer, je le veux ! L’aurai-je ? lui demanda-t-elle en terminant, et cette fois en le brûlant à son tour de son regard de flamme.
+
+['et', 'il', ',', 'roue', 'qui']	Stella	[MASK] arrêta son cheval… et la roue tourna quelques tours encore, puis s’arrêta elle aussi, se détendit comme si un ressort l’avait disloquée tout à coup, et apparut enfin dans la lumière bleue de la lune, en forme de nain parallélépipède à cinq pattes.
+
+['triste', 'drôle', 'amusant', 'marrant', 'gai']	Petit-Jeannot	– Il y a cinq ans, vous étiez gai, amusant, jovial et maintenant vous sifflotez tout le temps d’un air triste. – C’est vrai ! Je suis triste, [MASK]. – Vous êtes bougon ! – Je suis bougon, c’est vrai !
+
+[',', 'de', 'se', 'et', 'elle']	Stella	[MASK] fit entendre dans la nuit quelques paroles amies à l’adresse du vaillant animal qui l’avait délivrée d’une garde encombrante. Elle lui laissa quelques moments de répit, et puis elle le fit repartir à belle allure. Soudain, le rideau des nuages se déchira ;
+
+['tous', 'Pierre', 'celle-ci', 'beaucoup', 'personne']	Réginald	Ils se tenaient par la main… Celle de la petite était glacée et tremblait. Ses hésitations parurent suspectes à [MASK]. Où allait-il ? Où le conduisait-on ? Qu’est-ce que l’on faisait de lui ? Il n’en savait rien !
+
+['un', 'une', 'tout', 'pourquoi', 'le']	Stefano	Sans doute, ils ont fui, croyant ne pas laisser de traces, mais il y a quelqu’un qui doit bien les connaître, et par lui, nous saurons qui est le « petit bourreau chéri », puisqu’il est venu avec lui dans le pays : c’est [MASK].
+
+['je', 'Je', 'on', 'il', 'qui']	Ismaïl	! [MASK] l’a vu ! Viens, mon amour ! Sans quoi il va nous tuer, comme tous les autres ! Tu vois bien, tu trembles, toi-même… Que veux-tu faire contre lui ! Rien !
+
+[',', 'celui-ci', 'jambes', 'tout', 'celle-ci']	Ismaïl	Et puis, tout à coup, elle fonça sur le jésuite, le prit à la gorge, le rejeta hors de son chemin, écarta brutalement [MASK] et s’engouffra comme une furie dans le trou de la porte secrète. – Qu’a-t-elle ?
+
+['Autriche', 'et', "l'", 'la', 'son']	Ismaïl	Le prince et la jeune fille se prirent à rire de compagnie. La connaissance était faite. Depuis, un singulier hasard, servi merveilleusement par le domestique particulier de l’empereur, [MASK], en qui l’archiduc Adolphe avait toute confiance, avait souvent réuni l’archiduc et la petite baronne.
+
+['alors', 'voyons', 'maintenant', 'dis-je', 'toi']	Adolphe	– Je sais encore… je sais tout ce qui s’est passé… – Alors, plains-moi, car je t’aime toujours… Et il s’approcha d’elle, mais elle recula. – Et maintenant, [MASK], que vas-tu faire ?
+
+['douleur', 'douleurs', 'victimes', 'rage', 'désespoir']	Gisèle	L’explication éclatante arriva en coup de foudre. Pendant quelques instants on n’entendit plus rien que les gémissements de [MASK]… – Que d’horreur ! que d’horreur ! Mon Dieu ! – Plus encore que vous ne pensez, Majesté.
+
+["l'", 'le', 'leur', 'un', 'vieux']	Petit-Jeannot	Et là, tout près, la Fée dorée parle et les deux hommes lui répondent, mais si bas, si bas, qu’ils ne peuvent être entendus que de [MASK], qui ne les comprend pas parce qu’il ne sait pas assez d’allemand.
+
+['Il', 'il', 'Dieu', "c'", "C'"]	Stefano	Alors, si tu n’es pas encore fort comme un lion, sois rusé, toi. « J’étais déjà loin. [MASK] était si grand qu’il avait bien une tête au-dessus de la tête des autres hommes. Je le retrouvai, le soir même.
+
+['elle', ',', 'et', 'jument', 'Elle']	Berthe	[MASK] restait seule dans l’enclos Elle s’apprêtait à en sortir à son tour quand un vague gémissement parvint à son oreille distraite. Elle écouta attentivement. Le gémissement recommença. Elle se trouvait dans un vaste jardin fruitier enclos de murs peu élevés et contigu à la haute et vieille bâtisse.
+
+['français', 'italien', 'européen', '...', 'allemand']	Petit-Jeannot	– Mais elle ! sans doute, répliqua comme un grand politique [MASK]… Elle sans doute, puisque nous y allons… Elle, la Reine du Sabbat ! Partie 3 LA HOFBURG Chapitre 1 L’EMPEREUR DES LOUPS L’empereur François est seul dans son cabinet de travail.
+
+['elle', 'il', 't-elle', 'tous', '"']	Hackler	Et tous frissonnèrent. Et elle les regarda à tour de rôle de façon si sauvage qu’ils comprirent que cette petite affaire ne se terminerait point à l’amiable. « – Et quand tu m’auras trouvé, demanda [MASK], qu’est-ce que tu feras ?
+
+['Elle', 'Et', 'Il', 'et', 'elle']	Rynaldo	– Oh ! par exemple, ça, c’est un numéro ! Qui avait dit cela ? Qui ? C’était une voix d’homme qui avait prononcé cela, et accompagné de quel ricanement ! D’où venait-elle ? [MASK] se dressa, ivre de fureur, sur ses étriers.
+
+[',', 'se', 'le', 'ne', 'de']	Régina	[MASK] fait de même… ils redressent la tête tous deux… – S’il était dans la chambre, on l’entendrait d’ici… Quand il est dans la chambre… il se croit si seul au monde qu’il parle tout haut ! qu’il gémit tout haut
+
+['il', ',', "qu'", 'et', 'elle']	Petit-Jeannot	[MASK] avait découvert dans un buffet un « en-cas » tout préparé dans une vaisselle plate, qui n’avait pas manqué d’attirer son attention, et comme les terribles émotions qu’il venait de traverser lui avaient enlevé tout appétit, il se contenta de ranger tranquillement le plat d’argent sous sa jaquette.
+
+[',', 'de', 'le', 'la', "l'"]	Darius	[MASK], épuisé, se tenait près d’elles haletant, fumant, soufflant mais vainqueur, ayant réussi à les sauver ! La jeune amazone tenait toujours serrée éperdument contre sa poitrine la malheureuse folle et sanglotait en couvrant sa tête de baisers : « Maman ! Maman ! Maman
+
+["s'", 'elle', ',', 'et', 'Elle']	Régina	[MASK] en était bien sortie. Il fit ainsi le tour de l’église et l’examen des portes, et ce fut tout près de la sacristie qu’il trouva une petite porte dont les verrous n’étaient point tirés à l’intérieur. Il souleva la clanche.
+
+['lui', 'elle', 'lui-même', 'il', 'coup']	Karl-le-Rouge	Quant à [MASK], il vient de devancer sa meute, un moment arrêtée, et, penché sur l’encolure de son cheval, il va prendre, vivante, dans ses bras, la Dame de minuit, qu’il voulait avoir, même morte !
+
+["l'", 'son', 'la', 'sa', 'ses']	Milly	Il lui semblait bien avoir reconnu et la silhouette et la voix de [MASK]. Il s’arrêta sous un bec de gaz, vit qu’il était seul et reconnut tout de suite son papier, son parfum. Il décacheta. Il reconnut son écriture.
+
+[',', 'de', 'ée', 'la', 'une']	Stella	[MASK], haletante d’émotion, s’était débarrassée de ses voiles, et ses yeux de feu perçaient les ténèbres. Elle marchait dans cette nuit comme en plein jour. Elle avait hâte d’être arrivée… de voir… d’agir… Deux noms étaient sur ses lèvres…
+
+['ARTICLE', 'ON', 'ELLE', 'NOUS', ',']	PETIT-JEANNOT	Alors commença une effroyable orgie, comme jamais la crypte des Saintes-Maries-de-la-Mer n’en avait vu. Ce fut un tel sabbat que l’on appela la reine qui avait été élue cette nuit-là : la Reine du Sabbat. Chapitre 3 OU [MASK] COMMENCE A SE REPENTIR D’AVOIR ETE TROP CURIEUX
+
+['regard', 'et', 'amour', 'suite', 'que']	Petit-Jeannot	: – Ne me trouvez-vous point suffisamment décolletée ? Et écartant son amant : – Je le veux ! prononça-t-elle d’un ton qui resta sans réplique, car le prince la suivit. [MASK], qui avait entendu tout l’entretien, n’en respirait plus.
+
+['il', 'le', 'Pierre', 'elle', 'homme']	Petit-Jeannot	! Ils étaient arrivés dans un des coins les plus profonds de la crypte ; et là, [MASK], dont les yeux commençaient à se faire à l’obscurité, distingua un grand nombre d’ombres assises et qui ne remuaient, ni ne parlaient, ni ne chantaient.
+
+['-', 'gauche', 'qui', 'Voltaire', 'D']	Rynaldo	– L’audace de [MASK] a toute la folie de la jeunesse, mais son langage est si séduisant, paraît-il, qu’il entraîne facilement derrière lui les plus sages de la bande. Tant est qu’il les a décidés à accomplir l’un de ces projets extrêmes qui conduisent généralement leur auteur à l’échafaud !
+
+['Dieu', 'celle-ci', 'celui-ci', 'Marie', 'Napoléon']	François	Il y avait là un si prodigieux désespoir, une douleur si immense et si sincère, une honte si formidable, que l’impératrice eut enfin pitié de tant de misère. Elle fit un mouvement vers la malheureuse pour la soutenir et elle pria [MASK] de lui laisser le soin de l’interroger.
+
+[',', 'le', 'de', "l'", 'se']	François	[MASK] avait bondi, et déjà il escaladait les étages quand une furie apparut qui se tordait les mains. – Mon fils ! On m’a volé mon fils ! C’est lui ! Et elle roula dans l’escalier, s’ouvrant le front sur un coin de marche, inondant les degrés de son sang…
+
+['monseigneur', 'je', 'il', 'Jean', 'non']	Stella	Elle ne m’a donné la liberté que pour m’attacher à sa maison comme son domestique. – Non ! répondit [MASK] ; mais pour faire de vous un écuyer, et vous donnerez aussi des leçons de romani à l’impératrice Gisèle. – Comment savez-vous cela ?
+
+['donc', ',', 'diable', 'comment', 'alors']	Petit-Jeannot	Comment [MASK] était-il parvenu à se glisser dans cette foule fanatique ? Il avait été certainement servi par la connaissance qu’il avait de la langue romani et des mœurs des bohémiens. Et puis il avait eu une imagination que nous connaîtrons bientôt, de laquelle du reste devaient résulter pour lui les plus graves conséquences.
+
+['il', 'Il', 'elle', 'Elle', 'lui']	Henri	Il demanda encore à son beau-père si celui-ci voulait voir ses petits-enfants. Mais [MASK] répondit : « – Non, non ! Emporte-les comme ça ! J’aime mieux les voir quand ils ne seront plus là, comme s’ils étaient vivants !
+
+['se', '...', "s'", 'tout', 'porte']	Rynaldo	La porte de la cellule était restée entr’ouverte. On ne craignait guère que [MASK] s’échappât, à cause des chaînes dont il était chargé. Par la porte, une voix grave et un peu cassée, la voix d’une vieille dame, appela la princesse…
+
+['tout', 'ce', 'la', 'le', 'toute']	Rynaldo	parce qu’elle était prononcée avec cette voix-là, parce que [MASK], malgré l’invraisemblance, se criait dans son cœur : « C’est elle ! c’est elle ! c’est elle ! » Il essuya la sueur qui trempait son front pâle et répondit :
+
+['tous', 'personne', 'Dieu', 'Pierre', 'Napoléon']	Réginald	Un billet pour vous… L’ombre, une petite femme, la tête toute empaquetée d’une capeline, s’enfuyait déjà, la commission faite… remontant les Champs-Elysées déserts. Mais il ne pouvait, dans l’esprit de [MASK], y avoir de doute.
+
+['le', 'la', '...', 'là', ',']	Riva	! L’empereur regarda fixement le comte, puis se leva et lui demanda à brûle-pourpoint : – Qu’est-ce que vous pensez de [MASK] ? – Que c’est un homme dont le métier est de voir tout en rouge
+
+['Lui', 'Celui-ci', 'Il', 'Paul', 'Pierre']	Petit-Jeannot	? (Et il dit cela dans le plus pur français.) [MASK], qui jusqu’alors avait entendu parler allemand, en fut si étonné qu’il dit : – Eh bien ! qu’est-ce qu’il me veut, celui-là ?
+
+['Comment', 'Bien', 'Non', 'Pourquoi', 'comment']	Jeannot	Le jeune homme attesta le ciel qu’il n’avait jamais été aussi libre. – C’est bien. Je suis le pharmacien d’en face. Je te prends à mon service. Tu es le garçon que je cherche. – Pourquoi faire ? demanda [MASK].
+
+['joie', 'coeur', 'tous', 'toi', 'bonheur']	Régina	Que voulez-vous donc ? – Etre aimé ! Le rire de [MASK] monta dans le ciel pur. – Ah ! que voilà une bonne nouvelle ! fit-elle, et nous allons courir l’apprendre de compagnie aux paysans de la vallée !
+
+['a', 'il', 'hôte', 'lui', "l'"]	François	et [MASK], frappé à la cervelle, ouvre les bras et serait tombé comme une masse si, heureusement, il n’avait eu derrière lui les deux bons bras accueillants de son hôte… car il vient de s’apercevoir que la suspension est en chair humaine !
+
+['son', 'sa', 'la', 'le', 'ses']	Régina	caressante. Il releva son pauvre visage creusé par l’angoisse de la résolution qu’il venait de prendre. Il reconnut [MASK]. – Mon enfant chérie, murmura-t-il, c’est encore toi qui viens me consoler. Tu n’es donc pas encore couchée ?
+
+[',', 'le', 'la', 'm', '...']	Neustadt	Aie pitié de nous ! Ayant dit cela, il y eut un effrayant silence dans l’immense salle des fêtes de la tour Cage-de-Fer de [MASK]… un silence tout vibrant encore de l’appel désespéré de l’empereur, et tout le monde autour de l’empereur tremblait…
+
+['mon', 'ma', "l'", 'bien', 'votre']	Régina	? – Ma foi, elle en fera ce qu’elle voudra ! Allez, mon ami… et déposez-lui cette boîte dans la main, car j’oubliais de vous dire, mon ami, que cette lingère si habile est aveugle. – Aveugle, [MASK] !
+
+['me', 'ont', 'Me', 'Elle', 'elle']	Rynaldo	Après quelques minutes, où le frère et la sœur poursuivaient leur terrible pensée en silence, [MASK] dit d’une voix sourde : – Si les « Deux heures et quart » savent, pourquoi ne me parlent-elles pas… de ça ?
+
+[',', 'et', 'elle', 'il', 'se']	Petit-Jeannot	[MASK] fut, en trois bonds, à l’entrée de la caverne, ramassa ses petites filles, et revenant sur ses pas, les mit en place des poupées dans le cercueil qui, tout petit qu’il était, se trouvait encore assez grand pour les contenir toutes les deux.
+
+[',', 'et', 'encore', 'cela', 'même']	Régina	Le malheureux monarque redoutait encore quelque malice de l’amour qui déjà avait fait tant de ravages dans sa maison, et il ne pouvait s’empêcher de se demander si sa nièce n’était point mûre, elle aussi, pour quelque scandale. Il interrogea donc [MASK] bien franchement.
+
+['on', 'se', 'il', 'les', 'en']	Régina	– Ah ! si on pouvait les interroger ! que de choses certainement elles nous diraient, les petites demeures abandonnées ! Or au moment même ou [MASK] disait cela, il y eut cent cris sur la place du village et tous les gens accoururent…
+
+['dit-il', 'dit-elle', 'dis-je', 'seigneur', 'sire']	Stefano	Puis, il y eut un silence terrible et, quand on entendit à nouveau le rire du colosse, le crime était consommé ! « – Et maintenant, [MASK], voici de l’or, va-t-en, quitte le pays ! Cette nuit même !
+
+['et', 'il', 'Il', ',', 'qui']	Brixen	– Sans lui, sire, nous ne serions pas où nous en sommes. – Où vous en êtes, comte, répliqua Sa Majesté, sur le ton de la plus parfaite indifférence. [MASK] fut frappé de l’accueil qu’il recevait de l’empereur.
+
+[',', '...', 'tout', 'est', 'de']	Milly	Tu vas voir ce que tu vas faire de tes doigts, et tu vas voir ce que tu vas faire de ses yeux. Où est mon petit cadeau de noces ? – Voilà la petite boîte d’ébène, fit [MASK], je l’ai apportée. –
+
+['la', ',', "l'", 'leur', 'les']	Stella	A l’intérieur de la cour toutes les portes étaient béantes sur des pièces obscures… Dans la salle où ils avaient attendu [MASK], tout à l’heure, pendant qu’elle changeait de costume, un dernier tison au fond de l’âtre jetait sa dernière lueur.
+
+['derrière', 'de', 'moi', 'je', 'mes']	Orsova	Depuis toutes ces terribles histoires, il me semble toujours entendre quelqu’un marcher derrière moi, et la nuit, je me réveille en sursaut, parce que je rêve que j’entends marcher dans les murs… Qui attends-tu ce soir ? – [MASK].
+
+['toi', 'moi', 'rage', 'lui', 'douleur']	Rynaldo	aussi fort que cela, ma foi ! Oh ! c’était terrible… mais je n’aurais pas cru qu’on pouvait l’entendre si loin dans la forêt ! C’est cet autre fou de [MASK] que tu as fait enfermer là qui crie maintenant, c’est sûr.
+
+['écoute', 'Ecoute', 'Écoute', 'oui', 'regarde']	Rynaldo	– Ecoute, [MASK], nous vaincrons tout seuls ou nous mourrons ensemble ! D’un coup d’œil elle embrassa le champ de bataille ! – Il est peut-être encore temps ! ajouta-t-elle, et rien n’est encore perdu !
+
+['Margaret', 'de', 'Mary', 'tu', 'te']	Marguerite	et tu nous jouais tes compositions, toujours pleines de tristesse et de grâce… Souviens-toi du « lied » dont tu me fis présent et que tu m’avais dédié… et qui commençait ainsi : Dei gedenke ich, Margaret ! (Je me souviens de toi, [MASK] !
+
+['et', 'de', 'en', 're', ',']	Darius	Et c’est ainsi que [MASK] refit le tour de la piste, comme s’il recommençait un de ses exercices quotidiens. En faisant le tour de cette piste, il passa devant la loge dans laquelle se trouvait l’admirateur de Myrrha. «
+
+[',', 'que', 'le', 'et', '</s>']	Karl	Mais [MASK], duc de Bramberg, que l’on ne nomme point le Rouge pour rien, a résolu de mettre fin à cette scène rapide et terrible d’une façon digne de lui. Ecartant les canonniers bosniaques qui hésitent, il se dispose à accomplir leur besogne.
+
+['tout', 'ami', 'dame', 'dit-il', 't-il']	Jeannot	– Donnez-moi l’autre, reprit [MASK], et vous verrez si on vous les rend en bon état ! – Vous me jurez cela sur vos têtes ? – Ma foi, un serment de plus ou de moins, au point où nous en sommes !
+
+['guet', 'garde', 'défense', 'fer', 'contrôle']	Séverin	le voilà qui débouche avec sa troupe de bandits et ses Dalmates et ses Italiens, tout là-haut, derrière la tour de [MASK]… Voilà toute la petite armée ! On entend son galop de tonnerre qui ébranle la terre ! Et cette tempête déferle dans la plaine !
+
+['le', "l'", 'la', 'un', 'LE']	François	– Et bien ? demanda simplement [MASK]. – Et bien ! répondit vivement le jésuite, nous faisons coup double sire ! et nous allons en finir en même temps avec les délégués et « les Deux heures et quart ».
+
+['Je', '...', 'je', 'JE', 'me']	Réginald	Eh bien tu sauras tout. Tu en sauras beaucoup plus long que moi qui ne sais rien. Sont-elles tes filles ? Sont-elles les miennes ? Alors, dans le doute… Tu ne sais pas ce que je fais, moi, [MASK], dans le doute
+
+[':', ';', ',', 'le', 'M.']	Miss	Il les parcourut, arrêta principalement son attention sur une ou deux lettres, et dit : – Parfait ! Ma voiture est en bas ? – C’est elle qui m’a amenée ici, répondit [MASK]. Il paraît qu’elle m’a attendue plus d’une heure au « Home ».
+
+['et', 'elle', 'Elle', 'on', 'il']	François	? – Les princesses sont très populaires, sire… – Si populaires soient-elles, elles ont dû rentrer bien vite… ce qui prouve qu’elles n’ont pu aller bien loin. [MASK] poussa encore un soupir.
+
+['Il', 'il', 'Celui-ci', 'Elle', 'et']	Jacques	! En voilà ! Et elle expire… [MASK] s’est relevé, a posé sa main sur l’épaule du moine prosterné et sanglotant. – Partez, mon frère, lui dit-il… et emportez cette noble dépouille.
+
+['son', 'ses', 'la', 'deux', 'trois']	Carinthie	Il ne répondit pas… Il accepta la double tutelle des deux jumelles de [MASK], sur lesquelles il s’appuya pour regagner son fauteuil. Il avait vieilli de dix ans. En se laissant retomber à sa place, on l’entendit qui murmurait : – Mon Dieu !
+
+['Oui', 'Oh', 'oui', 'Non', 'alors']	Karl	! Il y a des moments où je croyais que je vous faisais peur… quand, par surprise, je parvenais à vous serrer dans mes bras, je vous sentais horriblement trembler. – [MASK], je tremblais de bonheur, mon ami !
+
+['Il', 'il', 'On', 'on', '</s>']	Régina	Il sentit qu’il était rejeté, précipité dans du noir… et il s’étala de tout son long, honteusement, dans les ténèbres. [MASK] avait fait jouer la porte secrète, et venait de l’enfermer dans le corridor qui conduisait au souterrain de l’église des Augustins.
+
+[',', 'et', 'ce', 'tout', '...']	Darius	Elle ne put retenir un cri de stupéfaction, et elle éperonna [MASK] qui bondit à nouveau. Mais les deux choses suivaient avec une régularité si parfaite qu’elle eût pu croire qu’elles étaient attachées à son propre mouvement, que la même force et la même ardeur mécanique les poussaient en avant.
+
+['Elle', 'Il', 'elle', "s'", "S'"]	Rynaldo	tout à l’heure ! Elle eut un geste furieux de son poing crispé : – Mon fiancé ! Vous allez tuer mon fiancé ! Vous allez tuer le duc ! [MASK] éclata : – Oui, le duc ! Votre fiancé ! Votre fi-an-cé !
+
+['oui', '-', 'là', 'et', 'à']	Martin	! – Il m’avait payé d’avance au nom du Baptiste… j’ai bien soigné la commande… Tu as vu les horloges, [MASK] ? – Oui ! Elles sonnaient toutes ensemble comme un régiment. Quel orchestre ! Et quelles têtes elles avaient !
+
+[',', '...', 'S', '"', 'et']	Petit-Jeannot	! [MASK]… à plus tard les démonstrations ! Nous n’avons pas une minute à perdre… Mais qu’est-ce que tu as fait de tes deux marmots ? – Ils étaient trop encombrants, répondit le jeune homme, et je les ai échangés contre deux poupées…
+
+[',', 'boire', 'terre', 'vin', 'ale']	Myrrha	– L’homme à la tête de veau ! s’écria-t-il. Après avoir remis la potion à [MASK] il roula à travers la pièce, bousculant les meubles, enfonçant les portes, traversant le corridor et se jetant dans l’escalier.
+
+['et', 'qui', 'lequel', ',', '-']	Edouard	Les trois familiers s’assirent à leur tour à la table de tarok – qui est une sorte de whist autrichien. [MASK], selon son habitude, avait grimpé sur les genoux de son vieux papa, et se disposait à suivre la partie en jouant, d’une main caressante, avec la belle grande barbe blanche.
+
+['sa', 'la', 'son', "l'", 'notre']	Riva	Oui, je jure ici devant ma souveraine que je ne me suis point mis en travers de vos desseins, monsieur. Le père Rossi tendit la main à [MASK]. – Je vous crois, dit-il… Et maintenant plus que jamais, unissons-nous tous pour le salut de l’empire.
+
+['roi', 'tous', 'souverain', 'prince', 'souveraine']	Petit-Jeannot	Mais sa défense de [MASK] fut courte et inutile, car l’empereur d’une voix terrible prononça qu’il n’avait plus de pitié dans son cœur pour personne… et que si la souveraine n’avait plus la force de soutenir un pareil spectacle, elle n’avait qu’à se retirer.
+
+[',', 'de', 'le', 'la', "l'"]	Rynaldo	[MASK], qui avait croisé les bras et pris une attitude fort méprisante vis-à-vis de ces deux femmes qui le dévisageaient outrageusement, brusquement, leur tourna le dos. Mais la vieille noble dame l’étudia par-derrière, comme elle l’avait regardé par-devant, et elle continua de répéter :
+
+['qui', "c'", 'le', 'je', 'de']	Mathias	c’est moi, [MASK], l’ami de Jacques Ork ! C’est moi qui viens vous sauver, Marie-Sylvie ! » Mais rien ! rien ! rien ! et ma voix résonnait là-dedans comme dans un tambour ! Tout d’un coup je fus moi-même épouvanté du bruit que je faisais…
+
+['H', 'le', 'un', 'S', 'L']	Stefano	On ne connaissait rien d’eux, sinon qu’ils avaient loué la maison d’à côté sous le nom de Hackler, qui est celui d’un de nos plus célèbres bourreaux, et qu’ils vivaient en grands seigneurs. Ils avaient aussi avec eux un domestique, un seul : il s’appelait [MASK].
+
+['elle', 'sa', 'la', 'qui', 'son']	Stella	? Est-ce que son hallucination allait recommencer ? Est-ce qu’il allait encore se tromper ? Est-ce qu’il allait recommencer à confondre ? Car c’était bien sa voix, à elle, ah ! tout à fait, tout à fait la voix de [MASK].
+
+['il', 'on', '</s>', 'qui', 'On']	François	! Sire ! s’il était là… je le lui dirais. – Je l’attends ! dit l’empereur. [MASK] n’avait pas plutôt prononcé ces mots qu’on entendit un bruit de voix et quelques rires étouffés.
+
+['elle', 'Elle', 'la', 'sa', ',']	Rynaldo	[MASK] lui répondit qu’avec de la patience et de la douceur, on pouvait tout demander à un bon cheval de race. Elle le pria de monter l’admirable bête que le valet d’écurie tenait en main. Quand il fut en selle, elle lui commanda : « – Sautez !
+
+['se', 'le', ',', 'il', 'ne']	Sarah	– C’est lui qui sera nommé grand coesre ? – Si [MASK] le veut… – Moi, je veux le voir ! Je veux être là quand il viendra dans la crypte… – Il ne suffit pas d’être romani pour assister aux mystères du grand-coesre…
+

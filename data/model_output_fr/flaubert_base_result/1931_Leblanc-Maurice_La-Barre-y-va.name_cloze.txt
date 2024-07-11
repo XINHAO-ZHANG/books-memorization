@@ -1,0 +1,200 @@
+['il', '</s>', '"', '-', 'tout']	Raoul	— D’ici, il se peut qu’on voie… » Il avait tiré sa lanterne de poche qu’il braqua sur le jardin. [MASK] en fit autant. Les deux lanternes étaient puissantes et jetaient sur les allées et dans les massifs des plaques de lumière assez vives.
+
+['moi', 'lui', 'elle', 'lui-même', 'nous']	Bertrande	Il réfléchissait, tout en épiant le visage de ses interlocuteurs, comme s’il eût voulu voir l’effet que produisait sur eux chacune de ses paroles. À la fin, il se tourna vers [MASK]. « Excusez-moi, madame.
+
+['dit-elle', 'dit-il', 'dis-je', 'puis', 'elle']	Catherine	— Je l’ai rencontrée. Et je me rends compte maintenant de ce que signifiaient les « trois chaules » dont elle parlait. C’était sa façon de prononcer. — Oui ! fit [MASK], de plus en plus émue. Il s’agissait des trois saules.
+
+['georges', 'le', 'robert', 'jacques', 'paul']	Raoul	« C’est la marée, dit [MASK]. Elle s’annonce à coups de tonnerre. Quand la bourrasque aura passé, avec la grande vague du flot montant, la pluie diminuera peut-être. » Ils franchirent le pont, et, tournant à droite, dans l’île, arrivèrent au pigeonnier.
+
+['tout', 'moi', 'moi-même', 'vous', 'la']	Bertrande	— Je vous défends de parler ainsi… En admettant même que ce soit vrai, il serait trop tard. — Il n’est pas trop tard… — Si, puisque je suis là, et puisque je vous ai fait mon aveu… et l’aveu de [MASK].
+
+['</s>', '"', ')', '...', '_']	Catherine	Et tel était son ascendant sur elles, malgré l’anomalie d’une telle affirmation, qu’elles ne protestèrent ni l’une ni l’autre. [MASK], se trouvant seule avec lui un moment, murmura, sans le regarder :
+
+['</s>', 'il', 'elle', 'on', "l'"]	Raoul	» Ces deux syllabes furent scandées fortement, et d’une voix qui ne plaisantait pas. [MASK] épia le visage obstiné du domestique et s’inquiéta. L’ennemi avait donc en réserve une arme secrète qui l’autorisait à dicter ses conditions jusqu’à un certain point ?
+
+['travail', 'la', 'production', ':', '...']	Catherine	Contrairement à ses prévisions, vers une heure, l’horloge de l’église continuant à le renseigner régulièrement, il entendit une voix qui criait, non loin de lui : « Raoul ! Raoul ! » C’était la voix de [MASK].
+
+['lui', 'elle', 'mourir', 'lui-même', 'soi']	Catherine	Deux heures plus tard, il reconduisit la jeune femme jusque chez elle, et obtint la promesse qu’elle viendrait le revoir le lendemain, à quatre heures du soir. Et il attendit, heureux et confiant, mélancolique aussi en songeant à [MASK].
+
+['lui-même', 'paul', 'part', 'pierre', 'catherine']	Béchoux	Il ne rentra qu’à la nuit tombante. Les magistrats et les médecins étaient partis depuis longtemps. Un gendarme demeurait de faction près de la grille. « Un gendarme, ça n’est pas suffisant, dit-il à [MASK].
+
+['elle', 'celle-ci', 'il', 'qui', 'tout']	Charlotte	— Simulation ! Il ne faut à aucun prix qu’on les soupçonne. Il démolit une planche du pont, et il en est quitte pour un bain. Une poutre du hangar se détache, le hangar s’écroule, mais [MASK] n’est pas atteinte, bien entendu.
+
+['il', 'elle', 'et', "s'", 'puis']	Béchoux	Et, dans le silence, maître de ses auditeurs, [MASK] acheva : « Il est hors de doute, monsieur le juge d’instruction, que le coup fut tiré de l’intérieur. De cela, vingt preuves pour une. J’en noterai deux.
+
+['dieu', 'lui', "l'", 'la', 'celui-ci']	Raoul	En attendant un combat dont elles s’évertuaient à deviner les péripéties, et tout en se demandant s’il aurait lieu avant ou après le départ, elles en arrivaient, sous l’influence de [MASK], à se détendre et à jouir délicieusement de la vie.
+
+['le', 'la', "l'", 'un', 'paul']	Béchoux	Assassinat de je ne sais pas qui. Achève, mon vieux. — Eh bien, voilà, dit [MASK], qui avait du mal à se reprendre. Voilà… Tous ces événements tragiques se sont déroulés en quelques heures, hier…
+
+['il', 'on', 'guillaume', ',', 'ii']	Raoul	Quoique les Normands se défient des étrangers, de ceux qu’ils nomment les horsains, [MASK] savait délier leur langue, et il apprit ainsi que plusieurs vols avaient été commis depuis quelques années, au préjudice de châtelains ou de riches fermiers.
+
+['"', ',', 'il', 's', 'kita']	Catherine	[MASK] tressaillit et protesta avec une vivacité excessive. « Ne dites pas cela ! Non, ne faites pas une pareille supposition ! Je ne me suis pas trompée ! Je ne pouvais pas me tromper ! » Elle l’entraîna dehors, et ils firent ensemble le trajet indiqué par elle.
+
+['chacun', 'lui', 'jésus', 'maître', 'celui-ci']	Raoul	Les mains cramponnées à son fauteuil, le buste à demi soulevé sur les bras, le visage crispé par une attention que les paroles de [MASK] semblaient exaspérer de minute en minute, il écoutait sans souffler mot. « Tu mens ! tu mens !
+
+['</s>', '...', ',', 'il', '-']	Raoul	— Pourquoi cette délicate attention ? — Une affaire curieuse, compliquée, que j’aimerais débrouiller avec toi… — Parce que tu ne peux pas la débrouiller tout seul, hein, mon gros ? » [MASK] observait la jeune fille dont le trouble croissant commençait à le tourmenter.
+
+['</s>', '"', 'lui', 'le', 'celui-ci']	Béchoux	Le projectile, brisant la vitre, avait sifflé à son oreille, sans l’atteindre heureusement, et s’était aplati contre le mur opposé. [MASK], qui le recueillit, affirma posément : « C’est une balle de revolver. Dix centimètres de déviation à droite, et la tempe était trouée.
+
+['il', ',', 'elle', 'ensuite', 'celui-ci']	Raoul	Puis [MASK] faisait une ronde furtive dans le jardin, et, prenant la barque, remontait le cours de la rivière et demeurait à l’affût, l’oreille tendue. Un soir, le temps était si magnifique que les deux sœurs voulurent le rejoindre.
+
+['</s>', 'elle', 'il', 'celle-ci', 'mais']	Raoul	Avec l’aide du gendarme qui les avait rejoints, ils passèrent quatre ou cinq minutes courbés sur la pelouse. Mais la piste, à quelques mètres de distance, aboutissait à une allée de petits graviers où elle se perdait. [MASK] ne s’obstina point et revint au manoir.
+
+['on', 'ne', 'il', 'je', 'elle']	Raoul	La jeune fille eut alors une nouvelle crise d’appréhension, et [MASK] devina qu’elle eût souhaité de s’enfuir plutôt que de retourner dans des lieux où elle avait dû souffrir. Pourtant, elle se domina. « Il ne faut pas que l’on me voie rentrer, dit-elle.
+
+['le', 'la', 'qui', 'et', 'il']	Arnold	L’ennemi avait donc en réserve une arme secrète qui l’autorisait à dicter ses conditions jusqu’à un certain point ? Il s’inclina sur lui et tout bas : « Du chantage, hein ? À quel titre ? Sur quoi t’appuies-tu ? » [MASK] murmura
+
+['lui', 'lui-même', 'moi', 'colère', 'sang']	Raoul	À ce moment seulement, toute la colère, longtemps étouffée de [MASK], lui monta à la tête. Rouge, furieux, hors de lui, bien que se contenant encore, il marcha vers les trois coupables, d’un pas saccadé.
+
+['il', 'elle', 'et', 'qui', 'vous']	Arnold	Rouge, furieux, hors de lui, bien que se contenant encore, il marcha vers les trois coupables, d’un pas saccadé. Quand ils le virent, ils eurent tous trois, sur leur chaise, un mouvement de recul. Se reprenant aussitôt, [MASK] affecta un sourire arrogant.
+
+['goethe', 'celui-ci', 'dante', 'quelques-uns', 'virgile']	Raoul	Il sauta également, et, quand leurs lampes furent rallumées et qu’ils eurent atteint, près de la serre, l’endroit exact où la bête fauve, selon l’expression de [MASK], gisait, ils ne trouvèrent qu’une pelouse piétinée, foulée, mais pas de cadavre.
+
+['vous', 'le', 'que', 'les', 'la']	Raoul	Or, personne ne pouvait se douter que vous feriez cette promenade nocturne, qui fut, vous le savez, décidée au dernier moment. — Non, mais on savait bien que vous la faisiez, vous, depuis plusieurs nuits. Ce n’est plus nous qu’on attaque, mais vous, [MASK].
+
+['famille', 'baptême', 'personne', 'femme', 'ville']	Butte-aux-Romains	Avec les siècles, notre tumulus s’était tassé, et sans doute écroulé à l’intérieur. Une épaisse végétation le recouvrait et, de son passé, il ne restait apparemment que ce nom de [MASK]. N’importe ! toujours mon attention demeurait en éveil.
+
+['lui', 'elles', 'elle', 'moi', 'eux']	Béchoux	Une fois il alla vers la rivière, qu’il suivit jusqu’au pont, s’arrêta, puis revint. Quelques minutes encore s’écoulèrent. Quand il rentra, les deux sœurs et [MASK] ne prononcèrent pas une parole.
+
+['bonaparte', 'napoléon', 'dreyfus', 'robespierre', 'lui-même']	Raoul	Si on ne l’avait pas tué, c’est que sa suppression n’était pas indispensable, et qu’on pouvait se contenter de le réduire à l’impuissance durant les quelques jours que nécessitait la besogne envisagée. Et cette hypothèse était d’accord avec ce que savait pertinemment [MASK].
+
+['elle-même', 'raphaël', 'pierre', 'marguerite', 'cela']	Catherine	Il nous aidera. » Elle ressemblait à [MASK], plus belle que sa sœur peut-être, avec un charme égal, mais un visage abîmé déjà par les peines, et quelque chose de tragique dans le regard, où l’on devinait toute l’horreur du crime commis.
+
+['parfait', 'parfaitement', 'oui', 'non', 'excellent']	Béchoux	Et c’est cela qui vous a guidé ? — Oui. — Parfait… [MASK] ! — Quoi ? grogna le policier, qui ne dérageait pas. — Tu es toujours persuadé de l’innocence de tes amis ? — Plus que jamais. — À la bonne heure.
+
+['marie', 'maria', 'john', 'catherine', 'celui-ci']	Raoul	Pourtant il en était ainsi. Aucune autre issue n’existait. Et la faculté de s’étirer, que prouvait son incroyable évasion, concordait bien avec cette impression d’amincissement et de fluidité que [MASK] avait éprouvée en le sentant se dissoudre, pour ainsi dire, entre ses doigts.
+
+['</s>', 'il', 'elle', 'et', '"']	Raoul	C’est une chouette. » Un autre cri, soudain. [MASK] s’élança vers l’escalier en proférant : « C’est en haut, dans la chambre de la petite… Ah ! crebleu, si on touche à celle-là !…
+
+['</s>', '"', '--non', '_', '--oui']	Bertrande	Celle qu’il aime est riche maintenant, grâce à lui, et elle retrouvera son fiancé. Est-ce qu’il se plaint ? [MASK], qu’il aime aussi, l’oubliera. Est-ce qu’il pense seulement à courir après elle ? Non. Leur bonheur avant tout.
+
+['</s>', 'il', "j'", 'on', 'elle']	Catherine	Il en donnera lecture à mes deux petites-filles et tiendra la main à ce que mes volontés soient respectées. » [MASK] affirma de la façon la plus formelle : « Cette écriture est celle de mon grand-père. J’en pourrais donner vingt preuves.
+
+['il', 'elle', 'chacun', 'jean', 'on']	Raoul	— Tout est résolu », dit-il. Un long silence s’établit entre eux ; [MASK] ne pêchait rien et n’avait aucun espoir de rien pêcher, la rivière étant dépourvue du moindre goujon. Mais tout de même ils contemplaient tous trois les jeux du bouchon de liège.
+
+['on', 'ou', 'elle', 'et', 'il']	Catherine	Une heure après, c’est-à-dire â dix heures, [MASK] s’éloignait. On ne l’a plus revue. — Elle est peut-être sortie sans qu’on le sache. — Impossible. — Donc, tu crois au suicide ? »
+
+['</s>', 'il', 'et', 'elle', 'chacun']	Béchoux	Celui-ci s’était couché à plat ventre le long d’une des principales branches et regardait dans différentes directions. « Tiens-toi debout, cria-t-il, en te faisant le plus grand possible. » [MASK] se dressa comme une statue.
+
+['</s>', '"', '-', ')', '.']	Béchoux	Tu pêchais de la poudre d’or dans la rivière ? Tu vas t’expliquer là-dessus, hein ? [MASK], fixe-moi ce client sur le brancard. Deux courroies aux poignets, ça suffira. Et puis, de la douceur, n’est-ce pas ?
+
+['"', 'davantage', 'beaucoup', 'cependant', 'claire']	Raoul	Il m’en a donné une pincée que j’eus la curiosité de faire examiner. Aucune erreur possible. C’était de l’or. » La réponse ne sembla pas étonner [MASK]. « J’ai toujours pensé, dit-il, que cette affaire tournait autour d’une découverte de ce genre.
+
+['on', 'il', ',', 'elle', 'je']	Raoul	» Et le lendemain [MASK] découvrait une demi-douzaine de croquis, le schéma des trois saules, des roches, du pigeonnier, deux silhouettes du chapeau, et un enchevêtrement de lignes où l’on discernait la forme d’un revolver.
+
+['non', 'moi', 'monsieur', 'oui', 'nous']	Béchoux	Les deux sœurs attendaient sa réponse. « En tout cas, [MASK], fit-il, nous poursuivons notre enquête entre nous, hein ? Tu ne vas pas nous jeter tes amis de la police dans les jambes ! — Non. — Tu le jures ?
+
+['je', '...', 'et', 'vous', 'tu']	Lupin	Et il mâchonnait : « Dégoûtant personnage… tu n’as pas honte ? Voilà que tu t’exhibes avec un assassin et une cuisinière… toi, un brigadier ! une légume de la police ! Et tu crois que [MASK] va tolérer ça ? Attends un peu, fripouille
+
+['</s>', 'celui-ci', '"', 'julien', 'jean']	Béchoux	L’expérience est tout à fait intéressante et confirme mes suppositions. » Il sauta de son arbre, alluma une cigarette, et paisiblement, l’air d’un promeneur qui flâne, rejoignit [MASK], lequel n’avait pas remué et piquait du doigt une étoile invisible. «
+
+['et', 'elle', 'de', 'qui', 'mais']	Catherine	Au moment de le quitter, [MASK], tout à fait détendue, lui demanda pardon. « Pardon de quoi ? — D’avoir douté de vous. — C’était naturel. En apparence, je n’ai obtenu aucun résultat dans la tâche entreprise. — Et désormais ?
+
+["j'", 'qui', 'il', 'on', 'pourquoi']	Catherine	Et l’on revient quand le danger est fini. — Donc, elles s’en vont ? — Ce serait déjà fait si cela ne dépendait que de moi. Mais… — Mais [MASK] hésite ? — Justement. Elle hésite parce qu’elle subit encore ton influence.
+
+['il', 'elle', 'tout', 'visage', 'on']	Raoul	En supposant même qu’aucune embûche ne fût tendue, l’ennemi pouvait rôder, poursuivre ses préparatifs, se rapprocher du but qu’il croyait atteindre déjà, et s’assurer que lui-même n’était pas surveillé. Soudain, [MASK] tressaillit.
+
+["c'", 'qui', 'il', 'celui-ci', 'celui-là']	Raoul	Le lendemain, la fête recommença, ainsi que les jours suivants. L’argent du sieur Fameron coulait en apéritifs et en verres de champagne offerts à un tas de gens qui s’accrochaient à ce généreux personnage. Mais [MASK] était son ami préféré.
+
+['madame', 'monsieur', 'moi', 'mademoiselle', 'maintenant']	Raoul	C’est mon tour… Je viens vous dire adieu, [MASK], et vous remercier de tout ce que vous avez fait pour nous deux… de tout ce que vous avez fait pour moi, qui était coupable, et que vous avez sauvée du remords et de la honte.
+
+['je', '...', '</s>', 'on', "j'"]	Raoul	non, non, j’en veux pas de cette pourriture d’argent… vous m’entendez, monsieur… j’en veux pas ! » [MASK] tenta d’en savoir davantage. Mais l’autre, qui s’était remis à pleurer, s’endormit avec des hoquets de désespoir.
+
+['</s>', 'il', '-', '_', '...']	Béchoux	! À pleines mains il en saisit deux poignées qu’il laissa ruisseler et qui étincelèrent aux feux de la lampe. [MASK] était si ébranlé par ce spectacle que ses genoux plièrent et que, sans mot dire, il s’assit à terre, sur ses talons.
+
+['il', '.il', 'jésus', '...', ',']	Raoul	» [MASK] s’approcha du domestique et, face à face, les yeux dans les yeux, il lui demanda : « Tout ce que j’ai dit est vrai, n’est-ce pas ? » Le domestique articula sourdement : « Du premier jusqu’au dernier mot.
+
+['ou', 'que', 'etc', 'ton', 'aussi']	Théodore	« Tu sais quelque chose ? notre homme se cache au fond de l’eau ? — Tu l’as dit ! Il a fait son lit dans celui de la rivière. Il y mange. Il y boit. Et il s’y fiche de toi, [MASK].
+
+['moi', 'monsieur', 'non', 'je', 'mais']	Bertrande	Il observait le mouvement des lèvres et ce beau visage ardent, tout frémissant de passion contenue. « Vous ne partirez pas, [MASK]… je ne veux pas que vous partiez… — Il le faut… » dit-elle, comme avait dit sa sœur.
+
+['vérité', 'luther', 'dieu', 'justice', 'jésus']	Raoul	Qui a fait le coup, et pourquoi l’a-t-on fait ? Doit-on supposer que c’est un seul et même individu qui mène l’intrigue ? » Mais le souci de [MASK] provenait des paroles qu’avait prononcées la mère Vauchel… « Ma belle demoiselle.
+
+['il', 'qui', 'on', 'celui-ci', 'pierre']	Béchoux	» Avec la pointe d’un couteau, [MASK] sépara les deux lèvres de la fente à l’endroit qu’il indiquait et il put ainsi retirer de l’enveloppe, sans avoir brisé les cachets, une feuille double de papier sur lequel étaient tracées des lignes.
+
+['il', '-il', 'elle', '-t-il', 'on']	Raoul	« Que dites-vous ? Mais c’est abominable ! De quel droit affirmez-vous a priori qu’il l’ait dérobé ? — Il faut bien qu’il l’ait dérobé, dit [MASK], puisqu’il a payé le sieur Fameron pour l’introduire dans le dossier Montessieux.
+
+['rodin', 'paul', 'maurice', 'jacques', 'raoul']	Bertrande	« Il est plus que probable, dit-il à [MASK], que cette somme vous sera remise. Mais je dois, n’est-ce pas, vu les circonstances, prendre des précautions relativement à l’authenticité du testament. »
+
+['</s>', 'on', 'chacun', 'il', 'elle']	Raoul	Demain… ce soir… j’aurai tari la source précieuse, et tu devras te contenter du cadeau convenu. » Ils se retirèrent chez eux pour changer leurs vêtements, qui étaient trempés. Le déjeuner les réunit. [MASK] parla gaiement de toutes sortes de choses.
+
+["s'", 'y', 'il', 'qui', 'elle']	Raoul	[MASK] était enseveli. Ce n’était pas un homme à se considérer comme perdu et à supprimer en lui la notion de l’espoir. En toute occurrence, sans se dissimuler la gravité d’une situation, d’abord il apercevait les côtés rassurants.
+
+['</s>', '"', '_', 'mouche', '-']	Charlotte	« Les deux sœurs vous aiment. [MASK], qui est une fine mouche, a ses preuves. Il y a souvent des querelles très vives à votre propos. Elles n’en connaissent pas la raison, elles ne savent même pas ce qui se passe en elles.
+
+['.', 'john', 'mrs', '"', 'm.']	Raoul	« À quoi sers-tu ? Que fais-tu ? — Je fume des cigarettes, répondit [MASK]. — Quel est ton but ? — Le même que le tien. — Ton programme ? — Différent du tien.
+
+['jacques', 'robert', 'maurice', 'rodolphe', 'valentine']	Catherine	Et cependant je ne suis pas bien sûr qu’il y ait eu crime. — Mais, mon beau-frère ?… s’écria [MASK], vous ne pouvez vraiment pas nier… — Je ne nie rien, et je n’affirme rien. Mais je doute.
+
+['il', 'elle', '</s>', '"', 'qui']	Raoul	Il se jeta sur elles. La seconde se sauva. [MASK] empoigna, à bras le corps, le premier des deux êtres et roula dans les ronces avec lui en criant : « Ah ! cette fois, tu y es ! tu y es ! »
+
+['elle', 'il', 'madame', 'marguerite', 'albert']	Raoul	— Bien, dit [MASK], l’histoire vaut ce qu’elle vaut, mais il faudra s’y maintenir, et je vous demanderai de vous entendre avec votre sœur, madame. Ce qu’elle a fait dans sa journée, ce qu’elle est devenue, ne regarde pas la justice.
+
+['"', 'dit-il', 'etc', 'dit-elle', 'socrate']	Théodore	« Vas-y de ton discours, [MASK]. Sois bref et méticuleux, éloquent et sec, tumultueux et méthodique. N’oublie pas un seul détail et n’en donne pas un de trop… Mais d’abord que je te regarde !… »
+
+['il', 'elle', 'lui', 'y', 'on']	Béchoux	Il essaya de lui reprendre le récepteur. Mais elle s’y cramponna, et [MASK] insistait : « C’est urgent. Entre autres événements, une jeune fille a disparu aujourd’hui… — C’est un événement quotidien. Et il n’y a pas de quoi s’alarmer.
+
+['il', 'robert', 'le', 'celui-ci', 'pierre']	Béchoux	Les gendarmes ont-ils été avertis de sa disparition, hier ? — Forcément, dit [MASK], puisque cette disparition nous semblait la conséquence d’un meurtre, et que nos recherches visaient le coupable de ce meurtre-là et du meurtre de M. Guercin.
+
+[',', 'et', 'façon', 'manière', 'rien']	Béchoux	— Rien, dit [MASK], de plus en plus gêné. — Si, il y a un petit carton, et ce petit carton, c’est la photographie de ta maîtresse. — Ma maîtresse ? — Oui, la cuisinière. — Qu’est-ce que tu chantes
+
+['lui', 'vous', 'lui-même', 'elle', 'ses']	Arnold	Or, ces souvenirs évoquaient souvent une certaine part de méfiance que votre grand-père gardait toujours, même avec [MASK], et même avec vous, qui étiez pourtant sa préférée, et qui ne pouviez pas songer qu’il avait des secrets et qu’il serait peut-être utile de connaître ces secrets.
+
+['m.', 'pierre', 'jean', 'g.', 'le']	Béchoux	L’eau du premier étage s’infiltrait par les crevasses de la voûte, ce qui formait bien un demi-pied de vase. Ainsi que le fit remarquer [MASK], cette sorte de cave était éclairée jadis à l’électricité, car les fils et toute l’installation se voyaient encore.
+
+['il', 'lui-même', 'celui-ci', 'lui', 'ulysse']	Raoul	Si [MASK] n’avait pas tenu ses rames en main, et s’il n’avait pas eu la présence d’esprit de faire pirouetter la barque, un quartier de roc en écrasait l’avant. Une gerbe d’eau, tout au plus, les éclaboussa.
+
+[',', 'il', 'elle', 'ii', ')']	Raoul	[MASK] sourit, regarda les deux sœurs qui l’écoutaient passionnément et précisa : « Selon moi, il y a ce qu’on peut appeler une opération à deux temps. Premier temps : un trésor considérable est déposé à tel endroit, dans un récipient solide hermétiquement fermé.
+
+['par', 'en', 'entre', 'tu', 'ce']	Béchoux	Ce qu’elle a fait dans sa journée, ce qu’elle est devenue, ne regarde pas la justice. Il n’y a qu’une affaire, celle du crime, et l’enquête ne sortira pas des limites que nous lui assignons. N’est-ce pas ton avis, [MASK]
+
+['herbert', '"', '...', '.', 'alors']	Raoul	« Je vais donner un coup d’œil à mon auto, dit [MASK]. Vous m’accompagnez ? » Ils se rendirent à ce hangar où il remisait son automobile, non loin de l’église. Tout allait bien. Le moteur tournait avec un murmure régulier.
+
+['elle', 'il', 'lui-même', 'catherine', 'julien']	Raoul	Mais l’autre, qui s’était remis à pleurer, s’endormit avec des hoquets de désespoir. « Plus rien à faire, se dit [MASK]. Mais à quoi bon m’entêter ? J’en sais assez pour agir, et pour agir à mon aise.
+
+['</s>', 'on', '-', '"', 'ou']	Catherine	On croyait simplement qu’il y avait eu une alerte nocturne, et un coup de feu motivé par la vision plus ou moins confuse d’une silhouette. [MASK] demeurait donc en dehors de l’enquête. Souffrante, elle ne fut interrogée que pour la forme et répondit qu’elle ignorait tout des événements.
+
+['qui', 'et', 'monsieur', 'celui-ci', 'pierre']	Arnold	— [MASK], lui, me fit une réponse différente. Il n’affirmait rien, quoique l’emplacement actuel ne lui parût pas le véritable. — Et vous n’avez pas eu l’occasion d’invoquer un autre témoignage ?
+
+['toi', 'moi', 'maman', 'mais', 'jack']	Fameron	— Je le crois, [MASK]… tu n’as pas la tête d’un assassin… C’est autre chose que je voudrais savoir… une petite chose de rien du tout… après quoi tu pourras dormir comme une petite fille sage. — Quoi ?
+
+['il', 'elle', 'on', 'et', 'chacun']	Raoul	La tête seule avait émergé durant une seconde, puis avait disparu. L’homme se croyait en sûreté dans son trou. Avec une vitesse invraisemblable, [MASK] escalada la paroi presque verticale, s’aidant des fougères et s’accrochant aux aspérités.
+
+['john', 'georges', 'jacques', 'robert', 'tom']	Catherine	— Vous n’allez pas les tuer, murmura [MASK], qui s’effarait. — Non, mais je vais tirer. — Oh ! je vous en supplie. » Il éteignit sa lampe de poche et, tout doucement, ouvrit une des croisées de la fenêtre, et poussa l’un des volets.
+
+[',', 'il', 'en', 'homme', 'elle']	Raoul	[MASK] escalada la façade, et, sans réveiller la personne qui dormait dans le lit, après avoir glissé la clef sous la pendule, visita la chambre et fouilla les placards. Persuadé qu’aucun piège ne lui était tendu, supposition qui n’aurait rien eu d’impossible, il redescendit.
+
+['cuisinière', 'qui', 'père', 'cuisinier', 'homme']	Béchoux	[MASK], lui, montrait un visage décomposé et gardait l’attitude accablée d’un monsieur sur qui se sont appesantis les pires malheurs. Il se pencha sur la cuisinière et lui parla tout bas, avec des gestes où il y avait de la menace, des reproches et du désespoir.
+
+['elle', 'on', 'il', 'et', 'je']	Raoul	Elle approcha son visage et lui offrit ses lèvres. Un instant elle défaillit entre les bras qui la serraient éperdument et sous les lèvres qui baisaient les siennes. Puis, se dégageant d’un geste, elle s’enfuit. Une heure après, [MASK] courait chez les deux sœurs.
+
+['jeanne', 'celui-ci', 'marguerite', 'celle-ci', 'charles']	Fameron	N’y pense plus et dors. » Avec une poussée douce, il obligea [MASK] à s’étendre, lui remonta ses draps jusqu’au menton, le borda et s’en alla sur la pointe des pieds, en lui recommandant de faire dodo bien sagement.
+
+['bonaparte', 'maurice', 'napoléon', 'charles', 'henri']	Béchoux	Il prend à la gorge, mais il ne tue pas. Il en avait le temps. Mais à quoi bon ? Ce n’est pas son but. Et il s’enfuit. — Soit, s’écria [MASK], toujours prêt à céder, et qui toujours s’insurgeait.
+
+['il', '</s>', 'elle', 'et', 'je']	Béchoux	J’avais ordonné qu’on me laissât tranquille, et tu as le culot de me réveiller ! » [MASK] protesta : « Mais non, mais non… Je te regardais dormir, et je ne te reconnaissais pas. Tu es plus brun… d’un rouge foncé.
+
+['celui-ci', 'marie', 'albert', 'catherine', 'robert']	Raoul	— Oui, du côté de la serre en ruine… » Elle bondissait, cette silhouette, par sauts désordonnés qui semblaient plutôt ceux d’une bête folle, et qui étaient certainement destinés à empêcher toute identification du personnage. « Ne le lâche pas, enjoignit [MASK].
+
+['ney', 'il', 'al', '.--', '--']	Béchoux	[MASK] intervint : « Et tu n’as aucune idée ?… Cependant tu sais que le document a été introduit dans le dossier Montessieux. — Je le sais. — Par qui le sais-tu ? — Par celui-là même qui a fait le coup.
+
+['</s>', 'il', 'ils', '"', 'elle']	Béchoux	L’étrange histoire apparaissait à tous dans sa réalité, au fond si simple et si logique, et nul d’entre eux ne pensait à émettre la moindre objection. [MASK] murmura : « C’était là une cachette bien peu sûre ce tumulus encerclé d’eau parfois.
+
+['qui', 'il', ')', 'kes', 'ham']	Béchoux	[MASK], bien que convaincu, cherchait encore des objections, et il reprit : « Hypothèse séduisante. Mais, selon toi, qui est-ce qui aurait agi ? — Tu connais le proverbe latin : Is fecit cui prodest. Le coupable est celui à qui l’acte profite.
+
+['moi', 'elle', 'toi', 'vous', 'nous']	Raoul	Elle avait baissé les yeux, toute confuse, mais elle les releva soudain, et, bravement, elle acheva : « Entre nous, [MASK], il y avait vous… oui, vous. » Elle se tut.
+
+['il', 're', 'elle', 'on', 'chacun']	Raoul	? » Et [MASK] copia cette ligne de chiffres : 3141516913141531011129121314 « Je vous remercie, dit-il. Quelquefois un hasard favorable vous donne de ces indications fortuites qu’il ne faut pas négliger. Celle-ci, bien que fort obscure, est peut-être de ce nombre.
+
+['m', '"', 'mm', '2', '3']	Raoul	— Tenez, cher ami, voilà l’aboutissement de mes travaux. N’est-ce pas admirable ? — Et c’était vraiment de l’or ? demanda [MASK]. — Incontestablement. Il m’en a donné une pincée que j’eus la curiosité de faire examiner.
+
+['t-il', 'goethe', '-t-il', 'il', 'robert']	Raoul	On connaissait dans le pays les amours contrariées des jeunes gens. Souvent on les avait surpris qui se rejoignaient dans le bois voisin et qui restaient assis, les mains enlacées. Depuis quelques jours, on ne les avait pas aperçus. « Tout cela est clair, pensa [MASK].
+
+['tom', 'jacques', 'jeanne', 'harry', 'georges']	Béchoux	— Le pain leur suffira, fit [MASK] d’un air farouche. — Tiens, tiens, on te dirait moins enthousiaste… — Deux canailles, mâchonna-t-il. Je leur ai lié les poignets, pour être plus sûr. Et j’ai fermé la porte à clef.
+
+['dieu', 'monsieur', 'jésus', 'monseigneur', 'paul']	Béchoux	Je vous ai dit que je ne pouvais pas, pour des causes puériles d’ailleurs, me confier à eux. C’est à ce moment que je pensai à vous. Je savais que [MASK] possédait la clef de votre appartement et qu’il l’avait placée sous sa pendule.
+
+['enfin', 'rien', 'vraiment', 'oui', 'personne']	saperlipopette	« Mais enfin, [MASK], rien ne t’intéresse ? À quoi penses-tu ? — À toi. — À moi ? — Oui. — Et dans quel sens ? — Dans le sens habituel où je pense à toi.
+
+['un', 'celui', ',', 'une', 'celle']	Raoul	— Aucune », déclara-t-elle. Ce fut une nuit d’affolement et de panique. Sauf [MASK] qui se coucha et dormit en paix, tout le monde veilla, l’oreille tendue, les nerfs surexcités. Le moindre craquement les faisait tous tressaillir.
+

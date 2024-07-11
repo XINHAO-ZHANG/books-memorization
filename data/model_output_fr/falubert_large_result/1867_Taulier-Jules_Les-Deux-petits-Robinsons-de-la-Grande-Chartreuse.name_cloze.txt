@@ -1,0 +1,200 @@
+['viens', 'Viens', 'non', 'dis', 'ici']	Mathilde	s’il y a quelqu’un, on ne fera pas du mal à deux pauvres petits enfants comme nous. Viens donc, [MASK], n’aie pas peur. » Il pénétra dans la première pièce qui se trouvait devant lui. C’était une grande cuisine.
+
+[',', 'de', 'pour', 'bien', 'ainsi']	Marguerite	Depuis bien des années il rêvait ce bonheur. (Page 255.) Et [MASK] donc ! elle embrassait tous les enfants, elle eût volontiers dansé si son âge le lui eût permis ; elle n’était pas moins heureuse que son maître.
+
+['son', 'le', 'sa', 'la', "l'"]	Mathilde	ensuite, après avoir eu soin de fermer la porte et de recouvrir le feu avec de la cendre, il s’étendit à son tour sur un banc, la tête appuyée contre le lit où dormait [MASK]. La maison dans laquelle étaient entrés nos deux petits voyageurs s’appelait alors et s’appelle encore la Courrerie.
+
+['celle-ci', 'martyrs', 'tous', 'famille', 'jeunesse']	Mathilde	Sa belle et vigoureuse constitution a triomphé des émotions et des souffrances de la jeunesse. Au milieu de l’enivrement des succès et de la gloire, il n’a pas oublié le modeste cimetière où reposent les restes de [MASK].
+
+['qui', 'et', 'il', 'elle', 'lui']	Mathilde	il alla chercher le comte, qui fut bientôt dans les bras de sa fille. [MASK] retrouva des forces pour serrer son père sur son cœur. « Que tu es pâle et défait ! lui dit-elle ; que tu as dû souffrir, pauvre père !
+
+['elle', 'Elle', 'et', 'Jeanne', 'Marie']	Mathilde	Les oiseaux chantaient dans les branches des sapins, et la petite tonnelle du curé se couvrait de larges feuilles, en même temps que les bourgeons de ses rosiers s’épanouissaient. [MASK] jouissait de ce spectacle qui lui rappelait la terre, alors qu’elle ne pensait plus qu’au ciel.
+
+[',', 'il', 'Il', 'elle', '</s>']	Albert	[MASK] en ramassa un au hasard et y lut avec surprise le nom de son oncle, non pas son nom de religion seulement, mais celui de famille, celui, par conséquent, de son père et le sien.
+
+[',', 'se', 'il', 'ce', 'de']	Albert	) Quand [MASK] fut à quelques pas de lui, il le salua avec des formes respectueuses qui annonçaient autre chose qu’un mendiant ordinaire : « Enfant, lui dit-il, je ne sais qui vous êtes, ni si vous vivez seul dans cette sainte demeure ;
+
+['excellente', 'énergique', 'entière', 'homme', 'esprit']	Albert	La constitution robuste d’[MASK] et les soins touchants dont il fut entouré triomphèrent du mal. Au bout de quinze jours, il fut sur pied et put remercier lui-même avec effusion ceux qui lui avaient sauvé la vie et ceux qui avaient pris tant d’intérêt à sa santé.
+
+['"', '...', ';', ',', 'est']	christiana	le comte, plus fort contre la douleur qui l’avait si cruellement frappé déjà, pleurait tout en remerciant le ciel de lui avoir laissé au moins un de ses enfants. » « Egredere ; anima [MASK], ex hoc mundo , disait la voix du bon prêtre ;
+
+['pieds', 'la', 'pied', "l'", '4']	Saint-Bruno	au-devant est un péristyle auquel on accède par un perron de quelques marches. Cette chapelle a été restaurée, ainsi que celle de [MASK], par les Chartreux, après leur retour, en 1816. La voûte intérieure est peinte en azur et or ;
+
+[',', '...', 'pathique', 'tout', 'pale']	Mathilde	il ne pouvait, bien pauvre lui-même, que lui prêcher la patience et la soumission aux ordres de la Providence. [MASK], en voyant souffrir la mère Sestier, comprit la douleur physique qu’elle avait jusqu’alors ignorée ;
+
+["l'", 'le', 'la', 'on', 'il']	Albert	on s’étonnait de voir ces deux enfants cheminant seuls, chargés de leur petit paquet et se tenant par la main. A toutes les questions, [MASK], répondait : « Nous venons de perdre notre mère, nous allons rejoindre notre oncle. — Et où demeure-t-il votre oncle ?
+
+[',', 'on', 'a', 'à', 'il']	Mathilde	[MASK] eut l’idée de se tailler une robe dans un manteau de Chartreux. Elle avait jadis habillé sa poupée et il lui était resté quelque souvenir de ce qu’elle avait vu faire à la tailleuse de sa mère. Un vieux couteau de cuisine devait lui servir de ciseaux ;
+
+['ainsi', 'enfin', 'vous', 'bien', 'donc']	Myrrha	— A la bonne heure, le nom d’une bête va mieux à une bête ; ainsi donc, [MASK], puisque votre maîtresse vous a baptisée ainsi, vous allez me suivre, nous allons chercher à déjeuner pour vos maîtres et pour vous.
+
+['une', ',', 'la', 'un', 'le']	Albert	Le pain était sec et dur, mais quand on est jeune et qu’on a faim, on n’y regarde pas de si près. Cependant, avant de s’en emparer, un remords saisit les deux enfants : « Ce n’est pas à nous tout cela, dit [MASK] ;
+
+['Paul', 'Jésus', 'il', 'Marie', 'Pierre']	Albert	Jamais la nature n’avait été aussi belle et nos enfants aussi heureux. Jamais spectacle pareil n’avait Trappe leurs yeux. (Page 278.) « Que Dieu est bon pour nous, disait [MASK], il nous a sauvés sans que nous nous en doutions.
+
+['une', 'un', 'E', 'O', 'A']	Albert	C’était à qui l’embrasserait, lui serrerait les mains en pleurant de joie. Ses petits écoliers lui montraient ce qu’ils avaient fait pendant sa maladie, et se réjouissaient des éloges qu’il leur donnait. Trois semaines après, une nouvelle excursion fut projetée pour célébrer la guérison d’[MASK].
+
+['il', 'elle', 'celui-ci', "l'", 'le']	Albert	— Mangez donc, mon ami, lui répondait [MASK], buvez de ce vin qui vous réchauffera ; ensuite vous dormirez, car vous devez avoir besoin de repos, et demain nous causerons comme de vieux amis. Vous nous direz vos malheurs, nous vous raconterons les nôtres, et nous nous consolerons ensemble.
+
+['lui', 'moi', 'elle', 'la', 'le']	Mathilde	Ce fut un grand événement et un immense bonheur pour [MASK], de trouver, en se levant, ce nouveau compagnon de leur solitude. Il était blanc et noir, et déjà ses petits yeux se fixaient avec curiosité sur sa jeune maîtresse.
+
+['-', '"', 'FACE', 'ÊTRE', '-']	SÉJOUR	— [MASK] A LA RUCHÈRE. En peu de jours, nos deux petits orphelins furent connus de tout le hameau. L’amitié-se lie sans peine dans les villages, et ces pauvres enfants si jeunes et déjà si malheureux, surent facilement se faire aimer.
+
+['lui', 'feu', 'elle', 'foyer', 'nous']	Mathilde	Son imagination, surexcitée par tout ce qui l’avait frappée depuis quelques mois, s’agrandissait encore en présence de tous ces souvenirs et sous le coup de ces impressions ; puis, quand le froid le gagnait, il se hâtait d’accourir auprès de [MASK] et du bon feu qui brûlait continuellement dans leur cheminée.
+
+['le', 'papa', 'toi', 'la', 'lui']	Mathilde	Chaque fois qu’il émettait ces idées devant [MASK], celle-ci se jetait à son cou et lui disait, moitié en pleurant, moitié en souriant : « Ne t’inquiète pas, petit frère, Dieu et notre mère y pourvoiront. »
+
+['il', 'elle', 'Il', 'Elle', 'et']	Mathilde	Mais le pain était sec. La hache qui avait déjà ouvert deux portes leur servit de couteau et ils fendirent leur pain, comme ailleurs on fend du bois. [MASK] riait en essayant d’entamer avec ses petites dents les éclats que la hache faisait voler.
+
+['Personne', 'Chacun', 'On', 'Elle', 'Il']	Albert	Une cloche était suspendue au-dessus de la porte d’entrée ; [MASK] saisit la corde et fit résonner la cloche avec force. Personne ne répondit à son appel. Sous la porte cochère, à droite, une autre ouverture donnait accès dans une pièce étroite, mais assez propre.
+
+['il', 'et', 'Il', 'qui', "l'"]	Albert	De la cellule du père Général, [MASK] parvint dans une vaste bibliothèque, bien autrement fournie de livres que celles des Pères dont il occupait les cellules. Elle contenait beaucoup de volumes à grand format, sans doute bien savants, mais au-dessus de la portée de son âge et de son instruction.
+
+['il', 'on', 'elles', 'elle', 'ils']	Albert	C’est un dépôt doublement sacré, merci d’avance de votre dévouement et de votre amitié. » Des larmes avaient coulé des yeux du comte en écrivant cette lettre, elles avaient laissé sur le papier une empreinte qu’[MASK] reconnut aisément.
+
+['sa', 'son', 'lui', 'la', "l'"]	Marguerite	Il fut décidé qu’il resterait, ainsi que sa sœur, au presbytère ; que [MASK] en aurait soin comme de ses enfants, et qu’ils attendraient là, à l’abri du besoin et des dangers, un temps plus propice et des nouvelles de leur oncle ou de leur père.
+
+[',', 'et', 'il', 'on', ';']	Albert	[MASK] arrangea le feu de manière qu’il pût durer toute la nuit ; puis, assujettissant le banc où leur hôte s’était endormi, il alla chercher une couverture de laine et en recouvrit ses épaules, pour que le froid ne le saisît pas pendant qu’il dormirait.
+
+['il', 'on', 'et', 'Il', 'elle']	Albert	Mais il n’y avait dans cette cellule qu’un seul lit, il en fallait un second ; [MASK] ne désespéra pas de le trouver. Dans la cellule voisine, en effet, celle du père Procureur, se trouvait une alcôve toute semblable à celle de la cellule qu��il venait de quitter.
+
+[',', 'de', 'à', 'se', 'le']	Albert	[MASK] sortit de son petit sac de voyage quelque peu de ces provisions que la prévoyance de leur bonne hôtesse y avait placées, et tous deux mangèrent, le cœur bien gros, en se rappelant les caresses et les baisers dont leur mère accompagnait naguère chacun de leur repas ;
+
+['OH', '...', '-', '.', ',']	Albert	Il rendra tous ces gens-là riches et heureux, en remerciement de ce qu’ils ont fait pour nous. Quand nous serons plus grands, nous reviendrons souvent ici revoir nos anciens petits amis : nous ne les oublierons jamais, n’est-ce pas, [MASK] ? Oh !
+
+['il', 'Il', 'Jean', 'Pierre', 'Joseph']	Albert	Les enfants couraient après eux, les entraînaient chez leurs parents, et leur offraient les plus belles fleurs qu’ils avaient cueillies dans les bois. Pour répondre à tant de témoignages d’amour et de sympathie, [MASK] voulut sa rendre utile et s’érigea en jeune maître d’école.
+
+['à', 'de', ',', 'et', 'se']	Marguerite	On dirait qu’ils ont emprunté les habits de nos anciens seigneurs les Chartreux. Mais où donc avez-vous trouvé ces habits ? — Laisse-les donc manger, [MASK] ; ne les intimide pas. Ils nous raconteront tout cela au dessert. »
+
+['ils', 'il', 'elles', 'elle', 'y']	Albert	C’est là qu’[MASK] s’arrêta avec sa sœur, et ils y firent encore un modeste repas avec les provisions que renfermait leur petit sac de voyage. Mais le jour s’avançait. Déjà le soleil menaçait de s’enfoncer derrière les montagnes ;
+
+['il', 'elle', ',', 'aussi', 'Jean']	Albert	En vain [MASK] s’efforçait d’attirer l’attention de sa sœur sur ce spectacle grandiose auquel ils n’avaient pas été accoutumés à Lyon ; en vain, refoulant les larmes qui lui venaient aux yeux, s’efforçait-il de sourire pour l’égayer, la pauvre petite ne pouvait détacher ses regards de dessus la ville.
+
+['il', 'Il', 'et', 'elle', 'Elle']	Albert	Avant de s’endormir, tous deux élevèrent leur cœur vers Dieu et répétèrent la prière que leur mère leur avait tant de fois fait redire sur ses genoux. [MASK] y joignit un souvenir à son père, qui, dans ce moment peut-être, errait comme lui et cachait son nom dans d’autres montagnes.
+
+['elle', ',', 'une', 'à', 'lui']	Mathilde	Sa chèvre commençait à laisser prendre son lait, et ce breuvage, si doux et bien chaud, leur faisait un plaisir extrême ; c’était encore [MASK] qui s’était chargée de traire la mère avec ses jolis petits doigts ; elle s’en acquittait avec grâce et aisance ;
+
+['le', 'il', 'la', 'elle', "l'"]	Albert	La serrure en était solide et résistait aux secousses que lui imprimaient leurs petites mains. La hache ébréchée dut être employée de nouveau, et déjà [MASK], recueillant ses forces, commençait à entamer le bois, quand l’idée lui vint de frapper sur la serrure.
+
+['et', 'frère', 'sœur', 'il', 'Il']	Albert	[MASK] revint à la première cellule ; sa sœur et lui étaient fatigués. Ils firent ensemble un repas frugal avec les provisions qui leur restaient, et ranimèrent le feu qui menaçait de s’éteindre. L’orage mugissait au dehors avec une violence extrême.
+
+['il', 'elle', 'on', '-il', 'Napoléon']	Mathilde	On ne saurait dire de combien de soins et de petites attentions ce nouvel hôte fut entouré. La mère, reconnaissante, léchait les mains des deux enfants pour leur exprimer son attachement. « Nous aurons bientôt du lait en abondance, disait [MASK], du lait bien chaud.
+
+['</s>', 'lui', 'toi', 'Dieu', 'moi']	Albert	Que Dieu est bon et que je suis heureuse ! [MASK], va donc au-devant de lui et amène-le ici. » Ces paroles affligeaient les assistants, on croyait que le délire s’emparait déjà de la pauvre jeune fille et annonçait l’approche de son dernier instant.
+
+['garde', 'village', 'qui', 'tête', 'service']	Mathilde	Ils suivirent d’abord des sentiers rapides qui serpentaient au milieu des prairies jusqu’au village de St-Pierre-d’Entremont, qui n’était pas encore alors ce qu’il est devenu depuis. La chèvre de [MASK] avait refusé de la quitter et elle bondissait autour d’elle.
+
+['-', 'TH', 'en', 'la', 'ha']	Myrrha	— Mais on ne donne pas le nom d’une femme à une bête, y penses-tu ? — Eh bien ! appelons-la comme la chienne que notre bon père aimait tant, [MASK]. — A la bonne heure, le nom d’une bête va mieux à une bête ;
+
+['il', ',', 'et', 'on', 'qui']	Albert	[MASK] traversait le corridor pour entrer dans la cuisine, quand il aperçut tout à coup à l’extrémité de la cour, près de la grande porte, la silhouette d’un homme se détachant sur le fond blanc du sol couvert de neige.
+
+['le', 'la', 'les', "l'", ',']	Albert	Le lendemain de bonne heure, l’enfant fut levé et, s’avançant d’un pied léger pour ne pas interrompre le sommeil de son hôte s’il dormait encore, il entra dans la cuisine. L’étranger était réveillé, et son premier mot fut un remerciement pour [MASK] :
+
+[',', 'le', 'un', "l'", 'une']	Mathilde	Ils marchaient, les yeux baissés, en proie à de tristes pensées que la vue des tombes avait réveillées en eux, quand tout à coup [MASK], levant la tête, poussa un cri : « Une ville ! des églises ! frère, vois donc ! »
+
+['argent', 'or', 'étain', 'homme', 'écus']	Albert	Il devait aussi se procurer quelques catéchismes et d’autres livres destinés à servir de récompenses aux plus laborieux, aux plus savants. La petite bourse d’[MASK] fit les frais de ces divers achats. Mais son cœur n’oublia pas cette occasion de témoigner sa reconnaissance à ses bienfaiteurs.
+
+['il', 'on', 'novice', ',', "n'"]	Albert	Un jour, [MASK] essaya de faire cuire une merluche y mais le cuisinier novice, ne sachant pas qu’il faut d’avance, et pendant longtemps, faire dessaler ce poisson, ne réussit qu’à faire un plat détestable, et qu’il fallut jeter.
+
+[',', 'et', ';', 'ce', 'le']	Mathilde	Il aperçut des étagères, des casiers, des caisses ; en un mot, ce qui constitue l’intérieur d’une dépense. Plein de joie, il souleva [MASK] qui regarda a son tour et ses larmes cessèrent de couler. Nous sommes sauvés, petite sœur !
+
+['Il', 'Elle', 'il', ',', 'elle']	Albert	» [MASK] leva aussi les yeux et fut saisi d’étonnement à la vue de cette immense quantité de toits gris de toute grandeur, de ces clochers de toute dimension. « C’est sans doute lé couvent de la Grande-Chartreuse, dit-il à sa sœur.
+
+[',', ';', 'ET', 'de', 'et']	Albert	— Bah ! s’écria [MASK], mangeons toujours, nous payerons ; j’ai de l’argent. Nous n’avons dépensé que bien peu de celui que j’ai emporté de Grenoble. Si le maître d’ici survient, nous lui dirons que nous sommes deux orphelins ;
+
+['nous', "j'", 'tu', 'vous', "l'"]	Mathilde	Le convoi se mit en marche, au lever de l’aurore, le long de ces chemins que [MASK] avait tant de fois parcourus avec son frère et ses petites amies. Bien des larmes coulèrent dans le trajet de la cure au cimetière, bien des cœurs brisés suivirent le blanc cercueil.
+
+['son', 'sa', 'ses', 'un', 'une']	Mathilde	Il se retira dans sa cellule avec [MASK]. (Page 184.) « Merci, généreux enfant, lui dit-il, vous m’avez sauvé la vie. Sans vous, je périssais de froid et de faim dans ce désert.
+
+['Ils', 'ils', "n'", 'Il', ',']	Mathilde	[MASK] avait peur de voir surgir tout à coup quelque moine de ces bahuts qui leur servaient de lit. Ils retraversèrent le grand cloître, dont la voûte, par ses détails de style différent, indique qu’elle date de deux époques.
+
+['S', ';', '...', '#', 'Y']	Mathilde	Sous la porte cochère, à droite, une autre ouverture donnait accès dans une pièce étroite, mais assez propre. Au-dessus de la porte de ce logement, on lisait ces mots : frère portier. « Mais où donc est-il ? disait [MASK] ;
+
+['le', "l'", '.', 'son', 'la']	Albert	Ne craignez rien, je n’ai jamais fait de mal à personne. » La tristesse répandue sur cette belle et noble physionomie émut vivement [MASK]. « Entrez, lui répondit-il, je ne suis qu’un enfant ; je vis réfugié ici avec ma sœur ;
+
+['jadis', 'chacun', 'tous', 'lendemain', 'nuit']	Mathilde	La nuit vint de bonne heure. Comme nos enfants n’avaient aucun moyen de se procurer de la lumière, ils se couchèrent aux derniers rayons du jour : il valait mieux, en effet, dormir que passer de longues heures plongés dans les ténèbres qui ressuscitaient les frayeurs de [MASK].
+
+['je', '...', '-', 'home', 'NE']	Albert	— Je veux y aller aussi, moi, [MASK] ; ne me laisse pas seule ici, je mourrais de peur : je t’aiderai à chercher et à rapporter ce que nous aurons découvert. Une grande maison comme celle-là doit renfermer bien des choses. »
+
+['on', "n'", 'il', ',', 'elle']	Albert	[MASK] y aperçut facilement des traces de larmes. Le père, à qui il appartenait, n’avait pu l’emporter à cause de son poids incommode, mais, en parlant, il lui avait confié, avec sa dernière prière, le secret de sa douleur et de ses regrets.
+
+['elle', 'on', 'il', 'sa', 'la']	Albert	La pauvre enfant avait en vain tendu les bras vers l’image fugitive, elle s’était éveillée en nommant, en appelant sa mère, et [MASK] s’épuisait en vains efforts pour la consoler ; sa chèvre favorite léchait ses petites mains, sans pouvoir parvenir à la distraire.
+
+[',', 'en', 'le', 'de', 'la']	Marguerite	Tout le monde était émerveillé de tant d’aplomb et de dévouement à un âge si tendre et avec un corps si frêle. Maintes fois [MASK] voulut l’engager à se donner moins de peine et lui fit envisager qu’elle tomberait malade elle-même ;
+
+[',', 'de', 'que', 'où', 'en']	Mathilde	�attend que le moment de revenir et il saura bien nous trouver. Mais nous oublions tous les deux que nous n’avons pas déjeuné. Allons, [MASK], viens avec moi : faisons d’abord du feu pour sécher nos vêtements, et puis nous mangerons. »
+
+['assujet', 'une', 'un', 'le', 'des']	Mathilde	puis, assujettissant le banc où leur hôte s’était endormi, il alla chercher une couverture de laine et en recouvrit ses épaules, pour que le froid ne le saisît pas pendant qu’il dormirait. Alors, laissant à sa portée les restes du souper, il se retira dans sa cellule avec [MASK].
+
+['il', 'on', 'elle', 'ils', 'elles']	Albert	Rassuré pour leur compagne, il ne l’était pas pour lui. La neige, tombée en quantité prodigieuse, ne leur permettait pas de sortir, et ils n’avaient plus que pour vingt-quatre heures "d’un pain sec et dur qu’[MASK] ménageait avec le plus grand soin.
+
+['la', "l'", 'ce', 'nos', 'son']	Albert	La mort, ou du moins la grande vieillesse qui en précède le sommeil, avait passé par là. Les bancs eux-mêmes, tombés de vétusté, n’avaient pas été relevé. Ces diverses circonstances n’échappèrent point à [MASK].
+
+['Il', 'Elle', 'il', '</s>', 'elle']	Albert	A Lyon, chaque coup de canon, chaque décharge de fusils tuait bien du monde. » [MASK] prit un livre au hasard dans la bibliothèque du Père absent. Il pensait que la lecture distrairait sa sœur et détournerait son attention de ces pensées de tristesse.
+
+['Pierre', 'le', 'Jean', 'François', 'celui-ci']	Albert	Cette vue impressionna [MASK], car on lui avait dit, en effet, que le couvent vers lequel il se dirigeait était situé au pied de cette montagne. Enfin, ils arrivèrent au hameau des Cottaves. Une maison de modeste apparence et que l’on appelait l’auberge du village, leur ouvrit sa porte hospitalière.
+
+['Pierre', 'le', "l'", 'Jean', 'et']	Albert	Plus hardis cette fois, ils s’aventurèrent jusqu’à une : haute : et large porte en marbre gris, dont un riche bénitier ornait l’entrée. [MASK], entraîné par une curiosité bien ; naturelle à son âge, ouvrit cette porte et une magnifique église s’offrit à leurs yeux.
+
+['il', 'Il', 'on', 'celui-ci', 'chacun']	Albert	) Le jour vint enfin, ramenant les inquiétudes de la veille. Heureusement, [MASK] avait emporté dans sa fuite ses bijoux et la bourse renfermant son petit trésor et qu’il ne quittait jamais. Mais de quoi cet or pourrait-il leur servir dans ce désert ?
+
+[',', 'de', 'se', 'le', 'la']	Albert	[MASK] alors la fit monter sur son dos, et s’armant de résolution, il s’avança dans la neige en l’écartant devant lui avec ses jambes. Il parvint, non sans peine et sans danger de trébucher, à traverser cette malheureuse cour avec son fardeau qu’il déposa bien sec dans le vestibule ;
+
+['que', ',', 'en', 'bien', "qu'"]	Mathilde	notre mère nous y conduira bien. Ne le sais-tu pas, [MASK] ? elle a dit qu’elle ne nous quitterait pas, qu’elle ferait la route avec nous, seulement que nous ne la verrions pas. Que doit-elle penser en t’entendant pleurer ?
+
+['on', 'se', 'ça', 'à', 'cela']	Myrrha	Nous avons déjà du bois pour chasser le froid et l’humidité, nous trouverons bien peut-être aussi de quoi chasser la faim ; [MASK] nous aidera, et, à nous trois, nous ne nous ennuierons pas trop Soyons donc reconnaissants envers Dieu ;
+
+['on', 'il', 'elle', 'Isabelle', 'elle-même']	Albert	Revêtue de la belle robe qu’[MASK] lui avait fait apporter de Grenoble, revêtue mieux encore de sa grâce virginale, de la candeur de son âme, elle s’avança vers l’autel entourée de ses compagnes, qui semblaient participer à la sainteté de leur jeune amie.
+
+['se', 'elle', ',', 'la', 'le']	Mathilde	[MASK] pleura en s’éloignant, son cœur était plein d’amertume, elle sentait qu’elle ne reverrait plus ces lieux qu’elle aimait malgré leur tristesse. Depuis ce jour, son état devint plus alarmant ; sa pâleur augmentait, sa peau était transparente et blanche comme de la cire ;
+
+['qui', 'elle', 'enfant', 'et', ',']	Mathilde	[MASK] savait tout cela, et la pauvre enfant s’étonnait de cet amour qu’elle ne croyait pas avoir mérité. Sa raison s’était de plus en plus développée avec la maladie ; ce n’était plus un enfant, mais une jeune fille qui paraissait avoir dix-huit ans.
+
+['il', 'Il', 'visage', 'homme', 'en']	Albert	passant à son tour sa tête blonde par l’ouverture. Hélas ! [MASK] était muet de surprise, et de désespoir. La pièce dans laquelle il avait pénétré et qui avait dû servir autrefois d’entrepôt, était complètement vide. Rien ne se présentait à lui qui pût assouvir leur faim.
+
+['elle', 'mère', 'une', 'sa', 'la']	Mathilde	Un jour enfin, [MASK], plus expansive et plus émue qu’à l’ordinaire, lui confia que depuis quelque temps elle apercevait toutes les nuits, en songe, leur mère qui lui souriait, l’appelait à elle, lui faisait signe de la suivre.
+
+['il', 'elle', 'on', 'Pierre', 'se']	Albert	Ainsi, un soir, [MASK] trouva au fond d’un placard qui avait échappé à ses recherches, une série de grands pots contenant du thon mariné, chose qui n’était pas à dédaigner pour gens réduits aux pommes déterre et aux fruits secs.
+
+[',', 'et', 'parents', 'la', 'de']	Mathilde	Comment se faisait-il que tous fussent absents ? Ils passèrent toute la journée, pressés l’un contre l’autre, mangeant à peine, le cœur gros de larmes et de craintes. La petite chèvre venait par moments lécher les mains de [MASK] et semblait partager sa tristesses
+
+['en', ',', 'il', 'curé', 'et']	Albert	[MASK] sortit sa petite bourse et voulut la donner au curé pour le dédommager de tout l’embarras et de toute la dépense qu’ils allaient lui causer. « Gardez cela, mes enfants, leur répondit le saint homme ; vous en aurez peut-être un jour plus besoin que moi.
+
+['Octave', 'Henri', 'Émile', 'enfants', 'Eugène']	Albert	je me lèverai la première pour t’en, porter une tasse dans ton lit. » Puis elle sautait au cou de son frère et l’embrassait en souriant. Souvent ils recommençaient leurs excursions dans la maison, les longs corridors du cloître plaisaient surtout à l’imagination d’[MASK] ;
+
+['Lui', 'lui', 'Il', 'il', 'et']	Albert	« ne cessait-elle de répéter. [MASK] aussi avait bien faim, mais il sentait que pleurer ne lui donnerait pas à manger, et qu’il fallait résister contre la souffrance présente pour échapper à une mort affreuse. Il se mit à la besogne avec ardeur.
+
+['elle', 'chacune', 'a', 'chacun', 'on']	Mathilde	De son côté, [MASK] avait fait ses recommandations pour ménager une surprise à son frère qu’elle aimait tant. Touchantes préoccupations de ces deux belles âmes qui se chérissaient si tendrement ! Dans tous ces témoignages de reconnaissance à leurs amis, le bûcheron aussi avait sa part.
+
+['elle', 'Elle', 'il', 'et', 'puis']	Albert	Revenue à elle, elle s’appuya sur le bras de son frère et reprit lentement le chemin de sa cellule, [MASK] se hâta d’y ranimer le feu et passa le reste de la journée à consoler, à rassurer sa petite sœur. IX. — DÉCOUVERTES NOUVELLES.
+
+[',', 'elle', 'si', 'avant', ';']	Albert	mais quand il s’agit de coudre, elle s’aperçut qu’elle n’avait, ni dé, ni aiguilles, ni fil. La difficulté était insurmontable ; force lui fut de faire comme [MASK] et de s’envelopper comme elle put dans ce long vêtement blanc.
+
+['Bruno', 'il', "s'", 'on', ',']	Albert	[MASK] était bien persuadé que les Chartreux devaient boire autre chose que de l’eau, puisqu’il avait trouvé une certaine quantité de bouteilles devin dans la cuisine. D’ailleurs, les étrangers qui venaient les visiter, devaient nécessairement être accueillis avec une boisson plus confortable que celle de saint Bruno.
+
+['elle', 'il', 'et', ',', 'la']	Mathilde	Fart humain s’était déclaré impuissant. Bientôt [MASK] ne put plus se tenir levée, il lui fallut garder le lit ; elle ne souffrait pas, ne se plaignait pas, elle allait en s’éteignant de jour en jour comme une lampe qui n’a plus d’huile.
+
+[',', 'qui', 'est', 'on', "c'"]	Mathilde	[MASK] est un petit ange, dévouée, aimante, au cœur sensible, et qui a grand besoin d’amour et d’affection. Veillez de loin sur eux, mon frère, et ne les abandonnez pas. Vous devez avoir à Grenoble des amis puissants ;
+
+['frère', 'Robert', 'Richard', 'tête', 'Jean']	Mathilde	(Page 40.) A chaque instant, la blonde tête de [MASK] se penchait sur l’épaule de son frère ; ses jambes se dérobaient sous elle : « Frère, disait-elle, je ne peux plus marcher, arrêtons-nous.
+
+['il', 'elle', '"', '-il', 'on']	Mathilde	les sapins de la montagne se courbaient sous l’effort puissant de la tempête, et le torrent qui longe le chemin du couvent roulait ses eaux avec un bruit sinistre. « Que tout est triste ici ! disait [MASK] ; quel bruit ! quel vent !
+
+['il', 'elle', 'Il', 'et', 'on']	Albert	Il les questionna avec bonté, avec cette rude franchise des montagnards qui n’exclut pas la bienveillance. [MASK] lui raconta en quelques mots son histoire : le bûcheron, quand il en, vint à leur séjour au couvent, ne put retenir une exclamation de surprise.
+
+['il', 'un', 'elle', 'le', 'on']	Albert	Cette absence de linge était pour eux une privation cruelle. Un jour, [MASK], en cherchant je ne sais quoi dans une pièce voisine de l’une des salles à manger où l’on recevait les étrangers, ouvrit un placard qu’à sa grande stupéfaction il trouva rempli de linge.
+
+['elle', 'et', 'Jeanne', 'Marie', 'celle-ci']	Mathilde	Le matin du second jour de leur arrivée, [MASK] s’éveilla en pleurant ; elle avait rêvé que sa mère était venue à elle, et, penchant son visage sur le sien, lui avait fait signe de la suivre.
+
+['il', 'y', 'Il', 'et', 'elle']	Albert	Ils retournèrent d’abord dans la cellule de leur oncle. [MASK] ramassa de nouveaux débris de ces papiers qui jonchaient le sol. Il lui semblait que tout ce qui avait appartenu à son oncle était plus spécialement son bien. Parmi ces lettres éparses, l’une d’elles surtout attira son attention.
+
+['</s>', 'tout', 'il', 'on', 'rien']	Mathilde	Ici, quatre mu railles nues entouraient ce champ du repos ; pas un arbuste, pas un souvenir qui indiquât qu’un parent, un ami, venait quelquefois y prier. La terre, comme les murs, tout y suait l’oubli. Cimetière des Pères. [MASK] n’y put tenir.
+
+['une', 'un', 'eux', 'été', 'est']	Albert	Et cependant le livre consolateur leur avait dit : — Dieu connaît le temps et la manière de vous délivrer, c’est pourquoi vous devez vous abandonner entre ses mains. — Et, faute de nourriture, ils allaient périr ! La pensée de manger leur chèvre vint un moment à l’esprit d’[MASK] ;
+
+['Il', 'il', 'Jean', 'Pierre', 'Jacques']	Albert	Qu’on est heureux quand on est riche ! Mais, cours donc, ajoutait-elle ; je voudrais déjà te voir de retour. » [MASK] ne se fit pas prier ; il partit en courant et revint bientôt tenant sa petite bourse, la bourse de sa mère.
+
+['celui-ci', 'il', 'Jean', 'on', 'Pierre']	Mathilde	ils parurent d’abord tout étonnés de se trouver dans cette vaste pièce, mais bientôt le souvenir des événements de la veille se fit jour dans leur esprit. « Si ce n’est pas le couvent, disait [MASK], qu’est-ce donc que cette grande maison ?
+
+['on', 'il', 'je', 'cela', 'elle']	Albert	Là, elle s’asseyait pensive, la tête dans ses mains ou les yeux levés au ciel. Elle semblait y apercevoir une forme invisible et ses yeux brillaient alors d’un feu surnaturel. Quand [MASK] la surprenait dans ces moments de rêverie, elle ne s’attristait nullement d’être troublée dans ses pensées.
+

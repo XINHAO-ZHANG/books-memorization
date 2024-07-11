@@ -1,0 +1,200 @@
+['oui', 'non', 'diable', 'violence', 'mais']	Emmanuel	Oui, dit-elle, apportez-les à la nuit ; quand mon père dormira, nous les cacherons à nous deux. S’il savait que j’ai de l’argent, peut-être me ferait-il violence. Oh ! [MASK], se défier de son père !
+
+['elle', 'Marie', 'Jeanne', 'Alice', 'Louise']	Marguerite	Pendant ce temps, [MASK] fut livrée aux anxiétés qui jadis avaient agité sa mère en semblable occurrence. Quelque incrédule qu’elle pût être, elle en était arrivée à espérer dans le génie de son père. Par un phénomène inexplicable, beaucoup de gens ont l’espérance sans avoir la foi.
+
+['?', '...', '[...]', 'madame', '!']	Marguerite	Ah ! dit-elle, je me jetterais dans le feu de l’enfer qui attise tes fourneaux pour entendre ce mot de ta bouche et pour te voir ainsi. En entendant le pas de sa fille dans l’antichambre, elle s’y élança vivement. – Que voulez-vous, [MASK]
+
+['moi', 'oui', 'vraiment', 'enfin', 'Seigneur']	Pépita	Si je m’absorbais dans quelque méditation, rappelle-moi cette promesse. Ce soir je veux quitter mes calculs, mes travaux, et me plonger dans toutes les joies de la famille, dans les voluptés du cœur ; car, [MASK], j’en ai besoin, j’en ai soif
+
+['cela', 'Louis', 'papa', 'Charles', 'Pierre']	Pierquin	Sais-tu pourquoi venait [MASK] ? Il venait te demander trente mille francs que tu dois, sans les avoir. Tes propriétés ne sont plus à toi. Je lui ai dit que tu avais ces trente mille francs, afin de t’épargner l’embarras où t’auraient mis ses questions
+
+['Moïse', 'un', 'Salomon', 'Job', 'Joseph']	Samson	Oppressé par une pensée qui l’étreignait, il rêvait les pompes de la Science, des trésors pour l’humanité, pour lui la gloire. Il souffrait comme souffre un artiste aux prises avec la misère, comme [MASK] attaché aux colonnes du temple.
+
+['Marie', 'Anna', 'Sophie', 'Clara', 'Jeanne']	Marguerite	En disant ces derniers mots, il contempla [MASK], mais sans que ce regard plein de confus désirs contînt aucune allusion à la blancheur mate, au calme, aux couleurs tendres qui faisaient de ce visage une fleur.– Vous travaillez donc beaucoup ?
+
+['Elle', 'Il', 'On', 'elle', 'Et']	Balthazar	Elle envoya chercher son père et se promena tout agitée à grands pas, dans le parloir, en se parlant à elle-même : – Trouver cent mille francs, dit-elle, ou voir notre père en prison ! Que faire ?[MASK] ne descendit pas.
+
+['Il', 'Elle', 'il', 'On', 'elle']	Marguerite	il frémissait sans doute en songeant à tout ce que sa lutte lui avait coûté : ses mouvements attestaient des pensées en dehors de la Science. [MASK] vint s’asseoir et travailler près de lui quelques moments avant le dîner.– Hé ! bien, mon père, vous n’avez pas réussi.–
+
+['elle', 'Marie', 'Madame', 'le', 'madame']	Marguerite	dit [MASK], mais ma sœur dépend d’elle et de notre père…– Je sais cela, ma chère cousine, dit le notaire, mais vous êtes la mère de toute la famille, et je n’ai rien plus à cœur que de vous rendre juge du mien.
+
+['elle', 'il', 'se', 'on', 'Eugène']	Marguerite	Au moment où [MASK] faisait son avant-dernier voyage de la travailleuse à la colonne, elle jeta un cri perçant, laissa tomber les rouleaux dont les pièces brisèrent le papier et s’éparpillèrent sur le parquet : son père était à la porte du parloir, et montrait sa tête dont l’expression d’avidité l’effraya.–
+
+['Dieu', 'Jésus', 'Marie', 'Christ', 'dieu']	Marguerite	Élevé par son oncle dans la pratique la plus sévère des vertus religieuses, le jeune homme avait spécialement horreur du mensonge ; après avoir offert sa vie et son cœur à [MASK], il lui faisait donc encore le sacrifice de sa conscience.–
+
+['Il', 'Elle', 'il', 'On', 'Et']	Balthazar	J’allais peut-être décomposer l’azote. Va, retourne à tes affaires.[MASK] rentra dans son laboratoire.– J’allais peut-être décomposer l’azote ! se dit la pauvre femme en revenant dans sa chambre où elle fondit en larmes.Cette phrase était inintelligible pour elle.
+
+['elle', 'on', 'il', 'chacun', 'Marie']	Claës	Le lendemain, la famille fit ses préparatifs pour aller à la campagne où elle demeura deux mois environ, et d’où elle ne revint en ville que pour s’y occuper de la fête par laquelle [MASK] voulait, comme jadis, célébrer l’anniversaire de son mariage.
+
+['Mais', 'Madame', 'Monsieur', 'Maintenant', '«']	Marguerite	[MASK], reprit-elle en tirant la lettre de dessous son chevet, voici un écrit que vous n’ouvrirez et ne lirez qu’au moment où, après ma mort, vous serez dans la plus grande détresse, c’est-à-dire si vous manquiez de pain ici.
+
+['–', '!', '?', ';', ':']	Marguerite.–	Hé ! bien ? dit-il avec tristesse en abordant [MASK] J’ai cédé, répondit-elle.– Ma chère vie, dit-il avec un mouvement de joie mélancolique, si vous aviez résisté, je vous eusse admirée ; mais faible, je vous adore !
+
+['Il', 'Elle', 'Marie', 'Louis', 'Jeanne']	Marguerite	[MASK] rougit en entendant l’éloge qui échappait à sa mère. Depuis deux jours, l’aspect de ce jeune homme avait éveillé dans son cœur des sentiments inconnus, et dégourdi dans son intelligence des pensées jusqu’alors inertes.
+
+['monsieur', 'Monsieur', 'madame', 'messieurs', 'Madame']	Mulquinier	Laissez-nous, [MASK], dit-elle.– Ah ! je tiens une nouvelle expérience, s’écria Claës.– Mon père, oubliez vos expériences, lui dit sa fille quand ils furent seuls, vous avez cent mille francs à payer, et nous ne possédons pas un liard.
+
+['toi', 'lui', 'moi', 'vous', 'cela']	Pierquin	: – Tu ne me laisseras pas long-temps seule avec [MASK], n’est-ce pas ? Tu me rejoindras promptement.Elle se trouva si leste pour descendre, qu’en l’entendant, un étranger n’aurait pas reconnu le pas d’une boiteuse.– Monsieur
+
+['Freud', 'Clara', 'Jésus', 'Alice', 'Napoléon']	Marguerite	!– Ma pauvre mère est heureuse, dit [MASK], elle aurait souffert mille fois la mort avant de mourir, elle qui a péri à son premier choc contre la Science. Mais ce combat n’a pas de fin…
+
+['il', 'lui', 'on', 'Il', 'elle']	Gabriel	Dans cette conjoncture, ne pourriez-vous pas consulter votre frère sur ses goûts, lui faire choisir par lui-même une carrière, afin que si, plus tard, son père voulait en faire un magistrat, un administrateur, un militaire, [MASK] eût déjà des connaissances spéciales ?
+
+['Madame', 'elle', 'Mme', 'Marie', 'madame']	Marguerite	Pendant qu’il traversait la cour, [MASK], qui étudia sa figure avec inquiétude, n’y vit que l’expression d’une douleur orageuse. Quand il entra dans le parloir, elle s’avança vers lui pour lui souhaiter le bonjour ;
+
+['Charles', 'Louis', 'Pierre', 'Joseph', 'Paul']	Balthazar	Son amour était un fanatisme aveugle qui sur un seul signe de tête l’eût fait aller joyeusement à la mort. La délicatesse de [MASK] avait exalté chez elle les sentiments les plus généreux de la femme, et lui inspirait un impérieux besoin de donner plus qu’elle ne recevait.
+
+['lui', 'elle', 'eux', 'Joseph', 'Louis']	Balthazar	Sa sollicitude pour [MASK] éclatait dans la résolution qu’elle venait de prendre. En libérant les biens de son mari, elle en assurait l’indépendance, et prévenait toute discussion en séparant ses intérêts de ceux de ses enfants ; elle espérait le voir heureux jusqu’au moment où elle fermerait les yeux
+
+['Marguerite', 'Marie', 'Jeanne', 'Julie', 'Madeleine']	Marguerite	Tout le monde le plaint en ville ; il va comme un homme qui n’a plus ses idées ; il s’arrête sans motif, regarde sans voir…– Chaque douleur a son expression, dit [MASK] en retenant ses pleurs. Que vouliez-vous me dire ?
+
+['tous', 'chacun', 'Dieu', 'autrui', 'quiconque']	Marguerite	Le dévouement s’était chiffré dans l’esprit du notaire comme une excellente spéculation, ses soins, ses peines furent alors en quelque sorte une mise de fonds qu’il ne voulut point épargner. D’abord, il tenta d’éviter à [MASK] la peine de faire défricher et de labourer les terres destinées aux fermes.
+
+['Pasteur', 'Bernard', 'Franklin', 'Bonaparte', 'Pascal']	Lavoisier	Il fréquenta donc beaucoup les savants et particulièrement [MASK], qui se recommandait alors plus à l’attention publique par l’immense fortune d’un fermier-général, que par ses découvertes en chimie ; tandis que plus tard, le grand chimiste devait faire oublier le petit fermier-général.
+
+['Goethe', 'Rousseau', 'Baudelaire', 'Voltaire', 'Diderot']	Balthazar	?…– Nos anciens peintres, répondit [MASK], étudiaient les diverses combinaisons et la résistance des couleurs, en les soumettant à l’action du soleil et de la pluie. Mais vous avez raison : aujourd’hui les ressources matérielles de l’art sont moins cultivées que jamais.
+
+['il', 'elle', 'Il', 'Alexandre', 'Charles']	Lemulquinier	; souvent, à son aspect, un mot de raillerie ou de pitié s’échappait des lèvres d’un homme du peuple ou d’un enfant ; mais [MASK] avait soin de le lui traduire comme un éloge, et pouvait le tromper impunément.
+
+['Marie', 'Sophie', 'Jeanne', 'Louise', 'Catherine']	Balthazar	Elle obtint de son père qu’il changeât de costume et reprît les habitudes de toilette convenables à un homme de son rang. Cette restauration corporelle rendit à [MASK] une sorte de dignité physique qui fut de bon augure pour un changement d’idées.
+
+['madame', 'Marguerite', 'Marie', 'Jeanne', 'Madame']	Marguerite	Oh ! monsieur, dit [MASK] en regardant le notaire, comment pouvez-vous…– Mais, ma cousine, nous sommes forcés, nous autres, de compter des délais qui sont fixés par la loi. Il s’agit précisément de vous et de vos cohéritiers.
+
+['Madame', 'Monsieur', 'Louis', 'madame', 'Maman']	Marguerite	Cependant vous êtes majeure.– Dans quelques jours. Avez-vous, dit [MASK], un parti à me proposer qui puisse concilier nos intérêts et ce que nous devons à notre père, à l’honneur de la famille ?– Cousine, nous ne pouvons rien sans votre oncle.
+
+['Joseph', 'Dieu', 'Monsieur', 'Charles', 'Paul']	Balthazar	Quelque pénible que fût pour elle la présence de son mari pensif durant des heures entières, et qui lui jetait de temps en temps un regard monotone, elle n’oubliait ses douleurs que pendant ces cruels instants. L’indifférence de [MASK] pour cette femme mourante eût semblé criminelle à quelque étranger qui en aurait été le témoin
+
+['Il', 'il', 'Joseph', 'Elle', 'David']	Balthazar	Sotte et laide comme une héritière aux yeux du monde, elle devint spirituelle et belle pour son mari. [MASK] essaya bien pendant les premières années de son mariage de donner à sa femme les connaissances dont elle avait besoin pour être bien dans le monde ;
+
+['non', 'hein', 'pourquoi', 'va', 'dis']	Emmanuel	: – Au milieu de nos profondes misères, il surgit un bonheur. Mon père me laisse, par insouciance, la libre disposition de moi-même, dit-elle en tendant la bague, prends, [MASK] ? Ma mère te chérissait, elle t’aurait choisi.
+
+['Elle', 'Marie', 'Emma', 'Jeanne', 'Anna']	Marguerite	Plus, s’écria-t-elle. Vous en avez donc ?– Rien, des misères, répondit-il en baissant les yeux et rougissant.[MASK] se trouva pour la première fois humiliée par l’abaissement de son père, et en souffrit tant qu’elle n’osa l’interroger.
+
+['eux', 'oreille', 'elle', 'épaule', 'oreilles']	Emmanuel	Il s’ensuivit, entre la cousine et le cousin, quelques causeries douces, quelques mots dits à voix basse en arrière d’[MASK], enfin de ces petites tromperies qui donnent à un regard, à une parole une expression dont la douceur insidieuse peut causer d’innocentes erreurs.
+
+['Madame', 'Monsieur', 'Julie', 'Mme', 'Marie']	Pierquin	– Restez, ma cousine, dit [MASK], ces affaires vous concernent vous et votre père. Vous savez combien je prends part à vos chagrins ; mais il faut vous occuper aujourd’hui même de ces détails, sans quoi vous pourriez, les uns et les autres, vous en trouver fort mal
+
+['on', 'il', 'Jaurès', 'Charles', 'Louis']	Balthazar	! dont sont accablés les grands hommes par les masses quand elles les voient misérables. Beaucoup de personnes venaient devant la Maison Claës, se montrer la rosace du grenier où s’était consumé tant d’or et de charbon. Quand [MASK] passait, il était indiqué du doigt
+
+['il', 'Joseph', 'Charles', 'Louis', 'Il']	Claës	Quoique souvent distrait, [MASK] assistait à toutes les assemblées, et redevint si complaisamment homme du monde pour complaire à sa fille aînée, que ses enfants purent croire qu’il avait renoncé à chercher la solution de son problème. Trois ans se passèrent ainsi.
+
+['Henri', 'toi', 'Pierre', 'papa', 'fils']	Gabriel	– Hé bien ! [MASK], comment se porte le père Morillon ? dit-il à son fils aîné en lui prenant l’oreille et la lui tortillant, te défends-tu vaillamment contre les thèmes, les versions ? mords-tu ferme aux mathématiques ?
+
+['Marie', 'Dieu', 'Jeanne', 'Joseph', 'Catherine']	Balthazar	; mais en voyant renaître dans les yeux de [MASK] l’expression qui la charmait, qui était sa gloire à elle, et lui révélait l’entière action de son ancienne puissance qu’elle croyait perdue, elle lui dit en souriant :
+
+['Dieu', 'Napoléon', 'Paris', 'Jésus', 'fer']	Balthazar	Dès la cinquième année, elle put consacrer trente mille francs de revenu que donnèrent les fermes, les rentes de son frère et le produit des biens paternels, à l’acquittement des capitaux hypothéqués, et à la réparation des dommages que la passion de [MASK] avait faits dans sa maison.
+
+['il', 'Charles', 'David', 'Joseph', 'Paul']	Balthazar	En se laissant aller à sa passion, [MASK] dut nécessairement avoir moins de respect pour les intérêts de ses enfants qu’il n’en avait eu pour sa femme. Les barrières étaient moins hautes, sa conscience était plus large, sa passion devenait plus forte.
+
+['Mais', 'Et', 'David', 'Dieu', 'Car']	Pierquin	[MASK] lui-même ne contemplait pas sans un sentiment de respect ce lion en cage, dont les yeux pleins de puissance refoulée étaient devenus calmes à force de tristesse, ternes à force de lumière ; dont les regards demandaient une aumône que la bouche n’osait proférer.
+
+['Il', 'II', 'il', 'Paul', 'Joseph']	Pierquin	[MASK] était de taille moyenne, ni gras, ni maigre, d’une figure vulgairement belle et qui exprimait une tristesse plus chagrine que mélancolique, une rêverie plus indéterminée que pensive ; il passait pour misanthrope, mais il était trop intéressé, trop grand mangeur pour que son divorce avec le monde fût réel.
+
+['maman', 'moi', 'oui', 'Maman', 'mère']	Marguerite	Pauvre fille, je n’ai pas su me sacrifier pour vous, ajouta la mère en versant des larmes chaudes, et je te demande de te sacrifier pour tous. Le bonheur rend égoïste. Oui, [MASK], j’ai été faible parce que j’étais heureuse.
+
+['Voltaire', 'Corneille', 'Rousseau', 'Pierre', 'Jean']	Pierquin	[MASK], le premier, fit observer à ceux qui causaient de cet événement que la mort de cette excellente femme était un bien pour elle, son mari la rendait trop malheureuse ; mais que c’était, pour ses enfants, un plus grand bien encore ;
+
+['il', 'Joseph', 'Charles', 'Louis', 'Pierre']	Balthazar	En effet, à compter de ce jour, [MASK] déguisa mal le chagrin et l’ennui qui l’accabla. Le matin, après le déjeuner de famille, il jouait un moment dans le parloir avec son fils Jean, causait avec ses deux filles occupées à coudre, à broder, ou à faire de la dentelle
+
+['on', 'il', 'elle', 'chacun', 'On']	Balthazar	En entrant dans les appartements de réception, [MASK] les trouva restaurés et meublés aussi magnifiquement qu’ils l’étaient autrefois. Bientôt les convives se rendirent dans la grande salle à manger du rez-de-chaussée par le grand escalier, sur chaque marche duquel se trouvaient des arbres fleuris.
+
+['Elle', 'Marie', 'Jeanne', 'Marguerite', 'Catherine']	Marguerite	[MASK] accepta l’assistance du notaire, mais seulement dans tout ce qui concernait sa profession, afin de ne compromettre en rien ni sa dignité de femme, ni l’avenir de sa sœur, ni les déterminations de son père.
+
+['Elle', 'Il', 'On', 'Marie', 'Madame']	Joséphine	! ne devait-elle pas paraître ridicule à un homme qui, n’étant plus soumis aux fascinations de l’amour, pourrait voir juste. [MASK] eût volontiers tout perdu, fortune et enfants, plutôt que d’amoindrir sa puissance de femme.
+
+['Dieu', 'Jupiter', 'Satan', 'Jésus', 'Joseph']	Balthazar	; mais, pour la première fois de sa vie, elle connut la colère de [MASK] ; à peine avait-elle entr’ouvert la porte, qu’il fondit sur elle, la prit, la jeta rudement sur l’escalier, où elle faillit rouler du haut en bas.–
+
+['Elle', 'Lui', '</s>NOTUSED', 'Napoléon', 'Balzac']	Balthazar	Elle était épouvantée des ravages que la préoccupation avait faits dans cette grande intelligence absorbée dans la recherche d’un problème peut-être insoluble. [MASK], qui ne voyait sans doute rien au delà de ses fourneaux, ne devinait même pas la libération de sa fortune.
+
+['lui', 'Pierre', 'Charles', 'Juan', 'Jean']	Balthazar	Souvent, pour éprouver cet amour et au risque de le perdre, elle dédaignait la parure qui pouvait sauver en partie ses défauts. Ses yeux d’espagnole fascinaient quand elle s’apercevait que [MASK] la trouvait belle en négligé.
+
+['Joseph', 'Charles', 'Jésus', 'Pierre', 'Dieu']	Claës	– Mon ami, reprit-elle, je ne vivais que par ton amour, et tu m’as à ton insu retiré ma vie.– Laissez-nous, dit [MASK] à ses enfants au moment où ils entrèrent. Ai-je donc un seul instant cessé de t’aimer ?
+
+['Juliette', 'Madeleine', 'Constance', 'Jeanne', 'Marguerite']	Marguerite	Ils se levèrent par un mouvement unanime en se dirigeant vers leur banc dans le jardin ; mais au milieu du parloir, l’amant ne put résister à sa joie, et d’une voix que l’émotion rendit tremblante, il dit à [MASK] :
+
+['Joseph', 'Paul', 'Charles', 'Pierre', 'Louis']	Balthazar	» et faisait croire à cet homme distrait que le lendemain elle serait levée, rétablie. La préoccupation de [MASK] était si grande qu’il acceptait la maladie dont mourait sa femme, comme une simple indisposition. Moribonde pour tout le monde, elle était vivante pour lui.
+
+['Charles', 'Louis', 'Joseph', 'Pierre', 'Alexandre']	Balthazar	Mon cher cousin, dit-il, je suis venu ce soir pour vous parler affaire. Quarante-trois jours se sont écoulés depuis le décès de votre femme.– Je ne les ai pas comptés, dit [MASK] en essuyant une larme que lui arracha le mot légal de décès.–
+
+['Charles', 'John', 'George', 'James', 'Thomas']	Balthazar	Le vieux Conyncks devina les pensées de [MASK], et, en déjeunant, il lui dit avec une grosse franchise : – J’ai quelques-uns de vos tableaux, cousin, j’ai le goût des beaux tableaux, c’est une passion ruineuse ; mais, nous avons tous notre folie…
+
+[':', '–', '</s>NOTUSED', ';', '—']	Balthazar.–	Ce moment efface toutes mes douleurs, reprit-elle. Maintenant, fais-moi souffrir si tu veux.En entendant ce mot, les larmes gagnèrent [MASK] Mais tu as raison, je ne vous voyais qu’à travers un voile, et je ne vous entendais plus.–
+
+['Il', 'Elle', 'On', 'Charles', 'Joseph']	Balthazar	[MASK] obtint alors, de jour en jour, les preuves du dérangement que ses travaux et son insouciance avaient apporté dans ses affaires. Loin d’élargir la plaie par des observations, sa femme trouvait toujours des palliatifs aux maux consommés.
+
+['Il', 'Joseph', 'Alexandre', 'Louis', 'Charles']	Marguerite	[MASK] prit le bras de son père pour se rendre dans les appartements de la maison de devant où l’attendait une somptueuse fête. Quand il entra dans la galerie après tous ses hôtes, il la vit meublée de tableaux et remplie de fleurs rares.–
+
+['il', 'elle', 'lui', 'Charles', 'Joseph']	Claës	Néanmoins, la défiance lui gâtait les rares instants pendant lesquels elle se hasardait à se livrer au bonheur. Elle se demandait bientôt si [MASK] ne cherchait pas à l’épouser pour avoir au logis une esclave, s’il n’avait pas quelques imperfections secrètes qui l’obligeaient à se contenter d’une pauvre fille disgraciée.
+
+['«', '1', '2', '5', '6']	Marguerite	[MASK].Cette observation interrompit l’entretien. Le notaire se trouva trop embarrassé de continuer après l’observation de sa cousine.– Le diable s’en mêle ! se dit-il dans la cour. Cet homme si distrait retrouve la mémoire juste au moment où il le faut pour empêcher de prendre des précautions contre lui.
+
+['encore', 'demain', 'ici', 'bientôt', 'déjà']	Pierquin	? dit-elle en rentrant et donnant à sa physionomie une expression de douce malice. Mon ami, va chez toi, fais-moi la grâce de t’habiller, nous avons [MASK] à dîner. Voyons, quitte ces habits déchirés. Tiens, vois ces taches ?
+
+['</s>NOTUSED', 'Descartes', 'Newton', 'Platon', 'Galilée']	Balthazar	Le coup était porté. [MASK], dont les facultés avaient été jusqu’alors conservées par la chasteté naturelle aux savants chez qui la préoccupation d’une découverte anéantit les passions, devina, par un phénomène d’intussusception, le secret de cette scène ;
+
+['Platon', 'Pascal', 'Nietzsche', 'Goethe', 'Baudelaire']	Claës	Quoi ! mon amour serait…– De la matière éthérée qui se dégage, dit [MASK], et qui sans doute est le mot de l’Absolu. Songe donc que si moi, moi le premier ! si je trouve, si je trouve, si je trouve !
+
+['elle', 'on', 'il', 'vous', 'je']	Félicie	Demain, [MASK] conduira donc la maison. La pauvre enfant n’a que dix-sept ans, elle ne saurait pas vous résister ; soyez généreux, ne lui demandez pas un sou, car elle n’aura que ce qu’il lui faut strictement pour les dépenses de la maison.
+
+['Descartes', 'Kant', 'Goethe', 'Freud', 'Jacob']	Claës	Ces préparatifs empêchèrent donc [MASK] de songer à la recherche de l’Absolu. En revenant aux idées domestiques et à la vie sociale, le savant retrouva son amour-propre d’homme, de Flamand, de maître de maison, et se plut à étonner la contrée.
+
+['chacun', 'elle', 'il', 'on', 'chacune']	Balthazar	Ce fut des jours infertiles comme des landes desséchées, où néanmoins ils glanaient quelques fleurs, rares consolations. L’atmosphère leur semblait brumeuse en l’absence de la fille aînée, devenue l’âme, l’espoir et la force de cette famille. Deux mois se passèrent ainsi, pendant lesquels [MASK] attendit patiemment sa fille.
+
+['France', 'Angleterre', 'elle', 'retour', 'général']	Flandre	; mais elle ne flattait pas seulement la vanité que tout homme porte plus ou moins dans le choix d’une femme, elle satisfaisait encore l’orgueil du notaire par l’immense considération dont sa famille, doublement noble, jouissait en [MASK], et que partagerait son mari.
+
+['elle', 'il', 'Marie', 'Louise', 'Madeleine']	Marguerite	Mais, à ces cajoleries [MASK] opposait le tableau de la détresse actuelle, soit par un mot de doute, soit par un regard qu’elle jetait sur les rayons vides des dressoirs de cette salle à manger.– Va, lui dit-il, dans six mois, nous remplirons ça d’or et de merveilles.
+
+['madame', 'Marie', 'Madame', 'maman', 'monsieur']	Marguerite	Dites-moi tout ce que doit mon père, s’écria-t-elle.– Ici, monsieur doit un millier d’écus à un apothicaire qui tient l’épicerie en gros, et qui nous a fourni des potasses caustiques, du plomb, du zinc, et des réactifs.– Est-ce tout ? dit [MASK].
+
+['Il', 'Elle', 'On', 'Marie', 'Joseph']	Marguerite	! tu me fais perdre le fruit de dix années de travaux, et les sommes énormes que représente mon laboratoire. Là, dit-il en indiquant le grenier, sont toutes nos ressources.[MASK] marcha vers la porte en disant : – Mon père, vous choisirez !
+
+['Il', 'Elle', 'Marie', 'Marguerite', 'Madeleine']	Emmanuel	Cet amour naïvement progressif fut son soutien. [MASK] portait dans ses témoignages d’affection cette grâce naturelle qui séduit tant, cet esprit doux et fin qui nuance l’uniformité du sentiment, comme les facettes relèvent la monotonie d’une pierre précieuse, en en faisant jouer tous les feux
+
+['lui', 'Dieu', 'tous', 'chacun', 'Pierre']	Marguerite	La vie qu’il menait, et les soirées pendant lesquelles ces quatre personnes se trouvèrent réunies en l’absence de [MASK] furent donc une vie et des soirées empreintes de tristesse, remplies d’appréhensions vagues. Ce fut des jours infertiles comme des landes desséchées, où néanmoins ils glanaient quelques fleurs, rares consolations.
+
+['Mme', 'la', '[...]', 'madame', 'Madame']	Pierquin	Un mari vous est indispensable, même comme affaire. Vous allez être en présence de votre père. Seule, lui résisterez-vous ?– Oui, monsieur, je saurai défendre mes frères et ma sœur, quand il en sera temps.– Peste, la commère ! se dit [MASK]
+
+['il', 'Charles', 'elle', 'Albert', 'Henri']	Balthazar	Quand il fit presque nuit, [MASK] dit à sa femme d’une voix émue : – Montons.Long-temps avant que les mœurs anglaises n’eussent consacré la chambre d’une femme comme un lieu sacré, celle d’une Flamande était impénétrable.
+
+['celui', 'Monsieur', 'Pierre', 'Antoine', 'Jeanne']	Lemulquinier	!– Ne sois pas triste, tu feras le bonheur de ceux que tu aimes, tu seras bien puissante, bien riche.– Mademoiselle a si bon cœur, dit [MASK] dont la face en écumoire grimaça péniblement un sourire.
+
+['Oui', 'Père', 'Papa', 'Non', 'Ah']	Marguerite	: – [MASK], il me faut cet or !– Ce serait un vol si vous le preniez, répondit-elle froidement. Écoutez, mon père : il vaut mieux nous tuer d’un seul coup, que de nous faire souffrir mille morts chaque jour.
+
+['Elle', 'Il', 'Marie', 'Marguerite', 'Jeanne']	Marguerite	[MASK] voulait relever son père, mais il persistait à rester à ses genoux, et il ajouta en pleurant : – Sois une dernière fois, tendre et dévouée ? Si je ne réussis pas, je te donnerai moi-même raison dans tes duretés.
+
+['enfin', 'quant', 'davantage', 'plus', 'face']	Marguerite	Il se servait du ton que sa longue familiarité l’autorisait à prendre, comme d’un instrument pour se mettre plus avant dans le cœur de la famille, pour décider [MASK] à un mariage proclamé par avance dans toute la ville.
+
+['Louis', 'Paul', 'Charles', 'Victor', 'Léon']	Balthazar	Mais les efforts que faisait [MASK] pour bien jouer son rôle de maître de maison, son affabilité d’emprunt, les feux d’artifice de son esprit, tout accusait la profondeur du mal par la fatigue à laquelle on le voyait en proie le lendemain.
+
+['promener', 'voir', 'balader', 'ici', 'chercher']	Mulquinier	Voyons, quitte ces habits déchirés. Tiens, vois ces taches ? N’est-ce pas de l’acide muriatique ou sulfurique qui a bordé de jaune tous ces trous ? Allons, rajeunis-toi, je vais t’envoyer [MASK] quand j’aurai changé de robe.
+
+['Marie', 'son', 'Joseph', 'Pierre', 'Jean']	Marguerite	elle espérait le voir heureux jusqu’au moment où elle fermerait les yeux ; puis elle comptait transmettre les délicatesses de son cœur à [MASK], qui continuerait à jouer auprès de lui le rôle d’un ange d’amour, en exerçant sur la famille une autorité tutélaire et conservatrice.
+
+['elle', 'mais', 'et', 'il', 'puis']	Balthazar	Sa femme entendait bien les termes de cette proposition qui fut trop rapidement énoncée pour qu’elle la conçût entièrement, [MASK] songea qu’elle avait étudié sa Science favorite, et lui dit, en lui faisant un signe mystérieux :
+
+['cela', 'tout', 'ceci', 'ainsi', 'ça']	Balthazar	Enfin elle crut avoir cessé de plaire à son mari et fut alors sérieusement alarmée. Cette crainte l’occupa, la désespéra, l’exalta, devint le principe de bien des heures mélancoliques, et de tristes rêveries. Elle justifia [MASK] à ses dépens en se trouvant laide et vieille
+
+['Monsieur', 'Madame', 'madame', 'le', 'Voltaire']	Josette	Est-il avare, ce Chinois-là !– Fallait le prendre par la famine, dit [MASK]. Voilà huit jours qu’il n’a rien frotté nune part, je fais son ouvrage, il est toujours là-haut ;
+
+['Tout', 'tout', 'et', 'était', 'très']	Lemulquinier	[MASK] occupé à faire mouvoir le plateau de cette machine montée sur un axe mobile, afin de toujours maintenir la lentille dans une direction perpendiculaire aux rayons du soleil, se leva, la face noire de poussière, et dit : – Ha ! mademoiselle, n’approchez pas !
+
+['Dieu', 'Pierre', 'Monsieur', 'Lucien', 'mère']	Balthazar	Elle ne quitta plus le chevet du lit de [MASK], de qui elle s’efforçait de deviner toutes les pensées, et d’accomplir les moindres souhaits. Quelques mois se passèrent dans les alternatives de mal et de bien qui signalent chez les vieillards le combat de la vie et de la mort ;
+
+['celui', 'celle', 'Jeanne', 'Pierre', 'Alexandre']	Marguerite	Il est si bon, il m’aime tant ! il m’a dernièrement acheté un homme pour me sauver de la conscription, moi, pauvre orphelin.– À quoi vous destinez-vous donc, demanda [MASK] qui parut vouloir reprendre sa phrase en laissant échapper un geste et qui ajouta :
+
+['»', '...', '[...]', '«', 'etc']	Marguerite	il ne pourrait avoir tort que dans la forme, ses intentions seront toujours nobles, il est si excellent, son cœur est plein d’amour ; vous le reverrez bon et affectueux, vous ! J’ai dû te dire ces paroles sur le bord de la tombe, [MASK].
+
+['Il', 'Pasteur', 'Freud', 'Proust', 'Darwin']	Claës	[MASK] ne s’aperçut pas de cette réforme qui réduisait la vie au strict nécessaire. D’abord il ne déjeunait pas, puis il ne descendait de son laboratoire qu’au moment même du dîner, enfin il se couchait quelques heures après être resté dans le parloir entre ses deux filles, sans leur dire un mot.
+
+['Elle', '</s>NOTUSED', 'Lui', 'Madame', 'Monsieur']	Balthazar	La malheureuse femme n’avait même plus alors l’espoir mêlé d’angoisses que donne l’attente, et souffrait jusqu’au lendemain. [MASK], qui avait oublié l’heure de la fermeture des portes, arrivait le lendemain tout tranquillement sans soupçonner les tortures que sa distraction devait imposer à sa famille
+
+['elle', 'Jeanne', 'Louise', 'Marie', 'Marguerite']	Joséphine	Ceux qui aiment véritablement savent combien l’argent est peu de chose auprès des sentiments, et avec quelle difficulté il s’y agrège. Néanmoins [MASK] n’apprit pas sans une cruelle émotion que son mari devait trois cent mille francs hypothéqués sur ses propriétés.
+
+['elle', 'il', 'on', 'chacun', 'Joseph']	Balthazar	Les suppositions de sa femme étaient, jusqu’à un certain point, assez fondées. Plusieurs ouvriers de diverses professions avaient long-temps travaillé dans le grenier de la maison de devant, où [MASK] se rendait dès le matin.
+
+['il', 'elle', 'Dieu', 'on', 'Jésus']	Balthazar	Au moment où la pauvre femme arrivait à un degré de désespoir qui lui prêtait le courage d’interroger son mari ; précisément, alors elle retrouvait de doux moments, pendant lesquels [MASK] lui prouvait que s’il appartenait à quelques pensées diaboliques, elles lui permettaient de redevenir parfois lui-même.
+
+['Baudelaire', 'Picasso', 'Raphaël', 'Turner', 'David']	Raphaël	Les soupirs de leurs cœurs, remplis de joie par quelque regard échangé, se distinguaient peu des soupirs arrachés par le spectacle de la douleur maternelle. Leurs bons petits moments d’aveux indirects, de promesses inachevées, d’épanouissements comprimés pouvaient se comparer à ces allégories peintes par [MASK] sur des fonds noirs.
+
+['Newton', 'Descartes', 'Voltaire', 'Galilée', 'Kant']	Balthazar	En effet, le désespoir de [MASK] fut si grand, que les personnes disposées à blâmer sa conduite la lui pardonnèrent, moins au nom de la Science qui pouvait l’excuser, qu’en faveur de ses regrets qui ne réparaient point le mal.
+

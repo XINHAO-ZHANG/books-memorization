@@ -1,0 +1,200 @@
+['couché', 'assis', 'allongé', 'lui', 'assise']	Azor	Alors, comme il faisait chaud, mon ami commençait par me préparer un bon lit avec quelques paillassons, et je me couchais pour dormir, [MASK] à mes pieds, en rond, la tète entre les pattes. Tout bourdonnait autour de nous, les abeilles et les hannetons, comme dans un concert
+
+['Bonaparte', 'Napoléon', 'Gambetta', 'Leclerc', 'Condé']	Florentin	: « Halte ! » On met les fusils en faisceaux, on place les sentinelles pour les garder, et les autorités viennent recevoir [MASK] avec son état-major. On les conduit à l’hôtel de ville, où doit avoir lieu un grand banquet.
+
+['Marie', 'Madame', 'Monsieur', 'Maman', 'Paul']	Cocole	Je montai sur un tabouret, pour me regarder avec ma cocarde dans le miroir, et je me trouvai très beau. Pendant ce temps, la délibération avait continué en face du bocal de cerises et des beignets que [MASK] avait sortis de son armoire.
+
+['Il', 'On', 'Elle', 'Georges', 'Louis']	Florentin	Même précision. [MASK] souriait. « C’est bien, disait-il. Croisez... ettes ! Très bien... nous n’avons pas oublié la manœuvre. Hé ! là-bas, le troisième homme du second rang, le coude au corps, les épaules effacées...
+
+['Napoléon', 'Bonaparte', 'Leclerc', 'César', 'Merlin']	Florentin	» Ce n’était qu’une rumeur sur toute la ligne. Et comme la sentinelle criait : « Quand il vous plaira. » [MASK], furieux, accourait derrière la colonne, criant de sa voix vibrante : « Que le drapeau s’avance, mille tonnerres !...
+
+['service', 'commandement', 'parade', 'police', 'gendarmerie']	Mâcri	Enfin le rappel bat, les hommes passent en grande tenue ; mon père sort à son tour, en disant : « A ce soir ! » Il allonge le pas vers la place d’Armes. Puis arrive la grande voiture de [MASK], où nous montons.
+
+['Pierre', 'Marie', 'Jean', 'Jeanne', 'Roland']	Materne	Hé ! ils ne viendront donc pas ? disait [MASK], regardant le coin du cimetière, où débouchait le chemin. Voici trois heures et demie qui sonnent en ville. Si Pélerin nous a trompés, gare !... gare !... — Je ne vous ai pas trompés ;
+
+['lui', 'Napoléon', 'Martin', 'le', 'Charles']	Florentin	Ces dames étaient allées les prévenir de l’événement ; ils arrivaient pour s’interposer, et [MASK], dès qu’il les aperçut, devint plus calme. « Mon commandant, dit-il, c’est ici que vous venez ? — Oui, capitaine. — Eh bien
+
+['il', 'elle', 'on', 'Il', 'mais']	Florentin	; la grande haie vive resplendissait de verdure ; [MASK] n’y fit pas même attention, sa pensée était ailleurs. Nous entendions de loin les commandements répétés par les échos de la demi-lune et des bastions : « Une !... deusse !... une !... deusse !
+
+['je', 'chacun', 'monsieur', 'Napoléon', 'Louis']	Lucien	on voyait que chaque mot lui sortait des entrailles, et qu’il aurait donné mille fois sa vie pour sauver le drapeau. Mon père lui-même en était ému. « Certainement, mon commandant, lui dit-il, que [MASK] doit aller voir cette cérémonie, je le veux comme vous
+
+['elle', 'Marie', 'Jeanne', 'maman', 'Madeleine']	Frentzel	mais tu ne lui diras rien, ni à ton père, ni à ta mère, ni à personne ! — Non, mon ami. » J’allai donc ouvrir, et [MASK] entra, portant la lampe qu’elle venait d’allumer dans la cuisine ;
+
+['bois', 'pierre', 'Marie', 'granit', 'Mélanie']	Saint-Jean	; plus loin, au delà de la haie touffue couverte d’églantines, la petite chapelle de [MASK], et autour de nous l’ombre tremblotante des poiriers, des pommiers, des cerisiers moutonnant à perte de vue dans le verger ;
+
+['guerre', 'cavalerie', 'soldats', 'militaires', 'Napoléon']	Charlet	il ressemblait au chevalier don Quichotte. Presque tous les vieux soldats du premier empire avaient quelque chose de cet air-là, je ne sais pourquoi ; mais qu’on regarde les vieilles gravures de [MASK] et l’on trouvera que j’ai raison.
+
+['elle', 'vous', 'moi', 'Marie', 'Jeanne']	Loïs	— Monsieur le curé, lui répondis-je, je suis complètement à vos ordres, et quant à [MASK], elle sera trop heureuse de pouvoir vous être agréable. — Alors, c’est entendu, fit-il. — Oui, monsieur le curé.
+
+['maman', 'moi', 'lui', 'papa', 'Maman']	Frentzel	Il était vraiment beau, ce jeune homme, en disant cela, et [MASK], qui n’éprouvait pourtant pas d’enthousiasme pour la guerre, ne put s’empêcher de dire, en se penchant à l’oreille de ma mère : « Quel brave garçon !... et comme il parle bien !
+
+['Madame', 'madame', 'Mme', 'maman', 'Napoléon']	Nicole	; mon mari serait aussi devenu général, il n’était pas plus bête que les autres, mais, à la fin, les nobles avaient seuls toutes les bonnes places. — C’est sûr, faisait [MASK], nos pauvres innocents ne se souviennent plus de rien ;
+
+['je', 'lui', 'chacun', 'Louis', 'monsieur']	Juliette	Je vais lui signifier d’avoir à rentrer et de choisir un état. — A vingt-trois ans, moi, j’étais marié, j’avais fondé cette maison, elle marchait bien. « Il faut aussi que [MASK] revienne de sa pension ;
+
+['</s>NOTUSED', '«', '»', 'Et', 'Le']	Coco	» Je levai la main. « Et crie : « Vive l’empereur ! » Je criai de toutes mes forces : « Vive l’empereur ! » [MASK], qui s’endormait, se réveilla brusquement et se mit à crier, d’un ton aigre : «
+
+['Maman', 'Madame', 'Elle', 'Marie', 'Jeanne']	Loïs	Tiens... il est magnifique ! » [MASK], me voyant animé plus qu’à l’ordinaire, ouvrait de grands yeux ; mon air de satisfaction et d’attendrissement l’étonnait. « Mon bon papa Chapuis, puisque vous êtes content, je le suis aussi, fit-elle.
+
+['Leclerc', 'Fritz', 'Paul', 'Roland', 'Georges']	Michelair	— Ni moi, dit le colonel Metzinger. — Ni moi non plus, dit [MASK], ce n’est pas clair... l’insulte n’est pas claire ! On ne va sur le terrain, vous savez cela, capitaine, que pour des raisons sérieuses.
+
+['Lui', 'Elle', 'Pierre', 'Maman', 'Marie']	Azor	A l’approche du soir, quand l’ombre des peupliers de la route s’étendait déjà sur le jardinet et que l’air, chauffé pendant tout le jour, était tiède comme dans une étuve, je m’éveillais, regardant, écoutant. [MASK] aussi se réveillait, se secouait, dressait l’oreille
+
+['</s>NOTUSED', 'Et', 'Madame', 'Marie', 'Alors']	Frentzel	tout le monde s’écrie : « Les voilà !... Ce sont eux qui rentrent ! » Et l’on court, on se presse dans la rue. Je m’étais levé. [MASK], elle-même, tout émue, me prit la main en disant : « Viens ! »
+
+['Napoléon', 'il', 'Alexandre', 'Roland', 'Merlin']	Florentin	— Commandant, fit-il en se redressant, je suis un vieux soldat de la grande armée ! » A ces mots, [MASK], repoussant son épée dans le fourreau d’un geste sauvage et lançant un regard farouche sur la route, bégaya, la main en l’air :
+
+['chacun', 'Paul', 'Charles', 'Napoléon', 'Joseph']	Florentin	c’est le temps qu’il faut quand on y met de la bonne volonté. » VIII Tous les autres, qui s’étaient attendus à des remerciements et peut-être même à l’attendrissement de [MASK] en apprenant qu’il était nommé commandant, restèrent stupéfaits ;
+
+['mort', 'Dieu', 'rien', 'Hitler', 'pas']	Reichstadt	—Si le nouveau gouvernement pouvait seulement nous rendre la croix tout entière, je crierais tout ce qu’on voudrait. — Et nous donc, disaient les autres, nous crierions comme des aveugles : Vive Lafayette ou [MASK] ! » Elles riaient. Ces choses, je les entends.
+
+['non', 'là', 'hein', 'toi', 'maintenant']	Lucien	Est-ce que je suis bien habillée ? — Tu es la plus belle de toutes, lui répondis-je. Et moi ? — Tu es aussi le plus beau, avec ton gilet rouge. Mais tu ne danseras qu’avec moi, tu m’entends, [MASK] ?
+
+['maman', 'Marie', 'Madeleine', 'Jeanne', 'Berthe']	Loïs	« Je veux bien, grand’mère, répondit [MASK] en nous regardant timidement, comme pour implorer notre indulgence. — Commence doucement, mon enfant, lui dis-je, pour que monsieur le curé t’entende bien, chante sans te dépêcher et n’aie pas peur. »
+
+['cela', 'demain', '»', 'ceci', 'Noël']	Loïs	Vous avez découvert une merveille ! » Après cela nous nous levâmes, et renouvelant à la grand’-mère notre promesse de ne pas oublier [MASK], nous sortîmes dans une sorte de recueillement, sans nous communiquer d’abord les mille pensées qui se pressaient dans notre esprit.
+
+['maman', 'elle', 'il', 'Maman', 'Marie']	Cocole	J’ai vu ça toute ma vie. — Maintenant, allez vous rasseoir et soyez gentils, » faisait [MASK]. Nous obéissions, sans perdre un mot de tout ce qui se racontait, et même il nous arrivait d’y rêver dans la semaine ;
+
+['elle', 'Louise', 'Marie', 'Charlotte', 'Jeanne']	Loïs	Vous pensez bien que j’éprouvais un grand ennui de voir, vêtue d’une façon vulgaire, cette figure spirituelle et poétique ; le costume du pensionnat Auburtin ne pouvait plus lui convenir ; c’était comme une fausse note en musique. En définitive, [MASK] m’appartenait, je la considérais comme ma fille
+
+['César', 'un', 'Louis', 'Jean', 'Pierre']	Florentin	; on se passait de main en main les pavés pour repousser l’assaut ; nous en avions entassé des masses, jusque sur la corniche. — Diable !... diable !... criait [MASK], mauvaise position, jeune homme... pas de ligne de retraite...
+
+['moi', 'nous', 'Monsieur', 'vous', 'le']	Rosenthâl	Mon ami Florentin avait mis sa redingote et noué sa cravate. — Tous les quatre restaient debout. « Capitaine, dit le commandant Michelair, nous avons appris que vous aviez une affaire d’honneur avec [MASK]. — Oui, mon commandant. — Voulez-vous bien nous en donner les motifs
+
+['elle', 'Marie', 'Anna', 'Sophie', 'Jeanne']	Frentzel	! » Elles se fâchaient, prenant parti pour leurs maris, tout en gémissant de les voir repartir. Mais [MASK] continuait à tricoter sans rien dire ; on la regardait à chaque instant, comme pour demander son avis, et toute pensive elle gardait le silence.
+
+['Maman', 'Madame', 'Papa', 'Bonjour', 'Maître']	Lucien	Quelles idées lui traversaient alors la tête ? Je n’en sais lien. — Mais quelquefois, après avoir longtemps rêvé, il m’appelait : « [MASK] ! » Je m’approchais. Il me passait ses longs doigts osseux dans les cheveux et me disait :
+
+['Il', 'Paul', 'Maurice', 'Charles', 'Louis']	Florentin	Ce fut le dernier adieu d’une journée splendide. [MASK] partit à la nuit ; nous l’entendions crier dehors : « Ça va !... ça marche !... » Il serrait la main de tous ceux qu’il rencontrait.
+
+['maman', 'Marie', '</s>NOTUSED', 'Maman', 'Françoise']	Loïs	on riait, on était heureux de se retrouver l’une près de l’autre. Quelquefois j’accompagnais [MASK], pour jouir moi-même de ce spectacle d’amour et de reconnaissance ; cela me faisait du bien. Et puis, quand il fallait se quitter, on redevenait un peu triste ;
+
+['Charles', 'Pierrot', 'Georges', 'Louis', 'Jean']	Florentin	— Eh bien ! dit [MASK], il fera la soupe pendant que nous nous battrons. » Jamais je n’avais vu mon ami si gai. « Maintenant les gardes nationales sont en train de se former, disait-il... L’ordre vient d’arriver...
+
+['Dieu', 'Napoléon', 'Jésus', 'Hitler', 'Satan']	Louis-Philippe	Au moins là, dans l’ombre des grands peupliers, derrière les poiriers et les pommiers courbés sous les fruits, au milieu des carrés de choux et de haricots, loin du genre humain, nous avions un peu de calme ; nous n’entendions plus crier : « Vive [MASK] ! »
+
+['Mozart', 'Bach', 'Verdi', 'Beethoven', 'Carmen']	Schubert	Tu sais... chante-lui cet air qui m’a fait pleurer l’autre jour... cela commençait... Attends, que je me rappelle... cela commençait par Ave Maria. » C’était l’Ave Maria de [MASK], qu’elle avait entendu à l’église.
+
+['Il', 'Lui', 'Pierre', 'Elle', 'Louis']	Azor	Il remplissait le sien, et nous trinquions ensemble, en cassant une croûte de pain, comme il avait dit. [MASK] nous regardait et recevait aussi quelques bouchées. Nous le caressions ; nous étions heureux comme des rois.
+
+['elle', 'Louise', 'Juliette', 'Jeanne', 'Sophie']	Loïs	Ah ! ce ne fut pas sans déchirement de cœur et sans bien des larmes. Mais [MASK] allait compléter ses études sous la direction d’une maîtresse illustre ; elle avait à conquérir dans le monde des arts la place qui lui revenait par le droit du talent...
+
+['Lui', 'Maman', 'Elle', 'Pierre', 'Jeanne']	Justine	Mon père, selon son habitude, lisait le Constitutionnel à haute voix, s’arrêtant de temps en temps pour faire ses réflexions. [MASK] et moi, nous regardions ensemble, les yeux écarquillés et le cou tendu, une vieille Bible illustrée, dont les images nous émerveillaient.
+
+['Il', 'Elle', 'Et', 'On', 'il']	Frentzel	Lui, naturellement, occupé de son plan de campagne Pour tourner les villages, il restait silencieux. [MASK] ne soufflait pas le mot. Et comme elle venait de servir le café, prenant mon air le plus câlin, je demandai à mon ami si je n’aurais pas la permission de courir derrière le détachement.
+
+['moi', 'lui', 'Dieu', 'elle', 'cela']	Justine	Tout ce que je sais, c’est que, si l’école du père Vassereau n’avait pas été en vacances, le lendemain on m’y aurait mené pour sûr. Quant à [MASK], on peut croire qu’à partir de ce jour je aimai mille fois plus encore
+
+['maman', 'chéri', 'Marie', 'Maman', 'maintenant']	Florentin	« Nous pouvons recevoir l’ordre de partir d’une minute à l’autre... Tu comprends ? — Oui... oui... Sois tranquille, [MASK], tout sera prêt !... Est-ce qu’il t’a jamais manqué quelque chose, depuis notre mariage, pour entrer en campagne
+
+['non', 'oui', 'oh', 'Non', 'Oh']	Lucien	... — La bataille !... Mais on se tue dans les batailles... tu ne sais donc pas cela ? — Si... mon ami me l’a raconté... — Eh bien ?... Et si l’on t’avait tué... Oh ! [MASK] !... »
+
+['chambre', 'capitaine', 'guerre', 'Roland', 'David']	Rosenthâl	Mille millions de tonnerres et de tremblements, voulez-vous bien, mesdames, me laisser tranquille, ou je ne réponds plus de moi. » Alors la femme de [MASK], se jetant à ses pieds, s’écria : « Capitaine, vous ne tuerez pas le père de mes enfants !
+
+['Il', 'On', 'Elle', 'Chacun', 'Napoléon']	Florentin	— A demain le premier appel, messieurs, à sept heures, sur la place d’Armes ; vous m��avez entendu ? — Oui, commandant. » On se sépara. [MASK] mit sa grande capote boutonnée jusqu’au menton ;
+
+['Napoléon', 'Bourbon', 'Louis', 'Philippe', 'Charles']	Reichstadt	Je tremble de colère... Ah ! canailles ! faisait-il, canailles ! — Eh bien ! qu’est-ce que c’est ? — Eh bien ! ils viennent de nommer roi leur duc d’Orléans... à la place de [MASK] !... Tenez... regardez !... regardez
+
+['vous', 'toi', 'toujours', 'lui', 'cela']	Napoléon	— Je suis pour [MASK], lui répondis-je, ayant un grand amour des batailles qu’il me racontait et de la trompette du régiment, que j’entendais sonner matin et soir. — A la bonne heure ! fit-il, la figure enluminée, je le savais.
+
+['toi', '«', 'camarade', 'Marie', 'jeunesse']	Pélerin	On entend tout... tout du dehors... Au nom du ciel, [MASK], tais-toi !... tais-toi !... » Mais lui, sans l’écouter, disait : « Il faut que tout le monde parte pour empêcher ce coup-là... toute la jeunesse...
+
+['Napoléon', 'Louis', 'Charles', 'Marie', 'Julien']	Florentin	Et votre petite baraque, si jolie, entourée de vignes et tapissée à l’intérieur de vos anciennes batailles... Et cet enfant, que vous avez élevé là-dedans... et tout le reste ! — Oui, dit [MASK], je vous le vends huit cents francs.
+
+['il', 'on', 'Charles', 'Albert', 'Louis']	Florentin	Cela dit, [MASK] m’emmena par la main, pour aller dîner avec lui. J’étais le plus heureux enfant du monde. « Te voilà content ! me disait-il. — Oui, mon ami, bien content ; et je ferai tout ce que tu diras, je serai toujours obéissant.
+
+['ça', 'cela', 'lui', 'moi', 'ceci']	Louis-Philippe	on ne gêne personne dans ses idées... ça marche tout seul. » Et s’adressant au Parisien, qui souriait : « Qu’est-ce que vous pensez de [MASK] ? dit-il ; vous l’avez vu ? — Oui, capitaine. — Eh bien ?
+
+['Il', 'Albert', 'Georges', 'Papa', 'Paul']	Florentin	ça prévient les erreurs, on est sûr de ne pas tirer sur les siens. » Ils se serraient la main. [MASK] paraissait heureux, il revoyait les choses en beau, et mon père, tout attendri, disait : « Je vois ce qui se passe là-bas
+
+['On', 'Il', 'Elle', 'Chacun', 'on']	Frentzel	[MASK] dut se résigner et attendre. Or, un jour, vers cinq heures, mon ami Florentin revenait de là, le nez rouge et les yeux farouches, car depuis la conspiration tous ces vieux reprenaient un air terrible ;
+
+['Hitler', 'toujours', 'Dieu', 'papa', 'tous']	Bernadotte	Sois tranquille, demain nous allons arranger ce kaiserlick, l’ami de [MASK]... Canaille !... Il n’aura plus besoin de pension... Ma chance !... Il ose parler de ma chance !... Attends, je vais t’en donner de la chance, vieux traître
+
+['lui', 'moi', 'ça', 'vous', 'cela']	Soult	« Croyez-vous qu’un vieux renard comme [MASK], reprit-elle, et boiteux par-dessus le marché, ait envie de reprendre la rive gauche ? Qu’est-ce que lui fait, à lui, la rive gauche ? Qu’est-ce que cela lui rapporterait ?
+
+['Madame', 'Mme', 'madame', 'Mademoiselle', 'Monsieur']	Justine	Elles allaient descendre, et tous les voisins regardaient déjà des fenêtres la réception qu’on allait me faire, lorsque [MASK], s’élançant devant moi, se prit à plaider ma cause avec une gentillesse qui m’attendrit encore quand j’y pense. . «
+
+['chacun', 'un', 'Lucien', 'Pierre', 'Paul']	Florentin	» Tous répétèrent : « A la santé des braves ! » Les verres s’entre-choquèrent, et [MASK], me voyant là, me tendit son verre, après avoir bu, en me disant : « Bois aussi, mon ami, bois !
+
+['présent', 'moi', 'Paris', 'lui', 'jamais']	Sainte-Suzanne	; et la voix montait... montait avec une aisance, une grâce, une souplesse qui m’émerveillaient. Enfin j’entrai dans le défilé de l’avancée, me demandant qui possédait une voix de cette puissance à [MASK], et qu’est-ce que j’aperçus ?
+
+['Seigneur', 'Jésus', 'Toi', 'Père', 'Alors']	Florentin	!... » Il n’entendait rien. « [MASK], au nom du ciel, réponds-nous ! » Il gardait le silence. Alors, moi, fondant en larmes, je lui criai : « Mon ami !... mon ami !... réponds-moi !...
+
+['il', 'lui', 'Louis', 'Charles', 'Henri']	Louis-Philippe	! — Il n’aurait voulu que des jeunes, et l’on aurait Marché ! — Mais [MASK], soyez-en sûres, n’a qu’une crainte, c’est que les autres rois ne veuillent pas de lui sur le trône ;
+
+['!', '»', '».', 'la', 'le']	Lobau	Et voilà tous ces vieux de la vieille qui se radoucissent, voilà que leurs yeux se troublent et qu’ils se serrent la main, en murmurant : « A la bonne heure !... On nous comprend, à la fin... On nous rend justice... Vive [MASK]
+
+['Dieu', 'Napoléon', 'il', 'capitaine', 'ceci']	Blanchet	; depuis deux heures le drapeau n’a pas paru au bataillon. — Ce sont donc des traîtres, capitaine ! — Non, mon commandant, ils se seront arrêtés dans quelque cabaret en chemin, ils auront tout oublié pour boire : [MASK] est un ivrogne !
+
+['Dieu', 'Marie', 'Jésus', 'chacun', 'maman']	Justine	... » Alors j’obéis ; et comme j’entrais l’oreille basse, ma mère levant sa grande verge pour m’en donner un coup sur le dos, le père lui retint le bras en disant : « Non !... J’accorde sa grâce à [MASK]. »
+
+['Joseph', 'Charles', 'Louis', 'Pierre', 'Henri']	Paul	; la mère, les servantes et moi, nous regardions [MASK] comme un héros, parce qu’il avait entendu siffler les balles. Vers le soir, notre boutique était tellement pleine de monde qu’il fallut entrer dans la grande chambre, en face de la halle ;
+
+['lui', 'chacun', 'Louis', 'personne', 'Napoléon']	Florentin	et ce vieux brave, qui n’aurait pas tremblé sous le feu d’une batterie de vingt-quatre, ne pouvait s’empêcher de tressaillir. Enfin, tout bruit lointain cessa, les nominations étaient terminées, et personne n’était venu dire que [MASK] avait été nommé quelque chose.
+
+['Pierrot', 'lui', 'Léon', 'Lucien', 'Bernard']	Florentin	; et [MASK], qui nous guettait, arrivait en riant : « Ah ! ah ! vous voilà donc réveillés ! s’écriait-il. Maintenant il faut se baigner ; et puis nous casserons une croûte ensemble, mon ami... Hein ! qu’en dis-tu ?
+
+['il', 'on', 'elle', 'Napoléon', 'Charles']	Florentin	Ils chantaient en levant leurs chapeaux d’un air d’enthousiasme ; des sous-officiers d’infanterie les accompagnaient. Tous étaient blancs de poussière. VII Enfin, quand les derniers, traînant un peu la jambe et hâtant le pas, pour rejoindre la queue de colonne, eurent défilé, [MASK] me dit :
+
+['Marie', 'Madame', 'Marguerite', 'Maman', 'madame']	Loïs	Requiem æternam dona eis, Domine, et lux perpetua luceat eis !... » chantait M. le curé de sa voix profonde. Je n’eus qu’à regarder [MASK], en posant les mains sur le clavier, et d’une voix douce et vraiment divine, elle répondait :
+
+['François', 'Jean', 'Martin', 'lui', 'Louis']	Foissard	« Maintenant, reprit-il, nous allons chercher nos témoins. Si tu avais vingt ans de plus, je te prendrais ; tu verrais ton ami Florentin sur le terrain ; mais il faut en chercher d’autres : le capitaine Vidal et [MASK], le porte-drapeau ;
+
+['il', 'Il', 'on', 'lui', 'Jésus']	Florentin	et, comme nous arrivions, [MASK] jetait son schako et son épée sur la table, il s’arrachait les épaulettes et la croix, sans dire un mot ; il entrait dans l’alcôve sombre et s’étendait tout habillé sur son lit.
+
+['</s>NOTUSED', 'Elle', 'Marie', 'Jeanne', 'Une']	Justine	!... » Et, me prenant par la main, elle m’entraîna. [MASK], à côté de moi, courait. « D’où viens-tu ? faisait-elle en galopant tout essoufflée. — De là-bas ! J’ai suivi la garde nationale...
+
+['Madame', 'madame', 'Mme', 'Mademoiselle', 'Marie']	Frentzel	Là-dessus, [MASK], qui s’était dépêchée, entra avec un punch magnifique auquel mon ami Florentin mit le feu lui-même ; et comme le vieux rhum s’enflammait d’un coup, il dit en souriant : « Ça brille comme l’éclair du canon ;
+
+['Marie', 'Jeanne', 'Madeleine', 'Mademoiselle', 'Louise']	Loïs	[MASK], dont les bonnes dames de la ville avaient monté le petit trousseau, vêtue simplement comme ses jeunes camarades, se trouvait la plus heureuse du monde dans cette nouvelle condition. Une seule difficulté s’était présentée, celle du baptême ;
+
+['Louise', 'maman', 'Madeleine', 'Jeanne', 'madame']	Frentzel	— Tu m’aimes bien ? — Oui ! — Tenez, madame, disait-il à [MASK], en lui lançant un regard sévère, cet enfant a plus de cœur que toute la ville ensemble. Ce n’est pas lui qui renierait son drapeau ;
+
+['Monsieur', 'monsieur', 'colonel', 'Capitaine', 'Madame']	Pélerin	: « Vous avez raison, [MASK], il faut que tous les jeunes gens partent et que les anciens les commandent... J’ai déjà tout préparé pour me mettre en route. Seulement, il nous faut encore le mot d’ordre...
+
+['lui', 'nous', 'eux', 'moi', 'elle']	Vacheron	Pendant que les autres couraient le monde, il faisait du pain de munition, et chaque fois que l’un d’eux revenait en congé, après avoir embrassé le père, la mère, il allait chez [MASK] s’asseoir dans la petite boulangerie, devant la table de sapin.
+
+['Monsieur', 'Joseph', 'Georges', 'Paul', 'Léon']	Paul	Mais la partie intéressante de l’histoire, c’est qu’on venait d’ouvrir les malles de [MASK], qui m’avait apporté des marrons glacés et d’autres friandises, de sorte qu’en songeant à lui plus tard, son souvenir me revenait toujours en compagnie de ces marrons et me faisait désirer son retour
+
+['il', 'Charles', 'Louis', 'Martin', 'Il']	Florentin	Alors [MASK] se redressa ; il respira lentement, comme si son cœur eût été soulagé d’un poids énorme, puis il répondit simplement : « C’est bien, capitaine Ader, j’accepte ! Et nous n’allons pas perdre de temps pour l’instruction du soldat ;
+
+['elle', 'madame', 'Madame', 'on', 'Marie']	Frentzel	Nous réglerons toutes les notes, et [MASK] nous payera comme toujours, quand elle pourra. » Ayant échangé ces paroles, ils retournèrent au comptoir servir les pratiques, et moi je courus chez mon ami, car onze heures et demie sonnaient : on allait se mettre à table.
+
+['elle', 'il', 'on', 'et', 'Elle']	Florentin	; droite, raide, la lèvre ombrée de moustaches grises, les cheveux tortillés en queue de cheval sur la nuque, elle me produisait l’effet d’être la reine de la fête. Enfin, ayant jeté son coup d’œil, [MASK] repartit du pied gauche ;
+
+['Dieu', 'Napoléon', 'Hitler', 'Jésus', 'Vichy']	Reichstadt	Ça lui est bien facile, à ce grand colonel, de crier : « Vive [MASK] ! » Il est garçon, il est riche... Il n’a pas besoin de sa croix et de sa pension pour vivre !
+
+['On', 'Maman', 'Papa', 'Elle', 'Il']	Rose	Enfin, vers huit heures, les campagnards se dépêchèrent de partir avant la fermeture des portes, et tout rentra dans le calme. Moi, je dormais depuis longtemps, la joue sur la table. [MASK] vint me chercher pour me mettre au lit.
+
+['Mozart', 'Bach', 'Verdi', 'Beethoven', 'Wagner']	Jomelli	Les belles choses vont au cœur de tous. » Et je tirai ma partition de la poche, en disant : « Voilà ce qu’il faut étudier ; c’est un Requiem de [MASK]... Tiens... il est magnifique ! »
+
+['je', 'chacun', 'tout', 'ça', 'papa']	Paul	... » Mais lui, sans l’écouter, disait : « Il faut que tout le monde parte pour empêcher ce coup-là... toute la jeunesse... — Tu veux que [MASK] parte ? dit la mère. — Lui comme les autres, répondit le père indigné.
+
+['toi', 'petite', 'enfant', 'fille', 'chéri']	Justine	Tu ne danseras qu’avec moi. — Sois donc tranquille, [MASK], lui disais-je, en levant les jambes l’une après l’autre et les balançant, comme j’avais vu faire à nos paysans. Va, ne crains rien, nous allons nous en donner.
+
+['Jeanne', 'Jean', 'Marie', 'Roland', 'Georges']	Florentin	Si quelqu’un osait soutenir le contraire, nous serions tous là pour lui faire rentrer le propos dans la gorge... Oui, capitaine, sans dire que vous êtes dans votre tort, l’insulte n’est pas claire ! — Alors qu’il s’explique ! s’écria [MASK].
+
+['Ce', 'Colette', 'Elle', 'Cécile', 'Jacqueline']	Loïs	Et puis il faut que je vous fasse une confidence. [MASK] n’est pas seulement une grande artiste, c’est aussi un grand cœur ; elle se souvient qu’elle a été pauvre : il n’y a plus d’enfants abandonnés ni de vieillards dans la détresse à Sainte-Suzanne...
+
+['moi', 'nous', 'elles', 'elle', 'eux']	Nicole	Je me souviens qu’une après-midi, toutes se réunirent chez [MASK] et se mirent à délibérer sur ce qu’il fallait faire dans ces circonstances graves. Le bocal de cerises à l’eau-de-vie et le cruchon de cassis étaient sur la table ;
+
+['on', 'il', 'elle', 'chacun', 'Marie']	Françoise	! » Je ne l���avais jamais entendu jurer ; il était devenu sombre, et quand [MASK] rentra servir notre café au lait, on déjeuna sans échanger une parole. Mon ami Florentin dit seulement à la fin, en se levant : «
+
+['ailleurs', 'autour', 'encore', 'dehors', 'Dieu']	Loïs	Le silence au fond de la nef était solennel, et à mesure que la messe avançait, au Dies iræ, à l’Offertoire, etc., de temps en temps nous entendions, quand l’orgue se taisait, un frisson immense monter jusqu’à nous. Je ne disais rien, je ne regardais pas [MASK] ;
+
+['Elle', 'Maman', 'Marie', 'Madame', 'Maria']	Justine	» [MASK], auprès de moi, comprenait très bien ; elle me faisait signe de temps en temps d’écouter, et puis elle souriait avec malice et semblait dire : « Tu entends !... Tu entends !... » Moi, je ne comprenais rien du tout.
+
+['Paris', 'Montmartre', 'cela', 'ça', 'Versailles']	Justine	Ah ! que j’aimais [MASK], et comme nous gambadions sur la place ces dimanches de grande revue ! On avait beau nous appeler, nous étions toujours à cent pas en avant ou en arrière, dans la foule.
+
+['Elle', 'elle', 'Il', 'On', 'Sabine']	Loïs	III Au commencement du printemps de l’année 1865, nous eûmes un gros chagrin : la grand’mère Sabine mourut à quatre-vingt-neuf ans, tout doucement, comme on s’endort. [MASK] n’avait pas quitté son lit les huit derniers jours ;
+
+['lui', 'moi', 'Pierre', 'Louis', 'Georges']	Florentin	— Cela suffit, mon commandant, » dit alors le capitaine Ader, en saluant. Il sortit, tandis que [MASK] et moi nous nous asseyions à table pour dîner. On pense si je dressais l’oreille, et si j’avais envie d’être de l’expédition
+
+['Elle', 'Sophie', 'Marie', 'Julie', 'Anna']	Justine	Elles riaient. Ces choses, je les entends. [MASK] les comprenait aussi bien que sa mère ; elle avait déjà les mêmes idées, car toutes les filles tiennent avec leur mère, jusqu’à ce qu’elles aient un mari. VIII Le tumulte continua jusqu’au soir.
+
+['Il', '</s>NOTUSED', 'il', 'Jean', 'Louis']	Florentin	; ils avaient bien envie de décamper, mais, en apercevant les baïonnettes des hommes reluire au clair de lune sur la lisière du bois, ils devenaient doux comme des moutons et tendaient eux-mêmes les mains aux menottes des gendarmes. » [MASK] semblait vexé.
+
+['Elle', 'Maman', 'Marie', 'On', 'Madeleine']	Justine	— Qui cherches-tu, saint Nicolas ? répond la mère. — Les enfants méchants... les gueux qui ne veulent pas obéir à leurs parents... qui ne vont pas à l’école ! » On se tourne de mon côté. [MASK] s’est glissée sous la table comme une ombre.
+

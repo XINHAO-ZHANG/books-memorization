@@ -1,0 +1,200 @@
+['Soit', 'Ou', 'Puis', 'Enfin', 'Et']	Marianne	irrité : -Eh bien ! si l'on jase, je m'arrangerai pour faire taire les mauvaises langues. [MASK], avec ironie : -Ce serait une jolie affaire ! Rétablir une réputation à coups de fourche ou de bâton. Bien trouvé.
+
+['menus', 'table', 'mets', 'cuisine', 'plats']	Betty	il les avait mises à profit ; les enfants s'étaient éclipsés sans bruit, et l'avaient suivi à la cuisine abandonnée ; ils prirent, d'après les indications de [MASK], la soupe, la viande, les légumes des maîtres, et mangèrent tout avec délices ;
+
+['ne', 'fille', 'le', 'la', "n'"]	Marianne	ma fille, ne l'écoute pas. [MASK] : -Pardon, ma cousine, je sais qu'il dit vrai ; c'est moi qui le lui ai appris ; et maintenant que vous m'y faites penser, je me souviens d'en avoir parlé au juge ;
+
+['Elle', 'Il', 'elle', 'il', '"']	Charles	...» [MASK] regarda de tous côtés, ne trouva rien. «Je pourrais bien déchirer son ouvrage qu'elle a laissé ; mais à quoi cela servirait-il ? elle en prendra un autre ! Que je suis donc malheureux d'être obligé de vivre avec cette furie !
+
+['garçon', '.', 'de', 'le', 'fils']	Juge	vous ne savez pas ce que c'est que ce garçon ! Méchant, colère, menteur, paresseux, entêté ; enfin, tous les vices il les a. Le [MASK] : -Ce n'est pas une raison pour le battre au point de gêner ses mouvements.
+
+['moi', 'heureuse', 'suis', 'vous', 'EUR']	Juliette	[MASK] : -Oh ! moi, tu sais bien que j'en serais enchantée ; je te ferais prier le bon Dieu avec moi ; tu me lirais de bons livres ; tu me conduirais à la messe, puis chez des pauvres. Je serais bien heureuse, moi !
+
+[',', 'de', 'te', 'à', '"']	Betty	[MASK], riant : -Veux-tu te taire, vif-argent ! Tu en dis trop ! La bonne volonté y est, mais le naturel aussi. Tu seras aussi bon, aussi obéissant, aussi doux que tu pourras l'être ; mais tu seras toujours salpêtre.»
+
+['cela', ';', '...', '?', ',']	Marianne	-Aussi je suis bien aise d'en être sorti ; j'aurai quelques mauvais jours à passer, je le sais ; mais après je serai ici avec vous. As-tu vu [MASK] ? Lui as-tu parlé ?
+
+['NE', 'SE', 'tout', 'une', 'DE']	Charles	-Oui, [MASK], une grâce ; si j'y voyais, je serais peut-être étourdie, légère, coquette. On dit que je suis jolie, l'en aurais de la vanité ; je voudrais me faire voir, me faire admirer ; le travail m'ennuierait ;
+
+['</s>', ':', '...', '-', '_']	Charles	-Comment feras-tu ? Ne va pas commettre quelque mauvaise action. [MASK] : -Non, non, seulement des farces... Mais avant de me laisser coffrer, je vais jouer un tour à ma cousine, et un fameux, dont elle ne se relèvera pas.
+
+[':', '...', 'chat', '_', '-']	Juliette	pardonne-moi. J'étais en colère, vois-tu ! Il m'avait déjà griffé avant que je l'eusse battu. [MASK] : -Je te pardonnerai si tu me promets de ne plus recommencer et de ne jamais battre mon chat.
+
+['moi', 'lui', 'me', 'tout', 'main']	Boxear	-Ma foi ! Monsieur, est-ce que je sais, moi ? Est-ce que je peux deviner, moi ? Vous me dites : le premier vacant ; j'aperçois celui-ci, je le prends. [MASK] : -Ah ! Monsieur est beau parleur ! Monsieur est raisonneur !
+
+['SE', 'EST', 'à', 'DE', 'ES']	Charles	-Mon Dieu ! mon Dieu ! nous sommes perdus ! A l'avenir, quand elle voudra te battre, elle t'arrachera ta pauvre culotte, qui ne tient déjà à rien. Que faire ? Comment l'empêcher ? [MASK] :
+
+[',', 'NE', '"', 'qui', 'ore']	Charles	des insubordonnés (il lui donne des coups de règle) ; des révolutionnaires (il lui donne des coups de fouet). Allez, Monsieur, chercher un pupitre vacant.» [MASK] n'avait pas poussé un cri, pas laissé échapper un soupir ;
+
+['Il', 'Elle', 'il', 'elle', 'Celui-ci']	Charles	-Serpent ! vipère ! Je te défends d'y aller.» [MASK] ne répondit pas et sortit, laissant sa cousine stupéfaite de tant d'audace. «C'est qu'il ira ! s'écria-t-elle au bout de quelques instants après être rentrée dans sa chambre.
+
+[',', 'il', 'Il', ';', 'elle']	Charles	[MASK] fit un saut en arrière et se réfugia instinctivement près de l'homme en blouse, ce qui fit rire tous les assistants, même le charretier. «Elle ne dira toujours pas que je l'ai aveuglée, dit l'homme en riant. Je te remercie, mon garçon ;
+
+['elle', 'toi', 'moi', 'ça', '...']	Charles	-Ma foi, elle dira ce qu'elle voudra ; elle ne te battra toujours pas. [MASK] : -Oh ! pour ça non ! Elle n'a plus osé depuis que je lui ai si bien tordu la main l'autre jour... Te souviens-tu comme elle criait ?
+
+['lui', 'elle', 'moi', 'eux', 'nous']	Betty	dit le boucher, qui prenait parti pour [MASK]. Voilà assez crier ! On n'entend pas autre chose chez vous ! C'est fatigant, parole d'honneur ! Mes veaux ne beuglent pas si fort quand ils s'y mettent.
+
+['il', 'et', ';', ',', 'Il']	Charles	[MASK] causa plusieurs fois avec le juge de paix de sa nouvelle position et du profit qu'il pourrait en tirer ; il demanda avec tant d'insistance de payer les dettes de ses cousines, que le juge finit par le lui permettre, mais seulement sur ses revenus.
+
+[',', 'Je', 'de', 'est', '"']	Charles	[MASK], après avoir lu quelque temps : -Quel bon et intéressant livre ! Je suis content de le lire. Et quelles histoires amusantes on y raconte ! Tout le monde devrait avoir ce livre-là ! Quand j'aurai de l'argent, je l'achèterai, bien sûr.
+
+['-', '</s>', '_', '...', '"']	Charles	Encore des cris, des vociférations ? [MASK] : -C'est nous, M'sieur, qui obligeons les mauvais à se déclarer, et nous pensons bien que demain ils le feront. Et s'ils ne veulent pas, je parlerai pour eux ; M'sieur, c'est décidé.
+
+['ma', 'mon', 'la', 'à', 'je']	Juliette	-Si fait ; je vais le prévenir de ce que fait ma cousine et de la lettre que j'ai écrite à l'ami de ma cousine Mac'Miche ; et puis je lui demanderai de me protéger et de me faire demeurer chez vous. Au revoir, [MASK].
+
+['S', "'", '/', 'DE', 'C']	Charles	Comment t'en es-tu tiré ? Est-ce pour longtemps ? [MASK] : -Pour toujours, monsieur le juge ! Et je viens vous demander votre appui pour ne pas rentrer chez ma cousine Mac'Miche, qui, d'ailleurs, ne veut pas de moi ;
+
+['on', 'et', ',', 'Home', 'home']	Charles	Aussitôt l'expédition terminée, [MASK] avait prestement fermé la porte, tiré la clef, qu'il lança par-dessus les toits, et s'était dépêché de rentrer à l'étude, pour y reprendre sa place et son travail. L'heure du souper était passée ;
+
+['on', 'Dieu', 'cela', 'il', 'elle']	Betty	je ne te conseillerai rien de mauvais, je l'espère. Mais je ne peux pas t'encourager à la frapper, comme tu dis. Tâche de trouver des moyens innocents dans le genre des visières ; tu as de l'invention, et [MASK] t'aidera.
+
+['la', 'son', 'sa', 'lui', 'ses']	Charles	elle allait commencer son exécution, quand elle aperçut les diables qui lui présentaient les cornes et qui lui tiraient la langue ; en même temps elle vit de la fumée s'élever et tourner autour de [MASK], et elle se sentit suffoquée par une forte odeur de soufre.
+
+['?', '.', 'elle', 'la', 'le']	Betty	-Si vous vouliez bien vous en charger, Monsieur le juge ? Ici nous n'avons pas de place ; impossible de la garder. Le juge : -Où est [MASK] ? Si on pouvait l'avoir, elle consentirait bien, je pense, à soigner son ancienne maîtresse.
+
+['se', 'il', ',', 'et', 'on']	Charles	un camarade du sonneur arriva, portant aussi une chandelle ; [MASK] profita du moment où il se baissait et tâchait de savoir ce qui était advenu à son camarade, pour sauter sur lui comme sur le sonneur, le renverser, éteindre la chandelle, et lui souffler dans l'oreille :
+
+['"', '...', 'administration', "'", 'conseil']	Charles	Et tu as été en colère contre moi et mon conseil ? [MASK] : -Contre toi, jamais ! Je savais que c'était pour mon bien que tu m'avais fait promettre ça... Mais contre elle, j'étais d'une colère ! oh ! d'une colère !
+
+['parents', 'le', 'les', 'famille', 'tous']	Charles	Après un instant de réflexion il se décida pour une paix... provisoire. Deux jours se passèrent assez paisiblement pour [MASK] ; il employait utilement son temps à faire connaissance avec les usages de la maison et avec les enfants, dont il observa les caractères divers ;
+
+['ta', 'es', 'à', 'en', ',']	Juliette	J'ai profité de la procuration que tu m'as donnée à cette occasion pour placer en ton nom cinquante mille francs pris sur la fortune trop considérable que je possède. Tu vois donc que tu as cinquante mille francs. [MASK] :
+
+['on', 'il', 'elle', 'ne', 'je']	Marianne	Et quant à tes deux années de plus que les miennes, qu'importe, si tu restes pour moi plus jeune et plus charmante que toutes les femmes qu'on m'a proposées ; et puis, [MASK] voulait me faire épouser cette petite de tout à l'heure !
+
+['ma', 'la', 'me', 'à', 'mes']	Juliette	Mais contre elle, j'étais d'une colère ! oh ! d'une colère ! Dans ma chambre, je me suis roulé, j'ai sangloté, crié ; et puis j'ai été mieux, je me suis senti content de t'avoir obéi. [MASK], attendrie :
+
+[',', 'un', 'le', 'de', 'en']	Lucy	cette pauvre petite qui est aveugle : il faut qu'elle appelle sitôt qu'elle a besoin de quelque chose. Serais-tu jalouse d'une aveugle, par hasard ? [MASK], avec humeur : -D'abord, je ne suis pas jalouse, parce que cela m'est bien égal ;
+
+['il', 'celui-ci', 'Joseph', 'Jean', 'Pierre']	Charles	Lorsque [MASK] entra à l'étude, tous les yeux se portèrent sur lui : le surveillant le regardait d'un oeil sournois et méfiant ; les enfants examinaient le nouveau venu avec surprise ; son air décidé et espiègle semblait annoncer des événements inaccoutumés et intéressants.
+
+['posée', 'sol', '...', 'me', 'posé']	Charles	dit-il. Est-ce la place d'un élève, près de moi, sur une estrade ? [MASK] : -Ma foi ! Monsieur, est-ce que je sais, moi ? Est-ce que je peux deviner, moi ? Vous me dites : le premier vacant ;
+
+['il', 'ils', 'on', 'Il', 'ce']	Charles	C'était du nouveau pour lui ; il avait le désir d'apprendre et il écouta avec une attention soutenue. Après la leçon on commença l'étude ; les ��lèves se placèrent devant leurs pupitres ; [MASK] n'en avait pas encore, il demanda où il devait travailler.
+
+['M', "M'", 'vous', "m'", "l'"]	Charles	[MASK] : -Ce n'est pas par insolence, M'sieur, c'est pour les camarades ce que j'en fais. Vous comprenez, M'sieur, que vis-à-vis d'eux ma position est délicate, et que je leur dois de les tranquilliser pour les coupables sur les suites de ma révélation.
+
+['</s>', '-', 'et', 'ée', 'de']	Charles	-C'est bon ! donne-moi une feuille de papier. [MASK] : -Voilà, M'sieur... N'oubliez pas, M'sieur, s'il vous plaît, que vous devez mettre : Je jure de par les fées et sur le salut de ma maison.
+
+['Quand', 'jamais', 'Jamais', 'et', 'quand']	Charles	et je les ai laissés se disputant et la fille pleurant... [MASK], mon ami, quand je serai ton cousin par ma femme, je ne pourrai t'aimer davantage et te vouloir plus de bien que je ne l'ai fait jusqu'à présent.
+
+['"', 'de', '...', 'la', 'le']	Marianne	les cinquante mille francs le déroutaient complètement. «Je vous annonce mon mariage pour lundi prochain, dans dix jours, ajouta-t-elle. Charles : -Et le lendemain, le mien sera affiché. [MASK] : -Nous apprendrons alors ce que tu ne veux pas nous dire.»
+
+['Elle', 'cousine', 'On', 'on', 'elle']	Charles	Venez lire, Monsieur ! et tout de suite.» [MASK] aurait bien voulu s'esquiver, trouver un prétexte pour ne pas lire, mais la cousine le tenait par l'oreille ; il fallut marcher, s'asseoir, prendre le livre et lire.
+
+[',', 'tu', 'te', 'par', 'à']	Juliette	-Plus méchante, tu veux dire. [MASK] : -Non ; pas méchante, mais toujours en méfiance de toi et en colère, par conséquent. Essayez tous les deux de supporter ses maussaderies sans répondre, en vous soumettant : vous verrez qu'elle sera meilleure...
+
+['...', ':', 'Citation', 'bien', "'"]	Betty	-Je l'ai laissée faire ; elle m'a jeté par terre, m'a roulé, m'a battu avec une baguette qui n'était pas de paille ni de plume, je t'en réponds. [MASK] : -Et toi ?
+
+['Il', 'Elle', 'garçon', 'homme', 'il']	Charles	-Mauvais garnement, va ! Tu n'y perdras rien.» [MASK] jeta un regard sur l'homme, comme pour lui demander sa protection. L'Homme : -Que veux-tu que j'y fasse, mon garçon ? Je ne peux pas te venir en aide.
+
+['de', 'le', ',', 'se', 'en']	Boxear	-C'est nous, M'sieur, qui obligeons les mauvais à se déclarer, et nous pensons bien que demain ils le feront. Et s'ils ne veulent pas, je parlerai pour eux ; M'sieur, c'est décidé. Je dirai ce que je sais. [MASK] :
+
+['possible', 'vrai', 'que', 'pas', 'naturel']	Juliette	Mais de qui ça vient-il ? ... Serait-ce [MASK] ? Cette petite sainte n'y touche se donne le genre de prêcher, de donner des avis... Je n'aime pas cette petite ; elle m'impatiente avec cette figure éternellement calme, douce, souriante.
+
+['Moi', ':', '...', 'moi', '-']	Charles	Tu as un air triomphant qui ressemble un peu à de l'orgueil. [MASK] : -C'est qu'il y a de quoi ! ... Ce balai est excellent ! Je n'en avais jamais eu de si bon ! Il a balayé ! Cela allait tout seul !
+
+['que', ':', '"', '_', 'à']	Juliette	ah ! Ce n'est pas possible. Mais avec qui donc ? [MASK] : -Avec le juge de paix. Il ya longtemps qu'il la demande et qu'elle voudrait devenir sa femme. Tu as bien vu comme il vient souvent ici depuis trois ou quatre ans !
+
+['de', ',', 'en', 'le', 'à']	Charles	[MASK] : -Tu crois ça. Écoute ce qui m'arrive aujourd'hui depuis la première fois que je t'ai quittée ; à ma seconde visite, je ne t'ai rien dit parce que j'avais peur que tu ne me fisses rentrer chez moi tout de suite ;
+
+['il', 'on', 'elle', 'ils', 'cela']	Betty	Il leur recommanda de tâcher de faire parvenir aux oreilles des maîtres des histoires de fantômes, et feindre des terreurs, afin de donner quelque probabilité aux tours qu'il se préparait à jouer, et pour lesquels [MASK] devait lui être d'une grande utilité.
+
+["l'", 'chat', 'la', 'ce', 'maître']	Charles	Celui-ci fit une grosse boulette de papier, la fit voir au chat, qui fit gros dos, leva la queue, dressa les oreilles, et suivit de l'oeil tous les mouvements du maître, jusqu'à ce que la boulette lancée fût retombée sur la tête de [MASK].
+
+['</s>', '-', '...', '"', 'beurre']	Charles	Elle est ta protectrice et la seule parente qui te reste ! Il faut bien que tu continues à manger son pain. [MASK] : -Elle me le reproche assez et me le rend bien amer ! Je t'assure qu'un beau jour je la planterai là et j'irai bien loin.
+
+['(', ')', ':', '-', '*']	Charles	) [MASK] : -Elle vit encore mais elle dit des choses horribles ! Elle demande son or, elle crie au voleur, elle blasphème contre le bon Dieu. Et je priais pour elle... et pour moi qui ai contribué à la mettre dans ce terrible état.
+
+['monsieur', 'Monsieur', 'madame', 'Madame', 'César']	Charlot	le juge nous avait donné un poulet que j'ai fait rôtir ; il est un peu sec à force d'avoir attendu, mais nous sommes tous jeunes, avec de bonnes dents et bon appétit. Et puis, voici une omelette pour fêter le retour de [MASK].
+
+['son', 'la', "l'", 'sa', 'ce']	Charles	il trouvait que l'idée de [MASK], de lui faire tenir de l'or dans ses mains, avait été excellente et avait déjà ramené du calme ; mais il craignait beaucoup que l'enlèvement violent de cet or n'amenât les plus funestes résultats.
+
+['il', 'elle', 'on', 'monsieur', 'mademoiselle']	Betty	-Oui, une sotte, méchante, détestable figure... Envoie-le-moi de suite.» Avant de partir, [MASK] secoua les oreillers du canapé, arrangea les tabourets, en mit un sous les pieds de sa maîtresse, essuya la table, tira les plis des rideaux, etc.
+
+['te', 'de', 'ta', 'la', ',']	Charles	Mais tu te maries drôlement. Je n'ai jamais entendu parler d'un mariage mené et décidé de cette façon... Et la future restant à l'état d'invisible ! ... C'est drôle tout cela. M'autorises-tu à en parler au juge ? [MASK] :
+
+[',', 'de', '"', 'se', 'le']	Betty	[MASK] sortit, et, après quelques instants, rentra précipitamment en feignant une grande frayeur. «Madame ! Madame ! Charlot est tué,... étendu mort sur le plancher ! Quand je disais ! les fées l'ont étranglé.»
+
+['...', 'quotidien', 'à', '</s>', 'ceci']	Juliette	que me conseilles-tu de faire ? Comment me débarrasser de tout ce superflu ? [MASK] : -Ce sera bien facile, mon ami. Prends le temps de bien placer ton argent ; mais fais d'avance la part des pauvres.
+
+['Moi', 'troisième', 'second', '3ème', 'deuxième']	Charles	Le premier camarade : -Mais tu vas être écorché vif par ces méchants maîtres ! C'est terrible à penser ! [MASK] : -Je ne serai pas écorché, ils ne me toucheront pas, et je m'en irai tranquillement, à leur grande satisfaction, et à la mienne surtout.
+
+[',', 'de', 'le', 'ad', 'à']	Fripon	[MASK] ! brigand ! Charles : -Des injures, ça m'est égal. ! Et faites bien attention à vos promesses, car, si vous y manquez, je mets le feu à votre maison sans seulement vous prévenir... C'est dit ? Je souffle.»
+
+['DE', ',', 'S', 'à', 'ATTEN']	Betty	[MASK] : -Oh ! Madame ! C'est pourtant terrible ! Ce pauvre garçon ! Jugez donc ! en société des fées ! C'est ça qui est mauvaise compagnie ! Dieu sait ce qu'il y apprendrait ! ... Mais... je crois que je l'entends à la cuisine ;
+
+['elle', ',', 'en', 'se', 'la']	Charles	enhardie par sa soumission, elle prit une baguette et lui donna un coup fortement appliqué, puis deux, puis trois, sans que [MASK] fit mine de résister ; elle profita de cette docilité si nouvelle pour abuser de sa force et de son autorité ;
+
+['...', 'Juliette', '-', 'D', '....']	Charles	Tu n'as besoin de rien ? Juliette : -De rien du tout ; je te remercie. Ne reste pas trop longtemps absent. [MASK] : -Non, non, sois tranquille ; dans une demi-heure je serai de retour.» Et d'un bond il fut dans la rue.
+
+['on', 'se', ';', 'il', 'et']	Charles	Puis il le releva, puis il le fit ployer encore ; le chat, ne trouvant pas le jeu fort à son gré, se débattit, mais en vain ; [MASK] serrait davantage les jambes pour maintenir celles du chat et tenait plus fortement les pattes de devant et les oreilles ;
+
+['"', ',', 'je', 'le', 'de']	Charles	Elle but avec avidité. «C'est bon ! c'est très bon ! ...» Et, après un instant de réflexion : «Où as-tu pris le sucre ? je ne veux pas acheter du sucre. [MASK] :
+
+['nes', 'to', 'de', 'les', 'S']	Marianne	Comment s'est-il échappé ? Remettez-le là-bas ! En le recevant, vous recevez une légion de fées. Chassez-le ! Vite, vite ! Je ne veux pas de lui, d'abord. [MASK] : -Soyez tranquille, ma cousine ;
+
+['t-elle', 'elle', ',', 'Catherine', 'Marguerite']	Juliette	Mais avant de me laisser coffrer, je vais jouer un tour à ma cousine, et un fameux, dont elle ne se relèvera pas. -Charles ! s'écria [MASK] effrayée, je te le défends ! Je t'en prie. ajouta-t-elle doucement et tristement.
+
+[',', 'et', 'on', 'elle', 'à']	Charles	Mon Dieu, si elle y voyait ! » Son agitation se calma tout doucement. «Juliette, dit-il, viens promener ; viens respirer dans les champs ; on étouffe ici. Ils sortirent. [MASK] mettait plus de soin que jamais à lui faire éviter les pierres, les ornières ;
+
+[':', '...', '</s>', ')', '"']	Juliette	Je ne comprends pas qu'il supporte avec tant de courage sa triste position. [MASK] : -Pauvre garçon ! Oui, il a réellement du courage. Je le gronde souvent, mais bien souvent aussi j'admire sa gaieté et sa bonne volonté à bien faire.
+
+['elle', 'il', 'se', 'on', 'de']	Charles	Mais quand [MASK] leva la tête, quand elle vit la trace de ses larmes, sa physionomie exprima une joie féroce ; et, au lieu de le gronder et de le battre, elle se borna à le pousser rudement en lui disant : «Dépêche-toi donc ;
+
+['E', 'NE', 'S', '...', 'F']	Lucy	c'est elle qui l'a élevé ; il est reconnaissant, ce garçon ! Je n'y vois pas de mal, au contraire. [MASK] : -D'abord, elle ne peut pas l'avoir élevé, car elle a l'air beaucoup plus jeune que lui qui a vingt-trois ans ;
+
+['...', ':', '..', '....', 'Citation']	Marianne	Je crains d'avoir contribué à sa maladie. [MASK] : -Si tu as contribué à sa maladie, tu vas contribuer à sa guérison par les soins que tu lui donneras. Où comptais-tu aller en sortant d'ici ?
+
+['-', '-', '--', '...', '-le']	Charles	Pourquoi a-t-il miaulé, et pourquoi as-tu crié ? [MASK], ému : -Parce que ton chat est une méchante bête qui m'a mordu, griffé, qui m'aurait mis en pièces si je ne l'avais maintenu de toutes mes forces.
+
+[',', 'elle', 'de', 'qui', "d'"]	Charles	[MASK], combattu entre le désir de résister à sa cousine et la crainte qu'elle lui inspirait, hésita un instant, la cousine se retourna, et, le voyant encore immobile, elle le saisit par l'oreille et l'entraîna vers un cabinet noir dans lequel elle le poussa violemment.
+
+['même', 'ainsi', 'à', 'grandement', 'tous']	Betty	il eut la bonne pensée d'expier les tours innombrables qu'il lui avait joués, en aidant [MASK] à la soigner pendant sa maladie, qui pouvait être longue. Il remit donc son dîner à son retour et courut chez la cousine Mac'Miche.
+
+[',', 's', "'", 'de', 'et']	Charles	[MASK], lit : -«Monsieur, je ne vous connais pas du tout, et je crains que vous me connaissiez beaucoup et mal par ma cousine Mac'Miche. Je suis si malheureux chez elle que je ne peux plus y tenir ;
+
+['Moi', 'Tu', '...', 'Toi', 'Lui']	Juliette	Comme je serai heureux près de toi ! Et comme je t'obéirai ! Tu vois déjà comme je suis doux ! Au lieu de me mettre en colère, je t'ai demandé de suite pardon. [MASK], riant : -Tu appelles cela être doux !
+
+['il', 'Il', 'elle', ',', 'et']	Marianne	[MASK] prit la courageuse résolution de gagner, par son travail, sa vie et celle de sa soeur aveugle, jusqu'au jour où toutes leurs dettes seraient payées. Elle travaillait soit en journées, soit à la maison.
+
+['le', 'la', "l'", "s'", 'se']	Charles	On m'avait dit vingt. Ils ont voulu revenir sur la condition, mais j'ai déclaré qu'il était trop tard ; que [MASK] en avait été si indigné et si fâché, qu'il avait tout rompu ; et je les ai laissés se disputant et la fille pleurant...
+
+['qui', 'et', ',', 'elle', 'dame']	Charles	[MASK] alla au-devant d'eux. «C'est sans doute ma cousine Marianne que vous désirez voir, Monsieur ? lui dit-il ; je vais la prévenir ; en attendant, voici notre chère aveugle qui va faire connaissance avec vous et avec Mademoiselle votre fille.»
+
+['lui', 'elle', 'moi', 'eux', 'nous']	Charles	Il descendit de son estrade, se dirigea vers [MASK], le fit rudement avancer jusqu'au milieu de la salle, le força à se coucher à terre, et commença à le déshabiller pour lui faire sentir la dureté du fouet qu'il tenait à la main.
+
+['en', "'", 'de', 'est', ',']	Charles	-Et vous donnerez ce qui m'appartient à mes cousines Daikins, Monsieur le juge, n'est-ce pas ? Le juge : -Ceci ne dépend pas de moi, je te l'ai déjà dit. Je ferai seulement de mon mieux pour éclaircir l'affaire.» [MASK] sortit à moitié content ;
+
+['.', 'ma', '!', 'mon', '"']	Juliette	«Ne répétez jamais la calomnie que vous venez d'inventer ! Je ne veux pas qu'on insulte [MASK] ! Trop douce et trop dévouée pour se défendre, elle est sous ma protection, ma protection exclusive ; elle est maîtresse de ses actions, et personne n'a droit sur elle.
+
+['</s>', 'Il', 'il', ',', '_']	Charles	va-t'en, que je ne te voie pas ! [MASK] se releva et sortit sans mot dire, le coeur gonflé d'une colère qu'il comprimait difficilement. Il courut dans sa chambre pour donner un libre cours aux sanglots qui l'étouffaient.
+
+['son', 'le', 'sa', 'la', 'ce']	Betty	-Elle vit encore mais elle dit des choses horribles ! Elle demande son or, elle crie au voleur, elle blasphème contre le bon Dieu. Et je priais pour elle... et pour moi qui ai contribué à la mettre dans ce terrible état. Je ne sais où est [MASK].
+
+['une', 'un', 'la', 'le', 'notre']	Charles	Nous allons les laisser continuer leur vie de misère pour suivre [MASK], qui n'oubliera pas ses malheureux camarades, et qui terminera promptement leurs souffrances en leur faisant à tous quitter, sous peu de jours, la maison de Fairy's Hall par ordre du juge de paix.
+
+['Lucie', 'Pierre', 'Henri', 'Louis', 'Clémence']	Charles	A la fin de la journée, les élèves regrettèrent de ne pouvoir, le lendemain, prolonger leur nuit comme la précédente. «Soyez tranquilles, dit [MASK], vous dormirez demain comme aujourd'hui. -Comment feras-tu ?
+
+['...', '....', 'lui', 'homme', 'Invité']	Betty	pas possible ! Le charretier : -Tenez, voyez la marque sur mon cou ! [MASK] : -C'est ma foi vrai ! Est-elle traître ! Elle n'avait que les doigts de libres, elle s'en est servie contre vous.» Le charretier : -Je le disais bien !
+
+[',', 'de', 'à', 'le', 'la']	Charles	-Tu m'en as déjà touché un mot ; tu m'as dit que tu avais cinquante mille francs ; ta cousine Marianne m'en a parlé aussi ; mais la cousine Mac'Miche jure ses grands dieux que ce n'est pas vrai, que tu n'as rien. [MASK] :
+
+['Il', 'il', 'Elle', '"', '...']	Charles	-Tais-toi, Je ne veux pas que tu parles ! Je ne veux plus entendre ta sotte voix... Prends mon livre et assois-toi.» [MASK] prit le livre d'un air malin, légèrement triomphant, et s'assit.
+
+['de', ',', 'à', 'te', 'me']	Betty	[MASK] : -Ne va pas faire comme tantôt et disparaître quand ta cousine te demandera. Elle se doute de quelque chose, va ; nous ne réussirons pas une autre fois. Cette clef que j'avais si adroitement posée sur son ouvrage ! Ton visage enfariné, tes convulsions, les miennes ;
+
+['elle', 'celle-ci', 'lui', 'Marie', 'Jeanne']	Juliette	Pendant qu'elle était allée la préparer à la cuisine, le juge s'approcha de [MASK], lui prit les mains, la baisa au front et lui dit d'un air mystérieux : «A quand la noce, ma petite soeur ? Quand faut-il vous afficher ?
+
+['Je', 'je', ',', 'tu', 'te']	Juliette	Ainsi ce n'est pas de la petite affection, ça ! pleurer ! C'est qu'on ne pleure que lorsque le coeur est bien touché ? Je sais ça, moi ! Le juge, riant : -Bon ! Tant mieux pour toi si [MASK] t'aime ;
+
+['...', 'grave', 'tout', ',', 'de']	Charles	Betty : -Avec ça qu'ils sont faciles à suivre ! Il faut toujours céder, toujours s'humilier, à l'entendre ! [MASK] : -Il me semble, moi, qu'elle a raison au fond ; mais je n'ai pas sa douceur ni sa patience ;
+
+['</s>', '"', ':', '.', '...']	Charles	-Non, mais tout cela ne permet à aucun homme de me prendre pour sa femme. [MASK] : -J'en sais un qui te connaît, qui t'aime, qui n'ose pas te demander, parce qu'il craint d'être repoussé, et qui verrait tous ses voeux comblés si tu l'acceptais.
+
+['-', '--', '_', '.', '--']	Charles	-Pourquoi du sucre ? Qu'est-ce que cette nouvelle invention ? Vous devriez vous trouver heureux d'avoir du lait au lieu de pain sec. [MASK] : -Ma cousine, je serais bien plus heureux d'y ajouter le morceau de sucre que je tiens dans la main.
+
+[',', '</s>', ';', 'il', 'de']	Charles	» [MASK] plaça entre ses jambes les pattes de derrière du chat, prit de chaque main une des pattes de devant et une des oreilles, et le fit ployer comme les scieurs de long quand ils scient à deux une pièce de bois.
+
+['après', 'Après', '-', 'Apr', '--']	Juliette	Après ? [MASK] : -Après, nous irons faire une promenade, nous visiterons quelques pauvres gens ; nous leur ferons du bien selon nos moyens ; puis nous entrerons, tu t'occuperas pendant que je tricoterai. Après dîner nous ferons encore une promenade, et puis nous travaillerons.
+

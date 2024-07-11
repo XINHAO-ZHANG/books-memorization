@@ -1,0 +1,200 @@
+[',', 'et', ':', 'que', '"']	Médor	; j'ai découvert ce matin un trou dans le mur du hangar à foin ; j'en ai déjà tiré un peu, et je pourrai facilement en manger tous les jours. —En vérité ! s'écria [MASK], je suis heureux de ce que tu me dis
+
+['elle', 'moi', 'marie', 'maman', 'je']	Jeanne	Je mangeai lentement ; je voulais voir si [MASK], une fois seule, succomberait à la tentation de régaler ses lapins à mes dépens. Elle regardait de temps en temps dans l'auget. «Comme il mange ! disait-elle. Il n'en finira pas...
+
+['</s>', '-', '_', '--', 'qui']	Charles	Pendant qu'ils regardent leurs numéros, je fais encore un signe aux camarades, et voilà que tous nous nous secouons tant et plus. Plus de charbon, plus de numéros ; il faut tout recommencer : les enfants sont en colère. [MASK] triomphe et ricane ;
+
+['les', 'la', 'le', 'des', 'et']	Finot	Si quelqu'un vient me déranger, je saurai bien l'arranger. Passe-Partout :—Qu'est-ce que tu lui feras ? [MASK] :—Si c'est un chien, je l'égorge ; ce n'est pas pour rien que j'ai mon couteau affilé. Passe-Partout
+
+['jacques', 'celui-ci', 'catherine', 'marguerite', 'jeanne']	Henri	; mais j'avais jeté mon bâton, je n'avais plus rien pour me défendre, et tu comprends qu'il était inutile que je me fisse dévorer par des chiens affamés. —Je comprends, reprit [MASK] d'un ton moqueur ;
+
+['domestiques', 'domestique', 'celle-ci', 'lui', 'celui-ci']	Thérèse	Quand ils furent tombés à terre, elle les ramassa avec une pelle, et pria un des domestiques de les jeter sur le fumier ; puis elle demanda un baquet d'eau tiède, et, avec l'aide de [MASK], elle lui savonna et lava la tête de manière à la bien nettoyer.
+
+[',', 'la', 'à', 'et', 'de']	Thérèse	—Nous payerons aussi, nous payerons aussi, s'écrièrent en choeur les trois autres. —Pour combien y en a-t-il ? demanda [MASK]. La marchande :—Pour trente-deux francs, mademoiselle. —Trente-deux francs !
+
+[':', 'de', 'à', ')', 'entre']	Elisabeth	[MASK] :—Ah ! je crois bien que ce n'est pas comme nous ! J'ai vu toute une bande de voleurs ; ils avaient des chapeaux pointus, des manteaux marrons, et des visages méchants avec d'énormes moustaches. —Où les as-tu vus
+
+['droite', 'côté', 'gauche', 'table', 'là']	Pierre	—Ils n'ont pas l'air de triomphateurs ! Le papa de [MASK], riant :—Ils ont peut-être tué un veau ou un mouton qu'ils ont pris pour un lapin. Le garde approcha. Le papa :
+
+['</s>', 'répondit', ':', 'répondez', 'continuez']	Thérèse	Tu n'as que deux ou trois francs, tout juste de quoi payer une chemise. [MASK] :—Oh ! maman, vous oubliez ma pièce de vingt francs. La maman :—Celle que tu as donnée à garder à ton papa pour ne pas la dépenser ?
+
+['"', '.', '!', '?', ')']	Bouland	—Tiens, qu'est-ce qu'il a donc ? reprit [MASK]. Il a pourtant eu son déjeuner de grand matin. Il s'approcha de la mangeoire, regarda dedans et dit : —Il n'a pas touché à son avoine ; c'est qu'il est malade...
+
+['vous', 'faire', 'corps', 'un', 'et']	Médor	Justement irrité d'une semblable effronterie, il resta au pied de l'arbre, aboyant, grondant, et faisant mille reproches. Ses aboiements attirèrent des enfants qui sortaient de l'école ; ils se joignirent à [MASK] pour injurier le chat ; ils finirent même par ramasser des pierres et lui en jeter
+
+['jacques', 'celui-ci', 'robert', 'jean', 'henri']	Clouet	et depuis quand l'avez-vous ? —Je l'ai ... depuis qu'il est à moi, répondit mon faux maître avec un peu d'embarras. —J'entends bien, reprit [MASK] ; mais depuis quand est-il à vous ? L'homme ne répondit pas.
+
+['marie', 'jean', 'noël', 'luther', 'jésus']	Camille	:—Oh ! maman, vous oubliez ma pièce de vingt francs. La maman :—Celle que tu as donnée à garder à ton papa pour ne pas la dépenser ? Tu la conservais pour acheter un beau livre de messe comme celui de [MASK].
+
+['qui', "l'", 'lui', ',', "m'"]	Médor	. Ils criaient tous à qui mieux mieux ; les ouvriers n'en tapaient que plus fort. Enfin, ils les laissèrent aller, et la bande partit, criant, hurlant et se frottant les reins. Le sauveur de [MASK] avait coupé la ficelle qui l'étranglait ;
+
+[':', '</s>', ';', '...', '"']	Elisabeth	—Je crois qu'il serait bon de les attirer en leur jetant des miettes de pain. Madeleine :—Oui, mais pas beaucoup, si nous leur en donnons trop, ils n'auront plus faim. [MASK] :—Attendez, laissez-moi faire ;
+
+['soit', 'être', 'non', 'bien', 'est']	Ferdinand	—Non, non, pas tant que cela, [MASK], mais seulement un babillard qui parle quand il devrait travailler. Faites la litière de l'âne, ajouta-t-elle d'un ton sérieux, et donnez-lui à boire et à manger. Elle sortit ;
+
+['tous', 'le', 'moi', 'les', 'la']	Auguste	Ce fut une chasse très amusante pour tous, excepté pour [MASK], qui, rouge de honte et de colère, courait à droite, à gauche, et rencontrait partout un ennemi. Je m'étais mis de la partie ;
+
+[':', '(', ',', 'marie', 'la']	Pauline	; sa maman l'aimait assez, mais elle ne pouvait souffrir de lui voir aimer personne, pas même des bêtes. Pourtant, comme le médecin avait ordonné de la distraction, elle pensa que des promenades à âne l'amuseraient suffisamment. Ma petite maîtresse s'appelait [MASK]
+
+['il', 'on', 'elle', 'ils', 'israël']	Auguste	Je n'entendais pas bien ce qu'ils disaient, mais je voyais bien qu'[MASK] continuait à se vanter de n'avoir peur de rien, et de ne pas même craindre les lions. Les enfants se récriaient là-dessus, lorsqu'il eut besoin de se moucher.
+
+['oui', 'toi', 'ah', 'alors', 'oh']	Jacques	! comme tu es maigre !» Je me retournai ; je vis un joli petit garçon de cinq ans ; sa soeur, qui paraissait âgée de trois ans, accourait avec sa bonne. Jeanne :—[MASK], qu'est-ce que tu dis à ce pauvre âne
+
+['tout', 'celle-ci', 'là', 'donc', 'ensuite']	Pauline	je m'y précipitai, sachant bien que nous serions en sûreté dans les caves voûtées du château. Je déposai [MASK] près d'un baquet plein d'eau afin qu'elle pût s'en mouiller le front et les tempes en revenant à elle, ce qui ne tarda pas à arriver.
+
+['de', '"', ')', 'et', ',']	Auguste	[MASK], très piqué :—Sois tranquille, je suis plus adroit que tu ne le penses. Si tu veux bien t'en priver pour moi, sois sûr que je saurai le mener tout aussi bien que toi-même. Pierre :—Comme tu voudras
+
+['à', 'ce', 'le', 'que', '2']	Cadichon	Lorsqu'on vit revenir tout le monde à pied, et moi, [MASK], portant quatre enfants, la surprise fut grande. Mais, quand les papas racontèrent la disparition des ânes, mon obstination à ne pas les laisser chercher les bêtes perdues
+
+['</s>', ':', 'maman', 'papa', '"']	Auguste	S'il arrivait quelque chose, papa nous gronderait. [MASK] :—Et que veux-tu qu'il arrive ? Puisque je te dis que chez nous on pêche toujours à l'épervier. Je pars ; attendez-moi, je ne serai pas longtemps.
+
+['il', 'elle', 'pierre', 'henri', 'jean']	Caroline	nous repartîmes tous, moi en tête de la bande. V - LE CIMETIÈRE Nous marchions au pas, et nous approchions du cimetière du village, qui est à une lieue du château. «Si nous retournions, dit [MASK], et que nous reprenions le chemin de la forêt ?
+
+['alors', 'dis', 'écrit', 'citation', 'toi']	Auguste	—Certainement, papa ; seulement, comme nous ne les voyions pas tomber, nous ne pouvions pas les ramasser. Le père, de même :—Et tu crois que, s'il en était tombé, vous ne les auriez pas vus ? [MASK] :
+
+['celui-ci', 'le', 'un', 'il', "l'"]	Auguste	ils quêtaient, ils arrêtaient, seulement ils ne rapportaient pas, puisqu'il n'y avait rien à rapporter. Enfin, [MASK], impatienté de tirer sans tuer, voit un des chiens en arrêt ; il croit qu'en tirant avant que la perdrix parte, il tuera plus facilement.
+
+['...', ':', 'on', ',', 'elle']	Auguste	mais je formai un autre projet, qui complétait sa journée et qui servait mieux mon aversion et ma méchanceté. Je me laissai donc tranquillement enfourcher par mon ennemi, et je suivis de loin le poney. Si [MASK] avait osé me battre pour me faire marcher plus vite, je l'aurais jeté par terre
+
+['"', ')', '...', "'", '_']	Madeleine	Mes chères amies, n'est-ce pas que votre grand'mère voudra bien que nous donnions à manger à cette pauvre petite, que nous la fassions coucher quelque part au château ? —Certainement, répondirent les trois cousines, grand'mère sera enchantée ; d'ailleurs elle fait tout ce que nous voulons. [MASK]
+
+['jean', 'jacques', 'moi', 'jeanne', 'pierre']	Louis	. Je suivais Jacques et [MASK], qui marchèrent vers l'écurie en me faisant signe de les accompagner. Tous deux se mirent à me bouchonner avec une telle vivacité, qu'ils furent bientôt en nage. Ils ne cessèrent pourtant que lorsqu'ils m'eurent bien séché.
+
+['</s>', '--non', '"', 'moi', 'non']	Camille	Moi, je n'ai peur de rien, d'aucun animal. [MASK] :—Pourquoi donc ; l'autre jour, avez-vous sauté si haut, quand je vous ai dit qu'une araignée se promenait sur votre bras ?
+
+['maman', 'tous', 'dieu', 'pierre', 'marie']	Jules	c'était la fermière, qui dans sa colère, criait à [MASK] : —Donne-moi le grand fouet, que je corrige ce mauvais animal ! Jamais plus méchant âne n'a été vu en ce monde. Donne donc, ou claque-le toi-même.
+
+['</s>', '"', '-', 'il', 'elle']	Passe-Partout	:—Vous aviez des papiers dans vos poches ? Savez-vous ce que c'était que ces papiers ? [MASK] regarda le brigadier. «Il a lu les papiers, se dit-il ; il veut me mettre dedans, mais je serai plus fin que lui.»
+
+['dit', 'reprit', 'répondit', 'ajouta', 'demanda']	Elisabeth	[MASK] :—Et puis te rappelles-tu ce qu'on nous a raconté des méchancetés qu'il a faites chez son ancien maître ? Il mangeait les légumes, il cassait les oeufs, il salissait le linge... Décidément, je fais comme toi, je ne l'aime plus.
+
+['ainsi', 'un', 'mon', 'ce', 'en']	Jacques	Inquiet, tremblant d'émotion, je le suivis ; quels ne furent pas mon chagrin, ma désolation quand je vis [MASK], mon petit maître bien-aimé, approcher de mon camarade, et le monter après quelque hésitation ! Je restai immobile, anéanti.
+
+['</s>', '-', '_', '"', '--non']	Caroline	:—Mais alors comment peut-elle te porter ? L'enfant :—Je monte sur son dos. [MASK] :—Est-ce que tu couches avec elle ? L'enfant : souriant.—Oh non ! je serais trop mal.
+
+['il', 'elle', 'jean', 'jacques', 'robert']	Passe-Partout	répondit [MASK]. Tu as toujours peur. Ce ne peut être qu'un crapaud ou une couleuvre. Ils ne dirent rien : je ne bougeai pas non plus, et je me demandai ce que j'allais faire pour empêcher les voleurs d'entrer et pour les faire prendre.
+
+['pierre', 'jacques', ',', 'robert', 'jean']	Passe-Partout	; il chercha son couteau, il ne le trouva pas. Il regarda [MASK] d'un air sombre, et lui dit à voix basse : —Je te disais bien dans le bois que j'avais entendu du bruit.
+
+['marguerite', 'elle', 'madeleine', 'thérèse', 'marie']	Thérèse	Dans une des promenades que firent mes jeunes maîtresses, elles virent une petite fille assise sur le bord de la route, qui se leva péniblement à leur approche, et vint en boitant leur demander la charité ; son air triste et timide frappa [MASK] et ses amies.
+
+['gauche', 'droite', 'maman', 'chasse', 'jean']	Louis	—Tiens ! c'est vrai. Jusque-là il faut tout nier. Convenons à présent des détails pour ne pas nous contredire. D'abord, faisions-nous route ensemble ? Où avons-nous trouvé les... ? —Séparez ces deux hommes, dit le papa de [MASK] ;
+
+['monsieur', 'madame', 'mademoiselle', 'dit-il', 'répondit-il']	Finot	—Vous n'avez pas le droit de nous mettre en prison ; nous sommes d'honnêtes gens... Le brigadier :—C'est ce que nous verrons, et ce ne sera pas long. Au revoir, [MASK].
+
+['moi', 'ali', 'monsieur', 'arthur', 'joseph']	MIRLIFLORE	il approcha sans empressement, et même avec un air de crainte ; je vis d'après cela que le pauvre animal avait été bien battu pour apprendre ce qu'il savait. «Messieurs et mesdames, dit le maître, j'ai l'honneur de vous présenter [MASK], le prince des ânes.
+
+['tous', 'chacun', 'eux', 'louis', 'henri']	Jules	—Va, mon garçon, va, mais ne le tue pas ; nous perdrions l'argent qu'il nous a coûté. Je le vendrai à la prochaine foire. Je restai tremblant de frayeur en les entendant et en voyant [MASK] courir à l'écurie pour chercher le fouet.
+
+['</s>', 'le', '"', 'un', 'et']	Auguste	cette boue exhale une odeur insupportable. [MASK], tout penaud, noir de boue, y voyant à peine pour se conduire, les suivit de loin ; on entendait les exclamations des gens de la ferme. Je formais l'avant-garde, caracolant, courant et brayant de toutes mes forces.
+
+['hier', 'angleterre', 'italie', 'europe', 'allemagne']	Auguste	J'étais de plus en plus triste, humilié et repentant ; mais je ne pouvais réparer le mal que je m'étais fait qu'à force de patience, de douceur et de temps. Je commençais à souffrir dans mon orgueil et dans mes affections. Les nouvelles d'[MASK] furent meilleures le lendemain ;
+
+['(', '_', '</s>', ')', 'à']	Auguste	? [MASK] :—Je ne crois pas qu'il l'ait fait exprès, il aura eu peur de quelque chose sur le chemin ; la frayeur lui aura fait faire un saut qui m'a jeté dans cet affreux fossé. Ainsi, je ne le déteste pas ;
+
+['ami', 'écoute', 'moi', 'non', 'frère']	Cadichon	: —Ecoute, [MASK], nous ne t'aimons pas à présent ; mais, si tu es bon, je t'assure que nous t'aimerons comme auparavant. —Non, non, jamais comme avant ! s'écrièrent tous les enfants. Il est trop mauvais.
+
+['il', 'on', 'je', 'celui-ci', 'julien']	Passe-Partout	Je ne voyais pas, mais j'entendais tout. Quand [MASK] fut arrivé à l'endroit où quelques pierres tombées avaient fait des trous assez grands pour y poser les pieds, il commença à grimper en tâtonnant avec les pieds et avec les mains.
+
+['</s>', ':', '-', 'moi', '_']	Elisabeth	—Mais tu ne vois donc pas qu'ils font semblant d'être tués ou blessés, et qu'ils se portent aussi bien qui toi et moi. [MASK] :—Alors comment papa et mes oncles ont-ils reconnu que ces hommes étaient des voleurs ? Pierre :
+
+['notre', 'nos', 'm.', 'monsieur', "l'"]	Cadichon	—Certainement, quand nous leur aurons dit en secret pourquoi nous voulons faire voir l'âne savant à [MASK]. Jacques :—Allons vite le leur demander. Les voilà courant tous deux vers la maison, les papas venaient justement au pré voir ce que faisaient les enfants.
+
+['</s>', '-', 'il', 'elle', 'on']	Jacques	—Et pourquoi ne l'aime-t-il pas ? Qu'est-ce qu'Auguste lui a fait ? Il pourrait bien, un beau jour, nous détester aussi. [MASK] ne répondit pas, car il n'y avait effectivement rien à répondre ;
+
+['maintenant', 'ami', 'maître', 'allons', 'monsieur']	Mirliflore	; je ne m'y attendais seulement pas. —A présent, [MASK], dit l'homme, va chercher quelque chose, n'importe quoi, ce que tu pourras trouver, et donne-le à l'homme le plus pauvre de la société.
+
+['</s>', ':', ';', '-', '"']	Georget	Je ne bougeai pas, de peur de l'effrayer ; seulement je tournai ma tête vers lui, et je passai ma langue sur sa main. [MASK] :—Grand'mère, grand'mère, comme il a l'air bon, ce pauvre âne, il m'a léché la main
+
+['dieu', "n'", 'plus', "s'", 'monsieur']	Jacques	Je m'éloignai lentement de quelques pas ; je me retournai et les regardai d'un air si triste, que [MASK] en fut touché ; il courut à moi, me prit la tête, et me dit d'une voix caressante
+
+['son', "l'", 'sa', 'la', 'un']	Henri	J'eus soin, tout le long du bois, de passer tout près des broussailles et surtout des grandes épines, des houx, des ronces, afin que le visage de mon cavalier fut balayé par les branches piquantes de ces arbustes. Il s'en plaignit à [MASK], qui lui répondit froidement :
+
+['</s>', 'il', 'qui', 'on', 'ou']	Pierre	; ils s'arrachaient les cheveux ; ils se battaient, ils se roulaient par terre, ils se disputaient chaque dragée et chaque centime. Il y en eut la moitié de perdus, foulés aux pieds, disparus dans l'herbe. [MASK] ne riait pas ;
+
+['dit-il', 'dit-elle', 'répondit-il', '-', 'dis-je']	Passe-Partout	—Dites donc votre conte, car votre camarade a dit tout le contraire. —Que vous a-t-il dit ? demanda [MASK] avec inquiétude. —Il est inutile que vous le sachiez pour le moment. Quand on vous aura ramenés au bagne, il vous le dira.
+
+['il', 'qui', 'elle', 'de', 'pour']	Antoine	—Imbécile ! s'écria-t-il ; il faut que je recommence. Pendant qu'il refait son n° l, mon camarade, qui m'avait vu faire, et qui était malin, se secoue à son tour. Voilà le 2 parti. [MASK] commence à se fâcher
+
+['un', 'albert', 'arthur', 'émile', 'hippolyte']	Auguste	Les enfants, après avoir été un peu effrayés, finirent par rire des contorsions d'[MASK], qui ne savait comment se débarrasser de la grenouille. Il la sentait gigoter et grimper dans sa poche. La frayeur augmentait à chaque mouvement de la grenouille.
+
+['lui', 'elle', 'moi', 'eux', 'elles']	Médor	que c'était pour [MASK] la joie de se trouver à la campagne ; pour moi, on pensa que j'étais bien aise d'avoir un compagnon de promenade. Si l'on avait pu nous comprendre, deviner nos longues conversations, on aurait compris ce qui nous attirait l'un vers l'autre.
+
+['voltaire', 'france', 'paris', 'bussy', 'gauche']	Louis	Ils restaient toujours sans mouvement. —Je ne connais pas ces visages-là, dit le jardinier après les avoir examinés attentivement à la lumière. —Peut-être ont-ils sur eux des papiers qui les feront reconnaître, dit le papa de [MASK] ;
+
+['tout', 'je', 'il', 'me', 'moi']	Charles	Enfin, [MASK] disparut, les enfants et mes camarades se calmèrent. Chacun me caressa et admira mon esprit ; nous repartîmes tous, moi en tête de la bande. V - LE CIMETIÈRE Nous marchions au pas, et nous approchions du cimetière du village, qui est à une lieue du château.
+
+['la', 'madeleine', 'le', '.', "l'"]	Camille	; ils cassaient chaque brin en deux et en remplissaient leur four. Avant de l'allumer, ils se rassemblèrent pour savoir ce qu'ils allaient servir pour leur déjeuner. —Je ferai une omelette, dit [MASK]. Madeleine :—Moi, une crème au café.
+
+[':', '</s>', '_', '-', 'non']	Finot	Le brigadier :—Je le sais bien qu'il n'y a que toi ; c'est bien à toi que je parle. [MASK] :—Je ne sais pas, monsieur, pourquoi vous me tutoyez ; je ne vous connais pas. Le brigadier :
+
+['il', 'tout', 'cheval', 'chien', 'animal']	Médor	[MASK] fut bientôt sec et prêt à retourner à la maison. Le forgeron l'y ramena, mais on lui dit qu'il pouvait bien le garder, qu'on avait déjà trop de chiens, et qu'on jetterait celui-là à l'eau avec une pierre au cou s'il ne voulait pas l'emmener.
+
+['</s>', ':', 'citation', '-', 'ceci']	Elisabeth	—Tu serais d'un fameux secours, en vérité, si on venait nous attaquer. [MASK] :—Je serais tout aussi courageuse que vous, monsieur, et je saurais bien tirer les voleurs par les jambes pour les empêcher de tuer papa.
+
+['en', 'et', ',', 'puis', 'chacun']	Jacques	il va mouiller tes habits ; vois comme l'eau lui coule de partout. —Ah bah ! qu'est-ce que ça fait que je sois un peu mouillé ? dit [MASK] passant ses bras autour de mon cou ;
+
+[':', '</s>', '-', '...', '--non']	Auguste	Le père, interrompant d'un air surpris :—Ceux que vous avez tués ! Vous croyez avoir tué des perdreaux ? [MASK] :—Certainement, papa ; seulement, comme nous ne les voyions pas tomber, nous ne pouvions pas les ramasser. Le père, de même :
+
+['il', 'elle', '-il', 'jean', 'celui-ci']	Ernest	—Je le bats parce qu'il s'entête à ne pas vouloir passer le pont, dit [MASK] ; il s'est obstiné à revenir sur ses pas. —Ah ! bah ! c'est parce qu'il était seul ; maintenant que nous voilà tous il passera le pont tout comme les autres.
+
+['soie', 'laine', 'velours', 'satin', 'coton']	Thérèse	; elles la frottèrent, pour l'essuyer, jusqu'à lui faire rougir la peau, et ce ne fut qu'après l'avoir séchée comme un jambon, qu'elles lui mirent une chemise, un jupon et une robe de [MASK].
+
+['elle', '</s>', 'il', 'on', 'chacun']	Camille	; tout le monde était content. Quand il fallut la chausser, les enfants s'aperçurent qu'elle avait une plaie sur le cou-de-pied : c'était ce qui la faisait boiter. [MASK] courut chez sa grand'mère pour lui demander de l'onguent.
+
+['plus', 'temps', 'dieu', 'grâce', 'raison']	Pierre	Et mais, ... ajouta-t-il en m'apercevant, ne serait-ce pas une nouvelle méchanceté de cet animal qui nous examine comme s'il comprenait ? —Pas méchanceté, mais fidèle service et intelligence, répondit le papa de [MASK]. Ces gens-là sont des voleurs
+
+['</s>', 'il', 'on', 'chacun', 'nous']	Finot	Silence ; nous n'avons pas besoin de vos discours pour savoir qui vous êtes et ce que vous veniez faire ici. [MASK] porta la main à sa veste, les papiers n'y étaient plus ; il chercha son couteau, il ne le trouva pas.
+
+['elle', 'elles', 'moi', 'lui', ',']	Jacques	Ses cousines, et [MASK] surtout, prenaient le parti de mon intelligence et de ma volonté de bien faire. Je profitai d'un hiver fort rude, qui ne me permettait guère de rester dehors, pour composer et écrire quelques événements importants de ma vie.
+
+['</s>', ':', '-', '_', 'moi']	Auguste	—Ah ! tu crois qu'un, deux, trois chiens vous auraient fait tuer des perdreaux qui vous passaient sous le nez. [MASK] :—Ils ne les auraient pas fait tuer, papa, mais ils auraient cherché et rapporté ceux que nous avons tués, et alors...
+
+['</s>', '-', '"', 'les', 'le']	Jacques	La grand'mère, souriant :—Je ne demande pas mieux, cher enfant ; mais quand tu n'y seras pas, tu ne pourras plus le soigner. [MASK], avec vivacité :—Mais j'y serai toujours, grand'mère. La grand'mère :
+
+['que', '(', 'le', 'par', ',']	Elisabeth	je crois bien que ce n'est pas comme nous ! J'ai vu toute une bande de voleurs ; ils avaient des chapeaux pointus, des manteaux marrons, et des visages méchants avec d'énormes moustaches. —Où les as-tu vus ? Quand cela ? demandèrent tous les enfants à la fois. [MASK]
+
+['elle', 'il', 't-elle', 't-il', 'harry']	Jacques	—Oui, c'est très vilain, monsieur, s'écria [MASK] en se retournant vers moi. Allez, vous êtes un méchant ! Je ne vous aime plus. —Ni moi, ni moi, ni moi, répétèrent tous les enfants à l'unisson.
+
+['...', '-', 'plus', ':', 'force']	GRENOUILLE	Quant au malheureux maître de l'âne savant, je me repentis amèrement plus tard du tour que je lui avais joué, et vous verrez le mal que j'ai fait en voulant montrer mon esprit. XX - LA [MASK]
+
+['tom', 'joe', 'celui-ci', 'chacun', 'john']	Passe-Partout	Quand on vous aura ramenés au bagne, il vous le dira. Et le brigadier sortit, laissant [MASK] dans un état de rage et d'inquiétude facile à concevoir. —Pensez-vous, docteur, que ces hommes soient en état de marcher jusqu'à la ville ?
+
+['il', 'on', 'elle', 'eugène', 'antoine']	Auguste	Nous trouvâmes, en arrivant, un domestique qui courait chercher le médecin, et qui nous dit en passant qu'[MASK] avait passé une mauvaise nuit, et qu'il venait d'avoir une convulsion qui avait effrayé son père.
+
+['encore', 'ceci', 'alors', 'cela', 'celle-ci']	Caroline	«Comme c'est heureux qu'on ne m'ait pas écoutée et qu'on ait voulu me taquiner en passant si près du cimetière, dit [MASK] : sans cela je n'aurais pas entendu pleurer ce pauvre enfant et il aurait passé la nuit entière sur la terre froide et humide !»
+
+['on', 'il', 'elle', 'chacun', 'et']	Finot	; et un jour qu'on se pressait pour passer au réfectoire, [MASK] s'écria : «Passe-Partout», le nom lui en resta. Il n'y avait plus moyen de nier ; il ne voulait pourtant pas avouer ;
+
+['il', 'et', 'elle', 'lui-même', 'chacun']	Jacques	; [MASK] faisait des efforts prodigieux pour y arriver à son tour ; mais le bon petit gros roulait, tombait, soufflait, et ne pouvait y arriver qu'avec l'aide de son cousin, un peu plus âgé que lui.
+
+['</s>', '-', '"', '...', 'et']	Auguste	Ainsi, je ne le déteste pas ; seulement... Pierre :—Seulement quoi ? [MASK], rougissant légèrement :—Seulement j'aime mieux ne plus le monter. La générosité de ce pauvre garçon me toucha, et augmenta mes regrets de l'avoir si fort maltraité.
+
+['un', 'pierre', 'celui-ci', 'maurice', 'joseph']	Auguste	—Me voici, me voici, répondit une voix qui semblait venir du ciel. Tous levèrent la tête et aperçurent [MASK], perché au haut d'un chêne, et qui se mit à descendre avec lenteur et précaution. —Pourquoi as-tu grimpé là-haut ?
+
+['jésus', 'maman', 'jean', 'jeanne', 'dieu']	Pierre	En arrivant à la ferme, nous y trouvâmes encore les chasseurs, qui, n'ayant plus de chiens, préféraient se reposer et attendre le retour des enfants. —Déjà ! s'écrièrent-ils en nous voyant revenir. Le papa de [MASK] :
+
+['travail', 'la', 'dieu', '...', 'famille']	Louis	? —Pas ici, papa, pas ici, dirent-ils d'un air mystérieux, chacun tirant son papa dans le pré. —Qu'y a-t-il donc ? dit en riant le papa de [MASK]. Dans quelle conspiration voulez-vous nous entraîner ? —Chut
+
+['on', 'grenouille', 'il', ',', 'elle']	Henri	[MASK] entr'ouvrit la poche de derrière ; la grenouille prisonnière, voyant du jour, s'élança par l'ouverture, tout étroite qu'elle était, et chacun put voir un joli petit gresset effrayé, effaré, qui sautait et se dépêchait pour se mettre en sûreté.
+
+['</s>', '-', ':', 'pierre', '_']	Auguste	—Oui ; je monte au manège depuis deux ans. [MASK] :—Je voudrais bien monter ton poney. Pierre :—Je ne te le conseille pas, si tu n'as pas appris à monter à cheval.
+
+[',', 'le', ':', 'et', 'en']	Henri	[MASK] fut chargé de la commission. Je riais sous cape de la prévoyance. J'étais bien sûr de ne pas avoir la charge d'un chevreuil et de revenir avec les paniers vides comme au départ. —En route ! dirent les papas. Nous marcherons devant.
+
+['que', ',', '"', ':', 'et']	Madeleine	goûtes-en, tu verras. —Des fraises ? dit [MASK], où sont les fraises ? Je ne les vois pas. C'est dégoûtant ce que tu nous donnes. —Mais oui, c'est dégoûtant, s'écrièrent tous les autres.
+
+['cela', 'tout', "c'", 'ça', 'il']	Pierre	les pauvres petits cherchaient à l'en empêcher, mais il les repoussait d'un coup de pied, d'un coup de bêche, et lorsque [MASK] arriva, il les trouva pleurant sur les débris de leurs fleurs et de leurs légumes. —Pourquoi tourmentes-tu mes pauvres petits cousins
+
+['dit-il', 'venez', 'dit-elle', 'dis-je', 'disait-il']	Mirliflore	«Venez, [MASK], faites voir à ces messieurs et dames qu'après avoir su distinguer la beauté, vous savez aussi reconnaître la sottise ; prenez ce bonnet, et posez-le sur la tête du plus sot de l'assemblée.»
+
+['elle', 'et', 'ou', 'il', 'celle-ci']	Pauline	Quand on m'amenait devant le perron du château, [MASK] montait sur mon dos sans me parler ; mais, quand nous étions hors de vue, elle sautait à terre, me caressait, et me racontait ses chagrins de tous les jours pour soulager son coeur, et pensant que je ne pouvais la comprendre.
+
+['jeanne', 'marguerite', 'henriette', 'marie', 'catherine']	Jeanne	—Il n'a pas de maître, grand'mère. —Bien sûr il n'a pas de maître, grand'mère, reprit [MASK], qui répétait tout ce que disait son frère. La grand'mère :—Comment, pas de maître, c'est impossible.
+
+['il', 'on', 'elle', 'jésus', 'pierre']	Caroline	On donna à l'enfant du poulet froid et du pain trempé dans du vin ; à mesure qu'il mangeait, ses larmes se séchaient, son visage reprenait un air riant. Quand il fut rassasié, [MASK] lui demanda pourquoi il était couché sur cette tombe.
+
+[',', 'monsieur', 'il', 'rodin', '-il']	Auguste	En vérité, c'est trop fort... Où avez-vous pris ces belles notions de chasse, monsieur. —Mais, papa, dit [MASK] toujours du même air dégagé, tout le monde sait qu'il arrive très souvent aux grands chasseurs de tuer des chiens.
+
+['al', 'a', 'es', 'me', 'y']	Henriette	[MASK] :—Et qu'il ne mange plus les bouquets que je tiens dans la main. Jeanne :—Et qu'il ne rue plus quand on le monte. Pierre :—Et qu'il ne court plus après mon poney pour lui mordre la queue.
+

@@ -1,0 +1,200 @@
+['-', 'demain', '"', 'tiens', 'oui']	Antonino	: – Le patron m’a dit : [MASK], à minuit exactement, tu te trouveras, muni d’un bougeoir, dans le couloir du vieux Logis, près de la porte du petit salon des tapisseries. A minuit, je dois être là avec mon bougeoir.
+
+['</s>', '"', '...', '_', ')']	Niète	La personne qui offre à une autre la possession d’un cœur gangrené, frelaté, s’étonne toujours des manifestations tranquilles que provoque ce don. [MASK], elle, marquait sa surprise de me voir attacher du prix à son amour…
+
+['elle', '</s>', 'et', 'mais', 'claire']	Concepcion	Mère Supérieure, accordez-moi l’asile, où personne ne pourra troubler mon désespoir. » Je demeurai comme étourdi. Au couvent ! Niète au couvent. L’idée seule me révoltait, bien que les causes de ma révolte ne m’apparussent pas clairement. [MASK], elle, me regardait dans les yeux.
+
+['dieu', 'jésus', 'satan', 'christ', 'jésus-christ']	Niète	On a des arguments de cette force, quand les bons arguments font défaut. Qu’espérais-je de ce pèlerinage matinal ? Avais-je supposé que ces arbres, ces pierres, témoins de la venue de [MASK], me révéleraient le secret de ce qui la faisait pleurer ?
+
+['lui', 'elle', 'tom', 'jacques', 'moi']	Laffontis	J’indique une différence qui, je le répète, me trouble, sans doute parce qu’elle va à l’encontre des habitudes que j’ai contractées dès le premier âge. Je fus donc un moment avant de profiter de l’indication jetée par [MASK] en sortant.
+
+['ou', 'moi', 'elle', 'lui', 'légèrement']	Concepcion	Nous restons ainsi… elle assise, [MASK] penchée sur elle, moi debout en face de ce groupe désolé. De temps à autre, la servante veut décider sa jeune maîtresse à regagner ses appartements. Celle-ci refuse obstinément. – Non, non, plus tard…
+
+['y', 'a', 'b', '/', '-']	Conception	[MASK] a raison. Vous devez rentrer, chercher l’oubli de cette journée dans le sommeil. Elle avait levé la tête. Ses yeux se fixaient sur moi avec une expression affolée. – L’oubli ! redit-elle désespérément. Puis brusquement, comme frappée par l’inexpliqué de ma présence :
+
+['etc.', 'etc', '...', '"', '</s>']	Maure	– En effet. – Ne me promettiez-vous pas de me conter la vérité enclose dans la légende ? – Vous avez la mémoire bonne. – Et la déduction aussi… Paroles magiques actionnant l’eau, [MASK], etc., tout cela s’est expliqué de soi-même…
+
+['celui-ci', 'lorenzo', 'isabelle', 'don', 'valentine']	Concepcion	– Voilà qui est étrange, murmurai-je de l’accent d’un homme profondément étonné. – Qu’est-ce qui paraît si étrange au señor, s’exclama [MASK], qui évidemment devait bien souffrir d’avoir si longtemps gardé le silence. Brave fille !
+
+['chacun', 'travail', 'couple', 'service', 'celui-ci']	Concepcion	Il s’était laissé prendre par le bras et mener vers sa chambre. Sans en avoir l’air, je m’étais glissé sur les traces du couple, non sans recueillir au passage les remarques admiratives des autres serviteurs, vantant l’habileté de [MASK].
+
+["c'", 'elle', 'qui', 'on', 'il']	Niète	Une colère intérieure colora brusquement le visage de l’espion. Mais il se calma, éteignit l’éclair de son regard, et d’un ton calme : – Non, je ne veux, pas mêler mon enfant aux dangers qui nous menacent… et puis, [MASK] est une petite fille ;
+
+['dieu', 'jésus-christ', 'christ', 'jésus', 'marie']	Vénus	Le pâtre génois qui assista à la métamorphose de l’écume des flots en la divine incarnation de [MASK], dut éprouver un saisissement analogue. Tout à l’heure, elle n’était rien, qu’une tache plus noire dans le noir.
+
+['il', ',', 'qui', 'elle', 'et']	Laffontis	Oh ! le souvenir, cette blessure invisible, que l’on emporte partout avec soi ! Mais j’anticipe sur les événements. J’ai tort. Je reprends. [MASK] ne m’a point gardé rancune. Du reste, ce jour-là, j’ai bien réparé le «
+
+['de', 'du', 'des', 'à', 'et']	Niète	La colère bouillonna en moi. C’est absurde, mais être pris pour un espion, fût-ce par le plus misérable des êtres, me procure une sensation insupportable. Pourtant, je me dominai. J’aimais [MASK]. Qu’importait une blessure à mon amour-propre
+
+['il', 'elle', 'et', 'on', 'qui']	Concepcion	Elle me tendit la main gentiment. – Adieu, Monsieur, et croyez à ma gratitude. Tout était fini… Je n’avais plus qu’à me retirer. Soudain, dans une envolée de jupes, [MASK] fit irruption dans le pavillon. – El señor comte !
+
+['</s>', 'elle', 'pierre', 'qui', 'marguerite']	Niète	Un banc de pierre se trouve à quelques pas de la porte, auprès du perron accédant au pavillon. [MASK] y est déposée. Je devrais partir, laisser à cette douleur immense l’apaisement de la solitude, et je ne m’en sens point l’énergie.
+
+['vrai', 'tout', 'bien', 'assez', 'possible']	Conception	? Par mon block-note ! c’est [MASK]. Mais oui, la brune camériste en personne. Si elle me voit, elle va se demander ce que je fais là. A ma propre personne, je pouvais répondre par une phrase dédaigneuse.
+
+["jusqu'", ',', 'mais', 'et', 'face']	Wilhelm	– Le Monsieur, fit-il, qui est bloqué, doit s’efforcer d’utiliser le blocus à son avantage. – Ah ! murmura [MASK] auquel cette formule audacieuse ne parut aucunement compréhensible. J’avoue, en toute humilité, qu’à moi non plus, elle n’apportait aucun sens plausible.
+
+['</s>', 'elle', 'il', 'qui', 'et']	Niète	Assez douloureuse déjà serait la présence de la fille du coupable. Oh ! [MASK] n’avait plus peur. Elle serait là, pour défendre, pour protéger son fiancé… Mais le fait que son père eût voulu, eût préparé le meurtre, n’en subsistait pas moins…
+
+['.', 'le', "l'", '"', 'la']	Niète	A plus forte raison pour conquérir [MASK]. Je pensai que je méprisais l’espion, mais que pour rien au monde, je ne devais laisser paraître cet état d’esprit. Le montrer eût été le contraindre à s’étonner de ma recherche matrimoniale.
+
+['</s>', 'il', 'elle', '"', '...']	Concepcion	Parler à la jeune fille… Certes… Mais que lui dirais-je, moi inconnu, dont la démarche ne serait justifiée par rien. Liens de famille, de fréquentation même, faisaient défaut. Ah ! [MASK] s’embarrassait peu de ces distinctions subtiles provenant de l’éducation.
+
+['oui', 'non', 'hier', 'ah', 'monsieur']	Señorita	Cela me surprit infiniment, car je ne me souvenais pas avoir procédé à semblable toilette de nuit. Mais ma surprise s’accentua encore, bien que changeant de cause, à l’audition de ces paroles : – [MASK], il a bougé.
+
+['moi', 'vous', 'toi', 'lui', 'moi-même']	Niète	Le secrétaire s’arrête devant le comte, debout, en cette attitude raide, militaire, que les Allemands prennent toujours en présence d’un supérieur. Que vont-ils comploter ? Est-ce qu’ils ne méditeraient point une perfidie contre [MASK], contre moi-même ?
+
+['</s>', 'il', '"', '-', 'elle']	Niète	Je frissonne. Je sens le vent de la fatalité souffler sur ces deux êtres. [MASK] a jeté brusquement ses bras en avant. Ses mains sont jointes, Elles supplient en un tremblement convulsif. – Oh ! père, n’insistez pas. Puis, fondant en larmes :
+
+['recherche', 'là', 'vous', 'la', 'moi']	Niète	J’eus un petit sursaut. Si je m’attendais à celle-là, par exemple ! – Je parle de [MASK], poursuivit le comte, dont l’organe se voila… je ne veux pas qu’elle souffre. – Et où prenez-vous que je la ferais souffrir
+
+['elle', '</s>', 'il', 'je', 'on']	Niète	Je ne m’étais pas trompé… [MASK] m’était envoyée comme une inconsciente messagère. Décidément, le comte était un rude jouteur, et le coup qui avait fêlé son crâne, ne lui avait rien fait perdre de ses moyens. Il m’indiquait la voie.
+
+['bien', 'est', 'ainsi', 'mal', 'a']	Marie	– [MASK] conçue sans péché. » Quelle jolie idée de poète ! Une prière en cinquante ou soixante vers ! – « Tout le souterrain s’illumine – d’une clarté ignorée des humains. – La belle fille s’est levée – elle marche avec confiance – vers l’entrée que ferment les eaux diaboliques…
+
+['</s>', "j'", 'on', 'il', 'elle']	Niète	Ces perrons sont construits sur un même diamètre. Au-dessus, une terrasse où, durant la belle saison, l’on trouve plus d’air qu’à l’étage inférieur. [MASK] adore ce pavillon. C’est en quelque sorte son cabinet de travail.
+
+['dit', 'monsieur', 'cher', 'reprit', 'répondit']	M.	Oh ! la vaillante jeune fille. Son intervention assurait le consentement du comte. Il eut une rapide contraction de la face aussitôt disparue. Et d’un ton bonhomme, où tintait cependant une ironie menaçante : – Que ne le disiez-vous de suite, [MASK] Max Trelam.
+
+['de', ',', 'à', 'et', '(']	señor	– Pleuré ? – Quand un homme ne fait pas rire, il fait verser des larmes, fit-elle sentencieusement. – Merci de cet axiome flatteur… pourtant, dites-moi de quel homme vous parlez ? – De vous, [MASK]. – De moi ?
+
+['diane', 'harry', 'celui-ci', 'georges', 'mrs']	Concepcion	Quelqu’un se trouvait de l’autre côté de cette porte et l’ouvrait. Une forme féminine se dessina dans l’encadrement, parut écouter, puis risqua quelques pas prudents dans la rue. Un mince rayon de lune filtrant à travers l’écran des nuées me permit de reconnaître [MASK].
+
+['non', 'monsieur', 'mon', 'pour', 'je']	señor	Cinq et quatre, neuf… Et huit, dix-sept… et six, vingt-trois… C’est exact. Oh ! ces Espagnoles qui trouvent le moyen de réciter une addition d’un ton passionné ! J’interromps ce récital chiffré. – Pas de lettres pour moi ? – Non, [MASK].
+
+['guitare', 'correction', 'électro', ':', "l'"]	TUBE	« N’économisez pas, surtout. Ceci vaut, je le sens, tout ce que cela peut coûter. « Votre vraiment… » Suivait la signature. Chapitre 3 PAR [MASK] ACOUSTIQUE Certes, j’aime les logogriphes ; je ne serais pas journaliste sans cela.
+
+['monsieur', 'sire', 'dit-il', 'moi', 'madame']	Niète	– Votre fiancé m’évite, [MASK]… Je ne veux pas rechercher pourquoi… Mais en admettant que ma vue lui soit désagréable, il aurait un moyen certain de ne pas me voir longtemps… me faire fixer au plus tôt la date du mariage que vous souhaitez.
+
+[',', 'et', 'plus', 'lors', 'ou']	Niète	mais je ne les comprenais pas. Et pourtant j’avais l’impression que la lumière allait se faire dans mon cerveau, qu’elle était toute proche. – Ah ! continua [MASK] d’une voix un peu tremblante, votre blessure avait un aspect si terrible. Ma blessure
+
+['l', 'm', 'mr', 'la', "l'"]	Niète	La conjoncture la plus grave se produit. L’Allemand arrivé premier, je devrai l’attaquer pour protéger la vie du champion anglais, je devrai lutter contre le père de [MASK]. Au mieux, il y a de fortes chances que ce soit la rupture de mon mariage.
+
+['elle', 'la', 'celle', 'lui', 'à']	Niète	Telle est l’absorption de l’idée fixe que je ne crois pas avoir eu une pensée pour [MASK]. L’aimant comme je l’aime, cet aveu en dit plus long qu’un discours. Je suis hors de moi-même. Je subis une extériorisation douloureuse.
+
+['son', 'louis', 'sa', 'la', 'm.']	X.	. Evidemment, le meurtre de [MASK] 323 le préoccupait trop pour qu’il discutât une chose de si mince importance que le mariage de sa fille. En d’autres dispositions d’esprit, j’aurais jugé sévèrement son indifférence ;
+
+['</s>', 'peut-être', 'et', 'ou', 'pourquoi']	Niète	Mais les arbustes n’interceptent pas le son. Je perçois distinctement le grincement léger que produit la porte en s’ouvrant. Mon cœur le connaît trop bien, ce bruit, pour que le témoignage de mes oreilles m’induise en erreur. [MASK] se serait-elle ravisée ;
+
+['elle', 'il', 'qui', "c'", 'tout']	Niète	En vérité, j’ai beau fouiller dans ma mémoire, la seule vision que me rappellent ces jours heureux, est une voiture, attelée de grandes mules, pomponnées de rouge. Dans cette voiture, [MASK] est auprès de moi, et nos mains sont unies ;
+
+['mon', 'serment', 'le', 'mes', 'ma']	Niète	En voici bien d’une autre. Il s’assoit sur le banc placé devant le kiosque, ce banc où j’ai presque porté [MASK], dans cette nuit tragique et bienheureuse, où il m’a été donné de la voir pour la première fois. Bon !
+
+['comte', 'chateaubriand', 'rodolphe', 'mathilde', 'louis']	Niète	sans cela il m’eût paru au moins étrange qu’elle m’eût parlé de la disparition de [MASK], alors que la foule accourue à la réception du comte de Holsbein avait dû se contenter de l’excuse vague d’une indisposition subite, expliquant l’absence de la pauvre enfant.
+
+['m', 'oui', 'vous', 'monsieur', 'non']	X323	« Votre vraiment, « [MASK]. » Je sautai sur mes pieds. A partir de ce moment, j’entrais dans l’extraordinaire aventure que je vous conterai à mon retour. Je pars en vous souhaitant le bonjour. [1] Plus royaliste que le roi.
+
+['elle', "s'", "c'", 'qui', 'on']	Concepcion	Il ne faut pas qu’elle me retrouve ici, s’il lui prend fantaisie de soulever le rideau qui m’abrite. Voyons… elle est à peu près sans connaissance… [MASK] est penchée sur elle. Je pourrais me glisser sans bruit jusqu’à la porte…
+
+['œuvre', 'oeuvre', 'acte', 'oraison', 'épreuve']	AGNELET	Chapitre 9 L’[MASK] EXPIATOIRE Rien n’est pénible comme de passer, sans transition, d’une ambiance romanesque à l’atmosphère prosaïque du train-train habituel. La perspective de rentrer à l’hôtel de la Paix me fit frémir d’indignation.
+
+['elle', 'je', 'il', 'on', 'cela']	Madrid	La place est encore à peu près déserte. Quelques arrieros sont près de la fontaine centrale, devisant avec deux gallegos, se livrant à une gesticulation expressive. Ceux-là se lèvent de grand matin. Leur profession ouvre de bonne heure, comme ils le disent. Mais [MASK] sommeille encore.
+
+['ce', 'celui', 'celle', 'ceux', 'un']	Niète	D’un bond elle se leva, les bras tendus, pour retenir [MASK] qui allait disparaître. Mais d’en haut, elle en eut la nette perception, bien qu’elle n’ait aperçu personne, un jet de liquide pulvérisé fut dirigé contre elle, lui emplissant les yeux de picotements insoutenables.
+
+['c', 'le', '"', ':', 'da']	Barneff	Je « buvais son âme » , ainsi que le dit si joliment [MASK]. J’appréciais cette image osée, car véritablement, j’éprouvais la sensation de béatitude que provoque l’arrivée au puits ombragé de palmiers, alors que l’on a chevauché tout le jour à travers le désert.
+
+['dieu', 'marie', 'jeanne', 'claire', 'jésus']	Concepcion	By Heaven, j’entendais la voix de [MASK]… Dans ma chambre, à l’hôtel de la Paix… c’était invraisemblable. Je rêvais assurément. Non, je ne rêvais point… Dans le cercle embrassé par mes regards, une délicieuse apparition se précisa, venant à mon chevet.
+
+['personne', 'londres', 'quiconque', 'nouveau', 'temps']	Berlin	Ce dernier avait décidé que le délégué allemand serait, de plusieurs jours, incapable de transmettre à [MASK] le document volé, au cas improbable où le comte de Holsbein réussirait à le lui remettre, à l’insu de son surveillant.
+
+['personne', 'je', 'celui-ci', 'on', 'se']	Laffontis	Il ne fallait pas que [MASK] soupçonnât mon indiscrétion. Vivement, j’enfonçai le sifflet dans l’ouverture du tube acoustique, j’empoignai le premier journal illustré qui se trouva sous ma main, et j’allai me jeter dans un fauteuil relégué près de la croisée.
+
+['...', 'jacob', 'martin', 'blanc', 'gallo']	Trelam	– Je l’espère. – Mais non pas avec moi. – Je vous défie de m’en empêcher… Mon interlocuteur se laissa aller à une exubérante gaieté. – Vous me défiez. Prenez garde, Max [MASK] ; je suis homme à vous prendre au mot.
+
+['-', 'est-il', '...', 'donc', 'cela']	señorita	– Où cela, [MASK] ? – Que t’importe. – Mais votre père ? – Mon père ! Elle dit ces deux mots d’une petite voix brisée ; on aurait cru qu’elle étouffait. Puis elle se raidit, et presque avec rudesse, elle répéta :
+
+['-', '</s>', 'et', '"', 'il']	Niète	Il venait lentement à nous, les sourcils froncés, une expression colère et maligne dans les yeux. [MASK] se voila le visage de ses mains. – Mon père… Que dira-t-il ? – Je suis là, murmurai-je. Je m’étais levé.
+
+['elle', 'il', '</s>', 'chacun', 'on']	Niète	Elle les partagea de toute sa fougue espagnole. A sa voix, les suppositions se précisèrent en certitudes. [MASK] hésitait à croire son père préméditant un crime. La soubrette, elle, n’avait point les mêmes motifs de réserve.
+
+['mademoiselle', 'cela', 'madame', 'moi', '...']	Niète	– Vous aimez profondément [MASK], fit-il en me tendant la main à son tour. – En m’engageant à elle, j’ai engagé ma vie, et ce m’est la chose la plus douce qu’il me soit arrivée depuis ma venue dans le monde.
+
+['seigneur', 'non', 'surtout', 'mais', 'père']	Niète	… Il y a vraiment des pères qui aiment désoler leurs enfants. Il répondit : « [MASK], ne vous leurrez pas d’espoirs peut-être mensongers… » Et comme elle le regardait ébahie. « Mon expérience, continua-t-il, est moins crédule que votre jeunesse.
+
+['qui', 'ce', 'cela', 'il', 'je']	Concepcion	je n’en eus pas le temps. [MASK] m’avait vu, car elle marchait tout droit vers moi, avec des démonstrations joyeuses, dont l’exagération méridionale me médusa. En trois sauts, elle fut devant moi, et bredouillant, dans son empressement à s’expliquer
+
+['la', 'dante', 'jésus', 'mon', "l'"]	Niète	On eût cru que ma conclusion ramenait un voile d’ombre sur le doux visage de [MASK]. – On ne s’évade pas de la honte, prononça-t-elle, une buée humide troublant l’azur de son regard. – La honte ne frappe que les coupables…
+
+['on', 'elle', 'il', 'chacun', "j'"]	Concepcion	! A quelle pensée intime correspondait cette phrase. Je compris qu’elle sentait que le reproche ne m’atteignait qu’indirectement… Il était prononcé d’une voix douce, comme absente… Cela était pénible et suave, et triste infiniment. Mais [MASK] essayait de l’entraîner.
+
+['cela', 'paris', 'un', 'celle-ci', 'tout']	Laffontis	J’étais en mesure d’affirmer qu’un individu inconnu détenait une arme terrible ; mais sans me douter aucunement de ce qu’était cette arme. Obsédé par mes réflexions à ce point que je regrettais presque le mouvement d’amicale clémence qui m’avait fait épargner [MASK].
+
+['vous', 'toi', 'moi', 'moi-même', 'lui']	Concepcion	; oui, un devoir d’humanité. Il serait barbare et sauvage de laisser pleurer des yeux bleus si exceptionnellement doux. L’amour se déguise en infirmier de la Charité. J’ai un peu honte de moi-même. Comme je suis hypocrite auprès de [MASK]…
+
+['</s>', 'peut-être', 'aussi', 'et', 'pourquoi']	Niète	Pourquoi ? A quel instinct obéit cette fille simple ? Et j’obéis avec le sentiment qu’elle a raison, que ma présence est déplacée. Je m’éloignerais si cela m’était possible sans me faire remarquer. [MASK] se rapproche. Tout près, elle a un gémissement.
+
+['maman', 'elle', 'caroline', 'celle-ci', 'christine']	Concepcion	Mon seul but est de démontrer mon embarras. Phraséologie inutile, puisqu’il me suffira de déclarer que ma langue me semblait collée à mon palais et mes pieds nickelés au sol. Je me demandais si j’allais reculer ou avancer. Mais [MASK], elle, avait juré que j’avancerais.
+
+['tout', 'silence', 'le', 'la', '"']	Marco	A présent que le document est revenu à ses légitimes propriétaires, il est probable qu’il tiendra à vous remercier de la discrétion du Times et de son correspondant. Mais silence, voici [MASK]. Et elle reprit sans transition sa petite conférence sur les confiseries.
+
+['</s>', 'il', '-', 'tout', 'cela']	Concepcion	Et je me déclarais avec la plus agréable satisfaction de moi-même, que j’avais une exquise petite nature d’apôtre joyeux ou de « Premier Chrétien » blagueur. [MASK] arriva par là-dessus aux nouvelles. Et comme elle en venait chercher, ce fut elle qui m’en donna.
+
+['assise', 'huile', 'angers', 'argile', 'alexandrie']	Atocha	, c’est la bonne Vierge d’[MASK] qui vous envoie. Je mourrais de peur à être seule, par cette obscurité, dans cette rue qui semble un coupe-gorge. – Pourquoi y êtes-vous, en ce cas ? Rentrez. – Je ne dois pas.
+
+['il', 'elle', 'on', 'et', 'se']	Concepcion	– Eh bien, avant de nous mettre en route, je prierai le comte de fixer la date… du plus heureux jour de ma vie. Du coup, [MASK] battit des mains. – Ah ! comme vous avez bien dit cela, señor…
+
+['il', 'je', '-', 'qui', 'on']	Max	– Oui, oui… [MASK] me dissimulait quelque chose… Il s’est éloigné précipitamment… sans se retourner comme il le fait d’ordinaire. Son émoi lui rappelait le souvenir de détails infimes. – Et mon père… Quel air singulier… Il était ému certainement…
+
+['marthe', 'sophie', 'marie', 'marguerite', 'madame']	Concepcion	Je crois que [MASK] elle-même est en proie à une sensation analogue, car la suivante s’est immobilisée. Elle reste figée, le cou tendu ; on croirait qu’elle hésite à présent à reconnaître sa jeune maîtresse, qu’elle doute du témoignage de ses yeux.
+
+['gallo', 'jacob', 'weber', 'martin', 'kennedy']	Trelam	Ah ! señorita, permettez que je vous présente mon ami, – il appuya sur le mot avec tant de force que l’idée me vint aussitôt qu’il y avait là un signal convenu. –… Mon ami Max [MASK], correspondant du Times.
+
+['dit', 'dis-je', 'moi', 'dit-il', 'je']	Señorita	– [MASK], le señor qui m’aida hier soir à vous porter dans le jardin. Et puis, j’ai une vision de jeune fille éperdue, pâlie, effarouchée, dressée brusquement du siège sur lequel elle était étendue. C’est une Diane surprise au bain.
+
+['eux', 'autres', 'un', 'qui', 'de']	Musset	[MASK], et nombre d’autres, ont développé la pensée que l’esprit vient aux filles avec l’amour. Tout aussi justement ils auraient pu dire que la passion remplit d’astuce les garçons, qui, en dehors d’elle, en sont rarement pourvus.
+
+['ainsi', 'ici', 'partout', 'toujours', 'versailles']	Majesté	Don, qui devient comique par sa généralité. Je fus très satisfait de cette définition, fort exacte en somme, car je crois bien que le roi des Espagnes, ce sémillant jeune homme que l’on appelle [MASK], est le seul citoyen de la péninsule qui ne soit pas majestueux.
+
+['lui', 'dieu', 'paul', 'josé', 'pierre']	Concepcion	Il avait suffi à [MASK] de prononcer cette parole magique : – La señorita va venir. Pour me faire oublier l’incorrection, l’impropriété de ce tête-à-tête nocturne avec une servante. Je me figurai de bonne foi que j’agissais uniquement comme correspondant du Times…
+
+['possible', 'vrai', 'tout', 'moi', 'cela']	Antonino	Observation fugitive ou presque, de suite le comte s’écria : – Mais ce n’est pas [MASK]. – Non, fis-je en « vulgarisant » ma voix, je suis un extra de la maison Olaredo (c’était celle qui s’était chargée du buffet)…
+
+['</s>', 'il', 'elle', '-', '"']	Niète	! répéta-t-elle par deux fois d’une voix sifflante. – Mon père. [MASK] avait prononcé ces deux mots avec un accent impossible à rendre. Je la regardai, blême, frissonnante, semblant prête à défaillir et machinalement je fis un pas vers elle.
+
+['non', ',', 'et', '(', ':']	Teufel	– Mon père, ne m’interrogez pas… Il fronce les sourcils. L’homme de combat qui est en lui, s’irrite de cette résistance inexplicable. – [MASK] ! grommelle-t-il. Est-ce que vous vous figurez que je vais me contenter de pareilles phrases creuses
+
+['dieu', 'quiconque', 'chacun', 'césar', 'celui-ci']	Concepcion	De quel droit conseillerais-je à [MASK] de confisquer la correspondance confiée à ses soins ? Comprit-elle ce qui se passait en mon esprit ? Elle m’annonça : – Oh ! une enveloppe qui peut porter préjudice, c’est sûrement œuvre-pie que de la détruire.
+
+['on', 'elle', 'il', 'qui', 'et']	Niète	Et se tournant de mon côté : – Oh ! señor, si j’osais… je vous prierais de traverser le jardin… M. le comte est encore dans les salons… Elle n’acheva pas. Avec une énergie sauvage, [MASK] disait : – Je ne le veux pas
+
+['qui', 'et', 'lui', ',', 'toujours']	Concepcion	[MASK], d’ailleurs, avec la plus entière inconscience, aggravait la situation de minute en minute. Son cœur était fidèle et sa tête folle. Son exaltation naturelle l’entraînait. A présent, elle était sûre que rien de ce qui avait été dit par sir Trelam et par le señor comte n’était vrai.
+
+['le', 'la', 'les', 'm', '"']	X.	» fut plus forte, et je murmurai : – Le filet tendu par [MASK] 323 ? Et le capitaine, inclinant la tête : – Vous le connaissez ? Cette fois, il haussa les épaules. – Qui le connaît ? – Pourtant, vous l’avez vu ?
+
+['temps', 'bras', 'voix', 'place', 'mouvement']	Niète	De [MASK], plus de trace. Affolée, la camériste monta jusqu’à la terrasse. C’était là que devait aboutir la corde. Rien, personne ! Les ravisseurs et leur victime semblaient s’être évanouis en fumée.
+
+['lui', 'napoléon', 'celle-ci', 'cela', 'celui-ci']	Niète	– Oui, oui… heureusement ! – Mais, répond-il, qu’est-ce que vous faites ici ? Il eût été intelligent de lui retourner la question : – Et vous ? Moi, je vous suis. Mais le souvenir de [MASK] se présenta à mon esprit.
+
+['hector', 'artagnan', 'or', 'alexandre', 'ajax']	Alcala	Tant de travail pour une armure. – Vous comprendrez, quand j’aurai ajouté que la Belle Fille d’[MASK] était réputée donner la victoire à quiconque en était revêtu. Elle avait dès lors un prix inestimable. Un étroit sentier entre deux buissons se présenta devant nous.
+
+['qui', 'mémoire', 'française', 'anglaise', 'russe']	Concepcion	[MASK], elle, s’acquittait de ce soin sans effort. Sa langue marchait à une allure de turbine (11,000 tours à la minute), et les dynamos les plus puissantes n’eussent pu l’actionner avec une vélocité aussi constante. Et tout cela, je le répète, sans effort.
+
+['</s>', 'on', '-', 'de', 'et']	Concepcion	Une à une, les fenêtres s’obscurcissent. On dirait des yeux qui se ferment. La façade à présent est toute noire. [MASK] la montre à la jeune fille. Celle-ci se dresse sur ses pieds, s’appuyant au bras de sa suivante.
+
+['dieu', 'madame', 'chacun', 'monsieur', 'marguerite']	Concepcion	S’il me reconnaissait, quel désastre ! Mais il n’y a pas de danger. Le pauvre diable est bien trop occupé, à ne pas laisser deviner au comte qu’il commis une irrégularité en allant aviser [MASK] de son bonheur. – Tu n’as pas bougé ?
+
+['tous', 'exécution', 'temps', 'londres', 'paris']	Berlin	Et cependant, il faut que le traité, enlevé à la barbe de ces chiens d’Anglais, parvienne à [MASK]. Il le faut ! – Chiens d’Anglais, grommelai-je… Si tu nous appelles chiens, c’est que tu as senti la morsure de nos dents.
+
+['jacob', 'weber', 'gallo', '...', 'ernst']	Trelam	La vie du personnage que je présente aujourd’hui obéit aussi à une loi ignorée. Moi, Max [MASK], je suis heureux de proclamer mon estime et mon affection pour sa supérieure individualité, qui domine à ce point le commun des mortels, qu’il accepte sans murmure ce mot si mal vu : Espion.
+
+['il', '--il', '</s>', '-', '"']	Niète	et, brutal, incisif, trahissant l’anxiété qui l’avait fait se lancer à la recherche de sa fille, je le compris à ce moment, il prononça : – Que vous a-t-on dit ? [MASK] secoua désespérément la tête : elle ne voulait pas répondre.
+
+['moi', 'vous', 'tout', 'ce', 'et']	Niète	mais bien que vous avez été très bon pour moi, pour [MASK], hier au soir, et que vous ne refuserez pas de m’aider encore aujourd’hui. Je me mordis les lèvres, la camériste avait-elle l’intention de me prendre à son service ? Elle continuait cependant
+
+['monsieur', 'moi', 'pierre', 'celui-là', 'jacques']	Alfredo	– Non, non, je ne crois pas cela… le señor n’a pas cherché à rire à mes dépens… Seulement, si [MASK], c’est mon collègue, ne connaît pas le puits du Maure, c’est qu’il n’existe pas…
+
+["qu'", 'et', ',', 'que', 'par']	Niète	J’eus une seconde de présomption. Je pensai que [MASK] elle-même l’avait dépêchée vers moi. Et tout ravi de cette idée, je prononçai : – Alors, elle m’attend ? Un éclat de rire de la fille de chambre me fit aussitôt repentir de mon mouvement avantageux
+
+['il', '-', 'cela', 'oui', 'elle']	Fallières	Pourquoi défiais-je cette spacieuse et bourgeoise habitation ? Tout uniment parce que je venais de me confier cette solennelle bêtise : – [MASK] sait probablement ; mais ce soir j’en saurai autant que lui. De tels rapprochements s’imposent à l’esprit des reporters.
+
+[',', 'de', 'et', '(', 'est']	VENGE	Cette fois, je ne puis m’accuser. Ce n’est point par ma faute que j’assiste, moi troisième, à l’entretien de ce père, de cette enfant, qui se trouvent en face l’un de l’autre. Chapitre 13 X. 323 S’EST [MASK]
+
+[',', ';', 'et', 'sème', ':']	Concepcion	[MASK] naturellement regimba, résista ; une soubrette ne renonce pas volontiers à assister au dernier acte d’un drame, dont elle a vécu les premières scènes. Mais l’excellente créature adorait son « petit agnelet » ainsi qu’elle désignait, avec une tendresse quasi maternelle, sa jeune maîtresse.
+
+['dieu', 'la', 'jésus', 'paix', 'demain']	Molière	– Comme le Maître Jacques de l’Avare, vous me représentez un être double : le correspondant du Times et… l’ami. J’ai affaire à tous les deux. – Auquel d’abord, fis-je, entrant ainsi de loin dans le dialogue de [MASK].
+
+['temps', 'mouvement', 'fleuve', 'courant', 'corps']	Prado	elle me vit interloqué par le dénouement brusque voulu par elle et… je n’eus pas la berlue, non, je puis jurer que je la vis sourire avec un petit signe de tête que je traduisis comme un ironique adieu. J’essayai vainement de m’intéresser encore au va-et-vient du [MASK].
+
+['mais', 'dit-il', 'monsieur', 'et', 'madame']	Concepcion	Je suis venue pour vous expliquer ; mais une langue n’est qu’une langue, et elle ne peut prononcer qu’un mot à la fois. – Cela est évident, [MASK], encore peut-elle choisir les mots utiles. Elle parut chercher le sens de ma réflexion.
+

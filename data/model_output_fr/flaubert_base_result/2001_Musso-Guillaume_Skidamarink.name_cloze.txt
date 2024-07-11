@@ -1,0 +1,200 @@
+['t-elle', 'elle', '-t-elle', 't-il', 'ait-elle']	Barbara	- C'est en quelque sorte les coordonnées du mot que l'on peut retrouver dans un livre qui servirait de clef. 24-03 signifie alors : le troisième mot de la vingt-quatrième page. - Assez archaïque comme technique, souffla [MASK], toujours prête à critiquer une proposition qui ne venait pas d'elle.
+
+['que', ',', 'comme', 'qui', 'je']	Gemereck	[MASK] nous raconta l'Union soviétique d'avant la fin de la guerre froide. Quant à moi, je les regardais et les écoutais en silence. Cela faisait trois ans que je prenais mes repas en solitaire. Je ne m'en plaignais pas, c'est moi qui l'avais choisi.
+
+['harry', 'john', 'celui-ci', 'tom', 'alice']	Magnus	- C’est, c'est un vrai? - Bien sûr, répondit [MASK] en caressant le petit ours à travers les barreaux. - Ne craignez-vous pas qu'ils l'aient modifié génétiquement pour en faire un animal dangereux ? - Non, leur but est tout autre.
+
+['référence', 'recherche', 'synthèse', 'contrôle', 'mars']	Steiner	Il soupçonnait le laboratoire de [MASK] de s'être livré, dans le plus grand secret, à une opération interdite de modification génétique de certains embryons, avant de les réimplanter dans des utérus humains. Quelle était la nature exacte de ces manipulations?
+
+['il', 'elle', 'on', 'je', 'lui-même']	Gemereck	Il se leva dans la minute, encore mal réveillé, se pencha sur elle et commença à la secouer. La première idée qui me vint à l 'esprit fut une tentative de suicide, mais [MASK] ne crut pas un instant à l'empoisonnement.
+
+['carlos', 'franco', 'celui-ci', 'picasso', 'lui']	Miroslaw	La mort de [MASK], mais aussi celle de ses deux dogues argentins, que les tueurs avaient descendus de deux balles dans la tête, l'avaient beaucoup affecté. Je compris que nous nous étions trop souvent déchargés sur lui, en croyant à tort que ses capacités étaient sans limites.
+
+['pierre', 'dieu', 'marie', 'jésus', 'david']	Vittorio	- Je vous l'avais bien dit qu'ils auraient besoin de nous ! lança-t-elle d'un air de triomphe au conducteur. - Alors les gars, contents de nous voir? demanda la voix de [MASK] au moment où la voiture enfonçait la barrière et nous emportait dans la nuit.
+
+['</s>', 'il', 'on', '"', 'elle']	Vittorio	Difficile d'imaginer que, dans la vie, ce type était un des plus grands généticiens du monde. [MASK] nous avait ouvert une bouteille de chianti classico de 1988, son vin de messe personnel comme il aimait à le dire.
+
+['il', 'qui', ',', 'et', 'elle']	Magnus	[MASK] essaya de dominer son émotion. Il souleva délicatement le morceau de toile et trouva en dessous une petite carte de visite, vierge de tout patronyme, mais qui portait l'inscription suivante : 3. « Science sans conscience n'est que ruine de l'âme. »
+
+['t-il', 'il', 'alors', 'elle', 'celui-ci']	Gemereck	Gnan gnan gnan gnan gnan... - C'est ce que je n'arrêtais pas de répéter à mon premier mari. Tous les hommes ne sont malheureusement pas comme vous. « Grouillez-vous », inscrivit [MASK] à mon attention sur le tableau noir. Facile à dire.
+
+['qui', 'et', 'pourquoi', 'quel', 'je']	McCoyle	Quelles nouvelles valeurs voulez-vous que je sorte de ma hotte, [MASK] ? Le bien vaut mieux que le mal, la démocratie mieux que la dictature, la paix est préférable à la guerre, l'intégrité à la malhonnêteté!
+
+['il', 'qui', ',', 'mais', 'al']	Magnus	[MASK] devait avouer plus tard que ce qui l'avait le plus ému était l'impression de délabrement qui se dégageait du lambeau de toile. Le tableau semblait en effet avoir été charcuté aux ciseaux avant même d'avoir été ôté de son châssis.
+
+['il', 'celui-ci', 'elle', 'garde', 'lui']	Magnus	Un garde était bien en faction devant la porte, mais [MASK] le salua sans trembler et lui lança une boutade salace de son cru pendant qu'il composait le code d'entrée. Heureusement, celui-ci n'avait pas été changé et la porte s'ouvrit sans difficulté.
+
+['10', '45', 'ii', '4', '"']	Magnus	- Merde, fit-elle alors. - Qu'y a-t-il encore? - J'entends un crissement de pneus sur les graviers. Je crois qu'ils sont revenus. - Venez vite nous libérer ! cria [MASK].
+
+['yumi', 'celle-ci', 'celui-ci', 'sam', 'tom']	Maumy	J'avais aussi du mal à me concentrer sur ma conduite car le visage déformé de [MASK] me revenait sans cesse à l'esprit. Au bout du compte, ce n'est qu'à 18 heures que j'arrivai enfin, sain et sauf, devant la grille en fer forgé de ma maison.
+
+['jésus', 'dieu', 'nietzsche', 'galilée', 'pierre']	Léonard	Je me demande souvent ce que [MASK] aurait pensé s'il avait su que, cinq siècles plus tard, le vol puis la vente illicite d'une de ses œuvres serviraient à donner une éducation et une assistance juridique à plusieurs centaines de nécessiteux.
+
+['celui', 'ceux', 'celle', 'celles', ',']	Magnus	Parfois de grands oiseaux blancs venaient frôler les parois de l'immeuble et manquaient de se fracasser contre nos fenêtres. - Pourquoi a-t-il fait ça ? demandai-je à [MASK] qui, au bout d'un moment, m'avait rejoint sur la terrasse. - Hum... ?
+
+['nous', 'moi', 'quoi', 'humains', 'oui']	McCoyle	Vous savez, [MASK], les humains partagent près de 99 % de leurs gènes avec les chimpanzés et même 30 % avec une laitue ! Vous comprendrez que les manipulations ne vont porter que sur un très petit nombre de gènes mais qui ont des fonctions stratégiques.
+
+['il', 'on', "j'", 'julien', "c'"]	Patsy	Dehors la neige tombait en flocons drus et compacts. L'électricité était coup��e depuis des mois et il faisait sombre et froid dans la pièce. Malgré cela, [MASK] était resté longtemps à l'intérieur de l'appartement.
+
+['lui', 'vous', 'elle', 'toi', 'dieu']	Melanie	Une bouffée de nostalgie traversa peut-être son esprit. - Si on me demandait aujourd'hui de qualifier l'essence de ma relation avec [MASK], le premier mot qui me viendrait à l'esprit serait celui-ci : Il écrivit sur la grande feuille de papier le mot reproduction.
+
+['le', 'père', 'de', 'lui-même', 'et']	Vittorio	[MASK], qui avait aussitôt reconnu un extrait de la Genèse, approuva d'un signe de la tête. Lorsque nous fûmes réunis dans le salon cossu du manoir, la tension qu'avaient fait naître en nous ces sinistres obsèques de fortune retomba progressivement.
+
+['jésus', 'dsk', 'mahomet', 'kadhafi', 'dieu']	Steiner	Cela a même à voir avec la Bible et la religion : « Tu ne tueras point », vous connaissez ? - Vous voulez donc dire que [MASK] aurait été enlevé pour, en quelque sorte, répondre de ses actes devant la société ?
+
+['dreyfus', 'hitler', 'masse', 'robespierre', 'kennedy']	Magnus	Il n'y avait malheureusement rien de nouveau, du moins en ce qui concernait les faits. Quant à l'interprétation des événements, la police et les journaux semblaient conforter en partie la thèse de [MASK] et redoutaient d'autres enlèvements d'hommes d'affaires ou de politiciens douteux.
+
+['etc.', 'monsieur', 'dit-il', 'etc', '"']	Magnus	Je dois raccrocher maintenant, mais nous vous rappellerons dès que possible. - OK, à bientôt. Je retournai dans la bibliothèque en passant par la porte-fenêtre. - Vous avez une fille formidable qui nous a peut-être fait avancer dans nos recherches, [MASK]. - Nom de nom!
+
+['il', 'et', 'on', 'chacun', 'puis']	Magnus	Assis au bord de l'eau bleue qui brillait dans la nuit, [MASK] s'amusait à faire des vagues avec ses pieds, tout en savourant un verre de saint-estèphe . A côté de lui, une mini-chaîne portable, branchée sur une station FM, diffusait les dernières nouvelles du monde.
+
+['voltaire', 'rousseau', 'bonaparte', 'celui-ci', 'napoléon']	Gemereck	Puis tous les regards se portèrent sur le tableau noir où s'étalaient les trois parties du message qu'il restait à décoder. - Quelle répartition des tâches proposez-vous ? demandai-je. [MASK], qui aimait les chiffres, était persuadé que le cryptogramme ressortait de son domaine.
+
+['quoi', 'monsieur', 'non', 'enfin', 'oui']	Theo	- Et vous avez attendu tout ce temps pour nous le dire ! - Je ne vois pas où est le problème ? - Le livre de référence, [MASK] ! Imaginez que votre plaquette de poèmes soit l'ouvrage qui permette de décoder la quatrième partie du message.
+
+['masse', 'dieu', 'vengeance', 'certains', 'lincoln']	Maumy	La plupart des meurtriers qu'elle traquait agissaient d'abord sous l'emprise d'une effroyable colère vis-à-vis des victimes, qui prenait ses racines dans une violence et une humiliation subies des années plus tôt. Mais jusque-là personne n'avait vraiment trouvé vers quoi était dirigée la colère de [MASK].
+
+['...', ',', ':', 'ce', 'vous']	Mel	Aujourd'hui encore, je me souvenais de toutes les heures, de toutes les secondes que j'avais passées en compagnie de [MASK]. Du velouté de sa peau, de la longueur de ses cheveux, des plats qu'elle avait pris au restaurant, de ses sourires et de toutes ses intonations de voix
+
+['sou', 'je', 'en', 'il', 'lui']	Barbara	- Attrapez un pan du survet avec vos dents, dit-elle d'un ton qui n'admettait ni remarque ni contestation. Je mordis dans le morceau d'étoffe et [MASK] tira ses jambes vers le sol pour ôter son vêtement que je laissai ensuite tomber par terre.
+
+['monsieur', 'dit-il', 'capitaine', 'vous', 'dis-je']	Théo	- Franchement, [MASK], en avertissant les flics vous n'avez pas l'impression que nous faisons une grande connerie ? - Vous vous dégonflez? - Non, je réfléchis à ce qui me sera le moins préjudiciable. Ça vous ennuie si je m'arrête à la prochaine station-service ?
+
+['vous', 'madame', 'monsieur', 'ah', 'hein']	Theo	- Vous ne comprenez donc rien, [MASK]! Ces travaux constituent le couronnement de toute ma vie de scientifique. Encore une fois, si je n'avais pas réalisé ces recherches, d'autres que moi les auraient mises en place.
+
+['dit-il', 'dis-je', '-', 'tout', 'ajouta-t-il']	Vittorio	Y a pas à dire, côté bouffe le pudding est ce que les Anglais savent faire de mieux. - Avec le stilton... - Foutaises ! cria [MASK] en revenant dans la salle. Rien ne vaut un bon panettone fourré de crème glacée et arrosé de sauce au mascarpone !
+
+['alain', 'cela', 'ça', 'olivier', 'tout']	Barbara	Je sonnai plusieurs fois mais toujours sans réponse. J'étais apparemment le seul à être venu si tôt. C'est du moins ce que je me disais lorsqu'un klaxon me tira de ma mélancolie. Je me retournai et vis [MASK] au volant d'un coupé Mercedes Roadster des années 70.
+
+['lui', 'elle', 'eux', 'elles', 'toi']	Barbara	A cet instant, ni nos mensonges ni nos trahisons n'avaient plus la moindre importance. Seule demeurait la promiscuité de ceux qui s'estiment et qui ont failli mourir côte à côte. J'étais resté un long moment à parler avec [MASK].
+
+['-', 'mais', 'm', 'à', 'mr']	Barbara	- Cet appartement n'appartient pas à ton oncle, [MASK]. Tu en as fait l'acquisition il y a trois ans pour 2 millions de dollars. Ne dis pas non : j'ai vérifié sur la copie du contrat de vente que tu gardes sur le disque dur de ton ordinateur.
+
+['elle', ',', 'qui', 'et', 'mais']	Barbara	[MASK] ne tenait pas en place et déambulait dans tous les sens, en touchant tout ce qui lui tombait sous la main, comme si elle faisait son marché. Des cierges étaient restés allumés et diffusaient une lumière paisible dans ce lieu sacré.
+
+['microsoft', 'google', 'siemens', 'ge', 'facebook']	MicroGlobal	Personne ne pouvait réellement contester que [MASK] était en position de monopole sur les secteurs importants des technologies de l'information et de la communication. Un monopole si puissant qu'il pouvait même, au yeux de certains, représenter un danger pour la démocratie.
+
+["j'", 'j', 'julien', 'lui', "s'"]	Gemereck	Pendant que [MASK] effectuait ces opérations, je m'étais installé sur un ordinateur voisin pour en explorer le contenu. Comme les machines avaient été branchées en réseau, je n'avais pas besoin de mot de passe pour naviguer dans le disque dur en toute liberté.
+
+['il', 'on', 'elle', 'chacun', 'qui']	Maumy	- Ça n'a pas été une décision soudaine, répondit-il d'une voix ferme. - Qu'est-ce que vous voulez dire? - [MASK] avait déjà pris la décision de se rendre avant de venir ici. - Mon cul !
+
+['il', '</s>', 'on', "c'", ',']	Anderson	[MASK] est plus utile à la société en faisant de la politique qu'en berçant une chiée de marmots. - Je voulais l'épouser, me défendis-je. - Vous saviez très bien qu'elle était déjà mariée depuis longtemps... - ... au sénateur March!
+
+['elle', 'il', 'puis', 'et', 'qui']	Barbara	Après avoir refermé la porte, [MASK] redescendit l'escalier à toute vitesse, ramassa les clés des menottes et s'apprêtait à nous détacher lorsque de l'agitation se fit entendre au rez-de-chaussée. Sans paniquer elle se cacha derrière un casier à bouteilles et chacun retint son souffle.
+
+[',', 'maman', 'geneviève', 'madame', 'marie']	Barbara	. Je passai la blouse en vitesse, sans oublier de prendre sur le siège arrière la mallette que nous avait préparée [MASK] et qui contenait diverses armes et objets dont elle pensait, non sans raison, qu'ils pourraient nous être utiles.
+
+['qui', 'un', 'le', ',', 'en']	Magnus	[MASK], effaré, n'eut même pas le temps de prononcer une parole. Le tueur lança violemment ce qui restait du chat sur une des parois du mur lambrissé puis, essuyant avec calme une tache de sang sur la manche de sa veste, répéta sa question distinctement :
+
+['rabelais', 'napoléon', 'dieu', 'jésus', 'jacques']	Magnus	J'avais mis quelques bûches dans la cheminée et, pour le plaisir de tous, un beau feu pétilla devant nos yeux pendant la plus grande partie de la nuit. Comme à l'époque héroïque, nous écoutâmes [MASK] philosopher avec brio sur le miracle du vin.
+
+['moi', 'rien', 'toi', 'qui', 'quoi']	Steiner	Elle avait repris ce ton militant qu'elle avait parfois ce qui faisait merveille dans les meetings électoraux. - Et [MASK] dans tout ça? - Il avait le pouvoir économique et scientifique, mais j'allais peut-être avoir le pouvoir politique et il avait besoin de moi.
+
+['feu', 'fusil', 'marteau', 'couteau', 'fouet']	Maumy	Elle ne put retenir un petit cri en voyant l'image que reflétait la glace : les deux coups de [MASK] avaient marqué son beau visage de plusieurs hématomes dignes de ceux qu'exhibent parfois les boxeurs après plusieurs rounds d'un combat acharné, Ses yeux s'embuèrent mais cela ne dura pas.
+
+['moi', 'celle-ci', 'cela', 'geneviève', 'hélène']	Maumy	Il avait même demandé le prénom du chien. Lorsque je pénétrai dans l'appartement, la crainte continuait à m'habiter. Dès que mes amis avaient été rassurés sur l'état de ma santé, ils avaient transporté [MASK] dans l'une des chambres de l'appartement.
+
+['sarah', 'dean', 'rebecca', 'lisa', 'catherine']	Melanie	J'éteignis ensuite toutes les lumières et, entouré par l'obscurité de la pièce, je restai longuement assis devant l'écran de l'ordinateur à regarder le sourire de [MASK] pendant que des larmes silencieuses roulaient sur mon visage.
+
+['foi', 'dimanche', 'thérèse', 'pénitence', 'marie']	Magnus	Je prenais de nouveau plaisir à respirer l'air du matin, mais la confession de [MASK] m'avait convaincu d'une chose : si nous voulions nous tirer sans dommage de cette histoire, il faudrait que chacun d'entre nous soit au maximum de ses capacités intellectuelles, physiques et, surtout, morales.
+
+['celui-ci', 'harry', 't-il', 'holmes', 'elle']	Magnus	Le silence n'était troublé que par le ronronnement de plusieurs ordinateurs disposés en cercle sur des tables de porcelaine laiteuse et par le bruit de la pluie qui tombait sur le toit. - Vous êtes ici au cœur du dispositif, prévint [MASK] en s'installant devant un appareil.
+
+['</s>', 'il', 'ou', 'cela', 'elle']	Barbara	Que pouvait attendre de nous l'auteur du vol du tableau et de l'enlèvement ? Sur quel registre se situait son acte ? Nous en voulait-il personnellement ou, au contraire, nous mettait-il au défi de l'arrêter dans sa course? [MASK] interrompit mes pensées :
+
+['nouveau', 'paris', 'londres', 'vincennes', 'moi']	Barbara	Je fis quelques mouvements pour décontracter mes jambes et c'est là que je sentis, dans ma poche, l'arme confisquée à [MASK] le matin même. - Merde, j'ai votre flingue dans ma poche. - Vous ne pouviez pas vous en rendre compte plus tôt !
+
+['harry', 't-il', 'charlie', '-t-il', 'joe']	Magnus	- Ouais, grogna [MASK] en levant un sourcil. Les Américains dépensent déjà des fortunes en chirurgie esthétique et en drogues de synthèse pour soigner leurs angoisses. Pas étonnant qu'ils se disent prêts à adopter les thérapies géniques pour donner naissance à des enfants parfaits.
+
+['et', 'il', ',', 'elle', 'puis']	Barbara	[MASK] reprit ses esprits. - Eh bien, pour des gens qui voulaient à tout prix éviter la police, c'est raté ! laissa-t-elle tomber avec fatalisme. Trois heures plus tard, un taxi nous ramenait devant l'appartement du prêtre.
+
+['je', 'tout', 'elle', 'me', 'jésus']	Barbara	La lourde porte de l'église s'ouvrit doucement et [MASK] réapparut. Elle s'était ostensiblement emmitouflée dans une couverture qui cachait ses jambes et me lança un regard noir avant de se diriger vers les marches de l'autel s ur lesquelles elle avait posé sa petite mallette contenant son ordinateur et son téléphone cellulaire.
+
+['mieux', 'tout', 'que', 'bien', 'mrs']	Barbara	Une fois les quatre verres remplis et alors que nous allions enfin pouvoir goûter le breuvage, il réclama encore une fois notre patience : - Deuxième étape : la stimulation visuelle. Admirez la couleur et le chatoiement chromatique des robes. - Rouge foncé, jugea [MASK].
+
+['</s>', 'mé', 'é', '...', '.']	Barbara	[MASK] récupéra aussitôt le petit bout d'organe et le mit dans de lu glace pour le transporter à l'hôpital. Mais nous avions un sacré problème ! Comment nous présenter là-bas avec deux blessés dont l'un avait manifestement été tabassé?
+
+['-', '"', 'et', 'mais', 'il']	Maumy	- Il va revenir, n'est-ce pas ? me demanda-t-elle au bout d'un moment, sans lever les yeux. - Qui ça? - [MASK]. Il va revenir pour nous massacrer. Comme il le fait à chaque fois que quelqu'un lui échappe.
+
+['lui', 'eux', 'elle', 'vous', 'lui']	Melanie	Je traînai ensuite quelque temps dans les salles consacrées à l'art japonais en essayant de ravaler ma colère et de mettre mes idées en ordre. Que fallait-il faire maintenant? Devais-je essayer d'entrer en contact avec [MASK] - mais de quelle façon ?
+
+['ruby', ',', 'ashley', 'sexuellement', '...']	Melanie	Puis, quelques mois plus tard, il m'a offert 2 millions de dollars pour draguer [MASK], devenir sa maîtresse et ramener une vidéo explicite. Je n'avais pas vraiment le choix. Sa voix chancela, elle s'interrompit et se remit à pleurer.
+
+['il', 'cela', 'ce', 'ça', 'celui-ci']	Magnus	Vous avez collaboré avec cette ordure de Steiner, sous prétexte qu'il finançait vos recherches, alors que vous saviez très bien quelle utilisation il comptait faire du clonage et de la thérapie génique. Comme à chaque fois que j'abordais ce sujet, [MASK] ne fut pas long à s'échauffer.
+
+['monsieur', 'moi', 'quoi', 'madame', '...']	Theo	- Et pour vous, [MASK]? me demanda-t-elle d'un air qu'elle aurait voulu détaché. - Je ne suis pas vraiment d'accord, dis-je en me lavant les mains dans la petite fontaine entourée de trois anges assez finement sculptés.
+
+['il', 'on', 'nous', 'elle', 'je']	Magnus	La fin de la soirée se déroula dans la cuisine autour d'une bouteille de San Pellegrino (nous avions bu trop d'alcool ces deux derniers soirs...). Après avoir fait griller quelques tranches de pain, [MASK] descendit à la cave en nous promettant de revenir avec une surprise non alcoolisée.
+
+['il', 'elle', 'et', 'on', 'je']	Barbara	Nous l'accueillîmes avec un plaisir non dissimulé et nous nous précipitâmes sur ces revigorants breuvages. Tout en accommodant son thé de quelques gouttes de jus de citron et d'une demi-sucrette, [MASK] continuait à siffloter sa chanson avec un plaisir évident.
+
+['qui', '"', 'mrs', 'cela', 'il']	Magnus	mais pour se protéger la direction délègue la surveillance et les postes de chef d'atelier à des indigènes : de cette façon, si quelque chose tourne mal, elle peut se retourner contre eux alors qu'en réalité c'est elle qui tire les ficelles. - Quel était votre job ? demanda [MASK].
+
+["c'", 'jésus', 'ceci', 'celui-ci', 'cela']	Vittorio	Bien qu'il nous en ait dit le moins possible, j'avais vaguement compris que [MASK] était ce que l'on appelle un prêtre « affilié » : sans être un membre à part entière de la congrégation, il appartenait néanmoins à certains réseaux qui gravitaient autour d'elle.
+
+['pierre', 'vénus', 'jésus', 'marie', 'celui-ci']	Barbara	De nouveau seul, je regardai pendant un moment la mer qui brillait sous un ciel dégagé et je persistai à trouver cette nuit magnifique, bien que je n'eusse personne avec qui la partager. C'est alors que je vis la silhouette de [MASK] se détacher sur les rochers.
+
+['moi', 'lui', 'vous', 'ami', 'toi']	Barbara	Je me dis alors que, même au moment de rendre l'âme, il serait doux, pour un homme, de finir sa vie attaché à quelqu'un comme [MASK]. - Il me semble que vous avez du bide, dit-elle de façon intempestive pour détendre l'atmosphère
+
+['jean', 'celle-ci', 'lucien', 'celui-ci', 'maurice']	Magnus	A l'inverse de la jeune femme, les propos de [MASK] m'avaient intéressé. - Mais où voulez-vous en venir au juste, professeur? - A la conclusion que chacun de nous représente un de ces quatre piliers.
+
+['moi', 'dit-il', 'dit-elle', 'non', 'croyez-moi']	Theo	j'ai paniqué. - Vous avez été lâche, voilà ce que vous avez été. Rien ne vous obligeait vraiment à faire ça ! m'exclamai-je. Le prêtre se défendit comme il pouvait : - L'Eglise est toute ma vie, [MASK], je ne regrette rien.
+
+["l'", 'le', 'son', 'un', 'sa']	Seth	Apparemment, l'homme au catogan était le seul à être descendu de voiture et il fallut attendre encore quelques secondes pour voir débarquer [MASK], alerté par les détonations. Malheureusement pour lui, il n'imagina pas que ces coups de feu aient pu être tirés par l'un de nous.
+
+['il', 'et', 'père', 'je', 'elle']	Gemereck	[MASK] me fit répondre qu'il ne pouvait pas lui parler maintenant car nous avions du travail. J'étais un peu gêné d'annoncer cela à la jeune fille, mais elle semblait être habituée à voir son père absorbé dans toutes sortes de tâches. - Papa va bien au moins ?
+
+['famille', 'la', 'mon', 'ma', 'campagne']	Boston	- Vous bluffez ! répétai-je en hurlant de douleur. - Je peux te décrire la petite maison de [MASK], au 223 Benton Street, ton ancienne chambre d'étudiant qu'elle a laissée en l'état, le poster des Red Sox1 au-dessus de ton 1.
+
+['tous', 'certains', 'chacun', 'monsieur', 'famille']	Barbara	- Rassurez-vous, nous continuons à cogiter de notre côté sur les deux autres énigmes, lui avons-nous lancé en quittant la pièce. Malgré les protestations de [MASK], je m'installai moi-même au volant du coupé Mercedes.
+
+['monsieur', 'dis-je', 'messieurs', 'moi', 'dit-il']	Magnus	Et vous, [MASK], vous me mentez lorsque vous prétendez ne pas en savoir plus sur l'histoire qui nous préoccupe. - Ce ne sont que des mots, mon jeune ami, rien que des supputations d'avocat. C'est ma parole contre vos insinuations.
+
+['coucher', 'maître', 'maîtres', 'hôtes', 'enfants']	Barbara	Le ciel était clair et aussi bleu que la mer lorsque j'ouvris ma fenêtre, tôt, le lendemain matin. Un léger vent d'ouest, souvent présent près des côtes, rafraîchissait et purifiait l'atmosphère. Je me douchai rapidement et frappai à la porte de la chambre de [MASK].
+
+['non', 'monsieur', 'plus', 'madame', 'folle']	Theo	- Je ne suis pas folle, [MASK], répondit-elle, comme peinée par ma dernière réflexion. J'aurais moi-même passé un coup de fil anonyme au dernier moment si vous ne l'aviez pas fait. Un étrange silence s'installa dans la pièce.
+
+['le', 'la', 'les', '(', 'ça']	Melanie	- Vous avez revu [MASK]? - Une seule fois, en 1977, juste après mon debriefing. Elle a refusé de poursuivre notre relation et m'a demandé de continuer à élever seul notre enfant, car elle était accaparée par ses études. Il laissa passer un silence puis ajouta :
+
+['</s>', '-', 'il', '--', '_']	Paolo	Il faut donc faire venir cette eau par camion-citerne. [MASK] a profité de l'arrêt d'un des trucks sur une aire d'autoroute pour verser un petit flacon de poison dans son réservoir. - Mais ces camions sont étroitement surveillés, même sur les aires de repos.
+
+['un', 'enfin', 'mais', 'oui', 'euh']	Magnus	Voilà un souvenir, [MASK]... un des meilleurs. Je me levai et fis quelques pas dans la pièce en respirant bien à fond pour dissiper l'émotion qui montait dans ma poitrine et me glaçait le sang. A ce moment, il m'en coûtait de continuer.
+
+['</s>', '...', '"', '-', ':']	Skidamarink	-03 12-04 03-01 29-02 15-06 12-05 18-03 09-07 [MASK] - Qu'est-ce que c'est encore que ce charabia? grognai-je devant cette espèce de cryptogramme qui allait visiblement compliquer encore un peu plus nos affaires.
+
+['la', 'elle', ')', 'jeanne', 't-elle']	Barbara	c'est difficile d'attaquer la citadelle si vous êtes sans alliés. - Dans ce cas, pourquoi être entré dans la bataille? lâcha [MASK], arrivée la première en haut des marches. Il ne faut mener que les combats que l'on est sûr de gagner.
+
+['se', 'le', "s'", 'ce', 'clemenceau']	Gemereck	C'est donc avec soulagement que nous entendîmes [MASK] lever la séance : - Nous avons travaillé de façon acceptable, dit-il, mais nous ne sommes pas au bout de nos peines, d'autres énigmes nous attendent. Pour les résoudre, nous devons reconstituer nos réserves physiques et intellectuelles.
+
+['monsieur', 'madame', 'docteur', 'vous', 'moi']	Barbara	- Je tiens le coup, répondis-je en serrant les dents car une intense douleur me tordait le ventre. - Et vous, [MASK]? - Ça va, mais je ne peux croire que nous allons mourir dans des conditions pareilles.
+
+['yumi', 'madame', 'lisa', 'sarah', 'celle-ci']	Barbara	Dans le salon, j'allumai l'ordinateur portable de [MASK] mais fus immédiatement bloqué par un mot de passe. Je ne pris même pas la peine d'en essayer quelques-uns : c'était une femme trop méfiante pour choisir comme code sa date de naissance ou son numéro de téléphone.
+
+['face', '"', 'moi', 'à', 'toi']	Barbara	Je restai seul, face à [MASK]. - Qu'est-ce qui t'a pris ? Tu es devenu fou ? Elle m'entraîna avec elle dans la salle de bains pour me mettre un pansement et du Mercurochrome. - Ça va?
+
+['il', ',', 'et', 'elle', 'es']	Melanie	[MASK] caressa ma joue pour sentir les poils drus de ma barbe naissante comme elle avait parfois l'habitude de le faire lorsque nous étions amoureux. Elle m'adressa un sourire en retrouvant ce geste ancien puis posa la tête sur mon épaule.
+
+['londres', 'septembre', 'paris', 'novembre', 'boston']	Maumy	L'attaque de [MASK] avait encore renforcé ce sentiment et, depuis que j'avais failli passer de vie à trépas, je retrouvais cette faculté de m'étonner de façon presque béate devant la chance que représentait le simple fait d'être en vie.
+
+['elle', 'je', 'il', 'yumi', 'kim']	Barbara	Tout en m'invitant à nager, [MASK] rajusta son bonnet de bain bleu ciel qui lui donnait l'air d'une adolescente espiègle. - Je voulais perdre quelques kilos avant de profiter de la piscine, mais tant pis, dit-elle en haussant les épaules, avant d'effectuer un plongeon gracieux.
+
+['toi', 'sarah', 'maman', 'sara', 'sally']	Melanie	- Pourquoi t'es-tu enfuie, [MASK]? lui demandai-je alors qu'elle semblait tout entière absorbée par la contemplation de la surface de l'eau. - Parce qu'il fallait un acte fort pour symboliser le quatrième pilier et parce que je suis épuisée.
+
+['il', 'et', ',', 'elle', 'qui']	Magnus	[MASK] en fit autant mais s'installa dans l'autre rangée. Nous étions vraiment les seuls dans l'église et je me demandais quelle était l'utilité de célébrer une messe à 4 heures de l'après-midi, par une telle chaleur et pour seulement deux touristes qui ne comprenaient sûrement pas un mot d'italien.
+
+['</s>', 'il', 'on', 'elle', 'celui-ci']	Vittorio	Et grâce au clonage et à la thérapie des gènes, on pourra bientôt créer des bébés sur mesure, en modifiant génétiquement les embryons humains. [MASK] fronça les sourcils. - Je croyais pourtant que le clonage consistait à reproduire des cellules identiques à partir d'une cellule unique.
+
+['on', 'il', 'elle', 'dieu', 'nous']	Magnus	La seule chose que nous n'avions pas prévue était que cette quête de la vérité nous fasse remonter si loin, du côté des déchirures mal cicatrisées qui structuraient nos vies. A défaut de tableau noir, [MASK] avait punaisé au mur une grande feuille de carton gris pour nous aider à réfléchir.
+
+['sol', 'nourriture', 'stockage', 'cuisine', 'frigo']	Barbara	Puis elle referma la porte. Je descendis les escaliers quatre à quatre et déboulai dans la cuisine où je fis du café, pressai quelques oranges et emplis deux gros bols de céréales. Dans le frigo, je trouvai les réserves de [MASK] en aliments biologiques.
+
+['harry', 'robert', 'jack', 'elle', 'john']	Magnus	Comment a-t-elle pu vous cacher qu'elle rencontrait sa mère en secret? - Je ne sais pas, répondit [MASK] avec une once de culpabilité dans la voix. C'est vrai que j'ai toujours été très pris par mon travail, mais je me suis toujours occupé de ma fille.
+
+['et', ',', 'tout', '"', '(']	Magnus	- Vous m'avez oubliée, [MASK] ! - Vous, la golden girl au portable, j'avoue que je ne vois pas. Vous représentez la sphère de l'économie, c'est entendu, mais je ne sais pas quelle action positive mérite de vous être imputée
+
+['</s>', 'il', '-', 'elle', 'chacun']	Barbara	- Troisième et dernière étape avant dégustation : la stimulation olfactive et la recherche des arômes. [MASK] se prêta volontiers au jeu et respira son verre pendant une demi-minute : - Ça sent bon le vin. - Précisez votre pensée, exigea le professeur. - Les épices ?
+
+["j'", 'maman', 'julien', 'dieu', 'jacques']	Rose	Nous n'attendons plus que vous et il y a du nouveau. Intrigué par son ton mystérieux, je montai les marches de l'escalier quatre à quatre et posai précipitamment mes affaires dans le placard d'une vaste chambre aux rideaux blanc cassé que [MASK] avait préparée à mon intention.
+
+['monsieur', 'madame', 'dit-elle', 'mademoiselle', 'dit-il']	Theo	Lorsque ses jambes retombèrent, la peau douce d'un de ses mollets effleura furtivement ma joue. Mais cet instant de grâce ne dura pas : sans perdre de temps elle pointa son arme vers les menottes qui la retenaient enchaînée. - Faites attention, [MASK].
+

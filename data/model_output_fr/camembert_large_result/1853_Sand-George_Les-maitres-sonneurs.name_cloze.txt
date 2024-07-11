@@ -1,0 +1,200 @@
+['Elle', 'Il', 'elle', 'Marie', 'Anna']	Thérence	[MASK] fit semblant de ne pas l’entendre, jusqu’à ce qu’il vînt à elle.– Eh bien, qu’est-ce qu’il y a ? dit-elle, comme étonnée ; dépêche-toi de le dire, ou je m’en vas ;
+
+['Il', 'Elle', 'Lui', 'il', 'lui']	Joseph	[MASK], dit-elle, est très souvent dans l’état où j’ai vu quelquefois mon père, c’est-à-dire que le plaisir de musiquer est si grand pour eux, que rien ne compte auprès de celui-là ;
+
+['madame', 'Mademoiselle', 'Madame', 'dame', 'fille']	Brulette	; mais je l’en empêchai vitement, lui remontrant qu’il y avait là-dessous quelque mauvais secret, si bien qu’elle commença aussi d’être épeurée et de regretter d’être venue là.– N’ayez crainte, [MASK], que je lui dis ;
+
+['allons', 'voyons', 'Allons', 'va', 'allez']	François	Vous avez raison, père Nicolas, fit-il ; et, d’une voix élevée : Allons, [MASK], dit-il au fils Carnat, pourquoi bouder les amis ? Tu n’as pas si bien joué que tu es en état de le faire, j’en suis certain
+
+['Joseph', 'David', 'Jean', 'le', 'Marie']	Thérence	; elles sont de trop ici.Et en disant cela, il était pâle, mais il ne reculait point devant le danger que son fils pouvait courir.– Qu’elles se retirent si elles veulent, dit [MASK], qui était aussi pâle, mais aussi ferme que lui ;
+
+['elle', 'toi', 'Marie', 'cela', 'lui']	Brulette	– Pas même toi ?Je racontai en trois mots ce que je savais, ce que je croyais, et je finis en disant :– Rien ne peut me servir de preuve pour ou contre [MASK] ; mais, j’ai beau faire, je ne peux pas la soupçonner.–
+
+['Dieu', 'lui', 'maman', 'Joseph', 'Marie']	Brulette	j’ai cru y être obligé, et voilà ce que c’est ; je vous le dois pareillement. » Là-dessus, il me raconta avoir reçu une lettre de son pays, où on lui apprenait que [MASK] élevait un enfant qui ne pouvait être que le sien
+
+['Madame', 'Marie', 'madame', 'Catherine', 'Jeanne']	Brulette	Il me jugeait donc lâche et me faisait injure, car s’il se fût ouvert à moi, c’est moi qui aurais été chercher [MASK], sans sourciller, et sans tomber dans le tort de prendre une mauvaise opinion d’elle, comme cela m’est arrivé, dont je me confesse et lui demande pardon.–
+
+['?', '[...]', '...', 'les', 'mes']	Brulette	Il y a longtemps que ce Malzac déshonorait le corps des muletiers, et s’il fût mort, personne ne l’eût pleuré. Faut-il que nous soyons tristes et tourmentés pour quelques bons coups que mon fils Huriel lui a portés en franche bataille ? Pourquoi pleurez-vous, [MASK]
+
+['ça', 'cela', 'lui', 'elle', 'vous']	Thérence	Elle n’était pas bâtie comme [MASK], pour dire comme cela un beau oui tout de suite et devant tout le monde ; si bien que, ne sachant comment en sortir, elle s’en prit à ses yeux et pleura.– Vous êtes un véritable imbriaqueInsensé.
+
+['Il', 'il', 'II', 'Louis', 'Monsieur']	Joseph	[MASK] n’a jamais été querelleux à ma connaissance, et je l’ai toujours vu se taire quand on lui montrait les dents.– Oui, oui, répondit le père Bastien, tu as vu cela dans le temps qu’il n’était qu’un enfant maladif et défiant de sa force
+
+['je', 'chacun', 'Louis', 'Jeanne', 'Marie']	Joset	Quant à moi, je vous l’ai dit, puisque [MASK] quitte sa mère et ses amis pour longtemps, j’ai de la peine et ne veux plus me divertir ; et tant qu’à vous, vous vous mettez en danger d’une bataille, si d’autres cornemuseux du pays viennent à passer.–
+
+['moi', 'elle', 'lui', 'vous', 'nous']	Brulette	mais ce qu’on appelle l’amour, ce que, par exemple, mon frère sent pour [MASK], l’envie de plaire, et un je ne sais quoi qui fait qu’on s’ennuie seul et qu’on ne peut penser sans souffrance à ce qu’on aime...
+
+['il', 'Il', 'on', 'elle', 'Alexandre']	Huriel	Il me sembla qu’[MASK] faisait en toute occasion sonner un peu ses écus, comme pour dire : « Je suis un bon parti. » Cependant il agit tout aussitôt comme un homme qui se met de côté, car il nous annonça qu’il allait nous quitter.
+
+['Moi', 'Lui', 'Vous', 'moi', 'Dieu']	Joseph	– Est-ce donc qu’il est mort ?– Qui ? [MASK] ? répondit-il ; non, Dieu merci ! Mais vous savez donc qu’il est encore malade ?– Est-il en danger ?– Oui et non.
+
+['Dieu', 'Socrate', 'David', 'maître', 'Joseph']	Huriel	Aussi priai-je [MASK] de m’en faire à part la démonstration et de me laisser le bien observer dans la pratique. Il s’y prêta de son mieux, et j’y portai un si bon vouloir, qu’en peu de jours j’étonnai le maître par mon habileté.
+
+['autrui', 'Jeanne', 'Dieu', 'Satan', 'Pierre']	Joseph	Mais le plus affreux de sa personne était sa figure, qui offrait la véritable ressemblance d’une tête de mort.Je me remis un peu, me disant que c’était un déguisement pris par un de la bande pour éprouver [MASK] ;
+
+['Julie', 'Madame', 'Marie', 'Jeanne', 'madame']	Brulette	Le dépit de [MASK] était passé, car, en causant avec elle auprès du feu de ces Bourbonnais, je lui avais remontré qu’une honnête fille n’est point salie par des propos d’ivrognes, et que nulle femme ne serait nette si ces propos-là comptaient pour quelque chose.
+
+['Charles', 'Paul', 'Pierre', 'Joseph', 'David']	Joseph	Ces lettres-là étaient si simples, si bonnes, et marquaient tant de vérité dans l’amitié, que j’ai dit : « Marchons ! » et les paroles de [MASK] ont passé de mon esprit comme un mauvais rêve. J’en avais honte pour lui ;
+
+['Madame', 'Mme', 'madame', 'Marie', 'Françoise']	Brulette	Joset, répondit [MASK], que ce discours ne contenta qu’à demi, vous vous trompez si vous pensez que j’ai encore des serviteurs. J’ai pu être coquette, c’était mon goût, et je n’ai pas de compte à rendre de moi ;
+
+['il', 'elle', 'maman', 'on', 'Il']	Huriel	Quand nous fûmes assez repus pour une fois, [MASK] me dit de serrer le restant de nos vivres, et ajouta :– Si vous êtes las, mes enfants, vous pouvez faire un somme ici, car nos bêtes ont besoin qu’on laisse passer la grande chaleur du jour.
+
+['il', 'on', 'Il', 'Charles', 'Louis']	Huriel	; mais, au moment qu’il ouvrait la bouche, [MASK] se montra devant nous et parut si surpris et même contrarié de me voir là, que j’en fus embarrassé de mon côté, comme si j’étais pris en faute.
+
+['Madame', 'maman', 'madame', 'Maman', 'Marie']	Brulette	Adieu, contenez vos angoisses, ne dites rien à [MASK], elle y perdrait la tête. Je saurai vitement ce qu’il faut faire. N’ayez point l’air de rien savoir. Je prends tout sur mon dos.
+
+['princesse', 'femme', 'Madame', 'chère', 'fille']	Brulette	Voilà une mauvaise raison, [MASK] ; car tu as été et tu seras encore recherchée par de plus riches que toi, qui t’aiment pour tes beaux yeux et ton joli ramage.– Mes beaux yeux passeront, et mon joli ramage ne me servira de rien quand la beauté s’en ira.
+
+['celle', 'Jeanne', 'Marie', 'Suzanne', 'Madeleine']	Brulette	à quoi que ça peut servir, et qu’est-ce que tu veux signifier par là ?Il ne me fit point réponse, et sembla même qu’il ne m’entendait point. Il regardait [MASK] qui s’était appuyée contre une chaise et qui avait la figure tournée du côté du mur.
+
+['bien', 'vrai', 'possible', 'exact', 'bon']	Huriel	Alors, c’est [MASK] ; mais es-tu libre de suivre ton inclination ?– Comment aurais-je de l’inclination, répondit-elle en rougissant toujours plus, pour quelqu’un qui n’a sans doute jamais songé à moi ?– Ça n’est pas une raison
+
+['Jésus', 'Satan', 'Dieu', 'Socrate', 'Luther']	Joseph	Si le diable veut être bien étrillé, répliqua [MASK], donnez-m’en la permission vitement, et il verra si sa peau est plus dure que la mienne. Quelles sont les armes ?– Aucune autre que les poings
+
+['elle', 'Jeanne', 'Marie', 'Marguerite', 'Alice']	Thérence	Non, non, reprit [MASK] d’un ton sec : c’est votre affaire de le soigner à présent, puisque vous êtes venue pour ça. Je peux, à cette heure, m’en reposer et vous en laisser la charge.–
+
+['ça', 'merci', 'non', 'moi', 'maintenant']	François	Eh bien, ça m’est égal, [MASK] ! Je ne m’attendais point à trouver ici une assemblée de vrais musiciens, capables de me juger, et assez amis du beau savoir pour préférer mon talent à leurs intérêts et à leurs accointances.
+
+['Marie', 'Jeanne', 'Marguerite', 'Catherine', 'Sophie']	Thérence	Nous n’avons point la tête assez forte pour ne point prendre le vertige sur les hauteurs où elle nous mène !– Oh ! mon père, s’écria [MASK], si vous pouviez l’abandonner, Dieu sait dans quels malheurs elle vous jettera aussi !–
+
+['Jésus', 'Dieu', '!', 'Jacques', 'maître']	Huriel	et il ajouta d’un air qui ne sentait point le cagot : Maître [MASK], nous sommes tous pécheurs, et il n’y a qu’un juge qui soit juste. Lui seul, qui n’a jamais fait le mal, est en droit de condamner ou d’absoudre les fautes des hommes.
+
+['Marie', 'Jeanne', 'Jésus', '</s>NOTUSED', 'Thérèse']	Joseph	dit-elle, le bon Dieu nous envoie au moins ce bonheur, que voilà un malade en bon chemin pour guérir. La fièvre est partie et les forces du sang reviennent déjà.– S’il faut que je vous dise ce que j’ai senti, reprit [MASK], ne dites pas que c’est une songerie
+
+['Voltaire', 'Socrate', 'toi', 'Paul', 'lui']	Brulette	Je le voyais toujours pleurant et rechignant, quelque amitié qu’on pût lui faire chez toi, et il est si maladroit à se faire comprendre, qu’il se sera ennuyé en ennuyant les autres.Ces paroles de [MASK] me retournèrent le sang.
+
+['davantage', 'grâce', 'plus', 'miséricorde', 'gloire']	Thérence	Ne me demandez point quelle prière je fis aux bons anges du ciel. Je ne m’entendais pas moi-même. Je n’eusse pas encore osé demander à Dieu de me donner [MASK], mais je crois bien que je le requis de me rendre mieux méritant pour un si grand honneur.
+
+['Charles', 'Henri', 'Jules', 'Monsieur', 'Roland']	Brulette	Alors, répondis-je, je comprends ce qu’il me disait tout à l’heure ; mais où diable a-t-il pris pareille idée ?– Un petit moment ! reprit [MASK] ; ne le fâchons pas injustement ; ne te dépêche pas de dire qu’il est incapable de musiquer
+
+['je', 'Dieu', 'maman', 'Maman', 'Jésus']	Brulette	Et mêmement, j’ai tâché de lui faire entendre ce dont j’étais quasiment certain, c’est que [MASK] lui préférait mon fils.« Il a paru se rendre à mes raisons, mais c’était, je pense, pour s’en débarrasser ;
+
+['Jésus', 'Jean', 'Daniel', 'Dieu', 'David']	Huriel	Le danger n’y était d’aucune façon sans cela, dit [MASK]. Certainement, parmi les muletiers, comme parmi tous les hommes qui vivent d’une manière sauvage, il y a des coquins. Il y en avait un dans cette bande-là ;
+
+['elle', 'Jeanne', 'Marie', 'la', 'Marguerite']	Brulette	À la bonne heure, dit [MASK], je l’aiderai, et, au premier mot de commandement qu’elle me voudra dire, je lui obéirai si bien qu’elle me pardonnera de lui avoir fait peur.Et tandis qu’elles s’en allaient ensemble, le grand bûcheux me dit
+
+['Sophie', 'Alice', 'Julie', 'Marie', 'Madame']	Thérence	Tout ce que je veux dire, c’est qu’à mon idée, il n’y a rien de si beau et de si sain à voir qu’une jeune fille prenant son plaisir dans la causette d’un petit enfant.– Est-ce que ça n’est pas naturel ? dit [MASK].
+
+['non', 'monsieur', 'Monsieur', 'moi', 'voyons']	Tiennet	mais après deux ou trois mots de badinage, elle répondit à mes reproches :– Non, [MASK], je ne te ferai pas un tort d’avoir eu des yeux pour une jolie fille, quand la chose est innocente et naturelle comme tu me la racontes ;
+
+['elle', 'Madame', 'Voltaire', 'il', 'Molière']	Brulette	En effet, dit [MASK], vous me paraissez plus gaie, mieux portante, et si fort embellie qu’on a les yeux éblouis de vous regarder.C’était là une remarque qui m’avait brûlé la vue dès le premier moment.
+
+['ça', 'elle', 'cela', 'moi', 'vous']	Brulette	« Une fille comme [MASK], pensai-je. Par bonheur, elle n’est point ici, car elle qui méprise tous ceux qu’elle connaît, se pourrait bien coiffer de ce barbouillé, ne fût-ce que par caprice. »Le muletier continua.–
+
+['»', '[...]', '...', '<unk>', '(...)']	Thérence	Ou bien je quitterai les bois, et mon père, et ma famille, et je m’en irai mourir seule en quelque désert !Elle parlait comme dans la fièvre, avec l’œil si sombre et la figure si pâle qu’elle me fit peur.– [MASK]
+
+['Marie', 'Julie', 'Catherine', 'Sophie', 'Charlotte']	Thérence	Je ne me le pardonnerai jamais, et, s’il lui arrive malheur d’une manière ou de l’autre, votre père et vous, qui avez été si bons pour moi, ne pourrez non plus me faire grâce.– Ne vous tourmentez pas de cela, répondit [MASK].
+
+['tout', 'il', 'ça', 'monsieur', 'papa']	Joseph	:– Il n’y a personne, c’est bon signe ; [MASK] va bien ; il aura accompagné mon père au travail. Attendez-moi encore ; reposez-vous dans notre cabane, qui est la première ici devant vous ; j’irai voir où est notre malade.–
+
+['Alice', 'maman', 'Madame', 'Maman', 'Sophie']	Thérence	? Il a dit tout ce qu’il pouvait et voulait dire, et, content de m’avoir tiré les larmes des yeux avec ses inventions, il s’en va plus tranquille.– Vous ne l’avez pas pu garder à déjeuner, pas moins ! dit [MASK] en souriant.–
+
+['Madame', 'Voltaire', 'Julie', 'Marie', 'Jésus']	Huriel	En quoi ma fille peut-elle guérir cet enfant dont nous parlons ?– Si j’ai parlé de moi avant de parler de lui, répondit [MASK], c’est que j’avais à en dire des choses délicates et que vous n’auriez point souffertes du premier venu.
+
+['cela', 'ceci', 'ça', 'ainsi', 'tout']	Charlot	Mais, tout d’un coup, ayant observé [MASK], il s’arrêta, regarda d’un autre côté, s’efforça pour dire deux ou trois mots qui n’avaient point rapport à lui, s’assit sur le lit de sa sœur et devint si pâle que je crus qu’il s’en allait en pâmoison.–
+
+['Elle', 'Marie', 'Madame', 'Mais', 'Maman']	Brulette	[MASK], qui connaissait sa lubie et qui ne voulait pas s’expliquer là-dessus, l’appelait quelquefois sans qu’il lui répondît. Alors elle se mettait à chanter, et c’était la manière certaine de le réveiller, comme quand on siffle pour dérouter ceux qui ronflent.
+
+['Marie', 'Jeanne', 'Louise', 'Madeleine', 'Berthe']	Brulette	Oui, ma fille, il faut que tu t’y soumettes comme un enfant courageux et raisonnable qui a donné aujourd’hui son âme au bon Dieu.– Comment, mon papa, dit [MASK] à son grand-père, vous êtes consentant de la laisser partir ? qui est-ce qui aura donc soin de vous
+
+['moi', 'péché', 'Dieu', 'trop', 'tout']	Charlot	car, si elle était fautive de [MASK], j’étais tout prêt à lui en remettre le péché, et si, au contraire, elle prenait le fardeau du péché d’une autre, j’avais envie de lui baiser le bout des pieds, comme à la plus douce et patiente gagneuse de paradis.
+
+['Il', 'Monsieur', 'Charles', 'Pierre', 'Paul']	Joseph	mais, à tout le moins, vous êtes forcée de souffrir que je me souvienne de vous, et que j’estime ce gage de dix sous vaillant à mon oreille, plus qu’aucune autre chose que j’aie jamais convoitée. [MASK] est mon ami, et je sais qu’il vous aime
+
+['lui', 'moi', 'toi', 'nous', 'vous']	Carnat	– Je ne sais pas ! mais, pour sûr, il y en a qui font mieux que ce cornemuseux-là, et mieux que [MASK], son maître. Il y en a qui sont dans la vérité de la chose.– Où les as-tu trouvés ?
+
+['il', 'lui', '</s>NOTUSED', 'Jean', 'Pierre']	Joset	moi, j’irai jusqu’au bout, et me ferai raison par justice ou par force.Comme je disais cela, m’étant arrêté avec les bêtes pour lui répondre, nous entendîmes japper au loin, et [MASK], prenant vivement la corde qui me servait à mener le cheval, me dit
+
+['Dieu', 'Jésus', 'Pierre', 'Alexandre', 'Joseph']	Huriel	Je voyais [MASK] devant moi, tout brillant de lumière, et me reprochant ma maladie comme une lâcheté de mon esprit. Il avait l’air de me dire : « Je suis un homme, et tu n’es qu’un enfant ;
+
+['elle', 'on', 'Marie', 'il', 'Anna']	Brulette	Je n’y comprenais plus rien, et j’allais questionner encore, quand [MASK] me redemanda ses chaussures où elle fourra lestement ses pieds, bien que les sabots fussent si petits que je n’avais pas pu y fourrer ma main.
+
+['Napoléon', 'lui', 'Dieu', 'Jupiter', 'Bonaparte']	Joseph	?– Eh quoi, dis-je, est-ce que [MASK], qui n’a passé que vingt-quatre heures avec nous, n’est pas retourné auprès de vous autres, pour, à tout le moins, vous dire ses desseins et faire ses adieux ?
+
+['David', 'Alexandre', 'Roland', 'Thomas', 'Guillaume']	Léonard	Il ne s’agit pas de ça, reprit [MASK] ; nous ne serions que nous six, et ils seraient vingt contre nous, que nous irions encore sans les compter ; mais il y a autre chose qui nous plaît moins que la bataille.
+
+['Elle', 'elle', 'Marie', 'Il', 'Madeleine']	Brulette	[MASK] l’écoutait beaucoup et paraissait s’accoutumer à sa figure de charbonnier ; mais quand on parla du chemin à faire et de la manière de voyager, elle s’inquiéta pour son grand-père de la fatigue et du dérangement ;
+
+['alors', 'toute', 'ainsi', 'tout', 'très']	Brulette	dit [MASK] offensée, et pensant qu’il eût perdu l’esprit : Où avez-vous pris le droit de me blâmer, et comment vous passe-t-il par la tête de chercher à voir quelque chose de mal ou de ridicule entre mon cousin et moi ?
+
+['vous', 'Dieu', 'moi', 'elle', 'Vous']	Charlot	et, dans un an, si je ne suis pas maîtresse de vous prouver que je n’ai pas à rougir de mes soins pour [MASK], du moins je vous aurai donné, par toutes mes actions, la preuve que je suis raisonnable dans mes esprits autant que saine dans ma conscience.
+
+['Jésus', 'Marie', 'David', 'Jeanne', 'Catherine']	Huriel	mais votre conscience est-elle en meilleur état, et pensez-vous n’avoir pas besoin de l’absolution, qui est pour l’âme ce que le baume est pour le corps ?– J’en aurais grand besoin, mon père, dit [MASK] ; mais vous auriez tort de me la donner
+
+['Marie', 'Jeanne', 'Marguerite', 'Catherine', 'Julie']	Brulette	– Je ne suis la fiancée de personne, répondit [MASK] en se redressant.– Et pourtant, reprit le muletier, voilà un gage qu’on m’a dit de vous montrer, dans le cas où vous douteriez que je suis chargé d’emporter la musette.– Où donc ? quel gage ?
+
+['toi', 'nous', 'vrai', 'cela', 'compte']	Brulette	Tu en tiens aussi pour [MASK], et il faudra que, sur trois prétendants que nous sommes, deux soient justes et raisonnables quand le troisième sera préféré. Encore ne savons-nous point si nous ne serons pas pillés par un quatrième.
+
+['avec', 'de', 'sur', 'contre', 'du']	Huriel	Et, de ce moment, le plus gros danger fut passé, l’idée du sang versé ayant soulevé, à propos, la conscience de ces hommes sauvages. Ils tournèrent la chose en riant, et plaisantèrent [MASK], qui leur répondit de même, faisant contre fortune bon cœur.
+
+['Jeanne', 'Marie', 'Marguerite', 'maman', 'Catherine']	Thérence	Et les paroles, dit [MASK], sont-elles tristes aussi, mon père ?– Les paroles, répondit-il, sont comme l’air, un peu embrouillantes et portant réflexion. C’est l’histoire du tintoin de trois galants autour d’une fille.
+
+['</s>NOTUSED', 'moi', 'monsieur', 'Monsieur', 'père']	Tiennet	, lui dis-je, il faut s’écouter, et les pleurs ne sont pas des raisons.– Je ne pleure pas, [MASK], me répondit-il d’une voix assurée. Je ne suis ni si faible ni si heureux que de me pouvoir soulager de cette manière-là.
+
+['Voltaire', 'Napoléon', 'Alexandre', 'Socrate', 'Rousseau']	Brulette	À présent, si vous me jugez honnête homme, permettez-moi d’exposer tout ce que je pense et tout ce que je sais.– Expliquez-vous sans crainte, dit vivement [MASK] ; je ne m’embarrasse d’aucune idée qu’on puisse avoir de moi.–
+
+['tous', 'chacun', 'table', 'tout', 'moi']	Joseph	; car rien ne pouvait plus me donner à penser que mes amis eussent besoin de mon aide en une réunion si tranquille.Je retrouvai en bas mes jeunes gens et beaucoup d’autres de ma connaissance, qui s’étaient attablés, faisant fête et compliment à [MASK].
+
+['Monsieur', 'monsieur', 'seigneur', 'maître', '«']	Tiennet	Voilà bien des questions à la fois, [MASK], répondit mon hôte. Pour un Berrichon, ça n’est pas mal raisonné. Je vas tâcher d’y répondre. Tu me vois boire et causer, parce que j’aime le vin et que je suis un homme.
+
+['Jeanne', 'Marie', 'Berthe', 'Henri', 'Gaspard']	Brulette	À cette fin, je lui laissai donc prendre environ une minute d’avance, mais pas davantage, encore que j’eusse aimé à tranquilliser [MASK] en lui disant mon dessein ; j’aurais craint de me retarder et de perdre la piste de la belle des bois.
+
+['madame', 'voyons', 'Marie', 'Madame', 'Dame']	Brulette	Voyons, [MASK], n’ayez point honte d’être belle, et n’en soyez pas vaine non plus. L’ouvrier qui façonne si bien les créatures de ce monde ne vous a pas consultée, et vous n’êtes pour rien dans son ouvrage ;
+
+['Madame', 'Mme', 'madame', 'famille', 'mère']	Brulette	Rien que je sache, me dit-il en parlant de même, point de nouvelles, bonnes nouvelles.Et, me secouant la main avec amitié, il entra en la maison de [MASK], où déjà elle était pendue au cou de son grand-père.
+
+['Madame', 'Mme', 'madame', 'maman', 'Marie']	Brulette	C’est peut-être à cause de ça que, plaignant ce garçon sérieux et renfermé, je m’accoutumais à imiter [MASK], qui toujours le secouait et, par là, lui rendait plus d’office qu’elle n’en recevait, et supportait son humeur plus qu’elle ne la gouvernait.
+
+['Marie', 'Alice', 'Jeanne', 'Catherine', 'Julie']	Brulette	Je demandai pardon à [MASK] de l’avoir tourmentée, ajoutant :– Si j’avais su plus tôt ce que tu me dis, je n’aurais eu ni fiel ni rancune contre ce pauvre garçon.– Comment ne t’en es-tu jamais aperçu ? reprit-elle.
+
+['il', 'Monsieur', 'monsieur', 'Louis', 'Henri']	Joseph	Là-dessus, [MASK], comme épuisé de s’être abandonné si longtemps, laissa retomber sa tête sur l’oreiller et s’endormit. Il y avait bien une heure que je me débattais pour ne pas lui en donner exemple, car j’étais las tout mon soûl
+
+['que', ':', 'ceci', 'Pierre', 'Monsieur']	Brulette	dit [MASK], quand le curé lui eut fait entendre ce qu’il y avait sur ce papier, j’ai grand-peur qu’il ne se soit fait muletier aussi, et je n’oserais dire à sa mère ni sa maladie ni l’état qu’il a pris.
+
+['madame', 'Madame', 'Mademoiselle', 'vous', 'Marie']	Thérence	Qu’est-ce que vous faites, [MASK] ? m’écriai-je en lui empoignant les mains que j’aurais quasi mangées ; voulez-vous donc me rendre fou ?– Je veux vous remercier et aimer toute ma vie, répondit-elle, car vous m’avez tenu parole ;
+
+['maman', 'Marie', 'Jeanne', 'Julie', 'Maman']	Brulette	Oh ! oh ! dit ma sœur, il a tout de même ses bons moments, à ce qu’il paraît !– Ma fine, dit [MASK], j’en suis aussi confondue que vous, car voilà le premier que je lui vois.
+
+['Pierre', 'Joseph', 'Jean', 'Charles', 'Louis']	Joseph	Mais alors, avisant le sang et les blessures de [MASK], il s’inquiéta de lui et lui montra tant d’intérêt, que cela, joint au secours qu’il lui apportait, me prouva son amitié pour lui et son bon cœur, dont j’avais douté.
+
+['Jésus', 'Pierre', 'Paul', 'Jean', 'Dieu']	Huriel	Laissons cela, répondit [MASK] en fronçant un peu le sourcil, ce qui lui fit faire la grimace d’un homme qui souffre d’un grand trou à la tête, comme il l’avait justement tout frais sous son mouchoir rouge : toutes choses sont en la main de Dieu ;
+
+['Antoine', 'Alexandre', 'Albert', 'André', 'Alexis']	Huriel	comme s’il l’eût voulu écraser dans ses doigts. Quiconque abandonne son bien n’a plus à y repêcher, et je suis un gardien assez fidèle pour ne point souffrir les maraudeurs.Ma tante allongea sa petite main sèche et la passa sur le front d’[MASK].
+
+['Monsieur', 'monsieur', 'Louis', 'Pierre', 'Charles']	Joseph	car je vous regarde et je trouve bien le fin mot de votre conduite. Je vois, depuis huit jours, comme vous savez vous mettre à l’écart pour la guérison de [MASK], et comme vous le soignez secrètement, sans qu’il y voie paraître le bout de vos mains.
+
+['il', 'Jean', 'Pierre', 'Louis', 'Roland']	Joseph	; mais toutes les musettes se mirent à jouer, sauf celles d’Huriel et de son père, lesquels faisaient semblant, et regardaient le combat d’un air de doute et d’inquiétude.Cependant [MASK] roulait le diable et paraissait le plus fort ;
+
+['Dieu', 'Jésus', 'la', 'ce', 'son']	Brulette.–	mais il ne me fut point possible de mentir, au moment où l’image me revint si claire devant les yeux. Et pourtant, je l’avais oubliée jusqu’à cette heure, et je n’y eusse peut-être jamais repensé, sans les questions et commandements de [MASK]
+
+['moi', 'eux', 'nous', 'lui', 'elle']	Brulette	mais, pensant qu’il était content de m’avoir vu, et le serait encore plus de se trouver seul avec [MASK], je les laissai ensemble, sans faire semblant de rien, et m’en allai rejoindre le père Bastien pour m’occuper à le voir travailler.
+
+['cela', 'Voltaire', 'personne', 'encore', 'Dieu']	Joseph	Tant il y a que je n’osai point questionner [MASK], car si l’on peut être curieux des bonnes idées, on ne doit point l’être des mauvaises, et mêmement, on répugne toujours à se fourrer dans les affaires où l’on peut trouver plus qu’on ne cherche.
+
+['Monsieur', 'Jean', 'Pierre', 'Henri', 'Louis']	Benoît	Et vite ! reprenons nos déguisements !– Laissez faire, dit [MASK], prêtant l’oreille ; je vois ce que c’est. J’ai rencontré, en venant ici par les caves du château, quatre ou cinq gaillards dont un m’est connu.
+
+['Elle', 'elle', 'Il', 'il', 'On']	Huriel	répondez-moi aussi, car je ne sais point ce que cela veut dire, et je deviens folle d’y songer. Il n’y a point de tache dans notre famille, et si mon père le croyait...[MASK] lui coupa la parole.– Attends, ma sœur, dit-il.
+
+['madame', 'monsieur', 'Madame', 'Monsieur', 'non']	Joset	mais elle se recula, étonnée de son air singulier, et lui répondit :– Non, [MASK], je n’ai point coutume d’embrasser aucun garçon, quelque ami ancien qu’il me soit et quelque plaisir que j’aie à le saluer.– Vous êtes devenue bien farouche !
+
+['Maman', 'Mère', 'Allons', 'Non', 'Mais']	Brulette	– [MASK], nous avons une prière à t’adresser, et si tu as l’air triste et inquiète, voilà mon fils et moi qui n’oserons. Ne veux-tu point nous donner un sourire d’encouragement ?– Parlez, mon père, et commandez-moi !
+
+['Marie', 'maman', 'Catherine', 'Maman', 'elle']	Brulette	mais il ne se rendait compte de rien, sinon que [MASK] était mère et qu’il avait été trompé par elle et par nous.– Vous ne vous en cachez donc plus ? lui dit-il avec des mots entrecoupés d’un reste d’étouffement.– Qu’est-ce que vous prétendez donc me dire
+
+['il', 'on', 'Charles', 'Joseph', 'Louis']	Joseph	Un mois environ après ce jour-là, [MASK] me vint trouver à la maison.– Le temps est arrivé, me dit-il avec un regard net et une parole sûre, où je veux que les deux seules personnes en qui j’ai confiance connaissent mon flûter.
+
+['assise', 'bébé', 'Jeanne', 'Pauline', 'Marie']	Charlot	Quelquefois, dans la maison, quand une bourrée bourbonnaise lui revenait en mémoire, elle mettait [MASK] sur les genoux du grand-père, et me faisait danser avec elle, en chantant, riant et se carrant comme si toute la paroissée eût été encore là pour la regarder ;
+
+[':', '–', 'Monsieur', '«', 'lui']	Huriel	reprit [MASK], si je vous ai dit, à la fête de votre village, des paroles un peu vives, c’est qu’elles me sont venues comme ça en vous voyant ; mais le temps a passé là-dessus, et vous devriez avoir oublié l’offense.–
+
+['Madame', 'Monsieur', 'madame', 'Marie', 'Pierre']	Brulette	Et quand, tout à l’heure, j’ai vu là [MASK], avec son air si doux, et sa modestie qui me charmait tant par le passé, je jure Dieu que j’avais oublié tout, aussi bien oublié que la chose qui n’a jamais été.
+
+['Elle', 'Il', 'Marie', 'Marianne', 'Louise']	Brulette	Un garçon peut faire des sottises pour se désennuyer, et le regret qu’il en a ensuite prouve d’autant mieux que son cœur et son esprit n’étaient point de la partie.[MASK] devint rouge ; mais elle reprit aussitôt :
+
+['maintenant', 'ici', 'enfin', 'là', 'hélas']	Clairin	Ici, [MASK] !Il n’eut pas plutôt dit cela, que la clochette sauta et ressauta, et que je vis arriver sur lui un petit cheval maigre, tout hérissonné, qui avait des yeux comme des charbons ardents, et, au cou, une sonnette reluisante comme de l’or.–
+
+['les', 'le', 'la', 'nos', 'donc']	Tiennet	; comment irez-vous toute seule trouver ces muletiers ? Tenez, ils m’effrayent toujours beaucoup, et pourtant j’y veux aller avec vous. Je le dois, puisque c’est moi qui suis la cause de la bataille. Nous appellerons [MASK]...– Non pas !
+
+['lui', 'toi', 'moi', 'Paul', 'David']	Malzac	Tu en feras ce que tu voudras, lui répondis-je. S’il est utile pour toi que je sache les conséquences de ta batterie avec [MASK], dis-les-moi, quand même j’aurais regret à les entendre ; sinon, j’aime autant ne pas trop savoir ce qu’il est devenu.–
+

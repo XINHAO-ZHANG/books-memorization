@@ -1,0 +1,200 @@
+['elle', 'lui', 'une', 'un', 'terre']	Pierre	C’est une couverture vivante. Ils se mussent contre [MASK] en enfonçant leur petit museau dans ses vêtements. « Je suis leur terrier, pense-t-il en souriant. Un terrier vivant. » Des étoiles dansent autour de lui avec des exclamations et des rires argentins.
+
+['il', 'puis', 'ainsi', 'alors', 'là']	Nabou	Petit galopin? Comment pouvait-on l’appeler ainsi? Et [MASK] s’avisa soudain qu’en effet il était devenu fort petit, mince et agile, ce qui expliquait au demeurant qu’il pût courir des heures durant et monter aux arbres.
+
+['Ils', 'Il', 'ils', 'Elles', 'Elle']	Claude	Ils laissent tomber. Puis ils examinent. [MASK] a examiné. Mais, au lieu de manger, elle a pris le morceau de viande dans sa gueule, et elle l’a emporté dans le jardin, au risque de me faire gronder si mes parents l’avaient vue.
+
+['il', 'chacun', 'enfin', 'lui-même', 'celui-ci']	Logre	De confiance, il trouve tout délicieux. Ensuite les huit enfants s’assoient en demi-cercle autour du feu, et [MASK] décroche de la hotte de la cheminée une guitare dont il tire d’abord quelques accords tristes et mélodieux.
+
+[',', 'de', 'le', 'ne', 'se']	Nabounassar	[MASK] s’abandonna ce jour-là à sa sieste traditionnelle dans un trouble qui mêlait confusément le problème de sa succession et le mystère de sa barbe. Il était bien loin en effet de se douter que ces deux points d’interrogation n’en faisaient qu’un et trouveraient ensemble leur solution…
+
+['Il', 'il', '</s>', 'Elle', 'elle']	Pierrot	Elle s’habille désormais comme lui, et au lieu de savonner et de repasser du linge blanc et frais, elle va faire mariner dans des cuves de couleurs chimiques nauséabondes et salissantes des frusques défraîchies! [MASK] s’approche de l’échafaudage. Il le palpe avec dégoût.
+
+['Philippe', 'Henri', 'Charles', 'Edouard', 'Napoléon']	Nabounassar	Les passants ne pouvaient imaginer que cet homme sans barbe qui courait vêtu d’un simple pantalon bouffant et d’une courte veste, en tenant une petite plume blanche en équilibre sur sa main, c’était leur souverain majestueux, [MASK] III.
+
+['il', 'pourquoi', 'tout', '...', 'Il']	Kamicha	Mais [MASK] avait disparu d’un bond dans les groseilliers. C’est curieux tout de même! Il voit bien que sa maman n’a pas peur de moi. Alors pourquoi se sauve-t-il? Et sa maman, pourquoi ne fait-elle rien pour le retenir?
+
+['Marie', 'Sophie', 'Hélène', 'Sarah', 'Alice']	Claude	Elle s’appelle [MASK], c’est pourquoi on n’est pas très sûr. Pendant quinze jours, elle a eu un ventre énorme, et un matin j’ai trouvé avec elle dans sa corbeille quatre chatons gros comme des souris qui ramaient autour d’eux avec leurs petites pattes et qui lui suçaient le ventre.
+
+['il', 'Il', 'on', 'homme', 'le']	Pierrot	On voit le soupirail de la boulangerie s’allumer et rougeoyer de chauds reflets. Une lune énorme flotte comme un ballon laiteux dans le ciel phosphorescent. Bientôt [MASK] sort de son fournil. Il ne voit d’abord que la lune. Il en est tout rempli de bonheur.
+
+['Normandie', 'Bretagne', 'cheval', 'chèvre', 'Dijon']	Kamicha	Elle s’est posée devant l’assiette, les pattes de devant bien sagement serrées l’une contre l’autre, et elle a commencé à laper. Au bout d’une minute, j’ai vu l’œil au beurre blanc de [MASK] apparaître entre deux touffes d’herbe.
+
+[',', 'elle', 'et', 'Elle', 'il']	Poucet	[MASK] passe ses doigts courts dans la brosse noire de ses cheveux. Ces gosses, toujours la question stupide! — L’esthétisme, l’esthétisme… euh… eh bien, c’est les arbres! finit-il par trouver avec soulagement.
+
+['Mes', 'service', 'se', 'S', 'la']	Pierrot	Il y avait là toutes les couleurs de l’arc-en-ciel, plus quelques autres encore, mais aucun losange n’était blanc ni noir. Il arrêta son chariot devant la boulangerie de [MASK], et examina avec une moue de réprobation sa façade nue et triste qui ne portait que ces deux mots:
+
+['ne', ',', 'elle', 'Je', '2']	Claude	Je cours à la bergerie pour voir si le petit est revenu lui aussi. La corbeille est toujours vide. [MASK] s’est approchée. Elle a regardé dans la corbeille et a levé la tête vers moi en fermant ses yeux d’or. Je lui ai demandé: «
+
+['et', ',', 'lui', 'celui', 'mais']	Raphaël	Le voilà maintenant qui attirait à lui une partie de l’attention et donc des bravos du public, au point que le directeur n’avait pas pu ne pas s’en apercevoir. — Pas tant de zèle, mon petit vieux, pas tant de zèle, disait-il à [MASK] qui n’en pouvait mais.
+
+['il', 'Il', 'et', ',', 're']	Logre	[MASK] pose sa guitare contre son fauteuil, et il observe un long silence méditatif. Enfin il commence à parler d’une voix éteinte et profonde. — Écoutez-moi, dit-il. Ce soir, c’est la nuit la plus longue de l’année.
+
+[',', 'par', 'de', 'plusieurs', 'by']	Bidoche	Accompagné au piano par [MASK] Il ne fit qu’un saut dans le bureau du directeur. Celui-ci le reçut à bras ouverts. Oui, il avait cru devoir porter son nom sur l’affiche. Ce n’était que justice. Sa « prestation »
+
+['il', 'Il', 'On', 'on', "s'"]	Kamicha	Il a laissé tomber un petit arc, un carquois et des flèches qui pendent le long du socle. [MASK] est assis sous le dôme. Il lève la tête vers moi. Il est aussi silencieux que le garçon de pierre. Il a comme lui un sourire mystérieux.
+
+['tout', 'il', 'soleil', 'puis', 'midi']	Pierrot	Il a travaillé si vite que tout est terminé quand le soleil se couche, bien que la peinture soit encore loin d’être sèche. Le soleil se couche et [MASK] se lève. On voit le soupirail de la boulangerie s’allumer et rougeoyer de chauds reflets.
+
+['il', 'elle', 'on', 'celui-ci', 'celle-ci']	Bénédicte	Le cachet, qui représentait pour une seule soirée l’équivalent d’une bonne douzaine de leçons particulières, ne compensait pas cette épreuve sacrilège. Il allait refuser quand, à sa grande surprise, [MASK] lui demanda de réfléchir. Ils étaient fiancés depuis bien longtemps.
+
+['t-il', 'il', 'elle', 't-elle', '-t-il']	Pierre	« Ils vont encore dire que j’ai une écriture de bébé », pense [MASK] avec dépit, en relisant son billet d’adieu. Et l’orthographe? Rien de tel qu’une grosse faute bien ridicule pour enlever toute dignité à un message, fût-il pathétique.
+
+['il', 'Il', 'on', 'elle', 'et']	Arlequin	Il a oublié quelque chose. Une pancarte qu’il peint à grands gestes, puis qu’il accroche à la porte de la maison: fermée pour cause de voyage de noces Cette fois, ils peuvent partir. [MASK] s’attelle à la roulotte, et la tire sur la route.
+
+['on', 'il', 'chacun', 'elle', 'Molière']	Raphaël	de cent malchances, vous faites rire. Dès lors il n’est que de forcer la note piteuse et calamiteuse d’un personnage pour faire crouler sur lui les hurlements joyeux de la foule. Dès le premier soir, [MASK] évalua la qualité de ce rire.
+
+['Il', 'Elle', 'il', 'II', 'elle']	Logre	Vous êtes beau comme… » [MASK] sourit. Il sourit de toutes ses dents blanches, mais aussi de tous ses colliers, de son gilet brodé, de sa culotte de chasseur, de sa chemise de soie, et surtout, ah! surtout de ses hautes bottes.
+
+['la', 'le', 'les', "l'", 'mon']	Kamicha	Elle a vraiment deux vies qui ne se touchent pas, sa vie de l’autre côté du mur et sa vie avec nous dans le jardin de papa et la maison de maman. Mercredi J’ai voulu apprivoiser [MASK].
+
+['ses', 'son', 'sa', 'la', "l'"]	Colombine	Il en parcourt les rues et les ruelles, ses grands yeux ronds largement ouverts sur le sommeil des autres, ces hommes, ces femmes, ces enfants qui ne s’éveilleront que pour manger les croissants chauds qu’il leur aura préparés. Il passe sous les fenêtres closes de [MASK].
+
+['on', 'si', 'et', ',', 'il']	Kamicha	Mais alors, ce qui est extraordinaire: pas de porte, pas de grille, rien! Un mur sans aucune ouverture. Ou bien les ouvertures ont été bouchées. La seule façon d’entrer, c’est de faire comme [MASK], sauter le mur.
+
+['est', 'était', ',', 'femme', 'que']	Claude	Aujourd’hui elle l’a emmené. Elle a dû l’emporter plutôt, parce que je suis sûre que le petit n’a pas pu la suivre. Il marche à peine. Où est-elle allée? Mercredi [MASK] disparue depuis dimanche est brusquement revenue.
+
+['son', "l'", 'théâtre', 'la', 'tout']	Raphaël	L’arrivée sur la scène de [MASK], serré dans son complet noir trop court, son air compassé et traqué, son visage de séminariste figé par la peur derrière ses grosses lunettes, tout paraissait calculé à dessein pour former une composition hautement comique.
+
+['tout', 'il', 'elles', 'ils', "l'"]	Vendredi	Pourquoi ne le renvoyait-il pas? Quel secret – inavouable peut-être – le liait-il au nègre? Enfin des sommes importantes avaient été volées chez leur voisin, et avant même qu’on eût soupçonné qui que ce soit, [MASK] avait disparu.
+
+['S', 'A', 'tous', ',', 'la']	Bodruche	Aussi, quelle ne fut pas sa surprise, un soir qu’il se rendait à son enfer quotidien, de voir sur l’affiche placardée à la porte du café-théâtre un papillon ajoutant sous le nom de [MASK]:
+
+['monde', 'peuple', 'chacun', 'ne', 'village']	Pierrot	Oui, tout cela [MASK] le sait, parce que sa pâte, après qu’il l’a longuement pétrie et secrètement fécondée avec le levain, a besoin de deux heures pour se reposer et lever. Alors il sort de son fournil. Tout le monde dort.
+
+['on', "c'", 'il', 'On', "j'"]	Pierre	C’est ma vieille qui me met toujours ça. Moi je préfère le petit blanc sec. Le liquide sirupeux brûle et sent la cannelle, mais c’est tout de même du vin, et [MASK] est un peu saoul quand le camion s’ébranle en soufflant, crachant et mugissant.
+
+['je', ',', 'es', 'tu', 'sur']	Pierrot	Et c’est un or qui se mange. La couleur que je fais réjouit l’œil, mais en outre elle est épaisse, substantielle, elle sent bon, elle est chaude, elle nourrit. Je t’aime et je t’attends, [MASK]
+
+['la', "l'", 'leurs', 'ces', 'lui']	Pierre	Un terrier vivant. » Des étoiles dansent autour de lui avec des exclamations et des rires argentins. Des étoiles? Non, des lanternes. Ce sont des gnomes qui les tiennent. Des gnomes? Non, des petites filles. Elles se pressent autour de [MASK].
+
+['blanc', 'que', 'laquelle', 'blancs', 'blanche']	Pouldreuzic	Il y réussit un peu d’ailleurs. C’est depuis cette rencontre fameuse de [MASK] qu’on voit le marché de blanc envahi par des serviettes mauves, des taies d’oreiller bleues, des nappes vertes et des draps roses.
+
+['il', 'lui-même', 'celui-ci', "n'", "c'"]	Pierrot	Il faut avouer d’ailleurs que [MASK] avait le physique de son emploi. Peut-être parce qu’il travaillait la nuit et dormait le jour, il avait un visage rond et pâle qui le faisait ressembler à la lune quand elle est pleine.
+
+["c'", "s'", 'ce', "j'", 'c']	Christine	Moi c’est Nadine, et moi [MASK], Carine, Aline, Sabine, Ermeline, Delphine… Elles pouffent en se bousculant, et les lanternes dansent de plus belle. Pierre tâte autour de lui. Le cageot est toujours là, mais les lapins ont disparu.
+
+['sagesse', 'vérité', 'Dieu', 'vie', 'paix']	Logre	En vérité, il flotte dans l’air comme un grand arbre – un marronnier, oui, pourquoi justement un marronnier, il n’en sait rien, mais c’est sûrement cet arbre-là – et les paroles de [MASK] viennent habiter ses branches avec un bruissement lumineux.
+
+['il', 'Il', 'et', 'On', 'on']	Bénédicte	C’était fort bien ainsi, mais il n’avait plus rien à y apprendre. [MASK] laissa passer l’orage. Puis, les jours suivants, elle revint doucement à la charge. Ce qu’on lui proposait n’avait rien de commun avec l’accompagnement du triste Bodruche.
+
+['il', 'elle', 'a', 'avait', 'et']	Pierrot	Un flot de lumière dorée, de chaleur maternelle et de délicieuse odeur de pâtisserie baigne les trois amis. Et maintenant, à l’aide de sa longue pelle de bois, [MASK] fait glisser quelque chose hors du four. Quelque chose? Quelqu’un plutôt!
+
+['équipe', 'autrui', 'écriture', 'artiste', 'homme']	Arlequin	Très vite le travail d’[MASK] prend figure. La façade blanche de la maison disparaît sous une palette multicolore. Il y a là toutes les couleurs de l’arc-en-ciel plus quelques autres, mais ni noir, ni blanc, ni gris.
+
+['elle', 'Elle', '</s>', 'lui', 'Lui']	Claude	C’est qu’il n’a jamais mangé dans une assiette, ce petit sauvage. Il a fait gicler des gouttes de lait partout. Il recule et se pourlèche les babines d’un air dégoûté. [MASK] aussi a été éclaboussée, mais elle s’en moque.
+
+['Il', "m'", 'il', 'me', "M'"]	Kamicha	Je souris d’un air mystérieux. Je trouve que je ressemble au garçon de pierre… Alors je vois des larmes au bord de mes paupières. Mercredi [MASK] est devenu très familier depuis ma visite dans son jardin. Il passe des heures étendu sur le flanc au soleil.
+
+['sa', 'une', 'son', 'la', "l'"]	Bénédicte	Les soirées se passaient désormais plus souvent à aligner des chiffres qu’à communier dans la pure beauté d’un choral de Bach. Un jour qu’il rentrait un peu tard, il trouva [MASK] tout excitée par une visite qu’elle avait eue quelques minutes plus tôt.
+
+['elle', "j'", 'je', 'et', 'Elle']	Claude	J’ai placé une assiette de lait au milieu de l’allée, et je suis rentrée dans la maison où j’ai observé par une fenêtre ce qui allait se passer. [MASK] est arrivée la première, bien entendu.
+
+['la', 'maman', 'ma', 'mon', "l'"]	Kamicha	Comme je suis loin du jardin bien peigné de papa et de la maison bien cirée de maman! Est-ce que je pourrai jamais y revenir? Je tourne brusquement le dos au garçon secret, à [MASK], au pavillon, et je m’enfuis vers le mur.
+
+[',', 'B', 'Y', 'qui', '...']	Kamicha	Oh, pas méchamment! Toutes griffes rentrées. Mais le coup a sonné sur le crâne de [MASK] qui roule comme une boule. Ça lui rappellera qu’il est un grand chaton. Est-ce qu’on tète encore à son âge? Dimanche
+
+['qui', 'se', 'il', "s'", ',']	Logre	[MASK] est devant lui. Il n’a plus ses vêtements de peau, ni ses bijoux, ni son lacet autour du front. Il est pieds nus dans une longue tunique de toile écrue, et ses cheveux séparés au milieu par une raie tombent librement sur ses épaules.
+
+['Pierre', 'papa', 'Jean', 'Léon', 'Jacques']	Pierre	On frappe des coups sourds à la porte. Les petites filles se dispersent comme une volée de moineaux, laissant [MASK] tout seul dans le grand lit éventré. Les coups redoublent, on croirait entendre ceux d’une cognée sur le tronc d’un arbre condamné. — Police!
+
+['en', 'ailleurs', 'IN', 'ici', 'EST']	Arlequin	Ne te laisse pas séduire par les couleurs chimiques et superficielles d’[MASK]! Ce sont des couleurs toxiques, malodorantes et qui s’écaillent. Mais moi aussi j’ai mes couleurs. Seulement ce sont des couleurs vraies et profondes. Écoute bien ces merveilleux secrets:
+
+['peintre', 'qui', 'il', ',', 'et']	Arlequin	[MASK] a l’air de considérer que leur départ va de soi. C’est que le peintre est un vrai nomade. Il vit sur son échafaudage comme l’oiseau sur la branche. Il n’est pas question pour lui de s’attarder.
+
+['on', 'il', 'On', '</s>', 'Il']	Claude	La différence, c’est qu’il s’est réchauffé au passage. Le petit chat n’aime pas le lait froid. Il se sert de sa mère pour le faire tiédir. L’assiette est vide. [MASK] l’a si bien léchée qu’elle brille au soleil.
+
+['son', 'la', 'sa', '.', 'ses']	Bénédicte	Il en ressortit en remerciant le directeur, et en maudissant intérieurement sa timidité, sa faiblesse. Le soir, il raconta la scène à [MASK]. Bien loin de partager son indignation, elle le félicita de son succès et se réjouit de l’augmentation de leurs ressources.
+
+['la', 'blanc', "l'", 'tout', 'toute']	Pierrot	Toute la nuit le ciel s’est empli de flocons voltigeants. Quand le jour se lève, la neige recouvre toute la campagne, la route, et même la roulotte. C’est le grand triomphe du blanc, le triomphe de [MASK].
+
+['une', 'Barbie', 'la', 'M', 'ma']	Amanda	Ce n’est pas étonnant. Je suis une petite fille et j’ai dix ans. J’ai un papa, une maman, une poupée qui s’appelle [MASK], et aussi un chat. Je crois que c’est une chatte.
+
+['Sire', 'Oui', 'Monsieur', 'Non', 'Certes']	Poucet	Vaudra mieux pas oublier les allumettes! observa-t-il courageusement. — Idiot! répliqua [MASK], il y a quatre ascenseurs ultra-rapides. Dans ces immeubles modernes, les escaliers sont pratiquement supprimés. — Et quand il y aura du vent, gare aux courants d’air!
+
+['que', 'moi', 'vous', 'sûr', 'autant']	Kamicha	Pour [MASK], évidemment, il y a un doute. Maman m’a dit qu’on ne pouvait pas garder cinq chats à la maison. Je me demande bien pourquoi. Alors j’ai demandé à mes petites amies de l’école si elles voulaient un chaton.
+
+['papa', 'maman', 'Papa', 'mamie', 'encore']	Pierre	Maintenant, elle est partie les vendre en province. Nous, on l’attend avec papa. Drôle de famille, pense [MASK]. C’est la mère qui travaille pendant que le père garde la maison! Les voici tous à nouveau devant le feu de la salle commune.
+
+['Il', 'On', 'Cela', 'Elle', 'Je']	Arlequin	Ils vont partir. Pas encore. [MASK] descend. Il a oublié quelque chose. Une pancarte qu’il peint à grands gestes, puis qu’il accroche à la porte de la maison: fermée pour cause de voyage de noces Cette fois, ils peuvent partir.
+
+['on', 'que', 'ne', 'il', 'elle']	Pierrot	Le feuillage que les grands arbres secouent sur le ciel sombre est tout pétillant d’étoiles. Les souffles de la nuit sentent plus profondément l’odeur de la mer, de la forêt et de la montagne que les souffles du jour imprégnés par le travail des hommes. [MASK] connaît la lune.
+
+['celui-ci', 'Jean', 'celle-ci', 'Pierre', 'Jacques']	Pierre	C’est comme ton linge. Tu ne voudrais pas continuer à l’étendre dehors pour le faire sécher! — Mais alors, objecta [MASK], si les fenêtres sont vissées, comment on respire? — Pas besoin d’aérer. Il y a l’air conditionné.
+
+['</s>', 'il', 'elle', 'Il', 'Elle']	Raphaël	Bien loin de partager son indignation, elle le félicita de son succès et se réjouit de l’augmentation de leurs ressources. Après tout, l’opération n’avait d’autre raison d’être que lucrative, ne valait-il pas mieux qu’elle rapportât le maximum? [MASK] se sentit victime d’une conspiration générale.
+
+['fleurs', 'Madame', 'gauche', 'droite', 'Monsieur']	Kamicha	Me voilà dans le jardin de [MASK]. Il y a de hautes herbes qui m’arrivent jusqu’au nez. Je dois marcher dans une ancienne allée taillée à travers la forêt, mais qui est en train de disparaître. De grosses fleurs bizarres me caressent la figure.
+
+['Colomb', 'Vill', 'Saint', 'Fontaine', 'Villeneuve']	Pierrot	Voici la fontaine prisonnière du gel, la vieille église, et voici les deux petites maisons qui se font face, la blanchisserie de Colombine et la boulangerie de [MASK]. La blanchisserie est éteinte et comme morte, mais la boulangerie donne des signes de vie.
+
+['qui', 'il', 'Il', 'et', 'Qui']	Pierrot	[MASK] connaît la nuit. Il sait que ce n’est pas un trou noir, pas plus que sa cave ni son four. La nuit, la rivière chante plus haut et plus clair, et elle scintille de mille et mille écailles d’argent.
+
+['il', 'Il', 'celui-ci', 'y', 'on']	Poucet	Les menottes claquent. Cependant [MASK] aperçoit son fils. — Ah te voilà, toi! J’en étais sûr! Va m’attendre dans la voiture, et que ça saute! Puis il se lance dans une inspection furibonde et écœurée des lieux.
+
+['il', 'Il', 'elle', 'Elle', 'On']	Colombine	Ou simplement a-t-il aperçu ses pieds par le soupirail? Il lui tend les bras, mais au moment où elle va s’y jeter, pris de peur, il s’efface et l’entraîne dans son fournil. [MASK] a l’impression de descendre dans un bain de tendresse.
+
+['les', 'le', 'la', "l'", 'mon']	Kamicha	Ça lui rappellera qu’il est un grand chaton. Est-ce qu’on tète encore à son âge? Dimanche J’ai résolu d’entreprendre une expédition de l’autre côté du mur pour essayer d’amadouer [MASK]. Et aussi un peu par curiosité.
+
+['terre', 'eusement', 'dans', 'fond', 'sol']	Claude	Je n’avais pas faim du tout, et, comme personne ne me regardait, j’ai glissé à [MASK] mon morceau de viande. Les chiens – quand on leur lance un morceau de viande ou de sucre –, ils l’attrapent au vol et le croquent de confiance.
+
+['lui-même', 'normal', 'humain', 'homme', 'adulte']	Bidoche	Il ne cracha pas des vomissures de charcuterie. Il s’épanouit lentement comme une grande et sombre fleur, et il laissa fuir un bel archange aux ailes de lumière, l’archange Raphaël, celui qui depuis toujours veillait sur lui et le gardait de devenir tout à fait [MASK].
+
+[',', 'le', '...', '....', 'a']	Kamicha	Elle l’a caché de l’autre côté du mur, et elle reste avec lui chaque fois qu’elle n’est pas ici. Dimanche J’avais raison. Je viens de revoir [MASK] disparu depuis trois mois. Mais comme il a changé!
+
+[',', 'ensemble', 'chacun', 'aussi', '-']	Pierre	Mais les sept diablesses entraînent [MASK] dans une autre pièce, un vaste atelier qui sent la laine et la cire, et qui est tout encombré par un métier à tisser de bois clair. — C’est là que maman fait ses tissus.
+
+['elle', 'il', 'lumière', 'ré', 'Marie']	Pierrot	Elle voudrait s’accroupir devant cette bouche de lumière qui souffle jusque sous sa robe de la chaleur et une enivrante odeur de pain, pourtant elle n’ose pas. Mais tout à coup la porte s’ouvre, et [MASK] apparaît. Est-ce le hasard?
+
+[',', 'que', 'tout', 'depuis', 'et']	Kamicha	Non. On dirait qu’elle a complètement oublié [MASK] dès que je suis là. Elle a vraiment deux vies qui ne se touchent pas, sa vie de l’autre côté du mur et sa vie avec nous dans le jardin de papa et la maison de maman.
+
+['Il', 'il', 'On', 'le', 'Le']	Pierrot	Là-haut une fenêtre brille. C’est terrible un échafaudage, parce que ça permet de regarder par les fenêtres des étages ce qui se passe dans les chambres! [MASK] grimpe sur une planche, puis sur une autre. Il s’avance vers la fenêtre allumée.
+
+['ne', 'et', 'Ne', 'ou', 'mais']	Raphaël	Or ces quelques soirées pouvaient leur apporter l’appoint financier qui leur manquait pour fonder un foyer. Était-ce donc un sacrifice trop lourd, [MASK] pouvait-il retarder encore leur mariage au nom d’une idée respectable, certes, mais bien abstraite, de son art?
+
+['Il', ',', 'il', 'qui', 'et']	Arlequin	[MASK] se juche prestement sur son échafaudage. Avec son collant multicolore et sa crête de cheveux rouges, il ressemble à un oiseau exotique sur son perchoir. Et comme pour accentuer la ressemblance, il chante et il siffle avec entrain.
+
+["c'", "C'", 'est', "--C'", "s'"]	Pierre	C’est le réveillon de Noël. [MASK] est seul dans sa chambre. Il tourne la clé dans la serrure, puis il tire de sous son lit deux grandes bottes molles de peau dorée. Ce n’est pas difficile de les chausser, elles sont tellement trop grandes pour lui!
+
+['-', 'Elle', ',', 'Il', 'Je']	Robinson	Et même, je peux t’assurer que tu l’as bel et bien retrouvée! — Retrouvée? [MASK] suffoquait. Mais puisque je te dis… — Tu l’as retrouvée! Tu es passé peut-être dix fois devant. Mais tu ne l’as pas reconnue.
+
+['Il', 'il', '</s>', 'Je', 'Proust']	Pierrot	La blanchisserie est éteinte et comme morte, mais la boulangerie donne des signes de vie. La cheminée fume et le soupirail du fournil jette sur la neige du trottoir une lueur tremblante et dorée. Certes [MASK] n’a pas menti quand il a écrit que son four n’était pas noir mais d’or!
+
+['Pierre', 'famille', 'Jacques', 'Marthe', 'Georges']	Pierrot	Elle préférait alors fermer sa porte et ses volets, et se pelotonner sous sa couette pour dormir. Et ce n’était pas tout, car la vie de [MASK] se creusait de deux autres obscurités encore plus inquiétantes, celle de sa cave et celle de son four.
+
+['pâte', 'pain', 'pierre', 'bois', 'pâtes']	Pierrot	Quand il pense avoir terminé son œuvre, il la compare avec son modèle vivant. Évidemment la Colombine de pâte est un peu blême! Vite, au four! Le feu ronfle. Il y a maintenant deux Colombine dans le fournil de [MASK].
+
+['la', 'ton', 'ta', 'tous', 'cette']	Logre	— Alors, le trafic et l’usage de drogue, ça ne te suffit plus maintenant? aboie l’un des gendarmes à la face de [MASK]. Il faut que tu te rendes coupable de détournement de mineur en plus?
+
+['fleurs', 'famille', 'Dieu', 'roses', 'maman']	Kamicha	Ce que je vais écrire est très vilain, et j’ai honte, mais comment faire? Aller dans le jardin de [MASK], je crois que c’est nécessaire et délicieux, mais je ne dois en parler à personne, surtout pas à mes parents.
+
+['Pierre', 'tous', 'nous', 'nouveau', 'lui']	Logre	Comment tu t’appelles? C’est la seconde fois qu’elles lui demandent son nom. Il articule: « Pierre. » Elles s’écrient toutes ensemble: « Il sait parler! Il parle! Il s’appelle Pierre! Viens, on va te présenter à [MASK].
+
+['Oui', 'Madame', 'Non', 'Monsieur', 'A']	Colombine	Est-il mort? Non. Il se relève péniblement. En boitant, il rentre dans la boulangerie. Il allume une chandelle, il trempe sa grande plume dans l’encrier. Il écrit une lettre à [MASK]. Une lettre? Non, seulement un bref message.
+
+['alors', 'seulement', 'non', ',', 'là']	Kamicha	Finalement elle l’a laissé tomber, mais alors [MASK], au lieu de croquer le mulot sur place, l’a pris très vite et a disparu avec sous les buissons. J’ai bien peur que ce petit chat ne soit tout à fait sauvage.
+
+['Elle', 'Il', 'Qui', 'On', 'qui']	Kamicha	Le contraire d’un coup. Une bise. Une bise de boulanger. [MASK] a un œil au beurre blanc. Mercredi J’aime bien la maison de maman et le jardin de papa. Dans la maison, la température est toujours la même, été comme hiver.
+
+['chose', 'ça', 'cela', 'toi', 'là']	Robinson	— Et pourtant, elle était là! répétait-il une fois de plus ce soir en frappant du doigt sur sa carte. Alors un vieux timonier se détacha des autres et vint lui toucher l’épaule. — Veux-tu que je te dise, [MASK]?
+
+['pied', 'roi', 'village', 'France', 'Paris']	Yahvé	Il est pieds nus dans une longue tunique de toile écrue, et ses cheveux séparés au milieu par une raie tombent librement sur ses épaules. — Les soldats de [MASK] viennent m’arrêter, dit-il gravement. Mais demain, c’est Noël.
+
+['il', 'on', 'elle', 'Olivier', 'Il']	Arlequin	Pauvre Pierrot! On aurait vraiment dit une chouette, tout blanc, ébouriffé, ahuri, les yeux clignotant à la lumière impitoyable de midi. Aussi, avant même qu’[MASK] ait pu ouvrir la bouche, un grand rire éclata derrière lui.
+
+['le', '</s>', 'un', 'Le', '"']	ARLEQUIN	Une enseigne vernie couronnait le véhicule: [MASK] Peintre en bâtiment L’homme vif, souple, aux joues vermeilles, aux cheveux roux et frisés, était vêtu d’une sorte de collant composé d’une mosaïque de petits losanges bariolés.
+
+['judicieusement', ':', 'ainsi', 'sagement', 'curieusement']	Robinson	— L’imbécile! avait commenté [MASK]. S’il voulait de l’argent pour partir, il n’avait qu’à m’en demander! Et il avait ajouté imprudemment: — D’ailleurs, je sais bien où il est parti!
+
+['il', 'on', 'elle', 'la', '</s>']	Pierrot	Il lui sourit, et la lune lui rend son sourire. En vérité ils sont comme frère et sœur, avec leur visage rond et leurs vêtements vaporeux. Mais à force de danser et de tourner, [MASK] se prend les pieds dans les pots de peinture qui jonchent le sol.
+
+['il', 'qui', 'homme', 'directeur', 'on']	Raphaël	On ne pouvait rêver assemblage plus sonore, plus typique, d’une plus réjouissante loufoquerie. Et naturellement son cachet allait être augmenté. Substantiellement. [MASK] était entré dans le bureau pour protester. Il en ressortit en remerciant le directeur, et en maudissant intérieurement sa timidité, sa faiblesse.
+
+["l'", 'son', 'ce', 'cet', 'la']	Robinson	Et il avait ajouté imprudemment: — D’ailleurs, je sais bien où il est parti! La victime du vol s’était emparée du propos et avait exigé de [MASK] ou qu’il remboursât l’argent, ou alors qu’il livrât le voleur.
+
+['qui', 'elle', ',', 'onnette', 'et']	Arlequin	[MASK] dort au fond de la roulotte sans penser à elle. Tout à l’heure, il va falloir remettre la bricole qui lui meurtrit l’épaule et la poitrine pour tirer le véhicule sur la route gelée. Pourquoi?
+
+['or', 'argent', 'orchestre', 'honneur', 'as']	Urbino	Si des milliers de bourreaux l’abrutissaient de leurs rires bestiaux, du moins avait-il l’avantage de ne pas les voir. Le numéro du piano diabolique était-il tout à fait au point? Y eut-il ce soir-là une sorte de miracle sous le chapiteau d’[MASK]?
+
+['il', 'Il', '</s>', 'et', 'Elle']	Raphaël	Le public ne pourrait que se trouver bien de cette parenthèse de calme et de beauté ouverte dans un programme au demeurant plein d’entrain et de joyeux éclats. [MASK] refusa tout net. Jamais il ne redescendrait dans cet antre de pestilence où il avait souffert un mois durant.
+

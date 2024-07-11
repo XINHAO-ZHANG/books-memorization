@@ -1,0 +1,200 @@
+['on', 'personne', 'rien', 'il', 'bateau']	Dorat	— Des bateaux ! Il n’y avait ni canal ni fleuve à trente lieues à la ronde et jamais [MASK] n’avait dépassé les bornes de la commune. — Je crois bien que ce sont des bateaux. Ils étaient dans l’eau, des matelots dessus ;
+
+['Dieu', 'Joseph', 'chacun', 'Paris', 'Paul']	Dolorès	Mais surtout il enviait [MASK], il enviait ses camarades, il enviait paysans et citadins de parler nettement, de prononcer, sans avoir eu à la chercher, la seule demande ou la seule réponse naturelle. Une nécessité implacable les écartait de la fantaisie, dictait leurs réponses et leurs gestes.
+
+['il', 'Il', 'on', 'Amour', 'On']	Automne	Vous vous êtes habitués à mettre des articles devant les mots ainsi que l’on mouchète les fleurets : ils ne vous atteignent point au cœur comme nos phrases qui nous apprennent que Ciel est changé, qu’[MASK] meurt. Vous avez découvert ce que les autres peuples cherchent.
+
+['il', 'on', 'Dieu', 'Il', 'Voltaire']	Étienne	Il y a un mot pour remettre au point mon indignation. Il n’est pas absolument juste, mais tout autre ne pourra m’atteindre. Moi, je me le répondrais sûrement ; [MASK] est assez peu clairvoyant. Savoir s’il allait le trouver ? Il le trouva
+
+['Marie', 'Jeanne', 'Claire', 'Sophie', 'Sarah']	Dolly	de plus en plus au sien. Elle devait enfin venir elle-même. Il me semble maintenant que ma journée n’a plus de but, comme lorsque j’ai retrouvé un nom cherché pendant des heures. La présence de [MASK] me pèse. Je l’abandonne, désemparée.
+
+['il', 'on', 'Joseph', 'Antoine', 'Pierre']	Bottin	Dans cette échoppe, [MASK] torturait les animaux, il teignait les serins en martin-pêcheurs, il plumait les coqs vivants pour un chapelier ; il avait crevé les yeux de son merle pour qu’il chantât mieux : l’oiseau chantait de moins en moins, mais il engraissait.
+
+['On', 'Il', 'Elle', 'Maman', 'Mère']	Bernard	Il se préparait avec enthousiasme à l’assaut. [MASK] sonna la retraite : Il obéit avec énergie. — Ma mère en mourrait, mon oncle. Elle qui veut voir notre famille peu à peu s’élever ; elle qui est si fière de toi.
+
+['il', 'elle', 'Antoine', 'Pierre', 'chacun']	Bernard	Décidé déjà à tourner la tête dans une minute, dans une seconde, [MASK] aiguisait son désir. Le soleil étincelait. C’était l’heure où dans chaque famille de province, dans chaque chambre d’étudiant, un jeune homme aux joues brillantes s’éveille en sursaut et court à la fenêtre.
+
+['chacun', 'on', 'elle', 'chacune', 'il']	Bernard	Vinrent encore de pauvres chiens, qui suivaient les voitures, croyant à une vraie guerre. Vint encore le camion de la cantinière ; sa lanterne était encore allumée : c’était tout ce qui restait de la nuit. L’horloge sonnait six heures et [MASK] s’habilla.
+
+['«', 'I', '...', '—', '1']	Adonis	[MASK]. J’allais composer des poèmes que j’aurais appelés idylles, c’est le terme classique, quand je les ai lues, par bonheur. — Vous plaisantez toujours ! Et il n’y a point de raison pour que vous preniez ma main…
+
+['Il', 'Elle', 'On', '</s>NOTUSED', 'Paul']	Bernard	C’est ainsi que continuent à arriver, après le télégramme qui annonça la mort d’un ami, à la fin d’une traversée, les cartes et les lettres où il raconte ses escales. [MASK] alla s’accouder à la fenêtre, sans appétit.
+
+['Shakespeare', 'conversation', 'Nietzsche', 'poésie', 'Voltaire']	Dolorès	un vide qui déroulait son cerveau par bandes d’ouate ; il y sentait un cœur battre, un cœur s’arrêter. En somme, il n’y sentait rien. Ce domaine était ouvert à tout venant. Le chant des oiseaux y résonnait ; une phrase banale de [MASK] faisait tout onduler.
+
+['Pierre', 'Joseph', 'Jean', 'papa', 'Charles']	Bernard	Chaque après-midi, il s’échappait pour errer à l’aventure dans la campagne et racontait au retour d’incroyables aventures. Quelque coquassier le ramenait en carriole. On venait justement de le débarquer, et il appela [MASK] pour le mettre au courant, fier de son équipée.
+
+['Madame', 'madame', 'Mademoiselle', 'monsieur', 'Monsieur']	Manuel	Je veux poser mes lèvres au hasard. Mais elle sera de celles qu’on n’embrasse jamais où elles le désirent. Elle se récrie. Je recommence. — Cette fois, vous me faites mal, [MASK] ! Elle sera de celles auxquelles on fait toujours mal.
+
+['il', 'lui', 'monsieur', 'on', 'Monsieur']	Étienne	Nous sommes tous deux de grande taille, tous deux blonds. Nous irions du même pas, dans nos promenades, s’il n’était flâneur et badaud. Mais [MASK] voit tout, excepté ce qui est devant lui ; je lui ferai commander des œillères.
+
+['mort', 'désolé', 'roi', 'seul', 'nu']	Ménélas	Il mit sa tête dans ses mains. — Je suis [MASK]. Assis sur le toit de mon palais je regarde s’enfuir celle qui m’a trompé. Je ne la poursuivrai point ; elle filera en paix une laine étrangère. Sa trirème disparaît dans ce qui reste de lumière.
+
+['moi', 'cela', 'ça', 'sûr', 'elle']	Ophélie	— Pour [MASK], elle m’agace. Elle se noie ? Qu’elle s’arrange pour flotter. Si je l’aimais ? Je l’aimais, certes, mais ses yeux étaient comme une mer impitoyable qui renvoie à la côte tous les morts.
+
+['Amélie', 'Elle', 'Il', 'Tout', 'Chacun']	Renée	[MASK] n’en faisait qu’à sa tête, et bientôt chavira. J’avais rassemblé dans un placard des œufs percés d’alouette, des chromos, mes soldats de plomb invalides, et tout cela formait le musée Amélie.
+
+['il', 'Il', 'qui', 'lui', 'Lui']	Mortonne	Arrêté justement près de la boutique, il s’étonnait de n’avoir jamais eu, comme devant ce menuisier, le sentiment de sa roture, [MASK] était grand, svelte. Il avait des mains effilées, des cheveux châtains soyeux et courts, des yeux bleus voilés et francs.
+
+['en', 'seul', 'déjà', 'ainsi', 'Jean']	Bernard	On parlait de lui, [MASK], dans deux catalogues. On estropiait d’ailleurs son nom. On mettait un t , à la fin. Inconsciemment, alors qu’il avait dix ans, il avait déjà cherché à se libérer de cette contrainte.
+
+['Marie', 'Marianne', 'Jean', 'Jeanne', 'Camille']	Bernard	On ne pouvait s’y méprendre. Lui ne savait rien. Voilà qu’il laissait grand ouvert le papier compromettant, qu’il regardait sans émoi le ruban bleu que [MASK] avait tendu sur sa poitrine en grand cordon. Le recel s’était bien accompli à son insu.
+
+['Dieu', 'Alexandre', 'chacun', 'Napoléon', 'Louis']	Bernard	Les rues, les fleurs, les fossés s’évasaient sur cette terre convexe. Par quelle vanité, par quelle peur [MASK] la délaissait-il pour une ville, où l’on doit loger dans les coins la nuit, le soleil ?
+
+['moi', 'vous', 'lui', 'philosophe', 'Napoléon']	Sainte-Beuve	Il ne réussissait à avoir sur un sujet l’idée originale qu’en se demandant : — Et un homme intelligent, [MASK] par exemple, que penserait-il de cela ? Il ne réussissait ses conférences que s’il les avait commencées en se répétant :
+
+['Pourquoi', 'Quoi', 'Comment', 'Combien', 'pourquoi']	Ophélie	qu’une de ces fleurs s’effeuille, et je ne la tuerai pas… Horrible silence, horrible surdité. Qu’elle meure !… Ombre de cet oiseau, et toi, grondant tonnerre, et vous cortèges de gondoles avec vos chœurs, vous êtes en retard d’une seconde ! [MASK] ?
+
+['moi', 'monsieur', 'Monsieur', 'Monseigneur', 'madame']	Charlie	? — Comment voulez-vous que je le sache, [MASK] ? Certainement ils en ont. — Et elles ne s’unissent point, pour protester ? Il n’a point perdu encore l’habitude de rougir, quand il parle des femmes.
+
+['Non', 'Oh', 'Allons', 'Mais', 'Ah']	Jacques	Elle la retient, elle la presse avec effusion. — Mon ami qui devinez tout. Regardez-moi donc, enfin ! Devinez ! Sur les larmes flottent ses prunelles en détresse, pauvres bouées. — Vous aimez quelqu’un ? — [MASK], ne me torturez pas.
+
+['Elle', 'Il', 'Marie', 'Jeanne', 'Camille']	Cressida	Il suffirait de lui incliner la tête pour qu’ils basculent. [MASK] sans cesse ouvre la bouche et sans cesse halète. Elle n’a jamais dû se voir dans une glace : elle fait trop de buée. Ses cils qui s’entrecroisent démêlent sans peine son regard.
+
+['Marie', 'Catherine', 'Louise', 'Marguerite', 'Sophie']	Bernard	Elle dut se mettre au lit, tout de suite, sans souper… C’est ainsi que [MASK] s’ingéniait à styliser chaque acte de sa journée, chaque paysage, chaque émotion. C’est ainsi que certaines abeilles se construisent des gâteaux dont les logettes sont plus finement sculptées.
+
+['Marie', 'Jeanne', 'Marguerite', 'Louise', 'Jules']	Clotilde	il ne cachait jamais que ses parents étaient drapiers, qu’ils s’appelaient Jules et [MASK]. C’est sur leur passé seulement que la fantaisie reprenait ses droits : son père, maître de forges, ruiné en 1870, avait consacré jusqu’à la fortune de sa femme au paiement de ses créanciers
+
+['Il', 'Paul', 'On', 'John', 'Charles']	Bernard	[MASK] était consterné et jaloux. Il ne savait dans quel esprit de flatterie, il s’ingéniait, lui, à plaisanter et à égayer ses camarades. Il interrompait les discussions sérieuses par des boutades, et donnait pour excuse son humour, qu’il disait anglais.
+
+['Paul', 'Jean', 'Georges', 'Pierre', 'Charles']	Bernard	Arrêtons-nous à ce café. Je paie une glace. C’est avec lui-même que [MASK] discutait ainsi. Depuis quelques années déjà, il se surprenait à parler tout haut. Dans sa chambre, il arrivait encore, par n’importe quelle humeur, à se taire.
+
+['non', 'Monsieur', 'monsieur', 'Madame', 'madame']	Jacques	— Vous n’aimiez pas à tuer les petits oiseaux, dans votre enfance, ou les chats ? Vous ne découpiez pas les personnages de vos albums pour les mutiler ou les brûler ?… Oh ! [MASK], ne me regardez point ainsi. À qui ressemblez-vous qui avait un nez pareil
+
+['Il', 'Paul', 'Pierre', 'Antoine', 'Jean']	Bernard	[MASK] prit le parti de s’éveiller gaiement. Il avait ses raisons. Il avait lu en se couchant un conte où deux amoureux se poursuivaient en riant dans le lit, à coups d’oreillers et il concevait à merveille, ce matin, l’amour folâtre.
+
+['Elle', 'elle', 'Suzanne', 'Catherine', 'Marie']	Benvenuta	[MASK] s’incline ; elle est le contraire de ces portraits qui sourient seulement quand on les regarde. Son visage est toujours grave, mais vous sentez, à mille fossettes, à mille ressorts, qu’elle se met à sourire dès qu’elle est seule.
+
+['On', 'Il', 'Chacun', 'Renault', 'Ford']	Aventurin	Causons franc. Qu’est-ce qui vous intéresse dans la vie ? Je me taisais. — La plupart de vos camarades savent ce qu’ils veulent ou ce qu’ils voudront. [MASK] a exposé des projets de moteur.
+
+['il', 'on', 'Il', 'lui', 'et']	Barbassoie	Mais, le soir, il m’écrivit à propos d’un livre oublié. Il avait dessiné en marge de sa lettre la vue que nous avions de notre place, les prairies, la Nature ; il s’était forcé à être gai ; [MASK] brandissait un sabre ;
+
+['Il', 'Dieu', 'Lui', 'On', 'Tout']	Milton	Sans se douter que nos lèvres se trouveront plus sûrement, ses yeux visent seulement mes yeux. Et il vient une seconde où je me vois ; et, me reconnaissant, je dois sourire : notre premier baiser en devient plus large. [MASK] est bien mort.
+
+['monsieur', 'docteur', 'Monsieur', 'professeur', 'Docteur']	Bovy	Un jour enfin, comme on lui avait confié par intérim le registre de correspondance, il osa me rejoindre et ne me quitta plus. Grave, docile, il rêvait continuellement. De la chaire on l’interpellait. — Que faites-vous, [MASK] ? — Je pense.
+
+['Il', 'qui', 'On', '«', 'il']	Bernard	[MASK], au terme de chaque soirée, renonçait à se duper soi-même. Il repassait sans pitié ses mensonges, ses improvisations de la journée : il enlevait ses faux bijoux. Son grand-père n’était point capitaine de louveterie ;
+
+['il', 'elle', 'on', 'Louis', 'Charles']	Bernard	Du jardin, à travers champs, [MASK] descendit jusqu’au bourg. Ses pas sonnaient à peine sur l’honnête sol français, de vrai terreau, pur de tout alliage de cuivre ou d’or. Des aubiers centenaires jalonnaient par toises et par coudées le cours des ruisseaux.
+
+['Voltaire', 'cela', 'Descartes', 'Platon', 'Diderot']	Dolorès	Pourquoi toutes ses idées avaient-elles donc, dès qu’un autre les contestait, comme la tapisserie la plus parfaite, un envers incompréhensible et laid. Pourquoi aurait-il eu maintenant de la mauvaise foi à contredire [MASK] ?
+
+['soudain', 'parfois', 'moi', 'quelquefois', 'naturellement']	Renée	Tous les indifférents que j’avais aperçus dans des ambassades ou à des lunchs paraissaient s’y être donné rendez-vous. Tout cela était mesquin, ridicule, et cependant, [MASK], le désir me prenait alors d’entrer à cheval, vous en croupe, dans nos villes reconquises.
+
+['Marie', 'Paul', 'Pierre', 'Alice', 'Jeanne']	Dolly	J’ai dormi sur le côté gauche, il faudra repasser chez le coiffeur. Où est ma glace ? À quoi ressemblé-je, ce matin ? — Votre visage est dur et dédaigneux, me disait un jour [MASK]. Vos yeux sont humbles, tendres, innocents.
+
+['lui', 'Pierre', 'Jean', 'Louis', 'Paul']	Bernard	Pauvre adjudant ! Pauvre chien du quartier ! Il ne lui en voulait point. Car ce n’était pas seulement par impuissance à les contredire que [MASK] donnait toujours raison à ses interlocuteurs, c’est qu’il en avait pitié.
+
+['Juan', 'José', 'Carlos', 'Antonio', 'Rosa']	Manuel	La fourchette de mon père, bousculée, tourna comme une boussole et indiqua la nuit. — C’est une petite fille. Don [MASK], qui vous enseigna à verser des larmes. C’est votre cousine Renée-Amélie, qui couchait près de vous, le soir où les révolutionnaires prirent le palais.
+
+['Il', 'Elle', 'On', 'Pierre', 'Marie']	Bernard	Un silence hostile faisait de la chambre un cube parfait. La nuit, les choses ne reconnaissent leur maître que s’il les appelle, comme les chiens. [MASK] appela par leur nom les plus revêches. — Bonjour, pendule ! Elle se mit à ronronner ;
+
+['messieurs', 'Monsieur', 'Madame', 'madame', 'Messieurs']	Altesse	Veillez, [MASK], à vos paroles. L’amour n’a rien à voir ici. On ouvre les fenêtres sur la campagne. Un tzigane, dans la salle à manger, joue avec tant de dévotion que les maîtres d’hôtel deviennent songeurs. Le violon se tait.
+
+['Qui', 'Il', 'On', 'Elle', 'Tout']	Troie	Il n’y a plus sur la mer, pour nous guider, que les roses tombées de la poupe. Partons, elles surnagent encore. Partons… À moins que ma terrasse ne tangue et ne roule, berçant ma peine. Partons, pour être sur un vaisseau. [MASK] devait périr.
+
+['né', 'riche', 'heureux', 'beau', 'aimé']	César	D’autres jours, son visage se ride, ses joues défaillent, il semble qu’on doive alors le consoler de la première chose venue, d’avoir manqué sa vie, de n’être point [MASK], de ne point aimer les babas.
+
+['Il', 'On', 'Elle', 'Dieu', 'Chacun']	Bernard	Lorsqu’on regarde fixement les mots les plus communs, ils se désagrègent, deviennent méconnaissables, reprennent pour une minute l’aspect de leur ancêtre hébreu ou saxon. [MASK] regardait à la loupe ses actes et ses gestes les plus indifférents. Ils avaient une base d’or.
+
+['Platon', 'Descartes', 'Kant', 'Pascal', 'Socrate']	Bossuet	Il risqua le tout pour le tout : il abaissa brusquement les paupières, il refit son contrôle, bravant les conditions déplorables. Bien lui en prit, ce fut un éblouissement. Des gerbes, des rivières, des fusées étincelèrent. Le disciple de [MASK], sobre, incisif, un peu grandiloquent, aurait murmuré
+
+['là', 'etc', 'regarde', '...', '[...]']	Bernard	du train qu’il proclamait immobile, il lâchait vers l’horizon, comme une élastique qu’on détend, les villages, les bosquets que ses yeux avaient retenus une seconde. Il éprouvait aussi le besoin de mettre un drame dans sa pensée : — Regarde cette femme, [MASK].
+
+['lui', 'eux', 'elle', 'ailleurs', 'André']	Étienne	Lune chaste, seul astre honnête… Le soleil entend tout cela. Et aussi le garde des Tuileries qui hausse les épaules. Je m’écarte d’[MASK], insensiblement. Singulier ami ! À mesure que je m’éloigne de lui, il me semble moins le connaître ;
+
+['Bourbon', 'Castro', 'Vega', 'Portugal', 'Luna']	Bragance	— Don Manuel de [MASK], fait-elle, duc de Tacna… Est-ce une révérence ? est-ce un regret ? Les femmes ont ainsi des gestes qui ne lancent rien. Comme mon petit bull, quand on feint de lui jeter une pierre, nous nous élançons, et rien ne retombe.
+
+['lui', 'elle', 'Paul', 'Jean', 'Pierre']	Georgette	Au début de la liaison, il se méfiait, comme un passager novice se défie du mal de mer, le redoutant mais le taquinant. Chaque jour, à mesure que l’amour et l’habitude l’attiraient avec plus d’ardeur vers [MASK], il croyait découvrir en lui les indices d’une irrésistible répulsion.
+
+['</s>NOTUSED', 'Elle', 'Il', 'Marie', '—']	Bernard	Les fils de la Vierge pendaient tout droits. C’était peut-être eux, comme les fils suspendus dans les halls du Conservatoire, qui donnaient au ciel cette acoustique divine. [MASK], pour essayer sa voix, voulut appeler une gamine qui vendait du mimosa. —
+
+['Oui', 'Oh', 'Moi', 'Ah', 'Hélas']	Jacques	— [MASK], cher ami, seul ami, je crois que je vais mourir. Mon médecin ne veut pas l’avouer. Mais je tousse, je souffre. Dans un mois, je serai sous un suaire, livide. — Mon amie, à quoi pensez-vous ?
+
+['Madame', 'Monsieur', 'monsieur', 'alors', 'madame']	Jacques	Je transpose simplement, en son honneur, d’une gamme, toute ma vie. — Pourquoi êtes-vous triste, [MASK] ? Je ne suis pas triste. Je suis même gai à tirer les sonnettes dans la rue, mais je ne la ferai pas mentir.
+
+['Il', 'il', 'Joseph', 'On', 'David']	Bernard	[MASK] était heureux d’être un homme. — Tu es pauvre, et sans espoir d’hériter jamais. Tu n’es pas beau : tu as l’air souffreteux d’une antilope, avec tes cheveux fauves, avec tes yeux doucereux…
+
+['chacun', 'lui', 'Pierre', 'Monsieur', 'Jean']	Bernard	– ainsi cet être nouveau serait incapable de retenir, d’enlacer. Elle caresserait comme un oiseau, frémissant, sans pouvoir étreindre. Il suffirait à [MASK] de se croiser les mains derrière le dos pour que l’amour de sa compagne fût impuissant.
+
+['Monsieur', 'Il', 'Jean', 'Pierre', 'Gustave']	Étienne	[MASK], qui me voit rêveur, n’ose me parler de la lune. Il faut que je la remarque le premier. Il me conduit hypocritement au bord du quai : elle flotte sur l’eau, vacille, plonge, un goujon a dû y mordre.
+
+['Elle', 'On', 'Il', 'Madame', 'Maman']	Renée	— Je vous demande si elle vous aime ? — Je n’aime personne plus qu’elle. [MASK] croit que je plaisante. Je plaisante peut-être. Elle rougit : — Alors partez, et qu’on s’embrasse entre cousins ! Je veux poser mes lèvres au hasard.
+
+['Marie', 'Jeanne', 'Catherine', 'Sophie', 'Louise']	Dolorès	Il prit la main de [MASK], lentement, affectant de la prendre à regret. Méfiante et compatissante, elle la donna avec l’appréhension de l’infirmière qui tend son miroir à un homme défiguré. Il s’y regarda longuement. — Je me rappelle, commença-t-il…
+
+['femme', 'Madame', 'madame', 'marbre', 'cire']	Houdon	Où avez-vous pris qu’on façonne des sœurs de vingt ans ? Mais ne vous désolez pas ! Que faut-il pour vous consoler ?… Je vous donnerai pour garnir votre cheminée un buste de [MASK]. Choisissez aussi entre ces trois Watteau. On l’interpellait.
+
+['Il', 'On', 'Lui', 'Elle', '</s>NOTUSED']	Marie-Louise	Mon chien court après chaque marron qui tombe, étonné de voir qu’on peut s’amuser sans les hommes. Un fermier, en redingote et en cache-nez cochenille, de son tilbury haut perché, regarde en fumant le ciel qui craquèle. [MASK] accroche du front un fil de la vierge
+
+['Il', 'Paul', 'Monsieur', 'Jean', 'Pierre']	Étienne	Il n’est pas tard, mais je dîne en ville. [MASK] se tait, il est triste, – tristesse légère sans doute, mais rien de plus difficile à gratter que des taches d’ombre. Je me trompe d’ailleurs, il est joyeux.
+
+['Monsieur', 'Bonjour', 'Moi', 'Voilà', 'Madame']	Jacques	C’était un grand jeune homme barbu qui portait toujours un parapluie, à la façon des instituteurs. Comme eux il était borné et enthousiaste. — [MASK], me dit-il, je suis votre directeur de conscience. Causons franc. Qu’est-ce qui vous intéresse dans la vie
+
+['il', 'Louis', 'on', 'Paul', 'Pierre']	André	Les heures passaient vite à surveiller ce coin du monde, mais [MASK] ne songeait point à s’en amuser ; les détails n’avaient sur lui aucune prise ; il paraissait ne voir la vie que par larges tranches, la récréation, la classe, sa famille.
+
+['on', 'il', 'elle', 'qui', 'et']	Charlie	Il suffit de lui commander le beau, et de couvrir sa tête d’un mouchoir. C’est une dépêche. Une dépêche pour moi, [MASK] me la fait suivre. Peut-être… peut-être… pourquoi l’idée m’en vient-elle ?
+
+['Monsieur', '</s>NOTUSED', 'Napoléon', 'Louis', 'Charles']	Charlie	Nos parrains de club nous ont ordonné, pendant une semaine, de ne passer qu’en courant dans les rues : nous serions obligés de trottiner à côté d’elles. [MASK], pris d’impatience, se précipite sur moi et me boxe. Je prends la garde française.
+
+['Dieu', 'Napoléon', 'César', 'chacun', 'Shakespeare']	Bernard	Elle supprimait les obstacles du temps, de l’espace. Elle donnait en tout événement le premier grand rôle à [MASK], qui le tenait avec modestie, et rachetait sa gloire générale, pour sauvegarder la vraisemblance, par des humiliations de détail.
+
+['moi', 'maintenant', 'donc', 'monsieur', 'alors']	Dolorès	On n’aurait eu, comme sur un levier d’aiguillage, qu’à appuyer sur elle pour que l’ombre se levât, et quelque pensionnat, derrière, eût déraillé. — J’ai vingt-trois ans, [MASK]. Et pas un roman, pas un article à mon actif.
+
+['il', 'elle', 'lui', 'Il', 'on']	Bernard	Elle sautait en voltige sur les fauteuils, s’étendait le ventre au tapis. La fatigue et le sommeil tombaient sur elle à l’improviste, la marbrant, la craquelant. En vain. Le jour où il lui découvrit des rides, [MASK] se surprit à les embrasser, comme on embrasse une égratignure.
+
+['madame', '—', 'Madame', 'monsieur', 'Mademoiselle']	Dolly	Le crépuscule lui va bien mal, ses yeux s’enfoncent, son menton sort, son visage entier devient masque ; il ne lui manquerait plus que de sourire pour y ajouter les rides. — Souriez-moi, [MASK]. Tendrement, pauvrement, elle me sourit.
+
+['Elle', 'Il', 'Et', 'Jeanne', 'Lui']	Bernard	Même en ses jours de gaieté, y revenait toute la tristesse de la veille, par épaves… Le train s’arrêtait. Une femme monta. [MASK] se penchant vers la portière opposée ne tourna pas les yeux, se réservant de la contempler tout à l’heure.
+
+['elle', 'Dieu', 'Madame', 'lui', 'Marie']	Charlie	C’est alors que la jalousie m’éveilla et que j’allai, écartant les rideaux, regarder la lune d’étain où la terre mire un œil qui rit, un œil qui pleure et deux lèvres inoccupées Mais [MASK], qui surveille la rue, me lance d’une brassée tous les coussins de cuir à franges
+
+['Il', 'Elle', 'On', 'Jeanne', 'Marie']	Bernard	Une étoile de mer était accrochée à un ruban. Un sabre pendait à une écharpe. Tout devenait une médaille chez l’oncle Golaud, chevalier de la Légion d’Honneur. [MASK] l’embrassa. — Mon oncle, je viens te demander un conseil, un ordre.
+
+['Oui', 'Monsieur', 'Moi', 'Madame', 'Alors']	Jacquou	— [MASK], je vous promets d’être tranquille un jour entier. Au printemps, si vous voulez, nous irons dans une campagne où il n’y aura ni mulots, ni mouches, ni araignées. Vous me ferez boire au départ une liqueur qui engourdisse.
+
+['elle', 'il', 'on', 'Elle', 'Alice']	Bernard	Elle avait ses épaules arrondies, à douter qu’elle pût lever les bras, cueillir des cerises, et elle avait maintenant, comme elle, le privilège de ressembler à une merveille disparue. Déjà [MASK] s’habituait à l’idée de vivre à son côté.
+
+['lui', 'cela', 'tout', 'ça', 'moi']	Bernard	; dix lignes du Directeur de la Revue des Deux Mondes : La Revue désirait enfin un roman de vrai jeune ; ce jeune pouvait être inconnu, il devait même l’être ; il suffisait qu’il eût du talent : le comité avait pensé à [MASK]…
+
+['Il', 'Elle', 'On', 'Et', 'Puis']	Bernard	Il se frottait les mains. Il concluait : — L’amour est le roi du monde. [MASK] regardait avec pitié le front exsangue, les joues gonflées du vieillard. Ce visage de cire, en plein midi, semblait toujours éclairé par le dernier rayon du soleil.
+
+['Marie', 'Pierre', 'Jean', 'Jeanne', 'Alice']	Bernard	— Je m’appelle [MASK]. Accompagnez-moi jusqu’à la forêt. Soumise, elle posa son ouvrage et se rangea près de lui ; ils partirent. Ils avaient échangé leurs prénoms comme on échange des anneaux de fiançailles, et chacun, dans son esprit, jouait avec celui de l’autre.
+
+['lui', 'eux', 'elle', 'Paul', 'Dieu']	Bernard	Pauvre cher homme de tuteur, il avait été bien trompé ! Aujourd’hui qu’ils étaient absents, leur maison peu à peu s’abandonnait à [MASK]. Les murs, les couleurs s’effritaient. Il allait profiter de sa solitude pour vivre toute la journée en poète et en gentilhomme.
+
+['elle', 'Jeanne', 'Marie', 'maman', 'Madeleine']	Marie-Louise	Mais [MASK] ne souffre point qu’on la croie triste. — Maman est aux provisions, dit-elle, et je prévois que nous aurons ce soir un canard rôti. « Canard » est le seul mot qu’elle ait pu retenir et je crois qu’elle cède un peu au plaisir de le prononcer.
+
+['moi', 'Voltaire', 'Charles', 'Alexandre', 'Pierre']	Benvenuta	Il hait les romans. Le gouverneur trouve moyen de me regarder par dessus son monocle. — Je hais les romans français, affirme-t-il. — Vous haïssez, interroge [MASK], ceux où les jeunes gens deviennent amant et maîtresse ?
+
+['Lui', 'Il', '</s>NOTUSED', 'Paul', 'Jean']	Bernard	Les corbeaux aussi s’enfuyaient. Pourquoi fallait-il, alors que les balles ne l’avaient même pas effleuré, qu’il eût une ampoule au pied gauche ? Un vieux monsieur parlait de frères et de sœurs à la table voisine ? [MASK], qui était fils unique, songeait.
+
+['Il', 'Louis', 'On', 'Charles', 'Elle']	Bernard	— Tu ne m’en as guère demandé pour tes palmes. Que deviens-tu ? Bonjour. [MASK] s’était vanté, dans une lettre à ses parents, d’avoir refusé le titre d’officier d’Académie. Le capitaine trouvait de mauvais ton celle répugnance.
+
+['Monsieur', 'Madame', 'madame', 'monsieur', 'messieurs']	Jacques	Vous, [MASK], que désirez-vous ? Je n’avais aucun désir sur commande. — Vous viendrez déjeuner après-demain chez moi, conclut-il. Tâchez, en ces deux jours, de trouver quelque sens à votre vie… Et il est inutile que vous cherchiez de mille côtés…
+
+['?', 'Il', '«', 'lui', 'Lui']	Bernard	? [MASK], le jour de la guerre, y pénétrait le premier. C’était logique, puisqu’il était le premier par rang de taille de la première escouade, qui fournissait les éclaireurs. Le village l’acclamait ;
+
+['travers', 'tout', 'elle', 'par', 'cela']	Benvenuta	-elle. Parlez-nous de l’affection ! Est-il vrai aussi que les Françaises se fardent ? On aurait envie de répondre à [MASK] un long discours dont chaque phrase affirmerait le contraire de celle qui l’a précédée. Je suis sûr qu’elle ne s’en apercevrait point.
+
+['Il', 'On', 'Antoine', 'Pierre', 'Chacun']	Bernard	[MASK] ressentait une envie délicieuse de se boucher les oreilles, de fermer les yeux. Il les ferma, il frissonna, stupéfait : On pouvait avoir la nuit chacun pour soi. On pouvait s’asseoir par petites tables à son festin. Un coup de sonnette interrompit son jeu.
+
+['monsieur', 'Monsieur', 'madame', 'Madame', 'vous']	Bernard	— Ce que vous avez, [MASK], c’est le péché de l’esprit. — Le péché de quoi ? — Chacun de vos sentiments contient, pour le ronger, un ver. Vous êtes de la race des sombres.
+
+['Elle', 'Madame', 'Il', 'Marianne', 'Mademoiselle']	Benvenuta	— Qu’est-ce que je n’ai point l’honneur de comprendre ? — L’amour. [MASK] se croit seule : elle sourit. — C’est cela. Altesse, supplie-t-elle. Parlez-nous de l’affection ! Est-il vrai aussi que les Françaises se fardent
+
+['Marie', 'Catherine', 'Mathilde', 'Marguerite', 'Clara']	Dolorès	Il se promettait, le jour où il deviendrait l’ami de [MASK], d’écarter de leur passion toute allure fatale. Ils se pousseraient, le matin à grands coups de pieds sur la descente de lit, alternativement, selon l’heure de leurs cours ;
+
+['maman', 'madame', 'Madame', 'elle', 'Maman']	Renée	– C’est que [MASK] est trop pauvre, c’est que je n’épouse point sans dot. Il eût menti en ne se disant pas : – C’est que ma mère en serait malheureuse. Il ne l’épousait pas, et voilà tout.
+
+['cette', 'la', 'le', 'ce', 'son']	Dolorès	Et il s’en trouvait humilié, car ce n’était pas la première fois qu’il essayait de se surprendre un cœur amer et compliqué. Que de fois, auprès de son ancienne amie, il avait cherché à éprouver le malaise, le dégoût qu’annonçait [MASK].
+
+['tout', 'Paris', 'lui', 'chacun', 'Rome']	Bernard	Il travaillait avec soin et indifférence. Les poules piétinaient les copeaux : il les chassait sans juron et sans geste. Une automobile lui demandait la route : il répondait sans dédain et sans condescendance, alors que [MASK] déjà s’agitait ;
+
+['bronze', 'Vénus', 'marbre', 'pierre', 'Jupiter']	Memnon	; un petit dieu égyptien cloué sur son siège : il était taillé dans le même porphyre que les statues de [MASK], le soleil couchant arrivait sur lui, une minute, et, comme elles, il allait doucement se plaindre.
+
+['toi', 'Seigneur', 'alors', 'papa', 'Monseigneur']	Étienne	— À ton aise, fait-il. Je ne lui ai pas écrit, j’ai écrit au pape. Il n’en sera pas quitte ainsi. — Pourquoi mens-tu toujours, [MASK] ? Pourquoi mens-tu avec cette obstination… Pose ce vase en attendant.
+
+['Pierre', 'Il', 'Paul', 'Jean', 'Jacques']	Étienne	Nous la suivons. Elle disparaît par la première porte cochère, alors que nous espérions l’avoir pour nous seuls au moins jusqu’au prochain coin de rue. [MASK] est désespéré. Il l’adorait. Il doit avoir trouvé une consolation, car il chantonne.
+

@@ -1,0 +1,200 @@
+['nouveau', 'peine', 'merveille', 'demi', 'dessein']	Maria	Dans sa lettre, il répétait à [MASK] ces protestations, ajoutant encore : « Si je me soumets momentanément à la volonté de mon père, c’est que je crains en me révoltant de te déplaire, et puis j’espère encore le fléchir par ma soumission ;
+
+['ceci', 'plus', 'à', 'cela', 'principalement']	Rosalie	« Comment ! déjà ? La comtesse ne répondit rien, et redevint pensive. Après son déjeuner elle appela [MASK] : « Es-tu bien fatiguée dé ton voyage ? » lui demanda-t-elle. « Non, madame, pas du tout ;
+
+['elle', 'il', ',', 'lui', 'mère']	Mattea	[MASK] avait conservé sa piété du couvent, qui, poétiquement enveloppée dans son amour maternel, était devenue plus douce et plus agréable. Elle éprouvait chaque jour un plaisir sensible à invoquer pour sa fille la puissante protection de Celle qui pouvait combler l’enfant de faveurs et de vertus.
+
+['non', 'oui', 'et', ',', '...']	OMattea	«[MASK], ! le plus grand des cœurs que j’aie jamais connus ! A votre place, une autre aurait été jalouse et m’aurat détestée, vous, vous avez redoublé d’amour pour moi, et vous avez travaillé sans cesse à m’en inspirer pour lui
+
+['les', 'le', 'la', 'tous', "l'"]	Mattea	elle prit avec douceur la note, assura qu’elle serait payée sous peu de jours, puis elle monta à sa chambre reprendre le cours de ses pensées. Les trois semaines qui suivirent furent trois semaines d’extase et de ravissement pour [MASK]. Elle aimait et se croyait aimée
+
+['elle', 'qui', 'et', 'marguerite', 'jeanne']	Rosalie	Restée orpheline de bonne heure et fille d’un fermier du comte, [MASK] était entrée enfant chez la comtesse, qui avait réussi à en faire ce qu’elle était alors, une femme de chambre fidèle et dévouée à sa maîtresse, qui la traitait avec une bonté presque maternelle.
+
+['on', 'il', ',', 'chacun', 'monde']	Umberto	[MASK] fréquentait sa loge, mais ne s’y installait jamais ; on y voyait beaucoup plus souvent le comte d’Astrengo, l’officier dont je vous ai parlé, très-bel homme, quoiqu’il ne fût plus tout à fait de la première jeunesse.
+
+['et', 'celui-ci', 'maurice', 'qui', 'pierre']	Tancredi	Appuyé à l’un des poteaux d’une petite treille qui longeait la maisonnette, [MASK], plus matinal encore que sa belle maîtresse, la contemplait en s’applaudissant intérieurement d’une joie dont il était en grande partie la cause.
+
+['moi', 'toi', 'pourquoi', 'vous', 'comment']	Léonel	Elle en aime un autre ! se dit-elle... Et [MASK], alors... ? Il souffrira donc ce que j’ai souffert ?... O mon Dieu ! éloignez de lui ce calice ! La sueur inonda son front, elle éprouva un immense déchirement de cœur.
+
+['il', 'elle', 'et', 'celui-ci', 'on']	Mattea	Je suis de mauvaise humeur : j’ai tort. Vous voyez que si je ne marchande pas mes expressions, je m’en accuse entièrement. Convenez au moins que je suis bon enfant. » Et en parlant ainsi, le grossier personnage fit mine d’embrasser sa femme. [MASK] se recula.
+
+['quoi', ',', 'plus', '"', 'que']	Umberto	On frappa à la porte. « Entrez, » dit-il du même ton qu’il aurait dit : Enterrez-moi. « Le domestique de madame la comtesse attend une réponse, » lui dit-on. « Une réponse ! cria [MASK] ; il faut donc faire une réponse
+
+['bataille', 'garde', 'celle-ci', 'combat', 'juda']	Mattea	« Allons, ma chère amie, il faut en finir avec cette douleur exagérée ; notre enfant est morte, mais nous pouvons en avoir d’autres. » Un frisson parcourut tout le corps de [MASK] ; une invincible sensation d’horreur, de dégoût, s’empara d’elle.
+
+[',', 'et', 'toujours', ';', 'debout']	Astrengo	en face d’elle [MASK], un bouquet de violettes et de muguets à la boutonnière, l’enveloppait de son langoureux regard. J’ai souvent pensé depuis lors à ces fleurs, et je me suis persuadée qu’elles avaient été choisies dans le gros bouquet cueilli dans la journée par la comtesse.
+
+['liberté', 'bonheur', 'justice', 'travail', 'repos']	Maria	La charmille se dépouille, les marronniers jaunissent, il y avait du vent, le chemin était jonché de feuilles : le pressentiment de [MASK] s’accomplissait-il ? Je la trouvai toujours sous le hangar, mais non plus dans la brouette ;
+
+['il', 'elle', 'et', 'qui', 'on']	Lidia	Il n’était donc pas venu ? C’était déjà la seconde fois qu’il manquait à ses habitudes. Depuis plusieurs jours, [MASK] n’avait pu recevoir personne. Triste, irritée, la vue de ses fleurs flétries acheva de l’exaspérer ;
+
+['il', 'elle', 'on', 'chateaubriand', 'lui-même']	Gianori	Et elle sourit d’un malicieux sourire, en reprenant toute sa gaieté. Cet instant d’examen lui avait rendu son assurance première. Elle se sentait maintenant capable de braver l’univers, de repousser la vieillesse et son hideux cortége, dont [MASK] avait si malencontreusement évoqué le fantôme sous ses pas.
+
+['marie', 'caroline', 'diane', 'marguerite', 'sophie']	Mattea	De lui apparut pas bien distinct à travers ses larmes. Une heure s’écoula ; le mari de [MASK] se réveilla, et se traîna, selon sa coutume, hors du salon pour gagner sa chambre ; en passant par la galerie, il aperçut sa femme.
+
+[',', 'il', 'qui', 'elle', 'comte']	Rosalie	[MASK] le fit arrêter et ordonna au cocher de conduire la comtesse aussi près que possible de sa demeure ; la soubrette aida ensuite sa maîtresse, dont les jambes fléchissaient, à monter dans la carriole, et abaissa sur son visage bouleversé un voile épais.
+
+['peine', 'distance', 'qui', 'dessein', 'droite']	Rosalie	Un laboratoire de pharmacien occupait le rez-de-chaussée. « Va donc acheter tes lichens, dit la comtesse en indiquant à [MASK] la boutique en face, dont l’obscure enseigne ne se pouvait lire à travers la rue. Je t’attendrai ici en faisant aussi des emplettes. »
+
+['"', 'elle-même', ',', ')', 'à']	Mattea	du plus loin qu’elle aperçut [MASK], à laquelle elle aimait à donner ce titre de parenté. « Si vous tenez à entendre un sermon en-quatre points, ajouta la rieuse enfant, vous pouvez aller prendre ma place sous le grand tulipier. « Ah !
+
+['jésus', 'marie', 'jeanne', 'dieu', 'paul']	Luigino	De ce malentendu, de ces fausses suppositions il arriva que la pauvre fille se persuada qu’il y avait un changement dans le cœur de [MASK], comme il y en avait dans ses lettres. Il ne m’aime déjà plus autant, se dit-elle ;
+
+['</s>', '"', 'merci', '--non', '_']	Umberto	« Oh ! mon Dieu, dit-elle, j’ai été si occupée hier que je n’ai pu remplir la coupe. [MASK], donnez-moi la petite boîte que vous avez là, je disposerai tout de suite les fleurs fraîches. »
+
+['il', "n'", 'temps', "m'", "c'"]	Alexandre	[MASK] était absent : je m’acheminai, simplement accompagnée cette fois par mes deux filles, vers la ferme du petit vallon, choisissant pour m’y rendre le chemin le plus solitaire. La campagne était déserte, la solennité du dimanche attirant les habitants aux villages voisins ;
+
+['elle', 'celle-ci', 'jeanne', 'marie', 'il']	Mattea	? Peut-il y avoir du danger dans de tels sentiments ?... Non, non, le serpent ne se cache pas sous ces fleurs là : leur parfum d’innocence le tuerait ! Puis [MASK] ne put s’empêcher de faire un retour sur elle-même.
+
+['je', 'elle', 'on', 'tu', "j'"]	Lidia	Gare alors si [MASK] le rencontrait dans la journée sans sa petite livrée, comme elle l’appelait : elle grondait et boudait même jusqu’au lendemain. Au premier moment de bonne humeur, la grande enfant recommençait pourtant ses prières, ses exigences et ses gronderies.
+
+['re', 'y', 'lui', 'elle', ',']	Mattea	; on repassait la robe, cirait les souliers, mettait des gants de coton fraîchement lavés, et ainsi attifée [MASK] paraissait devant son père, qui, n’y regardant pas de très-près, ne la trouvait pas plus mal qu’une autre.
+
+['</s>', 'elle', '-', 'il', 'comte']	Lidia	Le lendemain il se présenta à l’hôtel pour demander des nouvelles du comte. [MASK] lui en fit donner en ajoutant qu’elle était trop occupée auprès du malade pour le recevoir. Pendant trois jours il en fut de même ;
+
+['il', 'elle', 'celui-ci', 'celle-ci', ',']	Luigino	ses lèvres annonçaient la droiture et la bonté, qualités qui faisaient que, malgré la supériorité de son éducation, [MASK] n’excitait pas la jalousie de ses camarades et en était même aimé. Quel souci le faisait donc marcher triste et rêveur, dans des sentiers écartés, un jour de dimanche surtout ?
+
+['</s>', 'elle', 'il', 'on', 'marie']	Mattea	« Petite tante, dit-elle, il n’est pas venu !... Je l’ai attendu trois heures !... Oh ! il est malade, j’en suis sûre. » [MASK] s’efforça d’abord de tranquilliser la jeune fille, ensuite elle la gronda doucement de son imprudence.
+
+['un', 'hélène', 'henriette', 'édouard', 'annette']	Esther	Quand elle l’eut perdu de vue, elle se jeta sur son lit sans fermer ses volets, car elle n’avait plus sommeil. Ses yeux se fixèrent sur le portrait d’[MASK], que peut-être elle n’avait plus regardé depuis le jour de son arrivée ;
+
+['"', 'elle', 'la', ',', 'qui']	Mattea	» [MASK], d’une forte constitution, prit goût aux plaisirs, aux travaux même de la campagne ; elle passait une partie de ses journées en plein air : qu’aurait-elle fait, du reste, toute seule à la maison, ou vis-à-vis de son mari ?
+
+['il', 'celui-ci', 'tout', 'charles', 'jean']	Edmond	En voyant entrer la comtesse, [MASK] se troubla, se confondit en excuses, assurant qu’il n’avait pas eu la hardiesse de chercher à la voir, qu’il désirait simplement retirer son catalogue pour connaître les livres choisis par elle et les lui envoyer au plus tôt.
+
+['</s>', 'elle', 'il', 'ne', 'on']	Maria	; il ne l’avait pas fait, tel était son tort. [MASK] le lui avait pardonné ; je serai plus sévère qu’elle, et ne l’excuserai qu’à demi ; mais j’atteste que son repentir était sincère.
+
+['dieu', 'elle', 'lui', 'autrui', 'la']	Léonel	Sa pensée, sans cesse tournée vers [MASK], interprétait favorablement toutes ses actions. Était-il gai, c’était le plaisir de la voir ; était-il triste, c’était de l’anxiété, la crainte qu’il avait de ne pas être aimé.
+
+['il', '...', 'elle', 'et', '-']	Mattea	En revanche, [MASK] avait à faire voir à ses compagnes une montre d’émail vert avec des guillochis en or. L’amie intime, qui était aussi une jeune fille de seize à dix-sept ans, mais fort jolie et à la mine éveillée, fut éblouie et poussa un cri d’admiration
+
+['"', 'lui-même', '_', ':', 'lui']	Mattea	; elle en vint à trouver du charme aux entretiens du baron, à se reprocher de ne l’avoir pas mieux apprécié : ce fut le second pas. Bientôt elle lui soumit ses idées et ses lectures, le consulta comme le faisait autrefois [MASK] ;
+
+['reine', 'mélodie', 'princesse', 'colombe', 'marguerite']	Mattea	Mais presque aussitôt revenue à elle, elle éclata tout à la fois en sanglots et apparentes démonstrations de joie : c’était la première fois que la calme et douce [MASK] manifestait librement les élans du cœur passionné qui battait dans sa généreuse poitrine.
+
+['</s>', 'elle', "j'", "m'", 'cela']	Alexandre	Leur père, qu’elles avaient laissé à quelques pas de là, leur faisait force signaux inutiles, car les petites folles ne se retournaient même pas et riaient aux éclats en m’embrassant tendrement comme elles l’auraient fait certainement au bord du plus dangereux précipice. [MASK] arriva.
+
+['lui', 'moi', 'dieu', 'toi', 'lui-même']	Gustave	Pourquoi ce second rendez-vous, maintenant qu’elle savait l’amour de [MASK] ? Elle devait faire tous ses efforts pour mériter le consentement de ses parents à son mariage, mais se conduire en honnête fille et fuir les occasions de se trouver seule avec son cousin.
+
+['celui-ci', 'lui', 'celle-ci', 'elle', 'maurice']	Léonel	sans doute il m’offrira son bras pour retourner chez moi. Et cette pensée fit tout d’un coup battre le cœur de la jeune femme avec une vitesse inaccoutumée. Mais [MASK], encore distrait, ne lui adressa qu’un salut, et rentra au château avec la comtesse.
+
+['elle', 'il', 'et', ',', 'ou']	Mattea	mais au premier mot qu’il hasarda [MASK] détourna habilement la conversation ; une seconde tentative ne fut pas plus heureuse ; enfin, comme il revenait une troisième fois à la charge, elle se leva, le prit par la main et le conduisit tout en face du portrait de l’enfant.
+
+['jésus', 'dieu', 'moi', 'marie', 'chacun']	Lidia	Oh, non ! je ne le veux pas. En mettant ma main dans la main de [MASK], il faut que je puisse lui dire : Mon amie, ma blanche ermine, associons sans crainte nos deux noms : pour toi, je les ai préservés de toute souillure ;
+
+['</s>', 'il', '-', 'on', '...']	Léonel	il le sait du reste aussi lui-même, et c’est peut-être ce qui le rend si triste ; le fait est qu’il est méconnaissable depuis quelques jours. » [MASK] vint précisément en ce moment interrompre le tête-à-tête des deux femmes pour leur offrir des rafraîchissements que l’on passait au salon.
+
+['nous', 'lui', 'elle', 'moi', 'soi']	Louise	se répétait-elle avec une sorte d’égarement qui la retenait silencieuse devant [MASK]. « Eh bien, reprit la jeune comtesse, tout inquiète de ce silence, qu’y a-t-il donc ? Est-il arrivé quelque malheur à ma belle-sœur ? N’est-elle point allée chez vous
+
+['elle', ',', 'et', 'il', ';']	Diane	[MASK] remercia d’abord cet inconnu par une inclination de tête, et quand il fut à portée de l’entendre, elle lui dit en souriant que le livre ne valait pas la peine qu’il avait prise de le ramasser.
+
+['la', ',', 'madame', 'le', 'marguerite']	Mattea	II Non loin de la ferme enjolivée et pompeusement désignée sous le nom de villa, qu’habitait [MASK], était une élégante et aristocratique demeure, dans laquelle la nombreuse famille de la comtesse de T*** venait chaque année passer la belle saison.
+
+['jésus-christ', 'jésus', 'christ', 'rose', 'chrétien']	Mattea	A cette idée le sang de [MASK] afflua vers son cœur. Confidence de quoi ? se dit-elle, en essayant de chasser brusquement ses pensées. Ce fut en vain, une nouvelle et délicieuse sensation s’était glissée dans son âme, s’en emparait et lui causait un frémissement de bonheur.
+
+['paul', 'thomas', 'jésus', 'pierre', 'david']	Mattea	« Vous êtes triste depuis votre arrivée, dit enfin [MASK] ; je ne vous avais pas laissé ainsi au printemps. « — Oh ! chez moi la tristesse est un état normal, ma douleur s’assoupit quelquefois, jamais elle ne s’endort. « — Pauvre femme
+
+['</s>', 'elle', '_', 'a', '-']	Diane	; il passait chaque jour chez le concierge savoir si madame était arrivée. Ayant appris hier que je devais retourner au chalet, il m’a remis pour madame la lettre que voici. [MASK] prit la lettre, et sans la lire la jeta négligemment sur la table ;
+
+['le', "l'", 'la', 'un', 'celui']	Tancredi	La pauvre soubrette se heurtait à chaque caillou du sentier étroit et pierreux et accrochait sa robe à chaque buisson, maugréant tout bas contre les singulières fantaisies de sa maîtresse, et tout haut contre [MASK], qui avait osé attirer la comtesse dans un pareil guet-apens.
+
+['enfant', 'enfants', 'amour', 'été', 'hiver']	Umberto	Le valet avait ordre d’acheter les fleurs de l’enfant et de les déposer dans le boudoir de la comtesse, qui était censée les disposer dans la fragile porcelaine, tandis qu’en réalité elle les écartait et ne conservait que les fleurs d’[MASK].
+
+['marie', 'celle-ci', 'femme', 'madame', 'sa']	Maria	Une femme entre deux âges vint ouvrir ; cet homme l’interrogea lui-même au nom de [MASK], sans se douter du service qu’il lui rendait, car la voix de la pauvre enfant, retenue par l’émotion de l’anxiété, n’aurait pu sortir de son gosier.
+
+['elle', 'celle-ci', 'nelly', 'alice', 'valentine']	Mattea	après le dîner, et lorsque son mari commençait à s’endormir sur le meilleur fauteuil du salon, [MASK] se rendait au château, s’y arrêtait une, quelquefois deux heures, et revenait accompagnée par l’individu qui cumulait à la villa les fonctions de jardinier et de domestique.
+
+[',', 'tout', '...', '-', 'jésus']	Luigino	— Non, mon enfant, mais j’ai aussi rencontré [MASK] en chemin. Je gardai un instant le silence ; mon intérêt pour la jeune fille et ma curiosité augmentaient à chacune de ses paroles ; je n’osais l’interroger, et je mourais d’envie de connaître son histoire.
+
+['enfants', 'autrefois', 'enfant', 'amour', 'argent']	Umberto	; elle recevait et soignait les fleurs d’[MASK], mais n’essayait plus de lui en placer à la boutonnière. Un jour qu’il lui en avait demandé une, elle traita sa demande d’enfantillage, et la lui refusa...
+
+['se', 'chacun', 'je', 're', 'lui']	Mattea	Alors, inquiète, bouleversée, la pauvre mère se pendit aux sonnettes, éveilla tout le monde pour avoir au plus vite un médecin. Tandis que [MASK] passait à la hâte une robe, l’enfant s’assoupit ; la respiration, d’abord précipitée, se fit plus calme, la chaleur à la peau diminua.
+
+['on', 'il', 'chacun', 'elle', 'tout']	Léonel	Lentement enfin elle se remit sur pied, voulut retourner chez elle, et malgré elle, au contraire, poursuivit sa route vers le château ; bientôt elle se trouva à deux pas de cette grille à côté de laquelle [MASK] était venu plus d’une fois attendre son arrivée ou lui offrir son bras pour le retour.
+
+['dites', 'parlez', 'répétez', 'répondez', 'lisez']	Marie	« Oh ! parlez, parlez, [MASK] : ne comprenez-vous pas que pour que je sois heureuse il faut que je puisse lui donner votre cœur en même temps que votre main ? « — Eh bien, oui, oui, je l’aime !
+
+['oh', 'ah', 'merci', '"', 'bien']	OMattea	«[MASK] ! ce jour est le plus beau de ma vie, lui dit-elle. Il m’aime tant ! Je suis bien heureuse ; mais jamais nous ne pourrons attendre six mois ; je compte sur vous, n’est-ce pas ?
+
+['"', 'monsieur', '-t-il', 'madame', 'elle']	Diane	! » Et après avoir adressé un second salut de tête au jeune homme, elle s’apprêtait à se retirer, lorsqu’il lui demanda avec un redoublement de timidité si elle n’était pas la propriétaire du chalet. « Oui, monsieur, » répondit [MASK].
+
+['en', ',', "l'", '</s>', "qu'"]	Diane	[MASK] ayant enfin aperçu le brave homme s’avança à sa rencontre pour lui serrer la main. « Que c’est beau ! que c’est beau ! s’écria-t-elle, et combien je vous remercie de m’avoir amenée ici ! »
+
+['et', ',', '"', ':', 'ce']	Mattea	aussi [MASK] ne la quittait-elle pas d’un instant. A la ville, lorsque son mari, assis dans un café, buvait de la bière, fumait sa pipe, lisait les journaux en compagnie de gens ses inférieurs par le rang, ses égaux par la grossièreté des propos et les manières
+
+['marie', 'catherine', 'sophie', 'marguerite', 'charlotte']	Luigino	Après le départ de [MASK], elle parla donc longuement à sa fille, et pour la mettre en garde contre les séductions du fils de l’entrepreneur, elle lui répéta ce que, hélas ! la pauvre enfant ne s’était déjà que trop souvent dit à elle-même :
+
+['présent', 'peine', 'nouveau', 'midi', 'propos']	Tancredi	; je serais bien aise d’y aller passer quelques jours pour voir les choses par moi-même. Un désir subit traversa l’esprit de la belle ennuyée. « A quelle heure comptez-vous partir demain ? » demanda-t-elle à [MASK],
+
+['elle', 'lui-même', 'lui', 'moi', 'elle-même']	Lidia	Le pauvre marquis était ébloui, sa prudence habituelle fut au moment de lui faire défaut ; mais comme cette prudence n’était autre que l’amour profond, plein d’abnégation qu’il avait pour [MASK], il revint promptement à lui.
+
+['madame', 'monsieur', 'tous', 'maman', 'lise']	Lena	Puisque leur maman était assise sur la pierre, c’était sur la pierre qu’elles voulaient l’être aussi. Heureusement j’aperçus tout près, hors de l’eau, un gros caillou plat que je montrai à [MASK] ;
+
+['dit-elle', 'dit-il', 'elle', 'dis-je', 'il']	Mattea	Notre-Dame de la Consolation, vous envoyâtes réellement alors un rayon de consolation au cœur de la pauvre affligée. « Elle est dans vos bras, sainte Marraine, qu’elle y reste donc ! dit [MASK] en baissant la tête avec résignation. Elle sera heureuse, moi seule je souffrirai. »
+
+['élisabeth', 'annette', 'henriette', 'aurore', 'angélique']	Edmond	La comtesse eut peur, et songeant que la grille, toujours ouverte jusque après le départ d’[MASK], n’avait point été fermée ce soir-là, elle sortit de sa chambre pour donner l’ordre de la fermer ;
+
+['le', 'la', "l'", 'marie', 'un']	Marie	! que tu fus grande en ce moment. Après le déjeuner, [MASK], qui avait besoin d’épancher son jeune cœur malade dans celui de son amie, l’entraîna dans sa chambre, se jeta à son cou, et, fondant en larmes :
+
+['elle', 'ne', 're', 'elle', 'et']	Mattea	[MASK] partit avant la nuit ; elle s’éclipsa sans prendre congé de personne : elle éprouvait le besoin d’être entièrement seule pour savourer à son aise la joie qui remplissait son cœur. En rentrant chez elle, elle trouva son mari fumant sa pipe au jardin.
+
+['raphaël', 'delacroix', ',', 'bach', 'corneille']	Canova	Sous les plis collants du fin tissu, et à la clarté de la lune qui pâlissait son teint, la comtesse rappelait ces poétiques fantaisies d’artiste, bustes de femmes voilées que quelques grands maîtres, [MASK] entre autres, excellaient si bien à reproduire.
+
+[',', 't-il', 'maurice', 'il', 'julien']	Diane	Décidément il ne viendra plus, pensa [MASK] après avoir écouté les pendules de la maison répéter pour la seconde fois la demie de dix heures. Il n’est pas poli, ce petit monsieur, se dit-elle avec dépit : il aurait dû me prévenir, m’écrire un mot.
+
+['</s>', 'il', ',', 'ne', 'et']	Luigino	[MASK] la quitta ; mais bientôt il revint lui offrir une place dans sa carriole, en compagnie de l’une de ses sœurs. La fermière, qui craignait pour sa fille la fatigue du retour, l’obligea d’accepter ;
+
+[',', 'il', "qu'", 'et', '</s>']	Gianori	[MASK] confessait à la belle veuve son ancienne et constante passion pour elle. Il lui disait que cette dernière absence ayant toutes les allures d’un coup de tête, d’un parti pris de se passer désormais entièrement de lui, l’avait navré de douleur et réduit au désespoir
+
+['dit-elle', 'dit-il', 'dis-je', 'répondit-il', 'ajouta-t-il']	Marie	— « Oh ! répondit [MASK] avec un regard qu’illuminait toute la chaste poésie d’un cœur de seize ans, parce que je l’ai reçu, lui, un jour dans cette chambre, et que jamais un homme n’y mettra les pieds tant qu’elle m’appartiendra.
+
+[',', 'valentine', 'encore', 'jeanne', 'diane']	Lidia	Il ne répondit pas, mais il la regarda longuement ; ses yeux se dessillèrent enfin. Il vit [MASK] plus belle que jamais ; mais il ne retrouva plus sur son charmant visage les feux brillants, les langueurs passionnées avec lesquelles on le recevait autrefois.
+
+['la', "l'", 'eve', 'marie', ',']	Mattea	sa bouche répétait machinalement les hymnes avec lesquels elle l’éveillait ou l’endormait, et ses doigts tiraient l’aiguille pour achever le travail qui devait parer l’enfant. Un matin, [MASK], qui n’avait pu fermer les yeux de la nuit, était levée avec l’aurore
+
+['mais', "qu'", 'femme', 'et', 'marie']	Diane	; [MASK] avec sa beauté, sa grâce et toutes les qualités morales qu’il lui prêtait, devint pour lui le type de la femme seule capable de le rendre heureux, type qu’il chercha pendant trois ans et ne rencontra que chez son oncle.
+
+['fer', 'feu', 'pierre', 'bataille', 'lumière']	Diane	C’est que le jeune homme venait de passer une journée remplie par de rudes combats, dont il croyait être sorti victorieux, et maintenant en une minute, au seul contact du bras de [MASK], il sentait toutes ses bonnes résolutions s’évanouir, son courage et sa force l’abandonner.
+
+['la', 'sa', 'marie', 'ma', 'jeanne']	Rosalie	et touchant du bout de son ombrelle le bras de [MASK], à moitié endormie sur le siège : « Réveille-toi donc, mon enfant, lui dit-elle ; regarde cette montagne sombre, ces maisons blanches, celte plaine dorée ! »
+
+[',', '(', '-', 'cela', 'ce']	Frédéric	Ce fut en maudissant [MASK] et par conséquent en pensant à lui que la belle veuve se mit en route ; cette pense l’accompagna et l’absorba si bien que le temps s’écoula pour elle avec la plus grande rapidité.
+
+['la', 'marthe', 'rodolphe', 'son', 'louis']	Margarita	; mais ce n’était point là l’avis de celui-ci. En examinant-attentivement la malade, et en apprenant le genre de souffrances dont elle se plaignait, il conçut quelques soupçons, que la présence de [MASK] l’empêcha d’exprimer d’abord.
+
+['elle', 'elle-même', 'eux-mêmes', 'eux', 'honneur']	Umberto	La pensée d’un amour auprès d’une tombe entr’ouverte, pensée qui tout d’un coup cessa de m’apparaître comme une calomnie, me fit pousser un soupir de regret ; c’était à mes yeux, trop sévères peut-être, une tache sur cette belle réputation, une action choquante indigne d’[MASK].
+
+['maman', 'dieu', 'papa', 'toi-même', 'tous']	Baptiste	La soubrette regarda la pendule, et demanda une seconde fois si elle ne devait pas aller donner au concierge quelques ordres pour la réception de madame. « Va, mon enfant, et dis à [MASK] que je ne recevrai personne aujourd’hui. »
+
+['moi', 'mère', 'toujours', 'toutes', 'jeunesse']	Fagote	J’appelai une seconde fois mes filles, mais ma blonde liseuse, l’admiratrice de [MASK], prit sa voix a plus câline pour obtenir encore quelques minutes le répit, et la bonne grosse fermière s’étant jointe à elle pour appuyer sa demande, il me fallut céder.
+
+['</s>', 'il', ',', 'qui', '-']	Edmond	? » [MASK] rougit plus qu’il n’avait jamais rougi, et éprouva un si visible malaise aux paroles de la comtesse, qu’elle craignit de l’avoir blessé en le traitant d’enfant soumis encore à la férule paternelle ;
+
+['la', "l'", 'sa', 'son', 'cette']	Diane	Son inquiétude fut grande, non moins pourtant que la surprise de [MASK], qui, secouant son voile pour réparer les petits désordres du sommeil, vit tomber ce mouchoir à ses pieds. Sans doute il avait glissé de la main du jeune homme lorsqu’il avait placé son habit sous la tête de la comtesse.
+
+['elle', 'il', '</s>', 'on', 'chacun']	Mattea	elle se dirigea vers l’église. On venait à peine d’en ouvrir la porte. [MASK] alla tout droit s’agenouiller contre la balustrade de l’autel, à la même place où elle était venue la dernière fois, heureuse et gaie, tenant son bel enfant par la main.
+
+[',', '(', ':', 'tant', 'cela']	Gianori	non, non, ce n’était pas possible, elle ne pouvait avoir ainsi méconnu le bien, le trésor de la vie ; elle aimait mieux se tromper elle-même, se persuader qu’elle avait aimé [MASK] et que lui, l’ingrat, ne s’en était pas aperçu
+
+['il', 'on', 'elle', 'lui-même', 'celui-ci']	Maria	; après avoir contemplé un instant le sourire béat et tranquille avec lequel [MASK] le recevait, après s’être minutieusement enquis des nouvelles de santé, il prenait aux mains de la jeune fille un livre qu’il lui avait lui-même apporté.
+
+['</s>', 'il', 'elle', 'on', 'chacun']	Mattea	O miracle ! en ce moment il lui sembla que la madone inclinait sa tête vers le divin enfant qu’elle avait aux bras, comme pour le montrer à la pauvre affligée. [MASK] regarda l’enfant ; il offrait une ressemblance frappante avec celui qu’elle avait perdu.
+
+['elle', 'et', ',', 'puis', 'qui']	Diane	alors il en fut réduit, pour ne pas perdre tout espoir, à penser qu’au premier dépérissement de cette beauté, au premier cheveu blanc, à la première ride, [MASK] ferait un retour sur elle-même, jeterait un regard sur son avenir, sur la solitude qui allait se faire autour d’elle.
+
+['elle', 'courrier', 'jacques', 'étienne', 'elle-même']	Rosalie	La comtesse fut réveillée le lendemain matin par [MASK], arrivant de la ville, heureuse, pimpante et bien décidée à arracher sa maîtresse à la solitude. « Les amis de madame sont dans la désolation, lui dit-elle, le marquis Frédéric surtout ;
+
+['</s>', 'elle', 'il', 'et', '...']	Mattea	Colonel, c’est pour fêter votre arrivée qu’elle s’est ainsi parée. » [MASK] rougit ; involontairement elle fit un pas en arrière, et aurait bien voulu s’éclipser totalement ; pour la première fois une pensée d’impatience surgit dans son esprit contre la belle enfant qui causait son embarras.
+
+['anne', 'al', 'alice', 'hiver', 'henri']	Aymard	On arriva ainsi au village. Après en avoir traversé une partie, la comtesse entra chez un libraire, dont le magasin était précisément en face de la grande maison blanche qui lui avait été indiquée comme la demeure d’[MASK]. Un laboratoire de pharmacien occupait le rez-de-chaussée.
+
+['elle', 'pénélope', 'marguerite', 'celle-ci', 'flora']	Marie	« Vous avez raison, » répondit [MASK] ; et, ouvrant aussitôt son filet, elle rendit la liberté au brillant insecte. « Ce n’est pas du papillon que je voulais parler, mais du pauvre colonel, que vous maltraitez toujours de même.
+
+['celle-ci', 'celui-ci', 'jean', 'pierre', 'catherine']	Rosalie	elle eut pitié de la fatigue de la soubrette, et s’assit sur l’une des pierres ; son regard distrait tomba sur le sac renflé de [MASK]. « Qu’as-tu donc là ? » demanda-t-elle. « Les boîtes de lichen de madame et celle de sa mère.
+
+['</s>', 'il', 'on', 'elle', "j'"]	Maria	Mais chaque fois qu’il parlait d’avenir, elle l’interrompait par ces paroles : « Lorsque je serai guérie, nous causerons de cela. » [MASK] avait déjà éprouvé trop de déceptions pour croire à un avenir heureux.
+
+['il', 'on', '"', 'elle', ',']	Mattea	» Dans le courant de l’hiver [MASK] accoucha d’une fille : le mari attendait un garçon, il fut un peu contrarié ; la jeune femme, au contraire, fut ravie : elle avait témoigné tout l’été une grande prédilection aux petites filles des paysannes ;
+
+['il', '</s>', '--il', '-', '--']	Gustave	[MASK] a bien mieux fait, ajouta-t-elle, avec le plus heureux petit sourire, il a cueilli ces fleurs pour m’en faire un bouquet, qui est là sur mon cœur et que je conserverai toute ma vie en souvenir de ce beau jour. »
+

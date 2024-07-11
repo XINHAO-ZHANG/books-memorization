@@ -1,0 +1,200 @@
+['anna', 'lui', 'lena', 'john', 'nora']	Pál	Et, arrivé près de la maison, il voyait les points rouges de deux cigarettes dans le jardin triangulaire.Ági et [MASK] fumaient un paquet entier pendant la nuit, avant de trouver la force de regagner leur chambre.
+
+['il', 'on', 'elle', 'qui', 'et']	Imre	Le premier soir, [MASK] avait voulu faire une soupe de légumes avec des abats de poulet. Mais le grand-père avait eu une crise de colère à la vue des légumes et il en avait jeté une partie sur les rails.– C’est dangereux !
+
+['il', 'elle', 'on', 'chacun', 'et']	Imre	Il s’était rebaptisé Imy, sûr qu’aucun Américain ne saurait rouler le « r » de son nom proprement. Il l’avait fait inscrire sur son badge du Diamond. Quand des touristes entraient dans le magasin, [MASK] savait que la vue de ce nom simple et efficace les rassurait.
+
+['henriette', 'annette', 'elle', 'eugénie', 'anna']	Ági	Il se penchait un instant sur son père allongé dans l’herbe, amorçait un geste puis, tout à coup profondément abattu, se laissait tomber à côté de lui et pleurait en silence. Le dos d’[MASK] pliait sous le poids du grand-père tandis qu’elle s’efforçait de le porter jusqu’au salon.
+
+['il', 'elle', 'on', 'marie', 'dieu']	Ági	Quand il ne voyait pas sa sœur, il pouvait y croire un peu. Mais le reste du temps c’était peine perdue.Durant les premiers mois qui suivirent son retour, [MASK] ne fit rien. Elle ne sortait pas, n’aidait personne, elle ne parlait pas.
+
+['il', 'elle', 'et', 'puis', 'on']	Imre	Ils s’installèrent tous les deux dans la chambre des parents. C’était grandir d’un coup, devenir chef de famille.Pour être à la hauteur de son nouveau statut, [MASK] commença à travailler dans une boutique de photocopies et d’impression.
+
+['elle', 'qui', ',', '</s>', 'et']	Ági	[MASK] le grattait doucement derrière les oreilles et sur la nuque.Elle soupçonnait parfois qu’il couchait avec d’autres filles. Il sentait un parfum étrange. Il demandait à rentrer prendre une douche avant de passer la voir.
+
+['dick', 'simon', 'jean', '"', 'jack']	Agnès	C’est un écrivain, dit [MASK].Elle utilisait le mot comme s’il s’agissait d’une nationalité quelconque. Les deux garçons hochèrent la tête en silence et se décidèrent à lui emboîter le pas vers la cuisine.La jeune femme se débarrassa de son chargement sur la table.
+
+['il', 'hitler', 'celui-ci', 'lui-même', 'qui']	Imre	Ne bois jamais ou je te tue. Et [MASK] devait renoncer aux fröccs dans son scénario secret. Il ne s’en souciait pas outre mesure : c’était de toute manière un plan qu’il retravaillait chaque soir avant de s’endormir, précisant chaque détail sans jamais s’en lasser.
+
+['elle', 'lui', 'sa', 'dieu', 'la']	Zsolt	Il retournait toujours vers [MASK], la seule personne avec qui il pouvait parler. Mais tout devenait vantardises. Il n’y avait pas de place pour ses angoisses. Il fallait toujours être sûr, il fallait toujours voir grand.
+
+['</s>', 'il', 'elle', 'et', 'qui']	Kerstin	Ici, à l’abri du transformateur, elle finirait bien par être trouvée par quelqu’un qui la lirait et déciderait pour eux tous. [MASK] ne lut jamais la lettre du grand-père. En partant, elle en écrivit une à son tour et la laissa sur la table.
+
+['elle', 'jeanne', 'celle-ci', 'maman', 'marie']	Ildiko	Ce fut sa seule contribution pour lui venir en aide. Il pensait que le travail absorbe la tristesse, qu’il suffit de ne pas avoir le temps de pleurer pour que les choses s’arrangent. Quand [MASK] était morte, il avait commencé à allonger ses horaires.
+
+['maman', 'rodolphe', 'papa', 'elle', 'berthe']	Panka	Rien n’avait été lavé, rien n’avait disparu. Il se souvenait encore de tout. C’était décevant. – Ta petite Allemande, avait dit [MASK], c’est mieux qu’elle soit partie. Elle n’avait pas la force.
+
+['elle', 'eux', 'ulrich', 'odd', 'harry']	Imre	Elle haussa les épaules en direction d’[MASK] pour dire : Tu sais bien. C’était une tare familiale chez eux, ils perdaient tout le temps les femmes, ils ne pouvaient pas les garder. Ils ne pouvaient pas les protéger non plus.
+
+['"', 'arrête', 'là', 'moi', '...']	Zsolt	Arrête, [MASK].Elle riait plus fort. Mais il ne la lâchait pas. Ses deux bras la serraient plus fort, comprimaient son ventre, juste en dessous des seins.– Je suis amoureux de toi.Il la serrait si fort qu’elle avait du mal à conserver son équilibre.
+
+['il', 'mais', 'et', ',', 'ek']	Imre	[MASK] ne l’aimait pas beaucoup. Quand l’autre était entré dans la boutique pour la première fois, il avait commenté la présence de la silhouette en carton par un « C’est qui cette pouffiasse ? » complètement désenchanté.
+
+['il', 'en', "l'", "c'", 'y']	Pál	C’est au même moment que lui échut la responsabilité de s’occuper du transformateur, le monstre à étincelles qui l’avait terrifié dans son enfance. Le grand-père ne bougeait plus de son fauteuil et [MASK] était d’une distraction dangereuse depuis la mort de sa femme.
+
+['achille', 'hercule', 'ulysse', 'adam', 'ariane']	Ildiko	L’espace sous le fauteil d’[MASK] avait la taille de son corps roulé en boule. Il avait de la peine à s’y glisser mais une fois en place, il se sentait doublement protégé par la carapace d’osier et par le corps de sa mère.
+
+['anna', 'alice', 'eugénie', 'henriette', 'hélène']	Ildiko	C’est à vous. Un sourire tendre flottait sur le visage d’[MASK] lorsqu’elle imaginait la scène.Le grand-père, au temps où il pouvait encore bouger, avait lui aussi travaillé pour la société des chemins de fer comme soudeur.
+
+['</s>', 'pierre', 'jacques', 'celui-ci', 'paul']	Imre	Elles semblaient maintenant se superposer toutes les deux dans un même corps.[MASK], gêné, ne savait plus que penser. L’odeur sèche de sa cigarette l’atteignit dès qu’il ferma le robinet de la douche. C’était une odeur d’homme, pensa-t-il.
+
+['dit-il', 'dis-je', 'dit-elle', "jusqu'", 'dit']	Imre	Il espérait confusément que, de loin, le message serait différent. Mais les phrases restaient les mêmes :Pourquoi ne pas en avoir parlé ?Ce n’est pas ta faute.Conneries.– Tu les as vues partir ? demanda [MASK] au grand-père qui se balançait sur son fauteuil.
+
+['il', 'ne', 'al', 'é', 'e.il']	Imre	[MASK] pouvait entendre la voix du grand-père lui parvenir depuis l’extrême pointe du jardin triangulaire. Il n’avait pas besoin d’écouter la manière dont les consonnes disparaissaient dans le chant pâteux pour savoir que le vieil homme était ivre. Il beuglait la chanson avec une férocité peu commune.
+
+['on', 'il', 'elle', ',', 'monde']	Imre	[MASK] s’en rendait compte à présent. Ça n’avait jamais été la maison. C’était eux, les immobiles. Aucun d’entre eux, jamais, n’avait mis le pied sur la marche d’un wagon pour partir. Ils vivaient comme des collines.
+
+['elle', 'emma', 'elena', 'elle-même', 'il']	Ági	Il n’avait jamais ressenti aussi clairement la différence de leurs deux corps. Et il était sûr qu’[MASK], avec ses contours de femme, ne pourrait pas comprendre son trouble masculin. Il lui en voulait de façon irraisonnée, comme si elle avait choisi ce corps qui l’éloignait de lui.
+
+['elle', 'il', 'harry', 'je', '-il']	Ági	L’homme à la bite devint un mystère encore plus grand : d’où venait-il pour ne pas comprendre la chance qu’il aurait d’épouser la jeune femme ? Peut-être qu’il était réellement papou.– C’est beaucoup trop tôt, dit [MASK], je ne sais même pas s’il va rester.
+
+['</s>', 'elle', 'il', 'ça', 'cela']	Pál	C’était son jour préféré. Elle s’autorisait un dessert en plus du repas servi aux employés de la société des chemins de fer. [MASK] lui faisait un peu peur avec son sourire triste et sa figure allongée mais elle le trouvait gentil.
+
+['</s>', 'il', 'elle', 'on', 'et']	Imre	Elle avait les yeux fermés, la tête renversée en arrière. La sueur perlait entre ses seins, là où il était le plus évident que la peau s’étirait vers le bas en longues rides fines. [MASK] ne pouvait pas s’empêcher de la regarder.
+
+['</s>', '"', 'il', 'on', '_']	Zsolt	Sans un mot, ils se levèrent tous les deux et s’approchèrent à pas de loup de la chambre. Derrière la porte, il y avait un murmure. [MASK] colla son œil à la serrure. La pièce était sombre et il ne voyait presque rien.
+
+['lui', 'il', 'elle', 'me', 'leur']	Imre	Il la trouvait égoïste. Elle cria une dizaine de fois « Je n’ai rien fait de mal » et « J’ai le droit » et [MASK] répondit systématiquement que ce n’était pas une question de droits. L’amour n’était pas une question de droits.
+
+['elle', 'lui', 'marie', 'elles', 'moi']	Ági	? Il n’était pas sûr que ce soit bon pour [MASK] de parler toute la journée dans la langue du professeur. Ça l’empêchait de cicatriser. Mais il l’avait encouragée à trouver du travail. Il n’osait pas à présent revenir sur sa position.
+
+['</s>', 'il', 'elle', 'paris', 'qui']	Kerstin	Il aurait voulu savoir si elle se posait les mêmes questions que lui. Est-ce qu’elle se rendait compte que la vie était bien plus vide qu’elle n’aurait dû l’être ?Ils rentrèrent fâchés au bord des rails. [MASK] ne voulait pas sortir de sa morosité.
+
+['il', 'lui', 'celui-ci', 'père', 'lui-même']	Zsolt	Les jeux qu’il inventait lui donnaient toujours l’occasion de déclamer de longs discours. Si les deux enfants jouaient aux soldats, [MASK] était général et envoyait les hommes au combat en leur rappelant l’importance de leur pays, l’amour de la terre, l’honneur de leur famille.
+
+['qui', 'présent', 'quoi', 'laquelle', 'midi']	Monika	Elle passait des heures au téléphone avec sa sœur et ses amies pour leur raconter ses déambulations à la manière d’une correspondante de guerre. À [MASK] elle envoyait des articles de journaux qu’elle traduisait maladroitement, des coupures de presse qui montraient qu’elle n’inventait rien.
+
+['il', 'on', 'elle', 'je', 'julien']	Imre	Son avenir professionnel pouvait attendre mais pas son désir. Certains soirs, [MASK] redoutait une combustion spontanée.Il tournait en rond sur les grands boulevards, jetant des coups d’œil désespérés aux prostituées et aux sex-shops qui se faisaient plus clinquants.
+
+['ulrich', 'octave', 'andré', 'edward', 'anna']	Imre	Elle se retournait toutes les demi-heures pour exposer l’autre côté de son corps au soleil. Quand elle aperçut le regard insistant d’[MASK], elle eut un sourire discret en baissant sur son nez les énormes lunettes de soleil.
+
+['</s>', 'il', 'et', 'se', '_']	Imre	Le grand-père entonnait à présent la strophe la plus lugubre. [MASK] ressentait la tristesse du chant, un point dans la poitrine, comme caché sous une côte. Il s’approcha de la fenêtre et jeta un rapide coup d’œil au vieil homme. Il était toujours debout.
+
+['</s>', 'il', 'elle', '--il', '-']	Imre	Elles sont où ? Allées où ?Mais le vieil homme ne répondait pas, souriant toujours dans la coque de son gros fauteuil. [MASK] monta à l�����étage, fouilla partout.Il ne restait plus rien de sa femme, ni de sa fille.
+
+['il', '</s>', 'et', 'elle', 'on']	Imre	Elle devint le centre de toutes les préoccupations. [MASK] se privait de sommeil, simplement pour la regarder. La délicatesse et la beauté de sa miniature l’enchantaient. Il était extraordinairement fier. Quand il entendait sa voix, il avait l’impression que le son résonnait dans tout son corps.
+
+['cela', 'ça', 'il', 'on', 'elle']	Zsolt	Autour, il n’y avait que le noir et les étoiles. Les petits vaisseaux de plastique erraient dans l’immensité, près de se perdre, mais [MASK] permettait toujours à l’équipage de retrouver sa route au dernier moment.
+
+['nuit', 'pierre', 'david', 'max', 'tous']	Kerstin	Ils se perdaient avant d’arriver à sortir, coincés quelque part entre les murailles de ses dents.L’installation de [MASK] dans la maison au bord des rails bouscula chacun de ses habitants, grippa la logique familiale qui semblait avoir toujours voulu que quelqu’un meure avant que n’arrive une nouvelle personne.
+
+['celui-ci', 'chacun', 'jésus', 'il', 'lui']	Kerstin	Pour que celui-ci comprenne l’ascendant que [MASK] avait sur lui, il aurait fallu lui raconter tellement de choses. Il aurait fallu lui raconter la première fois qu’ils avaient fait l’amour. Il se tenait à quelques pas d’elle, dans sa chambre d’hôtel, et ils étaient tous les deux nus.
+
+['il', '"', 'qui', 'elle', ',']	Étienne	[MASK] ne parlait d’eux qu’au présent, refusait de dire « nous », refusait de dire « Il la suivit dans la chambre sans rien dire. Alors qu’elle marchait devant lui, il fixait sa nuque avec application, les petits cheveux châtains qui bouclaient.
+
+['il', ',', 'et', 'grand-père', 'qui']	Imre	[MASK] surveillait son petit monde avec une attention paranoïaque. Il lut les notices des médicaments que prenait le grand-père et trouva des indications aberrantes, des menaces de crise cardiaque, de pilosité indésirable, de malformations des fœtus. Même la pharmacie n’était pas fiable.
+
+['</s>', "c'", 'on', 'il', "--c'"]	Imre	Les grandes poubelles qui trônaient dans l’entrée n’étaient vidées que tous les deux mois car personne ne jetait rien. C’était un monde d’économies et de chuchotements.[MASK] adorait rendre visite à sa sœur. L’immeuble lui semblait mystérieux, un peu louche.
+
+['il', 'elle', 'tout', 'on', 'chacun']	Pál	Je me suis étranglée en mangeant le roulé, souffla la voix derrière les bandages.Et [MASK] se mit à pleurer.Tout était de sa faute. D’un point de vue objectif, sa certitude était difficilement compréhensible. La trajectoire aléatoire de la miette ne relevait de la responsabilité de personne.
+
+['elle', ',', 't-elle', 'il', 'en']	Ági	Je n’aime pas les non-fumeurs, dit [MASK] pensivement.Elle fumait des extra-fines dans un long paquet blanc.– Comme si leur vie avait tellement de valeur, ou leurs poumons. Ils se croient mieux que nous.Il y eut un moment de silence.
+
+['il', 'celui-ci', 'lui', 'lui-même', 'jacques']	Imre	demanda l’ancien propriétaire, parce que je peux vous laisser ma barque et mes cannes.Et [MASK] avait dit oui, alors qu’il avait toujours eu peur des poissons du Danube. Il ne voulait plus s’interdire aucun loisir, même ceux qu’il pensait ne pas aimer.
+
+['elle', '</s>', 'il', 'marie', 'marguerite']	Ildiko	Et ça, mon garçon, c’est la preuve du génie hongrois.[MASK] haussait toujours les épaules quand elle entendait l’affirmation du vieil homme. Pour elle, c’était uniquement la preuve que ce pays était plein d’alcooliques. Ne bois jamais ou je te tue.
+
+['il', 'elle', 'le', 'on', 'lui']	Imre	Le fauteuil les attendait dans la petite maison au bord des rails, les uns après les autres. Tous les hommes de la petite maison finissaient dans ce fauteuil avec leur douleur des jambes.Et [MASK] pensa aussi : leur douleur de Sans-femmes.
+
+['</s>', 'se', 'dé', 'il', 'elle']	Greta	Le photographe et son équipe fumaient des cigarette sur le toit-terrasse, ils portaient des vêtements moulants et de grosses lunettes.[MASK] posa devant un château gonflable, sur une petite bicyclette, sur le tapis d’un salon avec des cubes.
+
+['...', 'tout', 'tout.', 'toutes', '....']	Greta.–	Il ne faisait aucunement confiance à la biologie pour rendre compte de la perfection de [MASK] Ce n’est qu’une fille de plus, disait le grand-père.Il pensait qu’elles étaient vouées à être malheureuses, à être maltraitées. Il aurait voulu un petit-fils.
+
+['</s>', 'il', 'le', 'ce', "l'"]	Imre	Mais tout devenait vantardises. Il n’y avait pas de place pour ses angoisses. Il fallait toujours être sûr, il fallait toujours voir grand. [MASK] s’emportait lui aussi dans des paroles de conquérant et n’avouait jamais ses doutes.–
+
+['il', 'elle', 'on', 'ils', 'elles']	Imre	Mais sa tante Panka décida de la lui raconter au printemps 1992, dans un café vert et noir aux abords de l’hôpital Sándor. C’était celle des presque jumelles qu’[MASK] préférait. Elle était un peu moins brusque que sa sœur.
+
+['"', 'qui', 'il', 'ceci', 'elle']	Imre	Il ne pouvait rien ajouter. C’était impossible. Il y eut un moment de silence avant la réponse du père. [MASK] avait du mal à comprendre son allemand. Heureusement la réponse était simple. Elles étaient là toutes les deux. Elles ne voulaient pas lui parler.–
+
+['john', 'robert', '-il', 'il', 'mark']	Zsolt	Le petit cabinet de toilette de la maison au bord des rails ne disposait pas d’un miroir lui permettant de se voir en pied.– Tu me fais honte, dit [MASK] en souriant, quand il le vit arriver avec ses cheveux plaqués en arrière et sa chemise bleu clair boutonnée trop haut.–
+
+['</s>', 'il', '--il', 'on', 'elle']	Imre	C’était cette énorme boîte métallique qui terminait désormais l’extrémité plate du jardin triangulaire.[MASK] avait peur du transformateur. Il était d’un métal bleuté, auréolé de petites taches de rouille qui lui dessinaient des yeux sombres, et large comme deux hommes.
+
+['autre', 'accomplir', 'qui', 'incapable', 'autres']	Imre	Elle crachait des locomotives jusqu’à la petite maison, elle étendait ses tentacules d’acier tout autour. Dans son grand hall traversé de poutrelles aux angles nets se cachaient peut-être de futures menaces pour la famille Mándy et il était de la responsabilité d’[MASK] de surveiller
+
+['</s>', 'mort', 'femme', 'jean', 'pierre']	Zsolt	Il avait pourtant acheté son premier recueil avec enthousiasme. Il s’était même vaguement demandé s’il n’allait pas être dedans. – Vas-y si tu ne me crois pas, semblait dire la tête de [MASK] au dos du livre, ouvre-le, lis une phrase.
+
+['cheval', 'effet', 'lui', 'plus', 'or']	Imre	[MASK], l’éléphant qui gravissait la colline, avait la lenteur du grand-père. Peut-être qu’une de ses jambes à lui aussi était morte. Le grand-père avait toujours dit qu’aucun des hommes de la famille n’arrivait à la vieillesse intact.
+
+['chacun', 'celui-ci', 'celle-ci', 'le', 'ainsi']	Ági	Occupe-toi de moi maintenant.Il détailla l’emplacement de chaque éraflure, forçant [MASK] à se concentrer sur l’application du fond de teint. Quand elle s’arrêtait, le pinceau en l’air, il reprenait avec plus d’entrain :
+
+['elle', 'celle', 'moi', 'lui', 'elle-même']	Kerstin	Quand il ne la regardait pas, il pouvait avoir l’impression que c’était [MASK] qui se trouvait à ses côtés. Mais dès qu’il tournait la tête, il voyait cette grande femme à la crinière noire dont chaque partie du corps envoyait les reflets agressifs d’une marée de strass.
+
+['ainsi', 'alors', 'oui', 'donc', 'là']	Imre	Vous devriez rentrer. Les parents vont s’inquiéter.– Ils s’inquiéteront aussi si on rentre.Elle eut un bref regard sur leurs bleus et les taches de leurs vêtements puis grimaça.– Est-ce qu’on peut t’emprunter ton maquillage ? demanda [MASK], on pourrait camoufler les dégâts.–
+
+['doute', 'cela', 'cesse', 'plus', 'ça']	Zsolt	Ça aurait dû être simple, surtout maintenant, alors que le rideau de fer était tombé et que plus rien n’était interdit. Mais il réalisait soudain qu’il ne savait absolument pas quoi faire.Sans [MASK], il se sentait perdu, maladroit.
+
+['pas', 'souvent', ',', 'toujours', 'juste']	Zsolt	Tu t’amuses ? demandait son père lorsque ses contrôles le ramenaient jusqu’à la gare.– Tchou-tchou, sifflait [MASK] pour ne pas le décevoir.Il avait dressé un inventaire des types de fauteuils présents dans les différents trains. Il ne savait plus comment s’occuper.
+
+['il', 'on', 'elle', 'albert', 'arthur']	Imre	Lorsqu’il voyait le souffle du bébé soulever ses minuscules poumons, les mécanismes du petit corps lui paraissaient tellement complexes qu’[MASK] ne comprenait pas comment il avait pu participer à sa conception. Il avait l’impression d’être le premier homme à avoir achevé ce miracle, la production d’un nouvel être vivant.–
+
+['il', ',', 'et', ')', 'qui']	Imre	[MASK] haussa les épaules en rougissant. Il ne savait pas vraiment ce qu’était son truc. Depuis la femme des bains Lukács deux ans auparavant, il n’avait pas eu d’occasion de progresser dans sa découverte de la sexualité et il la considérait toujours amoureusement comme sa première partenaire.
+
+['il', 'on', ',', 'je', '...']	Imre	Ils ont dépavé les rues pour mieux vivre dans la boue. Ce n’est pas un endroit pour les gens comme nous.Mais ce matin-là [MASK] ne voyait pas ce qu’il avait à perdre, à part le sac plastique et le billet. Il se foutait des deux.–
+
+['il', 'elle', ',', 'écrivain', 'et']	Zsolt	[MASK] lui avait écrit deux fois depuis leur séparation mais il ne racontait rien d’intéressant. Il donnait des noms d’écrivains, citait des professeurs. Lui et ses camarades d’université avaient formé un groupe destiné à définir l’esprit hongrois, à retrouver son essence afin de pouvoir reconstruire le pays sur les bases ancestrales.
+
+['il', 'elle', 'chacun', 'et', 'celui-ci']	Zsolt	Il n’avait pas envie d’entendre la suite. Alors que Monika restait plantée devant eux, sûre de son bon droit et l’œil flamboyant, [MASK] se mit à crier :– Je couche avec des femmes ! Je couche avec des femmes !
+
+['il', 'on', 'elle', 'se', 'je']	Imre	Mais la grosse femme se dirigea vers la sortie avec une lenteur assurée et, une fois passé le paravent de son corps, [MASK] retrouva la femme aux cheveux orange. Elle, il ne pouvait pas l’abandonner. Elle était comme une vieille sirène au charme encore puissant.
+
+['il', 'y', 'et', 'qui', ',']	Pál	[MASK] avait une vraie fascination pour le missel, pour la délicatesse des fleurs en ivoire incrustées dans la couverture et pour la trace douloureuse de la petite croix perdue à l’arrière. Il trouvait que l’objet n’avait pas d’égal en beauté, en finesse, en féminité.
+
+['jeanne', 'marie', 'rose', 'david', 'marguerite']	Pál	Mais l’entrelacs des fleurs et des feuilles était le même que celui que [MASK] avait contemplé toute son enfance sous les doigts de sa mère. Des tiges courbes servaient d’appui à l’escalade de grandes feuilles dont la plus haute avait la forme d’une aile d’oiseau.
+
+['corps', 'et', 'qui', 'il', 'lui']	Imre	[MASK], comme d’habitude, prenait peur. Il craignait que l’eau de son corps ne lui sorte par les oreilles pour errer sans but et sans gravité dans le vaisseau spatial. Ses organes allaient se déplacer, danser à l’intérieur.
+
+['elle', 'il', 'on', 'tout', 'je']	Kerstin	Il avait rêvé de la retrouver, de la tenir enfin dans ses bras. Mais ce n’était pas de l’amour.Il n’était pas sûr que son corps soit à la taille de ce nouveau sentiment, ça lui faisait mal. Quand [MASK] lui souriait, il croyait entendre ses côtes craquer.
+
+['elle', 'on', "j'", 'il', 'tu']	Étienne	Elle aurait voulu tout brûler. Comme si [MASK] avait contaminé les meubles, oublié un peu de lui, glissé des souvenirs dans les rainures du sol, six ans de vie émiettés dans les moutons de poussière dégueulasses sous le canapé, dans les coins.
+
+['peine', 'chacun', 'terre', 'joseph', 'nouveau']	Imre	Maintenant plus rien ne poussait.Chaque matin, le vieil homme laissait à [MASK] le temps d’un rapide examen puis, une fois que l’enfant avait ramassé les papiers susceptibles de renfermer un secret, il sortait dans le jardin en brandissant son râteau comme une hallebarde.
+
+['il', 'on', 'elle', 'ça', 'qui']	Zsolt	Cette fois-là, [MASK] l’avait atteint en plein ventre. Il se plia en deux, le souffle coupé, crachant un peu plus sur le sol la salive rougeâtre qu’il avait dans la bouche. Le coup fut salué dans le public par une salve d’applaudissements.
+
+['armée', 'élite', 'accueil', 'état', 'instruction']	Imre	Le corps d’[MASK] n’envoyait que des signaux confus.Devant les photos de l’étudiante tchèque, il se sentait bien. Il avait envie. Il était incapable d’en dire plus.– Probablement, répondit-il à son patron qui lui tapa sur l’épaule.
+
+['lui', 'eux', 'sam', 'elle', 'ulrich']	Imre	Elle marchait lentement. Ses talons en bois étaient épais, pas très hauts, mais ils faisaient un bruit retentissant. Agressif comme la couleur de ses cheveux.Quand elle repassa devant [MASK], il s’aperçut qu’elle était plus vieille qu’il ne l’avait cru.
+
+['lui', 'je', 'maman', 'elle', 'yumi']	Panka	Le double traumatisme qui avait résulté de cette vision et du lien qu’il fallait établir entre la chose et sa sœur l’avait marqué. Mais il préféra se taire et remuer son café pour le faire refroidir. Il n’était pas sûr que [MASK] comprendrait.
+
+['il', 'elle', 'je', 'on', 'lui']	Imre	Pourquoi tu ne t’appelles pas comme nous ?– Un peu d’originalité, répondait son père avec un sourire triste.Mais [MASK] pensait que ça devait être désagréable pour lui de rentrer à la maison et d’y voir trôner le nom d’un autre.
+
+['il', 'elle', 'on', 'personne', 'et']	Imre	? C’est fini le communisme, petit con. Il faut te réveiller.[MASK] ne répondait pas. Il ne savait pas. Il avait toujours pensé qu’il saurait, il avait toujours eu l’impression d’avoir des rêves précis qu’il s’efforcerait de réaliser.
+
+['le', 'les', 'son', 'la', 'du']	Imre	Mais la femme ne disparut pas. Ses doigts quittèrent la poignée juste avant que la porte ne se ferme tout à fait et rompe la magie qui possédait [MASK]. Par l’entrebâillement étroit, il pouvait voir la pièce secrète, interdite.
+
+['ce', 'choses', 'ceux', 'quoi', 'gens']	Mitterrand	Il lui parlait de [MASK] qu’il disait fourbe, capitaliste et collabo. Il disait que les Français n’avaient aucune idée de ce qu’était une politique de gauche. Nous sommes nés trop tard, petite, disait-il souvent. Il aurait voulu faire une révolution.
+
+['ce', 'di', 'propos', 'dire', 'faire']	Imre	Elle dit à [MASK] qu’elle n’aurait pas dû. Elle se rappelait la touffe de feuilles vertes qui dépassaient de la bouche de sa mère, comme un palmier miniature qui aurait commencé à pousser là. Irruption de la jungle sur les lèvres de la mère.–
+
+['</s>', 'il', 'on', 'chacun', 'elle']	Imre	Ils se contentaient parfois de s’asseoir au bord du fleuve, les pieds pendants, les fesses blanchies par la poussière du quai. [MASK] jetait des cailloux dans l’eau grise en tentant de faire s’envoler quelques canards.
+
+['henriette', 'elisabeth', 'élisabeth', 'emma', 'adèle']	Agnès	Il se rappelait la nuit du combat de chats. Il sentit un instant le besoin de confier à sa tante que sans rien savoir de l’homme en question, il avait vu à travers la serrure l’instrument responsable de la grossesse d’[MASK].
+
+['</s>', 'on', 'elle', 'il', 'qui']	Kerstin	Ils voulaient plus de métro. Il aurait pu se perdre en longeant des palissades de chantier. Il y avait des pissotières pour les ouvriers. Elles fuyaient. Odeur de la pisse dans la chaleur du soir. [MASK] aurait trouvé ça authentique à l’époque de son arrivée.
+
+["c'", 'elle', 'tout', 'celle-ci', 'force']	Kerstin	Au début ils avaient progressé dans la connaissance de l’autre mais les deux dernières années, ils les avaient passées à se déconnaître, à s’oublier, à redevenir étrangers l’un à l’autre. Leurs gestes étaient à nouveau maladroits, leurs voix incertaines.Et puis [MASK] était partie.
+
+['il', 'on', 'ulrich', 'je', 'elle']	Imre	Elle portait aux orteils un vernis brun-rouge, comme du sang sec. Au front et sur le cou, la sueur qui ruisselait emportait un peu de la teinture orange des cheveux en des ruisseaux jaunâtres.Quand elle sortit du sauna, [MASK] la suivit encore.
+
+['elle', 'il', 'hélène', 'alice', 'amanda']	Ági	Il ne dormait de toute manière presque plus depuis qu’[MASK] était revenue s’installer dans leur chambre d’enfants. Pour occuper ses insomnies, il s’adonnait à la frénésie de surveillance qui l’avait pris après la mort de sa mère, se levant vingt fois pour regarder dormir les membres de sa famille.
+
+['harry', 'jean', 'pierre', 'paul', 'celui-ci']	Imre	Les bleus et les violets de la peau meurtrie disparaissaient progressivement sous plusieurs couches de fond de teint, sous un nuage de poudre. Quand elle tendit un petit miroir de poche à [MASK], celui-ci observa son reflet avec délectation. Il se trouva des airs de vedette de cinéma.
+
+['</s>', 'elle', 'il', 'cel', 'qui']	Imre	Il pensait qu’elle avait déjà remarqué son manège.Elle sortit du bassin pour se diriger vers les vestiaires. L’aile était réservée aux femmes, d’abord les douches puis les cabines. [MASK] la regarda poser la main sur la poignée en sachant qu’il la perdait.
+
+['on', 'elle', 'ne', 'puis', 'je']	Imre	Elle était éclaboussée d’or. Elle se fit apprendre quelques pas et [MASK] la perdit de vue pendant qu’elle tourbillonnait sur la piste, riant de ses propres erreurs, hors d’haleine, au bras des hommes qui savaient bondir par-dessus les feux.
+
+['</s>', 'il', 'lui', 'qui', 'elle']	Zsolt	Mais il était fier de la filiation et de ses yeux.[MASK] avait repéré une cave éventrée aux environs de la gare pour organiser le combat. La porte à double battant qui s’ouvrait sur le trottoir et plongeait sous un immeuble gris était à moitié défoncée.
+
+['un', 'une', 'à', 'est', 'au']	Ildiko	Politiquement, il n’avait rien fait de signifiant, il n’avait rien compris, rien cru, et quand on lui parlait de 89 il ne se rappelait que la tristesse et les poissons gris du marché. Il se rappelait le 9 décembre et le crachin. Le jour de la mort d’[MASK].
+
+['il', 'cela', 'on', 'elle', 'ça']	Imre	Lorsque les insectes se faisaient trop présents, [MASK] devenait nerveux. On ne pouvait plus lui parler. Ági se prit de passion pour une famille de musaraignes trouvée sous la cabane. Elle allait vérifier tous les jours que rien ne manquait à leur bien-être.
+
+['</s>', '-', '"', 'ils', 'et']	Ági	Elle fumait des extra-fines dans un long paquet blanc.– Comme si leur vie avait tellement de valeur, ou leurs poumons. Ils se croient mieux que nous.Il y eut un moment de silence. [MASK] renifla.– Pour qui ils se prennent ?
+
+['elle', 'il', 'ne', 'lui', ',']	Imre	Elle était fâchée contre lui parce qu’il l’avait abandonnée presque tout l’après-midi. Mais [MASK] ne s’en rendait pas compte. Il était ailleurs.Il rentra chez lui ce soir-là avec l’impression d’avoir eu son premier rapport sexuel. Il était sûr d’avoir changé.
+
+['il', 'et', 'en', 'harry', 'jack']	Zsolt	Au-dessus de sa tasse de thé qui tremblait toujours, [MASK] eut un grand sourire. Il connaissait cet état de langueur. Les filles qu’il emmenait avec lui dans les parcs les soirs d’été tombaient dans cet état après quelques baisers.
+

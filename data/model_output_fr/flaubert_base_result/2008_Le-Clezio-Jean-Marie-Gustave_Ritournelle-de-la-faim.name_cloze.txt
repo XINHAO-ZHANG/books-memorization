@@ -1,0 +1,200 @@
+['y', 'il', 'elle', '"', ',']	Justine	[MASK] a eu un petit sourire complice, une sorte de grimace attendrie. « Écris-moi pour me dire si ça pousse en pointe, comme ça je saurai si c’est un garçon. » C’était elle qui avait raison, pour une fois.
+
+['elle', 'il', 'en', 'qui', ',']	Éthel	[MASK] avait capté la réflexion à travers la porte, et elle en était restée anéantie. Elle avait envie de crier : Mais vous ne savez rien, vous ne comprenez rien ! Plus tard, et les jours suivants, elle avait compris ce qui lui mordait le cœur.
+
+['elle', '-elle', 't-elle', 'marguerite', 'alice']	Justine	» demandait [MASK], et elle restait évasive : « Faire des courses avec une amie. » Elle n’inventait pas de gros mensonges, elle ne parlait pas de leçons de piano, de répétitions à la chorale. Elle arrivait sur l’île en descendant l’escalier du pont du métro aérien.
+
+[',', ';', 'les', '...', 'le']	Éthel	Quand il court, ses favoris gris s’écartent en cadence, et ça fait rire [MASK] et, de la voir rire, il rit aussi, tant et si bien qu’ils s’arrêtent pour s’abriter sous un marronnier. C’est un endroit merveilleux.
+
+['cela', 'au', 'ceci', 'ça', 'par']	Alexandre	Elle a prétexté [MASK], son état de santé qui s’était beaucoup dégradé dernièrement, le manque d’argent, la fatigue. Mais ce devait être de la honte, quelque chose de ce genre. Elle ne voulait plus revoir la ville dont elle avait été chassée, elle ressentait du dépit, du dégoût.
+
+['hélène', 'alice', 'un', 'yvonne', 'une']	Alexandre	Les voix lançaient des bribes, des éclats, la musique de l’accent mauricien qui montait, descendait, la voix grave d’[MASK], les voix aiguës et chantantes des femmes, tante Pauline, tante Willelmine, tante Milou. Tôt ou tard, la conversation dérivait.
+
+['elle', '.elle', '...', 'il', 'on']	Éthel	» [MASK] a pleuré, elle s’est sentie libérée. Mais sans doute n’était-ce qu’une illusion. Le masque existait encore, il avait été fabriqué en série, et ceux qu’il faisait rire n’avaient pas changé.
+
+['ceci', 'frais', 'présent', 'raison', 'mots']	Xénia	Un battement de paupières et, la voix assurée, elle a répondu à [MASK] : « Mais si, je suis au courant, bien sûr, papa m’en a parlé quand j’ai signé le pouvoir, simplement tu comprends que je n’ai pas très envie d’aller voir
+
+['</s>', 'mais', 'et', 'puis', 'elle']	Éthel	Tout cela était du bruit, seulement du bruit. Pas de quoi fouetter un chat. Les choses se sont précipitées Les choses se sont précipitées. [MASK], en y réfléchissant plus tard, réalisera qu’elle n’a rien vu venir. C’était un enclenchement de rouages.
+
+[';', ',', '...', "jusqu'", ':']	Justine	Elle regardait [MASK] à présent, sans ciller, elle s’était attachée à son mince filet de voix, pour prévenir le moindre dérapage. Soudain le ridicule de la situation lui apparut : c’était elle la mère, qui accompagnait sa fille comme pour un concours de fin d’année à l’école.
+
+['il', 'on', 'elle', 'celui-ci', 'paul']	Justine	Mais l’esprit n’y était plus. La fêlure ne pouvait pas être réparée. Elle avait hâte de partir à l’autre bout du monde, de commencer à vivre enfin. Après la veillée et les funérailles, [MASK] avait organisé une brève réunion à l’appartement.
+
+['romaines', 'égyptiennes', 'etc.', 'latines', 'etc']	Scandinaves	Naguère on aurait donné des noms de déesses grecques, indiennes, [MASK]. Au temps où on a construit la Plate-Forme, les architectes rêvaient d’espace, ils revenaient d’autres mondes, ils avaient été enlevés par des extraterrestres – ou bien ils allaient trop au cinéma.
+
+['elle', '</s>', 'mais', 'et', 'qui']	Xénia	Elle n’était même pas très sûre d’avoir envie de rester. [MASK] est venue seule. Elle a paru plus grande, amaigrie. Elle ne portait pas de robe extravagante, mais un strict tailleur gris, et les cheveux coiffés en chignon.
+
+['</s>', 'il', 'elle', 'on', '--il']	Éthel	Il en avait parlé quelquefois, à demi-mot. « Quand je ne serai plus là, tu devras faire très attention. » [MASK] avait onze ans, douze ans, est-ce qu’elle pouvait comprendre ? Elle disait : « Vous serez toujours là, grand-père.
+
+['elle', 'il', 'on', 'elle-même', "j'"]	Léonora	Où étaient les gradins ? Où la porte par laquelle [MASK] a dû passer, avec tous les prisonniers, quand elle a débarqué de la camionnette de police ? Qui les attendait ? Y avait-il quelqu’un qui pointait les noms, comme pour une invitation à une fête ?
+
+['.', 'la', 'maman', 'le', "l'"]	Éthel	« C’est le piano, ça muscle beaucoup les poignets », avait dit [MASK]. Elle avait un peu honte de ses grandes mains. L’hiver, il faisait très froid dans le jardin, ses mains étaient rouges, couleur de celles des lavandières.
+
+['il', '</s>', 'elle', 'on', '--il']	Éthel	Il ne disait rien de sa vie, rien de l’endroit où il se trouvait. C’était la guerre. Il n’y avait pas lieu de répondre. [MASK] a lu la lettre deux fois, elle s’étonnait de ressentir si peu d’émotion.
+
+['on', 'il', "j'", 'qui', 'elle']	Éthel	En épluchant le dossier, [MASK] a trouvé cette feuille de papier, un vrai grimoire. La plume avait accroché, laissant des éclaboussures. Une écriture fine, entortillée, des mots attachés les uns aux autres, des mots barrés ou soulignés.
+
+['il', 'on', 'elle', 'chacun', 'je']	Éthel	» Peut-être qu’il avait honte, ou bien il avait vraiment oublié l’incident. Pourtant, ce ne pouvait être que lui. Un jour de semaine, pas le jour des réunions de famille. À l’heure où [MASK] revenait de l’école.
+
+['elle', '</s>', 'il', 'on', ',']	Xénia	[MASK] le lui avait dit, un jour : « Tu as l’air d’une éternelle vieille fille ! » Et tout aussitôt, à son habitude, elle l’avait frappée de ses petits poings durs : « Allez, ne pleure pas ! C’est mon cadeau d’anniversaire !
+
+['</s>', 'on', '-', 'il', '"']	Éthel	Depuis des mois, les travaux avaient repris avec une sorte de fièvre, malgré les grèves, malgré les menaces de révolution. [MASK] ressentait une satisfaction à regarder le mur de la propriété voisine du sieur Conard aveuglé par les bâches pour lutter contre la poussière.
+
+['lui-même', 'personne', 'lui', 'nouveau', 'celui-ci']	Alexandre	Plus tard, elle avait cherché un nom pour cet inconnu, cet intrus. Quand elle en avait parlé à [MASK], il avait fait semblant de ne pas s’en souvenir. « Un masque en carton bouilli, dis-tu ? Non je ne vois pas…
+
+['elle', 'personne', 'il', ',', 'on']	Éthel	Jamais [MASK] n’avait imaginé qu’on pût être dans cet état. C’était à la fois brutal, animal, et plein d’élan et de désir. Elle se laissait emporter, comme cette fois dans la foule où les soldats canadiens l’avaient entraînée dans leur ronde.
+
+['il', 'elle', '"', 'qui', ',']	Justine	[MASK] n’a même pas poussé un soupir. « Qu’est-ce que je ferais là-bas ? Je vous encombrerais… Je suis trop vieille, trop fatiguée. C’est vous qui viendrez me voir de temps en temps, j’espère. »
+
+['il', 'on', 'elle', 'il', 'olivier']	Éthel	C’est en s’approchant qu’[MASK] a compris. Le café en face offrait une façade impassible. Le bistrotier avait seulement orné sa vitrine d’une guirlande de houx, avec une faute d’orthographe, « Joyeuses fête », pour préparer la soirée du réveillon.
+
+['il', '"', ',', ':', 'qui']	Bondy	[MASK] faisait semblant de consulter des dossiers. Il lissait sa moustache teinte en roux, où se mêlaient les poils gris sortant de ses narines. « Vous dites que votre papa a tout perdu. Ce n’est pas ce qu’il m’a dit, à moi.
+
+['le', "l'", 'la', 'therrien', 'martin']	Éthel	Bien le moment de pleurer, a murmuré [MASK]. Mais les mots ne sont pas vraiment sortis de sa gorge. Bien le moment de pleurer, oui, mais c’est hier que vous auriez dû verser vos larmes, quand vous pouviez encore faire quelque chose.
+
+['percy', 'il', 'on', 'elle', 'cartouche']	Justine	[MASK] avait fabriqu��, pour le grand départ, un rideau de caoutchouc doublé de velours (le rideau rouge de l’entrée avait fourni le tissu et les plombs) pour protéger les jambes du vent et de la pluie.
+
+['on', 'il', 'elle', 'je', 'ils']	Éthel	Elle avait des tics nerveux qu’[MASK] ne lui connaissait pas, elle se grattait la tempe droite, elle faisait claquer les jointures de ses doigts. La terrasse était au soleil, il faisait déjà très chaud. Peu à peu elles ont retrouvé l’engouement d’autrefois.
+
+['il', 'elle', 'on', 'se', 'chacun']	Laurent	Elle ouvrait l’enveloppe, elle respirait l’odeur du papier un peu acide, une odeur de sueur. Son regard balayait l’écriture régulière, les phrases trop courtes où [MASK] parlait de politique, de littérature, de jazz, mais jamais de ses sentiments.
+
+['</s>', 'il', 'elle', 'qui', '"']	Xénia	déjà très chaud. Peu à peu elles ont retrouvé l’engouement d’autrefois. [MASK] n’avait pas perdu son sens du coq-à-l’âne, elle se moquait des filles court vêtues attablées avec des pioupious américains. « Les mêmes qui fricotaient avec les Allemands l’hiver dernier ! »
+
+['elle', 'ruth', 'jeanne', 'quand', 'après']	Justine	Elle ne pouvait rien dire, seulement une ou deux fois, elle avait crié : « Assez ! » Et [MASK] était entrée dans sa chambre, elle s’était assise sur le lit, comme ce soir, sans rien dire, peut-être qu’elle avait pleuré dans l’obscurité.
+
+['elle', ',', 'ne', 'fille', 'enfant']	Éthel	[MASK] se souvenait d’avoir crié, d’avoir couru dans le corridor, jusqu’à sa chambre, elle sentait tous les poils hérissés sur ses bras et sur ses jambes, et un froid, une coulée froide le long de son dos. Son cœur battait à se rompre.
+
+['je', 'napoléon', 'chacun', 'dieu', 'celui-ci']	Justine	Les mêmes ombres continuaient d’errer dans les allées, mais à présent les épluchures et les racines moisies se vendaient. Dans les jardins, les chats errants se mangeaient entre eux. Les pigeons avaient disparu, et les pièges que [MASK] disposait sur la gouttière ne servaient plus qu’à attirer des rats.
+
+["m'", 'lui', "l'", 'il', 'nous']	Éthel	[MASK] a dit dans un souffle : « Ils s’en vont. » Elle n’était pas très sûre de qui étaient « ils », même lorsque, derrière les tanks, sont apparus les camions débâchés où étaient les soldats, et le bruit des moteurs était encore plus inquiétant.
+
+['on', '</s>', 'il', ',', '--']	Éthel	Il fallait aller de plus en plus loin, de plus en plus tôt. Au marché, tout coûtait cher. Tout se vendait. [MASK] achetait des feuilles de navet, des feuilles de courge, des feuilles de chou.
+
+['elle', 'lui', 'moi', 'elle-même', 'nous']	Éthel	Ou parfois, et c’était cela qui la troublait davantage, il ne disait rien, il semblait perdu dans une rêverie, et son regard vide se tournait vers [MASK], un regard bleu-gris flottant, un peu triste. Elle aurait voulu dire quelque chose pour le rassurer.
+
+['il', 'elle', 'on', "j'", 'anna']	Éthel	Ça n’était pas clair. Un jour, [MASK] avait posé la question à son père. « C’est un industriel. » Et comme si c’était insuffisant, il avait ajouté : « C’est un aventurier des temps modernes. Il travaille à la Bourse.
+
+['elle', 'lui', 'moi', 'france', 'femme']	Xénia	Dans le fond, elle préférait que tout se finisse dans la banalité. La grâce de l’extrême jeunesse envolée, il ne restait plus en [MASK] qu’une femme comme les autres, toujours très belle, certes, mais un peu vulgaire, un peu méchante, probablement insatisfaite.
+
+['était', "c'", '.', 'ce', 'de']	Laurent	Ils en avaient parlé souvent, avec [MASK], un voyage parfumé, amoureux, mais surtout rien qui pût ressembler à une lune de miel trop sucrée. Maintenant, les routes étaient droites, vides, elles traversaient des pays admirables, les champs de blé en herbe, les pâtures, les pentes de fougères.
+
+['elle', 'il', 'qui', 'elle', 'lui']	Justine	[MASK] n’avait pas l’habitude de se plaindre. Elle ne parlait pas. Elle soupirait un peu : « Eheu, la vie est difficile. » Elle disait seulement : « La vie est un sac très lourd. » Qu’y avait-il dans le sac ?
+
+['tom', 'jean', 'sam', 'paul', 'bob']	Stephen	Les balades à vélo, les bains de mer jusqu’à neuf heures du soir, la danse dans les bals publics, un peu de flirt dans les dunes, un joli garçon brun aux yeux verts nommé [MASK], les parties de cartes dans les cafés du bord de mer.
+
+['répondait', 'non', 'écoutait', 'avait', 'disait']	Éthel	Elle, [MASK], n’écoutait pas. Elle avait fixé la nouvelle venue, impossible d’en détacher son regard, elle avait dit, à voix presque basse, s’adressant à ses camarades : « Vous avez vu cette fille ? »
+
+['elle', 'et', ',', '.elle', 'ée']	Éthel	[MASK] se demandait si elle était la seule à savoir que la banqueroute s’approchait. Elle regardait le grand homme, son teint de vieux Mauricien que l’hiver parisien n’avait pas réussi à pâlir, sa chevelure noire brillante, sa barbe taillée avec soin, ses mains d’artiste aux doigts longs et nerveux.
+
+['personne', 'moi', 'lui-même', 'maman', 'présent']	Justine	Alors elle a plongé, elle a nagé le plus loin possible vers le large, puis elle a repris pied sur une digue, du côté des viviers. Plus tard elle est retournée dans la crique chercher ses affaires. Elle n’en a pas parlé à [MASK].
+
+['</s>', 'il', 'on', 'elle', 'chacun']	Éthel	Ils n’avaient pas vraiment de réalité. Peut-être même qu’ils servaient à masquer la vie. C’était comme si on avait tout caché. [MASK] ressentait ce vertige, cette douleur. Un après-midi, au retour de l’école, elle avait dix ans à peu près.
+
+['elle', '</s>', 'il', 'qui', '"']	Justine	» C’était la tante Willelmine au piano, très digne, comme si elle s’apprêtait à jouer une hymne. [MASK] avait une voix claire, un peu flûtée, une élocution impeccable, elle détachait chaque syllable, elle faisait sonner chaque consonne.
+
+['elle', 'celle-ci', 'jeanne', 'marie', 'madeleine']	Éthel	Elle est restée dans le couloir, devant la petite table drapée de noir sur laquelle les visiteurs déposaient leur carte. Tout ça avait l’air d’une mauvaise pièce de théâtre. Plus tard, elle entendra sa mère raconter la scène, comme quoi [MASK] était trop émue pour un dernier adieu.
+
+['</s>', '...', '-', 'il', 'elle']	Justine	« Oui, oui, on pourrait toujours demander la mise sous curatelle de votre papa, compte tenu de ce qui lui est arrivé. Il faudrait un certificat du médecin qui… — Jamais ! » [MASK] a contenu son cri.
+
+['lola', 'nathalie', 'maria', 'julien', 'sabine']	Xénia	Elle aurait pu ruser, s’embusquer dans un café, guetter le passage de [MASK] ou de sa sœur Marina, mais la seule idée du regard goguenard d’un cafetier ou des œillades des messieurs qui cherchaient les filles dans ce mauvais quartier lui avait fait horreur.
+
+['jean', 'papa', 'daniel', 'john', 'jésus']	Justine	Pour être quelqu’un, devenir quelqu’un. Pour s’endurcir, pour oublier. Elle a fini par se calmer. Ses yeux se sont séchés. Elle écoutait la respiration de [MASK], juste à côté d’elle, et le rythme régulier l’endormait.
+
+['non', 'oh', 'oui', 'ah', '"']	Xénia	« Enfin, tu vois ce que je veux dire, non ? ajoutait [MASK], non, c’est vrai tu ne connais pas ces choses-là, toi, je veux dire, une femme qui n’aime pas trop les hommes, une femme qui sort avec les femmes.
+
+['se', 'à', 'dé', 'julie', 'nana']	Xénia	Elle se reculait, comme si elle voyait [MASK] porter les modèles. « Tu sais, tu es si belle, j’aimerais que ce soit pour t’habiller, je dessinerais les robes et c’est toi qui les mettrais. »
+
+['</s>', 'il', 'on', 'elle', '"']	Justine	Tout ce qui le séparait de cette gloire, de cette jeunesse, tout ce qui avait glissé, s’était enfui, année après année, jusqu’à cette pièce vide d’où il serait bientôt expulsé. [MASK] avait pris les choses en main.
+
+['il', 'elle', 'on', 'lui', 'lui-même']	Laurent	Peut-être que ce qui la touchait le plus chez ce garçon c’était qu’il n’avait plus ni père ni mère. Sa mère était morte à sa naissance, et son père était décédé de maladie quand [MASK] avait une dizaine d’années.
+
+['il', 'elle', 'ça', 'qui', 'se']	Éthel	[MASK] riait. C’était la première fois depuis si longtemps que ça devait lui mettre des larmes dans les yeux, mais c’était bon. Ainsi leurs cœurs se réveillaient, sortaient de l’hivernage. Ils retrouvaient chaque seconde de mémoire, même si ce n’était pas l’innocence.
+
+['il', 'on', 'elle', 'et', '</s>']	Éthel	Dans la grande pièce éclairée par un jour pâle venant des verrières, [MASK] circulait au milieu des animaux figés dans leur pose, chats à l’affût ou dormant, chiens fous, chiens assis, chiens couchés, les pattes avant bien droites devant eux, la tête dans une posture hiératique.
+
+['midi', 'athènes', 'lui', '.', 'ce']	Éthel	À [MASK], il a dit, en se penchant vers elle, c’est la première fois qu’elle s’est sentie sortir de l’enfance, parce qu’il lui parlait comme à la seule personne raisonnable : « Ne les écoutez pas, mademoiselle.
+
+['il', 'qui', 'on', 'elle', 'et']	Xénia	Plus tard, et les jours suivants, elle avait compris ce qui lui mordait le cœur. De la jalousie, simplement. [MASK] avait mis ce poison en elle. Elle en ressentit du dépit, de la colère envers elle-même. De la jalousie, c’était donc ça
+
+['</s>', 'il', "c'", 'tout', 'cela']	Laurent	Elle essayait de rejoindre le temps passé, quand ils étaient couchés dans le sable de la dune, et qu’ils pouvaient croire que tout serait facile, que cela durerait toute leur vie. [MASK] était raide, distant, comme à son habitude.
+
+['elle', 'il', 'on', 'et', 'marie']	Éthel	Ensuite, peu à peu, l’équilibre est revenu. C’était la fin de l’hiver, les travaux de construction de l’immeuble avaient sérieusement commencé. Avec la même détermination qu’elle aurait mise à empêcher le projet, [MASK] a voulu tout savoir, tout connaître.
+
+['en', 'à', 'de', 'du', 'des']	GALLIMARD	Je sors des années grises, j’entre dans la lumière. Je suis libre. J’existe. C’est d’une autre faim qu’il sera question dans l’histoire qui va suivre. J. M. G. LE CLÉZIO RITOURNELLE DE LA FAIM roman [MASK] 2008
+
+['elle', 'il', 'qui', ',', 'et']	Éthel	[MASK] n’avait pu s’empêcher de ricaner : « Ça ressemble plutôt à une vente aux enchères, ton histoire. » Elle avait ajouté comme un défi : « Moi, je ne me marierai jamais. À quoi ça sert ? »
+
+['il', 'elle', 'on', 'maman', 'papa']	Éthel	Des sortes de ronces, ou du chèvrefeuille, pendaient. À la place du mur, un panneau de planches servait de rempart. Au haut du panneau, un écriteau affichait le permis de construire, mais [MASK] n’a pas eu envie de le déchiffrer.
+
+['elle', 'on', 'il', 'et', 'elle-même']	Éthel	! » Elle ne riait jamais aux éclats, elle avait toujours une petite voix grinçante pour raconter des histoires auxquelles [MASK] avait du mal à résister. « Quand elle marche, regarde bien, ça lui fait comme une queue qui court après son gros derrière ! »
+
+['il', 'elle', 'personne', 'je', 'et']	Éthel	Il faisait humide en cet après-midi d’automne, mais un pâle soleil éclairait le mur de pierres au fond du terrain. Un lézard brun était sorti du mur, pour les observer de ses petits yeux brillants comme des boutons de métal. Jamais [MASK] n’avait parlé comme cela à personne.
+
+['moi', 'elle', 'lui', 'toi', 'nous']	Éthel	Puis elle s’est tournée vers [MASK], et le bleu gris de ses iris ressemblait à la couleur d’une mer très au nord, très lointaine. Elle a dit : « Moi non plus, chérie. » Et pour casser la solennité un peu ridicule de cet aveu, elle a ricané.
+
+['il', "c'", 'tout', 'elle', 'on']	Éthel	Le train était prévu pour onze heures, mais dès neuf heures [MASK] était là. Le soleil brûlait déjà. Sous les piles du pont en ruines le fleuve était grossi par la fonte des neiges, il étendait sur la mer une large tache boueuse.
+
+['elle', 'lui', 'celui', 'elle-même', 'lui-même']	Xénia	Parfois, elle voyait une silhouette au loin, au bout de l’allée. Des hommes seuls, pas très rassurants. Elle marchait vers eux, d’un pas décidé, comme si elle n’avait pas peur. C’était [MASK] qui lui avait appris : «
+
+['marie', 'lui', 'jean', 'jésus', 'personne']	Xénia	Elle avait entendu un jour des gens raconter les derniers instants de la famille Romanov, comment ils avaient été fusillés dans une cave par les Rouges. Mais elle était sûre que [MASK] n’avait pas pleuré, qu’elle ne pleurait jamais.
+
+['alain', 'olivier', 'hélène', 'amélie', 'usage']	Alexandre	« C’est noyau kili ! » Les autres reprenaient en gloussant : « Noyau kili ! » C’était le dicton préféré d’[MASK] : mangue li goût, so noyau kili , la mangue c’est bon, mais que peut-on dire de son noyau ?
+
+['tous', 'son', 'ses', 'la', 'sa']	Justine	Une blague qu’il avait préparée à l’insu de [MASK], et il s’était caché derrière la porte. Quand il avait vu le résultat, sa crise de larmes, son épouvante, il était allé se réfugier dans son bureau, il avait fait semblant de ne pas entendre.
+
+['qui', "s'", 'se', ',', 'il']	Alexandre	[MASK], remis à peu près de son accident, avait repris ses sorties. Chapeauté, impeccable dans son costume gris trois pièces du temps de sa splendeur, sa barbe taillée aux ciseaux et ses cheveux noirs bien peignés, il allait aux affaires.
+
+['le', 'la', 'à', "l'", 't-il']	Éthel	Peut-être n’y avait-il pas eu de guerre, songeait [MASK]. Comme pour elle et sa famille errant sur les routes, puis cachées dans la montagne. Seulement des crimes, des crimes et des criminels, des bandes lancées dans les campagnes pour piller, tuer et violer.
+
+['il', 'elle', 'et', "n'", 'jeanne']	Justine	Les premiers temps, [MASK] avait réussi à traîner son mari, mais désormais il se carrait dans son fauteuil, les mains agrippées aux accoudoirs. « Allez-y si vous voulez, moi je préfère mourir au grand air que d’être enterré comme un rat ! »
+
+['il', 'elle', 'on', 'chacun', 'chacune']	Éthel	Elles se sont embrassées, et [MASK] a noté qu’elle n’avait plus cette odeur de pauvreté qui naguère faisait battre son cœur d’émotion. Elles ont parlé de choses et d’autres, comme pour éviter le passé.
+
+['elle', 'il', 'on', 'hélène', 'anna']	Éthel	Elle avait cette façon de dire le x de son prénom, en chuintant doucement du fond de la gorge, qu’[MASK] trouva aussitôt merveilleuse, comme son nom de famille – les autres filles n’avaient pas manqué de faire leur plaisanterie facile, Chavirov, tu chavires ?
+
+['</s>', 'il', 'elle', 'qui', '(']	Éthel	Maintenant, les routes étaient droites, vides, elles traversaient des pays admirables, les champs de blé en herbe, les pâtures, les pentes de fougères. Le ciel léger, semé de petits nuages tendres, un bleu délavé vers l’horizon. [MASK] chantait en conduisant,
+
+['lui', 'personne', 'john', 'chacun', 'il']	Xénia	Le « comme d’habitude » était du miel dans son cœur, cela voulait dire qu’on continuerait, elle en a ressenti une telle gratitude que des larmes ont débordé de ses yeux, et elle s’est détournée pour que [MASK] ne s’en rende pas compte.
+
+['dieu', 'marie', 'famille', 'jésus', 'la']	Sivodnia	Tout cela paraissait lointain comme un rêve, et pourtant, étrangement, ressurgissait ici, dans le sous-sol affreux de cette maison, lui faisait battre le cœur quand elle franchissait le portail et qu’elle lisait le nom de [MASK]. Elle arrivait le matin, vers dix, onze heures.
+
+['</s>', 'il', 'on', 'qui', 'elle']	Éthel	En attendant, il avait donné, prêté, perdu de l’argent de tous côtés. Les affaires, les fameux investissements, n’avaient profité qu’aux margoulins, et encore. [MASK] aurait pu réciter la longue litanie des faux amis, des conseillers véreux.
+
+['jésus', 'daniel', 'david', 'jeanne', 'tout']	Éthel	Mais il a posé la question comme tout à l’heure, de la même voix hésitante, et de plus, il tient [MASK] par la main et il reste immobile. Elle comprend, elle dit : « Plus tard, si tu veux ?
+
+['certains', 'ceci', 'les', 'un', 'des']	Talon	» Elle était contrecarrée immédiatement par [MASK] : « Les augmentations, ça n’est pas inquiétant, c’est un bon signe économique, madame. La vérité, ce qui doit vous inquiéter, c’est la déflation, la diminution du prix de la vie.
+
+['on', 'il', 'entre', 'elle', 'et']	Éthel	La foule va dans l’autre sens, maintenant, vers le bout du lac. Au-dessus des arbres, [MASK] voit des tours étranges, couleur de ciment. Sur un écriteau, elle lit le nom, avec difficulté : « Ang… kor… — Vat
+
+['en', 'ses', 'sa', 'son', ',']	Justine	Elle avait pleuré dans les bras de sa mère, sans pouvoir reprendre son souffle. Puis, un peu plus tard, elle avait entendu la voix grave de son père qui répondait aux reproches, qui cherchait à calmer [MASK], une voix qu’elle ne connaissait pas, triste, coupable.
+
+['on', 'il', 'et', 'elle', 'chacun']	Éthel	C’est comme si elle voyait s’ouvrir enfin son cœur, au terme d’une vie solitaire et endurcie. Sur le côté, un chemin s’éloigne de la rive. Les promeneurs sont moins nombreux. Un écriteau dit : VIEILLES COLONIES. En dessous les noms sont écrits, [MASK] les lit lentement :
+
+['elle', '</s>', 'on', 'et', 'il']	Éthel	Elle chantait cet air pour la première fois en public. [MASK] sentit une rougeur à ses joues, des picotements. Ses yeux étaient fixés droit devant elle, sans regarder qui que ce soit. Maintenant le bruit des conversations du salon s’était tu.
+
+['m', 'le', ':', '"', ',']	Éthel	Mais nous trouverons une porte de sortie, tu verras. Nous allons faire front, tous ensemble, comme une vraie famille. » Etc. Propos lénifiants, pensait [MASK]. En remontant le cours de cette histoire, elle voyait bien qu’il n’y avait pas de porte de sortie.
+
+['</s>', 'elle', "c'", 'il', '"']	Laurent	Les yeux la scrutaient, parfois quelqu’un la regardait en souriant, avec espoir. Et tout à coup, alors qu’elle allait partir, elle l’a vu. [MASK] était au bout du quai, il attendait.
+
+["j'", 'chacun', 'napoléon', 'lui-même', 'jacques']	Justine	L’argent commençait à manquer. Les économies que [MASK] avait réunies en vendant ce qui avait échappé à l’avidité des huissiers avaient été bien entamées au début de l’hiver. Il fallait du coke pour le poêle, de la sciure, du pétrole lampant pour les coupures de courant.
+
+['vrai', 'bien', 'non', 'tout', 'impossible']	Éthel	« Mimine, Rama, Folette ! Venez voir qui est là, allons, montrez-vous, c’est [MASK], elle ne va pas vous manger ! » Elle s’excusait : « Ils seraient mieux dehors, dans le jardin, il fait beau, mais que veux-tu
+
+['anna', 'agnès', 'henriette', 'hélène', 'annette']	Éthel	: « Ma chérie. » Il avait pris la main d’[MASK], il essayait de la regarder, mais la raideur de son cou – le faux col que serrait trop la cravate – l’empêchait de se retourner.
+
+['et', 'il', 'elle', ',', 'qui']	Éthel	Elle avait connu l’envers du rideau rouge qui frémit avant les trois coups. Que lui restait-il de ce temps ? Dans ses yeux gris-vert allongés en amande – évidemment tirés par les pinces accrochées à ses tempes sous ses cheveux – [MASK] cherchait à déchiffrer la séquence des souvenirs.
+
+["jusqu'", 'tout', 'toujours', 'souvent', 'chacun']	Éthel	Quand il avait trouvé un hôtel, il entraînait [MASK] à la chambre. Il avait hâte de faire l’amour, jusqu’à ce que leurs corps soient trempés de sueur, haletants, plongés dans une sorte d’insensibilité voisine de la douleur.
+
+['wade', '"', 'dit-il', 'il', 'qui']	Bondy	» Me [MASK] était pris de court. Il n’avait probablement jamais eu dans sa carrière affaire avec une jeune fille âgée de dix-neuf ans qui venait lui réclamer des comptes. Sans doute se sentait-il protégé par la loi, il n’avait commis aucune malversation.
+
+[',', '-', '...', ';', 'presque']	Éthel	L’officier allemand, élégant, impeccable et courtois, et son interprète, un jeune homme chafouin, vêtu d’une veste de cuir noir, l’air d’un petit voyou, qui avait tout au long de l’entretien zyeuté [MASK] comme s’il cherchait à voir sa silhouette et ses jambes sous son manteau marron.
+
+['elle', '.elle', '...', 'on', ',']	Éthel	» [MASK] avait protesté pour la forme. Au fond d’elle-même, elle était rassurée à l’idée qu’il ne resterait rien de la Maison mauve, absolument rien, pas même un colifichet pour orner la façade d’un pavillon de banlieue.
+
+['</s>', '-', '_', '"', '--']	Milou	Tous ruinés, beaucoup étaient morts dans la dèche. Les vieilles tantes n’avaient rien. [MASK] surtout, qui ne s’était pas mariée, qui avait vécu toute sa vie de la charité de son frère et de ses sœurs. Les autres ne valaient guère mieux.
+
+['</s>', "n'", 'il', 'elle', 'on']	Alexandre	Le moratoire sur les augmentations de loyer était arrivé à cet exact moment. Il aurait fallu louer à perte, avec le risque de ne pouvoir vendre un immeuble occupé. [MASK] avait cessé de fulminer contre le Front populaire, contre les grévistes, les manifestants.
+
+['il', 'qui', 'elle', 'on', 'et']	Éthel	C’était grotesque. Avec une méchanceté froide, [MASK] a dit : « Parce que vous trouvez, vous, cela fantaisiste ? Vous trouvez que cela fait plus jeune ? » L’homme la regardait d’un air consterné. « Mais c’est votre père… »
+

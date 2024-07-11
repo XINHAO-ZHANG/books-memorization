@@ -1,0 +1,200 @@
+['il', 'Charles', 'Alexandre', 'David', 'Thomas']	Pierre	Cependant [MASK] s’assit à cette table imposante. Il se trouva entre deux dames anglaises, la mère et la fille. Il s’était dit qu’après tout, il ferait un bon dîner avec modestie, écouterait, observerait pour éviter les gaucheries que son inexpérience lui faisait craindre.
+
+['il', 'on', 'lui', 'Louis', 'Charles']	Pierre	On le questionnait, on caressait son âne, on admirait son char. Moins que jamais [MASK] n’eût songé à prendre une nouvelle voie, son bonheur était doublé en revoyant le chemin qu’il avait fait à pied, en s’arrêtant devant une porte connue.
+
+['Joseph', 'Ibrahim', 'Marie', 'Sara', 'Ali']	Pierre	: « Cette femme tiendra parole, jamais tu ne seras volé par ceux de sa tribu. » Le vieillard ne porta pas moins d’intérêt au long récit que lui fit [MASK] de tous les événements qui s’étaient succédé depuis la mort de son père.
+
+['Il', 'Elle', 'Pierre', 'Paul', 'Joseph']	Pierre	La cathédrale se détachait admirablement sur le sol couvert de neige, elle était éclairée par un ciel bleu et pur. [MASK] resta longtemps devant le grand portail, compta les quatorze statues représentant les prophètes de l’Ancien Testament ; le portail de droite et celui de gauche n’échappèrent pas à son observation.
+
+['elle', 'se', 'Marie', 'Madeleine', 'Jeanne']	Rose	Après avoir déclaré qu’elle n’avait pas donné un sou aux marchands passants, [MASK] tourna et retourna ce qui restait de marchandises à son jeune hôte et fit des emplettes qui achetèrent de compléter la somme de deux cents francs.
+
+['lui', 'leur', 'nous', 'il', 'Alexandre']	Pierre	La maîtresse de l’auberge ne perdit pas de temps pour lui demander d’où il venait et où il allait. A peine [MASK] eut-il dit son nom, que la brave femme lui témoigna le plus vif intérêt.
+
+['Il', 'il', 'Louis', 'Joseph', 'Charles']	Pierre	? Il y a tant de monde dans ce Strasbourg ! Et un dimanche surtout, un garçon comme vous peut être entraîné par une mauvaise connaissance. Entrez donc vous chauffer ! » [MASK] était toujours heureux, quand une bonne mère de famille lui témoignait de l’intérêt ;
+
+['Il', 'Pierre', 'Joseph', 'Louis', 'Charles']	Pierre	Entrez, mes petits enfants, adressez-vous à droite, dans la cour. » [MASK] obéit et il obtint sans difficulté la permission d’être admis près du comte. Mais dans ce château la charité unissait les cœurs, et la comtesse vint la première reconnaître les petits visiteurs.
+
+['Elle', 'Il', 'Marie', 'Jésus', 'Jeanne']	Lolotte	Ce ne fut cependant pas tout de suite que le père et la mère lui adressèrent la parole : émus, ivres de bonheur et de surprise, leurs bras enlacés autour de la chère petite créature, ils la couvraient de baisers, la regardaient avec une joie mêlée de crainte. [MASK] prit enfin la parole.
+
+['il', 'Charles', 'Louis', 'François', 'Pierre']	Lipp	Une fois engagé dans la société de ses compagnons de voyage, [MASK] fut obligé de les suivre partout avec plus ou moins d’intérêt. A sa grande satisfaction, ils arrivèrent enfin dans le caveau où se trouve la grande curiosité du château, la fameuse tonne qui peut contenir 283 000 bouteilles de vin.
+
+['Monsieur', 'monsieur', 'Pierre', 'Jean', 'Joseph']	Pierre	Après avoir tout dit et redit, la brave femme demanda à son hôte s’il n’avait pas, par hasard, des lunettes, car sa vue baissait un peu. Sur la réponse affirmative de [MASK], elle poussa une exclamation de joie : « Vous êtes le premier
+
+['Jeanne', 'elle', 'Marguerite', 'Marie', 'Madeleine']	Rose	Il disparut et revint chez [MASK] qui voulut se fâcher, par ce que le café avait trop attendu ; mais quand elle sut que son jeune hôte venait de l’église, elle se calma : « C’est bien, mon enfant, n’oubliez jamais les bons exemples que vous avez reçus de vos parents ;
+
+['»', '[...]', '...', '(...)', '».']	MARIANNE	Après avoir renouvelé leurs remercîments, la mère et les enfants se disposaient à partir, lorsque la comtesse les engagea à passer à l’office où les attendait un plat de choucroute et un pot de bière. Avec quel empressement furent servis les protégés du château ! [MASK]
+
+['elle', 'il', 'lui', 'on', 'Marguerite']	Pierre	Pour celle-là, je peux vous en donner des nouvelles. Et [MASK] raconta son aventure. « Ainsi, madame, vous n’avez rien à craindre, mon amie la bohémienne doit déjà savoir que vous êtes venue m’honorer de votre visite.
+
+['il', 'on', 'elle', 'chacun', 'Pierre']	Pierre	Il y a encore de quoi souper. » Le mari, la femme et les enfants s’empressaient autour du voyageur. C’était à qui le servirait, le questionnerait, sans même lui donner le temps de répondre. Enfin [MASK] accepta encore une fois l’hospitalité.
+
+['il', 'Louis', 'Il', 'Joseph', 'Jean']	Pierre	il prenait part aux conversations. Son histoire racontée et commentée donna lieu à d’autres récits, intéressants sans doute, mais qui ne sauraient trouver place ici. Quand [MASK] fut seul avec le bon maître d’école, il lui parla de ses projets, et lui demanda des conseils
+
+['Dieu', 'Paul', 'Max', 'Charles', 'il']	Pierre	Il ne savait s’il devait être content ou fâché de l’aventure. « Après tout, dit [MASK], une bonne action mérite toujours son nom : cette femme aime son enfant elle ne pourrait haïr celui qui l’a porté dans ses bras ! »
+
+['Il', 'Elle', 'On', 'Charles', 'Louis']	Pierre	Il passait devant Victoria-hôtel, sans songer à s’y arrêter, lorsqu’il fut reconnu par ses jeunes protectrices. L’appeler, le faire entrer, ce fut l’affaire d’un instant. [MASK] dut déballer, vendre et mettre dans sa poche de bonnes pièces d’argent français.
+
+['Elle', 'Alice', 'Marie', 'Jeanne', 'Sophie']	Christine	[MASK] avait plus ou moins suivi la conversation, elle était bouche béante devant une belle sainte Vierge qui faisait partie de la fenêtre. Jamais la petite fille n’avait vu de si beaux tableaux, tant de gros livres et un monsieur travailler à de l’écriture.
+
+['Marie', 'Elle', 'Maman', 'Jeanne', 'Madeleine']	Christine	[MASK] perchée sur l’épaule de son frère riait de tout son cœur, et, si un de ces tristes heureux du monde l’eût vue, je crois bien qu’il eût donné une bonne somme pour réjouir son foyer privé de semblables joies enfantines. LA MÈRE.
+
+['Elle', 'Il', 'Marie', 'Madeleine', 'Marguerite']	Pierre	; vous assisterez à la messe de minuit, et, après avoir pris part au repas de mes gens, vous vous remettrez en route. [MASK] eut beaucoup de peine à dire : « Merci, madame. » Il lui semblait que le vieillard était là ;
+
+['Elle', 'Il', 'Marie', 'Jeanne', 'Marguerite']	Pierre	[MASK] garda le silence et sa sœur n’ajouta pas un mot. Elle avait compris sans qu’il fût utile de le lui dire que ce char était à son frère, et la pauvre petite éprouvait une sorte de honte d’être la première à troubler le bonheur de celui qu’elle aimait si tendrement.
+
+['Joseph', 'Fritz', 'Paul', 'Louis', 'Charles']	Pierre	; il était apte à tout. La veuve de Lipp inspira le plus sincère intérêt ; une petite pension lui fut accordée par les dignes propriétaires de la forge. On envoya [MASK] à l’école, il s’y fit remarquer par son exactitude et son application.
+
+['</s>NOTUSED', 'MARIE', 'PAUL', 'JEAN', 'LOUIS']	LOLOTTE	Si j’étais à la maison, je jouerais avec ma poupée. Vous ne vendez pas de poupées ? PIERRE. Non, mais j’ai de bien jolis joujoux. [MASK]. Oh ! si j’avais ma bourse, je vous en achèterais.
+
+['Il', 'il', 'Paul', 'Louis', 'Madeleine']	Pierre	[MASK] éprouva une sorte de confusion à la pensée qu’il pouvait s’asseoir à cette table abondamment couverte de mets dont la vue excitait son appétit, Le fils de Madeleine avait le gousset bien garni ; peut-être allait-il s’asseoir à côté d’un millionnaire, d’une princesse
+
+['Pierre', 'Paul', 'Charles', 'Louis', 'Henri']	Pierre	« Mais à mon âge, disait-il, il faut savoir mourir où l’on est. » Aucune distraction ne fut offerte à [MASK] chez son grand-oncle ; cependant il se sentait heureux de lui faire plaisir, il savait écouter les vieillards, il les questionnait et se trouvait toujours bien de suivre leurs conseils.
+
+['il', 'Il', 'on', 'On', 'Louis']	Pierre	; [MASK] voyait qu’il approchait d’une grande ville. Le cœur lui battait. « Comment allait-il s’en tirer ? » Et puis Strasbourg était le terme de son ambition, sa curiosité était éveillée. Que d’affaires le petit marchand repassait dans sa mémoire.
+
+['Joseph', 'Pierre', 'Jean', 'Roland', 'Alexandre']	Pierre	De quels transports de joie fut saisi [MASK] en entendant le vieillard lui dire : « Tu réussiras parce que tu as du courage, sois toujours honnête, ne te presse pas de gagner, souviens-toi que les petits ruisseaux font les grandes rivières. »
+
+['celui', 'celle', 'lui', 'Pierre', 'Georges']	Lolotte	Il fallut céder à de telles instances et le jeune Alsacien ayant rajusté sa toilette prit place à côté de [MASK] qui ne se sentait pas d’aise. Par un instinct naturel à certaines gens, notre petit paysan avait des façons simples et empreintes d’une certaine éducation.
+
+['«', 'I', '1', '5', 'II']	PIERRE	[MASK]. Cette permission me suffit. Écoutez-moi. Et, quand vous m’aurez entendu, j’espère que vous bénirez mes projets. J’étais encore bien petit le jour où le corps de mon père fut rapporté ici par ses camarades, et pourtant je ressentis un chagrin qui me changea tout à coup.
+
+['il', 'Il', 'Pierre', 'lui', 'Louis']	Pacha	je l’ai élevé comme mon enfant, ni plus ni moins, jamais une brusquerie, un mauvais traitement. Aussi n’a t-il pas les défauts de ses semblables ; défauts qui sont le résultat de la manière dont on les traite. Doux et patient, [MASK] est courageux.
+
+['il', 'on', 'chacun', 'Il', 'elle']	Pierre	A ce mot d’étranger, [MASK] réclama, et il se mit à parler de son pays et à raconter son histoire. L’INCONNU. Moi aussi, je cours pour faire fortune, mais ces diables de douaniers sont bien gênants ! leur avez-vous joué déjà de bons tours
+
+['Charles', 'Pierre', 'Jean', 'Henri', 'Alexandre']	Pierre	il la suit comme il l’a commencée et il ne se trompe pas en pensant qu’il lui revient une part de l’estime dont jouit son humble protégé. Ce n’était donc plus par un sentiment de bienveillance que le Comte allait pousser [MASK] dans une nouvelle voie ;
+
+['Il', 'il', 'Elle', 'Joseph', 'Pierre']	Pierre	! Quel malheur d’avoir perdu ce compagnon de voyage au moment où il lui eût été le plus utile ! [MASK] mordait la main qui cherchait à étouffer ses cris, sa bouche était remplie du sang de cette main criminelle, il sentit craquer un os ;
+
+['Pierre', 'Gaspard', 'Jeanne', 'Marie', 'Jean']	Pierre	; ils finirent par aller chercher leur bonne. Celle-ci était une grosse paysanne qui paraissait se croire d’une grande importance, parce qu’elle habitait un grand château. Elle dit d’un ton impérieux à [MASK] : « Entrez par la petite porte. »
+
+['Il', 'Charles', 'Frédéric', 'On', 'II']	Pierre	[MASK] ne suivit pas ses aimables connaissances à leur hôtel. Il avisa un endroit plus modeste et s’y trouva encore mieux qu’il ne l’avait été dans tous ses voyages. Dès le soir même il cemmença à circuler dans la grande rue.
+
+['il', 'Charles', 'on', 'Louis', 'elle']	Pierre	Sur l’invitation que les demoiselles lui en firent, [MASK] tira cette ficelle et il sortit une queue de renard qui vint lui frapper le visage. Cette horloge a été fabriquée, dit-on, par ce petit vieillard, le fou du palatin Charles Philippe.
+
+['manger', 'table', 'dîner', 'emporter', 'boire']	Madeleine	La maison n’était plus silencieuse, les voisins venaient. Le temps n’était plus où la mère Nicole apportait des provisions à [MASK]. La brave femme s’asseyait à la table de la veuve et le meilleur morceau lui était destiné.
+
+['</s>NOTUSED', '»', '«', 'Ah', '...']	PIERRE	Quand les forces viendront à me manquer, mon ami : jusque-là, je remplirai ma tâche. [MASK]. Votre tâche ! A votre âge ! Il me semble que vous avez fait assez de bien dans votre vie pour vous reposer.
+
+['elle', 'il', 'Anna', 'Alice', 'Sophie']	Lolotte	Il n’y avait plus de traces de larmes sur ce visage enfantin. Semblable à la jeune colombe effrayée par le passage de l’épervier qui arrive saine et sauve sous l’aile maternelle, [MASK] oubliait le danger qu’elle avait couru.
+
+['payer', 'rembourser', 'restituer', 'dépenser', 'gagner']	Pierre	Les profits montaient tous frais faits à cent cinquante francs ; le Comte fixa à trente francs la somme qui devait lui être rendue. Il restait donc à [MASK] cent vingt francs ! Ne dites pas, c’est peu de chose ; non, ne dites pas cela.
+
+['Salomon', 'Joseph', 'David', 'Pierre', 'Jean']	Pierre	On lui donnerait la préférence une fois qu’il serait bien connu de ses pratiques. Ces discours n’étaient pas seulement d’une douceur infinie aux oreilles de [MASK], il les méditait, se promettant bien d’être digne de la protection de ses bienfaiteurs.
+
+['il', 'on', 'Il', 'Pierre', 'Charles']	Pierre	Ému de reconnaissance, [MASK] ne délibéra pas plus longtemps. Il s’enquit de la maison où il pourrait se pourvoir, et le lendemain il accostait poliment, gentiment les promeneurs en débitant le catalogue de ses marchandises. Bientôt aussi il s’arrêtait, entrait dans les maisons, frappait aux portes des appartements.
+
+['Comment', 'comment', 'Ne', 'ne', 'Aussi']	Christine	Une jeune fille, la tête couverte d’un mouchoir pour se préserver de l’ardeur du soleil, s’avance aussi résolûment, mais sans donner le plus petit signe de connaissance. Je le crois bien ! [MASK] pouvait-elle supposer que le conducteur de ce joli char était son frère.
+
+['il', 'Napoléon', 'David', 'Alexandre', 'Joseph']	Pierre	Si [MASK] eût été capable de se faire illusion sur la faute qu’il avait commise, la rougeur qui lui monta au front lorsqu’il rencontra ses protecteurs, aurait suffisamment éclairé sa conscience. Une lutte s’engagea aussitôt avec lui-même : dirait-il qu’il avait joué ?
+
+['Il', 'il', 'II', 'Lui', 'Dieu']	Pierre	Comment dire ce qui se passe dans l’âme du pauvre, lorsqu’il se voit l’objet de l’intérêt et de l’affection de celui qu’il rencontre sur son chemin ! [MASK] était resté calme et tranquille sur la neige, attendant du secours, et maintenant il est ému.
+
+['</s>NOTUSED', 'Voltaire', 'Jean', 'Pierre', 'Joseph']	Pierre	Le vieillard y prit grand intérêt, et en entendant si bien parler [MASK], il regrettait presque de ne pouvoir garder auprès de lui un garçon sage et instruit qui, avec le temps, aurait pu devenir un homme accompli ;
+
+['Marie', 'Anna', 'Joseph', 'Pierre', 'Sophie']	Madeleine	Elle se rappela avoir vu [MASK] et ses enfants après le malheur arrivé à la forge. « Comme le temps passe ! Vous voilà maintenant le soutien de la famille. Ayez bon courage ! D’ailleurs, nous autres Alsaciens, nous savons nous tirer d’affaire.
+
+['Marie', 'Madame', 'Suzanne', 'Jeanne', 'Catherine']	Madeleine	Le moment n’était-il pas indiqué pour marier les jeunes gens ? Il fallait profiter d’une si belle compagnie. [MASK] retenue dans son fauteuil, n’en menait pas moins les affaires rondement. Elle fixa le jour du mariage et personne ne fit d’objection.
+
+['Voltaire', 'Marie', 'David', 'Dieu', 'Pierre']	Madeleine	Il fit un récit, exagéré peut-être, de l’importance de son voyage, non-seulement pour convaincre sa mère, mais encore pour se convaincre et s’enhardir lui-même. Ayant mis sa lettre à la poste, le fils de [MASK] partit n’espérant et ne voulant point de réponse.
+
+['on', 'personne', 'je', 'homme', 'il']	Pierre	Vous trouverez là des gens qui dépensent plus d’argent dans un mois que toute l’année chez eux. Nous sommes de véritables distractions pour ce beau monde ; le tout est de savoir s’y prendre. Bon voyage ! Jamais [MASK] n’avait entendu un pareil langage !
+
+['il', 'Pierre', 'Jean', 'Charles', 'Il']	Pierre	Ah ! vous êtes fier ! Comme vous voudrez. » Et elle disparut. Les promeneurs devenaient nombreux, [MASK] comprit que sa place n’était plus là, et il se rendit à son auberge par le chemin le plus long.
+
+['</s>NOTUSED', '—', '»', '–', 'Merci']	PIERRE	je n’ai plus la force de le porter. [MASK]. Avec plaisir. Où allez-vous ? — Chez ma grand’mère. Je n’ai plus que cet enfant, les autres sont morts, celui-là est malade, et j’ai peur de rester seule avec lui.
+
+['il', 'on', 'elle', 'Il', 'je']	Pierre	Il resta cloué à place, oubliant le poids dont ses épaules étaient chargées, et ne se retira que sur l’avis qui lui en fut donné. A l’hôtel où il entra, [MASK] ne trouva point la sympathie qu’on lui avait témoignée à la Haute-Montée.
+
+['la', 'une', 'bien', 'donc', 'madame']	Madeleine	Voilà [MASK] riche maintenant, elle pourra payer le médecin. » Celui qui parlait ainsi n’était point un méchant homme ; mais il y a dans tout cœur humain une secrète jalousie qui mesure le bonheur d’autrui comme s’il s’en réservait une part.
+
+['JOUR', 'TEMPS', 'PREMIER', 'CHRIST', 'CLIENT']	COMTE	Je ne te rendrai pas l’argent que tu as perdu, il faut que tu en souffres. PIERRE. Je vous assure, monsieur, que je ne voudrais pas l’accepter.... Je devais partir aujourd’hui et je ne partirai que demain. LE [MASK].
+
+['Marie', 'Madame', 'elle', 'Alice', 'madame']	Cécile	c’est elle qui a eu l’idée de le faire entrer, parce qu’il faisait bien froid ! Il est donc juste que tout ce que contenait le ballot du petit marchand, appartienne à [MASK], et vous allez voir, qu’elle ne sera pas embarrassée pour faire ses cadeaux.
+
+['Marie', 'Louise', 'Julie', 'Jeanne', 'Sophie']	Madeleine	puis, lorsqu’il fut remis, il s’assit près d’elle et commença aussitôt le récit de son voyage pour suspendre l’émotion du retour. Les traits de [MASK] n’étaient point altérés, et la joie qu’elle éprouvait de revoir son fils donnait à sa physionomie une expression de bonheur sans mélange.
+
+['moi', 'nous', 'lui', 'vous', 'eux']	Christine	Bien souvent j’ai été pleurer à l’entrée du bois, puis un beau jour je n’ai plus pleuré. J’avais bien encore du chagrin, mais le désir d’apprendre me consolait. Je me figurais être grand, vous ne manquiez de rien, [MASK] non plus.
+
+['elle', 'on', 'il', 'qui', 'cela']	Christine	plusieurs objets de ménage dont la privation se fait sentir depuis longtemps vont diminuer la fatigue de la ménagère ; [MASK] se ressentira aussi de la fortune de son frère, enfin il y aura une petite réserve. La veuve Lipp n’était plus l’objet de la compassion des plus indifférents
+
+['</s>NOTUSED', 'Marie', 'de', 'Alice', 'Anna']	Lolotte	Tout le passé lui semblait un rêve, et le présent n’était guère plus clair : S’il ne se fût pas égaré dans la forêt, il n’aurait point rencontré [MASK]. « Que serait devenu la pauvre petite ? Et moi, pouvais-je m’attendre à marcher ainsi à pas de géant
+
+['monsieur', 'Monsieur', 'moi', 'père', 'Henri']	Pierre	C’est sérieusement que je te le dis, [MASK], j’ai horreur de ces prêteurs d’argent. Notre pauvre maisonnette et notre champ y passeraient. Renonce à ton idée ? Tu es un brave garçon, le bon Dieu t’en enverra une autre, va !
+
+['Louis', 'Napoléon', 'Antoine', 'Charles', 'Joseph']	Pierre	« Je reviendrai au pays, disait [MASK], je retrouverai ma mère et ma sœur, je suis attendu ; elles comptent les jours. Ce sera la première fois que de beaux écus entreront dans le tiroir de l’armoire ; ne craignez rien, mon respectable ami, j’arriverai sain et sauf.
+
+['il', 'on', 'elle', 'Il', 'lui']	Pierre	La route n’offrait pas le moindre obstacle, le baudet semblait partager vraiment les sentiments de son maître. N’importe, [MASK] n’y tient plus, il saute à terre, il marche sous l’ombre des arbres, il chante, il soupire, s’avance, revient.
+
+['la', '[...]', 'là', '...', 'Paris']	Carlsruhe	Il se passa encore un certain temps avant qu’ils fussent sortis de la forêt. Un sentier les conduisit dans un petit vallon où ils tirent une halte et le voyageur, ayant tiré sa carte routière, constata avec un immense plaisir qu’il n’était pas éloigné de [MASK]
+
+['</s>NOTUSED', '«', '»', 'MARIE', '...']	CHRISTINE	Et si tu rencontres un ours ? PIERRE. Je lui apprendrai à danser. [MASK]. Mais, s’il te mange ? PIERRE. Les ours français sont trop bons enfants pour cela et il faut aller bien loin d’ici pour rencontrer un ours méchant.
+
+['Il', 'Lui', 'Elle', 'On', 'Chacun']	Pierre	Elle le questionna, s’informa avec une bonté touchante de ce qu’il pouvait désirer. Cette dame fit le tour de la salle s’adressant aux autres malades avec le même intérêt. [MASK] trouvait la chose surprenante, puisqu’il était soigné, et bien soigné ! par les sœurs hospitalières.
+
+['Il', 'Pierre', 'Jean', 'Joseph', 'Elle']	Pierre	car la vue de ce pays si différent du sien, lui serrait le cœur. Il commençait à se remettre de son émotion, lorsqu’un vieillard, marchant avec des béquilles, parut au détour d’un chemin pour prendre la grande route. [MASK] l’attendit et le salua respectueusement.
+
+['Elle', 'Il', 'Marie', 'Madame', 'Suzanne']	Madeleine	C’était à qui l’inviterait, le ferait causer. [MASK] dut obéir à son fils et se borner aux soins du ménage ; lui, bêchait, sarclait, allait dans la forêt ramasser du bois et rentrait au village avec un énorme fagot sur les épaules.
+
+['Marie', 'maman', 'Alice', 'Jeanne', 'Anna']	Pierre	Avec plaisir. Où allez-vous ? — Chez ma grand’mère. Je n’ai plus que cet enfant, les autres sont morts, celui-là est malade, et j’ai peur de rester seule avec lui. — Pauvre petit ! » dit [MASK] en le caressant.
+
+['Tom', 'Joseph', 'Jacob', 'Jack', 'Peter']	Pierre	Un matin de décembre le temps était beau, le givre pendait aux branches des arbres, lorsque [MASK] après avoir embrassé sa mère et sa sœur partit pour la vallée des ours. Il était enchanté de traverser la forêt sans souci de vendre ou de ne pas vendre.
+
+['Cela', 'Il', 'Tout', 'Ceci', 'Elle']	Christine	Le voyageur, lui aussi, n’en finissait pas de questionner sur tout ce qui s’était passé au pays ! Il regardait la chambre, et retrouvait avec bonheur les objets qu’il avait laissés. [MASK] fit partie de l’inventaire.
+
+['il', 'elle', 'on', 'je', '»']	Pierre	Un supposé qu’un jour ou l’autre vous seriez dans des pays de dentelles, vous pensez à moi, et vous mettez trois mètres de dentelles dans votre soulier : c’est de l’amitié ça ! « Pour toute promesse, [MASK] sourit ;
+
+['Théo', 'Jésus', 'Marie', 'Jeanne', 'Johnny']	Lolotte	L’entrée de [MASK] fut quelque chose de solennel et de touchant : des cris de joie, des allées et venues, un fracas de portes, des questions sans fin. L’enfant se précipite vers l’appartement de sa mère tenant toujours son libérateur par la main.
+
+['il', 'elle', 'on', 'Pierre', 'Paul']	Pierre	Le premier moment de surprise étant passé, [MASK] se dit : « Je n’ai qu’une chose à faire : s’il ne m’est pas possible d’avoir une boutique, je peux m’approvisionner des objets qu’on achète ici et les porter en ville dans les promenades.
+
+['Chacun', 'Il', 'Pierre', 'Paul', 'Jean']	Pierre	Je vous laisse à penser quels longs et beaux récits les enfants firent à leur mère en arrivant. Ils ne se possédaient pas de joie. [MASK] frissonnait en songeant qu’il aurait pu entrer à la papeterie ou à la forge et passer des années sans rien gagner.
+
+['Paul', 'Pierre', 'Jean', 'Louis', 'Joseph']	Pierre	Il y avait trois semaines qu’il s’était remis en route, et la forêt, quoique encore dépouillée de ses feuilles, avait déjà un parfum que [MASK] respirait à pleine poitrine. Les marguerites qu’il avait foulées aux pieds tant de fois lui semblaient autant de merveilles
+
+['elle', 'il', 'on', 'chacun', 'maman']	Pierre	Ma bonne mère ! Patience ! le temps passe, à pied ou en voiture. Je veux bien faire tout ce que j’ai à faire, quoi qu’il en coûte. » Et [MASK] sentait son cœur plein d’amour et de reconnaissance.
+
+['Monsieur', 'monsieur', 'hein', 'non', 'hélas']	Pierre	! Eh ! bien, c’est moi qui le leur prophétise, ils retourneront chez eux plus pauvres qu’ils n’en sont partis. Faire la contrebande ! être traqué comme un lièvre ! ça ne vous irait pas ! cependant il ne faut rien exagérer, [MASK].
+
+['</s>NOTUSED', '»', '«', '...', 'Oh']	LOLOTTE	« Je ne peux pas vous ramener à la maison si mal coiffée ; j’ai des peignes aussi, et je vais arranger un peu vos cheveux. [MASK]. Vous allez me tirer les cheveux, et moi je pleurerai !
+
+['Baudelaire', 'Balzac', 'Flaubert', 'Voltaire', 'Charles']	Pierre	Je vous laisse à penser avec quel soin notre jeune ami serra ce précieux portrait. « Je ne sais pas s’il arrive, à tous les voyageurs, des histoires aussi agréables, se demandait [MASK]. En tout cas, je peux me dire bien partagé ;
+
+['malade', 'Madeleine', 'Marie', 'Berthe', 'Julie']	Christine	De turbulent, il devint calme ; Madeleine sa mère, habituée à le voir sans cesse dehors, avait de la peine à le faire sortir de la maison. Il l’aidait dans les soins du ménage ; soignait sa petite sœur [MASK] ; il était apte à tout.
+
+['Paul', 'Louis', 'Victor', 'Pierre', 'Jean']	Georges	J’ai un petit frère qui s’appelle [MASK], il est plus grand que moi, il a un petit cheval et il se promène avec papa et maman. Hier, j’avais beaucoup de chagrin de ne pas être allée en promenade avec eux.
+
+['Il', 'il', 'II', 'IL', 'Elle']	Pacha	Il boit aussi sobrement qu’il mange. On dit qu’il n’enfonce point son nez dans l’eau, parce qu’il a peur de l’ombre de ses oreilles. Et, qu’en sait-on ? [MASK] est propre comme tous ceux de son espèce ;
+
+['il', 'on', 'Charles', 'Louis', 'Antoine']	Pierre	On servit aux voyageurs d’excellentes truites auxquelles ils firent honneur. Il faut vraiment de la raison pour s’arracher de ces lieux enchanteurs, où les merveilles se touchent. Une fois dans sa chambre, [MASK] se demanda s’il renonçait à son métier de colporteur.
+
+['Il', 'On', '</s>NOTUSED', 'il', 'Chacun']	Pierre	Il étale toutes ses marchandises, lorsqu’on le lui permet, il ne se plaint pas de sa peine, car il ne se passe guère de jours qu’il n’inscrive un bon profit. [MASK] devenait touriste sans cesser d’être marchand.
+
+['Il', 'Ce', 'Paul', 'Louis', 'Antoine']	Pierre	» [MASK] fut triste d’accepterle présent du vieillard dont l’existence lui semblait si précaire, mais il n’osa refuser se promettant bien de revenir à la belle saison avec les objets essentiels dont l’absence ne lui avait pas échappé.
+
+['il', 'elle', 'Antoine', 'Il', 'on']	Pierre	Ayez vos petites provisions et n’entrez que pour prendre un verre de bière ; car vous avez pris un état bien dangereux, mon ami, Ètes-vous sans parents ? Et, sur l’invitation de l’hôtesse, [MASK] s’assit et lui raconta son histoire.
+
+['maison', 'Maison', 'chambre', 'Marguerite', 'Pierre']	Pacha	Encore un peu de patience et il serait au comble de ses vœux. Qu’eût dit la tendre maîtresse de [MASK], si elle l’avait vu galoper, couvert de sueur, baissant la tête à chaque halte que notre voyageur se croyait en conscience obligé de faire ?
+
+['On', 'Il', 'James', 'Thomas', 'Elle']	Lipp	La jeune Anglaise tira de sa poche un album et se mit à esquisser, avec une aisance parfaite le paysage qu’elle avait sous les yeux. [MASK] la voyait dessiner avec plaisir, et cet intérêt acheva d’établir l’intimité entre les dames et le jeune homme.
+
+['Dieu', 'Jésus', 'quoi', 'cela', 'dieu']	Marianne	Au nom de [MASK], la jeune mère se leva, chassa devant elle les bambins, prit la chaudière et dit au voyageur. « Entrez, entrez, mon ami, la vue d’une chaise ne vous fera pas de peine. »
+
+['Il', 'il', 'Pierre', 'Antoine', 'Paul']	Pierre	! Ce jeune homme paraissait honnête, pourtant il faisait la contrebande et il lui avait conseillé de la faire. A l’en croire, c’était le seul moyen de s’enrichir. [MASK] était soucieux, mal à son aise ;
+
+['Joseph', 'Paul', 'Pierre', 'Marie', 'Jésus']	Pierre	il s’assit sur un tronc d’arbre, couvrit sa figure de ses deux mains, comme pour se cacher ses larmes à lui-même et donna un libre cours à son émotion. Ces larmes ne démentaient point le courage de [MASK] ; elles étaient seulement le témoignage de la tendresse de son cœur.
+
+['Pierre', 'Joseph', 'Louis', 'Jean', 'Paul']	Christine	Les souliers neufs de [MASK] attiraient sans cesse ses regards. Oh ! comme il allait courir les chemins, coucher sur la dure, économiser de grand cœur pour doubler son capital. L’été passa vite, et déjà le soleil de septembre projetait de longues ombres sur les prairies.
+
+['voyons', 'madame', 'allons', 'Madame', 'viens']	Justine	« Voyons, [MASK], arrive vite, mets le jambon sur la table, prends la clef du petit caveau et apporte une bouteille de vin de Moselle. » La servante parut stupéfaite ; le vin de Moselle ne se prodiguait pas d’ordinaire ainsi.
+
+['«', '2', '5', '4', '6']	CHRISTINE	[MASK]. Tu m’emmèneras avec toi, frère. Mme la comtesse m’a parlé un jour que je me promenais dans son beau parc : « Tu es gentille, viens goûter avec mes enfants. » Et j’ai eu une tartine avec des confitures rouges qui tremblaient sur mon pain.
+
+['Joseph', 'Pierre', 'Jean', 'Moïse', 'Jésus']	Pierre	Mon enfant est guéri. Viens le voir. Et, sans attendre la réponse de [MASK], elle le conduisit à une espèce de hutte ou dormait tranquillement l’enfant. La bohémienne prit son trésor et ouvrit la marche.
+
+['Marie', 'Jeanne', 'Louise', 'Charlotte', 'Julie']	Madeleine	Il n’y avait pas gens plus heureux ! Ce ne sont pas seulement ces cent francs qui font le bonheur de [MASK] ; c’est qu’elle est fière d’être soutenue par son fils, de lui devoir des jours meilleurs après en avoir connu de mauvais ;
+
+['Paul', 'Joseph', 'Jean', 'Pierre', 'Louis']	Lolotte	Vainement le fils de Madeleine chercha-t-il à se retirer : son bagage était déposé dans une chambre où il devait passer la nuit. Laissons [MASK] dans les bras de sa mère raconter sa triste aventure rendue mille fois plus cruelle par la naïveté du langage.
+
+['Salomon', 'Dieu', 'David', 'Mahomet', 'Pharaon']	Madeleine	CHAPITRE VII. L’intérêt que nous inspire le fils de [MASK] ne nous permet cependant pas de le suivre d’étape en étape, de séjourner avec lui dans chaque village et d’assister à la vente plus ou moins heureuse de ses marchandises.
+

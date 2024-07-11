@@ -1,0 +1,200 @@
+['elle', ',', 'et', 'ou', 'qui']	Hélène	[MASK] se sera rejetée plus résolument du côté où le poids de sa vie l’entraîne depuis notre séparation. Ces doutes retiennent ma plume, quand je lui écris ; elle aura le droit de penser que mes lettres ne sont plus aimantes, le fossé se creusera davantage entre nous.
+
+['dit-il', 'dit-elle', 'mon', 'petit', 'toi']	Jean	– Service commandé, ajouta-t-il, avec une nuance visible d’embarras dans le sourire. – Mais j���espère bien te rattraper encore en gare. — Ne te gêne pas, [MASK]. D’ailleurs, nous nous reverrons bientôt.
+
+['un', 'lui', 'plutôt', 'le', 'moi']	Zourdan	– Je demande chaque jour à cet animal comment il se porte, reprit mon ami, et chaque fois il me fait la même réponse. Il a une idée fixe, laisser reposer sa santé. C’était [MASK], vieillard à tête hirsute, au type étranger.
+
+['oui', 'adieu', 'maintenant', 'non', 'alors']	Hélène	Je l’entraînai sous le berceau de jasmins ; je m’agenouillai sur le seuil qu’elle allait franchir : mon front s’inclina sur le pied qu’elle y posait : — [MASK], pour toujours ? — Pour toujours, répondit-elle. Et elle entra.
+
+['à', '0', 'il', 'a', 'or']	Agrève	par les mêmes adversaires, par les quelques hommes très en vue comme l’était alors d’[MASK]. Il se fût singularisé s’il eût pris sa retraite avant d’avoir l’engagement obligatoire avec chacune de ces victimes complaisantes.
+
+['ça', 'bien', 'le', 'cela', 'ceci']	Notre-Dame	Je connais ce regard-là, c’est celui des innocents de chez nous, qui la voient. Un jour, je m’étais risqué, j’avais demandé à mon officier : – Mon capitaine, bien sûr que vous voyez [MASK] ?
+
+[',', 'et', 'je', 'pas', 'de']	Savéû	Je hélai [MASK]. Le Souvenir démarra. Nous étions loin du cuirassé, quand un canot blanc nous rejoignit, évita notre arrière sur l’eau déjà sombre, nous dépassa de toute la vitesse de ses six avirons. L’embarcation portait les deux dames avec d’Agrève.
+
+['là', 'maintenant', 'alors', 'et', 'ici']	Hélène	Si vous lisez comme autrefois, [MASK], dans une âme toute ouverte à vos regards, vous y verrez ces déchirements que les mots ne savent pas dire. Depuis un an, le monde se résumait pour moi en un seul être, ma vie entière s’était transportée sur lui.
+
+['je', 'il', 'maman', 'on', 'papa']	Savéû	Enfin mon retour léger sur la route, avec dix ans de moins, derrière le léger fantôme déjà maître de tout l’espace devant moi, déjà incorporé à cette mer où je le cherchais, après tant d’autres, comme tant d’autres, pendant que [MASK] me ramenait à l’île…
+
+['marguerite', 'jeanne', 'alice', 'henriette', 'elle']	Hélène	— C’est la tienne, c’est la nôtre, reprit [MASK], – Elle ajouta, pensive : – On serait bien ici, dans la tombe des mouettes, au chaud soleil, devant la mer, endormis par cet éternel chant de nourrice au chevet de ce berceau.
+
+['"', '1', '...', ')', 'paris']	Bjélizy	« [MASK], ce 25 janvier. « J’ai froid, mon bien-aimé. J’ai laissé chez vous le cœur que vous m’aviez refait, j’ai retrouvé ici mon cœur de novembre. En rentrant chez moi, – chez moi !
+
+['moi', 'je', 'et', 'toi', '</s>']	Jean	Que n’ai-je pas aimé en toi ? Je n’ai plus de honte, méprise-moi, mais entends-moi : à cette heure encore, [MASK], ma misérable chair, frissonnante sous le souffle qui monte de la mer, implore en lui ta caresse demeurée ;
+
+['artagnan', 'estaing', 'il', 'autriche', 'ailleurs']	Agrève	les servants avaient été tués, la pièce allait fatalement tomber aux mains de l’ennemi. D’[MASK] s’en aperçut, il fit faire demi-tour à ses derniers échelons et se mit en devoir de dégager l’affût roulant du Hotchkiss.
+
+['vita', 'i', 'rome', 'sic', 'roma']	Dante	Nous n’en reproduirons ici que les passages essentiels, ceux qui résument le mieux les diverses phases et les moments décisifs de cette histoire sentimentale. « Spero di dire di lei quello che mai non fu detto d’alcuna… » ([MASK], Vita Nuova .)
+
+['elle', 'eux', 'ici', 'elles', 'un']	Hélène	Près d’[MASK], j’ai pu l’entendre impunément, l’appel de la Sirène qui tue ses faibles sœurs mortelles. Si haut que l’harmonie m’emmenât, je sentais toujours à côté de moi le vol égal de l’aimée ;
+
+['france', 'allemagne', 'alsace', 'italie', 'algérie']	Thessalie	une série de petits chocs a désagrégé le plâtras du mur, il tombe sous la chiquenaude d’un enfant. Te rappelles-tu notre ascension au couvent des Météores, en [MASK] ? La corde du panier où l’on nous hissait était pourrie, elle servait toujours ;
+
+['georges', 'jacques', 'robert', 'jean', 'jeanne']	Savéû	elle s’affala contre le bâton. — Tiens, dit [MASK], voilà le pavillon du capitaine en berne ! Il n’a pourtant pas l’air d’un qui porte la mort ! La remarque joviale du matelot me donna froid jusqu’au fond de l’âme.
+
+['il', 'on', 'dieu', 'nous', 'lui-même']	Vanka	avec le plus grand calme cette mère me répondit : « Le Seigneur nous a fait une grande grâce, il faut le remercier ; [MASK] ne souffrira pas ce que nous avons souffert. » – Ce mot d’une mère, sentez-vous quel ancien poids de douleur il révèle ?
+
+['di', "l'", 'la', 'ce', '...']	HÉLÈNE	À quoi bon chercher à me connaître, puisque je n’apprends pas à me diriger ? Quand je prendrai désormais la plume, ce sera pour écrire à la malheureuse qui m’a enseigné, mieux que mes fastueuses méditations, le véritable sens de la vie. JEAN À [MASK]
+
+['je', 'la', 'chacun', 'on', 'le']	Savéû	Et des anonymes, les naufragés que [MASK] repêche à l’automne ; des inscriptions qui s’effacent sur le néant, comme celle de l’inconnu qui dort sous ce plant de cinéraire : « Ci-gît, repose, une victime du navire la Lucie. »
+
+['jour', "l'", 'la', ',', '(']	Bagaud	Hélène, la mer est belle, comme il y a un an, quand elle vous donna à moi ; quand je vous laissai si résolue, quand je m’en revins si délicieusement troublé, quand ce chant de pêcheur était si triste, à la pointe de [MASK] ?
+
+['</s>', "j'", "m'", "n'", 'on']	Hélène	nous voyons luire dans les massifs de feuillage l’éclair fugitif de ces minces papillons blancs ; les échos de la ravine répercutent leurs plaintes saccadées, d’une désespérance si lamentablement humaine. [MASK] aime à la folie les mouettes, les oiseaux purs, tristes et libres ;
+
+['fontaine', 'martin', 'simon', 'clément', 'bertrand']	Dehorter	Leur tir bien dirigé fit tout d’abord de nombreuses victimes : MM. les lieutenants Fontaine et [MASK] tombèrent mortellement frappés à la tête de leurs compagnies. Un flottement se produisit sur notre front d’attaque, la droite de la ligne plia et commença de battre en retraite.
+
+['demain', 'paris', 'juillet', 'janvier', 'novembre']	Moscou	à cette heure, je me débats dans le chaos de troubles et de contradictions où m’a jeté le soupçon d’un changement en vous. Vos dernières lettres, la dernière surtout, celle de [MASK], mettaient entre vous et moi plus de distance que n’en pourront mettre les océans qui vont nous séparer.
+
+['artagnan', 'ajouter', 'écri', 'entendre', 'un']	Agrève	— Regarde-les bien, continuait d’[MASK], ces grands enfants qui jouent là aux boules et s’amusent aux exploits de leur goéland apprivoisé. Lui aussi, il plaisante à sa façon, l’oiseau gémissant des tempêtes ;
+
+['</s>', 'je', 'il', 'on', 'ansel']	Hélène	Certes. [MASK] me l’a répété mille fois : — Je n’ai pas connu une seconde l’hésitation ou le regret : je n’ai pas envisagé une seconde la possibilité d’une lutte contre la force irrésistible qui me jetait toute à vous ;
+
+['elle', 'et', 'qui', 'on', 'il']	Hélène	À la place où elle me reçut il y a dix mois, sous les cyprès festonnés de roses, [MASK] m’attendait, les traits pâlis par une nuit d’insomnie, les yeux agrandis par une vision d’angoisse.
+
+['marie', 'raoul', 'pierre', 'jésus', 'celui-ci']	Jean	Groupée sur des affûts à l’arrière, la coterie de la haute vie regardait danser les aspirants et les jeunes filles, attendant que l’amiral vînt offrir son salon pour organiser une petite sauterie « entre soi ». À l’apparition de [MASK], ce ne fut qu’un cri dans tout ce clan.
+
+['elle', 'qui', 'il', 'où', 'et']	Hélène	» Je devine l’intention charitable du mot : et je comprends si bien qu’il ait été dit ! Dans un de leurs salons, [MASK] doit passer méconnue et taciturne ; rien de ce qui travaille leurs cervelles agitées n’a de prise sur son intelligence et sur son cœur ;
+
+['côté', 'papier', 'coté', 'suite', 'terre']	Dante	Où est le train, maintenant ? J’ai tiré ma montre pour la remonter ; action absurde, dans le chagrin, puisqu’elle nous fait collaborer à l’œuvre du temps, notre bourreau. Dix heures. J’ai jeté le volume de [MASK] et pris un Indicateur.
+
+['rien', 'jamais', 'dis-je', 'non', 'patience']	Hélène	« Appelez, par pitié, je n’attends qu’un signal de vous. Mais si vous devez chanceler dans votre foi, dans votre volonté, dites-le franchement, sans ménagements et sans retard, [MASK] ; je préfère à mon angoisse la vérité qui m’écrasera d’un seul coup.
+
+['amour', 'alcool', 'ivresse', 'eau-de-vie', 'apollon']	Hélène	on peut en couper, ça repousse comme le chiendent, ça ne lâche plus la place. Je crois bien que le pauvre homme est en train de noyer un amour naissant, car il double les doses d’absinthe. Mais ne sont-ils pas tous ici les amoureux d’[MASK] ?
+
+['abord', 'elle', 'eux', 'entendre', 'ailleurs']	Hélène	Était-ce possible ? Si sûr que je fusse d’[MASK], je n’osais pas croire, haletant dans l’angoisse du rêve d’où l’on va s’éveiller, qui ne peut pas être vrai, qui est trop beau. Je courus à la portière ;
+
+['aucun', 'autrui', 'aucune', 'hier', 'henriette']	Hélène	comme on ajoute des bûches au feu quand la neige fouette les vitres de la maison close. Partout nous avons passé, étrangers à ce monde, réfugiés l’un en l’autre. Rien n’a distrait le regard d’[MASK], ce regard long comme la constance, toujours attaché sur le mien.
+
+['il', 'et', '</s>', 'on', 'mais']	Jean	Soumis extérieurement, par déférence d’homme bien élevé, à toutes les conventions qui règlent nos rapports sociaux, notre vie intellectuelle et sentimentale, [MASK] ne leur attribuait aucune valeur lorsqu’il n’en pouvait pas vérifier les fondements. Il ne se payait jamais de mots ;
+
+['la', 'une', "l'", 'cette', 'le']	Hélène	Je suis au port, en eau profonde ; je n’en vois pas, je n’en verrai jamais le fond. Nous l’avons refaite plusieurs fois, la traversée de songe, pour amener [MASK], et aussi, hélas ! pour la reconduire.
+
+['</s>', '"', '--non', 'non', '--oui']	Hélène	Je voudrais vous donner des nouvelles de votre peuple, de votre île : mais d’elle aussi je n’ai à vous transmettre cette fois qu’un grand gémissement. [MASK], avez-vous entendu cette nuit mes appels dans le vent ? « Il soufflait en tempête depuis deux jours.
+
+['moi', 'nous', 'eux', 'vous', 'soi']	Chevet	J’ai du poisson frais, des primeurs qu’on paierait au poids de l’or chez [MASK], j’ai même une maison, et charmante, pour abriter mon vieux ministre. Et j’ai toujours ma vieille amitié pour lui.
+
+['enfant', 'petit', 'toi', 'petite', 'fille']	Hélène	Il ne me vit pas, ne m’entendit pas : ses yeux étaient rivés sur une petite main qui balançait en jouant la poignée du gouvernail. — Couvre-toi, [MASK], le temps fraîchit, dit la voix de la vieille dame.
+
+['</s>', '"', 'merci', 'les', 'le']	HÉLÈNE	« Voulez-vous que je le sois ? Entendez le cri de souffrance et de vérité que je n’ai pas su vous taire. [MASK] . » QUARTS DE NUIT 25 mars. – Ah ! c’est bien fini de mes doutes, de mes velléités de lutte !
+
+['"', '!', '.', ')', 'merci']	HÉLÈNE	Je murmure timidement à votre oreille tout ce qui exalte mon âme, aux instants où une force passagère la soulève. Mais ta volonté est ma loi, aimé. Si j’avais mieux que moi à te donner, je te donnerais plus encore, ne doute pas. [MASK] .
+
+['reviens', 'recommence', 'chérie', 'chéri', 'toi']	Jean	mais pas comme cela ! « Je ne veux pas vous mai juger. Tout s’expliquera, je saurai, j’attends. Tu as été forcé, ou tu as désespéré ; mais tu m’aimes encore, j’en suis bien sûre. Reviens, [MASK].
+
+['il', 'on', 'elle', '-', 'y']	Jean	[MASK] avait raison : il semble qu’une force hostile se soit acharnée jusqu’au bout à pulvériser ces deux pauvres ombres, jouets de l’antique Fatalité. — Dites mieux, dites l’Expiation, qui peut seule nous inspirer quelque indulgence pour ces deux coupables.
+
+['jésus', 'marie', 'joseph', 'jacques', 'dieu']	Savéû	j’avais réveillé [MASK], je l’interrogeais sur les probabilités de la mer et du vent. Comme l’enfant qui demande dans sa prière la joie promise, je priais la mer, je priais le vent d’être cléments à mon espérance.
+
+['</s>', '"', 'il', '_', '-']	Jean	� vos yeux. [MASK] parut donner dans ces engouements, peut-être parce que c’était la consigne chez la divinité qu’il servait à ce moment-là. On lui attribua quelques essais anonymes, publiés dans une revue en faveur ;
+
+['"', 'toi', 'dessus', 'moi', 'là']	HÉLÈNE	ICI REPOSE [MASK]. « Soyez tranquille, on ne la laissera pas manquer des fleurs qu’elle aimait. – Vous aurez bien du chagrin, mon Capitaine, même dans votre plaisir de faire la guerre aux Chinois, avec l’amiral : j’ai servi sous ses ordres ;
+
+['on', 'il', 'elle', 'dieu', 'chacun']	Hélène	sa bru, la femme de l’ innocent qui a perdu la raison dans un coup de mer, fourrage avec les filles de la ferme tout ce qui reste dans la vallée de violettes et de fleurs d’hiver. Après-demain, [MASK] viendra fêter à l’île le renouveau de notre jubilé d’amour.
+
+['</s>', 'et', 'il', 'elle', 'on']	Hélène	À peine l’avais-je mis à l’abri, le grain creva : un tourbillon de neige s’abattit sur le littoral ; en quelques instants, le morne tapis blanc se déroula des montagnes au rivage. [MASK] arriva quand même sur le môle, à l’heure fixée.
+
+['ne', 'il', 'elle', 'on', 'qui']	Hélène	[MASK] s’en aperçut. — Oui, me dit-elle, vous me cherchez où je ne suis pas. Si je suis ici quelque part, c’est dans les arbres et dans les fleurs de ce jardin, seuls objets participant de ma vie.
+
+['etc', 'dit-il', 'dit-elle', 'toi', 'seigneur']	Jean	Mais dois-je m’en émouvoir ? Ma liberté a-t-elle encore pour moi un prix, un but ? J’attends que tu me l’apprennes, [MASK]. « À part ce surcroît de soucis, que te dirai-je de ma vie ?
+
+['il', 'elle', 'ce', 'ne', 'cela']	Hélène	[MASK] l’est véritablement, je n’eusse jamais imaginé d’aussi étroites affinités entre un lieu et une créature humaine. L’adorable femme a de ce lieu le mystère et la grâce, le calme et le sourire, les lumières changeantes, tour à tour brûlantes et douces.
+
+['non', 'oui', 'bien', 'allons', 'imbécile']	Allan	Alors je crois bien qu’il leur a dit, je ne suis pas très sûr : – Tirez donc, imbéciles, – mais de sa voix basse, ennuyée, comme quand il me dit sans se fâcher : – [MASK], laisse-moi donc dormir, imbécile.
+
+['fer', 'la', 'monsieur', 'dieu', 'm']	Bretagne	Heureux les vieux confrères qui travaillaient sur la matière de [MASK] ! Dans mon prochain roman… — Dans votre prochain roman, mon pauvre ami, vous serez un peu plus essoufflé, – interrompit cavalièrement la comtesse, – et les amants dont vous tirerez les ficelles le seront aussi !
+
+['hamlet', 'hercule', 'amour', 'achille', 'acier']	Eschyle	Sans doute, la fatalité a sa part dans notre malheur présent et dans tous ceux que je prévois. Elle apparaît, bien visible en tout ceci, la Force, le personnage muet d’[MASK] qui conduit seul le drame, tandis que tous les autres parlent et se démènent en vain.
+
+['monsieur', '"', 'dit-il', 'seigneur', 'sire']	Hélène	« Qu’avez-vous fait de moi, [MASK] ? Je me croyais bien protégé contre un retour des troubles d’autrefois ; j’avais gravi sur la montagne ces premiers sommets où les chimères ne nous suivent plus, et d’où l’on juge à leur juste mesure les pauvres illusions qui nous égaraient en bas.
+
+['alain', 'jacques', 'monsieur', 'pierre', 'françois']	Savéû	« Voici les dernières nouvelles de vos sujets. Je suis allé relancer [MASK] pour qu’il vous porte ce message. Je vous en prie, faites-vous raconter par notre vieux passeur, avec son sérieux et son accent, l’histoire qu’il m’a servie.
+
+['</s>', '-', '"', '!', 'm.']	Jean	— Vous mériteriez les arrêts de rigueur pour avoir tant tardé. Je vous consigne à ces dames. Faites-leur les honneurs de mon bord et de mon goûter. [MASK] s’inclina avec le salut glacial qui lui était habituel quand on forçait à l’improviste son intimité.
+
+['je', 'il', 'on', 'tu', "j'"]	Diane	J’y cours, je passe, le rayon liquide me porte dans l’île où [MASK] m’appelle. M’as-tu entendue, hier soir, frapper à ta vitre avec lui, as-tu senti qu’il me déposait sur tes yeux ?
+
+['dieu', 'jésus', 'monsieur', 'pierre', 'georges']	Savéû	« Tu devines bien ma première pensée, dès que j’ai pu me tenir debout : j’ai fait signe à [MASK] pour qu’il me conduisît à l’île. On dit qu’il y a des joies douloureuses : c’en était une de revoir le bon vieux.
+
+['</s>', '"', 'il', '--il', 'on']	Savéû	Une indicible flamme de vie brillait au fond, sous la taie de l’âge, comme un fanal de vigie sous l’écoutille à demi fermée. [MASK] raccommodait ses filets, troués par les marsouins, disait-il ; cet accident n’arrivait jamais qu’à lui.
+
+['argent', 'accord', 'écrit', 'autres', 'un']	Agrève	À la longue, ce port de mer doit manquer un peu de société. — La société ! fit d’[MASK] : j’en ai autant qu’il me plaît, et de la meilleure, et précisément sur ce port. Ces braves pêcheurs sont pour la plupart de vieux marins ;
+
+['lui', 'elle', 'goethe', 'chateaubriand', 'homère']	Hélène	chez [MASK], les idées qu’elle acquiert s’incorporent à son amour. Elle est tout entière dans cette ligne d’une de ses lettres : « Ma pensée est l’enfant de mon amour. » Que ferait-elle dans leurs laboratoires de chimie sentimentale ?
+
+['cette', 'sa', 'une', 'la', 'ma']	Hélène	Comme je sortais de cette boutique, je fus tout étonné de revoir [MASK], venant à ma rencontre sur le trottoir : pourquoi n’était-elle pas rentrée chez elle, pourquoi avait-elle refait une seconde fois ce trajet ? — Vous avez perdu quelque chose ? lui demandai-je.
+
+['vous', 'moi-même', 'moi', 'toi', 'cela']	Hélène	… Depuis bientôt un an, je pense et sens ainsi. Suis-je donc le même homme ? Serions-nous une exception aux lois qui régissent le monde sentimental ? Certes, je n’ai pas la fatuité de le croire, pour ce qui me concerne ; mais je le crois sincèrement pour [MASK].
+
+['on', 'il', 'se', 'je', 'chacun']	Zourdan	Néanmoins, [MASK] creuse de temps à autre une fosse, pour son usage ; parce que, prétend-il, on ne dort nulle part aussi bien, aussi fraîchement, par les nuits chaudes. Le Dalmate vit là-haut, dans cette petite cahute qui a la mine d’une maison de sorcier.
+
+['dracula', 'faust', 'dieu', 'freud', 'guerre']	Cornouaille	Naturellement, la conversation avait dévié sur les choses de l’amour. Des spécialistes, hommes et femmes, avaient énoncé quelques remarques ingénieuses sur ses transformations à travers les âges ; et le petit baron résumait l’opinion générale en classant parmi les phénomènes préhistoriques la passion surhumaine des amants de [MASK].
+
+['"', '.', 'humblement', 'et', 'en']	JEAN	« Dites que c’est vous, je le crois, Hélène ; et pour toujours, comme cette fleur tombée à vos pieds, quand je vous quittai dans le jardin, comme ce rayon de soleil posé sur l’un d’eux, mon adoration demeurera sur ces pieds que je baise humblement. [MASK] .
+
+['travail', 'chaleur', 'erreur', 'trop', 'peu']	Ibsen	— Heureusement qu’il y a [MASK], fit une des croqueuses de gâteaux, très élégante sous des bandeaux signalétiques. Heureusement que l’amour défie encore le monde, au pôle Nord ! — Vas-y voir ! murmura un
+
+['lui', 'vous', 'elle', 'dieu', 'moi']	Hélène	Aujourd’hui, l’un et l’autre s’en vont à la dérive dans la même débâcle. – Je veux croire que j’écris pour [MASK], comme je lui en ai fait la promesse. Notre correspondance sera difficile, contrainte : c’est une affliction ajoutée à toutes les autres.
+
+['adieu', 'oui', 'non', 'toi', 'chéri']	Panna	elle a passé dans mes bras avec tant de sérénité, presque souriante. Peu d’instants auparavant, elle m’avait fait ce touchant adieu : « [MASK], je veux te laisser ma part de bonheur que je n’ai pas eue. »
+
+[',', 'il', '</s>', 'elle', 'je']	Hélène	[MASK] les comprend et les caractérise d’une vue virgilienne : autant d’arbres, autant d’âmes diverses. Elle éveille mon attention sur des physionomies que je n’avais pas su discerner. Ce chêne vert songe gravement, ce jeune bouleau s’élance dans un désir ;
+
+['enterrer', 'autre', ',', 'mort', 'un']	Orante	Elle éveille mon attention sur des physionomies que je n’avais pas su discerner. Ce chêne vert songe gravement, ce jeune bouleau s’élance dans un désir ; ce pin, las de vieillesse, bénit la terre, cet autre prie avec le geste de l’[MASK] dans les Catacombes.
+
+['"', ',', 'et', 'à', 'de']	HÉLÈNE	tu as eu seul, tu auras tous mes souffles, jusqu’au dernier. Je te redis encore, sous les cyprès qui noircissent à la place où j’attends, comme ce jour où tu vins enfin : – Aimez-moi, voulez-vous ? – Tu veux, toujours ? [MASK] .
+
+['il', 'et', 'mais', 'ou', 'elle']	Hélène	Il s’éloignait, [MASK] passait encore en moi de tout son regard. Quelques secondes, j’ai vu le buste gracieux projeté hors de la portière, dessiné dans la buée des jets de vapeur, sous le jour faux et blafard des lanternes ;
+
+['"', ')', 'vie', '</s>', 'heureuse']	HÉLÈNE	d’abord pour qu’il se pose sur moi ; et puis pour me soulever, pour te rapporter dans notre île. Mon bien-aimé, ramène-moi dans l’île de paradis, où mieux qu’ailleurs je suis toute tienne. [MASK] . »
+
+['il', '</s>', 'elle', 'chacun', 'le']	Savéû	Mais si vieux ! Leur mémoire était brouillée. [MASK] chercha, parut se rappeler quelques détails, s’embarrassa, et finit par conclure : — Peut-être… J’en ai tant vu de choses… Il passe tant de choses sur la mer !
+
+['pourquoi', "qu'", "n'", "t'", 'peut-être']	Robinson	Quand il me ramena au logis, harassé, ébloui, les premières étoiles versaient une paix souveraine sur la maison blanche, sur le berceau de jasmin où l’on mettait notre couvert, devant la porte. — Eh bien, [MASK] avait-il tort de te vanter son île ?
+
+[',', 'paris', 'rome', '...', 'cela']	Hélène	Et après ? Après cette suprême épreuve, l’avenir ? Y a-t-il un avenir ? Est-ce la fin de tout ? Vais-je quitter [MASK] comme une maîtresse de garnison ? Je sens encore toute sa chair dans ma chair, toute son âme dans mon âme.
+
+['toi', 'aussi', 'déjà', 'alors', 'dit-il']	Hélène	Te souviens-tu, [MASK], de la toute première rencontre, sur la Triomphante ? Ta main s’était posée sur cette mystérieuse sensitive, sur l’aiguille qu’une vertu inexpliquée attire éternellement vers un pôle d’amour inconnu.
+
+['dieu', 'seigneur', 'père', 'madame', 'monsieur']	Jean	– Et ne me forcez pas à parler de ces choses, sinon pour agir ; c’est un supplice trop atroce. « Ô [MASK], ne grondez pas votre malheureuse amie ! Qui me soutiendra, si vous ne le faites ?
+
+['</s>', '"', '...', '_', '-']	Hélène	pour tout luxe, un épais tapis de ces violettes odorantes qui foisonnent dans notre île ; j’en avais fait cueillir des pannerées, elles couvraient le plancher, les tables, les sièges. [MASK] but tout ce parfum d’une longue aspiration, me remercia d’un sourire enivré ;
+
+['toi', 'moi', 'oui', 'chérie', 'femme']	TonHÉLÈNE	– Dis que tu l’aimeras toujours, ta… Oh ! permets que je l’écrive, ce mot qui me brûle et me rend folle… tu veux, n’est-ce pas, tu me l’as si souvent juré… permets que je signe enfin Ta femme, [MASK] .
+
+['"', 'toi', 'misère', 'moi', 'vous']	Jean	« Quelle misère, [MASK] ! Des spectres ravagés de fièvre, des ombres jaunes, et beaucoup qui ne se relèveront pas de la couchette d’ambulance où ils grelottent. Ils sont si jeunes, des enfants pour la plupart ; ils racontent naïvement les maux qu’ils ont endurés.
+
+['cela', 'robert', 'blaise', 'charles', 'paul']	Jean	Puis, mon remords se calme devant l’arrêt évident du sort : rien n’eût pu conjurer la force immaîtrisable qui préméditait son œuvre et allait l’accomplir… Mais n’anticipons pas. — Soit, fit [MASK], puisque tu le veux ; mais à une condition.
+
+['"', 'l', 'la', 'm', 'c']	JEAN	HÉLÈNE À [MASK] « Bjélizy, ce 20 février. « Les jours passent sans alléger mon chagrin ; comme les moines blancs de ce couvent que nous visitâmes aux Pyrénées, ils défilent du même pas de spectres en chantant la même psalmodie funèbre. J’essaye de les tromper.
+
+['monsieur', 'madame', 'moi', 'oui', 'mademoiselle']	Jean	Je lui jetai un bonsoir ; le petit me répondit gravement : « Entends comme on pleure ! » Oh ! je vous ai vu à cette minute, [MASK] ; ce que disait l’enfant, j’ai cru l’entendre là-bas, où vous êtes.
+
+['difficulté', 'dieu', 'peine', 'même', 'manière']	Savéû	Nous l’aurions cru sans difficulté, à ce moment ; nous en voulions à [MASK] de nous faire souvenir que nous n’étions pas seuls au monde, nous deux, revivant toutes les heures des humanités mortes, toute leur vie accumulée pour alimenter notre amour.
+
+['etc', '"', 'monsieur', 'et', 'non']	Jean	Quelle ironie dans cette phrase ! Vous entendrez ce qu’elle enferme de révoltes, si vraiment vous m’avez connue. Et si vous me méconnaissez, qu’importe où la méchanceté du sort me conduit ! Courage, assistance pour moi, [MASK].
+
+['</s>', 'cela', 'on', 'qui', 'elle']	Savéû	Comme l’enfant qui demande dans sa prière la joie promise, je priais la mer, je priais le vent d’être cléments à mon espérance. S’ils barraient méchamment la route à la bien-aimée ! [MASK] me rassurait : la journée serait belle. Plus que belle ;
+
+['elle', 'qui', 'plante', "s'", ',']	Hélène	[MASK] en est séparée par une impuissance organique à s’assimiler des éléments qui ne sont pas les siens, par un invincible redressement de la plante sauvage qu’elle est contre des formes de culture où elle ne peut pas se ployer. Combien je retrouve en elle de mon moi de vingt ans !
+
+['"', '-', '</s>', 'elle', 'il']	Hélène	— Ainsi, vous allez partir ? — Que faire ? Votre volonté toujours. Ordonnez. Que feriez-vous à ma place ? Je restai muet. [MASK] se leva. Du même geste qui me l’avait donnée, dans ce même lieu consacré, elle vint à moi ;
+
+['un', 'le', 'pierre', 'son', 'monsieur']	Zourdan	si légère, elle ne pesait pas plus qu’un oiseau. En haut du sentier, devant le cimetière, nous avons trouvé [MASK], dont c’est l’état : il nous a dit que c’était prêt, il avait fait très convenablement ce qu’il avait à faire.
+
+['faust', 'mark', 'wagner', 'goethe', 'shakespeare']	Tristan	Vous semblez croire qu’aux temps fabuleux du roi Mark, ou à toute autre époque lointaine, la passion symbolisée dans la légende de [MASK] était un accident normal, fréquent ; et vous paraissez bien assurés que cet accident ne peut plus se manifester chez un contribuable de la troisième république.
+
+['je', 'elle', 'lui', 'il', 'me']	Hélène	Mais [MASK] refuse les services de la pauvre monture : à mon bras elle n’est jamais lasse, dit-elle, il lui semble que je marche pour nous deux. Je l’éprouve aussi, cet allégement physique par une force qui me vient d’elle.
+
+['montaigne', 'voltaire', 'balzac', 'goethe', 'flaubert']	Hélène	Certes, rien ne pouvait empêcher mon départ à l’instant où cette lettre de service l’a commandé ; mais, comme le dit [MASK], « tout cela pouvait se faire autrement. » Ce sont mes variations et mes doutes injustes qui ont envenimé cette séparation ;
+
+['il', 'ai', 'je', 'et', ',']	Hélène	[MASK] prit mon bras. Était-ce donc vrai que ses pieds s’emparaient de ma terre, sonnaient leur doux rythme sur les pierres de mon petit chemin ? La haie d’eucalyptus franchie, elle s’arrêta, défaillante, émerveillée. — Oh ! le château de féerie !
+
+['jacques', 'jeanne', 'henriette', 'elle', 'catherine']	Hélène	Le soleil bas plongea, disparut. Les îles où nous allions restaient lumineuses dans le ciel, la mer s’éteignait. — Oh ! regardez, murmura [MASK], la fleur d’amour qui sombre ! Une tige de glaïeul était tombée derrière nous dans le sillage du bateau.
+
+['il', 'et', 'chacun', 'ne', 'lui-même']	Jean	Tout en recueillant sur ce champ d’opérations les bénéfices et les charges de sa situation, [MASK] s’intéressait d’esprit à la pièce qu’il avait sous les yeux ; pourvu d’une bonne loge, avec accès dans les coulisses, il regardait en spectateur amusé la comédie humaine.
+
+['un', 'exception', 'lui', 'que', ',']	Nozdreff	Sauf [MASK], ce vieux sceptique, informé de tout ; lui, il parle d’un très haut personnage, plus assidu que les autres… Tout cela est contradictoire ; mais qu’est-ce qui n’est pas contradiction et assemblage de maux, dans ce monde de mensonge ?
+
+['</s>', '"', '_', 'le', '-']	Jean	Il prit son neveu comme officier d’ordonnance et se complut à le mettre en relief. [MASK] passa sans transition de l’isolement contemplatif du carré au brillant tourbillon où s’étourdissait l’Empire finissant. Le jeune marin obtint un vif succès dans un monde que sa supériorité originale séduisit de prime abord ;
+

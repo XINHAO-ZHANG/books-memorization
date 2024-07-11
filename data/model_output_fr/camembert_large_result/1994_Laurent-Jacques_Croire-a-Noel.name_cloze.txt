@@ -1,0 +1,200 @@
+['Pourquoi', 'Mais', 'Alors', 'Toi', 'Ah']	Phénice	- Si nous tournions cette scène, dit-elle avec fermeté, je sens que ce n'est pas elle, mais moiqui aurais à lui dire : « [MASK], pourquoi m'as-tu tuée ? » Les spectateurs de cette scène étaient muets.
+
+['Alice', 'Anna', 'Marie', 'Sophie', 'Sarah']	Maurice	Et puis, il avait essayé d'en profiter. - Vous avez sauté ? demanda [MASK], incrédule. - Non. Il m'a dit que, si je n'étais pas contente, je n'avais qu'à descendre.
+
+['lui', 'elle', 'eux', 'moi', 'ça']	Clotilde	- Au nom de la loi, je vous arrête, citoyen Mourtet. - Vous m'arrêtez? avait-il balbutié. Et pourquoi? Déjà le policier s'intéressait à [MASK]. – Vous êtes la citoyenne Mourtet ? Je vous arrête aussi. - Mais pourquoi ? hurlait
+
+['Elle', 'Marie', 'Maman', 'Claire', 'On']	Raffaela	Vous garderez ça pour vous. Et j'ai envie de parler. Il faut que ça sorte. Voilà. « C'était donc un soir de Noël. J'étais seul, mais ce qui s'appelle seul. [MASK] était allée réveillonner chez ses parents.
+
+['bouc', 'poupée', 'paysans', 'chien', 'bourgeois']	larbin	: - Je ne me lasse pas, décidément, s'écriait-il, de regarder passer ces jocrisses! Tous rasés comme la main! Le rêve des citoyens d'aujourd'hui c'est de se faire des faces de [MASK].
+
+['lu', 'écrit', 'compris', 'dit', 'cela']	Sirat	Mais quand mes sœurs l'auront lu. Combien de sœurs avait [MASK] ? Assez en tout cas pour user mon courage de quémandeur. Mais pour avoir porté longtemps la blessure d'un conte de Noël inachevé, je n'ai jamais refusé d'en écrire.
+
+['</s>NOTUSED', 'la', 'le', 'Mme', 'une']	Colombo	, c'est une bonne action. - Bon pour le son! cria l'ingénieur du son. - Et le film ? protesta faiblement [MASK]. La script avait toujours eu des idées. - On pourrait, proposa-t-elle, remplacer la panthère par un indigène.
+
+['Balzac', 'Baudelaire', 'Zola', 'Céline', 'Voltaire']	Michelet	En cinquième, il nous échut comme professeur de français et de latin un colosse maladif et barbu qui savait par cœur des centaines de pages de Hugo et de [MASK], nous accablait de professions de foi démocratiques mais possédait le cœur d'un tyran.
+
+['il', 'elle', 'on', 'lui', 'ils']	Maurice	! J'ai déjà demandé ma relève. On me répond « patientez ». Justement, j'en ai plus, de patience. Comme [MASK] allait s'éloigner, il le rappela : - A propos! Ta petite t'envoie le bonjour. - Quelle petite?
+
+['Il', 'Paul', 'Jean', 'André', 'Pierre']	Maurice	Puis, sur une route plate, le moteur reprit son rythme de croisière. [MASK] se carra sur son siège. Il lâcha son volant pour écraser sa cigarette, de nouveau. - Les Belges, les Allemands, dit-il, dans leurs cabines, ils ont des cendriers formidables.
+
+['il', 'lui', 'Pierre', 'Jean', 'Paul']	Maurice	Mais j'ai réfléchi. Et j'ai compris. Ses mains serrèrent les faveurs qui entouraient son paquet. Par-dessus le ronronnement du moteur, [MASK], déconcerté, écoutait le sifflement du vent dans les branches. - J'ai compris que t'avais compris.
+
+['ça', 'tout', 'maintenant', 'bien', 'quoi']	Renan	Alors il sortait un carton rose de sa poche, qu'il remplissait en hâte, lourd de zéros, et le portait au maître qui signait et, tout à coup roucoulant, lui tapotait la tête. – Alors, on connaît [MASK] ? C'est bien, ça, mon petit.
+
+['Il', 'Elle', 'On', 'Lui', 'il']	Maurice	- Tu aimes rien, toi! Il avait lâché le volant pour allumer sa cigarette. - Tu n'aimes même pas fumer, reprit-il. - En tout cas, moi, je lâche pas mon volant. [MASK] le voyait venir. Ça finissait toujours comme ça.
+
+['elle', 'lui', 'Marie', 'Jeanne', 'eux']	Joseph	Une odeur de mouton lui caressa les narines. La tranche avait été disposée entre deux morceaux de pain, avec art. - Ah! j'oubliais, reprit le porte-clefs en se retournant vers [MASK]. Pourtant, elle me l'a fait répéter trois fois.
+
+['tous', 'chacun', 'Marie', 'Pierre', 'Jean']	Joseph	Leur quadruple rire, qui retentit dans la tête de [MASK], fut arrêté par un tintamarre. La grille s'était ouverte et deux prisonniers apparaissaient, portant à l'aide d'un morceau de bois enfilé dans les anses une lourde bassine fumantedont le fond, à chaque pas, heurtait bruyamment les dalles.
+
+['Marie', 'Sophie', 'Claire', 'Catherine', 'Lisa']	Maurice	L'histoire de [MASK] se terminait par une autre mauvaise surprise. Ses deux clients lui avaient laissé de drôles de souvenirs. Il avait fallu qu'il lave à grande eau. Elle sommeillait. Elle aimait cette bonne voix et ne l'écoutait pas tout à fait.
+
+['il', 'elle', 'on', 'lui', 'Il']	Cabirol	Alors [MASK] dit: - Messieurs dames, les panthères noires sont peu dressables. Et celle-là ne l'est pas du tout. Par système, il lui répugnait de dire la vérité. Mais, pour une fois, la vérité lui avait paru coller avec la réalité.
+
+['Elle', 'Il', 'Marie', 'On', 'Anna']	Françoise	[MASK] ne voyait plus le visage de celui qui avait les cheveux châtain et les yeux vifs et qui, tout compte fait, devait être le conducteur. Mais elle l'entendit : - Qui comprendra quelque chose aux pépées !
+
+['Maria', 'Giuseppe', 'Luigi', 'Francesco', 'Roberto']	Raffaela	Il était revenu à l'anglais auquel nous avions renoncé à cause de [MASK] qui préférait visiblement s'exprimer en italien. Sa voix était étranglée. Sa femme le regarda posément, comme pour l'apaiser. - C'est une histoire que je n'ai jamais racontée, dit-il.
+
+['il', 'on', 'Il', 'Alexandre', 'Abraham']	Augusto	- Alors supposons, mon cher, le problème résolu, supposons qu'[MASK] ait vraiment trouvé la clef et qu'il ait vraiment été éclairé par une illumination intérieure sur les serrures auxquelles elle convenait. - Oui, dit le greffier, admettons, on va voir ce que ça va donner.
+
+['On', 'Chacun', 'Il', 'Napoléon', 'Paris']	Joseph	Le temps avait passé. Mais depuis le coup d'État du 18 Fructidor, le Dépôt, lieu habituellement réservé aux voleurs et aux assassins, recueillait de nouveau des bourgeois et des nobles étonnés. [MASK] s'exerçait à ne pas respirer. L'odeur était vraiment écœurante.
+
+['Pierre', 'Jeanne', 'Marie', 'Alice', 'Jules']	Sirat	Il jeta le bouquin à [MASK], lui en confia la lecture et alla s'asseoir au milieu de nous, à un pupitre vide, en multipliant les singeries sur le thème de sa corpulence et de l'étroitesse du banc.
+
+['chacun', 'tout', 'tous', 'Pierre', 'Paul']	Françoise	De tous côtés brillaient des feux de position. On eût cru un port. Les maisons aux toits blancs semblaient très petites le long des hauts camions, des remorquesinfinies. Elles ressemblaient à des quais. Un grondement cloua [MASK] sur place, dans la boue.
+
+['Marie', 'Sophie', 'Jeanne', 'Louise', 'Julie']	Françoise	Elle avait aussi bondi de côté, fuyant vers l'herbe du fossé, aveuglée par une giclée de boue et de neige que la machine, en s'immobilisant, avait jetée contre elle comme une gifle. L'intention de [MASK] était de s'excuser, de dire : «
+
+['le', 'Monsieur', 'Madame', 'Charles', 'Albert']	Joseph	- C'est que je l'ai chargé d'une commission, expliqua [MASK]. Il n'est pas revenu? - Oh! Y reviendra. - Mais où est-il ? - Je te dis qu'on lui a rendu de l'air. Tu comprends pas ?
+
+['celui', 'celle', 'David', 'ce', 'ceux']	Cabirol	Entre la caméra et la Jeep du son, un treillis de fil de fer avait été tendu pour empêcher la panthère de se sauver. Elle le considéra. Puis elle considéra [MASK] qui se tenait à quelques pas d'elle, un épieu à la main.
+
+['on', 'elle', 'il', 'Marie', 'Jean']	Mariette	Une miche de pain brun s'arrondissait déjà sur la nappe et [MASK] avait préparé une pyramide de raisins noirs, de ceux, un peu poivrés, que l'on mange en hiver après avoir redonné à leurs grains toute leur rondeur en les aspergeant de gouttelettes d'eau.
+
+['Flaubert', 'Zola', 'Gallimard', 'certains', 'Sartre']	Sirat	Dire que vous êtes là trente et un imbéciles occupés à déguster les humanités alors que l'agriculture manque de bras et que pas un de vous n'a eu l'idée que le roman que nous cherchions, grâce à la niaiserie de [MASK], nous tombe du ciel.
+
+['Il', 'Lui', 'lui', 'Elle', 'il']	Joseph	[MASK] avait expliquéque cette chambre avait été celle de ses parents. Il lui avait montré, sur l'angle de la commode, les coups de canif qu'il avait donnés en plein acajou parce qu'on lui refusait une montre, à douze ans.
+
+['Papa', 'Alors', 'Mais', 'Pourquoi', 'Dis']	Huberte	Il réfléchit: - Évidemment, pour la conversation, on pourrait faire des plans alternés. Mais il y a le moment où vous avez sa tête sur vos genoux et où elle vous dit : « [MASK], pourquoi m'as-tu tuée ? »
+
+['Noël', 'Pentecôte', 'Toussaint', 'Pâques', 'Halloween']	Noël	Il rageait d'avoir congé pour Pâques, pour [MASK] ou pour la Pentecôte. Il eût aimé qu'on ne fêtât que les grandes journées laïques, notamment un onze ou douze mars 1902 ou 1910 où les garçons de café avaient fait grève pour avoir le droit de porter moustache.
+
+['Félix', 'Oscar', 'Coco', 'Léon', 'Pierrot']	Caro	Saisissait-il sa plume qu'il devenait «juge du XX e siècle préparant un arrêt ». Si [MASK], le petit chat, venait lui rendre visite, il l'accueillait sur ses genoux et lui souriait avec une bonté distraite : « Homme de loi jouant avec un chat. »
+
+['présent', 'nous', 'tous', 'vous', 'Dieu']	Vallescuro	Ces gens ne sont pas venus si loin pour voir ça. - C'est évident, dit le juge. Le prêtre, qui avait écrasé son nez bourgeonnant contre la fenêtre, fit volte-face. - Que souhaitons-nous, à [MASK] ? Qu'attendons-nous ?
+
+['il', 'Paul', 'Il', 'Thomas', 'John']	Maurice	Les fenêtres passaient, barricadées par les volets, et régulières. Leurs vitres devaient trembler comme celles de la cabine, aux vibrations des trente tonnes. Les gens devaient se retourner dans leur lit. Machinalement, [MASK] pensa qu'il serait mieux dans son lit.
+
+['madame', 'Madame', 'Jeanne', 'Marie', 'Pierre']	Maurice	? - Tiens, dame! Parce que maintenant y ne trouveront plus personne dans les équipes qui accepte de monter avec lui. *** Le patron se leva, se frotta la nuque, et demanda à [MASK] de répéter.
+
+['il', 'on', 'elle', 'tu', 'Dieu']	Augusto	Pour ce que vous avez à en faire, la vérité elle-même ne vous importe pas. Moi, j'ai été ému quand [MASK] nous a dit ça. - Tu as été ému parce que tu n'étais pas là pour rendre un jugement.
+
+['côté', 'table', 'terre', 'proximité', 'distance']	Fabienne	- Vous faites à votre père une vie impossible, disaient les gens à [MASK] pour meubler la conversation. - Ça l'occupe, répondait-elle avec une grimace blasée qui lui allait bien, et elle le savait. Tous les hommes étaient à ses pieds.
+
+['Jean', 'Pierre', 'Louis', 'Joseph', 'Paul']	Paolino	Nous n'aurions probablement jamais reparlé « de cette histoire-là » si la femme de chambre n'était venue s'entretenir à voix basse avec sa maîtresse. La fièvre de [MASK], le fils du jardinier, avait repiqué.
+
+['Alice', 'Jeanne', 'Marie', 'Sophie', 'Madeleine']	Fabienne	On ne retint pas sa suggestion. On tomba d'accord sur une antilope, ce qui avait l'avantage de rapprocher le film du cerf de la vraie version. Seule, [MASK] était réservée. - Une antilope, dit-elle, c'est bien douceâtre.
+
+['elle', 'il', 'on', 'Il', 'Alice']	Elena	Plus tard, quand le piano cessa brusquement sur une invective maternelle, le juge comprit qu'[MASK] venait maintenant de se faire gronder parce qu'elle jouait du piano au lieu de s'habiller. Cela signifiait que lui-même devait passer dans sa chambre. Il se leva.
+
+['paix', 'Paix', 'police', 'Paris', 'famille']	Vallescuro	- N'y pensons plus. Ce mauvais rêve est fini! s'écria-t-elle. Car la nuit de Noël, les bêtes parlent. Le juge de [MASK] avait coutume, avant l'audience, de se faire rafraîchir la mémoire par son greffier.
+
+['Il', 'On', 'Pierre', 'Elle', 'Jean']	Maurice	La route était couverte d'abat-jour. [MASK] descendait ses vitesses brutalement avec des gestes de bûcheron qui arrachèrent des hurlements aux pignons. Le moteur retenait le camion maintenant. Sur une masure en ruine, des lettres se détachèrent qui vantaient la blancheur Persil dans l'épaisse blancheur de la neige.
+
+['Jeanne', 'Marie', 'elle', 'Sophie', 'Alice']	Phénice	Elle n'en dit pas plus car [MASK], qui avait d'abord attendu que l'initiative des événements vînt de ses compagnons, se mit lentement en marche vers le treillage puis bondit, s'agrippa à mi-hauteur et se détendit en même temps que la mince cloison s'affaissait sous elle.
+
+['Il', 'Elle', 'Pierre', 'il', 'On']	Joseph	L'homme qui l'appelait était un porte-clefs qui s'était croisé avec le nain à l'ouverture de la grille. - C'est vous le citoyen Mourtet Eh ben! tenez, c'est de la part de votre femme. [MASK] dénoua le petit mouchoir dentelé deClotilde.
+
+['Elle', 'Marie', 'Jeanne', 'Madeleine', 'Emma']	Fabienne	[MASK], qui n'était pas dénaturée, se voyait aussi dans ces rôles, mais au cinéma, exclusivement au cinéma. Son père avait commencé par lutter. Il avait prohibé dans la maison tout ce qui pouvait rappeler la tentation à la malheureuse enfant.
+
+['moi', 'toi', 'lui', 'vous', 'nous']	Renan	Amateur de coups de théâtre, désireux de nous frapper toujours, il utilisait les exemptions comme une foudre. – Alors, personne n'a jamais entendu parler de [MASK] dans cette classe ? rugissait-il. Y en a même pas un qui sache son prénom?
+
+['Il', 'Elle', 'Anna', 'il', 'Lui']	Joseph	Moi, j'aurai droit à un supplément de bouillon parce que... Son interlocuteur était un nain bavard, assez hideux. - Je vais travailler chez les femmes, ce soir. On a demandé des volontaires pour réparer leur fontaine. [MASK] regarda le nain avec désespoir.
+
+['Monsieur', 'Pierre', 'Louis', 'Jean', 'Victor']	Renault	! Montez mon petit et tâtez mes poches. Allons approchez-vous, je ne vais pas vous écraser. Dans un silence théâtral, nous suivîmes les gestes de [MASK], contraint de toucher la veste et le gilet du professeur.
+
+['matin', 'même', 'soir', 'midi', 'jour']	Adolphe	Celui-ci les comptaitavec soin, remplissait un formulaire qu'il remettait au surveillant général et le lendemain [MASK], le garçon chargé de présenter de classe en classe le cahier de présence, apportait le livre de prix obtenu par le lauréat.
+
+['Il', 'Elle', 'On', 'Paul', 'Jean']	Antoine	Une mer verte et immense s'étala. Le dessin abrupt de falaises jaunes et violettes se détacha comme un liséré. [MASK] eut le temps de distinguer quelques pauvres maisons de bois et de boue blotties à ses pieds sur un glacis de landes descendant vers la mer.
+
+['Il', 'Dieu', 'Satan', 'Jésus', 'il']	Augusto	Cette cause l'intéressait. Dans son vieux visage sombre et gonflé, des éclairs brillaient. Il arrondit une bouche chaleureuse : - [MASK] est comme les grands bandits ou les grands prophètes. Il a réponse à tout, même à ce que vous venez de dire.
+
+['lui', 'eux', 'elle', 'Pierre', 'le']	Sirat	Sa mémoire étant intraitable, il ne lui fallut qu'une seconde pour se tourner vers [MASK]. - Espèce de crétin, lui dit-il froidement, vous ne savez pas qu'à la rentrée des vacances vos exemptions ne vaudront plus pichenette ? Le crétin acquiesça silencieusement.
+
+['elle', 'lui', 'eux', 'Elle', 'Stella']	Françoise	L'homme avait l'air calme et dur. Ses yeux bleus braquèrent sur [MASK] un regard qui la traversa. Du capot, un martèlement régulier s'échappait qui lui fit penser à celui des paquebots, qu'elle avait entendu au cinéma. Elle ressentait aussi la chaleur du moteur.
+
+['le', 'Napoléon', 'Dieu', 'Monsieur', 'il']	Adolphe	Quelque chose de noble s'allumait alors dans le regard du client. Il finissait toujours par dire : - Non, je ne tirerai pas sur un ennemi désarmé. - Non, dit [MASK], je ne tirerai pas sur un ennemi désarmé.
+
+['Il', 'Elle', 'On', 'Je', 'Et']	Maurice	Je sais pas me faire aimer des gens. J'essaie plus. Donc, ce matin, quand le patron m'a dit que tu... que tu... Il s'embrouilla : - Ouvre, dit-il. C'est pour toi. [MASK] hésita puis attaqua les faveurs rouges.
+
+['Il', 'Lui', 'Elle', 'On', 'Dieu']	Chevaux	Il n'est pas avare encore. Il est bon. Il veut le bien de tous... Les grosses lampes auréolées de porcelaine éclairaient nos têtes immobiles. Nous ne bougions pas parce que nous écoutions. [MASK] écoutait aussi.
+
+['Il', 'Lui', 'Paul', 'Pierre', 'Jean']	Antoine	Plus on s'agite, plus on enfonce vite. La mort vous baigne d'abordjusqu'à la ceinture. Il suffit de quelques gestes pour qu'elle envoûte les épaules et commence à vous lécher la figure. [MASK] ne bougeait plus. Des pensées stupides défilaient en lui comme une lente cavalerie.
+
+['son', 'la', 'Pierre', 'Bernard', 'Louis']	Maurice	Jusqu'ici, on s'occupait d'elle sans arrière-pensée. - Quoi? dit-elle. Au ton de [MASK], elle avait senti qu'il avait fini de raconter une histoire de gangsters voulant s'emparer d'un camion chargé de pneus, et qu'il l'interrogeait.
+
+['là', 'lui', 'souvent', 'parfois', 'toujours']	Maurice	Une fois le camion rangé, ils entraient ensemble dans le relais, commandaient à boire ou à manger. Lui, [MASK], il retrouvait des copains. Il allumait une cigarette. Il donnait des nouvelles. Il en recevait.
+
+['</s>NOTUSED', 'le', 'la', 'de', 'les']	Françoise	La machine avait poussé des soupirs stridents, le capot avait obliqué, la masse vertigineuse de la remorque avait geint, s'était crispée en travers de la route, cessant de faire corps avec la cabine et le moteur. Maintenant, la machine parlait. Elle avait évité [MASK], mais demandait méchamment
+
+['Louis', 'Jean', 'Charles', 'Pierre', 'Georges']	Colombo	Je ne le décrirai pas. Je n'en dirai pas plus sur lui. Tout le monde a un jeune homme charmant en tête. Eh bien! c'était lui. [MASK] (c'était son nom) était fou de joie.
+
+['Maman', 'Alors', 'Papa', 'Seigneur', 'Mère']	Huberte	Chasseresse ardente, elle courait la jungle jusqu'au soir de Noël. Car, comme on le sait, le soir de Noël les bêtes parlent. Alors, une panthère noire lui disait : « [MASK], pourquoi m'as-tu tuée ? »
+
+['il', 'elle', 'Paul', 'on', 'Charles']	Maurice	D'ailleurs, elle ne comprenait plus rien à rien. C'était trop fatigant de comprendre. - Qu'est-ce qu'elle écrase, la môme, dit quelqu'un. *** Étendu sur sa couchette, [MASK] regardait décliner les lueurs du tableau de bord.
+
+['il', 'on', 'elle', 'lui', 'ils']	Joseph	un peu. L'habit portait quelques traînées sombres, là où [MASK] avait effleuré un mur moisi. La cravate fléchissait. Et les culottes moelleuses étaient déparées par ce détail étonnant : elles ne s'achevaient pas sur des bottes, mais sur des chaussettes.
+
+['payer', 'toi', 'conduire', 'mourir', 'savoir']	Maurice	Tu seras recherché. Quand y aura un prince, ou un académicien, ou un évêque qui aura cassé sa pipe, pas d'hésitation, les gars diront : pour conduire la brouette, faut [MASK]. Les héritiers te refileraient des pourboires.
+
+['Il', 'Elle', 'il', 'Pierre', 'Lui']	Joseph	Il l'avait fait avec amour et la joie lui était revenue au cœur. - Bravo! dit le porte-clefs après l'avoir écouté. Voilà un ordinaire qui me conviendrait. Il ne vous en coûtera que cinquante écus. [MASK] avait porté la main à sa poche.
+
+['Peter', 'John', 'Jack', 'Tom', 'Jim']	Maurice	Il avait tant attendu pour répondre que [MASK] ne se rappelait plus très bien ce qu'il avait dit. Pour réfléchir, il jeta ce qui restait de sa cigarette et l'écrasa sous son pied, devant la pédale d'embrayage.
+
+['Il', 'On', 'Monsieur', 'Paul', 'Alexandre']	Augusto	En ouvrant le tronc, il ne commettait pas une effraction, puisqu'il possédait la clef. Mais en raflant l'argent, il commettait un vol. - Là, je vous arrête, monsieur le juge. [MASK] s'est brillamment défendu sur ce point-là.
+
+['Noël', 'Jésus', 'Dieu', 'Marie', 'maman']	Augusto	- Ironique, tu crois ? - Tu pourrais décrire par le menu l'offrande miraculeuse qu'attend [MASK] : du foie gras, des vins fins, un salami extraordinaire de taille, une oie, et tourte de Noël.
+
+['Il', 'Elle', 'On', 'Jean', 'Michel']	Colombo	[MASK] s'arrachait les cheveux. - Si dans la journée ils ne mettent pas la bête à l'avion, nous sommes perdus. On est déjà le 15 décembre. Tous les aérodromes se ressemblent. Les panthères noires aussi, pour ceux qui ne sont pas du métier.
+
+['Il', 'Elle', 'Jean', 'Pierre', 'On']	Françoise	[MASK] vit le col du chandail, roulé haut, qui cernait son menton bien découpé et qui, sombre, faisait paraître plus blanc son sourire. Il lui mit la main sur l'épaule et la poussa vers le zinc. - Un café ? La patronne demanda :
+
+['Dieu', 'Jérusalem', 'Nazareth', 'midi', 'Noël']	Judée	Le camp était couvert de neige et les fils de fer barbelés s'étaient enveloppés de cristaux de glace qui suspendaient dans la nuit des guirlandes de petites croix étincelantes. Il avait éprouvé, cette nuit-là, la tranchante misère du nord auprès de laquelle l'étable de [MASK] est tiède et nonchalante.
+
+['Paul', 'Jean', 'Alice', 'Pierre', 'Philippe']	Maurice	Moi non plus, je n'en suis pas revenu. « Mais, où veut-il en venir ? pensa [MASK]. Il n'a jamais autant parlé de sa vie. Pourtant, il n'a pas bu. »
+
+['Pierre', 'Jean', 'Georges', 'Joseph', 'Paul']	Maurice	Elle reconnut la voix de [MASK], mais parmi tous ces hommes elle ne le distinguait pas. Éblouie par la lumière, surprise par la chaleur, elle s'apercevait dans la glace qui pendait au-dessus du zinc. Elle se trouvait laide. Ses bas étaient noirs de boue.
+
+['il', 'elle', 'on', 'Il', 'Sam']	Maurice	La pente avait cessé, [MASK] relança son camion. - Tu aimes rien, toi! Il avait lâché le volant pour allumer sa cigarette. - Tu n'aimes même pas fumer, reprit-il. - En tout cas, moi, je lâche pas mon volant.
+
+['il', 'elle', 'Pierre', 'Marie', 'Jean']	Joseph	Ma femme s'appelle la citoyenne Mourtet. Tu lui diras bien que j'ai eu une grosse ration et que j'ai le ventre plein. Quand la grille eut claqué derrière le nain, [MASK] ferma les yeux et s'allongea dans la paille. Sa brusque joie tombait.
+
+['il', 'on', 'lui', 'toujours', 'elle']	Maurice	N'importe quoi lui rappelait une histoire. Il se répétait un peu mais quand on lui disait : « Oui, on sait » ou « Raconte pas ta vie », il continuait sans se fâcher. Il oubliait quelquefois les niveaux, mais [MASK] y pensait.
+
+['Marie', 'lui', 'ça', 'Jeanne', 'tout']	Zanzibar	Il soupirait au souvenir de [MASK]. N'importe quoi lui rappelait une histoire. Il se répétait un peu mais quand on lui disait : « Oui, on sait » ou « Raconte pas ta vie », il continuait sans se fâcher.
+
+['gouttière', 'Florence', 'Venise', 'Turin', 'Toscane']	Vallescuro	Il y a toujours d'excellentes images du petit chat de [MASK], prisonnier au sommet d'un arbre ou naviguant sur une poutre. Et tous les sept ans, on s'étonne que les Ponts et Chausséesitaliens aient omis de prendre des mesures préventives.
+
+['Jean', 'Pierre', 'Jacques', 'Georges', 'Marie']	Maurice	D'un geste impérieux du pouce, il lui montra, derrière son siège, une petite plate-forme que surplombait de près le plafond de la cabine. Un coussin et des couvertures y traînaient. - Quand on a sommeil, c'est là qu'on dort, dit [MASK].
+
+['Elle', 'Il', 'On', 'Marie', 'Anna']	Françoise	[MASK] ne l'entendait plus. Elle avait enfoui son visage dans son coude. Elle dormait. Quand elle s'éveilla, la cabine était obscure et muette. La neige ensevelissait le pare-brise. Une poignée brillait sous le volant.
+
+['Il', 'Elle', 'Cela', 'il', 'elle']	Maurice	- C'est pour l'après-midi, ou pour le soir? Ou quelque chose de pratique, dans le genre sport ? [MASK] s'expliqua assez pour que la vendeuse lui affirmât que ce qui irait à la perfectionserait une pochette de vernis noir, doublée entièrement de peau de chamois.
+
+['Marie', 'Jeanne', 'Marguerite', 'Catherine', 'Alice']	Elena	Le juge n'eut pas de mal à reconstituer les faits. [MASK], la cadette, avait dû casser quelque plat, ou seulement jeter du désordre, et sa mère l'avait invitée à débarrasser le plancher de la cuisine et à aller jouer du piano.
+
+['Elle', 'Il', 'elle', 'Anna', 'Emma']	Françoise	- Pourquoi ? Tu crois que tu le rattraperas plus facilement que moi, le retard ? [MASK] n'osait pas insister. Elle savait que la solitude, sous la douceur glacée des flocons,l'accablerait. Elle se coucherait, comme dans un livre qu'elle avait lu.
+
+['elle', 'il', 'Anna', 'Marie', 'Alice']	Joseph	Il pleuvait. Et [MASK] songeait au logement vers lequel il l'entraînait, qui n'avait pas été occupé depuis la mort de ses parents et la mort de sa sœur. Une servante, tout le jour, avait dû brosser les rideaux, éventer les matelas.
+
+['Jean', 'Pierre', 'Marie', 'le', '</s>NOTUSED']	Raffaela	- Vous comprenez, me dit-il, avec le passé que j'ai, si je me mets à raconter que j'ai été le témoin d'un miracle, j'aurai l'air ou de me payer la tête des gens, ou de commettre un sacrilège. - Je t'en prie, insista brièvement [MASK].
+
+['!', '...', 'ça', 'lui', 'cela']	Tino	Ça je le sais. Son excuse était mauvaise, d'accord, mais peut-être qu'il croyait à son excuse. Le juge sourit. - Allons donc, je suis sûr qu'il n'est mêmepas venu au Palais de Justice le jour où je jugeais [MASK].
+
+['Maman', 'elle', 'Marie', 'maman', 'lui']	Colombo	A quelques pas d'elle, ils s'arrêtèrent, et comme les panthères noires voient dans l'obscurité, elle les vit s'embrasser. - Vous croyez, disait [MASK], que votre père y consentira? - S'il a du bon sens, oui.
+
+['Noël', 'circonstance', 'Paris', 'Molière', 'Flaubert']	Dickens	Le bond qu'elle fit la précipita dans un filet que manœuvraient, des branches d'un arbre, deux Nègres demi-nus. Si le précédent de [MASK] ne m'y autorisait, je n'oserais pas introduire dans un conte de Noël de sordides précisions commerciales.
+
+['Il', 'il', 'On', 'Thomas', 'Jack']	Antoine	[MASK] n'avait jamais réfléchi autant. Prenant son fusil par le canon, il le tendit avec ses dernières forces, lentement, éternellement, gémissant de peur, de froid, et d'enthousiasme. Car la bretelle s'était passée dans la fourche d'une branche...
+
+['madame', 'Madame', 'maman', 'Mme', 'Mademoiselle']	Raffaela	- A vrai dire, expliquai-je, je n'ai même pas senti le parquet bouger mais, dans ma chambre, il y avait une cheminée, et sur cette cheminée... - Je vous en supplie, monsieur, s'écria [MASK], ce sujet ne vaut rien à mon mari.
+
+['Il', 'Je', 'On', 'Elle', 'il']	Raffaela	Il nous interrogeait du regard. J'intervins : - [MASK] me demandait si, en français, il y a pour désigner ce qui vous est arrivé un autre mot que miracle. – Et ? – Il n'y en a pas.
+
+['celui', 'ceux', 'nous', 'ce', 'lui']	Sirat	Nous crûmes qu'il se dirigeait vers [MASK] que la terreur avait blanchi. Il se campa devant une des vitres derrière laquelle un volet qui ne fermait plus bien formait tain. Devant cette glace improvisée, il se lissa la barbe en souriant, comme c'était son habitude.
+
+['ça', 'Rose', 'Marie', 'Sophie', 'Claire']	Phénice	Elle était de bonne humeur, n'ayant jamais eu aussi chaud un jour de Noël. Et si l'ingénieur du son criait que le son était bon, c'était que [MASK] venait de feuler. Si elle feulait, c'est qu'on lui avait ouvert sa cage.
+
+['Anna', 'Alice', 'Emma', 'Elena', 'elle']	Yvonne	« D'accord ! » Et elle ajouta qu'elle avait besoin d'une serveuse à cause d'[MASK] qui s'était mariée... Qu'évidemment, elle ne pouvait pas embaucher n'importe qui sans savoir. Elle entendit aussi des pas d'hommes, des grincements de chaises.
+
+['Elle', 'femme', 'et', 'elle', 'Il']	Raffaela	[MASK] s'arrêta à quelques pas de moi. – Je suppose, dit-elle, que vous alliez demander à mon mari s'il n'y a pas une explication toute simple à son histoire de main. – Il est
+
+['Il', 'Paul', 'Pierre', 'Joseph', 'Arthur']	Sirat	[MASK] était un grand garçon pâle, un peu laid, de la race qui se tient en général à la droite du professeur le jour où l'on photographie la classe. Il portait encore des culottes courtes d'où sortaientdes jambes d'adulte qu'il voilait jusqu'aux genoux dans une blouse grise tachée d'encre.
+
+['chacun', 'Pierre', 'Jean', 'Paul', 'Joseph']	Joseph	Sous la présidence d'un porte-clefs, quatre détenus, dont c'était la fonction, distribuèrent les parts. La part de [MASK] n'occupait pas le fond de la mince écuelle qu'il avait trouvée dans la paille. - Dépêchez-vous de vous régaler.
+
+['Socrate', 'Napoléon', 'Jésus', 'Platon', 'Voltaire']	Dickens	Il en ressortait que [MASK], encore qu'égaré par bien des superstitions, avait été, dans une certaine mesure, un ami du peuple. Son visage s'éclaira brusquement. – Ecce homo! s'exclama-t-il, ecce liber !
+
+['elle', 'Alice', 'Sophie', 'Emma', 'Marie']	Phénice	Mais il faut toujours un peu de tristesse dans un conte de Noël parce que le Noël idéal veut qu'on ait froid sur la route, comme les Rois mages, pour ne goûter que mieux la chaleur du réveillon. Donc [MASK] fut prise à son corps défendant.
+

@@ -1,0 +1,200 @@
+['maintenant', 'alors', 'hein', 'non', 'désormais']	Thérèse	Excepté le chagrin causé par la perte de sa mère, alors qu’elle était tout enfant, nulle peine n’avait jamais attristé ses belles années. – Eh bien, c’est toi qui ne dis plus rien, [MASK] ? demanda le général.
+
+['on', 'On', 'elle', 'il', 'Isabelle']	Adrien	– Est-ce que cette omelette n’est pas bonne ? – Mais si, ma chère tante, elle est excellente, au contraire ; mais le plaisir de vous voir et le changement d’habitudes me coupent un peu l’appétit. Vous voyez qu’[MASK] y revient à deux fois.
+
+['eux', 'lui', 'moi', 'vous', 'les']	X	je connais tous ces messieurs. – Voyez-vous, l’argent, c’est le nerf de toute entreprise ; sans lui, à quoi vous servirait votre brevet ou votre privilège… votre apport social en un mot ?.. Je vous mettrai en rapport avec [MASK]…
+
+['Elle', 'Il', 'Marie', 'Jeanne', 'Emma']	Adrien	secours, pour gagner encore quelque argent avec son aiguille. [MASK] le comprit ; quand elle vit qu’elle ne pouvait, pas soutenir son généreux mensonge, elle s’écria : – Mais n’aie pas peur, mon cher enfant ! Personne n’en sait rien ici ;
+
+['lui', 'Jésus', 'Lui', 'elle', 'Joseph']	François	Ce fut pour courir s’enfermer dans sa chambre. Là, elle tomba sur une chaise et demeura longtemps comme stupéfiée. Avait-elle bien entendu ? Était-ce bien [MASK], ce fils de son choix et de son cœur, sinon de ses entrailles, qui avait parlé
+
+['Il', 'Napoléon', 'Elle', 'II', 'Bonaparte']	Grivet	C’était aller au-devant des plaintes du banquier. [MASK] fronça légèrement ses sourcils olympiens, passa sa main droite entre le deuxième et le troisième bouton de sa redingote, regarda majestueusement l’inventeur et dit : – Je ne viens point vous faire de reproches, monsieur
+
+['Joseph', 'Auguste', 'Napoléon', 'Charles', 'Gustave']	Malaret	– Et pourtant elle tourne ! s’écria [MASK] avec un accent terrible, et en frappant violemment du poing sur sa machine à vapeur. – Mon cher enfant, de la patience… Peut-être, par exception, réussirez-vous…
+
+['Joseph', 'Paul', 'Victor', 'lui', 'Charles']	Adrien	Elle se rendait compte avec une lucidité désespérante des déboires qui attendaient [MASK], dès qu’il essayerait de retrouver des leçons ; et, en même temps, elle songeait avec épouvante que la misère était arrivée à son dernier terme et qu’il fallait agir.
+
+['Flaubert', 'Hugo', 'Shakespeare', 'Julie', 'Voltaire']	Julie	Oh ! sans doute, elle ne devait point le faire ! Mais, à sa place, quelle héroïne ne l’eût point fait ? « Hélas ! continuait [MASK], une fois sur la route, est-ce que l’on peut s’arrêter ?
+
+['monsieur', 'madame', 'Monsieur', 'Madame', 'Mademoiselle']	Jean	Alors j’ai pris le coffret… pour l’apporter à madame ! » Je commençais à comprendre et je sentis une contraction des nerfs de la gorge. Mais j’eus assez d’empire sur mon angoisse pour répondre : – Je ne sais pas ce que vous voulez dire, [MASK].
+
+['il', 'elle', 'ça', 'cela', 'on']	Ali	– Donnez-moi cela, mon père, s’écria la jeune amazone ; – c’est-à-dire faites un nœud coulant, et passez-le dans la fourche de ma selle : [MASK] tirera ! vous ne pourriez jamais amener jusqu’ici ce pauvre chasseur.
+
+['maman', 'Maman', 'Marie', 'Madame', 'Jeanne']	Adrien	– Dis donc, [MASK], sais-tu que le salon serait bien plus joli, peint en gris clair, en gris-perle, avec un filet-vert… Moi, il me semble que j’en rajeunirais…
+
+['Madame', 'madame', 'Marie', 'Mme', 'Jeanne']	Stéphanie	» ssa sur les lèvres de [MASK]. – Eh bien, dit-elle, avertissez la cuisinière de se tenir prête, car il est tard et nous nous mettrons à table tout de suite ! Le dîner fut long, comme sont toujours les dîners de province.
+
+['Marie', 'Madame', 'maman', 'madame', 'Maman']	Catherine	; la basse-cour fournissait pour contingent un poulet, que [MASK] avait fort bien arrangé à l’estragon ; les bois, un plat de champignons, et l’étang, une carpe qui n’était pas non plus mal traitée par la cuisinière.
+
+['survivre', 'fuir', 'combattre', 'cela', 'courir']	Maxence	Mais alors, en même temps qu’un incendie s’allumait, une lumière inexorable se faisait en elle. Jusque-là, son entraînement pour [MASK] avait été inconscient pour ainsi dire. En courant au danger, elle ne voyait pas l’abîme.
+
+['encore', 'longtemps', 'Dieu', 'profondément', 'intensément']	Maxence	Peut-êtte aima-t-elle plus [MASK], pendant une heure, qu’elle ne l’avait aimé au moment même où, vaincue et affolée, elle tendait d’une main tremblante la fleur de clématite… Mais alors, en même temps qu’un incendie s’allumait, une lumière inexorable se faisait en elle.
+
+['Il', 'Elle', 'il', 'On', 'elle']	Adrien	– Ah ! sans doute… si… – Si quoi ?.. – Si l’on faisait les affaires au point de vue de la philanthropie ; mais il faudrait être un véritable Petit Manteau Bleu pour entreprendre de propager votre invention dans les classes pauvres ! [MASK] pâlit.
+
+['elle', 'il', 'on', 'ça', 'maman']	Stéphanie	! – Huit heures !.. – Pourquoi ferme-t-on l’église à huit heures ? se dil-elle. – Je viens de l’église, mon am ! Cette fois, [MASK] ne mentait pas. – Et tu rentres ?
+
+['encore', 'enfin', 'aussi', 'même', 'Charlotte']	Thisbé	Ou bien, les enfants l’interrompaient par leurs jeux ou leurs cris ; – ou bien [MASK], la chienne bien-aimée du notaire, qui du matin au soir, le suivait à trois pas, lorsqu’il marchait, et dormait entre ses jambes, lorsqu’il était assis, se mettait à hurler.
+
+['le', 'la', '...', 'son', ':']	Rabelais	C’étaient, pour la plupart, de vieilles éditions de vieux auteurs, qu’il brûlait de déguster en plein champ, le ventre au soleil et la tête à l’ombre. Un jour, il empoigna « un gros, gras, moisi petit livret », comme dit [MASK]
+
+['Madame', 'Marie', 'Julie', 'Sophie', 'madame']	Stéphanie	La voix de [MASK] eut un léger tremblement en prononçant ces dernières paroles ; – elle se raffermit ensuite : – D’ailleurs, en y mettant mon adresse et mon intelligence, en faisant moi-même mes robes, etc., j’arriverai à ce qu’il ne paraisse rien à la diminution de mon petit budget ;
+
+['Jonas', 'Pierre', 'Moïse', 'Salomon', 'Jason']	Prométhée	Il était abattu, comme le sont les natures à la fois énergiques et naïves, quand elles se sentent écrasées par le malheur, enlacées de toutes parts par ces mille ficelles qui forment des câbles, pour les attacher au sol plus solidement que [MASK] à son rocher.
+
+['On', 'Il', 'Elle', 'on', 'Chacun']	Malaret	– [MASK] se gardait bien de dire qu’il ne réussissait pas ! Au contraire, on ne parlait que de ses succès ! – Sa mère colportait ses lettres de tous les côtés, – la pauvre vieille en gonflait d’orgueil, – surtout depuis qu’elle avait été invitée à la sous-préfecture.
+
+['Il', 'On', 'Elle', 'il', 'Cela']	Adrien	[MASK] eût de bon cœur étranglé l’entrepreneur ; mais il ne trouvait pas de réponse à ces arguments si simples. – Merci, monsieur, répondit-il d’un ton sec, en s’efforçant de contenir sa rage ; ainsi, voilà qui n’est bon à rien qu’à ruiner son homme
+
+['Il', 'On', 'Chacun', 'Joseph', 'Alexandre']	François	La ville était dans la région du nord-est, et l’ennemi s’en approchait ; déjà, les femmes et les jeunes filles étaient parties pour gagner le centre ou descendre vers le sud. [MASK] fut incorporé dans le corps d’armée le plus proche, et dirigé vers la ligne de défense.
+
+['elle', 'il', 'on', 'lui', 'Dieu']	Maxence	; si [MASK] l’avait connue, aimée. En repassant dans sa mémoire tous les épisodes duroman, elle les transportait, par l’imagination, dans la réalité. Elle se les représentait sous des couleurs plus vives que jamais histoires d’amour ne lui en avaient montré.
+
+['Elle', 'Il', 'Marie', 'Joseph', 'Jeanne']	Stéphanie	[MASK] se leva, transporta la lampe sur la travailleuse, et prit le paquet de journaux. – Faut-il commencer par le premier ou par le dernier en date ? demanda-t-elle. Veux-tu savoir d’abord les nouvelles les plus anciennes ou les plus fraîches
+
+['Elle', 'elle', 'Il', 'On', 'Puis']	François	Enfin, elle dompta cette émotion contre laquelle se révoltaient son esprit et sa conscience, et elle reprit silencieusement l’activité uniforme de sa vie obscure. [MASK] recommença ses promenades dans la campagne et ses interminables lectures de journaux.
+
+['il', 'se', 'Il', 'disait', 'dit']	Grivet	– Nos enfants ont tant de moyens ! [MASK] posait en homme magnanime. Il ne chiffrait pas ses pertes, et laissait croire là-dessus ce qu’on voulait ; il évitait même de se plaindre et défendait à demi son débiteur, quand on l’attaquait trop vivement.
+
+['tout', 'elle', 'cela', 'Dieu', 'ceci']	François	L’action constante n’empêchait pas l’imagination de marcher : qu’elle bêchât son jardin, fît sa lessive, rangeât son linge, récoltât ses fruits ou tricotât des bas ; qu’elle lût ou écrivît, toujours il y avait une préoccupation parallèle qui accompagnait son labeur. Elle songeait à [MASK] ;
+
+['partout', 'lui', 'Paris', 'nouveau', 'loin']	Château-Thierry	mais il ne voyait rien, que des chemins de traverse entre-croisés de mille manières Et ce précieux argent, donné par le banquier Grivet, diminuait de jour en jour ; et il recevait de [MASK] des lettres qui lui demandaient des nouvelles de ses succès, qui s’adressaient à un futur grand homme
+
+['Elle', 'Marie', 'elle', '</s>NOTUSED', 'Thérèse']	Stéphanie	quand un désir doit nécessairement devenir un ordre, est-il permis de l’exprimer ? [MASK] resta quelques minutes indécise devant ce cas de conscience : partagée entre l’impérieux besoin de savoir ce nom qui devait – sans doute ! –
+
+['Elle', 'elle', 'Il', 'Anna', 'Alice']	Stéphanie	Tu te fais donc bien belle ? [MASK] soupira, sous une rapide impression de lassitude et d’impatience, et se déshabilla. En place de la robe blanche, elle mit une robe de nankin toute simple, mais qui lui prenait bien la taille ;
+
+['Elle', 'elle', 'Julie', 'On', 'Madame']	Stéphanie	[MASK] éprouvait une violente tentation de dire : « C’est la baronne Julie de Bray. » Toutefois elle se contint en pensant que son mari, ne lui connaissant pas cette amitié-là, pourrait l’interroger. En revanche, elle dit après, comme à l’improviste
+
+['madame', 'monsieur', 'Monsieur', 'Madame', '</s>NOTUSED']	Caroline	, buvant les larmes… – Mais, reprit-elle, je vous assure, [MASK], que, si vous vouliez… – Si je voulais ?... Vous ne doutez de rien !... Mon banquier est l’ami de mon mari : il en profite pour faire des remontrances…
+
+['Monsieur', 'madame', 'Madame', 'Mme', 'monsieur']	Catherine	– Je ferai tous mes efforts, ma tante, pour mettre vos affaires en bon état, pendant mon séjour ici. – Oui, oui, mon garçon, je compte bien sur toi, et sur ta mère aussi ! Le dîner, servi avec une certaine pompe par [MASK], était excellent.
+
+['elle', 'Marie', 'Elle', 'Sophie', 'Rachel']	Stéphanie	! Jadis [MASK] voyait apparaître l’amour comme un lointain mirage, et tendait vers lui des bras. impatients. Et, tandis que les horizons de l’avenir fuyaient devant elle, il lui prenait des terreurs de ne jamais l’atteindre…
+
+['se', 'Max', 'elle', ':', 'Emma']	Stéphanie	Mais, ce soir-là, [MASK] vivait-elle dans la réalité ou dans le rêve ? savait-elle si sa lecture actuelle n’était pas la continuation de sa rencontre de tout à l’heure ?… Tout la trompait et l’éclairait à la fois… Max !
+
+['?', '!', 'lui', 'monsieur', 'Monsieur']	Grivet	– Ruiner [MASK] ! Si j’avais le malheur, de perdre les trois mille francs qu’il m’a confiés, ce serait le pis, et je ne pense pas qu’il fût ruiné par ce coup d’infortune…
+
+['on', 'personne', 'il', 'elle', 'homme']	Adrien	Elle était jolie : blonde, avec des yeux noirs, une taille svelte et souple, une main blanche et fine ; puis elle était mise avec cette simplicité élégante qui sied seulement aux Parisiennes ou aux femmes d’un certain rang. Jamais [MASK] n’avait vu une créature si accomplie.
+
+['Athènes', 'amour', 'incendie', 'Antoine', 'Adam']	Adrien	? Mais, comme les forces humaines ont une limite, surtout les forces de la révolte, les fureurs d’[MASK] devinrent plus rares d’année en année ; peu à peu elles se convertirent en une souffrance habituelle, lente, continue, stupéfiante.
+
+['Proust', 'Balzac', 'Flaubert', 'Zola', 'Dumas']	Maxence	Assurément, le samedi sui vant, elle en savai t les moindres intentions mieux que l’auteur lui-même. Pourtant le roman ne figura pas sur la table de son salon le jour où elle reçut [MASK] et ses hôtes. Toute autre maîtresse de maison l’eût exposé à l’attention de sa société
+
+['Jésus', 'Socrate', 'Dieu', 'Merlin', 'Napoléon']	Maxence	! si puissant qu’il ne peut être trompé : « Des ailes ! » Si nous n’en avons pas ici-bas, il faudra bien que nous en ayons par-delà ! – Sans doute, reprit [MASK], continuant pour ainsi dire cette rêverie parlée.
+
+['Il', 'Elle', 'il', 'elle', 'On']	Adrien	!… Justement, nous attendons, la semaine prochaine, les dames Malinvaux, tu sais… [MASK] fit la souricière, le piège à taupes et un grand pot de badigeon pour les murailles du salon, où trônait sa terrible tante.
+
+['même', 'aussi', 'bien', 'déjà', 'alors']	Adrien	Il aimait mieux passer pour bourru que pour amoureux. Si le malheur ne l’avait pas rendu si timide, si défiant de lui-même, peut-être [MASK] eût-il calculé qu’il n’était plus pauvre, puisqu’il pouvait compter sur l’héritage de mademoiselle Parengault ;
+
+['elle', 'Catherine', 'Rachel', 'Marie', 'Louise']	Stéphanie	C’est qu’au demeurant, comme je l’ai dit plus haut, [MASK] était occupée, et que les soins multipliés que réclamaient son ménage et ses enfants ne lui laissaient pas le loisir de se plonger dans la contemplation de ses misères intimes.
+
+['madame', 'toute', 'Mme', 'Madame', 'Catherine']	Stéphanie	s’écria [MASK] consternée. – Eh ! mais, parce que vous êtes la femme d’un uotaire qui a toujours une caisse pleine, vous croyez, chère madame, que les gens ont comme cela dix mille francs mignons… et tout prêts. – Ah !…
+
+['sa', 'ses', 'son', 'pour', '</s>NOTUSED']	Grivet	d’ailleurs, il avait le cœur rempli de reconnaissance pour cette parente inconnue, qui lui donnait les moyens de payer [MASK]. Il tournait et retournait le mandat, et se sentait dégagé d’un poids énorme. L’horizon lui semblait plus vaste et. l’air meilleur.
+
+['moi', 'elle', 'nous', 'eux', 'vous']	Max	Il était dix heures un quart, – j’avais promis d’être chez [MASK] à dix heures et demie ; – mon mari et ma belle-mère, qui m’avaient retenue jusque-là, étaient encore dans ma chambre. « – Quel domestique ? » dis-je avec une nuance d’impatience.
+
+['Marie', 'Jeanne', 'Louise', 'Berthe', 'Marguerite']	Adrien	– Oui, ma tante, répondit [MASK] sans trop comprendre comment l’avoué, le procès pendant. et la belle Lucie pouvaient avoir quelque rapport. – La ! tu vois bien ! On a beau dire que la réussite des patiences n’a aucune signification ;
+
+['on', 'il', 'elle', 'chacun', 'personne']	Adrien	Dix minutes après environ, une vieille servante tira un judas grillé pour demander qui était là. Quand [MASK] lui eut répondu, elle retourna vers la maison, pour consulter sa maîtresse sans doute ; puis elle revint en grognant, et ouvrit une petite porte percée dans la grande.
+
+['sorcière', 'déesse', 'divinité', 'statue', 'femme']	Euménide	Mais qui l’eût vue eût été effrayé de l’expression tragique de son visage. On aurait dit le masque d’une [MASK] taillé dans du basalte. L’abbé n’avait point de lunettes, et, d’ailleurs, ne regardait pas.
+
+['tout', 'beaucoup', 'profondément', 'longtemps', 'tant']	Thisbé	Vers quatre heures, lorsqu’elle vit son mari sur la terrasse se promenant de long en large et semblant se demander à lui-même ce qu’il allait faire, une chaleur inconnue lui monta au diaphragme. « S’il pouvait sortir et aller loin ! » pensa-t-elle. En ce moment elle regretta [MASK].
+
+['mon', 'la', 'ma', 'mes', 'Dieu']	Prométhée	ou quelque esprit malfaisant, qui joue avec mes angoisses et rit de mes luttes folles contre le malheur. – Un Dieu juste m’aurait-il donné des facultés pour les anéantir ? M’aurait-il mis au cœur le besoin de création pour en faire le supplice de [MASK]
+
+['Lui', 'Il', '</s>NOTUSED', 'Mais', 'Monsieur']	Adrien	C’était une bonne nouvelle qui l’attendait. – Eh bien, monsieur, venez donc vite, lui cria le contre-maître de l’atelier, voilà votre machine qui marche ! [MASK], en ce moment, n’était pas en train de croire au bonheur.
+
+['Il', 'il', 'Charles', 'Louis', 'Jean']	Adrien	! madame la sous-préfète ! » [MASK] lut cette lettre jusqu’à la dernière ligne ; quand il l’eut achevée, il la laissa tomber, et la regarda avec des yeux stupides de douleur. – Il faudra répondre, se dit-il.
+
+['tous', 'nouveau', 'Pierre', 'chacun', 'part']	Malaret	– Je ferai parler de cette affaire dans l’Office de publicité, disait-il à [MASK], en parlant de quelque entreprise analogue aux siennes. Ou bien : – Il faut que je fasse quelque chose là-dessus dans la Presse …
+
+['Dieu', 'Charles', 'Frédéric', 'Pierre', 'Jean']	Maxence	Par moment, elle avait des révoltes contre elle-même et semblait vouloir secouer cette tunique de Déjanire qui la brûlait. – Après tout, se dit-elle, si j’apprenais par cette lettre que [MASK] a aimé… aime encore une autre femme. ou bien qu’il l’a trompée…
+
+['il', 'elle', 'on', 'Il', 'chien']	Fox	Il s’agissait de faire -avec beaucoup de morceaux de tricot semblables un superbe tapis de mousse, ou [MASK] devait prendre ses ébats. On parlait même de décorer ce tapis de fleurs de laine, pour la plus grande récréation du chien, et le plus grand éblouissement des spectateurs.
+
+['<unk>', 'Alexandre', 'Émile', 'Adam', 'Antoine']	Adrien	Elle voulait tout savoir, et connaître tout le monde ; elle se fit nommer les substances qui composaient l’enduit économique, et énumérer les pièces qui faisaient marcher la machine rotative. Elle s’intéressa aux amis d’[MASK] et s’indigna contre ceux qui lui avaient nui.
+
+['elle', 'on', 'il', 'je', 'se']	Stéphanie	et comme la patte d’oie se marquait au coin de ses yeux ! – Un cheveu blanc ! – oui ! en vérité, [MASK] trouva un cheveu blanc sur sa tempe gauche !… – Ah ! grand Dieu ! se dit-elle, est-ce donc fini ?
+
+['Elle', 'Marie', 'Jeanne', 'Sophie', 'Anna']	Stéphanie	Si l’inconnu qui l’occupait depuis plusieurs jours habitait le pays, assurément elle devrait le rencontrer à la grand’messe, le jour de la Pentecôte. [MASK] était pieuse. – Tout en priant, cependant, elle égarait çà et là une œillade à travers l’église.
+
+['elle', 'il', 'et', 'qui', 'lui']	Stéphanie	Il attendait une impulsion, [MASK] aurait bien voulu la donner ce soir-là ; mais elle n’osait pas. Précisément parce qu’elle désirait trop vivement le départ de son mari, elle craignait d’être maladroite en le provoquant. Enfin le notaire se décida tout seul.
+
+['Madame', 'Monsieur', 'madame', 'Mme', 'monsieur']	Stéphanie	C’est l’homme privé, et non le notaire, qui vous prête dix mille francs. Vous me les rendrez quand vous pourrez, sans que ni la fortune de vos enfants ni l’aisance de votre ménage en soient diminuées… – Bien entendu, répondit [MASK], et… merci !..
+
+['elle', 'Marie', 'Jeanne', 'Louise', 'il']	Stéphanie	Donc, [MASK] avait trente-deux ans, deux enfants et un mari, notaire. Sur son front, à ses tempes, des plis marqués témoignaient qu’en passant, le temps, ce rude sculpteur, appuyait son ciseau d’une main ferme et impitoyable ;
+
+['il', 'elle', 'on', 'Il', 'Alexandre']	Adrien	! Et, sans savoir pourquoi précisément, sans intention arrêtée, sans parti pris de séduction, elle se faisait belle, lissait ses cheveux et cherchait bien vite une robe fraîche. Tandis qu’[MASK] tremblait en descendant de cheval, elle s’empressait de commander le déjeuner.
+
+['Marie', 'Sophie', 'Alice', 'Jeanne', 'Marguerite']	Stéphanie	Alors il déposait la fleur, tantôt sur la lettre, tantôt sur la carte, tantôt à côté des deux, sans y prendre garde. – C’est le plus innocent ou le plus faux des hommes ! se dit [MASK]. Et loin, de se calmer, son angoisse augmenta.
+
+['Louis', 'Pierre', 'Joseph', 'Paul', 'Charles']	Adrien	j’aurais envoyé la voiture te prendre et fait arranger toutes choses pour mieux te recevoir. [MASK] et sa mère avaient peine à répondre à toutes les politesses et à toutes les questions de leur vieille parente ; mais tous deux se sentaient touchés jusqu’au cœur par ce sympathique accueil.
+
+['Voltaire', 'cela', 'Montaigne', 'Socrate', 'Molière']	Thérèse	et, à chaque fois qu’il voyait [MASK], il revenait plus ébloui de sa fraîcheur enfantine, de sa beauté et de son esprit. Ah ! combien alors il aurait donné de sa science pour un peu de cette grâce qu’il avait remarquée chez quelques hommes du monde !
+
+['Il', 'Pierre', 'Jean', 'Paul', 'Louis']	Adrien	Tout à coup, ce mouvement cessa, comme si l’animal s’arrêtait pour une halte accoutumée. [MASK] regarda autour de lui et aperçut la tourbière à quelques pas. – Voilà pourtant où j’ai failli mourir athée ! pensa-t-il.
+
+['Elle', 'Il', 'Marie', 'Maman', 'Anna']	Stéphanie	Je voudrais vous montrer mon héroïne, telle que je la vis, – sans l’embellir de la poésie de mes rêves, – sans la déflorer par les douloureuses blessures de la réalité. [MASK] avait trente-deux ans. Dans le pays, chacun savait son âge.
+
+['elle', 'il', 'on', 'Elle', 'Emma']	Adrien	– C’est un jeu de dames, dit-elle en désignant du doigt la boîte qu’[MASK] tenait. Mais tu ne saurais pas jouer aux dames ? – Pardon, ma tante. – Vraiment ? Eh bien, nous ferons de bonnes parties !
+
+['cela', 'Madame', 'madame', 'chacun', 'lui']	Stéphanie	Mais, cette fois, sans doute le fin tabellion avait compris qu’une profonde sagesse peut se cacher sous une apparente folie. et que [MASK] payait sa prime d’assurance ; car ses dernières paroles traduisaient un consentement. – Avant tout, madame, spécifions les choses, dit-il.
+
+['Marie', 'Camille', 'Jeanne', 'Sophie', 'Claire']	Stéphanie	– « Des ailes ! des ailes ! » comme dit un poète de l’histoire naturelle. Commencées comme une interrogation, les paroles de [MASK] se poursuivaient comme un monologue. La jeune femme s’abandonnait au cours de ses pensées et les laissait errer sur ses lèvres.
+
+['vous', 'madame', '–', 'Madame', '»']	Caroline	! » – Quoi ! madame, quoi ! [MASK], vous refusez ? Vous allez vraiment, vous, riche et libre, laisser égorger cette femme. votre amie ! – sans pitié, sans remords ? – Oh ! non, n’est-ce pas ?
+
+['ne', 'Dieu', 'comment', 'cela', 'Napoléon']	Adrien	– Comment partir alors, quand on n’était pas parti après six mois de séjour ? D’une part, [MASK] pouvait-il, en l’abandonnant à sa solitude, hâter la mort de cette pauvre créature, qui, au demeurant, avait été sa bienfaitrice ?
+
+['tous', 'chacun', 'Pierre', 'Joseph', 'Monsieur']	Julie	Elle déchira la dernière page de sa lettre, mit une formule de trois mots, et sa signature au-dessous du passage où elle recommandait à [MASK] de détruire, aussitôt reçus, les papiers compromettants, plia et cacheta précipitamment pour se défendre de revenir sur la détermination prise, et courut jusqu’au chemin de fer
+
+['il', 'elle', 'Marianne', 'on', 'Louise']	Adrien	– Je ne viens point vous faire de reproches, monsieur ; – je vous crois honnête homme ! De pâle, [MASK] devint rouge. Il s’inclina sans répondre. – Peut-être eussiez-vous dû me tenir au courant de vos affaires, continua le banquier ;
+
+['Marie', 'Sophie', 'Jeanne', 'Rose', 'Claire']	Stéphanie	Que le temps qui devait s’écouler entre sa lettre et la réponse lui semblerait long encore !.. Long… et court !.. Car désormais la vie de [MASK] était bien changée ! Jadis elle se jetait avec passion sur les romans qui lui tombaient sous la main ;
+
+['elle', 'Marie', 'Jeanne', 'Alice', 'femme']	Stéphanie	Je ne songeais pas ou du moins j’aurais pu vous le laisser croire, – je ne songeais pas que j’avais le bonheur de vous donner le bras ! Jamais [MASK] n’avait entendu un pareil langage. Le ’cœur battant, la respiration haute et pressée, elle l’écoutait avec ivresse et avec terreur.
+
+['toi', 'moi', 'qui', 'papa', 'alors']	Grivet	– Mère, qu’allons-nous faire ? dit-il ; et [MASK] ? Ce nom ne sortit qu’avec peine de la gorge du pauvre inventeur, tant il souffrait à l’idée de revoir le banquier sans pouvoir lui rendre son argent. – Calme-toi, mon cher enfant
+
+['Il', 'et', 'Alexandre', 'Elle', 'Et']	Jean	douleur ! douleur ! il me trompait ! Il me trompait deux fois… [MASK], en s’en allant, avait lancé la flèche du Parthe. D’abord j’oubliai tout pour ne songer qu’à l’infidélité de mon amant. Ensuite je songeai à mon déshonneur.
+
+['Alexandre', 'Adam', 'Antoine', 'Abraham', 'Albert']	Adrien	Peut-être la jeune fille avait-elle fait aussi de longues réflexions sur la personne et l’esprit d’[MASK] ; car elle n’avait parlé pendant tout le déjeuner que pour remplir ses devoirs de maîtresse de maison, et elle était visiblement préoccupée. – Mais, bon Dieu !
+
+['Jacques', 'Pierre', 'François', 'Jean', 'Monsieur']	Challamet	Parmi les gens de presse et les gens d’affaires parmi les spéculateurs de la petite Bourse, qui ne connaît pas [MASK], bon Dieu ! Il a trente et quelques années ; il est Parisien de naissance ; il est de taille moyenne, ni beau ni laid, ni gras ni maigre ;
+
+['monsieur', 'madame', 'Monsieur', 'Madame', 'Mademoiselle']	Jean	Donc, je suis un pauvre domestique bien triste. – Eh bien, [MASK], il faut chercher une autre place, que voulez-vous ? - Malheureusement, je n’ai besoin de personne ; sans cela, je vous prendrais. – Madame est bien bonne.
+
+['toi', 'moi', 'lui', 'nous', 'cela']	Grivet	– Ma mère, c’est moi qui dois faire cette démarche... – Non, non, reprit la vaillante mère ; elle me sera moins pénible qu’à toi. – Quant à [MASK], eh bien !.... peut-être pourrons-nous le payer.
+
+['elle', 'il', 'Marie', 'Anna', 'je']	Stéphanie	Sans voir son visage, [MASK] fut éblouie par un flot de mousseline et de rubans roses, et une cascade de boucles blondes qui tombaient dans un savant désordre sur de blanches épaules, à peine voilées par l’ombre de la mousseline.
+
+['Il', 'Dieu', 'Jésus', 'Papa', 'Elle']	François	.. Parlez-moi de lui ! Et, tout à coup, des larmes chaudes jaillirent de ses yeux ; du doigt elle indiqua au prêtre la porte voisine, et, en étouffant un sanglot : – [MASK] est là ! dit-elle. – Ah !
+
+['lettres', 'science', 'théâtre', 'loi', 'lettre']	Bourse	Mais le pauvre diable ne sait pas se retourner dans le monde Enfin, ce soir, je l’ai mis en rapport avec un homme qui lui enseignera peut-être à battre monnaie avec son intelligence. C’est un journaliste à moitié homme de [MASK].
+
+['il', 'on', 'elle', 'Rousseau', 'Il']	Malaret	Le mercredi suivant, en effet, [MASK] parut au bal de la sous-préfecture. Jusqu’alors, le jeune professeur n’avait point été reçu dans le monde. Ce fut donc une sorte d’événement dans la ville. – Le nouveau sous-préfet est libéral, disait-on.
+
+['Elle', 'Marie', 'Anna', 'Catherine', 'Caroline']	Stéphanie	Mais le piano, si souvent ouvert pendant les premiers temps du mariage, restait maintenant fermé jusqu’à une semaine tout entière. [MASK] était absorbée par mille détails qu’elle eût été embarrassée de classer dans ses prévisions ou dans ses souvenirs.
+
+['toi', 'là', 'maintenant', 'alors', 'ici']	Stéphanie	– Mais où diable as-tu passé, [MASK] ? d’où viens-tu ? demanda le notaire, non pas avec l’expression de l’inquiétude ou de la jalousie, mais avec celle d’un naïf étonnement. – Voilà une demi-heure que je te cherche !
+
+['Il', 'Louis', 'Charles', 'Pierre', 'Jean']	Adrien	[MASK] regarda sa mère avec stupéfaction. – Comment cela ? dit-il. – Aux grands maux les grands remèdes ! Je vais écrire à ma tante Ursule Parengault, qui a payé ta pension. Je lui parlerai.., comme je n’aurais jamais pu lui parler pour quoi que ce soit au monde
+
+['elle', 'Marie', 'Catherine', 'Jeanne', 'Anna']	Stéphanie	Tout à coup [MASK] s’arrêtait, prise d’indicibles mélancolies. Puis, un moment après, de folles et séduisantes pensées lui faisaient tout oublier. Elle jetait un coup d’œil dans la glace et se trouvait jolie encore… Elle écoutait dans son cœur une voix mystérieuse qui lui parlait d’amour…
+
+['il', 'on', 'elle', 'Louis', 'Pierre']	Adrien	La mère et le fils s’y installèrent, et, après s’être dit bonsoir, en se félicitant de la réception de mademoiselle Parengault, ils s’endormirent en rêvant une vie d’affection, de bien-être et de repos. Le lendemain, [MASK] s’éveilla de bonne heure ;
+
+['Il', 'Jean', 'II', 'Le', 'Rodrigue']	Ali	[MASK], aiguillonné d’un coup de cravache, bondit en avant, comme pour s’indigner contre ce fardeau imprévu. Mais l’amazone serra le bridon, qui n’avait point été coupé, appuya le talon à gauche, la cravache à droite, et soumit le cheval rebelle.
+
+['il', 'on', 'elle', 'y', 'chacun']	Laure	– Ne seras-tu pas fière, demanda le notaire, quand tu le verras nous revenir, à dix-huit ans, bachelier… à vingt ans, étudiant en droit déjà gradé ? – Oui… dans ce temps-là [MASK] aura des prétendants… qui sait ?
+
+['Il', 'On', 'Elle', 'il', 'II']	Maxence	. [MASK] se sentait en présence d’une femme à l’esprit séduit, au cœur troublé, mais à l’âme pure et à la volonté intacte, renduue sans résistance possible par tous les sentiments involontaires, mais défendue par toute une vie d’honneur et de vertu.
+
+['Il', 'Elle', 'il', 'elle', 'On']	Adrien	– Ah ! tout est fini ! pensa le pauvre amant pâle comme la mort. – Et il a ajouté que, si tu étais amoureux de sa fille, il fallait la lui demander, parce que… [MASK] n’attendit pas la fin de la phrase :
+
+['Henry', 'David', 'Charles', 'Alexandre', 'Louis']	Adrien	– Pardieu ! on peut les remplacer ! et les autres avantages valent bien qu’on se résigne à cet inconvénient. – Vous croyez donc, monsieur, dit [MASK] tout tremblant, que je pourrai faire une affaire avec ma machine rotative ? – Une affaire ?…
+

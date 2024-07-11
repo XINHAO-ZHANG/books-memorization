@@ -1,0 +1,200 @@
+['ma', 'la', 'sa', 'marie', 'madame']	Parvati	Aussi, dès le lendemain, lisait-on sur l'affiche du Grand Cirque des deux Mondes: FRÈRE DE GANÉÇA. Le soir, quand la représentation commença, j'étais peu ému, mais j'étais assez humilié. —Que dirait [MASK], si elle me voyait?
+
+['la', 'le', 'un', 'elle', "l'"]	Alemguir	J'arrachai par-ci par-là quelques brassées d'herbes, mais sans consentir à m'arrêter. Je cherchai des yeux si je n'apercevais pas quelques groupes de maisons, un village. —Cela ne servirait à rien, dit [MASK], qui me devina;
+
+['dieu', 'génie', 'père', 'maître', 'ami']	Iravata	—Tu es vraiment notre bon génie, ô [MASK]! dit-il; après m'avoir sauvé d'une mort honteuse, voilà que tu me rends ma fille! Certes il n'est pas un homme au monde à qui je sois redevable d'une gratitude pareille à celle que je te dois.
+
+['il', 'elle', ',', 'et', 's']	Hariçarman	[MASK] se crut perdu. Des souvenirs, vifs comme les éclairs, traversaient son esprit. Il pensa à sa joyeuse jeunesse, il se rappela que son père l'avait désigné autrefois par un sobriquet, et «le crapaud», et, machinalement, il dit en se parlant à assez distinctement pour être entendu:
+
+['je', 'il', 'me', 'on', 'se']	Élien	Et [MASK] rapporte qu'un éléphant a écrit des sentences entières et même a parlé. Je ne pouvais croire des choses pareilles. Il faut bien reconnaître qu'elles sont possibles et s'incliner devant les anciens, nos maîtres, en s'excusant d'avoir douté de leur parole.
+
+['la', "l'", 'ce', 'cette', '"']	Hariçarman	elle entra dans la chambre et se précipita aux pieds de [MASK], lui indiqua l'endroit où elle avait caché les joyaux dérobés, le supplia de ne pas la trahir et lui promit, s'il voulait se taire, de lui remettre tout l'or provenant du vol
+
+['la', ',', 'le', 'paris', 'ce']	Parvati	Qu'allait devenir [MASK], hélas! seule dans la fôret? si j'étais étouffé par ce monstre? Et toujours, peu à peu, la vivante corde se serrait autour de moi. Je ne pouvais plus bouger malgré mes efforts et le sang sifflait à mes oreilles, sous l'étranglement progressif.
+
+["l'", 'la', 'le', 'elle', 'moi']	Parvati	tandis qu'avec [MASK], qui lentement et sûrement découvrait le langage, je le découvrais aussi. J'étais celui à qui elle parlait le plus, et tant que je n'avais pas compris ce qu'elle voulait dire, avec obstination elle répétait les mots.
+
+["j'", 'il', 'y', 'elle', 'on']	Parvati	En disant cela, [MASK] avait des larmes dans ses beaux yeux et, en l'entendant, je baissai la tête et pleurai aussi. —Ne vous désolez pas, dit l'anachorète qui me regardait attentivement, les dangers que vous avez courus vous ont peut-être sauvés d'un danger plus grand.
+
+['lui', 'toi', 'moi', 'cela', 'pierre']	Hariçarman	Le roi, ayant entendu parler de [MASK], le fit venir au palais et lui dit: —On m'a vanté tes vertus de devin. Saurais-tu m'indiquer les misérables qui ont osé s'introduire dans mon palais pour voler mes trésors?
+
+['on', 'il', 'elle', 'le', 'la']	Parvati	Un vent parfumé apportait de là le bruit des oiseaux dans les feuilles; [MASK] reçommenca à chanter. Cette nouvelle forêt était merveilleuse. Il y avait tant de fleurs sur la terre, que j'eus bientôt les pieds tout rouges de les avoir écrasées, comme si j'avais marché dans le sang.
+
+['le', 'la', "l'", 'mon', 'ma']	Baladji	—Celui qui m'est dévoué depuis ma naissance m'est mieux connu que le fiancé d'hier.... —C'est sérieux! s'écria [MASK], en riant plus fort, faut-il que je sois jaloux vraiment de cette grosse bête-là?...
+
+['</s>', 'on', 'elle', 'il', "j'"]	Parvati	[MASK] avait un peu peur maintenant de cette grande solitude et de ce profond silence. Elle avait cessé de chanter et, quand elle me parlait, sa voix était toute triste. Je me mis alors à courir dans une autre direction;
+
+['mon', 'madame', 'marie', 'ma', 'marthe']	Moukounji	tandis qu'à l'avenir, je le comprenais, il me faudrait paraître gai à des heures indiquées d'avance, et même si, alors, les plus amères pensées me torturaient. Pourtant, je ne voulus pas troubler le bonheur de [MASK], et je répondis à sa joie par des signes amicaux.
+
+['il', 'elle', 'je', 'on', 'celui-ci']	Parvati	Il écrasa ensuite entre ses mains une herbe au parfum violent, la fit respirer à la princesse, lui en frotta les tempes et les poignets. A ma grande joie, [MASK] revint à elle, se passa les mains sur les yeux, et sourit en me regardant.
+
+['johnson', 'celui-ci', 'holmes', 'wilson', 'robert']	Alemguir	les chevaux épouvantés se cabrèrent dans des mouvements désordonnés et toute la charge des fusils s'éparpilla sans nous atteindre. —Nous savons comment nous défendre à présent, dit [MASK]; plusieurs cavaliers sont désarçonnés et les autres ont beaucoup de peine à se faire obéir de leurs montures.
+
+['il', 'elle', '</s>', '--il', 'je']	Parvati	Il me faisait face maintenant, sifflant et crachant, et c'était ce que j'avais voulu. [MASK] remonta sur la rive; elle était sauvée! Mais, joignant les mains, elle me criait de prendre garde à la morsure de l'affreuse bête, de nous enfuir plutôt que de combattre.
+
+[',', 'tout', 'cela', 'ça', '-']	Parvati	D'un bond, je fus debout, devant la loge, qui était juste à ma hauteur, et, à travers mes larmes de joie, je voyais [MASK] comme dans des flammes. Elle me caressait, m'embrassait, sans s'inquiéter de toute cette salle qui la regardait....
+
+['celle-ci', 'sa', 'la', 'terre', 'ma']	Parvati	Tout à coup elle se releva, prit [MASK] sous les bras et la tendit vers moi. —O toi, mon aïeul inconnu! s'écria-t-elle, toi, qui si manifestement nous protèges, accepte la garde de ma fille;
+
+['lui', 'moi', 'césar', 'le', 'dieu']	Alemguir	Son fusil, qu'un soldat placé derrière lui, remplaçait dès qu'il était déchargé, ne se taisait pas, et son tir était si sûr qu'il ne manquait jamais celui qu'il visait. Les rangs ennemis se creusaient devant nous, et [MASK], toujours plein d'ardeur, me poussait toujours plus loin;
+
+['il', "c'", 'celui-là', 'celui-ci', 'hugo']	Iravata	—[MASK] est le bon génie de ma famille, il incarne certainement un de nos aïeux et il est pour moi l'ami le plus cher. —Pas plus que votre fiancé, j'espère, dit-il, avec un rire suffisant.
+
+['il', 'qui', 'celui-ci', 'monsieur', 'jacques']	Moukounji	Il savait bien que je lui resterais fidèle. Or, un matin, nous venions d'aider à décharger un assez gros navire de commerce et [MASK] m'avait laissé mangeant quelques légumes, et était allé boire, quand, au même quai, aborda un paquebot avec de nombreux passagers.
+
+['il', ',', 'qui', 'rôle', 'cela']	Moukounji	[MASK] plaisait fort au rajah des Mahrattes, qui lui demandait souvent conseil, et il serait arrivé aux plus hautes dignités, s'il n'avait eu un terrible défaut. Il ne pouvait résister au désir de boire des liqueurs fortes et s'enivrait sans cesse.
+
+['</s>', 'il', 'elle', 'celui-ci', 'jeanne']	Saphir-du-Ciel	J'entrai sans hésitation, interrompant les conversations et les danses des bayadères, j'allai droit à la reine et je posai sur ses genoux l'enfant toute souillée de boue sans souffle et sans mouvement. [MASK] ne comprit pas tout de suite ce qui arrivait et voulut repousser ce paquet noir qui dégouttait sur sa robe;
+
+['moi', 'tout', 'blanc', 'plaisir', 'travers']	Parvati	Quand je le vis venir de loin, parlant en riant à [MASK], une flamme rouge dansa devant moi, et je fermai les yeux aussitôt pour tâcher d'échapper à la frénésie de fureur qui m'envahissait à cette vue. Je les entendais s'approcher;
+
+['paul', '-il', 'il', 'pierre', 'jésus']	Alemguir	—C'est une chapelle, dit [MASK], ne manquons pas de rendre hommage au dieu qu'elle abrite et que nous trouvons sur notre route avant toute autre rencontre. Notre prière faite, il sera bon de se reposer à l'ombre du bosquet.
+
+['jean', 'jacques', 'pierre', 'jésus', 'paul']	Moukounji	Je n'étais plus seul: c'était, dans mon lamentable sort, un bonheur; et je suivis, un peu moins triste, la route blanche dans la nuit, en portant mon nouveau maître. Mon nouveau maître s'appelait [MASK].
+
+['maman', 'moi', 'monsieur', 'ami', 'père']	Iravata	Elle avait compris et me fit relever en me flattant doucement de la main. —Je vais tout te dire aujourd'hui, [MASK], s'écria-t-elle. Si je me taisais, c'est que je redoutais d'énoncer des choses que j'aurais voulu laisser dans le néant;
+
+['là', 'debout', ',', 'couché', 'donc']	Parvati	La forêt m'a fourni des plantes, cependant, qui auront la vertu, j'espère, de rappeler à la vie cette mignonne jeune fille. Ma tête seule pouvait passer la porte de la cabane. Je posai [MASK] sur un lit de feuilles, tandis que l'anachorète accrochait la lanterne.
+
+['louis', 'lui', 'charles', 'celui-ci', 'frédéric']	Saphir-du-Ciel	Le prince eût subi tous ces ennuis avec patience, si l'idée que [MASK], ignorant tout de lui, devait mourir d'inquiétude, n'eût torturé son cœur. La retraite de l'armée avait dû lui apprendre la défaite et la captivité de son époux.
+
+[',', 'à', 'de', 'le', 'et']	Alemguir	celles des pieds, puis enfin la plus lourde qui, reliée à une ceinture de fer, attachait le prince à une potence. —Que fais-tu? Comment es-tu libre? demanda [MASK], qui, peu à peu, sortait de sa prostration.
+
+['...', ':', '(', 'communion', 'mariage']	Hariçarman	Autrefois, vivait un pauvre brahmane ignorant, qui possédait une nombreuse famille. Après avoir mendié longtemps, ils entrèrent, lui et les siens, au service d'un homme fort riche nommé Sthûladatta; les enfants de [MASK], c'est ainsi que s'appelait le brahmane
+
+['le', ',', 'un', 'presque', 'déjà']	Parvati	elles étaient complètement absorbées et aucune ne prenait garde à celle qu'elles étaient chargées de garder. Tremblant de colère, j'allais courir à elles et renverser leur échiquier, quand je vis [MASK] tout au bord de l'eau et qui continuait à avancer.
+
+[',', 'et', 'que', 'de', '(']	Parvati	mais elle reconnut [MASK]. —Ma fille! criait-elle, et dans quel état! morte peut-être! Un médecin qui était présent, s'avança. —Rassurez-vous, Madame, dit-il, ce n'est rien; une syncope.
+
+['oui', 'dit-elle', 'dit-il', 'non', 'dis-je']	Iravata	Dès qu'elle me vit, la princesse se releva, courut à battant des mains. —Est-ce vrai? est-ce vrai? cria-t-elle, [MASK], c'est toi qui as fait cela? Je répondis par des clignements d'yeux et des claquements d'oreilles.
+
+['terre', 'france', 'se', 'retraite', 'dieu']	Golconde	—Prince! prince! vous êtes perdu, gémissait le malheureux esclave, l'armée de [MASK] bat en retraite, nous sommes seuls au milieu des ennemis, on nous cerne, nous sommes pris!... Il est trop tard!... trop tard pour fuir!...
+
+['paris', 'tout', 'jérusalem', 'rome', 'londres']	Golconde	et, rapidement, je traversai la cour, j'enlevai la barre et les chaînes de la porte, puis, après l'avoir refermée le mieux que je pus, je m'élançai dehors. Un grand silence emplissait [MASK], tout était noir et désert.
+
+['demain', 'maintenant', 'alors', 'toi', 'bientôt']	Iravata	—[MASK], dit la reine, en me caressant le front de sa douce main, nous saurons ce qui s'est passé, et tu nous aideras à le découvrir. Jamais je ne douterai de toi et ne croirai que tu as commis une mauvaise action.
+
+['elle', 'il', 'lui-même', 'chacun', 'celui-ci']	Parvati	Il accourut, tout ému; mais [MASK] s'élança vers lui en riant, tout à fait remise et s'amusant de ce grand voile d'or, qu'une princesse avait prêté et qui traînait derrière elle en faisant du bruit.
+
+['lui', 'vous', 'eux', 'bonheur', 'passion']	Moukounji	Et je supposais, à ces questions, les réponses qui m'étaient les plus agréables. Et ces rêves adoucissaient un peu mon chagrin. Je ne pourrais dire toutes les villes que je vis avec [MASK], toutes les rivières que je traversai, toutes les montagnes que je parcourus.
+
+['justice', 'buckingham', 'bourbon', 'westminster', 'luxembourg']	Golconde	Nous avons manqué périr tous les deux; puis l'orage a grondé sur nos têtes, et nous voici en pleine nuit au milieu de la forêt, à une distance effrayante du palais de [MASK], où mes parents bien-aimés, pleins d'angoisse, pleurent sans doute leur fille coupable.
+
+['philippe', 'henri', 'louis', 'fouquet', 'charles']	Hariçarman	Saurais-tu m'indiquer les misérables qui ont osé s'introduire dans mon palais pour voler mes trésors? [MASK], fort embarrassé, s'inclina devant le roi, et parla ainsi: —Grand roi, maître puissant! tu me prends à l'improviste.
+
+['marie', 'mère', 'jeanne', 'maria', 'anne']	Parvati	Sa petite main secouait un hochet d'or et elle avait autour du cou un rang de grosses perles qui semblaient des gouttes de lait figées. On l'avait appelée [MASK], le nom d'une déesse. Comme j'étais ému en la regardant! comme mon cœur battait!
+
+['la', 'le', ',', 'jour', '"']	Kali	... Je ne pus me retenir d'ouvrir les yeux, et, devant l'expression de mon regard, croisant le sien, le prince se recula de quelques pas. —Par [MASK], qui danse sur des morts!
+
+['demi', 'non', 'les', "l'", 'l']	Saphir-du-Ciel	quitter le prince et [MASK]! Ces êtres qui m'avaient fait une vie si douce, si libre et si heureuse! m'en aller au hasard des aventures, redevenir sauvage peut-être! Comment pourrais-je supporter un tel chagrin, un tel malheur!
+
+['il', "c'", 'qui', 'elle', 'roi']	Saphir-du-Ciel	[MASK] était dans la grande salle du trône avec des dames de sa suite et les courtisans. J'entrai sans hésitation, interrompant les conversations et les danses des bayadères, j'allai droit à la reine et je posai sur ses genoux l'enfant toute souillée de boue sans souffle et sans mouvement.
+
+['lui', 'il', 'et', ',', 'me']	Hariçarman	[MASK] répondit: —Maître! tu as convié une foule d'invités pour assister aux fêtes des fiançailles de ta fille; mais tu n'as pas daigné m'inviter, parce que je ne suis qu'un pauvre brahmane.
+
+['chambre', 'ménage', 'charge', 'mari', 'maison']	Hariçarman	On battit la forêt, on fouilla les clairières, les invités se dispersèrent pour retrouver les traces de l'animal, mais ils revinrent bientôt sans avoir pu rejoindre le fugitif. Alors la femme de [MASK] s'avança et dit: —Mon mari aurait bien vite retrouvé le cheval perdu;
+
+['elle', 'se', 'la', 'les', 'et']	Parvati	La tête levée, les yeux extasiés, [MASK] regardait. Elle ne riait pas, ne criait pas, mais gravement disait: —C'est beau! Son idée fixe avait été, tout d'abord, de monter sur mon dos, de s'y installer pour se faire promener.
+
+['qui', 'enfant', 'il', 'père', 'et']	Alemguir	[MASK], tout joyeux, vint me la montrer dans les dentelles de ses langes. Qu'elle était mignonne, jolie, fragile et toute pareille à une fleur! Sa petite main secouait un hochet d'or et elle avait autour du cou un rang de grosses perles qui semblaient des gouttes de lait figées.
+
+['tout', 'beaucoup', 'toujours', 'serment', 'bonheur']	Parvati	J'obéis à l'instant. Le roi, qui portait [MASK], la reine et tous les assistants me suivirent extrêmement intéressés. Arrivé au bord du lac, je montrai au roi l'échiquier, encore chargé des pièces de la partie interrompue.
+
+['cœur', 'jésus', 'coeur', 'pierre', 'marie']	Parvati	Et un vieillard s'approcha tout à fait, posa sa main osseuse et brune sur le cœur de [MASK]. —Elle est évanouie seulement, dit-il, venez, suivez moi. Ne perdons pas de temps. N'entendez-vous pas qu'un orage se prépare?
+
+[',', 'en', 'lui-même', 'plus', 'le']	Moukounji	Étant ivre, il avait, plusieurs fois, manqué gravement à l'étiquette de la cour mahratte et, malgré toute l'affection qu'il avait eue pour lui, son maître avait dû le chasser. Ce malheur n'avait pas corrigé [MASK] de son défaut;
+
+['cheval', 'cavalier', 'lion', 'monture', 'chevalier']	Iravata	Il avait changé mon nom de Roi-Magnanime en celui de [MASK], qui est le nom de la monture du dieu Indra. C'était encore assez honorable et je fus vite consolé de ne plus être traité en idole par le plaisir d'être traité en ami.
+
+['je', 'tu', 'monsieur', 'vous', 'celui-ci']	Moukounji	J'étais désolé que [MASK] fût absent. —Les étrangers, pensais-je, doivent avoir de nombreux bagages, peut-être fort lourds, et certainement si mon maître était là, nous trouverions du travail. Tout en réfléchissant ainsi, je jouais machinalement avec un gros anneau de fer qui était à mes pieds.
+
+['en', 'maurice', 'jacques', 'marguerite', 'henri']	Parvati	—Si tu veux, je vais te conter une histoire, qui te fera comprendre pourquoi je n'aime pas un monde où le hasard peut servir un voleur et un menteur et le combler de bienfaits. —Oh! je vous en prie, dit [MASK] oubliant l'orage, contez-moi cette histoire.
+
+['je', 'il', 'elle', 'napoléon', 'lui']	Parvati	les nobles dames faisaient arrêter leur litière, traînée par des bœufs blancs, et lui parlaient un moment. Mais ce que [MASK] préférait c'était le peuple, le peuple qui laissait éclater une joie si bruyante en la voyant s'avancer, pendue comme une perle à mon cou;
+
+['</s>', 'il', 'on', 'elle', 'chacun']	Parvati	C'étaient les fleurs sacrées où les esprits bienfaisants habitent, dispensateurs des grandes joies et des désirs réalisés. [MASK] voulut descendre pour en cueillir quelques-unes; j'enroulai ma trompe doucement autour de sa longue taille flexible et je la déposai comme une fleur au milieu de ces fleurs cramoisies.
+
+['elle', "n'", 'il', 'et', ',']	Alemguir	[MASK] aurait voulu que sa femme, la princesse Saphir-du-Ciel, ne se servît que de moi comme monture; mais jamais elle ne voulut consentir à s'installer sur mon dos. —Ce serait un sacrilège, disait-elle, une grave offense à l'un de mes aïeux.
+
+['vrai', 'tout', 'non', '!', 'cela']	Saphir-du-Ciel	Une négresse ajouta: —C'est l'éléphant blanc qui l'y a jetée. Mais elle reçut aussitôt de moi un tel coup de trompe au bas des reins qu'elle tomba par terre, muette pour longtemps. —Celle-là a menti, dit [MASK].
+
+['elle', '</s>', 'il', 'et', '--']	Saphir-du-Ciel	J'aurais voulu pouvoir parler, afin de dire que nulle récompense ne vaudrait pour moi le bonheur de les voir vivants et de vivre près d'eux. [MASK] pleurait à chaudes larmes, agenouillée devant ce gouffre d'eau qui aurait pu ne pas lui rendre son enfant.
+
+['on', 'il', 'chacun', 'je', 'elle']	Moukounji	Certes, je n'étais pas heureux, quand on m'employait à de trop viles besognes, quand [MASK] me rouait de coups, je souffrais cruellement; mais à quoi m'aurait servi la révolte? Mon sort aurait pu être pis encore, pensais-je, et je me résignais.
+
+['bussy', 'georges', 'robert', 'henri', 'pierre']	Alemguir	Je courais plus vite, voulant atteindre un taillis qui du moins nous mettrait à l'abri des balles. Au moment où je l'atteignais, j'entendis derrière nous le choc sourd des chevaux qui galopaient. —Nous sommes poursuivis, dit [MASK].
+
+['</s>', 'il', "n'", "l'", 'elle']	Saphir-du-Ciel	Comme j'étais ému en la regardant! comme mon cœur battait! mais je ne savais exprimer ce que j'éprouvais qu'en me balançant gauchement d'un pied sur l'autre. [MASK] avait failli mourir, aussi lui avait-on caché les revers de l'armée et la captivité du prince.
+
+['les', 'la', 'le', 'votre', ',']	Parvati	Mais, à mesure qu'approchait le jour du mariage, mon désir de tuer le prince grandissait, et je pris soudain, pour éviter de commettre un crime, une détermination bien douloureuse. Je résolus de quitter le palais, de m'enfuir. Quitter [MASK]!
+
+['toi', 'moi', 'maintenant', 'dit-il', 'pourquoi']	Iravata	Il me semblait que je serais mort d'une déception. Le public, surpris et respectueux, gardait un profond silence; la voix, un peu attristée cette fois, se fit entendre encore: —M'as-tu donc oubliée tout à fait, [MASK]?
+
+['moi', 'toi', 'ami', 'monsieur', 'enfant']	Iravata	Je continuai d'avancer comme si je n'avais pas compris. —Je t'entends bien, [MASK], dit le prince; tu veux te priver parce que je suis à jeun; mais il ne le faut pas; je sais quelles sont les exigences de ton vaste estomac;
+
+['justice', 'luxembourg', 'compiègne', 'bourbon', 'tuileries']	Golconde	J'évitai de réfléchir à tout ce qu'un pareil projet avait de criminel, je repoussai toutes les objections qui auraient pu me venir, et, en quittant un jour le palais de [MASK], comme pour une promenade ordinaire, j'étais parfaitement décidé à ne pas y revenir.
+
+['prince', 'toi', 'oui', 'seigneur', 'bien']	Iravata	—[MASK], toi qui es fort, toi qui aimes ton maître et qui dois m'aimer, puisque tu as l'âme d'un de mes aïeux, protège le prince, défends-le, ramène-le-moi vivant, car s'il ne revient pas, je mourrai....
+
+['buckingham', 'versailles', 'saint-cloud', 'justice', 'compiègne']	Golconde	Qu'allais-je devenir, moi, habitué depuis si longtemps à vivre parmi les hommes et choyé de tous? Pourquoi alors une sage pensée ne me vint-elle pas, celle de regagner le palais de [MASK], où on ne se serait peut-être pas encore aperçu de ma faute?
+
+['ami', 'seigneur', 'père', 'frère', 'enfant']	Iravata	Cependant elle ne voulait auprès d'elle aucun serviteur, aucune suite. La liberté avec moi était encore ce qu'elle aimait le plus. —Vois-tu, [MASK], me disait-elle, quand ta force porte ma faiblesse, il me semble devenir presque une divinité.
+
+['dieu', 'toi', 'oui', 'tu', 'je']	Ganéça	—[MASK], le dieu de la Sagesse! s'écria le prince, le hasard seul ne m'a pas conduit là, devant celui à qui, plutôt qu'à tous, je dois rendre des actions de grâce! Il s'était agenouillé au pied de l'autel et, à demi-voix, priait.
+
+['pourpre', 'soie', 'fer', 'pierre', 'plomb']	Saphir-du-Ciel	Il s'efforçait doucement de dénouer l'étreinte de ces bras délicats. Le voile léger de [MASK] s'accrochait aux ornements de la cuirasse, il s'y déchira, y laissa un lambeau que le prince recueillit et garda comme un talisman.
+
+['lui', 'tout', 'celui-ci', 'maurice', 'cela']	Moukounji	Il y avait plusieurs jours que nous travaillions sur le port, où l'on nous employait à décharger les vaisseaux. Les fardeaux très lourds ne m'étaient rien à porter; et [MASK], alerte et insinuant, rendait mille services aux voyageurs et aux matelots.
+
+['ma', 'mon', 'cette', 'moi', 'la']	Parvati	Mais hélas! je songeais à ma belle vie d'autrefois, si calme et si joyeuse, et je songeais à [MASK], qui souffrait peut-être, et que j'aurais pu défendre. M'avait-elle oublié? Ou, si elle pensait à moi, ne m'accusait-elle pas d'ingratitude?
+
+['ulysse', 'mrs', 'jeanne', 'marguerite', 'guillaume']	Moukounji	On chargea les caisses et les paquets sur les chariots auxquels on attela les moins beaux des chevaux; des hommes qui étaient évidemment les serviteurs de M. Oldham et de ses compagnons prirent les chevaux à la bride, ou montèrent sur les chariots; et tous allaient quitter le port quand revint enfin [MASK].
+
+['roi', 'justice', 'la', "l'", 'buckingham']	Golconde	L'enclos qui m'était réservé, dans le palais de [MASK], et où j'étais absolument libre, était borné d'un côté par un mur de briques émaillées, bleues et vertes, assez haut, mais qui m'arrivait juste à l'aisselle;
+
+['maman', 'madame', 'monsieur', 'autrui', 'chacun']	Parvati	d'ailleurs, je n'aurais pas voulu continuer ce voyage avec toute une ménagerie sur mon dos; et, s'il faut le dire, j'étais un peu jaloux de l'attention que prêtait [MASK] à toutes ces choses plus belles que moi.
+
+['</s>', 'ne', 'il', 'tout', 'cela']	Moukounji	et je ne pouvais me mettre à le chercher au hasard. Le plus sage parti était de l'attendre avec patience, et c'est celui que je pris. [MASK] pouvait venir à temps encore: pourvu qu'alors il ne fût pas ivre.
+
+['il', 'on', 'elle', 'et', 'david']	Hariçarman	. Le lendemain, [MASK] conduisait le roi vers l'endroit où se trouvaient les pierreries, mais l'or il le garda, et dit au roi: —Seigneur, les voleurs en s'enfuyant, ont emporté l'or.
+
+['roi', 'b', '"', 'a', 'maître']	Sthûladatta	A partir de ce moment, on le tint en haute estime dans la maison de [MASK]. Peu de temps après, un vol fut commis dans le palais du roi; on y avait dérobé des joyaux, des pierres précieuses et de l'or.
+
+['je', 'tout', 'cela', 'dieu', 'personne']	Sthûladatta	—Bien sur, dit celui-ci à sa femme, on me méprise à cause de ma pauvreté et de mon ignorance; mais je vais me faire passer pour un savant, afin que [MASK] m'estime. A l'occasion, tu pourras dire que je suis un devin très fort.
+
+['paris', 'cela', 'monde', 'ici', 'londres']	Golconde	J'entendais dire que tout [MASK] ne s'occupait que de moi, et que l'on s'attendait, le jour où je saurais écrire, à d'extraordinaires révélations sur les migrations successives de l'âme royale, peut-être divine, qui habitait mon corps d'éléphant.
+
+['"', ':', 'que', 'pourquoi', 'par']	Alemguir	Cependant je me remis et je parvins à avancer plus vite. Le jour, qui vient si tôt en été, commençait à poindre. Un bruit sourd et continu se rapprochait et empêchait de percevoir la galopade des chevaux. —N'est-ce pas un torrent? dit [MASK].
+
+['diane', 'flora', 'celle-ci', 'sara', 'ève']	Parvati	je suivis la direction de ses yeux; un grand frisson me traversa à mon tour quand j'aperçus, roulé dans les grandes herbes, un serpent de l'espèce la plus dangereuse, qui guettait [MASK] pour s'élancer sur elle dès qu elle aurait mis le pied sur la rive.
+
+['marie', 'chacun', 'marguerite', 'jésus', 'thérèse']	Parvati	mais sa dignité de princesse ne permettait pas une pareille chose. Quand je devinais que les jambes lui démangeaient de trop, je rompais le cercle, d'un air sévère, et je m'éloignais rapidement. L'éducation de [MASK] était commencée, à son grand chagrin et au mien;
+
+['</s>', 'on', 'il', 'elle', 'qui']	Parvati	Le soleil allait se coucher et la forêt devenait toute transfigurée dans les rayons rouges du soir, quand nous arrivâmes au bord du lac, tout entouré d'arbres et tellement couvert de lotus qu'on ne voyait presque pas ses eaux. [MASK] voulut descendre;
+
+['non', 'oui', 'mais', 'oh', 'je']	Iravata	—Non, non, [MASK]! s'écria-t-elle, ne te désole pas ainsi, tes plaintes semblent exprimer mon propre chagrin et je ne veux pas qu'il soit exprimé, je l'étouffe en moi-même, je refoule mes larmes;
+
+['jupiter', 'dieu', 'moïse', 'zeus', 'apollon']	Pardjania	—Il y a, répondit la grue, pas trop loin de cet étang, un grand lac qui a beaucoup d'eau est embelli de quantité de lotus. Quand même [MASK], dieu de la pluie, reste vingt-quatre ans sans faire pleuvoir, ce lac ne se dessèche pas.
+
+['à', 'le', 'un', 'la', 'encore']	Parvati	Je me mis à le piétiner, à le déchirer avec mes défenses, à en faire une bouillie. Quand j'eus bien usé ma colère, fier et content, je cherchai [MASK]. Ah! combien je me repentis du crime d'avoir voulu l'enlever!
+
+['il', 'elle', 'lui', 'ce', 'celui-ci']	Moukounji	Grâce à moi, [MASK] fut un peu moins misérable; il me louait pour transporter de lourds fardeaux, il se louait lui-même pour en porter de légers; et les grossiers légumes dont il me nourrissait ne lui coûtaient pas la différence entre les salaires d'autrefois et ceux d'aujourd'hui.
+
+['tout', '</s>', 'elle', 'chacun', 'cela']	Parvati	Ils formaient alors, autour de moi, en se tenant par la main, une ronde joyeuse qui m'emprisonnait. [MASK] s'agitait dans sa corbeille, elle avait bien envie de descendre, de se mêler à la danse; mais sa dignité de princesse ne permettait pas une pareille chose.
+
+['elle', 'il', '</s>', '--il', '...']	Parvati	C'était là, n'est-ce pas, une bien jolie fable? Hélas! [MASK] grandissait! Elle devenait belle comme le soleil et jolie comme la lune; mais déjà ce n'était plus l'enfant joueuse qui ne se plaisait qu'avec moi.
+
+['il', 'chacun', 'on', 'se', 'dieu']	Moukounji	et ce fut là qu'une fois de plus ma vie changea. Voici comment. Nous étions depuis longtemps déjà dans cette grande cité où [MASK] trouvait sans cesse à nous occuper. L'anglais, qu'il avait appris dans sa jeunesse, lui était parfois d'un grand secours.
+
+['hier', 'ainsi', '</s>', 'et', 'oui']	Iravata	Il me semble que dans la vie on est toujours puni de ses fautes. Vois plutôt ce qui nous est arrivé aujourd'hui: [MASK], le plus sage des éléphants, pour la première fois n'a pas eu sa prudence accoutumée;
+
+['rose', 'diane', 'lui', 'marguerite', 'blanche']	Parvati	C'était à peu de distance d'un joli lac, bordé de lotus de toutes les couleurs; sur des tapis, à l'ombre des arbres, les gouvernantes jouaient aux échecs, tandis que [MASK], de fleur en fleur, poursuivait un magnifique papillon.
+
+['celui-ci', 'jean', 'madame', 'charles', 'monsieur']	Sthûladatta	Alors, il fit sortir le cheval du gendre de [MASK] de l'écurie et le cacha dans un endroit écarté de la forêt. Le fiancé, la fête terminée, voulut rentrer chez lui avec sa jeune femme, mais il ne put retrouver son cheval.
+
+['roi', 'qui', ',', 'et', 'père']	Alemguir	[MASK], me traitant toujours en ami, vint me lire la lettre de la princesse et m'annoncer que nous partions le lendemain. —S'il était possible de te faire voyager en chemin de fer, ajouta-t-il? nous arriverions le soir même;
+
+['</s>', 'elle', '"', '-', '_']	Parvati	mais on les estime moins que les autres, parce qu'ils sont moins robustes. [MASK] s'était arrêtée devant moi; inquiète de ma sourde colère, bien visible pour elle, cherchant à m'apaiser de sa douce main, et sa voix tremblait un peu quand elle répondit au prince:
+
+['paris', 'tout', 'rome', 'toujours', 'versailles']	Golconde	Nous ne gaminions plus comme autrefois près de fontaines, sur les places publiques; je traversais [MASK] à une allure grave et digne, puis, hors des murs, j'allongeais le pas et je gagnais la forêt. Un jour, une idée très coupable me vint.
+

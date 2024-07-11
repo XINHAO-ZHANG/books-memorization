@@ -1,0 +1,200 @@
+['il', 'celui-ci', 'on', 'Jean', 'elle']	Aurett	Mais les rocs géants, le panorama sévère et grandiose s’effacèrent lorsque [MASK] dit d’une voix concentrée : — Des hommes ! Dans la vallée, plusieurs centaines d’indigènes, les nez en l’air, suivaient tous les mouvements du ballon.
+
+['celle-ci', 'Madame', 'madame', 'Monsieur', 'mademoiselle']	Pénélope	— Vous êtes vraiment bien aimable ! fit ironiquement le jeune homme. — Oui, mais je suis votre unique créancier. Si vous épousez [MASK], je vous remets le dossier. Si vous refusez, je vous poursuis à outrance. — Poursuivez donc à votre aise.
+
+['.', 'masculine', 'des', 'coloni', 'occident']	tartare	au lieu de tresser ses cheveux en nattes, il les laisse flotter librement sur sa nuque, afin de montrer qu’il proteste contre la domination [MASK]. Avant de franchir la porte sacro-sainte, le néophyte paye sa cotisation qui s’élève à dix-sept francs cinquante centimes.
+
+['fut', 'le', 'très', 'plus', 'est']	Armand	Celle-ci, très intimidée, fixa un instant ses yeux noirs sur le journaliste et, rougissant, ce qui donna à sa jolie peau citron la teinte d’une orange, elle dit, d’une voix basse, en excellent français : — Je suis Diamba ! — Hein ? fit [MASK] surpris.
+
+[',', 'en', 'et', 'de', 'un']	Han	Presque aussitôt des pas légers se firent entendre à l’autre extrémité. Une lueur voilée lui permit d’apercevoir deux vagues silhouettes. C’en était assez. Elle avait reconnu [MASK] et son chef, s’éclairant de leur lanterne. La lumière disparut soudain.
+
+['vigneron', 'droite', 'patron', 'Mercure', 'réception']	Vincents	— Bah ! Je ne vise pas à l’économie… Vous ne refuserez pas de me faire raison. Cette fois, la figure de [MASK] devint presque aimable. Comment ne pas bien accueillir, du reste, un inconnu qui vous propose un héritage et du vin généreux ?
+
+['-', 'il', 'le', 'et', 'Il']	Armand	? Cessant de rire, [MASK] reprit : — Non, et il le sait bien, pour des raisons qu’il serait trop long de vous expliquer, mais je vais vous faire une proposition. — Peuh ! — Vous êtes intelligent, cela se voit.
+
+['la', 'gouverneur', "l'", 'lui', 'tous']	Péking	Laissez croire que le prisonnier fait partie d’une société secrète. Tous les fonctionnaires tremblent devant elle. Le gouverneur en a eu peur. Il n’a pas osé prendre la responsabilité de l’exécution, et il a envoyé demander des ordres à [MASK]. Ah !
+
+['son', 'sa', 'le', 'la', 'ses']	Lavarède	Il répétait la leçon que venait de lui apprendre [MASK]. — Mesdames, clama-t-il, si nous avons troublé la délibération de vos puissantes seigneuries, c’est pour vous signaler un crime de lèse-coutumes commis par un homme de cette ville.
+
+['Il', 'il', '</s>', 'Elle', 'et']	Armand	Vous m’avez rencontré au milieu de la nuit parce que j’avais été employé jusqu’au soir aux préparatifs de la fête. Ne craignez pas d’y assister, cela vous int��ressera et vous ne courrez aucun danger. [MASK] secoua la tête.
+
+['droite', 'gauche', 'terre', 'Dieu', 'Monsieur']	Armand	Le cocher jura, le cheval hennit, les passants crièrent, mais la jeune personne en fut quitte pour la peur. Quoiqu’un peu pâle, elle resta fort calme. Et tendant la main à [MASK], elle remercia d’un vigoureux shake hand, à l’anglaise.
+
+[',', 'et', 'tout', 'parut', 'très']	Armand	tira prestement son revolver, qu’en bon Américain il portait toujours dans la poche ad hoc, et ajustant [MASK] surpris de se trouver en si nombreuse société : — Vous êtes pris ! Au moindre mouvement je fais feu.
+
+['elle', 'il', 'Elle', 'Il', 'Emma']	Aurett	Cela fait, il s’éloigna tranquillement. Après un instant, [MASK] ramassa l’emblème de la puissante société secrète et le glissa dans sa poche. Presque malgré elle, elle murmura : — Je pourrai peut-être « lui » être utile ! Cependant, le voyage continuait.
+
+['lui', 'nous', 'lui-même', 'celui-ci', 'eux']	Armand	Les journées des 8 et 9 août se passèrent sans qu’il eût relevé le plus léger indice de la présence de son ennemi à bord, et rentré dans sa cabine de fort méchante humeur, il s’étendit sur son cadre en proférant contre [MASK] les plus terribles menaces.
+
+[',', ';', ':', '.', '...']	Armand	Les Anglais regardèrent [MASK]. Ces hommes parlant une langue inconnue, se livrant à une pantomime incompréhensible, leur faisaient l’effet de maniaques. — Peuh ! dit le journaliste en matière de conclusion, point n’est besoin d’être au courant.
+
+['Elle', 'elle', '</s>', 'Jeanne', 'Celle-ci']	Aurett	Aujourd’hui, hélas le sort a parlé. Il va mourir, je veux être là, auprès de lui, protéger son corps contre les injures de la multitude, lui assurer une sépulture, et après ?… [MASK] s’était arrêtée, étranglée par l’émotion.
+
+['lui', '</s>', ',', 'il', 'Il']	Aurett	[MASK] parut oublier sa douleur pour s’occuper des préparatifs du départ. Avec son père, elle se mit en quête d’un véhicule quelconque, mais la ville en comptait peu, et tous ceux qu’elle possédait avaient été retenus par les fonctionnaires ou les riches marchands.
+
+['t-il', 'il', '-t-il', 'le', "l'"]	José	– les entendit et, flairant une aubaine, puisqu’une passion humaine était en jeu, il s’enquit des motifs de cette colère. — C’était, clamait [MASK], une affaire magnifique, ratée parce que lui et son ami venaient de manquer le départ du bateau.
+
+[',', "qu'", ';', 'lequel', 'lui']	Poirier	Derrière [MASK] il avait quitté la salle commune du débit. D’un tour de clé il avait emprisonné le pauvre ambulant, et quand son collègue Tolinon s’était inquiété de sa longue absence, il avait crié : — Je vais voir, monsieur.
+
+['-', ',', 'mon', 'toi', 'en']	José	Un autre étonnement attendait notre ami, une heure plus tard. Il vit un péon qui, gravement, plaçait de gros cailloux les uns sur les autres. — Que fais-tu là, [MASK] ? demanda-t-il.
+
+['en', 'un', 'abord', 'une', 'A']	Armand	et un agent convaincu d’une tolérance comme celle dont vous avez bénéficié jusqu’ici courrait de gros risques. — Diable ! Diable ! Un instant assombri, le visage d’[MASK] s’éclaira d’un sourire. Il eut un mouvement de tête comme pour dire : —
+
+['Isabelle', 'Hélène', 'Olivier', 'Alice', 'Albert']	Aurett	Le visage d’[MASK] était devenu grave. — Je ne suis qu’une jeune fille, dit-elle en affectant un grand sérieux, mais je tiens le pari. Moi, je ferai ce qu’aucun de vos matelots ne ferait, et j’espère ainsi les rassurer.
+
+[',', '-', 'de', '"', '...']	Vittor	— Vous avez sauvé [MASK], souvenez-vous du père Bodran. Il vous est dévoué jusqu’à la mort. Le Parisien sourit et appuyant sa main sur l’épaule du Marseillais : — Comme cela se trouve, dit-il, j’ai besoin de vous. —
+
+['on', 'se', 'de', ',', 'il']	Lavarède	Ce langage ne manquait pas de grandeur en sa simplicité, et ce ne fut pas sans une certaine émotion que [MASK] se sépara de cet ami de quelques jours qui lui avait rendu un si grand service. — Ramon, fit-il, nous ne nous reverrons peut-être jamais…
+
+[',', 'ne', 'pied', 'de', 'talon']	Rachmed	[MASK] veut les imiter, mais une pierre glisse sous son pied, il chancelle. Il reprend son équilibre. Trop tard ! La bête est sur lui et, d’un coup de patte, l’envoie rouler sans connaissance à dix pas. Un cri s’échappe des lèvres des assistants
+
+['Il', 'il', 'Elle', 'Pierre', 'elle']	Armand	— Pas encore sauter… le plancher… — Quel plancher ? — Voyez vous-même. [MASK] se baissa et, à son tour, il éprouva un plaisir intense. Sur le fond d’osier de la nacelle, un plancher volant était posé, supportant les banquettes.
+
+['je', 'tout', 'Je', 'ne', 'ça']	Goubet	— À ma place, [MASK] le ferait, murmure-t-il. On le voit disparaître dans l’intérieur du sous-marin. Deux minutes s’écoulent. Le jeune homme revient un peu pâle. Il s’élance dans le canot et s’adressant aux matelots :
+
+['il', 'on', 'ils', 'chacun', 'elle']	Dalmuche	Cela éclaircit les idées. Chose promise, chose due. À huit heures, les deux hommes s’attablaient en face l’un de l’autre, le flacon de cognac entre eux. À onze heures, [MASK] ronflait sur la table après avoir « séché » la bouteille.
+
+['le', "l'", 'en', ',', 'de']	Bouvreuil	— Je crois qu’un colis mal attaché sera tombé, dit-elle ; cela expliquerait le vacarme qui a réveillé monsieur. Elle désignait [MASK]. Celui-ci n’avait pas quitté la jeune fille des yeux et ses soupçons avaient pris corps. Son jeu était de contrecarrer l’Anglaise
+
+['elle', 'il', 'celui-ci', 'Il', 'Elle']	Armand	Poussant un cri terrible, elle chancelle et tombe évanouie. À son appel, [MASK], effrayant d’épouvante, se précipite au-devant de l’Indien. Mais son émotion nuit à la justesse de ses coups. Le machete de son adversaire s’abat sur lui.
+
+['il', 'Il', 'après', 'avait', 'qui']	Lavarède	À cache-cache EN SORTANT DE CHEZ le notaire, [MASK] avait allumé un cigare et marché pendant une demi-heure, tout en songeant à ce qu’il allait faire. Certes, il trouvait excellente sa première idée ; ce départ pour la conquête d’une toison extrêmement dorée souriait à son esprit aventureux.
+
+['journaliste', 'ne', 'Elle', 'elle', 'il']	Aurett	[MASK] semblait chercher à le calmer. À l’instant où le journaliste arrivait, un garçon d’hôtel se précipita dans la chambre. — Master Tower, s’écria l’Anglais, dès qu’il l’aperçut, qu’il vienne de suite… tout de suite !
+
+['Il', 'il', 'Elle', 'On', '.Il']	Lavarède	— C’est bien possible, remarqua l’Anglais, la bêtise humaine est incommensurable ; mais quel est le moyen sûr que vous promettez ? [MASK] haussa les épaules, et, en riant : — Ne jouer que sur les gagnants.
+
+['il', ',', 'et', 'Il', 'qui']	Lavarède	[MASK] s’acquitta de son rôle à merveille. Il surveilla l’embarquement des bêtes, installa le fils du fermier dans son wagon avec une sollicitude dont le garçon lui fut reconnaissant, et l’enferma soigneusement. Cela fait, il promena autour de lui un regard circulaire.
+
+['Chinois', 'chinois', 'Français', 'français', 'vietnamien']	Mandchou	Revenons à nos moutons, c’est, je crois, une expression française. — En effet, affirma le journaliste que le tour de l’entretien amusait. — Voici donc la chose : Dans cette ville habite un nommé Kin-Tchang, [MASK] d’origine.
+
+['lui', 'vous', 'moi', 'nous', 'eux']	Bakou	Votre ami, à [MASK], n’avait pas de papiers. Vous en aviez, vous. — Vous l’avouez ! — Cela seul devait me mettre sur la voie. — Vous dites ? Doctoralement l’agent leva le doigt : — Que les criminels sont toujours en règle.
+
+['Jésus', 'Napoléon', 'Dieu', 'Bonaparte', 'Clovis']	Lavarède	Aussitôt, quelques hommes pénètrent dans la chambre et s’emparent du gouverneur. D’autres envahissent le patio. Par la fenêtre du rez-de-chaussée, ils voient [MASK] et l’acclament. Ce sont ceux qui ont fait route avec lui et qui le reconnaissent pour chef.
+
+['le', 'se', 'les', ',', 'à']	Lavarède	L’annonce indiquée par [MASK] réglerait définitivement la question. Un instant, le Parisien quitta son pseudo-cousin et, à voix basse, il dit à l’Anglais : — Profitez de votre promenade pour retenir votre passage à bord du Heavenway. — Nous partons donc ? — En avez-vous douté
+
+[',', 'et', 'elle', 'se', 'qui']	Rachmed	Ils étaient une douzaine. Ils ont emporté la demoiselle, l’ont attachée sur un cheval et ont fui avec elle vers l’ouest en côtoyant la rivière. — Où voyez-vous cela ? [MASK] sourit, découvrant ses dents blanches, et, le doigt tendu vers la terre :
+
+[',', 'elle', 'Elle', 'il', 'et']	Aurett	[MASK] ferma les yeux et chancela. Non seulement celui qu’elle aimait appartenait au bourreau, mais encore il subirait le supplice de la cangue. Supplice atroce ! La cangue est une sorte de carcan formé de planches épaisses de trois à quatre centimètres, réunies par des lanières de cuir.
+
+['on', 'or', 'en', 'on', 'On']	Armand	— Plaisante, mon bel ami, grommelait-il, je t’ai retrouvé… Je saurai bien te faire regretter tes quolibets ! Ayant ri, les curieux payèrent. Les « cents » tombaient, pluie de cuivre qu’[MASK] recueillait avec soin, entraînant les hésitants. —
+
+['elle', 'il', 'on', 'tout', 'se']	Lavarède	— Elle est belle, ta fiancée, murmura-t-elle. Et comme [MASK] tressaillait : — Elle est jolie, continua l’enfant, et son âme est à toi. Ce fut tout. Dans ces simples paroles tintait comme une tristesse résignée.
+
+["jusqu'", 'à', 'le', 'un', 'droit']	Armand	fidèle à sa promesse, conduisit [MASK] au buffet où, malgré l’heure matinale, tous deux déjeunèrent copieusement. Comme ils finissaient, une vingtaine de musiciens portant leurs instruments, violons, violoncelles, contrebasses, cymbalums, etc., envahirent l’établissement.
+
+['il', 'elle', ',', 'on', 'chacun']	Lavarède	Une visite à la gare lui prouva qu’il ne trouverait aucune aide de la part du personnel, tremblant sous le commandement d’un chef sévère. La journée du 18 mars avait fui, celle du 19 s’avançait. Désespérément [MASK] maniait son pinceau.
+
+['le', 'la', 'il', 'on', "l'"]	Bouvreuil	Le directeur se leva, comme mû par un ressort, et, d’un air engageant : — Prenez donc la peine de vous asseoir. Quand [MASK] se fut installé : — En quoi aurai-je l’agrément de vous être utile ? — En rien, monsieur…
+
+['Il', 'il', 'II', "C'", 'Elle']	Fivecreek	— [MASK] était ivre… Il a rêvé. — Je ne crois pas, monsieur. Le premier moment de stupeur passé, le garçon se releva et poursuivit le singulier promeneur, mais celui-ci gagna le « compartiment des morts » et y disparut avec un fracas de tonnerre.
+
+['nous', 'Il', 'Nous', "l'", 'On']	Rachmed	Voici mon plan : j’étrangle un peu ce vénérable personnage, juste assez pour nous assurer de sa neutralité… Nous nous glissons dehors… Dans la nacelle sont les flacons d’alcool de riz que j’ai réclamés ; nous remplissons le récipient, nous allumons et faussons compagnie à nos geôliers. [MASK] écoutait.
+
+['moi', 'le', 'capitaine', '</s>', ',']	Lavarède	Après le dîner, [MASK] et le capitaine étaient les meilleurs amis du monde. Le chef de gare mit une chambre à la disposition du Français et celui-ci, pour la première fois, s’étendit sur un lit, primitif il est vrai, mais très supérieur aux roches des hauts plateaux.
+
+['Bien', 'Oui', 'Non', 'Mais', 'Maître']	Han	Alors, celui qui avait transmis à ces hommes les ordres du Grand-Maître de la Société secrète « Pas d’hypocrisies » se tourna vers l’affilié demeuré auprès de lui et, doucement : — [MASK], dit-il, je t’ai fait rester parce que j’ai besoin de toi pour autre chose encore.
+
+['une', 'un', 'histoire', 'Olivier', 'aventure']	Armand	L’officier était prêt à sortir ; mais dès les premiers mots, il introduisit les visiteurs dans une petite pièce qui lui servait de bureau, ainsi qu’en faisaient foi les cartons étagés dans un angle. Avec grande attention, il écouta le récit d’[MASK].
+
+['propriétaire', '...', 'monsieur', 'locataire', ',']	Armand	— Vous avez de l’imagination, j’ai de l’argent, changeons. — Vous voulez me payer, commença [MASK] d’un ton tranchant… Mais il se ravisa. — Au fait, pourquoi pas ? Le propriétaire eut une exclamation de joie. — Vous acceptez ?
+
+['Adam', 'un', 'Olivier', 'Ulrich', 'Alice']	Aurett	Son regard rencontre celui d’[MASK]. Il y a comme un voile sur ses yeux, mais il n’a pas le temps de s’attendrir. Les Guatusos sont à quelques mètres du mur en ruines. Leurs visages grimacent la haine. Vision effrayante.
+
+[',', 'se', 'il', 'on', 'ne']	Bouvreuil	Mais s’il essayait de se soustraire aux prières, s’il prétendait sortir de la pagode, les lamas le ligotaient respectueusement et surtout étroitement. Dire son exaspération est impossible. Les Anglais la partageaient du reste, étant aussi prisonniers que lui. Seul [MASK] s’esbaudissait ;
+
+['.', ',', '¹', '?', '"']	Murlyton	? questionna [MASK]. Vous l’avez entendu, la cour est pleine de policiers. — Endossez le costume du prêtre, je revêtirai celui du policier… et vous, miss, retournez-vous. La jeune fille obéit. En quelques minutes les deux hommes furent métamorphosés.
+
+['il', 'elle', 'Il', 'on', 'Elle']	Armand	Avec eux, [MASK] n’avait pas eu besoin d’imaginer un conte. Il lui avait suffi de prononcer ces mots : — J’ai faim. Tandis qu’il se livrait à ces réflexions philosophiques, tout en cassant une croûte, les deux hommes avaient repris leur conversation interrompue.
+
+['il', 'vous', 'et', 'elle', 'je']	Armand	— Laissons ce sujet sombre. Dieu a son but en permettant ces crimes. Parlons de vous, et si ma question n’est pas indiscrète, apprenez-moi quelles fâcheuses circonstances vous ont amené dans cet enfer ? Pour raconter son odyssée, [MASK] retrouva sa belle humeur.
+
+['homme', 'le', "l'", 'un', 'jeune']	Armand	La route faisait, à cent mètres plus loin, un coude brusque à angle droit. Tout à coup, [MASK], qui marchait en tête, aperçut, derrière un rocher, une sorte de campement ; c’étaient des arrieros, des muletiers, mais avec eux quelques soldats.
+
+['dame', 'madame', 'Madame', 'bien', 'Dame']	Pénélope	En ce pays-ci, douze mois de villégiature ne sont pas trop pénibles, et vous n’aurez pas froid… Mais vous aurez ainsi perdu votre gageure et les millions du cousin… Je puis même vous prédire qu’après cette période de recueillement, vous épouserez [MASK].
+
+['On', 'Il', 'on', 'il', 'qui']	Lavarède	On démarre dès qu’il sera rentré à bord. — Mais je veux parler à une autorité. — Eh bien, voici le second. Adressez-vous à lui. [MASK] causait précisément avec cet officier. — C’est mon fou, fit-il à voix basse.
+
+['il', 'On', 'on', 'Il', 'elle']	Bouvreuil	Ils faisaient, le long du chemin, les emplettes indispensables pour la longue traversée qu’ils allaient entreprendre. [MASK] tressaillit d’aise en les voyant se munir d’une valise et y entasser du linge, des objets de toilette, des parfums.
+
+['se', 'il', "s'", 'un', 'le']	Lavarède	On était silencieux. Cela se comprend : l’évocation de tels désastres n’est pas pour que l’on rie. Quelques instants après, [MASK], seul sur le pont, regardant la côte qui approchait, restait pensif. À peine interrogea-t-il le second.
+
+['-', 'pays', 'se', '...', ',']	Lavarède	— Le François-Joseph ? — Oui, la coque qui est là à quai. [MASK] regarda. Le long du quai, dépassant le niveau de l’eau de trente à quarante centimètres seulement, émergeait une étroite plate-forme métallique. Une légère balustrade l’entourait
+
+['celui-ci', 'il', 'Pierre', 'Henri', 'Jean']	Rachmed	À cinquante mètres d’eux, cinq yaks étaient groupés. Un peu à l’écart, un adulte, reconnaissable à son épaisse crinière, montait la garde. — Visez bien, dit [MASK], notre existence à tous dépend de votre coup de fusil.
+
+['Français', 'voyageurs', 'Gallois', 'leurs', 'Hollandais']	Bouvreuil	Puis, sans s’occuper davantage des Anglais et de [MASK], les lamas disparurent en annonçant par gestes qu’ils allaient apporter de la nourriture aux voyageurs. — Qu’est-ce que tout cela signifie ? s’écria le journaliste après leur sortie.
+
+['vous', 'moi', 'elle', 'vous-même', 'me']	Messine	Avec moi ? susurra le propriétaire d’un ton aimable. — Avec vous-même, monsieur ; quand vous avez, à [MASK], séquestré ma fille, j’ai juré de vous corriger la première fois que je vous rencontrerais. — Me corriger ? — Oui.
+
+['Pierre', 'Jean', 'celui-ci', 'Henri', 'Robert']	Lavarède	— Oui, reprit [MASK], et on se dirige de ce côté. — Qu’est-ce que cela peut être ? — Je n’en sais rien. Mais dans l’incertitude, il est bon de nous dissimuler au cas où un matelot pénétrerait dans cette salle.
+
+['famille', ',', 'père', 'la', 'ne']	Pénélope	Le père de [MASK] poussa un sourd grognement. — Tout est liquidé, reprit joyeusement le jeune homme. Après les satisfactions d’amour-propre, donnons-en une à l’amour pur. Et s’inclinant devant le gentleman :
+
+["l'", ',', 'dés', "n'", 'lui']	Murlyton	[MASK] approuva de la tête et reconduisit sa fille à sa cabine. Mais elle n’échappa point pour cela à l’admiration de l’équipage et tout le reste du jour, lorsqu’elle se promena sur le pont, elle put voir les matelots s’incliner sur son passage avec un respect superstitieux.
+
+['il', 'celui-ci', 'elle', '-il', 'on']	Lavarède	Mais il prétendait qu’un garçon de ferme lui serait indispensable pour conduire les bêtes à la gare, tandis que le père soutenait qu’il n’avait besoin de personne. — Voulez-vous que je vous mette d’accord, dit [MASK] entre deux bouchées ? — Allez-y.
+
+['ma', 'qui', 'mon', '</s>', 'la']	Szegedin	— Mon journal a un représentant, donc j’ai un banquier à [MASK]. Le sifflet de la locomotive et une brillante attaque de la czarda coupèrent court aux hésitations du policier, qui longtemps agita son mouchoir à la portière comme s’il quittait un ami.
+
+['elle', 'il', 'Elle', 'et', 'qui']	Han	Celui-ci faisait peser sur la jeune fille un regard aigu, p��nétrant, et, comme l’oiseau fasciné par un serpent, elle essayait de détourner la tête, d’échapper à ces yeux immobiles qui l’hypnotisaient. Derrière elle, barrant la porte, [MASK] attendait les ordres de son compagnon.
+
+['la', 'le', '...', "l'", ',']	Murlyton	: — Quelle est cette maison ? — Probablement la prison, répondit [MASK]. La jeune fille piétina. — La prison ! Et vous dites cela avec tranquillité. Les Chinois osent enfermer un citoyen d’une nation libre dans les cachots réservés aux seuls criminels ;
+
+['il', 'on', 'Federer', 'Nadal', 'et']	Bouvreuil	Tout plutôt que de déchaîner cette tempête. L’Autrichien s’était repris à ronfler. Et tout à coup, [MASK] songea qu’il pouvait « rouler » son adversaire. Un reçu de vingt mille francs donné au cours du voyage empêchait son envoi en possession de l’héritage convoité.
+
+['lui', 'ce', 'il', 'celui-ci', 'John']	Lavarède	La combinaison était excellente en effet. Par sa simplicité même, elle avait chance de réussite. Le malheur est que [MASK] n’était point un naïf, et qu’en se rapprochant de la terre américaine il sentait bien que son paradis allait finir et son enfer commencer.
+
+['elle', 'Jean', '</s>', 'lui', 'Pierre']	Aurett	La rumeur arriva aux soldats. L’un d’eux étendit son sabre pour barrer le passage à la jeune fille, mais ses regards se portèrent sur la fleur de lotus, et il abaissa son arme. [MASK] et son père pénétrèrent dans l’enceinte réservée.
+
+['il', 'on', 'elle', 'celui-ci', 'celle-ci']	Lavarède	Le calme du Parisien réconforta ses compagnons, qui crurent pourtant remarquer que le vent tournait. On dîna, par quatorze cents mètres d’altitude, et l’on s’apprêtait à dormir quand [MASK] poussa un véritable rugissement. — Qu’avez-vous ?
+
+['toi', 'là', 'tu', 'faire', 'donc']	Poirier	Imperturbable, le journaliste écoutait les appréciations du postier. Tout à coup, celui-ci cessa de dévorer. Il regarda à droite et à gauche d’un air surpris, promena une main inquiète de l’épigastre à son abdomen. — Qu’as-tu, [MASK] ?
+
+["l'", ',', 'R', 'Sta', 'on']	Murlyton	— Mais alors, bégaya [MASK] éperdu, la loi italienne est impuissante à protéger les sujets de Sa Majesté britannique. — À peu près… Soyez certain cependant que mes soldats feront de leur mieux. — Et moi, ne puis-je ?… — Vous ? Attendez
+
+['Il', 'il', ',', 'elle', 'Elle']	Armand	Enfin, cet instant impatiemment désiré arriva. [MASK] quitta le compartiment des « rapatriés », se glissa le long des coursives et atteignit sans encombre l’office, qui, sur les bâtiments modernes, remplace l’ancienne soute aux vivres.
+
+['il', 'on', 'Il', 'elle', 'celui-ci']	Ramon	Le vol des mosquitos est lourd et bas. Là, il n’avait à redouter que les vampires, ces chauves-souris des tropiques. Mais [MASK] les chassa en fumant une certaine plante aromatisée. Au petit jour, nos amis se regardèrent.
+
+['se', ',', 'et', 'la', 'qui']	Lavarède	— Et à nous non plus, ajoutèrent les deux soldats. [MASK] fronça le sourcil et frappa le sol de sa chaise. Aussitôt l’un des guerriers, Indien terraba de naissance, – ce sont de très doux agriculteurs, – eut une idée pratique. —
+
+['un', 'le', 'Pierre', 'Jean', ',']	Lavarède	Et tout à coup un brouhaha monta de la rue. Dix secondes n’étaient pas écoulées que le timbre de l’entrée résonna. Des pas rapides frappèrent le plancher de l’étude. La porte du cabinet s’ouvrit et [MASK] couvert de poussière parut sur le seuil.
+
+['tout', '...', 'il', 'dame', 'celui-ci']	Armand	— Oui, c’est compris dans les soins que je vous redois. — Et le beefsteak aussi ?… — Oui, cela est le prix de ma fille ; je rembourse, voilà tout… Les bons comptes font les bons amis. — Et les bons adversaires, ajouta [MASK] en souriant.
+
+['de', 'à', ',', 'on', 'se']	Armand	[MASK] lui frappa sur l’épaule. — Que cherches-tu par là ? demanda-t-il. — Le salut… le chemin pour fuir… pour aller vers des tribus amies. — Il en est de ce côté ?… — Oui… les Vizeitas ;
+
+['Voulez-vous', "l'", 'OUI', "J'", "L'"]	Vincents	Voulez-vous accepter un verre de porto ? Nous causerons, peut-être qu’à nous deux nous réussirons à retrouver sa trace ; car il n’est pas possible qu’il soit déjà mort. Un verre de porto-wine ne se refuse jamais. [MASK] accepta.
+
+["l'", 'tout', "d'", ',', 'la']	Armand	La jeune Anglaise réfléchissait. Cette surprise l’attendant sur le sol costaricien ne lui disait rien de bon, et le nom de don José n’était pas non plus pour la rassurer. Mais, après tout, son père était là, [MASK] aussi, s’il le fallait
+
+['ses', 'son', 'S', 'Mrs', 'sa']	Lavarède	— Merci ! Rentrée dans sa chambre, elle se déclara sérieusement qu’elle était très satisfaite de parcourir le monde en compagnie de [MASK]. Mais, par un sentiment de réserve bizarre, elle ne dit rien de tout cela à l’honorable sir Murlyton. Chapitre 14
+
+[':', 'beaucoup', '-t-il', 'simplement', 'le']	Murlyton	— Attendez un peu. – Les « robbers » de la cité se sont syndiqués et ont établi une Société d’assurance contre eux-mêmes. — Une assurance ! s’écria [MASK]. — Oui, gentleman. L’idée était pratique.
+
+['Il', 'il', 'Elle', 'Je', 'et']	Pénélope	— Que je suis impardonnable. Je vous tiens debout au milieu de la rue. Acceptez mon bras, je vous prie, et conduisez-moi vers la maison où vous avez rêvé de me donner le bonheur. [MASK] ne se fit pas répéter l’invitation.
+
+['et', '-', 'Elle', 'le', 'La']	Lavarède	Mais, comme dit le géographe Vivien de Saint-Martin, il serait peut-être imprudent d’en faire l’expérience. [MASK], en disant cela, avait fait sourire la jeune Anglaise. — Continuez, je vous prie, dit-elle. — Que je continue ma conférence ?
+
+['elle', 'il', ',', 'Elle', 'et']	Armand	[MASK] lui tendit la main, elle y mit la sienne, ferma les yeux et tout doucement s’endormit dans le grand silence du désert… Dans le sommeil même, d’une étreinte inconsciente, elle retenait près d’elle son ami.
+
+['...', ',', '(', '"', ';']	Murlyton	… — Excellence, je ne me l’explique pas… Ceux-là, voyez-vous, tueraient leur père pour avoir de l’argent et boire de l’aguardiente. — De l’argent ?… si on leur en donnait pour s’en aller ? hasarda [MASK].
+
+['Pierre', 'celle-ci', 'Madame', 'Paul', 'Marie']	Bouvreuil	Mais il se ravisa. — Au fait, pourquoi pas ? Le propriétaire eut une exclamation de joie. — Vous acceptez ? — Pas encore. Ça va vous coûter excessivement cher. Les paupières de [MASK] clignotèrent d’émoi. — De vous, cela m’étonnera.
+
+['il', 'Il', ',', '...', 'qui']	Bouvreuil	[MASK] ouvrit une bouche stupéfaite. — Et depuis, continua l’Autrichien s’entêtant dans sa nouvelle conviction, votre rage croissante à mesure que nous approchons de la ville où vous serez puni de vos forfaits… — La rage d’avoir les menottes. — À d’autres.
+
+['il', 'et', 'elle', 'en', 'mais']	Aurett	À l’angle d’une rue, les Anglais ayant tourné, il allongea le pas pour les rejoindre. Mais en débouchant sur l’avenue, il se jeta presque dans leurs bras. En l’apercevant, [MASK] poussa un petit cri. — Mon père, voyez-vous cet homme
+
+[',', 'donc', 'maître', 'messieurs', 'ça']	Croullaigue	D’une armoire de bois blanc, il venait de faire un meuble en acajou, et prenait, sur le comptoir, le vermouth offert par le patron, quand un homme d’équipe entra : — Dites donc [MASK], fit-il, demain matin vous aurez deux déjeuners en plus.
+
+['...', '-', '¬', ':', ',']	Armand	Il n’y a droit que sous certaines réserves, expressément indiquées. Et à moins que lui-même n’y renonce… — Vous plaisantez ! exclama [MASK]. Comment ! Voilà des millions qui tombent du ciel, et vous croyez que je ne ferai rien pour les gagner ?
+
+['vous', "m'", 'nous', "j'", "l'"]	Bouvreuil	J’étais si bien resté votre débiteur que votre huissier me l’a rappelé, et c’est même une des causes qui m’ont fait quitter une ville aussi peu hospitalière. Ne croyez-vous pas qu’il serait bon de liquider ce petit arriéré ? [MASK] était pris.
+
+['or', 'Allah', 'ivoire', 'honneur', 'entrée']	Aurett	Le guide se redressa, les yeux brillants. — C’est un moyen dangereux, il est vrai, mais qu’importe ! Pourquoi ne pas le tenter ? — Ah ! c’est elle que j’aurais voulu sauver ! Pensif, il gagna la tente d’[MASK].
+
+[':', '.', ',', '...', ';']	Armand	grommela [MASK]. Non, reprit-il, après une inspection plus attentive, je crois reconnaître la silhouette de l’individu qui arrive là-bas. À peu de distance, en effet, un homme marchait à petits pas, sans bruit, grâce à ses semelles de feutre.
+

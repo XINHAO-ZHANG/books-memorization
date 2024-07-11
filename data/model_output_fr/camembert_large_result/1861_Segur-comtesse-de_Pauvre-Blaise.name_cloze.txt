@@ -1,0 +1,200 @@
+['Mais', 'Jean', 'Pierre', 'Il', 'Merlin']	Blaise	[MASK], oubliant ses menaces, accourut à son aide; en le voyant sortir de la mare avec trois sangsues au nez et aux joues, il s'approcha vivement de lui et en enleva quatorze autres qui s'étaient posées sur ses vêtements, et grimpaient pour arriver au cou, aux mains, au visage.
+
+['Il', 'il', 'Louis', 'Pierre', 'Joseph']	Blaise	» [MASK] accepta le fromage, puis la salade, et, tout en soupirant, il mangea de bon appétit, car, à onze ans, on pleure et on mange tout à la fois. Le reste du jour se passa tranquillement pour la famille du concierge;
+
+['Joseph', 'David', 'Lui', 'Marie', 'Louis']	Hélène	[MASK] et sa mère le suivirent bientôt, ainsi que tous les domestiques. Quand il y eut dans la cour assez de monde pour donner une représentation du savoir-faire de l'éléphant, le maître passa une sébile devant toutes les personnes présentes, et chacun y déposa son offrande.
+
+['il', 'Pierre', 'Louis', 'Gaspard', 'Charles']	Alcine	Le bruit qu'il faisait attira l'attention du comte, qui se leva et se dirigea vers la fenêtre au moment où [MASK] parvenait à y monter. Le pauvre enfant poussa un cri de frayeur en voyant arriver à lui ce terrible croquemitaine dont ses grands frères avaient eu peur.
+
+['</s>NOTUSED', 'PAUL', '-', 'JEAN', 'MARC']	HÉLÈNE	Des fleurs seraient bien plus jolies et viendraient plus vite. JULES Des légumes sont bien plus utiles; d'ailleurs, je veux des légumes, et si tu mets des fleurs; je les arracherai. [MASK]. Fais comme tu voudras; je sais qu'il faut toujours te céder.
+
+['moi', 'maman', 'nous', 'toi', 'papa']	Jules	«Mon cher enfant, dit-il enfin avec tristesse, je ne sais quel parti prendre pour épargner à toi et à [MASK] ce nouveau chagrin. Je ne puis forcer la volonté de ma femme; je ne puis conseiller à mes enfants de désobéir à leur mère.
+
+['</s>NOTUSED', '-', '—', '[...]', '–']	JULES	Nous ne pouvons pas aller par la cour du moulin, les chiens nous barrent le passage. [MASK] Je ne veux point passer par le cimetière..., non, non..., je ne le veux pas, j'ai trop peur.
+
+['Il', 'il', 'Joseph', 'Antoine', 'David']	Alcine	Reviens tout de suite.» [MASK] partit enchanté, quoique son coeur battît de frayeur. Il marcha sur la pointe des pieds en approchant de la fenêtre et chercha à voir, mais il était trop petit, il ne voyait rien.
+
+['«', '-', '—', '–', '[...]']	ANFRY	[MASK] Enfin, Monsieur le comte, mon garçon pourrait voir et entendre des choses qui me feraient de la peine en lui faisant du mal, et j'aime autant qu'il reste à la maison et qu'il n'entre pas au château.»
+
+['Charlotte', 'Louise', 'Marie', 'Marguerite', 'Juliette']	Blaise	«Dis-lui que je sais tout, que je lui pardonne, que je l'aime, que c'est toi qui as changé mon coeur, que tu es son frère, mon second enfant. —Je lui dirai combien vous êtes bon, Monsieur le comte, répondit [MASK] tout bas.
+
+['Pierre', 'Dieu', 'maman', 'César', 'Henri']	Blaise	«L'opération sera très douloureuse, mon pauvre garçon, dit-il à [MASK], mais ce sera vite fait; prenez courage et laissez-moi faire: ce ne sera pas long. —Le courage ne me manquera pas avec l'aide du bon Dieu, monsieur;
+
+['</s>NOTUSED', '-', '—', '[...]', '(...)']	BLAISE	Non, tu n'iras pas; je ne veux pas que tu me laisses seul; j'ai peur, j'ai peur du fantôme. [MASK] C'est précisément ce que je veux aller voir; ce n'est pas un fantôme, je crois que c'est un chat.
+
+['toi', 'lui', 'maman', 'moi', 'papa']	Hélène	«Papa sait tout, se dit-il. Que va-t-il faire, lui qui est si sévère? Je vais être très malheureux; il sera pour moi, comme il est pour [MASK] et pour tout le monde, sévère à faire trembler.
+
+['Jules', 'Jeanne', 'Henri', 'Louis', 'Alice']	Hélène	«Maman, dit un jour [MASK], j'ai trouvé dans un buisson quatre oeufs de poule; la fermière dit que ce sont les poules Crève-Coeur qui perdent leurs oeufs; j'ai envie d'en faire une omelette que nous mangerons ce soir, Jules et moi.
+
+['Il', 'il', 'Joseph', 'Elle', 'On']	Jules	si elle traînait et que vous missiez le pied dessus, vous la feriez casser.» [MASK] avait posé le cerf-volant sur la cheminée, il le prit à deux mains et fit quelques pas pour faire traîner la queue et la rouler à son bras.
+
+['Elle', 'Alice', 'Anna', 'Il', 'Marie']	Blaise	ils fermèrent lentement la grille, rentrèrent sans mot dire dans leur maison et s'assirent près d'une table sur laquelle était préparé leur frugal dîner. [MASK] vint les rejoindre et, de même que ses parents, se plaça silencieusement près de la table.
+
+['Louis', 'Jeanne', 'Charlotte', 'Pierre', 'Léon']	Jules	! —Espérons que votre maman finira par être touchée de tant de vertu et de qualités attachantes, dit le comte. Qui sait quel effet pourra produire la première communion de [MASK]!» En sortant de chez ses enfants, le comte alla chez sa femme.
+
+['toi', 'moi', 'vous', 'elle', 'lui']	Hélène	mais... c'est pour toi, pour [MASK]... que je crains..., que je crois..., que je veux éviter...» La comtesse s'arrêta, ne sachant comment achever et craignant d'en avoir trop dit; son mari l'encourageait par un affectueux sourire;
+
+['</s>NOTUSED', '-', '»', '—', '«']	ROBERT	qu'est-ce qui va advenir de nous? [MASK] Il le tenait déjà par terre, maman; il ouvrait une bouche énorme, et il avait de grandes dents blanches comme celles d'un loup! FRANÇOIS Et des yeux qui semblaient brûler ce qu'ils regardaient!
+
+['...', 'nuit', 'fois', '»', 'malade']	Jules	[MASK]; il se releva lentement, et sentit trois ou quatre piqûres au visage; il crut que c'était une guêpe et y porta la main pour la chasser; sa main rencontra quelque chose de froid qu'il ne put enlever, et les piqûres devenaient de plus en plus douloureuses;
+
+['</s>NOTUSED', '-', '—', '–', '_']	BLAISE	laissez-moi emporter le mort, pour que je le fasse reconnaître par quelqu'un. Un beau chat, ajouta-t-il en le ramassant. JULES Par où allons-nous donc passer pour aller à la route? [MASK] Par le cimetière, puisqu'il n'y a pas d'autre chemin.
+
+['Guillaume', 'Jeanne', 'Pierre', 'Henri', 'Alexandre']	Blaise	Voici le mien, dit [MASK] en tirant de sa poche une pauvre petite Journée du chrétien à moitié usée. —C'est moi qui te donne ce Paroissien , dit le comte; il fait partie de la collection que je t'ai promise et qu'on va t'apporter.
+
+['Marie', 'Jeanne', 'Pierre', 'maman', 'Maman']	Anfry	Ce ne sera pas le premier pied qu'il aura guéri, je t'en réponds. —Es-tu sur que ce ne sera pas mauvais pour ce qu'il a? dit [MASK] avec inquiétude. —Mauvais, le cataplasme Valdajou?
+
+['voyons', 'Socrate', 'allons', 'toi', 'maintenant']	Blaise	Voyons, [MASK], finis donc! Quand tu pleurerais tout ce que tu as de larmes dans le corps, ce n'est pas cela qui les ferait revenir. Puisque son père a vendu aux nouveaux maîtres, c'est une affaire faite, et tes larmes n'y peuvent rien, n'est-ce pas?
+
+['Pierre', 'Jean', 'Pierrot', 'Marie', 'paysan']	Blaise	deux autres m'attaquent avec une fourche et un râteau comme si j'étais une bête féroce. Et voilà que toi, [MASK], tu appelles, me croyant parti, en criant qu'il n'y a plus de danger! Qu'est-ce que tout cela veut dire?
+
+['il', 'elle', 'on', 'Il', 'Elle']	Anfry	on lui dit qu'[MASK] avait toujours attendu le réveil de son fils, qui dormait encore paisiblement. La soirée était avancée; peu de temps après le comte avertit les enfants que l'heure du repos était arrivée; il se retira avec eux, laissant sa femme à ses réflexions.
+
+['Elle', 'Il', 'Jules', 'il', 'elle']	Hélène	Laissez votre soeur y mettre quelques fleurs. JULES, frappant du pied Non, non, non, je ne veux pas; je n'aime pas les fleurs, et je n'en mettrai pas.» [MASK] était rouge;
+
+['il', 'elle', 'Anna', 'Marie', 'Emma']	Jules	Je suis sûr qu'il m'a pardonné,... il l'a dit... Je ne veux pas le voir, j'ai honte; il sait que j'ai menti, menti, menti.» Et [MASK] retomba dans les bras de son père désolé;
+
+['Tiens', 'Maintenant', 'Allez', 'Allons', 'Alors']	Blaise	—Papa, j'ai faim. Quand j'aurai pris quelque chose, je reposerai mieux. —Tu as faim? tant mieux, mon enfant. [MASK], mon ami, va lui chercher une petite tasse de bouillon de poule.»
+
+['David', 'Napoléon', 'Joseph', 'Pierre', 'Alexandre']	Jules	Et si vous y aviez regardé, vous auriez tiré plus doucement et vous n'auriez rien cassé. —Là! c'est ma faute maintenant! s'écria [MASK] avec colère et tapant du pied. Je te dis que c'est la tienne; tu es un maladroit;
+
+['il', 'lui', 'Pierre', 'Louis', 'Joseph']	Blaise	Ils marchaient devant; [MASK] suivait; il n'était pas à son aise, il n'osait parler, et il aurait voulu pouvoir retourner à sa bêche et à son jardin. En arrivant au perron, ils trouvèrent la comtesse avec sa fille qui les attendaient.
+
+['</s>NOTUSED', '-', '—', '–', '[...]']	BLAISE	Il m'aurait donc fallu entrer dans la mare, pour avoir cinquante sangsues aux jambes? Grand merci! JULES Le grand malheur quand tu aurais eu les jambes piquées! Moi, je n'aurais pas eu de morsures au visage et à la main. [MASK] Ah bien!
+
+['</s>NOTUSED', '-', '—', '–', '[...]']	ANFRY	Où est-il allé? [MASK] A l'église, monsieur le comte. Il a passé une triste nuit, et il a été chercher sa consolation près du bon Dieu; c'est assez son habitude, vous savez.
+
+['Marie', 'Madame', 'Catherine', 'madame', 'Jean']	Anfry	—S'il t'avait touché, j'aurais à l'heure même quitté son service, répondit [MASK], et je ne dis pas que j'y resterai longtemps; le fils te joue de mauvais tours toutes les fois qu'il te demande pour s'amuser avec toi, et le père...;
+
+['Il', 'Pierre', 'Louis', 'Paul', 'Joseph']	Blaise	[MASK] en fut touché. «C'est bien bon à eux, dit-il, de penser à féliciter mes parents pour ma première communion; je ne les croyais pas si attentifs.» Arrivés au seuil de la porte, ils virent avec surprise une table dressée dans la salle.
+
+['Joseph', 'David', 'papa', 'Paul', 'Albert']	Blaise	ses yeux semblaient chercher quelqu'un; elle se hasarda à demander timidement: «Où est [MASK]? J'ai beau regarder de tous côtés, je ne le vois pas parmi les gens de la maison. —Tu le verras ce soir; il doit venir après dîner.
+
+['Jeanne', 'Marie', 'Sophie', 'Marguerite', 'chacun']	Blaise	Oh oui! Je prierai tant, tant pour vous, que le bon Dieu m'exaucera. Il est si bon!» Le comte chercha à calmer l'émotion de [MASK]; quand il y fut parvenu, il rappela aux enfants que l'heure des vêpres approchait.
+
+['Monsieur', 'chéri', 'surtout', 'enfant', 'camarade']	Blaise	on se fait de beaux bénéfices sans avoir l'air d'y toucher; et toi, [MASK], puisque tu es si bon garçon, nous te régalerons quelquefois d'une bouteille de vin, de liqueur, de café, de gâteaux, d'une moitié de volaille, de toutes sortes de choses.
+
+['il', 'Pierre', 'Joseph', 'Louis', 'Charles']	Blaise	Le lendemain, sans attendre qu'on vînt le chercher, [MASK] alla au château et demanda encore de quoi faire un cerf-volant. Les domestiques, au lieu de le maltraiter comme ils l'avaient fait la veille, le reçurent avec amitié, en reconnaissance de sa discrétion.
+
+['Pierre', 'Henri', 'Jeanne', 'Jean', 'Marie']	François	il a l'air méchant tout à fait. Il a levé les yeux, je me suis sauvé bien vite. —Je vais y aller voir à mon tour, dit [MASK]; il doit être effrayant. —Va, mais ne fais pas de bruit;
+
+['</s>NOTUSED', 'Jean', 'Joseph', 'Il', 'Louis']	Jules	c'est ton père qui a besoin de pardon, parce qu'il est le vrai, le grand coupable!» [MASK], étonné, attendri, ne pouvait parler, mais il répondait à l'étreinte passionnée de son père en le couvrant de larmes.
+
+['»', '\\"', '[...]', '...', '(...)']	BLAISE	je comprends tout,... même ce que tu n'as pas dit. Quant aux douceurs que te promettent les domestiques, n'accepte rien; en faisant des générosités aux dépens de leurs maîtres, ils se rendent coupables de vol; ne nous faisons jamais leurs complices. [MASK]
+
+['Il', 'Elle', 'il', 'elle', '</s>NOTUSED']	Blaise	Non, je ne veux pas; je veux que tu demandes tout. Va tout de suite. Dieu! que c'est ennuyeux d'avoir affaire à un garçon bête et entêté comme toi! Je suis fatigué de te répéter la même chose.» [MASK] ne répondit pas;
+
+['il', 'Jésus', 'Joseph', 'Jean', 'Louis']	Jules	Puis on se dit bonsoir et l'on se sépara. Quand [MASK] fut seul avec son père, il alla à lui, l'enlaça tendrement dans ses bras et lui dit: «Papa, prions ensemble pour maman; demandons au bon Dieu qu'il la change comme il nous a changés...
+
+['eau', 'air', 'argent', 'amour', 'os']	alcali	Faites ce que vous avez déjà fait: soufflez de l'air dans la bouche, frottez le corps d'[MASK], mettez des sinapismes, tâchez de ranimer les battements du coeur; mais je crois que tout sera inutile, car l'enfant est mort, sans aucun doute.
+
+['-', '</s>NOTUSED', '—', '–', '[...]']	JULES	. BLAISE Si votre papa gronde, je dirai que c'est vous qui m'avez commandé de vous apporter ces fleurs. [MASK] Et moi je dirai que tu mens, que ce n'est pas moi. BLAISE Ah! par exemple! ceci est trop fort!
+
+['Il', 'il', 'On', 'Elle', 'on']	Jules	il commença alors à voir des bêtes noires, plates, longues comme le doigt, qui nageaient autour de l'âne, et qui se posaient sur ses jambes. [MASK] s'amusait à les regarder et à les voir accourir de tous côtés, lorsque l'âne se mit à sauter, à ruer;
+
+['Elle', 'Marie', 'Maman', 'Anna', 'Jeanne']	Hélène	[MASK] courut à la cabane où couvait la poule, elle lui jeta un peu d'orge pour lui faire quitter son panier, et vit avec grande joie les deux petits poussins venir manger les grains d'orge que la poule leur écrasait avec son bec avant de les leur laisser manger.
+
+['papa', 'maman', 'Papa', 'Maman', 'bisous']	Jules	Et moi aussi, je retrouverai mon lit avec plaisir. Bonsoir, mon cher papa, bonne nuit et à demain. LE COMTE A demain, ma fille! que le bon Dieu te bénisse! Adieu, [MASK];
+
+['Jules', 'maman', 'Marie', 'Léa', 'Julie']	Blaise	«Cet éléphant doit coûter cher à nourrir, dit [MASK], il mange à un seul repas ce qui nous suffirait pour huit jours à papa, maman et moi. JULES Tu vois bien qu'il n'y avait pas de viande;
+
+['Il', 'Elle', 'On', 'Pierre', 'Jean']	Hélène	[MASK] l'avait suivi; ils arrivèrent au moment où la pauvre femme retirait d'une mare pleine d'eau son petit garçon de deux ans, qu'elle avait laissé jouer dans un verger au milieu duquel était la maison.
+
+['Alexandre', 'Anna', 'Elizabeth', 'Alice', 'Isabelle']	Anfry	Dans les premiers moments, le comte et la comtesse ne s'aperçurent pas de l'embarras d'[MASK], qui essuyait son front inondé de sueur, et n'osait ni manger ni lever les yeux de dessus son assiette restée pleine.
+
+['Il', 'On', 'Elle', 'Charles', 'Frédéric']	Blaise	—Tu m'embrasseras du moins ce soir, et tant que tu voudras, mon enfant», dit le comte en le serrant contre son coeur. [MASK] usa largement de la permission; mais la soirée était avancée; il était temps de se séparer.
+
+['Il', 'Elle', 'il', 'Joseph', 'et']	Jules	[MASK] revint avec un sac plein de graines de toute espèce de légumes. «Voilà, dit-il, des choux-fleurs, des pois, des radis, des asperges, des navets, des carottes, des laitues, des cardons, des épinards... BLAISE
+
+['Il', 'Elle', 'il', 'cheval', 'qui']	Jules	[MASK] perdit l'équilibre, tomba dans l'eau, et l'âne sortit de la mare et se dirigea vers le château en courant de toutes ses forces. Il n'y avait pas beaucoup d'eau dans l'endroit où était tombé
+
+['Jean', 'Pierre', 'Louis', 'Joseph', 'Léon']	Blaise	«Ah! il dort! dit-il à mi-voix en jetant un regard sur le lit où dormait [MASK]. Tant mieux! il ne sent pas son mal en dormant... Pauvre enfant! ajouta-t-il après l'avoir regardé attentivement; comme il est pâle!
+
+['»', '...', '[...]', '-', '?']	BLAISE	je m'étais sali dans l'antichambre, et je ne pouvais me présenter plein de cirage devant vous. JULES Est-ce maladroit? se remplir de cirage quand j'attends de quoi faire un cerf-volant! Et où sont le papier, la colle, l'osier, les couleurs, la ficelle? [MASK]
+
+['tous', 'chacun', 'lui', 'David', 'eux']	Jules	Les domestiques sortirent en jetant à [MASK] des regards d'affectueuse admiration, ils ne parlèrent pas d'autre chose toute la soirée; plusieurs d'entre eux furent assez profondément touchés pour changer complètement de vie et pour devenir d'honnêtes et fidèles serviteurs.
+
+['il', 'Charles', 'Il', 'elle', 'Frédéric']	Blaise	Il voulut dire quelques mots d'excuse, mais les paroles ne pouvaient sortir de ses lèvres. Honteux de prolonger une scène dont la comtesse pouvait s'irriter, [MASK] prit le parti de s'en aller sans autre explication, et, saluant à la hâte, il s'avança vers la porte.
+
+['Il', 'Arthur', 'Thomas', 'Antoine', 'Simon']	Blaise	[MASK] aurait bien voulu ne pas y aller, ou du moins ne pas y aller seul, mais il n'osa pas désobéir aux ordres du comte et de la fermière et il se dirigea vers la ferme sans trop hâter le pas...
+
+['»', '...', '[...]', '!', '-']	JULES	je ne sais jamais de quoi parler devant maman: j'ai toujours peur d'être grondé. HÉLÈNE C'est qu'elle ne pense pas comme nous et comme papa. Si elle pouvait se trouver changée comme papa et toi, nous serions si heureux! [MASK]
+
+['»', '[...]', '».', '(...)', '...']	BLAISE	mais son orgueil se révolta. JULES Je te prie de ne pas te donner tant de peine à mon sujet et de ne pas faire le saint en priant pour moi. Je sais bien prier pour moi-même. [MASK]
+
+['Jules', 'Julie', 'Juliette', 'Jeanne', 'César']	Hélène	Le comte s'échappa en riant et laissa les enfants surpris de cette explosion si joyeuse, qui ne lui était plus habituelle depuis le retour de la comtesse. «Allons chez maman, dit [MASK]; peut-être nous expliquera-t-elle l'air radieux de papa. JULES
+
+['moi', 'maman', 'papa', 'nous', 'lui']	Blaise	Tu as monté à âne tous ces jours-ci et tu t'es bien passé de [MASK]. JULES Oui, papa, parce que je suis resté dans le parc, mais je voudrais aller dans les champs, et maman ne veut pas que j'y aille seul
+
+['Jeanne', 'Marie', 'Charlotte', 'Henri', 'Julie']	Blaise	—Monsieur le comte, dit [MASK], reprenant un peu courage, je ne pourrais pas entrer au château avec l'opinion que vous avez de moi. Je n'ai pas mérité les reproches que vous m'adressiez l'année dernière, et je ne puis vous promettre de faire autrement cette année.
+
+['il', 'on', 'papa', 'Dieu', 'qui']	Blaise	Papa, [MASK] se contentera toujours de peu; mais il m'a beaucoup parlé, depuis ma maladie, de ses devoirs envers Dieu, envers les hommes et envers lui-même; il m'a expliqué sur les motifs de sa conduite des choses que je n'aurais jamais sues sans lui;
+
+['nous', 'elle', 'moi', 'lui', 'eux']	Blaise	Maman n'est pas contente; elle a su que tu étais sorti avec [MASK]; elle craint qu'il ne te soit arrivé quelque accident; il est très tard, nous devrions être couchés depuis longtemps; allons, mon frère, rentrons vite, tu vas être grondé.
+
+['elle', 'Madame', 'Marie', 'Charlotte', 'Marguerite']	Blaise	Le lendemain et les jours suivants, le comte alla très exactement passer une heure avec [MASK], qu'il emmenait promener dans les champs; il lui rendait compte de tout ce qui pouvait l'intéresser, mais il ne nommait jamais la comtesse dans ses entretiens.
+
+['Madame', 'Monsieur', 'Mme', 'madame', 'le']	Hélène	le comte reprit: «Je sais que tu as fait l'année dernière quelques sottises, mais je veux les oublier en raison des bons sentiments que tu as manifestés depuis, d'après ce que m'a dit [MASK].
+
+['Monsieur', 'Madame', 'monsieur', 'madame', 'Mademoiselle']	Jules	mais il oublia de dire qu'il venait de la part de [MASK]. Tous les domestiques qui se trouvaient dans l'antichambre éclatèrent de rire. «Un cerf-volant! Je t'en souhaite des cerfs-volants! Il fait des cerfs-volants à Monsieur?
+
+['Il', 'On', 'il', 'Le', 'II']	Anfry	il vit un homme de trente-cinq à trente-six ans, d'assez belle apparence, l'air hautain, mais le regard assez doux. [MASK] salua; le comte répondit par un léger signe de tête. «Vous avez des enfants? dit-il d'un ton bref.
+
+['cœur', 'peau', 'coeur', 'nerfs', 'sang']	Jules	après quelque hésitation, elle referma doucement la porte et se retira toute pensive dans sa chambre. «Ils sont fous, se dit-elle; cette maladie de [MASK] a positivement altéré leur raison... Je ferai venir mon médecin un de ces jours et je les ferai soigner...
+
+['»', '[...]', '\\"', '...', '(...)']	BLAISE	Et comment vous en aurais-je empêché? Vous ne m'auriez pas écouté. JULES Non; mais quand l'âne s'est mis à sauter dans l'eau, tu l'aurais tenu par la bride, et tu l'aurais doucement fait sortir de la mare. [MASK]
+
+['Pierre', 'Joseph', 'Jésus', 'Paul', 'Charles']	Blaise	Quand le récit fut fini, il serra [MASK] dans ses bras à plusieurs reprises, mais sans dire une parole, et le laissa aller chercher près du bon Dieu sa consolation accoutumée contre les chagrins qu'il supportait avec une fermeté au-dessus de son âge.
+
+['Madame', 'madame', 'Mme', 'Marie', 'Catherine']	Blaise	La comtesse était restée debout au milieu de sa chambre, surprise et troublée des paroles de [MASK], de l'accent digne et ferme qui l'avait dominée malgré elle, et de l'explosion de chagrin qui avait terminé ses paroles. «Ce refus est singulier, se dit-elle;
+
+['Jésus', 'Pierre', 'Joseph', 'Jean', 'il']	Blaise	il passa la main dans les barreaux de la grille pour les flatter et obtenir passage; les chiens s'élancèrent sur la grille et cherchèrent à mordre la main, que [MASK] retira promptement. Comment revenir sans passer par le même chemin?
+
+['Napoléon', 'Mais', 'Voltaire', '</s>NOTUSED', 'Et']	Blaise	on recherchait son amitié, et on se sentait fier de son approbation. [MASK] lui-même se maria, à l'âge de vingt-huit ans; il épousa la petite nièce du curé, qui lui apporta trente mille francs, dot considérable pour sa condition;
+
+['papa', 'toi', 'maman', 'Papa', 'moi']	Hélène	Laisse-moi, pour le repos de ma conscience, pour la satisfaction de mon coeur, dire ici devant maman, devant [MASK], devant tous, combien je les ai méchamment, indignement trompés sur ton compte; j'ai tourné contre toi toutes tes bonnes actions;
+
+['Joseph', 'Pierre', 'Marie', 'Jean', 'celui']	Blaise	la route était pierreuse, mauvaise et assez longue, et, comme il ne connaissait pas bien le chemin, il mit près d'une heure pour y arriver. Il y trouva effectivement [MASK] qui travaillait avec ardeur à arracher les pommes de terre de son père;
+
+['Il', 'il', 'On', 'Pierre', 'Joseph']	Blaise	[MASK] ne se dépêchait pas: quand il arriva, les boulettes étaient à moitié faites; c'étaient des boules, grosses comme des melons; dans chacune d'elles il y avait douze oeufs, une bouteille de lait, une livre de beurre et deux livres de pain;
+
+['Madame', 'Charles', 'Julie', 'Molière', 'Alice']	Blaise	—Tiens, va-t'en avec ta morale, tu nous ennuies à la fin. Ce que je te disais était pour rire; tu l'as pris au sérieux comme un nigaud. —Tant mieux pour vous, Monsieur», dit [MASK] en se retirant.
+
+['Charles', 'Alexandre', 'Napoléon', 'David', 'Louis']	Blaise	tu n'as jamais eu de chemise si fine et un si joli pantalon! —Ah bien! reprenons chacun le nôtre, dit [MASK] en s'arrêtant, indigné de tant d'égoïsme, d'orgueil et d'ingratitude; et tirez-vous d'affaire comme vous pourrez.
+
+['Il', 'Elle', 'On', 'Marie', 'Pierre']	Jules	[MASK] lui tendit la main en souriant, ce qui augmenta l'étonnement du domestique. «Eh bien, mes amis, dit-il à ses camarades en rentrant à l'office, voilà du nouveau! Si je ne l'avais pas vu, je ne le croirais pas!
+
+['Roland', 'Marguerite', 'Pierre', 'Jean', 'Jeanne']	Blaise	A peine avait-il achevé ces paroles qu'il aperçut à dix pas de lui le comte sortant d'une bergerie. Il avait reconnu la voix de [MASK] et s'empressait de lui parler pour l'emmener, lorsqu'il entendit le joyeux appel à la famille du fermier.
+
+['Charles', 'Louis', 'lui', 'Jean', 'Pierre']	Blaise	on lui donna des vaches à mener à l'herbe et à garder jusqu'au soir. Le domestique arriva chez Anfry cinq minutes après que [MASK] en était parti. «Eh, bien, où est donc votre garçon? dit-il en regardant de tous côtés.
+
+['Jean', 'lui', 'Pierre', 'Marie', 'Guillaume']	Blaise	La place d'une jeune fille n'est-elle pas près de sa mère! Au surplus, nous le verrons bien quand ils seront arrivés.» Elle monta au château avec Anfry et [MASK]. Pendant quatre jours ils ne firent que frotter, essuyer et ranger.
+
+['il', 'tout', 'elle', 'Il', 'Adam']	Jules	ce n'était pas le sourire moqueur et méchant d'autrefois, mais un sourire doux et bon qu'elle n'avait jamais vu à son frère. Elle remarqua alors combien [MASK] était embelli et le changement qu'avait subi toute sa personne et surtout sa physionomie.
+
+['</s>NOTUSED', '-', '—', '–', '[...]']	JULES	C'est précisément ce que je veux aller voir; ce n'est pas un fantôme, je crois que c'est un chat. Venez avec moi si vous avez peur de rester seul. [MASK] Non, non, je ne veux pas y aller.
+
+['cœur', 'Parkinson', 'Dieu', 'monsieur', 'guerre']	Jules	En vérité! mais la maladie de [MASK] vous a fait perdre la raison; ne me débitez donc pas de semblables sornettes. —Mon Dieu, vous me punissez! je l'ai mérité!» dit le comte avec un geste de désolation en quittant la chambre.
+
+['Marie', 'Pierre', 'Joseph', 'Jeanne', 'Jésus']	Blaise	quand il y fut parvenu, il rappela aux enfants que l'heure des vêpres approchait. «Il ne faut pas qu'on voie que j'ai les yeux rouges, dit [MASK]; on croirait que j'ai du chagrin. Du chagrin un pareil jour!
+
+['il', 'Il', 'qui', 'et', 'Dieu']	Blaise	Tu sais bien le cerf-volant? c'est moi qui ai été méchant, si méchant!... [MASK] a été si bon que cela m'a remué le coeur,... mais pas assez,... non... pas assez...
+
+['</s>NOTUSED', '-', '—', '«', '[...]']	FRANÇOIS	c'est alors que nous avons foncé sur vous pour le dégager. [MASK] Je vous prenais pour un ogre, tant vous aviez l'air sauvage et... mécontent. LE COMTE, à la fermière Vous leur donnez de jolies idées sur mon compte;
+
+['</s>NOTUSED', '-', '—', '–', '[...]']	BLAISE	Moi, je ne mange que de la viande; que manges-tu donc les jours de la semaine? [MASK] Du fromage, un oeuf dur, des légumes, avec du pain, bien entendu. Quant au pain, j'en ai tant que j'en veux.
+
+['on', 'elle', 'il', 'Marie', 'Dieu']	Blaise	Depuis ce jour, [MASK] fit plus que jamais partie de la famille du comte: la vie qu'on menait au château était calme et heureuse; le service de Dieu n'y fut jamais négligé, non plus que le service des pauvres, qu'on allait chaque jour visiter, consoler et soulager.
+
+['Jésus', 'Il', 'Dieu', 'Pascal', 'Joseph']	Blaise	[MASK] a été mon maître; par lui j'ai tout vu, tout compris; par lui j'ai appris ce qu'est le vrai bonheur en ce monde, la douceur qu'on peut tirer des peines, la consolation que donne la prière.
+
+['</s>NOTUSED', '–', '—', '-', '[...]']	HÉLÈNE	JULES Oui, papa, je me sens fatigué; je ne serai pas fâché de me coucher. [MASK] Et moi aussi, je retrouverai mon lit avec plaisir. Bonsoir, mon cher papa, bonne nuit et à demain. LE COMTE A demain, ma fille!
+
+['COUR', 'TOUR', '<unk>', 'VIE', '</s>NOTUSED']	FERMIÈRE	Je n'aurais pas eu peur sans cela. FRANÇOIS Et pourquoi donc, en vous en allant, nous avez-vous dit de ne pas y aller? C'est que vous aviez peur qu'il ne nous fît du mal. LA [MASK] Hélas! mon Dieu, que faire?
+
+['Dieu', 'Jésus', 'Marie', 'David', 'chacun']	Blaise	Prenez tout le temps que vous voudrez, chère amie, mais n'oubliez pas que vous avez planté des épines dans le coeur de [MASK] et dans ceux de vos enfants, et que vous seule pouvez arracher et guérir les plaies que vous avez faites.
+
+['maman', 'Marie', 'Alice', 'Jeanne', 'Rose']	Blaise	Je l'ai frotté, essuyé, comme les autres; je ne peux pas faire mieux. —Laissez-moi l'arranger, papa, dit [MASK]; je vais y mettre des fleurs, qui le rendront plus gai.»
+
+['Jeanne', 'Louis', 'Marie', 'Charles', 'Marianne']	Blaise	Vous voyez que j'ai de quoi pleurer et m'affliger. —Encore! dit le comte avec colère. Toujours cette haine contre ce noble et généreux enfant!» Le comte resta quelque temps immobile et pensif, tenant toujours [MASK] de ses deux mains.
+

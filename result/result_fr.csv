@@ -1,0 +1,576 @@
+Olmo 7B Accuracy,Camembert Large[0] Accuracy,Camembert Large Accuracy,Flaubert Large Accuracy,Flaubert Large[0] Accuracy,Flaubert Base Accuracy,Mistral7B Accuracy,doc_name,date,auteur,titre,canon,gender,naissance,mort,genre,droit_auteur
+0.05,0.04,0.07,0.02,0.0,0.0,0.05,1867_Segur-comtesse-de_Le-Mauvais-Genie,1867,segur comtesse de,le mauvais genie,non_canon,female,1799,1874,littérature jeunesse,publique
+0.03,0.0,0.03,0.0,0.0,0.0,0.0,1854_Dumas-Alexandre_Catherine-Blum,1854,dumas alexandre,catherine blum,canon,male,1802,1870,policier,publique
+0.03,0.0,0.04,0.01,0.0,0.0,0.02,1849_Dumas-Alexandre_Le-Collier-de-la-reine,1849,dumas alexandre,le collier de la reine,canon,male,1802,1870,roman historique,publique
+0.02,0.01,0.01,0.0,0.0,0.0,0.0,1845_Dumas-Alexandre_Le-Chevalier-de-Maison-Rouge,1845,dumas alexandre,le chevalier de maison rouge,canon,male,1802,1870,roman d'aventures,publique
+0.02,0.03,0.03,0.01,0.0,0.0,0.02,1846_Dumas-Alexandre_Joseph-Balsamo-Memoires-d-un-medecin,1846,dumas alexandre,joseph balsamo memoires d un medecin,canon,male,1802,1870,roman d'aventures,publique
+0.02,0.03,0.04,0.0,0.0,0.0,0.01,1849_Sue-Eugene_Les-Mysteres-du-peuple_Tome-II,1849,sue eugene,les mysteres du peuple,canon,male,1804,1857,roman historique,publique
+0.02,0.0,0.04,0.0,0.0,0.0,0.01,1979_Zevaco-Michel_Fiorinda-la-belle,1979,zevaco michel,fiorinda la belle,non_canon,male,1860,1918,roman historique,publique
+0.02,0.02,0.03,0.01,0.0,0.0,0.04,1846_Balzac-Honore-de_L’Envers-de-l-histoire-contemporaine,1846,balzac honore de,l’envers de l histoire contemporaine,canon,male,1799,1850,cycles et séries,publique
+0.02,0.01,0.02,0.01,0.0,0.0,0.02,1861_Dumas-Alexandre_Bric-a-Brac,1861,dumas alexandre,bric a brac,canon,male,1802,1870,nouvelles,publique
+0.02,0.0,0.0,0.0,0.0,0.0,0.01,1881_Tissot-Marcel_La-Veuve-d-Attila,1881,tissot marcel,la veuve d attila,non_canon,male,18??,1???,roman historique,prive
+0.02,0.01,0.01,0.0,0.0,0.0,0.0,1897_Gerald-Montmeril_Chryseis-au-desert,1897,gerald montmeril,chryseis au desert,non_canon,female,,,littérature jeunesse,prive
+0.01,0.01,0.09,0.01,0.01,0.0,0.0,1963_Troyat-Henri_Sophie-ou-La-Fin-des-Combats,1963,troyat henri,sophie ou la fin des combats,non_canon,male,1911,2007,roman historique,prive
+0.01,0.01,0.01,0.02,0.01,0.0,0.01,1846_Balzac-Honore-de_Les-Employes,1846,balzac honore de,les employes,canon,male,1799,1850,cycles et séries,publique
+0.01,0.0,0.0,0.0,0.0,0.0,0.01,1843_Balzac-Honore-de_La-Muse-du-departement,1843,balzac honore de,la muse du departement,canon,male,1799,1850,cycles et séries,publique
+0.01,0.01,0.13,0.01,0.0,0.0,0.04,1838_Dupin-Antoinette_Comment-tout-finit_Tome-2,1838,dupin antoinette,comment tout finit,non_canon,female,1801,1843,nouvelles,publique
+0.01,0.0,0.05,0.0,0.0,0.0,0.02,1852_Dumas-Alexandre_Conscience-l-innocent,1852,dumas alexandre,conscience l innocent,canon,male,1802,1870,roman historique,publique
+0.01,0.0,0.01,0.0,0.0,0.0,0.01,1952_Delly_Malereyne,1952,delly,malereyne,non_canon,female,1875,1947,roman historique,publique
+0.01,0.01,0.02,0.0,0.0,0.0,0.02,1839_Dumas-Alexandre_Blanche-de-Beaulieu-et-autres-histoires,1839,dumas alexandre,blanche de beaulieu et autres histoires,canon,male,1802,1870,nouvelles,publique
+0.01,0.0,0.0,0.0,0.0,0.0,0.01,1844_Dumas-Alexandre_Les-Trois-Mousquetaires,1844,dumas alexandre,les trois mousquetaires,canon,male,1802,1870,roman d'aventures,publique
+0.01,0.04,0.08,0.02,0.01,0.0,0.04,2013_Abecassis-Eliette_Le-palimpseste-d-Archimede,2013,abecassis eliette,le palimpseste d archimede,non_canon,female,1969,20--,policier,prive
+0.01,0.01,0.04,0.0,0.0,0.0,0.01,1930_Genestoux-Magdeleine-du_Mademoiselle-trouble-fete,1930,genestoux magdeleine du,mademoiselle trouble fete,non_canon,female,1873,1942,littérature jeunesse,publique
+0.01,0.0,0.03,0.01,0.0,0.0,0.0,1864_Erckmann-Chatrian_Histoire-d-un-conscrit-de-1813,1864,erckmann chatrian,histoire d un conscrit de 1813,non_canon,male,1822,1899,roman historique,publique
+0.01,0.0,0.0,0.0,0.0,0.0,0.01,1954_Delly_La-fee-de-Kermoal,1954,delly,la fee de kermoal,non_canon,female,1875,1947,roman d'aventures,publique
+0.01,0.01,0.01,0.0,0.0,0.0,0.0,2013_Zeniter-Alice_Sombre-dimanche,2013,zeniter alice,sombre dimanche,non_canon,female,1986,unknown,roman historique,prive
+0.01,0.0,0.0,0.0,0.0,0.0,0.0,1997_Grange-Jean-Christophe_Les-rivieres-pourpres,1997,grange jean christophe,les rivieres pourpres,non_canon,male,1961,20--,policier,prive
+0.01,0.02,0.03,0.0,0.0,0.0,0.01,1879_Aimard-Gustave_Le-fils-du-Soleil,1879,aimard gustave,le fils du soleil,non_canon,male,1818,1883,roman d'aventures,publique
+0.01,0.0,0.05,0.0,0.0,0.0,0.01,1961_Troyat-Henri_La-gloire-des-vaincus,1961,troyat henri,la gloire des vaincus,non_canon,male,1911,2007,roman historique,prive
+0.01,0.03,0.06,0.02,0.01,0.0,0.01,2011_Bauchau-Henry_L-Enfant-rieur,2011,bauchau henry,l enfant rieur,canon,male,1913,2012,roman historique,prive
+0.01,0.01,0.05,0.0,0.0,0.0,0.01,1845_Balzac-Honore-de_L-Enfant-maudit,1845,balzac honore de,l enfant maudit,canon,male,1799,1850,roman historique,publique
+0.01,0.01,0.02,0.0,0.0,0.0,0.01,1850_Dumas-Alexandre_La-Tulipe-noire,1850,dumas alexandre,la tulipe noire,canon,male,1802,1870,roman historique,publique
+0.01,0.03,0.13,0.0,0.0,0.0,0.01,1846_Balzac-Honore-de_Les-Chouans-ou-La-Bretagne-en-1799,1846,balzac honore de,les chouans ou la bretagne en 1799,canon,male,1799,1850,roman historique,publique
+0.01,0.0,0.0,0.0,0.0,0.0,0.02,1878_Lemay-Pamphile_Picounoc-le-maudit,1878,lemay pamphile,picounoc le maudit,non_canon,male,1838,1918,roman d'aventures,publique
+0.01,0.01,0.02,0.0,0.0,0.0,0.02,1865_Dumas-Alexandre_Le-Comte-de-Moret,1865,dumas alexandre,le comte de moret,canon,male,1802,1870,roman historique,publique
+0.01,0.02,0.05,0.02,0.01,0.0,0.01,1903_France-Anatole_Sur-la-pierre-blanche,1903,france anatole,sur la pierre blanche,canon,male,1844,1924,roman historique,publique
+0.01,0.01,0.03,0.01,0.01,0.0,0.01,1888_Gouraud-Julie_Quand-je-serai-grande,1888,gouraud julie,quand je serai grande,non_canon,female,1810,1891,littérature jeunesse,publique
+0.01,0.0,0.01,0.0,0.0,0.0,0.01,1916_Leroux-Gaston_Le-chateau-noir,1916,leroux gaston,le chateau noir,non_canon,male,1868,1927,policier,publique
+0.01,0.0,0.01,0.01,0.0,0.0,0.0,1910_Zevaco-Michel_Triboulet,1910,zevaco michel,triboulet,non_canon,male,1860,1918,roman d'aventures,publique
+0.01,0.0,0.09,0.0,0.0,0.0,0.0,1838_Dupin-Antoinette_Comment-tout-finit_Tome-1,1838,dupin antoinette,comment tout finit,non_canon,female,1801,1843,nouvelles,publique
+0.01,0.0,0.01,0.0,0.0,0.0,0.01,1998_Dugain-Marc_La-chambre-des-officiers,1998,dugain marc,la chambre des officiers,non_canon,male,1957,unknown,roman historique,prive
+0.01,0.0,0.03,0.0,0.0,0.0,0.01,1846_Balzac-Honore-de_Le-Cure-de-village,1846,balzac honore de,le cure de village,canon,male,1799,1850,cycles et séries,publique
+0.01,0.0,0.0,0.0,0.0,0.0,0.01,1934_Vercel-Roger_Capitaine-Conan,1934,vercel roger,capitaine conan,non_canon,male,1894,1957,roman historique,prive
+0.01,0.01,0.03,0.01,0.0,0.01,0.01,1882_Feval-Paul_Veillees-de-la-famille,1882,feval paul,veillees de la famille,non_canon,male,1816,1887,nouvelles,publique
+0.01,0.01,0.04,0.02,0.0,0.0,0.0,1890_Richebourg-Emile_Les-Amours-de-Village,1890,richebourg emile,les amours de village,non_canon,male,1833,1898,nouvelles,publique
+0.01,0.0,0.07,0.0,0.0,0.0,0.02,1845_Dumas-Alexandre_La-Reine-Margot,1845,dumas alexandre,la reine margot,canon,male,1802,1870,roman d'aventures,publique
+0.01,0.01,0.02,0.0,0.0,0.0,0.0,1866_Muller-Rene_Les-Enfants-gates,1866,muller rene,les enfants gates,non_canon,male,18--,18--,littérature jeunesse,prive
+0.01,0.0,0.06,0.0,0.0,0.0,0.01,1978_Tournier-Michel_Le-Coq-de-bruyere,1978,tournier michel,le coq de bruyere,canon,male,1924,2016,nouvelles,prive
+0.01,0.0,0.02,0.01,0.0,0.0,0.01,1897_Ivoi-Paul-d-_Jean-Fanfare,1897,ivoi paul d ,jean fanfare,non_canon,male,1856,1915,roman d'aventures,publique
+0.01,0.01,0.01,0.0,0.0,0.0,0.01,1858_Pressense-Elise-de_Rosa,1858,pressense elise de,rosa,non_canon,female,1826,1901,littérature jeunesse,publique
+0.01,0.0,0.04,0.01,0.0,0.0,0.01,1885_Verne-Jules_Mathias-Sandorf,1885,verne jules,mathias sandorf,canon,male,1828,1905,roman d'aventures,publique
+0.01,0.02,0.03,0.01,0.0,0.0,0.01,1844_Balzac-Honore-de_Le-Cabinet-des-Antiques,1844,balzac honore de,le cabinet des antiques,canon,male,1799,1850,cycles et séries,publique
+0.01,0.01,0.02,0.0,0.0,0.0,0.04,1863_Segur-comtesse-de_Les-deux-nigauds,1863,segur comtesse de,les deux nigauds,non_canon,female,1799,1874,littérature jeunesse,publique
+0.01,0.0,0.0,0.0,0.0,0.0,0.03,1879_Cadol-Edouard_La-Grande-Vie-La-Preferee,1879,cadol edouard,la grande vie la preferee,non_canon,male,1831,1898,nouvelles,publique
+0.01,0.01,0.03,0.0,0.0,0.0,0.0,1870_Marmette-Joseph_Francois-De-Bienville--Scenes-de-la-Vie-Canadienne-au-XVII-siecle,1870,marmette joseph,francois de bienville  scenes de la vie canadienne au xvii siecle,non_canon,male,1844,1895,roman historique,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.01,1842_Balzac-Honore-de_La-Fausse-Maitresse,1842,balzac honore de,la fausse maitresse,canon,male,1799,1850,cycles et séries,publique
+0.0,0.02,0.03,0.02,0.01,0.0,0.01,1845_Balzac-Honore-de_Les-Marana,1845,balzac honore de,les marana,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1954_Simon-Claude_Le-sacre-du-printemps,1954,simon claude,le sacre du printemps,canon,male,1913,2005,roman historique,prive
+0.0,0.04,0.05,0.0,0.0,0.0,0.03,1872_Dumas-Alexandre_Le-docteur-mysterieux_II,1872,dumas alexandre,le docteur mysterieux,canon,male,1802,1870,roman d'aventures,publique
+0.0,0.01,0.03,0.0,0.0,0.0,0.0,1880_Zola-Emile_Nana,1880,zola emile,nana,canon,male,1840,1902,cycles et séries,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.01,1882_Lacroix-Auguste_La-Famille-Robert,1882,lacroix auguste,la famille robert,non_canon,male,18??,1???,roman historique,prive
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1892_Le-Roux-Hugues_Les-Gens-d-aujourd-hui,1892,le roux hugues,les gens d aujourd hui,non_canon,male,1860,1925,nouvelles,publique
+0.0,0.0,0.04,0.02,0.01,0.0,0.01,1869_Ponson-du-Terrail-Pierre_Le-Forgeron-de-la-Cour-Dieu_Tome-I,1869,ponson du terrail pierre,le forgeron de la cour dieu,non_canon,male,1829,1871,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,2001_Musso-Guillaume_Skidamarink,2001,musso guillaume,skidamarink,non_canon,male,1974,20--,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1832_Corbiere-Edouard_Les-pilotes-de-l-Iroise,1832,corbiere edouard,les pilotes de l iroise,non_canon,male,1793,1875,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1972_Simenon-Georges_Maigret-et-Monsieur-Charles,1972,simenon georges,maigret et monsieur charles,canon,male,1903,1989,policier,prive
+0.0,0.02,0.05,0.01,0.0,0.0,0.01,1902_Allais-Alphonse_Le-Captain-Cap,1902,allais alphonse,le captain cap,non_canon,male,1854,1906,roman d'aventures,publique
+0.0,0.01,0.02,0.01,0.0,0.01,0.0,1882_Verne-Jules_L-Ecole-des-Robinsons,1882,verne jules,l ecole des robinsons,canon,male,1828,1905,roman d'aventures,publique
+0.0,0.01,0.03,0.0,0.0,0.0,0.0,1857_Ponson-du-Terrail-Pierre_L-Heritage-Mysterieux,1857,ponson du terrail pierre,l heritage mysterieux,non_canon,male,1829,1871,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.01,1888_Blandy-Stella_L-Oncle-Philibert,1888,blandy stella,l oncle philibert,non_canon,female,1836,1925,littérature jeunesse,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.01,1896_Schwob-Marcel_Vies-imaginaires,1896,schwob marcel,vies imaginaires,canon,male,1867,1905,nouvelles,publique
+0.0,0.03,0.04,0.01,0.0,0.0,0.01,1845_Balzac-Honore-de_Un-debut-dans-la-vie,1845,balzac honore de,un debut dans la vie,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1933_Simenon-Georges_L-Ecluse-n°1,1933,simenon georges,l ecluse n°1,canon,male,1903,1989,policier,prive
+0.0,0.0,0.05,0.0,0.0,0.0,0.02,2015_Despentes-Virginie_Vernon-Subutex_T1,2015,despentes virginie,vernon subutex,canon,female,1969,20--,cycles et séries,prive
+0.0,0.03,0.07,0.04,0.02,0.0,0.07,1905_Le-Rouge-Gustave_L-Espionne-du-grand-Lama,1905,le rouge gustave,l espionne du grand lama,non_canon,male,1867,1938,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1884_Chavette-Eugene_Le-saucisson-a-pattes_I-Fil-a-beurre,1884,chavette eugene,le saucisson a pattes,non_canon,male,1827,1902,roman historique,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1872_Gouraud-Julie_Le-Livre-de-maman,1872,gouraud julie,le livre de maman,non_canon,female,1810,1891,littérature jeunesse,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1987_Villard-Marc_Rebelles-de-la-nuit,1987,villard marc,rebelles de la nuit,non_canon,male,1947,20--,policier,prive
+0.0,0.0,0.01,0.01,0.0,0.0,0.0,1906_Le-Rouge-Gustave_La-Reine-des-elephants,1906,le rouge gustave,la reine des elephants,non_canon,male,1867,1938,roman d'aventures,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1842_Balzac-Honore-de_Albert-Savarus,1842,balzac honore de,albert savarus,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1904_Le-Rouge-Gustave_L-Esclave-amoureuse,1904,le rouge gustave,l esclave amoureuse,non_canon,male,1867,1938,roman d'aventures,publique
+0.0,0.0,0.0,0.01,0.0,0.0,0.0,1877_Gayet-de-Cesena-Amedee_Le-Chapelet-d-amour,1877,gayet de cesena amedee,le chapelet d amour,non_canon,male,1810,1889,roman d'aventures,publique
+0.0,0.0,0.01,0.02,0.01,0.0,0.01,1958_Very-Pierre_Les-disparus-de-Saint-Agil,1958,very pierre,les disparus de saint agil,canon,male,1900,1960,littérature jeunesse,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1993_Villard-Marc_La-porte-de-derriere,1993,villard marc,la porte de derriere,non_canon,male,1947,20--,policier,prive
+0.0,0.03,0.04,0.03,0.0,0.0,0.0,1968_Modiano-Patrick_La-Place-de-l-etoile,1968,modiano patrick,la place de l etoile,canon,male,1945,20--,roman historique,prive
+0.0,0.0,0.0,0.01,0.0,0.0,0.0,1871_Gaboriau-Emile_La-Degringolade_Tome-1,1871,gaboriau emile,la degringolade,non_canon,male,1832,1873,policier,publique
+0.0,0.01,0.01,0.01,0.01,0.0,0.01,1965_De-Villiers-Gerard_SAS-a-Istanbul,1965,de villiers gerard,sas a istanbul,non_canon,male,1929,2013,policier,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.02,1885_Greville-Henry_Idylles,1885,greville henry,idylles,non_canon,female,1842,1902,nouvelles,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1972_Aragon-Louis_Aurelien,1972,aragon louis,aurelien,canon,male,1897,1982,cycles et séries,prive
+0.0,0.01,0.01,0.01,0.0,0.0,0.01,1884_Normand-Jacques_Le-Monde-ou-nous-sommes,1884,normand jacques,le monde ou nous sommes,non_canon,male,1848,1931,nouvelles,publique
+0.0,0.0,0.0,0.01,0.01,0.0,0.01,1874_Zola-Emile_La-conquete-de-Plassans,1874,zola emile,la conquete de plassans,canon,male,1840,1902,cycles et séries,publique
+0.0,0.01,0.05,0.03,0.0,0.0,0.0,1858_Achard-Amedee_Madame-Rose,1858,achard amedee,madame rose,non_canon,male,1814,1875,nouvelles,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1950_Delly_Les-seigneurs-loups,1950,delly,les seigneurs loups,non_canon,female,1875,1947,roman historique,publique
+0.0,0.01,0.02,0.0,0.0,0.0,0.0,1850_Dumas-Alexandre_Le-Trou-de-l-Enfer,1850,dumas alexandre,le trou de l enfer,canon,male,1802,1870,roman d'aventures,publique
+0.0,0.03,0.08,0.01,0.01,0.0,0.0,1846_Balzac-Honore-de_Le-Medecin-de-campagne,1846,balzac honore de,le medecin de campagne,canon,male,1799,1850,cycles et séries,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1870_Ponson-du-Terrail-Pierre_Rocambole-La-Corde-du-pendu_Tome-II--L-Homme-gris,1870,ponson du terrail pierre,rocambole la corde du pendu,non_canon,male,1829,1871,roman d'aventures,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.0,1860_Sauquet-Aricie-Courbatere-Mme_Les-Veillees-du-pensionnat,1860,sauquet aricie courbatere mme,les veillees du pensionnat,non_canon,female,1???,1???,littérature jeunesse,prive
+0.0,0.0,0.0,0.01,0.0,0.0,0.0,1908_Rolland-Romain_Jean-Christophe_Tome-VI-Antoinette,1908,rolland romain,jean christophe,canon,male,1866,1944,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1874_Barbey-d-Aurevilly-Jules_Les-Diaboliques,1874,barbey d aurevilly jules,les diaboliques,canon,male,1808,1889,nouvelles,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1862_Erckmann-Chatrian_L-Invasion-ou-le-Fou-Yegof,1862,erckmann chatrian,l invasion ou le fou yegof,non_canon,male,1822,1899,roman historique,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1920_Leroux-Gaston_Aventures-effroyables-de-M-Herbert-de-Renich_Tome-II-La-Bataille-invisible,1920,leroux gaston,aventures effroyables de m herbert de renich,non_canon,male,1868,1927,roman d'aventures,publique
+0.0,0.01,0.03,0.0,0.0,0.0,0.0,2003_Ferney-Alice_Dans-la-guerre,2003,ferney alice,dans la guerre,non_canon,female,1961,20--,roman historique,prive
+0.0,0.0,0.11,0.0,0.0,0.0,0.0,1987_Echenoz-Jean_Equipee-malaise,1987,echenoz jean,equipee malaise,canon,male,1947,20--,roman d'aventures,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1878_Boisgobey-Fortune-du_Le-crime-de-l-Opera_1,1878,boisgobey fortune du,le crime de l opera,non_canon,male,1821,1891,policier,publique
+0.0,0.01,0.05,0.02,0.01,0.0,0.0,1990_Tournier-Michel_Sept-contes,1990,tournier michel,sept contes,canon,male,1924,2016,littérature jeunesse,prive
+0.0,0.02,0.04,0.0,0.0,0.0,0.0,1845_Balzac-Honore-de_Massimilla-Doni,1845,balzac honore de,massimilla doni,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.0,0.01,0.0,0.0,0.0,1911_Leroux-Gaston_Un-homme-dans-la-nuit,1911,leroux gaston,un homme dans la nuit,non_canon,male,1868,1927,policier,publique
+0.0,0.01,0.06,0.01,0.01,0.0,0.01,1975_Tournier-Michel_Les-Meteores,1975,tournier michel,les meteores,canon,male,1924,2016,roman d'aventures,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1881_Laurie-Andre_Memoires-d-un-collegien,1881,laurie andre,memoires d un collegien,non_canon,male,1844,1909,littérature jeunesse,publique
+0.0,0.01,0.12,0.0,0.0,0.0,0.0,1901_Soboleska-Mme_Les-Bonnes-idees-de-Mlle-Rose_Les-Enfants-au-ballon-elastique,1901,soboleska mme,les bonnes idees de mlle rose,non_canon,female,1853,1907,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1894_Chabrillat-Henri-de_Les-cinq-sous-de-Lavarede,1894,chabrillat henri de,les cinq sous de lavarede,non_canon,male,1842,1893,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1922_Rolland-Romain_L-ame-enchantee-Annette-et-Sylvie_Volume-1,1922,rolland romain,l ame enchantee annette et sylvie,canon,male,1866,1944,cycles et séries,publique
+0.0,0.01,0.03,0.0,0.0,0.0,0.0,2013_Lemaitre-Pierre_Au-revoir-la-haut,2013,lemaitre pierre,au revoir la haut,non_canon,male,1951,2???,roman historique,prive
+0.0,0.0,0.03,0.02,0.0,0.01,0.01,1908_France-Anatole_L_Ile-Des-Pingouins,1908,france anatole,l,canon,male,1844,1924,roman historique,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1884_Ferry-Gabriel_Le-coureur-des-bois-ou-les-chercheurs-d'or_1,1884,ferry gabriel,le coureur des bois ou les chercheurs d'or,non_canon,male,1809,1852,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1846_Feval-Paul_La-Quittance-de-minuit_Tome-I-L-heritiere,1846,feval paul,la quittance de minuit,non_canon,male,1816,1887,roman historique,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1878_Gaboriau-Emile_Le-capitaine-Coutanceau,1878,gaboriau emile,le capitaine coutanceau,non_canon,male,1832,1873,roman d'aventures,publique
+0.0,0.0,0.04,0.0,0.0,0.0,0.02,1909_Ivoi-Paul-d-_L-Espion-X-323_Volume-I-L-Homme-sans-visage,1909,ivoi paul d ,l espion x 323,non_canon,male,1856,1915,roman d'aventures,publique
+0.0,0.03,0.04,0.0,0.0,0.0,0.04,1984_Daeninckx-Didier_Le-der-des-ders,1984,daeninckx didier,le der des ders,canon,male,1949,20--,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1904_Rolland-Romain_Jean-Christophe_Tome-II-Le-matin,1904,rolland romain,jean christophe,canon,male,1866,1944,cycles et séries,publique
+0.0,0.16,0.46,0.05,0.0,0.0,0.09,1843_Woillez-Catherine_Leontine-et-Marie-ou-les-Deux-educations,1843,woillez catherine,leontine et marie ou les deux educations,non_canon,female,1781,1859,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1885_Boisgobey-Fortune-du_La-voilette-bleue,1885,boisgobey fortune du,la voilette bleue,non_canon,male,1821,1891,policier,publique
+0.0,0.0,0.01,0.01,0.0,0.0,0.03,1887_Zola-Emile_La-terre,1887,zola emile,la terre,canon,male,1840,1902,cycles et séries,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1868_Gouraud-Julie_L-Enfant-du-guide,1868,gouraud julie,l enfant du guide,non_canon,female,1810,1891,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1904_Rolland-Romain_Jean-Christophe_Tome-III-L-adolescent,1904,rolland romain,jean christophe,canon,male,1866,1944,cycles et séries,publique
+0.0,0.0,0.02,0.02,0.0,0.0,0.03,1850_Dumas-Alexandre_Le-Vicomte-de-Bragelonne,1850,dumas alexandre,le vicomte de bragelonne,canon,male,1802,1870,roman historique,publique
+0.0,0.01,0.02,0.0,0.0,0.0,0.01,1878_Aimard-Gustave-Auriac-Jules-Berlioz-d_L-Aigle-Noir-des-Dacotahs,1878,aimard gustave auriac jules berlioz d,l aigle noir des dacotahs,non_canon,male,1818,1883,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1890_Zola-Emile_La-bete-humaine,1890,zola emile,la bete humaine,canon,male,1840,1902,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1903_Vogue-Eugene-Melchior-de_Le-Maitre-de-la-mer,1903,vogue eugene melchior de,le maitre de la mer,non_canon,male,1848,1910,roman d'aventures,publique
+0.0,0.05,0.26,0.06,0.01,0.0,0.07,1878_Gouraud-Julie_Cousine-Marie,1878,gouraud julie,cousine marie,non_canon,female,1810,1891,littérature jeunesse,publique
+0.0,0.01,0.01,0.01,0.0,0.0,0.01,1928_Montorgueil-Georges_La-Vie-extraordinaire-de-Robert-Macaire,1928,montorgueil georges,la vie extraordinaire de robert macaire,non_canon,male,1857,1933,roman d'aventures,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1876_Chazel-Prosper_Le-Chalet-des-sapins,1876,chazel prosper,le chalet des sapins,non_canon,male,1845,1886,littérature jeunesse,publique
+0.0,0.02,0.06,0.01,0.0,0.0,0.0,1925_Leroux-Gaston_Les-Tenebreuses_2,1925,leroux gaston,les tenebreuses,non_canon,male,1868,1927,policier,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.02,1878_Berthet-Elie_Les-Petits-ecoliers-dans-les-cinq-parties-du-monde,1878,berthet elie,les petits ecoliers dans les cinq parties du monde,non_canon,male,1815,1891,littérature jeunesse,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.01,1910_Zevaco-Michel_La-Cour-des-miracles,1910,zevaco michel,la cour des miracles,non_canon,male,1860,1918,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1934_Simenon-Georges_Maigret,1934,simenon georges,maigret,canon,male,1903,1989,policier,prive
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1957_Boileau-Narcejac_Les-magiciennes,1957,boileau narcejac,les magiciennes,non_canon,male,1906,1989,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1856_Nerval-Gerard-de_Le-Marquis-de-Fayolle,1856,nerval gerard de,le marquis de fayolle,canon,male,1808,1855,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1970_Simenon-Georges_La-folle-de-Maigret,1970,simenon georges,la folle de maigret,canon,male,1903,1989,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1897_Ivoi-Paul-d-_Cousin-de-Lavarede-,1897,ivoi paul d ,cousin de lavarede ,non_canon,male,1856,1915,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1987_Daeninckx-Didier_Lumiere-noire,1987,daeninckx didier,lumiere noire,canon,male,1949,20--,policier,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.02,1880_Debans-Camille_Les-Drames-a-toute-vapeur,1880,debans camille,les drames a toute vapeur,non_canon,male,1834,1910,nouvelles,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1995_Echenoz-Jean_Les-Grandes-Blondes,1995,echenoz jean,les grandes blondes,canon,male,1947,20--,policier,prive
+0.0,0.02,0.18,0.01,0.0,0.0,0.0,1854_Barbey-d-Aurevilly-Jules_L-ensorcelee,1854,barbey d aurevilly jules,l ensorcelee,canon,male,1808,1889,roman historique,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1912_Pergaud-Louis_La-Guerre-des-boutons,1912,pergaud louis,la guerre des boutons,non_canon,male,1882,1915,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1869_Gaboriau-Emile_Monsieur-Lecoq_I,1869,gaboriau emile,monsieur lecoq,non_canon,male,1832,1873,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1989_Echenoz-Jean_Lac,1989,echenoz jean,lac,canon,male,1947,20--,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1886_Loti-Pierre_Pecheur-d-Islande,1886,loti pierre,pecheur d islande,canon,male,1850,1923,roman d'aventures,publique
+0.0,0.0,0.14,0.0,0.0,0.0,0.0,2003_Grange-Jean-Christophe_L-empire-des-loups,2003,grange jean christophe,l empire des loups,non_canon,male,1961,20--,policier,prive
+0.0,0.02,0.05,0.0,0.0,0.0,0.0,1861_Veilles-comtesse-de_Sagesse-et-bonte-livre-des-jeunes-personnes,1861,veilles comtesse de,sagesse et bonte livre des jeunes personnes,non_canon,female,1???,1???,littérature jeunesse,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1862_Segur-comtesse-de_La-soeur-de-Gribouille,1862,segur comtesse de,la soeur de gribouille,non_canon,female,1799,1874,littérature jeunesse,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1850_Sue-Eugene_Les-Mysteres-du-peuple_Tome-V,1850,sue eugene,les mysteres du peuple,canon,male,1804,1857,roman historique,publique
+0.0,0.0,0.0,0.01,0.0,0.0,0.0,1863_Verne-Jules_Cinq-Semaines-en-ballon,1863,verne jules,cinq semaines en ballon,canon,male,1828,1905,roman d'aventures,publique
+0.0,0.0,0.04,0.0,0.0,0.0,0.0,1988_Orsenna-Erik_L-exposition-coloniale,1988,orsenna erik,l exposition coloniale,non_canon,male,1947,20--,roman historique,prive
+0.0,0.0,0.02,0.0,0.0,0.0,0.02,1931_Simenon-Georges_La-danseuse-du-Gai-Moulin,1931,simenon georges,la danseuse du gai moulin,canon,male,1903,1989,policier,prive
+0.0,0.0,0.03,0.0,0.0,0.0,0.0,1900_Colette_Claudine-a-l-ecole,1900,colette,claudine a l ecole,canon,female,1873,1954,cycles et séries,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,2012_Grange-Jean-Christophe_Kaiken,2012,grange jean christophe,kaiken,non_canon,male,1961,20--,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1878_Bouvier-Alexis_La-Grande-Iza,1878,bouvier alexis,la grande iza,non_canon,male,1836,1892,roman d'aventures,publique
+0.0,0.0,0.14,0.0,0.0,0.0,0.02,1845_Dumas-Alexandre_Histoire-d-un-Casse-noisette,1845,dumas alexandre,histoire d un casse noisette,canon,male,1802,1870,littérature jeunesse,publique
+0.0,0.0,0.06,0.0,0.0,0.0,0.0,1900_Chabrier-Rieder-Charlotte_Les-epreuves-de-Charlotte,1900,chabrier rieder charlotte,les epreuves de charlotte,non_canon,female,1865,1935,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1878_Lemoine_La-Guerre-pendant-les-vacances-recit-d-un-vieux-soldat,1878,lemoine,la guerre pendant les vacances recit d un vieux soldat,non_canon,,1???,1???,littérature jeunesse,prive
+0.0,0.02,0.03,0.01,0.0,0.0,0.01,1861_Rocca-Maria-della_Le-Roman-d-une-femme-laide,1861,rocca maria della,le roman d une femme laide,non_canon,female,????,????,nouvelles,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1893_Marie-Delorme_Les-Filles-du-clown,1893,marie delorme,les filles du clown,non_canon,female,1836,1906,littérature jeunesse,publique
+0.0,0.01,0.01,0.01,0.0,0.0,0.01,1855_Balzac-Honore-de_Les-Petits-Bourgeois,1855,balzac honore de,les petits bourgeois,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.03,0.01,0.0,0.0,0.0,1936_Montherlant-Henry-de_Les-jeunes-filles,1936,montherlant henry de,les jeunes filles,canon,male,1895,1972,cycles et séries,prive
+0.0,0.0,0.02,0.01,0.0,0.0,0.01,1895_Allais-Alphonse_Deux-et-deux-font-cinq,1895,allais alphonse,deux et deux font cinq,non_canon,male,1854,1905,nouvelles,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1883_Pont-Jest-Rene-de_La-Femme-de-cire,1883,pont jest rene de,la femme de cire,non_canon,male,1829,1904,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1843_Balzac-Honore-de_Ursule-Mirouet,1843,balzac honore de,ursule mirouet,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1926_Galopin-Arnould_La-tenebreuse-affaire-de-Green-Park,1926,galopin arnould,la tenebreuse affaire de green park,non_canon,male,1863,1934,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1889_Mary-Jules_La-Revanche-de-Roger-la-honte_Tome-II,1889,mary jules,la revanche de roger la honte,non_canon,male,1851,1922,policier,publique
+0.0,0.02,0.05,0.0,0.0,0.0,0.01,1936_Aragon-Louis_Les-Beaux-Quartiers,1936,aragon louis,les beaux quartiers,canon,male,1897,1942,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1999_Vargas-Fred_L-homme-a-l-envers,1999,vargas fred,l homme a l envers,non_canon,female,1957,20--,policier,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1957_Nemirovsky-Irene_Les-Feux-de-l-automne,1957,nemirovsky irene,les feux de l automne,non_canon,female,1903,1942,roman historique,publique
+0.0,0.02,0.11,0.05,0.02,0.0,0.02,1873_Sannois-Comtesse-de_Les-Soirees-a-la-maison,1873,sannois comtesse de,les soirees a la maison,non_canon,female,1???,1???,littérature jeunesse,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.02,1883_Guy-de-Maupassant_Contes-de-la-Becasse,1883,guy de maupassant,contes de la becasse,canon,male,1850,1893,nouvelles,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1876_Montepin-Xavier-de_Le-Ventriloque-Le-mari-et-l-amant,1876,montepin xavier de,le ventriloque le mari et l amant,non_canon,male,1823,1902,cycles et séries,publique
+0.0,0.04,0.07,0.03,0.01,0.0,0.07,1879_Navery-Raoul-de_La-Fille-du-roi-Dagobert,1879,navery raoul de,la fille du roi dagobert,non_canon,female,1829,1885,nouvelles,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1978_Yourcenar-Marguerite_Nouvelles-Orientales,1978,yourcenar marguerite,nouvelles orientales,canon,female,1903,1987,nouvelles,prive
+0.0,0.0,0.05,0.02,0.01,0.01,0.0,1877_Rosary-Eugene_Le-Journal-d-une-jeune-fille,1877,rosary eugene,le journal d une jeune fille,non_canon,male,unknown,unknown,roman historique,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1848_Balzac-Honore-de_Les-Parents-pauvres-Le-Cousin-Pons,1848,balzac honore de,les parents pauvres le cousin pons,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1928_Leroux-Gaston_Les-Mohicans-de-Babel,1928,leroux gaston,les mohicans de babel,non_canon,male,1868,1927,policier,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1878_Dupuis-Eudoxie_Cyprienne-et-Cyprien,1878,dupuis eudoxie,cyprienne et cyprien,non_canon,female,1835,1906,littérature jeunesse,publique
+0.0,0.01,0.03,0.01,0.01,0.0,0.0,1865_Aimard-Gustave_Les-bohemes-de-la-mer,1865,aimard gustave,les bohemes de la mer,non_canon,male,1818,1883,roman d'aventures,publique
+0.0,0.03,0.03,0.01,0.0,0.0,0.01,1923_Larbaud-Valery_Amants-heureux-amants,1923,larbaud valery,amants heureux amants,canon,male,1881,1957,nouvelles,prive
+0.0,0.02,0.03,0.0,0.0,0.0,0.0,2001_Robbe-Grillet-Alain_La-reprise,2001,robbe grillet alain,la reprise,canon,male,1922,2008,roman historique,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1882_Zaccone-Pierre_La-Recluse,1882,zaccone pierre,la recluse,non_canon,male,1818,1895,roman d'aventures,publique
+0.0,0.0,0.06,0.0,0.0,0.0,0.0,1872_Witt-Henriette-de_Scenes-historiques,1872,witt henriette de,scenes historiques,non_canon,female,1829,1908,roman historique,publique
+0.0,0.02,0.02,0.0,0.0,0.0,0.0,1977_A-D-G._Juste-un-rigolo,1977,a d g.,juste un rigolo,non_canon,male,1947,2004,policier,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.01,1842_Balzac-Honore-de_Beatrix,1842,balzac honore de,beatrix,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1951_Simenon-Georges_Maigret-en-meuble,1951,simenon georges,maigret en meuble,canon,male,1903,1989,policier,prive
+0.0,0.0,0.04,0.01,0.01,0.0,0.0,1859_Feval-Paul_La-Maison-de-Pilate,1859,feval paul,la maison de pilate,non_canon,male,1816,1887,roman d'aventures,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1895_Arene-Paul_Le-Midi-bouge,1895,arene paul,le midi bouge,non_canon,male,1843,1896,nouvelles,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.0,1899_Mirbeau-Octave_Le-Jardin-des-supplices,1899,mirbeau octave,le jardin des supplices,canon,male,1848,1917,roman historique,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.02,1901_Colette_Claudine-a-Paris,1901,colette,claudine a paris,canon,female,1873,1954,cycles et séries,prive
+0.0,0.0,0.04,0.0,0.0,0.0,0.0,1933_Duhamel-Georges_Le-notaire-du-Havre,1933,duhamel georges,le notaire du havre,canon,male,1884,1966,cycles et séries,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1907_Mael-Pierre_Le-Forban-noir,1907,mael pierre,le forban noir,non_canon,male,1895,1895,littérature jeunesse,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1931_Simenon-Georges_La-Guinguette-a-deux-sous,1931,simenon georges,la guinguette a deux sous,canon,male,1903,1989,policier,prive
+0.0,0.01,0.02,0.0,0.0,0.0,0.01,1972_Gary-Romain_Europa,1972,gary romain,europa,canon,male,1914,1980,roman d'aventures,prive
+0.0,0.01,0.02,0.02,0.0,0.0,0.0,1891_Allais-Alphonse_a-se-tordre,1891,allais alphonse,a se tordre,non_canon,male,1854,1905,nouvelles,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.01,1860_Dumas-Alexandre_L-Horoscope,1860,dumas alexandre,l horoscope,canon,male,1802,1870,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1912_Rolland-Romain_Jean-Christophe_Tome-X-La-nouvelle-journee,1912,rolland romain,jean christophe,canon,male,1866,1915,cycles et séries,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.01,1876_Montepin-Xavier-de_Le-Ventriloque-La-femme-du-Prussien,1876,montepin xavier de,le ventriloque la femme du prussien,non_canon,male,1823,1902,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1859_Saintine-X-B._Metamorphoses-de-la-femme,1859,saintine x b.,metamorphoses de la femme,non_canon,male,1789,1865,nouvelles,publique
+0.0,0.0,0.04,0.0,0.0,0.0,0.01,1878_Chevalier-H-Emile_Le-gibet,1878,chevalier h emile,le gibet,non_canon,male,1828,1879,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1861_Segur-comtesse-de_Pauvre-Blaise,1861,segur comtesse de,pauvre blaise,non_canon,female,1799,1874,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1925_Istrati-Panait_Les-recits-d-Adrien-Zograffi_III,1925,istrati panait,les recits d adrien zograffi,non_canon,male,1884,1935,roman d'aventures,publique
+0.0,0.0,0.01,0.02,0.01,0.0,0.01,1855_Dumas-Alexandre_Le-page-du-duc-de-Savoie_II,1855,dumas alexandre,le page du duc de savoie,canon,male,1802,1870,roman d'aventures,publique
+0.0,0.03,0.12,0.02,0.01,0.0,0.0,1878_Zola-Emile_Une-page-d-amour,1878,zola emile,une page d amour,canon,male,1840,1902,cycles et séries,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1960_Delly_Le-feu-sous-la-glace,1960,delly,le feu sous la glace,non_canon,female,1875,1947,roman d'aventures,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.0,1853_Sand-George_Les-maitres-sonneurs,1853,sand george,les maitres sonneurs,canon,female,1804,1876,roman historique,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1862_Chevalier-H-Emile_Les-Nez-Perces,1862,chevalier h emile,les nez perces,non_canon,male,1828,1879,roman d'aventures,publique
+0.0,0.02,0.04,0.0,0.0,0.01,0.0,1878_Calonne-Alphonse-de_La-Ferme-des-moines,1878,calonne alphonse de,la ferme des moines,non_canon,male,1818,1902,nouvelles,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1955_Dhotel-Andre_Le-pays-ou-l-on-n-arrive-jamais,1955,dhotel andre,le pays ou l on n arrive jamais,canon,male,1900,1991,littérature jeunesse,prive
+0.0,0.0,0.04,0.0,0.0,0.0,0.0,1874_Feval-Paul_Le-dernier-vivant,1874,feval paul,le dernier vivant,non_canon,male,1816,1887,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1883_Zola-Emile_Au-bonheur-des-dames,1883,zola emile,au bonheur des dames,canon,male,1840,1902,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1874_Stolz-Madame-de_Les-Poches-de-mon-oncle,1874,stolz madame de,les poches de mon oncle,non_canon,female,1820,1898,littérature jeunesse,publique
+0.0,0.01,0.02,0.0,0.0,0.0,0.0,1921_Proust-Marcel_Le-Cote-de-Guermantes,1921,proust marcel,le cote de guermantes,canon,male,1871,1922,cycles et séries,publique
+0.0,0.0,0.04,0.01,0.0,0.0,0.0,1932_Simenon-Georges_Chez-les-Flamands,1932,simenon georges,chez les flamands,canon,male,1903,1989,policier,prive
+0.0,0.01,0.06,0.0,0.0,0.0,0.01,1845_Balzac-Honore-de_La-Recherche-de-l-Absolu,1845,balzac honore de,la recherche de l absolu,canon,male,1799,1850,cycles et séries,publique
+0.0,0.09,0.49,0.02,0.0,0.0,0.16,1891_Witt-Henriette-de_La-Petite-fille-aux-grand-meres,1891,witt henriette de,la petite fille aux grand meres,non_canon,female,1829,1908,littérature jeunesse,publique
+0.0,0.01,0.02,0.0,0.0,0.0,0.0,1875_Mirabeau-Marie-Le-Harivel-de-Gonneville_Ctesse-de-Mirabeau-Jane-et-Germaine-Voyages-d-un-capitaine,1875,mirabeau marie le harivel de gonneville,ctesse de mirabeau jane et germaine voyages d un capitaine,non_canon,female,1827,1916,littérature jeunesse,publique
+0.0,0.01,0.03,0.0,0.0,0.0,0.02,1921_Proust-Marcel_Sodome-et-Gomorrhe,1921,proust marcel,sodome et gomorrhe,canon,male,1871,1922,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1849_Berthoud-Henry_Les-Filleules-de-Rubens_Tome-I,1849,berthoud henry,les filleules de rubens,non_canon,male,1804,1891,roman historique,publique
+0.0,0.02,0.08,0.0,0.0,0.0,0.02,1859_Inconnu_Les-soirees-du-pere-Laurent,1859,inconnu,les soirees du pere laurent,non_canon,,1???,1???,nouvelles,prive
+0.0,0.0,0.04,0.0,0.0,0.0,0.0,1960_Pagnol-Marcel_Le-Temps-des-Secrets,1960,pagnol marcel,le temps des secrets,non_canon,male,1895,1974,littérature jeunesse,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1834_Arlincourt-Charles-Victor_Le-brasseur-roi_tome-2,1834,arlincourt charles victor,le brasseur roi,non_canon,male,1788,1856,roman historique,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1923_Leblanc-Maurice_Dorothee-danseuse-de-corde,1923,leblanc maurice,dorothee danseuse de corde,non_canon,male,1864,1941,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1909_Zevaco-Michel_Le-Pont-des-soupirs,1909,zevaco michel,le pont des soupirs,non_canon,male,1860,1918,roman d'aventures,publique
+0.0,0.0,0.08,0.02,0.0,0.0,0.0,1882_Verly-Hippolyte_Spada-la-Rapiere,1882,verly hippolyte,spada la rapiere,non_canon,male,1838,1916,roman historique,publique
+0.0,0.0,0.01,0.01,0.0,0.0,0.0,1947_Vian-Boris_Les-morts-ont-tous-la-meme-peau,1947,vian boris,les morts ont tous la meme peau,canon,male,1920,1959,policier,prive
+0.0,0.0,0.1,0.0,0.0,0.0,0.0,1875_Legouve-Ernest_Nos-filles-et-nos-fils-scenes-et-etudes-de-famille,1875,legouve ernest,nos filles et nos fils scenes et etudes de famille,non_canon,male,1807,1903,littérature jeunesse,publique
+0.0,0.06,0.1,0.03,0.0,0.0,0.05,1903_Huysmans-Joris-Karl_L'Oblat,1903,huysmans joris karl,l'oblat,canon,male,1848,1907,cycles et séries,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1881_Erckmann-Chatrian_Les-Vieux-de-la-Vieille-Justine-et-Lucien.,1881,erckmann chatrian,les vieux de la vieille justine et lucien.,non_canon,male,1826,1890,littérature jeunesse,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1956_Delly_Hoelle-aux-yeux-pers,1956,delly,hoelle aux yeux pers,non_canon,female,1875,1947,roman d'aventures,publique
+0.0,0.02,0.04,0.0,0.0,0.0,0.0,1876_Huysmans-Joris-Karl_Marthe-et-autres-nouvelles,1876,huysmans joris karl,marthe et autres nouvelles,canon,male,1848,1907,nouvelles,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1877_Zola-Emile_L-assommoir,1877,zola emile,l assommoir,canon,male,1840,1902,cycles et séries,publique
+0.0,0.01,0.05,0.01,0.01,0.0,0.0,1882_Hervilly-Ernest-d-_Parisienneries,1882,hervilly ernest d ,parisienneries,non_canon,male,1839,1911,nouvelles,publique
+0.0,0.01,0.04,0.0,0.0,0.0,0.01,1873_Pressense-Elise-de_Un-petit-monde-d-enfants,1873,pressense elise de,un petit monde d enfants,non_canon,female,1826,1901,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1986_Kristof-Agota_Le-Grand-Cahier,1986,kristof agota,le grand cahier,non_canon,female,1935,2011,littérature jeunesse,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1873_Gaboriau-Emile_La-corde-au-cou,1873,gaboriau emile,la corde au cou,non_canon,male,1832,1873,policier,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1880_Debans-Camille_La-Peau-du-mort,1880,debans camille,la peau du mort,non_canon,male,1834,1910,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1862_Flaubert-Gustave_Salammbo,1862,flaubert gustave,salammbo,canon,male,1821,1880,roman historique,publique
+0.0,0.04,0.05,0.0,0.0,0.0,0.03,1912_France-Anatole_Les-Dieux-ont-soif,1912,france anatole,les dieux ont soif,canon,male,1844,1924,roman historique,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,2004_Grange-Jean-Christophe_La-Ligne-noire,2004,grange jean christophe,la ligne noire,non_canon,male,1961,2004,policier,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1857_La-Rounat-Charles-de_La-Comedie-de-l-amour,1857,la rounat charles de,la comedie de l amour,non_canon,male,1818,1884,nouvelles,publique
+0.0,0.03,0.08,0.0,0.0,0.0,0.04,1895_France-Anatole_Le-Puit-de-Sainte-Claire,1895,france anatole,le puit de sainte claire,canon,male,1844,1924,nouvelles,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,2002_Gaude-Laurent_La-Mort-du-roi-Tsongor,2002,gaude laurent,la mort du roi tsongor,non_canon,male,1972,20--,roman historique,prive
+0.0,0.01,0.02,0.01,0.01,0.0,0.01,1840_Granier-de-Cassagnac-Adolphe_Danae,1840,granier de cassagnac adolphe,danae,non_canon,male,1806,1880,roman historique,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.01,1934_Duhamel-Georges_Vue-de-la-terre-promise,1934,duhamel georges,vue de la terre promise,canon,male,1884,1966,cycles et séries,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1973_Vautrin-Jean_a-Bulletins-Rouges,1973,vautrin jean,a bulletins rouges,non_canon,male,1933,2015,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1868_Zaccone-Pierre_Le-Courrier-de-Lyon,1868,zaccone pierre,le courrier de lyon,non_canon,male,1818,1895,roman historique,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1843_Balzac-Honore-de_Histoire-des-Treize-et-La-Fille-aux-yeux-d’or,1843,balzac honore de,histoire des treize et la fille aux yeux d’or,canon,male,1799,1850,cycles et séries,publique
+0.0,0.04,0.14,0.03,0.01,0.0,0.02,1847_Collin-de-Plancy-Jacques_Legende-du-Juif-Errant,1847,collin de plancy jacques,legende du juif errant,non_canon,male,1794,1881,roman historique,publique
+0.0,0.01,0.02,0.01,0.01,0.0,0.0,2008_Grange-Jean-Christophe_Miserere,2008,grange jean christophe,miserere,non_canon,male,1961,20--,policier,prive
+0.0,0.02,0.03,0.01,0.0,0.0,0.02,1980_Tournier-Michel_Gaspard-Melchior-Et-Balthazar,1980,tournier michel,gaspard melchior et balthazar,canon,male,1924,2016,roman historique,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.02,1843_Sand-George_La-Comtesse-de-Rudolstadt,1843,sand george,la comtesse de rudolstadt,canon,female,1804,1876,roman d'aventures,publique
+0.0,0.01,0.02,0.0,0.0,0.01,0.01,1867_Pressense-Elise-de_Deux-ans-au-lycee,1867,pressense elise de,deux ans au lycee,non_canon,female,1826,1901,littérature jeunesse,publique
+0.0,0.02,0.06,0.03,0.0,0.0,0.01,1973_Barjavel-Rene_Le-Grand-Secret,1973,barjavel rene,le grand secret,non_canon,male,1911,1985,roman d'aventures,prive
+0.0,0.01,0.08,0.0,0.0,0.0,0.01,1857_Soulie-Frederic_Le-Magnetiseur,1857,soulie frederic,le magnetiseur,non_canon,male,1800,1847,roman historique,publique
+0.0,0.01,0.05,0.01,0.01,0.0,0.01,1863_Nyon-Eugene_La-Reine-de-Jerusalem,1863,nyon eugene,la reine de jerusalem,non_canon,male,1812,1870,roman historique,publique
+0.0,0.0,0.02,0.01,0.01,0.0,0.0,1882_Sarcey-Francisque_Les-Miseres-d-un-fonctionnaire-chinois,1882,sarcey francisque,les miseres d un fonctionnaire chinois,non_canon,male,1827,1899,nouvelles,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1893_Malot-Hector_En-Famille,1893,malot hector,en famille,non_canon,male,1830,1907,littérature jeunesse,publique
+0.0,0.0,0.03,0.01,0.0,0.0,0.01,1885_Bazin-Rene_Ma-tante-Giron,1885,bazin rene,ma tante giron,non_canon,male,1853,1932,littérature jeunesse,publique
+0.0,0.0,0.01,0.01,0.01,0.0,0.0,1859_Ponson-du-Terrail-Pierre_Les-Exploits-de-Rocambole_Tome-II-La-Mort-du-sauvage,1859,ponson du terrail pierre,les exploits de rocambole,non_canon,male,1829,1871,roman d'aventures,publique
+0.0,0.02,0.02,0.01,0.01,0.0,0.0,1894_Noussanne-Henri-de_Jasmin-Robba,1894,noussanne henri de,jasmin robba,non_canon,male,1865,1936,nouvelles,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1878_Malot-Hector_Sans-famille,1878,malot hector,sans famille,non_canon,male,1878,1878,roman d'aventures,publique
+0.0,0.02,0.05,0.0,0.0,0.0,0.02,1863_Solms-Marie-de_Mademoiselle-Million,1863,solms marie de,mademoiselle million,non_canon,female,1831,1902,nouvelles,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.0,1843_Balzac-Honore-de_Histoire-des-Treize,1843,balzac honore de,histoire des treize,canon,male,1799,1850,cycles et séries,publique
+0.0,0.01,0.07,0.02,0.01,0.0,0.01,1878_Houssaye-Arsene_Les-Trois-duchesses_Tome-1,1878,houssaye arsene,les trois duchesses,non_canon,male,1814,1896,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1872_Feval-Paul_Les-Compagnons-du-tresor-Les-Habits-Noirs_Tome-VII,1872,feval paul,les compagnons du tresor les habits noirs,non_canon,male,1816,1887,roman historique,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1964_Simenon-Georges_La-patience-de-Maigret,1964,simenon georges,la patience de maigret,canon,male,1903,1989,policier,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1821_Arlincourt-Charles-Victor_Le-Solitaire,1821,arlincourt charles victor,le solitaire,non_canon,male,1788,1856,roman historique,publique
+0.0,0.04,0.12,0.0,0.0,0.0,0.02,1884_Badin-Adolphe_Couloirs-et-coulisses,1884,badin adolphe,couloirs et coulisses,non_canon,male,1884,1884,nouvelles,publique
+0.0,0.02,0.03,0.0,0.0,0.0,0.0,1863_Feval-Paul_La-Fille-du-Juif-Errant,1863,feval paul,la fille du juif errant,non_canon,male,1816,1887,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1953_Simenon-Georges_Maigret-a-peur,1953,simenon georges,maigret a peur,canon,male,1903,1989,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1890_Pont-Jest-Rene-de_Le-Fleuve-des-perles,1890,pont jest rene de,le fleuve des perles,non_canon,male,1830,1904,policier,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1860_Vie-Anduze-Henri_Dernier-amour-de-Cinq-Mars-roman-historique,1860,vie anduze henri,dernier amour de cinq mars roman historique,non_canon,male,1???,1???,roman historique,prive
+0.0,0.01,0.01,0.02,0.0,0.0,0.01,1896_Soboleska-Mme_Siribeddi-memoires-d-un-elephant,1896,soboleska mme,siribeddi memoires d un elephant,non_canon,female,1840,1907,littérature jeunesse,publique
+0.0,0.0,0.0,0.01,0.0,0.0,0.0,1866_Ponson-du-Terrail-Pierre_La-Resurrection-de-Rocambole_Tome-III-Redemption-La-Vengeance-de-Vasilika,1866,ponson du terrail pierre,la resurrection de rocambole,non_canon,male,1865,1865,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1868_Ponson-du-Terrail-Pierre_Rocambole-Les-Miseres-de-Londre_Tome-III-La-Cage-aux-oiseaux,1868,ponson du terrail pierre,rocambole les miseres de londre,non_canon,male,1829,1871,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1955_Ikor-Roger_Les-eaux-melees,1955,ikor roger,les eaux melees,non_canon,male,1912,1986,roman historique,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1851_Sue-Eugene_Les-Mysteres-du-peuple_Tome-VI,1851,sue eugene,les mysteres du peuple,canon,male,1804,1857,roman historique,publique
+0.0,0.02,0.03,0.0,0.0,0.0,0.02,1867_Taulier-Jules_Les-Deux-petits-Robinsons-de-la-Grande-Chartreuse,1867,taulier jules,les deux petits robinsons de la grande chartreuse,non_canon,male,1808,18--,roman historique,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1910_Leblanc-Maurice_813,1910,leblanc maurice,813,non_canon,male,1864,1941,policier,publique
+0.0,0.04,0.05,0.0,0.0,0.0,0.02,1824_Beaufort-d-Hautpoul-Anne-Marie-de_Le-Page-et-la-romance_tome-3,1824,beaufort d hautpoul anne marie de,le page et la romance,non_canon,female,1763,1837,roman historique,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1997_Echenoz-Jean_Un-an,1997,echenoz jean,un an,canon,male,1947,20--,policier,prive
+0.0,0.0,0.02,0.0,0.0,0.0,0.01,1954_Simonin-Albert_Le-cave-se-rebiffe,1954,simonin albert,le cave se rebiffe,non_canon,male,1905,1980,policier,prive
+0.0,0.02,0.08,0.02,0.01,0.0,0.0,1867_Dumas-Alexandre_Les-Blancs-et-les-Bleus,1867,dumas alexandre,les blancs et les bleus,canon,male,1802,1870,roman historique,publique
+0.0,0.01,0.03,0.0,0.0,0.0,0.0,1923_Martin-du-Gard-Roger_Les-Thibault_Tome-III-La-Belle-Saison,1923,martin du gard roger,les thibault,canon,male,1881,1958,cycles et séries,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1880_Fleuriot-Zenaide_Tranquille-et-Tourbillon,1880,fleuriot zenaide,tranquille et tourbillon,non_canon,female,1829,1890,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1854_Dumas-Alexandre_Les-Mohicans-de-Paris_1,1854,dumas alexandre,les mohicans de paris,canon,male,1802,1870,roman d'aventures,publique
+0.0,0.03,0.04,0.02,0.02,0.02,0.0,1922_Morand-Paul_Ouvert-la-nuit,1922,morand paul,ouvert la nuit,canon,male,1888,1976,nouvelles,prive
+0.0,0.05,0.21,0.02,0.0,0.0,0.0,1890_Hameau-Louise_Mademoiselle-Pourquoi,1890,hameau louise,mademoiselle pourquoi,non_canon,female,1837,1909,littérature jeunesse,publique
+0.0,0.01,0.02,0.01,0.0,0.0,0.0,1950_Nimier-Roger_Le-Hussard-Bleu,1950,nimier roger,le hussard bleu,canon,male,1925,1962,roman historique,prive
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1861_Gondrecourt-Aristide-de_Le-Pays-de-la-peur_Tome-2,1861,gondrecourt aristide de,le pays de la peur,non_canon,male,1815,1876,roman d'aventures,publique
+0.0,0.0,0.06,0.01,0.0,0.0,0.0,1843_Balzac-Honore-de_Eugenie-Grandet,1843,balzac honore de,eugenie grandet,canon,male,1799,1850,cycles et séries,publique
+0.0,0.01,0.23,0.02,0.0,0.0,0.01,2008_Lemaitre-Pierre_Robe-de-Marie,2008,lemaitre pierre,robe de marie,non_canon,male,1951,20--,policier,prive
+0.0,0.0,0.04,0.0,0.0,0.0,0.0,1864_Ribelle-Charles-de_Les-Confidences-de-Gribouille,1864,ribelle charles de,les confidences de gribouille,non_canon,female,18..,18..,littérature jeunesse,prive
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1896_Laurie-Andre_La-Vie-de-college-dans-tous-les-temps-et-dans-tous-les-pays,1896,laurie andre,la vie de college dans tous les temps et dans tous les pays,non_canon,male,1844,1909,littérature jeunesse,publique
+0.0,0.0,0.02,0.02,0.01,0.0,0.01,1876_Delpit-Albert_Jean-nu-pieds-chronique-de-1832_volume-2,1876,delpit albert,jean nu pieds chronique de 1832,non_canon,male,1849,1893,roman d'aventures,publique
+0.0,0.0,0.04,0.0,0.0,0.0,0.0,1925_Leroux-Gaston_Les-Tenebreuses_1,1925,leroux gaston,les tenebreuses,non_canon,male,1868,1927,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1912_Leblanc-Maurice_Le-Bouchon-de-cristal,1912,leblanc maurice,le bouchon de cristal,non_canon,male,1864,1941,policier,publique
+0.0,0.03,0.08,0.0,0.0,0.0,0.0,2000_Druon-Maurice_Les-Rois-Maudits,2000,druon maurice,les rois maudits,non_canon,male,1918,2009,roman historique,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1899_France-Anatole_L-anneau-d-amethyste,1899,france anatole,l anneau d amethyste,canon,male,1844,1924,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1971_Tournier-Michel_Vendredi-ou-la-vie-sauvage,1971,tournier michel,vendredi ou la vie sauvage,canon,male,1924,2016,littérature jeunesse,prive
+0.0,0.01,0.03,0.0,0.0,0.0,0.01,1856_Feval-Paul_Madame-Gil-Blas-souvenirs-et-aventures-d-une-femme-de-notre-temps_(Volume-2),1856,feval paul,madame gil blas souvenirs et aventures d une femme de notre temps,non_canon,male,1816,1887,cycles et séries,publique
+0.0,0.02,0.03,0.03,0.02,0.0,0.01,1970_Tournier-Michel_Le-Roi-des-Aulnes,1970,tournier michel,le roi des aulnes,canon,male,1924,2016,roman historique,prive
+0.0,0.0,0.03,0.0,0.0,0.0,0.0,1865_Ponson-du-Terrail-Pierre-Alexis-de_Le-Castel-du-Diable,1865,ponson du terrail pierre alexis de,le castel du diable,non_canon,male,1829,1871,roman historique,publique
+0.0,0.0,0.0,0.01,0.0,0.0,0.0,1894_Cim-Albert_Histoire-d-un-baiser,1894,cim albert,histoire d un baiser,non_canon,male,1845,1924,nouvelles,publique
+0.0,0.0,0.07,0.01,0.0,0.0,0.0,1868_Gaboriau-Emile_Les-Esclaves-de-Paris_Tome-I,1868,gaboriau emile,les esclaves de paris,non_canon,male,1832,1873,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1949_Simenon-Georges_Maigret-chez-le-coroner,1949,simenon georges,maigret chez le coroner,canon,male,1903,1989,policier,prive
+0.0,0.01,0.03,0.01,0.0,0.0,0.02,1870_Houssaye-Arsene_Les-Courtisanes-du-monde_Tome-1,1870,houssaye arsene,les courtisanes du monde,non_canon,male,1814,1896,cycles et séries,publique
+0.0,0.01,0.01,0.01,0.0,0.0,0.0,1910_Cim-Albert_Le-petit-Leveille,1910,cim albert,le petit leveille,non_canon,male,1845,1924,littérature jeunesse,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,2003_Daeninckx-Didier_La-route-du-Rom,2003,daeninckx didier,la route du rom,canon,male,1949,20--,policier,prive
+0.0,0.0,0.03,0.03,0.01,0.0,0.0,1882_Fleuriot-Zenaide_Bouche-en-coeur,1882,fleuriot zenaide,bouche en coeur,non_canon,female,1829,1890,littérature jeunesse,publique
+0.0,0.0,0.1,0.0,0.0,0.0,0.01,1857_Flaubert-Gustave_Madame-Bovary,1857,flaubert gustave,madame bovary,canon,male,1821,1880,,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1874_Colomb-Josephine_Comtes,1874,colomb josephine,comtes,non_canon,female,1833,1892,littérature jeunesse,publique
+0.0,0.0,0.04,0.01,0.0,0.0,0.0,1864_ Verne-Jules_Voyage-au-centre-de-la-Terre,1864, verne jules,voyage au centre de la terre,canon,male,1828,1905,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1878_Greville-Henry_Nouvelles-russes,1878,greville henry,nouvelles russes,non_canon,female,1842,1902,nouvelles,publique
+0.0,0.0,0.03,0.02,0.0,0.0,0.0,1878_Assollant-Alfred_Le-plus-hardi-des-gueux,1878,assollant alfred,le plus hardi des gueux,non_canon,male,1827,1886,littérature jeunesse,publique
+0.0,0.01,0.03,0.0,0.0,0.0,0.0,1931_Simenon-Georges_Au-Rendez-vous-des-Terre-Neuvas,1931,simenon georges,au rendez vous des terre neuvas,canon,male,1903,1989,policier,prive
+0.0,0.01,0.02,0.0,0.0,0.0,0.0,1881_O-Monroy-Richard_Feux-de-paille,1881,o monroy richard,feux de paille,non_canon,male,1849,1916,nouvelles,publique
+0.0,0.01,0.03,0.0,0.0,0.0,0.01,1982_Yourcenar-Marguerite_Comme-l-eau-qui-coule,1982,yourcenar marguerite,comme l eau qui coule,canon,male,1903,1987,roman historique,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1857_Feval-Paul_Les-Compagnons-du-Silence_I,1857,feval paul,les compagnons du silence,non_canon,male,1816,1887,roman d'aventures,publique
+0.0,0.0,0.01,0.01,0.01,0.0,0.01,1867_Marcel-Jeanne_Les-petits-vagabonds,1867,marcel jeanne,les petits vagabonds,non_canon,female,1897,19??,littérature jeunesse,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1959_Simenon-Georges_Une-confidence-de-Maigret,1959,simenon georges,une confidence de maigret,canon,male,1903,1989,policier,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1943_Simenon-Georges_Les-dossiers-de-l-Agence-O,1943,simenon georges,les dossiers de l agence o,canon,male,1903,1989,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1957_Simenon-Georges_Maigret-s-amuse,1957,simenon georges,maigret s amuse,canon,male,1903,1989,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1909_Leblanc-Maurice_L-Aiguille-creuse,1909,leblanc maurice,l aiguille creuse,non_canon,male,1864,1941,policier,publique
+0.0,0.02,0.02,0.02,0.0,0.0,0.01,1888_Assollant-Alfred_Brancas-Les-amours-de-Quaterquem,1888,assollant alfred,brancas les amours de quaterquem,non_canon,male,1827,1886,nouvelles,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1879_Hericault-Charles-d_Ch-d-Hericault-En-1792-Le-Premier-Amour-de-lord-Saint-Albans,1879,hericault charles d,ch d hericault en 1792 le premier amour de lord saint albans,non_canon,male,1823,1899,roman historique,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1918_Leblanc-Maurice_Le-Triangle-d-or,1918,leblanc maurice,le triangle d or,non_canon,male,1864,1941,policier,publique
+0.0,0.09,0.31,0.02,0.01,0.0,0.02,1861_Villars-Fanny_Marie-et-Marguerite-histoire-du-XIIIe-siecle,1861,villars fanny,marie et marguerite histoire du xiiie siecle,non_canon,female,1...,1...,roman historique,prive
+0.0,0.01,0.07,0.0,0.0,0.0,0.0,1859_Segur-comtesse-de_Les-Vacances,1859,segur comtesse de,les vacances,non_canon,female,1799,1874,littérature jeunesse,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.01,1892_Colomb-Josephine_Les-Conquetes-d-Hermine,1892,colomb josephine,les conquetes d hermine,non_canon,female,1833,1892,littérature jeunesse,publique
+0.0,0.0,0.01,0.02,0.0,0.0,0.02,1893_Montegut-Maurice_Madame-Tout-le-monde,1893,montegut maurice,madame tout le monde,non_canon,male,1855,1911,nouvelles,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1857_Dumas-Alexandre_Le-meneur-de-loups,1857,dumas alexandre,le meneur de loups,canon,male,1802,1870,roman d'aventures,publique
+0.0,0.0,0.06,0.0,0.0,0.0,0.02,1931_Leblanc-Maurice_La-Barre-y-va,1931,leblanc maurice,la barre y va,non_canon,male,1864,1941,policier,publique
+0.0,0.01,0.02,0.01,0.01,0.0,0.0,1891_Maquet-Auguste_La-belle-Gabrielle_Tome-3,1891,maquet auguste,la belle gabrielle,non_canon,male,1813,1888,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1881_Vignon-Claude_Une-femme-romanesque-Adrien-Malaret-L-Exemple,1881,vignon claude,une femme romanesque adrien malaret l exemple,non_canon,female,1828,1888,nouvelles,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1944_Simenon-Georges_Les-nouvelles-enquetes-de-Maigret,1944,simenon georges,les nouvelles enquetes de maigret,canon,male,1903,1989,policier,prive
+0.0,0.02,0.05,0.0,0.0,0.0,0.0,1867_Savigny-Laurence-de_Le-Robinson-des-Alpes,1867,savigny laurence de,le robinson des alpes,non_canon,female,1???,1???,littérature jeunesse,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1882_Riviere-Henri_Le-Combat-de-la-vie-La-Jeunesse-d-un-desespere,1882,riviere henri,le combat de la vie la jeunesse d un desespere,non_canon,male,1827,1883,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1889_Dombre-Roger_Folla,1889,dombre roger,folla,non_canon,female,1859,1914,littérature jeunesse,publique
+0.0,0.0,0.03,0.01,0.0,0.0,0.01,1886_Guy-de-Maupassant_Monsieur-Parent,1886,guy de maupassant,monsieur parent,canon,male,1850,1893,nouvelles,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1845_Dumas-Alexandre_Le-batard-de-Mauleon_II,1845,dumas alexandre,le batard de mauleon,canon,male,1802,1870,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1876_Berthet-Elie_Le-Monde-inconnu,1876,berthet elie,le monde inconnu,non_canon,male,1815,1891,nouvelles,publique
+0.0,0.0,0.04,0.0,0.0,0.0,0.0,1834_Suau-de-Varennes-Edouard_Scenes-de-France-et-d-Afrique,1834,suau de varennes edouard,scenes de france et d afrique,non_canon,male,1809,1872,nouvelles,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1899_Boylesve-Rene_Mademoiselle-Clocque,1899,boylesve rene,mademoiselle clocque,non_canon,male,1867,1926,roman historique,publique
+0.0,0.0,0.02,0.01,0.0,0.0,0.0,1833_Girardin-Delphine-de_Contes-d-une-vieille-fille-a-ses-neveux,1833,girardin delphine de,contes d une vieille fille a ses neveux,non_canon,female,1804,1855,littérature jeunesse,publique
+0.0,0.0,0.05,0.0,0.0,0.0,0.01,1905_Renard-Maurice_Fantomes-et-Fantoches,1905,renard maurice,fantomes et fantoches,non_canon,male,1875,1939,nouvelles,publique
+0.0,0.08,0.15,0.02,0.01,0.0,0.07,1908_Dhanys-Marcel_Marcel-Dhanys-Le-Roman-du-grand-Conde,1908,dhanys marcel,marcel dhanys le roman du grand conde,non_canon,female,unknown,unknown,littérature jeunesse,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1848_Sue-Eugene_Le-morne-au-diable,1848,sue eugene,le morne au diable,canon,male,1804,1857,roman d'aventures,publique
+0.0,0.0,0.01,0.01,0.0,0.0,0.0,1985_Villard-Marc_Le-sentier-de-la-guerre,1985,villard marc,le sentier de la guerre,non_canon,male,1947,1985,policier,prive
+0.0,0.0,0.05,0.01,0.0,0.0,0.0,1835_Woillez-Catherine_Le-Robinson-des-demoiselles,1835,woillez catherine,le robinson des demoiselles,non_canon,female,1781,1859,littérature jeunesse,publique
+0.0,0.01,0.01,0.01,0.01,0.0,0.0,1952_Simenon-Georges_Le-revolver-de-Maigret,1952,simenon georges,le revolver de maigret,canon,male,1903,1989,policier,prive
+0.0,0.0,0.01,0.01,0.01,0.0,0.0,1891_Maquet-Auguste_La-belle-Gabrielle_Tome-1,1891,maquet auguste,la belle gabrielle,non_canon,male,1813,1888,roman d'aventures,publique
+0.0,0.0,0.0,0.01,0.01,0.0,0.04,1923_Proust-Marcel_La-Prisonniere,1923,proust marcel,la prisonniere,canon,male,1871,1922,cycles et séries,publique
+0.0,0.02,0.04,0.0,0.0,0.0,0.02,1843_Sand-George_Consuelo,1843,sand george,consuelo,canon,female,1804,1876,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1885_Daudet-Alphonse_Tartarin-sur-les-Alpes,1885,daudet alphonse,tartarin sur les alpes,canon,male,1840,1897,roman d'aventures,publique
+0.0,0.0,0.01,0.01,0.0,0.0,0.0,1879_Houssaye-Arsene_Histoires-romanesques,1879,houssaye arsene,histoires romanesques,non_canon,male,1815,1896,nouvelles,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1984_Daeninckx-Didier_Meurtres-pour-memoire,1984,daeninckx didier,meurtres pour memoire,canon,male,1949,20--,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1878_La-Blanchere-Henri-de_Les-derniers-Peaux-Rouges-Le-tresor-de-Montcalm,1878,la blanchere henri de,les derniers peaux rouges le tresor de montcalm,non_canon,male,1821,1880,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1906_Level-Maurice_L-epouvante,1906,level maurice,l epouvante,non_canon,male,1875,1926,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,2008_Le-Clezio-Jean-Marie-Gustave_Ritournelle-de-la-faim,2008,le clezio jean marie gustave,ritournelle de la faim,canon,male,1940,20--,roman historique,prive
+0.0,0.02,0.04,0.0,0.0,0.0,0.0,1862_Feval-Paul_Jean-Diable_Tome-II,1862,feval paul,jean diable,non_canon,male,1816,1887,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1881_Martignat-Mlle-de_Ginette,1881,martignat mlle de,ginette,non_canon,female,18??,1???,littérature jeunesse,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1835_Chaumier-Simeon_La-Taverniere-de-la-cite,1835,chaumier simeon,la taverniere de la cite,non_canon,male,unknown,unknown,roman historique,prive
+0.0,0.0,0.03,0.0,0.0,0.0,0.01,1893_Vadier-Berthe_Rose-et-Rosette-odyssee-d-une-trop-belle-poupee,1893,vadier berthe,rose et rosette odyssee d une trop belle poupee,non_canon,female,1836,1921,littérature jeunesse,publique
+0.0,0.01,0.04,0.02,0.01,0.0,0.02,1862_Hugo-Victor_Les-Miserables,1862,hugo victor,les miserables,canon,male,1802,1885,,publique
+0.0,0.02,0.03,0.01,0.0,0.0,0.01,1902_Laurie-Andre_Memoires-d-un-collegien-russe,1902,laurie andre,memoires d un collegien russe,non_canon,male,1844,1909,littérature jeunesse,publique
+0.0,0.01,0.02,0.01,0.0,0.0,0.02,1881_Buet-Charles_Histoires-a-dormir-debout,1881,buet charles,histoires a dormir debout,non_canon,male,1846,1897,nouvelles,publique
+0.0,0.02,0.11,0.03,0.0,0.0,0.0,1876_d-Ennery-Adolphe_Les-deux-orphelines,1876,d ennery adolphe,les deux orphelines,non_canon,male,1811,1899,roman historique,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1910_Pergaud-Louis_De-Goupil-a-Margot,1910,pergaud louis,de goupil a margot,non_canon,male,1882,1915,nouvelles,publique
+0.0,0.0,0.0,0.01,0.0,0.0,0.02,1878_Verne-Jules_Un-capitaine-de-quinze-ans,1878,verne jules,un capitaine de quinze ans,canon,male,1828,1905,roman d'aventures,publique
+0.0,0.0,0.06,0.02,0.0,0.0,0.01,1892_Zola-Emile_La-debacle,1892,zola emile,la debacle,canon,male,1840,1902,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1954_Simenon-Georges_Maigret-et-la-jeune-morte,1954,simenon georges,maigret et la jeune morte,canon,male,1903,1989,policier,prive
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1855_Balzac-Honore-de_Les-Paysans,1855,balzac honore de,les paysans,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1978_Boileau-Narcejac_L-age-bete,1978,boileau narcejac,l age bete,non_canon,male,1906,1989,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1832_Mere-Elisabeth-Brossin-de_Le-Parc-aux-Cerfs-ou-Histoire-secrete-des-jeunes-demoiselles-qui-y-ont-ete-renfermees_(tome-1),1832,mere elisabeth brossin de,le parc aux cerfs ou histoire secrete des jeunes demoiselles qui y ont ete renfermees,non_canon,female,1751,1829,roman historique,publique
+0.0,0.01,0.03,0.01,0.0,0.0,0.0,1878_Feval-Paul_Contes-de-Bretagne,1878,feval paul,contes de bretagne,non_canon,male,1816,1887,nouvelles,publique
+0.0,0.01,0.06,0.01,0.0,0.0,0.01,1957_Pagnol-Marcel_La-Gloire-de-mon-pere,1957,pagnol marcel,la gloire de mon pere,non_canon,male,1895,1974,littérature jeunesse,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1879_Chavette-Eugene_Nous-marions-Virginie,1879,chavette eugene,nous marions virginie,non_canon,male,1827,1902,nouvelles,publique
+0.0,0.01,0.01,0.01,0.0,0.0,0.01,1872_Verne-Jules_Le-tour-du-monde-en-quatre-vingts-jours,1872,verne jules,le tour du monde en quatre vingts jours,canon,male,1828,1905,roman d'aventures,publique
+0.0,0.01,0.02,0.0,0.0,0.0,0.01,1843_Balzac-Honore-de_Le-Pere-Goriot,1843,balzac honore de,le pere goriot,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1899_Bazin-Rene_La-terre-qui-meurt,1899,bazin rene,la terre qui meurt,non_canon,male,1853,1932,roman historique,publique
+0.0,0.0,0.01,0.01,0.0,0.0,0.01,1869_Erckmann-Chatrian_Histoire-d-un-paysan_I,1869,erckmann chatrian,histoire d un paysan,non_canon,male,1822,1899,cycles et séries,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1905_Toulet-Paul-Jean_Mon-amie-Nane,1905,toulet paul jean,mon amie nane,non_canon,male,1905,1905,littérature jeunesse,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.0,2011_Jenni-Alexis_L-art-francais-de-la-guerre,2011,jenni alexis,l art francais de la guerre,non_canon,male,1963,XXXX,roman historique,prive
+0.0,0.02,0.07,0.01,0.0,0.0,0.0,1843_Balzac-Honore-de_La-Rabouilleuse,1843,balzac honore de,la rabouilleuse,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.01,1887_Pont-Jest-Rene-de_Le-Cas-du-Docteur-Plemen,1887,pont jest rene de,le cas du docteur plemen,non_canon,male,1887,1887,policier,publique
+0.0,0.03,0.06,0.03,0.03,0.01,0.0,1895_Huysmans-Joris-Karl_En-Route,1895,huysmans joris karl,en route,canon,male,1848,1907,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1964_Simenon-Georges_Maigret-et-le-fantome,1964,simenon georges,maigret et le fantome,canon,male,1903,1989,policier,prive
+0.0,0.01,0.01,0.0,0.0,0.0,0.01,1917_Boylesve-Rene_Le-Bonheur-a-cinq-sous,1917,boylesve rene,le bonheur a cinq sous,non_canon,male,1867,1926,nouvelles,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1954_Simenon-Georges_Maigret-a-l-ecole,1954,simenon georges,maigret a l ecole,canon,male,1903,1989,policier,prive
+0.0,0.02,0.2,0.06,0.0,0.0,0.0,1867_Gouraud-Julie_Le-petit-colporteur,1867,gouraud julie,le petit colporteur,non_canon,female,1810,1891,littérature jeunesse,publique
+0.0,0.0,0.05,0.01,0.0,0.0,0.02,1876_Gouraud-Julie_Les-Filles-du-professeur,1876,gouraud julie,les filles du professeur,non_canon,female,1810,1891,littérature jeunesse,publique
+0.0,0.06,0.1,0.06,0.02,0.0,0.01,1930_Galopin-Arnould_Le-sergent-Bucaille,1930,galopin arnould,le sergent bucaille,non_canon,male,1863,1934,roman historique,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1992_Le-Linda_Les-Evangiles-du-crime,1992,le linda,les evangiles du crime,canon,female,1963,20--,policier,prive
+0.0,0.0,0.02,0.01,0.0,0.0,0.0,1837_Sand-George_Mauprat,1837,sand george,mauprat,canon,female,1804,1876,roman historique,publique
+0.0,0.01,0.1,0.04,0.0,0.0,0.0,1882_Gouraud-Julie_Chez-grand-mere,1882,gouraud julie,chez grand mere,non_canon,female,1810,1891,littérature jeunesse,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1867_Aimard-Gustave-Auriac-Jules-Berlioz-d-_Oeil-de-feu,1867,aimard gustave auriac jules berlioz d ,oeil de feu,non_canon,male,1818,1883,roman d'aventures,publique
+0.0,0.01,0.02,0.0,0.0,0.0,0.0,1887_Mary-Jules_La-Revanche-de-Roger-la-honte,1887,mary jules,la revanche de roger la honte,non_canon,male,1851,1922,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1876_Boisgobey-Fortune-du_L-Omnibus-du-diable,1876,boisgobey fortune du,l omnibus du diable,non_canon,male,1821,1891,policier,publique
+0.0,0.0,0.0,0.01,0.0,0.0,0.0,1886_Sand-George_Les-ailes-de-courage,1886,sand george,les ailes de courage,canon,female,1804,1876,littérature jeunesse,publique
+0.0,0.0,0.06,0.01,0.0,0.0,0.01,1875_Bellaud-E-de_Ces-pauvres-filles-,1875,bellaud e de,ces pauvres filles ,non_canon,male,1???,1???,nouvelles,prive
+0.0,0.01,0.06,0.02,0.01,0.0,0.0,1912_Zevaco-Michel_Le-Rival-du-Roi,1912,zevaco michel,le rival du roi,non_canon,male,1860,1918,roman historique,publique
+0.0,0.0,0.06,0.01,0.0,0.0,0.0,1860_Segur-comtesse-de_Les-Memoires-d-un-ane,1860,segur comtesse de,les memoires d un ane,non_canon,female,1799,1874,littérature jeunesse,publique
+0.0,0.03,0.07,0.01,0.0,0.0,0.02,1880_Theuriet-Andre_Toute-seule-Un-miracle-Saint-Enogat,1880,theuriet andre,toute seule un miracle saint enogat,non_canon,male,1833,1907,nouvelles,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1881_Gaboriau-Emile_Les-amours-d-une-empoisonneuse,1881,gaboriau emile,les amours d une empoisonneuse,non_canon,male,1832,1873,roman historique,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1898_Ivoi-Paul-d-_La-Capitaine-Nilia,1898,ivoi paul d ,la capitaine nilia,non_canon,male,1856,1915,roman d'aventures,publique
+0.0,0.01,0.01,0.01,0.0,0.0,0.0,1918_Proust-Marcel_A-l-ombre-des-jeunes-filles-en-fleurs,1918,proust marcel,a l ombre des jeunes filles en fleurs,canon,male,1871,1922,cycles et séries,publique
+0.0,0.0,0.0,0.01,0.01,0.0,0.01,1953_Robbe-Grillet-Alain_Les-Gommes,1953,robbe grillet alain,les gommes,canon,male,1922,2008,policier,prive
+0.0,0.01,0.03,0.0,0.0,0.0,0.01,1845_Viel-Castel-Horace-de_Archambaud-de-Comborn,1845,viel castel horace de,archambaud de comborn,non_canon,male,1802,1864,roman historique,publique
+0.0,0.01,0.02,0.01,0.01,0.0,0.0,1994_Laurent-Jacques_Croire-a-Noel,1994,laurent jacques,croire a noel,non_canon,male,1919,2000,nouvelles,prive
+0.0,0.03,0.05,0.01,0.0,0.0,0.0,1922_Martin-du-Gard-Roger_Les-Thibault_Tome-II-Le-penitencier,1922,martin du gard roger,les thibault,canon,male,1881,1958,cycles et séries,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1867_Aimard-Gustave-Auriac-Jules-Berlioz-d-_Les-Forestiers-du-Michigan,1867,aimard gustave auriac jules berlioz d ,les forestiers du michigan,non_canon,male,1818,1883,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.01,1947_Simenon-Georges_Maigret-et-l-inspecteur-Malgracieux,1947,simenon georges,maigret et l inspecteur malgracieux,canon,male,1903,1989,policier,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1995_Vargas-Fred_Debout-les-morts,1995,vargas fred,debout les morts,non_canon,female,1957,20--,policier,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.01,1972_A.D.G._La-marche-truque,1972,a.d.g.,la marche truque,non_canon,male,1947,2004,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1936_Morand-Paul_Milady-suivi-de-Monsieur-zero,1936,morand paul,milady suivi de monsieur zero,canon,male,1888,1976,nouvelles,prive
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1881_Courcy-Alfred-de_Le-Roman-cache,1881,courcy alfred de,le roman cache,non_canon,male,1816,1888,nouvelles,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.01,1858_Sand-George_Les-beaux-messieurs-de-Bois-Dore_2,1858,sand george,les beaux messieurs de bois dore,canon,female,1804,1876,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1824_Beaufort-d-Hautpoul_Le-page-et-la-romance_tome-1,1824,beaufort d hautpoul,le page et la romance,non_canon,female,1763,1837,roman historique,publique
+0.0,0.02,0.05,0.01,0.0,0.0,0.03,1932_Audoux-Marguerite_La-fiancee,1932,audoux marguerite,la fiancee,non_canon,female,1863,1937,nouvelles,publique
+0.0,0.01,0.01,0.01,0.0,0.0,0.0,1932_Leblanc-Maurice_De-minuit-a-sept-heures,1932,leblanc maurice,de minuit a sept heures,non_canon,male,1864,1941,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1898_Feval-Paul_La-fabrique-de-crimes,1898,feval paul,la fabrique de crimes,non_canon,male,1816,1887,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,2006_Lemaitre-Pierre_Travail-Soigne,2006,lemaitre pierre,travail soigne,non_canon,male,1951,20--,policier,prive
+0.0,0.02,0.03,0.01,0.01,0.0,0.01,1845_Sue-Eugene_La-coucaratcha_Tome-I,1845,sue eugene,la coucaratcha,canon,male,1804,1857,roman d'aventures,publique
+0.0,0.0,0.07,0.0,0.0,0.0,0.0,1866_Segur-comtesse-de_Un-Bon-Petit-Diable,1866,segur comtesse de,un bon petit diable,non_canon,female,1799,1874,littérature jeunesse,publique
+0.0,0.01,0.27,0.04,0.0,0.0,0.0,1888_Beaugrand-Honore_Jeanne-la-fileuse,1888,beaugrand honore,jeanne la fileuse,non_canon,male,1848,1906,roman historique,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.02,1866_Gaboriau-Emile_L-affaire-Lerouge,1866,gaboriau emile,l affaire lerouge,non_canon,male,1832,1873,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1951_Simenon-Georges_Maigret-et-la-grande-perche,1951,simenon georges,maigret et la grande perche,canon,male,1903,1989,policier,prive
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1898_Renard-Jules_Bucoliques,1898,renard jules,bucoliques,canon,male,1864,1910,nouvelles,publique
+0.0,0.01,0.04,0.0,0.0,0.0,0.02,1838_Dumas-Alexandre_Le-Capitaine-Paul,1838,dumas alexandre,le capitaine paul,canon,male,1802,1870,roman d'aventures,publique
+0.0,0.01,0.12,0.02,0.0,0.0,0.02,1882_Ricouard-Gustave_Vast-Ricouard-Pour-ces-dames,1882,ricouard gustave,vast ricouard pour ces dames,non_canon,male,1853,1887,nouvelles,publique
+0.0,0.02,0.09,0.0,0.0,0.0,0.0,1842_Balzac-Honore-de_La-Femme-de-trente-ans,1842,balzac honore de,la femme de trente ans,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1873_Gouraud-Julie_Petite-et-grande,1873,gouraud julie,petite et grande,non_canon,female,1810,1891,littérature jeunesse,publique
+0.0,0.01,0.02,0.0,0.0,0.0,0.0,1842_Karr-Alphonse_Comtes,1842,karr alphonse,comtes,non_canon,male,1808,1890,nouvelles,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1962_Simenon-Georges_Maigret-et-le-client-du-samedi,1962,simenon georges,maigret et le client du samedi,canon,male,1903,1989,policier,prive
+0.0,0.0,0.0,0.01,0.0,0.0,0.01,1856_Feval-Paul_La-Louve_Tome-I,1856,feval paul,la louve,non_canon,male,1816,1887,roman d'aventures,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1880_Ponson-du-Terrail-Pierre-Alexis-de_Les-Aventures-du-capitaine-La-Palisse,1880,ponson du terrail pierre alexis de,les aventures du capitaine la palisse,non_canon,male,1829,1871,roman d'aventures,publique
+0.0,0.02,0.04,0.02,0.02,0.0,0.01,1845_Walsh-Joseph-Alexis_Les-Veillees-de-voyage,1845,walsh joseph alexis,les veillees de voyage,non_canon,male,1785,1860,nouvelles,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.0,1862_Chevalier-H-Emile_La-Capitaine,1862,chevalier h emile,la capitaine,non_canon,male,1828,1879,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1909_Zevaco-Michel_Les-Amants-de-Venise,1909,zevaco michel,les amants de venise,non_canon,male,1860,1918,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1913_Leroux-Gaston_La-Reine-du-Sabbat,1913,leroux gaston,la reine du sabbat,non_canon,male,1868,1927,roman d'aventures,publique
+0.0,0.02,0.06,0.01,0.01,0.0,0.01,1845_Balzac-Honore-de_Gambara,1845,balzac honore de,gambara,canon,male,1799,1850,cycles et séries,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.01,1892_Allais-Alphonse_Vive-la-vie,1892,allais alphonse,vive la vie,non_canon,male,1854,1905,nouvelles,publique
+0.0,0.0,0.01,0.02,0.0,0.0,0.0,1950_Simenon-Georges_Un-Noel-de-Maigret,1950,simenon georges,un noel de maigret,canon,male,1903,1989,policier,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1884_Guy-de-Maupassant_Miss-Harriet,1884,guy de maupassant,miss harriet,canon,male,1850,1893,nouvelles,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1843_Balzac-Honore-de_Illusions-perdues,1843,balzac honore de,illusions perdues,canon,male,1799,1850,cycles et séries,publique
+0.0,0.01,0.03,0.0,0.0,0.0,0.0,1889_La-Brete-Jean-de_Mon-oncle-et-mon-cure,1889,la brete jean de,mon oncle et mon cure,non_canon,female,1858,1945,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1908_Leroux-Gaston_Le-mystere-de-la-chambre-jaune,1908,leroux gaston,le mystere de la chambre jaune,non_canon,male,1868,1927,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1850_Feval-Paul_La-fee-des-greves,1850,feval paul,la fee des greves,non_canon,male,1816,1887,roman d'aventures,publique
+0.0,0.01,0.01,0.0,0.0,0.01,0.0,1867_Assollant-Alfred_Aventures-merveilleuses-mais-authentiques-du-capitaine-Corcoran-Premiere-Partie,1867,assollant alfred,aventures merveilleuses mais authentiques du capitaine corcoran premiere partie,non_canon,male,1827,1886,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1885_Greville-Henry_a-travers-champs,1885,greville henry,a travers champs,non_canon,female,1842,1902,nouvelles,publique
+0.0,0.01,0.01,0.01,0.01,0.0,0.0,1848_Woillez-Catherine_Edma-et-Marguerite-ou-les-Ruines-de-Chatillon-d-Azergues,1848,woillez catherine,edma et marguerite ou les ruines de chatillon d azergues,non_canon,female,1781,1859,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1930_Leblanc-Maurice_Le-prince-de-Jericho,1930,leblanc maurice,le prince de jericho,non_canon,male,1864,1941,policier,publique
+0.0,0.02,0.04,0.0,0.01,0.0,0.0,1867_Sauquet-Victor_L-Enfant-des-montagnes,1867,sauquet victor,l enfant des montagnes,non_canon,male,1???,1???,littérature jeunesse,prive
+0.0,0.0,0.0,0.01,0.01,0.0,0.01,1930_Bernede-Arthur_L-Homme-au-masque-de-fer,1930,bernede arthur,l homme au masque de fer,non_canon,male,1871,1937,roman historique,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1909_Farrere-Claude_La-Bataille,1909,farrere claude,la bataille,non_canon,male,1876,1957,roman d'aventures,prive
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1958_Pagnol-Marcel_Le-Chateau-de-ma-mere,1958,pagnol marcel,le chateau de ma mere,non_canon,male,1895,1974,littérature jeunesse,prive
+0.0,0.0,0.01,0.01,0.0,0.0,0.01,1968_Gary-Romain_La-Tete-coupable,1968,gary romain,la tete coupable,canon,male,1914,1980,roman d'aventures,prive
+0.0,0.02,0.19,0.01,0.0,0.0,0.02,1852_Carraud-Zulma-Tourangin-Mme_La-petite-Jeanne,1852,carraud zulma tourangin mme,la petite jeanne,non_canon,female,1796,1889,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1905_Verne-Jules_Le-Phare-du-Bout-du-Monde,1905,verne jules,le phare du bout du monde,canon,male,1828,1905,roman d'aventures,publique
+0.0,0.0,0.06,0.01,0.0,0.0,0.0,1884_Gouraud-Julie_Le-Vieux-chateau,1884,gouraud julie,le vieux chateau,non_canon,female,1810,1891,littérature jeunesse,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.0,1876_Erckmann-Chatrian_Maitre-Gaspard-Fix-suivi-de-L-education-d-un-feodal,1876,erckmann chatrian,maitre gaspard fix suivi de l education d un feodal,non_canon,male,1822,1899,nouvelles,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,2005_Germain-Sylvie_Magnus,2005,germain sylvie,magnus,canon,female,1954,20--,roman historique,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1894_Gautier-Judith_Memoires-d-un-Elephant-blanc,1894,gautier judith,memoires d un elephant blanc,non_canon,female,1845,1917,littérature jeunesse,publique
+0.0,0.01,0.04,0.01,0.0,0.0,0.0,1921_Morand-Paul_Tendres-stocks,1921,morand paul,tendres stocks,canon,male,1888,1976,nouvelles,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1957_Delly_Le-sphinx-d'emeraude,1957,delly,le sphinx d'emeraude,non_canon,female,1875,1947,roman historique,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1853_Gozlan-Leon_Les-Vendanges,1853,gozlan leon,les vendanges,non_canon,male,1803,1866,nouvelles,publique
+0.0,0.01,0.04,0.0,0.0,0.0,0.0,1874_Witt-Henriette-de_Une-soeur,1874,witt henriette de,une soeur,non_canon,female,1829,1908,littérature jeunesse,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1850_Dumas-Alexandre_La-femme-au-collier-de-velours,1850,dumas alexandre,la femme au collier de velours,canon,male,1802,1870,roman historique,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1944_Simenon-Georges_Signe-Picpus,1944,simenon georges,signe picpus,canon,male,1903,1989,policier,prive
+0.0,0.0,0.01,0.01,0.01,0.01,0.0,1879_Verne-Jules_Les-Tribulations-d-un-Chinois-en-Chine,1879,verne jules,les tribulations d un chinois en chine,canon,male,1828,1905,roman d'aventures,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1886_Carraud-Zulma-Tourangin-Mme_Contes-et-historiettes,1886,carraud zulma tourangin mme,contes et historiettes,non_canon,female,1796,1889,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1839_Dumas-Alexandre_Aventures-de-Lyderic,1839,dumas alexandre,aventures de lyderic,canon,male,1802,1870,roman historique,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.0,1834_Dumas-Alexandre_Un-coup-de-feu-et-autres-nouvelles,1834,dumas alexandre,un coup de feu et autres nouvelles,canon,male,1802,1870,nouvelles,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1884_Chavette-Eugene_Le-saucisson-a-pattes_II-Le-plan-de-Cardeuc,1884,chavette eugene,le saucisson a pattes,non_canon,male,1827,1902,roman historique,publique
+0.0,0.02,0.11,0.01,0.01,0.0,0.01,1960_Troyat-Henri_La-Barynia,1960,troyat henri,la barynia,non_canon,male,1911,2007,roman historique,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1996_Daeninckx-Didier_Nazis-dans-le-metro,1996,daeninckx didier,nazis dans le metro,canon,male,1949,20--,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1886_Boisgobey-Fortune-du_La-Bande-rouge_Tome-II,1886,boisgobey fortune du,la bande rouge,non_canon,male,1821,1891,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1930_Giono-Jean_Regain,1930,giono jean,regain,canon,male,1895,1970,cycles et séries,prive
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1863_Achard-Amedee_Les-Coups-d-epee-de-M-de-la-Guerche,1863,achard amedee,les coups d epee de m de la guerche,non_canon,male,1814,1875,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1893_Zola-Emile_Le-docteur-Pascal,1893,zola emile,le docteur pascal,canon,male,1840,1902,cycles et séries,publique
+0.0,0.04,0.06,0.01,0.0,0.0,0.01,1880_Guy-de-Maupassant_Contes-divers,1880,guy de maupassant,contes divers,canon,male,1850,1893,nouvelles,publique
+0.0,0.05,0.1,0.01,0.0,0.0,0.02,1898_Huysmans-Joris-Karl_La-Cathedrale,1898,huysmans joris karl,la cathedrale,canon,male,1848,1907,cycles et séries,publique
+0.0,0.01,0.05,0.0,0.0,0.0,0.01,1839_Dumas-Alexandre_Acte,1839,dumas alexandre,acte,canon,male,1802,1870,roman historique,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1908_Leblanc-Maurice_Arsene-Lupin-contre-Herlock-Sholmes,1908,leblanc maurice,arsene lupin contre herlock sholmes,non_canon,male,1864,1941,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1842_Dumas-Alexandre_Le-Chevalier-d-Harmental,1842,dumas alexandre,le chevalier d harmental,canon,male,1802,1870,roman d'aventures,publique
+0.0,0.03,0.05,0.02,0.0,0.0,0.01,1845_Balzac-Honore-de_Modeste-Mignon,1845,balzac honore de,modeste mignon,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1972_A.D.G._Les-trois-Badours,1972,a.d.g.,les trois badours,non_canon,male,1947,2004,policier,prive
+0.0,0.0,0.0,0.02,0.01,0.0,0.03,1927_Proust-Marcel_Le-Temps-retrouve,1927,proust marcel,le temps retrouve,canon,male,1871,1922,cycles et séries,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1923_Le-Rouge-Gustave_La-Dame-noire-des-frontieres,1923,le rouge gustave,la dame noire des frontieres,non_canon,male,1867,1938,policier,publique
+0.0,0.03,0.03,0.01,0.0,0.01,0.0,1910_Graffigny-H-de_Le-tour-de-France-en-aeroplane,1910,graffigny h de,le tour de france en aeroplane,non_canon,male,1863,1934,littérature jeunesse,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.01,1968_Guy-Des-Cars_La-revoltee,1968,guy des cars,la revoltee,non_canon,male,1977,1911,policier,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1881_Guy-de-Maupassant_La-maison-Tellier,1881,guy de maupassant,la maison tellier,canon,male,1850,1893,nouvelles,publique
+0.0,0.0,0.0,0.01,0.0,0.0,0.0,1976_San-Antonio_Concerto-pour-porte-jarrelle,1976,san antonio,concerto pour porte jarrelle,non_canon,male,1921,2000,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1941_Simenon-Georges_Les-caves-du-Majestic,1941,simenon georges,les caves du majestic,canon,male,1903,1989,policier,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,2011_Vargas-Fred_L-Armee-furieuse,2011,vargas fred,l armee furieuse,non_canon,female,1957,20..,policier,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1929_Saint-Exupery-Antoine-de_Courrier-Sud,1929,saint exupery antoine de,courrier sud,canon,male,1900,1944,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1950_Simenon-Georges_Un-nouveau-dans-la-ville,1950,simenon georges,un nouveau dans la ville,canon,male,1903,1989,policier,prive
+0.0,0.01,0.03,0.0,0.0,0.0,0.01,1888_Zola-Emile_Le-reve,1888,zola emile,le reve,canon,male,1840,1902,cycles et séries,publique
+0.0,0.01,0.22,0.09,0.0,0.0,0.07,1885_Amero-Constant_Le-tour-de-France-d-un-petit-Parisien,1885,amero constant,le tour de france d un petit parisien,non_canon,male,1832,1908,littérature jeunesse,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1896_Loti-Pierre_Ramuntcho,1896,loti pierre,ramuntcho,canon,male,1850,1923,roman d'aventures,publique
+0.0,0.03,0.03,0.01,0.0,0.0,0.03,1870_Verne-Jules_Vingt-mille-lieues-sous-les-mers,1870,verne jules,vingt mille lieues sous les mers,canon,male,1828,1905,roman d'aventures,publique
+0.0,0.02,0.04,0.03,0.01,0.0,0.02,1855_Stendhal_Chroniques-italiennes,1855,stendhal,chroniques italiennes,canon,male,1783,1842,nouvelles,publique
+0.0,0.02,0.05,0.01,0.0,0.0,0.01,1877_Buet-Charles_La-Mitre-et-l-epee-chronique-genevoise,1877,buet charles,la mitre et l epee chronique genevoise,non_canon,male,1846,1897,roman historique,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.0,1884_Mendes-Catulle_Jeunes-filles,1884,mendes catulle,jeunes filles,non_canon,male,1841,1909,nouvelles,publique
+0.0,0.0,0.0,0.01,0.01,0.0,0.0,1876_Montepin-Xavier-de_Le-Ventriloque-L-assassin-de-Mariette,1876,montepin xavier de,le ventriloque l assassin de mariette,non_canon,male,1823,1902,cycles et séries,publique
+0.0,0.01,0.01,0.02,0.0,0.0,0.02,1866_Segur-comtesse-de_Jean-qui-grogne-et-Jean-qui-rit,1866,segur comtesse de,jean qui grogne et jean qui rit,non_canon,female,1799,1874,littérature jeunesse,publique
+0.0,0.01,0.03,0.0,0.0,0.0,0.01,1842_Balzac-Honore-de_Le-Contrat-de-mariage,1842,balzac honore de,le contrat de mariage,canon,male,1799,1850,cycles et séries,publique
+0.0,0.05,0.17,0.02,0.0,0.0,0.03,1942_Camus-Albert_L-etranger,1942,camus albert,l etranger,canon,male,1913,1960,,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1816_Barthelemy-Hadot-Marie-Adelaide_La-Vierge-de-l-Indostan-ou-les-Portugais-au-Malabar_(Tome-4),1816,barthelemy hadot marie adelaide,la vierge de l indostan ou les portugais au malabar,non_canon,female,1763,1821,roman historique,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1876_Malot-Hector_L-auberge-du-monde,1876,malot hector,l auberge du monde,non_canon,male,1830,1907,roman d'aventures,publique
+0.0,0.0,0.06,0.0,0.0,0.0,0.0,1882_Richebourg-Emile_Jean-Loup,1882,richebourg emile,jean loup,non_canon,male,1833,1898,policier,publique
+0.0,0.01,0.05,0.01,0.0,0.0,0.0,1940_Martin-du-Gard-Roger_Les-Thibault_Tome-VIII-Epilogue,1940,martin du gard roger,les thibault,canon,male,1881,1958,cycles et séries,prive
+0.0,0.0,0.03,0.01,0.0,0.0,0.0,1911_Marchal-Gustave_Tante-Meteore,1911,marchal gustave,tante meteore,non_canon,male,1833,1916,littérature jeunesse,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.01,1854_Bassanville-Anais-de_Les-Primeurs-de-la-vie-ou-Bonheurs-joies-et-douleurs-de-la-jeunesse,1854,bassanville anais de,les primeurs de la vie ou bonheurs joies et douleurs de la jeunesse,non_canon,female,1802,1884,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1908_Bazin-Rene_Le-Mariage-de-Mademoiselle-Gimel-Dactylographe,1908,bazin rene,le mariage de mademoiselle gimel dactylographe,non_canon,male,1853,1932,nouvelles,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1934_Duhamel-Georges_Le-jardin-des-betes-sauvages,1934,duhamel georges,le jardin des betes sauvages,canon,male,1884,1966,cycles et séries,prive
+0.0,0.0,0.08,0.02,0.0,0.0,0.0,1884_Witt-Henriette-de_Scenes-historiques,1884,witt henriette de,scenes historiques,non_canon,female,1829,1908,roman historique,publique
+0.0,0.0,0.03,0.01,0.0,0.0,0.0,1899_Allais-Alphonse_L-affaire-Blaireau,1899,allais alphonse,l affaire blaireau,non_canon,male,1854,1905,roman historique,publique
+0.0,0.0,0.02,0.01,0.0,0.0,0.03,1898_Vogue-Eugene-Melchior-de_Jean-d-Agreve,1898,vogue eugene melchior de,jean d agreve,non_canon,male,1848,1910,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1876_Malot-Hector_Ida-et-Carmelita,1876,malot hector,ida et carmelita,non_canon,male,1830,1907,cycles et séries,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.02,1888_Witt-Henriette-de_Scenes-historiques,1888,witt henriette de,scenes historiques,non_canon,female,1829,1908,roman historique,publique
+0.0,0.01,0.04,0.0,0.0,0.0,0.0,1967_Simenon-Georges_Le-voleur-de-Maigret,1967,simenon georges,le voleur de maigret,canon,male,1903,1989,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1956_Malet-Leo_Corrida-aux-Champs-Elysees,1956,malet leo,corrida aux champs elysees,non_canon,male,1909,1996,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1825_de-Lamothe-Langon-Etienne-Leon_Le-Monastere-des-freres-noirs,1825,de lamothe langon etienne leon,le monastere des freres noirs,non_canon,male,1786,1864,roman historique,publique
+0.0,0.03,0.04,0.01,0.0,0.0,0.0,2016_Murail-Marie-Aude_Sauveur-Fils_1,2016,murail marie aude,sauveur fils,non_canon,female,1954,XXXX,littérature jeunesse,prive
+0.0,0.0,0.0,0.01,0.0,0.0,0.01,1932_Simenon-Georges_L-Affaire-Saint-Fiacre,1932,simenon georges,l affaire saint fiacre,canon,male,1903,1989,policier,prive
+0.0,0.02,0.05,0.02,0.01,0.0,0.01,1876_Richebourg-Emile_Recits-devant-l-atre,1876,richebourg emile,recits devant l atre,non_canon,male,1833,1898,nouvelles,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.01,1880_Maizeroy-Rene_Mora-Les-Deux-femmes-de-Mademoiselle,1880,maizeroy rene,mora les deux femmes de mademoiselle,non_canon,male,1856,1918,nouvelles,publique
+0.0,0.01,0.03,0.01,0.01,0.0,0.0,1913_Zevaco-Michel_Buridan-le-heros-de-la-tour-Nesle,1913,zevaco michel,buridan le heros de la tour nesle,non_canon,male,1860,1918,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1911_Giraudoux-Jean_L-ecole-des-indifferents,1911,giraudoux jean,l ecole des indifferents,canon,male,1882,1944,nouvelles,publique
+0.0,0.01,0.03,0.0,0.0,0.01,0.0,1843_Balzac-Honore-de_Histoire-des-Treize-et-La-Duchesse-de-Langeais,1843,balzac honore de,histoire des treize et la duchesse de langeais,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,2000_Gailly-Christian_Nuage-rouge,2000,gailly christian,nuage rouge,non_canon,male,1943,2013,policier,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1881_Stolz-Madame-de_Les-deux-reines,1881,stolz madame de,les deux reines,non_canon,female,1820,1898,littérature jeunesse,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1856_Dumas-Alexandre_Un-cadet-de-famille,1856,dumas alexandre,un cadet de famille,canon,male,1802,1870,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1910_Rolland-Romain_Jean-Christophe_Tome-VIII-Les-amies,1910,rolland romain,jean christophe,canon,male,1866,1944,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,2001_Vargas-Fred_Pars-vite-et-reviens-tard,2001,vargas fred,pars vite et reviens tard,non_canon,female,1957,20--,policier,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1863_Zaccone-Pierre_Une-haine-au-bagne,1863,zaccone pierre,une haine au bagne,non_canon,male,1818,1895,policier,publique
+0.0,0.0,0.01,0.01,0.0,0.0,0.0,1987_Green-Julien_Les-Pays-lointains,1987,green julien,les pays lointains,canon,male,1900,1998,roman historique,prive
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1858_Gouraud-Julie_Les-Vacances-d-Yvonne,1858,gouraud julie,les vacances d yvonne,non_canon,female,1810,1891,littérature jeunesse,publique
+0.0,0.01,0.03,0.0,0.0,0.0,0.0,1847_Balzac-Honore-de_Le-Depute-d-Arcis,1847,balzac honore de,le depute d arcis,canon,male,1799,1850,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1892_Verne-Jules_Le-Chateau-des-Carpathes,1892,verne jules,le chateau des carpathes,canon,male,1828,1905,roman d'aventures,publique
+0.0,0.07,0.27,0.02,0.01,0.0,0.04,1853_Sue-Eugene_Les-Mysteres-du-peuple_Tome-IX,1853,sue eugene,les mysteres du peuple,canon,male,1804,1857,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1935_Leblanc-Maurice_La-Cagliostro-se-venge,1935,leblanc maurice,la cagliostro se venge,non_canon,male,1864,1941,policier,publique
+0.0,0.03,0.14,0.02,0.0,0.0,0.05,1873_Viollet-le-Duc-Eugene-Emmanuel_Histoire-d-une-maison,1873,viollet le duc eugene emmanuel,histoire d une maison,non_canon,male,1814,1879,littérature jeunesse,publique
+0.0,0.01,0.09,0.01,0.0,0.0,0.01,1862_Leneveux-Louise_Soirees-en-famille--lectures-pour-la-jeunesse,1862,leneveux louise,soirees en famille  lectures pour la jeunesse,non_canon,female,1800,18--,littérature jeunesse,prive
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1847_Sue-Eugene_Martin-l-enfant-trouve_Tome-I,1847,sue eugene,martin l enfant trouve,canon,male,1847,1847,cycles et séries,publique
+0.0,0.01,0.03,0.0,0.0,0.0,0.0,1879_Bouvier-Alexis_La-femme-du-mort_Tome-I,1879,bouvier alexis,la femme du mort,non_canon,male,1836,1892,roman d'aventures,publique
+0.0,0.01,0.04,0.0,0.0,0.0,0.0,1878_Girardin-Jules_Ouida-Pascarel-roman-imite-de-l-anglais,1878,girardin jules,ouida pascarel roman imite de l anglais,non_canon,male,1832,1888,littérature jeunesse,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1869_Carraud-Zulma-Tourangin-Mme_Les-Gouters-de-la-grand-mere,1869,carraud zulma tourangin mme,les gouters de la grand mere,non_canon,female,1796,1889,littérature jeunesse,publique
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1880_Stapleaux-Leopold_Le-pendu-de-la-Foret-Noire,1880,stapleaux leopold,le pendu de la foret noire,non_canon,male,1831,1891,roman d'aventures,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1843_Desnoyers-Louis_Les-aventures-de-Jean-Paul-Choppart,1843,desnoyers louis,les aventures de jean paul choppart,non_canon,male,1802,1868,littérature jeunesse,publique
+0.0,0.0,0.03,0.0,0.0,0.0,0.01,1867_Ponson-du-Terrail-Pierre-Alexis-de_L-heritage-de-Corinne-La-Mule-de-satin,1867,ponson du terrail pierre alexis de,l heritage de corinne la mule de satin,non_canon,male,1829,1871,nouvelles,publique
+0.0,0.0,0.01,0.01,0.0,0.0,0.01,1845_Sue-Eugene_La-coucaratcha_Tome-II,1845,sue eugene,la coucaratcha,canon,male,1804,1857,roman d'aventures,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.01,1876_Zola-Emile_Son-excellence-Eugene-Rougon,1876,zola emile,son excellence eugene rougon,canon,male,1840,1902,cycles et séries,publique
+0.0,0.0,0.01,0.0,0.0,0.0,0.0,1991_Vargas-Fred_L-homme-aux-cercles-bleus,1991,vargas fred,l homme aux cercles bleus,non_canon,female,1957,20--,policier,prive
+0.0,0.0,0.02,0.0,0.0,0.0,0.0,1927_Rosny-aine-J-H_La-Femme-disparue,1927,rosny aine j h,la femme disparue,non_canon,male,1856,1940,policier,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1925_Robida-Albert_Un-chalet-dans-les-airs,1925,robida albert,un chalet dans les airs,non_canon,male,1848,1926,littérature jeunesse,publique
+0.0,0.0,0.06,0.0,0.0,0.0,0.0,1928_Martin-du-Gard-Roger_Les-Thibault_Tome-4-La-consultation,1928,martin du gard roger,les thibault,canon,male,1881,1958,cycles et séries,prive
+0.0,0.01,0.01,0.0,0.0,0.0,0.01,1884_Laurie-Andre_L-Heritier-de-Robinson,1884,laurie andre,l heritier de robinson,non_canon,female,1844,1909,littérature jeunesse,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,2002_Daeninckx-Didier_Leurre-de-verite-et-autres-nouvelles,2002,daeninckx didier,leurre de verite et autres nouvelles,canon,male,1949,20--,policier,prive
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1955_Simonin-Albert_Grisbi-or-not-grisbi,1955,simonin albert,grisbi or not grisbi,non_canon,male,1905,1980,policier,prive
+0.0,0.01,0.01,0.01,0.0,0.0,0.01,1903_Chabrier-Rieder-Charlotte_Les-Enfants-du-Luxembourg,1903,chabrier rieder charlotte,les enfants du luxembourg,non_canon,female,1865,1935,littérature jeunesse,publique
+0.0,0.01,0.02,0.01,0.01,0.0,0.0,1905_Lermina-Jules_To-Ho-Le-Tueur-d-or,1905,lermina jules,to ho le tueur d or,non_canon,male,1839,1915,roman d'aventures,publique
+0.0,0.0,0.02,0.01,0.0,0.0,0.0,1869_Ponson-du-Terrail-Pierre-Alexis-de_La-reine-des-barricades,1869,ponson du terrail pierre alexis de,la reine des barricades,non_canon,male,1829,1871,roman d'aventures,publique
+0.0,0.0,0.01,0.01,0.0,0.0,0.0,1877_Fleuriot-Zenaide_Un-enfant-gate,1877,fleuriot zenaide,un enfant gate,non_canon,female,1829,1890,littérature jeunesse,publique
+0.0,0.01,0.02,0.0,0.0,0.0,0.02,1819_Barthelemy-Hadot-Marie-Adelaide_Laurence-de-Sully-ou-L-ermitage-en-Suisse_(Tome-3),1819,barthelemy hadot marie adelaide,laurence de sully ou l ermitage en suisse,non_canon,female,1763,1821,roman historique,publique
+0.0,0.01,0.02,0.0,0.0,0.0,0.0,1889_Guy-de-Maupassant_La-main-gauche,1889,guy de maupassant,la main gauche,canon,male,1850,1893,nouvelles,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1866_Ponson-du-Terrail-Pierre_La-Resurrection-de-Rocambole_Tome-I-Le-Bagne-de-Toulon-Antoinette,1866,ponson du terrail pierre,la resurrection de rocambole,non_canon,male,1865,1865,roman d'aventures,publique
+0.0,0.01,0.01,0.0,0.0,0.0,0.0,1948_Vian-Boris_Et-on-tuera-tous-les-affreux,1948,vian boris,et on tuera tous les affreux,canon,male,1920,1959,policier,prive
+0.0,0.02,0.02,0.01,0.0,0.0,0.02,1908_Rolland-Romain_Jean-Christophe_Tome-V-La-foire-sur-la-place,1908,rolland romain,jean christophe,canon,male,1866,1944,cycles et séries,publique
+0.0,0.0,0.0,0.0,0.0,0.0,0.0,1951_Simenon-Georges_Maigret-Lognon-et-les-gangsters,1951,simenon georges,maigret lognon et les gangsters,canon,male,1903,1989,policier,prive

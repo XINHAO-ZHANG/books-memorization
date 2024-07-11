@@ -1,0 +1,200 @@
+['lui', 'lui', 'vous', 'elle', 'moi']	Maigret	Le jeune homme se tourna vivement vers [MASK]. — Vous êtes de la police ?… Qu’est-ce que ?… — Voulez-vous que nous ayons une conversation de quelques minutes ?… J’aimerais faire les cent pas sur la route… Vous restez ici, docteur ?
+
+['il', 'personne', 'aucun', ',', 'on']	Maigret	La première… Jamais, de sa carrière, [MASK] n’avait été aussi mal à l’aise. Et sans doute était-ce la première fois qu’il avait la sensation très nette d’être inférieur à la situation. Les événements le dépassaient.
+
+['elle', 'il', '</s>', 'qui', 'on']	Maigret	Et, comme si c’eût été décidé d’avance, elle pénétra avec lui chez un marchand de jouets. [MASK] n’osait pas trop s’approcher. Il fut néanmoins renseigné par les coups de sifflet qui ne tardèrent pas à éclater dans la boutique.
+
+['</s>', 'il', 'chacun', 'tout', 'elle']	Maigret	Mais les croque-morts tendaient l’oreille, se levaient, payaient leurs consommations. [MASK] se leva aussi, décrocha son pardessus à col de velours, essuya son chapeau melon avec sa manche. — Vous avez tous les deux l’occasion de filer à l’anglaise pendant…
+
+['il', 'plus', "c'", 'tout', 'et']	Maigret	Un peu après le crime, le comte a demandé à l’enfant de lui donner le missel et lui a promis une somme d’argent… [MASK] était à bout de patience, car il avait l’impression d’être laissé en dehors de la comédie ! Comédie, oui
+
+['elle', 'il', ',', 'on', 'et']	Maigret	— Je vous reverrai tout à l’heure ! [MASK] quittait le comte de Saint-Fiacre devant la grille du cimetière. Une vieille, assise sur un petit banc qu’elle avait apporté, essayait de vendre des oranges et du chocolat. Les oranges ! Grosses ! Pas mûres !
+
+['jeanne', 'jacques', 'caroline', 'catherine', 'valentine']	Métayer	Mais tous deux regardaient droit devant eux. Ils ne virent le premier groupe qu’une fois assis. Les deux tables se faisaient presque face. Il y eut une légère rougeur sur les joues de [MASK], qui commanda d’une voix manquant de fermeté :
+
+['moi', 'elle', 'ce', 'lui', 'cela']	Saint-Fiacre	Il ne se releva pas de lui-même. Une main l’avait saisi au collet, le soulevait, le mettait sur pied et il hurla à nouveau en s’apercevant que c’était [MASK] qui l’obligeait à rester debout. — Bouge plus !… Que quelqu’un ferme la fenêtre…
+
+['m.', 'monsieur', 'mr', 'mme', 'madame']	M.	Un regard aigu, farouche. — Réponds donc à [MASK] le commissaire… Mais le gamin ne desserrait pas les dents. Ce fut vite fait ! La mère lui envoya une gifle qui se marqua en rouge sur la joue gauche. La tête du gosse oscilla un moment.
+
+['on', 'il', 'elle', 'y', 'noé']	Maigret	°… V Le deuxième jour [MASK] eut ce sommeil agité et voluptueux tout ensemble qu’on n’a que dans une chambre froide de campagne qui sent l’étable, les pommes d’hiver et le foin. Partout autour de lui voletaient des courants d’air.
+
+['je', 'celui-ci', 'on', 'julien', 'madame']	Maigret	— Quelqu’un a-t-il intérêt à la mort de votre mère ? — Je ne comprends pas… Le docteur vient de dire… Il était anxieux. Il avait des gestes saccadés. Il prit vivement le papier que [MASK] lui tendait et qui annonçait le crime.
+
+['elle', 'il', 'on', 'jeanne', 'marie']	Maigret	Elle avait les cheveux roulés sur des épingles et elle rougit en voyant surgir le commissaire. — Il n’est pas encore sept heures… Le café n’est pas prêt… [MASK] avait une petite inquiétude. Dans son demi-sommeil, une demi-heure auparavant, il croyait avoir entendu passer une auto.
+
+['-', '</s>', 'et', 'il', 'on']	Saint-Fiacre	Le maître d’hôtel se fit attendre longtemps, arriva la bouche pleine, sa serviette à la main. [MASK] lui arracha celle-ci d’un geste sec. — Vous ferez venir le régisseur… Ensuite vous me demanderez au téléphone le presbytère, puis la maison du docteur.
+
+['il', 'on', 'elle', '</s>', 'chacun']	Maurice	C’est toujours gênant, en pareil cas, de manifester moins de chagrin que des gens qui devraient être indifférents. [MASK] écoutait ces condoléances en essayant de cacher son impatience et, par contenance, il alla prendre sur l’étagère une bouteille de rhum, en emplit deux verres.
+
+['-', '"', "'", 'est-ce', '</s>']	Maigret	— [MASK] ? Le régisseur était frappé par ce nom, mais ne parvenait pas à préciser ses souvenirs. — On vous a mis au courant ? — On vient de m’avertir… J’étais à la chasse… Mais qu’est-ce que la police ?…
+
+['il', 'elle', "s'", 'on', "j'"]	Maigret	! Tous les créanciers vont s’abattre ! Il faudra vendre ! Et, avec les hypothèques… Le fauteuil dans lequel [MASK] était assis était neuf, comme la cheminée, et devait sortir d’un magasin du boulevard Barbès. Il y avait un phonographe sur le buffet.
+
+['</s>', '-', '.', ',', 'de']	Bouchardon	? [MASK] haussa les épaules en esquissant un drôle de sourire. — Vous allez le voir. — Mais enfin, qui est-ce ? — Un jeune homme… Un charmant jeune homme… — Un parent ? — Si vous voulez !… À sa manière !…
+
+['il', 'on', "j'", 'elle', "s'"]	Maigret	Le sacristain était sorti en courant pour aller chercher le médecin du hameau. Et [MASK] en oubliait ce que sa présence avait d’insolite. Il mit plusieurs minutes à comprendre l’interrogation soupçonneuse que contenait le regard ardent du prêtre. — Qui êtes-vous ? questionna enfin celui-ci.
+
+['il', '-', '--il', 'elle', "j'"]	Maigret	Et, après un temps de réflexion : — Qu’est-ce que vous allez me faire ? [MASK] oublia de répondre. Il pensait. Il pensait que son rôle dans cette affaire s’était borné à apporter le dernier chaînon, un tout petit chaînon qui bouclait parfaitement le cercle.
+
+[',', "jusqu'", 'et', 'lettre', 'appartient']	Maigret	C’était le café élégant. Sur une estrade, trois musiciens accordaient les instruments, composaient le numéro d’ordre du morceau à l’aide de trois cartons portant chacun un chiffre. Du bruit, dans la cabine téléphonique. — Un demi ! commanda [MASK] au garçon.
+
+['il', 'en', 'on', ',', 'artagnan']	Maigret	[MASK] fut persuadé que c’était la peur d’un faux mouvement, d’une manœuvre maladroite. Entre eux trois, il y avait une équivoque. Et chacun n’avançait son pion qu’à regret, prêt à le reprendre. — Je suis venu chercher des instructions pour les obsèques !
+
+['il', 'et', 'qui', ',', 'en']	Maigret	[MASK] sortait. Il allait descendre le perron quand un homme se trouva à côté de lui sans qu’il eût pu deviner d’où il venait. — Excusez-moi, monsieur le commissaire… Je voudrais que vous m’accordiez quelques instants d’entretien… J’ai entendu dire…
+
+['"', 'etc', 'et', '-', 'dit-il']	Albert	— Je disais… Qu’est-ce que je disais donc ?… Ah ! oui !… Remplissez le verre de M. le curé, [MASK]… « Je disais que, puisque l’assassin est ici, les autres font en quelque sorte figure de justiciers…
+
+['chambre', 'france', 'navarre', 'paris', 'service']	Maigret	— Le comte travaille… Et ces mots suffisaient à faire attendre les fermiers pendant deux heures dans l’antichambre ! — Le comte m’a fait venir dans la bibliothèque… Et le père de [MASK] en était troublé, parce que cela prenait figure d’événement important.
+
+['il', 'elle', 'chacun', 'on', 'jean']	Maigret	— Oui ! c’est étrange… — J’ai l’impression de vous avoir déjà vu quelque part… — C’est possible… Et [MASK] hâta le pas le long du couloir. Il avait la tête un peu vide, parce qu’il n’avait pas assez dormi.
+
+['-', '</s>', 'il', '...', 'elle']	Maigret	— Je peux partir, monsieur ? [MASK] n’entendit pas. Il parlait à l’avocat. — Vous n’avez pas encore compris ? — C’est-à-dire que si l’on examine… — Un bon conseil : n’examinez rien du tout !
+
+['je', 'le', ',', 'il', 'un']	Gautier	Dans un miroir à cadre doré, il aperçut l’image du jeune homme, assis sur un coin de bureau, l’air accablé, et celle du régisseur, bien calé sur ses courtes pattes. — Vous auriez dû comprendre que ce n’était pas la peine d’insister ! disait [MASK]
+
+['il', 'on', 'elle', 'chacun', "j'"]	Maigret	… Le prêtre et le docteur marchaient devant et [MASK] entendit la voix du médecin qui disait : — Mais non, monsieur le curé ! C’est humain ! Archi-humain ! Si seulement vous aviez fait un peu de physiologie au lieu d’éplucher les textes de saint Augustin…
+
+['</s>', 'il', 'qui', 'celui-ci', 'bonaparte']	Maigret	Puis une feuille quadrillée. Une écriture appliquée : … commis à l’église de Saint-Fiacre pendant la première messe du Jour des morts. Le papier avait traîné pendant plusieurs jours dans les bureaux du Quai des Orfèvres. [MASK] l’avait aperçu par hasard, s’était étonné.
+
+['</s>', 'on', 'il', 'elle', 'qui']	Maigret	Les visages étaient coupés par la bise. [MASK] devait serrer à deux mains le col de son pardessus. On traversa le village sans ralentir. C’est à peine si l’on devina la lumière de l’auberge, puis le clocher pointu de l’église.
+
+['il', 'a-t-il', 'avait-il', 'elle', 'a']	Maigret	Elle ne bougeait pas. La plupart des autres vieilles étaient aussi rigides. Ité missa est… « La messe est dite… » Alors seulement [MASK] sentit combien il avait été angoissé. Il s’en était à peine rendu compte. Il poussa un involontaire soupir.
+
+['</s>', '"', '.', ')', '-']	Ernest	— C’est votre avis qu’il vaut mieux partir sans ?… Trop tard ! [MASK], qui avait repris son sifflet, ouvrait la porte et s’en allait à toutes jambes. — Légalement, nous sommes dans une situation excel… — Excellente, oui !
+
+['juliette', 'jésus', 'dieu', 'rodin', 'dire']	Saint-Fiacre	Ils arrivèrent au bas de l’escalier au moment où les deux autres, là-haut, atteignaient la porte de la chambre mortuaire. Et l’on entendit la voix de [MASK] : — Entre ! — Je ne peux pas… Je… — Entre !
+
+['il', 'chacun', 'on', ',', 'individu']	Maigret	[MASK] se sentait en présence d’une force contre laquelle il n’y avait rien à tenter. Certains individus, à un moment donné de leur vie, ont ainsi une heure de plénitude, une heure pendant laquelle ils sont placés en quelque sorte au-dessus du reste de l’humanité et d’eux-mêmes.
+
+['elle', 'celle-ci', 'dieu', 'madame', 'marie']	Maigret	Mes fidèles sont… Puisque la comtesse était morte d’une embolie, est-ce que [MASK] n’avait pas le droit de rassurer le curé ? — Vous avez entendu ce qu’a dit le docteur… — Pourtant vous êtes venu ici, aujourd’hui, justement à cette messe…
+
+[')', ',', ';', '...', ':']	Maigret	[MASK] s’approcha de lui, ne put lire les pattes de mouches mais vit que les alinéas étaient bien divisés, avec seulement quelques ratures, et précédés chacun d’un chiffre. 1°… 2°… 3°… Le secrétaire préparait sa défense, en attendant son avocat
+
+['</s>', '-', 'il', 'elle', 'on']	Maurice	— Un crime qui ne regarde pas la police officielle ! — Expliquez-vous… Je commence à… Mais on entendit une voix de femme dans le hall, accompagnée de la voix plus grave du régisseur. [MASK] sourcilla, se dirigea vers la porte qu’il ouvrit d’un geste brusque.
+
+['lui', 'elle', 'moi', 'tous', 'lui']	Maigret	Et maintenant encore, pour l’enterrement, c’est moi qui… Une image s’imposa à [MASK] : le petit bureau de son père, près des écuries, le samedi à cinq heures. Toutes les personnes occupées au château, depuis les lingères jusqu’aux journaliers, attendaient dehors.
+
+['la', "l'", 'm.', 'madame', 'son']	Maurice	— Elle ne méritait pas ça ! fit la voix rêveuse de [MASK]. — Qui ? — Maman ! Et à ce moment, il avait quelque chose d’enfantin, malgré sa taille, son commencement d’embonpoint. Peut-être fut-il enfin sur le point de pleurer ?
+
+['il', 'elle', 'on', 'et', 'ii']	Maigret	Le gamin était roux. Il agita sa sonnette. Le murmure des prières liturgiques commença. « … pendant la première messe… » [MASK] avait regardé une à une toutes les ombres. Cinq vieilles femmes, dont trois avaient leur prie-Dieu réservé. Une grosse fermière.
+
+['on', 'il', 'je', 'elle', '"']	Maigret	Je lui ai laissé croire que c’était de première importance… Et dans les yeux du prêtre, maintenant, [MASK] lisait l’angoisse, la réprobation. « Le malheureux ! devait-il penser. Il s’enferre ! Il tombe dans le piège. Il est perdu… »
+
+['</s>', 'un', 'le', 'chacun', 'qui']	Maigret	. La journée devait être marquée jusqu’au bout par le signe du désordre, de l’indécision, sans doute parce que personne ne se sentait qualifié pour prendre la direction des événements. [MASK], engoncé dans son lourd pardessus, errait dans le village.
+
+['il', ',', 'et', 'qui', 'on']	Maigret	[MASK] fixait la table aux lions sculptés qui tenaient dans leur gueule des anneaux de cuivre. Et une fois encore il ressentit sa fatigue physique et morale. Jadis, il n’avait le droit d’entrer dans cette pièce qu’en pantoufles, à cause du parquet ciré.
+
+['nous', 'vous', 'moi', 'lui', 'eux']	Tatin	Un jeune homme tout faraud, une fleur rouge à la boutonnière de son veston de serge bleu marine, le visage bien lavé, les cheveux brillants de cosmétique, osa lancer au commissaire : — On vous attend chez [MASK], rapport au gars qui a volé…
+
+['</s>', 'il', '...', 'on', '"']	Jean	» La cloche sonnait le second coup de la messe. Les gens devaient se presser. Il y avait les fermiers qui venaient de loin, en carriole ! Et ils avaient apporté des fleurs à déposer sur les tombes du cimetière ! [MASK] n’osait pas s’approcher.
+
+['cela', "qu'", ',', 'ça', 'quoi']	Maigret	D’habitude, elle ne louait que de temps en temps une chambre mansardée à un ouvrier qui venait faire des réparations au château ou dans une ferme. Et voilà qu’outre [MASK] elle avait un nouveau pensionnaire : le secrétaire de la comtesse. Elle n’osait questionner personne.
+
+['ah', 'oh', 'eh', 'hélas', 'dieu']	Maurice	Qu’est-ce que ?… — [MASK] ! Pourquoi ne me laisse-t-on pas entrer ?… C’est intolérable ! Il y a une heure que j’attends à l’hôtel… Elle parlait avec un accent étranger très prononcé.
+
+['</s>', '-', 'il', 'elle', '"']	Gautier	? [MASK] remplissait les verres d’eau-de-vie, mais gardait un silence obstiné. — Qu’est-ce qu’il avait à faire au château ? Comme régisseur, je suppose que vous vous occupez de tout… — De tout ! — Alors ? — Il ne faisait rien…
+
+['il', 'homme', ',', 'elle', 'et']	Maigret	[MASK] regardait les cheveux de l’employé de banque et, malgré son inquiétude, il ne put s’empêcher de sourire. Les cheveux étaient humides. Avant d’entrer au château, le jeune homme avait rectifié sa raie, s’était lavé la figure et les mains, avait changé de cravate.
+
+['il', 'chacun', 'on', 'lui', ',']	Maigret	Et pourtant [MASK] tendit l’oreille, car il sentit une intention, devina que quelque chose allait commencer. On n’était qu’aux hors-d’œuvre. Sur la table, il y avait pêle-mêle une vingtaine de bouteilles de vin blanc et rouge, bordeaux et bourgognes, et chacun se servait à sa guise.
+
+['m.', 'monsieur', 'vous', 'lui', 'moi']	M.	— C’est [MASK] le commissaire ? Tout le monde regardait de son côté. — Je veux d’abord vous dire, monsieur le commissaire, qu’on a toujours été honnête dans la famille ! Et pourtant on est pauvre… Vous comprenez ?…
+
+['il', 'on', 'celui-ci', 'elle', 'lui-même']	Saint-Fiacre	Sous le coup, il chancela et fut sur le point de pleurer de douleur, de peur, de désarroi. L’avocat voulut s’interposer, mais [MASK] le repoussa. — Je vous en prie, vous ! Et ce vous marquait toute la distance qu’il y avait entre eux.
+
+['st', '10', 'mrs', '14', '13']	Maigret	Une lumière équivoque sur le village. Une situation équivoque ? Des allées et venues imprécises ! — Venez ! dit [MASK]. Et le docteur dut dire la même chose au secrétaire qu’il entraîna jusqu’au moment où il put lancer : — Bonjour, monsieur le curé !
+
+['il', 'elle', 'et', 'se', 'celui-ci']	Maigret	! C’était la débâcle ! Avant d’ouvrir la porte de la bibliothèque, [MASK] marqua un temps d’arrêt, mais ce fut en vain, car il ne perçut aucun bruit. C’est même ce qui donna à son entrée quelque chose d’impressionnant.
+
+['ah', 'oh', 'non', 'oui', 'ouf']	Albert	Ne vous laissez surtout pas impressionner, comme votre père, qui semble sur le point de se trouver mal… « [MASK] !… Il doit bien rester quelques bouteilles de vin dans un casier… « À vous, jeune homme !
+
+['marguerite', 'celui-ci', 'henriette', 'jacques', 'geneviève']	Bouchardon	… (il désignait le domestique)… Transportez-la dans sa chambre… Et tandis qu’ils se penchaient vers le coupé, une sonnerie retentit dans le hall. — Le téléphone !… C’est étrange, à cette heure-ci !… grommela [MASK].
+
+['</s>', 'celui-ci', 'chacun', 'lui', 'charles']	Maigret	Une hésitation passa sur son visage. Au même moment le commissaire s’avança. Ils furent deux tout près d’elle, à s’étonner de son immobilité, à chercher à voir le visage que cachaient les mains jointes. [MASK], impressionné, toucha l’épaule.
+
+['tout', 'celui-ci', 'jacques', 'cela', 'roland']	Jean	— Filez ! grommela alors le commissaire à l’adresse des domestiques, qui ne demandaient pas mieux. Il retint [MASK] par la manche, le regarda des pieds à la tête, l’amena dans l’embrasure d’une fenêtre. — Dans quels termes êtes-vous avec le fils de la comtesse ?
+
+['il', 'elle', 'on', 'qui', "n'"]	Maigret	? — Sans doute à Moulins ! C’est presque un jeune homme de la ville. Il travaille dans une banque… On voyait des gens sortir de chez eux, se promener sur la route ou se diriger vers le cimetière. Chose étrange, [MASK] avait sommeil.
+
+['.', '"', '!', '-', '</s>']	Maigret	[MASK]. Et son compagnon sauta sur cette affirmation. — Merci !… Eh bien ! c’est ce qu’il faut dire aux gens… Vous comprenez ?… Sinon, ma position n’est pas tenable… — À quelle banque votre chèque doit-il être présenté ?
+
+['moi', 'lui', 'vous', 'moi-même', 'elle']	Maigret	C’était plein de grands pans d’ombre où l’on distinguait à peine les objets. — Allô !… Oui, j’y tiens absolument… Merci, docteur… L’avocat et [MASK] étaient inquiets. Mais ils n’osaient pas encore s’avouer leur inquiétude.
+
+["c'", 'il', '"', "--c'", 'elle']	Saint-Fiacre	! [MASK] était catégorique ! Il était ivre, cela ne faisait plus l’ombre d’un doute ! Il avait cette éloquence particulière aux ivrognes, mélange de brutalité et de finesse, de facilité d’élocution et de mots escamotés. — Il ne reste que moi !
+
+['celui-ci', 'napoléon', 'jacques', 'jésus', 'valentine']	Saint-Fiacre	Avant d’entrer au château, le jeune homme avait rectifié sa raie, s’était lavé la figure et les mains, avait changé de cravate. — À table, messieurs ! Et le commissaire eut la certitude qu’un sanglot gonflait la gorge de [MASK].
+
+['guerre', 'laura', 'cheval', 'corps', 'jane']	Maigret	Le jour était né. Une lumière grise pénétrait dans la nef en même temps que des courants d’air. Il restait trois personnes… Deux… Une chaise remuait… Il ne restait plus que la comtesse, et les nerfs de [MASK] se crispèrent d’impatience…
+
+['il', 'qui', "c'", 'elle', 'tout']	Jean	— Qu’est-ce que ?… — Chut !… Il faut que je vous parle… À côté du commissaire, [MASK] était pâle, inquiet. En passant, le comte de Saint-Fiacre lui envoya un léger coup de poing à l’épaule, plaisanta :
+
+['il', 'on', 'qui', 'elle', '-']	Maigret	Et [MASK] ne se trompait pas. La main sur la hanche, la femme allait et venait, en quête du jeune homme ! L’avocat parlait toujours. — Il y a des intérêts très complexes en présence et nous sommes disposés pour notre part…
+
+['il', '</s>', 'on', "c'", 'celui-ci']	Maigret	Il n’était pas troublé. [MASK] était sûr d’avance que c’était un employé modèle, en qui son directeur avait toute confiance, et qui aurait rapidement de l’avancement. Un costume noir, fait sur mesure, mais par un tailleur du pays, dans une serge inusable.
+
+['-t-il', 't-il', 'celui-ci', ',', 'jean']	Maigret	! Ceux qui avaient quelque valeur ! — Vous êtes devenu l’amant de la comtesse… — Chacun est libre d’aimer qui… — Imbécile ! gronda [MASK] en tournant le dos à son interlocuteur. Comme si les choses n’étaient pas évidentes par elles-mêmes !
+
+['tout', 'tous', 'elle', 'eux', 'elle-même']	Saint-Fiacre	Mais c’est un mystique, un apôtre, presque un saint… Il a une drôle de paroissienne qui fait scandale par sa conduite… Tantôt elle se précipite à l’église comme la plus fervente des fidèles et tantôt elle fait régner le scandale sur [MASK]… Mais non !
+
+['il', "j'", 'on', 'elle', '</s>']	Gautier	— Soi-disant, on ne peut rien faire avant l’intervention du notaire, qui ne réunira les intéressés qu’après les obsèques. Et [MASK] ajoute que, même sans cela, il serait difficile de trouver quarante mille francs à emprunter sur les biens qui restent…
+
+['je', 'tu', 'vous', 'ça', 'le']	Ernest	Il avait hâte de l’examiner. Il fit mine de marcher vers le fond de la salle. — Monsieur le commissaire… La femme le rappelait. Elle était déroutée. — On m’avait dit qu’il y avait une récompense… Ce n’est pas parce que [MASK]…
+
+['</s>', '-', '(', '--', 'et']	Gautier	— Renvoyez la voiture et payez le chauffeur. Le désordre croissait. Non pas un désordre matériel, réparable, mais un désordre moral, qui semblait contagieux. [MASK] lui-même perdait pied. — Il faut pourtant que nous causions, commissaire… vint dire le jeune homme.
+
+['ce', 'il', 'qui', 'cela', 'celui-ci']	Émile	Mais [MASK] n’était pas encore un garçon de la ville. Ses cheveux, bien que cosmétiqués, restaient rebelles, se dressaient en un épi au sommet du crâne. Ses joues étaient roses, avec cet aspect bien lavé des farauds de village, le dimanche matin.
+
+['qui', ':', ',', 'il', 'se']	Maigret	[MASK] fumait lentement. Il fixait lui aussi le billard éclairé violemment par des abat-jour en carton vert. De temps en temps la porte s’ouvrait et après quelques secondes on était surpris par une bouffée d’air glacé. — Mettons-nous dans le fond…
+
+['vous', 'nous', 'les', 'le', 'm']	Mathieu	— … Paraît qu’il est venu rapport à la vache qui a crevé l’autre semaine chez [MASK]… Un jeune homme tout faraud, une fleur rouge à la boutonnière de son veston de serge bleu marine, le visage bien lavé, les cheveux brillants de cosmétique, osa lancer au commissaire
+
+['il', 'on', 'tout', 'ce', 'je']	Maigret	Et pourtant [MASK] n’était pas satisfait. Il essayait de suivre les regards anxieux du comte qui semblait attendre ou craindre quelque chose. — Elle n’a pas l’air commode ! insinua le commissaire. — Elle a connu des jours meilleurs. Alors, elle est très susceptible…
+
+['il', 'elle', 'on', 'qui', 'madame']	Maigret	? — Aucune ! — Pas même la trace à peine perceptible d’une piqûre ? — J’y ai pensé… Rien !… Et la comtesse n’a absorbé aucun poison… Vous voyez qu’il serait difficile de prétendre… [MASK] avait le front dur.
+
+['moi', 'moi-même', 'le', 'm', 'lui-même']	Maigret	Le sacristain achevait d’allumer les cierges. Combien étaient-ils, dans cette réunion fantomatique de gens mal réveillés ? Une quinzaine au plus. Il n’y avait que trois hommes : le bedeau, le sonneur et [MASK]. « … Un crime sera commis… »
+
+[',', 'et', '"', 'il', 'on']	Bouchardon	[MASK] le poursuivit. — Entre nous, je serais curieux de savoir par quel hasard vous étiez précisément à l’église ce matin… — Oui ! c’est étrange… — J’ai l’impression de vous avoir déjà vu quelque part… — C’est possible…
+
+['jeanne', 'marie', 'pierre', 'lui', 'jésus']	Maigret	— Vous avez un briquet ou… Et pendant qu’il se penchait sur la cheminée, le prêtre lançait à [MASK] un regard désolé, suppliant. — Maintenant, dit le comte en revenant vers les deux hommes, je vais, en quelques mots, éclaircir la situation.
+
+['il', 'et', 'je', 'on', 'tout']	Maigret	? — On les refond. — Tous les combien de jours ? — Tous les deux jours… Tenez ! la fondeuse est là-bas, dans le coin… Attention ! C’est chaud… [MASK] sortit, un peu las, peut-être un peu découragé.
+
+['il', 'on', 'elle', '</s>', 'chacun']	Maigret	C’est mon tour, n’est-ce pas ?… Et, dans le hall : — Ce ne sera malheureusement pas très gai… [MASK] eût voulu lui dire quelques mots en particulier, mais l’autre ne lui en laissa pas le temps, ouvrit la porte du fumoir.
+
+['</s>', '-', 'il', 'on', '--']	Albert	On entendit sonner dix heures du soir à la cloche grêle de l’église. [MASK] tendait un gros revolver à barillet au comte et celui-ci en vérifiait le chargement. — Parfait !… Je le pose ici, au milieu de la table, qui est ronde…
+
+['il', 'elle', '-', 'on', '</s>']	Maurice	Le commissaire allait l’interpeller. Mais déjà, avec une hâte maladroite, le curé lançait vers les deux hommes un salut assez bref et pénétrait dans le presbytère, comme s’il fuyait. — Il n’a pas l’aspect d’un curé de campagne… [MASK] ne répondit pas.
+
+['chacun', 'personne', 'jeanne', 'lui', 'on']	Maigret	Alors, les secrétaires… Ses prunelles étaient si brillantes que [MASK] s’attendait à voir couler une larme. — Qu’est-ce qu’elle vous a dit ?… Elle avait peur de me voir arriver, n’est-ce pas ?…
+
+['croire', 'tous', 'lui', 'entendre', 'lui-même']	Maigret	! Avant toute chose, je voudrais vous poser une question… Devant lui, le visage régulier du prêtre était grave, mais il semblait à [MASK] que les yeux étaient brillants de fièvre. — Ce matin, il s’est passé un événement troublant.
+
+['marie', 'sophie', 'madame', 'catherine', 'jacques']	Maurice	Il se contenait pour ne pas intervenir. — Écoutez-moi, monsieur… Il n’en pouvait plus. — Voulez-vous interrompre cette conversation jusqu’à ce que nous ayons eu ensemble un entretien… Le même sourire que tout à l’heure sur les lèvres de [MASK].
+
+['alors', '-', 'maintenant', 'allons', 'voyons']	Ernest	— Viens te promener avec moi… — Vous voulez ?… s’exclama la femme. Mais alors… [MASK]… Va vite mettre ton beau costume… — Ce n’est pas la peine, madame !… Viens, mon petit bonhomme… La rue était déserte.
+
+['monsieur', 'jésus', 'jeanne', 'georges', 'dieu']	Saint-Fiacre	Un temps d’hésitation, très court. — Non, commissaire… Je vais vous dire… Ce n’était pas sur le visage de [MASK] que le drame se jouait : c’était sur celui du curé ! Il était pâle. Ses lèvres avaient un pli amer.
+
+['lui', 'dieu', 'lui-même', 'jésus', 'paul']	Maigret	D’hommes, il n’y avait plus que [MASK] et le prêtre ; un jeune prêtre au regard passionné de mystique. Il ne se pressait pas, comme le vieux curé que le commissaire avait connu. Il n’escamotait pas la moitié des versets. Les vitraux pâlissaient.
+
+['madame', 'dit-elle', 'non', 'maman', 'monsieur']	Gautier	L’espace de quelques secondes, chacun cessa de mastiquer et l’on sentit passer comme un courant d’air glacé. — Au fait, [MASK], on l’a laissée toute seule ? Le régisseur avala en hâte, bégaya :
+
+['.', '...', 'le', 'la', '!']	Maigret	Des gamins, sac au dos, commençaient à se diriger vers l’école. La surface de l’étang Notre-Dame devenait couleur de miroir. — Quelles dispositions avez-vous prises pour… commença [MASK]. Et son interlocuteur, beaucoup trop vivement : — Pour quoi ?
+
+['cheval', 'paris', '...', 'mademoiselle', 'madame']	Bouchardon	demanda le commissaire à [MASK]… Un instant… Vous voulez nous laisser, mademoiselle ? Et il referma la porte derrière la femme de chambre, alla coller son front à la fenêtre, laissa errer son regard sur le parc tout feutré de feuilles mortes et de grisaille.
+
+['il', 'on', 'et', '--il', '</s>']	Maigret	À la saison des chasses, il y avait jusqu’à trente invités à la fois au château, pendant des semaines… [MASK] le savait mieux que quiconque, lui qui, lors des battues, aimait, à l’insu de ses parents, à revêtir la blouse blanche d’un rabatteur !
+
+[',', 'il', '-', '(', 'le']	Maigret	— Le metteur en pages ! [MASK] prit dans son portefeuille le texte qui avait tué la comtesse de Saint-Fiacre. L’homme, assurant des limettes à cercle d’acier devant ses yeux, le regarda en se demandant ce que cela voulait dire. — Cela sort de chez vous
+
+['lui', 'lui-même', 'moi', 'celui', 'celui-ci']	Maigret	Peut-être parce que [MASK], jadis, avait eu envie — sans jamais en posséder ! — d’un missel doré sur tranche, avec non seulement l’ordinaire de la messe, mais tous les textes liturgiques sur deux colonnes, en latin et en français.
+
+['</s>', 'il', 'elle', 'on', 'chacun']	Maigret	Une succursale de banque comme toutes celles de province. Un long comptoir de chêne. Cinq employés penchés sur des bureaux. [MASK] se dirigea vers le guichet surmonté des mots « Comptes courants » et un employé se leva, attendit son bon plaisir.
+
+['il', 'on', 'chacun', 'lui-même', 'elle']	Maigret	Est-ce que… Et [MASK] sentait que ces idées naissaient dans le cerveau du jeune homme, encore confuses. Il aidait à les préciser. — M. le curé ne peut rien dire si la comtesse a parlé sous le secret de la confession… Ce fut net.
+
+['il', 'elle', 'on', 'et', 'chacun']	Maigret	La chambre ressemblait au reste de la maison. Elle était trop vaste, trop froide, encombrée de vieux objets dépareillés. En voulant s’accouder au marbre de la cheminée, [MASK] s’aperçut qu’il était cassé. — Vous avez trouvé quelque chose ?
+
+['jacques', 'marguerite', 'robert', 'vivement', 'celui-ci']	Maigret	On voyait des têtes aller et venir au-dessus du mur bas du cimetière. Et, dans la cour du château, l’auto jaune apportait la seule tache de couleur vive. — Le chèque est barré ? questionna [MASK]. — Oui ! Mais il sera présenté demain.
+

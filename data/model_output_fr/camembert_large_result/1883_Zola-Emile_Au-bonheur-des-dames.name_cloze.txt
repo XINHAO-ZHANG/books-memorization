@@ -1,0 +1,200 @@
+['David', 'Joseph', 'Daniel', 'Jean', 'Pierre']	Hutin	C’était comme un secours fraternel qui lui arrivait. Elle avait levé les yeux, elle contemplait [MASK], et tout en lui la touchait, le joli visage, le regard dont le sourire dissipait sa crainte, la voix qui lui semblait d’une douceur consolante.
+
+['Jeanne', 'Antoine', 'Marie', 'Marius', 'Pierre']	Mouret	:– Elles se vengeront… Il y en aura une qui vengera les autres, c’est fatal.– As pas peur ! cria [MASK] en exagérant son accent provençal. Celle-là n’est pas encore née, mon bon. Et, si elle vient, vous savez…
+
+['cela', 'elle', 'ça', 'tout', 'Madame']	Mouret	C’était la besogne inférieure des débutantes. Elle ne protestait plus, sachant qu’on exigeait une obéissance passive, attendant que la première voulût bien la laisser vendre, ainsi qu’elle semblait d’abord en avoir l’intention. Et elle pliait toujours, lorsque [MASK] parut.
+
+['Sophie', 'Jeanne', 'Louise', 'Marguerite', 'Marie']	Deloche	Je ne voulais pas vous offenser, répétait [MASK] que les larmes gagnaient.– Non, écoutez, dit-elle d’une voix encore tremblante, je n’ai aucune colère contre vous. Seulement, je vous en prie, ne me parlez plus comme vous venez de le faire…
+
+['Marie', 'Juliette', 'Julie', 'Sophie', 'Mathilde']	Hutin	La soie surtout était en révolution, car on y pariait des choses chères.– Sacrédié ! lâcha [MASK], s’éveillant comme d’un rêve, ai-je été bête de ne pas coucher avec !… C’est aujourd’hui que je serais chic !
+
+['il', 'Il', 'David', 'Paul', 'Thomas']	Mouret	Lentement, [MASK] avait reposé les listes sur la table. Il regardait la jeune fille, qui était restée assise, la plume à la main. Elle ne détournait pas les regards, elle avait seulement pâli davantage.– Vous viendrez, ce soir ? demanda-t-il à demi-voix.–
+
+['Napoléon', 'celui', 'Dieu', 'Jupiter', 'ce']	Mouret	Mais on aurait trouvé en outre, au fond de ce changement, le réveil d’une ambition ancienne, l’espoir effrayé et peu à peu élargi de manger à son tour [MASK], devant lequel il avait si longtemps courbé l’échine.
+
+['Elle', 'Marie', 'Madame', 'Jeanne', 'Madeleine']	Mignot	et les commis souriants amoncelaient devant elles les boîtes plates, d’un rose vif, qu’ils sortaient du comptoir même, pareilles aux tiroirs étiquetés d’un cartonnier. [MASK] surtout penchait sa jolie figure poupine, donnait de tendres inflexions à sa voix grasseyante de Parisien.
+
+['Elle', 'Il', 'On', 'Marie', 'Marguerite']	Geneviève	On assurait qu’il allait entrer au Louvre.– Si vous l’aimez tant, il peut vous revenir encore, continua la jeune fille, pour endormir la mourante dans ce dernier espoir. Guérissez vite, il reconnaîtra ses fautes, il vous épousera.[MASK] l’interrompit.
+
+['Marie', 'Anna', 'Sophie', 'Anne', 'Alice']	Marguerite	laissa [MASK] achever l’appel des vêtements. Il restait à faire un travail de contrôle, pour lequel, désireuse de silence, elle se retira dans la salle de l’échantillonnage, en emmenant la jeune fille.– Venez avec moi, nous collationnerons… Puis, vous additionnerez.
+
+['Il', 'Elle', 'On', 'Maman', 'Madame']	Denise	Mon Dieu ! comme vous le disiez autrefois, la fabrication n’a qu’à suivre le progrès, par une meilleure organisation et des procédés nouveaux. Tout s’arrangera, il suffit que le public soit content.[MASK] souriait. Elle répondit :
+
+['lui', 'nous', 'eux', 'moi', 'vous']	Dumonteil	Ils arrivent chez [MASK], n’est-ce pas ? se réservent la propriété d’un dessin, emportent du coup trois cents pièces, en exigeant une diminution de cinquante centimes par mètre ; et, comme ils payent comptant, ils bénéficient encore de l’escompte de dix-huit pour cent…
+
+['Il', 'Gabriel', 'Louis', 'Paul', 'Arthur']	Pépé	Ils firent de nouveau quelques pas en silence. [MASK] semblait écouter de son air attentif d’enfant précoce. Par moments, il levait les yeux sur sa sœur, dont la main brûlante, secouée de légers tressaillements, l’étonnait :– Tenez !
+
+['Marie', 'Clara', 'Anna', 'Catherine', 'Jeanne']	Denise	Tout avait disparu, les victoires bruyantes d’hier, la fortune colossale de demain. D’un regard désespéré, il suivait [MASK], et quand elle eut passé la porte, il n’y eut plus rien, la maison devint noire.
+
+['–', '«', ':', '—', '</s>NOTUSED']	Baudu.–	Elle se reprit, elle bégaya :– Oui, je suis chargée de vous offrir une place d’inspecteur.– Où donc ? demanda [MASK] Mon Dieu ! là, en face… Chez nous… Six mille francs, un travail sans fatigue.Brusquement, il s’était arrêté devant elle.
+
+['elle', 'Madame', 'Mme', 'Mademoiselle', 'madame']	Denise	Alors, [MASK], gagnée par cette familiarité, se livra davantage, laissa voir qu’elle était pour les grands magasins, dans la bataille livrée entre ceux-ci et le petit commerce ; elle s’animait, citait des exemples, se montrait au courant de la question, remplie même d’idées larges et nouvelles.
+
+['Pierre', 'Jacques', 'Monsieur', 'Marie', 'Louis']	Hutin	Comme il donnait pourtant les dernières pièces à [MASK], il reprit à voix basse :– Dites donc, j’oubliais… Vous a-t-on raconté que la seconde des confections a eu une toquade pour vous ?Le jeune homme parut très surpris.– Tiens ! comment ça ?
+
+['le', '</s>NOTUSED', 'Louis', 'Charles', 'Monsieur']	Mouret	Et j’ai songé cette nuit à autre chose, expliqua [MASK]. Oui, mon cher, cette nuit, à ce souper… J’ai envie de donner aux employés du bureau de défalcation une petite prime, pour chaque erreur qu’ils relèveront dans les notes de débit, en les collationnant…
+
+['elle', 'Marie', 'Anna', 'Emma', 'Alice']	Denise	Cependant, [MASK] descendit. Comme elle arrivait au bas du petit escalier de gauche, doucement, en s’appuyant à la rampe, elle tomba sur un groupe de vendeurs qui ricanaient. Son nom fut prononcé, elle sentit qu’on parlait encore de son aventure.
+
+['</s>NOTUSED', 'le', 'un', 'la', 'une']	Gaujean	Il avait payé quarante mille francs la spécialité de soies, et il se lançait avec les vingt mille autres. C’était peu, mais il avait derrière lui [MASK], qui devait le soutenir par de longs crédits. Depuis sa brouille avec le Bonheur des Dames, ce dernier rêvait de susciter au colosse des concurrences
+
+['il', 'elle', 'on', 'Il', 'Marie']	Mouret	Épousez-la, et que cela finisse.Déjà [MASK] avait honte de sa minute d’abandon. Il se leva, il protesta.– Non, non, c’est trop bête… Venez, nous allons faire notre tour dans les magasins. Ça marche, n’est-ce pas
+
+['Il', 'Jésus', '</s>NOTUSED', 'il', 'Joseph']	Jean	… Et tu me tourmentes chaque semaine, je me tue à t’entretenir de pièces de cent sous. Oui, je passe les nuits… Sans compter que tu enlèves le pain de la bouche de ton frère.[MASK] restait béant, la face pâle. Comment !
+
+['Elle', '»', '</s>NOTUSED', '«', 'elle']	Denise	– Ce qu’elle m’a embêté, celle-là ![MASK], frappée au cœur, se retint à la rampe. On dut la voir, tous se dispersèrent avec des rires. Il avait raison, elle s’accusait de ses ignorances d’autrefois, quand elle songeait à lui.
+
+['Pierre', 'Marguerite', 'chacun', 'Alice', 'Lucien']	Denise	Aussi dut-il inventer de la besogne, le lendemain, lorsqu’il installa [MASK] dans un coin de sa boutique. Il ne pouvait pas laisser mourir le monde chez lui.– Vous aurez quarante sous par jour, dit-il. Quand vous trouverez mieux, vous me lâcherez.
+
+['Elle', 'Marie', 'Anna', 'Louise', 'Il']	Denise	[MASK] garda son attitude respectueuse.– Je suis très touchée, monsieur, de votre bonté pour moi, et je vous remercie de cette invitation. Mais, je le répète, c’est impossible, mes frères m’attendent ce soir.Elle s’entêtait à ne pas comprendre.
+
+['Il', 'Lui', 'Elle', 'Pierre', 'Paul']	Jean	D’ailleurs, elle avait d’autres ennuis, des soucis matériels qui la préoccupaient davantage. [MASK] continuait à n’être pas raisonnable, il la harcelait toujours de demandes d’argent. Peu de semaines se passaient, sans qu’elle reçût de lui toute une histoire, en quatre pages
+
+['«', '-', '–', '5', '2']	Bourdoncle	[MASK]. J’ai l’honneur de vous connaître… Veuillez d’abord rendre les dentelles que vous avez sur vous…Elle se récria de nouveau, elle ne lui laissait plus dire une parole, belle de violence, osant jusqu’aux larmes de la grande dame outragée.
+
+['lui', 'Monsieur', 'Madame', 'monsieur', 'le']	Bouthemont	tandis que [MASK], en grande conférence avec une jeune femme maigre, paraissait prendre à demi-voix une commande importante. Autour d’eux, sur des étagères d’une élégance frêle, les soies, pliées dans de longues chemises de papier crème, s’entassaient comme des brochures de format inusité.
+
+['Elle', 'Il', 'Lui', 'Pierre', 'Emma']	Denise	!Elle lui mit un gros baiser sur la joue. Puis, elle l’interrogea.– Vous irez ce soir, naturellement ?[MASK] la regardait sans répondre. Et, tout d’un coup, elle éclata en sanglots, la tête appuyée sur l’épaule de son amie.
+
+['Elle', 'Madame', 'Il', 'Marie', 'Madeleine']	Denise	Oui, oui, ne prenez pas votre air étonné, on sait qu’un mot de vous révolutionnerait la maison.Et elle se hâta de rentrer à son comptoir. [MASK] avait rougi, troublée de ces allusions amicales. C’était vrai, du reste.
+
+['il', 'lui', 'on', 'elle', 'y']	Bourdoncle	? Il se rapprochait, en continuant de plaisanter, lorsque, à son grand mécontentement, [MASK] parut, sous le prétexte de lui apprendre le chiffre des entrées, l’énorme chiffre de soixante-dix mille clientes, venues au Bonheur ce jour-là.
+
+['celui', 'celle', 'Pierre', 'Jeanne', 'Georges']	Liénard	Ne prenez donc pas cette figure d’enterrement… C’est une chance pour elle, ce qui arrive.Et elle se hâta de retourner à son rayon.– Ah ! bon ! murmura [MASK] qui avait entendu, il s’agit de la demoiselle à l’entorse…
+
+['lui', 'il', 'elle', 'Lui', 'Pierre']	Deloche	; on n’osait jurer que la liaison continuât, seulement on les soupçonnait de se revoir, de loin en loin. Et [MASK] aussi couchait avec elle : ils se retrouvaient sans cesse dans les coins noirs, ils causaient pendant des heures. Un véritable scandale !
+
+['le', 'la', 'Marie', 'Mme', 'Julie']	Jean	Le cadet lui coûtait gros au collège, tout son argent allait à eux, comme autrefois. Ils étaient sa seule raison de vivre et de travailler, puisque, de nouveau, elle jurait de ne se marier jamais.– Enfin, voici, reprit [MASK].
+
+['Jean', 'Pierre', 'Louis', 'Charles', 'Paul']	Denise	L’oncle, tout en affectant de respecter les idées de [MASK], en arrivait à l’endoctriner.– Franchement, tu ne peux les défendre. Me vois-tu joindre un rayon de casseroles à mon commerce de draps ? Hein ? tu dirais que je suis fou…
+
+['il', 'on', 'Paul', 'Pierre', 'David']	Hutin	Cependant, [MASK] était entré le premier. Sur la table, scellée d’un bout dans le mur et couverte d’une toile cirée, il n’y avait que les verres, les fourchettes et les couteaux, marquant les places. Des piles d’assiettes de rechange se dressaient à chaque extrémité ;
+
+['Jean', 'Paul', 'Louis', 'Pierre', 'Georges']	Favier	Une machine à pelurer les pommes de terre fonctionnait avec un tic-tac de moulin. Deux petites voitures, pleines de salades épluchées, passaient, traînées par des aides, qui allaient les remiser au frais, sous une fontaine.– Poulet, répéta [MASK], pris d’impatience.
+
+['Marie', 'Jeanne', 'Marguerite', 'Catherine', 'Julie']	Thérèse	C’était d’abord le paletot havane, que [MASK], après réflexion, voulait changer contre un paletot de drap blanc, même taille, même coupe. Et la jeune fille, ayant pris le paquet, se rendit aux confections, suivie de ses deux frères.
+
+['Elle', 'Il', 'Et', 'On', 'elle']	Mouret	[MASK] lui disait d’une voix basse et tremblante :– Écoutez, je vous aime… Vous le savez depuis longtemps, ne jouez pas le jeu cruel de faire l’ignorante avec moi… Et ne craignez rien. Vingt fois, j’ai eu l’envie de vous appeler dans mon cabinet.
+
+['Pierre', 'Paul', 'Jean', 'Lui', 'Louis']	Pépé	Les petits, ainsi qu’elle les nommait encore, étaient à cette heure de grands gaillards. [MASK], à douze ans, la dépassait déjà, plus gros qu’elle, toujours muet et vivant de caresses, d’une douceur câline dans sa tunique de collégien ;
+
+['Jeanne', 'Louis', 'Louise', 'Marie', 'Marguerite']	Pauline	Qu’avait-elle à étouffer ainsi, et pourquoi cette vaste campagne, où elle s’était promis tant d’insouciance, l’emplissait-elle d’un regret vague dont elle n’aurait pu dire la cause ? Puis, au déjeuner, les rires bruyants de [MASK] l’étourdirent.
+
+['elle', 'la', 'Marie', 'Jeanne', 'enfin']	Pauline	reprit [MASK], en se retournant. Vous n’êtes vraiment pas raisonnable… Pourquoi m’avez-vous amenée ici ? Nous aurions mieux fait de rester dans votre chambre.Elle s’agenouilla devant elle, recommença à la sermonner. Que d’autres auraient voulu être à sa place
+
+['Joseph', 'Louis', 'Charles', 'il', 'Pierre']	Jean	; et elle se mettait au lit, la tête bourdonnante, nourrie par la fièvre qui lui brûlait les mains. Lorsque [MASK] tombait au milieu de cette pauvreté, il se traitait de scélérat, avec une telle violence de désespoir, qu’elle était obligée de mentir ;
+
+['elle', 'il', 'Marie', 'Jeanne', 'Marguerite']	Mouret	Ce n’est pas ça, voici la poche qui reparaît… Et prenez garde, vous me piquez maintenant !À deux reprises encore, [MASK] tâcha vainement d’intervenir, pour faire cesser cette scène. Son cœur bondissait, sous l’humiliation de son amour ;
+
+['Elle', 'Marie', 'elle', 'Catherine', 'Louise']	Denise	[MASK] avait pâli. C’était en elle un froid de glace, comme si, goutte à goutte, le sang de son cœur se fût retiré. Déjà, sur la berge, devant la yole rapide, elle avait senti un premier frisson ;
+
+['on', 'il', 'monsieur', 'papa', 'père']	Baugé	:– Mais, ma chérie, quand on se rencontre et qu’on se plaît ! Êtes-vous drôle ! On ne vous forcera pas… Voyons, voulez-vous que dimanche [MASK] nous conduise quelque part à la campagne ? Il amènera un de ses amis.–
+
+['on', 'il', 'elle', 'Dieu', 'Jésus']	Mouret	Au premier, les confections, la parfumerie, les dentelles, les châles, s’étaient rangés avec dévotion, comme sur le passage du bon Dieu. De proche en proche, le brouhaha s’élevait, devenait une clameur de peuple saluant le veau d’or.Cependant, [MASK] avait ouvert la porte.
+
+['On', 'Il', 'Elle', 'Chacun', 'II']	Favier	[MASK] estimait son fixe et son tant pour cent à cinq mille cinq cents. Chaque saison, les affaires du comptoir augmentaient, les vendeurs y montaient en grade et y doublaient leurs soldes, comme des officiers en temps de campagne.–
+
+['Il', 'Chacun', 'On', 'Tout', 'Qui']	Mouret	À cette heure, le nombre des rayons était de trente-neuf, et l’on comptait dix-huit cents employés, dont deux cents femmes. Un monde poussait là, dans la vie sonore des hautes nefs métalliques.[MASK] avait l’unique passion de vaincre la femme.
+
+['le', 'Jean', 'Daniel', 'David', 'Franck']	Mouret	Elle se hâta de traverser le hall.Puis, un instinct lui fit lever la tête, pendant qu’un inspecteur ouvrait la porte, fermée depuis le matin. Et elle aperçut [MASK]. Il était toujours en haut de l’escalier, sur le grand palier central, dominant la galerie.
+
+['Jean', 'Paul', 'Pierre', 'Georges', 'Lucien']	Favier	Quand les garçons apportèrent les artichauts à l’huile, on ne s’entendait plus. L’inspecteur de service avait l’ordre d’être tolérant.– À propos, cria [MASK], vous connaissez l’aventure ?Mais il eut la voix couverte.
+
+['Monsieur', 'le', 'monsieur', 'lui', 'M']	Paul	et, dans sa robe de dentelle qui découvrait ses poignets et son cou délicats, elle avait un air ravi, à les voir si bien d’accord.– Messieurs, finit-elle par dire, je vous laisse causer.Puis, se tournant vers [MASK], qui s’était mis debout, elle ajouta
+
+[':', 'même', 'là', ';', '«']	Denise	Madame, vint demander à ce moment [MASK], seriez-vous assez bonne pour me permettre de me retirer ? Je ne sers plus à rien, à cause de ma jambe, et comme je dois dîner chez mon oncle, avec mes frères…Ce fut un étonnement.
+
+['il', 'tout', 'Michel', 'Paul', 'Pierre']	Octave	Justement, ce jour-là, [MASK] semblait perdre de son bel équilibre ; lui qui, d’habitude, soufflait la fièvre à ses clientes, avec la grâce tranquille d’un opérateur, il était comme pris dans la crise de passion dont peu à peu les magasins brûlaient.
+
+['Marie', 'Rose', 'Sophie', 'Jeanne', 'Blanche']	Denise	Lorsque [MASK] faisait acte de force, sans élever le ton, pas une ne résistait. Elle avait conquis une autorité absolue, par sa douceur même. Un instant, elle se promena en silence, au milieu de ces demoiselles devenues sérieuses.
+
+['On', 'Elle', 'Il', 'Maman', 'Marie']	Denise	Cette petite, c’est le quartier qu’on enterre… Oh ! je me comprends, l’ancien commerce peut aller rejoindre ces roses blanches qu’on jette avec elle.[MASK] ramena son oncle et son frère, dans une voiture de deuil.
+
+['</s>NOTUSED', 'Jean', 'Pierre', 'Marie', 'Louis']	Mouret	Comment ! la nourriture n’est pas bonne ? demanda d’un air naïf [MASK], ouvrant enfin la bouche.Il ne donnait qu’un franc cinquante par jour et par homme au chef, un terrible Auvergnat, lequel trouvait encore moyen d’emplir ses poches ;
+
+['Elle', '</s>NOTUSED', '»', 'Marie', 'elle']	Denise	Ses moustaches remuèrent, une flamme incendia son nez énorme, un nez creux et recourbé, aux appétits de taureau.– Hein ? qu’avez-vous, toutes les deux, pour vous aimer comme ça ?[MASK], sans comprendre, était reprise de malaise.
+
+['elle', 'Jeanne', 'cela', 'Marie', 'celle']	Colomban	Ne mentez pas, je vous en prie. Rendez-moi le service de me donner enfin une certitude… Vous devez savoir, je le sens. Oui, vous avez été la camarade de cette femme, et j’ai vu [MASK] vous poursuivre, vous parler à voix basse.
+
+['le', 'Monsieur', 'un', 'monsieur', 'Jean']	Mouret	Jamais il ne levait la tête, elle croyait souffrir de la vanité de ce garçon, le suivait des yeux, sans craindre d’être surprise. Et, dès qu’elle apercevait [MASK], qui passait également tous les soirs, un tremblement l’agitait, elle se cachait vite, la gorge battante.
+
+['le', 'Marx', 'Louis', 'Marcel', 'Pierrot']	Robineau	? Ce serait gai, si l’on ne pouvait même plus être libre en mangeant ! La vérité était qu’ils venaient de voir rentrer [MASK], et que la belle humeur du patron les inquiétait sur l’issue de la lutte engagée par eux.
+
+['elle', 'lui', 'eux', 'nous', 'soi']	Cornaille	Ce magasin, si vaste pour elle, où elle voyait entrer en une heure plus de monde qu’il n’en venait chez [MASK] en six mois, l’étourdissait et l’attirait ; et il y avait, dans son désir d’y pénétrer, une peur vague qui achevait de la séduire.
+
+['il', 'elle', 'on', 'Charles', 'Pierre']	Vallagnosc	Tu n’es qu’une dupe, pas davantage !… Tâche donc d’en désirer une et de la tenir enfin : cela paye en une minute toutes les misères.Mais [MASK] exagérait son pessimisme. À quoi bon tant travailler, puisque l’argent ne donnait pas tout
+
+['il', 'on', 'Holmes', 'Charles', 'chacun']	Mouret	Mais la panique souffla plusieurs jours encore, car, après la scène, [MASK] s’était promené d’un bout à l’autre des magasins, l’œil terrible, sabrant devant lui ceux qui osaient simplement lever les yeux.– Que faites-vous là, monsieur, à regarder les mouches ?
+
+['</s>NOTUSED', 'Elle', '»', 'Puis', 'Et']	Denise	Je ne suis pas bossue peut-être… Donnez votre main, tâtez les épaules, par plaisir. Est-ce que je suis faite ainsi ?[MASK], lentement, avait levé les yeux, plus pâle encore, et s’était remise à piquer en silence les épingles.
+
+['Lui', 'Il', 'Jean', 'Paul', 'Pierre']	Mouret	Tout d’un coup, il comprit : la femme enceinte n’était là que pour l’occuper, c’était l’amie qui volait.L’histoire amusa ces dames. [MASK], un peu vexé, se contenta de dire :– Le père Jouve est refait cette fois…
+
+['Charles', 'Frédéric', 'Louis', 'Georges', 'Jean']	Mouret	Elle devinait sans doute que [MASK] s’était simplement servi d’elle pour se rapprocher du baron. Et elle jurait de le rendre fou de tendresse, lui dont l’amour d’homme pressé avait le charme facile d’une chanson jetée à tous les vents.–
+
+['</s>NOTUSED', 'Le', 'Mais', 'Et', 'Lui']	Bourdoncle	C’était fou, puisqu’il ne trouvait plus la force d’avoir une volonté. Enfin, il en serait quitte pour lui dire un mot d’adieu. [MASK], qui l’avait rejoint, semblait moins inquiet, tout en l’étudiant encore de minces coups d’œil.
+
+['Elle', 'Il', 'elle', 'Marie', 'On']	Henriette	Ce n’était rien encore d’être humiliée ainsi, mais de le voir presque aux bras d’une autre, comme si elle n���eût pas été là ![MASK] s’examinait devant la glace. De nouveau, elle éclata en paroles dures.–
+
+['lui', 'Lui', 'Paul', 'Joseph', 'Jean']	Jouve	; [MASK], resté là pour témoigner, et dont elle n’attendait aucune justice ; puis, ces filles qu’elle n’avait pu toucher par neuf mois de courage souriant, ces filles heureuses enfin de la pousser dehors. À quoi bon se débattre ?
+
+['Il', 'Elle', 'On', 'il', 'Louis']	Vinçard	[MASK] l’accompagna jusqu’à la porte, en renouvelant l’expression de ses regrets. La jeune fille était demeurée au milieu du magasin, intimidée, désireuse d’obtenir du commis des renseignements plus complets. Mais elle n’osa pas, elle salua à son tour et dit simplement :
+
+['la', 'le', 'sa', 'son', 'Marie']	Denise	Seulement, celle-ci, mise en éveil, s’était très bien aperçue du regard dont il avait d’abord enveloppé [MASK]. Cette fille, décidément, devait être la rivale qu’elle avait eu la curiosité de venir voir.Aux confections, les vendeuses perdaient la tête.
+
+['cela', 'lui', 'Marie', 'femme', 'beauté']	Denise	Sans doute ils parlaient de [MASK], car tous deux se turent pour la saluer d’un air empressé. Du reste, à mesure qu’elle avançait, au travers des rayons, les vendeurs s’émotionnaient et s’inclinaient, dans le doute de ce qu’elle serait le lendemain.
+
+['</s>NOTUSED', 'ainsi', 'un', '«', 'le']	Mignot	et les camarades baissaient la tête, ne tentaient même pas de le défendre. Dans la panique qui soufflait, chacun tremblait pour soi : [MASK], un jour qu’il sortait un paquet sous sa redingote, malgré le règlement, faillit être surpris et se crut du coup sur le pavé
+
+['Marie', 'Jeanne', 'Suzanne', 'Louise', 'Catherine']	Denise	Le blessé, que son émotion épuisait, venait encore de perdre connaissance. Et ce médecin qui n’arrivait pas ! Deux hommes avaient déjà battu le quartier, le concierge de la maison s’était mis en campagne à son tour.– Ne vous inquiétez pas, répétait [MASK] machinalement, sanglotant elle aussi.
+
+['le', 'Madame', '</s>NOTUSED', 'la', 'Mme']	Mouret	– Je le chasse ! cria [MASK], qui mit toute sa souffrance dans ce cri furieux.Et, bouleversé, sortant de son rôle de directeur sermonnant une vendeuse coupable d’une infraction au règlement, il se répandit en paroles violentes. N’avait-elle pas de honte
+
+['elle', 'il', 'on', 'Pierre', 'Louis']	Mouret	?… Où demeurez-vous ?– Chez mon oncle, murmura-t-elle, hésitant à le nommer, craignant qu’on ne voulût jamais de la nièce d’un concurrent. Chez mon oncle Baudu, là, en face.Du coup, [MASK] intervint une seconde fois.–
+
+['Napoléon', 'elle', 'Moreau', 'Charles', 'Louis']	Denise	Monsieur Bourras, répéta [MASK], en tâchant de l’emmener à l’écart, vous savez qu’on ne vous abandonnera pas. Il sera pourvu à tous vos besoins…Il se redressa.– Je n’ai pas de besoins… Ce sont eux qui vous envoient, n’est-ce pas
+
+['Marie', 'Jeanne', 'Alice', 'Jean', 'Pierre']	Denise	– Va donc ! répéta [MASK], en le poussant toujours.Ils suivirent un des corridors étroits, où le gaz brûlait continuellement. À droite et à gauche, au fond des caveaux obscurs, les marchandises des réserves entassaient des ombres derrière les palissades.
+
+['Dieu', 'dieu', 'Jupiter', 'Chopin', 'Napoléon']	Mouret	Toujours il avait cédé ainsi devant la grâce de [MASK], il le reconnaissait pour son maître, malgré les fuites du génie et les coups de cœur imbéciles. Cette fois, la femme était la plus forte, et il attendait d’être emporté dans le désastre.
+
+['Louis', 'Pierre', 'Charles', 'Georges', 'Paul']	Mouret	Vous devez être dans le vrai, il vaut mieux mettre encore de l’argent dans votre machine, que de risquer cette concurrence au Grand-Hôtel, qui est hasardeuse.L’excitation de [MASK] tomba, il remercia le baron, mais sans y mettre son élan d’enthousiasme habituel
+
+['madame', 'Madame', 'Mademoiselle', 'Mme', 'elle']	Denise	Il va plus mal qu’auparavant… Regardez comme il me bride la poitrine. J’ai l’air d’une nourrice.Alors, [MASK], poussée à bout, eut une parole fâcheuse.– Madame est un peu forte… Nous ne pouvons pourtant pas faire que madame soit moins forte.–
+
+['Marie', 'chacun', 'chacune', 'Dieu', 'Maria']	Henriette	Vous nous faites mourir.Et elles l’entouraient, lorsque [MASK] remarqua qu’il n’avait seulement pas pris une tasse de thé. Alors, ce fut une désolation ; quatre d’entre elles se mirent à le servir, mais à la condition qu’il répondrait ensuite.
+
+['lui', 'toi', 'vous', 'elle', 'un']	Baugé	:– Sans doute, est-ce qu’on peut faire autrement !Puis, elle réfléchit, elle ajouta :– Pas maintenant, autrefois, parce que maintenant je vais me marier avec [MASK], et ce serait mal tout de même.
+
+['la', '</s>NOTUSED', 'son', 'lui', 'David']	Bourdoncle	; puis, sans ajouter un mot, de l’air d’un capitaine satisfait de ses troupes, il s’éloigna, suivi de [MASK].Lentement, tous deux traversèrent le sous-sol. Les soupiraux, de place en place, jetaient une clarté pâle ;
+
+['Marie', 'chacune', 'Mathilde', 'chacun', 'Catherine']	Denise	Je veille, je veille, répondait-il. Mais, parole d’honneur ! je ne découvre rien.Pourtant, des histoires circulaient, il y avait un courant de commérages abominables, sous les flatteries et le respect que [MASK] sentait monter autour d’elle.
+
+['Marguerite', 'Catherine', 'Marie', 'Madame', 'elle']	Mouret	Lorsque [MASK] rentra dans son cabinet, il étouffait de sanglots contenus. Que voulait-elle donc ? il n’osait plus lui offrir de l’argent, l’idée confuse d’un mariage se levait, au milieu de ses révoltes de jeune veuf.
+
+['tout', 'cela', 'ça', 'et', 'que']	Robineau	Maintenant, elle était désolée d’avoir couru. Pourquoi ne pas s’expliquer, montrer son frère ? On allait encore s’imaginer des vilenies ; et elle aurait beau jurer, on ne la croirait pas. Une fois de plus, elle oublia [MASK], elle rentra directement au comptoir.
+
+['Roland', 'Pierre', 'David', 'Georges', 'Alexandre']	Bourras	Mais les ouvriers, afin d’abattre d’un coup un pan de muraille, avaient eu l’idée de l’attaquer à la base. Il chancelait.– S’il pouvait les écraser tous ! murmurait [MASK] d’une voix sauvage.On entendit un craquement terrible.
+
+['chacun', 'chacune', 'Pierre', 'Marie', 'Paul']	Clara	Les voix repartirent, les plumes grincèrent, tandis que [MASK] se hâtait de ramasser les v��tements. Le patron n’interrompit pas le travail. Il resta là quelques minutes, muet, souriant ; et ses lèvres seules avaient un frisson de fièvre, dans son visage gai et victorieux des jours d’inventaire.
+
+['il', 'Joseph', 'on', 'Louis', 'Il']	Bourdoncle	; et ce n’était qu’un commencement, des gens prédisaient au père exaspéré que ce chiffre grossirait encore.Cependant, [MASK] avait pris une des pièces de soie, dont il examinait le grain d’un air attentif d’homme compétent.
+
+['Marie', 'Pierre', 'Sarah', 'Catherine', 'Julien']	Hutin	et elle retint le vendeur plus de dix minutes, elle l’accabla de questions. Seulement, le second avait vu [MASK] se relever, derrière le comptoir. Aussi, lorsqu’une nouvelle cliente se présenta, intervint-il d’un air sévère, en arrêtant le jeune homme qui se précipitait.–
+
+['Joseph', 'Pierre', 'Charles', 'Louis', 'Jean']	Pépé	Certains soirs, elle faisait dîner [MASK] tout seul, d’une soupe, en lui disant qu’elle avait mangé dehors ; et elle se mettait au lit, la tête bourdonnante, nourrie par la fièvre qui lui brûlait les mains.
+
+['Monsieur', 'monsieur', 'Voyons', 'Allez', 'Venez']	Vigouroux	Il avait appelé d’un signe un marchand de marrons, installé en face, dans une étroite guérite, prise sur la boutique d’un marchand de vin, et il lui disait :– Hein ? [MASK], rendez-moi ce service… Vous voyez, je retire le bouton…
+
+['Louis', 'Monsieur', 'Jean', 'Pierre', 'Georges']	Gaujean	Alors, [MASK], le fabricant de soie, intervint. De nouveau, les voix baissèrent. Lui, accusait les grands magasins de ruiner la fabrication française ; trois ou quatre lui faisaient la loi, régnaient en maîtres sur le marché ;
+
+['Marie', 'Jeanne', 'Marguerite', 'Louise', 'Catherine']	Denise	Mon Dieu ! il avait voulu mourir. Elle saisit la main de [MASK], qui s’était penchée vers elle, toute retournée par cette scène. Le blessé, que son émotion épuisait, venait encore de perdre connaissance. Et ce médecin qui n’arrivait pas !
+
+['Madame', 'Mme', 'madame', 'Marie', 'Mademoiselle']	Henriette	?– Elle mange un oncle, à présent, répondit [MASK], un vieux brave homme d’oncle, qui s’est retiré chez elle, après son veuvage… D’ailleurs, elle doit être ici, nous allons la voir.Une surprise immobilisa ces dames.
+
+['Marie', 'Jeanne', 'Mathilde', 'Julie', 'Louise']	Denise	.Mais l’entrée de [MASK] réconcilia ces demoiselles. Elles la regardèrent, puis se sourirent. Pouvait-on se fagoter de la sorte ! La jeune fille alla gauchement s’inscrire au tableau de ligne, où elle se trouvait la dernière.
+
+['Elle', 'Il', 'Marie', 'Anna', 'Marguerite']	Henriette	[MASK] avait pâli. Sans doute elle savait qu’il venait chez elle uniquement pour s’y rencontrer avec le baron ; mais il aurait pu ne pas lui jeter ainsi son indifférence à la face. Justement, la porte s’était ouverte, et le domestique se tenait debout derrière elle.
+
+['</s>NOTUSED', 'Il', 'Lui', '»', 'Et']	Robineau	Il travaille pour occuper ses métiers, car tout métier qui chôme est un métier qui meurt… Alors, comment voulez-vous que nous, avec notre outillage plus restreint, et surtout avec nos façonniers, nous puissions soutenir la lutte ?[MASK], rêveur, oubliait de manger.–
+

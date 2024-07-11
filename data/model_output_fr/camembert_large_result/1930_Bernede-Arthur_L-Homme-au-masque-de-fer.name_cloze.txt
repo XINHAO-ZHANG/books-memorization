@@ -1,0 +1,200 @@
+['lui', 'elle', 'Pierre', 'Jean', 'Georges']	Castel-Rajac	Un grincement très significatif du parquet l’éclaira sur la situation et, se tournant vers [MASK], d’un simple geste, elle lui indiqua la serrure de la porte à deux battants, tout en se livrant à une mimique des plus expressives, qui signifiait très clairement : «
+
+['Charles', 'Jean', 'Louis', 'Joseph', 'Georges']	Henry	Quelle catastrophe avait bouleversé leur existence jusque-là si paisible ? La veille même, ainsi qu’il le faisait presque journellement, [MASK], devenu un charmant jeune homme de vingt-trois ans, à la fière allure et aux traits virils, avait manifesté le désir de monter à cheval.
+
+['Il', 'Elle', 'Charles', 'Louis', 'Pierre']	Laparède	[MASK] eut un sourire. – Par ma foi, madame, venez donc avec moi, si cela vous plaît ; je vous le montrerai… Ils s’approchèrent du grand perron et le gravirent. – Serait-il malade ?
+
+['elle', 'il', 'madame', 'Madeleine', 'Madame']	Gaëtan	– C’est précisément ce qui me rassurait… Mais vous continuerez à veiller sur ce pauvre petit… – Puisque je vous l’ai promis ! Et, avec un large sourire, [MASK] s’écria : – Il est donc si terrible, ce mari trompé ? –
+
+['le', '...', 'un', 'la', 'Arthur']	Castel-Rajac	L’arrivée du chevalier fit envoler les gentils oiseaux et provoqua un mouvement d’humeur du vénérable prêtre qui se traduisit par ces mots : – Ah ça ! qu’est-ce qui vient me déranger et faire peur ainsi à mes petits amis ? – Excusez-moi, monsieur le curé, lança [MASK]
+
+['Enfant', 'Oh', 'Oui', 'Mais', 'Ah']	Marie	je suis fou… Mais qu’importe ! Je vous ai pour quelques jours ; ce répit me semble si beau que j’ose à peine y croire… Laissez-moi l’illusion qu’il est éternel ! – Enfant ! murmura-t-elle. – [MASK]… Je vous aime…
+
+['Monsieur', 'Madame', 'François', 'Roland', '</s>NOTUSED']	Martigues	– Vous plaisantez, monsieur, articula péniblement [MASK]. Le lieutenant aux mousquetaires fronça les sourcils : – Sachez, fit-il d’un ton sévère, que je ne plaisante qu’avec les gens de ma qualité et que je le fais toujours avec esprit.
+
+['Marie', 'Jeanne', 'Camille', 'Pierre', 'Alexandre']	Durbec	– Cependant, on n’arrête pas les gens sans leur en fournir le motif ! gronda le jeune homme ! Et pourquoi ce masque ! Otez-le ! Il me gêne ! – Monsieur, répondit [MASK] de sa voix doucereuse, ce que vous me demandez-là est tout à fait impossible !
+
+['le', 'lui', 'un', 'à', 'déjà']	Durbec	C’était [MASK], à l’affût derrière la jalousie de sa chambre. – C’est bien ce que je pensais ! murmura-t-il. Décidément, le sort me favorise ! J’espère que cette fois, le cardinal sera content ! Les
+
+['Londres', 'Churchill', 'Victoria', 'George', 'David']	Broussel	Cependant, le ministre avait vu juste. Dès que les parlementaires furent élargis, le peuple mua ses menaces en clameurs d’enthousiasme, voulut porter [MASK] en triomphe, et cria vive la reine et vive le premier ministre. Un vent de popularité soufflait.
+
+['Monsieur', 'Pierre', 'Joseph', 'Charles', 'Albert']	Castel-Rajac	– Madame, répliqua [MASK], l’enfant, je l’accepte, mais, la somme, je la refuse. Moi, je ne fais pas les choses à moitié. Nous ne sommes pas riches, là-bas, mais on y vit bien et à peu de frais.
+
+['Il', 'II', 'il', 'Dieu', 'Lui']	Richelieu	Il n’avait que trop tardé à agir par lui-même. [MASK] connaissait trop les hommes et le secret des âmes pour que la haine de celui qu’il employait lui échappât. Dès que la porte se fut refermée sur son espion, le cardinal se plongea dans une profonde méditation.
+
+['Oh', 'Ah', 'Hé', 'Ho', 'Eh']	Malepeste	Vous pouvez toujours essayer, mais je doute que vous réussissiez ! – [MASK] ! hurla le grand diable, par mon nom de La Rapière, je veux le perdre si je n’ai pas tes os ! – Ho ! ho !
+
+['un', 'Jean', 'il', 'Roland', 'Pierre']	Castel-Rajac	! cria [MASK], mettant flamberge au poing, voilà une façon peu civile de souhaiter le bonsoir au voyageur ! Mais sans lui répondre, un grand escogriffe, qui semblait avoir pris la tête de l’attaque, s’écria, tourné vers les aigrefins : – Sus !
+
+['Charles', 'Joseph', 'Louis', 'Pierre', 'Napoléon']	Colbert	Il y avait à peine quelques jours que [MASK] était entré dans ses nouvelles fonctions, quand l’officier de service lui annonça un visiteur, qui attendait dans l’antichambre et insistait pour le voir, disant qu’il avait une communication de la plus haute importance à lui faire.
+
+['Louis', 'Pierre', 'Jean', 'Marie', 'Charles']	Durbec	Il se présentait de telle façon que [MASK] ne put que très mal distinguer son visage, mais il lui sembla que cette silhouette lui était familière. Ce voyageur n’était autre que le marquis de Navailles, qui se rendait à son poste, suivant les ordres reçus.
+
+['il', 'elle', 'Il', 'Charles', 'Napoléon']	Henry	Je regrette, monsieur, que, pour une première fois que vous ayez daigné reprendre la parole, ce soit pour me causer un inutile dérangement. Tout en reposant sur la table le verre qu’il s’apprêtait à porter à sa bouche, [MASK] répliqua d’un ton ferme :
+
+['Molière', 'Monsieur', 'César', 'Madame', 'Pierrot']	Durbec	Avec qui donc vais-je pouvoir faire ma partie de piquet, désormais ? – Bast ! répondit [MASK], qui se moquait bien de la partie de son amphitryon, vous engagerez l’un de vos hommes, ce brave Sans-Plumet, ou bien Passe-Poil, pour vous servir de partenaire
+
+['Il', '</s>NOTUSED', 'Elle', '»', 'Qui']	Laparède	Vous venez de me donner d’autant mieux le moyen de m’associer à une œuvre de réparation et de justice d’autant plus que j’ai confiance en votre discrétion, ainsi qu’en celle de celui que vous appelez votre fils et des deux témoins qui ont assisté à cette scène. [MASK] intervint
+
+['Madame', 'Monsieur', 'madame', 'Mademoiselle', 'Marie']	Gaëtan	! » – Excusez-moi de vous déranger, fit-elle en pénétrant dans la chambre, mais il y a en bas un gentilhomme qui désire parler à Monsieur le chevalier. – Un gentilhomme, répétait [MASK]. Vous a-t-il dit son nom ?
+
+['Il', '</s>NOTUSED', 'Et', 'Puis', 'On']	Henry	mais celui-ci, l’empoignant par le bras, lui disait avec toute la belle humeur dont il débordait : – L’instant n’est pas propice aux effusions. Décampons ! Le premier, il descendit par la corde à nœuds, qui était restée attachée à la bouche du canon. [MASK] lui succéda
+
+['il', 'Jean', 'Marius', 'Pierre', 'Paul']	Henry	présenta ensuite au prisonnier Jean Martigues, le pêcheur qui devait lui servir de valet. Toujours sans prononcer un mot, [MASK] accueillit ces explications. On eût dit qu’il avait fait le vœu de ne plus prononcer une parole. Trois jours s’écoulèrent, pour lui monotones, interminables.
+
+['Monsieur', 'Napoléon', 'Madame', 'César', 'Charles']	Mazarin	– Soyez tranquille, appuya [MASK], ils y viendront. – Eh bien, foi de gentilhomme, je vous garantis qu’ils ne nous prendront pas le petit. – Ils auront la force et le nombre, objecta l’Italien. –
+
+['Il', 'Elle', '</s>NOTUSED', 'Je', 'Marie']	Martigues	– Evidemment, mais, une fois là-bas, ne t’avise pas de revenir sur la promesse que tu m’as faite et, quoi qu’il arrive, ne te laisse pas intimider et surtout ne me trahis pas. [MASK] releva la tête :
+
+['Elle', 'Il', 'Marie', 'Madame', 'Maman']	Mazarin	[MASK] répliqua : – Quand je l’ai quittée, il y a quatre jours environ, elle se portait aussi bien que possible, mais, depuis ce moment, j’ignore ce qui a pu se passer et je ne vous cacherai pas que je suis en proie aux plus vives angoisses.
+
+['il', 'lui', 'qui', 'un', 'Martin']	Durbec	Mais comme un rappel de l’homme rouge qui, de son aire, les surveillait encore, [MASK], derrière l’escorte, les suivait comme leur ombre, guidé par l’intérêt qui le liait au service du cardinal et par sa haine personnelle. Bientôt, le paysage changea.
+
+['Il', 'Elle', 'Pierre', 'Jean', 'François']	Mazarin	Pour l’atteindre, il restait à peine un quart de lieue. [MASK] fit, toujours sur un ton de camaraderie : – Je crois que nous ferions bien de laisser ici nos chevaux. Les trois Gascons sautèrent en bas de leur monture.
+
+['George', 'Charles', 'Napoléon', 'Henry', 'Arthur']	Senlis	– Madame, dit [MASK] en s’inclinant profondément, Sa Majesté s’est égarée dans le bois avec moi, et fuyant l’orage, nous sommes venus jusqu’ici… – Soyez les bienvenus ! dit gracieusement la reine. Nous allions précisément souper.
+
+['Pierre', 'Jean', 'Marie', 'Joseph', 'Charles']	Castel-Rajac	– Madame, dit [MASK], gravement, cette fois, la mission que vous me faites l’honneur de me confier est trop noble pour que je ne l’accepte pas sur-le-champ. Je me charge de l’enfant ! Je m’engage à tout mettre en œuvre pour qu’il soit un jour ce que vous désirez.
+
+['il', 'Frédéric', 'François', 'Charles', 'Alexandre']	Castel-Rajac	– Vous vous trompez, mon cher comte, ce n’est point… D’un geste amical, l’Italien l’interrompit, tout en disant : – Que diriez-vous si je vous conduisais près d’elle ? Cette fois, entièrement désarmé, [MASK] balbutia :
+
+['Balzac', 'Charles', 'Napoléon', 'Voltaire', 'Hugo']	Gaëtan	– Ah ! madame, s’écria [MASK], auquel ces quelques mots avaient suffi pour rendre tout son aplomb, vous ne pouvez vous imaginer à quel point je suis heureux de vous entendre me parler ainsi. Il me semble que je vis un rêve. »
+
+['Pierre', 'Jean', 'Guillaume', 'Alexandre', 'Louis']	Durbec	– J’accepte votre offre, déclara [MASK]. Et, maintenant, séparons-nous, car il est inutile qu’on nous voie ensemble. Depuis mon retour, je me suis aperçu que j’étais filé par un espion, sans doute aux gages du chevalier de Castel-Rajac ;
+
+['–', 'Monsieur', 'Le', 'Mr', 'M']	Mazarin	[MASK], qui s���en était aperçu, lui aussi, ne broncha pas et murmura à l’oreille de la duchesse : – Ils sont arrivés, mais trop tard ; maintenant, nous n’avons plus rien à craindre. –
+
+['Il', 'Pierre', 'Jean', 'Louis', 'Paul']	Mazarin	La porte s’ouvrit en grinçant légèrement sur ses gonds rouillés. [MASK] s’avança. Il se trouvait dans un étroit réduit qui, par un soupirail, prenait jour sur la cour des communs, un petit escalier de pierre en forme de vis, donnant accès à l’étage supérieur.
+
+['Il', 'Elle', 'il', 'David', 'Alexandre']	Castel-Rajac	Mais il est bien entendu que pour lui et pour tous, vous resterez son père. Vous avez trop dignement conquis ce titre pour que personne ne songe à vous l’enlever. » [MASK] mit un genou en terre devant sa belle amie et lui baisa la main.
+
+['Je', 'Il', '</s>NOTUSED', '–', 'Et']	Castel-Rajac	– Nous t’écoutons. – Parle ! [MASK] développa : – J’ai renoncé à ma première idée, qui consistait à prendre d’assaut la citadelle et à nous emparer de vive force du prisonnier. Cela, pour deux raisons.
+
+['Il', 'Elle', 'On', 'Charles', 'Monseigneur']	Savières	[MASK] se laissa fléchir par cette requête et remit le nourrisson à la duchesse qui, l’enveloppant dans un des pans du manteau qu’elle avait jeté sur ses épaules, l’emporta tendrement contre sa poitrine, en disant : – Heureusement qu’il ne s’est pas réveillé
+
+['Il', 'Louis', 'Charles', 'François', 'Jean']	Castel-Rajac	[MASK] était sincèrement épris de cette gracieuse femme, aussi spirituelle que jolie. Quant à la duchesse, elle s’était laissé prendre aux yeux noirs et à la mine conquérante du cadet de Gascogne, et ces retrouvailles allégeaient beaucoup pour elle les tristesses de l’exil.
+
+['Il', 'il', 'Elle', 'elle', 'On']	Richelieu	Mais ne croyez-vous pas qu’en pourchassant sans pitié cette engeance… [MASK] leva la main. – Nenni, monsieur ! J’ai déjà eu plusieurs gardes tués dans cette aventure ; j’ai besoin de la vie de mes hommes et ne veux point les exposer inutilement.
+
+['Il', 'Ce', 'II', 'Lui', 'Cela']	Durbec	Mais le triste personnage ne pensait point à exécuter lui-même sa sombre besogne. Il savait qu’en cas d’échec, il aurait risqué trop gros, et il entendait bien obtenir satisfaction avec le minimum de risques. [MASK] n’était pas un novice dans ces sortes d’expéditions.
+
+['Dieu', 'Satan', 'Joseph', 'Ah', 'Diable']	Sangdiou	! pensa-t-il. Quels sont ceux qui prennent les arbres comme confidents ? C’est quelquefois une méthode dangereuse… Il distingua plusieurs voix d’hommes. Il prêta l’oreille. Soudain, l’un d’eux prononça un nom qui le fit tressaillir. – [MASK] !
+
+['madame', 'maman', 'Madame', 'Monsieur', 'Marie']	Martigues	– Maintenant, conduis-moi jusqu’au cachot du prisonnier. – Mais, hésita le brave garçon, je viens de vous dire, monsieur, que M. le gouverneur s’y trouvait. – Eh bien ! tant mieux. – Mon Dieu, mon Dieu, gémit [MASK], pourvu qu’il ne vous arrive pas malheur
+
+['Condé', 'Il', 'Louis', 'Bourbon', 'Monsieur']	Mazarin	Il ne dura pas longtemps. [MASK] était patient. Lorsqu’il crut favorable l’occasion, il agit. Le prince de Condé était un de ces grands seigneurs turbulents, actifs, pleins de feu et de courage, qui ne demandent qu’à dépenser leur ardeur.
+
+['il', 'elle', 'on', 'Il', 'Pierre']	Gaëtan	– Avez-vous la clef du cachot ? Le pêcheur, l’air consterné, baissa la tête en disant : – Non, je ne l’ai pas ! D’un geste brusque, [MASK] le saisit par le revers de son veston. Un mot lui échappa :
+
+['Il', 'Chacun', 'Pierre', 'Roland', 'Arthur']	Henry	Au même instant, plusieurs individus sortaient de derrière les troncs d’arbres qui les dissimulaient et se précipitaient sur leur victime avant que celle-ci ait le temps de tirer son épée. [MASK] se trouva assailli, désarmé par cette bande de furieux. Alors, deux hommes s’approchèrent.
+
+['Il', 'il', 'Elle', 'II', 'Cela']	Henry	une mousse épaisse, où les sabots de sa monture enfonçaient profondément, garnissait le sol d’un somptueux tapis naturel. Tout à coup, sa bête fit un écart. Le jeune prince aperçut alors un homme couché au pied d’un chêne. [MASK] avait bon cœur.
+
+['il', 'elle', 'je', 'on', 'lui']	Martigues	Naïvement, [MASK] répliqua : – Oh ! si, monsieur je suis toujours très brave, quand je sens que je suis le plus fort ! Mais que pouvais-je faire contre dix hommes aussi déterminés et armés de pistolets, d’épées, tandis que, moi, je n’avais que mes poings pour me défendre ?
+
+['Il', 'Elle', '</s>NOTUSED', 'elle', 'il']	Castel-Rajac	commandait déjà l’amant de la duchesse de Chevreuse. Mais l’officier de service intervenait à nouveau. – Minute ! Il me faut d’autres garanties ! [MASK] fronça les sourcils. – Prenez garde, monsieur l’officier, s’écria-t-il. Vous assumez là une lourde responsabilité
+
+['</s>NOTUSED', 'Monsieur', 'Joseph', 'Jean', 'Pierre']	Gaëtan	cria-t-elle d’une voix étouffée : Ouvrez ! Ouvrez vite ! [MASK], qui venait juste de s’endormir, s’éveilla en sursaut, bondit hors du lit et alla tirer le verrou. – Que se passe-t-il ? s’écria-t-il, étonné.
+
+['Il', 'Elle', 'Louis', 'Condé', 'Charles']	Richelieu	[MASK] accueillit avec une satisfaction évidente les renseignements qu’il lui communiqua, mais ne manifesta en aucune façon l’intention de s’approprier l’enfant de la reine ou même d’intervenir d’une façon quelconque dans les affaires du Gascon.
+
+['Napoléon', 'Voltaire', 'Madame', 'Charles', 'Balzac']	Castel-Rajac	– Monsieur le comte, reprenait [MASK], je crois qu’après cet échange de politesses, nous sommes destinés à nous entendre le mieux du monde. Voilà pourquoi je me permets de vous renouveler la demande que je viens d’avoir l’honneur de vous adresser…
+
+['il', 'Pierre', 'Alexandre', 'François', 'Charles']	Savières	Non point par crainte des représailles, car [MASK] était brave, et il était de ceux qui savent prendre leurs responsabilités, mais uniquement parce qu’il avait fait au cardinal le serment de lui obéir en tout et pour tout, même au péril de sa vie.
+
+['il', 'on', 'Charles', 'Napoléon', 'Frédéric']	Castel-Rajac	Demeuré seul avec la duchesse, [MASK] remarqua la préoccupation répandue sur ses traits : – Vous craignez qu’il se soit passé là-bas quelques fâcheux événements ? – Je le crains. – Le mari ? – Nous allons tout savoir.
+
+['Orléans', 'Avignon', 'Aix', 'Amiens', 'Espagne']	Espagnac	Effaré, le faux d’[MASK] continuait à rompre, mais le Gascon engageait son fer avec le sien et lui disait : – Ne croyez pas, monsieur le drôle, que je vais avoir l’honneur de vous blesser une seconde fois. Je ne me bats qu’avec de vrais gentilshommes.
+
+['vous', 'Monsieur', 'mais', 'monsieur', 'Vous']	Senlis	– Sire, dit-il en s’inclinant, permettez-moi maintenant de prendre congé. – Hé ! quoi ! [MASK], vous ne restez pas ? Vous allez vous perdre, mon pauvre ami ! Un imperceptible sourire erra sur ses lèvres. – Ma bonne étoile me guidera.
+
+['Il', 'Pierre', 'Jean', 'Louis', 'Guillaume']	Gaëtan	[MASK] vint de nouveau s’asseoir sur un petit tabouret, aux pieds de sa dame. Celle-ci passa sa main, blanche et fine, aux doigts parfumés, dans la chevelure du jeune homme. – Cà, mon beau chevalier, fit-elle, badine, avez-vous un peu rêvé à moi
+
+['Satan', 'Dieu', 'Hitler', 'Jésus', 'Staline']	Mazarin	Mais je pourrais peut-être vous donner une indication utile à ce sujet… Je connais personnellement trois individus, fort dangereux, entièrement dévoués à la cause de [MASK], et qui devraient figurer en premier sur votre liste noire. – S’il en est ainsi, ils y figurent sûrement !
+
+['il', 'elle', 'Charles', 'Il', 'Frédéric']	Castel-Rajac	Je crois même qu’il n’en est pas sur terre… Et, tout en disant, [MASK] se pencha vers la duchesse qui, reconquise de nouveau par cette ardeur juvénile et si sincère, le contemplait, elle aussi, prête à s’abandonner de nouveau.
+
+['Monseigneur', 'Monsieur', 'le', 'Pierre', 'Mgr']	Passe-Poil	Ce ne fut qu’au bout de cinq minutes de vociférations stériles que [MASK], tout en traînant sa jambe de bois, accourut à son appel. – Monseigneur, s’écria-t-il, je respire, j’avais peur que vous eussiez été égorgé pendant votre sommeil.
+
+['Il', 'Elle', 'il', 'elle', 'qui']	Marie	? [MASK] éclata de rire. – Doucement, monsieur le comte ! La question de la postérité royale n’est pas en jeu entre nous, que je sache ! Nous en reparlerons… Mais l’ordre du cardinal-ministre
+
+['Il', 'Elle', 'il', 'On', 'elle']	Martigues	: – Qu’en savez-vous ? [MASK] eut un signe évasif, mais déjà le Gascon interrogeait : – De combien d’hommes se compose la garnison ? – De vingt hommes ! – Ce sont de bons soldats ? – Pas très.
+
+['</s>NOTUSED', 'Lui', 'Voltaire', 'Pierre', '«']	Martigues	: – Vous ne m’avez donc pas compris, mon ami, ou bien avez-vous reçu des ordres tels que vous jugiez impossible de me rendre ce service ? [MASK], qui était un sot, mais pas un mauvais homme, répondit :
+
+['Il', 'Elle', 'il', 'Je', 'Alexandre']	Henry	[MASK] répliqua d’une voix ferme et harmonieuse : – Pendant les heures déjà si longues de ma captivité, j’ai longuement réfléchi à mon sort futur, au cas où les portes de ma prison viendraient à s’ouvrir.
+
+['Napoléon', 'Londres', 'Berlin', 'France', 'Paris']	Richelieu	« Décidément, se disait l’espion de [MASK], cette femme est encore plus forte que je ne le pensais. Je crois que, pour avoir raison d’elle, je vais être obligé de me servir des grands moyens que j’ai ordre de n’employer qu’à la dernière extrémité.
+
+['Ah', 'Oh', 'Quoi', 'Comment', 'Eh']	Henry	Surprise par cette visite à laquelle elle ne s’attendait guère et pressentant une catastrophe, elle donna l’ordre de faire entrer aussitôt le chevalier. Dès que celui-ci parut sur le seuil, tout de suite, la duchesse, devinant la vérité, s’écria : – [MASK] ! n’est-ce pas ?
+
+['David', 'Napoléon', 'Charles', 'James', 'Guillaume']	Castel-Rajac	Cette vigoureuse apostrophe parut produire sur l’être chevaleresque entre tous qu’était [MASK] une impression profonde. – Monsieur le gouverneur, fit-il, je ne vous cacherai pas que le langage que vous venez de me tenir n’est pas sans me troubler.
+
+['</s>NOTUSED', 'César', 'Jean', 'Louis', 'Napoléon']	Mazarin	Au travers d’une grille délabrée, rouillée et demeurée ouverte, on apercevait une seconde cour, qui paraissait plus importante que celle-ci. [MASK], indiquant l’un des bâtiments aux trois Gascons, leur dit : – Cachez-vous là, pendant que je vais en reconnaissance.
+
+['lui', 'elle', 'Napoléon', 'celui', 'moi']	Castel-Rajac	C’était [MASK] qui avait bondi sur lui et lui disait : – Monsieur le gouverneur, je vous avertis qu’il est inutile de chercher à vous défendre et d’appeler vos hommes à votre secours. Pas un seul ne vous répondrait. Ils sont tous gris comme des Polonais…
+
+['cavalier', 'cheval', 'maître', 'lui', 'conducteur']	Henry	Pour que sa monture revienne sans [MASK], il fallait que celui-ci ait été victime d’un accident ! Le précepteur du jeune prince, l’abbé Vertot, dès que le jardinier vint le prévenir de ce qui se passait, ordonna des recherches, fort inquiet, et persuadé que son élève était victime d’une chute.
+
+['monsieur', 'Monsieur', 'Mr', 'Monseigneur', 'M']	M.	Et il ajouta, avec sa verve habituelle : – J’espère que je vais pouvoir te débarrasser promptement de ce saladier qui te cache la figure et que je vais pouvoir t’embrasser sur les deux joues. Mais, auparavant, j’ai quelques mots à dire à [MASK] le gouverneur.
+
+['Il', 'Elle', '</s>NOTUSED', 'II', 'Puis']	Castel-Rajac	: – J’ai ce que vous demandez, monsieur le chevalier. [MASK] retourna près du carrosse, en fit descendre la nourrice, qui portait avec précaution l’enfant mystérieux, et l’amena jusqu’à la porte de l’hostellerie.
+
+['il', 'on', 'elle', 'Monseigneur', 'François']	Pontlevoy	– J’espère qu’aucune complication ne se produira, mais il faut bien compter trois semaines avant que vous puissiez vous remettre en route. L’espion du cardinal eut une crispation du visage qui révélait l’impression fâcheuse que lui produisait ce pronostic. Mais [MASK] s’avançait en s’écriant
+
+['lui', 'Pierre', 'Jean', 'Paul', 'Thomas']	Henry	Celui-ci, qui n’avait jamais parlé à [MASK], pas plus que celui-ci, d’ailleurs, ne lui avait jamais fait entendre le son de sa voix, déposa sur la table un plateau qu’il tenait à la main.
+
+['le', 'Mme', 'madame', 'Madame', 'Monsieur']	Gaëtan	Orpheline, monsieur le curé, déclara [MASK], qui jugeait utile de simplifier les choses, elle demeurait chez une de ses parentes qui, d’ailleurs, la rendait très malheureuse. Le vieux prêtre réfléchit pendant un instant, puis il reprit :
+
+['Elle', 'Il', 'Madame', 'On', 'Mademoiselle']	Castel-Rajac	! A propos : puis-je connaître le nom de cette femme ? – Je regrette. Madame, mais… même à vous, je ne puis le dire ! – Peut-être l’ignorez-vous ? lança l’inconnue avec hardiesse. [MASK] se redressa. –
+
+['il', 'on', 'Il', 'Louis', 'Charles']	Castel-Rajac	Arrivé au sommet de l’escalier de pierre qui donnait accès dans une première cour défendue par une muraille assez élevée et au milieu de laquelle se dressait la grille d’un portail d’une solidité qui semblait à toute épreuve, [MASK] s’arrêta.
+
+['Il', 'Elle', 'il', 'elle', '</s>NOTUSED']	Castel-Rajac	– Chevalier, vous pouvez vous retirer avec votre fils. Veillez sur lui, car il se peut qu’un jour, de graves dangers le menacent, et ce ne sera pas trop de votre épée pour les écarter de son chemin… [MASK] s’inclina profondément devant le premier ministre et sortit.
+
+['Il', 'Elle', 'On', 'Napoléon', 'II']	Durbec	[MASK] reprit : – N’ayez aucune crainte quant aux responsabilités que vous avez encourues. Mon intention n’est nullement de rejeter sur vous l’odieux guet-apens qui a été tendu cette nuit à M. le capitaine de Savières et à ses gardes, ni de la tentative d’assassinat dont j’ai été l’objet.
+
+['Monsieur', 'Madame', 'monsieur', 'madame', 'maman']	Marie	J’étais fou de douleur et de rage, mais n’est-ce pas effroyable de penser qu’on m’a volé mon fils ? Après vous, [MASK], c’est l’être que j’aime le mieux au monde.
+
+['personne', 'Pierre', 'Julien', 'Henri', 'Jean']	Castel-Rajac	Il avait revu de la sorte le gentilhomme gascon et ses amis, et avait reçu, au vieux manoir, chaque fois un accueil aussi franc qu’enthousiaste. Mais il n’avait jamais dévoilé à [MASK] la raison pour laquelle il revenait ainsi de temps à autre.
+
+['Monsieur', 'Monseigneur', 'Charles', 'Louis', 'François']	Castel-Rajac	[MASK], qui avait toujours peur qu’on le prive de son pupille, se hâta d’obéir, et de suivre le conseil de sa très fine amie. Il venait à peine de pénétrer dans le petit salon où se tenait d’habitude la duchesse, que celle-ci entra.
+
+['Paris', 'Londres', 'Versailles', 'Fontainebleau', 'Bruxelles']	Saint-Germain	– J’y avais pensé, chevalier ! Je vais conseiller à Sa Majesté de fuir à [MASK], où elle attendra avec le roi son fils la fin de cette ridicule aventure… Car ce n’est qu’une aventure, n’est-ce pas, monsieur le chevalier ?
+
+['Napoléon', 'Charles', 'Louis', 'David', 'Alexandre']	Gaëtan	Je vous prie seulement d’ordonner à votre ami, qui me tient sous la menace de son pistolet, de me remettre immédiatement son arme, afin que je puisse immédiatement me brûler la cervelle. – Qu’est-ce à dire, monsieur le gouverneur ? s’exclama [MASK].
+
+['il', 'Louis', 'on', 'Alexandre', 'François']	Durbec	Cette fois, [MASK] ne répondit rien. Il s’en fut simplement tirer sur le cordon d’une sonnette. L’un des panneaux de la porte s’ouvrit, et l’espion de Richelieu dit au garde qui se présenta : – Prévenez votre capitaine que je désire lui parler.
+
+['Charles', 'Holmes', 'Harry', 'John', 'il']	Martigues	Voulez-vous gagner cinquante mille livres ? – Cinquante mille livres ! répétait [MASK], en roulant des yeux effarés. Le fond de sa nature honnête et naïve reprenant immédiatement le dessus, il s’écria : – Quel crime allez-vous me demander de commettre contre une pareille somme
+
+['David', 'Jean', 'Joseph', 'John', 'Paul']	Laparède	Mais [MASK], qui avait glissé un coup d’œil par la fente des volets, secoua la tête. – Mon ami, il y a des moments où la fuite est une nécessité. Songe que tu as des responsabilités. Tu risques de te faire tuer sans profit.
+
+['</s>NOTUSED', 'Jean', 'Napoléon', 'Pierre', 'Roland']	Gaëtan	: – Sus ! Sus ! Jetez-le dans le vallon ! – Ouais ! ricana [MASK], faisant faire une demi-volte à son cheval, et s’adossant à la muraille rocheuse pour éviter d’être cerné. Vous pouvez toujours essayer, mais je doute que vous réussissiez
+
+['Allons', 'Allez', 'Monseigneur', '</s>NOTUSED', 'Seigneur']	Guillemette	; les mousquetaires sont ses derniers fidèles… – Fuir comme des lâches ? Jamais ! [MASK], va ouvrir la porte ! – Partez, Monseigneur ! implora la jeune fille. Je les ai vus ; ils sont au moins trente ! Que voulez-vous faire contre cette troupe
+
+['Ah', 'Diable', 'Tiens', 'Oh', 'Hélas']	Mordiou	Mais bientôt, son attention fut attirée par un murmure de voix assez rapproché. – [MASK] ! pensa-t-il. Quels sont ceux qui prennent les arbres comme confidents ? C’est quelquefois une méthode dangereuse… Il distingua plusieurs voix d’hommes. Il prêta l’oreille.
+
+['Roland', 'Merlin', 'Arthur', 'Jean', 'Pierre']	Castel-Rajac	Malgré cela, [MASK], qui n’était qu’à moitié rassuré, proposa à son ami de monter la garde à tour de rôle, afin de prévenir toute attaque imprévue. Et, tirant son épée, tout en appuyant la pointe de son arme contre le sol :
+
+['lui', 'il', 'Alexandre', 'Guillaume', 'Louis']	Richelieu	A vrai dire, le gentilhomme, s’il se doutait que son pupille était d’illustre naissance, ne soupçonnait point encore son origine royale, et sa phrase de l’instant précédent était un effet du hasard. Mais [MASK], sachant à qui il avait affaire, n’en était pas absolument certain.
+
+['Monsieur', '«', 'Lord', '...', 'Mais']	Richelieu	[MASK], qui devait avoir de bonnes raisons pour ne point mettre en doute la parole de son interlocuteur, reprit, comme s’il se parlait à lui-même : – Il me paraît invraisemblable que depuis si longtemps la reine ait pu dissimuler sa grossesse aux yeux de tous…
+
+['Il', 'Elle', 'Et', 'Puis', 'On']	Castel-Rajac	– Monsieur, répliqua le prisonnier, j’ignore qui vous êtes, mais je vous prie de ne pas vous moquer de moi. Je suis un malfaiteur, c’est vrai, mais j’expie cruellement mes crimes et vous devriez avoir pitié de moi. [MASK] reprit :
+
+['Monsieur', 'Monseigneur', 'Oui', 'Oh', 'Ah']	Eminence	Vous n’êtes guère fortuné, mais vous êtes de bonne souche. J’ai là, dans cette cassette, un brevet de colonel. Que diriez-vous si je le signais ? Le chevalier s’inclina. – [MASK], je serais pénétré envers vous de la plus profonde reconnaissance…
+
+['somme', 'fait', 'effet', 'vérité', 'réalité']	Gascogne	– Ce n’est pas moi, fit-il, qui l’ai mis à mal, c’est lui qui vient de mourir tout seul et probablement de peur. Voilà comment nous sommes, en [MASK]… Tandis qu’il refroidit, allons nous occuper de notre faux monnayeur
+
+['Elle', 'Il', 'Madame', 'On', 'Mademoiselle']	Durbec	Donc, si nous avons fait une fausse déclaration, il faudra que vous nous poursuiviez en justice. [MASK] s’écria : – Ne nous égarons pas en vains subterfuges. Voulez-vous, oui ou non, madame, me dire ce que vous avez fait de cet enfant ?
+
+['Il', 'Elle', 'il', 'et', 'Et']	Gaëtan	– Je ne sais trop… Je n’ose vous le promettre… Des devoirs aussi m’attachent à la Cour, vous le savez bien… [MASK] se passa la main sur le front. – Pardonnez-moi : je rêve encore ! je suis fou… Mais qu’importe
+
+['monsieur', 'madame', 'Charles', 'Monsieur', 'Louis']	Gaëtan	Tout en dévisageant l’ancien pêcheur d’un air courroucé, il fit : – Et les soldats ? – Ah ! ceux-là, monsieur, ils ne vous gêneront pas beaucoup, car ils sont tous soûls comme des bourriques. – Allons, ça va un peu mieux, respira [MASK].
+
+['moi', 'lui', 'vous', 'nous', 'Louis']	Mazarin	Le baptême est fixé pour quatre heures. D’ici là, je vais avoir le temps de m’occuper du petit. Et, se tournant vers [MASK], il ajouta : – Il est toujours bien entendu, mon cher comte, que vous lui servez de parrain ?
+
+['place', 'cours', 'chacun', 'Dieu', 'court']	Richelieu	– Merci, monsieur. Je sais que je peux compter sur vous. – Jusqu’à la mort, Eminence ! – Allez, monsieur… Je vous remercie… Le gentilhomme se retira, laissant [MASK] à ses réflexions.
+

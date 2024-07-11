@@ -1,0 +1,200 @@
+[',', 'et', 'que', 'cela', '-']	Maigret	— Les gamins que nous arrêtons ne sont que des exécutants, avait affirmé [MASK] dès le début de ces agressions. Non seulement on signalait chaque fois de nouveaux visages, mais ceux qu’on arrêtait n’avaient la plupart du temps pas de casier judiciaire.
+
+['celui-ci', 'celle-ci', 'Vincent', 'Marie', 'Laurent']	Manuel	Mettez-vous-y tous les deux. — Nous devons les questionner ? — Je le ferai moi-même. Le corps de [MASK] avait été emporté et le médecin légiste procédait sans doute maintenant à l’autopsie.
+
+['Lui', 'lui', 'Il', 'il', ',']	Manuel	Il avait bien déjeuné. Il gardait dans la bouche la saveur du marc. La chaleur, si elle donnait envie de sommeiller, était agréable, le soleil plein de gaieté. [MASK] aussi aimait les bons repas, le marc, et cette demi-somnolence des beaux jours d’été.
+
+['être', 'nous', 'se', 'à', "s'"]	Douai	— Commencez à [MASK]. — Des camions, des camps de réfugiés, des trains, des gendarmes qui questionnaient le vieil homme, car il me paraissait vieux, et qui, ne pouvant rien tirer de lui, me questionnaient à mon tour. Qui étions-nous ?
+
+['Il', 'On', 'Je', 'il', 'Elle']	Manuel	C’est vous qui le dites. — Les gens de sa sorte répugnent en général à confier leur argent à une banque, car il est trop facile d’y retrouver la date des versements. — Je continue à vous écouter. — [MASK] ne travaillait pas seul.
+
+['lui', 'celui', 'elle', 'celle', 'monsieur']	Janvier	On sonne à la porte et c’est certainement [MASK] qui a fini de déjeuner. Il restera ici jusqu’à ce que j’envoie un inspecteur pour le relayer. Il fut sur le point de lui tendre la main. Il la sentait troublée.
+
+['gâteau', 'chacun', 'celui-ci', 'responsabilité', 'ceux-ci']	Palmari	Ces contacts, à vrai dire, il les avait par votre intermédiaire. » Officiellement, vous vous contentiez d’aller une fois par semaine, rarement deux, vérifier les comptes du Clou Doré , toucher la part de [MASK] et verser l’argent en banque, à un compte ouvert à votre nom.
+
+['il', 'elle', 'on', 'je', ',']	Maigret	— À moins qu’il n’en reste dans le réfrigérateur. Pendant près de deux heures, [MASK] parcourut la maison de long en large, de bas en haut, aimable et patient, avec l’obstination d’un spécialiste du porte à porte.
+
+['midi', 'soir', 'matin', 'déjeuner', 'dimanche']	Justin	? — Un client. Je ne connais pas son nom mais il vient assez souvent boire une ou deux menthes à l’eau. Je suppose qu’il est du quartier. — Il était ici à l’apéritif de midi ? — Il était ici, [MASK] ?
+
+['</s>', 'et', '-', 'qui', '.']	Maigret	À propos, le juge ne vous a pas cassé les pieds ? — Au contraire. Je commence déjà à l’aimer, cet homme. [MASK], une fois seul, retira son veston, bourra lentement une pipe et commença à regarder autour de lui comme s’il prenait possession des lieux.
+
+["c'", 'pas', 'toi', 'moi', 'que']	Fernand	Le magot était assez confortable pour lui donner l’envie d’aller finir ses jours ailleurs, quelque part où on le promènerait dans un jardin, où il se sentirait dans la nature. » Est-ce [MASK] ou toi qui n’a pas pu supporter cette idée-là ?
+
+['il', 'Il', 'celui-ci', 'on', 'en']	Palmari	Certains le laissaient entendre mais cela n’avait jamais été prouvé et, un beau jour, [MASK] était devenu propriétaire du Clou Doré . Il se croyait malin et c’était un fait que jusqu’à l’âge de soixante ans, il avait si bien louvoyé qu’il n’avait jamais encouru de condamnation.
+
+['son', 'lui', "l'", 'la', 'ses']	Maigret	De temps en temps, il lançait un coup d’œil furtif à [MASK], comme pour établir avec lui une certaine connivence. Les deux autres, le substitut et le commissaire de police, parlaient et se comportaient en fonctionnaires consciencieux. — Le médecin a examiné le corps ?
+
+[',', 'de', 'le', 'la', 'les']	Palmari	Elle est beaucoup plus intelligente que ne l’était [MASK] et, bien dirigée, elle aurait pu se faire un nom au théâtre, dans le cinéma, se lancer dans n’importe quelle entreprise. — Vous croyez qu’elle l’aimait, en dépit de la différence d’âge
+
+['un', 'une', 'autres', 'emblée', 'elle']	Aline	Le mot respect était trop fort. Mesurant l’homme sans préjugés, le policier chevronné ne pouvait s’empêcher de nourrir à son égard une certaine estime. De même avait-il, dès le début, été curieux d’[MASK], qui exerçait sur lui une sorte de fascination.
+
+['tu', 'toi', 'quoi', 'moi', 'est-ce']	Coco	… Tu as faim, [MASK] ?… Il expliqua qu’il était de la police, qu’un crime avait été commis dans la maison. — Je sais, mon bon monsieur. La concierge me l’a dit quand je suis allée faire mes courses.
+
+['vous-même', 'vous', 'toujours', 'moi', 'Martin']	Palmari	Et le juge, les yeux malicieux, démontait le mécanisme de l’affaire, ce qui prouvait qu’il avait passé une partie de la nuit à en étudier le dossier. — Je suppose que vous considérez [MASK] comme le chef de l’entreprise.
+
+['tranquillement', 'rapidement', 'lentement', 'seul', 'chacun']	Janvier	Cette fois, le regard de la jeune femme se fit plus aigu. — Dans la maison ? — L’envie m’est venue de faire la connaissance des locataires. Elle le suivit des yeux tandis qu’il renvoyait [MASK] chez lui.
+
+[',', 'de', 'à', 'très', 'le']	Maigret	Il serait préférable que vous cessiez de vous raidir, de vous tenir sur la défensive, de me cacher ce que vous serez bien forcée de m’avouer un jour. Elle allumait une cigarette en regardant [MASK] avec indifférence. Désignant le fauteuil roulant, le commissaire murmurait :
+
+['Pierre', 'Louis', 'Paul', 'Jésus', 'celui-ci']	Maigret	Soudain, elle se jeta contre la poitrine de [MASK] et il la laissa pleurer tout son saoul. Un jour, sans doute, elle trouverait un nouvel appuis une autre main à laquelle se raccrocher. — Je vous promets de revenir vous voir. Soignez-vous bien.
+
+['la', 'ses', 'son', 'sa', 'dos']	Maigret	Sans s’essuyer, il faisait un pas à son tour, les mains en avant menaçantes, tandis que le petit juge s’agitait, mal à l’aise, dans le fauteuil de [MASK]. — C’est toi, salope, qui… — Crapule !… Voyou
+
+['</s>', 'Je', 'On', "J'", 'Vous']	Maigret	: — Ce serait le bouquet ! Qu’on m’arrête, moi ! Et des gens croient encore à la justice ! Vous y croyez, vous, après ce qui vous est arrivé ? Vous y croyez, dites ? [MASK] préféra ne pas répondre à la question.
+
+['je', 'en', 'vous', 'LOR', '...']	Maigret	On aurait dit qu’il n’était plus dans le coup, que toute l’affaire n’avait été qu’un entracte dans son existence. — Allô ! Veuillez me passer le juge d’instruction Ancelin. Allô !… Allô !… Le juge Ancelin ? Ici, [MASK].
+
+['Monsieur', 'Madame', 'monsieur', "c'", 'vous']	Pernelle	Dites-moi, [MASK], depuis quand le Clou Doré a-t-il changé de main ? Une légère rougeur sur le visage pâle du patron. — Cinq jours. — Et qui est l’actuel propriétaire ? Il n’hésita qu’un instant.
+
+['il', 'Il', "n'", 'père', 'On']	Maigret	Trente francs, plus vingt pour cent de service. Il poussait un cahier devant le commissaire. — Nom, adresse, numéro du passeport ou de la carte d’identité. Si [MASK] avait fait monter une fille avec lui, il aurait échappé à ces formalités.
+
+['messieurs', 'mesdames', 'Messieurs', 'dames', 'monsieur']	Maigret	— Vous avez bien mangé, messieurs ? — Fort bien. Tellement bien qu’ils se sentaient tous les deux un peu lourds, surtout une fois en plein soleil. — Merci pour ce repas, [MASK]. Ne me laissez pas trop longtemps sans nouvelles. — Promis.
+
+['lui', 'le', 'la', 'son', "l'"]	Maigret	L’automatique était convenablement huilé et je suis sûr qu’on retrouvera dans ton sac des traces de cette huile. — Ce n’est pas vrai ! cria-t-elle en se jetant sur [MASK], dont elle frappa les épaules et le visage de ses poings.
+
+[',', 'la', "qu'", 'le', "l'"]	Maigret	Deux voitures étaient arrêtées devant l’immeuble. Un agent en uniforme se tenait devant la porte et, reconnaissant [MASK], porta la main à son képi. — Au quatrième à gauche, murmura-t-il. — Je sais.
+
+['en', ',', "n'", 'donc', 'quand']	Aline	— Depuis quand [MASK] était-elle la vraie patronne ? — Je ne me souviens pas de la date. Cela fait plus de deux ans. — L’acte de vente a été passé devant notaire ? — Tout ce qu’il y a de plus régulièrement.
+
+['maître', 'clients', 'celui-ci', 'tous', 'Jésus']	Justin	Il m’arrive de le servir en l’absence de [MASK] et d’échanger quelques mots avec lui sur le temps. — Il n’est jamais accompagné ? — Rarement. Je l’ai vu quelquefois avec des jeunots et je me suis même demandé s’il n’était pas pédéraste.
+
+['Monsieur', 'Madame', 'vous', 'monsieur', 'alors']	Aline	Il y a beaucoup de vivants dans cet état-là ? — Qu’avez-vous fait pendant les vingt minutes qui se sont écoulées entre la découverte du corps et votre coup de téléphone ? Un bon conseil, [MASK] : ne répondez pas trop vite. Je vous connais.
+
+['Non', 'Oui', 'Monsieur', 'OUI', 'Comment']	Mina	— Je suppose que c’est celui de ma famille. Il paraît que c’est celui que j’ai prononcé. — Et le prénom ? — [MASK]. — Vous parliez le français ? — Non. Seulement le flamand. Je n’avais jamais vu de ville.
+
+['-', 'vous', 'le', 'votre', 'les']	Aline	— De jour, il le cachait derrière le poste de radio, à portée de sa main ; le soir, il le posait sur sa table de nuit. Un Smith & Wesson 38, arme de professionnel, qui ne fait pas merci. — Venez, [MASK].
+
+['ces', 'la', 'tous', "l'", 'ce']	Maigret	C’était un des locaux non modernisés qu’on réservait aux nouveaux venus et le juge était contraint d’empiler des paperasses à même le plancher et de garder les lampes allumées toute la journée. À la vue de [MASK], le juge grassouillet se frotta les mains.
+
+['vous', 'je', "c'", "j'", 'se']	Jef	Pour le moment, c’est en me répondant franchement que vous avez le plus de chances de rendre service à votre mari. Une autre question venait aux lèvres de la jeune femme, une question qu’elle paraissait se poser depuis longtemps, sinon depuis toujours : — Est-ce que [MASK] était fou
+
+['lui', 'moi', 'nous', 'la', 'vous']	Maigret	La liste servirait plus tard, et le commissaire imaginait le petit juge, pendant les semaines à venir, convoquant témoin sur témoin dans son cabinet en désordre, nourrissant peu à peu un dossier de plus en plus épais. Le monde recommençait à revivre autour de [MASK].
+
+[',', 'le', 'M.', 'Monsieur', 'celui-ci']	Maigret	Sans doute avaient-ils été surpris de voir arriver le commissaire de police, puis le juge d’instruction, puis enfin [MASK] lui-même, car ils ignoraient ce qui avait pu se passer à l’intérieur de l’immeuble. Il y avait là quelque chose d’assez ironique.
+
+['tête', "l'", 'haut', 'sur', 'pied']	Palmari	Il eut de la peine à s’endormir, car les personnages qui avaient peuplé sa journée revenaient le hanter tour à tour, avec en premier plan, la masse presque grotesque, curieusement tordue, de [MASK] au pied du fauteuil roulant.
+
+['Dreyfus', 'celui-ci', 'chacun', 'Napoléon', 'M.']	Palmari	— Il n’a fait qu’entrer et sortir. Il prétend qu’il est impossible, avant l’autopsie, de déterminer le nombre de balles que [MASK] a reçues, impossible aussi, sans le dévêtir, de reconnaître les orifices d’entrée des projectiles et les orifices de sortie.
+
+['monsieur', 'celui-ci', 'cela', 'lui', 'Monsieur']	Fernand	— Pourquoi traitez-vous [MASK] comme un criminel et lui avez-vous passé les menottes ? — Nous en parlerons plus tard, voulez-vous ? Pour le moment, c’est en me répondant franchement que vous avez le plus de chances de rendre service à votre mari.
+
+['elle', 'Elle', 'il', 'et', 'Il']	Aline	Il vit des larmes gonfler les paupières de la jeune femme et elles ne semblaient pas feintes. [MASK] se moucha gauchement, à la façon d’une petite fille qui se défend de sangloter. — Pourquoi faut-il… — Pourquoi faut-il que quoi ? — Rien.
+
+['à', 'NE', ',', 'S', 'pas']	Maigret	? — Des gants de coton blanc. Tenez ! les voici. Elle les sortait d’un sac à main en forme de fourre-tout. Des traces vertes attestaient qu’elle avait tripoté des légumes. — Baron ! appelait [MASK]. — Oui, patron. —
+
+['la', 'Bar', 'une', "l'", 'elle']	Aline	Pendant quelques instants la mêlée fut confuse et enfin un Barillard au visage sanglant fut maintenu debout cependant qu’[MASK], les poignets entravés à son tour, était poussée vers une chaise. — Je crois, Monsieur le Juge, qu’il suffira de les interroger séparément.
+
+['qui', 'commissaire', 'on', 'il', 'Il']	Maigret	! [MASK] serrait la main d’un grand type maigre qui venait de quitter ses deux compagnons après avoir empoché, comme une vulgaire lettre, un sachet de diamants. — Salut, commissaire. Encore une attaque de bijouterie ? — Pas depuis la semaine dernière.
+
+['inspecteur', 'Monsieur', 'commissaire', 'monsieur', 'messieurs']	Maigret	Je crois que vous avez l’habitude, [MASK], de mener seul vos enquêtes, je veux dire seul avec vos collaborateurs, et d’attendre des résultats plus ou moins définitifs pour adresser votre rapport au Parquet et au juge d’instruction ? — Ce n’est plus guère possible.
+
+["c'", 'tu', 'toi', "t'", 'lui']	Fernand	— Que [MASK] est un fauve et que tu es devenue sa femelle. Que tu as vécu ici, pendant des mois et des années, avec celui que tu appelais papa et qui te faisait confiance, tout en attendant l’heure d’aller te rouler dans un lit avec ce voyou.
+
+['parfois', 'souvent', 'toujours', 'chacun', 'certains']	Manuel	Il l’avait connue sûre d’elle, souvent arrogante, se moquant de lui d’une voix acide, ou l’injuriant en des termes qui obligeaient [MASK] à intervenir. Il l’avait connue d’une beauté nature, sentant encore un peu le trottoir, ce qui lui donnait du piquant.
+
+['il', 'on', 'celui-ci', 'elle', 'lui']	Palmari	Un bruit qui court… Or, depuis l’attentat dans lequel il avait perdu une jambe, [MASK] ne recevait pratiquement personne. Son téléphone, il le savait, était branché sur la table d’écoute et il avait soin de ne donner que des coups de fil innocents.
+
+['Elle', 'elle', 'Il', 'On', 'il']	Maigret	Elle se leva avec mauvaise grâce, les yeux assombris par la rancune. — Venez. Elle dut ouvrir deux tiroirs avant de les trouver. — Voilà ! Vous pouvez les envoyer à vos artistes. Je ne les ai pas portés ce matin. [MASK] les empocha sans mot dire.
+
+['qui', 'il', 'le', 'lui', "l'"]	Janin	Il y avait un inspecteur au volant d’une auto noire. [MASK], sur le trottoir, ne savait que faire. — Rentre chez toi et dors une dizaine d’heures d’affilée. — Si vous croyez que ma femme et mes enfants me laisseront dormir !
+
+['il', 'ça', 'elle', 'cela', 'Il']	Fernand	Les lèvres de l’un et de l’autre frémissaient, les narines se pinçaient, [MASK] commençait par siffler : — Qu’est-ce que tu… Campée devant lui, les reins cambrés, les muscles tendus, elle avançait un visage haineux et lui crachait au visage.
+
+["l'", 'la', 'son', 'mon', 'sa']	Jef	— Il savait que vous étiez la petite-fille de [MASK] ? — Je le lui ai dit. Je lui ai raconté notre aventure. Puisqu’il avait l’intention de m’épouser, il m’a naturellement demandé de le présenter.
+
+['celui-ci', 'Pierre', 'monsieur', 'Monsieur', 'madame']	Maigret	Les yeux de [MASK] riaient. Il comptait négligemment les donnes. — Belote ? — Oui. Je vais vous expliquer. Quand vous êtes parti, j’ai insisté pour qu’elle mange un morceau. Elle n’a rien voulu entendre et s’est enfermée dans la chambre.
+
+['il', 'Il', 'et', '</s>', "j'"]	Fernand	» Suppose qu’à ce moment l’arme ait encore été à sa place derrière la radio. [MASK] entre avec sa clef, car il avait sa clef, qui lui permettait de prendre contact avec le patron quand c’était nécessaire. » Regarde bien les meubles.
+
+['la', "l'", 'son', 'sa', 'ce']	Palmari	Le fauteuil roulant de [MASK], qu’il voyait vide pour la première fois, devenait tout à coup impressionnant, surtout que le cuir du siège et du dossier gardait l’empreinte du corps, le trou percé par une des balles qui s’était logée dans le rembourrage du dossier.
+
+['petit', 'mari', 'petite', 'homme', '?']	Fernand	La femme écarquillait les yeux, surprise du ton que prenait soudain la conversation, du raidissement, inattendu pour elle, des deux hommes. Posant la main sur celle de son mari, elle questionnait : — Que se passe-t-il, [MASK] ? — Rien mon petit.
+
+[',', 'de', 'à', 'le', '...']	Fernand	Elle poussa un cri mais ne s’évanouit pas, se mit au contraire à courir, pénétra dans le salon et lança d’une voix perçante à son mari : — Ce n’est pas vrai, dis, [MASK] ? Ce n’est pas vrai que tu as fait ça au vieux Jef
+
+['-', '/', '...', 'DE', '(']	Barillard	Un pauvre homme au cerveau dérangé, qui aurait fait n’importe quoi pour ne pas être éloigné de la petite fille qui, un jour de jugement dernier, avait mis sa main dans la sienne. Vous êtes une crapule, [MASK]. — Je vous remercie. —
+
+['s', 'S', "s'", 'S', 's']	Aline	Un jour, sans doute, elle trouverait un nouvel appuis une autre main à laquelle se raccrocher. — Je vous promets de revenir vous voir. Soignez-vous bien. La vie continue. En face, [MASK] était assise au bord du divan. — Nous partons, annonça
+
+['de', 'le', 'la', "l'", ',']	Maigret	? Il est vrai que vous allez peut-être m’arrêter, non ? — Vous la connaissez ? demanda à voix basse le juge d’instruction à [MASK]. — Assez bien. — Vous croyez que c’est elle ? —
+
+['-', '...', 'Monsieur', 'Madame', 'matin']	Pernelle	— Réfléchissez à ce que je vous ai dit, [MASK]. Maintenant que vous voilà à votre compte et à la tête d’une boîte qui marche, ce serait désolant d’avoir des ennuis, n’est-ce pas ? J’ai dans l’idée que je ne tarderai pas à vous revoir.
+
+['-', ',', 'Je', 'de', 'la']	Maigret	Craignait-il que le commissaire lui reproche d’être sans veston, une chemise douteuse ouverte sur sa poitrine maigre et velue ? [MASK] le regarde à peine. — Personne ne s’est servi du téléphone ? — Moi, patron, pour dire à ma femme…
+
+['et', 'elle', "qu'", 'il', 'on']	Aline	Le commissaire en eut l’explication en pénétrant dans le salon. [MASK] en sortait par l’autre porte, celle de la chambre à coucher ; au lieu de sa robe bleu clair du matin, elle portait un négligé en soie orange.
+
+['commissaire', 'visite', 'commissaires', 'commission', 'réunion']	Lucas	Je sais !… Tant pis ! vos clients attendront… Non, je n’ai aucune idée de l’heure à laquelle je vous verrai… Le compte rendu de [MASK] n’était qu’une note personnelle pour le commissaire et son rapport officiel serait rédigé plus tard.
+
+['...', ',', 'le', 'concierge', 'la']	Palmari	Alors, son interlocuteur lui faisait comprendre qu’il était capable de lire les mots sur ses lèvres. — Je vous demande pardon de vous déranger. J’appartiens à la police. Connaîtriez-vous par hasard un locataire nommé [MASK] ?
+
+['demoiselles', 'celle-ci', 'celles-ci', "l'", 'celui-ci']	Maigret	À l’arrivée de [MASK], l’une d’elles s’était penchée vers sa copine, sans doute pour lui souffler : — C’est un flic ! De sorte que quand le commissaire rejoignit l’inspecteur, celui-ci perdit tout intérêt aux yeux des demoiselles. — Tu as dîné ?
+
+['Dieu', 'le', 'lui', "l'", 'Jésus']	Palmari	? Seulement, comme pour tant d’autres, ses expériences lui avaient laissé un besoin de hargne, d’agressivité. Comment croire au bien, à la justice, comment faire confiance aux hommes après la vie qu’elle avait menée jusqu’à sa rencontre avec [MASK] ?
+
+['des', 'plusieurs', 'maintes', 'les', 'de']	Aline	Il avait connu maintes femmes coquettes et soignées comme l’avait été [MASK], qui, du jour au lendemain, livrées à elles-mêmes par la mort de leur mari ou de leur amant, s’étaient laissé aller de la sorte. Leurs goûts, leurs attitudes changeaient soudain.
+
+['oui', 'non', 'pas', '...', 'que']	Justin	? — Les journaux n’ont pas parlé du crime. Essayez de vous souvenir. Saviez-vous quelque chose à l’heure du déjeuner ? — Il me semble, oui. Les clients nous parlent de tant de choses ! Tu te souviens, toi, [MASK] ?
+
+["l'", 'la', 'tous', 'chacun', 'ces']	Maigret	? — Non. Nous n’avons sans doute pas les mêmes fournisseurs. — Il y a longtemps que vous êtes mariée ? — Huit ans. Des douzaines et des douzaines de questions, autant de réponses qui s’enregistraient dans la mémoire de [MASK].
+
+['...', ',', 'tout', 'de', 'le']	Manuel	Elle enfilait ses gants. Le soleil pénétrait à flots par les deux fenêtres ouvertes sur la rue. — Avouez que vous aviez un faible pour [MASK], murmura-t-elle. — Dans un certain sens, oui. Elle ajouta après une hésitation, sans le regarder :
+
+['à', ',', 'de', 'un', 'dans']	Claes	Je suppose que, voyant tous les miens morts autour de moi, je me suis raccrochée à l’homme le plus proche, qui ressemblait peut-être à mon grand-père. — Comment se fait-il qu’il ait pris votre nom, pour autant que votre nom soit réellement [MASK]
+
+['messieurs', 'monsieur', 'madame', 'bien', 'Madame']	Pernelle	— Asseyez-vous, [MASK], et écoutez-moi bien. Si nous jouions franc-jeu tous les deux ? — J’ai toujours joué franc-jeu. — Vous savez que non, que vous ne pouvez pas vous le permettre, sinon vous ne seriez pas propriétaire du Clou Doré .
+
+['il', 'Il', '-', 'et', 'on']	Maigret	— La clef ? — Elle n’est pas fermée. [MASK] l’ouvrit et, comme il s’y attendait, parmi les boîtes luxueuses, presque toutes décorées avec goût, il trouva de ces boîtes dans lesquelles les bijoutiers emballent les montres et les bijoux vendus sans écrin.
+
+['Monsieur', 'Madame', 'madame', '...', 'monsieur']	Aline	? Asseyez-vous, [MASK]. Il la traitait maintenant comme si rien ne s’était passé. On aurait dit qu’il n’était plus dans le coup, que toute l’affaire n’avait été qu’un entracte dans son existence. — Allô !
+
+['les', 'ses', 'son', 'le', 'lui']	Aline	Ainsi, il a toujours prétendu n’avoir pas vu les deux hommes qui ont tiré sur lui alors qu’il s’apprêtait à baisser ses volets. Comme par hasard, deux tueurs marseillais ont été abattus dans le Midi quelques mois plus tard. — Il s’entendait bien avec [MASK] ?
+
+['Il', 'Elle', 'On', '</s>', 'Je']	Maigret	— Et voilà ! Je vous souhaite une bonne nuit en attendant notre prochaine entrevue qui sera, j’espère, aussi cordiale que celle-ci. [MASK] sortait du bureau et trouvait la jeune femme, les yeux rouges, dans la salle à manger.
+
+['Février', 'Décembre', 'Avril', 'février', 'Janvier']	Moers	— Patiente un moment, Janvier. Entrez, [MASK]. Le spécialiste avait compris et préparait ses instruments. — Votre main, madame. — Pour quoi faire ? Le commissaire expliquait : — Pour établir que vous ne vous êtes pas servie ce matin d’une arme à feu.
+
+['de', 'la', ',', 'plus', 'se']	Fernand	Tu n’as toujours rien à dire ? La cigarette lui tomba des doigts et, du bout de sa mule, elle l’écrasa sur le tapis. — Depuis combien de temps es-tu la maîtresse de ce mâle orgueilleux de [MASK] ? Un an, trois ans, quelques mois
+
+['</s>', 'Il', 'il', "s'", 'Je']	Lucas	— Je n’ai pas voulu quitter l’immeuble sans vous souhaiter une nuit aussi bonne que possible. [MASK], assis dans un fauteuil, posait sur le tapis le magazine qu’il était occupé à lire et se levait paresseusement.
+
+[',', ';', 'et', 'a', "d'"]	Maigret	— Du nouveau, patron ? Il fit signe que non. — Reste ici jusqu’à ce que je te fasse remplacer. Veille sur elle et méfie-toi de l’escalier de service. — Vous rentrez au Quai ? [MASK] après un geste vague, soupira :
+
+['le', 'son', ',', 'la', 'sa']	Barillard	Pas même tes collègues. Tu ne touches à rien, toi non plus. Compris ? — Compris, patron. — En route. Il regardait [MASK] qui, la silhouette différente depuis qu’il avait les deux mains derrière le dos, s’avança comme un mannequin.
+
+['E', '</s>', '...', 'S', '"']	Chabaud	? [MASK], celui de la télévision, était absent. Le contrôleur du métro n’était pas rentré mais sa femme se trouvait dans l’appartement avec une amie, installées devant des petits fours et des tasses de chocolat. — Que voulez-vous que je vous dise ?
+
+['locataire', 'propriétaire', 'toi', 'alors', 'célibataire']	Lulu	— La fille aux cheveux noirs et aux robes collantes qu’il m’est arrivé de croiser dans l’escalier ? — C’est votre propriétaire. — Première nouvelle. Je ne lui ai jamais adressé la parole. Et toi, [MASK] ? — Je déteste son genre.
+
+['Aline', '...', 'C1', 'Lorraine', '-']	Fernand	Aline… [MASK]… Lorsque je vous aurai de nouveau en face de moi, je saurai qui des deux est, je ne dis pas le coupable, car vous l’êtes l’un comme l’autre, mais le véritable instigateur du double drame. Compris ?
+
+['à', 'de', 'en', '-', 'plus']	Pernelle	— Cependant, dès midi, vous saviez ce qui lui est arrivé. Comme vous l’avez dit, on entend beaucoup de choses au bar ou au restaurant. Que pensez-vous, [MASK], des vols de bijoux ? —
+
+['-', 'un', "qu'", 'une', 'le']	Palmari	— Elle aurait trouvé, dans la pièce voisine, [MASK] qui avait glissé de son fauteuil d’infirme sur le tapis. Il était mort après avoir perdu beaucoup de sang comme vous allez vous en rendre compte. — À quelle heure vous a-t-elle téléphoné ?
+
+['...', 'avez-vous', 'vous', 'avez', 'à']	Aline	— Vous désirez que celui qui a fait ça soit puni, n’est-ce pas ? — Ce n’est pas sur la police que je compte. — Vous préférez vous en charger vous-même ? Quel âge avez-vous, [MASK] ? — Vous le savez.
+
+[',', 'la', '</s>', 'celui-ci', 'qui']	Maigret	? Le vieux, enfin, qui à l’arrivée de [MASK] lisait un journal pour enfants, avec des bandes dessinées. Sa face était couturée et une des cicatrices relevait un des coins de la bouche, ce qui lui donnait l’air de sourire perpétuellement.
+
+['dit-il', 'monsieur', 'Monsieur', 'dit-elle', 'vous']	Aline	Il n’était pas difficile de deviner que la cordialité ne régnait pas entre les deux personnages qui venaient de passer plusieurs heures enfermés dans l’appartement et qui allaient y rester jusqu’au matin. — Vous ne croyez pas, [MASK], que vous feriez mieux de vous coucher ?
+
+['cela', ',', "jusqu'", 'à', 'de']	Aline	Je n’ai jamais voulu croire que cet homme s’était retranché entièrement du monde. J’ai fait suivre [MASK] à chacune de ses sorties. » J’ai obtenu aussi la preuve qu’il lui arrivait de donner des coups de téléphone de l’arrière-boutique d’un commerçant chez qui elle faisait ses achats.
+
+['</s>', 'les', 'la', 'un', 'le']	Maigret	Le gorille maison, que tout le monde appelait Jo-les-Gros-Bras, n’était pas encore à son poste, dans son uniforme bleu à passementerie dorée, sur le seuil du restaurant. [MASK], qui le cherchait des yeux le connaissait bien.
+
+['il', 'elle', 'M.', 'on', 'Jean']	Maigret	Je n’ai pas eu le temps de t’en parler. À cause du locataire qui est mort, il a fait le tour de la maison, sonnant à toutes les portes. — Continuez de dîner, disait [MASK]. J’ai tout le temps.
+
+[',', 'g', 'se', "s'", 'on']	Janin	[MASK] était un bonhomme maigrichon qui marchait en lançant la jambe gauche de travers et qui, comme certains chiens, semblait perpétuellement s’attendre à recevoir des coups. Craignait-il que le commissaire lui reproche d’être sans veston, une chemise douteuse ouverte sur sa poitrine maigre et velue
+
+['le', 'votre', 'tout', 'notre', 'cela']	Manuel	— Vous n’en êtes pas sûre ? — Il y a des gestes qu’on fait machinalement. Après ce qui s’est passé ensuite, j’ai de la peine à me rappeler. — Comme je vous connais, vous vous êtes donc rendue dans le cagibi pour embrasser [MASK].
+
+['son', 'la', "l'", 'sa', 'un']	Pernelle	Il fit signe à [MASK], qui leur trouva une petite table éclairée d’une lampe dorée à abat-jour de soie. — Ce soir, je vous recommande la paella. Vous pourriez commencer par des ramequins à la niçoise.
+
+['-', '--', '...', 'Monsieur', 'quatre']	Lucas	— J’ai pris une voiture. Ai-je bien fait ? — Il reste de la bière, [MASK] ? — Deux bouteilles. — Ouvre-m’en une et je t’en ferai livrer une demi-douzaine. Il était six heures.
+
+[',', 'roi', 'duc', 'comte', 'journaliste']	Janvier	Elle portait une robe noire devenue informe, des souliers éculés et elle regardait les gens en dessous, d’un œil féroce, comme si elle s’attendait toujours à être attaquée. — Je ne sais rien, avait-elle déclaré à [MASK] avant même que celui-ci ouvre la bouche.
+
+['commissaire', 'monsieur', 'Monsieur', 'Commissaire', 'venez']	Aline	Était-ce ainsi qu’il s’était imaginé le fameux commissaire ? N’était-il pas déçu ? — Je vous laisse carte blanche, mais tenez-moi au courant. — Venez, [MASK]. — Où me conduisez-vous ? Quai des Orfèvres ? — Moins loin. Dans votre chambre.
+
+['à', 'les', "d'", 'aussi', 'le']	Janvier	— Vous le savez mieux que moi, mon petit. Je ne suis pas pressé. Cela viendra en son temps. Il appelait [MASK], les deux inspecteurs qui se montraient mal à l’aise dans cette chambre à coucher blanche et jaune. — À vous, mes enfants.
+

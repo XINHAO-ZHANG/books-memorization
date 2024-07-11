@@ -1,0 +1,200 @@
+['Marie', 'Paris', 'Alice', 'morte', 'né']	Lucien	Sur ce banc de gazon, elle restait souvent, par les belles soirées, à écouter de loin le sourd bourdonnement que le vent apportait par bouffées. Peut-être est-ce le bruit de la ville, de la ville où est [MASK];
+
+['il', 'qui', 'elle', 'on', 'lui']	Prosper	mais [MASK] avait chaud et rencontrait des amis qui avaient soif. Au bout de la semaine, il rapportait très peu d’argent. Sa pauvre femme faisait de son mieux pour soutenir leur petit ordinaire; mais elle est bientôt forcée de supprimer le café du matin.
+
+['elle', 'lui', 'Marie', 'Jeanne', 'Julie']	Roger	Le lendemain, il ne se réveilla qu’à onze heures; il déjeuna, puis il fit une partie de billard avec [MASK]. —A propos, dit-il, voici le collier que tu m’as demandé. Et il sortit de sa poche un petit écrin.
+
+['Madame', 'Monsieur', 'Mademoiselle', 'Marie', 'Louise']	Julienne	Votre robe est bleue; c’est une charmante couleur que le bleu.... Comment vous appelez-vous? —[MASK]. —C’est un bien joli nom. Impossible de l’amener à une conversation plus intime. Le lundi d’après, il arriva de bonne heure.
+
+['Elle', 'Il', 'elle', 'On', '</s>NOTUSED']	Bérénice	il sourit amèrement et se dit: —Je suis fou. [MASK] lui demanda d’un rire goguenard s’il avait fait bonne chasse. Il se crut deviné, et, pour la cacher davantage, il renfonça sa préoccupation dans son cœur, où elle se cramponna.
+
+['il', 'elle', 'on', 'Charles', 'Julien']	Arthur	—En ce moment, il vaudrait mieux t’habiller que de te tenir coi. —Mon eau n’est pas chaude. Les deux amis lâchèrent quelques bouffées de fumée; puis [MASK] reprit: —Ce n’est pas que je veuille défendre la flânerie;
+
+['Oui', 'Père', 'Seigneur', 'Femme', 'Non']	Adèle	Il lui prit la main, et ne baisa pas cette main ainsi qu’il avait coutume de le faire. —[MASK], lui dit-il, je suis triste, malheureux, désespéré; je viens ici pleurer, blasphémer.
+
+['Dieu', 'alors', 'Madame', 'madame', 'donc']	Bérénice	Il fut longtemps à déterminer s’il mettrait une cravate blanche ou une cravate noire; puis, quand il se fut décidé pour la cravate noire, il se trouva que la plus belle n’était pas ourlée; il appela [MASK] pour faire réparer cette omission;
+
+['Il', 'On', 'Chacun', 'Monsieur', 'Louis']	Roger	Et elle joignit à cette question un ton et un air d’intelligence qui semblait témoigner qu’elle était connue et qu’on savait ce qu’elle demandait. —Une lettre aux trois MMM? reprit le receveur avec un sourire niais. La voici. La domestique sortit avec la lettre. [MASK] resta quelques instants stupéfait;
+
+['madame', 'Madame', 'maman', 'Jeanne', 'Marie']	Bérénice	en bonne ménagère, ne manqua pas de s’en apercevoir et d’en faire l’observation. —Madame, reprit [MASK], il faut que monsieur ait été à la chasse dans une ferme et ait tué ce canard en lui tordant le cou;
+
+['lui', '</s>NOTUSED', 'moi', 'elle', 'vous']	Vilhem	. à [MASK]. «Mon cher ami, pourquoi ne me disiez-vous pas que vous étiez Marié? Croyiez-vous que cela me chagrinerait? Mais cela m’enchante, au contraire. Vous avez disposé de la partie de vous dont je ne veux pas et dont je n’ai que faire.
+
+['»', '«', '[...]', '(...)', '...']	MMM	»L’harmonie des sons et des couleurs n’est pas moins évidente avec les parfums. » L’écarlate , la tubéreuse. » Le cramoisi , l’héliotrope. »Etc., etc.» A tout cela, l’inconnue ne comprit pas un mot. Elle répondit que c’était fort joli. [MASK]
+
+['elle', 'Isabelle', 'Elle', 'Anne', 'Amélie']	Adèle	C’est là, sous cette tonnelle de chèvrefeuille, qu’[MASK] aimait à relire ses lettres. Sur ce banc de gazon, elle restait souvent, par les belles soirées, à écouter de loin le sourd bourdonnement que le vent apportait par bouffées.
+
+['Chopin', 'Baudelaire', 'Hugo', 'Juliette', 'Balzac']	Lucien	Un jour, elle écrivit à [MASK]: «Tout ce que les autres prennent de moi, fût-ce seulement une minute d’attention arrachée par la politesse, me semble un vol que l’on fait à vous, et encore plus à moi qui suis si heureuse de me réserver tout entière pour vous.
+
+['Marie', 'Hélène', 'Marguerite', 'Sophie', 'Elisabeth']	MMM	Enfin, trois jours avant la représentation, il jugea prudent d’écrire à son inconnue la lettre que voici: Vilhem à [MASK]. «Qu’est-ce donc que les applaudissements de la foule, cher ange, et quel charme peuvent-ils avoir pour vous?
+
+['Monsieur', 'monsieur', 'Charles', 'Joseph', 'Pierre']	Lucien	C’était loin d’être une coquette femme de chambre: c’était une grosse fille, propre, avenante, maladroite; elle se fit répéter deux fois le nom de [MASK], et vint lui dire qu’il pouvait entrer.
+
+['monsieur', 'Monsieur', 'donc', 'diable', 'madame']	Roger	Pourquoi monsieur n’a-t-il pas un encrier comme tout le monde? Bérénice ici ne nous paraît pas manquer tout à fait de jugement, et plus d’un de nos lecteurs doit se dire: «Pourquoi [MASK] n’a-t-il pas dans sa chambre un encrier comme tout le monde? »
+
+['fureur', 'colère', 'force', 'raison', 'éclat']	Horace	Le poëte, qui, jusque-là, avait appelé la voix du peuple la voix de Dieu, tant que le peuple avait dit bravo, changea subitement d’avis sur le public, et s’écria avec [MASK]: «Je hais le vulgaire ignoble, et je le repousse loin de moi.»
+
+['On', 'Il', 'Elle', 'Napoléon', 'Charles']	Léandre	mais je commanderai à mes transports; elle ne me connaîtra pas. Arrivé au Havre, il avait oublié la lettre de recommandation: il fut anéanti. Que faire de cette longue journée? On ne pouvait repartir que le soir. [MASK] eût traversé à la nage.
+
+['Molière', 'chacun', 'Marius', 'Hugo', 'Shakespeare']	Roger	Par moments, il semblait à [MASK] que le jour de la représentation n’arriverait jamais; d’autres fois, il aurait voulu pour tout au monde le retarder indéfiniment; un jour, il voulait changer un rôle; un autre jour, supprimer un acte.
+
+['Il', 'Elle', 'il', 'Lui', 'Charles']	Lucien	Après quelques instants, elle lui dit du ton d’une simple question: —Dînez-vous ici? [MASK] lui baisa la main et lui dit: —Je veux rester avec vous le plus longtemps qu’il sera possible. Ils dînèrent ensemble dans la chambre bleue.
+
+['il', 'elle', 'lui', 'Dieu', 'Pierre']	Lucien	Elle ne pouvait aller nulle part où [MASK] n’eût été avec elle. Sous ces lilas, ils avaient lu ensemble; sur cette mousse, ils avaient fait un frugal repas. C’est ce vieux saule qui, un soir, a arrêté le bateau;
+
+['Il', 'Paul', 'Thomas', 'David', 'Antoine']	Roger	[MASK] resta quelques instants étourdi. Tant que la porte ne fut pas refermée sur la personne qui entrait, il s’attendait à la voir suivie d’une autre. Puis il chercha sur ce vieux visage des traces de la beauté qu’il s’était figurée.
+
+['Il', 'Elle', '</s>NOTUSED', 'Marie', 'Dieu']	Roger	Nous avons ici le plaisir d’annoncer à nos lecteurs que deux lettres de notre collection ont été heureusement perdues. Nous disons heureusement, parce qu’elles ne contenaient que très-peu de choses en un certain nombre de pages: [MASK] s’étonnait de la découverte de son ange ;
+
+['Elle', 'Il', 'elle', 'Marie', 'Madeleine']	Julienne	Il offrit du veau et de la salade. [MASK] accepta, et, au dessert, lui avoua, hélas! qu’elle avait failli une fois; qu’elle avait été trompée, trahie; en un mot, qu’elle avait... une fille!
+
+['Il', 'Elle', 'On', 'il', 'Et']	Lucien	sachez-moi quelque gré du sacrifice que j’ai trouvé le courage de vous faire de vous-même. Je vous perds volontairement; car j’aurais pu vous tromper, et je n’ose le faire, etc., etc.» [MASK] reçut pour toute réponse: «Je vous répondrai dans un mois.»
+
+['Il', 'Elle', 'il', 'On', 'elle']	Lucien	Elle fut d’abord surprise, interdite, oppressée; elle le regarda de ce regard profondément interrogatif auquel on ne pourrait mentir. [MASK] lui répéta qu’il venait lui demander l’hospitalité pendant un mois. Alors elle se livra à une joie d’enfant;
+
+['Il', 'Joseph', 'Pierre', 'Antoine', 'Alexandre']	Roger	C’est ce que nous nous réservons d’expliquer avant la fin de cette histoire. [MASK] se mit à écrire et ne se coucha qu’assez avant dans la nuit; avant de se mettre au lit, il ferma sa porte doucement pour ne pas réveiller sa femme.
+
+['Elle', 'Il', 'elle', 'Marie', 'Madame']	Julienne	il voulait la consoler de la fourberie d’un monstre. —Eh bien, dit-il, je servirai de père à votre fille. [MASK] pleura d’admiration et consentit à tout. On demanda de part et d’autre les papiers au pays.
+
+['si', 'non', 'oui', 'mais', 'merci']	Roger	—Ah! je comprends, c’est une surprise que tu veux lui faire. —Le collier n’est pas pour elle. —Ah! [MASK], les perles lui iraient à ravir. Le second jour, il plut depuis le matin.
+
+['suivre', 'Paris', 'bientôt', 'lire', 'vous']	Vilhem	qu’arrivera-t-il? Un ami fera tout au monde pour vous donner la femme que vous aimez. Votre amie fera-t-elle moins pour vous si c’est elle-même que vous aimez? Si votre ami était une femme, il serait votre maîtresse. MMM. à [MASK].
+
+['Il', 'On', 'Elle', 'Chacun', 'Marie']	Adèle	Le soir, après dîner, un petit bateau offrait aux deux amants le plaisir de la promenade. Ils se laissaient dériver entre les saules, et une douce confiance ouvrait leur cœur. [MASK] n’avait presque rien à dire;
+
+['Benjamin', 'David', 'Lucien', 'Socrate', 'Julien']	Eugène	—Cela est d’autant plus juste à ton égard, dit [MASK] en prenant une pipe et en s’asseyant près de son camarade, que ce que tu voudrais faire surtout, ce serait ne rien faire. —Il est vrai que je méprise cette inquiétude qui fait que certaines gens agissent pour agir;
+
+['»', '(1)', '(2)', '(3)', '[...]']	MMM	Vous ne m’avez donc pas reconnu? Madame, je suis resté dix minutes dans la même chambre que vous, et, parce que je ne vous ai pas dit mon nom, vous n’avez pas su que c’était moi.» [MASK]
+
+['Il', 'Elle', 'Monsieur', 'Charles', 'Louis']	Roger	[MASK] reprit haleine, et dit: —Et madame? —Madame est avec lui; ils seront absents pendant quinze jours; monsieur veut-il laisser son nom? —Je reviendrai. Et il remonta en voiture: peut-être lui eût-il été fort difficile de dire s’il était bien fâché de la mésaventure.
+
+['Joseph', 'lui', 'Dieu', 'Jacques', 'Satan']	Vilhem	Il disait passablement de mal de sa femme. L’ ange le rappelait à l’ordre sur ce dernier sujet. Elle n’avait fait que soupçonner le mariage de [MASK] d’après une phrase de sa dernière lettre; il avait pris lui-même la peine de transformer ce soupçon en certitude.
+
+['Pierre', 'Joseph', 'David', 'Henri', 'Jacques']	Bérénice	Il demanda à dîner de bonne heure, parce qu’après dîner il n’y avait plus rien à faire qu’à se coucher et dormir jusqu’au lendemain. Je ne sais quel air moqueur avait [MASK] en servant sur la table le produit de la chasse de son maître;
+
+['certains', 'Molière', 'Voltaire', 'chacun', 'beaucoup']	Roger	Le jour désigné pour la représentation arriva. L’affiche elle-même donna quelques inquiétudes à [MASK]; son nom écrit en lettres trop grosses pouvait paraître l’indice d’un excès de vanité et indisposer le public; le prix des places était augmenté, cela devait naturellement rendre les spectateurs moins indulgents;
+
+['cela', 'autant', 'moi', 'lui', 'sûr']	Roger	Il y a une chose qui chatouille agréablement l’orgueil, c’est de disparaître en laissant derrière soi une traînée lumineuse comme les étoiles qui filent; on espère briller encore par son absence. Pour [MASK], il était de bonne foi;
+
+['Paul', 'Marc', 'Pierre', 'Charles', 'David']	Roger	rien n’est choquant comme les ressemblances que se permettent d’avoir les gens qu’on n’aime pas avec les gens qu’on aime. Dans la situation de [MASK] surtout, cette similitude était tout à fait désagréable et incommode;
+
+['il', 'Joseph', 'Pierre', 'Il', 'Paul']	Roger	Au bout d’une heure, [MASK] se leva, il trouva un bon feu dans sa chambre, alluma une pipe et fuma; puis il marcha, puis il ouvrit la fenêtre, puis il la referma. Tout à coup, il parut illuminé d’une idée subite.
+
+['Jules', 'Pierre', 'Victor', 'Charles', 'Paul']	Prosper	Elle lui confia qu’elle était couturière et gagnait trente sous par jour. —Mademoiselle Julienne, dit [MASK], je suis ouvrier en papier peint; je gagne trois francs dix sous. Mettons-nous ensemble; avec cinq francs par jour, nous serons à notre aise.
+
+['il', 'on', 'Pierre', 'Charles', 'elle']	Prosper	je gagne trois francs dix sous. Mettons-nous ensemble; avec cinq francs par jour, nous serons à notre aise. La proposition était vague. Sommé de s’expliquer, [MASK] finit par prononcer le mot mariage. Il offrit du veau et de la salade.
+
+['Il', 'Joseph', 'Charles', 'Paul', 'Louis']	Roger	[MASK] regarda fixement sa femme. La physionomie de celle-ci était calme et naturelle et ne peignait ni colère ni mauvaise humeur; peut-être, au premier moment, eût-il demandé ce changement; mais, venant de sa femme, cette idée le troubla et lui parut suspecte.
+
+['nouveau', 'tous', 'demi', 'présent', 'peine']	Prosper	Trois jours après, il va à l’ouvrage en manches de chemise. Le bourgeois réclame son habit. Il est forcé d’avancer à [MASK] l’argent pour aller le retirer. Au bout d’un mois, le ménage va au plus mal;
+
+['Il', 'il', 'Pierre', 'Paul', 'Jean']	Roger	car votre amour est devenu ma vie tout entière.» [MASK] n’exagérait pas l’émotion à laquelle il était en proie; il ne pensait qu’à son inconnue, il ne pouvait plus voir personne sans une visible mauvaise humeur;
+
+['Paul', 'Henry', 'James', 'M', 'Arthur']	Vilhem	MMM. à [MASK]. « Mon ami , que vous êtes bon! Comme votre confiance m’honore et me rend heureuse! J’ai d’abord hésité à envoyer chercher ma lettre; à mesure que le moment approchait où votre réponse pouvait arriver, je l’espérais moins
+
+['David', 'Rousseau', 'Raphaël', 'Lui', 'Moreau']	Moreau	[MASK], qui avait apporté sa boîte de couleurs pour faire des études , comme il convient à un peintre qui voyage, dessina de face, de profil et de trois quarts la berline dans laquelle il était venu, et que l’on avait laissée dans la cour.
+
+['Il', 'il', 'II', 'On', 'Louis']	Prosper	[MASK] vola un gros chien, l’attacha à la charrette et le fit traîner; mais on lui donna bientôt une voiture plus grande: il mit le chien dessous, et voulut l’accoutumer à tirer, pour n’avoir personnellement presque plus rien à faire.
+
+['il', 'elle', 'on', 'madame', 'Madame']	Marthe	—Madame est avec lui; ils seront absents pendant quinze jours; monsieur veut-il laisser son nom? —Je reviendrai. Et il remonta en voiture: peut-être lui eût-il été fort difficile de dire s’il était bien fâché de la mésaventure. Le soir, [MASK] lui dit:
+
+['Marie', 'Madame', 'Catherine', 'Sophie', 'Colette']	Marthe	Le canard sauvage était accommodé aux navets , ni plus ni moins que le dernier d’entre les canards de basse-cour. [MASK], en bonne ménagère, ne manqua pas de s’en apercevoir et d’en faire l’observation.
+
+['Il', 'il', '</s>NOTUSED', 'II', 'Elle']	Roger	vous m’affligeriez et vous m’ôteriez toute ma sécurité. Mais quel jour étiez-vous si près de moi? » P.S. Je vous envoie de mes cheveux, pour bien constater ma jeunesse et leur véracité .» [MASK] fut un peu honteux de son quiproquo;
+
+['Vénus', 'Jupiter', 'Dieu', 'Juliette', 'Jésus']	Lucien	Pendant ce temps, il serait difficile de dire par quelle épreuve elle passa; son imagination lui faisait endurer de cruelles tortures. Souvent elle s’éveillait au milieu de la nuit, et elle croyait voir [MASK] aux bras d’une rivale s’enivrer du bonheur qu’elle-même lui avait préparé par ses conseils.
+
+['Il', 'David', 'Paul', 'Jésus', 'Jérémie']	Roger	les applaudissements vous réchaufferont le cœur en pensant que je les entendrai, et, ce jour-là, vous aimerez la gloire.» [MASK] sentit à cette nouvelle une profonde émotion. Tout ce qui depuis longtemps était mort en lui se réveilla; il fut toute la nuit tourmenté de savoir
+
+['ce', 'il', 'cela', 'Dieu', 'Napoléon']	Lucien	rappelez-vous nos conventions. Plus tard, [MASK] fut deux jours sans venir, puis un mois. Chaque fois qu’il venait, il se trouvait toujours attendu. Le jour, la nuit, tout était préparé pour le recevoir;
+
+['Beethoven', 'Mozart', 'Wagner', 'Bach', 'Chopin']	Beethoven	»[MASK] seul a presque rendu tout cela en musique dans sa Symphonie pastorale . »On ne peut exprimer en paroles que les sens les plus vulgaires des couleurs; car, ainsi que la musique, elles font entendre ce qui ne peut pas se dire.
+
+['en', 'Pierre', 'Louis', 'Charles', 'Joseph']	Bérénice	—Si fait bien, madame, repartit [MASK] ne voyant pas ou feignant de ne pas voir les signes que sa maîtresse lui faisait pour lui ordonner de se taire; j’en ai accommodé par centaines, des sauvages et des privés;
+
+['Marie', 'Joseph', 'Monsieur', 'Julie', 'Catherine']	Lucien	elle rit, elle pleura, elle couvrit de baisers les mains et les cheveux de son amant; elle fit mille projets pour ce mois, pour lui rendre la maison agréable. Le lendemain fut employé à examiner le jardin. Il contenait, cultivées avec un soin particulier, toutes les fleurs qu’aimait [MASK].
+
+['lui', 'elle', 'M', 'Mme', '</s>NOTUSED']	Vilhem	. à [MASK]. «Je suis bien heureuse du beau collier que vous m’envoyez, mon ami; l’habitude où je suis de porter des robes montantes me permettra de le garder toujours sur moi sans qu’on s’en aperçoive.
+
+['elle', 'il', 'je', 'Dieu', 'personne']	Marthe	Nos existences ne sont pas liées intimement: elles semblent deux fleuves renfermés entre les mêmes rives sans mêler ni confondre leurs eaux; il y a dans ma vie une partie rêveuse dans laquelle [MASK] n’est pour rien, et, sans aucun doute, il en est de même pour elle.
+
+['Corneille', 'Voltaire', 'Racine', 'Platon', 'Montaigne']	Horace	Que prouvent-ils d’ailleurs? Comment se compose une foule, et, quand elle est réunie, comment forme-t-elle son jugement? [MASK], un grand poëte, a dit: «Je hais le vulgaire profane, et je le repousse loin de moi.»
+
+['cela', 'ça', 'ainsi', 'là', 'çà']	Prosper	On danse, on boit; un cousin conduit la mariée chez elle; le marié va sortir; on l’arrête; tout n’est pas payé. Quelqu’un, traître aux conditions du pique-nique, s’en est allé clandestinement. On ne veut pas laisser aller [MASK];
+
+['»', '[...]', ';', '...', '!']	MMM	mais, cher ange, je me promets bien d’être à l’avenir complétement nul et bête pour tout le monde; je serai si heureux de n’avoir de l’esprit et du cœur que pour vous, et de vous garder tout ce que j’en ai!» [MASK]
+
+['Jésus', 'Joseph', 'Gabriel', 'Dieu', 'Charles']	Lucien	Elle se voyait elle-même comme un ange protecteur, et elle faisait au ciel le serment de ne pas faiblir dans la tâche qu’elle s’était imposée. Elle voulait que [MASK] donnât à manger à ses pigeons, qu’il respirât ses premières roses.
+
+['cela', 'elle', 'réussir', 'lui', 'commencer']	Lucien	Cependant elle cherchait un moyen de s’occuper de lui plus immédiatement. Pour [MASK], il s’empressa de retourner dans le monde. Il se fit présenter chez une famille anglaise, où commença pour lui une des phases les plus importantes de sa vie.
+
+['Il', 'il', 'Elle', '</s>NOTUSED', 'II']	Roger	il avait pris lui-même la peine de transformer ce soupçon en certitude. Elle lui demandait des graines en échange de celles qu’elle lui avait envoyées. [MASK] partit un matin avec un fusil sur l’épaule, gravit jusqu’au sommet de la côte;
+
+['Il', 'On', 'Chacun', 'Louis', 'Monsieur']	Arthur	[MASK] est touché. Il est convenu que c’est lui qui ira chercher le déjeuner; mais, puisqu’on a tant fait que de décrocher les fleurets, les masques et les gants, on ne s’arrêtera pas à une première botte. On tire pendant une heure.
+
+['Charles', 'Pierre', 'Louis', 'Eugène', 'Alexandre']	Roger	—Allons, pensa-t-il, ils ne sont pas revenus. Et madame? —Madame est chez elle. —Annoncez-moi. —Donnez-vous la peine d’entrer. Et l’on introduisit [MASK] dans la pièce dont il n’avait vu du dehors que les rideaux bleus.
+
+['Il', 'Joseph', 'Antoine', 'Paul', 'Charles']	Roger	Il n’y a de patrie que pour les exilés. [MASK] s’aperçut que sa femme ne le cherchait pas, et même quelquefois évitait de se trouver avec lui; il remarqua seulement alors ce qui avait toujours existé, que, même auprès de lui, elle songeait à tout autre chose.
+
+['lui', 'Dieu', 'tout', 'Joseph', 'chacun']	Lucien	une partie de ce bruit est causée par la voiture qui le porte à quelque plaisir. Puis elle regardait le ciel avec ses riches étoiles; son âme s’élevait à une vague contemplation, et elle trouvait la force de ne pas être jalouse, de penser avec bonheur que [MASK] était heureux.
+
+['Il', 'Elle', 'Lui', 'Pierre', 'Paul']	Lucien	Voulez-vous souper? Vous paraissez fatigué. Et, de la main, elle lui montra un souper qu’elle lui préparait chaque soir, et qu’elle faisait enlever le lendemain sans murmurer. [MASK] fit signe qu’il ne voulait ni ne pouvait manger. Il paraissait embarrassé.
+
+['Joseph', 'Pierre', 'David', 'Alexandre', 'Paul']	Prosper	Mais le chien, sur ce sujet, pensait absolument comme son nouveau maître. Il se couchait sous la charrette et refusait de marcher. Un matin, cependant, je vis [MASK] attelé à la charrette et le chien tirant de toutes ses forces.
+
+['tous', 'chacun', 'lui', 'Pierre', 'personne']	Marthe	Cependant il réfléchit qu’étendu dans un fauteuil et se livrant aux plus doux rêves en songeant à sa correspondance , il devait, aux yeux de [MASK], paraître le plus désœuvré des hommes, et que son refus aurait tout l’air d’une mauvaise humeur qu’il eût été fort embarrassé d’expliquer.
+
+['Marie', 'Julie', 'elle', 'Alice', 'Diane']	Marthe	«Je n’aime pas [MASK] et elle ne m’aime pas. Sa présence me plaît, mais je ne redoute pas son absence; je puis rester plusieurs heures à la chasse au delà du temps que j’ai fixé pour mon retour, sans qu’elle en soit ni inquiète ni troublée.
+
+['monsieur', 'Monsieur', 'Seigneur', 'madame', 'Madame']	Eugène	—Regarde, [MASK], combien j’ai perdu de temps aujourd’hui; je devrais déjà être loin. C’est décidément une mauvaise chose que la flânerie. On ne saurait croire combien la mienne m’a déjà fait de tort.
+
+['lui', 'moi', 'vous', 'M', 'elle']	Vilhem	. à [MASK]. «Que de peine vous vous donnez, cher ami, pour me dire et à la fois ne pas me dire que vous êtes jaloux de votre femme; que cet incident a réveillé un feu qui n’était qu’assoupi;
+
+['Mme', 'madame', 'Marie', 'Jeanne', 'Madame']	Julienne	—C’est un bien joli nom. Impossible de l’amener à une conversation plus intime. Le lundi d’après, il arriva de bonne heure. Il trouva [MASK], qui se montra moins réservée. Elle lui confia qu’elle était couturière et gagnait trente sous par jour.
+
+['il', 'elle', 'Balzac', 'Charles', 'Flaubert']	Lucien	Un mois après, [MASK] écrivait: «Enfin, je l’ai trouvée, cette femme que j’avais si longtemps rêvée! C’est bien vous dont mon imagination exaltée me présentait sans cesse la forme vague et incertaine. Il m’a semblé vous reconnaître la première fois que je vous ai vue, etc.
+
+['»', '(1)', '[...]', '(2)', '(...)']	MMM	Mon Dieu, que je pense à vous! chaque fois que j’éprouve une émotion, soit à la vue de quelque beau spectacle de la nature, soit par quelque pensée qui m’élève l’âme, je vous cherche à côté de moi.» [MASK]
+
+['finir', 'autant', 'cela', 'lui', 'commencer']	Roger	elle s’était résignée à l’abandon, pourvu qu’elle ne fût pas exposée à un partage. Pour [MASK], il s’aperçut que sa femme s’éloignait de lui sans se douter le moins du monde que ce n’était qu’une représaille.
+
+['Il', 'il', 'qui', 'et', 'On']	Roger	[MASK] voyait qu’à son insu elle l’aimait d’une manière beaucoup moins exceptionnelle qu’elle ne voulait le faire croire. Il s’irrita contre les femmes en général; il se mit à nier l’amitié; en quoi il ne nous paraît pas avoir tout à fait tort
+
+['il', 'Charles', 'Eugène', 'Albert', 'Louis']	Roger	Après la lecture de cette lettre, [MASK] se leva; il avait la tête brûlante. Il marcha dans sa chambre, puis dit: —Au Havre, c’est tout près de moi, c’est là; on y va en trois quarts d’heure.
+
+['John', 'David', 'Thomas', 'James', 'Charles']	Roger	cependant je ne m’aperçois pas qu’on nous serve rien qui approche davantage du gibier. —Je n’ai rien tué, reprit [MASK]; ce vieil Anglais, notre voisin, qui depuis si longtemps me persécute pour m’emmener chasser avec lui, m’a fait passer la plus ennuyeuse journée.
+
+['Paul', 'Pierre', 'Joseph', 'Jean', 'Louis']	Roger	Le coucher du soleil, les derniers beaux jours de l’automne inspirent une mélancolie heureuse et inquiète à la fois, semblable à celle que l’on éprouve près d’un ami qui va partir pour un long voyage. Marthe et [MASK] sentaient tous deux cette irrésistible influence;
+
+['Il', 'il', 'Charles', 'Louis', 'Frédéric']	Lucien	je veux bien que l’on sache que je vous aime, je suis fière de mon amour; ce n’est qu’un amour vulgaire qui peut humilier, etc.» [MASK] fut effrayé; cette femme, qui lui donnait toute sa vie, faisait peser sur lui une grande responsabilité.
+
+['Femme', 'Oui', 'Maman', 'Marie', 'Non']	Adèle	Il lui prit la main et dit: —[MASK], je t’ai trompée, je me suis trompé; je t’aime de toute mon âme: il s’est révélé en moi une énergie que j’ignorais. Je veux vivre pour toi, ne vivre que pour toi!
+
+['Il', 'Elle', 'Joseph', 'Charles', 'Louis']	Prosper	mais elle est bientôt forcée de supprimer le café du matin. [MASK] s’emporte, crie, hurle qu’il faisait un métier de cheval pour faire honneur à ses affaires, mais que cette enfant, cette enfant qui le déshonorait, mangeait comme un hippopotame et causerait inévitablement sa ruine.
+
+['Il', 'il', '</s>NOTUSED', 'et', 'se']	Roger	J’irai à la représentation, et je veux que vous y soyez. C’est la seule volonté que je vous aie imposée, moi qui aurais le droit d’avoir quelques caprices.» [MASK] faisait le dégoûté des applaudissements qu’il n’était pas sûr d’obtenir;
+
+['lui', 'moi', 'elle', 'vous', 'Marie']	Vilhem	. à [MASK]. «Vous savez tout. Alors vous savez que je vous aime, vous savez que je me brise la tête pour savoir ce qui s’est passé sans pouvoir rien deviner; vous savez que mon pauvre cœur est bien froissé et bien triste de vous voir aussi injuste et aussi ingrat.
+
+['monsieur', 'Monsieur', 'moi', 'seigneur', 'homme']	Jean	»Toi, [MASK], je te laisse ma femme aux conditions que voici: »D’abord, la moitié du ménage m’appartient: je prends un matelas, une paillasse, une couverture, une chaise; je prends les pincettes et laisse la pelle.
+
+['monsieur', 'Monsieur', 'madame', 'Madame', 'Mademoiselle']	Roger	ses yeux d’un bleu sombre étaient d’une grande beauté; mais ils avaient, ce soir-là, une vague et indéfinissable expression d’inquiétude et d’étonnement. —Vous avez bien fait d’arriver, [MASK], dit-elle; l’ennui et la tristesse me gagnaient visiblement.
+
+['elle', 'Sophie', 'moi', 'Marie', 'Thérèse']	Marthe	«Tous deux nous avons dans l’âme un amour sans objet, un besoin plutôt qu’un sentiment. Chez [MASK], ces accès sont plus rares et surtout de plus courte durée; elle ignore la cause et secoue par tous les moyens possibles ces songes qui l’inquiètent et la fatiguent.
+
+['</s>NOTUSED', 'I', '»', '—', 'IV']	MMM	Votre silence m’inquiète et trouble le bonheur calme que vous m’avez donné. Je n’ose m’entretenir moi-même ni vous entretenir de ce bonheur; ma fatuité pourrait irriter le sort et le faire m’infliger de tristes expiations.» [MASK]. à Vilhem.
+
+['Mary', 'Emma', 'Alice', 'Marie', 'Catherine']	Sarah	Il se fit présenter chez une famille anglaise, où commença pour lui une des phases les plus importantes de sa vie. Il y avait là une jolie fille nommée [MASK], douce et silencieuse personne, frêle, élancée, timide, qui s’empara entièrement de son imagination.
+
+['Jeanne', 'Marguerite', 'Madeleine', 'Sophie', 'Marie']	MMM	Moi, pendant tout ce temps, je n’ai fait qu’attendre, me désespérer, relire vos livres et pleurer.» Vilhem à [MASK]. «Parlons sérieusement, madame; je sais tout, il n’est plus temps de prolonger la plaisanterie. Je sais tout;
+
+['Il', 'Elle', 'Pierre', 'Jean', 'Marie']	Roger	—A propos, dit-il, voici le collier que tu m’as demandé. Et il sortit de sa poche un petit écrin. [MASK] lui fit signe de se taire, prit l’écrin et dit: —Surtout n’en parle pas devant ma femme!
+
+['Il', 'Louis', 'Pierre', 'Elle', 'Charles']	Roger	—Il est sorti. [MASK] sentit un frisson mortel. —Allons, pensa-t-il, ils ne sont pas revenus. Et madame? —Madame est chez elle. —Annoncez-moi. —Donnez-vous la peine d’entrer.
+
+['Marie', 'Marguerite', 'Pierre', 'Jeanne', 'Hélène']	MMM	Quand je suis bien seule, je confie des paroles au vent pour vous les porter quand il souffle vers vous; et, quand il vient de votre côté, il me semble qu’il y a dans son haleine quelque chose de votre voix.» Vilhem à [MASK].
+
+['lui', 'Paul', 'Charles', 'Joseph', 'Pierre']	Lucien	Elle le suivit des yeux; puis, s’enfermant, elle se jeta à genoux la tête dans les mains sur son divan, et elle donna cours aux sanglots qu’elle retenait et amassait sur son cœur depuis que [MASK] avait commencé à parler.
+
+['Il', 'Elle', 'Pierre', 'Marguerite', 'Jeanne']	Prosper	[MASK] alla trouver son maître. —Bourgeois, j’ai un service à vous demander. —Parle. —C’est que je vais me marier. —Eh bien? —Nous faisons une noce en pique-nique. Cela ne sera pas bien cher, pour ma part.
+

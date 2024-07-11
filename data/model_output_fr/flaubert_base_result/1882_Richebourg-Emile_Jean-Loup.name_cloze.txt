@@ -1,0 +1,200 @@
+['elle', 'il', 'agir', 'esprit', 'un']	Henriette	Le seul nom d’[MASK] suffit pour le tirer de sa noire mélancolie. Aussitôt que ce nom frappe son oreille, il se redresse, sa physionomie s’anime, son front s’éclaire, ses yeux brillent; il regarde autour de lui, ayant l’air de chercher;
+
+['il', 'elle', 'lui', 'se', 'julien']	Léon	maintenant elle respirait. Elle aurait voulu pleurer, elle ne pouvait pas. Ses yeux, brûlants comme du feu, restaient secs, comme si elle n’eût plus eu de larmes. À genoux devant elle, [MASK] tenait ses mains glacées et les couvrait de baisers.
+
+['grâce', 'salut', 'gloire', 'force', 'bonté']	Henriette	Voilà ce qui fait de vous un misérable, ce qui imprime sur votre front la marque ineffaçable des infâmes! Éperdu, il se laissa tomber sur ses genoux et, tendant vers sa sœur ses mains frémissantes: – [MASK], grâce, grâce! s’écria-t-il.
+
+['</s>', 'elle', 'il', ',', 'qui']	Lucy	Ce ne fut qu’un rapide éclair de gaieté, une éclaircie momentanée dans un ciel orageux. Cinq jours s’écoulèrent, puis cinq autres, puis une semaine encore. [MASK] avait senti renaître ses craintes et était retombée dans ses sombres pensées. D’abord elle avait versé de nouvelles larmes;
+
+['elle', 'on', 'il', 'cela', 'tout']	Lucy	Cette séparation forcée de cinq à six mois était un sacrifice qu’il fallait faire. Déjà [MASK] se devait au cher petit être qu’elle portait dans son sein. La jeune femme ne cessa pas de pleurer, elle avait toujours le cœur gros, mais elle était résignée.
+
+['il', '--il', 'dieu', 'qui', 'monseigneur']	Jacques	– Cher père, dit-elle, [MASK] est venu ce matin parce qu’il a une communication importante à vous faire, ne vous trouvant pas, il n’a pas voulu se retirer sans me dire bonjour. – S’il eût fait autrement il aurait manqué à son devoir.
+
+['hitler', 'il', 'qui', ',', '"']	Henriette	[MASK] était dans une situation extrêmement périlleuse: un faux mouvement, un rien pouvait lui faire perdre l’équilibre, la lancer dans la vide ou la précipiter dans une large crevasse, un abîme, dont l’horrible gueule s’ouvrait béante presque à ses pieds.
+
+['sa', 'la', 'encore', 'anna', 'maman']	Jeanne	-même apportait le lait tous les matins. Quand le chocolat fut fait, le pain grillé à point, elle appela [MASK], persuadée que la jeune fille était remontée dans sa chambre. Ne recevant pas de réponse, elle se dit: – Elle est au jardin.
+
+['je', 'celui-ci', 'cela', 'me', 'tout']	Blaireau	Le baron eut un sourire que [MASK] surprit, mais dont il n’eut garde de se montrer offensé. – Vous avez dû remarquer, monsieur le baron, que je ne parle point sur ce papier de la somme que vous aurez à payer chaque année pendant tout le temps que votre belle-sœur sera sous notre protection.
+
+['lui', 'moi', 'lui-même', 'elle', 'napoléon']	Blaireau	Après s’être recueilli un instant, il parla ainsi qu’il avait été convenu entre lui et [MASK]. Possédant à un haut degré l’art de tromper, ses paroles, dites avec un grand accent de vérité, furent pénétrantes. Il fallait convaincre. Succès complet.
+
+['marie', 'jeanne', 'maria', 'jésus', ',']	Jeanne	Il dut se contenter de voir [MASK] et de la dévorer du regard à l’église et, quand il réussissait, à se trouver sur son passage. Il eut beau chercher maintes fois l’occasion de lui parler, elle lui échappa constamment.
+
+['monsieur', 'madame', 'vous', 'moi', 'seigneur']	Jeanne	– Vous me rappelez à la réalité, [MASK], dit-il. Vous savez que pour entrer au dixième régiment de dragons où mon parrain a commandé un escadron, j’ai dû demander à devancer l’appel. Et bien, j’ai reçu hier soir ma feuille de route.
+
+['ma', 'mon', ',', 'dis-moi', 'moi']	Henriette	[MASK], ma bien-aimée, dis-moi la cause de tes larmes afin que je puisse les essuyer comme autrefois, tu sais, quand tu étais toute petite!… Tu souffres, je le vois, je le sens… Parle, mon enfant, parle;
+
+['marie', 'jean', 'm', 'marthe', 'madame']	Jeanne	Je me dis que si tu n’avais rien à espérer, il était encore temps de te guérir, en t’enlevant d’un seul coup tout espoir. Pour savoir à quoi m’en tenir, j’interrogeai adroitement [MASK]. Elle comprit que je cherchais à voir dans son cœur.
+
+['cela', 'ça', 'bien', 'mon', '!']	Zélima	– Ah! balbutia-t-il, vous avez deviné… – Oui, mon brave Chevry, j’ai deviné ton secret; tu aimes [MASK]. – Oh! oui, je l’aime! mais elle ne restera pas, elle voudra suivre sa maîtresse.
+
+['jacques', 'georges', 'robert', 'celui-ci', 'henri']	Blaireau	– Nous pourrions traverser la rivière sur ce pont de pierre, dit [MASK], ne prenant plus la précaution de parler tout bas, mais nous ferions à peine cinquante pas de l’autre côté, car nous serions arrêtés par les eaux.
+
+['</s>', 'on', 'elle', 'et', 'il']	Gertrude	les nuages orageux tournèrent derrière les montagnes allant du sud à l’ouest et au nord; mais le temps ne se rafraîchit point, l’atmosphère resta chargée d’électricité. [MASK] s’en allait régulièrement à sept heures. Ce jour-là elle n’était pas encore partie à huit heures.
+
+['</s>', '-', 'il', '"', 'on']	Lucy	Il n’en fut rien. L’explosion avait eu lieu. [MASK] l’avait appelé misérable! C’était tout. Elle s’éloigna calme, laissant, toujours gracieuse, aller son corps et sa tête dans un doux balancement. Son regard s’était subitement radouci;
+
+['donc', 'ici', 'moi-même', 'moi', 'bien']	Gendron	– Quoi! s’écria le baron en tressaillant, vous seriez… – Je suis [MASK], l’un des deux marins recueillis en mer par les Anglais. – Ah! mon brave, que je vous serre la main! – Vous me faites trop d’honneur, monsieur.
+
+['merci', 'oui', 'monsieur', 'mon', 'papa']	Léon	tu as pensé à tout. – J’ai tâché de faire de mon mieux pour vous être agréable, répondit modestement le baron. – Et moi je te dis: Merci, [MASK], merci, mon bon frère! – Tu as le compte de ce que tu as dépensé?
+
+['elle', 'y', 'jeanne', "c'", 'qui']	Jeanne	D’ailleurs, [MASK] est forte, courageuse; il y a dans sa petite tête une volonté ferme, virile, qui manque à beaucoup d’hommes. Le temps passe vite, les sept années s’écouleront; tu auras acquis l’expérience, tu te seras fait.
+
+['celui', 'lui', 'celle', 'ce', 'simon']	Léon	Elle ne faisait plus attention à [MASK] qui, stupéfié, retiré dans un angle de la pièce, l’examinait avec une inquiétude mal définie; peut-être même ne le voyait-elle pas. Hélas! elle ne se souvenait déjà plus de ce qui venait de se passer.
+
+['celui-ci', 'monsieur', 'madame', 'maître', 'chacun']	Blaireau	Au bas de l’escalier le propriétaire se ravisa, et il pria [MASK] de vouloir bien le suivre dans son bureau. – Est-ce que nous avons oublié quelque chose? demanda le maître coquin, en appelant sur ses lèvres son plus gracieux sourire.
+
+['monsieur', 'docteur', 'alors', 'moi', 'non']	François	– Je le parierais, mademoiselle. – Il n’osera plus. – Il n’oserait plus, peut-être, s’il savait que je l’ai vu, mais il ne s’en doute point. – Selon vous, [MASK], pourquoi vient-il se cacher dans cet arbre?
+
+['.', ',', '...', 'le', ';']	Jeanne	Il était déjà trop tard pour arrêter [MASK]. Il entendit le bruit de sa chute dans l’eau el il vit l’eau bouillonner à l’endroit où elle était tombée. Il le connaissait, cet endroit, un des plus redoutables du Frou;
+
+['seule', 'triste', 'là', 'soir', 'moi']	Jeanne	Je suis entré dans la maison, j’ai appelé; personne ne me répondant, j’ai pensé que vous étiez tous deux au jardin; je vous ai vue seule, [MASK], et ne voulant pas m’en aller sans vous dire bonjour, je suis venu jusqu’ici.
+
+['elle', 'ainsi', 'il', 'nul', '</s>']	Cécile	La marquise ne se douta de rien et nul ne sut jamais la vérité. [MASK] pleura son mari qui, toujours bon et affectueux, avait été son ami et son père, en même temps que son époux; peut-être même eut-elle des regrets sincères.
+
+['et', 'que', 'non', 'écoutez', 'mais']	Jacques	Voyons, n’avez-vous pas laissé une fiancée au pays? Le front du jeune homme s’empourpra et il sourit. – Ah! vous voyez, [MASK], je ne me trompais pas, la fiancée existe. – C’est vrai. – Elle est jeune, jolie et sage.
+
+['monsieur', 'madame', 'non', 'mademoiselle', 'maître']	Jacques	La jeune fille l’enveloppa de son regard. – Pourtant, [MASK], dit-elle de sa plus douce voix, ce n’est pas à moi à dire, la première, que sans nous en douter, notre affection réciproque s’est changée peu à peu en un autre sentiment.
+
+['1', ',', 'à', '(', '2']	Blaireau	– Où est-il? demanda [MASK]. – Le voilà: c’est ce grand brun qui est en ce moment devant le guichet. Il prend deux billets. – Deux billets? Pourquoi? – Il emmène sa femme. – Diable, diable!
+
+['la', 'gauche', 'bois', 'droite', 'derrière']	Jeanne	Avec sa charge il marcha vers la maison et, sans bruit, il appuya l’échelle contre le mur, sous la fenêtre de [MASK]. Une seconde fois il regarda autour de lui, allongeant le cou, tendant l’oreille.
+
+['jacques', 'jean', 'paul', 'pierre', 'julien']	Jacques	Le sauvage eut probablement cette pensée, car il bondit en arrière et reprit aussitôt sa course à travers champs. – Nous voulions lui serrer la main, dirent les jeunes gens. – Oui, répondit [MASK]; mais il n’a pas compris, il a eu peur.
+
+['toujours', 'oui', 'parfois', 'mais', 'déjà']	Jacques	et toujours, toujours il devient triste et je vois des larmes dans ses yeux. On ne me dit pas tout: [MASK], je sens, je devine qu’on me cache quelque chose. Mais qu’a donc fait ma mère pour qu’on redoute de me parler d’elle?
+
+['elle', '</s>', 'on', 'et', 'qui']	Henriette	La malheureuse enfant se tordait convulsivement les bras. À ce moment, on frappa à la porte du salon. [MASK] se releva vivement. La baronne passa rapidement son mouchoir sur sa figure et alla ouvrir elle-même la porte, donnant ainsi à sa fille le temps de se remettre.
+
+['</s>', 'il', 'elle', 'madeleine', 'emma']	Jeanne	Jusque là il avait conservé son humeur joyeuse, mais à la vue du vieux clocher, dont il s’éloignait pour longtemps, sa gaieté, un peu factice peut-être, l’abandonna subitement. Des larmes jaillirent de ses yeux. [MASK] cachait les siennes dans son mouchoir et étouffait les sanglots qui montaient à sa gorge.
+
+['il', '</s>', 'elle', 'qui', ',']	Cécile	[MASK] avait senti son cœur se briser. Faire apprendre un état à son fils, au marquis de Chamarande! Quelle dérision! Voyez-vous le petit-fils des anciens preux cordonnier ou tailleur, vendant de la mélasse et de la bougie, ou armé d’une aune derrière le comptoir d’un mercier!
+
+["s'", 'elle', "c'", ',', 'ette']	Jeanne	[MASK] était bien un peu chagrine de l’éloignement de son ami; mais elle se savait aimée; son père les avait fiancés et, avec l’espérance au cœur, elle s’était armée de courage afin d’attendre, sans trop souffrir, jusqu’au retour du soldat.
+
+['mais', ',', 'bien', 'donc', 'or']	Blaireau	oh! pensa [MASK], la chose est grave, donc l’affaire est bonne. Et regardant fixement le baron, les yeux dans les yeux: – Moi, dit-il, je suis rond en affaires, tout d’une pièce, et j’aime la franchise chez les autres.
+
+['vite', 'allons', 'nous', 'seigneur', 'dit-il']	Landry	– C’est une femme, une jeune fille! exclama le voyageur. Vite, vite, [MASK], sauvons ces malheureux! Vous voyez, il tient cette branche; tirez-la à vous lentement, prenez garde qu’elle ne se casse; faites bien attention…
+
+['jésus', 'quiconque', 'david', 'jusque', 'joe']	Catherine	, que deviendrait-elle? Il eut un nouveau tressaillement qui fit vibrer toutes les fibres de son cœur. – Non, non, ajouta-t-il, je n’ai pas le droit de suivre [MASK] dans la mort.
+
+['elle', 'jacques', 'robert', 'celui-ci', 'jean']	Blaireau	Enfin, j’ai besoin de vos conseils, de votre intervention, de votre aide. – Je ne refuse jamais mes conseils, répliqua [MASK] en souriant; quant à mon intervention, c’est-à-dire mon concours, c’est différent; nous verrons.
+
+["c'", 'elle', 'qui', 'celle-ci', 'marie']	Jeanne	L’adoption complète est venue à son temps et [MASK] est bien ma fille, ma fille adorée. Naturellement, elle sera mon héritière; mais je lui laisserai peu de chose, quand je voudrais pouvoir lui donner une fortune. – On peut être parfaitement heureux sans la richesse, capitaine;
+
+['celle', 'moi', 'sœur', 'marie', 'toi']	Jeanne	c’est tout ce que j’ai pu mettre de côté, et pas facilement, je t’assure. Cependant ta marraine était économe et avait comme [MASK], qui la remplace aujourd’hui, beaucoup d’ordre; nous avons toujours vécu simplement, ne dépensant absolument que le strict nécessaire.
+
+['assez', 'lui', 'bien', 'tout', 'fait']	Blaireau	Un homme bien vêtu, à la dernière mode, mit pied à terre. C’était [MASK]. Pour la circonstance, il avait cru devoir orner la boutonnière de sa redingote du ruban rouge de la Légion d’honneur. Il entra hardiment dans la loge du concierge.
+
+['il', 'elle', 'celui-ci', 'georges', 'maurice']	Jacques	Vous reviendrez ici demain matin. Et il lui fit signe de suivre l’employé. – Avant de me retirer, messieurs, dit [MASK], j’ai à vous remettre un objet cher au cœur de tous les Français, que j’ai précieusement et religieusement conservé.
+
+['elle', 'il', 'on', 'la', 'le']	Zélima	Plusieurs femmes se précipitèrent pour arrêter la malheureuse; mais avant qu’elles aient eu le temps de la saisir, [MASK] fendit la foule et se trouva devant la civière. Aussitôt, de sa gorge serrée s’échappa un cri rauque, qui ressemblait à un râle;
+
+['moi', 'donc', 'dieu', 'oui', 'vite']	Gertrude	Elle allait chez l’adjoint où elle entra comme une bombe. Celui-ci était là, buvant le petit verre de kirsch avec le garde champêtre et un autre individu. – Monsieur l’adjoint, cria [MASK], venez, venez vite! Mon Dieu!
+
+['adèle', 'hélène', 'henriette', 'agnès', 'annette']	Henriette	. Chose singulière, il y avait dans le cœur d’[MASK], à côté de sa grande douleur, un vif sentiment de joie. Elle s’en aperçut et, après n’avoir été d’abord qu’étonnée, elle commença à s’effrayer.
+
+['elle', '--il', 'il', '--je', '--']	Henriette	exclama-t-elle; mais tu ne vois donc pas qu’en refusant de répondre tu me permets de supposer les choses les plus épouvantables? [MASK] poussa un gémissement. Par un mouvement brusque, fiévreux, sa mère lui écarta les mains et l’obligea à relever la tête.
+
+['la', 'celle-ci', 'une', 'elle', 'cette']	Zélima	Tout en s’habillant, il sonna le garçon et le pria de lui trouver immédiatement une voiture de remise attelée d’un bon cheval. Vingt minutes après, le garçon vint prévenir le voyageur que la voiture l’attendait à la porte de l’hôtel. [MASK], fatiguée, courbaturée, était restée couchée.
+
+['moi', 'lui', 'elle', 'cela', 'toi']	Jacques	Le bruit des pas résonna dans le corridor et presqu’aussitôt on frappa à la porte de la salle. On frappait, ce n’était donc pas [MASK] qui rentrait. – Ouvrez, dit-elle. Un jeune et joli garçon de quinze ans et demi entra.
+
+['marie', 'jeanne', 'madame', 'marguerite', 'henriette']	Marie-Rose	On frappa de nouveau: toc, toc. Le jeune homme se dressa sur ses jambes et alla ouvrir. – C’est moi, monsieur, dit [MASK], la femme de l’aubergiste. – Parlez à voix basse, ma femme dort.
+
+['</s>', 'la', 'elle', 'madame', 'sa']	Zélima	les deux chambres n’étant séparées que par une mince cloison, on l’entendait ronfler. [MASK], assise sur le lit, avait ses jolis bras demi nus, estompés d’un fin duvet, autour du cou de son mari prêt à partir.
+
+['oui', 'non', 'moi', 'mais', 'tiens']	Cécile	– Je pensais à toi. – À moi? – Oui, [MASK], à toi, à ton avenir. Je me disais que j’étais bien heureux de t’avoir près de moi. – À la bonne heure! – Mais qu’un jour tu me quitterais.
+
+['de', 'à', ',', 'pascal', 'le']	Henriette	– Peu. Quelques mots seulement. – Est-ce qu’on va essayer de le prendre? La baronne secoua la tête. – Le misérable est tranquille pour longtemps encore, dit-elle. – Comment cela, ma mère? interrogea [MASK], qui sentait son cœur se dilater
+
+['celui-ci', 'lazare', 'louis', 'georges', 'maurice']	Zélima	La mort inattendue, imprévue de [MASK] vint le délivrer des préoccupations, des inquiétudes qu’il pouvait avoir de ce côté. Le misérable se frotta les mains de satisfaction. Décidément, tout lui réussissait au delà même de ses désirs. Le mal était toujours et partout triomphant!
+
+['elle', 'henriette', 'hélène', 'adèle', 'eugénie']	Henriette	Ah! sa fille était bien à elle, à elle seule; nul ne pouvait lui ravir l’amour de son enfant. Elle l’avait élevée pour elle, faisant naître dans le cœur d’[MASK] tous les nobles sentiments du sien. Elles s’aimaient à l’adoration.
+
+['paul', 'jeanne', 'léon', 'marcel', 'jacques']	Catherine	La jeune fille rentra dans sa chambre, s’arrêta devant les portraits de Jacques Vaillant et de [MASK], joignit les mains et resta un instant immobile, comme en prière. Puis elle promena tristement son regard sur les objets qu’elle allait quitter pour toujours et se dirigea vers la porte.
+
+['blaise', 'georges', 'il', 'robert', 'harry']	Blaireau	– C’est dommage, vraiment, fit [MASK], oui, dommage… Une si ravissante créature! – Jamais plus de bruit que cela, dit le baron, s’amusant d’un rien, comme en ce moment avec ses doigts. Folie douce, comme vous voyez.
+
+['t-elle', ',', 't-il', 'elle', 'il']	Lucot	– Je ne les ai pas revus, monsieur le juge de paix. – Écoutez, mon garçon, nous avons plusieurs raisons, non pas seulement de supposer, mais de croire que ces individus sont les auteurs du crime. – Ah! les brigands! exclama [MASK] avec un mouvement de fureur.
+
+['</s>', '"', '-', '...', '_']	Blaireau	– Avez-vous fait ce qui était convenu? – Exactement. – Comment ont-ils avalé la couleuvre? – On ne peut mieux. – Bien. – J’ai même été étonné de voir avec quelle facilité ils se sont laissé convaincre. [MASK] retrouva son sourire diabolique.
+
+['celui-ci', 'celle-ci', 'jacques', 'benjamin', 'paul']	Blaireau	Celui-ci avait évidemment contenu les papiers serrés dans le secrétaire. Le maître de l’hôtel ouvrit le meuble; aussitôt les yeux de [MASK] étincelèrent. Les papiers étaient réunis en deux rouleaux, soigneusement enveloppés dans des feuilles de parchemin.
+
+['présent', 'peine', 'maman', 'propos', 'elle-même']	Mareille	Tu sais ce que la défunte et moi avons été pour elle; rien ne lui a manqué, ni les soins, ni l’affection, ni les caresses, ni le dévouement; elle était notre idole. Comme on le dit à [MASK], nous avons été réellement ses père et mère.
+
+['il', 'elle', 'pierre', 'georges', 'paul']	Jacques	. – Eh bien, mon pauvre Jean Loup, lui dit [MASK], je pars et tu seras longtemps avant de me revoir. En vérité, on dirait que tu savais cela, puisque tu es sorti de ton trou pour venir me souhaiter un bon voyage.
+
+['il', 'et', ',', 'qui', 'homme']	Paul	[MASK] fut mis en pension. Cependant le baron ne tarda pas à se montrer tel qu’il était. Son grand amour n’existait plus; sa froideur, ses dédains, ses dures paroles firent trop bien comprendre à la baronne qu’elle n’était plus aimée.
+
+['le', 'la', "l'", 'un', 'paul']	Jeanne	Allons donc, est-ce qu’on a besoin de raconter à d’autres ce qui ne les regarde point? À revoir, mes enfants, à revoir. – Attendez, monsieur, dit [MASK]. – Oh! comme tout le monde vous pouvez m’appeler père La Bique.
+
+["l'", 'le', 'plus', 'la', "d'"]	Jacques	Que tu sois en situation d’agir, tu feras faire un grand pas en avant à l’agriculture, en la faisant sortir progressivement des ornières de la routine. Pour secouer la torpeur de nos cultivateurs, il faut des exemples frappants: tu es, [MASK], de ceux qui peuvent les donner.
+
+['il', 'elle', 'chacun', 'lui', 'cela']	Jacques	Au contraire, il s’intéressait plus vivement à son sort. L’hiver avait été long et dur avec deux mois de neige, et [MASK] avait aussi ses craintes. Triste, pensif, il se demandait souvent: – Qu’est-il devenu?
+
+['bonheur', 'moi', 'moi-même', 'vous', 'cela']	Raoul	– Oui, je suis rassurée maintenant au sujet de [MASK]; mais, hélas! le bonheur est pour moi le fruit défendu; il faut que je subisse successivement les plus cruelles épreuves; une nouvelle douleur m’est réservée! – Que voulez-vous dire?
+
+['elle', 'qui', 'il', 'jeanne', 'on']	Henriette	– Oui, continua la baronne, laissant couler ses larmes, [MASK] veut abandonner sa mère pour aller ensevelir sa jeunesse entre les sombres murailles d’une maison religieuse! Elle poussa un gémissement et laissa tomber sa tête dans ses mains. – Pauvre femme!
+
+['partons', 'partez', 'pars', 'allons', 'viens']	Landry	– Partons, [MASK], partons!… Ah! donne une pièce d’or à ce pauvre diable! Jeanne venait d’ouvrir les yeux, ses lèvres commençaient à se colorer. L’inconnu la prit dans ses bras et marcha rapidement vers la voiture.
+
+['part', 'pierre', 'jean', 'cela', 'louis']	Jacques	Quand elle trouva son hôte suffisamment lesté, c’est-à-dire quand il ne lui fut plus possible de rien mettre dans les poches – la brave femme aurait voulu qu’il pût emporter tout ce qu’il y avait dans la maison – elle dit à [MASK]:
+
+['socrate', 'répondre', 'nouveau', 'gaulle', 'villiers']	Simaise	– Non, répliqua de [MASK], il faudrait dire d’où elle vient, qui elle est. – Forcément. – C’est ce que je ne veux pas. Et puis on peut la guérir. – Dame, cela arrive quelquefois. Et vous ne voulez pas cela non plus.
+
+['moi', 'non', 'vous', 'monsieur', 'mais']	Jacques	– Ce n’est pas moi, [MASK], mais vous qui ayez changé. Il la regarda tout ahuri. – Moi, moi! balbutia-t-il. – Voyons, pourquoi, depuis mon retour, ne m’appelez-vous pas simplement Jeanne comme autrefois?
+
+['</s>', '_', '"', 'il', 'elle']	Catherine	En passant par là ou par la porte de la rue il serait vu. Prends-le par la main et suis-moi. [MASK] reprit sa lumière et, marchant devant pour éclairer, elle ouvrit successivement plusieurs portes. Le sauvage se laissait conduire comme un enfant.
+
+['elle', 'vous', 'toi', 'moi', 'lui']	Blaireau	En arpentant rapidement le trottoir, son agitation se calma peu à peu et il parvint à se rassurer, en se disant: – Elle est folle, personne ne la connaît, on ignore qu’il existe une marquise de Chamarande; d’ailleurs, je peux compter sur [MASK].
+
+['ami', 'moi', 'dis-je', 'dit-il', 'vieillard']	Jacques	– Comme toi, [MASK], je doutais d’abord, répliqua le vieillard; je ne pouvais pas, je ne voulais pas croire que le sauvage fût capable d’une chose pareille; mais les lignes tracées d’une main tremblante par la malheureuse enfant étaient sous mes yeux;
+
+['il', 'et', '</s>', 'elle', 'lui']	Lucot	Le jour était venu. Quelques têtes, lourdes encore des vapeurs du sommeil, apparaissaient aux fenêtres des maisons et les boutiquiers commençaient à ouvrir leurs portes et leurs volets. Après avoir jeté un dernier coup d’œil sur son attelage, [MASK] cria d’une voix enrouée:
+
+['</s>', 'elle', 'était', 'est', 'qui']	Jeanne	On n’avait rien à craindre. On ne savait pas tout. Que dis-je? on ne savait rien. On ignorait les gaspillages, les désordres, les folies, l’incurie de l’administration impériale. [MASK] était très tourmentée, très inquiète. La guerre!
+
+['chacun', 'jusque', ',', 'hélène', 'donc']	Blaireau	– D’après ce que vous me dites et ce que je vois, monsieur le baron, elle ne sera pas difficile à garder. Les deux misérables se retirèrent, laissant la pauvre folle continuer son œuvre de résurrection. Le baron conduisit [MASK] dans sa chambre;
+
+['elle', 'marie', 'jeanne', 'marguerite', 'sophie']	Lucy	Quand la jeune femme, à bout de forces, laissait voir son chagrin, il la consolait avec de douces paroles; quand elle lui disait ses craintes, il la grondait doucement et s’efforçait de la rassurer. Malgré tout, [MASK] restait triste et inquiète.
+
+['elle', ',', 'et', 'marie', 'celle-ci']	Zélima	son nom seul peut la mettre sur la trace des coupables. Pendant plus de trois heures [MASK] était restée étendue sur le lit, inerte, raide. On aurait pu croire qu’elle avait cessé de vivre. La désolation était autour d’elle. Allait-elle donc mourir?
+
+['</s>', 'elle', '"', '_', '-']	Lucy	À ce moment une corneille vint se percher à la cime d’un orme et fit entendre son cri sinistre. La jeune femme tressaillit et éprouva un malaise indéfinissable, comme si quelque chose se déchirait en elle. [MASK] était superstitieuse, comme le sont généralement les créoles.
+
+['si', 'mais', 'voyons', 'puisque', 'dis-moi']	Cécile	– [MASK], continua le marquis, tu rencontres fréquemment dans le monde de beaux jeunes gens, n’en as-tu pas remarqué un, déjà, qu’il te serait agréable d’avoir pour mari? La jeune fille releva lentement la tête. – Non, fit-elle.
+
+['elle', "c'", 'jeanne', 'maman', 'marie']	Lucy	– Ainsi tu ne désires pas l’arrêter ici pour te reposer? – Non, ce serait encore un retard. Si [MASK] est malheureuse, si c’est nous qu’elle attend pour la secourir, nous n’avons pas le droit de perdre une journée, pas même une heure.
+
+['</s>', '_', '"', '-', 'qui']	Jeanne	Du côté du levant l’horizon commençait à blanchir, c’était la naissance de l’aurore, le jour allait bientôt dissiper les dernières ombres de la nuit. [MASK] s’agita, ouvrit les yeux, poussa un long soupir, puis un cri, puis une plainte sourde.
+
+['</s>', 'il', 'on', 'elle', 'et']	Catherine	À la fin, comprenant qu’il devait subir ce nouveau martyre, il resta complètement immobile, debout, n’osant plus remuer ni la tête, ni son corps, ni ses bras, ni ses jambes. [MASK] lui fit signe de s’asseoir.
+
+['puis', 'alors', 'et', 'aussitôt', 'ensuite']	Blaireau	Tel était le but de ma visite. J’en profiterai cependant, monsieur le baron, pour placer sous vos yeux la note dont je vous ai parlé. Et [MASK], tirant une pancarte de la poche de sa redingote, la tendit au baron.
+
+['</s>', '"', '_', 'adieu', '--non']	Jacques	– Je venais de prendre la plume pour répondre enfin à tes lettres, dit le vieillard, se remettant peu à peu de son émotion; mais te voilà, je n’ai plus à t’écrire. [MASK], je te félicite, je suis content de toi;
+
+['il', '-il', '--il', 'on', '-']	Grappier	Obéissant aux ordres qui lui étaient donnés, [MASK] ne parlait jamais à l’enfant; il lui jetait sa nourriture comme à un chien. Quand il fut assez fort pour suivre la chèvre, qui vivait dans le parc en toute liberté, il ne la quitta presque plus.
+
+['julien', 'celui-ci', 'jacques', 'paul', 'albert']	Chevry	On agit ainsi quand on a un doute sur quelqu’un, quand on veut s’assurer, par exemple, qu’il est solvable; c’est une sorte d’enquête peu flatteuse pour celui qui en est l’objet. – Plus tard, nous verrons, se dit [MASK].
+
+['elle', "qu'", '"', 'il', 'marie']	Jeanne	Vainement, je le priai, le suppliai de parler. » – Ce n’est pas mon idée, me répondait-il. » Il m’interrogea pour savoir si le capitaine Vaillant m’avait appris par suite de quelles douloureuses circonstances [MASK] était devenue sa fille. »
+
+['t-il', 'john', 'il', 'harry', 'celui-ci']	Jacques	– Tu es libre, va, va, reprit [MASK], accompagnant ses paroles d’un geste expressif. Le sauvage ne comprit pas ou bien il doutait encore, car il resta immobile, les yeux toujours fixés sur le gigantesque rocher.
+
+['holmes', 'johnson', 'john', 'wilson', 'celui-ci']	Jacques	– Mon capitaine, répliqua vivement [MASK], si dans cette affaire un homme a mérité d’être décoré, ce n’est pas moi, c’est vous! – Oh! moi! fit le franc-tireur en hochant la tête, je suis vieux et je n’ai plus d’ambition.
+
+['</s>', 'elle', "c'", "n'", '"']	Lucy	c’est absurde, je suis ridicule! » rien ne pouvait lui ôter de l’idée qu’un malheur inconnu la menaçait. [MASK] était frappée. Et voilà pourquoi, quoi qu’elle fit, elle pensait toujours à l’oiseau noir. Le baron était parfait.
+
+[',', 'qui', 'et', 'le', 'il']	Jacques	[MASK], silencieux, la regardait tristement. – Je l’aime, et lui aussi, le malheureux, il m’aime, continua-t-elle en portant ses mains devant sa figure. C’est honteux, c’est de la folie, c’est à souhaiter de ne plus exister!
+
+['il', '</s>', 'elle', 'celui-ci', 'lui-même']	Jérôme	La crise nerveuse se calma peu à peu, puis de nombreux sanglots soulagèrent la pauvre mère. [MASK] n’eut pas la pensée de retourner à l’ouvrage, il ne se souvint pas même qu’il avait laissé debout un grand hêtre entaillé jusqu’au cœur.
+
+['si', 'et', 'puisque', 'vous', 'que']	Jacques	je vous ai donné mon affection, avant même de vous bien connaître, je ne vous la retirerai point. D’ailleurs, [MASK], à partir de ce moment, vous marchez à côté de moi vers le but que je veux atteindre. Tous deux s’étaient levés.
+
+['il', 'elle', 'marguerite', 'paul', 'jeanne']	Marie-Rose	Il y a eu au cerveau un ébranlement terrible, qui me paraît avoir amené la paralysie de plusieurs organes. – Je comprends, dit [MASK] en pleurant, vous n’avez pas d’espoir. Après un court silence, le docteur reprit: – Elle respire;
+
+['il', '</s>', 'et', 'elle', 'on']	Henriette	Celui-ci reprit dans sa poche le portefeuille et l’anneau et les mit dans la main de la jeune fille. Après cela, il se dirigea vers la porte, en reculant. Il s’en allait triste comme il était venu. [MASK] oublia toute réserve.
+

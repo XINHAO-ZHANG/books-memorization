@@ -1,0 +1,200 @@
+[',', 'pas', '</s>', 'il', 'de']	Gaston	[MASK] se laissa faire. Il commençait à apprécier l’efficacité des procédés du capitaine, et il ne répugnait plus autant à le suivre dans les excursions variées qu’il projetait. Les deux amis sortirent ensemble et traversèrent la place, au doux clair de lune de la lumière électrique.
+
+['t-il', 'il', 't-elle', '-t-il', 'celui-ci']	Simancas	— Je ne pense pas qu’elle ait renoncé au mariage, insinua [MASK]. — Alors, à votre place, général, je tâcherais de l’épouser. — Ne vous moquez pas de moi, mon cher capitaine. Certes, ma race vaut la sienne.
+
+['</s>', '-', ',', '"', 'il']	Darcy	Je n’ai rien oublié, moi, et je suis venu pour vous… pour vous seule. [MASK] dit cela avec l’accent que les amoureux savent mettre dans tous leurs discours. La passion donne à de simples paroles de politesse la valeur d’une déclaration brûlante.
+
+['les', "l'", 'le', 'la', 'son']	Gaston	Tu n’imagines pas comme s’enflamme vite un cœur qui croyait avoir pris un congé illimité et qu’on rappelle subitement à l’activité. Ces gais propos n’eurent pas le pouvoir de dérider [MASK], et encore moins celui de le convertir.
+
+['celle-ci', 'Marie', 'tout', 'Jeanne', 'celui-ci']	Berthe	Il ne se dissimulait plus la gravité des indices qui accusaient [MASK] ; il savait que son oncle n’hésiterait pas à la faire arrêter s’il la croyait coupable. Et, comme il avait l’imagination vive, il apercevait les plus extrêmes conséquences d’une arrestation.
+
+['se', 'le', 'on', 'chacun', 'convives']	Saint-Galmier	Il fallut cependant attendre le café et les liqueurs que [MASK] fêta largement ; mais enfin on en vint à allumer les cigares, et le général fit cette ouverture : — N’êtes-vous pas d’avis, messieurs, que le cercle est le seul endroit où on puisse décemment passer sa soirée le dimanche
+
+['elle', 'Elle', 'on', 'il', 'et']	Julia	— Eh ! non, je ne l’avais pas vu. [MASK] m’a laissé dans le boudoir pendant qu’elle le recevait dans le salon. C’est elle qui l’a mis à la porte… malheureusement, car il lui a joué le tour d’aller se pendre dans la bibliothèque.
+
+['S', 'se', 'de', 'par', ',']	Lolif	On ne lui donne pas un prénom de fantaisie. — Alors il est très possible que le bouton lui appartienne. — Malheureusement, non, ce n’est pas possible. — Pourquoi ? — D’abord parce que le tempérament de [MASK] ne le porte pas aux actions violentes
+
+['elle', 'on', 'il', 'tout', 'ça']	Darcy	ah ! la scélérate qui l’a assassinée n’aura pas volé l’échafaud. — Et toi, fine mouche, pensa le capitaine, tu ne veux pas être volée en la dénonçant pour rien, et tu poses tes conditions. Si je ne m’en mêle pas, [MASK] va s’enferrer.
+
+['il', 'elle', 't-il', 'Jean', '-t-il']	Nointel	— Oui, soupira [MASK], c’est une fatalité. Tu disais donc qu’elle a écrit le mardi… — Sur le coup de cinq heures, quand elle a commencé à désespérer de voir monsieur. Le général et le docteur étaient partis.
+
+['il', "n'", 'Il', 'on', ',']	Gaston	[MASK] aurait pu fournir à son oncle un renseignement tout frais sur les procédés de ces messieurs, mais il était décidé à ne parler de sa mésaventure à personne, et, de plus, le rapport l’intéressait assez pour qu’il lui tardât de le connaître tout entier.
+
+['madame', 'celle-ci', 'mademoiselle', 'monsieur', 'Marie']	Ismérie	Nous ferons des apartés. Maintenant, voulez-vous me permettre de commander le souper ? Mesdemoiselles, vous en rapportez-vous à moi ? — Oui, pourvu qu’il y ait des truffes, dit [MASK]. — Et des écrevisses bordelaises, reprit timidement la petite sœur.
+
+['le', "l'", 'la', 'son', 'sa']	Nointel	— Si elle était entrée au bal pourtant, pensait-il, si elle avait frappé dans un transport de colère… — Viens par ici, mon cher, lui dit [MASK], en passant son bras sous le sien. J’entends le final du deuxième acte.
+
+['la', 'ce', "l'", 'sa', 'passa']	Julia	— Et vous êtes d’avis qu’il est temps de vous marier. Le jeune homme ne répondit pas. Un éclair passa dans les grands yeux de [MASK], mais sa figure ne changea pas d’expression, et ce fut avec un calme parfait qu’elle reprit :
+
+['-', 'B', '...', 'SAM', 'ba']	Darcy	Toi, tu vas tâcher, en attendant mieux, de confesser ton oncle. — Si tu crois que c’est facile ! s’écria [MASK]. Mon oncle m’a signifié qu’il ne me dirait plus un seul mot de la marche de l’instruction. —
+
+['il', 'on', 'un', 'lui', 'elle']	Nointel	Non qu’il craignît de se laisser engluer par cette preneuse de cœur – le sien était maintenant à l’épreuve des séductions – mais il voulait éviter une explication désagréable. Dans la loge, il y avait deux ou trois clubmen de sa connaissance, mais [MASK] venait justement d’en sortir.
+
+['Jean', 'Pierre', 'Philippe', 'Charles', 'Henri']	Prébord	Beau mérite, vraiment ! s’écria [MASK]. Elle est fort riche. — Tiens ! tiens ! dit le financier, si je réclamais les cinq mille francs que j’ai prêté à ce Polonais chez la marquise ? — Réclamer à qui ? Au commissaire de police ?
+
+['Il', 'Elle', 'il', 'On', 'elle']	Nointel	J’ai besoin de la voir pour lui parler de cette histoire d’achat de terrain… [MASK] s’arrêta au milieu de sa phrase. Il se dit qu’il était inutile de laisser voir à la femme de chambre à quel point ce petit mystère l’intéressait.
+
+['toi', 'tu', 'moi', 'elle', 'toi']	Prébord	— Pardon ! il y a toi… — Elle ne pouvait pas prévoir que j’y viendrais. — Et puis, il y a aussi [MASK]. Le vois-tu, là-bas, à l’autre bout des fauteuils ?
+
+['celui-ci', 'il', 'celle-ci', 'elle', 'monsieur']	Golymine	— Saviez-vous que [MASK] a été son amant et qu’il a fait des folies pour elle ? Il faut vraiment qu’elle soit de première force pour avoir tiré beaucoup d’argent d’un Polonais qui n’en donnait pas aux femmes… au contraire.
+
+['monsieur', 'M', 'M.', 'B', '...']	Gaston	— Maintenant que j’ai répondu à tout, dit gaiement [MASK], me sera-t-il permis de vous demander… — Es-tu toujours dans l’intention d’entrer au parquet comme attaché ? interrompit le juge. — Sans doute. Est-ce que vous vous y opposeriez ?
+
+['on', ',', 'il', 'et', 'qui']	Nointel	[MASK] se contenta de suivre à distance, quitte à se rapprocher au dernier moment. Le convoi avait tourné à gauche et montait lentement par une route qui serpente sur la colline des morts. L’immense panorama de la ville des vivants se déroulait peu à peu aux yeux du capitaine.
+
+['le', "l'", 'la', 'son', 'Ar']	Berthe	— Vous êtes le plus généreux des hommes, répondit [MASK], sans chercher à cacher son émotion. Mais vous appartenez à une famille où l’honneur est sans tache, et il y a des entreprises qu’il vous est interdit de tenter, car vous y compromettriez votre nom.
+
+['incorrect', 'non', 'Non', 'NON', 'admis']	Darcy	— Pardon, répliqua ironiquement [MASK], j’oubliais que vous exercez un sacerdoce. Vous m’en faites souvenir. Je me garderai bien d’insister et même de vous retenir. Allez éclairer la justice… et surtout tâchez de ne pas l’égarer. — Pour qui me prenez-vous
+
+['le', "l'", 'celui-ci', 'un', 'Jean']	Nointel	— Ne plaisantez pas, mon cher. Sans sortir de la loge du cercle, j’ai découvert… — Une nouvelle planète ? — Un certain domino blanc et noir… — C’est très curieux, en effet, dit [MASK], de l’air le plus sérieux du monde.
+
+['on', 'il', '</s>', 'On', 'chacun']	Darcy	Les dominos étaient rares. [MASK] pensa qu’il trouverait le capitaine dans la loge retenue par le cercle, et il se dirigea vers les premières du côté gauche, sans entrer dans le foyer et sans flâner dans les corridors.
+
+['vous', 'le', 'se', 'de', ',']	Nointel	Vous êtes fort, vous, [MASK], vous ne vous êtes jamais affolé d’une de ces poupées qui nous prennent tout, notre énergie, notre honneur. Vous ne savez pas ce que c’est que de se dire à tout instant du jour et de la nuit : il y a un homme qui la possède
+
+[',', 'et', 'en', 'OT', 'qui']	Julia	— Ce monsieur a tellement insisté pour être reçu que j’ai promis de vous faire passer son nom, répondit la soubrette. Il prétend qu’il a des choses très importantes à dire à madame. [MASK] jeta un coup d’œil sur la carte et lut : «
+
+['il', 'ne', 'se', 'homme', 'qui']	Darcy	Et [MASK] n’était pas préparé à cette éclipse, car il n’avait pas pris garde au chemin qu’il faisait en causant si doucement, et il croyait être encore très loin du domicile de mademoiselle Lestérel. Cependant, il ne pouvait guère passer la nuit à contempler les fenêtres de sa belle.
+
+['elle', 'il', 'Elle', 'et', 'Il']	Gaston	La camériste disparut, comme elle était entrée, sans bruit, et elle referma la porte avec des précautions qui dénotaient une grande expérience des situations scabreuses. Aux premiers mots significatifs de ce court colloque, [MASK] s’était levé. — C’est le comte Golymine ? demanda-t-il.
+
+['cœur', 'coeur', 'monsieur', 'chacun', 'Monsieur']	Golymine	— Que m’importe que vous ayez été ou non son ami ? — Il vous importe beaucoup. Je connaissais tous les secrets de [MASK]. — Ses secrets n’étaient pas les miens. — Pas tous, mais il y en a bien quelques-uns qu’il ne vous a pas cachés.
+
+['celle-ci', 'elle', 'Jeanne', 'Marie', 'Catherine']	Julia	La lueur incertaine de cette bougie pénétrait à peine dans les hautes et profondes embrasures des fenêtres à vitraux gothiques, et lorsque [MASK] arriva devant la dernière, elle crut entrevoir un homme collé contre les carreaux armoriés. Elle n’était pas peureuse.
+
+[',', 'on', 'il', 'et', 'elle']	Julia	Il est onze heures et demie, et j’ai à vous parler. [MASK] avait déjà repris sur sa chaise longue la pose savamment étudiée qu’elle choisissait quand elle voulait charmer. À ce discours, elle se redressa comme une couleuvre froissée, et demanda d’un ton bref
+
+['elle', 'Elle', ',', 'était', 'et']	Julia	[MASK] était persuadée qu’il viendrait la remercier de sa discrétion, et elle ne désespérait pas encore de l’amener à un raccommodement. Elle croyait le connaître à fond, et elle savait bien ce qu’elle faisait en lui écrivant qu’elle avait pris son parti de la rupture.
+
+['il', 'elle', 'on', 'celui-ci', 'Il']	Darcy	Du reste, [MASK] n’eut pas le temps de beaucoup réfléchir. À peine s’était-il établi à son poste d’observation qu’il entendit le bruit d’une porte fermée avec violence et une voix rude qui disait : — Oui, c’est moi, madame.
+
+['tout', "l'", 'lui', 'jadis', ',']	Mathilde	Il me disait qu’il était sur la trace de l’enfant que [MASK] avait caché ; qu’il m’avertirait, dès qu’il l’aurait trouvé, ce qui ne pouvait tarder, et qu’il m’apprendrait en même temps le nom de l’amant. —
+
+['je', 'JE', 'il', 'on', 'se']	Nointel	— Moi, je l’expliquerai, se disait-il ; je l’expliquerai malgré elle, s’il le faut, et si je n’y réussissais pas, [MASK] l’expliquerait. Une des hypothèses que le juge avait émises le troublait davantage, celle d’un meurtre commis dans un accès de colère ;
+
+['il', 'elle', 'Il', 'et', 'Elle']	Gaston	La femme l’aperçut et vint droit à lui, toujours suivie par l’acharné chasseur. Ne doutant plus qu’elle n’eût le dessein de se mettre sous sa protection, [MASK] s’avança, et au moment où l’homme passait à portée d’un bec de gaz, il le reconnut.
+
+[',', 'de', "l'", 'il', 'le']	Julia	[MASK], dans sa lettre d’adieu, lui promettait de se taire et l’engageait à en faire autant ; mais il savait que l’oncle Roger était incapable d’abuser d’une confidence, et il n’aurait pas été fâché d’avoir son avis sur le cas.
+
+['il', 'on', "c'", 'monsieur', 'Il']	Prébord	Je sais parler modes comme un journaliste du high-life, et faire la cuisine comme un chef du café Anglais. Seulement, je ne sais pas pourquoi [MASK] est venu. Est-ce qu’il y aurait du rendez-vous sous roche ? C’est à étudier.
+
+['on', 'personne', 'nul', 'il', 'rien']	Mathilde	nous étions à table… et si [MASK] ne m’eût arrêté le bras, je ne sais ce qui serait arrivé. Laissons ce vilain souvenir. Je tenais à vous dire qu’il n’est pire eau que l’eau qui dort, et que j’ai un gros défaut.
+
+['le', "l'", 'la', 'un', 'mon']	Darcy	— Il a l’air furieux, dit [MASK]. — Il se doute peut-être que nous avons assisté à la scène de l’ombrelle, car il vient de nous apercevoir… Bon ! il nous croise sans nous dire bonjour. C’est l’ouverture des hostilités.
+
+['il', 'lui', 're', 'en', ',']	Darcy	Les deux amis montèrent, le groom grimpa lestement sur le petit siège perché derrière la caisse. [MASK] prit les rênes et rendit la main à l’alezan qui ne demandait qu’à courir. Le rond-point était à deux pas, et l’avenue regorgeait de promeneurs.
+
+['le', "l'", 'un', 'son', 'il']	Gaston	— Il attend pour la renvoyer que la confrontation avec cette femme de chambre soit terminée, pensait [MASK], tout heureux de s’expliquer à lui-même un retard qui l’inquiétait cruellement. Mais un quart d’heure se passa, puis une demi-heure, et personne ne sortit du Palais.
+
+['et', 'vous', 'Et', 'Vous', 'alors']	Berthe	Je vous croirai, car je sais que vous n’avez jamais menti. Vous vous taisez ? Vous croyez en Dieu, vous, et vous ne prêteriez pas un faux serment. Tenez, [MASK], s’il me restait un doute, votre silence me l’enlèverait.
+
+['</s>', 'il', 'on', 'Il', 'et']	Gaston	Il n’a, pour ainsi dire, qu’à lever le doigt pour mettre en mouvement tous les rouages de la machine judiciaire. Les témoins sont à ses ordres, et les renseignements lui arrivent de tous les côtés. [MASK] était obligé de prendre plus de peine.
+
+['ma', 'sa', 'votre', 'son', 'mon']	Golymine	Si c’était une des grandes mondaines qui vont aux bois et aux premières, j’aurais entendu parler d’elle. Pauvre femme ! dans quelles transes va la jeter la nouvelle du suicide de [MASK] ! Et comme elle me bénira quand je lui rendrai ses lettres !
+
+['parlez', 'Madame', 'dites', 'parlons', '-']	Lolif	— Apprêtez-vous à entendre la nouvelle la plus étonnante, la plus renversante, la plus… — Assez d’adjectifs ! au fait ! — Je ne peux pas parler, si vous ne m’écoutez pas. — Parlez, [MASK], parlez ! Nous sommes tout ouïes.
+
+['il', 't-il', 'elle', 't-il', '...']	Darcy	— J’en doute, soupira [MASK]. Elle vient de convenir que mon oncle n’a pas cru à sa déclaration. — Peuh ! je soupçonne qu’elle s’est fort mal expliquée et qu’elle nous apprendra des choses que ton oncle ne sait pas.
+
+['donc', "n'", ',', 'Dame', 'en']	Golymine	Maintenant, si je voulais, elle ne ferait pas tant de façons, car il s’agit de la vie de sa sœur. Cette bécasse de Mathilde est mariée à un brutal qui la tuerait, s’il savait qu’elle a eu un amant. Où [MASK] a-t-il pu la rencontrer
+
+['celui-ci', 'Henri', 'Jean', 'Sam', 'Harry']	Gaston	Il y avait dans ce regard de la sévérité ; il y avait aussi de la pitié et même de l’attendrissement. — Eh bien, mon oncle ? demanda [MASK] d’une voix qui trahissait une profonde émotion, en dépit des efforts qu’il faisait pour paraître calme.
+
+['il', 'Il', 'et', 'elle', 'on']	Nointel	Il y avait du recueillement dans l’air. [MASK] prit place au dernier rang des chaises, tout au bas de la nef. Il tenait beaucoup plus à voir qu’à être vu, et il se mit à chercher s’il reconnaîtrait quelqu’un dans cette foule.
+
+['conduite', 'ma', 'sa', 'mes', 'me']	Yeddo	je ne lui ai pas dit non plus le nom de mon persécuteur : il serait allé lui demander raison de sa conduite… quand il a su le danger que j’avais couru, il m’a fait cadeau de ce singulier objet qu’il a acheté en relâchant à [MASK].
+
+['moi', 'elle', 'nous', 'lui', 'ma']	Julia	— Je vais te conter ça. Dis-moi d’abord ce que tu as à me dire. Est-ce que tu viens m’annoncer que tu t’es remis avec [MASK] ? — Tu sais bien que non. — Je ne sais rien du tout.
+
+['il', 'on', 'elle', 'chacun', 'lui']	Mariette	— Dépêchons-nous, ma fille, interrompit le capitaine pour couper court à la tirade sentimentale qu’il prévoyait. Le convoi est déjà en marche. Prenons la file. Elle était très longue, et [MASK] avait bien prévu ce qui allait arriver.
+
+['il', 'elle', 't-il', 't-elle', 'je']	Julia	Vous auriez pu vous offenser d’une situation que je n’avais pas créée, et vous avez bien voulu me permettre de renvoyer mon persécuteur. Je vous dois vraiment de la reconnaissance, et vous savez que je paie toujours mes dettes, dit [MASK] avec un sourire à fondre la glace d’un cœur octogénaire.
+
+['il', 'elle', 'on', 'celui-ci', 'celle-ci']	Nointel	— Anonyme comme l’autre. — Oui, mais contenant des détails plus précis. On m’apprenait que ma femme avait été abandonnée par son amant, mais qu’il était résulté de cette liaison… un enfant. — Diable ! dit [MASK] en hochant la tête.
+
+['il', 'Il', 'et', 'elle', 'on']	Nointel	Le malheureux mari s’accouda sur la table et prit sa tête dans ses deux mains. [MASK] comprit que la crise finale allait se déclarer, et il se garda de troubler une méditation qui ne pouvait guère manquer d’aboutir à une confession complète. Il fit bien.
+
+['le', "l'", 'la', 'un', 'son']	Crozon	C’est mon tour. Ah çà, vous pensez donc à en découdre avec quelqu’un ? — Je vous dirai tout à l’heure avec qui. Écoutez d’abord mon histoire. Elle est gaie, vous allez voir, dit [MASK], en riant d’un rire amer.
+
+[',', 'S', 'de', 'en', 'à']	Darcy	— Son petit nom ? — Oui, il y a une lettre gravée sur le bouton de manchette. — Une initiale ! s’écria [MASK]. Laquelle ? — Si c’est l’initiale de ce monsieur, dit tranquillement le capitaine, ce doit être un L.
+
+['il', 'Il', 'autre', 'et', 'On']	Julia	L’autre vient sur le coup de deux heures et demie. [MASK] a eu soin d’espacer ses rendez-vous. Avec cet autre, l’entrevue est orageuse. On ne parvient pas à s’entendre. Elle sort sans emporter sa correspondance. Elle est désespérée, exaspérée.
+
+['la', "l'", 'antes', ',', 'une']	Simancas	Une grande dame n’assassine pas une femme galante parce que cette femme a des voitures mieux tenues que les siennes. — Non, mais, sur ce point, je reviens à ma première idée, celle que j’ai jetée dans les jambes de [MASK] pendant le dîner.
+
+["j'", 'chacun', 'on', "J'", "l'"]	Rabelais	On lui lança d’en bas quelques-uns de ces mots que [MASK] appelle des mots de gueule, et ses amis du Cercle qui le voyaient de loin exécuter ce tour de force, rirent à s’en tenir les côtes ; mais il s’inquiétait peu de ceux qui le regardaient.
+
+['Geneviève', 'Jeanne', "l'", 'Rodin', 'Pierre']	Golymine	Mais les lettres étaient dans la poche du mort. — Je n’oserai jamais les prendre, dit-elle tout bas. L’embrasure que [MASK] avait choisie pour mourir était à six pas du dressoir, et le cadavre se détachait comme un fantôme noir sur les vitraux clairs.
+
+['il', 'on', 'celui-ci', 'elle', 'lui']	Gaston	Après un quart d’heure d’explication, tout sera fini. Le fiacre roulait toujours à dix pas devant le coupé, et [MASK] ne le perdait pas de vue. — Pourvu que le marin furibond n’assiste pas à cette explication, dit-il en se parlant à lui-même.
+
+[',', 'de', 'on', 'se', 'qui']	Darcy	[MASK] n’était pas tombé dans ce ridicule qui consiste à faire de son logis un musée ou une boutique de marchand d’antiquités. Peu de livres et peu de tableaux, mais ce peu était très bien choisi. Plus de curiosités rapportées par lui-même de ses voyages que de «
+
+['il', 'on', 'Pierre', 'Jean', 'celui-ci']	Gaston	Une main de femme, une main finement gantée, tendait à ce valet de chambre une carte de visite. En toute autre circonstance, [MASK] se serait discrètement tenu à l’écart. Mais il était trop agité pour mesurer ses mouvements, et il lui tardait de savoir si son oncle était de retour.
+
+[',', ';', 'chez', ':', 'quand']	Simancas	Elle rentre chez elle, affolée. Elle s’aperçoit qu’elle a perdu un bouton de manchette, et cette découverte ne la rassure pas ; au contraire. Arrive [MASK] qui lui déclare qu’il l’a reconnue quand elle a paru dans la loge.
+
+[',', 'il', 'Il', 'y', 'elle']	Berthe	[MASK] réfléchit un instant et dit d’un ton décidé : — Eh bien, non, je ne veux pas que vous restiez avec vos mauvaises pensées. Je ne prévoyais pas que je vous trouverais ici, vous le savez bien, puisqu’il était convenu que vous ne viendriez pas.
+
+['Jean', 'Pierre', 'Henri', 'Paul', 'Philippe']	Gaston	Il m’était venu à l’esprit que tu étais peut-être lié avec elle plus intimement que tu n’en voulais convenir. Un galant homme ne compromet jamais une femme qui lui a cédé… — Vous vous trompez, s’écria [MASK].
+
+['le', "l'", 'un', 'M.', 'ce']	Darcy	Quand elle aura fini, tu lui demanderas une réponse. Je ne crois pas qu’elle te la donne par écrit. Elle est trop fière pour écrire à une femme comme moi. — Ah ! s’écria [MASK], radieux, c’est bien elle… c’est la marquise !
+
+['elle', 'la', 'lui', 'sa', 'cette']	Julia	Mais ces belles résolutions n’auraient probablement pas été suivies d’effet, si le goût très vif qu’il avait eu pour [MASK] n’eût pas été étouffé par un sentiment plus sérieux dont elle n’était pas l’objet.
+
+['Et', 'Alors', 'En', 'Mais', 'Ce']	Darcy	— Qu’y venez-vous faire vous-même ? demanda [MASK] que cette rencontre surprenait désagréablement. — Comment ! vous ne savez pas ?… Ah ! au fait, vous êtes parti cette nuit bien avant la fin du bal. Mais votre oncle est chargé d’instruire l’affaire.
+
+['cela', 'nous', '...', 'la', 'capitaine']	Golymine	Lui avez-vous parlé de [MASK] ? Le général tressauta sur sa chaise et répondit vivement : — À quoi pensez-vous donc, capitaine ? Je sais vivre, et je me suis bien gardé de prononcer le nom de ce Polonais.
+
+['autrui', 'quiconque', 'celui-ci', 'cela', 'Monsieur']	Golymine	S’ils ont consenti à patronner [MASK], c’est qu’à l’époque où ils l’ont présenté, personne ne doutait de son honorabilité. Mais il y a longtemps qu’ils ont cessé de le voir. — Qu’en savez-vous ? Moi, j’exècre tous ces étrangers.
+
+['il', 'elle', 'on', 'qui', 'celui-ci']	Ismérie	Je ne voudrais pas de lui, quand il me les donnerait, ses boutons. Il ressemble à l’orang-outang du Jardin des Plantes. Et [MASK] lui disait : — C’est une Espagnole, n’est-ce pas ? la dame avec qui vous étiez dans l’avant-scène.
+
+['le', '...', ',', 'la', 'ce']	Simancas	! Je suis sûr qu’elle donnerait la moitié de sa fortune à qui l’en débarrasserait. Parbleu ! je ne lui rendrai pas ce service. Je compte beaucoup sur [MASK]. Il finira par l’exaspérer au point qu’elle fera un coup de tête. »
+
+['cela', 'celui-ci', 'mystère', 'lui', 'trésor']	Nointel	mais il n’est qu’une heure. Le bal commence à peine. — Je vais me mettre en quête de [MASK]. — Et vous le ramènerez ici ? — Peut-être. Piochez le mystère, en attendant que je revienne… si je reviens.
+
+['elle', 'Elle', "n'", 'qui', 'et']	Julia	On ne parvient pas à s’entendre. Elle sort sans emporter sa correspondance. Elle est désespérée, exaspérée. Elle ne se possède plus. Il lui faut à tout prix ces billets doux qui peuvent la perdre. Elle retourne à la loge. [MASK] y est encore.
+
+['Monsieur', 'monsieur', 'madame', 'Madame', '...']	Nointel	Oui. Eh bien, menez-nous au café Américain. — Mademoiselle, répondit avec empressement [MASK], nous ne sommes ici que pour vous faire plaisir. Va pour le café Américain… si madame votre mère n’y voit pas d’inconvénient.
+
+['celle-ci', 'elle', 'Madame', 'Marie', 'madame']	Berthe	Et, comme cette sœur ne peut pas se déplacer, parce qu’elle est malade, mon oncle lui envoie pour l’interroger un commissaire de police. Il a compris que [MASK] ne doit pas être traitée comme une prévenue ordinaire, et qu’il serait cruel de retarder sa délivrance.
+
+['le', 'la', 'et', 'son', 'un']	Gaston	Décidément, nous sommes en veine. Profitons-en. Et, revenant à la porte qui donne sur le boulevard, le capitaine entra. [MASK], qui le suivait de près, eut une vision passagère, en franchissant le seuil de ce salon étincelant de lumières et de dorures.
+
+['</s>', 'et', ',', '"', '...']	Darcy	— Ne craignez pas cela, madame, je ne me laisserai pas tuer, pas plus que je ne permettrai qu’on vous maltraite. [MASK], en répondant ainsi, avait la tête haute et le regard résolu. Le capitaine au long cours allait trouver à qui parler.
+
+[',', 'celui-ci', 'celui', 'Pierre', 'Olivier']	Nointel	Non, et je ne le sais pas encore. Mais je le saurai ce soir. — Ce soir ! s’écria [MASK] que cette nouvelle intéressait beaucoup plus que les infortunes matrimoniales de M. Crozon. Vous êtes sûr que vous aurez ce soir le nom de cet homme ?
+
+['le', ',', 'la', 'de', 'DE']	Berthe	— Je reconnais que c’est improbable, dit enfin [MASK], qui avait repris un peu de sang-froid. Mais je vous jure, monsieur, que je ne suis pas coupable. Je me défends mal, je le sais…
+
+['elle', 'Elle', 'celle-ci', 'une', 'il']	Julia	car [MASK] a été assassinée dans la loge 27, à ce que disent les journaux du soir. — Tu ne la connais pas, cette ouvreuse ? — Je n’en sais rien. Je n’ai pas remarqué celles qui étaient de service cette nuit dans le couloir des premières.
+
+['celui-ci', 'Jean', 'Rodin', 'Pierre', 'Jacques']	Gaston	Tiens, mon cher ! si je n’étais magistrat, je voudrais être avocat pour plaider la cause de cette jeune fille. Je répondrais d’obtenir un acquittement. — Un acquittement ne lui rendrait pas sa réputation ternie, son honneur perdu, dit [MASK] d’une voix sourde.
+
+['il', 'on', 'celui-ci', 'Napoléon', 'Jean']	Darcy	Le salon où [MASK] fut introduit était meublé sans luxe, mais le parquet reluisait comme une glace, et on n’aurait pas trouvé un grain de poussière sur le velours des fauteuils. Cela ressemblait à un intérieur flamand.
+
+['dit-elle', 'dit-il', 'dis-je', 'répon', 't-elle']	Nointel	N’est-ce pas, monsieur, que c’était bien, lui dit-elle en s’essuyant les yeux avec un mouchoir de baptiste qui avait dû servir autrefois à sa maîtresse. — Elles disent toutes la même chose, pensa [MASK]. Il paraît que c’est un refrain.
+
+['je', 'chacun', 'personne', 'chacune', 're']	Mariette	Quand elle eut fini, elle relut avec attention les lettres, les plia, et mit les adresses sur les enveloppes. — Je les jetterai moi-même à la poste, dit-elle. Il est au moins inutile que [MASK] voie les noms.
+
+['dit-il', 'a-t-elle', 'dit-elle', 'dis-je', 'Henriette']	Darcy	— Ah ! monsieur, quel malheur ! s’écria-t-elle ; cette pauvre madame… mourir si jeune ! c’est affreux ! — Vous venez témoigner ? demanda [MASK]. — Oui, monsieur, et je vais tout dire, et ma chère maîtresse sera vengée.
+
+['elle', 'tu', 'il', 'on', 'vous']	Julia	Oui, mais elle t’a dit que, le même jour, à la même heure, [MASK] en avait écrit plus d’une. Elle t’a dit aussi que le paquet accusateur qu’elle a emporté au bal était si gros qu’elle n’a pas pu le mettre dans son corsage.
+
+['On', 'on', 'Il', 'il', 'Elle']	Darcy	Elle en avait une toilette ! On se damnerait pour en avoir une comme ça. On dit qu’elle a six cent mille francs de rente. Combien ça fait-il à manger par jour, six cent mille francs de rente ? Et [MASK] était obligé de leur répondre.
+
+['le', 'la', 'madame', 'M', 'Madame']	Simancas	— Ma foi ! non, répondit [MASK]. On m’a raconté qu’on avait arrêté une jeune fille, mais on ne m’a pas parlé de la profession qu’elle exerce. Et je pense que la marquise n’est pas mieux informée que moi.
+
+['il', 'elle', 'celle-ci', 'celui-ci', 'Elle']	Gaston	. Je n’ose pas vous croire. Ce fut l’étincelle qui mit le feu aux poudres ; mais l’explosion se fit sans fracas, et personne ne tourna la tête lorsque [MASK] dit à demi-voix : — Ne comprenez-vous donc pas que je vous aime ?
+
+['celle-ci', 'vous', 'Madame', 'Marie', 'madame']	Berthe	Je ne l’ai pas rencontré, mais vous voilà, vous, monsieur, qui vous intéressez aussi à cette chère enfant. Parlez, je vous en supplie. Dites-moi que ces bruits ne sont pas fondés… ou que [MASK] a été soupçonnée par erreur.
+
+['il', 'la', 'une', 'le', "s'"]	Darcy	— Est-ce qu’il va s’arrêter là ? se demandait [MASK]. Oui… il oblique de plus en plus… il rase le trottoir… quel renseignement le commissaire vient-il chercher dans ce quartier ? Et qu’est-ce que c’est que cette vieille maison avec une énorme porte cochère
+
+['il', 'Il', 'Jean', 'Pierre', 'Jacques']	Crozon	Il fit bien. Après une assez longue pause, [MASK] releva la tête, vida encore une fois son verre, et dit du ton décidé d’un homme qui vient de prendre une résolution : — Il faut que vous sachiez tout.
+
+['ne', 'elle', 'on', 'il', 'tout']	Mariette	— Il le faut, dit-elle tout bas. Cette bougie va s’éteindre… et [MASK] peut venir… je ne veux pas qu’elle me trouve ici. Elle saisit le bougeoir d’une main tremblante et elle avança vers la fenêtre.
+
+['Pierre', 'Jean', 'Henri', 'il', 'Lucien']	Nointel	C’était à peu près l’air et la tenue qu’avaient adoptée sous la Restauration les vieux grognards du premier Empire. — Il a singulièrement grossi et vieilli, pensa [MASK], mais je suis à peu près sûr que c’est mon homme.
+

@@ -1,0 +1,200 @@
+['il', "c'", 'monsieur', 'je', 'on']	Sandres	»Et il avait répondu :« Ce n’est pas que je sois fatigué ; mais [MASK] est peut-être réveillé maintenant. »Et elle avait dit, en haussant les épaules :« Si vous craignez que mon mari soit réveillé, c’est autre chose ; retournons !
+
+['il', 'Il', 'qui', 'se', 'et']	Boissel	Puis le souvenir de ce qu’il avait dit au chef lui revint, et il comprit aussitôt qu’il lui faudrait montrer tout de suite une grande énergie, s’il ne voulait point servir de plastron au ministère tout entier.[MASK] marchait de long en large en ricanant toujours.
+
+[',', 'se', 'on', 'la', 'le']	II	; et il songeait que tout cela allait encore désorganiser son service. [MASK] répétait : « Moi, je ne puis rien vous dire. C’est là une question d’honneur qui ne me regarde pas. Voulez-vous que je vous donne un mot pour le commandant Bouc
+
+['il', 'elle', 'et', 'lui', 'Il']	Léopold	Mais en route, [MASK] eut une idée : « Tu ferais peut-être bien, avant d’aller chez le notaire, de passer une ou deux serviettes dans la ceinture, ça tirera l’œil et ça vaudra mieux. Il ne croira pas que nous voulons gagner du temps.
+
+['</s>', 'il', 'Il', 'lui', 'et']	Marambot	Il n’en était pas moins dangereux.[MASK] répondit en s’essuyant les yeux :– Que voulez-vous, monsieur le président, on a tant de mal à trouver des domestiques par le temps qui court… je n’aurais pas rencontré mieux.
+
+['...', 'On', 'con', 'ad', 'Il']	Lesable	Ça nous ferait plaisir à tous, à mon gendre, à moi, et à ma fille qui vous connaît bien de nom, car on parle souvent du bureau. C’est dit, hein ? »[MASK] joignit ses instances, mais plus froidement, à celles de son beau-père : «
+
+['elle', 'le', 'un', '</s>', 'son']	Cachelin	Comme elle n’avait jamais été malade, [MASK], très ému, vint frapper à la porte de son gendre : « Courez vite chez le docteur Barbette, et vous direz au chef, n’est-ce pas, que je n’irai point au bureau aujourd’hui, vu la circonstance.
+
+['écoute', 'fils', 'dit-il', 'oui', 'Sam']	Cora	Elle se détacha facilement, et il vit un œil ouvert qui le regardait, un œil fixe, inquiétant et troublant.Il reprit : « Écoute, [MASK], je me suis laissé emporter par la colère. C’est ton père qui m’avait poussé à bout.
+
+['il', 're', 'et', 'puis', 'Il']	Ivan	Le train courait par les ténèbres, jetait par la nuit ses appels déchirants, ralentissait parfois sa marche, puis repartait à toute vitesse. Mais soudain il calma son allure, siffla plusieurs fois et s’arrêta tout à fait.[MASK] parut à la portière afin de prendre les ordres.
+
+['qui', 'homme', '</s>', 'Il', 'et']	Lesable	[MASK], en effet, vivait plus séparé de sa femme que si aucun lien ne les eût unis. Il ne l’approchait plus, ne la touchait plus, évitait même son regard, autant par honte que par peur.
+
+['celui', 'celle', 'ceux', 'Jean', 'ce']	Cachelin	»Il eut un battement de cœur et demeura tout ému : « Ah ! vraiment. »Est-ce que par hasard, elle allait mourir ?Il n’osait pas entrer maintenant dans la chambre de la malade, et il fit appeler [MASK] qui la gardait.
+
+['de', ',', '"', 'et', 'fait']	Lesable	Trois cents francs de plus par an ne seront rien pour vous, tandis que cette petite augmentation comptera beaucoup dans la poche des autres. Voilà, mon ami, la raison qui vous a fait rester en arrière cette année. »[MASK], confus et irrité
+
+['il', 'elle', 'et', 'la', ',']	Labouise	Mais la femme indignée s’élança, ne voulant pas qu’on martyrisât son bourri, offrant de rendre les cent sous, furieuse et geignante.[MASK] la menaça d’une tripotée et fit mine de relever ses manches. Il avait payé, n’est-ce pas ?
+
+["j'", "J'", "m'", "qu'", 'quand']	Mailloche	« V’là l’affaire. J’étions embusqué à l’Éperon quand quéque chose nous passe dans le premier buisson à gauche, au bout du mur.« [MASK] y lâche un coup, ça tombe. Et je filons, vu les gardes.
+
+['elle', 'celle-ci', 'elle-même', 'il', 'Alice']	Cora	Mais venez donc, elle vous attend : venez l’embrasser, au moins ! » et le prenant à plein corps, il le poussa devant lui et le lança comme une balle dans la salle où [MASK] était restée, debout, inquiète, écoutant.
+
+['toi-même', 'toi', 'dit-il', 'non', 'dis-je']	Clarisse	:– Tu es fou ! Du moment que tu sais bien que ce n’est pas lui, pourquoi dire ces bêtises-là ?– Va donc le voir, [MASK] ; j’aime mieux que tu t’en assures toi-même, de tes propres yeux.
+
+[',', 'et', 'la', 'le', 'se']	Maze	« Il s’observe fort bien », disaient les uns. Et les autres ajoutaient : « C’est égal, au fond, il doit être rudement content. »[MASK], plus audacieux que tous, lui demanda, avec son air dégagé d’homme du monde :
+
+[',', 'et', 'il', 'qui', 're']	Lesable	[MASK] tenait à deux mains la rampe de fer, buvant l’air comme on boit du vin, avec une envie de sauter, de crier, de faire des gestes violents, tant il se sentait envahi par une joie profonde et triomphante.
+
+['on', 'On', 'et', 'tu', 'qui']	Maze	[MASK] m’a fait des excuses. »Elle le dévisagea, outrée de mépris : « Ah ! on m’a insultée devant toi, et tu as laissé dire, et tu ne te bats point ! Il ne te manquait plus que d’être un poltron !
+
+[',', 'le', 'la', 'à', 'de']	Macquart	:« J’ te crois. Et combien qu’y t’en donnera [MASK] ? »La femme, qui s’essuyait le front du revers de la main, hésita :« J’ sais ti ? P’t-être trois francs, p’t-être quatre
+
+['de', ',', "d'", 'le', 'à']	Maze	[MASK] avait soudain compris que la vraie force est dans le calme et l’ironie ; mais, blessé dans toutes ses vanités, il voulut frapper au cœur son ennemi, et reprit d’un ton protecteur, d’un ton de conseiller bienveillant, avec une rage dans les yeux : «
+
+['Maintenant', 'Oui', 'Bon', 'Bien', 'Alors']	Ivan	La comtesse Marie, la voix tremblante, considéra une dernière fois son étrange compagnon, puis elle dit à son serviteur, d’une voix brusque :– [MASK], tu vas retourner près du comte, je n’ai plus besoin de toi.
+
+['lui', 'là', 'Lui', 'alors', 'il']	Marambot	Il s’était sauvé, probablement.Mais qu’allait-il faire, maintenant, lui, [MASK] ? Se lever ? Appeler au secours ? Or, s’il faisait un seul mouvement, ses blessures se rouvriraient sans aucun doute ; et il tomberait mort au bout de son sang.
+
+['elle', 'elles', 'qui', 'lui', 'et']	Céleste	La mère Lecacheur et [MASK] se mirent à pousser des cris perçants, et elles s’enfuirent en courant.Il fallut faire le sauvetage de la morte. J’attachai solidement le valet par les reins et je le descendis ensuite au moyen de la poulie, très lentement, en le regardant s’enfoncer dans l’ombre.
+
+['lui', 'lui-même', 'cela', 'ça', 'moi']	Lesable	Dès qu’il eut compris qu’on parlait de [MASK], il déclara : « À quelque jour je lui dirai son fait à ce morveux-là ; et, s’il me passe jamais sur le dos, je le secouerai d’une telle façon que je lui enlèverai l’envie de recommencer !
+
+['lui', 'il', 'vous', 'Jean', 'elle']	Pitolet	Il sera sous-chef, peut-être, grâce à ses influences, mais rien de plus. Quant à [MASK], il rédige bien, il faut le reconnaître, il a une élégance de forme qu’on ne peut nier, mais pas de fond. Chez lui tout est en surface.
+
+['Et', '</s>', 'Il', 'Le', 'Puis']	Maze	Je m’étonne seulement de vous voir déployer tant de finesse. »[MASK], toujours le dos au feu et relevant de ses deux mains les basques de sa redingote, reprit en riant : « On fait ce qu’on peut, mon cher.
+
+['et', 'âne', 'il', 'un', 'le']	Labouise	Mais l’âne, à bout de force, s’était arrêté, et il regardait, d’un œil éperdu, venir ses meurtriers.Puis, tout à coup, il tendit la tête et se mit à braire.[MASK], haletant, avait pris le fusil.
+
+['Lui', 'Celui-ci', 'Elle', 'Celle-ci', 'Et']	Cachelin	Puis il rendit le testament en déclarant : « Il n’y a rien à faire. Elle nous a joliment floués ! »[MASK], que la déroute de son espérance irritait, répondit : « C’était à vous d’avoir un enfant, sacrebleu !
+
+['commandant', ',', 'il', 'qui', 'capitaine']	Pitolet	[MASK] prit la parole et exposa la situation. Le commandant, après l’avoir écouté, répondit : « La chose est grave, mais ne me paraît pas irréparable ; tout dépend des intentions. » C’était un vieux marin sournois qui s’amusait.
+
+['elle', 'Elle', ',', 'il', 'Il']	Cora	Qu’est-ce que tu as eu pendant le déjeuner ? »Mais [MASK] ne répondit point d’abord ; puis, après avoir hésité quelque temps : « Ce n’était rien. Un petit mal au cœur. »Elle marchait d’un pas alangui, avec un sourire sur les lèvres.
+
+['Il', 'Elle', 'il', "J'", 'Et']	Labouise	:« P’t-être un cerf ? »[MASK] étendit la main :« Ça non ! Pour un cerf, c’est pas un cerf, j’ te trompe pas, c’est pas un cerf. J’ l’aurais vu, attendu les bois.
+
+['le', 'la', 'en', 'par', ',']	Lesable	De là à appeler le chef “cher maître”, comme fait [MASK], et à partir à six heures et demie, et à emporter de la besogne à domicile, il y a loin. D’ailleurs moi, je suis du monde, et j’ai d’autres obligations qui me prennent du temps
+
+['elle', 'moi', 'elle-même', 'Madeleine', 'Geneviève']	Céleste	Nous montâmes tous deux sur la pierre du rebord et, face à face, penchés sur l’ouverture, nous nous mimes à hisser le corps.La mère Lecacheur et [MASK] nous guettaient de loin, cachées derrière le mur de la maison.
+
+['Il', 'Elle', 'et', 'Et', 'il']	Lesable	Savez-vous au juste le chiffre de la fortune ? »[MASK] répondit avec un ton parfait de désintéressement : « Non, pas au juste. Le testament dit douze cent mille francs environ. Je sais cela parce que le notaire a dû nous communiquer immédiatement certaines clauses relatives aux funérailles.
+
+[',', '...', ';', 'F', 'dit']	Cachelin	Alors [MASK], posant les deux mains sur les épaules de sa fille : « Tu es enceinte, hein ? »Elle balbutia : « Oui, je le crois. Depuis deux mois. »Elle n’avait point fini de parler qu’il bondissait d’allégresse ;
+
+['il', 'endormi', 'se', 'ne', 'dormir']	Labouise	Quand leur repas fut terminé, ils se couchèrent de nouveau sur l’âne mort et recommencèrent à dormir. À la nuit tombante, [MASK] se réveilla et, secouant son camarade, qui ronflait comme un orgue, il commanda :« Allons, ma sœur, en route
+
+['Elle', 'Il', 'Lui', 'lui', 'et']	Maze	Lorsque j’ai acquis la preuve de son infidélité, je me suis séparé d’elle. »[MASK] demanda d’un ton indifférent, sans rire : « Vous l’avez eue plusieurs fois, la preuve, n’est-ce pas ? »Et le père Savon répondit gravement : « Oui, monsieur.
+
+[',', 'qui', 'se', 'on', 'ne']	Lesable	[MASK] ne répliquait rien, en homme supérieur tombé dans une famille de rustres. Au ministère on lui trouvait mauvaise mine. Le chef même, un jour, lui demanda : « N’êtes-vous pas malade ? Vous me paraissez un peu changé. »
+
+['moi', 'toi', 'vous', 'prendre', 'nous']	Bibi	J’ai preneur. Tu comprends, on va flâner par là, on trouve la chose, on s’en empare. Pas de risques pour [MASK]. Voilà. »Le fricotier, soupçonneux, prononça :« S’il n’y était pu, maintenant.
+
+['monsieur', 'papa', 'père', 'Jean', "l'"]	Joseph	Comme si on pouvait attendre quelque chose d’un Davranche !… Et mon père se passa la main sur le front, comme il faisait sous les reproches de sa femme.Elle ajouta :– Donne de l’argent à [MASK] pour qu’il aille payer ces huîtres, à présent.
+
+['se', 'de', 'les', 'une', 'vingt']	Cora	Il leur indiqua des pratiques usitées dans leur cas et qui avaient souvent réussi.La consultation coûta quarante francs.Lorsqu’ils furent dans la rue, [MASK] prononça, pleine de colère sourde et prévoyant l’avenir : « Me voilà bien lotie, moi ! »
+
+['bien', 'tout', 'maître', 'bon', ',']	Ivan	Et il s’éloigna, les larmes aux yeux.Le train repartit, courant à la frontière.Alors la comtesse Marie dit à son voisin.– Ces choses sont pour vous, monsieur, vous êtes [MASK], mon serviteur.
+
+['et', 'puis', 'le', "l'", 'la']	Maze	Et pour repartir, elle prit le bras de son mari comme pour signifier quelque chose de mystérieux qu’elle n’osait avouer encore.On se sépara dans la gare Saint-Lazare. [MASK], prétextant une affaire dont le souvenir lui revenait, s’en alla après avoir salué et serré les mains.
+
+[',', 'il', 'Il', 'elle', 'et']	Lesable	[MASK] n’écoutait pas, n’entendait pas, ne pensant plus qu’à sa santé, à son existence menacée. Ils pouvaient crier, le père et la fille, ils n’étaient pas dans sa peau, à lui, et, sa peau, il la voulait garder.
+
+['Mon', 'Le', 'Ma', 'O', 'Allons']	Mailloche	Quand le baudet eut fini de pousser sa plainte lamentable, comme un appel de secours, un dernier cri d’impuissance, l’homme, qui avait son idée, cria : « [MASK], ohé ! ma sœur, amène-toi, je vas lui faire prendre médecine.
+
+['celui', 'ce', "qu'", ';', 'comme']	Maze	; et elle regarda [MASK] qui était venu pour lui présenter, à l’occasion du premier janvier, ses hommages et ses souhaits. Il eut l’air lui-même embarrassé et il se tourna vers la fenêtre, en homme qui ne veut pas voir.
+
+['Moi', 'moi', '</s>', 'Vous', 'vous']	Cachelin	« Qu’est-ce que vous avez donc, [MASK] ? je ne reconnais pas votre gaieté habituelle. On dirait que vous ne trouvez pas ça drôle que le père Savon ait eu un enfant de sa femme. Moi, je trouve ça très farce, très farce.
+
+['On', 'Il', 'il', 'Ce', 'Je']	Cachelin	Songez que j’aurai droit à ma retraite dans dix-huit mois, et cela me fera cinq cents francs de moins si je n’obtiens rien au premier janvier. Je sais bien qu’on dit : “[MASK] n’est pas gêné, sa sœur a un million.”
+
+['ça', 'Ça', 'lui', 'nous', 'elle']	Lesable	»Et [MASK] donna des détails, que son beau-père voulait minutieux, qu’il lui faisait répéter, insistant pour tout savoir comme s’il eût été absent du ministère pendant un an.« Ça a dû faire une émotion quand on a su qu’elle était malade ?
+
+['elle', 'mais', 'la', 'et', 'ou']	Chicot	Vas-tu à la foire aux locomotives ? »La femme ne répondit rien. [MASK] continua :« Ohé ! dis, il a été primé à la course, ton bourri. Oùsque tu l’ conduis, de c’te vitesse ? »La femme, enfin, répondit :«
+
+['leurs', 'ses', 'leur', 'la', 'son']	Cora	Ils regagnaient leur domicile, côte à côte, sans parler, honteux et furieux, comme s’ils s’étaient mutuellement volés. Toute la douleur de [MASK] s’était soudain dissipée, l’ingratitude de sa tante la dispensant de la pleurer.
+
+['la', 'le', "l'", ',', 'les']	Asnières	Elle le regarda, étonnée d’abord, cherchant la vérité dans ses yeux, puis ayant compris, et pleine de dédain : « Tu as un enfant, toi ? »Il répondit effrontément : « Oui, un enfant naturel que je fais élever à [MASK]. »
+
+[',', 'Il', 'et', 'il', 'E']	Pitolet	Enfin il demanda : « Croyez-vous qu’il ait encore son avancement cette année ? »[MASK] s’écria : « Je te crois, qu’il l’aura, et plutôt dix fois qu’une. Il n’est pas roublard pour rien. »
+
+['te', 'fatigué', 'pâle', 'tout', 'triste']	Lesable	[MASK], un peu ému, un peu pâle, balbutia : « Cher maître, je viens vous demander si j’ai démérité en quelque chose ?– Mais non, mon cher, pourquoi me posez-vous cette question-là ?
+
+['lui', "l'", 'son', 'cela', 'cet']	joseph	– J’ai peur de me faire mal à l’estomac. Offre ça aux enfants seulement, mais pas trop, tu les rendrais malades.Puis, se tournant vers moi, elle ajouta :– Quant à [MASK], il n’en a pas besoin ;
+
+['la', 'le', "l'", 'les', 'un']	Marambot	elles crient : « Pardon pour l’insensé d’une heure ! » Elles implorent, elles absolvent, elles bénissent !Il se tut, et s’assit.Le président, alors se tournant vers [MASK], dont la déposition avait été excellente pour son domestique, lui demanda :
+
+['elle', 'on', 'femme', 'celle-ci', 'mère']	Serval	Je me rappelai aussi qu’une bonne femme m’avait fait boire un verre de vin là-dedans, un jour de grande fatigue, et que [MASK] m’avait dit alors l’histoire des habitants. Le père, vieux braconnier, avait été tué par les gendarmes.
+
+['libre', 'vous', ',', 'qui', 'il']	Lesable	Et il répondit avec une nuance de considération : « En ce cas, mon cher ami, c’est autre chose. Je vous remercie, et je vous laisse libre, car vous devez avoir beaucoup à faire. »Mais [MASK] tenait à se montrer zélé : «
+
+[',', 'le', 'de', "s'", 'se']	Lesable	mais [MASK] demeura debout près de la porte, épiant de loin la tache pâle du lit à peine éclairé par la fin du jour. Il voyait le dos de son beau-père penché vers la couche, ne remuant pas, examinant ;
+
+['Elle', '</s>', 'elle', 'Jeanne', 'Celle-ci']	Cora	Et les deux hommes se mirent à l’œuvre. Ils vidaient les tiroirs, fouillaient dans les poches, dépliaient les moindres papiers. À minuit, ils n’avaient rien trouvé d’intéressant. [MASK] s’était assoupie, et elle ronflait un peu, d’une façon régulière.
+
+['le', 'de', ',', 'la', 'se']	Denis	[MASK] ! Que faisait-il alors ? Que voulait-il ? Quel projet affreux nourrissait-il encore ?Ce qu’il faisait ? Mais il le lavait pour effacer les traces ! Et il allait l’enfouir maintenant dans le jardin, à dix pieds sous terre, pour qu’on ne le découvrît pas
+
+['Il', 'Elle', 'Celui-ci', 'On', 'Monseigneur']	Lesable	J’ai eu besoin de vous toute la matinée. Pourquoi n’êtes-vous pas venu ? » [MASK] répondit : « Cher maître, nous avons eu le malheur de perdre ma tante, Mlle Cachelin, et je venais même vous demander d’assister à l’inhumation, qui aura lieu demain.
+
+['se', "s'", 'et', 'il', 'où']	Cachelin	Et elle répéta : « Tu n’es capable de rien, de rien. Tu laisses même tout le monde te passer sur le dos comme employé ! »La porte s’ouvrit ; [MASK] parut, attiré par le bruit des voix, et il demanda : «
+
+['celui-ci', 'Pierre', 'Jean', 'lui', 'Charles']	Cachelin	; puis [MASK], calme et souriant, reparut avec sa fille. On se mit à table et on causa, ce soir-là, avec plus de cordialité qu’on n’avait fait depuis longtemps, comme si quelque chose d’heureux était arrivé pour tout le monde.
+
+['Il', 'Elle', 'lui', '</s>', ',']	Labouise	»[MASK] répondit :« Aie pas peur, ma sœur, embarquons-le, j’allons rigoler à la nuit tombée. »Et ils allèrent chercher la barque. Le cadavre de l’animal fut couché dans le fond, couvert d’herbes fraîches, et les deux rôdeurs, s’étendant dessus, se rendormirent.
+
+['il', 'et', 'elle', 'Il', 'lui']	Labouise	Quand il eut traversé le fleuve et qu’il fut en face du groupe, il cria :« Ohé ! ma sœur ! »La femme cessa de traîner sa bourrique et regarda. [MASK] reprit :« Vas-tu à la foire aux locomotives ?
+
+['Elle', 'qui', 'elle', 'et', 'femme']	Cora	Et une pensée incessante les poursuivait, les minait, aiguillonnait leur rancune mutuelle, celle de l’héritage insaisissable. [MASK] maintenant avait le verbe haut, et rudoyait son mari. Elle le traitait en petit garçon, en moutard, en homme de peu d’importance.
+
+['de', 'la', 'à', 'le', 'les']	Charlotte	Elle a là un joli revenu. Ça ne lui a pas coûté cher dans le temps, ces maisons-là. » Et, se tournant vers la salle, il cria : « Combien donc as-tu payé les terrains d’ici, [MASK] ? »
+
+["c'", 'oui', 'si', 'bien', 'elle']	Céleste	sa figure n’avait point tressailli. Mais [MASK], la petite bonne, venait de lever les yeux vers moi. C’était une grosse fille de dix-huit ans, rougeaude, franche, forte comme un cheval, et propre, chose rare.
+
+['dit-il', 'Monsieur', 'enfin', 'donc', 'Messieurs']	Léopold	! Ça en vaut bien la peine. » Et, quand il les eut lâchés, il déclara, débordant d’une joie folle : « Enfin, c’est partie gagnée ! Dites donc, [MASK], nous allons tout de suite acheter une propriété à la campagne.
+
+['on', ',', 'se', 'en', 'qui']	Cachelin	»Une détonation fit sauter les deux femmes, [MASK] venait de déboucher le champagne, qui s’échappait avec impétuosité de la bouteille et coulait sur la nappe. Puis les verres furent emplis de mousse, et le patron déclara : « Il est de bonne qualité, on le voit. »
+
+['Le', '</s>', 'Et', 'Un', 'Il']	Lesable	Ah ! je te conseille de parler ! Cela me coûte cher d’avoir épousé une chiffe comme toi !… Et qu’est-ce que tu as répondu à ce gueux ? »[MASK], effaré, devant cet orage, bégaya : « Je l’ai… souffleté.
+
+['et', ',', 'se', 'la', 'de']	Maillochon	Un flot de sang lui coulait entre les dents. Bientôt il ne remua plus. Il était mort.Les deux hommes ne riaient pas, ça avait été fini trop vite, ils étaient volés.[MASK] demanda :« Eh bien, qué que j’en faisons à c’t’heure
+
+[',', '"', 'se', 'et', 'qui']	Maillochon	»[MASK] répondit :« Ça me va, en route. »Et la barque repartit, descendant vivement le courant. Les brumes qui couvraient le fleuve commençaient à se lever. On apercevait, comme à travers un voile, les arbres des rives ;
+
+['il', 'Il', 'et', 'le', 'Et']	Maze	Aussitôt rentré dans son bureau, [MASK] tenta de se nettoyer, mais il n’y put réussir ; il était teint avec une encre à fond violet, dite indélébile et ineffaçable. Il demeurait devant sa glace, furieux et désolé, et se frottant la figure rageusement avec sa serviette roulée en bouchon.
+
+['il', 'Il', ',', 'et', '.Il']	Lesable	»[MASK] avait placé sa montre devant lui sur sa table, et il attendait cinq heures avec une impatience fébrile. Dès que la grosse horloge de la grande cour sonna, il s’enfuit, quittant, pour la première fois, le bureau à la minute réglementaire.
+
+['Il', 'Elle', 'il', '...', ',']	Labouise	Hein, y en a-t-il ? »[MASK] fit un mouvement de tête et prononça :« Y en a et y en a pas, c’est possible. »Le restaurateur insistait :« Des gris, rien que des gris, peut-être ?
+
+['On', 'on', 'et', 'Et', ',']	César	On avait fini le rôti. [MASK] maintenant décoiffait la terrine de foie gras avec des précautions délicates qui faisaient bien juger du contenu. Il dit : « Je ne sais pas si celle-là sera réussie. Mais généralement elles sont parfaites.
+
+[',', 'tous', 'de', 'par', 'dans']	Boissel	» Mais pour se procurer des gants, il fallait sortir, et le chef ne badinait pas. On renvoya donc le garçon de bureau chercher un assortiment chez un marchand. La couleur les arrêta longtemps. [MASK] les voulait noirs ;
+
+['On', 'on', 'Il', 'il', 'Ou']	Cora	On l’attirait, on le soignait. [MASK] lui faisait les plats qu’il aimait. Et l’intimité des trois hommes fut bientôt si vive qu’ils ne se quittaient plus guère. Le nouvel ami emmenait la famille au théâtre, en des loges obtenues par les journaux.
+
+['Il', 'et', 'Elle', 'Celui-ci', 'Et']	Labouise	Comme les maraudeurs se levaient, le père Jules qui les guettait, prononça :« Vous avez autre chose, mais vous ne voulez pas le dire. »[MASK] riposta :« C’est possible, mais pas pour toi, t’es trop chien.
+
+['elle', 'Elle', 'puis', 'lui', 'Lui']	Cachelin	Elle le traitait en petit garçon, en moutard, en homme de peu d’importance. Et [MASK], à chaque dîner, répétait : « Moi, si j’avais été riche, j’aurais eu beaucoup d’enfants… Quand on est pauvre, il faut savoir être raisonnable.
+
+['et', 'il', ',', 'qui', 'puis']	Maillochon	[MASK] reparut avec son fusil enveloppé dans une loque. C’était un homme de quarante ou cinquante ans, grand, maigre, avec cet œil vif qu’ont les gens tracassés par des inquiétudes légitimes, et les bêtes souvent traquées. Sa chemise ouverte laissait voir sa poitrine velue d’une toison grise.
+
+['la', "l'", 'tous', 'le', 'ses']	Cachelin	»Suivait une série interminable de noms de communautés, de chiffres, d’ordres et de recommandations.Puis maître Belhomme remit poliment le papier entre les mains de [MASK], ahuri de saisissement.Il crut même devoir ajouter quelques explications : «
+
+['on', 'il', 'elle', 'ne', 'de']	Cachelin	On ne voyait rien qu’une lueur vague planant sur la grande ville, comme ces couronnes de feu qu’on met au front des saints. De place en place Cette clarté semblait plus vive, et [MASK] se mit à expliquer : «
+
+[',', 'le', 'la', 'se', 'de']	Cachelin	Il lui sembla qu’un voile se levait qui les lui montrait tels qu’ils étaient, le père et la fille, du même sang, de la même race commune et grossière. Il se vit perdu, condamné à vivre entre les deux, toujours.[MASK] déclara
+
+['Il', 'il', "J'", "j'", "l'"]	Lesable	Voulez-vous que je vous donne un mot pour le commandant Bouc ? c’est un homme compétent en la matière et il pourra vous guider. »[MASK] accepta et alla trouver le commandant qui consentit même à être son témoin ; il prit un sous-chef pour le seconder.
+
+['Et', 'et', 'Mais', 'Lui', ',']	Boissel	? Dites-lui que je le méprise, que je méprise ce qu’il peut dire ou faire. »[MASK], tragique, s’avança : « Vous allez nous forcer, monsieur, à publier dans les journaux un procès-verbal qui vous sera fort désagréable.
+
+['Il', 'Elle', 'il', '.Il', 'elle']	Lesable	Je vais écrire les adresses des lettres de faire-part. »[MASK] convint avec aigreur que son beau-père avait raison, et ils s’installèrent face à face aux deux bouts d’une table longue, pour tracer les suscriptions des billets encadrés de noir.Puis ils déjeunèrent.
+
+['Il', 'Elle', ',', 'lui', '"']	Saval	»[MASK] répondit :« Non, ma fille, mais va dire à ta maîtresse que je voudrais lui parler tout de suite.– C’est que Madame fait sa provision de confitures de poires pour l’hiver ; et elle est dans son fourneau ; et pas habillée, vous comprenez.
+
+['Madame', 'madame', 'celle-ci', 'maman', 'Marie']	Cora	Quand voulez-vous que nous allions chez le notaire prendre connaissance du testament ?– Mais… ce matin, si vous voulez.– Est-il nécessaire que [MASK] nous accompagne ?– Ça vaut peut-être mieux, puisqu’elle est l’héritière, en somme.– En ce cas, je vais la prévenir de s’apprêter.
+
+['Il', 'Ce', 'il', 'ce', 'Elle']	Sandres	Le matin, il se réveillait toujours un peu moins amoureux que le soir. Pourquoi ?Comme elle était jolie, autrefois, et mignonne, blonde, frisée, rieuse ! [MASK] n’était pas l’homme qu’il lui aurait fallu. Maintenant, elle avait cinquante-huit ans.
+
+['Il', 'Elle', 'il', 'Et', 'On']	Lesable	? »[MASK] haussa les épaules : « Un pauvre sire, un pauvre sire. Il ne voit rien dans les proportions exactes. Il se figure des histoires à dormir debout. Pour nous, c’est une non-valeur.
+
+['le', 'et', 'dame', "l'", ',']	Pitolet	Il se tourna vers l’expéditionnaire : « Dites donc, papa Savon, vous avez appris bien des choses dans votre existence, vous ? »Le vieux, comprenant qu’on allait se moquer de lui et parler encore de sa femme, ne répondit pas.[MASK] reprit : «
+
+[';', ',', 'de', 'à', '</s>']	Lesable	»[MASK], cependant, allait mieux, saisi soudain par des ardeurs qu’il ne connaissait plus, des besoins de courir comme un jeune cheval, de se rouler sur l’herbe, de pousser des cris de joie.Il jugea les temps venus, Ce fut une vraie nuit d’épousailles.
+
+[':', '"', ',', '...', 'de']	Simon	» Elle tendit tranquillement la feuille blanche à l’officier, qui la tenait par les épaules, et elle reprit :« Vous écrirez comment c’est arrivé, et vous direz à leurs parents que c’est moi qui a fait ça. Victoire [MASK], la Sauvage !
+
+[',', "qu'", 'où', "s'", 'que']	Victor	Elle demeurait immobile, tellement saisie, hébétée, qu’elle ne souffrait même pas encore. Elle pensait : « V’là [MASK] qu’est tué, maintenant. » Puis peu à peu les larmes montèrent à ses yeux, et la douleur envahit son cœur.
+
+['personne', 'elle', 'lui', 'lui-même', 'moi']	Cora	Il se regardait dans la glace à tout instant, posait à tout moment la main sur son cœur pour en étudier les secousses, et il se fit faire un lit dans une pièce obscure qui servait de garde-robe, ne voulant plus se trouver en contact charnel avec [MASK].
+
+['Puis', 'Et', '...', '</s>', 'Le']	Cora	« Ohé ! ohé ! les femmes honnêtes ! J’ai un homme à vendre, pas cher, voulez-vous ? »[MASK], se détournant avec mépris, passa son bras sous celui de son invitée : « On ne peut même rester ici, allons-nous-en.
+

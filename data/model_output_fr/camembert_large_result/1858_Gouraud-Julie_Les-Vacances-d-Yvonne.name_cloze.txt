@@ -1,0 +1,200 @@
+['</s>NOTUSED', 'Elle', '«', 'Elles', '(']	HÉLÈNE	pourvu toutefois que votre père ne se fâche pas. [MASK], riant. Le moyen de se fâcher ! nous serons charmantes ; nous cueillerons les plus belles fleurs du jardin pour nous parer ; nous ferons valoir, nos dix-huit ans, au lieu de les dédaigner comme font
+
+['Elle', 'elle', 'Marie', 'Madeleine', 'Jeanne']	Yvonne	Elle essayait de tromper l’absence par, mille soins et mille prévenances pour son amie. Les filles ont de bonne heure le sens de l’hospitalité. [MASK] savait déjà très-bien donner le coup d’œil de maîtresse de maison ;
+
+['moi', 'monsieur', 'toi', 'alors', 'madame']	Yvonne	— Je ne sais pas si je dois te le dire ! — Par exemple, monsieur, on dit tout à sa sœur ! — Eh bien, [MASK], tu-sais que je ne suis pas jaloux ? — Oh ! non.
+
+['Marie', 'Pierre', 'Jean', 'Jeanne', 'Paul']	Yvonne	Les enfants devinrent silencieux ; le souvenir de ce qu’ils avaient lu la veille les pénétrait d’un sentiment religieux : — Quand on pense, dit [MASK], que saint Bruno et ses compagnons ont prié à cette place !
+
+['»', '«', '!', '...', '</s>NOTUSED']	LOUIS	BABET. Jusqu’à ma couvée de petits poulets qu’elle a culbutée l’autre jour eh entrant dans la bassecour ! Les pauvres petits ! Qui est-ce qui aurait pu penser qu’ils seraient victimes de la mode ! [MASK].
+
+['maman', 'Thérèse', 'Maman', 'Sophie', 'Berthe']	Léonce	Appelle [MASK]. Voici l’heure de la promenade. THÉRÈSE Je vous en prie, maman, permettez-moi de travailler encore. Je tiens à honneur que vous puissiez vous parer de mon ouvrage pendant le séjour de mademoiselle Hélène ici.
+
+['le', 'chevalier', 'Chevalier', 'Guillaume', 'Arthur']	Bayard	Après avoir passé cinq jours au camp, le chevalier dit au gendarme : — Mon gentilhomme, je m’ennuie ici ; faites-moi reconduire sûrement au camp français. — Et votre rançon ? reprit le gendarme. — Et la vôtre ? répondit [MASK] ;
+
+['famille', 'Pierre', 'David', 'Jacques', 'Simon']	Bayard	Des masures croulantes et plusieurs tours eu ruine attristent les regards. On désigna aux voyageurs une fenêtre comme étant celle d’où la mère de [MASK] dit adieu à son fils et lui remit une bourse. Ce détail consola un peu nos jeunes amis de la stérilité de ces ruines.
+
+['Il', 'Monsieur', 'Joseph', 'Louis', 'Pierre']	Léonce	Non, non, nous resterons dans notre modeste maison. [MASK] ne consentirait pas à quitter les champs. Vôtre présence n’a pu le retenir ; il est allé présider à la construction d’un bâtiment de ferme à six lieues d’ici.
+
+['Marie', 'Jeanne', 'Juliette', 'elle', 'Sophie']	Netta	La pluie soulevait tous les mécontentements ; [MASK] seule prenait son parti, disant qu’il fallait se soumettre à la circonstance. — Ma chère, disait-elle, ce serait malheureux de ne pas savoir s’amuser quand il pleut, car il pleut très-souvent.
+
+['Il', 'Elle', 'On', 'Chacun', 'Antoine']	Netta	Il faut ajouter à tous ces plaisirs celui de se tacher les doigts d’un beau rouge. [MASK] voulut savoir le nom de la vieille afin de mieux se, souvenir d’elle. La bonne femme ne se fit pas prier pour décliner son nom et ses titres :
+
+['amour', '<unk>', 'Amour', 'Antoine', 'oreille']	Yvonne	— Ma marraine, qu’est-ce que c’est que les nerfs d’[MASK] ? — C’est l’impatience, mon ami. — J’en conviens ; mon frère, embrasse-moi pour calmer ces malheureux nerfs, puis écoutons.
+
+['Jésus', 'Elle', 'Il', 'Marie', 'Louis']	Bruno	L’histoire reste incertaine entre ces deux datés. [MASK] annonça, dès ses premières années, les dispositions les plus heureuses. Ses parents surent apprécier le trésor que la Providence leur confiait. Ils s’appliquèrent religieusement à former le cœur et le jugement de leur bien-aimé enfant.
+
+['il', 'Émile', 'Henri', 'Charles', 'Louis']	Peppo	Si [MASK] vivait, il aurait vingt-cinq ans, et nous posséderions une belle ménagerie, car personne ne savait élever les bêtes comme ce garçon-là. — Vous l’avez perdu jeune ? — Pourquoi me questionner ainsi ? Vous voyez bien que cela me fait mal...
+
+['Elle', 'Marie', 'Jeanne', 'Marguerite', 'Louise']	Yvonne	[MASK] accompagnait sa marraine dans toutes ses excursions de maîtresse de maison ; s’il lui arrivait de s’échapper, pendant une conversation de basse-cour , pour aller cueillir une marguerite, elle revenait bientôt témoignant le désir de s’instruire.
+
+['Alice', 'Marie', 'Pierre', 'Jean', 'Sophie']	Yvonne	— Et ce vilain ours ? demanda [MASK]. — Jamais il ne reparut. — Me voilà seul ! Notre maisonnette n’était plus qu’un tombeau pour moi. Je me demandais comment je pourrais y rester. Vous allez voir comment un nouveau malheur m’en chassa.
+
+['Emma', 'Anna', 'Alice', 'Hélène', 'Anne']	Yvonne	puis elle finit par convenir de ce qu’elle avait dit maintes fois aux autres : le temps passe vite, surtout lorsqu’on travaille. Cette excellente philosophie n’empêcha pas qu’un beau matin le visage d’[MASK] se couvrit encore de larmes en voyant le char-à-bancs se remplir de paquets et de voyageurs.
+
+['Elle', 'Jeanne', 'Marie', 'Marguerite', 'Madeleine']	Yvonne	[MASK] ne fut pas fâchée de trouver sur son chemin des pommiers, des pruniers et des noisetiers. Cette rencontre lui permit de placer sa petite érudition ; Elle ajouta encore : Je sais, ma marraine, que les arbres de l’avenue sont des platanes.
+
+['</s>NOTUSED', '«', '»', '—', 'QUESTION']	THÉRÈSE	Je vous ai seulement dit ce qui se passe en moi. [MASK]. Ainsi, vous persistez ? HÉLÈNE. Assurément. Toutefois, ce n’est pas sans une certaine appréhension ; car, enfin, refuser un présent de son père, n’est-ce pas une marque de dédain ?
+
+['Madame', 'Monsieur', 'Maman', 'Mademoiselle', 'Ah']	Piccolo	soupir. — Vous l’avez élevé, sans doute ? — Oui, madame. Aussi il me connaît comme l’enfant connaît son père. Vous allez voir. Le bonhomme appela d’une voix douce qu’on n’aurait point supposée être la sienne : « [MASK] !
+
+['Alice', 'Anna', 'Emma', 'Hélène', 'Isabelle']	Yvonne	puis enfin il y eut un dernier adieu et un dernier regard. CHAPITRE XVIII. Le réveil d’[MASK] fut une déception. — Ce n’est point un rêve, dit-elle en se frottant les yeux : ils sont tous partis ! Oui ;
+
+['alors', 'maman', 'donc', 'Jeanne', 'Marie']	Netta	— Voilà qui me désespère ; et si je ne sentais pas dans mon cœur quelque chose qui me donne raison, même contre vous, ma marraine, je pleurerais. Et toi, [MASK] ? — Oh ! ma chère, je ne pense pas tout cela ;
+
+['Ce', 'Elle', 'Marie', 'Sophie', 'Jeanne']	Yvonne	[MASK] n’est plus cette petite fille de l’an passé qu’on amusait encore avec des contes de fées. Son maintien, sa parole plus calme, tout annonce en elle un changement proportionné à l’événement qui va s’accomplir.
+
+['</s>NOTUSED', 'Marie', 'Sophie', 'Alice', 'Madame']	Netta	— Eh bien, mesdemoiselles, choisissez entre ces trois dons : la fortuné, là beauté, les talents, et donnez les raisons de votre choix. — Comment exauceras-tu nos vœux, chère fée ? demanda [MASK]. — Vous le verrez, mes enfants, répondit gravement
+
+['il', 'Benoît', 'Grégoire', 'Augustin', 'François']	Bruno	Entouré des religieux de ses deux monastères, [MASK] s’humilia devant eux, fit sa profession de foi et recommanda à ses disciples de persévérer dans la charité fraternelle et dans l’attachement à l’Église romaine ; puis il s’endormit paisiblement le 5 octobre 1101.
+
+['Marie', 'Jeanne', 'Catherine', 'Madeleine', 'Thérèse']	Yvonne	Assurément nous croyons [MASK] très-capable de, subir l’influence d’un pareil souvenir ; toutefois, il faut savoir qu’elle entrait dans sa douzième année et qu’elle allait faire sa première communion. Depuis quelque temps même, on voyait le progrès de sa raison ;
+
+['vous', 'lui', 'toi', 'Paul', 'monsieur']	Thérèse	HÉLÈNE. Nous avons fait de beaux projets, [MASK] et moi : il faut que tout le monde soit gai et content. M. DAUBRÉ. Il suffira de vous voir... Pourvu que mon présent de fête arrive à temps. HÉLÈNE, avec anxiété. Un présent ?
+
+['lui', 'Pierre', 'Jules', 'Paul', 'Louis']	Gustave	Et pourtant elle remarquait déjà avec quelle rapidité passent les années. Il lui semblait encore être dans un certain petit salon rouge assise à côté de [MASK]. Que de fois n’avaient-ils pas pleuré ensemble sur une leçon que leur paresse rendait difficile !
+
+['Louis', 'Charles', 'Pierre', 'Jean', 'Paul']	Yvonne	— Tu es très-méchant, mon frère, dit [MASK] avec émotion. Ton rôle est de nous rassurer ; beau mérite vraiment à des garçons de ne pas avoir peur ! Si j’étais homme, va, je ne tremblerais pas !
+
+['Jésus', 'Dieu', 'Christ', 'lui', 'David']	Notre-Seigneur	Je n’ignore pas à quels dangers je m’expose, puisque [MASK] a choisi la pauvreté et a dit : Malheur aux riches ! Mais c’est lui qui fait les pauvres et les riches, et après avoir dit : Mes enfants, qu’il est difficile a un riche d’entrer dans le royaume des cieux !
+
+['moi', 'non', 'oui', 'voyons', 'toi']	Yvonne	— Mais, [MASK], je compte tuer les autres. Tes idées changeront quand tu me verras le sabre au côté et bien planté sur mon cheval. — Ce sera très-gai assurément ! — On n’est pas toujours à la guerre : on va et vient.
+
+['se', 'Se', 'enfin', 'ainsi', 'Marie']	Piccolo	en bonne maîtresse de maison, voulut que son hôte l’ours fût traité suivant ses goûts : le lait et le miel lui furent servis en abondance. Les enfants étaient sans doute fort impatients de voir [MASK] déployer ses grâces ; toutefois, l’homme et l’enfant excitaient surtout leur curiosité.
+
+['Marie', 'Jeanne', 'Suzanne', 'Marguerite', 'Rose']	Yvonne	Nous prendrons place un instant à côté du frère et de la sœur pour écouter leur conversation. — Maintenant, dit [MASK] en ôtant son grand chapeau de paille pour mieux voir son frère, à nous deux : tu as eu des prix ! ma marraine est contente.
+
+['»', '«', '[...]', '(...)', '...']	THÉRÈSE	S’il y a un orage, il passera entre nous ; nous pourrons au moins discuter, faire valoir nos idées, et enfin si votre père ne se rend pas à nos bonnes raisons, vous obéirez. [MASK].
+
+['madame', 'maman', 'Madame', 'Maman', 'Mademoiselle']	Netta	Je ne le sais pas précisément. — Je le crois bien, mon enfant ; cette question est une des plus difficiles et des plus graves à résoudre. — C’est égal, dit [MASK], vous pouvez répondre en petit ; n’est-ce pas, madame ?
+
+['elle', 'Marie', 'Jeanne', 'Anna', 'il']	Yvonne	La maîtresse et son chien s’élancèrent dans la chambre du voyageur... Celui-ci s’était flatté de pouvoir retenir sa sœur près de lui pour causer ; mais [MASK] ne trouva pas la proposition convenable : elle engagea son frère à se lever.
+
+['Madame', 'Marie', 'Maman', 'Jules', 'Charles']	Yvonne	— Hélas ! oui, répondit [MASK] en soupirant ; mais ce qui me console pas mal de cette infériorité, c’est que le féminin dormira tout son content et sera frais et dispos demain matin, tandis que ce respectable masculin court grand risque de bâiller toute la journée
+
+['il', 'Il', 'Pierre', 'Joseph', 'Louis']	Peppo	Je pensai qu’il était à la chasse, son plaisir favori. Le soir vint : personne. Je m’inquiète, je cherche, j’appelle de tous côtés. Hélas ! [MASK] gisait dans son lit : l’ours l’avait étouffé... Je passe ma douleur.
+
+['On', 'Il', 'Elle', 'Tu', 'on']	Georges	[MASK] pourrait très-bien se lasser de notre vie tranquille. Les garçons de ton âge ne se contentent pas en général, pendant les vacances, de lire sous une allée de tilleuls, ou de se percher le soir sur une tour pour voir l’effet du clair de lune sur les rochers.
+
+['»', '«', '[...]', '(...)', '..']	THÉRÈSE	Je resterais jusqu’à demain à parler de ma fille. Il faut pourtant que j’aille écrire à mon homme d’affaire de là basset à ma femme, Pour être juste il faut convenir que la fortune a bien aussi ses petits embarras. [MASK].
+
+['Marie', 'Jeanne', 'Louis', 'Charles', 'Joseph']	Yvonne	— Rien, ma marraine, répondit [MASK] en essuyant ses yeux ; je disais à mon frère, qui veut être militaire, que, s’il revient de la guerre sans jambes et sans bras, je resterai toujours auprès de lui pour le soigner.
+
+['maman', 'Marie', 'Jeanne', 'Maman', 'Françoise']	Netta	toutefois elle ne tarda pas à battre la campagne de nouveau, faisant mille projets. Elle voulait du neuf. — Eh bien, dit [MASK], demande à ta bonne marraine de nous faire jouer une petite pièce ; ce sera très-amusant.
+
+['Maman', '</s>NOTUSED', 'maman', 'Elle', 'Marie']	Cadette	elle ressuscite, comme elle dit, des robes dont mon père a perdu le souvenir. [MASK], dont elle n’a jamais voulu se séparer pour prendre une femme de chambre élégante, conduit on ne peut mieux ce manège ; mon père est persuadé que maman donne la mode.
+
+['Benoît', 'Augustin', 'Bernard', 'Grégoire', 'Bruno']	Bruno	Ceux qui ont écrit la vie de saint [MASK] ne peuvent pas préciser à quel âge il mourut ; on sait seulement qu’il a été religieux pendant dix-sept ans. La mort de ce pauvre moine fut un événement considérable dans le monde entier. Ses louanges retentirent de toutes parts ;
+
+['christianisme', 'magie', 'sorcellerie', 'celtique', 'religion']	druidisme	Pour ajouter au merveilleux de leurs paroles, ils enseignaient à l’ombre des forêts. Le chêne devint l’arbre sacré de cette fausse religion appelée [MASK]. Chaque année, les druides et le peuple se rendaient dans la forêt pour assister aux cérémonies de leur culte.
+
+['Marie', 'Madame', 'Jeanne', 'maman', 'Mme']	Yvonne	la voiture roulait tranquillement. — Comme il fait sombre ! dit tout à coup [MASK]. Aussitôt les enfants se précipitent à la portière et voient l’horizon chargé de nuages menaçants. Le cocher, malgré l’allure vigoureuse de ses chevaux, craint d’être surpris par l’orage.
+
+['non', 'voyons', 'moi', 'Monsieur', 'monsieur']	Yvonne	— Mais, [MASK], c’est plutôt toi, qui te fâches de ce que je ne désire rien quand je suis près de toi. D’ailleurs je ne peux pas me réjouir de voir des demoiselles que je ne connais pas.
+
+['un', 'Pierre', 'Monsieur', 'Jésus', 'Jean']	Yvonne	demanda [MASK]. — Non, c’est inutile. Seulement je fais la grosse voix de temps en temps ; je jure, Dieu me le pardonne ! — Cet enfant ne vous est pas d’un grand secours ? — Non, mais je suis habitué à lui.
+
+['On', 'on', 'Il', 'Chacun', 'Elle']	Yvonne	L’arbre qui abrite notre tête, les richesses variées des champs, les fleurs qui sont à la fois l’ornement du château et de la chaumière, le brin d’herbe, le fruit sauvage, tout mérite notre intérêt et notre admiration. [MASK] ne courra donc pas au hasard dans cette belle campagne ;
+
+['Marie', 'Jeanne', 'Marguerite', 'Madame', 'maman']	Yvonne	De quel pays étaient-ils ? Étaient-ce le père et l’enfant ? — Je vous en prie, ma marraine, disait [MASK], faites-les causer. C’est elle qui eut la grande satisfaction d’annoncer que les voyageur savaient terminé leur repas.
+
+['Hugo', 'Alain', 'Antoine', 'Augustin', 'Anonyme']	Yvonne	puis elles poussent en même temps un cri de surprise et presque d’effroi, en voyant bondir le Guiers-Mort au fond du ravin : il blanchit de son écume les rochers noirs qu’il rencontre, et il reparaît bientôt calme et paisible pour rassurer les voyageurs, selon la version d’[MASK].
+
+['</s>NOTUSED', '—', 'PAUL', '«', 'Pierre']	HÉLÈNE	Oui si vous en êtes le chef. [MASK]. Il n’est pas douteux que mon père, selon l’habitude que sa tendresse lui en a fait contracter, me demandera ce, que je désire pour ma fête. THÉRÈSE. Je ne vois pas le fil de la conspiration.
+
+['</s>NOTUSED', 'VOUS', '—', '?', 'PAUL']	HÉLÈNE	Comment cela ? [MASK]. Ne suis-je pas d’une élégance absurde ? Le luxe me déplaît partout et, dans votre maison si modeste où tout parle raison, je me trouve un personnage grotesque. THÉRÈSE. Votre simplicité naturelle efface votre élégance.
+
+['vous', 'toi', 'lui', 'elle', 'Pierre']	Netta	qu’il est rare de voir une amitié de vingt-cinq années ! — Nous reproduirons cette rareté, [MASK] et moi, n’est-ce pas, ma marraine ? — Je l’espère, mon enfant. — Comment ! vous n’êtes pas sûre que nous nous aimerons toujours ?
+
+['coiffure', 'thé', 'poupée', 'Madame', 'lecture']	Sainte-Agnès	ils savent avec quel plaisir je caresse leurs têtes blondes, et qu’il m’arrive souvent de déposer un baiser sur leurs joues fraîches ! Ils me pardonneront donc le malin plaisir que j’éprouve à les voir entrer sans défiance dans le salon de [MASK], pour se prendre dans les filets maternels.
+
+['Lourdes', 'Marie', 'Fatima', 'Noël', 'Mélanie']	Saint-Bruno	Puis à deux cents pas de là, s’élève sur un rocher à pic la chapelle de [MASK], accessible d’un seul côté. Quelques sapins, croissant sur le rocher même, protègent ce monument précieux à la piété des fidèles. Les enfants devinrent silencieux ;
+
+['Jésus', 'Marie', 'David', 'Abraham', 'Joseph']	Giovan	Tu feras paître ses troupeaux, tu iras à la chasse et tu ne manqueras jamais de pain. Qu’en dis-tu ? — Et qui donc prendrait soin de vous, père ? répondit [MASK], les yeux brillants de larmes.
+
+['frère', 'Seigneur', 'maître', 'camarade', '!']	Gustave	mais je vous assure que je resterais là deux heures dans l’espoir d’apprendre que ce cher saint Bruno retournera dans son désert ; car je me figure qu’il sera bien joyeux d’y retrouver ses frères. — Alors, continue, [MASK].
+
+['Elle', 'Jeanne', 'Marie', 'Blanche', 'Alice']	Yvonne	Les deux petites remontèrent en toute hâte pour annoncer les hôtes qu’on allait voir arriver. [MASK] avait à peine mis le pied sur la terrasse, qu’elle criait de manière à se faire entendre de tout le château : « Un ours ! un ours ! »
+
+['café', 'Paris', 'verre', 'Montmartre', 'Deauville']	Sainte-Agnès	Enfin on passe de la déception à la réalité. Des têtes abritées sous de grands chapeaux de paille se penchent aux portières. On distingue des voix. Encore quelques instants et la famille Saint-Valier sera sur la terrasse de [MASK] ! Gardez-vous bien de croire ;
+
+['</s>NOTUSED', '...', 'MARIE', 'M', 'Mme']	LOUIS	Où diable, madame, a-t-elle été chercher des amis pareils ? BABET. Elle n’a pas été les chercher ; ils sont bien venus ! [MASK]. Tu sais bien ce que je veux dire ; mais il faut toujours que tu taquines. BABET.
+
+['Cluny', 'Malte', 'Jésus', 'Marie', 'Benoît']	Saint-Benoît	Ah ! cela fait mal à penser et à voir ! « L’évêque finit par comprendre que cet honnête Parisien appelait maison de fous un monastère de l’ordre de [MASK]. » — Voilà un jugement du monde, mes chers enfants.
+
+['Rousseau', 'Calvin', 'Newton', 'Jésus', 'Voltaire']	Netta	La théorie de [MASK] était certainement contestable ;mais le jeune auditoire fut surpris par la nouveauté des arguments et ne sut point y faire d’objections. Quant aux parents, ils se seraient bien gardés de renverser une doctrine si pure.
+
+['il', 'elle', 'Marie', 'Anna', 'on']	Yvonne	Tout à coup le soleil se cache, le vent s’élève : [MASK] court à la fenêtre. Un spectacle nouveau attire son attention. Les nuages amoncelés semblent menacer ces montagnes qui s’élèvent fièrement depuis tant de siècles, lès feuilles se détachent et tombent en tournoyant sur elles-mêmes.
+
+['on', 'il', 'maman', 'elle', 'je']	Peppo	Il obéissait à notre voix et semblait d’un naturel très-doux ; aussi [MASK] ne se pressait guère de l’enfermer. Un matin, je ne vis point paraître mon fils à l’heure ordinaire. Je pensai qu’il était à la chasse, son plaisir favori.
+
+['Marie', 'Alice', 'Anna', 'Catherine', 'Maria']	Yvonne	Tous les détails de la rencontre furent soigneusement racontés : l’ours n’avait pas l’air si méchant que l’homme, et le petit garçon pleurait bien fort. « Je suis sûre, ajoutait [MASK], que ce pauvre enfant venait d’être battu. »
+
+['Monsieur', 'monsieur', 'messieurs', 'docteur', 'Madame']	Netta	L’éducation doit durer toute la vie : Les premiers principes sont les plus importants et souvent décisifs. Voilà pourquoi on surveille de si près les premières impressions de l’enfant. Eh bien, [MASK], comprenez-vous un peu ce qu’on entend par éducation ?
+
+['Nazareth', 'Noël', 'table', 'présent', 'Rome']	Sainte-Agnès	L’enfant a besoin de bonheur : il faut que la vertu lui apparaisse sous un jour favorable pour que son cœur s’y attache. Le souvenir de ce bonheur aura une salutaire influence sur l’avenir. A [MASK] il n’était jamais question de pénitence ;
+
+['»', '«', '[...]', '...', '(...)']	LOUIS	BABET. Je ne t’y force pas ; mais pour un garçon qui voudrait voir du pays, c’est une belle occasion. Tu finirais par épouser une petite négresse ; vous tiendriez maison et dans quelques années tu reparaîtrais au pays entouré de ta famille. [MASK].
+
+['Giovanni', 'Antonio', 'Francesco', 'Giuseppe', 'Lorenzo']	Bembo	Si vous voulez me le laisser, j’en prendrai soin, je lui donnerai des troupeaux à garder. — Eh bien, répondit tristement [MASK], le voici ; nous allons le consulter. Giovan, cria-t-il d’une voix presque terrible.
+
+['femme', 'déesse', 'fée', 'diamant', 'diable']	Vierge	Quand on veut donner une idée de la beauté d’une femme, on dit que c’est une tête de [MASK], et d’un enfant, qu’il est beau comme un ange. C’est que, mes chères amies, la beauté n’est pas seulement une chose extérieure ;
+
+['mais', 'Seigneur', 'Socrate', 'Michel', 'Père']	Netta	Nous cherchons dans les créatures ce que nous ne trouverons complètement qu’en Dieu. Il ne faut donc pas s’étonner de l’inconstance ou des variations des affections humaines. C’est la condition de notre nature déchue. — Je comprends, [MASK], comment te figures-tu le ciel
+
+['elle', 'il', 'Madeleine', 'Jeanne', 'Marie']	Bayard	Lorsque les jeunes personnes vinrent avec leur mère, [MASK] leur dit : Mesdemoiselles, les sentiments que vous m’avez inspirés ne s’effaceront jamais de mon cœur ; je ne savais comment reconnaître les soins que vous avez pris de moi pendant ma maladie ;
+
+['Elle', 'Marie', 'Anna', 'Sophie', 'Alice']	Yvonne	[MASK] se servait habituellement d’un coffret, qui lui avait semblé préférable à tout autre jusqu’à ce jour ; mais elle changea bien vite de sentiment : elle mit son ouvrage, son dé et ses ciseaux dans le nouveau panier, et le passa à son bras pour en voir l’effet.
+
+['on', 'elle', 'il', 'chacun', 'Dieu']	Yvonne	Elle les plaçait en face du glacier que le soleil éclairait avec une coquetterie dont [MASK] lui sut bien gré ! La cloche du souper vint commander la retraite. On obéit à sa voix. Les enfants entourent la table comme une guirlande de fleurs. Au babil animé succède le silence.
+
+['Marie', 'Jeanne', 'Catherine', 'Marguerite', 'Maria']	Gustave	Les petits hommes étaient glorieux d’obtenir la faveur de coucher dans une cellule de moine et d’assister à l’office de nuit. — Tu vois, ma sœur, dit [MASK], le masculin l’emporte toujours sur le féminin ; ce n’est pas seulement une affaire de grammaire !
+
+['Marie', 'Madame', 'Jeanne', 'Sophie', 'maman']	Gustave	— Au galop ! au galop ! mes petites philosophes, s’écria [MASK], en lançant les mulets. Au galop ! répondit toute là troupe, qui fut forcée de s’arrêter pour obéir aux mères effrayées. Le reste du voyage s’accomplit sans incident digne de remarque.
+
+['Il', 'Elle', '</s>NOTUSED', 'On', 'il']	Yvonne	je te conduirai dans les sentiers que nous avons parcourus ensemble ; tu admireras ce que nous avons admiré, et surtout tu t’instruiras au récit des vertus qu’elle a pratiquées et dont le souvenir est toujours vivant dans le pays. [MASK] écoutait sa marraine sans oser l’interrompre.
+
+['Julie', 'Marie', 'Sophie', 'Pierre', 'Julien']	Yvonne	Le jardin de l’établissement leur parut d’un agrément infini, parce qu’ils y rencontrèrent des figures inconnues et des enfants joyeux. — Que c’est agréable, disait [MASK], d’être aux eaux sans prendre les eaux ! Regardez donc ces femmes qui nous convoitent de l’œil.
+
+['Marie', 'maman', 'petite', 'sœur', 'Jeanne']	Yvonne	— Allons, [MASK], ne t’attriste pas. Tout est joyeux autour de nous, il faut aussi nous réjouir. Si nos parents étaient là, ils voudraient nous voir contents. Aimons-nous bien, ma petite sœur ; prions ensemble, et la vie ne sera pas trop triste.
+
+['Elle', 'Marie', 'Et', 'elle', 'Jeanne']	Yvonne	Elle forma aussitôt mille projets qu’elle aurait souhaité de réaliser dès le lendemain. [MASK] s’endormit sur des pensées agréables dont elle reprit le fil en ouvrant les yeux ; mais elle se hâta de sortir de sa chambre, impatiente de recevoir le premier bonjour de son frère bien-aimé.
+
+['...', '»', '[...]', 'etc', '(...)']	Gustave	mais on voyait bien qu’il n’était pas fâché. Il me prenait avec lui sur son cheval et il m’embrassait, parce que je n’avais pas peur. Il me semble que c’était hier, et il y a huit ans de cela ; [MASK].
+
+['école', 'éducation', 'écriture', 'étude', 'ordre']	Yvonne	Si vous ajournez au lendemain une leçon utile, ne comptez pas sur cet élan, cette ardeur, qui assurent le succès de vos soins. Aussi, dès que les devoirs d’[MASK] étaient terminés, la marraine et la filleule partaient pour aller saluer de leurs noms les arbres du parc et ceux de la montagne.
+
+['Elle', 'Il', 'Marie', 'Sophie', 'Marguerite']	Netta	[MASK] profita de l’enthousiasme de son amie pour la faire convenir qu’elle l’avait accusée à tort de mauvais goût en faisant porter une toilette bleue et verte à sa poupée, puisque de son avis il n’y avait rien de si beau que la verdure sous la voûte azurée.
+
+['Marie', 'Jeanne', 'maman', 'Thérèse', 'Rose']	Netta	— Maman, dit [MASK], qu’est-ce qu’un Chartreux au juste ? — Chère enfant, « un Chartreux est un homme qui, détrompé de la vanité du monde, s’est consacré pour jamais à la pénitence dans une profonde retraite ;
+
+['Maintenant', 'Alors', 'Allez', 'Allons', 'Tiens']	Giovan	Et, changeant d’expression, il fit signe à l’ours de venir s’étendre à ses pieds. — Ce n’est pas tout ; on ne peut pas rester sur une scène si triste. [MASK], joue sa valse favorite. Vous allez voir.
+
+['elle', 'Elle', 'Isabelle', 'Emma', 'il']	Yvonne	Ce retour sur les absents ranima sa ferveur, et, à la fin de sa prière, elle ne se sentit plus si éloignée de ses amis. Ce n’était vraiment pas sans raison qu’[MASK] admirait sa marraine et plaçait toute sa confiance en elle.
+
+['non', 'naturellement', 'Adam', 'alors', 'hein']	Georges	— Pour apprécier l’éducation à sa juste valeur, mes enfants, il faut s’arrêter un moment à considérer la condition et la destinée de l’homme sur la terre. L’homme n’est-il pas libre de faire le bien ou le mal, [MASK] ?
+
+['domicile', 'tous', 'plusieurs', 'Paris', 'deux']	Yvonne	Le spectacle en valait la peine : les nageurs plongeaient, se poursuivaient, comme s’ils eussent eu dessein de donner une représentation à [MASK]. C’était charmant ; et l’écolière se crut très-raisonnable en ne s’accordant qu’un quart d’heure de récréation.
+
+['Joseph', 'Jean', 'Pierre', 'Paul', 'Louis']	Gustave	[MASK], en sa qualité d’écolier en vacances, fut nommé président du bureau. Après maintes recommandations et maintes promesses, le frère et la sœur s’élancèrent dans les montagnes, joyeux comme des oiseaux qui chantent un beau jour.
+
+['Adam', 'un', 'Abraham', 'Antoine', 'Hubert']	Isar	Les animaux sont dirigés par un instinct que nous pouvons modifier dans quelques-uns ; ce qui a fait dire, que certains d’entre eux étaient susceptibles d’éducation. Certainement, j’admire l’instinct qui fait d’[MASK] un suppliant plein de grâce dès qu’il voit arriver le plateau ;
+
+['Oh', 'Mais', 'Ah', 'Et', 'Hélas']	THÉRÈSE	J’ai tant voyagé ! [MASK], Oh ! que j’aurais de chagrin de quitter notre petite maison, de ne plus voir le chèvrefeuille et le jasmin tapisser le mur de la cour, de n’avoir plus de banc à l’église !
+
+['Sophie', 'Marie', 'Roland', 'Julie', 'Clara']	Netta	Les montagnes reparurent humides et brillantes sous les rayons du soleil couchant. — Ah ! le beau ! le beau ! s’écria [MASK], comment ne pas l’aimer, et comment l’admirer sans penser à la beauté éternelle !
+
+['Roland', 'Jean', 'Jacques', 'Guillaume', 'Georges']	Bayard	Le respect et l’attachement qu’il inspirait étaient tels qu’un grand nombre d’officiers se rendirent afin de pouvoir contempler encore une fois les traits du bon chevalier. L’ennemi fut touché de pareils sentiments et ne voulut point retenir prisonniers les frères d’armes de [MASK].
+
+['elle', 'il', 'Marie', 'Jeanne', 'Louise']	Yvonne	A l’admiration du paysage succéda un fort battement de cœur : les éclairs fréquents coupaient la parole à notre petite amie et le bruit majestueux du tonnerre était une harmonie au-dessus de ses forces. La fenêtre étant fermée, [MASK] se tint auprès de sa marraine, respirant à peine.
+
+['Elle', 'Marie', 'Suzanne', 'Madeleine', 'Jeanne']	Yvonne	[MASK] présidait avec bonheur aux préparatifs de la solennité ; elle travaillait dans la mesure de ses forces et de son talent aux robes blanches des petites filles pauvres. Depuis longtemps déjà, elle a choisi avec le jardinier des arbustes et des fleurs pour orner l’église.
+
+['Elle', 'Marie', 'Jeanne', 'Alice', 'Rose']	Yvonne	[MASK] se promettait d’y maintenir l’ordre et la propreté la plus exquise. Elle défiait d’avance l’œil de sa marraine d’y découvrir trace de poussière sur la table et sur ses livres. Un charmant plumeau de plumes de paon était la garantie de cette promesse.
+
+['Une', 'Jeanne', 'Marie', 'Julie', 'Louise']	Yvonne	Plus d’une fois, les enfants fournissaient eux-mêmes un sujet de conversation. [MASK] ayant gardé le silence pendant plus de cinq minutes, dit à ses amies : — Mesdemoiselles, si l’on vous offrait d’être riches ou très-jolies, ou d’avoir beaucoup de talents, que choisiriez-vous ?
+
+['la', 'Marie', 'soldats', 'Jésus', 'Jeanne']	Piccolo	je n’ai pas soif, et quand j’ai soif en été, ma marraine me donne du sirop de cerises. Tous ces propos étaient accueillis par des éclats de rire qui faisaient l’envie des passants attristés par la souffrance. A sept heures précises, une avant-garde de gamins annonça l’arrivée de [MASK].
+
+['Jésus', 'Joseph', 'Jean', 'Pierre', 'Antoine']	Hugues	[MASK], touché jusqu’aux larmes en reconnaissant son ancien maître, l’accueillit ainsi que ses compagnons avec Une charité parfaite. Mais lui aussi, eh pasteur prudent, voulut éprouver la vocation de ces nouveaux solitaires. Il leur représenta le désert, où il voulait les conduire, comme le repaire des bêtes féroces.
+

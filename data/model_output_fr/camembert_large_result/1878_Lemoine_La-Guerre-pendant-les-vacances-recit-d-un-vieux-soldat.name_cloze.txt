@@ -1,0 +1,200 @@
+['Arthur', 'Alexandre', 'Charles', 'Louis', 'Thomas']	Franck	Cela n’empêchait pas [MASK] de l’avoir constamment soit à la main, soit à l’œil. Une seule chose le tourmentait, c’était de n’avoir pas une armée assez nombreuse pour y prendre un page qui porterait la fameuse longue-vue.
+
+['Dieu', 'lui', 'Monsieur', 'Merlin', 'Joseph']	Franck	Quelque temps après, comme ils étaient fort attentifs et prêtaient l’oreille au moindre bruit de peur d’être surpris par [MASK], qui leur eût sévèrement reproché leur négligence, il leur sembla entendre une espèce de frémissement dans les roseaux. Ils redoublèrent d’attention ;
+
+['Il', 'Elle', 'On', 'Joseph', 'Louis']	Georges	— Le carré demeurait impénétrable, et lorsqu’ils voulaient en approcher de trop près, les projectiles de M. Lolo les tenaient à distance. — [MASK] imagina encore de rendre son carré mobile et se rapprocha ainsi petit à petit du pont qui était son espoir de salut.
+
+['intérieur', 'Anna', 'Olivier', 'Alice', 'automne']	Azan	A cet effet, il avait serré sa ceinture de deux trous de plus et relâché au contraire sa cravate, pour pouvoir respirer à son aise. Ses poches et sa casquette étaient pleines de pommes de pin ramassées sous les grands arbres du jardin d’[MASK].
+
+['allez', 'allons', 'va', 'partez', 'vite']	Coquelicot	— Allez, [MASK], mon ami. S’il manque, par votre fait, pied ou aile ou quoi que ce soit de ces deux paniers avant leur arrivée à destination, je vous ferai pendre, M. l’intendant, et vous ne serez pas le premier auquel cela sera arrivé.
+
+['lui', 'moi', 'eux', 'nous', 'Napoléon']	Coquelicot	Ils ne voulurent cependant pas jeter une teinte de tristesse sur la fin d’une journée si gaie, et le général accélérant le pas, tout le monde arriva bientôt en face du péristyle sur les premières marches duquel le père Mélin et [MASK] se tenaient droits comme des piquets.
+
+['Jean', 'Marie', 'Paul', 'François', 'Pierre']	Fortune	-là ! Qui vive ! Avance à l’ordre ou nous faisons feu » (ils auraient peut-être dû ajouter avec nos souches, mais ils crurent pouvoir négliger de le dire). Alors, du milieu des roseaux, une voix leur répondit ces mots : Franck et [MASK]
+
+['Monsieur', 'il', 'monsieur', 'Napoléon', 'Charles']	Franck	Après dîner, [MASK], suivi de tout son monde, traversa le gué (on avait eu soin d’ôter les bottines et les bas, de les placer sous le bras, et de relever les jambes des pantalons jusque par-dessus les genoux).
+
+['!', '»', '</s>NOTUSED', '...', 'Elle']	MARIE	Ne dirait-on pas que c’est un grand malheur, ma foi ! Il faut être de bien désagréable humeur, pour faire tant de bruit pour si peu. — Ça n’est pas beau d’être avare de ses fleurs ! ! ! Mademoiselle ! ! ! [MASK], piquée.
+
+['Il', 'il', 'II', 'Napoléon', 'On']	Franck	[MASK] s’occupait peu de leurs murmures. Il avait son idée. On voyait sur son front qu’il se passait de grandes choses dans sa tête. De temps en temps il se retournait pour regarder si l’ennemi, enivré de sa première victoire, ne se déciderait pas à le poursuivre
+
+['von', 'la', 'Wilhelm', 'Fritz', 'Monsieur']	Franck	La guerre est déclarée. (Se retournant du côté du camp ennemi et élevant la voix.) La guerre est déclarée ! Tout ce qui, dans cinq minutes, foulera encore la terre comprise entre les murs du parc est regardé comme ennemi de [MASK] Wolff.
+
+['Napoléon', 'Bonaparte', 'Voltaire', 'Robespierre', 'Alexandre']	Georges	Voici la position que vous allez être maître de prolonger ou de modifier suivant que vous jugerez convenable d’accepter ou de refuser les conditions que je suis chargé de vous proposer... — Des conditions ! s’écria [MASK], que ce mot mit hors de lui ;
+
+['Louis', 'Charles', 'Émile', 'Henri', 'Gustave']	Georges	Je vous laisse à penser quelles parties tout ce monde-là faisait dans le pare qui s’étendait derrière le château du général et descendait jusqu’à la rivière. Quand [MASK], qui était déjà au collège, revint chargé de prix passer ses premières vacances auprès de ses parents, ce fut une fête complète.
+
+['</s>NOTUSED', 'Marie', 'Jean', 'Jeanne', 'Pierre']	Georges	A bientôt ! » s’écria-t-il. [MASK], qui l’avait entendu, se fit un porte-voix d’une de ses mains, et montrant de l’autre la toque et l’oiseau que le vent balançait au bout de la perche : « Viens la reprendre,
+
+['Il', 'Ceci', 'il', 'II', 'Lui']	Coquelicot	[MASK] était un grand garçon de 17 à 18 ans, qui avait de grands bras, de grandes mains, de grandes jambes et de grands pieds ; ses yeux en outre ressemblaient à des boules de loto et ses oreilles à des plats à barbe ;
+
+['Napoléon', 'il', '</s>NOTUSED', '«', 'Bonaparte']	Franck	c’est ce qu’ils firent.) « Général de la cavalerie, occupez-vous de l’organiser, « continua [MASK], de l’équiper et la harnacher. Ce n’est « pas à un homme de votre mérite que j’en dois indiquer « les moyens.
+
+['Il', 'Lui', 'Mais', 'lui', 'et']	Georges	[MASK], au milieu de cette mitraille, oubliant son propre danger, ne songeait qu’à reconnaître quels étaient les boulets dont l’ennemi se servait et dont le dernier venait de le frapper en traître et par derrière. Cette briquette était-elle moins sèche que les autres ;
+
+['celui', 'Robert', 'Pierre', 'Charles', 'moi']	Paul	— Pardonnez-moi, dit [MASK] qui savait parfaitement ce qu’il en était, une erreur bien excusable si l’on considère ce que vous devriez être, colon... col... capitaine Robert ; je suis heureux, dis-je, d’une circonstance qui me permet d’entrer en relation avec un officier tel que vous.
+
+['Sur', 'Il', 'Une', 'Je', 'Sa']	Georges	— [MASK] commande, je devais m’y attendre. « Tant mieux ! C’est un ennemi digne de moi ; je suis bien « aise d’avoir à me mesurer avec lui. — Approchez-vous, « messieurs... plus près encore !
+
+['Il', 'Louis', 'Napoléon', 'II', 'Alexandre']	Georges	— [MASK] était tourmenté ; il pensait aux fusées à la Congrève, au feu grégeois, aux chars armés de faux, aux éléphants porteurs de tours, à des mortiers, à des catapultes, à tout ce que les temps anciens et nouveaux ont inventé de formidable.
+
+['cela', 'ça', 'ceci', 'chacun', 'tel']	Franck	Vous avez vu, dans les prés destinés à faire paître les bestiaux, ces barrières qui sont là pour les empêcher d’aller plus loin qu’on ne veut, et qui forment des enceintes séparées. Il fallait que [MASK] eût obliqué trop à gauche ou trop à droite ;
+
+['Il', 'il', 'Napoléon', 'On', 'et']	Georges	mais c’est dans ce moment-là qu’on fait voir ce qu’on vaut. — [MASK] commanda tout à coup halte ! Puis, imitant l’exemple de plus d’un de nos braves généraux qui se sont faits soldats à l’occasion et lorsque la nécessité l’exigeait, il commanda encore
+
+['lui', 'moi', 'nous', 'eux', 'elle']	Coquelicot	On fut alors ébloui, étonné et charmé par la vue d’un charmant feu d’artifice qui avait été préparé par le père Mélin et par [MASK], sur l’ordre que le vieux général Grandjean leur en avait donné tout bas à l’oreille, en descendant pour aller visiter le champ de bataille.
+
+['»', '«', 'etc', '...', '[...]']	Paul	Comme ils le disaient, ils n’avaient pas grand mal ; la preuve c’est que, se donnant la main pour retraverser le pont, ils continuèrent leur dialogue en ces termes : « Nous mettrons une pierre commémorative au coin du pont et nous l’appellerons la pierre du casse-cou, [MASK].
+
+['Il', 'Napoléon', 'Elle', 'On', 'Louis']	Georges	[MASK] avait rassemblé son conseil de guerre, pour s’éclairer des idées de chacun sur le doute où il était de l’endroit où pouvait s’être embusquée la cavalerie ennemie, et leur demander s’ils ne pensaient pas qu’on dût s’attendre à une charge désespérée de sa part pour reprendre ses prisonniers.
+
+['monsieur', 'là', 'Monsieur', 'vous', 'moi']	Coquelicot	; vous m’entendez, [MASK], exactement ? du reste, vous me les rapporterez une fois garnis, pour que j’en juge par moi-même. » Une ancienne habitude faisait que le général aimait assez à voir les choses par lui-même.
+
+['</s>NOTUSED', '—', '»', '–', 'Vous']	LOUIS	— Silence ! — Je n’aime pas les mutins. Souvenez-vous que les mutins sont la perte des armées, et qu’elles ne se sauvent que par la discipline et l’obéissance. [MASK] (M. Lolo). Qu’est-ce que je disais ?
+
+['le', 'ne', 'se', 'lui', 'Napoléon']	Franck	Jamais casque grec ou romain ne fut porté plus fièrement que [MASK] portait sa vieillerie. Sous cette coiffure aussi antique que majestueuse, et qu’il avait trouvé moyen de faire tenir sur le côté gauche de sa tête par un miracle d’équilibre, sa figure animée et hardie resplendissait de bonheur
+
+['cavalerie', 'César', 'soldats', 'Napoléon', '</s>NOTUSED']	Franck	— L’indécision c’est la pire chose du monde ; avec de l’indécision on n’aboutit qu’à se faire battre par l’ennemi, aussi ne dura-t-elle que peu d’instants dans la troupe de [MASK]. La barrière fut escaladée ;
+
+['</s>NOTUSED', '»', '«', 'Elle', '”']	MARIE	ce n’est pas ça qui m’empêcherait d’y entrer, si je voulais. En attendant, apprenez, mademoiselle, que je ne suis pas un voleur, comme vous aviez envie de le dire, et que vous, vous êtes une pimbêche. [MASK], en sanglots.
+
+['maman', 'papa', 'Maman', 'madame', 'Madame']	Marie	! Vous plaidez aussi bien que votre papa, mais je vous prie de me laisser tranquille. HENRI. Tu as beau dire, tu as eu tort d’abord de prendre des fleurs dans le jardin de [MASK] sans lui en rien dire. Ensuite...
+
+['Il', 'Jésus', 'Louis', 'Joseph', 'Pierre']	Georges	[MASK] le leur rendait bien. Il avait cependant un peu d’amitié de plus encore pour sa sœur Marie. Il disait souvent que, tout jeune qu’il était, il se sentait la force de manger un homme de six pieds, s’il faisait la moindre peine à sa petite Marie.
+
+['Jean', 'Louis', 'Antoine', 'Joseph', 'Albert']	Paul	Il faut se défier de tout dans un poste avancé, car celui qui arrive n’est pas toujours celui que l’on attendait. Aussi Rodolphe et [MASK], armés chacun d’une souche grosse comme la moitié de la tête, crièrent-ils d’une voix forte : «
+
+['chacun', 'tir', 'départ', 'commandement', 'garde']	Rodophe	Si la nuit vient avant que l’ennemi ait paru, il n’y aura qu’une chose à ajouter à la consigne de [MASK] : une fois au faîte du poirier, il devra allumer trois allumettes chimiques en guise de signal.
+
+['tout', 'cela', 'ceci', 'bien', 'mal']	Rodolphe	sans perdre de temps sur le grand poirier qui est près du mur et qui se découpe sur le mur blanc de l’écurie ; la sentinelle du camp, qui devra d’ici avoir la vue constamment fixée sur ce poirier, apercevra [MASK] et devra en avertir immédiatement le général en chef qui avisera.
+
+['Messieurs', 'Monsieur', 'Français', 'Monseigneur', 'Allons']	Robert	[MASK], chargez-vous de ce soin ; vous connaissez les règles établies en pareil cas chez tous les peuples civilisés ? Je vous les rappellerai pourtant succinctement : Vous devez avant tout exiger que le trompette qui a annoncé le parlementaire ne le suive pas jusque dans notre camp ;
+
+['Il', 'Jean', 'Pierre', 'Paul', 'Thomas']	Albert	[MASK] eut beau se débattre, il fut pris ! Seul contre trois, il succomba sous le nombre et eut la douleur de se voir les pieds et les poings liés avec ces mêmes ficelles qu’il avait mises dans ses poches pour en garrotter les autres.
+
+['«', '»', '</s>NOTUSED', '—', 'Oui']	Rodolphe	Il s’a- « git pour toi de tourner l’ennemi sans être aperçu de lui, « et de l’attaquer en queue après avoir anéanti sa réserve. « — Voilà la part que je t’ai faite. Te sens-tu capable de « la prendre ? [MASK], réponds-moi.
+
+['Il', 'Je', 'Elle', 'On', 'Pierre']	Louise	Oh ! c’est affreux ! c’est affreux ! Ils sont tous là à se regarder, et personne ne prend mon parti. (Elle s’en va en mettant son mouchoir sur ses yeux. [MASK] la suit en cherchant à la consoler.) III DÉCLARATION DE GUERRE
+
+['Il', 'Elle', 'II', 'il', 'On']	Franck	? — [MASK] se décida donc à faire un appel à l’énergie de ses troupes et à profiter de l’enthousiasme que leur avait donné la retraite de l’ennemi pour les lancer à sa poursuite et les empêcher de regagner leur camp.
+
+['lui', 'elle', 'eux', 'moi', 'nous']	Albert	le fait est, cap’taine, que votre retour au camp a été si rapide que vous devez avoir besoin de respirer. Respirez, puisque vous voulez respirer. Il tourne le dos à [MASK] et se remet à marcher précipitamment et en frappant la terre de son talon.
+
+['Jeanne', 'famille', 'Voltaire', 'Madame', 'Marie']	Louise	il avait appartenu anciennement aux comtes de Reculot, vieille et noble famille du pays, et qui ont une bien belle devise ; c’est : « Je ne recule que de nom. » La mère de [MASK] avait acheté cette habitation et était venue s’y retirer avec sa fille dont elle faisait elle-même l’éducation.
+
+['Il', 'il', 'Elle', 'qui', '</s>NOTUSED']	Franck	! à moi ! ! ! les lâches sont trois contre un ; à moi ! à moi ! à moi ! » [MASK] était hors d’état, vous le savez, de rien entendre et de porter secours à qui que ce fût ;
+
+['il', 'elle', 'lui', 'Il', 'qui']	Georges	Au moment où il en prenait un morceau, il se sentit frappé de nouveau, mais non plus à la tête cette fois-ci, et malheureusement [MASK] avait un pantalon blanc (les briquettes de tourbe et les pantalons blancs ne sont pas de la même couleur) ;
+
+['cavalerie', 'Napoléon', 'César', 'Mars', 'Marius']	Franck	il faut même avouer qu’elles étaient assez discordantes ; mais dans une armée improviste il n’y faut pas regarder de si près, et les braves soldats peuvent aller bien loin, même avec une mauvaise musique. Georges et son armée imitèrent le mouvement de [MASK].
+
+['Napoléon', 'Staline', 'Hitler', 'la', 'le']	Georges	! cela n’avait encore de précédent dans l’histoire militaire d’aucun peuple. Cependant les pépins commençaient à lui entrer dans la bouche et dans les yeux ; la position n’était plus tolérable. — Il fallait passer par les conditions que lui faisait [MASK].
+
+['Henri', '»', '«', 'Henry', '...']	FRANCK	La première... [MASK], l’interrompant. Et puis la seconde... Merci, monsieur le professeur, monsieur l’avocat ! Vous plaidez aussi bien que votre papa, mais je vous prie de me laisser tranquille. HENRI.
+
+['Pierre', 'Jean', 'Paul', 'Joseph', 'Jacques']	Franck	A l’aide de ma longue-vue... (la longue-vue de [MASK] n’était autre chose qu’un morceau de carton qu’il avait roulé et assujetti avec une ficelle, et qui n’avait de verre à aucun de ses deux bouts.
+
+['munitions', 'blé', 'troupes', 'réfugiés', 'chaux']	Georges	mais il voulut, en passant, se donner le plaisir de débonder le réservoir et d’inonder le camp de [MASK], bien que la nécessité ne s’en fît plus sentir, maintenant que l’ennemi était sur pied et que le combat était engagé à plus de vingt pas de là.
+
+['il', 'elle', 'chacun', 'lui', 'on']	Franck	; mais surtout et avant tout (cela [MASK] le pensait et ne le disait pas), il fallait reprendre la toque bien-aimée. Ils partirent en silence ; ce n’était déjà plus le soir, c’était le commencement de la nuit.
+
+['Gérard', 'Henri', 'Georges', 'Pierre', 'Jean']	Paul	— Pas trop, [MASK], et toi ? — Pas trop, non plus ; merci, Rodolphe. » Et tout en dialoguant ainsi ils se relevaient et se frottaient l’un le bras et l’autre les reins. Comme ils le disaient, ils n’avaient pas grand mal
+
+['Il', 'On', 'Elle', 'Georges', 'Napoléon']	Robert	[MASK] répondit qu’il avait l’ordre de le mener directement à la tente du général en chef Georges qui voulait s’entendre en personne avec le parlementaire, qu’il savait être un officier des plus distingués et dont le mérite lui était très-connu.
+
+['Elle', 'Madame', 'Maman', 'Mademoiselle', 'Marie']	Louise	je n’ai pas besoin de vous. [MASK] gardera son bouquet si elle le veut ; moi, je rentre à la maison, et je vais prier ma mère de faire mettre autour de mon jardin une barrière bien haute et une bonne serrure pour empêcher les pillards d’y entrer.
+
+['on', 'il', 'elle', 'chacun', 'Pierre']	Georges	? Je n’en sais rien ; le fait est qu’elle resta presque entière sur la blessure, et qu’en la ramassant, [MASK] put s’écrier : « Des briquettes, mes amis ! des briquettes de tourbe ! ce ne sont que des briquettes de tourbe !
+
+['—', '</s>NOTUSED', '...', '»', '–']	FRANCK	Ça, nous verrons. [MASK]. C’est bien. — Venez ! suivez-moi ! Quittons cette terre inhospitalière. La guerre est déclarée. (Se retournant du côté du camp ennemi et élevant la voix.) La guerre est déclarée !
+
+['César', 'lui', 'Alexandre', 'Napoléon', 'Louis']	Franck	Il se trouvait donc avoir devant lui [MASK] et son armée et derrière lui le pont rustique, dont il s’était un peu rapproché de manière à pouvoir le passer au besoin et rentrer dans ses anciennes positions, s’il était pressé trop fort par l’ennemi.
+
+['Il', 'Autrement', 'On', 'Cela', 'Ceci']	Franck	Ils doivent en outre ne pas donner inutilement l’alarme, ce qui causerait de fausses alertes, une des pires choses qui puissent arriver dans les postes avancés, parce que cela met tout le monde sur le qui-vive et empêche l’armée de prendre le repos dont elle a besoin. [MASK] dit
+
+['maman', 'papa', 'Henri', 'chéri', 'petite']	Georges	— Voilà encore l’obéissance qui revient. — Dis donc, [MASK], ce n’est pas au collège qu’on t’a appris ce que tu viens de nous raconter. Je l’ai entendu dire plus de cent fois à bon papa quand il causait avec ses anciens camarades.
+
+['Il', 'Guillaume', 'César', 'Alexandre', 'Louis']	Franck	— [MASK], rêvant la vengeance et songeant aux moyens de prendre une revanche éclatante, donna à ses hommes l’ordre de se mettre hors de portée des coups de leurs adversaires et leur permit de prendre quelque repos, ce qui leur était bien nécessaire après une aussi rude affaire.
+
+['le', 'Monsieur', 'Jean', 'la', '</s>NOTUSED']	Franck	eh bien, il ne s’agit que de le sentir toujours sur la même joue, en tenant la tête bien droite ; on est sûr alors de marcher dans la même direction. On avançait donc quand [MASK], qui marchait en tête, fit : oh !
+
+['messieurs', 'monsieur', 'Monsieur', 'madame', 'moi']	Louise	J’irai avec vous ; vous verrez, [MASK], qu’il n’y a pas tant de dégât qu’on veut bien le dire. En cinq minutes je veux qu’on n’y voie plus rien, et que ce soit plus beau qu’avant. Allons, venez-vous
+
+['David', 'le', 'Jean', '</s>NOTUSED', 'Guillaume']	Franck	Pendant quelque temps, la chose resta indécise de savoir qui arriverait à temps, ceux-ci pour passer, ceux-là pour les en empêcher. Puis il arriva que [MASK], ayant voulu couper au court, s’engagea dans une partie de la prairie qui était assez marécageuse
+
+['«', '?', '</s>NOTUSED', '...', '»']	Albert	? — Nous sommes gentils, nous autres, de causer monuments pendant qu’on se massacre là-haut ! courons, courons-y. Il me semble entendre la voix d’[MASK]... Non, je n’entends rien... »
+
+['Il', 'Elle', 'On', 'il', 'Lui']	Albert	force-le à se replier sur sa troupe de soutien. S’il résiste, « écrase-le sous une pluie de mitraille. — Tu as tes pom- « mes de pin ? » [MASK] montra ses pommes de pin. C’était la mitraille demandée.
+
+['Il', 'Elle', 'il', 'On', 'Charles']	Robert	Malgré votre modestie, votre intelligence et votre entente des détails de la guerre me sont trop connues pour que j’insiste davantage sur ce que vous avez à faire en cette occasion. » [MASK] salua profondément le général et partit pour remplir la mission qui lui était confiée.
+
+['</s>NOTUSED', '—', '...', '[...]', '«']	GEORGES	Adieu, mon général ; il ne faut pas parler haut quand on ne veut pas être entendu. Adieu, monsieur l’ambitieux. [MASK]. (Haut.) Attends un peu, gamin ! (A. part.) Heureux enfant ! il n’a pas encore de soucis
+
+['Cela', 'On', 'Il', 'Ca', 'Elle']	Franck	— [MASK] fait bien du bruit. — Nous autres, tâchons de faire beaucoup de besogne, et mettons-nous en état, non seulement de résister aux entreprises que l’ennemi va tenter contre nous, mais encore d’aller l’attaquer jusque dans ses foyers.
+
+['César', 'Napoléon', 'Roland', 'Marius', 'Bonaparte']	Georges	, devait allumer des fagots et fabriquer des sortes de mannequins qui, éclairés par la flamme, seraient aperçus du camp de [MASK] et donneraient à ce dernier le change, en lui faisant croire que ses adversaires étaient décidés à passer la nuit autour de leurs feux de bivac sans rien entreprendre.
+
+['il', 'elle', 'on', 'chacun', 'Il']	Franck	mais, « comme ce n’est que difficile, c’est fait. — Vous pouvez « compter sur moi. » Comme [MASK] savait qu’avant de combattre, il est bon de reprendre respiration, il s’assit et ordonna à sa troupe d’en faire autant.
+
+['Napoléon', 'Churchill', 'Voltaire', 'Hitler', 'Staline']	Paul	» Quoique les interlocuteurs de [MASK] ne crussent qu’à moitié à la réalité des alliés dont il parlait (et ils avaient raison, car il n’en avait pas plus que de beurre en broche, — ou les aurait-il pris ?
+
+['chasse', 'Pâques', 'demain', 'Gascogne', 'France']	Georges	; mais il faut se dépêcher, car déjà la trompette et le tambour appellent chacun à son devoir, et la journée commence. Il ne faut pas vous attendre à trouver le bivac de [MASK] tout à fait pareil à celui dont je viens de vous parler ;
+
+['Napoléon', 'Leclerc', 'Hitler', 'Bonaparte', 'Castelnau']	Robert	Ce discours, fait d’un ton dégagé et parfaitement naturel, fit dresser l’oreille à [MASK]. Il ne voulut pas laisser voir s’il croyait ou s’il ne croyait pas aux renforts reçus par la cavalerie et à la présence plus ou moins probable de jeunes officiers arrivant comme alliés dans le camp ennemi
+
+['Pierrot', 'Charles', 'Monsieur', 'Jean', 'Jules']	Paul	— Campagne à l’eau de rose, pensa [MASK], qui se rappelait la pirouette qu’il avait faite, campagne à l’eau de rose... J’espère, continua-t-il tout haut, que vous avez en effet autre chose pour vivre que le panier que cet imbécile de Coquelicot vous a apporté comme à nous
+
+['lui', 'Pierre', 'Jean', 'Alexandre', 'David']	Georges	Il s’arrêta donc sur le bord où commençait le marécage, dont les grenouilles, peu habituées à tout ce remue-ménage inaccoutumé, faisaient les plus beaux plongeons du monde chaque fois qu’un de nos guerriers passait à quelques pas d’elles. Bien en prit à [MASK] de s’être arrêté à temps.
+
+['Jeanne', 'Marie', 'Louis', 'Jean', 'Pierre']	Louise	Le château où demeurait [MASK] s’appelait Azan ; il avait appartenu anciennement aux comtes de Reculot, vieille et noble famille du pays, et qui ont une bien belle devise ; c’est : « Je ne recule que de nom. »
+
+['Louis', 'Charles', 'Ferdinand', 'Frédéric', 'Léopold']	Franck	Il en était arrivé que, sans être méchants, c’étaient de vrais diables à quatre, et que dans leurs jeux ils avaient l’air de chevaux échappés. L’aîné se nommait [MASK], le second Rodolphe, le troisième Albert.
+
+['Il', 'Napoléon', 'Joseph', 'Charles', 'Alexandre']	Paul	[MASK] se laissa bander les yeux sans hésitation ; il connaissait lui aussi les usages de la guerre, et demanda à être conduit devant le général en chef ou, à son défaut, devant son chef d’état-major général.
+
+['Il', 'Merlin', 'On', 'il', 'Roland']	Franck	Aussi, à peine eut-il dit un mot, qu’on oublia la fatigue et qu’on partit à toute bride et en poussant de grands cris. — [MASK] était superbe avec son oiseau de paradis et brandissant un vieux fourreau d’épée dans lequel il avait fourré une baguette pour qu’il se tînt raide.
+
+['Il', 'Elle', 'qui', 'il', 'Napoléon']	Rodolphe	» [MASK] se campa fièrement devant son frère et lui répondit par cette phrase imitée d’une phrase célèbre et souvent redite : « Général, si c’était impossible, cela se ferait ; mais, « comme ce n’est que difficile, c’est fait.
+
+['Il', 'Napoléon', 'il', 'On', 'Bonaparte']	Paul	» [MASK] redressa fièrement la tête à cette apostrophe véhémente du général ennemi... « Et qu’a donc, dit-il d’une voix haute et claire, qu’a donc notre position de si désespéré qu’il ne nous reste plus qu’à implorer la générosité du vainqueur ?
+
+['lui', 'précaution', 'courage', 'prudence', 'ordre']	Robert	Le général Georges, voulant s’assurer par lui-même des dispositions de l’ennemi après l’échec qu’il venait d’essuyer auprès du pont rustique, partit avec [MASK], traversa le pont au galop et alla pousser une reconnaissance jusqu’en vue de l’ennemi.
+
+['cela', 'Satan', 'lui', 'Joseph', 'Charles']	Franck	Si j’avais su qu’il les eût prises dans ton jardin, je ne les aurais pas acceptées. Veux-tu que je te les rende et que nous allions réparer le désordre que [MASK] à mis dans ton parterre ?
+
+['on', 'il', 'elle', 'Louis', 'chacun']	Georges	.) Aux armes ! aux armes ! aux armes ! IV LES ARMÉES SONT EN PRÉSENCE Le long de la rampe en pente douce qui du château descendait jusqu’à la rivière, [MASK] vit l’ennemi qui s’avançait en bon ordre. Sa marche était rapide ;
+
+['Ce', 'Il', 'Cela', 'Elle', 'Tout']	Georges	— [MASK] fut magnifique : il vida ses poches et distribua tout ce qu’il avait à ses soldats, accompagnant chaque distribution d’un mot affable qui s’appliquait à ce que chacun avait fait de beau dans le combat.
+
+['Il', 'Napoléon', 'Bonaparte', 'Alexandre', 'Frédéric']	Franck	[MASK] étouffait ; il se demandait sérieusement si ses ennemis seraient assez cruels pour le laisser mourir d’une mort aussi étrange que douloureuse. Un général périr dans l’intérieur d’une citrouille ! cela n’avait encore de précédent dans l’histoire militaire d’aucun peuple.
+
+['juste', 'précisément', 'seulement', 'directement', 'exactement']	Georges	Cette briquette était-elle moins sèche que les autres ; conservait-elle un peu plus de son humidité primitive, ou avait-elle frappé [MASK] à un endroit où elle ne pouvait pas se casser et tomber en poudre ? Je n’en sais rien ;
+
+['lui', 'eux', 'David', 'Alexandre', 'Pierre']	Rodolphe	Comme les autres il plia, il est vrai, devant la furia de la charge menée si rondement par [MASK] ; mais ce fut pour se jeter de côté, s’embusquer derrière une broussaille et voir rapidement ce qu’il avait à faire au milieu de la consternation qui s’était emparée des siens.
+
+['Ah', 'Oh', 'Eh', 'Hélas', 'Allons']	Rodolphe	« [MASK] ! remercie nos bons amis du secours qu’ils étaient disposés à nous donner ; un traité vient d’être signé. Ils peuvent retourner dans leurs foyers. Renvoie nos alliés, tous nos alliés ! Viens nous rejoindre et prendre toi-même connaissance de nos conventions réciproques.
+
+['Napoléon', 'Bonaparte', 'Leclerc', 'Gambetta', 'Castelnau']	Georges	Je disais qu’un soldat doit savoir supporter les privations ; mais je dis aussi que le devoir d’un général est de l’y exposer le moins souvent possible, et que [MASK] avait eu raison en faisant comprendre aux siens qu’il s’occupait sérieusement de l’article : vivres et subsistances militaires.
+
+['colonel', 'capitaine', 'général', 'commandant', 'monsieur']	Franck	ils n’auront plus de secours « a attendre que de notre clémence et de notre générosité. « Adieu, mes amis. — Adieu, général. — Adieu, [MASK], adieu, notre ami, notre chef, ou plutôt au revoir, à tout à l’heure.
+
+['Elle', 'Il', 'Madeleine', 'Marie', 'elle']	Coquelicot	XIII MARCHE DE NUIT [MASK] avait un nez, c’est la seule chose dont je ne vous aie pas parlé en esquissant son charmant portrait, un nez fin et subtil qui aspirait avec plaisir l’odeur qui sortait de chaque panier.
+
+['Il', 'il', 'Louis', 'Antoine', 'Charles']	Franck	[MASK] ne pouvait se consoler de la perte de sa toqué ; il roulait dans sa tête de terribles projets. Le fer, le feu, ne lui semblaient plus des agents de destruction suffisants pour anéantir ceux qui lui avaient ravi son trésor ;
+
+['on', 'il', 'chacun', 'elle', 'Napoléon']	Georges	Sans lui il eût été impossible, car vous m’accorderez bien qu’on ne peut guère former un carré à trois et que le moins qu’on puisse être, c’est quatre pour former un bataillon carré. IX FORTIFICATIONS PASSAGÈRES Une fois le carré formé, [MASK] se sentit tranquille
+
+['camarade', 'capitaine', 'ennemi', 'vainqueur', 'soldat']	Georges	» Puis, étendant le bras dans la direction de l’ennemi : « A toi, [MASK], la première partie, mais à moi la revanche ! ! !��» Sans enthousiasme on ne peut rien faire de beau ni de bon, à la guerre surtout
+
+['Il', 'On', 'Et', 'II', 'Elle']	Coquelicot	? du reste, vous me les rapporterez une fois garnis, pour que j’en juge par moi-même. » Une ancienne habitude faisait que le général aimait assez à voir les choses par lui-même. [MASK] revint avec les deux paniers.
+
+['Napoléon', 'ici', 'Wagner', 'Bonaparte', 'Nelson']	Rodolphe	Vous dire que les fanfares que joua [MASK] étaient superbes serait mentir ; il faut même avouer qu’elles étaient assez discordantes ; mais dans une armée improviste il n’y faut pas regarder de si près, et les braves soldats peuvent aller bien loin, même avec une mauvaise musique
+
+['Napoléon', 'Condé', 'César', 'Bonaparte', 'terre']	Franck	Les briquettes de tourbe sont encore assez lourdes et assez embarrassantes à porter. Aussi l’armée de [MASK] n’en avait qu’une bien petite provision. — Il est vrai qu’elle avait suffi pour forcer l’ennemi, sinon à la fuite, du moins à une retraite assez rapide.
+
+['Il', 'On', 'il', 'II', 'Chacun']	Paul	— Quand il fut sur la limite extrême du camp, d’où il pouvait facilement distinguer le parlementaire, il lui cria de planter son drapeau en terre en signe que les conférences allaient s’ouvrir et de s’avancer, mais de s’avancer seul. [MASK] s’avança seul, et sans crainte
+
+['je', 'chacun', 'lui', 'Pierre', 'Louis']	Rodolphe	; il sera là comme dans un observatoire et lui-même à l’abri de tout regard. Si l’ennemi se présente, que [MASK] grimpe sans perdre de temps sur le grand poirier qui est près du mur et qui se découpe sur le mur blanc de l’écurie ;
+
+['il', 'Il', 'on', 'Pierre', 'Dieu']	Franck	Une idée rapide comme un éclair l’illumina soudain : [MASK] est à la perche ou il n’est nulle part ; il veut ravoir sa toque. Eh bien ! nous verrons ! et il bondit comme un chevreuil de ce côté. Il était temps ;
+

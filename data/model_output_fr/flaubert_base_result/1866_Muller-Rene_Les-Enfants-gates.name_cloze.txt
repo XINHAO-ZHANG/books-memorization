@@ -1,0 +1,200 @@
+[',', 'qui', 'il', '"', 'elle']	Régine	[MASK] la regardait faire et ne pouvait assez s’étonner de ce que les jolies mains de sa compagne fussent si habiles à de vulgaires travaux. — Qui donc t’a appris toutes ces choses ? lui demanda-t-elle, après avoir avoué son ignorance.
+
+['on', 'elle', 'il', 'maman', 'dieu']	Marguerite	Hein ! veux-tu ? — Oh ! non, je ne veux pas. Qu’est-ce que dirait maman ? — Ta maman n’en saura rien ; nous reviendrons de bonne heure. — Mais [MASK] le lui dira. — Elle n’osera pas.
+
+['toi-même', "l'", 'les', 'le', 'la']	Victor	L’instruction ne nuit jamais à l’homme, quel que soit l’état qu’il embrasse ; et, quand cela ne serait pas, je te conseillerais encore de faire étudier [MASK], ne fût-ce que pour l’habituer de bonne heure à bien employer son temps.
+
+['john', 'tom', 'robert', 'jacques', 'joe']	Cécile	— Et tout ce que tu nous conseilleras, nous le ferons, ajouta [MASK]. Tu nous aimes tant, bonne mère, que, pour rien au monde, nous ne voudrions le désobéir. — Vous savez d’ailleurs que l’enfant qui manque de respect et de soumission à ses parents offense Dieu.
+
+['il', '</s>', 'elle', 'chacun', 'celui-ci']	Adrien	; mais ils s’aimaient malgré cela et s’entendaient à merveille dès que l’un des deux avait seulement fait mine de vouloir céder à l’autre. [MASK] s’amusait donc beaucoup avec son ami Victor et ne le voyait jamais autant qu’il l’eût voulu.
+
+['elle', 'il', 'maman', 'je', 'jean']	Adrien	— Je t’assure, maman, dit [MASK], que je ne pensais pas du tout à sortir pour te faire de la peine ; au contraire, j’étais bien fâché d’avoir été paresseux et désobéissant, et je me promettais d’être plus sage ;
+
+['elle', 'marie', 'sophie', 'jeanne', 'charlotte']	Cécile	Quant à [MASK], elle se trouvait trop bien entre sa mère et son frère pour penser à qui que ce fût. Il est certain, d’ailleurs, que les petites filles sont plus raisonnables que les petits garçons ; cela tient peut-être à ce qu’elles sont plus tôt en état de se rendre utiles.
+
+['il', '.il', '--il', 'homme', ',']	Victor	[MASK] avait une blouse de velours noir, des manchettes et un col richement brodés. Il entra dans la salle à manger, tout blanc de poussière ; il s’était roulé à terre et frotté contre la muraille. — Comme te voila malpropre, vilain enfant !
+
+['elle', 'le', 'en', 'la', 'il']	Hélène	[MASK] fait tout de même quand on lui dit quelque chose qui lui déplaît ; elle dit qu’elle est trop grande pour qu’on la conduise par le bout du nez. Quand maman est de bonne humeur, elle rit de nos réponses ;
+
+['chateaubriand', 'maurice', 'celui-ci', 'laure', 'pascal']	Victor	— Tu vois bien, lui dit un jour [MASK], qu’il n’y a rien de si aisé que de vivre à sa guise ; il suffit de faire peur à sa maman ou de l’ennuyer par ses cris, quand on est mis en pénitence.
+
+['il', '-', 'elle', '</s>', '"']	Auguste	Il avait les yeux rouges, hier, quand il est revenu du parloir. [MASK] les regarda d’un air superbe. — Je savais bien que vous vous moqueriez de moi, leur dit-il, vous ne savez rien faire de mieux ; mais je me moque de vous aussi.
+
+['jésus', 'dieu', 'marie', 'pierre', 'joseph']	Cécile	; elle languit encore quelques semaines, puis elle mourut, en disant à [MASK] : — Si Dieu te donne des enfants, tu leur conteras mon histoire, afin qu’ils sachent bien que tu les corriges parce que tu les aimes. FIN.
+
+['plus', 'de', ',', 'tant', 'beaucoup']	Auguste	ils ne lui donneront plus d’inquiétude, à présent qu’ils savent ce qu’il faut faire pour le contenter. Elle combla [MASK] de caresses et de chatteries ; il en fut touché, et, avant de partir, il alla l’embrasser et lui dit
+
+["c'", 'papa', 'maman', 'tout', 'monsieur']	Charles	Je m’ennuie tous les jours depuis que [MASK] est parti, depuis que je ne veux plus rien faire, et si je savais, je me remettrais à travailler. Puisqu’il peut gagner son jour de congé, je le pourrais bien aussi. Ah !
+
+['il', 'en', 'on', 'lui-même', 'y']	Auguste	Au bout de quelques instants, il l’appela à haute voix et [MASK] entendit la porte se refermer, sans que son oncle eût daigné venir le voir ou lui adresser la parole. — Personne ne m’aime ! dit-il en pleurant plus amèrement que la première fois, je suis bien malheureux !
+
+['robert', 'john', 'tom', 'alice', 'paul']	Adrien	Vous ne m’avez peut-être pas toujours crue quand je vous ai dit que les enfants ne sont aimables qu’autant qu’ils sont dociles, aujourd’hui vous en avez la preuve. — Aussi tout ce que tu nous diras, nous le croirons, répondit [MASK].
+
+['robert', 'paul', 'jacques', 'john', 'tom']	Adrien	Quand elle est tout à fait fâchée, elle nous menace de nous punir, le soir ou le lendemain, et cinq minutes après elle a tout oublié. Pourquoi donc ne ferais-tu pas comme nous ? — Je n’oserais jamais, répondit [MASK].
+
+['qui', 'elle', 'celle-ci', 'chacune', 'elle-même']	Cécile	; elle s’occupait uniquement à examiner et à critiquer la toilette des dames qui passaient auprès d’elle, et [MASK], de son côté, goûtait peu ce genre de distraction. Elle aimait les belles robes, les jolis chapeaux ;
+
+['ne', 'elle', ',', 'qui', "n'"]	Régine	Toute autre que [MASK] se fût peut-être beau-ennuyée, mais elle avait un heureux caractère et elle aimait l’étude par-dessus toutes choses. Donc, avec ses livres, son piano, ses pinceaux, elle pouvait hardiment défier l’ennui.
+
+['"', 'toujours', 'tout', 'autrui', 'soi-même']	Victor	— C’est précisément le reproche que je faisais à votre mère un instant avant votre arrivée. Savez-vous ce qu’elle m’a dit ? Qu’elle n’avait pas le courage de gronder et de punir, comme il faudrait le faire sans cesse pour corriger [MASK].
+
+['chacun', 'celui-ci', 'lui-même', 'lui', 'il']	Charles	Malgré toute l’impatience que [MASK] éprouvait de voir arriver enfin son jour de congé, le lundi, le mardi et le mercredi ne lui parurent pas trop longs et se passèrent sans accident. La nuit du mercredi au jeudi fut remplie par les plus beaux rêves.
+
+['dit-il', 'ami', 'lecteur', 'socrate', 'moi']	Régine	Tu vois bien, [MASK], qu’il n’y a pas besoin d’avoir quinze ans pour reconnaître une faute et la réparer. — Donne-moi donc un moyen de me faire écouter. Je l’emploierai, je te le promets.
+
+['je', 'il', 'qui', '--je', '.je']	Charles	[MASK] n’aime pas la promenade, ni les dîners de famille, ni les soirées de prestidigitation. — Oh ! pardonnez-moi, mon oncle, j’aime tout cela, dit l’enfant, qui avait le cœur bien gros.
+
+['jacques', 'paul', 'julien', 'maurice', 'jean']	Auguste	— Elle nous a aussi recommandé d’être bien sages, de bien écouter ce qu’il nous dirait et de tout faire pour le contenter. T’en souviens-tu ? — Je m’en souviens, dit [MASK] devenu pensif. Mais c’est qu’il paraît bien sévère, mon oncle.
+
+['cela', 'demain', 'ceci', 'ça', 'pierre']	Victor	— Quand je verrai [MASK], je lui conseillerai un peu plus de sagesse. —Tu feras bien, mon ami ; mais je doute qu’il accueille tes conseils et surtout qu’il les suive. — Tu ne me défends donc pas de le revoir ?
+
+[',', ';', '...', '.', ':']	Victor	— Oui, je sais qu’il y en a, dit négligemment [MASK]. Ma foi ! je ne sais comment ils font. J’avais à peine assez pour mes gants et mes cigares. Mais je vous retiens, n’est-ce pas ?
+
+['lui', 'celui-ci', 'leur', 'cela', 'il']	Charles	La bonne volonté que [MASK] témoignait réjouissait le colonel ; il chercha à le fortifier et à persuader à l’enfant que, plus il serait studieux et docile, plus il serait heureux. Il lui rappela tout ce que sa conduite passée lui avait attiré d’ennuis, de privations, de désagréments de toutes sortes.
+
+['je', 'lui-même', 'celui-ci', '</s>', 'napoléon']	Charles	; mais, malgré la bonté avec laquelle le colonel parlait, sa figure avait quelque chose de si grave, de si sévère, que [MASK] n’osa pas commencer la phrase qu’il tournait et retournait dans sa pensée. Il fit bien de ne rien dire ;
+
+['il', 'elle', 'on', 'julien', 'georges']	Adrien	Pourtant, après avoir examiné les jouets dont on avait comblé le capricieux fils du millionnaire, après avoir fait dix fois l’exercice avec ce joli fusil, qui faisait de la flamme et du bruit, [MASK] pensa qu’il était temps pour lui de retourner à sa leçon.
+
+["l'", 'mon', 'un', 'chaque', 'cet']	Adrien	— Tu ne le savais pas ? — Je viens de faire une course indispensable et, avant de rentrer chez moi, où j’ai laissé [MASK] étudiant près de sa sœur, j’ai voulu venir m’informer de ta santé.
+
+['moi', 'elle', 'vous', 'nous', 'lui']	Cécile	— Elle a conservé le même appartement et le partage avec [MASK]. J’ai une petite chambre près de mon atelier. — En ce cas, je n’irai pas chez toi ; je n’ai jamais eu de goût pour les remontrances, et je les aime moins que jamais.
+
+['lui', 'moi', 'celui', 'celui-là', 'toi']	Victor	au contraire, j’étais bien fâché d’avoir été paresseux et désobéissant, et je me promettais d’être plus sage ; c’est [MASK] qui est entré pendant que la bonne n’était pas là, et qui m’a engagé à venir voir son beau cheval...
+
+['!', '.', ':', '"', ',']	Régine	— Allons ! dit [MASK]. Mais si tes enfants s’éveillent ? —Ils se rendormiront, en m’attendant. D’ailleurs, nons ne serons qu’un instant. — Ils se rendormiront, dis-tu ? Je crois plutôt qu’ils feront tapage.
+
+['il', 'elle', 'qui', 'jésus', "l'"]	Adrien	elle n’avait plus la force de marcher ni de parler. Quand elle revint à elle, [MASK] était à ses genoux et couvrait ses mains de larmes. Elle l’embrassa en pleurant. Elle était si heureuse de le retrouver, qu’elle ne songeait plus à sa faute
+
+['et', ',', 'avec', 'comme', 'dans']	Victor	— Ce n’est pas de celui-là que je parle, fit dédaigneusement [MASK]. — Duquel donc ? — D’un cheval qui marche, qui court, qui mange du foin et de l’avoine, d’un vrai cheval, enfin. — Où est-il donc
+
+['marguerite', 'alice', 'catherine', 'madame', 'elle']	Régine	plus tu seras faible pour elle, plus elle se fera un devoir de se montrer raisonnable. — Il est certain qu’elle est beaucoup moins étourdie que son frère, dit [MASK]. Si elle lui ressemblait, je serais fort embarrassée.
+
+['un', 'au', 'le', 'de', 'est']	Charles	[MASK] parti, il ne s’occupa pas plus de ses thèmes et de ses versions que s’il eut été à la campagne, au lieu d’être au collège, et il ne se donna plus la peine d’ouvrir un livre.
+
+['il', 'et', 'qui', 'père', ',']	Adrien	[MASK] n’avait de goût bien prononcé que pour le dessin ; mais sa mère tenait à ce qu’il fît de bonnes études, car elle savait que le nombre des véritables artistes est petit, et elle voulait lui ménager des ressources au cas où il ne serait qu’un peintre médiocre.
+
+['</s>', '-', 'celui-ci', 'lui-même', 'lui']	Adrien	— Tu vois bien que j’ai raison de dire que tu n’es qu’un poltron. [MASK], blessé par cette injure, se défendit de la mériter ; elle lui resta sur le cœur, et il se promit de prouver à son ami qu’il était aussi courageux et aussi hardi que lui.
+
+['le', '.', 'la', 'jean', "l'"]	Cécile	— Tu ferais mieux de l’attendre, lui répondit doucement [MASK]. — Elle ne nous a pas défendu de sortir, répliqua son frère. D’ailleurs, je ne serai qu’une minute. Une minute est un siècle pour l’homme qui souffre ou qui attend ;
+
+['à', 'pour', 'par', 'que', 'après']	Adrien	Tiens, justement, le voilà qui monte. [MASK], s’écria-t-il, en s’élançant à sa rencontre, tu ne sais pas, j’ai un cheval ! — Mais si, je le sais bien, dit
+
+[',', 'que', '6', 'et', "qu'"]	Coco	— Ce sera donc pour la semaine prochaine. Nous tâcherons de passer la journée agréablement, Aimes-tu toujours les chevaux ? — Il y en a dans presque toutes mes toiles. — J’en ai de magnifiques. — Ils me serviront d’études. Qu’est devenu [MASK]
+
+['</s>', '-', '"', '...', 'elle']	Adrien	— Qui te l’a dit, chère enfant ? — Il y avait longtemps, longtemps que j’étais couchée. Je me suis éveillée par hasard et je t’ai vue. [MASK] a raison, maman, je suis déjà grande, et je pourrais bien t’aider à quelque chose.
+
+['</s>', ',', 'de', '"', 'et']	Adrien	Ce n’est pas quand on a passé ses plus belles années dans l’oisiveté, le luxe et le plaisir, qu’on peut se soumettre aux exigences d’une vie simple et laborieuse. — Mais, ma mère, quand la nécessité l’ordonne ? dit [MASK].
+
+['dit-il', 'dit-elle', 'dis-je', 'le', 'la']	Régine	Elles pleurèrent en s’embrassant, de joie peut-être, elles étaient si heureuses de se revoir, de douleur assurément, car elles pensaient aux chagrins qui les avaient frappées depuis leur séparation. — Suis-je donc chez toi ? demanda [MASK], dès que cette effusion de larmes fut passée.
+
+['</s>', '-', '"', '_', '...']	Cécile	— Le plus sérieusement du monde, je t’assure. [MASK] n’est-elle pas douce, docile, aimante, studieuse, et beaucoup plus raisonnable qu’on ne l’est ordinairement à son âge. — Je ne me plains pas d’elle sous ce rapport ;
+
+['tout', 'congé', 'courage', 'place', 'haleine']	Auguste	Il y avait déjà longtemps que cela durait, quand, un jour qu’elle attendait du monde à dîner et qu’elle était sortie pour mettre le couvert, elle surprit [MASK], tenant d’une main le couvercle d’un plat et puisant de l’autre dans la poivrière.
+
+['il', 'on', 'elle', 'lui-même', 'dieu']	Victoire	Il lui avait d’abord donné ce titre de temps en temps, pour se procurer à lui-même le plaisir de la voir se redresser et rougir d’orgueil ; mais à la suite d’une maladie grave, pendant laquelle [MASK] le soigna avec un dévouement quasi-maternel, il se fût reproché de lui refuser cette petite satisfaction.
+
+['monsieur', 'père', 'seigneur', 'madame', 'maman']	Régine	mais d’aujourd’hui, je l’espère, ils sont finis. — Ils ne finiront qu’avec ma vie. — Douterais-tu de la bonté de Dieu, [MASK] ? — Le pourrais-je, puisqu’ils nous a réunies ? Mais je crois aussi à sa justice.
+
+['raison', 'et', 'amour', ',', 'bonté']	Adrien	pourtant je redeviens enfant avec [MASK], quand il l’a mérité, et je ne suis pas la seule mère qui se fasse un devoir d’oublier, par instants, son âge et ses chagrins. Les petites filles qui veulent qu’on les prenne pour des personnages se croiraient déshonorées si on les voyait jouer
+
+['il', ',', 'homme', 'lui', '"']	Adrien	[MASK] n’avait pas changé de vocation, et, grâce à son amour pour le travail, il avait pu, sans négliger ses études, s’occuper de l’art vers lequel il se sentait appelé. En quittant le collége, il s’était fait admettre dans l’atelier d’un de nos meilleurs peintres ;
+
+['</s>', 'elle', 'madame', 'lui', 'puis']	Victor	Elle vint encore une fois s’assurer de ce qu’il faisait, puis elle sortit sans fermer la porte à la clef. [MASK], qui était aux aguets depuis le matin, ne l’eut pas plus tôt aperçue dans la rue qu’il descendit.
+
+['</s>', 'chacun', 'lui', '"', 'qui']	Charles	; quand on veut avoir le plaisir de passer une journée en famille, il faut prouver à ses parents qu’on les aime, et on le leur prouve par sa docilité. [MASK], tout confus, baissait la tête.
+
+['</s>', 'il', 'chacun', 'le', 'et']	Charles	Ils allaient, causant comme deux bons amis, et s’arrêtant tantôt à droite, tantôt à gauche, pour examiner l’étalage des magasins. [MASK] trouvait tout si beau, qu’il croyait le voir pour la première fois !
+
+['dis-je', 'moi', 'ami', 'dit-il', 'mon']	Régine	Est-ce qu’elles ne sont pas réciproquement assurées de leur idulgence comme de leur tendresse ? C’est moi, [MASK], qui devrais t’en vouloir à cette heure, car tu viens de méconnaître l’affection la plus sincère et la plus profonde ;
+
+['il', 'elle', 'on', 'dieu', 'chacun']	Adrien	Il murmura donc un peu, mais il n’essaya pas de la faire changer de résolution ; et comme le professeur était un jeune homme très-doux et aimant beaucoup les enfants, [MASK] s’attacha beaucoup à lui et devint attentif pour le contenter.
+
+['je', 'dieu', 'celui-ci', 'celle-ci', 'julien']	Cécile	La brave fille était devenue vieille, mais elle était forte et courageuse. Ses jours de fête étaient encore ceux où les deux familles se réunissaient ; seulement elle acceptait, pour mille petits détails, l’aide que [MASK] lui offrait de la meilleure grâce du monde.
+
+['toi', 'lui', 'vous', 'moi', 'eux']	Victor	Je compte bien passer quelques bonnes journées avec [MASK] et revenir plus joyeusement que jamais à mon cher atelier. — Je me méfie un peu plus de moi-même et j’opte pour le parti le plus sûr : je n’affronterai pas un danger dont je craindrais de ne pas triompher.
+
+['je', 'rousseau', 'dieu', 'celui-là', 'socrate']	Victor	; mais je ne pense pas, comme toi, que [MASK] doive rester ignorant, parce qu’il ne sera ni médecin, ni avocat, ni professeur. L’instruction ne nuit jamais à l’homme, quel que soit l’état qu’il embrasse ;
+
+['cheval', 'demain', 'midi', 'la', 'moi']	Adrien	on a de beaux habits, des chevaux, des voitures, et l’on n’a pas besoin de travailler ! — Dis donc aussi, mon enfant, que, quand on est riche, on a le bonheur de pouvoir donner aux pauvres. — Comme je vais donner mon cheval à [MASK].
+
+['va', 'non', 'ami', 'toi', 'moi']	Régine	; tu devrais plutôt, il me semble, t’en réjouir avec moi. Va, [MASK], il n’y a rien d’humiliant à gagner sa vie ; moi, je m’en fais une gloire et un bonheur, un bonheur surtout.
+
+['jeanne', 'valentine', 'thérèse', 'marie', 'marguerite']	Régine	Pleurez avec ceux qui pleurent, dit le sublime précepte de la charité chrétienne. Aucun raisonnement n’eût été plus efficace que ces pieuses larmes d’une amie ; elles calmèrent peu à peu l’exaltation de [MASK], dont un sommeil bienfaisant vint ensuite visiter le chevet.
+
+['</s>', '"', "c'", 'il', '_']	Auguste	Les journées sont fort longues, quand on ne fait rien, qu’on n’a pas la satisfaction de lutter contre l’ordre établi, et se donner en spectacle à ses camarades. [MASK] était paresseux, il est vrai, mais il était surtout vaniteux et taquin ;
+
+['on', 'il', 'elle', 'dieu', 'tu']	Adrien	lui dit sa mère. Est-ce qu’on joue ainsi quand on a des vêtements propres ! — Tiens ! est-ce ma faute si je me suis sali ? Pourquoi n’y a-t-il pas de tapis dans la chambre où [MASK] m’a conduit ?
+
+['que', ',', 'de', "qu'", 'ajouté']	Charles	— Il nous prend pour des gamins, ajouta [MASK]. — Mais je lui ferai bien voir qu’il se trompe. — Moi, d’abord, je veux faire ici comme chez nous, puisqu’il a dit que sa maison serait la nôtre. — Il l’a dit
+
+['jacques', 'albert', 'il', 'paul', 'georges']	Elise	Ta pauvreté serait pour moi de l’opulence. — Est-il possible ? — Rassure-toi, dit [MASK] en souriant. Je n’ai jamais été millionnaire ; aussi je ne souffre pas de ma médiocrité. Mes désirs sont bornés comme mes revenus ;
+
+['elle', 'il', 'elle-même', 'on', 'jeanne']	Adrien	et comme elle n’avait pas joué, son petit trésor était demeuré intact. Elle n’avait pas eu grand mérite à ne pas jouer, sans doute, mais elle avait surmonté des tentations tout aussi vives que celle à laquelle [MASK] avait succombé.
+
+['m', 'dieu', 'toi', 'ce', 'madame']	Victor	— C’est la mère de la sûreté. — Je ne puis pourtant pas manquer de parole à [MASK]. Je suis persuadé qu’il va m’attendre tous les jours. — Moi, j’en doute. Ces messieurs ont tant à faire.
+
+['il', 'et', ',', 'on', 'mais']	Charles	[MASK] ne se souvenait pas d’avoir jamais été si heureux. Il lui semblait que tout le monde le regardait passer et applaudissait à sa bonne conduite Il n’avait plus peur de parler à son oncle, et il ne lui trouvait plus du tout l’air sévère.
+
+['moi', 'toi', 'vous', 'lui', 'moi-même']	Adrien	une demoiselle trouve toujours à s’occuper ; ce n’est pas comme un garçon. — Ce que les garçons savent le mieux faire, c’est de tout mettre en désordre. Je parle pour [MASK]. — On en peut dire au moins autant de mon frère ;
+
+['on', 'il', 'elle', 'allah', 'je']	Auguste	— Non, dit le colonel, je t’ai promis ce spectacle pour aujourd’hui, je veux que tu en jouisses. Mais qu’[MASK] suive ton exemple et, quand vous sortirez ensemble, je trouverai bien quelque autre distraction à vous procurer.
+
+["c'", 'jules', 'joe', 'maurice', 'celui-là']	Victor	Je veux bien avouer avec toi que [MASK] est un enfant gâté, je te l’ai dit le jour même de mon arrivée ; mais je ne puis m’inquiéter de ce qu’il fera plus tard. Il est assez intelligent pour changer complétement de conduite quand il saura mieux apprécier toutes choses.
+
+['</s>', 'il', 'elle', 'qui', '.']	Victor	eux, c’est-à-dire, [MASK] a pris sa part du bien de son oncle, et il m’a quittée pour la manger en liberté. Ses sœurs aimaient le monde ; la moitié de l’héritage a servi à payer des fêtes magnifiques qu’elles ont voulu donner
+
+['davantage', 'durement', 'autrui', 'injustement', 'lui-même']	Adrien	; elle n’eût pas voulu faire gronder ou punir [MASK] ; elle prenait, au contraire, sa défense, en toutes rencontres, avec plus d’ardeur que jamais, et elle mettait tous ses soins à cacher ce qu’il pouvait avoir fait de mal.
+
+['et', 'de', '(', ',', 'je']	Régine	— Le produit de ton travail ? demanda [MASK]. — Sans doute. Mais, j’y pense, je ne t’ai pas encore dit que j’ai trouvé à utiliser l’un de mes rares talents. — Tu es peintre. — Hélas !
+
+['personne', 'femme', 'trésor', 'livre', 'riche']	Crésus	? Quant à moi, je suis très-fière de savoir gagner ma vie, et il n’y a pas de [MASK] qui contemple ses trésors avec plus d’orgueil et d’amour que je ne regarde, moi, chaque semaine, le produit de mon travail.
+
+['et', 'par', 'plus', 'point', 'absolument']	Régine	— Moi je n’en conviendrais peut-être pas si nous n’étions deux vraies amies ; mais entre nous la franchise doit toujours régner ; et je te le dis, [MASK], je crains que tes enfants ne te causent, un jour, des chagrins, si tu continues de les élever avec autant de faiblesse
+
+['tom', 'john', 'harry', 'alice', 'jacques']	Adrien	— Je le serai, répondit [MASK] ; vous pouvez compter sur moi. Il faut peu se fier aux promesses des enfants ; ils les font souvent sans savoir à quoi ils s’engagent, et plus souvent encore ils oublient aussitôt ce qu’ils ont promis.
+
+['monsieur', 'moi', 'madame', 'dit-il', 'messieurs']	Charles	; aimez-vous beaucoup et ne vous quittez jamais ; mais au lieu de vous animer au bien, comme vous devriez le faire, vous vous entraînez réciproquement au mal ; il est donc nécessaire que vous soyez séparés. Venez donc, [MASK], je vous attends.
+
+['le', 'jean', 'marguerite', 'henri', 'georges']	Charles	— La nôtre nous gronde de temps en temps, et elle dit que c’est parce qu’elle nous aime bien. — C’est drôle, dit [MASK]. Il me semble que quand on aime ses enfants, on ne devrait jamais leur faire de peine.
+
+['moi', 'me', 'toi', 'je', 'mes']	Régine	Tu n’as plus qu’eux, [MASK], et je sais que si les miens ne me consolaient pas, je serais bien à plaindre. — Je trouve que tu les élèves très bien, je suis sûre qu’ils te donneront, un jour, beaucoup de satisfaction
+
+['-', '</s>', 'il', '--il', '"']	Adrien	— C’est par amitié pour moi, pensa-t-il, qu’il m’a parlé comme cela ; je ne dois pas lui en vouloir. [MASK] se trompait : la véritable amitié ne donne jamais que de bons conseils.
+
+['possible', 'lui', 'lui-même', 'moi', 'nécessaire']	Victor	Il ne remplissait plus son devoir pour obéir au bon Dieu et pour plaire à sa mère, mais seuiement pour échapper à une punition qu’il redoutait ; il était en bon chemin pour devenir bientôt aussi indocile que [MASK].
+
+['toi', 'lui', 'vous', 'moi', 'elle']	Victor	mais il m’a retenu. — Ainsi c’est [MASK] que je dois gronder ? — Oh ! non, maman, c’est moi. Je vois bien que j’aurais dû attendre ta permission pour venir jouer avec lui ; mais cela ne m’arrivera plus.
+
+['la', 'madame', 'marguerite', 'mademoiselle', 'mme']	Régine	Et, comme le moment lui semblait mal choisi pour entamer une discussion sur l’éducation, elle serra, pour toute réponse, la main de [MASK], et s’occupa avec elle de l’arrangement du mobilier que l’on achevait d’apporter.
+
+['on', 'il', '-il', 'paul', 'luther']	Adrien	— Vous savez d’ailleurs que l’enfant qui manque de respect et de soumission à ses parents offense Dieu. — Dieu, qui est notre père, qui nous voit, nous entend, et qui nous bénira, si nous remplissons bien nos devoirs, dit [MASK].
+
+['il', 'et', ',', 'on', 'soir']	Adrien	[MASK] se trouva très-heureux d’en être quitte pour si peu de chose, il travailla de son mieux jusqu’au jeudi et il en jouit comme d’habitude. Mais, ce congé passé, il se relâcha, en se disant qu’il serait temps d’être sage quand l’autre arriverait.
+
+['non', 'mais', 'si', 'oui', 'maintenant']	Victor	; c’est pourquoi il faut vous hâter d’obéir à votre maman. — Non, je veux dîner tout de suite, on me déshabillera plus tard. — [MASK], tu n’es pas sage. Monte bien vite, ou je ne serai pas contente.
+
+['elle', '</s>', 'et', 'il', 'jeanne']	Cécile	car elle rougit, et cacha sa tête dans ses mains, le long desquelles coulèrent des pleurs. [MASK] s’était retirée derrière les rideaux, dès qu’elle l’avait vue s’éveiller. Elle ne voulait pas ajouter par sa présence à la confusion qu’éprouvait la malade.
+
+['chacun', 'elle', 'il', 'chacune', 'on']	Adrien	; quand elle était obligée de punir ses enfants, elle en souffrait autant qu’eux ; mais elle le faisait pour leur bien. Les jours suivants, [MASK] obtint son heure de récréation ; ses devoirs avaient été soignés et ses leçons bien sues ;
+
+['john', 'robert', 'tom', 'jacques', 'harry']	Adrien	— Il y compte, répondit [MASK]. Quand il ne lui restera plus rien, il travaillera. — Voilà comme sont tous ces jeunes fous. Ils se figurent qu’il n’y a qu’à dire : Je vais travailler, pour le pouvoir.
+
+['</s>', '-', '"', '(', '_']	Cécile	Mais, vous avez raison, c’est seulement quand vous serez marié que je pourrai m’en aller en paix, puisque mon mattre n’aura plus besoin de moi. [MASK] sera sa fille. — Ne la suis-je pas déjà depuis longtemps ?
+
+['or', 'été', 'aurore', 'isabelle', 'hiver']	Hélène	— Où faut-il que je me mette, maman ? demanda celui-ci. — Viens ici, mon ami ; tu es trop étourdi pour que je te laisse près de la belle robe d’[MASK]. Nous aurions certainement à déplorer quelque accident.
+
+['robert', 'celui-ci', 'john', 'jacques', 'maurice']	Victoire	Vous n’avez pas été aimables tantôt, priez-là de vous le pardonner, et de vouloir bien remplacer la mère que vous avez perdue. — La paix est faite, répondit [MASK], et ces messieurs peuvent compter que je les servirai du mieux que je pourrai.
+
+['jacques', 'john', 'jeanne', 'catherine', 'alice']	Cécile	—Ce serait nous qui travaillerions pendant que tu dormirais, ajouta [MASK]. Tu as veillé si tard cette nuit... — Qui te l’a dit, chère enfant ? — Il y avait longtemps, longtemps que j’étais couchée. Je me suis éveillée par hasard et je t’ai vue.
+
+['maman', 'papa', 'jean', 'robert', 'sam']	Adrien	— Bah ! laisse tout cela et viens jouer. — Oh ? non, dit [MASK], maman ne serait pas contente. Nous jouerons tantôt, si tu veux. — Tantôt et encore maintenant. Moi, je ne fais que cela du matin au soir.
+
+['</s>', 'elle', 'qui', "qu'", 'il']	Cécile	mais elles n’avaient jamais vu la misère dans toute son horreur. [MASK] en eut le frisson, et, ne pouvant retenir ses larmes, elle laissa sa mère s’approcher seule du grabat jeté dans un soin de cet ignoble réduit. — Ah ! quel bonheur !
+
+['un', 'il', 'une', 'elle', 'on']	Adrien	; je ne dois donc pas permettre qu’[MASK] néglige de s’instruire. Il sera temps plus tard, si ses goûts ne changent pas, qu’il s’applique au dessin et à la peinture. Cela résolu, elle se garda bien d’empêcher l’enfant de barbouiller
+
+['elle', 'il', 'on', 'elle-même', 'thérèse']	Adrien	Trop faible pour assister à la cérémonie nuptiale, elle voulut cependant descendre, le soir, au salon où un petit nombre d’amis intimes étaient réunis. Elle y était à peine depuis un quart d’heure, quand le peintre chez lequel [MASK] avait étudié les principes de son art se fit annoncer.
+
+['"', ')', 'à', '.', 'carlo']	Hélène	Monte [MASK]. — Mon Dieu, maman, c’est inutile ; je ne me salirai pas, tu oublies toujours que je ne suis plus une enfant. — Je sais bien que tu es très-raisonnable ; mais une tache est bientôt faite.
+

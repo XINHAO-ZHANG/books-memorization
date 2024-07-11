@@ -1,0 +1,200 @@
+['il', 'et', 'Il', 'puis', 'elle']	François	?– Oui.[MASK] fit un mouvement de tête accompagné d’un claquement de langue appréciateur.– Je dis qu’il est bien vêtu, répondit-il, et toujours à la plus nouvelle mode, à ce qu’il paraît.– Il ne s’agit pas de son habit !
+
+['dit-il', 'dis-je', 'je', 'lui', 'à']	François	Monsieur le maire, dit-il en faisant un pas en avant, ce jeune homme a quelque chose d’important à nous dire, écoutez-le ; n’est-ce pas, [MASK], que tu apportes quelque chose de nouveau et d’important ?
+
+['le', '-', ',', 'la', 'les']	Guillaume	– Dis donc, la mère, qu’a-t-il ce matin, ton fils ? il me semble tout chose !– Et à moi aussi ! s’écria vivement la bonne femme. Tu devrais le rappeler, vieux !– Bah ! pourquoi faire ? répondit [MASK]
+
+['il', 'je', 'celui-ci', 'tu', 'elle']	François	? En route, gendarmes, en route.– Pardon ! monsieur le maire, dit [MASK], mais j’ai quelque chose à dire contre ça.– Contre quoi ?– Contre l’ordre que vous venez de donner.– Et ce que tu as à dire en vaut-il la peine ?
+
+['en', ',', '...', ';', '-']	Marianne	Non, non, monsieur l’abbé ; non, ça ne se peut pas ! répéta [MASK] s’enfonçant de plus en plus dans son aveugle entêtement.– Je vous en prie ! dit l’abbé.– Non !– Je vous en supplie !– Non, non, non !
+
+['Non', 'Oui', 'OUI', 'NON', 'Euh']	Bernard	– Ah ! murmura [MASK], si j’avais été là, si j’avais eu le bonheur de l’entendre !– Oui, vous lui auriez donné un soufflet comme à moi… ou plutôt, non, vous ne le lui auriez pas donné.– Et pourquoi cela ?
+
+[':', ',', 'en', 'le', 'dame']	Euphrosine	je ne m’attendais pas à vous voir si matin !– Vous nous excuserez, répondit [MASK], ma chère madame Watrin, mais on est toujours pressé de voir les gens que l’on aime.– Oh ! vous êtes bien bonne !… En vérité, je suis toute confuse
+
+['TER', 'RE', '...', 'ON', '"']	François	Eh ! un instant, l’ami ! s’écria [MASK].Puis se reprenant :– Non, dit-il, je me trompe, tu n’es pas mon ami… Notre habit n’est point une livrée : c’est un uniforme.–
+
+[':', '...', '-', ',', 'tu']	Guillaume.–	si tu ne le sais pas, ce n’est pas la peine de me retenir !– Tu remarqueras que c’est toi qui parles, et non pas moi !– Je me tais, dit [MASK] Eh bien ! reprit la mère, il est allé à la ville…
+
+['ne', 'qui', 'lui', ',', 'et']	François	Mais par qui ? demandèrent à la fois la mère Tellier et la mère Watrin, qui, n’ayant pas les mêmes raisons que Guillaume et [MASK] de craindre un grand malheur, avaient conservé la faculté d’interroger.– Par qui ?
+
+[',', '...', 'JE', 'IS', 'DE']	Mathieu	– Eh ! [MASK], dit le père Guillaume regardant avec tristesse le vagabond, qui mangeait tranquillement ses pommes de terre au coin du feu, tu entends ? un écureuil, il me dira sur quel chêne il a monté ; une belette, où elle a traversé la route
+
+['lui', 'puis', 'alors', 'celui-ci', 'il']	Guillaume	on vient, il est inutile qu’on sache que j’ai reçu un coquin à ma table.Et [MASK], tournant le dos au maire, se mit à siffloter un petit air de chasse avec lequel nos lecteurs ont déjà fait connaissance et qu’il gardait pour les grandes occasions.
+
+['celle-ci', 'Marie', 'celui-ci', 'Jean', 'Jeanne']	Catherine	En l’apercevant, la mère Watrin revint à elle, et avec un admirable élan de mère :– Mon enfant ! mon cher enfant ! s’écria-t-elle en s’apprêtant à s’élancer dans ses bras, tandis que [MASK] voilait son visage de ses deux mains.
+
+['sa', 'son', 'ta', 'tout', 'la']	François	est-il chiche de sa conversation, le père Guillaume !Comme pour donner un démenti à [MASK], le père Guillaume emplit les deux verres bord à bord ; puis, approchant le sien de celui du jeune homme, et le choquant doucement :– À ta santé !
+
+['elle', 'Elle', 'et', 'il', ',']	Marianne	[MASK] hésita un instant.– Qu’as-tu ? lui demanda-t-elle.– Rien !– Pourquoi ne parles-tu pas ?– Parce que je n’ai rien à dire.La mère Watrin s’éloigna et se rapprocha plusieurs fois du vieux garde chef.
+
+["c'", 'il', 'qui', "C'", 'premier']	Marianne	Mais [MASK] était de plus dure résistance.– Eh bien ! continua-t-elle, si je te disais, moi, que c’est la jeune fille elle-même qui m’a parlé de ça la première.– Quand ? demanda laconiquement Guillaume.– Dimanche dernier, en sortant de la messe, ah !
+
+['le', ',', 'à', 'en', 'se']	François	Ouf ! dit [MASK] en jetant, ou plutôt en laissant tomber son habit contre la muraille et en s’appuyant au chambranle de la porte, comme un homme prêt à tomber.– Eh bien ! demanda le maire, qu’est-ce encore ? n’en finirons-nous pas aujourd’hui
+
+['Pierre', 'Jacques', 'comte', 'Jean', 'Charles']	Bernard	Le simple contact de ce papier, la simple lecture de cette adresse, fit passer un frisson par tout le corps de [MASK], comme s’il eût deviné que cette lettre renfermait pour lui toute une période d’existence nouvelle, toute une série de malheurs inconnus.
+
+['le', ',', 'à', 'de', 'en']	Marianne	Ce jour-là, continua [MASK], le père Guillaume serait forcé de reconnaître que je ne suis pas une bécasse, une oie sauvage, une grue !– Oh ! quant à ça, je le reconnais tout de suite ;
+
+['de', 'le', '...', 't-il', '_']	François	Voilà pourquoi il ne s’est pas sauvé, continua [MASK]. Non, s’il s’était sauvé, il serait à cette heure à cinq ou six lieues d’ici, d’autant plus qu’avec les pieds qu’il a il doit bien marcher.
+
+['de', 'ici', 'sur', ',', 'faire']	Bernard	Puis, se parlant à lui-même comme si en pareille circonstance la présence de sa femme ne pouvait apporter aucun éclaircissement dans la question qu’il se posait :– Que diable va donc faire [MASK] du côté de la ville ?
+
+[',', 'de', 'à', "d'", 'et']	Marianne	Alors, moi, je suis tout le contraire des autres : je remercie chaque matin le bon Dieu qu’elle soit de la nôtre !– Il n’y a pas de différence entre les hérétiques ! continua [MASK] avec une assurance qui eût fait honneur à un théologien du seizième siècle.–
+
+['monsieur', 'Monsieur', 'madame', 'tout', 'M.']	Bernard	– Monsieur le maire, dit-il, je demande à regarder [MASK] en face, à lui dire deux mots, et ensuite c’est moi qui vous déclarerai s’il est coupable ou s’il ne l’est pas.La permission était trop difficile à refuser tout à fait.
+
+['il', 'me', 'on', 'a', 'Il']	Louchonneau	Tenez, voyez-vous, père Guillaume, [MASK] dit que je ne fais pas erreur !– Est-il seul ? demanda le père Guillaume.– Non, il est avec sa laie, qui est pleine…– Ah ! ah !– Tout près de mettre bas.– Tu as donc été accoucheur de sangliers, toi ?
+
+[',', 'à', 'de', 'le', 'la']	Bernard.–	répondit celui-ci de sa voix brève et tranchante, adieu !Les deux gardes s’éloignèrent du côté opposé à celui par lequel venait l’inspecteur, qui, du reste, absorbé dans sa conversation et ayant la vue basse, passa près du cabaret sans voir ni les deux gardes ni [MASK]
+
+['Guillaume', 'Gautier', 'Landry', 'Jean', 'Raoul']	François	Qui j’ai oublié ? s’écria [MASK] ; eh parbleu ! mademoiselle Catherine, votre nièce !… Ah ! voilà qui n’est pas bien, d’oublier les absents !… mais c’est que le verre est vide, tenez, père Guillaume !
+
+['le', 'la', 'Cav', 'Ro', 'un']	Bernard	Oh ! viens, viens, dit [MASK] en entraînant la jeune fille par la porte restée ouverte.– Eh bien ! mais où vont-ils donc ? s’écria la mère Watrin avec un mouvement si rapide qu’il ressemblait à de la jalousie.Le père haussa les épaules.–
+
+['le', ',', 'la', "l'", 'en']	Guillaume	! Je ne savais point que vous fussiez là ; sans quoi, on n’eût pas eu besoin de m’appeler.– Bon ! dit [MASK] à l’abbé, entendez-vous, entendez-vous ? la voilà partie !– Vous vous portez bien ? continua la mère Watrin ;
+
+['celui-ci', 'Pierre', 'Henri', 'papa', 'Jean']	Catherine	attends, il est trop chaud peut-être… je vais souffler dessus.– Merci, maman ! dit [MASK] souriant et prenant la tasse ; je vous assure que, depuis que je vous ai quittée, j’ai appris à souffler moi-même sur mon café.
+
+['NON', 'DE', '/', '-', 'DI']	Mathieu	– Allons ! dit-il, voilà que tu chantes, maintenant !– Est-il défendu de chanter ? demanda [MASK]. Alors, que monsieur le maire fasse publier la chose à son de trompe, et l’on ne chantera plus.–
+
+['il', 't-il', 't-il', '-il', 'celui-ci']	Bernard	– Mais il me semble que lorsqu’on a une fiancée, une jeune et belle fiancée…– Ne parlons plus de cela, dit [MASK] en fronçant le sourcil.Puis frappant une table avec la crosse de son fusil.– Du vin ! cria-t-il.– Chut !
+
+['sa', 'la', 'les', 'ses', 'son']	Catherine	cria-t-il en apercevant [MASK], avec l’accent d’un homme longtemps submergé qui revient sur l’eau et reprend sa respiration, ah ! mon Dieu ! c’est donc toi !… Enfin ! enfin !Et il tomba sur une chaise, tout en tenant les mains de la jeune fille.– Bernard !
+
+[':', '</s>', '"', ',', '...']	Mathieu.–	demanda [MASK] Je marque mes balles, afin de pouvoir les reconnaître, s’il y avait contestation. Quand on tire à deux sur le même sanglier, et que le sanglier n’a qu’une balle, on n’est pas fâché de savoir qui l’a tué.
+
+['nous', 'nou', 'vous', 'moi', 'notre']	Catherine	!… Je parie que vous venez, non pas pour nous, mais pour [MASK] ?– Eh bien ! non, vous vous trompez, car j’ignorais son arrivée.– Alors, vous n’en aurez été que plus joyeux de la trouver ici, n’est-ce pas ?
+
+['il', 'celui-ci', 'Bernard', 'elle', 'Robert']	Mathieu	Tiens, dit [MASK], vous vous servez donc toujours de bourres à l’emporte-pièce ?– Oui, je trouve qu’elles pressent la poudre plus également… Eh bien ! qu’ai-je donc fait de mon couteau ?
+
+['savoir', 'Dame', 'dame', 'valoir', 'répon']	Bernard	– Bah ! fit [MASK], il s’éclaircira… Adieu, ma mère !– Attends !– Quoi ?– Prends donc quelque chose avant de sortir.Et elle tendit au jeune homme la tasse de café qu’elle venait de préparer pour elle-même.– Merci !
+
+['son', "l'", 'sa', 'la', 'ses']	François	puis il passa sa veste du matin, boucla ses demi-guêtres, prit son fusil par habitude et parce qu’il n’aurait su que faire de son bras droit s’il n’avait pas eu son fusil, donna une amicale poignée de main à [MASK], et partit.
+
+[',', 'de', 'à', 'en', '...']	Lajeunesse	mais une dernière supposition, monsieur le maire. Supposons que j’aie embusqué dans le buisson de droite Bobineau, et dans le buisson de gauche [MASK], et qu’au moment où le voleur mettra la main sur son trésor, ils mettent eux, la main sur le voleur, ah
+
+['de', ',', 'en', 'à', 'le']	François	[MASK] lui-même en tressaillit.– Veux-tu te taire, oiseau de mauvais augure ! lui dit-il.– Me taire ?– Oui.– Et si j’ai quelque chose à te chanter, moi, que diras-tu ?– Je dirai que je n’ai pas le temps de t’écouter…
+
+['il', 'elle', 'on', 'je', 'Pierre']	François	Père bougon me verrait, et il me demanderait : « Où vas-tu ? »Et, au lieu de sortir par la porte donnant sur la grande route, [MASK] sauta par la fenêtre donnant sur la forêt.
+
+['TA', ',', 'tout', 'TH', 'HOU']	Guillaume	qu’y a-t-il donc, et que s’est-il passé ?– Bon ! voilà l’autre, maintenant ! murmura [MASK] en tirant sa pipe de sa bouche, et en la remettant dans sa poche, ce qui était chez lui un signe de suprême émotion.–
+
+['celle-ci', 'elle', 'tout', 'Catherine', 'il']	Guillaume	Oh ! pouvez-vous demander cela, père chéri ? s’écria la jeune fille.– Mais viens donc voir ta marque, Catherine ! insista la vieille.– Ah ça ! dit [MASK] en frappant du pied, te tairas-tu, là-bas, avec tes bêtises ?
+
+['de', ',', 'la', 'en', 'à']	Bobineau	À la bonne heure ! dit Bobineau.– Mais tu ne te corrigeras donc jamais ? demanda Lajeunesse.– De quoi ?– De te griser.– Me corriger ! pour quoi faire ?– Cet homme est plein de raison, dit [MASK] ;
+
+['Dame', 'dame', 'oui', ',', 'RON']	Bernard	Il n’en fut pas de même de la mère Watrin, qui ne perdait pas de vue mademoiselle Euphrosine.– Mon Dieu ! mon Dieu ! [MASK] ! s’écria-t-elle, n’entends-tu pas que mademoiselle ne se trouve pas bien ?–
+
+['il', 'elle', 'et', 'celui-ci', 'Il']	Bernard	Et il reprit avec un indéfinissable regard son fusil, rapporté par les gendarmes comme preuve de conviction, et déchargé d’un côté.– Et quand on pense, murmura-t-il… enfin.Et, enfonçant son chapeau sur sa tête :– Partons, dit-il, partons !En sortant, [MASK] leva la tête.
+
+['il', "c'", 'celui-ci', 'ça', 'monsieur']	Pierre	En effet, ça n’a pas manqué : quand [MASK] est venu dire qu’il avait perdu la lettre… l’imbécile ! comme s’il ne pouvait pas dire qu’il l’avait mise à la poste, je vous demande un peu !
+
+['se', "s'", 'tous', 'deux', 'cor']	Bernard	Que les enfants la voient ? que les enfants lui parlent ? Non, j’en aurais honte ! Je ne veux pas qu’ils sachent qu’ils ont pour mère une pareille sotte.En ce moment, la tête inquiète de [MASK] passa à travers la porte entrebâillée ;
+
+['le', 'la', "l'", 'en', ',']	Guillaume	– Bah ! dit le marchand de bois en regardant le père Watrin, et souriant de ce fin sourire qu’on pourrait appeler le sourire du commerce, on devient toujours millionnaire quand on veut… relativement parlant, bien entendu !– Alors, dites-moi un peu votre secret, répondit [MASK]
+
+['le', 'un', 'celui-ci', 'la', 'son']	Bernard	– Faites entrer le prévenu, dit-il, et gardez la porte.À peine cet ordre était-il donné que [MASK], pâle, le front couvert de sueur, mais calme, parut sur le seuil de la porte, les deux pouces des mains liés l’un à l’autre.
+
+[',', 'se', 'de', 'en', "s'"]	Guillaume	femme, femme, s’écria [MASK] en frappant du pied, je me doutais que ce serait là la pierre d’achoppement, et cependant je ne voulais pas y croire !– Que veux-tu, vieux ! comme j’étais il y a vingt ans, je suis encore aujourd’hui…
+
+['M.', 'Walter', 'miss', 'Léon', 'Simon']	Catherine	Mais choisis bien, tu comprends ; car, si tu choisissais mal, ce n’est plus sur moi, mais bien sur toi aussi que l’ennui retomberait.– Eh bien ! père, raconte-nous l’histoire de [MASK] Blum.– Est-ce bien celle-là que tu désires ?
+
+[',', 'de', 'le', 'se', 'à']	Bernard	Quand il commençait sa chanson c’est qu’il était ivre.Il commença :Si j’avais dans mon jardinUn seul carré de vignes.Cette chanson, venant pour insulter à la douleur de la mère Tellier, douleur si sympathique à [MASK] derrière sa fausse indifférence, fit bondir celui-ci
+
+['tout', 'il', 'elle', 'maman', 'celui-ci']	Guillaume	Et rien de chaud encore sur l’estomac à huit heures du matin ! Tu vas avoir ton café à la minute, mon enfant, tu vas l’avoir.Et la bonne vieille femme sortit tout courant.– Enfin ! dit [MASK] en l’accompagnant du regard, morbleu !
+
+['une', 'paume', ',', 'de', 'un']	Bernard	gendarmes, dit le maire.Les gendarmes firent un mouvement de la tête, et, poussant [MASK] de la main :– Allons, marchons, dirent-ils.Mais alors la mère Watrin, sortant de sa stupeur, s’élança entre la porte et son fils.–
+
+['-', '"', ':', '...', ',']	Bernard.–	– Chut ! n’en parlons plus, répondait [MASK] Que c’est moi qui, par mon entêtement, suis cause de tout !– Voulez-vous bien ne pas dire cela ?– Me pardonneras-tu, mon pauvre cher enfant ?– Oh ! ma mère !
+
+['la', 'une', 'le', "l'", 'de']	Catherine	– Dame ! il n’y a pas beaucoup de gens qui verront avec plaisir entrer une hérétique dans leur famille.– Une hérétique comme [MASK] ? Alors, moi, je suis tout le contraire des autres : je remercie chaque matin le bon Dieu qu’elle soit de la nôtre
+
+[',', 'HA', 'DE', '...', 'M']	Bernard	; pour savoir s’il n’a pas fait de mauvais rêves ?Alors, s’avançant jusque sur le seuil, sa pipe à la bouche et les mains dans ses poches :– Eh ! [MASK] ! tu entends ? cria-t-il, au défaut de l’épaule
+
+['la', "l'", 'tout', 'toute', ',']	Catherine	Mon ami, interrompit [MASK], trop heureuse que l’arrivée du bon abbé Grégoire lui eût fourni ce moyen d’interruption, voici notre cher abbé Grégoire, que nous aimons de tout notre cœur, et que moi, pour mon compte, je n’ai pas vu depuis dix-huit mois.–
+
+['NON', '...', 'de', 'non', 'RE']	Bernard	Et, prenant la tasse, il y trempa ses lèvres, et la reposa sur l’assiette.– Merci ! dit-il.– On dirait que tu trembles, [MASK] ? demanda la vieille de plus en plus inquiète.– Non, au contraire, je n’ai jamais eu la main si sûre…
+
+['on', 'elle', 'à', 'il', 'je']	Bernard	!– Vous qui avez de si bons parents ! reprit-elle. Ah ! si vous saviez le mal que cela fait à une mère de perdre son enfant, vous ne risqueriez pas un pareil souhait.Pendant ce temps, [MASK] essayait d’écrire, mais inutilement ;
+
+['tout', ',', 'en', "l'", 'à']	Catherine	Sans doute allait-il confondre [MASK] dans la malédiction, mais son regard irrité rencontra le regard doux et suppliant de la jeune fille, et ce qui restait en lui de colère fondit comme la neige sous un rayon de soleil d’avril.– Et toi… toi… murmura-t-il en s’attendrissant,
+
+["n'", 'il', 'et', 'ne', 'elle']	Guillaume	[MASK] avait vu son sourire.– Et vous n’êtes pas fâché de la circonstance, n’est-ce pas, monsieur le maire ? dit-il.En ce moment, on entendit le piétinement des chevaux à la porte ; ce bruit tira le maire d’embarras en le dispensant de répondre.
+
+[',', "qu'", 'et', 'de', 'en']	Mathieu	[MASK] le suivit de son œil gauche, tandis que son œil droit semblait s’occuper exclusivement de la dernière pomme de terre, qu’il épluchait avec lenteur et maladresse, puis il grommela, tout en le suivant de l’œil.– Tiens !
+
+[',', 'R', 'S', 'FA', 'DE']	Catherine	Oh ! [MASK], continua-t-il en gagnant à son tour le chêne, oh ! si tu es fausse à ce point, si tu m’as trompé ainsi, je ne croirai plus à rien, non, à rien, à rien au monde ! Mon Dieu
+
+['Il', 'il', 'Elle', 'elle', 'Dieu']	Guillaume	Alors, avec une expression de foi difficile à rendre :– Je te bénis, mon enfant, dit [MASK] ; tu es innocent, c’est tout ce qu’il me faut. Quant �� la preuve de ton innocence, elle viendra quand il plaira à Dieu.
+
+['...', 'donc', ',', 'tout', 'ainsi']	François	Mais enfin ?– Et puis, continua [MASK], je me suis dit : Mieux vaut faire une descente sur les lieux avec la justice, et, comme le voleur ne se doute pas que je connais sa cachette, on trouvera le magot.–
+
+['dame', '...', 'Dame', 'elle', 'ELLE']	Catherine	Et la mère accompagna cette dernière phrase d’un malin sourire en ajoutant :– Fais-toi belle ! fais-toi belle ! mon enfant !Mais [MASK] secoua tristement la tête.– Oh ! Dieu sait que ce n’est pas pour cela que je remonte, dit-elle.–
+
+['la', "l'", 'le', 'une', 'Y']	Marianne	Oh ! dit [MASK] résolue, ça m’est bien égal ! je ne veux pas que tu sortes ainsi ; je ne veux pas que tu me quittes en colère ; vieux, à notre âge surtout, quand on se sépare, Dieu sait si l’on se revoit.
+
+['le', 'il', ',', 'la', 'un']	Molicar	, je réglerai ton compte. Laisse-nous.– Bon ! fit [MASK] chancelant, je ne demande pas mieux.Et il s’éloigna, s’appuyant aux arbres et chantant toujours plus haut à mesure qu’il s’éloignait :Si j’avais dans mon jardinUn seul carré de vignes.
+
+['elle', 'se', ',', 'y', 'rette']	Marianne	Des quatre bras qui lui étaient ouverts, ceux qu’elle choisit les premiers furent les bras du père Guillaume ; sans doute avait-elle compris que là était pour elle la sympathie la plus complète.Puis, [MASK] fut embrassée à son tour.
+
+['à', '...', 'car', 'A', ',']	Bernard	Mais tu as été puni : tu as revu ta Catherine une heure plus tard !… Il est vrai que l’innocente a été punie avec le coupable !… jaloux !– Oui ! oui, jaloux ! murmura [MASK] les dents serrées, tu as dit le mot
+
+['...', 'NON', 'PM', 'm', ',']	François.–	Oh ! le coup de fusil ! le coup de fusil ! murmura [MASK] Et il a dit cela et rien de plus ? demanda Marianne.– Oh ! si fait, attendez donc.Jamais narrateur n’avait eu auditoire plus attentif.La mère Tellier continua :
+
+['il', 'et', 'Il', '</s>', 'on']	Mathieu	Il demeurait l’épaule appuyée au hêtre, le sourcil douloureusement froncé, une main sur son cœur, l’autre crispée autour du canon de son fusil.[MASK] l’examinait à travers une ouverture qu’il avait pratiquée dans les branchages de la hutte.
+
+[',', 'se', 'de', 'ne', 'et']	Bernard	[MASK] leva les yeux sur elle, et s’apercevant qu’elle était habillée de noir :– Pourquoi êtes-vous en deuil ? demanda-t-il.La bonne femme pâlit à son tour, et d’une voix à moitié suffoquée :
+
+[',', 'et', 'il', 'le', 'de']	Guillaume	Et [MASK], comme s’il eût su ce qu’il voulait savoir, se mit à bourrer sa pipe, tout en sifflotant un petit air de chasse qui avait pour but d’inviter poliment sa femme à laisser la conversation s’arrêter là.
+
+['une', 'un', 'sa', 'son', 'la']	Catherine	La porte en s’ouvrant laissa apparaître [MASK], pâle, les yeux hagards, échevelée, presque folle.– Assassiné ! cria-t-elle, assassiné !– Assassiné ! s’écrièrent les spectateurs de ces deux scènes, pendant lesquelles la terreur allait croissant.– Assassiné ! assassiné !
+
+['tout', 'que', 'de', "d'", 'plus']	Bernard	mais j’espérais…– Va-t’en ! tu étais un sot d’espérer.– Mon père ! mon cher père ! dit [MASK], une bonne parole ! une seule !– Va-t’en !– Pour l’amour de Dieu, père !–
+
+['ton', 'très', 'un', 'le', 'de']	Bernard	Ça a caressé ton amour-propre, qu’une belle demoiselle de la ville, la fille du maire, te dise qu’elle trouvait [MASK] joli garçon ?– Mais sans doute !– Et voilà que ta tête a battu la campagne, et que ton imagination a fait toutes sortes de plans là-dessus
+
+['est', 'suis', 'était', 'êtes', 'es']	Guillaume	– Enfin !… dit-elle.Et elle sortit.– Oui, murmura [MASK] resté seul, oui, je siffle la vue, et je siffle la vue parce que je vois les pauvres chers enfants, et que ça me fait plaisir de les voir !
+
+['...', '-', '....', '..', ',']	Bernard.–	– Et vous ne l’avez pas rencontrée, à ce qu’il paraît ? répliqua Euphrosine.– Non, par bonheur ! s’écria [MASK] Par bonheur ?– Oh ! oui, oui… Cette fois je sais ce que je dis !
+
+['il', 'je', 'elle', 'cela', 'tout']	Molicar	Oh ! dit [MASK], c’est bon, je m’en vas. J’aime les cabarets où l’on rit et pas ceux où l’on pleure. Mère Tellier, mère Tellier, fit-il en frappant sur la table, venez chercher votre dû.– C’est bien !
+
+['lui', 'celui-ci', 'Jean', 'le', 'Pierre']	Guillaume	– Adieu ! s’écria-t-il, adieu !Et il s’élança hors de la maison, tandis que [MASK], regardant sa femme, lui demandait avec une certaine inquiétude :– Dis donc, la mère, qu’a-t-il ce matin, ton fils ?
+
+['il', 'Jean', 'celui-ci', 'Pierre', "c'"]	Mathieu	; en conséquence, pendant un an, il s’était tué le corps et damné l’âme pour lui apprendre à lire et à écrire. Au bout d’un an, [MASK] était sorti des mains du digne prêtre avec la réputation d’un âne bâté et archibâté.
+
+['Guillaume', 'celui-ci', 'Hervé', 'Raoul', 'Olivier']	François	Oh ! le sanglier, fit [MASK] en clignant de l’œil, cette fois-ci, je crois que nous le tenons, père Guillaume !– Oui, comme la dernière fois ! dit une voix aigre et railleuse qui, grinçant tout à coup derrière les deux gardes, les fit tressaillir.
+
+['on', 'il', ',', 'personne', 'en']	Guillaume	Les gens devant lesquels [MASK] ne voulait pas dire au marchand de bois qu’il était un coquin, c’étaient l’abbé Grégoire et la mère Watrin.– Me voilà, monsieur le maire, dit l’abbé cherchant le marchand de bois de son regard myope. Êtes-vous prêt
+
+['-', 'HA', 'PT', ',', 'à']	Chollet.–	Non… vous avez raison : silence, dit-il.– Alors, à demain, n’est-ce pas ? demanda [MASK] À demain ! à après-demain !… quand vous voudrez, où vous voudrez, comme vous voudrez !– Très bien.–
+
+['ta', 'tu', 'ça', '…', '...']	Guillaume	Eh bien ! voyons un peu ce que tu as fait ?Et [MASK], réintégrant sa pipe, non allumée, mais bourrée jusqu’à la gueule, dans l’arcade dentaire qui lui servait de tenailles, se croisa les bras et attendit.–
+
+['par', ',', 'pour', 'à', ';']	François	Celui qui venait d’arriver juste à temps pour interrompre, dès la première phrase, le récit qu’allait commencer [MASK], mérite, par le rôle qu’il va jouer dans cette histoire, que nous tentions d’esquisser son portrait physique et moral.
+
+['-', '"', ':', '.-', "'"]	Guillaume.–	!En ce moment, la mère Watrin parut sur la porte de sa cuisine, s’essuyant le front avec son tablier blanc.– Eh bien ! voyons, qu’y a-t-il ? demanda-t-elle.– Viens ici, on te dit ! répondit [MASK] Ah !
+
+['on', 'tout', ',', 'et', 'ne']	Pierre	; puis, avec une admirable expression de naïve honnêteté :– Le bois appartient à monseigneur le duc d’Orléans, mon cher abbé, dit-il, tandis que l’argent est à moi. Prenez donc l’argent, et que [MASK] se garde de toucher au bois
+
+[',', 'le', "l'", 'de', 'la']	Guillaume	fit [MASK] en secouant la tête et en serrant les poings.Le geste fut vu de la mère ; mais, dans son impassible entêtement :– Fais ce que tu voudras, dit-elle ; je sais que tu es le maître ; mais, si tu les maries, ce sera contre mon gré.–
+
+[',', 'tu', '•', '-', 'Tu']	Catherine.–	murmura [MASK] Mais te voilà, Dieu merci ! mon enfant, et tu m’aideras à le persuader.– Moi ?– Et, quand tu te marieras, continua la mère en manière d’avis, tâche toujours de maintenir ton autorité sur ton mari, ou sinon, il t’arrivera ce qui m’arrive.–
+
+['-', 'et', 'Et', 'oui', 'Monsieur']	Mathieu	– Par qui ?… par lui, donc !– Et où cela m’attendra-t-il ?– À la fontaine du Prince.– À quelle heure ?– À neuf heures.– J’y serai, [MASK], j’y serai !– N’y manquez pas, au moins ?
+
+[',', 'la', '"', "l'", 'de']	Mathieu	c’était celui du forçat qui avait tenté de s’évader la veille.» Ce malheureux, condamné à dix ans de travaux forcés pour tentative d’assassinat avec préméditation, mais accompagné de circonstances atténuantes, était inscrit au bagne sous le nom seul de [MASK] ! ��
+
+[',', 'la', 'de', 'le', 'à']	Bobineau	Une fois le maire sorti, la tête basse et jetant en arrière un regard de repentir ;Une fois les braves habitants de la Maison-Neuve rendus à eux-mêmes et débarrassés des étrangers, car la mère Tellier, la bonne ménagère, car le digne abbé Grégoire, car Lajeunesse et [MASK],
+
+[',', 'de', 'se', 'le', 'la']	Guillaume	Alors [MASK], comme on dit au théâtre, s’empara de la scène, et, tandis qu’un demi-cercle se faisait, dont Bernard et les deux gendarmes formaient le point central, il étendit la main, et, avec un accent qui n’était point dépourvu d’une certaine solennité
+
+['eux', 'elle', 'elle-même', 'lui', 'clef']	Catherine	La jeune fille comprit que tout obstacle physique ou moral ne ferait qu’augmenter la colère de son amant ; elle se retira les mains jointes, et se contentant de le supplier du regard.La porte de la cuisine refermée sur [MASK], les deux jeunes gens se trouvèrent seuls.
+
+['Monsieur', 'monsieur', 'Dieu', 'madame', 'maman']	François	Son regard s’étendit avec étonnement, je dirai presque avec inquiétude autour de lui.– Tiens ! dit-il, je croyais avoir entendu la voix de [MASK]… N’était-il donc pas ici tout à l’heure ?– Il y était, c’est vrai !
+
+['il', 'elle', 'on', 'celui-ci', 'celle-ci']	Catherine	L’abbé, pour éviter une explication, eût bien voulu en faire autant, et il s’acheminait vers la cuisine, endroit où il était à peu près sûr de retrouver la mère Watrin, si désespérée qu’elle fût ; mais [MASK] l’arrêta.– Au nom du ciel !
+
+['très', 'NON', '...', 'que', 'donc']	François	– Oh ! la dernière fois, répliqua [MASK], suffit ! Nous allons en causer tout à l’heure.– Et où est-il le sanglier ? demanda le père Guillaume, auquel la nécessité d’introduire une nouvelle charge dans sa pipe laissait momentanément la langue libre.–
+

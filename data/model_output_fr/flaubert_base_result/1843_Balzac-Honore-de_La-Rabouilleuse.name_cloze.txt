@@ -1,0 +1,200 @@
+['rien', 'tout', 'cela', 'vérité', 'chose']	Philippe	Ne donnez pas deux liards ! Je vous réponds de [MASK], c’est pour sauver son avenir que je tiens à le laisser juger par la Cour des Pairs, vous avez peur de le voir condamné, mais Dieu veuille que son avocat laisse obtenir une condamnation contre lui.
+
+['elle', ',', 'il', 'et', 'y']	Flore	[MASK] éprouvait la sensation d’une femme tombée au fond d’un précipice, elle ne voyait que ténèbres dans son avenir ; et, sur ces ténèbres se dessinaient, comme dans un lointain profond, des choses monstrueuses, indistinctement aperçues et qui l’épouvantaient.
+
+['il', '</s>', 'elle', 'chacun', 'qui']	Joseph	Mais, toi, tu n’es pas changé, petit.Alors âgé de vingt et un ans, et d’ailleurs apprécié par quelques amis qui le soutinrent dans ses jours d’épreuves, [MASK] sentait sa force et avait la conscience de son talent ;
+
+['.', ',', 'le', 'un', "l'"]	Flore	Chez l’homme le plus brute, il se rencontre toujours l’instinct animal dont la persistance ressemble à une pensée.Le lendemain [MASK], à qui le silence de son maître avait fait faire des réflexions, s’attendit à quelque communication importante ;
+
+["l'", 'joe', 'john', 'il', 'm.']	Rouget	– Ah ! voilà, reprit [MASK] effrayé. Vous êtes une honnête fille…– Pardè !– Là, vrai ?…– Quand je vous le dis…– Voyons ? Êtes-vous la même que quand vous étiez là, pieds nus, amenée par votre oncle ?
+
+['tout', "l'", 'pa', 'deux', '...']	Joseph	Ce grand tableau qui devait faire tant de bruit, et qui suscita tant de haines, tant de jalousies et d’admiration à [MASK], était ébauché ; mais contraint d’en interrompre l’exécution pour faire des travaux de commande afin de vivre, il copiait les tableaux des vieux maîtres en se pénétrant de leurs procédés
+
+['il', 'elle', "j'", 'on', 'et']	Joseph	Après avoir mis les effets de sa mère et les siens dans les deux chambres en mansarde et les avoir examinées, [MASK] observa cette maison silencieuse où les murs, l’escalier, les boiseries étaient sans ornement et distillaient le froid, où il n’y avait en tout que le strict nécessaire.
+
+['tout', 'donc', ',', 'bien', 'maintenant']	Finot	mais mon neveu m’a dit : – Elle a du talent, n’est-ce pas ? Eh ! bien, le jour où elle aura dansé son pas elle te fera passer celui de sa porte. Oh ! mais voilà [MASK]. Tu verras un gars bien dégourdi.
+
+['bonaparte', 'antoine', 'alger', 'alexandre', 'eugène']	Agathe	Ces trois amis, témoins du désespoir d’[MASK], lui donnèrent le conseil de faire voyager le colonel.– On parle de conspirations, et votre fils, du caractère dont il est, sera victime de quelque affaire, car il y a toujours des traîtres.– Que diable !
+
+[',', '.', ':', '"', ';']	Philippe	Moi ! s’écria [MASK]. Moi ! l’officier d’ordonnance de l’Empereur ! La chatte !… Nous avons mis dedans la Chambre des Pairs, la Justice, le Gouvernement et toute la sacrée boutique. Les gens du Roi n’y ont vu que du feu !…
+
+['lui', 'nous', 'moi', 'napoléon', 'le']	Philippe	enfin, le front est menaçant par toutes les ruines qu’il accuse. Chez [MASK], à peine remis de son traitement, les joues étaient presque rentrées et rugueuses. Il montrait un crâne sans cheveux, où quelques mèches restées derrière la tête se mouraient aux oreilles.
+
+['albert', 'adolphe', 'hamlet', 'eugène', 'olivier']	Agathe	Quand il eut exposé la situation d’[MASK] au comte de Brambourg qui le reçut dans une chambre à coucher tendue en damas de soie jaune, le colonel se mit à rire.– Eh ! que diable veux-tu que j’aille faire là ? s’écria-t-il.
+
+['</s>', 'il', 'rodin', 'celui-ci', 'chacun']	Joseph	Tout l’atelier, le sculpteur lui-même et l’enfant donnèrent leur coup de dent. [MASK] fut alors caressé tout aussi bien qu’il avait été mystifié. Cette scène, où la plaisanterie et le cœur des artistes se révélaient et qu’il comprit instinctivement, fit une prodigieuse impression sur l’enfant.
+
+['moi', 'elle', 'lui', 'nous', 'personne']	Philippe	La vieille commerçante avait aussi réfléchi, pendant la nuit, à la manière de sauver l’honneur de la famille. Au jour, elle quitta son lit et vint dans la chambre de son amie.– Ce n’est ni à vous ni à [MASK] à traiter cette affaire délicate, lui dit-elle.
+
+['...', '(', 'le', 'les', 'tout']	Mariette	Le luxe qui régnait chez [MASK], les dîners et les soupers, la soirée dans les coulisses, l’entrain des gens d’esprit et des journalistes, l’espèce de bruit qui se faisait autour de lui, toutes les caresses qui en résultaient pour les sens et pour la vanité
+
+['robert', 'paul', 'henri', 'albert', 'jacques']	Flore	Le pauvre homme s’assit dans une profonde tristesse, au milieu de la salle, au coin de la table, et regarda ses vieux meubles, ses vieux tableaux d’un air désolé.– Vous auriez bien pu mettre une cravate, dit [MASK] en entrant.
+
+['sa', 'une', 'la', 'son', 'jeanne']	Flore	Le vieux garçon, guidé, non point par intérêt pour ses héritiers ni par avarice personnelle, mais par sa passion, se refusait à donner l’inscription à [MASK], en lui objectant qu’elle était son unique héritière.
+
+['</s>', '"', 'il', '_', "'"]	Joseph	Vous avez pour adversaires de fines mouches. Dans toute ma vie je n’ai pas vu pareille tenue à celle de ce soldat : il paraît que la guerre forme les jeunes gens. [MASK] s’est laissé pincer ! Il s’est promené donnant le bras à la Rabouilleuse
+
+['moi', 'cela', 'lui', 'toi', 'vous']	Philippe	– Eh ! bien, bonne petite, reprit-elle en rentrant, vous voyez, ils sont unanimes, pourquoi pleurez-vous encore ?– Ah ! s’il s’agissait de [MASK], je n’aurais aucune crainte. Vous ne savez pas ce qui se passe dans ces ateliers !
+
+['diane', '</s>', 'elle', 'marie', 'celle-ci']	Joseph	Sans qu’elle le sût, ses cheveux s’étaient éparpillés par un mouvement de ses mains sur son front ; et cette circonstance la rendait si belle d’horreur, que [MASK] resta cloué par l’apparition de ce remords, par la vision de cette statue de l’Epouvante et du Désespoir.–
+
+['</s>', 'le', 'il', 'qui', 'puis']	Joseph	L’artiste alla ramasser cette réponse dont la concise brutalité venait de briser le cœur délicat de cette pauvre mère, en y renversant le pompeux édifice élevé par sa préférence maternelle. [MASK], revenu près du lit de sa mère, eut l’esprit de se taire.
+
+['oui', 'non', 'mais', 'vraiment', 'oh']	Philippe	? Allons, mademoiselle, donnez-lui sa canne et son chapeau…– Mais, habituellement, il ne sort pas sans moi, n’est-ce pas, monsieur ?– Oui, [MASK], oui, j’ai toujours bien besoin d’elle…
+
+['robert', 'georges', 'julien', 'celui-ci', '-il']	Gritte	Mon avis est qu’il faut vous dispenser de le recevoir.– Je ne demande pas mieux, répondit Rouget.– Monsieur, dit [MASK] en entrant dans la chambre où toute la famille Hochon se trouvait après déjeuner, voici le monsieur Bridau dont vous parliez.
+
+['chacun', 'dieu', 'maman', 'monsieur', 'marie']	Fario	Après-demain le banquet sera jovial.– Vous allez vous établir ici, dit le vieil avare.– Je viens de dire à [MASK] de m’y envoyer toutes mes affaires. Je coucherai dans la chambre dont la porte est sur le palier de l’appartement de Gilet, mon oncle y consent.–
+
+['un', ',', 'le', 'de', 'son']	Joseph	[MASK], de trois ans moins âgé, ressemblait à son père, mais en mal. D’abord, son abondante chevelure noire était toujours mal peignée quoi qu’on fît ; tandis que, malgré sa vivacité, son frère restait toujours joli.
+
+['il', 'et', 'on', "l'", 'elle']	Max	Mais il ne soupçonna point les Chevaliers de la Désœuvrance, dont le tour était trop bien fait. [MASK] inventa de lui graisser les tuyaux de ses poêles, toutes les nuits, d’une huile saturée d’odeurs si fétides, qu’il était impossible de tenir chez lui.
+
+['exemple', 'rapport', 'jour', 'an', 'hasard']	Max	; car, sans lui, je ne l’aurais jamais devinée. Mon oncle est sous le poids d’une oppression horrible, à en juger par le peu de paroles que mon Espagnol a entendu dire par [MASK] à vos enfants.
+
+['madame', 'marie', 'jeanne', 'catherine', 'madeleine']	Cabirolle	tu comprends que je n’ai pas les moyens de lui en payer une, et que la bonne femme est sa vraie mère. Cette femme fut portière, mais elle ne manque pas d’intelligence, et se nomme [MASK], appelle-la madame, elle y tient.
+
+['il', 'tout', 'elle', 'et', 'qui']	Max	Mais il commit à son tour des actes arbitraires, il eut des complaisants qui travaillèrent pour lui, qui se firent ses courtisans. Dans cette école de douleur, où les caractères aigris ne rêvaient que vengeance, où les sophismes éclos dans ces cervelles entassées légitimaient les pensées mauvaises, [MASK] se déprava tout à fait.
+
+['tranquille', 'mais', 'non', 'là', 'rassurez-vous']	Flore	Puis, avec ça, que vous n’êtes pas amusant…– Mais, [MASK]…– Laissez-moi tranquille !Elle sortit en fermant la porte avec une violence qui fit retentir la maison et parut l’ébranler sur ses fondements.
+
+['il', 'celui-ci', 'henri', 'elle', 'bussy']	Philippe	Je viens, monsieur, dit [MASK], me recommander à vous ; car j’ai besoin de prendre mes mesures de façon à vivre dans ce pays-ci, pendant cinq ans, avec soixante francs par mois que me donne la France.– Cela se peut, répondit l’octogénaire.
+
+['et', ',', 'que', 'il', 'qui']	Flore	Si je le tue, vous me prendrez chez vous à sa place, je vous ferai marcher alors cette jolie fille au doigt et à l’œil. Oui, [MASK] vous aimera, tonnerre de Dieu ! ou si vous n’êtes pas content d’elle, je la cravacherai.–
+
+['madame', 'le', 'la', 'monsieur', 'elle']	Kouski	Madame m’a dit comme ça, fit [MASK], de dire à monsieur qu’elle avait pris dans le secrétaire les vingt mille francs en or qui s’y trouvaient en pensant que monsieur ne lui refuserait pas cette somme pour ses gages, depuis vingt-deux ans.– Ses gages ?
+
+['être', 'rester', 'dormir', 'avoir', 'demeurer']	Agathe	Il était allé chez un de ses amis emprunter l’argent nécessaire au payement de ses dettes les plus pressées, et il rentra sur la pointe du pied, en croyant [MASK] endormie. Il put donc se mettre dans son fauteuil sans être vu de la malade.
+
+['bien', ',', 'peut-être', "n'", "l'"]	Maxence	Les drôles participent la nuit à toutes les farces qui se font en ville. Aussi [MASK] a-t-il su par eux tout ce qui se disait chez vous quand mon frère et ma mère y séjournaient.– Et comment avez-vous eu la preuve de ces horreurs ?…
+
+['</s>', 'lui', 'lui-même', 'marie', 'elle']	Agathe	mais il n’en vit pas un seul, et revint avec la douleur d’avoir fait en vain tout ce qui dépendait de lui pour satisfaire la vieille femme, à laquelle il raconta ses disgrâces. [MASK] et sa tante allèrent ensemble à la messe de minuit à Saint-Germain-des-Prés.
+
+['convention', 'cour', 'chambre', 'couronne', 'française']	Berton	Après avoir perdu toute sa fortune, elle a si bien élevé ses enfants, qu’en voilà un en prison sous le coup d’un procès criminel à la Cour des Pairs, pour le fait d’une conspiration à la [MASK].
+
+['</s>', 'il', 'elle', 'et', 'puis']	Joseph	Le vieux prêtre se sentit tellement ému par le spectacle de ce repentir d’une créature en faute, uniquement par ignorance, qu’il sortit pour ne pas laisser voir sa pitié. [MASK] rentra dans la chambre de sa mère environ deux heures après le départ du confesseur.
+
+['marie', 'valentine', 'jeanne', 'louise', 'marthe']	Flore	Pendant un mois, le célibataire, devenu craintif outre mesure, vit terrible, morne et maussade le visage si riant et si amical de [MASK]. Il subit les éclats d’une mauvaise humeur calculée, absolument comme un homme marié dont l’épouse médite une infidélité.
+
+['tu', 'il', 'elle', "j'", 'papa']	Raphaël	; mais l’artiste, qui se trouvait seul avec sa mère dans le coupé, la saisit, la pressa contre son cœur, en disant : – O mère ! tu es mère comme [MASK] était peintre ! Et tu seras toujours une imbécile de mère !
+
+['on', 'il', 'elle', 'chacun', 'qui']	Philippe	En effet, [MASK] se demandait dans l’escalier : – Où cette vieille sorcière peut-elle cacher l’argent de sa mise ? C’est de l’argent perdu, je l’emploierais si bien ! Avec quatre masses de cinquante francs on peut gagner deux cent mille francs !
+
+['de', 'du', 'des', 'et', ',']	Chaudet	Depuis un quart d’heure.– Et qui t’amène ici ?– Je voudrais être artiste.– Et d’où sors-tu, d’où viens-tu ?– De chez maman.– Oh ! maman ! crièrent les élèves.– Silence dans les cartons ! cria [MASK]. Que fait ta maman
+
+['moi', 'lui', 'nous', 'mère', 'père']	Joseph	Vous serez donc toujours, vous comme [MASK], injuste envers ce pauvre garçon, dit la mère, sa conduite à la Cour des Pairs est celle d’un grand politique, il a réussi à sauver bien des têtes !
+
+[',', 'et', 'ce', 'de', 'à']	Joseph	? fit lever [MASK] qui eut la sueur dans le dos, car il crut sa mère en proie au délire qui précède la mort.– Qu’as-tu, ma mère ? lui dit-il effrayé de voir les yeux rougis de pleurs et la figure accablée de la malade.–
+
+['bois', 'saint-jean', 'vaux', 'fougères', 'boulogne']	Maxence	Ce que vous venez y faire ne se fait ni en quinze jours ni en quinze mois ; il faudrait ne pas quitter votre frère, et pouvoir lui inspirer des idées religieuses. Vous ne contreminerez les fortifications de Flore et de [MASK] que par la sape du prêtre.
+
+['caractère', 'charles', 'pierre', 'jacques', 'paul']	Max	L’affaire de la jeune femme morte n’eut aucune suite.Un garçon du caractère de [MASK] devait se distinguer, et il se distingua si bien qu’en trois campagnes il devint capitaine, car le peu d’instruction qu’il avait reçue le servit puissamment.
+
+['dans', 'à', 'la', '...', 'entre']	Védie	N’êtes-vous pas assez grand garçon pour vous habiller tout seul ?– Mon Dieu ! que lui ai-je fait ? se demanda le vieillard en recevant une de ces rebuffades au moment où il demanda de l’eau pour se faire la barbe.– [MASK]
+
+['jeanne', 'marie', 'la', 'jean', 'marguerite']	Max	Néanmoins, par suite de leur inimitié, fort heureusement pour l’enfant, le docteur et le Subdélégué se disputèrent constamment cette paternité. La mère de [MASK], femme d’un pauvre sabotier du faubourg de Rome, était, pour la perdition de son âme, d’une beauté surprenante, une beauté de Trastéverine,
+
+['nouveau', 'part', 'lui-même', 'pierre', 'celui-ci']	Fario	– Ne va pas faire des bêtises !Le commandant, rappelé à l’ordre, se mit à rire et répondit à [MASK] : – Si je t’ai, par mégarde, fracassé ta charrette, tu essaies de me calomnier, nous sommes quittes.– Pas core !
+
+['ce', ',', ':', 'à', 'le']	Bridau.–	Je travaille depuis dix ans, et je ne les ai pas, moi !…– Nous nous conseillerons l’un l’autre, et vous verrez comment j’entends les finances, répondit [MASK] Que possédez-vous, en tout ? demanda Nucingen.–
+
+['sur', "jusqu'", 'près', 'tout', 'tom']	Flore	Allons, chère petite mignonne, adieu, fit l’oncle Brazier en revenant embrasser [MASK] au front, tu peux bien dire que j’ai fè ton bonheur en te plaçant chez ce brave et digne père des indigents, faut lui obéir coume à mé…
+
+['il', 'qui', 'et', 'elle', '</s>']	Joseph	tandis que, malgré sa vivacité, son frère restait toujours joli. Puis, sans qu’on sût par quelle fatalité, mais une fatalité trop constante devient une habitude, [MASK] ne pouvait conserver aucun vêtement propre : habillé de vêtements neufs, il en faisait aussitôt de vieux habits.
+
+['lui', 'jeanne', 'martin', 'accompagné', 'jean']	Flore	Après avoir observé le père Rouget et [MASK] d’un œil perspicace, le colonel jugea nécessaire de frapper un grand coup.– Adieu, mon cher oncle, dit-il en se levant par un geste qui trahissait l’intention de sortir.–
+
+['napoléon', 'robespierre', 'hitler', 'chateaubriand', 'rousseau']	Philippe	Lorsque les hommes doués du courage physique mais lâches et ignobles au moral, comme l’était [MASK], ont vu la nature des choses reprenant son cours autour d’eux après une catastrophe où leur moralité s’est à peu près perdue, cette complaisance de la famille ou des amitiés est pour eux une prime d’encouragement.
+
+['?', '!', '.', ',', '...']	Joseph.–	Ça n’est pas bien, que je lui dis… même que j’ai dit à la portière de la veiller pendant que je m’absente, parce qu’elle est capabe de se jeter par la croisée.– Mais qu’a-t-elle ? dit [MASK]
+
+['...', 'midi', 'un', ':', 'travail']	Desroches	; il les avait superposés les uns aux autres, avait assujetti leur masse dans une immense boîte, et l’avait adressée par le roulage à [MASK], à qui il se proposait d’écrire une lettre d’avis. Cette précieuse cargaison était partie la veille.–
+
+['tout', 'vivre', 'moi', 'liberté', 'gloire']	Césarine	Ainsi, beaucoup de mœurs, des vêtements de pensionnaire, et de la vertu première qualité : tel sera l’ordre. Si j’ai besoin de [MASK], et si elle réussit, à la mort de mon oncle, il y aura cinquante mille francs pour elle ;
+
+['</s>', '"', ')', 'il', 'elle']	Philippe	Huit jours après, vint une autre lettre, par laquelle le colonel avisait sa mère de son départ sur un paquebot dont le capitaine le prenait sur sa parole. [MASK] annonçait avoir besoin d’au moins mille autres francs en débarquant au Havre.–
+
+['</s>', '"', 'le', 'et', '_']	Max	À partir du mois de janvier 1817, il ne se passa pas de semaine que la ville ne fût mise en émoi par un nouveau tour. [MASK], par point d’honneur, exigea des chevaliers certaines conditions. On promulgua des statuts.
+
+['je', 'de', 'ex', 'ce', 'et']	jeunesse	Ennuyés au logis, ces jeunes gens ne trouvèrent aucun élément de distraction en ville ; et comme, suivant un mot du pays, il faut que [MASK] jette sa gourme, ils firent leurs farces aux dépens de la ville même. Il leur fut bien difficile d’
+
+['alors', 'harry', 'yumi', 'donc', 'non']	Philippe	– Eh ! oui, c’est bien mon compte, répondit [MASK], je les ai trouvés. Ai-je mal fait ? reprit-il.– Non, mon ami, non, répondit l’artiste. Si tu étais riche, je ferais comme toi ;
+
+['la', 'midi', "l'", 'là', 'versailles']	Tivoli	elles se sont mises à rire de moi, en disant que je n’étais pas beau ; je leur ai répondu que dans les grimaces, il y avait des bijoux. De là, je me suis promené par la grande allée jusqu’à [MASK], où j’ai causé avec le jardinier…
+
+['la', "l'", 'le', 'de', 'à']	Philippe	Leur pénible attente fut entièrement justifiée par le spectacle de la figure bleuâtre et décomposée de [MASK], par sa démarche chancelante, par l’état horrible de ses yeux profondément cernés, ternes, et néanmoins hagards ; il avait un violent frisson de fièvre, ses dents claquaient.–
+
+['madame', 'henri', 'henriette', 'robert', 'marguerite']	Agathe	!– Monsieur, il est difficile qu’une mère ne vous soit pas éternellement reconnaissante de ce que vous faites pour son fils, répondit [MASK] ; mais ce fils est retranché de mon cœur ; et, quant à de l’argent, je n’en ai point.
+
+['il', 'ce', ',', 'et', 'de']	Max	; dans cet embarras, peut-être n’a-t-il vécu si sagement depuis deux ans que pour épouser cette petite, s’il peut avoir d’elle un beau garçon agile et découplé, bien vivant comme [MASK], faisait observer une tête forte.–
+
+['elle', 'jack', 'harry', 'diane', 'joe']	Philippe	Ma pauvre mère m’aime tant que je voulais lui laisser ma ressemblance. N’en parlons plus.– Eh ! bien, est-ce que tu t’en vas encore ?– Je m’en vais pour ne plus revenir, dit [MASK] d’un air faussement gai.– Ah çà !
+
+['amour', 'autrefois', 'où', 'elle', 'italie']	Agathe	Toutes les anxiétés d’[MASK] étaient alors pour son fils le lieutenant-colonel ; elle le revit en 1816, tombé de neuf mille francs environ d’appointements que recevait un commandant des Dragons de la Garde Impériale à une demi-solde de trois cents francs par mois ;
+
+['mais', 'non', '!', 'oui', '?']	Flore	Vous avez vu que je lui portais intérêt, et ça vous chicane ! Quoique vous paraissiez bête, vous avez plus de malice que les plus malicieux dans ce que vous êtes… Eh ! bien, oui, je lui porte intérêt, et un vif encore…– Mais, [MASK]…
+
+['</s>', ',', 'de', '.', 'et']	Sacrebleu	Si je puis jeter par les fenêtres trois cents francs par mois, vous régaler souvent comme je le fais ce soir, et vous prêter de l’argent à tous, je prends les écus dans la bourse de mademoiselle Brazier ? Eh ! bien, oui (profonde sensation) ! [MASK], oui
+
+['travail', 'moi', 'jour', 'maintenant', 'vous-même']	Joseph	Vous avez été si profondément injuste que vous n’avez pas remarqué ce contraste si frappant : vous tenez votre existence de [MASK], tandis que votre autre fils vous a constamment pillée. Le fils pauvre, qui vous aime sans être récompensé par une tendresse égale, vous apporte votre pain quotidien
+
+['saint', 'saint-', 'loc', 'mon', 'simon']	Richard	Ces ruines, qui représentaient chacune une longue période de siècles, formèrent une montagne grosse des monuments de trois âges. La tour de [MASK]-Cœur-de-Lion se trouve donc au sommet d’un cône dont la pente est de toutes parts également roide et où l’on ne parvient que par escalade.
+
+['</s>', 'il', 'elle', 'm.', 'on']	Philippe	cela se voit souvent. [MASK] a eu jusqu’à son retour tant d’infortunes, et il a eu si peu d’occasions d’être heureux et aimé, qu’il ne faut pas s’étonner de sa passion pour cette créature. Toutes les passions mènent à des excès
+
+['il', 're', 'napoléon', 'chateaubriand', 'peut-être']	Philippe	Après de si fortes épreuves, l’âme la plus insouciante comme la plus intrépide s’affaisse. Aussi, en revenant chez lui, [MASK] pensait-il d’autant moins à sa promesse de suicide, qu’il n’avait jamais voulu se tuer.
+
+['dreyfus', 'lambert', 'macdonald', 'robert', 'rossi']	Caron	À partir de 1822, éclairés par le sort de la conspiration du 19 août 1820, par les affaires Berton et [MASK], les militaires se contentèrent d’attendre les événements. Cette dernière conspiration, la cadette de celle du 19 août, fut la même, reprise avec de meilleurs éléments.
+
+['noé', 'alliance', 'pierre', 'salut', 'protection']	Noé	Il se maudit lui-même pour avoir négligé de faire visiter la couverture, et alla promptement à son magasin, où il trouva la moitié de son grain dévoré. Des milliers de crottes de souris, de rats et de mulots éparpillées lui révélèrent une seconde cause de ruine. L’église était une arche de [MASK].
+
+['</s>', 'il', '"', 'je', 'elle']	Philippe	Tu dois être contente de moi, ma chère mère ? lui dit-il vers la fin de janvier, je mène la vie la plus régulière du monde.[MASK] avait dîné cinq fois au restaurant avec d’anciens camarades.
+
+['elle', 'il', 'qui', 'berthe', 'on']	Adolphine	Le vin du cru fut du vin de 1811. Par un conseil de sa grand’mère, [MASK] avait orné de deux bouquets les bouts de la table.– À la guerre comme à la guerre, pensa l’artiste en contemplant la table.
+
+['celui', 'jacques', 'jean', 'paul', 'henri']	Philippe	Tu ne seras pas déshonoré pour avoir restitué, mais tu perdras ta place, il ne te restera plus que les cinq cents francs de ta croix, et avec cinq cents francs on peut vivre.– Adieu ! dit [MASK] qui descendit rapidement et ne voulut rien entendre.
+
+['</s>', 'il', 'elle', 'on', '_']	Philippe	Enfin, sur la poitrine, un gilet de laine tricotée, bruni par l’usage, qui débordait les manches, qui passait au-dessus du pantalon, se voyait partout et tenait sans doute lieu de linge. [MASK] portait un garde-vue en taffetas vert et en fil d’archal.
+
+['il', "c'", 'qui', 'tout', 'et']	Max	Le riche coloris qui nuance les figures berrichonnes ajoutait encore à son air de bonne humeur. Quand il riait vraiment, il montrait trente-deux dents dignes de parer la bouche d’une petite maîtresse. D’une taille de cinq pieds quatre pouces, [MASK] était admirablement bien proportionné, ni gras, ni maigre.
+
+['elle-même', 'elle', 'lui', 'dettes', 'toujours']	Agathe	La comtesse de Bauvan, à qui l’abbé Loraux expliqua la position de la veuve Bridau, promit, au cas où son gérant s’en irait, la survivance pour [MASK] ; mais en attendant, elle stipula pour la veuve six cents francs d’appointements.
+
+['elle', 'il', 'le', 'jean', 'henri']	Philippe	Je vous aime bien encore, vous, ma mère, qui êtes la cause de tous mes malheurs, dit [MASK]. Vous me mettez à la porte, un jour de Noël, jour de naissance de… comment s’appelle-t-il ?
+
+['elle', 'on', 'celle-ci', 'qui', 'il']	Fario	Le diable protège les aubergistes qui se damnent tous, dit le fils Goddet au marchand stupéfait, il a voulu t’apprendre à ne pas laisser traîner de charrettes dans les rues, au lieu de les remiser à l’auberge.À cette apostrophe, des huées partirent de la foule, car [MASK] passait pour avare.–
+
+['paris', 'rome', 'versailles', 'londres', 'vous']	Maxence	Il s’est promené donnant le bras à la Rabouilleuse ! On lui a sans doute fermé la bouche avec du vin, de méchantes toiles, et quatre mille francs. Votre artiste n’a pas coûté cher à [MASK] !
+
+['lui', 'max', 'georges', 'sam', 'karl']	Flore	Les vins les plus exquis animèrent la conversation. Au dessert, à neuf heures, le peintre, assis entre [MASK] et Max vis-à-vis de son oncle, était devenu quasi-camarade avec l’officier, qu’il trouvait le meilleur enfant de la terre.
+
+[',', 'celle-ci', ':', 'les', 'la']	Fario	Chez un Espagnol, des jurons annoncent le dernier degré de la colère.– Est-elle légère, ta voiture ? dit Max.– Légère ?… répondit [MASK]. Si ceux qui rient de moi l’avaient sur les pieds, leurs cors ne leur feraient plus mal.–
+
+[',', 'en', 'entre', 'pour', 'et']	Philippe	c’est Max ! disait-on au dehors.Un profond silence régna dans la salle et sur la place, car le caractère de Gilet fit croire à une provocation.– Puissions-nous tous nous retrouver à pareil jour, l’an prochain !Et il salua [MASK] avec ironie.–
+
+['lui', 'moi', 'vous', 'elle', 'lui-même']	Fanchette	Depuis six mois elle étudiait, sans en avoir l’air, les procédés culinaires qui faisaient de [MASK] un Cordon Bleu digne de servir un médecin. En fait de gourmandise, on peut mettre les médecins au même rang que les évêques.
+
+['lui', 'dieu', 'toi', 'celui-là', 'moi']	Philippe	elle lui brûla une plume sous le nez, et la vit enfin revenir à la vie.– Ils y étaient ce matin ; mais il les a pris, le monstre !– Quoi ? dit Joseph.– J’avais vingt louis dans mon matelas, mes économies de deux ans, [MASK] seul a pu les prendre…
+
+['elle', 'à', 'mais', 'et', 'aux']	Joseph	? elle voyait dans les premières fautes de ce garçon les écarts du génie ; [MASK], de qui les productions la trouvaient insensible, car elle les voyait trop dans leurs langes pour les admirer achevées, ne lui paraissait pas plus avancé en 1828 qu’en 1816.
+
+['</s>', 'le', "l'", 'un', 'pierre']	Goddet	Le lieu choisi pour le rendez-vous fut le chevet de l’église des Capucins, à huit heures du matin. [MASK], qui faisait partie du banquet en sa qualité d’ancien chirurgien-major, avait été prié d’assister à l’affaire.
+
+['lui', 'lui-même', 'elle', 'eux', 'le']	Joseph	; mais il ne dissimulait guère son mépris pour [MASK], tout en l’exprimant d’une manière amicale. En voyant ce frère dominé par sa puissante tête et maigri par un travail opiniâtre, tout chétif et malingre à dix-sept ans, il l’appelait : – Moutard !
+
+['</s>', 'jeanne', 'marguerite', "l'", 'geneviève']	Rouget	Pour le savoir, fit [MASK] en devenant de la couleur des homards cuits.– Est-ce que vous voulez m’y renvoyer ? demanda-t-elle.– Non, mademoiselle.– Eh ! bien, que voulez-vous donc savoir ? Vous avez une raison…– Oui, je voudrais savoir…
+
+['je', 'rodin', 'flaubert', 'raphaël', 'thérèse']	Bridau	Elle avait dans le mouvement des lèvres quelques indices de gourmandise. Aussi, quoique ce fût la probe et excellente femme que vous connaissez, l’œil pouvait-il s’y tromper. Elle présentait donc un admirable modèle de la vieille femme que [MASK] voulait peindre.
+
+['il', 'et', ',', 'qui', 'homme']	Philippe	[MASK] se comportait bien d’ailleurs. Six cents francs d’appointements et cinq cents francs de sa croix le faisaient d’autant mieux vivre, que, chauffé pendant la journée et passant ses soirées aux théâtres où il allait gratis, il n’avait qu’à penser à sa nourriture et à son logement.
+
+['"', 'tonnerre', '-', 'oui', '_']	S	?… [MASK]… tonnerre ! j’en ai assez sur le dos, il ne manquerait plus que de m’entendre dire que nous vous séquestrons, que vous n’êtes pas libre, que nous vous avons animé contre vos héritiers, que nous captons votre succession…
+
+['minuit', 'ce', 'midi', 'tout', 'noël']	Philippe	Elle ne s’endormait jamais avant que [MASK] ne fût rentré, elle l’attendait dans la rue, elle avait étudié les variations de sa voix, de sa démarche, le langage de sa canne traînée sur le pavé.
+
+['monseigneur', 'demain', 'monsieur', 'madame', 'vous']	Roberspierre	; elle alla voir un conventionnel, qui tremblait pour lui-même, et qui lui dit : – J’en parlerai à [MASK]. La belle épicière s’endormit sur cette parole, et naturellement ce protecteur garda le plus profond silence.
+
+['le', 'il', 'elle.', 'il', 'elle']	Joseph	Voici dix fois que je les promets.– Eh ! bien, j’aime mieux cela, répondit [MASK], prends dans la tête.– Mais j’ai tout pris, hier soir, après le dîner.– Il y avait quarante-cinq francs…– Eh !
+
+['un', 'le', 'une', "l'", 'la']	Philippe	En janvier 1827, [MASK], qui passa dans la Garde Royale lieutenant-colonel au régiment que le duc de Maufrigneuse y commandait alors, sollicita la faveur d’être anobli. Sous la Restauration, l’anoblissement devint un quasi-droit pour les roturiers qui servaient dans la Garde.
+

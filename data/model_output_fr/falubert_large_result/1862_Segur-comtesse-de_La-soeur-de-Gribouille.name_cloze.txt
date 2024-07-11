@@ -1,0 +1,200 @@
+['la', 'ta', 'le', '-', 'ton']	CAROLINE	- Pourquoi ne peux-tu pas la ramasser ? [MASK]. - Je sais, je sais ; mais tu as oublié, mon pauvre frère que madame a dit aussi : « Tout ce qui est nécessaire à son service.
+
+['</s>', 'une', 'la', 'répondit', 'dit']	ÉMILIE	; tâchez même de l’augmenter ; seulement je ne comprends rien de ce que vous dites, et je ne sais pas encore où sont les oiseaux que m’a envoyés ma cousine Lucie. [MASK], consternée. - C’est vous qui les avez lâchés ?
+
+['se', 'de', 'm', 'le', ',']	GRIBOUILLE	[MASK], avec solennité. - Est-ce bien sûr ? Hem ! Hem !... Je dis donc qu’il est contraire à mes principes de rester dans une maison où l’on ne veut plus de moi ; près d’un maître qui n’est plus mon ami ;
+
+['à', 'S', 'de', '8', ',']	CAROLINE	- Mon bien, mon bien ! Je me passerais volontiers de ce bien-là ! Je ne veux pas qu’on me gronde toujours. Ça m’ennuie, ça m’assomme ; j’en perdrai l’esprit. [MASK], souriant. - Ah !...
+
+['On', 'on', 'Elle', 'Il', 'elle']	Caroline	Dors, pendant que j’irai à l’église prier le bon Dieu pour nous et pour ma mère. » [MASK] avait l’habitude d’entendre la messe chaque matin ; ce jour-là, la messe était déjà dite, l’église était déserte.
+
+['dit', 'que', '"', 'je', 'tout']	Gribouille	- C’est pourtant vrai, monsieur. Je vous remercie bien de la bonne opinion que vous avez de moi. C’est une grande consolation, dans l’abandon de trouver une personne qui vous estime et qui vous protégerait au besoin. - Et moi ? dit [MASK].
+
+[',', 'de', 'en', 'la', 'le']	Caroline	je ne dis pas que je ne vous payerai jamais la façon de vos quatre dernières robes, mais il faut pour cela que vous me les arrangiez, car je ne peux pas les mettre telles qu’elles sont... Parlez donc, [MASK] ;
+
+['Il', 'il', 'Ils', 'et', 'Je']	Gribouille	A-t-on jamais vu chose pareille ? Ils vont être joliment attrapés. Je cours fermer la grille du jardin : ils seront bien fins s’ils peuvent l’ouvrir pour aller dans la campagne. » [MASK] sort précipitamment ; peu d’instants après il rentre tout essoufflé.
+
+['...', ';', ',', 'de', 'le']	Gribouille	elle en mangera pourtant... Et moi aussi », ajouta-t-il avec un soupir. Adieu, mon ami, adieu. [MASK] sortit ; en repassant par la ruelle, il entendit du bruit dans la grange, dont la porte était ouverte ;
+
+['tous', 'Dieu', 'celui-ci', 'Jean', 'Jacques']	Gribouille	- Tu n’as pas tort, mon ami. Mettons-nous à table et mangeons le poulet pendant que les oeufs cuisent. Le brigadier tira de l’armoire du pain, une bouteille de vin, et, avec l’aide de [MASK], le couvert fut bientôt mis.
+
+['Il', 'Elle', 'il', '"', '</s>']	Gribouille	très bien !... Des abricots en compote !... Des prunes en compote ! Ah ! ah ! ceci sera plus difficile à arranger avec la mousse... Comment vais-je faire ? Le jus va me gêner. » [MASK] réfléchit un instant. « J’y suis !
+
+['et', 'soit', 'oui', 'bon', 'ailleurs']	Gribouille	- Non, non, je n’en demande pas tant. Gardez votre esprit, [MASK] ; tâchez même de l’augmenter ; seulement je ne comprends rien de ce que vous dites, et je ne sais pas encore où sont les oiseaux que m’a envoyés ma cousine Lucie.
+
+['la', ',', 'une', 'sa', "l'"]	Nanon	Faites à votre tête et appelez-moi quand vous aurez fini. - Plus souvent que je t’appellerai, gendarme de malheur, grommela entre ses dents [MASK], irritée de l’apostrophe du brigadier. Quand il fut sorti, elle continua, tout en préparant les objets nécessaires.
+
+['de', 'en', ',', 'ne', 'sonne']	Caroline	- Très bien, très bien. Et maintenant, mon ami, n’oublie pas ta promesse ; prends ton balai, achève de balayer l’appartement, et ne touche à rien. XIV - La cage (suite) [MASK] sort ;
+
+['elle', 'Jeanne', 'Alice', 'Françoise', 'Marthe']	Émilie	Au même moment, [MASK] entre au salon ; elle regarde de tous côtés et aperçoit la cage. « Ah ! la voilà ! voyons les oiseaux. » Elle approche de la cage, voit avec surprise la porte ouverte et pas d’oiseaux dedans.
+
+['on', 'tu', 'je', 'elle', 'il']	Caroline	et cette bleu pâle avec de grosses pivoines ! Elle est drôle tout de même... Voyons la lilas, que [MASK] veut lui mettre ce soir ! Trop jeune ! trop jolie ! ajouta-t-il en hochant la tête.
+
+['celle-ci', 'celui-ci', 'son', 'la', "l'"]	Caroline	Elle supposa que quelqu’un s’était glissé dans la cuisine à la suite de [MASK], qu’il s’était caché dans la maison, peut-être dans la cuisine même, et qu’il s’était échappé pendant qu’elle courait de chambre en chambre à sa recherche.
+
+['se', 'elle', 'lui', 'qui', ',']	Caroline	mais [MASK] suffisait à tout : active, laborieuse et rangée, elle tenait la maison dans un état de propreté qui donnait du relief aux vieux meubles qui s’y trouvaient. Elle suppléait par son travail à ce qui pouvait manquer aux besoins de la famille, et surtout à sa mère.
+
+['maman', 'papa', 'Marie', 'Henriette', 'Jean']	Nanon	- C’est bel et bon, petite, reprit [MASK] d’un air mécontent ; mais comment le nourrirez-vous ? comment vivrez-vous à deux avec ce que vous gagnerez par votre travail ? - Le bon Dieu y pourvoira ; maman priera pour nous.
+
+['Elle', '</s>', 'elle', 'et', 'Et']	Caroline	elle a eu une nouvelle attaque. Quelle est l’ordonnance du médecin en pareil cas ? » [MASK] ne répondit que par ses sanglots ; elle se jeta à genoux près du bon curé, qui lui donna une bénédiction toute paternelle et pleura avec elle.
+
+['elle', 'qui', ',', 'on', "l'"]	Caroline	[MASK] est près d’elle ; elle n’entend plus et ne dit plus rien ; elle meurt dans de bons sentiments. Je l’ai confessée, je lui ai donné l’extrême-onction ; j’espère que le bon Dieu lui fera miséricorde.
+
+[',', 'es', 'sommeil', 'le', 'se']	Gribouille	; effrayée de ce sommeil prolongé, elle sauta à bas de son lit, fit une courte prière, s’habilla à la hâte et alla éveiller son frère, qui dormait encore profondément. « [MASK], éveille-toi, lui dit-elle en l’embrassant ;
+
+['il', 'elle', 'on', 'qui', 'rie']	Gribouille	- Ah ! tu appelles ! Ah ! tu veux encore me faire gronder ! Crie, à présent, crie ! » En disant ces mots, [MASK] serrait la gorge de son ennemi, qui continuait à se débattre et à répéter d’une voix étouffée : « Au secours !
+
+['celui-ci', 'monsieur', 'Monseigneur', 'madame', 'Monsieur']	Nanon	» dit le curé en entrant. Le brigadier sortit et rentra peu d’instants après, accompagné de la femme Prévôt, qui était heureusement dans les bonnes grâces de [MASK] ; elles allèrent toutes deux à la prison, où elles commencèrent leur besogne.
+
+['monsieur', 'Monsieur', 'madame', '...', 'si']	CAROLINE	s’écria le brigadier, impossible ! Une personne comme vous ! si pieuse, si bonne, si honnête, si active, si adroite ! [MASK]. - C’est pourtant vrai, monsieur. Je vous remercie bien de la bonne opinion que vous avez de moi.
+
+['on', 'et', 'On', ',', 'elle']	Gribouille	! le voilà qui fait le mort, à présent ! Veux-tu t’en aller, méchante bête ! » [MASK] lui donne un coup de pied. « Eh bien ! qu’a-t-il donc ? qu’est-ce qui lui prend ! Il ne bouge pas
+
+[',', 'en', 'tout', 'humblement', '-']	Caroline	« Laisse-moi,... j’ai besoin de dormir. - Dors, pauvre frère, dit tout bas [MASK] en déposant un baiser sur son front. Dors, pendant que j’irai à l’église prier le bon Dieu pour nous et pour ma mère. »
+
+[',', 'tout', 'le', 'à', 'les']	Gribouille	Par quel hasard, mon garçon ? As-tu besoin de moi ? » Le curé se leva, prit son chapeau, son bâton, et suivit [MASK] sans mot dire. Ils arrivèrent en peu d’instants à la porte de la mère Thibaut ;
+
+['elle', 'Jeanne', 'la', 'Marie', 'il']	Caroline	XXIII - Retour à la maison En arrivant chez eux, [MASK] se sentit très émue au souvenir de sa mère ; elle retrouva avec attendrissement les objets qui lui avaient servi, le lit sur lequel sa mère avait rendu le dernier soupir.
+
+[',', 'on', 'On', 'Je', 'il']	Caroline	« Voyons comment j’arrangerai mon dessert, dit-il quand il eut placé les assiettes, les verres et les couverts. [MASK] m’a dit de faire un beau dessert et de mettre de la mousse sous les fruits. Pour mettre de la mousse, il faut en avoir ;
+
+['tout', 'le', 'elle', 'un', 'à']	Rose	; ne voyant personne, se croyant en sûreté, [MASK], car c’était elle, acheva de sortir du trou où elle était descendue, qu’elle avait recouvert de planches qui semblaient jetées à terre, et qui ne laissaient pas soupçonner une cachette ;
+
+['...', 'à', 'de', 'tous', ',']	Caroline	; et le pauvre brigadier qui a un air piteux... Ha ! ha ! Elle se relève !... elle part en courant !... Le brigadier rit... A-t-elle l’air furieux !... Viens donc voir, [MASK], viens donc. »
+
+['le', 'de', 'les', ',', 'à']	Caroline	C’est comme s’il allait m’arriver quelque chose de très bon, de très heureux !... Je vous aime bien, brigadier. Je vous aime,... je ne sais pas comment dire ça,... j’ai pour vous la même amitié que j’ai pour [MASK]...
+
+['DE', 'HA', 'RE', 'té', 'de']	GRIBOUILLE	Le curé alla à lui, et, lui passant affectueusement la main sur la tête : « Ne pleure pas, mon brave garçon ; tu augmentes le chagrin de ta soeur. » [MASK]. - Je pleure parce qu’elle pleure, monsieur le curé ;
+
+['se', ',', 'NE', 'est', '...']	GRIBOUILLE	; et puis, il me plante là !... Ah bien !... c’est honnête, ça ! [MASK], avec dignité. - Je ne dirai rien... Je ne dis rien quand on m’injurie... Monsieur sait tout. Il est mon maître !...
+
+[',', 'il', 'qui', 'ne', 'Socrate']	Gribouille	Pour le coup [MASK] se crut un grand homme. « Jamais, se dit-il, jamais rien de plus beau n’a été placé sur une table ! Je les empêcherai d’entrer, pour qu’ils en aient la surprise. »
+
+[',', 'S', 'blessé', 'TT', 'le']	Gribouille	; que le blessé allait tomber bientôt dans un assoupissement entrecoupé de légères convulsions, et que la mort serait douce et prompte. XXVIII - Mort de [MASK] et consolation Le brigadier fut douloureusement impressionné de l’arrêt du médecin ;
+
+['celui-ci', 'il', 'elle', 'celle-ci', 'madame']	Caroline	il ne la regardait pas et il allait reprendre la parole, lorsque [MASK] s’empressa de répondre : « Rien du tout, madame ! rien qui vaille la peine d’être raconté à madame. J’ai reporté hier soir les robes de ces dames sans les faire : elles n’étaient pas contentes, voilà tout.
+
+['le', ',', 'de', 'en', 'la']	Nanon	j’ai entendu votre sotte conversation. [MASK], votre mauvais caractère, votre esprit malveillant rendent difficile l’oeuvre de charité que je voulais faire ; et, pour ne pas provoquer votre humeur et vos propos injurieux, je me bornerai à garder pendant quinze jours seulement la pauvre Caroline
+
+['cela', 'Madame', 'je', 'Monsieur', 'elle']	Gribouille	J’ai reporté hier soir les robes de ces dames sans les faire : elles n’étaient pas contentes, voilà tout. Madame sait que [MASK] s’amuse de peu. Il a trouvé drôle de voir ces dames en colère, et c’est cela qu’il veut dire à madame.
+
+[',', 'un', 'son', 'le', 'une']	Rose	; quant à l’homme, il est bien garrotté, on peut le laisser ici jusqu’à ce que nous ayons fini l’inventaire, qui ne sera pas long. » Le brigadier souleva [MASK] qui ne donna d’autre signe de vie que de légers mouvements convulsifs ;
+
+['se', 'la', 'elle', 'on', 'il']	Gribouille	Il reprenait, sans se lasser, ce travail, qui ne pouvait réussir, parce qu’aussitôt qu’une feuille était collée, il la tirait pour voir si elle tenait bien ; la feuille, n’ayant pas eu le temps de sécher, se détachait toujours, et [MASK] recommençait toujours sans humeur et sans colère.
+
+['lui', 'eux', 'moi', 'nous', 'regret']	Gribouille	« Mettez-vous là près de moi, brigadier, dit le curé en s’asseyant, et causons d’une affaire sérieuse qui vous regarde. » Le brigadier serra la main du curé en lui exprimant le regret de ne pas pouvoir lui tenir compagnie, et partit avec [MASK].
+
+['madame', 'Madame', 'Monsieur', 'monsieur', 'moi']	Caroline	- M’expliquez-vous, [MASK], ce que cela signifie ? ce qui se passe ? Pourquoi ce tapage �� la cuisine, ces cris de Gribouille, la disparition du brigadier ? Pourquoi cette pâleur, ce tremblement ?
+
+['de', ',', 'frère', '</s>', 'et']	Caroline	[MASK], tout en grondant son frère, ne put s’empêcher de partager sa gaieté ; ils rentrèrent chez eux, firent un souper frugal et se couchèrent après avoir terminé leurs derniers arrangements et avoir tout mis en ordre dans la maison qu’ils devaient quitter le lendemain.
+
+['heureuse', 'bien', 'reconnaissante', 'ée', ',']	CAROLINE	[MASK], attendrie. - Merci, monsieur ; merci, monsieur le brigadier ; je suis bien, bien reconnaissante... Je suis heureuse... grâce à vous deux... réellement heureuse du bon secours que m’envoie le bon Dieu.
+
+['faire', 'ça', 'mourir', 'cela', 'passer']	Michel	Je ne puis laisser [MASK] sans surveillance ! » Le pauvre brigadier, en proie à la plus vive émotion et à la plus terrible inquiétude qu’il eût éprouvées de sa vie, tortillait sa moustache, réfléchissait sans rien trouver et priait Dieu de lui envoyer une bonne inspiration.
+
+['Oui', 'Vous', 'Alors', 'Mais', 'Non']	Nanon	Il ne pense pas au mal que ça donne... Il faut qu’on le fasse tout de même... parce que ça lui a passé dans l’idée. - [MASK], vous avez de mauvaises idées, dit le curé qui l’entendait, bien qu’elle parlât bas dans ce moment.
+
+['monsieur', 'mademoiselle', 'madame', 'Monsieur', 'votre']	Gribouille	Ah bien oui ! un ami !... Ça lui a passé comme ça lui était venu... pour un rien... pour un méchant perroquet. - Essaye toujours ; tu verras, dit le brigadier en riant. Au revoir, mademoiselle Caroline ! au revoir, [MASK] !
+
+['celui-ci', 'cela', 'monsieur', 'lui-même', 'ça']	Nanon	Le brigadier, qui se promenait toujours en long et en large dans le jardin, trouvait que [MASK] mettait bien du temps à sa triste opération ; il perdit enfin patience et rentra dans la maison. Sa surprise fut grande de trouver les trois femmes établies dans des fauteuils et causant paisiblement des événements récents.
+
+['je', 'me', 'ma', 'en', 'toi']	Caroline	ils me croiront peut-être plus habile cuisinière que je ne le suis. Je ferai de mon mieux certainement, mais je ne suis pas savante ; je ne sais faire aucun plat fin. Je le leur dirai ; je serais désolée de les tromper. - À quoi penses-tu, [MASK] ?
+
+['Allons', 'Jean', 'Va', 'Monsieur', 'Allez']	Gribouille	Mais où est-elle ? je ne vois ni porte ni fenêtre. Ils sortirent. Le brigadier poussa la porte sans la fermer entièrement. « [MASK], dit-il très bas, va seul chez le curé, je suis fatigué ; j’attends ici mes camarades : dis-le-leur.
+
+[',', "qu'", 'tout', 'que', 'en']	Gribouille	! Quel ordre dans son ménage, dans ses dépenses ! quelle modestie dans sa toilette ! - Brigadier,... dit [MASK] en s’éveillant, j’ai vu maman ;... elle m’attend... comme l’autre jour... elle vous fait dire... qu’elle vous bénit
+
+['...', ',', 'un', 'le', '....']	Rose	Les deux femmes poussèrent un cri suivi de plusieurs autres. « À l’assassin ! criaient-elles, à l’assassin ! C’est le frère de la voleuse ! Il égorge [MASK] ! Au secours ! - Taisez-vous donc !
+
+['une', 'le', 'la', 'un', ',']	Gribouille	je travaille bien, vous savez ; je ne manquerai pas d’ouvrage ; je gagnerai facilement de quoi vivre avec [MASK], qui fera le ménage et les commissions, et qui m’aidera de son mieux. D’ailleurs, vous n’êtes pas si mal que vous croyez
+
+['Il', 'et', 'il', ',', 'Elle']	Gribouille	[MASK] réfléchit un instant. « Je pleurerais un peu,... peut-être,... mais je serais si content de te savoir heureuse, et je serais si sûr de te rejoindre un jour, que je me consolerais tout de suite, et que j’attendrais patiemment que le bon Dieu me fasse mourir à mon tour.
+
+['et', 'de', ',', 'très', 'le']	CAROLINE	- Rien, rien,... rien, te dis-je. Mademoiselle n’a pas compris qu’étant lié par ma parole je ne pouvais pas ramasser cette cage que mon balai a jetée par terre. [MASK], avec surprise. - Pourquoi ne peux-tu pas la ramasser
+
+['monsieur', 'dit-elle', 'dit-il', 'Monsieur', 'madame']	Caroline	- N’ayez pas peur, [MASK] ; on m’avait dit ce matin que vous ne saviez pas faire les robes, que c’était votre mère qui les taillait ; je l’ai cru parce que mes robes étaient manquées, et je vous les apporte pour que vous voyiez si vous pouvez les arranger.
+
+['il', 'lui', 'elle', 'en', 'leur']	Gribouille	En regardant les robes contenues dans les armoires, [MASK] témoigna une grande admiration. « Les jolies robes ! les belles couleurs ! Quel dommage que madame ne soit pas plus jeune ! comme elles lui iraient bien ! » - Comment, plus jeune ? Tu me trouves donc vieille ?
+
+['tous', 'chacun', 'tout', 'lui-même', 'toutes']	Gribouille	Il ouvrit tous les volets pour laisser entrer le demi-jour que donnait la lune ; elle venait de se dégager des nuages qui la cachaient. L’appartement se trouvait suffisamment éclairé pour que le brigadier donnât à [MASK] les soins qu’exigeait son état.
+
+['ant', 'tant', 'lant', 'battant', 'issant']	GRIBOUILLE	[MASK], battant des mains. - Elle est partie ! elle est sauvée ! tant mieux. Mais par où est-elle passée ? Mais où est-elle ? je ne vois ni porte ni fenêtre. Ils sortirent. Le brigadier poussa la porte sans la fermer entièrement.
+
+[',', 'il', 'ne', 'je', 'qui']	Gribouille	[MASK] mangeait et buvait avec une satisfaction évidente. « Jamais je n’ai si bien dîné, dit-il. Jamais je ne me suis senti si content et si bien à l’aise ! C’est comme s’il allait m’arriver quelque chose de très bon, de très heureux !
+
+['de', 'la', "l'", ',', 'les']	Caroline	Je ne vois qu’un moyen : c’est que [MASK] cherche de l’ouvrage chez des personnes nouvelles... Je ne sais pas... Je verrai... Ce ne sera pas facile... Quelle idée aussi d’avoir été parler de fausses dents à ma femme !...
+
+['bien', 'serez', 'est', 'vous', 'sera']	Gribouille	Vous resterez, et [MASK] aussi, mais à la condition qu’il ne touche à rien qu’à son balai et à son plumeau, et qu’il ne fasse pas autre chose que frotter, balayer, nettoyer les appartements, enfin ce qui concerne son service. »
+
+['peu', 'acte', 'de', 'bien', 'à']	Caroline	Ce fut lui pourtant qui rendit à [MASK] du courage en recommençant les raisonnements qu’il avait déjà faits la veille. « Nous avons bien de l’ouvrage, ma soeur, dit-il quand il la vit plus calme : le linge à laver, les effets de maman à ranger ;
+
+[',', 'on', 'et', 'qui', 'On']	Gribouille	Ça fait pitié, ces pauvres petites bêtes !... Ma foi, je n’y tiens pas : je vais les laisser voler dans la chambre : ça va toujours les amuser un peu. » [MASK] ouvre la porte de la cage, qu’il pose sur une table
+
+[',', 'Il', '...', 'il', 'se']	Gribouille	!... Est-ce que... ? Hum ! hum ! est-ce que j’aurais serré trop fort ?... C’est qu’il ne bouge pas plus qu’un mort. ([MASK] se met à genoux par terre et crie dans l’oreille du perroquet.)
+
+[',', 'on', 'et', 'il', 'qui']	Gribouille	[MASK] les poursuit en criant : « Pas par là, pas par là, les petits ! attendez que je ferme. » Mais les serins, qui voient l’air, l’espace, la verdure, s’élancent hors de la fenêtre et s’envolent au loin.
+
+['la', '...', 'un', 'se', 'une']	Jacquot	Et maman le croira, puisque je ne serai pas là pour lui expliquer... Ah ! oui,... mais quand je serai mort aussi, moi, j’irai avec maman, et je lui raconterai bien des choses qui ne feront pas plaisir à [MASK]...
+
+['son', 'sa', 'ses', 'la', 'cette']	Caroline	Après de longues et tristes réflexions, après avoir invoqué l’assistance de Dieu pour l’aider à prendre une décision, il eut la pensée subite de hâter le mariage de [MASK], afin de lui assurer sans plus tarder la protection que lui avait si ardemment souhaitée son frère.
+
+['la', 'sa', "l'", 'son', ',']	Caroline	elle s’occupa immédiatement à mettre de l’ordre dans le ménage ; après y avoir passé quelques jours, ils résolurent de quitter cette demeure triste et trop resserrée et de s’installer dans la maison de [MASK]. « J’y aurai de doux souvenirs, mon ami, dit-elle à son mari ;
+
+['le', "l'", 'la', 'celui-ci', 'Jean']	Gribouille	« Je n’aime pas que l’on rie de moi, s’écria [MASK], lançant à ces dames des regards irrités. Que mes maîtres se permettent des reproches, c’est leur droit, mais que d’autres s’y joignent, je ne le veux pas.
+
+['son', 'le', 'la', 'sa', 'Dieu']	Gribouille	Elle poussa un cri d’admiration, remercia [MASK], et, dans l’excès de sa joie, elle lui donna un gros morceau de galette et un gros baiser ; puis elle courut bien vite dans sa chambre pour essayer la robe, qui se trouva aller parfaitement.
+
+['pâle', 'blanche', 'triste', 'belle', 'brune']	Caroline	; [MASK], pâle, défaite, triste et abattue, recevait avec reconnaissance, mais sans y répondre, les témoignages de sympathie vraie ou fausse qu’elle recevait des voisines ; les unes parlaient avec volubilité ; les autres donnaient de ces consolations qui choquent et qui irritent.
+
+['...', 'DE', '-', 'tout', "s'"]	GRIBOUILLE	Monsieur, vous êtes mon ami, mon seul ami. [MASK], stupéfait. - Eh bien ! voilà un ami qui est aimable !... Et moi qui comptais sur lui ! Il me laisse tout seul à présent !...
+
+['qui', ',', ';', "qu'", 'et']	Nanon	[MASK] les précéda en grommelant ; toujours bourrue, elle épouvantait ceux qui ne la connaissaient pas ; mais sous cette apparence mauvaise elle cachait un coeur assez compatissant, une grande affection pour son maître et une grande bonne volonté à secourir les gens en détresse.
+
+['le', 'prit', 'la', ',', "l'"]	Rose	Quand il fut à terre, il saisit [MASK] par le bras et se mit à lui administrer une volée de coups avec un bâton qu’il tenait à la main. Elle se borna d’abord à des gémissements et à des supplications ;
+
+['la', 'le', 'à', 'une', ',']	Rose	! » En effet peu de minutes après, le curé arriva en toute hâte, ne sachant pas de quoi il était question. Quand il vit [MASK], il devina qu’elle n’avait pas beaucoup de temps à vivre ;
+
+['dit-il', 'sire', 'monsieur', 'monseigneur', 'et']	Gribouille	J’ai tenu ma promesse, [MASK] ; je t’ai placé avec moi dans cette maison, et je n’y resterais pas sans toi, si tu te faisais renvoyer... Et que deviendrons-nous ? Voilà pourquoi, mon pauvre frère, tu me chagrines quand tu fais mal.
+
+[',', 'hum', 'de', 'le', 'état']	XXVI	[MASK] - Le pressentiment Le médecin était venu aussitôt après le départ du curé, pour voir comment se trouvait sa malade ; il ne fut pas surpris d’apprendre sa mort, et il fit son procès-verbal, constatant que le coup sur la tête avait été la cause principale du décès
+
+['il', 'et', 'mais', 'Il', 'ou']	Gribouille	LE CURÉ, riant. - Je crois bien ! Est-ce que les hommes ont des robes ? C’est toujours la même chose : une redingote et un habit. Le curé riait de plus en plus ; [MASK] ne riait pas ; il hochait la tête.
+
+['je', 'il', 'Je', 'elle', 'on']	Caroline	Oui, [MASK] pleure, et c’est ma faute ; je viens vous prier, quoique vous ne soyez plus mon ami, de nous venir en aide, de réparer ce que j’ai fait. - Pourquoi dis-tu que je ne suis plus ton ami ?
+
+[',', 'de', 'le', "l'", 'la']	Gribouille	mais [MASK], devinant l’attaque, et leste comme on l’est à quinze ans, saisit une chaise, qu’il éleva entre lui et son ennemie au moment où, le bras lancé, elle allait lui appliquer le plus vigoureux soufflet qui ait jamais été donné ;
+
+['se', 'ME', 'je', 'elle', 'JE']	Caroline	Ah ! mais !... Je ne vais pas me laisser dominer par une cage, moi ! Je vais la rouler avec mon balai jusque sous le rideau ; lorsque [MASK] sera revenue, je la prierai de la ramasser, puisque moi je suis lié par ma parole...
+
+['Il', 'Elle', '</s>', 'il', 'Celui-ci']	Gribouille	c’est un éloge vrai et juste que je fais à monsieur, et voilà un verre qui casse une assiette et qui se casse avec ! On ne peut donc pas dire : Brave homme ! à présent ? » [MASK] leva les épaules avec dédain et continua à enlever le couvert.
+
+['elle', 'celle-ci', 'Marie', 'Jean', 't-elle']	Caroline	Ne te laisse pas renvoyer ! Si elle veut, refuse ferme et net, entends-tu ? - Je ferai pour le mieux, avec l’aide du bon Dieu, répondit [MASK] avec calme. Attends-moi ici, mon frère ; ne monte pas sans moi.
+
+['me', 'nous', "m'", 'je', "j'"]	Gribouille	Sans monsieur, elle l’aurait chassé depuis longtemps ; lui renvoyé, je ne resterai pas, et me voilà de nouveau à chercher notre vie par mon travail. C’est que je n’y suffirais pas ! On paye si peu ! Et [MASK] a bon appétit !
+
+['avait', 'qui', 'a', 'elle', 'trans']	Gribouille	; elle y ajouta la montre de sa mère, le crucifix qui avait reçu son dernier soupir et une statuette de la sainte Vierge. [MASK] mit son catéchisme dans sa poche. « Je l’emporte, dit-il, pour en apprendre chaque jour une page ;
+
+['il', 'lui', 'de', 'et', 'le']	Michel	Quelle fut leur surprise en ne le trouvant plus ! Pendant que le brigadier se promenait de long en large, [MASK] avait usé la corde qui liait ses mains en la frottant à l’angle du mur ; une fois ses mains libres, il avait facilement dénoué les cordes qui liaient ses jambes
+
+['Elle', 'A', 'Moi', '-', 'B']	GRIBOUILLE	- Excepté quand tu t’ennuies près de ton linge à laver. [MASK], riant. - Ah ! oui ; c’est vrai ! j’ai été bête ce jour-là, mais... j’ai réfléchi depuis, et je n’ai pas perdu mon temps, je t’assure.
+
+['"', ',', 'monsieur', 'lui', 'me']	Nanon	; il perdit enfin patience et rentra dans la maison. Sa surprise fut grande de trouver les trois femmes établies dans des fauteuils et causant paisiblement des événements récents. « C’est ainsi que vous m’avertissez, [MASK] ! dit-il d’un air mécontent.
+
+['le', "l'", 'son', 'la', 'sa']	Gribouille	; le brigadier lui apporta une chaise et alla rejoindre [MASK], qui cherchait son panier avec une inquiétude visible. « Le voilà, le voilà, dit le brigadier en ouvrant l’armoire. Je suis de bonne garde, moi. »
+
+['la', "l'", 'elle', 'le', 'celle-ci']	Caroline	Ils se communiquèrent cette impression. « Ce sont les prières de mon frère, dit [MASK] en pressant la main de son mari. - Il avait promis de veiller sur nous », dit le brigadier en retenant la main de sa femme.
+
+['E', 'NON', 'et', 'TOUT', 'PAS']	Gribouille	« N’entrez pas ! n’entrez pas ! cria [MASK] en lui barrant le passage. De grâce ! brigadier, n’entrez pas ! » En voyant ses efforts inutiles, il cria : « Ayez pitié d’une pauvre fille à moitié morte de faim. »
+
+['il', 'lui', 'et', 'elle', 'me']	Gribouille	;... elle m’attend... comme l’autre jour... elle vous fait dire... qu’elle vous bénit ;... que vous serez... son fils... et... mon frère ;... car vous serez... mon frère. Le brigadier tressaille, [MASK] sourit.
+
+['tu', 'je', 'vous', 'cela', 'on']	Caroline	» Il attendit d’abord patiemment, mais après une heure d’attente il commença à trouver le temps long. « C’est singulier que [MASK] me fasse perdre ainsi mon temps... C’est ennuyeux de ne rien faire... J’irais bien lui demander de l’ouvrage ;
+
+['celle', 'celui', 'maman', 'femme', 'Marie']	Caroline	il pleurait le visage caché dans ses mains et appuyé sur ses genoux, quand, à sa grande joie, il entendit la voix de [MASK] qui l’appelait : « Gribouille, Gribouille, as-tu fini ? as-tu encore besoin de mon aide ?
+
+['celui-ci', 'Jean', 'Bernard', 'Pierre', 'Jacques']	Gribouille	; mais, touché des souffrances de son ancienne ennemie, il se dirigea vers la porte, tira le loquet, ouvrit, et se trouva nez à nez avec un gendarme. « Ah ! » cria [MASK] ; et il tomba à quatre pattes sur le seuil.
+
+['Il', 'il', "C'", 'Monsieur', '--Il']	Gribouille	Mademoiselle appelle cela peu de chose ! Tout ce que je fais tourne contre moi. J’entends dire à chacun : « [MASK] est bête ! Dieu, qu’il est bête ! » Jusqu’à ma propre soeur, ma meilleure et seule amie, qui dit de même.
+
+['le', 'se', 'de', 'on', 'à']	Gribouille	; mais je prie monsieur de considérer que je ne puis rester dans la maison malgré madame ; ce ne serait pas bien, ce serait manquer à monsieur aussi bien qu’à madame. Monsieur comprendra que madame est à bout de patience pour [MASK] ;
+

@@ -1,0 +1,200 @@
+['un', 'plus', 'une', 'deux', 'des']	Sophie	Pour l’instant, je suis un général heureux. Même si, en pensant à maman, j’ai souvent le cœur lourd. Je pense trop à elle. Je pense trop à son amour qui me manque. Elle me manque trop. Heureusement qu’il y a [MASK].
+
+[',', 'et', "l'", 'qui', 'ou']	Sophie	Ses ongles et sa montre. L’imprimante donne l’impression de réaliser un travail extraordinairement difficile et demande près d’une minute pour cracher dix lignes de texte et de chiffres. Le seul chiffre qui intéresse [MASK] est à la fin. – Et sur mon livret…
+
+['</s>', 'il', 'elle', 'tout', 'qui']	Sophie	Elle est stupéfaite de ce constat. Elle a dit ça comme elle a dit, quelques semaines plus tôt : « Je suis bien. » C’est aussi vrai. [MASK] est en train de s’éteindre, lentement.
+
+['</s>', 'en', 'il', 'elle', 'cela']	Frantz	Comme ses horaires sont à la fois ténus et ajustables, il quitte la maison assez tard et revient de bonne heure. Le mariage a eu lieu à la mairie de Château-Luc. [MASK] a fait son affaire de trouver les deux témoins.
+
+["s'", 'il', 'elle', "c'", 'on']	Frantz	Elle a aussi ouvert une bouteille de vin. Elle est descendue racheter des cigarettes et faire quelques courses. À son retour, [MASK] est assis dans le lit, sa tête, trop lourde pour lui, bascule d’un côté et de l’autre.
+
+['on', 'il', 'elle', 'qui', 'dieu']	Sophie	Là encore, je crois avoir joué ma partition avec la finesse nécessaire. Moyennant quoi, avant-hier, [MASK] m’a demandé en mariage. J’ai accepté. L’appartement n’est pas grand mais il est très fonctionnel. Pour un couple, c’est bien.
+
+['il', 'dieu', 'lui', 'on', 'je']	Vincent	Peut-être était-elle déjà trop folle pour faire la part des choses, pour ramener cette simple phrase à la dimension d’une anecdote. Pendant des mois elle a repensé à ça : si [MASK] voit que je suis folle, il me fera interner…
+
+['</s>', 'elle', 'il', 'on', '_']	Sophie	Mais c’est parce qu’elle le hait tant qu’elle n’en fait rien. Elle a plusieurs solutions. Et elle n’a pas encore fait son choix. [MASK] a tiré une couverture du placard et elle dort dans le canapé du salon.
+
+['elle', '</s>', 'je', 'il', 'on']	Valérie	! [MASK] fait OK de la main, elle s’avance et tâche de se rappeler ce qu’elle fait habituellement, dans des conditions normales. Mais là, elle ressent comme un blocage. D’un seul coup, elle ne se souvient plus de rien.
+
+['</s>', '_', '"', '(', 'il']	Sophie	Du coup, il en fait trop. Il lui tapote le dos avec vigueur comme on fait pour quelqu’un qu’on va quitter pour une longue absence. Il dit que l’eau est chaude. [MASK] tâte la surface en frémissant. Un tremblement la saisit de la tête aux pieds.
+
+['lui', 'celui-ci', 'lui-même', 'là', 'nous']	Frantz	À l’extrémité droite, la buanderie et un appentis où il doit entreposer le mobilier de jardin en hiver. À l’extrémité gauche, celle qui se trouve juste en face de [MASK], le hangar où il gare sa voiture et range son impressionnant matériel de bricolage.
+
+['elle', 'il', 'on', 'maman', 'ça']	Sophie	Il a dû poser ses mains sur ses épaules et il a appuyé, assez fort, et [MASK] s’est sentie glisser à genoux devant lui, ça non plus, elle ne sait plus vraiment. Après, elle a vu son sexe dressé s’enfoncer dans sa bouche.
+
+['.', 'la', 'son', "l'", 'ses']	Sophie	Comme si elle venait de mourir une seconde fois. Instinctivement, je serrais dans ma poche le carnet de notes de [MASK]. Je marchais et mes larmes coulaient. Quand j’ai écouté l’enregistrement, j’ai revécu toute la scène. Rétrospectivement, quelle horreur !
+
+['chacun', 'facebook', 'droite', 'gauche', 'départ']	Sophie	Je ne me lèverai pas pour les regarder partir. Je me suis contenté d’enregistrer l’information recueillie sur la boîte e-mail de [MASK]. Il fait terriblement chaud en ce moment, je suis parfois obligé de rester en tee-shirt et en short.
+
+['on', 'il', 'elle', 'je', 'celui-ci']	Sophie	Elles sont connues de tout le quartier et les rares places sont aussitôt prises d’assaut. Parfois, [MASK] recourt au parking public le plus proche. Ce soir, elle est arrivée chez elle vers 19 heures et, comme souvent à cette heure-là, il n’y avait aucune place libre.
+
+['soutien', 'sarkozy', 'droite', 'motards', 'bush']	Sophie	Fera-t-il le rapprochement avec le motard qu’il a renversé naguère ? Je me tiens informé par les e-mails de [MASK] à son père. Il lui a proposé avec insistance de venir la voir mais elle refuse toujours. Elle dit qu’elle a besoin d’être seule.
+
+['je', '</s>', 'on', 'qui', 'ça']	Sophie	Je me doute. Il va falloir voir quelqu’un, c’est tout. Il a dit cela d’une traite, le genre de médecin qui va aux faits. – Nous avons des gens très bien ici. Vous allez pouvoir parler. [MASK] le regarde.
+
+['période', 'qui', 'elle', 'heure', ',']	Sophie	[MASK] est devenue quasiment transparente. Je lui rends visite environ deux fois par semaine (je dose les médicaments, je remets le courrier des jours précédents après les avoir lus), le reste du temps, je me tiens informé par ses e-mails.
+
+['il', 'elle', 'on', 'chacun', 'thomas']	Sophie	Et vous ? En quelques minutes, au fil de la conversation, [MASK] s’est inventé une nouvelle vie. Ça fait un peu peur au début, et puis, finalement, c’est comme un jeu, il suffit de penser tout le temps aux règles.
+
+['dieu', 'jésus', "l'", 'on', 'celui-ci']	Sophie	Elles se sont violemment disputées. Je pense même que [MASK] a exigé qu’ils partent avant la fin. Un soir d’anniversaire ! Quand on a égaré un cadeau d’anniversaire, on ne fait pas un tel scandale !
+
+['</s>', 'il', 'elle', 'on', '"']	Andrée	J’ai compris qu’elle m’avait amené là volontairement, pour m’exhiber, toute fière de montrer une conquête évidemment valorisante, vu son physique. Je me suis prêté au jeu avec sobriété. C’est le mieux que je pouvais faire. [MASK] était aux anges.
+
+['parfois', 'souvent', 't-elle', 'celle-ci', 'peut-être']	Sarah	Le regard du père conduira [MASK] à développer un comportement schizoïde : elle parvient en effet, au prix d’une immense énergie psychique, à jouer un double jeu : offrir les traits d’une mère aimante et attentive à un enfant dont, en secret, elle souhaite la mort.
+
+['</s>', 'elle', 'on', 'il', '"']	Sophie	Il va falloir que ça change. [MASK] tente de s’organiser, elle a demandé une aide ménagère, mais c’est assez difficile à trouver par ici, sans compter que je n’y tiens pas. J’ai intercepté les courriers. J’ai opté pour une attitude en pointillé.
+
+['elle', 'il', "j'", 'marie', 'madeleine']	Sophie	Un thérapeute lui proposa une hospitalisation. Elle refusa, jusqu’à ce que la mort vienne s’inviter dans sa folie. Tout en marchant, [MASK] ouvre son sac, y plonge la main, allume une cigarette en tremblant, aspire profondément. Elle ferme les yeux.
+
+['maman', 'je', 'marie', 'elle', 'tu']	Sophie	– Depuis lundi… C’est pas vieux. – Ah… Ce que [MASK] sait, c’est qu’elle ne veut pas savoir. Ne pas s’en mêler. Elle veut finir son repas et partir. Elle n’est pas bien. Elle veut partir.
+
+['elle', '</s>', "c'", "j'", 'il']	Sophie	Je pense qu’au retour de l’enterrement, ce sera une découverte touchante. [MASK] est extrêmement déprimée. Depuis la mort de sa belle-mère, elle ressent une angoisse terrible pour l’avenir. Lorsque j’ai appris qu’il y avait une enquête, j’ai été très inquiet.
+
+['elle', "c'", 'qui', 'tout', 'celle-ci']	Sophie	– Suffisamment pour avoir envie de les emmener. – Qu’allez-vous faire ? Bonne question. N’importe qui répondrait : je vais rentrer chez moi. Mais [MASK] est sèche, rien à dire, nulle part où aller. – Je vous offre un café ?
+
+['voyage', 'courses', 'sport', 'couchage', 'course']	Frantz	! Elle cherchait d’anciennes tennis dans le placard de l’entrée, sa main par accident est passée dans la doublure d’un vieux sac de [MASK] et elle en est ressortie avec ce cliché de trois centimètres carrés… Elle consulte l’horloge murale de la cuisine.
+
+['elle', 'celle-ci', 'madame', 'marie', 'maman']	Valérie	Très courtes. Et si pourtant, c’était le cas ? Lorsque [MASK] a été partie, il est monté à l’étage où elle habite. Porte blindée, serrure trois points. Il est resté un très long moment l’oreille collée à la porte.
+
+['m', '"', 'maman', 'marguerite', 'madame']	Sophie	Comme s’il avait soudain vieilli de dix ans. Il s’est contenté de lever les yeux vers elle, comme s’il regardait à travers elle. – Tu es malade ? a demandé [MASK]. Elle a serré son peignoir.
+
+['chacun', 'celui-ci', 'dieu', 'celle-ci', 'paris']	Sophie	Je crois que pour rien au monde elle ne serait restée plus longtemps. Sauf qu’au moment de partir, impossible de retrouver son billet de train. L’idée que [MASK] fait tout pour retarder son départ l’a évidemment traversée.
+
+["j'", 'on', 'il', 'elle', ',']	Sophie	[MASK] a dû le poser en partant, entre la porte et le chambranle, et quand j’ai ouvert il est tombé. Impossible de savoir à quel endroit elle l’a posé. Et je ne pouvais pas rester ainsi sur le palier.
+
+['jésus', 'droite', 'gauche', 'dieu', 'david']	Sophie	Elle s’avance pour sortir, mais l’homme la saisit au poignet. – Ça doit pouvoir se faire, dit-il en articulant chaque syllabe. Tu passes me voir demain soir, après ton service. Puis, en plaquant la main de [MASK] sur son entrejambe, il ajoute
+
+['mais', 'et', 'en', 'tout', 'puis']	Vincent	Et encore, elle en sort en peignoir et elle y retourne pour les soins du visage et même, souvent, une dernière fois pour quelques retouches de maquillage. Après avoir bien minuté, [MASK] n’étant pas là, j’en ai profité.
+
+['maman', 'marie', 'bébé', 'celui-ci', 'celle-ci']	Vincent	! Il faut dire que j’ai bien choisi : la bouche pleine, elle lève les yeux vers le visage de [MASK] avec un regard volontairement libidineux. Ces petites bourgeoises, quand ça veut jouer à la pute en privé, c’est plus vrai que nature.
+
+['</s>', 'il', '...', 'Il', 'elle']	Sophie	Tous deux gagnent très bien leur vie. [MASK] a eu la sagesse de ne pas en profiter au moment de négocier son salaire. En fait, elle n’y a même pas pensé parce que ce qu’on lui proposait suffisait à ses besoins.
+
+['on', 'il', 'elle', 'je', 'et']	Frantz	Il est ressorti quelques minutes plus tard avec son ordinateur portable, deux dossiers dans des chemises en carton, et il s’est installé à la table de jardin pour travailler. Il consulte peu ses notes et tape vite sur le clavier. D’où il se trouve, [MASK] le voit de trois quarts dos.
+
+['elle', 'je', 'se', 'me', '-']	Sophie	– Parlez-moi de vous… Mentalement, [MASK] repasse rapidement le petit mémo qu’elle a patiemment préparé et dont tous les éléments ont été pensés, soupesés. – Je m’appelle Catherine, j’ai trente ans…, commença-t-elle. L’entretien aurait pu durer deux heures.
+
+['leur', 'les', 'leurs', 'le', 'des']	Sophie	Je suis certain que, de peur de réveiller [MASK], les parents, ces soirs-là, ne se risquent pas à aller voir leur môme. Vers 1 h 20 du matin, les parents sont rentrés à leur tour.
+
+['qui', ',', 'et', 'de', 'que']	Sophie	La fille allume sa cigarette avec une sorte de grâce. Incroyable ce que cette fille, caparaçonnée dans son uniforme gris, est différente vue de près. – Vous faites quoi ? demande [MASK]. Dans la vie… –
+
+['susan', 'mary', 'rachel', 'madame', 'jane']	Sophie	Le mari de [MASK] est un grand type avec l’air intelligent et qui semble très sûr de lui. Ça me plaît. Bien habillé, élégant même, quoique d’un style assez décontracté. Je suis arrivé tôt ce matin pour guetter son départ et le suivre.
+
+['bras', 'garde', 'jambes', 'corps', 'femme']	Frantz	Il est enfin nu comme un ver, elle soulève ses jambes une par une et les passe dans la robe, elle le tourne de nouveau et remonte la robe sur ses hanches. À partir de là, c’est plus difficile, le corps de [MASK] est trop volumineux pour entrer jusqu’aux épaules.
+
+['non', 'que', 'etc', 'ce', 'mais']	Sophie	Ce soir, elle est arrivée chez elle vers 19 heures et, comme souvent à cette heure-là, il n’y avait aucune place libre. Elle s’est garée sur l’emplacement réservé aux handicapés (ce n’est pas bien, [MASK], ce n’est pas civique !),
+
+['il', 'elle', 'on', 'chacun', 'julien']	Sophie	Ces dix pas lui ont coûté toute l’énergie dont elle disposait et elle s’assoit sur le coin du lit. Un mur de la chambre est couvert de portes de placard. Les deux mains sur les genoux, [MASK] s’approche péniblement de la première et l’ouvre.
+
+['on', 'il', "j'", 'elle', 'qui']	Sophie	Applaudissements, envolées du présentateur, blagues à la con, rires enregistrés, exclamations aux résultats, ça fait beaucoup de bruit, la télévision. De toute manière, [MASK] a fait ça en silence. Même s’il avait fait autre chose à ce moment-là…
+
+['on', 'elle', 'il', 'qui', 'la']	Frantz	Sa tête lourde replonge bientôt dans la mort et [MASK] la tient par les bras lorsqu’elle se réveille, allongée sur le sol, sans voix, sans air, presque sans vie. Alors ce qui devait arriver finit par arriver. C’est un dimanche.
+
+['il', 'elle', 'on', 'je', 'ça']	Sophie	Il fait attention à tout. Comme [MASK] pleure, il dit : « On n’est pas obligés… » Elle dit : « Aide-moi. » Il essuie ses larmes. Elle dit : « C’est pas à cause de toi, tu sais. »
+
+['elle', 'et', 'lui', ',', '.elle']	Véronique	[MASK] sourit : – Ce n’est pas le confort…, s’excuse-t-elle en ouvrant son sac à la recherche de sa clé. Ce n’est pas le confort, mais ça vous sent la bourgeoisie friquée dès l’entrée. L’appartement est grand, vraiment grand.
+
+['hôtes', 'hôte', 'habitation', 'été', 'accueil']	Auverney	Il en profite pour prendre ce qui lui manque (Thermos, appareil photo, polaire, couteau suisse, etc.). Aux premières lueurs de l’aube, il est de nouveau à son poste. La maison d’[MASK] est une longue bâtisse à un étage comme on en trouve des tas dans la région.
+
+['maman', 'elle', 'celle-ci', 'sarah', 'lisa']	Sophie	Loin derrière, le gamin faisait la tête. Lorsque [MASK] s’est retournée et qu’elle a foncé sur lui, j’ai compris que ça allait très mal se passer. Une gifle ! Une gifle haineuse, de celles qui veulent corriger, punir.
+
+['elle', 'image', 'parole', 'scène', 'qui']	Sophie	[MASK] est transformée. Elle est épuisée, ses traits sont affaissés, sa démarche est mécanique, à tout instant on a l’impression qu’elle va s’effondrer. À sa décharge, les fêtes de Noël avec le corps de la vieille au premier étage, ça doit être assez éprouvant.
+
+['</s>', '-', '"', '--', '_']	Véronique	C’est venu d’un coup, elle ne sait pas d’où ça sort. – Ils font quoi ? – Je les ai mis à la retraite. [MASK] a débouché le vin, elle sert une fricassée de légumes avec des lardons.
+
+['lui', 'elle', 'la', 'là', 'paris']	Bonne-Nouvelle	Non, il y en a une autre, juste avant. Mais cette fois, ça revient tout seul : Strasbourg-Saint-Denis. Elle, sa station, c’est [MASK]. Elle en est certaine, elle la revoit très bien maintenant. Le garçon la regarde bizarrement.
+
+['il', 'je', 'on', 'elle', 'qui']	Frantz	Il la fixe et la tient, toujours sans un mot. Il dit : « Tu es là ? » Elle avale sa salive. « Oui », murmure-t-elle. Comme s’il avait simplement fait une parenthèse dans son rêve, [MASK] referme les yeux.
+
+['elle', 'marguerite', 'catherine', 'henriette', 'jacques']	Musain	Sa main est de nouveau libre et il lisse doucement le revers de son blouson. – Je suis pressée… Elle a dit ça en s’esquivant sur la droite, du côté de la porte. – Je comprends, dit [MASK] en s’écartant légèrement.
+
+['elle', 'il', 'on', 'je', 'ça']	Sophie	Maintenant je sais toujours où [MASK] se trouve. C’est plus sûr. Je la regarde : on ne dirait pas qu’elle est enceinte. Il y a des femmes comme ça, ça ne se voit pratiquement qu’à la fin. Évidemment, ça devait arriver.
+
+['il', '</s>', '"', 'on', 'monsieur']	Sophie	Je n’ai pas osé aller le voir, j’ai eu peur de le réveiller. Comme il n’y a pas d’école aujourd’hui, il valait mieux qu’il dorme, qu’il vous laisse un peu tranquille… Pas d’école aujourd’hui. [MASK] se souvient vaguement.
+
+['elle', 'tu', 'je', 'on', 'maman']	Sophie	On va se marier ? » C’est une question. « Moi je veux bien… », dit-il en ayant l’air de s’excuser. Elle serre son bras. Voilà. C’est fait. Dans quelques semaines, [MASK] sera mariée.
+
+['folle', 'toi', 'tu', 'je', 'ma']	Sophie	Il demande : « Tu es folle, [MASK] ? Pourquoi m’as-tu étranglé ? Tu es folle, c’est vrai ? » et son regard m’interroge et me transperce. Je connais son air dubitatif, il penche la tête un peu sur la droite avec l’air de réfléchir.
+
+['elle', 'toi', 'maman', 'moi', 'jeanne']	Valérie	Elle l’a écrit à [MASK], la copine de toutes les confidences. Les flics n’ont pas mis une journée pour retrouver sa voiture… dans la rue d’à côté. Elle a déclaré volée une voiture dont elle avait simplement oublié l’emplacement.
+
+['</s>', 'elle', 'il', 'cela', 'ça']	Andrée	J’ai bredouillé que je travaillais le lendemain. [MASK] ne me sera plus jamais d’aucune utilité, mais pour ne pas me griller tout à fait, j’ai dit quelques mots que je voulais rassurants. C’est alors qu’elle s’est lancée.
+
+['il', 'on', "j'", "c'", 'elle']	Frantz	Nos préconisations iraient bien sûr dans le sens d’une surveillance étroite de la descendance directe de cette patiente chez qui des symptômes dépressifs marqués par des fixations morbides et des manifestations obsessionnelles sont évidemment à redouter. […] [MASK] est rentré en plein milieu de la nuit.
+
+[',', 'de', 'non', 'dans', 'le']	Véronique	– Non, non, dit [MASK]. Une parfaite petite maîtresse de maison. En quelques minutes, il y a sur la table une salade, du vin, du pain presque frais (« Il est d’hier », « ça ira très bien… ») qu’elle tranche d’un couteau très appliqué
+
+['elle', 'il', ',', '</s>', 'je']	Sophie	Envie de vomir. [MASK] prend sa monnaie, se retourne et traverse la foule des curieux, complètement égarée. Elle marche. Elle a l’impression de tituber mais non, elle marche droit, simplement elle est si fatiguée. Une voix. – On peut aider ?
+
+['il', 'on', 'elle', 'sam', 'jack']	Frantz	L’endroit est tranquille. Peu après leur installation, [MASK] l’a emmenée voir la base militaire, qui n’est qu’à douze kilomètres, mais ils ne sont pas entrés. Il s’est contenté de faire un petit signe au planton, qui a répondu un peu distraitement.
+
+['maman', 'papa', 'valérie', 'julien', 'quiconque']	Vincent	Dans ses messages à son amie Valérie, elle évoque sa « fatigue ». Elle dit qu’elle ne veut pas embêter [MASK] avec des détails pareils, mais elle trouve qu’elle a beaucoup de trous de mémoire et qu’il lui arrive de faire « des trucs irrationnels ».
+
+['il', 'on', 'elle', "l'", 'lui']	Sophie	Un ciel de coton. Et du vent. Le garçon, désœuvré à cette heure, flâne près de la porte, à côté de la table où [MASK] a commandé un café. – C’est du vent d’ouest, ça… Pleuvra pas.
+
+['celui-ci', 'celle-ci', 'lui', 'pierre', 'jules']	Sophie	J’ai pu faire quelques clichés assez réussis. Les va-et-vient pittoresques de l’imbécile se sont accélérés, ses fesses blanches se serraient de plus en plus vite et de plus en plus fort. C’est au visage de [MASK] que j’ai compris qu’elle allait jouir.
+
+['vous', 'toi', 'cela', 'dieu', 'moi-même']	Sophie	Ce n’était toutefois pas aussi pénible que dans tant d’autres rêves de ces dernières années. Comme si quelque chose en moi se pacifiait. Je pense que je dois cela à [MASK]. Ça doit se jouer du côté du transfert, ou quelque chose comme ça.
+
+['elle', 'on', 'il', 'en', 'lui']	Léo	[MASK] a voulu une glace. Elle s’est assise sur un banc, elle ne se sentait pas bien. Elle a d’abord attribué ce malaise au fait qu’ils étaient au square, lieu qu’elle déteste entre tous parce qu’elle passe son temps à éviter les conversations des mères de famille.
+
+['cuisson', 'réponse', 'travail', 'pause', 'réaction']	Sophie	Le temps de [MASK] est compté. Elle demande, aussi maladroitement qu’elle le peut, des renseignements sur « la manière dont ça se passe », puis précise qu’elle doit bientôt retourner à son travail. Dans ce genre de situation, c’est toujours la course contre la montre.
+
+["c'", 'marie', 'jeanne', "j'", 'celle-ci']	Sophie	Il faudra que je trouve le moyen d’aller visiter ça un jour. Je ne peux évidemment pas espérer trouver un poste d’observation aussi commode que celui dont je bénéficiais autrefois, du temps que [MASK] était une jeune femme épanouie… Mais je m’y emploie.
+
+['cela', 'tout', 'déjà', 'bien', ',']	Sophie	Il faudra jouer très serré, je le sais, mais cette fille pourrait être la candidate dont j’ai besoin. Si elle connaît [MASK] suffisamment bien. Sinon, peut-être m’indiquera-t-elle involontairement une autre candidate mieux placée. Le net est un immense supermarché tenu par des assassins.
+
+['soi', 'dieu', 'jésus', 'vous', 'marque']	Léo	Elle enregistre machinalement les mouvements de la rue, les passants qui marchent, les voitures qui roulent, les motos qui démarrent. Marcher. Marcher et réfléchir. Cette fois, l’image de [MASK] lui apparaît de manière précise. Elle peut distinguer jusqu’au moindre détail.
+
+['elle', 'y', ',', 'qui', 'il']	Sophie	[MASK] a de gros doutes. Et les faits qu’elle aligne plaident en sa faveur. Et puis faire venir les experts, porter plainte, trouver des ouvriers, recommander des meubles, tout ça ne se fait pas en un jour.
+
+['garde', 'nuit', 'jour', 'deuil', 'chacun']	Sophie	Le travail de [MASK] consiste à l’emmener à l’école le matin, à le reprendre le midi puis le soir et à le garder jusqu’à l’heure imprévisible à laquelle Mme Gervais ou son mari parviennent à rentrer.
+
+['</s>', "c'", 'elle', "--c'", '"']	Sophie	À mon avis, pas loin de neuf heures de travail. [MASK] est une bosseuse, rien à dire. Et ce matin, patatras, impossible de retrouver le CD-Rom qu’elle était certaine d’avoir mis dans son sac avant d’aller se coucher.
+
+['se', 'et', 'les', 'ou', 'à']	Sophie	Dès que j’ai vu [MASK] fermer les rideaux, je me suis tenu prêt, à l’angle de la rue. Ils ont quitté l’immeuble à 8 heures tapantes. Il m’a fallu dépenser des trésors d’ingéniosité pour ne pas risquer de me faire repérer.
+
+['lui', 'elle', 'lui-même', 'moi', 'toi']	Valérie	Le genre d’entreprise dans laquelle on peut travailler d’arrache-pied pendant deux ans avant de se rendre compte qu’elle ne rapporte pas un clou. Ce qui, en l’espèce, n’a d’importance ni pour [MASK] ni pour son ami.
+
+['</s>', 'elle', "c'", 'Qui', 'il']	Sophie	À voir leurs mimiques et leurs sourires, j’ai vu qu’elles plaisantaient sur l’entorse à leur régime. Les femmes font tout le temps des régimes auxquels elles adorent faire des infidélités. Les femmes sont futiles. [MASK] est mince. Plus mince que son amie.
+
+['</s>', 'il', 'elle', '--', 'on']	Sophie	Je vais à la fenêtre et je reste des heures à pleurer et à fumer des cigarettes. J’ai même tué mon bébé. Un peu plus de deux semaines qu’ils se voient. [MASK] a trouvé le mode d’emploi du sergent-chef en quelques heures.
+
+['jésus', 'famille', 'dieu', 'jean', 'marie']	Vincent	Non pas tant, ça va de soi, pour la mort de cette gourde, mais pour la manière dont elle est morte. Rétrospectivement, je suis étonné de ne pas avoir ressenti quelque chose après la mort de la mère de [MASK].
+
+['celle-ci', 'chacun', 'marie', 'sarah', 'chacune']	Sophie	– Vous me faites rire… – Quand les femmes disent ça, généralement, c’est pas bon signe… L’avantage avec les militaires, c’est leur transparence. Il ressemble terriblement à l’idée que [MASK] s’est faite de lui dès leurs premières rencontres.
+
+['elle', 'on', 'il', 'ça', 'claire']	Sophie	Elle évoque son odeur avinée. De la part de quelqu’un qui choisit des parfums irrespirables, c’est plutôt cocasse, mais bon… [MASK] a un diplôme d’économie. Elle est entrée là grâce à une relation qui, depuis, a quitté l’entreprise.
+
+['il', 'elle', 'on', 'jeanne', 'charles']	Frantz	– Oui, bon, je reconnais : c’est un peu approximatif… – Explique-moi ! – Le peu que nous avons découvert dans cette « fiche clinique » nous disait l’essentiel : [MASK] a dû rêver longtemps de venger la mort de sa mère en tuant la tienne.
+
+['</s>', 'il', 'elle', 'et', 'on']	Jondrette	Il opte pour le changement de stratégie. Il se compose un visage mécontent. – En fait, ça veut dire que vous ne ferez rien, c’est ça ? enchaîne-t-il avec nervosité. [MASK] ne répond pas. Il regarde sa tasse vide.
+
+['</s>', 'je', '--je', 'tu', '--']	Vincent	Je ne peux pas supposer qu’une fille plus jeune que moi soit déjà grande. Tu as promis de monter à la capitale : ton cadeau t’attend. [MASK] t’embrasse. Moi, c’est encore plus : je t’aime. Je t’embrasse aussi.
+
+['certains', 'sarah', 'harry', 'sam', 'thomas']	Sophie	« Oui, a-t-il répondu, étonné. Je ne sais pas pourquoi… Je devrais la jeter, c’est un vieux truc. » Mais il l’a quand même rangée dans un placard du couloir d’entrée, ce qui a fait sourire [MASK].
+
+['elle', 'on', 'il', 'ça', 'celle-ci']	Sophie	Mais [MASK] ne veut voir personne, elle a réussi à disparaître, elle ne veut pas risquer une enquête, elle ne veut pas être folle, elle ne veut pas être internée, elle jure qu’elle va surmonter tout ça.
+
+['</s>', 'elle', 'il', 'chacun', '-']	Sophie	– Ne vous excusez pas tout le temps, sinon on n’en sortira pas. Le serveur apporte les entrecôtes salades indifférenciées. Ils commencent à manger en silence. [MASK] se croit tenue de faire un compliment sur l’entrecôte mais se sent incapable de trouver un mot de plus.
+
+['</s>', 'il', 'elle', 'on', 'qui']	Vincent	De temps à autre, il parvient à attraper des objets, ce qui peut être très dangereux, ou bien il se met à hurler. Elle se précipite mais s’avère incapable de comprendre pourquoi il agit ainsi de manière si soudaine. [MASK] me connaît bien maintenant.
+
+['lui', 'elle', 'toi', 'moi', 'rien']	Vincent	Elle perdit sa voiture, des amis, elle fut arrêtée pour vol, ses perturbations contaminèrent peu à peu tous les compartiments de sa vie et elle commença, comme une alcoolique, à dissimuler ses manques, à tricher, à masquer pour que ni [MASK] ni personne ne s’aperçoive de rien.
+
+['elle', "s'", 'celle-ci', 'famille', 'population']	Sophie	Visiblement, [MASK] est totalement déstructurée par ces événements. Les obsèques ont eu lieu ce matin : j’ai vu mon petit couple partir hier soir avec les valises, le visage dévasté. Ils ont dû aller tenir compagnie au veuf dans le pavillon.
+
+['elle', 'il', 'et', 'puis', 'qui']	Sophie	Il sourit avec confiance dès qu’il s’éloigne mais il laisse toujours les portes ouvertes. Quand elle entend les premiers échos du téléviseur, [MASK] s’allonge dans le bain, tend la main vers la tablette, saisit les ciseaux, elle observe attentivement ses poignets dont les veines sont à peine bleutées.
+
+['y', "y'", 'on', 'il', "j'"]	Sophie	C’est une intense lutte d’influence au cours de laquelle se déroulent, à vitesse accélérée, toutes les phases d’une vraie petite guerre : attaques, esquives, redéploiements, intimidation, fausse retraite, changement de stratégie… À la fin de quoi, [MASK] en a marre.
+
+['serrant', 'père', 'manière', 'femme', 'façon']	Vincent	Parfois, elle serrait le bras de [MASK] très fort contre elle, comme pour l’assurer de sa présence, de son soutien. Tous les deux, dans ce grand parc hivernal, marchant en se tenant la taille, ça faisait un peu triste, tout de même.
+
+['refroidissement', 'chauffage', 'transmission', 'commande', 'freinage']	Frantz	Elle veut rentrer ? Elle vous a dit qu’elle voulait rentrer ? – Oui, c’est ce qu’elle a dit. Elle veut rentrer à la maison. Court silence sur la ligne. – Quand cela ? Le moteur de [MASK] tourne à sa vitesse maximum.
+
+['lui', 'moi', 'la', 'fenêtres', 'sa']	Sophie	Ce type est vraiment détestable. Je ne vois pas l’intérêt de rester plus longtemps dans cette chambre : elle me rappellera en permanence les merveilleux moments où je vivais près de [MASK], où à n’importe quel instant, je pouvais regarder ses fenêtres, la voir, la photographier…
+
+['</s>', 'elle', '-', 'puis', 'il']	Sophie	– Te voilà fin prêt…, dit-elle. Elle pose une main sur sa poitrine et le fait céder sans difficulté. Il s’allonge. [MASK] quitte l’appartement munie d’un grand sac-poubelle vert. C’est la fin.
+
+['aïda', 'marguerite', 'jeanne', 'sarah', 'celle-ci']	Sarah	Le second événement décisif de la vie de [MASK] (après la disparition de ses parents) intervient en juin 1973, lorsqu’elle accouche prématurément d’une petite fille mort-née. La béance rouverte va provoquer chez elle des dégâts que sa seconde grossesse rendra irréparables.
+

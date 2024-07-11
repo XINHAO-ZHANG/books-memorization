@@ -1,0 +1,200 @@
+['Il', 'il', 'John', 'Paul', 'Elle']	Plankaert	[MASK] avait une allure assez conventionnelle, placide. Son chapeau subsidiaire mis à part il était habillé, disons, comme le père fondateur d'une petite entreprise familiale d'auto-école, il avait l'air patient comme un moniteur d'auto-école; il avait l'air intéressé par la musique.
+
+['Marie', 'Catherine', 'Jeanne', 'Anne', 'Suzanne']	Elizabeth	Une photographie posée sur le bureau représentait [MASK] souriante, Paul moins, posant ensemble devant des fleurs noires et blanches. Quelqu'un l'avait découpée pour séparer les personnages, puis reconstituée au ruban adhésif sans excès de minutie de sorte que le couple ne se trouvait plus tellement à la même hauteur.
+
+['Giscard', 'Hitler', 'Staline', 'Mitterrand', 'Pompidou']	Pons	Si c'est vous qui le dites, moi je n'ai rien contre. On va leur en parler demain. C'est vous qui devez parler, faisait observer [MASK], c'est vous le patron. Vous êtes le patron, vous êtes fort. Vous parlez.
+
+['Dieu', 'Paul', 'Jésus', 'Pierre', 'Charles']	Paul	— Toujours rien, dit [MASK] d'une voix plate, je vous ai dit. Il n’y aura plus rien. Or on le vit faire son chemin, s'acheter une voiture, puis deux, engager du monde, chasser la timidité.
+
+['lui', 'elle', 'eux', 'le', 'la']	Illinois	Vérifiant discrètement qu'il le tenait dans le bon sens, il le dirigea vers [MASK], puis d'un mouvement circulaire vers les trois passagers consternés. Mais il n'avait pas l'air crédible avec son petit objet, on aurait dit qu'il voulait le vendre.
+
+['Il', 'il', 'Elle', 'II', 'Pierre']	Pons	La situation lui est acquise, sous peu se dressera le gnomon. [MASK] en pose tous les paramètres, s'attarde sur chacun de ses détails. Comme il envisage de le peindre il s'endort, ses yeux se ferment en douceur sur l'oreiller des choses accomplies.
+
+['le', 'les', 'la', 'Monsieur', 'Marcel']	Plankaert	Il descendit, en se défroissant sur le trottoir. Il dit merci, merci bien. Resté seul, il s'approcha de la première vitrine, se posta devant pour réfléchir à l'ordre des choses à faire. Prévenir [MASK]. Récupérer l'Alfa.
+
+['Elle', 'Il', '</s>NOTUSED', 'On', 'elle']	Paul	J'aime mieux la bonne vieille italienne, vous savez, celle qu'on dévisse par le milieu, vous en avez de petites individuelles qui sont très bien. Je m'assieds un moment, on ne va pas tarder. [MASK] s'assit après lui.
+
+['Il', 'Elle', 'On', 'il', 'Jean']	Paul	[MASK] vérifia en soupirant que personne d'autre ne paraissait à bord. Un temps: jugeant sans doute l'affaire mal engagée, l e goéland se détacha de la cheminée pour s'en aller décrire un arc large au-dessus de l'eau du port, opaque ainsi que du mucus.
+
+['celui', 'Daniel', 'Jean', 'Paul', 'Alexandre']	Paul	J'ai peine à le croire, pensait [MASK] dissimulé derrière une pyramide de gels. Il avait reconnu, de loin, la haute voix du jeune homme du côté des parfums, survolant les effluves; il avait eu peur.
+
+['monsieur', 'Monsieur', 'capitaine', 'lieutenant', 'commandant']	Garlonne	— Ça met la sale ambiance à bord, déplorait le second A peine si je peux lui adresser la parole. — C'est votre affaire, [MASK], dit le capitaine L'harmonie à bord, ce n'est pas mon rayon. Ça fait partie de vos attributions.
+
+['Ho', 'Hon', 'Hum', 'Hein', 'Oh']	Pierre-Yves	Le duc hors d'haleine les rejoignit dans la salle de coagulation. — [MASK], s'exclama-t-il. — Hon, vibrèrent avec chaleur les cordes vocales de l'officier de marine. Ils s'empoignèrent par la main droite, usant de la gauche pour se claquer les omoplates.
+
+['Il', 'Lui', 'Jack', 'Paul', 'David']	Plankaert	— On reste couché, a crié le héron comme un début de panique animait le sol. A plat ventre, nom de Dieu. Les gangsters ensuite refluaient synchroniquement vers la porte de la banque. [MASK] était sorti le premier, ôtant son masque dans le mouvement.
+
+['Pierre', 'Jean', 'Jacques', 'Paul', 'Marie']	Paul	La voiture enfin s'arrête, on fait descendre [MASK], toujours la tête dans le sac. Quand on a coupé le moteur, c'est un autre silence qu'à l'église, plein de ciel frotté d'oiseaux.
+
+['il', 'Il', 'elle', 'lui', 'et']	Pons	— Plutôt celle-là ([MASK] désigna l'étiquette jaune), vas-y. Vas-y, vas-y, vas-y, stop. Tu es beau, affirma-t-il en levant son verre, c'est bien. Je vois que ça va.
+
+['il', '-', 'elle', 'Georges', 'Claude']	Garlonne	Seules une demi-douzaine de lour des bicyclettes chinoises se trouvaient là, formant buisson, laquées de noir et de fils d'or comme les vieilles machines à écrire et à coudre; leur destinataire, indiqua [MASK], n'étant jamais venu les récupérer, elles trouvaient toute leur utilité lors des escales.
+
+['Le', 'Mais', 'La', 'mais', 'Monsieur']	Plankaert	[MASK], au volant, ne voulait pas prendre parti. Le chef cessa d'ailleurs assez vite de s'énerver. Bon, dit-il, c'est vrai qu'on n e s'en est pas trop mal tiré.
+
+['Jean', 'Pierre', 'Jacques', 'il', 'Michel']	Pons	Il sortit de la voiture; le gravier luisait, rouillé par le satellite. Il s'approcha des fenêtres: les autres étaient passés au salon. Finalement non, répondait [MASK], je n'ai pas pu m'y résoudre.
+
+['on', 'chacun', 'et', 'se', 'On']	Bob	Ils s'étaient souvenus de boîtes de Tiger oubliées dans leurs sacs, alu contre alu l'on trinqua, [MASK] fraternisait en comptant la monnaie. Nuit de jeu sous les banyans. 28 On est fatigué par une nuit de veille.
+
+['Il', 'Elle', 'il', 'Anna', 'Sam']	Pons	Il veut vous parler. [MASK] grimaça derechef, replongea l'une des boîtes parmi les pains de glace malpropre, ouvrit l'autre et but longuement avant de se retourner vers le Malais, désignant la fenêtre comme s'il tonnait — non mais tu as vu ce qui tombe?
+
+['elle', 'il', 'on', 'je', 'lui']	Justine	Tu lui expliques — elle aspira du bout des lèvres un centilitre de thé fumé — , tu en sais autant que moi. Sous un bref peignoir de soie grise marqué d'un grand idéogramme dans le dos, [MASK] regardait sa mère en cheveux dans la dentelle froissée.
+
+['Il', 'On', 'Elle', 'Alice', 'Chacun']	Charles	[MASK] doutait qu'il s'agît réellement de chair humaine, ce pouvait être de bas morceaux de dernier ordre, sauvés de justesse dans une décharge d'équarrisseurs, et qu'une cuisson de plusieurs jours débarrassait de leurs miasmes en même temps que de leur identité.
+
+['Monsieur', 'le', 'Madame', 'Alice', 'madame']	Bob	C'est très très très important, c'est la chambre 24. — La 24, il n'est plus là de toute façon. Il est parti, le monsieur du 24. — C'est impossible, dit [MASK]. Vérifiez, vous allez voir que non.
+
+['qui', 'il', 'et', 'lui', 'lequel']	Paul	le rire de l'un déflagrait par grappes, les sourires de l'autre étincelaient. Ils se battaient plus techniquement, efficaces comme des doublures, Bob rendait au poids coq à peine un coup sur trois, [MASK] ne cherchait plus qu'à parer ceux du bel indifférent brun.
+
+['Charles', 'Louis', 'James', 'Thomas', 'Jean']	Pons	Un moment s'écoula avant que l'officier réalisât que cette version des événements différait fort de celle de [MASK], vers qui, tout interrogatif, il se tourna - mais bien sûr que le duc n'était plus là. Bien sûr qu'il courait à travers la forêt, son ami Charles derrière lui.
+
+['je', 'il', 'on', 'se', 'elle']	Paul	Il rappellerait demain, après-demain, savoir comment ça va. Pensez à moi, pria-t-il avant de raccrocher. Un instant. Le fond de cafetière est tiède sur l'évier, [MASK] trouve un long flacon de pale-ale dans le réfrigérateur.
+
+['lui', 'Pierre', 'Marc', 'Michel', 'Georges']	Pons	Au sortir de la villa Jouvin, cadre des conférences mensuelles, trois cents mètres le séparaient de son bungalow de fonction. Deux pièces: au coin de la plus grande, une forte lunette d'observation dressait son objectif vers une trappe ménagée dans le plafond, et que [MASK] ouvrait pendant les nuits pures.
+
+['elle', 'on', 'il', 'Elle', 'Marie']	Laure	Elle buvait avec précaution, à même le très gros goulot, une main dans ses cheveux comme pour soutenir sa nuque, son épaule appuyée à la porte de l'atelier: [MASK] travaillait dans une tempête d'étoffes, de patrons amoncelés qui déferlaient au pied de la machine à coudre.
+
+['Nicole', 'Pierre', 'Michel', 'Nicolas', 'Robert']	Gazol	— J'ai eu des histoires moi aussi, se rappela [MASK] au bout d'un moment, mais je n'ai pas fait d'histoires. Je me suis débrouillé seul. On est seul, Nicole, on s'arrange seul, comprenez-vous.
+
+['Il', 'Cela', 'Elle', 'Ceci', 'On']	Garlonne	[MASK] ouvrit l'autre volet de son malaise: contradictoire à ses yeux avec l'état de second, sa fonction accessoire de délégué de l'équipage lui pesait. L'enclume et le marteau, n'est-ce pas, ce n'était pas une vie d'être toujours entre;
+
+['Turner', 'James', 'Martin', 'Charles', 'Joseph']	Lopez	On trouve toujours de quoi s'occuper. On ne voit toujours pas le capitaine Illinois. On n'avait pas attendu, finalement, pour lever l'ancre, que [MASK] eût fini de repeindre le château. Il poursuivit son travail en pleine mer.
+
+['il', 'Il', 'on', 'Paul', 'elle']	Pons	Toujours les mêmes bagages défilaient sauf le sien, parfois jetés de travers, leurs arêtes saillantes heurtaient ses genoux fragiles, une fois [MASK] crut tomber. Une autre fois il se retint à la portière du taxi, après qu'il eut dû charger lui-même sa valise dans le coffre.
+
+['il', 'on', 'Paul', 'Il', 'Pierre']	Paul	L'ayant remercié, [MASK] sortit essayer tout de suite le couvre-chef sur le pont. Le soir, un peu d'air du large aidait à s'endormir. Il effectua son tour de pont: c'était éteint dans la cabine du second, mais la lumière brillait encore chez les hommes d'équipage.
+
+['capitaine', 'monsieur', 'lieutenant', 'Monsieur', 'commandant']	Garlonne	Il s'interrompit, tirant de sa poche un papier. Le capitaine agita une main évasive. — Allez-y, [MASK]. Exprimez-vous, mon vieux. — De toute façon ce n'est pas tenable, soliloqua le second en tournant le papier dans ses mains.
+
+['John', 'il', 'elle', 'Jack', 'Jean']	Pons	il s'empressa d'aller quérir d'autres chaises longues et boissons fraîches. — Bon, dit [MASK], la ville on n'a pas vu grand-chose, on arrive juste. Peut-être on aurait le temps de jeter un coup d'oeil, quand même.
+
+['il', 'on', 'Paul', 'Il', 'Thomas']	Paul	Et encore. Au beau milieu du fond de cale, bientôt couvertes par d'autres caisses, [MASK] aperçut celles qu'il avait convoyées. Elles ne passaient ni plus ni moins inaperçues que les autres, ce dont il s'inquiéta.
+
+['Pierre', 'Jack', 'il', 'Jean', 'John']	Bob	— Un petit coup de téléphone, ensuite je reviens. Un petit coup de fil. — Oui, bon, dit [MASK], va téléphoner. Il se retourna vers le bar, l'abat-jour, l'allée et venue du barman en blanc.
+
+['Marie', 'Jeanne', 'Jean', 'Alice', 'Maman']	Toon	Tu ne vois pas qu'il nous fasse un enfant dans le dos? Qu'est-ce que tu crois? — On en a déjà parlé, dit [MASK]. Et puis je compte, là. Je ne peux pas tout faire en même temps, n'est-ce pas.
+
+['Jean', 'Pierre', 'Jules', 'Marie', 'Jacques']	Paul	— Tu crois que j'y vais trop fort, c'est ça. Tu trouves que j'exagère, dis-le tout de suite. — Je ne sais pas, dit [MASK], tu bois toujours autant? — Tous les coloniaux, mon petit, tous les coloniaux.
+
+['Il', 'Elle', 'On', 'Paul', 'Marie']	Laure	Le téléviseur était petit, portatif, surmonté d'une antenne en v, suivi de rallonges interminables. [MASK] l'emporta dans la cuisine où les glaçons bondirent de leur étui de caoutchouc. Ils grelottaient ensuite dans le gin, vers la porte de la chambre grise.
+
+['rien', 'personne', 'il', 'elle', 'Paris']	Boris	Transportant, comme son neveu, le téléphone, le duc marcha jusqu'à la fenêtre, inspecta le jardin: [MASK] n'était plus visible au milieu de la verdure sur laquelle de petits nuages véloces, jouant à la balle avec l'astre, faisaient courir des taches ternes en accéléré.
+
+['lui', 'Pierre', 'celui', 'Louis', 'moi']	Bob	Il ne faut rien nous empêcher. Il s'était rapproché de la table tout en parlant sur un registre sans cesse plus élevé, il agitait l'article pour dames à proximité de [MASK] qui se déplia brusquement vers lui, le déséquilibrant d'un coup d'épaule.
+
+['Il', 'Elle', 'il', 'Jean', 'Pierre']	Toon	— Tu ferais mieux de compter. [MASK] fit venir le sac de toile posé sur la banquette arrière, le bascula lourdement par-dessus son dossier, s'y plongea le nez comme pour inhaler. — Ça fait beaucoup, décrivit-il, ça risque d'être long.
+
+['lui', 'le', 'Louis', 'Napoléon', 'moi']	Garlonne	— Tous les coloniaux, mon petit, tous les coloniaux. La porte alors s'ouvrit sur [MASK], qui ne rejoignit pas son siège aussitôt comme il y était accoutumé. Il restait immobile sur le seuil, on le regarda. Passé six secondes, on fronça les sourcils.
+
+['En', 'Et', 'Mais', 'Moteur', 'Puis']	Garlonne	[MASK] dirigeant la manœuvre, sourdes soupapes et lourds pistons poussaient bientôt le cargo vers la sortie de la rade. Civilisées, correctes, les eaux portuaires se tinrent tranquilles jusqu'aux deux phares dressés comme une paire d'obélisques ouvrant à la haute mer;
+
+['il', 'elle', 'on', 'Il', 'Daniel']	Boris	— Je te remercierai toujours, confia-t-il. Je me sens quand même bien, ici. Sans toi, cette artérite, je ne sais pas où j'en serais. Dans l'escalier, [MASK] utilisait toute la longueur des marches, se projetant d'une rampe à l'autre.
+
+['Il', 'On', 'Elle', 'Pierre', 'Jean']	Paul	Un temps: jugeant sans doute l'affaire mal engagée, l e goéland se détacha de la cheminée pour s'en aller décrire un arc large au-dessus de l'eau du port, opaque ainsi que du mucus. [MASK] le suivit des yeux, puis revint au peintre:
+
+['moi', 'nous', 'lui', 'soi', 'vous']	Bob	Chez [MASK], c'est exposé au nord: on voit, quand il est vif, le soleil enduire toute la journée le mur d'en face, plus ou moins ricocher contre lui, mais on ne le reçoit jamais directement.
+
+['il', 'elle', 'Il', 'on', 'Charles']	Paul	Avec d'infinies précautions, [MASK] se mit en mouvement, traînant son corps plein d'hématomes vers la couchette démise l'escaladant presque aussi facilement qu'un cheval. Son mal de tête, sans commune mesure avec celui de l'avant-veille, se trouvait annulé par toutes les autres douleurs, partout.
+
+['il', 'on', 'elle', 'ça', 'chacun']	Burt	Après trois jours d'interrogatoire redondant, on s'était résolu à les élargir. C'est fermement qu'on les avait assis dans le premier vol vers chez eux, en classe économique. Transfert technologique, répondit le myope en chaussant ses verres. Sur l'écran pâle, [MASK] souriait fort.
+
+['des', 'un', 'le', 'une', 'les']	Elizabeth	Regardant eux aussi les choses neuves luire derrière les vitrines, mais aussi les vieilles projetées en vrac dans les grandes bennes vertes. Peut-on la revoir. Contournant une zone à haut risque où l'on pourrait croiser [MASK]. Tu crois que c'est possible?
+
+['Elle', 'Marie', 'Alice', 'Sophie', 'Jeanne']	Justine	[MASK] à son tour avait regagné son ancienne chambre. Trois heures à présent qu'ils faisaient cette valise. Elle coupait ses photos en morceaux de plus en plus petits. On sonna deux coups brefs à la grande porte, en bas.
+
+['Elle', 'Il', 'Anna', 'elle', 'Marie']	Toon	Elle les vit s'éloigner, rejoindre l'ombre d'où régulièrement ils renaissaient, porteurs de quoi boire, manger, se changer, se laver, lire, et de médi caments pour dormir. [MASK] broncha contre quelque chose, jura puis se dissolut dans le sol.
+
+['Thomas', 'Daniel', 'Adam', 'Paul', 'Max']	Charles	Tu as vu ça aussi? 14 Cette fois, quand un mauvais rêve l'éveille, [MASK] congelé dans sa sueur froide ne sait plus où il est. Quelques secondes il s'inquiète de cette molle surface moite où gît son corps, peu sujet d'habitude à la terreur nocturne.
+
+['Il', 'Elle', 'On', 'Marie', 'Paul']	Bob	[MASK] grimaça devant le modèle: son empeigne s'ornait d'une espèce de revers, d'une manière de col de part et d'autre du laçage qui avait ainsi l'allure d'un nœud texan, serré comme autour d'un cou à la base de la cheville.
+
+['ce', 'il', 'Ce', 'Raymond', 'Paul']	Charles	Il s'y trouvait en compagnie de collègues derrière lesquels, promptement, il se dissimula jusqu'à ce que la rame eût disparu. Les collègues s'étaient regardés, surpris: [MASK] n'était pas d'ordinaire un homme très émotif, un homme très démonstratif.
+
+['Il', 'Elle', 'Charles', 'Louis', 'Marguerite']	Charles	— Prévois quand même une armature, peut-être. [MASK] s'endormit sans ôter son costume ni creuser cette idée que le duc développa seul, couché, imaginant l'objet, se le représentant de mieux en mieux. Non, pas d'armature.
+
+['Il', 'Ce', 'Tout', 'Elle', 'Cela']	Paul	[MASK] n'était plus qu'un muscle unique, une vaste courbature. Sa conscience même lui faisait mal: l'avenir n'était guère plus souriant que le présent, ni rétroactivement la totalité du passé. Il resta allongé. Il eût aimé avoir sommeil.
+
+['elle', 'Marie', 'Alice', 'Jeanne', 'Sophie']	Boris	— Rien à dire, reconnut [MASK] en lui ouvrant la porte d'un petit salon vert bronze. Un peu proche de ses sous, mais on ne peut pas se plaindre, et puis elles sont gentilles. Elle ne va pas tarder.
+
+['Charles', 'Jean', 'Catherine', 'Richard', 'Arthur']	Pons	— Je ne te comprends pas, grogna [MASK]. — Si tu as besoin qu'on t'aide, fit-elle. Alors je me suis dit, je leur ai demandé. Le duc fit venir son sourire froid d'aventurier, lointainement amer, dont trop peu d'occasions d'user se présentaient.
+
+['il', 'Il', 'elle', 'on', 'Charles']	Paul	Vous croyez que vous pourrez me trouver quelque chose? Le coin ne venant pas, [MASK] regarda ses mains d'un air buté. — Je ne m'en occupe plus, fit-il, je vous ai dit. Je ne veux plus m'en occuper.
+
+['Pierre', 'Jacques', 'Jean', 'Marie', 'Philippe']	Bob	Au fait, qu'est-ce que tu fabriquais tout à l'heure dans ma télévision? — Ah, fit [MASK], c'est l'assistante de l'émission, une copine. Ils cherchaient quelqu'un pour casser quelque chose, je me suis proposé.
+
+['on', 'il', 'elle', 'chacun', 'Jean']	Paul	J'ai dit que vous êtes dans les chaudières. Dès le lendemain, [MASK] rencontra l'ennui en mer tel q ue le second puis le capitaine l'avaient évoqué. Le tour du bâtiment était vite fait, l'océan perpétuellement sem blable.
+
+['Alice', 'Annie', 'Isabelle', 'Hélène', 'Anne']	Odile	Heureusement que tout le monde s'est tout de suite beaucoup occupé d'elle, en particulier le jeune cadre bancaire suicidaire; les soins prodigués par le jeune cadre bancaire irriguent de morphine le bras d'[MASK], tartinent de miel son destin sec.
+
+['il', 'Il', 'Jack', 'Thomas', 'Peter']	Charles	La place était étroite, [MASK] pliait ses genoux contre sa poitrine, de part et d'autre du minuscule volant, son arlequin disposé devant lui sur le nez luisant de l'appareil. Il mâchait lentement tout en regardant le ciel noircir.
+
+['il', 'on', 'se', 'Sam', 'Pedro']	Tomaso	Oui, [MASK] tuait déjà le matin frais dans son maga sin surchauffé. De fins ruisselets de sueur couraient au fond des lignes de sa main. Régulièrement, le soldeur retroussait les pans de sa blouse grise pour essuyer ses paumes sur les cuisses, lustrées par l'usage, de son pantalon.
+
+['madame', 'Madame', 'Jeanne', 'Marie', 'Mme']	Henri	— Je sais qu'il dort dans le dix-septième, des fois. Je ne sais plus exactement où, par exemple. C'est assez grand, le dix-septième, c'est assez vaste comme arrondissement. — Brochant? — Brochant, peut-être bien, dit [MASK].
+
+['Paul', 'Pierre', 'Jean', 'Georges', 'Philippe']	Toon	— On aurait pu prendre l'autoroute, vous ne croyez pas? regretta [MASK] en se dégrippant du siège. Il se remit à fouiller dans la vaste boîte à gants, en tira une boîte métallique au couvercle barré d'une croix de sparadrap.
+
+['il', 'le', 'Martin', 'Jean', 'encore']	Jouvin	On se revoit pour dîner, dit [MASK], pour signer les papiers. Puis il s'en fut, l'air affairé. Comme il régnait un peu de relative fraîcheur dans l'entrepôt, le capitaine remit sa casquette en s'aidant des deux mains.
+
+['Paul', 'Pierre', 'Jean', 'Marie', 'Georges']	Tomaso	Toujours rien? — Hélas, gémit [MASK], c'est devenu très dur. Pour ainsi dire il n'y a plus de rotation. Toujours pareil, n'est-ce pas, la demande excède l'offre et les prix montent. Ça décourage le monde, ça bloque.
+
+['Pierre', 'Paul', 'Jean', 'Daniel', 'Jacques']	Paul	Le visage de [MASK] exprime un tiers de renon cement, deux d'amertume avec un trait de secret conten tement de soi. Il regarde son verre au fond duquel, dans sa haute cour translucide, le cube de glace a repris son lent parcours de détenu à l'heure de la promenade.
+
+['Pierre', 'David', 'Jean', 'Max', 'John']	Pons	— La même histoire, fit [MASK], les conditions de travail, pas de secret. Les horaires, les salaires, il n'y a que ça de vrai. Il éloigna ses mains l'une de l'autre.
+
+['Il', 'il', 'Joseph', 'Jean', 'Paul']	Charles	[MASK] glissa la lettre dans une poche intérieure, puis referma la boîte qu'il tapota ensuite d'une main absente comme on eût plutôt fait avec le chien, comme pour s'assurer distraitement de la présence de ce vieux chien, consoler ce bon vieux chien d'être encore une fois tombé dans le même trou.
+
+['maman', 'Maman', 'Pierre', 'Jean', 'Jules']	Pons	— C'est toi, petit? — Je voulais te dire que je vais voir un type. — Quel genre, fit [MASK], quel genre de type? — Je l'ai appelé hier soir, il aurait peut-être quelque chose pour toi, il faut voir.
+
+['en', 'chacun', 'Pierre', 'Alexandre', 'celui']	Lopez	La partie haute de la superstructure était ainsi badigeonnée d'un blanc hétérogène, tout en repeints superposés comme un camouflage de tank polaire, conçu pour un conflit de boules de neige intercontinentales. Au bout de sa balancelle, [MASK] actionnant sa poulie se déplaçait en ludion sur les flancs au château arrière.
+
+['il', 'elle', 'on', 'Il', 'François']	Tomaso	Pour en arriver là, compte non tenu d'une disposition naturelle, [MASK] avait juste rencontré l'homme qu'il fallait quand il fallut, l'homme qui lui fit rencontrer des grossistes et profiter de la valise diplomatique, d'abord.
+
+['elle', 'il', 'on', 'Anna', 'Paul']	Charles	Sur les yeux rouges clignaient, tombaient parfois de lourdes paupières. Par-dessus les épaules résignées, [MASK] déchiffra de gros titres sans en établir la portée; sa lecture était mécanique, ne se connectait qu'à peine à sa conscience.
+
+['Albert', 'Paul', 'Jean', 'Charles', 'Georges']	Paul	Ça s'est très bien passé avec les Italiens. — Pour gagner quoi, se demanda [MASK]. Trois sous, une brouille avec les Belges. Non, non. Comment s'appelle ce type, déjà, le petit type?
+
+['Il', 'Elle', 'Pierre', 'Jean', 'On']	Garlonne	[MASK] rempocha son papier. — Une petite ouverture, insista-t-il, un geste. Vous cédez sur un point, un tout petit point. Parfois l'esprit s'apaise avec un petit point. — Ne soyez pas imbécile, fît le capitaine sans hargne.
+
+['Alors', 'Dis', 'Mais', 'Et', 'Eh']	Paul	Elle m'a paru un peu bizarre. — [MASK], comment ça se passe avec les filles, voulut approfondir soudain le duc, est-ce que tu en vois souvent? Est-ce que tu en vois assez? Je te dis ça parce que.
+
+['il', 'Gomez', 'on', 'elle', 'Il']	Paul	On devait être au courant du pro blème puisque le matelot Gomez parut bientôt, une lampe de poche à la main, une ampoule de rechange dans la poche. Ayant fait le tour de sa cabine, [MASK] descendit sur le pont. Classique bande-son d'appareillage
+
+['Il', 'Elle', 'On', 'Chacun', 'il']	Toon	[MASK] regardait le paysage sans parvenir à s'y intéresser: au-delà d'accotements gris-vert, des cultures peu variées se développaient sans détail, de rares maisons paraissaient vides, leurs chiens ne tenaient à rien, ces chiens ne savaient même pas ce qu'ils gar daient.
+
+['Pierre', 'Paul', 'Jean', 'Georges', 'Jacques']	Pons	Chacun sait que les sangsues se répartissent de manière uniforme à la surface du globe, se développent sous tout climat, sur tout support, par exemple il y en avait une fixée sur le pied droit de [MASK] qui protesta nerveusement, hautement, cherchant vite une cigarette au fond de ses poches.
+
+['oui', 'monsieur', 'voilà', '...', 'là']	Bergman	Il disparut à l'intérieur du poste de pilotage. Ah oui, sonna sa voix off, [MASK]. Il reparut: — C'est marqué, vous avez raison. Entrez. Tellement rare qu'on prenne du monde, voyez-vous.
+
+['il', 'elle', 'Il', 'Jeanne', 'Alice']	Paul	Tout ce que vous voulez. Mais ce n'est plus de mon ressort, là, c'est avec la compagnie qu'il faut voir. Voyant que son oncle se proposait d'intervenir, [MASK] posa une douce main dissuasive sur son avant-bras.
+
+['elle', 'Alice', 'Jean', 'Sarah', 'Marie']	Charles	Tu t'en vas? — Peut-être, dit [MASK] en passant à son épaule la courroie du sac comblé. Quelques jours. — Tu ne vas pas revenir, s'embrasa-1-elle soudain. C'est ça, tu ne vas pas revenir.
+
+['chacun', 'quiconque', 'personne', 'Louis', 'Napoléon']	Lopez	Tout de suite il fut trop tard pour reculer, tout de suite on était pris au piège: dès le signal du capitaine, avant même que [MASK] eût réagi, les trois mutins sau tèrent sur leurs pieds dans des poses agressives, tout de suite ils attaquaient.
+
+['Pierre', 'Paul', 'Jean', 'Antoine', 'Marie']	Pons	Ils étaient debout au milieu du hall, de toutes parts les gens passaient près d'eux. Qu'est-ce que tu vas faire? — Je ne sais pas encore bien, répondit [MASK] en regardant son pied qui poussait un mégot.
+
+['Pierre', 'Jean', 'John', 'Paul', 'Joseph']	Plankaert	Oui, dit [MASK], c'est imposant. Mais alors des cris retentirent à l'intérieur de l'édifice, des cris de fureur ou de douleur, peut-être des deux; les deux hommes coururent vers la porte. Les cris provenaient du réservoir.
+
+['on', 'il', 'chacun', 'elle', 'Paul']	Bob	Ils passèrent juste prendre un verre, sans intention de consulter. Ils s'assirent pour causer dans les fauteuils de toile pochée, dévidèrent différents sujets qui se présentaient tels que la charcuterie, les orchidées, l'indigo, l'espoir jusqu'à l'apéritif, après quoi [MASK] sortit faire quelques courses.
+
+['John', 'Alice', 'David', 'Tom', 'Max']	Nicole	Je ne vois pas qu'il puisse beaucoup m'aider. — Bon, fit [MASK] sans oser parler plus. — Tu n'as pas dit trop de choses, évidemment. Cette histoire, quand même, si ça s'ébruite on aura des ennuis.
+
+['il', 'Il', 'Paul', 'David', 'Peter']	Paul	10 Trente kilomètres au sud, [MASK] se tient toujours seul dans son appartement trop clair. Il passe d'une pièce à l'autre, trouve ces pièces inutilement blanches et nombreuses, il ne voit rien. Ces tableaux sur les murs ne lui sont rien.
+
+['qui', 'elle', 'que', 'et', 'puis']	Justine	S'il est là. Nouveau silence bref, [MASK] fait venir un petit peu de sa lèvre entre ses dents. Ne quittez pas, dit-elle avant de poser doucement le combiné sur la tablette en cuir du secrétaire, revenant à contrecœur vers la salle à man ger.
+
+['Il', 'Joseph', 'Pierre', 'Jean', 'Antoine']	Charles	[MASK] roulait, n'ayant jamais froid, tenant bien sa droite quoique seul dans les chemins forestiers. L'air chargé d'odeur d'arbre se divisait de part et d'autre de lui, bain bouillonnant sans cesse renouvelé, charriant et ravivant les souvenirs d'enfance.
+
+['elle', 'il', 'Marie', 'lui', 'Anne']	Paul	Tu verrais comme c'est joli là-bas, surtout en ce moment. C'est tout vert. Comme [MASK], immobilement, regardait le duc sans répondre, celui-ci préféra ne pas développer ce point tout de suite, on aurait tout le temps d'y revenir.
+
+['On', 'Il', 'Elle', 'Paul', 'Thomas']	Paul	Au bout du quai, l'homme assis sur une caisse n'était pas beaucoup moins imprécis vu de près qu'à l'état de silhouette: un regard absent, une morphologie fruste sous des vêtements foncés de trimardeur. [MASK] lui accorda peu d'attention.
+
+['chacun', 'Pierre', 'Jean', 'lui', 'John']	Vidal	Il tira trois de ses dés de sa poche et l'on fit des 421, usant de capsules de Gévéor comme jetons de charge et de décharge. Ils parlaient un peu tout en jouant, parlèrent du monde comme depuis l'intérieur d'une caverne jusqu'à ce que [MASK] montrât des signes de fatigue.
+
+['Il', 'il', 'II', 'Paul', 'On']	Paul	23 [MASK] s'était résolu, enfin, à remonter dans sa cabine Mais, le hublot ne s'aveuglant d'aucune sorte de rideau ou de volet, la lumière y était trop vive et il ne put dormir guère plus d'une couple d'heures.
+
+['Paul', 'Il', 'Jean', 'Pierre', 'Lui']	Bob	Mais un peu plus tard c'est à lui d'être seul, de se regarder seul dans le miroir qui double l'abat-jour. [MASK] à son tour est descendu téléphoner, il semble que pour lui ce ne soit pas occupé. On dirait qu'il ne revient pas.
+
+['Pierre', 'Jacques', 'Marie', 'Claude', 'Jean']	Toon	Toujours pareil, n'est-ce pas, la demande excède l'offre et les prix montent. Ça décourage le monde, ça bloque. — Ça va, dit [MASK], ça va. Vous les faites à combien, vos petites calculatrices, là?
+

@@ -1,0 +1,200 @@
+['nous', 'vous', 'moi', 'eux', 'toi']	Agathange	Et ça fait, dans la chaleur, du bruit et des cris à vous rendre sourd comme si on avait de l’eau dans les oreilles. Chez [MASK], on a laissé les portes du café ouvertes. Il en coule un ruisseau de fumée et de cris.
+
+['</s>', 'il', 'et', '--oui', 'lui']	Miche	Et puis, s’il y en a un qui a une bouteille !… Après Vachères, ça monte. [MASK], alors, attache les guides à la manivelle du frein et il commence à manger, tranquillement, en laissant ses chevaux aller leur train.
+
+['</s>', 'il', '_', '--il', 'on']	Panturle	Et on le voit passer de temps en temps devant la vitre comme une ombre de l’air. À part ça, pas de bruit, sauf le craquement du silence. [MASK] s’est mis dans le petit rond de jour gris qui coule de la fenêtre.
+
+['</s>', 'il', 'elle', 'le', 'et']	Panturle	Elle gémit devant le cyprès, devant l’aubépine. Elle a mangé la première fleur du lilas. Ce matin, il n’est sorti de ses mamelles que deux ou trois gouttes de lait jaune qui sont restées dans les poils. [MASK] insiste du pouce.
+
+['on', 'il', 'elle', 'maman', 'ça']	Arsule	Et ça a bien marché. Les enfants se sont éveillés tout ébahis et il y avait des bols de lait de chèvre pour tous les trois et [MASK] les leur a portés en tremblant. Puis, les hommes sont retournés : c’étaient des frères.
+
+['et', 'on', 'à', 'il', 'ou']	Panturle	Puis, ils ont dû dépasser le col et l’on n’entend plus rien. D’un coup, [MASK] se sent gelé jusqu’au fond des os. Il se met à courir vers le village. Il crie en courant : — Han, han…
+
+['il', '</s>', '--il', '-', 'on']	Panturle	— Ça peut se faire. Il y avait dans la voiture le gros Sauteiron, celui qui vend des chevaux ; il a crié : — Amène-la ta peau. Il en a donné six francs. [MASK] a dit : — Ça va.
+
+['le', 'la', 'pierre', '"', 'madame']	Michel	Là, il a attendu le courrier. Il a arrêté la voiture et il a fait descendre [MASK]. — Viens un peu, que je te dise quelque chose : tu ne me vendrais pas cette peau de lièvre ?
+
+['maman', 'marie', 'pierre', 'papa', 'jean']	Panturle	Elle a trouvé aussi des aiguilles et une vieille pelote de fil, et elle a dit à [MASK] : « Va m’aiguiser les ciseaux. » Quand elle s’est dressée et qu’elle est sortie de la chambre, on aurait dit qu’on avait mis à sécher des feuilles de mûrier dans cette chambre.
+
+['il', 'elle', 'et', 'ça', 'qui']	Panturle	— Qu’est-ce que tu veux ? — Mets-toi un peu… [MASK] se courbe pour être bien éclairé. Il entre dans le jour de la flamme. C’est un homme encore jeune. Il y a du sang dans ses joues ; l’œil est vif.
+
+['manger', 'boire', 'voir', 'dîner', 'savoir']	Agathange	— Tu as pensé à la caisse, oui ? Bien sûr ? Elle demande à [MASK] parce qu’on n’est pas encore venu. Il se ferait temps. Avec la chaleur qu’il fait, il vaudrait mieux qu’il soit dedans.
+
+['jean', 'marie', 'paul', 'pascal', 'ceci']	Panturle	On avait peut-être besoin de quelque chose. C’est de nous que vous avez honte ? C’est ça qui fait asseoir [MASK], et c’est de là qu’il est parti à parler. Il a pris la main de la femme dans sa main. Il parlait fort
+
+['celui', 'celle', 'pierre', 'paul', 'julien']	Panturle	Sur la pierre de l’âtre, il y a trois bols de lait chaud qui fument. — C’est plus la peine d’en mettre trois, dit [MASK] qui s’assoit à côté des bois. — Comment ? Il est… — Non, il vient de partir.
+
+['il', '</s>', 'elle', 'on', "j'"]	Panturle	la peau de dessous le tronc toute moisie. [MASK] embrasse le tronc gluant et il monte en faisant les ciseaux avec ses genoux, en lançant ses grandes mains qui se referment sur le rond des branches en tirant des bras, glissant des reins, de la résine plein les doigts.
+
+['chauffage', 'travail', 'livraison', 'refroidissement', 'moitié']	Panturle	C’est ça, le vin de [MASK] : c’est de la sentir contre lui et contente. Là qu’il n’y a personne, il lui met son bras autour de la taille et il la serre un peu pour la sentir souple et qui se plie comme une gerbe
+
+['anne', 'hélène', 'annette', 'elle', 'olga']	Arsule	Il a serré le petit doigt d’[MASK] qui avait les mains mouillées, déjà attelée à son lavage et il leur a dit en s’en allant : — À dans trois jours ; vous verrez toute la famille : la femme qui est bonne, elle aussi, puis les galopins ;
+
+[',', 'celui', '...', 'là-haut', 'celle']	Arsule	Il replace la boîte de poivre sur la cheminée. Il faut mettre un manche à ce tournevis. Maintenant que le silence est là, on entend encore là-haut [MASK] qui chantonne en rangeant l’armoire. Les labours d’automne ont commencé ce matin.
+
+['et', ',', 'ou', '...', 'plus']	Panturle	Il met sa main droite sur son épaule gauche pour tâter le mal dur qu’y a planté la bricole et qui rayonne des racines de douleur dans tous ses reins. — Achète-toi un âne. — C’est cher. — Bon, dit [MASK] lentement.
+
+['toi', 'fini', 'bon', 'ça', 'moi']	Mamèche	Mais, il est las, et il a été vite endormi. Et il a été tiré de son sommeil – ça pouvait être la mi-nuit ou plus – par un grand cri qui est venu le toucher dans l’oreille comme une pierre : — C’est [MASK] !
+
+['jacques', 'maurice', 'jean', 'henriette', 'marguerite']	Panturle	Il tord sa chemise, puis il se la noue sur le ventre, puis il met ses souliers. Elle le regarde faire. Elle sait ce qui va arriver : c’est tout simple. — Viens, dit [MASK], on va à la maison.
+
+['tout', 'comment', 'cela', 'juste', 'mieux']	Banon	Enfin, on abordera le plateau, l’étendue toute rabotée par la grande varlope de ce vent ; on trottera un petit quart d’heure et, dans une molle cuvette où la terre s’est affaissée sous le poids d’un couvent et de cinquante maisons, on trouvera [MASK].
+
+['de', ',', '(', 'il', 'que']	Arsule	Somme toute, c’est là qu’elle aurait voulu. Le soir, il s’est mis sur la pierre de l’âtre et il s’est mis à parler. — Une d’ici qui aurait eu plaisir à nous voir ensemble. — Qui ça ? a demandé [MASK].
+
+['bouc', 'chien', 'tête', 'chèvre', 'porc']	Turcan	T’as pas un bouc ou t’en connais pas ? Elle peut plus rester comme ça. Ça la mine. Et puis, pour nous… — Ça, de bouc, il y a toujours celui de [MASK].
+
+['</s>', '_', 'il', '=', '"']	Agathange	Il y a là-dedans des gens qui ont dîné de saucisson et de vin blanc autour des tables de marbre et qui discutent maintenant en bousculant les verres vides du poing et de la voix. [MASK] n’en peut plus. Il est sur pied depuis ce matin.
+
+['</s>', "c'", 'il', "--c'", 'elle']	Panturle	Regardez, il y a encore la trace dans l’herbe. C’est vrai, il y a dans le pré une large piste d’herbe couchée. [MASK] est au bout comme un char au bout de son chemin. — Ça vous a donné de la peine ?
+
+['il', 'je', 'et', 'cela', 'tout']	Panturle	Le voilà vide tout d’un coup. Le vent toque du doigt contre lui comme contre un baril, pour voir s’il reste encore du jus. Non, [MASK] sonne sous le doigt du vent comme un baril vide. Il est revenu à la maison presque au soir.
+
+['blanche', 'pénélope', 'claire', 'jeanne', 'diane']	Panturle	Une fois que [MASK], ayant ébranché le cyprès, posait sa brassée devant l’âtre, elle a dit : « Non, le bois il faut le mettre à l’écurie. Ici, ça me fait balayer et mal dans les reins. Allez, vas-y. »
+
+['elle', 'et', 'qui', '</s>', 'puis']	Arsule	et, sous les pieds, il y avait ce sol poreux qui sonne comme un plafond de cave ; plus d’herbe mais des touffes de genévriers, tout arc-boutés. On était cette fois dans le grand large du plateau comme au milieu d’une mer. [MASK] s’est arrêtée.
+
+['</s>', 'on', '_', '--il', 'il']	Arsule	Les bords transparents du ciel s’appuient de tous les côtés dans l’herbe. Vers midi, on s’arrête pour casser la croûte. [MASK] sort son épaule de la bricole de cuir et elle fait aller deux ou trois fois son bras pour le dégourdir.
+
+["j'", 'tout', 'ça', 'dieu', 'cela']	Gédémus	Et on avait beau parler et parler, ça ne faisait pas que ce qui était venu tout à l’heure ne revienne pas. La preuve que [MASK] y pensait aussi, c’est qu’il regardait la porte de temps en temps. — Si on savait tout !
+
+['il', 'elle', 'on', 'et', 'ii']	Panturle	Tout le jour, [MASK] a porté l’enclume sur ses épaules, une enclume d’air, imaginée, mais bien plus lourde que la vraie de ce matin. Tout le jour ! De temps en temps, il sentait la petite meurtrissure que l’angle de fer avait marquée dans son épaule.
+
+['celui', 'ce', 'lui', 'et', 'à']	Gaubert	C’est pour cela qu’on lui a mis le nom de « guigne-queue » : ce petit oiseau que les buissons se jettent comme une balle sans arrêt pendant trois saisons de l’an. C’est [MASK] qui faisait les meilleures charrues. Il avait un sort.
+
+['maman', 'moi', 'dit-elle', 'dit-il', 'allons']	Arsule	La bougie est à moitié. On ne peut pas parler comme ça toute la nuit. Quand on dort, on n’entend rien. — Tu es fatiguée, [MASK], on dort ? Avant, il est allé jusqu’à la porte. Il a écouté.
+
+['et', ',', '...', 'voilà', 'puis']	Michel	— Alors ! fait [MASK] qui s’arrête tout pétrifié au milieu de la route. Puis, il recommence à marcher parce que sa voiture et les autres avancent. — Le plus, continue l’oncle Joseph, c’est que ça n’est pas tout là.
+
+['personne', 'monsieur', 'je', 'lui', 'maman']	Panturle	; mais ses mains sont clouées sur la canne et le visage ne peut pas se cacher, et là, la tête droite, il pleure avec des yeux éperdus. Et au bout d’un moment, que [MASK] n’osait plus rien dire.
+
+['lui', 'moi', 'tout', 'vrai', 'bien']	Bridaine	Son nom : c’est [MASK] ; on est un peu cousin, de loin, du côté de la femme. — On a beau dire, ce blé du dehors, pour nos terres, ça ne vaut pas le blé du pays. Tu vois…
+
+['il', ':', '-', 'a', 'f']	Panturle	— Eh oui, dit [MASK]. Il l’a accompagné jusqu’à la porte. Il ne pleut plus. Ça n’a pas été une grosse pluie. Il y a même du soleil au-dessus de la brume et l’herbe luit.
+
+['il', 'elle', 'celui-ci', 'je', 'celle-ci']	Panturle	Elle vit avec tranquillité enfin, et de la joie de toute espèce, on peut bien dire. C’est le plateau où, toute la nuit, la pluie a foulé l’herbe. Tout soudain, [MASK] s’arrête et jette son sac à terre.
+
+['il', '-', ',', 'et', '"']	Gédémus	[MASK] reconnaît l’endroit. Il est content. — C’est la bonne route. Je reconnais ça comme une figure d’homme. Puis il dit, soulagé : — Ah ! on a un peu la paix. J’en ai la tête pleine, à la fin, de ce vent.
+
+['on', 'ça', 'qui', 'il', 'elle']	Panturle	Le jour d’après, la nuit d’après, et jusqu’à l’aube, ça a presque été les bruits d’une ferme véritable et [MASK] n’en a pas dormi. Il y avait le cheval, en bas, dans l’écurie.
+
+['</s>', 'il', 'et', 'le', 'la']	Panturle	Il laisse la porte ouverte pour bien le regarder partir. Et voilà. Le silence revient. Une branche de tilleul s’égoutte dans un seau qu’on a laissé dehors. [MASK] rentre doucement jusqu’à la table. Il replace la boîte de poivre sur la cheminée.
+
+['je', 'que', 'qui', 'elle', 'quand']	Arsule	[MASK] tire la bricole et pour ça, elle s’est penchée en avant. Le vent entre dans son corsage comme chez lui. Il lui coule entre les seins, il lui descend sur le ventre comme une main ; il lui coule entre les cuisses ;
+
+['lui', 'moi', 'nous', 'le', 'vous']	Panturle	De près, c’est un homme un peu plus petit que [MASK], mais tout râblé, avec de bons angles, des épaules en devant de brouette et de bonnes mains. — C’est ; de la riche terre ça, tu sais.
+
+['on', 'il', 'elle', 'maman', 'lui']	Gédémus	Lui il l’aidera quelquefois dans les grosses montées. Puis, en octobre, au retour, quand on arrivera devant le premier platane, devant l’ombre, devant la descente, à dix minutes de la maison, [MASK] dira : — Allons, donne un peu.
+
+['lui', 'moi', 'maintenant', 'toi', 'voilà']	Gaubert	Et lui il s’arrêtait de sauter de l’enclume au baquet pour dire : — Elle est promise. Maintenant, [MASK], c’est un petit homme tout en moustache. Les muscles l’ont mangé. Ils n’ont laissé que l’os, la peau de tambour.
+
+['elle', "m'", 'maman', 'il', 'leur']	Arsule	Elles ont ri toutes les trois et [MASK] a dit : — Attends que je te le gratte, moi, attends, va ! Elles sont allées près du ruisseau. Il était tout emmoustaché d’herbes sales et grognon parce que les pluies lui ont donné pas mal d’eau.
+
+[',', 'jean', 'pierre', 'john', 'jacques']	Panturle	— Tu y passeras quand même, dit [MASK] les dents serrées. Maintenant le grand couteau qui ressemble à un devant de barque navigue dans la terre calmée. — Allez, le Nègre, tire un peu, feignant de bonsoir. Ça va tout allègre et tout clair.
+
+['il', 'on', 'monsieur', 'ça', 'lui']	Panturle	Tiens, j’ai eu un chien, moi, j’en avais plus de satisfaction. Tout le long de ça, [MASK] s’est dressé ; il est allé à la table ; il a pris sa pipe et son tabac, puis il est revenu s’asseoir ;
+
+['dodo', 'mal', 'plaisir', 'chaud', 'boum']	Panturle	Et voilà : devant la maison, dans l’herbe fraîche, posée sur le pré comme une sauterelle, il y avait la charrue toute prête. — Avec ça, a fait [MASK]… Le lendemain, on est allé brûler les herbes sur le terrain.
+
+['on', 'il', 'tout', 'ça', 'chacun']	Panturle	Ça été d’abord des : — Oh ! l’homme, qui ont dû durer pas mal de temps parce qu’on dormait comme des sourds. Puis ils ont tapé contre la porte et [MASK] s’est levé. On les a fait entrer dans la cuisine.
+
+['non', 'ça', 'oui', 'dit', 'moi']	Gaubert	Ça va repartir de bel élan et ça redeviendra de la terre à homme. Seulement, qui sera là-haut dans ma forge ? — Ah ! ça, [MASK], c’est pas des choses pour la réflexion des vieux. Si c’est de ça que tu pleures.
+
+["c'", 'il', 'elle', 'on', 'qui']	Caroline	[MASK] est triste, là, devant le grand jour de la porte. Elle n’ose pas sortir de l’ombre de l’étable. Elle cligne des yeux. Elle est maigre ; elle a les flancs creux. Les mouches font trembler la peau de son ventre.
+
+['oui', 'non', 'alors', 'pourquoi', 'mais']	Gaubert	Il a posé d’un coup le sac et la miche, et il s’est précipité, et il l’a prise, cette main qui est comme du linge mouillé, entre ses bonnes mains solides. — Et alors… [MASK], et alors non ? Comment ?
+
+['</s>', '-', '"', '--', '...']	Valigrane	— Eh ! ne vous pressez pas, on a le temps. Y a pas le feu ! — Je ne voulais pas te faire attendre. — Et alors, on n’est pas bien ici à l’ombre ? [MASK] s’essuie la peau de la tête avec un grand mouchoir tout propre.
+
+['il', 'elle', ',', "l'", 'qui']	Panturle	; il a entrouvert le paquet pour regarder l’outil qui est là, tout insensible. — Elle ne s’en doute pas qu’elle donne tant de peine. Puis [MASK] a recommencé, à suivre son idée : — Alors, comme ça, l’enfant te réclame
+
+['(', 'qui', ',', '"', 'et']	Panturle	des fois il fait nuit tout à fait et alors on voit seulement son gros œil couleur d’herbe qui clignote et qui guette. [MASK] connaît ça comme sa poche. Même dans les endroits où c’est l’ombre bouchée, il envoie son pied juste sur la pierre qu’il faut
+
+['dieu', 'nina', 'jack', 'claire', 'mickey']	Panturle	— Après tout ce que je t’ai dit ! — Oui. Ils restent comme ça à se regarder. Et alors sur la lèvre de l’homme, il est venu comme un sourire, un petit serpentelet de sourire qui a été coupé en deux par la voix de [MASK].
+
+['il', 'ne', ',', '-', 'et']	Panturle	[MASK] mâcha sa chique : une boule de tabac raclé au fond de sa poche, mélangée de brins d’herbe et de poils de bêtes. C’est amer. — … de dieu, ce temps. Le vent a commencé sa colère de trois jours.
+
+['chacun', 'jésus', 'dieu', 'pierre', 'joseph']	Gédémus	Alors, ils se sont remis à manger ; le regard de [MASK] a quitté la bougie et il est allé à la porte. Autour du vantail il n’y avait plus le cadre du jour gris. La nuit pesait de l’épaule contre la porte.
+
+['on', ',', 'et', 'je', 'en']	Arsule	— Tu n’as plus rien vu ? Il est inquiet, on dirait. [MASK] tourne vers lui un œil tendre et caressant : — Non, plus rien. Son corps est en travail comme du vin nouveau. Tout par un coup, il est venu la lourde trêve du crépuscule
+
+[',', 'le', 'un', 'et', 'en']	Panturle	Quand elle a ouvert le lit, le soir, ça a été blanc comme au cœur d’un lis. Elle avait mis les draps. — Ça, alors ! a dit [MASK] tout ébahi. Il a ôté son pantalon, il a ôté sa chemise aussi.
+
+['dis', 'toi', 'maman', 'moi', 'papa']	Braë	Enfin, c’est vrai, ça ; dis, toi, [MASK] ! Tu le sais que mon homme est là au fond de votre terre, qu’il est allé là-bas dans le fond vous téter l’eau avec sa bouche jusqu’à la veine des sources.
+
+[',', 'ce', 'celui', 'qui', 'de']	Valigrane	Voilà [MASK] qui descend la route comme un cadet ; le voilà même dans le sentier qui raccourcit les détours. Il se dépêche ; s’il se dépêche tant il va tomber. — Eh ! ne vous pressez pas, on a le temps. Y a pas le feu
+
+['il', 'et', 'qui', 'elle', 'dieu']	Panturle	Ça vient du sud par bonds et on entend toute la terre qui en parle. Le vent du printemps ! Au matin, [MASK] a ouvert sa porte sur le monde délivré. C’est la vie, c’est la belle vie avec des gestes et des courses.
+
+['-', '</s>', 'et', 'il', 'on']	Gédémus	Il y a même du soleil au-dessus de la brume et l’herbe luit. [MASK] s’arrête sur le seuil. — Tout ce que je viens de te dire de la femme, là, tu sais, eh bien, il n’y a rien de vrai.
+
+['elle', 'tout', 'on', "c'", 'celle-ci']	Arsule	— Ah ! on est de beaux soldats, l’un et puis l’autre. On a sorti la machine à aiguiser. Elle est là sur ses roues dans le droit fil d’un petit chemin. Elle va partir : [MASK] est attelée.
+
+[')', '"', ';', ',', 'ou']	Gaubert	Moi, un peu de soupe, un peu de tabac, je fais mon train. — Et les autres, ils y sont encore là-bas ? — Je l’ai su par un des Hautes-terres. Ils y sont encore trois. Il y a [MASK] ;
+
+['il', 'elle', 'on', 'lui', 'chacun']	Gédémus	, on arrivera là-bas bien avant le soir. En tout comptant. Mais il n’a pas tout compté, et on est parti. Ce devait être vers le milieu du matin et [MASK] a tourné la tête pour regarder derrière lui.
+
+['moi', 'nous', 'vous', 'eux', 'toi']	Panturle	il ondule encore un peu ; il bat encore un peu de la queue contre le ciel dur. Il n’y a pas encore de soleil. Le ciel est vide ; le ciel est tout gelé comme un linge étendu. Il y a du feu chez [MASK].
+
+['il', 'et', 'qui', 'on', ',']	Panturle	— Rien. [MASK] n’en peut pas revenir de cette force disparue, de cet homme sans cesse en travail et qui est là comme une pierre. Gaubert le premier, s’est repris. — Et alors, comment ça va que tu es venu te perdre jusque par ici
+
+['on', 'il', '-', 'elle', 'et']	Gédémus	— Ça vient de faire : hop, là devant… [MASK] se gratte la tête. — Loin ? — Non, là devant. Là devant c’est l’herbe plate. — Écoute, dit-il, tournons un peu à droite alors.
+
+['napoléon', 'vincennes', 'mai', 'hollande', 'france']	Panturle	Puis, ils ont été inquiets, tous les deux, à ne pas savoir de quoi. Inquiets au point de trouver les matinées amères. C’était dans l’air. Ça les remplissait d’amertume. C’était surtout après les chasses de [MASK] que ça venait.
+
+['ça', 'cela', 'berlioz', 'beethoven', 'mozart']	Panturle	Derrière les chevaux de bois, là-bas, sous les tilleuls, il y a toujours [MASK]. Il est lourd et tout saoul de cet orgue qui grogne comme dix pourceaux, et il est lourd aussi de tout cet argent qu’il a dans la main.
+
+['on', 'la', 'je', 'il', 'elle']	Gédémus	Et aussi le poids de la voiturette. Il y a d’abord, il y a surtout la machine à aiguiser avec sa lourde meule, en grosse pierre épaisse et ses solides montants de bois qui ne doivent pas trembler quand [MASK] pédale et que la pierre tourne.
+
+['lui', '</s>', 'il', 'celui-là', 'louis']	Gaubert	« On l’a eue, quand même, cette garce ! » [MASK] aussi s’est mis à rire, ça lui faisait chaud au cœur de voir qu’on a passé le plus mauvais ; il a entrouvert le paquet pour regarder l’outil qui est là, tout insensible.
+
+['marie', 'pierre', 'jésus', 'jeanne', 'dieu']	Panturle	Elles tremblent. Il tourne à grand effort sa tête et lève les yeux jusqu’aux yeux de [MASK]. — Prends-la, toi, ma main là-dessus ; prends-la, ça me fera plaisir ; moi, je peux plus.
+
+['i', 'm', 'ma', 'l', 'r']	Pascali	Et c’est encore elle qui a dit, comme à la suite d’un rêve qu’elle faisait : — Nous serons dans l’herbe, lui et moi ; et je ferai gicler mon lait dans l’herbe pour le faire rire. Un appel descend du village : — [MASK]… i… ine.
+
+['elle', "c'", '</s>', 'il', 'qui']	Aubignane	elle se penche vers ses aisselles pour sentir son odeur à elle. Elle geint en elle-même : maman, maman, comme pour la peur. [MASK] est de la couleur du plateau. On ne le voit pas à l’avance, puis, d’un coup on y est.
+
+['jean', 'paul', 'elle', 'georges', 'jacques']	Gédémus	; on est enfin à l’abri. La lumière de la bougie est là comme un fruit roux sur la paille. — Écoute, dit [MASK], on a bien marché aujourd’hui, et puis ce vent nous a battus ; on va ouvrir une boîte de sardines.
+
+['oui', 'bon', 'non', 'ça', 'ah']	Gédémus	Là. Qu’est-ce qu’il y a d’écrit, là-dessous ? — [MASK], c’est mon nom. — Bon, ça va. Attends, on va boire un coup. Ils ont trinqué avec du vin.
+
+['alors', 'bonjour', 'maman', 'chéri', 'dis']	Michel	C’est encore midi ; il n’y a rien à faire. Alors, que voulez-vous, on tire les paniers de dessous la banquette et on mange. On tape à la vitre : — [MASK], tu en veux de cette bonne andouillette ?
+
+['-', '</s>', 'il', '"', 'elle']	Michel	— Et de cet œuf ? — Et de ce fromage ? — Ne te gêne pas. Il ne faut pas faire du tort à personne. [MASK] ouvre le portillon et prend tout ce qu’on lui donne. — Attendez, attendez, j’ai les mains pleines.
+
+['elle', 'jacques', 'il', 'jeanne', 'catherine']	Delphine	— Ah ! dit [MASK], que voulez-vous, il faut s’accoutumer. Si nous commençons de ce soir à faire compagnie, il ne nous restera rien pour les veillées de cet hiver. Non, la maison est prête, on va y rester.
+
+['alors', 'maintenant', 'et', 'mais', 'quoi']	Caroline	Le bol est vide. — Et alors, [MASK], et alors, et alors, c’est déjà fini ? Elle vient vers lui toute tremblante, pousse sa tête rocailleuse contre la tête de l’homme, doucement, en caresse, et geint.
+
+['14', '13', '10', '12', '20']	Panturle	Elle suit [MASK]. Ils sont sur le bord de ce plateau où elle a eu à la fois tant de peur et tant de chaleur d’amour. Elle y pense. Elle pense que c’est le vent qui a été son marieur. Sa vie n’a commencé que de là.
+
+['oui', 'monsieur', 'non', 'bien', 'madame']	Valigrane	ah ! ne faites pas ça. » En galère, voilà ce qui t’arrive ! — Ça, [MASK], je suis de ton avis. — Remarque qu’on s’y laisse tous prendre. Moi, l’enfant a voulu ; le gendre a voulu.
+
+['</s>', 'qui', 'il', 'elle', '_']	Panturle	Elle plonge d’une aile habile dans l’ombre glauque du sous-bois. Deux feuilles mortes quittent la branche après elle et tombent. — Caroline, tu as fini ton jeu ? À la chèvre qui tire encore sur la gauche pour écorner une bardane. [MASK] va par des chemins à lui.
+
+['</s>', '-', '_', '"', '(']	Gaubert	; une belle peau sans un pli. On le tiendrait en équilibre sur le poing. [MASK] siffle entre ses dents : — … de garce ; il est de la bonne race, celui-là. Oui, il est de bonne race. C’est le dernier.
+
+['voir', 'entendre', 'revoir', 'toi', 'papa']	Alphonsine	— Ça tu vois, c’est un ami, ah oui ! — Il faudra venir un jour à la maison, a dit l’Amoureux, ça fera plaisir à [MASK]. Et il est reparti avec sa charrette. Il y avait six gros sacs de blé près de la fontaine.
+
+['tout', 'bien', 'loin', 'cela', 'clair']	Panturle	on fait attention. On pousse la porte. Déjà, par l’entrebail, le brouillard du dehors fume. La porte s’ouvre. C’est un homme qui est sur le seuil. Comme il voit [MASK], il reste, la main sur la poignée de la porte.
+
+['maurice', 'georges', 'jeanne', 'julien', 'robert']	Gaubert	C’est vrai, il a mis la belle veste, et le beau chapeau, et le beau pantalon de velours. — Je pars, dit [MASK] doucement. Une grosse malle à ferrures écrase l’herbe de la rue. — Je pars.
+
+['</s>', 'mais', 'et', '-', 'cela']	Arsule	; on n’est pas toujours obligé de penser à cette terre plate et au vent qui s’y aiguise dessus. [MASK] mange aussi de l’ail. Sa tête dépasse les herbes ; elle regarde le grand plateau qui est sous le ciel comme un autre ciel renversé.
+
+['</s>', 'il', 'et', 'elle', ',']	Panturle	— Je suis comme les autres, mais je te dis : ça ne se fait pas comme ça. Il faut que ça vienne de plus loin et de longtemps. — Si je t’en mène une, tu la prends ? [MASK] s’arrête de mâcher sa chique.
+
+['il', 'le', ',', 'la', 'elle']	Gédémus	[MASK] mange encore un peu, il la regarde en dessous et, comme il voit qu’elle ne bouge pas, il dit : — Attends, je vais voir… Et il se dresse. Il fait quelques pas dans l’herbe mais il se retourne et il dit
+
+['ou', 'que', ',', 'le', 'la']	Arsule	C’est une petite femme replète, toute bien charnue par-devant et par-derrière. Elle a un cou épais qui semble fait en graisse de porc, deux petits yeux bien aigus et une bonne bouche de fruit. — Oui, Madame, lui a dit [MASK].
+
+['er', 'an', '...', 'tenu', 'aut']	Arsule	Il est bon d’avoir cette boîte toute prête pour le cas où on aurait l’occasion d’un bon mulet. Ça peut arriver. Il faudra voir. On ne peut pas toujours vivre d’emprunt. Dans le chemin qui descend, il y a [MASK] et ses galoches
+
+['elle', 'il', 'y', "'", 'on']	Arsule	[MASK] a tout le bras droit comme mort. Elle touche son épaule où la bricole a fait une marque qui se sent sous le corsage. Ça fait mal. Il n’y a plus le vent pour la caresser, elle est fatiguée.
+
+['</s>', '-', '_', '"', 'il']	Michel	puis l’ornière oblique toute seule vers un bosquet de châtaigniers et les chevaux s’arrêtent, sans commandement. [MASK] saute du siège, ouvre la portière et invite à descendre : — Sieurs dames, pour soulager les chevaux…
+
+['je', 'celle-ci', 'la', 'tout', 'celui-ci']	Panturle	Tu vas venir manger un morceau mais laisse-moi encore faire trois raies. Et l’homme a marché à côté de la charrue pendant que [MASK] finissait. À tout moment il se baissait sur la terre, il en prenait des poignées et en tâtait la graisse.
+
+['pendant', 'encore', ';', 'à', ',']	Panturle	Il était maigre et tout en os comme un cep de vigne ; sa gueule rouge cherche le fil du vent. Il est allé sur le ruisseau et il a bu. Il buvait, puis, il levait la tête et regardait [MASK] un moment ;
+

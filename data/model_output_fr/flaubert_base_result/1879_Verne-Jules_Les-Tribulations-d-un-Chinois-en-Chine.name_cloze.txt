@@ -1,0 +1,200 @@
+['-', 'que', '...', '"', '--']	Craig.–	! répondit [MASK] Vous ferez du feu ?– Je ferai du feu.– Pourquoi attendre à demain ? demanda Soun.– Voulez-vous donc que notre feu nous signale au capitaine Yin et à ses complices ?– Non ! non !– Alors à demain !
+
+['celui-ci', 'pierre', 'fer', 'pêche', 'jean']	Soun	On l’attira avec une gaffe, on lui releva la tête au-dessus de l’eau. Un des pêcheurs le saisit par son bout de queue et l’enleva…La queue de [MASK] lui resta tout entière dans la main, et le pauvre diable fit un nouveau plongeon.
+
+['non', 'moi', 'vraiment', 'monsieur', 'mais']	Wang	! D'ailleurs, où serait le mérite de te rendre ce dernier service, si je ne risquais rien !– Non pas, [MASK] ! je préfère te donner toute sécurité à cet égard. Personne ne songera à t’inquiéter !
+
+['celui-ci', 'celle-ci', 'chacun', 'je', 'lui']	Soun	Et ils se préparaient à mâter leur bâton, afin d’y hisser sa petite voile, lorsque [MASK] poussa une exclamation d’épouvante.« Te tairas-tu, imbécile ! lui dit son maître. Veux-tu donc nous faire découvrir ?
+
+['il', '</s>', 'elle', 'on', 'et']	Wang	La lettre, qui serait trouvée sur lui, ne laisserait aucun doute à cet égard. [MASK] n’avait donc intérêt à le frapper que dans certaines conditions, qui ne se présentaient pas au milieu des rues fréquentées ou sur la place publique d’une ville.
+
+['moi', 'toi', 'non', 'pas', 'hein']	Couo	« Est-ce toi, [MASK] ? » dit une voix, que contenait un sentiment d’excessive prudence.Presque en même temps, de l’une des bières de bâbord, qui s’entrouvrit, une autre voix murmura : « Est-ce toi, Fâ-Kien ?
+
+['napoléon', 'personne', 'la', 'le', 'tout']	Wang	Nul étranger ne fut vu, errant sous les portiques de marbre à demi détruits, les pans de murailles calcinées, qui marquent l’emplacement du Palais Impérial, théâtre de cette lutte suprême, où [MASK], sans doute, avait résisté jusqu’à la dernière heure.
+
+['non', 'oui', 'mais', 'bien', 'oh']	Wang	tu ne m’as pas encore faite.– Laquelle ?– Mais… le danger que tu pourrais courir, après ma mort, d’être poursuivi pour assassinat.– Oh ! fit [MASK], il n’y a que les maladroits ou les poltrons qui se laissent prendre !
+
+['</s>', '"', "'", ',', '(']	Lé	La chaise avançait donc lentement. L'encombrement était d’autant plus grand qu’elle se rapprochait du boulevard extérieur. Elle y arriva, cependant, et s’arrêta à l’intérieur du bastion, qui défend la porte, près du temple de la déesse Koanine.[MASK]
+
+[',', ':', ';', '/', '(']	Lé	[MASK]-ou ne répondit pas. Elle prit la main de son ami et l’entraîna dans le boudoir, devant le petit appareil phonographique, discret confident de ses peines !« Je n’ai pas cessé un seul instant de vous attendre, cher cœur brodé de fleurs de soie
+
+['se', ',', 'il', 'et', 'sou']	Craig	Pendant que l’hydrogène brûlait à la pointe du tube [MASK] tenait au-dessus une bouilloire remplie d’eau douce qu’il avait puisée à un petit tonnelet, enfermé dans son sac.En quelques minutes, le liquide fut porté à l’état d’ébullition.
+
+['tenter', 'essayer', 'dessein', 'nouveau', 'accepter']	Wang	Cela ne pouvait continuer ainsi.Alors la pensée lui vint qu’il répugnait peut-être à [MASK] de le frapper dans cette maison, où il avait été si hospitalièrement recueilli. Il résolut de le mettre plus à son aise encore.
+
+['robert', 'georges', 'john', 'jacques', 'maurice']	Soun	– Sans cela, répondit [MASK], est-ce que, moi qui connaissais vos habitudes, je serais jamais entré à votre service ! »Et il dit cela si drôlement, que tous éclatèrent de rire.Ces pêcheurs étaient des gens de Fou-Ning.
+
+['lui', 'qui', 'et', 'jésus', 'dieu']	Wang	! La roue de la Fortune tourne sans cesse, et le vent du printemps est variable ! Riche ou pauvre, sache accomplir ton devoir ! Partons-nous ? »Et véritablement, [MASK], en philosophe pratique, était prêt à quitter la somptueuse habitation.
+
+['chacun', 'peine', 'tous', 'pierre', 'charles']	Soun	« Comme mon maître sera bien couché là-dedans ! ajouta même le fidèle domestique. C'est à vous donner envie d’en essayer ! »Observation qui valut à [MASK] un petit signe d’amitié.Les 13, 14 et 15 mai se passèrent.
+
+['...', '</s>', 'il', "s'", '.']	Soun	Oui ! c’est pour les autres qu’il faut savoir tout faire ! Le secret du bonheur est là ! »[MASK] entrait alors, pâle comme un homme que le mal de mer vient de torturer pendant quarante-huit mortelles heures.
+
+['</s>', ':', 'rem', 'am', ',']	Lé	[MASK]-ou remariée, il est vrai, n’aurait plus le droit de passer sous les « paé-lous », arcs commémoratifs que l’empereur fait quelquefois élever en l’honneur des femmes célèbres par leur fidélité à l’époux défunt ;
+
+['chacun', 'en', 'il', 'on', 'elle']	Wang	! Ainsi [MASK] avait chargé un autre de tenir sa promesse, et quel autre ! un Taï-ping redoutable entre tous, qui, lui, n’éprouverait aucun scrupule à accomplir un simple meurtre, dont on ne pourrait même le rendre responsable !
+
+[',', 'il', 'qui', 'artagnan', 'et']	Wang	[MASK], plus sérieux que d’habitude, détournant ses yeux, que cachait imparfaitement la lentille de ses lunettes, ne parvenait guère à dissimuler une constante préoccupation. Lui, de si bonne humeur, était devenu triste et taciturne, de communicatif qu’il était.
+
+['crabe', 'queue', 'corps', 'chacun', 'pattes']	Soun	Il faut croire que les pattes repoussèrent instantanément au malencontreux crabe, car il détala prestement, non sans avoir ramassé sur le tapis le morceau de son précieux appendice.De cinquante-sept centimètres, la queue de [MASK] se trouvait réduite à cinquante-quatre.
+
+['dis', 'moi', 'et', 'dit-il', 'oui']	Wang	Après celui-là, [MASK], je te tiendrai quitte des neuf mille neuf cent quatre-vingt-dix-neuf autres, et j’ajoute que tu ne devras même pas attendre un remerciement de ma part.– Le plus habile explicateur des choses inexplicables ne te comprendrait pas. De quoi s’agit-il ?
+
+['de', ',', 'et', 'ce', 'pour']	Shen	[MASK], ce Taï-ping qu’ils ne connaissaient pas, ce qui le rendait bien autrement redoutable. Puisqu’on allait à lui, on aurait pu se croire en sûreté, mais qui prouvait qu’il ne s’était pas déjà mis en route pour rejoindre sa victime
+
+[':', 'liberté', 'r', 'montréal', '...']	Wang	?N'est-ce pas au milieu des ruines de la ville incendiée que ses ossements furent arrachés à la tombe et jetés en pâture aux plus vils animaux ? N'est-ce pas enfin dans cette province que cent mille des anciens compagnons de [MASK] furent massacrés en trois jours
+
+['il', '</s>', 'chacun', 'on', 'celui-ci']	Wang	On s’expliquerait ensuite.[MASK] comprit qu’il allait être atteint, et comme, par un entêtement inexplicable, il semblait redouter de se trouver face à face avec son ancien élève, il alla jusqu’à risquer sa vie pour lui échapper.
+
+['jacques', 'celui-ci', 'jean', 'jeanne', 'georges']	Craig	Le disque de la lune, passé du rouge cuivre au blanc d’argent, illumina bientôt tout le ciel.Soudain, un bon juron, bien franc, bien américain, s’échappa de la bouche de [MASK] : « La jonque ! » dit-il.
+
+['il', 'on', 'et', 'julien', 'celui-ci']	Soun	Là-dessus, [MASK] fit comprendre aux deux agents qu’il aimait mieux ne pas parler, et il alla s’installer au centre du bateau, non sans avoir jeté sur le fleuve, très élargi déjà, ce regard mélancolique des personnes prédestinées à l’épreuve, un peu ridicule, du mal de mer.
+
+['montréal', 'elle', 'tremblay', 'maintenant', 'et']	Wang	De pareilles aubaines ne lui étaient pas ordinaires.Cela fait, [MASK] et son élève se dirigèrent vers la colonie française, le premier songeant à cette prédiction qui s’accordait avec ses propres théories sur le bonheur, le second sachant bien qu���
+
+['napoléon', 'celui-ci', 'chacun', 'dreyfus', 'bonaparte']	Wang	mais, le lendemain, il dut se relever aussi vivant qu’un homme bien constitué peut l’être.Tant d’émotions en pure perte ! Cela devenait agaçant.Et dix jours s’étaient écoulés déjà ! Il est vrai que [MASK] avait deux mois pour s’exécuter.
+
+['qui', 'et', 'que', 'elle', ',']	Wang	[MASK], depuis ce jour, resta dans la maison de son bienfaiteur. Jamais il n’eut à répondre sur son passé.Personne ne l’interrogea à cet égard. Peut-être craignait-on d’en apprendre trop ! Les atrocités commises par les révoltés avaient été, dit-on, épouvantables.
+
+['oui', 'non', 'tout', 'que', 'pas']	Craig	Mais, très probablement, la lune, qui n’allait pas tarder à montrer son demi-disque, dissiperait ces brumes peu opaques et dégagerait largement l’espace.« La jonque est loin ! dit Fry.– Ces coquins dorment encore, répondit [MASK], et n’auront pas profité de la brise
+
+['</s>', 'il', 'elle', '"', '-']	Wang	Très certainement, il éprouvait une véritable affection pour elle ! [MASK] le lui avait bien démontré d’après les plus indiscutables règles de la logique, et cet élément nouveau introduit dans son existence pourrait peut-être en dégager l’inconnue…c’est-à-dire le bonheur… qui… que…
+
+[',', 'et', 'le', 'à', ':']	Soun	Aussi, de quelle façon il reçut [MASK], lorsque celui-ci vint, comme à l’ordinaire, l’aider à sa toilette du matin.« Va au diable ! s’écria-t-il. Que dix mille coups de pied te servent de gages, animal !
+
+[',', 'en', ':', 'le', ';']	Wang	En dehors de ce yamen et d’un millier de dollars, qui peuvent me faire vivre un ou deux mois encore, il ne me reste plus rien.– Ainsi, demanda [MASK], après avoir bien regardé son élève, ce n’est plus le riche Kin-Fo qui me parle
+
+['jean', '"', 'il', 'henri', 'charles']	Fry	« Monsieur ?… dit Craig.– Monsieur ? » dit [MASK].Et tous deux ajoutèrent : « Avez-vous été satisfait de nos services, depuis deux mois que l’honorable William J. Bidulph nous a attachés à votre personne ?– Très satisfait !
+
+['georges', 'jeanne', 'henri', 'jacques', 'robert']	Craig	Non, peut- être !« Bas les têtes ! » dit [MASK], qui se rattacha à cet espoir.Il fut compris. Les tuyaux des appareils laissèrent fuser un peu d’air, et les quatre scaphandres enfoncèrent de façon que leur tête encapuchonnée émergeât seule.
+
+['chateaubriand', 'il', 'rimbaud', 'napoléon', 'on']	Wang	mais, tout en admirant, ils ne perdaient pas de vue leur irréprochable client.Une même idée leur était venue, à tous les deux. Si, par impossible, [MASK] n’avait pas péri, comme on le croyait, dans les eaux du fleuve ?…
+
+['la', 'plusieurs', 'toutes', 'tout', "l'"]	Nan	C'était celle de [MASK]. La désagréable « vieille mère » avait continué de parler après le départ de Lé-ou, tandis que l’appareil fonctionnait encore, et enregistrait, sans qu’elle s’en doutât, ses imprudentes paroles !Servantes et valets, défiez-vous des phonographes
+
+['"', 'mrs', 'julien', 't-il', ':']	Fry	Très certainement, ce grattement se produisait à l’intérieur de l’un des cercueils.« Est-ce qu’ils auraient mis dans une de ces boîtes quelque Chinois en léthargie ? … dit Craig.– Et qui se réveillerait, après une traversée de cinq semaines ? » répondit [MASK].
+
+['un', "l'", 'la', 'une', 'ce']	Soun	Eh bien, on le conduisait où il voulait aller ! Que ce fût de bon gré ou de force, il n’y avait pas là de quoi récriminer. Il fallait laisser cela à [MASK], dont les dents claquaient, et qui sentait sa tête de poltron vaciller sur ses épaules.
+
+['pékin', 'chine', 'hong-kong', 'mao', 'paris']	Péking	Il faut, d’ailleurs, ajouter que, si le gouvernement de [MASK] a été jusqu’à édicter la peine de mort contre tout Chinois qui vendrait de l’opium, il est des accommodements moyennant finance avec les dépositaires de l’autorité.
+
+[',', 'à', '...', 'de', '--']	Soun.–	« Te tairas-tu, imbécile ! lui dit son maître. Veux-tu donc nous faire découvrir ?– Mais j’ai cru voir !… murmura [MASK] Quoi ?– Une énorme bête… qui s’approchait !… Quelque requin !…
+
+['lui', 'moi', 'toi', 'elle', 'vous']	Soun	La surveillance était plus facile à bord, les dangers moins imminents. Plus tard, sur les routes peu sûres des provinces de la Chine centrale, ce serait autre chose.Quant à [MASK], cette vie de steamboat lui allait assez.
+
+['il', ',', 'et', 'lui-même', "l'"]	Soun	[MASK] approuvait fort cette façon de voyager, et, dans ces conditions, il serait allé au bout du monde.Si la route n’était pas fatigante, la chaleur était grande. À travers les couches atmosphériques très échauffées par la réverbération du sol, se produisaient les plus curieux effets de mirage.
+
+['les', 'le', 'ard', 'lui', 'i']	Craig	Le philosophe était introuvable.Cependant, [MASK] et Fry, de plus en plus inquiets, multipliaient les précautions. Ni de jour, ni de nuit, ils ne quittaient leur client, mangeant à sa table, couchant dans sa chambre.
+
+['</s>', 'il', 'on', 'cela', 'elle']	Soun	En outre, on a remarqué que si ces animaux voraces se jettent sur les corps inertes, ils hésitent devant ceux qui sont doués de mouvement. [MASK] devait donc s’astreindre à remuer sans cesse, et s’il remua, on le laisse à penser.
+
+['socrate', 'kant', 'platon', 'pascal', 'voltaire']	Wang	Dans six jours seulement expirait le délai accordé à [MASK] pour accomplir sa promesse ; mais l’infortuné philosophe avait payé de sa vie sa fuite inexplicable. Il n’y avait plus rien à craindre désormais. Le mariage pouvait donc se faire.
+
+['craig', 'sarah', 'james', 'john', 'jane']	Fry	À ce moment, des flots de sang fusèrent en gerbes et la mer se teignit de rouge.Craig et [MASK] venaient de frapper l’animal à coups redoublés, et, si dure que fût sa peau, leurs couteaux américains à longues lames étaient parvenus à l’entamer.
+
+['personne', 'louis-philippe', 'paris', 'dieu', 'bismarck']	Soun	Il n’en voulait à [MASK] que de sa négligence, non du retard. En quoi une lettre quelconque pouvait-elle l’intéresser ? Elle ne serait la bienvenue que si elle lui causait une émotion. Une émotion à lui !Il la regardait donc, mais distraitement.
+
+['moi', 'toi', 'retour', 'lui', 'vous']	Wang	La lettre était de [MASK], et voici ce qu’elle contenait :« Ami, je ne suis pas mort, mais, quand tu recevras cette lettre, j’aurai cessé de vivre !« Je meurs parce que je n’ai pas le courage de tenir ma promesse ;
+
+['</s>', '"', ',', 'et', '.']	Wang	Entraîné par le courant, sans doute, l’infortuné philosophe était allé en dérive.[MASK] n’avait-il voulu, en se précipitant dans le fleuve, qu’échapper aux poursuites, ou, pour quelque mystérieuse raison, s’était-il résolu à mettre fin à ses jours
+
+['césar', 'napoléon', 'celui-ci', 'chacun', 'satan']	Wang	Décidément, le poison ne devait pas être l’arme choisie par l’ancien massacreur du roi des rebelles, mais sa victime ne devait rien négliger.Du reste, toute facilité était donnée à [MASK] pour accomplir son œuvre.
+
+['paul', 'robert', 'pierre', 'alice', 'john']	Fry	Les taëls ne vous manqueront pas. Lors même que vous devriez épuiser les trois mille formules de civilités que comporte l’étiquette chinoise, épuisez-les. Vous n’aurez point à regretter vos peines.– Ce sera…. dit Craig.– Fait », répondit [MASK].
+
+[':', '...', 'alors', '"', 'encore']	Craig	En ce moment, la lune parut au-dessus de l’horizon, à l’orient, et lança jusqu’à eux son premier rayon.« La lune !… s’écria Fry.– Et aujourd’hui, 30 juin !… s’écria [MASK]. Elle se lève à minuit…
+
+['il', 'dieu', 'lazare', 'ce', 'lui']	Soun	Mais, si [MASK] n’était plus malade, il avait horriblement peur. Il pensait que les requins n’étaient peut-être pas encore couchés, et, instinctivement, il repliait ses jambes, comme s’il eut été sur le point d’être happé !…
+
+['il', 'on', 'elle', 'chacun', 'lui-même']	Soun	Son mal de mer avait subitement cessé. C'est que d’être soumis au tangage et au roulis d’une embarcation, ou de subir le balancement de la houle, lorsqu’on y est plongé à mi-corps, cela est très différent, et [MASK] le constatait avec quelque satisfaction.
+
+['t-il', 'il', '-t-il', 'celui-ci', '-il']	Fry	» répondit [MASK] en revenant à la charge.Il n’était pas blessé. Sa cuirasse de caoutchouc avait amorti la violence du coup de queue.Le squale fut alors attaqué de nouveau et avec une véritable fureur. Il se tournait, se retournait.
+
+['paris', 'paris', 'province', 'france', 'profession']	Tim	A vrai dire, celui-ci n’en tenait aucun compte. Autant de maximes et de sentences perdues ; mais la «��machine à théories » – ainsi que l’avait dit ce viveur de [MASK] – ne se fatiguait pas d’en produire.
+
+['</s>', '"', 'ali', 'm.', '--']	Kin	Après les feuilles vertes de l’été, les jaunes chrysanthèmes de la saison d’automne !« A la quatrième veille, la lune est tombée à l’ouest. [MASK]-Fo a quatre-vingts ans ! Son corps est recroquevillé comme une crevette dans l’eau bouillante !
+
+['lui', 'lui-même', 'présent', 'soi', 'moi']	Soun	Quant à [MASK], en ces occasions où la marche était nécessairement un peu rapide, il allait à pied, grognant, maugréant, se réconfortant plus qu’il ne convenait de fréquentes lampées d’eau-de-vie de Kao-Liang.
+
+['qui', 'ale', 'al', ',', 'et']	Soun	[MASK], on le pense bien, s’était brusquement arrêté et revenait rapidement en arrière.Le squale avait vu les scaphandres et se dirigeait vers eux.Un instant, son énorme corps apparut dans la transparence des eaux, rayé et tacheté de vert.
+
+['</s>', 'il', '--il', 'on', '--']	Wang	lettré n’auraient reconnu en lui l’indifférent amphitryon, qui leur avait fait ses adieux sur un des bateaux-fleurs de la rivière des Perles. [MASK] n’en aurait pas cru ses propres yeux, s’il eût été là. Mais il avait disparu sans laisser aucune trace.
+
+['fi', 'kin', 'roi', 'fil', 'fet']	Kin	Ce n’était point à [MASK]-Fo que ces cris s’adressaient.Personne ne semblait se douter qu’il fût là. Il ne fit donc pas un mouvement, et, curieux de savoir à quel propos son nom venait d’être prononcé, il attendit.
+
+['à', 'au', 'aux', 'à', 'alors']	au	L'ex-client de « la Centenaire » avait évidemment été attendu par ce misérable. Son hésitation à s’aventurer au-delà de la Grande-Muraille n’était qu’une ruse pour dérouter les soupçons. Ce coquin appartenait bien [MASK] Taï-ping, et ce ne pouvait être que par ses ordres qu’il avait agi.
+
+[')', '"', 'disponible', ':', 'également']	Fry	D'une main, il ouvrit le robinet supérieur, de l’autre le robinet inférieur, adapté au récipient immergé. Aussitôt une belle flamme fusa à l’extrémité, en dégageant une chaleur très appréciable.« Voilà le fourneau ! » dit [MASK].
+
+['...', '"', ':', '(', 'de']	Lé	Il reverrait sa petite sœur cadette. La septième lune ne se passerait pas sans qu’il fût accouru près d’elle pour ne la plus quitter. Mais, après avoir refusé de la rendre misérable, il ne voulait pas risquer de la rendre veuve.[MASK]-
+
+['</s>', 'on', 'il', "j'", '"']	Fry	Au contraire.Le sac imperméable fut donc ouvert. [MASK] en tira différents comestibles de bonne qualité, du pain, des conserves, quelques ustensiles de table, enfin tout ce qu’il fallait pour apaiser la faim et la soif.
+
+['"', ':', ')', 'aussi', 'également']	Craig	Chaque cadavre, soigneusement étiqueté, serait expédié à son adresse, et irait attendre dans les vergers, au milieu des champs, à la surface des plaines, l’heure de la sépulture définitive.« Bien compris ! dit Fry.– Bien tenu ! » répondit [MASK].
+
+['smith', 'john', '...', 'vous', 'oliver']	Craig	…– Et comment des pirates, dit [MASK], sauraient-ils si votre jonque vaut ou non la peine d’être attaquée ?– Vous craignez donc bien la visite de ces braves gens ? répondit le capitaine, qui pirouetta en haussant les épaules.– Mais oui, dit Fry.–
+
+['</s>', '"', '-', '--non', '...']	Wang	Mieux valait l’ignorer, en somme, et conserver l’illusion qu’il n’avait appartenu qu’à la colonne de ravitaillement.[MASK], enchanté de son sort, d’ailleurs, demeura donc le commensal de cette hospitalière maison.
+
+['la', 'un', 'à', 'donc', '.']	Soun	!Un instant après, les trois mammifères terrestres étaient à bord.Restait [MASK]. On l’attira avec une gaffe, on lui releva la tête au-dessus de l’eau. Un des pêcheurs le saisit par son bout de queue et l’enleva…
+
+[',', 'le', 'léon', ';', ':']	Soun	! » fit [MASK].Et, désespéré, n’ayant pas la force d’en dire plus long, il alla s’étendre au pied du grand mât, agité de soubresauts convulsifs, qui remuaient sa natte écourtée comme une petite queue de chien.
+
+['maître', 'celui-ci', 'lui-même', 'li', 'wang']	Soun	Un serviteur hygiénique, on le voit.D'ailleurs, [MASK], ainsi que font la plupart des domestiques chinois, venait de lui-même au-devant de la correction, quand il l’avait méritée. Son maître ne la lui épargnait pas.
+
+[',', 'elle', 'veuve', 'mère', 'femme']	Nan	[MASK] haussa les épaules, suivant sa détestable habitude, et sortit pour exécuter l’ordre qu’elle avait reçu.Pendant ce temps, la jeune veuve, seule dans son boudoir, regardait tristement l’appareil muet, qui ne lui faisait plus entendre la lointaine voix de l’absent.
+
+['clemenceau', 'shakespeare', 'churchill', 'homère', 'aristote']	Yin	La capture d’une jonque de trois cents tonneaux, même sur lest, offrait assez de profit aux « braves gens » dont parlait [MASK] pour qu’ils voulussent tenter le coup. Quoi qu’il en soit, il fallait maintenant se résigner et espérer que la traversée s’accomplirait heureusement.
+
+['</s>', 'ne', '"', '-', '--']	Wang	Rien de nouveau.[MASK] comptait-il donc épuiser le délai convenu, et ne payer sa dette qu’à la façon d’un commerçant, à l’échéance, sans anticiper ? Mais alors, il n’y aurait plus de surprise, et partant plus d’émotion !
+
+['fo', 'fa', 'fn', 'lo', 'cgt']	Soun	Fo et [MASK], auxquels leurs armes avaient été préalablement enlevées, furent introduits dans un large vestibule, formant l’atrium du temple. Là se tenaient une vingtaine d’hommes en armes, très pittoresques sous leur costume de coureurs de grands chemins, et dont les mines farouches n’étaient pas précisément rassurantes.
+
+['directement', 'celui-ci', 'indirectement', 'zola', 'dreyfus']	Wang	Alors, après avoir déposé la lettre sur le corps de sa victime, il viendrait tranquillement se présenter aux bureaux de « la Centenaire », pour y réclamer sa part du capital assuré.Il fallait donc prévenir [MASK] ; mais, le prévenir directement, cela ne se pouvait.
+
+['la', 'jésus', 'qui', 'cette', 'celle-ci']	Wang	Personne ne l’interrogea à cet égard. Peut-être craignait-on d’en apprendre trop ! Les atrocités commises par les révoltés avaient été, dit-on, épouvantables. Sous quelle bannière avait servi [MASK], la jaune, la rouge, la noire ou la blanche ?
+
+['il', 'dé', 'em', 'im', ',']	Fry	[MASK] posa cet ustensile à la surface de l’eau, qui était parfaitement unie.D'une main, il ouvrit le robinet supérieur, de l’autre le robinet inférieur, adapté au récipient immergé. Aussitôt une belle flamme fusa à l’extrémité, en dégageant une chaleur très appréciable.
+
+[',', 'et', 'ou', ';', '-']	Yin	demanda-t-il.– Dans cette saison, monsieur ! Eh ! qui pourrait le savoir ? répondit le capitaine.– Des heures ou des jours ?– Des jours ou des semaines ! répliqua [MASK] avec un sourire de parfaite résignation, qui faillit mettre son passager en fureur.– Des semaines
+
+['elle', 'il', ',', '...', 'on']	Wang	Il écoutait anxieusement. Ses regards fouillaient l’ombre. Il tâchait de surprendre les moindres bruits. Plus d’une fois, il crut entendre gémir la porte, poussée par une main prudente.Sans doute [MASK] espérait le trouver endormi et le frapperait dans son sommeil !
+
+['pied', 'jeu', 'lui', 'jour', 'moi']	Wang	»Et il remit le papier à [MASK].Le philosophe le lut d’abord tout bas ; puis, il le relut à voix haute. Cela fait, il le plia soigneusement et le plaça dans un carnet de notes qu’il portait toujours sur lui.
+
+['maintenant', 'et', 'jésus-christ', 'dis-je', 'époux']	Wang	fortune.– Tu as fait cela ?– Oui, et toi-même, [MASK], tu as cinquante mille dollars placés sur ma tête.– Ah ! fit simplement le philosophe, tu as réponse à tout.– À tout, même à une objection que tu ne m’as pas encore faite.–
+
+['lui', 'lui-même', 'moi', 'cela', 'présent']	Soun	!Quant à [MASK], il ne se doutait pas que la jonque fût en perdition, ou plutôt, pour lui, on se trouvait en perdition du moment qu’on s’aventurait sur le perfide élément, même par le plus beau temps du monde. Ah !
+
+['*', ')', '...', '1', ',']	Soun	[MASK], si jaune qu’il fût naturellement, parvint cependant à pâlir !« Si tu offres ton dos sans autre explication, dit le maître, c’est que tu mérites mieux que cela ! Qu'y a-t-il ?– Cette lettre !…– Parle donc
+
+['chacun', 'pierre', 'jean', 'celui-ci', 'julien']	Soun	Mais, à l’en croire, au-delà de cette barrière que les Chinois ont élevée contre les incursions des hordes mongoles, il fallait s’attendre aux plus graves éventualités.Les préparatifs de départ furent aussitôt faits. On ne demanda point à [MASK] s’il lui convenait ou non d’être du voyage.
+
+['jean', 'adam', 'frank', 'michel', 'jack']	Fry	« Diable ! dit Craig.– Diable ! » dit [MASK].La même idée leur était naturellement venue à tous deux que quelque prochain danger menaçait leur client.Aussitôt, retirant peu à peu la main, ils sentirent que le couvercle du cercueil se soulevait avec précaution.
+
+['</s>', '"', '.', 'le', ',']	Nan	»Et Lé-ou, poussant le ressort qui mettait en mouvement le rouleau phonographique, prononça à voix haute les plus douces phrases que son cœur lui put inspirer.[MASK], entrant brusquement, interrompit ce tendre monologue.La chaise à porteurs attendait madame, « qui aurait bien pu rester chez elle
+
+['john', 'sarah', 'sam', 'joe', 'brian']	Fry	Lors même que tu te sentirais happer la jambe, je te défends de crier, sinon…– Sinon, ajouta [MASK], un coup de couteau dans son appareil, et nous l’enverrons par le fond, où il pourra crier tout à son aise ! »
+
+['</s>', ')', '"', '_', '.']	Nan	! Ah ! pauvre Lé-ou ! Elle ressemblait maintenant au cerf-volant dont le fil casse, et qui retombe brisé sur le sol ![MASK], appelée, entra dans la chambre, haussa les épaules et transporta sa maîtresse sur son « hang » !
+
+['smith', 'jones', 'après', 'lincoln', 'alice']	Craig	– Soit, ajouta [MASK], mais nous avons des raisons particulières pour ne point désirer leur visite !– Eh bien, soyez sans inquiétude ! répondit le capitaine. Les pirates, si nous en rencontrons, ne donneront pas la chasse à notre jonque !– Et pourquoi ?
+
+['</s>', 'il', 'on', '"', 'elle']	Soun	Ce n’était point un homme positivement enjoué. Oh non !Cependant depuis quelques jours, il semblait prendre plus de goût aux choses de ce monde. Oui ! [MASK] le trouvait moins indifférent, comme un homme qui attendrait… quoi ? Il ne pouvait le dire.
+
+['jacques', 'jean', 'maurice', 'il', 'jeanne']	Wang	– Ah ! celui-là, par exemple, répondit [MASK] en riant, il m’a fait bien peur pour mes cinquante-cinq ans et pour ma philosophie ! J'avais très chaud et l’eau était très froide ! Mais bah ! je m’en suis tiré !
+
+['novembre', '1979', '2011', 'juin', '2012']	Wang	C'était [MASK], en personne ! Il venait d’apercevoir son ancien élève ; mais, au lieu de se précipiter sur lui, il repoussa vigoureusement les derniers rangs du groupe, et s’enfuit, au contraire, de toute la vitesse de ses jambes, qui étaient longues
+
+['jean', 'georges', 'jacques', 'robert', 'pierre']	Soun	Quoi qu’il en soit, il ne fallait pas perdre un seul, instant.Aussi les bras se déployaient, les pagaies nappaient rapidement la crête des petites lames, la distance diminuait à vue d’œil, lorsque [MASK], toujours en avant, poussa un terrible cri d’épouvante.
+
+['il', ',', 'maître', 'qui', 'on']	Wang	[MASK] n’avait point entendu entrer son élève, et, saisissant le poignard, il le brandit à plusieurs reprises, comme pour s’assurer qu’il l’avait bien en main. En vérité, sa physionomie n’était pas rassurante.
+
+['lui', 'rodin', 'celui-ci', 'judas', 'vestibule']	Soun	Quant à [MASK], il dut être vigoureusement poussé par les épaules, et il le fut.Ce vestibule s’ouvrait, au fond, sur un escalier engagé dans l’épaisse muraille, et dont les degrés descendaient assez profondément à travers le massif de la montagne.
+
+[',', 'vous', ':', 'donc', 'se']	Wang	A moins d’avoir un goût particulier pour les curiosités archéologiques, très nombreuses dans cette ville, et d’être versé dans les mystères de l’épigraphie, dont le musée, appelé « la forêt des tablettes », renferme d’incalculables richesses, pourquoi [MASK] serait-il venu là
+
+["jusqu'", 'juste', 'alors', 'immédiatement', 'terre']	Soun	Ainsi, dès que le prétendu animal fut à portée, une longue corde, munie d’un fort émerillon, se déroula du bord.L'émerillon atteignit [MASK] au-dessus de la ceinture de son vêtement, et, en glissant, le déchira depuis le dos jusqu’à la nuque.
+
+['craig', 'john', 'jane', 'james', 'duncan']	Fry	»À ces réponses, dont le guide ne pouvait évidemment comprendre toute l’importance qu’y attachait son interlocuteur, Craig et [MASK] se regardaient en fronçant le sourcil, tiraient leur montre, la consultaient, et, finalement, hochaient la tête.
+

@@ -1,0 +1,200 @@
+['Freud', 'il', 'Jésus', 'Dieu', 'Napoléon']	Rodolphe	Il s’est fait un masque de vieillard pour déjouer la police.– Chère, dit [MASK], encore quelques émotions de ce genre et je mourrais… Après vingt années de connaissance seulement, vous saurez quelle est la force et la puissance de mon cœur, de quelle nature sont ses aspirations vers le bonheur.
+
+['Napoléon', 'Maria', 'Clara', 'Alexandre', 'Albert']	Rodolphe	Cette déclaration si nette, si franche fut faite d’un ton, d’un accent et accompagnée de regards qui lui donnèrent la plus grande profondeur de vérité.– Une princesse Colonna n’aurait pas mieux parlé, dit [MASK] en souriant.–
+
+['Joseph', 'Pierre', 'Marie', 'Monsieur', 'lui']	Rodolphe	Mes pieds, dit-elle en avançant deux petits pieds charmants, sont-ils faits pour la fatigue. Mes mains… Elle tendit une main à [MASK]. Ces mains sont-elles faites pour travailler ? Laissez-nous, dit-elle à son mari : je veux lui parler.
+
+['il', 'on', 'elle', 'chacun', 'Madame']	Rodolphe	Pour cent francs par mois, [MASK] n’eut à penser à aucune des choses nécessaires à la vie. Mais en considération des frais que les époux Stopfer se proposaient de faire, ils demandèrent le paiement du troisième mois d’avance. Pour peu que vous frottiez un Suisse, il reparaît un usurier.
+
+['Elle', 'elle', 'Madame', 'Maman', 'Alice']	Rosalie	Une mère élève sévèrement sa fille, la couve de ses ailes pendant dix-sept ans, et dans une heure, une servante détruit ce long et pénible ouvrage, quelquefois par un mot, souvent par un seul geste ! [MASK] se recoucha, non sans penser à tout le parti qu’elle pouvait tirer de cette découverte.
+
+['moi', 'nous', 'lui', 'vous', 'Dieu']	Babylas	Vous causez donc avec [MASK] ?– Que voulez-vous que je fasse dans mes promenades ?– Eh ! bien, comment avez-vous pris un étranger pour avocat ? dit la baronne en rendant ainsi la parole au vicaire-général.–
+
+['on', 'il', 'Dieu', 'elle', 'Monseigneur']	Albert	En prévoyant ma visite, [MASK] a mis le Général des Chartreux entre tous nos efforts et lui. Je connais assez ce noble cœur pour savoir qu’il est victime d’une trame odieuse et pour nous invisible ; mais tout est consommé.
+
+['il', 'on', 'Pierre', 'Jean', 'Il']	Rodolphe	À quelques pas de la maison Jeanrenaud, près de laquelle il arrivait sans le savoir, [MASK] entendit derrière lui le bruit d’une voiture ; et, se trouvant dans une espèce de gorge, il grimpa sur la pointe d’une roche pour laisser le passage libre.
+
+['chacun', 'moi', 'Voltaire', 'Balzac', 'tous']	Rosalie	Cette Nouvelle, inspirée par la littérature alors à la mode, était la première lecture de ce genre qu’il eût été permis à [MASK] de faire. L’amour y était peint, sinon par une main de maître, du moins par un homme qui semblait raconter ses propres impressions
+
+['nouvelles', 'nouvelle', 'réponse', 'lettres', 'lui']	Savaron	Qui diable a pu lui conseiller de venir ici ? qu’y prétend-il faire ? Envoyer sa carte chez les magistrats, au lieu d’y aller en personne ?… quelle faute ! Aussi, trois jours après, plus de [MASK].
+
+['Mozart', 'Charles', 'Pierre', 'Chopin', 'Jean']	Albert	! Elle aimait [MASK], et se sentait au cœur une mordante envie de le disputer, de l’arracher à cette rivale inconnue. Elle pensa qu’elle ne savait pas la musique et qu’elle n’était pas belle.– Il ne m’aimera jamais, se dit-elle
+
+['Maria', 'Clara', 'Rosa', 'Carmen', 'Marie']	Gina	C’est fête aujourd’hui, nous ne sommes plus en danger. Ma mère me dit que dans un an, peut-être, nous serons amnistiés. Oh ! la cara patria…Ces trois mots firent pleurer [MASK] qui dit : – Encore un hiver, je serais morte ici !
+
+['on', 'il', 'elle', 'chacun', 'Charles']	Soulas	Les cadeaux consistaient dans la vente des habits réformés, dans un pourboire quand [MASK] troquait l’un de ses deux chevaux, et la vente des fumiers. Les deux chevaux, administrés avec une sordide économie, coûtaient l’un dans l’autre huit cents francs par an.
+
+['Noël', 'Paris', 'Debussy', 'France', 'Mireille']	Canalis	? Si nos auteurs te distrayent ? Si les chants de [MASK] t’exaltent ? Je lis les livres que tu lis. Il n’y a pas jusqu’à ta promenade sur le lac qui ne m’ait attendri. Ta lettre est belle, suave comme ton âme !
+
+['Albert', '?', '</s>NOTUSED', '!', 'le']	Savarus	? dit [MASK].L’abbé, qui dégoisa l’affaire avec une admirable bonhomie, fut écouté froidement par Albert.– Monsieur l’abbé, répondit-il, il m’est impossible de me charger des intérêts de la maison Watteville, et vous allez comprendre pourquoi.
+
+['elle', 'Marie', 'Alice', 'Jeanne', 'Elle']	Francesca	! fit [MASK] en mettant un des doigts de sa main droite, sur ses lèvres. N’allez pas plus loin : je ne suis pas libre, je suis mariée, depuis trois ans…Un profond silence régna pendant quelques instants entre eux.
+
+['</s>NOTUSED', 'le', 'Napoléon', 'la', 'Paris']	Rodolphe	mais il eut à lutter, avec l’inexpérience de la jeunesse, contre une duplicité qui triompha de lui. Trois ans se perdirent dans une vaste entreprise, trois ans d’efforts et de courage.Le ministère Villèle succombait aussi quand succomba [MASK]. Aussitôt l’intrépide amoureux
+
+['elle', 'lui', 'Julie', 'Sophie', 'Catherine']	Albert	; et son amour pour [MASK] devint alors une passion dont la violence s’accrut de toute la force de sa jeunesse, des ennuis de sa solitude et de l’énergie secrète de son caractère. Aimer est déjà chez une jeune personne un effet de la loi naturelle ;
+
+['Elle', 'Marie', 'Sophie', 'Julie', 'Louise']	Rosalie	[MASK] était saisie d’une infernale curiosité. Quelle femme n’eût pas, comme elle, voulu savoir le vrai nom de sa rivale, car elle aimait ! En lisant ces pages contagieuses pour elle, elle s’était dit ce mot solennel : j’aime !
+
+['Joséphine', '–', '—', ':', '</s>NOTUSED']	Rodolphe.–	Deux grosses larmes roulèrent sur les joues de [MASK] Hé ! bien, qu’avez-vous ? dit-elle en quittant son rôle d’impératrice.– Je n’ai plus ma mère pour lui dire combien je suis heureux, elle a quitté cette terre sans voir ce qui eût adouci son agonie…
+
+['Charles', 'Thomas', 'Edward', 'William', 'John']	Rodolphe	– Quand mon fils aura des enfants, disait la mère, il les voudra grands tout de suite. Cette belle ardeur, convenablement dirigée, servit à [MASK] à faire de brillantes études, à devenir ce que les Anglais appellent un parfait gentilhomme.
+
+['Elle', 'Anna', 'Marie', 'Il', 'Alice']	Rosalie	[MASK] n’avait jamais porté de bas de soie, ni de brodequins, mais des bas de coton et des souliers de peau. Les jours de gala, elle était vêtue d’une robe de mousseline, coiffée en cheveux, et avait des souliers en peau bronzée.
+
+['Madame', 'Monsieur', 'Pierre', 'Mme', 'madame']	Savarus	– Vous seriez marié ? fit l’abbé de Grancey.– Non pas à l’église, non pas à la mairie, dit [MASK], mais moralement.– C’est pis quand on y tient autant que vous paraissez y tenir, répondit l’abbé.
+
+['Elle', 'Il', 'elle', 'il', 'On']	Rodolphe	Peut-être suis-je allée trop loin avec vous. Vous avez dû me prendre pour une femme très-ordinaire…[MASK] multiplia des signes de dénégation.– … Oui, dit cette femme de libraire en continuant sans tenir compte de la pantomime qu’elle voyait bien d’ailleurs.
+
+['on', 'il', 'elle', 'On', 'Il']	Albert	L’admiration empêcha toute réflexion. On ne comprit qu’une seule chose, la chose qu’[MASK] voulait jeter dans ces têtes.Ne valait-il pas mieux pour une ville avoir un de ces hommes destinés à gouverner la société tout entière, qu’une machine à voter ?
+
+['Il', 'Napoléon', 'Louis', 'Puis', 'Bonaparte']	Rodolphe	[MASK] recommença l’édifice de sa fortune. Déjà ses talents avaient été distingués, il allait enfin réaliser les vœux de son ambition, une place éminente était promise à son zèle, en récompense de son dévouement et de services rendus, quand éclata l’orage de juillet 1830, et sa barque sombra de nouveau.
+
+['Elle', 'Il', 'Marie', 'Marguerite', 'Jeanne']	Rosalie	Parce que je l’aime ! Qu’y a-t-il ? dit-elle après une pause.– Il renonce à son élection, répondit l’abbé.[MASK] se mit un doigt sur les lèvres.– Je demande le secret comme pour une confession, dit-elle avant de rentrer au salon.
+
+['et', 'Toujours', 'Et', 'Joseph', 'Puis']	Rodolphe	[MASK] appuyé contre le chambranle de la porte, regarda la princesse en dardant sur elle ce regard fixe, persistant, attractif et chargé de toute la volonté humaine concentrée dans ce sentiment appelé désir, mais qui prend alors le caractère d’un violent commandement.
+
+['elle', 'Sophie', 'Charlotte', 'Clara', 'Emma']	Rosalie	Pendant la nuit [MASK] put dévorer cette nouvelle, la première qu’elle lut de sa vie ; mais elle ne se sentait vivre que depuis deux mois ! Aussi ne faut-il pas juger de l’effet que cette œuvre dut produire sur elle d’après les données ordinaires.
+
+['Madame', 'Monsieur', 'madame', 'monsieur', 'messieurs']	Mariette	Écoutez, [MASK], j’aime aussi, moi ! J’aime en secret et toute seule. Je suis, après tout, unique enfant de mon père et de ma mère ; ainsi vous avez plus à espérer de moi que de qui que ce soit au monde…
+
+['On', 'Il', 'Elle', 'on', 'Chacun']	Jérôme	mais ils sont restés environ une heure ensemble ; après quoi le vieux monsieur, accompagné de l’avocat, a fait monter son domestique. [MASK] a vu sortir ce domestique avec un immense paquet long de quatre pieds qui avait l’air d’une grosse toile à canevas.
+
+['Pourquoi', 'Comment', 'Quoi', 'Moi', 'Mais']	Emilio	[MASK], dit-elle, me suis-je plainte ici pendant nos jours de misère ?– Vous n’eussiez pas été vous-même, dit gravement le vieux libraire.– Après tout, n’est-il pas naturel à des bourgeois d’ambitionner la grandeur ?
+
+['elle', 'Louise', 'Jeanne', 'Charlotte', 'Marie']	Rosalie	La baronne apprit à sa fille tous les points possibles de la tapisserie et les petits ouvrages de femme : la couture, la broderie, le filet. À dix-sept ans, [MASK] n’avait lu que les Lettres Édifiantes, et des ouvrages sur la science héraldique.
+
+['il', 'on', 'elle', 'Napoléon', 'Il']	Rodolphe	? quel bonheur !Le lendemain, [MASK] fit demander la permission de visiter les serres et les jardins qui commençaient à jouir d’une certaine célébrité. Cette permission ne fut pas immédiatement accordée. Ces anciens jardiniers demandèrent, chose étrange !
+
+['Elle', 'On', 'Madame', 'Il', 'Maman']	Rosalie	; moi je leur donnerai vingt-quatre mille francs de rente sur le grand-livre. Nos enfants demeureront ici, je ne les vois pas bien malheureux…– Non, je leur donne les Rouxey tout à fait. [MASK] aime les Rouxey.– Vous êtes singulier avec votre fille !
+
+['Juliette', 'Florence', 'Versailles', 'Mozart', 'jeunesse']	Gersau	Oimè ! je crois qu’il y a erreur de nom : je suis, depuis un moment, princesse Rodolphini.Ce fut dit avec une grâce, un charme, une naïveté qui rappelèrent, dans cet aveu caché sous une plaisanterie, les jours heureux de [MASK].
+
+['Paris', 'tout', 'la', 'le', 'Marianne']	Rodolphe	Il y eut dans l’accent de cette réponse une profondeur qui lui donna l’apparence d’une sauvage ironie et qui fit palpiter [MASK]. Le mois de mai déployait les trésors de sa jeune verdure, le soleil avait des moments de force comme au milieu de l’été.
+
+['Chine', 'fleurs', 'fleur', 'Naples', 'nuit']	Virginie	Cette plante ne monte pas avec plus de vivacité pour s’épanouir aux rayons du soleil, dit-il en montrant un jasmin de [MASK] qui enveloppait la balustrade, que je ne me suis attaché depuis un mois à vous. Je vous aime d’un amour unique.
+
+['le', 'madame', 'Monsieur', 'monsieur', 'Madame']	Modinier	C’est ce que je disais hier au soir à monsieur, répondit [MASK]. Mais pour abonder dans ce sens, je lui proposais de venir voir s’il n’y avait pas, de ce côté de la Dent ou de l’autre, à une hauteur quelconque, des traces de clôture.
+
+['Napoléon', 'Voltaire', 'Albert', 'Alexandre', 'Léopold']	Savarus	Quant à ce soir, dans cette réunion, allez au-devant des coups qu’on va vous porter. Dites toute votre vie antérieure, vous atténuerez ainsi l’effet que cette découverte produirait sur les Bisontins.– Oh ! je m’y suis attendu, dit [MASK] d’une voix altérée.–
+
+['bien', 'elle', 'Joséphine', 'Mademoiselle', 'Charlotte']	Rosalie	Aussi [MASK] était-elle d’une recherche et d’une coquetterie étourdissantes afin de se trouver avec la duchesse sur un pied d’égalité. La première rencontre eut lieu dans le bal annuellement donné pour les pensionnaires de l’ancienne Liste civile, depuis 1830.
+
+['elle', 'il', 'on', 'Marie', 'Anne']	Francesca	Elle semblait avoir deviné les secrètes pensées de ce vassal qui avait l’audace de se constituer son protecteur. Déjà, dans l’ameublement du salon où [MASK] l’avait reçu, dans sa toilette et dans les petites choses qui lui servaient
+
+['Paris', 'Bordeaux', 'Versailles', 'province', 'Lyon']	Savarus	Rien ne résistait au lent travail de la Préfecture. Trois ou quatre hommes habiles disaient aux clients de [MASK] : « Le député plaidera-t-il et gagnera-t-il vos affaires ? vous donnera-t-il ses conseils, fera-t-il vos traités, vos transactions ?
+
+['nouveau', 'lui', 'elle', 'chacune', 'loin']	Rosalie	Elle reconnaît l’écriture, se dit-il après avoir jeté sur la jeune fille un regard par-dessus ses lunettes. Il plia la lettre et la mit froidement dans sa poche sans dire un mot. En trois minutes il reçut de [MASK] trois regards qui lui suffirent à tout deviner.–
+
+['Elle', 'Marie', 'Madeleine', 'Jeanne', 'Marguerite']	Rosalie	[MASK] fit un sauvage mouvement de tête.– À votre mère, reprit le vicaire-général, et à la Religion qui vous auraient, au premier mouvement de votre cœur, éclairée, conseillée, guidée ; vous avez voulu vous conduire seule, ignorant la vie et n’écoutant que la passion
+
+['On', 'Dieu', 'Chacun', 'Cela', 'Elle']	Emilio	; mais trois ans de mariage équivalent à une acceptation de la loi conjugale. Aussi la plus violente passion ne me ferait-elle pas émettre, même involontairement, le désir de me trouver libre. [MASK] connaît mon caractère.
+
+['Elle', 'Marie', 'Jeanne', 'Madeleine', 'Marguerite']	Rosalie	ne lirai-je pas cette lettre ? se disait-elle en écoutant les petites de Chavoncourt. L’une avait seize et l’autre dix-sept ans et demi. [MASK] regardait ses deux amies comme des petites filles parce qu’elles n’aimaient pas en secret.
+
+['Madame', 'Monsieur', 'Marie', 'celui', 'Joseph']	Rodolphe	Ces anciens jardiniers demandèrent, chose étrange ! à voir le passeport de [MASK] qui l’envoya sur-le-champ. Le passeport ne lui fut renvoyé que le lendemain par la cuisinière, qui lui fit part du plaisir que ses maîtres auraient à lui montrer leur établissement.
+
+['le', 'Mme', ':', 'la', '?']	Rosalie.–	?– Comme le vieux monsieur ne faisait que passer, on ne le lui a pas demandé. Le domestique, par ordre sans doute, avait l’air de ne pas parler français.– Et la lettre qu’a reçue si tard l’abbé de Grancey ? dit [MASK]
+
+['Marie', 'Madame', 'elle', 'Thérèse', 'Marguerite']	Francesca	L’esprit infernal avec lequel les lettres furent écrites, surprit tellement le vicaire-général qu’il les relut. À la dernière, [MASK], blessée au cœur par une fille qui voulait tuer l’amour chez sa rivale, avait répondu par ces simples mots : «
+
+['elle', 'Marie', 'Anna', 'Jeanne', 'Louise']	Rosalie	La paroisse jusque-là sombre, parut à [MASK] comme éclairée. La jeune fille fut charmée par cette démarche lente et presque solennelle des gens qui portent un monde sur leurs épaules, et dont le regard profond, dont le geste s’accordent à exprimer une pensée ou dévastatrice ou dominatrice.
+
+['Napoléon', 'Charles', 'Frédéric', 'Louis', 'Pierre']	Rodolphe	demanda-t-il au jardinier.– Le prince et la princesse Colonne ainsi que le prince et la princesse Gandolphini.– N’est-ce pas elles qui rentrent ?– Oui, monsieur.En un moment, un voile tomba des yeux de [MASK] : il vit clair dans le passé.– Pourvu
+
+['il', 'Molière', 'Voltaire', 'Balzac', 'Charles']	Rodolphe	Né d’une des plus charmantes Parisiennes et d’un homme remarquable de l’aristocratie brabançonne, fruit d’une passion égale et partagée, [MASK] fut affligé d’une excessive sensibilité. Dès son enfance, il avait manifesté la plus grande ardeur en toute chose.
+
+['Émile', 'Antoine', 'Alexandre', 'Albert', 'Eugène']	Albert	Voilà le coup de foudre tombé sur la tête d’[MASK] qui aura sans doute essayé d’aller se justifier… Mais comment, en quatorze mois, n’a-t-il pas donné de ses nouvelles ?– Oh ! si je l’épouse, il sera si heureux…–
+
+['Il', 'II', 'Louis', 'Napoléon', 'On']	Amédée	Un coiffeur, qui venait le coiffer à heure fixe (autre luxe de soixante francs par an !), le préconisait comme l’arbitre souverain en fait de modes et d’élégance. [MASK] dormait tard, faisait sa toilette, et sortait à cheval vers midi pour aller dans une de ses métairies tirer le pistolet.
+
+['On', 'Il', 'Chacun', 'on', 'il']	Chacun	[MASK] s’est contenté de dire : Voilà un pauvre diable qui ne sait pas son Besançon. Qui diable a pu lui conseiller de venir ici ? qu’y prétend-il faire ? Envoyer sa carte chez les magistrats, au lieu d’y aller en personne ?… quelle faute
+
+['la', 'Vénus', 'cette', 'son', 'ce']	Rodolphe	Une pâleur d’ambre répandue sur la figure accusait un intérêt subit, mais qui n’effaçait pas la volupté de deux yeux humides et d’un noir velouté. Deux mains, les plus belles que jamais sculpteur grec ait attachées au bras poli d’une statue, tenaient le bras de [MASK]
+
+['Il', 'Elle', 'On', 'II', 'Joseph']	Léopold	!Au jour, il envoya chercher à Lucerne le meilleur chirurgien ; et quand il fut venu, il lui recommanda le plus profond secret en lui faisant entendre que l’honneur l’exigeait. [MASK] revint de son excursion le jour où son ami quittait le lit.
+
+['elle', 'Marie', 'Catherine', 'Jeanne', 'Mathilde']	Rosalie	L’orage qui grondait éclata. Quelques nobles se mirent à jouer, trouvant la chose intolérable. L’abbé de Grancey, qui ne savait que penser, alla vers la fenêtre où [MASK] s’était cachée et dit tout haut, tant il était stupéfait :
+
+['elle', 'Julie', 'Marie', 'Louise', 'Mathilde']	Francesca	L’admiration chez certaines âmes ne va pas sans une sorte de pénétration. Le jeune Français reconnut en [MASK] la jeune fille imprudente, la nature vraie de la femme encore insoumise, se débattant par instants avec son amour, et s’y laissant aller complaisamment en d’autres moments.
+
+['Jésus', 'Dieu', 'Pierre', 'David', 'Julien']	Rodolphe.–	Ce sourire fit faire une pause à [MASK] … Oui, reprit-il, vous devez souffrir du dénûment auquel vous réduit l’exil. Ah ! si vous voulez me rendre heureux entre tous les hommes, et sanctifier mon amour, vous me traiterez en ami. Ne dois-je pas être votre ami aussi ?
+
+['Paris', 'la', 'le', 'les', 'vous']	Besançon	; mais comme vous n’avez pas la majorité dans [MASK], il faut que j’acquière des voix dans la bourgeoisie. Donc, les honoraires que je vous demande, c’est les voix que vous pourrez faire porter sur moi dans un moment opportun, secrètement.
+
+['il', 'elle', 'Louis', 'on', 'Albert']	Rodolphe	Malgré les efforts d’une mère spirituelle, qui s’effraya dès qu’elle s’aperçut d’une pareille prédisposition, [MASK] désirait comme un poète imagine, comme un savant calcule, comme un peintre crayonne, comme un musicien formule des mélodies.
+
+['Albert', 'Léopold', 'Charles', 'lui', 'Louis']	Rosalie	Ainsi pendant les préoccupations d’Albert relativement aux élections, la duchesse ne lui avait écrit que deux lettres, celle où elle lui apprenait le danger du duc d’Argaiolo, celle où elle lui disait qu’elle était veuve, deux nobles et sublimes lettres que [MASK] garda.
+
+['Balzac', 'il', 'Flaubert', 'Voltaire', 'Proust']	Albert	Voici donc cette confidence où, selon les critiques du salon Chavoncourt, [MASK] aurait imité quelques-uns des écrivains modernes qui, faute d’invention, racontent leurs propres joies, leurs propres douleurs ou les événements mystérieux de leur existence.
+
+['–', '</s>NOTUSED', '—', '«', '?']	Rodolphe.–	Ses larmes coulèrent alors en abondance.– Enfant, dit-elle, il y a de l’espoir. Mon mari a…– Quatre-vingts ans ?… dit [MASK] Non, répondit-elle en souriant, soixante-cinq. Il s’est fait un masque de vieillard pour déjouer la police.– Chère
+
+['Juliette', 'Julie', 'Louise', 'Pauline', 'Jeanne']	Mariette	ainsi vous avez plus à espérer de moi que de qui que ce soit au monde…– Certainement, mademoiselle, vous pouvez compter sur nous à la vie et à la mort, s’écria [MASK] heureuse de ce dénouement imprévu.
+
+['Madame', 'Elle', 'Marie', 'Jeanne', 'Mme']	Rosalie	En sa qualité d’ami de la maison, il ne confessait ni la mère ni la fille. [MASK], un peu trop battue, moralement parlant, à propos du jeune monsieur de Soulas, ne pouvait pas le souffrir, pour employer un terme du langage familier.
+
+['Marie', 'Thérèse', 'Jeanne', 'Madeleine', 'Sophie']	Rosalie	Adieu, mon ange, tu me pardonneras mes prochaines tristesses en faveur de cette gaieté tombée comme un rayon du flambeau de l’Espérance, qui jusqu’alors me paraissait un feu follet.– Comme il aime ! s’écria [MASK] en laissant tomber cette lettre qui lui sembla lourde à tenir.
+
+['Elle', 'Il', 'elle', 'il', '</s>NOTUSED']	Francesca	Ah ! si vous voulez me rendre heureux entre tous les hommes, et sanctifier mon amour, vous me traiterez en ami. Ne dois-je pas être votre ami aussi ? Ma pauvre mère m’a laissé soixante mille francs d’économies, prenez-en la moitié ?[MASK] le regarda fixement.
+
+['Charles', 'Alexandre', 'Louis', 'Albert', 'Pierre']	Savarus	L’abbé de Grancey quitta [MASK] en lui lançant un regard fin par lequel il semblait se rire de la politique compacte du jeune athlète, tout en admirant sa résolution.– Ah ! j’aurai jeté mon père dans un procès !
+
+['il', 'on', 'chacun', 'personne', 'nul']	Berryer	Si la branche aînée revenait, disait-il à un ancien homme d’État septuagénaire, quels politiques trouverait-elle ? – Seul sur son banc, [MASK] ne sait que devenir ; s’il avait soixante voix, il entraverait le gouvernement dans bien des occasions et renverserait des ministères
+
+['Alice', 'Alexandre', 'Adam', 'Elizabeth', '<unk>']	Emilio	Le frère cadet d’[MASK] fut trahi par celle qu’il aimait pour un charmant jeune homme. Il s’est passé son épée au travers du cœur, et dix minutes auparavant il a dit à son valet-de-chambre : – Je tuerais bien mon rival ; mais cela
+
+['en', 'et', 'comme', 'tout', 'cela']	Albert	À l’aide de cette excellente vue que possède une jeune fille et que la curiosité semble étendre, elle vit [MASK] écrivant, elle crut distinguer la couleur de l’ameublement qui lui parut être rouge. La cheminée élevait au-dessus du toit une épaisse colonne de fumée.–
+
+['il', 'elle', 'on', 'Il', 'Auguste']	Albert	– Eh ! bien, maintenant qu’il est perdu pour vous, ne voulez-vous pas vous réconcilier avec votre mère en épousant le comte de Soulas ?– Il faudrait qu’[MASK] me l’ordonnât, dit-elle.– Vous voyez qu’il est impossible de le consulter.
+
+['Antoine', 'Alice', 'Emma', 'Alexandre', 'Émile']	Albert	Elle espérait y trouver les sentiments et peut-être quelque chose de la vie d’[MASK]. Dès les premières pages, cette opinion prit chez elle une si grande consistance, qu’après avoir achevé ce fragment, elle eut la certitude de ne pas se tromper.
+
+['Voltaire', 'Louis', 'Robespierre', 'lui', 'Monsieur']	Savarus	Vous l’aurez pour esclave encore pour cinq ans, si au lieu de l’envoyer à la Chambre, vous lui donnez seulement l’espérance d’y aller dans cinq ans. » Ce calcul fut d’autant plus nuisible à [MASK], que déjà quelques femmes de négociants l’avaient fait.
+
+['lui', 'moi', 'Joseph', 'David', 'Charles']	Amédée	Cette répugnance, visible seulement aux yeux de sa mère, était un continuel sujet d’admonestation.– Rosalie, je ne vois pas pourquoi vous affectez tant de froideur pour [MASK], est-ce parce qu’il est l’ami de la maison, et qu’il nous plaît, à votre père et à moi…
+
+['Dieu', 'nouveau', 'maman', 'regret', 'Pierre']	Rosalie	Et qu’est-ce que cela vous fait, ma chère enfant ? dit-elle à [MASK] en y mettant une feinte douceur qui rendit sa fille circonspecte pour le reste de ses jours.– On peut nous mener en cassation, mais nos adversaires y regarderont à deux fois, répondit l’abbé.–
+
+['cela', 'Besançon', 'ça', 'ainsi', 'correctement']	Savarus	fut, au dire du seul homme capable de juger [MASK] et qui depuis est devenu l’une des capacités de Besançon, un chef-d’œuvre d’adresse, de sentiment, de chaleur, d’intérêt et de séduction. Ce tourbillon enveloppa les électeurs.
+
+['le', '[...]', '...', 'la', 'Mme']	Rosalie.–	Heureux ?… il ne vous aime pas. Vous n’aurez d’ailleurs pas une si grande fortune à lui apporter. Votre mère a la plus profonde aversion pour vous, vous lui avez fait une sauvage réponse qui l’a blessée et qui vous ruinera.– Quoi ! dit [MASK]
+
+['messieurs', 'lecteur', 'frères', 'monsieur', 'amis']	Rodolphe	Eh ! bien, je terminerai tout par quelques paroles d’une profonde vérité. Sachez-le bien, [MASK] : je sens en moi la force d’étouffer un sentiment qui ne serait pas en harmonie avec les idées ou la prescience que j’ai du véritable amour.
+
+['moi', 'lui', 'nous', 'elle', 'vous']	Girardet	Jusque-là, son affaire sera conduite par [MASK] d’après mes avis. Voilà tout ce que je puis faire.– Mais il y a des questions qui ne peuvent se décider que d’après une inspection des localités, dit le Vicaire-général.–
+
+['Il', 'En', 'II', 'On', 'Louis']	Albert	À l’instant même, il était vainqueur. Mais il lui fallait vaincre ainsi tous les jours pendant deux mois. [MASK] sortit palpitant. Applaudi par des Bisontins, il avait obtenu le grand résultat de tuer par avance les méchants propos auxquels donneraient lieu ses antécédents.
+
+['elle', 'Marie', 'Catherine', 'Marguerite', 'Jeanne']	Francesca	et, devant l’expression d’une vraie fierté de noble, sa familiarité préméditée tomba. Par un regard, [MASK] se fit princesse avec tous les priviléges dont elle eût joui au Moyen-Âge. Elle semblait avoir deviné les secrètes pensées de ce vassal qui avait l’audace de se constituer son protecteur.
+
+['Elle', 'Marie', 'elle', 'Jeanne', 'Catherine']	Rosalie	[MASK] était en proie à une douleur sérieuse, qui ne s’épanchait point au dehors : elle s’accusait de la mort de son père et soupçonnait un autre malheur, encore plus grand à ses yeux, et bien certainement son ouvrage ;
+
+['Elle', 'On', 'Marie', 'Il', 'elle']	Rosalie	La jeune fille fut charmée par cette démarche lente et presque solennelle des gens qui portent un monde sur leurs épaules, et dont le regard profond, dont le geste s’accordent à exprimer une pensée ou dévastatrice ou dominatrice. [MASK] comprit alors les paroles du vicaire-général dans toute leur étendue.
+
+['Il', 'il', 'II', 'Qui', 'Elle']	Amédée	– C’est un homme très-avancé. [MASK] possédait le talent de débiter avec la gravité bisontine les lieux communs à la mode, ce qui lui donnait le mérite d’être un des hommes les plus éclairés de la noblesse.
+
+['Hitler', 'Alain', 'Allah', 'Abraham', 'Israël']	Albert	Mais malheureusement la Parole, espèce d’arme à bout portant, n’a qu’un effet immédiat. La Réflexion tue la Parole quand la Parole n’a pas triomphé de la Réflexion. Si l’on eût voté, certes le nom d’[MASK] sortait de l’urne !
+
+['Alexandre', 'Napoléon', 'Charles', 'Albert', 'Joseph']	Rodolphe	! Un fin sourire, élégant et rusé, candide et triomphant agita les lèvres de la princesse Gandolphini qui, dans un moment où elle ne se crut pas observée, regarda [MASK] en ayant l’air de lui demander pardon de l’avoir trompé sur sa condition.
+
+['hiver', 'Athènes', 'Amsterdam', 'Europe', 'Espagne']	Albert	s’écria-t-elle en s’élançant de son lit à sa fenêtre pour aller voir la lumière prestigieuse qui éclairait les nuits d’[MASK]. Une heure du matin sonnait, il dormait encore.– Je vais le voir à son lever, il viendra peut-être à sa fenêtre !
+
+['curiosité', 'hasard', 'lui', 'elle', 'un']	Rosalie	La première rencontre eut lieu dans le bal annuellement donné pour les pensionnaires de l’ancienne Liste civile, depuis 1830. Un jeune homme, poussé par [MASK], dit à la duchesse en la lui montrant : – Voilà l’une des jeunes personnes les plus remarquables, une forte tête !
+
+['il', 'Il', 'on', 'Amour', 'Antoine']	Albert	Un criminel qui marche au supplice ne souffre pas ce qu’[MASK] souffrit en revenant chez lui de la salle où son sort s’était joué. L’amoureux au désespoir ne voulut être accompagné de personne. Il marcha seul par les rues, entre onze heures et minuit.
+
+['celui', 'ceux', 'celle', 'Dieu', 'chacun']	Rodolphe	Elle chanta, non point des airs gais, mais de graves et sublimes mélodies appropriées à l’état du cœur de [MASK] qui remarqua ce soin touchant. Vers huit heures, le vieillard laissa ces deux jeunes gens seuls sans aucune apparence de crainte, et se retira chez lui.
+
+['Elle', 'Il', 'Marie', 'Jeanne', 'Madeleine']	Rosalie	– Vous, et comment ? dit l’abbé.[MASK] allait répondre, lorsqu’un grand cri jeté par deux jardiniers, et précédé du bruit d’un corps tombant à l’eau, l’interrompit, elle se leva, courut en criant : – Oh ! mon père…
+
+['Maria', 'Clara', 'Anna', 'Albert', 'Hugo']	Rodolphe	?…– Permettez-moi d’accorder un regret à cette délicieuse maison Bergmann, dit [MASK] en montrant le promontoire.– Vous viendrez dîner avec nous, pour y multiplier vos souvenirs, povero mio, dit-elle. C’est fête aujourd’hui, nous ne sommes plus en danger.
+
+['il', 'on', 'elle', 'Il', 'Isabelle']	Albert	dit le vicaire en comprenant ce qu’[MASK] lui témoignait d’affection par cette muette confidence. Mais il y a bien de la fierté sur ce front, il est implacable, elle ne pardonnerait pas une injure ! C’est un archange Michel, l’ange des exécutions, l’ange inflexible…
+
+['On', 'Il', 'qui', 'Qui', 'il']	Gina	[MASK] m’aurait jeté dans le lac avec une pierre au cou !Au jour, il envoya chercher à Lucerne le meilleur chirurgien ; et quand il fut venu, il lui recommanda le plus profond secret en lui faisant entendre que l’honneur l’exigeait.
+
+['Marie', 'Jeanne', 'Marguerite', 'Louise', 'Catherine']	Rosalie	Lisez, dit la baronne.Le vicaire-général lut la lettre, et vit [MASK] devenir soudain blanche comme son fichu.– Elle reconnaît l’écriture, se dit-il après avoir jeté sur la jeune fille un regard par-dessus ses lunettes.
+
+['Pierre', 'Jean', 'Marie', 'Monsieur', 'Jacques']	Rodolphe	Au bout de quelques minutes, elle coula un regard vers la porte comme attirée par ce courant d’amour, et ses yeux, sans hésiter, se plongèrent dans les yeux de [MASK]. Un léger frémissement agita ce magnifique visage et ce beau corps : la secousse de l’âme réagissait
+

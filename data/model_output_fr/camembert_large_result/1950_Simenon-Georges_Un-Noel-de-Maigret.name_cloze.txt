@@ -1,0 +1,200 @@
+['nouveau', 'présent', 'moi', 'côté', 'part']	Maigret	Tu ne comprends pas ?… Moi non plus… Tu veux que je te le passe ?… Je vais le lui demander… Et, à [MASK] : — Il voudrait vous parler. Une bonne voix, au bout du fil, un homme anxieux ne sachant visiblement que penser.
+
+['on', 'il', '</s>NOTUSED', 'elle', 'Monsieur']	Lecœur	! Central ? Notre car rentre, à l’instant. Il n’y avait personne. Les environs sont calmes. On fait patrouiller le quartier. Dans la dernière colonne, celle des divers, [MASK], par acquit de conscience, traça quand même une petite croix.
+
+['Jeanne', 'Marie', 'Paul', 'Camille', 'Sophie']	Martin	Il semblait qu’il n’existât plus un seul coin ou recoin de l’appartement qui n’eût été fouillé. Même les cadres des parents de [MASK] avaient été décrochés, pour s’assurer que le reçu de la consigne n’avait pas été glissé sous le carton.
+
+['cela', 'ça', 'ceci', 'on', 'elle']	Loubet	— Que voulez-vous dire ? — Ils n’étaient pas ensemble, au début, vers six heures et demie du matin, car [MASK] aurait empêché le gamin de briser la glace des avertisseurs. Une certaine distance les séparait. L’un des deux suivait l’autre…
+
+['son', 'la', 'sa', 'droite', 'chacun']	Saillard	Je n’avais pas pensé aux gares non plus. Il retira ses lunettes et on vit ses paupières très rouges, peut-être parce qu’il n’avait pas dormi. — Allô ! Le Central, oui. Comment ? Oui, le commissaire est ici. Il passa un écouteur à [MASK].
+
+['Madame', 'madame', 'Paris', 'Monsieur', 'Madeleine']	Torrence	— Vous croyez qu’elle se défendra encore ? — Férocement. Et, qui plus est, froidement. — Qu’est-ce que vous attendez ? — Le coup de téléphone de [MASK]. On le reçut à son heure. C’était comme une partition bien minutée.
+
+['chacun', 'lui', 'quiconque', 'Simon', 'Jack']	Loubet	Il fallait que [MASK] ait pu lui parler, le menacer de son arme. « — Si tu appelles, je tire… » Et ainsi chacun d’eux poursuivait-il son but : se débarrasser du gosse, pour l’un, en l’entraînant dans un endroit désert où le meurtre serait possible
+
+['lui', 'moi', 'celui', 'toi', 'ce']	Loubet	Dans deux heures, dans trois heures, il y aurait des passants sur les trottoirs et le gamin, sans doute, se précipiterait sur le premier d’entre eux en appelant au secours. — C’est [MASK] qui marchait le premier, dit lentement le commissaire.
+
+['Jeanne', 'Pierre', 'Marie', 'Jean', 'Paul']	Lecœur	Je ne crois pas. — Son père ne le lui a pas dit ? Le regard de [MASK] ne quittait pas le plan aux petites lampes, mais c’était l’heure creuse, elles s’allumaient rarement, et presque toujours, maintenant, pour des accidents de la circulation.
+
+['santé', 'bord', 'notes', 'route', 'Jacques']	Lecœur	Mais il n’y avait pas eu de cas importants. Les petites croix, dans le carnet de [MASK], étaient éloquentes. Il ne se donnait pas la peine de les compter, il savait qu’il y en avait près de deux cents à la colonne des ivrognes.
+
+['noces', 'trop', 'miel', 'mariage', 'deux']	Noël	— Entendu. — Mais… essaya-t-elle de protester. — En copine, n’ayez pas peur ! Est-ce la nuit de [MASK], oui ou non ? Le gros, qui sortait de la cabine et qui arrangeait sa cravate devant la glace, avait déjà compris.
+
+['Elle', 'Marie', 'Anna', 'Alice', 'Sophie']	Colette	— Il y a la salle à manger entre les deux. — Vous ne laissez pas les portes de communication ouvertes, la nuit ? — Ce n’est pas nécessaire. [MASK] n’est pas peureuse et, d’habitude, elle ne se réveille pas.
+
+['celui', 'ce', 'Pierre', 'Paul', 'Jean']	Janvier	— Quel boudin ? murmura [MASK] qui, endormi, les pommettes roses, avait l’air d’un enfant. — Le boudin que ma mère… — Allô ! Tu ne vas pas m’annoncer qu’on a brisé la vitre d’un de tes postes ?… hein
+
+['papa', 'maman', 'Papa', 'monsieur', 'Georges']	Olivier	— Dis-moi, [MASK], quand tu es rentré chez toi ce matin, est-ce que la lumière était allumée ? — Elle l’était. — Dans la chambre du petit ? — Oui. Cela m’a donné un choc. J’ai cru qu’il était malade.
+
+['Il', 'Elle', 'On', 'il', 'Jean']	Lecœur	? — Non. — Parce que c’est votre frère ? — Non. — Il y a combien de temps que le tueur sévit ? Neuf semaines, n’est-ce pas ? [MASK] consulta sans hâte son petit carnet, chercha une croix dans une colonne.
+
+['Marie', 'Jeanne', 'Louis', 'maman', 'Charles']	Janvier	Vous y comprenez quelque chose ? Vous ne croyez pas, puisque vous êtes de la famille et que vous êtes au courant, que vous feriez mieux de venir jusqu’ici ? — Cela ne servirait à rien. Où est [MASK] ? — Dans la chambre de la mère Fayet.
+
+['il', 'elle', 'on', 'Paul', 'chacun']	Lecœur	L’instant d’après, [MASK] pouvait ajouter une petite croix, la septième, dans la dernière colonne de son calepin. On avait fait éclater la vitre d’une borne de Police-Secours, avenue d’Iéna, à cent cinquante mètres de l’Arc de Triomphe.
+
+['Lui', 'Monsieur', '</s>NOTUSED', 'Un', 'Il']	Martin	On m’a laissé entendre qu’il y avait de jolies filles avec eux. [MASK], après avoir bu quelques verres, pour faire comme les autres, a, paraît-il, tout le temps parlé de sa femme et de sa fille, car il parle de la gamine comme de sa fille.
+
+['madame', 'Marie', 'maman', 'Madame', 'Catherine']	Loraine	— Elle est jalouse ? L’homme ne répondit pas. — Vous feriez mieux de me dire ce que vous pensez. Voyez-vous, il s’agit de votre fille. — Je ne crois pas que [MASK] soit tellement jalouse, mais elle est intéressée.
+
+['Elle', 'Marie', 'Maman', 'Il', 'Jeanne']	Colette	— Je parle de celui qui a causé la mort de sa femme. Un dimanche, il s’est mis en tête d’emprunter l’auto d’un camarade et d’emmener sa femme et l’enfant à la campagne. [MASK] était toute petite. — À quelle époque était
+
+['service', 'secours', 'marbre', 'pierre', 'fer']	Maigret	Le premier chauffeur, revenant déjà de la maison d’en face, s’était trouvé dans l’escalier de [MASK] avec le marchand de valises. — Vous l’avez reconnue ? — Non seulement je l’ai reconnue, mais elle m’a reconnu, elle aussi.
+
+['un', 'le', 'monsieur', 'Monsieur', 'Mr']	Langlois	Elle a attendu toute la matinée à la porte du magasin. Il ne semble pas qu’elle l’ait vu la veille au soir après la fermeture. J’étais en train de téléphoner à ce sujet quand [MASK], de la brigade financière, est entré dans mon bureau.
+
+['lui', 'Georges', 'Martin', 'Franco', 'Julien']	Lorilleux	? Ce n’est rien de précis. Seulement le fait que [MASK] avait été signalé, vers cette époque, comme franchissant fréquemment la frontière suisse. Or c’était au moment où le trafic de l’or battait son plein. On l’a tenu à l’œil.
+
+['Julien', 'Daniel', 'Jack', 'David', 'Alice']	Maigret	Mais il reconnut [MASK] et regarda curieusement autour de lui, intéressé visiblement par le cadre dans lequel vivait le fameux commissaire. — Vous allez vous rendre dans la maison qui est juste en face et vous monterez au troisième.
+
+['il', 'Joseph', 'Pierre', 'Jean', 'Paul']	Maigret	Sur l’appui de la fenêtre qui donnait sur la cour, il y avait un garde-manger et [MASK] l’examina avec soin, y vit de la viande froide, du beurre, des œufs, des légumes. Dans le buffet de la cuisine, il trouva deux pains frais qui n’étaient pas entamés.
+
+['Il', 'On', 'il', 'Lui', 'Chacun']	Loubet	donner l’alarme, pour l’autre, sans que son compagnon eût le temps de tirer. Chacun se méfiait de l’autre. Chacun jouait sa vie. — [MASK] ne s’est certainement pas dirigé vers le centre de la ville, où les agents sont trop nombreux.
+
+['la', 'son', 'ses', 'sa', 'voix']	Lecœur	? — Qui serait-ce ? — Votre mari n’est pas chez vous ? — D’abord, qui parle ? — Le commissaire Saillard… — Pourquoi avez-vous besoin de lui ? Le commissaire mit un instant la main sur le micro, dit tout bas à [MASK]
+
+['Marie', 'Jeanne', 'Louis', 'Sophie', 'Jean']	Bib	Si le crime venait d’être commis, ce sang n’était pas encore sec, le corps restait chaud. Or c’est le soir, vers neuf heures, que [MASK] avait vu son père dans la chambre… À chaque évidence nouvelle, on avait un nouvel espoir.
+
+['Noël', 'bébé', 'maman', 'Sophie', 'Marie']	Colette	Mon mari l’aime bien aussi parce que lorsqu’il était encore célibataire, il a eu une pleurésie, et c’est elle qui est venue le soigner. — Vous avez reporté la poupée que vous avez achetée pour le Noël de [MASK] ?
+
+['celui', 'celle', 'toi', 'elle', 'lui']	Sommer	… La concierge ?… Elle était levée à cette heure ?… Vos gueules, vous autres ! » Non, ce n’est pas à toi que je parle. C’est à [MASK] qui est encore en train de nous casser les oreilles avec son boudin… »
+
+['maman', 'Monsieur', 'Marie', 'Maman', 'Clara']	Colette	Elle répéta en détachant les syllabes : — Je te dis de ne pas t’inquiéter… Seulement, il y a eu, la nuit dernière, un incident bizarre… Quelqu’un, habillé en Père Noël, est entré dans la chambre de [MASK]… Mais non !
+
+['Il', 'II', 'Louis', 'Paul', 'Pierre']	Maigret	Vous êtes là, patron ? Et il introduisait dans la pièce un homme sans âge qui se tenait humblement contre le mur en baissant le regard. [MASK] alla chercher deux verres dans le buffet, les remplit de prunelle. — À votre santé, dit-il.
+
+['donc', 'aussi', 'maintenant', 'alors', 'Charles']	Lecœur	Lui en avait cinq et sa femme en attendait un sixième. — Comme toi, [MASK] ! Fais attention ! — Il y a également, comme indication, les zones dans lesquelles il sévit. Pas un des assassinats n’a eu lieu dans les quartiers riches, ou même bourgeois.
+
+['Il', 'Elle', 'On', 'Papa', 'Joseph']	Albert	[MASK] avait deux gosses et les jouets étaient cachés depuis plusieurs jours au-dessus de la grande armoire. Il commença par l’homme, posa un petit verre sur la table, le remplit d’armagnac. — Avec les souhaits du patron, dit-il.
+
+['monsieur', 'Monsieur', 'madame', 'Madame', 'docteur']	Lucas	— C’est encore moi, [MASK]. Je voudrais, cette fois, que tu t’occupes des taxis. J’aimerais savoir si, ce matin, entre neuf heures et dix heures du matin, un taxi a chargé une cliente dans les environs du boulevard Richard-Lenoir, et où il l’a conduite.
+
+['il', 'lui', 'on', 'elle', 'monsieur']	Bib	Il dit non expliqua d’une voix monotone : — Pas si [MASK] savait qu’il y avait une grosse récompense. Pas s’il savait que j’ai perdu ma place. Pas s’il m’a vu chez ma belle-mère emprunter de l’argent…
+
+['Elle', 'elle', 'Il', '»', 'et']	Martine	— Ah ! tu m’as traitée de je sais bien quoi !… Ah ! tu me cherches des crosses… [MASK] se débattait comme elle pouvait, griffait à son tour, enfonçait même ses petites dents dans la main de l’autre qui lui pinçait une oreille.
+
+['on', 'cela', 'chacun', 'il', 'On']	Saillard	Mais, en commençant par les quartiers les plus probables, et en y mettant beaucoup de monde… Non seulement ceux qui étaient là s’y attelèrent, mais [MASK] alerta le quai des Orfèvres, où six inspecteurs de service s’installèrent chacun devant un téléphone. — Allô
+
+['Pierre', 'Paul', 'Jean', 'Jack', 'Francis']	Lucas	Il cria à [MASK] : — Sers-toi. Tu n’as pas faim ? — Je suis bourré de sandwiches, patron. Je n’ai qu’une envie, quand nous sortirons : un verre de bière tirée au tonneau. Le second chauffeur arriva à six heures vingt.
+
+['Docteur', 'docteur', 'Maman', 'Papa', 'Capitaine']	Bichat	Pas plus qu’il n’avait mis les pieds dans ces hôpitaux dont les noms lui étaient aussi familiers qu’à d’autres les noms des tantes et des oncles. — Allô ! [MASK] ? Comment va le blessé qu’on vous a amené il y a vingt minutes ?
+
+['Il', 'Lui', 'Paul', 'Monsieur', 'Pierre']	Maigret	Ils allaient tous les deux, dans l’appartement feutré, passer une matinée paisible. [MASK] traînerait jusque très tard en robe de chambre, sans se raser, et irait bavarder avec sa femme dans la cuisine pendant qu’elle mettrait son déjeuner au feu.
+
+['Il', 'Papa', 'Elle', 'Paul', 'Monsieur']	Torrence	? — Tu as quelqu’un pour l’accompagner chez moi ? — [MASK] vient d’arriver et ne demandera pas mieux que de prendre l’air, car je crois qu’il a réveillonné dur, lui aussi. Vous n’avez plus besoin de moi ? — Si.
+
+['nous', 'les', 'vous', 'Marc', 'tout']	Lecœur	— Je voudrais vous parler un moment, monsieur le commissaire. Le lit de camp avait repris sa place dans le cagibi et c’était là que [MASK] entraînait le chef de la brigade des homicides. Le commissaire fumait sa pipe, retirait son pardessus, regardait son interlocuteur avec une certaine surprise.
+
+['Il', 'Lui', 'On', 'Monsieur', 'Paul']	Jean	— Il tenait beaucoup à vous ? — Je crois que je lui étais une aide précieuse. — Votre mari l’a rencontré ? — Ils ne se sont jamais parlé. [MASK] venait parfois m’attendre à la sortie du magasin, mais il se tenait à une certaine distance.
+
+['il', 'on', 'Il', 'elle', 'On']	André	En parlant de son fils, il reprenait vie, se transfigurant. — Je ne parviens pas à comprendre pourquoi il m’a écrit ce mot-là. J’ai demandé à la concierge si un télégramme n’était pas arrivé. Un moment, j’ai cru qu’[MASK] nous avait fait une farce.
+
+['celui', 'ceux', 'lui', 'celle', 'ce']	Sommer	Chose curieuse, bien qu’il fût aussi soigné que les autres, davantage que certains, que [MASK], par exemple, dont les pantalons ne recevaient pas souvent le coup de fer, il y avait en lui quelque chose de terne qui trahissait le célibataire.
+
+['il', 'on', 'elle', 'Charles', 'lui']	Torrence	À sept heures et demie, [MASK] était arrivé en compagnie de l’employé de la consigne, musicien à ses moments perdus, et l’homme, sans hésiter plus que les autres, avait déclaré : — C’est bien elle.
+
+['Jean', 'Pierre', 'Albert', 'Georges', 'Louis']	Olivier	— Pardon, fit [MASK], qui était le seul à n’avoir pas encore compris. Suivi par quoi ? Et pourquoi appelle-t-il la police ? On hésitait à le mettre au courant, à lui ouvrir les yeux. Ce fut son frère qui s’en chargea.
+
+['Il', 'Puis', 'On', 'Et', 'il']	Janvier	Je reste encore un peu. Le commissaire Saillard était allé déjeuner en hâte à la Brasserie Dauphine , à deux pas, en recommandant qu’on l’appelle s’il y avait du nouveau. [MASK] avait regagné le quai des Orfèvres, où il était en train de rédiger son rapport.
+
+['elle', 'il', 'Alice', 'Marie', 'Anna']	Martine	Bien entendu, [MASK] n’osait pas avouer qu’elle allait en effet se coucher. — Vous avez un rendez-vous ? — Vous êtes curieux. — Un amoureux ? — Qu’est-ce que cela peut vous faire ? — C’est que j’aurais un tel plaisir à ce qu’il attende !
+
+['le', 'à', 'la', 'alors', '</s>NOTUSED']	Javel	Il appela [MASK], une fois de plus. — L’inspecteur Gonesse est toujours là ? — Il rédige son rapport. Je l’appelle ? — S’il vous plaît… Allô ! Gonesse ?… Lecœur, ici… Pardonnez-moi de vous déranger…
+
+['tu', 'maman', 'je', 'Pierre', 'Philippe']	Martin	— Qui a occupé le logement voisin avant que [MASK] s’y installe ? — Un ingénieur des Ponts et Chaussées. Je ne me rappelle plus son nom, mais je pourrais le retrouver. Il vivait avec sa femme et sa fille, qui était sourde-muette.
+
+['il', 'Il', 'Paul', 'Pierre', 'Antoine']	Maigret	Une intuition encore, quelque chose de vague, d’inconsistant : [MASK] avait beau regarder la femme qui lui faisait face et qui avait allumé une nouvelle cigarette, il ne parvenait pas à la voir en maman. — Or, sous prétexte de m’aider, elle est sans cesse fourrée chez moi.
+
+['Albert', 'André', 'Émile', 'Alfred', 'Eugène']	Olivier	Celui-ci ne voulait pas le boire. Il l’a bu quand même et a mangé deux œufs durs… À voir le visage d’[MASK] Lecœur, on aurait pu croire qu’il venait d’entendre la voix de son fils. — Vous ne savez pas où ils sont allés
+
+['Marie', 'Jeanne', 'Jane', 'Alice', 'Rose']	Martine	Par contre, ils dévisageaient [MASK] avec insistance, s’asseyaient près d’elle. — Vous permettez ? Elle se collait un peu contre le mur, tenant toujours aussi maladroitement sa cigarette. — Qu’est-ce que tu prends, Willy ? — Comme d’habitude.
+
+['lui', 'moi', 'toi', 'vous', 'nous']	Bib	On le tendit au père. — C’est bien à [MASK]. — Donc, il est suivi, affirma le commissaire. S’il n’était pas suivi, s’il en avait le temps, il ne se contenterait pas de briser des vitres. Il parlerait.
+
+['Jean', 'Pierre', 'Louis', 'Charles', 'Paul']	André	Deux fois il était venu tirer [MASK] par la manche. — Laisse-moi aller chercher… suppliait-il. Chercher où ? Chercher qui ? Le signalement de l’ex-brigadier Loubet était déjà transmis à tous les commissariats, à toutes les gares, à toutes les patrouilles.
+
+['Il', 'Thomas', 'Paul', 'David', 'Daniel']	Olivier	[MASK] ne portait pas de lunettes, mais il avait les mêmes yeux pâles et fuyants que son frère lorsqu’il retirait ses verres, de sorte qu’il donnait toujours l’impression d’avoir pleuré. Il regarda un instant le commissaire, sans lui attribuer d’importance.
+
+['il', 'elle', 'lui', 'on', 'chacun']	Bib	» Cela ne pouvait être que la radio convoitée et [MASK] en connaissait le prix. Savait-il, ce soir-là, que le portefeuille de son père était vide ? L’homme s’en allait, comme pour son travail, et ce travail n’existait pas.
+
+['Jean', 'Marie', 'Pierre', 'Joseph', 'Paul']	Janvier	À ce moment-là, le crime venait d’être commis. L’enfant n’aurait pas tenté son escalade s’il n’avait aperçu le cadavre… — Il l’a vu, affirma [MASK]. De sa fenêtre, il pouvait découvrir le corps depuis les pieds jusqu’à mi-cuisse.
+
+['Il', 'Elle', 'On', 'Thomas', 'Simon']	Maigret	[MASK] avait presque abandonné cette hypothèse-là. Ce n’était d’ailleurs qu’une idée en l’air. Quelqu’un, habitant l’appartement d’en face, aurait pu y cacher le produit d’un vol ou d’un crime avant de se faire prendre.
+
+['Monsieur', 'Pierre', 'Louis', 'Jean', 'Paul']	Lorilleux	— On n’en parle guère dans le rapport. Elle était déjà mariée au moment de la disparition de [MASK]. Elle a attendu toute la matinée à la porte du magasin. Il ne semble pas qu’elle l’ait vu la veille au soir après la fermeture.
+
+['bois', 'derrière', 'verre', 'droite', 'devant']	Maigret	— Je parie que cela lui plaira autant que la poupée. Parce que c’est un objet de grande personne, tu comprends ? On vit l’homme traverser le boulevard, s’arrêter un moment devant la maison, se tourner vers les fenêtres de [MASK] comme pour un encouragement.
+
+['Marie', 'Juliette', 'Alice', 'Julie', 'Sophie']	Martine	Le musicien – ou le danseur, – au fond, avait déjà repéré [MASK] et lui lançait des regards langoureux. — Vous avez des cigarettes ? Elle n’avait pas l’habitude de fumer, cela se voyait à sa façon d’ouvrir le paquet, de rejeter la fumée en battant des paupières.
+
+['il', 'elle', 'on', 'monsieur', 'Il']	Martin	— Où veux-tu en venir ? — À rien. Ou plutôt je me dis que l’homme ne pouvait plus attendre, qu’il avait des raisons impérieuses d’agir sans retard. — Dans quelques jours, [MASK] sera de retour de sa tournée.
+
+['Ce', 'Cela', 'Il', 'On', 'Tout']	Janvier	?… C’est cela… Comment ? Un poulet, du boudin, un saint-honoré, et… Je ne comprends pas la suite… Un petit appareil de radio ?… Cela n’avait pas été déballé ?… Évidemment !… [MASK] n’est pas par là ?
+
+['toi', 'alors', 'donc', 'hein', 'inspecteur']	Janvier	— Salut ! fit l’homme en lançant son chapeau sur une chaise. — Qu’est-ce que tu viens faire ici, [MASK] ? C’était un inspecteur de la brigade des homicides, un jeune, qui alla d’abord se chauffer les mains au-dessus du radiateur.
+
+['monsieur', 'vous', 'moi', 'Monsieur', 'maman']	Janvier	: — Téléphonez à [MASK] de courir tout de suite là-bas. Un commissariat appela au même moment, de sorte qu’il y avait à la fois trois appareils en fonction dans la pièce. — Votre mari n’est pas rentré ce matin ?
+
+['peu', 'longtemps', 'toujours', 'lui', 'petit']	Colette	En somme, si on la connaît un peu, c’est depuis [MASK], parce qu’on s’intéresse toujours davantage à un enfant. — Il vous est arrivé de rencontrer son beau-frère ? — Dans le corridor. Je ne lui ai jamais parlé.
+
+['Marie', 'Maria', 'la', 'Julie', 'Juliette']	Colette	Remis en liberté, son premier soin aurait été tout naturellement de rentrer en possession du magot. Or, à cause de l’accident de [MASK], qui la tenait immobilisée dans son lit, la chambre n’était vide à aucune heure du jour ou de la nuit.
+
+['Paul', 'Jean', 'Pierre', 'Georges', 'François']	Lecœur	Des restes de victuailles traînaient sur les meubles, avec trois ou quatre bouteilles vides. Une lumière, grande comme un cachet d’aspirine, s’alluma, sur un des murs. — XIII e arrondissement, murmura [MASK] en rajustant son casque.
+
+['toi', 'maman', 'papa', 'Gérard', 'chéri']	Lecœur	Cela arrivait souvent. C’était devenu si banal qu’on ne se gênait plus avec lui. — Dis donc, [MASK], tu ne peux pas me remplacer demain ? Au début, on cherchait une excuse sentimentale, une mère malade, un enterrement, une première communion.
+
+['Jack', 'Peter', 'lui', 'Pierre', 'Charles']	Jeanne	La troisième maison était un hôtel et il y en avait d’autres, des hôtels discrets, où on pouvait entrer pour un moment. C’était justement là que [MASK] avait fait sa première passe. Dans l’hôtel voisin, sans doute tout en haut
+
+['Marie', 'Jeanne', 'Jean', 'maman', 'Paul']	Lecœur	Je le vois encore lui donner son bain, lui changer ses couches, préparer les biberons… — Cela n’explique pas pourquoi il se disputait. Évidemment ! Les mots n’avaient pas le même sens dans la grosse tête du commissaire que dans celle de [MASK].
+
+['Marie', 'Joseph', 'Jeanne', 'Madame', 'Jean']	Sommer	. SEPT PETITES CROIX DANS UN CARNET CHAPITRE 1 — Chez moi, dit [MASK], qui était en train de préparer du café sur un réchaud électrique, on allait tous ensemble à la messe de minuit, et le village était à une demi-heure de la ferme.
+
+['Lui', 'Moi', 'Oh', 'Oui', 'Monsieur']	Jean	— [MASK], oui, qui est de six ans mon cadet. Avec ma femme et ma fille, c’est tout ce que j’aimais au monde. — Vous n’aimez pas votre belle-sœur ? Il tressaillit, surpris, gêné.
+
+['Quoi', 'Madame', 'Mademoiselle', 'Madeleine', 'Paris']	Lucas	Distraite, elle avait même acheté du beurre, alors qu’il en restait une livre dans le garde-manger. Il se leva à son tour et alla s’asseoir dans son fauteuil, près de la fenêtre, décrocha le téléphone, appela le quai des Orfèvres. — [MASK] ?
+
+['John', 'Monsieur', 'Jean', 'Paul', 'Max']	Maigret	Tout cela, aux oreilles de [MASK], commençait à se confondre en un ronron continu. Il n’avait pas encore bu sa seconde tasse de café. Sa pipe venait de s’éteindre. — Elle a vraiment vu quelqu’un ? questionna-t-il sans conviction.
+
+['Pierre', 'Paul', 'Jean', 'Albert', 'François']	Saillard	— Un instant. Il courut vers la porte, s’élança dans l’escalier et ce ne fut que dans la cour, près des cars de police, qu’il réussit à rejoindre [MASK] au moment où celui-ci montait dans une petite auto de la Préfecture.
+
+['Charles', 'Jean', 'Paul', 'Pierre', 'monsieur']	Lucas	La sonnerie, là-bas, quai des Orfèvres, n’avait pas pour lui le même son que les autres sonneries et il croyait voir les grands couloirs déserts, les portes ouvertes sur des bureaux vides, le standardiste qui appelait [MASK] en lui disant : — C’est le patron
+
+['Pierre', 'Jean', 'Philippe', 'Jacques', 'Paul']	Lecœur	Il raccrocha et regarda [MASK] avec attention, lui parla comme il aurait parlé à un égal. — Vous avez entendu ? Il y a eu le brigadier Loubet qui a reçu toute une série d’avertissements et a été changé trois ou quatre fois de commissariat avant d’être révoqué.
+
+['Monsieur', 'monsieur', 'Pierre', 'Paul', 'Jacques']	Janvier	Dites à [MASK] que je reste ici, que la mère Fayet avait beaucoup d’argent, sans doute, caché chez elle. Un peu fébrile, il changea sa fiche de trou, appela les différents commissariats du VIII e arrondissement.
+
+['il', 'Paul', 'Il', 'Antoine', 'elle']	Olivier	Les sanglots, comme ceux d’un enfant, perdaient de leur force, se mouraient presque, reprenaient pour un instant avec une intensité accrue. Puis [MASK] reniflait, risquait un regard autour de lui, paraissait encore bouder un peu en se cachant le visage.
+
+['elle', 'il', 'Alice', 'Anna', 'Elle']	Maigret	Le magasin la reprendra. L’appartement était surchauffé, les pièces étroites, sans beaucoup d’air, et pourtant [MASK] avait une impression de froideur. La maison ressemblait à la sienne, en face. Pourquoi, ici, le monde lui paraissait-il plus petit, plus mesquin
+
+['Il', 'On', 'Et', 'il', 'Elle']	Lucas	Il n’en est pas moins resté dehors jusqu’à trois heures du matin avec ses amis. C’est tout ce que vous voulez savoir, patron ? [MASK] ne put s’empêcher d’ajouter, intrigué : — Il y a eu un crime dans votre quartier ?
+
+['Elle', 'Il', 'Cela', 'Tout', 'Ceci']	Jeanne	[MASK] était comme ça aussi jadis. Si elle avait le malheur de boire un verre, il lui en fallait d’autres. Et, quand elle en avait bu trois, elle ne savait plus ce qu’elle faisait. Il n’en était plus ainsi, par exemple
+
+['là', 'hein', 'non', 'ça', 'ici']	Lambert	… C’est toi, [MASK] ?… Écoute, c’est très urgent… Fais fouiller sérieusement la gare… Qu’on surveille tous les locaux, toutes les voies… Demande aux employés s’ils n’ont pas vu un gamin d’une dizaine d’années rôder autour des guichets,
+
+['il', 'on', 'elle', 'lui', 'François']	Lecœur	— François ? — On ne sait pas encore. On cherche. — Où ? Et [MASK] ne pouvait que montrer le plan, son standard aux mille trous. — Partout. On avait déjà renvoyé les deux inspecteurs et le commissaire prononçait : — Asseyez-vous.
+
+['on', 'il', 'elle', 'je', 'Charles']	Maigret	Le marchand d’articles de voyage n’y comprenait rien. C’était un homme d’un certain âge, complètement chauve, aux manières mielleuses. Le chauffeur parti, [MASK] lui expliqua ce qu’il avait à faire et il émit des objections, répétant avec obstination :
+
+['la', 'ce', 'Mme', 'cette', 'Monsieur']	Loubet	Je n’ai aucune envie de lui téléphoner. C’est tout ? Je peux continuer mon bridge ? On entendit l’homme qui, en raccrochant, expliquait à ses amis. Le commissaire avait déjà saisi un annuaire et y avait trouvé le nom de [MASK].
+
+['Jean', 'Pierre', 'Louis', 'Georges', 'Marie']	Godin	— Il est sans doute saoul, plaisanta [MASK], qui dégustait son rhum à petites gorgées, en soufflant dessus. — Ce que je me demande, c’est pourquoi il ne casse plus de vitres ? — Il est sans doute arrivé chez lui, cet homme.
+
+['lui', 'moi', 'Noël', 'nous', 'elle']	François	Il n’est pas venu vous en emprunter récemment ? — Pas depuis un mois. Je le regrette, car je lui aurais dit de ne pas acheter de radio pour [MASK]. J’en ai une, ici, au vestiaire, que je comptais lui porter en quittant mon service.
+
+['elle', 'Marie', 'Martine', 'chacun', 'Jeanne']	Jeanne	! Et [MASK], une main sur l’épaule de son voisin, se mit à tonitruer le refrain que la radio jouait en sourdine. – : – « Petite grue ! » se répétait-elle toutes les dix minutes. « On n’a pas idée… »
+
+['Maman', 'Papa', 'Allo', 'maman', 'Qui']	Chaillot	Quelques enfants perdus – d’ailleurs retrouvés peu après – à l’heure des messes, dans la cohue. — Allô ! [MASK] ? Comment va la femme au véronal ? Elle n’était pas morte. Celles-là meurent rarement. La plupart du temps, elles s’arrangent pour ne pas mourir.
+
+['un', 'le', 'une', 'la', 'celui']	Jeanne	Il avait des lunettes sur le nez. Il devait être occupé à rédiger son rapport sur la mort du Russe. Il reconnut [MASK], puis l’autre, les regarda tour à tour sans comprendre. — Vous vous connaissiez ? — On le dirait, mon pote !
+
+['papa', 'Papa', 'monsieur', 'Jean', 'Gérard']	André	? Je m’y suis rendu comme un fou. J’ai cherché partout. Je m’attendais toujours à le voir arriver. Dis, [MASK], tu es sûr que… ? Il regardait le plan mural, le standard téléphonique.
+
+['alors', 'donc', 'diable', 'cela', 'Paul']	Saillard	Pourquoi [MASK] éprouva-t-il le besoin de poser une question saugrenue, cruelle : — Personne ne vous a embrassé ? — Non. — Vous saviez où vous alliez ? — Oui. Il existe au coin du boulevard des Italiens un cinéma permanent qui reste ouvert toute la nuit.
+
+['téléphone', 'musique', 'police', 'séance', 'service']	Maigret	Rien de plus féroce que ces mous-là quand ils s’y mettent. — Taisez-vous ! — Voulez-vous que nous nous retirions pour vous laisser le recevoir ? Sur les notes de [MASK], on lit : « 10 heures 38 – Elle parle. »
+
+['<unk>', 'Adam', 'Éric', 'Alex', 'Antoine']	Olivier	— De ne pas vivre comme les autres. Peut-être qu’[MASK] – c’est le nom de mon frère – n’est pas très intelligent. Peut-être qu’il en sait trop, par ses lectures, sur certains sujets, et trop peu sur d’autres.
+
+['là', 'hein', 'non', 'monsieur', 'Serge']	Justin	? — Je n’ai personne sous la main pour me remplacer. — Faites l’appel. J’arrive. Lecœur restait calme, mais sa main frémissait un peu sur les fiches. — C’est toi, [MASK] ? Appel général. Donne le signalement du gosse.
+

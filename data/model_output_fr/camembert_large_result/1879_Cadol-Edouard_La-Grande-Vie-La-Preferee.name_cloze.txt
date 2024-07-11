@@ -1,0 +1,200 @@
+['monsieur', 'Monsieur', 'madame', 'Madame', 'donc']	Inès	– Vous vous moquiez de moi, [MASK] ? Alors, la jeune femme se levant, et affectant les allures d’une supériorité désormais incontestable, le toisa avec une souveraine pitié. – Croyez-vous donc, répondit-elle, que j’aie été dupe un instant de ce mouchoir oublié
+
+['elle', 'pourquoi', 'comment', 'ainsi', 'aussi']	Solange	Comme on voit, ses connaissances là-dessus n’allaient pas bien loin, et peut-être un peu trop occupée de botanique, d’entomologie et de géodogie, [MASK] n’avait-elle pas été amenée à y ajouter de bien importantes découvertes personnelles.
+
+['Shakespeare', 'Baudelaire', 'Juliette', 'Molière', 'Flaubert']	Voltaire	Des mains charmantes et de tout petits pieds, qu’elle enfermait – comme dit [MASK] – « dans des souliers plus petits encore. » Son œil brun fauve étincelait de malice, et ses cheveux bouclés encadraient son joli et frais visage d’un flot soyeux, dont les reflets variaient les nuances du châtain cendré.
+
+['Monsieur', 'madame', 'Madame', 'monsieur', 'Charles']	Arthur	– Sans doute. – Comment, sans doute ? – Tout le temps ! mon cher monsieur. – Et je le sens ! dit [MASK], en se frottant les côtes. – Bon ! reprit le baron. Mais, en somme il ne pare jamais !
+
+['Marie', 'Paul', 'Joseph', 'Charles', 'Louis']	Solange	Voilà ce qui dominait dans l’esprit de [MASK]. Tout le reste ne comptait plus. Ce qu’il disait, c’étaient protestations de dévouement et d’amitié ; propositions de s’employer à la réalisation de ses vœux. Quand elle parvint à le comprendre, elle pleura.
+
+['voyons', 'allons', 'là', 'ici', 'monsieur']	Arthur	!. – La difficulté ? fit celui-ci, agité par un pressentiment pénible. Quelle difficulté vois-tu ?. – Dame !… la difficulté d’établir des relations entre nos ménages. – Et où donc cette difficulté ?. – Voyons, [MASK] ;
+
+['Madame', 'Marie', 'madame', 'Monsieur', 'Mme']	Inès	– Mais il est au bout de son rouleau ! Il n’a plus un sou vaillant ! – Tant mieux ! – Vous m’étonnez. – La gêne et les privations lient les cœurs, répondit [MASK]. Or, nous avons une famille riche.
+
+['elle', 'en', 'Marie', 'Judith', 'Vénus']	Inès	A ce moment, [MASK] se relevant, en écartant ses cheveux, montra le museau le plus railleur qui se puisse imaginer d’un suppôt de l’enfer, et se laissant tomber dans un fauteuil, elle partit d’un éclat de rire presque maladif.
+
+['Madame', 'madame', 'Mme', 'Mademoiselle', 'Monsieur']	Inès	Non ! fit à son tour [MASK]. Il y a pour moi cas de conscience à ce que vous sachiez tout avant ! Je poursuis. – Allons ! pensa le jeune homme, il faut en prendre son parti !. – Donc, reprit la comtesse, mes parents refusèrent ;
+
+['Condé', 'Matignon', 'Beaumont', 'Bourbon', 'autres']	Fandansec	D’ailleurs, de quoi s’agit-il ? D’un coup d’épée, sans plus. Belle affaire ! – Vous savez tirer ? demanda le prince ? – Si je sais tirer ? riposta le descendant des Bicheterre et [MASK] réunis. De naissance, mon cher.
+
+['elle', 'il', 'on', 'lui', 'Il']	Marcel	Qui sait si maintenant, au cas où [MASK] l’eût réellement aimée, comme elle en était persuadée alors, qui sait si elle ne regretterait pas d’avoir cédé à ce premier mouvement irréfléchi, par lequel elle s’était trouvée prête à s’accorder ?
+
+['cette', 'la', 'ce', 'des', 'ça']	Marcel	somme, est-il vraiment bien sûr que, pour avoir des habitudes d’occupation et des goûts autres que les siens, je lui sois si supérieure par l’intelligence ? – Tu plaisantes ? répliqua son père, scandalisé. Qu’est-ce, après tout, que [MASK]
+
+['lui', 'genoux', 'côté', 'Lui', 'David']	Arthur	? Auriez-vous oublié quelque chose ? Mais, dès que le laquais eut disparu, elle changea d’attitude. Venant délibérément à [MASK], elle lui prit la main et, se plaçant devant lui : – Vous m’aimez ? lui dit-elle d’une voix vibrante.
+
+['le', 'la', 'son', 'les', '</s>NOTUSED']	Arthur	disait l’autre. – De la tenue, pour l’amour du ciel, de la tenue ! s’écriait le baron, en s’adressant à tour de rôle aux deux adversaires. – Mon cher ami, vous avez tort, dit le prince en entraînant [MASK].
+
+['lui', 'Napoléon', 'Hitler', 'Giscard', 'autant']	Arthur	les hautes classes » – les classes dirigeantes , bien entendu, – personnalités considérables, que le législateur a nécessairement pour premier devoir de satisfaire en tous points. Pour [MASK], il n’en était pas encore là, et il se souciait du législateur autant que de ses premiers hochets.
+
+['Il', 'Elle', 'Et', '</s>NOTUSED', 'On']	Inès	– il dit : – Vous êtes surprise de me voir, chère amie ? C’est que j’ai oublié de prendre un mouchoir. [MASK] l’avait belle de dissimuler sa propre émotion, en allant lui en chercher un quelconque.
+
+['monsieur', 'madame', 'Monsieur', 'vous', 'messieurs']	Ernest	– Assurément, monsieur ; mais sa nuance verdâtre, plutôt gaie, jurerait avec les terribles. – Ah ! vous croyez, [MASK], que la nuance verdâtre ?. – Tandis que l’ostende continua le maître d’hôtel, l’ostende grise, modeste, réfléchie.
+
+['vous', 'allez', 'voulez', 'Monsieur', 'monsieur']	Arthur	? » me répétais-je, éperdue. Et ma volonté se fondait dans un attendrissement qui m’ôtait l’énergie. C’est alors qu’il lui dit quelques mots du mariage qu’on lui proposait. – Vous !. vous, [MASK], en épouser une autre ?
+
+['Elle', 'elle', 'Marie', 'en', 'femme']	Solange	! [MASK] était arrivée à ce développement précoce de beauté, où la physionomie accuse un caractère. Grande, bien prise, elle portait haut un front large et doucement pensif, qu’encadraient de longs bandeaux bouffants et ondulés, où la lumière semait des reflets d’or.
+
+['Monsieur', 'le', 'Madame', '</s>NOTUSED', 'madame']	Swenska	Parer mon coup droit ?. Ah ! ben alors !. – Cependant, dit [MASK], en intervenant, il me semble. Le maître d’armes l’interrompit. – On ne pare pas mon coup droit, messieurs ! dit-il. Voulez-vous essayer, mon prince
+
+['madame', 'Madame', 'Mademoiselle', 'dame', 'Marie']	Solange	Il attendait peut-être un encouragement dont l’absence le déconcerta tout à fait. – Voulez-vous m’écouter, [MASK] ? demanda-t-il prudemment, et avec une exquise timidité, pleine de soumission et de respect. Elle ne put répondre qu’un mot, à peine articulé :
+
+['Flaubert', 'Voltaire', 'Brassens', 'Montaigne', 'Baudelaire']	Thibaud	? Que voulait-elle de plus ? Fallait-il pas qu’elle possédât seule son être immatériel, son âme ? elle qui ne le comprenait pas, qui n’était pas à sa hauteur ; « un galopin » comme disait autrefois [MASK] ! Et qu’en eût-elle fait
+
+['passant', 'effet', 'vain', 'outre', 'vérité']	Berri	et qui pourrait en blâmer sévèrement un garçon à peine majeur, – il s’occupait surtout à vivre. Pourvu d’argent, répandu dans nombre de sociétés variées, il jouissait légèrement d’une existence, à tout prendre facile et douce. On disait, en [MASK], qu’il avait fait quelques sottises.
+
+['Dieu', 'Pierre', 'Paul', 'Joseph', 'Charles']	Marcel	Ce n’était, on le sait, qu’un moyen de formuler cette fameuse « profession de foi », qui, à son sentiment, devait faire réfléchir [MASK] et le décourager à tout jamais, de prétendre à l’alliance d’une personne aussi sérieus e.
+
+['elle', 'il', 'Paris', 'personne', 'Rome']	Théo	; mais aucun ne fit mine de savoir qu’il dût se battre le lendemain. Aucun ne lui en souffla mot. Ils devaient l’ignorer encore. Quant au spectacle, jamais de la vie [MASK] ne lui parut plus enrhumée que ce jour-là.
+
+['elle', 'Sophie', 'Marguerite', 'Jeanne', 'Marie']	Inès	Alors, se grisant de son audace : – Il y a répliqua [MASK], que votre habitude de me laisser seule chaque soir fait croire que vous vous êtes lassé de moi ; que vous m’abandonnez, et que vous laissez le champ libre à des consolations intempestives.
+
+['elle', 'qui', 'il', 'on', 'se']	Inès	mais très caractéristique et concluante. Et la comtesse en vint là, juste au moment où le valet de pied, non sans réticence malicieuse, annonça de nouveau : – Monsieur de Fandansec ! Devant le domestique, [MASK] joua l’étonnement : – – Vous, cher monsieur
+
+['on', 'On', 'il', 'elle', 'ont']	Arthur	Souvent, on frétait une barque, qu’[MASK] menait sur le lac, à force de bras, pendant que le magnat – c’en était un, à n’en pas douter ! grattait une mandoline, en chantant des poésies, partie de sa fabrication. #
+
+['lui', 'Louis', 'Paul', 'Pierre', 'Joseph']	Arthur	! Ah ! le brigand ! ah ! le damné coquin ! Si le vidame avait su cela !. On frémit quand on pense à ce qui serait arrivé ; [MASK] surtout en frémissait, car il en avait une peur bleue, une terreur de tous les diables.
+
+['Pourquoi', 'Comment', 'Quoi', 'pourquoi', 'POURQUOI']	Gustave	! Aussi, quand, las de chercher, il se résolut à mettre la comtesse au pied du mur, il était trop tard pour jouer la scène ci-dessus. Irrité de ses recherches infructueuses, il admit la première explication venue : – [MASK] ?
+
+['On', 'Il', 'Elle', 'qui', 'on']	Arthur	Il y en a pour quatre heures d’horloge, quand on ne finit pas par s’endormir le nez dessus. Une distraction tout à fait « de famille ! » [MASK] en avait des moiteurs, rien qu’à voir approcher le moment de s’y atteler.
+
+['–', '-', 'Voltaire', 'Robespierre', '...']	Saint-Simon	Des gens d’un limon supérieur, d’un sang tout à fait pur – bien que [MASK], et d’autres, qui ne sont pas précisément des révolutionnaires, nous aient conté sur les nobles dames de leur époque, des anecdotes dont la gaillardise pourrait jeter du doute sur ce point délicat.
+
+['moi', 'toi', 'elle', 'cela', 'vous']	Aglaé	Donc, je le déplore ; mais une jeune bourgeoise comme [MASK], une « Madame Peignard ! » tout vulgairement, ne pourrait avoir dans son salon, à sa table, à sa maison de campagne, – un superbe château, entre parenthèses ; tu verras cela !
+
+['Marie', 'Sophie', 'Jeanne', 'Madame', 'Catherine']	Solange	Y avait-il donc communauté de pensée entre eux ? – Peut-être ! se disait [MASK], qui, à continuer de subir le charme de ces contemplations, s’habituait maintenant, de plein gré, à sa situation. Elle ne s’en indignait plus du moins ;
+
+['Messieurs', 'Mesdames', 'Madame', 'Monsieur', 'Mademoiselle']	Fandansec	– Messieurs ! disait l’un. – [MASK] ! disait l’autre. – De la tenue, pour l’amour du ciel, de la tenue ! s’écriait le baron, en s’adressant à tour de rôle aux deux adversaires.
+
+['Vraiment', 'Pourquoi', 'Quoi', 'Alors', 'Pardon']	Aglaé	!. – Rien de sévère, encore une fois. Mais dis-moi donc qui c’est. – Tu ne l’as pas reconnue ? – Attends donc !. La nièce de l’amiral ? – Précisément. – [MASK] ?
+
+['Paul', 'Léon', 'Jean', 'Charles', 'Henri']	Arthur	… Quelque effort que fit [MASK], pour s’en distraire, il lui revenait, en mémoire, des détails qui le faisaient frémir, sous l’influence de sentiments divers : la fin de la scène du matin, à la fenêtre, notamment. –
+
+['Il', 'Elle', 'Lui', 'Pierre', 'Charles']	Thibaud	? – Oui, fit-elle encore. Un long silence suivit, durant lequel tous deux restèrent absorbés. [MASK] le rompit le premier : – C’est égal, dit-il avec une sorte de com– passion un peu méprisante, je ne m’attendais pas à cela !
+
+['elle', 'il', 'lui', 'Marie', 'Alice']	Marcel	Si tout cela n’était qu’une fantasmagorie maladive ? Si [MASK] ne se doutait même pas de l’amour impossible, criminel qu’elle lui avait voué, des larmes brûlantes qu’elle répandait, des remords, des hontes qui l’accablaient ?… » Mais non !
+
+['Mme', 'Madame', 'le', 'madame', '</s>NOTUSED']	Arthur	– Partir ? répéta [MASK]. – Dame !. le sort en est jeté, je pense ! La crise est conjurée, ’sans doute, mais le danger n’en subsiste pas moins ; nulle échappatoire ne se peut espérer. Les domestiques savent bien que vous êtes ici
+
+['Jean', 'Pierre', 'Marie', 'Jacques', 'Georges']	Fandansec	– Eh bien ? fit-elle avec sa grâce habituelle. – Eh bien ! répondit [MASK] toujours dans l’idiome du cercle, ça arrive tous les jours : on croit qu’on la connaît. – Et puis ?. – Et puis. on ne la connaît pas
+
+['Il', 'il', 'Elle', 'elle', 'On']	Arthur	? – Hélas !… [MASK] eut un sourire amer. – Enfin 1. fit-il, en inclinant son chapeau de côté. Enfin ! on va donc le voir ce monsieur, cet épouvantail qui, depuis dix-huit mois, n’a pas donné signe de vie.
+
+['elle', 'il', 'Marie', 'Jeanne', 'Marguerite']	Estelle	Voyant qu’il se taisait, [MASK] se mit à rire. – Alors, reprit-elle, voilà tout ? Tu n’as rien à ajouter ? C’est court ! – Dame ! fit le père. Cela te regarde plus que personne. A toi de décider.
+
+['Rimbaud', 'Baudelaire', 'Shakespeare', 'Flaubert', 'Hugo']	Werther	plus d’orgueil, plus rien qu’une jalousie aveugle, une fureur mesquine et banale !. Plus la personne lui paraissait indigne d’occuper l’homme en qui, depuis si longtemps, elle avait imaginé un héros à la façon de [MASK] – un poète de la passion sans espoir
+
+['Rousseau', 'Balzac', 'Desjardins', 'Céline', 'Gagnon']	Solange	. Mais, bien que [MASK] n’eût que trop lu de poèmes lamentables autrefois, au Val-d’Est, les sublimités anémiques des casuistes du roman n’avaient pas faussé sa droiture, perverti ses notions du bien et du mal.
+
+['fini', 'lui', 'bien', 'fait', 'beau']	Fandansec	Lui-même, il le hissa là-haut. Puis revenant à sa femme : – C’est [MASK], dit-il. Bigre ! qu’il y a du déchet ! Il a vieilli de dix ans, le malheureux !.
+
+['</s>NOTUSED', 'Marie', 'Jean', 'elle', 'Pierre']	Solange	C’était une belle bête, qui, à la vue des étrangers, hérissa son plumage et jeta des cris de colère stridents. La jeune femme fit mine d’approcher. – Non ! s’écria vivement [MASK], prends garde ! tu te ferais déchirer : il ne connaît que moi
+
+['elle', 'aussi', 'Madame', 'toi', 'oui']	Aglaé	Il te va bien de dire un mot pareil, à toi qui as épousé la plus belle femme du monde, la plus superbe, et la plus distinguée. Une reine à tous égards ; une impératrice !!!… – Elle chante très bien, [MASK], maintenant !.
+
+['il', 'on', 'Il', 'Louis', 'Charles']	Arthur	Je ne me pardonnerais de la vie de contrecarrer une personne de votre intelligence. Il partit là-dessus. Quand [MASK] revint au salon, penaud, déconfit au possible, il trouva sa femme qui remettait ses cheveux en ordre, en se regardant à la glace.
+
+['il', 'elle', 'lui', 'Pierre', 'Paul']	Marcel	Un moment vint où elle osa se demander si de son côté [MASK] ne l’aimait pas. Eh bien, encore une fois « quel mal », puisqu’il n’en laissait rien paraître ; puisque, lui aussi, en ce cas, il eût étouffé son amour
+
+['Marie', 'Jeanne', 'Alice', 'Maria', 'Clara']	Estelle	… – Quand même ! répondit [MASK] en l’interrompant, par un regard où il y avait quelque chose de radieux, d’enchanté ; regard qu’elle prolongea sans mot dire, durant un moment. – Tu ne me comprends pas ? reprit-elle enfin.
+
+['certains', 'cela', 'même', 'chacun', 'Monsieur']	Aglaé	! si l’on était sûr qu’il ne survînt personne, j’amènerais peut-être [MASK], petit à petit, par exemple à la longue ! – elle est très bonne pour moi, – à vous donner à déjeuner un jour, entre nous, portes closes ;
+
+['Il', 'Elle', 'il', 'On', 'elle']	Marcel	– Le gros mot ! fit-elle. De quoi s’agit-il ? [MASK] le lui dit. Dès le début, elle l’interrompit brusquement par un « non ! » presque dur à force d’énergie et de fermeté. Elle était pâle et tremblante.
+
+['on', 'il', 'elle', 'Napoléon', 'Charles']	Arthur	– Et vous-même ? Ce qui fit qu’aucun des deux ne put savoir exactement en quel état était la santé de l’autre. La compagnie suivait. On venait prendre congé de la comtesse. En lui présentant ses hommages, [MASK] lui dit tout bas :
+
+['lui', 'cela', 'Dieu', 'elle', 'moi']	Ernest	Au fond, il n’en pensait pas un traître mot ; mais, sauf [MASK], qui diable au monde eût-il pu occuper de lui ? Au surplus, il ne craignait pas que l’autre abusât de sa familiarité, puisque, encore une fois, dans quelques heures !
+
+['Jésus', 'Dieu', 'Satan', 'Marie', 'Pierre']	Fandansec	le registre des mariages y compris. Sur quoi, le pauvre diable, las de s’exterminer à convertir des gens qui s’acharnaient dans le péché, a frété un navire de cochons salés, et ils ont fait naufrage tous ensemble. – Possible ! riposta [MASK].
+
+['elle', 'Charles', 'Jean', 'il', 'Marie']	Inès	A sa grande surprise, sa « chère amie » la baronne ne manifesta aucun soulagement de conscience. Au contraire ! L’excellente femme détourna les yeux et baissa la tête, avec une nuance d’accablement. – Qu’avez-vous ? lui demanda [MASK]. – Ah ! tenez !
+
+['Ah', 'Non', 'Oui', 'Oh', 'Quoi']	Arthur	qui. – [MASK] ! – Mais c’est assez d’explications, reprit celui-ci. Je l’ai frappé au visage ; partons de là, et portez-lui ma carte. Le reste va de soi, entre gentilshommes !. Il fut fait selon son désir.
+
+['il', 'Alexandre', 'Charles', 'Guillaume', 'Louis']	Arthur	Au surplus, l’épreuve ne dura pas trop longtemps. Rompu, brisé, abruti par les exercices auxquels le maître d’armes le soumettait, [MASK] déclara bientôt qu’il n’en pouvait littéralement plus. – Eh bien ? lui demanda le prince, quand il revint à ses témoins.
+
+['Il', 'il', 'Elle', '</s>NOTUSED', '»']	Ernest	– Non ? A cause ? – Les circonstances ! – Ah ! oui, les. Mais alors, quoi, en place ? [MASK] fit une grimace atroce pour dévorer ses larmes, et d’une voix qui trahissait les combats de sa sensibilité, il parvint à répondre
+
+['Marie', '</s>NOTUSED', 'elle', 'Jeanne', 'maman']	Solange	! – Je ne trouve pas, ma fille. Je ne vois rien de plus délicat et de plus embrouillé, au contraire. – Bah ! fit [MASK], en lui prenant gaiement la main. Tu vas voir. Écoute-moi. – Va, dit-il ;
+
+['tout', 'sa', 'son', 'la', '</s>NOTUSED']	Inès	» Et il se rencogna dans l’ombre. L’émotion avait brisé [MASK]. Des sièges s’offraient, on était loin de tous les yeux, à l’abri de la curiosité des passants : elle sentit ses vitalités la trahir, et. tombant sur une chaise :
+
+['Pourquoi', 'Quoi', 'Comment', 'Prince', 'Lui']	Swenska	– Il est jaloux ? De qui ? – Du prince ! – [MASK] ?. Ce grand bêta fadasse et ridicule ? C’est absurde ! – Eh ! s’écria triomphalement la baronne, c’est ce que j’ai répondu à ceux qui se croyaient si bien informés
+
+['elle', 'il', 'on', 'Marie', 'Madeleine']	Inès	tout le nécessaire se trouvera à point nommé. Bien que, au demeurant, [MASK] lui sût gré d’une telle vigilance, son beau visage prit une expression de sévérité superbe, et, lui retirant résolument sa main, elle se leva. – Vous êtes fou ! répondit-elle.
+
+['monde', 'cercle', 'soleil', 'temps', 'cœur']	Berrichon	Pourquoi aller ailleurs, si aucun soin courant ne l’y appelle ! On sait où l’on est. Sait-on où l’on sera ? En d’autres pays, la vie se passe à tourner dans le même cercle Le [MASK] n’y tourne même pas ;
+
+['voir', 'personne', 'présent', 'tous', 'atteindre']	Arthur	Si encore le comte eût été un homme ordinaire, dont on ne dût s’attendre qu’à une provocation régulière, passe ! Mais à distance, – la relation de la scène avec le tapissier aidant, – la forêt vierge incendiée ne paraissait plus aussi improbable à [MASK].
+
+['il', 'elle', 'on', 'je', 'Monsieur']	Inès	! Il était près de la comtesse, quand, sur le bruit de mes pas, elle le fit cacher dans le canapé. Alors, il y a eu la scène la plus burlesque du monde ; scène où [MASK] me roula comme un Géronte de comédie.
+
+['elle', 'il', 'Anna', 'Alice', 'Marie']	Solange	?. A cette pensée, [MASK] sentit un frisson de terreur la parcourir dans tout son être, et la colère faisait place à un désespoir éperdu. Alors rien ne valait donc ? Rien n’était donc possible ? Non, rien !.
+
+['elle', 'Marie', 'Jeanne', 'il', 'Alice']	Solange	Sans lui répondre, [MASK] voulait voir un acte de probité dans ce changement d’habitudes. « Il sent que son devoir est de fuir le danger ! » pensait-elle, et elle en venait à condamner comme injustes, les plaintes de sa sœur.
+
+['il', 'elle', 'lui', 'Pierre', 'Paul']	Arthur	Mais il s’y dépensait en pure perte ; elle ne disait ni oui ni non, et [MASK] s’en irritait d’autant, se butant là-dessus, avec l’entêtement d’un âne rouge. Parfois, elle lui disait, avec un gros soupir :
+
+['Il', 'Elle', 'On', 'Chacun', 'Alice']	Arthur	Du moment qu’il y avait une ficelle , plus de raison, pensèrent-ils, de s’inquiéter de rien. Une ficelle , autant dire une botte secrète : un talisman ! [MASK] avait déjà quitté la salle à manger, en emportant masques et fleurets.
+
+['lui', 'elle', 'celui', 'celle', 'Eugène']	Marcel	Et bravement, voyant que celui-ci se dirigeait vers l’habitation, elle jeta un cri, par lequel les gens de la maison avaient coutume de se héler. Elle ne s’était pas trompée ; c’était bien [MASK] qui, pour éviter un long détour, avait pénétré par le pavillon.
+
+['il', 'elle', 'on', 'Napoléon', 'Charles']	Arthur	Non, messieurs, non mille fois ! De race aussi antique que la vôtre, je ne me vois qu’un devoir : l’attendre de pied ferme ! – Ça, c’est crâne ! répéta le baron. Mais [MASK] ne fut pas sensible à l’éloge.
+
+['Charles', 'Joseph', 'papa', 'Pierre', 'Louis']	Thibaud	– Tu sais, père, que tu t’es trompé, lui dit-elle en entrant. – Ma chère amie, riposta [MASK], avec une légère brusquerie, ça tourne à la manie de ta part. Il faut prendre garde à cela.
+
+['Elle', 'Lui', 'Il', 'Mais', 'Charles']	Arthur	[MASK], quoi qu’il fît, ne devait pas manquer de mordre la poussière. C’était inévitable, fatal, écrit ! En suite de quoi elle se voyait veuve, et, qui pis est, veuve sans position, ruinée, déconsidérée peut-être !
+
+['Marie', 'Jeanne', 'Louise', 'Sophie', 'Catherine']	Charlotte	Et le beau sourire de [MASK] s’était nuancé de mélancolie, en se fixant sur son époux de demain. Elle se sentait, en l’âme, une pitié attendrie au profit de ce candide niais. – On l’a trop fait boire, pensait-elle ;
+
+['Chopin', 'Baudelaire', 'Flaubert', 'Balzac', 'Molière']	Ernest	Quand on commence par des gravelures, on finit nécessairement dans le doux ; la poésie, les « petites fleur des bois » ; c’est forcé !… Et tenez, monsieur, ajouta [MASK], en tendant l’oreille, nous arrivons au demi-attendrissement, écoutez.
+
+['un', 'Antoine', 'André', 'Alain', 'Albert']	Arthur	Cela dit tout et n’engage guère. De la part d’[MASK], ce n’était pas diplomatie de mari, qui se propose de tirer sur la longe. Il n’avait aucun projet arrêté. Il désirait se sentir libre, se reprendre et se bien posséder un moment.
+
+['il', 'elle', 'se', 'on', 'chacun']	Marcel	Elle alla rôder vers un petit meuble où [MASK] rangeait ce qui était à son usage personnel. C’était encore s’occuper de lui. Il y avait de tout dans ce recoin : des boîtes à couleurs, des livres, de la musique gravée et : . manuscrite
+
+['alors', 'messieurs', 'Monsieur', 'Madame', 'vous']	Marcel	il ne s’en est même pas douté, voilà tout. Quant à l’épilogue : il a épousé une autre femme qu’il aimait, qui le lui rend et qui vaut mieux que moi. » Voilà ! Qu’y pourraient faire votre affection et votre dévouement, [MASK] ?
+
+['Il', 'il', 'Joseph', 'Louis', 'Elle']	Marcel	[MASK] réfléchit en se promenant lentement par la chambre. Puis, s’arrêtant devant sa femme. , – Veux-tu passer l’hiver ici ? lui demanda-t-il. – Ce n’est pas son désir. D’ailleurs, elle attend notre départ pour mettre les ouvriers dans notre appartement.
+
+['Voltaire', 'Napoléon', 'Rousseau', 'Montesquieu', 'Bonaparte']	Inès	A-t-on eu la loyauté de vous en instruire ? Faut-il vous rapporter les choses en, détail ?… – Inutile !… – En ce cas ?… – Je ne m’attache pas aux causes, répliqua [MASK]. Je ne puis tenir compte que des conséquences.
+
+['il', 'elle', 'on', 'Pierre', 'Il']	Thibaud	à l’état de passion chez lui, et il se montrait d’assez courte vue pour trouver que toutes les géodes se ressemblent exactement. Sans se croire d’une perspicacité extraordinaire, [MASK] pensait donc que ce qui attirait le jeune voisin n’était pas précisément du domaine scientifique.
+
+['elle', 'il', 'Marie', 'Sophie', 'Suzanne']	Solange	Et [MASK] se répétait : — « Quel mal ?… » De bonne foi, elle se le demandait ; car à force d’idéaliser, dans ce domaine, les subtilités finissent par tout embrouiller. Peu à peu, on s’engage dans un dédale de distinctions restrictives, dont le champ s’élargit sans cesse.
+
+['Il', 'il', 'Elle', 'Paul', 'Lui']	Arthur	[MASK] en était mécontent ; mais il ne se permettait pas de lui en vouloir. Évidemment, elle avait des scrupules. Il les comprenait, et, secrètement, il lui en savait gré, l’en estimait davantage. Puis, – encore, à la longue !
+
+['elle', 'il', 'on', 'Marie', 'Jeanne']	Solange	Afin de tourner la difficulté, [MASK] arrêta qu’elle ne dirait rien à l’avance, et que, seulement au moment du départ, elle se déclarerait obligée de rester, durant quelques jours, leur promettant d’ailleurs de les rejoindre le plus tôt possible.
+
+['mais', 'non', 'Mais', 'Marie', 'Madame']	Aglaé	Pour le répéter, une pensionnaire. D’ailleurs, un drôle de nom : [MASK] !… Oui ; mais. – Mais deux ou trois millions de dot !. – Eh ! eh !. – Sans compter ce que laisserait l’oncle vice-amiral. – Ah ! diable
+
+['il', 'lui', 'Il', 'bien', 'Dieu']	Marcel	– S’il t’aime, mon enfant, il ne t’écoutera seulement pas. L’amour a l’inconvénient de rendre aveuglément présomptueux. Ou [MASK] se croira capable de te faire changer d’idéal, ou il ne doutera pas de la possibilité de devenir ce que tu souhaites
+
+['monsieur', 'madame', 'Monsieur', 'Madame', 'Mademoiselle']	Ernest	– le sanglot d’un homme tout affectionné ! – il dit, après avoir tracé quelques lignes : – Voici, je crois, ce qui convient le mieux dans ces terribles circonstances. – Remettez-vous, [MASK], et voyons cela posément.
+
+['Hermès', 'Julien', 'Alexandre', 'Mercure', 'Jupiter']	Thibaud	Un douloureux événement devait, cette année même, démentir les prévisions – les imaginations – de la jeune fille à cet égard. En effet, un soir de décembre, [MASK], plongé plus que jamais dans la contemplation de ses géodes, dut s’en arracher tout étourdi.
+
+['Madame', 'Jeanne', 'Marie', 'Roland', 'Sophie']	Inès	– Sur l’honneur ! Le comte, convaincu maintenant, sauta sur son chapeau, faisant mine de s’élancer au dehors. – Eh ! mon Dieu ! lui dit [MASK], où courez-vous si vite ? – Le rejoindre. – Où donc ? – Au cercle.
+
+['Roland', 'Henri', 'Charles', 'Louis', 'Frédéric']	Arthur	Puis, après un silence plein de solennité : – Soit ! fit-elle. Fuyons ensemble, j’y souscris !. – Ah ! comtesse ! comtesse !. s’exclama [MASK], avec un délire enthousiaste, qui allait jusqu’à lui couper la parole.
+
+['quoi', 'monsieur', 'pourquoi', 'non', 'voyons']	Ernest	– Ah ! monsieur, ils sont bien coupables !. – A qui le dites-vous, mon doux Seigneur ! Je n’en yeux rien dire non plus ; mais en acceptant le pistolet. Quoi ! Ils m’envoient à la boucherie. Voyons, [MASK] ?
+
+['Jamais', 'Amour', 'Quoi', 'Ah', 'Moi']	Arthur	– Pour me parler d’amour. – [MASK] ?… Jamais ! Vous m’en contez, ma chère ! – Si peu, dit-elle, en s’obstinant par gloriole d’avoir raison – besoin grâce auquel on peut faire avouer bien des choses aux dame !
+
+['Elle', 'Il', 'On', 'Marie', 'Marguerite']	Inès	Cependant, tenant à préciser, elle allait insister, quand le bruit de la porte cochère retentit sourdement, dans le silence de la nuit. [MASK] s’arrêta court, et son beau visage se contracta, sous l’empire d’une impression de terreur.
+
+['Voltaire', 'Dieu', 'Napoléon', 'Jésus', 'Charles']	Anatole	! Et s’il ne me trouve pas, ce sera mauvaise volonté de sa part ; car personne au monde ne se dissimulera moins que moi !… » On pense bien que ce que lui avait dit [MASK] l’avait très fort mortifié, dans le premier moment.
+
+['</s>NOTUSED', 'le', 'Charles', 'Pierre', 'Jean']	Arthur	– Où allez-vous ? lui demanda-t-elle avec une sorte d’effarement non dépourvu d’autorité. – A la soirée du vice-amiral, répondit fiévreusement [MASK]. – Ce soir ? – Ce soir même, à l’instant ! ajouta-t-il, sans détourner la tête
+
+['<unk>', 'Hélène', 'Hermès', 'Alexandre', 'Auguste']	Inès	Les élévations d’âme d’[MASK] ne lui tapaient pas moins sur le système nerveux. Quant à sa beauté olympienne, il en avait par-dessus les oreilles, d’autant qu’il en connaissait maintenant le fort et le faible. Et le faible y avait une large part – entre nous
+
+['le', 'Monsieur', 'lui', 'monsieur', 'Monseigneur']	Marcel	Le domestique, en grande livrée de high life, se cassait les reins à la banquette de derrière, et [MASK], en tenue de gommeux irréprochable, menait le tout, comme en pleins Champs-Élysées. Il venait rendre sa visite réglementaire et officielle.
+
+['Tiens', 'Voilà', 'Garde', 'Toi', 'Femme']	Sophie	Au moment de sortir, elle entendit derrière elle une voix affligée d’un abominable accent slave, qui disait : – [MASK], ton voile. Elle tourna brusquement la tête. C’était le comte qui signalait un oubli à sa femme.
+

@@ -1,0 +1,200 @@
+['non', 'moi', 'mais', 'oui', 'monsieur']	Hélène	– Vous perdez la tête, car ce n’est pas lui qui vous a offensé, ce sont vos bottes. Pourquoi aussi avez-vous de si belles bottes de chasse ? – [MASK], je ne vous reconnais pas, où plutôt je vous reconnais.
+
+['théâtre', 'romans', 'molière', 'roman', 'la']	Shakespeare	Votre femme aime à jouer de l’éventail, parce qu’elle est romanesque, mais je crois qu’elle ressemble à ces héroïnes de [MASK], qui donnent l’amour et ne se donnent jamais. Cette profession de foi du prince ne consola pas le mari.
+
+['chasteté', 'patience', 'dieu', 'pardonner', 'vertu']	Fanny	– Si c’est pour cela qu’il est venu, dit-il avec fureur, il aurait bien pu me laisser ma place sur l’oreiller. Il ne s’amusa pas longtemps à ce spectacle, craignant de compromettre une vertu comme celle de [MASK].
+
+['im', 'dé', 'il', 'elle', 'em']	Hélène	[MASK] posa un point d’admiration devant sa sœur. – Tu sais bien, lui dit-elle, que je n’ai pas peur du scandale, moi. – Tant pis pour toi. Puisque tu t’es compromise, je veux bien me compromettre : allons voir ma tante.
+
+['lui', 'elle', 'marguerite', 'albert', 'marie']	Rodolphe	S’il allait me reconnaître. Il se passa alors une scène tout à la fois comique et terrible. Le marquis de Sommerson alla droit à [MASK] et lui donna sa carte. – Monsieur, lui dit-il, n’oubliez pas mon nom.
+
+['le', 'la', "l'", 'louis', 'jean']	Ziem	– Que je serais jolie, disait-elle, si j’avais de pareilles dentelles et de pareils bijoux ! Tout en fumant son narguillé, [MASK], qui avait poussé la porte, prit rapidement sa palette et il esquissa, à grands traits, cette adorable figure de la marchande de colombes.
+
+['raphaël', 'venise', 'delacroix', 'rome', 'lui']	Cabanel	; il avait beau fermer les yeux, elle s’imposait à lui. Il l’avait entrevue dans le monde ; elle était bien la femme de son portrait ; ce n’était donc pas seulement la peinture de [MASK] qui lui troublait l’esprit.
+
+['monsieur', 'moi', 'non', 'madame', 'docteur']	Charmide	– Vous ne savez pas, [MASK] ? Je vais aller à l’Opéra pendant une heure ; vous m’attendrez dans la voiture, vous irez à votre tour et je m’en reviendrai. Mais pour cela, il faut prendre un fiacre.
+
+['elle', 'il', ',', 'en', 'et']	Hélène	[MASK] avait trop d’esprit pour se soumettre à une autre volonté que la sienne. Comme elle était fantasque, coquette, chercheuse, elle donnait beaucoup de fil à retordre à son mari. Elle s’embobinait elle-même dans le fil d’or de sa vie un peu risquée.
+
+["c'", 'blanche', 'pénélope', 'maria', 'laurence']	Violette	Les plus hardis ne se contentaient pas de becqueter sa main, ils se perchaient gentiment sur ses épaules, jusque sur sa tète. Il y avait longtemps qu’on n’avait vu les pigeons si familiers. On dit bientôt que [MASK] était une charmeuse d’oiseaux.
+
+['ami', 'socrate', 'lecteur', 'dit-il', 'simon']	Diogène	Et pourtant tu n’es pas un cynique comme moi. – Crois-tu donc, [MASK], qu’on ne doive pas habiter une maison parce que d’autres y ont demeuré ? – Non, voilà pourquoi j’habite ce tonneau.
+
+['elle', 'on', 'il', 'tout', 'dieu']	Monjoyeux	Elle aurait voulu les embrasser une dernière fois, mais [MASK] l’arrêta dans ce regret. – Chère madame, lui dit-il, moi aussi j’ai voulu les embrasser ; mais je vous jure qu’en les voyant, mes lèvres se sont fermées.
+
+['son', "l'", 'la', ':', 'sa']	Bianca	Quoiqu’il eût dit quelques rudes vérités au duc de Montefalcone, il avait fini par s’entendre avec lui pour la figure de [MASK]. Le duc lui avait même demandé un buste de sa femme, en disant qu’il l’avait toujours aimée.
+
+['m', '"', ':', ')', 'mm']	Violette	Il faut bien que jeunesse se passe. – Il faut bien qu’il y ait des heureux ! ajouta [MASK]. On finit par s’endormir. Sur les huit heures du matin, par un jour encore douteux, un homme pénétra dans la chambre des trois amies.
+
+[':', ',', 'h', '(', 'ps']	Babin	! – Non ; je l’ai loué chez [MASK] pour cette nuit seulement. Il est déjà loué demain pour le bal costumé de l’ambassade. Ah ! vous vous figurez que toutes les grandes dames se paient comme cela dans leur hiver des dominos de toutes les couleurs
+
+['ce', 'ça', 'on', 'cela', 'il']	Albert	Deux oreillers, c’est bon pour des amours conjugaux ou des amours qui ont une demi-lune de date – la lune décroissante. Or, [MASK] n’était qu’au lendemain de la noce. Vous voulez sans doute connaître l’état civil de l’amoureux.
+
+['"', '_', '</s>', "'", ')']	SHERIDAN	Les femmes sacrifient plus souvent leu honneur à l’amour-propre qu’à l’amour. NINON DE LENCLOS. Les femmes nous gouvernent : tâchons de les rendre parfaites. [MASK]. Simple bêtise, . puisque c’est l’imperfection que nous aimons en elles.
+
+['il', 'elle', 'celui-ci', 'abraham', 'michel']	Laïs	» Mais [MASK] éclata de rire et lui montra son sein : « Regarde et souviens-toi que tu as écrit dans une autre tragédie : « Il n’y a rien d’infâme. C’est avec mon sein que les peintres ont représenté celui des déesses.
+
+['il', 'il', 'elle', 'et', 'on']	Euripide	C’est avec mon sein que les peintres ont représenté celui des déesses. » [MASK] alla fermer la porte du jardin. Il se servit ce jour-là de son style et de ses tablettes pour écrire sa chanson célèbre : « Amour, tyran des dieux et des hommes
+
+['église', 'autre', 'intérieur', 'édifice', 'original']	Odéon	Il a pour sentinelles deux chanceliers, il est bâti dans le style grec comme l’[MASK], mais il est moins sérieux. Il a changé plusieurs fois de titre, c’est le théâtre de la Loi. On y joue le drame et la comédie, on y joue même le vaudeville.
+
+['allons', 'adieu', 'oui', 'viens', 'monsieur']	Messeigneurs	Et pourtant il n’avait pas la prétention d’entrer dans cette maison mystérieuse où on ne voyait passer que des femmes. – [MASK], dit-il à ses amis, allons dîner, voilà le plaisir des hommes. Nous parlerons du plaisir des dames.
+
+['armand', 'henri', 'octave', 'hector', 'édouard']	Hélène	Moi, je m’en lave les mains. – Oui ! oui ! on s’en lave toujours les mains, voilà pourquoi elles sont si blanches. Le marquis saisit rapidement la main d’[MASK] et la porta à ses lèvres. – C’est un bijou, cette main-là.
+
+['</s>', 'il', 'et', "qu'", 'elle']	Balzac	Il fait naître autour de lui, à toute heure, le drame et la comédie. [MASK] en eût fait un de ses héros ; tout, jusqu’à son nom, eût séduit le grand romancier, qui n’eût pas manq ué de dire que les deux peintres les plus coloristes avaient un nom prédestiné
+
+['elle', 'il', 'valentine', 'henriette', 'eugénie']	Violette	Ma belle amie, dit [MASK], gardez vos illusions, car votre beauté sera comme ces monuments antiques qui ont un air de jeunesse jusque sous leurs ruines. A la table d’à côté, un Français déjeunait avec une tasse de chocolat. C’était le peintre Ziem.
+
+['mai', 'juin', 'septembre', 'juillet', 'mars']	Marie	Elle avait été la première à l’école, la première au catéchisme, la première au mois de [MASK], jusqu’au jour où elle fut la première au péché. Je vous fais grâce de la kyrielle de ses amoureux : toutes les femmes ont leur cabinet noir.
+
+['il', 'elle', 'on', 'jeanne', 'marie']	Violette	Désespérer, c’est espérer encore. » Après avoir bien pleuré, [MASK] reconnut que c’était une lâcheté que de s’abandonner à sa douleur. Dieu nous a donné l’intelligence pour admirer et comprendre tous les spectacles de la vie. La passion ne doit prendre que les entr’actes.
+
+['il', 'ce', 'elle', 'on', 'cela']	Lauzun	Il raconte mille prouesses imaginaires ; c’est le plus beau massacre de femmes qu’on puisse voir : [MASK] n’est pas digne d’être son valet. Dès qu’il se présente devant une femme, elle croit prendre un esclave et elle se donne un maître.
+
+['</s>', '-', 'il', '"', "c'"]	Fanny	Le prince se tenait le ventre et ne pouvait parler. [MASK] était à la torture. – C’est de la folie ! Dites-moi donc pourquoi vous riez ? – Ma chère amie, c’est incroyable. Vous n’imagineriez pas ce que je viens de voir.
+
+['jean', 'maurice', 'charles', 'jacques', 'julien']	Charmide	– Chut ! dit-elle, en portant la main à son cœur. Elle sentait que l’amour allait la prendre. Elle ne voulait pas être prise ; elle se mit à rire. Elle montra la lettre à [MASK].
+
+['il', 'qui', 'et', "m'", ',']	Charmide	[MASK] écrivit sous la dictée ces quelques ligues : J’ai lu quelque part, monsieur – et cher calligraphe – que pour les amoureux la terre tournait dans le ciel, tandis que pour ceux qui ne le sont pas, elle tournait dans le vide.
+
+['et', 'il', ',', 'elle', 'qui']	Charmide	[MASK] regarda la comtesse à deux fois. – Ah ! madame, vous ne me ferez jamais croire que vous êtes si détachée que cela des choses de ce monde. Je ne vous demande pas votre confession, mais je suis bien sûre que sous vos airs dégagés, il y a des passions qui se cachent.
+
+['il', "qu'", 'qui', 'on', 'elle']	Ziem	mais chut ! il fait signe à la marchande de colombes. En effet, [MASK] avait déjà pris le panier et regardait tour à tour les colombes et la marchande. – Combien la paire ? demanda-t-il. – Deux lires, signor. – Combien les huit
+
+['</s>', 'lui', 'celui-ci', 'jeanne', 'elle']	Ziem	La marchande franchit le seuil. [MASK], qui n’avait des yeux que pour la marchande de colombes, n’avait pas remarqué que les deux Parisiennes étaient à six pas de lui. Quand il fut rentré dans la boutique, les deux amies s’approchèrent.
+
+['le', 'de', 'et', 'la', 'un']	BÉRANGÈRE	? Il s’en débite tant sur elle, tant et tant, que c’est le roman de tous les jours. Ah ! si j’étais homme, comme j’aimerais cette femme ! De la figure, de l’esprit et le diable au corps ! [MASK].
+
+['</s>', 'le', 'la', "l'", 'ce']	Violette	Le duc de Parisis, dans un duel à bout portant, mourut lui-même. [MASK], qui avait joué pour eux la comédie de la mort, resta pour les pleurer. Elle avait fui son amour, elle avait fui son cœur, mais elle retrouvait toujours sa première passion.
+
+['(', 'et', 'à', ':', ',']	Charmide	– Ma chère, vous avez une prétention singulière : c’est de me connaître. Quand je me connaîtrai moi-même, je vous répondrai peut-être. La comtesse était devenue sérieuse ; mais tout à coup elle partit d’un éclat de rire et elle alla se mettre au piano, en disant à [MASK]
+
+['on', ',', 'chacun', 'napoléon', 'il']	Eubule	Mais la courtisane de Solon devait bientôt s’affranchir. Elle s’échappa du lupanar pour entrer dans le monde par la porte des philosophes, des poètes, des artistes, des héros, des hommes politiques. Aussi [MASK] s’étonna-t-il bientôt que les lupanars ne fussent pas fermés.
+
+['elle', 'il', 'elle-même', 'marie', 'celle-ci']	Violette	Ce n’est plus une fortune princière, mais comme [MASK] n’avait pas de train de maison, elle se trouvait riche. Elle était l’héritière naturelle du duc et de la duchesse de Parisis, sans parler de la fortune de sa mère.
+
+['moi', 'nous', 'moy', 'vous', 'moi']	Fanny	Je vais vous dire ce que j’ai vu vers deux heures du matin : Je venais de rentrer chez [MASK], quand j’ai entendu quelque bruit. Je levai le rideau de la fenêtre et je vis un homme ou plutôt les jambes d’un homme qui montait à l’étage supérieur.
+
+['jeanne', 'marguerite', 'elle', 'jean', 'jacques']	Albert	couché. La belle, toute effarée, lui jeta sa culotte et son habit. – Voyons, tu es folle ! dit [MASK] en s’indignant, tu sais bien que je ne m’en irai pas. Je suis venu ici en sortant de chez la duchesse ;
+
+[',', 'et', ':', 'que', '...']	Violette	il a connu le duc de Parisis, il sait que vous l’avez adoré et il vous donne cette dernière illusion. – Pourquoi jouer avec la mort ? dit [MASK]. Cela m’a donné un coup au cœur, il me semble que je suis atteinte mortellement. –
+
+['goethe', 'milton', 'chateaubriand', 'baudelaire', 'lamartine']	Violette	L’autre volume était un roman anglais, il le feuilleta et y trouva cette pensée soulignée par [MASK] : Toute créature, ici-bas, a ses cartes marquées d’avance dans le jeu de la vie. On joue bien ou mal, on perd ou on gagne fatalement.
+
+['job', 'poche', 'pierre', 'chevet', 'dieu']	Renan	N’avez-vous donc pas un châtelain et une châtelaine qui s’occupent de votre église ? – Nous avons le marquis de Néers. Ne m’en parlez pas, il n’a lu l’Evangile que dans le livre de [MASK], il ne vient jamais à la messe.
+
+['mode', 'pelle', 'main', 'fois', 'con']	Messaline	La comtesse de Montmartel avait alors trois ou quatre passions sur la planche. On l’accusait beaucoup dans le monde, mais on la défendait beaucoup aussi. Selon les uns, elle avait des fantaisies à la [MASK] ; selon les autres, ce n’était qu’un jeu de coquetterie.
+
+["s'", ',', "j'", 'elle', '...']	Charmide	[MASK] était émerveillée. – Oh ! madame, je ne suis pas à ce diapason-là, moi ! Il faut être née là-dedans, pour avoir ces grands airs. Mais je vous promets de ne pas me conduire comme une grue. –
+
+['on', 'il', ',', 'elle', 'ce']	Fanny	il semble vraiment qu’elles vous prennent votre bien. Le prince ne savait pas si bien parler. Aussi [MASK] ne dit plus un mot ; elle ne s’indigna qu’en elle-même. Une heure après, comme elle ne dormait pas encore, elle osa hasarder cette réflexion
+
+['cela', 'ça', 'donc', 'bien', 'maintenant']	Violette	Elle tomba comme un marbre sur le divan ; tout son sang était à son cœur ; elle s’évanouit presque. A peine s’il lui resta la force de se traîner à la fenêtre et de montrer sa pâleur à ses amies qui l’attendaient. – Voyez donc [MASK] !
+
+['delacroix', 'il', 'horace', 'david', 'rodin']	Apelles	« Avant trois ans, dit [MASK], elle sera façonnée par nos mains à toutes les coquetteries et à toutes les malices. » Le peintre avait dit trois ans, il aurait dû dire trois jours, car trois jours après son élève lui donnait à lui sa première leçon.
+
+['il', 'elle', 'marie', 'on', 'jésus']	Euripide	N’apprends pas aux hommes à aimer ce qui est beau ou donne-moi ta force pour vaincre la douceur des femmes. » Comme tous les hommes, [MASK] avait deux opinions sur les femmes, celle du jour et celle de la nuit, celle des tragédies et celle des chansons.
+
+['paris', 'décembre', 'juillet', 'londres', 'noël']	Musset	Quand il le prenait sur le ton byronnien, elle était plus byronnienne que lui. Puis, tout à coup elle lui citait des vers des Nuits de [MASK]. Mais s’il s’embarquait pour la tempête, elle restait sur la rive et se moquait encore de lui.
+
+['</s>', 'elle', 'et', '"', '-']	Violette	C’est un battement d’ailes perpétuel. [MASK] ne se lassait pas de leur émietter le pain le plus blanc qu’elle pût trouver. Les plus hardis ne se contentaient pas de becqueter sa main, ils se perchaient gentiment sur ses épaules, jusque sur sa tète.
+
+['"', '...', 'dieu', 'moi', 'monsieur']	Violette	Il m’a dit : « Si c’était pour consoler [MASK], oui. » Voyez comme je suis une bonne bête, je veux bien qu’il vous console, mais à la condition qu’il ne faudra vous consoler qu’une fois.
+
+[',', 'et', ':', '...', '.']	Violette	c’est à peine si on y va à pied. Qu’est-ce que ces lagunes toutes noires auprès du lac du Bois de Boulogne ? – Des églises où on ne prêche pas ? dit l’autre. – Oui, oui, je vous comprends, murmura [MASK]
+
+['il', 'dieu', 'père', 'seigneur', 'qui']	Octave	[MASK] me l’a donné, mais je n’ai plus le droit de le porter, parce qu’il s’est marié pour tout de bon, parce qu’il m’a fait promettre de le mettre à son petit doigt s’il mourait avant moi.
+
+['</s>', '"', 'me', '_', 'elle']	Charmide	si vous pouvez faire so bonheur et s’il peut faire le vôtre, ne manquez pas cette belle occasion pour tous les deux. – Ah ! si je n’étais pas marquée au cou de ces grains de beauté. [MASK] montrait les trois stigmates de vitriol.
+
+['il', 'elle', 're', 'celui-ci', 'on']	Ziem	Disant ces mots, [MASK] passa dans l’arrière-boutique et se mit à fumer son narguillé pendant que le jeune Turc discutait avec la marchande de colombes. Elle avait beau s’en défendre, elle ne pouvait secouer le charme des bijoux et des étoffes. Elle s’y laissait prendre.
+
+['il', 'elle', 'on', 'dieu', 'maman']	Violette	– Que me dis-tu là ! c’est impossible ; [MASK] ne nous a pas quittées. – C’est impossible, mais cela est. Les deux femmes ne revenaient pas de leur surprise. – Que s’est-il donc passé ?
+
+['-t-il', 'il', 't-il', 'elle', '-il']	Monjoyeux	; mais on ne vint pas. Ce fut alors que le marmiton repassa en chantant : « Voilà le plaisir, mesdames ! Voilà le plaisir ! » – Mon bonhomme, lui dit [MASK], on ne vient donc pas ouvrir quand on sonne à cette porte ?
+
+['dieu', 'sécurité', 'travail', 'conscience', 'justice']	Vénus	Sur les trois galeries supportant le baldaquin étaient sculptées des colombes s’en trebaisant. C’était le lit de [MASK] elle-même ; aussi les rideaux étaient-ils couleur gorge de pigeon. Naturellement, le lit était sur une estrade. N’était-ce pas le trône de la reine de céans
+
+['marie', 'jeanne', 'napoléon', 'marbre', 'celui-ci']	Violette	, porteraient une atteinte irréparable à cette figure de vierge adorablement suave comme une figure de l’école lombarde ? Il se pencha pourtant et prit sur le front de [MASK] un baiser silencieux. Cette fois c’était une âme qui baisait une âme.
+
+['abord', 'un', 'artagnan', 'autre', 'une']	Ayguesvives	Les courtisanes du monde disent le même mot aux autres courtisanes. – Oui, dit d’[MASK], elles les débusquent et les chassent de partout, , comme si elles seules avaient le privilège des aventures galantes. La femme déchue dit à la fille perdue
+
+['-', 'il', '-', 'dr', 'a-']	Hélène	– Pas si songeuses que cela, dit [MASK]. Je vois bien ce que c’est : un voyageur qui se sera trompé de porte et qui n’aura pas voulu entrer pour rien dans ce joli dortoir. Ne voyez-vous pas que la porte est restée entrouverte ?
+
+['madame', 'son', 'la', 'sa', 'm']	Fanny	Le prince se complaisait beaucoup dans la chambre à coucher de [MASK]. Il en aimait l’ameublement, les tentures, la pendule, les chenets, jusqu’au ciel du plafond, où la dame avait fait peindre une hirondelle pour lui porter bonheur.
+
+['marguerite', 'catherine', 'caroline', 'valentine', 'marie']	Fanny	– Comment donc ! dans le plus grand tralala, toutes épaules dehors, coquette comme la coquetterie, belle comme le jour et belle comme la nuit. – Voyons, s’écria [MASK] plus jalouse encore, montez tout de suite chez elle.
+
+['madame', 'sa', 'la', 'marguerite', 'elle']	Fanny	Il ne s’était pas fâché de la comparaison. En revenant d’un bal de duchesse où on imposait la culotte courte, il s’était attardé vaille que vaille chez [MASK], qui n’avait pas été peu surprise de le voir arriver en pareil équipage.
+
+['bien', ';', 'déjà', 'cela', 'tout']	Fanny	– Mon cher, vous connaissez ma profession de foi. J’ai juré que je ne serais jamais trahi, parce que ma femme ne serait jamais soupçonnée. Or, une aventure, déjà bruyante, s’est passée cette nuit dans ma maison. Vous connaissez [MASK] ;
+
+['anna', 'henriette', 'alice', 'hélène', 'isabelle']	Hélène	Elle avait reculé de trois pas, mais il se rapprocha si près, si près, si près, qu’il noya ses lèvres, pas si glacées que ça, dans les beaux cheveux d’[MASK]. – Je bois un rayon de soleil, dit-il avec passion.
+
+['le', 'la', "l'", 'jacques', ':']	Hélène	– Je suppose que les femmes qu’il a aimées n’emporteront pas cette arme-là en paradis. Dis-moi, ma belle nièce, qu’as-tu fait du tien ? – Il n’est pas question de moi, répondit [MASK]. Cette fois, elle rougit ;
+
+['dans', ',', 'que', '(', 'et']	Fanny	– Qu’elle est belle ainsi, murmura-t-il doucement. Il admirait [MASK] dans son sommeil. Elle était presque toute voilée par ses cheveux. Pourquoi était-elle ainsi échevelée ? « Qui sait ? se disait-il, l’impatience de l’attente, quelque songe de volupté
+
+['il', 'elle', 'et', 'celui-ci', 'puis']	Fanny	– Ce sont là de vieilles chansons. Il est deux heures du matin, ne faisons pas de morale et éteignons la lampe. Mais [MASK] sauta hors du lit. – Vous avez peut-être mal vu, mon cher prince. Je suis curieuse de voir à mon tour.
+
+["l'", '"', 'un', '...', 'mon']	Violette	Elle ne comprenait pas. Elle ouvrait les yeux et regardait les yeux du pigeon comme si elle dût y trouver le mot de cette énigme. Avant de dénouer le ruban elle lut sur un des bouts : « [MASK] hôtel Bellevue . » Elle le dénoua bien vite.
+
+['delphine', 'clara', 'caroline', 'virginie', 'marie']	Violette	Un fou, disent les femmes. Mais les femmes n’aiment pas les sages. Le roman d’Octave et de [MASK] fut, à ce qu’il paraît, le plus adorable des romans. Mais, pour lui, le bonheur ne durait qu’un jour.
+
+['ainsi', '"', ':', 'régulièrement', 'doucement']	Violette	l’autre, qui se nomme mademoiselle de Parisis, penche silencieusement la tête comme le saule. – Vous ne savez pas, dit une troisième dame, il paraît que celle-ci a un petit nom qui est charmant, le gondolier a entendu plusieurs fois son amie l’appeler [MASK].
+
+['</s>', '"', 'dans', 'mais', 'et']	Corneille	Ce qu’on reproche surtout à ce genre de spectacle qui nous vient des anciens, c’est le monologue. [MASK], l’esprit des lois par excellence, ce merveilleux avocat du pour et du contre qui plaidait comme un Normand, avait donné la mesure des beaux monologues.
+
+['le', 'il', '</s>', 'qui', 'et']	Charmide	; mais, en vérité, vous êtes jolie ! – Oui, mais trois rangs de perles ne cacheraient pas mes grains de beauté. [MASK] se mit à pleurer. – Allons ! allons ! il ne faut pas perdre ses larmes. Voulez-vous un bon conseil ?
+
+['je', 'chacun', 'il', 'lui', 'celui-ci']	Fanny	O miracle ! ô joie inespérée ! la fenêtre se rouvrit. Ce fut alors que [MASK] jeta ses bottines – ses bottines à elles – à son cher Des Grieux. Que vouliez-vous qu’il fît du nez d’un marguillier ? Il saisit les bottines avec reconnaissance ;
+
+['fer', 'dieu', 'bois', 'bataille', 'pierre']	Violette	En touchant des lèvres les cheveux des deux autres femmes, il avait respiré avec un sentiment de volupté l’arome féminin, mais le front de [MASK] n’avait pas enivré ses lèvres. Il prit deux petits poignards d’or – pourquoi deux ? –
+
+['le', 'la', "l'", ',', 'un']	Violette	Vous n’auriez qu’à vous tromper ! – Oh ! soyez sans inquiétude, dit tristement [MASK]. Et elle chanta à mi-voix : Cette nuit-là, il se fit un grand bruit dans l’hôtel. C’était deux voyageurs ;
+
+['marguerite', 'henriette', 'madame', 'catherine', 'geneviève']	Hélène	Elle ouvrit. – M. le marquis envoie à madame la comtesse ce bouquet qui vient d’être apporté. – C’est bien, dit [MASK] toute à son inquiétude. – Faut-il mettre les fleurs dans l’eau ? – Non. Mettez-les sur ce fauteuil.
+
+['moi', 'cela', 'vous', 'ça', 'lui']	Parisis	Ne trouvez-vous pas qu’il ressemble à [MASK] ? – D’un peu loin ! Mais il lui ressemble en effet. Tous ces hommes à femmes sont les mêmes, ma chère amie, parce que tous ont des yeux d’enfer et des désinvoltures de démon.
+
+['lui', 'lui-même', 'celui-ci', 'celui-là', 'chacun']	Parisis	On a dit qu’elle avait aimé le duc de Santa-Cruz ; je ne le crois pas. Elle aura voulu tenter de continuer son rêve avec lui, mais je sais que [MASK], tout couché qu’il soit dans le tombeau, est toujours debout devant elle.
+
+['</s>', '-', '"', '--', '...']	Hélène	– Pourquoi ce cri du cœur ? – C’est que cette figure ressemble à que – qu’un que j’ai beaucoup connu. – A qui donc ? – Au duc de Parisis. – Vous trouvez ? [MASK] prit la photographie : – Non, dit-elle.
+
+['"', '</s>', 'cf', '1', '2']	VOLTAIRE	Une femme galante ne croit qu’à sa vertu. [MASK]. L’amour naît de contrastes. Le brun aime la blonde, le sage aime la folle. BERNARDIN DE SAINT-PIERRE. La volupté se couche sur des roses ; mais les roses sont de la couleur du sang et du feu.
+
+[',', '-', 'le', 'de', 'la']	Ziem	Elle les salua doucement et leur promit de faire quelques promenades en leur compagnie. – Malheur ! malheur ! dit-elle quand elle fut seule, je ne pourrai donc me cacher que dans le tombeau. Elle rencontra [MASK]. –
+
+['plaine', 'chasse', 'nuit', 'paris', 'guerre']	Venise	– N’en dites rien aux pigeons de [MASK] : la marquise de Néers a eu, je crois bien, comme vous, son « heure du diable ; » le diable, c’est le marquis de Sommer son. Je vous le présenterai un jour pour votre malheur.
+
+['elle', 'tout', 'il', '</s>', '-']	Violette	Puis il s’éloigna lentement en murmurant ces mots : – C’est la plus adorable et la plus divine des créatures. [MASK] se réveilla sous l’impression de ce baiser : elle entr’ouvrit les yeux, elle se crut à la comédie du Songe d’une nuit d’hiver .
+
+['</s>', 'il', 'elle', 'qui', "c'"]	Hélène	– qui avait ce soir-là deux fois valsé avec elle. Les femmes aiment la neige. Elles y baignent leur esprit avec volupté, comme si elles y retrouvaient leur innocence. [MASK] était déjà sur le balcon, quand on ouvrit la fenêtre au-dessous d’elle
+
+['etienne', 'sébastien', 'graal', 'martin', 'laurent']	Martin	je vais chercher dans le cabinet de mon mari des bottes de chasse dans lesquelles vous entreriez tout entier. Il n’y est pas encore entré. Jurez-moi que vous les brûlerez et que vous considérerez cette aventure comme un second chapitre de l’histoire de saint [MASK] déchirant son manteau.
+
+['donc', 'alors', 'maintenant', 'non', 'cependant']	Hélène	Voyant que sa femme n’était pas couchée, il passa chez elle. Il lui trouva l’air effaré, il vit qu’elle regardait la fenêtre avec inquiétude. – [MASK], pourquoi donc n’êtes-vous pas couché.? – Sans doute parce que je n’ai pas envie de dormir
+
+['il', 'elle', ',', 'et', 'on']	Fanny	Il se retourna encore vers la fenêtre en invoquant les dieux protecteurs. Mais le prince était entré, déjà [MASK] faisait semblant de dormir. La dame du dessus prit en profonde pitié cet amoureux enneigé qui se secouait avec fureur et qui avait déjà éternué deux fois.
+
+['il', 'elle', 'tout', ',', 'ou']	Ziem	Mais le lendemain, à l’heure où il devait les retrouver sur la place Saint-Marc, pendant qu’elles émiettaient du pain aux pigeons de la République – car les pigeons n’ont pas changé d’opinion – [MASK] avait disparu.
+
+['non', 'oui', 'mais', '...', 'enfin']	Albert	? – [MASK], sois sérieux. Le prince avait sonné. – Mais dépêche-toi donc ! – Ah ! tu t’imagines, toi, qu’on met une culotte de bal comme un pantalon de mamelouck ? Et sur un ton gravement comique :
+
+['il', '</s>', 'elle', 'qui', 'et']	Violette	On l’avait habillé, mais on ne l’avait pas nourri. Il semblait comprendre qu’elle allait dénouer le ruban. Il en était peut-être fier, mais tous les pigeons criaient après lui. Et puis cela gâtait sa gorge de pigeon. [MASK] avait reconnu tout de suite son ruban.
+
+['</s>', '-', '"', '--', '...']	Hélène	Pourquoi me demandes-tu cela ? [MASK] garda un instant le silence. Elle se décida à démasquer sa pensée. – Voyez-vous, ma tante, il a dû se passer cette nuit une histoire extraordinaire comme celles d’Edgard Poë. Vous allez en juger.
+
+['auguste', 'hector', 'amour', 'or', 'isabelle']	Octave	Le marquis de Fontaneilles poursuivit sa femme ; la duchesse de Parisis poursuivit son mari. Il se passa une horrible chose. Le marquis de Fontaneilles, croyant frapper sa femme dans les bras d’[MASK], frappa la duchesse qui était venue reprendre sa place.
+
+['cendrillon', 'molière', 'voltaire', 'femme', 'velours']	Cendrillon	– Ah ! mon ami, quelle nuit j’ai passé ! Vous voyez bien ces bottes de sept lieues. Écoutez : J’ai eu des passions pour toutes les bottes de femmes, depuis la pantoufle de [MASK] jusqu’à la hongroise.
+
+['on', 'qui', "n'", "m'", 'il']	Voltaire	[MASK] a dit que l’église était l’opéra des gueux. N’est-ce pas aussi un théâtre pour les riches ? L’église parle de l’amour divin, mais pour beaucoup de paroissiennes, l’homme y cache Dieu.
+
+[',', '"', ')', 'et', 'ou']	Monjoyeux	Tous les trois dévoraient des yeux la façad de l’hôtel. On avait allumé des bougies, mais la lumière transperçait à peine par les rideaux de soie. – Si nous sonnions ? dit [MASK], qui était toujours un peu gamin. –
+
+['</s>', '"', 'le', '-', '_']	Monjoyeux	– L’hôtel n’a pas une autre porte pour sortir ? – Non, monsieur. De l’autre côté c’est le jardin de l’hôtel Bobrinskoï. [MASK], presque effrayé d’abord d’avoir sonné, s’irrita de voir qu’on ne venait pas lui ouvrir la porte.
+
+['il', 'on', 'qui', 'et', 'elle']	Octave	Il se moquait de tout. Quand on a su qui j’étais, quand un procès trop célèbre m’a révélé que j’étais une Parisis, [MASK] m’eût épousée peut-être si je n’eusse joué le rôle de fille perdue.
+

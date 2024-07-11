@@ -1,0 +1,200 @@
+['elle', 'il', 'on', 'celui-ci', 'lui']	Paul	Le malheur avait mis la pensée pesante dans cette jeune tête. Si [MASK] ne riait plus comme jadis, il travaillait de toute sa force. Il avait un but. Il travaillait pour être le protecteur de sa mère. Eh !
+
+['oui', 'non', 'oh', 'ah', 'eh']	Ruthaël	La vapeur revêtit une forme vague aux rayons du soleil. C’était comme le fantôme d’une fillette… – [MASK] ! prononça le faux comte de Savray. Il fit suivre ce nom d’un juron que nous ne transcrirons pas par bienséance.
+
+['gaz', 'coucher', 'députés', 'conviction', 'suivre']	Versailles	Il est placé de manière qu’un conduit acoustique puisse lui verser dans l’oreille des chants variés de la Henriade . L’ensemble des deux systèmes constitue la grande école exaspératoire. Quand rien n’y fait, on plonge les gens dans une séance de la Chambre à [MASK].
+
+['il', 'on', 'je', 'et', 'dieu']	Isaac	J’ai été fou, l’abbé Romorantin le sera. Sur treize académiciens qui passent encore pour sages, il y en a quatorze dont le cerveau… [MASK] le déposa dans le magasin aux bagages. Et il s’en alla frapper à la porte de la Maison des Juifs.
+
+['"', 'elle', '</s>', 'il', ',']	Lotte	Elle était comme cela quand je la vis pour la première fois… [MASK] murmura d’une voix qui était douce comme un chant, mais si faible, que nul n’aurait pu dire s’il avait bien entendu ce qu’elle disait : – Mon père va venir…
+
+['il', 'elle', 'ce', 'on', 'celui-là']	monseigneur	Mais [MASK] n’était pas de ce bon groupe-là. Il continua sa route. – Quand on a deux cent mille livres de rentes, fit en ricanant la sous-intendante militaire on peut bien donner quelques louis aux malheureux, dites donc !
+
+['le', 'ce', ':', ',', 'au']	Lamadou	vol, faux, tricheries au jeu, attentats à la morale publique, assassinats, empoisonnements, incendies, noyades, fausse monnaie… – Mais savez-vous, dit [MASK] jeune, petit frère du général et avocat à la cour royale, que ce sera une bien jolie affaire
+
+['dieu', 'mère', 'madame', 'marie', '...']	Fanchon	murmura le bon abbé Romorantin à l’oreille de [MASK] la nourrice. Voilà un fait acquis à la science ! Le voyageur tournait le coude du chemin du halage et disparaissait derrière les peupliers. La brise du soir apporta son chant triste et doux qui disait :
+
+['distinction', 'distinctions', 'excellence', 'séparation', 'oui']	Jane	Moi qui te parles, [MASK], je ne saurais expliquer bien au juste ce qu’on entend par ce mot, qui est le fond de la langue parisienne : distinction, mais je le respecte d’autant plus profondément que je le comprends moins.
+
+['cire', 'marbre', 'pierre', 'lion', 'femme']	Lotte	Les sentinelles seules gardaient leurs yeux ouverts. La comtesse Louise, appuyée au bras de la belle grande jeune fille qui avait le visage de [MASK], prit à rebours le chemin qu’elle avait fait une fois déjà cette nuit.
+
+['john', 'harry', 'mrs', 'le', 'sir']	Galapian	– Il a peut-être quelque chose à expier, insinua [MASK]. – Peut-être. Tandis que vous ne vous repentez de rien, vous ! Le grand problème, c’est la transition : ce que les anciens appelaient la métempsycose. C’est extrêmement simple.
+
+['lui', 'disposition', 'revendre', 'faire', 'jouer']	Lamballe	– Le vieux gentilhomme, le père du colonel, avait cette voix-là à [MASK]… commença le hussard. – Quand d’honnête qu’il était il devint damné coquin ! acheva la nourrice. Le colonel, cependant, bâillait à se démettre la mâchoire.
+
+['...', ')', ',', '.', '"']	Ozer	– C’est tout de même bien étonnant ! dit la reine Hérodiade. Je voudrais voir ! – Et je revins, ajouta [MASK], m’étendre dans la calèche auprès de la comtesse Louise, qui devenait ma femme légitime. – Donna-t-elle dans le panneau ?
+
+['robert', 'paul', 'georges', 'celui-ci', 'jacques']	Jeanne	– Morte ! répéta l’étranger, dont l’accent était rêveur désormais. – Et pourtant, reprit [MASK], je ne suis pas sans avoir des obligations aux maîtres de cette maison. Depuis un an, ils ne m’ont point réclamé le loyer de ma petite chambre.
+
+['dit-il', 'et', 'ajouta-t-il', 'dit-elle', 'lui']	Sapajou	L’abbé Romorantin lui-même céda de bonne grâce. Cinq heures sonnant, heure militaire, au moment même où l’huissier criait là-bas : « Madame la préfète est servie, » [MASK], en livrée d’apparat, vint annoncer que « la soupe était sur la table. »
+
+['</s>', '.', ',', 'ce', '"']	Maurice	? – Moi, moi, moi ! Tous ! figure-toi Jane ! Ils étaient tous ses nièces et ses neveux. [MASK], qui était monté sur ses épaules par derrière, avait beau l’étouffer, il ne pouvait se faire entendre.
+
+['il', 'on', 'elle', '</s>', 'et']	Fanchon	Ses paupières tombaient demi-closes sur l’azur de ses grands yeux qui rêvaient. Ses longs cheveux encadraient de boucles légères la diaphane blancheur de sa joue. – Chante, ma nourrice ! ordonna le vicomte Paul qui voulait avoir toutes les joies. [MASK] ne demandait pas mieux.
+
+['arrêt', 'ré', 'justice', 'chêne', 'fer']	Roger	On eût dit qu’il sortait de terre. L’épée de [MASK], en touchant le corps de cet homme, se brisa comme un fétu de paille, et ses éclats s’éparpillèrent au loin sur le sol. Chapitre 60 LA PROPHETIE
+
+[',', 'ou', 'et', 'plus', 'ce']	Galapian	! – Ah ! oui, fit la sous-intendante du bout des lèvres, ce malheureux homme… – Pas de sérieux ! dit l’ancien chef du parquet tourangeau. – Un hanneton ! murmura [MASK]. Je l’avais prédit !
+
+['césar', 'jacob', 'pharaon', 'joseph', 'judas']	Caïphe	Elle louait des chambres à la nuit. Ses locataires étaient le pharisien Nathan, le valet de [MASK] et d’autres. Au troisième, il y avait un individu mystérieux qu’on entendait marcher toute la nuit et dont le grabat n’était jamais défait.
+
+['jean', 'pierre', 'jacques', 'marie', 'm.']	Maurice	! ordonnait-on de toutes parts. Cela ne vous regarde pas ! Je crois même que quelqu’un dit : – La maison est assurée ! – A la chaîne, ordonna de son côté [MASK], qui déjà tenait un seau de cuisine, rempli à la fontaine.
+
+['il', 'ce', 'cela', 'tout', 'celui-là']	Godard	… » [MASK] n’est pas beau ; mais sa vue me fit verser des larmes. C’était la patrie ; bien plus que la patrie, c’était le faubourg Poissonnière. A son aspect, tout le boulevard Bonne-Nouvelle passa devant mes yeux éblouis.
+
+['m', 'jean', '"', 'lazare', 'rothschild']	Schwartz	– Je fis la connaissance d’un banquier juif, excellent homme, mais usurier, nommé [MASK]. A force de gagner cent pour cent sur chacune de ses affaires, il finit par n’avoir plus le sou. C’est naturel.
+
+['toi', 'maman', 'mère', 'père', 'moi']	Henri	Il eût suffi d’un mot pour nous rendre l’espoir et la vie : je dis nous, [MASK], car nos deux enfants t’aiment autant que moi, et c’étaient trois âmes qui s’élançaient chaque jour vers Dieu pour lui redemander un époux et un père.
+
+['celui-ci', 'camus', 'flaubert', 'joyce', 'pascal']	Fanchon	mais, selon l’expression de [MASK], « un diable lui était entré dans le corps ! » Il scandalisait la ville par ses orgies, il blasphémait comme un damné, il buvait comme une éponge, il volait… vous avez bien lu : il volait comme un brigand.
+
+['on', 'elle', 'il', "s'", "l'"]	Lotte	Elle songeait à descendre, découragée, lorsqu’il lui sembla entendre un bruit léger tout à l’autre bout du corridor. Dans la nuit, une forme légère se dessina : une ombre d’enfant qui glissa et disparut. – [MASK] appela la comtesse Louise.
+
+['le', 'un', 'm.', 'la', 'en']	Ozer	La fiole emplie fut rebouchée. Elle contenait désormais l’âme du blessé. – Adieu ma carcasse ! dit en même temps [MASK]. Son corps, l’ancien corps du comte de Savray tomba comme une masse. Et une forme étrange, monstrueuse, sembla se dégager du cadavre.
+
+['dit-il', 'dit-elle', 'dis-je', '-', ',']	Paul	– Je ne me souviens que trop ! murmura [MASK] en une sorte de gémissement. La comtesse ne l’entendit pas et poursuivit : – Si tu savais comme moi quel cœur c’était que ton père ! combien de délicatesse et de belle fierté ! que d’amour !
+
+['-', '...', '"', ',', '</s>']	Paul	; on les voyait attaquer, tête baissée, le fulgurant colosse. La plupart étaient repoussés au premier choc, mais certains passaient : des démons, des salamandres, qui s’agitaient, noirs, dans la rouge fournaise. – [MASK] criait la comtesse Louise.
+
+['arthur', 'un', 'adam', 'olivier', 'hamlet']	Isaac	Mais toutes les fenêtres étaient closes, et l’autre bord avait bien assez à s’occuper de ses propres affaires. Aussitôt qu’on fut arrivé en cet endroit favorable, le faux comte de Savray, déchargea un grand coup de son sabre sur la tête d’[MASK].
+
+['toi', 'vous', 'lui', 'cela', 'rien']	Paul	murmurait la comtesse. Personne ne me parle de [MASK] ! Derrière la calèche, à la place du valet de pied, il y avait un homme chaudement enveloppé dans un ample manteau. Cet homme se penchait parfois sur la capote relevée pour regarder la comtesse Louise.
+
+['-', '</s>', 'il', 'elle', 'celui-ci']	Henri	Le vieillard et la jeune femme étaient assis et se tenaient par la main. – Nous t’écoutons, dirent-ils. – Et moi aussi, prononça une voix pleine de larmes de l’autre côté de la porte. [MASK] ne fit qu’un bond et rapporta sa mère dans ses bras.
+
+['il', 'elle', 'on', 'et', 'je']	Jeanne	ordonna-t-il d’une voix impérieuse et brève. Au son de cette voix, le vieux valet fut secoué de la tête aux pieds. – Qui a parlé ?… balbutia-t-il. Et [MASK] le vit qui devenait plus pâle qu’un mort.
+
+['la', '(', 'table', "l'", 'transport']	BALTHASAR	Tu auras la permission de fumer des pipes ! A mesure qu’il parlait, le vicomte Paul s’animait. En prononçant ces derniers mots, il fit une dangereuse cabriole et conclut ainsi : – Si papa et maman se fâchent, je me ferai marin ! Chapitre 8 FESTIN DE [MASK]
+
+['chacun', 'la', 'molière', 'leurs', 'parenté']	Lamballe	A eux deux, selon le langage de [MASK], ils faisaient la maison misère et compagnie. Ici, selon l’ordre chronologique, devait prendre place l’histoire à laquelle Mme la maréchale de camp faisait allusion dans le salon de la préfecture : l’histoire du Juif-Errant.
+
+['henri', 'tout', 'louis', 'henriette', 'berthe']	Maurice	comme il était joli, mon oncle Henri, et comme je l’aime ! La vieille dame attira [MASK] contre son cœur, et une larme vint à ses paupières. – Chéri, murmura-t-elle d’une voix altérée, c’est toi qui lui ressembles le mieux.
+
+['celui-ci', 'marguerite', 'jacques', 'vivement', 'madame']	Hérodiade	Ce fou de docteur n’a pas même songé à lui rendre ses sens. On peut causer : cela tue le temps, et quand je dois changer de corps, j’ai toujours une petite émotion bien naturelle… – C’est donc dangereux ? demanda [MASK].
+
+['shakespeare', 'faust', 'folie', 'théâtre', 'wagner']	Voltaire	Le système tragique, on l’a bien vu depuis, guérit les fous par l’ingestion patiente et raisonnée d’une tragédie complète de [MASK], servie par un second prix du Conservatoire, qui ne quitte le patient ni jour ni nuit, jusqu’à la mort.
+
+['lui', 'elle', 'lui-même', 'elle-même', 'il']	Henri	c’est que son souvenir la rajeunissait de vingt ans et qu’elle se voyait à l’âge de ses filles, présidant à ces autres fêtes où [MASK], le cher fou, semait le désordre et la joie au milieu de ses compagnons, qui étaient aujourd’hui des pères et des mères.
+
+['</s>', '"', '...', '_', '--']	Maurice	? Les domestiques soupaient ; la concierge soupait, les pompiers soupaient. Ah ! qu’il est doux de voir un souper de pompier ! [MASK] alla trinquer avec eux. Six heures du matin sonnant, les cuivres, vaillamment embouchés, sonnèrent comme une fanfare en forêt.
+
+['césar', 'julien', 'pierre', 'chacun', 'napoléon']	Maurice	– Qui m’aime me suive ! continua-t-il. Je vais aller demander la permission à bon papa et à bonne maman. Les grands seuls hésitèrent quelque peu. Tous les petits s’élancèrent aussitôt en sautant sur les pas de [MASK], et les grands suivirent.
+
+['maman', 'mère', 'elle', 'il', 'père']	Henriette	[MASK] soupira et répondit : – Maman n’a vendu nos habits qu’après avoir mis en gage tout ce qui était à elle. – Oh ! s’écria le petit garçon, crois-tu donc que je les regrette ? Le bon Dieu nous protége, puisque maman ne perd pas son courage.
+
+['je', 'il', 'elle', ',', '</s>']	Roger	L’Homme était déjà loin, mais, sans s’arrêter, il se retourna. Je pressai mon cœur à deux mains et j’allais passer au milieu des insulteurs sans lever la tête, car je songeais à ma promesse et à toi, ma mère lorsque [MASK] dit en ricanant :
+
+['lui-même', 'lui', 'eux', 'deux', 'quelques-uns']	Maurice	Il a désormais une telle frayeur des voyages et des aventures, qu’il se fait accompagner par [MASK] pour traverser le boulevard. Le palatin Jacoby, ayant appris qu’on n’avait plus besoin de lui, est accouru afin de verser des larmes sur le cœur de sa fille.
+
+['leur', 'lui', 'mort', 'bonheur', 'celui']	Paul	La comtesse Louise, au bras de son bien-aimé Roland, avait quitté la salle de danse pour prendre l’air sur la terrasse. Là, parmi les senteurs embaumées qui montaient du parterre, ils causaient d’avenir : c’est-à-dire de [MASK], le cher enfant qui était leur cœur.
+
+['famille', 'dieu', 'baptême', 'femme', 'pays']	maraud	Ce sont là des erreurs qui vont s’accréditant aisément, et dans quinze ou vingt siècles, ce nom de [MASK] pourrait surgir comme un champignon au beau milieu du jardin de l’histoire. Le terrain historique est une couche tout particulièrement favorable à ces cryptogames.
+
+['mme', 'la', 'madame', 'de', 'm.']	Fanchon	Le bon abbé Romorantin cherchait à obtenir quelques renseignements très délicats d’un homme de grande taille, qui se tenait au milieu de la chambre debout et le bâton à la main. Par les portes ouvertes, on voyait les figures curieuses de [MASK] la nourrice et du hussard Joli-Cœur.
+
+['chateaubriand', 'lamartine', 'napoléon', 'mirabeau', 'balzac']	Lotte	Ces gens qui vont partout chuchotant des bavardages de mauvais augure, disaient même que ce petit vicomte Paul, élevé comme un prince, pourrait bien un jour en rabattre sur son orgueil. Et, chose singulière, le nom de [MASK] se trouvait mêlé à ces pronostics de l’envie qui se venge.
+
+["m'", 'lui', 'nous', 'personne', 'vous']	Maurice	; mais ce petit coquin de [MASK] avait donné l’élan, tous et toutes passèrent, qui à droite, qui à gauche, qui entre les jambes. Personne ne prit même le temps de coiffer sa tête nue ou de jeter un mantelet sur ses épaules.
+
+['que', 'si', 'mais', "qu'", 'car']	Jane	On s’arrêta d’abord pour les voir et pour apprendre. Les couples tout formés restaient immobiles à regarder. Mais on apprend vite, et surtout bien vite croit-on avoir appris. N’est-ce pas, [MASK], avant d’avoir essayé, tout est facile ?
+
+[',', 'celui', 'celle', 'homme', 'et']	Maurice	[MASK] qui n’avait encore rien dit, se pencha sur le portrait. – Tu vois bien, bonne maman, prononça-t-il à voix basse, je n’y touche que des yeux ; mais comme il était joli ! comme il était joli, mon oncle Henri, et comme je l’aime
+
+['nord', 'midi', 'nord-ouest', 'travail', 'sud']	Phénix	; les quatre jeunes mères galopaient, tout le monde, quoi ! C’était un galop magnifique, imposant, monumental : Quand il fut fini, on tira l’échelle. Chapitre 9 CONCLUSION L a maison de rapport était assurée à la compagnie du [MASK].
+
+[',', 'napoléon', 'eugène', 'pierre', 'bonaparte']	Wellington	Le comte et la comtesse lui avaient donné le mot. Les quatre jardiniers piochaient et brouettaient, que c’était merveille. Il s’agissait de revêtir un épaulement dont la vue seule devait faire frémir [MASK] et lui ôter toute idée d’attaquer la forteresse du vicomte Paul.
+
+['il', 'pour', 'et', 'ce', 'qui']	François	une salve de baisers donnés, rendus, donnés encore. Et le cher brouhaha des rires. – Oh ! bon papa, comme j’avais envie de le voir ! – Ecoute, bonne maman, [MASK] ne voulait pas nous laisser entrer ; il ne faut pas nous gronder
+
+['femme', ',', 'mère', '</s>', 'tête']	Hérodiade	Je voudrais voir. – Non, impossible. Je dois être seul. C’est la loi. Mais je puis vous faire assister par la pensée… – Je voudrais voir interrompit [MASK] qui était entêtée. – Le roi dit : Nous voulons ! prononça solennellement le soldat Ozer.
+
+['jésus', 'mort', 'bélier', 'pierre', 'jupiter']	Méduse	La tête de [MASK] ainsi coiffée changeait en pierres tous ceux qui la regardaient. Vous eussiez dit que l’image, cette belle image d’or, de pourpre, d’émeraude et de saphir, qui coûtait un sou, produisait un pareil effet sur les convives du vicomte Paul.
+
+['y', 'newton', 'qui', 'en', 'martin']	Laquedem	Peu à peu le silence se fit dans la ville fatiguée de meurtres, tandis que la nuit, abaissant ses voiles, enveloppait la vaste scène de carnage. Isaac [MASK] dormait. Sa respiration était égale et douce comme celle d’un enfant. Pénitence vaut presque innocence.
+
+['marie', 'madame', 'marguerite', 'maman', 'sophie']	Jeanne	L’oncle Henri hésita un instant. Il regarda son uniforme, mais il regarda aussi les beaux yeux de [MASK]. – Ma foi, dit-il, j’ai trente ans, c’est l’âge de se ranger.
+
+['</s>', 'on', 'elle', 'cela', 'il']	Maurice	On se moquait bien un peu les uns des autres, et il y avait de quoi, mais on allait de si bon cœur ! jamais hongroise ne fut si vaillamment sautée. [MASK] s’était emparé d’une dame maronite qui oubliait là toutes ses infortunes.
+
+['il', ',', 'elle', 'on', 'y']	Isaac	[MASK] prit ensuite un mouchoir et le noua par les quatre coins, afin d’y placer le cadavre du colonel comte de Savray. Il est superflu de faire observer que cela ne put avoir lieu sans quelque manigance un peu surnaturelle. Néanmoins, ce n’était pas si miraculeux que vous le pensez.
+
+['at', 'ard', '"', 't', ')']	Ozer	[MASK], le faux comte, lui tendit cinq doubles napoléons. Le docteur Lunat les prit et dit en pointant l’image du Juif errant collée à la muraille : – C’est un exemplaire du tirage de 1790. Je vous en offre deux cents francs.
+
+['-', '</s>', 'il', '"', '_']	Paul	– A quoi donc ne crois-tu pas, mon chéri ? demanda la comtesse Louise. [MASK] resta un instant silencieux, puis il se couvrit le visage de ses mains. – Il y a des choses qui sont impossibles ! murmura-t-il enfin avec découragement.
+
+[',', 'et', 'ni', 'qui', 'celui']	Maurice	Elle était entourée des quatre jeunes mères, calmes, mais rayonnantes. Elle les suivait tous des yeux, elle savait où ils étaient, mais surtout, oh ! surtout elle ne perdait jamais de vue [MASK], son cœur, l’enfant bien aimé qui ressemblait à son Henri.
+
+['</s>', 'marguerite', 'tom', 'marie', '...']	Lotte	– Je n’ai pas fini, ma mère. Je me retirai à pas lents, accompagné par leurs menaces. Je voulais suivre [MASK] et son père : non que je crusse découvrir leur adresse, dans le sens vulgaire du mot, car celui dont nous parlons ne peut avoir une demeure ;
+
+['maintenant', 'ce', 'et', 'à', 'colis']	Croquemitaine	Il faudrait croire aussi à Barbe-Bleue, à [MASK], à l’Ogre, au Petit-Poucet… tandis qu’il y a bien des exemples, ma mère, bien des exemples avérés d’hommes au cœur bon, loyal, chevaleresque même, qui tombèrent tout d’un coup au plus profond de l’abîme du mal
+
+['</s>', 'elle', 'il', 'je', 'me']	Ivan	Ils ont leur récompense dans le ciel. [MASK] mourut le premier, les lèvres sur ma main ; puis ce fut le tour de ma pauvre nourrice. Des héritiers vinrent et prirent la maison. Ils ne nous chassèrent point ;
+
+['maman', 'moi', 'ah', 'toi', 'enfants']	Jane	Si tu savais, [MASK], comme on les aimait ! A la fête, maintenant ! L’orchestre avait eu du bon temps pendant l’incendie et aussi pendant qu’on habillait les deux petits, l’orchestre préluda avec une vigueur qui annonçait la bonne volonté de bien faire.
+
+['qui', 'm', 'cela', 'moi', '...']	Talma	Jarnibleu les jambes me démangent : ne parlons point politique. Avez-vous connu [MASK] ? je lui dessinai son costume d’Auguste de souvenir ; vous concevez que je peux beaucoup pour mes amis. Dix-huit cents ans d’expérience et une mémoire !
+
+["l'", "s'", "m'", 'lui', 'nous']	Louise	Il est vrai que [MASK] emportait le remords de ne l’avoir point embrassé au départ. Tout le long du chemin, on causa de lui, et plus d’une fois le sourire de la jeune mère se mouilla. C’était un enfant idolâtré.
+
+['le', '...', 'la', 'et', 'un']	Clémence	– Pas un souvenir à [MASK] ! – Mon oncle ! mon oncle ! mon oncle ! Deux cent cinquante nièces ! deux cent cinquante neveux ! L’oncle Henri devenait fou comme un cheval tourmenté par les mouches. Il cherchait de bonne foi les fils et les filles de ses sœurs
+
+['non', 'hélas', 'monsieur', 'mais', 'bien']	Ozer	– Donna-t-elle dans le panneau ? – Bah ! fit [MASK], jamais cette pimbêche ne m’a permis de lui baiser le bout des doigts. Chapitre 74 MINUIT L e premier coup de minuit tinta aux clochers voisins.
+
+['mm', 'm', ':', '.', 'b']	Lancelot	Il y eut des toux sèches qui voulaient exprimer sans doute une chaude approbation, puis le chapelet s’égrena : – Un buveur ! déclara [MASK]. – Un joueur ! – Un bretteur ! – Un mauvais sujet ! – Un monstre !
+
+['</s>', 'il', 'on', 'cela', 'ça']	Wellington	DIVERS EFFETS DE CHAMBERTIN O n allait bien autour de la table, dans le pavillon ! Ce n’était pas du vin d’enfant qui se buvait. [MASK] pouvait venir. Il y avait quelqu’un pour le recevoir.
+
+['sa', 'son', 'la', 'marie', 'madame']	Louise	On n’est pas forcé de manger le potage ! Chapitre 9 LOTTE L à-bas, à la préfecture, Mme la maréchale de camp avait dit, à propos du colonel comte Roland de Savray et de [MASK], la belle comtesse, filleule du roi Louis XVIII :
+
+['"', '</s>', '--', '...', 'elle']	Paul	Enfant, dit la comtesse avec une fermeté douce, si je me trompe, laisse-moi mon erreur. Je veux bien mourir, mais que ce ne soit pas par toi ! [MASK] s’agenouilla, dévorant de baisers les pauvres belles mains froides de la comtesse Louise.
+
+['</s>', '"', '-', '_', 'la']	Louise	Il chancela et vint tomber au seuil de la dernière maison, – qui était celle des Savray-Pain-sec. Son bâton s’échappa de ses mains et cogna la porte. [MASK], enceinte de son fils, vint ouvrir elle-même car son mari faisait la vie de garnison ;
+
+['henriette', 'albert', 'eugène', 'octave', 'armand']	Isaac	Messieurs, le temps me presse, Adieu la compagnie. Grâce à vos politesses, Je vous en remercie… – Quoi ! déjà ! s’écria la comtesse Louise en pressant les deux mains d’[MASK]. – Il le faut, répondit-il, on m’appelle.
+
+['ah', 'oh', 'eh', 'quoi', 'maman']	Lotte	Une belle jeune fille était là qui lui tendait son front. – [MASK] ! est-ce toi ? Combien tu as grandi ! murmura la comtesse Louise. Puis l’idée de son fils ne pouvant la quitter jamais : – Aie pitié de moi ! ajouta-t-elle.
+
+['dieu', 'famille', 'la', 'leur', 'jésus']	Lotte	L’incendie l’éclairait mieux que n’eût fait un beau soleil d’été. Il était calme et recueilli. Derrière lui, était-ce un flocon de fumée ou une forme humaine ? Bien des gens parmi ceux qui étaient là, frémissant, espérant, admirant, prononcèrent le nom de [MASK].
+
+['oui', 'non', 'bien', '...', 'enfin']	Arlequin	– Mon oncle, mon bon oncle, ne fais pas languir ta petite Célestine ! roucoulait une Albanaise. – Ah ! mon oncle ! pleurait [MASK], je suis ton Casimir ! Comme tu m’aurais fait sauter sur tes genoux si j’avais été au monde avant ton départ !
+
+['le', "l'", 'm.', 'la', ',']	Ozer	La pendule marquait cinq minutes avant minuit. Aussitôt [MASK], ou le colonel de Savray, comme on voudra l’appeler, se leva, jeta sa serviette et s’éclipsa, suivi de la reine Hérodiade. Autour de la table, les convives échangèrent un coup d’œil expressif.
+
+['</s>', '"', 'et', '-', ')']	Roger	Il avait reconnu la voix de sa mère. [MASK], profitant de son avantage, se fendit avant que les témoins pussent s’interposer. Le vicomte Paul tomba, mais ce ne fut point sous le fer de son ennemi. Le cri de sa mère lui avait traversé le cœur.
+
+['lui', 'elle', ',', 'ses', 'mère']	Jeanne	Il saisit à la fois sa mère et [MASK] et les entraîna ravies vers la porte. Au moment où il l’ouvrait, un fracas épouvantable éclata, et la maison trembla sous la frénésie des applaudissements qui grondèrent dans les corridors. – En triomphe ! l’oncle Henri !
+
+['chambre', 'maître', 'la', 'service', 'fortune']	Caïphe	Le cinquième est le valet de [MASK]. Le vicomte Paul, lui, s’était assis sur un tabouret, aux pieds de sa mère. Il mit sa tête blonde sur les genoux de la comtesse Louise, qui lisait dans ses grands yeux bleus comme en un livre.
+
+['nous', 'il', 'me', 'qui', 'on']	Schedt	[MASK] donne à entendre, dans trois lignes assez confuses qui se trouvent au tome XXIII de son Légendaire , que chaque jour, à minuit, Ozer l’exécrable soldat qui tendit l’éponge imbibée de vinaigre, s’enferme dans sa chambre avec une cassette qu’il tient dans ses bras crispés.
+
+['il', 'att', 'el', 'ale', 'ell']	Isaac	[MASK] était déjà au seuil du salon. Sa main toucha ses lèvres et envoya un baiser à tous ceux qu’il aimait. On le vit bientôt sur un grand chemin qui longe la rivière. Le soleil couchant jouait dans les mèches éparses de ses cheveux.
+
+['maurice', 'jean', 'paul', 'julien', 'rodin']	Lotte	Le père ne m’a pas défendu de le suivre. – Sais-tu donc où doit avoir lieu le combat ? – Le père sait tout, répliqua [MASK]. Il se rend en un lieu qui est derrière le cimetière Montparnasse. – C’est là !
+
+['il', 'john', 'celui-ci', 'robert', 'julien']	Ozer	Le bol de punch, du reste, était bu. Demeuré seul, [MASK] s’approcha du blessé et l’examina. – Un beau garçon ! dit-il. Fils du plus riche banquier du parti libéral ! Nous allons faire une fortune immense et prendre pied à la nouvelle cour.
+
+['france', 'dire', 'disant', 'famille', 'dit']	Lamballe	Et il y en eut qui ajoutèrent, ceux qui savaient l’histoire de [MASK] : – La fille du Juif-Errant ! Chapitre 35 DISPARITION DE SIR ARTHUR E ncore une fois, où était le comte Roland de Savray, le maître, le colonel, le père ?
+
+['il', 'lui', 'celui-ci', 'georges', 'jacques']	Roland	-elle. Mon fils ! A l’instant où [MASK], fou déjà d’inquiétude, se précipitait au dehors, un soldat couvert de poussière et ruisselant de sueur traversa les salons. C’était le hussard Joli-Cœur.
+
+[':', 'non', 'faiblement', 'un', '"']	Fanchon	Le soleil se rapprochait lentement de sa couche éblouissante. – Personne ne veut me dire, cria le vicomte Paul, pourquoi ce bonhomme ne boit pas de bière, et en quel pays les mendiants ont des haillons d’or ? – Mme la comtesse l’a défendu ! murmura [MASK].
+
+["l'", 'un', 'le', 'cet', 'monsieur']	Maurice	çà ! dit [MASK] indigné, comme cela, nous les perdrons ! Croyez-vous que la fête est finie ! Voulez-vous les priver de danser avec nous ! Et quelle occasion d’avoir une leçon de vraie mazurka ! c’est leur ronde nationale : Il faut les costumer.
+
+['bien', '...', ',', ':', '(']	Lotte	– Où donc est [MASK] ? Et chacun, regardant le siége vide de celle qu’on appelait « la fille du Juif-Errant, » avait vu, à la place occupée naguère par l’enfant, une vapeur légère qui achevait de se dissiper lentement… Chapitre 17
+
+['les', "l'", ',', 'des', 'aux']	Ozer	– Feu ! cria [MASK] enragé. Ce fut du bruit et de la fumée. Le nageur abordait à la rive. Parmi les fracas de la mousqueterie, l’appel des cloches, les clameurs de la guerre et le sourd mugissement du canon, une voix chanta :
+
+['toi', 'moi', 'chérie', 'ma', 'chéri']	Jeanne	– Tu as souffert, [MASK], ma femme chérie, continua-t-il sans faire trêve à ses caresses, je savais que tu souffrais et je ne pouvais adoucir ta peine ; je ne pouvais pas même te crier de loin : Courage !
+
+['il', 'qui', 'celui-ci', 'elle', 'on']	Isaac	Comme onze heures de nuit sonnaient à l’horloge du Palais-Royal, des pas lourds montèrent l’escalier. L’ombre éveilla l’Homme dans un baiser et disparut. Au moment où la clef tournait dans la serrure, [MASK] était déjà debout et caché derrière les rideaux.
+
+['molière', 'louis', 'marie', 'la', 'jacques']	Holopherne	Il y eut un instant d’espoir, et déjà [MASK], qui a le mot pour rire, préparait un calembour de triomphe, lorsque, du côté du pont Saint-Michel, une vapeur blanche se prit à flotter au fil de la rivière.
+
+['lui', 'celui', 'celui-là', 'moi', 'elle']	Maurice	! Dans la bouche d’un autre, ceci aurait sonné mal, mais c’est [MASK] qui se moquait bien du taux des loyers ! – Qui m’aime me suive ! continua-t-il. Je vais aller demander la permission à bon papa et à bonne maman.
+
+['dis-je', 'dit-elle', 'très', '"', '-']	Jeanne	L’étranger se leva sur ces mots, et alla tout droit à un cordon de sonnette caché derrière les rideaux de l’alcôve. Il sonna bruyamment. – Que fais-tu ? demanda [MASK] étonnée, et comment savais-tu que ce cordon était là ?
+
+['!', 'oh', 'ah', '"', '-']	Lotte	L’écho du long corridor répéta ce nom : [MASK] ! Puis le silence revint plus sinistre. Tout à coup, à l’étage supérieur, un pas régulier et lent comme le bruit produit par le balancier d’une horloge résonna sur les dalles du corridor.
+

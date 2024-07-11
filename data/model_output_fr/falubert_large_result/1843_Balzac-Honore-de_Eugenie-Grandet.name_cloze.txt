@@ -1,0 +1,200 @@
+['celui-ci', 'il', 'Jean', 'Pierre', 'Henri']	Grandet	En ce moment le pauvre jeune homme, encore enfant, encore dans l’âge où les sentiments se produisent avec naïveté, fondit en larmes.– Allons, bien, se dit [MASK]. Ses yeux m’effrayaient. Il pleure, le voilà sauvé.
+
+['Il', 'Elle', 'il', 'elle', 'et']	Eugénie	Achetez votre deuil sur vos six louis. Vous me donnerez un crêpe, cela me suffira.[MASK] leva les yeux au ciel sans mot dire. Pour la première fois dans sa vie, ses généreux penchants endormis, comprimés, mais subitement éveillés, étaient à tout moment froissés.
+
+['enfin', 'bref', 'vous', 'messieurs', 'monsieur']	Grandet	Ta ! ta ! ta ! ta ! vous savez ce qu’a ma femme ! Ces médecins, une fois qu’ils ont mis le pied chez vous, ils viennent des cinq à six fois par jour.– Enfin, [MASK], vous ferez comme vous l’entendrez.
+
+['celui-ci', 'il', 'Raoul', 'Jean', 'monsieur']	Grandet	Ne vous gênez pas, dit [MASK] en rentrant. Comme vous y allez les jours de fête, monsieur le président !– Mais, avec mademoiselle, répondit l’abbé Cruchot armé de son bouquet, tous les jours seraient pour mon neveu des jours de fête.
+
+['on', 'le', 'il', 'elle', 'une']	Eugénie	Cependant, malgré sa parole, à la fin de la première année, le vieux tonnelier n’avait pas encore donné un sou des cent francs par mois si solennellement promis à sa fille. Aussi, quand [MASK] lui en parla plaisamment, ne put-il s’empêcher de rougir
+
+['on', 'On', 'elle', 'il', 'qui']	Cornoiller	Tenez, mademoiselle, dit la bonne fille, [MASK] m’a donné un lièvre. Vous mangez si peu, que ce pâté vous durera bien huit jours ; et, par la gelée, il ne risquera point de se gâter. Au moins, vous ne demeurerez pas au pain sec.
+
+['famille', 'parents', 'naissance', 'père', 'mère']	Charles	Dès ce moment, elle commença à juger son père. Quoique assourdis, les sanglots de [MASK] retentissaient dans cette sonore maison ; et sa plainte profonde, qui semblait sortir de dessous terre, ne cessa que vers le soir, après s’être graduellement affaiblie.– Pauvre jeune homme
+
+['le', 'la', 'se', 'les', 'de']	Charles	Les manières de [MASK], ses gestes, la façon dont il prenait son lorgnon, son impertinence affectée, son mépris pour le coffret qui venait de faire tant de plaisir à la riche héritière et qu’il trouvait évidemment ou sans valeur ou ridicule ;
+
+['Jean', 'Pierre', 'Jacques', 'celui-ci', 'François']	Grandet	; et tous ceux qui, dans leur enfance, ont léché la frippe et laissé le pain, comprendront la portée de cette locution.– Non, répondit [MASK], ça ne mange ni frippe, ni pain. Ils sont quasiment comme des filles à marier.
+
+['Allons', 'allons', 'Monsieur', 'Madame', 'dit-il']	Charles	Vous ressemblez à votre mère. Avait-elle la voix aussi douce que la vôtre ?– Oh ! bien plus douce…– Oui, pour vous, dit-elle en abaissant ses paupières. Allons, [MASK], couchez-vous, je le veux, vous êtes fatigué.
+
+['elle', 'RE', 'se', 'la', 'en']	Eugénie	En recevant ces larmes chaudes, [MASK] sauta sur la bourse, la lui versa sur la table.– Eh ! bien, oui, n’est-ce pas ? dit-elle en pleurant de joie. Ne craignez rien, mon cousin, vous serez riche. Cet or vous portera bonheur
+
+['"', ',', '-', ';', ':']	Grandet.–	?– Oui, je n’y ai jamais pen, pen, pen, pensé, répondit [MASK] Premièrement, reprit le magistrat, par le dépôt du bilan au greffe du tribunal, que fait le négociant lui-même, ou son fondé de pouvoirs, dûment enregistré.
+
+[',', 'bien', 'la', "s'", "l'"]	Eugénie	La parenté n’autorisait-elle pas une certaine douceur dans l’accent, une tendresse dans les regards : aussi [MASK] se plut-elle à endormir les souffrances de son cousin dans les joies enfantines d’un naissant amour. N’y a-t-il pas de gracieuses similitudes entre les commencements de l’amour et ceux de la vie
+
+['la', "l'", 'le', 'ce', ',']	Bonfons	Eh ! bien, mon oncle, s’écria le magistrat quand il vit les des Grassins éloignés, j’ai commencé par être le président de [MASK], et j’ai fini par être tout simplement un Cruchot.– J’ai bien vu que ça te contrariait ;
+
+['je', '-', 'oh', '...', ',']	Charles	… dit-elle.– Oh ! oui, bien, répondit-il avec une profondeur d’accent qui révélait une égale profondeur dans le sentiment.– J’attendrai, [MASK]. Dieu ! mon père est à sa fenêtre, dit-elle en repoussant son cousin qui s’approchait pour l’embrasser.
+
+[',', 'et', 'il', 'elle', 'Il']	Grandet	[MASK] marcha vers la cheminée. – Tiens ! s’écria-t-il, voilà de la bougie. Où diable a-t-on pêché de la bougie ? Les garces démoliraient le plancher de ma maison pour cuire des œufs à ce garçon-là.
+
+['France', 'une', 'effet', 'la', "l'"]	Saumur	! Dieu reconnaîtra ses anges aux inflexions de leur voix et à leurs mystérieux regrets. Il y avait dans [MASK] une grande quantité de ménages où les domestiques étaient mieux traités, mais où les maîtres n’en recevaient néanmoins aucun contentement.
+
+['rez', 'bien', 'père', 'vous', 'prince']	Eugénie	[MASK], plus hardie que sa mère, monta deux marches.– Hé ! bien, mon neveu, vous avez du chagrin. Oui, pleurez, c’est naturel. Un père est un père. Mais faut prendre notre mal en patience. Je m’occupe de vous pendant que vous pleurez.
+
+['tout', ',', 'en', 'Jean', 'alors']	Grandet	: – Je n’ai plus mon or.– Tu n’as plus ton or ! s’écria [MASK] en se dressant sur ses jarrets comme un cheval qui entend tirer le canon à dix pas de lui.– Non, je ne l’ai plus.– Tu te trompes, Eugénie.– Non.– Par la serpette de mon père !
+
+[',', 'en', 'tout', 'on', "l'"]	Grandet	Achetez-en vite, il y a encore vingt pour cent à gagner en deux ans, outre les intérêts à un excellent taux, cinq mille livres de rente pour quatre-vingt mille francs. Les fonds sont à quatre-vingts francs cinquante centimes.– Nous verrons cela, répondit [MASK] en se frottant le menton.–
+
+['il', 'elle', 'ne', 'et', ',']	Adolphe	[MASK] ne continua pas, sa mère lui marcha sur le pied, puis, en lui demandant à haute voix deux sous pour sa mise : – Veux-tu te taire, grand nigaud ! lui dit-elle à l’oreille.
+
+['après', 'une', 'accomplissement', 'UN', 'un']	Eugénie	Ce fut le sentiment d’[MASK] après avoir lu cette horrible lettre. Elle jeta ses regards au ciel, en pensant aux dernières paroles de sa mère, qui, semblable à quelques mourants, avait projeté sur l’avenir un coup d’œil pénétrant, lucide ;
+
+['elle', 't-il', 'elle', 'il', 'il']	Eugénie	J’ai de l’or, je le lui donnerai, dit [MASK].Elle reprit sa lecture après avoir essuyé ses pleurs.Je n’avais point encore songé aux malheurs de la misère. Si j’ai les cent louis indispensables au passage, je n’aurai pas un sou pour me faire une pacotille.
+
+[',', 'on', 'il', 'le', 'de']	Eugénie	Votre perte est irréparable : ainsi songez maintenant à sauver votre honneur…Avec cet instinct, cette finesse de la femme qui a de l’esprit en toute chose, même quand elle console, [MASK] voulait tromper la douleur de son cousin en l’occupant de lui-même.–
+
+['Pierre', 'Jean', 'Henri', 'Guillaume', 'celui-ci']	Nanon	Eh ! bien, tu en prendras à ta suffisance, répondit-il mélancoliquement, mais alors tu nous feras une tarte aux fruits, et tu nous cuiras au four tout le dîner ; par ainsi, tu n’allumeras pas deux feux.– Quien ! s’écria [MASK], vous n’avez pas besoin de me le dire.
+
+['le', 'la', "l'", 'tout', 'un']	Eugénie	Mon père n’est pas un niais, mon voyage doit avoir un but. Psch ! à demain les affaires sérieuses, disait je ne sais quelle ganache grecque.– Sainte-Vierge ! qu’il est gentil, mon cousin, se dit [MASK] en interrompant ses prières qui ce soir-là ne furent pas finies.
+
+[',', 'déjà', '.', 'tant', 'un']	Eugénie	Certes, la Parisienne qui, pour faciliter la fuite de son amant, soutient de ses faibles bras une échelle de soie, ne montre pas plus de courage que n’en déployait [MASK] en remettant le sucre sur la table.
+
+['la', 'elle', 'cette', "l'", 'sa']	Nanon	– Elle est riche, et le gars Cornoiller fait un bon coup », disait un autre voisin. En sortant du vieux logis, [MASK], qui était aimée de tout le voisinage, ne reçut que des compliments en descendant la rue tortueuse pour se rendre à la paroisse.
+
+['tu', 'personne', 'je', 'rien', 'elle']	Charles	tandis que [MASK] ne devait jamais être dans le secret des profondes agitations qui brisaient le cœur de sa cousine, alors foudroyée par le regard du vieux tonnelier.– Tu ne manges pas, ma femme ? La pauvre ilote s’avança, coupa piteusement un morceau de pain, et prit une poire.
+
+['...', 'le', ':', '-', 'en']	Charles	Ton père est bien mal…– Pourquoi suis-je ici ? dit [MASK]. Nanon ! cria-t-il, des chevaux de poste. Je trouverai bien une voiture dans le pays, ajouta-t-il en se tournant vers son oncle qui demeurait immobile.– Les chevaux et la voiture sont inutiles
+
+[',', 'de', 'la', 'le', "l'"]	Eugénie	Les autres personnes étaient faites aux façons despotiques du bonhomme. Néanmoins, quand ces deux demandes et ces deux réponses furent échangées, l’inconnu se leva, présenta le dos au feu, leva l’un de ses pieds pour chauffer la semelle de ses bottes, et dit à [MASK]
+
+['il', 'elle', 'qui', 'se', 'a']	Grandet	Majeure.Abasourdi par la logique de sa fille, [MASK] pâlit, trépigna, jura ; puis trouvant enfin des paroles, il cria : – Maudit serpent de fille ! ah ! mauvaise graine, tu sais bien que je t’aime, et tu en abuses.
+
+['tout', 'vous', 'ce', 'ces', 'la']	Eugénie	Vous me tribouillez les entrailles. Avez-vous reçu de l’or ?– Non ; mais j’ai quelques vieux louis, une dizaine, je vous les donnerai. Mon bon ami, faites la paix avec [MASK]. Voyez-vous, tout Saumur vous jette la pierre.–
+
+['bien', "s'", 'on', 'profondément', ',']	Charles	dit-elle en s’en allant. Il rêve déjà, ce monsieur. Bonsoir.– Bonsoir, Nanon.– Qu’est-ce que je suis venu faire ici ? se dit [MASK] en s’endormant. Mon père n’est pas un niais, mon voyage doit avoir un but. Psch
+
+["n'", 'comment', ',', 'elle', 'pourquoi']	Eugénie	; mais [MASK] eût-elle été prudente et observatrice autant que le sont certaines filles en province, aurait-elle pu se défier de son cousin, quand, chez lui, les manières, les paroles et les actions s’accordaient encore avec les inspirations du cœur ?
+
+['son', 'le', "l'", 'sa', 'tout']	Grandet	Semblable à toutes les femmes timides, elle avait étudié le caractère de son seigneur. De même que la mouette prévoit l’orage, elle avait, à d’imperceptibles signes, pressenti la tempête intérieure qui agitait [MASK], et, pour employer l’expression dont elle se servait, elle faisait alors la morte.
+
+['Elle', 'elle', 'et', 'Jeanne', 'Il']	Eugénie	Je n’ai point oublié que je ne m’appartiens pas ; je me suis toujours souvenu dans mes longues traversées du petit banc de bois…[MASK] se leva comme si elle eût été sur des charbons ardents, et alla s’asseoir sur une des marches de la cour.
+
+['te', 'de', 'es', 'tu', 'se']	Nanon	– [MASK], dit-il, en s’avançant dans le couloir, veux-tu bien éteindre ton feu, ta lumière, et venir avec nous ? Pardieu ! la salle est assez grande pour nous tous.– Mais, monsieur, vous aurez du beau monde.– Ne les vaux-tu pas bien
+
+['on', 'On', 'il', 'Il', 'elle']	Charles	dit-il en emportant le trésor et allant se placer à la fenêtre. – Du bon or ! de l’or ! s’écria-t-il. Beaucoup d’or ! ça pèse deux livres. Ah ! ah ! [MASK] t’a donné cela contre tes belles pièces.
+
+['"', ',', "'", 'à', 'de']	Cruchot	au lieu qu’en vous entendant…– Par la serpette de mon père ! s’écria le vigneron qui s’assit en pâlissant, nous verrons ça, [MASK].Après un moment de silence ou d’agonie, le bonhomme regarda le notaire en lui disant :
+
+[',', 're', 'on', 'elle', 'il']	Grandet	Lorsque [MASK] tirait de sa poche la pièce de cent sous allouée par mois pour les menues dépenses, le fil, les aiguilles et la toilette de sa fille, il ne manquait jamais, après avoir boutonné son gousset, de dire à sa femme :
+
+['Olivier', 'Albert', 'Eugénie', 'Octave', 'Isabelle']	Eugénie	Comme vous y allez les jours de fête, monsieur le président !– Mais, avec mademoiselle, répondit l’abbé Cruchot armé de son bouquet, tous les jours seraient pour mon neveu des jours de fête.L’abbé baisa la main d’[MASK].
+
+[',', 'frère', 'de', 'bien', 'le']	Grandet	J’aimais mon frère, et je le prouverai bien si si ça ne ne coûte pas…– Nous allons vous quitter, [MASK], lui dit le banquier en l’interrompant heureusement avant qu’il n’achevât sa phrase. Si j’avance mon départ, il faut mettre en ordre quelques affaires.–
+
+['Eugénie', 'elle', 'on', 'il', 'Marie']	Charles	Vers quatre heures, au moment où Eugénie et sa mère avaient fini de mettre un couvert pour six personnes, et où le maître du logis avait monté quelques bouteilles de ces vins exquis que conservent les provinciaux avec amour, [MASK] vint dans la salle.
+
+['il', 'elle', 'puis', 'et', 'Il']	Charles	– Là seront donc mes trésors, dit-il en montrant le vieux bahut pour voiler sa pensée.– Allez dormir, dit-elle en l’empêchant d’entrer dans une chambre en désordre.[MASK] se retira, et ils se dirent bonsoir par un mutuel sourire.
+
+['"', '-', 'et', 'ement', '</s>']	Nanon	L’argent devait communiquer ses teintes froides à cette vie céleste, et donner de la défiance pour les sentiments à une femme qui était tout sentiment.– Il n’y a que toi qui m’aimes, disait-elle à [MASK].La main de cette femme panse les plaies secrètes de toutes les familles.
+
+['il', 'se', 'elle', 'on', 'la']	Charles	Puis, quand, après le déjeuner, le père Grandet était parti pour aller voir ses propriétés et ses exploitations, [MASK] demeurait entre la mère et la fille, éprouvant des délices inconnues à leur prêter les mains pour dévider du fil, à les voir travaillant, à les entendre jaser.
+
+['COR', 'S', 'E', ',', 'NE']	Nanon.–	Et son cœur se serra.« Vous… »– Il me disait tu ! Elle se croisa les bras, n’osa plus lire la lettre, et de grosses larmes lui vinrent aux yeux.– Est-il mort ? demanda [MASK]
+
+[',', 'de', 'à', 'la', 'le']	Nanon	Enfin arrivèrent les jours d’agonie, pendant lesquels la forte charpente du bonhomme fut aux prises avec la destruction. Il voulut rester assis au coin de son feu, devant la porte de son cabinet. Il attirait à lui et roulait toutes les couvertures que l’on mettait sur lui, et disait à [MASK]
+
+['la', 'son', 'sa', "l'", 'bonne']	Nanon	– Il ne se lève pas, pensa-t-elle en entendant la tousserie matinale de [MASK], et la bonne fille allant, venant, balayant la salle, allumant son feu, enchaînant le chien et parlant à ses bêtes dans l’écurie.
+
+['jour', 'riant', 'elle-même', 'roi', 'bas']	Charles	– Et quand on a cent mille livres de rente, un nom, une famille, que l’on va à la cour, car je vous ferai nommer gentilhomme de la chambre, on devient tout ce qu’on veut être, disait-elle à [MASK].
+
+['</s>', 'et', "qu'", '.', 'la']	Nanon	Vous m’offensez dans ce que j’ai de plus cher, reprit-il, je ne veux vous voir que soumise. Allez dans votre chambre. Vous y demeurerez jusqu’à ce que je vous permette d’en sortir. [MASK] vous y portera du pain et de l’eau.
+
+['il', 'fût', "s'", "c'", 'on']	Grandet	Mais qu’est-ce que vingt écus pour ce mirliflor qui lorgnait mon baromètre comme s’il avait voulu en faire du feu ?En songeant aux conséquences de ce testament de douleur, [MASK] était peut-être plus agité que ne l’était son frère au moment où il le traça.–
+
+['la', ',', "l'", 'de', 'une']	Eugénie	; il manquait sans doute un peu de la grâce due à la toilette ; mais, pour les connaisseurs, la non-flexibilité de cette haute taille devait être un charme. [MASK], grande et forte, n’avait donc rien du joli qui plaît aux masses ;
+
+['tout', 'elle', 'qui', 'il', ',']	Charles	Deux mois se passèrent ainsi. Cette vie domestique, jadis si monotone, s’était animée par l’immense intérêt du secret qui liait plus intimement ces trois femmes. Pour elles, sous les planchers grisâtres de cette salle, [MASK] vivait, allait, venait encore.
+
+[',', 'à', 'la', 'de', 'le']	Grandet	Aucun des enseignements de l’amour ne lui manquait. À quelques pas du logis, elle devança son père et l’attendit à la porte après y avoir frappé. Mais [MASK], qui voyait dans la main du notaire un journal encore sous bande, lui avait dit : –
+
+['lui', 'la', 'ma', 'le', 'mon']	Perrottet	car je n’ai pas un rouge liard ici, à moins que [MASK], qui est en retard de son fermage, ne me le paye. Tiens, tiens, je vais l’aller voir.Il prit son chapeau, mit ses gants et sortit.
+
+[',', 'de', 'la', 'jeune', '</s>']	Eugénie	[MASK], qui s’y était attendue, ne laissa percer sur son visage calme aucune des cruelles émotions qui l’agitaient. Elle sut prendre une figure riante pour répondre à ceux qui voulurent lui témoigner de l’intérêt par des regards ou des paroles mélancoliques.
+
+['la', 'le', ',', 'se', 'qui']	Nanon	D’ailleurs le cœur simple, la tête étroite de [MASK] ne pouvaient contenir qu’un sentiment et une idée. Depuis trente-cinq ans, elle se voyait toujours arrivant devant le chantier du père Grandet, pieds nus, en haillons, et entendait toujours le tonnelier lui disant : –
+
+['à', 'de', ',', 'on', 'et']	Charles	Dieu ! mon père est à sa fenêtre, dit-elle en repoussant son cousin qui s’approchait pour l’embrasser.Elle se sauva sous la voûte, [MASK] l’y suivit ; en le voyant, elle se retira au pied de l’escalier et ouvrit la porte battante
+
+['de', 'à', ',', 'TT', "'"]	Eugénie	? Tiens, maman, mettons la table pour son déjeuner. Elle jeta son ouvrage, la mère en fit autant en lui disant : – Tu es folle ! Mais elle se plut à justifier la folie de sa fille en la partageant. [MASK] appela Nanon.–
+
+['elle', ',', 'en', 'Elle', 'et']	Eugénie	[MASK] rougit et resta muette ; mais elle prit le parti d’affecter à l’avenir l’impassible contenance qu’avait su prendre son père.– Eh ! bien, madame, répondit-elle avec ironie, j’ai sans doute l’esprit dans ma poche, je ne comprends pas.
+
+['elle', 'elles', 'eux', 'lui', 'celle-ci']	Eugénie	Ainsi le père et la fille avaient compté chacun leur fortune : lui, pour aller vendre son or ; [MASK], pour jeter le sien dans un océan d’affection. Elle remit les pièces dans la vieille bourse, la prit et remonta sans hésitation.
+
+[',', 'ne', 'est', 'de', "n'"]	Çaaaa	[MASK] s’aappelle dé, dé, déconfiture ?– Oui. Que sa faillite devient imminente, le tribunal de commerce, dont il est justiciable (suivez bien), a la faculté, par un jugement, de nommer, à sa maison de commerce, des liquidateurs.
+
+[',', 'le', 'de', 'se', 'la']	Charles	Aussitôt elle se vêtit, et accourut au petit jour, d’un pied léger, auprès de son cousin qui avait laissé sa porte ouverte. La bougie avait brûlé dans la bobèche du flambeau. [MASK], vaincu par la nature, dormait habillé, assis dans un fauteuil, la tête renversée sur le lit
+
+['monsieur', 'vous', 'Monsieur', 'enfant', 'sire']	Charles	en lui refaisant une boucle, elle lui faisait calculer la vie : elle le féminisait et le matérialisait. Double corruption, mais corruption élégante et fine, de bon goût.– Vous êtes niais, [MASK], lui disait-elle. J’aurai bien de la peine à vous apprendre le monde.
+
+[',', 'les', 'à', "l'", 'en']	Grandet	Puis elles vinrent s’asseoir à leurs places devant la fenêtre et attendirent [MASK] avec cette anxiété qui glace le cœur ou l’échauffe, le serre ou le dilate suivant les caractères, alors que l’on redoute une scène, une punition ;
+
+['Marie', 'la', 'Madame', 'Bernadette', 'madame']	Nanon	N’était-ce pas le seul dieu moderne auquel on ait foi, l’Argent dans toute sa puissance, exprimé par une seule physionomie ? Les doux sentiments de la vie n’occupaient là qu’une place secondaire, ils animaient trois cœurs purs, ceux de [MASK], d’Eugénie et sa mère.
+
+[',', 'le', 'de', 'se', 's']	Eugénie	[MASK] pâlit, et garda la lettre pendant un moment. Elle palpitait trop vivement pour pouvoir la décacheter et la lire. La grande Nanon resta debout, les deux mains sur les hanches, et la joie semblait s’échapper comme une fumée par les crevasses de son brun visage.–
+
+[',', 'le', 'de', 'et', 'on']	Eugénie	[MASK] contemplait son père avec admiration.– Allons, adieu, mon bon des Grassins, tout à vous, et emboisez-moi bien ces gens-là ! Les deux diplomates se donnèrent une poignée de main, l’ancien tonnelier reconduisit le banquier jusqu’à la porte ;
+
+['Il', 'Elle', 'il', 're', 'Re']	Grandet	dit la mère.– Mon père, si votre couteau entame seulement une parcelle de cet or, je me perce de celui-ci. Vous avez déjà rendu ma mère mortellement malade, vous tuerez encore votre fille. Allez maintenant, blessure pour blessure ?[MASK] tint son couteau sur le nécessaire, et regarda sa fille en hésitant.
+
+['moi', 'tout', 'toi', 'la', 'soi-même']	Charles	N’est-ce pas m’occuper de [MASK] ? Adieu, mon frère. Que toutes les bénédictions de Dieu te soient acquises pour la généreuse tutelle que je te confie, et que tu acceptes, je n’en doute pas.
+
+['vie', 'consommation', 'luxe', 'confort', 'famille']	Grandet	Cette luxueuse décoration, si peu en harmonie avec les habitudes de [MASK], avait été comprise dans l’achat de la maison, ainsi que le trumeau, le cartel, le meuble en tapisserie et les encoignures en bois de rose.
+
+[',', 'alement', 'le', 'de', 'trouver']	Charles	Les lointaines espérances qui pour elle commençaient à poindre dans son cœur fleurirent soudain, se réalisèrent et formèrent un faisceau de fleurs qu’elle vit coupées et gisant à terre. Depuis la veille, elle s’attachait à [MASK] par tous les liens de bonheur qui unissent les âmes
+
+['elle', 'une', 'la', "s'", 'il']	Eugénie	Au milieu de la nuit, [MASK], préoccupée de son cousin, crut avoir entendu la plainte d’un mourant, et pour elle ce mourant était Charles : elle l’avait quitté si pâle, si désespéré ! peut-être s’était-il tué.
+
+['Oui', 'Comment', 'Non', 'Pourquoi', 'Alors']	Nanon	– [MASK], les linottes sont-elles à la messe ?– Oui, monsieur.– Allons, haut la patte ! à l’ouvrage, cria-t-il en la chargeant de sacs. En un moment les écus furent transportés dans sa chambre où il s’enferma.
+
+['il', ',', 'et', 'Il', 'qui']	Grandet	[MASK] regardait la porte intérieurement doublée en tôle qu’il avait fait mettre à son cabinet, et se disait : – Quelle idée bizarre a eue mon frère de me léguer son enfant ? Jolie succession ! Je n’ai pas vingt écus à donner.
+
+['ta', ',', 'tu', 'ton', 'te']	Eugénie	[MASK], tu ne te dédiras point, tu es une honnête fille, hein ?– Oh ! mon père ?…Il l’embrassa avec effusion, la serra dans ses bras à l’étouffer.– Va, mon enfant, tu donnes la vie à ton père ;
+
+['maître', 'monsieur', 'ben', 'nous', 'papa']	Nanon	– Je ne le savais point.– Bien. La voiture est solide ?– Ça, notre maître ? ha ! ben, ça porterait trois mille. Qu’est-ce que ça pèse donc vos méchants barils ?– Tiens, dit [MASK], je le savons bien !
+
+['il', 'elle', 'on', 'celui-ci', 'et']	Grandet	Je vais vous montrer le chemin, dit le bonhomme.Au lieu de sortir par la porte de la salle qui donnait sous la voûte, [MASK] fit la cérémonie de passer par le couloir qui séparait la salle de la cuisine.
+
+['il', 'elle', 't-il', 'celui-ci', '-il']	Eugénie	Dans les petites villes, les convenances sont si sévèrement observées, qu’une infraction de ce genre y constitue la plus solennelle des promesses.– Monsieur le président, lui dit [MASK] d’une voix émue quand ils furent seuls, je sais ce qui vous plaît en moi.
+
+["l'", 'la', ',', 'de', 'ce']	Grandet	Ces paroles, confirmées par l’attitude du vigneron, qui se caressait le menton, surprirent étrangement les trois des Grassins, qui pendant le chemin avaient médit tout à loisir de l’avarice de [MASK] en l’accusant presque d’un fratricide.–
+
+['elle', 'Elle', 'il', 'qui', 'je']	Eugénie	Es-tu bête, avec tout ton esprit ?… Laisse-les s’embarquer sur un nous verrons du père Grandet, et tiens-toi tranquille, mon petit : [MASK] n’en sera pas moins ta femme.
+
+['il', 'celui-ci', 'Jean', 'Pierre', 'Charles']	Eugénie	Le jeune homme ne voyait ni n’entendait rien. Plongé dans les larmes, il poussait des plaintes inarticulées. – Comme il aime son père ? dit [MASK] à voix basse.Il était impossible de méconnaître dans l’accent de ces paroles les espérances d’un cœur à son insu passionné.
+
+['elle', 'Rome', 'celle-ci', "s'", 'Paris']	Eugénie	Le lendemain, vers midi, fut signée la déclaration par laquelle [MASK] accomplissait elle-même sa spoliation. Cependant, malgré sa parole, à la fin de la première année, le vieux tonnelier n’avait pas encore donné un sou des cent francs par mois si solennellement promis à sa fille.
+
+['commerce', 'celui', 'vente', 'dépôt', 'bourse']	Roguin	Il faut y tomber. Les banqueroutes réunies de mon agent de change et de [MASK], mon notaire, m’emportent mes dernières ressources et ne me laissent rien. J’ai la douleur de devoir près de quatre millions sans pouvoir offrir plus de vingt-cinq pour cent d’actif.
+
+['...', ',', 'que', "qu'", 'dit']	Grandet	possibilités relatives et sans m’en… m’en… m’engager à quelque chose que je… je… je ne voooou… oudrais pas faire, dit [MASK] en bégayant. Parce que, voyez-vous, monsieur le président me demandait naturellement les frais du voyage.
+
+['il', 'Pierre', 'Jésus', 'Jean', 'celui-ci']	Grandet	montrez-vous chrétien, époux et père.En entendant ces mots, [MASK] s’asseyait près du lit et agissait comme un homme qui, voyant venir une averse, se met tranquillement à l’abri sous une porte cochère : il écoutait silencieusement sa femme, et ne répondait rien.
+
+['tous', 'tout', 'celle-ci', 'chacun', 'femme']	Grandet	Ce mot, dit de temps à autre, formait depuis long-temps une chaîne d’amitié non interrompue, et à laquelle chaque exclamation ajoutait un chaînon. Cette pitié, placée au cœur de [MASK] et prise tout en gré par la vieille fille, avait je ne sais quoi d’horrible.
+
+[',', 'de', 'la', 'le', 'les']	Détale	Si tu veux que je te soigne, mets une bride à ta margoulette, dit le bonhomme au facteur en ouvrant sa porte.– Ah ! le vieux renard, je le croyais sourd, pensa le facteur ; il paraît que quand il fait froid il entend.– Voilà vingt sous pour tes étrennes, et motus ! [MASK]
+
+['...', 'non', 'Ah', 'Monsieur', 'E']	Charles	Ah ! [MASK], ce n’est pas bien, dit-elle d’un accent peu grondeur.– Ne sommes-nous pas mariés, répondit-il ; j’ai ta parole, prends la mienne.– À toi, pour jamais ! fut dit deux fois de part et d’autre.
+
+[',', 'de', 'à', 'le', 'un']	Nanon	[MASK], tenez, emportez, dit-elle.Quand elle regarda son cousin, elle était bien rouge encore, mais au moins ses regards purent mentir et ne pas peindre la joie excessive qui lui inondait le cœur ;
+
+['çà', 'dame', 'dit-elle', 'non', 'oui']	Nanon	Ne voilà-t-il pas que vous ne m’avez aveint que six morceaux de sucre, m’en faut huit.– Ha ! çà, [MASK], je ne t’ai jamais vue comme ça. Qu’est-ce qui te passe donc par la tête ? Es-tu la maîtresse ici ?
+
+['ta', ',', 'te', 'la', 'tu']	Saumur.–	Elle aime son cousin, elle l’épousera si elle veut, elle lui gardera le petit coffre. Mais vis long-temps, ma pauvre femme. Allons, remue donc ! Écoute, tu auras le plus beau reposoir qui se soit jamais fait à [MASK]
+
+['monsieur', 'Monsieur', 'madame', 'sire', 'dit-il']	Eugénie	Ma fille, monsieur, rendez-moi ma fille.– Je décampe, dit-il. Ma maison n’est pas tenable, la mère et la fille raisonnent et parlent comme si… Brooouh ! Pouah ! Vous m’avez donné de cruelles étrennes, [MASK], cria-t-il.
+
+['Il', 'il', 'Elle', 'elle', '.Il']	Charles	Ah ! si tu savais ce que mon père a dit ![MASK] se retourna, aperçut sa tante et sa cousine.– J’ai perdu mon père, mon pauvre père ! S’il m’avait confié le secret de son malheur, nous aurions travaillé tous deux à le réparer.
+
+['</s>', "c'", "C'", 'on', '.']	Charles	La vie est une suite de combinaisons, et il faut les étudier, les suivre, pour arriver à se maintenir toujours en bonne position. [MASK] était un homme trop à la mode, il avait été trop constamment heureux par ses parents, trop adulé par le monde pour avoir de grands sentiments.
+
+['non', 'le', 'bien', 'oui', 'que']	Grandet	demanda-t-elle avec la naïveté d’un enfant qui croit pouvoir trouver promptement ce qu’il désire.– Deux millions ? dit [MASK], mais c’est deux millions de pièces de vingt sous, et il faut cinq pièces de vingt sous pour faire cinq francs.– Mon Dieu ! mon Dieu
+
+[',', 'personne', 'on', 'ne', 'le']	Charles	Permettez-moi de me retirer. Je suis obligé de m’occuper d’une longue et triste correspondance. – Faites, mon neveu.Lorsque après son départ le bonhomme put présumer que [MASK] ne pouvait rien entendre, et devait être plongé dans ses écritures, il regarda sournoisement sa femme.–
+
+[',', 'la', 'que', 'et', 'le']	Charles	– Elle avait, répondit le président d’un air goguenard, près de dix-neuf millions, il y a quatre jours ; mais elle n’en a plus que dix-sept aujourd’hui.[MASK] regarda le président d’un air hébété.– Dix-sept… mil…
+

@@ -1,0 +1,200 @@
+['-', 'et', 'non', 'mais', 'monsieur']	Émeri	Le tireur ne pouvait pas choisir ce passage. — Regarde la vitre, [MASK]. Pas un morceau de verre n’est resté accroché au bois. Elle a été soigneusement prédécoupée, de telle sorte qu’une simple poussée du doigt suffisait à la faire tomber.
+
+['-', 'je', 'si', 'tu', 'mais']	Mo	— Mais bien sûr que si, [MASK]. Cesse de nous faire perdre du temps. Je peux te proposer deux ans de prison au lieu de vingt-deux. Tu prends ? — Comment cela ? — Tu vas filer d’ici et tu vas te planquer.
+
+['elle', 'il', 'on', "j'", 'celle-ci']	Adamsberg	L’affaire n’avait pas l’air de passionner la vieille femme mais elle souriait beaucoup pendant la lecture en agitant la tête et les doigts, comme si elle entendait une chanson et non pas une histoire. Aujourd’hui, [MASK] avait volontairement changé de volume.
+
+['il', 'on', 'elle', 'et', 'je']	Antonin	Au bout de la table, [MASK] les regardait approcher avec appréhension. Brun et fluet comme son frère Martin mais mieux proportionné, les bras serrés sur son ventre creux en posture de protection. C’était le plus jeune, celui qui était en argile.
+
+['</s>', 'il', 'elle', 'et', ',']	Adamsberg	S’il y avait une idée là-dedans, elle devait être engloutie très profondément, coincée sous un rocher marin, masquée par des bouquets d’algues. Un jour ou l’autre, elle se décrocherait, remonterait à la surface en vacillant. [MASK] ne connaissait pas d’autre moyen de réfléchir.
+
+['babel', 'noël', 'liste', 'jacob', 'lit']	Danglard	Toutes les bibliothèques du monde sont entrées dans la tête de [MASK], et il reste encore beaucoup de place. C’est quelque chose de colossal, d’inouï, c’est quelque chose que je ne peux pas te décrire. — Et si cela ne sert pas à première vue
+
+['lui', 'dieu', 'elle', 'toi', 'moi']	Émeri	C’est [MASK] aussi qui l’a fait basculer par la fenêtre. Mais c’est fini, dit-il en se tournant vers la mère, dont le visage semblait se redresser, comme si, ses actes ayant été énoncés et même défendus, elle pouvait sortir un peu de sa stupeur.
+
+['</s>', '-', '(', '_', 'il']	Danglard	Et que les conséquences réelles d’une telle vision pouvaient être effrayantes. Il se resservit un demi-verre et vola une cigarette au paquet de son fils. — C’est une légende spéciale d’Ordebec ? demanda-t-il. [MASK] secoua la tête. — Non.
+
+['...', '....', 'que', 'moi', 'des']	Danglard	— Je suis en imprégnation, dit-il en montrant une pile de dossiers. Je regarde ce que vous avez bricolé en mon absence. Je trouve que le chat a grossi, et [MASK] aussi. Il va mieux. — Comment veux-tu qu’il ne grossisse pas
+
+['auguste', 'hitler', 'henri', 'alexandre', 'antoine']	Ernest	— Au contraire, j’aime bien la compagnie. Mais je ne trotte pas vite, on y sera en une demi-heure en coupant par le bois. Avant, du vivant d’[MASK], j’avais transformé la ferme en auberge. On faisait la nuit et le petit déjeuner.
+
+['la', 'son', "l'", 'l', ':']	Danglard	Il frotta son cou en composant le numéro de [MASK]. Il était 11 heures et le commandant devait être à son poste. Trop tôt pour être déjà opérationnel, mais présent. — Pourquoi êtes-vous encore là-bas ?
+
+['</s>', 'il', 'elle', '-', '--il']	Veyrenc	Elle foncera plus vite et plus sûrement. Elle peut rattraper le gars s’il commence à faire le plongeon. C’est elle qui aura la corde, en cas de besoin. [MASK] alluma une cigarette, secouant la tête sans marquer de dépit.
+
+['retraite', 'repos', 'dieu', 'marthe', 'maître']	Léo	Il prit la route forestière pour gagner la maison de [MASK], ouvrit la porte de la chambre qu’il considérait comme sienne. S’enfoncer dans le creux du matelas de laine lui parut une priorité évidente. Il déposa le docile Hellebaud sur l’appui de la fenêtre et se lova sur le lit.
+
+['jusque', 'ça', 'pierre', ',', 'comme']	Hippo	— Nous sommes trois à pouvoir témoigner. Tu as tenté de balancer [MASK] dans le puits. — Parce que c’est un assassin, un diable. Je te l’ai toujours dit. Il m’a menacé, je me suis défendu.
+
+['"', 'tout', ')', 'cas', 'fois']	Herbier	Hormis [MASK], il le fait à la manière ancienne, en suivant plus ou moins le rite, pour renforcer la crainte populaire. C’est assez le genre de gars à appartenir à un club d’arbalétriers triés sur le volet, non ?
+
+['arthur', 'hector', 'hamlet', 'albert', 'henri']	Herbier	Peut-être simplement parce qu’il avait conservé plusieurs dents de lait, ce qui rendait la ligne de ses crocs très irrégulière. Qu’on vous dise ce qu’on faisait le soir de la mort d’[MASK] ? Quand était-ce au fait ? — Le 27 juillet.
+
+['il', 'elle', 'ulrich', 'yumi', 'harry']	Adamsberg	Je me demande ce qu’il y a dans les chiures d’oiseau. — De l’acide ou quelque chose comme ça. On fait quoi ? Je prends le boulot ou non ? Au milieu de la nuit, [MASK] se réveilla et descendit dans la cuisine.
+
+['dit-il', 'maintenant', 'dit-elle', 'monsieur', 'regarde']	Louis	— J’ai surtout pensé qu’avec l’obstacle de la vitre, n’importe quel tir aurait forcément dévié. À balle ou à flèche. Le résultat était trop incertain pour qu’un tueur ose tirer par là. Mais regarde bien cette vitre, [MASK].
+
+['</s>', '-', 'il', '"', '(']	Mercadet	Un détraqué, un flambeur, il aimait claquer en un jour l’extraction quotidienne d’un puits de pétrole. [MASK] secoua la tête en soupirant. — Et on ne sait même pas si c’est lui qui conduisait la voiture, conclut-il en se levant. —
+
+["c'", 'et', 'le', 'avant', 'la']	Émeri	C’est pour demain. Des hyènes, des fils de pute. — On l’avait prévu, [MASK]. Suspension ou mutation ? — Suspension provisoire en attente du rapport. — Oui, le rapport. — Des hyènes, des fils de pute, répéta le capitaine.
+
+['celui-ci', 'celle-ci', 'base', 'départ', 'chacun']	Danglard	? — C’est certain. Et la description de [MASK] était précise. Taille deux centimètres, teinte violette, corps en ovale allongé, et comme deux antennes sur la partie supérieure. — Un crustacé, quoi. — Oui.
+
+['il', "s'", 'celui-ci', 'chacun', 'philippe']	Adamsberg	Beaucoup de mûres étaient déjà à point – très en avance en raison de l’anormale chaleur –, et [MASK] en cueillit tout en s’engageant dans le sentier. Il avançait lentement, parcourant du regard les bas-côtés, mangeant sans empressement les fruits qu’il tenait dans sa main.
+
+['mr', 'm', 'mm', 'mrs', 'b']	Adamsberg	? demanda [MASK]. — Si tes hommes viennent prêter main-forte, on pourrait monter une surveillance à six ou sept pendant une semaine. Tu aurais cela sous la main ? — J’ai une lieutenant qui vaut dix hommes, mais elle est en plongée.
+
+['</s>', 'il', 'elle', 'chacun', '-']	Adamsberg	Il ne bougera pas de là avant qu’on ait emmené sa maîtresse. Et encore. — Elle a dû avoir un malaise, proposa inutilement le gros brigadier, ou bien elle s’est pris les pieds dans la chaise. Et elle sera tombée. [MASK] secoua la tête, renonçant à discuter.
+
+[',', '"', 'le', 'et', 'la']	Danglard	Le processus d’habituation serait long. Pour l’heure, on allait vers un duel entre les deux hommes, et plus exactement – et c’en était une des causes –, entre les deux poids lourds intellectuels de la Brigade. — Mais passons, reprit [MASK].
+
+['m', 'jésus', 'dieu', 'jésus-christ', 'shakespeare']	Léo	— Tu auras peut-être des empreintes dessus. Il n’y a pas eu de pluie pendant des semaines. — Mais ce ne sera pas une preuve. S’asseoir sur un tronc d’arbre et bouffer du sucre n’a rien de criminel. — On a les paroles de [MASK].
+
+['il', 'elle', 'on', '-', ',']	Hippo	— Oui, mais personne ne le fait. — Elle a quelque chose de spécial, cette hache ? Quelque chose qui permet de la reconnaître ? — [MASK] a gravé un V sur le manche. — Vous pensez que quelqu’un s’en est servi pour vous faire accuser
+
+['père', 'le', 'frère', 'moi', 'lui']	Denis	— Rien. Ce sont les créatures elles-mêmes qui t’intéressaient. Mais si leur filiation venait à s’apprendre, tu perdais le soutien de ton complice, [MASK], qui n’aurait plus eu aucun avantage à te couvrir. Et tu perdais donc ton alibi.
+
+['.', 'le', '"', '</s>', 'la']	Louis	Pas tant que cela, [MASK]. D’après ce qui dépasse de la plaie, je parie pour un carreau pointe chasse. Très contemporain. Léger, solide et précis, muni d’ailettes en lame de rasoir qui provoquent une hémorragie. La mort à coup sûr.
+
+['hélène', 'hermione', 'agnès', 'henriette', 'agathe']	Adamsberg	Il avait aperçu le regard d’[MASK] et vu l’éclat précis dans ses prunelles. Éclat qui portait à longue distance et auquel il essayait d’échapper. Éclat rare qui n’apparaissait chez le commissaire qu’en état de colère, d’intérêt puissant, ou d’irruption d’idée.
+
+['je', 'vous', 'dieu', 'personne', 'google']	Danglard	Je viens avec un sac, j’explique que j’ai oublié une veste à l’étage, ou quoi que ce soit d’autre, et j’avise. Impréparation, culot et confiance, tous moyens que [MASK] n’utilisait jamais. — Quel prétexte avez-vous donné pour votre départ
+
+['il', 'on', 'se', 'elle', 'je']	Adamsberg	Parole qui dirait, ou non, le nom du tueur d’Ordebec. Sans ce témoignage, [MASK] doutait que le juge poursuive l’inculpation du capitaine Émeri. Le magistrat n’allait pas jouer un tel coup sur six papiers de sucre, qui s’étaient en effet révélés vierges de toute empreinte.
+
+['tout', 'elle', 't-elle', 't-il', 'il']	Lucio	. Il y a plein d’azote dans l’urine, il n’y a pas mieux pour le compost. Pourquoi tu crois que je pisse sous l’arbre ? L’azote, répéta [MASK] en dégustant le mot. Tu savais pas ça ?
+
+['il', 'tu', 'on', 'paris', "t'"]	Davout	« Te laisseras-tu dévorer par ces gens-là ? », comme aurait dit l’Empereur. Non, certes non. Mais à la condition de préparer la moindre anfractuosité de terrain. Il te faut un maréchal Ney qui vienne prêter main forte quand [MASK] est menacé sur son flanc droit.
+
+[',', ';', ':', '(', 'cela']	Lalonde	? — J’ai besoin de temps. Faites vos prélèvements le plus tard possible, puis annoncez qu’un biais d’expérience a bousillé l’analyse. Il faudra recommencer demain. — Commissaire, dit [MASK] après un silence, vous avez conscience de ce que vous me demandez
+
+['</s>', 'il', 'elle', 'et', 'hitler']	Merlan	— Ça n’existe pas, dit le médecin avec dédain. On verra cela plus tard, le cas de votre vieille est autrement tangent. Il fit reculer les quatre gardiens jusqu’au mur, leur demandant le silence. [MASK] aggravait son état de drannoc en affichant une mine suspicieuse et sciemment amusée.
+
+[',', 'celui', 'et', '-', 'ce']	Danglard	— Ah, dit [MASK] qui s’anima réellement, comme chaque fois que ses connaissances étaient sollicitées, comme chaque fois qu’il pouvait s’immerger puis se rouler d’aise dans les tréfonds de son savoir. Ah, l’Armée furieuse. Pas curieuse. — Pardon.
+
+['celle-ci', 'elle', 'paris', 'cela', 'bruxelles']	Lina	Il croit qu’on a changé, il croit que les gens sont raisonnables. — On cherchera d’abord l’assassin d’Herbier. Et les deux autres sont toujours en vie. Si bien que [MASK] n’est pas menacée pour l’instant.
+
+["c'", 'c', 'sam', 'dsk', 'chris']	Bruno	— Je n’ai pas mieux. — Moi si. On remonte chez moi pour un dernier verre, ça paraît naturel. De là, mon frère vous emmène. Vous savez que [MASK] est un mauvais sujet ? Très connu de tous les flics de la zone ?
+
+['nous', 'moi', 'eux', 'certains', 'vous']	Adamsberg	Sauf, chez [MASK], quand une flammèche y brillait soudainement, comme le fait parfois le soleil sur les algues brunes, à marée basse. — Cette Armée furieuse trimballe toujours avec elle quelques hommes ou femmes vivants, qui hurlent et se lamentent dans les souffrances et le feu.
+
+['ça', 'clair', 'cela', 'luke', 'joey']	Christian	Il devait donc se débarrasser du morceau pollué. Et de la femme de chambre, qu’il a congédiée sur-le-champ. — Il faudrait qu’elle témoigne. — Sur cela et sur les cheveux coupés. Elle n’est pas la seule à avoir vu [MASK] ce soir-là.
+
+['il', 'elle', 'chacun', '</s>', 'et']	Émeri	Leur père et lui, c’était une telle paire de brutes que c’était à qui dépasserait l’autre en sauvagerie. [MASK] reprit sa marche, les mains dans les poches, déformant l’allure de son uniforme. — Amis ? — Les deux doigts de la main.
+
+['.', ':', ',', '!', '"']	Adamsberg	Le double cône en caoutchouc qu’on fait rouler sur une ficelle avec deux baguettes, ajouta-t-il en imitant le geste du joueur. — D’accord, le diabolo, confirma [MASK]. Non, je ne joue pas au diabolo. Ni au yo-yo.
+
+[':', 'son', 'lui', 'le', '.']	Flemmard	— Son vrai nom, c’est [MASK]. Depuis qu’il est tout bébé, c’est un tire-au-flanc. Il y a toujours des gens pour dire qu’à part couchailler partout, il ne sait rien faire d’autre. Et moi je dis que ça vaut mieux que de mordre tout le monde.
+
+['lui', 'lui-même', 'celui', 'moi', 'elle']	Émeri	C’est [MASK] qui les siffla trois quarts d’heure plus tard, les regroupant à quelques mètres de la lisière opposée du bois. Il avait achevé de boutonner sa veste et les attendait, à nouveau très droit, devant un carré de terre fraîchement remué, mal recouvert de feuilles éparses.
+
+['hier', 'maman', 'alice', 'jeanne', 'marie']	Adamsberg	Puis la femme était morte durant la nuit. D’un arrêt cardiaque, avait précisé le commissaire du 18 e arrondissement au téléphone. Cloué au lit, il avait appelé [MASK] pour le remplacer. Rends-moi ce service, tu en as pour une petite heure, une routine du matin.
+
+['il', 'elle', 'qui', 'et', 'lui-même']	Veyrenc	Demain, il apporterait fièrement son tribut au commissaire. De cela, [MASK] n’avait rien à faire. Pas plus qu’il ne s’irritait du projet qui agitait la tête ordinairement bien faite du commandant. Mais dans une enquête où se succédaient de tels massacres, on ne va pas seul.
+
+['-', '</s>', '"', '...', '(']	Danglard	— Non. — Bravo, commandant. Pourquoi ? [MASK] mangea plusieurs fois l’intérieur de ses joues avant de se décider à répondre. — Je ne voulais pas qu’on sache que j’avais gardé un message pour moi. Que j’avais agi avec préméditation.
+
+['lui', 'moi', 'ez-le', 'là', 'monsieur']	Mercadet	[MASK], passez-lui les menottes, et allez vous reposer là-haut. C’est-à-dire dans la petite pièce occupée par le distributeur de boissons et l’écuelle du chat, où le lieutenant avait installé des coussins au sol pour accueillir ses siestes cycliques.
+
+['t-il', '.', '?', '!', 'moi']	Mo	Tu prends ? — Oui, souffla [MASK]. — Attention. Il est possible qu’ils élèvent un mur de défense si haut que je ne puisse jamais mettre la main sur l’assassin. En ce cas, tu devras filer plus loin, traverser l’océan.
+
+['antoine', 'régis', 'mathieu', 'maxime', 'paul']	Lina	Le Seigneur Hellequin, ses servants Hippo et [MASK], sa victime Régis, tout cela a du sens pour toi. En détruisant les saisis, tu te conciliais par le même coup les grâces du Seigneur. Ce qui n’est pas rien. Car tu craignais d’être la quatrième victime.
+
+['mais', 'non', 'maintenant', 'si', 'alors']	Lina	Il ne vaut pas la peine qu’on se donne du mal pour lui. — Ce n’est pas mon problème, [MASK], vous le savez. — Vous ne comprenez pas. Il va mourir, quoi que vous fassiez. Partez avant. — Quand ?
+
+['</s>', 'il', 'je', 'elle', 'monsieur']	Adamsberg	La gendarmerie est juste derrière le square. Vous laisserez votre bol, je débarrasserai. [MASK] parcourut un petit kilomètre à travers la campagne et se présenta à l’accueil de la gendarmerie, curieusement repeinte en jaune vif comme s’il s’agissait d’une maison de vacances.
+
+['essayé', 'mais', 'vainement', 'non', 'échoué']	Louis	— Tu parles du chat. Si on ne le portait pas à son écuelle, il se déciderait peut-être à marcher. — On a essayé, [MASK]. Il ne s’est plus alimenté, et on a interrompu l’expérience après quatre jours. Il marche très bien.
+
+['jésus', 'pierre', 'jean', 'daniel', 'césar']	Denis	Tu as appris la vérité à [MASK], ces nouvelles lignes ajoutées au testament par son père. Tu lui as montré son abîme. C’est un faible et tu le sais. Mais un homme comme le vicomte ne se décide pas d’un seul coup.
+
+['-', 'il', '</s>', 'qui', 'on']	Hippo	— Il a retourné ses six doigts contre vous. — Exactement. Sa première victime a été ce salaud de Régis. [MASK] l’a menacé, puis il a dirigé ses deux mains vers lui, avec une grande gravité.
+
+['georges', 'robert', 'john', 'tom', 'joe']	Adamsberg	Un coup de tonnerre ébranla soudain les murs du restaurant. — Nuages à l’ouest, murmura [MASK] en levant sa fourchette. Les deux hommes débutèrent leur veillée nocturne sous une pluie battante et dans le fracas de la foudre.
+
+['jacques', 'paul', 'jean', 'rodolphe', 'julien']	Lucio	— C’est quoi ? — Une sorte de brioche spéciale. — C’est précis, dit [MASK] en connaisseur. Mais les piqûres, c’est toujours précis. Tu ferais bien de te mettre en quête de ce kouglof. Ça devrait faire l’affaire.
+
+['il', 'elle', 'obama', 'hitler', 'on']	Estalère	Tous ses collègues considéraient plus ou moins qu’[MASK] ne tenait pas la route, voire qu’il était un crétin complet. Il écarquillait ses très grands yeux verts sur le monde, comme s’il s’efforçait de n’en rien manquer, mais il passait constamment à côté des évidences les plus manifestes.
+
+['elles', 'elle', 'il', 'on', 'ils']	Antonin	Et voici mon adjoint, le commandant Danglard. Il s’aperçut ensuite que toutes les chaises étaient renforcées à la corde, sans doute pour éviter qu’elles ne cassent et qu’[MASK] ne tombe. Même cause sûrement pour les boudins de caoutchouc qui étaient cloués sur les cadres des portes.
+
+['il', 'celui-ci', 'ii', 'lui', 'elle']	Christian	Voilà. Entre le moment où [MASK] a quitté la soirée vers minuit et celui où il est rentré chez lui vers 2 heures, il s’est changé. C’est très bien fait, c’est à peine perceptible, mais la chose est là.
+
+['cela', 'ça', 'tout', 'ce', 'çà']	Christophe	— Comment s’était déroulée la soirée précédant l’incendie, au moins cela. Quelle était l’humeur des deux fils. — Normale, et même très gaie, si tant est que [MASK] peut être gai. Le champagne avait coulé, et de la meilleure marque.
+
+['lui', 'me', 'il', 'on', 'qui']	Adamsberg	[MASK] rétorquait que les sensations étaient des faits, des éléments matériels qui avaient autant de valeur qu’une analyse de laboratoire. Que le cerveau était le plus gigantesque des labos, parfaitement capable de sérier et d’analyser les données reçues, comme par exemple un regard, et d’en extraire des résultats quasi certains.
+
+['jeanne', 'celui-ci', 'alice', 'jacques', 'catherine']	Adamsberg	C’est arrivé juste deux jours après qu’une hache fende le crâne de mon père en deux. Je prendrai une île flottante, dit-elle à la serveuse, avec beaucoup d’amandes émincées. — Une hache ? dit [MASK], un peu hébété. C’est comme cela que votre père est mort ?
+
+['il', 'un', 'elle', 'une', 'on']	Adamsberg	C’est en ces moments qu’[MASK], presque inaccessible à l’anxiété ou à toute émotion vive, se tendait comme une corde, serrant les poings, s’efforçant de saisir ce qu’il avait vu sans le voir, ou pensé sans le penser.
+
+['hein', 'non', 'toi', 'maintenant', 'pourquoi']	Zerk	— Une sorte de colosse puant local lui est tombé dessus, un nommé Hellequin. Ne t’en fais pas, il n’a rien après toi. Pourquoi as-tu acheté des crayons de couleur, [MASK] ? — S’il veut dessiner. — Bon.
+
+['celui-ci', 'robert', 'georges', 'julien', 'maurice']	Danglard	Pour sauter dans un avion pour un oui pour un non. Donc il avait un rasoir. — Le juge refusera d’entendre, dit [MASK] en secouant la tête. Les murailles sont impassables, le système est clos. — On entrera donc par le système.
+
+['celui-ci', 'paul', 'jean', 'william', 'sam']	Danglard	Il avait fait ce qu’il y avait à faire et il ne s’adressait aucun reproche. Un peu de grossièreté dans la manière d’agir mais l’urgence ne lui avait pas laissé le choix. L’accès de colère de [MASK] le surprenait.
+
+['</s>', '"', '_', "--c'", "c'"]	Martin	Je suis restée tard au cabinet pour finir un dossier. On avait un gros mémoire à rendre pour le 30 du mois. Je suis rentrée pour faire à dîner. [MASK] est passé au bureau dans l’après-midi pour déposer du miel. Il avait ses paniers.
+
+['</s>', 'il', '-', '--il', 'elle']	Adamsberg	— Ceux qui voient l’Armée furieuse, commissaire, ne sont pas des êtres bénéfiques et solaires. Ce sont des âmes sombres et néfastes. Irradié ou pas, ne l’oubliez pas. [MASK] ne répondit pas, et sortit à nouveau sa serviette en papier.
+
+['-t-il', 't-il', 't-elle', '-t-elle', 'il']	Lina	. — Je ne sais rien faire à la hâte. Même quand je cours, je vais lentement. — La preuve, coupa [MASK], c’est que la première fois que j’ai vu passer l’Armée, personne ne m’en avait jamais parlé.
+
+['mais', 'non', '"', '-', 'tout']	Danglard	— Depuis le temps, tout a dû être nettoyé. — Pas forcément, [MASK]. C’est très ardu d’ôter tous les petits cheveux coupés, surtout sur le tissu d’un appuie-tête, si on a la chance que l’intérieur de la voiture soit en tissu.
+
+['une', 'un', 'aussi', 'la', 'des']	Mo	Et, après la nouvelle, il avait peut-être souhaité une coupe plus austère pour porter le deuil de son père. Peut-être. Mais il y avait [MASK], dont les cheveux grillaient parfois sous la chaleur de ses incendies.
+
+['moi', 'toi', 'lui', 'rêve', 'nuit']	Léo	Comme tu l’as entendu, je ne suis pas d’humeur à laisser cavaler les meurtriers. L’image de [MASK] passa devant ses yeux, déclenchant un picotement dans la nuque. Il passa la main sur son cou et envoya la boule vers le sol.
+
+['-', '(', ',', '...', '"']	Hippo	— Pourquoi ? demanda [MASK] en haussant les épaules. — Les trois sont morts à présent. Votre mère a raison d’avoir peur pour vous. J’ai vu une inscription neuve sur le mur de l’entrepôt en venant ici : Mort aux V. —
+
+['</s>', 'lisez', 'lecteur', 'voir', 'voyez']	Léo	— Oui. — Que s’est-il passé ? Avec le sucre ? Car c’est bien ce que vous m’avez dit, [MASK] : Eylau – du nom de la bataille. Flem, et sucre. — Je ne m’en souviens pas. Quand était-ce
+
+[',', 'et', 'le', 'par', 'pour']	Martin	Et c’est vrai, j’ai besoin de savoir où vous étiez. Les quatre frères et sœur se regardèrent comme si on leur avait posé une question imbécile. — Mais qu’est-ce que ça prouvera ? demanda [MASK]. Si on vous ment, vous en ferez quoi
+
+['et', 'par', 'pourquoi', 'mais', "c'"]	René	— Quatre-vingt-huit ans. — Bien. Je vais devoir lui faire un premier soin de quarante-cinq minutes environ. Puis un second, plus court, vers 17 heures. C’est possible, [MASK] ? demanda-t-il en se tournant vers le gardien-chef.
+
+['et', ',', ':', 'au', 'ou']	Zerk	Pour une revue, disons, suédoise. Il faut trouver une explication à tes absences. À moins que tu ne penses à mieux ? — Non, dit simplement [MASK]. — Qu’est-ce que tu pourrais bien photographier ? — Des paysages ? Des églises ?
+
+['on', 'il', 'elle', 'qui', 'maman']	Émeri	Le soleil aussi, mais il faut faire attention à la dessiccation. — [MASK] m’en a parlé. Cela fait longtemps que vous avez ce problème d’argile ? — Depuis mes six ans. — Cela touche seulement les muscles ou également les ligaments, les nerfs ?
+
+['y', 'sarkozy', 'charlie', 'donc', 'obama']	Christian	— Et pourquoi [MASK] aurait-il eu un rasoir sur lui ? — Ces types ont toujours un sac de voyage prêt dans leur coffre. Pour sauter dans un avion pour un oui pour un non. Donc il avait un rasoir.
+
+['</s>', 'il', 'elle', '"', '--il']	Adamsberg	Il est généralement contrefait, tordu, recroquevillé, sans parler de l’ongle, qui est très amoindri. À présent que ça a doré sur une face, tu peux retourner les morceaux. [MASK] s’appuya au chambranle de la porte et regarda son fils exécuter les consignes du commandant.
+
+['il', "c'", 'commissaire', 'qui', 'tout']	Valleray	— Les médecins ne peuvent pas diagnostiquer sans symptômes et les flics ne peuvent pas le faire sans indices. Votre assassin est un être asymptomatique. Il ne laisse pas une trace, il passe comme un spectre. Pas normal, commissaire, pas normal. [MASK] est de mon avis.
+
+[',', 'un', 'le', 'jacques', 'henri']	Antonin	À nouveau, des sourires éclairèrent les visages de la fratrie, comme si cette triste affaire du sixième doigt les amusait profondément. — Raconte, demanda [MASK], joyeux à la perspective d’entendre à nouveau cette bonne histoire.
+
+['</s>', '"', 'il', 'elle', 'on']	Retancourt	Homicide involontaire, il ne va pas s’en tirer avec six mois cette fois. Ils ont lancé l’enquête mais ils veulent, comment dire, votre orientation. [MASK] avait appuyé sur le mot « orientation » avec un semblant d’ironie.
+
+['lui-même', 'lui', 'pascal', 'dieu', 'rodolphe']	Adamsberg	— Merveilleux contexte, apprécia le médecin en se frottant les mains, et ce geste rappela à [MASK] le soir où il avait choisi pour lui un excellent vin. — La vieille dame figurait parmi les saisis ? — Non, on suppose qu’elle savait quelque chose.
+
+['</s>', 'on', 'elle', '"', 'il']	Lina	Elle dit que l’essentiel, c’est de la repérer au moment où elle bouge. Et pas quand tout explose ensuite. Et pour cela, elle est douée, on doit le reconnaître. [MASK] voit passer l’Armée furieuse. C’est l’aile de papillon.
+
+['personne', 'qui', '</s>', 'il', 'on']	Estalère	Regarde l’espace. Je peux à peine passer mon bras. Avec de la chance, le tireur devait se poster à moins de cinq mètres pour réussir un coup pareil, sans buter contre le barreau. [MASK] l’aurait vu.
+
+['a', 'il', 'me', ',', 'nous']	Momo	[MASK] dit qu’il y en aura, car il les a manipulées. Soi-disant parce qu’il a trouvé ce sac dans son placard et qu’il a regardé de quoi il s’agissait. — Elles sont à sa taille ? — Oui. Du 43.
+
+['lui', 'celui-ci', 'malade', 'jeanne', 'jacques']	Léo	Selon le même procédé, le comte de Valleray avait fait revenir l’ostéopathe au chevet de [MASK] au jour convenu. Le médecin officiait depuis vingt minutes dans la chambre, seulement accompagné du Dr Merlan qui ne voulait pas en perdre une miette, et du gardien René.
+
+['cela', 'ça', 'je', 'oui', 'ceci']	Mo	? — J’essaie de te convaincre qu’ils imaginent quelque chose. — Que tu crois qu’ils imaginent. — Par exemple que [MASK] a disparu de manière un peu magique. Que trop de pigeons se sont envolés.
+
+[',', 'il', '"', '-', 'encore']	Adamsberg	Pas en perdant connaissance sur son lit. Il a titubé vers la fenêtre, il s’est penché pour vomir et il est tombé. — Bien, dit [MASK], sans relever le reproche du capitaine. Comment as-tu fait pour arracher le testament au comte ?
+
+['le', 'la', 't-il', 'jean', 'paul']	Zerk	— J’ai changé l’ampoule de la cuisine, ajouta [MASK]. Celle de l’escalier ne marche pas non plus. Je la remplace aussi ? — Aussi, mais ne mets pas une lumière trop forte. Je n’aime pas quand on voit tout. —
+
+['ça', ',', 'papa', 'sam', 'ben']	Momo	Qu’est-ce que fout [MASK] en interrogatoire ? — On l’a cueilli ce matin. L’essence utilisée peut correspondre à celle qu’il emploie. — Exactement ? — Non, pas assez d’huile. Mais c’est bien de l’essence pour mobylette.
+
+[',', 'secours', ';', '...', ':']	Adamsberg	Il lui fallait de l’aide. Il se relevait en sueur pour appeler [MASK] quand il entendit le sifflement caractéristique d’un train qui s’avance au loin à grande vitesse. Affolé, il vit arriver sur sa gauche la masse bruyante de la machine, lancée dans la ligne droite.
+
+['ça', 'sarkozy', 'fillon', 'on', 'tu']	Lina	C’est pour ça que je dis que [MASK] aurait gagné à se taire. Mais il y a toujours ce problème avec les passeurs. Ils se sentent obligés de parler, pour donner une chance aux saisis. Vous comprenez ce que sont les « saisis », je suppose.
+
+['lui', 'paris', 'fillon', 'macron', 'bordeaux']	Denis	— J’ai le papier, dit le capitaine d’une voix dure. — Quel papier ? — Mais ton foutu testament, nom de Dieu. D’accord, les deux gosses Vendermot héritent, chacun un tiers. Seul avantage pour [MASK], il garde le château.
+
+['elle', 'il', 'frère', 'sœur', ',']	Adamsberg	[MASK] le regarda faire, il secouait une des robes de sa sœur pour en ôter les plis, avant de la suspendre avec minutie. Hors de question bien sûr de lui annoncer de but en blanc sa nouvelle parenté.
+
+['tous', 'israël', 'moi', 'paris', 'hollande']	Lina	— Et je n’ai pas envie qu’il arrive la même chose à [MASK]. Soi-disant les temps ont évolué. Cela veut simplement dire qu’on se fait plus discrets. Cela veut dire qu’on ne fera pas ça avec des fourches et du feu, mais on le fera d’une autre manière.
+
+['.', 'je', 'il', 't-il', 'elle']	Émeri	— J’étais passé prendre l’air. J’ai mangé des mûres. — À d’autres. C’est ton affaire, affirma [MASK]. Et si c’est toi qui la conduis, je pourrai t’aider en sous-main, et tu ne me piétineras pas.
+

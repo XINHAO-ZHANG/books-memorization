@@ -1,0 +1,200 @@
+[',', 'assis', 'posés', 'le', 'se']	Quaterquem	mais votre père était matelot, et votre grand-père aussi ? — C'étaient de très honnêtes gens, répliqua fièrement [MASK], et qui ont servi leur patrie avec courage. — Je ne vous blâme pas, dit l'Anglais, d'être fier de leur nom ;
+
+['on', 'de', 'se', 'il', ',']	Brancas	Le soir même, vers six heures, [MASK] reçut un billet anonyme ainsi conçu : « On vous trompe. La personne que vous aimez en aime un autre, et tous les soirs, à onze heures, le reçoit dans sa chambre. Vous pouvez vous en assurer vous-même,
+
+['que', ':', ',', 'la', 'tout']	Audinet	— Elle annonce un naturel pervers. — Tant pis, car c'est un assez joli garçon. Est-ce que vous êtes physiologiste, par hasard ? — Je le suis. — Et la physiologie dénonce sa perversité ? — Elle la dénonce, dit gravement [MASK].
+
+['Sir', ',', 'le', '"', 'LL']	Quaterquem	j'ai à vous entretenir d'une affaire très-importante. — Je n'ai point d'affaire avec vous, dit l'Anglais. — C'est possible, dit [MASK], mais j'en ai avec vous, moi. Venez. »
+
+['EST', 'DE', 'Y', 'NE', 'le']	Élodie	— Oh ! papa, comment peux-tu penser ? — Va, va, ne te gêne pas. Il y a longtemps que je l'ai dit : les pères sont la propriété de leurs enfants. — C'est fort bien, interrompit [MASK] ;
+
+['je', 'personne', 'il', 'ne', 'et']	Oliveira	Si ce n'est pas là de l'amour je ne m'y connais plus. [MASK] ne voit rien ou ne veut rien voir, et ton oncle lui-même, le conseiller an crâne beurre frais, en prend son parti et ne me fait plus mauvais accueil.
+
+['...', ':', 'Pierre', 'Landry', 'Blaise']	Brancas	— Ton amour s'en ira comme il est venu, en une soirée. À première vue, tu t'enflammes, et tu te crois pris pour l'éternité. — Diable d'oncle ! s'écria [MASK]. De quoi se mêle-t-il ?
+
+['on', 'mais', 'il', 'On', 'personne']	Claudie	— Elle a pour toi l'affection d'une soeur. Cela lui ferait de la peine d'en changer.... — Ah ! — Et tiens, pour tout dire d'un mot, car on me fait faire des discours longs d'une aune, [MASK] ne le veut pas
+
+['"', "'", ',', '/', 'i']	Brancas	« Oui, tous les Français sont des héros ! reprit [MASK]. — Hum ! hum ! grommela le colonel. — C'est fort simple, dit l'avocat. N'êtes-vous pas vous-même un héros ? J'en appelle à toute l'assemblée.
+
+['il', 'on', 'elle', 'Il', 'Allah']	Oliveira	— Tu me fais manquer à ma parole. C'est un affront qu'[MASK] ne me pardonnera jamais. — Et si je lui présentais un autre gendre ? — Qui ? — Mon ami Athanase. » L'oncle haussa les épaules. « Présente qui tu voudras.
+
+['elle', 'celle-ci', 'Alice', 'Jane', 'elle-même']	Alice	» Tout en parlant, il examinait la physionomie de la jeune Anglaise pour savoir si cette nouvelle ne l'abaisserait pas dans son esprit ; mais [MASK], bien qu'étonnée d'une confidence si inattendue, ne parut pas s'en émouvoir beaucoup.
+
+['la', "l'", 'le', 'une', 'ma']	Claudie	— Pas trop, dit [MASK], qui fut heureuse de trouver ce prétexte, et voilà ce qui me fâche. — Hum ! hum ! dit le major, le temps est à l'orage. » Au fond du coeur, il était de l'avis de sa fille.
+
+['il', 'ce', 'Il', 'on', 'Monsieur']	Quaterquem	Ils se marieront le 25 mai prochain à la mairie du 2e arrondissement, à huit heures du soir. Leur bonheur est sans nuages. Dans un an, [MASK] sera l'homme le plus illustre des deux hémisphères. Son ballon est admirable et marche à merveille.
+
+['la', 'le', "l'", 'Madame', 'madame']	Rita	Il s'assit près d'elle et tout d'abord s'écria : « Mademoiselle, que vous êtes belle ! » Ce compliment, qui ne demandait pas un grand effort d'esprit, fit sourire [MASK]. « Voulez-vous du poulet ? » dit-elle.
+
+['toi', 'pourquoi', 'dieu', 'quoi', 'Dieu']	Rita	— Et [MASK], une divinité. Quels yeux ! que d'esprit ! Jure-moi que tu ne l'aimes pas. — Je te le jure. — Et que tu ne l'épouseras jamais, ou je t'étends sur la poussière. — Ma foi !
+
+['il', 'et', ',', 'Il', 'ne']	Oliveira	[MASK] sortit. « Eh bien ! que penses-tu de ton beau-père ? dit le conseiller d'État. — Ses cigares sont excellents, dit l'avocat, mais son récit était un peu long. — Il aime à se vanter.
+
+['tu', '</s>', 'Tu', 'elle', 'Elle']	Claudie	C'est une petite fièvre qui n'a rien d'inquiétant et qu'il faut traiter par les sédatifs. — Mauvais plaisant ! — Parbleu ! je ne vois pas là de quoi s'arracher les cheveux. [MASK] est charmante, et tu fais preuve de goût.
+
+[',', 'et', 'elle', '"', 'Elle']	Élodie	Les lis et les roses ne sont rien auprès de vous. » [MASK] sourit. « C'est à ma fille qu'il faut dire ces belles choses, » dit-elle. Effectivement, la mère de sa fille était couperosée ;
+
+['qui', 'Il', 'Elle', 'et', 'Qui']	Quaterquem	— Jusqu'à la mort. — Eh bien, ayez confiance en moi, et revenez. Quoi qu'il arrive, je n'aurai pas d'autre mari que vous.... Mais qui vous force à partir ? [MASK] lui montra la lettre de ses amis.
+
+['le', 'la', "l'", 'M.', 'madame']	Rita	Ah ! dit-il en soupirant, vous n'avez pas besoin de ce vin pour m'enivrer ! Vous souvenez-vous, mademoiselle, de ce jour fortuné où j'eus le bonheur de valser..... — Avec moi ? où donc ? dit [MASK], qui s'en souvenait fort bien.
+
+['celui-ci', 'elle', 'il', 'Jean', 'celle-ci']	Bonsergent	Il faut que la prévoyance d'une mère supplée à l'aveuglement de ses enfants. Il faut... — Il faut que tu te taises, interrompit [MASK] d'un ton ferme et sans réplique. C'est assez causé d'affaires pour ce soir.
+
+['il', 'elle', 'Henri', 'celui-ci', 'Jean']	Quaterquem	— Parbleu ! dit [MASK], je vous admire. — Vous êtes bien bon. Je me soucie, non pas d'être admiré, mais d'agir à ma fantaisie, et ma fantaisie est de retrouver les monuments de l'antique histoire.
+
+["m'", 'lui', 'nous', "j'", 'celui-ci']	Barowsky	Après dîner, le khan, déjà tout attendri par le lait de jument et par l'eau-de-vie que [MASK] avait apportée en présent, donna la liberté à mon protégé, et je partis sur-le-champ pour ne pas lui laisser le temps de se repentir de sa générosité.
+
+['elle', 'Elle', '-', ';', 'Eu']	Rita	— Ainsi, tout est rompu ? — Vous m'entendez mal, cher oncle. [MASK] est tout à fait séduisante, mais.... — Mais elle ne te séduit pas. — Oui, elle me plaît beaucoup ; mais je la trouve trop raisonnable, trop gaie ;
+
+['celui-ci', 'Leicester', 'Richard', 'Bernard', 'présent']	Quaterquem	Il tournait et retournait dans tous les sens le fatal pistolet, et oubliait complétement le duel même qui l'avait amené sur le terrain. Malheureusement, le vieil Anglais s'en aperçut. « Eh bien ! dit-il à [MASK], qu'attendez-vous pour continuer l'affaire ?
+
+['il', 't-il', 'celui-ci', 'le', '-il']	Brancas	— Pourquoi, monsieur, s'il vous plaît ? — Parce qu'il a l'air bien ennuyeux. — Eh bien, après ? — Pardonnez-moi, mademoiselle, dit [MASK] en feignant d'hésiter, je viole peut-être un secret de famille. — Quel secret de famille ?
+
+['député', '...', 'monsieur', 'celle-ci', 'madame']	Rita	— En deux mots, cher oncle, vous voulez que j'épouse [MASK] ? — Oui. — Et moi, je ne le veux pas. — Mais malheureux, tu ne seras jamais député. — Je serai heureux. — Tu me fais manquer à ma parole.
+
+['lui', 'moi', 'cela', 'ça', 'vous']	Lacenaire	— Quel intérêt aurais-je à le décrier ? — Je ne sais ; mais, du premier coup, le comparer à [MASK], c'est bien fort ! — Je n'ai pas dit que ce fût un scélérat.
+
+['Il', 'Et', 'il', 'et', 'Celui-ci']	Quaterquem	Si vous vouliez.... — Te payer ? Si je le veux ? Eh ! mon pauvre ami, que ne parlais-tu plus tôt. » [MASK] tira de sa poche la clef de son secrétaire. Au moment de la mettre dans la serrure, il se retourna.
+
+['Jean', 'Pierre', 'Henri', 'Paul', 'Jacques']	Claudie	— Je n'ai rien dit de pareil, s'écria [MASK]. — Bon ! je l'ai deviné. — Inventé ! — Deviné. Au reste, le mot ne fait rien à la chose. Je m'offre à vous servir de témoin.
+
+['est', 'ailleurs', 'précédemment', 'ci-dessus', 'ici']	Rabelais	Ma maison, qu'on appelle ici château, est meublée à la mode du pays : c'est-à-dire que le meilleur du mobilier est dans la cave. Mes pères m'ont laissé force purée septembrale , comme dit [MASK], et des meilleurs crus.
+
+[';', ',', '...', ':', "qu'"]	Audinet	Quelques instants après, elle reprit ses sens, vit la lettre et comprit tout son malheur. Est-ce que je rêve ? dit-elle ; il m'a vue ! il a vu [MASK] Il me croit criminelle et, sans me laisser le temps de me justifier, il part !
+
+['"', "'", 'TH', 'W', 'S']	Quaterquem	— Vraiment, vous me haïssiez ? dit [MASK]. Et pour quelle raison, s'il vous plaît ? — Parce que, sans votre père, je serais à la chambre des lords. — Eh ! dans quel pays l'avez-vous connu, s'il vous plaît ?
+
+['elle', 'lui', 'eux', 'les', 'la']	Audinet	Aucun doute n'était pos- sible. Il connaissait cette chambre et cette qui l'ha- bitait. Dans la fureur dont il était animé, il eut envie de grimper lui-même après [MASK], de surprendre la perfide, de la confondre et de la tuer.
+
+[':', 'papa', 'tu', 'je', '...']	Claudie	Vous supprimez les branches parasites qui ne donneront jamais de fruits et qui consomment la sève ; vous... — Papa, dit [MASK], veux-tu faire ta toilette ? Tu ne seras jamais prêt. — Prêt à quoi ?
+
+['Je', 'je', 'Tu', '--Je', 'tu']	Oliveira	— Une tuile sur la tête ! Ah ! que la divine Providence est dure aux pauvres gens ! Écoute ceci : « Mon cher ami, « Tout est conclu. La dot est d'un million. [MASK] te trouve charmant.
+
+['il', 'le', 'elle', 'la', 'Pierre']	Athanase	— Patience ! dit [MASK]. La patience, c'est la force continuée. En deux mots, la dame s'est fort ennuyée, et je la soupçonne d'écrire en secret ses mémoires pour servir à l'instruction et à l'édification de son sexe.
+
+[';', ':', ',', 'd', 'c']	Audinet	— Tout le monde et vous en particulier, mademoiselle. — Je vous suis bien obligée. — Oh ! très-peu ! dit galamment [MASK]. Cet amour est si involontaire ! — C'est donc de l'amour ? — Vous le savez bien, cruelle !
+
+['Il', 'Elle', '</s>', 'Celui-ci', 'Celle-ci']	Alice	« Plus de peur que de mal ! s'écria-t-il. Bourreau, tu veux donc m'achever ? Va-t'en, scélérat ! va-t'en ! va-t'en ! » [MASK] lui fit signe de sortir de la chambre et le suivit.
+
+['il', 'lui', 'et', 'celui-ci', 'seigneur']	Bonsergent	Fût-ce piété, mépris du sexe masculin, crainte du redoutable major dont la réputation de sabreur effrayait les plus braves, ou ces trois motifs ensemble, [MASK] évita le triste sort dont le menaçaient les aspirations poétiques de sa femme. Mais de quelles angoisses paya-t-il cette fidélité ?
+
+[',', 'de', '"', '(', 'DE']	Oliveira	— Assurément, dit le conseiller d'État, mais nous serons bien aises de l'apprendre d'un maître de l'art. — Mon Dieu ! reprit modestement [MASK], ce n'est pas plus difficile que de faire du cassis ou du sirop de groseilles. Voyez plutôt :
+
+['modestement', 'celui-ci', 'tout', 'le', '-il']	Athanase	— Ce n'est pas faute de connaître les greffiers, répliqua le major. — Ah ! ah ! ah ! dit [MASK] en riant aux éclats, le calembour est joli. — Euh ! dit modestement le major. — Ne dites pas, euh !
+
+['le', 'à', 'je', 'la', 'un']	Brancas	Eh pourquoi ne m'en as-tu pas parlé plus tôt ? 9 Je l'avais oublié, dit [MASK]. Envoie, je te prie, un exprès porter cette lettre à Mlle Bonser- gent. Pourquoi n'y vas-tu pas toi-même ? q
+
+[',', 'le', 'de', 'ciel', 'les']	Pythagore	La lune sort des nuages et éclaire la vallée sombre. Voici de bons cigares, le cheval va de lui-même et connaît sa route. Tout se tait, c'est à peine si l'on entend cette délicieuse harmonie des sphères qui faisait pâmer [MASK]. Commence ton récit ;
+
+[',', 'on', 'elle', 'il', 'une']	Élodie	Elle est libre de ses actions. — Le devoir d'une mère, dit [MASK] avec solennité, est de préparer l'avenir et le bonheur de sa fille. Il faut que la prévoyance d'une mère supplée à l'aveuglement de ses enfants. Il faut...
+
+['celui-ci', 'tous', 'celle-ci', 'ceux-ci', 'chacun']	Claudie	Mon âme est dans les étoiles. » De graves événements se préparaient dans la maison Bonsergent. Le major sentait que le moment était venu de tenir la parole donnée au colonel Malaga, et, prévoyant la résistance de [MASK], il se préparait à la lutte.
+
+['...', 'il', 'le', '-', 'on']	Brancas	Qu'est-ce que la greffe ?... Vous vous taisez ! Quoi ! vous ne savez même pas que la greffe est l'art de changer un sauvageon en arbre d'espèce cultivée ? — Oui, j'en ai entendu quelque chose, dit [MASK]. — Entendu quelque chose !
+
+['elle', 'lui', 'eux', 'cela', 'vous']	Chateaubriand	Son âme était limpide et sans mystère comme son regard. Peut-être n'était-elle pas faite pour les grandes passions ; bien faite, riante, pleine de douceur et de charme, pour parler comme [MASK], elle n'avait pas été mouillée par la pluie des orages du coeur.
+
+['et', 'chacun', 'le', 'un', 'qui']	Harrison	» Cette fois il fallut céder ; et les deux adversaires furent mis en face l'un de l'autre à vingt pas de distance. [MASK], favorisé par le sort, tira le premier. La capsule, mal assujettie sur le chien, n'éclata pas.
+
+['et', ',', 'il', 'elle', 'dame']	Brancas	[MASK] ouvrit les yeux. « Plaît-il, madame ? que désirez-vous ? — Monsieur, dit poliment la jeune dame, ma mère qui est malade, vous prie de vouloir bien relever le carreau. » L'avocat s'empressa de s'excuser et d'obéir.
+
+['Il', 'Je', 'Elle', 'et', 'Et']	Claudie	— Je vous aime, votre père le sait et l'approuve ; le mien vous regarde déjà comme sa fille ; voulez-vous être ma femme ? » [MASK] garda le silence. « Vous ne répondez pas ? — Puis-je répondre ? répliqua la jeune fille.
+
+['tous', 'celui-ci', 'partie', 'celle-ci', 'majorité']	Brancas	Le procureur conclut en faveur de [MASK] à l'annulation du testament, fit ressortir les vices de forme, démontra la captation et décida, sinon l'auditoire, lequel en majorité était décidé avant les plaidoiries des avocats, du moins les juges. Il y parut bientôt.
+
+['il', 'et', 'en', 'je', 'qui']	Malaga	[MASK] frémit de rage. Et c'est là mon fils s'écria-t-il. Mais, pour mon honneur, il faut que ce jeune homme me fasse des excuses. Des excuses de quoi ? dit le major. De tout ce qu'il lui plaira.
+
+['Celui-ci', 'Le', 'Il', "L'", 'Chacun']	Harrison	demanda-t-elle vivement. Ai-je dit encore quelque chose d'improper ? Cherchez-vous le texte d'un nouveau sermon ? » [MASK], profondément blessé, garda le silence, et tous trois descendirent bientôt après devant l'hôtel Meurice.
+
+['je', ',', 'le', 'non', 'ceci']	Brancas	— Parce que j'aime mieux la prose. — Est-ce la poésie que vous haïssez, ou le poëte ? — Ni l'un ni l'autre. Je les regarde tous deux avec la même indifférence. — Mademoiselle, dit [MASK], voulez-vous me permettre une question
+
+['un', 'lui', 'Napoléon', 'Bonaparte', 'moi']	Napoléon	J'en jurerais. N'êtes-vous pas français ; n'êtes-vous pas invincibles ? Si [MASK] seul a pris place sur la colonne, c'est qu'on ne pouvait pas y mettre toute la grande armée. — Quelle nation nous sommes ! » dit un marchand de soieries.
+
+['Il', 'Elle', 'il', 'Et', 'et']	Brancas	— Pourquoi ? — Je te l'expliquerai un autre jour. — Non, aujourd'hui. — Ah ! tu m'ennuies, n'as-tu pas assez parlé aujourd'hui, et n'est-ce pas mon tour ? » [MASK] s'inclina respectueusement.
+
+[',', 'élégant', 'le', 'jeune', 'souriant']	Quaterquem	[MASK], poli comme un Français du siècle dernier, se leva pour céder sa place à la jeune Anglaise. Déjà la mère était assise, et notre ami fut récompensé d'un sourire et d'un : « Je vous remercie, » auquel l'accent britannique le plus pur donnait de nouveaux charmes.
+
+['il', 'elle', 'on', ',', 'celui-ci']	Audinet	La situation devenait très-embarrassante. Tout à coup [MASK] rompit le silence. « Avez-vous remarqué la figure de cet avocat ? dit-il. — Non. — Sa physionomie est effrayante. — Effrayante ! et pourquoi ? — Elle annonce un naturel pervers.
+
+['la', "l'", 'ce', 'ton', 'cette']	Port-Royal	— Or, quel est l'objet d'une définition ? — C'est de faire connaître la nature d'une chose. — Ami, viens sur mon coeur. Tu as très-bien répondu. On voit que tu connais à fond la logique de [MASK].
+
+['le', 'Pierre', "l'", 'Jean', 'JEAN']	Audinet	— Grand homme quand il fend du bois ? demanda [MASK]. — Oui, monsieur, et quand il fait des souliers, et quand il balaye les rues, et quand il fait le pain, et quand il gâche le plâtre ; grand homme en tout, grand homme toujours.
+
+['...', ',', ';', 'major', 'colonel']	Athanase	Ce n'est pas lui qui... — Eh bien ! eh bien ! s'écria [MASK] qui reparut au détour d'une allée, on dit du mal de moi dans ce pays. Est-ce vous, mon cher major ? Vous dites que je suis un ignorant ?
+
+['Monsieur', 'Madame', 'Henri', 'celui-ci', 'il']	Brancas	« Mademoiselle, dit [MASK], je vous quitte ; mais s'il est permis de vous parler sans porter atteinte aux droits de M. le secrétaire général, j'ose me dire, non le plus ancien, mais le plus passionné de vos amis. — Remember !
+
+['celle-ci', 'tout', 'celui-ci', "jusqu'", 'donc']	Brancas	Le reste du voyage se fit sans accident, et une nouvelle diligence, chargée des bagages de l'ancienne qu'on retrouva en fort mauvais état au fond du précipice, déposa [MASK] à la porte de son ami Ripainsel.
+
+['madame', 'que', '"', 'mademoiselle', '...']	Claudie	» » Elle sonna. La servante parut. « Catherine, dit impétueusement [MASK], qu'avez- vous fait cette nuit ? y J'ai dormi, mademoiselle, répondit-elle un peu troublée. Vous dormiez à onze heures du soir ?
+
+['colonel', 'ainsi', '…', 'LE', 'monseigneur']	Malaga	Ce vieux-là et le colonel Audinet, surnommé [MASK], ont brisé plus de cervelles autrichiennes, turques, russes, anglaises, espagnoles, qu'il n'y a de jours dans l'année. — Le récit de leurs campagnes doit être amusant. — Oui, pendant une heure.
+
+['-', 'alors', 'vous', 'plus', '"']	Claudie	Cela n'est pas raisonnable. Laissez aux gens le temps de réfléchir. — Est-ce qu'on réfléchit quand on aime ? — Oui, mais quand on n'aime pas ? — Qui vous aimera, [MASK], si ce n'est moi ? — Mon Dieu !
+
+['le', 'M.', 'monsieur', 'celui-ci', 'Monsieur']	Claudie	— Chez le préfet. Nous avons valsé ensemble. N'est-ce pas un républicain ? — Je n'entends rien à ces choses-là, dit [MASK]. Adresse-toi à mon père. — Que désirez-vous, mademoiselle ? se hâta de dire le major.
+
+['celui-ci', 'elle', 'Madame', 'celle-ci', 'Monsieur']	Brancas	— Madame, dit [MASK], je vais descendre et chercher votre châle qui est resté dans la voiture. — Monsieur, dit la dame sèche en minaudant, je ne sais si je dois.... » Au fond, elle brûlait d'envie de le voir descendre.
+
+['Il', 'il', 'Elle', 'et', 'Je']	Claudie	— Maman, il m'ennuie ; ce n'est pas ma faute. Je n'aime pas les sentences. — Il t'aime tant ! dit le major, et le colonel te regarde comme sa fille. [MASK] garda le silence. — Tu refuses ?
+
+['il', 'elle', '-il', 't-il', 'le']	Quaterquem	« Monsieur, dit-il, au nom du ciel, ne vous fâchez pas. Je veux dire que mon propriétaire m'envoie, non pas vous donner, mais vous demander deux cents francs. — Ouf ! dit [MASK]. Et à quelle occasion, je te prie ?
+
+['le', ':', 'il', "l'", ',']	Oliveira	. » J'embrassai tendrement le vieux latiniste et je partis nu-pieds pour ménager mes souliers. — C'est avec le Prodomus philosophiæ instaurandæ que vous avez fait fortune ? — Oui, messieurs, dit [MASK]. Rappelez-vous le cordier des Mille et une Nuits .
+
+['personne', 'tous', 'tout', 'chacun', 'la']	Rita	— Vous traduisez à merveille. — Eh bien, monsieur, souvenez-vous. — De quoi ? — De la fidélité que vous devez à [MASK]. » Le Parisien se mordit les lèvres. « Je ne dois rien à personne, dit-il. — Vraiment !
+
+['moi', 'vous', 'la', 'me', 'ma']	Claudie	Je réponds de vous. » En même temps il sauta à terre et se trouva hors de danger ; mais le plus difficile était encore à faire. La dame sèche criait de toutes ses forces : « Sauvez-moi ! sauvez [MASK] ! » et lui tendait les bras.
+
+['elle', ',', 'et', "qu'", 'il']	Rita	[MASK] le sentit, et, quoiqu'elle eût assez d'esprit et de conscience de sa beauté pour ne craindre aucune rivalité, elle se sentit assez mal disposée pour la nouvelle venue. L'amitié, qu'on croit si immuable, n'est guère moins mobile que l'amour.
+
+[',', 'monde', 'noise', 'plus', 'mes']	Beethoven	Tous les jours il se joue, dans le fond de mon âme, des symphonies aussi réelles et mille fois plus belles qu'aucune symphonie de [MASK]. J'en ai l'idée, donc je les entends quand il me plaît et sans crainte de devenir jamais sourd.
+
+['ça', 'encens', 'cela', 'elle', 'pierre']	Iphigénie	. — Sacrifiée aux calculs du père Oliveira !... — Comment ! sacrifiée ?... — Immolée à l'ambition d'un avocat ! — Immolée ? — Brûlée comme [MASK] sur le bûcher de l'amour filial ?... — Ah çà ! que veux-tu dire ?
+
+['Il', 'On', 'Elle', 'Et', 'et']	Claudie	— Et qu'en penses-tu ? — Pas davantage. — Diable ! dit le major entre ses dents, cela va mal... Comment ! tu n'as pas d'opinion sur un homme que tu vois tous les jours ! » [MASK] garda le silence.
+
+['Lui', 'Elle', 'Il', 'LUI', 'Oui']	Brancas	— Je ne vous ai pas encouragé, dit-elle. — Vous l'aimez, lui ! — Qui ? Lui . — [MASK]. — Je ne vous aime pas, et ne vous aimerai jamais, répliqua-t-elle fièrement. Cela doit suffire. — Cruelle !
+
+['toi', 'moi', 'nous', 'elle', 'lui']	Andinet	Veux-tu me servir de témoin ? demanda le colo- nel. Tu te bats ? dit le major étonné. Oui. Contre qui î Contre ce maudit Parisien. Il t'a offenséPMoi ? non. Je l'ai entendu se quereller avec [MASK], et.
+
+['Valentin', 'Robert', 'amoureux', 'Olivier', 'Roger']	Ripainsel	ah ! tu t'es trahi, dit le Parisien. Ce portrait est d'un amoureux dédaigné. — Dédaigné, c'est possible, répliqua [MASK], car je crois que la petite personne se regarde comme très-supérieure au reste de l'univers, mais amoureux, oh ! non.
+
+['il', 'elle', 'on', 'celle-ci', 'celui-ci']	Alice	, il était de ceux qui plaisent à la plupart des filles. Cependant, tel qu'il était, et faute de mieux, [MASK] ne refusait pas de l'épouser, et se contentait de retarder le mariage sous divers prétextes.
+
+['il', 'on', 'posé', 'Robert', 'elle']	Quaterquem	« Oui, dit [MASK] en posant sa plume sur la table, le problème est résolu, et le ballon va voler comme l'hirondelle et remplacer la diligence. J'aurai des millions.... (Dieu ! que ce pain est dur !) et les duchesses se rouleront à mes pieds....
+
+['il', 'Il', 'celui-ci', 'et', 'qui']	Bonsergent	— Et nous, qui sommes-nous donc ? — Des gens mal élevés, je suppose. — Continue. Ton récit m'intéresse. — Après dix ans passés à pleurer le hussard, [MASK] se présenta.... — Et fut accepté d'emblée ? dit le Parisien.
+
+['il', 'on', 'celui-ci', 'elle', 'lui-même']	Brancas	lui cria le conducteur, vous allez vous casser le cou ! » Mais [MASK] ne l'écoutait pas. Tout à coup, une grosse pierre sur laquelle ses pieds étaient appuyés glissa, et il parut près de rouler la tête la première dans le précipice.
+
+['il', 'on', 'celui-ci', 'Il', 'Pierre']	Audinet	À nous deux, nous en viendrons peut-être à bout. » En effet, [MASK] ne tarda pas à paraître, vêtu de noir et cravaté de blanc, enfermé dans un faux-col dont les pointes lui sciaient les deux oreilles. On le reçut d'un air contraint.
+
+['le', 'Landry', 'Hardy', 'celui-ci', 'Martin']	Athanase	— Bon ! c'est convenu, dit [MASK], et je vais faire mettre votre couvert. Vous, cependant, enseignez à ce jeune homme cette science admirable où le père Hardy lui-même oserait à peine vous tenir tête. Je vous le confie.
+
+['il', 'Jean', 'celui-ci', 'Pierre', 'le']	Ripainsel	« Il faut avouer, dit [MASK], que j'étais né pour jouer les rôles de confidents. — Aimerais-tu mieux jouer les tyrans que les confidents ? — Les tyrans, non ; mais les jeunes-premiers. — Qui t'en empêche ?
+
+['Il', 'On', 'Monsieur', 'Celui-ci', 'Elle']	Quaterquem	— Votre ami entrera dans un autre wagon, dit l'employé qui crut que l'Anglais usait de ruse pour ménager de la place à son manteau. Et vous, monsieur, dépêchons. » [MASK] se hâta d'entrer, et l'employé ferma la portière.
+
+['il', 'celui-ci', 'Jean', 'le', 'John']	Brancas	— Je ne me croyais pas si heureux, dit [MASK] en souriant. — Oh ! ne vous enorgueillissez pas trop, monsieur. Il est vrai qu'il est fort question de vous, mais je n'ai pas dit que la lettre fît votre éloge.
+
+['il', 'elle', 'on', 'y', 'et']	Claudie	« Mon oncle avait raison, dit-il, d'épouser une Anglaise rousse et de mauvaise humeur. Il ne craint pas, lui, qu'on se jette aux pieds de la fille de sir Gaspardus Shenectady. » Au milieu de ces réflexions, [MASK] entra.
+
+['le', 'celui-ci', 'M.', 'Jean', 'Pierre']	Quaterquem	» Il faut vous dire que le turcoman est la langue la plus énergique et la plus concise de l'univers. — Je le vois bien, répliqua [MASK]. Continuez ce récit, je vous en prie, je suis curieux d'en connaître la suite.
+
+['il', 'et', 'qui', 'Il', ',']	Athanase	À la fin, [MASK] appuya ses coudes sur la table, son menton dans ses mains, en regardant son ami dans les yeux : « Sais-tu, dit-il, quelle est la meilleure de toutes les définitions ?
+
+['lui', 'elle', 'Elle', 'et', ',']	Rita	[MASK] répondit qu'elle était arrivée la veille, et qu'elle n'avait pas eu le temps de faire visite à son amie. « Dis-moi, ajouta-t-elle, quel est ce jeune homme à la barbe large et blonde qui nous regarde si obstinément ?
+
+['celui', 'celui-ci', 'monsieur', 'Marcel', 'Robert']	Athanase	« Il me semble, dit [MASK] qui s'était éloigné par discrétion, que vous n'êtes pas trop d'accord, ton oncle et toi. De quoi s'agit-il ? — D'une niaiserie. Il veut me faire épouser Rita. — Et tu refuses ?
+
+['celui-ci', 'Monsieur', 'monsieur', 'madame', 'il']	Quaterquem	— Monsieur, dit le propriétaire, on ne se joue pas de moi. Je veux de l'argent ! — Parbleu ! dit [MASK], vous n'êtes pas dégoûté. J'en demande au ciel tous les jours, et je ne sais comment l'obtenir.
+
+['leurs', 'ces', 'ses', 'la', 'deux']	Claudie	Heureusement pour la paix publique, le major Bonsergent et ses hôtes s'avançaient à la rencontre de [MASK]. « Eh bien ! messieurs, dit le major, vous laissez les vieilles perruques ensemble, et vous vous cachez dans les petits coins avec les demoiselles ?
+
+['famille', 'la', 'gentilhomme', 'son', '.']	Lacenaire	— Je n'ai pas dit que ce fût un scélérat. — Non, mais vous dites que c'est le vivant portrait de [MASK]. De là à dire qu'il a tué son père et sa mère, la distance n'est pas grande.
+
+['son', 'la', "l'", 'sa', 'ses']	Brancas	Il sentait que son rival allait le gagner de vitesse, et il se hâta d'interrompre le cours des flatteries de [MASK]. Peu de moments après, le souper finit, et chacun se leva pour rentrer dans le salon.
+
+['lui', 'chez', 'nous', "l'", 'elle']	Athanase	il se sentit pris d'une fièvre vio- lente et rentra chez [MASK], qui ne s'était aperçu ni de son départ ni de son retour. Le lendemain, malgré la Cèvre, l'avocat résolut de partir. Son ami essaya de l'en détourner.
+

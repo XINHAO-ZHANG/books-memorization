@@ -1,0 +1,200 @@
+['nous', 'Robespierre', 'Bucarest', 'Lénine', 'Staline']	Cosma	Il était vrai que les soulagements que nous apportions aux opprimés rendirent le nom de [MASK] fameux d’un bout à l’autre du pays roumain. Les bourses d’or filaient avec la même facilité que nous mettions à les gagner. Néanmoins, tout cela n’était que remède passager.
+
+['famille', 'femme', 'femmes', 'mère', 'noblesse']	Cosma	Sa longue figure était un peu pâle, ses yeux cernés, et ses lèvres, d’habitude pareilles à deux fraises jumelles, étaient brûlées de gerçures. Les hommes la suivaient d’un regard inquiet et respectueux à la fois : cet héritage de [MASK] leur paraissait plein de mystère, de noblesse plus encore.
+
+['Elle', 'Il', 'Cela', 'On', 'Ceci']	Cosma	[MASK] souleva tout. C’était d’ailleurs légitime, et je n’en fus nullement affecté. Le han était plein de femmes : celles du père, celles des amis du père et les cadânas qui appartenaient aux kiabours hébergés dans le han. Leur odeur remplissait la maison.
+
+['lui', 'elle', 'Napoléon', 'Dieu', 'nous']	Cosma	Mais si les dégâts faits par ce dernier étaient supportables, ceux qui furent occasionnés par [MASK] ne l’étaient, paraît-il, pas. En tout cas, les maris, notre père en tête, l’affirmaient. Ils étaient les seuls à se plaindre du fléau.
+
+['Il', 'Elle', 'On', 'il', 'II']	Groza	[MASK] me considéra un instant d’un air courroucé : — Non. Jouer, ce n’est pas une impiété, mais le faire savoir à tous, c’en est une, et une grosse… pour qui aime la flûte. — Tout le monde l’aime…
+
+['moi', 'monsieur', 'Monsieur', 'lui', 'oui']	Groza	questionna mon ami. — Je veux dire, [MASK], que je suis peiné comme toi, pas comme elle. — Bon… Cela, nous l’avons entendu, mais explique-toi. — Je m’explique !
+
+['il', 'on', 'elle', 'Il', 'Joseph']	Cosma	! Et en disant cela, il les lui arracha de la ceinture. Aussitôt le mal de dents passa. Le père se leva debout. Alors, [MASK] l’écrasa sous son corps, lourd de deux cents livres, le bâillonna et le ligota.
+
+['lui', 'il', 'Ali', 'Jean', 'le']	Cosma	Les chaouches, réfugiés sous quelque portail à toiture, grelottaient comme des chiens mouillés, en lâchant, faiblement, leurs hep, hep monotones. Mais [MASK], avec son audace inouïe, alla carrément converser avec un d’eux, l’entraîna vers un autre, sortit de l’eau-de-vie.
+
+['moi', '</s>NOTUSED', 'maintenant', 'là', 'seul']	Spilca	douaniers » qui leur ouvrent les portes de l’au-delà. Par-dessus, le linceul. Et moi, [MASK], je reste debout, sur le seuil, et je regarde tout cela, comme les autres. — C’était écrit, me dit la tante ;
+
+['Il', 'Dieu', 'il', 'II', 'Et']	Groza	[MASK] eut mon âme, à laquelle il tenait. Ainsi, j’ai vécu un rêve impossible dans une heure d’oubli. Puis je sondai la profondeur de la mer avec mon doigt : je demandai à la vie ce qu’elle ne peut pas donner.
+
+['Elle', 'Il', 'Marie', 'elle', 'Madame']	Sultana	[MASK] était accompagnée d’une petite vieille, que je crus être sa mère, et toute modestement vêtue d’un corsage et d’une jupe de toile blanche serrés dans un catrintza d’étoffe noire peu brodée. À son passage, je la saluai de la tête, un peu troublé.
+
+['Abraham', 'Israël', 'Égypte', 'Adam', 'Egypte']	Astrakhan	Enfin, voici, d’après la narration que me fit ma mère, de quelle façon se passa l’heure émouvante qui suivit cette colère du berger à « la tête pareille à celle du mouton d’[MASK] », car ce fut bien l’heure où « la cloche céleste » sonna le commencement de ma vie :
+
+['il', 'on', 'chacun', 'lui', 'Pierre']	Movila	Vraie ou fausse, cette affirmation laissait l’intéressé impassible. Ce à quoi il rêvait, ce qu’il pensait, nul ne se targuait de le savoir. Ponctuel, réservé, obligeant, [MASK] ne donnait son avis qu’après avoir été assuré qu’il « ne parlerait pas au vent ».
+
+['lui', 'eux', 'moi', 'nous', 'Paul']	Groza	Haïr, c’est bien. Aimer, c’est mieux. Seul celui qui sait haïr et qui peut aimer connaît la valeur tout entière de la vie ! Heureusement pour [MASK], l’amour veillait. Il était tout près de lui, et cependant personne ne le savait.
+
+['Elle', 'Il', 'elle', 'Maman', 'il']	Sultana	tu es des nôtres. — Vous faire du mal ? sûr que non ! Vous m’avez appelé. Je suis venu. [MASK] sourit : — Elles ont crié, comme ça, pour blaguer ; on s’ennuie, toutes seules ! — Tu as crié aussi ?
+
+['Il', 'Elle', 'On', 'Marie', 'Marguerite']	Spilca	[MASK] nous avait abandonné son être matériel. Seul son profil musculeux, propre, à la barbe rousse bien peignée, ainsi que son crâne découvert, étaient riches de vie ; seule sa tête, à moitié éclairée, trahissait le débat qui se livrait dans son âme.
+
+['on', 'auteur', 'écrivain', 'On', 'ami']	Ecclésiaste	Et ne crains pas que j’aille plus avant dans ce bonheur, car si l’[MASK] a raison de dire que la fin d’une chose vaut mieux que son commencement, il n’est pas moins vrai que, dans la vie, bien des commencements l’emportent sur leurs fins.
+
+['Il', 'Lui', 'Elle', 'Jésus', 'Joseph']	Cosma	Ils se fâchèrent, cependant. [MASK] fut battu. Je bondis à sa défense. Je fus battu à mon tour. Mon frère demanda où il pourrait prendre ce que toutes les religions lui accordaient. Nulle part, pour le moment : cette femme est une mère.
+
+['Tripoli', 'Constantinople', 'Tunis', 'Marrakech', 'Crimée']	Roustchiouk	Accompagné d’un ispravnic, il se borna à lui demander des renseignements sur l’avoir des habitants et à les marquer sur son calepin. Le résultat fut le doublement du haraciu en or que chaque chef de famille payait au pacha de [MASK].
+
+['toi', 'enfant', 'fils', 'moi', 'frère']	Jérémie	Toi, [MASK], fils de la forêt et mon fils, c’est toi qui es toute ma vie… C’est pour toi que je suis ici… Les haïdoucs, respectueux de cette sincérité, écoutaient, silencieux.
+
+['monsieur', 'merci', 'oui', 'madame', 'Monsieur']	Laké	— Ça va, [MASK], dis-je, mais qui est à plaindre ? — Bah ! Un petit malheur arrivé dans la contrée : la femme d’un cojane vient de se casser la jambe. Maintenant, c’est lui qui doit faire le travail de sa femme.
+
+['Il', 'On', 'Elle', 'Papa', 'Maman']	Cosma	[MASK] m’avait mis dans sa besace et nourri avec du jus de viande et du vin. À six ans, je savais nager comme un poisson ; à onze, je lâchais mon premier coup d’arquebuse (ce qui me valut une grosse douleur à la mâchoire)
+
+['il', 'Il', 'elle', 'homme', 'IL']	Akime	mais en l’entendant me dire qu’il m’épouserait si j’avais un beau genou, oui, j’ai levé la tête, car je l’ai cru frappé de folie. Alors, je vis qu’[MASK] avait une jolie moustache noire et de beaux yeux d’étalon excité.
+
+['il', 'Dieu', 'Jésus', 'Pierre', 'Satan']	Cosma	Et si les auteurs de cette vie ont pu se réjouir de toutes mes joies, il leur a été impossible de souffrir de la moindre de mes souffrances. Quand je fus blessé, [MASK] m’abandonna et se sauva. J’aurais pu être assommé, il eût continué de vivre.
+
+['elle', 'il', 'Marie', 'Louise', 'Jeanne']	Sultana	Pendant ce mois écoulé, [MASK] n’avait point changé d’attitude. Prudence, sévérité, manque d’élan, froideur presque, dans toutes ses actions. Si je n’avais pas été certain de sa sincérité et de son attachement, je l’aurais accusée d’indifférence.
+
+['Cor', 'très', 'Cœur', 'cœur', 'Très']	Coritzaki	— Cori mou ! [MASK] mou ! Ne me fais pas l’injure de me croire vulgaire ! Ma folie n’est pas dangereuse et mon péché n’est que dans la parole ! C’est tout mon crime… Ne me prive donc pas du spectacle de ta grâce.
+
+['il', 'Georges', 'Dieu', 'Pierre', 'Jupiter']	Akime	J’étais venue au monde deux semaines avant le jour de saint Georges, dont la fête ne change jamais de jour, et nous étions justement dans la première semaine d’avril. Revenu de sa colère, [MASK] se mit à considérer longuement ma cheville et dit ensuite : »
+
+['se', 'il', 'elle', 'Dieu', 'Jésus']	Élie	Vengeance ! Bénie sois-tu pour les bienfaits que tu apportes au cœur des haïdoucs ! . . . . . . . . . . . . . . . . . . . . Ainsi [MASK] termina son récit…
+
+['le', 'la', 'les', '</s>NOTUSED', 'Hanoi']	Braïla	Et à l’heure du premier chant des coqs, après une course pénible à travers brousses et marécages, nous arrivions au fossé qui entoure [MASK]. Le han était plongé dans le sommeil. Aucune lumière, aucun signe de vie.
+
+['Platon', 'Goethe', 'Voltaire', 'Nietzsche', 'Montesquieu']	Jérémie	C’est ainsi : alors que la ronce s’arme d’innombrables épines pour défendre son inutilité et sa misérable existence, la forêt, soumise à sa mission sur la terre, accomplit son destin ; mais pendant que la hache la frappe à la racine, son faîte chante ses derniers hymnes au soleil. † [MASK]
+
+['non', 'Seigneur', 'mais', 'Non', 'monsieur']	Sultana	Peut-être même qu’un bébé lui est resté sur les bras ! Et après ? » Je dis : — Non, [MASK], ne me crois pas si peu humain. Je le sais : le monde s’acharne sur la jeune fille.
+
+['vie', 'voyage', '«', ':', '</s>NOTUSED']	Jérémie	J’étais bien de la lignée. Je répondis à l’invitation : Récit de [MASK] Vous prétendez savoir qui je suis. Vous ne savez rien du tout. Je suis haïdouc né, non pas fait. Ma mère : la forêt. Ma vie : la liberté.
+
+['oui', 'moi', 'toi', 'non', 'mais']	Groza	? — Oui, [MASK], je le veux, sois mon daskal. Dis-moi comment tu as appris tout cela. — Voici comment. J’ai un frère aîné, qui a l’âge de se marier, qui est gros et bête.
+
+['oui', 'madame', 'Madame', 'monsieur', 'mais']	Cosma	? Comment ? N’aime-t-on pas mieux les femmes de la maison que les étrangères ? — Oui, [MASK], tu as raison : les femmes de la maison nous sont plus chères. — N’est-ce pas ?
+
+['elle', 'Elle', 'moi', 'lui', 'elles']	Sultana	Elle savait que je n’étais pas méchant. Elle était sûre que je ne lui ferais pas de mal. La force de ses yeux s’était mesurée avec la force de mes muscles et était sortie victorieuse. Je dus penser à [MASK] et rien qu’à elle.
+
+['toi', 'maître', 'Socrate', 'frère', 'Maître']	Groza	Si tout le monde aimait la flûte comme moi, il n’y aurait plus ni haïdoucs, ni potéraches, ni gospodars, mais seulement des frères. Et des frères, il n’y en a nulle part… — Comment sais-tu tout cela, [MASK] ?
+
+['on', 'chacun', 'chacune', 'il', 'je']	Cosma	Puis, rien que nous deux au milieu de ces loups, nous continuâmes notre promenade dans le quartier et rassemblâmes encore quelques gardiens de nuit, auxquels [MASK] parla gaiement, versa à boire. Une garde, roumaine celle-là, cria, pas bien loin de notre groupe, son mot de ralliement
+
+['Toi', 'Seigneur', 'Socrate', 'Ah', 'Oui']	Joakime	— [MASK], tu es le premier homme que j’embrasse de ma vie. † Pendant une année entière, le chantre de l’Église d’un seul Bois m’enseigna le grec et bien d’autres choses, maître tantôt poli, presque pudique, tantôt écervelé, audacieux, presque fou.
+
+['Madame', 'non', 'madame', 'voyons', 'ici']	Akime	!… Que les loups mangent mes brebis si je ne t’épouse pas !… » – Pas besoin de jurer, [MASK] : l’homme est obligé de tout promettre parce que la femme demande la lune dès qu’elle montre son genou.
+
+['Dieu', 'Marie', 'Jésus', 'Pierre', 'Alexandre']	Groza	Il leva les bras vers le ciel et lança ce mot grec avec une force qui fit trembler les vitraux : — Evloghimèni ! (ce qui voulait dire : bénie). J’eus peur et envie de me sauver, mais je vis [MASK] me sourire et cligner de l’œil.
+
+['lui', 'elle', 'toi', 'Paul', 'Pierre']	Cosma	Le père, qui redoutait d’offenser les autres dieux, s’inclina. Nous devînmes chrétiens, [MASK] et moi, c’est-à-dire qu’il n’y eut rien de changé, car on peut passer d’une religion à une autre et rester dans la même peau.
+
+['maman', 'là', 'alors', 'ici', 'Maman']	Spilca	Nous vivons de nos bras, tant bien que mal. Tu vois, [MASK], que ce n’est pas très gai, chez nous… Et ce n’est pas tout. Je ne pus rien répondre. Elle m’avait dit ces choses « pas très gaies »
+
+['maman', 'Bella', 'Marie', 'toi', 'enfant']	Sultana	Et je pense qu’un blasphème doit peser sur mes épaules… Je la portais suspendue à mes yeux, je plongeais mon regard dans l’azur limpide de ses prunelles éclatantes, je baisais le front pur et je partais : — Sois tranquille, [MASK] !
+
+['Elle', 'On', 'Chacune', 'Maman', 'Il']	Sultana	Elles sortirent du village, gravirent une côte et entrèrent dans une maison située à mi-hauteur de la colline qui tournait le dos à la montagne. Pendant ce trajet, aucune d’elles n’avait regardé en arrière. Cette honnêteté me donna confiance. Je montai et frappai à la porte. [MASK] ouvrit.
+
+['Pierre', 'maman', 'Jean', 'Marie', 'Paul']	Sultana	La tante me toisa d’un regard hébété et m’invita à m’asseoir. — Elle est sourde, ma tante, me dit [MASK], et aussi un peu revenue « à la raison de l’enfance ». Tu ne pourras pas facilement causer avec elle.
+
+['Jean', 'Jacques', 'Joseph', 'Pierre', 'Louis']	Movila	Pour ce qui était de se livrer à des confidences, il eût aimé plutôt se charger de toute la lessive de notre troupe, corvée pénible qui rendait tous les gars de mauvaise humeur. La curiosité n’en fut que plus forte lorsqu’il commença son histoire : Récit de [MASK] le vataf
+
+['alors', 'maintenant', 'voyons', 'donc', 'allons']	Élie	Il fallait attendre, car on ne tue pas trois seigneurs armés jusqu’aux dents comme on tuerait trois dindons. Mais voilà, si je pouvais attendre, mon frère et ma sœur ne le pouvaient pas. Ils vinrent, dès le lendemain, me rappeler notre vengeance : — Eh bien, [MASK], que faisons-nous
+
+['Alexandre', 'David', 'Napoléon', 'Charles', 'Louis']	Cosma	Nos vengeances furent mesquines et par trop intéressées. Toutefois, il y eut un exploit, un seul au début de notre carrière. Il nous fit grand bien aux yeux du peuple et je m’en enorgueillis, car ce fut moi qui poussai [MASK] à l’accomplir.
+
+['Pierre', 'lui', 'Charles', 'Louis', 'Jean']	Groza	Quant à moi, elle n’a qu’à venir me chercher. Pendant que [MASK] me parlait, j’examinais un peu les mines de ses compagnons ; oui, comme il l’avait dit, c’étaient des hommes farouches, décidés, peut-être fidèles, mais rien de plus.
+
+['moutons', 'brebis', 'montagne', 'chèvre', 'berger']	Janina	De domestiques, il y en avait encore trois, chargés d’emporter les trois victimes après le départ des maîtres. Pour prix de ces aveux, l’ancien berger de [MASK] implora sa grâce : — Je n’y suis pour rien… Je fais ce qu’on m’ordonne.
+
+['Moi', 'Lui', 'Tous', 'Partout', 'Chacun']	Cosma	Je voyais la garde détruite ; le palais, ruines fumantes ; l’archonte à mes pieds, me suppliant de lui laisser la vie. Tout le pays, debout, devant cet exploit sans exemple. [MASK], étonné, humilié. Moi, héros à quatorze ans !
+
+['il', 'elle', 'on', 'Dieu', 'Jésus']	Joakime	— Soient bénis tes yeux humides ! Bénies, tes lèvres humides ! Et qu’elles soient bénies, toutes les humidités de la terre qui font croître de tels fruits ! Je me sentis rougir devant la bénédiction de tant d’humidités, mais [MASK] parla aussitôt de sécheresse.
+
+['César', 'eux', 'Socrate', 'moi', 'Dieu']	Tudor	Tous les trois ont été des tyrans, et moi, leur esclave. Il est vrai que leur tyrannie fut noble, mais mon esclavage n’en fut pas moins dur. Qu’on soit pendu par [MASK] ou par l’archonte Samourakis, on est toujours pendu.
+
+['Il', 'Elle', 'On', 'Paul', 'Jean']	Groza	[MASK] me rejoignit au galop du cheval. Ce n’était plus le même homme. Sa face, élargie et immobile, me parut inerte comme du parchemin. Les yeux, injectés de sang, n’avaient plus rien d’humain. Les veines du cou menaçaient d’éclater.
+
+['Marie', 'Jeanne', '</s>NOTUSED', 'Madame', 'Maria']	Kyra	Ensuite, tous trois, nous décidâmes de tuer l’évêque, l’aga et le boïar. [MASK], tout habillée de noir, comme une religieuse, nous appela dans sa chambre et nous dit : — Regardez : j’ai saccagé ce que j’ai de plus cher.
+
+['Il', 'il', 'Elle', 'Paul', 'Constantin']	Movila	[MASK] se leva, un peu timide, un peu gauche, mais assez impressionnant par la beauté, purement roumaine, de sa figure basanée, son regard dur, ses riches sourcils allant d’une oreille à l’autre, son menton vibrant d’énergie et très mobile.
+
+['Seigneur', 'maître', 'Maître', 'toi', 'Jésus']	Rada	Moi, je vais par le monde, chercher un autre maître. Et je te jure, [MASK], que je ne demanderai plus aux femmes de me montrer leur genou ni ne jetterai mon bâton dans les jambes de celles qui se sauveront devant moi. »
+
+['Marie', 'Alice', 'Marguerite', 'Jeanne', 'Maria']	Groza	— Mais nous ne couchons pas ensemble, espèce de fou ! s’écria [MASK]. — Ri-i-ivi-è-è-re, va-a-a-au fleuve ! Fe-em-me et ho-om-me vo-ont…
+
+['Ce', 'Il', 'Je', 'On', 'Paul']	Spilca	[MASK] n’était plus un homme libre. Pendant quelques semaines, j’espérai que les yeux bleus et sincères finiraient par me laisser tranquille. Il n’en fut rien. La petite tête blonde me poursuivit avec des détails encore plus menus. Alors je me dis : «
+
+['Marie', 'Sophie', 'Paul', 'Jean', 'Pierre']	Sultana	et de quoi s’agit-il avec lui ? À cette question, la face de [MASK] se voila d’amertume ; son regard se ternit. Encadré dans les cheveux lissés en arrière et tressés de manière à former une seule natte, son front blanc, serein, blêmit
+
+['sa', 'Charles', 'David', 'Louis', 'Joseph']	Cosma	? Il était encore vrai qu’une fois [MASK] mort, personne n’avait su monter son coursier mieux qu’elle, ni soutenir mieux la fatigue, les privations, ni se montrer plus viril dans les décisions. Devant le cadavre de son unique amant elle avait déclaré :
+
+['Dieu', 'personne', 'Satan', 'dieu', 'on']	Groza	Elle n’est pas à nous. Il faut qu’elle le soit. Nous devons l’arracher aux mains qui la détiennent sans la travailler. Il le faut ! C’est tout ce que [MASK] m’a jamais dit de la servitude de la terre sous les gospodars.
+
+['Lui', 'Chacun', 'Papa', 'Marcel', 'Émile']	Groza	Hé ! mon Dieu ! Nous ne recommandions à personne de vivre notre vie, nous ne priions personne de nous faire des soirées de claca. [MASK], à dix-sept ans, avait sa charrette et son cheval, gagnés à la sueur de son front.
+
+['elle', 'Marie', 'maman', 'Elle', 'Maria']	Kyra	C’est cette dernière victime qui fit éclater le scandale. Nous apprîmes tout, [MASK] s’affola et prit allure d’héroïne. Elle ne se contenta plus de voler le père et de donner l’or aux miséreux, elle nous demanda de venger les victimes dans le sang des tortionnaires.
+
+['hasard', 'vous', 'accident', 'elle', 'lui']	Cosma	Vous prétendez savoir qui je suis. Vous ne savez rien du tout. Je suis haïdouc né, non pas fait. Ma mère : la forêt. Ma vie : la liberté. Bébé de deux ans, je fus découvert par [MASK] sur une route sauvage.
+
+['justice', 'chacun', 'Dieu', 'tous', 'Jésus']	Kyra	Voilà les besoins de [MASK]. Il y avait, enfin, mes besoins, à moi. À vrai dire, ils n’étaient pas les miens, mais ceux de la justice. Dans la maison, pour ma part, j’avais tout ce qu’il me fallait, car il ne me fallait pas
+
+['Pierre', 'Jean', 'Antoine', 'Jacques', 'Socrate']	Joakime	hurla mon ami, secouant le chantre par le bras. Veux-tu ou non lui enseigner l’alphabet ? Tu me l’as promis ! — Oui, fit [MASK], s’approchant de moi comme un somnambule, oui, j’ai promis et je commence.
+
+['Mademoiselle', 'maman', 'Monsieur', 'Marie', 'Madame']	Spilca	Ses yeux éclatants clignotèrent rapidement : — Tes soupçons, [MASK], sont injustes : je ne suis fautive en rien ; je n’ai aucun reproche à me faire. À vingt-deux ans, je suis encore telle que ma mère m’a faite.
+
+['Égypte', 'Egypte', 'Israël', 'or', 'Espagne']	Astrakhan	Le salut, mais pas le calme. Car ce diable de berger, avec « sa tête pareille à celle d’un mouton d’[MASK] », avait, à l’exemple de ma mère, lui aussi une affliction. Non pas qu’il fût borgne ou manchot ;
+
+['Seigneur', '</s>NOTUSED', 'moi', 'Dieu', 'toujours']	Élie	De tout temps, mes deux yeux ne voyaient autre chose que les forts trébuchant dans l’opulence, et les faibles tordus sous la cravache. Et c’était à moi, [MASK], que s’adressaient tous ceux qui avaient une plaie à exhiber.
+
+['Il', 'Je', 'Un', 'Chacun', 'Pierre']	Groza	Le boïar descendit de cheval, l’abandonna et voulut me suivre à pas lents. [MASK] surgit au-devant de lui, droit comme un sapin et calme comme un sage. L’autre était aussi droit, mais guère calme ; tout son sang lui monta au visage
+
+['lui', 'Dieu', 'David', 'Lui', 'toi']	Sultana	Pour faire tomber l’homme dans mes mains nues, j’avais une corde, que je tenais prête à tendre d’un arbre à un autre. Le sixième soir était la veille de ce premier dimanche d’octobre où je devais célébrer mon union avec [MASK].
+
+['Joseph', 'Mahmoud', 'Moïse', 'Hassan', 'Malik']	Joakime	Je remarquai que [MASK] avait une drôle d’attitude. Affublé d’une ghéba longue jusqu’aux chevilles et d’une caciula tzourcana qui lui tombait presque sur le nez, il tenait sous le bras une grosse boîte en ébène, lourde, selon les apparences, car il la changeait de bras à chaque instant.
+
+['Il', 'Louis', 'Jean', 'Paul', 'Joseph']	Movila	Je suis son filleul. [MASK] était le nom d’un sien frère, mort du choléra. Il m’aimait, j’ose le dire, comme son fils, car je ressemblais à l’image et au caractère de son frère.
+
+['famille', 'Dieu', 'campagne', 'maman', 'Maria']	Sultana	Je hurle : — Mama-a-a ! Un bé-é-é ! me répond. Les yeux luisants disparaissent. Tard dans la nuit, j’arrive couvert de boue et transpirant. La maison de [MASK] est très éclairée, beaucoup de cierges brillent.
+
+['la', 'Marie', 'Jésus', 'Madame', 'Monsieur']	Sultana	Les morts n’aiment pas à rester seuls. Là-dessus, la vieille prit les cierges de mariage, les dépaqueta, les alluma et les plaça à la tête de [MASK], dont la face de cire devint encore plus blanche quand les deux grosses flammes éblouirent la chambre.
+
+['Il', 'Mahomet', '</s>NOTUSED', 'il', 'Allah']	Cosma	expliqua le père. — Oui, mais il dormait, le jour. Cela lui était donc facile, alors que nous, nous devons travailler. — Lui aussi : il travailla la nuit, pour écrire le Coran, notre lumière. [MASK] déclara alors vouloir être chrétien
+
+['Dieu', 'couple', 'Jésus', 'famille', 'dieu']	haïdouc	Quel dommage que la femme ne soit pas faite pour vivre la vie de [MASK] ! Ah, sentir ton amitié et ta haine près de moi, là-haut, dans les montagnes, dans la forêt, non, Dieu ne l’a pas voulu, nous serions devenus fous tous les deux
+
+['Paris', 'Carthage', 'Cannes', 'Venise', 'Marseille']	Cosma	Il se mit à ma recherche, pour confirmer la loi qui dit : « femme qui fuit l’homme se fait mieux désirer », et le soir même, après avoir enflammé [MASK] et la forêt de pins, je me laissai encercler la taille par le bras qui avait répandu l’épouvante parmi les gospodars.
+
+['Marie', 'Claire', 'Rose', 'Sophie', 'Camille']	Sultana	— Parce que tu suis toujours ton chemin et ne fais pas attention aux cris des femmes. Cette réponse de [MASK] me fit grand plaisir. Je ne dis plus rien, repoussai la rive et repris le courant, pendant qu’elle me souriait.
+
+['[...]', 'un', 'les', 'vous', 'le']	Sultana	Personne ne vint à son secours. Le cabaret se vida. Les femmes s’enfuirent. Un vieux s’exclama : — Ça, c’est une grosse histoire ! Je criai aux musiciens : — À dimanche prochain ! Je vous engage pour jouer à mes fiançailles avec [MASK]
+
+['moi', 'toi', 'non', 'vieux', 'mais']	Cosma	Que faut-il faire pour avoir de l’argent ? — Sais pas, [MASK]. Peut-être devrais-tu interroger, à ce sujet, le pope, le hodgea ou le Cârc-Serdar : ce sont tous des gens qui ne fichent rien et qui ont de l’argent.
+
+['Toi', 'Moi', 'Ah', 'Oh', 'Lui']	Jérémie	— [MASK], le fils de la forêt ! Fils de Cosma et mon fils : chez les haïdoucs, la naissance ne donne droit à aucune priorité, à aucune faveur, sauf celle d’occuper, dans la bataille, le premier rang.
+
+['On', 'Il', 'Dieu', 'Moïse', 'Jésus']	Cosma	Non, on ne peut pas s’occuper des blessures des autres lorsqu’on a soi-même de grosses plaies à soigner. Un jour cependant, l’abcès creva. [MASK] vint me dire : — Élie, allons sauter sur le dos du père, lui enlever tout son or
+
+['Dieu', 'quoi', 'feu', 'comment', 'Monsieur']	Spilca	Les lèvres charnues bougèrent, mais elles étaient desséchées ; le gosier, embarrassé, articula quelque chose d’incompréhensible. Cette entrave parut vexer le moine haïdouc. Il humecta dignement sa bouche de salive et parla avec fermeté : Récit de [MASK] le moine
+
+['On', 'Elle', 'Il', 'Ali', 'Omar']	Sultana	Des femmes gaillardes se jetèrent sur les sendouks : chemises de jour et de nuit brodées, serviettes, taies d’oreiller, draps, nappes, essuie-mains furent tirés, éparpillés dans la chambre. [MASK] eut tout juste la bonté de sourire de temps en temps.
+
+['</s>NOTUSED', 'Elle', 'Lui', 'Il', 'Marie']	Groza	: — Es-tu moins méchante aujourd’hui ? Je ne lui répondis même pas et m’éloignai, en lui tournant le dos. [MASK], qui se tenait au bord d’une mare, se mit aussitôt à fouetter la surface de l’eau avec son gros gârbaciu.
+
+['Marie', 'Jeanne', 'elle', 'Alice', 'Marguerite']	Sultana	Seule [MASK] était convaincue que « le chien » ourdissait une vengeance redoutable. — Je crains tout, mais je ne suis certaine que du malheur ; de quelque côté qu’il vienne, je sais qu’il frappera notre bonheur et que ce sera toi qui en pâtiras le plus.
+
+['moi', 'une', 'je', 'plusieurs', 'beaucoup']	Sultana	J’ai mes préférences. Aussi, sans trop hésiter, j’allai, l’après-midi du dimanche suivant, affronter l’écueil que tant de voïnics craignaient. La fière hora moldave battait sa cadence aux sons de trois instruments tziganes. Une trentaine de jeunes filles, dont [MASK].
+
+['en', 'tu', 'au', 'et', 'à']	Movila	Pourquoi es-tu devenu haïdouc ? Parle, en ton nom, au nom de nos compagnons, dont tu es plus près que nous et qui sont plus près de toi que de nous. Ton histoire doit être à peu près la leur. Parle, [MASK]…
+
+['seigneur', 'maître', 'comte', 'roi', 'prince']	boïar	Douze des seize étaient les filleuls du seigneur. À table, ma mère fut si heureuse qu’elle balbutia des bêtises, marcha sur le caftan du [MASK] et renversa son verre. Le brave homme dit alors ces paroles, qui me sont restées dans la mémoire :
+
+['voilà', 'maintenant', 'va', 'oui', 'voyons']	Rada	Mais ce peu fut assez pour me décider à lui montrer mon genou, en me disant en moi-même : « Maintenant, [MASK], ma fille, c’en est fini de la neige et des roulades ; maintenant cela va être autre chose. »
+
+['il', 'on', 'elle', 'Il', 'Alexandre']	Groza	Pris de rage de se voir tutoyé par un moujik, le malheureux porta la main à son pistolet. Il fut, en un clin d’œil, jeté à terre, désarmé, et avant qu’il eût le temps de se ramasser, [MASK] était déjà à califourchon sur le coursier de notre maître.
+
+['Puis', 'Alors', 'Et', '«', 'Ali']	Movila	[MASK], le vataf, lui présenta la félidjane au café fumant et sa boîte à tabac, à la vue desquelles les prunelles noires s’embrasèrent. On lui installa un tabouret de fortune. Elle but et fuma. Et reprit sa dernière phrase
+
+['Pierre', 'Jean', 'Marie', 'Alexandre', 'Roland']	Cosma	— Parce que, voyez-vous, l’évêque, l’aga et le boïar Dumitraki ne savent pas que nous voulons les tuer, et lorsqu’ils l’apprendront ils ne viendront pas nous offrir leur cou à trancher. — Embêtant ! fit [MASK]. — Ennuyeux !
+
+['lui', 'moi', 'elle', 'eux', 'nous']	Cosma	! J’en ai grand besoin… Il disait la vérité… Il lui en fallait… Combien ? Trois, ou six, je n’en savais rien, mais j’ai vu de mes yeux toutes les femmes du han venir à [MASK], et toutes partir joyeuses.
+
+['elle', 'il', 'on', 'personne', 'Joseph']	Cosma	C’était, en effet, et embêtant et ennuyeux. La pauvre sœur n’aimait pas les vêtements noirs, et [MASK] ne pouvait rester trop longtemps sans caresser ses femmes. J’eus pitié d’eux. — Allez, mes amis, reprenez votre vie de tous les jours.
+
+['il', 'on', 'Ahmed', 'Ali', 'Saïd']	Groza	Étendu sur l’herbe, loin de la hora, [MASK] n’apprit l’événement que par l’effervescence qui se produisit parmi les paysans après le départ du boïar. Il accourut chez nous et me trouva en sanglots. Je versai mes premières larmes de douleur.
+
+['Dieu', 'vérité', 'combien', 'dieu', 'ciel']	Salomon	Oui, ton regard, ta voix… et ta bouche aussi, il aurait dû dire. Mais, ô [MASK], à quoi bon avoir un cœur qui demande à entendre et à regarder ces choses copieuses lorsqu’on est aussi informe qu’une marmotte ?
+
+['moi', 'la', 'gauche', 'droite', 'lui']	Sultana	C’est une règle absolue, respectée par tous ceux qui ne cherchent pas dispute. Le logofat Costaki crut bon d’y contrevenir à la stupéfaction générale. Au moment où je m’y attendais le moins, une main saisit mon poignet par-derrière du côté de [MASK].
+

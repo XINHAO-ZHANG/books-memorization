@@ -1,0 +1,200 @@
+['il', 'celui-ci', 'napoléon', 'moreau', 'bonaparte']	Nicolas	Il se confessa, en effet, et mourut la tête appuyée sur la poitrine du chouan. Deux jours après, [MASK] mourait à son tour, victime de sa témérité, frappé par un boulet de l’armée royaliste, au milieu des bleus qu’il poursuivait.
+
+["c'", 'vous', 'moi', 'seigneur', 'à']	Fanchette	Je vous en prends à témoin, [MASK], vous qui avez plumé, flambé, fait rôtir ou mis aux choux les perdrix que tuait mon grand-père, en ces temps légendaires, dans le Craonais giboyeux, avec son fusil en fer aigre.
+
+['elle', 'ou', 'qui', 'et', 'on']	Jacques	Elle avait l’air très candide, le sourire d’une pensée intime et tranquille plissait très finement sa bouche et ses yeux bleus, sa main droite tenait une ombrelle, et sa gauche retombait négligemment au niveau des herbes du pré, qu’elle tourmentait. [MASK] la voyait.
+
+['</s>', '"', 'il', '-', 'on']	Napoléon	— J’ai besoin de bons officiers, monsieur, et de gentilshommes. — Faites-en, Sire. [MASK] le regarda, étonné de cette hardiesse. Un éclair de colère passa dans ses yeux. Puis, vaincu par ce grand cœur d’un simple officier, il répondit :
+
+['le', 'la', "l'", 'john', 'georges']	Jacques	Vous croyez ? dit ma tante Giron en levant les épaules. — Je ne lui ai jamais rien avoué, répondit [MASK], dans les yeux duquel une larme se mit à trembler. — En vérité, vous êtes trop bêtes, vous autres hommes de ville !
+
+['rome', 'paris', 'la', 'versailles', 'noël']	Pâques	Il en sortit six enfants de chœur comme à [MASK]. Les fiancés contractèrent mariage devant l’abbé Courtois, et ce fut lui qui les bénit. Il avait bien préparé un petit discours, mais il comptait sans l’émotion. Quand il vit tant de monde et tant de beau monde ;
+
+['écoute', 'va', 'ami', 'et', 'toi']	Sosthène	Le contraire viendra. — Si ça se pouvait ! répondit-il, en jetant sur ma tante Giron un coup d’œil rapide où éclatait la joie encore anxieuse de son âme. — Écoute, [MASK], suis mon conseil, tu t’en trouveras bien : quitte la tauperie.
+
+['ce', ',', 'cette', '</s>', 'cela']	Marthe	— Tant mieux. Mais c’est à [MASK] surtout qu’il faut être reconnaissant. Je vous raconterai tout demain, sur la route. Pas ce soir, vous en feriez une maladie. Ah çà ! continua-t-elle, vous ne m’offrez rien, ma sœur
+
+['</s>', '-', '"', 'elle', 'il']	Annette	Tu sais que je suis la maîtresse lingère la plus occupée du bourg. Avec moi, tu es sûre de ne jamais manquer de travail. [MASK] avait continué de secouer la tête. — Eh bien ! je te donnerai sept sous par jour.
+
+['</s>', '_', '"', 'se', '-']	Sosthène	! La regarder, c’était donc penser à l’autre. [MASK] trouvait même, par moments, qu’elle lui ressemblait, de loin peut-être, mais l’autre était douce à voir, même de loin. Il pensait :
+
+['</s>', 'marie', 'elle', 'madame', 'thérèse']	Marthe	Elle l’ouvrit avec une certaine solennité. [MASK], qui l’observait, la vit étudier avec une satisfaction croissante un gros cahier d’écritures qui se terminait par un paraphe magistral : évidemment celui d’un homme d’affaires.
+
+['celui-ci', 'chacun', 'tom', 'tout', 'toujours']	Cab	Quand on fut en terrain plat, on s’arrêta, et le vieux métayer alla s’assurer que les courroies des jougs n’avaient pas cédé, tandis que le baron, mettant pied à terre, débarrassait [MASK] de son collier de labour.
+
+['restez', 'dit-il', 'dit-elle', 'reste', 'dis-je']	Gerbellière	— Restez, restez, [MASK], ce n’est pas la peine d’aller si loin. Attendez-moi. Il fit volter son cheval, rebroussa chemin pendant quelques mètres, et s’arrêta face à la haie de droite, assez basse en cet endroit.
+
+['elle', 'et', ',', 'qui', 'fille']	ANNETTE	[MASK] S’ÉTAIT JETÉE TOUT habillée sur son lit. Elle cachait sa tête dans ses mains, et ne répondait que par des soupirs et des sanglots aux paroles de sa sœur assise à côté d’elle. Elle ne pleurait plus, ses yeux ayant donné toutes leurs larmes.
+
+['adieu', 'merci', 'bonsoir', '"', 'oui']	Jacques	Adieu, [MASK]… Le baron, troublé de cette confidence, de cette douleur dont il était la cause involontaire, et sentant venu le moment de la séparation, d’une séparation peut-être définitive, resta quelque temps sans parler, tenant serrée la main de son camarade d’enfance.
+
+['dieu', 'jésus-christ', 'jésus', 'marie', 'deux']	Marthe	Pendant le repas, elle ne mangea guère, absorbée qu’elle était par la contemplation de ces deux jeunes gens qu’elle aimait tendrement, et peut-être aussi par de lointains souvenirs maternels, qu’éveillait toujours en elle la présence de [MASK], et cette fois plus que d’ordinaire.
+
+['dit-il', 'répondit-il', 'père', 'monsieur', 'dit-elle']	Sosthène	— C’est bien, [MASK], et moi, je pourrai dire au père Gerbellière : « Ce n’est plus un taupier qui demande votre fille, c’est un métayer, un bon laboureur qui gagne honnêtement sa vie au soleil, donnez-lui Annette. »
+
+['on', 'qui', 'il', 'elle', 'je']	François	— Bah ! reprit le baron, ce n’est pas une raison pour manquer l’ouverture. Nous allons tout à l’heure quitter la tente pour prendre le café dans le salon. Montez dans ma chambre, [MASK] vous donnera mes guêtres et mon fusil…
+
+['ceux', 'carthage', 'rome', 'judas', 'la']	Géromet	Il n’avait point hérité des secrets, du bissac, ni des pièges de [MASK], il les avait achetés, et c’était uniquement les conditions du prix qu’ils débattaient dans cette entrevue mystérieuse qui fit scandale dans le pays.
+
+['</s>', '"', '_', "--c'", '--non']	Annette	Je ne m’en plains pas. Mais je vieillis, et j’ai besoin d’un remplaçant : il faudra te marier de bonne heure. [MASK] était devenue grande. Un premier parti s’était offert pour elle : elle l’avait repoussé.
+
+['lui', 'chacun', 'charles', 'moi-même', 'henri']	Cab	Quand j’ai si heureusement donné un effort à [MASK] pour son service, je crois que je l’aimais déjà, car enfin, mon ami, on ne jette pas un pur sang dans la boue, on ne lui met pas au cou un collier de labour pour une indifférente.
+
+['pa', 'ti', 'ci', 'nom', 'mira']	Sosthène	— Peut-être bien. — Et puis, on est son maître et celui des autres… L’œil de [MASK] brilla. — Rien ne vous résiste, dit le taupier, la fille qu’on veut en mariage, on l’a toujours.
+
+['toi', 'vous', 'moi', 'lui', 'nous']	Cab	Elle sauta sur l’herbe, et vint à lui. — Ah ! monsieur, dit-elle, cette jolie bête s’est donné un effort. Quel malheur ! — C’est la première fois que nous opérons un sauvetage, [MASK] et moi. Une autre fois nous ferons mieux.
+
+['le', 'mon', 'la', 'ma', "l'"]	Jacques	Avant de regagner leurs places, ils s’arrêtèrent près de chacun pour recueillir ou dire un mot aimable. En passant près de mon grand-père, [MASK], qui le connaissait bien, s’aperçut qu’il était soucieux. La jeune femme causait avec le chevalier d’Usselette.
+
+['elle', 'cela', 'tout', 'il', 'elle-même']	Marie	Puis, doucement et prêtant l’oreille pour écouter si [MASK] ne s’éveillait pas, elle ouvrit l’armoire, et atteignit sa robe blanche, qu’elle portait aux processions de la paroisse. Elle s’en revêtit en hâte, comme si quelqu’un l’attendait.
+
+['son', "l'", 'la', 'sa', 'jean']	Gerbellière	La lourde masse de fer, sifflant dans l’air, allait s’abattre et tuer l’un des deux agresseurs avant qu’il eût pu se mettre en garde, quand l’autre asséna un coup violent sur le bras levé de [MASK]. Le métayer poussa un cri de douleur.
+
+['elle', 'on', 'et', 'marthe', 'jeanne']	Marthe	Tout au fond, dans l’ombre, agenouillée, [MASK] regardait tour à tour ces mains maigres, immobiles sur le drap du lit, ce pauvre visage encadré de mèches grises, blanc comme l’oreiller, et pleurait. Mais, à travers ses larmes, elle veillait à tout.
+
+["l'", ',', 'madame', 'louise', 'mademoiselle']	Marthe	Je ne comptais venir ici que dans deux jours. — J’espère bien, en effet, que ma tante, dit [MASK] embarrassée, je suis même persuadée… — Est-ce que mademoiselle votre tante serait jalouse de la chasse ?
+
+['de', 'à', '(', "d'", ',']	Gerbellière	— Ah ! mon Dieu, je n’en savais rien, monsieur le curé ! — Il est grand temps que vous le sachiez. Oui, Dieu l’appelle, et le malheur, c’est que le père ne veut pas la laisser partir. — Lui, [MASK]
+
+['pierre', 'jean', 'paul', 'henri', 'georges']	Jacques	— Est-ce en qualité de mineur, mon cher, dit [MASK], ou de scieur de long, ou de brasseur de bière que tu vas aborder le nouveau monde ? — Non, mon ami, en qualité de planteur.
+
+['il', 'elle', '</s>', 'on', 'celui-ci']	Annette	Les jeunes gars de la paroisse, quêtant fortune ailleurs, ne l’avaient plus demandée. Le père cherchait avec inquiétude quelle pensée secrète sa fille lui cachait. Il l’apprit un jour. [MASK] lui déclara qu’elle désirait entrer au couvent. Alors un mauvais sentiment s’empara de lui.
+
+['paul', 'thomas', 'marie', 'julien', 'sophie']	Gerbellière	« Elle acceptera le prochain », avait pensé [MASK]. Un second prétendant avait eu le même sort, puis un troisième encore. Les jeunes gars de la paroisse, quêtant fortune ailleurs, ne l’avaient plus demandée. Le père cherchait avec inquiétude quelle pensée secrète sa fille lui cachait.
+
+['elle', '</s>', 'madeleine', 'valentine', 'il']	Marthe	Le bruit de gros souliers ferrés battant les dalles du corridor la rappela au sentiment de la réalité. Il était trop tard pour quitter l’appartement : il n’y avait plus qu’à faire bonne contenance. [MASK] se tint debout, occupée à plier le rideau jaune, près de la cheminée.
+
+['personne', 'lui', 'elle-même', 'elle', 'moi']	Marthe	Pendant longtemps elle oublia de parler à [MASK], ou ne le put pas. Tout à coup, en rentrant dans une rue populeuse, le bruit et le contact de la foule la firent tressaillir. Elle tourna vers sa compagne ses yeux noirs si purs, encore humides.
+
+['le', 'les', 'leur', '.', 'se']	Gerbellière	Avant qu’ils l’eussent atteint, il se fit un grand bruit dans la haie au-dessus du chemin, et, pêle-mêle avec des branches mortes et un tourbillon de feuilles, une masse noire tomba entre eux et [MASK]. En même temps, un cri retentit :
+
+['elle', 'et', 'il', 'puis', '</s>']	Marthe	Un instant après, il passait devant le salon, sans regarder, sans saluer, sans s’arrêter, cachant sa figure avec sa main droite. [MASK] courut à la fenêtre. Elle le vit sortir par la prairie. Il avait l’air égaré.
+
+[',', 'à', 'et', 'tant', 'qui']	Marthe	[MASK] se trouvait prise pour arbitre. Avec cet instinct diplomatique dont les femmes sont douées dès leur enfance, et qui est cause de tant de merveilleux dénouements autour d’elles, la jeune fille avait deviné le problème à résoudre, et tenait déjà la solution. — Eh bien
+
+[':', 'lire', '"', 'ceci', 'de']	Marthe	Ma tante se retourna vivement du côté de [MASK] : la jeune fille était surprise, inquiète, mais elle n’avait rien vu. — On a besoin de moi en bas, répondit-elle, s’efforçant de dissimuler le tremblement qui l’agitait. — On vous appelle
+
+['</s>', 'elle', '-', 'il', 'qui']	Annette	Cependant c’était encore l’heure crépusculaire, terne, brumeuse et froide. Pas un murmure dans la campagne. Toutes les bêtes qui voyagent la nuit étaient rentrées. Celles du jour dormaient encore. [MASK] sortit du jardin, et entra dans le grand pré où elle fanait la veille.
+
+['--non', '</s>', '--oui', '"', '...']	Jacques	— Déjà midi ! s’écria mon grand-père en se levant précipitamment. Je suis en retard. L’audience va commencer. Et le président qui doit aller à la campagne ! [MASK], mon enfant, je ne puis vous quitter ainsi ! Il faut que je vous revoie.
+
+['</s>', 'elle', 'il', '"', 'lui']	Annette	Que pouvaient ses douces paroles, contre les rudes propos qui avaient blessé sa sœur ? Elle lui avait dit tout ce qu’elle avait trouvé dans son bon cœur de mauvaises raisons et de paroles affectueuses. [MASK] avait tourné la tête, comme pour dire : « Tout est inutile.
+
+['par', 'le', 'que', 'dans', ',']	Marthe	[MASK] le regarda. Dans quel état, grand Dieu étaient cheval et cavalier ! De l’élégant costume du jeune homme la mare n’avait rien épargné : les bottes vernies et la culotte de peau de daim étaient revêtues d’un enduit brun, semé de plaques de canetille verte
+
+['on', 'je', 'il', 'qui', 'comme']	Humboldt	— Et chose remarquable : ils sont justes ! — Je vous en fais mon compliment. — Ces comptes-là te concernent. — Ah ! — Tu auras beau prétendre le contraire, mon cher ami, je vieillis. [MASK] me le disait hier :
+
+['</s>', 'il', 'on', 'qui', '-']	Sosthène	De grandes touffes de lis jaunes poussaient là, tout fleuris. Elle les écarta de la main gauche, sans baisser les yeux, fit encore un pas. [MASK] ne vit plus rien. Il entendit un cri perçant et le bruit de l’eau qui se refermait sur sa proie.
+
+['qui', 'à', '...', 'mort', 'et']	Annette	18 L ’INTERVENTION DU CURÉ N’AVAIT pas échappé à [MASK]. En voyant ma tante Giron revenir sur ses pas et se diriger vers la ferme, elle avait tout deviné. Une lutte allait s’engager, dont elle-même était l’enjeu. Quelle en serait l’issue
+
+[',', 'elle', 'il', 'fois', 'et']	Marthe	[MASK] s’apercevait du trouble extraordinaire de sa compagne, et s’étonnait qu’une fille, d’ordinaire si réservée, s’abandonnât ainsi. Plusieurs fois, elle crut remarquer qu’une des religieuses les plus rapprochées de la grille regardait cette enfant prosternée dans l’église.
+
+['</s>', '"', 'elle', 'il', "c'"]	Bubusse	L’histoire avait eu du succès. [MASK] était devenu légendaire, et le lièvre, cause innocente de tant de bruit, coup de fusil, querelle et procès, courait encore de temps en temps dans les conversations des châtelains des environs.
+
+['lui', 'lui-même', 'nouveau', 'tout', 'penser']	Marthe	Il lui fallait parler de [MASK] à quelqu’un, appuyer ses espérances aux espérances d’un autre, trouver un écho à cette chanson d’amour qui maintenant chantait en lui. Tantôt un sourire lui montait aux lèvres, et tantôt une larme aux yeux : larme et sourire, c’était de la joie.
+
+['et', 'lui-même', 'que', ',', 'qui']	Géromet	» Il se releva ; il voulait partir, il ne pouvait. Alors il s’assit sur le talus. À côté de lui, il y avait un homme, et cet homme c’était [MASK], qui lui mit la main sur le bras, et lui dit
+
+['je', 'on', 'il', 'ça', 'nous']	Bubusse	Bientôt la jeune fille entendit le son de leurs voix. Évidemment il y avait querelle entre eux. Mais le jeune homme prenait la chose en riant, tandis que le garde était tragique. — Notre voisin s’est fait prendre à la chasse, et [MASK] l’amène, pensa-t-elle.
+
+['pardon', 'cela', 'grâce', 'justice', 'mieux']	Fragonard	— Et puis, qui sait, à supposer que je la demande, si l’on m’agréerait ? — Vous êtes un petit fat, mon neveu, qui voudriez un compliment : vous ne l’aurez pas. Mais vous demanderez [MASK], et vous l’aurez.
+
+['son', 'sa', 'ses', 'tous', "l'"]	Annette	Dans sa naïveté paysanne, elle s’imaginait qu’un peu de tilleul ferait du bien à [MASK]. C’est un remède universel à la campagne. Elle n’avait que celui-là, d’ailleurs, à sa portée.
+
+['monsieur', 'non', 'vrai', 'cela', 'dit']	Francine	Pas vrai, [MASK] ? Il y avait huit ans que ce frère et cette sœur ne s’étaient vus, et ces deux cœurs simples, cinq minutes après leur réunion, cherchaient tranquillement ensemble quel était l’homme des environs du bourg de Batz que le père Gerbellière avait connu.
+
+['il', 'et', 'elle', 'en', 'qui']	Nicolas	Aussitôt, [MASK] fit le tour par la brèche, et s’approcha du blessé. Toute sa colère s’était dissipée. Devant ce brave qu’il avait tué, une pitié mêlée d’admiration lui remplit l’âme. Et entre les deux ennemis s’établit ce dialogue :
+
+['</s>', '-', 'lui', 'celui', '"']	Marthe	Est-il parti pour toujours ? — Heureusement non, pour quatre mois seulement. [MASK], que cette nouvelle atteignait au cœur, ne put réprimer le premier mouvement de son émotion. — Quatre mois, dit-elle, vous êtes sûr, monsieur ? — Mais oui, mon enfant.
+
+['celui-ci', 'jacques', 'maurice', 'joseph', 'rodolphe']	Jules	Je t’en supplie, reste : j’irai demain trouver ton père, je lui dirai… — Non, mon ami, répondit [MASK] en lui prenant la main et en se détournant pour dissimuler son émotion : plus un mot de tout cela. Je suis décidé.
+
+['allez', 'allons', '!', 'vite', 'va']	Jacques	Allez, allez, [MASK], criait mon grand-père ; je vous rejoindrai tout à l’heure ; vous savez que ce sont des gris : prenez le vent ! Puis, sans se presser, il se remit à nettoyer son fusil en fer aigre. En fer aigre !
+
+['il', 'on', 'chacun', 'celui-ci', "c'"]	Gerbellière	Il se fit un grand silence dans la salle, car [MASK] exerçait une autorité absolue chez lui, et nul n’aurait osé le contredire. Les convives, étonnés de cette nouvelle si singulièrement annoncée, sur un ton de menace, se regardèrent avec des airs d’intelligence et des hochements de tête.
+
+['maman', 'hein', 'non', 'papa', 'toi']	Annette	! — Donne-moi aussi la petite caisse de confitures, répondait la jeune fille, et le panier de raisin, dans l’office. — Tu as bien ta caisse de coiffes, [MASK] ? — Oui, maman, au fond, avec le gros coffre.
+
+[',', '.', 'par', '!', '(']	Gerbellière	Mais habilement et fortement maintenue, elle fut contrainte de reculer jusqu’auprès des premiers bœufs de l’attelage. Alors, se détournant sur sa selle, le jeune homme accrocha les deux traits à la boucle de fer qui terminait le timon, et dit : — Y êtes-vous [MASK]
+
+['les', 'à', 'une', 'quatre', 'un']	Baptiste	— Combien sont-ils ? — Quatre, en comptant [MASK]. — Trempe la soupe, et mets un couvert de plus. Mon grand-père, le baron, le comte et le garde entrèrent, en effet, dans la cuisine, unique vestibule des logis d’autrefois.
+
+['elle', 'et', ',', 'poitrine', 'tête']	Annette	[MASK] s’était de nouveau courbée. Sa figure exprimait un ravissement profond, et de ses yeux à moitié fermés des larmes s’échappaient, abondantes, sans qu’elle y prît garde. Elle resta ainsi, sans faire un mouvement, longtemps après que la novice eut cessé de chanter.
+
+['jacques', 'jeanne', 'julien', 'marguerite', 'catherine']	Jacques	? — Madame ! — Et qu’elle vous aime ! — Vous vous moquez, madame, et c’est mal à vous ! répondit [MASK], très pâle. — Vous en doutez ? Voulez-vous une preuve ? Je l’ai vue avant de partir.
+
+['"', 'mr', 'la', 'dieu', 'mrs']	Bubusse	Vous devinez mon crime, et vous voyez la victime entre les mains de [MASK]. Quand je l’ai tirée, j’ignorais complètement que j’étais aussi près du château, – il y a si longtemps que j’ai quitté le pays !
+
+['ce', 'temps', 'neuf', '...', 'frais']	Jacques	Aux derniers mots de [MASK], il se recula d’un pas, tandis que le jeune homme, debout à côté du guéridon qui les séparait, embarrassé, affectait de regarder dans la rue. — Comment, vous aussi ! dit-il, mais c’est une folie contagieuse
+
+['le', ',', 'la', 'un', 'ce']	Marthe	— Oui, vraiment : une vraie trouvaille que tu as faite là. — C’est pour une heure, ma tante. — Puisque nous serons chez nous, je t’emmène, petite. Seule, je m’ennuierais trop. — Comme vous voudrez, répondit [MASK] négligemment.
+
+['il', 'très', 'et', "c'", 'tout']	Mariette	Il est très bon, [MASK], très bon ; mais va te reposer, pour te lever demain, pour la fête. — Quelle fête ? C’est mercredi demain. Il n’y a pas de fête, au contraire… J’irai à l’enterrement de mademoiselle, tu sais bien ?
+
+['</s>', 'elle', '"', '-', '--je']	Marthe	— Elle ne m’offense pas non plus. Mais l’invitation est inacceptable : me rendre seule chez lui, c’est au-dessus de mes forces ; m’y rendre avec toi, c’est impossible. [MASK] resta quelque temps silencieuse, relisant la lettre qu’elle savait par cœur.
+
+['vous', 'moi', 'lui', 'monsieur', 'là']	Taluet	Ce n’est peut-être qu’une courte épreuve. Si mon projet réussit, vous le reverrez. Savez-vous pourquoi il part ? — J’ai cherché, sans trouver, répondit-elle. — Je suis comme vous, [MASK] aussi, que j’ai rencontré au bourg.
+
+['il', 'qui', 'elle', 'et', "qu'"]	Jacques	Mais les premières gouttes d’une pluie d’orage commencèrent à tomber. L’une d’elles, perçant le feuillage, heurta la surface de l’eau, et rejaillit. Instinctivement, [MASK] l’avait suivie des yeux. Le petit lac, un instant ridé, reprenait déjà son calme.
+
+['elle', "m'", 'il', 'qui', ',']	Sosthène	[MASK] ouvrit la porte basse qui donnait accès dans le courtil, pendant que ma tante Giron distribuait quelques poignées de main autour d’elle. Tous deux furent bientôt sortis du jardin, et prirent le sentier qui coupe les prés.
+
+['et', 'le', 'les', 'pour', 'qui']	Annette	— Non, mon garçon, tu le sais bien, puisque nous avons passé la veillée ensemble. — C’est qu’elle aurait pu vous dire quelque chose. — Vraiment ! et quoi donc ? — Vous connaissez bien la fille de la Gerbellière ? — [MASK] ?
+
+['monsieur', 'manger', 'madame', 'chacun', 'midi']	Rosalie	Toute occasion lui était bonne pour les morigéner. Quand nous venions la voir pendant les vacances, tout enfants, et qu’il était l’heure de goûter : — Les enfants, disait-elle, allez demander à [MASK] une tartine de raisiné… on dit du raisiné par ici.
+
+['il', ',', 'elle', 'lui', 'me']	Marthe	[MASK] déclara que la chambre était ravissante, qu’elle n’en avait point de si belle, ni de si fraîche, et les deux jeunes filles, rouges de joie, le crurent tout en faisant des signes d’incrédulité. Après avoir admiré l’ensemble, il fallut admirer le détail.
+
+['lui-même', 'celui-ci', 'maurice', 'lui', 'julien']	Luneau	Le métayer, un peu honteux de cette aventure dans laquelle il n’avait point eu le dessus, lui qui n’avait pas craint deux hommes dans sa jeunesse, fit promettre à [MASK] de n’en point parler. Lui-même n’en souffla mot.
+
+['joie', 'logis', 'chambre', 'chœur', 'garde']	Francine	— C’est cela, dirent les filles de [MASK]. Elles laissèrent monter devant elles les deux voyageuses, et dans l’ombre de l’escalier, elles se faisaient des signes d’intelligence, les deux pauvres ouvrières, se réjouissant déjà des surprises de la petite châtelaine.
+
+['</s>', 'elle', 'il', 'et', 'qui']	Marthe	Mais, à travers ses larmes, elle veillait à tout. La malade tourna lentement les yeux du côté de la porte qui s’ouvrait, et remua les lèvres. [MASK] se pencha. — Elle demande du vin, dit-elle.
+
+['monsieur', 'madame', 'mademoiselle', 'bussy', 'monseigneur']	Marthe	— C’est bien cela, dit [MASK] ; voyez, monsieur, comme c’est loin déjà : j’avais presque oublié… À ce moment, mademoiselle d’Houllins entra précipitamment, essoufflée, la face enluminée des couleurs de la course et d’une violente indignation.
+
+[',', 'il', 'qui', ';', 'se']	Annette	[MASK] profita d’un moment où les faneuses ne regardaient pas de son côté, passa rapidement la barrière, et se trouva dans le chemin. En se dissimulant derrière les haies, elle tourna la ferme, et entra dans le jardin à moitié inculte.
+
+['oui', 'non', 'bien', 'toujours', 'voyez-vous']	Gerbellière	— Les enfants, [MASK] ; du moins de mon temps c’était ainsi. — Il faut croire que tout a changé, alors. Et ce fut tout. Bien que le métayer fût taciturne de nature, ma tante s’étonna de le trouver si peu communicatif.
+
+['elle', 'lui', 'dieu', 'elle-même', 'marie']	Marie	Elle s’approcha de la noyée, et, aidée par [MASK], lui enleva sa robe mouillée, la couvrit de vêtements épais, et la roula dans une couverture. Elle la coucha ensuite sur le côté, les pieds appuyés sur des briques chaudes enlevées au foyer, lui frotta les tempes avec de l’eau-de-vie.
+
+['lui', 'nous', 'le', 'moi', 'paris']	Marthe	. — Monsieur est de bonne prise ! dit-il avec véhémence ; il se trouvait avec son fusil et son chien dans la pièce… — Taisez-vous, mon ami, interrompit le baron qui était entré derrière le garde, et s’avançait vers [MASK].
+
+['s', 'plus', 'dit', 'donné', 'qu']	François	Comme c’est difficile à voir !… Mon frère refuser ? jamais. – Toute ma vie reconnaissant… le plus heureux ou le plus malheureux…, tu, tu, tu… on connaît ça… Il est fou, ton maître, [MASK], il est fou
+
+['qui', 'elle', '</s>', 'on', 'il']	Annette	C’était bon pour un va-nu-pieds comme le père Géromet. [MASK] ne voudra jamais épouser un taupier. Prends-en ton parti, ou bien promets-moi de jeter à l’eau ton sac, tes pièges et tout ton attirail.
+
+['soi-même', 'lui-même', 'indépendant', 'autonome', 'tranquille']	Parisien	— Quatre mois, dit-elle, vous êtes sûr, monsieur ? — Mais oui, mon enfant. Ce n’est pas de trop pour renouer tant de belles relations qu’il avait, et que l’absence dénoue vite, pour secouer la poussière provinciale et redevenir [MASK].
+
+['il', 'y', 'elle', 'lui', 'georges']	Bubusse	Elle n’attendit pas longtemps. La porte s’ouvrit brusquement, et [MASK] entra, les deux bras tendus. Dans une main il avait sa casquette de garde, dans l’autre un énorme lièvre qu’il tenait par les oreilles. — Monsieur est de bonne prise !
+
+[',', 'elle', 'et', ':', '.elle']	Annette	[MASK] sauta à terre, paya, remercia, et passa l’échalier. Elle allait lentement, endimanchée, par la voyette du champ, inquiète de paraître devant son père et cependant contente de le revoir. Tout le long de la haie, les chatons de saule étaient déjà duvetés.
+
+['jésus', 'dieu', 'jésus-christ', ',', 'césar']	Sosthène	Les derniers incrédules se rendirent à l’évidence quand [MASK] en personne, la bêche sur l’épaule et portant en travers du corps le sac de peau « avec tout ce qu’il y avait dedans », se mit à parcourir le pays, en offrant ses services et demandant leur pratique aux métayers.
+
+['</s>', 'elle', '"', "c'", '-']	Marthe	Un chapeau à esprit ? oui, cela s’appelait ainsi. [MASK] recevait un journal de modes, alors très en faveur, l’Album. Elle y avait lu cet avis alléchant, écrit dans le style pomponné de l’époque : « Les esprits ont décidément la vogue.
+
+['elle', "s'", 'qui', 'il', 'y']	Marthe	Il faisait bon marcher dans l’air piquant, et [MASK] allait, plus légère encore que de coutume, toute rose sous son chapeau bleu. Hélas ! celui qu’elle aurait voulu voir n’était pas à l’église quand elle y entra. Il n’y parut pas.
+
+['eux', 'lui', 'elles', 'elle', 'nous']	Francine	Comme tout cela chante dans les prés, et comme les prés sont verts ! La berline s’arrêta tout au commencement du bourg, et tandis que le postillon, aidé de Gerbellière, dételait les chevaux et déchargeait les bagages, les deux jeunes filles prirent les devants, et montèrent chez [MASK].
+
+['</s>', 'il', 'on', 'elle', 'chacun']	Marie	Elle ne pleurait plus, ses yeux ayant donné toutes leurs larmes. Sa respiration, de plus en plus haletante, le gonflement des veines de ses tempes, attestaient que la fièvre montait encore. [MASK] la voyait malade, et ne savait comment la soigner.
+
+['toi', 'maintenant', 'dit-il', 'dit-elle', 'moi']	Annette	Quelques jours après son arrivée, son père lui avait dit : — Si tu veux me faire plaisir, [MASK], tu laisseras tes fers et tes ciseaux pour cet été, et tu nous aideras aux champs. — Oui, père. Il n’avait rien ajouté.
+
+['que', 'dans', 'par', 'sur', 'entre']	Marthe	Elle s’assit sur le canapé rouge. Le baron prit une chaise en face d’elle. Il y eut un petit silence. [MASK] le rompit la première. — Je suis bien fâchée pour vous, monsieur, de ce contretemps. — Et pourquoi, mademoiselle ?
+
+[',', '-', ';', ':', 'et']	Sosthène	[MASK] savait-il bien ce qu’il faisait ? Il se pencha, et murmura : — Dis-moi le secret, je veux bien. Alors s’engagea entre les deux hommes une conversation à voix très basse, dont personne n’a jamais rien entendu ni su.
+
+['toi', 'oui', 'non', 'seigneur', 'frère']	Gerbellière	Les femmes sont ainsi : elles font volontiers une sottise pour en réparer une autre. Vous voyez bien qu’il fauche ? Vous n’allez pas lui dire dans son champ : « [MASK], tu es un mécréant. » Patientez une demi-heure. Il rentre toujours un peu avant son monde.
+
+['chez', 'en', 'un', 'avec', 'à']	Jules	J’achète un cheval et des chiens ; je retrouve [MASK], un camarade d’enfance, votre beau-frère, un ami que ma mère aimait déjà ; nous chassons ensemble dans un pays merveilleux : je cours les forêts voisines ;
+
+["c'", 'il', '</s>', "--c'", 'qui']	Gerbellière	Plusieurs avaient remarqué la brouille. Un seul homme en connaissait le motif et l’histoire : le curé de Marans. [MASK] était un de ces rudes métayers, comme il en comptait beaucoup dans sa paroisse qui, jeunes, avaient l’air d’athlètes, et vieux, de patriarches.
+
+['rodin', 'charles', 'georges', 'vivement', 'le']	Jacques	— Parbleu ! dit-il. — Que veux-tu dire ? demanda [MASK]. — Tout simplement, mon cher, que ce pays a pour toi des attraits qu’il ne peut avoir pour moi, de charmants voisinages, par exemple.
+
+['toi', 'oui', 'moi', 'non', 'si']	Gerbellière	— [MASK], dit ma tante d’une voix sévère, tu résistes à Dieu : il arrivera malheur à cette maison. Moi, je n’y resterai pas plus longtemps. Elle sortit, sans autre adieu, traversa la cour, et prit le chemin.
+

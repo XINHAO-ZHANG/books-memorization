@@ -1,0 +1,200 @@
+['lui', 'elle', 'Elizabeth', 'Jane', 'il']	Napoléon	Il regarda ses ongles bordés de noir comme une lettre funèbre, au moment où [MASK] et son père mettaient le couvert sur une table ronde. Il s’empara d’une fourchette et se cura les ongles, avec la satisfaction d’un gentleman qui attache beaucoup d’importance aux soins corporels.
+
+['Il', 'Elle', 'Marie', 'Charles', 'Louis']	Cocotte	; les yeux bouffis, les jambes titubantes, il alla cuver son vin dans une des chambres d’en haut, suivi des Irlandaises et de leur tante qui avaient juré de se montrer à l’avenir pleines de probité. [MASK] dormait encore sur sa chaise ;
+
+['maman', 'Maman', 'Marie', 'Madame', 'Jeanne']	Pascalino	Je gardais tout cela pour ma fille qui va revenir bien fatiguée du concert… si elle rentre… Je désire qu’elle fasse ce soir la connaissance d’un homme aimant et riche… Nous n’avons plus d’argent… – Va d’abord veiller les saucisses, grommela [MASK].
+
+['Jeanne', 'Joséphine', 'Marie', 'Blanche', 'Madeleine']	Lina	, allait sans doute l’achever, lorsque la porte s’ouvrit brusquement. [MASK] en chapeau à plumes, en robe de soie jaune à crinoline, se précipita au secours de sa mère, suivie de deux ou trois noirs qui habitaient les cases voisines.
+
+['John', 'Lincoln', 'James', 'David', 'Jack']	Pascalino	– Oui, crièrent les noirs. Il faut le tuer. Et le poing de l’un d’eux s’abattit sur la poitrine de [MASK] qui résonna sourdement pendant qu’un filet de sang lui empourprait le coin des lèvres.
+
+['Joseph', 'Charles', 'Louis', 'Monsieur', 'Pierre']	Lina	Elle avait conservé de cette existence de débauche des relations avec toutes les entremetteuses de la ville. Avec l’hypocrisie caressante de sa race, elle s’insinua, peu à peu, avec l’aide de [MASK], dans les bonnes grâces de sa maîtresse.
+
+['il', 'elle', 'Il', 'Thomas', 'Jack']	Lina	Il avait tiré son couteau et frappait au hasard devant lui cherchant à gagner la porte. Dans la bagarre, [MASK] eut la joue coupée d’une estafilade qui partait de l’oreille pour rejoindre le coin de la bouche. Son visage n’était plus qu’un large rire sanglant.
+
+['Marie', '«', 'Elle', 'Joséphine', 'Maria']	Lina	[MASK], une négresse de quinze ans et d’une beauté tout animale, eut un sourire de complicité et se hâta de disparaître, en faisant osciller ses hanches de ce mouvement du torse particulier aux négresses et aux créoles et que les marins expriment familièrement par le terme « chalouper ».
+
+['il', 'Il', 'Antoine', 'Alexandre', 'Pierre']	Pascalino	Etendu à côté de sa maîtresse, [MASK] avait noué ses jambes sèches et poilues comme celles d’un satyre antique aux cuisses et aux jambes grasses et roses de sa maîtresse. Ses yeux, allumés par la fièvre de la cupidité, étincelaient d’une bile couleur d’or.
+
+['Elle', 'Il', 'Marie', 'Isabelle', 'Jeanne']	Vénus	[MASK] eut un sourire d’orgueil pour son salon et sa bonne humeur entrouvrit une gueule comparable à celle d’une baleine. – Mais, reprit-elle, avec une noble condescendance, grisée par son rôle de maîtresse de maison, vous accepterez bien quelques rafraîchissements.
+
+['Marie', 'Jean', 'Alice', 'John', 'Jack']	Pascalino	– Je n’ai rien pris aujourd’hui, grogna [MASK], avec colère. Te moques-tu de moi, avec tes pots de cristal pleins de limonade et de glace ? – Pardon ? J’ai des saucisses, un peu de mouton, des bananes et d’autres fruits.
+
+['</s>NOTUSED', 'Elle', 'Marie', 'Jeanne', 'Emma']	Lina	Une âcre poussière prenait à la gorge, avec un goût fade de pourriture. Les riches étaient partis, les pauvres étaient morts. [MASK], sitôt ses lettres jetées à la boîte, eut l’idée de passer devant la maison de sa mère dont elle n’avait plus eu de nouvelles.
+
+['elle', 'Marie', 'Jeanne', 'Blanche', 'Joséphine']	Lina	Mais [MASK] s’était avancée résolument. – Allons, dit-elle avec autorité aux noirs, voulez-vous donc vous mettre une affaire sur les bras ? Laissez-le aller. Cette bonne correction suffit… Il s’en souviendra. – Grâce ! grâce !
+
+['Louis', 'Voltaire', 'Joseph', 'Charles', 'Alexandre']	Growlson	? Mais regardez les dernières pages ; vous verrez là de vraies dames de la société ; des femmes de négociants, de planteurs, de magistrats. Et elles ne sont pas plus farouches que les autres ! – Vous ne regardez pas ? dit [MASK] à son hôte.
+
+['Charles', 'Paul', 'Jean', 'Robert', 'Louis']	Growlson	il n’eut que la force d’avaler une grande rasade de whisky. – Eh bien ! qu’y a-t-il ? s’écria [MASK], surpris de sa pâleur et de son silence. – Ce n’est rien, balbutia le créole… Un simple étourdissement.
+
+['maman', 'Jeanne', 'Marie', 'Berthe', 'Maman']	Vénus	Nous verrons comment vous vivrez sans l’argent de mes messieurs ! – Petite rouleuse ! cria [MASK] d’un ton aigre. Voilà bien l’ingratitude des enfants ! Eh bien ! tu peux t’en aller, espèce d’égoïste ! – C’est ce que je vais faire.
+
+['moi', 'nous', 'lui', 'eux', 'tous']	Pascalino	Ce fut une surprise pour [MASK]. Le sol, carrelé de briques, était couvert de nattes fraîches. Trois fauteuils, des guéridons de mahony, un buffet chargé de cruches et de verres de cristal donnaient à la première pièce un air confortable.
+
+['elle', 'il', 'Marie', 'Marianne', 'Sophie']	Vénus	– Tais-toi ; il faut une femme qui connaisse la vie aussi bien que moi pour le comprendre. Il est si honnête ! Croirais-tu ? – et [MASK] devint rouge (ou plutôt grise) de plaisir – qu’il marque sur un livre toutes les petites sommes que je lui donne
+
+['il', 'Il', 'Charles', 'elle', 'on']	Growlson	Votre aventure m’a instruit ; je ne tiens pas à me faire casser la tête par un mari jaloux. Ici [MASK] se pencha confidentiellement vers son interlocuteur : – Je puis vous le dire, murmura-t-il, les dames créoles m’ont coûté bien des milliers de dollars.
+
+['Brassens', 'Pascal', 'souvent', 'Jacques', 'Alain']	Sterne	Il se dirigeait donc de ce côté, lorsqu’il eut la chance de rencontrer le docteur Joli-Bois qui revenait de faire sa visite et regagnait majestueusement son domicile à l’ombre d’un grand parasol vert, le sourire sur les lèvres et, comme dit [MASK], le nez à l’Ouest.
+
+['moi', 'lui', 'Marie', 'maman', 'Jeanne']	Vulcain	J’aurais dû lui acheter une montre… A deux heures et demie il n’y put plus tenir. Sans se soucier de [MASK] et du cocher noir qui attendaient en face du restaurant avec un superbe landau, protégé par une tente de soie et attelé de deux chevaux anglais.
+
+['Joseph', 'Jean', 'François', 'Moïse', 'Louis']	Pascalino	– Parfaitement, mais ce que vous ne savez pas, c’est qu’à la faveur de l’épidémie, plusieurs bandits, entre autres un métis nommé [MASK], ont réussi à rentrer au service de l’administration et ont détruit ou brûlé quantité d’actes d’affranchissements.
+
+['Louis', 'Charles', 'Pierre', 'Alexandre', 'François']	Lina	– C’est bon ! répliqua [MASK], j’y vais ; mais puisque tu as assez peu de cœur pour laisser mourir ton ancien maître à l’hôpital, j’irai l’y soigner. Nous verrons comment vous vivrez sans l’argent de mes messieurs !
+
+['lui', 'tous', 'eux', 'hasard', 'deux']	Vénus	Il se piquait donc de parler très purement le français et en tant qu’Espagnol il avait retenu avec un soin particulier tous les proverbes qui couraient dans les tripots et les bars où il fréquentait. Bientôt le couvert fut mis par [MASK] sur une nappe de coton bien blanche.
+
+['Elle', 'Il', 'Marie', 'Jeanne', 'elle']	Lina	– Si, tu l’as dit. – Non, moussié. – Je te ferai fouetter, petite sorcière. [MASK] joignit les mains d’un air suppliant et se jeta aux pieds de son maître. Mais elle ne paraissait pas décidée à parler.
+
+['Elle', '</s>NOTUSED', 'Il', 'Mais', 'Et']	Lina	Ses mains rencontrèrent les seins dont les pointes se raidissaient. Il trébucha à son tour. [MASK], se retournant comme une couleuvre, lui avait passé ses bras autour du cou et appuyait sur ses lèvres, ses lèvres appétissantes et poivrées comme deux piments rouges.
+
+['Marie', 'Rose', 'Joséphine', 'Jeanne', 'Alice']	Lina	Il posa une foule de questions à [MASK], et à la suite de leur entretien, il fut décidé que la petite mulâtresse demeurerait à l’hôpital en qualité d’infirmière, qu’elle veillerait d’une façon toute spéciale son ancien maître, que le docteur conservait un vague espoir de sauver.
+
+['Jeanne', 'Marie', 'Joséphine', 'Suzanne', 'Berthe']	Vénus	!… Et moi qui croyais dormir ici comme sous un toit ami !… – Vous avez tort de m’insulter, bégaya [MASK] toute tremblante… – Eh ! les noirs sont toujours pareils… des traîtres. Tu en as trop dit, vieille gaupe !
+
+['Joseph', 'Pierre', 'Georges', 'Jacques', 'Jean']	Pascalino	La vieille, exaspérée, mordit la jambe de [MASK], si cruellement qu’il lâcha la chaise dont les noirs s’emparèrent immédiatement. Il écumait de rage. Il avait tiré son couteau et frappait au hasard devant lui cherchant à gagner la porte.
+
+['Mary', 'Alice', 'Sarah', 'Margaret', 'Jane']	Lina	! – Cette petite n’a reçu aucune éducation, cela est visible, dit [MASK], avec un sourire pincé. Les deux Irlandaises s’étaient partagé un flacon de whisky. Les lignes pures de leur visage prenaient une expression ignoble.
+
+['lui', 'celui', 'Joseph', 'Alexandre', 'Georges']	Pascalino	Son mari avec un sang-froid terrible avait fait quelques pas vers [MASK] qui, se voyant pris, se demandait avec désespoir où il avait déposé son couteau. – Tuer un homme sans défense, s’écria-t-il, est contraire à la loi des frontières.
+
+['il', 'Il', 'Jack', 'elle', 'Sam']	Pascalino	Les noirs indécis le lâchèrent un instant. Profitant de cette hésitation, [MASK] s’élança vers la porte et s’enfuit en boitant, tel un taureau mal assommé, échappé au maillet sanglant du boucher, beuglant et titubant s’enfuit des abattoirs. Chapitre 3
+
+['John', 'Madame', 'Jim', 'Paul', 'Harry']	Lina	commençait à s’amuser. – Il n’y a vraiment, dit [MASK], que des Yankees, pour savoir dépenser leur argent. En attendant l’ablution promise, les dames serraient les poings pour cacher leurs ongles en deuil et en même temps pour mettre leurs bagues en évidence.
+
+['Elle', 'Marie', 'Alice', 'Louise', 'Anna']	Lina	Tout dormait. Quelques gémissements partaient de la salle commune. [MASK] eut la vision du mulâtre William étouffant sous des oreillers un malade récalcitrant. Elle remonta, tremblante de peur et remplie d’une tristesse qui touchait au désespoir.
+
+['rien', 'personne', 'lui', 'cela', 'ça']	Pascalino	Au hasard, il tira encore un coup de son arme, puis la jeta sans plus s’occuper de [MASK]. Il se précipita en larmes sur le corps de la morte, et collant son oreille sur ce beau sein qui déjà s’affaissait. – A moi !
+
+['Joseph', 'Jean', 'Monsieur', 'Pierre', 'Antoine']	Midas	– Je vaux bien une piastre, tout de même. – Et qu’en feras-tu de cette piastre ? – Je la ferai percer par [MASK], le forgeron de l’habitation, et je la suspendrai à mon beau collier de corail.
+
+['Napoléon', 'Lincoln', 'Roosevelt', 'Hitler', 'David']	Growlson	– Oui ! continua [MASK] avec enthousiasme, ma race mangera la vôtre. Vous tirez votre revenu du capital des morts ; si vos grands-pères n’avaient pas conquis sur les sauvages la propriété de « l’Homme rouge », vous crèveriez de faim.
+
+['Celui', 'Napoléon', 'Lui', 'Henri', 'Alexandre']	Growlson	[MASK] qui tenait à se montrer grand seigneur, s’aperçut que ces dames avaient les mains sales. – Allons, sale nègre, commanda-t-il, apporte au plus vite à ces misses une cruche d’eau fraîche, une cuvette, du savon et il ajouta d’un ton majestueux et négligent
+
+['Il', 'Louis', 'Joseph', 'Antoine', 'Pierre']	Pascalino	[MASK] était furieux. Depuis son arrivée il n’avait trouvé personne à qui se renseigner. Il n’avait pas mangé depuis le matin et n’avait pas en poche un seul cent pour payer la dépense de son cheval à l’auberge des faubourgs où il l’avait remisé en arrivant.
+
+['Elle', 'Il', 'Marie', 'Anna', 'Jeanne']	Growlson	[MASK] le força à se rasseoir et lui serra la main avec attendrissement. – Voyons, ne vous fâchez pas, j’ai seulement voulu vous dire qu’en y mettant le prix, on pouvait avoir toutes les dames de « la société ». Après tout, qu’est-ce que cela peut vous faire
+
+['Il', 'il', 'qui', 'et', 'Cela']	Pascalino	! [MASK] passait à ses propres yeux pour un véritable gentilhomme. Il se piquait donc de parler très purement le français et en tant qu’Espagnol il avait retenu avec un soin particulier tous les proverbes qui couraient dans les tripots et les bars où il fréquentait.
+
+['la', 'le', 'un', 'Marie', 'cette']	Zémir	Tout à coup, une ombre se dressa devant lui. Il tressaillit en reconnaissant [MASK], dont les grands yeux le regardaient et qui, doucement, presque discrètement, avait suivi son maître par le sentier. Cette présence fut pour lui comme un muet reproche.
+
+['retraite', 'famille', 'campagne', 'repos', 'thé']	Vénus	Elle haussa les épaules avec un mépris tranquille et reprit le chemin de la maison de [MASK]. La nuit était tombée brusquement et dans la pénombre bleue du soir, silencieux et frais, les passants se faisaient plus nombreux par les rues.
+
+['Il', 'Elle', 'On', 'Anna', 'il']	Lina	Sous la moustiquaire de gaze, il dormait légèrement penché sur le côté droit, du sommeil lourd et, pour ainsi dire, substantiel du convalescent. [MASK] s’approcha doucement et doucement écarta les rideaux du moustiquaire et embrassa le dormeur à pleine bouche.
+
+['Blanc', 'Jean', 'Pierre', 'Louis', 'Joseph']	Tom	Dans ses jours de gaillardise, la vieille pouvait obtenir un supplément de caresses, moyennant des primes convenues d’avance et proportionnées au labeur fourni. M. [MASK], comme l’appelaient respectueusement les noirs du voisinage, était d’ailleurs des plus faciles à vivre ;
+
+['Marie', 'Sophie', 'Catherine', 'Louise', 'Jeanne']	Lina	Sans savoir où il allait, il se lança à travers les rues. Il erra le long du port, sur les levées, puis, tout à coup, il eut l’idée que [MASK] serait peut-être retournée à l’hôpital pour quelques raisons qu’il ne s’expliquait pas.
+
+['celui', 'ce', 'celle', 'le', 'lui']	Pascalino	; le pied de la chaise d’acajou avait fracassé l’épaule de la vieille et [MASK] qui lui broyait la main sous le talon de ses bottes, allait sans doute l’achever, lorsque la porte s’ouvrit brusquement.
+
+['Marie', 'Joséphine', 'Suzanne', 'Jeanne', 'Berthe']	Vénus	– Vous savez… votre créole a la fièvre jaune ; il faut qu’il s’en aille, et tout de suite… ou bien c’est moi qui m’en irai ! dit-il avec une glaciale brutalité. – Non ! je t’en supplie ! fit [MASK] en sanglotant
+
+['Elle', 'Anna', 'elle', 'Marie', 'Alice']	Lina	« Le bonheur est une chose si faible et si fragile ! » [MASK] ne comprenait pas très bien. Ce qui lui apparaissait de plus clair dans toutes ces phrases, c’est qu’elle allait rentrer à « l’Homme-Rouge ». Elle sauta de joie et gambada par la chambre.
+
+['Elle', 'Il', 'On', 'Marie', 'Jeanne']	Lina	Déjà il râlait, les yeux blancs de souffrance et de peur presque jaillis des orbites. [MASK] intervint. Sa poitrine et son visage étaient rouges de sang. Le sang ruisselait en gouttelettes et en filets qui formaient sur la belle toilette de soie jaune d’imprévues broderies écarlates.
+
+['on', 'elle', 'il', 'Marie', 'je']	Lina	; il frissonnait, son visage s’injectait de sang, ses yeux larmoyaient, et il réclamait continuellement à boire. Toute la journée, dans sa chambre parée de coquillages, de bouquets de plumes et de vases en verre colorié, [MASK] le soignait.
+
+['il', 'elle', 'on', 'Joseph', 'Il']	Jacques	Une fois, [MASK] creva, pour s’amuser, avec un beau couteau neuf orné de nacre que sa mère lui avait rapporté de la ville, les yeux d’une vieille mule occupée à tourner la meule à broyer le maïs.
+
+['Jeanne', 'Marie', 'Marguerite', 'Rose', 'Blanche']	Lina	– Si tu ne me dis pas tout, chienne maudite, je te jette dans l’étang… Ivre de colère et malgré la résistance de [MASK] il la saisit dans ses bras et courut vers la pièce d’eau. Mais, après quelques pas, il s’arrêta stupéfait.
+
+['lui', 'elle', 'eux', 'monsieur', 'le']	Vénus	En arrivant chez [MASK], le docteur se fit donner deux piastres, et après avoir jeté un regard sur le malade sans l’approcher, il partit très vite en recommandant simplement de lui faire prendre quinze gouttes de laudanum, et des boissons rafraîchissantes.
+
+['et', 'Elle', 'qui', 'Tout', 'Et']	Pascalino	Maîtresse était folle de prêter son beau corps blanc à un vieux maquereau métis comme toi. Elle t’aurait vite chassé de son lit et de sa maison si je lui avais appris que tu n’étais autre qu’un fils d’esclave… [MASK] à cette injure devint blême.
+
+['Elle', 'Marie', 'Il', 'Anna', 'elle']	Lina	[MASK] se tordit comme un serpent, ses yeux élargis par l’épouvante versaient de grosses larmes et elle gémissait longuement et sourdement comme un chien que l’on frappe, ses seins étaient couverts de gouttelettes de sang et ses lèvres tordues par la douleur, blanches de peur.
+
+['Julie', 'Madame', 'madame', 'Sophie', 'Voltaire']	Growlson	– Non, si ridicule que cela doive vous paraître, j’aime ma femme. Je lui suis exactement fidèle et je trouve de telles mœurs profondément répugnantes. – Tant pis pour vous, mon cher, fit [MASK] avec un gros rire ! Mais moi je suis célibataire ;
+
+['Elle', 'Madame', 'Marie', '</s>NOTUSED', 'Une']	Léonore	Une nuit, un commencement d’incendie, causé par l’imprudence d’une négresse qui s’était endormie en fumant un de ces cigares minces et longs que l’on appelle « bouts de nègres », se déclara dans les combles de l’habitation. [MASK], demi-nue, affolée, se précipita hors de sa chambre.
+
+['Charles', 'Antoine', 'Pierre', 'Jeanne', 'Camille']	Vénus	– Vous n’avez pas honte d’être si tranquille, s’écria [MASK] avec indignation ! Ah ! ils sont tous les mêmes ! des égoïstes, des cœurs de bois… – Voyons, fit le bandit, avec un sourire complaisant et repu.
+
+['Elle', 'Marie', 'Il', 'Maman', 'Jeanne']	Lina	poussa un soupir et tendit les mains en souriant, mais ne se réveilla point. [MASK] sourit aussi et toute consolée alla s’étendre sur la natte où elle couchait chaque soir dans une petite pièce contiguë et d’où elle pouvait surveiller le sommeil du malade.
+
+['il', 'qui', 'elle', 'Il', 'on']	Pascalino	mais [MASK] repoussa la jeune femme presque brutalement : – Les affaires sérieuses, d’abord, dit-il ; les caresses ensuite… – Je tâcherai de m’arranger pour les mille piastres… – Il ne faut pas dire : je tâcherai. – Mais…
+
+['Elle', 'Marie', 'Maman', 'Jeanne', 'Alice']	Lina	Tout à coup il se sentit tirer par la manche. Il se réveilla en souriant d’un air hébété. [MASK] était devant ses yeux. – Allons, mossié, fit-elle, venez avec moi bien vite ! Bien vite ! – Laisse-moi tranquille.
+
+['Il', 'On', 'Elle', 'il', 'Lui']	Pascalino	[MASK] l’eût certainement dévalisé. Mais dans la pénombre où luisaient çà et là de fumeux réverbères au pétrole, il ne distinguait que des noirs ou des mulâtres en haillons, qui paraissaient avoir aussi grand besoin d’argent que lui. Tout à coup, il pressa le pas.
+
+['Il', 'Elle', 'Arthur', 'David', 'Paul']	Growlson	[MASK] eut un sourire indulgent. – Ca m’est égal, bégaya-t-il d’un ton supérieur, je vous la prêterai si vous voulez, mais nous sommes ici dans une réunion d’amis, il est contraire à la respectabilité de se disputer… C’est bien simple…
+
+['maman', 'fille', 'mère', 'enfant', 'va']	Lina	cette somme sera employée à indemniser l’économat de l’hôpital, où il va être porté immédiatement ; – et il ajouta, sur un ton de commandement : prends deux piastres, [MASK], et va chercher des infirmiers et un brancard ! – Dépêche-toi ! cria la mère…
+
+['lui', 'Marie', 'cela', 'elle', 'moi']	Vénus	C’était dans la maison de la vieille négresse une puissance silencieuse et terrible, d’une loyauté affreuse, d’une impassibilité fatale. Il ne buvait que de l’eau, mangeait ce qu’on lui servait et n’avait pas d’autre maîtresse que [MASK].
+
+['elle', 'il', 'Jeanne', 'lui', 'Marie']	Vénus	D’un coup de pied, il renversa la table et marcha vers la vieille en brandissant un couteau. Mais [MASK] avait fortement saisi son stylet à manche noir. – Il est empoisonné, cria-t-elle. Tu ne vivras pas deux heures après que je t’aurai piqué…
+
+['Marie', 'Suzanne', 'Joséphine', 'Jeanne', 'Madeleine']	Lina	comme un muet reproche. Il se rappela sa vengeance, le projet qu’il avait eu d’interroger [MASK] et ce qui en avait résulté. – Ecoute, dit-il à la petite mulâtresse : ta maîtresse me trompe. Elle a des hommes, des amants…
+
+['</s>NOTUSED', 'Marie', 'maman', 'madame', 'Madame']	Vénus	à l’assassin ! eut le nez broyé d’un coup de chaise. – On défigure ma fille ! beugla [MASK]. Comment, maintenant, soutiendra-t-elle sa mère, sa pauvre mère, si elle devient laide ! Aucun monsieur blanc ne voudra plus d’elle !
+
+['elle', 'Marie', 'il', 'Sarah', 'Clara']	Léonore	Fou d’amour, il s’occupa à peine de l’incendie que les noirs éteignirent comme ils purent. Non seulement [MASK] ne fit aucune résistance, mais elle se révéla, dès cette première nuit, comme une amoureuse pleine de fougue.
+
+['Joseph', 'Pierre', 'papa', 'Félix', 'César']	Jacques	– Tu as tort de te fâcher, lui dit l’enfant en jetant à son père un regard féroce. Ne sais-tu pas qu’un animal aveugle a moins de distractions qu’un autre. Il y a une augmentation de 15 % sur son travail. Cette réponse valut à [MASK] une juste correction.
+
+['elle', 'il', 'Madame', 'Mme', 'madame']	Vénus	il s’acquittait de cette fonction avec le même zèle ponctuel qu’un employé met à se rendre à son bureau. En revanche, [MASK], grâce aux gains de sa fille, le nourrissait et lui remettait chaque jour une petite somme pour son entretien et pour ses livres.
+
+['Madame', 'Elle', 'Marie', 'Le', 'Monsieur']	Vénus	[MASK], qui ne voulait pas pousser les choses à l’extrême, s’avança vers sa fille, les bras ouverts. Sous sa belle robe jaune, sa croupe frissonnait, volumineuse et vague, comme deux vessies de suif.
+
+['Lui', 'Il', 'Joseph', 'Louis', 'Jean']	Vulcain	[MASK], déjà revenu de la corvée matinale, tenait la bride d’un magnifique mustang croisé d’arabe, une bête à la poitrine large, au garrot fin, à la tête intelligente, et qui n’avait jamais connu les horreurs du fouet ni de l’éperon.
+
+['Monsieur', 'Madame', '</s>NOTUSED', 'Mme', 'madame']	Vénus	? – Oui, dit étourdiment [MASK]. J’ai trouvé sur lui trois billets de cent dollars, cinq ou six aigles d’or et une poignée de piastres. – Tout cela devrait nous revenir, de droit, pour notre peine de l’avoir soigné.
+
+['Marie', 'la', 'Pierre', 'Charles', 'Paul']	Lina	Appuyé sur le bras de [MASK], il put enfin se rendre dans un jardin qui se trouvait derrière l’hôpital, et que le directeur laissait presque à l’état sauvage. Des lauriers étaient devenus des arbres de haute futaie, des orangers non greffés montraient de longues épines vertes
+
+['Marie', 'Jeanne', 'Sophie', 'Rose', 'Louise']	Pascalino	Ce n’est qu’à toi seule que je puis la demander… – Je te la donnerai… – Aujourd’hui ?… – Je te le promets. – Alors j’y compte… Le visage de [MASK] et ses manières se modifièrent instantanément. – Chère amie, que de reconnaissance…
+
+['Joseph', 'Georges', 'Louis', 'lui', 'Marcel']	Lina	C’est avec impatience qu’elle attendait, depuis plusieurs jours, le départ de son mari. Dès que [MASK] eut disparu, la jeune femme, tout en s’occupant de sa toilette, était comme étranglée par l’émotion. Ses seins s’enflaient et s’abaissaient.
+
+['Elle', 'Marie', 'Anna', 'Suzanne', 'Catherine']	Lina	[MASK] ne le quittait pas une minute ; elle restait accroupie à ses pieds, attendant qu’il manifestât sa volonté par quelque signe, prévenant ses moindres désirs. Presque tous les jours, elle trouvait moyen de faire venir du dehors des livres, des fleurs ou des friandises.
+
+['Le', 'Il', '«', 'Et', '...']	Pascalino	[MASK], épouvanté, se leva en proie aux affres de la peur. Mais il se rassit bientôt, ses idées venant de prendre un autre cours. – Alors, dit-il, simulant de son mieux la colère, c’est parce que tu comptes toucher la prime en me livrant que tu prodigues ton tafia
+
+['Marie', 'Jeanne', 'Alice', 'elle', 'Sophie']	Polly	– Moi, déclara [MASK], en s’interrompant de nettoyer d’une langue pointue et rose les verres de ses voisines, je suis poitrinaire et ivrognesse comme ma sœur ! – Cela te fait deux chances de bonheur, hurla la vieille accroupie au fond de la salle.
+
+['Tom', 'lui', 'Jack', 'Thomas', 'Sam']	Lina	Je ne sais comment il s’y prend, mais il est au courant de tout ce qui se passe. D’ailleurs, l’histoire de [MASK] a fait beaucoup de bruit en ville et les histoires du même genre sont fréquentes depuis la fin de l’épidémie.
+
+['Elle', 'Anna', 'Alice', 'Emma', 'Marie']	Lina	[MASK] se sentit froid au cœur en n’apercevant de loin aucune lumière aux fenêtres de la maison de sa mère. Elle se rapprocha et faillit s’évanouir à la vue d’un désastre qu’elle ignorait. L’incendie avait laissé là l’estampe de sa main noire.
+
+['province', 'salon', 'chambre', 'Paris', 'cabaret']	Rubens	Avec sa peau très blanche, ses grands yeux bleus vicieux et ses lèvres trop fortes et trop rouges, c’était une vraie commère de [MASK]. Sous son peignoir mal attaché, ses seins, d’une rotondité majestueuse, dardaient leurs pointes vermeilles et dures comme en embuscade sous la dentelle.
+
+['</s>NOTUSED', 'Madame', 'Marie', 'Elle', 'Mme']	Lina	vêtements de toile étaient souillés de goudron et de boue. De ses mains, veuves de leurs bagues, il roulait des barils de ciment avec un entrain superbe. On eût dit qu’il n’avait fait que cela toute sa vie. [MASK], facilement apitoyée, s’approcha pour lui parler.
+
+['Joseph', 'Charles', 'Paul', 'David', 'Victor']	Pascalino	– Allons, dit-elle avec autorité aux noirs, voulez-vous donc vous mettre une affaire sur les bras ? Laissez-le aller. Cette bonne correction suffit… Il s’en souviendra. – Grâce ! grâce ! soupira [MASK]. Les noirs indécis le lâchèrent un instant.
+
+['Joseph', 'David', 'Pierre', 'pierre', 'Louis']	Pascalino	Et, serrant tendrement entre ses mains blanches les doigts rudes, nerveux et couverts de bagues de [MASK], elle ajouta avec une sorte de timidité : – Tu as beaucoup perdu ? – Mille piastres !… – C’est que… je n’ai plus d’argent.
+
+['Elle', 'Marie', 'Il', 'Anna', 'Madeleine']	Lina	– Bah ! songea-t-il, puisque je suis trompé par ma femme, qu’importe !… C’est déjà une première vengeance. Il se rua à l’assaut de ce jeune corps vibrant dans une furie qui détendit ses nerfs irrités. [MASK] souriait, heureuse.
+
+['Elle', '</s>NOTUSED', 'Et', 'Il', 'Puis']	Jacques	– Descends au plus vite, s’écria-t-il, ou je tire… [MASK], sans beaucoup d’épouvante, se laissa glisser le long du tronc et tout en frottant son dos encore endolori des coups de cravache : – Ma mère a un amoureux qui est plus beau et moins méchant que toi.
+
+['John', 'Tom', 'Harry', 'Charles', 'Jack']	Jemmy	– Il faut que je veille sur mes enfants, avait-elle bégayé entre deux hoquets… Vous avez l’air d’un honnête gentleman, vous, payez-leur bien à boire. – Du grog bien chaud et bien épicé, fit [MASK] !
+
+['Georges', 'Jean', 'Jack', 'Max', 'Pierre']	Pascalino	– Signe de mort ! ricana [MASK]. Pendant le répit que lui avait procuré les larmes de sa maîtresse, il avait retrouvé son couteau, roulé son manteau autour de son bras et, habitué à ces luttes, il s’était rapidement baissé.
+
+['Rousseau', 'Robespierre', 'Darwin', 'Jésus', 'Napoléon']	William	mais il faut être un homme avant tout. C’est dans leur intérêt : pourquoi faire souffrir les gens inutilement ? Les théories de [MASK] étaient empreintes de tant de logique et de sensibilité, que ses deux aides, un mulâtre et un Irlandais, en exagéraient à plaisir la réalisation rapide.
+
+['Maria', 'Jane', 'Mary', 'Clara', 'Marie']	Polly	Sous un baldaquin de soie blanche, Jemmy et [MASK], couvertes de bijoux, engoncées dans d’énormes crinolines et coiffées de minuscules toques à plumes, se prélassaient aux côtés d’un Espagnol à larges moustaches qui les couvrait d’un regard à la fois protecteur et méprisant.
+
+['il', 'Il', 'on', 'elle', 'Joseph']	Pascalino	– A moi ! au secours ! criait-il. Avec un sang-froid extraordinaire, [MASK] mit à profit la douleur de son ennemi. Raflant le sac de piastres, à moitié plein sur le lit, il bondit vers la porte, le poignard aux dents.
+
+['Elle', 'Marie', 'Madame', 'Jeanne', 'La']	Lina	[MASK], comme toute la ville, aspira avec délice la fraîcheur. Elle sentit que le fléau s’était éloigné. Inconsciemment, elle ralentit le pas, dodelina des hanches et reprit son allure insouciante de jadis. En arrivant vers le faubourg, sa gaieté disparut.
+
+['Elle', 'Il', 'Maman', 'On', 'Marie']	Lina	Déjà des plantes et des arbustes avaient poussé leurs racines. Sur le rebord de la fenêtre demeurée intacte, une chatte grise et jaune miaulait désespérément. [MASK] s’enfuit, les yeux gonflés de larmes et regagna l’hôpital en toute hâte. Tout dormait.
+
+['il', 'on', 'elle', 'Antonio', 'chacun']	Vénus	– Allons ! répétaient les noirs, à qui [MASK] avait versé une rasade de tafia, en leur recommandant son ancien maître. N’aie pas peu… fiève jaune… fiève jaune… nous mener toi à l’hôpital, où toi que vas mouri bien tranquille…
+
+['elle', 'Marie', 'Jeanne', 'Juliette', 'Madame']	Lina	la réveilla d’un coup de pied au moment même où les deux amants épouvantés du cri d’alarme jeté par [MASK], se dressaient effarés parmi les pièces d’argent dont le lit était couvert et cherchaient leurs habits, pour se couvrir, au milieu du désordre de la chambre.
+
+['Elle', 'Il', 'Marie', 'Anna', 'Louise']	Vénus	[MASK] rinça sa vaste mâchoire d’une gorgée de tafia, ses yeux demeurés noirs et vifs sous les sourcils blancs, s’humectèrent de larmes. – Ah ! je sais que vous l’aimiez bien, soupira-t-elle ! La pauvre maîtresse ne vous refusait jamais d’argent.
+
+['Picasso', 'Turner', 'Henry', 'John', 'James']	Growlson	il dut sacrifier une dizaine de dollars pour payer les dégâts commis par les Irlandaises, calmer les scrupules de l’agent de police, et mettre une pièce à la fameuse toile. Malgré tout ce qu’on put lui dire, on ne put jamais faire croire à [MASK] qu’il avait été volé
+

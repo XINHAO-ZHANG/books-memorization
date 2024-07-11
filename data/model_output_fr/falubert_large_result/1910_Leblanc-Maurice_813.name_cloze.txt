@@ -1,0 +1,200 @@
+['Il', 'il', 'Je', 'Tout', 'Cela']	Steinweg	les cris sont inutiles… Il est mort assassiné, et toutes les circonstances du crime prouvent que le coupable était au courant de ce fameux projet. Y aurait-il quelque chose dans la nature de ce projet qui vous permettrait de deviner ?… [MASK] restait interdit.
+
+['de', 'le', 'se', 'les', 'la']	Sernine	Il porta ses mains à sa gorge comme s’il éprouvait une douleur, et ce geste le dressa d’un coup, terrifié, pantelant… Alors, il aperçut, en face de lui, [MASK]. — Vous ! murmura-t-il sans comprendre… Vous !…
+
+['le', 'gros', 'plus', 'il', 'el']	Lupin	[MASK] reprit, plus nerveux, plus saccadé : — écoute, Kesselbach, je vais te faire une proposition. Si riche, si gros monsieur que tu sois, il n’y a pas entre toi et moi tant de différence.
+
+['ses', 'sa', 'la', "l'", '...']	Lupin	Geneviève, grande-duchesse… Et moi, dans l’ombre, près d’elle, veillant à son bonheur… et poursuivant les grandes combinaisons de [MASK]. Il éclata de rire, sauta derrière un groupe d’arbres qui se dressaient à gauche de l’allée, et fila
+
+['te', 'bile', ',', 'libre', 'et']	Lupin	Si, dans une heure… — Je ne veux pas de conditions, objecta [MASK], intraitable. — Eh ! fais donc à ta guise, animal ! grogna le sous-chef exaspéré. Et il recula, entraînant ses hommes avec lui. — À merveille, dit
+
+['femme', 'fer', 'main', 'Dieu', 'tous']	Lupin	L’homme était à terre, cloué, rivé par deux rivets d’acier, les mains de [MASK]. Et il n’y avait pas d’homme au monde, si fort qu’il fût, qui pût se dégager de cette étreinte. Et pas un mot !
+
+['Jean', 'Allons', 'Moi', 'Viens', 'Monsieur']	Jacques	— Là, dans l’office, attachés. — Bien. J’aime autant n’être pas vu. Partez tous. Jean, reste en bas et fais le guet. [MASK], fais-moi visiter la maison. Rapidement, il parcourut la cave, le grenier.
+
+['il', 'Il', 'on', 'lui-même', 'On']	Lupin	! Qu’il fût prince russe, on s’en souciait peu ! [MASK] était coutumier de ces métamorphoses. Mais chef de la Sûreté ! Quelle ironie charmante ! Quelle fantaisie dans la conduite de cette vie extraordinaire entre toutes !
+
+['là', 'direct', 'tu', 'directement', 'le']	Lupin	Le coup de couteau, c’est un moyen que tu méprises, mais si tu le reçois là, [MASK], en pleine gorge ? — Ah ! ah ! en fin de compte, voilà ce que tu me proposes ? — Non, je n’aime pas beaucoup le sang, moi…
+
+['bien', 'cou', 'lâche', 'O', 'D']	ganache	Il le tira, à demi mort, par les poignets. — Allons, secoue-toi, [MASK], puisque nous sommes sauvés. — Vous croyez, chef ?… vous croyez ?… Nous avons de l’eau jusqu’à la poitrine…
+
+['...', '-', '"', 'vous', 'plus']	Sire	: — Cependant, puisqu’aucun lien ne vous attache plus… — Celui-là ne peut pas se dénouer, [MASK]. Et il ajouta en riant : — Je suis mort comme homme, mais vivant comme Français. Je m’étonne que Votre Majesté ne comprenne pas.
+
+['de', 'en', 'à', '"', ',']	Lupin	je suis si malheureuse ! suppliait-elle. C’était contre elle-même qu’elle demandait qu’on la protégeât, contre ses instincts de fauve, contre le monstre qui habitait en elle et qui la forçait à tuer, à toujours tuer. « Toujours ? » se dit [MASK].
+
+['le', ',', 'se', 'de', 'on']	Steinweg	— Mieux encore ! s’écria [MASK]. — Quoi ? — Un document ! un document écrit de sa main, signé de sa signature et qui contient… — Qui contient ? — La liste des papiers secrets qui lui furent confiés. — En deux mots ?…
+
+['Il', 'On', 'on', 'il', '</s>']	Sernine	Oh ! oh ! excellente… je vais m’en occuper… Quand se voit-on ? mardi, veux-tu ? Ça va. Je viendrai mardi… à deux heures… Il remit l’appareil en place et sortit. [MASK] l’entendit qui donnait des ordres.
+
+['Il', 'il', "C'", "c'", 'est']	Lupin	! [MASK], fou, lui aussi ! Ah ! non, mon petit ! Flanque-toi une balle dans la tête si ça t’amuse, soit, et, au fond, je ne vois pas d’autre dénouement possible.
+
+['lui', 'lui-même', 'Monsieur', 'Napoléon', 'soi-même']	Lupin	LA CASSETTE ÉTAIT VIDE ! Ce fut un coup de théâtre, énorme, imprévu. Après le succès des calculs effectués par [MASK], après la découverte si ingénieuse du secret de l’horloge, l’Empereur, pour qui la réussite finale ne faisait plus de doute, semblait confondu.
+
+['ça', 'ainsi', 'vous', 'bien', 'cela']	Lupin	! — Oui, c’est moi, mon cher prince. — Non, pas de titre, je vous en supplie, cher monsieur. Ici, j’ai renoncé à tous ces hochets de la vanité humaine. Appelez-moi [MASK], c’est plus de situation.
+
+['il', 'on', 'elle', 'ça', 'monsieur']	Lupin	Sa tête, non. — Comment ! Si on l’arrête, c’est la cour d’assises, la condamnation inévitable… et l’échafaud. — Non. — Et pourquoi non ? — Parce que [MASK] n’a pas tué. — Hein ?
+
+['écoute', 'alors', 'toi', 'là', 'oui']	Waldemar	Et il parlait, gravement, sans moquerie, comme ému lui-même et anxieux. — écoute, [MASK], tu vois sur le cadran une petite pointe arrondie qui marque la première heure ? Cette pointe branle, n’est-ce pas ? Pose dessus l’index de la main gauche et appuie.
+
+['il', 'Il', 'et', 'elle', 'Elle']	Lupin	[MASK] observa : — Il y a un étage au-dessus ? — Oui, mais de cette chambre à l’étage, il n’y a pas d’escalier. — Si, il y a un escalier. Il désigna une petite porte ouverte sur un réduit obscur.
+
+['méditer', 'la', 'nouveau', 'lui', "l'"]	Waldemar	— Oui, déclara le docteur. — On a trouvé… l’homme ? — Non. Il parut méditer, et, plusieurs fois, il hocha la tête d’un air pensif, mais on s’aperçut bientôt qu’il dormait. L’Empereur s’approcha de [MASK].
+
+['il', 'chacun', 'on', ',', 'elle']	Lupin	— Voilà le plan d’attaque. On se sépare en trois groupes. Un coup de sifflet, et chacun va de l’avant… En hâte [MASK] sortit de sa cachette, descendit l’échelle, contourna le pavillon sans y entrer, et repassa par-dessus la grille.
+
+['y', 'elle', 'et', 'il', 'puis']	Gourel	Quand il revint du téléphone, le serrurier achevait d’essayer ses clefs. La dernière fit jouer la serrure. [MASK] entra vivement. Aussitôt il courut à l’endroit d’où venaient les plaintes, et se heurta aux deux corps du secrétaire Chapman et du domestique Edwards.
+
+['Elle', 'elle', 'Je', '-', 'On']	Geneviève	? — [MASK] ne vous a pas dit ? — Je ne l’ai pas vue… Mais sa grand-mère a cru comprendre que vous aviez besoin de mes services… — C’est cela… c’est cela… — Et en quoi ?… je suis si heureux…
+
+['plusieurs', 'fil', ',', 'de', 'bien']	Dolorès	Et il se rappela la nuit dernière, cette odeur de tabac dans la chambre. Il continua l’inspection du premier portefeuille. Il y avait des bouts de lettre, en langage chiffré, remis sans doute à [MASK] par ses complices, au cours de leurs ténébreuses rencontres…
+
+['one', 'on', 'de', 'li', ',']	Geneviève	— Le baron Altenheim… mais ce n’est pas son nom… ou du moins il en a un autre… je l’ai reconnu… il ne s’en doute pas… Elle l’entraînait dehors et elle marchait très agitée. — Du calme, [MASK]…
+
+['...', '-t-il', 'Jean', 't-elle', 'il']	Sernine	L’heure est grave… Et ça vaut mieux, je te jure, ça vaut mieux… accepte… — Du caviar ! s’écria [MASK]… ah ! c’est tout à fait gentil… Tu t’es souvenu que tu traitais un prince russe.
+
+[',', 'tout', 'et', 'à', 'de']	Baupré	tu seras celui-là et pas un autre ! Celui-là, parce que son destin est magnifique, parce que son nom est illustre et qu’il te transmet un héritage dix fois séculaire de noblesse et d’orgueil. — C’est un crime, gémit [MASK], tout défaillant.
+
+['On', '</s>', 'Il', 'Elle', 'on']	Lupin	Voilà le cerveau qu’enivre l’odeur du sang… Voilà le monstre, le vampire… Et pourtant, était-ce possible ? [MASK] avait fini par le considérer comme un être tellement fantastique qu’il était déconcerté de le voir sous une forme vivante, allant, venant, agissant.
+
+['Il', 'Elle', 'il', 'II', 'et']	Altenheim	Ton heure ? — Une heure. — J’y serai. Mes hommages. Ils allaient se séparer. [MASK] s’arrêta. — Ah ! un mot encore, prince. Emporte tes armes. — Pourquoi ? — J’ai quatre domestiques, et tu seras seul.
+
+['tou', 'mul', 'al', 'Al', 'ques']	Moriturus	?… Voilà ! Voilà ! j’accours… Il passa l’autre jambe, regarda au fond du gouffre la mer immobile et sombre, et relevant la tête : — Adieu, nature immortelle et bénie ! [MASK] te salutat ! Adieu, tout ce qui est beau !
+
+['-', 'le', "l'", '1', '26']	Waldemar	— Au dernier coup de midi, [MASK]. Vraiment la scène avait quelque chose de tragique, cette sorte de grandeur et de solennité que prennent les heures à l’approche d’un miracle possible. Il semble que c’est la voix même du destin qui va s’exprimer.
+
+['il', 'entre', 'elle', 're', 'qui']	Lupin	Mais, de tout son instinct, de toute sa puissance nerveuse, [MASK] voyait les gestes de l’ennemi et devinait la succession même de ses idées. Lui, il ne bougeait pas, arc-bouté contre le mur, et presque à genoux, tout prêt à bondir.
+
+['-t-il', 't-il', 'il', 't-il', 'je']	Lupin	— Absolument indispensable, affirma [MASK]. — Pourquoi ? — Pour des raisons de politesse, monsieur. Vous savez mon nom, je ne sais pas le vôtre ; il y a là un manque de correction que je ne puis souffrir. L’étranger s’impatienta.
+
+['jour', 'tous', 'chacun', 'détenus', 'ceux-ci']	Lupin	Or, la distribution des paquets numérotés s’opérant toujours de la même façon entre les détenus qui avaient choisi ce genre de travail, inévitablement, le paquet distribué à [MASK] devait chaque jour porter le même numéro d’ordre. À l’expérience, le calcul se trouva juste.
+
+[',', 'de', 'épuisé', 'il', 'à']	Gourel	[MASK], épuisé par le manque de nourriture, et de corpulence trop forte pour aller et venir dans ce couloir de plus en plus étroit, avait dû renoncer. Il ne bougeait plus, tremblant d’angoisse à sentir cette eau glacée qui l’ensevelissait peu à peu.
+
+['tout', 'te', 'on', 'de', 'il']	Sernine	À la fin, [MASK] s’avança et, d’une voix nette, en homme qui menace plutôt qu’il ne propose un pacte : — écoute-moi. Tu te rappelles l’offre d’association que tu m’as faite ? L’affaire Kesselbach pour nous deux…
+
+[',', 'de', 'en', 'le', 's']	Épilogue	La vieille s’agenouilla, et, d’une voix tremblante : — C’est ta fille, n’est-ce pas ? — Oui, c’est ma fille. — Oh ! mon pauvre petit, dit-elle en pleurant, mon pauvre petit !… [MASK] Le suicide 1
+
+['...', 'tous', 'la', '"', 'plus']	Notre-Dame	La place de la Concorde, le Louvre… Au loin, la masse noire de [MASK]… Il se retourna et entrouvrit la portière : — Ça va bien, les camarades ? Moi aussi, merci. La nuit est délicieuse, et on respire un air !…
+
+['il', "j'", 'on', "qu'", 'alors']	Lupin	— Que j’aie mauvais caractère, monsieur le président, je le confesse… mais que je boude, non. — Mais vous restez chez vous ! et [MASK] en profite pour donner la clef des champs à ses amis… — Pouvais-je l’en empêcher ?
+
+['madame', 'celle-ci', 'Madame', 'Jeanne', 'une']	Geneviève	Le soir, ils arrivèrent dans un petit château tout vêtu de feuilles et de fleurs, coiffé d’un énorme chapeau d’ardoises, et entouré d’un grand jardin aux arbres séculaires. Ils y trouvèrent [MASK] déjà installée, et qui revenait de la ville voisine où elle avait choisi des domestiques du pays.
+
+['fer', 'force', 'douleur', 'celle-ci', 'celui-ci']	Sernine	Mais il faut la conquérir. Frappe ! Le bras se raidit pour le mouvement fatal, mais l’instinct fut plus fort. Une énergie surhumaine convulsa le jeune homme. Brusquement il rompit l’étreinte de [MASK] et s’enfuit. Il courut comme un fou vers l’autre pièce.
+
+['preuve', 'partie', 'allusion', 'référence', ',']	Steinweg	je ne vois pas… un L… un M… — Oui, les lettres sont en or et marquent le coin d’un étui à cigarettes qui appartenait à l’assassin. — Un étui à cigarettes ? fit [MASK] avec un effort de mémoire.
+
+['droite', 'la', 'madame', 'gauche', 'Madame']	Dolorès	Mais dehors, il s’arrêta sous des arbres qui faisaient un massif d’ombre devant la façade du château. Il vit de la lumière dans le boudoir de [MASK]. Puis cette lumière passa dans la chambre. Au bout de quelques minutes, ce fut l’obscurité.
+
+['réception', 'chasse', 'Madame', 'campagne', 'madame']	Dolorès	Ce sera long. Il fuma une autre cigarette, se promena, passa devant le château, aperçut de la lumière dans les appartements de [MASK], puis revint au chalet. Là, il prit un livre. C’était la Vie des hommes illustres .
+
+[',', 'corps', '...', 'cendres', 'le']	Lupin	! On trouvera des cendres, deux cadavres calcinés, et, près de là, dans une bouteille, mon billet de faire-part… Adieu [MASK] ! Bonnes gens, enterrez-moi sans cérémonie… Le corbillard des pauvres… Ni fleurs, ni couronnes…
+
+['t-il', 'étranger', 'celui-ci', 'il', '-t-il']	Lupin	L’étranger demeura muet. « Toi, mon petit, pensa [MASK], tu as une tête qui ne me revient pas. Je me la paierai un jour ou l’autre. Tu es laid, tu es gros, tu es massif ; bref, tu me déplais.
+
+['chef', 'Chef', 'capitaine', 'commandant', "'"]	Gourel	Tu viens, [MASK] ? Il sortit avec le brigadier et, tout de suite, en suivant les allées sombres du jardin, il dit : — C’est elle. — Vous croyez, chef ? Elle a l’air si tranquille ! — Beaucoup trop tranquille.
+
+['qui', 'il', 'Il', '</s>', 'Elle']	Lupin	— Rien… rien… ça m’intéresse… ça m’intéresse beaucoup… La jeune fille regarda la feuille qu’on tendait devant elle, et elle tourna la tête d’un air distrait. — Ça ne prend pas, fit le comte narquois. [MASK] écrivit les lettres « Apoon ».
+
+['nous', 'lui', 'il', 'Il', 'me']	Jacques	[MASK] raconta que son frère et lui s’étaient heurtés à un individu qui les avait mis hors de combat avant qu’ils n’eussent le temps de se défendre. — Il était seul ? — Non, quand il est repassé près de nous, il était accompagné d’un camarade, plus petit que lui.
+
+["qu'", ',', 'juste', 'alors', 'ainsi']	Gourel	N’obtenant pas de réponse, il fit jouer le ressort de sa lanterne, et il aperçut [MASK] à côté de lui qui dormait profondément. « Qu’est-ce que j’ai à souffrir ainsi ? pensait-il… de véritables tiraillements… Ah çà ! mais j’ai faim !
+
+['on', 'On', 'à', ',', '...']	Lupin	— Pas un mot… je te connais… tu t’appelles de ton vrai nom Dominique Lecas… L’homme, qui était gros et fort, voulut se dégager. Il étouffa un cri de douleur. [MASK] lui avait tordu le poignet. — Tu t’appelles Dominique…
+
+['les', "l'", 'la', 'le', 'cette']	Chapman	L’inconnu ne s’y est pas trompé ; il a supprimé [MASK]. Et nous ne savons rien, que ses initiales L et M. Il réfléchit et prononça : — Encore une preuve qui est une réponse à l’une de vos questions, monsieur le président.
+
+['il', "l'", "s'", 'on', 'cela']	Lupin	L’Empereur ne pouvait se défendre de subir un sentiment confus, inexplicable, où il y avait une sorte d’admiration et beaucoup aussi de cette confiance que [MASK] exigeait d’une façon si autoritaire. Au fond il n’hésitait que par scrupule d’employer cet homme et d’en faire pour ainsi dire son allié.
+
+['Je', "C'", "J'", 'Tu', 'R']	Gourel	— Mille pardons, madame, votre aide m’est indispensable. Je vous demanderai la permission de vous accompagner… Mais il nous faut agir rapidement. [MASK], mon auto… Tu l’as renvoyée ?… Une autre alors, n’importe laquelle… Chacun courut de son côté.
+
+['elle', 'celle-ci', 'il', 'tout', 't-elle']	Lupin	Dehors il pleuvait. Elle donna son parapluie au domestique en balbutiant : — Veuillez l’ouvrir et le mettre de côté… Et elle passa tout droit. « Mon pauvre vieux, se dit [MASK] en partant, voilà bien des secousses pour un être nerveux et sensible comme toi.
+
+['il', 'Pierre', 'et', 'Il', 'Simon']	Lupin	Très inquiet, [MASK] se mit à courir. À première vue, il ne semblait y avoir personne au chalet. — Pierre ! Pierre ! cria-t-il. N’entendant pas de bruit, il pénétra dans le vestibule et dans la chambre qu’il avait occupée.
+
+['il', 'on', 'elle', 'Jean', 'ne']	Lupin	D’ici là, je me tais... et j’attends. Les communications au Grand Journal furent, en effet, interrompues, mais [MASK] ne cessa point de correspondre avec ses amis, par la voie « du chapeau », comme ils disaient entre eux. C’était si simple !
+
+['tout', 'le', 'volontiers', 'de', ',']	Lupin	: — Qu’est-ce que vous faites ?… Vous osez ?… Et lui ?… Alors, c’est vrai ?… Il m’a menti ? — S’il a menti ?… s’écria [MASK], comprenant son humiliation de femme… S’il a menti
+
+['la', 'tous', 'le', 'dame', ',']	Dolorès	Il s’introduisit dans le boudoir presque à la suite de la servante, congédia celle-ci, et dit à [MASK] : — J’ai à vous parler, madame, c’est urgent… Excusez-moi… J’avoue que ma démarche peut vous paraître importune…
+
+[',', "l'", 'DE', 'de', 'vous']	Lupin	Roulé ? — Vous croyez, Sire ? — Dame ! ce que l’on connaît, on ne le cherche pas et voilà dix bonnes heures que vous cherchez. N’êtes-vous pas d’avis qu’un retour immédiat vers la prison s’impose ? [MASK] parut stupéfait :
+
+['on', 'il', 'et', 'elle', "s'"]	Sernine	Un bruit de porte qui se ferme. Puis [MASK] entendit le baron qui mettait le verrou, puis qui vidait ses poches, qui remontait sa montre et qui se déshabillait. Il était joyeux, sifflotait et chantonnait, parlant même à haute voix.
+
+['Qui', 'Comment', 'Où', 'Pourquoi', 'Quoi']	Isilda	! Il est capable de tout. — Impossible ! J’ai deux cents hommes dans ces ruines. Il n’a pu entrer. On l’aurait vu. — Quelqu’un l’a vu fatalement. — Qui ? — [MASK]. — Qu’on l’interroge !
+
+['ressent', 's', 'mê', 'de', 'e']	Lupin	[MASK] sentit la sueur qui coulait sur sa peau, en même temps que son cœur s’arrêtait de battre, suspendu d’effroi. L’homme était là. était-ce possible ? Non, non… Et pourtant, il voyait... Oh ! le terrifiant spectacle !…
+
+['la', "l'", 'notre', 'sa', 'M.']	Steinweg	Des mots éblouissants, au contraire !… Ah ! est-ce possible !… Du bruit à la porte. On frappa. — On n’entre pas, dit-il, je suis occupé… On frappa à l’autre porte, du côté de [MASK].
+
+['elle', 'Elle', 'et', 'il', "c'"]	Dolorès	Le prince eut un saisissement. [MASK] était plus pâle encore, plus émaciée qu’au dernier jour où il l’avait vue. Couchée sur un divan, enveloppée d’étoffes blanches, elle avait l’air de ces malades qui renoncent à lutter.
+
+['il', 'celui-ci', 'monsieur', 'chacun', 'Monseigneur']	Ribeira	Et pourquoi ? — Il faut penser que [MASK] a prévu le péril, et supposer qu’il a pris ses précautions au cas où le souterrain serait démasqué. Or, il sait que nous fouillons le jardin. Il nous a vus sans doute entrer dans ce pavillon.
+
+['ce', 'vous', '(', '...', 'le']	Lupin	Puis il retourna dans la première chambre, ferma soigneusement la porte qui séparait les deux pièces et alluma l’électricité. — Minute, les enfants ! cria-t-il. Vous êtes donc bien pressés de vous faire démolir ?… Vous savez que c’est [MASK] qui est là
+
+['...', ',', '…', 'IT', ':']	Lupin	— Gourdes ! Butors ! cria [MASK] qui tremblait de rage… Lâchez-moi au contraire ! Allons, bon, voilà qu’on arrête ! Mais triples idiots, courez donc dessus… Rattrapez-le !… C’est l’homme noir… l’assassin… Ah ! les imbéciles…
+
+[',', 'hum', 'se', 'le', "s'"]	Sernine	Il sentait les efforts que l’on faisait pour la soulever, et le baron devait le sentir aussi, car il essayait désespérément de déplacer le terrain du combat pour que la trappe pût s’ouvrir. « C’est l’autre ! pensa [MASK] avec la sorte d’épouvante irraisonnée que lui causait cet être mystérieux…
+
+['moi', 'elle', 'toi', 'lui', 'nous']	Steinweg	Dans la prison que tu as imaginée pour [MASK] ? — Ah ! tu sais… Non, elle n’est pas là. — Mais où alors ? Parle, sinon… — Voyons, mon prince, crois-tu que je serai assez bête pour te livrer le secret par lequel je te tiens ?
+
+['Il', 'il', '</s>', 'et', 'était']	Gourel	Le passage était creusé. Il n’y avait plus qu’à l’élargir, ce qui devenait beaucoup plus facile maintenant qu’il pouvait rejeter les matériaux devant lui. [MASK], fou de terreur, poussait des hurlements de bête qui agonise. Il ne s’en émouvait pas.
+
+['le', "l'", 'la', 'mon', 'un']	Lupin	Ce que j’en disais, c’était pour arriver plus vite au but, et sans se gêner. — Tu ne me gênes pas, dit [MASK], dédaigneusement. — Allons donc ! si l’on ne s’associe pas, il n’y en a qu’un qui arrivera.
+
+['...', 'M', 'qui', 'monsieur', 'Monsieur']	Votre	— Vous me la remettrez. — Elle sera remise entre les mains de [MASK]… entre vos mains. — Toutes les lettres également. — Toutes les lettres également. — Sans qu’aucune ait été photographiée. — Sans qu’aucune ait été photographiée.
+
+['monsieur', 'papa', 'patron', 'madame', '...']	Octave	Il appela [MASK]. — Où as-tu préparé le café que tu m’as donné hier soir ? — Au château, patron, comme tout le reste. Il n’y a pas de fourneau ici. — Tu as bu de ce café ? — Non.
+
+['Pierre', 'Jean', 'celui-ci', 'Philippe', 'Guillaume']	Octave	Il se fit arrêter à quelques centaines de mètres du château pour que son arrivée fût plus discrète, et il dit à [MASK] : — Tu entreras d’ici vingt minutes, à quatre heures, et tu iras déposer mes valises dans le petit chalet qui est au bout du parc.
+
+['elle', 'lui-même', 'lui', 'tout', 'eux']	Sholmès	Et de nouveau, il pensait à [MASK], et de nouveau un immense découragement l’accablait. Le dernier jour… Il se réveilla tard, après une nuit de mauvais rêves. Il ne vit personne, ce jour-là, ni le juge d’instruction, ni son avocat.
+
+["l'", 'la', 'le', 'tout', 'son']	Lupin	Il se passait ceci d’extraordinaire, c’est que, subitement, tandis que [MASK] le suivait, l’homme, qui cheminait à petits pas le long des rues, sans jamais s’arrêter, l’homme disparaissait comme par miracle. Il usa bien quelquefois de maisons à double sortie.
+
+['lui', 'terre', 'selle', 'place', 'elle']	Lupin	Il leva le bras. Deux coups de feu retentirent. Le comte, qui masquait toute la portière gauche, s’affaissa dans la voiture. Avant même de s’occuper de lui, les deux compagnons sautèrent sur [MASK] et achevèrent de le ligoter.
+
+['...', 'et', 'Il', ',', 'se']	Lupin	Bien que blasé sur ces sortes de jouissances, [MASK] n’en goûta pas moins les témoignages d’admiration et de dévouement dont ses amis l’accablèrent. — Enfin, patron, expliquez-nous… Que s’est-il passé ? Avec vous, nous sommes habitués aux prodiges…
+
+['celui-ci', 'il', 'M', 'Jean', 'Me']	Lupin	— Et alors, reprenait l’avocat, la tête penchée sur le papier, vous dites qu’à cette époque… — Je dis qu’à cette époque, répliquait [MASK]… Insensiblement, par petits gestes, tout naturels, il s’était accoudé à la table.
+
+['hom', ',', 'et', 'en', 'allon']	Marco	Eh bien ! oui, neuf heures, je serai là… Et, remettant son chapeau, il s’éloigna par les couloirs de l’hôtel. [MASK], dans le salon, éclata de rire. — Rudement fort, le patron. Ah ! ce que vous l’avez roulé
+
+['tous', 'chacun', 'loin', 'Dieu', 'femme']	Lupin	Un autre bruit grinça, plus net, sous la fenêtre, mais si faible encore qu’il fallait l’oreille exercée de [MASK] pour le percevoir. Des minutes, des minutes effrayantes… L’ombre était impénétrable. Aucune clarté d’étoile ou de lune ne l’allégeait.
+
+[',', 'ne', 'se', '...', 'de']	Dieuzy	Mais [MASK] se ranimait, et tout de suite, les yeux à peine ouverts, il marmotta : — Ici, sur le palier, la petite porte… — Ah ! bon sang, la porte de la septième chambre ! s’écria le chef de la Sûreté…
+
+['elle', 'la', 'moi', 'lui', 'le']	Dolorès	Il se retourna vers [MASK]. — D’où vient ce miroir ? À qui est-ce ? Il serait très important de… Elle saisit l’objet et l’examina : — Je ne sais pas… je ne l’ai jamais vu… un domestique peut-être.
+
+['Dame', 'Bien', 'Non', 'Oui', 'bien']	Marco	tu l’auras, demain matin par colis postal ! Il reprit le téléphone. — [MASK], tu as la boîte sous les yeux ?… Qu’est-ce qu’elle a de particulier ? De l’ébène, incrusté d’ivoire… oui, je connais ça…
+
+['DE', 'Très', '...', ',', 'de']	Altenheim	Et [MASK] continua : — Es-tu toujours intraitable ?… Oui ?… Imbécile ! Il faudra pourtant bien que tu te décides à raconter ce que tu sais… Non ?… Bonsoir, alors, et à demain…
+
+['conduite', 'par', 'à', 'pour', 'en']	Isilda	— Il est mort il y a deux années. — Sans enfants ? — Il avait un fils qui se maria et qui fut chassé, ainsi que sa femme, pour conduite scandaleuse. Ils laissèrent le plus jeune de leurs enfants, une petite fille nommée [MASK].
+
+['celui-ci', 'celle-ci', 'le', 'elle', 'lui']	Sernine	Un hurlement de terreur lui échappa, à la vue de l’abominable spectacle, et il revint tomber auprès de la table, à genoux devant [MASK]. — Frappe ! dit celui-ci en étalant de nouveau les cinq doigts et en disposant la lame du couteau.
+
+['alors', '...', 'en', '…', 'toi']	Kesselbach	Il avait une expression résolue, implacable. — Fini de rire, [MASK]. Si tu ne parles pas, tant pis pour toi. Es-tu décidé ? — À quoi ? — Pas de bêtises. Dis ce que tu sais. — Je ne sais rien.
+
+[',', '-', 'se', 'hier', 'le']	Altenheim	— Chez [MASK], alors ? dans l’hôtel qu’il habitait ? — Oui. — Voilà bien le crédit qu’on peut attacher à toutes ces bêtises ! Dans la poche du baron, j’ai trouvé son adresse. Une heure après, l’hôtel était occupé par mes hommes
+
+['...', 'les', 'de', 'se', ',']	Lupin	[MASK]… Et c’est obscur, dis-tu ? Des mots éblouissants, au contraire !… Ah ! est-ce possible !… Du bruit à la porte. On frappa. — On n’entre pas, dit-il, je suis occupé…
+
+['Sam', 'Harry', 'Pierre', 'Paul', 'Jean']	Sernine	— Des blagues ! C’est encore un truc de ta façon… — Non, reprit [MASK], la bataille est perdue. Tu n’as pas le droit de tirer. Je ne me défends pas. Il exhiba deux revolvers qu’il jeta sur le sol.
+
+['puis', 'Puis', 'le', 'Et', "L'"]	Sernine	Allons, j’ai idée qu’on ne s’ennuiera pas. Et [MASK], les ayant congédiés, s’éloigna par le sentier de l’école, tout en monologuant. « Tout est pour le mieux. La bataille va se livrer sur le terrain choisi par moi.
+
+['un', 'le', 'une', 'ça', "l'"]	Dieuzy	— J’ai mis [MASK] de planton. — Avec des ordres formels ? — Oui, chef. Dans le vaste hall de l’hôtel, la foule des voyageurs se pressait avec inquiétude, commentant les versions plus ou moins exactes qui lui parvenaient sur le crime étrange.
+
+['la', 'sa', 'lui', 'cette', 'son']	Sernine	Je te défends… — Et après ? c’est donc un déshonneur ? Je l’aime bien, moi, et j’ai bien risqué… Il n’acheva pas, intimidé par la colère effrayante de [MASK], colère contenue, silencieuse, qui lui bouleversait les traits.
+
+['...', 'Et', 'Car', 'Tu', 'et']	Lupin	Raison de plus pour nous accorder. Et, se penchant vers lui : — écoute, [MASK], réfléchis bien à mes paroles, il n’en est pas une que je n’aie mûrement pesée. Voici… Nous sommes de force tous les deux… Tu souris ?
+
+['-', 'vous', 'moi', 'toi', 'plus']	Geneviève	Soudain, elle eut l’impression d’une présence étrangère dans la pièce. Inquiète, elle se retourna. — Toi ! s’écria-t-elle… D’où viens-tu ? Par où ?… — Chut, fit le prince Sernine. écoute-moi et ne perdons pas une minute. [MASK] ?
+
+['il', '-il', 'Pierre', 'Jean', 'celui-ci']	Lupin	« Bizarre, se dit [MASK], il est plus de minuit pourtant… Ça me semble louche, cette affaire-là. » Il patienta dix minutes, vingt minutes. À minuit et demi, personne. Un retard devenait dangereux.
+
+['les', ',', 'le', 'la', 'de']	Sernine	Il lut le courrier que celui-ci apportait, s’habilla sans dire un mot, et se mit à écrire des lettres, pendant que le domestique suspendait soigneusement dans le placard les vêtements de la veille, et que [MASK], les poings en bataille, se disait : «
+

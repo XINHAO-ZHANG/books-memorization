@@ -1,0 +1,200 @@
+['.', ',', '</s>', '!', 'un']	Simplicie	Elle entra, regarda partout ne vit rien, sortit et allait partir, quand un bruit retentissant la fit rentrer dans le cabinet, ou elle aperçut par terre [MASK], que la peur et l'émotion veinaient de faire tomber en faiblesse;
+
+['</s>', 'il', 'et', 'on', 'elle']	Coz	tant pis pour les absents. [MASK] ne se le fit pas dire deux fois. Le paquet fut bientôt prêt; il le chargea sur son dos, marcha d'un pas accéléré en allant, courut en revenant, et rentra dans le salon au moment où six heures sonnaient.
+
+['il', 'elle', 'et', 'celui-ci', 'lui']	Prudence	Le Polonais effaré courait après eux muet de terreur; [MASK] suppliait en vain qu'on la laissât avec ses jeunes maîtres; les enfants se révoltaient, mais les rires des gamins étouffaient leurs paroles. Le Polonais cherchait des yeux un sergent de ville qui lui portât secours;
+
+['-', '</s>', 'il', '"', '--il']	Innocent	LE MAÎTRE.—Je vois que vous ne voulez nommer personne; c'est bien généreux à vous vis-à-vis de ces mauvais garnements. [MASK] ne répondit pas; il remerciait le bon Dieu de lui avoir donné le courage de cette générosité. Le maître le quitta en lui serrant la main.
+
+['...', "l'", ',', "d'", 'et']	Prudence	car il est également appelé devant le juge d'instruction. A peine finissait-elle sa phrase, que [MASK] entra éperdue. —Madame! Madame! quel malheur, mon Dieu! comment faire? Oh! Madame! faut-il que J'aie vécu pour voir une chose pareille!
+
+['je', 'on', 'vous', ',', 'même']	Coz	On sort le dimanche. Vous dînerez, et le soir [MASK] vous ramènera. INNOCENT.—Je ne demande pas mieux, je serai enchanté; mais il faut une permission. PRUDENCE.—Et comment faire? INNOCENT.—Je vais aller, la demander au maître. Attendez-moi, je vais revenir.
+
+['maman', 'paul', 'georges', 'robert', 'alice']	Coz	Prudence et les enfants n'avaient pas perdu une si belle occasion pour crier et appeler au secours. —Vous pas crier, disait [MASK]; chevaux s'effrayer, courir plus vite. Quand les chevaux ralentirent leur marche, les cris cessèrent de se faire entendre.
+
+['</s>', 'elle', 'il', 'et', '_']	Simplicie	Va-t'en. Vrai je ne réponds pas de moi; la main me démange. [MASK] ne se le fit pas dire deux fois; elle s'empressa de se soustraire aux envies fâcheuses de sa tante et courut se jeter sur une chaise dans sa chambre;
+
+['il', 'elle', '</s>', 'qui', '"']	Simplicie	Ces pivoines sont presque aussi grosses que la tête de Mademoiselle! Et rouges, presque comme les joues de Mademoiselle. [MASK] se leva, regarda avec complaisance, admira le tour de fleurs qui surmontait sa tête déjà trop grosse et acheva de s'habiller.
+
+['</s>', 'il', 'elle', 'on', 'chacun']	Innocent	dans un quart d'heure je vous en rendrai compte. Attendez-moi tous ici. Le maître sortit, laissant dans l'anxiété les acteurs de la scène. [MASK] avait peur que les élèves, par haine contre lui, ne rendissent de faux témoignages.
+
+[',', 'et', 'alors', 'cela', 'celui-ci']	Prudence	demanda [MASK] de son air le plus aimable. —C'est moi. Madame, qui suis son délégué, répondit le plus grand de la bande. Que demandez-vous? —Monsieur le délégué du chef, voici une lettre de mon maître, M. Jonathas Gargilier.
+
+['toujours', 'la', 'ça', 'ainsi', 'souvent']	Croquemitaine	C'est ma bonne que j'appelle [MASK], parce qu'elle à toujours l'air de vouloir avaler tout le monde. Allons, ajouta-t-elle en poussant à deux mains les enfants et les Polonais, je veux qu'on rie, moi.
+
+['qui', 'il', 'on', 'elle', 'dieu']	Gargilier	—Et [MASK] ne veut pas les payer? INNOCENT.—Pourquoi payerais-je ce que je ne dois pas? Toi qui a pris tout cela chez le père Frimousse, tu sais bien que je ne t'en ai jamais chargé et que c'est toi-même qui as tout mangé, si tu les as pris.
+
+['ne', 'cheval', 'chevaux', 'qui', 'il']	Coz	[MASK] sait conduire chevaux; cocher pas bien tenir; laisser aller trop fort mauvais; chevaux toujours faut tenir. Il voulut rendre Les rênes au cocher mais celui-ci refusa —Je n'aime pas ces chevaux, dit-il, ils sont trop vifs, ils courent trop fort.
+
+['moi', 'cheval', 'faire', 'deux', 'papa']	Gargilier	dit l'un d'eux. —Hop! Il appuya ses mains sur la tête d'Innocent et le fit aller au fond. —Une passade à [MASK]! dit le second en le voyant revenir sur l'eau.
+
+['faire', 'cela', 'quoi', 'pourquoi', 'comment']	Boginski	toujours à votre service, répondirent-ils d'un commun accord en s'élançant dans la chambre. —Je ne trouve pas la clef de ma malle; nos effets de nuit sont dedans; nous ne pouvons rien avoir. —Mille tonnerres! Comment faire, [MASK]?
+
+['le', 'pierre', 'charles', 'jean', 'jacques']	Innocent	Les méchants garçons! Je les déteste! LE MAÎTRE.—Détestez-les tant que vous voudrez, Monsieur, mais ne les taquinez pas; c'est dans votre intérêt que je vous le dis. Le maître d'étude s'éloigna, laissant [MASK] tout penaud an milieu de la cour.
+
+['le', 'la', "l'", 'un', 'son']	Innocent	—M'sieu, dit [MASK], en s'approchant du maître d'étude, ils m'appellent Judas, mouchard, rapporteur, et je ne sais quoi encore. LE MAÎTRE.—Taisez-vous, Monsieur; vous me fatiguez de vos plaintes. Ne les agacez pas, ils ne vous diront rien.
+
+['chevaux', 'lui', 'cavaliers', 'femmes', 'moi']	Coz	«Au premier, en face», répondit le concierge. Elles allaient monter suivies de [MASK], quand le cocher de fiacre courut après eux: —Hé! bourgeois dites donc, et ma course? COZRGBRLEWSKI:—On payera quand seront revenues les dames. LE COCHER.—Ah! mais non!
+
+['catherine', 'natacha', 'valentine', 'caroline', 'jeanne']	Prudence	Il faisait grand jour; il était neuf heures. —Quoi? qu'est-ce? que me veut-on? s'écria [MASK] à moitié endormie. BOGINSKI.—Il est neuf heures. Madame. Tante Bonbeck attend à dix. Faut partir bientôt. PRUDENCE.—Je ne comprends pas.
+
+['lui', 'eux', 'son', 'ses', 'les']	Innocent	les dernières récréations s'étaient bien passées; le maître d'étude, qui les surveillait de près, ne trouva rien à redire à la conduite des élèves envers [MASK], qu'il honorait d'une protection particulière, et qui cherchait toutes les occasions de lui être agréable.
+
+['celui-ci', 'mais', 'et', 'puis', 'maurice']	Boginski	L'homme se recula épouvanté en criant: «Le diable!» —A ce cri, la foule ne tarda pas à s'amasser; [MASK], embarrassé de l'attitude de sa compagne, la supplia de s'en aller. —Non mon ami.
+
+['olivier', 'isabelle', 'adèle', 'auguste', 'henri']	Innocent	Tout de même ne mangez pas tout. L'ÉLÈVE.—Non, non, je n'en mange que juste la moitié; le reste est pour lui. L'élève partit en courant, et remit aux mains impatientes d'[MASK] cinq croquets, une pomme, dix noix et une tarte.
+
+['m', 'napoléon', 'mr', 'la', 'jésus']	Prudence	—Messieurs les Polonais, êtes-vous couchés? dit la voix lamentable de [MASK]. —Mon, non, Madame; toujours à votre service, répondirent-ils d'un commun accord en s'élançant dans la chambre. —Je ne trouve pas la clef de ma malle;
+
+[',', 'comme', 'et', 'bientôt', 'déjà']	Prudence	Le fiacre se mit en route; [MASK] tranquillisée par la présence de ses sauveurs, se mit à regarder avec une admiration croissante les boutiques, les lanternes, le mouvement incessant des voitures et des piétons. Le coeur des Polonais nageait dans la joie;
+
+['</s>', '"', ')', '-', '_']	Innocent	INNOCENT.—Je ne demande pas mieux, je serai enchanté; mais il faut une permission. PRUDENCE.—Et comment faire? INNOCENT.—Je vais aller, la demander au maître. Attendez-moi, je vais revenir. [MASK] se leva, ouvrit la porte, poussa un cri et rentra d'un bond dans le parloir.
+
+['thiers', 'jourdain', 'jules', 'hardy', 'd.']	Innocent	M. DOGUIN.—Mon ami, je comprends que vous ayez peur d'avouer la dette devant Madame, qui pourrait en informer votre père, mais ce que vous faites n'est pas honnête, et il faudra bien que vous payiez. —PRUDENCE.—M. [MASK] n'a pas peur de moi.
+
+['</s>', 'il', '--il', '-', 'elle']	Innocent	Monsieur Gargilier, venez ici. [MASK] se leva, mais, au premier pas qu'il fit il trébucha contre la table; il se remit en équilibre, trébucha de nouveau, se débattit contre un lien qui le retenait à son banc et tomba le nez par terre.
+
+[',', 'qui', 'de', 'la', 'ivresse']	Prudence	[MASK], toujours digne de son nom, avait emporté abondance de provisions; la joie, au lieu de leur ôter l'appétit, le développa si bien, que le panier à ventre rebondi se trouva vide en arrivant. Du chemin de ils passèrent à la diligence;
+
+['servante', 'maître', 'cocher', 'femme', 'concierge']	Prudence	les fenêtres commençaient à se garnir de, têtes, lorsque le concierge, jaloux de l'honneur de la maison, parvint à glisser dans F oreille de [MASK]: —Payez-lui ses trente sous, tout sera fini. —Tenez, monsieur le cocher, voilà votre argent;
+
+['</s>', '"', 'il', '_', 'et']	Coz	il nous suit partout, il est très bon, je vous assure. La bonne, qui comprenait enfin son erreur, dit aux domestiques de laisser aller le Polonais. [MASK] avait ses habits en désordre; le noeud de sa cravate était à la nuque, ses cheveux étaient ébouriffés;
+
+['enfin', 'vérité', 'encore', 'oui', '"']	Boginski	ils se précipitèrent dans l'appartement, personne; ils ouvrirent la porte de la chambre à coucher personne encore; mais la porte du perron, restée ouverte, leur apprit l'enlèvement de la malheureuse Simplifie. Tous restèrent consternés, —Je cours, dit enfin [MASK];
+
+['vous', 'toi', 'lui', 'moi', 'moi-même']	Coz	Et puis, il faut que nous menions les enfants dire adieu à leur tante. —Ah! s'écrièrent les enfants avec effroi, je ne veux pas y aller! j'ai trop peur. PRUDENCE.—Avec moi et [MASK], il n y aura aucun danger.
+
+['</s>', 'il', '-', 'elle', '"']	Innocent	—C'est bon cela, dit le maître, c'est une détente. Laissez-le pleurer c'est très bon. [MASK] pleura pendant quelques minutes; il se calma graduellement, et, se tournant vers le maître, il le remercia de ses bontés;
+
+['il', 'je', 'on', 'et', 'qui']	Innocent	Enfin, [MASK] rentra au parloir, blanc comme avant son baptême au cirage, et vêtu de sa plus belle redingote traînante, de son plus large pantalon à la mamelouk,, de sa plus longue cravate à cornes menaçantes, et de ses bottes vernies à grands talons.
+
+['il', 'et', 'qui', ',', 'elle']	Innocent	[MASK] leur demanda de continuer à le protéger. —Tu peux être tranquille, tu ne cours plus de dangers, M. le chef de pension renvoie les trois méchants qui montaient toujours les mauvais coups; les autres auront peur et se tiendront en repos.
+
+[',', 'elle', 'mère', 'a', 'puis']	Simplicie	[MASK] reprit son air satisfait et s'en alla en promettant de revenir. Quand elle fut partie, les enfants furent pris d'un fou rire, et toutes quatre se roulèrent sur les canapés en riant à suffoquer. La bonne partagea leur accès de gaieté.
+
+['moi', 'toi', 'tous', 'toi-même', 'présent']	Prude	Ingrate! fais tes excuses à [MASK]! Et tout de suite encore…, entends-tu? Embrasse-la et demande-lui pardon. SIMPLICIE.—Mais, ma tante… MADAME BONBECK.—Il n'y a pas de mais.
+
+['</s>', 'on', 'il', 'chacun', ',']	Innocent	on assigna des cabinets aux élèves répartis par groupes. [MASK] se trouva avec trois ennemis et quatre amis, de sorte qu'il se crut bien protégé. Oh se déshabilla, on revêtit le caleçon, chacun accrocha ses vêtements au clou désigné, et on se lança dans l'immense bassin.
+
+['elle', 'et', 'mère', 'qui', ',']	Simplicie	[MASK] allait répliquer, lorsqu'elle entendit frapper contre le mur; sa tante couchait dans la chambre à côté. —Allez-vous bientôt vous taire et me laisser dormir bavardes! Soufflez la bougie; je n'aime pas qu'on brûle mes bougies inutilement.
+
+['robert', 'catherine', 'john', 'jacques', 'valentine']	Innocent	—Où coucherons-nous? s'écria [MASK]. —Ça pas difficile, dit un des Polonais. Moi connaître hôtel excellent pour coucher et manger. —Excellents Polonais! sauvez-nous. Menez-nous dans quelque maison où mes jeunes maîtres soient en sûreté, et ne nous quittez pas, ne nous abandonnez pas.
+
+['.', 'le', '</s>', 'la', 'les']	Innocent	A peine eut-elle tiré quelques sons du violon, qu'une nouvelle interruption vint l'irriter contre [MASK]. En se retirant, il marcha sans voir sur la queue du chat, à demi-couché sur le ventre du chien. La douleur fit faire au chat un bond prodigieux;
+
+['le', ',', 'les', 'la', ':']	Innocent	je comprends que tu ne veuilles pas, l'avouer, Laissez-nous, père Frimousse, ajouta-t-il tout bas, j'arrangerai cela. —Tu es un calomniateur, un menteur et un voleur! s'écria [MASK] hors de lui. Restez, restez, père Frimousse;
+
+['agonie', 'émotion', 'adieu', 'un', 'une']	Innocent	La menace fit son effet; le silence le plus absolu régna dans la salle; on n'entendait d'autre bruit que celui des feuillets qu'on tournait, des plumes grinçant sur le papier, et les sanglots d'[MASK]. LE MAÎTRE.—Aurez-vous bientôt fini vos gémissements douloureux,
+
+['madame', 'sa', 'marie', 'mère', 'maman']	Prudence	Il parla le soir même à [MASK], en lui recommandant de ne rien dire encore aux enfants. Elle fut très contrariée d'avoir à quitter ses maîtres, mais flattée en même temps, de la confiance qu'ils lui témoignaient.
+
+['père', 'mère', 'le', 'et', 'son']	Innocent	[MASK], de son côté, n'était plus aussi enchanté qu'il en avait l'air; ce que sa mère avait dit de la vie de pension lui revenait à la mémoire, et il craignait qu'il n'y eût un peu de vrai;
+
+['</s>', '"', '...', 'et', '-']	Coz	est-il nigaud, ce garçon! Et tout cela pour porter une espèce d'uniforme qui n'a ni queue ni tête! [MASK], courez vite porter les effets de ce garçon, et ne soyez pas en retard pour le dîner, car nous ne vous attendrons pas.
+
+['elle', '</s>', 'on', 'il', 'ce']	Innocent	On lui apporta à manger; il mourait de faim, et il aurait voulu manger quatre fois autant qu'on lui en donnait, mais l'infirmière fut inflexible. [MASK] passa encore une triste journée sans aucune occupation. Quelques élèves de la moyenne vinrent le voir pendant quelques instants.
+
+[',', 'arthur', 'thomas', 'herbert', 'julien']	Simplicie	—Je suis enchantée, répondit [MASK] d'une voix lugubre, mais… —Mais quoi? —Mais… tu as toi-même l'air si sérieux, que je ne sais plus si je dois être contente ou fâchée. —Je suis très gai, je t'assure, reprit tristement
+
+[',', 'réagit', 'tout', 'répond', 'est']	Simplicie	. SIMPLICIE,—Mais ils sont punis, puisqu'ils ne sortent pas aujourd'hui dimanche. COZRGBRLEWSKI.—Pas assez cela. Mam'selle, pas assez: moi donner coups, c'est mieux. —Ce Polonais est insupportable, marmotta [MASK] en haussant les. épaules.
+
+['on', 'elle', 'personne', 'nul', 'dieu']	Coz	les chevaux s'emportèrent, allèrent comme le vent et auraient jeté la voiture dans un fossé de vingt pieds de profondeur, si [MASK] n'eût saisi les rênes, n'eut maintenu et calmé les chevaux et ne les eût remis au trot raisonnable de bons normands.
+
+['dieu', 'jésus', 'paul', 'charles', 'david']	Prudence	il savait combien ses parents l'aimaient, et il ne douta pas que son père ne vint immédiatement le chercher. Dans cet espoir, il écrivit à [MASK] pour lui demander de venir le voir et pour lui raconter ce qui venait de lui arriver et la demande qu'il avait adressée à son père.
+
+['moi', 'commencer', 'tous', 'cela', 'lui']	Gargilier	Le maître tapait sur son pupitre, criait: «En place, Messieurs!» mais ils faisaient semblant de ne pas entendre et de se montrer inquiets de la chute d'Innocent. —Dix mauvais points pour [MASK]! cria le maître…
+
+['il', 'rien', 'elle', 'on', 'et']	Innocent	son air de détresse, ses mouvements convulsifs les amusaient au lieu de les toucher. Enfin, à une dernière passade, [MASK] ne revint plus sur l'eau; il flottait au fond, ayant perdu connaissance. A ce moment les grands élèves arrivaient;
+
+['t-il', 'catherine', 'celui-ci', 't-elle', 'elle']	Innocent	—Bonjour, ma tante, comment vous portez-vous? s'écria [MASK] en se jetant à son cou, sans égard pour la symphonie, le violon et l'archet. MADAME BONBECK.—Que le diable t'emporte! Tu m'as fait rouler mon violon;
+
+['bonheur', 'régal', 'délice', 'plaisir', 'vrai']	Jocrisse	Voilà que vous avez mangé la moitié des provisions de votre protégé. Comment l'appelez-vous, ce brave garçon? L'ÉLÈVE.—Gargilier! Une bonne pratique, allez! Bête comme il n'y en a pas; niais comme on n'en voit pas, un vrai [MASK].
+
+['paul', 'robert', 'jean', 'tom', 'julien']	Innocent	—Mais quoi? —Mais… tu as toi-même l'air si sérieux, que je ne sais plus si je dois être contente ou fâchée. —Je suis très gai, je t'assure, reprit tristement [MASK]; C'est un grand bonheur pour nous;
+
+['"', '!', 'soit-il', 'aussi', ')']	GARGILIER	Je ne veux pas croire que vous me refusez, car je sens que je mourrais de chagrin si je restais ici. Je vous embrasse, mon cher papa et ma chère maman et je suis votre fils bien repentant et bien malheureux. «Innocent [MASK].»
+
+['m', 'mm', 'travail', 'monsieur', 'paris']	Gargilier	L'élève ne prit pas la peine de vérifier le compte du portier; il ne s'aperçut pas qu'on faisait payer trente centimes de trop. L'ÉLÈVE.—Tenez, voici toujours un franc à compte; mettez le reste sur le mémoire de [MASK].
+
+['.', ':', ',', 'le', '?']	Prudence	—Voilà le voleur! s'écrie [MASK]. C'est ce chien maudit qui a mangé notre déjeuner, notre meilleur morceau! un morceau que j'avais choisi entre cent chez le boucher, que j'avais fait rôtir avec tant de soin! Messieurs les Polonais, vengez-vous!
+
+['jean', 'simon', 'pierre', 'jacques', 'étienne']	Oursinet	Le père Frimousse saisit [MASK] par le collet, et, malgré sa résistance, il le mena au cachot désigné, sombre réduit à peine éclairé par une lucarne, n'ayant pour meubles qu'un lit de planches avec une couverture, une table, une chaise et la vaisselle strictement nécessaire pour une si triste demeure.
+
+['elle', 'il', 'lui', 'on', 'r']	Simplicie	Embrasse-la et demande-lui pardon. SIMPLICIE.—Mais, ma tante… MADAME BONBECK.—Il n'y a pas de mais. Tu as chagriné cette bonne fille, qui se dévoue à te servir, et je veux que tu lui fasses réparation. Deux jours après, [MASK] eut sa robe.
+
+['</s>', '-', '"', 'il', '_']	Innocent	INNOCENT.—Je te les donnerai quand nous rentrerons en étude; j'ai mis mon argent dans mon pupitre. L'élève, satisfait de son premier succès, n'insista pas. [MASK] goûta à tout et y goûta tant et tant qu'il ne lui resta plus rien pour le lendemain.
+
+['ceux-ci', 'tous', 'chacun', 'messieurs', 'pierre']	Innocent	Quand le maître de pension ramena [MASK] dans la cour où jouaient les élèves, il les appela tous: —Messieurs, leur dit-il, je vous recommande de l'indulgence et de la charité envers ce nouveau camarade que je vous amène; vous l'avez déjà bousculé et maltraité.
+
+['lui', 'me', ',', 'et', '</s>']	Boginski	[MASK] revint bientôt, lui apportant douze francs de monnaie. Prudence acheva de tout ranger dans la malle, que les Polonais chargèrent sur leurs épaules, et tous descendirent l'escalier noir et tortueux, qui les mena jusque dans la rue. La malle fut posée à terre;
+
+['innocent', 'clément', 'joseph', 'jésus', 'jésus-christ']	Simplicie	elle leur servit à dîner un gâteau excellent, surmonté d'une crème vanillée et entourée d'une muraille de fruits confits; elle y ajouta une bouteille de frontignan-muscat pour célébrer la rentrée en famille d'Innocent et le retour de [MASK].
+
+['il', ',', 'et', 'lui-même', '"']	Innocent	[MASK] ne comprenait rien à cette étrange réception; il avait des inquiétudes sur sa redingote, que les saccades répétées menaçaient de mettre en pièces. Il voulut s'échapper; toute issue lui était fermée. La peur commençait à la gagner;
+
+['on', 'elle', 'il', 'sophie', 'agathe']	Simplicie	Les enfants la regardèrent avec surprise, et, malgré le silence qu'elles gardèrent toutes, [MASK] devina sans peine que ce silence même était un blâme, que ces demoiselles trouvaient qu'elle avait eu tort, et que si elles ne le lui disaient pas, c'était par politesse.
+
+['</s>', '"', '...', ')', '_']	Simplicie	Brigands, scélérats, bêtes brutes! [MASK] restait impassible et disait de temps en temps: «Voilà ce que c'est!… C'est bien ta faute! Tu as voulu être en pension!… et voilà ce que tu as gagné à ton pensionnat.»
+
+['abord', 'entraînement', 'école', 'apprentissage', 'un']	Innocent	Trois jours s'étaient passés depuis rentrée d'[MASK] en pension; il paraissait s'habituer à ses camarades, et eux, de leur côté, ne semblaient avoir conservé aucun souvenir des orages du premier jour. Mais ce calme était, un calme trompeur;
+
+['je', 'personne', 'nul', 'rien', 'ça']	Boginski	Je ne suis pas en colère; je yeux seulement te faire voir que je ne me laisse pas jouer comme un enfant, que [MASK] ne peut m'empêcher de faire ce que je veux, et que s'il me plaît de t'emmener, je t'emmènerai.
+
+['jeanne', 'marie', 'alice', 'elle', 'henriette']	Prudence	—Comment! en voiture! Mais, nous n'avons pas fini. Dites donc, conducteur, attendez un peu; laissez-nous finir, dit [MASK], alarmée. La cloche sonna. «En voiture. Messieurs!» fut la seule réponse qu'elle reçut.
+
+['paris', 'celui-ci', 'napoléon', 'jean', 'rome']	Innocent	Je dis que c'est vous et que vous serez privé de sortie dimanche prochain. LEON.—Mais, M'sieu… LE MAÎTRE.—Je ne vous parle pas de ça. Vous ne sortirez pas. Le maître se retira,, laissant [MASK] en proie aux vengeances de ses ennemis.
+
+['vois-tu', 'dit-il', 'moi', 'non', 'oui']	Prude	s'il montrait les dents, c'est qu'il les avait belles et qu'il croyait vous plaire; s'il était grognon, c'est que vous ne le traitiez pas poliment. Vois-tu, [MASK], un chien a son amour-propre tout comme un autre;
+
+['il', 'on', 'elle', 'arthur', 'un']	Innocent	ajouta-t-il, voyant qu'[MASK] restait par terre. Et comment pouvait-il se relever? Les camarades venus à son secours le tiraient par les jambes, l'aplatissaient à terre, le roulaient sous le banc sous prétexte de lui venir en aide.
+
+['jeanne', 'marguerite', 'barbe', 'madame', 'diane']	Simplicie	elle alla juger par elle-même, avec ses soeurs, A et amies, de l'étendue du dégât; elle sourit de la figure étrange de [MASK], et jugea qu'un coiffeur seul pouvait trouver un remède à l'ouvrage de ces demoiselles.
+
+['</s>', '"', '-', 'moi', 'oui']	Boginski	—Va, va, ma fille, fais ce que tu voudras; je ne suis pas un tyran, moi; j'aime la liberté. [MASK], nous allons faire de la musique pendant une heure ou deux.
+
+['dit-elle', 'madame', 'monsieur', 'dit-il', 'mademoiselle']	Clara	Elle restait muette comme un poisson! CLARA.—C'est que la pauvre fille était honteuse. Il était ridicule! SOPHIE.—Pourquoi l'as-tu engagée à venir le soir, [MASK]? Elle nous ennuiera horriblement. CLARA.—Parce qu'elle était si embarrassée, qu'elle m'a fait pitié.
+
+['monsieur', 'madame', 'messieurs', 'dit-il', 'moi']	Coz	moi sais quoi c'est pleurer, quoi c'est souffrir. INNOCENT.—Je vous assure, [MASK], que nous pleurons de joie à la pensée de revenir bientôt chez nous; vous comprenez bien cela, n'est-ce pas?
+
+['!', '.', '"', '...', ',']	Oursinet	M. DOGUIN.—Père Frimousse, amenez-moi [MASK]. Le portier s'empressa d'obéir, plein d'inquiétude pour le payement de sa note, il ne fut pas longtemps à faire comparaître devant le maître celui qu'il soupçonnait déjà d'avoir abusé de sa bonne foi.
+
+['toi', '-', 'socrate', 'sais-tu', 'lui']	Prudence	INNOCENT.—Je t'assure, [MASK] que je ne dois rien du tout; c'est au contraire lui qui me doit trois francs et quelques sous sur une pièce de cinq francs. —Seigneur! faut-il être méchant et menteur! s'écria le portier.
+
+['elle', 'il', 'et', 'qui', 'on']	Simplicie	La nourrice ne se décourageait pas et recommençait sans cesse ses tentatives. [MASK] sentit un premier regret d'avoir quitté la maison paternelle; ce voyage dont elle se faisait une fête, qui devait être si gai, si charmant, avait commencé terriblement, et continuait fort désagréablement
+
+['non', 'mais', 'toi', 'tes', 'nous']	tartufe	—Je n'ai rien fait, je vous assure que je n'ai rien fait ni rien dit, je vous eu prie, mes amis, ayez pitié de moi. —Nous ne sommes pas tes amis, [MASK]! tu nous a fait tous punir;
+
+['valentine', 'marguerite', 'jacques', 'robert', 'catherine']	Louis	les autres auront peur et se tiendront en repos. Mais si on voulait te tourmenter, nous sommes là. C'est que nous avons gagné là une fameuse victoire! Vingt-trois moyens qui ont fait fuir douze grands! —Nous sommes les zouaves du collège! s'écria [MASK].
+
+[';', ',', 'les', ':', 'par']	Léon	Messieurs! un abus de force! une lâcheté! Tomber cinquante à la fois sur un innocent, maigre, faible et incapable de se défendre. Vous êtes tous au piquet, messieurs. —Mais M'sieu, il a rapporté; il a fait punir [MASK];
+
+['</s>', '"', '--non', 'lui', '_']	Coz	Vous pourrez rester avec nous; vous coucherez dans l'antichambre; vous nous aiderez à faire notre ménage; l'argent ne me manque pas; nous mangerons chez nous et nous ne gênerons personne. [MASK], enchanté, ne fit qu'un saut dans la cour et monta la malle.
+
+['</s>', '-', 'il', '--il', 'elle']	Hector	—Je ne fouine pas, je ne caponne pas; mais je dis ce que je pense, et je pense ce que je dis. —Imbécile! dit l'élève en levant les épaules. [MASK] ne répondit pas; il prit du papier et se mit à écrire.
+
+['elle', ',', 'il', 'et', 'on']	Louis	[MASK] lui glissa en cachette deux croquets et une tablette de chocolat, qu'il mangea avec délices; l'infirmière ne s'en aperçut qu'à la dernière bouchée: il n'y avait plus rien, à confisquer; elle gronda, menaça de se plaindre.
+
+['lui', 'elle', 'moi', 'lui-même', 'vous']	Innocent	vous vous êtes corrigée de vos défauts, et je suis sûre que lorsque nous vous reverrons à la campagne l'année prochaine, vous serez aussi gentille, simple et bonne et aimable que vous l'étiez peu jadis. Il en est de même pour [MASK]: ses malheurs au pensionnat ont servi à l'améliorer sensiblement.
+
+['</s>', 'elle', 'il', 'on', '-']	Cozrgbrlewski	elle crut que c'était du Polonais. [MASK] voyait bien que ses trois compagnons étaient ridicules; il n'osait rien dire; mais il voyait avec inquiétude quelques gamins s'obstiner à les suivre; d'autres gamins grossissaient leur cortège à mesure qu'ils avançaient.
+
+['en', 'et', '-', 'celui-ci', 'le']	Simplicie	—Au secours! répétait [MASK] courant après son frère. —Un sergent de ville arriva et s'informa de la cause de ce tumulte. —Ils veulent me voler six sous! cria la femme. —Elle veut me couper ma redingote, balbutia Innocent.
+
+['chacun', 'madame', 'celui-ci', 'celle-ci', 'tous']	Innocent	Le portier attendait à la porte la fin de ce dialogue; voyant qu'il se prolongeait, il fit: quelques pas et présenta à [MASK] une feuille de papier pleine de chiffres. INNOCENT.—Que me donnez-vous là, père Frimousse. LE PORTIER.—C'est la note de ce que vous avez consommé.
+
+['</s>', 'on', 'oh', 'chacun', 'qui']	Innocent	Oh se déshabilla, on revêtit le caleçon, chacun accrocha ses vêtements au clou désigné, et on se lança dans l'immense bassin. [MASK] savait un peu nager, de sorte qu'il se dirigea vers la partie profonde du bassin; plusieurs élèves de sa classe s'y trouvaient.
+
+['tiens', 'voilà', 'tien', 'tient', 'bien']	Gargilier	L'ÉLÈVE.—Tiens, [MASK], tu vas te régaler; j'en ai pris beaucoup, tu en auras pour deux ou trois jours; alors tu me redois un franc quinze, que j'ai payés pour toi. INNOCENT.—Comme c'est cher! Deux franco quinze pour si peu de chose!
+
+['"', '--non', '!', '...', '--']	Prude	MADAME BONBECK.—Qu'est-ce que c'est que cette toilette, Mademoiselle? Etes-vous folle? Allez-vous vous faire suivre et huer, comme hier, par tous les polissons des rues? Ôtez-moi cela! [MASK], enlève cela et habille-la devant moi.
+
+['celui-ci', 'pierre', 'jean', 'julien', 'maurice']	Innocent	—Mon pauvre garçon, tu devrais aller à l'infirmerie prendre un bain de pieds et te coucher, dit le maître d'étude. —Oui Monsieur, répondit [MASK] en se levant. Ses amis demandèrent la permission de le conduire jusqu'à l'infirmerie et de le recommander à l'infirmière.
+
+['il', '</s>', 'et', 'elle', 'chacun']	Simplicie	Innocent, enchanté d'exciter la compassion, raconta longuement la poussée dont il avait été victime et le renvoi des trois élèves qui avaient excité les autres et qui avaient dirigé la presse. [MASK] admirait plus le courage des défenseurs d'Innocent qu'elle ne, plaignait son frère.
+
+['--il', '--', '--je', '"', '</s>']	Coz	et toi, grand imbécile, veux-tu lâcher ta cravate tout de suite? A-t-on jamais, vu une sottise pareille! [MASK] ne répondit pas, il était stupéfait de l'invention d'Innocent et il n'éprouvait, nullement le besoin de dénouer sa cravate.
+
+['</s>', 'et', 'il', '"', '-']	Innocent	Le portier enchanté de cet arrangement au moyen duquel il pouvait faire des gains considérables, remercia l'élève qui lui valait cette bonne pratique et témoigna sa satisfaction en lui offrant une tablette de chocolat, que le coupable accepta et avala avec joie. [MASK] croyait être rentré en grâce auprès de ses camarades;
+
+['on', 'il', 'chacun', 'elle', 'ils']	Simplicie	Les cinq autres convives s'acquittèrent si bien de leurs fonctions, que le panier demeura entièrement vide; les Polonais en avaient consommé les trois quarts; quand [MASK] demanda encore une poire et de la galette, tout était mangé.
+

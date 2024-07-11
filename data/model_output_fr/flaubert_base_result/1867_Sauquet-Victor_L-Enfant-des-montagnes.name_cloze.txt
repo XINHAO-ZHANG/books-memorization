@@ -1,0 +1,200 @@
+['mrs', 'm', 'jean', 'tom', 'robert']	Abdallah	Je vais rapporter au quartier général que tu te décides pour la paix ou pour la guerre, pour les honneurs et les richesses ou pour l’obscurité et la misère. — J’accepte, articula péniblement [MASK]. — Ainsi l’engagement que tu prends librement est sacré ?
+
+['jacques', 'pierre', 'marcel', 'celui-ci', 'maman']	Julien	Tant mieux pour vous, le bon Dieu vous en tiendra compte. Puisque vous me permettez d’en user avec vous comme autrefois, accordez-moi la faveur de vous régaler d’une bouillabaisse. L’estomac de [MASK] se rappelait le fameux ragoût provençal. —
+
+['il', 'et', ',', 'ou', '-']	Abdallah	repoussé vingt fois avec perte, vingt fois il était revenu à l’attaque. Dans une dernière charge, enfonçant ses éperons dans les flancs de son cheval, [MASK] renverse deux hommes des deux premiers rangs ; il va faire une trouée ; les débris de son goum le suivent ;
+
+['chacun', 'lui-même', 'lui', 'bonaparte', 'jean']	Rudiger	On s’interrogeait à voix basse ; on se communiquait ses craintes ; [MASK], l’oracle du navire, était consulté avec empressement. — Le mistral nous trousse , était l’invariable réponse de ce dernier. — Mais nous filons cent nœuds à la minute, nous allons sombrer !
+
+['robert', 'henri', 'georges', 'john', 'johnson']	Julien	— Les parties belligérantes voudront bien remarquer que la bonne harmonie nous est d’une nécessité absolue, répondit [MASK] ; nous sommes en pays ennemi. Comment pourrons-nous nous défendre, divisés ? Pour ma part, je ne puis rien distraire de mes forces. — Soigné !
+
+['dieu', 'jeanne', 'justice', 'marie', 'clémence']	Julien	Un Ouled-Rhia n’a jamais conseillé à ses frères une lâcheté ; les Ouled-Rhia savent mourir ; ils sont des hommes courageux, et non de faibles femmes. Les instances de [MASK] furent vaines ; il lui fut impossible de vaincre l’opiniâtreté du captif.
+
+['moi', 'deux', 'celui-ci', 'monsieur', 'camarades']	Sigha	Quelques minutes plus tard la bande m’y rejoignait. Nous partîmes aussitôt. Je pris route à travers champs avec quatre des jeunes hommes ; les autres, sous la conduite de [MASK], suivirent un sentier couvert serpentant au flanc de la colline qui domine le douar.
+
+['dit-il', 'dit-elle', 'répondit-il', 'ajouta-t-il', 'toujours']	Rudiger	— Le mistral nous trousse , était l’invariable réponse de ce dernier. — Mais nous filons cent nœuds à la minute, nous allons sombrer ! — Que voulez-vous faire à cela ? répondait [MASK] avec un calme parfait. Le capitaine l’a ordonné !
+
+['on', 'il', 'elle', 'chacun', 'se']	Julien	Voilà son crime, messieurs les pyrrhoniens. Veuillez passer condamnation. Cette digression aura suffi pour mettre en lumière le projet du nouveau caporal. Voyons maintenant, notre réformateur à l’œuvre. Pour porter la première attaque aux préjugés, [MASK] choisit un jour de garde.
+
+['abou', 'ah', 'abdel', 'ben', 'ali']	Abd	Les partisans d’[MASK]-elKader, réduits désormais à leurs seules forces, ne comptant plus sur la protection armée d’un empire voisin, devaient continuer la guerre sainte avec plus de circonspection et lever à de plus longs intervalles l’étendard de la révolte.
+
+['il', '</s>', 'elle', '--il', 'chacun']	Abdallah	Si je ne mettais pas à nu ta faiblesse, tu rejetterais mes offres ; car tu as encore plus d’orgueil que d’ambition. [MASK] attendait avec inquiétude le résultat des réflexions de son prisonnier. Le rusé Bédouin trahissait son impatience par des mouvements brusques et saccadés.
+
+['cheval', 'le', 'flûte', 'violon', 'lui']	Goliath	Qu’ont de mieux à faire trois piétons voyageant de conserve, sinon de deviser gaîment ? Aussi écoutons comme le lieutenant, [MASK] et le tambour charment les ennuis de leur pérégrination à travers un pays rien moins qu’enchanteur.
+
+['il', "n'", 'et', 'on', 'puis']	Julien	Soudain le cheval s’est arrêté, [MASK] a pu saisir les rênes ; alors l’Arabe enlace le montagnard dans ses bras robustes ; le montagnard résiste courageusement ; il parvient même à faire reprendre au cheval la route qu’il vient de parcourir ;
+
+['et', 'il', 'donc', 'alors', 'elle']	Julien	[MASK], sans hésiter, se jeta dans la direction d’où venait cet énergique appel. On souffrait, on avait droit à son assistance. En une minute il eut franchi l’espace qui le séparait du massif, et se trouva en présence de deux hommes engagés dans une lutte inégale.
+
+['lui', 'le', 'celui-ci', 'la', 'celle-ci']	Rudiger	les naufragés s’accrochent à la muraille de tribord, pendant que [MASK], par le commandement du capitaine, se jette à la mer avec un des plus vigoureux matelots. Les deux intrépides marins nagent vers le rivage, le corps ceint d’une grosse corde, dont l’un des bouts est solidement amarré au cabestan ;
+
+['non', 'allons', 'écoute', 'tiens', 'mais']	Mathurine	— Je ne me suis jamais si bien porté. — Vous êtes amené alors dans nos montagnes pour des affaires de commerce peut-être ? — Je ne suis rien moins que commerçant. — [MASK], fit le vieillard, visiblement impatienté, tu fatigues monsieur de tes questions indiscrètes.
+
+['</s>', '--non', 'non', '--oui', 'voilà']	Lakdar	leurs bras s’engourdissaient. L’un d’eux vint me trouver il y a quatre jours. « [MASK], me dit-il, l’ennui s’empare des jeunes hommes de la tribu ; les fusils restent muets, et les kandjars se rouillent faute de servir.
+
+['il', 'qui', '-', 'et', 'on']	Julien	C’est peut-être un muscadin. On verra. Présenté au sergent instructeur, [MASK] réclama son indulgence. — Vous serez assez bon, lui dit-il, pour excuser ma gaucherie et me tenir compte des efforts que je ferai pour mettre à profit vos leçons.
+
+['il', 'elle', 'on', 'lui-même', 'je']	Julien	Les passagers doivent être embarqués les premiers ; [MASK] refuse d’une manière absolue de jouir de cette faveur ; sa présence est encore nécessaire sur le navire. Les deux embarcations s’éloignent. Il reste à bord l’équipage, le commandant et notre héros.
+
+['celui-ci', 'chacun', 'napoléon', 'on', 'il']	Julien	— MŒURS ARABES. ( SUITE.) L’arrivée des trois Français s’était répandue promptement dans le douar ; aussi, lorsque [MASK] s’aventura dans la principale rue du village, tous les Ouled-Naïls étaient instruits qu’on lui avait octroyé l’ eau et le sel .
+
+['</s>', 'il', '"', 'et', '-']	Julien	De la Cannebière aux quais il n’y a qu’un pas. [MASK] se trouva bientôt confondu au milieu d’un essaim bourdonnant de matelots se balançant sur le sol, qu’ils craignaient, on eût dit, de voir s’entr’ouvrir sous leurs pieds ;
+
+['le', "l'", 'la', 'un', '.']	Goliath	Les nouveaux venus gesticulaient bruyamment, brandissaient leurs fusils, et se montraient les Français. — Les gaillards délibèrent s’ils nous dépêcheront vers l’autre monde, dit [MASK]. Le jeune officier lança un regard courroucé au soldat.
+
+['lui', 'elle', 'celui', 'ce', 'moi']	Sigha	Les pieux sont arrachés ou coupés, les branchages dispersés, dix trouées faites en moins de temps que je n’en mets à le raconter. Le cri du chat-huant interrompt le silence de la nuit : c’est [MASK] qui avertit les jeunes gens que sur toute la ligne les passages sont pratiqués.
+
+['madame', 'mademoiselle', 'monsieur', 'm.', 'ce-']	Pince	Non, non, vous n’êtes pas cruels. On donne le change à vos instincts généreux. Ce bateleur inhumain égare vos consciences, en voilant avec les dehors d’une innocente plaisanterie sa bouffonne férocité. Cette véhémente sortie ne tourna pas à l’avantage de [MASK] sans-rire.
+
+['vous', 'jésus', 'père', "j'", 'dieu']	Joseph	Si [MASK] est fils, vous êtes époux ; et vous vous rendriez coupable aux yeux de Dieu en compromettant, par un excès de délicatesse, que j’honore sans toutefois l’approuver, l’existence de la compagne, votre amie désintéressée dans vos joies, votre ange consolateur dans vos tribulations.
+
+['henri', 'jacques', 'jean', 'marguerite', 'rodolphe']	Mathurine	cela lui apprendrait à être plus clairvoyante à l’avenir, et à distribuer ses faveurs avec plus de discernement. — Vous voulez vous gausser de nous, dit bien bas [MASK], dont les joues flétries se colorèrent d’un vif éclat à cette espérance inattendue.
+
+['lui', 'césar', ',', 'nous', 'david']	Sigha	Grâce-à ce stratagème, nous décuplions nos forces. Et pendant ce temps, [MASK], sa troupe et le bétail, galopaient dans la direction de notre douar. Jusque-là nous avions seulement échangé avec les Issers des coups de feu sans résultat.
+
+['</s>', '"', '-', '_', ')']	Julien	? Pas le moins du monde. [MASK] connaît le proverbe : « Autre temps, autres mœurs. » Aussi n’a-t-il pas l’ambition de restaurer un ordre de choses impossible, de créer un Etat dans l’État. Notre héros est beaucoup plus modeste ;
+
+['il', 'elle', 'et', 'qui', 'dieu']	Julien	Jaloux de servir les intérêts spirituels en même temps que les intérêts temporels de ses camarades, [MASK] transforme son cours en un enseignement chrétien. A la caserne, le soldat a oublié la prière que lui a apprise sa mère en le berçant ;
+
+[',', '...', 'je', 'on', 'que']	Abdallah	les pipes sont éteintes ; l’amphitryon et ses hôtes sont repus. Alors [MASK] daigne accorder un regard aux cavaliers et aux captifs. — Où vous êtes-vous emparés de ces Français ? demande le cheik à l’un des cavaliers.
+
+['le', 'esprit', ',', 'et', 'capitaine']	matamore	Lâcheté ! Je viens de vous le démontrer surabondamment. Félonie ! Car, [MASK] bravache, pilier des salles d’armes, maître consommé dans ces tours heureux qui vous clouent un homme en place, vous vous attaquez toujours et toujours à des adversaires novices. Impiété !
+
+['le', 'la', 'ly', "l'", 'john']	Goliath	— Ils sont bien bons, lieutenant, répondit [MASK]. Ils s’imaginent alors que nous allons à une partie de plaisir ou à une fête. Sauf le respect que je vous dois, si ce n’eût été par amitié pour vous, je n’aurais pas été un obstacle à l’ambition de mes camarades ;
+
+['le', '.', 'la', 'jean', 'henri']	Julien	on ordonnera à l’appendice charnu qui meuble la bouche de ne se mouvoir qu’en temps utile. Le fils de mon père se mettra à la hauteur de la circonstance. — Je prends acte de cette promesse, repartit [MASK]. — Oui, reprit le tambour ;
+
+['donc', 'écoute', 'et', 'que', 'maintenant']	Joseph	— Mon père ! — Ne cherche pas à me le cacher plus longtemps : tu m’affligerais. — Ne m’en voulez pas. Je redoute tant de vous attrister. — Allons, [MASK], parle, je te l’ordonne. — Eh bien !
+
+['jean', 'henri', 'paul', 'maurice', 'jacques']	Julien	— Je maintiens ce que j’ai avancé, reprit [MASK] d’une voix grave. Le duel est la dernière ressource des lâches. Je ne suis pas surpris toutefois que mon opinion choque votre sentiment. Sous le frac bourgeois, sous l’uniforme s’abrite le paradoxe ;
+
+['"', '0', 'th', '1', 'bl']	Julien	[MASK]. — A une promesse que vous m’avez faite ? Je n’y suis pas du tout. — Ce que je vous dis est pourtant l’exacte vérité. — A une promesse que vous m’avez faite ?... Mais quand ? — Dame !
+
+['robert', 'celui-ci', 'maurice', 'paul', 'georges']	Julien	Les convives approuvèrent d’un signe de tête celle sentence prononcée avec emphase. — Puisque tu daignes nous accorder l’hospitalité, reprit [MASK], permets-moi de te faire observer que nous avons quitté le camp dès l’aube, et que l’astre du jour est sur son déclin ;
+
+['celui-ci', 'il', 'lui-même', "j'", 'chacun']	Julien	Lorsque [MASK] eut joui assez longtemps de l’embarras du cheik, il continua l’entretien un moment interrompu : — Si je t’ai bien compris, tu es décidé à faire ta soumission, si je te démontre l’impossibilité où tu te trouves de continuer la guerre.
+
+['jean', 'robert', 'jacques', 'raoul', 'paul']	Goliath	Vous vous êtes aperçu souvent, lieutenant, comme il est facile de lui fermer la bouche. — Tu me portes une botte, tambour, répliqua vivement [MASK] ; nous avions pourtant fait trêve. Si la guerre commence entre nous, tant pis si tu es blessé.
+
+['cela', 'ceci', ':', 'lui-même', '"']	Julien	— Tiens ! un cicérone au lieu d’un patron de barque, se dit à lui-même [MASK] ; c’est une bonne fortune. Mettons à contribution ses connaissances locales. — La rade vous est familière, à ce que je vois, pilote ? — Tron de l’air !
+
+['monsieur', 'madame', 'messieurs', 'sire', 'non']	Julien	c’est tout ce qu’il faut pour vous occuper tous les trois et vous faire vivre paisiblement. Quand je serai plus riche, j’aviserai à augmenter votre petite propriété. — Nous ne prêterons pas la main à votre spoliation, [MASK], reprit le vieillard.
+
+['qui', 'et', 'soir', 'lui', 'ou']	Julien	[MASK], sur la terrasse, se livrait à un examen minutieux des lieux ; il allait et venait, cherchant un chemin quelque peu praticable. Rien, absolument rien. La muraille parfaitement lisse. Nul vestige de pas humains. La chèvre capricieuse ne s’était jamais aventurée là.
+
+['</s>', '"', 'il', "c'", 'cela']	Abdallah	Mon gouvernement veut faire largement les choses ; il ne marchande pas avec les chefs indigènes qui ont le bon esprit de se rallier à lui. [MASK] hésitait encore ; son orgueil lui livrait un dernier assaut. Se mettre à la merci d’un giaour !...
+
+['maman', 'moi', 'mère', 'non', 'et']	Joseph	— Tu ne manges pas, [MASK] ; tu es malade ? — Je.... ne souffre... pas.... mère…, et…, je…, mange…, de bon.... appétit. — Cher enfant, tu as du chagrin, et tu te caches de ta mère !
+
+['</s>', '-', '"', 'laisse-moi', 'je']	Isard	Adieu, cascade dont tant de fois j’ai admiré les mille arcs-en-ciel ! Humbles fleurs de la montagne, modestement enfouies sous l’herbe, je ne vous cueillerai plus, pour orner l’autel de la Vierge ! [MASK], à la robe fauve, ne fuis plus ;
+
+['"', 'chevalier', '...', ',', 'capitaine']	Goliath	. — Vous devenez lugubre, valeureux [MASK], répondit l’officier à cette boutade mélancolique du géant. Vos sinistres pressentiments me troubleraient presque.... Mais n’ayez aucune crainte, tout se passera bien. Nous courrons seulement le risque de mettre nos dents aux crochets ;
+
+['le', 'un', 'mon', 'beau', 'ô']	canotier	de polir mon langage, mes manières, pour communiquer avec eux d’une façon convenable. Aussi tous ceux qui me font l’honneur de me choisir pour leur cicérone ne me quittent jamais sans me dire : « Adieu, [MASK] beau parleur. » Ce surnom m’est resté.
+
+['il', ',', '-il', 'celui-ci', 'clemenceau']	Julien	C’est égal, le tambour et moi devons être tout de même fiers ; à nous deux nous représentons la moitié d’une compagnie. — Vous devez être fiers, en effet, dit [MASK] avec dignité, d’avoir été jugés dignes d’escorter un parlementaire ;
+
+['celui-ci', 'john', 'johnson', 'harry', 'robert']	Goliath	Les morts appartiennent à Dieu ; les mutiler, c’est commettre la plus odieuse des profanations. Donc, respect à ceux qui ne sont plus ! Il n’y a rien à reprendre à ce que vous dites, caporal, repartit [MASK] ; c’est la plus exacte vérité.
+
+['hélas', 'malheureux', 'monsieur', 'toi', 'ah']	Rudiger	Le capitaine se décida pourtant à lui adresser la parole. — Que lisez-vous donc là-haut, vieux loup de mer ? — Je lis... je lis que la huit sera rude ! — Toujours prophète de malheur, [MASK] ! Vous êtes toujours le même.
+
+['la', 'travail', '</s>', 'ce', 'production']	Francœur	Donc l’activité de [MASK] manquait d’aliment. A quoi s’en prendre, lorsque la besogne fait défaut ? A la folle du logis, c’est-à-dire à l’imagination. Notre héros incompris se mit donc à rêver, à contempler ;
+
+['monsieur', 'moi', 'madame', 'dis-je', 'dit-elle']	Mathurine	Et vous, [MASK], ne prenez pas cet air affligé, vous me feriez de la peine. Je veux répondre à la bienveillance que vous me témoignez ; je ne suis pas malade, je ne suis pas commerçant, je suis soldat.
+
+['</s>', 'il', '"', 'et', '_']	Julien	aussi avait-il été surnommé le savant par ses compagnons, qui toléraient et avouaient franchement sa supériorité, parce que, loin de s’en prévaloir, il ne cherchait qu’à la faire tourner à leur profit. [MASK] perdit de bonne heure son père.
+
+['pierre', 'paul', 'jacques', 'david', 'georges']	Lakdar	J’ai dit. Un murmure approbateur accueillit les dernières paroles de [MASK], et le héros de la maraude se déroba à cette ovation en se réfugiant modestement dans un groupe composé de vieillards. Il fut rappelé par le cheik.
+
+['elle', 'lui', 'vous', 'moi', 'celle-ci']	Mathurine	Persister dans ton refus, ce serait te soustraire à cette obligation. A vous, vieillard vertueux, mais exagéré dans votre probité. Si votre fils a de graves devoirs à remplir envers vous, envers sa mère, vous n’êtes pas moins tenu à l’égard de [MASK].
+
+[',', 'encore', '-', '"', '...']	Goliath	Permettez-moi seulement, en terminant cet entretien déjà trop long à votre gré, de signaler une funeste coutume où la charité chrétienne est foulée aux pieds avec un semblant de justice. Je veux parler du duel. — Vous allez alors assaisonner [MASK] un peu crânement, dit le tambour ;
+
+['</s>', 'qui', 'elle', 'on', 'tout']	Julien	enfin, il se décida à prendre le parti le plus sage, c’est-à-dire à demander. On lui montra une petite maison, toute proprette, située au milieu d’une rue alignée avec une symétrie géométrique. [MASK] alla frapper à cette maison.
+
+['wilson', 'celui-ci', 'harris', 'major', 'john']	Goliath	— Tout de bon, caporal, reprit [MASK], il y a joliment du bon et du vrai dans tout ce que vous venez de nous dire. Ça ne m’était jamais venu à l’idée. Dorénavant je réglerai ma conduite là-dessus.
+
+['il', 'jean', 'augustin', 'pierre', 'paul']	Julien	» L’esprit tranquille après l’accomplissement de ce devoir religieux, [MASK] sortit de l’église. Une heure devait s’écouler avant l’ouverture des bureaux de la sous-intendance, où il avait à faire viser sa feuille de route.
+
+['vous', 'il', 'tu', 'le', 'que']	Goliath	— Oui, reprit le tambour ; mais [MASK] tiendra s’il peut. Vous vous êtes aperçu souvent, lieutenant, comme il est facile de lui fermer la bouche. — Tu me portes une botte, tambour, répliqua vivement
+
+['il', 'on', 'ensuite', ',', 'elle']	Blohamed	les serviteurs s’accroupirent à l’écart sur leurs talons, et le lait de jument fermenté et les chibouques furent cérémonieusement offerts et acceptés de même. Puis [MASK] commença la présentation de chacun des membres de sa famille au Français.
+
+['celui-ci', 'on', 'il', 'lui-même', 'dieu']	Julien	Ce guet-apens aurait eu pour résultat la mort d’un homme, si [MASK] ne se fût trouvé là fort à propos. Se jeter entre les deux champions et faire un rempart de son corps au plus faible, fut aussitôt exécuté que conçu.
+
+['qui', 'celui', 'et', 'ce', 'celui-là']	Mirabeau	Sur ce roc taillé dans le vif, Par bon ordre on retient captif Dans l’enceinte d’un mur massif Esprit libertin, cœur rétif Au salutaire correctif D’un parent peu persuasif. L’homme au génie fatal, [MASK], si tristement célèbre, y fut enfermé, sur la demande de son père.
+
+['malte', 'rhodes', 'preux', 'templiers', 'temple']	Malte	les uns et les autres ont acquis un renom de bravoure, laquelle n’a pas été contestée même par les détracteurs de ces ordres ; et cependant les chevaliers de [MASK], les templiers, les chevaliers teutoniques ne dédaignaient pas les exercices de piété ;
+
+['comme', ',', 'moi-même', 'napoléon', 'bonaparte']	Joseph	Si je n’avais pas remplacé [MASK] à l’armée, je serais pâtre comme auparavant. N’intervertissons pas les rôles, je vous prie ; vous avez été l’occasion, moi j’ai été l’instrument, Dieu a été la cause de ma fortune.
+
+['voix', 'la', 'son', "l'", '</s>']	Mathurine	— Rien que de bien ordinaire, allez, fit l’époux de [MASK]. Notre manière de vivre pendant votre absence n’a pas changé. Dans nos montagnes, c’est toujours la même chose : l’hiver, couper du bois dans la forêt ;
+
+['il', 'elle', 't-il', '-il', 'il']	Julien	Notre devoir à nous est de lutter, tant que la lutte est possible. Prouve-moi que nous ne pouvons plus résister aux Français. — Je vois où tu en veux venir, se dit [MASK] à lui-même. Tu capitules avec ta conscience ; ma mission est heureusement accomplie.
+
+['celui-ci', 'chacun', 'napoléon', 'bonaparte', 'le']	Julien	Ce sera justement ma première garnison. Et [MASK], tirant d’une liasse de papiers sa feuille de route, s’empressa de la montrer au blessé. — Décidément, mon ami, c’est mon heureuse étoile qui vous a mis sur mon chemin ;
+
+['et', 'qui', 'homme', 'le', 'ton']	Lakdar	[MASK], ainsi interpellé, commença en ces termes : — Depuis longtemps nous n’avions pas fait de promenade nocturne 31 ; nos jeunes gens s’ennuyaient de l’inaction ; leurs bras s’engourdissaient. L’un d’eux vint me trouver il y a quatre jours.
+
+['il', ',', 'on', 'chacun', 'je']	Aniar	Mais la blessure était sans remède. On coupa à mon frère, malgré ses protestations, le membre devenu inutile. Allah est impénétrable dans ses desseins, nous nous soumîmes à ce malheur irréparable. Aujourd’hui [MASK] ne pense plus au bras qu’il a perdu ;
+
+['jésus', 'celui-ci', 'dieu', 'marie', 'napoléon']	Julien	elle était notre voisine. — Elle n’est plus de ce monde. Dieu ait son âme ! Et le visage de [MASK], tout à l’heure si gai, s’assombrit subitement. Il resta une ou deux minutes absorbé dans de tristes pensées, puis il reprit :
+
+['il', ',', 'et', 'ii', 'roi']	Julien	[MASK] prit bonne note de cet aveu obtenu dans un moment d’expansion, et, lorsqu’après le dîner il reconduisit son commensal à sa demeure, quelques pièces d’or furent déposées furtivement dans une soucoupe placée sur la cheminée.
+
+['il', 'on', 'aussi', 'elle', 'je']	Julien	Aussi cantinières et cabaretiers éclataient-ils en un concert de malédictions à l’adresse du montagnard. Mais [MASK] se consolait de ces clameurs par la pensée du bien qui se réalisait. D’ailleurs il allait de nouveau être appelé à la vie active des camps.
+
+['.', ':', ',', 'le', '...']	Michel	crièrent en chœur les soldats. — Pour Dieu, ne prenez pas feu ainsi ; que votre charité ne s’effarouche pas. Vous supposez-vous impeccables ? Vous n’avez pas, cette prétention, je vous sais trop raisonnables. — Cependant, caporal.... articula [MASK].
+
+['il', 'samuel', 'élie', 'elle', 'paul']	Mohamed	— Es-tu donc convaincu, dit [MASK], que ce soit mal de venger une famille par la mort de celui qui l’a outragée ? — Le Christ l’a enseigné pendant son séjour sur la terre, et la conscience humaine le proclame.
+
+['tous', 'chacun', 'napoléon', 'chateaubriand', 'bonaparte']	Julien	» Ces expressions d’une douleur immense, ces lamentations échappées à des âmes profondément ulcérées, cette résignation sublime, cette confiance en Dieu, le dernier mot de l’homme sur la terre, excitèrent une vive émotion dans le cœur de [MASK].
+
+['il', 'elle', 'on', 'celui-ci', 'jésus']	Julien	saisi par le montagnard, il fut arraché de sa cachette et contraint de marcher dans la direction de l’entrée des grottes ; il ne poussa pas un cri, une main vigoureuse lui fermait la bouche. Chemin faisant, [MASK] expliqua l’objet de sa visite à l’Arabe silencieux.
+
+['france', 'gauche', 'paris', 'qui', 'napoléon']	Bacchus	avec l’excès du vin, s’éteint l’amour de Dieu, l’amour de la patrie, l’amour de la famille. Pour l’homme tyrannisé par cet ennemi perfide plus d’amis ! Le disciple de [MASK] reste en face de sa dégradation.
+
+['</s>', 'il', 'chacun', 'on', 'bonaparte']	Francœur	Et pendant ces préparatifs formidables, le roi Louis XV et ses courtisans s’endormaient au sein des plaisirs, sans la moindre appréhension de l’orage qui s’amassait sur leur tête. [MASK] observait toujours la rade, armé d’une mèche allumée, prêt à ouvrir le feu.
+
+['</s>', '"', 'le', '-', 'monsieur']	Goliath	. A votre aise. Ne vous gênez pas. Mettez dans les Peaux-d’olive toute votre confiance. [MASK], lui, fait toutes réserves à cet égard. Il aura l’œil et l’oreille aux aguets, pour vendre sa vie le plus chèrement possible.
+
+['tard', 'le', ',', 'la', 'de']	Goliath	Le montagnard et les deux soldats mirent à profit ce se tard, [MASK] et le tambour en se livrant au sommeil sur un lit de peaux de mouton, l’officier en se promenant dans le douar, pour étudier, s’il était possible, l’Arabe dans la vie privée, au foyer domestique ;
+
+['le', 'lui', "l'", 'son', 'la']	Goliath	Le montagnard finissait à peine ces paroles, qu’il était, ainsi que [MASK] et le tambour, environné d’une vingtaine de cavaliers à l’air menaçant. Les nouveaux venus gesticulaient bruyamment, brandissaient leurs fusils, et se montraient les Français.
+
+['celui-ci', 'julien', 'georges', 'robert', 'jean']	Goliath	Ils ont envoyé bien des fois à nos quartiers des parlementaires. Ils veulent que leurs parlementaires soient respectés ; ils respecteront donc ceux de l’armée française. — Fiez-vous-y, lieutenant, s’écria [MASK]. A votre aise. Ne vous gênez pas.
+
+['</s>', '-', '--', 'il', '--il']	Julien	il sait que se rire de notre douleur serait mal. [MASK] a bien l’intention de faire ce qu’il dit. Seulement nous ne pouvons pas accepter. — Pourrait-on connaître le motif de ce refus ? reprit le généreux montagnard.
+
+['le', 'la', '"', ',', ':']	Julien	pauvre Joseph ! vos souffrances vont finir. — Oh ! nous ne manquons de rien à présent, reprit la ménagère. Avec la santé est revenu le travail, et avec le travail l’aisance est rentrée dans la chaumière. — Tant mieux, repartit [MASK].
+
+['</s>', '-', '"', 'le', 'lui']	Julien	— Cela dépendra de toi. — En ce cas, assieds-toi ; tu as marché, tu dois être fatigué. [MASK], usant de la permission, s’accroupit sur une natte, en face du cheik, dont il ne perdait pas de vue un seul mouvement.
+
+[',', '</s>', 'exemple', 'ailleurs', ';']	Mahomet	ce ne serait pas petit embarras, si, outre les comestibles, ils devaient se charger de vin. De par [MASK] les Arabes sont condamnés à s’abstenir de vin, d’eau-de-vie, et généralement de toutes liqueurs fermentées. Cette abstinence est-elle rigoureusement observée par tous les disciples du prophète ?
+
+['le', 'pierre', 'françois', 'la', "l'"]	Goliath	Ils abandonnent la partie et gagnent leur camp en désordre. Les Français les poursuivent la baïonnette dans les reins. Ce n’est plus une retraite, c’est une véritable chasse, ainsi que le fait remarquer [MASK], qui a oublié sa mésaventure et recouvré toute sa bonne humeur.
+
+['henri', 'georges', 'charles', 'paul', 'jacques']	Julien	— Je rends grâce à Dieu, continua [MASK], d’avoir permis que mes paroles portassent la conviction dans vos esprits, je lui rends grâce avec effusion et pour vous et pour moi. La séance est levée, et vous devez en être satisfaits ;
+
+['m', 'l', "l'", '"', '</s>']	Rudiger	si c’ est un supérieur, le supérieur est gratifié d’ une verte mercuriale ; et à cela il n’ y a rien à reprendre ; on est habitué aux allures de [MASK]. Sauf ce petit inconvénient, c’ est le meilleur enfant du monde.
+
+['harry', 'robert', 'blaise', 'tom', 'john']	Joseph	— Mais au moins vous vous rafraîchirez, fit [MASK] ; vous paraissez fatigué. — Pas le moins du monde. J’ai laissé ma voiture au dernier relais, et je suis venu tout doucement à pied jusqu’ici. En ce moment, je n’ai besoin de rien.
+
+[',', 'il', 'ne', 'roi', 'lui-même']	Julien	[MASK] s’en aperçoit à temps, et ordonne à ses gens de ne pas aller plus loin. On regagne la plaine en bon ordre ; nos braves fantassins n’ont pas de difficultés à retrouver leur route, le chemin est jalonné de cadavres de Peaux-d’olive.
+
+[',', ';', '-', 'lui-même', 'en']	Julien	— C’était un fou bien habile, se dit à part lui [MASK], que cet obscur soldat, assez maître de lui-même pour combiner un plan hérissé dé difficultés, et le mettre à exécution avec une rare intelligence.
+
+[',', ':', 'que', 'et', '(']	Julien	Voilà. — Je crois qu’il se moque encore plus fort, s’écria le tambour, rouge de colère. Ça ne se passera pas ainsi. — Une dispute dans le corps de garde ! Vous n’y pensez pas, s’empressa de dire [MASK].
+
+['marbre', 'roi', 'pierre', 'dieu', 'londres']	Joseph	Pourquoi aussi étiez-vous toujours le premier en avant ? C’était tenter la Providence ! Et dire que tout cela, vous, l’avez accompli à cause de nous ; que ces fatigues inouïes, vous les avez supportées à la place de [MASK] ;
+
+['</s>', 'il', 'elle', '_', '"']	Julien	Ceux-là étaient les raffinés de la compagnie. Il fallait voir comme leurs camarades moins bien avisés leur faisaient la cour pour avoir part au rôt appétissant dont le fumet caressait délicieusement l’odorat. [MASK] comptait parmi les Chevets avec Goliath et le tambour.
+
+['il', ',', 'celui-ci', 'johnson', 'joe']	Goliath	Vous êtes incorrigible. — Pas moyen de le nier, sergent, dit [MASK] tout contrit. C’est vraiment honteux pour moi ; aussi, avec votre permission, et afin de punir ma langue de son dévergondage, je vais la rogner d’un centimètre.
+
+[',', 'il', 'on', ';', 'et']	Julien	[MASK] se montra touché des témoignages de sympathie de ses nouveaux camarades, mais refusa de prendre part au banquet préparé �� la cantine, alléguant les fatigues de la traversée. On insista ; ce fut inutile ; il maintint son refus avec politesse, mais avec fermeté.
+
+['tous', 'enfants', 'filles', 'garçons', 'hommes']	Julien	d’autres fois il tomba dans des maisons fort peu écossaises. Mais il se consola aisément de ces petits mécomptes et subit avec résignation ces manques d’égards qui auraient pu se renouveler à chaque étape. Ce fut une école pour [MASK].
+
+['il', 'on', 'elle', 'chacun', 'marie']	Julien	Il se faisait tard, et notre héros avait grand besoin de repos. Mais il était dit que ce jour-là [MASK] assisterait aux scènes les plus émouvantes. Il y avait grande réunion chez le cheik ; les Guled-Naïls parlaient bruyamment, tous à la fois.
+

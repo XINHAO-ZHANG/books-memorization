@@ -1,0 +1,200 @@
+['il', ',', 'qui', 'a', 'et']	Ploërnec	[MASK] prit l’acte de vente sans répondre un mot, sans dire une bonne parole à celui qu’il avait dépouillé, et le lendemain il prit possession de nos domaines. La révolution arriva ; mon aïeul et ses quatre fils combattirent pour le roi ;
+
+[',', 'jeanne', 'maurice', 'celui-ci', 'jacques']	Pauline	Si l’ermite m’a dit quelque chose, s’il m’a permis de parler, je parlerai. Car au jour d’aujourd’hui, voyez-vous, je ne sais rien... — Rien ? dit [MASK] d’une voix oppressée. — Absolument rien.
+
+['il', 'elle', 'on', 'celui-ci', 'chacun']	Pauline	— Et je l’aimais ! Ce mot fut comme le trait d’union qui fait deux âmes sœurs. La grande dame prit la main de la fille de théâtre et la serra. — Pauvre petite ! dit-elle. Mais [MASK] redressa la tête.
+
+['</s>', '"', ',', '.', 'de']	Villenave	Il venait d’éprouver une violente émotion. — Qu’est-ce donc ? demanda le marquis. [MASK] lui tendit la lettre. Le marquis la lut d’un bout à l’autre. Puis il dit froidement : — Voilà qui ne peut être... — Ah ! fit
+
+['était-ce', ',', "l'", 'était', "qu'"]	Pauline	il avait noué des relations éphémères. Peut-être [MASK] était-elle une de celles qu’il avait aimées peut-être rapportait-elle à la fiancée devenue veuve quelque souvenir du fiancé mort. Une âme vulgaire eût éprouvé un sentiment de jalousie ;
+
+['il', 'on', 'elle', 'qui', 'et']	Jean	Vers la fin du repas, [MASK] me dit : — Je vais faire seller votre cheval, et je vous accompagnerai jusqu’à un quart de lieue de Ploërnec. Il fera clair de lune, et quoique les chemins soient mauvais, vous y serez dans deux petites heures.
+
+['chacun', 'celui-ci', 'qui', '</s>', 'et']	Fanfreluche	L’air humide et froid qui y régnait était salutaire au blessé et devait le préserver de la gangrène. [MASK], chaque fois qu’il sortait, replaçait le bloc de roche qu’il avait détaché. Les gendarmes étaient venus dans sa grotte, mais ils n’avaient rien trouvé.
+
+['la', 'maître', 'chambre', 'pierre', 'bois']	Pauline	L’aubergiste s’arrêta devant une échelle qui se trouvait placée juste en face des fenêtres de [MASK]. Cette échelle, à degrés plats, de celles qu’on appelle échelles de meunier, conduisait au grenier à foin qui se trouvait au-dessus des écuries. Là l’aubergiste s’effaça :
+
+['etc', 'monsieur', 'etc.', 'non', 'moi']	Yvonnette	D’ailleurs, il le faut ! — Vous oublier, [MASK] ! Le puis-je ? m’écriai-je hors de moi et le cœur palpitant. — Il le faut ! murmura-t-elle tristement. Je ne suis point libre...
+
+['le', "l'", 'un', 'ce', 'cet']	Munito	— Non. — Pourtant, il a été tué ? — C’est ce que semblent indiquer d’abord la mare de sang trouvée sur la route, ensuite les précautions prises par [MASK], qui s’est longtemps dérobé aux recherches les plus actives.
+
+['.', 'le', 't-il', 'la', '"']	Jaquet	— C’est bien drôle qu’un homme assassiné ne se retrouve pas, poursuivit [MASK]. — La forêt est grande, dit la vieille femme. — Je ne dis pas non, mais on l’a pourtant cherché joliment.
+
+['</s>', 'elle', 'il', '"', '...']	Jean	Et, lui prenant la main : — Il est temps, ajoutai-je, que je te dise la vérité. Je dis adieu au monde, j’entre en religion, et tu ferais de vains efforts pour ébranler ma religion. [MASK] poussa un cri sourd.
+
+['</s>', 'elle', 'il', 'on', "j'"]	Jean	Je suis descendue dans une auberge et me suis enfermée dans une chambre, sans vouloir me montrer à personne. [MASK] avait reçu l’ordre de laisser mes chevaux et mon cocher, et de prendre des chevaux et un postillon à l’auberge.
+
+['il', 'le', '-il', 't-il', 'elle']	Villenave	vous auriez écrit ceci : « Nous nous marions dans trois semaines, tel jour, à midi, » que ce ne « serait pas plus clair. Allons ! je vois que le curé de Coulanges parlera de vous dimanche après son prône. — Je l’espère bien, dit [MASK].
+
+['il', 'elle', 'y', 'qui', 'goethe']	Jaquet	. Il y a toujours du monde, même la nuit. Passer devant le Rendez-vous des hussards sans s’arrêter serait une hérésie. Quand il aperçut ce cabaret dans le lointain, [MASK] prit un ton lamentable et dit :
+
+['</s>', 'il', 'on', 'elle', 'celui-ci']	Laurent	Mais tandis qu’il la serrait avec reconnaissance, la cloche placée à la porte d’entrée du pavillon tinta doucement. On eût dit que la main du visiteur matinal tremblait d’émotion en l’agitant. [MASK] se leva étonné. Il était six heures à peine ;
+
+['</s>', 'il', 'elle', '--il', 'chacun']	Pauline	« Qui que vous soyez, madame, disait la baronne, venez. Le nom que vous invoquez vous ouvre ma porte et mon cœur. » [MASK] s’habilla à la hâte et descendit. En traversant la cour ses souvenirs confus lui revinrent. Elle se rappela la mendiante.
+
+['il', 'et', 'elle', ',', 'qui']	Pauline	[MASK] s’écria : — Je l’aime et je le pleure comme une sœur. Ali ! si c’est de lui que vous parlez, dites-le-moi. Et elle joignait les mains, et des larmes brûlantes inondaient de nouveau son joli visage.
+
+['elle', 'il', 'en', ',', 'qui']	Pauline	Mais [MASK] lui secoua la main avec une énergie fiévreuse : — Si vous savez quelque chose, dit-elle, par pitié, dites-le-moi. — Je ne sais rien. — Oh ! je lis dans vos yeux que vous me trompez !
+
+['</s>', 'la', 'elle', 'sa', 'et']	Yvonnette	Le haut bout, selon le vieil usage féodal, était réservé aux maîtres. Le repas fut silencieux. [MASK] seule adressa quelques mots indispensables à une fille de ferme qui l’aidait dans le service, et toujours en bas-breton, ce qui me donna lieu de penser qu’elle ne savait point le français.
+
+['il', "l'", 'on', 'elle', 'celui-ci']	Ploërnec	C’était loyal, ce qu’il proposait, et s’il eût eu du cœur et de l’honneur, [MASK] eût accepté ; mais il refusa durement. — Non, dit-il, j’ai assez joué, et la veine pourrait tourner.
+
+[',', '"', ')', 'il', 'ce']	Laurent	[MASK] n’était cependant ni un misanthrope ni un homme poursuivi par quelque souvenir poignant. Les faces saillantes de son caractère étaient des prédispositions bien plutôt que des conséquences. La dernière fois que je le vis, il était même d’une charmante humeur ;
+
+['</s>', '-', '"', 'elle', '...']	Jean	— Viens avec moi, nous allons nous occuper de l’hospice. [MASK] l’avait accompagnée. La baronne, après avoir visité les terrains, était allée sur le port frapper à la porte d’un vieux bonhomme, ancien vigneron, à qui ils appartenaient.
+
+['il', 'elle', 'on', 'je', 'maman']	Ploërnec	— Attendez donc, madame, poursuivit-il impudemment. Un jour, [MASK] me dit : Voila une petite fille qui me plaît. — Fi donc ! lui dis-je, à la veille d’épouser ta cousine, la riche Jiéritière des Plougsoulm ? — Pourquoi pas ?
+
+['elle', 'et', 'jeanne', 'madeleine', 'qui']	Dolorès	— Qu’avez-vous, bonne femme ? lui dit-elle. [MASK], car c’était bien elle, leva la tête. La bohémienne avait su se vieillir et dissimuler en partie sous ses cheveux en broussaille et une couche de crasse sa merveilleuse beauté.
+
+['edward', 'adam', 'isaac', 'henri', 'alice']	Yvonnette	Je ne sais quel terrible mystère, quel lien ténébreux unit l’un à l’autre ces deux hommes, vous seul pouvez peut-être le deviner et empêcher d’affreux malheurs. J’avais pris les deux mains d’[MASK] dans les miennes, je les couvris de baisers.
+
+['il', ',', 'homme', 'qui', "c'"]	Michel	[MASK] était mort ! C’est-à-dire que le seul homme qu’il eût encore a redouter et dont le témoignage pouvait faire crouler le lent et laborieux édifice qu’il avait construit, était désormais réduit à l’éternel silence de la tombe. Ensuite l’écrin était brûlé ;
+
+['moi', 'ceci', 'dieu', 'moi-même', 'jésus']	Laurent	En voici un plus invraisemblable que ceux qu’ils enfantent, — et cependant il est vrai, je l’ai vu, j’ai été acteur, et vous devez comprendre à la pâleur de mon visage que je ne vous fais point un conte. Voici l’histoire de [MASK] :
+
+['la', 'tout', 'moi', "l'", 'peine']	Yvonnette	j’avais besoin d’air. Combien de temps y passai-je, la tête en feu, rêvant à [MASK], sans prendre garde à la bise glacée de la nuit, à l’heure qui coulait, à la lune qui disparut à l’horizon derrière les grands bois ?
+
+['amour', 'ami', 'mère', 'père', 'femme']	Yvonnette	ne me parlez point d’amour... — Oh ! lui dis-je, me méprenant à son émotion, c’est que vous n’avez jamais aimé, [MASK], c’est que jamais vous n’avez posé votre main sur un noble cœur, qui bat d’enthousiasme près de vous...
+
+['celui', 'à', 'ce', 'qui', 'celle']	Villenave	Et, dans son cœur., qu’elle croyait mort, tremblota une lueur indécise qui était peut-être bien un rayon d’espérance. — Mais enfin, dit-elle, on a fini par arrêter ce bohémien ? — Pas le moins du monde. C’est [MASK] qui l’a tué.
+
+['loi', 'm.', 'comte', 'mariage', 'résolution']	Jaquet	Elle saisit donc avec une sorte d’empressement la proposition de [MASK]. Celui-ci détela son cheval, traîna le char-à bancs sur un des bas-côtés de la route, et, laissant les deux femmes en cet endroit solitaire, il partit au galop pour aller chercher la tapissière du cabaretier.
+
+["l'", 'suz', 'oth', 'phil', 'eucli']	Jaquet	La voiture roulait maintenant en pleine forêt, dans un endroit désert et sauvage. Tout à coup le cheval s’arrêta. On eût dit que le poids qu’il traînait était au-dessus de ses forces. — Hue ! dit [MASK] on lui allongeant un vigoureux coup de fouet.
+
+['chacun', 'le', 'lui', 'tous', 'chaque']	Jean	Pendant ces trois jours, le château n’avait pas désempli de visiteurs. Tous les pauvres étaient venus, et [MASK], un sac de gros sous et de pièces blanches à la main, donnait sans cesse et toujours en pleurant de joie.
+
+['non', 'madame', 'monsieur', 'seigneur', 'oui']	Yvonnette	Que m’importe que l’aile du temps vous effleure quelques jours plus tôt et que l’automne de votre jeunesse soit le printemps de notre amour ? Ce n’est point seulement votre beauté que j’aime, [MASK], c’est votre cœur si pur et si grand...
+
+['elle', ',', 'et', 'qui', 'ne']	Pauline	Cependant [MASK] dormait encore. On frappa deux fois à sa porte sans qu’elle répondît. Ce ne fut qu’au troisième coup qu’elle s’éveilla, et, tout ensommeillée encore, alla ouvrir. L’une des servantes de l’auberge lui apportait une lettre.
+
+["j'", 'tu', 'je', 'quiconque', 'cela']	Rose	Et puis, fit-elle, il ne faut pas que [MASK] entre dans la vie ayant au front une de ces taches que le monde ne pardonne pas, le déshonneur de sa mère ! Était-ce bien une paysanne qui me parlait ainsi du monde et de ses exigences ?
+
+['madeleine', 'autrefois', 'jadis', 'diane', 'marguerite']	Yvonnette	Il m’est impossible de vous dire ce que j’éprouvai de sourds déchirements en quittant cette chambre que j’avais occupée au château, et à la fenêtre de laquelle m’était apparue [MASK], ce parc où je l’avais revue, ce lac au bord duquel elle avait erré tant de fois.
+
+['</s>', '"', '-', '--oui', 'allons']	Yvonnette	— Tu me fais mal, dit-il ; ne parle point ainsi, petite sœur. — Allons, enfants, dit soudain le vieillard, voici l’heure du souper. [MASK], dresse la table et appelle les bouviers.
+
+['change', 'bois', 'cheval', 'secours', 'bord']	Pauline	Et puis il faut que je m’occupe du char-à-bancs que j’ai laissé sur la route. Il déchargea donc la caisse de [MASK], fit mettre son cheval à l’écurie et s’en alla chez le forgeron de la grand rue, lequel savait graisser les patentes.
+
+['que', 'moi-même', 'cela', 'qui', 'ceci']	Yvonnette	Je poussai un de ces cris étouffés qu’un acteur seul pourrait reproduire avec vérité. A la lueur mourante de ma bougie aux trois quarts consumée et dont les derniers reflets allaient éclairer les massifs du parc le plus près de ma fenêtre, je venais de reconnaître [MASK].
+
+['elle', 'il', 'on', 'isabelle', 'ils']	Yvonnette	Aussi ma sœur et mon mari causaient-ils rarement ensemble. J’avais même remarqué qu’[MASK] avait pour lui une répulsion-secrète. Cette répulsion était-elle l’effet d’un de ces pressentiments inexplicables qui nous assaillent à certaines heures de la vie ?
+
+[',', '</s>', 'se', 'il', 'et']	Pauline	[MASK] dit enfin : — Il me semble qu’il tarde bien à revenir cet homme. — Dame ! répondit la vieille, il aura bu un troisième coup ; il aime bien ça, le pauvre garçon ! — Mais la nuit approche...
+
+['</s>', 'il', '-', "c'", 'celui-là']	Michel	— C’est égal, on ne dira pas que je laisse des orphelins. [MASK] était mort le premier. Jusqu’à la dernière minute, il tint collé sur ses lèvres le crucifix que lui présentait l’aumônier chargé de le conduire au supplice.
+
+[',', 'celui', 'et', 'celle', 'homme']	Jean	fit [MASK] dont le visage se rasséréna un peu. — Je me nomme Laurent de L..., répondis-je, je suis le petit-fils du marquis rouge. Ces deux noms produisirent un effet magique sur les trois visages que le nom de Ploërnec avait assombris.
+
+['</s>', '-', 'il', '--', '--']	Pauline	— Pour qui donc ? — Pour cette pauvre madame du château. Elle n’est pas morte de douleur, mais l’émotion pourrait bien la tuer. [MASK] eut un sourire mélancolique : — Je la préparerai doucement à cette nouvelle, dit-elle.
+
+['</s>', '.', 'il', ':', '?']	Jean	[MASK] tenait les deux lettres dans sa main. Cependant, au lieu de sortir, il demeurait la, planté sur ses deux pieds, regardant sa jeune maîtresse avec une douloureuse stupéfaction. — Eh bien ! va, dit-elle.
+
+[',', '...', 'elle', 'et', 'qui']	Jean	s’il le faisait, ce serait avec des armes, ajouta-t-il avec une expression farouche. — Je croyais, interrompis-je étonné, que votre sœur... [MASK] jeta sur moi un sombra regard qui me troubla.
+
+['elle', 'paul', 'jacques', 'marguerite', 'jeanne']	Pauline	Ça la soulage bien, allez ! — Eh bien, dit [MASK] en souriant, si vous voulez la prendre à côté de vous, je ne m’y oppose pas. Au contraire, je serai heureuse de lui rendre ce petit service.
+
+["c'", 'vénus', 'celle-ci', 'marie', 'chacune']	Florina	elle avait, en dehors de son métier, chevaux et voitures, un riche appartement, et pour ami une manière de gros banquier hollandais qui se ruinait pour elle, sous le prétexte qu’il aimait les belles femmes, et que [MASK] était une majestueuse créature.
+
+['"', 'de', 'et', ')', 'également']	Pauline	» Je l’ai suivi, et il m’a conduit dans cet appartement, qui est celui de son maître, lequel est encore en voyage, et qui communique avec l’appartement de la bohémienne Dolorès. — Ah ! fit [MASK].
+
+['jean', 'henri', 'jacques', 'pierre', 'robert']	Jaquet	— Si fait, madame, répondit [MASK], qui ressortit précipitamment. Le père Bourguignon le suivit, à seule fin de voir la dame, pensait-il. Et sans doute qu’il la trouva jolie, car il eut un clignement d’yeux, et fit claquer sa langue comme un véritable amateur.
+
+['octave', 'achille', 'œil', 'autrui', 'homme']	Yvon	— Je ne veux pas ! je ne veux pas ! je veux qu’elle soit heureuse ! — Mais tu ne le connais pas, toi, celui qui... La pâleur d’[MASK] augmentait en parlant ainsi. — Peut-être l’aimera-t-elle.
+
+['</s>', 'il', 'elle', 'et', 'se']	Yvon	elle ne viendra plus... J’entendis un sanglot derrière moi, et me retournant, j’aperçus la fermière, qui s’appuyait, défaillante, à un bahut. [MASK] courut à elle : — Petite sœur, dit-il, elle ne partira pas, je te le promets...
+
+['marguerite', 'jean', 'albert', 'henri', 'bussy']	Pauline	— Mais cet homme a ma parole. — Je le sais, dit [MASK]. — Il faut que je l’épouse, ou que j’aille ni ensevelir dans un cloître ! Et la pauvre femme frissonnait au souvenir de la nuit terrible qu’elle avait passée au couvent.
+
+['madame', 'tous', 'paris', 'versailles', 'sophie']	Pauline	L’ameublement était en noyer, les rideaux des croisées en calicot blanc, le lit était garni de ces gros draps de toile bien blancs qui sentent si délicieusement la buée. Cette chambre fit à [MASK] l’effet d’un palais.
+
+[':', 'le', 'm', 'jean', 'm.']	Pauline	— Que-faites-vous, madame ? exclama la baronne stupéfaite. — Je vous sauve la vie ! répondit [MASK]. Cette femme est une empoisonneuse. Et au même instant aussi, un nouveau personnage tomba comme la foudre au milieu de ces trois femmes.
+
+['elle', 'il', 'celle-ci', 'marie', 'lui']	Pauline	il est tout en eau. Faudrait pourtant le laisser souffler. Et comme [MASK] ne répondait pas, il s’adressa à elle directement : — Excusez-moi, madame, dit-il ; mais mon cheval aurait bien besoin de souffler un peu.
+
+['il', 'elle', 'on', 'dieu', 'qui']	Yvonnette	[MASK] le voulait ! Oh ! si vous saviez combien, en quelques heures, le terrible amour que j’éprouvais pour cette femme avait grandi ! Si vous saviez comme je frissonnai en songeant qu’une journée tout entière allait s’écouler avant qu’il me fût donné de la revoir !
+
+['-', '"', 'et', 'mais', '(']	Yvonnette	— Mais vous êtes la plus noble et la plus sainte des femmes, [MASK]. Que m’importe que l’aile du temps vous effleure quelques jours plus tôt et que l’automne de votre jeunesse soit le printemps de notre amour ?
+
+['henriette', 'jacques', 'madeleine', 'jeanne', 'alice']	Yvon	— Mais si... au printemps... — Tu ne nous verras plus, continua [MASK]. — Ne plus vous voir ! Et pourquoi ? — Parce que ton mari... — Oh ! mon mari fera tout ce que je voudrai.
+
+['dieu', 'lui', 'maman', 'madame', 'pierre']	Yvonnette	Allez vous reposer tranquille. Je me fis apporter des plumes et du papier, je voulais écrire à [MASK] et lui dire un éternel adieu. On me roula une table auprès du lit, je plaçai dessus la potion et m’installai au chevet au blessé.
+
+['père', 'il', 'qui', 'frère', 'dieu']	Manuel	[MASK] est mort, je dois mourir aussi ; c’est-à-dire qu’il n’y a plus pour moi de refuge que dans la vie monastique et l’amour de Dieu. Et puis, mon amie, je me suis moi-même fermé toute retraite.
+
+['il', "c'", 'elle', 'qui', 'et']	Jaquet	Le forgeron consentit à prendre ses outils, à mettre son cheval à la tapissière qu’on ramènerait ainsi à la guinguette du Rendez-vous des hussards , après que le char-à-bancs aurait été mis en état de rouler. Deux heures plus tard, [MASK] était de retour
+
+['</s>', 'elle', 'il', '-', 'qui']	Pauline	— Ça n’est pas encore fait, dit-elle. Faudra voir... Et, comme elle disait cela, elle se retourna et fit soudain un haut-le-corps. [MASK] n’avait pu maîtriser son émotion durant cette conversation qui lui brisait l’âme, et deux grosses larmes roulaient sur ses joues.
+
+['en', "l'", 'elle', ',', 'la']	Jenny	Elle s’enferma dans son cabinet de toilette et y changea de vêtements. [MASK], étonnée, la vit ressortir, un quart d’heure après, en habits de voyage. — Comment, madame, dit-elle, ce n’est donc plus demain que vous partez ?
+
+['</s>', 'qui', 'lui-même', 'celui-ci', 'lui']	Fanfreluche	Il avait le délire. [MASK], nous l’avons dit, était un peu chirurgien ; quand le jour vint, quand il put examiner la blessure, il reconnut qu’elle n’était pas mortelle ; et il opéra même l’extraction de la balle.
+
+['celui-ci', 'julien', 'elle', 'jacques', 'marguerite']	Villenave	— Mont Dieu ! dit-il, pourquoi ne permettez-vous pas que les morts reviennent ? — Et s’ils revenaient, que feraient-ils ? demanda la baronne avec calme. — Ce qu’ils feraient ? reprit [MASK] en élevant la voix.
+
+['</s>', '-', 'elle', '"', 'il']	Florina	Au bout de ce temps elle revint complètement à elle. [MASK] était toujours là. — Ma bonne petite, dit l’écuyère, je crois maintenant que tu es hors de danger et que je puis m’en aller.
+
+['jésus', 'faust', 'jeanne', 'dante', 'jérémie']	Jean	Eh bien ! vous l’avouerai-je, mon amie ? Je passai une nuit horrible, Les paroles de [MASK] me revenaient en mémoire, et une épouvante indicible s’était emparée de mon âme. Ce sang bohémien que j’ai dans les veines bouillonnait avec violence ;
+
+["qu'", 'entre', ',', 'que', 'en']	Laurent	à peine le premier rayon du soleil glissait-il sur la cime dépouillée des arbres du jardin, miroitant aux vitres sur lesquelles le givre de la nuit avait dessiné ses capricieuses arabesques. — Que peut-on me vouloir ? murmura [MASK] inquiet et s’apprêtant à défendre sa porte
+
+['bientôt', 'aussitôt', 'alors', 'place', 'ensuite']	Pauline	Elle regarda l’horloge à caisse de noyer qui se trouvait dans la cuisine de l’auberge. Cette horloge marquait onze heures. Il y en avait au moins six que la mendiante était partie. L’inquiétude reprit [MASK].
+
+['il', 'on', 'elle', 'maurice', 'chacun']	Yvonnette	Un seul homme le manœuvre aisément a l’aide d’un aviron placé à la poupe, mais il faut bien connaître l’étang parsemé de tourbillons et d’herbes flottantes. Souvent [MASK] revenait à la ferme vers le soir, et quelquefois à des heures avancées de la nuit.
+
+['lui', 'moi', 'un', 'le', 'henri']	Ploërnec	Je ne revins que huit ans après. A mon arrivée je me présentai chez [MASK], dispose à lui rendre le service d’ami qu’il m’avait demandé ; et vous savez, — je ne sais comment, par exemple, — vous savez si je lui tins parole.
+
+[',', '(', ':', '...', 'ce']	Yvonnette	Adieu, revenez nous voir ! Je lui serrai silencieusement la main et je poussai mon cheval. J’étais ému, mon cœur bondissait, j’eus presque le vertige, et je me dis : — Si j’épousais [MASK] ? Elle est pauvre, je le suis aussi ;
+
+['"', ':', '!', ';', '_']	Manuel	L’époque que vous fixerez pour notre union est acceptée d’avance. Il voulut répondre. Elle l’arrêta d’un geste : — Allez, dit-elle ensuite ; laissez-moi encore aujourd’hui pleurer [MASK]. C’est la dernière fois que je prononcerai son nom devant vous.
+
+['</s>', 'elle', 'et', 'il', 'qui']	Pauline	— Oui, madame, dit-elle, je l’aimais, mais il ne l’a jamais su... je l’aimais, et quand un misérable a voulu me condamner à un rôle infâme vis-à-vis de vous et de lui, je me suis révoltée. La baronne ne comprenait pas ces dernières paroles. [MASK] reprit :
+
+['elle', 'et', "l'", 'il', 'qui']	Pauline	mais c’est que... voyez-vous... — Eh bien, quoi ? — Ça m’intrigue, et je ne suis pas le seul... — Un jour viendra qu’on saura tout, dit-elle sentencieusement. Et elle retomba dans son mutisme. [MASK] écoutait toujours.
+
+['madeleine', 'jean', 'marguerite', 'jacques', 'henri']	Pauline	— Mon Dieu I dit-il, que venez-vous m’apprendre ? — Rien de mauvais, dit [MASK]. Elle s’assit auprès de lui, sur le sable humide de la grotte, et lui prit la main.
+
+['mais', 'non', 'oui', 'allons', '--oui']	Jenny	Son parti fut bientôt pris. — [MASK], dit-elle, tu vas faire à la hâte quelques préparatifs ; nous partons demain matin. — Mais, madame, dit la soubrette, vous êtes bien faible encore... — Qu’importe ! — Si vous alliez retomber malade...
+
+['elle', 'il', '</s>', 'on', 'et']	Pauline	Elle se mit au lit. Pendant quelques instants elle lutta contre le sommeil, dominée qu’elle était par l’inquiétude. Mais le sommeil l’emporta. [MASK] s’endormit. Depuis longtemps le soleil montait à l’horizon, et la chaleur commençait à se faire sentir.
+
+["l'", '</s>', 'la', 'son', 'terre']	Dolorès	Mais celui qu’il avait reçu avait été bien dirigé, car au moment où les gens du château s’apprêtaient à s’emparer de lui, il s’affaissa lourdement sur le corps de [MASK] expirante, vomit une gorgée de sang, vociféra un dernier blasphème et rendit le dernier soupir.
+
+['elle', '</s>', 'qui', 'il', 'je']	Marie	— Mon cher ami, dit-il au baron en plaçant un rouleau d’or sur la table, tu as gagné ton pari, voici tes mille louis ; j’espère que tu me la céderas après toi. [MASK] pleurait ;
+
+['non', 'oui', 'dis-je', 'cela', 'moi']	Villenave	— Comment cela ? — Je ne sais pas... Mais puisque vous l’aimez... — Oh ! fit [MASK], certainement. — Quand un homme aime une femme et qu’il n’a plus d’autre rival qu’un mort, la partie est a moitié gagnée pour lui.
+
+['personne', 'catherine', 'celle-ci', 'madeleine', 'isabelle']	Dolorès	Il y avait bien trois ou quatre ans que le vieux forçat n’avait vu [MASK] ; mais il la reconnut sur-le-champ. Pourquoi et comment était-elle au château ? Il le comprit tout de suite, car il savait l’ardente affection qui avait toujours uni le frère et la sœur.
+
+['celui-ci', 'celle-ci', 'jeanne', 'jenny', 'thérèse']	Yvonnette	un domestique s était assis au chevet du malade ; je ne pus voir s’éloigner [MASK] sans un atroce serrement de cœur, et me levant comme un fou, je courus après elle. — Où allez-vous, monsieur ? me demanda-t-elle avec effroi.
+
+['14', '13', '10', '16', '18']	Marie	ce fut [MASK]. On la plaça dans le meilleur couvent, et mon père voulut qu’on lui apprît tout ce qu’il convient qu’une femme de qualité sache lorsqu’elle doit tenir un rang dans le monde. Les deux sœurs s’aimaient comme s’aiment les jumeaux.
+
+['lui', 'me', 'leur', 'nous', 'se']	Simon	Il les supplia de n’en rien faire. — Je me suis repenti, dit-il. Si j’allais au bagne, peut-être redeviendrais-je méchant ! Tous quatre montèrent sur l’échafaud le même jour. Jean et [MASK] donnèrent quelques marques d’effroi.
+
+['elle', 'mère', ',', 'marie', 'père']	Marie	[MASK] était au couvent depuis cinq années, quand une nouvelle fatale nous parvint : un gentil homme l’avait séduite et enlevée, après avoir corrompu le jardinier du couvent. Mon père en ressentit un si terrible coup que ses cheveux encore noirs blanchirent en une nuit et qu’il devint aveugle.
+
+['famille', 'travail', 'la', 'parents', 'confiance']	Corinne	— C’est ce que j’ignore. — Êtes-vous resté longtemps, là-bas ? — Deux jours. — Avez-vous rencontré un autre ami de [MASK], Villenave ? — Parbleu ! — Ah ! vous l’avez vu... Il va se marier, dit-on ?
+
+['de', ')', '"', 'à', ',']	Bonnard	[MASK], l’excellent homme qui tient le sceptre directorial de l’hôtel du Léopard , dit à la jeune femme : — Madame, quiconque se présente ici en prononçant le nom de Planche-Mibray a droit à tous nos égards. Vous paraissez pressée d’arriver, je vais
+
+['lui', 'moi', 'nous', 'elle', 'eux']	Pauline	un moment même, ses lèvres s’entr’ouvrirent comme pour laisser passer un secret, mais elle prit une détermination soudaine : — Non, dit-elle, j’ai fait un serment. A qui ? — A l’ermite. Cette réponse fut pour [MASK] toute une révélation.
+
+['une', 'ici', 'à', 'un', 'elle']	Yvonnette	— Oh ! restez... murmura-t-il d’une voix affaibli par le délire, restez... Si vous saviez combien...je vous aime... — Vous savez bien que c’est impossible... lui dit-elle avec un Sourire de pardon, je ne suis qu’[MASK] la fermière.
+
+['</s>', 'elle', '"', "--j'", '-']	Pauline	je ne sais pas, dit l’aubergiste, mais elle serait allée demander l’aumône au château que ça ne m’étonnerait pas. [MASK] eut un battement de cœur. Elle regarda l’horloge à caisse de noyer qui se trouvait dans la cuisine de l’auberge.
+
+['</s>', 'il', 'elle', 'on', 'et']	Pauline	Cette femme en haillons était jeune encore, elle était belle et avait le type bohème. [MASK] ne l’entrevit qu’une minute, car le cabriolet allait bon train ; mais un frisson lui parcourut tout le corps. Il lui semblait que cette femme ressemblait à la bohémienne Dolorès...
+
+['madame', 'elle', 'marie', 'eugénie', 't-elle']	Pauline	— Madame est bien bonne, dit-elle ; cependant, je ne sais pas... — Si vous devez accepter, dit [MASK] en souriant. Oui, ma brave femme, c’est de bien bon Cœur que je vous rends ce petit service.
+
+['madame', 'marie', 'geneviève', 'marguerite', 'celle-ci']	Pauline	— Excusez-moi, madame, dit-il ; mais mon cheval aurait bien besoin de souffler un peu. — Eh bien ! dit [MASK], que ces paroles arrachaient à quelque rêve dans lequel elle s’était absorbée, laissez-le se reposer, mon ami.
+
+['"', '.', ':', 'le', ',']	Pauline	Là-haut. Et il étendait la main vers le bouchon, objet de sa convoitise. — Comme vous voudrez dit [MASK]. Et elle retomba dans sa rêverie. Un quart d’heure après, on arriva devant le Rendez-vous des hussards.
+
+[',', 'la', 'et', 'de', 'le']	Yvon	[MASK] recula stupéfait : — Êtes-vous fou ? me dit-il. — Pas le moins du monde. — Il ne l’épousera pas ! mais les bans sont publiés déjà, le contrat sera signé demain... dans quinze jours... qui pourrait empêcher ?
+
+['</s>', 'il', 'et', 'elle', 'puis']	Pauline	— Marche donc, vieille sorcière ! dit le brigadier, qui lui appliqua sur les épaules un coup de sa bride terminée en cravache. Et le convoi de prisonniers continua son chemin, tandis que le char-à-bancs se remettait en route en sens inverse. [MASK] était fort pâle.
+

@@ -1,0 +1,200 @@
+['Jean', 'Paul', 'Maman', 'Jeanne', 'Pierre']	Laurent	Toute une passion croissante emportait son calme ordinaire.– Ne vous pressez pas, ça ne sert absolument à rien, disait [MASK]. Tenez, visez-le avec soin, celui qui n’a plus de casque, au coin de l’épicier…
+
+['Il', 'Lui', 'Jean', 'Le', 'Louis']	Delaherche	[MASK], glacé, aurait voulu fuir. Mais il n’en eut pas le temps, le bras était déjà sur la table. Le soldat amputé, une recrue, un paysan solide, qui sortait de sa torpeur, aperçut ce bras qu’un infirmier emportait, derrière les cytises.
+
+['elle', 'il', 'Elle', 'Emma', 'Isabelle']	Henriette	Je suis ruiné, je suis ruiné !La meurtrissure qu’[MASK] avait au front, le frappa, et il se souvint qu’il n’avait pu encore causer avec elle.– C’est vrai, vous y êtes allée, vous avez attrapé ça…
+
+['il', 'elle', 'cela', 'on', 'ça']	Adolphe	Et, comme [MASK] arrivait, au moment où la ligne des attelages se présentait de flanc, une bordée furieuse s’abattit : il culbuta, la poitrine fendue, les bras ouverts. Dans une dernière convulsion, il avait pris l’autre, ils restèrent embrassés, farouchement tordus, mariés jusque dans la mort.
+
+['tiens', 'vous', 'tenez', 'voilà', 'là']	Laurent	Vivement, il descendit leur ouvrir, et la maison dès lors eut une garnison, un capitaine, un caporal, huit hommes, tous hors d’eux, enragés, résolus à ne pas se rendre.– Tiens ! [MASK], vous en êtes !
+
+['Marie', 'Jeanne', 'Catherine', 'Julie', 'Marguerite']	Silvine	Le père Fouchard, sournoisement, avait-il poussé à cette aventure ? [MASK] s’était-elle donnée dans une minute d’inconscience ou avait-elle été à demi violentée, malade de chagrin, affaiblie encore par les larmes de la séparation ?
+
+['il', 'elle', 'Louise', 'Louis', 'Frédéric']	Maurice	– Monsieur, vous ne pouvez pas être avec les lâches… Allez, nous ne sommes pas encore battus, c’est nous qui finirons bien par les rosser un jour, les Prussiens !À cette minute, [MASK] sentit un chaud rayon de soleil lui couler jusqu’au cœur.
+
+['César', 'Maman', 'Napoléon', 'Jeanne', 'Leclerc']	Maurice	Qui est-ce qui m’a fichu des gaillards qui se font tuer, quand ils n’en ont pas l’ordre !– Mon lieutenant, dit [MASK], vous n’êtes pas couché, vous !– Ah ! moi, c’est différent, il faut que je sache.
+
+['Joseph', 'Louis', 'Charles', 'Georges', 'Pierre']	Charlot	Puis, tout d’un coup, elle s’aperçut que [MASK] était là, pendu à ses jupes. Sans doute, il s’était réveillé, il avait pu ouvrir les portes ; et personne ne l’avait vu entrer à petits pas, en enfant curieux.
+
+['lui', 'celui', 'Antoine', 'Jacques', 'un']	Loubet	Ce fut [MASK] qui parut à son tour, tenant dans chaque main une bouteille pleine, qu’il agitait en rigolant. Il était moins ivre que l’autre, il cria de sa voix de blague parisienne, avec le nasillement des marchands de coco, un jour de fête publique :
+
+['lui', 'Pierrot', 'il', 'Joseph', 'Marius']	Loubet	Cette fois même, on lui avait confié la pelle de la compagnie, en lui persuadant que c’était un honneur. Et il ne se plaignait pas, il riait d’une chanson dont [MASK], le ténor de l’escouade, charmait la longueur de la route.
+
+['Napoléon', 'Il', 'David', 'Alexandre', 'Guillaume']	Delaherche	C’était la capitulation acceptée, inévitable.[MASK], rassuré, songea qu’il mourait de faim et résolut de retourner chez lui. Mais, dès qu’il se retrouva dehors, il demeura hésitant, devant l’encombrement effroyable qui avait achevé de se produire.
+
+['Jeanne', 'Marie', 'Madeleine', 'elle', 'Marguerite']	Maurice	Puis, comprenant que c’étaient encore des idées à coucher dehors, selon son expression, il se fit paternel.– Voyons, qu’est-ce que tu as ? faut pas se faire pour rien un chagrin pareil !– Ah ! s’écria [MASK], c’est bien fichu, va
+
+['Pierre', 'Paul', 'Charles', 'Raymond', 'Martin']	Delaherche	Le sentiment qu’il ne ferait jamais tout, qu’il ne pouvait pas tout faire, l’avait brusquement paralysé. À quoi bon ? puisque la mort serait quand même la plus forte !Deux infirmiers apportaient sur un brancard le capitaine Beaudoin.– Monsieur le major, se permit de dire [MASK], voici le capitaine.
+
+['–', '!', '</s>NOTUSED', 'le', ';']	Henriette.–	Si tu savais comme c’est drôle, de se moquer ainsi de ce gros homme, qui a toujours l’air de croire qu’on va enfin le récompenser !– Mais c’est un jeu très dangereux, dit sérieusement [MASK] Crois-tu ? qu’est-ce que je risque
+
+['il', 'Jésus', 'Joseph', 'Alexandre', 'lui']	Bouroche	Alors, [MASK], armé du grand couteau long, après avoir crié : « Asseyez-le ! » empoigna le deltoïde, transperça le bras, trancha le muscle ; puis, revenant en arrière, il détacha la jointure d’un seul coup ;
+
+['Il', 'On', 'Je', 'Louis', 'Joseph']	Maurice	C’est bon, dit de son air sage ce dernier, qui ne pouvait engager une lutte. Nous réglerons ça ce soir.[MASK] souffrait abominablement des pieds. Ses gros et durs souliers, auxquels il n’était pas accoutumé, lui avaient mis la chair en sang.
+
+['Paul', 'Pierre', 'lui', 'il', 'Georges']	Delaherche	!Elle le faisait taire, lui mettait la main sur la bouche, lorsque [MASK] entra, bouleversé, hors de lui. Il avait fini par descendre de la terrasse, repris d’une fringale, d’une de ces faims nerveuses, que la fatigue exaspère ;
+
+['il', 'et', 'on', 'Pierre', 'Il']	Jean	Mais ses yeux de paysan rusé et goguenard luisaient, dans sa joie muette d’avoir roulé tous ces sales bougres, dont il commençait à avoir assez, à présent qu’ils le chicanaient sur la qualité de sa viande.Décembre s’acheva, [MASK] voulut partir.
+
+['le', 'les', 'la', 'Marie', 'elle']	Lapoulle	? Puis, au milieu d’un grand pétillement d’étincelles, la flamme s’éteignit. Ce n’était que le tas de bois vert, si longtemps tracassé par [MASK], qui, après avoir couvé pendant des heures, venait de flamber comme un feu de paille.
+
+['Pierre', 'madame', 'Marie', 'Madame', 'César']	Silvine	Celui-ci voulut prendre connaissance du laissez-passer, puis il le rendit à [MASK], il eut un geste de pitié, pour dire qu’on laissât aller cette pauvre femme, avec son âne, en quête du corps de son mari.
+
+['on', 'il', 'Napoléon', 'Louis', 'chacun']	Delaherche	, l’empereur se livrait, espérant attendrir le vainqueur. Et [MASK] vit le général Reille s’arrêter à dix pas du roi, descendre de cheval, puis s’avancer pour remettre la lettre, sans arme, n’ayant aux doigts qu’une cravache.
+
+['</s>NOTUSED', 'Jean', 'Le', 'Et', 'Marie']	Jean	Mais les coups de feu avaient cessé, et rien ne bougeait plus, dans le grand silence frissonnant qui retombait. Le poste, évidemment, ne se souciait pas de s’engager parmi les arbres.[MASK], qui s’efforçait de se remettre debout, étouffa une plainte.
+
+['monsieur', 'Monsieur', 'maître', 'voyons', 'Henri']	Silvine	Voyons, [MASK], je comprends bien que tu m’as gardé de la rancune. Ce n’est pourtant pas très juste… Si je suis parti, et si je t’ai fait cette grosse peine, tu aurais dû te dire déjà que c’était peut-être parce que je n’étais pas mon maître.
+
+['Louise', 'Marie', 'Jeanne', 'Mathilde', 'Jane']	Gilberte	Non, je crois bien que je vais mourir.Et il les regardait tous les trois, les yeux élargis, pleins de l’épouvante de la mort.– Oh ! capitaine, qu’est-ce que vous dites là ? murmura [MASK] en s’efforçant de sourire, toute glacée.
+
+['monsieur', 'Madame', 'madame', 'Monsieur', 'maman']	Silvine	Au revoir, [MASK] !Il partit tranquillement, elle resta plantée à la même place, la tête bourdonnante d’idées si grosses, si terribles, qu’elle en était comme imbécile. Et, pendant la journée entière, ce fut ainsi une tempête en elle.
+
+['on', 'personne', 'nul', 'il', 'elle']	Delaherche	Et, tout de suite, une fois de plus, on distingua la voix anxieuse de l’empereur.– Mais enfin, général, pourquoi tire-t-on toujours, puisque j’ai fait hisser le drapeau blanc ?L’aide de camp sortait, la porte fut refermée, et [MASK] ne put même entendre la réponse du général.
+
+['lui', 'Joseph', 'Louis', 'David', 'Henri']	Maurice	Mais la vue de sa sœur, si pâle, si affligée, avait déterminé chez [MASK] une crise salutaire d’attendrissement. Il ouvrit les bras, l’appela sur sa poitrine ; et, lorsqu’elle se fut jetée à son cou, une grande douceur le pénétra.
+
+['lui', 'moi', 'nous', 'Louis', 'Charles']	Delaherche	Près de [MASK], qui se haussait, examinant les fenêtres du rez-de-chaussée, une vieille femme, quelque pauvre journalière du voisinage, à la taille déviée, aux mains tordues, mangées par le travail, mâchonnait entre ses dents :– Un empereur… je voudrais pourtant bien en voir un…
+
+['il', 'on', 'chacun', 'elle', 'ils']	Laurent	Ah ! les bougres de lâches, avec leur canon ! Toujours agenouillé, [MASK] visait soigneusement les artilleurs, tuant son homme chaque fois ; si bien que le service de la pièce ne pouvait se faire, et qu’il se passa cinq ou six minutes avant que le premier coup fût tiré.
+
+['Leclerc', 'Moreau', 'Dupont', 'Napoléon', 'Charles']	Maurice	Et, à ce moment, le départ du 4e hussards, s’éloignant au grand trot par cette route, fit faire toutes sortes de conjectures.– Si l’on attend ici, je reste, déclara [MASK], à qui répugnait l’idée du major et de la voiture d’ambulance.
+
+['il', 'Louis', 'Joseph', 'Jean', 'Pierre']	Charlot	Réveillé par le bruit, [MASK] avait levé la tête. Les yeux vagues, comme au sortir d’un rêve, il se rappela l’injure que lui avait apprise quelque farceur du village, il déclara de son air grave de petit bonhomme de trois ans :
+
+['le', 'il', 'Louis', 'Jean', 'Henri']	Delaherche	Les jambes eurent une courte convulsion, la face resta jeune et tranquille, foudroyée. C’était le premier mort, et il fut surtout bouleversé par le fracas du chassepot, rebondissant sur le pavé de la cour.– Ah ! non, je file, moi ! bégaya [MASK].
+
+['elle', 'Alice', 'Isabelle', 'Emma', 'Anna']	Henriette	… Son affaire est claire, à votre bandit, et je me charge de le faire guérir, oui ! avec trois balles dans la tête !Mais la vue d’[MASK], si pâle dans sa robe noire, avec ses beaux cheveux blonds dénoués, le calma brusquement.–
+
+['Marie', 'Pierre', 'Jean', 'Jeanne', 'Jules']	Jean	Mais toi, demanda-t-il tout à coup, se souvenant, tu ne l’as donc pas mangé ?– Oh ! moi, dit [MASK], j’ai la peau plus dure, je puis attendre… Un bon coup de sirop de grenouille, et me voilà d’aplomb
+
+['Mais', 'Et', 'Puis', 'Leclerc', 'Capitaine']	Delaherche	[MASK] lui-même, malgré son agitation, vint causer un moment.– Reposez-vous, capitaine. Nous allons faire préparer une chambre, nous vous prendrons chez nous.Mais, dans sa prostration, le blessé eut un réveil, une minute de lucidité.– Non, je crois bien que je vais mourir.
+
+['Il', 'Paul', 'Louis', 'Pierre', 'Jean']	Jean	La frontière belge n’est pas loin, nous trouverons bien quelqu’un pour nous y conduire.[MASK] eut un frémissement, d’esprit plus net et plus froid, malgré la révolte qui finissait par le faire rêver aussi d’évasion.–
+
+['bien', 'table', 'confortablement', 'Madame', 'mieux']	Gilberte	Mais, le lendemain, il trouva [MASK] installée, il reprit sa place au coin du feu. Alors, commencèrent des soirées charmantes, que l’on passait dans ce cabinet de travail, et non dans le salon, ce qui établissait une distinction subtile.
+
+['il', 'elle', 'on', 'chacun', 'Madeleine']	Lapoulle	:– Faites pas les serins, entrez, vous autres, qu’on vous rince le gosier !Un instant, [MASK] hésita, dans l’obscure conscience que ce serait mal, de faire la fête, lorsque tant de pauvres bougres avalaient leur langue.
+
+['il', 'elle', 'on', 'Sophie', 'Frédéric']	Maurice	Et [MASK] la sentit qui descendait dans ses veines, en lui rendant la chaleur et la demi-ivresse de l’illusion. Pourquoi ne battrait-on pas les Prussiens ? Est-ce que les batailles ne réservaient pas leurs surprises, des revirements inattendus dont l’Histoire gardait l’étonnement ?
+
+['Paul', 'Staline', 'Georges', 'Pierrot', 'Jaurès']	Laurent	:– Un pauvre petit dont un obus a tué la mère, et qui pleure, là, à côté.– Tonnerre de Dieu ! murmura [MASK], ce qu’il va falloir leur faire payer tout ça !Il n’arrivait encore dans la façade que des balles perdues.
+
+['toilette', 'travail', 'toilettes', 'lecture', 'coiffure']	Delaherche	Elle voulait absolument qu’il acceptât une chambre, un lit ; mais il refusait, il fut convenu qu’il se reposerait seulement une couple d’heures sur un canapé, dans le cabinet de [MASK], avant de rejoindre son régiment.
+
+['Pierre', 'Joseph', 'celui', 'Jean', 'Paul']	Pache	Mais il était si éreinté, si épuisé de faim et de soif ! Tout d’un coup, il se décida, entra dans l’auberge d’un saut, sans une parole, en poussant devant lui [MASK], également silencieux et tenté, qui s’abandonnait.
+
+['une', 'Marie', 'plus', 'un', 'Alice']	Maurice	Et il avait fait cette chose abominable, et il venait pourtant de sauver encore [MASK], puisque c’était lui qui l’avait rapporté là, au travers de tant de dangers ! Elle ne pouvait plus lui abandonner ses mains, sans un recul de tout son être.
+
+['Jeanne', 'Marie', 'Pierre', 'Jean', 'Henri']	Maurice	Fouille dans la poche de mon pantalon.Sur l’argent du trésor, qu’ils avaient partagé, il leur restait à peu près à chacun deux cents francs.– L’argent ! se récria [MASK], mais tu en as plus besoin que moi, qui ai mes deux jambes !
+
+['il', 'Pierre', 'lui', 'Il', 'Paul']	Maurice	et, un obus ayant éclaté près d’eux, il crut que c’était fini, qu’il allait mourir, lui aussi, sur le corps de son compagnon.Lentement, [MASK] s’était relevé. Il se tâtait, n’avait rien, pas une égratignure.
+
+['Jean', ';', 'Jeanne', 'un', 'Marie']	Chouteau	cria [MASK].Jean les laissa rire. On n’allait peut-être plus en trouver si souvent l’occasion ; et lui, avec son air de gros garçon sérieux, à la figure pleine et régulière, n’était pourtant pas pour la mélancolie, fermant les yeux volontiers quand ses hommes prenaient du plaisir.
+
+['Il', 'Et', 'Joseph', 'Elle', 'Lui']	Jean	les lèvres tremblantes, regarda son père si fixement, que celui-ci reprit sa marche. Et le silence recommença, infini, tandis que, machinalement, il se recoupait du pain, mangeant toujours. [MASK] continuait, lui aussi, sans éprouver le besoin de dire une parole.
+
+['Il', 'On', 'Elle', 'Eugène', 'il']	Delaherche	[MASK] insista aussitôt pour l’emmener chez lui. Mais il résistait : non, non ! il n’avait plus figure humaine, il ne voulait pas faire peur au monde. Il fallut que le fabricant lui jurât que ni sa mère ni sa femme n’étaient levées.
+
+['Dieu', 'Jésus', 'Joseph', 'Pierre', 'Paul']	Maurice	? Du tonnerre de Dieu si je me dérange encore !Pourtant, au moindre appel, il se hâtait de nouveau. C’était inhumain, ces sonneries réglementaires ; et elles avaient un autre effet, qui crevait le cœur de [MASK].
+
+['</s>NOTUSED', 'Pierre', 'Marie', 'Jean', 'Jeanne']	Jean	Et, comme au qui vive de la sentinelle, ils se mirent à galoper, sans répondre, le poste prit les armes, des coups de feu partirent, criblant de balles le taillis.– Nom de Dieu ! jura d’une voix sourde [MASK], qui retint un cri de douleur.
+
+['il', 'elle', 'Jésus', 'Marie', 'Dieu']	Jean	C’était le rajeunissement certain de l’éternelle nature, de l’éternelle humanité, le renouveau promis à qui espère et travaille, l’arbre qui jette une nouvelle tige puissante, quand on en a coupé la branche pourrie, dont la sève empoisonnée jaunissait les feuilles.Dans un sanglot, [MASK] répéta
+
+['elle', 'ça', 'cela', 'lui', 'Jeanne']	Silvine	ce n’était guère plus d’une heure de marche, pour une fille jeune et solide comme [MASK]. Pourquoi n’était-elle pas là, depuis des heures que le vieux l’avait perdue, dans la confusion de tout un corps d’armée, noyant le pays, bouchant les routes
+
+['Sophie', 'Marie', 'Clara', 'Maria', 'Fritz']	Henriette	De nouveau, l’illusion vivace le tenait, tout un besoin d’aveuglement, dans l’exagération maladive de sa sensibilité nerveuse.– À propos, reprit-il gaiement, et le cousin Gunther ?– Le cousin Gunther, dit [MASK], mais il appartient à la garde prussienne… Est-ce que la garde est par ici ?
+
+['Napoléon', 'Paris', 'chacun', 'Louis', 'Gambetta']	Jean	On allait donc leur envoyer des coups de fusil, s’alléger de ces cartouches qu’on avait apportées de si loin, sans en brûler une seule ! Cette fois, tous le sentaient, c’était l’inévitable bataille.Mais le canon de Bazeilles tonnait plus haut, et [MASK], debout, écoutait.–
+
+['le', 'Jean', 'Marie', 'la', 'Pierre']	Prosper	Si elle ne se hâtait pas de le découvrir, sur ce plateau vague et sans fin, certainement qu’on allait le lui prendre et l’enfouir dans le tas, parmi les autres.Aussi courut-elle pour rejoindre [MASK], qui avait marché jusqu’à la porte de la ferme, avec l’âne.–
+
+['il', 'elle', 'Pierre', 'Il', 'lui']	Maurice	Ma parole, c’est à se ficher au fumier !… File tout seul, toi !Gaiement, [MASK] se contenta de répondre :– Tu es bête !Il lui avait pris le bras, il l’aidait, tous les deux ayant la hâte de s’éloigner.
+
+['celui', 'Pierre', 'Antoine', 'Paul', 'Jean']	Lapoulle	soupira [MASK] qui souffrait de la faim plus que les autres, torturé par son gros appétit.Mais le lieutenant Rochas les fit taire. Ce n’était pas une honte, de ne toujours songer qu’à son ventre ! Lui, bonnement, serrait la ceinture de son pantalon.
+
+['elle', 'il', 'Marie', 'Madeleine', 'Jeanne']	Jean	De nouveau, redoutant de compromettre ses hôtes, [MASK] voulait partir, bien que le docteur le trouvât trop faible encore ; et elle tenait à ce qu’il attendît une quinzaine de jours, envahie elle-même d’un redoublement de tristesse, devant la nécessité prochaine de la séparation.
+
+['rien', 'Paris', 'tout', 'Dieu', 'Rio']	Maurice	Mais, surtout, ce qui les hantait, c’était la crainte que [MASK] ne fût mort. Ce silence de la grande ville, là-bas, muette sous l’étreinte de l’investissement, était devenu, dans l’angoisse de leur attente, un silence de tombe.
+
+['il', 'Charles', 'Paul', 'Il', 'Louis']	Maurice	Ah ! Nous sommes bien tous perdus. Adieu, mon enfant !Et [MASK] resta planté sur une marche, dans les ténèbres de l’escalier. Le cou tordu, il apercevait, par une imposte vitrée, un spectacle dont il emporta l’inoubliable souvenir.
+
+['Marie', 'Madame', 'Jeanne', 'Louise', 'Sophie']	Gilberte	Une des fenêtres était restée entr’ouverte, on entendait maintenant le canon, dans cette grande pièce tiède, si close et si étouffée tout à l’heure.[MASK], soulevée à demi, un coude dans l’oreiller, regardait le ciel, de ses jolis yeux clairs.–
+
+['un', 'le', 'Monsieur', 'Henry', 'Merlin']	Bouroche	Comme ils retraversaient le hangar aux opérations, ils virent [MASK], exaspéré de n’avoir pu se procurer du chloroforme, qui se décidait à couper tout de même la jambe d’un pauvre petit bonhomme de vingt ans. Et ils s’enfuirent, pour ne pas entendre.
+
+['Pierre', 'Louis', 'Charles', 'chacun', 'Frédéric']	Delaherche	Attendons, que diable ! répondit-il. Rien ne presse.D’ailleurs, la curiosité de [MASK] était si vive, si agitée, qu’il en devenait brave. Lui, n’avait pas fermé l’œil, très intéressé par les préparatifs de défense.
+
+['</s>NOTUSED', 'le', 'la', 'son', 'Monsieur']	Jean	tandis que ses yeux vifs, son nez têtu, ses lèvres bonnes disaient son existence entière de brave homme charitable, un peu braque parfois, médecin sans génie, dont une longue pratique avait fait un excellent guérisseur.Lorsqu’il eut examiné [MASK], toujours assoupi, il murmura
+
+['lui', 'refus', 'désespoir', 'reconnaissance', 'démission']	Silvine	C’était une lettre de [MASK], la première, la seule qu’elle lui eût jamais écrite. À quel sentiment avait-elle obéi, cette soumise, cette silencieuse, dont les beaux yeux noirs prenaient parfois une fixité de résolution extraordinaire, dans son continuel servage ?
+
+['lui', 'eux', 'elle', 'elles', 'Pierre']	Goliath	Sambuc et les deux autres s’étaient rués sur [MASK] ; et, malgré leur nombre, ils n’arrivaient pas à maîtriser le colosse, dont le danger décuplait les forces. Dans les ténèbres, on entendait les craquements des membres, l’effort haletant des étreintes.
+
+['Lui', 'Il', 'Monsieur', '</s>NOTUSED', 'Pierre']	Bouroche	Ah ! nom de Dieu ! c’est bête, ce que vous avez fait là ![MASK], exténué, ne répondait point. Puis, l’air brave homme :– J’ai fait pour le mieux, je ne voulais pas que tu claques, mon garçon…
+
+['Marie', 'Marguerite', 'Jeanne', 'Louise', 'Sophie']	Henriette	Mourir, mais je ne veux pas ! je veux que tu vives !… Ne parle plus, laisse-moi faire !Cependant, lorsque [MASK] eut examiné le bras traversé, les côtes atteintes, elle s’assombrit, ses yeux se troublèrent.
+
+['Napoléon', 'Marius', 'César', 'Fritz', 'David']	Françoise	:– Vous entendez, mes enfants, à la baïonnette !Et ce fut son dernier souffle, il expira, la face droite et têtue, les yeux ouverts, regardant toujours la bataille. Des mouches déjà volaient et se posaient sur la tête broyée de [MASK] ;
+
+['Albert', 'Auguste', 'Alexandre', 'Antoine', 'Eugène']	Henriette	c’était certain, ajouta-t-il à voix plus basse. De la grande besogne !Une douleur croissante serrait le cœur d’[MASK], à l’étouffer, devant l’immensité de la catastrophe. Pendant quelques minutes, son malheur personnel disparut, emporté dans cette expiation de tout un peuple.
+
+['celui', 'Paris', 'Napoléon', 'lui', 'celle']	Paris	Mais ce désir, il était ardemment en lui, comme au fond de toute l’ancienne bourgeoisie plébiscitaire et conservatrice. On allait être à bout de sang et d’argent, il fallait se rendre ; et une sourde rancune contre [MASK] qui s’entêtait dans sa résistance, montait de toutes les provinces occupées.
+
+['Julien', 'Jean', 'Charles', 'Pierre', 'Louis']	Chouteau	… Ah ! c’est une vraie rencontre tout de même !Ils reconnurent [MASK], dans l’auberge, accoudé à une des fenêtres du rez-de-chaussée. Très ivre, il continua, entre deux hoquets :– Dites donc, vous gênez pas, si vous avez soif…
+
+['Pierre', 'Paul', 'Jean', 'Charles', 'Joseph']	Sambuc	N’était-ce point le sort qui décidait ? Elle vit là un arrêt du destin, elle parla, donna le rendez-vous à [MASK] pour le lendemain soir, d’une voix nette, sans fièvre, comme si elle n’avait pu faire autrement.
+
+['Il', 'Mais', 'Napoléon', 'Le', '</s>NOTUSED']	Rochas	[MASK], cependant, triomphait. Autour de lui, le feu des quelques soldats, qu’il excitait de sa voix tonnante, avait pris une telle vivacité, à la vue des Prussiens, que ceux-ci, reculant, rentraient dans le petit bois.– Tenez ferme, mes enfants
+
+['Marie', 'Mme', 'Madame', 'Maria', 'madame']	Henriette	Et ces misérables gens continuaient à parler de ces choses, avec des gestes tâtonnants d’épouvante, évoquant la vision affreuse, les toits qui flambaient, le sang qui coulait, les morts qui couvraient la terre.– Alors, mon mari ? répéta [MASK].
+
+['On', 'Elle', 'Il', 'Napoléon', 'Gambetta']	Prosper	– Chargez !Les trompettes sonnaient, la masse s’ébranla, d’abord au trot. [MASK] se trouvait au premier rang, mais presque à l’extrémité de l’aile droite. Le grand danger est au centre, où le tir de l’ennemi s’acharne d’instinct.
+
+['Jean', 'Louis', 'Paul', 'Pierre', 'Henri']	Maurice	[MASK], qui s’intéressait maintenant aux brancardiers, suivait leurs recherches, dans les plis de terrain. Il devait y avoir, au bout du chemin creux, derrière un talus, une ambulance volante de premiers secours, dont le personnel s’était mis à explorer le plateau.
+
+['il', 'elle', 'on', 'Napoléon', 'Goethe']	Gilberte	D’ailleurs, tous deux sortaient plus intimes de ces explications, lui enchanté de s’être étourdi du flot de sa parole, le Prussien content d’avoir fait preuve d’une urbanité toute parisienne.Un soir, de son air gai d’étourderie, [MASK] entra.
+
+['on', 'Napoléon', 'chacun', 'se', 'il']	Delaherche	À ce moment, un petit homme vif, l’uniforme poussiéreux, dans lequel [MASK] reconnut le général Lebrun, traversa le palier, poussa la porte, sans se faire annoncer. Et, tout de suite, une fois de plus, on distingua la voix anxieuse de l’empereur.–
+
+['</s>NOTUSED', 'Le', 'qui', 'Il', 'et']	Lapoulle	Déjà, le lieutenant Rochas battait en retraite, avec ses quelques hommes, protégeant le drapeau, que le sous-lieutenant portait toujours sous son bras, roulé autour de la hampe. [MASK], très grand, pouvait se hausser, lâchait encore des coups de feu, par-dessus le chaperon
+
+['Jeanne', 'Marie', 'Alice', 'Henri', 'Jean']	Maurice	; tandis que ce baiser, à cette heure, restait frissonnant des angoisses de l’adieu. Se reverrait-on, un jour ? et comment, dans quelles circonstances de douleur ou de joie ?Déjà, le docteur Dalichamp, remonté dans son cabriolet, appelait [MASK].
+
+['Joseph', 'Louis', 'Paul', 'Pierre', 'Charles']	Weiss	-même, le cœur soulevé, comme devant un des assassins de son mari, avait d’abord hâté le pas. Puis, dans un brusque revirement, qu’elle ne s’expliquait point, elle était revenue, lui avait tout dit, la mort de [MASK], d’une voix rude de reproche.
+
+['un', 'César', 'Alexandre', 'Paul', 'Joseph']	Maurice	Vers le soir, il y eut des chœurs. On voyait, au delà du cordon des sentinelles, les soldats se promenant par petits groupes, chantant d’une voix lente et haute, pour célébrer le dimanche.– Ah ! ces musiques ! finit par crier [MASK] exaspéré.
+
+['Martin', 'Raymond', 'Louis', 'Georges', 'Roland']	Chouteau	– Pour sûr qu’ils ont pissé dessus ! ajouta [MASK], en ricanant.Le lieutenant Rochas lui-même s’en mêla.– Quand je vous disais que ces jean-foutre ne sont pas même capables de pointer un canon !Mais un obus éclata à dix mètres, couvrant la compagnie de terre.
+
+['Jeanne', 'Marie', 'Napoléon', 'Jean', 'Louis']	Silvine	Mais [MASK], dont les yeux se dilataient, jeta un cri, eut un brusque geste d’horreur. Les soldats ne bougeaient pas, ils étaient morts. Les deux zouaves, raidis, les mains tordues, n’avaient plus de visage, le nez arraché, les yeux sautés des orbites.
+
+['il', 'elle', 'on', 'Napoléon', 'Charles']	Maurice	Ils étaient partout, ils précédaient les colonnes d’un bourdonnement d’abeilles, mouvant rideau derrière lequel l’infanterie dissimulait ses mouvements, marchait en toute sécurité, comme en temps de paix. Et [MASK] eut un grand serrement au cœur, en regardant la route encombrée de chasseurs et de hussards, qu’on utilisait si mal.–
+
+['il', 'elle', 'on', 'Il', 'Joseph']	Prosper	Elle s’était relevée, elle lui baisait les mains, elle lui baisa le front, en ne répétant toujours que ce mot d’infinie caresse :– Mon ami…, mon ami…Cependant, le soleil baissait, [MASK] était allé chercher la couverture.
+
+['elle', 'il', 'on', 'Elle', 'Marie']	Henriette	Mais parfaitement, chère mère, vous pouvez entrer.Avec son étourderie habituelle, elle l’introduisit, sans remarquer que les gants d’ordonnance étaient là encore, sur le guéridon. Vainement, [MASK] se précipita pour les saisir et les jeter derrière un fauteuil.
+
+['elle', 'Marie', 'chacune', 'Catherine', 'Madeleine']	Henriette	!Chaque jour, maintenant, [MASK] rentrait de la sorte, bouleversée par quelque agonie, et cette souffrance des autres les rapprochait encore, pendant les tristes heures qu’ils vivaient si seuls, au fond de la grande chambre paisible.
+
+['il', 'elle', 'on', 'Il', 'lui']	Maurice	Il se pencha, il resta dans l’épaisse nuit, perdu en plein ciel de brume, sans une étoile, enveloppé d’un tel frisson, que tout le poil de sa chair se hérissait.En bas, sur le canapé, [MASK] s’éveilla, au petit jour.
+
+['on', 'il', 'Charles', 'Alexandre', 'Pierre']	Jean	Des hommes de la compagnie, en voyant tomber leur capitaine, se soulevèrent ; et, comme il appelait à l’aide, suppliant qu’on l’emportât, [MASK] finit par courir jusqu’à lui, suivi aussitôt de Maurice.– Mes amis, au nom du ciel !
+
+['lui', 'Paul', 'Louis', 'Joseph', 'Léon']	Maurice	; pendant que, du dehors, arrivait la clameur d’ivresse des camarades qui mangeaient encore, sans pouvoir se rassasier.Alors, la détresse commença pour [MASK]. Il avait tâché de fuir cette plainte d’horrible douleur qui lui mettait à la peau une sueur d’angoisse
+
+['Elle', 'Marie', 'elle', 'Il', 'Louise']	Henriette	Avec ça, il n’a jamais été riche, on a tout mangé chez lui, pour le faire instruire… Je t’assure, je n’ai pas pu refuser.[MASK] l’écoutait, effarée, ne revenant pas de sa surprise.– Comment ! c’était avec le petit sergent
+
+['lui', 'cela', 'Joseph', 'santé', 'ça']	Gutmann	Le docteur a-t-il meilleur espoir ?– Oui, peut-être le sauvera-t-on. Mais il souffre horriblement.Bien que la pitié fût grande, tous deux ne pouvaient parler de [MASK] sans une sorte de gaieté attendrie.
+
+['Napoléon', 'Alexandre', 'Roland', 'Charles', 'Frédéric']	Jean	Si ça vous fait trop de peine, disait [MASK] surpris, il ne faut plus me lire les batailles.Mais elle se remettait tout de suite, très douce et complaisante.– Non, non, pardonnez-moi, je vous assure que ça me fait plaisir aussi.
+
+['Henri', 'Marie', 'Jean', 'Paul', 'Pierre']	Henriette	Et pas un bruit, le silence moite d’une nuit heureuse, rien qu’une respiration calme, à peine distincte, dans un vague parfum de lilas évaporé.– Gilberte ! appela doucement [MASK].La jeune femme s’était tout de suite rendormie ;
+
+['elle', 'Marie', 'Jeanne', 'Madeleine', 'Marguerite']	Henriette	L’adieu rouge du soleil glissait par la fenêtre ouverte, deux bougies brûlaient déjà sur la table, au chevet du lit. Et [MASK], à genoux dans ses vêtements de veuve qu’elle n’avait pas quittés, pleurait en silence.
+
+['le', 'un', 'ce', 'notre', 'Joseph']	Jean	ou encore ils les assommeraient à coups de pierre ; ou encore ils les achèteraient à prix d’argent, revêtiraient leurs uniformes, pour franchir les lignes prussiennes.– Mon petit, tais-toi ! répétait [MASK] désespéré, ça me fait peur de t’entendre dire des bêtises.
+
+['Jean', 'lui', 'Pierre', 'Georges', 'Paul']	Maurice	Quant à [MASK], qui se taisait, n’osant intervenir devant son supérieur, il finit par éclater de rire avec lui : ce diable d’homme, que d’ailleurs il jugeait stupide, lui faisait chaud au cœur.
+

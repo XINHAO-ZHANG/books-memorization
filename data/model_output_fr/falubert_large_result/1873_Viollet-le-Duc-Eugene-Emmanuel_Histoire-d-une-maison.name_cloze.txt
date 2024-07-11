@@ -1,0 +1,200 @@
+["l'", ',', 'pierre', 'raison', 'plus']	Paul	Bien qu’à l’âge de [MASK] on ne soit pas facilement accessible aux sombres pensées, le pauvre garçon ne put, en face de cette solitude, retenir ses larmes. Il revoyait par la pensée ce chantier si animé un mois auparavant, les gars occupés à leur ouvrage.
+
+['son', 'ses', 'la', 'sa', 'grand']	Paul	Il fut décidé entre eux que non-seulement on mettrait au net tous les détails nécessaires à l’achèvement des travaux, mais que le grand cousin profiterait de ces jours d’hiver pour donner à [MASK] bien des notions qui lui manquaient comme inspecteur de travaux.
+
+['voir', 'entendre', 'connaître', 'lire', 'chacun']	Paul	Le grand cousin, en donnant à [MASK] le détail des lucarnes, coupe A et face extérieure B, attira son attention sur leur construction. Montées sur un bahut de 0 m ,50 c d’épaisseur, elles devaient se composer de deux piédroits, en trois assises chacun.
+
+['on', 'il', 'On', 'elle', 'Il']	Paul	Les plates-bandes verdissaient, et quelques vieux arbres ayant pu être conservés dans les environs, il semblait, en arrivant, que cette habitation fût déjà occupée. [MASK] ne put s’empêcher de sauter de joie en voyant comme la bâtisse était coquette et pittoresque.
+
+['chacun', 'celui-ci', 'il', 'Robert', 'Pierre']	Paul	On trinqua à la santé des nouveaux arrivés et à la prospérité de la maison, si bien que [MASK] perdit là une heure. Enfin il put reprendre le chemin du château, même allure. Mais en atteignant la crête du plateau, il vit de loin la calèche qui se dirigeait du côté de la maison.
+
+['le', ':', ',', 'il', 'on']	Paul	« Toutefois nous devrons procéder après examen, car il me semble que ces bancs ont été déjà exploités sur quelques points. Nous pourrions bien rencontrer de ces excavations de carrières faites sans soin, comme cela n’arrive que trop souvent dans les campagnes. — Comment, dit [MASK], reconnaît-on la pierre bonne à bâtir
+
+['la', 'le', "l'", 'en', 'ceci']	Paul	— Ce n’est pas, reprit le grand cousin en souriant, tout à fait ce que j’ai dit à [MASK]. A propos des défauts constatés dans les constructions, j’ai dit, je crois, que le bon est l’absence du mal ;
+
+['il', 'papa', 'celui-ci', 'monsieur', 'on']	Paul	et le grand cousin ne marchandait pas les éclaircissements ou commentaires. Sa patience était inépuisable. Cependan chaque fois que [MASK] était embarrassé et ne savait résoudre une question difficile, avant de le mettre sur la voie, le grand cousin le laissait chercher pendant un temps raisonnable.
+
+['.', '!', 'etc.', '</s>', '"']	Paul	Voilà une conversation, à propos de fumisterie, que tu feras bien de résumer dans tes notes, [MASK] ! — Aussi ferai-je, mère. » CHAPITRE XXIII CANTINE. Malgré les derniers désastres, la vie semblait revenir comme par enchantement dans les villes et campagnes.
+
+["j'", 'je', "c'", 'chacun', 'celui-ci']	Paul	Dites donc que c’est une maison, faite pour moi par ceux qui m’aiment, et qui sera toujours ouverte à nos amis, toujours accessible à ceux qui auront besoin de nous. » On dit que [MASK] est plus que jamais décidé à embrasser la carrière de l’architecture.
+
+["l'", "qu'", 'elle', 'on', 'il']	Marie	Cependant, leur retour ne pourrait s’effectuer, me dit [MASK], que dans un an. Elle m’annonce cela sans paraître autrement affectée de la longueur de cette absence ; j’en éprouve, mon ami, un serrement de cœur que tous les meilleurs raisonnements ne peuvent atténuer.
+
+['la', ',', 'tous', 'bien', 'de']	Paul	Nous avons reçu les projets de [MASK] ; il nous semble s’être un peu fait aider par notre cousin. Cela me plairait fort, à mon mari et à moi, si jamais on pouvait mettre la main à l’œuvre, mais qui peut aujourd’hui, dans notre pauvre pays, songer à bâtir
+
+['question', 'problème', 'marteau', 'questions', 'là']	Paul	! — Qu’il aille près ou loin, je n’en veux pas, vous entendez ? [MASK], vous veillerez à ce qu’on ne la pose pas.... Voyez-vous bien cette petite fêlure à peine apparente, frappez avec ce marteau des deux côtés.... Bon !
+
+['on', 'il', 'chacun', 'qui', 'On']	Paul	Ces derniers ouvrages sont comme la marge dont on entoure un dessin, ou le cadre qui sertit un tableau ; pour les yeux peu exercés, ce dernier accessoire met chaque partie à son plan, nettoie l’ensemLle et donne l’unité qui semblait faire défaut. [MASK] était satisfait de l’aspect extérieur.
+
+['se', ',', "s'", 'il', 'tout']	Paul	La question fut donc mise sur le tapis vers les derniers jours de septembre, le soir, en famille. Le grand cousin dit, avec raison, que [MASK] avait appris tout ce qu’il pouvait apprendre sur ce petit chantier ;
+
+[',', 'en', 'que', "qu'", 'la']	Paul	dit enfin [MASK]. — Mais il en parle comme une personne à laquelle cet art n’est pas étranger. — Cependant, vous n’avez pas paru lui accorder ce qu’il demandait. — Et que demandait-il ? — Mais.... vous le savez bien....
+
+['tous', 'conseillers', 'spécialistes', 'notaire', 'conseil']	Paul	» Le grand cousin aidé de [MASK] qui faisait les calculs —jamais il n’en avait tant fait — rédigea le devis qui donna un chiffre de 175 000 fr. La terrasse et la maçonnerie entraient dans la dépense prévue pour 85 000 fr.
+
+['il', 'on', 'je', 'elle', 'nous']	Paul	« Maintenant essayez de mettre tout cela au net pour pouvoir donner promptement les détails au maçon et au charpentier. » Avec bien de la peine, [MASK] parvint à faire un tracé assez complet sur les indications fournies par le grand cousin ;
+
+['faites', 'et', 'de', 'tenez', 'vous']	Paul	Vous l’avez fait ainsi, c’est bien, mais il ne faut pas procéder autrement ; si vous êtes pressés, dans ce cas, une aire étant insuffisante, établissez-en deux. Faites bien attention aussi, [MASK], à ce que les pierres soient toutes posées à bain de mortier.
+
+['B', 'D', 'se', 'S', 'W']	D	Nous pouvons, dans cette partie, obtenir deux belles chambres A et B, avec leurs cabinets de toilette a et b ; puis deux plus petites chambres C et [MASK], possédant toutes une cheminée. N’oublions pas le water-closet pour ces appartements, en W.
+
+["s'", "l'", 'de', "d'", 'encore']	Paul	» Tout cela, il ne faut pas le dissimuler, paraissait quelque peu étrange à [MASK], habitué à l’immuable plafond uni et blanc, et qui ne s’était jamais douté que ces surfaces planes puissent masquer une pareille ossature. V
+
+['maître', 'pierre', "l'", 'campagne', 'la']	Paul	— Certainement, répondit sa mère, regarde ! » En effet on voyait se dessiner la silhouette de la maison de [MASK], avec ses toits d’ardoises étincelants aux rayons du soleil.... Il y eut un silence et, il faut le dire, un peu d’émotion.
+
+['lui', 'Pierre', 'son', "l'", 'Jean']	Paul	L’idée de rentrer au lycée souriait médiocrement à [MASK], après une année passée à cette vie active et presque toujours en plein air ; mais il sentait au fond qu’il n’eût pas été sage de faire autrement.
+
+['LA', 'QUE', 'que', '...', 'LE']	Paul	« Ainsi donc, pendant vos angoisses de l’an dernier, vous pensiez à nous, à ce point de réaliser ce projet de maison que j’avais cru n’être qu’une idée en l’air ? Et [MASK] !
+
+['tous', 'bâtir', 'construire', 'perfectionner', 'priori']	Paul	Vous pourrez enseigner par la pratique, à [MASK], les éléments de la construction. Nous manquerons peut-être de ce nerf indispensable pour bâtir : l’argent. Eh bien ! cela nous mettra dans la nécessité de chercher les moyens de nous en passer.
+
+['JE', 'DE', 'en', 'le', ',']	Paul	; et moi aussi je les embrasserai de bon cœur, ces chers amis.... et [MASK] donc !... Mais, puisqu’il est décidé que nous ne les reverrons que dans un an, ce serait une belle occasion pour reprendre mon projet. — Lequel, mon ami
+
+['se', ',', 'le', 'po', 'ne']	Marie	[MASK] serait donc seule souvent. Que voulez-vous qu’elle fasse dans une maison, son mari absent ? — Elle fera, ma bonne amie, ce que vous avez fait vous-même quand mes affaires m’appelaient trop souvent hors de ce domaine ;
+
+['lui', 'autant', 'rien', 'elle', 'apprendre']	Paul	et si cette année n’avait pas été perdue pour [MASK], il était trop jeune encore pour se mettre à l’étude de l’architecture, en admettant qu’il voulût embrasser cette carrière. La question fut donc mise sur le tapis vers les derniers jours de septembre, le soir, en famille.
+
+['de', 'pareils', 'or', 'Outils', 'pareil']	Arbalétrier	Appareil. Assemblage des pierres taillées. [MASK]. Pièce de bois inclinée, suivant la pente d’un comble qui s’assemble à sa partie supérieure dans le poinçon, à sa partie inférieure dans l’entrait et qui supporte les pannes (voyez page 64). Arêtier.
+
+[',', 'boul', 'on', 'de', 'à']	Boulin	[MASK]. Pièce de bois de chêne qui, engagée d’un bout dans la construction et de l’autre attachée aux échasses, sert à porter les plateaux sur lesquels les ouvriers travaillent, à mesure que s’élève une construction. Boulon.
+
+['votre', '"', 'vos', 'vous', 'le']	Paul	; il était chez les fermiers, à la ville voisine, facilitant les transports, organisant des hôpitaux, approvisionnant des denrées, levant les difficultés imposées par la routine. « Faites travailler [MASK], mon ami, disait-il chaque soir au grand cousin ;
+
+['le', "l'", 'la', 'un', 'une']	Paul	Qu’est-ce que vous voyez donc là ? dit [MASK]. — Je crois que nous trouverons ici de bons matériaux pour faire les voûtes des caves.... Voyez cette pierre jaunâtre, poreuse comme une éponge. C’est un cadeau que nous fait ce cours d’eau si modeste.
+
+['...', 'RE', ',', 'S', 'ES']	Marie	pas dans sous-sol, billard, cabinet travail. Premier, deux grandes chambres, deux cabinets toilette, bains ; petite chambre, cabinet de toilette ; lingerie, garde-robes ; combles, chambres, armoires trop. Escalier pas casse-cou. [MASK] N.....
+
+['être', "l'", 'avoir', "qu'", 'si']	Marie	Nous avons ici bien assez de place pour les loger eux et leurs enfants s’il leur en vient. Et, après cette longue absence, ce serait une nouvelle douleur pour moi de savoir [MASK] établie loin de nous, de ne l’avoir pas près de moi.
+
+['.', '"', 'nos', '</s>', 'M.']	Noiret	« Nous nous engagerons de même avec le charpentier. Votre père m’a dit qu’il avait quelques brins de chênes coupés depuis plus de deux ans et mis en chantier près de la ferme de [MASK]. Allons les voir, nous marquerons ceux qui pourront être employés.
+
+['il', 'elle', 'on', 'et', ',']	Paul	Un jour donc, après avoir passé plusieurs heures sur le chantier à essayer de se rendre compte, par des croquis, de la figure des pierres taillées, sans parvenir à obtenir un résultat qui le satisfît à peu près, [MASK] entra chez son cousin.
+
+['je', 'on', 'se', 'cela', 'le']	Marie	Vous savez que [MASK] prendrait fort mal la chose. — Nous ferons en sorte ; d’abord les conditions locales sont bonnes ; nous ne sommes pas dominés, nous n’avons pas à craindre les remous de vent ; le long du plateau sur lequel nous bâtissons, les brises sont régulières
+
+['il', 'on', 'elle', 'en', 'y']	Paul	Se servant donc des détails déjà tracés, [MASK] établit la coupe transversale, non sans peine ; mais les charpentes du comble étaient singulièrement conçues, leur composition lui semblait difficile et compliquée. Il n’avait su comment fermer l’ouverture large réunissant la salle de billard au salon.
+
+[',', 'il', 'qui', 'et', 'elle']	Paul	[MASK] s’embrouillait dans ses lignes, prenait un point pour un autre, et eût maintes fois laissé de côté compas, équerre et tire-ligne, si le grand cousin n’avait été là pour le remettre sur la voie. CHAPITRE XVI LE CRITIQUE.
+
+['Pierre', 'Jean', 'celui-ci', 'Jacques', 'Paul']	Paul	— Je voudrais bien, répondit [MASK], que ce fût en réalité mon œuvre, et je regrette de n’avoir pu suivre le travail jusqu’au bout, car il me semble, en voyant la chose-terminée, qu’il n’y avait presque rien de fait quand je suis-parti.
+
+['qui', 'celui-ci', 'lui', 'lequel', 'enfin']	Paul	; mais [MASK], comme on peut le supposer, ne s’en était pas tiré à son honneur et n’avait fourni que des traits parfaitement inintelligibles aux autres aussi bien qu’à lui-même, malgré les indications sommaires fournies par l’architecte en chef. «
+
+['il', ',', 'et', 'Il', 'le']	Paul	» [MASK] comprit, et, rentré au lycée, il laissa pour le moment ses souvenirs d’architecte ; il montra bientôt, en effet, que son esprit s’était développé, et au premier de l’an il arriva chez son père avec des notes excellentes.
+
+['2', '3', '4', '5', 'DE']	XXIV	CHAPITRE [MASK] LA MENUISERIE. « Tous les détails de la menuiserie, continua le grand cousin, devraient être donnés avant de commencer la construction d’une maison, car la première condition d’une œuvre de menuiserie est de choisir les bois et de n’employer que ceux qui sont bien secs et débités depuis plusieurs années.
+
+['Classique', 'Politique', 'Sacré', 'composite', 'Grecs']	Corinthien	Les Grecs ont ainsi trouvé trois ordres : le Ionien, le Dorique et le [MASK], qui possèdent chacun leur système harmonique de proportions et leur ornementation. Ces systèmes ne sont pas tellement absolus chez les Grecs qu’ils n’empiètent souvent l’un sur l’autre.
+
+['campagne', 'retraite', 'famille', 'maître', 'France']	Paul	Elle ne pensera qu’à un amusement, se figurera quelque petit modèle de construction assez bien réussi. On pourra donc en parler à l’aise, sur le ton de la plaisanterie. Puis, après déjeuner, nous lui proposerons d’aller voir la maison de [MASK].
+
+["l'", 'Pierre', 'Jean', 'celui-ci', 'Dieu']	Paul	Il fallut ménager dans les reins de la voûte les pénétrations des soupiraux, travail qui donna beaucoup de mal à [MASK], ou plutôt qu’il eut quelque peine à comprendre et à rapporter sur ses attachements ; car, pour le père Branchu, il ne parut pas s’inquiéter beaucoup de cette besogne.
+
+['famille', 'France', 'campagne', 'Savoie', 'Bourbon']	Paul	Lorsqu’il fut installé dans le château pour quelques heures et qu’on eut épuisé les tristes sujets de conversation qui étaient à l’ordre du jour, on en vint à parler de la maison de [MASK] (c’est ainsi qu’on la désignait en famille).
+
+['il', 'son', 'celui-ci', 'le', 'ce']	Paul	Je lui dirai que [MASK], pour s’occuper pendant ses vacances trop prolongées, a bâti une petite maison, avec les conseils de son cousin. Je lui laisserai supposer que c’est quelque fantaisie de collégien. Elle ne pensera qu’à un amusement, se figurera quelque petit modèle de construction assez bien réussi.
+
+['celui-ci', 'Pierre', 'il', 'Jean', 'François']	Paul	. 25 . Fig. 26. Il n’était pas bien certain que [MASK] saisît parfaitement cette explication répétée plusieurs fois, et il ne la comprit parfaitement que quand il vit le père Branchu maçonner les soupiraux et que ceux-ci apparurent décintrés (fig. 27).
+
+['il', 'elle', 'on', 'homme', 'celui-ci']	Paul	Un jour, [MASK] voulut savoir ce que c’est qu’un ordre et ce qu’on entend par ce mot, en architecture. « Vous me faites là, petit cousin, une grosse question, à laquelle je ne sais trop si je répondrai de manière à vous éclairer.
+
+['il', 'qui', 'celui-ci', 'avisé', 'et']	Paul	Sous cet aspect le travail ne lui paraissait pas revêtir les formes sévères et âpres qui avaient d’abord effarouché un peu notre écolier en vacances. En inspecteur attentif, [MASK] se mit donc à suivre son cousin sur le tâs (fig. 35) en écoutant avec grand soin ses observations.
+
+['qui', 'il', ',', 'et', 'le']	Paul	[MASK] bouillait. « Vous n’allez pas remonter à cheval dans l’état où vous êtes, lui dit le maire ; vous voilà en nage et votre poney est blanc d’écume, reposez-vous un peu et buvez un coup de vin. »
+
+['celui-ci', 'Pierre', 'Jean', 'Charles', 'Louis']	Paul	Ce spectacle parvint à effacer de l’esprit de [MASK] les tristes impressions laissées par les paroles de son père. Sous cet aspect le travail ne lui paraissait pas revêtir les formes sévères et âpres qui avaient d’abord effarouché un peu notre écolier en vacances.
+
+['m', '...', 'bien', 'TT', 'ici']	Paul	L’ARBRE DE LA SCIENCE. Sa mère le regardait d’un air étonné ; quant au père, il devint sérieux et parla ainsi : « [MASK], cette maison plaît à ta mère, telle qu’elle est, elle me plaît aussi à moi ;
+
+['son', 'grand', "l'", 'ses', 'la']	Paul	Aussi avait-il pris l’habitude, pour éviter ces allées et venues qui lui semblaient au moins monotones, de ne rentrer qu’après avoir examiné en détail tous les points qui pouvaient provoquer une question de la part du grand cousin. C’était surtout sur les chaînages que celui-ci avait fixé l’attention de [MASK].
+
+['il', "s'", 'qui', 'a', ',']	Paul	A déjeuner, [MASK] eut à répondre à toutes les questions qui lui furent adressées.... Comment on avait supporté au château les épreuves dernières,... ce qu’était la maison nouvelle,... si elle était avancée.... combien on y employait d’ouvriers.... comment se faisaient les travaux
+
+[',', 'point', 'par', 'en', 'tout']	Paul	Une chose surprenait [MASK], c’était la facilité avec laquelle son cousin exprimait par quelques coups de crayon ce qu’il voulait faire comprendre. Ses croquis perspectifs, surtout, lui semblaient merveilleux, et à part lui, notre architecte en herbe cherchait à indiquer sur le papier les figures dont il voulait se rendre compte
+
+['la', '...', '"', 'HA', 'D']	Marie	Vos affaires vont être suspendues partout ; restez ici, où vous pourrez vous rendre utile aussi longtemps que le pays n’aura pas besoin de vous. « Qui sait ? Si les choses traînent en longueur, nous essayerons quand même de bâtir la maison de [MASK] ;
+
+['il', 'Il', 'on', 'elle', 'et']	Paul	Le grand cousin avait amplement donné ses instructions, les avait fait répéter plusieurs fois ; [MASK] avait pris note des points importants. Il était muni des plans pour donner le nombre des baies, les mains des portes, les surfaces des parquets, les développements des lambris, des cymaises, des plinthes, etc.
+
+['cela', 'celui-ci', 'je', 'ça', 'celle-ci']	Paul	On ne saurait dire ce que pensait le poney de l’allure que [MASK] lui fit prendre par cette chaleur de 25 degrés à l’ombre. Il arriva écumant à la maison neuve, si bien que la plupart des personnes déjà réunies crurent à quelque fâcheuse nouvelle.
+
+['celui-ci', 'Voltaire', 'français', 'celle-ci', 'Dante']	Paul	Pendant les jours de repos dont le grand cousin avait le plus grand besoin, celui-ci revit et corrigea la traduction de [MASK], rectifia ses croquis. Le tout fut mis au net et on atteignit ainsi les premiers jours de mars, où il fut décidé qu’on rouvrirait le chantier.
+
+['maire', 'celui-ci', 'M.', 'maître', 'monsieur']	Paul	» X Une heure plus tard, le grand cousin remettait à [MASK] le croquis ci-joint, figure 44, donnant la disposition de la bretêche de la salle de billard, afin qu’il en étudiât la construction.
+
+['il', 'Il', 'on', "s'", ',']	Paul	Quand [MASK] avait vu que presque tous les détails étaient donnés aux entrepreneurs, il avait pensé qu’il n’y aurait plus pour lui qu’à surveiller la façon, la mise en place de chaque partie, d’après les instructions du grand cousin ;
+
+['S', '#', 'C', 'N', 'L']	E	Les murs A B sont les pignons qui doivent porter les pannes. Nous avons enCD deux murs de refend qui forment également pignons et recevront de même les pannes. Mais les espacesEC sont trop larges pour recevoir de [MASK] en C des pannes. Entre eux, nous comptons 6 m ,60
+
+['elle', 'on', 'Elle', 'il', 'et']	Marie	Si [MASK] nous demande ce qu’est devenu ce projet et le programme qu’elle avait envoyé, si elle s’informe de nos occupations pendant l’année dernière, nous serons obligés d’accumuler mensonges sur mensonges ; nous nous couperons, et d’ailleurs cela me répugne un peu de ne pas lui parler sincèrement.
+
+[',', '...', 'on', 'en', "l'"]	Paul	— Alors, répondit [MASK] un jour, à quoi sert d’apprendre ? — A être modeste ; à remplir la vie d’autre chose que des préoccupations de la vanité ; à se rendre quelque peu utile à ses semblables, sans exiger d’eux la reconnaissance. »
+
+['chacun', 'peuple', 'homme', 'autrui', 'celui-ci']	Paul	! Tâchez d’apprendre à [MASK] à raisonner, de l’habituer à la méthode, de lui donner l’amour du travail de l’esprit ; qu’il soit architecte, ingénieur, militaire, industriel ou agriculteur comme moi, vous lui aurez rendu le plus grand service.
+
+[',', 'le', 'oncle', 'Jean', 'père']	Paul	Le père Branchu, le lendemain, se trouvait sur le terrain, muni de cordeaux, de piquets, de clous, de broches, d’une grande équerre et d’un niveau d’eau quand arrivèrent [MASK] et son cousin, de bon matin.
+
+['Harry', 'lui', 'William', 'Louis', 'Tom']	Paul	Grande fut la joie de [MASK] lorsqu’il reçut cette nouvelle. Il pourrait être alors dans la famille et jouir de la surprise de sa sœur ; car il craignait surtout que celle-ci n’arrivât pendant qu’il serait au lycée. Cela lui eût semblé désastreux.
+
+['chacun', 'celui-ci', 'tous', 'Jean', 'papa']	Paul	Le grand cousin avait donc enseigné à [MASK] comment, chaque soir, il devait se rendre compte des travaux de diverses natures à exécuter le lendemain, et comment il devait distribuer à chacun son rôle avant de quitter le chantier.
+
+['le', 'on', 'air', '-', 'ce']	Paul	On remédie à cet inconvénient, qui n’est d’ailleurs qu’accidentel, par des trappes bien établies. — Mais, dit [MASK], est-ce que cet air froid des ventouses ne refroidit pas les pièces ? — Cet air froid. arrive dans le foyer même, non dans la pièce
+
+['le', 'à', 'mon', 'alors', 'encore']	Paul	« Pourquoi, demanda [MASK] au grand cousin, les cheminées fument-elles ? — Vous voulez me demander plutôt, répondit celui-ci, pourquoi certaines cheminées fument ? Beaucoup de causes contribuent à faire fumer les cheminées, tandis qu’il n’est qu’une condition pour qu’elles ne fument pas.
+
+[',', 'ouvert', 'le', 'es', 'hom']	Paul	Mais avant tout, faut-il savoir comment se fabrique une porte et ne pas copier au hasard, avant ces premières connaissances pratiques, les formes diverses qui ont été adoptées, bonnes ou mauvaises. » [MASK] resta pensif tout le reste du jour ;
+
+['</s>', 'il', 'et', 'ne', 'Il']	Paul	Ainsi se rendait-il un compte exact de la structure de chacun des morceaux de pierre mis en œuvre. [MASK] commençait donc à tracer proprement un détail d’architecture, et son cousin ne manquait jamais de répondre à chacune des questions qui lui étaient adressées.
+
+['on', 'tout', 'elle', 'et', 'On']	Marie	; [MASK] l’aime, elle est intelligente et se porte bien. Ils subiront l’épreuve avec succès, je n’en doute pas, et nous reviendront comme deux bons camarades, ayant appris à se bien connaître, à s’entr’aider et à se suffire ;
+
+['lecteur', 'docteur', 'effet', 'chapitre', 'Docteur']	Paul	Tiens, dit-il à [MASK], voilà un chapitre qui doit être intéressant et qui peut t’enseigner beaucoup de choses, c’est le chapitre VIII : De generibus structurœ et earum qualitatibus, modis ac locis. Comment traduirais-tu ce titre ?
+
+['toi', 'moi', 'toi-même', 'qui', 'elle']	Marie	Eh ! la chose n’est point si avancée. Tu veux faire un projet de maison pour [MASK] ; soit, essaye donc. Mais avant tout, il serait bon alors de savoir ce que désire ta sœur, comment elle entend que sa maison soit distribuée.
+
+['dans', 'de', 'le', 'pour', 'que']	Paul	; vous savez bien où il y en a. Vous avez fait prendre celui-ci à côté, il n’est bon que pour mettre dans les reins des voûtes des caves comme remplissage ; ne le laissez pas employer dans le mortier, vous entendez, [MASK] !
+
+['et', 'il', 'Il', 'qui', 'Et']	Paul	Aussi fut-elle accueillie plutôt avec tristesse qu’avec un sentiment de soulagement. Peu de jours après, le grand cousin revenait au château. Il n’est besoin de dire qu’il y fut accueilli à bras ouverts. [MASK] surtout manifestait sa joie. On parla de reprendre les travaux.
+
+['NON', 'ceci', '-', 'il', 'on']	Paul	.... Voilà des lits maigres, père Branchu ; il faut les faire retailler. — Qu’est-ce qu’un lit maigre ? dit [MASK], tout bas, à son cousin. — C’est un lit de pose, concave ; » et prenant son calepin :
+
+['le', "l'", 'un', 'il', 'son']	Paul	Le grand cousin en marqua un certain nombre avec son couteau, laissant de côté celles qui étaient torses, noueuses ou roulées. « Qu’est-ce donc qu’une pièce de bois roulée ? » dit [MASK]. — Les bois roulés sont ceux dont les fibres tournent en spirale autour du cœur.
+
+['"', 'monsieur', 'cela', 'Monsieur', '...']	Paul	— « Vous voudriez toujours qu’on vous donnât des recettes, [MASK], lui répondit le grand cousin. Or, il n’y a pas plus de recettes pour tracer des profils qu’il n’y en a pour toutes les autres parties de la construction.
+
+[',', 'de', 'un', 'les', 'se']	Harpe	[MASK]. Saillie que forme une pierre d’appareil pour se relier à une construction de moellons ou de briques. Jambage. Montant vertical d’une fenêtre ou d’une porte. Ne s’emploie que s’il s’agit de montants de pierre ou de maçonnerie. Jet
+
+['cousin', 'il', ',', 'qui', 'et']	Paul	[MASK] voulut tout voir et, au bout d’une heure, son cousin le laissa vaguer à son aise dans la maison, ayant donné rendez-vous à quelques ouvriers pour régler certains détails. Le soleil était déjà bas quand on songea à retourner au château.
+
+['on', ',', 'de', 'le', 'se']	Paul	et ainsi [MASK] apprenait à observer, à réfléchir, et il s’apercevait chaque jour combien il faut recueillir de connaissances pour faire peu de chose. Le grand cousin ne manquait pas de lui répéter souvent ceci : « Plus vous saurez, plus vous reconnaîtrez qu’il vous manque de savoir
+
+['cards', 'V', ',', 'tous', 'R']	Paul	Arrivés ce matin, bonne santé. [MASK] a excellente idée. Rez-de-chaussée, vestibule, salon, salle à manger, office, cuisine pas dans sous-sol, billard, cabinet travail. Premier, deux grandes chambres, deux cabinets toilette, bains ; petite chambre, cabinet de toilette
+
+['et', ',', 'il', 'elle', 'Elle']	Paul	[MASK] s’empressa de monter à la chambre de sa sœur. Entièrement tendue de perse, avec un simple stylobate brun, cette pièce était d’une grande simplicité. Le plafond, établi comme ceux du rez-de-chaussée, lui donnait toutefois une physionomie originale et gaie.
+
+[',', 'F', 'posant', '10', 'S']	B	Ainsi, quand on fait les déblais à la brouette — et c’est, vous l’avez vu, le moyen que nous employons — on trace la surface que doit occuper ce cavalier sur le sol : soit en A [MASK] (fig. 22) comme longueur
+
+['enfants', 'famille', 'tous', 'fils', 'enfant']	Paul	Il fut décidé que pendant cet intervalle, le grand cousin donnerait à [MASK] les premières notions de la construction d’une habitation, que ce cours serait fait le matin, et que dans l’après-midi notre architecte en herbe rédigerait la leçon, laquelle serait corrigée en famille le soir.
+
+['Jean', 'celui-ci', 'Charles', 'chacun', 'lui']	Paul	; mais [MASK], de son côté, accablait son cousin de demandes. « Et les menuiseries font-elles bien ? Et la peinture ? De quelle couleur est le salon ? Et le plombier ? A-t-il mis sur le toit la crête qu’il promettait ?
+
+['le', "l'", 'M.', 'cela', 'la']	Paul	Les lamentations ne servent à rien ! Travaillez ! — Allons visiter le chantier, » dit le grand cousin, qui voyait que [MASK] demeurait pensit et n’était guère disposé à se remettre au travail. CHAPITRE XIII LA VISITE AU CHANTIER. La bâtisse commençait à prendre tournure
+
+[',', 'il', 'on', 'lui', 'se']	Paul	Un teint basané, l’œil clair, le nez aquilin, donnaient à sa physionomie un certain air martial qui plut tout d’abord à notre apprenti architecte. Une lettre du grand cousin l’avait informé des circonstances qui faisaient que [MASK] s’adonnait depuis six mois à la bâtisse
+
+['se', '...', 'de', 'maître', '-']	Marie	— Cependant, vous n’avez pas paru lui accorder ce qu’il demandait. — Et que demandait-il ? — Mais.... vous le savez bien.... Il aurait désiré que la maison de [MASK] fût.... plus.... — Plus quoi ? — Plus.... moins sévère ;
+
+[',', 'de', 'il', 'le', "qu'"]	Paul	[MASK] se fit expliquer la fonction de ce siphon, ce qu’il eut vite compris, puisqu’il en avait fait avec des tuyaux de plume et de la cire, et avait ainsi vidé des verres d’eau. Il n’avait jamais supposé que ce petit appareil hydraulique pût recevoir une si formidable application.
+
+['</s>', ',', 'de', '.', 'le']	Paul	[MASK] se fit expliquer également la disposition des portes, le radier, le busc ou seuil sur lequel devaient butter les vantaux busqués de l’écluse, c’est-à-dire présentant un angle obtus vers l’amont, pour résister à l’action du courant.
+
+['le', 'de', 'certains', 'très', 'en']	Paul	« Cette suspension des travaux, dit le grand cousin, en reprenant le chemin du château, va nous permettre d’étudier les détails de la construction sans nous presser. — Oui, répondit [MASK] ; mais je voudrais bien savoir comment vous vous y prenez, lorsqu’il s’agit de tracer un détail
+
+['son', 'un', 'lui', 'le', 'sa']	Paul	Le grand cousin, qui, comme on peut le supposer, avait par avance conçu, sinon tracé, toutes les parties de la construction, eut bientôt fait d’établir ce profil devant [MASK], qui s’émerveillait toujours de voir avec quelle promptitude son patron arrivait à tracer sur le papier un détail de construction.
+
+['Il', 'Elle', 'il', 'elle', 'On']	Paul	Puis revenez. » [MASK] ne se le fit pas répéter, tant l’immobilité lui semblait chose impossible. Il aurait donné à ce moment dix ans de sa vie pour que sa sœur se décidât à monter en voiture.
+
+['la', "l'", 'X', 'A', 'I']	V	De ce point nous tracerons les 13 autres marches pour faire le nombre de 26, comme je le marque sur le bout de plan supplémentaire en N. Puis, pour l’élévation, nous procéderons comme ci-dessus. Nous obtiendrons alors le tracé général de [MASK] en X pour les deux étages.
+
+['...', ',', '(', 'la', "l'"]	Marie	— C’est un large balcon couvert et le plus souvent fermé des deux côtés, mais s’ouvrant sur sa face, soit au rez-de-chaussée, soit aux étages supérieurs, sur la voie publique ou la campagne. — Pourquoi ne ferait-on pas une loggia à la maison de [MASK]
+

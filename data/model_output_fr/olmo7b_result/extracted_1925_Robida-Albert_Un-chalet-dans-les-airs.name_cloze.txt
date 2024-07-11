@@ -1,0 +1,200 @@
+""	Mélanie	— Pas de danger ! Monsieur, dit le pilote ; avant de partir, j’ai enrayé l’énergie intra-atomique, le moteur ne bougerait pas.... D’ailleurs, je redescends avec [MASK], je connais le pays, et puis j’ai oublié ma pipe. — Bon
+
+""	Andoche	A l’avant, voici la logette de direction... [MASK], veux-tu bien ne pas toucher à la roue ni aux boutons de direction, tu vas nous faire faire un bond dans le ciel et enlever tes parents à 200 à l’heure ! — Malheureux !
+
+""	Modéran	« A demain les affaires sérieuses ! — Tiens ! dit [MASK], qui venait de passer de l’autre côté de la maison, voyez donc par ici... Une lune, deux lunes, dix lunes, cinquante lunes ! » Cela faisait bien des lunes ;
+
+""	Andoche	... — Il y avait de quoi, dit [MASK] ; nous, les jeunes, nous savons ce qui est arrivé ; nous acceptons l’événement sans penser à toutes les émotions, aux terreurs formidables par lesquelles les gens ont dû passer avant le dénouement. Brrr
+
+Quasimodo	Mélanie	Quels ennuis nous inflige ce pilote de toute, confiance !... Mon Dieu ! pourvu qu’il ne tripote pas dans mon grand ouvrage, que j’ai laissé sur mon bureau... Et dites-moi, [MASK], vous ne vous étiez aperçue de rien avant la fuite ?
+
+Quasimodo	Mélanie	« Sales bêtes ! Est-ce un bec d’oiseau ou une tête de crocodile ? Tu n’entreras pas ! criait [MASK]. D’autres ptérodactyles arrivaient, leurs grandes ailes déployées du bout de leurs longs bras à l’extrémité de leurs pattes, moitié chauves-souris gigantesques et moitié crocodiles.
+
+La Tour	Phanor	[MASK], qui ne voyait pourtant pas le gibier, aboyait enfermé dans une chambre, mais la Villa remontait. Le paysage devenait vraiment d’un pittoresque fantastique. Après tout, en se maintenant toujours à vingt-cinq ou trente mètres, on ne pouvait rien craindre.
+
+Monsieur le Commissaire	Cabrol	— Monsieur le Commissaire, reprit [MASK], je vais vous communiquer les papiers du bord et vous donner toutes les explications nécessaires ; puis, en recommandant le coupable à votre indulgence, nous reprendrons notre voyage interrompu ; des affaires sérieuses m’appellent à un millier de kilomètres d’ici
+
+""	Andoche	La Villa les intéressait beaucoup et la vue des hommes ne les effarouchait aucunement. [MASK] préparait son objectif sur le balcon. Bientôt il eut quelques clichés d’individus remarquables. Puis les singes, se familiarisant assez vite, devinrent indiscrets ;
+
+""	Arabella	— Tout à fait, [MASK]. — Alors, vous devenez partie civile et moi, défenseur de ce pauvre homme, le pilote, innocente victime d’une coupable obsession, qui serait peut-être en droit de réclamer des dommages et intérêts.... C’est entendu....
+
+Quasimodo	Phœbus	— Alors, dépêchons-nous. — Pas si vite... Ah ! voilà [MASK] qui s’enfonce ; nous allons rentrer dîner et puis, à 21 h. 35, un mot à la famille dans le Télé ; ensuite repos, sommeil, réveil demain à 6 heures.
+
+La Villa	Modéran	La Villa descendait trop, on allait raser les broussailles et s’embourber dans la mare. Mais le cliché était pris, on pouvait remonter. « Des pingouins ! » cria [MASK]. Sur une crête rocheuse, des pingouins alignés tenaient conseil et semblaient regarder la Villa avec ahurissement.
+
+Jeremy	Andoche	Je vous l’ai raconté maintes fois ; moi aussi, dans ma jeunesse, j’étais aventureux comme [MASK] et je n’avais pas un frère cadet pour me freiner. Je me suis laissé tenter par les affiches des agences. J’ai fait un grand voyage dans la Lune.
+
+La Hire	Modéran	Au deuxième pin, quand de nouveau on s’égara tournant en rond dans l’épaisseur du bois, les points de repère embrouillés, ce fut [MASK] qui demanda à monter le plus haut que l’on pouvait monter, pour découvrir la bonne direction.
+
+""	Modéran	! — Descends, ce ne sera rien ! » [MASK] descend aussi vite que possible, en secouant sa main et en se grattant dans le cou. « As-tu trouvé la direction ? — Oui, par là, c’est facile, toujours tout droit...
+
+Hector	Andoche	Décidément tout va bien, les sauvages sont des amis. [MASK] a son objectif en bandoulière. Il voudrait bien faire un cliché de ce déjeuner sur l’herbe avec ces Peaux-Rouges à mine rébarbative, derniers représentants de races disparues ou fondues dans la masse universelle et banale des peuples civilisés.
+
+La Haine	Modéran	[MASK] n’en revenait pas et se frottait les yeux, aux premiers instants. Plus d’envoloir, plus de ces grandes carcasses de fer qui découpaient, quadrillaient et triangulaient le ciel et la terre, ni d’atmosphère entourbillonnée de vapeurs jaunes ou noires.
+
+Les singes	Phanor	Tenus en respect par [MASK], ils cabriolaient dans leurs arbres et bombardaient de loin la Villa. Quand la Villa partit, dans l’après-midi, son départ fut salué par de nouvelles salves de noix de coco, et les singes, se croyant vainqueurs de leurs envahisseurs, dansèrent une farandole guerrière sur le sable.
+
+Elphaba	Mélanie	; [MASK], remise de ses émotions, jurait qu’elle n’avait pas eu peur du tout, et qu’elle regrettait de n’avoir pu casser son balai sur le museau de ces grandes volailles ridicules, parce qu’on ne lui en avait pas laissé le temps...
+
+Quasimodo	Mélanie	Et on lui montre le gibier que l’on vide et pépare, et les tranches saignantes des rôtis, les lapins fricassés dans les grossiers poêlons de terre rouge. [MASK] regarde avec de telles marques d’étonnement et de défiance que les Indiennes doivent lui faire presque de force goûter à leur cuisine.
+
+Andoche	Modéran	Bon... Je prends la direction. Vous deux, Andoche et [MASK], ayez l’œil à tout ; veillez à tribord et à bâbord ; il s’agit de ne pas casser du bois à nos voisins, ni à nous... pas d’avaries ici, surtout !
+
+la voie	Vaugirard	! Dès aujourd’hui on peut affirmer que le train, détourné de sa voie par d’audacieux malfaiteurs au croisement d’une ligne en construction, deuxième réseau, deuxième étage, à travers les Catacombes, s’enfonça dans les galeries jusque sous [MASK]. Alors...
+
+Quasimodo	Phanor	Deux ou trois jeunes avaient grimpé sur le toit et se hissaient jusqu’à la girouette, d’autres allaient entrer délibérément par les fenêtres. Ce fut alors que [MASK], débonnaire jusque-là, se fâcha et bondit en leur aboyant des reproches furieux. Cela suffit.
+
+""	Andoche	— Où est-elle, cette douane ? — Le bâtiment là-haut, sous les grands arbres, répondit le pilote. Je connais, je suis venu déjà. — Bon ! dit [MASK] se lançant à l’escalade.
+
+""	Mélanie	Alors mon devoir... — Nous sommes à 7 ou 800 mètres d’altitude, [MASK], je ne veux pas vous renvoyer... — Monsieur ne ferait pas ça... — Non. Vous me tyrannisiez à la maison, soit, vous allez continuer ici...
+
+Le Roi	Andoche	Son Excellence fit passer au Télé quelques grands films de paysages astraliens fort pittoresques, puis un film plus dramatique, pris à l’arrivée du premier dirigeable japonais, le premier jour, parmi les débris des expéditions anglaise et américaine. [MASK], puissamment intéressé, déclara qu’il aurait bien voulu être là.
+
+Les oiseaux	Andoche	D’autres ptérodactyles arrivaient, leurs grandes ailes déployées du bout de leurs longs bras à l’extrémité de leurs pattes, moitié chauves-souris gigantesques et moitié crocodiles. [MASK], au balcon, essayait de viser avec son pistolet-mitrailleuse, mais il ne pouvait se pencher suffisamment.
+
+Je ne me sentais pas en train	Barlotin	dit-il. — Ma foi non, je ne me sentais pas en train, je prendrai celui d’après-demain, répondit [MASK]. — En effet, vous êtes un peu rouge. Il fait un peu chaud ici. Est-ce le climat qui ne vous va pas
+
+La Hire	Andoche	Le corps massif, avec plusieurs rangées de dards partant des épaules et se hérissant jusqu’au bout de la longue queue, se redressait, porté sur de grosses jambes armées d’ongles formidables. « Vilaine bête ! dit [MASK].
+
+Quasimodo	Andoche	» Cinq minutes après, on tournait du mauvais côté. Troisième pin. C’est [MASK] qui veut monter pour être bien sûr de ne plus commettre d’erreur. Il redescend joyeux. « Un petit quart d’heure et, cette fois, nous y sommes !
+
+La mer	Andoche	Le ciel restait limpide, toujours d’un azur sans nuages, mais la mer n’était plus si vide. On apercevait au loin quelques îles, de minuscules taches vertes qui devaient faire partie de l’archipel des Marquises. [MASK] bondit de joie, on approchait.
+
+La Fontaine	Tokio	sa caverne était pleine d’ossements, ainsi que la gorge lugubre au fond de laquelle elle s’ouvrait. Peut-être avons-nous perdu, par sa goinfrerie, quelques animaux intéressants.... La carcasse impressionnante du monstre — dix-huit mètres de la tête à la queue — est à [MASK].
+
+""	Cabrol	nous n’avons rien vu de la famille de nos vautours. — Et, dit [MASK], aucun être approchant quelque peu de nos premiers représentants de la famille humaine de l’âge des cavernes ? — Rien. — Et de nos races pithèques, de nos grands singes
+
+La Hire	Astra	Ah ! ce dut être un bien autre bouleversement que l’arrivée d’[MASK], ce départ d’un morceau de notre globe, au moment d’une dislocation de la carcasse terrienne, amenée par quelque explosion du feu central... Tâchez de vous imaginer cela !
+
+les	Andoche	ils tournèrent pour essayer d’attaquer la Villa par le flanc, où les balcons pouvaient faciliter l’abordage. Les grandes ailes battaient furieusement, les bêtes féroces montraient leurs fortes dents affamées. On entendait des cris rauques et des sifflements. Lorsqu’[MASK] les vit à bonne portée, il réussit à prendre deux clichés.
+
+Quasimodo	Andoche	— Oh ! mais, fit [MASK], il y a l’enclos du Muséum, entouré de triples barrières et de grilles formidables. Je ne sais pas ce qui se passe derrière, mais on y entend un singulier vacarme.
+
+""	Andoche	— Mais nous sommes très heureux de l’aventure, Excellence ! Joli souvenir de voyage... — Et nous avons deux clichés, Monsieur le Gouverneur ! dit [MASK]. — Vous me les ferez voir ? Alors vous êtes contents de la promenade ? — Nous sommes ravis !
+
+Le Phonographiste	Phanor	Ici, [MASK] ! — Gentil comme séjour. J’ai déjà repéré je ne sais combien d’endroits pour nous rouler sur le sable, ou sur l’herbe, quand le sable sera trop chaud. — Mon oncle, est-ce que l’Universitaire Phono peut se dévisser ?
+
+Papa	Modéran	— Eh bien, on le passera ! déclara [MASK]. — Donc, redouble d’ardeur, je compte sur toi ! il me faut la mention Plus que bien ! — On l’aura, papa, on l’aura ! » XX
+
+La Hire	Modéran	« Tranquillisez-vous ! avant que ces bêtes aient pu se dépêtrer avec leurs ailes dans toutes ces broussailles, nous serons loin, je vais accélérer la vitesse. — Vite ! mon oncle, en voilà qui montent ! » cria [MASK].
+
+""	Barlotin	Il arriva encore vaguement endormi. « Eh bien ! [MASK], vous avez encore manqué le dirigeable avant-hier. Comptez-vous prendre celui d’aujourd’hui ? — Ma foi, je ne sais pas trop. Je me sens tout malade et le climat d’ici me convient assez.
+
+""	Barlotin	« Eh bien, eh bien, où êtes-vous donc ? Vous avez quitté l’Envoloir new-yorkais ? L’affaire est terminée plus vite que vous ne pensiez... Et [MASK], à quoi est-il condamné ? — L’affaire n’est pas encore venue au tribunal ;
+
+Quasimodo	Andoche	Mais que trouverons-nous parmi ces rochers, dans ces ravins, au fond de ces bois d’aspect si farouche ? Je voudrais un peu m’en rendre compte avant de m’y risquer. Que rencontrerons-nous ? — Des fossiles, fit [MASK] en éclatant de rire.
+
+Monsieur le Maire	Barlotin	Et nous avons pris le large aussitôt, très regrettés par le garage, mais bien contents de filer à tire d’ailes. — Très bien ! très bien ! — [MASK] s’en tirera comme il pourra... J’ai recommandé le pauvre diable à l’indulgence du tribunal...
+
+La police	Babylas	; le commissaire me l’a dit, mais il m’a rassurée. — La police veille, qu’il m’a dit, et on rattrape ces filous ! On rattrapera le nôtre, ce Barlotin qui a emporté [MASK], le pauvre innocent !
+
+La route	Barlotin	— Une fois la direction prise, il n’y a qu’à laisser. courir. Vous avez bien vu que [MASK], dans sa logette, dormait sur ses instruments.... Il n’avait qu’à donner de temps en temps un coup d’œil à l’Enregistreur de route.
+
+Quasimodo	Andoche	— Oh ! fit [MASK]. — Voyons, nom d’un petit bonhomme ! Tu dois bien savoir que le voyage présente tout de même quelques difficultés.. Tu trouves cela alléchant, les grosses difficultés, avec ta mentalité de casse-cou, mais tu verrais...
+
+La Colline	Andoche	; [MASK] n’eut pas besoin de grimper jusqu’en haut pour reconnaître la colline où la Villa Beauséjour était amarrée. Aucun doute, il distingua même à la lorgnette le toit de la Villa ; ce n’était pas trop loin, un kilomètre tout au plus.
+
+Barlotin	Andoche	— Non, inutile de se presser. Nous coucherons à l’aéroport. » La pipette, qui n’avait cessé de fonctionner, projeta un large anneau de fumée et le pilote resomnola. « Pas bavard, le père Barlotin, murmura [MASK] se remettant au balcon.
+
+La campagne	Andoche	Nous pourrions trouver pour la nuit un garage dans une ville, mais j’aime mieux la campagne. — Et nous aussi ! » Une demi-heure après, comme la nuit venait tout à fait, [MASK] signala, au fond d’une vallée boisée qui ressemblait
+
+""	Modéran	il se gouverne lui-même, il a donc une politique, un conseil d’administration, des diplomates. — Des diplomates qui n’ont pas grand chose a faire, dit [MASK]. — Peut-être... A ses débuts cela n’alla pas tout seul.
+
+Andoche	Modéran	ils en avaient pour trente-cinq ans de captivité, comme le prisonnier de cette vieille Bastille, où la vue sans doute était plus agréable qu’au-dessus de ces volcaniques entassements d’usines. Andoche et [MASK] voyaient leur oncle préoccupé, mais n’osaient rien lui demander.
+
+La ville	Cabrol	Cela faisait un magnifique paysage, malheureusement déjà fortement touché par l’immense bouleversement de la reconstruction mondiale. « Installez-vous, les enfants ! dit [MASK], qui montrait encore un peu de mauvaise humeur, sans doute causée par ce changement dans ses habitudes casanières.
+
+Phoebus	Cabrol	; il vous sera loisible de revenir, si vous voulez, pour assister aux débats et entendre le jugement. — Merci ! Merci ! dit [MASK]. Alors nous pouvons nous en aller, vraiment ? — Quand vous voudrez. »
+
+""	Modéran	. Puis ce fut la sieste dans de bons fauteuils, quelques heures de bon repos. « Un petit concert ? dit [MASK]. — Non, un peu de théâtre... Quoi ? Pas quelque chose de triste ni de... ni de... — Bon !
+
+Paris	Modéran	Voilà qui nous change des platanes maladifs de nos boulevards, rongés par toutes les exhalaisons chimiques de nos usines ou des véhicules industriels et les courants d’ondes de toutes sortes qui s’entrecroisent dans notre pauvre atmosphère !.... Respirons, respirons largement cet air non pollué. — Ce pays me plaît ! s’écria [MASK].
+
+""	Mélanie	« Tranquillisez-vous, [MASK], venez les voir de près, ils ne vous mangeront pas ; ce sont de bonnes gens... Mais comment êtes-vous venue si loin de la Villa ? — Si loin ? Mais c’est tout près, Monsieur, cinq minutes à peine ;
+
+""	X	« La prison est tout près d’ici, eut la bonté de dire le commissaire ; et elle est confortable, bien entendu, tout le confort moderne ; ne vous inquiétez pas pour votre voleur, il y sera très bien. » [MASK] L’AFFAIRE BARLOTIN. «
+
+Quasimodo	Cabrol	A peine sur le balcon de l’Aéro-Beauséjour, [MASK] entendit des éclats de voix dans sa chambre. « Allons ! voilà votre père qui s’impatiente. Voyant qu’on ne lui répondait pas, il a mis l’amplificateur. »
+
+""	Andoche	» On avait assez admiré le coucher du soleil, la nuit tombait, les indigènes retournaient à leurs logis. « A table, sur le balcon, et vivement, il ne fait plus clair. — Bah ! pour déguster deux ou trois pilules ! fit [MASK].
+
+""	Modéran	nous acceptons l’événement sans penser à toutes les émotions, aux terreurs formidables par lesquelles les gens ont dû passer avant le dénouement. Brrr ! — Et la suite ? demanda [MASK]. — Ah ! laissez-moi respirer, il fait si beau ! le ciel est si bleu !
+
+""	Barlotin	Comptez-vous prendre celui d’aujourd’hui ? — Ma foi, je ne sais pas trop. Je me sens tout malade et le climat d’ici me convient assez. — Mais vous n’avez pas l’air si malade que cela, [MASK] ; vous avez assez bonne mine.
+
+""	Modéran	Ah ! c’est parti... C’était un reptile, il est rentré dans, son trou. — Moi, glissa [MASK] approchant à son tour, je vois autre chose là-bas, près de l’eau qui brille... — Oui, une petite mare.
+
+Elle	Modéran	Ses lèvres avaient le rire facile, et, quand elles ne souriaient pas, une expression audacieuse qui s’accentuait dans le regard de ses yeux alertes et vifs. [MASK] avait, aussi bonne mine, des joues aussi roses, il avait le regard caressant, une physionomie plus douce.
+
+""	Ilokusaï	des rochers très découpés, des arbustes bizarrement tordus, une riviérette parsemée de petits rochers, décrivant ses boucles entre de grands roseaux et des bouquets de fleurs, des plaques de nénuphars, tout à fait un paysage tiré des albums japonais des temps lointains, une estampe d’[MASK]
+
+""	Modéran	! fit [MASK]. — Et puis, il faut l’avouer, les travaux de la première grande consolidation entreprise au XXII e siècle, assez mesquinement, avec les simples ressources que pouvait fournir l’état de la Science à cette lointaine époque, ces travaux n’ont pas valu grand chose.
+
+Elle	Phanor	J’aimerais à l’amener dans un bon petit coin sous les arbres, ou dans une des grottes du rivage, pour faire mes devoirs en pleine nature. — Nous verrons cela. » On arrivait à la villa. [MASK] bondit en avant.
+
+Il a fallu attendre	Andoche	Il a fallu attendre.jusqu’à notre époque pour commencer à s’envoyer de loin des messages bien vagues et bien courts et pour essayer de comprendre les réponses. — Mais on ira bientôt les voir de tout près, mon oncle ; je l’espère bien, dit [MASK].
+
+La Comtesse de la Feuillade	Phanor	[MASK], plus raisonnable, surveille les préparatifs sur le balcon. Il a compris, et il paraît tout mélancolique à la pensée d’abandonner un séjour si tranquille. Il est neuf heures. La Villa Beauséjour oscille sur ses bases, elle remue, change de côté, puis tout doucement s’élève en l’air
+
+pilule	MCabrol	[MASK], à son tour, tire de sa poche sa petite boite à pilules et il en offre à la ronde. Les sauvages ont eu sans doute quelques contacts avec la vie civilisée, car ils connaissent les pilules, mais ils n’ont pas l’air de les apprécier beaucoup.
+
+""	Modéran	Je vous indiquerai aussi les régions où le danger des mauvaises rencontrés est grand, puis les parties marquées dangers considérables, et celles qui sont absolument interdites, parce que l’on n’en revient jamais ! — Nous n’irons pas ! s’écria [MASK]. Le gouverneur sourit.
+
+la route	Andoche	qu’est-ce que c’est que ça ? fit [MASK]. Vers l’Ouest, au tournant d’un cirque encadré de hautes falaises au bas desquelles sinuait un petit chemin accidenté, une nouvelle ligne de côtes venait d’apparaître qui se déroulait comme de l’autre côté, avec les mêmes découpures et les mêmes rochers.
+
+Elphaba	Mélanie	— Mes bagages sont là. — J’y suis ! Tous ces paquets que je ne reconnaissais pas, un peu partout dans les armoires... » [MASK] sourit. C’était une femme un peu ample, une femme forte, au physique comme au moral.
+
+Quasimodo	Andoche	C’est évidemment un ancien temple dont tous les coins sont utilisés comme habitations. Toutes les galeries et les chambres sont occupées jusqu’au moindre trou. « C’est assez clair comme cave, dit [MASK] ; mais comme habitation, ça manque un peu de confort moderne...
+
+""	Mélanie	nous causerons de tout cela.... Bien entendu, nous sommes ici pour une bonne petite période, le temps de nous saturer d’azur et de tranquillité. — Avez-vous vu le pilote, Monsieur ? demanda tout bas [MASK] à son maître. — Non, pourquoi ?
+
+Quasimodo	Andoche	; mais ils ont un mètre d’épaisseur, tes crapauds... Descendons un peu... Les vois-tu mieux ? Gonflés et pustuleux, avec des cornes... et même des ailes repliées... Vite un cliché-photo, [MASK] !
+
+Doucement	Mélanie	Les jeunes gens bientôt gagnèrent en avant, mais [MASK], un peu forte, soufflait : « Doucement ! doucement ! ». Il fallut dix bonnes minutes pour arriver en haut, devant la douane médicale, qui planait sur un horizon vraiment splendide.
+
+""	Cabrol	! fit [MASK] en riant, pas tous, non, c’est trop. Je me contenterai de mes deux grands travaux, bien avancés déjà ! — Quels ? — Vous savez bien ! — Ceux que le monde savant attend si impatiemment depuis... faut-il le dire ? depuis vingt-cinq ou trente ans ?
+
+Oui	Andoche	— Oui, dit [MASK], et le déjeuner que nous oublions ? — Tout de suite, quand j’aurai un peu réfléchi à la situation.... Mais votre appétit réclame, soit ! Je réfléchirai après.... Nous allons d’abord.... » Une sonnerie rètentit au Télé de la villa.
+
+Hortense	Phanor	! si quelque grand ptérodactyle, évitant pièges et barrières, s’en venait tomber du ciel sur la Villa Beauséjour ? Il haussa les épaules en se traitant de poltron et se rendormit. Mais justement [MASK], couché sur la descente de nuit, gronda sourdement en rêve.
+
+Quasimodo	Andoche	— C’est le plus sûr. — Ou bien, fit [MASK] vexé, voici la tête d’un Plésiosaure que j’ai abattu une nuit à l’affût... Je vois déjà les gens roulant des yeux énormes et j’entends le murmure flatteur.
+
+La Tour	Modéran	Là, nous trouverons tous les renseignements nécessaires, plus quelques conseils qui ne nous seront pas inutiles. — Eh ! mon oncle, quelques maisons, là-bas ! » [MASK], qui fouillait la côte avec sa lorgnette, montrait, à quelques kilomètres tout au plus, des taches blanches et des toits rouges.
+
+""	Babylas	« Je ne trouve pas [MASK], Monsieur le Commissaire, qu’est-ce qu’il en a fait ?... Il me l’a jeté dans le lac, Monsieur, ou laissé tomber seulement ; il faut qu’il le dise !... — Non, non, gémit
+
+Quasimodo	Phanor	; c’était [MASK] qui répondait. Ami des sports, lui aussi, il s’était encarlingué avant ses maîtres, et, s’étant installé à l’avant, il regardait le paysage, presque sur le dos du mécanicien, sans se soucier de ses protestations.
+
+La Hire	Babylas	[MASK], plus sage en ses allures, se glissait dans le feuillage, explorait prudemment l’intérieur des buissons, se balançait indolemment dans les lianes ou grimpait aux arbres à la poursuite d’oiseaux qui se moquaient bien de lui et le persiflaient, posés en brochettes sur les basses branches.
+
+Madame de la Feuillade	Astra	L’épouse de son Excellence, une très charmante dame, aimait beaucoup cette île, où elle résidait depuis les premiers mois de la chute d’[MASK]. Arrivée très à contre-cœur, uniquement pour suivre son mari, elle avait connu les difficultés et les dangers des premières années.
+
+La bousculade dans un embarras d’étoiles	Andoche	au delà de dix ou douze zéros, c’est fini pour moi. Donc l’Observatoire observe une toute petite chose qui devait être une explosion de soleils, un tremblement de mondes.... — Oui, une bousculade dans un embarras d’étoiles, fit [MASK]. — Probablement
+
+""	Andoche	— Gentilles bestioles ! fit [MASK]. — Les voyez-vous, nos ours blancs, habitués à leurs plaines immuablement blanches, à leurs icebergs, à la solidité de leurs océans de glace, bousculés aux premières explosions de la banquise, quand arrivèrent en trombes brûlantes les flots des mers tropicales
+
+Je suis fâché	Phanor	D’abord il s’est fâché contre [MASK], qui m’avait suivie, et contre moi, parce que je ne parlais pas américain, alors je me suis fâchée aussi et je lui ai dit des sottises en limousin, pour qu’il ne comprenne pas tout à fait.
+
+Mademoiselle	Babylas	« Maintenant je suis tranquille, vous pouvez continuer, Monsieur le Commissaire. » La gouvernante, la figure épanouie, passait doucement une main sur le dossier des chaises, comme pour caresser la maison retrouvée et, de l’autre, pressait [MASK] sur son cœur.
+
+Hiawatha	Mélanie	Quelques bonnes journées ensuite, employées à des parties de chasse, à des excursions sous bois avec les Indiens. [MASK], toute la journée, a des visites : les femmes de la tribu, curieuses et questionneuses. Malheureusement on ne s’entend guère et il faut converser par gestes.
+
+""	Andoche	! dit [MASK]. — Aussi, dans notre provision de pilules et de cachets gustatifs, ai-je pris pour les dimanches et les grands jours de bons petits plats soignés : poulets rôtis, canards à la rouennaise, côtelettes d’agneau, chevreuil, civet dé lièvre, andouilles de Vire, truite saumonnée ;
+
+Quasimodo	Barlotin	Il jeta les hauts cris en apprenant l’événement. « La Villa volée ! Et volée par [MASK], un homme sûr, un pilote de tout repos ! Ce n’est pas possible... Je le garantissais à tous mes clients pour les petits voyages tranquilles dans notre ciel
+
+""	Modéran	Une fois le premier wagon rendu à la lumière, les ingénieurs ont fait presser le travail, on a pu se glisser jusqu’au bout du train à la machine motrice... Les wagons sont tous là. — Et les voyageurs ? demanda [MASK]. — Eux aussi !
+
+Quasimodo	Mélanie	dit [MASK] en poussant un soupir de soulagement, je me défie des savants... j’en ai peur. Mais je suis plus tranquille si c’est si vieux que ça et je peux aller préparer mon déjeuner... Dans cinq minutes, Monsieur, les pilules seront servies...
+
+Hector	Albion	[MASK] disait : « Cet archipel nouveau, construit avec des matériaux à vous, vous appartient, c’est entendu... Mais moi je me sens naturellement la mère de toutes les îles, et je vous ouvre les bras... Vous ne voulez pas ? Soit encore !
+
+M. de Villefort	Barlotin	[MASK] avait dédaigné de prendre connaissance du grand travail d’érudition de son patron. « Il n’a pas eu le temps de rien déranger, dit le commissaire, et cela grâce à la vigilance de nos avions de police, on peut le dire, car il a été signalé très rapidement et poursuivi aussitôt.
+
+Elle	Andoche	Vous nous avez laissés au moment où les gens de la Terre commençaient à craindre quelque chose J’aurais bien voulu être là, dit [MASK]. — Diable ! J’étais là, un peu plus tard, quand elle tombait vraiment, et j’ai frémi comme tout le monde
+
+""	Modéran	demanda [MASK] — Hélas ! sur la grande place du Pouliguen, alors qu’ils devaient se croire presque sauvés, il y avait la tente d’un cirque que l’eau menaçait d’emporter. Les gens, sous les dernières vagues, travaillaient à en consolider l’amarrage ;
+
+""	Astra	Tu ne sais pas ? Qu’est-ce qu’on apprend donc dans les collèges ? Que vous enseigne votre Universitaire Télé-Universel ? — Tout, mais dans l’ordre. — Nous n’en sommes pas encore à l’histoire moderne et [MASK] n’a pas tout à fait vingt ans.
+

@@ -1,0 +1,200 @@
+['Kennedy', 'Roosevelt', 'Pierre', 'Lénine', 'Paul']	Tartarin	« Arrêtons-nous un moment », dit [MASK]. Un sérac de glace gigantesque leur creuse un abri à sa base ; ils s’y glissent, étendent la couverture doublée de caoutchouc du président, et débouchent la gourde de rhum, seule provision que n’aient pas emportée les guides.
+
+['Pierre', 'Jean', 'Albert', 'Marie', 'Max']	Tartarin	La tenue de l’Alpiniste, ses lunettes, son accent, il n’en fallait pas plus pour le confondre avec un de ces agents. « Coquin de sort ! vous m’y faites penser, dit [MASK]… ils avaient tout le temps sur leurs talons un sacré ténor italien…
+
+['la', 'le', 'fièrement', 'Dieu', 'Paris']	Tarascon	» et, tout bas, il le sollicite d’honneur, invoque [MASK], la bannière, le Club des Alpines… « Ah ! vaï , le Club… je n’en suis pas », répond l’autre cyniquement.
+
+['tous', 'nouveau', 'part', 'Pierre', 'eux']	Tartarin	» les délégués : « Ni ceux-là non plus… On s’est trompé. Le préfet, furieux, à [MASK] : « Mais, alors, qu’est-ce que vous faites ici ? — C’est ce que je me demande, vé ! …
+
+['tous', 'chacun', 'nouveau', 'distance', 'autrui']	Sonia	À distance, c’est à peu près le même cri, comme ceci, té ! » Pour donner à [MASK] une exacte impression de la chose, il poussait de son creux le plus sonore un « Meuh… » formidable, qui s’enfla, s’étala, répercuté par l’écho de la roche.
+
+['Jean', 'Pierre', 'Joseph', 'Martin', 'Jacques']	Inebnit	Un moment la crête devint si étroite qu’il fallut se mettre à califourchon, et, pendant qu’ils allaient lentement, s’aidant des mains, une formidable détonation retentit à droite, au-dessous d’eux. « Avalanche ! » dit [MASK],
+
+['Il', 'Elle', 'il', 'On', 'Jean']	Tartarin	jamais le président n’a manqué son coup. » [MASK] regretta de n’avoir pas apporté sa carabine. « Attendez donc, je vais parler au patron. » Il se trouva justement que le patron était un ancien chasseur de chamois ;
+
+['elle', 'Pierre', 'Marie', 'Jean', 'Charles']	Tartarin	et, voulant graduer la surprise : « Je suis chasseur, effétivemain … » Elle continua sur le même ton d’ironie : « Et quel gibier chassez-vous donc, de préférence ? — Les grands carnassiers, les grands fauves… fit [MASK], croyant l’éblouir.
+
+['chacun', 'Pierre', 'Jean', 'Jacques', 'Moïse']	Tartarin	!... Mossié !... » Un de ses guides le secouait pour le départ pendant que l’autre versait du café bouillant dans les bols. Il y eut quelques jurons, des grognements de dormeurs que [MASK] écrasait au passage pour gagner la table, puis la porte.
+
+['Il', 'Elle', 'Chacun', 'Lui', 'On']	Tartarin	; mais la pente devenait de plus en plus raide, les roches plus escarpées, avec des fondrières à droite et à gauche. [MASK] tenait la tête, se retournant à chaque instant pour aider les délégués, leur tendre la main ou sa carabine. «
+
+['il', 'elle', 'on', 'et', 'Il']	Tartarin	; ils étaient émus, tout tremblants de l’effort, [MASK] dut leur passer sa gourde de kirsch pour raffermir leurs jambes. Lui paraissait dispos et calme, et tout en se secouant, battant la semelle en mesure, il fredonnait au nez des guides ébahis.
+
+['monsieur', 'Monsieur', 'madame', 'Madame', 'hein']	Tartarin	Mais l’invasion des alpinistes tarasconnais, allumés par le champagne, donna, comme on pense, quelques distractions aux jeunes convocatrices. Jamais ces charmantes personnes n’avaient vu prendre le café avec tant de mimiques et de roulements d’yeux. « Du sucre, [MASK] ?
+
+['il', 'Il', 'on', 'Kennedy', 'elle']	Bézuquet	; enfin [MASK] continua, s’épongeant le front, soufflant comme s’il venait de monter cinq étages. Différemment, cette bannière que leur président réclamait pour la planter sur les cimes vierges, allait-on la ficeler, l’empaqueter par la grande vitesse comme un simple colis
+
+['Il', 'Lui', 'Jean', 'Paul', 'Monsieur']	Bézuquet	[MASK], maintenant, marche à grands pas devant sa porte, tour à tour rose ou vert, selon qu’il passe devant l’un ou l’autre de ses bocaux. Il lève les bras, profère des mots hagards : « Malheureux… perdu… fatal amour… comment le tirer de là ?
+
+['Sucre', 'Pain', 'Chocolat', 'Vin', 'sucre']	Pruneaux	Ni Riz ni [MASK], tous valseurs. Bientôt la folie gagne, se communique aux étages, et, dans l’énorme baie de l’escalier, on voit jusqu’au sixième tourner sur les paliers, avec la raideur d’automates devant un chalet à musique, les jupes lourdes et colorées des Suissesses de service.
+
+['2', '1', '</s>NOTUSED', 'Jean', '3']	Tartarin	« À propos de galéjade 1 , dit subitement [MASK], ils m’en ont fait une bien bonne au Rigi-Kulm… Figurez-vous que ce matin… » et il raconte la lettre piquée à sa glace, la récite avec emphase : « Français du diable...
+
+['Alger', 'Athènes', 'Elisabeth', 'Egypte', 'Orléans']	Altorf	Imagination, ô magie ! Il se croyait sur la place d’[MASK], en face de son enfant, lui qui n’en avait jamais eu ; une flèche dans le goulot de son arbalète, une autre à sa ceinture pour percer le cœur du tyran.
+
+['Elle', 'Il', 'Marie', 'On', 'Madeleine']	Tartarin	Heureusement, le vieux diplomate venait derrière elles, très sommairement vêtu d’un pardessus que dépassaient des caleçons blancs et des bouts de cordonnets. Enfin, voilà un homme !… [MASK] courut à lui en agitant les bras : « Ah ! monsieur le baron, quel malheur !
+
+['lui', 'eux', 'minuit', 'midi', 'peine']	Tartarin	Il ne disait pas en combien de temps par exemple, et cela avait dû être long à en juger par cette étape des Grands-Mulets où il arriva une heure après [MASK] et tout dégouttant de neige boueuse, les mains gelées sous ses gants de tricot.
+
+['Ah', 'Non', 'Allons', 'Oh', 'Oui']	Sonia	Il venait de voir passer une petite toque sur des cheveux blonds en torsade… Sans même arrêter l’omnibus ralenti par la montée, il s’élança, criant : « Rendez-vous à l’hôtel… » aux alpinistes stupéfaits. « [MASK] !
+
+['Pierre', 'celui', 'Jean', 'Joseph', 'Paul']	Tartarin	Tout bas, pour ne pas effrayer les autres, il fit part de ses craintes à [MASK] qui, bravement, prit sa place à l’arrière-garde et marcha la tête haute, trempé jusqu’aux os, avec la détermination muette que donne l’imminence d’un danger.
+
+['il', 'on', 'chacun', 'Louis', 'elle']	Tartarin	« Des secours ! » répétait le baronet et, après lui, cinq ou six garçons de salle qui dormaient debout dans l’antichambre et s’entre-regardèrent, absolument égarés… « Des secours !… » Au premier pas dehors, [MASK] s’aperçut de son erreur.
+
+['Té', 'te', 'Te', 'Hé', 'oui']	Gonzague	— Té ! [MASK] !... » Et cette race est si singulière, si facile aux histoires invraisemblables, aux mensonges audacieux et vite réfutés, que l’arrivée du grand homme dont les fragments gisaient encore sur le bureau, ne causa dans la salle qu’un médiocre étonnement.
+
+['celui', 'celle', 'ce', 'Celui', 'Pierre']	Tartarin	je rentre dans la fournaise. On entendra parler de nous. » Tout bas, elle ajouta avec un demi-sourire, plantant son regard bleu dans celui de [MASK] qui fuyait, se dérobait : « Qui m’aime me suive ! » Ah ! vaï , la suivre.
+
+['Il', 'il', 'Lui', 'Elle', 'II']	Tartarin	— Ah ! vous êtes chasseur ? » Elle dit cela avec un accent railleur, incrédule. [MASK] n’aurait eu qu’à se nommer pour la convaincre, mais, comme tous les porteurs de noms illustres, il gardait une discrétion, une coquetterie ;
+
+['Pierre', 'Simon', 'Joseph', 'Jean', 'Martin']	Tartarin	car le sien s’était perdu dans la chute, et le lourd instrument passé des mains de [MASK] dans celles du guide, difficilement à cause de la distance qui séparait les deux pendus, le montagnard s’en servit pour entailler la glace devant lui d’encoches où cramponner ses pieds et ses mains.
+
+['Le', 'Tout', 'Hitler', 'en', 'Un']	Tartarin	» [MASK] frémissant jure qu’il n’y est pour rien. « Nous allons bien voir ! » Et l’on introduit le ténor italien, le policier que les nihilistes avaient accroché à la branche d’un chêne au Brünig, mais que des bûcherons ont sauvé miraculeusement.
+
+['il', 'elle', 'on', 'je', 'Madeleine']	Sonia	Quand il descend le perron de l’hôtel, grave et le regard fixe, soutenant de ses mains robustes un grand plateau chargé d’assiettes, de serviettes, victuailles assorties, champagne suisse au casque doré, [MASK] bat des mains, le complimente : « Mais comment avez-vous fait ?
+
+['On', 'Il', 'Elle', 'on', 'Chacun']	Tartarin	[MASK] les appela poules mouillées. Et brusquement, tandis qu’ils se disputaient, ils disparurent les uns aux yeux des autres dans une épaisse nuée tiède qui sentait le soufre et à travers laquelle ils se cherchaient, s’appelaient.
+
+['base', 'service', 'jadis', 'passage', 'métier']	Tarascon	plus loin une énorme crevasse aux parois glauques en travers de laquelle on a jeté une échelle que franchit une dame sur les genoux, puis un abbé relevant sa soutane. L’alpiniste de [MASK], les deux mains sur son piolet, n’avait jamais eu l’idée de difficultés pareilles
+
+['Il', 'Elle', 'il', 'On', 'Thomas']	Tartarin	[MASK] demanda si on pourrait lui en indiquer un, là, de confiance… Ce n’est pas qu’il eût peur, mais cela vaut toujours mieux d’avoir quelqu’un de sûr. Le garçon réfléchit, l’air important, tortillant ses favoris : « De confiance…
+
+['hé', 'Hé', 'monsieur', 'là', 'vous']	Tartarin	En s’engageant dans le corridor, il aperçut des gens groupés au fond, devant sa porte, regardant par la serrure, cognant, appelant : « Hé ! [MASK]… » Il fit deux pas, et la bouche sèche : « C’est moi que vous cherchez, messieurs ?
+
+['Clara', 'Marie', 'Joseph', 'Maria', 'Jane']	Bompard	Ces demoiselles frémissaient, le dévoraient de ces yeux froids des Anglaises, ces yeux qui s’ouvrent en rond. Dans le silence qui suivit s’éleva la voix de [MASK] : « Au Chimborazo, pour franchir les crevasses, nous ne nous attachions jamais. »
+
+['en', 'Pierre', 'Dieu', 'il', 'Joseph']	Inebnit	Une brusque secouée de la corde par devant et par derrière l’arrêta net au milieu de son couplet. « Chut !… chut !… » faisait [MASK] montrant du bout de son piolet la ligne menaçante des séracs gigantesques et tumultueux, aux assises branlantes, et dont la moindre secousse pouvait déterminer l’éboulement.
+
+['lui', 'Albert', 'Paul', 'James', 'moi']	Tartarin	Et c’était pour [MASK] une émotion délicieuse, pendant qu’il suivait le long du lac les voyageurs du circulaire Cook, de fouler ce sol historique, de se rappeler, de revivre les principaux épisodes du grand drame qu’il connaissait comme sa propre histoire.
+
+['fer', 'derrière', 'sûreté', 'police', 'nuit']	Bonnivard	Je vous mets dans le cachot de [MASK]… Maintenant, si vous avez des moyens, on pourra vous fournir quelques douceurs, par exemple une couverture et un matelas pour la nuit. — D’abord, à manger !
+
+['Il', 'Paul', 'Pierre', 'On', 'Jean']	Tartarin	Un demi-jour tombait avec le tremblotement, le miroitement du lac à travers d’étroites meurtrières qui ne laissaient voir qu’un peu de ciel. « Vous voilà chez vous, dit le geôlier… Surtout, n’allez pas dans le fond, il y a les oubliettes ! » [MASK] recula épouvanté :
+
+['</s>NOTUSED', 'Il', 'Jean', 'Chacun', 'Pierre']	Tartarin	Mais ce matin, les Riz triomphaient en grand nombre, renforcés d’illustres personnages, et les Pruneaux, comme on dit, n’en menaient pas large. [MASK], sans prendre parti pour les uns ni pour les autres, monta dans sa chambre avant les manifestations du dessert, boucla son sac et demanda sa note
+
+['il', 'on', 'Charles', 'Louis', 'Pierre']	Tartarin	On prétend qu’il se montre parfois à son premier réveil à la pointe extrême de la montagne, derrière l’hôtel. Pour s’orienter, [MASK] n’eut qu’à suivre le long éclat de rire des misses qui passaient près de lui.
+
+['chacun', 'Pierre', 'un', 'tête', 'pied']	Tartarin	À présent, les Tarasconnais sont seuls. Ils avancent avec précaution sur le désert de neige, attachés à la même corde, [MASK] en avant, tâtant de son piolet gravement, pénétré de la responsabilité qui lui incombe, y cherchant un réconfort. « Courage !
+
+['Il', 'il', 'et', 'Et', '</s>NOTUSED']	Tartarin	Il trouvait, lui aussi, que le guide avait eu raison de trancher la corde : délivrer de l’existence quatre malheureux encore jeunes, c’est-à-dire condamnés à vivre un certain temps, les rendre d’un geste au repos, au néant, quelle action noble et généreuse ! [MASK] se récria
+
+['lui', 'Bouteflika', 'Mamadou', 'Ali', 'Mitterrand']	Bompard	son bonnet de coton jusqu’aux oreilles, le nez contre le mur, aux objurgations du président il se contentait de répondre par un cynique proverbe tarasconnais : « Qui a bon renom de se lever le matin peut dormir jusqu’à midi… » Quant à [MASK], il répétait tout le temps : «
+
+['On', 'Il', 'Elle', 'on', 'Qui']	Bompard	Il y a des praticables… On ne risque rien… — Ah ! si je vous avais là pour me le dire, pour me le répéter… Allons, mon brave, un bon mouvement, venez avec moi… » [MASK] ne demanderait pas mieux, pécaïré !
+
+['«', 'être', 'prisonnier', '...', 'homme']	Tartarin	« Il y a du monde pour vous, là-haut… Des messieurs… on vous cherche. — On me cherche !… Outre ! … pourquoi faire ? » Et le numéro 1 du dépliant lui apparut : [MASK] coffré, extradé…
+
+['«', '–', '»', 'Ah', 'Oui']	Placide	[MASK], vé la terrine si elle est dans le sac ! – N’oubliez pas la lampe à chalumeau, au mouains . » Au départ, seulement, on vit qu’il s’agissait d’une simple conduite, et que, de toute la caravane, un seul allait monter, mais quel un
+
+['Il', 'Napoléon', 'Lui', 'Hitler', 'Bonaparte']	Tartarin	[MASK], très ému, se découvrit religieusement sans prendre garde à la stupeur environnante, agita même sa casquette en l’air par trois fois, pour rendre hommage au mânes des héros. Quelques passagers s’y trompèrent, et, poliment, lui rendirent son salut.
+
+['il', 'Pierre', 'Joseph', 'Alexandre', 'Il']	Tartarin	Il se rassura pourtant en voyant du haut de la moraine avec quelle facilité [MASK] évoluait sur la glace, et se décida à le suivre jusqu’à la halte des Grands-Mulets, où l’on devait passer la nuit. Il n’y arriva point sans peine.
+
+['Il', 'Lui', 'On', 'il', 'Pierre']	Tartarin	En même temps, empoigné, garrotté, ligoté, on le hissait à son tour dans un « locati » avec des gendarmes, dont un officier armé de sa latte gigantesque qu’il tenait toute droite entre ses jambes, la poignée touchant le haut de la voiture. [MASK] voulait parler, s’expliquer.
+
+['Marie', 'Pierre', 'Jean', 'elle', 'Jeanne']	Sonia	pan ! une balle dans chaque œil. — Dans chaque œil !… fit [MASK]. — Jamais je n’ai manqué mon coup. » Il affirmait, s’y croyait encore. La jeune fille le regardait avec une admiration naïve, songeant tout haut : «
+
+['Vé', 've', 'toi', 'Ve', 'Noé']	Ferdinand	voilà la lettre en mille miettes dans la corbeille à papiers ; mais on pourrait l’y retrouver, ressouder tous ces bouts ensemble, et pendant qu’il se baisse pour les reprendre, une voix chevrotante appelle : « Vé , [MASK], tu es là ?
+
+['il', 'Paul', 'on', 'Pierre', 'Albert']	Tartarin	Au moment de descendre, sur le premier coup du déjeuner, [MASK] s’assurait que sa barbe était bien brossée et qu’il n’avait pas trop mauvaise mine dans son costume d’alpiniste, quand tout à coup il tressaillit.
+
+['en', 'Ivan', 'Maria', 'Marie', 'Alexandre']	Sonia	seulement, là-bas, la lumière dévore tout, absorbe tout, tandis que sous ce ciel nuageux et bas, la souffrance se voyait mieux, comme les fleurs paraissaient plus fraîches. « Entrez… » dit [MASK] poussant la grille sous un fronton de maçonnerie blanche marqué de caractères russes en lettres d’or.
+
+['Il', 'Elle', 'Chacun', 'il', 'On']	Tartarin	» [MASK] consentit, songeant à l’ascension du lendemain ; et les Tarasconnais montèrent, le bougeoir en main, le large escalier de granit conduisant aux chambres, tandis que le père Baltet allait s’occuper des provisions, retenir des mulets et des guides. « Té !
+
+['lui', 'eux', 'elle', 'moi', 'Lui']	Tartarin	, c’était pour [MASK] un véritable supplice. Il avait beau leur dire : « Ne vous dérangez pas… je vous préviendrai… » Tous les jours, il les retrouvait à la même place et s’en débarrassait par une grosse pièce proportionnée à l’énormité de son remords.
+
+['trop', 'travers', 'tout', 'bois', 'partout']	Tarascon	« Bé oui ! bé oui !… C’est vrai que les poètes sont un peu de [MASK], ils en disent toujours plus qu’il n’y en a ; mais, pas moins, c’est gentil le femellan , comme on appelle les dames chez nous.
+
+['»', '!', 'Sept', 'Impossible', 'Non']	Boufre	. « Passons toujours prendre le café au salon… Nous consulterons le père Baltet. Il s’y connaît, lui, l’ancien guide qui a fait vingt-sept fois l’ascension. » Les délégués eurent un cri : « Vingt-sept fois ! [MASK] !
+
+['Elle', 'Il', 'On', 'Chacun', 'Marie']	Tartarin	En attendant la cloche du dîner, les pensionnaires marchaient de long en large devant une cascade en rocaille, sur la route ravinée où s’alignaient des berlines, brancards à terre, parmi les flaques d’eau mirées d’un couchant couleur de cuivre. [MASK] s’informa de son homme.
+
+['Il', 'On', 'Chacun', 'il', 'Pierre']	Tartarin	Alors, une discussion commença. [MASK] trouvait que s’attacher à la file, c’était comme un engagement d’honneur de vivre ou de mourir ensemble ; et s’exaltant, très monté par la présence des dames, il appuyait son dire sur des faits, des êtres présents.
+
+['lui', 'que', 'il', 'Pierre', 'elle']	Tartarin	? C’est qu’elle ne le lâchait pas, et [MASK], pour échapper à son insistance, remontait sur le pont, aimant mieux se tremper jusqu’aux os que d’être ridicule. Et il en tombait, et le ciel était sale !
+
+['il', 'on', 'Jack', 'elle', 'Il']	Tartarin	À force de reculer, [MASK] se trouva tout près du trou des oubliettes, un puits noir, ouvert au ras du sol, soufflant l’haleine des siècles passés, marécageuse et glaciale. Effrayé, il s’arrêta, se pelotonna dans un coin, sa casquette sur les yeux
+
+['Pierre', 'Jean', 'Marie', 'François', 'Émile']	Pascalon	« Cher maî… aî… aître… bêla timidement [MASK], j’ai ouï dire que le chamois, lorsqu’on l’accule aux abîmes, se retourne contre le chasseur et devient dangereux. — Ne l’acculons pas, alors !
+
+['il', 'elle', 'lui', 'Marie', 'on']	Sonia	Un instinct semblait l’avertir de ne pas s’aventurer seul en compagnie de ces trois hommes. Il se décida enfin, et [MASK] le regardait monter, en caressant sa joue ronde avec un bouquet de cyclamens violâtres, ces violettes de montagnes dont la feuille est doublée de la fraîche couleur des fleurs.
+
+['Pierre', 'Pierrot', 'Joseph', 'Albert', 'François']	Tartarin	« Monsieur, dit [MASK] en entrant, son piolet sur l’épaule, excusez-moi si… » Il s’arrêta stupéfait, pendant que le courrier, long, sec, la serviette au menton dans le nuage odorant d’une assiettée de soupe chaude, lâchait sa cuillère.
+
+['il', 'elle', 'on', 'chacun', 'lui']	Tartarin	» Comme [MASK] s’indignait : « Faites excuse, monsieur, le guide était dans son droit… Il a compris l’impossibilité de retenir les autres et s’est détaché d’eux pour sauver sa vie, celle de son fils et du voyageur qu’ils accompagnaient…
+
+['Monsieur', 'Louis', 'Napoléon', 'le', 'Charles']	Tartarin	On but sec, on mangea ferme. Après force toasts portés au président et à son ascension, [MASK], que l’enseigne de l’auberge intriguait depuis son arrivée, demanda au joueur de cor, cassant une croûte dans un coin de la salle avec eux :
+
+['monsieur', 'Monsieur', 'vous', 'madame', 'Madame']	Otto	Et leur discussion philosophique continuant en dépit des difficultés de la route, on entendait sur l’espace gelé, sonore comme la largeur d’une rivière, une bonne grosse voix familière et essoufflée : « Vous me connaissez, [MASK]… »
+
+['Roland', 'Pierre', 'Louis', 'Charles', 'Napoléon']	Bompard	« Du sang-froid, Gonzague, du sang-froid ! — C’est justement de ça que je manque », répond [MASK] lamentablement. Et il gémit : « Aïe de mon pied !… aïe de ma jambe !… nous sommes perdus ;
+
+['on', 'qui', 'On', 'je', 'et']	Tartarin	On s’y rendait beaucoup pour voir les peintures murales qu’un fameux peintre bâlois achevait d’exécuter dans la chapelle… Par le bateau, il ne fallait guère plus d’une heure, une heure et demie, [MASK] n’hésita pas.
+
+['Il', 'il', 'Pierre', 'André', 'Paul']	Tartarin	» [MASK] s’est levé, une main sur l’épaule de l’ancien gérant : « Vous ne voudriez pas qu’il m’arrivât malheur, qué ?... Eh bien ! parlez-moi franchement... vous connaissez mes moyens comme alpiniste, ils sont médiocres.
+
+['chacun', 'Paul', 'Pierre', 'Charles', 'Henri']	Tartarin	» Et les rires de recommencer, bruyants, interminables, sur un ton aigu et féroce cette fois, des rires qui montraient les dents et rappelaient à [MASK] en quelle triste et singulière compagnie il voyageait. Tout à coup, les voitures s’arrêtèrent.
+
+['la', 'une', 'monsieur', 'le', 'La']	P	Dans un temps, même, on en comptait jusqu’à trois, qui se traitaient mutuellement d’imposteurs et n’avaient jamais consenti à se trouver ensemble. Des trois, le seul vrai, c’était [MASK]��goulade.
+
+['</s>NOTUSED', 'Pierre', 'Jean', 'lui', 'elle']	Tartarin	; et des écarts bleus apparaissent déchirant le gris du ciel. Vite, en route, et, rattachés tous deux à la corde, [MASK], qui a pris la tête comme tout à l’heure, se retourne, un doigt sur la bouche : «
+
+['Pierre', 'Jean', 'Antoine', 'François', 'Roland']	Tartarin	« Prenez garde au kirsch de votre gourde, au lait mousseux que vous apporte le vacher en sabots. Ils ne reculent devant rien, je vous dis. — Alors, quoi ? Je suis fichu ! » gronde [MASK] ; puis saisissant la main de son compagnon :
+
+['jeunesse', 'certains', 'Jules', 'Jeanne', 'chacun']	Sonia	Tous les jours se montraient des figures nouvelles : des jeunes gens, hommes ou femmes, aux tournures d’étudiants pauvres, d’institutrices exaltées, blondes et roses, avec le front têtu et le féroce enfantillage de [MASK] ;
+
+['!', '»', '«', '?', 'Noël']	Kaufmann	Tout de même, le premier étourdissement passé, il retrouva son aplomb, sa belle humeur. « Eh ! là-haut, père [MASK], ne nous laissez pas moisir ici, qué ! il y a des courants d’air, et puis cette sacrée corde nous coupe les reins.
+
+['Il', 'Elle', 'il', 'Lui', 'Pierre']	Tartarin	: « Eh bien ! méritez-moi… » dit-elle avec un joli sourire d’énigme, un sourire remontant sur les fines dents blanches. [MASK] allait répondre, s’engager par serment à quelque folie criminelle, quand le chasseur de l’hôtel s’avançant vers lui :
+
+['Napoléon', 'Fritz', 'Charles', 'Mathilde', 'Frédéric']	Tartarin	— Qui ? Quoi ?… » bégayait le baron ahuri, sans comprendre. « Mais, le feu… — Quel feu ?… » Le pauvre homme avait une mine si extraordinairement déprimée et stupide que [MASK] l’abandonna et s’élança dehors brusquement pour « organiser les secours »
+
+['guide', 'Charles', 'Henri', 'Napoléon', 'Pierre']	Tartarin	Voilà que le long Suédois qui précède justement [MASK] s’est arrêté et touche de ses talons ferrés la casquette du P. C. A. Les guides ont beau crier : « En avant !… » et le président : « Avancez donc, jeune homme… » Rien ne bouge.
+
+['en', 'et', ';', 'comme', '–']	Bézuquet	avec une brusque retombée de porte, un passant se glissait dans la ville éteinte où rien n’éclairait plus la façade des maisons que les réverbères et les bocaux teintés de rosé et de vert de la pharmacie [MASK] se projetant sur la placette avec la silhouette du pharmacien accoudé à son bureau et dormant sur le Codex.
+
+['il', 'elle', 'on', 'Il', 'Aznavour']	Excourbaniès	Ça le connaissait ! Là-dessus, nouvelles exclamations, nouvelle explosion du gong et, sur le cours, une telle tempête populaire, qu’[MASK] dut se montrer à la fenêtre, au-dessus des hurlements que maîtrisa bientôt sa voix sans rivale.
+
+['là', 'hein', 'vous', 'maintenant', 'madame']	Placide	— Eh bien, le chamois ?… — Il est en bas, à la cuisine… Il se chauffe !… — Ah ! vaï… — Tu badines !… — Si vous alliez voir, [MASK] ? »
+
+['monsieur', 'allez', 'madame', '...', 'maintenant']	Gonzague	; puis de minute en minute un cri, une plainte étouffée, la chute d’un corps sur la glace et, tout de suite, une grosse voix qui répond du bout de la corde : « Allez doucement de tomber, [MASK]. »
+
+['Napoléon', 'Bonaparte', 'Le', 'Tout', 'Kennedy']	Bézuquet	— C’est faux !… Le Président a écrit… » [MASK] frémissant se campait devant le bureau ; mais comprenant ce que son attitude avait d’antiréglementaire, il changea de ton et, la main levée selon l’usage, demanda la parole pour une communication pressante.
+
+['grave', 'moi', 'tout', 'vrai', 'bien']	Manilof	J’ai perdu mon soulier. » Il reconnut le gazouillis étranger de sa petite voisine de table, dont il cherchait la fine silhouette dans le pâle reflet blanc montant du sol. « Ce n’est pas [MASK], mademoiselle, mais si je puis vous être utile… »
+
+['en', 'puis', 'soudain', 'alors', 'lui']	Sonia	Et [MASK] interrompant son récit : « Est-ce horrible, tant de vies humaines sacrifiées, tant d’efforts, de courage, d’intelligence inutiles ?… Non, non, mauvais moyens, ces tueries en masse… Celui qu’on vise échappe toujours…
+
+['il', 'elle', 'on', 'Hans', 'Franz']	Kaufmann	En même temps, [MASK] lui montrait au-dessus d’eux quelque chose ressemblant à un fagot de bois sur la neige. « Die Hutte . » C’était la cabane. Il semblait qu’on dût l’atteindre en quelques enjambées, mais il fallait encore une bonne demi-heure de marche.
+
+['Et', 'Mais', '</s>NOTUSED', 'Puis', 'Jean']	Tartarin	Penché sur le gouffre que l’ombre fait paraître insondable, il regarde s’agiter dans une buée la petite lanterne des guides préparant le chemin. [MASK], peu rassuré lui-même, se donne du courage en exhortant son ami : « Allons,
+
+['on', 'elle', 'il', 'je', 'Voltaire']	Spiridion	Malheureusement, la race tarasconnaise, plus galante que sentimentale, ne prend jamais les affaires de cœur au sérieux : « Qui perd une femme et quinze sous, c’est grand dommage de l’argent… » répondait le sentencieux Placide, et [MASK] pensait exactement comme lui ;
+
+['Il', 'Paul', 'Charles', 'Jean', 'Henri']	Tartarin	[MASK], malgré tout, ne regrettait pas sa nuit. La rencontre de la jolie blonde le dédommageait du sommeil interrompu ; car, tout près de la cinquantaine, il avait encore le cœur chaud, l’imagination romanesque, un ardent foyer de vie.
+
+['un', 'le', 'Martin', 'tout', 'Paul']	Tartarin	» demande [MASK] surpris. Et l’autre de son air tranquille : « Bé ! oui. Quand vous voyagez dans la Suisse allemande, des fois vous apercevez à des hauteurs vertigineuses un pasteur prêchant en plein air, debout sur une roche ou dans une chaire rustique en tronc d’arbre.
+
+['il', 'elle', 'on', 'chacun', 'Jean']	Tartarin	— Té , pardi… » Pleins d’ardeur, ils repartent, enfonçant jusqu’aux genoux dans la neige fraîchement tombée, qui a englouti sous sa ouate, immaculée les traces de la caravane ; aussi [MASK] consulte sa boussole toutes les cinq minutes.
+
+['»', '«', '...', '».', '!']	Tartarin	Et brusquement, tandis qu’ils se disputaient, ils disparurent les uns aux yeux des autres dans une épaisse nuée tiède qui sentait le soufre et à travers laquelle ils se cherchaient, s’appelaient. « Hé ! [MASK].
+
+['Jean', 'Lui', 'Mais', 'Il', 'Georges']	Tartarin	[MASK], lui, n’a pas bronché ; toujours bonnes dents, bon œil, malgré la cinquantaine, toujours cette imagination extraordinaire qui rapproche et grossit les objets avec une puissance de télescope. Il est resté celui dont le brave commandant Bravida disait : « C’est un lapin…
+
+['Il', 'On', 'Qui', 'Elle', 'Dieu']	Tartarin	expression de terroir sinistre dans son vague et sa brièveté, qui dit toutes les maladies, peste, choléra, vomito negro, les noires, les jaunes, les foudroyantes, dont se croit atteint le Tarasconnais à la moindre indisposition. [MASK] avait pris le mal !
+
+['lettres', 'cela', 'lui', 'santé', 'courrier']	Tartarin	cinq ou six en se tenant le bras sur une ligne ondulante de bavardages et de rires. Dans tous les groupes, on parlait de [MASK] : « Et autrement, monsieur Bézuquet toujours pas de lettre ?… » demandait-on au pharmacien en l’arrêtant au passage.
+
+['Napoléon', 'Pierre', 'Franz', 'Pierrot', 'Victor']	Tartarin	Tout à coup le héros pousse un cri, un cri formidable qui roule jusqu’au bout du wagon. Tous les voyageurs se sont dressés ; on croit à un tamponnement. Simplement un entrefilet du Forum que [MASK] lit à ses alpinistes…
+
+['lui', 'là', 'terre', 'moi', 'Louis']	Sonia	Détaché vivement de [MASK], « Fuyez, sauvez-vous… » lui dit-il d’une voix étouffée. Puis il monta, la tête droite, les yeux fiers, comme à l’échafaud, si ému cependant qu’il était obligé de se cramponner à la rampe…
+
+['tous', 'chacun', 'ses', 'son', 'terre']	Bompard	« Courage ! du sang-froid !… Nous nous en tirerons !… » crie-t-il à chaque instant à [MASK]. Ainsi l’officier, dans la bataille, chasse la peur qu’il a, en brandissant son épée et criant à ses hommes : «
+
+['celui', 'lui', 'celle', 'moi', 'ce']	Manilof	tous, le même rire ingénu, un peu contraint et douloureux sur les lèvres tirées du malade, plus bruyant chez [MASK] qui, tout jeune sous sa barbe en broussaille, avait des explosions d’écolier en vacances, des bouffées de gaieté exubérante.
+
+['lui', 'Pierre', 'Pierrot', 'Louis', 'Jean']	Tartarin	La nuit descendait maintenant, la bise piquait sur le sol cadavérique ; et [MASK], ne se rendant plus bien compte des choses, fortement soutenu par le bras du montagnard, butait, bondissait, sans un fil sec sur la peau malgré l’abaissement de la température.
+

@@ -1,0 +1,200 @@
+['il', 'Pierre', 'Il', 'Jean', 'Jacques']	Christophe	Mais le corbeau avait beaucoup à faire sans doute de nourrir tous les anachorètes, car il ne revint plus. Malgré tous ces ennuis, [MASK] gardait son entrain. Il faisait dans sa cuvette la lessive de son linge, et il cirait ses chaussures, en sifflant comme un merle.
+
+['On', 'Il', 'Elle', 'Chacun', 'on']	Christophe	[MASK] errait, de groupe en groupe, sans pouvoir se mêler à aucun. Les hommes parlaient de chasse avec férocité, d’amour avec brutalité, d’argent seulement avec une sûre justesse, froide et goguenarde. On prenait des notes d’affaires au fumoir.
+
+['Napoléon', 'Picasso', 'Il', 'Goethe', 'Rousseau']	Christophe	; et qui se persuadent qu’ils raffolent de l’impressionnisme ou du dix-huitième siècle français, – quand d’aventure, ils n’ont pas la ferme assurance qu’ils les comprennent mieux que les Français. [MASK] était un barbare, peut-être ; mais il l’était franchement.
+
+['droit', 'bien', 'mâle', 'mariage', 'naturel']	Code	– « cette mâle franchise » comme disent ces gens-là, qui prétend concilier la gaillardise et la morale, parce qu’après quatre actes de chienneries, elle ramène le triomphe du [MASK] en jetant, au hasard de quelque imbroglio, la femme légitime dans le lit du mari qu’elle voulait cocufier :
+
+['il', 'Voltaire', 'Napoléon', 'Molière', 'on']	Schiller	Jadis, [MASK] leur avait fait la leçon, et il avait rappelé aux tyranneaux de la presse ce qu’il appelait crûment : Le devoir des domestiques . « Avant tout, que la maison soit nette, où la Reine va paraître. Alerte donc ! Balayez les chambres.
+
+['chacun', 'lui', 'Pierre', 'Paul', 'Marie']	Christophe	Tout le monde lui donnait tort : car on ne croyait pas ce que [MASK] sentait obscurément : l’hypocrisie de cette douceur, qui, se heurtant à une force qu’elle ne parvenait pas à entamer, travaillait à l’étouffer, sans éclat, en silence.
+
+['</s>NOTUSED', 'le', 'la', 'elle', 'Alice']	Kohn	. – Ce n’est pas possible, dit-il de nouveau, comme le soir où il était sorti écœuré d’un théâtre des boulevards. Il y a autre chose. – Qu’est-ce que vous voulez de plus ? demanda [MASK].
+
+['Lui', 'Celui', 'Elle', 'Ce', 'Celle']	Christophe	[MASK] qui, depuis plusieurs mois, se raidissait dans un état de qui-vive perpétuel, sentait se détendre peu à peu la fixité de son regard. Il n’en était pas moins fort ; il en était plus humain.
+
+['en', '–', 'et', 'Dieu', 'comme']	Christophe	; il se laissait rouler, et frotter la figure dans la poussière, en pleurnichant ; mais il recommençait aussitôt après, avec une malice inlassable, – jusqu’au jour où il prit peur, [MASK] l’ayant menacé sérieusement de le tuer.
+
+['Il', 'il', 'Lui', 'II', 'Mais']	Christophe	; et il était malaisé de trouver d’autres élèves. Le seul qu’il eût était un ingénieur, intelligent et braque, qui s’était mis en tête, à quarante ans, de devenir un grand violoniste. [MASK] ne jouait pas très bien du violon ;
+
+['lui', 'elle', 'Proust', 'Rimbaud', 'Pierre']	Diener	Il avait été très intime avec [MASK], vers quatorze ou quinze ans {1} . Il avait eu pour lui une de ces amitiés d’enfance, qui devancent l’amour, et qui sont déjà de l’amour.
+
+['Joseph', 'Pierre', 'Jean', 'Paul', 'Dieu']	Christophe	Réfugiée dans sa chambre, dans son lit, elle sanglota, une partie de la nuit : elle parlait à [MASK], elle le consolait, elle eût voulu donner sa vie pour lui, elle se désespérait de ne pouvoir rien pour le rendre heureux.
+
+['elle', 'Marie', 'lui', 'Juliette', 'Alice']	Christophe	Il n’était pas très fier de sa brouille avec [MASK]. Il l’était d’autant moins que, depuis, il s’était brouillé avec sa chanteuse et la jugeait sans ménagements. C’était un bon garçon ; il n’en voulait jamais à ceux à qui il avait fait tort.
+
+['elle', 'cela', 'lui', 'eux', 'Dieu']	Paris	par réaction contre [MASK], il s’était jeté dans une sorte d’ascétisme moral. Il avait un besoin passionné de pureté, l’horreur de toute souillure. Ce n’était pas qu’il fût à l’abri des passions. À d’autres moments, il y avait été livré.
+
+['cela', 'Catherine', 'Jack', 'Sarah', 'lui']	Kohn	Puis, il attendit de nouveau, sûr que [MASK] viendrait au sortir du restaurant. Il marchait dans sa chambre, s’asseyait, se remettait à marcher, ouvrant sa porte, quand il entendait monter des pas dans l’escalier.
+
+['il', 'Wagner', 'Debussy', 'Chopin', 'Beethoven']	Christophe	Quant aux artistes ils sentaient en lui l’ennemi. Instinctivement, [MASK] se faisait, en art, plus Allemand qu’il n’était. Par opposition avec la voluptueuse ataraxie {17} de certaine musique parisienne, il célébrait la volonté violente, un pessimisme viril et sain.
+
+['on', 'Beethoven', 'il', 'Mozart', 'Paris']	Christophe	Ce fut ce qui advint, quand [MASK] entendit pour la première fois cette œuvre fameuse, dont les Français disaient mille extravagances, et que certains proclamaient la plus grande révolution musicale accomplie depuis dix siècles. – (Les siècles ne leur coûtent guère ! ils sortent peu du leur)…
+
+['Rome', 'Pâques', 'Versailles', 'Vienne', 'Bâle']	Christophe	– (ils avaient tous, en ce temps, le culte de la vérité). Les convives de [MASK] montrèrent qu’ils en étaient possédés : rien ne les lassait dans cette recherche du vrai. Ils l’étendaient à l’art d’aujourd’hui, comme à l’art du passé
+
+['lui', 'elle', 'Joseph', 'Louis', 'Paul']	Christophe	; et elle avait pour [MASK] un sentiment maternel. Lui-même, en causant avec elle, s’efforçait de tromper son besoin d’affection familiale, dont on souffre bien plus, quand on est faible et malade.
+
+['Il', 'Paul', 'Jean', 'Antoine', 'II']	Christophe	[MASK] décida de partir, aussitôt après le premier morceau. Il parcourait des yeux tout ce cercle de figures et de corps antipathiques. Il rencontra, à l’autre extrémité du salon, des yeux qui le regardaient et se détournèrent aussitôt.
+
+['Il', 'Elle', 'Anna', 'Fritz', 'On']	Christophe	(Il se méfiait.) [MASK] lui lança un regard furieux, et reprit : – Tu connais beaucoup de monde dans la colonie allemande ? – Oui. – Eh bien, parle de moi. Ils doivent être musiciens. Ils ont des enfants. Je donnerai des leçons.
+
+['Dracula', 'Babel', 'Fontainebleau', 'Sibérie', 'Paris']	Dante	Il écoutait cette multitude de vies, il se plaisait à faire bruire l’orgue de cette forêt séculaire, pleine de monstres, comme la forêt de [MASK]. Il ne les craignait plus maintenant, comme au temps de son adolescence. Car le maître était là : sa volonté.
+
+['Elle', 'Il', 'il', 'elle', 'On']	Christophe	mais je n’ai plus votre adresse… Tudieu, mon cher, je ne vous connaissais pas. Vous avez été épique. [MASK] le regarda surpris, et un peu honteux : – Vous ne m’en voulez pas ? – Vous en vouloir ? Quelle idée ?
+
+['Chopin', 'Valentin', 'lui', 'Paul', 'Charles']	Hecht	Toutes ses relations avec le monde se réduisaient à ses courses au magasin de musique, pour prendre ou rapporter du travail. Il y allait à des heures où il savait que [MASK] n’y était pas, – afin d’éviter de causer avec lui. Précaution superflue ;
+
+['Paul', 'Pierre', 'Georges', 'David', 'Charles']	Christophe	Le premier mouvement de [MASK] fut de hausser les épaules et de jurer qu’il n’irait pas. – Mais à mesure que le jour du concert approchait, il était moins décidé. Il étouffait de ne plus entendre une parole humaine, ni surtout une note de musique.
+
+['il', 'elle', 'qui', 'Il', 'lui']	Hecht	mais [MASK] prit un air offensé : – Je ne vois pas ce qui peut vous étonner, dit il. Ce n’est point là un travail si facile ! S’il vous paraît trop aisé, tant mieux ! Nous verrons ensuite. Vous me dites que vous êtes bon musicien.
+
+['Job', 'Jésus', 'David', 'Paul', 'Dieu']	Job	il sentit sa misère et son isolement ; mais il les regarda en face. Le découragement était parti ; il ne lui restait plus qu’une virile mélancolie. Il redit la parole de [MASK] : Quand Dieu me tuerait, je ne laisserais pas d’espérer en Lui…
+
+['Beethoven', 'Mozart', 'Chopin', 'Wagner', 'Ravel']	Schubert	Rentré dans sa chambre glacée, il s’entêta à ne pas se coucher ; il restait sur sa chaise, trempé de pluie, la tête lourde et la poitrine haletante, s’engourdissant dans des musiques courbaturées, comme lui. Il entendait passer des phrases de la Symphonie inachevée de [MASK].
+
+['chacun', 'certains', 'tous', 'Juliette', 'Mozart']	Christophe	– Comment ! Il est donc en liberté ? Dans un coin du salon, deux dames s’entretenaient des amours d’une jeune actrice et d’une femme du monde. Parfois il y avait concert. On demandait à [MASK] de jouer.
+
+['encore', 'cela', 'Chopin', 'Mozart', 'Bach']	Christophe	Il se serait gardé de le dire ; mais cela lui en imposait. – Et maintenant, il écoutait [MASK], qui jouait ; et il s’évertuait à comprendre, l’air absorbé, profond, ne pensant à rien ;
+
+['lui', 'Baudelaire', 'Hugo', 'Paul', 'Lui']	Christophe	II. Une impression plus forte s’imposait à [MASK], à mesure qu’il voyait plus clair dans la cuve aux idées, où fermentait l’art parisien : la suprématie de la femme sur cette société cosmopolite. Elle y tenait une place absurde, démesurée.
+
+['communistes', 'religieuses', 'socialistes', 'féministes', 'magiques']	Renaniennes	Il était horripilé d’ailleurs par la prétentieuse bêtise de ses admirateurs, qui trouvaient dans ce qu’il faisait des intentions saugrenues, [MASK], Nietzschéennes, Rose-Croix, hermaphrodites. Il les mit à la porte. Il n’était pas fait pour un rôle passif.
+
+['On', 'Dieu', 'Voltaire', 'Napoléon', 'Rousseau']	Renan	Après avoir professé qu’ils savaient tout, ils professaient maintenant qu’ils ne savaient rien. Ils y mettaient leur point d’honneur et leur fatuité même. [MASK] avait enseigné à ces générations amollies qu’il est élégant de ne rien affirmer sans le nier aussitôt, ou du moins sans le mettre en doute.
+
+['Marie', 'Mathilde', 'Marguerite', 'Juliette', 'Clara']	Colette	* Il ne cessa point de donner des leçons de piano à [MASK] ; mais il évita désormais les occasions qu’elle lui offrait de continuer leurs entretiens amicaux. Elle eut beau s’attrister, se piquer, jouer de ses petites roueries : il s’obstina ; ils se boudèrent
+
+['surtout', 'Wagner', 'ce', 'celle', 'Figaro']	Roussin	et [MASK] qui ne demandait pas mieux, avait trouvé dans la représentation du David une occasion de révéler sans risques au public parisien les dons lyriques de la nouvelle tragédienne, dans un rôle qui n’exigeait presque aucune action dramatique, et qui mettait en pleine valeur l’élégance de ses formes.
+
+['Raphaël', 'Rome', 'Florence', 'Venise', 'Picasso']	Christophe	Celle de [MASK] avait déjà commencé, à son insu, de prendre à l’art latin une sobriété, une clarté du cœur, et même, dans une certaine mesure, une beauté plastique, qu’elle n’aurait pas eues sans cela.
+
+['Il', 'On', 'Paul', 'il', 'Charles']	Christophe	Mais le soir, tout le quartier répétait que l’Allemand était une brute, qui battait les enfants. * [MASK] fit de nouvelles démarches chez des marchands de musique : elles ne servirent à rien. Il trouvait les Français peu accueillants ; et leur agitation désordonnée l’ahurissait.
+
+['elle', 'on', 'il', 'je', 'chacun']	Christophe	Elle avait laissé au pays son père, dont elle parlait avec beaucoup de discrétion ; mais [MASK] n’eut pas de peine à deviner qu’il ne faisait rien que boire, se donner du bon temps, et exploiter sa fille ; elle se laissait exploiter, sans rien dire, par orgueil
+
+['il', 'lui', 'Il', 'on', 'Michel']	Christophe	Il ne pouvait voir sans dégoût cette coquetterie louche, ces minauderies, cette sensiblerie qui se dépensait de préférence au profit des êtres les moins dignes d’intérêt, ce style pétri de mignardise et de brutalité, ces charretiers psychologues. Mais [MASK] se rendait compte qu’il ne pouvait juger.
+
+['Voltaire', 'Napoléon', 'Molière', 'Flaubert', 'Balzac']	Christophe	Il se mouchait, toussait, ému jusques aux larmes, quand les mannequins tragiques hoquetaient, rugissaient ou s’évanouissaient, selon les rites consacrés. – Et on dit que les Français sont légers ! s’exclama [MASK], au sortir de la représentation.
+
+['Michel', 'Shakespeare', 'Jésus', 'David', 'Salomon']	Jeanne	mais en passant près du pont, qui porte le nom de l’archange des batailles, – « le frère du paradis » de [MASK], – il n’eut pas le courage de ne pas s’arrêter. Il retrouva le précieux volume dans les caisses du bouquiniste ;
+
+['Il', 'Lui', 'II', 'On', 'il']	Goujart	Le titulaire, un jeune compositeur de talent, avait été congédié, parce qu’il s’obstinait à dire ce qu’il pensait des œuvres et des auteurs. [MASK] ne s’était jamais occupé de musique, et il ne savait rien : on le choisit sans hésiter.
+
+['Madame', 'Voltaire', 'Monsieur', 'Napoléon', 'Marie']	Christophe	Nous sommes les curieux de rares voluptés, les éternels Don Juan amoureux de la beauté. – Vous êtes des hypocrites, finit par riposter [MASK]. Pardonnez-moi de vous le dire. Je croyais jusqu’ici qu’il n’y avait que mon pays qui l’était.
+
+['Beethoven', 'Debussy', 'Chopin', 'Wagner', 'lui']	Christophe	Il n’était pas curieux de ce qui n’était pas d’actualité. Pour le moment, il voulait savoir ce que [MASK] pensait d’une partition qu’il avait reçue, et dont il eût été bien embarrassé pour rendre compte : car il lisait à peine ses notes.
+
+['on', 'chacun', 'il', 'Wagner', 'Voltaire']	Christophe	– Néanmoins l’essai était curieux, et [MASK] en approuvait l’esprit de réaction révolutionnaire contre les violences emphatiques de l’art wagnérien. Le musicien français semblait s’être appliqué, avec une discrétion ironique, à ce que tous les sentiments passionnés se murmurassent à mi-voix.
+
+['Alice', 'Paul', 'Juliette', 'Marie', 'Anna']	Kohn	! Ce remords lui pesait ; il fut sur le point d’écrire à [MASK] combien il était peiné de l’avoir mal jugé autrefois, et qu’il lui demandait pardon du tort qu’il lui avait fait. Il avait les larmes aux yeux en y pensant.
+
+['il', 'elle', 'on', 'Marie', 'Il']	Christophe	– Et [MASK] entendit passer aussi cette musique aux mains brûlantes, aux yeux fermés, souriant d’un sourire las, le cœur gonflé de soupirs, rêvant de la mort qui délivre : – le premier chœur de la Cantate de J. S. Bach : « Cher Dieu, quand mourrai-je ?
+
+['Voltaire', 'Napoléon', 'Bonaparte', 'Jésus', 'Charles']	Christophe	Enfin dans une rue latérale, il vit une sale auberge, avec une gargote au rez-de-chaussée. Elle s’intitulait Hôtel de la Civilisation . Un gros homme, en bras de chemise, fumait la pipe, à une table ; il accourut, en voyant entrer [MASK].
+
+['lui', 'elle', 'le', 'la', '</s>NOTUSED']	Hecht	il venait d’acheter son dîner, et il comptait, le lendemain, toucher un peu d’argent chez [MASK], pour une copie de musique. Mais attendre jusqu’au lendemain, c’était dur ! Pourquoi venait-il justement de dépenser à son dîner le peu qui lui restait
+
+['Il', 'Elle', 'Thomas', 'Paul', 'il']	Christophe	[MASK] avait beau s’en défendre, prétextant qu’il ne pouvait dire ce qu’il pensait, sans risquer de la blesser : elle arrivait toujours à le lui faire dire ; et plus c’était blessant, moins elle était blessée : c’était un amusement.
+
+['moi', 'Jésus', 'Dieu', 'Nietzsche', 'Socrate']	Christophe	Chacun la porte en soi : le religieux et l’athée, celui qui voit partout la vie, et celui qui la nie partout, et celui qui doute de tout et de la vie et de la négation, – et [MASK], dont l’âme embrassait tous ces contraires à la fois.
+
+['Il', 'Wagner', 'Frédéric', 'Beethoven', 'Mozart']	Christophe	[MASK] n’en était pas blessé. Il l’avait tellement décrétée lui-même qu’il ne pouvait de bonne foi contredire à ce jugement. Mais la suprématie de la musique française l’étonnait un peu : à vrai dire, il en voyait peu de traces dans le passé.
+
+['Il', 'On', 'Elle', 'Pierre', 'Jean']	Kohn	Il mit un point d’honneur à conter tout ce qui pouvait le compromettre : la rixe avec les soldats, les poursuites contre lui, sa fuite du pays. [MASK] se tordit de rire : – Bravo ! criait-il, bravo ! Ah ! la bonne histoire !
+
+['Pierre', 'Jean', 'il', 'David', 'Paul']	Hecht	– Alors, fit [MASK], piqué, je ne vois pas ce que vous venez me demander. – Je vous demande du travail, pas autre chose. – Je n’ai rien autre à vous offrir, pour le moment, que ce que je vous ai dit.
+
+['Il', 'Wagner', 'Franz', 'On', 'Beethoven']	Christophe	On avait déjà bien assez à faire de jouer – ou de ne pas jouer – les œuvres des jeunes musiciens français. On n’avait pas de place pour un allemand inconnu. [MASK] ne s’entêta point à faire des démarches. Il s’enferma chez lui, et se remit à écrire.
+
+['Il', 'Elle', 'il', 'et', 'Et']	Christophe	Le jeune homme leva des yeux découragés vers lui. – Non, décidément, dit-il ; je ne puis pas, je ne puis pas parler de cela… pas ici… [MASK] lui prit la main, avec un rire muet de sa large bouche fermée.
+
+['il', 'elle', 'on', 'je', 'Pierre']	Roussin	Comme il ne savait rien cacher, [MASK] n’eut pas de peine à deviner sa pensée. Il se mit à rire, et dit : – Sans doute, c’est ce que vous ou moi, nous ferions, n’est-ce pas ?
+
+['On', 'Chacun', 'Il', 'on', 'Elle']	Christophe	Ils avaient beau médire de la littérature : il leur fallait une béquille littéraire sur laquelle s’appuyer. Étranges béquilles ! [MASK] remarqua la puérilité bizarre des sujets qu’ils s’astreignaient à peindre. C’étaient des vergers, des potagers, des poulaillers, des ménageries musicales, de vrais Jardins des Plantes.
+
+['il', 'elle', 'Louis', 'on', 'Joseph']	Christophe	Depuis des mois, [MASK] n’avait causé avec personne, ni reçu aucune lettre, sauf de loin en loin quelques mots de la vieille maman, qui ne savait point qu’il était malade, qui ne lui disait point qu’elle était malade.
+
+['Il', 'Pierre', 'Louis', 'Antoine', 'David']	Christophe	Il lui dit : – J’ai pensé que cela vous ferait plaisir d’entendre un peu de musique ; et comme j’ai mes entrées partout, je suis venu vous prendre. [MASK] fut ravi. Il trouva l’attention délicate et remercia avec effusion.
+
+['Il', 'Elle', 'Lui', 'Pierre', 'Philippe']	Christophe	[MASK] regardait, écoutait. Il serrait les dents, pour ne pas dire une énormité. Toute la soirée, il restait tendu et crispé. Il ne pouvait ni parler, ni se taire. Parler, non par plaisir ou par nécessité, mais par politesse, parce qu’il faut parler, lui semblait humiliant.
+
+['moi', 'lui', 'nous', 'vous', 'elle']	Christophe	; le cocher le roua de coups pour le faire relever ; la malheureuse bête, étranglée par ses sangles, s’agitait et retombait lamentablement, immobile, comme morte. Ce spectacle banal fut pour [MASK] la goutte d’eau qui fait déborder l’âme.
+
+['Monsieur', 'le', 'Madame', 'Pierrot', 'Julie']	Christophe	: – Mais elle a tant de talent ! – Elle n’en a aucun, dit [MASK]. – Comment !… Une si belle voix ! – Elle n’en a aucune. – Et puis, une si belle personne ! – Je m’en fous.
+
+['Il', 'Elle', 'Pierre', 'Jean', 'On']	Christophe	et celui-ci l’amusait d’autant plus qu’il connaissait les héros de l’histoire : le côté comique lui en apparaissait. – Écoutez, continua-t-il. Il est midi passé. Faites-moi le plaisir… Déjeunez avec moi. [MASK] accepta avec reconnaissance. Il pensait
+
+['lui', 'Marie', 'Juliette', 'Julie', 'Rose']	Colette	Elle était amoureuse en secret de [MASK] : elle lui volait un ruban, un mouchoir ; souvent, en sa présence, elle ne pouvait dire un seul mot ; et quand elle l’attendait, quand elle savait qu’elle allait la voir, elle tremblait d’impatience et de bonheur.
+
+['Jean', 'Madame', 'Pierre', 'Pierrot', 'Charles']	Christophe	– Elle ne vaut rien, rien du tout, continua [MASK]. Elle n’a ni voix, ni goût, ni métier, pas l’ombre de talent. Vous avez de la chance de ne pas l’avoir entendue tout à l’heure !…
+
+['Freud', 'Flaubert', 'Proust', 'Balzac', 'Baudelaire']	Berlioz	Comme disait [MASK], « ces gens-là emploient ces termes avec le plus grand sang-froid ; on dirait qu’ils parlent vin, femmes, ou autres cochonneries ». Un médecin aliéniste reconnaissait dans l’héroïne d’Ibsen une de ces clientes, mais beaucoup plus bête.
+
+['Il', 'Elle', 'Jésus', 'il', 'On']	Christophe	[MASK] continua : – Je suis venu, vous savez… On vous a dit, n’est-ce pas ?… Eh bien, quoi de nouveau ? Vous avez parlé de moi ? Qu’est-ce qu’on a répondu ?
+
+['Chopin', 'Wagner', 'Mozart', 'Beethoven', 'Bach']	Christophe	; mais les autres éditeurs étaient encore pires. – Il y avait aussi les riches dilettantes, qui accouchaient d’un lambeau de phrase musicale, et qui n’étaient même pas capable de l’écrire. Ils faisaient venir [MASK], et lui chantaient leur élucubration :
+
+['il', 'Joseph', 'Louis', 'Charles', 'Paul']	Christophe	Le reste de la journée fut long à passer ; mais [MASK] était si fatigué par sa mauvaise nuit et par les courses du matin qu’il finit par s’assoupir sur sa chaise. Il ne sortit de sa torpeur, vers le soir, que pour se coucher ;
+
+['lui', 'soi', 'elle', 'eux', 'nous']	Kohn	; et les souvenirs du passé, les monuments d’une ville, le laissaient indifférent. À peine dehors, il s’ennuya tellement que, quoiqu’il eût décidé de ne pas retourner chez [MASK] avant huit jours, il y alla, tout d’une traite.
+
+['lui', 'elle', 'moi', 'eux', 'nous']	Christophe	Elle était assez bonne, mais sans franchise, par faiblesse, par bonté même. Elle jouait à demi la comédie ; elle feignait de penser comme [MASK]. Elle savait bien le prix d’un ami comme lui ; mais elle ne voulait faire aucun sacrifice à une amitié
+
+['Il', 'On', 'Wagner', 'Beethoven', 'Chopin']	Christophe	Il ne restait rien au fond. [MASK] ne tarda pas à remarquer que cette quantité de musique se réduisait en somme à fort peu de chose. Il trouvait à tous les concerts les mêmes figures et les mêmes morceaux. Ces programmes copieux ne sortaient jamais du même cercle.
+
+['Il', 'Elle', 'il', 'Le', 'Et']	Christophe	« Et puis soi-même devenir terre… » [MASK] secoua ces pensées maladives, le sourire meurtrier de la sirène qui guette les âmes affaiblies. Il se leva et essaya de marcher dans sa chambre ; mais il ne put tenir debout. Il grelottait de fièvre.
+
+['peine', 'gagner', 'Louis', 'dépenser', 'payer']	Christophe	Il restait à [MASK] cinq francs. Il prit sur lui, malgré sa répugnance, de demander à son hôte, le gros cabaretier, s’il ne connaîtrait pas dans le quartier des gens à qui il pourrait donner des leçons de piano.
+
+['Il', 'Elle', '</s>NOTUSED', 'il', 'Pierre']	Diener	: – Tu connais beaucoup de monde dans la colonie allemande ? – Oui. – Eh bien, parle de moi. Ils doivent être musiciens. Ils ont des enfants. Je donnerai des leçons. [MASK] prit un air embarrassé. – Qu’est-ce encore ? fit
+
+['Marie', 'madame', 'Madame', 'Jeanne', 'maman']	Christophe	– Ah ! faisait [MASK], en entrant. Voilà la chatte, qui fait encore ronron ! – Malhonnête ! disait-elle en riant… (Et elle lui tendait sa main un peu moite). –… Écoutez cela. Est-ce que ce n’est pas joli ?
+
+['il', 'on', 'elle', 'Il', 'chacun']	Christophe	Mais il était un peu myope et se défiait de ses yeux, bien que leur intuition le trompât rarement. Il y eut un remue-ménage parmi les gens du fond, quand [MASK] eut dit son nom au commis qui le recevait ;
+
+['On', 'Il', 'Elle', 'on', 'Chacun']	Christophe	Les flots de la misérable vie s’agitaient au-dessus de Lui : qu’y avait-il de commun entre elle et Lui ? Toutes les douleurs du monde, acharnées à détruire, venaient se briser contre son roc. [MASK] entendait battre ses artères, comme une mer intérieure ;
+
+['elle', 'on', 'il', 'Marie', 'Elle']	Christophe	Elle était toute guindée et glacée, elle avait les bras collés au corps, elle ne pouvait remuer ; et quand [MASK] posait la main sur sa menotte, pour rectifier la position des doigts et les étendre sur les touches, elle se sentait défaillir.
+
+['Il', 'Elle', 'On', 'il', 'Pierre']	Christophe	; ou il voyait, assise au pied du lit, cette femme, dont la figure ne lui était pas tout à fait inconnue. Puis il vint une autre figure, un médecin qui l’ausculta. [MASK] n’entendait pas ce qu’on disait ;
+
+['Ainsi', 'Comment', 'Alors', 'Telle', 'Là']	Christophe	La mort : elle était partout, sous ce luxe, sous ce bruit. [MASK] s’expliquait la répulsion qu’il avait tout d’abord éprouvée pour certaines de ces œuvres. Ce n’était pas leur immoralité qui le choquait. Moralité, immoralité, amoralité, – ces mots ne veulent rien dire.
+
+['Molière', 'Voltaire', 'Socrate', 'Napoléon', 'Bonaparte']	Molière	Mais le bon sens français les sauvait des excès de cette barbarie érudite ; ils se gardaient bien d’appliquer leurs théories ; ils agissaient avec elles, comme [MASK], avec ses médecins : ils prenaient l’ordonnance, et ils ne la suivaient pas. Les plus forts allaient leur chemin.
+
+['John', 'Paul', 'David', 'Pierre', 'Albert']	Christophe	Une fille maigre, aux cheveux rouges, voyant [MASK] absorbé dans sa contemplation, lui fit des offres. Il la regarda sans comprendre. Elle lui prit le bras, avec un sourire stupide. Il secoua son étreinte, et s’éloigna rougissant de colère. Les cafés
+
+['mort', 'carnaval', 'cire', 'Staline', 'Lénine']	Beethoven	De tout son mobilier, l’objet le plus précieux pour lui était, avec sa vieille malle, un de ces moulages, si vulgarisés depuis, du masque de [MASK]. Il l’avait empaqueté avec autant de soin que s’il s’était agi d’une œuvre d’art du plus haut prix.
+
+['Elle', 'On', 'Qui', '</s>NOTUSED', 'Il']	Grazia	Bien rarement passait sur la route poudreuse le pas traînant d’un grave paysan, ou d’une belle campagnarde, aux yeux lumineux dans la figure hâlée, marchant d’un rythme balancé, la tête haute, la poitrine en avant. [MASK] vivait des journées seule, dans le parc silencieux
+
+['Pierre', 'Monsieur', 'Francis', 'chacun', 'monsieur']	Christophe	– Parfait. Je vous écrirai demain. – Demain ? – Demain. Vous pouvez y compter. Il se dégagea des poignées de main de [MASK], et il se sauva. Ouf ! pensait-il. Voilà un raseur !
+
+['artiste', 'roi', 'acteur', 'peintre', 'grand']	César	L’art est la vie domptée. L’empereur de la vie. Quand on veut être [MASK], il faut en avoir l’âme. Vous n’êtes que des rois de théâtre : c’est un rôle que vous jouez, vous n’y croyez même pas.
+
+['Marie', 'Jeanne', 'Pierre', 'Sophie', 'Jean']	Christophe	– Ma situation ? – Oui… Enfin, cette affaire, ce procès… Si cela venait à se savoir. C’est difficile pour moi. Cela peut me faire beaucoup de tort. Il s’arrêta, voyant le visage de [MASK] se décomposer de colère ;
+
+['Voltaire', 'Monsieur', 'Montesquieu', 'Molière', 'M']	Christophe	Au reste, s’ils avaient questionné [MASK], c’était par politesse, non par curiosité : ils n’en avaient aucune ; à peine s’ils prirent garde à ce qu’il répondait ; ils se hâtèrent de revenir aux questions parisiennes qui délectaient le reste de la table.
+
+['souffle', 'sang', 'style', 'génie', 'vent']	Shakespeare	: – Hein ! Est-ce assez mauvais ! Quel four ! Et, le lendemain, dans leurs chroniques, ils parlaient de chef-d’œuvre, de [MASK] nouveau, et de l’aile du génie, dont le vent avait passé sur les têtes.
+
+['elle', 'il', 'on', 'Marie', 'Jeanne']	Christophe	et, pour rien au monde, [MASK] n’eût voulu y manquer : la bonne femme comptait trop sur la lettre de son garçon, elle n’aurait pu s’en passer. Elle lui écrivait un peu plus souvent, depuis quelques semaines, malgré la peine que cela lui coûtait d’écrire.
+
+['il', 'Chopin', 'Beethoven', 'Debussy', 'Mozart']	Christophe	et le reste du public que le poème symphonique avait ennuyé, s’associa complaisamment au verdict des gens compétents. Pour comble de malchance, [MASK] avait eu l’imprudence, afin de faire valoir son talent de virtuose, d’accepter de se faire entendre, au même concert, dans une Fantaisie pour piano et orchestre.
+
+['Cela', 'Elle', 'Il', 'Ca', 'Ceci']	Christophe	Pour être, il fallait toujours qu’elle fût un autre. Toute sa personnalité, c’était qu’elle ne le restait pas. Elle changeait de vases, souvent. [MASK] l’attirait, pour beaucoup de raisons, dont la première était qu’il n’était pas attiré par elle.
+
+['Molière', 'Voltaire', 'Flaubert', 'Balzac', 'Lui']	Christophe	[MASK], qui n’était pas dupe, riait en lui-même de l’adresse « de cette sacrée mâtine, qui jouait, comme si elle sentait ce qu’elle jouait, quoiqu’elle n’en sentît rien ». Il ne laissait pas d’en éprouver pour elle une sympathie amusée.
+
+['Lui', 'Mais', 'Il', 'Jean', 'Paul']	Christophe	[MASK], intimidé par cette société d’élite, se taisait, et il était tout oreilles. Il ne réussissait pas à comprendre – ayant peine à suivre la volubilité de parole française – quels grands intérêts artistiques étaient débattus.
+
+['Madame', 'Monsieur', 'madame', 'Mme', 'Marie']	Kohn	– Quand saurai-je ? – Demain… Demain… ou après-demain. – Très bien. Je reviendrai demain. – Non, non, se hâta de dire [MASK], je vous le ferai savoir. Ne vous dérangez pas. – Oh ! cela ne me dérange pas.
+
+['lui', 'force', 'Dieu', 'son', 'politesse']	Christophe	; mais jamais il ne pouvait l’atteindre. Son ennemi avait la suprême habileté, même quand son tort était le plus certain, de se donner le beau rôle ; il se défendait avec une courtoisie, qui faisait ressortir le manque d’usage de [MASK].
+
+['liberté', 'presse', 'lecteurs', 'place', 'temps']	Napoléon	Mais vous n’avez plus de [MASK]… D’abord, tous vos critiques vivent dans cette atmosphère viciée : ils ne s’en aperçoivent plus. Puis, ils n’osent parler. Ils se connaissent tous, ils forment une compagnie, et doivent se ménager : il n’est point d’indépendant.
+
+['lui', 'Frédéric', 'Pierre', 'Julien', 'Thomas']	Christophe	Ces feux-follets l’intriguaient : il eût voulu s’en approcher pour savoir comment ils brillaient ; mais ils n’étaient pas faciles à saisir. Ces libres musiciens que [MASK] ne comprenait pas, et qu’il était d’autant plus curieux d’observer, étaient peu abordables.
+

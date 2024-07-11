@@ -1,0 +1,200 @@
+['clemenceau', 'mitterrand', 'jaurès', 'macron', 'fillon']	Raymond	Les revues le citent, les catholiques de droite et les journaux conservateurs le désapprouvent. La polémique s’installe et [MASK], avec l’instinct politique et l’ambition cachée qui le caractérisent, sent une faille par laquelle il pourrait peut-être s’insinuer et atteindre le grand public.
+
+['</s>', '--', 'il', '_', '--il']	Olivier	Papa avait commencé à nous demander un sujet d’histoire. [MASK] avait demandé : “Raconte-nous l’histoire d’un pauvre coq qui n’avait pas de poule mais qui avait deux canards.” C’est devenu pour longtemps un sujet de plaisanterie dans la famille.
+
+['il', 'elle', 'chacun', 'on', 'et']	Olivier	Quand on sonne le commencement des classes, je me retrouve seul devant le mur de la petite avant-cour qui donne sur la grande cour de récréation où je n’ose pas m’aventurer. A la sonnerie, [MASK] se met dans les rangs de sa future classe.
+
+['dit-elle', 'oui', 'dit-il', 'madame', 'non']	Noémie	Arrivent trois gamins et deux petites filles qui vont partager cette chambre avec moi. Je suis le nouveau, je dois leur dire mon nom, mon pays et ma ville. Ils me préviennent : “Ici nous avons une bonne nurse, [MASK], elle est sévère mais gentille.
+
+['maman', 'papa', 'sarah', 'ça', 'tom']	Mary	Elle me demande : “Pourquoi te fatigues-tu à courir partout comme ça ?” J’ai le pressentiment que le dévoilement s’approche et qu’un énorme coup va s’abattre sur sa tête. Quand je vois [MASK], je lui dis : “Essaie de comprendre.
+
+['garde', 'marthe', 'retraite', 'veille', 'marie']	Laure	Je ne suis pas de garde. Et soudain, je suis pris d’un violent mouvement de passion : je peux, en roulant vite, arriver à la maison de [MASK] et au moins la voir. Je ne désire rien d’autre. Mais si son mari est là ?
+
+['il', 'lui-même', 'monseigneur', 'on', 'mgr']	Leclair	Nous comprenons tout de suite que l’abbé a reçu un coup de bambou du cardinal, que la revue va peut-être être supprimée. Comme [MASK] a été très affecté par ce qui lui est arrivé, nous n’osons pas lui demander d’explication.
+
+['il', '.il', 'et', 'qui', 'e.il']	Ghislain	[MASK] a voulu venir le voir avec nous. Il l’a regardé et lui a dit : “Tu es peut-être un bon garçon, mais ton père m’a chassé. Il ne serait pas content de savoir que tu viens chez moi.
+
+['nuit', 'la', 'guerre', 'ce', 'qui']	Laure	[MASK], qui occupe toutes mes pensées, est partie en exode, errant sur les routes comme tant d’autres. La nuit est toujours très sombre. Je prends une autre route pour sortir de la ville mais elle a été bombardée et j’avance très lentement.
+
+['</s>', '"', '-', 'il', "j'"]	Libion	J’ai l’esprit tellement perturbé par la situation que je suis persuadé que le commandant viendra avec nous. [MASK] est moins confiant : “Ton projet est réalisable, et je viendrai avec toi si le commandant se joint à nous, mais j’en doute.
+
+['toujours', 'papa', 'service', 'classe', 'maman']	Paul	Nous patinons toujours avec elle à trois et formons parfois un plus grand groupe en nous tenant par la main, ce qui épouvante les novices. Le gel cette année est exceptionnel, il dure plusieurs semaines. L’amie de [MASK], qui s’appelle Clémence, est tout sourire avec moi.
+
+['</s>', 'on', 'elle', 'maman', 'il']	Olivier	Nous nous ennuyons souvent l’après-midi car maman a beaucoup de travail. [MASK] a trouvé dans une armoire un grand livre illustré, oublié par les locataires précédents. Les gravures, inspirées très librement d’œuvres célèbres, racontent l’histoire sainte.
+
+['ça', 'non', 'toi', 'maman', 'si']	Henry	“Mais [MASK], tu n’y penses pas ! La capitulation, c’est un ordre ! — Ceux qui veulent continuer à se défendre n’ont pas à obéir à cet ordre. — C’est un ordre du roi. C’est le commandant de l’armée.
+
+['sarkozy', 'celui-ci', 'napoléon', 'kadhafi', 'moubarak']	Théo	Pour lui, c’est normal et ça ne compte pas beaucoup. A ses yeux, les grandes idées d’amour, de justice sociale, de service des pauvres ne sont que des illusions. Le départ de [MASK] a provoqué quelques rumeurs, des conversations brèves, mais il est déjà oublié.
+
+[',', ':', 'de', 'moi', 'dit']	Marie	Peu à peu, tout le monde a remarqué ma singulière façon de marcher sur les pointes des pieds qu’on a appelée comme tante [MASK] “marcher sur des œufs”. Les enfants en riaient, les adultes y voyaient un travers qui allait peut-être handicaper ma vie.
+
+['nouveau', 'maman', 'paul', 'pierre', 'marie']	Mary	L’incident est affreux. Je me retrouve à la fin du mois avec une note considérable à payer tout de suite. La colère me prend et je dis à [MASK] : “Si tu continues comme ça, la vie va devenir impossible et je divorcerai.”
+
+["c'", 'homme', ',', 'il', 'qui']	Hitler	[MASK] est un possédé en qui se succèdent des intuitions géniales, des passions incompréhensibles et une confiance qui atteint au délire et qui a fait délirer tout un peuple avec lui. Les explications qu’on peut donner sur ce formidable orage historique sont souvent valables mais toujours fragmentaires.
+
+['joyce', 'jane', 'guerre', 'marguerite', 'judith']	Rodrigue	Lorsque j’arrive au merveilleux passage du récit de [MASK] : “Cette obscure clarté qui tombe des étoiles”, elle ne peut plus se retenir de rire et dit : “Cette obscure clarté, je ne peux pas marcher là-dedans.
+
+['famille', 'marie', 'celle-ci', 'celui-ci', 'jeanne']	Théo	Je découvre un milieu tout à fait différent, plus politique et plus intellectuel que le nôtre. La mère de [MASK], plus riche que son mari, a longtemps été adulée pour sa beauté dans la société gantoise, puis bruxelloise.
+
+['.', 'les', 'lui', 'ses', 'sa']	Olivier	Les travailleurs de la ferme sont aux champs. L’enfant lève parfois les yeux vers un grand arbre aux feuilles rouges qu’on voit d’une fenêtre de la chambre blanche où il dort avec [MASK]. Certaines branches voudraient y pénétrer. Papa, très habilement, les a contenues.
+
+['monsieur', 'chacun', 'lui', 'moi', 'personne']	Mary	Tout est assez sommaire, mais j’y suis seul pendant la journée et je m’y trouve bien. Je me rends compte que [MASK], depuis sa petite enfance, n’a jamais joui d’un espace plus grand, ce qui me remplit de compassion pour elle.
+
+['toi', 'lui', 'elle', 'vous', 'moi']	Laure	Est-ce qu’il était possible, dans la pénurie actuelle, de trouver des bottes de caoutchouc à des prix suffisamment bas pour eux ? Depuis maintenant un mois, je pense continuellement à [MASK], à son charme, à sa beauté et à son esprit si concret.
+
+['il', '"', '</s>', 'elle', '--il']	Nini	puis me montrant le brancard cassé : “Regarde ce que tu as fait ! [MASK] aurait pu se tuer, et maintenant nous n’avons plus de charrette !” Je pleurais tellement qu’il a fini par me prendre la main, nous nous sommes assis et il m’a donné un peu de raisin.
+
+['il', 'ne', 'dieu', 'dexter', 'david']	Reinier	Il y a un jeu visible et un jeu invisible. Je ne sais pas si [MASK] s’est jamais intéressé à ma personne. Il est si brusque et si rapide qu’il est difficile de le comprendre. Mais il s’intéresse à mon style.
+
+['il', 'elle', 'un', 'albert', 'henri']	Olivier	La cérémonie et le dîner sont parfaits, tout le monde est bien habillé, un peu à l’ancienne. Je suis très étonné de voir qu’[MASK], pour complaire à papa, a accepté de se marier en habit. Est-ce qu’il l’a loué ?
+
+['il', 'chacun', 'on', 'qui', 'julien']	Théo	Quelques jours plus tard, nous faisons notre premier manège sur la plaine des manœuvres. Nous sommes en tape-cul, sans étriers et [MASK] est fortement secoué par le trot fort dur de son cheval. Le lieutenant nous fait faire des “à terre et à cheval”.
+
+['je', "j'", 'un', 'alors', 'moi']	Matagne	Je ne trouve pas de lit, mais [MASK], dans une salle à manger, étend deux bottes de paille sur une grande table et nous pouvons dormir. Le lendemain, le commandant m’indique d’aller relever avant midi une compagnie d’infanterie qui est installée dans un petit bois.
+
+['lui', 'autrui', 'aide', 'son', 'un']	Olivier	Je me considère comme un mauvais élève peu intelligent, mais les lectures désordonnées que je fais seul ou avec [MASK], mes conversations passionnées avec lui sur toutes sortes de sujets m’aident à ne pas prendre trop de retard.
+
+['</s>', 'il', 'je', 'on', 'qui']	Matagne	Je vais m’asseoir sur un tronc d’arbre abattu par une bombe. [MASK] m’apporte de l’eau et une gamelle pleine. Nous mangeons tous les deux, il me dit : “S’il n’y avait pas eu vous, les hommes seraient restés couchés.
+
+['il', 'lui', 'chacun', 'celui-ci', 'moi']	Olivier	Ils ont proposé un jeu mais [MASK] s’est levé, il a pris par une main Poupée qui pleurait, moi par l’autre, et nous sommes repartis vers la maison. Nous n’avons jamais parlé de cet incident.
+
+['celui', 'monsieur', 'jacques', 'personne', 'madame']	Raymond	Le lendemain, je reçois un coup de téléphone très chaleureux de [MASK] qui me propose de venir le voir. Il est installé tout en haut d’un grand immeuble qui appartient au Parti catholique bruxellois. Son bureau est accolé à une petite salle de réunion.
+
+['je', 'il', 'et', 'on', 'elle']	Luc	[MASK] me demande de le faire avec lui. Je viens d’être engagé dans une autre activité. Entre les commis d’office, les affaires que je traite pour mon patron et mon nouveau travail, je n’ai pas le temps de me préparer.
+
+['ça', 'cela', 'ce', 'ceci', 'tout']	Mérence	? Est-ce que c���est elle qui nous habillait le matin ? Dans mon cœur je dis oui, bien que je sache que ce n’était pas vrai et que [MASK] n’existait pas tout à fait.
+
+['maman', 'chacun', "j'", 'monsieur', 'marie']	Théo	Nous avons cependant de temps en temps des moments heureux tous les trois, en allant dans un petit café-cabaret que [MASK] a découvert : c’est le café de la mère Boirard, qui nous fait une cuisine exquise et nous donne du très bon vin pour quelques francs.
+
+['elle', 'madame', 'marie', 'jeanne', 'pauline']	Jacqueline	Dans les brefs moments où nous sommes ensemble, nous parlons de son travail, de mon service militaire et de la guerre qui s’approche. Il aime manifestement beaucoup [MASK], qui est une femme pleine de qualités concrètes et qui fait tout ce qu’il désire.
+
+['maman', 'elle', 'papa', 'moi', 'celle-ci']	Mary	Je ne sais pas, je me tais, accablé par le mépris de maman et par les doutes qui me tourmentent. Elle me montre la lettre griffonnée par [MASK] : “Tu es vraiment marié, marié par un prêtre ? — Oui.” Elle éclate en sanglots.
+
+['qui', 'celui-ci', 'celle-ci', 'elle', 'lui']	Théo	Le lieutenant nous fait faire des “à terre et à cheval”. Je me retrouve très vite sur ma monture mais [MASK], comme je le craignais, ne parvient pas à remonter sur la sienne. Les vociférations et les vilaines plaisanteries du lieutenant commencent à lui tomber dessus.
+
+['</s>', 'elle', '"', 'il', 'la']	Olivier	Ils se plaisent. [MASK] danse très bien et l’emmène dans quelques bals. Mais elle n’a pas les vêtements qu’il faut pour briller parmi ces jeunes filles riches qu’elle juge très inférieures à ce qu’elle aurait été sans la guerre et la révolution.
+
+['"', 'succès', 'tout', 'à', 'soin']	Mary	. Toutes mes forces sont tendues vers mes examens et la régularisation de ma situation avec [MASK]. Je travaille beaucoup le premier trimestre. Mes parents le remarquent et comme ils veulent me récompenser de mon succès à l’examen précédent, ils me proposent de faire un voyage.
+
+['autrui', 'avance', 'ailleurs', 'enfant', 'moi']	Olivier	Je vois avec surprise que tout ce que je raconte est inconnu d’[MASK], et que mon père ne me l’a laissé entendre que parce qu’il me juge trop petit pour comprendre. Sans doute y a-t-il aussi une petite complicité entre mon père et moi.
+
+['il', 'ulysse', 'jésus', 'homer', 'socrate']	Ghislain	Un jour, [MASK] a trouvé une grande perche et est parvenu à sauter avec elle par-dessus la rivière. Il expliquait : “Tu cours avec ta perche, tu la plantes au fond de l’eau et tu te lances.”
+
+['monsieur', 'moi', 'vous', 'docteur', 'mademoiselle']	Louis	Nous sommes partis dans un petit village et, là, on m’a réquisitionné, vous ne croirez jamais pourquoi : pour tourner des obus. — Qu’est-ce que c’est tourner des obus, [MASK] ? — C’est les fabriquer avant de les envoyer péter en l’air.
+
+['ceci', 'cela', 'ça', 'toi', 'lui']	Hitler	Celui-ci, avec un aplomb formidable, assure que le cheval avait un mors droit et une gourmette. La tête avec laquelle il affirme cela me fait penser à [MASK] : c’est le même visage embrouillé, la petite moustache et les cheveux noirs.
+
+['"', '...', 'jésus', 'toi', 'dieu']	Jacqueline	“Tu sais, c’est à ce moment que j’ai commencé à aimer [MASK].” En revenant à l’appartement que je louais chez un de ses fils dans la montagne, en face de chez lui, je me dis : Il a raison.
+
+['</s>', '-', '--', '_', 'on']	Olivier	Je me glisse dans le coin de la porte. [MASK] ne cédera pas. Maman le comprend elle aussi, elle le prend par le bras et sort avec lui. Papa crie : “Quand veux-tu partir ?”
+
+['boileau', 'virgile', 'jeunesse', 'baudelaire', 'corneille']	Villon	Je lis en grand désordre beaucoup de choses dans cette anthologie, et je suis au passage touché par des vers de [MASK] : Et je pense à mes camarades d’école qui sont entrés au grand collège. J’ai brillé parmi eux et voilà que je suis en train de perdre un an.
+
+['a', '"', 'ah', 'maître', 'amen']	Proficiat	Le lendemain, il me rend ma feuille sur laquelle il a écrit de sa belle écriture à l’encre rouge : “[MASK]. Continuez !” Entraîné par son regard et son attention, je fais de grands progrès et je deviens le deuxième de la classe.
+
+['soldats', 'femmes', 'généraux', 'jeunes', 'guerre']	Hitler	On voit même parfois dans les abris des portraits de [MASK] découpés dans les journaux. Ces jeunes soldats, et surtout leurs sous-officiers de réserve, sont manifestement influencés par le parti nationaliste flamand. Je parle au commandant de ce que j’ai remarqué.
+
+['vichy', 'pétain', 'hitler', 'franco', 'mussolini']	Hitler	Je termine mon service militaire en octobre 1934 dans un climat intérieur et politique très obscur. Le pouvoir de [MASK] grandit, l’opposition est en déroute : elle est en fuite ou dans les camps de concentration. L’hostilité envers les juifs commence à se manifester par des actes.
+
+['lui', 'elle', 'toi', 'vous', 'nouveau']	Théo	Nous allons parfois nager dans un étang proche et glacial, où à notre grande surprise nous voyons un jour surgir des pierres sous nos pieds une vipère qui fuit en nageant, la tête admirablement soulevée comme si elle portait un casque de chevalier. Je me rapproche de [MASK].
+
+['la', 'première', 'seconde', 'ma', 'dernière']	Laure	Je suis désespéré. A quelques kilomètres de notre village, la route devient très étroite, les pavés sont mauvais. J’ai envie de me coucher. Il ne faut pas, il ne faut pas. Et [MASK] partie ! Il ne faut surtout pas te coucher.
+
+['maman', 'sophie', 'lily', 'rose', 'hermione']	Luc	Je prends peur : elle ne pourra jamais faire la traversée seule. Je conseille à [MASK] de continuer jusqu’à l’île pendant que je vais la rejoindre, il refuse. La promenade sur l’autre île est fichue.
+
+['</s>', 'on', 'il', 'elle', '--il']	Franck	L’homme a un revolver à la main. Très choqué par la chute de son appareil, cerné par plusieurs hommes, baïonnette au canon, il se rend à moi sans tirer. [MASK] a trouvé dans l’avion deux hommes commotionnés mais pas trop gravement blessés.
+
+["c'", 'il', 'elle', 'on', 'tout']	Matagne	Il ne faut surtout pas te coucher. J’arrive au village, j’entre dans ma chambre et, tout de suite, [MASK] est là qui me demande : “Où étiez-vous ? Le jour de repos est supprimé. L’ordre est de partir à quatre heures du matin.”
+
+['ordre', 'exclusion', 'union', 'appel', 'interdiction']	Oxford	Un étudiant de dernière année me demande un jour de me joindre à la motion d’[MASK] qui mentionne que ceux qui la signent ne combattront plus pour la patrie et pour le roi. Je suis surpris, j’hésite, et je finis par refuser.
+
+['mons', 'anvers', 'gand', 'bruges', 'charleroi']	Blémont	Papa seul est resté dans une petite chambre au-dessus des écuries, à la demande de son père, pour surveiller la maison et tenter d’éviter de trop grandes déprédations. Après Malines et notre maison brûlée, après [MASK], nous sommes aussi chassés des Genêts et devons chercher refuge ailleurs.
+
+['toi', 'succès', 'vous', 'elle', 'ça']	Mary	Il a une très jolie femme et il fume beaucoup. Il aurait pu être un excellent avocat, mais il ne veut pas faire carrière : il préfère rester libre. Je me sens seul, insolublement seul face à l’aventure pourtant banale qui m’arrive avec [MASK].
+
+['il', 'et', 'elle', 'qui', 'on']	Clovis	Le taureau résiste et [MASK] ne peut que peser encore et encore sur les cornes en essayant chaque fois de le faire glisser vers la pente. Le taureau mugit, il se cramponne des pieds, résiste de toutes ses forces, et l’on voit les deux corps se mettre à transpirer.
+
+['napoléon', 'celui-ci', 'bonaparte', 'césar', 'il']	Hitler	Qui aurait pu croire que trois mille hommes allaient changer le sort du combat ? Mais tous alors, nous avons repris confiance. C’est peut-être là que [MASK] a participé à une attaque en masse et qu’il a décidé : « Plus jamais ça.
+
+['le', 'un', 'en', ',', 'satan']	Macbeth	Dès le début de sa lecture, j’ai été saisi par le caractère sacré du théâtre. J’avais oublié où j’étais, je ne voyais plus que les personnages et [MASK] revenant victorieux voyant devant lui les sorcières.
+
+['</s>', 'je', 'on', 'il', '--je']	Raymond	Tous les grands réformateurs religieux ont voulu créer de nouveaux ordres monastiques. [MASK] pense que la même chose est nécessaire à notre époque, mais que cet ordre doit être entièrement laïc et aussi indépendant que possible de l’Eglise.
+
+['elle', "j'", "c'", 'tu', 'marie']	Mary	Oui, [MASK] était faite pour être la femme d’un officier russe d’autrefois. Je regarde le commandant en face et je lui dis : “Oui, je suis amoureux, très amoureux. — Sois heureux alors, si tu peux, et fais gaffe !”
+
+['jésus', 'lui', 'dieu', 'profondément', 'aussi']	Raymond	Attiré et repoussé, j’écoute [MASK], je suis touché par son esprit percutant et par une certaine exaltation qui m’arrête. Il veut m’entraîner vers l’amour de Dieu, mais je résiste car ses grandes idées me dépassent.
+
+['toi', 'elle', 'moi', 'lui', 'ça']	Olivier	Maman, qui s’est habituée à ma médiocrité et qui pense que comme [MASK] je me contenterai de passer de classe en classe en travaillant le moins possible, s’intéresse à mon travail et commence à me suivre de plus près.
+
+['"', 'cela', 'davantage', 'ça', 'encore']	Jean	Je suis inquiet. Le commandant survient, je lui demande de me laisser aller avec deux groupes de combat et une mitrailleuse voir si je peux aider [MASK]. Nous filons en vitesse et, un peu avant l’endroit où ils étaient installés, je les vois revenir en désordre.
+
+['dit-il', 'lui', 'moi', 'enfin', 'alors']	Peeters	Un d’entre eux, [MASK], me propose de monter dans le grenier de la ferme sur laquelle nous nous appuyons à gauche et de nous prévenir si des chars s’approchent : “Ne tire pas surtout, contente-toi de nous prévenir.”
+
+['médecins', 'médecin', 'dieu', 'jésus', 'psychiatres']	Théo	Si nous ne nous étions pas mariés, lors de l’invasion allemande elle aurait risqué d’être envoyée dans un camp de concentration. Peut-être que, contrairement à mon bonheur, j’ai bien agi en suivant l’avis de [MASK].
+
+['13', '10', '20', '12', '18']	Laure	J’obtiens l’autorisation de me déplacer un après-midi. J’écris à [MASK]. Elle me dit que si elle peut, elle viendra et qu’elle sera à la gare d’Anvers à l’heure qu’elle m’indique.
+
+['dans', ',', 'jadis', 'naguère', 'avec']	Louis	Tout le monde l’espérait. C’est alors que les défaitistes dont nous avait parlé [MASK] aux longues moustaches, le disparu, ont commencé à se manifester. Les soldats ne voulaient plus obéir, ils voulaient retourner chez eux.
+
+['me', 'a', 'lui', 'il', 'a-t-il']	Olivier	[MASK] dit : “Moi j’aime bien les armes, tout le monde dans la famille aime les armes. — Les grands tueurs de gibier, comme ton oncle, ils aiment tous les armes. Mais il n’est pas à la guerre ton oncle, ni ton père.
+
+['on', 'elle', 'il', 'qui', 'maman']	Noémie	Le lendemain quand les autres se lèvent on me dit de rester au lit, où on m’apportera mon petit-déjeuner, puis le médecin viendra pour parler avec maman. En quittant la chambre [MASK] a ouvert les rideaux, un peu de lumière est entrée et je me suis précipité à la fenêtre.
+
+['lui', 'cela', 'là', 'lui-même', 'celui-ci']	Mary	Son mariage s’avère de plus en plus difficile. Le soir, s’il rentre chez lui sans regret, c’est pour voir son petit garçon et jouer avec lui. Mais de [MASK] il n’attend plus rien que colère, dépenses dépassant ses moyens, et plaisir.
+
+['</s>', 'a', '-', '--', 'cela']	Olivier	Nous n’avons jamais vu papa dans cet état de fureur. Il semble en même temps sur le point de pleurer. [MASK] se dresse en face de lui comme un jeune coq rouge et contient avec peine sa propre colère. Je me glisse dans le coin de la porte.
+
+['autre', 'elle', 'autre', 'autr', 'ici']	Olivier	Avant d’entrer dans sa chambre, maman m’étreint, comme si elle craignait encore de me perdre. Je pense : Je suis là, et elle ne sait rien d’[MASK]. Je monte doucement à l’étage suivant, où se trouve la chambre des enfants.
+
+['dieu', 'toi', 'maman', 'moi', 'marie']	Marcus	Je connais ce genre de petit mec, il faut leur faire face et ils filent.” Cette histoire reste profondément ancrée en moi, c’est une blessure qui a saigné longtemps. Par l’intermédiaire de [MASK], c’était une nouvelle victoire bien cachée d’oncle André sur mon père.
+
+['marie', 'nazareth', 'lourdes', 'pitié', 'jean']	Lourdes	Je vois encore sortant de sa soutane, juste devant la Vierge de [MASK], sa longue jambe pâle et ses chaussettes noires cherchant à éloigner l’aîné sans lui faire de mal, tandis que le plus jeune le frappe dans le dos.
+
+['elle', 'qui', "c'", 'il', 'celle-ci']	Mary	Heureusement, [MASK] est intelligente et rusée. Elle apprend vite les tours et les détours des pensées et des sentiments des religieuses du pensionnat. Quand on lui demande si elle veut se convertir, elle résiste avec détermination pendant quelques mois.
+
+['je', 'cela', 'ne', 'me', 'celui-ci']	Théo	Je ne savais pas qu’il ne donnait pas ses ordres à la voix mais par des mouvements du bras et lors du premier exercice sur la plaine des manœuvres, j’arrive en retard et me fais foudroyer par lui aussi durement que [MASK] l’avait été par le lieutenant Ranson.
+
+['aussi', 'papa', 'maman', 'maintenant', 'toi']	Olivier	Et tout le monde, sauf nos parents, te regardait en rigolant te débattre dans ses serres. Impossible de faire taire notre nièce. Je pense qu’elle avait bu un peu trop. — Et toi [MASK], qu’est-ce que tu penses de ça maintenant ?
+
+['</s>', '"', '-', 'le', 'a']	Franck	On pourrait les réunir et demander à ceux qui veulent continuer à se battre de venir avec nous. [MASK] pense qu’il y en aura au moins une cinquantaine. J’ai l’esprit tellement perturbé par la situation que je suis persuadé que le commandant viendra avec nous.
+
+['chef', 'capitaine', 'commandant', 'camp', 'lieutenant']	Libion	C’est le cas du commandant, celui de [MASK] et le mien. Il y a quelques formalités, puis la kommandantur nous donne un papier nous autorisant à sortir. Nos vélos sont toujours dans la cour, nous avons le droit de les prendre.
+
+['robespierre', 'chateaubriand', 'jaurès', 'lamartine', 'zola']	Raymond	C’est un catholique militant. L’idée lui vient tout de suite de créer une société pour réunir des personnes qui veulent quitter la ville pour retourner travailler à la campagne. Cela se rapproche curieusement du projet de [MASK] de créer un ordre nouveau.
+
+['bien', 'un', 'beaucoup', 'toujours', 'confirmation']	Clémence	Je regarde dans l’annuaire le nombre de gens qui portent le même nom : il y en a plus de cinquante. J’entreprends de téléphoner, je passe une dizaine de coups de fil en demandant [MASK], et chaque fois je me fais rebuter.
+
+['moi', 'tristan', 'moi-même', 'cendrillon', 'marguerite']	Tristan	Il y a eu le philtre que nous avons bu tous les deux, Yseult et [MASK], mais les autres ne verront pas les choses comme cela. Me voici au croisement où je dois descendre du bus et faire un kilomètre à pied pour prendre un train.
+
+['maman', 'mère', 'marie', 'elle', 'madame']	Mary	Mon père qui lit son journal ne prête pas attention à mon trouble mais maman le voit tout de suite. J’entends que [MASK] est furieuse et se sent abandonnée. Maman ne m’interroge pas mais à partir de ce moment, elle m’épie avec anxiété.
+
+['pierre', 'monsieur', 'dieu', 'antoine', 'thomas']	Théo	Je vois que je devrai suppléer [MASK] pour beaucoup de choses : il n’est pas capable, et ne le sera peut-être jamais, de faire rapidement son lit, son paquetage, et de nettoyer suffisamment ses armes et ses souliers. Le colonel vient nous rendre visite le troisième jour.
+
+['il', 'on', 'et', 'qui', 'ou']	Hitler	Les servantes le savaient : des orphelins, des orphelins. Je sens remonter en moi une chanson idiote qu’elles aimaient chanter : Chanson idiote, peut-être pas si idiote. La réalité a été pire. Deux fois blessé pendant la guerre, [MASK] croit perdre la vue.
+
+['cela', 'ça', 'faire', 'pas', 'et']	Attila	Pourquoi [MASK] ? Je n’ai pas montré ce poème à mes amis, il n’est resté que cette trace fugace dans mon esprit. En 1932, lors de sa première année d’université, mon personnage a écrit un autre poème dont le thème répétitif était : “Viens, mon âme, viens.”
+
+['on', 'je', 'se', 'il', 'le']	Raymond	[MASK] voit très vite que parmi ceux qui sont là, je suis celui qui est le plus touché par les fragments qu’il nous lit. Je découvre en lui un mélange de pensée et d’action, une intensité de la sensibilité religieuse que je n’ai jamais rencontrés jusque-là.
+
+['on', 'chacun', 'ils', 'il', 'cela']	Bismarck	Et puis, comme les artisans et les ouvriers s’agitaient un peu partout et n’avaient pas beaucoup de plaisir, et comme [MASK] rêvait de puissance, les dirigeants ont fait la guerre. Pour eux, c’était la solution, comme en 1914.
+
+['celui-ci', 'julien', 'marie', 'jane', 'lui']	Robert	Mais à cette époque dans notre milieu, être comédien n’était pas comme il faut. Ce don n’a pas été développé et jamais personne n’a pensé qu’il aurait pu faire du théâtre. A côté de ce don, la principale occupation de [MASK] était la lecture.
+
+['il', 'qui', 'ney', ',', 'lui']	Clovis	[MASK] vient voir la bête à l’étable et dit : “Je n’en ai jamais vu d’aussi fort. A mon âge, je travaille avec l’aide de mon aîné mais ce taureau, né d’une mère allemande, j’ai envie pour la dernière fois de le dompter tout seul.”
+
+['maman', 'papa', 'elle', 'il', 'on']	Olivier	Maman le comprend elle aussi, elle le prend par le bras et sort avec lui. Papa crie : “Quand veux-tu partir ?” [MASK] répond : “Demain. — A quelle heure, par quel train ?
+
+['moi', 'vous', 'toi', 'tous', 'moi-même']	Luc	Je travaille sur le “presque” et, le jour de l’examen, je sens que je m’en tire bien et qu’il en est de même pour [MASK]. Le lendemain, le jury délibère : nous passons tous les deux l’examen de quatrième année.
+
+['cela', 'ça', 'tout', 'paris', 'ceci']	Laure	Je la vois partir, légère, élégante, mais pas trop cependant pour ne pas se faire remarquer. Je pense à l’une des Béatitudes : “Heureux les doux, ils auront la terre en partage.” Est-ce que [MASK] peut devenir ma terre ?
+
+['</s>', 'il', '--il', 'chacun', 'elle']	Fairbanks	Comment se tenaient-ils en équilibre ? [MASK] avait sur la tête un chapeau de paille comme on en portait à l’époque. Une multitude d’hommes en tenue d’automne, tous en chapeau, les regardaient et les applaudissaient, et pas une seule femme dans l’assemblée.
+
+['maman', 'monsieur', 'papa', 'pierre', 'tout']	Olivier	On m’a enlevé les plâtres le matin en me disant de marcher peu le premier jour. Entendant les cris d’un grand jeu, je vais à la fenêtre et je vois [MASK] se cacher derrière un arbre avant de courir jusqu’au gros chêne qui est toujours le but de nos jeux.
+
+['et', ',', 'ou', 'sans', '"']	Olivier	Mais je ne te donnerai pas un sou. Comment feras-tu pour t’en tirer ?” Maman ouvre la porte, juste pour entendre [MASK] répliquer : “Si je pars pour travailler à la campagne, je me tirerai d’affaire tout seul et je ne reviendrai plus.”
+
+['un', 'autrui', 'une', 'ulrich', 'andré']	Olivier	De ce qui s’est réellement passé alors, je ne sais rien. Quand je suis parvenu à un peu plus de conscience, je me suis trouvé face au rire d’[MASK] qui se moquait de ce qu’il appelait “l’enfant du miracle”.
+
+['</s>', 'elle', 'on', 'il', 'jeanne']	Olivier	Jeanne, la belle servante, était là, elle a pris Poupée dans ses bras et l’a emmenée dans sa chambre. [MASK] m’a entraîné dans notre petite salle de jeu où malgré le beau temps nous sommes restés tristement à jouer avec nos soldats.
+

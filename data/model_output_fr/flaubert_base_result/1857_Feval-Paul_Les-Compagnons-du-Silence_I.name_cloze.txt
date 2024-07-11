@@ -1,0 +1,200 @@
+['</s>', '"', '!', '(', '_']	Angélie	? Un palais ruisselant de lumières… des femmes belles, jeunes, parées… et, parmi elles, une vierge au sourire de sainte, qui semblait triste, et qui avait au front la blanche couronne de fiancée. [MASK]… Cela était vrai.
+
+['elle', 'il', 'celle-ci', 'marie', 'ça']	Angélie	… murmura-t-il, mon coeur bat ainsi quand il la devine… [MASK] doit être près de moi… Il rougit, et un désir sceptique vint à ses lèvres. Le siècle déteint sur les plus romanesques. Ils veulent au moins excuser leur sentimentalisme par un peu de raillerie.
+
+['lui', 'elle', 'pietro', 'marie', 'lui-même']	Lorédan	Chacun se demandait ce qui se passait aux alentours cette nuit. Sur la terrasse, une femme que personne n’avait vue entrer, apparut soudain derrière le groupe formé par [MASK] et sa soeur, qui avaient renvoyé l’aubergiste Pietro et ses valets empressés.
+
+['il', 'on', 'elle', 'qui', '-']	Beldemonio	? — [MASK] n’a pourtant pas des ailes comme un oiseau ! murmura le marin. La main de la jeune femme pesa plus lourde sur son épaule. — Il a des ailes comme un ange, prononça-t-elle à voix basse, ou comme un démon…
+
+['que', ',', '(', 'morceau', "qu'"]	Spurzheim	? Était-ce le danger menaçant et présent ? Jamais cauchemar ne lui avait pris les tempes dans un pareil étau. — Vous avez entendu notre entretien ! s’écria-t-il, incapable de se contenir. — Lequel de nous deux interroge ? prononça sévèrement [MASK]. —
+
+['napoléon', 'césar', 'bonaparte', 'celui-ci', 'lui']	Porporato	Nous savons cela. Pourquoi [MASK], enfin tombé dans le piège, n’aurait-il pas pris à son tour le nom d’un subalterne ? C’était, on n’en pouvait douter, un homme rompu à toutes ruses. Allons plus loin.
+
+[',', 'que', 'de', ':', 'pas']	Johann	? — Tue-moi ! dit le cavalier forgeron. — Et comment ferais-je, baron mon ami ? répliqua [MASK]. Je n’ai ni bras ni jambes, moi, tu sais bien cela. Que de fois tu as ri après boire en m’appelant le cadavre
+
+['</s>', 'il', 'elle', '-', '--']	Céleste	Il l’interrompit avec un mouvement. de colère. — Ah ! tu es bien heureuse, toi, dit-il ; tu ne regrettes rien !… [MASK] étouffa un soupir. Cependant elle répliqua, tandis que ses yeux cachaient leur brillant rayon derrière ses paupières demi-closes :
+
+['-', 'la', '</s>', 'et', '"']	Giannina	« – Le pauvre diable, m’a dit mon ancien camarade, a quitté le pays après avoir perdu sa femme, [MASK] la jolie, qui lui fut enlevée par un de ces sinistres coquins, les cavalieri ferraï. « – Lequel
+
+['lui', 'lui-même', 'eux', 'moi', 'elle']	Fulvio	Le marquis de Malatesta était un noble jeune homme qui avait de nombreux amis. Il se fit un parti contre [MASK], qui ne daigna pas même accorder un regard à cette conspiration. On éclaira sa vie ; on voulut fouiller dans son passé.
+
+['il', 'elle', 'emma', 'georges', 'jeanne']	Barbe	Ce devait être un audacieux. C’��tait, à n’en point douter, un homme de grands besoins et de grands désirs. En le regardant, [MASK] fronça le sourcil. — Il est trop jeune !… murmura-t-elle en elle-même.
+
+['pierrot', 'celui-ci', ',', 'il', 'maurice']	Johann	— Ramasse cela, dit [MASK] avec son rire strident : je n’ai pas les doigts potelés, c’est vrai… mais je suis tout nerfs, mon camarade, et je souhaite que tu vives aussi vieux que moi ! Le numéro 133 ramassa la feuille et la lui donna.
+
+['combat', 'travail', 'service', 'roi', 'mouvement']	Porporato	De son vrai nom, il se nomme Amato Lorenzo. Le cinquième, le cavalier Ercole Pisani, est dévoué au [MASK]. C’était l’ami du baron d’Altamonte, dont tu as l’anneau. Nous l’abattrons dès qu’il embarrassera notre voie.
+
+['</s>', 'il', 'chacun', 'elle', 'et']	Johann	C’est moi ! L’agent fit un mouvement comme pour s’élancer. [MASK] pesa sur une languette sans cesser de le tenir en joue avec son étrange mécanique. L’agent tomba en portant ses deux mains à sa poitrine et en poussant un faible cri, un seul.
+
+['</s>', 'il', 'on', 'elle', 'chacun']	Manuele	L’écu était d’azur au coeur d’or, transpercé de deux épées de même en sautoir, avec cette devise : Agere, non loqui. [MASK] posa son doigt sur l’écusson qui occupait le centre du panneau et opéra une pression.
+
+['il', 'elle', '</s>', 'chacun', 'celui-ci']	Johann	Onze heures sonnèrent à la belle et sévère pendule qui était sur la cheminée. [MASK] repoussa sa couverture et montra sans vergogne l’effroyable maigreur de ses membres. — Servez-moi, je vous prie, de valet de chambre, dit-il ; je vais m’habiller.
+
+['...', ')', 'totalement', 'complètement', 'et']	Coriolani	On recula d’abord et le rond s’élargit d’instinct. Cela se fit dans un profond silence, le silence de la stupeur. Puis une grande clameur s’éleva, formée de mille cris. — Est-ce possible ! — [MASK] assassiné !
+
+['cygne', 'ralliement', 'chœur', 'victoire', 'guerre']	Fioravente	— Et de trois ! murmura-t-il. C’est le jour. Il mit ses bêtes au pas. L’homme au manteau, tout en s’avançant, entonna une fanfare dont le motif était le chant de [MASK] : Amici, alliegre andiamo alla pena ! …
+
+['monsieur', 'madame', 'bonjour', 'mademoiselle', 'docteur']	Sansovina	fit notre homme en se donnant de son mieux l’accent anglais, s’il y a quelqu’un là, qu’on me parle !… je n’y vois goutte ! Un éclat de rire étouffé se fit entendre auprès de lui. — Bonjour, [MASK], dit une gentille voix de femme…
+
+['byron', 'napoléon', 'chateaubriand', 'david', 'georges']	Monteleone	La noble figure de [MASK] semblait refléter tous ces sourires amis qui s’épanouissaient autour de ce berceau où se concentraient ses espérances. Mais tout à coup un voile de deuil couvrit ces allégresses de famille et ces tendres espoirs. « Un matin, la nourrice en pleurs apporta le berceau vide.
+
+['dit-elle', 'madame', 'dites-vous', 'dit-il', 'dites']	Falcone	Vous êtes à moi, [MASK] : c’est pour cela que je vous dis : Regardez-moi ; vous ne m’avez jamais vue. Elle écarta elle-même les deux mains du docteur, dont l’oeil se releva sur elle. Il baissa la tête après l’avoir regardée.
+
+['jacques', 'celui-ci', 'georges', 'jeanne', 'marie']	Céleste	L’ombre avait frappé deux fois. — Si tu n’oses pas, donne ! s’écria [MASK], qui le dépassait de la tête en ce moment. Elle lui arracha des mains la carabine et en appuya le bout contre un des barreaux de la treille.
+
+['me', 'lui', 'il', 'y', 'te']	Johann	[MASK] répondit : — L’amour serait votre excuse… Vous m’avez volé la clef… vous êtes monté sans bruit… Enfin tout ce que la galanterie peut inspirer en pareil cas… Et vous changerez la bonbonnière tout de même.
+
+['</s>', 'on', 'il', 'elle', 'chacun']	Athol	L’horizon s’élargissait en même temps, et de grands bouquets de mûriers, qui, certes, n’avaient point poussé dans un marécage, indiquaient le changement que le sol avait subi. [MASK] regardait chaque objet avec intérêt.
+
+['maurice', 'jacques', 'tom', 'caroline', 'alice']	Céleste	Et toi ? — Moi, je ne sais, ma soeur… Il y a de perfides tentations… J’ai deviné le paradis sur terre. — Le paradis, n’est-ce pas, s’écria [MASK] avec vivacité, ce serait d’être lui ?…
+
+['--il', '</s>', 'il', '"', '--']	Johann	! » Comment trouves-tu cette naïve combinaison, mon cher frère ? [MASK] achevait cette question d’un ton doucereux et cafard, lorsqu’il éprouva le plus grand étonnement qui l’eût jamais frappé en sa vie. C’était à n’y pas croire.
+
+['travail', 'm', '...', 's', 'soutien']	Martorello	— Oui, oui, répliqua l’hôtelier, il y a des gens ivres qui ont rencontré feue la comtesse Maria rôdant parmi les herbes, au bras de [MASK]… Moi, je dors, les nuits où je ne fais pas la contrebande, quand les fièvres me donnent la paix
+
+['henri', 'robert', 'celui-ci', 'rodolphe', 'edison']	Spurzheim	Le docteur monta sur une chaise et décrocha la portière, qu’il plaça au lieu indiqué. — Voyons, fit [MASK] en se parlant à lui-même ; n’oublions-nous rien ?… Quand vous allez être parti, je serai seul, et je resterai prisonnier dans ce fauteuil…
+
+['john', 'joe', 'ralph', 'wilson', 'georges']	Johann	— Quand l’expérience sera venue, ami 133, répliqua [MASK], tu sauras qu’il n’est pas bon de menacer un homme tel que moi… Dans tes lettres, dont le style serait pardonnable à peine pour un enfant, tu parles du ministre d’État et du roi…
+
+['</s>', '"', '...', '_', '-']	Athol	L’instant d’après, elle avait disparu dans la nuit. [MASK] demeura immobile. Ses yeux pensifs se baissèrent, puis sa tête s’inclina. Il fut muet pendant plusieurs minutes. — Ses enfants !… murmura-t-il enfin ; il y avait des enfants…
+
+[',', 'elle', 'il', 'qui', 'a']	Athol	[MASK] obéit et recula de plusieurs pas en voyant les deux cadavres. Celui du pauvre agent numéro 133 était couché dans l’ombre de la table. On ne voyait que sa figure pâle, encadrée dans de longs cheveux gris.
+
+['chacun', 'celui-ci', 'celle-ci', 'dieu', 'marie']	Beldemonio	Aucune coiffure ne cachait ses beaux cheveux d’un blond fauve, qu’on semblait avoir voulu coller modestement le long de ses tempes. Tel était, si nous en avons gardé fidèle mémoire, le costume que [MASK] portait sous la soutanelle empruntée par lui dans la mansarde de ces deux enfants qu’il avait empêchés de mourir
+
+['il', 'et', 'elle', ',', 'qui']	Falcone	[MASK] garda le silence. — Veuillez me donner une feuille de papier blanc et un crayon, lui dit le seigneur Johann. Il croisa ses pauvres jambes l’une sur l’autre et se mit à dessiner rapidement. Ce qu’il traçait ressemblait à un plan. —
+
+['que', 'ce', 'tout', '</s>', 'et']	Johann	s’écria-t-il, devant tout autre que le ministre d’État, ou le roi, je garderai le silence, dût-on me mettre à la torture ! — Il me sent ! il me sent ! grommelait tout doucement [MASK], ce que c’est que la sympathie
+
+['...', 'et', 'un', 'de', 'énergie']	Julien	Ils ne s’éveillèrent pas. Et la lampe rendit une grande lueur, puis elle s’éteignit. Par-dessus l’immobilité et le silence, la nuit étendit son crêpe de deuil. Ceci était une tombe. Adieu, [MASK] !
+
+['il', 'et', '-', ',', 'elle']	Beldemonio	Au bruit de la lutte, quatre ou cinq crosses de fusil sonnèrent brusquement sur les dalles de l’avenue et ce fut alors que le lieutenant cria d’une voix forte : — On ne passe pas ! [MASK] lâcha le fusil que déjà il tenait à deux mains et interrogea
+
+['il', '-t-il', '-il', 'celui-ci', 'robert']	Mario	« – Mon cousin, dit [MASK], nous autres Monteleone, nous passons pour être d’aussi bonne maison que vous… Si vous ne voulez point m’aider, j’agirai seul. « Et il se mit à la besogne.
+
+['cela', ',', 'si', 'tout', 'très-']	Barbe	!… une délicieuse enfant… Seulement, ils barrent notre route… Vous ne me dites plus rien, seigneur Pier Falcone ? — Madame… balbutia celui-ci, je crains de comprendre. — Ne craignez rien ! comprenez, fit [MASK] sèchement ; cela est nécessaire…
+
+['la', "l'", '(', 'produit', 'ces']	Julien	C’était vraiment comme dans les contes de fées. Ils avaient évoqué la vision ; la vision, docile, apparaissait. Pourquoi ne songeaient-ils plus déjà ni l’un ni l’autre à cette froide étude que devait faciliter cet appareil humain, pour employer l’expression de [MASK]
+
+['loup', 'lait', 'requin', 'chien', 'cheval']	Cucuzone	L’allée était longue. Les dents de [MASK] claquèrent plus d’une fois en chemin, et, ce bruit ajoutant à son effroi, il croyait entendre dans l’ombre ce lugubre craquement que font en se choquant les ossements desséchés. La nuit s’emplissait pour lui de fantômes.
+
+['elle', 'il', 't-il', 'celui-ci', 'robert']	Bartolo	Réponds et ne me cache rien… Quelque chose s’est-il passé dans ce cachot depuis que tu es en faction ? — Seigneur, répondit [MASK], j’ai fait le serment du silence avant d’être soldat… un jour que ma mère mourante n’avait pas de secours…
+
+['qui', 'la', 'judas', ',', 'et']	Johann	C’est moi qui dois leur porter demain le mot de l’énigme. Leurs soupçons ne se portent que sur le haut fonctionnaire… Le rire de [MASK] se fit entendre. — Alors, dit-il, tu es bien sûr qu’ils n’ont pas la moindre connaissance de l’affaire
+
+['</s>', 'il', '-', '"', 'elle']	Johann	Les pièces ne m’appartiennent pas… Si on veut les prendre par la force, je les défendrai jusqu’à la mort. [MASK] eut dans l’ombre de sa guérite son petit rire sec et cassé. — Moitié espion, grommela-t-il, moitié chevalier errant !
+
+['"', '(', 'rien', ',', '</s>']	Johann	Il n’en fut rien. [MASK] dit : — Ces longues haleines ne sont pas les meilleures… En entrant dans sa chambre à coucher, il prêta l’oreille. Ce fut comme un lointain gémissement, mais si faible !… —
+
+['</s>', 'il', '--il', 'elle', 'et']	Felice	Ce jeune héros de Beldemonio est parvenu jusqu’à la fenêtre de ton cachot au travers de dangers qui seraient très attachants dans un livre. Il a scié les barreaux, il s’est introduit dans ta prison. [MASK] eut un râle de colère.
+
+['</s>', '-', '"', 'il', '_']	Céleste	Il mit sa main en visière au-dessus de ses yeux. — Deux hommes armés… murmura-t-il. [MASK] se sentait trembler sans savoir encore pourquoi. Elle regardait de toute la puissance de ses yeux, et pouvait distinguer maintenant deux torses sortant à demi des broussailles.
+
+['il', 'elle', 'et', 'on', 'qui']	Johann	[MASK] s’arrêta bien des fois en chemin. — C’est loin ! se disait-il ; ce que je fais là est énorme !… et ils me croient impotent ! Quand il arriva à la seconde porte, il fit le contraire de ce qu’il avait fait à la première.
+
+['moi', 'marie', 'valentine', 'marguerite', 'jeanne']	Barbe	— Ami, reprit-il dès que la trappe se fut refermée, quand on écoute aux portes, il y a des choses qui échappent… Réponds-moi franchement… [MASK], ma femme, ne comptait point hâter le cours des choses, n’est-ce pas ?
+
+['.', '!', '?', ',', '...']	Johann	je ne prétends pas être bien habile… mais d’anciennes relations… et le hasard… m’ont servi à ce point que je puis mettre le gouvernement du roi sur les traces de toute une armée de malfaiteurs. — Ce qui vous manque, l’ami, ricana [MASK]
+
+['</s>', '"', 'et', 'mais', 'alors']	Julien	Dès qu’on l’avait vue, le coeur blessé gardait sa ravissante image. [MASK], ce pauvre enfant solitaire et neuf à toute violente impression, la regardait bouche béante. Il éprouvait cette sensation enivrante de l’homme qui naît à quelque sphère inconnue.
+
+['lui', 'écrire', 'tabac', 'dessin', 'elle']	Johann	! Après avoir poussé son prisonnier jusqu’à la lourde et massive table qui servait de bureau à [MASK], il passa une forte corde à l’anneau rivé autour de la jambe du baron, et le lia de court au pied de la table. —
+
+['il', 'elle', ',', 'qui', 'é']	Johann	[MASK] mit son doigt sur son front entre ses deux yeux et tomba dans une rêverie profonde. — Pauvre Barbe ! pensait-il ; ce n’est pas de ma faute… à l’heure qu’il est, ma boîte de pastilles doit être sur sa table de nuit.
+
+[',', 'tout', 'et', 'il', '(']	Céleste	Ils pleuraient tous deux comme de pauvres enfants qu’ils étaient. Notez que de moins innocents auraient exprimé autrement leur pensée. L’innocence dit toujours le mot vrai. — Frère chéri, murmura [MASK] en sanglotant, richesse, noblesse, grandeur… c’est ce qui est entre eux et nous
+
+['jean', 'paul', 'marie', 'jeanne', 'jacques']	Manuele	Les traits de celui-ci avaient subi un vif et remarquable changement. L’émotion qu’ils marquaient maintenant était nouvelle et d’une toute autre espèce. Il y avait dans ses yeux un espoir inopiné. Son coeur se prit à battre. Il avait senti un mouvement sous la chemise moite de [MASK].
+
+['et', 'il', ',', 'elle', 'qui']	Beldemonio	[MASK] s’assit en face de lui, le dos tourné à la lumière. Les rôles étaient changés, du reste, tout aussi bien que la mise en scène. Cette fois, ce ne fut pas le directeur de la police royale qui interrogea.
+
+['14', '12', '13', '11', '10']	Athol	— Est-ce qu’on est venu ici ? demanda [MASK]. — Plusieurs fois et je dois vous dire que d’étranges rumeurs ont couru sur votre compte au palais Doria. Comme il vous est impossible d’avouer la besogne à laquelle vous avez employé votre nuit.
+
+['ça', 'il', 'cela', 'ce', 'on']	Porporato	— En avant marche ! commanda-t-il. Les soldats descendirent le couloir en silence. Ils n’étaient pas encore au bout, que le lieutenant, incapable de se contenir, grommelait entre ses dents : — [MASK] doit être loin s’il court toujours ! — Quoi !
+
+['celui-ci', 'jacques', 'jean', 'maurice', 'pierre']	Céleste	L’autre était couché �� plat ventre et semblait attendre que son compagnon prît son assiette. — Ce ne sont pas des chasseurs ! dit [MASK], qui avait de la sueur au front. Elle jeta autour d’elle un regard de détresse et vit les carabines des gendarmes sous ses pieds.
+
+['jeanne', 'marie', 'pierre', 'dieu', 'pierrot']	Nannetta	C’était un factionnaire de loisir. Tandis qu’il chantonnait, rêvant aux yeux de [MASK] ou à ses melons, un mouvement confus se fit dans l’ombre, au fond du cul-de-sac, à droite de la grande porte cochère. Deux hommes étaient là dans l’angle du mur.
+
+['tout', ';', 'travaille', 'lui-même', ':']	Julien	ces quelques semaines l’ont bien changé, ne trouves-tu pas, ma soeur ? — Il m’a semblé vieilli de plusieurs années, répondit la fillette en soupirant. — Il travaille, reprit [MASK] ; il s’efforce, non point pour lui, mais pour nous…
+
+['et', 'il', ',', 'qui', 'on']	Spurzheim	[MASK] lui présenta son dessin, où chaque compartiment linéaire était pointé et marqué d���un chiffre. — Voyez-vous, ami, reprit-il, nous partons du point A, qui est ma chambre à coucher… J’espère que vous trouverez facilement ma chambre à coucher ?
+
+['...', ',', '</s>', 'et', '"']	Céleste	Veux-tu partir, ma soeur ? [MASK] répondit en se levant : — Je suis prête ! Ils se prirent par la main. Ils dirent en même temps, les deux pauvres enfants au coeur blessé : — Le monde est mauvais pour nous… nous avons besoin de Dieu
+
+['de', ',', 'qui', 'la', 'le']	Pénélope	Dans deux ans, il reviendra bon marchand de coton, honnête père, fidèle mari. Laissez passer le chaud mal. En ce moment, nul ne lui résiste. Il y a sur son visage immobile une arrière-nuance de férocité. On a peur de lui. Les enfants restent. [MASK] pleure.
+
+['il', ',', 'qui', 'lui', 'puis']	Athol	[MASK] remit le morceau de charbon sur l’enclume, saisit le lourd marteau d’une seule main, et brisa le charbon en mille pièces. — Voilà ce que je sais ! dit-il en redressant tout à coup sa riche taille ; je ne suis pas venu pour discourir…
+
+['ré', 'quart', '...', 'terre', ':']	Privato	Le pauvre bon garçon de [MASK] avait une place de deux cents piastres par an à la police royale. Il n’y a pas là de quoi nourrir un aigle. Ce n’était pas un aigle. Il se rongea un peu les ongles pour prendre de l’aplomb, et répondit
+
+['</s>', 'le', '"', 'lui', 'la']	Beldemonio	Évidemment, le jeune saint n’avait jamais parlé à la dame entre deux âges, qui était rondelette et bien conservée. [MASK], profitant de cet aveu, s’inclina profondément, et passa d’un air modeste en tenant son gros livre comme un corps saint.
+
+['</s>', 'il', 'et', 'elle', 'puis']	Beldemonio	Il s’interrompit et changea de ton. — Mais je ne puis croire que vous souhaitiez ma mort, vous, seigneur, qui connaissez si bien mon dévouement et ma fidélité. Il eut une légère quinte de toux. [MASK] le regardait en face.
+
+['il', 'on', 'elle', 'et', 'qui']	Battista	— Qui donc a ce dépôt ? — La terre. Au-dehors, [MASK] se préparait à donner la provende à ses chevaux. La tête de l’homme au bonnet de soie noire sortit de la portière. — Hé ! l’ami !
+
+['elle', 'il', 'catherine', 'marie', 'madame']	Beldemonio	Au rez-de-chaussée de ce bâtiment, une lanterne pendue au mur éclairait vivement la fenêtre d’un cachot, fermée par de gros barreaux de fer. — Je tombe bien, se dit [MASK], notre homme est là ! Il n’y avait guère à douter, en effet.
+
+['elle', 'on', 'tout', 'il', 'cela']	Beldemonio	On ne la prend que contre les condamnés à mort. Au moment où [MASK] s’orientait ainsi, un mouvement se fit au pied de la tour, et les soldats du poste prirent les armes. Une ronde passait.
+
+['pierre', 'celui-ci', 'cheval', 'sam', 'marguerite']	Mariotto	Il avait le chapeau sur les yeux, et son northwest, ou twine de matelot anglais, avait le collet relevé jusqu’au-dessus du nez. Ses yeux se cachaient derrière des lunettes bleues. Cet homme fit signe de la main à [MASK].
+
+['dieu', 'le', ':', 'jésus', 'la']	Beldemonio	La jeune fille n’en fit point. Seulement, sa tête s’inclinait en avant par degrés et finit par toucher ses deux mains. À dater de ce moment, elle ne bougea pas plus qu’une statue. Savez-vous ce que pensait [MASK] ? Il pensait :
+
+['et', 'puis', 'pierre', 'celui-ci', 'jésus']	Spurzheim	mais il eut le bon esprit de répondre : — Seigneur, vous êtes bien plus lourd que je ne l’aurais pensé. [MASK], profitant de sa position, lui tira doucement l’oreille. — Pas par-là ! dit-il voyant que le docteur se dirigeait vers la porte principale.
+
+['elle', 'celle-ci', 'vénus', 'jeanne', 'marie']	Barbe	Dans la pose nouvelle qu’elle venait de prendre, [MASK], dont on ne pouvait mesurer que le buste, perdait cet aspect misérable et difforme sous lequel nous l’avons naguère aperçue. Son visage aquilin apparaissait à la hauteur voulue. C’était une femme.
+
+['13', '12', '14', '11', '21']	Julien	— Que feraient en ce lieu des chasseurs ? se demandait [MASK]. Celui des deux hommes qui était le plus en avant se retenait d’une main au tronc d’un jeune bouleau pour ne point être précipité sur la pente.
+
+['"', 'oui', 'non', 'etc', 'et']	Coriolani	de bals, de fêtes ? ou, peut-être, de ceux qu’ils aimaient ? Qu’elles devaient être belles, leurs fêtes ! Et que d’adoration autour d’eux ! Tout à l’heure on avait dit : « Le roi veut la marier ! [MASK] !
+
+['"', '10', '12', '13', '18']	Battista	Et le comte Giacomo était dans le pays quand le malheur arriva. Le jeune voyageur rêvait. — Et plus bas ? fit-il tout à coup. — Plus bas ? répéta encore [MASK]. — La vengeance des six a-t-elle été plus bas ?
+
+['on', 'chacun', 'il', 'elle', 'julien']	Beldemonio	Plus il approchait de la fenêtre éclairée, plus il redoublait ses précautions pour ne point faire de bruit. On n’apercevait plus la jeune fille ni son ombre ; mais [MASK] savait que, derrière cette croisée, il y avait des yeux et des oreilles en éveil.
+
+['mrs', 'faiblement', 'm', 'marcel', 'gravement']	Cucuzone	Le pêcheur avait bondi par-dessus la balustrade. Les bras du clown tombèrent. Il eut le vertige. — Merci, dit le pêcheur ; laisse l’échelle ici le plus longtemps que tu pourras. — Si l’on vient relever le factionnaire ?… murmura [MASK].
+
+['celui-ci', 'napoléon', 'charles', 'lorenzo', 'jean']	Mariotto	La foule poussa un cri d’effroi et d’admiration. Dans cette position, la tête du saltarello était tout près de l’oreille de [MASK]. Il dit à voix basse ces seules paroles : — Un mot de plus et ta femme est veuve !
+
+['sang', 'dieu', 'chien', 'm', '...']	Beccafico	Le ciel du lit s’ouvrit, et laissa passer, comme la première fois, la tablette, soutenue par quatre fils de soie. — Tiens ! tiens ! dit la voix flûtée de [MASK], l’homme est toujours là. —
+
+[',', 'et', 'comme', '...', 'presque']	Johann	À une époque déjà bien éloignée, alors que les Compagnons du Silence s’appelaient les frères du charbon et du fer, j’ai été initié à leurs mystères… — Ah ! ah ! fit [MASK] comme malgré lui. — Oui, seigneur…
+
+["j'", 'pierre', 'chacun', 'raoul', 'julien']	Johann	BELDEMONIO NE S’ATTENDAIT PAS à cela. L’annonce de cette mort le frappa violemment. Il pâlit d’abord, puis les veines de son front se gonflèrent. — Tu l’as fait assassiner ? prononça-t-il si bas, que [MASK] eut peine à l’entendre.
+
+['pas', '"', 'non', 'encore', '...']	Barbe	? Celui-ci fit un pas en arrière à cette inqualifiable question. — En duel ?… poursuivit [MASK] ; dans un cas de défense légitime ?… malgré vous, enfin ?… — Jamais, madame, jamais ! interrompit le docteur.
+
+[':', ',', ';', 'dit', 'si']	Athol	— Oui, répondit-elle avec un sourire triste. Puis elle ajouta : — De quoi peut-il se souvenir, s’il a oublié cela ! — Et, sous le pavillon de plaisance, demanda encore [MASK], il y a un réduit souterrain ?
+
+['de', 'que', ')', '"', 'en']	Cucuzone	laissez-moi plutôt monter à votre place. — Fais ce que je te dis ! ordonna le pêcheur. [MASK], avant d’obéir, passa le revers de sa manche sur son front, que la sueur froide baignait. — Que la sainte vierge Marie soit avec nous
+
+['même', 'tout', 'mais', "qu'", 'et']	Johann	Il entendit qu’on s’arrêtait dans le corridor de l’autre côté de la porte, puis une voix demanda : — Auprès de qui me conduisez-vous ? — C’est lui ! fit [MASK] en essayant un effort suprême. La vis ne put mordre un seul cran.
+
+['leur', 'me', ',', 'lui', 'qui']	Athol	[MASK] souriait toujours et les regardait. — Il me plaît, reprit-il, de vous faire aujourd’hui plus riches et plus puissants que vous n’étiez hier… Approchez-vous… Je vais parler pour vous seuls : il ne faut plus que les ténèbres écoutent.
+
+["c'", "--c'", 'elle', 'jeanne', 'ceci']	Barbe	— Au nom de Dieu, seigneur ! voulut interrompre encore le jeune docteur. — Laissez ! fit bonnement le malade ; [MASK] est une femme comme il y en a peu… Elle vous en estimera mieux quand elle saura que vous avez aimé jusqu’au crime !…
+
+['il', 'elle', 'jésus', 'on', 'paul']	Athol	dit-il en redressant tout à coup sa riche taille ; je ne suis pas venu pour discourir… Ainsi ferai-je à quiconque me résistera ! Et, comme un murmure s’élevait parmi les six, [MASK] ajouta : — J’ai six poignards contre chacun de vos poignards.
+
+['il', 'et', ',', 'mais', 'qui']	Johann	[MASK] ne répondit pas tout de suite, parce qu’il sentit que son émotion tremblerait dans sa voix. C’était dans ces moments que la guérite lui rendait de précieux services. Sans la guérite, le numéro 133 eût vu sa maigre face tressaillir et un éclair s’allumer dans ses yeux.
+
+['marie', 'mère', 'jeanne', 'm', 'maria']	Berta	Sa douleur fut en quelque sorte plus poignante que la douleur du père et de la mère. Après le premier moment de stupeur, on se demanda quelle main avait pu porter ce lâche et terrible coup. Que répondre ? La nourrice avait sa mère dans le pays : une vieille femme qui avait nom [MASK].
+
+['il', 'elle', 'et', 'qui', ',']	Céleste	[MASK] lui ferma la bouche avec sa main. — N’appelle pas ! ordonna-t-elle tout bas et avec un calme étrange. Les cavaliers et les gendarmes sont à table. Ils ont laissé leurs armes dehors… Je sens que dans une seconde tout secours sera inutile.
+
+['.', 'le', '...', 'm.', 'la']	Johann	Cette première lettre est signée Brown. Elle a dû nécessiter une réponse. — J’ai une copie de la réponse, dit [MASK]. Il ajouta presque aussitôt après : — Ces pauvres gens du ministère d’État ont cru faire une bien belle découverte !…
+
+['robert', 'john', 'maurice', 'jacques', 'julien']	Athol	Dis-nous la clef, qui est le secret des maîtres ! — Non, répondit [MASK], je ne vous dirai point la clef. — Tu ne la sais pas ! fit-on de toutes parts… — Je la sais.
+
+['vous', 'moi', 'de', "d'", 'vivre']	Johann	Les joues de la bossue étaient livides. — Plût à Dieu, murmura-t-elle pourtant, que je pusse vous donner le peu de jours qui me restent, [MASK], mon mari, afin de prolonger votre précieuse existence !
+
+['</s>', '"', 'il', 'elle', 'cela']	Tavola	Tu es sans défense comme un malade dans son lit, comme un enfant dans son berceau, ce sont tes propres paroles ; je t’écraserais de mon seul poids. [MASK] fit un brusque mouvement. Les deux menottes d’acier qui entouraient ses poignets tombèrent à la fois.
+
+['et', ',', "qu'", 'ou', 'tout']	Barbe	— Brown ! répéta [MASK] en tressaillant. Elle tira vivement de son sein des tablettes qu’elle consulta. — Brown ! fit-elle entre haut et bas ; j’ai le nom, mais non pas le secret… —
+
+['il', 'on', 'elle', 'je', 'napoléon']	Johann	— Elles sont là ! Il voulait parler des lettres, qui, en effet, reposaient toutes les trois sur un bureau de bois d’ébène. Le bureau lui-même, et la multitude de papiers qu’il supportait restaient exactement dans l’état où [MASK] les avait laissés.
+
+['à', 'au', 'le', ',', 'un']	Fulvio	Ils avaient dit : « Nous ramènerons [MASK] mort ou vif ! » « Le noble marquis Andrea Visconti Armellino, intendant second de la police, était avec eux, je n’ai pas besoin de le dire. « Les uns coururent à son palais : personne !
+

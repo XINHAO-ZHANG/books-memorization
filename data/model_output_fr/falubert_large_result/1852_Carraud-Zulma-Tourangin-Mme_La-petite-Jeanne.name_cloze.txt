@@ -1,0 +1,200 @@
+['monsieur', 'un', 'madame', 'Monsieur', 'M.']	Prévôt	j’ai tort, et tu as raison. Il faut aider [MASK], qui court grand risque de perdre ses foins. C’était mal, ce que je disais là. On a beau faire, ce chien d’orgueil revient toujours !
+
+['Pierre', 'Jean', 'celui-ci', 'Henri', 'Jacques']	Louis	Quand tu donnes un morceau de pain à un pauvre, c’est lui qui te met le contentement dans le cœur ; et si tu embrasses ta mère, c’est encore Dieu qui te rend heureux dans toute ta petite personne. — C’est bon, dit [MASK], je vas l’écouter.
+
+['en', 'tu', 'te', 'de', 'N']	Jeanne	Je ne viendrai que pour coucher le soir, et encore faudra-t-il que je reparte à trois heures du matin. — Mais, [MASK], tu vas te tuer à ce métier-là. — Je ne peux pas faire autrement ;
+
+[',', 'se', 'le', 'et', 'je']	Paul	J’y vais quelquefois entre les deux classes, et je tiens les pieds des chevaux pendant qu’il les ferre ; il dit que je suis un luron, et que, si je veux travailler dans sa boutique, il me prendra avec plaisir. — Ce n’est pourtant pas raisonnable, [MASK], dit sa mère
+
+['la', 'son', "l'", 'les', 'sa']	Jeanne	; depuis six mois elle n’allait plus aux champs ; elle remplaçait sa mère à la maison, où elle aidait à [MASK]. C’était elle qui vendait au marché le beurre et la volaille, et qui achetait tout ce qui était nécessaire dans le ménage ;
+
+['il', 'elle', 'qui', 'et', 'on']	Paul	; [MASK] allait à l’école et apprenait bien ce qu’on lui enseignait ; mais son caractère ne s’améliorait pas. Il faisait la désolation de sa famille, pour laquelle il ne semblait pas avoir la moindre affection.
+
+['Jean', 'Guillaume', 'Robert', 'Renaud', 'le']	Solange	» Le dimanche suivant, le colporteur communia à la grand-messe, ainsi que plusieurs autres personnes, entre autres Jeanne et [MASK]. Le jeune homme, qui était encore bien pâle et avait le front bandé, édifia tout le monde par sa piété.
+
+['la', 'le', '-', 'dame', "l'"]	Jeanne	— Hé bien donc, répondait [MASK], n’avez-vous pas assez travaillé quand vous étiez jeune, et n’est-il pas juste que vous jouissiez à présent de quelques douceurs ? — Mais écoute donc, petite, si tu dépenses tout, tu te feras tort ;
+
+['il', 'je', 'vous', 'dame', 'IT']	Louise	Chapitre 95 Le colporteur parle de ses affaires « Monsieur le curé, dit [MASK], vous aviez une bien belle nappe d’autel, ce matin, à la messe. Je parie que c’est ce jeune marchand qui vous l’a apportée ! — Oui, ma fille ;
+
+['campagne', 'retraite', 'famille', 'ville', 'vacances']	Jeanne	; ce n’est pas sain pour les enfants, toute cette paille pourrie. Et la puanteur qu’elle donne ! comment pourraient-ils s’accoutumer à la propreté au milieu de cette ordure ? » La famille Dumont vint voir la maison de [MASK] quand elle fut finie.
+
+["c'", 'est-ce', 'est', 'être', 'que']	Marguerite	— Vois donc, [MASK], si tu mérites qu’on soit si bon pour toi ! Allons, dis-nous la vérité : es-tu contente quand tu as couru toute la journée, un enfant sur les bras, au lieu de veiller à tes affaires ?
+
+[',', 'On', 'on', 'Il', 'et']	Jeanne	! » [MASK] lui fit boire un peu de vin pour lui donner des forces, et dit qu’il ne fallait pas beaucoup le faire manger, parce que c’était dangereux, et qu’on allait lui faire de la soupe au lait.
+
+['a', ',', 'en', 'de', 'le']	Jeanne	[MASK] prit la tarte, mais elle n’y toucha pas. « Tu n’as donc pas faim ? — Si fait, mademoiselle, je n’ai pas encore déjeuné. — Tu n’aimes peut-être pas la tarte ? — Je ne sais pas, je n’en ai jamais mangé ;
+
+['tout', 'je', ',', 'en', 'alors']	Jeanne	! laissez-moi vous prouver combien je vous suis attachée, et que je n’oublie pas tout le bien que vous m’avez fait. Si vous me payiez, je croirais que vous ne faites aucune estime de moi, ajouta [MASK] en pleurant.
+
+['chambre', 'charge', 'ménage', 'ferme', 'maison']	Gerbaud	; le meunier le suivait avec une grande voiture pour emporter le blé, le vin et tout le reste. Alors on vida l’armoire, et la femme de [MASK] mit de côté ce qu’elle voulait garder. On s’occupa de charger la grande voiture.
+
+['madame', 'elle', 'celle-ci', 'Madame', 'Marguerite']	Gerbaud	« Je crois, dit [MASK], qu’il y a longtemps que le premier écu a été mis au fond de cette bourse ; car ma tante avait bien juste de quoi vivre. — Mais elle était si ménagère, dit une voisine, et elle travaillait tant !
+
+['à', ',', 'la', 'le', 'son']	Jeanne	mais elle leur dit en pleurant à chaudes larmes qu’elle ne voulait pas quitter sa chère mère Nannette avant qu’on l’eût portée en terre. L’une des voisines alla faire la déclaration, pendant que l’autre aidait [MASK] et lui tenait compagnie auprès du lit de la morte.
+
+['elle', 'il', 'celui-ci', 'Jean', 'Pierre']	Solange	Le bouvier alla voir ce qu’il avait, et revint le raconter aux filles qui étaient devant la porte. « C’est bien fait pour lui, dit [MASK] ; il est si butor, que ce n’est pas dommage qu’il lui arrive quelque chose. —
+
+['te', ',', 'ta', 'de', 'deux']	Claude	— La jeunesse est toujours la jeunesse ! [MASK], je t’accorde ces deux jours, et tu auras une pièce de trois francs pour faire la fête ; le père Bonnet viendra soigner tes bœufs. » Le vacher et le porcher restèrent aussi ;
+
+[',', 'de', 'te', '"', '-']	Marguerite	— [MASK], continua la mère Tixier, je t’ai dit que le maître ne voudrait pas te reprendre. — Maîtresse, si vous le lui demandiez bien ! — Tiens, le voilà qui vient, va le lui demander toi-même. — Je n’oserai jamais ;
+
+['de', "d'", 'pour', 'en', 'à']	Jeanne	M. le curé va quêter avec le colporteur DEUX JOURS APRÈS, LE petit marchand, étant assez fort pour sortir, pria [MASK] de le mener à la messe. Quand elle fut finie, M. le curé lui demanda s’il pourrait venir avec lui quêter dans le village
+
+[',', 'te', 'de', 'à', 'le']	Jeanne	Pourquoi donc tant te presser, [MASK] ! tu as bien le temps de te mettre à ton ménage. — Non, je n’ai que le temps bien juste ; avec mes deux enfants je ne fais plus rien chez vous, c’est à peine si je gagne le pain que je mange
+
+['se', ',', 'le', 'un', 'on']	Simon	! » Le père Tixier, qui n’était pas têtu, fit ce que voulait son gendre. Il cultiva aussi des betteraves et des carottes dans ses terrains légers, et il s’en trouva bien. Chapitre 84 [MASK] tire au sort et amène un mauvais numéro
+
+['de', ',', 'à', 'le', 'sur']	Solange	— Tant mieux, maître Tixier, je travaillerai plus longtemps, et je pourrai amasser quelque chose pour ne pas être à charge à mes enfants quand je serai vieux. — Je vais appeler [MASK] pour savoir ce qu’elle en dit. »
+
+['Non', 'Monsieur', 'bien', 'Madame', 'Oui']	Jeanne	— [MASK], je t’en veux beaucoup de m’avoir caché ta position, surtout quand je t’en ai parlé la première. Je t’en prie, dis-moi sincèrement si tu as besoin de quelque chose. — Eh bien !
+
+['a', 'ont', 'ai', 'me', 'lui']	Tixier	» [MASK] dit qu’ils n’avaient pas tort de vouloir être chez eux, mais qu’on avait bien le temps d’y penser. « Pas déjà tant, maître ; il faut commencer à s’en occuper : on ne plante pas une maison comme un arbre.
+
+['Elle', 'elle', 'fille', 'et', 'femme']	Solange	. [MASK] ne répondit pas, mais elle baissa la tête et devint rouge comme une cerise. « Ha ! ha ! il paraît que tu t’en doutes. Qu’en dis-tu ? veux-tu te marier ? — À votre volonté, mon père.
+
+['te', 'ça', 'il', 'ainsi', 'as']	Pierre	— Pourquoi donc, petit ? repartit [MASK]. — Parce que tu n’aimes pas le bon Dieu. — Qui est-ce qui t’a dit ça ? — Personne ; mais tu as voulu te tuer pour ne pas souffrir, et le bon Dieu ne t’aime plus.
+
+['elle', 'on', 'et', 'il', 'maman']	Jeanne	» L’enfant ne se le fit pas dire deux fois, et il courut s’habiller. À trois heures, [MASK] fit sortir toutes les bêtes à laine pour les promener un peu, et elle les mena dans un champ tout près de la maison.
+
+['ma', 'mon', 'votre', 'le', 'la']	Sylvain	Je sais maintenant ce que je vous dois, et je vous aime d’un grand amour. Si le sort ne me fait pas soldat, j’irai travailler dans la ville où demeure [MASK], et je m’y établirai un peu plus tard ; car j’apporte quelques épargnes.
+
+['madame', 'mademoiselle', 'Madame', 'maman', 'Marie']	Joséphine	Maître Tixier avait la tête dans ses mains et restait sans mot dire. « Elle a raison, notre homme ; il faut les laisser marier, mais à la condition qu’ils ne nous quitteront pas. — Oui, dit le maître ; promettez-moi de rester tant que [MASK] ne sera pas mariée.
+
+['elle', 'on', 'il', 'maman', 'chacun']	Jeanne	En revenant, elle fit le grand tour par la pelouse ; ses bêtes, qui ne sortaient pas depuis longtemps, étaient bien contentes de se trouver dehors, et [MASK] se pressait d’autant moins de les ramener à l’étable que la mère Nannette semblait mieux ce jour-là.
+
+['la', "l'", 'Jeanne', 'Marguerite', 'Marie']	Jeanne	— Comme vous voudrez, notre maître, répondit [MASK], qui pleurait toutes les fois qu’elle entendait prononcer le nom de sa chère mère Nannette ; mais il faut pourtant de l’argent tous les ans pour les façons et du fumier pour les provins.
+
+['vous', 'que', 'non', 'çà', 'je']	Jeanne	voulez-vous rire ? — Non, mon garçon, c’est à prendre ou à laisser. — Parbleu, je trouverai de l’argent à meilleur marché ailleurs. — Père Colis, dit [MASK], vous êtes un brave homme, et vous ne voulez pas notre ruine ;
+
+['la', "l'", 'sa', 'son', 'tout']	Paul	Le maréchal lui annonçait le départ de [MASK], qui l’avait quitté depuis plus d’un mois, à la suite d’une contestation qu’ils avaient eue ensemble. Le malheureux garçon faisait le maître dans la boutique et brusquait les ouvriers ;
+
+['Elle', '</s>', 'elle', 'La', 'et']	Jeanne	Comme vous êtes des gens exacts à payer, je vas m’arranger des deux billets. » [MASK] les écrivit, bien étonnée qu’il ne fût pas question d’intérêts ; elle trouvait le monde bien méchant de mépriser ce brave homme et de le faire passer pour un usurier.
+
+['Pierre', 'Jean', 'celui-ci', 'Jacques', 'François']	Jeanne	« Pierre, dit [MASK], pourquoi, dès le commencement de votre mal, n’êtes-vous pas allé chez M. le curé, qui est si habile et si secourable ? — Jamais je n’aurais osé lui montrer mes jambes.
+
+['celui-ci', 'celle-ci', 'Jean', 'Pierre', 'Martin']	Jeanne	— Non, du tout, répondit [MASK] ; il faut toujours laisser saigner une plaie avant de la panser. Tenez, voilà qu’il n’est déjà plus si pâle ; il faut lui faire un peu d’eau sucrée avec de la fleur d’oranger. »
+
+[',', 'de', 'le', 'se', 'la']	Pierre	[MASK], qui s’en aperçut, lui dit : « N’est-ce pas, monsieur le curé, que je ne guérirai jamais ? — Je ne vous cache pas, mon garçon, que ce sera long et difficile : un mal peut toujours se guérir quand il est pris à temps ;
+
+['il', "c'", '-', 'on', 'monsieur']	Jean	; [MASK] est plus doux et bien mieux appris que les autres garçons du bourg ; mais je n’oserai jamais dire à madame, qui est si bonne pour moi et que j’aime tant, que je vais la quitter. — J’irai te reconduire.
+
+['cela', 'on', 'chacun', 'ça', 'monsieur']	Jeanne	Quand on servit une belle dinde rôtie à point, l’officier s’écria : « Comment ! ce n’est donc pas fini ? — Et ce pâté, et les écrevisses, et la galette, et puis les friandises ! C’est que [MASK] veut que rien n’y manque.
+
+['fille', 'femme', 'bourgeoise', 'mère', 'bonne']	Jeanne	mais, si elle me l’avait défendu, je ne l’aurais pas fait. — Et ma blouse, et mon pantalon ! Je te dis, moi, petite [MASK], qu’il ne faut pas tant faire la fière, et que je veux te donner quelque chose.
+
+['on', 'elle', 'se', 'il', 'et']	Sophie	on lui mit des bas et un fichu noirs pour qu’elle portât le deuil. Le dimanche suivant, [MASK] l’habilla tout en noir. La pauvre enfant était bien triste ; elle pleurait toujours en pensant à sa mère ; ses yeux étaient rouges et gonflés ;
+
+['tu', 'ce', 'ça', 'cela', 'je']	Jeanne	il faudrait que [MASK] fût toujours à mon côté. — Comme elle ne peut quitter sa maison ni son ouvrage pour s’occuper de vous, ce sera moi qui irai tous les matins, avant de dire ma messe, voir si vous êtes en bonne disposition de travailler.
+
+['elle', 'il', 'je', 'ne', 'cela']	Nannette	elle m’a toujours protégée ; tu seras même mieux auprès d’elle qu’auprès de moi, et tu l’aimeras bien vite, je t’en réponds. » Mais [MASK] ne se consolait point ; sa mère lui dit : « Mon enfant, va voir M. le curé ;
+
+['Jean', 'Pierre', 'celui-ci', 'Martin', 'François']	Paul	— Moi, je ne veux pas être laboureur, dit [MASK] ; il me faut un état qui me convienne, et, si l’on veut me mettre chez le maréchal du bourg, je veux bien commencer à travailler.
+
+['son', 'si', 'ses', 'sa', 'ce']	Paul	; et quand, levant les yeux à un mouvement qui se fit auprès d’elle, elle vit un grand garçon à ses genoux, elle fut si saisie, en reconnaissant [MASK], qu’elle ne put que lui ouvrir ses bras sans parler.
+
+['maître', 'Maître', 'maitre', 'Jean', 'seigneur']	Jeanne	. — Je te dis encore une fois qu’elle ne rentrera pas ici. — Il faudra donc qu’elle aille chercher sa vie de porte en porte, dit [MASK] ; vous ne savez pas, notre maître, ce que c’est que de tendre la main !
+
+['doux', 'Non', '-', 'non', 'enfant']	Jeanne	— [MASK], cet enfant est si doux et en même temps si délicat, que je ne puis m’habituer à penser qu’il passera sa vie à piocher la terre. N’y a-t-il pas mille autres manières de gagner son pain ?
+
+['la', ',', 'le', "l'", 'les']	Jeanne	Quoiqu’il n’eût que dix ans, on lui en eût bien donné quatorze pour la taille et la vigueur. [MASK], qui en voyant cela était plus morte que vive, eut le sang-froid de prendre une corde avant de descendre ;
+
+['on', 'ou', 'il', 'ce', 'elle']	Jeanne	« Tu ne sais pas tout le plaisir que tu me fais, mon enfant, en me rapportant ce bracelet. Qui es-tu donc ? » Comme [MASK] ne disait rien, la servante répondit pour elle : « Madame, sa mère est en bas à la porte ;
+
+[',', 'dit', 'la', 'A', '(']	Jeanne	Comme, depuis que la mère Tixier était tout à fait arrêtée, on restait dans la maison pour la désennuyer un peu, au lieu d’aller veiller dans la bergerie, la bonne fermière disait à [MASK] : « Lis donc, les autres feront ta part d’ouvrage et veilleront un peu plus tard. —
+
+['em', 'il', 'et', 'Il', 'on']	Jeanne	La malade retrouvait le soir son coucher tout frais, et elle dormait mieux la nuit. Chapitre 30 La mère Nannette s’éteint tout à fait UN JOUR DU MOIS de décembre, le soleil ayant percé les nuages, [MASK] mena le bétail à l’abreuvoir.
+
+['Il', 'Elle', 'Je', 'On', 'il']	Jeanne	dans ton malheur, le bon Dieu a eu pitié de toi en me faisant mourir tout d’un coup au lieu de me tenir au lit pendant longtemps ; tu aurais tout dépensé pour me soigner et tu serais restée dans la gêne. » [MASK] l’embrassa sans pouvoir lui répondre.
+
+['je', 'moi', 'toi', 'et', 'ma']	Marguerite	mais je t’avertis, [MASK], que, quand tu seras sortie de la maison, tu en seras bien dehors, et que je ne te reprendrais pas, même pour rien. Tu me connais, et tu sais que je tiens ma parole.
+
+[',', "c'", 'on', '5', '-']	Guillaume	Qu’en dis-tu ? veux-tu te marier ? — À votre volonté, mon père. — À ma volonté, à ma volonté ! mais je ne veux pas te contraindre. [MASK] est un brave garçon à qui l’ouvrage ne fait pas peur ;
+
+['-', 'mais', 'à', 'de', 'ma']	Joséphine	mais il me faut un gendre qui demeure avec moi, je t’en avertis. — Justement, il y a trop de monde chez nous pour que j’y trouve place. Voyons, [MASK], est-ce que je te fais peur, que tu détournes la tête
+
+['Elle', 'Maman', 'elle', '.Elle', 'maman']	Catherine	et si j’étais dans votre position, je serais bien heureuse de trouver quelqu’un qui voulût me recevoir dans sa maison. » [MASK] était bien contente, et sa petite fille lui sauta au cou. « Maman ! il ne faut plus pleurer », lui dit-elle.
+
+['le', 'on', 'très', "l'", 'non']	Marguerite	— Elle a donc été malade ? — Oui, monsieur, dit [MASK], et je n’ai plus de place ; je demandais à la maîtresse de me reprendre et elle ne le veut pas ; priez-la donc pour moi, monsieur le curé, je vous en prie
+
+['"', 'la', 'elle', "l'", 'le']	Marguerite	Ah oui ! tu avais bien raison ! j’y ai souvent songé, pendant que j’étais au lit avec la fièvre et que je voyais mon pauvre argent s’en aller. » La maîtresse, qui ne dormait pas, écarta son rideau et dit durement à [MASK]
+
+["s'", 'y', 'elle', 'lui', 'en']	Gerbaud	La pauvre fille n’aurait pas pu suivre l’enterrement si les voisines ne l’eussent soutenue. Après la cérémonie, on la ramena dans la maison, où le maire et [MASK] étaient déjà rendus. M. le curé ne tarda pas à les y rejoindre.
+
+['elle', ',', 'qui', 'et', "n'"]	Catherine	[MASK] était au lit, si pâle qu’on l’aurait crue morte déjà. « Pourquoi ne m’avoir pas fait dire que vous étiez malade, ma pauvre femme ? Ce n’est pas bien cela ; il fallait envoyer votre petite fille nous avertir.
+
+['Jeanne', 'Madame', 'dame', 'Dame', 'Monsieur']	Claude	— Dame ! il ne le voulait pas. — Êtes-vous simple aussi, vous, [MASK], de l’avoir écouté ! — Ce n’est pas tout, Jeanne ; il a voulu se détruire déjà deux fois, parce qu’il s’imaginait nous être à charge.
+
+['la', 'un', 'ce', 'une', 'sa']	Jeanne	En chemin, le père Tixier dit à [MASK] : « Ne va pas faire la sotte, au moins ! j’entends que tu commandes tout ce qu’il te faut ; d’ailleurs, je serai là, et nous verrons bien ! »
+
+['le', "l'", 'Jean', 'Pierre', 'Henri']	Auguste	; je t’enverrai un coq et deux poulettes de ma belle race. — Et moi, dit [MASK], qui était devenu un bel officier, je t’apporterai une paire de ces jolis pigeons que tu aimes tant.
+
+['dit-il', 'toi', 'monsieur', 'dit-elle', 'Pierre']	Jeanne	— Ne t’inquiète pas de ça, [MASK] ; tout le monde sait comment tu as gouverné ton bien depuis la mort de ton pauvre homme. Vous resterez tous ensemble, et, quand tu auras un bon ouvrier dans ta maison, tu seras enfin à ton aise.
+
+['vous', 'si', 'la', 'bien', 'très']	Catherine	? — Elle est allée mener son bétail à l’abreuvoir. La pauvre chère femme me quitte le moins qu’elle le peut ; elle me soigne comme si j’étais sa fille et ne me laisse manquer de rien. — Adieu, [MASK], prenez courage ;
+
+['le', 'la', 'sa', 'une', "l'"]	Catherine	Il s’arrêta devant la porte de la mère Nannette, et fit descendre [MASK], qui fut bien contente de revoir sa petite Jeanne qu’elle n’avait jamais quittée auparavant. Elle détela l’âne ; la mère Nannette le prit par le licou pour l’attacher dans l’étable à côté de sa vache
+
+['M.', 'M', 'madame', 'F.', 'Madame']	Jeanne	Un mois après ils se marièrent sans noce et sans bruit. M. le curé, qui aimait beaucoup [MASK], lui donna un déjeuner après la messe du mariage ; il y invita les témoins, à la tête desquels se trouvait le père Tixier.
+
+['argent', 'or', '</s>', 'moi', 'eau']	Louis	Elle lui donna une timbale d’argent bien claire, ce qui lui fit oublier la tristesse que lui causait toujours la musique. « Tu boiras tous les jours dans ce gobelet, [MASK], afin de penser toujours à moi.
+
+['bien', 'te', ':', 'que', 'tout']	Jeanne	de cette façon, tu pourras conserver un peu d’avance. — Mon Dieu, que vous êtes bon, notre maître ! dit [MASK] ; quand je serai dans notre maison, je penserai toujours que c’est à vous que je dois mon bonheur. » Chapitre 86
+
+['il', 'elle', 'Pierre', 'Jean', 'Il']	Catherine	mais, comme il n’y avait personne, [MASK] suivit le mur et vit une grande porte qui donnait dans la cour et qui était ouverte. Une servante, qui l’aperçut, lui apporta un morceau de pain et deux sous.
+
+['je', '</s>', 'me', 'Je', 'vous']	Nannette	; je voudrais bien ne pas perdre cette occasion de gagner un peu d’argent. [MASK] gardera ses frères et leur fera la soupe. Je ne viendrai que pour coucher le soir, et encore faudra-t-il que je reparte à trois heures du matin.
+
+['on', 'il', 'elle', 'chacun', 'cela']	Jeanne	Cette maison contenait d’abord l’étable en bas et un cellier aussi creusé de deux pieds ; et dans l’étable un petit endroit qui n’existe pas ordinairement dans les maisons de paysans, et auquel [MASK] tenait beaucoup par propreté.
+
+['la', "l'", 'cette', 'son', 'sa']	Catherine	; elle se mettait à genoux en même temps que tout le monde, et se relevait comme les autres. M. le curé, après la messe, demanda à la mère Nannette où elle avait pris cette enfant-là. Alors elle lui raconta l’histoire de [MASK].
+
+['son', 'celui-ci', 'lui', 'le', 'Ben']	Jeanne	Il causait avec ses camarades d’enfance tout comme s’il n’eût jamais quitté le village. Tout cela ne consolait pas [MASK], qui eût préféré le voir cultivateur. « Es-tu réellement heureux à la ville, mon cher enfant ? lui disait-elle.
+
+[',', 'que', 'aussi', 'toi', 'une']	Solange	; tu te charges toujours de l’ouvrage de mes filles, et ce n’est pas juste. J’ai mis avec toi [MASK], parce que c’est la moins raisonnable, quoique l’aînée ; tâche donc de me la rendre bonne et laborieuse comme toi. »
+
+['elle', 'et', 'on', 'il', 'Elle']	Jeanne	De son côté, [MASK] remerciait aussi le curé de l’avoir placée chez des maîtres qui l’avaient adoptée comme leur enfant, et chez qui elle n’avait jamais que de bons exemples sous les yeux. Elle s’échappait de temps en temps pour aller voir les dames Dumont.
+
+['-', 'sur', 'de', 'et', 'se']	Jeanne	— Tu n’en sais rien encore, [MASK] ; il pourra devenir un homme comme les autres ; pense donc qu’il est bien jeune ! — Madame, je ne peux pas m’y tromper, parce que ce n’est pas la première fois que je vois des simples ;
+
+['mais', 'vous', 'dit-il', 'non', 'malade']	Jeanne	; puis je m’agite dans mon lit pendant plus d’une heure sans pouvoir m’en retenir. — Ce n’est pas votre corps qui est malade, [MASK], c’est votre esprit, qui ne peut se soumettre à la volonté de Dieu.
+
+['pierre', 'maman', 'Marie', 'Pierre', 'femme']	Jeanne	Le cœur de [MASK] saignait en voyant tomber cette grêle qui la ruinait pour plus d’une année. Son mari revint du Grand-Bail tout consterné. « Quel malheur, mon pauvre homme ! mais c’est Dieu qui l’envoie, il n’y a pas à murmurer.
+
+['elle', '-', 'oui', 'non', 'Non']	Solange	— Peut-être ne se souciera-t-elle pas de demeurer à la campagne, maintenant qu’elle a tâté de la ville ? — Tu te trompes, [MASK] ; je sais qu’elle ne sera heureuse que quand elle vivra auprès de moi ;
+
+['le', 'se', 'on', ',', 'de']	Nannette	que, si elle le refuse, il ne se mariera pas. — Ma Solange, il faut d’abord savoir ce qu’en dira [MASK]. — Peut-être ne se souciera-t-elle pas de demeurer à la campagne, maintenant qu’elle a tâté de la ville
+
+['tu', 'je', 'te', 'vous', 'cela']	Guillaume	quand son père l’appela, elle entra en baissant les yeux, et, après avoir dit bonjour à tout le monde, elle s’assit au bout du banc. « Sais-tu bien ce que [MASK] demande ? » lui dit son père.
+
+['cela', 'ma', 'mon', 'ce', 'cette']	Marguerite	Si, en quittant votre maison pendant plusieurs jours, vous n’y laissez rien en souffrance, et que votre mari et vos enfants soient bien soignés pendant que vous n’y serez pas, vous ferez bien d’aller prier au tombeau de la sainte. — Qu’est-ce que je te disais, [MASK] ?
+
+['oui', 'non', 'on', '...', '--']	Isaure	D’ailleurs, je crois bien que la pauvre petite n’en porte pas souvent. — Oui ! oui ! dit [MASK], je vais commencer dès demain à lui en faire une paire ; le voulez-vous, dites, maman ? ajouta-t-elle
+
+['ce', 'elle', 'de', ',', 'et']	Jeanne	? — Oui, et c’est un grand malheur ; mais soyez tranquille, monsieur : [MASK] n’est pas une femme comme une autre ; ce que vous lui direz, elle le fera comme si c’était M. le curé qui l’eût recommandé. »
+
+['elle', 'celle-ci', 'lui', 'celui-ci', 'se']	Jeanne	Le Grand-Bail était resté à Étienne Durand, et il fallut que [MASK] payât le labourage de ses terres ; elle se trouva dans une grande gêne ; mais, comme elle ne se plaignait pas, personne n’en sut rien ; il n’y eut que M. le curé qui vit clair dans sa position.
+
+['non', 'dame', 'car', 'la', 'le']	Jeanne	; je ne veux pas te contrarier ; si tu ne peux pas t’y décider, n’en parlons plus. — Mon Dieu ! madame, dit [MASK], nous ne nous sommes jamais séparées, et il ne serait pas naturel qu’elle quittât la maison sans chagrin
+
+['elle', 'et', 'on', 'Elle', 'qui']	Solange	Si je voulais me marier, je ne pourrais trouver mieux que vous. Mais la maîtresse est dans son lit, incapable de rien faire, et la pauvre femme n’a aucun espoir de guérir ; [MASK] ne tardera pas à être demandée en mariage et à quitter la maison ;
+
+['dit-elle', 'dit-il', 'toi', 'maître', 'sire']	Marguerite	« Notre maître, dit-elle, vous me relouerez sur la place, au prix des autres. — Tu ne te trouves donc pas bien ici, [MASK] ? dit la maîtresse. — Si fait, maîtresse, mais je veux aller à la louée pour avoir un denier à Dieu .
+
+['madame', 'celle-ci', 'Marguerite', 'maman', 'famille']	Jeanne	Le lit de [MASK] était encore meilleur que celui de la mère Nannette, qui, pendant huit ans, n’avait pas vendu la plume de ses oies, pour amasser le lit complet de sa fille adoptive. La malade retrouvait le soir son coucher tout frais, et elle dormait mieux la nuit.
+
+[',', 'ne', 'à', 'NE', 'le']	Pierre	Si [MASK] s’était détruit, tu en aurais répondu devant Dieu. — Jeanne, tu me fais toujours peur ; je ne suis pourtant pas méchante. — C’est vrai, tu n’es pas méchante au fond ;
+
+['à', 'en', 'de', 'le', 'la']	Louis	Il avait pris [MASK] en grande affection, et disait qu’il serait un jour, comme son père, le meilleur laboureur du pays. Ce pauvre garçon, qui n’était guère guidé que par ses instincts, chérissait son beau-frère et lui était fort soumis ;
+
+['Dieu', 'maman', 'Marie', 'papa', 'toi']	Joséphine	vous êtes six femmes ici, et vous ne pouvez pas tenir cette petite les unes ou les autres ! Si c’était aussi bien l’enfant de [MASK], tu ne le laisserais pas comme ça ! — Mais, notre maître, ce n’est pas la même chose.
+
+['son', 'ses', 'sa', 'la', "l'"]	Paul	Du reste, cet homme rendait le meilleur témoignage sur la probité et le travail de [MASK]. Jeanne fut très affligée en voyant que son fils ne se corrigeait pas, et surtout en ne sachant plus où le prendre.
+
+[',', 'elle', 'qui', 'et', 'se']	Louise	[MASK] grandissait à vue d’œil et savait joliment lire, écrire et compter ; elle était fort adroite, et faisait de ses doigts ce qu’elle voulait. Sa mère, qui la gâtait un peu, n’avait pas voulu qu’elle allât aux champs comme les autres.
+
+['voyons', 'monsieur', 'Monsieur', 'madame', 'mademoiselle']	Jeanne	Voyons, [MASK], dit le maire, quelle somme avez-vous confiée à la mère Nannette ? — Monsieur, je serais bien en peine de le dire ; à mesure que je gagnais quelque chose, je le donnais à ma chère mère, et je ne lui ai pas demandé de compte, bien sûrement.
+
+[',', 'de', 'ne', 'le', 'la']	Jeanne	[MASK] voulut ensuite aller à l’herbe ; elle en ramassa un bon petit paquet qu’elle lia dans son tablier, et elle le posa sur sa tête en le maintenant avec ses deux petites mains, pour le rapporter à la maison. La mère Nannette lui donna des prunes pour son goûter
+
+['monsieur', 'cela', 'ça', 'moi', 'tout']	Étienne	; tu seras bien heureuse avec moi. — Ça n’est pas de refus, [MASK], dit le père Tixier : vous êtes de braves gens et ça me va ; mais il me faut un gendre qui demeure avec moi, je t’en avertis.
+

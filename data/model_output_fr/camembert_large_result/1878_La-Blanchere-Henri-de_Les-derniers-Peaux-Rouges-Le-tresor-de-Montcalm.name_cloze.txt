@@ -1,0 +1,200 @@
+['le', 'Pierre', 'Jean', 'Joseph', 'Gabriel']	Raoul	Noire se leva et, accompagné de ses guerriers, se dirigea vers le réduit où gisait [MASK], veillé par ses amis. En apercevant le Marcheur, le chef s'élança vers lui les bras ouverts, et l'étreignant sur sa poitrine: --Merci, frère! dit-il simplement.
+
+['</s>NOTUSED', 'le', 'la', 'John', 'Jack']	Thémistocle	je traduirai phrase par phrase ce que vous direz. Vous finirez en leur ordonnant d'adopter votre maitre. --Cela suffit, dit [MASK]. Le nègre, rejetant en arrière sa peau de bison, agita, en guise de salut, les plumes de dindon qui ornaient sa tête.
+
+['bravo', 'Bravo', 'courage', 'Félicitations', 'félicitations']	Thémistocle	ils sont les plus braves guerriers et les plus adroits chasseurs des prairies. A leur vue, les ennemis s'enfuient comme une troupe d'élans ou de cerfs timides... Cela est-il vrai, hommes puissants? --Bravo! [MASK]! murmura le Marcheur.
+
+['Joseph', 'David', 'Jacob', 'John', 'Jésus']	Thémistocle	Je dois les immoler à la colère du Grand Esprit: ainsi le veut mon père. Tous les Indiens tremblaient croyant leur dernière heure venue. --Cependant, dit [MASK] en élevant encore la voix, cependant, quel que soit mon ressentiment, mon coeur est bon...
+
+['Socrate', 'Alexandre', 'Platon', 'Jason', 'Jupiter']	Raoul	Ajoutez à cela la haute taille, le costume et la vigueur de notre ami.. --Mon brave Thémistocle, dit [MASK] en riant, te voilà passé à l'état de phénomène! --Mieux que cela, à l'état de divinité redoutable. --Et comment l'appelle-t-on?
+
+['il', 'elle', 'Il', 'Dieu', 'Bouddha']	Thémistocle	Noire s'opposa d'abord à cette résolution imprudente et téméraire; mais cette fois encore [MASK] interposa son autorité toute-puissante et le chef yakang consentit à ce que sa femme et sa fille fissent partie de l'expédition; mais en même temps il doubla le nom bre de l'escorte.
+
+['Jean', 'Georges', 'Albert', 'Pierre', 'Paul']	Raoul	Au bout d une demi-heure de cuisson souterraine, le rôti fut retiré et savouré, séance tenante, par les trois amis, qui déclarèrent n'avoir jamais rien mangé de meilleur. --Dans combien de jours arriverons-nous au village de la Flèche-Noire? demanda [MASK].
+
+['Joseph', 'James', 'Pierre', 'Charles', 'John']	Thémistocle	--La Flèche-Noire, mon frère, dit alors le trappeur en prenant [MASK] par le bras, je veux vous présenter un ami dont la vue seule a mis en fuite vos ennemis. Le chef considéra quelques instants la figure extraordinaire du nègre;
+
+['Wang', 'Satan', 'Bouddha', 'Jack', 'Khan']	Raoul	--Laissez la jeune fille! cria [MASK] en armant son pistolet. Oeil-Sanglant était cerné; il comprit que toute fuite était impossible: --Oach! dit-il d'une voix sombre, mon coeur aussi aime l'étoile des Yakangs, et aucun de mes ennemis ne l'aura!
+
+['Dieu', 'cela', 'Napoléon', 'ça', 'Charles']	Thémistocle	ah! les Peaux-Rouges prennent [MASK] pour un être surnaturel. Le fait est qu'à sa tournure!... Hé! hé! mais alors notre affaire ira toute seule!... Brave nègre, va!... La Flèche-Noire ne s'était pas trompé.
+
+['Pierre', 'Louis', 'Joseph', 'Charles', 'Henri']	Thémistocle	--Quel est le motif d'une si grande hâte? --Je ne saurais vous le dire au juste; mais je suis sûr que notre présence est indispensable au village, et mes pressentiments ne me trompent guère. --Eh bien! passez devant, dit [MASK] en baillant.
+
+['il', 'on', 'elle', 'Il', 'chacun']	Raoul	Lorsqu'il en sortit, le soir, [MASK] faisait partie de la puissante tribu des Yakangs. Pour fêter cet heureux jour, un grand feu fut allumé sur la place, et les danses et les jeux se prolongèrent pendant une partie de la nuit.
+
+['parlez', 'monsieur', 'Monsieur', 'frères', 'Frère']	Scott	--Si mes frères veulent m'écouter, dit à son tour le sang-mêlé, je leur apprendrai une importante nouvelle. --Parlez, [MASK], nos oreilles sont ouvertes. --Cinq visages pâles demandent à s'affilier aux Enfants perdus. --Je sais cela, dit l'Indien.
+
+['il', 'on', 'elle', 'lui', 'Il']	Thémistocle	--Morbleu! quel poignet! fit le trappeur avec admiration...--Arrêtez! Mais [MASK] avançait toujours. --Arrêtez! arrêtez! morbleu! arrêtez-vous donc! cria le Marcheur en se cramponnant à la queue de bison que le nègre traînait derrière lui...
+
+['Dieu', 'Satan', 'Jésus', 'Noir', 'Allah']	Thémistocle	Les Indiens considèrent comme surnaturels tous les objets, tous les phénomènes qu'ils ne connaissent pas. [MASK] est un de ces phénomènes-là. Les Yakangs n'ont jamais vu d'hommes noirs. Pour eux, un visage humain ne peut avoir que deux couleurs: rouge ou blanc;
+
+['Puis', 'Et', '</s>NOTUSED', 'Mais', 'Alors']	Thémistocle	Bientôt leurs oreilles seront réjouies par les cris de douleur de leurs ennemis. Toute la bande obéit. Il s'ensuivit un moment de confusion pendant lequel le poteau du sang resta sans surveillance. [MASK], jugeant le moment propice, se suspendit à l'extrémité de la branche.
+
+['Socrate', 'César', 'Napoléon', 'Abraham', 'Moïse']	Thémistocle	--Poltron! --Oh! fit [MASK] avec reproche. Ma foi! maître, puisque vous semblez vous y complaire, restons-y. Si les Indiens viennent, j'ai de quoi les recevoir. Et l'hercule africain posa la main sur sa massue. A la bonne heure!
+
+['Dieu', 'Pierre', 'Moïse', 'Joseph', 'David']	Montézuma	Nous devons avouer que [MASK] n'était pour rien dans l'explosion de la colline. C'était le Métis qui, explorant la grotte avait imprudemment approché son flambeau allumé du trou de la voûte pour voir si ce trou ne contenait pas, lui aussi, un peu d'or.
+
+['Noir', 'noir', 'Dieu', 'Jésus', 'celui']	Thémistocle	Les Yakangs n'ont jamais vu d'hommes noirs. Pour eux, un visage humain ne peut avoir que deux couleurs: rouge ou blanc; [MASK], dont le teint bouleverse toutes leurs idées, passe à leurs yeux pour un être supérieur, en dehors de la nature humaine.
+
+['lui', 'eux', 'nous', 'elle', 'Lui']	Thémistocle	--Guerriers, dit-il, les paroles de notre frère le Novice seraient-elles vraies? Soixante Enfants perdus valent bien un fils du Grand-Esprit. --Oach! répondirent les Indiens. A mort! Et ils se ruèrent sur [MASK]. --A notre tour, dit alors le Marcheur.
+
+['il', 'on', 'Dieu', 'je', 'Il']	Donnahcomah	Le récit achevé, le vieillard laissa tomber son front dans ses deux mains et sembla méditer. --Mon fils, dit-il enfin en relevant la tête, a dû se demander bien souvent pourquoi [MASK] vivait toujours seul, isolé sur cette colline, loin du commerce des autres fils du Grand-Esprit.
+
+['eux', 'lui', 'Merlin', 'Jack', 'Arthur']	Thémistocle	. La Flèche-Noire, le Marcheur et [MASK] ne tardèrent pas à revenir au sentiment de la réalité. Encore frissonnants du danger qu'ils avaient couru, ils jetèrent un regard autour d'eux et un cri de désespoir jaillit de leur poitrine...
+
+['Marie', 'David', '</s>NOTUSED', 'Pierre', 'Jean']	Raoul	Immobile, gracieusement accroupie sur une peau de bison, ses yeux demeuraient obstinément fixés sur le visage de [MASK]. Mille sensations, mille sentiments inconnus l'agitaient. Au milieu du silence de la loge, elle semblait écouter,--quoi?--qui sait? sans doute
+
+['Joseph', 'Jack', 'Pierre', 'Thomas', 'James']	Thémistocle	Epuisés par les fatigues de la journée, [MASK] et son maître ne tardèrent pas à s'endormir, et bientôt un silence solennel enveloppa le trappeur, qui, sa carabine entre les genoux, s'était assis à la porte de la hutte et surveillait l'obscurité.
+
+['Joseph', 'David', 'Jacob', 'Pierre', 'Charles']	Donnahcomah	Il ne s'aperçoit pas de la présence de son fils. --Oui, répondit le vieillard en étreignant le jeune homme sur sa poitrine. L'esprit de [MASK] est triste; il songe aux Indiens dont la puissance décroît de jour en jour.
+
+['il', 'chacun', 'on', 'Dieu', 'Pierre']	Donnahcomah	... Que le grand chef se dépêche, il y a longtemps que les Peaux-Rouges l'attendent..." --Eh bien? dit le Castor. --Eh bien! si [MASK] vit seul, c'est qu'il connaît un de ces trésors et qu'il le garde.
+
+['et', 'Et', 'Il', 'Joseph', 'Jack']	Thémistocle	[MASK], poussé par la même idée, exécuta une manoeuvre semblable à celle de son maître. --Morbleu! s'écria le trappeur avec un juron formidable et rechargeant précipitamment sa carabine, morbleu! un malheur va arriver. Là! je le disais bien!
+
+['il', 'elle', 'on', 'Napoléon', 'Dieu']	Montcalm	"Un moment, [MASK] crut pouvoir continuer la guerre avec ses propres ressources, grâce à une révélation ignorée. C'est précisément à ce fait que se rapportaient les lettres que j'avais trouvées. Je puis vous lire un passage frappant de l'une d'elles."?
+
+['il', 'Joseph', 'on', 'Charles', 'James']	Raoul	Au bout de quinze jours, [MASK] entrait en convalescence et, un mois après, complètement rétabli, mais encore faible, il errait par le village, examinant curieusement tout ce qui l'entourait et liant Connaissance avec les Indiens, qui l'accueillaient comme un compagnon d'armes.
+
+['oh', 'monsieur', 'bravo', 'Dieu', 'Seigneur']	Thémistocle	ils obéiront aux désirs du démon du Champ-Rouge: le visage pâle deviendra notre frère. --Hourra! cria le trappeur en jetant en l'air son bonnet de peau de raton, hourra, [MASK]! vous êtes grand comme le monde! Souffrez que je vous embrasse.
+
+['il', 'elle', 'lui', 'David', 'Alexandre']	Raoul	C'est précisément à ce fait que se rapportaient les lettres que j'avais trouvées. Je puis vous lire un passage frappant de l'une d'elles."? Et [MASK], prenant dans son portefeuille un papier jauni, le déploya lentement et lut ce qui suit:
+
+['Joseph', 'Pierre', 'Henri', 'Léopold', 'César']	Thémistocle	Quelques instants après, sa respiration calme et régulière apprit à [MASK] que, Vaincu par la fatigue, il venait de céder au sommeil. Le nègre le considéra quelques instants d'un oeil attendri. --Pauvre maître! murmura-t-il, bon, brave, généreux!
+
+['Il', 'Elle', 'II', 'On', 'il']	Thémistocle	La Flèche-Noire, brisé par la douleur, demeurait immobile devant le cadavre de sa fille. [MASK] s'approcha du pauvre père et, lui posant la main sur l'épaule: --Pourquoi le chef yakang pleure-t-il? A cette heure, sa fille est heureuse.
+
+['celui', 'celle', 'Pierre', 'Joseph', 'Alexandre']	Fleur-de-Printemps	s'écria [MASK] dont les yeux lançaient des éclairs; c'est un lâche! mon coeur le méprise et les guerriers de ma race feront des sifflets de guerre avec ses os! --J'ai voulu sauver la fille des Yakangs, dit l'Indien d'une voix sombre;
+
+['cette', 'ce', 'la', 'votre', 'cet']	Fleur-de-Printemps	--Un autre chef a été touché par la beauté de [MASK]. --Oui, Oeil-Sanglant. Eh bien! c'est pour lui que je travaille. Le Castor secoua la tête. --Mon frère ne brisera pas cette porte, dit-il. --Qui m'en empêchera? --Moi!
+
+['Fleur', 'Rose', 'fleur', 'Madame', 'Blanche']	Raoul	Peut-être Fleur-de-Printemps n'était-elle pas étrangère à ce changement. --Monsieur le marquis, dit un jour le trappeur en se frottant joyeusement les mains, nous partirons bientôt. --Déjà!... fit [MASK]. --Voilà bien la jeunesse! deux beaux yeux lui font oublier...
+
+['Seigneur', 'frère', 'ami', 'maître', 'toi']	Scalpeur	Le métis répondit par un signe de tête affirmatif. --Compte là-dessus, [MASK]! se dit-il intérieurement. Cet or-là ne percera point tes poches. --Silence! fit tout à coup l'Oeil-Sanglant. J'entends la forêt tressaillir autour de nous.
+
+['il', 'Il', 'elle', 'Merlin', 'Pierre']	Martin	Cet exploit accompli, [MASK] secoua la tête, s'étendit en travers de la porte et, après s'être léché les pattes pendant quelques instants, reprit son somme interrompu. Au coucher du soleil, le Marcheur arrivait au cirque de pierre.
+
+['Ali', 'Ibrahim', 'Moïse', 'Joseph', 'Ahmed']	Raoul	Pendant ce temps, les chefs et les principaux guerriers dansaient autour de l'estrade, poussant des cris discordants. --A quoi bon tout ce vacarme? demanda [MASK]. --A empêcher les plaintes que la douleur pourra vous arracher de parvenir aux oreilles des gens de la tribu.
+
+['Pierre', 'Jean', 'John', 'Joseph', 'Jack']	Raoul	Ils virent bientôt apparaître au sommet de la colline un homme de haute taille, portant le costume des trappeurs et brandissant une carabine qu'il chargeait avec une rapidité merveilleuse et une régularité mathématique. --C'est un blanc! dit [MASK]. --Oui, maître, c'est un blanc.
+
+['Harper', 'John', 'Joe', 'Jack', 'Scott']	Raoul	--Le courage, dans tous les cas, ne manquera à aucun de nous, dit [MASK] en caressant la tête du grizzly . Mais, mon cher trappeur, ce n'est pas tout d'avoir conclu une alliance défensive et offensive dans laquelle je gagne tout et ne donne rien.
+
+['Jean', 'Joseph', 'Pierre', 'Jonas', 'Marie']	Raoul	Puis, laissant ses compagnons, le chef des Enfants perdus se dirigea de nouveau vers la tente pour faire connaître aux prisonniers la décision du conseil. Après le départ de leur ennemi, les prisonniers gardèrent d'abord le silence avec une morne résignation. --Mourir ainsi, dit tout à coup [MASK], c'est affreux!
+
+['Dieu', 'Jésus', 'Moïse', 'Napoléon', 'Mahomet']	Montézuma	Hélas! qui sait cela aujourd'hui? Moi seul peut-être! Que mon fils se souvienne du nom de ce grand guerrier: il s'appelait Moctézucoma [2]. [Note 2: C'est ainsi que les Indiens prononcent le nom de [MASK]. Chose étrange!
+
+['</s>NOTUSED', 'Il', 'Jésus', 'Lui', 'Mais']	Thémistocle	Ces naïfs Peaux-Rouges, qui jusqu'alors écoutaient courbés dans l'attitude du respect, levaient maintenant leur front rayonnant d'orgueil. [MASK], croisant ses longs bras sur sa vaste poitrine, garda le silence pendant quelques instants afin de doubler l'effet de ses paroles.
+
+['il', 'Il', 'David', 'Alexandre', 'Roland']	Moctézucoma	Mais, hélas! le Maître de la vie oubliait ou voulait éprouver ses fils. Malgré ses prodiges de valeur, [MASK] fut vaincu, puis il disparut... Les visages pâles se vantèrent de l'avoir tué; mais mon fils le sait, la langue des visages pâles est fourchue.
+
+['John', 'Robert', 'James', 'Paul', 'Martin']	Raoul	Vers le milieu du quatrième jour, les amis étaient nonchalamment assis à l'ombre d'un bouquet de peupliers, quand tout à coup le trappeur, se baissant vivement, colla son oreille contre le sol. --Qu'y a-t-il? demanda [MASK] surpris.
+
+['lui', 'moi', 'nous', 'la', 'terre']	Raoul	Il pâlit affreusement, ses yeux devinrent d'une fixité effrayante; il chancela comme nn homme ivre et, portant la main à son front s'affaissa près de [MASK].? Tendant ce temps, une autre scène se passait près de la loge de la médecine.
+
+['Jack', 'le', 'la', 'John', 'Joseph']	Thémistocle	Tout à coup, en passant auprès d'un buisson de winterberg entouré de hautes herbes, [MASK], qui marchait à côté du trappeur, d'un bond prodigieux s'élança au milieu du buisson sans se préoccuper des épines qui lui déchiraient les chairs.
+
+['Joseph', 'Jean', 'Pierrot', 'Jack', 'Pierre']	Raoul	ne tardèrent pas à revenir au sentiment de la réalité. Encore frissonnants du danger qu'ils avaient couru, ils jetèrent un regard autour d'eux et un cri de désespoir jaillit de leur poitrine... [MASK] et Fleur-de-Printemps avaient disparu. --Ils sont morts! s'écria le trappeur.
+
+['la', '</s>NOTUSED', 'chacun', 'leur', 'deux']	Martin	, le Marcheur ajouta: --Chez moi, les meubles et les assiettes sont remplacés par... une aimable cordialité. Les trois hommes se mirent à souper en compagnie de [MASK], et bientôt le silence de la hutte ne fut plus troublé que par le bruit régulier des mâchoires.
+
+['lui', 'moi', 'alors', 'maintenant', 'pourquoi']	Raoul	Et [MASK]? Ah! fou que je suis! je l'ai vu tomber; mort peut-être?... Et il se baissa vivement vers le jeune homme, collant l'oreille contre sa poitrine. --Dieu soit loué-il respire encore. Holà!
+
+['Satan', 'Dieu', 'Merlin', 'soudain', 'alors']	Thémistocle	Mais en même temps un cri rauque, qui n'avait rien d'humain, se fit entendre, et [MASK], dressant sa haute taille fantastiquement éclairée par la lueur de l'incendie, fit son apparition en brandissant sa terrible massue. --Le démon du Champ-Rouge! s'écrièrent les Enfants perdus;
+
+['diable', 'Seigneur', 'roi', 'Ciel', 'ciel']	Castor	--Le [MASK] est généreux! dit celui-ci avec ironie; il donne la liberté à des prisonniers qui ne lui appartiennent pas. --Trêve de railleries! s'écria le jeune Indien; maintenant que l'Oeil-Sanglant a surpris mes desseins, je n'ai plus besoin de les cacher.
+
+['il', 'Jean', 'Pierre', 'Joseph', 'Il']	Thémistocle	Obéissant aux ordres du Marcheur, [MASK], avec une agilité dont il s'émerveillait lui-même, monta sur l'un des pins qui étendaient leurs longues branches jusqu'au-dessus du poteau de torture et se perdit bientôt dans le feuillage.
+
+['Jésus', 'Moïse', 'il', 'Daniel', 'Jérémie']	Thémistocle	Une explosion de cris enthousiastes et d'applaudissements frénétiques accueillit cette prophétie de bon augure; puis [MASK], descendant de l'estrade, fut entouré par les Indiens, qui, n'en ayant plus peur, s'approchaient de lui pour le toucher.
+
+['Jésus', 'Dieu', 'Marie', 'Jeanne', 'Marguerite']	Thémistocle	Croyez-moi, les voies de la Providence sont sages et mystérieuses: ce n'est pas pour rien qu'elle nous a mis face à face et qu'elle vous a permis de me conserver la vie... --Le Marcheur a raison, maître, dit [MASK];
+
+['John', 'Jack', 'Henry', 'Alice', 'William']	Raoul	--Merci! dit [MASK] d'une voix émue en pressant la main du trappeur. Mais, vous l'avez dit, je poursuis un but difficile à atteindre et ce serait un éternel remords pour moi de vous entraîner dans les dangers qui ne manqueront pas de m'assaillir.
+
+['Martin', 'en', 'Martine', 'Simon', 'François']	Thémistocle	Quatre valent mieux que deux! --Comment quatre? demanda [MASK] ouvrant de grands yeux. --Martin, dit le trappeur s'arrêtant devant le grizzly et lui montrant le marquis et le nègre, à partir d'aujourd'hui, tu as trois maîtres. As-tu compris?
+
+['Roland', 'Joseph', 'Pierre', 'Alexandre', 'Pierrot']	Thémistocle	Il est vrai que, malgré tous ses efforts pour rester éveillé, [MASK] vaincu par la fatigue, ne tarda pas à succomber au sommeil. Quant au Marcheur, l'oeil clos, le front caché dans ses mains, il gardait une immobilité complète.
+
+['victoire', 'guerre', 'Dieu', 'Victoire', 'triomphe']	Raoul	Au cri de [MASK], le Marcheur s'était retourné; il s'élança, rapide comme la foudre, sur la bande du Novice. Mais les bandits, ne jugeant pas à propos de l'attendre, tournèrent les talons et se réfugièrent dans les rangs des Enfants perdus.
+
+['il', 'le', 'Dieu', 'elle', 'Bouddha']	Pied-Agile	--Bien! Mon frère ira trouver le grand chef yakang et lui dira qu'un ami l'engage à retourner de suite à son village. --Mon frère sera obéi, dit [MASK]. Et jetant sa lance sur son épaule disparut dans les hautes herbes.
+
+['il', 'elle', 'on', 'Il', 'lui']	Raoul	En échange, [MASK] donna un de ses pistolets, que l'Indien reçut avec les marques de la plus vive satisfaction. Le sorcier, s.'approchant à son tour, se mit en devoir de pratiquer l'opération du tatouage.
+
+['lui', 'elle', 'Marie', 'Jean', 'Pierre']	Raoul	Le chef huron a enlevé Fleur-de-Printemps pour la mettre entre les mains de l'Oeil-Sanglant, qui la forcera à partager son wigwam et à devenir sa femme. Quant à [MASK], les Enfants perdus, pour se venger de leur défaite, l'attacheront au poteau de torture.
+
+['James', 'Jackson', 'Jones', 'Walker', 'Henry']	Raoul	A cette agression inattendue, tel Indiens poussèrent un cri de rage et se ruèrent sur [MASK], qui, arrivé sur le lieu de la scène, s'était placé aux côtés du trappeur. La mêlée devint aussitôt générale.
+
+['Pierre', 'Jean', 'Paul', 'Joseph', 'Antoine']	Raoul	En attendant, pour se remettre des fatigues d'une longue marche et reprendre des forces, les deux compagnons déjeunaient avec un appétit de voyageurs. --Brrr! dit tout à coup [MASK] en jetant un regard circulaire autour de lui, ces lieux ont un aspect sinistre.
+
+['Lui', 'Il', 'Alexandre', 'César', 'Jason']	Thémistocle	[MASK] surtout faisait des prodiges de valeur. Sa haute taille dominant les assaillants, on voyait sa terrible massue se lever et s'abattre avec une sorte de régularité mécanique, et à chacun de ses coups répondait le râle d'un mourant.
+
+['Martin', 'lui', 'Simon', 'Pierre', 'François']	Thémistocle	L'ours, ainsi interpellé, s'approcha du marquis et, se levant sur ses pattes de derrière, appuya son museau contre la joue du jeune homme; puis il répéta la même manoeuvre vis-à-vis de [MASK]. --Martin vous a reconnus pour ses seigneurs et maîtres, dit le trappeur;
+
+['celui', 'lui', 'ceux', 'Pierre', 'le']	Raoul	Un éclair permit aux Hurons de s'orienter. Sans songer qu'ils pouvaient être eux-mêmes emportés par la rafale, ils se précipitèrent vers Fleur-de-Printemps. --Deux prises valent mieux qu'une, murmura l'Oiseau-du-Tonnerre en s'avançant vers [MASK] étendu sur la terre non loin de la jeune fille.
+
+['</s>NOTUSED', 'Il', 'Lui', 'Adam', 'Jean']	Raoul	Un jour viendra où l'Oeil-Sanglant saura reconnaître ce service. Qu'on emmène les prisonniers sous ma tente! dit-il à deux de ses guerriers. Cet ordre fut immédiatement exécuté. [MASK], anéanti par ce qui lui arrivait, gisait inerte sur le sol.
+
+['un', 'le', 'ce', 'mon', 'ça']	Martin	--Bah! cela se voit, puisqu'en voilà un devant vous! --Mais si l'envie lui venait de goûter un peu du trappeur blanc? --Bah! J'ai pris [MASK] tout petit. Je l'ai nourri, élevé, je l'ai vu grandir... Ma foi!
+
+['le', 'Moïse', 'Jésus', 'Jean', 'Dieu']	Raoul	murmura le Marcheur. --Exorde par insinuation, ajouta [MASK]. --Levez les yeux, guerriers, continua le nègre, marchant à grands pas sur l'estrade et agitant les bras. Vous savez que le Grand-Esprit est mon père et que les prairies bienheureuses sont mes domaines...
+
+['Pierre', 'Marie', 'Jean', 'Alice', 'Jeanne']	Thémistocle	--C'est juste, ajouta [MASK] en s'étendant sur le sol et fermant les yeux. --Attention! dit tout à coup le Marcheur, voilà une force humaine, là bas, sur l'autre rive: c'est un Peau Rouge; il fait mine de vouloir passer le fleuve...
+
+['moi', 'blanc', 'oui', 'Blanc', 'cependant']	Scott	--Il est bien entendu que le chef ne parle qu'en son nom, dit tout à coup le blanc. Quant à moi, [MASK], je réclame ma part: car, si j'aime les chevelures, je ne dédaigne pas l'or soit en barres, soit monnayé.
+
+['il', 'Dieu', 'on', 'chacun', 'Napoléon']	Thémistocle	Guerriers, je suis heureux de le reconnaître jamais ma colère ne s'est appesantie sur votre race. Les Yakangs sont des braves. --Monsieur le marquis, dit le trappeur à voix basse, [MASK] fera maintenant tout ce qu'il voudra des Indiens.
+
+['Pierre', 'James', 'Simon', 'Joseph', 'David']	Raoul	Pour faire comprendre l'arrivée si pleine d'à-propos du Marcheur et de ses nouveaux amis, il nous faut faire quelques pas en arrière et retourner à la hutte du trappeur. --La Flèche-Noire ou le sorcier de sa tribu pourra seul vous renseigner, avait dit le Marcheur à [MASK];
+
+['elle', 'il', 'on', 'Elle', 'Marie']	Thémistocle	Vers le milieu du troisième jour de marche, nous la retrouvons campée au bord du fleuve où [MASK] avait terrassa un bison à la force du poignet. --J'ai une question à poser à mon père le sorcier, dit tout à coup le trappeur;
+
+['il', 'on', 'chacun', 'elle', 'Scott']	Donnahcomah	Nous l'avons vu guider les Yakangs vers le camp de leurs ennemis. Environ une heure après, [MASK] suivait le même chemin. Le vieillard venait à peine de disparaître qu'un homme surgit derrière l'aiguille de granit. --Cet homme était le métis Scott.
+
+['maître', 'monsieur', 'Maître', 'Monsieur', 'madame']	Thémistocle	--Et nous l'acceptons de grand coeur, n'est-ce pas, [MASK]? --Oui, maître. --Alors, en route! dit gaiement le trappeur, et, de crainte de surprise, prenons la file indienne. --La file indienne!... Que voulez vous dire?
+
+['Jack', 'Sam', 'Loup', 'Max', 'Fox']	Martin	Sous cette accolade formidable, l'Indien sentit ses os craquer, puisse briser et, quand l'ombre ouvrit les bras, le Loup roula inerte sur le sol. Il était mort sans pousser un cri. Cet ombre n était autre que [MASK], l'ours grizzly du Marcheur.
+
+['Celui', 'Chacun', 'David', 'Pierre', 'Celle']	Raoul	A sa vue, un cri de joie s'éleva parmi les assiégés, une imprécation de rage chez les assiégeants. [MASK] qui, à la lueur du brasier, avait vu le mouvement du Marcheur, imita son exemple et descendit de son arbre
+
+['Il', 'Elle', 'On', 'il', 'Tout']	Fleur-de-Printemps	Quelle contenance fera-t-elle lorsque les couteaux de mes fils découperont ses chairs, lorsque ses ongles et ses cheveux seront arrachés un à un? Le chef des Enfants perdus se tut pour juger de l'effet que ses paroles avaient produit. [MASK] frissonnait.
+
+['Joseph', 'Louis', 'Charles', 'Pierre', 'Alexandre']	Thémistocle	--Ce n'est rien, répondit [MASK] d'un air modeste; pauvre nègre avoir deux frères plus forts que lui. --Enfin tout est bien qui finit bien; mais, croyez-moi, que ceci vous serve de leçon.
+
+['Dieu', 'Pierre', 'Alexandre', 'Napoléon', 'Roland']	Thémistocle	mais... --Meurs donc! cria le Novice en déchargeant un second coup de pistolet. Mais, cette fois encore, la balle, ma! assurée, manqua son but comme la première. --C'en est trop! fit [MASK] d'un air terrible.
+
+['Il', 'On', 'Elle', 'Dieu', 'Qui']	--Donnahcomah	Et le guerrier pâle?... Il vit... Ah! je l'aimais plus que lui!.... Puis il retomba sur le corps de la jeune fille, comme s'il eût voulut défendre celle qu'il aimait même après la mort. [MASK] n'a plus de fils!
+
+['Il', 'il', 'On', 'II', 'Et']	Martin	Le second Indien qui se présenta subit le même sort: mais le troisième, averti par un grognement, eut le temps de se mettre sur la défensive et de brandir son tomahawk, faible arme pour un tel adversaire. [MASK] ne s'inquiéta même pas d'éviter le coup qui lui était destiné;
+
+['</s>NOTUSED', 'le', 'la', 'un', 'Noir']	Thémistocle	Sachez, chef, que chez les visages pâles j'avais trente hommes semblables à celui-ci pour esclaves. --Si c'est un démon, qu'il évite ceci... fit un des Américains en couchant en joue [MASK]. La position du nègre devenait critique, mais le Marcheur veillait.
+
+['Jésus', 'Dieu', 'Merlin', 'Napoléon', 'Moïse']	Thémistocle	Les Indiens poussèrent une immense clameur d'admiration. Jamais ils n'avaient assisté à un pareil trait de vigueur corporelle. Evidemment l'être capable d'un tel effort était bien un être surnaturel. --Guerriers, continua [MASK], vous savez le reste.
+
+['Pierre', 'Joseph', 'Jean', 'David', 'Marie']	Raoul	Lorsque le repas fut achevé, la nuit étendait déjà sur la terre son voile parsemé d'étoiles. La lune se lèvera tard aujourd'hui, dit le Marcheur, et pour la remplacer je n'ai que quelques misérables flambeaux de résine. --Gardez vos flambeaux, dit [MASK];
+
+['Jésus', 'Dieu', 'Salomon', 'Satan', 'Christ']	Moctézucoma	Devant lui, appuyés sur le sol et montant jusqu'à la voûte, des monceaux de poudre d'or se dressaient, renvoyant en fauves lueurs les rayons du flambeau réfléchis sur leur surface. --Voilà les richesses que [MASK] doit trouver intactes quand il reviendra sur la terre.
+
+['Marie', 'Sara', 'Rose', 'Sarah', 'Blanche']	Fleur-de-Printemps	--Que le chef s'explique. --Les deux yeux de [MASK] éclairent mon coeur depuis longtemps. Qu'elle consente à partager mon wigwam et, au lieu d'être attachée au poteau de torture, elle sera aimée et respectée de nos guerriers.
+
+['Dieu', 'Jérémie', 'Joseph', 'Pierre', 'Roland']	Thémistocle	--Ils sont au Maitre de la vie, dit [MASK] d'une voix sévère. Terrifié, le chef des Enfants perdus allait donner l'ordre de délier les victimes, lorsque tout à coup le Novice, élevant la voix: --Que veut dire ceci, guerriers? cria-t-il.
+
+['Il', 'Elle', 'il', 'elle', 'II']	Donnahcomah	bientôt il ira rejoindre ses pères dans les prairies bienheureuses, et alors mon fils le Castor le remplacera. Maintenant, que mon fils me suive." [MASK] se dirigea vers l'une des extrémités de la plate-forme et contourna un amas de rochers surplombant l'abîme.
+
+['ours', 'ami', 'toi', 'petit', 'chéri']	Martin	Sur le seuil, il trouva son ours qui l'accueillit avec toutes les démonstrations d'une joie des plus vives. --Bonjour, bonjour, [MASK]! dit le trappeur en caressant l'animal; as-tu vu quelqu'un rôder par ici? Les
+
+['Dieu', 'dieu', 'moi', 'Jésus', 'Satan']	Moctézucoma	Voyons un peu, à notre tour, ce fameux trésor. Qu'il appartienne à [MASK] ou au diable, je puis bien en prendre ma part. Et, allumant le flambeau il pénétra dans la grotte. A la vue des immenses richesses qui s'étalaient devant ses yeux:
+
+['Joseph', 'Dieu', 'Alexandre', 'David', 'Pierre']	Donnahcomah	--Que mon père chasse ces tristes pensées: le sang des jeunes hommes bouillonne dans leurs veines! --Que mon fils m'écoute! dit [MASK]; je suis vieux, et à mon âge, sur le seuil des prairies bienheureuses, l'esprit acquiert plus de lucidité.
+
+['il', 'chacun', 'on', 'Il', 'lui']	Raoul	Ma foi! depuis six ans que nous vivons ensemble, jamais un nuage n'est venu obscurcir notre amitié... Messieurs, le rôti est prêt. A table, reprit le trappeur. Et comme [MASK] jetait un regard autour de lui, cherchant le meuble en question
+
+['Joseph', 'dit', 'monsieur', 'Monsieur', 'disant']	Thémistocle	--Qui sait si nous atteindrons jamais le but que vous vous proposez, surtout n'ayant que les vagues renseignements que vous m'avez confiés! --Il existe un vieux proverbe, [MASK]; La foi soulève les montagnes . J'ai confiance en toi et en moi-même.
+
+['Elle', 'Il', 'Marie', 'Alice', 'Anna']	Fleur-de-Printemps	... Et, prompt comme l'éclair, il enfonça son couteau à scalper dans le coeur de la jeune fille. [MASK] poussa un soupir, ferma les yeux et inclina la tête comme un lis brisé par l'orage. Elle était morte.
+
+['Joseph', 'Marie', 'David', 'Pierre', 'John']	Fleur-de-Printemps	--L'Abeille veillera sur le malade, dit l'Indienne; il a donné son sang pour la tribu. --Ma mère est âgée, elle a besoin de repos; je veillerai à sa place, fit [MASK] avec vivacité.
+
+['John', 'James', 'Thomas', 'Jack', 'Henry']	Raoul	--Thémistocle, dit le nègre agitant, en guise de salut, les trois plumes de dindon qui ornaient sa tête. --Confidence pour confidence, dit alors [MASK]. --Non, répondit le trappeur en fronçant légèrement les sourcils; à quoi bon vous dire le nom que je portais chez mes compatriotes?
+

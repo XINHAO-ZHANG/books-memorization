@@ -1,0 +1,200 @@
+['le', 'la', "l'", 'les', 'lui']	Coche	… La fille !… Arrêtez ! Arrêtez… Vingt mains s’abattirent sur eux. L’un des hommes tira son couteau. La fille se mit à pousser des cris effrayants. L’aumônier se précipita sur [MASK], l’entoura de ses bras et supplia le procureur :
+
+['celui-ci', 'il', 't-il', 'celle-ci', 'Jean']	Coche	— Sensationnelles, fit [MASK] en s’asseyant sur la banquette. Demandez du papier, de l’encre et écrivez, il y en a pour un instant. Vous arrangerez ça à votre façon. J’ai causé longuement avec le commissaire.
+
+['ne', 'on', 'se', 'le', 'il']	Coche	Au premier pas, sans hésitation, tête baissée, on était allé donner dans le piège que lui, [MASK], avait tendu. Lorsque le commissaire avait dit : « On a imaginé une mise en scène capable d’égarer la justice… »
+
+['il', 'on', ',', 'et', 'avocat']	Coche	[MASK] oubliait un peu tout ce que sa situation présentait de grotesque et de dramatique à la fois, et l’avocat essayait de déchiffrer ce qu’il y avait au fond de cette espèce d’insouciance blagueuse, succédant à l’indignation remarquablement simulée du début.
+
+['"', 'On', 'Je', ',', 'se']	Coche	« J’ai eu du flair. Personne ne voulait me suivre. [MASK] prétendait que je m’étais laissé mettre dedans. Mais j’ai tenu bon. Je sentais que ce n’était pas un canard ; on ne me la fait pas, je suis un vieux routier
+
+['se', 'et', ',', 'Il', 'il']	Coche	je travaillais, moi, pendant que vous dormiez… [MASK] détourna la tête pour ne pas laisser deviner le sourire qui plissait sa bouche, et la petite flamme qui passait dans ses yeux, puis sortit. Dans l’escalier, il croisa le garçon qui lui demanda :
+
+['celui-ci', 'lui', 'prisonnier', 'Jacques', 'procès']	Coche	Alors l’aventure invraisemblable de [MASK] apparut claire – et au bout de quinze jours, il fut remis en liberté – non pas innocent pour la loi, mais gracié, en attendant que la cour de Cassation eût révisé son procès.
+
+['NE', 'ON', 'DE', ',', 'ONT']	LORSQUECOCHE	[MASK] S’ÉVEILLA, IL faisait grand jour, ce grand jour d’hiver qui semble traîner avec lui encore un peu de crépuscule. Il s’habilla rapidement, pressé de lire les journaux. Comme il passait devant le bureau de l’hôtel, le gérant l’appela :
+
+[',', 'on', 'se', 'le', 'il']	Coche	À onze heures, vous, vous ne saviez rien !… Qu’est-ce que vous voulez ? Tant pis je vais téléphoner à ce garçon-là de venir, et je le mettrai sur l’affaire. [MASK] laissa passer l’orage sans répondre, puis se décida à parler :
+
+['il', ',', 'et', 'Il', 'elle']	Coche	[MASK] crut avoir atteint cette limite, et s’en réjouit presque. Si le soir où il avait téléphoné la grande nouvelle au Monde , quelqu’un avait pu lui dire : « Voilà quel mouvement de curiosité vous allez provoquer », il eût tressailli de joie.
+
+['à', '...', 's', 'très', '-']	Coche	— Juste, très juste… De mon côté, je n’en parlerai pas. Allons, au revoir, monsieur le commissaire, et encore merci. — Tout à votre disposition, et à bientôt j’espère ? — À bientôt. — Et maintenant, songea [MASK], à nous deux ! Chapitre 4
+
+['</s>', 'il', "c'", 'Il', "s'"]	Javel	À lui de s’en servir. [MASK] avait pour habitude, lorsqu’il recherchait un individu, de se demander, non pas ce que lui, pourrait trouver de plus intelligent, mais bien ce que son adversaire pourrait trouver de plus bête, ou de plus maladroit.
+
+['il', 'elle', 'lui', 'on', 'après']	Coche	: « Ça m’est, du reste, totalement indifférent, pourvu qu’il paye régulièrement. » Réflexion qui en fit naître une autre dans son esprit. Ce voyageur était arrivé sans bagages. Rien ne garantissait donc son retour. [MASK] avait fait un pas, il le rappela
+
+['secrétaire', '...', '?', '.', 'le']	Coche	Je pense que mon correspondant ne s’en tiendra pas à sa communication de cette nuit, et que je le verrai sous peu, ne serait-ce que pour toucher quelque argent… — Croyez-vous ? fit [MASK]. — Je le crois, affirma le secrétaire.
+
+['était', 'très', 'est', 'TA', 'de']	Coche	Il lui fit préciser certains détails insignifiants, sans oser aborder nettement la question du crime. Au bout d’un quart d’heure de conversation, [MASK] de plus en plus nerveux lui dit : — Voyons, maître, la vérité : vous me croyez coupable…
+
+['Il', 'Elle', 'il', '</s>', 'et']	Coche	Et si, d’aventure, j’estimais, dans l’intérêt de l’instruction, devoir vous taire quelques détails, il vous les fournirait aisément… [MASK] se mordit les lèvres et songea : « Tu as tort de jouer l’ironie avec moi.
+
+['le', 'M.', 'la', 'Mme', 'Pierre']	Onésime	Elle avait gardé, dans la mort, une indicible expression d’effroi. Les yeux encore brillants avaient une fixité extraordinaire. La lumière de la lampe électrique y mettait deux flammes autour desquelles [MASK] Coche regardait deux petites images à peine voilées qui étaient son image.
+
+['ce', 'on', 'tout', 'tu', 'de']	Coche	Et il raccrocha les récepteurs. « Demain matin, mon bonhomme, songea l’inspecteur, tu arriveras probablement après la bataille, car demain, si [MASK] n’est pas entre mes pattes, il ne s’en faudra pas de beaucoup. »
+
+[',', 'quand', 'il', '</s>', "lorsqu'"]	Javel	[MASK] le vit hésiter, puis faire un pas, regarder à droite et à gauche, et enfin partir, droit devant lui. Il lui laissa prendre quelques mètres d’avance, et se mit en marche à sa suite.
+
+['...', 'avocat', '.', '"', 'le']	Coche	Dans le couloir, son avocat lui dit : — Je viendrai vous voir demain matin, nous avons à causer longuement… — Je vous remercie, fit [MASK]. Et il se laissa emmener par les petits corridors jusqu’à la sortie du Palais.
+
+[',', 'on', 'se', 'ne', 'point']	Coche	Il lui eût été désagréable qu’on pût lui reprocher d’avoir été moins perspicace qu’un journaliste. Cette faute pouvait nuire à son avancement, et, reconnaissant à [MASK] d’avoir deviné sa pensée, devancé ses désirs, il lui dit d’un ton presque amical :
+
+['-', 'Je', '...', ',', 'et']	Jules	— [MASK], le garçon du Monde . — Un moment, j’arrive. Il alluma sa bougie, enfila son pantalon et ouvrit la porte, d’assez mauvaise humeur : — Qu’est-ce qu’il y a de cassé, qu’est-ce qu’on me veut
+
+['Il', 'Chacun', 'On', 'il', 'Elle']	Coche	Quel papier !… Mais ce mot magique « La police » demeura sans écho comme les autres. Pas un murmure ne troubla la majesté du silence. [MASK] pensa que son truc ne valait rien, que le danger demeurait pareil. Une chose cependant le rassura.
+
+['courrier', 'celle-ci', 'celui-ci', 'papier', 'correspondance']	Coche	Depuis la découverte du morceau d’enveloppe, il avait eu la sensation que la partie devait se jouer autour de ce bout de papier, et cette sensation, vague d’abord, s’était tout à coup précisée lorsqu’il avait entendu le numéro de l’adresse de [MASK].
+
+['il', 'elle', '</s>', 'Il', 'et']	Coche	d’abord en une poussière fine, puis à gros flocons serrés et lourds qui descendaient verticalement dans le grand silence du boulevard désert. Les deux hommes se taisaient, plongés dans leurs réflexions. [MASK] effaça du bout des doigts la buée du carreau et regarda le sol, les maisons et les flocons de neige.
+
+['il', 'elle', 'Il', 'Elle', 'celui-ci']	Coche	» L’avocat se rassit au milieu d’un effrayant silence. Par pure courtoisie, [MASK] se pencha vers lui et le remercia. Mais il n’avait rien entendu de sa défense, défense pitoyable à la vérité mais impossible. Les débats allaient être clos.
+
+['Non', 'NON', '-', 'Mais', 'Monsieur']	Coche	: — [MASK], n’essayez pas de nous tromper une dernière fois. Songez aux conséquences de votre déclaration, si elle est reconnue fausse. Réfléchissez avant de la jeter dans le débat. — J’ai réfléchi ! j’ai réfléchi : j’ai dit la vérité !
+
+[',', 'se', 'et', 'qui', 'de']	Coche	Mais à toutes les questions [MASK] répondait invariablement : — Je ne sais pas, je ne m’explique pas, je suis innocent. Le président lui ayant fait observer tout ce que ce système de défense offrait de dangereux, il leva les épaules et murmura :
+
+['il', 'Il', 'et', ',', 'y']	Javel	[MASK] pensa : — Aurait-il l’audace de coucher chez lui ?… Après tout, s’il n’est pas coupable, si son départ n’est lié en aucune façon à l’affaire, cela n’a rien de surprenant.
+
+['les', 'la', 'le', "l'", 'lui']	Coche	L’inconnu du 22 LA JOURNÉE S’ÉCOULA MONOTONE pour la police comme pour [MASK]. Cette affaire, à qui la curiosité publique donnait d’heure en heure de plus grandes proportions, n’avançait pas. En dehors du nom de la victime, on ne savait rien.
+
+['il', 'elle', 'leur', 'cela', 'se']	Coche	Au moment où ils allaient la franchir, [MASK] fit un pas : — Eh bien, monsieur le commissaire ?… — Votre information était exacte… — Maintenant que vos premières constatations sont faites, serait-il possible d’entrer, ne fût-ce qu’un moment ?
+
+['Dreyfus', 'meurtre', 'celui-ci', 'crime', 'culpabilité']	Coche	Après le réquisitoire, le siège des jurés était fait, et c’est à peine s’ils avaient écouté la plaidoirie de l’avocat. Si l’alibi de [MASK] était reconnu valable, l’accusation s’écroulait, ou du moins recevait un coup terrible.
+
+['elle', 'lui', 'eux', 'elles', 'Mme']	Coche	Après elle, des garçons du journal, le bijoutier qui avait vendu les boutons, le facteur qui, trois ou quatre fois, avait déposé au 22 des lettres adressées à [MASK], défilèrent sans apporter le moindre renseignement intéressant.
+
+['-', '...', 're', 'Re', 'dia']	Coche	Vous désirez ?… — Le journal Le Monde ? — Oui, monsieur… — Je désirerais parler au secrétaire de la rédaction. Une autre voix passa dans l’appareil, celle de l’employé du Central qui demandait un numéro. — Allô ! Allô ! fit [MASK]…
+
+['son', "l'", 'la', 'sa', 'celui-ci']	Coche	Tandis que son chef interprétait les événements, lui se bornait à les constater. Aussi bien, la découverte du matin, et le renseignement recueilli au domicile de [MASK], n’étaient-ils rien auprès de celui qu’il conservait précieusement, l’ayant obtenu avec une rare facilité.
+
+['celui-ci', 'lui', 'il', 'Robert', 'lui-même']	Coche	Il le déplia à la troisième page, et désigna, tout en bas de la dernière heure, l’information ayant trait au crime du boulevard Lannes. Tandis que [MASK] parcourait les lignes, il ajouta : — C’est venu par téléphone au moment où nous allions rouler.
+
+['les', ',', 'la', 'le', "l'"]	Coche	L’épouvante LE SÉJOUR DE LA prison avait fortement déprimé [MASK]. L’énervement des premiers jours avait fait place à de l’abattement. Au début, il aurait pu, à la rigueur, tout avouer, maintenant, il lui semblait impossible d’agir ainsi après tant de petits mensonges.
+
+[',', 'il', 'et', 'elle', 'Il']	Coche	[MASK] revit une dernière fois les cheveux roux de la femme, la bouche tordue du petit et l’effroyable face à demi cachée par les linges maculés de sang, après quoi ils se jetèrent de côté, gagnèrent le gazon des fortifications et se perdirent dans la nuit.
+
+[',', '...', 'se', 'qui', 'et']	Coche	[MASK] s’éveilla en poussant un cri… Pendant une seconde, il retrouva la joie du réveil qui brise les cauchemars, mais aussitôt la réalité, plus effroyable que le rêve, reprit : La guillotine ! le couteau blanc, et le panier où bondissent les têtes…
+
+['Il', 'Elle', 'On', 'il', 'et']	Coche	, murmura : — Après tout, peut-être, cette empreinte parvenait-elle de l’un de nous ? Mon secrétaire qui était à ma gauche peut fort bien avoir posé le pied sur le gazon… [MASK] se rangea à son avis, sans capituler tout à fait cependant.
+
+['</s>', ',', 'de', '...', 'à']	Coche	[MASK] ne lui avait-il pas déclaré : « La presse possède des moyens d’investigation multiples… » Quels avaient été ces moyens ?… Voilà ce qu’il importait de connaître, et, pour y arriver, il ne reculerait pas devant l’intimidation.
+
+['Il', 'Elle', 'On', 'il', 'elle']	Coche	Entre les deux montants de la fenêtre ouverte, une tête apparut, puis disparut derrière les vitres refermées. [MASK] regarda sa montre. Il était neuf heures et trois minutes. À cet instant précis, la justice savait une partie de ce que lui savait depuis la nuit.
+
+['il', 'elle', 'on', 'Il', 'et']	Coche	— Exactement. La voiture s’était arrêtée à la porte du commissariat. [MASK] descendit le premier et tapa du pied pour se dégourdir les jambes. Il était d’une humeur charmante, les choses marchaient mieux qu’il n’aurait osé l’espérer.
+
+['le', "l'", 'la', 'M.', 'mon']	Coche	— C’est trop juste, répondit [MASK], en revenant sur ses pas. Il paya donc, décidé à ne pas coucher là le soir. On ne manquerait pas, dans la suite, de voir là un indice sinon de sa culpabilité, du moins de son désir de n’être pas reconnu.
+
+['qui', 'il', 'se', 'le', 'lequel']	Coche	Il y eut une suspension d’audience de quelques minutes, puis la parole fut donnée au ministère public. [MASK], un peu rassuré par la déclaration si nette de l’horloger, écouta le réquisitoire sans émotion apparente, et pourtant, il était terrible pour lui dans sa simplicité un peu sèche, presque mathématique.
+
+[',', '...', 'le', 'A', 'à']	Chapitre	vous croyez que ça amusera vos lecteurs ?… C’est pour quel journal ?… — Pour le Monde , qui le premier… — Eh bien, fit le commissaire rageur, vous pourrez dire chez vous… Au fait, ne dites donc rien du tout… [MASK] 6
+
+['dame', 'le', 'il', 'on', 'la']	Javel	Il peut rentrer d’un moment à l’autre, comme il peut ne pas rentrer. — C’est que, murmura [MASK], j’aurais bien besoin de le voir… — Qu’est-ce que vous voulez ? fit la femme, entrez… peut-être il va revenir…
+
+[',', 'ne', 'se', 'le', 'de']	Coche	[MASK] n’entendit pas, mais voyant le commissaire parler bas en le regardant de côté, convaincu qu’il s’était trahi par sa sortie maladroite et son insistance à donner des détails que personne ne lui demandait, il pensa : — Déjà !… je ne suis qu’un maladroit
+
+['se', ',', 'il', 'le', 'alors']	Coche	Mais depuis des heures on claquait des dents sans oser s’en rendre compte. Onésime [MASK] recula d’un pas, et dit à haute voix : — Tu as peur, mon garçon. Il attendit, cherchant à démêler l’impression exacte que ce mot allait faire sur lui.
+
+['il', 'elle', 'celui-ci', 'Holmes', 'Il']	Coche	». Quand il eut fini sa lecture, [MASK] replia les journaux, et les mit dans la poche de son pardessus. « Ainsi, pensa-t-il, il a suffi de deux ou trois meubles déplacés, de ma mise en scène maladroite, pour tout fausser
+
+['de', 'se', '...', '"', 'à']	Coche	Il n’y attachait encore aucune valeur : quelle vraisemblance que [MASK] fût mêlé à cette affaire ? Fallait-il, pour une simple concordance de chiffres, échafauder tout un roman ? Il rentra dans son cabinet en se disant : « Non… c’est absurde… »
+
+['il', 'on', 'Il', 'je', 'chacun']	Coche	… Le premier interrogatoire sommaire terminé, [MASK] fut enfermé dans une petite cellule du poste. Derrière sa porte, il entendait causer les agents, et de temps en temps, l’un d’eux venait jeter un coup d’œil sur lui, par un judas.
+
+[',', '...', 'dam', 'je', ':']	Coche	Le temps matériel me manque pour contrôler… Dites-moi quelque chose qui m’indique à quelle source vous avez puisé ce renseignement… Allô ! Allô ! ne quittez pas… répondez, monsieur… — Eh bien, fit [MASK], admettez si vous voulez, que je suis l’assassin !…
+
+['qui', 'et', 'police', 'mais', 'lequel']	Coche	tout à l’heure, elle était d’une netteté remarquable. — Rentrons, fit vivement le commissaire. [MASK], cette fois, le suivit. Quand il posa son pied sur le sable de l’allée, il éprouva une sensation indéfinissable d’orgueil et de peur.
+
+['il', "c'", 'cela', "j'", 'on']	Coche	Si elle est erronée, la mention sous toutes réserves me met à l’abri de tout reproche, et si elle est vraie, aucun confrère n’en profitera. Ah ! si [MASK] était sérieux, je l’aurais fait prévenir sur l’heure.
+
+['Question', 'SE', '...', 'NE', 'DE']	Javel	Qu’est-ce que ça veut dire ? pensa [MASK]. Il connaît sûrement le quartier… et il a l’air de ne pas savoir ce qu’il veut… Et il ajouta à mi-voix : — Allons, mon vieux, c’est l’heure de te coucher…
+
+['guerre', 'candidature', 'principe', 'patrimoine', 'principes']	Coche	La déclaration de [MASK] avait produit une véritable stupeur. Les rares partisans qu’il comptait dans l’auditoire triomphaient ; les autres, sans pouvoir nier l’importance décisive d’un pareil alibi, doutaient encore de sa véracité. Dans le jury surtout, l’étonnement avait été extraordinaire.
+
+['la', "l'", '...', 'se', 'le']	Coche	D’abord l’information étrange du Monde , information dont il n’avait pu trouver la source ; puis les phrases énigmatiques de [MASK], son attitude ironique jusqu’à l’insolence, ses réponses mystérieuses, la découverte de la trace des pas, son émotion dans la chambre du crime…
+
+['il', 'non', 'lui', 'on', 'le']	Coche	Un matin, le médecin était venu, et [MASK] avait refusé de répondre à ses questions, se bornant à dire : — Le mal dont je souffre ne saurait être guéri ni soulagé par vous. Je ne suis pas fou, je ne fais pas le fou, je désire seulement qu’on me laisse en repos
+
+['Jean', 'Blaise', 't-il', 'Lucien', 'Bernard']	Coche	: « Ou bien j’ai rêvé toute cette histoire, ou bien il va voir, et alors, il s’arrêtera. » Mais le gendarme passa son chemin. — Voyons, voyons, murmura [MASK], je ne suis pas fou ; je ne divague pas.
+
+[',', 'de', 'se', 'le', 'ne']	Coche	[MASK] n’était pas de ceux qui demeurent longtemps sous une impression pénible. À force de blaguer les autres, il en était arrivé à se blaguer lui-même, et la réflexion candide du commissaire l’emplit d’une joie profonde. Ce bouton de manchette, sans importance !…
+
+['le', 'la', 'les', 'une', 'un']	Coche	— Vous ne tenez pas à jouer, n’est-ce pas ?… Mais, comme il prenait les soucoupes et les passait à son voisin de droite, il aperçut [MASK], et s’écria : — Des nouvelles ?
+
+[',', 'à', 'de', 'sur', 'en']	Javel	… — Non… Laissez un mot. On le lui remettra avec ses lettres qui l’attendent depuis trois jours. — Trois jours ! songea [MASK], est-ce que je tiendrais le bon bout, par hasard ? Et il ajouta, comme se parlant à lui-même :
+
+[',', 'est', 'on', '...', '(']	Coche	— Je ne puis vous renseigner sur ce point… Je suis désolé, tout à fait désolé… « Ah çà ! songea [MASK] de plus en plus attentif, mais c’est de moi qu’on parle, et cette voix… cette voix… »
+
+['Il', 'Elle', 'il', 'elle', 'Celui-ci']	Coche	Suivant que les événements prendront telle ou telle tournure, je vous donnerai de nouveaux détails… Un mot encore : Ne parlez à personne de votre correspondant mystérieux, et sur ce, monsieur, j’ai bien l’honneur… [MASK] raccrocha le récepteur, et se dirigea vers la porte.
+
+['.', '...', 'la', 'tout', 'le']	Forget	Je ne m’explique pas… L’instruction, longue, difficile, n’amena aucune découverte intéressante. Il était impossible de briser la muraille mystérieuse qui, de son vivant, avait entouré [MASK]. Personne ne le connaissait, personne n’était au courant de ses habitudes.
+
+['il', 'qui', 'Il', 'et', 'je']	Coche	Enfoncé dans son coin, [MASK] n’avait pas ouvert la bouche depuis le départ. Tout au plus avait-il dit un timide merci quand un des inspecteurs avait baissé les stores pour le soustraire à la curiosité du public. Les cris, les menaces de tous ces gens l’avaient d’abord effrayé puis écœuré.
+
+['Oui', 'Toi', 'toi', 'oui', 'Allons']	Coche	Une idée suffit à la vie d’un homme. Si je ne deviens pas célèbre après celle-là, j’y veux perdre mon nom ! [MASK], mon ami, à dater de cette seconde, pour le monde entier, tu es l’assassin du boulevard Lannes !
+
+[',', 'de', 'le', "l'", 'la']	Coche	Alors [MASK], qu’il regardait depuis une seconde, s’avança, et dit avec son plus aimable sourire : — Je ne pense pas qu’on vous ouvre, monsieur. La maison est vide, ou tout au moins, vide de gens capables d’entendre votre appel…
+
+['la', 'le', 'en', 'bien', "l'"]	Coche	Notre informateur était certainement très bien renseigné. — Son nom ? — Voyons, monsieur le commissaire, vous me demandez de brûler un de mes hommes… Vous ne le feriez pas pour l’un des vôtres !… Le commissaire regarda [MASK], droit dans les yeux :
+
+['il', 'se', ',', 'lui', 'elle']	Coche	[MASK] finirait bien par entrer dans une maison, et il lui faudrait encore attendre, jusqu’au jour, par cette nuit glaciale, avec le ventre creux, les pieds gelés et les doigts engourdis. Tout à coup, une voix, derrière lui, fit doucement :
+
+['celui-ci', 'tous', 'celle-ci', 'chacun', 'Pierre']	Coche	Or, comment pourrait-il expliquer ce cri d’angoisse ?… La voix poursuivit : — Je ne sais pas si vous le trouverez chez lui, mais voici son adresse… Un dixième de seconde, la pensée qu’il ne s’agissait pas de lui, traversa l’esprit de [MASK].
+
+['il', 'elle', 'on', 'chacun', 'celui-ci']	Coche	Plus tard, bientôt peut-être, vous verrez, je vous dirai… — Mais je vous crois, je vous l’affirme… Et [MASK] comprit, à l’attitude, au regard de son avocat, qu’il déguisait sa pensée, qu’il était convaincu, lui aussi, de sa culpabilité.
+
+['...', 'Il', 'il', 'Elle', 'Je']	Coche	Je vous connais assez pour être sûr que vous avez quelque chose à raconter… que vous êtes renseigné aussi bien, sinon mieux, que n’importe qui… Allons, mon petit, voilà qui est entendu. Mais [MASK] hocha la tête : — Non, non.
+
+['secrétaire', 'président', 'Secrétaire', 'celui-ci', 'greffier']	Coche	Le secrétaire lui mit la main sur l’épaule : — Un moment ! On y serait fort en peine de vous donner le moindre renseignement, pour l’excellente raison qu’on ignore ce dont il s’agit. — Je ne saisis pas bien, fit [MASK].
+
+['plus', 'non', 'moins', 'effet', 'il']	Coche	Alors, à moins d’en arriver à la dénonciation anonyme et précise, lui, [MASK], ne serait pas inquiété, et cela, il ne le voulait à aucun prix. Il hésita sur le point de savoir s’il rentrerait chez lui, et décida de ne plus reparaître dans sa maison.
+
+['il', '</s>', 'Il', 'elle', 'ce']	Coche	Au bout de dix minutes, il revint. Sa réponse était « Oui » à l’unanimité à toutes les questions et « Non » à l’unanimité pour les circonstances atténuantes. [MASK] n’était plus qu’une chose inerte, un pauvre corps défaillant.
+
+["l'", 'le', 'se', 'hum', 'la']	Javel	Un homme faisait les cent pas. Aussitôt qu’il le vit, l’homme vint à lui, et dit entre les dents : — [MASK] ?… — Parfaitement, fit le policier, et il ajouta : « Où est-il ? »
+
+["l'", 'le', 'la', 'en', 'je']	Coche	— Non, monsieur, répondit [MASK], changeant toujours sa voix, pardonnez-moi, je ne suis pas le directeur de votre journal. J’ai pris son nom pour être sûr de vous joindre, car ce que j’ai à vous annoncer est de la plus haute importance et ne souffre aucun retard…
+
+['il', 'ils', 'agent', 'on', 'le']	Coche	Des agents le voyant regarder la maison avec insistance lui dirent, bourrus : — Qu’est-ce que vous attendez là ? Il répondit, presque sans détourner la tête : « Sûreté », et leur montra sa carte. Au bout d’une demi-heure, [MASK] n’était pas redescendu.
+
+['Il', 'Elle', 'il', 'On', 'elle']	Coche	Mais je vous en ai déjà trop dit… [MASK] avait écouté le commissaire sans l’interrompre. Son inquiétude du début avait fait place à une satisfaction profonde. Son plan si vite établi, si rigoureusement exécuté, n’échouerait pas, il en était sûr maintenant.
+
+['il', '</s>', 'on', 'elle', 'et']	Coche	Il ne restait plus rien des ombres de la nuit, et, pendant une seconde, tant le contraste était violent entre les deux aspects de cette rue, [MASK] se demanda s’il n’avait pas rêvé, si tout cela n’était pas un cauchemar.
+
+['il', 'Pierre', 'Jean', 'Paul', 'elle']	Coche	— Ce n’est pas possible, il est à la composition, et on ne peut pas le déranger. — C’est tout à fait urgent. — Je vais voir, mais de la part de qui ?… — Diable, pensa [MASK], je n’avais pas songé à cela.
+
+['il', 'lui', 'celui-ci', 'on', 'elle']	Coche	Quant à l’avocat, il disait à son client : « Mais pourquoi n’avoir pas parlé plus tôt », et [MASK] répondait cette chose invraisemblable, et pourtant vraie : — Parce que je ne pouvais pas ! Pendant une heure, la salle et les couloirs environnants présentèrent une animation extraordinaire.
+
+['il', ',', 'et', 'Il', 'elle']	Coche	[MASK] s’inclina. — Au reste, poursuivit le commissaire, je ne pense pas, agissant ainsi, faire tort à votre journal. Votre informateur si bien renseigné en sait sans doute aussi long que j’en saurai moi-même en quittant cette maison.
+
+['il', 'celui-ci', 'lui', 'celle-ci', 'elle']	Coche	De ce que nul ne savait les fréquentations de la victime, on concluait simplement que [MASK] avait fort bien pu être en rapport avec elle, sans que qui que ce soit pût en témoigner. Quant au mobile qui l’avait poussé à commettre ce forfait, il n’apparaissait pas clairement.
+
+[',', "s'", 'est', 'se', "l'"]	Coche	Et tandis que ces visions traversaient son âme éperdue, une voix s’éleva qui fut d’abord à ses oreilles un murmure confus, puis un tonnerre quand elle prononça : « Onésime [MASK] est condamné à la peine de mort. »
+
+['il', 'Pierre', 'Jean', 'lui', 'Jacques']	Coche	— Je n’en demande pas davantage. Le petit groupe entra dans la maison. Le corridor que [MASK] avait exploré la nuit, à tâtons, lui parut très large. Il se l’imaginait étroit, avec des dalles grises, des murs nus et blancs.
+
+['le', 'il', "l'", 't-il', 't-il']	Coche	— Ah ! bien, fit [MASK]. Et il donna un second ticket sans faire observer qu’il n’avait pas causé un seul instant. Au moment de gagner la rue, il eut une courte hésitation : « Tout de même, si je téléphonais au Monde ?
+
+[',', 'se', 'de', 'on', 'le']	Coche	Cela suffit à leur ôter jusqu’à l’ombre d’un doute. [MASK], le cabriolet au poignet, descendit l’escalier entre deux inspecteurs. L’hôtelier, debout sur le pas de sa porte, grogna : — Et avec ça, j’y suis de ma nuit de chambre !…
+
+[',', 'et', 'on', 'il', 'ne']	Coche	Il restait encore un témoin, l’horloger, commis par la justice pour examiner la pendule que l’on avait trouvée renversée sur la cheminée, dans la chambre du crime. Il déposa au milieu de l’indifférence générale. Seul, [MASK] ne perdit pas une de ses paroles
+
+['il', 'on', 'lui', 'le', "qu'"]	Javel	Il l’avait chargé d’une mission, et [MASK] se permettait de donner simplement un coup de téléphone ! Si pourtant il avait eu besoin de lui ?… Et il en avait eu besoin… Les autres inspecteurs étaient occupés ; il comptait sur lui, l’avait attendu jusqu’à huit heures.
+
+[',', 'et', 'il', 'qui', 'bien']	Coche	Et à part lui il pensa : « Si je m’en tire bien, ce que moi j’appelle bien m’en tirer, ce n’est pas de cinquante francs qu’il sera question, mon bonhomme ! Le journal qui voudra Onésime [MASK] y mettra le prix.
+
+[',', 'il', 'et', 'corps', 'elle']	Coche	[MASK] frissonna, enfonça un peu ses ongles dans ses mains, mais sembla impassible. Il pensait surtout, il pensait seulement : « Il faut que je parle, je veux parler ! Je parlerai ». Et à voix basse il répétait : « Je veux, je veux, je veux !
+
+['ellement', ',', 'pour', 'dans', 'alement']	Avyot	Ainsi qu’il l’avait fait dans le petit café de la place du Trocadéro il changea sa voix et pria qu’on le mît en rapport avec le secrétaire de la rédaction pour communication urgente. Il ne laissa pas à [MASK] le temps de l’interroger, et lui dit
+
+['il', 'elle', 'je', 'madame', 't-il']	Coche	— 29. Ne commencez pas à avoir la tête ailleurs, ce n’est pas le moment. — Oh ! protesta [MASK], soyez tranquille. Il est sept heures, je me mets en campagne. — Et moi, je vais me coucher.
+
+['il', 'Il', 'elle', 'on', 'et']	Javel	— C’est ça. Eh ! bien, la boutonnière était arrachée, et le bouton manquait, alors vous vous seriez dit comme moi qu’il s’était disputé, vu que c’était un bon garçon, mais… [MASK] s’empressa d’interrompre la vieille femme.
+
+['que', "qu'", 'qui', 'il', ',']	Coche	Et [MASK], se défendant de rien savoir, insistait sur ce point, évoquant dix, vingt circonstances dans lesquelles, bon confrère, il n’avait jamais gardé par devers lui les renseignements qu’il tenait du hasard ou de son habileté.
+
+[',', 'posés', 'fs', 'la', 'és']	Coche	Les agents, impassibles, prêtaient une oreille distraite à ces discours. [MASK], sur le premier moment, s’en était amusé. Bientôt il n’écouta plus. Une curiosité impatiente le tenaillait. Par la pensée, à travers les murs, il suivait le commissaire ;
+
+['il', ',', "qu'", 'et', 'que']	Coche	[MASK] s’attendait à toute autre entrée en matière, aussi ne fût-ce pas d’une voix aussi assurée qu’il l’eût souhaitée, qu’il répondit : — Je désirerais avant de vous renseigner sur ce point, savoir pour quel motif je suis ici.
+

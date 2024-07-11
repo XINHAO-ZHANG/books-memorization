@@ -1,0 +1,200 @@
+['lui', 'moi', 'nous', 'elle', 'cela']	Sorgues	Qui ? Quelqu’un qui connaissait l’existence de l’association des Chiche-Capon. Comme ce n’est pas [MASK] qui aurait été la révéler, c’est donc que celui qui a dicté la carte avait découvert nos documents sous l’estrade de la classe de sciences.
+
+['Marie', 'Jean', 'Pierre', 'Alice', 'Jeanne']	Bohm	– Jef, l’homme volant, imite le rire de la hyène, murmura [MASK]. Mais nous ne nous laisserons pas prendre à ses ruses ! Tenons-nous sur nos gardes ! À ce moment-là… Les têtes des artichauts s’agitèrent. – On donne l’assaut ?
+
+['</s>NOTUSED', 'le', 'John', 'Jack', 'David']	Jugonde	. Juste la sorte de temps que je rêvais pour cette expédition. Il s’arrêta de nouveau. – Pas de doute. C’est bien derrière ce bois. Nous allons traverser le canal. – À la nage, probablement ? ironisa [MASK], exaspéré.
+
+['Il', 'Elle', 'il', 'elle', 'On']	Baume	LE PRÉFET DE POLICE… – Oui, oui… Certainement, monsieur le préfet de police, je vais vous révéler le nom de l’assassin… [MASK] ouvrit la bouche, très grande. – C’est… C’est… – Eh bien ? Qu’attendez-vous ?
+
+['Charles', 'Albert', 'Freud', 'Alexandre', 'Arthur']	Lepicq	Il y eut un silence. – Notez bien, reprit [MASK], je ne me tourmente nullement. Pour l’instant, cela va plutôt mal… Mais ce n’est qu’une passe difficile. Précisément, j’ai en vue une combinaison for-mi-da-ble.
+
+['Pierre', 'Jacques', 'Marie', 'Jean', 'Jacqueline']	Lemmel	Pourquoi, aussitôt après le meurtre de [MASK], l’assassin, qui n’a pas pu s’enfuir par la fenêtre et la gouttière (l’investigation directe me l’a prouvé), pourquoi n’aurait-il pas eu la même idée que moi : enfourcher la rampe !
+
+['Il', 'On', 'Chacun', 'Paul', 'Elle']	Lepicq	C’est là. Venez. – Quel bled ! À perte de vue, toujours la même étendue plate, déprimante à force d’uniformité. [MASK] s’était jeté dans un chemin impossible : une vraie piste de boue.
+
+['Il', 'Elle', 'On', 'il', 'elle']	Sorgues	Il balbutia : – Je… ne… PEUX PAS… le dire !… Je sens comme une boule, là, qui m’étrangle… [MASK] lui donna un violent coup de coude dans le côté. – Pourquoi ne parles-tu pas ?… C’est ridicule
+
+['Monsieur', 'Mme', 'M', 'un', 'Madame']	Baume	Les bruits légers causés dans la classe de sciences par [MASK], à qui son accès de frayeur faisait oublier les précautions usuelles, l’avaient attiré. Il était entré, avait tourné le commutateur. – C’est du joli ! Vous venez modestement vous cacher ici pour préparer vos examens, sans doute
+
+['plus', 'mieux', 'davantage', 'attentivement', 'longtemps']	Martin	C’est alors que j’ai remarqué quelque chose de bizarre, sur cette carte. Des soupçons m’ont frappé instantanément. Une intuition. J’ai eu peur. J’ai regardé encore [MASK] : il n’était pas beau à voir.
+
+['Jean', 'Jacques', 'Pierre', 'François', 'Paul']	Baume	– Parfaitement, approuva encore [MASK]. Il ajouta : – Voilà comme on est, nous, les Chiche-Capon ! Parfois, pourtant, en dépit de leur excitation, une expression de tristesse passait sur le visage du numéro 7 et sur celui du numéro 95.
+
+['lui', 'moi', 'Monsieur', 'Serge', 'Holmes']	Raymon	Il s’est mis d’accord avec le policier. Il fait mine de marcher avec lui. Un coupable n’agirait pas autrement ! Je note que [MASK], d’après une enquête très serrée, considère comme hors de cause le personnel et le concierge de la boîte.
+
+['Jean', 'Pierre', 'Arthur', 'Thomas', 'elle']	Sorgues	lança-t-il avec un flegme affecté. – Pas mal et toi ? répliqua [MASK], encore tremblant des pieds à la tête, mais feignant la désinvolture. Baume promena un regard étonné et anxieux autour de la pièce.
+
+['</s>NOTUSED', 'Elle', 'Lui', 'Il', 'Marie']	Nercerot	Il lui a écrit, il y a quelques mois. Elle n’a pas encore répondu. Mais il ne désespère pas. Et, chaque soir, sa dernière pensée est pour elle. [MASK], de la quatrième, lit des feuilles de sport que lui refile clandestinement un externe.
+
+['Il', 'Elle', 'On', 'Paul', 'Pierre']	Jugonde	Des lettres compromettantes ? Des documents intéressant la défense nationale ? – Rien de semblable ! – Un cadavre, alors ? – Pas exactement. Quoique cela… À la rigueur… Une espèce de cadavre. [MASK] soupira. Un cadavre… Cela pouvait signifier de l’argent.
+
+['Hé', 'hé', '–', '—', 'Eh']	Chicago	[MASK], – hé ? Ils nous enverront des cartes postales, sans doute ! Très drôle ! Il se frottait les mains. La bonne éducation parvenait encore à contenir son indignation, ou, plus exactement, lui imposait ce cours sarcastique, mais on sentait qu’une très fragile barrière le séparait seule de la violence.
+
+['Monsieur', 'monsieur', 'Louis', 'enfant', 'vous']	Baume	– Vous me décevez, [MASK] ! Vous me décevez profondément ! Onze jours seulement vous séparaient des vacances. Vous aviez une occasion de vous racheter, en une certaine mesure, par une conduite exemplaire. Et voilà que… Ah ! ce n’est pas bien, mon petit, ce n’est pas bien
+
+['il', 'on', 'personne', 'elle', 'nul']	Macroy	. Un sentiment complexe, dont [MASK] ne savait démêler au juste s’il était fait d’une joie intense ou d’une accablante humiliation, mais qui était, en tout cas, d’une extrême violence, s’était emparé de l’élève.
+
+['alors', 'dis', 'donc', 'voyons', 'maintenant']	Martin	– Eh bien, [MASK], vieux compère, comment va la vie ? Ou, plutôt, comment va la mort ? La mort se porte bien ? Toujours bon pied, bon œil ? J’en suis fort aise !
+
+['lui', 'il', 'Jean', 'Pierre', 'Joseph']	Planet	Mais [MASK], sorti de la salle de jeux par la porte du fond, n’avait pu monter au troisième que par l’escalier du fond. Il lui aurait donc fallu traverser le dortoir des grands sans être vu. Impossible ! Au-dessus de son front le moniteur entendait un roulement continu.
+
+['?', '!', '?!', '???', '[...]']	Lemmel	? Par exemple ! Quoi qu’il en soit, cela ne m’aide pas à saisir ce qu’il y a au fond de cette histoire ! La classe de sciences, le fait que je m’y suis trouvé une nuit… En quoi cela pouvait-il inquiéter [MASK]
+
+['ce', 'ton', 'mon', 'notre', 'la']	Martin	Et dis-moi à présent : qu’as-tu fait, depuis ? – Suivi ma voie, moi aussi ! Je suis avocat et détective. L’aventure de [MASK] squelette aura été ma première affaire ! – Détective !
+
+['Lui', 'Pierre', 'Mais', 'Elle', 'Jean']	Macroy	[MASK] ni Baume n’y prêtaient aucune attention. Ils ne voyaient, n’entendaient rien. En pensée, ils étaient loin, très loin, dans une ville monstrueuse pleine de cris de porcs, où chaque citoyen avait une face de tueur, une ville qui n’était tout entière qu’un abattoir fabuleux.
+
+['il', 'Paul', 'David', 'chacun', 'Thomas']	Sorgues	Il était une heure passée et [MASK] avait sommeil. Néanmoins, il choisit un porte-plume, hésita encore un peu, considéra pensivement le crâne transformé en bougeoir et auquel la lueur de la bougie, jaillissant par les orbites, prêtait un aspect terrifiant.
+
+['celui', 'un', 'Alexandre', 'Pierre', 'Joseph']	César	Un bruit de chute suivit. Le policier posté à la fenêtre avait tiré en voyant paraître, sur le seuil de la pièce du premier, [MASK] tenant un couteau à cran d’arrêt. Par l’œil droit, la balle avait pénétré à l’intérieur du crâne.
+
+['on', 'il', 'elle', 'Paul', 'Pierre']	Lemmel	Ça a été un trait de lumière pour moi. FAUSSE MONNAIE ! La nuit, dans le cagibi, [MASK] devait graver des plaques de cuivre, reproduire des billets de banque. D’où l’appareil pour agrandissements photographiques, le matériel à dessin, les réactifs, les acides.
+
+['Monsieur', 'maintenant', 'monsieur', 'messieurs', 'Mademoiselle']	Bennassis	Un bruit aigre traversa le silence. – La crécelle ! – Vite ! fit le moniteur. Regagnez votre dortoir, [MASK]. Et, – nous sommes bien d’accord ? – pas un mot des événements de cette nuit, jusqu’à nouvel ordre…
+
+['on', 'ça', 'il', 'cela', 'elle']	Baume	! Les bandes d’aventuriers, [MASK] sortait d’en prendre… La dispersion des Chiche-Capon avait pour ainsi dire marqué, pour le numéro 7, la fin d’une enfance que l’internat, peut-être, avait prolongée outre mesure.
+
+['Il', 'On', 'Paul', 'II', 'Elle']	Sorgues	c’était écœurant de simplicité. [MASK] avait envisagé cinq possibilités : refuser toute nourriture : mais il songea qu’on pourrait fort bien le laisser périr d’inanition plutôt que de le libérer. Mettre le feu à sa chambre ? Il eût été brûlé vif, sans bénéfice.
+
+['Mais', 'Et', 'Oh', 'Hélas', 'Ah']	Jef	? Ce sinistre personnage nous poursuivra donc partout ? Il en veut aux perles et a ux rubis de la momie sacrée, lui aussi ! « – [MASK], l’homme volant, son âme damnée, ne doit pas être loin ! dit
+
+['il', 'elle', 'on', 'Pierre', 'lui']	Sorgues	» dégringola sur le parquet et s’éveilla. Il ouvrit les yeux et reconnut la chambre d’hôtel où l’avait conduit la veille au soir le policier Raymon. Il était en chemise, étendu sur la carpette. Dans le lit, [MASK] dormait encore.
+
+['Il', 'Elle', 'On', 'Monsieur', 'Madame']	Macroy	[MASK] secoua le front rageusement. – Vous refusez ? Vous savez que vous vous mettez dans un cas de renvoi. Prenez garde ! – Fermier m’a provoqué, monsieur. Il m’espionnait. Il espionne tout le monde. Je lui ai dit de me laisser.
+
+['il', 'on', 'Jack', 'Frank', 'Paul']	César	! Je finissais juste de scier un des barreaux de ma lucarne avec une lime qu’on m’avait jetée d’en bas quand [MASK] est entré dans ma chambre, un poignard à la main. Je lui ai abattu une chaise sur le crâne à toute volée.
+
+['95', 'Combien', 'Qui', 'Quoi', 'Pourquoi']	Sorgues	[MASK] ? Ah ! oui… le petit 95, de la classe de troisième… L’économe passait ses journées à des opérations de comptabilité : les numéros des élèves lui disaient plus que leurs noms. – Le petit 95, enfui ? Un si bon sujet ! C’est affolant
+
+['elle', 'il', 'Sophie', 'Marie', 'Anna']	Baume	Mais brusquement, lâchant le rectangle de carton, [MASK] dressa une face changée, fixa le squelette Martin avec une expression étrange. Son regard courut sur les murailles jaune-vert, couleur de maladie, sur les placards vitrés garnis de bestioles moisies, de papillons, de larves, de reptiles en bocaux.
+
+['Il', 'Mais', 'Elle', 'Jean', 'Louis']	Baume	[MASK], en dépit de ses efforts, ne put reconnaître dans son expression ni son allure quoi que ce fût d’équivoque. Si c’était lui, le marchand de poudre d’escampette, il cachait bien son jeu ! Au croisement des galeries, le garçon tourna à droite ;
+
+['il', 'chacun', 'elle', 'on', 'James']	Jugonde	! – Well ! Tu acceptes, répliqua le voyageur. Qu’est-ce que c’est, deux mille ? Rien ! – Deux mille ? – Dollars, yes. Le dollar est à quinze. Dans son coin, [MASK] observait la scène avec un intérêt passionné.
+
+['Beethoven', 'Chopin', 'Mozart', 'Wagner', 'Debussy']	Chopin	Il n’en revient pas. Pour dire la vérité, il reste un peu sceptique. Néanmoins, nous avons convenu que, tout à l’heure, pendant le dîner, je provoquerai un court-circuit, puis je jouerai quelques mesures de la Marche funèbre de [MASK].
+
+['petit', 'hein', 'chéri', 'toi', 'là']	Bobby	C’était drôle de voir la petite dentelle qu’il dessinait autour, en broutant ! « T’énerve pas, [MASK], ça va venir !… » En salle d’études, le hanneton, dans sa boîte percée de trous, pour la respiration, n’avait pas l’air de s’impatienter.
+
+['Monsieur', 'Madame', 'chacun', 'payer', 'Louis']	Joly	Il élevait un carré de papier : Il lut : « La provision de cibiches s’épuis e. C’est au numéro 7 à la renouveler. Remettre comme d’habitude l’argent à [MASK] après la classe de maths. Penser également aux bougies et au chewing-gum.
+
+['le', '</s>NOTUSED', 'Jean', 'Vincent', 'Marcel']	Raymon	on file sans bruit. Cela expliquerait que [MASK], si vite qu’il ait couru sur le palier du deuxième, ait manqué le meurtrier. Quatre ou cinq secondes de gagnées, c’était suffisant. D’autant qu’à la suite du court-circuit, on ne voyait rien.
+
+['il', 'elle', 'Il', 'on', 'Holmes']	Baume	C’est possible. Je ne suis pas ferré sur ces questions. En tout cas, cela renforce mon hypothèse : c’est l’assassin qui a crié ! Une fois encore, [MASK] fit une pause, sans se soucier de l’exaltation ni de l’impatience de son auditoire.
+
+['Jean', 'Pierre', 'Paul', 'Georges', 'Jacques']	Baume	– Moi, dit [MASK], d’une voix étrange, comme lointaine, j’ai fait un rêve… Il alla s’accouder à la fenêtre. Elle donnait sur la place qui mène à la gare. Des gens se hâtaient.
+
+['Pierre', 'Thomas', 'Paul', 'Julien', 'Charles']	Jugonde	Tandis qu’à présent… La pensée de [MASK] revint à ce cadavre qu’on allait déterrer. – Il s’agit d’un crime, bien entendu ? L’avocat ne répondit point. – J’espère que nous n’allons pas tomber sur un suicide ? lança encore le jeune homme.
+
+['il', 'on', 'elle', 'lui', 'Il']	Baume	Mais le nom de l’assassin, ce nom que, durant son rêve, par une fantaisie absurde bien du domaine des rêves, il s’était obstinément refusé à révéler, ce nom, [MASK] l’avait réellement découvert.
+
+['son', 'ce', 'cet', 'notre', 'l']	Martin	L’amitié, l’amitié même l’avait trahi !… Il fit un pauvre geste, prit une feuille de papier dans le coffre et, à la lueur de la bougie plantée dans le crâne de [MASK], squelette, commença un procès-verbal de blâme concernant le numéro 22.
+
+['Jeanne', 'Pierre', 'Antoine', 'Marie', 'Pierrot']	Baume	– Pourquoi ne parles-tu pas ?… C’est ridicule ! – Espèce d’imbécile, jeta [MASK], à qui la fureur avait soudain rendu la voix, tu n’as pas bientôt fini de me pousser ? Tu vas me faire tomber…
+
+['Toi', 'Moi', 'Quoi', 'Alors', 'Lui']	Macroy	– [MASK], l’assassin ? Tu es malade ! Sur la route longeant la voie du tortillard, on vit arriver une voiture automobile. Elle stoppa à la hauteur de la troupe de collégiens. Deux hommes s’y trouvaient.
+
+['Il', 'Jean', 'Pierre', 'Paul', 'Daniel']	Baume	[MASK] releva le front, son regard erra sur les visages des élèves rassemblés devant lui. Il revivait, au fur et à mesure de la lecture, les étapes de cette nuit de fièvre, traversée d’angoisses, au cours de laquelle il avait découvert la vérité.
+
+['–', '«', '...', '—', '»']	Macroy	[MASK]. Il réfléchit une seconde. – C’est-à-dire que… Il a dû t’envoyer une carte aussi, naturellement. Mais elle n’aura pas pris le même bateau… Elle va arriver. – Oui. Tu as raison… Ça doit être ça…
+
+['monsieur', 'alors', 'moi', 'Monsieur', 'madame']	Marie	Je t’accompagne, [MASK]. – Bon. Mais ne l’ennuie pas, hein ? Laisse-le travailler tranquille. Quelle heure est-il, d’abord ? – Dix heures, par là. – Déjà ? Dans une heure, je l’enverrai au lit.
+
+['Il', 'Elle', 'Et', 'il', 'On']	Julien	L’homme à face de brute se tint debout auprès de lui. – Qu’est-ce qui ne va pas ? demanda-t-il. – C’est ce chapitre : « La Nuit des Longs Couteaux. » [MASK] appuya sa grosse patte sur une pincée de feuillets froissés.
+
+['Quoi', 'Comment', 'Pourquoi', 'Hein', 'Non']	Macroy	? – [MASK] ? Comment veux-tu… – Où est-il ? Qu’en ont-ils fait ? – Comment veux-tu que je le sache ? Je le croyais avec vous, en bas. – Avec nous ? – Eh bien, oui !
+
+['Il', 'Lui', 'Jean', 'Louis', 'Paul']	Baume	[MASK], la fièvre aux tempes, éprouvait au milieu de cet enthousiasme, l’impression exaltante de grandir, de devenir immense. La tête lui tourna. Sa vision se brouilla, il passa une main sur son front, sentit qu’on le poussait vers une banquette, qu’on le contraignait doucement à s’asseoir.
+
+['on', 'il', 'elle', 'Dieu', 'On']	Macroy	Les procès-verbaux… Quelles bêtises ! l’Union indissoluble… Quelle blague ! On est seul, chacun est absolument seul dans la vie : [MASK] venait de lui en administrer la preuve, et cette dure vérité le mordait, soudain, au plus sensible de lui-même.
+
+['toi', 'gamin', 'va', 'petit', 'garçon']	Julien	Un autre homme était assis près d’une cheminée. À petits coups, de la pointe de ses espadrilles, il taquinait la cendre, jusqu’au bord des braises. Il cracha sur un brandon. – T’excite pas, [MASK] ! fit-il, et continue.
+
+['[...]', 'lui', '...', '</s>NOTUSED', '«']	Planet	Dans l’hypothèse d’une fuite par la fenêtre du troisième qui ouvrait sur les cours de récréation, il convenait d’observer qu’un homme, – et un seul, – se trouvait dans les cours après le crime : [MASK].
+
+['Monsieur', 'monsieur', 'Robert', 'Louis', 'Pierre']	Lemmel	Il n’était réveillé qu’à demi. Il a expédié son affaire très vite. Son siège s’est trouvé fait dès l’entrée : accident. L’ébriété de [MASK], sa position au-dessus de la cage de l’escalier, le court-circuit et l’obscurité soudaine…
+
+['lui', 'Paul', 'David', 'Léo', 'Thomas']	Baume	Ils la vivaient, cette nuit, aussi intensément que si chacun d’eux en avait été l’acteur solitaire. « Tout seul, j’ai salement la frousse… » C’était compréhensible… Ils auraient tous eu la frousse, à la place de [MASK].
+
+['il', 'elle', 'on', 'Marie', 'Pierre']	Sorgues	D’où l’appareil pour agrandissements photographiques, le matériel à dessin, les réactifs, les acides. Tout s’enchaîne. Lors de sa venue dans la classe de sciences, durant la nuit du 11 au 12 juin, [MASK] aura surpris le secret.
+
+['Rivière', 'Duval', 'Faure', 'Martin', 'Dubois']	Sorgues	Sur le parchemin, le fameux timbre en caoutchouc des Chiche-Capon avait été apposé au-dessous des noms des élèves. À l’issue de la « cérémonie », Baume et [MASK] furent entourés, pressés de questions.
+
+['Il', 'il', 'Elle', 'II', 'Pierre']	Baume	– Cela ne sent pas fameusement bon, n’est-ce pas ? [MASK] pressait sur le morceau de cuir, le tendait. Mais il ne quittait pas du regard le vieil économe dont la respiration, dans l’excitation du travail délicat à exécuter, s’encombrait et dont le polype sifflait.
+
+['Il', 'Pierre', 'Thomas', 'Joseph', 'David']	Macroy	Tout allait bien. [MASK] pénétra dans la classe de sciences naturelles. Il était initié à son mystère et connaissait les rites. Il retira le coffret de dessous l’estrade, installa le squelette devant la chaire et planta une bougie dans la boîte crânienne.
+
+['chacun', 'tous', 'Pierre', 'certains', 'Paul']	Macroy	De loin en loin, un élève poussait un grand soupir, rêvait tout haut. Sous le crâne de [MASK], exaspérante, hallucinante, cette alternance en coup de fouet : feu rouge, – feu bleu, – feu rouge, – feu bleu… Viandes salées…
+
+['Il', 'Elle', 'Paul', 'Joseph', 'David']	Jugonde	[MASK] étouffa un ricanement et redressa d’un mouvement rageur un colis mince, enveloppé de papier brun, qu’il tenait serré sous l’aisselle. L’avocat s’était arrêté. Sa tête pointue pivotait sur son cou long, à la pomme d’Adam saillante.
+
+['moi', 'lui', 'monsieur', 'Monsieur', 'un']	Martin	Des sanctions pouvant aller jusqu’à la radiation pure et simple suivront, si le numéro 95 persiste dans son silence. « Rédigé par moi, à minuit, dans la classe de sciences naturelles de Saint-Agil, – [MASK], squelette, étant présent , – et pour être versé aux ar chives.
+
+['Il', 'Elle', 'On', 'Je', '</s>NOTUSED']	Joly	Je ne lui ai révélé que l’indispensable. Je compte qu’il me gardera le secret et brûlera mon bill et, comme je le lui recommande. Il est loyal, on peut se fier à lui. [MASK] rougit de plaisir.
+
+['le', 'Pierre', 'Marie', 'Julien', 'la']	Baume	Jeudi 23. Trois heures moins le quart, après-midi. JE VIENS DE VOIR L’ASSASSIN. Une vaste rumeur s’éleva. De toutes les poitrines, la même interrogation jaillit : – Qui est-ce ? – Je ne puis vous le révéler, répondit [MASK].
+
+['douleur', 'terreur', 'désespoir', 'Jeanne', 'David']	Lemmel	Car ils se rappelaient certain dîner où, comme ce soir, toutes les lumières s’étaient éteintes ensemble, non pas à la suite d’une panne de l’usine, mais d’un court-circuit. Et tous gardaient la mémoire du cri qui avait suivi, – le cri terrible de [MASK].
+
+['</s>NOTUSED', 'Lui', 'Il', 'Jean', 'Pierre']	Baume	Il renifla. – Vous fumez ! C’est complet ! Il aperçut le coffret. – Qu’est-ce que cela ! Il se saisit du trésor des Chiche-Capon. [MASK], paralysé, ne remuait pas un doigt, n’ouvrait pas les lèvres.
+
+['</s>NOTUSED', 'Moreau', '!', '?', 'X']	Benassis	? La mort se porte bien ? Toujours bon pied, bon œil ? J’en suis fort aise ! Il se sentait en verve, cette nuit, l’olivâtre M. [MASK]. Il prenait plaisir à tapoter la cage thoracique, le crâne, les fémurs ;
+
+['John', 'Jack', 'James', 'David', 'William']	Lepicq	– Je trouve ce temps très convenable, déclara [MASK]. Juste la sorte de temps que je rêvais pour cette expédition. Il s’arrêta de nouveau. – Pas de doute. C’est bien derrière ce bois. Nous allons traverser le canal. – À la nage, probablement ?
+
+['et', 'puis', 'mais', 'il', 'qui']	Baume	! Il laissa filer un rire aigrelet entre ses dents de rongeur et passa ses doigts dans ses cheveux crépus. Son regard tomba sur le squelette ; il fit courir rapidement le bout d’un porte-plume sur les côtes, qui sonnèrent, [MASK] sursauta.
+
+['soudain', 'encore', 'alors', 'brutalement', 'enfin']	Julien	Il en est gourmand de café, c’est effrayant ! – Tous les crânes sont gourmands de café ! affirma [MASK], la brute qui, tout à l’heure, boxait contre son ombre. – Les crânes ? Qu’est-ce que tu veux dire par là ?
+
+['personne', 'Vincent', 'Jacques', 'Julien', 'Lucie']	Sorgues	– J’aimerais voir ces loustics, dit le commissaire. Vous les avez interrogés, naturellement, monsieur le directeur ? – Le jour même de la disparition. Ils m’ont assuré que [MASK] ne leur avait fait part d’aucun projet de fuite. – Assuré…
+
+['Pierre', 'Jean', 'Paul', 'Jacques', 'Georges']	Baume	Les autres moments, je me cacherai ailleurs. Au fur et à mesure, la voix de [MASK] s’affermissait. Il toussa, fit passer sa jambe gauche sur sa jambe droite. Il était assis tout au bord du bloc de meulière, une fesse seulement sur la pierre.
+
+['cheval', 'Napoléon', 'Robespierre', 'pierre', 'Pierre']	Lemmel	« L’assassin n’a pas pu descendre du troisième. « Or, aucune des personnes se trouvant au troisième après la chute de [MASK] n’a pu commettre le crime ! CONCLUSION « Il semble prouvé qu’il n’y a pas eu crime, mais accident ou suicide.
+
+['tout', 'ça', 'cela', 'Pierre', 'Paris']	Benassis	Mais, plus bas, la gouttière remue, beaucoup d’attaches sont rouillées, les crampons branlent dans le mur. Si l’assassin avait emprunté ce chemin, la gouttière aurait infailliblement cédé. Il est arrivé ensuite quelque chose de terrible. J’ai chloroformé [MASK] !
+
+['il', 'chacun', 'qui', 'tout', 'on']	Sorgues	Au rez-de-chaussée, une dizaine de gamins se détachèrent du lot et se dirigèrent, à travers le parc, vers l’infirmerie : c’était « la bande à l’huile de foie de morue ». * Durant les classes de la matinée, [MASK] fut distrait, s’attira des réprimandes.
+
+['cela', 'comment', 'pourquoi', '</s>NOTUSED', 'Philippe']	Sorgues	Depuis trois ans, nous avions toujours observé cette règle. Il y avait même des sanctions de prévues ! POURQUOI, juste ce jour-là, tellemen t exceptionnel pour lui, [MASK] a-t-il dérogé à la règle ? »
+
+['Il', 'Elle', 'il', '</s>NOTUSED', 'et']	Baume	– Jeune homme, je vous félicite chaudement ! Grâce à vous, nous allons réussir un coup de filet magnifique. Il y a en vous l’étoffe d’un grand détective. Vous avez mené cela magistralement… [MASK] eut ensuite à recevoir les compliments du maire.
+
+['</s>NOTUSED', 'sortir', 'couteau', 'un', 'clé']	Martin	JE VIENS DE VOIR L’ASSASSIN. Je m’étais glissé dans la classe de sciences, pour me livrer à de nouvelles investigations. Un homme est entré. J’ai pu me cacher sous l ’estrade. J’ai vu l’homme retirer [MASK] du placard et pénétrer dans le mur
+
+['Ah', 'Mais', '–', '«', '...']	Baume	– [MASK]… Vous en avez assez de la pension, n’est-ce pas ? Vous ne voulez même plus patienter jusqu’aux vacances ? Sachant que, pour vous, une mise à la porte de l’étude aurait le renvoi immédiat pour conséquence, vous cherchez à vous faire mettre à la porte…
+
+['il', 'Pierre', 'Thomas', 'Martin', 'Alexandre']	Macroy	Interrogé à l’issue de l’étude, le portier déclara ne s’être absenté à aucun moment de la loge et n’avoir cependant pas vu le collégien s’engager sous la voûte. La conclusion s’imposait. Exaspéré par la succession de réprimandes qu’il s’était attirées, [MASK] avait sauté le mur.
+
+['simple', 'impossible', 'plutôt', 'évident', 'comme']	Benassis	Je ne peux même pas me permettre de dévoiler pourquoi je ne peux pas répondre ! Ainsi… Cette déclaration sibylline porta à son comble la curiosité des collégiens qui, par petits groupes, se livrèrent à mille conjectures. – Pour moi, c’est [MASK]… –
+
+['Il', 'il', 'Pierre', 'Paul', 'Lui']	Macroy	! Vous vous croyez en vacances, déjà ! Retournez à votre place ! [MASK] ne bougea pas ; il regardait le surveillant avec l’air d’attendre, d’espérer quelque chose. – Vous n’avez pas entendu ? Je vous ai dit de retourner à votre place.
+
+['type', 'journaliste', 'monsieur', 'commissaire', 'gars']	Raymon	Ça n’a d’ailleurs pas raté ! Il n’est pas fort, décidément, ce [MASK] ! Moi, je tire au contraire la con clusion qu’il ne s’agit pas d’espionnage. Seulement voilà : de quoi peut-il s’agir ?
+
+['Il', 'On', 'Papa', 'Martin', 'Pierre']	Baume	Un murmure de stupeur s’élevait : les élèves étaient assis. [MASK] avait chloroformé un homme ! Il avait osé ! C’était un exploit formidable ! Interjections et questions se croisèrent : – Ben, mon vieux ! Pour du culot ! – Comment que t’as fait ?
+
+['lui', 'eux', 'moi', 'elle', 'Internet']	Lemmel	! En attendant, voilà deux découvertes de taille ! Je constate, d’après ses notes, que le policier nage complètement. Il s’empêtre dans son histoire d’espionnage. Toutefois, soyons juste ! Ses déductions à propos d’une surveillance exercée sur [MASK] sont intéressantes.
+
+['Il', 'On', 'Jean', 'Pierre', 'Paul']	Sorgues	Dans un cagibi, un homme se tient assis à une table. [MASK] le voit de biais, il ne peut distinguer le visage, mais aperçoit distinctement les mains. L’homme burine une plaque de cuivre. Sur la table, des billets de banque, un revolver.
+
+['Il', 'il', 'On', 'Elle', 'Papa']	Sorgues	– C’est-à-dire qu’elle est morte il y a dix-huit ans ! Je vais au mariage de ma sœur. – Oh, je comprends ! [MASK] mentait, il n’avait pas de sœur. – Elle s’appelle comment, votre sœur ?
+
+['On', 'Il', 'on', 'il', 'Elle']	Raymon	En tout cas, je l’ai convaincu. Demain, lui et l’Œuf ne vont pas perdre de vue l’assassin. Lundi. Cinq heures après-midi. Ça y est ! [MASK] a surpris ce matin l’assassin en train de glisser un billet à un fournisseur de la boîte.
+
+['un', 'le', 'une', 'Jean', 'la']	Marie	? – Oui, oui ; la lampe est aux trois quarts. – Bonne nuit ! – Bonne nuit ! La serrure claqua. En bas, dans la salle commune : – Demain matin, dit [MASK], ne faudra pas faire trop de boucan, les hommes.
+
+['Madame', 'Monsieur', 'Marie', 'Louis', 'Pierre']	Benassis	Pour l’étude de demain matin… Est-ce que ça vous dérangerait de me remplacer pendant la première demi-heure ? – Eh ! s’exclama [MASK], c’est moi qui la fais, cette étude ! Vous savez bien que je fais toujours l’étude du matin !
+
+['Il', 'Elle', 'il', '</s>NOTUSED', 'elle']	Baume	– Vous comprenez, mon petit 7, que je ne puis piquer ce cuir avec des punaises : ce serait l’abîmer. Alors, si vous voulez être assez gentil pour me le tenir aux coins… L’affaire d’un instant… [MASK] posa ses doigts de côté et d’autre de la peau de mouton
+
+['le', 'Alice', 'la', 'John', 'Jack']	Benassis	Après un regard soupçonneux, il se décida à sortir. – Ne faites pas attention, dit [MASK]. Il est un peu toc-toc, je crois. À son tour, il se dirigea vers la porte. – Il faut que je file à mon dortoir.
+
+['lui', 'vous', 'Jésus', 'ça', 'Lui']	Lemmel	Dormez, je le veux ! » là-dessous ! Peut-être que [MASK] aussi était hypnotisé ! Un coup que vous êtes hypnotisé, vous faites n’importe quoi qu’on vous a commandé, malgré que vous ayez l’apparence d’agir par vous-même.
+
+['monsieur', 'Monsieur', 'madame', 'Madame', 'messieurs']	Mirambeau	. Où êtes-vous, [MASK] ? – Ici… – Avançons. D’après mes renseignements, les gosses doivent se tenir au premier, dans la pièce éclairée. Les autres sont en bas. Il faut à tout prix les empêcher de monter. Compris ?
+
+['?', 'Pourquoi', 'Quoi', 'Non', 'Vraiment']	Planet	? [MASK] ? Je commence à n’être pas rassuré du tout. Pour dire la vérité, je n’en mène pas large ! Il y a déjà eu un meurtre ! Si seulement j’avais une arme ! Même nuit. Quatre heures du matin.
+
+['Jean', 'Pierre', 'Jacques', 'Eugène', 'François']	Mirambeau	Le surveillant s’appelait [MASK], mais, à cause de sa forte corpulence, on le surnommait l’Œuf. C’était un hercule bon enfant, à la peau grasse et au cheveu indocile, qui avait conservé son visage d’adolescent et paraissait moins âgé que certains rhétoriciens.
+

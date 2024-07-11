@@ -1,0 +1,200 @@
+['lui', "m'", ',', "l'", 'vous']	Claire	[MASK] avait-elle dit vrai ? n’avait-elle pas joué un rôle appris de longue main ? Non, certainement, non. Mais on pouvait l’avoir abusée, elle pouvait être la dupe de quelque fourberie savante. Alors la prédiction du père Tabaret se trouvait réalisée.
+
+['guerre', 'paris', 'jadis', 'napoléon', 'france']	Claire	On le descendit du fiacre comme on l’y avait monté. Pendant les formalités de l’écrou, dans la salle sombre et puante du greffe, tout en répondant machinalement, il se livrait avec délices aux émotions du souvenir de [MASK].
+
+['il', '-', 'elle', '</s>', 'celui-ci']	Noël	Est-ce que réellement il n’avait jamais eu de soupçons ? [MASK] ne broncha pas et presque aussitôt reprit : — Quelles raisons pouvait avoir ce jeune homme de trembler, de craindre pour sa position ! Je ne lui ai pas adressé un mot de menace, même indirect.
+
+['ce', 'que', 'cela', 'il', 'qui']	Albert	— À moins que ?… interrogea avidement le juge d’instruction. — Monsieur, dit le comte sans répondre directement, [MASK] serait un héros, s’il n’était pas coupable. — Ah ! fit vivement le juge, avez-vous donc, monsieur, des raisons de croire à son innocence
+
+['je', 'de', ',', 'du', 'on']	Albert	; j’employai inutilement toutes mes forces. Je me désespérais quand neuf heures sonnèrent. Au troisième coup [MASK] frappa. Aussitôt je lui fis part de l’accident et je lui jetai la clé pour qu’il essayât, d’ouvrir. Il le tenta vainement.
+
+['on', 'elle', 'il', 'dieu', 'lui']	Noël	; depuis un mois il est tout chose, il est changé au point que je ne le reconnais plus. Le père Tabaret désirait avant tout savoir si [MASK] ne s’était pas ménagé un alibi pour le mardi du crime. Là pour lui était la grande question.
+
+['le', 'les', 'm.', "l'", 'monsieur']	Gévrol	— Qu’on fasse venir [MASK], maintenant, dit le juge à son greffier. Le chef de la sûreté était absent, on venait de le mander à la préfecture, mais son témoin, l’homme aux boucles d’oreilles, attendait dans la galerie.
+
+[',', 'paul', 'le', '.', ';']	Claire	Certainement on obtient justice, seulement, se la faire rendre promptement est un art qui s’enseigne dans des écoles que je n’ai pas fréquentées. — Essayons toujours, monsieur, insista [MASK], allons trouver les juges, les généraux, les ministres, que sais-je, moi
+
+['julien', ',', 'maurice', 'robert', "l'"]	Joseph	— Bigre ! s’exclama [MASK] enthousiasmé, son service doit être crânement agréable, à cet homme-là. — C’est selon. Quand il a gagné à la bouillotte, il se déboutonne volontiers d’un louis, mais il perd toujours, et quand il a bu il a la main prompte.
+
+['ah', '</s>', '!', '"', 'eh']	Guy	Tu m’avais donné des maîtres, car j’étais si ignorante qu’à peine je savais signer mon nom. Te rappelles-tu la drôle d’orthographe de ma première lettre ? Ah ! [MASK], que n’étais-tu, en effet, un pauvre étudiant !
+
+['valentine', 'henri', 'celui-ci', 'paul', 'jacques']	Albert	On eût dit qu’il devinait où il allait en venir, et qu’il s’épouvantait de l’avoir deviné. — Croyez, monsieur, continuait [MASK], cherchant ses mots, que jamais, quoi que vous ayez fait, ma voix ne s’élèvera pour vous accuser.
+
+['maurice', 'henri', 'raoul', 'rodolphe', 'jacques']	Clergeot	Il l’arrêta. — Vous voilà ! vieux crocodile, lui dit-il, vous avez donc des pratiques dans ma maison ? — Il paraît, répondit sèchement [MASK], qui n’aime pas à être traité familièrement. — Tiens ! tiens ! fit le père Tabaret.
+
+[',', 'que', 'cela', ';', '(']	Noël	— Nous chercherions vainement, reprit le comte : il n’est pas de transaction possible. Puis-je, demain, vous renier et présenter [MASK] pour mon fils ? dire : « Excusez, celui-ci n’est pas le vicomte, c’est cet autre ? »
+
+['chacun', 'celui-ci', 'rodolphe', 'tous', 'frédéric']	Noël	Le bonhomme sentait venir une histoire de tout point semblable à celle qu’il avait imaginée, et l’impatience vaniteuse de savoir s’il avait deviné lui faisait presque oublier de s’apitoyer sur les infortunes de [MASK]. — Cher enfant, dit-il, ne nous égarons pas.
+
+['dis-je', ',', 'il', 'est', 'dit-il']	Gévrol	; il y en a pour trois cent vingt francs. — Par exemple ! fit [MASK] un peu déconcerté. Mais il revint vite de son étonnement et continua : — Il les aura oubliées. On cite plus fort que cela.
+
+['hitler', 'napoléon', 'jésus', 'quiconque', 'kennedy']	Claudine	Cela aussi, elle le refusa, et prières et menaces échouèrent contre sa résolution. Pendant quinze jours ce fut entre la mère et le fils une lutte horrible dans laquelle l’avocat fut vaincu. C’est à ce moment qu’il s’arrêta à l’idée de tuer [MASK].
+
+['dit-il', 'dit-elle', 'ajouta-t-il', 'répondit-il', 'dis-je']	Juliette	Si je les ai ce soir, je le dois à un hasard sur lequel je ne comptais pas il y a une heure, et que j’ai saisi aux cheveux, au risque de me compromettre. — Pauvre homme ! fit [MASK] d’un ton de pitié ironique.
+
+['ce', 'cette', 'plus', 'amour', 'cet']	Judas	son dévouement, fausseté ! ses caresses, mensonge ! Et je l’adorais ! Ah ! que ne puis-je lui reprendre tous les baisers que je lui donnais en échange de ses baisers de [MASK]. Et pourquoi cet héroïsme de fourberies, tant de soin, tant de duplicité
+
+['</s>', 'que', 'pourquoi', 'cela', 'il']	Albert	Comme il m’aimait ! se disait-elle ; il a failli mourir. [MASK] m’aime-t-il autant ? Elle n’osait se répondre. Elle aurait voulu le consoler, lui parler, tenter quelque chose… Il ne se montra plus.
+
+['tous', 'chacun', 'vénus', 'valentine', 'toutes']	Beyle	Elle n’était pas belle, ni même jolie ; cependant sa physionomie était de celles qu’on n’oublie guère, et qui frappent du coup de foudre de [MASK]. Son front était un peu haut et sa bouche trop grande, malgré la provocante fraîcheur des lèvres.
+
+['titre', 'présent', 'nouveau', 'lire', 'modifier']	Clergeot	bonhomme, en chasse ! Quand on n’a pas de tête, il faut des jambes. Et hop ! et hop ! Pourquoi n’as-tu pas songé à demander à [MASK] l’adresse de cette femme ? Plus vite que ça, mon vieux, plus vite
+
+['autrui', 'israël', 'autres', 'innocents', 'hommes']	Albert	À vous seule je puis pardonner ce que vous venez de dire. Votre ignorance des choses vous rend injuste. Vous pensez que le sort d’[MASK] dépend de mon bon plaisir, vous vous trompez. Me convaincre n’est rien, il faut encore persuader les autres.
+
+['elle', '</s>', 'valentine', 'il', 'geneviève']	Juliette	Quel dévouement sublime ! Elle m’aimait vraiment, se disait-il ; pour moi elle renonce sans hésiter à sa vie heureuse, elle me sacrifie tout !… [MASK] avait fini ses préparatifs, elle nouait à la hâte son chapeau ; un coup de sonnette retentit.
+
+['il', 'elle', 'on', 'olivier', 'alexandre']	Albert	C’est qu’[MASK] n’avait plus rien du malheureux qui la veille, étourdi par la multiplicité des charges, surpris par la rapidité des coups, se débattait sous le regard du juge d’instruction et semblait près de défaillir. Innocent ou coupable, son parti était pris.
+
+['il', 'elle', 'on', 'personne', 'celui-ci']	Gévrol	— C’est aussi ce qui éveilla mon attention, appuya le commissaire. Mais [MASK] ne se donnait plus la peine d’écouter. Il tenait sa piste, il inspectait minutieusement les coins et les recoins de la pièce. Tout à coup il revint vers le commissaire.
+
+['il', 'on', 'julien', 'celui-ci', 'pierre']	Albert	Il commença et finit de même que la première fois en protestant de son innocence. Une épreuve qu’on a vue souvent donner des résultats restait à tenter. Dans cette même journée du samedi, [MASK] fut mis en présence du cadavre de la veuve Lerouge.
+
+['.', 'alors', 't-il', '-t-il', 't-elle']	Gévrol	La victime s’est bien cramponnée à ses mains, mais comme il n’avait pas quitté ses gants gris… — Mais c’est du roman ! s’exclama [MASK]. — Avez-vous visité les ongles de la veuve Lerouge, monsieur le chef de la sûreté ?
+
+['je', 'personne', 'valentine', 'chacun', 'jeanne']	Claire	il ne voulait pas que [MASK] pût y suivre la trace des émotions qui le remuaient. Comme elle l’aime ! se disait-il, comme elle l’aime ! Il était certes à mille lieues de la situation présente. Son esprit s’abîmait dans les plus noires réflexions.
+
+['(', 'qui', 'présent', 'la', 'vous']	Noël	les recherches sur le passé de la veuve Lerouge devenaient un jeu. Il ne put retenir un « enfin ! » de satisfaction qui échappa à [MASK]. — Ce billet, reprit l’avocat, clôt la correspondance du comte… — Quoi ! répondit le bonhomme, vous ne possédez plus rien
+
+[':', '"', 'la', 'le', 'pas']	Juliette	aise. — L’affaire en question, balbutia-t-il, peut aussi bien échouer que réussir… — Assez ! interrompit [MASK]. Ta volonté sera faite, je te le promets. Allons, monsieur, embrassez-moi, je vais me mettre au lit.
+
+['patience', 'courage', 'résignation', 'espérance', 'paix']	Claire	Je vous parle en frère tendre et dévoué. Je vous dis : courage, [MASK], résignez-vous au plus douloureux, au plus immense sacrifice que puisse exiger l’honneur d’une jeune fille. Pleurez, oui, pleurez votre amour profané, mais renoncez-y.
+
+['madame', 'caroline', 'henri', 'robert', 'henriette']	Claire	? — Je ne sais, madame, balbutia [MASK]. — Il me paraît, continua la marquise, que ce petit juge s’émancipe singulièrement et se permet des façons impertinentes. Il faudra le remettre à sa place, car il finirait par se croire notre égal.
+
+['dieu', 'monsieur', 'jacques', 'julien', 'maurice']	Claudine	un fil bien ténu le guidait, la moindre interruption pouvait rompre ce fil et embrouiller l’écheveau. — Ce que me proposait [MASK], continua le marin, était une abomination, et je suis un honnête homme. Mais cette femme me pétrissait à volonté, comme la pâte du pétrin.
+
+['lui', 'monsieur', 'dieu', 'jacques', 'louis']	Albert	Il pouvait apprécier la violence qu’elle se faisait depuis une heure, lui qui connaissait si bien son caractère. — Ce n’est pas tout, ajouta-t-elle ; la clé de la petite porte que j’ai jetée à [MASK], il ne me l’a pas rendue
+
+['</s>', 'il', 'elle', '"', 'celui-ci']	Noël	Vous n’êtes pas du tout le médecin qu’il me faut. [MASK] se leva d’un air découragé et alla prendre place de l’autre côté de la table à thé, en face de sa maîtresse. Sa résignation disait quelle habitude il avait des rebuffades.
+
+['</s>', 'il', '--il', 'chacun', '--']	Albert	— Mes affaires, oui ; celles des autres, non. [MASK] fit cette dernière réponse d’un ton sec. Il était étourdi, ahuri, crispé par l’allure pressante et irritante de cet interrogatoire qui ne lui laissait pas le temps de respirer.
+
+[',', 'harris', 'john', 'marion', 'caroline']	Noël	— Mes idées, monsieur, dit vivement [MASK], étaient celles de tout homme intelligent qui veut parvenir.. Au surplus, tous les partis n’ont-ils pas un seul et même but, qui est le pouvoir ? Ils ne diffèrent que par les moyens d’y arriver.
+
+['et', 'maintenant', 'puis', 'tout', 'après']	Noël	— Et que dit-il, [MASK], à cette ouverture ? demanda avec empressement le père Tabaret. — Il garda le silence d’abord et parut réfléchir. Puis, tout à coup, il se frappa le front en disant : « J’y suis, je la connais
+
+['henriette', 'madame', 'eugénie', 'rodin', 'jeanne']	Albert	Seule, votre digne mère pourrait le dire, si elle le sait elle-même toutefois… — Monsieur, interrompit [MASK] d’un ton menaçant, monsieur, mesurez vos paroles ! Elle est ma mère, et cela suffit. Je suis son fils, et non son juge.
+
+[',', 'celui-ci', 'jeanne', 't-il', 'celle-ci']	Noël	je refuse. Cette générosité n’est pas à mon adresse. Avant tout, vous voulez éviter le scandale de mon procès et la honte qui ne manquera pas de rejaillir sur votre nom. Le comte voulut répliquer. — Laissez donc ! interrompit [MASK] d’un ton impérieux.
+
+['lui-même', 'lui', 'dieu', 'elle-même', 'napoléon']	Albert	Le tour du commissaire de police était arrivé. En deux mots, il rendit compte de l’arrestation déjà racontée par le père Tabaret. Il n’oublia pas de signaler ce mot : « Perdu ! » échappé à [MASK] ; à son sens, c’était un aveu.
+
+['cela', 'un', 'silence', 'tout', 'le']	Albert	monsieur ! fit [MASK], essayant de protester. — J’ai dit traître, continua le comte avec véhémence, je maintiens ce mot. Retenez bien ceci, vicomte : la puissance a été, est et sera toujours à qui possède la fortune, à plus forte raison à qui détient le sol.
+
+['jeanne', 'marguerite', 'marie', 'henriette', 'louise']	Juliette	Et il s’enfuit, laissant [MASK] si épouvantée qu’elle appela sa bonne. — Ma fille, lui dit-elle, je viens de faire quelque affreuse boulette, de casser quelque carreau. Pour sûr, j’ai causé un malheur, je le devine, je le sens.
+
+['innocent', 'dreyfus', 'hier', 'innocence', 'accusé']	Albert	il a tenu bon. Et mon effrontée petite-fille, obéissant à son mari par anticipation, s’est mise contre moi. Du reste, peu importe, je défie aujourd’hui de trouver un individu ayant le courage d’avouer qu’il a douté une seconde de l’innocence d’[MASK].
+
+['celui-ci', 'jacques', 'tom', 'harry', 'robert']	Claire	? Le comte la regarda bien attentivement, persuadé que la douleur lui avait troublé sa raison. Sa folie, en ce cas, était fort calme. — Je n’en avais jamais douté, continua [MASK], mais maintenant j’en ai la preuve la plus certaine.
+
+['elle', 'lui', 'eux', 'elle', 'elles']	Albert	Mais ce mot « assassin », le dernier de Mme Gerdy, ne surprit personne. Tous, à l’exception de la soeur, savaient l’affreuse accusation qui pesait sur [MASK]. À lui s’adressait la malédiction de cette mère infortunée.
+
+['il', 'on', 'elle', '-', 'je']	Claudine	C’est un nommé Brossette, qui demeure au village de Commarin même. — Et ensuite ? demanda le juge qui avait pris le nom et l’adresse de cette femme. — Le lendemain, monsieur, [MASK] parvint à me calmer et à m’extorquer le serment de garder le silence.
+
+['juste', 'ça', 'cela', 'clair', 'ailleurs']	Albert	Monsieur, dit-elle tout à coup, c’est souvent lorsqu’on désire et qu’on pense être seul qu’on est observé. Mandez, je vous prie, tous les domestiques de ma grand-mère et interrogez-les, il se peut que l’un d’eux ait vu [MASK].
+
+['louis', 'bâtard', 'charles', 'le', 'jean']	Noël	Ah ! vous avez donné dans le veuvage, vous aussi ! Non, il n’y avait pas de mari : feu Gerdy n’a jamais existé. J’étais bâtard, cher monsieur Tabaret ; très bâtard : [MASK], fils de la fille Gerdy et de père inconnu.
+
+['jésus', 'david', 'paul', 'marie', 'celui-ci']	Claire	! Conduisez-moi simplement, je parlerai, moi, et vous verrez si nous ne réussissons pas ! Le comte prit entre ses mains les petites mains de [MASK] et les retint un moment, les pressant avec une paternelle tendresse. — Brave fille !
+
+['-t-il', '-il', 'celui-ci', 't-il', 'que']	Claire	Le magistrat était si décontenancé qu’il oubliait d’admirer. Il attendait une explication. — Eh bien ? demanda-t-il, n’y tenant plus. — Monsieur, répondit [MASK], si c’est là votre plus forte preuve, elle n’existe plus.
+
+['elle', 'marie', 'celle-ci', 'jeanne', 'berthe']	Valérie	Et à cette pensée que [MASK] était morte, sans qu’il l’eût revue, il tressaillit douloureusement. Son coeur, après une séparation volontaire de plus de vingt ans, se serra, tant ce premier amour de son adolescence avait jeté en lui de profondes racines.
+
+['ça', 'il', 'cela', 'elle', 'ca']	Noël	— Ah ! mon Dieu ! s’écria le bonhomme, que m’apprenez-vous là ! mourante !… [MASK] va être au désespoir… c’est-à-dire non, puisque ce n’est plus sa mère, que lui importe ! Mourante !
+
+['personne', 'celui-là', 'ce', 'cela', 'celui']	Albert	Il était désespéré. Jamais il n’avait tant haï [MASK], ce misérable qui, souillé d’un crime, se mettait en travers de son bonheur. Puis encore, combien il maudissait le père Tabaret ! Seul, il ne se serait pas décidé si vite.
+
+['</s>', '-', 'je', '--', 'cela']	Clergeot	— Il me semble que les intérêts ont été bien et dûment payés, et à un taux qui vous permet de ne pas trop regretter le placement. [MASK] n’aime pas à entendre parler des intérêts qu’on lui donne. Il prétend que cela l’humilie.
+
+['-', 'il', '</s>', 'elle', 'on']	Albert	— Je sauverais le nom de mes ancêtres, dit-il enfin. [MASK] secoua la tête d’un air de doute. — Au prix d’un faux serment, mon père, dit-il, c’est ce que je ne croirai jamais. Supposons-le pourtant.
+
+['celui-ci', 'lui-même', 'il', 'napoléon', 'frédéric']	Noël	Et lorsque [MASK] serait revenu à la charge, il se serait trouvé en face du comte, qui aurait tout nié bravement, qui l’aurait éconduit poliment, et au besoin l’aurait chassé comme un imposteur et un faussaire.
+
+['pierre', 'devant', 'garde', 'marbre', 'travail']	Constant	— Voyons ! fit le bonhomme avec un empressement fiévreux. Il s’assit à la place de [MASK], et posant ses coudes sur la table, enfonçant ses mains dans les cheveux, en moins de rien il dévora le procès-verbal.
+
+['</s>', 'il', '--il', '--', 'elle']	Noël	— Qu’y a-t-il ? [MASK] lui serra silencieusement la main et pour toute réponse lui montra le lit. Le docteur, en moins d’une minute, prit la lampe, examina la malade et revint à son ami. — Que s’est-il passé ?
+
+['personne', 'quiconque', '...', 'parce', ',']	Albert	N’avait-il pas du temps devant lui ! Que ne fait pas en un mois un habile homme ! Sa pénétration habituelle le trahirait-elle donc ? Non, certainement. Son grand regret était de ne pouvoir faire avertir [MASK] que quelqu’un travaillait pour lui.
+
+[';', ':', ',', '...', 'que']	Gévrol	renchérit ironiquement [MASK] ; je pense seulement que ce jeune homme très bien devait être un peu gêné par un paquet enveloppé dans une serviette blanche et qui devait se voir de fort loin. — Aussi ne l’a-t-il pas emporté à cent lieues, répondit le père Tabaret
+
+['on', '</s>', 'il', 'chacun', 'elle']	Albert	Dans les remises on dételait la voiture qu’on tenait prête toute la soirée pour le cas où le comte voudrait sortir. [MASK] avait là, sous les yeux, le tableau complet de sa magnifique existence. Il soupira profondément. — Fallait-il donc perdre tout cela ?
+
+['il', 'il', 'et', 'elle', 'qui']	Albert	Le soir, [MASK] n’avait pris qu’un potage et s’était enfermé chez lui. Il était debout de grand matin, le mardi. Il allait et venait dans l’hôtel comme une âme en peine, ou comme quelqu’un qui attend avec impatience une chose qui n’arrive pas.
+
+['marie', 'maman', 'elle', 'jeanne', 'madame']	Claudine	elle me répondit qu’il était venu lui proposer de prendre un nourrisson. D’abord je ne voulais pas entendre de cette oreille. Notre bien permettait à [MASK] de garder tout son lait pour notre fils. Mais la voilà qui se met à dire les meilleures raisons.
+
+["c'", 'il', 'mais', 'qui', 'oui']	Albert	Dans tous les cas, innocent ou coupable, [MASK] était bien le vicomte de Commarin, le fils légitime du comte. Mais était-il coupable ? Évidemment non. — J’y songe ! s’écria tout à coup le juge, il faut que je parle au comte de Commarin.
+
+['il', 'elle', 'on', 'ils', ',']	Albert	Il voulait fuir, mais ses pieds étaient cloués au sol ; il essayait de fermer au moins les yeux, il ne pouvait, une force inconnue et irrésistible le contraignait à regarder. Puis [MASK] s’écriait encore : « Je suis innocent, le coupable est… !
+
+['un', 'aucun', 'à', 'ar', 'de']	Albert	Et partout j’ai traîné sa détestable image. Rien n’a pu me la faire oublier. Je ne me suis jamais consolé de sa perte. Et ce n’est rien encore. Des doutes affreux m’étaient venus au sujet d’[MASK]. Étais-je réellement son père
+
+['monsieur', 'père', 'frère', 'famille', 'comte']	Commarin	Mais il est votre fils, monsieur ; il est mon frère, il a porté trente ans le nom de [MASK]. Tous les membres d’une famille sont solidaires. Innocent ou coupable, il a le droit de compter sur nous et nous lui devons notre concours.
+
+['lui-même', 'lui', 'alors', 'napoléon', 'dit-il']	Noël	— Le vicomte, continua [MASK], parut vivement contrarié. « C’est que, m’objecta-t-il, j’avais disposé de mon temps. C’est à cette heure que je suis admis près de la jeune fille que je dois épouser, mademoiselle d’Arlange ;
+
+['(', 'la', "l'", 'le', 'les']	Noël	— Elle n’avait pas d’ennemis ? Soit. Et dites-moi, existe-t-il à votre connaissance quelqu’un ayant un intérêt quelconque à la mort de cette pauvre vieille ? Le juge d’instruction, en posant cette question, avait les yeux sur les yeux de [MASK]
+
+['il', 'on', 'tout', ',', "s'"]	Noël	Ces mots, ces chiffres éclatèrent comme des obus dans la cervelle du père Tabaret. Un demi-million ! En ce cas [MASK] était ruiné de fond en comble. Mais alors… — C’est beaucoup, dit-il, réussissant, grâce à d’héroïques efforts, à cacher sa souffrance, c’est énorme même !
+
+['dieu', 'dieu', 'pharaon', 'tou', 'at']	Gévrol	; on leur mit sur la face un voile épais où des trous étaient ménagés pour les yeux, et en cet état on les présenta à [MASK]. Sans la moindre hésitation il reconnut trois de ses pratiques et les nomma. Le hasard seul l’avait-il servi ?
+
+['robert', 'jacques', 'celui-ci', 'tom', 'valentine']	Juliette	Cela me sert à savoir au juste où et comment a passé ma fortune. — Vous le savez, vraiment ? ricana [MASK]. — Et je puis vous le dire, ma chère. D’abord vous avez été peu exigeante… mais l’appétit vient en mangeant.
+
+['espagne', 'algérie', 'état', 'italie', 'angleterre']	Albert	: « Nous serons deux pour le sauver. » Il se contint. L’avocat, après un aveu, ne le mépriserait-il pas ? Il se promit pourtant de se dévoiler, si cela devenait nécessaire et si les affaires d’[MASK] prenaient une plus fâcheuse tournure.
+
+['passer', 'prendre', 'cela', 'être', 'celui-ci']	Noël	L’un de ces messieurs avait reconnu [MASK] pour le visiteur du dimanche et c’en était assez pour mettre le feu à toutes ces curiosités altérées de scandale. Depuis le matin, d’ailleurs, l’événement survenu à l’hôtel Commarin faisait sur toute la rive gauche un tapage affreux.
+
+['...', 'entre', 'h', 'os', 'am']	Albert	Nous n’avons pu la faire revenir sur sa détermination. Telle était la situation lorsque le dimanche matin on me remit un mot d’[MASK]. Il me prévenait que des affaires graves l’empêcheraient de venir, bien que ce fût son jour. Qu’arrivait-il qui pût le retenir
+
+['lui', 'toi', 'moi', 'vous', 'nous']	Kaiser	— Hélas ! monsieur, des preuves ! Il y en a toujours contre ceux qu’on arrête. Il y en avait contre tous les innocents qui ont été condamnés. Des preuves !… J’en avais relevé bien d’autres contre [MASK], ce pauvre petit tailleur…
+
+['cela', 'signe', 'réponse', 'ceci', 'ça']	Albert	! vous aviez du feu, j’imagine ! Quoi ! vous les avez tenues entre vos mains et elles subsistent encore ! Que n’étais-je là, moi ! — Monsieur !… fit [MASK] d’un ton de reproche.
+
+['la', "l'", 'son', 'conscience', 'm.']	Claire	Le juge regrettait de s’être laissé entraîner un peu loin peut-être : l’exaltation de [MASK] l’effrayait. Il essaya, mais en vain, de l’interrompre. — Je puis être timide, continuait-elle avec une énergie croissante, je ne suis pas lâche.
+
+['qui', 'et', ',', 'lui', 'il']	Albert	[MASK], la phrase lancée, l’avait regrettée. Mais il était trop avancé pour reculer. — Monsieur, répondit-il avec un certain embarras, j’ai à vous entretenir de choses graves. Mon honneur, le vôtre, celui de notre maison sont en jeu.
+
+['en', 'maurice', 'marguerite', 'rodin', 'jacques']	Noël	On se serait cru dans l’arsenal d’un maître d’escrime. L’arme de l’assassin de la veuve Lerouge revenait ainsi naturellement à la mémoire du vieux policier. — Le vicomte, dit [MASK] ralentissant son débit, était à demi couché sur un divan lorsque j’entrai.
+
+['qui', 'et', 'vous', 'que', 'plus']	Claire	La souffrance du juge d’instruction ne peut se décrire. — Mieux eût valu parler, répondit-il, et encore… non. Je dois à votre silence, [MASK], six mois d’illusions délicieuses, six mois de rêves enchanteurs. Ce sera ma part de bonheur en ce monde.
+
+['</s>', '--', '-', '"', 'je']	Noël	; faites-moi parler au notaire, et nous nous arrangerons. Allons, je file ! À lundi, n’est-ce pas ? [MASK] prêta l’oreille pour être bien sûr que l’usurier s’éloignait décidément. Lorsqu’il entendit son pas traînard dans l’escalier :
+
+['la', 'le', 'les', "l'", 'la']	Albert	Son imagination était à ce point frappée, qu’il fit des efforts inouïs pour se rappeler le nom du coupable prononcé par [MASK]. N’y parvenant pas, il se leva et ralluma sa bougie ; l’obscurité lui faisait peur, la nuit se peuplait de fantômes.
+
+['il', 'en', "c'", 'on', 'qui']	Albert	Pour lui, [MASK] était le meurtrier aussi sûrement que s’il eût tout avoué. Persistât-il dans son système de négation quand même, jusqu’à la fin de l’instruction, il était impossible qu’avec les indices existant déjà une ordonnance de non-lieu fût rendue.
+
+['on', 'il', 'elle', 'je', 'personne']	Noël	Tu m’ennuies, mon bonhomme, et je compte bien te laisser en plan un de ces matins, mais je ne te permets pas de me quitter le premier. C’est que je ne souffrirai pas cela ! On ira aux informations… Mais [MASK] n’écoutait pas aux portes.
+
+[',', 'et', ';', 'ou', 'il']	Germain	Je parlais à pleine voix, comme sur mon bateau, quand le temps est gros, je jurais comme un damné, je menais un tapage affreux. L’autre nourrice poussait des cris à faire croire qu’on l’égorgeait. À ce vacarme [MASK] accourt avec une chandelle allumée.
+
+['oui', 'non', 'celle-là', '--oui', 'elle']	Claudine	! — Oui ! vous avez raison mille fois, répondit-il, mais trêve de réflexions, avancez, avancez !… — [MASK], monsieur, était plus entêtée qu’une mule. Après trois jours de discussions elle m’arracha un Amen entre deux baisers.
+
+['vous', "l'", "j'", 'faire', "d'"]	Noël	Ce serait pour avoir de l’argent que [MASK] aurait tué la femme Lerouge. Oh ! alors il serait le dernier, le plus infâme des hommes. Quel monstre de dissimulation et d’hypocrisie ! Et penser que si je mourais ici de fureur, il serait mon héritier
+
+[',', 'à', 'quelque', 'que', 'pour']	Noël	Tout en cédant à l’impulsion de sa passion, on peut se dire : ce n’est pas moi qui l’ai voulu, c’est le sort. — Il serait plus court, observa le comte, d’aller trouver [MASK]. — Partons, monsieur. —
+
+['jésus', 'pierre', 'paul', 'samuel', 'jacques']	Juliette	Pendant qu’on écrivait, il attira la tête de [MASK] jusqu’à sa bouche. — Ma fortune est sous l’oreiller, murmura-t-il, je te la donne. Un flot de sang monta à sa bouche, et on crut qu’il allait passer.
+
+['bien', 'non', 'rien', '...', 'pas']	Noël	Pauvre Claudine ! Elle m’avait promis son témoignage pour le jour où je voudrais rentrer dans mes droits ! — Et elle est morte emportant son secret ! murmura le bonhomme d’un ton de regret. — Peut-être ! répondit [MASK] ; j’ai encore un espoir.
+
+['il', 'on', 'celui-ci', 'lui-même', 'pierre']	Noël	d’un ton de reproche. Et se souvenant de la façon dont [MASK] s’était placé devant la cheminée, et de l’air qu’il avait en s’y plaçant, il ajouta : — Cette pensée me fût venue qu’elle eût été irréalisable.
+
+['je', 'il', ',', 'mais', 'et']	Germain	[MASK] n’osa pas résister, je parlais mon couteau à la main. Il mit son nom le premier, me conjurant seulement de ne rien dire au comte, jurant que pour sa part il ne souillerait mot, faisant promettre à l’autre nourrice de se taire.
+
+['la', "l'", 'tous', 'dieu', 'ses']	Claire	Les larmes vinrent aux yeux de [MASK]. — Si je vous ai offensé injustement, monsieur, dit-elle, pardonnez-moi, le malheur rend mauvais. — Vous ne pouvez m’offenser, mademoiselle, reprit le magistrat, je vous l’ai dit, je vous appartiens.
+
+['tout', 'jeanne', 'se', 'sarah', 'marie']	Claire	Le pressentiment d’un immense malheur serrait son coeur comme dans un étau. Que devint-il quand il vit [MASK] fondre en larmes… Elle avait caché son visage entre ses mains et répétait : — Je suis bien malheureuse ! bien malheureuse !… — Malheureuse !
+
+['</s>', '-', '"', 'elle', 'il']	Claire	Il se trompait. [MASK] se leva comme mue par un ressort, admirable d’énergie et de vaillance. La flamme de l’indignation empourprait sa joue et avait séché ses larmes. — C’est faux ! s’écria-t-elle, et ceux qui disent cela ont menti.
+
+['</s>', 'chacun', 'il', 'on', 'goethe']	Noël	Puis il y eut entre eux une minute de silence mortel qui leur parut à tous deux durer un siècle. L’un et l’autre, en un instant, furent illuminés de réflexions qu’il faudrait un volume pour traduire. [MASK] osa parler le premier.
+
+['</s>', 'il', 'elle', '-', "qu'"]	Noël	; j’ai encore trois visites à faire. [MASK] accompagna son ami. Quand ils furent sur le palier… — Tu reviendras ? lui demanda-t-il. — Ce soir à neuf heures. Rien à tenter d’ici là. Tout dépend de la garde-malade.
+
+['je', 'le', ',', '-je', 'monsieur']	Claire	Cachez à tous votre légitime douleur, vous pourriez plus tard vous repentir de l’avoir laissée éclater. Jeune, sans expérience, sans guide, sans mère, hélas ! vous avez mal placé vos premières affections… — Non, monsieur, non, balbutia [MASK].
+

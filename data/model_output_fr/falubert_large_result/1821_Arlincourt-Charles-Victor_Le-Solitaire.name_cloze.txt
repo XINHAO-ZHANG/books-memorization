@@ -1,0 +1,200 @@
+['...', ':', '"', ',', 'tout']	Herstall	» — « Mais ce personnage extraordinaire, qui peut-il être ?... se répétoit [MASK]. Tous les habitans de la contrée me sont connus : aucun ne ressemble à l’étrange portrait... » Le vieillard s’interrompt, puis soudain il s’écrie :
+
+['ne', 'ce', 'tous', 'tout', '...']	Saint-Maur	Les sages conseils de [MASK] parvinrent à changer mes fougueuses résolutions : que ne pouvoient ils calmer aussi mes souffrances ! Les premières plaies du cœur sont si douloureuses au printemps de la vie !... L’homme n’est point encore fait aux hommes ;
+
+['il', 'qui', 'celui-ci', 'on', 'et']	Anselme	Ses vœux, ses résolutions, et le motif de sa visite au presbytère, elle a tout déclaré à son ancien ami.[MASK] l’avoit écoutée sans l’interrompre ; mais plus d’une fois de profonds soupirs s’étoient échappés de son sein.
+
+['ne', 'elle', 'Elle', 'il', '...']	Elodie	et quelque chose de sinistre a passé de ses lèvres dans son regard. Epouvantée de l’expression sauvage de ses accens, [MASK] recule, et veut s’éloigner. — « Noble orpheline, a-t-il ajouté, ne tremblez pas... que peut contre vous l’infortuné !
+
+[',', 'es', 'S', "'", 's']	Elodie	»« [MASK], foible roseau du rivage désert, je tremblois que, moi disparu, la tempête ne renversât aussi ta foible tige. Mais unprolecteur puissant se présente, et s’offre de remplacer le vieillard prêt à disparoître. Accepte le noble appui que l’Eternel semble l’envoyer ;
+
+['il', '</s>', 'elle', 'Il', 'Elle']	Ecbert	Son admiration pour ma vaillance étoit portée jusqu’au délire, et son dévouement jusqu’au fanatisme. Autant son imagination étoit ardente, autant son âme était pure. [MASK] s’aperçut que je l’aimois, et son attachement pour son prince devint dès ce moment une sorte d’idolâtrie.
+
+['coeur', 'toujours', 'qui', 'cœur', 'Dieu']	René	l’ami de [MASK] poursuit sa route, sans paraître remarquer l’étonnement de l’orpheline. Que signifie cet hommage éclatant rendu à l’homme du mont Sauvage ?... Quoi, devant la seule armure du Solitaire le comte de Norindall s’est prosterné !... Comment expliquer ce mystère !
+
+['paix', 'prudence', 'France', 'Dieu', 'tous']	Saint-Maur	L’ennemi qui m’attaquoit, deux fois avoit violé ses traités, deux fois avoit trahi ses sermens ; et mon courroux étoit légitime. Exaspéré par les perfidies dont j’avois été constamment la victime, je repoussai avec emportement les conseils de [MASK].
+
+['une', 'un', 'autrui', 'en', 'à']	Elodie	»Craignant que mon haleine impure ne souillât la demeure d’[MASK], je cessai d’approcher du monastère, où bientôt arriva le comte de Norindall. Parmi ses guerriers se trouvoit le page auquel je devois la vie : il connoissoit ma retraite : en secret il vint m’y trouver ;
+
+['élite', ',', 'élites', 'mais', 'et']	Ecbert	Pour sauver les troupes d’[MASK] inférieures en nombre aux montagnards armés, je vous devance au pic Terrible. Dans l’immense caverne de la roche redoutée j’avois caché des bois résineux, des matières combustibles, un amas de soufre et de bitume, et de la poudre comprimée.
+
+['il', '-', 'elle', 'alors', 'Il']	Elodie	— « Arrête ! dit [MASK] recouvrant ses sens, ô mon bien-aimé ! arrête ! Voit-on d’ici la mont Sauvage ?... aperçoit-on d’ici la cabane du Solitaire ? Mort cruelle, un instant encore !... Vers l’élysée de cette terre, un seul regard !
+
+[',', 'est', 'de', '"', "qu'"]	Elodie	-temps le prince, à travers les arbres, avoit suivi des yeux son compagnon d’armes. Tout à coup il s’élance au fond de sa cabane, il se jette sur la couche solitaire où reposa son amante ; à grands cris il l’appelle : — « [MASK] !
+
+['il', 'elle', 'et', 'on', 'se']	Charles	Calme comme l’insensibilité, muet comme la mort, l’œil constamment fixé sur l’horizon, il n’a paru tourmenté que par l’impatience de voir finir le jour. La nuit enfin s’approche ; [MASK] rompt le silence.
+
+['Olivier', 'un', 'or', 'une', 'Eve']	Elodie	A peine encore pointoit un rayon de l’aube. Un bruit tumultueux de voix, d’armes et de chevaux a frappé l’oreille d’[MASK]. De nouveaux étrangers arrivent-ils au prieuré ? Sont-ce des courriers que reçoit ou fait partir le prince ?
+
+['...', ',', 'S', 'de', 'tous']	Saint-Maur	Fille de [MASK], une vaste conspiration se trame en ces lieux. Les antres de la forêt retentissent d’accens rebelles. J’ai épié, j’ai écouté, j’ai entendu ; des montagnards abusés volent aux armes ;
+
+['que', 'encore', 'à', 'et', ':']	Elodie	— « O mon père ! dit [MASK], n’abandonnez pas votre enfant ! Sa main tient celle du vieillard ; il lui semble qu’elle a été légèrement pressée. — Course fatale, reprend-elle ; peut-être que, sans la fatigue d’une route pénible
+
+['elle', 'els', 'lui', 'noblesse', 'fs']	Elodie	L’orpheline n’a plus d’espoir qu’en sa protectrice : mais la comtesse est dévouée au chef entreprenant dont elle aperçoit le front déjà ceint d’une couronne. Le prince lui a peint ses sentimens pour [MASK] ; il lui a demandé la main de sa nièce adoptive.
+
+['azur', 'iris', 'or', 'amour', 'été']	Elodie	... Je serois ton épouse !.. Nous pourrions encore être heureux !... »Le regard d’[MASK] s’est ranimé ; son cœur palpite avec violence ; un léger incarnat colore son visage ; sur ses traits abattus reparoît un rayon de joie ;
+
+['ton', 'ta', 'notre', 'sa', 'son']	Charles	— « Réponds, Elodie, réponds !... c’est ton bien-aimé qui t’appelle. »Le vieillard d’Underlach partage les douloureuses angoisses de [MASK]. — « Elodie ! sécrie-t-il à son tour, ange tutélaire ! ne peux tu répondre à sa voix !
+
+['il', '</s>', 'on', 'et', 'Il']	Saint-Maur	La garde du souverain cherchoit à repousser les assaillans : un combat sanglant s’étoit engagé. Charles-le-Téméraire saisit son glaive, et suivi de quelques chevaliers, lui-même va fondre sur les rebelles. [MASK] se présente, et, craignant pour les jours de son maître, veut l’arrêter.
+
+[',', 'de', 'le', 'la', 'à']	Charles	[MASK] le suivoit des yeux : alors, joignant à d’héroïques vertus une âme ardente et sensible, le duc de Bourgogne étoit loin encore d’être ce monstre qui plus tard devoit, victime de ses propres fureurs, emporter au tombeau l’horreur de ses contemporains :
+
+[',', 'la', ';', "l'", 'il']	Herstall	[MASK] l’observe, il la comprend, il soupire, et hâte l’instant de son départ.L’astre du jour est à la moitié de sa course. Le vieillard s’est éloigné de l’abbaye ; déjà sans doute il est arrivé à l’ermitage du Solitaire.
+
+['révolution', 'révolutionnaire', 'lui', 'tous', 'coup']	Louis	Ces puissans confédérés 7 ont armé leurs vassaux. Contre [MASK], le soulèvement devient général ; et toutes les forces de la monarchie menacent à la fois le tyran qui pour seul allié ne peut nommer que le duc de Milan, le fameux bâtard François Sforce.
+
+['il', 'Il', 'elle', 'et', 'on']	Charles	son œil égaré se ferme ; ses membres se raidissent ; ses mouvemens deviennent convulsifs ; il pousse un gémissement sourd ; et pendant quelques instans il perd la voix, le sentiment et la pensée.[MASK] a rouvert les yeux. Le comte de Norindallle soutient dans ses bras.
+
+['or', 'origine', 'azur', 'est', 'un']	Elodie	»Il dit ; et tournant ses regards vers la croix funéraire, il croit voir à l’instant même un rayon lumineux descendre sur l’orpheline du monastère ; les traits d’[MASK] brillent d’un éclat surnaturel.. Le bocage est comme embaumé d’un nuage d’encens ;
+
+['un', 'une', 'or', 'un', 'au']	Herstall	A son seul aspect toute impression funeste s’est effacée ; et déjà l’enchanteur de la montagne a repris sur elle sa puissance.L’orpheline a cru voir tomber de ses yeux une larme religieuse sur la tombe d’[MASK].
+
+['se', 'de', 'la', 'le', 'est']	Elodie	Et accoutumée aux prodiges de l’homme du mont Sauvage, se persuadant qu’il a pu l’entendre, elle écoute si les soupirs de la brise nocturne ne lui portent point une réponse.Telle qu’une ombre heureuse, [MASK] prosternée, un instant demeure immobile ;
+
+['or', 'un', 'honneur', 'une', 'or']	Armide	Au milieu du jardin, des arcs de triomphe se sont élevés, comme si l’eût commandé la baguette d’[MASK]. Sur la pelouse est un amphithéâtre de verdure, au dessus duquel s’enchainent suspendues des couronnes de lauriers et des guirlandes de roses.
+
+['tout', ',', '"', 'cela', 'connaissance']	Ecbert	»Sa respiration est oppressée, ses expressions brûlantes se succèdent tumultueusement. La nouveauté de ce langage étonne l’orpheline : elle presse ses pas et se tait. — « Vous ne répondez rien, a repris [MASK] avec passion.
+
+['il', 'on', ',', '.Il', 'qui']	Elodie	et, s’éloignant de la rive, il laisse échapper un long gémissement de sa poitrine oppressée. A pas précipités il traverse le pont, gravit le sentier de la montagne, et disparaît à travers les sapins.Il est déjà loin. [MASK] a recouvré le mouvement ;
+
+['France', 'sa', 'son', 'la', 'Saxe']	Philippe	Il perdit ma confiance : au prince fourbe et déloyal je sacrifiai l’homme sincère et dévoué.Le baron d’Herstall venoit de présenter à la cour de [MASK] sa fille Iréna, qu’une parente éloignée, la duchesse d’Aroville, avoit en mourant nommée sa légataire universelle.
+
+['la', 'le', "l'", 'votre', 'cette']	Ecbert	— Tous vos sermens au Solitaire ! répète la vierge étonnée. — Oui, tous mes sermens, reprend [MASK] avec transport. Le croirez-vous ! je lui ai juré de vous fuir... Je lui ai juré de ne plus troubler votre repos... Il l’a exigé le barbare !
+
+['Elle', 'elle', "n'", "N'", ',']	Elodie	Les zéphirs seuls se jouoient entre les arbrisseaux de la vallée. [MASK] est presque arrivée au pont ; tout à coup elle s’arrête... Quel objet a frappé ses regards ! Cachée au fond d’un bosquet, derrière un épais feuillage, l’orpheline est demeurée immobile.
+
+['on', 'je', 'il', 'personne', 'elle']	Elodie	Sombre et silencieux, il paraît attéré par quelque événement surnaturel. Une affreuse pensée occupe seule son esprit ; et semblable à la victime au supplice condamnée, il marche le front abattu.S’éloignant de l’ermitage, il a repris ses travaux : [MASK] n’a point osé l’interroger.
+
+[',', "l'", 'de', 'la', 'une']	Elodie	Sa présence au bosquet funéraire, ce dernier hommage rendu à la mémoire de son père, ont rempli l’âme d’[MASK] d’une joie secrète, d’une tendre reconnoissance : le Solitaire est justifié dans son esprit. Une lumière brillante a soudain éclairci ses ténébreuses pensées ;
+
+['il', 'elle', 'on', 'Il', 'lui']	Ecbert	Il n’a encore proféré aucune parole ; et cependant [MASK] vient de recevoir la réponse attendue. Levant son fer vainqueur, le solitaire a, de sa pointe sanglante, montré au comte de Norindall la cime du mont Sauvage qu’éclaire un dernier rayon nocturne.
+
+[',', 'à', 'de', 'en', 'la']	Elodie	Le prince de Palzo, aussi tendre, mais plus respectueux, a cessé d’aborder [MASK] avec cette confiance outrageante inconnue au véritable amour. Ses attentions sont délicates, ses égards flatteurs, ses paroles réservées. La timide orpheline n’a plus à redouter sa présence ;
+
+['il', 'on', 'elle', 'chacun', ',']	Elodie	Au bord du torrent, à la place même où la veille [MASK] chanta le retour du printemps, un montagnard tient le luth oublié, et vient d’en tirer les sons les plus mélodieux. Debout, appuyé contre un sapin, un instant il interrompt ses doux accords.
+
+['la', "l'", 'se', 'le', ',']	Roland	Ses membres nerveux, sa force redoutable annoncent l’athlète né pour les combats, l’Alcide accoutumé à la victoire. Si la rage et le délire s’emparaient de son âme, nul doute qu’il ne pût renouveler les gigantesques fureurs de [MASK] ;
+
+['une', 'un', 'antan', 'Lorraine', 'origine']	Ecbert	Que dis-je ! mon devoir même m’ordonne aujourd’hui de le rompre : je ne pourrais plus rendre heureuse la princesse de Lorraine. Il n’est plus qu’un être ici-bas qui puisse être la compagne d’[MASK].
+
+['il', 'on', 'elle', 'à', 'a']	Elodie	A quoi » pourroit servir cet aveu ? Ne m’avez-vous pas dit qu’[MASK] ne pouvoit jamais être à vous ? »L’homme du mont Sauvage paroît craindre de lui répondre ; en lui mille sentimens divers à la fois se combattent ; précipitamment il s’éloigne ;
+
+["'", 'On', ',', '"', '-']	Réné	— « Jure, m’écriai-je, d’exécuter fidèlement l’ordre que je vais te prescrire ! Il prononça le serment que j’exigeois, et je continuai ainsi : — [MASK] me croit mort, as-tu dit, je veux l’être pour le monde entier ;
+
+['vivement', '"', 'tout', 'il', 'alors']	Marceline	dit vivement l’orpheline. » — « Ce matin ! reprend [MASK] : il ne s’est pas si long-temps fait attendre ; j’aurois pleuré toute la nuit : laisse-t-il souffrir une heure, lorsqu’il peut de suite accourir !
+
+['Non', '"', 'Oui', 'Mais', 'Soit']	Elodie	et pour vous encore, je sens battre ce cœur que je m’étois promis de rendre insensible et glacé. »En prononçant ces mots, la voix du Solitaire avoit perdu graduellement de son âpreté. — « [MASK], poursuit-il, répondez-moi :
+
+['moi', 'nous', 'lui', 'moy', 'moi']	Charles	Violemment combattu, j’osai lutter encore contre les puissances de l’iniquité, qui par degrés s’emparaient de mon âme. Pour la dernière fois le Ciel laissa tomber sur [MASK] un rayon protecteur ; je me précipite dans l’appartement où, livré à la terreur, le monarque attendoit sa sentence.
+
+['un', 'une', 'eux', 'armes', 'or']	Ecbert	je cours au hasard à travers d���obscures galeries ; et sous un passage inconnu, je tombe enfin sans mouvement.En reprenant mes sens, je me trouve environné d’[MASK] et de mes chevaliers, que mes cris avoient attirés près de moi.
+
+['il', 'Il', ',', 'IL', "l'"]	Ecbert	[MASK] eût fait de sa compagne adorée sa divinité sur la terre ; il l’eût environnée de toutes les pompes de la gloire et de l’opulence, de tous les délices de la vie ; ici-bas il eût anticipé les félicités célestes.
+
+['Sois', '"', 'Oui', 'Viens', 'Non']	Iréna	... Contemple ton ouvrage ! » — « [MASK] ! m’écriai-je en me précipitant vers elle. » — « Suis-moi », dit l’infortunée, et vers le passage secret elle fuit comme une bulle d’air qu’un souffle rapide a poussée.
+
+['Israël', 'Orient', 'élite', 'qui', 'Dieu']	Ecbert	Comment expliquer ce mystère !Les troupes d’[MASK] ont hâté leur marche. Ils sont sortis des défilés du mont Sauvage, et déjà longent le lac Morat. La nuit s’avance, ils parviennent au pic Terrible, et là le plus affreux danger les menace.
+
+['son', "l'", 'Son', 'cette', "L'"]	Elodie	Son âme, pour se faire entendre, cherche à briser les obstacles qui l’entravent. Un violent effort, comme une convulsion dernière, a rendu le mouvement à ses lèvres tremblantes. Quelques sons étouffés, quelques mots à peine articulés se fraient un passage. [MASK] écoute.
+
+["L'", "l'", '</s>', 'un', 'cet']	Anselme	... Si jeune, errant sans guide dans les montagnes, il a pu s’égarer ; quelques périls auroient-ils menacé sa vie ?... Peut-être n’a-t-il pu résister à la fatigue d’un long voyage. [MASK] inquiet compte les momens avec impatience.
+
+['lui', 'il', 'lui-même', 'celui-ci', 'Guillaume']	Conrad	Le digne pasteur d’Underlach ne peut avoir oublié que [MASK], son neveu chéri, doit l’existence au Solitaire ; il unira les deux amans à la chapelle de l’abbaye : nulle puissance terrestre n’a le droit de s’opposer au mariage de l’orpheline.
+
+['il', "qu'", 'elle', 'que', 'tu']	Ecbert	Sais-tu que plus d’un cœur a cherché son cœur ! que plus d’une beauté secrètement a soupiré pour celui que tu dédaignes !..... Hélas ! [MASK] n’avoit point encore aimé Oh ! qu’il plaint à présent celles dont il a rejeté les vœux Elodie !
+
+['elle', "l'", 'la', 'on', 'de']	Elodie	Une lumière brillante a soudain éclairci ses ténébreuses pensées ; il lui semble qu’un souffle divin a repoussé tous les nuages de l’horizon. Le passage de la vie n’est plus pour elle une marche dans le désert : [MASK] n’est plus seule dans l’univers ;
+
+['il', 'et', 'Il', 're', 'soleil']	Ecbert	Depuis long-temps le soleil s’est enfoncé sous les mers. [MASK] pique sans relâche les flancs de son destrier ; et ne s’aperçoit point de l’espace immense qu’il a parcouru. Son cheval épuisé tombe enfin sous lui. En quels lieux est-il ?
+
+['elle', 'une', 'a', 'il', 'à']	Elodie	Si je fusse née sous la hutte du montagnard, comme l’eau du torrent j’aurois pu être troublée par quelque orage, mais la tourmente passée, je réfléchirois encore l’azur des jours sereins. O mon frère ! qu’[MASK] soit élevée par vous dans toute la simplicité des mœurs du premier âge ;
+
+['il', ',', 'encore', 'nul', 'plus']	Herstall	et de même que les pensées les plus sublimes pouvoient sortir de son esprit exalté, les plus héroïques sacrifices pouvoient être obtenus de sa grande âme.Eloigné de la société des hommes, depuis long-temps [MASK] ne s’étoit trouvé au milieu d’une assemblée guerrière.
+
+['le', 'il', "l'", 'on', 'Dieu']	Anselme	Absolu dans ses volontés lorsqu’il les croit sages, le pasteur d’Underlach, en certaines circonstances, ne voit dans la douceur qu’une foiblesse, et dans la bonté qu’une erreur — « Etoit-ce à vous, dit [MASK], à céder aux caprices d’un enfant ?
+
+['le', 'AR', 'les', '"', 'la']	Saint-Maur	Une émeute venoit d’éclater ; et le peuple en armes se portoit vers la résidence royale, en poussant des cris féroces. Le duc prête l’oreille ; et, parmi les vociférations de la multitude, il entend ce cri : — « Vive [MASK] ! »
+
+['lui', 'le', "l'", 'un', 'elle']	Elodie	le même air chanté la veille par [MASK] est répété par le montagnard. Ce sont presque les mêmes mots, les mêmes expressions, les mêmes paroles que fait entendre le chasseur ; et cependant quel sens différent !... La vierge d’Underlach écoute, et ne peut eu croire son oreille.
+
+[',', '(', 'JE', 'tout', 'presque']	Elodie	Mon amour pour toi m’a rendu les premiers guides de mon printemps, les premiers sentimens de ma vie, l’honneur, la loyauté, l’enthousiasme et la vertu. »— « Non, répète [MASK] d’une voix suppliante, et résistant à ses efforts ;
+
+['et', ',', 'il', 'elle', ';']	Ecbert	[MASK] s’élance dans ses bras. — « Pleure ! s’écrie-l-il, pleure ! le ciel et la terre attendoient cette larme. »— « La terre ! répond le prince ; la terre n’attend plus rien de moi que ma dépouille mortelle.
+
+['Isabelle', 'Emma', 'Angleterre', 'Écosse', 'Hugues']	Herstall	— Est-ce donc un bonheur de connoître ! répond naïvement l’orpheline. »Le repas est achevé : le comte de Norindall se lève, et prenant la main tremblante de la nièce d’[MASK], il retourne au salon de l’abbaye.
+
+[',', 'sol', 'encore', 'posés', 'les']	Phinée	Parmi les montagnards quel cris se font entendre !... L’alarme est à son comble. Leurs cheveux se dressent sur leurs fronts ! Saisis d’épouvante et d’horreur, les uns demeurent pétrifiés et sans mouvement, comme les soldats de [MASK] devant la tête de la Gorgone ;
+
+['Afrique', 'honneur', 'Algérie', 'amour', 'accueil']	Underlach	qui poursuivis le fantôme du bonheur au désert populeux du monde civilisé ; moi-même, victime de l’infortune, sans le devoir sacré qui m’attache à l’orpheline d’[MASK], j’eusse été loin des humains cacher une existence exempte de remords au fond de quelque solitude inaccessible !
+
+['son', 'sa', 'ses', 'la', 'les']	Ecbert	La vierge d’Underlach jette un cri de détresse, et jamais le désespoir ne fit entendre une voix plus douloureuse ; elle a vu chanceler [MASK] : hélas ! plus de salut pour elle ; le prince de Palzo triomphe.Du pic Terrible part à l’instant une épouvantable détonation.
+
+['il', 'et', ',', 'de', 'à']	Elodie	Un accord des hymnes du ciel eût offert moins d’enchantemens. [MASK] a rouvert sa paupière au cri de l’amour et de la douleur ; et son regard s’est déjà confondu dans les regards du Solitaire.Il a ralenti sa marche : Il la soutient entre ses bras ;
+
+['elle', 'il', 'Elle', 'Il', 'on']	Charles	Elle eût craint d’offenser le prince, de paraître douter de son âme, en cessant un jour seulement de se confier à sa loyauté. La veille de son hymen, l’abandonner eût été cruel : [MASK] a besoin de sa présence, elle a besoin de son amour.
+
+[',', 'qui', "s'", 'S', 'et']	Elodie	Le ciel étoit pur et sans nuage ; les fleur de la prairie avoient embaumé les airs ; et Je silence de la paisible matinée n’étoit interrompu que par les accords du rossignol et le lointain murmure des cascades. Près du torrent d’Underlach [MASK] s’arrête ;
+
+['elle', 'sa', 'son', 'la', 'en']	Marceline	où avoit-elle passé sa jeunesse ? jamais personne n’avoit pu le découvrir. De grands malheurs l’avoient accablée, dit on ; mais [MASK], pour qui les souvenirs étoient déchirans, évitoit avec soin tout sujet d’entretien qui pouvoit lui rappeler ses infortunes.
+
+['-', 'il', 'ce', 'mont', 'son']	Anselme	... qu’importe ! — Laissez-moi panser vos plaies. — Mes plaies sont incurables ; » et l’homme du mont Sauvage a posé la main sur son cœur.Il a fait plusieurs pas pour s’éloigner : [MASK] l’arrête.
+
+['honneur', 'offrir', 'accueil', 'orgueil', 'hospitalité']	Underlach	... Hélas ! il n’a point de patrie, ne porte aucun titre, est aujourd’hui sans nom, et n’a pas même un cœur pur à offrir... Douce vierge d’[MASK] ! fuyez le toit de l’infortune ! fuyez l’homme du mont Sauvage !
+
+['elle', 'lui', 'la', 'le', 'moi']	Elodie	Mais tout est changé pour [MASK]. Son ivresse est dissipée. Le prisme a perdu ses couleurs, et le jardin ses merveilles ; tout est désenchanté autour d’elle. Les projets du prince lui ont été dévoilés ; le but de sa fêle et de ses prestiges est connu.
+
+['le', 'la', "l'", 'un', 'son']	Ecbert	« Foible liane, lui dit [MASK], à voix basse, refuserois-tu l’appui du cèdre ? »... En prononçant ces mots, son accent étoit plein de tendresse, et sa main pressoit doucement la main de l’orpheline.
+
+[',', 'qui', 'vous', 'il', ';']	Palzo	mais, amant passionné autant que héros intrépide [MASK] ne voudroit s’élancer aux champs de la victoire que paré du titre de votre époux. »Elle dit : son langage perfide et ses révélations artificieuses ont produit sur l’orpheline un effet totalement contraire à celui qu’elle avoit attendu.
+
+['la', 'mon', "l'", 'son', 'votre']	Saint-Maur	les fleurs sauvages de nos vallons périssent, transplantées en d’autres climats. Est-ce à moi d’ambitionner les royales demeures, lorsque c’est dans un palais que fut assassiné mon père. Oh ! rappelez-vous les dernières prières de l’infortunée veuve de [MASK].
+
+['elle', 'même', ',', 'la', 'ne']	Elodie	Tournant un dernier regard vers l’épouvantable apparition du pic Terrible, en ce moment [MASK] voit descendre vers elle le fantôme sanglant..... elle s’évanouit.LIVRE X.QUELQUES rayons précurseurs du jour avoient chassé les ombres de la plaine éthérée.
+
+['il', 'et', 'Il', '-', 'puis']	Anselme	En prononçant ces mots, [MASK] s’étoit levé ; et portant ses regards du côté du lac Morat : — « Vers l’Orient, dit-il, est le rocher où se montre le prétendu fantôme : hélas ! il fut témoin d’un horrible spectacle.
+
+['aucun', 'aucune', 'elle', 'la', 'rien']	Elodie	Obligeante, affectueuse, elle ne paroît point effrayée du sombre aspect des galeries voûtées qu’elle traverse : elle n’a blâmé aucune distribution ; ne s’est plainte d’aucune fatigue ; et pour prendre quelques instans de repos, ne s’est séparée d’[MASK] qu’avec regret.
+
+['la', ',', 'me', 'une', 'de']	Elodie	— « O mon père ! dit [MASK], étrangère aujourd’hui sur un globe inconnu, qu’ai-je à attendre du temps ? l’accumulation des souffrances. Qu’ai-je à espérer des hommes ? la pitié. Oh ! par vos prières, obtenez du Seigneur ma délivrance ;
+
+['Charlemagne', 'Saint-Pierre', 'Saint-Denis', 'Saint-Louis', 'Narbonne']	Phaéton	il marchoit d’un pied ferme, sur les eaux, comme l’Apôtre à la voix du Seigneur. Un autre l’a vu s’élancer d’un rocher dans le torrent, sous la forme d’un cygne, tel que le roi des Liguriens au mausolée de [MASK].
+
+['il', 'elle', 'on', 'le', 'ce']	Ecbert	ici j’aurai trouvé la félicité suprême. »Il dit : l’enthousiasme du sentiment éclate en ses regards ; la vierge d’Underlach est émue, est attendrie ; et cependant [MASK] n’est point aimé.— « Comte de Norindall, dit-elle enfin, pardonnez mon silence.
+
+['tout', 'toi', 'cela', 'ceci', 'ça']	Ecbert	rétracte tes premiers refus, rappelle [MASK] à l’abbaye. Parle, je ne demande qu’un mot... un seul mot d’espérance. »Il dit : chancelant et comme égaré, le comte de Norindall s’appuie contre la muraille, attendant son arrêt.
+
+['il', 'on', 'elle', 'Il', 'ils']	Anselme	C’en est fait ! entre la vierge et le mourant l’ange aux ailes funèbres a tiré le rideau de l’éternité.Depuis plusieurs jours, l’homme juste avoit terminé sa carrière. C’est maintenant l’orpheline qu’[MASK] cherche à rendre à la vie.
+
+['on', ',', 'se', 'et', 'elle']	Elodie	Interdite et confuse, [MASK] lève un œil timide sur l’étranger, que déjà son imagination lui représente comme un génie surnaturel. Tremblante, elle attend.... sans pouvoir s’expliquer quelle étrange puissance enchaîne ses pas, glace sa voix, commande à sa pensée.—
+
+['à', 'souver', 'en', ',', 'pour']	superbe	— « Auprès de celui qu’a choisi la vierge d’Underlach, le puissant comte de Norindall n’est qu’un mortel obscur et sans renommée. L’homme auquel elle donne aujourd’hui son cœur, s’il le vouloit, demain s’éleveroit [MASK] à l’égal des plus hautes puissances de la terre.
+
+["J'", "j'", '</s>', 'Je', "n'"]	Herstall	point de pitié pour toi ! Puissent les malédictions du Ciel, semblables aux miennes, te suivre jusqu’à ta dernière heure ! et puissent les horreurs de ta mort égaler les crimes de ta vie ! »[MASK] a fui : je restai anéanti comme frappé de la foudre.
+
+['France', "l'", 'Zeus', 'la', 'Rome']	Fingal	Il en jaillit des éclairs comme du palais des météores promis aux filles de [MASK]. Au fond du sanctuaire, porté sur des nuages de pourpre et d’azur, resplendit l’autel de l’Hymen ; à l’entour brûlent l’encens et les aromates en des cassolettes d’or.
+
+['il', 'on', 'le', 'personne', 'celui-ci']	Anselme	et cependant [MASK] n’avoit cessé de lui envoyer de secrets messagers pour l’instruire de l’état désespérant de l’orpheline, et des progrès de sa maladie : mais aucun d’eux n’avoit osé gravir la montagne redoutée ; et par leurs fausses réponses le pasteur étoit abusé.
+
+['années', 'ans', 'y', 'jours', ',']	Elodie	jours d’[MASK] couloient en paix ; ses occupations accoutumées ne laissoient point l’ennui pénétrer jusqu’à son âme. Depuis le funeste ouragan, aucun fâcheux événement n’avoit affligé le vallon ; et son appui sauveur n’étant plus nécessaire, le Solitaire, devenu comme invisible, paroissoit avoir abandonné la contrée.
+
+['un', 'une', 'été', 'honneur', 'hiver']	Elodie	un ruban de cette couleur ceint habituellement la taille d’[MASK]. Au pied de l’antique muraille les paladins s’arrêtent ; et d’une voix sonore qu’accompagnent des harpes guerrières, ils font entendre ces accens :« Aux chants des fils de la VictoireLève-toi, vierge des vallons !
+
+['écoute', 'écouter', 'une', 'un', 'aime']	Iréna	... Infâme séducteur ! vois le spectre égaré d’[MASK] s’avancer, et jeter à tes pieds le corps livide de son enfant !... guerrier sacrilége ! écoute, n’entends-tu pas les cris de tous les religieux de ce monastère, égorgés sur le pic Terrible !
+
+['nuit', 'laquelle', 'je', 'et', ',']	Elodie	La vie ne m’offre plus maintenant qu’un vide immense au fond duquel est l’éternelle nuit. [MASK] ! puissiez vous être heureuse ! Mon sacrifice est consommé ; mon âme est résignée ; je n’ai plus rien à espérer en deçà de la tombe.
+
+['mariage', 'avoit', 'amour', ',', 'ois']	Ecbert	Parmi ses guerriers se trouvoit le page auquel je devois la vie : il connoissoit ma retraite : en secret il vint m’y trouver ; et j’appris par lui l’hymen projeté d’[MASK] avec la princesse de Lorraine.
+
+["l'", 'votre', 'la', 'mon', 'ma']	SaintMaur	— « Là, si le repentir ferme l’abîme, là seulement il pourra vous dire : Je vous aime. »Cette entrevue acheva d’égarer ma raison : Qui, moi ! j’osois adorer la fille de [MASK] !
+
+[',', 'alors', 'à', 'et', 'en']	Elodie	et, d’un pas léger, descendant l’escalier de la tour, elle s’enfonce dans les bosquets du monastère. — « Quel est donc ce solitaire du mont Sauvage, se répète [MASK] ? son nom seul imprime la terreur, et cependant la contrée entière retentit des bienfaits qu’il arépandus
+
+['et', ',', 'on', 'ils', ';']	Morphée	?...De son manteau semé d’étoiles la nuit couvrait les célestes voûtes. Les montagnards, occupés dans la chapelle aux apprêts de l’odieux hyménée, depuis long-temps avoient quitté leurs travaux. [MASK] a versé ses pavots-sur le monastère.
+
+['cela', 'donc', 'tout', 'pourquoi', 'DIEU']	Charles	Hélas ! il n’est plus de printemps, il n’est plus de nature, il n’est plus d’harmonieuse lyre pour le proscrit de l’univers.Le vent nocturne agite les arbrisseaux de la forêt. Dieu puissant ! pourquoi [MASK] s’est-il brusquement arrêté ?
+
+['lui', 'le', 'vous', "l'", 'la']	Palzo	furieux, et comme en démence : — Encore du sang ! s’écrie-t-il ; ce fer n’en a donc point assez versé !... Me »nez-moi vers [MASK]. — Grand Dieu ! dit la vierge d’Underlach épouvantée, qu’allez-vous faire !
+
+['</s>', 'qui', 'il', 'Il', "c'"]	Elodie	Leur colossal aspect élève l’homme, ce roi de la nature, dont la pensée dépasse autant les hauteurs du globe que son âme les merveilles de la création.[MASK] est au pied de la montagne redoutée. Ecbert et quelques chevaliers l’environnent.
+

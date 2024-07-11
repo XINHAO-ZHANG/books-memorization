@@ -1,0 +1,200 @@
+['donc', 'bien', 'dit', 'dis', 'toi']	Stani	[MASK], si tu me trompes, gare à toi ! » Et, poussant la porte de l’hôtel, elle disparut rapidement. Mais aussitôt, se ravisant, elle revint sur ses pas pour crier à son amie : « Viens-tu ? »
+
+['elle', 'il', 'chacun', 'on', 'celle-ci']	Ginette	L’espiègle ne dit rien, mais en fit la remarque, et cette remarque, à l’instant, elle la mit dans son sac aux réserves. Ceci demande un mot d’explication. Nous le savons, [MASK] avait un tour d’esprit à elle.
+
+['moi', 'le', 'la', 'là', 'cela']	Aurore	Ayant l’esprit très souple, elle en avait même tiré parti. « Oui, c’est cela, ma cousine, avait-elle dit, laissez [MASK] se reposer un peu, et moi, pendant ce temps, j’apprendrai mes leçons tout en me promenant. »
+
+['lui', 'celle-ci', 'elle', 'celui-ci', 'marie']	Aurore	Je reviendrai te chercher vers cinq heures. Jusque-là promets-moi d’être très raisonnable, afin de ne laisser de ton court séjour ici qu’un excellent souvenir. » Disant ces mots, il l’embrassa, embrassa également [MASK], et quitta le salon, puis l’hôtel.
+
+['maman', 'toi', 'moi', 'enfant', 'papa']	Ellen	non, et si vous êtes toutes les trois bien sages, si vous obéissez à votre chère maman, si surtout toi, [MASK], tu ne prends aucune colère, j’irai vous voir très souvent. » Il ajouta presque aussitôt : « Nous voici arrivés. »
+
+["c'", 'il', 'ceci', 'elle', 'ce']	Trina	C’est qu’aussi, sa vie chez sa marraine est des plus monotones, et [MASK] est un vrai fléau.... » Elle réfléchit encore, fit un bond sur sa chaise, et cria : « Oh ! » L’Anglaise s’arrêta, croyant avoir tiré maladroitement quelque mèche rebelle
+
+['artagnan', 'père', 'jean', 'comte', 'mère']	Aurore	— Qui te parle de la juger ? Consens seulement à aller la trouver : tu feras toutes sortes d’excuses ; aux excuses, tu joindras les plus belles promesses ; moi, je viendrai à la rescousse, et tes arrêts seront levés. — Non, dit résolument [MASK].
+
+['</s>', 'il', '...', 'tu', 'Il']	Stani	. Tu es un sans cœur et un sol. » [MASK] n’était pas susceptible : il ne se fâcha pas ; et, se recouchant sur ses chaises, se plaignit de nouveau d’un grand mal de tête. Sa sœur le quitta.
+
+['elle', ',', 'et', 'en', 'qui']	Ginette	[MASK] fut prête la première. Il ne fallait pas grand temps à notre espiègle pour mettre chapeau et manteau. Quant aux gants, elle ne les enfilait, pour l’ordinaire, que chemin faisant ; assez mauvaise habitude chez une fillette de son âge.
+
+[',', 'il', '"', ')', 'qui']	Ginette	[MASK] s’arrêta, et, pendant un instant, regarda son amie. « Ah ! ma belle princesse, s’écria-t-elle ensuite, tu es cent fois plus jolie qu’elle ! » Puis, se remettant à marcher, elle continua avec une ardeur incroyable :
+
+['eugénie', 'adèle', 'emma', 'alice', 'isabelle']	Aurore	Les trouva-t-elle ? Je ne sais. Bien que très charitable, elle était peu compatissante : son âme hautaine semblant planer au-dessus des misères humaines. Telle est la femme qui, au soir de sa vie, devint la marraine, la mère adoptive d’[MASK].
+
+['elle', 't-elle', 'celle-ci', 'alice', 'berthe']	Geneviève	« Ma tante, dit [MASK] en s’approchant, je vous demande bien pardon : j’avais égaré ma ceinture, et.... » Mais elle s’arrêta et devint écarlate, s’apercevant que, dans sa précipitation, elle avait noué et la diable deux rubans autour de sa taille.
+
+['elle', "c'", 'il', 'tu', "j'"]	Aurore	Alors, invitez-nous bien vite. « Vous verrez comme [MASK] est jolie ! grande ! distinguée ! parfaite ! Ah ! vous serez ravi de la connaître ; car enfin, elle est pour vous presque une inconnue : depuis neuf longues années, vous ne l’avez pas vue.
+
+['elle', 'moi', 'lui', 'présent', 'elle-même']	Aurore	Quant à [MASK], l’idée ne lui était même pas venue de mettre sa marraine au courant des divers incidents qui, depuis deux fois quarante-huit heures, occupaient, ses jours et ses nuits. Pauvre petite ! elle vivait en étrangère sous le toit de celle qui l’avait recueillie !
+
+['elle', 'elle-même', 'pénélope', 'joyce', 'julie']	Aurore	? Elle y pensa le soir. Elle y rêva la nuit. Quant à [MASK], avant de s’endormir, agenouillée près de son lit, elle avait ainsi terminé sa prière : « Faites, mon Dieu, que mon tuteur m’aime ! «
+
+['moi', 'toi', 'vous', 'nous', 'jamais']	Midge	il court mieux que [MASK], et je suis très pressé. » Il était, en effet, pressé : il avait hâte de voir celle qu’une heure auparavant il croyait encore seulement sa pupille, de lui ouvrir ses bras, de la nommer sa nièce, la fille de son cœur ;
+
+['on', 'il', 'elle', "j'", "l'"]	Aurore	Glacée d’horreur, l’enfant pousse un cri, et de ses deux petites mains se bouche les oreilles. Telle est la scène de deuil qu’après neuf années écoulées [MASK] a revue. Cette fois, elle n’a pas crié, mais elle s’est évanouie.
+
+['elle', 'marguerite', 'marie', 'henriette', 'jeanne']	Aurore	Vivant très isolée à l’hôtel de la chanoinesse, elle s’était, de bonne heure, renfermée en elle-même, sa fierté l’ayant, de très bonne heure aussi, préservée des contacts vulgaires. Mais si [MASK] parlait peu, elle pensait beaucoup.
+
+['elle', 'il', "c'", 'dieu', 'tout']	Michel	pour la première fois, elle la quittait sans l’embrasser. Elle aussi la blâmait ! elle aussi la méconnaissait ! Oh ! combien elle eût voulu pouvoir pleurer. Mais [MASK] était là.... Devant lui, elle se montra calme, et parvint à retenir les larmes toujours Prêtes à lui échapper.
+
+['</s>', 'il', 'elle', 'et', 'Il']	Aurore	» ajoutera-t-elle, pensant à toi. « Bref, ma chérie, grâce à moi, elle le placera sur un grand piédestal, et, de là, te mettra dans son cœur. » [MASK] embrassa son amie, en l’appelant sa chère follette.
+
+['exemple', 'hasard', 'là', 'moments', 'elle']	Ginette	Bientôt, elle ajouta d’un air tout à fait bon apôtre : « Si je ne puis interroger, m’est-il du moins permis de chercher à comprendre ? » A ces mots prononcés par [MASK], le regard de la chanoinesse alla de l’enfant au père et du père à l’enfant.
+
+['agir', 'aimer', 'attendre', 'entendre', 'obéir']	Aurore	« Ma tante, dit-elle, donnez-moi la grâce d’[MASK]. — Non pas sa grâce, lui répondit la chanoinesse : elle n’en voudrait pas ; mais portez-lui l’ordre formel de reprendre ce soir sa place à ma table. »
+
+['le', 'mon', ',', 'ton', 'la']	Geneviève	Il me semble.... — Il te semble mal, ma chère, interrompit vivement [MASK]. Oh ! je t’en prie, laisse aux Moussières toutes tes idées noires. » Et soulevant à demi son rideau : « Tiens, regarde le ciel, dit-elle...
+
+['elle', 'marguerite', 'marie', 'adèle', 'marthe']	Ginette	; puis, comme son maître, elle détourne la tête, et sa vieille voix est tremblante quand elle adresse à l’orpheline ses meilleurs souhaits de bienvenue. Plus que jamais, [MASK] est aux aguets. Elle s’étonne d’abord, puis murmure le mot mystère.
+
+[':', '"', '.', 'un', 'la']	Geneviève	On l’attendait d’une minute à l’autre. « Et la petite fille ? demanda [MASK]. — Elle ! pauvre chère mignonne ! répondit la servante, elle était toute blanche et pleurait doucement. Mais tenez, la voilà qui regarde de notre côté.
+
+['</s>', 'il', '--il', "--c'", "c'"]	Ginette	Il est des enfants qui, très prompts à promettre, oublient facilement ce qu’ils ont promis. [MASK] était de ces enfants. D’ailleurs demander à l’espiègle plus d’un quart d’heure de sagesse, c’était demander l’impossible.
+
+['se', 'elle', 'il', 'qui', 'lui']	Aurore	Cette fois, elle n’a pas crié, mais elle s’est évanouie. A un tempérament naturellement vigoureux, [MASK] joignait une grande force de volonté, et plus encore une bonté d’âme telle que la pensée d’inquiéter ou d’attrister ceux qu’elle aimait lui causait une souffrance réelle.
+
+['celle-ci', 'ne', 'je', 'déjà', 'chacun']	Stani	Je regarde encore : Mme la chanoinesse écrivait toujours, et ne paraissait pas plus se soucier de la lettre placée devant elle, que [MASK], aujourd’ hui, se soucie de son premier pensum.... « J’attends.... Trois minutes se passent ; puis cinq ;
+
+['dieux', 'circonstances', 'hommes', 'médecins', 'parents']	Moussières	mais il m’a semblé que vous seriez, à coup sûr, bien aise de connaître la petite fille qui a l’honneur de vous écrire. « Cette petite fille est aujourd’hui très malheureuse : elle a un vrai spleen d’anglaise. Les [MASK] le lui ont donné.
+
+[',', 'et', 'il', "j'", 'elle']	Aurore	[MASK] écoute ses paroles. La surprise entr’ouvre ses lèvres, l’émotion fait battre son cœur ; dans ses yeux bleus se lisent les mille sentiments divers qui agitent son âme ; mais, digne nièce de son oncle, elle est forte, elle est calme, elle reste debout.
+
+['lui-même', 'nouveau', 'elle-même', 'peine', 'demi']	Lily	Regardez : moi, je ne pleure pas. » Et l’enfant, rejetant en arrière sa tête fine et déjà expressive, essayait de sourire à [MASK] ; mais, malgré ses efforts, une larme perlant à sa paupière roula lentement sur sa joue.
+
+['famille', 'chateaubriand', 'guise', 'dieu', 'substitution']	Geneviève	Comment admettre, en effet, que le père de [MASK] pût consentir à un nouvel éloignement ? Mais l’espiègle bientôt releva la tête. Ses yeux noirs brillèrent, et sa bouche sourit. Son amie respira librement, et, comme une heure auparavant, répéta : «
+
+['qui', 'et', 'elle', 'mère', 'père']	Ginette	[MASK], en rentrant, la rencontra comme elle descendait l’escalier de l’hôtel pour retourner à son couvent. Sa jeune amie l’accompagnait. Toutes deux remarquèrent le chagrin de l’enfant, et voulurent en connaître la cause.
+
+['rodin', 'celui-ci', 'julien', 'bussy', 'elle']	Aurore	? demanda [MASK] en souriant. — Peut-être.... En tous cas, moi, je n’en ai que faire : je préfère à l’azur du ciel l’indigo oncé de tes yeux. » Deux chauds baisers suivirent ces paroles.
+
+['tout', ',', '...', "qu'", '"']	Ginette	« Ainsi pas d’accident ! pas même un semblant de semblant de la plus petite noyade ! pensait [MASK] en écoutant le baronnet. Rien qu’un quadruple souvenir !... Mais j’aime mieux cela. En vérité, j’étais tout à fait folle quand je voulais placer un drame dans ce très pacifique étang.��
+
+['il', 'elle', ',', 'on', 'je']	Cambridge	Peu après, il confia Ce projet à son frère. Celui-ci crut d’abord à une fantaisie passagère, et ne s’en émut point. « Finissez avant tout vos études, dit-il. Dans quelques mois [MASK] vous ouvrira ses Portes.
+
+['il', 'elle', 'et', 'puis', 'jésus']	Ginette	Cependant, [MASK] reprit : « Allons, décide-toi : il te faut obtenir ta grâce. Vois-tu ? ma chère, sans toi, je n’ai pas d’appétit, et tu ne veux pas, je suppose, m’exposer à mourir de faim.
+
+['toi', 'vous', 'elle', 'moi', 'lui']	Stani	« C’est égal, je l’aime. D’abord, elle est très bonne pour [MASK] et pour moi, et puis, papa, elle vous aime el vous trouve parfait. » Là-dessus, l’enfant caressa son père, et bientôt ajouta : «
+
+['elle', 'elle', 'lui', 'moi', 'elle-même']	Aurore	Elle avait été très aimable pour [MASK] et pour elle. Pourtant.... — Oh ! les pourtant n’étaient pas rares — pourtant, elle l’avait quelque peu grondée, et l’avait accusée d’être un vrai tourbillon. Un tourbillon, elle !
+
+['il', 'elle', 'on', 'se', 'et']	Aurore	. Comme à travers un voile sombre, [MASK] revoyait tout cela, et des larmes montaient à ses yeux. Dix minutes à peu près se passèrent ; les tisons étaient consumés. La fillette eut un léger frisson ; elle sonna et demanda du feu.
+
+['elle', 'il', 'celle-ci', 'on', 'je']	Aurore	Je viens habiter avec toi. » Et comme [MASK] la regardait surprise, interdite : « Mais embrasse-moi donc, ajouta la fillette : mon projet a enfin réussi. Papa a demandé à ta marraine de me prendre chez elle ; ta marraine y a consenti.
+
+['</s>', 'il', '--il', '--je', 'je']	Parry	comme moi, il était l’unique soutien momentané de l’enfant que ce maître, en mourant, lui avait confiée ; comme moi, il conduisait la petite orpheline à son tuteur, à vous, sir Leslie. « [MASK] souffrait depuis longtemps d’une ancienne blessure.
+
+['</s>', 'il', 'elle', 'qui', ',']	Aurore	[MASK] est pâle et immobile, ses yeux sont clos, ses lèvres sont serrées. « Elle est morte ! crie-t-elle d’une voix étranglée. Ah ! mon Dieu, elle aussi, elle est morte !.. » A ce cri, tout le monde se lève
+
+["c'", '</s>', 'marie', 'elle', 'thérèse']	Ginette	Voulez-vous vous faire pardonner votre esprit : ne l’exercez jamais aux dépens des travers d’autrui. » [MASK] était une bonne petite fille : elle cessa aussitôt de mimer les fermiers, et embrassa sa gouvernante. C’était sa manière habituelle de remercier d’un conseil.
+
+['elle', 'il', "l'", ',', "m'"]	Aurore	[MASK] avait légèrement rougi. « Vous avez raison, mademoiselle, dit-elle : je suis ingrate, en effet. Depuis mon arrivée ici, ma Marraine est bonne, indulgente pour moi, affectueuse même, et c’est à votre généreuse influence que je dois cet heureux changement.
+
+['et', 'mais', '"', 'dit-il', 'puis']	Geneviève	« Il était si souffrant ! ajouta [MASK], voyant que sa gouvernante ne se pressait pas de répondre, peut-être est-il malade maintenant ! Mademoiselle, c’est de la charité chrétienne que d’aller visiter ce brave homme. »
+
+['lui-même', 'propos', 'nouveau', 'demi', 'moi-même']	Geneviève	» Puis, d’une voix où perçait une ironie légère : « A votre aise », répondit-elle enfin à [MASK]. Elle ajouta : « Parlez, je suis curieuse de savoir ce qu’une tête de linotte peut contenir de bon sens, de raison. »
+
+['1', '12', '1847', '1815', '1825']	Dalécarlic	. Elle avait, en effet, tant de choses à examiner ! Depuis cette peau d’ours blanc de [MASK], dont il a été fait mention plus haut, et qui, de nouveau, recouvrait les jambes de sa Seigneurie,
+
+['"', 'monsieur', 'madame', '...', 'oui']	John	Seul le coin de nos deux amies ne renfermait que peu d’enfants et quelques rares promeneurs. « Oh ! [MASK], dit tout à coup une petite voix douce, regardez donc là, tout droit devant vous. C’est l’une des deux petites filles qui ont fait l’aumôneà l’aveugle d’hier.
+
+[',', 'paul', 'alice', 'jeanne', 'georges']	Aurore	demanda [MASK] à voix basse. — Ne t’en déplaise, ma très chère, répondit en riant l’espiègle, je prends l’Occasion aux cheveux. » Moins d’une heure et demie après, le landau de sir Leslie renfermant nos héroïnes s’arrêtait devant le Cottage.
+
+['elle', 'on', 'il', 'cela', 'celle-ci']	Ginette	— Oh ! les pourtant n’étaient pas rares — pourtant, elle l’avait quelque peu grondée, et l’avait accusée d’être un vrai tourbillon. Un tourbillon, elle ! Où donc sa belle-mère avait-elle la tête ? Si [MASK] tournait, elle ne tournoyait pas.
+
+['mais', 'et', 'non', 'as-tu', 'ah']	Aurore	Et, s’approchant de la pendule, elle arrêta le balancier. « Ah ! que je voudrais, reprit-elle, suspendre ainsi la marche du temps ! » Elle ajouta : « [MASK], as-tu jamais arrêté les pendules ?
+
+['se', 'il', 'les', 'le', 'ils']	Geneviève	[MASK] jouait. Son compagnon de jeu était un gros chat gris. Il se nommait Raton. Familier du passage et, plus encore, de l’église, Raton avait un succès fou parmi garçonnets et fillettes lorsque, trouvant portes ou fenêtres ouvertes, il se glissait furtivement dans la chapelle des catéchismes
+
+["c'", '"', 'elle', 'enfin', 'et']	Aurore	? » Dompter [MASK], faire de cette enfant devenue sa filleule, sa fille presque, une cire molle qu’elle Pourrait à son gré pétrir et façonner, tel était le rêve de la chanoinesse, le but que, depuis des années, elle s’était proposé.
+
+['debout', 'qui', 'assise', 'souriante', 'pâle']	Germaine	? — En auriez-vous douté, madame la chanoinesse ? lui demanda sa jeune parente, [MASK], assise à ses côtés. — Depuis neuf ans, je n’ai trouvé en elle que réserve et froideur. — Lui avez-vous jamais offert d’être sa mère ?
+
+['lui', 'moi', 'vous', 'toi', 'nous']	Ginette	Elle s’est dit qu’après tout, pour avoir sa parente avec elle, elle pouvait bien — une fois n’est certes pas coutume — se charger de [MASK] avec tous ses défauts. » L’espiègle souriait, disant ces derniers mots ;
+
+[',', '...', ';', ':', '....']	Geneviève	— Oh ! c’est trop fort ! s’exclama [MASK]. Jolie ! elle ! Mon cher, tu as perdu l’esprit. Et son cou de cigogne.... et ses pieds et ses mains d’Holopherne.... et ses cheveux d’un rouge caroubier....
+
+['tout', ':', 'jeanne', 'louise', 'moi']	Aurore	« Ce tuteur était un barbare : non seulement, il ne garda pas chez lui sa pupille, mais encore il la confia à une chanoinesse qui..... — Ginette, interrompit [MASK], il est cinq heures trente-cinq minutes, et ton père t’attend. — Oui, oui.
+
+['il', 'c', "c'", 'c', 'elle']	Richard	Quand il revint, [MASK] était parti, lui laissant comme adieu la lettre qui suit : « Pardonnez-moi, mon frère : je vous quitte ! L’inconnu m’attire, me fascine : il me faut un air plus pur ; il me faut un soleil plus chaud
+
+['-t-il', 't-il', '-il', '-t-elle', '*']	Geneviève	— C’est que.... ma tante, objecta [MASK], qui, malgré le refus de sa respectable parente, poursuivait toujours néanmoins son idée, c’est que.... j’aimerais beaucoup mieux sortir en voiture. » Et elle se hâta d’ajouter : «
+
+['non', '-', '...', 'oui', '"']	Geneviève	demanda la première interlocutrice. — [MASK], bien entendu. — Monsieur l’abbé !... Taisons-nous ! » fit. en ce moment même une voix dans le groupe. A ces seuls mots : « Monsieur l’abbé ! » les fillettes se regardèrent ;
+
+['dieu', 'chacun', 'lui-même', 'elle', 'lui']	Ginette	« Il n’est point de pires agitations et de pires tourments que les tourments et les agitations causés par l’attente, » a dit quelqu’un bien longtemps avant moi. Cela est vrai : [MASK], à ses dépens, devait en faire la triste expérience.
+
+['</s>', '"', ',', 'on', 'il']	Bridgett	mais lui ! c’est mon dear John : laissez-moi avec lui. — Enfant, reprit le baronnet, votre désir sera rempli. » Et, de nouveau, étendant la main, il tira cette fois le cordon de la sonnette. [MASK] s’empressa d’accourir.
+
+["s'", 'elle', 'mère', ',', 'blanche']	Ginette	[MASK] était déjà levée et attendait, non sans impatience, pour aller embrasser son frère que le docteur l’eût quitté. Aussi, lorsque de sa fenêtre elle eut vu ce dernier remonter en voiture, sortit-elle promptement de sa chambre et gagna-t-elle l’escalier.
+
+['elle', 'elle-même', 'celle-là', 'celle-ci', 'jeanne']	Aurore	! crie-t-elle d’une voix étranglée. Ah ! mon Dieu, elle aussi, elle est morte !.. » A ce cri, tout le monde se lève ; puis on s’avance, on se presse ; mais [MASK], déjà, a été secourue.
+
+['</s>', 'elle', 'personne', 'rien', 'aucune']	Aurore	Cependant elle ne souffla mot. [MASK] lui donna alors quelques ordres concernant les objets qu’elle voulait emporter. Elle le fit comme toujours avec politesse, mais de ce ton hautain qui lui était habituel chaque fois qu’elle lui parlait.
+
+['marguerite', 'robert', 'catherine', 'maurice', 'georges']	Aurore	. — Mon tuteur est excellent, dit [MASK] avec conviction. — A la bonne heure.... Pourquoi es-tu si pâle ? — Je ne sais, répondit la fillette, dont une faible rougeur colora le visage. Ce voyage m’impressionne.... m’effraye....
+
+['"', ')', ',', 'et', 'de']	Stani	— Vous partez ? demanda [MASK]. — Oui. — Reviendrez-vous demain ? — Probablement. » Et se tournant vers sa bonne allemande, la fillette ajouta : « Maintenant, nous rentrons. — Ce n’est pas malheureux !
+
+['premier', 'première', '"', 'époque', 'second']	Ginette	[MASK], pour qui tout était un spectacle, et —vu la tournure de son esprit — le plus souvent un spectacle amusant, passa le temps que dura le premier service à examiner la physionomie généralement assez grotesque de la plupart des fermiers.
+
+['un', 'amour', 'abord', 'elle', 'où']	Aurore	Quoi de plus naturel ! elle est votre pupille. Le voulez-vous ? — Bien volontiers. — Bon. Maintenant, écoutez : « Je suis presque la sœur d’[MASK]. Tout est commun entre nous : j’ai partagé souvent avec elle papa ;
+
+['celui', 'suzanne', 'madeleine', 'charles', 'eugène']	Rachel	Aussi, lorsque de sa fenêtre elle eut vu ce dernier remonter en voiture, sortit-elle promptement de sa chambre et gagna-t-elle l’escalier. Comme elle était à mi-chemin, c’est-à-dire au premier étage, elle aperçut [MASK] qui, malgré l’heure peu avancée, pénétrait chez sa belle-mère.
+
+['paul', 'jésus', 'pierre', 'henri', 'jean']	Jessie	. » Bientôt après, elle ajouta : « Aviez-vous donc quelque chose de pressant à lui dire ? —Je voulais, répondit [MASK], le prier de donner de mes nouvelles à ma mère. — A votre mère ! fit l’espiègle, jouant l’étonnement.
+
+[':', 'le', 'la', 'catherine', 'caroline']	Geneviève	Je n’avais point mérité d’être ainsi punie, et si j’ai dû me soumettre, je ne saurais m’humilier en demandant pardon. — Orgueilleuse ! » s’écria [MASK]. Et frappant du pied violemment, elle répéta encore : « Orgueilleuse ! orgueilleuse ! »
+
+['marcel', 'celui-ci', 'jacques', 'marguerite', 'napoléon']	Geneviève	Oh ! quand même je serais aveugle, je te reconnaîtrais toujours. — Ça c’est gentil ! fit [MASK]. Oui, c’est moi ; mais encore, qui est-ce ? Je ne suis pas seule, ma chère : quelqu’un est entré avec moi.
+
+['et', 'qui', 'lui', 'jacques', 'jeanne']	John	Comme se parlant à lui-même, [MASK], alors, murmura lentement : « Elle était bien petite encore, et ne comprenait pas. Pour sécher ses larmes, car elle pleurait ne voulant pas porter le deuil, je dus faire faire à sa poupée une robe noire semblable à la sienne.
+
+['il', 'elle', 'on', 'lui', 'lui-même']	Geneviève	A un moment donné — et ce moment était précisément celui où [MASK] avait parlé de l’étang — ses vieilles mains furent prises d’un léger tremblement. L’espiègle ne dit rien, mais en fit la remarque, et cette remarque, à l’instant, elle la mit dans son sac aux réserves.
+
+['elle', '</s>', 'on', '-', 'il']	Ginette	— Hélas ! non, ma belle demoiselle, » répondait l’humble fonctionnaire. Il répondit cela pendant douze longs jours. [MASK] en perdait l’appétit, le sommeil ; elle en avait maigri. Enfin le treizième jour, qui était un dimanche, le facteur dit oui.
+
+[',', 'il', 'et', 'elle', 'puis']	Ginette	[MASK] essuya ses paupières humides qui voilaient l’éclat de ses yeux, puis fixa sur la chanoinesse un regard à la fois triomphant et malicieux. Ce regard éloquent semblait dire : « L’avez-vous entendu, ma tante, et désormais me croirez-vous ? » «
+
+['elle', 'se', 're', 'la', 'celle-ci']	Ginette	Quand elle apprit cette double nouvelle, la Maladie de son frère et son propre et très Prompt départ, [MASK] fondit d’abord en larmes ; Puis elle courut chez son père. « Papa, dit-elle, se jetant à son cou, nous partons tous.
+
+['</s>', '"', ')', '_', '--non']	Jessie	— Quinze milles ! murmura l’enfant, quinze milles ! combien cela peut-il faire de lieues ? [MASK], tout comme moi, doit l’ignorer, bien sûr. Il faut pourtant que je le sache. » Et quittant brusquement la servante, elle regagna vite sa chambre.
+
+['cela', 'elle', 'elle-même', 'rien', 'lui']	Stani	Et fidèle à son habitude, elle mit dans le sac aux réserves sa nouvelle observation. Puis, sans songer davantage à [MASK], elle chercha en son esprit la cause plus ou moins probable d’une émotion qui l’étonnait. Sa recherche ne fut pas bien longue.
+
+['elle', 'jeanne', 'marguerite', 'celle-ci', 'elle-même']	Ginette	» Et elle redescendit auprès de sa maîtresse. Si [MASK] trouvait agréable de se servir seule, elle n’en était pas pour cela plus habile ; aussi, quand sonna le dîner, n’avait-elle réussi qu’à se déshabiller et à mettre sa chambre en désordre.
+
+['en', ',', 'et', ':', 'cela']	Geneviève	Vous m’aviez pourtant bien promis de ne Plus vous moquer de cette bonne miss Barbara Hutley que j’aime, et de ne point parler de moi. — Ai-je bien pu vous promettre cela ! fit [MASK] en secouant la tête. Au fait, c’est possible
+
+['il', 'on', 'et', 'celui-ci', 'qui']	Michel	Mais.... et ma ceinture, où est-elle ? » On chercha le carton aux rubans, ce qui fit perdre au moins trois minutes. Comme on venait de le trouver, [MASK] frappait à la porte : il prévenait ces demoiselles que Mme la chanoinesse attendait.
+
+['le', "l'", 'la', 'les', 'mon']	Aurore	« Ah ! quel affreux pays ! monsieur : il y pleut le matin, le soir, la nuit, le jour, toujours.... C’est pourquoi je voudrais le quitter, sans pour cela quitter [MASK], et, cette après-midi, l’idée m’est venue — oh ! comment vous le dire !
+
+[',', 'se', 'et', 'recueille', 'il']	Aurore	[MASK] se recueille, et bientôt se souvient. Non, ce n’est point la fatigue et la chaleur seules qui l’ont fait ainsi défaillir, c’est encore l’émotion violente, soudaine, d’une impression, qui sait.... d’un souvenir.
+
+['alice', 'adèle', 'anne', 'émilie', 'eugénie']	Aurore	Sa chambre, attenante à celle d’[MASK], est grande, gaie et bien ornée. Elle y sera heureuse, et n’a qu’un seul regret : être loin de son frère Stani. Tout aussitôt, une idée germe dans sa tête.
+
+['on', 'il', 'elle', 'qui', 'y']	Aurore	« Véritablement, se dit-elle, [MASK] a de singulières idées ! Que vient faire ici l’ingratitude à Propos d’une vieille poupée ? Oh ! bien, si nous devons de la reconnaissance aux jouets qui nous ont amusés, il me faut l’avouer, je suis une fameuse ingrate.
+
+[',', 'le', '...', 'et', '.']	Geneviève	— Tant pis, s’écria [MASK]. J’aimerais mieux toute autre chose : une bonne entorse, par exemple. Cela, du moins, servirait mon projet. — Ton projet ! Tu as donc un projet ? — Oui, ma chère, et un fameux encore !
+
+['</s>', 'il', '_', '"', 'elle']	Ginette	; vint un moment où les boucles de ses cheveux lui effleurèrent la joue. Celle-ci, alors, de sa main fine et blanche caressa le front de l’enfant. [MASK] se redressa sous cette douce caresse, et fixant sur la chanoinesse un regard ardent :
+
+['marie', 'anne', 'madeleine', 'henriette', 'louise']	Ginette	» Le même tremblement de mains qui, tout à l’heure, avait frappé [MASK], la frappa encore une fois. Et comme la femme de charge paraissait ne vouloir pas répondre, elle reprit : « Je parle si mal l’anglais ! ma bonne mistress Greham ;
+
+['"', '-', '--', 'jeanne', 'mais']	Bell	L’Anglaise était donc accourue ; et, tout en dénouant un ruban par-ci, un cordon par-là, répondait assez brièvement, mais en très pur anglais, aux questions que sa jeune maîtresse lui adressait en français : [MASK] avait-elle bien mangé sa soupe ?
+
+['marguerite', 'marie', 'marthe', 'sophie', 'geneviève']	Ginette	Mais la tristesse de [MASK] ne fut pas de longue durée. Bientôt elle fit ce que, d’ailleurs, elle avait l’habitude de faire chaque fois qu’une idée noire lui venait à l’esprit : elle secoua la tête, et l’idée noire aussi, et...... regarda dans le bleu.
+
+['elle', 'on', 'il', 'mère', ',']	Aurore	[MASK] eut beau l’interroger, elle demeura obstinément muette, ou parla de la pluie qui tombait à torrents. C’était pour elle, paraît-il, un sujet vraiment inépuisable. Le soir venu, elle se coucha fort promptement, en déclarant qu’elle tombait de sommeil.
+
+['il', 'qui', 'lui', 'et', 'elle']	Ginette	, quand il s’appelle sir Leslie Dudlow, et qu’il veut, avant tout, rester digne. Trois jours plus tard, à sa propre question, [MASK], assurément, eût fait cette réponse ; mais ne connaissant point encore son hôte, elle avait lieu d’être étonnée.
+
+['nuit', 'lit', 'dormir', 'sommeil', 'et']	Germaine	Et rencontrant le regard de [MASK], ce bon regard toujours calme et doux : « Mademoiselle, demanda-t-elle, sans songer à finir la phrase commencée, apprenez-moi ce qu’il faut que je fasse pour rester comme vous très tranquille, quand pourtant je suis agitée
+
+['ceci', 'simplement', 'alors', 'ainsi', 'donc']	Aurore	— Oh ! si, répondit [MASK] : je lui envoie mes souvenirs, mes amitiés et les vœux que je forme pour sa très prompte guérison. « A ce dernier envoi, j’ai bien quelque mérite, ajouta la fillette en rougissant un peu ;
+
+[',', ':', ';', '.', '"']	Geneviève	« Il est de mon cru, expliqua bien vite l’espiègle. — Ah ! dit le jeune garçon en étouffant un baîllement, de ton cru.... Ce doit être bizarre. — Peut-être, répliqua [MASK]. Ecoute bien : je commence. »
+
+['une', 'un', 'plus', 'moins', 'la']	Geneviève	— Oh ! pas grand’chose, dit le bonhomme : un mal de cœur, un malaise, un rien. — Pourquoi est-il parti ? demanda encore [MASK]. — Ça, je ne puis pas le dire à mademoiselle. Dame !
+
+['jeanne', 'marie', 'marguerite', 'dieu', 'jésus']	Geneviève	» La foi de [MASK] était inébranlable : à elle, le doute ne vint pas. « Vous verrez !... » répondit-elle d’un petit air triomphant. Et elle s’en fut toute joyeuse écrire à son frère Stani ce qui lui arrivait d’heureux.
+

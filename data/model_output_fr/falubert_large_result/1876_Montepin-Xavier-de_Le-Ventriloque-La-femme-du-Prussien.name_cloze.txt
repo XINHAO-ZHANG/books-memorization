@@ -1,0 +1,200 @@
+['dans', 'à', "l'", 'une', 'de']	Léonide	Après avoir fermé derrière lui les portes de l’hôtel, puis la grille, et mis dans sa poche toutes les clefs, il fit monter [MASK] en voiture et s’assit à côté d’elle en disant au cocher : — Rue Saint-Lazare... au chemin de fer...
+
+['la', '...', ',', "l'", 'le']	Daniel	— répéta la jeune fille. — Oui... — continua l’industriel en désignant [MASK]. — Monsieur... Monsieur dont il y a quelques minutes à peine je ne soupçonnais point l’existence !... — Il me vient en aide avec une générosité sans exemple, avec une noblesse inouïe
+
+['Il', 'Elle', 'il', 'On', 'Je']	Munito	Une seconde plus tard il eût été trop tard... [MASK] se rassembla comme un jaguar qui voit venir sa proie et fit un bond terrible... C’en était fait de l’assassin si les mâchoires du dogue lui saisissaient la gorge dans leur étau formidable.
+
+['le', ',', 'se', 'en', 'tout']	Daniel	L’officier éprouvait pour [MASK] une instinctive répugnance, un insurmontable mépris, et sans être encore à même d’appuyer sur des bases solides son jugement sévère, il voyait en lui un de ces vils gredins qui sont capables à peu près de tout et boivent la honte comme l’eau...
+
+['elle', 'moi', 'toi-même', 'celle-ci', 'celle-là']	Rébecca	— Le cœur de l’homme a l’horreur du vide... — Si tu romps avec [MASK], c’est que tu es pris par une autre... — Peut-être. — Y aurait-il de l’indiscrétion à te demander quelques détails ?...
+
+['</s>', 'On', 'Il', 'qui', 'on']	Passecoul	Sans doute aucune favorite ne l’attendait cette nuit-là à sa maison du Vieux-Rempart... Le jeune officier rassuré regagna rapidement son logis, et nous ferons grâce à nos lecteurs des réflexions de toute nature qui, chemin faisant, se succédèrent dans son esprit. [MASK] l’attendait devant la porte.
+
+['Il', 'il', 'et', '</s>', '.Il']	Passecoul	— Elle pouvait à la vérité tout compromettre, mais la sécurité de la cachette serait compromise bien plus gravement encore s’il ne commettait cette imprudence. [MASK] se mit à plat ventre, enflamma une allumette bougie et regarda son œuvre. Il s’en déclara presque satisfait.
+
+['...', 'on', 'la', 'tout', 'QUE']	Georges	— De quelle part ? — demanda [MASK]. — Elle a été apportée par le brosseur de M. le baron de Tournade, et le brosseur ne m’a rien dit, sinon que c’était pressé. — Peut-être sera-t-il nécessaire de répondre...
+
+['le', 'celui-ci', "l'", 'son', 'ce']	Passecoul	Ceci n’empêcha point [MASK], au moment où il allait croiser l’officier, de dévier de la ligne droite avec une maladresse si adroitement calculée que les deux hommes, lancés en sens contraire, se heurtèrent à la façon de deux trains placés sur une seule voie et qui se tamponnent.
+
+['il', 'elle', 'celui-ci', 'chacun', 'Harry']	Raquin	! ! Je le vois épaté !... A l’instant précis où [MASK] prononçait in petto le nom de son jeune collègue, ce dernier reprenait sa place à côté de lui. — Eh bien ! je sais où il est... — dit-il en s’asseyant.
+
+['on', ',', 'en', '-', 'après']	Georges	« Baron DE TOURNADE. » — Il a, mordieu ! ! cent fois raison ! — se dit [MASK] après avoir lu. — Si je tuais ce cher baron, je ne m’en consolerais point... — Pourquoi donc m’étais-je irrité de sa rivalité loyale
+
+['il', 'elle', 'on', 'celui-ci', 'celle-ci']	Daniel	— Elle apprendra bientôt que, quand je m’en môle, le dénoûment de la pièce est tragique ! ! Tout en monologuant ainsi, [MASK] souleva le corps inanimé et le plaça sur le divan, en ayant soin d’amonceler les oreillers sous la tête pâle de la malheureuse femme.
+
+['madame', 'Madame', 'la', 'dame', 'monsieur']	Georges	— Ah ! madame, n’ayez pas peur !... — murmura [MASK]. — Vous savez bien que c’est moi !... Vous étiez sûre que je viendrais puisque vous m’aviez reconnu... — J’espérais que vous m’aviez oubliée... — balbutia la jeune femme.
+
+['il', 'on', 'trou', 'en', '...']	Passecoul	— C’est ça qui serait une chance et qui mettrait des atouts dans mon jeu... mais par malheur il ne reviendra pas ! !... — On est bien dans ce berlingot... — Quand [MASK] aura fait ma fortune, je louerai un fiacre à l’année...
+
+[',', 'on', 'et', 'il', 'On']	Georges	Elle allait parler. [MASK] ne lui en laissa pas le temps. — Ah ! — fit-il, — à quoi bon nier ? — Espérez-vous que je vais vous croire ?—Oui, vous m’aimez !... Vous me l’avez dit...
+
+['madame', 'Diane', 'maman', 'Juliette', 'Yvonne']	Daniel	En entendant entrer son mari elle releva la tête et, toute effarée, le regarda. — On devinait dans ses yeux un trouble moral qui touchait presque au délire. — Pourquoi pleurez-vous ? — demanda brusquement [MASK]. — Que craignez-vous ? Que regrettez-vous ?
+
+['à', '#', "d'", '*', '-']	Georges	Depuis quand connaissez-vous la jolie blonde, et depuis quand l’aimez-vous ? — Depuis quelques heures... — murmura [MASK] avec embarras. — En bien, depuis une semaine les yeux bleus de ma voyageuse m’ont mis la tête et le cœur à l’envers...
+
+['madame', 'celle-ci', 'chambre', 'Madame', 'Suzanne']	Léonide	... Le lieutenant se faisait ces questions, et naturellement il ne pouvait pas se répondre. Quoi qu’il en fût, si le mari de [MASK] avait cru consommer la conquête du jeune homme, il s’était trompé.
+
+['Il', 'il', 'Elle', 'On', 'et']	Georges	Ses paupières battaient de l’aile sur ses prunelles obscurcies... Sa poitrine se soulevait convulsivement... Mais enfin elle se ranimait... [MASK] la conduisit ou plutôt la porta jusqu’à un fauteuil sur lequel il l’assit, et où elle demeura immobile, dans une pose inerte et abandonnée.
+
+[',', 'on', 'elle', 'il', 'tout']	Rébecca	Le jeune officier, chemin faisant, pensait : — Décidément les femmes sont d’étranges créatures, et celui qui pourrait se vanter de les comprendre serait un rude malin ! ! — Certes [MASK] ne m’aimait guère et ne se gênait pas beaucoup pour me le laisser voir...
+
+['On', '-', '...', 'vous', 'Vous']	Daniel	— C’est de la folie ! ! — Je ne trouve pas. — Je vous offre dix pour cent... [MASK] saluait sans dire un mot, remettait sous son bras gauche son vaste portefeuille et tournait sur ses talons. Le client l’arrêtait par ces mots :
+
+['On', '...', 'on', 'qui', 'Elle']	Léonide	— Et pourtant elle ne revient pas, et cette porte reste fermée ! ! — C’est plus qu’une cruauté, cela, c’est une injure !... [MASK] oublie tout !... Elle déchire les pages du livre de sa vie où mon nom se trouvait écrit...
+
+['il', 'on', 'elle', 'chacun', ',']	Jobin	Ceci fait, il tordit et roula la feuille et la jeta dans la cheminée où quelques heures plus tard [MASK] devait la retrouver. Il pressa le ressort de son couteau catalan à lame épaisse et bien affilée qu’il glissa tout ouvert dans la poche de côté de sa redingote.
+
+[',', 'se', 'le', 'et', 'on']	Passecoul	[MASK] proclama le café délicieux, but deux ou trois verres de vieille eau-de-vie et quitta la table. — Allez-vous vous coucher tout de suite, mon lieutenant ? — demanda le régisseur. — Je ne tarderai guère, étant plus las que je ne croyais...
+
+[',', 'le', 'lettres', 'gants', 'com']	Raquin	Il tendit cette boîte à [MASK], après avoir fermé les vitres et abaissé les stores, et il dit : — Enflamme ces allumettes l’une après l’autre, en ayant soin de les tenir bien droites pour les faire durer plus longtemps... — Nous avons besoin d’y voir clair...
+
+['E', 'S', '...', 'NE', 'DE']	Léonide	Ce froufrou léger, ce bruit charmant d’une jupe de soie traînant sur le sable, arrivait à son oreille. — Ah ! — murmura-t-il, — je désespérais trop vite, et follement j’allais tout compromettre ! ! — La voici !... O ! [MASK]...
+
+['celui-ci', 'le', 'la', "l'", 'son']	Georges	— Un beau vieillard, de haute taille, fit irruption dans la chambre, saisit [MASK] par les épaules et le pressa de toutes ses forces contre sa poitrine, en s’écriant : — Ah ! cher enfant, comme c’est bon de t’embrasser !
+
+[',', 'qui', 'de', 'se', 'et']	Passecoul	— A tous les étages de la salle les larmes coulaient. — Les femmes se mouchaient avec bruit, et de temps en temps on entendait dans quelque loge éclater un sanglot. [MASK] donna une poignée de main à son collègue et lui dit tout bas :
+
+['DE', 'de', 'le', 'LE', 'NE']	Edouard	— dit-elle. — C’est le cocher Édouard... le vieux que monsieur connaît bien... —Tiens ! ! madame s’en va donc en voyage avec monsieur ! ! Ah ! par exemple, c’est ça qu’est drôle !... — Faites monter [MASK] ;
+
+['-', 'et', ',', 'On', 'on']	Sophie	— Ne faites pas semblant de pleurer, ce serait inutile... — Je vous donne cinq minutes pour filer... [MASK] mit ses poings sur ses hanches. — Eh bien, au fait, ça me va ! — dit-elle. — J’aimais madame, qui est très-bonne ;
+
+['que', ',', 'le', 'de', 'tout']	Georges	Tout allait dépendre de la solution de ce problème. — S’il sait quelque chose, — se dit [MASK], — il ne sera point maître de sa colère... il menacera sa femme, et, dans sa brutalité de sauvage, il s’emportera peut-être jusqu’à la frapper...
+
+['ainsi', 'se', 'enfin', 'passer', 'entrer']	Léonide	— Comme la première, elle n’avait qu’une issue et possédait un cabinet de toilette sans dégagement. Le petit homme ouvrit la porte et s’effaça pour laisser [MASK] passer la première. — Où dois-je placer cette bougie ? — demanda-t-elle.
+
+['Invité', '...', 'JE', 'allumé', 'tout']	Raquin	— Parbleu ! ! et vous me connaissez aussi... Le malheur, c’est qu’on n’y voit goutte... — Qui êtes-vous ? — Je suis [MASK]... — Voulez-vous que j’allume une allumette et que je vous montre ma figure... — Inutile...
+
+['à', ',', 'car', 'aux', ':']	Metzer	— s’empressa de répondre [MASK] du ton le plus humble et avec l’attitude la plus servile. — Elle est depuis ce matin très-souffrante... — J’ai commis tout à l’heure la maladresse de lui demander un peu de musique et d’insister malgré son refus...
+
+[',', 'non', 'très', 'tout', 'et']	saperlipopette	— Ah ! [MASK], ça n’aurait pas été la peine de venir du Gymnase au boulevard Beauséjour pour ne se rien dire en arrivant ! ! — Oui, ils se sont parlé, et ça vous intéressera peut-être de savoir que la conversation dure encore...
+
+['Elle', 'elle', 'Celle-ci', 'Jeanne', 'Il']	Léonide	— Peut-être... — Et, où allons-nous ? — Vous le verrez... [MASK] frissonna, mais elle ne se sentit pas le courage de questionner encore, bien certaine d’ailleurs qu’elle n’obtiendrait aucune réponse catégorique. Passivement elle exécuta les ordres de son mari.
+
+['...', 'de', '8', '2', '4']	Georges	c’est connu... rapport à votre estomac qui n’a plus l’habitude de travailler... — Je serai prudent... — balbutia [MASK], — mais servez-moi vite, je vous en supplie, ou je vais perdre connaissance...
+
+['me', 'B', 'TT', ',', 'deux']	Metzer	— Permettez-moi, — reprit [MASK], — de solliciter de votre complaisance un très-petit service... — Que faut-il faire ?... — M’éclairer simplement jusqu’à ma chambre... — J’ai laissé ma valise de voyageur dans le couloir ou sur une marche de l’escalier...
+
+[',', 'en', "s'", 'et', 'de']	Passecoul	— Avec d’autant plus d’enthousiasme que j’ai une pépie de moineau franc, et que je sécherais avec volupté une chope ou deux de n’importe quoi... — Garçon ! — commanda [MASK] en s’installant à une petite table, — deux bocks et ce qu’il faut pour écrire...
+
+['Pierre', 'celui-ci', 'il', 'Jean', 'chacun']	Georges	Imposez silence aux battements de votre cœur... et suivez-moi... Ayant ainsi parlé si bas que [MASK] devina les paroles plutôt qu’il ne les entendit, la jeune femme, pareille à une ombre légère glissant sur le sol et l’effleurant à peine, se dirigea vers le pavillon.
+
+['elle', 'rien', 'elle-même', 'celle-ci', 'mariage']	Léonide	L’industriel, surpris et charmé, s’écria que le mariage de sa fille avec l’homme qu’il estimait le plus au monde comblerait ses désirs, mais qu’il ne pouvait cependant disposer de [MASK] sans l’avoir consultée.
+
+['le', 'un', "l'", 'ce', 'son']	Passecoul	Chemin faisant il rencontra [MASK], escorté d’un grand gaillard à longues moustaches noires, en petit tenue de chasseur. Ce grand gaillard fit le salut militaire au lieutenant et se tint à l’écart tandis que le brosseur s’approchait de son officier. — Eh bien ?
+
+['Il', 'Elle', 'il', 'elle', 'et']	Daniel	Mais, rassurez-vous, je n’ai rien compris et d’ailleurs, quoique garçon, je sais par ouï dire que les intérieurs les plus unis ne sont point exempts d’orages... [MASK] contraignit sa bouche astucieuse à grimacer un sourire qui ressemblait à une contraction nerveuse.
+
+['en', '...', '-', 'de', ',']	Daniel	... — Où donc allez-vous, chère amie ?... — demanda [MASK] d’une voix mielleuse qui sonnait faux et cachait mal sa profonde irritation intérieure. — Je rentre chez moi... — murmura la jeune femme. — Pourquoi vous éloigner si vite ?...
+
+['le', 'Jean', "l'", 'Pierre', 'il']	Daniel	— Je m explique mal votre surprise, — répliqua [MASK] en accompagnant ses paroles d’un ricanement étrange. — Qui donc, si ce n’est moi, se permettrait à pareille heure d’entrer dans mon logis, et qui donc connaîtrait le chemin de votre chambre ?
+
+['le', 'la', 'les', 'ce', "l'"]	Raquin	Ce dernier qui, tout en fouillant son porte-monnaie, avait un œil fixé sur [MASK] et gardait son revolver sous son bras, tendit cinq pièces d’or au digne collègue du blond Passecoul, en lui disant : — Vous voilà payé... — Parlez vite. — Illico
+
+['-', 'Il', '-', 'et', 'Je']	Raquin	— Je serais absolument satisfait sans une déception que j’ai eue... — Quelle déception ? — Impossible de mettre la main sur toutes les cachettes... — Il manque une part du magot... [MASK] fit une moue prononcée. — Une grosse part ? — murmura-t-il.
+
+['encore', 'tout', '-', ';', 'tous']	Passecoul	— Ce qu’il y a ? — répéta [MASK] ; — il y a la fortune ! ! — Ah ! diable !... un vrai magot ?... un fort sac ?... Quelque chose dans les vingt mille francs ?... — Plus de trois cent mille balles
+
+['que', ':', ',', 'le', 'tout']	Raquin	— se dit [MASK] (on a deviné que c’était lui). — Un pas de plus et cet enragé lieutenant me marchait sur les pieds ! ! — Il aurait voulu savoir ce que je faisais là, et le diable m’emporte si j’aurais su répondre !
+
+[',', 'de', 'le', 'la', 'jeune']	Georges	[MASK], qui d’un regard fiévreux épiait le mouvement léger de la porte prête à s’ouvrir, se trouvait en face de cette porte et, pâle, ému, tremblant, la tête en feu et le cœur sautant dans la poitrine, s’adossait à la muraille circulaire.
+
+[',', '...', 'est', 'la', 'se']	Sophie	— s’écria [MASK] stupéfaite. — Aucunement, mais ne voulant ni vous emmener avec nous, ni vous laisser dans la maison dont j’emporte les clefs, il me faut bien me priver de vos services... — Ne faites pas semblant de pleurer, ce serait inutile...
+
+['la', "l'", 'ce', 'sa', 'son']	Raquin	— Bon à savoir... — murmura-t-il en donnant un coup de coude à [MASK]. — Suivons-le... — Si véritablement il ne se doute de rien, j’ai mon idée... L’officier se promena dans le couloir du rez-de-chaussée pendant deux ou trois minutes
+
+[',', 'tur', 'de', 'TRE', 'en']	Georges	— Parlez d’abord. — Nous verrons après. — Eh bien, baron, — fit [MASK] d’une voix qu’il s’efforçait vainement de rendre calme, — la jeune femme blonde dont il s’agit se nomme madame Metzer, n’est-ce pas ? XXVIII
+
+[',', 'de', 'le', 'à', '...']	Raquin	— je te vois sur le gril où l’impatience et la curiosité te retournent comme un boudin du réveillon de Noël... — Ma bonté d’âme naturelle me défend de te laisser languir plus longtemps... — Tu es gai, mon compère ! — s’écria [MASK] ;
+
+['son', 'sa', 'la', "l'", 'ses']	Léonide	, — il tressaillit. Des coups de marteau, frappés avec une grande force et une régularité parfaite, retentissaient à deux pas de lui dans la chambre à coucher de [MASK], et faisaient trembler la muraille. Que se pàssait-il ?
+
+['Je', 'de', ',', 'me', 'en']	Daniel	— Je suis moins âgé que je n’en ai l’air... Je recommencerais à travailler comme un jeune homme... — Je ferais besogne d’ouvrier et je gagnerais assez d’argent pour donner du pain à ma fille... [MASK] reprit avec une émotion bien jouée :
+
+['il', ',', 'on', 'qui', 'et']	Passecoul	[MASK] traversa, sans rencontrer âme qui vive, le village endormi. A un kilomètre plus loin, le soir précédent, il avait remarqué sur la gauche du chemin une masse plus noire que les ténèbres, et qui devait être un petit bois, — il le croyait du moins.
+
+['crocodile', 'colère', 'sang', 'larmes', 'désespoir']	Léonide	Pourquoi les larmes de [MASK] ? Pourquoi ses révoltes désespérées ? — De quelle nature était le supplice imposé par ce mari farouche à cette adorable martyre ? Voilà ce que le lieutenant ne pouvait deviner, mais ce qu’il se promettait de découvrir bientôt.
+
+[',', '-', 'toujours', 'on', 'ceci']	Georges	— Ça va-il mieux, monsieur, présentement ? —demanda la servante. — Oui, beaucoup mieux... — répondit [MASK] d’une voix déjà raffermie, — et il me semble que si vous pouviez me donner du café, ça irait complétement bien...
+
+['</s>', 'il', 'on', 'et', 'ils']	Passecoul	— Bah ! qui ne risque rien n’a rien... Les neuf dixièmes des spectateurs avaient regagné leurs places. [MASK] s’assura que le lieutenant occupait déjà son fauteuil et que, pour sortir, il lui faudrait déranger ses voisins assis comme lui, ce qui prendrait quelques secondes.
+
+[',', 'se', 'de', 'le', 'qui']	Georges	[MASK] franchit le seuil du Grand-Hôtel et entra dans le bureau. L’employé par qui la lettre de son oncle lui avait été remise quatre jours auparavant, le regarda d’un air de surprise profonde et comme quelqu’un qu’on a peine à reconnaître, puis s’écria :
+
+['lumière', 'Dieu', 'beauté', 'la', 'vérité']	Léonide	L’image de [MASK], comme une épreuve photographique soumise à l’action de la lumière, devenait d’instant en instant plus nette et plus distincte dans son cœur. — Je sens que je vais l’aimer... — avait-il dit d’abord. Maintenant il disait
+
+['il', 'la', 'cela', ',', 't-il']	Raquin	— murmura-t-il avec rage. — C’était un rendez-vous ! !... — Je ne sais pas... — fit [MASK] d’un air innocent. — Et, — poursuivit le mari, — le lieutenant s’est-il permis d’adresser la parole à ma femme
+
+['le', 'TH', 'la', 'les', "l'"]	Daniel	Passivement elle exécuta les ordres de son mari. Elle tordit des deux mains sur sa tête son admirable chevelure blonde. — Elle revêtit le costume de voyage déposé sur le lit par [MASK]. Ce dernier la regardait faire sans prononcer une parole. Quand elle eut achevé, il lui dit
+
+[',', 'on', 'se', 'à', 'de']	Daniel	[MASK] secoua la tête. — Aucun banquier n’avancerait cent sous, — dit-il, — sur une éventualité de ce genre, si probable qu’elle soit... — Une hypothèque sur étrennes futures ! ! Cela ressemble à une plaisanterie beaucoup plus qu’à une opération sérieuse...
+
+['Pierre', 'il', 'Jean', 'celui-ci', 'Bernard']	Passecoul	— Tu avais raison, ma vieille, — dit [MASK] à son compère, — l’amoureux est ici comme il serait ailleurs... et le hasard seul a tout fait... — Alors, ton idée ? — Tu verras... Viens au caboulot.
+
+['...', 'Bien', 'bien', 'Non', 'Voilà']	Irma	— Il est riche, ce cadet-là ! Ça saute aux yeux... — Regarde sa chaîne de montre... Voilà ce qui peut s’appeler une chaîne de montre du premier numéro ! ! — [MASK], mon enfant, souviens-toi de ce que je te dis...
+
+['il', 'et', 'on', 'elle', 'mais']	Raquin	— Un pas de plus et je vous brûle ! — fit-il d’un ton mal assuré qui voulait être menaçant, et avec un accent tudesque incontestable. Un poltron qui croit au péril est dangereux, [MASK] le savait.
+
+['il', 'Il', 'et', 'mais', 'on']	Georges	Le lieutenant descendit, saisit le bouton qui mettait la sonnette en branle et le tira sans hésiter. Aucun bruit, aucun mouvement ne répondirent à cet appel que le jeune homme renouvela deux ou trois fois sans plus de résultat. [MASK] ne s’étonna point de ce silence.
+
+[',', 'de', 'à', 'on', 'le']	Munito	— Est-ce assez drôle ! ! — pensa le jeune bandit. — Ça a de l’instinct plus que les gens, ces bêtes-là ! ! — Le père et la fille n’ont pas un soupçon et [MASK] m’a deviné !...
+
+['le', "l'", 'la', 'un', 'il']	Léonide	En même temps qu’elle l’officier en atteignit le seuil. Devant eux une porte s’ouvrait dans les ténèbres. Aucune lueur, aucun reflet, n’éclairaient l’intérieur du logis. — Je vais vous guider... — dit [MASK].
+
+['il', 'on', 'elle', 'chacun', 'monsieur']	Daniel	... — Il me vient en aide avec une générosité sans exemple, avec une noblesse inouïe !... — Il m’apporte le salut ! !... N’oublie jamais que tu dois à monsieur la vie et l’honneur de ton père !... Ici [MASK] jugea convenable d’intervenir.
+
+['il', 'on', 'elle', 'chacun', 'Jean']	Raquin	Il éteignit sa pipe dont le fourneau faiblement lumineux pouvait le trahir, et il reprit position derrière son arbre. Le nouveau venu avançait rapidement. Bientôt [MASK] put distinguer ou plutôt deviner un petit homme assez gros, en veston grisâtre, en casquette de voyage, et tenant de la main gauche une valise.
+
+[',', 'tout', "s'", '...', ';']	Georges	! — En vérité, mon oncle ? — murmura [MASK] en souriant. — Ah ! pardieu ! je crois bien ! ! Quelle conduite est la vôtre ! ! — Certes, je me pique d’indulgence, mais vos agissements, monsieur mon neveu, effaroucheraient un pandour
+
+['payer', 'moi', 'argent', 'tout', 'régler']	Rébecca	— Impossible ! — Je te prouverai le contraire quand tu voudras... — Parce que tu ne connais pas la situation... —J’ai besoin d’un bijou qu’il faut payer comptant... — Comprends-tu ?... — Un bijou pour [MASK] ? — Oui.
+
+['re', 'tu', 'je', 'te', ',']	Georges	— Est-ce naturel, tout ça ?... — Voyons, où étais-tu ? — Cher oncle, — balbutia [MASK], — je vous supplie de ne pas me le demander... — Pourquoi donc ? — Parce qu’il me serait impossible de vous répondre...
+
+['devant', 'derrière', 'femme', "l'", 'la']	Léonide	On la sentait brisée, mais on la devinait résolue. Le lieutenant, au lieu de parler, la dévorait des yeux avec une adoration muette et profonde qui ressemblait à de l’extase. Le petit pied de [MASK], agité par une impatience nerveuse, frappa le tapis.
+
+['Je', 'Mes', 'Mon', "J'", 'je']	Georges	— Oui, car elle menace ce calme où je me réfugiais, cet engourdissement qui me servait d’asile... — Vous m’avez retrouvée, et voici que déjà se rouvrent les blessures mal cicatrisées de mon cœur... Mes yeux vont rapprendre les larmes... [MASK] allait répliquer.
+
+['se', 'le', '...', 'la', 'à']	Z	!— répliqua le jeune gredin. — J’ai tout combiné, tout observé, tout préparé... J’ai agi seul de A jusqu’à [MASK]... — En stricte justice je ne te dois rien, mais je suis un bon enfant et la crème des camarades...
+
+[',', 'en', "s'", 'posé', 'es']	Passecoul	[MASK] ouvrit alors le porte-cigares et il en explora le contenu. — Deux billets de mille, un de cinq cents et trois de cent... — murmura-t-il, — ça fait deux mille huit cents livres, ou l’addition n’est qu’un vain mot...
+
+['Il', 'Elle', 'il', 'Je', 'elle']	Georges	... J’ai le pressentiment qu’il en doit résulter pour moi, pour vous aussi peut-être, quelque irréparable malheur... Mais je savais que vous attendiez et, croyant vous bien connaître, je redoutais de votre part un acte de folie... — Avais-je tort ?... [MASK] baissa la tête et ne répondit point.
+
+[',', 'à', "d'", 'on', 'ici']	Daniel	— Du calme et du silence, ma chère ! — lui dit [MASK] à travers l’huis. — Savez-vous rien au monde de plus sot que le scandale ? — Évitons-le ! ! C’est notre, intérêt à tous les deux...
+
+['"', ',', '...', '′', '-']	Passecoul	! — murmura [MASK], — le « placer californien » doit être là... Il ne se trompait point et presque aussitôt il mit la main sur un autre sac, en cuir, d’un poids considérable, et sur un petit coffret d’argent oxydé.
+
+['elle', 'vous', 'terre', 'moi', 'eux']	Léonide	— S’il en est ainsi, je n’aurai plus de précautions à prendre, plus de ménagements à garder... — Au premier cri de douleur ou d’effroi poussé par [MASK], je jetterai bas la porte d’un coup d’épaule, et j’étranglerai ce misérable !
+
+['la', 'ma', 'madame', "l'", 'cette']	Léonide	— J’annoncerai à li visite de joli militaire quand li sera plus en colère... Et voilà pourquoi le mari de [MASK], se croyant seul en sa maison, avait laissé libre cours aux transports de sa rage, sans mettre de sourdine aux éclats de sa voix tudesque.
+
+[',', 'en', 'vous', 'de', 'se']	Metzer	— Ne prononcez pas ce vilain mot ! — interrompit [MASK] en riant. — Je prétends n’être point un créancier pour vous... — Enfin, je vous dois vingt mille francs... — Vous êtes heureux de me les prêter, je serai fier et heureux de vous les rendre...
+
+[',', 're', 'et', 'échelle', 'il']	Passecoul	[MASK] descendit, porta l’échelle un peu plus loin, fit halte sur le chaperon de la muraille, s’y suspendit par les deux mains après avoir jeté la pioche au dehors et se laissa couler sur la route. Il ne tombait pas de bien haut.
+
+['Il', 'Elle', 'il', 'Je', '</s>']	Léonide	... Il ne faut que de l’estime et de la sympathie... — On se marie d’abord et l’amour vient après... — Vous en êtes sûr ? — J’en suis absolument certain... [MASK] baissa la tête et pendant quelques secondes garda le silence.
+
+[',', '-', 'je', 'alors', 'il']	Georges	— Je ne saurais vous croire... — Et moi, monsieur, — répondit [MASK] d’un ton provoquant, — je ne saurais admettre qu’on semble douter de ma parole ! — Ne vous cabrez pas, mon lieutenant ! — Je n’avais nulle intention de vous offenser...
+
+['le', 'S', 'la', ',', 'DE']	Daniel	Le client bondissait. — La moitié ! ! — s’écriait-il. — Allons donc ! !... — La moitié, — répétait [MASK]. — C’est de la folie ! ! — Je ne trouve pas. — Je vous offre dix pour cent...
+
+['Il', 'il', 'On', 'Pierre', 'Jean']	Georges	... Le temps passait sans rien amener... [MASK] sentait une vague angoisse s’emparer de lui et grandir, semblable au pressentiment d’un malheur. Puis, brusquement. la lumière se fit dans les ténèbres de son esprit troublé. — Ah ! je comprends !
+
+['-', '"', 'de', 'très', ',']	Léonide	— [MASK], ma chère enfant, qu’avez-vous ? —— murmurait sa compagne à son oreille. — A quel propos ce cri qui vous est échappé ? Pourquoi donc êtes-vous si pâle et pourquoi tremblez-vous ainsi ? — Ce n’est rien, madame...
+
+['le', ',', 'se', 'de', "l'"]	Daniel	[MASK], dont la physionomie avait repris son calme habituel, avança une chaise au visiteur, s’installa dans le fauteuil, et croisant sur son ventre rebondi ses deux courtes mains aux doigts carrés, aux phalanges velues, il dit : — Maintenant, monsieur, je vous écoute...
+
+[',', '...', '(', 'tout', 'en']	Georges	—Je commençais à vous croire tombé dans quelque guet-apens ! ! — Une circonstance qu’il m’était impossible de prévoir a causé l’absence dont vous vous étonniez à bon droit... — répliqua [MASK] avec un peu d’embarras. — Sans doute vous avez été malade...
+
+['la', 'en', 'le', 'réponse', 'sur']	Léonide	... La jeune femme courba la tête sans répondre. — Ne m’attendiez-vous pas ?... — reprit le petit homme. — J’ignorais que vous dussiez arriver cette nuit... — balbutia [MASK]. — Comment se fait-il alors que je vous trouve debout si tard
+
+['de', 'beaucoup', 'même', 'fort', ',']	Georges	— Rupture complète et définitive... — Mon billet d’adieu est en route au moment où je vous parle... Des exclamations se croisèrent et leurs intonations variées exprimaient des sentiments de diverse nature. Quelques officiers plaignaient [MASK] de perdre une femme dont la beauté faisait sensation.
+
+['</s>', ',', 'Et', '.', 'Puis']	Jobin	! J’aurais frappé moi-même ! ! Mais je ne savais pas ! ! non, je ne savais pas ! ! et je vous ai sauvé ! ! [MASK], touchant le coude du ventriloque, lui demanda tout bas : — Est-ce lui ?
+
+['il', 'elle', 'et', 'Il', 'on']	Daniel	Non content de ces libéralités que le notaire, in petto, traitait de folies, [MASK] offrit à sa future une corbeille dont la richesse et l’élégance relatives stupéfièrent et éblouirent la jeune fille habituée à une grande simplicité. Le temps strictement nécessaire pour les formalités légales s’écoula.
+
+['...', 'les', 'le', 'la', 'de']	Passecoul	: — Comprends-tu ? — Je commence... La sonnette de l’entr’acte chassait du café les consommateurs. — Rentrons vite... — fit [MASK]. — Vas-tu donc agir tout de suite ? — C’est probable. — Prends garde de manquer ton coup...
+
+['toi', 'oui', 'dit-il', 'monsieur', 'sire']	Irma	Elle accourut, se posa les poings sur les hanches en face de l’officier, et, après l’avoir regardé longuement, formula ce petit discours : — Tu as raison, [MASK]... ça n’est pas naturel !...
+

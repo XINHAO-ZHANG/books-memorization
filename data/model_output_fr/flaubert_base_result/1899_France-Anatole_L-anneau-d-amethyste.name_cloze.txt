@@ -1,0 +1,200 @@
+['"', 'mr', 'mrs', 'm', 'mm']	Gustave	— Six heures dix, vous êtes sûr ?… Je vous appelle mon petit par amitié… Comment voulez-vous que je dise ? — Je vous appelle Clotilde. Vous pouvez bien m’appeler quelquefois [MASK]. — Je n’ai pas l’habitude de donner les noms.
+
+['voltaire', 'aristote', 'rousseau', 'montaigne', 'buffon']	Angélique	il leur lèche les mains, se dresse contre leurs jambes, et s’il les voit irrités contre lui, il s’approche d’eux en rampant sur le ventre, en signe d’humilité, pour apaiser leur colère. — Tous les chiens, dit [MASK], ne sont pas amis de l’homme.
+
+['travail', 'm', 'patients', 'tra', 'domicile']	Maurice	De même, quand les progrès de [MASK] furent devenus sensibles et décisifs, elle se garda de toute expression révélant soit une indifférence ironique, soit une participation intéressée. Elle fut parfaite. Elle ne concevait d’ailleurs aucun mauvais sentiment envers le petit jeune homme d’État, si candide quand il se croyait pervers
+
+["j'", 'et', ',', "s'", 'il']	Gustave	[MASK] exprima tranquillement cette pensée qui témoignait d’une âme égale et sereine : — Mon chemisier est un veau. Cependant il ajustait devant la glace ses habits minutieusement et roulait dans son esprit de profondes pensées. Après quelques secondes de recueillement, il demanda d’un ton qui n’était point aigre
+
+['il', 'elle', 'tout', 'paris', 'ce']	Raoul	son honneur s’allumait sur la nation entière comme, dans une nuit de fête, une immense croix d’honneur. Au Palais de Justice, au Moulin-Rouge, il traversait la foule au milieu des acclamations. Et les princes imploraient la faveur de lui serrer la main. Pourtant [MASK] n’était pas tranquille.
+
+['lui', 'elle', 'jupiter', 'dieu', 'moi']	Vulcain	: — Ami, je t’honore parce que tu es irréprochable et que tu nourris des pensées justes. Et, tirant de son carquois une des flèches forgées par [MASK], il la donna à l’homme en prononçant ces paroles rapides :
+
+['marbre', 'hercule', 'rome', 'or', ')']	Galatée	: au midi, la pelouse, un vase de marbre sur lequel deux ramiers étaient posés, les arbres du parc affinés par l’hiver et, dans la profondeur d’une allée de pourpre, les blanches statues du bassin de [MASK] ;
+
+['</s>', 'il', 'celui-ci', 'Il', 'cela']	Riquet	mais il était prudent. Impatienté, le maître le souleva de terre par la peau du cou et lui donna deux ou trois chiquenaudes sur le museau. [MASK] cessa aussitôt d’aboyer, s’agita gentiment et tira une langue en volute pour lécher la main qui le châtiait.
+
+['il', 'tu', 'elle', 'et', ',']	Atimos	— Fils d’Amphitryon, en absolvant ce coupable, tu as tué l’innocent une seconde fois. Et cette action ne te vaudra pas la gloire parmi les hommes. Mais [MASK] ne reconnut pas la déesse vénérable, et, croyant que c’était un pâtre, il lui dit, plein de fureur
+
+['il', 'qui', 'elle', 'et', 'julien']	Riquet	Au bruit de la chute, [MASK] avait sauté en bas du fauteuil et couru vers son malheureux maître. Près de lui, maintenant, il s’agitait plein de trouble, avançait, reculait. Tour à tour il s’approchait par sympathie et il fuyait de peur d’un danger mystérieux.
+
+['comme', 'cela', "l'", 'mon', ',']	Guitrel	Mais il lui vint une idée, tandis qu’il pelait sa dernière pomme de terre. « Si je faisais [MASK] évêque ? Elle serait bien bonne !… » Au moment où cette pensée se formait dans son esprit, des imprécations retentirent à son oreille.
+
+['le', 'et', 'en', ',', 'la']	Éporédorix	Du moins, le contentement fut-il général. On applaudit les discours des orateurs et les uniformes des officiers. Et, quand la toile verte qui cachait [MASK] tomba, la ville entière s’écria tout d’une voix : «
+
+['il', 'et', 'homme', ',', '--il']	Isidore	[MASK] l’attendait là, sur un lit de feuilles mortes. Il l’attendait avec impatience, pensant qu’elle lui apporterait quelque chose à manger ou des sous, et il l’attendait aussi pour l’amour d’elle, parce qu’elle était sa bonne amie.
+
+['on', 'elle', 'il', 'ils', 'elles']	Élisabeth	Elle attrapait un baiser au milieu des imprécations. Et il la congédiait avec la perpétuelle annonce qu’il se ferait sauterie caisson. Non, ce n’est pas ainsi qu’[MASK] comprenait l’amour ! — Vous disiez donc, monsieur l’abbé, que le bienheureux Loup ?…
+
+['il', 'elle', 'on', 'tout', 'qui']	Gustave	À ces mots, [MASK] éclata en invectives : — Ton mari me rase dans les grands prix. C’est un idiot, un grotesque… Et crampon ! Tu conviendras que traîner toute la journée dans son écurie, dans son chenil et dans son potager…
+
+['berry', 'parme', 'york', 'bourgogne', 'cambridge']	Brécé	La duchesse douairière de [MASK] répondit avec embarras : — Toujours. — Il serait bien à désirer, répliqua l’ancien substitut, qu’on dressât procès-verbal des dépositions que fait cette enfant, relativement à ce qu’elle voit et entend dans ses extases.
+
+['il', 'elle', 'on', 'dieu', 'qui']	Éporédorix	Le projet d’un monument élevé à la gloire du chef gaulois y fut accueilli avec enthousiasme. La ville, se sentant humiliée, fut reconnaissante à cet antique compatriote de lui donner un sujet d’orgueil. Renommé après quinze cents ans d’oubli, [MASK] réunit tous les citoyens dans un sentiment de filial amour.
+
+['il', 'on', 'elle', '-', 'maman']	Emmanuel	Dis, comment tu expliques ça ? — Ce serait trop long. — Mon petit, tu es assis sur ma jupe… Pendant que j’y pense : [MASK] se plaint que tu le négliges. Hier, il t’attendait pour te montrer un cheval qu’il veut acheter.
+
+['il', 'et', '</s>', 'on', 'elle']	Riquet	Devant un brin d’herbe, il s’abîmait dans des rêveries infinies. [MASK] aimait aussi les bois. Il goûtait à flairer les feuilles mortes un plaisir mystérieux. Songeant tous deux, ils suivaient le chemin couvert qui mène au carrefour des Demoiselles, quand ils rencontrèrent un cavalier qui rentrait à la ville.
+
+['</s>', '"', ')', 'et', '.']	Bajazet	Mon père aimait les chats, et je les aimai sur son exemple. Il professait que les chats sont les meilleurs compagnons du savant, dont ils respectent le travail. [MASK], son angora, passait quatre heures de la nuit, immobile et superbe, sur un coin de sa table.
+
+['"', ')', ',', '.', ';']	Gustave	— L’acheter !… Est-ce qu’on peut faire quoi que ce soit quand on a le malheur d’avoir un papa ? soupira doucement [MASK]. Vous n’imaginez pas ce que la famille cause d’ennuis… d’embarras. Il ajouta avec une feinte assurance : —
+
+['je', 'cela', 'ça', 'tout', 'se']	Raoul	Et sur le bout de la chaise bleue, les yeux mi-clos, la poitrine un peu haletante, elle attendait que [MASK] changeât de fureurs. Elle attendait en vain. Et les mêmes hurlements la faisaient tressaillir : — Il faut que j’en crève un ! Parfois, timidement elle essayait de l’apaiser.
+
+[':', '14', '13', 'à', '12']	Gustave	Elle fit la petite moue et le petit haussement d’épaules qui veut dire : C’est peu de chose. Ainsi l’entendit [MASK]. Et il appuya dans ce sens : — Rien qu’à sa tête, on voit que ce n’est pas un grand abatteur de quilles.
+
+['je', 'dieu', 'tu', 'monseigneur', 'on']	Loyer	Elle se redressa, surprise. Entre ses bas noirs et sa chemise brillait un cercle de chair éclatante. L’étonnement lui donnait un air de candeur. Elle demanda : — Pourquoi ? Il nouait sa cravate avec étude. — Pour que [MASK] le fasse évêque.
+
+['un', 'une', 'or', 'amour', 'épouvante']	Honorine	Tous maintenant, les femmes, le duc, l’avocat, le prêtre, tenaient leur regard attaché sur les souliers percés d’[MASK] immobile. Graves, épais et mornes, ils se figeaient en admiration devant ces petits reins de chat sauvage, tout roidis.
+
+['</s>', ',', '.', 'à', "qu'"]	Hercule	Et tous deux, tandis qu’ils pendaient comme des chevreuils à l’épieu d’un chasseur, chuchotaient : « Mélampyge, mélampyge », avec un rire moqueur, semblable au cri de la huppe dans les bois. [MASK] était fort irritable et ne supportait pas volontiers la moquerie
+
+['martin', 'dupont', 'bertrand', 'et', 'robert']	Briqueballe	Au fond de la cour, dans son sale bourgeron et son pantalon de toile, le soldat Bonmont, en compagnie des soldats Cocot et [MASK], debout devant une marmite pleine d’eau, épluchait des pommes de terre.
+
+['hercule', 'il', 'elle', 'achille', 'apollon']	Alcmène	Les Tyriens connaissent un autre Hercule, auquel ils attribuent des travaux qui ne sont pas facilement croyables. Ce qu’on sait moins, c’est qu’[MASK] donna le jour à deux jumeaux qui se ressemblaient de visage et qui reçurent tous deux le nom d’Hercule.
+
+['lui', 'payer', 'remplir', 'rembourser', 'faire']	Bonmont	Mais il feignit de ne pas le voir et s’alla cacher derrière la caisse de la voiture. Il avait à [MASK] des obligations d’argent déjà anciennes, et il n’était nullement, pour l’heure, en état de se libérer.
+
+[',', 'il', 't-il', 'le', 'martin']	Cheiral	Il y a réussi. À son tour, elle essaya, les yeux sur les vitres, de percer l’ombre épaisse, pleine de lueurs fuyantes. — Où sommes-nous ? dit-elle. — Nous devons être loin de tout, répondit [MASK] avec empressement.
+
+['il', 'tout', 'chacun', 'elle', 'on']	Briqueballe	Et le soldat Cocot, poussant un gros juron dans un gros rire, s’écria : — Voilà qu’il renverse le bouillon, maintenant, misère de sort ! Et [MASK] s’égaya de cette plaisanterie, parce qu’il avait l’âme simple et qu’il était de la classe.
+
+['vous', 'moi', 'cela', 'lui', 'nous']	Loyer	— C’est peut-être, répondit le petit baron, qu’elle a d’autres sujets de conversation avec vous. Je ne vous dis pas qu’elle en rêve, de [MASK] ; mais elle trouve que c’est un bon vieux, pas bête.
+
+['moi', 'toi', 'dieu', 'lui', 'celui']	Loyer	Il y en a plusieurs. Elle réfléchit et, dans un effort de pensée : — Tu dois te tromper, mon petit. Ce n’est pas [MASK] qui nomme les évêques. C’est le pape, je t’assure, ou le nonce.
+
+['acier', 'or', 'aut', 'hel', 'har']	Éporédorix	le patriotisme local est fier et jaloux. Le chef-lieu du département, trois sous-préfectures et quatre chefs-lieux de canton se disputaient la gloire d’avoir massacré des Romains par l’épée d’[MASK]. Les autorités compétentes tranchèrent la question en faveur du siège de l’administration départementale.
+
+['service', 'chambre', 'compagnie', 'salon', 'cour']	Brécé	En rentrant dans le salon : — Mesdames, dit-il aux dames de [MASK], le duc a bien voulu me faire les honneurs de sa curieuse bibliothèque. J’ai remarqué, en passant, ce mur extraordinaire qui sépare le pavillon de la galerie.
+
+['</s>', 'gauche', 'commande', 'frein', 'droite']	Brécé	Le bouton de [MASK], il le voulait avec l’impatience d’un enfant – car son esprit avait gardé beaucoup d’enfantillage – et il le voulait avec la souple ténacité d’un ambitieux qui calcule – car il avait la connaissance des hommes, ayant vu beaucoup de choses en peu d’années.
+
+['il', 'qui', 'lui', 'et', ',']	Riquet	[MASK] connaissait ce sourire. Il vit fort bien que son maître se moquait de lui. C’est ce qu’il n’aimait pas. Il cessa d’agiter sa queue et se mit à marcher la tête basse, le dos rond et les pattes écartées en signe de mécontentement.
+
+['hasard', 'napoléon', 'lui', 'vauban', 'erreur']	Éporédorix	Les archéologues du chef-lieu croyaient que ce fait d’armes avait été accompli dans leur ville, et ils fondaient leur créance sur un passage des Commentaires dont s’autorisait chaque société savante de la région pour établir que le pont de bois rompu par [MASK] était situé précisément dans la ville où elle siégeait.
+
+['raison', 'bientôt', 'tort', 'mieux', 'le']	Maurice	Ce sera tout à fait dans l’intimité. Je ne pense pas que mon frère vienne. Il est si occupé, si absorbé dans ce moment ! Mais nous aurons probablement [MASK]. Les jeunes gens sont rangés à présent : ce n’est plus comme autrefois.
+
+['il', 'on', 'et', ',', '"']	Loyer	[MASK] vit qu’il avait trois mentons et la tête en pointe, du ventre et pas d’épaules et qu’il était onctueux. Un vieillard, d’ailleurs. « Que lui veulent les femmes ? » pensa-t-il. L’entretien fut d’abord insignifiant de part et d’autre.
+
+['le', 'de', 'roi', 'cheval', 'la']	Riquet	[MASK], qui avait, écouté ce discours jusqu’au bout avec une muette attention, s’approcha du maître et posa, d’un geste de suppliant, une patte timide sur le genou qu’il semblait ainsi vénérer selon la coutume antique.
+
+['jésus', 'pierre', 'dieu', 'socrate', 'lui']	Atimos	Mais [MASK], plein de colère, répondit : — J’ai puni cet homme de sa, méchanceté. Crois-tu, vieillard, que je sois un homme sans discernement et frappant au hasard ? Tais-toi, fuis, insensé ! Ou je te ferai repentir de ton audace.
+
+[',', 'tout', 'toujours', 'souvent', 'même']	Gustave	Mais elle y venait souvent et y voyait [MASK] avec une facilité qu’ils n’avaient point en province. Elle s’assit au bord du lit, offrant à la lumière caressante sa chevelure blonde et légère, la chair laiteuse de ses épaules tombantes et de sa jolie poitrine un peu basse.
+
+['avec', '(', 'que', 'et', '</s>']	Bonmont	Mais l’affaire lui semblait considérable, et il ne voulait pas s’y engager à la légère. Timidement, avec hésitation, il souleva la première, qui était la plus générale. — C’est pas une blague, vrai ? demanda-t-il. — Comment ! une blague ! dit sèchement [MASK].
+
+['il', 'lui-même', 'aussitôt', 'puis', 'tout']	Riquet	Ce jour-là, comme il franchissait d’un bond le pas du charbonnier, il se trouva face à face avec un pigeon d’une grosseur énorme et d’une blancheur éclatante. Le pigeon souleva ses ailes radieuses dans l’ombre et [MASK] s’enfuit épouvanté.
+
+['guerre', 'londres', 'pétersbourg', 'versailles', 'fox']	Loyer	Elle se demanda si le chef du cabinet de [MASK] ne savait pas, dès la grille du parc, la nouvelle portée maintenant par les aboyeurs. À ce soupçon, le sang lui monta aux joues, comme si sa pudeur avait été trahie et sa foi surprise.
+
+['notre-dame', 'marie', 'droite', 'gauche', 'marbre']	Saint-Antoine	Elle l’aurait voulu tendre et fidèle, innocent, rêveur. Il n’était pas tel qu’elle l’aurait voulu et elle en souffrait. Et, craignant de le perdre, elle faisait brûler des cierges dans la chapelle de [MASK].
+
+['moi', 'lui', 'toi', 'vous', 'marguerite']	Cocot	— Vous deux, en bas, vous avez trois jours… C’est compris ? Briqueballe et [MASK] demeurèrent accablés sous les coups de la fatalité et de la loi. Et le soldat Bonmont, leur égal, songeait : « Je peux bien faire un évêque.
+
+['paris', 'droite', 'moi', 'côté', 'la']	Vienne	— C’est un joli tableau ! répondit le baron Wallstein. J’ai le pareil à [MASK]. Mais le mien représente un berger. Je ne sais pas ce que mon beau-frère a payé celui-là. Il se promenait, sa tasse à la main, par la galerie :
+
+['m', 'le', 'paul', 'henri', 'la']	Loyer	Remarquez, monsieur le ministre, qu’ils sont soumis : 1∘ aux impôts de droit commun. — Naturellement, dit [MASK]. — 2∘ À la mainmorte, poursuivit l’abbé. — Et vous vous en plaignez ? demanda le ministre. — Nullement, répondit l’abbé.
+
+['recommandation', 'démission', 'cachet', 'moi', 'mission']	Mabillon	Je vous le signale, parce que vous savez que la nature réussit rarement les nez et, par sa gaucherie à les construire, gâte trop souvent de jolis visages. » La lettre de [MASK] que je vous prie de copier pour moi commence par ces mots :
+
+['il', 'et', 'on', 'lui-même', ',']	Lacarelle	[MASK] y réussit assez bien, parce qu’il y était préparé dès l’École de droit et qu’on lui demandait seulement d’être jovial, cocardier et grivois à l’occasion. On trouva qu’il avait bonne grâce à embrasser les femmes et il devint grand embrasseur.
+
+['y', 'en', 'il', 'qui', ',']	Raoul	[MASK] avait du monde et savait ce qu’on doit à l’Église. — Monsieur l’abbé, dit-il, je suis d’une famille de prêtres et de soldats. Moi-même j’ai servi ; c’est vous dire… Il n’acheva pas.
+
+['paul', 'il', 'bussy', 'pascal', 'augustin']	Loyer	Aussi l’ai-je examinée de très près, et je puis, si vous le désirez, vous faire part des fruits de cet examen. — Les moines, dit [MASK], n’aiment point payer. Voilà la vérité. — Personne n’aime payer, monsieur le ministre, répliqua l’abbé Guitrel.
+
+['socrate', 'il', 'hegel', 'on', 'aristote']	Bossuet	« Un hérétique, dit [MASK], est celui qui a une opinion à lui, qui suit sa propre pensée et son sentiment particulier. » Or, le juif, n’ayant reçu ni le baptême ni la vérité, ne peut être dit hérétique. »
+
+['il', 'et', '-il', 'celui-ci', 'georges']	Maurice	Parvenu au terme de son entreprise, [MASK] se montra soudain tranquille, indifférent, un peu ennuyé. Il parlait de choses tout à fait étrangères à leur situation présente, et regardait par la vitre la rue indistincte. Il semblait que le fiacre roulât au fond d’un aquarium.
+
+['il', ',', 'et', ';', 'i']	Riquet	[MASK] entra dans le cabinet avec tranquillité, comme il en était sorti. Mais dès qu’il vit la porte refermée il prit un air triste et il erra dans la pièce comme une âme en peine. Tout à coup il paraissait chercher avec intérêt quelque chose sous les meubles et reniflait bruyamment.
+
+['il', ',', 'lui-même', 'elle', 'celui-ci']	Riquet	Mais, depuis quelque temps, il avait des pensées et des paroles nouvelles. Cependant [MASK] continuait d’aboyer et de grogner. Il s’efforçait visiblement d’arrêter l’étranger par l’horreur de son regard et de sa voix. Mais il reculait à mesure que l’adversaire avançait.
+
+['elle', 'il', 'il', '-', '-il']	Rara	— Je m’en f… un peu, répondit [MASK]. Désolée, elle posa l’écrin sur la table de toilette. Cependant il avait repris le cours de ses idées ordinaires, car il s’écria : — Il n’y a pas d’erreur !
+
+['il', 'qui', 'celui-ci', 'et', 'chacun']	Riquet	Et, tout en compulsant Servius, il passait par moments la main sur le pelage ras qui, sans être fin, était lisse et très agréable au toucher. Et [MASK], plongé dans un demi-sommeil, communiquait au maître la bonne chaleur de la vie, le feu subtil et doux des êtres animés.
+
+[':', 'toujours', '...', ';', ',']	Wallstein	! — Il était fort, répondit [MASK]… Et puis il aimait à se moquer. Et les deux causeurs, leur tasse à la main, levant la tête, le virent, ce baron qui avait été fort dans la vie.
+
+[',', 'et', 'de', 'pour', 'ou']	Loyer	Nommez l’abbé Guitrel. Vous ne pouvez faire un meilleur choix. C’est un ecclésiastique dans les idées du pape. » Elle secoua sa jolie tête. — Aller voir [MASK] chez lui, pour ça, non ! Tu ne me vois pas dans la cage du gorille
+
+[',', 'elle', 'il', 'au', 'le']	Honorine	Enfin [MASK] sortit de son extase. Elle se leva, salua l’autel, se retourna et, comme surprise de voir tant de monde, s’arrêta, écartant des deux mains les cheveux qui lui couvraient les yeux.
+
+['</s>', 'on', 'qui', '-', 'et']	Pecus	il le paraîtrait davantage, s’il ne déformait involontairement ce qu’il copie. Ces déformations produisent ce qu’on appelle le progrès. [MASK] ne réfléchit pas. Aussi est-il injuste de dire qu’il se trompe. Mais tout le trompe, et il est misérable.
+
+['autrefois', 'amour', 'jadis', 'or', 'toujours']	Bajazet	Je me rappelle les prunelles d’agate de [MASK] ; mais combien ces yeux de pierre précieuse, qui cachent la pensée, combien ce regard de chat-huant était froid, et dur, et perfide ! Et que j’aime mieux le regard mouillé du chien ! »
+
+['raoul', 'henri', 'john', 'jean', 'paul']	Gustave	— Vrai, demanda de nouveau [MASK], c’est pas un bateau que vous me montez ? Il doutait encore. Mais un regard du petit homme blond, un regard chargé de mépris, détruisit ses doutes. Il fit avec une grande fermeté cette déclaration :
+
+['et', ',', "qu'", 'que', 'qui']	Atimos	Cependant [MASK], ayant repris sa course, se trouva bientôt sur la trace du voleur de bœufs, dont il aperçut le dos à une petite distance. Il le reconnut facilement à l’empreinte des pas que cet homme laissait derrière lui sur le sable.
+
+['celui', 'celle', 'ce', 'ceux', ',']	Hercule	C’étaient des voleurs pleins d’astuce qui pillaient les vergers. Leur mère les avertissait sans cesse de se méfier du héros mélampyge. C’est ainsi, vous le savez, qu’on désignait familièrement [MASK] qui n’avait pas la peau blanche. Les imprudents méprisèrent un avis si sage.
+
+['la', 'madame', "l'", 'sa', 'une']	Honorine	C’est lui-même qui, ayant vu tantôt les messieurs et les dames du château aller à la chapelle, en avait tout de suite averti [MASK], pour qu’elle courût se mettre en extase. Il lui demanda : — Quoi qu’ils t’ont donné ? Fais voir !
+
+['dieu', 'droit', 'mort', "l'", 'sang']	Riquet	Les idées de fraternité universelle n’ont point pénétré l’âme de [MASK]. Il représente un état ancien des sociétés. — Un état très ancien, dit le recteur. Car il est clair que maintenant nous vivons en paix les uns avec les autres, dans la concorde et la justice
+
+['qui', 'et', 'il', 'lui', ',']	Huguet	[MASK], en le formant, avait rassuré le capital et il en avait conçu de la sérénité, de la confiance en lui-même et quelque orgueil. Il tenait, dans son cabinet, le portefeuille des finances et on le félicitait d’avoir raffermi le crédit public, ébranlé par son prédécesseur radical.
+
+['autrui', 'quiconque', 'personne', 'la', 'ce']	Rara	D’abord elle n’était jamais contente de payer, et puis elle n’aimait pas du tout avancer de l’argent à [MASK], tant par principe que dans l’inquiétude où elle se trouvait ensuite de n’être pas aimée pour elle-même.
+
+[':', 'le', '...', 'vous', 'en']	Bonmont	Et son émerveillement s’accrut quand [MASK], l’entraînant par le bras dans l’allée du grand hall, lui dit : — Vous avez raison. N’achetez pas cette machine-là, je vous prêterai ma roulante. Ça ne me gênera pas. Il faut que je réintègre
+
+['</s>', 'il', 'que', 'qui', ',']	Loup	Un jour qu’il traversait les campagnes couvertes de glace, le bienheureux s’arrêta, pour se chauffer, dans la maison d’un sénateur. Celui-ci, qui traitait alors ses compagnons de plaisir, tint avec eux, devant l’apôtre, des propos déshonnêtes. [MASK] tenta de réprimer ces discours.
+
+['</s>', '--non', '--mais', '--oui', 'non']	Bergeret	Un terme qu’il rencontrait dans le charmant récit de la métamorphose ne lui présentait point à l’esprit un sens suffisamment exact. De là son trouble. « [MASK], mon ami, se disait-il, c’est là qu’il faut ouvrir l’œil et montrer de la sagacité.
+
+['jésus', 'dieu', 'jésus-christ', 'chacun', 'pierre']	Salomon	Car si le chef peut prendre des avis, c’est le sien qu’il doit suivre. Selon la parole profonde de [MASK], le conseil est dans le cœur de l’homme, comme une eau profonde. Sicut aqua profunda, sic consilium in corde viri.
+
+['lui', 'lui-même', 'vous', 'celui-ci', 'celle-ci']	Raoul	Elle souffrait. Et, comme elle était pieuse, elle chercha dans la religion un remède à sa souffrance. Elle pensa qu’un entretien avec l’abbé Guitrel ferait beaucoup de bien à [MASK] ; elle résolut de le mettre chez elle en présence du prêtre. Chapitre 15
+
+['ceci', 'pierre', 'paul', 'dieu', 'moi']	Loyer	C’est ce qu’on appelle le Concordat. Tu diras à [MASK] : « J’ai sous la main un prêtre intelligent, libéral, concordataire, tout à fait dans les idées du… » — Je sais. Elle ouvrit les yeux tout grands :
+
+['condoléances', 'réception', 'lui', 'vous', 'procuration']	Mabillon	Je n’ai rien de plus cher au monde que de vous servir. » En retour faites-moi, s’il vous plaît, la grande faveur de me copier une lettre de [MASK], conservée dans la bibliothèque de votre ville, fonds Joliette, recueil B, numéro 3715 8 , folio 70.
+
+['</s>', 'elle', 'il', 'on', 'chateaubriand']	Gustave	Les cheveux pleins de lumière, nue dans sa chemise froissée, elle inclinait sa tête et sa poitrine sur ses jambes croisées ; sous ce peu de linge qui glissait, en ce raccourci pittoresque, elle semblait une figure allégorique de quelque plafond vénitien. [MASK] ne s’avisa pas de cette ressemblance.
+
+['la', "l'", 'louis', 'bo', 'charles']	Zeus	Le héros qui portait avec sa massue la paix heureuse et la justice auguste par le monde, le fils de [MASK], s’endormait parfois au coin d’une borne comme un simple poivrot ou logeait pendant des semaines et des mois chez une fille dont il était devenu l’amant de cœur.
+
+['paris', 'chasse', 'france', 'compiègne', 'vincennes']	Brécé	: — Ne gaffons pas, monsieur l’abbé. Ce n’est pas ça… Oh ! mais ce n’est pas ça du tout. Une invitation… Je suis bien sûr de recevoir une invitation aux chasses de [MASK] en échange de l’ustensile.
+
+['il', 'tout', 'qui', 'ce', 'cela']	Gustave	Pense, mon petit, que nous pourrions avoir pire. Mais [MASK] n’était pas calmé. — Et il t’aime, l’animal ! Elle fit la petite moue et le petit haussement d’épaules qui veut dire : C’est peu de chose.
+
+['rose', 'morphine', 'bouton', 'fièvre', 'cuivre']	Brécé	Le désir d’obtenir le bouton emplissait son âme. Il avait hérité de son père une volonté tendue. L’ardeur avec laquelle il convoitait le bouton de [MASK] se mêlait dans ses veines aux premières fièvres de la phtisie et le brûlait.
+
+[')', ':', '(', 'moi', 'le']	Loyer	Elle leva la tête et tenant le crochet suspendu au bout de ses doigts : — [MASK], le ministre ? Oui, je le connais. — Vous le connaissez très bien ? — Très bien, non. Mais je le connais.
+
+['notre-dame', 'paris', 'rome', 'saint-pierre', 'charité']	Saint-Exupère	– Monsieur, c’est que je vais aussi à l’église. Il est vrai qu’elle allait à la sacristie de [MASK] demander une messe basse pour le repos de l’âme de son mari. C’est ce qu’elle faisait sans faute une fois l’an ;
+
+['variée', 'animée', 'profonde', 'sauvage', 'ardente']	Monseigneur	— Quelle population, dites-moi, est celle de Tourcoing ? — La foi y est vive, [MASK]. Et la doctrine y tient plus de l’esprit de la Belgique catholique que de l’esprit français. — Je sais, je sais.
+
+['le', 'la', 'henri', 'jean', 'jacques']	Gustave	— Ah ! dit [MASK]. Et il réfléchit. Alors des objections assez graves vinrent à sa pensée, et il les souleva, au risque de paraître manquer de complaisance. Mais l’affaire lui semblait considérable, et il ne voulait pas s’y engager à la légère.
+
+['il', '</s>', 'elle', 'celui-ci', 'on']	Atimos	Car ses pieds sont plus grands que ceux des autres hommes, et très rapides. [MASK] promit au bouvier de punir le brigand et reprit son chemin. S’étant enfoncé dans les gorges de la montagne, il aperçut au loin, dans un sentier, un homme qui lui sembla méchant.
+
+['or', 'eau', 'huile', 'œufs', 'écrire']	Énée	Car il avait sur sa table, dans des boîtes, un joli jeu de fiches. Or, tandis qu’il mettait la flotte d’[MASK] bien proprement, par menus morceaux, sur de menus cartons, il sentit comme de petits poings qui lui battaient la jambe.
+
+['</s>', 'in', 'i', 'vos', 'vous']	Alii	Assis, par la grâce du Souverain Pontife, sur le siège du bienheureux Loup, successeur de tant de saints apôtres et de tant de pasteurs vigilants, serais-je l’héritier légitime de leurs travaux admirables, si je n’osais les continuer ? [MASK] laboraverunt, et vos in labores eorum introistis.
+
+['de', ',', '(', '"', ')']	Gustave	— Mais j’aurai peut-être bientôt une occasion de la rencontrer… Je puis même, si vous voulez, m’informer tout de suite… Le petit baron le regarda dans les yeux et lui dit : — Voulez-vous me faire un plaisir ? [MASK] répondit qu’oui,
+
+['il', 'on', 'elle', 'et', 'descartes']	Raoul	Et elle était d’autant plus surprise et troublée que les menaces de mort que proférait son amant s’adressaient autant aux amis qu’aux ennemis. Car, lorsqu’il parlait de crever des ventres, [MASK] ne s’attachait pas à faire la distinction subtile de ses défenseurs et de ses adversaires.
+
+['marguerite', 'blanche', 'roland', 'diane', 'catherine']	Gustave	Il n’y a pas de temps à perdre : les nominations se signent ces jours-ci… Nous reparlerons de l’auto. Sous le perron, où flottaient les drapeaux en trophées, il serra la main de [MASK] et, la retenant dans la sienne :
+
+['</s>', 'elle', 'elle-même', 'peut-être', 'mais']	Rara	Elle s’en réjouissait. Pourtant cette joie ne remplissait pas toute son âme. [MASK], par son humeur sombre et ses appétits féroces, la désespérait. Elle n’allait plus qu’en tremblant aux rendez-vous dont jadis elle appelait avec tant d’ardeur l’heure délicieuse.
+
+['il', '-il', 'homme', ',', 'et']	Cheiral	[MASK] n’était pas très intelligent. Il ne considérait jamais qu’un petit nombre de choses et il se déterminait par des raisons que leur futilité rendait difficiles à démêler. Aussi croyait-on qu’il avait, dans un âge encore tendre, des idées personnelles.
+
+['complot', 'darwin', 'freud', 'marx', 'hitler']	Laplace	Pourtant les théories de [MASK] sont clairement exposées depuis près d’un siècle sans que les petits contes juifs ou chaldéens sur l’origine du monde, qui se trouvent dans les livres sacrés des chrétiens, aient rien perdu de leur crédit sur les hommes.
+
+["c'", '"', "n'", 'il', '</s>']	Azor	Mais il était vieux et ne chassait plus. » Il nous faut tout autre chose ici. Les noms que les vieilles demoiselles ont coutume de donner à leur toutou conviendraient mieux, s’ils n’étaient généralement prétentieux et niais. [MASK] est ridicule. »
+
+['il', 'jésus', 'vous', 'dieu', 'elle']	Gustave	Et il ajouta : — Je vous le demande comme un réel service. À cette demande, [MASK] ne répondit que par un silence stupide et des regards effarés, non qu’il pensât rien refuser, mais parce qu’il n’avait pas compris.
+
+['</s>', 'il', 'elle', 'celui-ci', 'on']	Atlantos	C’était précisément l’endroit par lequel le héros avait mérité le nom de mélampyge. [MASK] en fit la remarque à son frère Andolous, qui lui répondit que le héros était bien celui que leur mère leur avait nommé.
+

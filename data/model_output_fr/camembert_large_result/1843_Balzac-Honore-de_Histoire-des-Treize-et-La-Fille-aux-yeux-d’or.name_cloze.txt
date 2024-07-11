@@ -1,0 +1,200 @@
+['celle', 'elle', 'celui', 'lui', 'Marie']	Paquita	Il étudia de même les détours que ses porteurs firent dans la maison, et crut pouvoir se les rappeler. Il se vit comme la veille sur l’ottomane, devant [MASK] qui lui défaisait son bandeau ; mais il la vit pâle et changée. Elle avait pleuré.
+
+['oh', 'oui', 'hélas', 'hein', 'Ah']	Paquita	D’ailleurs on y pensera, [MASK] ! on y pensera, ma fille ! Le diable m’emporte, maintenant que je sais que cette belle fille, ce chef-d’œuvre de la nature est à moi, l’aventure a perdu de son piquant.
+
+['Il', 'Jésus', 'Socrate', 'Paul', 'Pierre']	Henri	Chez les hommes, l’amour devient une passion : la force mène à l’abus. Chez les vieillards, il se tourne au vice : l’impuissance conduit à l’extrême. [MASK] était à la fois vieillard, homme et jeune.
+
+['il', 'elle', 'Il', 'Louis', 'on']	Henri	À l’heure dite, [MASK] fut sur le boulevard, vit la voiture et donna le mot d’ordre à un homme qui lui parut être le mulâtre. En entendant ce mot, l’homme ouvrit la portière et déplia vivement le marchepied.
+
+['Napoléon', 'David', 'Socrate', 'Voltaire', 'Charles']	Paquita	L’exclamation de [MASK] fut d’autant plus horrible pour lui qu’il avait été détrôné du plus doux triomphe qui eût jamais agrandi sa vanité d’homme. L’espérance, l’amour et tous les sentiments s’étaient exaltés chez lui, tout avait flambé dans son cœur et dans son intelligence
+
+['puis', 'dois', 'devrais', 'pourrais', 'veux']	dussé	! Nous serions suivis dans l’enfer. Dieu ! voici le jour. Sauve-toi. Te reverrai-je jamais ? Oui, demain, je veux te revoir, [MASK]-je, pour avoir ce bonheur, donner la mort à tous mes surveillants. À demain.
+
+['Mme', 'de', 'le', 'madame', 'monsieur']	de	– Je ne voudrais pas, si l’on te demandait si tu as quelque chose contre moi, que tu répondisses un rien semblable, il faudrait sans doute nous battre le lendemain.– Je ne me bats plus, dit [MASK] Marsay.– Ceci me semble encore plus tragique.
+
+['il', 'on', 'elle', 'chacun', 'lui']	Paquita	Sa rage s’accrut de cet obstacle ; mais il recouvra sa tranquillité, alla prendre sa cravate et s’avança vers elle d’un air si férocement significatif, que, sans connaître de quel crime elle était coupable, [MASK] comprit néanmoins qu’il s’agissait pour elle de mourir.
+
+['Marie', 'Madame', 'Sophie', 'Madeleine', 'Julie']	Ferragus	Tiens, vois cette lumière.– Nous avons le plan de la maison, d’où vient-elle ?– Je n’ai pas besoin du plan pour le savoir, répondit [MASK] ; elle vient de la chambre de la marquise.– Ah !
+
+['le', '</s>NOTUSED', 'Dieu', 'la', 'Moïse']	Christemio	; il tendit la tête vers le foulard. Ce geste de soumission apaisa [MASK], qui lui banda les yeux avec un respect et un soin qui témoignaient une sorte de vénération pour la personne de l’homme aimé par son idole.
+
+['elle', 'il', 'Marie', 'Madame', 'Anna']	Paquita	De part et d’autre la souplesse, l’agilité, la vigueur furent égales. Pour finir la lutte, [MASK] jeta dans les jambes de son amant un coussin qui le fit tomber, et profita du répit que lui laissa cet avantage pour pousser la détente du ressort auquel répondait un avertissement.
+
+['nouveau', 'même', 'Gaulle', 'lui', 'moi']	Marsay	Tout ce que j’ai fait déjà pour pouvoir correspondre avec vous doit vous dire combien je vous aime. Si vous en doutiez, je vous avoue que, pour obtenir un rendez-vous d’une heure, je donnerais ma vie.– Elles croient cela pourtant, ces pauvres créatures ! se dit de [MASK] ;
+
+['il', 'qui', 'Il', 'lui', 'et']	Christemio	En ce moment, toute la maison me croit endormie dans ma chambre. Dans deux jours, sois au même endroit, dis le même mot au même homme. Cet homme est mon père nourricier, [MASK] m’adore et mourrait pour moi dans les tourments sans qu’on lui arrachât une parole contre moi.
+
+['elle', 'lui', 'eux', 'moi', 'Jeanne']	Henri	Elle attendit un regard, ne l’obtint pas, et tomba demi-morte. Le mulâtre jeta sur [MASK] un coup d’œil si épouvantablement significatif qu’il fit trembler, pour la première fois de sa vie, ce jeune homme, à qui personne ne refusait le don d’une rare intrépidité.
+
+['Alexandre', 'Antoine', 'Albert', 'Alexis', 'Adam']	Henri	Son regard allait lentement des beaux cheveux de sa fille, qui la couvraient comme d’une mantille, à la figure d’[MASK], qu’elle observait avec une inexprimable curiosité. Elle semblait se demander par quel sortilége il était là, par quel caprice la nature avait fait un homme si séduisant.–
+
+['Elle', 'Anna', 'Marie', 'elle', 'Il']	Paquita	[MASK] lui parut occupée de quelque chose qui n’était pas lui, comme une femme également contrainte et par le remords et par la passion. Peut-être avait-elle dans le cœur un autre amour qu’elle oubliait et se rappelait tour à tour.
+
+['famille', 'Madame', 'Monsieur', 'Roland', 'Louise']	Paquita	Je suis la plus malheureuse.En ce moment apparut l’horrible figure de la mère de [MASK]. – Tu vas me dire que tu ne l’avais pas vendue pour que je la tuasse, s’écria la marquise. Je sais pourquoi tu sors de ta tanière.
+
+['Gaulle', 'cœur', 'nouveau', 'temps', 'lui']	Marsay	Agenouillée comme un ange en prière, mais comme un ange triste et profondément mélancolique, la pauvre fille ne ressemblait plus à la curieuse, à l’impatiente, à la bondissante créature qui avait pris de [MASK] sur ses ailes pour le transporter dans le septième ciel de l’amour.
+
+['!', '?', '</s>NOTUSED', 'le', '–']	Laurent	? S’il avait besoin de vous, ce que je vous souhaite, car il est généreux, pourrait-on compter sur vous ?– Dame, monsieur [MASK], je me nomme Moinot. Mon nom s’écrit absolument comme un moineau : M-o-i-
+
+['–', ':', '</s>NOTUSED', '—', 'le']	Paul.–	– Eh ! bien, qu’as-tu donc ? lui dit [MASK] Rien !– Je ne voudrais pas, si l’on te demandait si tu as quelque chose contre moi, que tu répondisses un rien semblable, il faudrait sans doute nous battre le lendemain.–
+
+['Monsieur', 'Jean', 'Louis', 'Pierre', 'Charles']	Laurent	Le rapport de [MASK], son valet de chambre, venait de donner un prix énorme à la Fille aux yeux d’or. Il s’agissait de livrer bataille à quelque ennemi secret, qui paraissait aussi dangereux qu’habile ;
+
+['viens', 'va', 'reviens', 'monte', 'fille']	Paquita	, tout tomba. Comme un aigle qui fond sur sa proie, il la prit à plein corps, l’assit sur ses genoux, et sentit avec une indicible ivresse la voluptueuse pression de cette fille dont les beautés si grassement développées l’enveloppèrent doucement.– Viens, [MASK] !
+
+['Marie', 'Elle', 'Jeanne', '</s>NOTUSED', 'Marguerite']	Paquita	; puis ces flambeaux, allumés pour éclairer sa vie, avaient été soufflés par un vent froid. [MASK], stupéfaite, n’eut dans sa douleur que la force de donner le signal du départ.– Ceci est inutile, dit-elle en jetant le bandeau.
+
+['Marie', 'Jésus', 'Thérèse', 'Jeanne', 'Catherine']	Paquita	Elle n’avait même pas entendu le dernier soupir de [MASK], et croyait qu’elle pouvait encore être écoutée par la morte.– Meurs sans confession ! lui disait-elle ; va en enfer, monstre d’ingratitude ; ne sois plus à personne qu’au démon.
+
+['Il', 'Paul', 'Pierre', 'Louis', 'Jean']	Henri	[MASK] se trouvait donc sous l’empire de ce sentiment confus que ne connaît pas le véritable amour. Il fallait en quelque sorte le persuasif arrêt des comparaisons et l’attrait irrésistible des souvenirs pour le ramener à une femme. L’amour vrai règne surtout par la mémoire.
+
+['on', 'elle', 'il', 'On', 'Allah']	Henri	Ses pieds nus étaient marqués le long du dossier du divan, sur lequel elle avait sans doute couru. Son corps, déchiqueté à coups de poignard par son bourreau, disait avec quel acharnement elle avait disputé une vie qu’[MASK] lui rendait si chère.
+
+['Joseph', 'Moïse', 'Pierre', 'Louis', 'Jean']	Henri	Le mulâtre et le cocher prirent [MASK] à bras le corps, l’enlevèrent, le mirent sur une espèce de civière, et le transportèrent à travers un jardin dont il sentit les fleurs et l’odeur particulière aux arbres et à la verdure.
+
+['Jean', 'Jeanne', 'Pierre', 'Julien', 'Pierrot']	Paul	Samedi, personne. Me voilà, aujourd’hui, attendant cette fille dont je suis la chimère, et ne demandant pas mieux que de me poser comme le monstre de la fresque.– La voilà, dit [MASK], tout le monde se retourne pour la voir…
+
+['nouveau', 'cesser', 'continuer', 'refuser', 'force']	Marsay	Elle le serra dans ses bras par une étreinte où il y avait la terreur de la mort. Puis elle poussa un ressort qui devait répondre à une sonnette, et supplia de [MASK] de se laisser bander les yeux.– Et si je ne voulais plus, et si je voulais rester ici.–
+
+['Madame', 'Marie', 'Alice', 'Marianne', 'madame']	Paul	; un jaune d’or qui brille, de l’or vivant, de l’or qui pense, de l’or qui aime et veut absolument venir dans votre gousset !– Nous ne connaissons que ça, mon cher ! s’écria [MASK].
+
+['Il', 'Elle', 'On', 'Dieu', 'Cela']	Henri	lui dit-elle en courant à lui le poignard levé.[MASK] lui arrêta le bras, et ils purent ainsi se contempler tous deux face à face. Une surprise horrible leur fit couler à tous deux un sang glacé dans les veines, et ils tremblèrent sur leurs jambes comme des chevaux effrayés.
+
+['une', 'femme', 'la', 'âme', 'créature']	Péri	Il eut donc la triste force d’avoir une pensée à lui, de juger sa maîtresse, de l’étudier tout en s’abandonnant aux plaisirs les plus entraînants que jamais [MASK] descendue des cieux ait trouvés pour son bien-aimé.
+
+['Oui', 'Ah', 'Oh', '—', 'Voyons']	Henri	[MASK], certes il se passe en toi quelque chose d’extraordinaire, et cela se voit malgré ta discrétion active.– Oui ! tiens, il faut que je dévore le temps jusqu’à ce soir. Allons au jeu. Peut-être aurai-je le bonheur de perdre.
+
+['il', 'on', 'elle', 'Socrate', 'Jason']	Henri	Sous cette fraîcheur de vie, et malgré l’eau limpide de ses yeux, [MASK] avait un courage de lion, une adresse de singe. Il coupait une balle à dix pas dans la lame d’un couteau ; montait à cheval de manière à réaliser la fable du centaure
+
+['le', '[...]', '...', 'son', 'la']	Henri	Puis peut-être comptait-il sur sa puissance et sur son savoir-faire d’homme à bonnes fortunes pour dominer quelques heures plus tard cette fille, et en apprendre tous les secrets.– Eh ! bien, lui dit-elle, laisse-moi t’arranger à mon goût.– Mets-moi donc à ton goût, dit [MASK]
+
+['elle', 'Alice', 'Madeleine', 'nouveau', 'part']	Paquita	disait-il à [MASK] d’une voix pénétrante.– As-tu donc jamais besoin de me dire : – Veux-tu ? s’écria-t-elle. Ai-je une volonté ? Je ne suis quelque chose hors de toi qu’afin d’être un plaisir pour toi.
+
+['Alice', '<unk>', 'Emma', 'Émile', 'Anna']	Henri	; car cette mère était restée dans l’imagination d’[MASK] comme quelque chose d’infernal, d’accroupi, de cadavéreux, de vicieux, de sauvagement féroce, que la fantaisie des peintres et des poètes n’avait pas encore deviné.
+
+['lui', 'elle', 'eux', 'soi', 'nous']	Henri	Malgré cette parole légère, le jeune homme avait reparu chez [MASK]. Pour attendre jusqu’au lendemain sans souffrances, il eut recours à d’exorbitants plaisirs : il joua, dîna, soupa avec ses amis ; il but comme un fiacre, mangea comme un Allemand, et gagna
+
+['Il', 'Louis', 'Joseph', 'Antoine', 'Dieu']	Henri	[MASK] était fort, il voulut se jouer du mulâtre. Lorsque la voiture partit au grand trot, il lui saisit les mains pour s’emparer de lui et pouvoir garder, en domptant son surveillant, l’exercice de ses facultés afin de savoir où il allait.
+
+['nouveau', 'celui', 'manière', 'lui', 'façon']	Marsay	Je ferai tout ce que tu voudras, et même ce que tu ne voudras pas, répondit en riant de [MASK] qui retrouva son aisance de fat en prenant la résolution de se laisser aller au cours de sa bonne fortune sans regarder ni en arrière ni en avant.
+
+['Gaulle', 'nouveau', 'même', 'suite', 'justesse']	Marsay	Mais, avant de prendre cette précaution, il avait serré son poignard avec défiance dans sa poche de côté, et se boutonna jusqu’au menton.– Il m’aurait tué, ce Chinois-là ! se dit de [MASK].La voiture roula de nouveau rapidement.
+
+['Gaulle', 'Médicis', 'Vinci', 'Castro', 'Villiers']	Marsay	Au moment même où de [MASK] oubliait tout, et concevait le désir de s’approprier à jamais cette créature, il reçut au milieu de sa joie un coup de poignard qui traversa de part en part son cœur mortifié pour la première fois.
+
+['elle', 'on', 'il', 'Elle', 'On']	Henri	dit-elle d’un air triste. Nous avons même peu de jours à nous.Elle baissa les yeux, regarda sa main, et compta de sa main droite sur les doigts de sa main gauche, en montrant ainsi les plus belles mains qu’[MASK] eût jamais vues.–
+
+['elle', 'Alexandre', 'Antoine', 'Adam', 'Ali']	Henri	Elle ne parle que sa langue maternelle.L’attitude de cette femme et son envie de deviner, par les mouvements de sa fille et d’[MASK], ce qui se passait entre eux furent expliquées soudain au jeune homme, que cette explication mit à l’aise.–
+
+['Zola', 'Rousseau', 'Balzac', 'Voltaire', 'Paris']	Rousseau	Enfin il s’y voit encore certains jeunes gens, riches ou pauvres, qui embrassent des carrières et les suivent tout uniment ; ils sont un peu l’Émile de [MASK], de la chair à citoyen, et n’apparaissent jamais dans le monde.
+
+['Voltaire', 'Socrate', 'Pierrot', 'Julie', 'Julien']	Paul	Mon cher ami, dit [MASK], tes plaisanteries sont bien poussées au noir, ce matin.– Que veux-tu ? la volupté mène à la férocité. Pourquoi ? je n’en sais rien, et je ne suis pas assez curieux pour en chercher la cause. –
+
+['Il', 'Elle', 'Charles', 'Churchill', 'David']	Henri	En quoi t’ai-je déplu ? lui dit-elle. Parle, expliquons-nous.[MASK] garda l’attitude flegmatique de l’homme fort qui se sent vaincu ; contenance froide, silencieuse, tout anglaise, qui annonçait la conscience de sa dignité par une résignation momentanée.
+
+['Vénus', 'Juliette', 'Madeleine', 'Marie', 'Jeanne']	Paquita	– Mon ami, dit-elle, emmène-moi, cette nuit même ! Jette-moi quelque part où l’on ne puisse pas dire en me voyant : Voici [MASK] ; où personne ne réponde : Il y a ici une fille au regard doré, qui a de longs cheveux.
+
+['Elle', 'Il', '</s>NOTUSED', 'elle', 'Marie']	Henri	celle de la justice, un puits plein de chaux qui s’allumerait pour te consumer sans qu’on retrouvât une parcelle de ton être. Tu resterais dans mon cœur, à moi pour toujours.[MASK] regarda cette fille sans trembler, et ce regard sans peur la combla de joie.–
+
+['Pierre', 'Joseph', 'Charles', 'David', 'Jean']	Henri	Ne m’as-tu pas prise ? Quand nous l’aurons pris, il nous appartiendra.Il se mit à rire.– Pauvre innocente ! tu ne sais rien des choses de ce monde.– Non, mais voilà ce que je sais, s’écria-t-elle en attirant [MASK] sur elle.
+
+['Il', 'Chacun', 'il', 'Jupiter', 'Napoléon']	Henri	[MASK] pouvait ce qu’il voulait dans l’intérêt de ses plaisirs et de ses vanités. Cette invisible action sur le monde social l’avait revêtu d’une majesté réelle, mais secrète, sans emphase et repliée sur lui-même.
+
+['celui', 'celle', 'ce', 'Flaubert', 'Rose']	Henri	Tu comptes avec tes amis ?– Mon cher, dit [MASK] qui se refusait rarement une ironie, comme il pourrait t’arriver cependant tout comme à un autre d’avoir besoin de discrétion, et que je t’aime beaucoup… Oui, je t’aime !
+
+['Joseph', 'Pierre', 'Louis', 'Charles', 'Jean']	Henri	dit [MASK] en regardant l’homme malheureux.Le mulâtre resta les yeux attachés sur ces deux jeunes gens, en homme qui n’entendait rien, et qui cherchait néanmoins à deviner quelque chose d’après les gestes et le mouvement des lèvres.– Je suis écrivain public et interprète.
+
+['Il', 'II', 'Lui', 'il', 'Comme']	Henri	; puis, de sa main libre, il tira un poignard triangulaire, en sifflant. Le cocher entendit le sifflement, et s’arrêta. [MASK] était sans armes, il fut forcé de plier ; il tendit la tête vers le foulard.
+
+['voir', 'regarder', 'contempler', 'Paris', 'Dieu']	Henri	Elle parut alors si merveilleusement belle à [MASK] que toute cette fantasmagorie de haillons, de vieillesse, de draperies rouges usées, de paillassons verts devant les fauteuils, que le carreau rouge mal frotté, que tout ce luxe infirme et souffrant disparut aussitôt.
+
+['elle', 'il', 'on', 'Vénus', 'Juliette']	Paquita	Ce salon, cette vieille femme, ce foyer froid, tout eût glacé l’amour, si [MASK] n’avait pas été là sur une causeuse dans un voluptueux peignoir, libre de jeter ses regards d’or et de flamme, libre de montrer son pied recourbé, libre de ses mouvements lumineux.
+
+['lui', 'moi', 'nous', 'Pierre', 'David']	Henri	En se posant près de [MASK], ou même en marchant à ses côtés, il avait l’air de dire : – Ne nous insultez pas, nous sommes de vrais tigres. Souvent il se permettait de dire avec fatuité :
+
+['Paul', 'Marie', 'Pierre', 'Charles', 'Julien']	Paquita	Il put alors lire dans cette page si brillante d’effet, en deviner le sens caché. L’innocence purement physique de [MASK], l’étonnement de sa joie, quelques mots d’abord obscurs et maintenant clairs, échappés au milieu de la joie, tout lui prouva qu’il avait posé pour une autre personne.
+
+['tous', 'eux', 'la', 'nouveau', 'chacun']	Henri	mit sa main sur la portière, et agita son mouchoir, à l’insu de la duègne, en se moquant du qu’en dira-t-on des curieux et disant à [MASK] publiquement à coups de mouchoir : – Suivez-moi…– As-tu jamais vu mieux jeter le mouchoir
+
+['Joseph', 'Marie', 'Jean', 'Louis', 'Pierre']	Henri	Pendant ce trajet, elle se retourna de moments en moments pour revoir [MASK], et parut suivre à regret la vieille dont elle semblait être tout à la fois la maîtresse et l’esclave : elle pouvait la faire rouer de coups, mais non la faire renvoyer.
+
+['Monsieur', 'Maintenant', '–', 'Alors', '—']	Paul	[MASK], laisse-nous seuls un moment.– Je lui ai traduit cette lettre, reprit l’interprète lorsqu’ils furent seuls. Quand elle fut traduite, il a été je ne sais où. Puis il est revenu me chercher pour m’amener ici en me promettant deux louis.–
+
+['Gaulle', 'Balzac', 'Villiers', 'Beaumont', 'Navarre']	Marsay	Enfin, mon cher, que me fait celle que je n’ai point vue ! reprit de [MASK]. Depuis que j’étudie les femmes, mon inconnue est la seule dont le sein vierge, les formes ardentes et voluptueuses m’aient réalisé la seule femme que j’aie rêvée, moi
+
+['ce', 'Napoléon', 'Dieu', 'Jésus', 'Nietzsche']	Henri	Quoique [MASK] fût, non pas un esprit fort, ce mot est toujours une raillerie, mais un homme d’une puissance extraordinaire, un homme aussi grand qu’on peut l’être sans croyance, l’ensemble de toutes ces circonstances le frappa.
+
+['Charles', 'Louis', 'Eugène', 'Pierre', 'Alexandre']	Laurent	Ces deux femmes ont l’air d’être cousues ensemble.– Ce que vous me dites, estimable facteur, reprit [MASK] après avoir dégusté le vin, me confirme ce que je viens d’apprendre. Foi d’honnête homme, j’ai cru que l’on se moquait de moi.
+
+['Seigneur', 'Père', 'Jésus', 'Dieu', 'Marie']	Adolphe	[MASK], emmène-moi donc au bout de la terre, dans une île où personne ne nous sache. Que notre fuite ne laisse pas de traces ! Nous serions suivis dans l’enfer. Dieu ! voici le jour. Sauve-toi. Te reverrai-je jamais ?
+
+['hein', 'non', 'toi', 'monsieur', 'moi']	Paul	! Ma parole d’honneur, s’il ne te fallait qu’un billet de mille francs pour t’empêcher de te brûler la cervelle, tu le trouverais ici, car nous n’avons encore rien hypothéqué là-bas, hein, [MASK] ?
+
+['Charles', 'Pierre', 'Antoine', 'Julien', 'Henry']	Henri	– Après, répéta-t-elle. Ses yeux devinrent fixes ; elle parut contempler un objet éloigné, menaçant. – Je ne sais pas, dit-elle.– Cette fille est folle, se dit [MASK], qui tomba lui-même en des réflexions étranges.
+
+['Elle', 'Marie', 'elle', 'Julie', 'Anna']	Paquita	[MASK] ne comprit rien à ce que disait le jeune homme ; elle le regarda doucement en ouvrant des yeux qui ne pouvaient jamais être bêtes, tant il s’y peignait de volupté.– Tiens, mon amour, dit-elle en revenant à sa première idée, veux-tu me plaire
+
+['Madame', 'Mme', 'madame', 'Catherine', 'Diane']	Paquita	Cette indication devait l’éclairer dans les recherches qu’il se promettait de faire pour reconnaître l’hôtel où se trouvait le boudoir de [MASK]. Il étudia de même les détours que ses porteurs firent dans la maison, et crut pouvoir se les rappeler.
+
+['Madame', 'madame', 'Marie', 'Mme', 'Mademoiselle']	Laurent	Le portier de monsieur le baron de Nucingen, dont le jardin touche par en haut à celui de l’hôtel San-Réal, me l’a dit effectivement, reprit le facteur.– Bon, mon maître le connaît, se dit [MASK].
+
+['moi', 'lui', 'vous', 'toi', 'Voltaire']	Christemio	J’avais une curiosité de démon, je voulais rompre ce cercle d’airain que l’on avait décrit entre la création et moi, je voulais voir ce que c’était que des jeunes gens, car je ne connais d’hommes que le marquis et [MASK].
+
+['Julie', 'Marie', 'Marguerite', 'Juliette', 'Jeanne']	Paquita	Mon bien-aimé, reprit [MASK], parle-moi ; ne me laisse pas sans un adieu d’amour ! Je ne voudrais pas garder dans mon cœur l’effroi que tu viens d’y mettre. Parleras-tu ? dit-elle en frappant du pied avec colère.
+
+['ami', 'monsieur', 'Monsieur', 'chéri', 'moi']	Paul	Ces cigares sont excellents. Donne du thé à ton ami. – Sais-tu, [MASK], que je mène une vie de brute ? Il serait bien temps de se choisir une destinée, d’employer ses forces à quelque chose qui valût la peine de vivre.
+
+['Dieu', 'Satan', 'Napoléon', 'argent', 'César']	Spéculation	; hé ! bien, ce sous-chef est venu promettre à ce monde de sueur et de volonté, d’étude et de patience, un salaire excessif, soit au nom des caprices de la ville, soit à la voix du monstre nommé [MASK].
+
+['Ah', 'Oh', 'Enfin', 'Non', 'Maman']	Mariquita	– [MASK] ! cria le jeune homme en rugissant, je sais maintenant tout ce dont je voulais encore douter.Il sauta sur le meuble où était renfermé le long poignard. Heureusement pour elle et pour lui, l’armoire était fermée. Sa rage s’accrut de cet obstacle ;
+
+['monsieur', 'Monsieur', 'madame', 'Madame', 'cocher']	Paul	Puis apercevant un fiacre prêt à s’en aller après avoir amené du monde, il fit signe au cocher de rester.– Suivez ce coupé, voyez dans quelle rue, dans quelle maison il entrera, vous aurez dix francs. – Adieu, [MASK].Le fiacre suivit le coupé.
+
+['Gaulle', 'Villiers', 'Castro', 'Navarre', 'David']	Marsay	Le mulâtre fit un signe ; la voiture partit.– Oui ! cria de [MASK] furieux de perdre un bonheur qu’il s’était promis. D’ailleurs, il voyait l’impossibilité de capituler avec un esclave dont l’obéissance était aveugle autant que celle d’un bourreau.
+
+['Il', 'Arthur', 'Thomas', 'Simon', 'Richard']	Henri	[MASK] ne savait pas pardonner. Le savoir-revenir, qui certes est une des grâces de l’âme, était un non-sens pour lui. La férocité des hommes du Nord, dont le sang anglais est assez fortement teint, lui avait été transmise par son père.
+
+['Elle', 'Il', 'elle', 'il', 'On']	Paquita	Et si je voulais savoir qui règne ici ?[MASK] le regarda en tremblant.– Ce n’est donc pas moi, dit-il en se levant et se débarrassant de cette fille qui tomba la tête en arrière. Je veux être seul, là où je suis.– Frappant ! frappant !
+
+['Monsieur', ':', 'Voltaire', 'Jean', 'le']	Henri	dit [MASK], deux heures et demie.– Eh ! bien, puisque nous sommes entre nous et que nous pouvons tout nous dire, explique-moi pourquoi un homme supérieur autant que tu l’es, car tu es supérieur, affecte d’outrer une fatuité qui ne doit pas être naturelle en lui.
+
+['Marie', 'Jeanne', 'Clara', 'Rose', 'Sophie']	Paquita	Cet appartement blanc, où le sang paraissait si bien, trahissait un long combat. Les mains de [MASK] étaient empreintes sur les coussins. Partout elle s’était accrochée à la vie, partout elle s’était défendue, et partout elle avait été frappée.
+
+['gagner', 'vivre', 'recevoir', 'toucher', 'remporter']	Barbaja	mais il savait battre un homme du faubourg au terrible jeu de la savate ou du bâton ; puis, il touchait du piano de manière à pouvoir se faire artiste s’il tombait dans le malheur, et possédait une voix qui lui aurait valu de [MASK], cinquante mille francs par saison.
+
+['même', 'lui', 'nouveau', 'Gaulle', 'retour']	Marsay	Ainsi était de [MASK].Heureux en ce moment de son avenir, il redevint jeune et flexible, et ne songeait qu’à aimer en allant se coucher. Il rêva de la Fille aux yeux d’or, comme rêvent les jeunes gens passionnés.
+
+['Elle', 'Il', 'Marie', 'On', 'Elles']	Paquita	Des lambeaux entiers de la tenture cannelée étaient arrachés par ses mains ensanglantées, qui sans doute avaient lutté long-temps. [MASK] devait avoir essayé d’escalader le plafond. Ses pieds nus étaient marqués le long du dossier du divan, sur lequel elle avait sans doute couru.
+
+['Marie', 'Julie', 'Juliette', 'Sophie', 'Mathilde']	Paquita	mais aussi, jeté par delà cette ligne où l’âme est maîtresse d’elle-même, il se perdit dans ces limbes délicieuses que le vulgaire nomme si niaisement les espaces imaginaires. Il fut tendre, bon et communicatif. Il rendit [MASK] presque folle.–
+
+['lui', 'Alexandre', 'Thomas', 'Adam', 'elle']	Henri	La duègne regarda fixement et avec attention les deux jeunes gens. Quand l’inconnue et [MASK] se rencontrèrent de nouveau, la jeune fille le frôla, et de sa main serra la main du jeune homme. Puis, elle se retourna, sourit avec passion ;
+
+['Dieu', 'chacun', 'Baudelaire', 'Vénus', 'Descartes']	Henri	Tout ce que la volupté la plus raffinée a de plus savant, tout ce que pouvait connaître [MASK] de cette poésie des sens que l’on nomme l’amour, fut dépassé par les trésors que déroula cette fille dont les yeux jaillissants ne mentirent à aucune des promesses qu’ils faisaient.
+
+['lui', 'force', 'côté', 'là', 'nouveau']	Marsay	Tentative inutile. Les yeux du mulâtre étincelèrent dans l’ombre. Cet homme poussa des cris que la fureur faisait expirer dans sa gorge, se dégagea, rejeta de [MASK] par une main de fer, et le cloua, pour ainsi dire, au fond de la voiture
+
+['Il', 'On', 'Elle', 'il', 'II']	Laurent	– La marquise n’est donc pas une jeune fille qui…– Ah ! dit le facteur en interrompant le valet de chambre et le regardant avec attention, tu es un commissionnaire comme je danse.[MASK] montra quelques pièces d’or au fonctionnaire à claquette, qui se mit
+
+['le', 'Monsieur', 'la', 'Pierre', 'monsieur']	Henri	Que dit-il ?– Il me prévient, répondit l’homme malheureux, que, si je fais une seule indiscrétion, il m’étranglera. Il est gentil, et il a très-fort l’air d’en être capable.– J’en suis sûr, répondit [MASK].
+
+['lui', 'elle', 'Ahmed', 'André', 'Albert']	Henri	Mais à l’heure dite, le soir, sur le boulevard, il attendit la voiture, qui ne se fit pas attendre. Le mulâtre s’approcha d’[MASK] pour lui dire en français une phrase qu’il paraissait avoir apprise par cœur :
+
+['Il', 'Elle', 'On', 'II', 'Dieu']	Henri	Voici bientôt le jour.[MASK] ne répondit pas. Ce jeune homme avait une triste qualité, car on regarde comme une grande chose tout ce qui ressemble à de la force, et souvent les hommes divinisent des extravagances.
+
+['Molière', 'Madame', 'Voltaire', 'Juliette', 'Monsieur']	Henri	Ta marquise n’a pas pensé que les sons sortiraient par le tuyau de la cheminée, dit le chef des Dévorants avec le rire d’un critique enchanté de découvrir une faute dans une belle œuvre. – Nous seuls, nous savons tout prévoir, dit [MASK].
+
+['la', '–', '«', 'La', ':']	Henri.–	Qu’est-ce qui nous a pêché ces deux drôles-là ? dit [MASK] Pantoufle ! il y en a un qui me donne le frisson, répondit Paul.– Qui es-tu, toi qui as l’air d’être le plus chrétien des deux ?
+
+['il', 'on', 'Il', 'chacun', 'elle']	Henri	Toutes ses œuvres intellectuelles ou physiques sont signées par une marque de destruction. Il avait plu légèrement, la terre était humide. Pendant la nuit certaines odeurs végétales sont beaucoup plus fortes que pendant le jour, [MASK] sentit donc les parfums du réséda le long de l’allée par laquelle il était convoyé.
+
+['elle', 'il', 'Elle', 'Marie', 'Vénus']	Paquita	.En ce moment, [MASK] leva la tête, jeta sur lui un de ces regards qui vont jusqu’à l’âme et la brûlent. Elle lui parut si belle, qu’il se jura de posséder ce trésor de beauté.
+
+['Il', 'Elle', 'On', 'Louis', 'Antoine']	Henri	D’ailleurs, il voyait l’impossibilité de capituler avec un esclave dont l’obéissance était aveugle autant que celle d’un bourreau. Puis, était-ce sur cet instrument passif que devait tomber sa colère ?Le mulâtre siffla, la voiture revint. [MASK] monta précipitamment.
+
+['Allons', 'Seigneur', 'Père', 'Oh', 'Maintenant']	Adolphe	il te servira avec le même dévouement qu’il a pour moi si je le lui recommande.Elle attendit un mot de réponse, et reprit avec un accent plein de tendresse : – [MASK], dis-moi donc une bonne parole. Voici bientôt le jour.
+
+['monsieur', 'Monsieur', 'alors', 'maître', 'donc']	Chinois	Je lui ai traduit cette lettre, reprit l’interprète lorsqu’ils furent seuls. Quand elle fut traduite, il a été je ne sais où. Puis il est revenu me chercher pour m’amener ici en me promettant deux louis.– Qu’as-tu à me dire, [MASK] ?
+
+['Dieu', 'Jésus', 'Charles', 'Alexandre', 'lui']	Henri	Tu es encore trop jeune, trop belle, dit [MASK] en la prenant dans ses bras et lui donnant un baiser.– Adieu, dit-elle, rien ne console d’avoir perdu ce qui nous a paru être l’infini.
+

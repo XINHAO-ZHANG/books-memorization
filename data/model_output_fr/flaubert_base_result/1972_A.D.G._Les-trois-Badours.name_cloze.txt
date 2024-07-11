@@ -1,0 +1,200 @@
+['lui', 'vous', 'charlie', 'sam', 'toi']	Cocigrue	Et je suis allé me démaquiller et me changer. Ah mais ! * Après avoir mangé un morceau sur le pouce et bu un coup de flotte, je décide de passer, avant mon rendez-vous avec [MASK], à notre salle pour y récupérer le flingue de notre exprisonnier.
+
+['la', 'le', ',', 'et', 'ou']	Bus	[MASK] roupille, l’inconscient, tête de piaf qui me fait confiance pour la bouffe, la dorme, la baise. Et l’autre grosse flotte qui boulotte comme trois vaches et qui va radiner t’à l’heure avec une faim décuplée par sa promenade à pincettes.
+
+[')', '-', 'le', 'en', 'un']	Micro	— On peut pas dire pourtant, tenta de plaisanter [MASK], qu’il suivait un régime sans selle… Dehors, les chevaux avec leurs bonshommes dessus, faisaient une haie d’honneur. Les minots nous suivaient, portant les gerbes.
+
+['il', 't-il', 'elle', ',', 't-elle']	Bus	— Il est d’accord pour le braquage, lui murmure [MASK] en clignant de l’œil. — Bravo ! Ça s’arrose. Il s’empare secco d’une betterave et la tutute au goulot, comme un malpropre. Je m’insurge contre ce manque de délicatesse :
+
+['ne', 'moi', 'lui', 'eux', 'ils']	Frantz	Le cagoulard et [MASK] m’avaient pas paru être des enfants de chœur, rien que leur intention de nous zigouiller froidement, tous les trois, ça prouvait qu’ils n’hésitaient guère, sans compter leur complice Pedro le nain qu’ils n’avaient pas raté.
+
+[',', 'et', '...', 'mais', 'tout']	Sophie	Je lui explique qu’on a reconnu le curé alors qu’on donnait une représentation et qu’on a pris les ravisseurs en chasse, délivré [MASK] sans bobo. Il est dubitatif. — Vous trouvez pas, il dit, que ça fait beaucoup de coïncidences.
+
+['on', '</s>', 'il', 'elle', '-']	Micro	Au long de la levée, je remarque des phares dans mon rétroviseur. [MASK] a vu aussi. Il temporise mon ardeur combative : — C’est pas la peine de les cravater maintenant, on va attendre qu’ils nous ramènent le zigue, là on pourra les surprendre.
+
+['il', 't-il', 'ulrich', '-il', 'elle']	Micro	* C’est pas possible, murmurait [MASK] affolé, on va pas braquer et se faire un arraché avec cet engin. Je tournai autour du véhicule : bien joli avec ses dais noirs, ses pompons d’argent, ses grandes roues cerclées de fer.
+
+['police', 'monsieur', 'gendarmerie', 'service', 'madame']	Sophie	Le cagoulard, il attend sans doute qu’on se soit tirés pour enlever son masque et partir dans une autre chignole. En débouchant dans la rue, j’ai le temps d’apercevoir, parquée le long du trottoir, la voiture de [MASK].
+
+['celui', 'celle', 'julien', 'juliette', 'camille']	Micro	Pour une fois, je suis déchargé de la présentation, un des langoureux à roucoulades veut bien s’en occuper. Les adolescentes commencent à sautiller sur les planches sous l’œil déçu de [MASK] qui s’est fait flanquer à la porte pendant le déshabillage.
+
+['mais', 'et', 'car', 'que', 'ou']	biscotte	— Votre fille n’est pas avec moi, Cocigrue (je deviens familier, la douleur va nous rapprocher), elle a été kidnappée par une bande de gangsters qui ne vont pas tarder à vous réclamer une rançon. Du coup, ça doit être l’apoplexie, [MASK] je l’entends plus.
+
+['</s>', "j'", 'il', 'on', 'je']	Debret	Il tâtonne sur le tableau de bord, je fais des dérapages contrôlés pour couper leur retraite aux gangsters qui courent en ligne brisée. [MASK] appuie sur un bouton, la capote de la voiture se lève, se déploie comme une voile.
+
+['homme', 'ange', 'évêque', 'église', 'été']	Auguste	Mon habit d’[MASK] par exemple, bien sûr, faut qu’il fasse misérable, mais dans le beau ; là c’est clodo et compagnie, d’ailleurs le futal il en vient de la mandave, une vraie crasse que j’ai dû faire désinfecter tellement il m’avait refilé de morbacs.
+
+['aussi', 'cela', 'ça', 'normal', 'juste']	Cocigrue	Faut dire que le cagoulard et ses séides n’y vont pas de main morte, il doit trouver [MASK], que pour un homme qui est dans l’alimentation, ça fait cher le kilo de bidoche. — Ils m’ont dit qu’ils tueraient la petite si je prévenais la police.
+
+['pas', 'passer', ',', 'de', 'toujours']	Micro	fait [MASK] l’air inquiet. On te l’a vraiment kidnappée ta souris ravageuse ? — J’en ai peur, vieux pote, ça a même, si tu veux mon avis, un certain rapport avec le citoyen qu’on vient d’emmener au bain.
+
+['qui', 'et', ',', 'il', 'lui']	Pedro	[MASK], comme un esclave égyptien en mortier dans les Pyramides, participait à sa façon à l’édification de la nouvelle société. Et sans morosité. C’est comme ça, sans trop d’affres, qu’on a atteint le samedi.
+
+['il', 'qui', 'et', ',', 'elle']	Micro	[MASK] soulève son bicorne avec une onction qui ferait envie au pape. — Le mieux, je dis, c’est de l’abandonner à proximité de notre salle, ça nous ferait pas loin à porter le fric. Tout le monde opine et Bus arrête ses chevaux.
+
+['je', ',', 't-il', 'moi', ')']	Micro	— Tu vas voir, me rassure [MASK], ça va très bien se passer, d’ailleurs, tu sais ce que j’en pense, tout flan et compagnie cette histoire… — Possible, je murmure rêveusement, mais peut-être pas dans le sens que tu crois.
+
+['poste', 'vote', 'travail', 'logan', 'peter']	Cocigrue	L’hyper-marché est en vue, s’agit plus de faire de fausses manœuvres. Bus arrête l’attelage et le camoufle derrière une annexe du grand bâtiment. On descend. La lumière est encore allumée dans le bureau de [MASK] et l’Estafette du transfert stationne devant la porte.
+
+['moi', 'nous', 'vous', 'eux', 'soi']	Cocigrue	l’inaction me pèse. C’est alors que je me souviens de mon projet de casse chez [MASK] : les bergères Louis XVI, la chouette commode Empire que j’ai remarquée dans le salon, les miniatures, tout ce bastringue trop beau pour un épicier.
+
+['qui', 'et', 'il', 'me', ',']	Micro	[MASK] toussait comme un perdu quand on est sortis, dégommés, pas fiers de nous. Surtout moi qui me vantais d’être un garçon pondéré, calme et de bon sens. Le « greatest show », je le voyais mal embarqué, mais pas mèche à revenir en arrière, mes acolytes auraient pas compris.
+
+['le', "l'", 'la', 'un', 'une']	Micro	— Tiens, dit [MASK], qui tente de déchiffrer un papier, ça devait être un de nos admirateurs, regarde ce que j’ai trouvé dans sa poche. Je me reproche d’y avoir pas songé plus tôt à le vaguer.
+
+['le', 'la', "l'", 'son', '.']	Sophie	— Faut pourtant, je dis en ouvrant la lourde de l’appartement, qu’on se débarrasse du citoyen, manière de retrouver [MASK]. Tu verras, quand elle sera revenue, on lui apprendra les claquettes ; avec le magnifique popotin qu’elle a, elle fera un malheur…
+
+['nouveau', 'moi', 'merveille', 'volonté', 'moitié']	Bus	Un immense sac qu’on a tout mis à cuire en même temps, dans la lessiveuse, pour économiser le gaz. Nouilles froides, nouilles vinaigrette, nouilles qui rancissent, fadasses et tristes comme un baiser de bigote. Marre. Je sors un biffeton de ma poche et le tends à [MASK].
+
+['jules', 'victor', 'papa', 'julien', 'tom']	Bus	Il conclut en disant que de tant causer, ça donne soif, farfouille à tâtons dans la cour, trouve un robinet. Il en boit. Ça alors, c’est soufflant. Je réveille [MASK] qui a l’air bien content de me revoir.
+
+['et', 'toi', 'car', 'homme', 'parce']	Micro	— Tu me répugnes profondément, [MASK], non seulement tu pues par toutes tes pores, mais en plus tu schlingues de l’âme. On l’a réuni le pauvre petit homme, mis dans un sac de jute et puis on a pris la direction de l’achélème, avec le camion de l’hyper-marché.
+
+['je', 'se', "j'", 'moi', 'me']	Micro	Je sursaute ; on en est au coup de la tête transpercée par vingt-quatre couteaux et c’est moi qui m’y colle dans la boîte. Pendant que [MASK] rabat le couvercle et commence déjà à actionner les petits volets qui détourneront les lames, je gamberge à tout va.
+
+[',', 'et', '"', ')', 'de']	Cocigrue	Moi, j’en profite pour me rappocher de la lourde, subrepticement. — Allô, fait angoissé [MASK]. Oui, moi-même. Va-t-elle bien ?… Ça cause, il écoute, tout pâle, les traits tirés. Le magnéto ronfle doucement.
+
+['il', 'elle', 'maman', 'papa', 'jean']	Bus	Tu voudrais quand même pas qu’à moins d’une semaine de notre braquage, on se pointe comme des naves chez les poulets avec notre nabot sous le bras. — Ah, dit [MASK], ça tient toujours le coup, malgré la fille ?
+
+['mais', 'et', 'même', ',', 'surtout']	Micro	Au bout d’un temps, on est de vieux copains, elle est curieuse de notre vie, elle veut que je lui présente mes complices, là, ça me plaît pas trop, [MASK] avec ses rots et ses odeurs, je le trouve nettement pas flatteur.
+
+['je', 'vous', 'ne', 'tu', 'n']	Cocigrue	Un enlèvement, pour ces morphales de l’actualité criminelle, ça serait chouette aubaine. À moins que [MASK] les ait pas alertés pour cause de représailles sanglantes sur la chair de sa chair. À moins tout simplement que les gangsters ne l’aient pas encore rencardé, voulant d’abord rendre les comptes avec noszigues
+
+['réparer', 'construire', 'entretenir', 'faire', 'nettoyer']	Sophie	— J’ai appris, dit la charmante, le vilain tour que vous a joué mon père. Elle sort vingt sacs de son fourre-tout et me les tend. Je refuse d’un geste noble. — Ça n’est pas à vous, [MASK], de réparer, vous n’y êtes pour rien…
+
+['therrien', 'julien', 'deschamps', 'vincent', 'bouchard']	Bus	T’as remarqué le cadenas le temps qu’on l’ouvre, on aura des cheveux blancs. Et les convoyeurs iront pas à la pêche. — Il faudrait se planquer avant, fait remarquer [MASK], c’est la seule chance qu’on ait de les surprendre.
+
+[',', 'face', ':', "jusqu'", 'même']	Frantz	J’entends au loin des sirènes : les flics radinent à la rescousse. La montagne [MASK] à qui je vais, tient toujours la mallette au fric. Ils se dirigent vers le mur que nous avons un peu contribué, mes Badours et moi, à élever.
+
+['</s>', 'qui', 'et', 'ceci', 'cela']	Micro	Déjà que j’ai résolu le coup de la planque discrète à proximité immédiate de la lourde du bureau… Mes compagnons conviennent volontiers de mon génie. [MASK], pour une fois, apporte même de l’eau à mon moulin : — Et ça sera fastoche pour le piquer.
+
+['</s>', 'ne', 'il', '-', "n'"]	Bus	— Dans la salle à manger et puis c’est pas pour longtemps, tas de boue ! — En tout cas, il décrète, c’est moi qui prends le canapé. [MASK] dit rien, moufte pas : il pionce comme un enfant perdu, son petit museau chafouin reniflant l’air avec précaution.
+
+['</s>', '-', 'elle', 'il', 'la']	Micro	Ça se rapproche, on dirait, ça gronde, ça rit. — Il y a un cirque ici, je demande ; ou c’est la révolution ? [MASK] groume de devoir encore porter le coffre, biscotte son asthme.
+
+['lui', 'toi', 'vous', 'moi', 'pierre']	Bus	Il me montre la maudite lessiveuse. Il y a bien sûr les nouilles qui virent au vert poilu et au beau milieu, un bras humain avec le doigt tendu, comme une étonnante accusation. Je m’affale aussi contre le mur, à côté de [MASK].
+
+['</s>', '-', '"', '_', ')']	Micro	On dépose délicatement le cercueil sur le trottoir et on étend la colonelle, toujours dans les vapes, dessus. [MASK], prévenant, la couvre de gerbes. — Pas toutes, je le préviens, laisses-en sur le corbillard pour que ça fasse sérieux.
+
+["j'", 'on', 'et', 'il', 'puis']	Micro	Je dois le terminer d’un bon smatche du pied dans la tempe, un vrai shoot de penalty à Colombes. Je rattrape mes acolytes : Bus est déjà aux rênes, prêt à démarrer sur les chapeaux de roue, [MASK] essaie de camoufler la malle au trésor sous les monceaux de gerbes funéraires.
+
+['de', "d'", 'un', 'le', 'ce']	Sophie	s’il n’y avait pas [MASK], comment que je laisserais tout tomber, je les laisserais se débrouiller avec leurs histoires de fous, de nain, leurs conneries de grandes personnes. Moi, il y a que les gosses, en fin du fin, qui m’intéressent :
+
+['jacques', 'jean', 'raoul', 'jules', 'georges']	Bus	Il faudra qu’il se farcisse les trois bornes à pinces, ça lui fera pas de mal. — T’es dur avec lui, dit tout doucement [MASK] en pointant son museau de rat étriqué vers le gros qui s’est relevé et tente d’ouvrir la portière.
+
+['on', 'il', 'je', 'elle', 'chacun']	Bus	Dans son genre, il est presque aussi canulant que le nain qui flotte toujours dans son vinaigre. Enfin, comme il a l’air, le Jaune, de vouloir rester bien tranquille, on lui permet de boire le jus avec nous et [MASK] pousse la gentillesse jusqu’à rapporter un croissant supplémentaire.
+
+[',', 'il', 't-il', 'elle', 'tu']	Micro	J’explique : — Elle va vivre avec nous, tâchez d’être bien élevés, propres et tout. — C’est pas possible, geint [MASK] avec envie, t’as un talisman diabolique, t’es certain qu’elle est pas miro, qu’elle t’a bien maté ?
+
+['de', 's', 'par', 'à', 'et']	Debret	— Des concurrents, ils veulent nous piquer le gag de la lessiveuse de nouilles… Ça le fout en pétard, [MASK], il s’agite de rage, il proteste : — Ah non, c’est à nous ça, hein, ils n’ont pas le droit
+
+["l'", 'la', 'ce', 'mon', 'son']	Debret	Plus la peine de remonter, il trouverait ça louche. Il mate mon paquet avec suspicion. Néanmoins, je lui trouve à [MASK], un air vague, un peu halluciné. Se camerait-il ? — C’est un nain, je lui dis en montrant mon colibar…
+
+['</s>', '"', '--', '-', '...']	Bus	Tu crois que c’est elle ce chambard ? [MASK] qui farfouille, vient me mettre sous le blair une de nos affiches au dos de laquelle sont tracés, au crayon feutre rageur, ces quelques mots sybillins : « Et n’y reviens pas. »
+
+['je', 'il', ',', 'et', 'qui']	Bus	[MASK] rigole comme un perdu, ses yeux de rongeur étincellent de satisfaction. Il me montre ce qu’il tient à la main : l’aiguille, l’espèce d’alêne avec laquelle il perce les ballons dans le numéro de tireur d’élite.
+
+['.', ',', 'le', 'm.', 'paul']	Micro	On empoigne la malle et on se hâte vers la salle. La rumeur se rapproche, on commence même à voir une foule qui débouche au coin de la rue, agitée, frissonnante, bruyante. — C’est pour nous, s’affole [MASK], ils vont nous lyncher
+
+['moi', 'nous', 'ici', 'toi', 'vous']	laga	Une table de jardin, deux chaises et une caisse de fruits, c’est tout l’ameublement. On fait jamais que camper, bien heureux quand, comme [MASK], on a une douche et une cuisine potable, des chiottes propres.
+
+['18', '13', '19', '11', '12']	Micro	Ces crapules m’ont pourtant bien dit que j’allais la retrouver. — Pourquoi ils nous tuent pas tout de suite ? demande [MASK]. — T’es pressé ? je grogne ; sans doute pour faire durer le suspense… Ça gratte au mur ;
+
+['je', 'on', 'ça', 'il', "j'"]	Bus	Pour le reste, ça va, [MASK] se casse la gueule comiquement, je prends des tartes sur le coin du pif à faire s’esclaffer un congrès de presbytériens, Micro en clown blanc a ce qu’il faut de dignité bouffonne.
+
+['elle', 'on', 'il', 'et', 'je']	Sophie	Oui, [MASK] sortait de la limousine, bâillonnée, les pieds entravés, sautillant maladroitement, sa superbe chevelure rousse au vent, l’air furieux. Je courus la délier. Je pensai qu’à la serrer dans mes bras, lui rouler le baiser joyeux des retrouvailles.
+
+['t-il', 'vivement', 't-elle', '.', '-je']	Micro	Et elle déplia, derrière notre banquette, un petit strapontin. On se regarde, atterrés : — Qu’est-ce qu’on va en faire de la vieille ? me souffla [MASK]. — On verra bien, je dis. Allez Bus, fonce.
+
+['moi', 'maman', 'sophie', 'papa', 'elle']	Micro	— C’est forcé, explique [MASK], les cornichons ça fait tout pareil ! On l’enveloppe dans un drap qu’on boucle bien pour éviter que ça jute, je le charge sur mes épaules et à la queue leu leu, on s’engage dans l’escalier.
+
+["n'", 'on', 'qui', 'il', 'n']	Micro	[MASK] en croit pas ses yeux quand il arrive, suant et puant son Eucalyptus, ses chaleurs d’aisselle, son entrecuisse douteux. Rassuré sur mes bonnes intentions, il gueule : — Me laisser comme ça, bouseux ! Alors, vous avez fait un héritage ?
+
+['madame', 'elle', 'madeleine', 'monsieur', 'marcel']	Cocigrue	— Ah, s’empresse [MASK], quel bonheur, comment vous remercier Commissaire, cet affreux cauchemar est enfin terminé. — Pour nous, oui, je fais, mais pour vous, il commence. Il paraît qu’on rêve drôlement en cabane.
+
+['on', 'il', 'elle', 'personne', 'tout']	Micro	On le dépose avec précaution sur le bord du trottoir et on démarre dare-dare. Le plus simple que j’aie trouvé, c’est de stocker la came dans notre salle de répétition où d’ailleurs [MASK] nous attend, dans les affres, paraît-il.
+
+['non', 'moi', 'toi', 'oui', 'ça']	Jésus	Que [MASK], c’est un Zorro super-star ! — Laisse, j’ordonne, c’est jaune et ça sait pas, il va falloir se dépatouiller autrement pour la retrouver, mon p’tit coin de ciel bleu. On enferme le prisonnier toujours attaché sur sa chaise dans les gogues qu’on boucle de l’extérieur.
+
+['toi', 'vous', 'elle', 'lui', 'eux']	Sophie	Moi surtout, c’est à [MASK] que je gamberge. Demain soir au plus tard, la rançon payée, elle sera dans mes bras musculeux, on pourra arriver à s’aimer, sans nain, sans cagoulard, sans Teuton-tue-t-on, rien que du frais et beau, du pur et net.
+
+['vérité', 'mémoire', 'voix', '...', 'midi']	Sophie	Il s’agirait d’une farce d’étudiants… » — Pourvu que ça marche, la restitution de [MASK], je m’inquiète en fermant le bouton de la radio… C’est marrant, tout curé qu’il soit, il me donne guère confiance ce Rivière.
+
+['le', 'ce', 'patte', 'et', 'tête']	Bus	Un coup de phare, derrière, le chinetoque ligoté avec des lambeaux de chemise et, appuyé sur lui, [MASK] qui roupille, son énorme œillet à la boutonnière, ses immenses lèvres de maquillage, son nez rouge et ses yeux de rat. — T’as rien à mangaver ?
+
+['le', 'de', 'la', ',', 'un']	Micro	Surprise ! [MASK], derrière son rade, se demande pourquoi je ne dégaine pas. Elle est toute chouette, en robe légère avec un immense chapeau genre toilette à hippodrome qui laisse échapper des mèches folles de son éclatante chevelure de feu. — Tire, bondieu, murmure
+
+['-', '...', ',', '(', ':']	Micro	— Il est follingue, gémit [MASK] ! T’es vraiment insatiable : tu vas lui faucher sa recette de la semaine, sa gamine, et maintenant son mobilier… Il ne va plus lui rester que les yeux pour pleurer à cet homme !
+
+['il', 'papa', 'maman', 'jean', 'pierre']	Micro	— Tu sais, dit [MASK], qu’on a un spectacle dimanche en matinée… — Que foutre, je rétorque de mauvais poil, dimanche on aura une centaine de briquettes en poche, on va pas aller se faire caguer l’humour pour des pélegreux.
+
+['il', "j'", ',', 'qui', 'et']	Micro	[MASK] a bien tenté de protester, alléguant que s’il s’était fait artiste, c’était pas pour se salir les mains, mais quand j’ai menacé de lui envoyer le sac de jute au visage, il est devenu plus compréhensif.
+
+['le', ',', 'la', 'et', "l'"]	Debret	Une autre histoire de brigands, sans doute. [MASK], se relève, halluciné, les yeux dans le flou, le képi à l’envers. — C’est le nain, le nain qui était dans le vinaigre. — Vous inquiétez pas, je dis au lardu, il divague
+
+['</s>', 'il', 'je', 'elle', 'on']	Bus	D’un seul coup, le Chinois pousse un cri surpris de bête blessée. Il me lâche, je me rattrape d’un geste mou à la rambarde. [MASK] m’agrippe et me fait revenir sur le plancher des vaches.
+
+['monseigneur', 'noël', 'faust', '...', 'georges']	Zitrone	Chaque Français a désormais le cerveau directement branché sur une antenne et dis donc, pour leur faire faire la fête, pardon monseigneur, hilarant [MASK], féerique Chabannes, toute la grande parade des emmanchés à destination « spécial-débiles » !
+
+['</s>', 'on', 'elle', 'il', 'cela']	Micro	On s’attendait presque à ce qu’elle hurle « exécution » tant c’était sec. L’esprit militaire du défunt qui avait déteint, sans doute. [MASK] me souffla à l’oreille : — Il faut qu’on s’arrache avant qu’ils nous refilent le colon.
+
+['lui', 'moi', 'elle', 'toi', 'vous']	Cocigrue	Je vais jusqu’à [MASK], je l’empoigne par son revers de veston. Il se défend mollement : — Mais qu’est-ce que ça veut dire, qu’est-ce qui vous prend ? Lâchez-moi ! — Ça veut dire, couillon, que tu es fait.
+
+["j'", 'il', '</s>', "l'", 'tout']	Bus	Arrivé aux marches, je lui propulse un maître coup de pompes dans le fion, il s’envole. [MASK] accouru apprécie en connaisseur l’écarté des bras et le liant du plongeon, il atterrit un demi-étage plus bas, la lessiveuse faisant casque résonne dans le mur.
+
+['ça', 'moi', 'vous', 'tu', 'cela']	Louis-Ferdinand	— Des nouilles, je fais, encore une pleine lessiveuse de nouilles comme [MASK]. On les a eues, ces pâtes, par la gentillesse d’un organisateur de spectacles qui était fabricant. Un immense sac qu’on a tout mis à cuire en même temps, dans la lessiveuse, pour économiser le gaz.
+
+['cette', "l'", 'la', 'cet', 'ce']	Sophie	Je fais le tour de la celloche, pas lerche de lumière, juste un rayon de soleil qui passe par un soupirail obstrué par des mottes de terres plissées façon hercynienne. Mais où est donc [MASK] ? Ces crapules m’ont pourtant bien dit que j’allais la retrouver.
+
+['un', 'celui', 'deux', "l'", 'son']	Frantz	On déboule à la grille juste comme le cureton tend une valise à [MASK], assis à côté du chinetoque qui conduit. L’autre Jaune est derrière, une mitraillette à la main. C’est lui qui nous aperçoit le premier, il gueule dans son dialecte, son compatriote démarre.
+
+['celui', 'celle', 'savoir', 'chacun', 'ce']	Bus	Il n’y a pas à compter sur lui, je demande à [MASK] qui a bien tout empilé avec soin dans la lessiveuse : — On va la descendre tous les deux chez le gardien, ça me paraît louche sa participation à la sépulture pâteuse du défunt nain.
+
+['(', '-', ',', 'un', '-']	Micro	— Et pourquoi dans le coffre ? fait [MASK] interloqué. — Parce que c’est un nain, eh ballot ! — Ah bon, il dit, rassuré, c’est bon ça un nain, ça fait toujours rire les enfants et puis ça va agrandir la troupe, si je puis me permettre ce mot !
+
+['quoi', 'cela', 'moi', 'près', 'lui']	Bus	Suivi de [MASK], j’allai jusqu’à la porte et sonnai, très naturellement. Personne ne répondit. — C’est curieux, je murmure soudain très inquiet, est-ce que ça a un rapport avec les deux gniaces qui viennent de sortir en voltige ?
+
+['son', "l'", 'monsieur', 'cheval', 'la']	Micro	L’ennui c’est que le copain, il commençait à plus être tout frais et que, par en dessous la lourde du cabinet de toilette, se glissaient des remugles puissants qui combattaient victorieusement, c’est dire, les odeurs naturelles de [MASK], lequel avait d’ailleurs une autre idée à ce sujet.
+
+['notamment', 'ainsi', 'ceci', 'elle', 'alors']	Sophie	Je courus la délier. Je pensai qu’à la serrer dans mes bras, lui rouler le baiser joyeux des retrouvailles. Le père Rivière se détourna même pas, preuve que cette nouvelle génération n’a aucun sens des convenances. Elle expliquait, [MASK] :
+
+[',', '1', '2', 'je', 'de']	Luc	— Je t’aime, [MASK]. Cracra zinc, écaillés murs, loqueteux tapis de ce noir caboulot du plus dégueu’ quartier tourangeau, vous êtes mes témoins, elle m’aime, elle le dit, le répète en m’enfonçant ses ongles vernis dans mon poignet !
+
+['il', 'elle', 'on', 'je', 'et']	Bus	— T’as l’air bête, je lui dis, qu’est-ce que tu veux faire, eh, figure ! Un tour de passe-passe ? — Sait-on jamais, il fit d’un air mystérieux, sait-on jamais… [MASK] descendait toujours, doucement, avec précaution.
+
+[',', '...', ';', '.', '!']	Bus	Et ça chipote, ça, madame ! — Tiens, dis, c’est marrant, susurre [MASK], tu sais pas qui c’est, au fait, le Président de cette Association Laïque ? C’est le directeur de l’hypermarché…
+
+['il', 'on', 'elle', 'chacun', 'lui-même']	Bus	— On le connaît pas, il dit à toute vibure, voyant se rapprocher dangereusement l’aiguille à laquelle [MASK] vient d’aller donner un petit coup de retour de flamme, on l’a jamais vu, c’est son second qui nous donne les ordres.
+
+['on', 'je', 'qui', 'il', 'ça']	Micro	On monte avec Bus, [MASK] reste dans le garage, j’en jurerais pas, mais il me semble, claquant des dents. On se planque tous les deux dans le séchoir collectif de l’étage, qui se trouve juste à l’entrée du palier.
+
+['lui', "l'", 'son', 'thomas', 'celui']	Micro	On roule dans la ville. L’incroyable Bus s’est rendormi, quant à [MASK], assis en coin, il se plaint tout bas comme un bébé et des larmes rigolent sur son maquillage blanc. Arrêt feu rouge, un flic s’approche de la voiture, intrigué.
+
+['il', 'y', 'on', 'lui', 'papa']	Bus	* Le lendemain matin, [MASK] va pour chercher les croissants, c’est lui le plus frais, il a une faculté de réadaptation post-éthylique assez stupéfiante. Je me suis levé, puisque aussi bien je peux pas dormir et je prépare le caoua dans la cuisine.
+
+['elle', 'il', 't-il', 't-elle', 'ensuite']	Micro	— Tu sais pas le plus simple, dit [MASK] en se retournant pour voir si les gars filent le train, ça serait que moi par exemple, je me mette en planque dehors… Oh lui, je le vois venir gros comme une montagne iratatoua !
+
+['il', 'on', 'papa', 'maman', 'père']	beau-papa	D’ailleurs, ça ne sera que justice : comme [MASK] refusera de doter sa fille, il n’est que temps de m’en occuper moi-même. Seulement, je peux pas faire ça tout seul, il va y avoir du conditionnement et du portage.
+
+['dsk', 'dieu', 'drogue', 'lui-même', 'sarko']	Sophie	Je gueule quelques « allô » bruyants et ça redonne signe de vie enfin, au bout du fil. — C’est horrible, il dit, sans que je sache très bien si c’est l’enlèvement de [MASK] ou le fait qu’on va lui demander du pognon qu’il qualifie ainsi.
+
+['</s>', 'celui', ',', '-', 'celle']	Micro	J’ouvre la portière du côté passager. [MASK] qui me dépasse d’une bonne tête mais est lâche comme c’est pas possible, se protège la tête avec les mains, ainsi que le cancre qui voit arriver le maître et sa règle en fer.
+
+['ce', 'à', 'celui', 'pour', ',']	Micro	Je pense au calme. — Dans l’état où il est, je dis, il n’y a plus qu’une solution : le mettre dans un endroit où jamais personne ne pourra aller le rechercher. — On pourrait l’incinérer, suggère [MASK] qui se masse les arpions.
+
+['ça', 'bon', 'non', 'bien', 'maman']	Luc	Je renfonce la bouffarde dans son bec médusé et remonte chez moi. — Écoute [MASK], c’est pas pour te faire de la peine, mais suppose que ta bandeuse elle t’ait juste mis le grappin dessus pour que tu l’aides à se débarrasser du refroidi.
+
+['celui', 'celle', ',', 'ce', '</s>']	Micro	. — Encore une de tes bonnes idées, dit [MASK] qui enlevait le couvercle de la première poubelle, y’a pas à dire, t’es un vrai cerveau. Je bée. Quoi qu’il veut dire, cette fleur de nave ?
+
+[',', '...', 'toi', 'et', 'etc']	Micro	Catastrophe ! Ciel ! Calamité ! Dieu ne nous a pas à la bonne… — Bon, je dis en vitesse, plus le temps d’hésiter, tassez bien et rentrez quand même. — T’es nazebroque, renâcle [MASK], on va pas être rien dégueulpouilles !
+
+['</s>', 'il', 'elle', "c'", 'qui']	Micro	Ça lui plaira tout à fait. [MASK] est dans un coin, tirant sur une affreuse cigarette à l’eucalyptus, se désintéressant de la question. Je l’interpelle gentiment : — Eh, gros tas de crottes, j’aurai quand même un peu besoin de toi.
+
+['il', '-il', 'jacques', 'on', 'pierre']	Micro	— Pas moi, dit [MASK], il est entré dans notre bâtiment. Immédiatement, les cars de police convergent vers le bloc, prennent position sur les pelouses. Les mannequins sortent avec leur bouclier, piétinant allègrement les massifs de fleurs.
+
+['coup', 'un', 'de', 'son', 'le']	Sophie	Ce qui me semblait terrible à moi, c’était d’avoir manqué délivrer [MASK], à dix secondes près, c’était choucard, j’avais sa voix encore en moi. On pouvait pas dire que j’en avais énormément profité de sa présence !
+
+['assez', 'trop', 'mal', 'grave', 'bien']	mariole	— Tu vois, tartine pas [MASK], que tu racontais des balourdises. Il y a quelqu’un d’autre dans le coup, quelqu’un qui veut nous faire des méchancetés. C’est pas la petite qui a plongé pour récupérer le pygmée et nous le ressortir comme un cadeau prime à une lessiveuse de nouilles.
+
+['</s>', 'je', '-', 'il', '--je']	Micro	— N’insistez pas, je fais grandiose, nous n’en sommes pas à ça près et je m’en voudrais d’accepter de l’argent de vous. [MASK] roule des yeux furibards, il me prend et il a pas tout à fait tort, pour le nazebroque complet.
+

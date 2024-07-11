@@ -1,0 +1,200 @@
+['le', 'la', "l'", 'M.', ',']	Jean-Nu-Pieds	Le commissaire central s'est adressé à l'un des locataires de la maison, et lui a promis une somme d'argent, s'il consentait à lui transmettre une note sur tous les habitants. —Quel est ce locataire? demanda naïvement [MASK].
+
+['se', 'femme', 'celle-ci', 'lui', 'la']	Jacqueline	Le regard de [MASK] plongeait dans les massifs de verdure. Elle regarda plus distinctement, et aperçut nettement la silhouette d'un homme, qui se détachait en gris sur le fond du massif. Alors la même idée qui lui était déjà venue passa de nouveau dans son esprit.
+
+['on', 'On', '...', ',', 'a']	Jean-Nu-Pieds	Pendant dix-huit ans, on dut craindre tous les jours ce qui est arrivé aux journées de Février. Ce qui commence par la barricade finit par la barricade. C'est fatal. En toute autre circonstance, [MASK] aurait tenu compte de ce trouble des esprits;
+
+['et', 'il', 'elle', 'puis', 'Il']	Jacqueline	Il s'arrêta devant celle portant le numéro 17 et ouvrit la porte. [MASK] pénétra dans une pièce obscure, malgré le grand et chaud soleil qui inondait la rue de ses rayons. Un bon bourgeois, d'apparence calme et honnête, était assis à une table et écrivait.
+
+['il', 'Il', 'qui', 'et', ',']	Jean	C'était difficile, et cela pouvait être dangereux. Il ne fallait pas qu'il fît consciencieusement cette trahison involontaire dont voulait le rendre coupable le sous-chef de la police politique. [MASK] marchait lentement. À mesure qu'il faisait du chemin, il voyait les deux agents qui se rapprochaient de lui.
+
+['personne', 'on', 'rien', 'il', 'nul']	Deutz	La soirée s'écoula, lente, personne ne vint. [MASK] ne se possédait plus. —On me volera mon argent! murmura-t-il en se promenant à grands pas dans sa chambre, et quand il eut entendu sonner minuit à l'horloge voisine.
+
+['elle', 'ne', 'il', 'Elle', 'et']	Jean	Ils pouvaient s'aimer sans crime, et se le dire, puisqu'ils allaient se marier. La jeune fille était prise de doutes. Elle se demandait si elle rêvait: la réalité dépassait tellement pour elle tout ce qu'elle avait jamais osé espérer de plus beau! Le soir, [MASK] put se lever.
+
+['il', 'Il', 'et', 'Pierre', 'Jean']	Deutz	Cette infamie lui faisait sentir la grandeur du crime qu'il avait commis. Il sonna; un huissier parut. —Chassez cet homme! s'écria-t-il avec emportement. [MASK] eut peur, il crut qu'on voulait lui arracher son argent.
+
+["l'", 'marquis', 'Lucien', 'Roger', 'Laure']	Ploguen	—Cher ami, il y a trois jours, j'étais le plus malheureux, et, aujourd'hui, je suis le plus heureux des hommes! Le marquis prononça cette phrase avec une voix si vibrante, avec une joie si contenue, que le cœur de [MASK] en fut doucement remué.
+
+['Elle', 'Il', 'elle', 'Celle-ci', 'Jeanne']	Fernande	Si ceux-là savent que vous êtes la fille de leur prisonnier, ils n'oseront pas toucher à un cheveu de sa tête… [MASK] avait la force de comprendre et non pas de raisonner. Elle ne pouvait pas sentir, dans l'égarement de ses sens, l'invraisemblance d'une pareille aventure.
+
+['elle', 'celle-ci', 'il', 'celui-ci', 'chacun']	Jacqueline	A sa grande surprise, le sous-chef de la police politique vit que [MASK] avait subi son petit discours, sans témoigner la moindre émotion. La jeune femme était immobile et muette. Ses yeux calmes et froids se fixaient sur lui avec tranquillité.
+
+['.', '</s>', 'nbsp', 'Monsieur', 'monsieur']	Rébecca	Il était père d'un grand nombre d'enfants, qui tous s'étaient mariés depuis de longues années. Sur le tard, une fille avait vu le jour, à la suite d'un second mariage: [MASK]. —Vous avez reçu ma lettre, monsieur?
+
+['Madame', 'Monsieur', 'Mademoiselle', 'madame', 'Mlle']	Deutz	A peine cinq ou six d'entre nous sont-ils exceptés de cette loi sévère, mais nécessaire. Or, un jeune homme, nommé [MASK]… —Mon filleul! —Oui, Madame. —Je crois pourtant qu'on peut avoir confiance en lui.
+
+['il', 'Il', 'et', 'Pierre', 'Et']	Henry	Une troisième porte fut ouverte. [MASK] avait eu soin de fermer hermétiquement derrière lui toutes les diverses issues qu'ils venaient de franchir. Il compta les pierres qui formaient la muraille. Quand il en fut à la cinquième, il mit la main sur un clou presque imperceptible, et appuya fortement.
+
+['elle', 'lui', 'elle-même', 'Alice', 'celle-ci']	Jacqueline	Il s'arrêta devant un des petits bois qui entouraient la ferme et siffla. Un sifflement aussi léger que le sien lui répondit. Il resta immobile, muet toujours. Quant à [MASK], elle ne cherchait même pas à avoir une explication sur les choses étranges qu'elle voyait.
+
+['ces', "l'", 'tous', 'ceux', 'la']	Jean-Nu-Pieds	Nous sommes ici, plutôt qu'ailleurs, de notre propre consentement. Voici bien franchement la question telle qu'elle doit être posée. Réfléchissez, et décidez. Un silence assez grand suivit les paroles de [MASK]. Ils se regardaient tous un peu étonnés.
+
+['...', '....', '..', 'je', 'tout']	Jean	La pauvre enfant a été enlevée par son père. —Je m'en doutais, murmura [MASK]. —Vous peindre son désespoir, ce serait inutile, ce serait impossible! Séparée de vous, il ne lui restait plus qu'à mourir. Heureusement… j'étais là!
+
+['elle', 'les', 'elles', 'la', 'le']	Fernande	Madame commençait à entrevoir une partie de la vérité. Elle pressentait le drame. Cette noble femme n'avait pu s'empêcher de frissonner en écoutant les lignes lues par [MASK]. Elles respiraient une telle loyauté et, en même temps, une si grande expression de volonté souveraine!
+
+['le', 'la', "l'", 'Pierre', 'les']	Aubin	A l'entrée du village attendaient quatre grandes charrettes attelées chacune de trois chevaux. —Hum! hum! grommela [MASK]. —Qu'as-tu? —Tu as vu ces charrettes? —Oui. —Elles étaient là tout à l'heure? —Oui.
+
+[',', 'qui', '</s>', "l'", "L'"]	Jean-Nu-Pieds	vous êtes encore dix maintenant! Comptez nos rangs! Les vides vous apprendront ce que nous avons fait, et plus d'un de ceux que vous nommeriez manquerait à l'appel! [MASK], ordinairement calme, s'était laissé emporter par sa généreuse colère.
+
+['il', 'Il', 'puis', 'qui', 'et']	Robert	A ce nom d'Hébrard, [MASK] s'arrêta court et marcha droit à l'interne. —Est-ce que je peux le voir, monsieur? dit-il. —Facilement. Le connaissez-vous? —Je crains que ce ne soit un ami que j'attendais, M. Jérôme Hébrard.
+
+['DE', 'S', 'SE', 'E', 'LES']	Fernande	—Elle était auprès des blessés, monsieur le marquis, quand un homme est venu lui parler. —Un homme? —Oui, monsieur le marquis, —Que lui voulait-il? —Il lui apportait une lettre, —Et où est-elle maintenant? —Elle est partie. —Partie! [MASK]…
+
+['Mais', 'Seigneur', 'voilà', 'Oui', 'Voilà']	Jean	—Si nous sommes coupables, qui le saura? Notre conscience! Si nous sommes coupables, qui nous punirait? Dieu! [MASK], reprit-elle à voix haute, la passion allait nous entraîner! La conscience et Dieu, voilà les juges terribles que nous voulions braver.
+
+['elle', ',', 'la', "d'", 'une']	Fernande	[MASK] était connue et aimée parmi les chouans. Ils n'oubliaient pas que, pendant le danger, au milieu des balles, elle avait toujours été la première à risquer sa vie pour aller secourir les blessés et les panser.
+
+['</s>', 'et', 'qui', 'les', 'il']	Aubin	Alors les chouans aperçurent la lumière du soleil qui passait à travers un soupirail assez large, mais, comme tous les soupiraux, fermé par de fortes barres de fer. [MASK] avait accompli en dix minutes un travail pour lequel dix ouvriers auraient demandé une demi-journée.
+
+["l'", 'la', 'cette', 'ce', 'vers']	Nadaud	] [11: En 1832, la télégraphie électrique n'existait pas encore: on se servait du télégraphe à bras, dont les transmissions quelquefois interrompues ont inspiré les jolis vers de [MASK]: … Les mensonges diplomatiques. Qu'arrête souvent le brouillard.
+
+[',', "s'", 'se', "l'", "n'"]	Berryer	Le procureur du roi tira de son portefeuille un certain nombre de pièces, et les fit passer sous les yeux du prévenu. Mais à peine [MASK] y eut-il jeté un regard, qu'il rougit d'indignation et s'écria avec cet accent que lui seul possédait:
+
+['dit-il', 'Tout', 'tout', 'dit-elle', 'dis-je']	Jean	—C'est comme j'ai l'honneur de te le dire. Il y a en ta seigneurie quelque chose de changé. Quoi? je ne le sais pas au juste…, mais il y a quelque chose. —Tu trouves? répliqua [MASK] en souriant gaiement.
+
+['celui', 'Jean', 'Pierre', 'celui-ci', 'Jacques']	Aubin	—Comprends-tu! dit [MASK] qui étendit la main vers le côté où passaient les charrettes. —Non… —Eh bien, la route est là. —Après? —La cave doit prendre de l'air par un soupirail, à cette place.
+
+['son', 'le', "l'", ',', '</s>']	Aubin	sa respiration devenait plus brève et plus sifflante, et, par moment, son bras droit se détachait de sa bouche pour se porter à sa gorge, comme si quelque chose eût étouffé le paysan. [MASK], lui, restait dans la même position: il était seulement un peu pâle.
+
+['Lui', 'Toi', 'Elle', 'Dieu', 'Celui']	Henry	As-tu besoin de moi? —J'allais te le demander, ce secours que tu as la bonté de m'offrir. —As-tu réfléchi? —Oui. —Parle. —[MASK], qui dort là avec tant de calme, est de mon avis.
+
+['B', 'BO', 'BA', 'BIN', 'LA']	Nestor	Il avait sous les yeux un trio admirable. —Et la capitale est-elle tranquille, monsieur? ajouta Mirliflor aîné. —[MASK]! gronda doucement Mirliflor junior, vous empêchez monsieur de dîner. —Bée!… monsieur, voulez-vous du poulet?
+
+['pierre', 'fer', 'marbre', 'granit', 'bronze']	Fernande	Il est vrai que la terre et les pierres, amollies pour ainsi dire par le feu, étaient devenues friables. La pioche enfonçait aisément, ainsi que dans un terrain détrempé par de fortes pluies. Les mains de [MASK] portaient les fières cicatrices de ce labeur sacré.
+
+['et', 'elle', 'Elle', ',', 'puis']	Fernande	Elle prit elle-même la jeune fille dans ses bras, soutenant sa marche qui chancelait, et la conduisit dans une grande chambre où on la coucha. [MASK] s'endormit là d'un profond sommeil. Elle pouvait rêver! la joie lui était rendue.
+
+['La', 'Le', 'la', 'Une', 'Il']	Berryer	Quand il en fut à la cinquième, il mit la main sur un clou presque imperceptible, et appuya fortement. Aussitôt la pierre tourna sur elle-même, livrant passage dans un corridor étroit. La lanterne jetait une faible lueur. —Où sommes-nous ici? demanda [MASK].
+
+['</s>', 'Il', 'Elle', 'il', 'lui']	Fernande	Votre père ne pouvant plus vous donner à un autre, votre fiancé et vous vous aimant, de qui pouvait venir le refus à votre mariage? [MASK] répondit en relevant le front, non sans fierté: —De lui d'abord, de moi ensuite.
+
+['Il', 'Elle', '</s>', 'il', 'elle']	Jean-Nu-Pieds	Amour, tendresse, dévouement, tout ce qui faisait battre mon cœur est là-dedans. Où est-elle? ne lui a-t-il pas menti? [MASK] ouvrit la porte de sa chambre, et se trouva dans le corridor de l'hôtel où il était descendu.
+
+['tous', 'toi', 'chacun', 'certains', 'Dieu']	Jacqueline	Enfant! enfant! tu courbes le front: moi je relève le mien. Tu penses à mourir? Je pense à le venger. Quoi! ces bandits l'ont tué, et ils vivent! Tu es lâche! La fureur contenue de [MASK] se faisait jour.
+
+['lui-même', 'Dieu', 'Nietzsche', 'Montaigne', 'Rousseau']	Judas	J'ai cette occasion, il faut que j'en profite! Une nausée de dégoût saisit le ministre. Il faut une rude force pour supporter de pareilles audaces. Il avait voulu d'abord étudier cet homme, comme un philosophe d'autrefois eût cherché peut-être à analyser [MASK].
+
+['la', 'sa', 'son', "l'", 'ma']	Robert	Ce n'est ni un accident… ni un suicide… c'est un éboulement… messieurs… un épouvantable éboulement. —Hein? quoi? un éboulement? s'écria le premier badaud en tenant toujours le doigt sur le bouton de [MASK], qui tentait en vain de s'échapper.
+
+['ils', 'et', '</s>', 'il', 'elle']	Fernande	Mais ces deux êtres étaient plus grands que les autres. Ils planaient au-dessus des lois humaines, car leurs esprits s'étaient habitués à se plier de bonne heure au joug, dur peut-être, mais sacré, de la loi divine. [MASK] n'avait pas cru pouvoir se détacher de son serment.
+
+['vous', 'ou', 'il', 'la', 'lui']	Deutz	[MASK] fit encore un effort. A droite s'ouvrait une grille, donnant sur une longue allée aboutissant à un château. Il entra dans cette allée… Sur le perron du château, il y avait une jeune femme debout… Il roula à ses pieds, râlant, mourant…
+
+['lui', 'tout', 'Dieu', 'tous', 'lui-même']	Jean-Nu-Pieds	L'une, la jeune fille, voyait de nouveau se briser son bonheur et sa vie, et par ce que la destinée a d'irrémédiable. De nouveau elle était séparée de [MASK]. Une heure, elle s'était crue sauvée. Une grande princesse leur donnait le bonheur.
+
+["l'", 'son', 'la', "L'", 'sa']	Deutz	Puis, il revint lentement à sa table de travail, et après avoir écarté le presse-papiers, avec l'extrémité des pincettes il saisit la grosse enveloppe entre les deux branches de l'instrument. —Comptez! dit-il sèchement en jetant l'enveloppe aux pieds de [MASK].
+
+['Rodin', 'celui-ci', 'Henri', 'Jean', 'Pierre']	Jean	combien d'entre eux, qui souriaient à ce moment, heureux de vivre, aimés, aimants, joyeux, combien, qui dormiraient le soir, dans la terre froide! —Messieurs, dit [MASK], il nous reste un quart d'heure pour décider ce que nous allons faire.
+
+['</s>', ',', 'et', 'Il', 'il']	Jean-Nu-Pieds	[MASK] le regarda dédaigneusement, mais il se tut. —Que voulez-vous, monsieur, il y a dans la vie des choses très-graves… des situations pénibles, et je suis vraiment désolé… hum! hum!… Oh! oui, désolé de vous être désagréable.
+
+['il', 'Il', ',', 'IL', 'Henri']	Jérôme	Il s'éloigna. —Eh bien? demanda [MASK] quand il le vit reparaître. —Eh bien!… Ah! mon ami, je crains bien que vous n'ayez eu raison et qu'il ne soit, en effet, trop tard! —Trop tard!
+
+['il', 'elle', 'Il', ',', 'puis']	Trébuchet	L'agent de police essayait mielleusement, selon toute apparence, de détourner de l'esprit de son compagnon une idée arrêtée. Enfin, au bout d'une heure, l'inconnu resta seul. [MASK] lui serra la main et s'éloigna pour rentrer en ville.
+
+['il', '</s>', 'et', 'elle', 'Il']	Deutz	Un garçon tout endormi se présenta, mais il recula de deux pas à la vue de cet homme pâle comme un mort, couvert de sueur et dont les cheveux en désordre se collaient à ses tempes. [MASK] lui glissa une pièce de monnaie dans la main.
+
+['il', "s'", 'Il', '</s>', "n'"]	Henry	Il craignait qu'une parole du chouan ne trahît son sacrifice, et par cela même ne le rendît inutile. [MASK] était déjà couché. A peine arrivé dans sa cellule, il s'était déshabillé et jeté sur la maigre couchette que donnait à ses pensionnaires forcés la générosité du gouvernement.
+
+['le', "l'", 'M.', 'la', 'un']	Jean	—Non, dit [MASK]. Le second, c'est d'ancrer la barque à la place même où nous sommes, de nous jeter à la nage et de nous approcher de la frégate le plus près possible. Les deux jeunes gens ne répondirent même pas.
+
+['Elle', 'Il', 'elle', 'il', 'et']	Fernande	puis regardant timidement la duchesse: —Madame, dit-elle, vous seule pouvez me sauver… N'êtes-vous pas ma Providence et mon seul espoir? J'aime, j'aime ardemment un de vos gentilshommes et… [MASK] baissa les yeux.
+
+['paysan', 'nouveau', 'pain', 'jour', 'paysans']	Fernande	Puis le travail reprenait. Trois heures s'écoulèrent ainsi. Le soleil s'était levé, lentement, majestueusement. A sept heures du matin, le paysan tournant son chapeau entre les doigts, d'un air très intimidé, dit à [MASK] qu'il avait faim.
+
+['il', 'lui', 'lui-même', 'celui-ci', 'chacun']	Jean-Nu-Pieds	Il se dit que [MASK] avait besoin de sa liberté, sans se dire aussi qu'en prenant sa place il se condamnait lui-même à mort. —Je suis le marquis de Kardigân! répliqua-t-il d'une voix ferme. Pourquoi aurait-on douté?
+
+['son', 'ce', 'chaque', 'un', 'notre']	Berryer	Oui, elle avait pleuré en pensant à [MASK] captif! en pensant à tous ceux qui étaient morts inutilement pour elle. Elle avait pleuré en se disant que la destinée qui l'avait déjà si rudement frappée, ne se lassait pas de l'accabler encore.
+
+['M', 'M.', 'Mr', '...', 'B']	Henry	—Ah! c'est mon secret, répliqua [MASK]. Au lieu d'aller droit, le corridor semblait creusé en biais. Après une marche qui dura environ cinq minutes, les deux hommes trouvèrent une porte en face d'eux.
+
+['M.', 'le', 'que', 'Monsieur', 'monsieur']	M.	il ne lui était point permis d'en douter. Mais pourquoi lui remettait-il ce paquet que [MASK] Grégoire l'avait chargé sans doute d'intercepter? Voilà ce qu'il ignorait et ce qu'il ignorerait jusqu'à ce qu'un indice quelconque fût venu lui révéler la vérité.
+
+['il', 'Il', 'homme', 'Elle', 'elle']	Jacqueline	L'homme ne la quittait pas des yeux. Il paraissait vouloir creuser jusqu'au fond de l'âme de celle qui lui parlait, pour savoir s'il pouvait se fier à elle. [MASK] ne baissa pas son regard sous le sien, et le soutint avec tranquillité.
+
+['tous', 'chacun', 'chiens', 'certains', 'toutes']	Deutz	Les imprécations arrivaient, furieuses, exaspérées, aux oreilles de [MASK]: —C'est le maudit! criait-on. Et toute la meute répétait: —C'est le maudit! —C'est le maudit! Son cœur, lâche, vil, ignoble, battait à rompre.
+
+['il', 'et', ',', 'Il', 'y']	Deutz	[MASK] dormit comme il n'avait jamais dormi. Quand il s'éveilla, le lendemain, l'agitation de la rue était déjà dans tout son plein. Il ouvrit sa fenêtre et se mit à respirer avec une âpre jouissance l'air violent de novembre, qui lui arrivait à larges doses.
+
+['celui-ci', 'ceux-ci', 'ceci', 'lui-même', 'sévèrement']	Henry	De plus, après l'exécution, nous les avons mangés. Malgré sa sympathie pour les prévenus, le colonel dut blâmer [MASK]: —Vous manquez de respect à la justice, monsieur! dit-il. —Oh! c'est impossible, monsieur le président.
+
+['...', 'il', 'Il', '-', 'se']	Deutz	En dépit de son anéantissement physique, [MASK] sentait monter en lui le flot de haine violente qui le secouait. —Je ne peux plus… je ne peux plus avancer, répéta-t-il… Est-ce que je vais mourir là, comme un chien?…
+
+['Elle', 'Il', 'elle', 'il', '*']	Fernande	Puis il songea à cette suite non interrompue de traverses, de bouleversements qui n'avaient pas cessé un seul jour. * * * * * [MASK] était toujours à genoux, sanglotant, et la tête dans ses mains. Mariée! elle était mariée!
+
+['il', 'et', ',', 'elle', 'corps']	Lenneguy	Cependant [MASK] commençait clairement à se fatiguer; sa respiration devenait plus brève et plus sifflante, et, par moment, son bras droit se détachait de sa bouche pour se porter à sa gorge, comme si quelque chose eût étouffé le paysan.
+
+['Elle', 'Il', 'On', 'il', 'Je']	Fernande	Vous êtes trop faible. [MASK] ne répondit rien. Elle sortit de la chaumière et marcha droit au campement des chouans. On la connaissait. La touchante histoire d'amour de ces deux êtres avait ému ces cœurs doux comme le sont tous les cœurs braves.
+
+['ses', 'la', 'son', 'tous', 'sa']	Henry	Il souhaitait que cette vie continuât. Elle le laissait seul avec lui-même. Peut-être espérait-il arriver à se convaincre qu'il ne jouait pas un rôle, et qu'il était bien réellement cet Ulysse Mirliflor dont le nom grotesque excitait à chaque instant la gaieté de [MASK].
+
+['hommes', 'homme', 'hier', 'cave', 'hiver']	Aubin	—Prenons la grande route. C'étaient trois kilomètres de plus: peu de chose en temps ordinaire; mais après leurs fatigues du matin, et surtout après le travail d'[MASK] dans la cave, pourrait-il franchir cette distance, toujours au pas de course?
+
+[',', 'il', ';', 'et', 'Il']	Aubin	[MASK] empoigna le gars à la ceinture, et le tira à côté de lui à bras tendu, aussi facilement qu'un enfant eût fait d'une plume. La descente devenait aisée. Ils sautèrent purement et simplement. Puis, une fois en plaine, ils prirent leur course.
+
+['bord', 'navire', 'port', 'vaisseau', 'régiment']	Wellington	On apercevait çà et là les têtes des agents de police qui venaient mettre ordre à la sympathie intempestive que le public aurait pu éprouver pour les bannis. Le capitaine et les matelots du [MASK] ne laissaient pas de témoigner une vive déférence aux deux jeunes gens.
+
+['Oui', '</s>', 'Ensemble', 'Maintenant', 'Bref']	Fernande	—Vous! vous! —Oui, c'est moi.. —Dieu soit béni! il a en pitié de moi! il a entendu mes supplications, je vous ai là, près de moi… [MASK], nous allons enfin être l'un à l'autre.
+
+['le', 't-il', "l'", 'il', 'la']	Robert	—Ce ne peut être lui, pensa [MASK]. Il se disposait à s'éloigner, mais le badaud enchanté de trouver quelqu'un qui fût disposé à l'écouter, le retint par le bouton de son habit. —C'est un terrible accident, figurez-vous.
+
+["C'", "c'", '</s>', 'Elle', 'elle']	Jacqueline	—Vous avez tort, continua-t-il avec la plus grande douceur. Je suis votre ami. Comme ça, vous n'aimez pas cette pauvre mademoiselle Grégoire? La question était brusquement posée sous son vrai jour. [MASK] était une femme forte, elle se remit promptement.
+
+['enquête', 'tout', 'avoir', 'interrogatoire', 'coup']	Vieillevigne	Il accusa les Vendéens, et surtout le marquis de Kardigân, d'avoir commis toutes les atrocités possibles. A l'en croire, après [MASK], ledit marquis de Kardigân, aidé de son lieutenant M. de Puiseux, avait fait fusiller onze prisonniers dont les corps furent ensuite livrés à des outrages sans nom.
+
+['présent', 'cela', 'Monsieur', 'ceci', 'Madame']	Deutz	—Absent ou non, on doit respecter l'ordre qu'il a donné. —Alors, Madame… —Dites à [MASK] que je le regrette, mais qu'il m'est impossible de manquer aux commandements du chef que j'ai nommé moi-même.
+
+['elle', 'si', 'un', 'lui', 'une']	Hamlet	Ce n'était pas le rêve de la mort qu'elle craignait, comme [MASK]. Non, c'était le rêve de la vie, alors que l'âme, dégagée du corps par le sommeil, plane, légère et immaculée, au-dessus des misères et des souffrances de ce monde.
+
+['il', 'Elle', 'elle', 'Il', 'et']	Dermoncourt	il est plus que jamais de circonstance. [MASK] s'approcha alors de Madame, et lui dit que si elle se trouvait mieux, il serait temps de quitter la maison. —Pour aller où? lui demanda la Duchesse en le regardant fixement… Pour me conduire où?
+
+['...', 'la', "l'", 'A', 'ce']	Deutz	—En savez-vous quelque chose? poursuivit la duchesse de Berry. Une larme roula sur le visage de [MASK]. Oui, une larme! —Dieu est injuste! murmura-t-il. J'aurais espéré, cependant, que dans cet asile introuvable
+
+['celui-ci', 'Patrick', 'Thomas', 'Didier', 'Sam']	Lenneguy	Or, c'était Ceux de la Pénissière qu'il fallait sauver avant tout. Comment s'y prendre? —Dis donc, mon gars, ajouta-t-il tout bas à l'oreille de [MASK], est-ce que tu n'as pas envie de te sortir d'ici?
+
+['-', ',', 'et', ';', 'M.']	Nestor	il était toujours triste, et en arrivant, avait dit à ses voisins: —Nous finirons nos jours ici. [MASK] qui, comme cadet, portait une belle barbe noire et se montrait toujours gai, avait ajouté: —Eh! eh! vous allez faire quelques fredaines!
+
+['</s>', 'Il', 'il', 'qui', '.']	Deutz	—Le gouvernement veut absolument que cette dangereuse affaire de la chouannerie bretonne ait un terme. Quand pourrez-vous livrer la princesse? [MASK] était resté le front courbé, non qu'il eût honte. La honte est un sentiment qu'ignorent les natures infâmes comme la sienne.
+
+['on', 'les', 'On', 'chacun', 'il']	Jean-Nu-Pieds	le cliquetis des fourreaux de baïonnette sur les canons de fusil trouble seul le silence. Enfin, les soldats s'avancent, non pas rapidement, mais lentement, au contraire. Il n'y a plus que cent mètres environ entre les deux corps. [MASK] attend.
+
+['elle', 'il', 'on', 'Marie', 'Hélène']	Fernande	L'homme fut conduit auprès de la jeune fille, et demanda à être laissé seul avec elle. Un peu surprise d'abord, [MASK] crut qu'un grave événement était survenu. —Parlez, dit-elle à cet homme, quand elle eut éloigné deux Vendéens qui étaient là.
+
+['Il', 'il', 'et', 'homme', 'Louis']	Deutz	Je vous prierai de la porter vous-même. Malgré son empire sur lui-même, [MASK] ne put retenir un geste de joie: il s'aperçut qu'il venait de commettre une faute et se hâta de la réparer: —Je suis bien joyeux de pouvoir être utile à ma souveraine!
+
+['la', 'Dieu', "l'", 'personne', 'son']	Fernande	La douleur est la pierre de touche. C'est l'éprouvette humaine. Elle écrase les faibles, mais elle grandit les forts. Pas une seule fois le nom de [MASK] n'avait été prononcé entre ses amis et lui.
+
+['qui', 'lui', 'le', 'et', 'que']	Poulardet	Il s'agissait de passer la journée sans que l'oisiveté de ces prétendus paysans donnât l'éveil. L'aubergiste, [MASK], les employait aux mille besognes très-visibles, qui font dire aux spectateurs:—Oh! oh! voilà de solides gaillards.
+
+['lui', 'elle', 'le', 'son', 'la']	Jean	tout est sauvé. Aussitôt il se précipita sur [MASK], et lui serrant avec force les deux mains: —Pardonnez-moi, monsieur le marquis, le rôle infâme que j'ai dû jouer auprès de vous! Ah! si vous saviez ce que j'ai souffert!
+
+['ac', 'il', 'à', ',', 're']	Henry	[MASK] courut et ouvrit. Le nouveau venu portait une ample redingote qui tombait sur ses talons. —Monsieur Berryer, voici également un des nôtres, continua le jeune homme. Je l'attendais, car il va nous renseigner sur certaines menées dont j'ai peur.
+
+['il', 'on', 'elle', "j'", 'nous']	Deutz	Je tiendrai ma parole… Le soir à neuf heures, [MASK] arrivait dans la maison garnie des frères Mirliflor. A le voir, il eût été impossible de deviner en lui une émotion, quelque légère qu'elle fût. Son œil froid regardait bien en face.
+
+['Il', 'Elle', 'il', 'elle', 'et']	Jean-Nu-Pieds	Grâce à Dieu, si je suis proscrit, je ne suis pas poursuivi. Croyez que, le cas échéant, j'accepterais avec joie votre généreuse hospitalité. Je venais seulement vous demander… [MASK] détourna la tête un instant pour cacher la rougeur qui montait à son front.
+
+['Il', 'il', 'Elle', 'et', 'elle']	Jean-Nu-Pieds	Elle est de ces créatures bénies qui ne savent ni tromper ni mentir… Mais où est-elle? Ses yeux ne savent pas pleurer; ils sont vides de larmes pour en avoir trop répandu. [MASK] reprit la lettre ouverte devant lui et la lut. C'était la dixième fois peut-être.
+
+['Il', 'Elle', 'il', 'elle', 'Marie']	Fernande	Un amoncellement informe de matières brutes et noirâtres. Une seule chose était restée la même: les traces du sang versé qui couraient sur la terre durcie. [MASK] se mit à genoux et pria. —Dieu a donné, Dieu a repris; que Dieu soit béni!
+
+['on', 'il', 'chacun', 'celui-ci', 'elle']	Jean	Un large sourire éclairait le visage des deux braves enfants du peuple, qui ne comprenaient guère «pourquoi on perdait tant de temps pour si peu…» Quand le vote fut terminé, [MASK] enleva le mouchoir qui couvrait le chapeau. Celui-ci contenait quarante-cinq balles!
+
+['il', 'ne', 'lui', 'bien', 'ainsi']	Damoiseau	A neuf heures et demie, impatienté de plus en plus, il sonna, et [MASK] parut. —Il n'est venu personne pour moi? —Bée!… je ne peux pas savoir… monsieur… vous n'avez pas encore dit votre nom… bée!
+
+[',', "n'", 'ne', 'il', 'se']	Scribe	[MASK] aurait pu lui chanter: En vous voyant sous l'habit militaire, J'ai reconnu que vous étiez soldat! Le témoin portait l'uniforme et les galons de caporal de l'armée française. Il fit sa déposition en ces termes:
+
+['il', 'elle', 'Il', 'mais', 'et']	Jacqueline	mais il devenait de plus en plus difficile et dangereux. Cependant rien ne faisait prévoir que les paysans seraient troublés dans leur sainte besogne. [MASK] restait immobile sur la route, interrogeant l'horizon. —Vite!… vite!… râla cette voix humaine qui gémissait.
+
+['Elle', 'et', 'elle', 'Il', 'Et']	Fernande	On ne se met à genoux que devant Dieu. [MASK] se releva; mais ses larmes l'étouffaient: elle ne pouvait parler. —J'étais dans l'église, en même temps que vous, continua la princesse. Je vous ai entendue appeler et invoquer Dieu.
+
+['cela', 'personne', 'celui-ci', 'celle-ci', 'ceci']	Jacqueline	Comme le chêne orgueilleux de la fable, il devait rompre et ne pas ployer. Un éclair passa dans ses yeux, quand il reconnut l'agent de police. —Enfin, vous voilà, dit-il… Mais il s'arrêta court en voyant [MASK].
+
+['OUI', 'RO', 'A', 'MERCI', 'Non']	Fernande	Hélas! lui aussi est mort. —Il respire! murmura [MASK]. —Oh! mon Dieu, dit-elle d'une voix haletante. Oh! mon Dieu, soyez béni. Vous avez eu pitié de lui et de moi!
+
+["c'", 'cela', 'tout', 'ceci', 'celui-ci']	Deutz	Quelle est la jeune fille qui ne rougirait pas en pareille occasion? Elle jeta un regard à la dérobée sur le jeune homme. Nous avons dit que [MASK] était plutôt «mieux que mal», pour nous servir d'une expression vulgaire, incorrecte, mais expressive.
+
+['il', 'elle', 'on', ',', 'sa']	Jacqueline	Elle se demandait pourquoi [MASK] l'avait ainsi brusquement quittée? Mais comme elle était incapable de soupçonner le mal, elle crut que la jeune femme avait fui parce qu'elle souffrait à la vue du bonheur qui leur était promis.
+

@@ -1,0 +1,200 @@
+['tout', 'toute', 'toujours', ',', 'celle-ci']	Marthe	Ces railleries l’exaspérèrent ; il remonta dans sa chambre et il assomma presque [MASK] à coups de bottes. On dut la lui arracher des mains et la jeter dans une voiture qui la déposa au premier hôtel venu. Du coup elle fut guérie de son amour.
+
+[',', 'uns', 'qui', 'elle', 'et']	Marthe	[MASK] écoutait les exploits de ses amies, leurs doux et meurtriers combats, l’œil agrandi, la bouche brûlée de fièvre. Les autres riaient d’elle et l’avaient surnommée « la petite serine ». À les entendre, tous les hommes étaient parfaitement imbéciles !
+
+['</s>', 'il', 'elle', 'on', '--il']	Léo	Plus d’énergies folles, plus de turbulences charnelles, mais une quiétude profonde, une inertie sans réveils. [MASK] l’avait ramassée un soir en se baissant, et elle avait poussé chez lui avec cette indifférence des plantes vivaces.
+
+['lui', 'vous', 'toi', 'antoine', 'maurice']	Francis	Pour fêter la réconciliation qui suivit cette scène, [MASK] et moi nous donnâmes trois francs chacun, et il fut entendu que le clairon, avec l’aide de ses camarades, tâcherait de se faufiler au dehors de l’ambulance et rapporterait de la viande et du vin.
+
+['jacques', 'jean', 'louise', 'marie', 'robert']	Marthe	! Il se demanda s’il ne la renverrait pas comme les autres ; il retira sa main qui s’était coulée sous la tête de [MASK], elle ouvrit les yeux et sourit si gentiment qu’il l’embrassa et lui demanda si elle avait bien dormi.
+
+['moi', 'toi', 'vous', 'lui', 'ce']	Ginginet	c’était le numéro 28 de la salle Saint-Vincent. — Ah ! fichtre, s’écria le jeune homme, mais alors c’est [MASK] qui est mort et moi qui voulais aller prendre de ses nouvelles ! Enfin ! nous irons au moins voir son autopsie à ce pauvre diable
+
+['toi', 'moi', 'eh', 'ma', 'dis']	Marthe	Eh ! dis donc, [MASK], ma petite gigolette, que devient ce plumitif qui t’adore ? L’aimes-tu toujours, vaurienne ? Eh ! voyons, ne fais pas ta tête, tu vois bien que je blague.
+
+['pas', 'faut', 'donc', 'est', 'point']	Gante	[MASK], comme j’ai fait, un vieux qui soit marié ou un tout petit jeune homme qui ne le sera qu’après s’être laissé ruiner ; l’un et l’autre se valent. Le tout c’est de ne pas prendre un amant qui atteigne la trentaine.
+
+['regarde', 'toi', 'petit', 'vois', 'maman']	Ginginet	— Dites donc, mademoiselle Marthe, voilà une lettre que l’ouvreuse m’a dit de vous remettre, grasseya une grosse fille roupieuse. — Ah ! elle est bien bonne, s’écria l’enfant ; regarde donc, [MASK], ce que je viens de recevoir, c’est pas poli, sais-tu
+
+['elle', 'et', 'il', 'puis', 'ou']	Marthe	il faudrait allumer du feu. Craignant que si cette femme devinait leur misère elle ne demandât à être payée d’avance, [MASK] pria son amant d’aller chercher la clef de la cave au bois, – elle devait être dans la poche de sa robe ou sur la cheminée.
+
+['lui', 'toi', 'elle', 'vous', 'maman']	Francis	La nouvelle est vraie. L’hôpital exulte. « Enfoncé Badingue ! c’est pas trop tôt, v’là la guerre qui est enfin finie ! » Le lendemain matin, [MASK] et moi nous nous embrassons, et il part.
+
+['vrai', 'ça', 'impossible', 'sûr', 'moi']	Jules	— C’est [MASK] ! — Tu crois ? — Oh, j’en suis sûr ! Des pleurs d’enfants accompagnés par l’aboiement d’un terrier coupent cette conversation échangée par des gens qu’on ne voit pas. — Eh ! garçon, de la flotte !
+
+['il', '</s>', '...', '!', '--il']	Ginginet	! [MASK] n’en attendit pas davantage ; il se rua sur elle, attrapa à la volée un coin du cristal qui lui bossua le crâne, mais il empoigna la fille par les mains et la jeta rudement sur le plancher.
+
+['je', 'il', 'et', ',', "j'"]	Ginginet	[MASK] hurla à tue-gorge : Elle est mon bien, elle est ma vie ! Puis, clignant de l’œil et tapant sur la cuisse du poète, il bredouilla : Hein, mon fils, c’est une largue qui vous traque les entrailles, ça ?
+
+['</s>', 'il', 'tout', 'le', 'Qui']	Marthe	La tirade, éjaculée par la bonde de cette cuve humaine, fut scandée à grands renforts de « larifla, fla, fla ». La pauvre femme était ahurie et ne savait si elle devait rester ou fuir. [MASK] parut : le charivari cessa.
+
+['moi-même', 'lui', 'toi', 'vous', 'réponses']	Francis	je vous remercie, docteur ; je parlerai ce soir même au général. » Nous sommes dans la rue, je pousse un soupir de soulagement, je serre la main de l’excellent homme qui veut bien s’intéresser à moi, je cours à la recherche de [MASK].
+
+['</s>', 'chacun', 'on', 'elle', 'il']	Marthe	Les jeunes papillonnèrent et allumèrent des cigarettes : d’aucuns, très pâles, disparurent ; les autres s’assirent à côté des femmes et se mirent à les lutiner. [MASK] devint froide comme un marbre dès que l’éphèbe, enhardi par le sans-gêne des couples, voulut l’embrasser.
+
+['</s>', 'et', 'elle', 'on', 'chacun']	Titine	Le mal-être des premiers instants se dissipa bien vite, les hommes s’enhardirent, le gros négociant rit de tout son rire épais. [MASK] prit l’air pincé d’une maîtresse de maison, la bonne eut des familiarités de servante à filles, le punch circula et les inepties commencèrent à se débiter.
+
+["l'", 'celui-ci', 'pierre', "s'", 'celle-ci']	Marthe	Ah bien alors, tu devrais bien me prêter quelques sous pour boire une chopine ; et tendant un affreux bourgeron, il ajouta avec un effroyable sourire : Un jaunet, ma princesse, ça vous portera bonheur. Les yeux de [MASK] eurent comme une explosion d’ivresse :
+
+['</s>', 'elle', 'il', 'le', 'lui']	Jean	un mois après, elle mourut des suites d’un gros rhume gagné dans la cage ventilée où elle demeurait, l’hiver comme l’été, assise. [MASK] resta seul ; la tante Eudore était enterrée depuis longtemps ; ses autres parents étaient ou dispersés ou morts ;
+
+['lui', 'elle', 'valentine', 'julien', 'maurice']	Léo	Elle rompit la conversation que [MASK] avait reprise et regarda le foyer d’un air si sombre que son amant ne sut plus ni que dire, ni que faire. Sur ces entrefaites, la pendule qui jasait sans relâche, comme pour les railler de leur silence, sonna deux heures.
+
+['celui-ci', 'lui', 'lui-même', 'celui-là', 'marie']	Marthe	Il se fit, en effet, réclamer le jour même par l’un de ses amis, et il courut au plus vite à la recherche de [MASK]. La concierge lui apprit sa disparition et la visite des agents.
+
+['toi', 'moi', 'garçon', 'ami', 'jeanne']	loufiat	ô malheur de malheur ! dire que tout cela est parti en même temps que mes cheveux ! Eh toi, [MASK], cria-t-il au garçon, voilà de la braise, éteins-la, il y a cinq chopines à payer et en avant les baladins !
+
+['chacun', 'jusque', 'louise', 'geneviève', ',']	Reine	; le train m’arrête, on prend les billets. Tout bien réfléchi, je conduirai d’abord [MASK] dans mon logement de garçon. Pourvu que son frère ne l’attende pas à l’arrivée ! Nous descendons des voitures, son frère est là.
+
+['de', 'et', ',', 'à', 'par']	Marthe	elle se pencha sur le parapet, eut, pendant une seconde, l’idée d’en finir avec tous ses maux, puis elle eut peur, recula et, effarée, voulut s’enfuir, quand un homme ineffablement ivre lui prit le bras. — Tiens, [MASK]
+
+['et', 'peut-être', 'ou', 'surtout', '...']	Jules	; on arriva enfin à la gare d’Aubervilliers. Il y eut un moment de silence rompu par des bruits de sanglots, dominés encore par une hurlée de Marseillaise, puis on nous empila comme des bestiaux dans des wagons. « Bonsoir, [MASK] à bientôt !
+
+['puis', 'et', 'celui-ci', 'elle', 'alors']	Ginginet	? Et [MASK], remarquant combien elle était pâle, lui demanda si elle souffrait. Elle lui avoua que peu s’en était fallu qu’elle ne se jetât dans la rivière. — Des bêtises, fillette, glapit tragiquement le pochard ;
+
+['</s>', 'il', 'tout', 'cela', 'elle']	Marthe	Ce rêve impossible, cette appétence irréalisable, cette convoitise de sagesse et d’imprévu à heure fixe, le torturaient. [MASK] lui avait semblé, avec ses gaspillages de crinière, ses yeux de fêtes, sa bouche affamée, remplir l’idéal qu’il poursuivait vainement.
+
+['celui', 'celle', 'ceux', 'lui', 'moi']	Gribouille	. « Et voilà où nous en arrivons, nous autres, les indépendants ! Épouser sa maîtresse, c’est être aussi bête que [MASK] qui, de peur de la pluie, se jetait dans l’eau. Et puis encore faut-il en trouver des maîtresses ;
+
+['eux', 'tous', 'eux-mêmes', 'lui-même', 'elles']	Marthe	Il se releva étourdi du coup et, avec cette persistance, née plus encore de la ténacité particulière aux ivrognes que de l’affection qu’il portait à [MASK], il s’élança de nouveau à sa poursuite. Il la vit au loin tirer une porte et disparaître.
+
+[',', 'le', ':', 'ce', 'et']	Francis	je boucle radieux mon sac, et sous la garde d’un servant du lycée, je fais mon entrée à l’hôpital. Je retrouve [MASK] ! Par une chance incroyable, le corridor Saint-Vincent où il couche, faute de place dans les salles, contient un lit vide près du sien
+
+['monsieur', 'moi', 'lui', 'madame', 'vous']	Marthe	: — Monsieur, si vous voulez avoir des nouvelles de [MASK], vous ferez bien de vous adresser à la préfecture de police (2e bureau de la 1 re division, service des mœurs) ; on vous en donnera.
+
+['jeanne', 'chacun', 'celle-ci', 'celui-ci', 'catherine']	Marthe	Une mouche fila sous l’arcade du pont, jetant une bouffée de vapeur tiède au visage de [MASK], laissant derrière elle un long sillage de mousse blanche qui s’éteignit peu à peu dans la suie des eaux. Une pluie fine commençait à tomber.
+
+['or', 'venise', 'damas', 'parme', 'naples']	Cassius	Ventripotent et poussif, il avait des favoris en nageoires, et sa figure offrait cette particularité étonnante, que le nez était en couleur d’aubergine, tandis que le reste de la figure semblait teint avec ce rouge éclatant des peintres émailleurs, la pourpre de [MASK].
+
+['il', ',', 'et', 'qui', 'le']	Ginginet	[MASK] grommelait, le nez sur ses cartes. – Quarante de galapiats, hurla-t-il rageusement en jetant quatre valets sur la table ; et il se leva un instant pour aller voir au travers de l’œil du rideau la composition de la salle. Il revint exaspéré.
+
+['il', ',', 'elle', 'qui', '-']	Marthe	[MASK] interrompit la séance de chiromancie et expliqua en quelques mots à sa compagne le service qu’elle attendait d’elle. — Tu tombes bien, ma chère, répondit la fille, il y a justement réunion ici ce soir. Ce sera très amusant, tu verras.
+
+['lui', 'moi', 'elle', 'lui-même', 'eux']	Marthe	Il avait même fini par s’attacher à cette pauvre femme, si timide qu’elle n’osait lever les yeux et si peu coquette qu’elle se coiffait, la nuit, de madras à raies. Il regrettait de ne pas lui avoir ouvert et il fut à ce moment furieux contre [MASK] ;
+
+['la', 'son', "l'", 'sa', 'ses']	Marthe	Cet incident décida du sort de [MASK]. L’autre lui vanta les profits de sa condition ; elle but deux verres de trop, accompagna son amie jusqu’au bord de l’antre, y hasarda un pied, croyant pouvoir le retirer quand bon lui semblerait.
+
+[',', 'sang', ';', 'mort', '...']	Marthe	Il sortait du râtelier dégoûté et las, ne sachant que faire, irrité par la joie des autres, opprimé par un persistant ennui, puis il apercevait à l’angle d’un carrefour une taille, une robe qui ressemblait à celle de [MASK] et il recevait comme un coup de poing dans la poitrine
+
+['toi', 'moi', 'ma', 'marie', 'elle']	Marthe	; et quant à [MASK], puisque tu me parles encore d’elle à la fin de ta lettre, je lui pardonne toutes ses vilenies, toutes ses traîtrises ; les filles comme elle ont cela de bon qu’elles font aimer celles qui ne leur ressemblent pas ;
+
+['coucher', 'marthe', 'marguerite', 'juliette', 'nuit']	Léo	Elle but, à gosier débordant, des alcools et des bières, mais quand sa tête s’emplissait de brumes, elle revoyait la chambre de [MASK] ; cet amant qu’elle avait torturé comme à plaisir se vengeait par le persistant souvenir de ses bontés.
+
+['lui', 'elle', 'eux', 'nous', 'moi']	Ginginet	? Si elle fût retournée le voir le lendemain qui suivit leur rencontre chez [MASK], nul doute qu’il n’eût crié, nul doute qu’il ne l’eût honnie, mais qu’en fin de compte, il ne fût tombé dans ses bras ;
+
+['il', "j'", 'et', 'qui', 'jean']	Ginginet	! zut ! raca ! je deviens père sérieux ; et ému jusqu’aux larmes, [MASK] accentua son soliloque par un vigoureux coup de poing sur la table, qui fit moutonner le vin dans son verre et éclaboussa son vieux masque pelé de larges gouttes rouges.
+
+['il', 'elle', 'on', "l'", 'chacun']	GINGINET	! N’est aimé que celui qui cogne. Ce n’est pas du marasquin qu’il faut servir aux filles, c’est du vinaigre. J’ai maintenant pour huit jours d’amour sur la planche ! » 9 [MASK] AVAIT PENSÉ JUSTE.
+
+['</s>', 'il', 'et', 'puis', '_']	Marthe	Il se souvint, tout à coup, que sa place n’était pas dans un fauteuil et il passa dans la chambre à coucher. [MASK] s’endormit, surprise. Elle qui avait été la servante résignée de chacun, elle n’avait pas encore vu pareil homme ;
+
+['personne', 'nul', 'on', 'il', 'elle']	Marthe	Mais reste toujours jusqu’à la tombée de la nuit, tu verras après. D’ici là tu auras le temps de réfléchir et de prendre un parti. Le soir vint et [MASK] ne savait à quoi se résoudre.
+
+['</s>', 'elle', 'il', 'qui', 'et']	Marthe	cet amant qu’elle avait torturé comme à plaisir se vengeait par le persistant souvenir de ses bontés. [MASK] se vautra dans le vin pour s’égayer et chasser à jamais la hantise du poète, mais son estomac s’y refusait maintenant, elle eut d’atroces flambées dans le ventre.
+
+['une', 'un', 'la', "l'", 'tu']	Marthe	Ni vu, ni connu, je t’embrouille. Tout bien considéré, vois-tu, ta bedaine me choque avec son va-et-vient perpétuel ; tes joues pèlent, ton nez se truffe, ta figure ne me revient décidément plus. Bonsoir ! — Sais-tu une chose, [MASK] ?
+
+['il', 'et', 'qui', 'elle', 'on']	Marthe	Le sieur Léo t’aura fait des misères. Eh bien ! mais lâche-le ! Au nom de son amant, [MASK] se mit à sangloter. — Allons bon, gémit l’ivrogne, voilà de l’eau, maintenant ! Je gare ma coupe !
+
+['elle', 'et', 'ella', ',', 'emma']	Marthe	[MASK] ne rougissait déjà plus des gravelures qu’elle entendait, elle rougissait de n’être pas à la hauteur de ses compagnes. Elle n’hésitait déjà plus à se donner, elle attendait une occasion propice. D’ailleurs, la vie qu’elle menait lui était insupportable.
+
+['athènes', 'constantinople', 'rome', 'paris', 'rhodes']	Cythère	Quand chacune avait sur le crâne un étage de tignasse et au-dessus du front un tas de banderoles et de fleurs, on buvait l’absinthe, on brassait à nouveau les cartes, attendant l’heure d’appareiller, soit pour Lesbos, soit pour [MASK] ;
+
+['il', '</s>', 'et', '-', 'elle']	Léo	t’amuses-tu ? as-tu trouvé un éditeur ? [MASK] regardait la porte d’un air ennuyé. — Ah ! tu l’attends, murmura-t-elle, j’aurais dû m’en douter – je m’en vais alors – elle est brune ou blonde ?
+
+['il', ',', 'elle', 'qui', 'en']	Léo	[MASK] saisit l’occasion et lui dit : — Je crois qu’il serait temps de nous coucher. Et tandis qu’elle passait dans l’autre chambre, il s’enfouit dans le fauteuil qu’elle venait de quitter, et se plongea dans ses réflexions.
+
+['jeanne', 'madeleine', 'alice', 'marie', 'geneviève']	Marthe	Il tenta de se rappeler les méfaits qu’il avait bien pu commettre. Ne les retrouvant point, il conclut judicieusement qu’il s’était pochardé ; soudain, il se rappela avoir rencontré [MASK], l’avoir suivie jusque dans une petite ruelle dont le nom lui échappait.
+
+['"', ':', 'maintenant', 'donc', 'toujours']	Francis	Bast, tant pis ! dit [MASK], en avant ! » et il se dirige vers la grande porte de l’hôpital. Je le suis. La sœur tourière nous demande où nous allons. « À l’Intendance. » La porte s’ouvre, nous sommes dehors.
+
+[',', 'et', 'que', 'tant', 'ce']	Marthe	[MASK] ne mentira pas, maintenant qu’elle n’aura plus l’occasion de simuler les geigneries du parfait amour ; ce que le bourgeois appellerait piquer une tête dans le cloaque, descendre le dernier échelon de l’infamie, je l’appelle, moi, une expiation, un retour à l’honnêteté
+
+[',', 'et', 'de', 'plus', 'à']	Jean	Il confessa se nommer [MASK]. — C’est pas un vilain nom ; dis donc !… et elle le força à s’asseoir sur un canapé et sauta sur ses genoux. — Dis donc, chéri, qu’est-ce que tu vas me donner pour mes petits gants
+
+['</s>', 'il', 'elle', 'mâchoires', 'tout']	Ginginet	! Oh, c’est bien simple, va ! Et le touchant presque, elle lui tendit ses merveilleuses lèvres, éclatantes comme des pivoines et tout embrasées par la flamme blanche des dents. [MASK] fut remué de fond en comble et il avança les bras.
+
+['faire', 'donner', 'vendre', 'y', 'la']	Marthe	Ah ! la journée était lourde à porter ! mais le soir, avec les demi-teintes du crépuscule et ces ciels rouges d’automne qui navrent jusqu’au spleen, toutes ces rancunes se ravivaient et l’assaillaient plus opiniâtrement encore. Quoi qu’il voulût faire il pensait à [MASK]
+
+['son', '"', 'le', 'el', 'et']	Léo	[MASK], qui détestait le comédien et se sentait de furieuses envies de le gifler quand il la tutoyait ou la houspillait avec ses gracieusetés de barrière, lui déclara nettement qu’il ne consentirait jamais à ce qu’elle le revît. — Comment faire alors, soupira-t-elle ?
+
+['qui', 'que', ',', '"', 'té']	Léo	[MASK] commençait à voir clair. Il était d’ailleurs harassé par ces mille petits riens qui désolent à la longue. Pourquoi s’obstinait-elle à ne pas vouloir laisser son fauteuil devant son bureau ? Pourquoi cette manie de lire ses livres et d’y faire des cornes ?
+
+['vampire', 'elle', 'sang', 'feu', 'vampi']	Marthe	il tenta de se dégager, mais les yeux de [MASK] prirent feu, ses lèvres le brûlèrent de leurs flammes mouillées, pantelante, dégrafée, elle l’entraîna près de la fenêtre. – La sonnette tinta plus fort. — Je t’aime, murmura-t-elle, n’ouvre pas
+
+['</s>', 'il', '"', '_', '-']	Ginginet	Elle ne soufflait mot. [MASK] murmura : — Je la tiens. Maintenant qu’elle est libre d’aller le rejoindre, elle ne bougera plus, et il ajouta sentencieusement, en se caressant la cime du nez : « C’est étonnant comme les poètes sont bêtes ;
+
+['</s>', 'plus', 'de', '%', '...']	Jean	oui, va-t’en voir si elles viennent, [MASK] ; avec ma déveine coutumière, j’aurais épousé une pimbêche, une petite chipie, qui m’aurait intarissablement reproché les gênes utérines survenues après ses couches. Non, il faut être juste : chaque état a ses inquiétudes et ses tracas
+
+['eux', 'soi', 'nous', 'vous', 'lui']	Guignol	Comme ils ne peuvent, faute de la place nécessaire pour exécuter les gestes, se tenir en face du public, ils se présentent de profil, bec contre bec, haleinant droit, l’un sur l’autre, penchés en avant, prêts à se cogner le front comme chez [MASK].
+
+['ce', 'que', 'elle', 'qui', ',']	Léo	[MASK] fut vraiment son premier amant. Le lendemain, au petit jour, le jeune homme la regarda et demeura indécis : elle sommeillait, bouche en o, jambes en i, torse au vent et gorge au diable ! Il se demanda s’il ne la renverrait pas comme les autres
+
+['elle', ',', 'qui', 'et', 'elles']	Marthe	[MASK] ne tarda pas à s’aguerrir aux conversations de ses compagnes ; courbées tout le jour sur le bol d’écailles, entre l’insufflation de deux perles, elles devisaient à perte de vue. À vrai dire, la conversation variait peu ; toujours elle roulait sur l’homme.
+
+['il', 'wagner', 'verdi', 'lui-même', 'on']	Ginginet	mais [MASK] n’était pas homme à s’émouvoir pour si peu, sa longue carrière dramatique l’avait accoutumé aux vacarmes et aux huées. Il salua gracieusement ceux qui l’interrompaient, conversa avec eux, entremêlant son rôle de boutades à l’adresse des braillards : bref il se fit applaudir.
+
+['je', 'on', 'il', 'et', 'qui']	Francis	Il est quatre heures. Et l’hôpital, Seigneur Dieu ! nous l’avions oublié ! Je deviens pâle, [MASK] me regarde avec effroi, nous nous arrachons des bras de nos hôtesses, nous sortons au plus vite. « Comment rentrer ? dit le peintre.
+
+['ce', 'dieu', 'condition', 'moins', 'force']	Ernest	Je suis sans rancune, toi aussi, pas vrai ? Dis donc, chérie, si nous lichions un petit bischof ? Qu’en penses-tu ? je vais crier à [MASK] qu’il nous en monte un grand bol… Non, tu n’as pas soif ?
+
+['famille', 'dieu', 'travail', 'soi', 'jésus']	Marie	Doux cœur de [MASK], soyez mon salut. (300 jours d’ind.) C’était une cousine à lui qu’il avait autrefois aperçue, dans son enfance ; jamais, depuis vingt ans, il n’avait songé à elle et la mort de cette femme lui porta cependant un grand coup
+
+['maintenant', ',', 'et', 'en', 'un']	Ginginet	Cette explication n’est pas une excuse, c’est simplement la constatation du but que je poursuis en art. 1 — Tiens, vois-tu, petite, disait [MASK], étendu sur le velours pisseux de la banquette, tu ne chantes pas mal, tu es gracieuse
+
+['lui', 'moi', 'monsieur', 'madame', 'mon']	Titine	Elle se résolut à ne plus retourner chez lui. — Je t’offrirais bien de te cacher pendant quelques jours chez moi, disait la fille, mais je n’habite pas seule et mon monsieur se fâcherait. Va plutôt chez [MASK]. — Où demeure-t-elle ?
+
+[',', ';', ':', 'et', 'ce']	Bourdeau	Et ce disant, il harpa par le bras gauche [MASK] qui butait des savates, rossignolait du nez, bedonnait du ventre, dandinait de la hure, chantait à gueule-que-veux-tu, l’éloge des guimbardes et des grands vins ! 2
+
+['plus', 'mieux', 'paris', 'ailleurs', 'loin']	Marthe	Il en vint à ne plus tenir en place, à s’ennuyer partout ; sa mère était rétablie, rien ne le retenait plus à la campagne. Il partit. Le chemin de fer, si lassant quand le trajet dure une journée entière, accéléra encore son désir de voir [MASK].
+
+['jeanne', 'lui', 'elle', 'celle-ci', 'marie']	Marthe	Il demeura plusieurs jours près d’elle ; le péril avait disparu, ses angoisses cessèrent et le souvenir de [MASK] l’obséda sans repos. L’aimait-il vraiment ? Il ne le savait lui-même. Cette fille l’avait certainement ravi plus que toute autre.
+
+['le', 'il', 'de', 'ce', ',']	Marthe	; je me bats avec elle d’abord, si elle met les pieds ici ! Il se résigna, furieux d’être ainsi joué. Le pas s’éloignait. – Les deux amants se regardèrent sans dire mot. [MASK] vint s’asseoir sur ses genoux et l’embrassa
+
+['détresse', 'guerre', 'défense', 'triomphe', 'mort']	Brennus	Le choix n’était pas douteux. Le vieux l’emportait, dans cette balance du cœur, où l’un ne pouvait mettre que sa bonne grâce et sa jeunesse et où l’autre jetait l’épée de [MASK] : le bien-être et l’or !
+
+['elle', ',', 'que', 'il', 'tant']	Marthe	L’autre était tellement ébahi qu’il cherchait presque sérieusement cette clef, quand [MASK] se raidit, poussa un long gémissement et retomba, inerte et blanche, sur le grabat. – Elle venait de mettre au monde une petite fille. La sage
+
+['</s>', 'il', 'elle', 'on', 'chacun']	Francis	Nous le dévisageons à notre tour, effrontément, et nous poursuivons notre route. [MASK] mourait de soif, nous entrons dans un café, et, tout en dégustant ma demi-tasse, je jette les yeux sur le journal du pays, et j’y trouve un nom qui me fait rêver.
+
+['soldat', 'napoléon', 'cheval', 'guerrier', 'bonaparte']	Napoléon	il n’y avait même plus ce dernier luxe des hôtels garnis, la gravure coloriée de [MASK] blessé au pied et remontant à cheval ; les murs déshabillés pissaient des gouttelettes jaunes et le carreau, avec ses plaques de vernis écarlate, semblait une peau malade marbrée d’érosions rouges.
+
+['il', 'et', 'elle', ',', ')']	MARTHE	11 [MASK] RENTRA AU LOGIS, défaillante et farouche. Son amant l’avait attendue pendant toute la nuit, et il avait préparé pour son retour une série de phrases mi-sentimentales, mi-gouailleuses. Aux premiers mots qu’il prononça, elle le regarda en face et lui dit :
+
+['on', 'elle', '</s>', 'et', 'il']	Léo	Au reste, elle se lassa vite du travail de chaque jour, le ménage fut balayé à la diable, le repas préparé à toute volée ; elle faisait monter d’une gargote des parts de lapin, des tranches de gigot cuit au four. [MASK] se plaignit.
+
+['il', ',', 'on', 'et', 'qui']	Jean	[MASK] se rendit compte des sacrifices que s’imposait sa mère et il travailla de son mieux, emportant tous les prix, compensant aux yeux de l’économe le mépris qu’inspirait sa situation de pauvre hère, par des succès au grand concours.
+
+["j'", 'chacun', 'lui', 'il', 'quiconque']	Marthe	La vérité était que [MASK] avait revu d’anciennes amies, que s’étant posé, un jour de détresse, la question de la marguerite : « L’aimerai-je un peu, beaucoup, passionnément ? » elle avait répondu : « Beaucoup ! »
+
+['jeanne', 'henriette', 'catherine', 'marguerite', 'la']	Marthe	Je ne parle pas, bien entendu, des chemins de fer, qui font bonne contenance. — Oh ! s’écria [MASK] révoltée, j’aime encore mieux les voyous ! Son amant la trouva mal élevée, mais il attribua cette étrange sortie à deux verres de champagne qu’elle avait bus.
+
+['</s>', 'il', 'hoffmann', '--il', 'Il']	Marthe	Quand il ouvrit sa porte, un grand feu de charbon teignait de plaques rouges les tentures d’une petite chambre et allumait de foyers étincelants le verre des cadres pendus aux murs. [MASK] enleva son chapeau, son mantelet de zibeline et s’assit dans un vaste fauteuil de cuir qu’il roula près du feu.
+
+['</s>', 'elle', 'on', 'que', 'lui']	Marthe	Son amant la trouva mal élevée, mais il attribua cette étrange sortie à deux verres de champagne qu’elle avait bus. [MASK] se reprocha sa lourdise et désormais elle ne dit mot, étouffant ses rancunes et ses rages. Dès le premier jour, son amant lui déplut ;
+
+['ceci', 'cela', 'que', 'celle-ci', 'paternité']	Léo	C’est à peine si, ce soir-là, il reconnut [MASK] ; il s’était si fort rué en cuisine, il s’était noyé l’âme dans un tel lac de reginglat, qu’il vacillait comme un navire en détresse, il faisait non pas eau mais vin de toutes parts
+
+['il', 'elle', 'je', '</s>', 'on']	Reine	; mes craintes sont vaines, la voie est libre. [MASK] ferme à demi ses yeux, sa tête tombe sur mon épaule, ses petits frisons s’emmêlent dans ma barbe et me chatouillent les lèvres, je soutiens sa taille qui ploie et je la berce.
+
+['le', '-', "l'", 'ou', 'la']	Francis	On nous ouvre, mais hélas ! un seul de nous est admis, [MASK], – et moi on m’envoie au lycée. La vie n’était plus possible, je méditais une évasion, quand un jour l’interne de service descend dans la cour.
+
+[',', ';', 'cela', 'tout', 'ça']	Reine	Que faire ? Je regarde [MASK] avec angoisse, je prends sa main ; à ce moment, le train change de voie, la secousse la jette en avant, nos lèvres sont proches, elles se touchent, j’appuie les miennes bien vite, elle devient rouge.
+
+['un', 'le', 'une', ',', 'ce']	Titine	Quand il eut épuisé ce sujet de conversation, il lui mâchonna quelques lourds madrigaux auxquels elle ne répondit que par des sourires, se réservant de demander à son amie quel était ce bellâtre. — C’est un fier imbécile, lui dit [MASK], bête et riche ;
+
+[',', 'maintenant', 'vous', 'mais', 'et']	Lisette	, [MASK], continua l’impitoyable blagueur, en tenant sa canne comme un fusil ; quand même vous seriez le petit caporal, on ne passe pas ! Elle ne disait mot. — Mais, petite oisonne, poursuivit l’acteur, à quoi cela te servirait-il de te noyer
+
+['celui', 'celle', 'celui-là', 'moi', 'ceux']	Marthe	Il dit un mot aimable à l’un, un mot aimable à l’autre, promit à tout le monde un article gracieux, à [MASK] surtout qu’il regardait d’un œil si goulu qu’elle n’eut pas de peine à deviner qu’il était l’auteur de la lettre.
+
+['pierre', 'jean', 'lui-même', 'jacques', 'paul']	Marthe	dit le comédien, va te coucher maintenant ! Et il sortit, fermant la porte à double tour. Il redescendit, puis, se frappant le front, remonta l’escalier, rouvrit la porte et dit à [MASK] : — À propos, tu sais ;
+
+['il', "j'", 'elle', 'on', 'celui-ci']	Francis	Il culbute, entraîne dans sa chute une chaise qui rebondit ; le dortoir est réveillé ; [MASK] accourt en chemise pour me prêter main-forte, la sœur arrive, les infirmiers s’élancent sur le fou qu’ils fessent et parviennent à grand-peine à recoucher.
+
+['et', ',', "qu'", 'en', 'que']	Bobino	[MASK] avait pour clientèle les étudiants et les artistes, une race bruyante et gouailleuse si jamais il en fût. Ils ne venaient point dans cette cahute, tapissée de méchant papier amarante, pour se pâmer aux lourds mélodrames ou aux folles revues, ils venaient pour crier, rire, interrompre la pièce, s’amuser enfin
+
+['il', ',', '.', '-il', 'elle']	Léo	, leva la tête et, grave, glapit : J’y vas. Il montait une heure après. — Allez me chercher, lui dit [MASK], des biftecks, un pâté, du fromage, un gâteau et deux bouteilles de Moulin-à-vent. — Entendu.
+
+['rose', ',', 'marguerite', 'madeleine', 'sophie']	Reine	Elle est charmante, avec ses yeux pleins de bleu de ciel, ses lèvres tachées de pourpre, ses dents blanches, ses cheveux couleur de maïs mûr. J’engage la conversation ; elle s’appelle [MASK] et brode des fleurs : nous causons en amis.
+

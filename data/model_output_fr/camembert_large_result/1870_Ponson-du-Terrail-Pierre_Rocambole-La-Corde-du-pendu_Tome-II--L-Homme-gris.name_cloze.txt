@@ -1,0 +1,200 @@
+['Jeanne', 'Alice', 'Marie', 'Jean', 'Pierre']	Marmouset	– Va-t’en, dit encore [MASK]. – Et quand faudra-t-il que je revienne. – Ici? – Oui. – Tu ne reviendras pas. – Pourquoi? – Parce que je n’y serai plus.
+
+['il', 'Pierre', 'elle', 'Jean', 'le']	Shoking	Et se mettant à rire, il lui dit: – Je ne m’attendais guère à ta visite. – Et moi, je ne comptais pas venir, dit [MASK]. Puis il jeta un regard autour de lui, parut s’assurer que personne ne pouvait les entendre.
+
+['il', 'on', 'chacun', 'Pierre', 'Jean']	Milon	Alors un trou se fit devant eux; une planche qui avait la couleur de l’ardoise bascula comme le battant d’une porte, et [MASK] vit au-dessous de lui une mansarde au milieu de laquelle il y avait un lit sur lequel ils tombèrent l’un après l’autre.
+
+['il', 'Il', 'elle', 'David', 'Pierre']	Rocambole	– Dans la Cité. – Et… on nous attend…? – Non. – Alors qui nous ouvrira? – Cette clef. Et [MASK] tira la clef de sa poche et la montra à son fidèle compagnon. Puis il regarda le ciel toujours noir.
+
+['cabinet', 'prison', 'police', 'camp', 'campagne']	Bedlam	– Le directeur de [MASK]? – Justement! – Et puis? fit tranquillement le capitaine. – Et puis un nommé Walter Bruce, ancien convict. – Bon! – Un homme de loi appelé Arthur Cokeries. – Est-ce tout?
+
+['elle', 'lui', 'Dieu', 'Marie', 'Joseph']	Shoking	Il voyait bien le point rougeâtre qui indiquait la lanterne; mais il n’apercevait ni [MASK] ni l’homme gris qui, cependant, étaient tout près de lui. L’homme gris dit encore: – Fermez les yeux et tenez vos paupières baissées.
+
+['coco', 'Jacques', 'Paul', 'Coco', 'noix']	Ben	Voilà un gentleman, murmura un des matelots, qui n’a pas peur de faire naufrage. – Il est de fait, dit un autre, que la mer est mauvaise. – Bah! la coque de noix de [MASK] en a vu bien d’autres, répondit celui qui s’était réveillé en sursaut.
+
+['Elle', 'Il', 'On', 'Alice', 'Anna']	Rocambole	– Forcément, dit-il, mon écriture sera tremblée, et peut-être verra-t-on que je n’avais pas mon libre arbitre en écrivant. [MASK] eut un sourire: – Ne vous préoccupez pas de cela, dit-il. Écrivez.
+
+['Il', 'Elle', 'On', 'Jack', 'Dieu']	Rocambole	Le policeman qui, en effet, allait ouvrir la bouche pour appeler à l’aide, et avait déjà un revolver au poing, le policeman tressaillit. [MASK] venait de lui faire un signe mystérieux, un signe qui consistait à tracer une croix sur son front avec l’index de la main gauche.
+
+['Marianne', 'Marie', 'Madeleine', 'Sophie', 'Julie']	Vanda	– Je le sais, monsieur. – Et que par conséquent… – Vous vous étonnez qu’il ait affaire à vous? – Justement. – Quand vous m’aurez écoutée, monsieur, vous ne serez plus étonné, répondit [MASK] souriante.
+
+['lui', 'il', 'Monsieur', 'monsieur', 'le']	Marmouset	– Tout ce que vous venez de me dire, fit alors l’un des deux hommes, est bien extraordinaire, monsieur. – Comment cela, ami Shoking? Et [MASK], car c’était lui, posa sa main sur l’épaule de notre vieille connaissance.
+
+['Alexandre', 'David', 'Henry', 'Napoléon', 'Pierre']	Marmouset	– Je crains tout, au contraire, fit [MASK], on peut vous donner l’ordre de nous débarquer. Le capitaine ne répondit pas. Le navire, qui s’était élancé vers-la haute mer avec une vitesse prodigieuse, était maintenant immobile.
+
+['Monsieur', 'Madame', 'Voltaire', 'Pierre', 'madame']	Rocambole	– Ce n’est pas une raison; vos lunettes, votre perruque peuvent se détacher. – Au lieu de me dire des niaiseries, reprit [MASK], tu ferais mieux de me demander comment je suis ici. – Je vous écoute, maître.
+
+['Pierre', 'Jean', 'Charles', 'Henri', 'Merlin']	Marmouset	– C’est juste. Mais enfin je crois aux paroles de la somnambule… – Ah! ceci est une autre affaire… et… – Et je retrouverai les trésors de mes aïeux, grâce à la corde du pendu. – J’en suis très persuadé, dit [MASK].
+
+['Il', 'Elle', 'On', 'Pierre', 'Louis']	Marmouset	– Pas tout à fait. [MASK] ouvrit de grands yeux. – Du moment où nous nous embarquons, dit-il, je ne vois pas où nous nous arrêterions en chemin, à moins qu’on ne mette à présent pied à terre en pleine mer. –
+
+['monsieur', 'capitaine', 'Monsieur', 'là', 'Capitaine']	Ben	Mais il ne souffla mot. Un autre matelot, qui s’était endormi dans un coin, ouvrit les yeux, leva la tête et regarda le nouveau venu. – Ah! c’est vous, [MASK]? fit-il.
+
+['Maman', 'Marie', 'Joseph', '</s>NOTUSED', 'maman']	Milon	– Ah! fort bien. – Tu les assembleras et tu sauras ce que tu as à faire. – Je comprends. – Mais comme nous avons le temps, poursuivit [MASK], je puis te le dire tout de suite. – Ah!
+
+['Holmes', 'Churchill', 'Arthur', 'Harry', 'Napoléon']	Shoking	– Cela est vrai. – Et voilà que vous renoncez à cette idée! – C’est que j’en ai une meilleure. – Eh bien! dit [MASK] avec un accent de franchise toute britannique, vous ne m’empêcherez pas de croire… – Quoi donc?
+
+['Charles', 'Pierre', 'Louis', 'Antoine', 'Joseph']	Rocambole	– Et comme nous ne sommes pas dans la saison des bains froids, nous pouvons fort bien éveiller l’attention d’un policeman. – C’est puissamment raisonné, dit [MASK] d’un ton railleur; mais, entre nous, mon vieux, nous en avons vu bien d’autres.
+
+['le', 'Jean', 'à', '</s>NOTUSED', 'Pierre']	Marmouset	il portait la grosse vareuse en toile goudronnée et le bonnet de laine brune, mais il avait les mains blanches. À la façon dont il regardait [MASK], celui-ci avait compris que cet homme ne lui était pas aussi étranger qu’il pouvait le croire.
+
+['Russe', 'étrangère', 'anglaise', 'espagnole', 'russe']	Russe	Son évasion, d’abord incompréhensible, avait fini par être expliquée, et si on n’avait pu le reprendre, du moins on savait quelles personnes avaient favorisé sa fuite. Et parmi ces personnes, il y avait une femme très belle, Française selon les uns, [MASK] selon les autres.
+
+['Dieu', 'Holmes', 'John', 'Cook', 'Washington']	Marmouset	Cette dépêche pouvait fort bien être un ordre de l’Amirauté, sollicité par ce démon incarné qu’on appelait le révérend Patterson. Et alors, tout était perdu! Le capitaine devinait sans doute la pensée de [MASK], mais il n’en soufflait mot.
+
+['Il', 'Elle', 'On', 'Jack', 'John']	Scotowe	– C’est inutile, la clef est dessus. En effet, la clef était dans la serrure. [MASK] tourna cette clef et la porte s’ouvrit. Mais soudain, le révérend Patterson jeta un cri de rage et de désespoir. La chambre était vide.
+
+['John', 'Henry', 'Harry', 'James', 'Jack']	Milon	– Oui. – Bon! je comprends… C’est égal, dit [MASK], nous avons joué gros jeu. – Je ne dis pas non, mais c’était nécessaire. – Pourquoi? – Je veux prouver au révérend Patterson que je ne le crains pas.
+
+['Joseph', 'Louis', 'Jean', 'James', 'Martin']	Marmouset	Du moins, telles furent les conjectures du capitaine et de [MASK]. – Enfin, dit celui-ci, j’aime encore mieux ça, partons… Le capitaine avait renvoyé le matelot dans son canot, donné ses ordres, et le steamer venait de se remettre en marche.
+
+['lui', 'moi', 'Joseph', 'Paul', 'Pierre']	Marmouset	– Je vais vous lire cela, dit-il, et vous verrez… Le révérend fronça le sourcil. Quant à [MASK], du fond de sa cachette, il ne perdait ni un mot ni un geste de cette conversation bizarre…
+
+['Monsieur', 'le', 'David', 'Pierre', 'Dieu']	Marmouset	– En vérité? – Cinq mille livres. – Je vous en offre dix mille. – L’offre est pleine de tentation, mais… – Vous hésitez? dit [MASK]. – Oui et non. – Plaît-il?
+
+['il', 'elle', 'on', 'Il', 'Holmes']	Scotowe	– Parfaitement sûr, répondit le détective. D’ailleurs il y a un de mes hommes dans l’escalier. – Mais la porte est fermée. – Oh! ça ne fait rien. Tenez… Et [MASK] fit mouvoir le loquet habilement dissimulé. – Vos hommes sont-ils armés?
+
+['maman', 'Maman', 'Jeanne', 'Julie', 'Paul']	Marmouset	– Ah! cette fois, dit-il, je comprends… et l’homme que j’ai rencontré… Mais je suis donc un idiot de ne pas l’avoir reconnu?… Cet homme, c’était… – Tais-toi! dit [MASK] sèchement.
+
+['John', 'Henry', 'David', 'Harry', 'Thomas']	Marmouset	– Bon! fit [MASK]. – C’est un homme habile et très honnête, ce jeune homme. – Ah! – Et il fera les choses en conscience. – Eh bien? – Ce que le révérend Patterson ne voudrait pas. – Pourquoi?
+
+['Il', 'Pierre', 'Paul', 'Joseph', 'Jean']	Shoking	– Vous? Et le vieux sacristain ouvrit de grands yeux. [MASK] était, en effet, quelque peu métamorphosé: il était mis comme un prince, avait des boutons de diamant à sa chemise et des bagues à tous les doigts.
+
+['John', '</s>NOTUSED', 'Harry', 'Jack', 'Mary']	Milon	– Je ne dis pas non, mais c’était nécessaire. – Pourquoi? – Je veux prouver au révérend Patterson que je ne le crains pas. – Ah! c’est différent, dit [MASK]. Mais les papiers…? – Quels papiers? –
+
+['monsieur', 'madame', 'Monsieur', 'Madame', 'maintenant']	Shoking	– La corde qu’il avait donnée à l’homme gris et que celui-ci a léguée à l’abbé Samuel? – Précisément. – Montez avec moi dans le clocher, [MASK]; je vous la donnerai: l’abbé Samuel m’en a donné l’ordre.
+
+['le', 'Monsieur', 'Madame', 'Alice', 'la']	Marmouset	Vous avez ici un fou auquel je m’intéresse particulièrement. – Bah! – Et que je veux emmener. – À quoi bon? – Pardon, dit [MASK]. J’ai écouté votre histoire, vous écouterez la mienne, j’imagine.
+
+['Jésus', 'Dieu', 'Satan', 'Jean', 'lui']	Scotowe	Dans l’escalier, ils trouvèrent l’homme aposté par [MASK]. Cet homme était sur le carré à la porte même de la chambre. – Ils sont là, dit-il tout bas. Et il montra la porte.
+
+['hier', '«', 'vous', 'soir', 'matin']	Bob	« Laissez-moi, maintenant, vous dire ce que je pense. « Nous nous sommes monté la tête tous les trois, hier, [MASK], vous et moi. « Nous avons pris pour une intention ce qui n’était certainement qu’un oubli. «
+
+['Marie', 'Madame', 'madame', 'Catherine', 'Joseph']	Shoking	– Monsieur, lui dit alors [MASK], grâce à mes lunettes, je n’ai rien à craindre, moi, et nous pouvons continuer à causer. – Vous êtes des misérables! hurla le révérend. L’éblouissement dura cinq minutes.
+
+['Paul', 'Albert', 'Charles', 'Georges', 'Arthur']	Shoking	– Jusqu’à quand? – Jusqu’à ce que je vous écrive, si je vous écris. – Ma foi! dit [MASK] un peu vexé, c’est tout de même désagréable d’avoir affaire à des gens aussi mystérieux que vous.
+
+['Daniel', 'Merlin', 'Alexandre', 'Jean', 'David']	Shoking	– Cela dépend de vous. – Comment cela? – Tel que vous me voyez, reprit [MASK], non seulement je vous apporte à manger, mais encore je viens jouer auprès de vous le rôle d’ambassadeur. – C’est l’homme gris qui vous envoie?
+
+['Jules', 'Madame', 'Maman', 'Monsieur', 'maman']	Marmouset	Bon! – Et qui, jour et nuit, recherchent ce pauvre homme gris qui, tu le sais, a été condamné à être pendu. – Alors, dit [MASK], il me semble que vous vous exposez quelque peu ici. – Ah! tu crois?
+
+['il', 'on', 'elle', 'Pierre', 'chacun']	Rocambole	– Tiens, dit-il, en tendant cet or au mouchard, prends cela et va-t’en. Celui-ci balbutia quelques mots d’excuse, prit l’argent et se sauva. Alors [MASK] se mit à rire.
+
+['Il', 'Elle', 'Marie', 'On', 'Jeanne']	Shoking	[MASK] roula la corde et la mit sous son manteau. – Mais qu’en voulez-vous faire? dit alors le sacristain. – Moi? rien… – Comment, rien? – Du moins, je ne le sais pas. –
+
+['Il', 'Elle', 'Pierre', 'Maman', 'Marguerite']	Shoking	– Je suis mystérieux, dit-il, parce que je n’en sais guère plus long que toi. J’attends de nouvelles instructions. [MASK] étouffa un cri. – Ah! cette fois, dit-il, je comprends… et l’homme que j’ai rencontré…
+
+['il', 'on', 'elle', 'lui', 'Holmes']	Scotowe	– J’en suis sûr. – Comment le saurez-vous? – On me préviendra. Comme [MASK] disait cela, un homme déboucha sur la place et parut chercher quelqu’un. – Ah! ah! fit le détective, je crois que voilà ce que j’attendais.
+
+['le', 'Holmes', 'Monsieur', 'Madame', 'Henry']	Scotowe	– Sont-ils rentrés? demanda le détective. – À l’instant. – Eh bien! s’ils reviennent, il ne faut pas perdre un seul instant. – Oh! tout est prêt, dit [MASK]. – Où sont vos hommes?
+
+['Marie', 'Charles', 'Henri', 'Joseph', 'Louis']	Marmouset	Certainement. – Mais il faudrait pour cela que ma famille n’en sût rien. – Oh! elle n’en aura pas le temps. – Comment cela? – Nous partirons dès demain. – Fort bien, dit [MASK]. Mais nous ne partirons pas seuls.
+
+['il', 'on', 'James', 'chacun', 'John']	Rocambole	Et ils passaient leur soirée à Evans taverne, écoutant chanter cet horrible chœur d’hommes en habit noir qui fait les délices de ce lieu bizarre. À dix heures, [MASK] mit dans sa poche le journal qu’il avait parcouru.
+
+['Marie', 'Jack', 'John', 'Pierre', 'Alice']	Shoking	– Vous croyez donc aussi à cela? fit-il. – Moi? Pas le moins du monde. – Alors, pourquoi avez-vous acheté cette corde? – Parce que, répondit [MASK], j’ai un petit plan que je désire vous transmettre pour la guérison de mon pauvre neveu.
+
+['Monsieur', 'Charles', 'monsieur', 'madame', 'Pierre']	Vanda	– Ce sera donc un procès à soutenir, dit-il; un procès long et difficile, sinon douteux. – Vous vous trompez encore, monsieur. Et le sourire n’avait pas abandonné un seul instant les lèvres de [MASK].
+
+['il', 'elle', 'lui', 'Madeleine', 'Holmes']	Scotowe	Puis, froidement, et tandis que le détective épouvanté reculait d’un pas encore: – Voulez-vous que je vous brûle la cervelle, ou bien préférez-vous que nous vous lancions à la mer? Et [MASK] jeta un cri et tomba à genoux. – Grâce!
+
+['Marie', 'Pierrot', 'Pierre', 'Jean', 'Sophie']	Marmouset	Enfin, cette porte s’ouvrit et un petit homme aux cheveux grisonnants, au visage anguleux, tenant par sa physionomie du renard et de la fouine tout à la fois, entra à son tour dans le préau. Alors le visage de cet homme que [MASK] examinait s’éclaira d’un rayon de joie.
+
+['monsieur', 'Monsieur', 'madame', 'maître', 'Seigneur']	milord	– Je vous écoute, [MASK]. – Mon neveu savait que la corde était en la possession du sacristain. – Bon! – Je suis allé l’acheter, et je lui ai dit ensuite: Nous arrivons trop tard, la corde est vendue.
+
+['Voltaire', 'Monsieur', 'Madame', 'madame', 'Holmes']	Shoking	– Mais qu’il ne trouverait tout cela que du moment où il aurait en sa possession de la corde de pendu. – Et c’est de là que sa folie date? – Comme bien vous pensez. – Mais il me semble, dit [MASK], que rien ne doit être plus facile.
+
+['monsieur', 'Monsieur', 'vous', 'madame', 'Madame']	Shoking	– Ah! fit-il, êtes-vous sûr aussi, [MASK], que le personnage vous fût inconnu? – Parfaitement sûr. – Vous ne l’aviez jamais vu? – Jamais. Mais pourquoi me demandez-vous cela?
+
+['David', 'John', 'Monsieur', 'Napoléon', 'Pierre']	Marmouset	– S’il en était ainsi, dit [MASK], vos ennemis auraient en leur possession les papiers qui peuvent vous aider à recouvrer votre fortune. – Eh bien? – Et au lieu d’essayer de vous faire sortir d’ici, vos ennemis vous y laisseraient bien tranquillement.
+
+['Marie', 'John', 'David', 'maman', 'Maria']	Marmouset	– Eh bien! pourquoi ne la donnez-vous pas tout de suite? – Parce que je n’ai pas trouvé… l’argent… – Mais si vous aviez ma corde… – Oh! je le retrouverai, alors. – Eh bien! dit [MASK], évadons-nous ensemble.
+
+['Il', 'Elle', 'On', 'Madame', 'Monsieur']	Shoking	– Je le crois comme vous, monsieur. – Ils obéissent plus ou moins à un mot d’ordre. – Eh bien? – Et le sacristain a répondu qu’il ne voulait plus la vendre. Les fénians le lui ont défendu. [MASK] souriait de plus en plus.
+
+['John', 'Alice', 'Marie', 'Thomas', 'Pierre']	Marmouset	– Bien! dit l’inconnu. Alors, j’ai une mission pour vous. Et il lui glissa un papier dans les mains. – Qu’est-ce que cela? dit [MASK]. – Un télégramme. – D’où vient-il?
+
+['John', 'Henry', 'le', 'Monsieur', 'Thomas']	Marmouset	Celui-ci lui dit: – Le cabman avait raison. Nous sommes arrivés un bon quart d’heure trop tôt. Il me plaît beaucoup, ce cabman. – En vérité? dit [MASK]. – Et quand je serai lord, je lui achèterai un cheval…
+
+['On', 'Il', 'Et', 'Elle', 'II']	Scotowe	On ne lui répondit point. – Ils y sont cependant, dit encore le détective. Et il montra un filet de lumière qui passait par la porte. [MASK] frappa de nouveau. On ne répondit pas davantage. – Enfoncez la porte! ordonna le révérend.
+
+['Holmes', 'Henry', 'Monsieur', 'John', 'Charles']	Marmouset	Et si vous tentiez, une fois dehors, de prendre la fuite, ils vous arrêteraient aussitôt. – Oh! monsieur, dit [MASK], rassurez-vous. Vous n’aurez nul besoin d’en venir là. Je suis un gentleman et je vous donne ma parole d’honneur…
+
+['Socrate', 'le', 'Pierre', 'Jésus', 'Monsieur']	Milon	– Je n’ai point le temps de te donner des explications, poursuivit le maître; cependant, comme tu pourrais faire quelque bêtise, écoute-moi vite, car les minutes valent des heures en ce moment. – Parlez, dit [MASK].
+
+['monsieur', 'Monsieur', 'moi', 'madame', 'seigneur']	Shoking	Comme ils gravissaient le petit escalier en spirale du clocher, le vieux sacristain reprit: – Ah! si cette corde était à moi, je ferais ma fortune, [MASK]. – Comment cela? demanda le nouveau lord. – Vous n’êtes pas sans savoir que la corde de pendu porte bonheur.
+
+['Alice', 'Harry', 'Madame', 'Monsieur', 'Charles']	Marmouset	– Voyons, reprit [MASK], de quoi s’agit-il? – Je n’en sais absolument rien. – Hein? – J’ai fait hier tout ce que vous avez voulu, n’est-ce pas? – Sans doute. Eh bien?
+
+['Paris', 'Londres', 'Lyon', 'Dieu', 'Rome']	Dublin	– En vérité! – Et cela par la raison qu’il ne s’y trouve que des fous incurables. Quand on y est entré, on n’en sort plus. – Peuh! dit le révérend, les murs de celle de [MASK] sont certainement tout aussi épais.
+
+['Madame', 'Monsieur', 'madame', 'Mme', '</s>NOTUSED']	Marmouset	– Excessivement puissants. – Alors vous ne prendriez pas sur vous?… – Je ne puis rien prendre sur moi. – Je vous engage à réfléchir… – Oh! c’est inutile. – Je le regrette, dit froidement [MASK]. – Mais, monsieur…
+
+['Il', 'Elle', 'Pierre', 'Joseph', 'Jean']	Rocambole	– À présent, dit-il, il s’agit de ne pas avoir le vertige. Suis-moi toujours. Le toit était en pente raide, couvert d’ardoise et fort glissant. [MASK] marchait avec une sûreté de pied et une souplesse que lui eût envié un couvreur de profession.
+
+['John', 'Henry', 'James', 'Harry', 'Holmes']	Rocambole	– Ah! par exemple, dit-il si le révérend Patterson se présentait, vous me préviendriez. – Oui, monsieur. – Mon bon ami, dit alors [MASK], racontez-moi donc comment vous êtes sortis du souterrain?
+
+['Napoléon', 'Voltaire', 'Socrate', 'Jésus', 'Dieu']	Shoking	Un cri qui ressemblait au rugissement de la bête fauve prise au piège. Un cri rauque et bestial, – cri de désespoir et d’agonie s’il en fut! – Aussi, dit froidement [MASK], pourquoi ne disiez-vous pas que vous aviez déjà de mauvais yeux?
+
+['on', 'il', 'chacun', 'personne', 'Dieu']	Ascott	Puis il haussa imperceptiblement les épaules. – Imbéciles! murmura-t-il, j’ai signé et parafé ma lettre, mais j’ai barré les deux t de mon nom d’une certaine manière dont [MASK] ne sera pas dupe. Allons! tout espoir n’est point perdu.
+
+['Madame', 'Marie', 'Henri', 'Julie', 'Monsieur']	Milon	– Ce qui arrive, je l’avais prévu. – Ah! dit [MASK], et vous avez voulu rentrer tout de même? – J’avais mes raisons pour cela. – Enfin nous sommes pincés. – Pas encore. – Cependant… – Tais-toi, et écoute.
+
+['Marie', 'Alice', 'Jeanne', 'Sophie', 'elle']	Shoking	– Tu as vécu longtemps avec lui. – Oh! non, dit [MASK], c’est impossible. – Quoi donc? – Ce ne peut être… n’est-ce pas! Un nom allait monter à ses lèvres.
+
+['le', 'Alice', 'Marie', 'Jean', 'John']	Marmouset	Enfin le navire se mit en marche, l’hélice tourna et un panache de fumée monta dans le ciel gris. Mais comme le steamer sortait de la rade, le capitaine tressaillit tout à coup et donna l’ordre de stopper. – Que faites-vous? demanda vivement [MASK].
+
+['Il', 'Elle', 'il', 'On', 'Monsieur']	Rocambole	, faites-moi grâce de la vie! j’ai une femme et des enfants, monsieur. [MASK] se mit à rire. – Supposons, dit-il, que l’autre nuit vous soyez parvenu à me mettre la main au collet, m’auriez-vous fait grâce?
+
+['lui', 'George', 'John', 'James', 'Jack']	Shoking	– Passez-moi donc votre lettre, fit l’homme gris. Et il la prit à travers les barreaux, tandis que [MASK] apportait sa lanterne. Un sourire lui vint aux lèvres: – Mon cher monsieur Patterson, dit-il, vous êtes si troublé que vous avez oublié quelque chose.
+
+['Il', 'Joseph', 'David', 'Daniel', 'Samuel']	Shoking	[MASK] ouvrit le panier qu’il avait apporté et duquel il avait tiré des provisions pour le repas du révérend. Au fond de ce panier était un petit buvard qui renfermait du papier, des plumes et de l’encre.
+
+['Monsieur', 'monsieur', 'Monseigneur', 'Madame', 'madame']	Tobby	– Ah! pour ça, oui, Votre Honneur… – C’est que je ne veux pas manquer le chemin. Songez donc, [MASK], il y va pour moi de sept ou huit cent mille livres, peut-être…
+
+['Madame', 'madame', 'Monsieur', 'Mme', 'Holmes']	Shoking	– Qu’en feriez-vous? – Je la vendrais. – À qui? – À un gentleman qui m’en a fait offrir cinq cents livres. – Ah! bah! fit [MASK], il est donc bien riche, ce gentleman? – Mais oui.
+
+['il', 'elle', 'on', 'Jésus', 'Il']	Shoking	Avez-vous donc quelque chose à me dire? – D’abord, je vous apporte à manger. Et, ouvrant son panier, [MASK] fit passer au révérend, à travers les barreaux, d’abord du pain, ensuite une bouteille de vin et de la viande.
+
+['Julie', 'Marie', 'Pierre', 'Julien', 'Madame']	Milon	– Tu penses bien, reprit [MASK], que le maître n’a pas écrit une lettre? – Comment! dans ce numéro du journal que tu me donnes, il n’y a pas une lettre? – Non. – Mais alors, ces instructions?
+
+['en', 'lui', 'le', 'il', 'me']	Marmouset	dit [MASK] souriant toujours. – Je l’ai regardé alors et je lui ai dit: « Gentleman, vous vous moquez de moi. » – Je me moque si peu de vous, m’a-t-il répondu, que je vais vous dire votre nom.
+
+['Il', 'Elle', 'il', 'elle', 'Louise']	Shoking	– Comme tu le connaissais toi-même. – Mais je vous dis que c’est la première fois que je le vois. – Et moi, je t’affirme le contraire. – Oh! par exemple! – Tu l’as même beaucoup connu… [MASK] tressaillit.
+
+['John', 'Thomas', 'James', 'William', 'David']	Rocambole	Un sourire vint aux lèvres de [MASK]. – Nous tâcherons de parer le coup, dit-il. Cependant le révérend Patterson n’avait point perdu complétement la tête. Après avoir froissé la lettre de l’homme gris et l’avoir déchirée en mille morceaux, il s’était pris à réfléchir.
+
+['madame', 'Madame', 'Monsieur', 'monsieur', 'Holmes']	Shoking	– Naturellement. – Pensez-vous donc que si mon neveu était mis en possession de cette corde, la monomanie disparaîtrait? – Je ne le pense pas, monsieur. – Diable! fit [MASK], mais alors, j’ai jeté sept mille livres par la fenêtre?
+
+['Il', 'Elle', 'On', 'Pierre', 'Maman']	Milon	– Tais-toi, et écoute. [MASK] attendit. – Tu n’as donc rien vu en venant ici? – Mais… je ne me rappelle pas… la rue était déserte… – Il y avait un homme sous une porte, en face de cette maison.
+
+['il', 'on', 'elle', 'chacun', 'Il']	Milon	Enfin, le jour parut. Alors, [MASK] hissa un pavillon blanc au haut de son mât. Le pavillon fut aperçu du navire, et le navire, qui était un brick de commerce, mit son canot à la mer.
+
+['le', 'John', '</s>NOTUSED', 'Henry', 'Thomas']	Rocambole	– Le révérend Patterson a en moi, dit-il, la plus entière confiance, et ce que je lui conseillerai de faire, il le fera. – Mais… – Chut! dit [MASK]. En ce moment le deuxième clerc entra. – Le révérend Patterson, dit-il.
+
+['Madame', 'Monsieur', 'madame', 'Mme', 'Napoléon']	Marmouset	– Par qui! – Par moi, par exemple, qui suis plus calme que vous. – Mais cela va nous retarder encore. – Oh! d’un quart d’heure seulement. Et puis, ajouta [MASK], un malheur est bien vite arrivé.
+
+['terre', 'Tom', 'Thomas', 'Paul', 'nouveau']	Shoking	Celui-ci avait éventré la paillasse, car c’était dans la paillasse qu’il avait caché la corde qui avait étranglé le pauvre Tom. Le sacristain y fourra la main et la prit. Puis il la remit à [MASK] avec un soupir.
+
+['Monsieur', 'Henry', 'Holmes', 'Madame', 'Charles']	Marmouset	– Parfaitement sûr. – Vous ne l’aviez jamais vu? – Jamais. Mais pourquoi me demandez-vous cela? – Oh! dit [MASK], je pensais que peut-être vous l’aviez déjà vu; car, au signalement que vous me donnez, je reconnais cet homme.
+
+['Alexandre', 'Pierre', 'Arthur', 'Jean', 'Louis']	Marmouset	– Moi, dit [MASK], je ne suis rien, ou presque rien, et mon nom ne vous apprendrait pas grand’chose; qu’il vous suffise de savoir que je suis dévoué corps et âme à celui que les Anglais appellent l’homme gris et qui pour nous, Français, a un autre nom…
+
+['Alice', 'John', 'Jane', 'George', 'James']	Marmouset	– Voilà le Pall Mall Gazette , dit-il. Puis, regardant l’horloge qui se trouvait dans la gare: – Il y a encore vingt minutes avant le départ, ajouta-t-il. – C’est vrai, dit [MASK]. – Et nous avons le temps de causer.
+
+['lui', 'elle', 'Holmes', 'Satan', 'moi']	Rocambole	Cette lettre, on se le rappelle, le détective l’avait écrite sous menace de mort, et c’était [MASK] qui l’avait dictée. Le paraphe, le signe mystérieux, tout y était. Quand il eut pris connaissance de cette lettre, le révérend Patterson éprouva une immense joie.
+
+['Jeanne', 'Pierre', 'Marie', 'Jésus', 'Dieu']	Marmouset	– Et vous craignez ces gens-là? – Comme le feu… – Ah! ah! dit [MASK] en riant; eh bien! si c’est le seul obstacle qui vous sépare de ma corde, elle est à vous. – Que voulez-vous dire?
+
+['</s>NOTUSED', 'Jean', 'François', 'Antoine', 'Pierre']	Milon	Il était devenu gras, chauve, rubicond; il avait de gros favoris grisonnants taillés en côtelettes, et il portait sous le bras un volumineux portefeuille. [MASK], qui l’avait vu faire ce bout de toilette, s’en était quelque peu étonné, à bord de la barque pontée.
+
+['Monseigneur', 'Monsieur', 'Madame', 'Marie', 'madame']	Betzy	– Ma bague! exclama le clerc. – Oui, celle que vous avez remise à [MASK], et que j’ai reprise à son doigt, après lui avoir fermé les yeux, car j’ai reçu son dernier soupir.
+
+['Moïse', 'Satan', 'Jésus', 'pendu', 'David']	Tom	– Et puis il vous remettra une corde. – Une corde? – Oui, celle de [MASK]. La corde du pendu. – Bon. Ensuite? – Vous mettrez la corde dans votre poche et vous viendrez me rejoindre. – Où m’attendrez-vous?
+
+['madame', 'Madame', 'Mme', 'Monsieur', 'monsieur']	Shoking	– En tout cas, monsieur, cette corde nous servira à quelque chose, reprit [MASK]. – À quoi? – À pouvoir vous amener mon neveu. – Comment l’entendez-vous? – Vous pensez bien que sous aucun autre prétexte il ne consentirait à venir ici.
+
+['Madeleine', 'Clara', 'Sophie', 'Marie', 'Madame']	Rachel	et il se fut consolé facilement sans doute, si des journaux d’alors n’avaient parlé à grand bruit d’une somnambule célèbre connue sous le nom de [MASK], et qui avait un talent merveilleux pour découvrir les objets perdus.
+
+['lui', 'Holmes', 'cela', 'elle', 'ça']	Rocambole	Pendant ce temps-là, le steamer marchait à toute vapeur. Suivons maintenant le détective Scotowe. Cet homme était habile, et jouissait parmi les hommes de police d’une grande réputation. Il n’avait fallu rien moins qu’un adversaire comme [MASK] pour qu’il perdît une partie aussi bien engagée.
+

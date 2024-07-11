@@ -1,0 +1,200 @@
+[',', 'la', 'ma', 'mon', 'le']	Catherine	Je l’embrassai d’abord, ensuite [MASK], qui ne disait plus rien. Après cela, j’ouvris la porte, et le froid terrible entrant tout à coup, m’avertit qu’il ne fallait pas attendre. « Dépêche-toi, me dit la tante.
+
+['la', "l'", 'le', 'et', 'il']	Harmentier	À la fin, [MASK], le sergent de ville, sortit de la voûte du corps de garde, et se mit au haut des marches, avec une affiche toute pareille à celle du mur ; quelques soldats le suivaient.
+
+[',', 'se', 'le', 'la', 'hom']	Zébédé	Aussitôt [MASK], sans rien dire, me poussa du coude, et nous entrâmes dans la cour, pendant que les autres poursuivaient leur chemin. Il nous fallut un quart d’heure pour arriver près de la charrette. Je levai un écu de six livres ;
+
+[',', 'de', 'se', 'la', 'le']	Joseph	[MASK], est-ce que tu perds la tête maintenant ? Ces Russes défendaient leur pays, leurs familles, tout ce que les hommes ont de plus sacré dans ce monde. S’ils ne les avaient pas défendus, on aurait raison de les mépriser. »
+
+['se', 'le', ',', 'de', 'les']	Zébédé	! » À mesure que [MASK] parlait, je me rappelais ces choses, et je voyais aussi ce gueux de Pinacle sur la place de l’Hôtel-de-Ville, qui me criait, en agitant un ruban noir au-dessus de sa tête :
+
+['on', 'il', ',', 'en', 'et']	Zimmer	Le paysan s’était arrêté sur la route pour voir ce qui se passerait. La colère me saisit et je me rhabillai bien vite, en lui montrant le poing ; mais il se mit à rire et gagna le village d’un bon pas. [MASK] ne se possédait plus d’indignation
+
+['elle', 'il', 'ma', 'la', 'et']	Catherine	; j’avais peur en ce moment que la montre ne fût pas assez belle. Mais, au bout d’un instant, [MASK], joignant les mains, soupira tout bas : « Oh ! mon Dieu ! que c’est beau !… C’est une montre.
+
+['lui', 'elle', 'moi', 'Pierre', 'Jean']	Zimmer	— Oui, deux chopes et la gazette. — Bon ! bon ! » Il nous servit les deux chopes, et [MASK], qui ne voyait rien, essaya de causer avec les étudiants, qui s’excusaient en s’en allant les uns après les autres.
+
+['tiens', 'dit-il', 'Tiens', 'dit-elle', 'voilà']	Catherine	J’aurais voulu trouver quelque chose d’agréable, mais comme cela ne venait pas, tout à coup je dis : « Tiens, [MASK], voici quelque chose pour ta fête ; mais d’abord il faut que tu m’embrasses encore une fois avant d’ouvrir la boîte.
+
+['te', 'bien', 'non', 'et', 'là']	Joseph	Puis le silence se rétablit, et vers deux heures, la tante Grédel, se levant, prit son panier. Elle semblait abattue et me dit : « [MASK], tu ne veux pas m’écouter, mais c’est égal, avec la volonté du Seigneur, tout cela finira
+
+['"', '.', '!', 'toi', '...']	Catherine	La première fois que j’avais vu cette montre, je m’étais dit en moi-même : « Tu ne la laisseras pas échapper ; elle sera pour [MASK]. Quand tu serais forcé de travailler tous les jours jusqu’à minuit, il faut que tu l’aies.
+
+['je', 'Je', 'car', ',', 'te']	Joseph	Cela durait depuis une bonne demi-heure, lorsque la tante Grédel s’écria : « [MASK], écoute… il est temps que tu partes ; la lune ne se lève pas avant minuit, il va faire bientôt noir dehors comme dans un four, et par ces grands froids un malheur est si vite arrivé…
+
+['Noël', 'famille', 'Pâques', 'demain', 'village']	Catherine	Si ce n’avait pas été la fête de [MASK], je serais resté là jusqu’à midi ; mais tout à coup cette idée me fit sauter du lit et courir bien vite au grand poêle de faïence, où restaient presque toujours quelques braises de la veille au soir, dans les cendres.
+
+['je', 'elle', 'ma', 'la', "j'"]	Catherine	« Joseph ; maintenant embrassons-nous… il est temps. » Je me redressai tout pâle, il m’attacha le sac sur les épaules. [MASK], assise, la figure dans son tablier, sanglotait. La mère Grédel, debout, me regardait les lèvres serrées.
+
+['çà', 'tout', 'cela', 'ce', 'la']	Catherine	Tout le reste de ce jour et même une partie de la nuit, songeant à [MASK], je priai Dieu de préserver mes jours, et de me conserver les mains, qui sont nécessaires à tous les pauvres pour gagner leur vie. Chapitre 13
+
+['mon', 'ma', 'la', "l'", 'mes']	Catherine	Mais ce n’est pas cela qui me touchait le plus et qui me faisait trembler des pieds à la tête, c’était l’écriture de [MASK], que je regardais les yeux troubles sans pouvoir la lire, car mon cœur battait d’une force extraordinaire.
+
+['bien', ',', 'S', 'que', 'tout']	Catherine	Alors [MASK], baissant la tête pour cacher ses larmes, dit tout bas : « Je ne veux pas qu’on puisse t’appeler déserteur. — Eh bien, donc, je ferai comme les autres ! m’écriai-je ;
+
+['on', 'il', 'ça', 'cela', 'ne']	Zimmer	quand nous leur demandions un renseignement, ils avaient l’air de ne pas nous comprendre. [MASK] voulait toujours se fâcher ; je le retenais en lui disant que ces gueux ne cherchaient qu’un prétexte pour nous tomber dessus, et que d’ailleurs nous avions l’ordre de ménager les populations.
+
+['"', 'et', 'ET', 'AME', 'Y']	fitMGoulden	« Les gueux l’ont pris. — Ce n’est pas possible ! [MASK], dont les bras tombèrent. — Oui, c’est tout ce qu’on peut voir de pire, dit la tante ; ça montre bien de la scélératesse de ces gens. »
+
+['il', 'Il', 'on', "n'", 'Napoléon']	Pinacle	» Mais [MASK] attachait déjà le ruban au chapeau du forgeron pendant que celui-ci disait : « Voilà ce qu’il nous faut maintenant… Nous sommes tous morts… nous devons porter notre deuil ! » Et d’une voix sauvage, il cria : Vive l’Empereur !
+
+['ce', ',', 'eux', 'et', 'cela']	Catherine	je leur trouvais un air de ressemblance avec [MASK] qui me remuait le cœur. On savait que j’avais une amoureuse au pays, parce que je n’avais pu m’empêcher de le dire, et cela les attendrissait. Le maître de poste se plaignait amèrement des Français.
+
+['Ben', 'le', 'B', 'alors', 'la']	Klipfel	— Bah ! disait [MASK], ça, c’est la vie. Je me moque bien de dormir dans du coton et de passer un jour comme l’autre ! Pour vivre, il faut être bien aujourd’hui, mal demain ; de cette façon, le changement est agréable.
+
+['bien', 'non', ',', 'tout', 'le']	Joseph	Qu’est-ce qu’elle dira ? » Tantôt je me figurais qu’elle s’écriait : « Ô [MASK], à quoi penses-tu donc ? C’est bien trop beau pour moi… Non… non… je ne peux pas recevoir une si belle montre ! »
+
+['de', '"', 'le', 'les', 'S']	Joseph	Au nom du ciel, ne criez pas si haut. [MASK], raconte-nous raisonnablement les choses ; ils se sont trompés… ce n’est pas possible autrement… M. le maire et le médecin de l’hôpital n’ont donc rien dit ? »
+
+['personne', 'jamais', 'rien', 'ça', 'Personne']	Catherine	Moi, songeant qu’on allait peut-être m’enterrer le lendemain avec tous ces autres dans le jardin en face, et que je ne reverrais plus [MASK], des larmes me coulaient sur les joues, et je ne pus m’empêcher de dire : « Maintenant tout est fini !
+
+['ça', 'mon', '"', 'ma', 'toi']	Joseph	» Et me posant la main sur l’épaule : « C’est bien, [MASK], fit-il, je te prédis qu’à la fin de la campagne, tu seras caporal. — Mais je suis boiteux ! m’écriai-je indigné. — Boiteux !
+
+['il', 'le', 'son', 'lui', 'Il']	Léger	» Nous causions ainsi depuis deux ou trois heures ; [MASK] s’était étendu dans sa capote, les pieds à la flamme et dormait, lorsque la sentinelle cria : « Qui vive ! » à deux cents pas de nous. « France ! — Quel régiment ?
+
+['se', ',', 'à', 'de', 'le']	Zébédé	C’est alors que nous vîmes l’ennemi : des Cosaques qui se retiraient toujours hors de portée de fusil, et plus ces gens se retiraient, plus nous prenions de courage. Ce qui m’ennuyait, c’était d’entendre [MASK] dire d’un air de mauvaise humeur : «
+
+['le', '...', 'de', 'NO', 'se']	Brainstein	cela me traversa le cœur, je sentis tout mon corps grelotter. « Allons-nous-en ! allons-nous-en ! dis-je à [MASK] ; c’est épouvantable ! — Quoi ? fit-il. — La guerre. »
+
+['on', 'il', 'je', 'en', ',']	Catherine	Tout à coup je fus sur l’escalier, et comme [MASK] me demandait ce qui s’était passé, je poussai un sanglot terrible ; je serais tombé du haut en bas, si la tante Grédel ne m’avait pas soutenu. Nous sortîmes par-derrière et nous traversâmes la petite place
+
+['il', 'se', ',', 'et', 'on']	Zébédé	C’était un endroit plein d’orties, derrière la hotte du violon ; un mur l’entourait, et de nos fenêtres on le voyait très bien, il se trouvait juste au-dessous, du côté de la rivière. [MASK] mit sa capote, et dit en se tournant de mon côté : «
+
+['...', 'UN', 'NE', 'un', 'SE']	Joseph	Autant celui-là qu’un autre… tous partiront… il faut remplir les cadres. Cela ne signifie rien pour [MASK]. J’irai voir M. le maire, M. le commandant de place… Ce n’est pas pour leur faire un mensonge ;
+
+['moi', 'les', 'la', 'leur', 'le']	Catherine	La tante Grédel et [MASK], à leur porte, regardaient s’écouler ce convoi funèbre ; leurs pensées, je n’ai pas besoin de les dire ! Plus de douze cents charrettes étaient passées, je n’étais dans aucune.
+
+['les', 'le', 'de', 'la', 'se']	Bernadotte	Je crois entendre encore les malédictions qui s’élevaient contre [MASK], les cris d’indignation de tous ceux qui l’avaient connu simple officier du temps de la République et qui disaient : « Il nous doit tout ; nous l’avons fait roi de notre propre sang, et maintenant il vient nous donner le coup de grâce
+
+['là', 'nous', 'lui', 'la', "l'"]	Kohlgarten	Nous trouvâmes le régiment au bivac, à deux portées de fusil de [MASK]. Le bataillon prit sa position à droite de la route, sur une colline. Dans toutes les directions, on voyait les feux innombrables des armées dérouler leur fumée dans le ciel.
+
+['lui', 'il', 'le', 'chacun', "l'"]	Zimmer	La bonne odeur de la jeune bière de mars remplissait l’air, et [MASK], les yeux levés sur les toits, la face épanouie de satisfaction, s’écria : « Oui, c’est bien ici que nous venions, le grand Ferré, servant de gauche, le gros Roussillon et moi.
+
+['on', '...', ',', 'il', 'ne']	Brainstein	Je n’osais m’approcher de l’horloge, dont le cadran est peint derrière avec ses aiguilles, et, si [MASK] ne m’avait pas donné l’exemple, je serais resté là, cramponné à la poutre des cloches ;
+
+['"', ',', '?', 'cela', '</s>']	Catherine	Elle s’approcha toute tremblante, et je l’embrassai longtemps. Nous sanglotions ensemble. Et, comme le canon se remettait à gronder, tout à coup cela me serra le cœur. « Qu’est-ce que j’entends, [MASK] ? demandai-je.
+
+['et', 'je', 'mais', 'me', 'Je']	Zébédé	elles allaient en augmentant et je grelottais jour et nuit. J’étais devenu si faible, que je pouvais à peine me lever le matin pour me remettre en route. [MASK] me regardait d’un air triste, et me disait quelquefois : « Courage
+
+['il', 'homme', 'général', "l'", 'lui']	Zimmer	Naturellement cela me faisait plaisir ; j’espérais qu’on renverrait au moins les estropiés chez eux. Mais [MASK], avec son habitude de parler haut, remplissait toute la salle de ses réflexions ; il m’interrompait à chaque ligne et disait : « Un armistice !
+
+['elle', 'et', 'Elle', ';', 'on']	Catherine	Nous étions bien tristes, et pourtant bien heureux tout de même de nous voir ; nous nous aimions plus encore qu’avant, si c’est possible. [MASK] quelquefois essayait de chanter, comme dans le bon temps, mais tout à coup elle se mettait à pleurer.
+
+['je', 'se', 'me', 'Je', 'de']	Klipfel	Qui vive ! – Qui vive ! » C’étaient les régiments du 3 e corps qui arrivaient. À la pointe du jour, je finis par m’endormir, il fallut que [MASK] me secouât pour m’éveiller. On battait le rappel dans toutes les directions ;
+
+['vous', 'toi', 'Monsieur', 'Madame', 'lui']	Catherine	? » Alors je lui parlais de mes amours avec [MASK], de mes promenades aux Quatre-Vents, de nos belles espérances, de nos promesses de mariage, enfin de tout ce bon temps qui n’était plus qu’un songe. Il m’écoutait en fumant sa pipe.
+
+['la', "l'", 'de', 'sa', 'le']	Catherine	Je me figurais la joie de [MASK] en travaillant ; durant cinq mois je n’eus que cela devant les yeux ; je me représentais sa mine lorsqu’elle recevrait mon cadeau, et je me demandais : « Qu’est-ce qu’elle dira ? »
+
+[',', 'ainsi', 'bien', 'de', 'toujours']	Zimmer	Nous autres nous sommes toujours à l’ordonnance, mais nos généraux engraissent, et cela vient des bons dîners qu’on leur fait à la maison. » Ainsi me parlait [MASK] dans la sincérité de son âme, et cela ne m’empêchait pas d’être triste.
+
+['se', 'a', 'elle', ',', 'il']	Klipfel	! » Personne n’avait envie de l’achever ; seulement [MASK] prit une belle pipe qui sortait de sa poche de derrière, en disant : « Depuis longtemps je voulais avoir une pipe, en voilà pourtant une ! —
+
+['un', 'Jean', 'Pierre', "l'", 'une']	Zébédé	Nous continuâmes à marcher ainsi durant cinq heures. Tantôt à droite, tantôt à gauche, nous découvrions des villages, et [MASK], qui marchait près de moi, me disait : « Puisqu’il a fallu partir, j’aime autant que ce soit pour la guerre.
+
+['il', 'et', 'Il', 'on', 'un']	Werner	Et, se tournant vers le secrétaire, il s’écria : « Bon pour le service ! » Je me rhabillai dans un désespoir épouvantable. [MASK] en appela un autre. Je ne faisais plus attention à rien… quelqu’un m’aidait à passer les manches de mon habit.
+
+['guerre', 'la', 'campagne', "l'", 'service']	Lutzen	C’était une espèce de dépôt des blessés de [MASK], lorsqu’ils commençaient à se remettre. On y vivait à l’ordinaire comme en garnison ; il fallait répondre à l’appel du matin et du soir. Le reste du temps on était libre.
+
+['chacun', 'je', 'tous', 'quiconque', 'tout']	Joseph	« Chacun est libre, dit-il ; seulement je suis content de voir que [MASK] pense comme moi. » Puis le silence se rétablit, et vers deux heures, la tante Grédel, se levant, prit son panier.
+
+['tout', 'ta', 'à', 'et', 'de']	Joseph	: « Je t’ai toujours aimé, [MASK], depuis que tu n’étais qu’un enfant… je t’ai toujours aimé ! tu ne nous as donné que de la satisfaction, et maintenant il faut que tu partes… Mon Dieu, mon Dieu, quel malheur
+
+['cela', "c'", 'ça', 'elle', 'maman']	Catherine	… Je pensais que [MASK] irait bientôt là ; qu’elle prierait des années et des années en songeant à moi… Oui, je pensais cela, car je savais que nous nous aimions depuis notre enfance, et qu’elle ne pourrait jamais m’oublier.
+
+['Dieu', 'elle', 'il', 'on', 'je']	Catherine	; mais tout à coup la pensée me vint que, si j’étais parti l’année d’avant, [MASK] serait aussi là pour prier et me redemander à Dieu ; cela me traversa le cœur, je sentis tout mon corps grelotter. « Allons-nous-en !
+
+['il', 'et', ',', 'on', 'y']	Klipfel	» [MASK] jeta la pipe, et finalement nous repartîmes de là sans tourner la tête. Nous arrivâmes au bout de cette petite forêt, qui s’arrêtait aux trois quarts de la côte ; des broussailles assez touffues s’étendaient encore à deux cents pas jusqu’au haut.
+
+['la', 'ma', "l'", 'une', 'mon']	Zébédé	Je levai un écu de six livres ; la cantinière, à genoux derrière sa tonne, me tendit un grand verre d’eau-de-vie avec un morceau de pain blanc, en prenant mon écu. Je bus, puis je passai le verre à [MASK], qui le vida.
+
+[',', 'debout', 'se', 'où', 'le']	Zébédé	Alors je ne sais comment j’arrivai près d’une fenêtre, et, regardant par-dessus les autres, je vis le hussard appuyé contre le mur, et [MASK] qui se relevait, le sabre tout rouge de sang. Il avait glissé sur les genoux pendant la bataille
+
+['chacun', 'on', 'Chacun', 'tout', 'personne']	Joseph	Quand le conseil de révision s’assemblera, nous verrons ce qu’il sera bon de faire. Aujourd’hui c’est une espèce de satisfaction qu’on donne aux gens de tirer à la loterie… mais tout le monde perd. — C’est égal, fit la tante Grédel, [MASK] gagnera.
+
+[',', 'tout', 'çà', ';', "s'"]	Kelz	. — Mais je suis boiteux ! m’écriai-je indigné. — Boiteux ! dit [MASK] en clignant de l’œil et souriant, boiteux ! C’est égal, avec une mine pareille on fait toujours son chemin. »
+
+['nbsp', "c'", 'elle', 'toi', 'vous']	Catherine	j’ai fait prévenir la mère Grédel et [MASK] ; ainsi, mon enfant, elles viendront, tu pourras les embrasser avant de partir. » Je voyais son chagrin et je m’attendrissais encore plus, de sorte que j’avais mille peines à m’empêcher de fondre en larmes.
+
+['prise', 'pied', 'mon', 'la', 'ma']	Catherine	Il sortit ; on entendait son cheval piaffer à la porte. Le temps était gris, la tristesse m’accablait, je ne pouvais lâcher [MASK]. Tout à coup le roulement commença ; tous les tambours s’étaient réunis sur la place.
+
+['ainsi', 'dame', 'monsieur', 'toi', 'Pierre']	Fossoyeur	Je ne m’appelle pas [MASK], et vous n’avez qu’à porter vos bottes de paille vous-même ! Est-ce que vous me prenez pour une bête ? » Alors l’autre lui cria plus fort : « Conscrit, veux-tu bien venir, ou gare !
+
+[',', "d'", 'de', 'à', 'bien']	Catherine	je pleurais comme un enfant et [MASK] aussi. Sous la halle, dans l’ombre, nous nous arrêtâmes en nous embrassant. La tante Grédel criait : « Ah ! les brigands !… ils enlèvent maintenant jusqu’aux boiteux… jusqu’aux infirmes ! Il leur faut tout
+
+['reconnaissance', 'remerciement', 'toi', 'qui', 'fruit']	Catherine	Voilà maintenant que tu peux faire un cadeau rare à [MASK] par ton travail. Et sûrement qu’elle prépare aussi quelque chose pour ta fête, car elle ne pense qu’à toi ; vous êtes tous les deux très heureux, et quand vous serez mariés, tout ira bien.
+
+['il', "j'", 'je', 'un', "l'"]	Georges	; [MASK] était commandant dans les dragons, les deux autres officiers d’infanterie. Je me figurais d’avance le chagrin du père Féral ; mais ce n’était rien auprès de ce que je vis en entrant dans sa chambre.
+
+['se', ',', 'de', 'me', 'le']	Zébédé	Le colonel et les commandants montèrent à cheval, et l’on se remit en route. Les Cosaques s’éloignaient. Nous allions l’arme à volonté. [MASK] marchait près de moi, et me racontait ce qui s’était passé depuis Lutzen :
+
+['monsieur', 'madame', 'notre', "l'", 'Monsieur']	Duchêne	— Tiens, c’est vous, [MASK] ? répondit le nôtre en se retournant. Combien de blessés ? — Dix-sept à dix-huit mille. — Diable ! Eh bien, ça va-t-il ce matin ? — Mais oui ; je suis en train de chercher un bouchon.
+
+['on', 'se', 'de', 'le', 'On']	Zimmer	Cela montre le bon sens de ces étudiants, qui savent très bien que la vie est une chose précieuse, et qu’il vaut mieux avoir cinq ou six balafres et même davantage que de la perdre. [MASK] riait en me racontant ces choses ; son amour de la gloire l’aveuglait
+
+['bien', '"', 'tous', 'hommes', ';']	Zébédé	— Toi, tu ne regardes pas la gloire, faisait-il ; c’est pourtant quelque chose, la gloire. » Et je lui répondais : « La gloire est pour d’autres que pour nous, [MASK] ; ceux-là vivent bien, mangent bien et dorment bien.
+
+['dimanche', 'autrefois', 'dimanches', 'oui', 'que']	Joseph	« Et quand je pense combien nous étions heureux dans le temps, [MASK], lorsque tu venais tous les dimanches, et que nous restions assis l’un près de l’autre sans bouger, et que nous ne pensions à rien !
+
+['monsieur', 'moi', 'non', 'dit-il', 'Monsieur']	Zébédé	Voilà ce que je pense, [MASK] ; je ne trouve pas cela tout à fait juste, et j’aimerais mieux voir les amis de la gloire aller se battre eux-mêmes et nous laisser tranquilles. » Alors il me disait : « Je pense la même chose que toi
+
+['la', "l'", 'le', 'les', ',']	Claude	Dans les huit jours qui suivaient, toutes les familles étaient dans l’inquiétude, les pauvres vieilles femmes surtout attendaient une lettre ; la première qui venait, toute la ville le savait : « Une telle a reçu des nouvelles de Jacques ou de [MASK] ! »
+
+['"', ',', '...', 'tu', 'Tu']	Pinacle	« Hé ! boiteux, il te faut un beau ruban, à toi… le ruban de ceux qui gagnent… Arrive ! » Cette idée, avec le froid terrible qui m’entrait jusque dans la moelle, me faisait frémir. Je pensais : « Tu n’en reviendras pas… [MASK] avait raison…
+
+['tout', 'elle', 'te', 'toute', 'de']	Joséphel	ensuite il me la rendit en disant : « Ça, [MASK] , c’est une bonne fille, pleine de bon sens et qui n’en prendra jamais un autre que toi. — Tu crois qu’elle m’aime bien ? — Oui, celle-là, tu peux te fier dessus
+
+['DE', 'ET', 'LES', 'LA', 'la']	Klipfel	C’est bien vu de leur part : ils apprennent tous les jours les malices de la guerre. — Mais nous, qu’est-ce que nous allons faire ? demanda [MASK]. — C’est tout simple, répondit le sergent ;
+
+['celle-ci', 'elle', 'celui-ci', 'Catherine', 'Suzanne']	Catherine	— Oui, dit la tante Grédel, ça, c’est tout à fait beau ; je n’ai jamais vu de montre aussi belle… On dirait de l’argent. — Mais c’est de l’argent », fit [MASK] en se retournant et me regardant pour savoir.
+
+['elle', 'la', "l'", 'ses', 'nous']	Catherine	Mais ils étaient trop… ils l’entouraient ! » Cela nous rendit tristes, et les idées du pays nous revinrent encore une fois. Je me figurais la grand-mère Klipfel, lorsqu’elle apprendrait la nouvelle, et cette pensée me fit aussi songer à [MASK] !
+
+['tout', 'toute', 'les', 'presque', "l'"]	Catherine	. » Je pensais aussi que, si nous avions la paix, on n’aurait plus besoin de tant d’hommes et que je pourrais me marier avec [MASK]. Chacun peut s’imaginer combien de vœux je formais pour la gloire de l’Empereur. Chapitre 2
+
+['votre', '.', 'les', 'vos', 'son']	Joseph	Au lieu de tous ces cris et de tous ces reproches qui ne servent à rien, vous feriez mieux de consoler et de soutenir [MASK]. — Ah ! dit-elle, je ne lui fais pas de reproches, non ! quoique ce soit terrible de voir des choses pareilles.
+
+['cela', 'chacun', 'tous', 'Dieu', 'tout']	Pinacle	ce que je voyais de plus clair, c’est que nous allions bientôt avoir une nouvelle conscription, comme après toutes les campagnes, et que cette fois les boiteux pourraient bien en être. Cela me rendait tout pâle, et la prédiction de [MASK] me faisait dresser les cheveux sur la tête.
+
+['je', 'il', 'elle', "j'", 'on']	Zimmer	mais je soutiens que nous ne devions pas accorder d’armistice à ces gueux ; puisqu’ils sont à terre, il fallait leur passer sur le ventre. » Après avoir payé, nous sortîmes, et [MASK] me dit : « Je ne sais pas ce que ces gens ont aujourd’hui ;
+
+['moi', 'lui', 'la', 'le', ',']	Zébédé	Je me disais en moi-même : « Peut-être qu’en nous voyant ils se sauveront ; ce serait encore ce qui vaudrait le mieux pour eux et pour nous. » J’étais au second rang, derrière [MASK], sur le front, et l’on peut se figurer si j’ouvrais les yeux.
+
+['il', 'je', 'on', 'elle', "j'"]	Zébédé	Chapitre 19 C ’EST AU MILIEU DE ces pensées que le jour arriva. Rien ne bougeait encore, et [MASK] me dit : « Quelle chance, si l’ennemi n’avait pas le courage de nous attaquer ! » Les officiers causaient entre eux d’un armistice.
+
+['Et', 'Alors', 'et', 'Puis', '"']	Catherine	Si j’en étais capable, je me mépriserais comme la boue de mes souliers. » [MASK], entendant cela, me mit ses deux bras autour du cou, et, comme nous étions ainsi, je pensai : « Voilà le plus beau jour de ma vie !
+
+['un', 'le', 'la', 'UN', 'lui']	Joseph	« C’est lui… c’est [MASK] ! » criait-elle de loin. Mais personne ne voulait le croire ; il fallut que la tante Grédel me regardât longtemps pour dire : « Oui, c’est lui !…
+
+['non', 'chérie', 'moi', 'dit-il', 'va']	Catherine	Le curé lui-même a dit que c’était trop fort à la fin ; qu’on devrait faire la paix. Tu resteras ! Ne pleure pas, [MASK], je te dis qu’il restera. » Elle était toute verte de colère, et bousculait ses marmites en parlant.
+
+['de', ',', 'se', 'me', 'la']	Joseph	[MASK], me dit-il, je ne suis pas bien, toutes ces terribles histoires m’ont rendu malade ; je n’ai pas dormi. — Est-ce qu’il faut vous faire du thé ? lui demandai-je. — Non, mon enfant, non, c’est inutile
+
+['ça', 'de', 'on', 'tout', 'cela']	Catherine	; la lune ne se lève pas avant minuit, il va faire bientôt noir dehors comme dans un four, et par ces grands froids un malheur est si vite arrivé… » Ces paroles me portaient un coup, et je sentais que [MASK] me retenait la main ;
+
+['moi', 'vous', 'nous', 'lui', 'elle']	Catherine	J’étais tout confus. « Monsieur Goulden, je vous remercie bien, lui dis-je, mais cette montre est pour [MASK], et je suis content de l’avoir gagnée. Vous me feriez de la peine si vous refusiez l’argent ; j’aimerais autant laisser la montre.
+
+[',', 'plus', 'très', 'et', 'tout']	Catherine	les femmes sont plus fines que nous. » Malgré cela, je lui lus la lettre de [MASK] lentement. Il ne disait rien, et, quand j’eus fini, il la prit et la regarda longtemps d’un air rêveur ; ensuite il me la rendit en disant : «
+
+['le', 'la', "l'", ',', 'les']	Zébédé	des larmes coulaient le long de son grand nez… Il essaya de me porter, mais il était aussi trop faible. Alors je le retins en lui criant : « [MASK], ne m’abandonne pas ! » Le capitaine Vidal s’approcha, et me regardant avec tristesse :
+
+['il', 'elle', 'Il', 'Elle', 'et']	Catherine	Je n’avais pas la force de lui répondre ; je me jetai dans le fauteuil en fondant en larmes. [MASK] s’assit près de moi, les bras autour de mon cou, et nos sanglots redoublèrent. La tante Grédel dit : « Les gueux l’ont pris.
+
+['et', '...', '"', ',', 'ET']	Christian	» Et malgré le bruit des canons il s’arrêta, se retourna et m’aperçut au pied d’un arbre ; il ouvrait de grands yeux. « [MASK], m’écriai-je, aie pitié de moi ! » Alors il revint, me regarda et pâlit :
+
+[',', 'les', 'la', 'le', "l'"]	Iéna	Ce n’étaient que ponts, marais, petites îles boisées à perte de vue. Là-bas, nous mangions une omelette au lard, au bouchon de la Carpe, et nous l’arrosions d’une bouteille de vin blanc. On ne nous donnait plus rien à crédit, comme après [MASK]
+
+['voir', 'sire', 'observer', 'bien', 'bon']	Zébédé	— C’est bon, fit [MASK], nous verrons. J’ai aussi du nouveau pour vous, l’ancien. » Il arriva tout de suite me raconter cela, et moi sachant qu’il n’avait jamais tenu qu’une pioche, je ne pus m’empêcher de frémir pour lui.
+
+['ducs', 'princes', 'duc', 'seigneurs', 'nobles']	Vandamme	Les uns sont ducs, princes, et s’ennuient d’être toujours dans la boue, au lieu de s’asseoir dans de bons fauteuils ; et les autres, comme [MASK], veulent se dépêcher de devenir maréchal, en faisant un grand coup.
+
+['il', 'elle', 'on', 'Il', 'Elle']	Zébédé	– « Chacun pour soi… Dieu pour tous ! » En remontant le village, [MASK] me dit : « Tu as du pain ? — Oui. » Je cassai le pain en deux et je lui en donnai la moitié. Nous mangions en allongeant le pas.
+
+['le', 'S', ',', 'et', "l'"]	Marie-Louise	ils défendent leur sang, leur patrie : ce que Dieu nous force d’aimer et qu’on ne peut trahir sans crime. Tout va vous tomber sur le dos ; les Autrichiens vous massacreront s’ils peuvent, malgré le mariage de [MASK] et de votre Empereur ;
+
+['se', 'ils', 'me', 'nous', 'lui']	Pinto	; les vieux soldats comme [MASK] disaient qu’ils n’avaient jamais rien entendu de pareil. Vers six heures, un officier d’état-major remonta sur notre gauche, porter un ordre au colonel Lorain, et presque aussitôt on sonna la retraite.
+
+['Marie', 'Jeanne', 'Marguerite', 'Suzanne', 'Louise']	Margrédel	« Oui, oui, disait-il, c’est triste tout de même. Avant la conscription de 1798, je devais aussi me marier avec une fille de notre village, qui s’appelait [MASK], et que j’aimais comme les yeux de ma tête.
+
+['sa', 'ma', 'la', 'une', 'son']	Catherine	Ainsi dépêche-toi. » Il me fallut donc partir en cet état ; le feu du vinaigre me sortait des joues. Lorsque je rencontrai la tante et [MASK], qui m’attendaient sous la voûte de la mairie, elles me reconnurent à peine. «
+

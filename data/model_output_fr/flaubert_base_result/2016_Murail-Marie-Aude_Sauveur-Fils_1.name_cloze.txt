@@ -1,0 +1,200 @@
+['jack', 'mike', 'john', 'paul', 'jake']	Bidule	Mais il lui avait dit de revenir chercher [MASK] dans une semaine, et son besoin de fantasmer une love story prit le dessus dès le lundi matin. La seule chose qu’elle n’arrivait pas à se raconter, c’était la fin de l’histoire.
+
+['lazare', 'paul', 'david', 'celui-ci', 'simon']	Paul	Lazare se vit attribuer pour la semaine le nettoyage du tableau tandis que [MASK] obtint l’arrosage des plantes vertes sur la quinzaine, ce qui nécessitait qu’il aille vérifier toutes les heures que le terreau n’était pas en train de se craqueler sous l’effet de la sécheresse.
+
+['tu', 'moi', 'dit', 'elle', 'toi']	Saint-Yves	La jeune femme, qui avait les traits creusés par la fatigue en cette fin de journée, ne se fit pas prier pour aller feuilleter – J’ai que des parapluies chez maman et que des soleils chez tatie.– Ça a le mérite d’être clair, nota [MASK].
+
+['lui', 'toi', 'ça', 'vous', 'disney']	Néron	Elle est folle, mais elle se soigne. »Elle joignit les mains comme une suppliante.– Si je ne l’ai pas, je ne pars pas. Et ce serait trop frustrant parce que je suis fan de [MASK] depuis que j’ai 10 ans !
+
+[',', 'un', 'le', 'avec', 'qui']	Paul	?– Qu’est-ce qui vous… Oh, c’est [MASK] ! bredouilla-t-elle. Non, elle n’a pas dit… Mais il m’a semblé qu’elle avait des opinions, enfin, qu’elle tenait des propos… Vous ne vous en doutiez pas
+
+['lui', '"', 'lui', 'moi', 'elle']	Isabelle	Je me suis senti très coupable. Parfois, j’étais en colère contre [MASK]. Je lui en voulais de ne pas être heureuse avec moi.Il garda pour lui le fait que les parents Tourville avaient prétendu qu’il était responsable de la mélancolie de sa femme.
+
+['il', 'elle', 'je', 'on', 'puis']	Sauveur	Ne te pose pas de questions. Il fera jour demain.Ayant trouvé la clim puis la radio, [MASK] quitta les abords embouteillés de l’aéroport et s’éloigna vers le sud de l’île, tapotant son volant au rythme d’une biguine :
+
+['</s>', 'elle', 'il', '-', "n'"]	Gabin	poursuivit l’animatrice, après avoir pioché un jeton dans un sac.Le vieux monsieur leva la main, même jeu de scène de sa voisine.– Il l’a pas.[MASK] aperçut sa mère près de la fenêtre. La grille de loto devant elle, elle regardait au-dehors.
+
+["j'", '...', 'vous', 'cela', 'il']	Cyrille	Je vous ai dit, il est trop strict.– C’est peut-être parce qu’il est trop « strict » que [MASK] a fugué après le centre aéré au lieu de rentrer à la maison ?– Peut-être, fit la jeune femme du bout des lèvres.–
+
+['</s>', 'on', '"', 'qui', 'ça']	Lazare	Alors, on préfère se faire les questions et les réponses dans la tête, et d’une petite fille timide on fait une sale raciste.[MASK] eut une lueur de ruse dans le regard.– Mais peut-être… c’est quand même une raciste ? On sait pas…
+
+[':', ',', 'et', 'que', 'oui']	Colette	», firent ces dames tandis que les messieurs protestaient : « Oui, mais on lave la voiture ! »– Alors, reprit [MASK], je lui ai dit : « Mon doudou, si tu sers à rien qu’à faire les enfants, j’ai déjà mon compte, au revoir et merci
+
+['elle', 'il', 'on', "j'", 'jack']	Sauveur	Tu sais pas ? C’est de se mettre tout nu devant ses tomates pour les faire rougir.– Très drôle… Attends, je réponds au téléphone et…Quand [MASK] entra dans son cabinet, le répondeur s’était déclenché.– Vous êtes toujours pas là !
+
+['il', '</s>', '"', 'je', '...']	Saint-Yves	Il voulait que j’avale tous les médicaments.– Je lui ai fait peur avec la louche ![MASK] les écoutait, effaré et triturant les médicaments sur la table. Quand il aperçut le comprimé de digitaline, un frisson serpenta le long de son échine.– Vous pourriez le décrire ?
+
+['</s>', '-', '"', 'il', '-']	Sauveur	Tu es en route, chevalier. Plus personne ne va t’arrêter.– C’est la thérapie qui fait ça ?[MASK] se sentit gêné de s’attribuer un tel mérite.– C’est un des effets possibles d’une thérapie. Mais il faut aussi que la personne ait vraiment envie d’avancer.
+
+['il', '-', 'ale', 'michael', 'alia']	Gabin	[MASK] voulut s’immiscer entre père et fils et sans réfléchir (ce qui était chez lui une constante) il lança :– Qu’est-ce qui est bleu avec des cheveux blonds et qui crache des copeaux de bois ?
+
+['vrai', 'ce', 'bien', 'ainsi', 'juste']	Brigitte	Sauveur ? C’est [MASK]. Je voulais te parler de ta patiente.– Madame Poupard ?– Elle a fait semblant de suivre son traitement, mais elle a mis de côté tous ses médicaments et elle les a avalés d’un coup hier soir.Une tentative de suicide.
+
+[',', '"', 'jacques', 'paul', 'jeanne']	Lazare.–	Ouais, des bébés hamsters ! s’enthousiasma [MASK] … que nous ne garderons pas, le modéra son père. Parce qu’au bout d’un mois ils se reproduiraient et que l’élevage de hamsters ne fait pas partie de mes projets professionnels à court terme.
+
+[',', 'et', ':', '...', 'que']	Sadness45	[MASK] Je mautomutil depuis 2 ans, j’ai commencer avec un cutter et la je me sert de lame de rasoir. J’ai toujours peur que quelqun voie les marque sur mes bras et je commence a plus pouvoir les cacher tellement elle son nombreuses !!!
+
+['elle', 'alcool', 'hamlet', 'elle-même', 'autrui']	Évelyne	Juste une question au sujet d’[MASK]. N’avait-il pas remarqué le corps disloqué de la malheureuse jeune femme en fauteuil électrique, le visage ravagé par l’alcool du père de la mariée, le petit garçon d’honneur mongolien, le jeune homme albinos qui essayait de disparaître de la photo ?
+
+['lui', 'celui-ci', 'il', 'georges', 'jacques']	Sauveur	La nuit tombait, la route devenait dangereuse. [MASK], envahi par ses émotions, avait des instants d’inattention.– Moi non plus, dit l’enfant à ses côtés, je ne l’ai pas rendue heureuse.– Il faut que je m’arrête, murmura son père.
+
+['"', ')', 'pas', 'mal', 'donc']	Lazare	ordonna-t-il.– Mais pourquoi ? bredouilla [MASK], incapable d’allonger la main vers les médicaments ou de s’emparer du verre.La scène eût été risible s’il n’avait suffi d’un comprimé de morphine et d’un autre de digitaline pour tuer l’enfant.–
+
+['</s>', 'elle', '-', 'il', '"']	Louise	– C’est au sujet du hamster de Paul.– Alors, là, non. Pas maintenant. On voit ça lundi prochain. Tu connais la règle.[MASK] n’avait pas élevé le ton alors qu’elle aurait pu donner libre cours à son énervement si elle avait été seule chez elle.
+
+['.', 'le', 't-il', 't-elle', 'm.']	Sauveur	Je confirme.– Vous êtes gay ?– Non, désolé.Comment arriver à cadrer un pareil entretien ? se demandait [MASK]. Les associations d’idées allaient si vite dans la tête de la petite qu’il était presque impossible de la suivre.– Moi, je suis poupédophile.– Pardon ?
+
+['il', 'et', 'elle', 'il', 'chacun']	Lazare	Dans le couloir, [MASK] comprit que la séance allait s’arrêter et qu’il lui fallait refermer la porte. De retour dans la cuisine, et le cœur plein des émotions qu’Ella y avait mises, il vida son sac sur la vieille table en bois et sortit quelques feutres de la trousse.
+
+['</s>', '"', '...', '_', '-']	Paul	Que nous apprend le titre du texte ?2/ Ce conte fait-il peur ?3/ Connais-tu des contes de loup qui font peur ?[MASK], dont l’esprit de concision faisait le charme, répondit :1/ le loup il est bête 2/ non 3/ oui.
+
+['</s>', 'et', 'le', 'en', 'il']	Lazare	Ils revinrent dans l’or et la pourpre d’un bref crépuscule, et à 18 h 15, lorsqu’ils arrivèrent à leur case, la nuit tira brusquement le rideau. Installé sur la terrasse, tandis que montaient les sifflements des grenouilles, [MASK] prit, dans un tas de cartes postales,
+
+['</s>', '"', 'il', '-', 'elle']	Sauveur	« C’est elle qui m’en a donné le goût », avait-elle conclu. Le goût de tuer les chats, pas le goût de broder des coussins ! [MASK] repoussa son journal en soupirant.– Je suis un psy de merde.
+
+['il', ',', 'elle', 'de', 'le']	Lazare	Ayant ôté sa capuche et ses lunettes noires, il montrait des cheveux blancs contrastant avec un visage jeune, des cils et des sourcils blancs, des yeux aux iris pâles et bordés de sang. Terrorisé, [MASK] lâcha son stylo et resta, bouche ouverte, ne pouvant même crier son épouvante.–
+
+[',', 'il', 'at', 'de', 'ce']	Sauveur	L’hyperactivité, c’est pour ma fille cadette. La dépression nerveuse, c’est pour moi ?– Vous avez raté votre vocation. Vous auriez dû être psychologue.[MASK] prit une lente inspiration. Qu’est-ce qui lui prenait de croiser le fer avec une patiente
+
+['e', 'i', 'n', 's', 'qui']	Alexandra	Mais je pensais qu’on était heureux tous ensemble. Je ne manquais pas de travail, ma f… [MASK] avait réussi à se mettre à son compte, les filles travaillaient bien à l’école…– Papa, c’était pas le paradis non plus, le tempéra Lucile.–
+
+['</s>', 'il', 'elle', 'on', 'qui']	Ella	Les yeux lui sortaient de la tête, mais sa femme, sans se laisser intimider, lui apprit que les cendres de l’enfant, recueillies dans une urne, étaient dans un emplacement réservé du columbarium avec une plaque au nom d’Elliot Kuypens. [MASK] joignit les mains sur son cœur dans un mouvement de ravissement.–
+
+['</s>', 'il', 'elle', '-', ')']	Sauveur	?[MASK] attrapa la cage à deux mains et la mit à hauteur de ses yeux.– Il roupille, ce gros fainéant. J’ai lu sur ton site de conseils que les hamsters viennent du désert, c’est là qu’ils ont pris l’habitude de vivre la nuit.–
+
+['fer', 'travail', 'temps', 'demain', 'bois']	Cyrille	Jusqu’à présent, il n’avait jamais été nommé, ni par la mère ni par l’enfant.– Il vient dîner à la maison, c’est ça ? Il reste pour dormir peut-être ?Les jambes de [MASK] s’immobilisèrent.–
+
+['le', 'mon', "l'", 'monsieur', ')']	Sauveur	Mais je me demande si ce n’est pas la petite qui… Enfin, c’est un peu délicat à dire, mais…[MASK], qui était pressé, prit sur lui de compléter la phrase :– Elle a peut-être tenu des propos racistes ?– Non !
+
+['chacun', 'travail', 'médecins', 'celui-ci', 'consultation']	Gustavia	Il fit du regard le tour du cabinet de consultation comme s’il se demandait dans quel endroit il était tombé et haussa les sourcils en apercevant la cage de [MASK] et de ses petits.– Au fait, docteur Saint-Yves, vous n’êtes pas docteur…– En psychologie.–
+
+['un', ':', 'à', 'ou', 'une']	Gabin.–	Il resta quelques instants immobile, un peu sonné par sa réception au sol, puis repartit à l’assaut du grillage comme si l’expérience précédente ne lui avait rien appris.– Il est vraiment con ou il fait ça pour se rendre intéressant ? s’interrogea [MASK]
+
+['de', "d'", 'et', ':', 'ou']	Lazare	[MASK], dans le couloir, se retint de bondir et appliqua de ses deux mains un bâillon sur sa bouche, tant il avait envie de crier : « Montre, montre ! »– 1, 2, 3, 4, 5, les compta Sauveur. 5
+
+['paris', 'londres', 'bruxelles', 'strasbourg', 'toulouse']	Achille	? Une fois qu’elle eut bien examiné le SMS sous toutes les coutures, sa colère se transforma en mépris. Mais quel crétin ! Et mesquin en plus. Il n’avait donc pas les moyens d’acheter une poussette neuve à [MASK] ?
+
+['les', 'le', '...', 'un', 'tout']	Cyrille	Enfin, ça irait s’il n’y avait pas ce problème avec [MASK]. Mais je pense qu’on a trouvé la solution.– La solution ?– Je sais que vous n’allez pas être d’accord. Mais moi, je ne peux plus passer ma vie dans le pipi.–
+
+['toi', '"', 'mon', 'non', 'moi']	Ella	Et ce qu’ils me disent, c’est pas intéressant !– Qu’est-ce qu’ils te disent de pas intéressant ?– Ben, mon père, c’est : « Tu me déçois, [MASK]. Travaille comme ta sœur, elle est pas phobique scolaire, ta sœur.
+
+['qui', 'il', 'et', 'tout', 'lequel']	Lazare	Pendant la séance de Cyrille et de sa mère, [MASK] était resté dans la cuisine. La porte entrebâillée s’était refermée entre son père et lui. Pour se tenir compagnie, il avait allumé toutes les lumières de la cuisine.
+
+['lui', 'son', 'un', 'ce', "l'"]	Sauveur	Pour s’en donner confirmation, elle pensa à [MASK], tel qu’il lui était apparu la première fois, adossé au mur de la boulangerie. Comme si elle était devant un écran de cinéma, elle le regarda s’approcher d’elle, veste ouverte, mains dans les poches.
+
+['et', 'parce', 'mais', 'que', 'est']	Évelyne	Bondié, mais qu’est-ce qui est normal, [MASK] ? Il est fils de psy, et alors ? Il a la peau claire, et alors ? Ce n’est pas une bête curieuse, et moi non plus.Il s’était efforcé de modérer le ton parce qu’il se savait observé.–
+
+['-', 'puis', 'et', 'ensuite', 'enfin']	Lazare	C’est pathétique, t’as qu’un seul copain ou quoi ?– [MASK], il dit qu’un ami, c’est beaucoup.– Il a raison, approuva sa mère. La vraie amitié, c’est rare.Et le vrai amour, donc !
+
+['...', ':', 'rôle', '(', 'travail']	Lazare	Deuxième étape : focaliser.– Elle va avoir des bébés. Le papa de [MASK] ne veut pas les garder.Troisième étape : dramatiser.– C’est triste parce qu’il faudra les tuer.Quatrième étape : toucher le point faible de l’interlocuteur.– Tuer des BÉBÉS.Enfin, proposer une solution.–
+
+['</s>', 'oui', 'non', 'certes', 'alors']	Samir	Je sais pas si c’est possible, enfin si, je sais que ça existe d’être amoureuse d’une fille quand on est une fille. Moi et mes copines, on est – À 11 ans, vous n’êtes pas perdues pour la cause.– On préfère les homos. [MASK], il est homo.–
+
+['non', 'ok', 'hein', 'tu', 'j']	Cyrille	Cette histoire de trap trap n’était-elle pas assez transparente ?– Tu es d’accord pour qu’on se revoie, [MASK] ? interrogea-t-il l’enfant.– Oui. Il y a d’autres jeux dont je voudrais parler.– D’accord. Des jeux à l’école ?
+
+['pierre', 'louis', 'george', 'paul', 'georges']	Saint-Yves	Elle avait avoué à [MASK] ce qu’elle faisait, mais il n’avait pas voulu la comprendre quand elle lui avait parlé de sa grand-tante, Rose Patin. Elle lui avait dit que la vieille demoiselle passait son temps à broder des dessus de coussin et à empoisonner les chats du voisinage.
+
+[',', 'de', 'et', 'la', 'le']	Charlie	[MASK]. Vous la traitez toujours comme si elle ne comprenait rien. Moi, je lui dis la vérité.– Tu n’es pas chargée de l’élever, je te signale, s’énerva Alexandra.– Et moi, je te signale que je la garde pendant que tu travailles.–
+
+['son', 'le', 'un', 'sa', 'jésus']	Nicole	C’était une banale boîte à chaussures, barbouillée à la peinture noire. Lazare voulut voir si elle contenait quelque chose mais se fit rabrouer par [MASK], qui était en train de se laver les mains à grande eau.– Joue pas avec ! C’est sale.
+
+['ça', 'maman', 'il', 'papa', 'dieu']	Gabin	:– Papa ? Je crois que [MASK] n’a pas envie de partir.– Je crois que j’avais remarqué, lui répondit son père sur le même ton.Il ferma son livre et se résigna à ne pas passer une après-midi tranquille.–
+
+['petit', 'petite', 'maintenant', 'jeune', 'fille']	Alice	? Alors là, je ne mets plus JAMAIS les pieds chez papa.– Écoute, [MASK], tu as 13 ans, et pour le moment tu fais ce qu’on te dit.– Je suis dans une famille de fous. C’est même pas une famille d’abord !
+
+['tout', ',', 'et', 'mais', '...']	Saint-Yves	Il n’abusa pourtant pas de la permission car, deux minutes plus tard, il revint, le visage illuminé d’un sourire, tendant le téléphone à bout de bras.– Les nouvelles sont bonnes ? demanda [MASK], songeant peut-être à Louise.– Oui, mais quand même…
+
+['</s>', '-', 'il', 'on', 'elle']	Sauveur	Quand il aperçut le comprimé de digitaline, un frisson serpenta le long de son échine.– Vous pourriez le décrire ?[MASK] s’attendait au portrait-robot d’un homme noir, d’un quimboiseur antillais.– Il est tout blanc comme un fantôme. Comme un mort-vivant.–
+
+['</s>', 'je', 'il', 'elle', '--je']	Blandine	Je voudrais surtout qu’elle arrête de le croire quand il lui raconte que je suis dépressive et castratrice et je ne sais quoi encore d’horrible ! [MASK] me répète tout ce qu’il dit sur mon compte, mais elle, elle ne le croit pas.
+
+['il', 'elle', 'ils', 'une', 'elles']	Alice	C’était la semaine chez le père. Le frère et la sœur faisaient preuve d’une solidarité toute nouvelle, peut-être due au fait qu’[MASK], munie d’un sac Vanessa Bruno argenté, avait provisoirement comblé son appétit de consommation.–
+
+['ça', 'cela', 'tout', 'ca', 'on']	Joachim	10 ans.– Est-ce que [MASK] va s’installer chez toi ?– Non !– Non ?– Je veux pas !Ce n’était pas de la jalousie qu’il y avait dans ce cri. L’enfant vivait dans la terreur.
+
+[',', 'que', ':', 'de', 'par']	Lazare	Son père le rejoignit bientôt, portant la cage de Bounty.– Salut bonhomme, je t’amène de la compagnie ! fit-il gaiement en apercevant [MASK].Son ton de voix s’infléchit aussitôt.– Tu as pleuré ?– Non, mentit son fils en baissant le nez.–
+
+['que', ',', 'après', 'dans', 'et']	Lazare	Comme le jeune homme, plutôt lent dans les interactions, ne répondait rien, [MASK] le rejoignit et poussa un cri en identifiant la chose, donc le bec sortait du sac. C’était une poule noire, morte, sans doute étranglée par le cordon rouge qui lui enserrait le cou.–
+
+['il', 'et', 'elle', 'puis', ',']	Blandine	Et il sait rien sur…[MASK] fit le geste de s’entailler le bras.– Mais toi, tu es au courant.– Je l’ai vue faire dans la salle de bains.– Et tu n’as rien dit à personne ?– Non.– Tu ne trahis pas ta sœur ?
+
+['puis', 'enfin', 'ensuite', ')', 'maintenant']	Nour	Les dix dernières minutes avant la récréation furent électriques. Il neigeait par la fenêtre. Un frisson parcourut la salle. La neige. La neige.– Bon, allez-y, soupira la maîtresse. (Puis, dans le couloir, malgré tout inlassable : ) [MASK], ferme ton blouson.
+
+['</s>', 'à', 'au', 'la', 'que']	Sauveur	Les enfants doivent apprendre l’anglais, l’informatique, le vivre ensemble, la Marseillaise, et en plus de ça, ils ne lisent plus, ils sont nuls à l’oral, ils doivent faire une dictée par jour…[MASK] partit d’un grand rire.–
+
+['elle', 'et', 'qui', 'il', 'on']	Louise	Depuis que son mari l’avait quittée, [MASK] sentait la colère monter en elle lorsqu’il lui semblait qu’un homme – fût-il son marchand de légumes – lui manquait de respect.– Bonjour, bonjour, excusez-moi, fit la voix de velours en provenance de l’escalier.
+
+['elle', 'sa', 'ses', 'la', 'lui']	Louise	Dans une semaine, il sera sevré. Il faudra venir le chercher.Il déplia sa haute taille au-dessus de [MASK], et elle n’eut pas d’autre choix que de se lever, elle aussi. Ils étaient tout près l’un de l’autre, leurs souffles se mêlaient.
+
+['</s>', 'il', 'elle', ',', 'et']	Paul	[MASK] glissa fièrement sa main dans celle de sa maman. Mais comme c’était la semaine de papa, quelques pas plus loin, ils durent se séparer à l’arrêt du tramway.– Je veux pas y aller, maman, gémit
+
+['</s>', 'il', 'elle', "l'", 'on']	Hugues	Il garda pour lui le fait que les parents Tourville avaient prétendu qu’il était responsable de la mélancolie de sa femme. [MASK] avait même répandu la rumeur qu’il la battait et qu’il l’avait acculée au suicide.La nuit tombait, la route devenait dangereuse.
+
+['la', "l'", 't-elle', 'une', 'celle-ci']	Marion	Et alors moi, j’existe pas ? se récria [MASK], réellement outrée.– Oups, fit la petite, qui courut avec sa feuille vers la table à dessiner.Elle revint bientôt, triomphante, ayant ajouté un carré avec des boutons.– C’est moi, ça ?
+
+['elle', 'il', 'maman', 'celle-ci', 'léa']	Paul	Alice, Alice ! appela sa mère.– Où elle va ? s’inquiéta Paul.– Au collège, ne t’en fais pas. Pour une fois, elle sera à l’heure.Lorsque sa maman l’embrassa devant l’école, [MASK] sentit contre sa joue une joue mouillée.
+
+['bref', 'moi', 'euh', 'non', 'hum']	Sauveur	Tu fais un pet ? répéta [MASK], un peu largué.– Un P pour dire que je suis P… artie !– Ça prouve juste une chose, que ta mère veut te savoir en sécurité. Je comprends que ce soit embêtant pour toi, mais elle pense bien faire.–
+
+['elle', 'il', 'qui', 'puis', 'ça']	Sauveur	Et après il lui dit : « Tu as vu la jupe que tu as mise ? Tu veux faire le trottoir ou quoi ? »Elle s’était lancée dans une imitation de son père et [MASK] se cala au fond de son fauteuil, signe qu’il lui prêtait une attention accrue.–
+
+['elle', 't-il', 'martin', 'celui-ci', ',']	Gabin	– What ? dit [MASK] en arrachant ses écouteurs.– C’est ce que tu fais de tes nuits ?– C’est le week-end. Et puis c’est rien de mal. C’est un jeu de rôle en ligne. World of Warcraft, vous connaissez ?
+
+[',', 'que', ':', '...', 'qui']	Gabin	?Il fallait arracher chaque mot à son père.– Ma demi-sœur.– Putain, fit alors [MASK].Il venait de découvrir au dernier rang sur la photographie un jeune homme aux cheveux blancs, à demi caché par son voisin.–
+
+['il', 'le', 'je', 't-il', 'robert']	Nicolas	« Lui, là », répéta [MASK], interloqué.– Pendant quinze ans, j’ai mené une vie de dingue, à pas dormir la nuit à cause des bébés, à me lever à six heures, courir à la crèche, courir au boulot, courir pour faire les courses et lui, là…
+
+['je', 'elle', 'cela', 'tout', 'celle-ci']	Margaux	Ce fut suffisant pour que [MASK] prît feu. Sa mère était dépressive, déprimante, angoissée, chiante.– Je ne peux pas faire un pas dehors sans qu’elle me flique. Si je vais voir une copine, je dois lui envoyer un SMS avec un A pour dire que je suis A… rrivée.
+
+['</s>', '"', '-', ')', ',']	Gabin	On l’a empêchée de se faire renverser par une voiture.[MASK] se baissa pour ramasser sur le carrelage une pile de feuilles imprimées qui ressemblaient à des tracts politiques.– Elle distribuait ça.Comme 82,5 % des Français, vous ignorez ce qui se passe dans votre propre pays
+
+['</s>', 'il', 'elle', 'qui', 'et']	Évelyne	Du haut de son mètre quatre-vingt-dix, il chercha sa sœur dans l’assemblée et l’aperçut au jardin près du barbecue, une grande fourchette à la main, s’apprêtant à retourner les saucisses.– Viens embrasser ta tante, dit-il à son fils.[MASK] laissa tomber sa fourchette de saisissement en les apercevant.–
+
+['marie', 'jeanne', 'catherine', 'alice', 'rose']	Nicaise	?– Non, bien sûr… Mais mon histoire est compliquée.Elle était enfermée dans une enveloppe kraft. Peut-être pouvait-il en extirper un ou deux souvenirs ? Pour une fois ce serait lui qui se confierait.– Ma mère s’appelait [MASK].
+
+["c'", 'il', 'elle', 'lui', 'jean']	Lazare	Ouf. Tous deux raccrochèrent, lui soulagé, elle s’interrogeant. Avec sa peau d’or fin et ses grands yeux gris clair, [MASK] était un bel enfant. Son papa était-il métis, lui aussi ? Sa voix de velours était-elle blanche ou noire ?
+
+['il', '-il', 't-il', 'celui-ci', 'gabriel']	Sauveur	puisque tel était son nom – montra des signes d’affolement en se retrouvant derrière de nouveaux barreaux et il fit connaissance avec chacun d’eux en enfonçant son museau dans chaque interstice.– Du calme, Sauvé, du calme, lui dit [MASK] de sa voix d’hypnotiseur.
+
+['t-il', 't-elle', 'elle', 'il', 'jean']	Lazare	Tu te réveilles un peu ? Mets un « s » à loup.– À la fin de l’histoire, lui glissa [MASK], le loup noir se marie avec la louve blanche et ils ont un petit loup gris.– C’est très bien, mais rajoute des points.
+
+['celui', 'celle', ',', 'jacques', 'celui-ci']	Saint-Yves	Il avait vu [MASK] qui s’éloignait au volant de sa voiture. La voie était libre. Il savait ce qu’il allait dire, ce qu’il allait faire. Il avait répété la séquence mentalement une centaine de fois pour ne pas flancher, le moment venu.
+
+['qui', 'cela', 'ça', ',', 'que']	Louise	[MASK] l’intriguait.– Mes parents voulaient que je réussisse, poursuivit-il. Un peu comme tous les parents. Mais pour eux, cela voulait dire que je devais le plus possible ressembler à un Blanc, parler comme un Blanc, faire des études supérieures avec des Blancs.
+
+['il', 'elle', 'on', 'je', 'et']	Sauveur	Tu donnes ta langue au chat ?Un peu ralenti par une journée d’écoute, [MASK] réagit au bout de quelques secondes.– Oh, « ma langue au chat », bien joué !… Pizza-jambon ?– Ouais !
+
+['ben', 'le', 'la', "l'", 'en']	Gabin	Quatre petites limaces roses se tortillaient et la dernière, déjà un peu repoussée par la fratrie, ne donnait plus signe de vie.– Ouais, ben, on va attendre ton père, conclut [MASK]. Les macchabées, c’est pas mon truc.
+
+['il', 'elle', 'celui-ci', 'tout', 'celle-ci']	SFR	Pour s’occuper l’esprit, il sortit de la poche arrière de son jean son petit téléphone portable, qu’il avait éteint pendant la traversée, et il le ralluma. À l’instant où [MASK] reprit du service, une rafale de SMS s’aplatit sur l’écran.
+
+['</s>', '"', 'mais', 'peut-être', '--']	Jérémie	Il a un problème avec les enfants, il ne sait pas les prendre. C’était pareil avec l’autre petit garçon. [MASK].Entendait-elle ce qu’elle disait ? Allait-elle enfin comprendre ?– C’est… C’est la fin de la séance, non ?
+
+['</s>', '"', 'qui', 'il', 'on']	Saint-Yves	Deux policiers en extirpèrent un homme au visage maculé de sang, qu’ils tirèrent, traînèrent, poussèrent jusqu’à l’entrée des urgences. [MASK] leur tint la porte et, en remerciement, l’ivrogne lui lâcha son haleine empestée à la figure en criant :
+
+['maman', 'papa', 'ça', '...', 'monsieur']	Cyrille	Comment s’était passée la rentrée scolaire ? La maîtresse était-elle gentille ? N’y avait-il pas des enfants qui embêtaient [MASK] ? Non, non, répétait le petit garçon, l’air buté. La séance s’achevait, la mère était pressée d’embaucher.
+
+['</s>', 'il', 'elle', 'on', "j'"]	Sauveur	Elle se leva, chercha ses 45 euros dans son portefeuille en grommelant de vagues « On m’avait pourtant dit du bien de vous » et autres « Il faut compter sur personne ». [MASK] aurait aimé trouver des paroles de conciliation, voire d’excuse, mais rien ne venait.
+
+['</s>', '-', 'elle', 'il', '"']	Sauveur	Elle se redressa, ses yeux pétillant d’intelligence derrière les carreaux de ses lunettes. [MASK] sourit de plaisir rien qu’à la regarder.– Je lui ai dit ! s’écria-t-elle, toujours debout, et son gros sac à dos à bout de bras.– Tu as dit quoi à qui ?
+
+['ce', 'celui-là', 'ça', 'celui-ci', 'ceci']	CE	– Évidemment, parce que [MASK] N’EST PAS mon fils. On l’a échangé avec un autre.– Ah ?– C’est mon histoire qu’ils ont mise dans le film. Je ne sais pas comment ils l’ont sue.Vu.
+
+['</s>', '-', 'il', 'on', 'elle']	Sauveur	Ce serait le plus gros des trois.– Je croyais qu’il y en avait plus de trois.[MASK] reposa la cage avec un soupir.– Deux sont morts. En fait, j’ai un peu peur qu’ils meurent tous.
+
+['elle', '"', 'il', ')', 'lui']	Gabin	– Hugues est le frère de ta maman.– Il voulait me tuer ?! Le frère de maman !– Mais je lui ai fait peur avec une louche ! fanfaronna [MASK].De tout ce qui s’était passé, c’était ce qui lui semblait le plus marquant.
+
+['cuisine', 'pénélope', 'julie', 'isabelle', 'maman']	Gabin	Ce samedi, [MASK], qui faisait tout à fait partie de la maison, avait pour mission de commander les pizzas à Zap’pizza. Tandis qu’il précisait au téléphone qu’il lui fallait une « reine mais sans champignons, une campagnarde mais sans oignons…
+
+['elle', 'harry', 'il', 't-il', 'tom']	Gabin	C’est un jeu de rôle en ligne. World of Warcraft, vous connaissez ?– Parfaitement. Et je connais aussi l’addiction aux jeux vidéo, et l’absentéisme scolaire qui en découle.– Pff, c’est pas pour ça, dit [MASK] avec un haussement d’épaules.
+
+['il', 'elle', 'lui', 'celui-ci', 'qui']	Louise	C’est jaune et ça court ? dit le petit bonhomme sautillant à ses côtés, qu’est-ce que c’est ?Son fils lui avait déjà fait la blague, mais [MASK] fit semblant d’ignorer la réponse.– Tu sais pas ?… Un citron pressé !
+
+['.', 'le', 't-elle', 'harry', 'elle']	Sauveur	Je suis désolé pour le machin… la barre, bredouilla Nicolas.– Oui, on est désolés, dit à son tour Alexandra.– Vous êtes désolés, répéta [MASK], enregistrant avec satisfaction que ce tragique épisode permettait à la petite dernière de reconquérir sa place sur les genoux de son père.–
+
+['la', 'ça', 'aussi', 'cette', 'hier']	Isabelle	Il avait toutes les connaissances permettant de comprendre la vérité.– Quand j’ai vu [MASK], tu sais, la princesse dans son château, c’était déjà une princesse triste. J’ai cru qu’elle était malheureuse dans sa famille, et que j’allais la rendre heureuse en l’épousant.
+
+['il', 'aussi', ',', 'celui-ci', 'lui']	Gabin	Mais [MASK] restait froid, méthodique. Les tapes dans le dos ne suffisant pas, il passa à la manœuvre suivante. Toujours placé derrière l’enfant, il lui appuya le poing au creux de l’estomac et le remonta vers le haut. Une fois, deux fois, trois fois.
+
+['"', ':', '.', ',', 'encore']	Margaux	Est-ce que tu voudrais me dire pourquoi tu es là ? Ta maman m’a parlé d’un « problème avec l’école ».– Mais je voulais pas venir ! se récria [MASK]. C’est l’autre, là…
+

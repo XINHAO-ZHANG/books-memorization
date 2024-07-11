@@ -1,0 +1,200 @@
+['Eh', 'oh', 'Ah', 'Oh', 'Hé']	Flore	Et elle eut un geste d’enragée insouciance, elle prit sa course, lâchant son poste, abandonnant la voiture et le conducteur, qui se débrouillerait. Mais un fouet claqua dans l’air matinal, une voix cria gaiement :« Eh ! [MASK] !
+
+['qui', 'Dieu', 'tout', 'elle', 'comme']	Jacques	… C’est affreux, ça vous emporte, oh ! si loin, si loin ! J’ai plus vécu dans cette minute-là que dans toute ma vie passée. »Les dents serrées, n’ayant plus qu’un bégaiement, [MASK] cette fois l’avait prise ;
+
+['Marie', 'Jeanne', 'Louise', 'Julie', 'Madame']	Flore	Que faire ? par où commencer ? comment arriver jusqu’à ces malheureux ?« Jacques ! criait toujours [MASK]. Je vous dis qu’il m’a regardée et qu’il a été jeté par là, sous le tender… Accourez donc ! aidez-moi donc !
+
+['elle', 'il', 'qui', '</s>NOTUSED', 'et']	Misard	. »Blême, les yeux ardents, [MASK] continuait à le regarder. Il eut comme une brusque illumination.« Dans la boîte à sel, tiens ! c’est vrai. Il y a, sous le tiroir, une cachette où je n’ai pas fouillé.
+
+['Elle', 'Il', 'elle', 'Marie', 'Alice']	Séverine	[MASK] était là.« Mon Dieu ! vous étiez venue ?– Oui, j’ai vu monter l’orage, je suis accourue ici, avant la pluie… Comme vous avez tardé ! »Elle soupirait d’une voix défaillante, jamais il ne l’avait eue si abandonnée à son cou.
+
+['on', 'il', 'elle', 'qui', 'chacun']	Jacques	et [MASK], au signal du conducteur-chef, siffla, puis ouvrit le régulateur. On partit. C’était le même départ que celui du train tragique de février, à la même heure, au milieu des mêmes activités de la gare, dans les mêmes bruits, les mêmes fumées.
+
+['maman', 'maintenant', 'ça', 'enfin', 'alors']	Jacques	Aujourd’hui, bien qu’âgée de quarante-cinq ans à peine, la belle tante Phasie d’autrefois, si grande, si forte, en paraissait soixante, amaigrie et jaunie, secouée de continuels frissons.Elle eut un cri de joie.« Comment, c’est toi, [MASK] !
+
+['Marie', 'Berthe', 'Julie', 'Sophie', 'Marguerite']	Jacques	; et elle sortit, sans une parole, en les enveloppant d’un long regard.« Comment ! tante Phasie, reprit [MASK] d’un air chagrin, vous voilà tout à fait au lit, c’est donc sérieux ? »
+
+['retour', 'nuit', 'Paris', 'reconnaissance', 'midi']	Séverine	le jeudi et le samedi, de onze heures cinq du soir à six heures quarante du matin. Et, le premier lundi, après le voyage de [MASK], le sous-chef s’était acharné.« Voyons, camarade, vous ne pouvez pas refuser de manger un morceau avec nous…
+
+['Louise', 'Marie', 'Camille', 'Mathilde', 'Jeanne']	Roubaud	; ce qui jeta la maîtresse du capitaine retraité dans une histoire interminable de fortune cachée, puis retrouvée, sous le marbre d’une commode.Des semaines s’écoulèrent, et cet argent que [MASK] avait dans les mains, achevait d’enfiévrer sa passion.
+
+['Il', 'On', 'Elle', 'Pierre', 'Paul']	Jacques	Alors, on causa du temps vraiment tiède qu’il faisait depuis quelques jours, d’un déraillement qui s’était produit à Maromme. [MASK] finissait par croire que sa marraine avait des cauchemars tout éveillée, car lui ne surprenait rien, chez ce bout d’homme si complaisant, aux yeux vagues.
+
+['</s>NOTUSED', 'une', 'Marie', 'Jeanne', 'Mme']	Victoire	, il était entré tout jeune dans la Compagnie, comme ouvrier ajusteur. Puis, à trente ans, s’ennuyant à l’atelier, il avait voulu être chauffeur, pour devenir mécanicien ; et c’était alors qu’il avait épousé [MASK], du même village que lui.
+
+['Elle', 'Marie', '»', 'Jeanne', 'Louise']	Séverine	»[MASK], sombre, les regards perdus, murmura, après un silence :« Encore, si j’étais libre, si mon mari n’était plus là !… Ah ! comme nous oublierions vite ! »Il eut un geste violent, il pensa tout haut.
+
+['Paris', 'midi', 'peine', 'temps', 'crédit']	Barentin	Comme il habitait un pavillon isolé dans le parc, ouvrant sur une ruelle déserte, nous ne l’entendions même pas arriver. Il louait à [MASK] une voiture, il ne se montrait que le lendemain, fort tard parfois dans la journée, ainsi qu’un voisin en visite, installé chez lui depuis longtemps…
+
+['temps', 'hommes', 'mœurs', 'sentiments', 'apparences']	Roubaud	Celle-ci, favorable aux [MASK] jadis, avait dû abandonner le mari ; mais elle continuait de soutenir la femme, par une sorte de complicité tendre, très tolérante au charme et à l’amour, toute bouleversée de ce romanesque tragique, éclaboussé de sang.
+
+['Elle', 'elle', 'Il', 'Marie', 'Louise']	Philomène	et il ne la quittait pas des yeux, peu à peu échauffé de jalousie, à la voir ainsi s’exciter devant son chef.« Oui, répondit le mécanicien d’un air de parfaite tranquillité, j’ai reçu la citation. »[MASK] se rapprocha, heureuse de le frôler du coude.
+
+['Elle', 'Marie', 'Maman', 'Jeanne', 'Madame']	Séverine	[MASK], levée encore, lisait. On avait pris un petit verre, on avait même joué aux cartes jusqu’à minuit passé.Et, désormais, les déjeuners du lundi, les petites soirées du jeudi et du samedi tournaient à l’habitude.
+
+['Voltaire', 'Monsieur', 'Dreyfus', 'Balzac', 'Napoléon']	Roubaud	Cela parut si direct à [MASK], qu’il éprouva un irrésistible besoin de s’innocenter. Il se vit découvert, son parti fut pris tout de suite.« Il y a là un tel cas de conscience ! On hésite, vous comprenez, rien n’est plus naturel.
+
+['Il', 'Et', 'Lui', '</s>NOTUSED', 'II']	Roubaud	C’est fichu, le voilà qui file. »Mais, de sa main nerveuse, brusquement elle l’empoigna au bras, l’immobilisa contre elle.« Vois, il revient ! »[MASK], en effet, revenait. Il avait tourné à droite, puis il redescendit.
+
+['Marie', 'Pierre', 'Jean', 'Jeanne', 'Joseph']	Jacques	Et, comme la pluie s’entêtait, bien que les coups de tonnerre eussent cessé :« Alors, je file, je vous laisse à vos affaires.– Oh ! dit [MASK], puisque ça continue, je vais aller m’étendre sur le lit de camp.
+
+['elle', 'il', 'lui', 'Elle', 'Il']	Flore	»Immobile, [MASK] avait blêmi, sous ce regard d’exécration terrifiée. Ainsi, dans ce carnage d’inconnus et d’innocents, elle n’était arrivée à les tuer ni l’un ni l’autre : la femme en sortait sans une égratignure ; lui, maintenant, en réchapperait peut-être
+
+['Paris', ';', 'Dreyfus', ':', 'Balzac']	Cabuche	Et c’était ici que le juge avait montré cette profondeur de psychologie criminelle qu’on admirait tant ; car il le déclarait aujourd’hui, jamais il n’avait cessé de surveiller [MASK], sa conviction était que le premier assassinat en amènerait mathématiquement un second.
+
+['il', 'Charles', 'Joseph', 'Pierre', 'Paul']	Roubaud	»Évidemment, [MASK] n’avait pas prévu cette question, car, pour la première fois, il se troubla, n’ayant sans doute plus la réponse préparée d’avance. Il regarda sa femme, hésitant.« Oh ! non, je ne crois pas…
+
+['il', 'elle', 'on', 'Il', 'Sam']	Cabuche	L’instinct de la conservation l’emporta.« Je ne peux pas affirmer. Mais il y a de ça, beaucoup de ça, pour sûr. »Cette fois, [MASK] commença à jurer. À la fin, on l’embêtait, avec ces histoires.
+
+['lui', 'Thomas', 'William', 'Jack', 'James']	Pecqueux	Enfin, si ça arrive, il faudra bien faire son devoir. »Et, sur ce mot, il se leva, en voyant qu’elle avait fini par glisser une de ses jambes sous les siennes, et que [MASK] s’en apercevait, le sang au visage, serrant déjà les poings.
+
+['la', 'le', '...', 'une', 'un']	Pecqueux	Enfin, elle parut reprendre haleine, elle banda ses muscles de métal en un suprême effort, et elle passa, et lourdement le train la suivit, entre les deux murs de la neige éventrée. Elle était libre.« Bonne bête tout de même ! » grogna [MASK]
+
+['Un', 'Martin', 'Joseph', 'Marcel', 'Il']	Misard	Un spectacle inattendu l’arrêta sur le seuil.[MASK], dans le coin, avait dérangé le pot à beurre ; et, à quatre pattes par terre, une lanterne allumée posée près de lui, il sondait le mur à légers coups de poing, il cherchait.
+
+['il', 'elle', 'lui', 'qui', 'Il']	Jacques	Mais, elle en était certaine maintenant, [MASK] l’avait vue retenir les chevaux ; et elle venait de le comprendre, à son recul, il avait pour elle la répulsion terrifiée qu’on a pour les monstres. Jamais il n’oublierait.
+
+['elle', 'il', 'Marie', 'Jeanne', 'Anna']	Séverine	Dès qu’elle l’avait vu en état de l’entendre, [MASK] s’était empressée de le rassurer, en lui disant à l’oreille, pendant qu’elle remontait la couverture :« Ne t’inquiète pas, j’ai vidé tes poches, j’ai pris la montre.
+
+['Monsieur', 'monsieur', 'colonel', 'capitaine', '«']	Pecqueux	Certes, oui, nous l’avons vue, répondit le sous-chef. Nous avons même déjeuné dans votre chambre… Ah ! une brave femme que vous avez là, [MASK]. Et vous avez bien tort de ne pas lui être fidèle. »Il rigola plus violemment.
+
+['</s>NOTUSED', 'Elle', 'Et', 'et', 'Puis']	Jacques	Embrasse-moi, oh ! si fort, si fort ! embrasse-moi comme si tu me mangeais, pour qu’il ne reste plus rien de moi en dehors de toi ! »[MASK], sans se retourner, de sa main droite, tâtonnante en arrière, avait pris le couteau.
+
+['pauvre', 'elle', 'petite', 'misérable', 'triste']	Séverine	Et cela, sans qu’il sût pourquoi, au lieu de l’irriter, l’emplit de commisération et de tristesse : un malheureux encore, cette grande brute, plantée là, ainsi qu’une bête affolée et fidèle. Vraiment, [MASK], si mince, pas belle lorsqu’on la détaillait
+
+['elle', 'celle', 'moi', 'Rome', 'Vénus']	Flore	Et ça passait, ça passait, mécanique, triomphal, allant à l’avenir avec une rectitude mathématique, dans l’ignorance volontaire de ce qu’il restait de l’homme, aux deux bords, caché et toujours vivace, l’éternelle passion et l’éternel crime.Ce fut [MASK] qui rentra la première.
+
+['le', 'doucement', 'alors', 'enfin', 'encore']	Pecqueux	Jamais il ne s’était mieux porté, sans remords, l’air soulagé, dans une grande paix heureuse.Lui qui ne parlait jamais en route, plaisanta [MASK], qu’on lui avait laissé pour chauffeur.« Quoi donc ?
+
+['Lui', 'Il', 'Elle', 'lui', 'Louis']	Ozil	[MASK], avec le cri d’un homme qui s’éveille sous l’effondrement d’une maison, regagnait son poste en courant ; tandis qu’elle, raidie, immobile, suivait, du fond des ténèbres, la manœuvre nécessitée par l’accident.
+
+['elle', 'Jeanne', 'Marie', 'Catherine', 'Louise']	Séverine	Mais [MASK], par une bravade de femme qui sent sa force, eut le tort d’ajouter :« Des gens comme nous ne tuent pas pour de l’argent. Il aurait fallu un autre motif, et il n’y en avait pas, de motif.
+
+['Monsieur', 'Le', 'Louis', 'Lui', '...']	Pecqueux	[MASK], qui s’était approché, restait debout devant son mécanicien, bouleversé de le voir dans un si fichu état ; tandis que les deux femmes, agenouillées maintenant, l’une à droite, l’autre à gauche, soutenaient la tête du malheureux, en épiant avec angoisse les moindres frissons de son visage.
+
+['elle', 'lui', 'Lui', 'il', 'cela']	Séverine	; et [MASK] aussi le prenait. Ils se possédèrent, retrouvant l’amour au fond de la mort, dans la même volupté douloureuse des bêtes qui s’éventrent pendant le rut. Leur souffle rauque, seul, s’entendit. Au plafond, le reflet saignant avait disparu
+
+['il', 'elle', 'on', 'lui', 'Pierre']	Roubaud	Silencieux, [MASK] écoutait, d’un visage calme ; et il était seulement un peu blême, sans doute un reste de fatigue, que ses yeux battus accusaient aussi. Cependant, son collègue avait cessé de parler, qu’il semblait l’interroger encore, comme s’il se fût attendu à d’autres événements.
+
+['Il', 'il', 'Elle', 'Louis', 'Lui']	Jacques	J’ai des preuves. »Elle se tut, le serra plus étroitement, d’une étreinte où le bonheur de la possession s’aiguisait de rancune. Puis, après une rêverie frémissante :« Oh ! je le hais, je le hais ! »[MASK] fut surpris.
+
+['Monsieur', 'Madame', 'madame', 'monsieur', 'Jules']	Moulin	« C’est dégoûtant ! Voyez-moi comme ces bougres-là nettoient ! Cette voiture semble avoir de la poussière de huit jours.– Ah ! reprit [MASK], quand les trains arrivent passé onze heures, il n’y a pas de danger que les hommes donnent un coup de torchon…
+
+['Elle', '</s>NOTUSED', 'Marie', 'Et', 'Madame']	Séverine	car la sensation lui en était désagréable, il s’imaginait en recevoir dans les jambes un léger choc. [MASK], l’après-midi, lorsqu’elle s’asseyait devant la fenêtre, reculait sa chaise, pour n’être pas juste au-dessus du cadavre, qu’ils gardaient ainsi dans leur plancher.
+
+['Il', 'Elle', 'il', 'Joseph', 'Paul']	Jacques	»[MASK] n’avait pas bougé, inerte, réfléchissant, entre ces bras de femme qui se resserraient à son cou, à ses reins, ainsi que des nœuds de couleuvres vives. Il était très surpris, le soupçon d’une pareille histoire ne lui étant jamais venu.
+
+['Julien', 'Pierre', 'Henri', 'Marie', 'Pierrot']	Philomène	Ses yeux bleus si doux, pleins d’angoisse et noyés de larmes, la rendaient très touchante.« Bien sûr qu’elle a raison de pleurer, dit à demi-voix [MASK]. Les voilà fichus, maintenant qu’on a tué leur bon Dieu.
+
+['lui', 'Lui', 'soi', 'moi', 'Louis']	Jacques	Et les choses, autour de [MASK], n’étaient plus que dans un rêve, car il les voyait à travers son idée fixe. Sa vie de chaque jour se trouvait comme abolie, il marchait en somnambule, sans mémoire du passé, sans prévoyance de l’avenir, tout à l’obsession de son besoin.
+
+['Jean', 'Jeanne', 'Marie', 'Pierre', 'Paul']	Séverine	Sans compter qu’il doit te laisser quelque chose, il l’a dit devant moi.– Oui, murmura [MASK], cette maison de la Croix-de-Maufras, cette propriété que le chemin de fer a coupée. On y allait parfois passer huit jours…
+
+['elle', 'Marie', 'il', 'Catherine', 'Jeanne']	Séverine	Sans doute [MASK] était déshabillée. Doucement, il appela, pris de trouble, les veines battant à grands coups. Puis, il aperçut le sang, il comprit, s’élança, avec un terrible cri qui sortait de son cœur déchiré. Mon Dieu !
+
+['Paul', 'Louis', 'Pierrot', 'Eugène', 'Albert']	Roubaud	Comment ! c’est vous ? dit [MASK] en s’arrêtant, étonné. Ah ! oui, l’accident arrivé à la machine, j’oubliais… Et vous ne repartez que ce soir ? Un congé de vingt-quatre heures, bonne affaire, hein ?– Bonne affaire !
+
+['Elle', 'Il', 'On', 'elle', 'Marie']	Séverine	Et il apportait à sa maîtresse cette rage d’amour désespérée, que ne pouvait user ni la souffrance ni la fatigue.[MASK] l’avait bien senti changer, et elle se désolait elle aussi, croyant qu’il s’attristait à cause d’elle, depuis qu’il savait.
+
+['gauche', 'droite', 'Schneider', 'vapeur', 'charbon']	Jacques	Dans le vaste hangar fermé, noir de charbon, et que de hautes fenêtres poussiéreuses éclairaient, parmi les autres machines au repos, celle de [MASK] se trouvait déjà en tête d’une voie, destinée à partir la première.
+
+['Il', 'Elle', 'il', 'Thomas', 'David']	Roubaud	« Enfin, ça ne me disait pas. Tu ne vas pas me forcer à des choses qui me déplaisent. »[MASK] ouvrit les bras, comme pour déclarer qu’il ne la forçait à rien. Pourtant, il reprit :« Tiens ! tu me caches quelque chose…
+
+['elle', 'Marie', 'Julie', 'Louise', 'Sophie']	Séverine	Lorsque [MASK] eut tiré le bouton du timbre, une nouvelle terreur la glaça. Mais, déjà, un valet la faisait asseoir dans une antichambre, après avoir pris son nom. Et, par les portes doucement entrebâillées, elle entendit très distinctement la conversation vive de deux voix.
+
+['le', 'la', 'madame', 'Madame', 'Mme']	Cabuche	Le mari arrivait en retard, pour s’être arrêté à causer avec le garde-barrière, qui l’avait ensuite accompagné, en continuant la conversation. Tous deux, stupides, regardaient [MASK], dont les mains saignaient comme celles d’un boucher.
+
+['lui', 'elle', 'eux', 'Paul', 'Louis']	Pecqueux	Les petites mains, les façons polies de ce garçon si triste, qui avait l’air très doux, lui semblaient des friandises auxquelles elle n’avait pas mordu encore. Avec [MASK], c’était maintenant le ménage, des soûleries, plus de rudesses que de caresses ;
+
+['le', 'un', 'Jean', 'Daniel', '</s>NOTUSED']	Jacques	»Dès la porte, en apercevant [MASK], leurs yeux se ternirent d’un vacillement d’inquiétude. Avait-il parlé ? le gardait-on pour le confronter avec eux ? Toute leur assurance s’en allait, de le sentir là ; et ce fut la voix
+
+['chacun', 'un', 'bien', 'lui', 'tous']	Pecqueux	Il avait fini par se reposer sur [MASK] des soins de visite, bien que le chauffeur fût ivre deux fois sur trois. Mais, ce jour-là, dans l’émotion tendre où il était, un scrupule inconscient venait de l’envahir, il voulait s’assurer par lui-même du bon fonctionnement de toutes les pièces ;
+
+['Napoléon', 'David', 'Charles', 'Alexandre', 'Marius']	Roubaud	»Le mécanicien, qui s’impatientait, car il commençait à craindre de ne pouvoir prendre le train de cinq heures, leva les yeux, examina [MASK] ; et il semblait ne jamais l’avoir regardé, il s’étonnait de le trouver court, puissant, avec un profil singulier, vu ailleurs, rêvé peut-être.
+
+['Jean', 'Pierre', 'Charles', 'le', 'Paul']	Jacques	dit [MASK], qui s’était levé du banc pour la reprendre à son bras.– Tant pis ! je le verrai une autre fois… Écoutez, mon ami, je n’ai plus besoin de vous, laissez-moi vite faire ma course. Et merci encore, merci de tout mon cœur.
+
+['Monsieur', 'Joseph', 'le', 'Pierre', 'Jean']	Pecqueux	Leurs mains se rencontrèrent, elles tiraient ensemble sur une roue brisée. Mais les doigts délicats de l’une n’arrivaient à rien, tandis que l’autre, avec sa forte poigne, abattait les obstacles.« Attention ! » dit [MASK], qui se mettait, lui aussi, à la besogne.
+
+['Marie', 'Elle', 'Jeanne', 'Maman', 'Catherine']	Flore	[MASK], distraite dans ses réflexions, s’était levée. Elle referma la porte, pour que cet homme ne revînt pas déranger sa mère. Et elle s’étonna de s’entendre dire tout haut :« Dix minutes auparavant, ce sera bien.
+
+['Kennedy', '</s>NOTUSED', 'Il', 'Lincoln', 'Hitler']	Roubaud	Pourtant, sur ce dernier point, l’accusation émettait un doute, la blessure du président paraissant avoir été faite par une lame plus petite et plus tranchante.[MASK], d’abord, répondit par oui et par non, de l’air somnolent et alourdi qu’il avait maintenant.
+
+['lui', 'impossible', 'elle', 'fini', 'trop']	Cabuche	»C’était [MASK]. Elle fut clouée au sol, arrêtée dès son premier élan, devant la barrière même.« Quoi donc ? continua-t-il, tu dors encore, par ce beau soleil ? Vite, que je passe avant l’express !
+
+['il', 'elle', 'Il', 'Antoine', 'David']	Roubaud	« Jamais, mon chéri, je ne t’ai dit que ma mère m’avait laissé cette bague. »Du coup, [MASK] la dévisagea, pâlissant lui aussi.« Comment ? tu ne m’as jamais dit ça ? Tu me l’as dit vingt fois !
+
+['Louis', 'Charles', 'Joseph', 'Jean', 'Monsieur']	Jacques	et, vêtue enfin, mourant d’inanition, elle s’était décidée, vers deux heures, à descendre manger dans un restaurant du voisinage. Lorsque [MASK] parut, elle venait de remonter, après avoir fait quelques courses.« Oh ! mon chéri, que j’étais inquiète !
+
+['lui', 'Charles', 'Joseph', 'Paul', 'Louis']	Pecqueux	; et, de ses paupières closes, des larmes lentes coulaient maintenant, inondant ses joues. C’en fut trop pour [MASK], qui était resté là, immobile, la gorge serrée. Leur bonne amie mourait, et voilà que son mécanicien voulait la suivre.
+
+['celui', 'Dieu', 'celle', 'Celui', 'Marie']	Ozil	Pourquoi n’attendait-elle pas la nuit et ne courait-elle pas rejoindre [MASK], qui l’adorait, qui saurait bien la défendre ? Ses idées devenaient douces et confuses, elle s’endormit, d’un sommeil noir, sans rêves.
+
+['Marie', 'Sophie', 'Jeanne', 'Julie', 'Claire']	Philomène	Il avait empoigné le bras de [MASK], il le serrait à le briser. Elle retint un cri de douleur, elle se contenta de souffler à l’oreille du mécanicien, pendant que l’autre achevait rageusement son petit verre :
+
+['monsieur', 'Monsieur', 'je', 'mais', 'et']	Pecqueux	Un garçon capable, à ce qu’on dit. »Il parlait au hasard, d’abondance. Soudain, il s’éloigna.« Au revoir, [MASK]… J’ai à donner un coup d’œil de ce côté.
+
+['elle', 'il', 'la', 'madame', 'Catherine']	Séverine	« Expliquez-vous, madame… Je me souviens parfaitement, je ne demande pas mieux que de vous être utile, si rien ne s’y oppose. »Alors, très nettement, [MASK] conta comme quoi son mari était menacé d’une destitution.
+
+['Marie', 'Louise', 'chacun', 'Dieu', 'Clara']	Séverine	Ce jour-là pourtant, trempé d’eau, brisé de fatigue, il était rentré se jeter sur son lit. De sorte que [MASK] l’aurait peut-être attendu vainement, si la querelle d’un ménage voisin, un mari qui assommait sa femme, hurlante, ne l’avait réveillé.
+
+['Dieu', 'Cela', 'Satan', 'Mais', 'Pourquoi']	Roubaud	Il cherchait, il discutait les raisons pour, les raisons contre. En somme, à la réflexion, froidement, sans fièvre aucune, toutes étaient pour. [MASK] n’était-il pas l’unique obstacle à son bonheur ?
+
+['Il', 'il', 'Joseph', 'Pierre', 'Jean']	Pecqueux	[MASK] se releva, s’excusa, d’un grognement inintelligible. Il tenait à peine debout ; mais la force de l’habitude le remit tout de suite à son feu, le marteau en main, cassant le charbon, l’étalant sur la grille avec la pelle, en une couche bien égale ;
+
+['elle', 'moi', 'nous', 'madame', 'lui']	Séverine	; et, les yeux ternes, la bouche mince, avec son air doux d’homme chétif, il se confondait déjà en prévenances devant [MASK].« J’ai pensé que madame voudrait peut-être profiter de l’occasion pour donner un coup d’œil à sa propriété.
+
+['Il', 'Paul', 'il', 'Louis', 'Joseph']	Jacques	C’était fini de vivre, il n’y avait plus devant lui que cette nuit profonde, d’un désespoir sans bornes, où il fuyait.Quelques jours se passèrent. [MASK] avait repris son service, évitant les camarades, retombé dans sa sauvagerie anxieuse d’autrefois.
+
+['lui', 'nous', 'moi', 'personne', 'eux']	Pecqueux	Ni lui, ni [MASK], ne pouvaient quitter la machine.L’employé s’éloigna, on le perdit bientôt de vue, au bout de la tranchée. Il avait quatre kilomètres à faire, il ne serait pas de retour avant deux heures peut-être.
+
+['Elle', 'elle', 'Marie', 'Il', 'Jeanne']	Séverine	Mon Dieu ! va, quand tu serais sa fille ! »[MASK] s’était levée, violente, le visage en flamme, avec le vacillement effrayé de son regard bleu, sous la masse lourde de ses cheveux noirs.« Sa fille, sa fille !…
+
+['Dieu', 'Joseph', 'Jean', 'David', 'Pierre']	Roubaud	Puis, il marcha d’un bout de la pièce à l’autre, muet, éperdu. Elle, tombée assise au bord du lit, le regardait de ses grands yeux fixes. Et le terrible silence dura.La fureur de [MASK] ne se calmait point.
+
+['il', 'on', 'elle', 'tout', 'Dieu']	Pecqueux	Son ennui fut de ne rien trouver à manger ni à boire, dans le buffet : sans doute, depuis trois jours qu’il était le maître, [MASK] avait balayé jusqu’aux miettes, sur les planches. C’était comme pour la lumière, il n’y avait que ce bout de bougie
+
+['il', 'elle', 'on', 'Marx', 'Paul']	Jacques	« Voyons, camarade, vous ne pouvez pas refuser de manger un morceau avec nous… Que diable ! vous avez été très gentil pour ma femme, je vous dois bien un remerciement. »Deux fois en un mois, [MASK] avait ainsi accepté à déjeuner.
+
+['Il', 'Elle', 'il', 'Lui', 'Thomas']	Cabuche	»Curieusement, le juge l’avait regardé se fâcher. Et, faisant faire un crochet à l’interrogatoire :« Vous êtes très violent, vous avez été condamné à cinq ans de prison pour avoir tué un homme, dans une querelle. »[MASK] baissa la tête.
+
+['elle', 'la', 'Marie', 'une', 'Jeanne']	Flore	Mais [MASK], qui venait de se jeter de côté, le retint, ce qui le sauva. Il croyait qu’elle n’avait pas eu la force de maîtriser ses chevaux, que c’étaient eux qui l’avaient traînée. Et il s’accusait, il sanglotait, dans un râle de terreur désespérée
+
+['elle', 'il', 'on', 'Marie', 'Madeleine']	Jacques	Et il est à moi, il est mon mari, et nous avons bébé à nous deux ! Je vous dis que c’est trop ! »En étudiant le nœud des brides, [MASK] venait de constater qu’il y avait dessous, attaché à un velours noir, un gros médaillon d’or
+
+['il', 'Il', 'Albert', 'elle', 'Paul']	Jacques	Et tout cela le glaçait, lui semblait si extraordinaire, qu’il finissait par admettre une hallucination, née de l’affreuse crise qu’il venait de traverser.Pendant près d’une heure encore, [MASK] marcha, la tête alourdie de songeries confuses.
+
+['Joseph', 'Jeanne', 'Marie', 'Pierre', 'maman']	Misard	Mais, lorsqu’elle entendit [MASK] quitter la chambre et s’acharner dans les pièces voisines, elle s’approcha du lit à son tour, elle s’assit, les regards sur sa mère. Au coin de la table, la chandelle brûlait toujours, d’une flamme haute et immobile.
+
+['lui', 'Georges', 'Louis', 'Jean', 'Paul']	Pecqueux	; tandis que [MASK], immobile, les mains dans les poches, riant d’aise à la fainéantise de cette gaie matinée, s’étonnait que le sous-chef, après s’être contenté de faire le tour du hangar, s’en retournait rapidement.
+
+['il', 'on', 'elle', 'Il', 'Jean']	Jacques	? Il n’eut qu’un geste vague, en répondant :« Là-bas, comme qui dirait à cinq cents mètres… Faut voir clair, pour savoir. »À ce moment, [MASK] entendit, au-dessus de sa tête, un choc assourdi.
+
+['Il', 'Elle', 'On', 'Louis', 'Émile']	Jacques	Enfin, qu’est-ce que vous en dites ? Un accident, n’est-ce pas ?– Ça se peut. Quelque gaillard qui se sera fait couper, ou peut-être bien un voyageur qui aura sauté d’un wagon. »[MASK] frémissait.« Venez vite !
+
+['moi', 'Dieu', 'David', 'Pierre', 'papa']	Roubaud	Moi, ne plus t’aimer, pourquoi ?… Je me moque de ton passé. Ce sont des affaires qui ne me regardent pas… Tu es la femme de [MASK], tu as bien pu être celle d’un autre. »Il y eut un silence.
+
+['tous', 'Jack', 'chacun', 'William', 'Thomas']	Séverine	? personne ne leur en avait soufflé mot ! Une arrestation faite, ou une arrestation à faire ? Ils l’accablaient de questions, mais il n’en savait pas davantage.À ce moment, dans le couloir, un bruit de pas éveilla l’attention de [MASK].
+
+['lui', 'Marie', 'Madeleine', 'Catherine', 'Dieu']	Jacques	Elle s’était imaginé un instant que [MASK] le croyait et que, de là, venaient ses tristesses. Au milieu d’une crise de sanglots, elle avait protesté de son innocence, en lui disant de la tuer, si elle était infidèle.
+
+['Marie', 'Pierre', 'Jack', 'James', 'Jean']	Jacques	, elle s’arrêta au milieu de la pièce, donnant un coup d’œil, pour s’assurer que rien ne manquait.Puis, comme elle s’étonnait que [MASK] ne fût pas là encore, un coup de sifflet l’attira près d’une des fenêtres.
+
+['elle', 'Marie', 'Louise', 'Sophie', 'Catherine']	Flore	Mais on arrivait à dégager le tender ; et [MASK], de temps à autre, s’arrêtait, plongeait sa tête parmi les bois éclatés, les fers tordus, fouillant ardemment des yeux, pour voir si elle n’apercevait pas le mécanicien. Brusquement, elle jeta un grand cri.
+
+['Il', 'Eugène', 'On', 'Martin', 'Antoine']	Misard	« Mais, nom de Dieu ! arrivez donc ! s’il vivait encore, on pourrait le secourir. »[MASK] se dandina, s’avança, avec son flegme. Puis, lorsqu’il eut promené la lanterne au-dessus du corps :« Ah ! ouitche !
+
+['il', 'elle', 'on', 'je', 'lui']	Jacques	! Ah ! cette sensation de nuit de tempête, ah ! ce noir épouvantable qui hurlait au fond de moi ! »Et cette créature frêle, si mince entre ses bras, [MASK] la trouvait maintenant impénétrable, sans fond, de cette profondeur noire dont elle parlait.
+
+['Elle', 'Il', 'elle', 'Alice', 'Anna']	Séverine	Il redevenait la brute inconsciente de sa force, il l’aurait broyée, dans un élan de fureur aveugle.[MASK] poussa la porte, parut toute fraîche, toute joyeuse.« C’est moi… Hein ? tu as dû croire que j’étais perdue.
+
+['il', 'elle', 'Il', 'Albert', 'on']	Roubaud	Les derniers floconnements de vapeur blanche se perdaient, parmi les gros tourbillons de fumée noire, salissant le ciel. Et il rentra, lui aussi, dans la chambre.Devant le coucou qui marquait trois heures vingt, [MASK] eut un geste désespéré.
+
+['il', 'elle', 'on', 'Joseph', 'Il']	Jacques	; tandis que les deux femmes, agenouillées maintenant, l’une à droite, l’autre à gauche, soutenaient la tête du malheureux, en épiant avec angoisse les moindres frissons de son visage.Enfin, [MASK] ouvrit les paupières.
+
+['Jean', 'Marie', 'Pierre', 'Jeanne', 'Jacques']	Roubaud	Et un huissier les introduisit tout de suite dans le cabinet du juge d’instruction.« Ah bien ! Il faut nous armer de patience, dit [MASK]. Nous sommes là pour deux bonnes heures… Asseyez-vous donc ! »
+
+['lui', 'le', 'elle', 'moi', 'eux']	Jacques	, nous voyagerons. Est-ce que je sais, moi ! c’est toujours fête ! »Elle débordait d’une telle félicité, que, cédant à son besoin d’expansion, elle se tourna vers [MASK], vers cet inconnu, pour lui sourire.
+
+['il', 'elle', 'Pierre', 'Jean', 'lui']	Jacques	Mais [MASK] s’étonna. Il entendait un reniflement de bête, grognement de sanglier, rugissement de lion ; et il se tranquillisa, c’était lui qui soufflait. Enfin, enfin ! il s’était donc contenté, il avait tué ! Oui, il avait fait ça.
+

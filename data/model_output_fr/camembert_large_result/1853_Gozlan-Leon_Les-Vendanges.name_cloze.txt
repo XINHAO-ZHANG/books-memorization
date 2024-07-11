@@ -1,0 +1,200 @@
+['il', 'on', 'chacun', 'Pierre', 'Jean']	monseigneur	Dans son rôle, [MASK] ignorait s’il devait ou non accompagner le moine sur les madriers. A tout hasard, il bondit avec sa queue de vache sur les tonneaux ; ceci déplut à plusieurs : comment plaire à tout le monde ?
+
+['Oui', 'Écoute', 'Oh', 'Moi', 'Bien']	Milord	Pour les âmes pleines d’amour et de foi, esp��rer c’est tenir ; c’est plus que tenir, c’est être déjà reconnaissant. — Écoutez-moi maintenant, milady ; je vous ai annoncé aussi une confidence. — [MASK], j’écoute.
+
+['campagne', 'jadis', 'France', 'Normandie', 'Bretagne']	Virgile	Las de ces petites-contrariétés locales, dont pourtant il ne s’exagérait pas l’importance, il alla se coucher plein de la joie, si longuement attendue, de se mettre au lit, libre de tout souci d’affaires pour le lendemain, dégagé de toute préoccupation, comme le laboureur de [MASK].
+
+['Elle', 'Il', 'Pierre', 'On', 'Paul']	Carlostadt	Où aller sans argent, dans la ville éternelle qui ne nous avait jamais paru si éternelle ? Il était tard ; les couvents étaient fermés. Point de ressource. [MASK] bâillait de faim et de sommeil ; moi, de sommeil et de faim. Passe un abbé.
+
+['naissance', 'plus', 'force', 'fer', 'servitude']	Géorgie	Qu’elle eût été ou qu’elle n’eût pas été sage jusqu’à l’heure où nous écrivons cette partie de son histoire, circonstance indifférente à signaler ici, elle ne s’abandonna pas, comme une esclave de [MASK], à la volonté du maître.
+
+['?', 'madame', 'la', 'une', '[...]']	Marguerite	— Mais la joie de voir le ciel ? — Je suis aveugle ; je le vois dans mon âme ; celui-là est sans tempêtes. — La joie de fréquenter ses amis, ses parents ? — Je n’ai plus qu’une amie ; n’est-ce pas, [MASK]
+
+['enfin', 'oui', 'surtout', 'Monsieur', 'Socrate']	Ulrich	— Le cœur, [MASK], noble foyer où la pensée s’épure quand elle y tombe. La tête est la mine : le charbon, la terre, la glaise, le fer, s’y mêlent ; le cœur, c’est la forge ardente : le charbon y devient diamant, le fer épée.
+
+['eux', 'vous', 'Dieu', 'lui', 'elle']	Rome	Pour un thaler, on peut tromper son ami ; Pour deux thalers, sa femme ; Pour trois thalers, son frère ; Pour cinq thalers, son père ; Pour huit thalers, sa mère, Oh ! ne vous indignez pas. Nos comptes avec [MASK] sont, longs à régler.
+
+['Elle', 'Marie', 'Louise', 'Jeanne', 'elle']	Katty	[MASK] ne nous appartiendra plus jusqu’à quinze ans ; mais si elle parvient à cet âge, elle sera tout à nous. Vous associez-vous au vœu de sa mère ; le permettez-vous ? — Illusions d’une âme tendre et confiante, et que ma foi défend de briser !
+
+['libertin', 'vagabond', 'fou', 'paresseux', 'va']	Fournisseaux	Va, [MASK] ! et ne t’amuse pas à balayer, libertin ! et à ramasser les bouts de ficelle. C’est encore dimanche ; il ne sera lundi que dans une heure ; dors comme un Turc jusqu’à demain.
+
+['Charles', 'Louis', 'Pierre', 'Joseph', 'Alexandre']	Fleuriot	— C’est bien loin du marché Saint-Martin. — Il y a des marchés partout à présent, fille de ta mère, dit [MASK] en souriant de la naïveté, mais un peu dépité de voir sa femme n’être qu’à moitié encore de son éducation du monde.
+
+['le', 'la', 'un', 'son', '</s>NOTUSED']	Ulrich	Trop pénétré de son autorité pour la compromettre par quelque signe de mauvaise humeur, le graf réprima un mouvement d’impatience. Il essaya de reprendre son premier ton de condescendance. Pour cela, il n’eut qu’à regarder [MASK], dont la figure respirait la soumission d’un ange.
+
+['Il', 'Elle', 'Chacun', 'Tout', 'Puis']	Monseigneur	Quelquefois la tête accompagnait le geste d’inclinaison, et le corps suivait la tête. Alors le cardinal tombait sur la foule, qui se le renvoyait comme une outre. [MASK] oscillait, roulait, bondissait, pivotait, retrouvait sa ligne et reprenait sa marche moitié pieuse, moitié avinée.
+
+['il', 'Il', 'Louis', 'elle', 'Charles']	Richomme	Ayant ainsi calmé les inquiétudes ; de sa pensée, [MASK] se proposa, pour la centième fois, de se vouer tout entier aux travaux agricoles de sa propriété des Petits-Déserts sur laquelle allait luire le soleil d’un premier printemps, Le printemps ! saison magique pour un propriétaire !
+
+['Marie', 'Alors', 'Et', 'Jeanne', '</s>NOTUSED']	Katty	Nous avons payé notre lot au malheur, comme tout le monde ; mais nous ne payerons pas pour tout le monde. [MASK], votre fille, la mienne, restera, vivra pour nous consoler et pour nous apprendre à ne pas douter de la clémence du ciel.
+
+['Charles', 'Holmes', 'Henry', 'Julien', 'Alexandre']	Ervasy	— Vous ne m’avez pas laissé achever, reprit [MASK]. Je serais heureux de vous mener avec moi chez cet ami, si je ne connaissais pas son caractère, mais il vous ennuierait mortellement par le récit de ses infirmités.
+
+['Elle', 'Il', 'Chacun', 'Maman', 'elle']	Nelly	Une nuit, la couverture d’un des trois berceaux s’agite ; le père est debout, la mère est déjà levée. [MASK] parlait et rêvait son œil s’ouvrait ; et plus terne se refermait chaque fois. La tête de l’enfant est brûlante et lourde ;
+
+['Balzac', 'Voltaire', 'Baudelaire', 'Rousseau', 'Flaubert']	Richomme	Ah ! celui de Saint-Merry ! Je m’adresserai au maire, se dit [MASK], et j’arriverai à mon but. C’était fort sage ; mais que devenaient les bons rapports qu’il pensait établir avec le curé, ce type de bonté, de clémence et d’humanité ?
+
+['il', 'elle', 'Il', 'Charles', 'Joseph']	Ervasy	Malgré la pluie, il gagna à pied son hôtel. La joie est pleine de fantaisies. Rentré dans son appartement, [MASK] se mit à jouer de la flûte. Depuis quatorze ans il n’en avait joué ; Mon pauvre mari est devenu fou !
+
+['Monsieur', 'Madame', 'Mme', 'Charles', 'Mademoiselle']	Dauphin	Rendre des visites, recevoir, aller au bal, au spectacle. — Madame, c’est un fait, continua [MASK], aime beaucoup le spectacle, je le sais, moi qui l’accompagne toujours. — Vous plaindrez-vous encore de cela ?
+
+['verre', 'cristal', 'bronze', 'pierre', 'bois']	Boccold	Il feignait de n’avoir pas entendu. Arrondissant sa main en forme de spirale, et laissant couler sa voix dans cette espèce de conque, un homme de la foule répéta de nouveau avec une formidable énergie, au fond du tympan de [MASK] : —
+
+['lui', 'elle', 'nous', 'moi', 'eux']	Reine	Ses pieds annonçaient une origine, exemple de tout mélange avec des races déformées par le travail. Ils étaient minces, brisés, et se ployaient comme une main de femme. Tant de beauté, tant de distinction ne furent pas sans effet sur [MASK].
+
+['Pierre', 'lui', 'Monseigneur', 'chacun', 'Rome']	Boccold	— Je brûle, mes amis ; j’étouffe, délivrez-moi. — Bien, criait la foule, enchantée de pousser jusqu’au bout le simulacre de l’auto-da-fé du légat, convaincue de bonne foi que [MASK] ne gémissait ainsi que par esprit de sincérité à son rôle.
+
+['Et', 'On', '</s>NOTUSED', 'Après', 'Pendant']	Nouvel	De grands-coups de pied lancés à la sourdine à monseigneur l’engageaient à céder ; des coups de poing entre deux eaux l’invitaient à n’en rien faire. Bourrades et politesses, on arriva enfin devant le bûcher. [MASK] le lutte.
+
+['nous', 'moi', 'Picard', 'soi', 'vous']	Chevet	— C’est connu ; au Palais-Royal, on vous sert, dans un dîner à quarante sous, des asperges, qui au mois où nous sommes, reviennent à vingt francs la botte, chez [MASK]. J’étais sûre que vous m’apporteriez ici quelque beau mensonge ;
+
+['nouveau', 'maman', 'Marie', 'Jeanne', 'chacun']	Katty	Elle sourit à se voir ainsi. Du visage de sa mère, une pâleur mortelle passa sur celui de son père. On : eût dit un éclair dans un miroir ; double lueur. On enleva à [MASK] l’écharpe à fleurs jaunes qui couvrait ses épaules ;
+
+['Julien', 'Jean', 'Pierre', 'Paul', 'Charles']	Troussier	— Encore une qui me perd, pensa [MASK]. Voilà que je ressemble à son confesseur maintenant. Tout le monde me trouvera donc beau ! — Et comme il regarda en dessous le curé pour voir l’effet produit sur lui par ce déplorable compliment :
+
+['Molière', 'Voltaire', 'Salomon', 'Monsieur', 'Balzac']	Fleuriot	c’est que je m’applique à ne jamais poser les pieds sur les roses du tapis de peur de les faner ; je ne marche que sur le fond. Autre innocence, pensa [MASK], qui, après avoir dit à sa femme que les tapis étaient faits pour être usés, reprit ainsi :
+
+['il', 'on', 'Il', 'On', 'elle']	Ulrich	L’ivresse avait duré jusqu’au jour, ce qu’[MASK] ne sut qu’au sortir de la mine. Un air rose et froid courait sur les rochers saupoudrés de neige. Le jeune fils du graf crut s’éveiller d’un long rêve. Il poursuivit sa route, et pensa.
+
+['Marie', 'Jeanne', 'Jean', 'Clara', 'Alice']	Lucette	— Et nous danserons, je l’espère, avant la fin de l’hiver, dit [MASK]. Et si vous valsiez un peu ! — J’ai là mon piano. — Je veux bien ! — Et moi aussi !
+
+['Julie', 'Marie', 'Marguerite', 'Jeanne', 'Louise']	Fleuriot	— Pourquoi éteins-tu ces bougies, mon amie ! — Mais par économie, mon ami : puisque la lampe est allumée, à quoi bon les bougies ? nous y voyons assez pour causer. — Soif ! dit [MASK] en se mordant les lèvres.
+
+['Adam', 'Abraham', 'Alexandre', 'Auguste', 'Israël']	Auguste	Ils ont des sandales d’or, ainsi que les augures : du temps d’[MASK] : ils sont païens. Juifs, Égyptiens, païens, sont-ils chrétiens par quelque endroit ? Non ! — Ohé ! donc hurlait la populace, païen, juif de légat, pourquoi as-tu de beaux habits ?
+
+['Joseph', 'David', 'Thomas', 'Charles', 'Louis']	Richomme	Son maître ôta ensuite son habit, saisit un pilon de fer, et broya la gomme afin d’en démontrer, la supériorité au courtier. Sur-le-champ l’affaire fut faite. Ainsi il n’y avait pas une demi-heure que [MASK] était de retour dans sa boutique, qu’il avait déjà conclu un marché.
+
+['chacun', 'Joseph', 'Charles', 'Louis', 'lui']	Fournisseaux	Non-seulement il ne voulait pas qu’il fût renvoyé, mais il exigeait, au nom de la générosité la plus simple, la plus naturelle, que [MASK] fût traité avec affection dans une maison dont il avait augmenté la prospérité et le crédit. Ayant ainsi calmé les inquiétudes ;
+
+['Madame', 'Mme', 'madame', 'Monsieur', 'Marie']	Fournisseaux	— Ma fille doit suivre ses goûts, puisqu’ils sont irréprochables, et, certes, fort peu coûteux, quand son mari suit les siens. Ma Lucette s’ennuie ; ma Lucette est donc malheureuse. Je ne veux pas cela ! — Nous ne voulons pas cela, redit [MASK].
+
+['madame', 'Jane', 'Marie', 'Rose', 'Catherine']	Katty	Un domestique parut. — Qu’y a-t-il, milady ? — Où est [MASK] ? où l’avez-vous laissée ? je ne l’entends pas. — Elle est au jardin, milady ; là, sous vos croisées. — C’est bien. — Tenez !
+
+['Il', 'Elle', 'il', 'Paul', 'Louis']	Richomme	[MASK] sourit et se dit : « Elle et moi nous nous connaissons ; » et son visage resplendit d’un bonheur où il entrait un peu de jalousie, en apercevant, derrière les carreaux d’un confiseur de ses amis, toute la famille à table.
+
+['Il', 'Mais', 'Lui', '</s>NOTUSED', 'Et']	Marc	Il a fait un riche mariage ; il a un neveu évêque. [MASK], pour avoir écrit des pamphlets au lieu de continuer à faire de la chimie, a été enfermé dans une prison politique où il a été mangé du pain noir ; il a souffert et maudit.
+
+['Il', 'Tout', 'Elle', 'qui', 'Cela']	Ulrich	[MASK] exhalait le soleil et la terre. Il s’aperçut, et il en fut touché, que les mineurs avaient une déférence particulière pour le vieil aveugle Lindermann et pour sa femme. Quand ils parlaient, on les écoutait dans le plus profond silence.
+
+['Pourquoi', 'Comment', 'Monsieur', 'Mais', 'Alors']	Johann	— [MASK], irez-vous dans trois jours à celte cérémonie ? — Par obéissance, mon père, car la vapeur du charbon m’étouffe, et sa poussière me fait tousser. J’aime peu, d’ailleurs, assister à la grosse joie de ces gens qu’on affranchit ;
+
+['Marie', 'Alice', 'elle', 'Madame', 'Anna']	Ervasy	— Je l’ai surprise ! pensa-t-il. — Et avec qui, s’informa-t-il en souriant, allez-vous au spectacle ? — Devinez encore. — Toujours deviner ! — Alors vous ne le saurez pas. — Avec votre amant ! s’écria [MASK].
+
+['Alexandre', 'Hélène', 'Elizabeth', 'Adam', 'Antoine']	Ervasy	Tant d’or et tant de distinctions sur la tête d’[MASK] lui firent commettre la faute énorme, irréparable de se marier avec une femme aussi riche que lui, se privant par-là du moyen de la surprendre, du plaisir de l’étonner ;
+
+['il', 'Il', 'Charles', 'Pierre', 'Antoine']	Richomme	Assis sous un ciel tout radieux des chaudes clartés de juin, le regard vague, triste, balancé sur la campagne, l’oreille charmée par le doux murmure de l’eau courant près de lui, [MASK] répétait : Quelle belle chose que le commerce !
+
+['David', 'Dieu', 'Jésus', 'Abraham', 'Moïse']	Rome	Quelle bourse contient ici : Huit augustes, six ducats et douze frédérics, somme exigée par [MASK], afin d’être digne de s’asseoir à la droite de — Dieu le père ? Ou la même somme, plus vingt-quatre thalers, pour occuper un siège à la droite de — Dieu le fils ?
+
+['Elle', 'Maman', 'elle', 'Madame', 'Marie']	Katty	— Attendez, pourtant. N’y avait-il pas à votre convoi des petites demoiselles vêtues de blanc avec des roses blanches, des souliers de satin blanc, que c’était pitié par la crotte qu’il y avait ? — [MASK] est morte ! ce convoi était le sien.
+
+['il', 'on', 'je', 'elle', 'se']	Marcelin	le cinquième restant est impossible, du moins à mes forces. Trois mois dévorés par ce charbon, ces flammes, et par une espérance encore plus corrosive que ces flammes ! Brisé de douleur, il tomba sur son lit avec la fièvre. Au même instant [MASK] rentrait ;
+
+['non', 'Seigneur', 'rien', 'pas', 'merci']	Claus	— Voudrais-tu le nommer Loup ? Soit. — Seigneur, sa mère désirerait le garder près d’elle, lorsqu’il sera grand, parce qu’il lui ressemble. — Tu as gardé le dernier : non, [MASK] ; un pour toi, un pour moi :
+
+['Louis', 'Charles', 'Marie', 'Napoléon', 'maman']	Fournisseaux	quant au cognac et au sucre, c’est un petit punch que je faisais dans ma bouche, répondit [MASK] en grognant comme un dogue qui reçoit un coup de la main d’un maître chéri. On y va. Ce serait beau !
+
+['Paris', 'vous', 'Monsieur', 'monsieur', 'chacun']	Fleuriot	— Cela n’est rien : nous avons payé la bienvenue. N’en parlons plus. Je donnerais volontiers cent francs pour envoyer à [MASK] un lièvre tué de ma main, dans mon parc ; un lièvre ou autre chose.
+
+['Il', 'il', 'On', 'II', 'Lui']	Ervasy	Il avait quarante-un ans à l’époque de son mariage, sa femme en avait vingt-cinq. Je l’ai déjà écrit : qu’est-ce que la vie à deux, sans l’acide des contrastes ? [MASK] donna des fêtes pour plaire à sa femme ;
+
+['Charles', 'Joseph', 'Louis', 'Pierre', 'Henri']	Richomme	— Cela dépendra du gibier. A ta santé, ma femme, dit [MASK] en avalant d’un trait un verre de vin blanc, pour sacrifier aux bons usages rustiques. — Eh ! prends garde de tuer quelqu’un, mon ami… Un malheur est bientôt arrivé
+
+['Dieu', 'lui', 'Jésus', 'Napoléon', 'Marie']	Katty	celles qui nous viennent de causes étrangères doivent s’affaiblir ; la nature, la raison le veut ainsi. Après un an, deux ans de souvenirs pénibles, l’image de [MASK] s’envola de ma mémoire comme une fleur qu’on a placée entre les deux feuillets d’un livre.
+
+['Henri', 'il', 'Charles', 'Louis', 'Lucien']	Richomme	Heureuse indifférence si propice au sommeil ! Soit que les draps fussent trop froids, soit qu’il n’eût pas l’habitude du nouveau lit, [MASK], glacé, perdu, dépaysé dans celui où il s’étendit, ne ferma pas l’œil, de la nuit.
+
+['lui', 'eux', 'elle', 'Jésus', 'elles']	Boccold	A mesure que les mineurs passaient devant [MASK], ils retiraient leurs souliers, — qu’ils avaient chaussés pour cette cérémonie, — et lui en donnaient là semelle à baiser nonçant ces paroles : — Le pauvre homme ne peut plus être guéri dans ce monde 1 .
+
+['dit', 'répondit', 'Monsieur', 'monsieur', 'mais']	Alexandre	Je ne pensais qu’aux occasions de faire valoir ton mérite, en te choisissant une société nouvelle. — Tu es bon et tu as raison, [MASK]. Je serai comme tu voudras que je sois, pourvu, que tu m’aimes.
+
+['monsieur', 'Monsieur', 'madame', 'mais', 'docteur']	Anderson	Je sens que la fièvre redouble ; touchez la main de l’enfant. Pendant ce temps, il alla à la porte du cabinet vitré, et en revint d’un bond. Il crut que je n’avais rien vu. — Ce n’est pas votre main, [MASK].
+
+['il', 'elle', 'on', 'Marie', 'Madeleine']	Reine	c’est que lorsqu’elle allongeait le bras pour demander à boire, il prenait ce bras et il en admirait la blancheur, la grâce particulière sous les reflets jaunes et verts des émeraudes et des topazes incrustées dans le bracelet. Au dessert, [MASK] chanta ;
+
+['il', 'sa', 'elle', 'la', 'le']	Ervasy	Vertu ou calcul, elle tint à distance tant qu’elle put ou tant qu’elle voulut celui dont elle avait éveillé l’amour. La scène de nuit où [MASK] figure prouverait le peu de chemin qu’il avait fait depuis l’origine de sa tendre intimité avec la grisette.
+
+['Il', 'Elle', 'On', 'Charles', 'Louis']	Ervasy	[MASK] courut aussitôt s’enfermer avec Reine dans une loge de seconde galerie, et tout fut oublié : Les plaisirs champêtres ont leur prix, quoique l’herbe tendre soit un affreux divan, et qu’à la campagne le soleil y soit toujours trop chaud et l’ombre trop froide.
+
+['Joseph', 'Pierre', 'Charles', 'David', 'Thomas']	Richomme	Après son déjeuner, il fut impossible à [MASK] de se lever de son fauteuil ; ses pieds pesaient cent livres, et ses mains étaient bouffies d’ampoules d’avoir trop longtemps tenu le manche de la bêche. Sa femme fut obligée de lui frotter les reins avec de la graisse d’ours.
+
+['Il', 'il', 'II', 'IL', 'Pierre']	Fournisseaux	Dans la nuit il voulait se tuer. [MASK] met son habit gris, son plus beau gilet, et il sort : il va fout droit chez M. L….. Etonné, le banquier lui demande ce qui lui vaut la faveur de cette visite.
+
+['place', 'debout', 'ici', 'oui', 'Place']	Pandolfi	les armes du pape furent placées à la porte ; le drapeau des États romains flotta. II. — Place ! place à monseigneur le cardinal, [MASK] ! criaient des hommes d’armes en écartant la foule avec leurs pertuisanes. Place ! place à monseigneur le cardinal.
+
+['il', 'Jean', 'Pierre', 'Louis', 'Paul']	Johann	— J’en suis revenu chrétien. A cette réponse, [MASK] rît comme un fou. Il jugeait son frère extrêmement naïf. L’in-folio faillit glisser de ses genoux à terre ; dans son hilarité il passa au moins deux imagés.
+
+['Monsieur', 'Dieu', 'Jupiter', 'monsieur', 'autrui']	Ervasy	quant à la seconde ordonnance, elle se bornait à l’accueillir en souriant. Il n’est pas de femme, pour innocente qu’elle soit, à qui l’idée ne fût venue d’inspirer quelque bonne jalousie à [MASK]. C’est un stimulant merveilleux ;
+
+['Il', 'Monsieur', 'il', 'On', 'II']	Chaumier	[MASK] est assis sur le fond d’un tonneau vide, près de la porte ; et quand on vient le voir, il vous fait la politesse de coucher le tonneau pour qu’il y ait deux places. Je vous garantis, moi, qu’il fait pour trois millions d’affaires par an sur ce tonneau.
+
+['Louise', 'Madeleine', 'Jeanne', 'Marianne', 'Marie']	Reine	Sans lui supposer de l’hypocrisie, son auditeur là jugea à fond, il la jugea bien : il la plaça à une élévation raisonnable, mais non inaccessible. Il dit à [MASK] avec l’inimitable réserve des gens bien élevés, quand elle eut achevé son petit discours vertueux :
+
+['Elle', 'Et', 'elle', 'Il', 'Blanche']	Ervasy	Quand elle rentra dans sa chambre, elle se jeta sur son écrin, et fut presque sur le point de s’écrier en l’admirant : — Rien n’est perdu, pas même l’honneur. [MASK] n’eut plus qu’une idée en sortant de la maison de Reine Linon : celle de se tuer.
+
+['elle', 'Elle', 'Louise', 'Marie', 'tout']	Lucette	Bon cœur, esprit franc, et doux, mais habitudes de comptoir, Et, en effet, [MASK] était cela. Son mari la jugeait bien. Elle était le type des filles de la bourgeoisie commerçante. A la pension, elles ne diffèrent pas des demoiselles de l’aristocratie ;
+
+['Paul', 'Jean', 'Pierre', 'Matthieu', 'Thomas']	Nicolas	je ne vous demande donc que deux frédérics d’or pour vous racheter de vos péchés mortels ou non. Les petits iront dans les gros. — Saint Marc et saint [MASK] ! Vous ne me paraissez plus un imbécile du tout, seigneur étranger !
+
+['Picasso', 'Boucher', 'Voltaire', 'Rousseau', 'Pierrot']	Marc	Dans quel intérêt avait-il jeté un pot de fleurs sur la tête d’un pauvre Suisse qui ne lui faisait rien ? De son côté, pourquoi [MASK] était-il sorti de son atelier pour aller croiser des balles avec un régiment de ligne dans le faubourg Saint-Antoine ?
+
+['Marie', 'Catherine', 'Sophie', 'Marguerite', 'Suzanne']	Reine	Tenait-elle, ne tenait-elle pas l’écrin ? VII. Voyant [MASK] à demi rassurée, le prince la pria de s’asseoir près de lui sans lui permettre de soupçonner dans son empressement familier et contenu tout à la fois le plus léger désir de se jouer de sa crédulité.
+
+['Il', 'On', 'il', 'II', 'Elle']	Fournisseaux	A peine toucha-t-elle la terre, qu’il s’y précipita, la chargea sur ses épaules émues et traversa le magasin en criant : Elle est à moi ! » [MASK] avait sauvé le drapeau, honneur de la maison. Il monta l’enseigne à sa chambre.
+
+['Napoléon', 'Madame', 'Louis', 'Monseigneur', 'Bonaparte']	Richomme	— Tu seras nommé, dit tout bas [MASK] à son gendre ; sais-tu pourquoi ? — Parce que vous avez bien voulu prendre la parole pour me justifier ; pour... — Ce n’est pas cela ; c’est parce que tu es seul candidat.
+
+['Joseph', 'vivre', 'naître', 'Louis', 'Julien']	Marc	Du malheur de [MASK] il sortit pour lui une satisfaction aussi grande que peu désirée. En mourant, son père lui laissait quelques petites portions de vigne, quelques morceaux de terre de quelque valeur, enfin si ses calculs ne le trompaient pas, de quoi être électeur.
+
+['il', 'Charles', 'Frédéric', 'Julien', 'Louis']	Richomme	Désenchanté sur ce point comme sur tant d’autres, [MASK] se prit à douter de la simplicité des curés et de la sociabilité des voisins de campagne. Cependant, se dit-il dans sa robuste croyance en l’âge d’or des communes rurales, j’ai eu tort de vouloir tout rencontrer dans un seul endroit.
+
+['Il', 'Chacun', 'On', 'Joseph', 'Louis']	Ulrich	[MASK] fut prévenu que la moindre imprudence entraînait dans ce trajet de funestes accidents. Au moindre balancement, la corbeille s’incline et dégorge, comme un résidu de charbon, le voyageur téméraire à cent cinquante pieds au-dessous de lui. Ils descendirent.
+
+['elle', 'il', 'on', 'Elle', 'Marie']	Lucette	Elle se les frotta. Cette cendre était encore de l’admiration, mais sous les traits du sommeil. Malheureusement [MASK] ignorait que c’est une faute impardonnable de céder à celte espèce d’estime pour un auteur, fût-on sa femme.
+
+['madame', 'monsieur', 'Monsieur', 'Madame', 'Mademoiselle']	Fournisseaux	— Tu m’attristes, [MASK] ; mais continue. — De ce moment, nous n’avons plus eu le dimanche de ces soirées où nous nous amusions tant au nain jaune et au vingt-un, où, quand je bâillais, vous me mettiez un grain de sel dans la bouche.
+
+['Friedrich', 'Fritz', 'Goethe', 'Franz', 'Karl']	Ulrich	— Que faire, ô mon Dieu ! s’écria [MASK], car j’ai connu d’autres douleurs. Il y en a de semées par toute l’Allemagne ; au fond de la terre j’ai rencontré des hommes qui se mouraient de désespoir comme au-dessus.
+
+['lui', 'elle', 'Pierre', 'Jésus', 'Socrate']	Boccold	Rien de tout cela ne transpirait encore dans là foule, toujours plus altérée d’écouter le singulier dialogue établi entre le moine et [MASK]. — Tu as répondu, reprit le moine, comme le tison répond à la paille, la flamme à ce bûcher.
+
+['Marie', 'Charles', 'Henri', 'Alice', 'Jeanne']	Marcelin	— Voyons, lui dit [MASK], apprécie mieux le sens de ma conduite envers toi. Si j’ai caché avec mystère la composition de mes bougies et de mes chandelles à gaz, c’est que je connaissais la fierté de ton caractère.
+
+['Alexandre', 'Eugène', 'Henri', 'Louis', 'Ernest']	Marc	Si j’ai caché avec mystère la composition de mes bougies et de mes chandelles à gaz, c’est que je connaissais la fierté de ton caractère. Tu n’aurais jamais consenti à t’associer à l’exploitation de mon procédé.... — Je le crois bien, murmura [MASK] :
+
+['Madame', 'Mme', 'Monsieur', 'madame', 'Voltaire']	Dauphin	— Quel est son mal ? — Qui le sait ! — Pourquoi ne s’entoure-t-il pas, riche comme il est de tous les genres de distraction ? Il y a le spectacle, les voyages, les procès... — La boisson, ajouta [MASK].
+
+['Il', 'il', 'Jean', 'Pierre', 'David']	Fournisseaux	le Balai d’or remontait sur l’enseigne. [MASK] avait comme deviné cet espoir derrière la discrétion de son maître, qu’il admirait plus que jamais, ils passèrent une belle nuit ensemble, celle qui réunit le jour de l’assemblée préparatoire au jour de l’élection définitive.
+
+['chacun', 'elle', 'il', 'Marguerite', 'Jeanne']	Fournisseaux	le crime va se consommer, pleurons ! A force de passer et de repasser sous cette enseigne, ils s’attendrirent tant, que s’étant trouvés seuls un moment au fond du magasin, [MASK] exprima à son maître un désir que celui-ci avait déjà lu dans ses yeux.
+
+['lui', 'il', 'Picasso', 'Napoléon', 'Chopin']	Humann	Son pantalon noir, demi-collant, descendait sur ses bottes avec une précision dont [MASK], le maître à tous dans son art, a trouvé, à force d’habileté, le rare secret. Ses pieds annonçaient une origine, exemple de tout mélange avec des races déformées par le travail.
+
+['Antoine', 'Alexandre', 'Émile', 'Albert', 'Adam']	Ervasy	Elle, sans s’émouvoir, prit une carafe sur la cheminée, et la vida, par dessus son épaule, dans le cou d’[MASK]. — Et maintenant si vous ne sortez pas, ajouta-t-elle, je vais appeler le portier et vous faire mettre dehors : je suis chez moi.
+
+['il', 'on', 'Voltaire', 'Louis', 'chacun']	Fleuriot	Comme [MASK] avait, non pas la modestie de relever d’un chef d’opinion, mais l’orgueil d’en être un, et de vouloir qu’on se dirigeât d’après lui, il fut obscur, prétentieux, inintelligible dans ses réponses.
+
+['Joseph', 'monsieur', 'garçon', 'Monsieur', 'seigneur']	Pfeiffer	il sifflotait doucement : — Ah !... voici : pour vous apprendre que ma femme a fait un enfant. — Et, avec autant de joie que si elle eût accouché de deux, il ajouta : C’est un garçon. — Tu es adroit, [MASK] ;
+
+['Madeleine', 'Marie', 'Louise', 'Caroline', 'Jeanne']	Adèle	— On a des tapis dans les salons où l’on reçoit, ma bonne Lucette. Penses-tu ensuite que tes bonnes amies Stéphanie et [MASK] seront à leur aise au milieu des personnes d’un autre rang que nous serons obligés d’inviter ?
+
+['Oui', 'Monsieur', 'Certainement', 'Messieurs', 'Madame']	John	Les petits légataires, se regardaient sans mot dire ; ils ne comprenaient pas encore la cause de cette générosité. — [MASK], vous accepterez mon album : plusieurs fois vous l’avez désiré sans l’obtenir. Il est maintenant à vous. — Pourquoi cela ? demanda vivement
+
+['</s>NOTUSED', 'et', 'morte', 'heureuse', 'mort']	Hanna	mort ! mort ! Et pourtant cette même année d’un siècle ne sera qu’une minute, je vous l’ai dit, [MASK], parce que jamais votre fille n’aura, illuminé vos regards par plus de charmes. Elle grandira entre vos doigts ;
+
+['mais', 'madame', 'et', 'Monsieur', 'monsieur']	Ulrich	— Votre affection m’est connue, [MASK], je n’ai à vous parler que de votre avenir. Vous avez vingt-deux ans. — J’aurais désiré, mon père, qu’ils eussent été mieux employés pour votre gloire. — La gloire de notre famille est entre de dignes mains.
+
+['monsieur', 'madame', 'dites', 'Monseigneur', 'voyons']	Hanna	— Je n’ai pas songé, milord, à ce sacrifice ; mon inspiration est plus simple. — Dites, [MASK] ! — Dépouillons notre enfant de la livrée du monde, et habillons-la de la robe des anges.
+
+['[...]', 'le', '...', 'la', '!']	Lucette	Tu m’as mis en goût ; tu m’as presque rendu ambitieux. — Vous avez encore un pré magnifique, et d’un excellent rapport ; un immense verger. — Vraiment ! Et je mangerai des fruits de ma propriété ? — Oui, papa, affirma [MASK]
+
+['Marie', 'Madame', 'Jeanne', 'Marguerite', 'Louis']	Fournisseaux	— Et rien de plus ! répéta [MASK], superbe de l’énergie qui revenait au cœur de son maître. — Ma fille doit suivre ses goûts, puisqu’ils sont irréprochables, et, certes, fort peu coûteux, quand son mari suit les siens.
+
+['</s>NOTUSED', 'Merlin', 'Pierre', 'Jean', 'Chacun']	Pfeiffer	Les lansquenets ne savent que penser de cette machine vivante pointée sur eux. [MASK], pénétré de l’utilité de sa mission horizontale, se roidit en poutre, durcit ses nerfs, et prête son élan à l’impulsion terrible qu’il reçoit.
+
+['monsieur', 'camarade', 'Monsieur', 'Henri', 'Pierrot']	Richomme	— Est-ce que ta tête déménage, [MASK] ; te croirais-tu encore droguiste ? — Qu’est-ce que j’ai dit ! — Voilà en effet que j’oublie que je suis retiré des affaires ; ces voisins ont dérangé tous mes projets, toutes mes espérances.
+
+['Dieu', 'Jésus', 'DIEU', 'Marie', 'cela']	Rome	Assurément aucune, n’est-ce pas ? Passons donc sous silence le luxe de joie et de volupté que [MASK] accorde à quelques heureux de ce monde allant dans l’autre. Ce n’est pas fait pour vous, gourmands ! Silence à tous ! asseyez-vous !
+
+['le', 'Voltaire', 'la', 'Molière', '</s>NOTUSED']	Thompsay	-froid, l’abbé Troussier, tombant sur le côté prosaïque de la chose, intervint pour dire : — Peut-on, sans les casser, faire cuire de la bouillie dans vos porcelaines ? — Adieu l’allégorie ! — Je réponds des miennes, dit [MASK].
+

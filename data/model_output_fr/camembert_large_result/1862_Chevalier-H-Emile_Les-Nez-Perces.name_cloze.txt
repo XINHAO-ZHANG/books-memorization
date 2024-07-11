@@ -1,0 +1,200 @@
+['il', 'David', 'Adam', 'lui', 'Thomas']	Molodun	La couleur foncée, presque noire de sa peau, avant qu'il l'eût blanchie dans la couche de gypse, lui avait valu son nom. Si [MASK] était ému en apprêtant son arme, il recouvra bien vite son sang-froid.
+
+['Freud', 'Voltaire', 'Baudelaire', 'Rousseau', 'Balzac']	Villefranche	Son interlocuteur le regarda avec étonnement. —Ma question vous surprend, je le conçois, reprit [MASK]. Mais supposez qu'au lieu d'une blessure morale vous soyez afflige d'une blessure physique, trouveriez-vous étrange qu'un médecin vous fît cette question? Non, assurément.
+
+['elle', 'qui', 'Elle', 'quelle', 'maman']	Merellum	mais je ne sais pas ce qu'est devenue ma cousine. —Comment! s'écria Poignet-d'Acier, [MASK] n'est pas rentrée avec vous? —Ni elle, ni le chef facteur. —Mais de quelle manière ce naufrage a-t-il eu lieu?
+
+['lui', 'il', 'Lui', 'Jack', 'Alfred']	Molodun	Du reste, [MASK], le Renard-Noir, était doué d'un beauté rare, bien que sa taille fût gigantesque, il mesurait six pieds de hauteur, mais ses proportions étaient admirablement prises. Elles annonçaient la force jointe à l'agilité, l'ardeur du sang unie à son abondance.
+
+['mort', 'sommeil', 'repos', 'marin', 'pierre']	Molodun	] Cela fait, il s'étendit sur le sable, et, pendant une heure, demeura immobile. La nuit était arrivée. On ne distinguait plus les objets au fond de l'eau. La position de [MASK] n'était ni commode, ni longtemps supportable.
+
+['Elle', 'Il', 'elle', 'il', 'qui']	Cherrier	C'est impossible! Qui me la rendra? Elle si bonne, si belle, si affectueuse! Non, non! je ne puis me bercer dans cette illusion. Elle est morte… —Moi pas penser ça, massa! —[MASK] fondait en larmes.
+
+['Blanche', 'Jeanne', 'Alice', 'Anna', 'Hélène']	Merellum	Mais le retour des parents de la Blanche-Nuée soulagea [MASK] d'une grande appréhension; car il la débarrassait, pour un temps au moins, des obsessions de son terrible amant. La nuit se passa tranquillement. Le lendemain, les trois chefs tinrent conseil.
+
+['elle', 'qui', 'Elle', 'il', 'quelle']	Lioura	oui, [MASK] est vive, et, pour te prouver que tu as raison, elle va te lacérer le visage si tu ne la laisses pas approcher de cette fille de chatte! Les Indiennes présentes à cette scène applaudirent par des hurlements à l'audace de la Nuée-Blanche.
+
+['Ah', 'Oh', 'Merci', 'Hélas', 'Bravo']	Louise	—Je dis ce que je pense. Vous êtes, après le capitaine Poignet-d'Acier, le premier homme vers lequel je me sois sentie attirée par une inclination secrète, et je suis heureuse du bonheur que mes paroles semblent vous causer. —[MASK]!
+
+['il', 'on', 'Il', 'Pierre', 'Daniel']	Xavier	La lueur approchait. Elle était distincte. Ses vacillations de côté et d'autre et le cercle rougeâtre, frangé de fumée, qui s'irradiait autour d'elle, annonçaient qu'elle provenait d'une torche de résine. Bientôt [MASK] entendit crier. Il prêta l'oreille;
+
+['Louis', 'Pierre', 'Jean', 'Jeanne', 'Charles']	Xavier	—Bah! reprit [MASK] avec l'exaltation de la jeunesse, ils ne sont qu'une cinquantaine en tout. Nous avons des armes et des munitions. Nous pourrons bien leur résister. Du diable! s'ils déterrent jamais l'entrée de ce souterrain. Passe-moi un fusil que je commence le feu.
+
+['on', 'elle', 'il', 'chacun', 'tout']	Molodun	On l'adorait; elle ne résista point aux hommages des Nez-Percés et se résolut de profiter du respect qu'elle paraissait leur inspirer pour s'évader dès qu'elle en trouverait l'opportunité. La croyant charmée et séduite, [MASK] jouissait de son triomphe.
+
+['Il', 'Lui', 'On', 'Alexandre', 'Chacun']	Molodun	—[MASK], dit-elle, peut ravoir cette face blanche en ordonnant un grande liemola . Il n'ignore pas que c'est l'usage d'apporter comme enjeu, outre des pelleteries et des armes, des vêtements et des coquillages, les captifs faits pendant la lune précédente.
+
+['une', 'Marie', 'la', '</s>NOTUSED', 'Catherine']	Merellum	Auprès de ces objets, on rangea plusieurs captifs garrottés, parmi lesquels figurait [MASK], fière, pensive, quoique non abattue. Elle avait confiance dans l'avenir. Les enjeux, êtres et choses, étaient gardés par les femmes parées de leurs plus beaux ornements.
+
+['courage', 'refuge', 'place', 'vie', 'appui']	Lioura	puis il remonte, pendant deux minutes, le flanc du cap, dépose son fardeau sur le sol, détourne deux grosses pierres, reprend [MASK] dans ses bras et entre dans une grotte ou quelques tisons agonisants répandent une clarté douteuse.
+
+['Clara', 'Marie', 'Juliette', 'Mathilde', 'Louise']	Merellum	Il avait le coeur gros, des larmes dans les yeux; il se hâta de regagner sa chambre, où il se prit à pleurer. C'est qu'il aimait sérieusement [MASK]; il l'aimait comme on aime à vingt ans;
+
+['Jonas', 'Joseph', 'Pierre', 'Marie', 'Diego']	Merellum	Lui aussi a vu le navire! Sans crainte du danger, il se précipite au pied du cap pour y chercher une embarcation, lorsque deux cris l'arrêtent brusquement. Il se retourne et aperçoit [MASK] qui se débat entre les bras d'un sauvage d'une taille gigantesque.
+
+['Il', 'On', 'Elle', 'Charles', 'Joseph']	Baptiste	On ne percevait encore aucun animal sauvage, mais des jappements continus indiquaient, que les loups des prairies n'étaient pas loin. [MASK] frappa son attelage qui, après une vive résistance, partit soudain avec une éblouissante vélocité. Bientôt le conducteur n'en fut plus maître.
+
+['Il', 'Elle', 'On', 'Pierre', 'Lui']	Merellum	Il multipliait ses sauts, ses bonds, ses gestes, ses cris, avec la fougue d'un jeune chien qui a retrouvé son maître. A la fin, le chasseur impatienté se leva pour le frapper. [MASK] le retint par ces mots:
+
+['Dieu', 'comment', 'Vénus', 'Sara', 'Marie']	Lioura	Il a tenu sa parole; [MASK] l'en récompensera-t-elle? Mais il parlait en pure perte. Sa femme ne l'entendait pas. Elle avait bondi comme une tigresse; et, tremblante de fureur, les prunelles flamboyantes, elle dévorait des yeux la jeune fille.
+
+['M', 'Monsieur', 'Jean', 'Mme', 'Barbe']	Poignet	Ils causaient avec le sachem avant votre embarquement? répéta l'autre en fronçant le sourcil. —Je les ai vus comme je vous vois, monsieur. —Ah! ah! dit [MASK]-d'Acier, ça devient grave. Reconnaîtriez-vous ces Indiens?
+
+['John', 'celui', 'le', 'William', 'Jack']	Renolunc	il l'approuva complètement. —Mais, dit [MASK], qui l'avait, proposé, nous ne pouvons mener cette squaw au milieu de nos familles sans l'exposer à être massacrée. —Mon fils a dit vrai, appuya l'Aigle-Gris. —Et pourquoi cela?
+
+['je', 'Je', 'elle', 'il', 'on']	Merellum	; [MASK] l'aime. Où allait-il? —Aux établissements. —Mon frère sait-il quand il reviendra? —A la saison prochaine. —A la saison prochaine! répéta la jeune fille en soupirant. Et, après une courte pause, elle demanda:
+
+['il', 'on', 'elle', 'Il', 'Paul']	Xavier	—Un canot! cria-t-il, je veux un canot! Mais il n'y avait personne pour lui obéir, personne pour l'entendre. Alors seulement [MASK] remarqua l'affreuse situation dans laquelle se trouvait, le bâtiment. Loin de l'effrayer, cette situation parut lui faire plaisir.
+
+['Platon', 'Lourdes', 'Vénus', 'Pâques', 'glace']	Baptiste	Mais l'air du matin m'a singulièrement aiguisé l'appétit. Si nous allions à la grotte de [MASK], car je suppose que c'est là que vous restez, ma cousine? —Oui, bonne petite demoiselle rester là, s'écria le nègre.
+
+['Elle', 'Marie', 'Anna', 'Isabelle', 'Alice']	Merellum	[MASK] ne pouvait se lasser du spectacle qui enivrait ses sens. Elle marchait sans but, tout entière au bonheur de vivre, de respirer les fortifiantes exhalaisons de la terre en travail de fructification. Enfin, elle s'assit au pied d'un acacia pour mieux savourer son bien-être.
+
+['</s>NOTUSED', 'il', 'David', 'Joseph', 'Omar']	Molodun	il a vu une ombre singulière se réfléchir dans l'eau; il relève la tête. A ce moment, [MASK], son couteau dans la main droite, fond sur lui comme un vautour sur sa proie. Mais le buffle fait un écart;
+
+['Elle', 'elle', 'On', 'Chacune', 'Il']	Merellum	Elle ressemble à un cône tronqué. Après de longues journées de marche, après avoir souffert de la soif et de la faim, un soir, la petite troupe de fugitifs arriva au pied de ce cône. [MASK] était exténuée;
+
+['Merlin', 'le', 'Renard', 'Jack', '</s>NOTUSED']	Maxmaxpeopeo	—Cela se peut, répliqua froidement [MASK]. —Alors, reprit le Renard-Noir, mon frère consentira bien à accepter en échange deux de mes captives. —Deux de tes captives! Non; pas même trois. —Que veut le Serpent-Jaune?
+
+['Monsieur', 'monsieur', 'Madame', 'madame', 'Mademoiselle']	Xavier	que désormais toutes mes pensées, toutes mes aspirations sont pour vous… Enfin, je vous aime!… —Mais, moi aussi, je vous aime, [MASK], dit-elle avec l'innocente franchise d'une âme vierge. —Alors, reprit-il en balbutiant, vous consentiriez…
+
+['À', 'Pour', 'A', 'à', 'pour']	Massa	—Eh oui! intervint le Canadien, car tu sais mieux que nous quelles sont les ressources de cette caverne. —[MASK] dire vrai, mais noir rien pouvoir faire avant la nuit. —Que feras-tu alors?
+
+['Alice', 'Jane', 'Marie', 'Anna', 'Sarah']	Merellum	Il pétrissait le soi sous ses pieds, et rayait avec ses ongles le manche de son tomahawk. Loin d'intimider [MASK], cette irritation semblait lui plaire. Elle jouait avec elle comme une chatte avec une panthère. —Eh bien! dit-elle en riant, n'ai-je pas dit vrai?
+
+['il', 'on', 'elle', 'Pierre', 'Louis']	Molodun	Malgré sa vigilance, [MASK] ne remarqua pas la rentrée du nègre dans la grotte, quoique celui-ci eût parfaitement distingué les canots des Nez-Percés. Enfin, fatigué d'attendre, le Renard-Noir résolut d'explorer la falaise avec tout son monde.
+
+['Marie', 'Jeanne', 'Louise', 'Catherine', 'Charlotte']	Merellum	L'un et l'autre avaient rôdé autour du fort Colville en épiant les démarches de [MASK] et en cherchant une occasion de la surprendre. Cette occasion ne s'était pas présentée avant le soir de la pêche au saumon.
+
+['il', 'elle', 'Il', 'on', 'Charles']	Nick	Cette vermine d'Indien va le faire caler! Oh! je ne supporterai pas ça. Je n'aime pas à répandre le sang, ô Dieu non! mais ma foi, tant pis! E prononçant ce monologue, [MASK] épaulait sa carabine.
+
+['cheval', 'la', 'pied', 'Marie', 'Jeanne']	Merellum	Au centre, il y avait une table et des bancs; dans un coin un lit de fourrures, dans un autre une cheminée; ça et là des armes, des instruments de chasse et de pêche; des ustensiles de ménage. —Petite demoiselle coucher, dit le nègre à [MASK].
+
+['chambre', 'David', 'guerre', 'Roland', 'Jean']	Molodun	? Cela fera plaisir à la femme de [MASK]. Je regrette qu'elle ne soit pas ici; ce serait un délicieux spectacle pour elle! Avec quel bonheur elle se joindrait à mon frère! Allons! noble chef, frappe, va!
+
+['Tara', 'Thor', 'chacun', 'Pierre', 'Roland']	Molodun	Déjà la confection du bouclier sacré a été suivie d'une tempête de sinistre augure. La venue de l'Esprit du feu n'annonce rien de bon non plus. —J'ai rendu à [MASK] son arc de dent de narval; nous sommes sûrs de la victoire, répondit l'Aigle-
+
+['il', 'on', 'Il', 'puis', 'elle']	Merellum	Il appuya fortement son genou contre la roche, qui céda sous la pression, et [MASK] se trouva dans une grande salle voûtée qu'éclairait une étroite fenêtre, devant laquelle on avait fixé un parchemin en guise de carreau. Cette salle avait un certain cachet de luxe, peu commun dans ces régions sauvages.
+
+['il', 'on', 'je', 'tout', 'Henry']	Xavier	Ce désastre avait eu lieu en moins de temps que je n'en ai mis pour le raconter, et la bourrasque était, comme il n'arrive que trop dans ces parages, tombée sur le navire avec une foudroyante rapidité. Surpris par la soudaineté de l'ouragan, [MASK] fut précipité contre le bastingage.
+
+['le', 'John', 'monsieur', 'madame', 'Thomas']	Xavier	—Avez-vous fait bonne pêche et pris beaucoup de plaisir, monsieur? lui dit-il. —La pêche n'était pas mauvaise, mais notre canot a chaviré, répliqua [MASK]. —Votre canot a chaviré? —Oui, monsieur.
+
+['le', 'mon', 'bien', 'lui', 'toi']	Molodun	Il saura t'en récompenser. Tu n'oses pas! Tu sais pourtant bien que j'aime [MASK]… —Et lui ne t'aime pas! répondit l'Ours-Gris avec un ricanement farouche. —Tu as menti! Il m'aime! —Et la face blanche?
+
+['Napoléon', 'James', 'Louis', 'Charles', 'Smith']	Nick	—C'est précisément, au sujet des Nez-Percés que je réclame ton concours. —Oui bien, je le jure, votre serviteur! appuya [MASK], qui s'impatientait du silence forcé auquel l'obligeaient ces préliminaires.
+
+['il', 'David', 'Henry', 'Pierre', 'Thomas']	Molodun	Il fallait entendre les palpitations désordonnées de son sein, les sons éraillés qui éructaient de sa bouche, avec une haleine aussi chaude que si elle sortait d'une fournaise. Tout brave qu'il fût, [MASK] recula devant cette furie.
+
+['Il', 'On', 'Dieu', 'Chacun', 'Je']	Molodun	—[MASK] le sait, reprit tranquillement le chef nez-percé, mais il a un canot à lui; il le prêtera avec plaisir à ses frères les Arcs-Plats. —Mon frère ne peut se passer de son canot, ajouta le Sauteur-d'Abîmes.
+
+['en', 'lui', 'elle', 'il', 'alors']	Merellum	Mais [MASK] poursuivant ses sarcasmes: —C'est bien ainsi que je t'avais jugé, quand tu rôdais autour de mon wigwam, et que tu te traînais à mes genoux en me demandant mon amour! Tu me menaces, parce que je suis attachée, incapable de te répondre!
+
+['Il', 'Elle', 'il', 'Henry', 'On']	Lioura	et quand il sera rassasié de son corps, il le livrera à ses esclaves! Clallomes, odieux et stupides assassins! croyez-vous qu'ainsi la femme du Renard-Noir sera assez vengée? [MASK] voulait, par ces apostrophes, aiguillonner davantage encore l'irritation de ses ennemis.
+
+['Il', 'On', 'Elle', 'Pierre', 'Simon']	Molodun	En route, ils avaient été contraints de se nourrir de tripe de roche [10] et de chair de pélican. Encore ces aliments malsains leur manquaient-ils depuis vingt-quatre heures. [Note 10: Voir la Huronne .] [MASK] les restaura libéralement avec le produit de sa pêche.
+
+['Elena', 'Anna', 'Juliette', 'Maria', 'Rosa']	Merellum	En fallait-il davantage pour que le sagamo, naturellement passionné, se reprît à aimer [MASK] avec une vivacité nouvelle? S'il l'eût tuée dans un paroxysme de fureur, il n'eût assurément pas longtemps pleuré sa mort.
+
+['Marie', 'Julie', 'Catherine', 'Charlotte', 'Françoise']	Merellum	—Les Voila-Voilas, Indiens qui habitent ce pays, les ont nommés les filles Kiuses, répondit [MASK]. —Ah! et sans doute il y a une histoire attachée à cette dénomination. Contez-la moi, tandis que nos chevaux se reposent, ma belle cousine.
+
+['Il', 'Elle', 'On', 'il', 'elle']	Renolunc	[Note 8: Présage.] [MASK] frappa du pied en s'écriant avec sévérité: —Tais-toi, femme! tais-toi! Tu seras l'auteur de la ruine de ta tribu. C'est moi, grand autmoin des Nez-Percés, qui le prédis.
+
+['il', 'elle', 'lui', 'on', 'Il']	Lioura	—Oui, c'est à cause de cela, car [MASK] l'avait demandée et il s'empressait de la lui conduire. —Quand le cerf est fatigué de sa compagne, il va ranimer ses ardeurs auprès d'une biche plus jeune, dit ironiquement l'Ours-
+
+['</s>NOTUSED', 'Pierre', 'le', 'Jean', 'Marie']	Merellum	Moi essayer une fois, deux fois, dix fois, jamais pouvoir. Cinq ou six flèches pénétrèrent en même temps par la fenêtre dans la salle. —Vous voyez, dit [MASK], ils cassent les branches du buis, afin de distinguer ce qu'il y a derrière
+
+['Il', 'Gandhi', 'Salomon', 'Napoléon', 'Moïse']	Molodun	C'est que, comme la plupart des rites indiens, la liemola, ou jeu de la balle, est sacrée, et les jeesukaïns en sont les ordonnateurs et les juges. [MASK] se les était attachés depuis longues années. Ils lui étaient entièrement dévoués et n'hésitèrent pas à servir ses projets.
+
+['un', 'une', 'la', 'lui', 'Jack']	Merellum	Son visage, sa poitrine et ses bras étaient bigarrés de peintures. Son premier coup d'oeil, en entrant, fut adressé à [MASK]. Un jeune homme lui présenta alors l'albino qui lui était propre et dont personne autre que lui n'avait le droit de se servir.
+
+['nous', 'moi', 'lui', 'vous', 'eux']	Louise	Tout ce que j'ai pu obtenir d'eux, c'est la déclaration qu'avant de nous assaillir, le chef des eaux leur avait dit que notre commandant était mort. —Ah! mon Dieu! et [MASK] aussi!
+
+['Lui', 'Joseph', 'Pierre', 'Elle', 'Louis']	Xavier	[MASK] et le chef facteur, qui tournaient le dos aux pagayeurs, se sentirent brusquement frappés à la tête. Ils poussèrent des cris, couverts par le mugissement de la cataracte. Le canot s'était déchiré en deux; il enfonça, et ceux qu'il contenait tombèrent à l'eau.
+
+['Jean', 'Joseph', 'Pierre', 'Louis', 'Marie']	Merellum	—C'est juste, dit [MASK], vous avez des chevaux près d'ici. Mais que deviendrez-vous? Le nègre partit d'un bruyant éclat de rire qui fit reluire dans la demi-obscurité, une double rangée de dents blanches comme l'ivoire.
+
+['elle', 'lui', 'Jeanne', 'Louise', 'David']	Lioura	un homme l'a chargée sur ses épaules. Il l'emporte à travers la foret. Le cri de détresse pousse par [MASK] n'a pas été entendu. Il s'est perdu dans les bruits de la tempête qui redouble de violence et siffle âprement entre les rameaux des arbres.
+
+['Alexandre', 'Charles', 'Napoléon', 'Louis', 'César']	Villefranche	car vous aviez fait jouer une mine, n'est-ce pas, capitaine? On m'a conté cela dans le temps au fort Caoulis. —Oui, mais hâtez-vous, dit [MASK] d'une voix brève, comme si ce souvenir lui était importun.
+
+['elle', 'Marie', 'Jeanne', 'Sophie', 'Emma']	Merellum	dit [MASK] d'un air surpris. Il rougit, pâlit et baissa les yeux. La naïveté de la jeune fille l'effrayait presque. —Mais, reprit-elle candidement, qu'avez-vous donc? Il tomba à ses genoux.
+
+['elle', 'on', 'Marie', 'il', 'Suzanne']	Lioura	Avec deux morceaux de bois sec, rudement frottés l'un contre l'autre, [MASK] fit du feu; de chaque côté de son petit bûcher, elle planta à terre des bâtons fourchus, au-dessus desquels elle plaça un quartier de peccari embroché à une branche de houx.
+
+['il', 'lui', 'chacun', 'Il', 'on']	Chibiabos	«L'autre fut imprudent. «Un jour, il s'aventura sur le grand fleuve, qui était gelé comme à présent. «Les Manitous ne l'eurent pas plutôt vu qu'ils brisèrent glace sous ses pieds, et [MASK] se noya.
+
+['Napoléon', 'Henry', 'Victor', 'Franklin', 'Charles']	Cherrier	Ainsi, je compte sur vous. —Comptez-y, monsieur. —Nous partirons demain avec l'aurore. —Je serai prêt, répliqua [MASK], complètement subjugué par cette influence magnétique que le célèbre capitaine exerçait sur tous ceux qui l'approchaient.
+
+['Marie', 'Jeanne', 'Marguerite', 'Julie', 'Alice']	Iribinou	—N'a-t-il pas dit, continua sardoniquement [MASK], n'a-t-il pas dit, au dernier soleil couchant, qu'il te répudierait et qu'il l'épouserait! —Ta langue est croche, répliqua-t-elle d'un ton sourd.
+
+['Or', 'Seule', 'Déjà', 'Là', 'Et']	Lioura	A peine le bruit de leur retour au village se fut-il répandu, que les habitants se portèrent en foule au-devant d'eux. [MASK], la Nuée-Blanche, la femme du Renard-Noir, marchait en tête de la multitude.
+
+['Elle', 'Anna', 'Alice', 'Il', 'Emma']	Lioura	[MASK] s'attendait si peu à cette étrange déclaration que d'abord elle demeura atterrée. L'Ours-Gris prit son silence pour une approbation tacite, et il se pencha vers elle afin de sceller par un baiser le contrat, passablement aléatoire, qu'il lui proposait.
+
+['Il', 'On', 'Louis', 'Pierre', 'Charles']	Baptiste	[MASK] m'a dit alors qu'il supposait que les Indiens se préparaient à une expédition. Le front du sous-chef se rembrunit. Son regard chercha celui de Poignet-d'Acier. —Est-ce que ces coquins voudraient nous attaquer? dit celui-ci.
+
+['Renard', 'Serpent', 'chacun', 'lui', 'tous']	Maxmaxpeopeo	La première, et avec joie, elle remarqua que le Serpent-Jaune avait lancé quinze flèches avant la chute de celle qui constituait le point principal du jeu, tandis que le Renard-Noir n'en avait lancé que quatorze. La victoire de [MASK] fut saluée par de bruyantes acclamations;
+
+['Diego', 'Marco', 'Léo', 'Giovanni', 'Milo']	Molodun	Se pendant mollement au cou de [MASK], et caressant de la main ses cheveux humides, elle sécha son visage sous des baisers brûlants. Cependant elle ne soufflait pas une parole et le sagamo arpentait la forêt avec la vélocité de l'antilope.
+
+['Joseph', 'Félix', 'Pierre', 'Jean', 'Georges']	Baptiste	—Voilà case à nègre! dit [MASK] en se frottant joyeusement les mains. Puis il poussa une couple d'aboiements si stridents que la jeune fille en tressaillit. —Mon frère n'a donc pas peur des Nez-Percés? dit-elle.
+
+['il', 'elle', 'Il', 'Alexander', 'William']	Molodun	Les inconnus avaient répliqué au cri de ce dernier par un cri exactement semblable. Il n'était plus temps de les éviter. Tout en grommelant contre l'indiscrétion de son subordonné, [MASK] se détermina à faire contre fortune bon coeur.
+
+['il', 'elle', 'Il', 'Adam', 'Jean']	Baptiste	Avec l'agilité d'un chat sauvage, [MASK] grimpa jusqu'aux premiers rameaux. Il se baissa et ramena à lui une sorte d'échelle en lanières de cuir de buffle qu'il fit glisser vers le sol. Puis il sauta à terre. —Bonne demoiselle monter;
+
+['On', 'Il', 'Chacun', 'Elle', 'on']	Molodun	La brise mollissait et l'air était d'une transparence qui permettait de distinguer les objets à plus d'une lieue devant soi. [MASK] voyait parfaitement les Chinouks. Ils se disposaient à traverser le fleuve. Leurs canots furent lancés à l'eau, et ils naviguèrent vers la rive méridionale.
+
+['Marie', 'Paul', 'Joseph', 'Pierre', 'Julien']	Renolunc	Non; d'ailleurs, son étonnement en ne la trouvant plus près de lui était trop naturel pour être simulé. On ne pouvait donc raisonnablement l'accuser de cette disparition. Ces diverses pensées avaient traversé le cerveau de [MASK] avec la rapidité de l'éclair.
+
+['Il', 'On', 'Elle', 'Louis', 'Pierre']	Molodun	[MASK] se laissa aller au fond du fleuve, et quand l'engourdissement de jambe eut cessé, au bout de trois ou quatre minutes, il était trop tard pour retourner à la charge, car les Chinouks avaient dû s'élancer au secours de leur chef.
+
+['il', 'elle', 'on', 'Il', 'Jack']	Molodun	. —Cette squaw m'appartient, dit-il; elle est mon esclave, je ne veux pas qu'on lui fasse de mal, car j'ai envie de l'épouser. A ce mot, [MASK] jeta sur le Serpent-Jaune un regard surpris et courroucé.
+
+['celui', 'chacun', 'Joseph', 'Pierre', 'Simon']	Chibiabos	«Celui-ci conseilla à [MASK] de ne pas le quitter et de marcher toujours à son côté. «L'autre fut imprudent. «Un jour, il s'aventura sur le grand fleuve, qui était gelé comme à présent.
+
+['John', 'James', 'Pierre', 'Joseph', 'Robert']	Molodun	A leur arrivée à l'ienhus, ils trouvèrent les habitants en proie à une effroyable désolation. La nouvelle du désastre des Nez-Percés commençait à circuler. Les femmes, les enfants, les vieillards se précipitèrent à la rencontre de [MASK], en poussant des lamentations farouches.
+
+['2', '1', '3', 'I', 'II']	VIII	Chapitre [MASK].] Une lampe en terre rouge éclairait la chambre souterraine, qui n'avait aucune fenêtre et dans laquelle on remarquait deux portes en face l'une de l'autre. —Raison! répondit le trappeur à Poignet-d'Acier, je crois bien que je pourrais avoir raison.
+
+['Moïse', 'Ibrahim', 'Ali', 'Joseph', 'Abraham']	Merellum	—Mon frère connaît donc aussi ce Peau-Noire? —Si je le connais! mais c'est, mon serviteur… un serviteur que j'ai retrouvé dans le désert. —Et qu'est ce que mon frère est venu faire dans le désert? interrogea [MASK].
+
+['il', 'elle', 'Il', 'Pierre', 'Jean']	Molodun	la lourde massue s'abat sur le crâne du Nez-Percé, qui tombe pour ne plus se relever. Son fils Renolunc le saisit dans ses bras et l'emporte à quelque distance. A la vue du corps inanimé de son beau-père, [MASK] s'exclame: —
+
+['Charles', 'Louis', 'Napoléon', 'James', 'Joseph']	Xavier	—Mais il l'est encore, puisqu'il est en votre pouvoir. —Non, non, répliqua [MASK] en souriant, il est libre maintenant, puisqu'au Canada et sur ces territoires les blancs ne reconnaissent point d'esclaves… Mais l'air du matin m'a singulièrement aiguisé l'appétit.
+
+['Puis', '</s>NOTUSED', 'Alors', 'Et', 'Ensuite']	Molodun	Celui-ci s'était remis en position, et tenait, de nouveau, le caillou noir entre ses doigts ensanglantés. [MASK], le Renard-Noir, éleva lentement son arc à la hauteur de ses yeux. En le faisant, il tremblait un peu.
+
+['elle', 'Dieu', 'Joseph', 'Moïse', 'il']	Baptiste	Le nègre, s'adossant à un rocher, lui fit une échelle avec ses mains. Ainsi elle se hissa sur la grève. Cependant elle était épuisée, incapable de mouvoir ses jambes. —Grimpez sur dos à moi, dit [MASK] en s'agenouillant.
+
+['Merlin', 'Pierre', 'Hubert', 'Jean', 'Renard']	Xavier	Il couronna son verbiage par des cabrioles extravagantes et une kyrielle d'aboiements qui durent mettre en émoi tout le gibier de la forêt. —Veux-tu bien te taire, vilain moricaud! s'écria [MASK], qui ne savait trop s'il devait, rire ou se fâcher de cette burlesque apparition.
+
+['Joseph', 'Marie', 'Louis', 'Jean', 'Pierre']	Merellum	Nous avons des armes et des munitions. Nous pourrons bien leur résister. Du diable! s'ils déterrent jamais l'entrée de ce souterrain. Passe-moi un fusil que je commence le feu. —Non, mon cousin, non, ne faites pas cela! s'opposa [MASK].
+
+['lui', 'survivants', 'chacun', 'son', 'victimes']	Merellum	Là, il le remit, entre les mains de ses guerriers, avec ordre de l'épargner s'il n'avait pas succombé. Profitant ensuite de la consternation où cette catastrophe avait plongé ses ennemis, il pénétra dans le village et se mit à la recherche de [MASK].
+
+['lui', 'James', 'John', 'Jones', 'Thomas']	Xavier	Merellum et [MASK] furent promptement de l'autre côté du cap. Au lieu indiqué, ils trouvèrent des mustangs, en bridèrent deux avec des cordes de ouatap, et, sautant sur leur dos, se dirigèrent en toute célérité vers le sud.
+
+['Roland', 'Dragon', 'Merlin', 'Arthur', 'Jason']	Molodun	mais, en tombant, il empoigna [MASK] par sa longue chevelure, et soutenu par Tonnerre, qui remontait vigoureusement le courant, il le traîna avec lui jusqu'au rivage. Là, il le remit, entre les mains de ses guerriers, avec ordre de l'épargner s'il n'avait pas succombé.
+
+['Pierre', 'Joseph', 'Alexandre', 'Roland', 'Jean']	Baptiste	—Là! regardez par fenêtre, repartit [MASK] en montrant la feuille de parchemin qui bouchait l'ouverture par laquelle la salle recevait le jour. Cette ouverture se trouvait à cinq ou six pieds du sol. Le chasseur s'élança vers un escabeau pour regarder au dehors.
+
+['nouveau', 'cheval', 'terre', 'distance', 'pied']	Merellum	Il se baissa et ramena à lui une sorte d'échelle en lanières de cuir de buffle qu'il fit glisser vers le sol. Puis il sauta à terre. —Bonne demoiselle monter; moi assister elle, dit-il à [MASK] en pointant du doigt l'échelle.
+
+['ça', 'revenir', 'venir', 'arriver', 'cela']	Louise	Il lui expliqua en son patois qu'inquiet de ne pas le voir revenir, il avait chargé un canot sur son épaule et l'avait descendu au pied de la chute, où il s'était embarqué pour le chercher. —Et tu n'a pas vu [MASK]?
+
+['Joséphine', 'Marie', 'Suzanne', 'Thérèse', 'Madeleine']	Merellum	Pendant près de deux mois, le brave nègre soigna [MASK] avec le dévouement d'un frère et la délicate sollicitude d'une mère. Enfin, il eut le bonheur de la voir renaître à la vie, reprendre la santé. Tant de prévenances n'avaient pas été perdues pour lui.
+
+['Satan', 'Dieu', 'feu', 'Noé', 'Saturne']	Chibiabos	Derrière lui, comme trace de son passage, il laissait, tout ainsi que nos diables du moyen âge, une suffocante odeur de soufre. Et si ce n'était pas le diable pour les Nez-Percés, ce n'était pas moins, car c'était le fils de [MASK], l'Esprit du feu
+
+['Marie', 'Louise', 'Jeanne', 'Catherine', 'Julie']	Merellum	—Alors, il faut aller camper ailleurs. Le Canadien se rapprocha de [MASK], qui s'était endormie. Quoiqu'il lui en coûtât beaucoup de l'arracher au repos, il dut se risquer à cet acte de cruauté, car la pauvre jeune fille était accablée de lassitude.
+
+['non', 'vous', 'monsieur', 'Monsieur', 'hein']	Louise	Elle lui demanda grâce par un regard. Il ne comprit pas ou ne voulut pas comprendre. —Eh bien! mon cousin, répliqua-t-elle résolument, si vous n'étiez pas brave, vous ne me plairiez pas. —Vous avez donc pour moi de l'amour, [MASK]?
+
+['Sara', 'Anna', 'Marie', 'Hélène', 'Judith']	Merellum	Cependant, comme la première était vindicative, cruelle, concentrée et vaniteuse, il espérait qu'elle attendrait le retour des guerriers pour la traîner au supplice. Alors, pensait-il, il aviserait au moyen de sauver [MASK] si elle consentait à se donner à lui.
+
+['Pierre', 'Diego', 'Marie', 'Jean', 'Joseph']	Baptiste	li! riposta la grosse voix du nègre, apparaissant à cheval devant une saillie du rocher. —Je savais bien que tu réussirais à échapper aux Peaux-Rouges! —Peaux-Rouges, pas forts, pas forts en tout! dit [MASK] d'un ton crâne.
+
+['Pierre', 'Jean', 'Joseph', 'Paul', 'Albert']	Baptiste	Elle avait la fièvre. —Un peu de courage! un peu de courage! Nous bientôt arrivés, lui disait à chaque instant [MASK], quand il sentait, au relâchement de ses bras autour de son cou, qu'elle faiblissait. Ils atteignirent le haut de la falaise.
+

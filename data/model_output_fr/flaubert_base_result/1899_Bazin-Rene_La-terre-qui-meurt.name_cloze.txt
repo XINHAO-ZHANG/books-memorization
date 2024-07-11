@@ -1,0 +1,200 @@
+['...', 'monsieur', 'cela', 'madame', 'quoi']	Éléonore	— Tu ne gagnes guère, reprit le métayer, à ce que m’a dit [MASK] ? — Non, la paye est faible. — Le café n’a pas beaucoup de monde ? — Non, nous l’avons payé trop cher. Nous ne sommes pas sûrs de réussir…
+
+['cela', 'lui', 'quoi', 'moi', 'ce']	François	Le métayer se contint, et ne répondit pas, à cause de [MASK]. Il sortit de la gare, et, sous la pluie qui tombait depuis le matin, se mit à errer dans les rues à peu près désertes, larges, bordées de maisons basses.
+
+[',', 'et', 'il', '...', '-']	Mathurin	Une métayère ?… Le père n’osa pas dire oui. — J’en amènerai une ! [MASK] s’était arrêté à l’angle de la table, et s’y tenait appuyé, le haut de son corps oscillant et luttant pour se maintenir en équilibre. —
+
+[',', 'être', 'beaucoup', 'une', 'tout']	Adélaïde	dit [MASK], enthousiaste, à moitié soulevée, tandis que sa sœur se courbait, au contraire, pour cacher son émotion. — Oui, le père l’a dit : si vous voulez m’aider, tante Michelonne ? — Si je veux ! mais tu le sais bien
+
+['monsieur', 'non', 'oui', 'maintenant', 'madame']	François	— Mais, ça dépend de lui, métayer. As-tu reçu ta lettre de convocation, [MASK] ? — Oui, monsieur. — Si tu désires ne pas te rendre à ton poste, mon ami, les candidats ne manquent pas pour te remplacer, tu sais.
+
+[',', 'celle', 'celui', 'jeanne', 'marie']	Rousille	Occupé de ce détail, l’esprit concentré sur la chose du moment, il ne vit pas [MASK] qui écoutait, penchée, une rumeur venue**de la ferme. Quand il eut boutonné les deux boutons de la musette, la jeune fille écoutait encore.
+
+['non', 'moi', 'et', 'maintenant', 'lui']	Rousille	Pourvu qu’il n’ait pas compris ce que tu as dit, [MASK] !… Rien qu’à me voir, il devinera tout !… Je ne peux pas retourner à la maison avec des yeux comme ça, tout rouges ;… vas-y à ma place ;
+
+['il', 'on', 'elle', '-', 'tu']	Mathurin	— Prenez garde : [MASK] nous guette ! — Il m’a déjà vu, je crois bien. — Alors, sauvez-vous vite ! Vous reviendrez plus tard. — Quand ? — Cette nuit, dans l’aire, quand je mettrai ma chandelle sur la fenêtre basse.
+
+['il', 'on', 'elle', 'je', 'ils']	Mathurin	Une nuit complète se fit autour d’eux. Ils passaient sous un de ces ponts de pierre, d’une seule arche, qui bossuent le Marais çà et là. Quand ils se furent redressés, [MASK] remarqua que le yoleur avait ralenti la marche, comme ceux dont l’esprit travaille.
+
+[',', 'le', 'la', "l'", 'de']	Éléonore	! On a donc des amis, là-bas ? — Merci, dit rapidement [MASK], en prenant la lettre et en la serrant dans la poche de son tablier ; je la remettrai au frère. Il fait beau temps aujourd’hui, pour courir ?
+
+['que', 'et', 'mais', 'dit-il', 'dit']	Rousille	Ils m’ont renvoyé, avec des paroles. Mais le marquis, [MASK], quand il sera revenu ? Quand il apprendra tout ? Ce sera peut-être demain ? — Peut-être. — Alors, il ne voudra pas que je sois tout seul dans mon chagrin.
+
+['maurice', 'marguerite', 'bussy', 'jacques', 'jean']	Mathurin	— Oh ! ne dis pas ces choses-là ! fit-elle, en se cachant les yeux avec la main. Et ne reste pas comme ça sur tes jambes : tu me fais mal ! — Eh bien ! moi, dit [MASK] gravement, je prendrais le commandement ici.
+
+['monsieur', 'moi', 'joseph', 'papa', 'monseigneur']	Mathurin	Et, sans doute, une vertu apaisante, une force consolatrice émanait d’elle. Bientôt il se leva, de lui-même, et prit le bras de l’enfant, quand elle eut dit : — À la maison, il y a [MASK], mon père, qui vous attend.
+
+['non', 'mais', 'monsieur', 'moi', 'madame']	Rousille	Le père lui posa la main sur l’épaule, et elle se sentit enveloppée d’une tendresse inconnue. Un remerciement allait d’une âme à l’autre. Autour d’eux, le vent faisait rage, et courait dans la pluie. — [MASK], reprit le métayer, je n’ai plus de fils.
+
+['et', ',', 'ou', ':', ')']	Éléonore	La porte se referma. — Pas commode, le vieux papa ! dit le client qui dînait. — Ne m’en parlez pas ! fit [MASK]. J’en suis malade ! — Qu’est-ce qu’il voulait donc ?
+
+['il', 'corps', 'bras', 'elle', ',']	Mathurin	[MASK] emplissait de son corps toute la largeur entre les deux bordages, et son buste énorme se courbait, se redressait, avec l’aisance robuste de la santé. Et plus il allait, plus il accélérait le mouvement de ses bras, et multipliait les coups de la ningle sur les talus qui fuyaient.
+
+['et', 'celui', 'lui', '-', 'celle']	Driot	: le malheur était sûr. Alors, affolée, descendant en toute hâte, ne pouvant garder son secret, elle cria : — Père ? Une voix répondit, assourdie par les murs : — Qu’y a-t-il ? — [MASK] qui n’est plus là !
+
+['et', 'que', ',', '...', '"']	Bas-Rouge	Il m’a engourdi, et, comme je ne voyais pas de lumière, j’ai dormi un bout de temps. — Vrai ? Et qui vous a éveillé ? — [MASK], quand il a fait la conduite à votre valet. — Comment, la conduite au valet ?
+
+['je', 'cela', 'ça', 'dieu', 'tout']	Mathurin	Le métayer ne releva pas les paroles qui déjà l’avaient offensé autrefois. — Eh bien ! dit-il, je te ferai aider. Je n’ai plus de fils à présent, car tu sais que [MASK] ne compte guère, dans une métairie.
+
+['"', ',', 'est', '(', 'et']	Rousille	Il faudra pourtant que ça finisse ! Le garde de monsieur le marquis, ce soir, comme je serrais mes choux, m’a fait reproche de son braconnage. — Est-ce qu’il n’est pas libre d’aller aux vanneaux ? demanda [MASK]. Tout le monde y va
+
+['lui', 'dieu', 'un', 'eux', 'celui-là']	François	… va tremper la soupe ;… j’irai dans un moment avec vous… Les hommes rentraient, ils marchaient comme à l’ordinaire, sans se hâter, et [MASK] seul pouvait pressentir la nouvelle qui les attendait. La chaleur avait séché les herbes et les feuilles.
+
+['il', 'on', 'elle', 'en', 'avant']	André	Ceux qu’il interrogea ne savaient que peu de chose, ou ne voulaient pas compromettre celui qui s’était confié à eux. Ils s’accordèrent seulement à raconter qu’[MASK] parlait souvent de faire fortune au-delà de la mer, où les terres sont neuves. Le mieux informé avoua
+
+['il', 'est', 'ce', 'cela', '(']	André	Elle eut comme un réveil douloureux, en remarquant tout à coup une blancheur dans les prés, à droite. C’était la Seulière. En même temps, un doute s’éleva dans son esprit, question inquiétante, mauvaise fin de rêve : si [MASK] se dérobait, lui aussi
+
+['de', 'ni', 'et', 'ou', 'ce']	François	Tu ne pars pas, [MASK] ? — Si ! — Où veux-tu être mieux que chez nous ? Est-ce que le pain t’a manqué ? — Non. — Est-ce que je t’ai refusé des habits, ou seulement de l’argent pour ton tabac
+
+['dit-il', 'dit-elle', 'répondit-il', 'dit', 'toi']	François	— Tu as du nouveau, [MASK] : qu’y a-t-il donc ? Ils étaient à trois pas de distance, le père au ras de la haie, le fils de l’autre côté de l’attelage, à la tête des premiers bœufs.
+
+[',', 'là', 'et', 'toi', 'la']	Mathurin	Il enleva la yole d’un coup de perche, et la poussa dans le chenal. — Où es-tu, [MASK] ? Sur l’eau libre, dans le clapotis des lames, il fit une trentaine de mètres, et, brusquement, fut projeté en avant.
+
+['la', 'sa', 'marie', 'sainte', "l'"]	Sallertaine	Sous la coiffe de mousseline à fleurs, en forme de pyramide, qui est celle de [MASK], quand elle sortait de la messe, le dimanche, bien des fils de métayers, éleveurs de chevaux et de bœufs, la regardaient pour qu’elle les regardât.
+
+['tiens', 'mais', 'alors', 'voyons', '"']	Mathurin	Le soir du troisième jour, quand le père rentra avec cette réponse à la maison, il trouva l’infirme devant le feu. — [MASK], demanda-t-il, tu dois avoir encore des livres où il y a des dessins de pays, tu sais bien ?
+
+['il', 'on', 'elle', 'et', 'chacun']	Rousille	L’avenue tournait au milieu d’elles. Tantôt dans la lumière et tantôt dans les bois, [MASK] se mit à la suivre, l’œil aux aguets, le cœur battant. Elle cherchait des traces de pas sur le sable, elle essayait de voir dans l’épaisseur des fourrés.
+
+['elle', 'valentine', 'et', 'geneviève', 'on']	Rousille	À peine la solitude s’était refaite autour d’elle, [MASK] entendit de nouveau chanter les mots de la lettre d’amour. Ils arrivaient dans son cœur l’un après l’autre, vagues transparentes, dont chacune s’ouvre à son tour et couvre toute la plage.
+
+['qui', 'quoi', 'personne', 'papa', 'maman']	André	tu as parlé à [MASK] ? — Lundi, de grand matin… Il est entré… Il avait une figure qui me revient à l’esprit tout le temps, quand je suis seule… Oh ! une figure comme si c’était le malheur qui entrait.
+
+['il', 'elle', 'et', '</s>', 'qui']	Mathurin	Se redressant d’un seul effort, au risque de faire chavirer la yole, se traînant, sur ses genoux et sur ses poignets, jusqu’à l’arrière, [MASK] lutta un instant avec son frère : — Donne-moi ta place, cadet ; il faut que tu me voies yoler !
+
+['il', 'elle', 'on', 'tout', 'chacun']	Mathurin	Et le grand vieux, saisi par le froid, tomba évanoui sur la terre de la chambre. En même temps, du fond de la maison, là-bas, [MASK] s’échappait en jurant, en heurtant les meubles et les murs de sa tête et de ses béquilles.
+
+['dors', 'dit-il', 'dort', 'toi', 'ami']	Mathurin	— Dors, [MASK], tu as mal vu. — En effet, ça devait être des feuilles de chêne. Quand il était ici, il en mettait, des fois, à son chapeau, par gloriole, pour signifier que son pays était plus couvert que le nôtre et mieux pavoisé d’arbres.
+
+['il', 'on', 'et', 'lui-même', 'lui']	Driot	Cette vigne avait un âge dont nul ne se souvenait. Chaque année, depuis qu’il avait conscience des choses, [MASK] avait taillé la vigne, biné la vigne, cueilli le raisin de la vigne, bu le vin de la vigne. Et elle mourait.
+
+['monsieur', 'docteur', 'madame', 'mademoiselle', 'père']	Lionore	Nous ne sommes pas sûrs de réussir… Le fils se tourna vers la grande fille qui écoutait, passive et pleurnichant. — Mais on vivote, n’est-ce pas, [MASK] ? Avec le temps, je monterai peut-être : le sous-chef me l’a dit.
+
+['elle', 'et', 'en', 'celle-ci', 'jeanne']	Rousille	Et l’être puissant qu’eût été cet estropié, sans le malheur d’autrefois, se reconstituait dans l’imagination, et donnait le frisson. Quand elle le vit tout près du valet, [MASK] eut peur pour celui qu’elle aimait.
+
+['</s>', 'eux', 'les', 'lui', 'elle']	Mathurin	Il avait causé, dans la cour, avec [MASK]… Ils doivent savoir… — Et après ? Ce que je fais n’est point pour les offenser. Je veux vous mériter par mon travail ; vous demander à votre père, et puis vous emmener chez moi.
+
+['qui', 'et', ',', 'tout', 'la']	François	[MASK], le long de leurs flancs, s’en allait, tout sombre. Une pensée l’occupait, qui n’était point celle du travail quotidien. Ceux qui venaient derrière lui, le métayer et l’infirme, ne parlaient pas davantage.
+
+['paris', 'domicile', 'vendre', 'montréal', 'la']	Bas-Rouge	Les aboiements se rapprochèrent, non pas furieux, mais joyeux comme ceux d’une bête qui part en promenade. Puis on entendit distinctement un pas, puis le chien se mit à hurler. — On lance des pierres à [MASK] ! dit le métayer. J’y vas
+
+[',', 'et', 'ou', 'que', ':']	François	N’ayant pas aperçu [MASK] sous le hall, il se dirigeait vers les lignes de dégagement, où une équipe de six hommes poussait de l’épaule un wagon chargé, et il songeait : « En voilà d’attelés comme les bêtes de chez moi », lorsqu’une voix l’interpella
+
+['chacun', 'qui', 'lui', 'jean', 'puis']	Mathurin	L’attelage s’avançait dans une auréole rousse, que traversaient les mouches. Et [MASK], à l’ombre du cormier, regardait descendre avec envie le père, le frère, la jument grise, et les quatre bœufs de chez lui, dont la croupe diminuait sur la pente.
+
+['il', 'qui', 'et', ',', 'elle']	François	[MASK] marchait la tête basse. En apercevant le père, il eut un petit mouvement d’émotion. — Bonjour, père ! dit-il en tendant la main… Alors, ça ne va pas, à ce que je vois ? Le métayer fit un signe de dénégation.
+
+['il', 'elle', 'et', ',', 'ou']	André	plus encore à côté du nouveau valet, manœuvre indifférent, que les projets ni les regrets de ce fils de métayer ne pouvaient intéresser. Le soir, quand [MASK] rentrait, à qui se serait-il confié et qui l’eût consolé ? La mère n’était plus là
+
+['robert', 'julien', 'henri', 'paul', 'jacques']	François	— Tiens ! cria-t-il, il n’y a plus de lettre ! Iras-tu encore ? — Ça n’empêchera rien, répondit [MASK]. Il voulut passer devant le père et s’éloigner. Mais, sur ses épaules, une main puissante s’abattit.
+
+['à', ':', 'le', 'de', 'et']	Rousille	demanda [MASK]. — Rien, répondit maussadement l’aînée : j’ai chaud, les yeux me piquent. Elle se mit aussitôt à séparer les braises ardentes et à les ranger en talus, le long des bords du four. Quand ce fut fait :
+
+['putain', 'moi', 'hein', 'maman', 'ça']	Rousille	Debout dans l’herbe, tremblante, elle sentit deux mains se poser sur ses épaules ; puis un souffle passa dans l’aile droite de sa cape ; puis un homme se planta lestement en face d’elle, et dit : — C’est moi, [MASK] !
+
+['</s>', '"', 'puis', 'il', 'et']	Rousille	Ce soir-là, mieux que d’habitude, il sentit cette douceur de revenir, qui ressemble à un serment d’amour. [MASK], entendant des pas qui s’approchaient, ouvrit la porte, et éleva la lampe à l’extérieur, comme un signal.
+
+['il', 'on', 'dieu', 'elle', ',']	Mathurin	— [MASK] ne voudra pas, lui ! Il nous déteste ! Il nous rendra la vie si dure, que nous ne pourrons pas rester ici. — Mais moi, je vis encore, ma petite, et je veux vous ramasser tous trois autour de moi !
+
+['toi', 'maman', 'hein', 'moi', 'là']	André	Et, d’une voix un peu plus haute : — Es-tu toujours là, [MASK] ? Dans le sillage, une voix jeune répondait : — Ça va ! La fatigue était grande, mais il s’y mêlait de la joie de ramener les deux fils.
+
+['quoi', 'ah', 'oh', 'comment', 'moi']	Mathurin	! — La mère ne nous fera pas d’affront, au moins ? — Non, non ; elle aime trop son fils ; elle sait tout : mais [MASK] !… Elle étendit le bras en arrière, vers la maison cachée dans l’ombre.
+
+['autre', 'mère', 'une', 'seconde', 'elle']	Rousille	[MASK], plus grave, car elle avait en elle toute la méditation de sa veillée, dit : — Parlons vite : mon père vient seulement de s’endormir ; s’il s’éveillait ! S’il nous surprenait ! Mais il ne parut aucunement faire attention à cette crainte-là.
+
+['tu', 'je', 'toi', '-', 'et']	Mathurin	La tempête se déchaînait, et empêchait la glace de s’étendre. Le métayer, qui n’avait plus l’habitude de yoler, n’avançait pas beaucoup. De loin en loin, il disait : — Tu n’as pas trop froid, [MASK] ?
+
+['celui', 'julien', ',', 'henri', 'pierre']	Mathurin	Modérant son pas, pour ne pas trop presser [MASK], dont les béquilles heurtaient les taupinières des pelouses, le métayer traversa l’espace libre, où la brume bleue s’épaississait. On entendait des claquements de fouets. Des feux rouges de lanternes couraient sous les futaies sans feuilles.
+
+['elle-même', 'lui-même', 'chacun', 'encore', 'julien']	Mathurin	Ne vous gênez pas pour moi : je viens les voir danser. Mais elle avançait une chaise, dans le coin de la pièce, et aidait [MASK] à s’y asseoir, et elle-même s’asseyait près de lui. Ils étaient dans la demi-ombre que projetait l’armoire.
+
+['"', 'bien', 'simplement', 'donc', 'le']	André	On vendra : meubles de salon et de salle à manger, tapisseries anciennes, bahuts, tableaux, lits, tables, vaisselle, cristaux, vins, armes de chasse, garde-robe, bibliothèque, etc. » — Eh bien ? demanda [MASK].
+
+['dites', 'non', 'dit', 'disant', '-']	Jean	— Merci et adieu, [MASK] : il faut que j’aille ! Mais il lui prit la main, et, à son tour, il devint tout grave. — Oui, dit-il, je comprends bien : mais moi, vous ne m’aurez plus tout à l’heure.
+
+['lui', 'dieu', 'moi', 'vous', 'elle']	François	— C’est [MASK] qui l’a voulu, mes amis ! Je ne sais pas si je serai heureuse, mais il est trop tard maintenant : j’ai promis. Et elle avait une si grande crainte de voir revenir le père, qu’elle était comme folle de hâte.
+
+['il', 'on', 'elle', '...', 'où']	André	? Allons, rentrons de compagnie : le souper doit attendre. Il ajouta, parce que, dans l’ombre, [MASK] s’avançait le premier : — Que je suis content que tu sois revenu de l’armée, toi, mon Driot ! Chapitre 9 La vigne arrachée
+
+['il', 'on', 'lui-même', 'tout', 'celui-là']	Mathurin	; le père avait trop de peine déjà à garder lui-même ce qu’il faut d’espérance et de vaillance pour ne pas plier sous le malheur ; [MASK] était si peu sûr et si aigri, que la pitié pouvait aller à lui, mais non l’affection vraie.
+
+['elle', 'il', 'qui', ',', 're']	Rousille	[MASK] passa, d’un mouvement souple, par-dessus l’échalier, et, quand elle eut passé, ses jupes retombèrent, courtes, sur ses jambes, laissant voir ses bas noirs et ses sabots à bout relevé. — Bonsoir, père ! dit-elle.
+
+['que', 'le', 'la', 'les', 'cela']	François	La porte de la rue s’ouvrit avec bruit. Un homme entra. La fille, sans changer de place et sans se pencher, dit : — C’est lui ! Le père avait déjà reconnu [MASK], malgré la jaquette et le chapeau de feutre dur ;
+
+['et', 'toi', 'reste', 'moi', 'va']	Mathurin	, se courba précipitamment. — Vaque à toi ! cria-t-il ; reste couché, [MASK] ! Une nuit complète se fit autour d’eux. Ils passaient sous un de ces ponts de pierre, d’une seule arche, qui bossuent le Marais çà et là.
+
+['chacun', 'on', 'tristan', 'il', 'elle']	Mathurin	L’ombre était si noire, que [MASK] voyait à peine l’avant de son bateau. Depuis le coucher du soleil, le vent accumulait les brumes dans le Marais. L’étendue leur appartenait. Elles couvraient des lieues de pays, de leur masse en mouvement.
+
+['-', 'mais', 'maman', 'non', 'toi']	Rousille	— Père ? Il s’arrêta. — C’est toi, [MASK] ? Tu te couches ? — Non, je vous ai attendu. Je voulais vous dire quelque chose… Ils étaient séparés par toute la longueur de la chambre. Ils ne se voyaient pas.
+
+['le', 'la', '(', 'les', 'et']	Mathurin	— Bien conduit, [MASK] ! dit le cadet, en sautant. L’autre, essoufflé, rouge, content comme d’une victoire, se retourna. — Ne te gêne donc pas ! dit-il. Celui qui conduit une yole comme moi, peut bien conduire une métairie
+
+['puis', 'le', 'elle', ',', 'et']	Adélaïde	Elles réservèrent leur pensée pour les longues heures de causerie à deux, et [MASK], rejetant la cape à demi ouvrée, joignant ses mains noueuses et blanches comme des osselets, penchant sa taille toute plate, reprit gaiement : — Vois-tu, ma belle, tu arrives bien !
+
+['</s>', '"', 'il', 'je', 'elle']	André	Je pense que ce sera facile, gentil comme tu l’es… Non, tu ne peux pas savoir combien je le désire ! [MASK] redevint soucieux, comme il l’était dans le chemin, et dit : — Je le sais très bien, au contraire…
+
+['elle', 'il', 'se', 'on', 'chacun']	André	« Ô mon Dieu ! » murmura-t-elle. Prompte, elle se baissa, elle inclina la chandelle, pour voir sous le lit, où [MASK] serrait ses deux paires de souliers et ses bottes de voyage ; tout avait disparu. Elle ouvrit le coffre aux vêtements : il était vide.
+
+['celui', 'ce', ',', 'jésus', 'celle']	Mathurin	Dans la cour, le valet, attiré par le bruit, s’avançait avec une lanterne. Chapitre 13 Ceux de la ville LE MÉTAYER REPRIT VITE connaissance. Il se redressa, regarda autour de lui, et, apercevant [MASK] qui se lamentait et disait : «
+
+['mort', 'fer', 'malade', 'camp', 'repos']	Mathurin	Elle se pencha, chercha sous le lit de [MASK], puis dans le coffre, et se releva en disant : — Si…, il les a emportés… Il les avait mis d’avance… Le premier son de corne a passé vers six heures.
+
+['on', 'il', ',', ':', '(']	André	[MASK] attaquait ouvertement les maîtres : — Ils sont ruinés, disait-il, tous les nobles disparaîtront de même, parce qu’ils ne font rien : tant pis pour eux ! — Tant pis pour les métayers également, répondait le père : ils ne gagnent pas souvent à changer
+
+[',', 'tête', 'debout', 'main', 'berthe']	Rousille	Et si la vieille tante Adélaïde peut te servir, te défendre, te donner ce qu’elle a pour t’établir, viens me trouver, ma fille, viens ! Elle tenait maintenant [MASK] embrassée, courbée sur son corsage noir.
+
+['il', 'elle', 'celui-ci', 'georges', 'jean']	Mathurin	Quelque chose de l’émotion qu’il eût éprouvée, un commencement de larme mouillait ses paupières. Mais [MASK] frappa la table de son poing, et, tournant vers le père son visage hargneux : — Vous croyez donc qu’ils pensent à nous ? Ah ! bien non !
+
+['main', 'guerre', 'confiance', 'mains', 'loi']	Sallertaine	des hommes de [MASK] qui avaient suivi les enchères ; des ouvriers qu’on avait entendus, à la dernière minute, reclouer les voliges sur les fenêtres basses, et des lumières qu’on avait vues errer derrière les vitres des étages, comme aux jours d’autrefois, quand la haute maison blanche était pleine d’invités.
+
+['elle', 'chacune', 'il', 'on', '</s>']	Rousille	Souvent, les deux sœurs se déshabillaient, l’une près de l’autre, sans se parler. [MASK] regardait devant elle. Son œil habitué distinguait les choses, en cette clarté de lune, presque aussi bien qu’à la lumière du jour.
+
+['jacques', 'jean', 'maurice', 'celui-ci', 'jeanne']	Mathurin	Depuis que je suis revenu, je ne puis plus m’y refaire, à ce métier-là. — Ah ! moitié de paysan, cria [MASK], tu n’as pas honte ? Moi, si je pouvais marcher, le père n’aurait pas même besoin d’un valet.
+
+[',', 'son', 'le', 'sa', '"']	Mathurin	Il comprenait l’imprudence qu’il avait commise, en emmenant avec lui [MASK], par une nuit pareille et si loin. L’infirme, lui, ne bougeait pas. Il se taisait, pour ne pas appeler sur lui l’attention de son frère, qui aurait pu retourner en arrière.
+
+['jacques', 'georges', 'tom', 'catherine', 'jean']	André	: — Je t’aime bien comme ça, mais je parierais que tu ne serais pas fâché de quitter tes hardes de militaire ? — C’est vrai, papa, répondit [MASK], riant de l’impropriété des mots et de l’invitation déguisée du père.
+
+['cela', '"', 'ça', 'ceci', 'trop']	Mathurin	Il la retenait près de lui ; il l’enveloppait de ses bras ; il pleurait ; il ne pouvait plus parler. Cependant, pour avoir serré contre son cœur cette jeunesse heureuse, il reprit vite courage. — Ne crains pas [MASK], dit-il ;
+
+['chacun', 'tout', 'lui-même', 'celui-ci', 'cela']	Mathurin	Plus de maîtres… Le vieux métayer ramena ses yeux sur les deux sillons fraîchement ouverts, qui montaient devant lui jusqu’au cormier, là-bas ; alors il songea que [MASK] devait attendre et s’étonner, qu’il fallait lui dire quelque chose et ne pas l’inquiéter.
+
+['qui', ',', 'et', 'il', ';']	Rousille	[MASK] se retirait à reculons. Bientôt la porte s’ouvrit ; le loquet retomba : il ne resta plus, dans la chambre, qu’une vieille pliée bien bas, qui s’efforçait de coudre dans le drap noir, et qui ne voyait plus son aiguille. Chapitre 4 Le premier labour de septembre
+
+['il', '</s>', 'elle', 'on', 'et']	Éléonore	! [MASK] s’attendrissait par contagion. Ses yeux se mouillaient aux coins, mais ils se tournaient vers la rue, tandis que le père fermait les siens. — Père, dit-elle, il faudrait venir avec moi dans la cuisine.
+
+['elle', 'on', 'il', 'elles', 'elle-même']	Éléonore	La dernière venait d’être placée près de l’entrée, qu’[MASK] bouchait avec une plaque de tôle ; les deux sœurs s’essuyaient les joues avec leurs manches ; une odeur de pain frais s’échappait par les fentes du four, quand une grosse voix rieuse appela du dehors
+
+['cheval', 'chevaux', 'monte', 'selle', 'jument']	François	Là, le père détacha la jument, se tint près du marchepied, et dit : — Monte, [MASK], et retournons chez nous ! Mais le jeune homme se recula. — Non, dit-il, c’est fini ! Vous ne me ferez pas changer.
+
+['moi', 'toi', 'frère', 'père', 'fils']	François	Ça ne se peut… Il n’osait contredire en face, et, comme un écolier, fixait le sol entre ses jambes. Cependant le père ne se fâcha pas. Il dit doucement : — Je t’aurais remboursé, [MASK], comme je rembourserai ton frère.
+
+['.', ',', 'de', '!', 'le']	Rousille	Une idée le prit, et, de la main, à petite distance et sans toucher [MASK], il dessinait, sur les épaules et sur la taille de la jeune fille, la place du châle, celle des rubans de velours cernant la poitrine. —
+
+['et', 'que', 'mais', 'maintenant', 'excepté']	Rousille	Nous aurons notre maison à nous, et je serai comme mon père et comme ma mère, qui ne se sont jamais plaints de rien, [MASK], pourvu que j’aie vos amitiés. Il achevait à peine cette phrase d’humble amour, quand une voix appela, dans le chemin
+
+['moi', 'nouveau', 'toi', 'là', 'lui']	Mathurin	Si j’ai besoin d’aide, je sais où aller. — Adieu, petite ! Défie-toi de [MASK] ! Défie-toi de celle de là-bas ! Elles ne se parlèrent plus que par leurs yeux, qui ne se quittaient pas.
+
+['elle', '</s>', 'on', 'il', 'maman']	Rousille	— Alors, ma petite, c’est tes noces qui vont sonner. [MASK] n’osait pas comprendre. Elle s’avança un peu, sur les genoux, jusqu’à toucher le père. Elle aurait voulu que le jour revînt, pour éclairer les yeux qui la regardaient.
+
+['un', 'henri', 'étienne', 'israël', 'andré']	André	— Mais non. — Est-ce qu’on t’a proposé de t’en donner ? Il avait relevé la tête, sans bruit, et il guettait, des yeux et des oreilles à la fois, la réponse d’[MASK]. La réponse ne vint pas.
+
+['il', ',', 'qui', 'et', 'malade']	François	[MASK] commençait à s’assoupir, et ne mangeait plus. L’infirme buvait lentement, les yeux vagues devant lui, songeant peut-être à la chasse qu’il avait aimée, lui aussi. Il y eut un moment de paix apparente.
+
+['-', ',', '...', 'oui', 'non']	André	— Oui, tous les meubles, répéta [MASK]. Les journaux l’annoncent. Tenez, si vous n’y croyez pas, voici la liste ! Elle est complète. Il tira de sa poche un journal, et désigna du doigt une annonce, où le père lut laborieusement : «
+
+[',', 'que', 'de', 'et', 'si']	Mathurin	Voilà la soupe finie, dit le métayer. Allons, [MASK], pique une tranche de lard avec moi ! — Non, c’est toujours la même chose, chez nous. — Eh ! tant mieux, répondit le père, c’est bon, le lard : moi je l’aime
+
+['ulysse', 'arthur', 'henry', 'albert', 'annette']	André	Ne faites pas la figure que vous faites !… On a accompli notre temps chez vous, mon père ! On a patienté jusqu’au retour d’[MASK]… À présent qu’il revient, il peut bien vous aider, lui : c’est son tour !
+
+[',', 'tu', 'on', 'dites', 'je']	Rousille	— Dites, [MASK], comment vont nos affaires ? Êtes-vous heureuse ? — Pas trop. Nous avons, à la Fromentière, plus de misère que de bonheur. Voilà que notre maître, maintenant, a laissé vendre ses meubles, comme vous savez. Une pitié
+
+['qui', 'il', 'le', 'ce', ',']	François	— Non. — A-t-il dit au moins où il allait ? — Il n’a voulu ni s’asseoir, ni rester : il nous a embrassés tous deux. Mais les mots ne lui venaient guère, pas plus qu’à nous. [MASK] lui a demandé
+
+[',', 'se', 'qui', 'le', 'il']	Éléonore	[MASK], debout, dans une robe de mauvaise indienne qui lui collait à la peau, soulevait, au bout d’une fourche en fer, des bourrées d’épines entassées à ses pieds, et les poussait dans le brasier.
+
+['valet', 'cheval', 'cavalier', 'chevalier', 'écuyer']	Paladin	Ohé ! Noblet, Cavalier, [MASK], Matelot ! Un coup de fouet fit plier les reins à la jument de flèche ; les quatre bœufs baissèrent les cornes et tendirent les jarrets ; le soc, avec un bruit de faux qu’on aiguise, s’enfonça ;
+
+['moi', 'nous', 'lui', 'tout', 'paris']	Rousille	C’était la lisière du parc. De toutes parts, devant [MASK], des pelouses montaient, éclairées par la lune, paisibles, et où dormait, en îles rondes et décroissantes, l’ombre bleue des futaies. L’avenue tournait au milieu d’elles.
+

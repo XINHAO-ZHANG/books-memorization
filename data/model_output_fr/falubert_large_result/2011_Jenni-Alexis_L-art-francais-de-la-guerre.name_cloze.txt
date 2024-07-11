@@ -1,0 +1,200 @@
+['il', 'Il', 'on', 'et', 'tout']	Victorien	Dedans c’était sombre. [MASK] traversa les lieux à tâtons et regagna sa chambre. Il dormit mal. Dans le noir de la pièce, redoublé de l’obscurcissement des yeux clos, il lui sembla que s’endormir était une faiblesse.
+
+['on', 'On', 'il', 'Il', 'qui']	Hennequin	L’oncle tapota la vitre et indiqua d’un geste qu’on lui bande les yeux. On acquiesça et on le fit, à l’aide d’un foulard de scout. [MASK] bredouillait de la façon la plus pénible. « Pas les yeux, pas les yeux.
+
+[',', '</s>', 'Il', 'il', 'qui']	Kaloyannis	[MASK] l’encourageait à venir souvent et lui fit délivrer par l’intendance du beau papier granuleux, des crayons, des plumes, de l’encre, et même de petits pinceaux souples qui servaient à huiler les pièces des systèmes de visée.
+
+[',', 'le', 'tout', 'bien', '...']	Kaloyannis	un peu plus la tête dans les épaules. Il restait debout au milieu de chez lui, les yeux fermés, ne bougeait pas.« Bon, [MASK], on y va, dit Mariani.— Mais où ?— En France.—
+
+['on', 'il', 'ont', 'elle', 'cela']	Moreau	Les munitions du poste explosaient, [MASK] avait piégé la casemate.Ils déposèrent en travers du chemin des grenades reliées à un fil, tous les kilomètres, et la grenade explosait quand on heurtait le fil. Quand ils entendirent la première grenade, ils surent qu’ils étaient poursuivis.
+
+[',', 'il', 'et', 't-il', 'Et']	Salagnon	Des barges armées remontèrent la rivière, leur cale vide. On évacua les trous fortifiés, on détruisit le matériel, on laissa les obus et les grenades en les piégeant. « Et mon vélo ? demanda [MASK] quand on le transporta. — Quoi votre vélo ?
+
+['monsieur', 'celui', 'Monsieur', 'lui', 'madame']	Salagnon	Ils marchaient en file trop serrée derrière [MASK] qui leur hurlait tous les quarts d’heure de garder plus de distances et de se taire. Alors ils s’espaçaient et faisaient silence, puis peu à peu recommençaient de bavarder, et se rapprochaient insensiblement de monsieur l’officier qui les guidait.
+
+[',', 'plus', 'ait', 'et', 'bien']	Salagnon	[MASK] souvent dessinait. Il avait le temps. Il s’asseyait et s’essayait au lavis, à l’encre, au paysage ; il s’agissait ici de la même chose car toute l’eau contenue dans le sol et dans l’air transformait le pays entier en lavis.
+
+['son', 'mon', 'le', 'au', 'ton']	Salagnon	elle le montrait avec une naïve ostentation. Derrière son dos il chiffonnait un béret, un de ces plats à tarte ornés d’un écusson qui se portent penchés sur l’oreille.« Eh bien entre ! dit enfin [MASK] père. Montre-nous comme tu es beau.
+
+['il', 'elle', 'on', 'ils', 'Alice']	Eurydice	Il aurait voulu qu’[MASK] le rejoigne. Ils auraient vécu prince et princesse de ce château volant. Il lui écrivait, il peignait ce qu’il voyait par le mur vide, le paysage chinois des îlots de la baie jaillissant de l’eau éblouissante.
+
+[',', 'il', 'et', 'se', 'le']	Salagnon	Un Thaï l’abattit, il lâcha la grenade, qui roula dans la pente. [MASK] ressentit un coup énorme à la cuisse, un coup à la hanche qui lui faucha les jambes, il tomba. Le silence se fit. Cela avait duré quelques secondes,
+
+['eux', 'lui', 'nous', 'moi', 'elle']	Rosenthal	Faillite ?— Ils sont partis un matin, comme on part en vacances. Ils avaient une valise chacun. Je ne sais pas où. Avec [MASK], c’était bonjour bonsoir. On se voyait à l’ouverture, et le soir en fermant.
+
+['Il', 'Elle', 'il', 'elle', '</s>']	Salagnon	Le silence se fit. Cela avait duré quelques secondes, le temps de descendre une pente en courant. Le dire est déjà le dilater. [MASK] essaya de se relever, sa jambe pesait comme une poutre accrochée à sa hanche. Son pantalon était mouillé, tout chaud.
+
+['il', 'elle', '"', 'on', ',']	Moreau	Alors [MASK] s’approcha.« Mon colonel, je me permets d’insister. »L’autre, la fourchette déjà plantée dans un morceau saignant, suspendit son geste à mi-chemin entre l’assiette et sa bouche ouverte ; il releva les yeux d’un air mauvais.
+
+['le', 'S', "l'", 'il', 'bus']	Salagnon	Les corps allongés plongeaient dans l’ombre.« C’est juste un peu de rangement à faire, grommela [MASK]. Ils se débrouilleront bien sans nous.— Ils n’ont pas l’air très dégourdis, nota le conducteur.— On leur demande
+
+['ici', 'là', 'où', 'alors', 'ailleurs']	Neptune	Ou [MASK], je ne sais pas. Un autre monde qui ne ressemble à rien d’ici : imagine une terre où la terre ferme n’existerait pas. Un monde mou, tout mélangé, tout sale. La boue du delta est la matière la plus désagréable que je connaisse.
+
+[',', 'à', 'le', 'au', 'que']	Gascard	[MASK], lui, se voyait bien rester à étouffer comme ça. La noyade est la mort la plus douce, dit-on bêtement, ce sont des bruits qui courent, comme si on avait essayé. Alors pourquoi pas, surtout si la noyade au pastis est possible.
+
+['Pierre', 'Jean', 'Marie', 'Robert', 'Martin']	Brioude	il avait moins cet aspect de caoutchouc sale qui lentement s’affaissait. Il ferait bientôt nettement nuit.La cure de cette église où logeait [MASK] ressemblait à un pied-à-terre, un rendez-vous de chasse où personne ne reste, un gîte ou l’on ne fait que bivouaquer en s’apprêtant toujours à partir.
+
+['il', "c'", 'Il', 'elle', ',']	Eurydice	Il n’est rien de plus détestable que l’expression « de beaux restes », et aussi le ricanement de fausse modestie qui accompagne la constatation « ne pas faire » son âge. [MASK] faisait son âge, et était la vie même.
+
+['il', 'on', 'Il', 'On', 'y']	Salagnon	« La sueur épargne le sang », répétait-on. La devise des Chantiers de Jeunesse on l’avait peinte sur une banderole à l’entrée du camp de la forêt. [MASK] comprenait la beauté raisonnable d’un tel mot d’ordre, mais il exécrait davantage la sueur que le sang.
+
+['Il', 'il', 'et', 'Elle', 'On']	Herboteau	La balle l’avait frappé dans le front, juste là où la peau fait des plis quand les sourcils se froncent. Il avait dû mourir tout de suite, frappé en l’air, et tomber mort. [MASK] resta un moment à le regarder en silence.
+
+['"', '-', ',', '...', ';']	Mariani.—	« J’y tiens, docteur Kaloyannis.— Il ne vend pas, grogna [MASK] Je peux prendre, et je vous offre de payer », sourit-il.Les coups de feu se succédèrent très vite, mais dans le chaos de la rue on ne les remarqua pas.
+
+[',', 'était', 'bien', 'et', 'étant']	Brioude	il le reconnut, [MASK] assis par terre contre le mur, un peu de travers, les mains attachées derrière le dos. Un jeune Arabe à côté de lui, exactement dans le même état, portait étrangement au revers de son veston élimé une petite croix latine en argent.
+
+['on', 'il', 'et', 'On', 'elle']	Goranidzé	L’île ?— Celle que vous commanderez, mon lieutenant. »Commander une île lui plaisait bien. [MASK] l’y emmena dans une barque à moteur qui pétaradait, empêchait de parler, et laissait derrière eux un nuage noir qui mettait du temps à se dissiper.
+
+['-', 'dit-il', 'donc', 'il', '...']	Rosenthal	Il prit et reposa son verre dans le même geste.« En effet, dit-il vaguement. Je vois que les affaires marchent.— Ça va ; si on s’en donne la peine.— Toujours fermé, [MASK] ? Son rideau de fer n’a pas bougé. Faillite ?
+
+['se', 'qui', 'et', 'il', 'elle']	Moreau	»[MASK] finit avec un petit rire, de ce rire qu’il avait, pas désagréable mais pas drôle non plus, un rire comme son nez efflanqué, un rire comme sa moustache fine qui redoublait ses lèvres fines, un rire net et sans joie qui glaçait sans que l’on sache pourquoi.
+
+['t-il', '"', 'elle', 'il', 'il']	Eurydice	— C’est le pays dont vous avez le passeport. Ici, vu les tôles que vous mettez aux fenêtres, ce n’est plus chez vous.— On part, papa », dit [MASK].Elle alla chercher deux valises déjà prêtes. On frappa à coups redoublés.
+
+['il', 'Il', ',', "qu'", 'on']	Ahmed	[MASK] était parti. Des types du voisinage armés de fusils et de pistolets, des types en chemisette que je connaissais tous sont venus chez moi et m’ont demandé où il était. Mais je n’en savais rien. Ils voulaient l’emmener et lui faire son affaire.
+
+['et', 'il', ',', 'homme', 'Il']	Salagnon	[MASK] s’étonnait d’une telle science de sa langue maternelle, que lui-même ne possédait pas. Il le lui fit remarquer, cela le fit sourire le vieil homme.« Vous savez, mon jeune ami, les meilleures incarnations des valeurs françaises, ce sont les gens dits de couleur.
+
+['se', 'ha', 'et', 'les', 'ça']	Ahmed	Les types armés m’ont dit que des bandits couraient dans les montagnes. [MASK], disaient-ils, les avait peut-être rejoints. Mais il y a eu tant de ratissages, de liquidations, d’enterrements à la va-vite, en masse, qu’il a peut-être disparu
+
+[',', 'de', 'le', "l'", 'la']	Camus	[MASK], qui s’y connaissait, donne l’image parfaite de l’Arabe : il est toujours là dans le décor, sans rien dire. Quoi que l’on fasse on tombe dessus, il est là et finit par gêner ;
+
+[',', 'et', 'de', 'alors', 'ça']	Montbellet	Toi c’est l’ascétisme, et tu as la figure d’un saint ; [MASK] c’est l’aventure ; mais moi c’est la pauvreté, et j’ai juste l’air d’un pauvre type.— Salagnon ! “Il n’est d’autres richesses que d’hommes.”
+
+['colonne', 'celle-ci', 'colonnes', 'celui-ci', 'Simon']	Hennequin	; on dirait des rombières devant une porte qui se font des politesses pour ne pas passer la première. »Quand l’oncle dans la cabine s’aperçut de la présence de [MASK], il ébaucha un geste, ouvrit la bouche mais la colonne était partie.
+
+['elle', 'eux', 'lui', 'elle', 'lui']	Moreau	; il s’adressait à [MASK].Cela leur prit trois jours par la piste. Ils montèrent en file, leur arme en travers des épaules. Ils ruisselèrent vite de sueur de grimper par de fortes pentes en plein soleil.
+
+['il', 'Il', 'elle', 'on', 'et']	Salagnon	L’électricité crachotait avec des étincelles bleues, on les voyait crier, bouche ouverte, dents blanches, yeux élargis. [MASK] dormait en short, il enfila ses chaussures sans les lacer, tomba du lit, prit son arme qui traînait dessous et sortit en courant de la casemate.
+
+['il', 'elle', 'Il', 'on', 'Elle']	Victorien	Les gens se pressaient, hurlaient, brandissaient des billets, les soldats épaule contre épaule barraient le passage. Les avions décollaient les uns à la suite des autres. [MASK] avisa l’officier, lui glissa quelques mots à l’oreille.
+
+['"', 'il', 'alors', 'M', 'elle']	Salagnon	; et ensuite chacun des mots de celui qui s’est tu sera méprisable. Occupé à faire taire, je n’essayais pas de l’entendre, et je ne lui demandais rien.« Les guerres sont simples quand on les raconte, soupira [MASK].
+
+['nous', 'ni', '"', ',', 'mais']	Salagnon	; alors ils nous soutiennent. Recrutez-les, nous vous armons, et partez en guerre dans la forêt avec eux.« Nous ne sommes pas d’ici, [MASK]. Le climat, le sol, le relief, rien ne nous convient.
+
+['Il', '</s>', 'il', 'Elle', '...']	Montbellet	La fêlure dans la coquille qui te donnera de l’air, ce sera peut-être l’art. Tu dessinais. Alors dessine. »[MASK] se leva, brandit son verre qui brilla rouge sombre sous la pauvre lampe, chaleureux comme du sang dans la pénombre froide.
+
+['jusque', 'doucement', 'alors', 'Harry', 'fort']	Victorien	Ou me recouvrir d’injures, même d’une seule. Mais il n’a rien fait. Il a juste pleuré. Alors laisse-le. »Il poussa [MASK] dans la boutique et referma la porte sur lui. Dedans c’était sombre.
+
+['il', 'qui', ',', 'et', 'Il']	Brioude	[MASK] ouvrait la marche et derrière lui ses vingt hommes respiraient à fond. Quand ils débouchèrent du bois, les nuages s’ouvrirent et laissèrent voir le fond bleu du monde. Ils s’alignèrent dans les buissons de fougères au-dessus d’une route.
+
+[',', 'en', 'le', 'et', "l'"]	Brioude	Les ornements gravés dans le métal enchâssaient une grosse pierre d’un bleu profond ; des filets d’or la parcouraient qui semblaient bouger.« Cette pierre, dit [MASK] en la désignant, on croirait un ciel d’enluminure ; tout, dans un tout petit espace ;
+
+['il', 'Il', '</s>', 'on', 'On']	Salagnon	La mort est immédiate, les souffles s’échappent par la porte des vents, l’homme tombe en silence, tout ramolli.[MASK] fut troublé par cet objet si simple. Il tenait dans la main comme un couteau pliant, et sa forme parfaite montrait le sens pratique dont pouvait faire preuve l’industrie.
+
+['je', 'on', 'il', 'Je', 'On']	Mariani	[MASK] fait bien de ne pas me croiser. Qu’il aille finir ses guerres ailleurs. »Son cabas rempli de légumes à la main, bien droite, elle rentra, et elle referma la porte avec une énergie juste en dessous du claquement, mais à peine.
+
+['Elle', 'Il', '</s>', 'il', 'et']	Salagnon	« Chaque trace doit être juste, jeune homme. Mais si elle ne l’est pas, peu importe. Faites alors que les suivantes la rendent juste. »[MASK] tenait entre ses doigts l’irrémédiable. Au début, cela le figeait ; puis cela le libéra.
+
+['S', 'Bien', 'As', 'Là', 'E']	Salagnon	Chiffon de complaisance accordé par une administration ramollie et noyautée.— Noyautée ?— [MASK], tu devrais lui apprendre davantage que le pinceau. Il ne sait rien du monde. Il croit que la réalité c’est ce que dit le papier.— Mariani, arrête.— Mais regarde, ils sont là
+
+['il', 'on', 'y', 'chacun', 'elle']	Trambassac	Beaucoup disparaissaient, coupables ou pas. Ils lancèrent des filets et attrapèrent tous les poissons. Point n’était besoin de connaître le coupable pour agir. Il suffisait d’un nom, et ils s’occupaient de tout.Ce jour-là [MASK] eut du génie.
+
+['-', '"', '...', "'", 'à']	Salagnon	« Vous n’y connaissez rien, [MASK]. Vous ne connaissez ni ce pays ni ce peuple.— Mais je sais ce que c’est que de traverser une région quand on est une bande armée. Je suis moi-même une bande armée.
+
+['Il', 'il', 'et', 'Elle', 'On']	Moreau	vous êtes son glaive, et je suis fier de boire à votre courage. »Il leva son verre, tous l’imitèrent, burent, il y eut quelques applaudissements. [MASK] ne sut pas comment enchaîner. Il rougit, leva son verre, et but.
+
+[',', ';', '-', 'et', 'se']	Salagnon	C’est un détail.— C’est l’essentiel.— Nous y étions presque. On ne nous a pas soutenus jusqu’au bout. Une décision prise pour des raisons absurdes a salopé des années de travail. »Je regardais [MASK] et je voyais bien que cela ne lui convenait pas ;
+
+['il', 'Il', 'on', 'et', 'lui']	Salagnon	Ils se sentaient grandir et s’assouplir, devenir forts.[MASK] continua de dessiner ; cela se sut et on lui demanda des portraits. Le colonel décida que ce serait l’une de ses tâches. Aux heures de l’après-midi consacrées à la sieste on venait poser devant lui.
+
+['et', 'il', 'Il', ',', 'ne']	Rufin	[MASK] rentra à la fin de l’après-midi, à la tête d’une colonne en loques. Ils avaient marché dans la forêt pendant plusieurs jours, avaient traversé les ruisseaux, s’étaient cachés dans les buissons collants, avaient dormi dans la boue.
+
+[',', 'très', 'un', 'de', 'et']	Victorien	[MASK] très sérieux, crayons en main, commença d’observer la jeune fille au milieu des garçons, la jeune fille nue qui prenait des poses, des poses qu’il ignorait que l’on puisse prendre.Il s’était fait tout un monde de voir enfin une fille nue.
+
+[',', "qu'", 'il', 'de', 'et']	Victorien	[MASK] la voit de dos, il voit la ligne courbe de ses épaules, son dos où fait saillie le gros nœud du tablier de ménage. Elle se penche sur l’évier — les femmes passent beaucoup de temps à mouiller des choses.
+
+['de', 'par', 'bien', 'agréablement', 'avec']	Salagnon	Ceux-ci plissaient les yeux et attendaient. Un officier à l’écart frappait [MASK] par son élégance hautaine. Son uniforme ouvert lui allait comme un costume d’été. Il fumait avec indifférence en attendant la fin de la partie. Il avait perdu, tant pis.
+
+['On', 'on', 'Il', 'France', 'Elle']	Eurydice	[MASK] n’a pas besoin d’un traîneur de sabre, ce n’est plus leur temps. Quand tu te seras fait, reviens. Les types d’ici ne sont que des babilleurs, mais toi tu n’es rien. Vis, et puis reviens-nous.
+
+["l'", 'lui', 'le', 'eux', 'son']	Salagnon	»L’Allemand fit le geste de balayer d’un revers de main, et les sbires relevèrent le Vietnamien interrogé, qu’ils soutinrent sans brusquerie ; ils l’emmenèrent avec l’instituteur vers la lisière, à l’écart. Il alluma une cigarette et revint vers [MASK].
+
+['pas', 'non', 'si', ',', 'ou']	Gascard	On ne pouvait savoir exactement s’il souriait. [MASK], colosse rougeaud, hochait simplement la tête, vidait son verre et commandait à nouveau. Le soleil se coucha, des lampions accrochés aux branches donnaient une multitude de lumières.
+
+['-', '"', 'Je', 'je', 'tu']	Salagnon	— Plus petit. Pas la même classe. »L’oncle soupira.« Tu ne vas pas t’attrister pour un type dont tu ne connais que le nom et le rideau fermé. Bois un coup, je te dis.— Personne ne s’occupe de personne, [MASK].
+
+[',', 'de', 'le', "l'", 'se']	Eurydice	[MASK] vint se nicher contre lui et l’embrassa dans le cou, derrière l’oreille, juste là où passent les carotides, et peu à peu ce tambour s’éteignit. Vers le nord le grondement restait comme un écho, dont il était impossible de discerner les détails
+
+["l'", 'de', 'le', "d'", 'en']	Salagnon	Qu’est-ce qu’être français ? Le désir de l’être, et la narration de ce désir en français, récit entier qui ne cache rien de ce qui fut, ni l’horreur, ni la vie qui advint quand même.— Le désir ? dit [MASK].
+
+['un', 'chacun', 'chef', 'monsieur', 'consommateur']	Salagnon	Des camions viendraient les prendre plus tard. On fournit à [MASK] un bâton bien droit, gradué, qui lui servirait de règle pour la découpe. Avant qu’il ne commence le chef lui effleura l’épaule : « Viens voir. » Il l’entraîna vers les stères.
+
+['celui-ci', 'lui', 'France', 'taureau', 'Jésus']	Moreau	Lui, c’est la gorge. Couic ! » Il fit le geste de se passer le pouce sous le menton, d’un côté à l’autre. Tout le sang de [MASK] s’était répandu, formait une grande tache de terre sombre autour de son cou.
+
+[',', 'il', 'elle', 'Il', 'Elle']	Salagnon	[MASK] ferma les yeux, secoua la tête. Les choses n’allaient pas. Personne ne comprenait rien, semblait-il.Dans sa villa accrochée à la falaise il regardait les peintures qui lentement se dégradaient, ou bien la mer derrière le rideau de tulle qui très lentement ondulait.
+
+['il', 'chacun', 'je', 'Il', 'on']	Salagnon	Ils l’avaient bien calé entre des caisses pour qu’il ne tombe pas, et eux suivaient à pied. La poussière retomba sur la piste et [MASK] devint chef de poste, en remplacement du précédent, trop usé, mais encore vivant, sauvé à son corps défendant par les avis raisonnables d’un sous-officier indigène.
+
+['ils', 'Ils', 'il', 'qui', 'Romains']	Eurydice	ROMAN IVLes premières fois, et ce qui s’ensuivitVictorien et [MASK] s’en allèrent entre les chars rangés. Il faisait nuit, mais une nuit d’été pas très sombre, au ciel éclairé d’étoiles et de Lune, pleine du crissement des insectes et des bruits du camp.
+
+[',', 'contre', 'et', 'huit', 'pour']	Salagnon	Il fit gronder son moteur, retentir la note grave et puissante de son avertisseur, et les gens s’écartèrent lentement, lentement car ils étaient épaule contre épaule. Ils sont si nombreux qu’ils vont nous engloutir, pensa [MASK], huit contre un et tellement d’enfants.
+
+['les', 'lui-même', 'soi-même', 'moi', 'moi-même']	Salagnon	Il se raffermit soudain.« On me demande de dératiser, alors je m’exécute ; ou pour être plus précis, j’exécute les autres », ricana-t-il. Son visage était ferme et dur maintenant, il ne regardait plus personne, pas même [MASK].
+
+['cela', 'moi', 'que', 'bien', 'toi']	Salagnon	Avant de fermer les yeux, il lui avait agrippé la main, l’avait serrée très fort, et avait parlé très bas mais de façon claire.« Tu sais, [MASK], je ne regrette qu’une chose. Pas de mourir ; cela, tant pis.
+
+["l'", "D'", 'on', "d'", 'D']	Salagnon	Nous moisissons de l’intérieur. Sauf toi, [MASK]. On dirait que sur toi tout passe.— Je regarde ; alors je me fais à tout.— Moi aussi je me fais à tout. Mais c’est bien ça qui m’inquiète : je ne m’adapte pas, je mute
+
+['un', 'le', 'une', 'en', 'lui']	Salomon	Ils prirent [MASK] par l’épaule et il vint docilement. Une strounga ébranla l’air, un nuage de poussière blanche se leva au bout de la rue. Des débris jonchaient le trottoir, une boutique flambait, des meubles cassés attendaient qu’on les brûle.
+
+['y', 'plus', 'et', 'une', "c'"]	Mariani	; si le chien se rebiffait, s’il faisait mine de mordre, on appelait l’armée. L’armée c’était moi, [MASK], d’autres types comme ça dont beaucoup sont morts : nous nous efforcions de tuer le chien. Tu parles d’un métier.
+
+['le', 'les', 'son', 'la', "l'"]	Moreau	Il les voyait mal ; il ne comprenait pas leur disposition. Quand ses yeux se furent habitués à l’ombre il comprit comment on avait rangé les morts. On les avait empilés comme des bûches. Sur la dernière couche, sur le dos, il reconnut [MASK].
+
+['le', 'la', "l'", 'un', 'une']	Salagnon	Tous le regardaient et surveillaient chacun de ses gestes. Une odeur d’anis et de dortoir mal aéré flottait dans l’air sombre. Le lieutenant se pencha sur des caisses entassées au centre de la pièce, ramassa un objet et le lança à [MASK], qui l’attrapa par réflexe
+
+['gêné', 'pas', 'résolu', ',', '...']	Ahmed	Mettez-le dans un hôpital français, il passera inaperçu. Sauf la moustache bien sûr ; on la porte plus petite en métropole, ce qui nous a surpris. N’est-ce pas [MASK] ?— Oui, docteur Kaloyannis. Beaucoup surpris. »
+
+['Il', 'Elle', 'Lui', 'il', 'Et']	Salagnon	Mais on est quand même plus tranquille ici qu’ailleurs. Non ? »[MASK] sourit en montrant les dents. Sous le pupitre il lui attrapa le gras de la cuisse et tordit.« Je n’aime pas la tranquillité », souffla-t-il.
+
+['mots', 'et', 'tout', 'le', 'mais']	Salagnon	on les a transformés en baguettes à riz jetables et en meubles de jardin. La beauté s’effondre dans le ridicule.« Il faut arrêter de parler, [MASK], parce qu’avec des ruines de mots on ne peut pas parler. Il faut revenir au réel.
+
+['il', 'on', 'et', 'elle', 'chacun']	Salagnon	Et encore se jeter à terre. L’exercice les amusa d’abord, puis ils grognèrent. [MASK] le savait. Un des plus grands, qui avait un beau visage orné d’un peu de poils, des cheveux rangés par une raie brillantinée, mena la protestation.
+
+['on', 'qui', 'il', 'monde', 'ne']	Mariani	[MASK] venait le voir, il s’était sorti intact de l’évacuation. Il lui apportait des journaux, il commentait les nouvelles.« Une violente contre-offensive des troupes franco-vietnamiennes, lisait-il, a permis d’arrêter la progression de l’ennemi dans la Haute-Région.
+
+['voix', 'ton', 'réponse', 'conversation', 'langage']	Salagnon	Notre pays n’est plus peuplé que de femmes et d’enfants ; et d’un unique vieillard. »Le prêtre embarrassé hésita à répondre. Le sujet était mouvant, le ton de [MASK] peut-être provocateur. Ses yeux d’un bleu froid cherchaient à transpercer les siens.
+
+['chacun', 'Dieu', 'lui-même', 'tous', 'soi-même']	César	Alors cessez de jouer. Formez votre esprit, il est le seul bien dont vous disposez. Rendez aux enfants ce qui leur revient, et à [MASK] ce qui lui est dû. »Satisfait, il s’éloigna, suivi d’une brise de murmures qui parcourut les rangs.
+
+['day', 'd', 'F', 'Queen', 'God']	King	Et il se mit à siffloter en rabotant de plus belle, avant-bras rougi par l’eau froide, épaules saillant sous l’effort. Il siffla plusieurs chansonnettes, des connues, des moins connues puis des coquines, et enfin God Save the [MASK], très fort et plusieurs fois.
+
+[',', 'le', 'on', 're', 'les']	Salagnon	[MASK] traduisait bien mais lentement. Il rêvait sur les brèves phrases latines, il leur prêtait les prolongements qu’elles ne disaient pas, il leur redonnait vie. Dans la marge il griffonna un plan scénographique de la bataille. Ici le pré ; là les lisières obliques qui le ferment
+
+['on', 'il', 'elle', 'personne', 'On']	Salagnon	Sa nuque disparaissait dans une bouillie sanglante, les instruments de peinture étaient renversés, l’encre mêlée au sang formait sur la table une flaque luisante d’un rouge très profond. Elle semblait dure ; [MASK] n’osa pas la toucher.On ne retrouva pas le jeune domestique.
+
+['moi', 'nous', 'lui', 'moi', 'vous']	Salagnon	Une femme s’avança vers nous, très droite, très sûre de ses pas, la peau recouverte d’un fin réseau de rides comme de la soie froissée. Elle avait le même âge que [MASK] et se dirigea vers moi en me tendant la main.
+
+['il', 'Il', 'ils', 'un', "l'"]	Salagnon	Deux types vêtus de noir leur barrèrent le passage en simplement levant la main, deux types maigres dont on voyait chaque muscle et qui portaient chacun un pistolet passé dans la ceinture. [MASK] insista, il avança, et fut bousculé. Il tomba sur les fesses, furieux.
+
+[',', 'bras', 'main', 'posée', 'ine']	Eurydice	Au moment d’ouvrir le portail pour en sortir, je me retournai pour les saluer de la main, et je vis qu’[MASK] sur son épaule, souriante, pleurait de tout ce que nous avions dit.Nous rentrâmes ;
+
+["l'", 'cheval', ',', 'à', 'ce']	Poséidon	] le jour qu’en te croisant, un autre voyageur demanderait pourquoi, sur ta brillante épaule, est cette pelle à grains, c’est là qu’il te faudrait planter ta bonne rame et faire à [MASK] le parfait sacrifice d’un bélier, d’un taureau et d’un verrat de taille à couvrir une truie
+
+['ailleurs', 'les', 'faire', 'son', 'reposer']	Naegelin	Les avions agitèrent leurs ailes et repartirent. On ramena une colonne de prisonniers qui marchèrent sans se faire prier, plutôt détendus, la veste sur l’épaule, les mains dans les poches, heureux d’en avoir enfin fini, et vivants.Le colonel alla voir [MASK].
+
+['Jean', 'il', 'Pierre', ',', 'alors']	Salagnon	Alors il leur faut s’entraîner davantage, être plus rapides, frapper encore plus fort.« Ils sont aussi beaux que nous l’étions, soupira [MASK], ils ont autant de force que nous en avions, et cela non plus ne servira tout autant à rien.
+
+['il', 'Il', 'elle', 'Elle', 'on']	Salagnon	Deux soldats ramenèrent le corps en le traînant par les pieds. [MASK] ne savait quoi faire, continuer de pisser, fuir, lever les mains. Il savait que l’on doit lever les mains quand on est pris, mais son activité l’en dispensait peut-être.
+
+['-', 'les', 'moi', 'vous', 'nous']	Teitgen	Laissez-moi travailler, [MASK]. Parmi mes gars, ceux qui ne veulent pas le faire, ils ne le font pas. Mais ceux qui ne laissent pas leur fardeau à d’autres, eh bien ils le portent.— Même ceux qui ne le font pas seront salis.
+
+['t-il', '-t-il', 'il', 't-elle', '-il']	Salagnon	« C’est lui, affirma [MASK] devant son oncle.— Ou pas.— Il n’aurait pas fui.— Ici, quoi que l’on ait fait, on fuit. Surtout un jeune homme dont les soutiens ont disparu. Si la police l’avait interrogé, il aurait été coupable.
+
+['t-il', 't-elle', '-t-il', 'e-t-il', 'a-t-il']	Mariani	« Mais écoute-moi ces conneries ! hurla [MASK] devant la télévision. Tu entends ? Dis, tu entends ? Mais ils disent qu’il est irlandais celui qui vient de gagner !— Gagner quoi ?— Mais le cinq mille mètres devant toi depuis dix minutes !
+
+['non', 'oui', 'alors', 'voyons', 'si']	Tobbal	Des années à battre la campagne, à vous filer entre les doigts, à ne croiser des gens que pour éventuellement les tuer, tu n’imagines pas combien cela fatigue. Je ne suis pas mécontent que cela s’arrête.— Ben [MASK], tu es juste prisonnier.
+
+['tout', ',', 'est', 'plus', 'fait']	Marinetti	J’aime bien, assis dans le noir, voir les films d’hélicoptères, avec le son du canon et le déchirement des mitrailleuses. C’est futuriste, beau comme du [MASK], ça excite le petit garçon que je suis resté, petit, et garçon, et pan
+
+['"', '...', 'le', ',', 'de']	Fobourdon	Il frotta doucement, les lignes dures fondirent, l’espace se creusa, la lumière vint. Le dessin est une pratique miraculeuse.« Vous êtes sûr des emplacements ? » demanda [MASK].Il sursauta, rougit, eut le réflexe de tout cacher de son coude et s’en voulut
+
+['elle', 'et', 'Elle', '"', 'il']	Salagnon	»Son cabas rempli de légumes à la main, bien droite, elle rentra, et elle referma la porte avec une énergie juste en dessous du claquement, mais à peine. [MASK] me tapota l’épaule.« Détends-toi. Cela s’est bien passé.
+
+['il', 'Il', 'celui-ci', 'Celui-ci', 'le']	Victorien	L’oncle dégrisé se redressa, il pouvait finir tout seul. Il serra gravement la main de son neveu, et quand il eut commencé à traverser le pont, [MASK] le rappela, le rejoignit en courant, et lui confia le projet de la Grande Institution.
+
+['il', ',', 'qui', 'et', 'se']	Salagnon	Quand la Kübelwagen grise apparut au virage, précédant deux camions, ils ouvrirent le feu sans attendre. D’un appui continu de l’index [MASK] vida le magasin de l’arme, puis en changea, cela dura quelques secondes, et il continua de tirer en changeant à peine l’axe de tir.
+

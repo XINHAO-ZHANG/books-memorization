@@ -1,0 +1,200 @@
+['</s>', '...', 'Monsieur', 'M.', '-']	HÉLÈNE	c'est la meilleure prière que vous puissiez faire pour moi. KERSAC. C'est qu'il y a longtemps que je vous connais. [MASK]. Il y a plus de deux ans. KERSAC. Et la petite, où est-elle donc?
+
+['On', 'Je', 'Il', 'Vous', 'on']	Marie	KERSAC. Oh! je me fatigue assez, sois tranquille. HÉLÈNE. Monsieur Kersac, [MASK] va croire qu'il suffit de se fatiguer pour contenter le bon Dieu. Il faut d'autres choses encore. KERSAC. Comment donc! certainement!
+
+['souff', 'madame', '...', '8', 'monsieur']	HÉLÈNE	vous êtes blessée? souffrez-vous? [MASK]. Je ne suis pas blessée, monsieur; je ne souffre pas. Mais je suis si étonnée, que je ne comprends pas; je ne sais pas du tout ce que vous voulez dire. KERSAC. Parbleu!
+
+['te', 'tu', 'se', 'Tu', 'et']	Jean	Tu as toujours été comme ça; je me souviens que, dans le pays, tout le monde t'aimait. Quand ils eurent bien causé, bien ri, et qu'ils se furent embrassés plus de dix fois, [MASK] demanda: «
+
+['monsieur', 'Monsieur', 'madame', 'ok', 'Madame']	JEAN	Jolie scène que tu m'as amenée avec ton enthousiasme et tes exclamations! [MASK]. Pardonnez-moi, monsieur. J'étais hors de moi! Je ne savais ce que je disais. Pourquoi m'avez-vous arraché de là, monsieur? J'y serais resté deux heures!
+
+['</s>', '"', 'la', '.', 'elle']	SUZANNE	Vous voulez donc rester fille? ajouta-t-il en souriant. [MASK]. Je n'épouserai jamais un homme que je ne connais pas, que je n'aime pas, et qui me demande pour la fortune que je dois avoir.
+
+['JEAN', '-', '...', ';', ',']	KERSAC	Cela va-t-il réellement bien, monsieur? [MASK]. Ma foi oui! j'ai encore quelque chose, mais ce n'est rien auprès de ce que j'avais hier. Sais-tu que tu es un fameux médecin? JEAN.
+
+['monsieur', 'Monsieur', 'madame', 'en', 'M.']	KERSAC	elle aurait eu de l'embarras, de la crainte de faire quelque sottise, de faire rire d'elle. Et moi, ça m'aurait fait souffrir; j'en aurais été tout démonté! JEAN. Vous avez fait pour le mieux, monsieur. Où allons-nous maintenant? [MASK].
+
+['personne', 'monsieur', 'Monsieur', 'madame', 'présent']	Jeannot	«Tu trouveras tes vingt francs dans un compartiment séparé; n'en dis rien à [MASK], je te le défends. JEAN. Je vous obéirai, monsieur, pour vous témoigner ma reconnaissance. Mais j'aurais préféré que vous les eussiez gardés pour pauvre maman.
+
+['les', ',', 'la', 'le', '(']	Kersac	Quand le palefrenier voulut partir, il lui glissa quarante francs dans la main. C'était beaucoup pour tous les deux. Ils se séparèrent avec force poignées de main. Cette jument fut une source de joie et de plaisir pour [MASK];
+
+['Il', 'Je', 'En', 'il', 'Et']	ABEL	Si vous aviez vu ses yeux quand il me parlait de vous et de ce qu'il vous devait! Quels yeux! Et quelle vivacité dans sa reconnaissance! Pauvre garçon! Il souffre de ne pas pouvoir vous le dire comme il le voudrait! [MASK].
+
+['S', 'A', 'm', '...', 'HA']	KERSAC	Ne dites pas ça. Ce serait terrible! Pensez donc! l'enfant de ma soeur! [MASK]. Oui, mais le père était un gueux, un gredin! Excusez, ma bonne dame Hélène, je ne voulais pas vous peiner;
+
+['le', 'ce', 'un', 'Le', 'dans']	JEAN	il ne faut jamais compter son argent sur les grandes routes, ni dans les auberges, ni devant des inconnus. Je viens dans le pays pour voir l'église de Sainte-Anne qui va être reconstruite. Je veux voir le vieux sanctuaire avant qu'on le détruise. [MASK].
+
+[',', 'donc', ';', 'alors', 'ainsi']	Jean	«Voyez, pensa-t-il, cet étranger, qui ne le connaît pas plus qu'il ne me connaît, se prend de goût pour lui, et moi il ne m'aime pas; il appelle [MASK] mon ami, mon brave garçon, et moi, pleurard, pleurnicheur, jaloux!
+
+['il', 'on', 'Il', 'et', 'chacun']	Jean	ils dînèrent à la hâte et grimpèrent leurs cinq étages, lestes et légers comme des écureuils. Ils se débarbouillèrent et se peignèrent avec soin. Puis commença la grande toilette; linge, habits furent encore examinés, retournés, admirés; [MASK] embrassait toutes les pièces dont il se revêtait.
+
+['de', 'le', 'la', 'à', ',']	JEAN	Mais puisqu'on les lui donnait. [MASK]. Tiens! comment avez-vous deviné ça? Ce monsieur nous dit qu'il avait ordre de nous habiller, qu'il était payé d'avance... et je ne sais quoi encore....
+
+['</s>', 'monsieur', 'vous', 'plus', 'hui']	JEAN	et je ne veux pas en entendre parler. [MASK]. C'est parce qu'il vous a offensé, monsieur, que vous ne l'aimez pas. Mais Notre Seigneur nous pardonne bien quand nous l'offensons, et il nous aime tout de même, et il nous fait du bien.
+
+['enfant', 'petit', 'fille', 'petite', 'enfants']	KERSAC	[MASK]. Je ne me souviens pas d'avoir été émotionné comme je l'ai été chez ce pauvre enfant. Je me suis senti remué jusqu'au fond de l'âme! Ce petit être souffrant, si doux, si tranquille, si heureux!
+
+['de', 'en', 'café', 'bu', ',']	Scipion	tant qu'ils seront là à faire leurs gambades, nous ne viendrons pas à bout de la foule. Tiens, vois donc, en voici qui reviennent, et en voilà d'autres qui s'arrêtent. Entre dans le café, [MASK], et dis-leur de finir leurs évolutions.»
+
+['vous', ',', '-', 'Monsieur', 'même']	JEAN	[MASK]. Vous-même? Ah! monsieur, que je vous remercie! Pauvre maman! comme elle sera contente! Vous demanderez la femme Hélène Dutec, on vous y mènera; c'est sur la route, une petite maison isolée, entourée de lierre.
+
+[',', 'se', 'le', 'il', 'de']	Daniel	Sois gentil: dis adieu à ma tante, et viens avec moi. Le voisin Grégoire a donné à maman une bonne galette et un pot de cidre pour nous faire un bon souper, et puis [MASK] nous a donné un lapin qu'il venait de tuer.»
+
+['tout', 'de', 'le', '...', 'S']	Jean	J'en porte tous les jours de cent fois plus lourds! Ah! ah! ah! vous me croyez donc la force d'une puce? Ah! ah! ah! ce paquet trop lourd! La bonne farce!» Et il partit riant, ainsi que [MASK];
+
+['</s>', '...', '.', 'de', 'lui']	SUZANNE	Mais, chère enfant, vous connaissez le duc de G...: vous l'avez vu bien des fois. [MASK]. Ce que j'en connais ne me convient pas. Il parle légèrement de tout ce qui me plaît, de tout ce que j'aime!
+
+['aussi', 'peu', 'beaucoup', 'bien', 'peut-être']	Jean	et depuis si longtemps! Je serai près du bon Dieu, près de la bonne sainte Vierge; papa, maman et ma soeur me rejoindront; et toi aussi, [MASK]. Je t'aime déjà un peu.... Oh! mon Dieu! mon Dieu! je souffre!
+
+['se', ',', 'la', "s'", ';']	Jean	Occupe-toi maintenant de hâter ton mariage; tu comprends que tous les frais sont à ma charge, puisque c'est moi qui l'oblige à te marier.» [MASK] sourit et remercia du regard plus qu'en paroles. La noce fut superbe;
+
+['tout', 'le', 'TRAN', 'très', 'et']	Jean	Et je suis tranquille quand ils se reposent.... Mon ami Abel t'aime beaucoup, [MASK],... parce que tu aimes bien le bon Dieu.... Et moi aussi, je t'aime pour cela, et je suis content quand tu es là, près de mon lit....
+
+['NE', ',', 'SE', 'VOUS', 'le']	MARIE	[MASK]. Vous? Oh! vous savez que je vous aime bien, que je vous aimerai toujours. (Elle l'embrasse et lui dit à l'oreille: «plus que tout le monde,... vous comprenez?») Et puis c'est vilain d'être jaloux;
+
+['de', 'le', 'la', "l'", ',']	Jean	Et toi qui es pieux, tu dois savoir que plus on souffre, plus on est heureux dans l'autre monde.... Je mourrai bientôt, et je serai bien, bien heureux avec le bon Dieu.... Je prierai pour toi, [MASK], quand je serai là-haut.»
+
+['se', "s'", ',', "d'", "l'"]	Aimée	Au milieu de cette prospérité il a eu deux peines assez vives; d'abord il n'a pas d'enfants. Ensuite, [MASK], mal conseillée par sa mère, menait une vie trop dissipée, faisait trop de dépenses de toilette, de vanité;
+
+["d'", 'par', 'à', 'vous', 'de']	Marie	Voici ce que c'est, monsieur. Je me sens pour [MASK] un attrait qui me ferait vraiment désirer de l'épouser. Et il m'est impossible de me marier, parce qu'en me mariant ainsi, mon beau-père et ma mère voudraient nous garder près d'eux.
+
+['moi', 'nous', 'vous', 'lui', 'eux']	Simon	. Oh! monsieur, vous avez été pour [MASK] et pour moi si bon, si bon, que si je ne craignais de vous fâcher, je dirais (ce que je pense, au reste) qu'il n'y a pas de saint meilleur que vous.
+
+['si', 'vous', 'alors', 'voyons', 'et']	Hélène	Si vous dites non, vous êtes une ingrate, un mauvais coeur; vous me donnez du chagrin en récompense de ce que j'ai fait pour vous. Voyons, [MASK], répondez, au lieu de me regarder d'un air effaré, comme si je venais vous égorger.
+
+[',', 'de', 'le', "l'", 'à']	Jean	Et toi, mon pauvre garçon, ajouta-t-il en s'adressant �� [MASK] et en reprenant sa voix calme, ne t'afflige pas. Ce vaurien a besoin d'avoir les épaules un peu caressées par le fouet; tant que nous serons ensemble, je le rendrai docile sinon aimable.»
+
+['moi', 'non', 'plus', 'je', 'toi']	Jean	Je n'aimais pas, [MASK], à te savoir sur les grandes routes, avec si peu d'argent, un si long voyage devant toi, et tant de mauvais garnements que l'on est exposé à rencontrer. Un pauvre enfant, ça n'a pas de défense.
+
+['elle', 'il', 'celle-ci', 'Jean', 'celui-ci']	Kersac	«Eh bien, dit-elle, que ferez-vous? —J'irai, dit [MASK]; la ferme n'en souffrira pas, bien que la saison soit encore aux labours et aux semailles; je ne serai absent que trois ou quatre jours.
+
+['</s>', '.', '?', '"', '_']	JEAN	Il est déjà perdu, mon enfant; et il était en bon train avant d'y entrer. Que puis-je y faire? Comment changer un coeur mauvais et ingrat? [MASK]. Si ses maîtres voulaient bien s'occuper de lui donner de sages et bons camarades!
+
+[',', 'de', 'le', 'à', 'la']	Kersac	[MASK], se réservant pour le soir, prit un terme moyen; il ne prit qu'une gorgée à chaque toast; mais les gorgées devenaient de plus en plus fortes; les dernières ne laissèrent que peu de gouttes dans le verre. Le déjeuner était excellent;
+
+['</s>', '.', ',', 'de', '"']	HÉLÈNE	[MASK]. Cela ne m'étonnerait pas, monsieur; et si son frère Simon n'avait pas compté sur lui et ne lui avait par avance assuré une place, je me serais trouvée bien heureuse de le savoir chez vous et si près de moi.
+
+['ma', '_', 'la', 'votre', 'MAD']	JEAN	j'ai pensé que vous aimeriez mieux ranger vos affaires vous-même. SIMON. Ma malle! mes effets! Mais je n'ai pas de malle, et mes effets sont dans le paquet que j'ai apporté. [MASK].
+
+['Il', 'il', 'Jean', 'Charles', 'Pierre']	Jean	Qu'est-ce que tu as donc? Une bête entrée dans l'oeil?» [MASK] regarda sa mère; ses yeux étaient remplis de larmes; il voulut sourire et parler, mais le sourire était une grimace, et la voix ne pouvait sortir du gosier.
+
+['</s>', '.', 'toi', 'moi', '--']	CAÏN	Celui qui aura ces quatre tableaux aura une des plus belles et des plus charmantes choses qui auront été faites en peinture. ABEL. Personne ne les aura jamais; c'est pour moi que je travaille. [MASK]. Tu es fou! Tu vendrais ces quatre tableaux quarante ou cinquante mille francs!
+
+[',', 'de', 'se', 'il', 'le']	Jean	[MASK] ne se possédait pas de joie; avoir chez lui, à lui appartenant, les portraits des deux êtres qu'il aimait le plus au monde, et ces portraits, faits par une main si chère, étaient pour lui le beau idéal;
+
+['.', ',', 'DE', '"', '!']	TANTE	LA [MASK]. Je ne peux pas venir à bout de ce garçon-là; il est là qui hurle depuis une heure; il ne veut pas m'obéir; je lui ai dit plus de dix fois d'aller te rejoindre chez ta mère.
+
+[',', 'de', 'le', 'se', 'en']	Jean	[MASK] faisait de son côté l'apprentissage de garçon de café; son intelligence, sa gaieté, sa bonne volonté, sa prévenance le mirent promptement dans les bonnes grâces des habitués du café; on aimait à le faire jaser, à se faire servir par lui;
+
+['"', '</s>', 'roi', '.', 'maître']	JEAN	«Est-il content chez son épicier? dit-il. [MASK]. Pas toujours, monsieur; la semaine dernière il était en colère contre un prétendu Anglais qui l'a fait promener et enrager, et qui n'était pas plus Anglais que vous et moi, monsieur.
+
+['S', 'à', '"', 'R', '...']	KERSAC	Oui, mille fois oui, monsieur. Pouvez-vous douter du bonheur avec lequel j'accepte ce nouveau bienfait? [MASK]. A la bonne heure donc! Ce coquin de Simon! m'a-t-il causé du tourment!»
+
+['une', 'un', 'cette', 'la', 'des']	Jean	Il n'est pas possible qu'il tienne beaucoup à [MASK], qu'il ne connaît pas; c'est donc pour le plaisir de me faire du mal, pour me jeter tout seul sur la grande route! Que je déteste cet homme!
+
+['je', 'maman', 'il', 'elle', 'tout']	Jean	—Cher monsieur Kersac, répéta [MASK], que vous êtes bon d'être venu, de vous être dérangé, d'avoir quitté votre ferme! Que je suis donc heureux de vous voir! Donnez-moi des nouvelles de maman. Si vous saviez comme je suis content de la savoir chez vous!
+
+['S', 'tous', 'le', 'tout', 'deux']	Jeannot	Et vous seriez méchant pour [MASK]? C'est impossible! Mon bon, cher bienfaiteur, ayez pitié de lui, pardonnez-lui, sauvez-le. M. ABEL. Écoute, mon enfant, pour toi, par amitié pour toi, je ferai ce que tu me demandes, mais....
+
+['on', 'il', 'celui-ci', 'Abel', 'elle']	Jean	Je ferai de mon mieux; mais c'est si peu de chose!» Le lendemain, lorsque [MASK] servit le déjeuner de M. Abel, celui-ci lui trouva un air tout embarrassé. «Qu'y a-t-il, mon enfant?
+
+['lui', 'elle', 'eux', 'nous', 'moi']	Jeannot	il en tira une cuisse de lapin et un morceau de pain. «La galette sera pour ce soir», dit-il. Il partagea le lapin avec [MASK], lui donna une tranche de pain, en garda une, et ils commencèrent leur modeste repas.
+
+['alors', 'voyons', 'toi', 'Voyons', 'allons']	Jeannot	Voyons, [MASK], sois raisonnable! Je pars comme toi; est-ce que je crie, est-ce que je pleure comme toi! Puisqu'il faut partir, à quoi ça sert de pleurer? Que fais-tu de bon ici? rien du tout.
+
+['on', ',', 'tout', 'qui', 'de']	Marie	Les amis sont toujours dévoués et reconnaissants; sans cela ce ne sont plus des amis.... Et le dîner que nous oublions! [MASK] va rentrer, et si je n'ai pas quelque chose à mettre dans mon pauvre estomac, je la mange à la croque au sel.»
+
+['la', 'de', 'ma', 'le', 'me']	Aimée	avant lui, je n'avais rien; j'envoyais à ma mère tout ce que je gagnais. Et ce billet de mille francs, prenez-le comme cadeau de noces pour [MASK], ma mère: achetez ce que vous croirez lui être utile et agréable.»
+
+['souff', 'il', 'elle', 'couv', 'considé']	Kersac	et vous ne ferez jamais rien de vilain.» Le dîner était prêt; ils se mirent à table. [MASK] rit longtemps de la promesse de sa fille adoptive et mangea comme un homme qui vient de faire sept lieues et qui est encore à jeun à une heure de l'après-midi.
+
+['</s>', '_', '.', '"', '-']	JEAN	Si ce n'était ton camarade, je te flanquerais dehors et je te laisserais faire ta route à pied. [MASK]. Oh! monsieur, pardonnez-lui! Il ne sait ce qu'il dit quand il a peur. C'est une nature comme ça?
+
+['on', 'il', 'qui', 'je', 'elle']	Jeannot	Pas moi, monsieur, mais [MASK] dit vrai; bien des personnes les ont vues. Un cousin de M. le maire, qui chassait, a vu le loup et a couru après. L'institutrice de Mademoiselle a vu la louve, qui l'a suivie longtemps.
+
+['marteau', 'on', 'frappa', ',', 're']	Jeannot	j'ai donné vingt sous. LE SAUVAGE. Recommencez, monsieur, le marteau s'est trompé. Dame! il se trompe quelquefois. Allons, marteau, recommence; récompense ou punis.» [MASK] donna une seconde pièce de vingt sous. Le marteau frappa;
+
+['.', '</s>', ',', 'de', 'et']	KERSAC	Et moi donc? Est-ce que je puis oublier notre bienfaiteur et le protecteur de mon petit Jean? Tout ce qui est ici vous rappelle à notre souvenir, tout vient de votre charité, de votre bonté. [MASK]. Vous pouvez bien ajouter: et de mon amitié.
+
+['"', ',', 'de', 'somme', 'le']	CAÏN	Que me font quarante mille francs ajoutés à tout ce que j'ai déjà gagné et à ce que je puis gagner encore, moi qui vis comme un artiste et qui ai à peine vingt-huit ans. [MASK]. Tu as raison; mais c'est dommage!»
+
+['celui-ci', 'Monsieur', 'monsieur', 'celui-là', 'madame']	Simon	Il ne fallait pas lui faire transporter un bocal pour commencer. Au revoir, je m'en vais, moi, avec mon débutant. PONTOIS. Il est gentil, celui-ci! Dites donc, [MASK], voulez-vous changer? Reprenez l'autre et donnez-moi celui-ci.
+
+['il', 'Il', 'me', 'et', 'vous']	Jeannot	Tout le monde peut voir, monsieur, que je n'ai rien dans les mains, rien dans les poches. Une troisième épreuve, monsieur; essayez, vous n'aurez pas perdu pour attendre.» [MASK] tendit en grommelant une troisième pièce de vingt sous.
+
+['tu', 'ton', 'un', "quelqu'", 'toi']	Barcuss	Tu sais que tu es convenu avec moi de ne me remercier que par les yeux. Si quelqu'un t'entendait, on pourrait croire que je suis réellement ton sauveur, ton bienfaiteur. Je veux être ton ami et ton protecteur, rien de plus. Voici [MASK].
+
+['celui-ci', 'Madame', 'le', 'Jacques', 'Mr']	Barcuss	il montait lentement, avec respect pour la belle étoffe, regardait à chaque marche s'il ne l'avait pas salie avec ses bottes couvertes de poussière. Le concierge le fit entrer dans l'antichambre et alla prévenir [MASK].
+
+[',', 'ON', 'ON', 'D', 'est']	CAÏN	Je vais me mettre à la besogne; et, tout en me regardant peindre, tu tâcheras de trouver une idée, et une bonne. Dépêche-toi, pour que je l'apporte demain à mon petit Jean. [MASK]. Je crois que tu n'attendras pas longtemps;
+
+['Il', 'Elle', 'il', 'On', '</s>']	Barcuss	KERSAC. Pourquoi ça? JEAN. Parce que..., parce qu'il a des idées qui ne sont pas les miennes et des goûts que je n'ai pas.» [MASK] interrompit la conversation pour les engager à aller déjeuner.
+
+['ça', 'vous', 'çà', 'je', '...']	Jeannot	Eh bien! que fais-tu là? Tu ne vas pas te coucher, comme [MASK]? JEAN. Je vais coucher près de vous, monsieur, je dormirai très bien sur une chaise. KERSAC. Es-tu fou? Passer une nuit sur une chaise?
+
+['ta', 'ton', 'tu', 'te', "l'"]	JEAN	L'ÉTRANGER. Attends, mon garçon; laisse tes vingt francs dans ta bourse, il n'y a pas besoin de te presser. Et d'abord, puisque je suis un voleur, ne crains-tu pas que je te vole ton argent? [MASK].
+
+['il', 'elle', 'celui-ci', 't-il', '-il']	Roger	la pâleur du visage, la difficulté de la respiration annonçaient une aggravation sérieuse dans son état. «Venez, mon bon monsieur Kersac, dit [MASK] d'une voix entrecoupée; venez.... Je ne vous verrai plus,... mais je prierai pour vous.... Adieu,... adieu....
+
+['</s>', '.', '"', '_', '...']	CAÏN	Excellent enfant! Quel coeur reconnaissant! Quel beau et noble regard! Il est parfaitement rendu dans mon tableau; c'est ce qui en fera la beauté et le succès. [MASK]. Quarante mille francs ne sont pas à dédaigner.
+
+['</s>', ',', 'un', 'le', 'je']	JEAN	Pour le placer, il faut que je sache tout. Parle-moi bien franchement, comme à un ami que tu ne veux pas tromper; réponds seulement aux questions que je vais te faire. Le crois-tu honnête? [MASK], hésitant et baissant les yeux.
+
+['JEAN', 'NE', '...', 'Jean', 'BLANC']	SIMON	JEAN. Tout juste, il t'a fait dire d'aller avec nous à l'hôtel Meurice avant neuf heures; passé neuf heures, on ne le trouve plus. [MASK]. Je le sais bien. Pouvez-vous venir me prendre? JEAN.
+
+['vous', 'de', 'je', '...', 'votre']	KERSAC	Brave garçon, cet enfant! j'en suis fou;... mais il ne s'agit pas de ça; il s'agit de vous. HÉLÈNE. Mais parlez donc, monsieur, vous me faites une peur! [MASK].
+
+['celui-ci', 'Lucien', 'Jean', 'M.', 'monsieur']	Jean	L'intérêt qu'il semblait prendre à la conversation enhardit [MASK]; il lui dit avec quelque hésitation: «Monsieur, voudriez-vous me rendre service, mais un bien grand service? L'ÉTRANGER. Très volontiers, si c'est possible, mon ami.
+
+['.', '"', '...', 'toi', 'lui']	MARIE	KERSAC. Si fait, tu le connais; tu sais que c'est le bon Dieu qui t'a créée, qui te donne tout ce que tu as. [MASK]. Je le sais bien, mais je ne vois pas les choses qu'il me donne.
+
+['le', ',', 'tout', 'de', 'par']	Kersac	il enleva [MASK] de sa poigne vigoureuse, aida la petite dame à s'arranger tant bien que mal. Elle avait eu à peine le temps de remettre en place nattes, chignon et crépons, et de rattacher sa robe avec quelques épingles, que le convoi arrêta;
+
+['monsieur', 'Monsieur', 'M.', 'mon', 'votre']	Jean	Certainement, mon ami; donnez-lui tout ce que vous voudrez. BARCUSS. Et monsieur veut-il me permettre de donner un petit congé à [MASK], pour qu'il soit libre de promener son ami? M. DE GRIGNAN.
+
+['moi', 'voir', '?', 'nous', '</s>']	KERSAC	«J'ai été bien des jours sans vous voir, mon bon ami; pourquoi êtes-vous resté si longtemps sans venir? [MASK]. Parce que c'est le temps de la moisson, ma petite Marie, et que, dans ces moments-là, hommes et chevaux ont bien à faire.
+
+['celui-ci', 'maman', 'celle-ci', 'Marie', 'Henri']	Jean	«C'est notre dernière nuit heureuse, maman, dit [MASK] en l'embrassant avant de se coucher. —Non, mon enfant, pas la dernière; laissons marcher le temps, qui passe bien vite, et nous nous retrouverons.
+
+['il', 'Il', 'roi', 'en', '"']	Jeannot	» Il ouvrit le papier et lut tout haut: « Voleur ! Un sou, dit-il; toujours de même. C'est un marteau magique, messieurs, mesdames; il récompense et punit.» [MASK] restait ébahi et furieux; la foule répétait: Voleur!
+
+['il', 'et', 'Il', 'elle', 'puis']	Kersac	Puis il la lâcha si subitement, qu'elle alla tomber sur un banc qui se trouvait derrière elle. La surprise et la chute la rendirent immobile! [MASK] crut l'avoir blessée sérieusement. «Animal que je suis! s'écria-t-il.
+
+['</s>', 'je', 'tu', 'de', 'ne']	JEAN	KERSAC. Tu ne vas pas te moquer de moi, d'avoir bien fait? [MASK]. Me moquer de vous? moi, monsieur? Rire de vous au moment où vous agissez comme Notre Seigneur? au moment où je vous admire, où je vous aime?
+
+['il', ',', 'on', 'et', 'se']	Jeannot	aucun ne croyait avoir à le payer. Ils firent leurs invitations. Il y avait plus de danseurs que de gentilles danseuses, de sorte que les laides furent engagées aussi bien que les jolies. [MASK] trouva toutes les demoiselles déjà retenues; il ne restait que la grosse rousse;
+
+['"', '_', '--', '-', '</s>']	HÉLÈNE	LE CURÉ. «Quand donc partent-ils? [MASK]. Demain matin de bonne heure, monsieur le curé. LE CURÉ. Demain, déjà! Je vous bénis de tout mon coeur et du fond du coeur, mes enfants.
+
+['de', 'à', ',', 'sa', 'et']	Marie	Pauvre, pauvre enfant! La misère m'oblige à l'envoyer à son frère. Dieu de bonté, protégez-le! [MASK], mère de miséricorde, ne l'abandonnez pas, veillez sur lui!» La pauvre femme pleura quelque temps encore;
+
+['il', "s'", 'Il', "l'", 'et']	Kersac	[MASK] essaya, tout doucement d'abord, puis plus franchement; enfin il s'appuya sur son pied comme avant l'accident. «C'est merveilleux! c'est admirable! C'est que je ne souffre plus du tout; du malaise seulement, pas autre chose.
+
+['"', 'personne', ',', 'le', 'toute']	Jean	Tiens! où s'est-il donc caché?» La tante sortit elle-même, fit le tour de la maison, appela et, comme [MASK], ne trouva personne. «Se serait-il sauvé, par hasard, pour ne pas t'accompagner demain?»
+
+['S', 'TRES', 'ES', 'EST', 'IT']	JEANNOT	Mais ce punch que j'ai dû payer! Tu sais que c'est huit francs. JEAN. Comment, huit francs? J'en ai payé la moitié, ce n'est que quatre francs. [MASK], embarrassé . C'est vrai! Je n'y pensais plus....
+
+['toi', 'moi', 'lui', 'elle', 'eux']	Simon	Tu as manqué me trahir.... Crois-tu donc que ce que j'ai fait pour [MASK], je ne l'aurais pas fait pour toi? toi, mon ami, mon confident!» ajouta-t-il en riant.
+
+[',', 'le', 'se', 'en', 'à']	Jean	tu mangeras avec moi; les bouchées que j'avalerais me resteraient dans le gosier si je me donnais un bon dîner pendant que tu grignoterais des os et du pain dur. Demande deux couverts,... entends-tu? Deux couverts!» [MASK] restait immobile;
+
+['faire', 'avoir', 'attendre', 'perdre', 'espérer']	JEAN	une fameuse place, va; des gens très riches; j'ai quatre cents francs de gages pour commencer; habillé comme un prince, nourri comme un roi! Presque rien à faire, et puis des profits. [MASK]. Quels profits peux-tu avoir?
+
+['tous', "l'", 'la', 'chacun', 'un']	Jeannot	Alors seulement ils furent reconnus, interrogés, applaudis. On rit beaucoup de l'invention du marteau magique et de l'attrape faite à [MASK]. Après le repas, qui dura de sept heures à neuf, les violons se firent entendre, les danses commencèrent.
+
+['toi', 'présent', 'Dieu', 'hier', 'tous']	Simon	Dis donc, petit drôle, pour la première fois, passe; mais une seconde fois, tu payes. J'ai promis à [MASK] que tu aurais dix francs par mois, nourri, vêtu, logé, blanchi. Prends garde que les dix francs ne filent à payer la casse.
+
+['S', 'M', 'm', '"', 'de']	SUZANNE	Dites-moi le fond de votre pensée. Que voulez-vous dire par là? [MASK], souriant . Si vous ne le comprenez pas, demandez-en l'explication à maman; elle vous la donnera. La voici qui vient, tout juste; je me sauve.»
+
+['de', ',', 'la', 'le', 'or']	JEAN	tu me rendras service, car je suis pressé d'aller à mes affaires pour les porcs. Attends-moi ici; je serai de retour dans deux heures. Après l'avoine tu feras boire mon cheval. [MASK]. Oui, oui, monsieur, je sais bien;
+
+['</s>', '?', '_', '…', '"']	JEAN	Je te dirai ça quand j'y serai et que je saurai bien au juste ce que c'est. Et toi, où vas-tu si bien habillé? [MASK]. J'entre aussi, moi, dans une maison où m'a placé notre cher bienfaiteur M. Abel.
+
+['...', 'DE', 'LOR', 'LY', 'VOTRE']	KERSAC	«Ma bonne dame, savez-vous où demeure la femme Hélène Dutec?» La femme se releva vivement. HÉLÈNE. C'est moi, monsieur. Vous venez sans doute pour la petite fille? [MASK]. Pas du tout; c'est pour vous que je viens;
+
+['elle', 'il', 'on', 'celle-ci', 'vous']	Aimée	«Ne cède jamais pour ce qui est mal ou qui mène au mal, mon ami; pour le reste, laisse faire le plus que tu pourras. Avec les années, [MASK] deviendra raisonnable; elle comprendra alors et approuvera ta conduite, elle t'en aimera et t'en respectera davantage.»
+
+['</s>', '"', '.', 'non', '...']	JEAN	Tu ne vas pas rester là, je pense? [MASK]. Pardon, monsieur; à moins que vous ne me chassiez, je resterai près de vous pour vous servir, jusqu'à ce que vous soyez en état de monter en carriole pour retournez chez vous.
+
+['"', 'ceux', ',', 'ce', 'celui']	Jocrisse	C'était une vraie comédie. DEUXIÈME SERGENT. Et assez drôle, tout de même. L'épicier était-il en colère! Et le petit épicier qui pleurait comme un imbécile! PREMIER SERGENT. Ah oui! cette espèce de [MASK] qu'on appelle Jeannot .»
+

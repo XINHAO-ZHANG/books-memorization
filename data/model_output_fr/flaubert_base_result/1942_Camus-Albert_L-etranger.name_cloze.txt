@@ -1,0 +1,200 @@
+['certains', 'papa', 'maman', 'les', 'harry']	Marie	Il avait un pantalon bleu et une chemise blanche à manches courtes. Mais il avait mis un canotier, ce qui a fait rire [MASK], et ses avant-bras étaient très blancs sous les poils noirs. J’en étais un peu dégoûté.
+
+['lui', 'me', 'se', 'david', 'chacun']	Raymond	Ils ont reculé lentement, sans cesser de nous regarder et de nous tenir en respect avec le couteau. Quand ils ont vu qu’ils avaient assez de champ, ils se sont enfuis très vite, pendant que nous restions cloués sous le soleil et que [MASK] tenait serré son bras dégouttant de sang.
+
+['elle', "c'", "s'", 'maman', 'marie']	Marie	Je lui ai dit que « c’était bon » et il était de cet avis. Peu après, [MASK] est venue. Je me suis retourné pour la regarder avancer. Elle était toute visqueuse d’eau salée et elle tenait ses cheveux en arrière.
+
+['m', 'celui-ci', 'maman', 'pierre', 'bernard']	Salamano	Mais comme un chien vit moins qu’un homme, ils avaient fini par être vieux ensemble. « Il avait mauvais caractère, m’a dit [MASK]. De temps en temps, on avait des prises de bec. Mais c’était un bon chien quand même. »
+
+['moi', 'nous', 'lui', 'toi', 'vous']	Céleste	Après l’enterrement, au contraire, ce sera une affaire classée et tout aura revêtu une allure plus officielle. J’ai pris l’autobus à deux heures. Il faisait très chaud. J’ai mangé au restaurant, chez [MASK], comme d’habitude.
+
+['</s>', "m'", 'il', 'lui', '"']	Raymond	Le procureur lui a demandé alors comment il se faisait que la lettre qui était à l’origine du drame avait été écrite par moi. [MASK] a répondu que c’était un hasard. Le procureur a rétorqué que le hasard avait déjà beaucoup de méfaits sur la conscience dans cette histoire.
+
+['eux', 'vous', 'lui', 'elles', 'moi']	Céleste	J’ai fumé ensuite des cigarettes, toujours couché, jusqu’à midi. Je ne voulais pas déjeuner chez [MASK] comme d’habitude parce que, certainement, ils m’auraient posé des questions et je n’aime pas cela.
+
+['celle', 'loin', 'trace', 'claire', 'anna']	Marie	J’ai rencontré le regard du journaliste à la veste grise et de la femme automate. Cela m’a donné à penser que je n’avais pas cherché [MASK] du regard pendant tout le procès. Je ne l’avais pas oubliée, mais j’avais trop à faire.
+
+['il', 'elle', 'on', 'dieu', 'jésus']	Raymond	Si l’autre intervient, ou s’il tire son couteau, je le descendrai. » Quand [MASK] m’a donné son revolver, le soleil a glissé dessus. Pourtant, nous sommes restés encore immobiles comme si tout s’était refermé autour de nous.
+
+['je', 'moi', 'elle', 'me', 'lui']	Raymond	Je vais t’apprendre à me manquer. » Quelques bruits sourds et la femme a hurlé, mais de si terrible façon qu’immédiatement le palier s’est empli de monde. Marie et moi nous sommes sortis aussi. La femme criait toujours et [MASK] frappait toujours.
+
+['</s>', '"', 'il', 'on', 'elle']	Emmanuel	Le bureau donne sur la mer et nous avons perdu un moment à regarder les cargos dans le port brûlant de soleil. À ce moment, un camion est arrivé dans un fracas de chaînes et d’explosions. [MASK] m’a demandé « si on y allait »
+
+['lui', 'moi', 'toi', 'cela', 'vous']	Salamano	Il est assez petit, avec de larges épaules et un nez de boxeur. Il est toujours habillé très correctement. Lui aussi m’a dit, en parlant de [MASK] : « Si c’est pas malheureux ! » Il m’a demandé si ça ne me dégoûtait pas et j’ai répondu que non.
+
+['il', 'on', 'et', 'se', 'je']	Salamano	» Tous les soirs et tous les matins, depuis que le chien avait eu cette maladie de peau, [MASK] le passait à la pommade. Mais selon lui, sa vraie maladie, c’était la vieillesse, et la vieillesse ne se guérit pas.
+
+['celui', 'celle', ',', 'm.', 'mirabeau']	Masson	Mais l’huissier, sur un signe du président, l’a emmenée et l’audience s’est poursuivie. C’est à peine si, ensuite, on a écouté [MASK] qui a déclaré que j’étais un honnête homme « et qu’il dirait plus, j’étais un brave homme ».
+
+['elle', "c'", 'il', 'maman', 'tout']	Marie	En sortant, elle est venue chez moi. Quand je me suis réveillé, [MASK] était partie. Elle m’avait expliqué qu’elle devait aller chez sa tante. J’ai pensé que c’était dimanche et cela m’a ennuyé : je n’aime pas le dimanche.
+
+['</s>', 'il', 'et', 'lui', 'on']	Céleste	Moi, je n’ai rien dit, je n’ai fait aucun geste, mais c’est la première fois de ma vie que j’ai eu envie d’embrasser un homme. Le président lui a encore enjoint de quitter la barre. [MASK] est allé s’asseoir dans le prétoire.
+
+['lui', 'elle', 'eux', 'moi', 'vous']	Emmanuel	» Quand je suis parti, ils m’ont accompagné à la porte. J’étais un peu étourdi parce qu’il a fallu que je monte chez [MASK] pour lui emprunter une cravate noire et un brassard. Il a perdu son oncle, il y a quelques mois.
+
+['on', '</s>', 'il', 'elle', 'celui-ci']	Raymond	Bien sûr, il y a longtemps que je voulais lui acheter un collier moins grand. Mais je n’aurais jamais cru que cette charogne pourrait partir comme ça. » [MASK] lui a expliqué alors que le chien avait pu s’égarer et qu’il allait revenir.
+
+['</s>', 'il', "m'", 'elle', '"']	Raymond	« Enlève ta cigarette de la bouche quand tu me parles », a dit l’agent. [MASK] a hésité, m’a regardé et a tiré sur sa cigarette. À ce moment, l’agent l’a giflé à toute volée d’une claque épaisse et lourde, en pleine joue.
+
+['il', 'ça', 'cela', 'tout', 'elle']	Pérez	Je me suis retourné une fois de plus : [MASK] m’a paru très loin, perdu dans une nuée de chaleur, puis je ne l’ai plus aperçu. Je l’ai cherché du regard et j’ai vu qu’il avait quitté la route et pris à travers champs.
+
+['</s>', 'on', 'il', 'elle', '"']	Raymond	Il s’agissait d’un drame crapuleux de la plus basse espèce, aggravé du fait qu’on avait affaire à un monstre moral. [MASK] a voulu se défendre et mon avocat a protesté, mais on leur a dit qu’il fallait laisser terminer le procureur.
+
+['maman', 'ça', 'je', 'cela', 'tout']	Marie	J’ai remarqué qu’il était en face de la petite vieille et que tous les deux se regardaient avec intensité. Mais je n’ai pas eu le temps de les observer plus longtemps parce que [MASK] m’a crié qu’il fallait espérer. J’ai dit :
+
+['</s>', 'il', 'on', 'et', 'lui']	Masson	Alors, il s’est mis en colère et nous a insultés. [MASK] a déclaré qu’il ne fallait pas le contrarier. Moi, je l’ai suivi quand même. Nous avons marché longtemps sur la plage. Le soleil était maintenant écrasant.
+
+['il', 'on', 'elle', ',', 'qui']	Raymond	Je ne sais pas pourquoi j’ai pensé à maman. Mais il fallait que je me lève tôt le lendemain. Je n’avais pas faim et je me suis couché sans dîner. V [MASK] m’a téléphoné au bureau.
+
+['il', '</s>', 'on', 'je', 'papa']	Masson	Il y avait ensuite de la viande et des pommes de terre frites. Nous mangions tous sans parler. [MASK] buvait souvent du vin et il me servait sans arrêt. Au café, j’avais la tête un peu lourde et j’ai fumé beaucoup.
+
+['il', 'papa', 'qui', 'lui', 'dieu']	Raymond	Je n’entendais que les coups de mon sang qui bourdonnait à mes oreilles. Je suis resté immobile. Mais dans la chambre du vieux Salamano, le chien a gémi sourdement. IV J’ai bien travaillé toute la semaine, [MASK] est venu et m’a dit qu’il avait envoyé la lettre.
+
+['accord', 'concorde', 'espérance', 'blanc', 'hollande']	Raymond	J’ai trouvé que sa façon de voir les événements ne manquait pas de clarté. Ce qu’il disait était plausible. J’avais écrit la lettre d’accord avec [MASK] pour attirer sa maîtresse et la livrer aux mauvais traitements d’un homme « de moralité douteuse ».
+
+['il', 'dieu', 'jésus', 'ii', 'lui']	Raymond	Mais [MASK] m’a demandé d’attendre et il m’a dit qu’il aurait pu me transmettre cette invitation le soir, mais qu’il voulait m’avertir d’autre chose. Il avait été suivi toute la journée par un groupe d’Arabes parmi lesquels se trouvait le frère de son ancienne maîtresse.
+
+['chacun', 'tous', 'george', 'celle-ci', 'celui-ci']	Marie	Puis il a dit avec quelque ironie qu’il ne voudrait pas insister sur une situation délicate, qu’il comprenait bien les scrupules de [MASK], mais (et ici son accent s’est fait plus dur) que son devoir lui commandait de s’élever au-dessus des convenances.
+
+['maman', 'on', 'papa', 'ça', 'dieu']	Raymond	Il a remarqué que le temps passait vite et, dans un sens, c’était vrai. J’avais sommeil, mais j’avais de la peine à me lever. J’ai dû avoir l’air fatigué parce que [MASK] m’a dit qu’il ne fallait pas se laisser aller.
+
+['il', 'on', 'dieu', 'elle', 'je']	Raymond	Nous sommes sortis et [MASK] m’a offert une fine. Puis il a voulu faire une partie de billard et j’ai perdu de justesse. Il voulait ensuite aller au bordel, mais j’ai dit non parce que je n’aime pas ça.
+
+['elle', 'il', "j'", 'ça', 'celle-ci']	Marie	Mais, tout d’un coup, [MASK] a éclaté en sanglots, a dit que ce n’était pas cela, qu’il y avait autre chose, qu’on la forçait à dire le contraire de ce qu’elle pensait, qu’elle me connaissait bien et que je n’avais rien fait de mal.
+
+['arabe', 'il', 'en', 'et', 'musulman']	Masson	[MASK] est allé à celui qu’on lui avait désigné et il a frappé deux fois avec tout son poids. L’Arabe s’est aplati dans l’eau, la face contre le fond, et il est resté quelques secondes ainsi, des bulles crevant à la surface, autour de sa tête.
+
+['ma', 'mon', 'paul', 'madame', 'monsieur']	Emmanuel	J’en ai fait la remarque un jour à mon patron. Il m’a répondu qu’il trouvait cela regrettable, mais que c’était tout de même un détail sans importance. Je suis sorti un peu tard, à midi et demi, avec [MASK], qui travaille à l’expédition.
+
+['lui', 'elle', 'nous', 'moi', 'eux']	Raymond	Il en a été quitte pour un avertissement. On n’a pas contrôlé mon affirmation. Devant la porte, nous en avons parlé avec [MASK], puis nous avons décidé de prendre l’autobus. La plage n’était pas très loin, mais nous irions plus vite ainsi.
+
+['</s>', 'il', '"', 'elle', 'sarkozy']	Céleste	s’il avait remarqué que j’étais renfermé et il a reconnu seulement que je ne parlais pas pour ne rien dire. L’avocat général lui a demandé si je payais régulièrement ma pension. [MASK] a ri et il a déclaré : « C’étaient des détails entre nous.
+
+['pistolet', 'henry', 'fer', 'fusil', 'dieu']	Raymond	Moi, naturellement, j’ai serré le revolver de [MASK] dans mon veston. Alors de nouveau, il s’est laissé aller en arrière, mais sans retirer la main de sa poche. J’étais assez loin de lui, à une dizaine de mètres.
+
+['nous', 'lui', 'vous', 'moi', 'toi']	Céleste	Nous sommes arrivés en nage chez [MASK]. Il était toujours là, avec son gros ventre, son tablier et ses moustaches blanches. Il m’a demandé si « ça allait quand même ». Je lui ai dit que oui et que j’avais faim.
+
+['il', 'elle', 'et', 'on', 'monsieur']	Raymond	Je me suis levé, [MASK] m’a serré la main très fort et m’a dit qu’entre hommes on se comprenait toujours. En sortant de chez lui, j’ai refermé la porte et je suis resté un moment dans le noir, sur le palier.
+
+['</s>', '"', 'moi', 'nous', '-']	Raymond	J’ai pensé à ce moment qu’on pouvait tirer ou ne pas tirer. Mais brusquement, les Arabes, à reculons, se sont coulés derrière le rocher. [MASK] et moi sommes alors revenus sur nos pas. Lui paraissait mieux et il a parlé de l’autobus du retour.
+
+['il', 'elle', 'on', 'chacun', 'lui']	Sintès	Il m’a dit : « Oui. » Pendant tout ce temps, [MASK] arrangeait son pansement. J’étais assis sur le lit. Il m’a dit : « Vous voyez que je ne l’ai pas cherché. C’est lui qui m’a manqué. »
+
+['celle', 'masson', 'celui', 'moi', 'jeanne']	Marie	Qu’importait si, accusé de meurtre, il était exécuté pour n’avoir pas pleuré à l’enterrement de sa mère ? Le chien de Salamano valait autant que sa femme. La petite femme automatique était aussi coupable que la Parisienne que Masson avait épousée ou que [MASK] qui avait envie que je l’épouse.
+
+['</s>', 'il', "m'", 'lui', 'ça']	Raymond	J’ai répondu que je n’attendais rien du tout et que d’ailleurs je n’aimais pas les agents. [MASK] a eu l’air très content. Il m’a demandé si je voulais sortir avec lui. Je me suis levé et j’ai commencé à me peigner.
+
+['m', 'mr', 'dieu', 'st', 'mrs']	Marie	Dehors la lumière a semblé se gonfler contre la baie. Je me sentais un peu malade et j’aurais voulu partir. Le bruit me faisait mal. Mais d’un autre côté, je voulais profiter encore de la présence de [MASK]. Je ne sais pas combien de temps a passé.
+
+[',', 'et', 'qui', 'celui-ci', 'ou']	Raymond	Là, nous avons trouvé nos deux Arabes. Ils étaient couchés, dans leurs bleus de chauffe graisseux. Ils avaient l’air tout à fait calmes et presque contents. Notre venue n’a rien changé. Celui qui avait frappé [MASK] le regardait sans rien dire.
+
+['hier', 'olivier', 'simon', 'thomas', 'john']	Raymond	Ils n’avaient rien trouvé. Et comme me le faisait remarquer [MASK], c’était bien la peine d’être du milieu. Il le leur avait dit et ils avaient alors proposé de la « marquer ». Mais ce n’était pas ce qu’il voulait.
+
+['il', 'elle', 'on', 'je', 'jésus']	Raymond	À ce moment, [MASK] lui a expliqué : « Je ne suis pas soûl, monsieur l’agent. Seulement, je suis là, devant vous, et je tremble, c’est forcé. » Il a fermé sa porte et tout le monde est parti.
+
+['</s>', 'il', 'elle', 'on', 'julien']	Masson	Je crois qu’elle avait un peu trop bu. [MASK] m’a demandé alors si je voulais me promener sur la plage avec lui. « Ma femme fait toujours la sieste après le déjeuner. Moi, je n’aime pas ça. Il faut que je marche.
+
+['eux', 'elles', 'lui', 'elle', 'toi']	Marie	Malgré le tumulte, ils parvenaient à s’entendre en parlant très bas. Leur murmure sourd, parti de plus bas, formait comme une basse continue aux conversations qui s’entrecroisaient au-dessus de leurs têtes. Tout cela, je l’ai remarqué très vite en m’avançant vers [MASK].
+
+['toujours', 'famille', 'jeunesse', 'jacob', 'jacques']	Raymond	De la pente qui descendait vers la mer nous avons vu qu’il y avait déjà quelques baigneurs. L’ami de [MASK] habitait un petit cabanon de bois à l’extrémité de la plage. La maison était adossée à des rochers et les pilotis qui la soutenaient sur le devant baignaient déjà dans l’eau.
+
+['jeanne', 'madeleine', 'jane', 'laura', 'jenny']	Marie	La salle était séparée en trois parties par deux grandes grilles qui la coupaient dans sa longueur. Entre les deux grilles se trouvait un espace de huit à dix mètres qui séparait les visiteurs des prisonniers. J’ai aperçu [MASK] en face de moi avec sa robe à raies et son visage bruni.
+
+['il', 'qui', 'et', ',', 'elle']	Marie	[MASK] s’amusait à en éparpiller les pétales à grands coups de son sac de toile cirée. Nous avons marché entre des files de petites villas à barrières vertes ou blanches, quelques-unes enfouies avec leurs vérandas sous les tamaris, quelques autres nues au milieu des pierres.
+
+['</s>', '"', ',', ')', '-']	Pérez	Alors, je n’ai pas pu voir monsieur. » L’avocat général lui a demandé si, du moins, il m’avait vu pleurer. [MASK] a répondu que non. Le procureur a dit alors à son tour : « MM. les Jurés apprécieront. »
+
+['"', 'à', 'l', 'le', 'la']	Marie	J’ai plongé. Lui est entré dans l’eau doucement et s’est jeté quand il a perdu pied. Il nageait à la brasse et assez mal, de sorte que je l’ai laissé pour rejoindre [MASK]. L’eau était froide et j’étais content de nager.
+
+['</s>', "m'", 'on', 'il', 'nous']	Masson	Nous avons continué à marcher. [MASK] a demandé comment ils avaient pu nous suivre jusque-là. J’ai pensé qu’ils avaient dû nous voir prendre l’autobus avec un sac de plage, mais je n’ai rien dit. Les Arabes avançaient lentement et ils étaient déjà beaucoup plus rapprochés.
+
+[',', '...', ';', 'attentivement', 'ça']	Raymond	Mais j’ai aperçu en même temps, tout au bout de la plage et très loin de nous, deux Arabes en bleu de chauffe qui venaient dans notre direction. J’ai regardé [MASK] et il m’a dit : « C’est lui. »
+
+['chacun', 'celui-ci', 'celle-ci', 'tout', 'cela']	Masson	Au large, nous avons fait la planche et sur mon visage tourné vers le ciel le soleil écartait les derniers voiles d’eau qui me coulaient dans la bouche. Nous avons vu que [MASK] regagnait la plage pour s’étendre au soleil. De loin, il paraissait énorme.
+
+['lui', 'eux', 'elle', 'vous', 'nous']	Marie	Avec [MASK], nous nous sommes éloignés et nous nous sentions d’accord dans nos gestes et dans notre contentement. Au large, nous avons fait la planche et sur mon visage tourné vers le ciel le soleil écartait les derniers voiles d’eau qui me coulaient dans la bouche.
+
+['il', 'on', "c'", ',', "s'"]	Céleste	Alors [MASK] est resté un peu interdit. Mais il a déclaré qu’il voulait encore parler. On lui a demandé d’être bref. Il a encore répété que c’était un malheur. Et le président lui a dit : « Oui, c’est entendu.
+
+['f', '13', '14', '11', '12']	Raymond	J’avais provoqué sur la plage les adversaires de [MASK]. Celui-ci avait été blessé. Je lui avais demandé son revolver. J’étais revenu seul pour m’en servir. J’avais abattu l’Arabe comme je le projetais. J’avais attendu.
+
+['il', '</s>', 'elle', 'on', 'et']	Pérez	s’il avait vu que je ne pleurais pas ». [MASK] a dit : « Non. » Le public a ri. Et mon avocat, en retroussant une de ses manches, a dit d’un ton péremptoire : « Voilà l’image de ce procès.
+
+['contrôle', 'famille', 'terrain', 'celui-ci', 'police']	Marie	Plus tard, je n’ai plus trouvé d’importance à ces répugnances. En réalité, je n’étais pas réellement en prison les premiers jours : j’attendais vaguement quelque événement nouveau. C’est seulement après la première et la seule visite de [MASK] que tout a commencé.
+
+['marguerite', 'marie', 'celle-ci', 'madeleine', 'julie']	Marie	À propos de [MASK], il m’a dit : « Elle est épatante, et je dirai plus, charmante. » Puis je n’ai plus fait attention à ce tic parce que j’étais occupé à éprouver que le soleil me faisait du bien.
+
+['elle', 'il', 'on', 'maman', 'mère']	Marie	[MASK] m’a dit que c’était terrible et je n’ai rien répondu. Elle m’a demandé d’aller chercher un agent, mais je lui ai dit que je n’aimais pas les agents. Pourtant, il en est arrivé un avec le locataire du deuxième qui est plombier.
+
+['</s>', 'il', 'elle', 'Il', 'je']	Marie	Dans la rue, à cause de ma fatigue et aussi parce que nous n’avions pas ouvert les persiennes, le jour, déjà tout plein de soleil, m’a frappé comme une gifle. [MASK] sautait de joie et n’arrêtait pas de dire qu’il faisait beau.
+
+['je', 'dieu', "j'", 'tu', 'maman']	Marie	Je crois toujours que c’est le mien. » VI Le dimanche, j’ai eu de la peine à me réveiller et il a fallu que [MASK] m’appelle et me secoue. Nous n’avons pas mangé parce que nous voulions nous baigner tôt.
+
+['il', 'elle', 'lui', 'me', 'nous']	Marie	? – Oui, tout. » Nous nous sommes tus et [MASK] souriait toujours. La grosse femme hurlait vers mon voisin, son mari sans doute, un grand type blond au regard franc. C’était la suite d’une conversation déjà commencée.
+
+['il', 'et', 'puis', 'qui', 'tout']	Céleste	Comme s’il était arrivé au bout de sa science et de sa bonne volonté, [MASK] s’est alors retourné vers moi. Il m’a semblé que ses yeux brillaient et que ses lèvres tremblaient. Il avait l’air de me demander ce qu’il pouvait encore faire.
+
+['il', 'elle', 'on', 'nous', "m'"]	Raymond	J’ai pensé qu’ils avaient dû nous voir prendre l’autobus avec un sac de plage, mais je n’ai rien dit. Les Arabes avançaient lentement et ils étaient déjà beaucoup plus rapprochés. Nous n’avons pas changé notre allure, mais [MASK] a dit : «
+
+['</s>', 'il', 'elle', 'chacun', '--il']	Raymond	Je ne savais pas. Alors, il s’est mis en colère : « Donner de l’argent pour cette charogne. Ah ! il peut bien crever ! » Et il s’est mis à l’insulter. [MASK] a ri et a pénétré dans la maison.
+
+['l', 'son', '.', 'notre', 'm']	Raymond	Elle avait mis une robe de toile blanche et lâché ses cheveux. Je lui ai dit qu’elle était belle, elle a ri de plaisir. En descendant, nous avons frappé à la porte de [MASK]. Il nous a répondu qu’il descendait.
+
+['il', 'elle', 'on', 'lui', "j'"]	Raymond	Il a voulu savoir si c’était par hasard que je n’étais pas intervenu quand [MASK] avait giflé sa maîtresse, par hasard que j’avais servi de témoin au commissariat, par hasard encore que mes déclarations lors de ce témoignage s’étaient révélées de pure complaisance.
+
+['il', ',', 'qui', 'elle', 'roi']	Raymond	[MASK] m’a fait un petit signe et a dit tout de suite que j’étais innocent. Mais le président a déclaré qu’on ne lui demandait pas des appréciations, mais des faits. Il l’a invité à attendre des questions pour répondre.
+
+['moi-même', 'nouveau', 'lui', 'dieu', 'présent']	Masson	J’ai retardé encore l’envie que j’avais de l’eau, mais j’ai fini par dire à [MASK] : « On y va ? » J’ai plongé. Lui est entré dans l’eau doucement et s’est jeté quand il a perdu pied.
+
+['dreyfus', 'celui-ci', 'lui-même', 'pascal', 'clemenceau']	Raymond	Pour finir, il a demandé à [MASK] quels étaient ses moyens d’existence, et comme ce dernier répondait : « Magasinier », l’avocat général a déclaré aux jurés que de notoriété générale le témoin exerçait le métier de souteneur. J’étais son complice et son ami.
+
+['</s>', 'elle', 'il', "m'", 'on']	Marie	De loin, il paraissait énorme. [MASK] a voulu que nous nagions ensemble. Je me suis mis derrière elle pour la prendre par la taille et elle avançait à la force des bras pendant que je l’aidais en battant des pieds.
+
+['lui', 'toi', 'moi', 'plus', 'tout']	Marie	Les premiers mois ont été durs. Mais justement l’effort que j’ai dû faire aidait à les passer. Par exemple, j’étais tourmenté par le désir d’une femme. C’était naturel, j’étais jeune. Je ne pensais jamais à [MASK] particulièrement.
+
+['moi', 'nous', 'papa', 'toi', 'lui']	Pierrot	Les trams tout à l’heure bondés étaient presque vides. Dans le petit café « Chez [MASK] », à côté du marchand de tabac, le garçon balayait de la sciure dans la salle déserte. C’était vraiment dimanche.
+
+['</s>', 'elle', 'qui', 'mer', 'marguerite']	Marie	Cela faisait alors une dentelle mousseuse qui disparaissait dans l’air ou me retombait en pluie tiède sur le visage. Mais au bout de quelque temps, j’avais la bouche brûlée par l’amertume du sel. [MASK] m’a rejoint alors et s’est collée à moi dans l’eau.
+
+['contrebande', 'papier', 'tabac', 'chambre', 'tête']	Raymond	Il s’est arrêté pour régler la mèche de la lampe qui charbonnait. Moi, je l’écoutais toujours. J’avais bu près d’un litre de vin et j’avais très chaud aux tempes. Je fumais les cigarettes de [MASK] parce qu’il ne m’en restait plus.
+
+['ce', '"', 'celui', 'demandé', 'répondu']	Raymond	» L’avocat général m’a posé alors la même question et j’ai regardé [MASK] qui n’a pas détourné les yeux. J’ai répondu : « Oui. » Le procureur s’est alors retourné vers le jury et a déclaré : «
+
+['homme', 'un', ',', 'une', 'enfant']	Raymond	On a d’abord entendu une voix aiguë de femme et puis [MASK] qui disait : « Tu m’as manqué, tu m’as manqué. Je vais t’apprendre à me manquer. » Quelques bruits sourds et la femme a hurlé, mais de si terrible façon qu’immédiatement le palier s’est empli de monde.
+
+['</s>', '"', 'il', '-', 'elle']	Raymond	Les derniers trams passaient et emportaient avec eux les bruits maintenant lointains du faubourg. [MASK] a continué. Ce qui l’ennuyait, « c’est qu’il avait encore un sentiment pour son coït ». Mais il voulait la punir.
+
+['il', 'on', 'elle', 'chacun', 'dieu']	Raymond	Pendant tout ce temps, il n’y a plus eu que le soleil et ce silence, avec le petit bruit de la source et les trois notes. Puis [MASK] a porté la main à sa poche revolver, mais l’autre n’a pas bougé et ils se regardaient toujours.
+
+['</s>', 'il', 'on', 'elle', 'nous']	Marie	Et nous avons vu, très loin, un petit chalutier qui avançait, imperceptiblement, sur la mer éclatante. [MASK] a cueilli quelques iris de roche. De la pente qui descendait vers la mer nous avons vu qu’il y avait déjà quelques baigneurs.
+
+['on', 'il', "c'", 'chacun', 'y']	Raymond	Marie et moi avons fini de préparer le déjeuner. Mais elle n’avait pas faim, j’ai presque tout mangé. Elle est partie à une heure et j’ai dormi un peu. Vers trois heures, on a frappé à ma porte et [MASK] est entré.
+
+['cela', 'ça', 'lui', 'je', 'maman']	Raymond	L’agent lui a dit de fermer ça, que la fille devait partir et lui rester dans sa chambre en attendant d’être convoqué au commissariat. Il a ajouté que [MASK] devrait avoir honte d’être soûl au point de trembler comme il le faisait.
+
+['marie', 'elle', 'chacune', 'madame', 'maman']	Marie	» Puis nous avons marché et traversé la ville par ses grandes rues. Les femmes étaient belles et j’ai demandé à [MASK] si elle le remarquait. Elle m’a dit que oui et qu’elle me comprenait. Pendant un moment, nous n’avons plus parlé.
+
+['il', "m'", '"', "j'", 'lui']	Masson	» J’ai dit : « Oui » et [MASK] a mis ses mains dans les poches. Le sable surchauffé me semblait rouge maintenant. Nous avancions d’un pas égal vers les Arabes. La distance entre nous a diminué régulièrement.
+
+['celle-ci', 'elle', 'jeanne', 'marie', 'madeleine']	Marie	À partir de ce moment, d’ailleurs, le souvenir de [MASK] m’aurait été indifférent. Morte, elle ne m’intéressait plus. Je trouvais cela normal comme je comprenais très bien que les gens m’oublient après ma mort. Ils n’avaient plus rien à faire avec moi.
+
+['dieu', 'jésus', 'marie', 'cléopâtre', 'napoléon']	Marie	Il n’y avait rien ni personne que je connusse mieux au monde. Peut-être, il y a bien longtemps, y avais-je cherché un visage. Mais ce visage avait la couleur du soleil et la flamme du désir : c’était celui de [MASK].
+
+['je', 'ça', '</s>', '...', 'elle']	Marie	Mais c’était bien sans doute ce que [MASK] voulait dire parce qu’elle souriait toujours. Je ne voyais plus que l’éclat de ses dents et les petits plis de ses yeux. Elle a crié de nouveau : « Tu sortiras et on se mariera ! »
+
+['moi', 'nous', 'lui', 'elle', 'eux']	Raymond	Elle a eu l’air triste. Mais en préparant le déjeuner, et à propos de rien, elle a encore ri de telle façon que je l’ai embrassée. C’est à ce moment que les bruits d’une dispute ont éclaté chez [MASK].
+
+['f', '14', '13', '19', '11']	Marie	Je n’ai pas regardé du côté de [MASK]. Je n’en ai pas eu le temps parce que le président m’a dit dans une forme bizarre que j’aurais la tête tranchée sur une place publique au nom du peuple français.
+
+['elle', 'on', '</s>', 'il', 'maman']	Marie	Je ne sais pas combien de temps a passé. [MASK] m’a parlé de son travail et elle souriait sans arrêt. Le murmure, les cris, les conversations se croisaient. Le seul îlot de silence était à côté de moi dans ce petit jeune homme et cette vieille qui se regardaient.
+
+[',', ';', ':', 'tout', 'dieu']	Raymond	J’ai fait la lettre. Je l’ai écrite un peu au hasard, mais je me suis appliqué à contenter [MASK] parce que je n’avais pas de raison de ne pas le contenter. Puis j’ai lu la lettre à haute voix.
+
+["s'", 'y', 'elle', 'qui', "c'"]	Marie	[MASK] est entrée. Elle avait mis un chapeau et elle était encore belle. Mais je l’aimais mieux avec ses cheveux libres. De l’endroit où j’étais, je devinais le poids léger de ses seins et je reconnaissais sa lèvre inférieure toujours un peu gonflée.
+
+['elle', 'il', 'maman', 'on', 'je']	Masson	J’ai senti ses jambes autour des miennes et je l’ai désirée. Quand nous sommes revenus, [MASK] nous appelait déjà. J’ai dit que j’avais très faim et il a déclaré tout de suite à sa femme que je lui plaisais.
+
+['.', 'corps', 'chauff', 'bataille', 'mou']	Marie	J’aurais attendu des passages d’oiseaux ou des rencontres de nuages comme j’attendais ici les curieuses cravates de mon avocat et comme, dans un autre monde, je patientais jusqu’au samedi pour étreindre le corps de [MASK]. Or, à bien réfléchir, je n’étais pas dans un arbre sec.
+
+['chacun', 'eux', 'tous', 'ceux-ci', 'elles']	Pérez	Il m’a dit : « Vous comprenez, c’est un sentiment un peu puéril. Mais lui et votre mère ne se quittaient guère. À l’asile, on les plaisantait, on disait à [MASK] : « C’est votre fiancée. » Lui riait.
+

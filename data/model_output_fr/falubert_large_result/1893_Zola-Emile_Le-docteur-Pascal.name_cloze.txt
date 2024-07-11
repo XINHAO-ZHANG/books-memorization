@@ -1,0 +1,200 @@
+['il', 'je', 'elle', 'me', 'le']	Clotilde	Tiens ! lis cette lettre, que grand-mère me communique.Attentivement, [MASK] lut la lettre jusqu’au bout, sans une parole, sans un geste. Puis, très simple :– Eh bien ! tu vas répondre, n’est-ce pas ?… Je refuse.
+
+['on', 'il', 'elle', 'Jean', 'On']	Clotilde	Encore quelques jours, et le crédit allait être impossible. Il fallait absolument aviser, trouver des ressources, pour les petites dépenses quotidiennes.Un lundi, comme une semaine de tourments recommençait, [MASK] s’agita toute la matinée.
+
+['se', 'il', 'elle', 'on', '...']	Martine	Brusquement, il y eut un fracas : c’était un échantillon géologique, un fragment de marbre, qui se trouvait sur une planche inférieure, et qu’elle venait de faire tomber.Aussitôt, le pilon s’arrêta, et [MASK] dit d’une voix étouffée :
+
+['parti', ',', 'on', '...', 'e']	Maxime	? autrement que nous n’avons pu le faire à Plassans.– Sans doute, sans doute, murmura [MASK]. Je ne dis pas non, je vais y réfléchir.Il restait embarrassé, il ajouta :– Vous comprenez, je ne suis venu que pour le voir…
+
+['de', 'u', ',', 'e', '...']	Pascal	Alors, seulement, il retrouva un sourire.– Va vite… Oh ! tu me reverras, ce n’est pas pour maintenant.Le jour se levait enfin, un petit jour triste, dans une pâle matinée de novembre. [MASK] avait fait ouvrir les volets ;
+
+['de', 'les', 'ses', ',', 'à']	Clotilde	Aussi l’appela-t-elle en témoignage : n’était-ce pas vrai qu’une femme devait se marier, que cela était contre nature, de rester vieille fille ? Et, gravement, il l’approuvait, sans quitter [MASK] des yeux.– Oui, oui, il faut se marier…
+
+[',', '...', 'et', "d'", 'à']	Martine	Puis, après un silence :– C’est drôle, te voilà avec grand-mère et [MASK] à présent. Elles me persécutent pour que j’en finisse… Je croyais avoir encore quelques jours. Mais, vraiment si vous me poussez tous les trois…
+
+['elle', 'Elle', 'et', 'il', 'on']	Pascal	Puis, une soudaine curiosité lui vint.– Mais, dis ? à propos de quoi m’as-tu fait ce royal cadeau ?Depuis qu’elle était accourue le chercher, d’un tel élan de gaieté sonore, [MASK] marchait dans un rêve.
+
+["l'", 'plusieurs', 'se', 'la', 'le']	Lafouasse	– C’est vrai, je me suis guéri, j’en ai guéri d’autres, et je crois toujours que mes piqûres sont efficaces, dans beaucoup de cas… Je ne nie pas la médecine, le remords d’un accident douloureux, comme celui de [MASK], ne me rend pas injuste…
+
+['il', 'on', 'elle', 'chacun', 'Il']	Pascal	Pendant le mois qui suivit, [MASK] essaya de se réfugier dans un travail acharné de toutes les heures. Il s’entêtait maintenant les journées entières, seul dans la salle, et il passait même les nuits, à reprendre d’anciens documents, à refondre tous ses travaux sur l’hérédité.
+
+['personne', 'lui-même', 'nul', 'je', 'il']	Clotilde	Je vous jure que l’autre semaine, j’en ai vu, j’en ai touché beaucoup.Il était d’une bonne foi si amusante, il s’étonnait avec une telle sincérité de grand enfant, que [MASK] ne put s’empêcher de rire.
+
+['le', '.', "l'", 'la', 'Jean']	Clotilde	Mais qu’est-ce que tu as eu ? s’écria [MASK]. Vas-tu parler, à présent ?Elle leva sa triste face, ravagée de larmes. Un grand calme s’y était fait pourtant, et l’on n’y voyait plus que la morne vieillesse, dans sa résignation.
+
+['Elle', '...', 'elle', 'On', 'et']	Clotilde	Brusquement, [MASK] se redressa, voulant réfléchir. Elle avait serré ses bras nus sur sa gorge nue. Tout le sang de ses veines était monté à sa peau, en un flot de pudeur empourpré. Et elle se mit à fuir, dans le divin élancement de sa taille mince.–
+
+['madame', 'Madame', 'maman', 'monsieur', 'docteur']	Clotilde	Ne me quittez pas… La clef est sous mon oreiller. Vous direz à [MASK] de la prendre, elle a des ordres.À quatre heures moins dix, une nouvelle piqûre resta sans effet. Et quatre heures allaient sonner, lorsque la deuxième crise se déclara.
+
+['chées', ',', 'chés', 'ées', 'les']	Félicité	et le mieux était de les froisser, d’attendre qu’elles fussent bien enflammées, avant d’en ajouter d’autres. L’habileté leur venait, la besogne marchait grand train.Dans sa hâte à aller reprendre une nouvelle brassée de papiers, [MASK] se heurta contre un fauteuil.–
+
+['tu', ',', 'ta', 'que', 'le']	Pascal	dit-il simplement, en embrassant sa sœur.– Mais, répondit-elle, il faut vivre au soleil… Ah ! que je suis heureuse de te voir ![MASK], de son coup d’œil de médecin, avait fouillé à fond son neveu. Il l’embrassa à son tour.–
+
+['elle', 'il', 'Marie', 'celle-ci', 'ce']	Martine	Et il fallut que [MASK] eût cette dernière abnégation, qu’elle l’aidât à se lever, qu’elle le soutînt, le conduisît, chancelant, jusqu’au lit tiède encore. Il avait pris, sous son oreiller, la clef de l’armoire, qu’il gardait là, chaque nuit
+
+[',', 'tout', 'celui-ci', 'lui-même', 'tête']	Pascal	!Puis, saisissant [MASK] entre ses mains fraîches, levant vers lui sa tête charmante, où brûlait encore tout une ardeur à se donner, à être sa chose :– Tu ne sais pas, maître, c’est moi qui serai ta servante aujourd’hui.
+
+['il', 'Il', 'et', 'Monsieur', 'monsieur']	Maître	Oh ! jamais ! je ne me charge pas d’une commission pareille. [MASK] se fâcherait, et il aurait raison. Je crois bien qu’il se laisserait mourir de faim plutôt que de manger le pain de grand-mère.
+
+['se', ',', 'la', 'de', 'le']	Macquart	Elle se fâcha, lorsque [MASK] proposa d’aller tous les cinq, en bande, chercher le petit.– Quelle idée ! allez-y tout seul et revenez vite… Nous n’avons pas de temps à perdre.Le frémissement de colère qu’elle contenait, parut amuser l’oncle
+
+['il', 'elle', 'on', 'Il', 'Elle']	Clotilde	Doucement, [MASK] finit par s’asseoir près du berceau. Les flèches de soleil s’allongeaient d’un bout de la pièce à l’autre, la chaleur de l’ardente journée s’alourdissait, parmi l’ombre assoupie des volets clos ; et le silence de la maison semblait s’être élargi encore.
+
+['de', ',', 'se', 'en', 'le']	Clotilde	Et [MASK], elle aussi, se soumettait, ne lui criait pas sa nuit de lutte et de souffrance, pendant qu’il agonisait de son côté. Les deux femmes, dociles, ne faisaient plus qu’obéir et l’aider, dans son oubli de lui-même.–
+
+['il', 'elle', 'et', 'Il', 'Elle']	Clotilde	; et, sur leur tête, il semblait que le vaste ciel criblé d’étoiles eût pâli d’un frisson, malgré l’aube encore lointaine.[MASK] leva le bras, comme pour montrer l’infini de ce ciel frissonnant.
+
+['venez', 'Venez', 'messieurs', '"', 'entrez']	Martine	Venez, venez, [MASK]. Nous trouverons autre chose, nous allons chercher un outil.Dans la salle, elles respirèrent. La servante se souvint alors que la clef du secrétaire devait être sur la table de nuit de Monsieur, où elle l’avait aperçue la veille, au moment de la crise.
+
+['il', 'lui', 'elle', 'et', 'Pierre']	Pascal	!Ce jour-là, [MASK] parut s’enfoncer plus encore dans le travail. Il avait, à présent, des séances de quatre et cinq heures, des matinées, des après-midi entières, où il ne levait pas la tête.
+
+['"', 'Y', ')', 'AM', 'bas']	Pascal	répéta furieusement [MASK].Entre ses bras nus, elle tenait encore un des dossiers. Il voulut le reprendre. Mais elle le serrait de toutes ses forces, obstinée dans son œuvre de destruction, sans confusion ni repentir, en combattante qui a le bon droit pour elle.
+
+['Il', 'Elle', 'Monsieur', 'il', 'et']	Clotilde	Vous devriez en parler à Monsieur et le décider, conclut la servante.En effet, pourquoi ne s’adresserait-il pas à sa mère ? Ce serait tout naturel.[MASK] se révolta.– Oh ! jamais ! je ne me charge pas d’une commission pareille.
+
+['et', 'Elle', 'elle', 'Et', 'puis']	Martine	Et elle fut devinée, [MASK] se rappela la conversation qu’elle avait surprise, regarda ce ventre de femme féconde, où la grossesse ne s’indiquait pas encore. Un instant, elle parut réfléchir. Puis, nettement :– L’enfant, n’est-ce pas ?… Non !
+
+[',', 'et', 'de', 'ou', 'se']	Clotilde	Du reste, c’était son heure, il y avait trois heures qu’il n’avait tété.[MASK] revint s’asseoir, près de la table. Elle l’avait posé sur ses genoux, où il n’était guère sage, criant plus fort, s’impatientant ;
+
+['et', 'il', 'Il', 'Et', 'alors']	Pascal	Tu es si bon, tu me rends si heureuse !Mais il pleurait toujours, et elle se remit à pleurer, et ce fut longtemps une tristesse infinie, une détresse où se mêlaient leurs baisers et leurs larmes.[MASK], resté seul, se jugea abominable.
+
+['il', 'elle', 'Monsieur', 'celui-ci', 'Il']	Martine	Et pas une fois il ne céda, ne se pencha en haut de la rampe, pour lui crier de monter.Un jour, [MASK] se hasarda à dire :– C’est bien dur tout de même, Monsieur, de refuser la porte à sa mère.
+
+['ferme', 'neutre', 'tête', 'marier', 'fidèle']	Charles	car il crut pouvoir lui dire que l’oncle l’avait choisi comme exécuteur testamentaire. Et il finit par lui offrir, en brave homme, de garder [MASK] jusque-là, comprenant combien le petit, si bousculé chez sa mère, devenait gênant, au milieu de toutes ces histoires.
+
+['la', 'ham', 'de', '...', 'sa']	Pascal	Et, dès qu’elle fut en haut, chez eux, elle s’évanouit presque dans les bras de [MASK]. Elle bégayait des mots sans suite.– Oh ! mon Dieu !… oh ! mon Dieu !… ces femmes…Lui, effrayé, la pressait de questions.–
+
+[',', 'se', 'et', 'en', 'le']	Félicité	[MASK] se hâta d’intervenir, très mécontente de la façon dont tournaient les choses, n’ayant plus que la hâte de s’en aller.– C’est sûrement un bel enfant, et qui est moins en retard qu’on ne croit. Regarde donc comme il est adroit de ses mains…
+
+['se', 'on', 'il', 'le', ',']	Bonhomme	et ce fut une joie pour tous les deux, lorsque [MASK] voulut bien, par simple et bonne amitié, manger cette herbe dans sa main.– Eh ! mais, dit-elle en riant, tu as encore de l’appétit, il ne faut pas chercher à nous attendrir…
+
+['car', '...', 'mal', 'SAM', 'so']	Martine	Je suis trop petite, bégaya-t-elle. Essayez donc, vous, [MASK].La servante, à son tour, s’approcha du lit. Elle fut prise d’un tel tremblement, qu’elle dut, elle aussi, revenir en arrière, pour ne pas tomber.–
+
+[',', 'trouva', 'elle', 'vit', 'elle-même']	Martine	aperçut [MASK] dans le potager, en train de planter des poireaux ; et, profitant de la circonstance, elle se dirigea vers la servante, pour causer et tirer d’elle des renseignements, avant d’entrer dans la maison.
+
+['écoute', 'oui', 'alors', 'voilà', 'moi']	Maxime	Est-ce qu’elle avait un devoir, à l’égard d’un frère qui, pendant quinze ans, lui était resté étranger ? est-ce que son devoir n’était pas où était son cœur ?– Écoute, [MASK], finit-elle par dire, laisse-moi réfléchir, moi aussi.
+
+['se', ',', 'la', 'le', 'D']	Ramond	Deux années, deux années, je les vivrai ! Il faut bien que je les vive ![MASK], qui avait baissé la tête, ne répondait plus. Un embarras le prenait, à l’idée de s’être montré trop optimiste ;
+
+['la', 'sa', "l'", 'cette', 'ses']	Martine	C’était une allusion à la petite fortune personnelle de [MASK]. En trente ans, à quatre cents francs de gages, elle avait gagné douze mille francs, sur lesquels elle n’avait prélevé que le strict nécessaire de son entretien ;
+
+[',', 'et', 'un', 'la', 'plus']	Valentin	Cette mort de [MASK], d’ailleurs, il s’étonnait qu’elle eût tant tardé, il avait la conviction d’avoir prolongé d’un an la vie du malade. Malgré les résultats extraordinaires qu’il obtenait, il savait bien que la mort resterait l’inévitable, la souveraine.
+
+['il', 'ne', 'puis', 'on', 'elle']	Ramond	D’abord, [MASK] s’y refusa, en affectant de tourner la consultation en plaisanterie. Est-ce qu’un conscrit comme lui oserait se prononcer sur son général ? Mais il l’examinait pourtant, lui trouvait la face tirée, angoissée, avec un singulier effarement du regard.
+
+['t-il', 'il', 'il', '-il', '...']	Pascal	Il y a de la sclérose, c’est au moins très probable…Puis, se relevant :– On vit vingt ans avec cela.– Sans doute, parfois, dit [MASK]. À moins qu’on n’en meure tout de suite, foudroyé.
+
+['il', 'et', ',', "qu'", 'que']	Pascal	[MASK] avait complaisamment apporté la fiole de substance nerveuse, qu’il regardait, posée sur la table.– Ainsi, mademoiselle, reprit-il d’un air de plaisanterie bourrue, vous ne croyez pas à mon élixir de résurrection, et vous croyez aux miracles !
+
+["j'", "d'", 'vous', "J'", 'as']	Clotilde	Puis, haussant la voix, presque gaiement :– Mon ami Ramond, ce n’est peut-être pas un gros cadeau que je vous fais, mais je vais vous laisser mes manuscrits. Oui, [MASK] a l’ordre, quand je ne serai plus, de vous les remettre…
+
+['son', 'sa', 'la', 'une', 'elle']	Martine	Et, très calme, l’air résolu, elle sortit ensuite avec [MASK], après avoir mis tranquillement dans le panier de celle-ci un petit paquet, des chiffons qu’elle voulait donner, disait-elle.Quand elle revint, deux heures plus tard, elle était pâle.
+
+['il', 'elle', 'Maître', 'maître', 'Monsieur']	Martine	Elle parlait de le rendre sur-le-champ, elle bégayait, éperdue :– C’est vrai, [MASK] a raison… Maître est fou, et je suis folle moi-même, à garder ça une minute, dans la situation où nous sommes… Il me brûlerait la peau.
+
+['il', 'et', "l'", 'le', ',']	Macquart	La lecture du testament fut, du reste, très simple, sans incident : [MASK] avait disposé de tout ce qu’il pouvait distraire de sa petite fortune, pour se faire élever un tombeau superbe, en marbre, avec deux anges monumentaux, les ailes repliées, et qui pleurait.
+
+[',', 'la', 'le', 'les', 'à']	Ramond	Les deux hommes s’embrassèrent, et il n’y eut pas d’autre allusion à l’absente, à celle dont le départ avait vidé la maison, qu’une énergique et désolée poignée de main.– Vous ne savez pas pourquoi je viens ? s’écria tout de suite [MASK]
+
+[',', 'de', 'le', 'la', 'à']	Pascal	Et [MASK], lui, était redevenu beau, dans l’amour, de sa beauté sereine d’homme resté vigoureux, sous ses cheveux blancs. Il n’avait plus sa face douloureuse des mois de chagrin et de souffrance qu’il venait de passer ;
+
+['il', 'Monsieur', 'celui-ci', '...', 'Madame']	Félicité	Et, tirant sa montre :– Diable ! cinq heures et demie… Vous savez que, pour rien au monde, je ne veux manquer le train de neuf heures.– Oui, oui, partons, dit [MASK]. Nous n’avons plus rien à faire ici.
+
+['le', "l'", 'un', "d'", 'la']	Ramond	Il était chancelant, essoufflé, comme s’il avait monté trop vite. Il eut encore la force de leur sourire.– Eh bien ! les enfants, vous vous êtes mis d’accord ?– Mais, sans doute, répondit [MASK], tout aussi frissonnant que lui.–
+
+['il', 'Il', '</s>', 'Monsieur', ',']	Pascal	Le bon Dieu ne peut pas vouloir une injustice pareille. Je l’ai tant prié dans mon existence, qu’il doit m’écouter un peu, et il m’exaucera, Monsieur, il vous sauvera ![MASK] la regardait, l’écoutait, et une clarté brusque se faisait en lui.
+
+['il', 'le', 'celui-ci', "l'", 'Jean']	Pascal	Lorsque [MASK], monté sur la chaise, eut trouvé le dossier qu’il cherchait, une des chemises les plus bourrées, où était inscrit le nom de « Saccard », il y ajouta la note nouvelle, puis replaça le tout à sa lettre alphabétique.
+
+['</s>', 'toi', 'lui', 'vous.', 'elle.']	Clotilde.–	Elle était allée jusqu’à la porte de la chambre, elle écouta le bruit du pilon. Puis, le front soucieux, elle revint vers [MASK] Que fabrique-t-il donc, mon Dieu ! Tu sais qu’il se fait le plus grand tort, avec sa drogue nouvelle.
+
+['base', 'celle-ci', 'Fatima', 'départ', "c'"]	Pascal	Et, si le credo de [MASK] était la conclusion logique de toute l’œuvre, l’éternelle question de l’au-delà qu’elle continuait quand même à poser au ciel rouvrait la porte de l’infini, devant l’humanité en marche.
+
+[',', 'on', 'il', 'le', 'où']	Martine	Mais, là, une nouvelle émotion l’attendait, il reconnut dehors, sous les platanes, où [MASK] l’avait fait asseoir, Sarteur, l’ouvrier chapelier, le pensionnaire des Tulettes, qu’il était allé piquer si longtemps ;
+
+['</s>', 'le', "l'", 'un', 'son']	Pascal	Vous n’avez rien de sérieux, vous vous remettriez sur pied en quinze jours.[MASK], qui s’était laissé tomber sur une chaise, continuait à les regarder. Il eut la force de se vaincre, rien ne parut sur son visage de la blessure qu’il avait reçue.
+
+[',', 'se', 'me', 'de', 'en']	Clotilde	Et il termina, souriant, les yeux dans les siens.– Je vous assure, [MASK], que c’est le dénouement le plus sage… Vous le savez, voici longtemps que je vous aime. J’ai pour vous une tendresse et une estime profondes…
+
+['m', 's', 'que', 'en', '...']	Clotilde	On aurait cru qu’il ne pouvait plus perdre une heure. Et, un matin, brusquement, il leva la tête, il dit à sa compagne, qui recopiait un manuscrit, à son côté :– Écoute bien, [MASK]… Si je mourais…
+
+['tout', 'Dieu', 'la', 'Jésus-Christ', 'Paris']	Clotilde	De sourdes plaintes lui échappaient, malgré son courage : mon Dieu ! cette torture ne finirait donc pas ? Et, pourtant, il n’avait plus qu’un ardent désir, prolonger son agonie, vivre assez pour embrasser une dernière fois [MASK].
+
+['elle', 'je', 'Elle', 'il', 'on']	Félicité	Je ne me marierai jamais.Mais [MASK] se récria. Quand elle la voyait si attachée au docteur, elle souhaitait souvent un mariage qui l’en détacherait, qui laisserait son fils isolé, dans un intérieur détruit, où elle-même deviendrait toute-puissante, maîtresse des choses.
+
+['une', 'le', 'ce', "l'", 'la']	Clotilde	Il retombait, sous la menace de la solitude prochaine, à son tourment, à cette torture du savant menacé, persécuté par les siens, chez lui, dans sa chair même, dans l’œuvre de son cerveau.Un soir qu’il revenait sur ce sujet, avec [MASK], il laissa échapper
+
+['il', 'elle', 'ne', 'homme', 'et']	Clotilde	Mais ses larmes lui brouillaient la vue, et il regardait toujours, il s’anéantissait dans ce besoin de savoir, où sa raison finissait par chanceler. Brusquement, [MASK] dut se cacher, en le voyant se diriger vers l’armoire, qu’il ouvrit à double battant.
+
+['elle', 'Elle', 'la', 'Mme', 'Madame']	Félicité	L’irrévocable était accompli. Tout de suite, [MASK], surprise de n’avoir pas eu à parler davantage, voulut qu’on fixât la date de départ. Elle s’applaudissait de sa ténacité, elle croyait avoir emporté la victoire, de haute lutte.
+
+['sainteté', 'mystère', 'humilité', 'Mystère', 'mystères']	Pascal	Il y a pourtant la joie du renoncement. Renoncer, ne pas vivre, se garder pour le mystère, cela n’a-t-il pas été tout le grand bonheur des saints ?– S’ils n’ont pas vécu, cria [MASK], ils ne peuvent pas être des saints.
+
+['elle', 'Marie', 'Jeanne', 'celle-ci', 'madame']	Martine	Ah ! mon Dieu ! mon Dieu !Et, tandis que [MASK] montait faire sa chambre, elle prit une ombrelle au porte manteau du vestibule, elle sortit manger son petit pain dehors, désespérée, ne sachant plus à quoi occuper son temps jusqu’à midi.
+
+['celle', 'personne', 'Madame', 'elle', 'femme']	Martine	Vous lui direz que c’est arrangé chez le notaire, qu’elle retrouvera là de quoi vivre…Alors, [MASK] qui l’avait écouté, béante, se désespéra, confessa son mensonge, ignorant les bonnes nouvelles apportées par Ramond.– Monsieur, il faut me pardonner, j’ai menti.
+
+['Personne', '/', '"', '...', 'Il']	Clotilde	Comment, tu es là ?[MASK] ne daigna même pas répondre. Elle était couchée sur le dos, les mains ramenées et serrées sous la nuque, la face vers le ciel ; et, dans son pâle visage, on ne voyait que ses grands yeux luire.– Moi
+
+['lui', 'elle', 'soi', 'eux', 'lui']	Clotilde	D’abord, il accusa le vent de son insomnie. La maison morte s’emplissait de hurlements, des voix implorantes et des voix de colère se mêlaient, au milieu de sanglots continus. Deux fois, il se releva, alla écouter chez [MASK], n’entendit rien.
+
+['-', 'il', 'Il', 'ssa', '...']	Pascal	N’était-ce pas le pire des maux, l’infirmité, le coup de hache qui sépare un vivant de la vie ?– Mais, murmura-t-elle, il ne se plaint que de rhumatismes.[MASK] haussa les épaules ;
+
+['il', 'à', 'et', 'tout', 'son']	Pascal	Il faisait en effet très lourd, le soleil brûlait, derrière un voile de grands nuages livides. Presque seul, [MASK] causa, dans sa tendresse passionnée pour cette nature ardente, tendresse qu’il s’efforçait de faire partager à son neveu.
+
+[',', 'la', 'ouverte', "l'", "s'"]	Martine	Au milieu de la salle de travail, tout de suite elle aperçut [MASK], plantée sur les jambes, d’un air effaré. La veille, le docteur, en suivant la jeune fille, avait laissé sa porte ouverte ;
+
+['lui', 'elle', 'elle-même', ',', 'eux']	Clotilde	! Il se rappelait ses trente années de dévouement aveugle, son adoration muette d’autrefois, quand elle le servait à genoux, et qu’elle était jeune, ses jalousies sourdes contre [MASK] plus tard, tout ce qu’elle avait dû souffrir inconsciemment à cette époque.
+
+['on', 'elle', 'il', 'ça', 'cela']	Ramond	Atterré, livide, il tenait ses yeux grands ouverts, fixés sur la pendule, avec une effrayante expression de désespoir et de douleur. Et, pendant dix longues minutes, il faillit expirer.Tout de suite, [MASK] l’avait piqué.
+
+['il', 'elle', 'lui', 'lui-même', 'on']	Pascal	Dans le ciel décoloré, le soleil paraissait las de tout ce vent dont la violence, depuis six jours, lui passait sur la face. Et, pareil aux arbres échevelés, [MASK] tenait bon, avec ses vêtements qui avaient des claquements de drapeaux, avec sa barbe et ses cheveux emportés, fouettés de tempête.
+
+['son', 'sa', 'le', 'la', "l'"]	Clotilde	; et celle-ci, stupéfaite d’abord d’une catastrophe si prompte, bouleversée ensuite, accourait, débordante d’un chagrin bruyant. Elle sanglota devant son fils, elle embrassa [MASK], qui lui rendit son baiser, comme dans un rêve.
+
+['lui', 'Dieu', 'monsieur', 'toi', 'Monsieur']	Ramond	; et il semblait que le malheur s’acharnait, les emportant à la dérive.– Écoute, dit-il enfin, j’ai une idée… Si je m’adressais à [MASK], il nous prêterait volontiers mille francs, qu’on lui rendrait, lorsque nos affaires seront arrangées.
+
+['rien', 'ne', 'aucun', 'personne', ',']	Pascal	Je te jure de ne rien prendre, je ne dérangerai même rien… Seulement, n’est-ce pas ? puisque nous sommes seules, et que jamais [MASK] ne reparaît avant le dîner, nous pourrions nous assurer de ce qu’il y a là-dedans…
+
+['le', 'que', ':', ',', 'il']	Ramond	Vous savez, maître, dit [MASK], que je ne vous quitte pas. J’ai prévenu ma femme, nous allons passer la journée ensemble ; et, quoi que vous en disiez, j’espère bien que ce ne sera pas la dernière… N’est-ce pas
+
+['il', ',', 'elle', 'Il', 'on']	Ramond	[MASK] avait dit vrai, il ne devait y avoir eu là que de l’épuisement nerveux. Peut-être, tout de même, finirait-il par s’en tirer.– Eh ! c’est toi qui me guéris, petite fille, disait-il, sans vouloir avouer son espoir.
+
+['en', ',', 'de', 'le', 'à']	Clotilde	Lui, ne quitta donc pas [MASK] d’une minute, l’aidant, désirant se convaincre qu’elle emportait bien tout ce dont elle aurait besoin. Deux grandes malles étaient ouvertes, au milieu de la chambre en désordre ; des paquets, des vêtements traînaient partout ;
+
+['t-il', '"', 'Oui', 'elle', 'j']	Félicité	Sois bien sage et bien beau, mon mignon… Et aime-moi un peu.– Allons, allons, nous n’avons pas de temps à perdre, répéta [MASK].Mais la gardienne rentrait. C’était une grosse fille vigoureuse, attachée spécialement au service de la folle.
+
+[',', '"', 'â', 'que', 'le']	Ramond	C’était, d’ailleurs, ce qu’il allait s’empresser de faire, le plus vite possible.– Bah ! bah ! conclut [MASK], en se décidant à prendre congé, par crainte de l’exciter davantage, je vous laisse Clotilde, et je suis bien tranquille…
+
+['elle', 'madame', 'Madame', 'ça', 'je']	Mademoiselle	Oh ! non, non, Madame ! on nous surprendrait !… Attendez, peut-être que [MASK] dort.Elle retourna dans la chambre, sur la pointe des pieds, et revint tout de suite.– Mais oui, elle dort !… Ses yeux sont fermés, elle ne bouge plus.
+
+['lui', 'Lui', 'Jean', 'puis', 'il']	Maxime	Et [MASK], de plus en plus, était séduit par cette sœur si bonne, si bien portante, si raisonnable, dont le charme l’enveloppait comme d’une caresse. Elle le conquérait à un tel point, que, peu à peu, un projet, vague d’abord, se précisait en lui.
+
+['lui', 'le', 'la', 'son', "l'"]	Clotilde	Lorsqu’il reprit haleine, il ne la dérangea pas, il préféra ne parler à personne de cette aggravation de son mal ; mais il garda la certitude qu’il était fini, qu’il ne vivrait pas un mois peut-être. Sa première pensée alla vers [MASK].
+
+['vous', 'de', 'ménage', 'chambre', 'votre']	Martine	Vous êtes une brave femme, [MASK]. Tout cela vous sera rendu… Je crois bien que je vais mourir…Elle ne le laissa pas achever, se révoltant, dans un sursaut de tout son être, dans un cri de protestation.– Mourir, vous, Monsieur !
+
+['-', 'le', 'la', 're', 'de']	Martine	rien qu’en soufflant dessus.Brusquement, son regard brilla, elle avait trouvé.– Dites donc, [MASK], il y a un crochet qui retient le premier battant ?– Oui, Madame, il s’accroche dans un piton, en dessus de la planche du milieu…
+
+['il', 'alors', 'lui', 'que', 'qui']	Ramond	Alors, [MASK], en toute sincérité, répondit qu’il pouvait très bien, selon lui, nourrir l’espoir de vivre encore une année. Il donnait ses raisons, l’état relativement peu avancé de la sclérose, la santé parfaite des autres organes.
+
+['il', 'elle', 'on', 'Pierre', 'Jean']	Clotilde	Et, pendant le quart d’heure que dura le voyage, dans le compartiment où ils étaient seuls, [MASK] s’amusa à lui enlever sa toque, pour lustrer ses admirables cheveux blonds, sa royale chevelure dont les boucles lui tombaient sur les épaules.
+
+['elle', 'Elle', 'la', 'il', 'Marguerite']	Félicité	Et elle multiplia les trous, à droite et à gauche, jusqu’à ce que, se servant de la vrille elle-même, elle pût enfin pousser le crochet, le chasser du piton. Le pêne de la serrure glissa, les deux battants s’ouvrirent.– Enfin ! cria [MASK], hors d’elle.
+
+['se', 'le', 'on', 'à', 'de']	Pascal	Tout à l’heure, il faudra que je m’inquiète de la toiture, car des tuiles sont parties.Déjà, ils n’étaient plus ensemble. Ils n’entendaient plus que ce vent furieux, balayant tout, emportant leur vie.Enfin, à huit heures et demie, [MASK] dit simplement
+
+['qui', 'ou', "s'", 'se', 'et']	Clotilde	. Il ne retrouverait pas un client, ce serait une cruauté inutile que de le forcer à un essai, dont il reviendrait sûrement le cœur meurtri et les mains vides. [MASK], au contraire, s’employait toute, pour l’en détourner ;
+
+['lui', 'le', 'son', "l'", 'ce']	Pascal	Fais-lui dire d’être ici demain, à trois heures.La nuit fut si abominable pour [MASK], qu’il se leva tard, en prétextant que ses migraines l’avaient repris. Il n’éprouvait de soulagement que sous l’eau glacée de la douche.
+
+['Elle', 'elle', 'et', 'Il', 'Et']	Clotilde	Ne tremblait-elle plus, à l’idée d’aller en enfer bouillir éternellement ?[MASK] ne put réprimer un sourire.– Oh ! l’enfer, tu sais qu’il ne m’a jamais beaucoup inquiétée… Mais tu te trompes en croyant que je n’ai plus de religion.
+
+['elle', 'celle', 'vie', 'lui', 'enfant']	sujette	Et, défaillant, à la sentir si adorable entre ses bras, si confiante, en [MASK] qui s’était donnée à son vieux roi, il faisait le serment d’être fort, de ne point accepter le sacrifice de cette enfant, de la rendre au bonheur, à la vie, malgré elle.
+
+['on', 'elle', 'et', 'posée', 'encore']	Ramond	Brusquement, elle comprit ; et, comme elle était sur le point de quitter la chambre, elle s’arrêta, elle écouta encore.[MASK] avait baissé la voix.– La clef de l’armoire est sous l’oreiller, il m’a répété plusieurs fois de vous en avertir…
+
+[',', 'de', 'le', 'les', 'se']	Clotilde	[MASK], parfois, maintenant, se permettait d’en plaisanter. Elle restait, au fond, la fervente du mystère ; et elle disait gaiement que, s’il faisait ainsi des miracles, c’était qu’il en avait en lui le pouvoir, un vrai bon Dieu
+
+['il', 'elle', 'celui-ci', 'on', 'le']	Martine	Elle exhalait son ressentiment, jurait d’arriver quand même à s’emparer des papiers et à les détruire, puisqu’il ne voulait pas en faire volontairement le sacrifice. Mais ce qui glaça le docteur, ce fut la façon dont [MASK] l’apaisait, d’une voix contenue.
+

@@ -1,0 +1,200 @@
+['il', '</s>', 'elle', '-', '"']	Philippe	L’enfant répondit avec toute sa naïveté :– Parce que tu n’es pas le mari de maman.Personne ne rit. [MASK] resta debout, appuyant son front sur le dos de ses grosses mains que supportait le manche de son marteau dressé sur l’enclume.
+
+['</s>', 'celui-ci', 'pierre', 'julien', 'jacques']	Caravan	et, relevant d’un coup de main le panama grisâtre qui lui couvrait le chef, il répondit en ricanant : « Pas si sûr que ça, mon bon, votre mère est une ascète et vous n’êtes qu’un plein-de-soupe. » [MASK], troublé, se tut.
+
+['il', '</s>', 'elle', '"', '--il']	Simon	:– Pas de papa ! pas de papa ![MASK] le saisit à deux mains aux cheveux et se mit à lui cribler les jambes de coups de pieds pendant qu’il lui mordait la joue cruellement. Il se fit une bousculade énorme.
+
+['que', ',', 'tout', 'seulement', 'dis-je']	Caravan	Alors [MASK], obéissant machinalement au besoin de s’étourdir qui pousse tous les malheureux, reprit plusieurs fois de l’eau-de-vie ; et son œil hébété luisait.Le docteur enfin se leva pour partir ; et s’emparant du bras de son ami :
+
+['on', 'elle', 'chacun', '</s>', 'il']	Henri	Un tumulte se fit sous un buisson. [MASK] crut voir une jupe blanche qu’on rabattait vite sur un gros mollet ; et l’énorme dame apparut, un peu confuse et plus rouge encore, l’œil très brillant et la poitrine orageuse, trop près peut-être de son voisin.
+
+['et', 'pas', 'mais', ',', 'qui']	Simon	Mais [MASK], tout à coup, cessa de sangloter. Une rage l’affola. Il y avait des pierres sous ses pieds ; il les ramassa et, de toutes ses forces, les lança contre ses bourreaux. Deux ou trois furent atteints et se sauvèrent en criant
+
+['--il', 'il', '</s>', '--', '"']	Simon	?[MASK] ne répondit rien ; et, inébranlable dans sa foi, il les défiait de l’œil, prêt à se laisser martyriser plutôt que de fuir devant eux. Le maître d’école le délivra et il retourna chez sa mère.
+
+['il', ',', 'lui', 'elle', 'de']	Simon	Et [MASK] avait des minutes de béatitude, de cet alanguissement qui suit les larmes, où il lui venait de grandes envies de s’endormir là, sur l’herbe, dans la chaleur.Une petite grenouille verte sauta sous ses pieds. Il essaya de la prendre.
+
+['</s>', '"', 'le', '_', 'de']	Rivet	Après elle la campagne recommençait, coupée çà et là de bouquets d’arbres cachant les fermes.[MASK], par cérémonie, et bien qu’en vêtements d’ouvrier, avait pris le bras de sa sœur qu’il promenait avec majesté.
+
+['et', 'elle', 'ou', 'tout', 'il']	Caravan	Or la vieille, se sentant fatiguée, voulut partir, [MASK] se précipita. Alors elle le fixa dans les yeux et lui dit : « Toi, tu vas me remonter tout de suite ma commode et ma pendule. »
+
+['qui', 'à', 'il', "d'", "l'"]	Jacques	Puis, un matin, elle vit entrer à la soupe un autre valet. Elle demanda :– [MASK] est parti ?– Mais oui, dit l’autre, je suis à sa place.Elle se mit à trembler si fort qu’elle ne pouvait décrocher sa marmite
+
+['il', 'qui', 'celui-là', 'on', 'peut-être']	Simon	Quelqu’un avait ajouté : « Il est bien heureux maintenant. » – Et [MASK] voulait aussi se noyer parce qu’il n’avait pas de père, comme ce misérable qui n’avait pas d’argent.Il arriva tout près de l’eau et la regarda couler.
+
+['</s>', 'elle', 'il', 'et', 'chacun']	Constance	Ce fut une cohue à la sortie, une cohue bruyante, un charivari de voix criardes où chantait l’accent normand. La population formait deux haies, et lorsque parurent les enfants, chaque famille se précipita sur le sien.[MASK] se trouva saisie, entourée, embrassée par toute la maisonnée de femmes.
+
+['</s>', 'il', 'elle', '"', 'celui-ci']	Caravan	« Tenez, mon bon, regardez l’œil. » Il releva la paupière et le regard de la vieille femme réapparut sous son doigt, nullement changé, avec la pupille un peu plus large peut-être. [MASK] reçut un coup dans le cœur et une épouvante lui traversa les os.
+
+['fait', 'dit', 'maman', 'rachel', 'répondu']	Raphaële	Il s’écria : « Je ne sais pas ce qu’a [MASK], mais elle est parfaite ce soir. » Puis, comme on lui tendait un verre, il le vida d’un trait en murmurant : « Bigre, rien que ça de luxe !
+
+['</s>', '"', '_', '...', '-']	Rose	Comme le temps était fort beau, les gens de la ferme avaient dîné plus vite que de coutume et s’en étaient allés dans les champs.[MASK], la servante, demeura toute seule au milieu de la vaste cuisine où un reste de feu s’éteignait dans l’âtre sous la marmite pleine d’eau chaude.
+
+['il', ',', 'et', 'il', 'homme']	Simon	[MASK] se tut ; il ne savait pas. Les enfants riaient, très excités ; et ces fils des champs, plus proches des bêtes, éprouvaient ce besoin cruel qui pousse les poules d’une basse-cour à achever l’une d’entre elles aussitôt qu’elle est blessée.
+
+[',', ';', ':', '-', '"']	Simon.–	riposta [MASK] Il est mort, déclara l’enfant avec une fierté superbe, il est au cimetière, mon papa.Un murmure d’approbation courut parmi les garnements, comme si ce fait d’avoir son père mort au cimetière eût grandi leur camarade pour écraser cet autre qui n’en avait point du tout.
+
+['il', 'et', ',', 'homme', 'en']	Caravan	[MASK] pleura longtemps ; puis, quand il fut à bout de larmes, quand toute sa souffrance eut pour ainsi dire coulé, il éprouva de nouveau un soulagement, un repos, une tranquillité subite.La lune s’était levée ; elle baignait l’horizon de sa lumière placide.
+
+['</s>', 'chacun', 'il', 'ils', 'cela']	Simon	Ils se tenaient debout, enflammés comme des démons, les yeux fixés sur le fer ardent qu’ils torturaient ; et leur lourde pensée montait et retombait avec leurs marteaux.[MASK] entra sans être vu et alla tout doucement tirer son ami par la manche.
+
+['aussi', 'celle-ci', 'elle', 'encore', '"']	Marie-Louise	Tu dis ?… Qu’est-ce que tu dis là ?… »Mais [MASK], étranglée par l’émotion, répéta : « Grand’… grand’… grand’maman s’habille… elle va descendre. »Il s’élança dans l’escalier follement, suivi de sa femme abasourdie
+
+['</s>', 'il', '-', '--il', '"']	Simon	Le gars se frottait les mains. Il reprit :– Parce que si tu en avais un, il serait le mari de ta maman.[MASK] se troubla devant la justesse de ce raisonnement, néanmoins il répondit : « C’est mon papa tout de même. »
+
+['jeanne', 'marie', 'madeleine', 'joseph', 'jacques']	Rosa	la clochette tintait coup sur coup, la foule prosternée appelait Dieu ; les enfants défaillaient d’une anxiété démesurée.C’est alors que [MASK], le front dans ses mains, se rappela tout à coup sa mère, l’église de son village, sa première communion.
+
+['il', 'elle', 'qui', 'celui-ci', 'jeanne']	Simon	Intimidé et sa casquette à la main, il balbutia :– Tenez, madame, je vous ramène votre petit garçon qui s’était perdu près de la rivière.Mais [MASK] sauta au cou de sa mère et lui dit en se remettant à pleurer :
+
+['elle', 'jeanne', 'tous', 'lui', 'catherine']	Rose	Ce point de feu tremblotant, noyé dans les ténèbres de la voûte, apparut à [MASK] comme une dernière espérance et, les yeux fixés sur lui, elle s’abattit à genoux.La mince veilleuse remonta dans l’air avec un bruit de chaîne.
+
+['il', 'on', 'elle', 'chacun', 'se']	Madeleine	; il lui sembla que cet hameçon c’était son amour et que, s’il fallait l’arracher, tout ce qu’il avait dans la poitrine sortirait ainsi au bout d’un fer recourbé, accroché au fond de lui, et dont [MASK] tenait le fil.
+
+['</s>', 'lui', 'jacques', 'celui-ci', 'julien']	Caravan	; c’est de la frime, tout ça, et la preuve, c’est qu’elle est remontée dans sa chambre, aussitôt, sans dire un mot. »[MASK], confus, se taisait, quand la petite bonne se précipita pour annoncer le dîner.
+
+['elle', 'celle-ci', 'jeanne', 'celui-ci', 'lui']	Madeleine	on devrait les noyer comme des chiennes avec une pierre au cou. »Mais [MASK], brusquement, s’emporta ; sa petite voix aigre devint sifflante, et elle parlait avec volubilité, comme pour plaider sa propre cause :« Est-ce que ça te regarde, toi ?
+
+['peut-être', 'celui-ci', 'tout', 'cela', 'probablement']	Braux	Elle est solide comme le Pont-Neuf ; elle nous enterrera tous, vous verrez. »Il s’assit, acceptant le café qu’on lui offrait, et se mêla bientôt à la conversation des deux hommes, approuvant [MASK], car il avait été lui-même compromis dans la Commune.
+
+['elle', 'on', 'il', 'et', "s'"]	Marie-Louise	Aussitôt, [MASK] organisa un premier voyage, cinq filles et deux garçons : les plus grands, les plus hardis. Elle les força à retirer leurs souliers pour ne point être découverts ; la troupe se faufila dans la maison et monta lestement comme une armée de souris.
+
+['</s>', 'de', 'et', 'le', '"']	Caravan	Ayant ensuite vidé l’assiette remplie d’eau, replacé le buis derrière la glace et remis les chaises à leur place, elle était prête à descendre, quand apparurent devant elle son fils et sa belle-fille.[MASK] se précipita, lui saisit les mains, l’embrassa, les larmes aux yeux
+
+['le', 'qui', 'tout', 'il', ',']	Paul	Puis il essaya de retirer son hameçon, le tordit, le tourna, mais en vain ; alors, pris d’impatience, il se mit à tirer, et tout le gosier saignant de la bête sortit avec un paquet d’entrailles. Et [MASK] frémit, déchiré lui-même jusqu’au cœur
+
+['il', 'elle', 'et', 'ne', 'on']	Jacques	ils se donnaient des rendez-vous au clair de la lune, à l’abri d’une meule de foin, et ils se faisaient des bleus aux jambes, sous la table, avec leurs gros souliers ferrés.Puis, peu à peu, [MASK] parut s’ennuyer d’elle
+
+['et', 'que', 'celui-ci', ',', 'jésus']	Fernande	Alors [MASK], l’étreignant, lui demanda dans l’oreille : « Fais-nous danser, dis, tu veux ? » Il se leva et, s’asseyant devant l’épinette séculaire endormie en un coin, fit sortir une valse, une valse enrouée, larmoyante, du ventre geignant de la machine.
+
+['elle', 'il', '</s>', 'et', 'jeanne']	Paul	Viens donc me parler ma chérie. »[MASK] crispa ses doigts sur le poignet de sa maîtresse ; mais elle lui dit d’un tel air : « Tu sais, mon p’tit, tu peux filer », qu’il se tut et resta seul.
+
+['chacun', 'un', 'le', "l'", 'henri']	Simon	Les deux combattants furent séparés et [MASK] se trouva frappé, déchiré, meurtri, roulé par terre, au milieu du cercle des galopins qui applaudissaient. Comme il se relevait, en nettoyant machinalement avec sa main sa petite blouse toute sale de poussière, quelqu’un lui cria :
+
+['louis', 'jeanne', 'charles', 'berthe', 'marguerite']	Henri	La tête de [MASK] était sur son épaule ; et, brusquement, il la baisa sur les lèvres. Elle eut une révolte furieuse et, pour l’éviter, se rejeta sur le dos. Mais il s’abattit sur elle, la couvrant de tout son corps.
+
+['</s>', 'elle', 'jeanne', '-', 'marie']	Rose	:– Que voulez-vous, mon enfant ?Et il avalait rapidement des cuillerées de soupe dont les gouttes tombaient sur sa soutane rebondie et crasseuse au ventre.[MASK] n’osait plus parler, ni implorer, ni supplier ; elle se leva ; le curé lui dit :
+
+['late', 'ist', 's', '1', 'ps']	Pauline	[MASK] s’approcha du corps et demanda : « Est-ce qu’il est bien mort ? tout à fait ? »Les hommes haussèrent les épaules : « Oh ! après ce temps-là ! pour sûr ! »Puis l’un d’eux interrogea :
+
+['il', 'cela', 'celui-ci', ',', 'ça']	Frédéric	; puis [MASK] se griserait sans doute, et quand il était gris, il assommait les gens pour un oui ou pour un non. Enfin elle se décida à emmener tout son monde, sauf le garçon à qui elle donna sa liberté jusqu’au surlendemain.
+
+['elle', 'il', 'se', 'le', 'ils']	Madeleine	Au moment où ils abordaient, les femmes arrivaient aussi.Dès qu’elle le vit, [MASK] recula d’horreur. Sous la lumière de la lune, il semblait vert déjà, avec sa bouche, ses yeux, son nez, ses habits pleins de vase.
+
+['il', 'on', ',', "s'", 'elle']	Paul	Et, au même moment [MASK] apercevait, debout à l’autre extrémité du café, le mousse et les deux belles filles, toutes trois liées par la taille et qui le guettaient en chuchotant.Il comprit et, comme un fou, s’élança dans l’île.
+
+['</s>', 'il', 'elle', '--il', 'on']	Paul	Elle voulut tout de suite entrer. [MASK] désirait auparavant faire un tour dans l’île ; mais il dut céder.L’assistance s’était épurée. Les canotiers, presque seuls, restaient avec quelques bourgeois clairsemés et quelques jeunes gens flanqués de filles.
+
+['non', 'oui', 'certainement', 'merci', '"']	Philippe	L’ouvrier prit la chose en plaisanterie et répondit en riant :– Mais oui, je veux bien.– Comment est-ce que tu t’appelles, demanda alors l’enfant, pour que je réponde aux autres quand ils voudront savoir ton nom ?– [MASK], répondit l’homme.
+
+['le', 'la', 'les', 'de', 'du']	Paul	et [MASK] respira.On dansait : les couples face à face cabriolaient éperdument, jetaient leurs jambes en l’air jusqu’au nez des vis-à-vis.Les femelles, désarticulées des cuisses, bondissaient dans un enveloppement de jupes révélant leurs dessous.
+
+['</s>', ',', 'tout', 'et', '"']	Rosa	et elles jetaient des cris aigus à chacun des efforts inutiles de l’ivrogne. L’homme furieux, la face rouge, tout débraillé, secouant en des efforts violents les deux femmes cramponnées à lui, tirait de toutes ses forces sur la jupe de [MASK] en bredouillant : «
+
+['il', ',', 'puis', 'et', 'lui']	Simon	[MASK] avisa tout à coup un petit voisin, le fils d’une veuve, qu’il avait toujours vu, comme lui-même, tout seul avec sa mère.– Et toi non plus, dit-il, tu n’as pas de papa.– Si, répondit l’autre, j’en ai un.–
+
+['droite', 'gauche', 'fond', 'cheval', 'bloc']	Saint-Lazare	? Fiche-nous la paix avec tes manières et mêle-toi de tes affaires… »Mais il lui coupa la parole.« C’est la police que ça regarde et je les ferai flanquer à [MASK], moi ! »Elle eut un soubresaut :– Toi ?
+
+['lui', 'dieu', 'jésus', 'celui-ci', 'moi']	Rosa	»Il ne répondit pas, et comme on entendait siffler le train, il se mit immédiatement à embrasser tout le monde. Quand ce fut au tour de [MASK], il s’acharna à trouver sa bouche que celle-ci, riant derrière ses lèvres fermées, lui dérobait chaque fois par un rapide mouvement de côté.
+
+['"', 'toi', 'dit-il', 'bien', 'dit-elle']	Alfred	[MASK], apporte-moi du savon. » Et il sentait cette même odeur d’eau qui coule, cette même brume envolée des terres ruisselantes, cette buée marécageuse dont la saveur était restée en lui, inoubliable, et qu’il retrouvait justement ce soir-là même où sa mère venait de mourir.
+
+['qui', 'là', 'il', 'lui', 'moi']	Caravan	et [MASK], le cerveau vidé, ne comprenait rien.On servit le café, qu’on avait fait très fort pour se soutenir le moral. Chaque tasse, arrosée de cognac, fit monter aux joues une rougeur subite, mêla les dernières idées de ces esprits vacillants déjà.
+
+['le', "l'", '</s>', 'la', 'un']	Henri	prit son bras d’un air tendre et l’on regagna les bateaux. [MASK], qui marchait devant, toujours muet à côté de la jeune fille, crut distinguer tout à coup comme un gros baiser qu’on étouffait.
+
+['</s>', 'elle', 'il', 'madame', 'chacun']	Rosa	; et le monsieur redoublait de grâce, d’esprit et d’agaceries.[MASK] s’en mêla et, se penchant par-dessus les jambes de son voisin, elle embrassa les trois bêtes sur le nez. Aussitôt, chaque femme voulut les baiser à son tour ;
+
+['roland', 'paris', 'faust', 'chambre', 'noël']	Musette	Alors ma compagne se mit à courir en gambadant, enivrée d’air et d’effluves champêtres. Et moi je courais derrière en sautant comme elle. Est-on bête, monsieur, par moments !« Puis elle chanta éperdument mille choses, des airs d’opéra, la chanson de [MASK] !
+
+[',', 'elle', 'il', 'et', "s'"]	Rose	[MASK] alla avec la foule se prosterner dans l’abbaye et, mêlant son vœu aux souhaits grossiers qu’exhalaient tous ces cœurs de paysans, elle supplia Celui que tous imploraient de la rendre encore une fois féconde. Ce fut en vain.
+
+['elle', "c'", "j'", 'tu', 'il']	Rosalie	Il leva la tête et, montrant le plafond de l’œil :- Mais… là-haut… il n’y a personne.- Pardon, [MASK] est auprès d’elle, tu iras la remplacer à trois heures du matin, quand tu auras fait un somme.
+
+['jean', 'jacques', 'pierre', 'jules', 'paul']	Frédéric	Elles servaient, avec l’aide du garçon, nommé [MASK], un petit blond imberbe et fort comme un bœuf, les chopines de vin et les canettes sur les tables de marbre branlantes, et, les bras jetés au cou des buveurs, assises en travers de leurs jambes, elles poussaient à la consommation.
+
+['vous', 'moi', 'lui', 'amour', 'elle']	Jacques	Alors elle eut un instant de révolte désespérée et, d’un geste furieux le rejetant contre le mur, elle se dressa sur son séant, puis, la voix changée, sifflante :– J’en ai un enfant, moi, j’en ai un ! je l’ai eu avec [MASK] ;
+
+['il', 'chacun', 're', 'lui-même', 'se']	Caravan	L’air était doux, la brise odorante. Une mollesse passait dans le sommeil de la terre et [MASK] buvait cette douceur de la nuit ; il respirait longuement, croyait sentir pénétrer jusqu’à l’extrémité de ses membres une fraîcheur, un calme, une consolation surhumaine.
+
+['qui', 'la', 'midi', "l'", 'une']	Philippe	Mais, de même que le bourdon d’une cathédrale résonne dans les jours de fête au-dessus du tintement des autres cloches, ainsi le marteau de [MASK], dominant le fracas des autres, s’abattait de seconde en seconde avec un vacarme assourdissant.
+
+['il', 'on', 'elle', 'celui-ci', 'je']	Simon	et à la sortie, lorsque le gars voulut recommencer, [MASK] lui jeta ces mots à la tête, comme il aurait fait d’une pierre : « Il s’appelle Philippe, mon papa. »Des hurlements de joie jaillirent de tous les côtés :– Philippe qui ?
+
+['jeunesse', 'dieu', 'noël', 'patrie', 'toi']	Mürger	Chante la jeunesse, ô [MASK] !Me voici donc entrant dans le cimetière Montmartre, et tout à coup imprégné de tristesse, d’une tristesse qui ne faisait pas trop de mal, d’ailleurs, une de ces tristesses qui vous font penser, quand on se porte bien : «
+
+['</s>', 'elle', '"', 'la', 'puis']	Rosa	Effrayée, elle appela faiblement et une petite voix entrecoupée lui répondit. C’était la fillette qui, couchant toujours dans la chambre de sa mère, avait peur en sa soupente étroite.[MASK], ravie, se leva, et doucement, pour ne réveiller personne, alla chercher l’enfant.
+
+['lui', 'lui-même', 'présent', 'moi', 'cela']	Simon	Quant à [MASK], il s’était appuyé contre un arbre pour ne pas tomber ; et il restait comme atterré par un désastre irréparable. Il cherchait à s’expliquer. Mais il ne pouvait rien trouver pour leur répondre et démentir cette chose affreuse qu’il n’avait pas de papa.
+
+['</s>', 'il', 'qui', 'on', 'elle']	Caravan	Sur la même table qu’avant dîner, absorbés et immobiles, les trois amateurs de dominos jouaient encore. [MASK] s’approcha d’eux, en quête de commisération. Comme aucun ne paraissait le voir, il se décida à parler : «
+
+['cela', 'ça', 'lucy', 'sarah', 'anna']	Henri	Elle était là, assise sur l’herbe, l’air triste, tandis qu’à son côté, toujours en manches de chemise, son mari, le jeune homme aux cheveux jaunes, dormait consciencieusement comme une brute.Elle devint si pâle en voyant [MASK] qu’il crut qu’elle allait défaillir.
+
+['"', ')', ',', 'wilson', 'ce']	Rosa	[MASK], qui allumait l’ancien maire, l’embrassant coup sur coup et tirant sur ses deux favoris en même temps pour maintenir droite sa tête, profita de l’exemple : « Allons, fais comme lui. », dit-elle.
+
+['il', ',', 're', 'et', 'homme']	Paul	[MASK] vit tout cela comme dans un songe, comme à travers un souvenir ; il ne songeait à rien, ne comprenait rien, et toutes les choses, son existence même, lui apparaissaient vaguement, lointaines, oubliées, finies. Le fleuve était là.
+
+['que', 'grand-père', ',', 'grand-mère', 'qui']	Rosa	Alors [MASK], après avoir hésité quelques secondes, fixa son choix, et de sa voix usée commença la Grand-Mère :Ma grand-mère, un soir à sa fête,De vin pur ayant bu deux doigts,Nous disait, en branlant la tête :Que d’amoureux j’eus autrefois !
+
+['ça', 'tout', 'bébé', 'quoi', 'max']	Caravan	Lorsqu’elle eut terminé la figuration qui doit accompagner la Mort, elle resta debout, immobile. Alors l’officier de santé, qui l’avait aidée à disposer les objets, lui dit tout bas : « Il faut emmener [MASK]. »
+
+['-', '?', 'euh', 'attendez', 'vous']	Simon	et c’était avec une certaine joie, mêlée d’un étonnement considérable, qu’ils avaient accueilli et qu’ils s’étaient répété l’un à l’autre cette parole dite par un gars de quatorze ou quinze ans qui paraissait en savoir long tant il clignait finement des yeux :– Vous savez… [MASK]…
+
+[',', 'pour', 'ou', 'bien', 're']	Caravan	[MASK] dit, pour expliquer : « Elle a été un peu souffrante, mais elle va bien maintenant, tout à fait bien, n’est-ce pas, mère ? »Alors, la bonne femme, se remettant en marche, répondit de sa voix cassée, comme lointaine : «
+
+['est-ce', 'bien', 'pourquoi', 'mais', 'dis-moi']	Rose	[MASK], dit-il, est-ce que tu n’as jamais songé à t’établir ?Elle devint pâle comme une morte. Voyant qu’elle ne lui répondait pas, il continua :– Tu es une brave fille, rangée, active et économe.
+
+['marie', 'angélique', 'marguerite', 'eve', 'raphaël']	Juliette	c’est-à-dire l’invisible témoin des rendez-vous d’amour qu’invoquait [MASK] sur son balcon : cette musique du ciel accordée aux baisers des hommes ; cet éternel inspirateur de toutes les romances langoureuses qui ouvrent un idéal bleu aux pauvres petits cœurs des fillettes attendries !
+
+['on', '...', ':', 'maintenant', ',']	Henriette	Ils marchaient rapidement l’un près de l’autre, sans se parler, sans se toucher, car ils semblaient devenus ennemis irréconciliables, comme si un dégoût se fût élevé entre leurs corps, une haine entre leurs esprits.De temps à autre, [MASK] criait
+
+['elle', 'il', "qu'", 'où', 'qui']	Caravan	Au-dessus de lui, [MASK] avait installé sa mère, dont l’avarice était célèbre aux environs et dont la maigreur faisait dire que le Bon Dieu avait appliqué sur elle-même ses propres principes de parcimonie. Toujours de mauvaise humeur, elle ne passait point un jour sans querelles et sans colères furieuses.
+
+['lui', 'lui', 'moi', 'papa', 'eux']	Simon	Quant à [MASK], il aimait beaucoup son nouveau papa et se promenait avec lui presque tous les soirs, la journée finie. Il allait assidûment à l’école et passait au milieu de ses camarades fort digne, sans leur répondre jamais.
+
+['midi', ',', 'minuit', 'le', 'nous']	Bougival	Alors il se mit à fouiller l’épaisseur des taillis, à vagabonder éperdument, s’arrêtant parfois pour écouter.Les crapauds, par tout l’horizon, lançaient leur note métallique et courte.Vers [MASK] un oiseau inconnu modulait quelques sons qui arrivaient affaiblis par la distance.
+
+['tout', '...', 'bien', ',', 'un']	Rosa	et [MASK] aussitôt continua :Quoi, maman, vous n’étiez pas sage !Non, vraiment ! et de mes appas,Seule, à quinze ans, j’appris l’usage,Car, la nuit, je ne dormais pas. Tous ensemble hurlèrent le refrain ;
+
+['il', 'on', 'qui', 'elle', 'et']	Caravan	– Né en 1851. – Élève-commissaire en 1871, Sous-commissaire en 1875. »– A-t-il navigué celui-là ?à cette question, [MASK] se rasséréna. Une gaieté lui vint qui secouait son ventre :
+
+['moi', 'toi', 'nous', 'elle', 'eux']	Grillon	Il l’a voulu, tant pis pour lui, après tout ! » Puis, la relevant : « Allons, ma chérie, viens-t’en coucher à la maison : tu ne peux pas rentrer chez [MASK] ce soir. » Elle l’embrassa de nouveau : «
+
+['il', 'harry', 'robert', 'arthur', 'richard']	Jacques	et ils restaient là tous deux, immobiles, muets dans le silence noir troublé seulement par le bruit de mâchoire d’un cheval qui tirait sur la paille du râtelier, puis la broyait avec lenteur.Quand [MASK] comprit qu’elle était la plus forte, il balbutia :
+
+['elle', 'il', 'on', 'lui', 'marguerite']	Rosa	; et cette danse menaçait de s’éterniser, quand [MASK] entrouvrit la porte avec un bougeoir à la main. Elle était en cheveux, en savates, en chemise, tout animée, toute rouge : « Je veux danser », cria-t-elle.
+
+['</s>', 'il', 'on', 'celui-ci', 'elle']	Pauline	Un des bateliers ramait, l’autre enfonçait dans l’eau un grand bâton et semblait chercher quelque chose. [MASK] cria : « Que faites-vous ? Qu’y a-t-il ? » Une voix inconnue répondit : « C’est un homme qui vient de se noyer.
+
+["l'", 'son', 'la', 'cette', 'moitié']	Rosalie	Le docteur s’inclina et, déposant son chapeau sur un meuble : « En ce cas, j’accepte, madame. »Elle donna des ordres à [MASK] affolée, puis elle-même se mit à table « pour faire semblant de manger, disait-elle, et tenir compagnie au docteur »
+
+['roland', 'noël', 'papa', 'renaud', 'faust']	Musette	Oh ! ce sont toutes ces balivernes-là qui nous troublent la tête ; ne prenez jamais, croyez-moi, une femme qui chante à la campagne, surtout si elle chante la chanson de [MASK] !« Elle fut bientôt fatiguée et s’assit sur un talus vert.
+
+['il', 'on', "j'", 'celui-ci', 'elle']	Caravan	Puis, comme il arrive infailliblement en compagnie d’un médecin, [MASK] aborda le chapitre des maladies, espérant de cette façon glaner quelques petits conseils gratuits ou même une consultation, en s’y prenant bien, sans laisser voir la ficelle.
+
+['on', 'le', 'la', 'il', "l'"]	Rosalie	Et, sans parler, engourdis dans la chaleur douce de la digestion, saisis malgré eux par ce bien-être animal que donne l’alcool après dîner, ils se gargarisaient lentement avec le cognac sucré qui formait un sirop jaunâtre au fond des tasses.Les enfants s’étaient endormis et [MASK] les coucha.
+
+['</s>', 'il', 'on', 'elle', 'bussy']	Paul	À mesure qu’elle s’élevait, sa nuance pourpre s’atténuait, devenait jaune, d’un jaune clair, éclatant ; et l’astre paraissait diminuer à mesure qu’il s’éloignait.[MASK] le regardait depuis longtemps, perdu dans cette contemplation, oubliant sa maîtresse.
+
+[',', 'il', 'homme', 'et', 'mari']	Caravan	[MASK] se baissa sous la porte, se mit à descendre en tremblant l’escalier, tandis que sa femme, marchant à reculons, l’éclairait d’une main, ayant la pendule sous l’autre bras.Lorsqu’ils furent chez eux, elle poussa un grand soupir.
+
+['qui', 'il', ',', 'elle', '"']	Marie-Louise	[MASK] ressemblait à sa mère déjà, parlait comme elle, répétant ses paroles, l’imitant même en ses gestes. Elle dit aussi : « Quoi de neuf au ministère ? » Il lui répondit gaiement : « Ton ami Ramon, qui vient dîner ici tous les mois, va nous quitter, fifille.
+
+['complètement', ',', 'un', 'totalement', '...']	Caravan	et comme un consommateur au fond de l’établissement criait : « Un bock, s’il vous plaît ! », il répondit aussitôt d’une voix terrible : « Voilà, boum !… on y va.» et s’élança pour servir, laissant [MASK] stupéfait.
+
+['celle-ci', 'jeanne', 'berthe', 'tout', 'celui-ci']	Madeleine	À la fin, n’y tenant plus, il se leva soudain et fut près d’elle d’un élan, tremblant de tous ses membres. Il saisit [MASK] par les épaules : « Viens, je le veux, dit-il, je t’ai défendu de parler à ces gueuses.
+
+['venir', 'rester', 'tout', 'plus', 'revenir']	Charenton	» Mais elle l’arrêta, en femme qui a tout prévu. « Non, envoie-la seulement de dix à onze, afin que nous ayons le temps de nous retourner avant son arrivée. De [MASK] ici elle en a pour deux heures au plus.
+
+['jean', 'pierre', 'martin', 'joseph', 'robert']	Philippe	»– Ça se peut bien, dit le gars en ricanant, mais ce n’est pas ton papa tout à fait.Le petit à la Blanchotte courba la tête et s’en alla rêveur du côté de la forge au père Loizon, où travaillait [MASK].
+
+['il', 'elle', 'tout', '</s>', 'qui']	Caravan	C’est la fin. »[MASK] s’abattit sur le corps, secoué par des sanglots précipités ; et il baisait convulsivement la figure rigide de sa mère en pleurant avec tant d’abondance que de grosses larmes tombaient comme des gouttes d’eau sur le visage de la morte.
+
+['qui', 'que', ',', 'me', 'il']	Fernande	[MASK] représentait la belle blonde, très grande, presque obèse, molle, fille des champs dont les taches de rousseur se refusaient à disparaître, et dont la chevelure filasse, écourtée, claire et sans couleur, pareille à du chanvre peigné, lui couvrait insuffisamment le crâne.
+
+['il', 'elle', 'et', ',', 'qui']	Paul	»[MASK] se leva : « Allons ! » murmura-t-il.Et ils partirent.La nuit était noire, pleine d’astres, parcourue par une haleine embrasée, par un souffle pesant, chargé d’ardeurs, de fermentations, de germes vifs qui, mêlés à la brise, l’alentissaient.
+
+['lui', 'et', 'puis', 'mais', 'alors']	Caravan	Alors, moi, j’en ai été pour ma peine et pour mes tracas ! Ah ! c’est du propre ! c’est du propre ! »[MASK], éperdu, répétait : « Ma chérie, ma chérie, je t’en prie, je t’en supplie. »
+
+['</s>', 'elle', 'il', '...', 'et']	Caravan	Elle ouvrit la porte, effarée, plus émue encore que la veille en annonçant la catastrophe, et elle murmura, suffoquant : « Oh ! papa, grand’maman s’habille. »[MASK] se dressa avec un tel sursaut que sa chaise alla rouler contre le mur.
+

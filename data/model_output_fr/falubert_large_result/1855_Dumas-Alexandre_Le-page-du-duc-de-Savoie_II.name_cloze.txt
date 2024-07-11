@@ -1,0 +1,200 @@
+['...', 'la', 'ta', "l'", 's']	Maldent	Il paraît que l’argument sembla péremptoire à l’hôtesse de [MASK] car elle n’insista pas davantage, et après avoir, à la lueur de la chandelle qui venait de prendre flamme, jeté un regard sur son mari improvisé, elle murmura : — À tout péqué miséricorde
+
+['on', 'qui', 'France', 'il', ',']	Procope	[MASK] a introduit cette clause dans le traité, prévoyant les deux cas, 1∘ où nous aurions quelque entreprise à tenter pour nous-mêmes, 2∘ où quelque honorable gentilhomme nous ferait une proposition dans le genre de celle que Monsieur paraît disposé à nous faire.
+
+['il', 'puis', 'et', 'ne', 'on']	Yvonnet	; [MASK] sortit presque tout entier de la lucarne ; tous deux restèrent un instant l’haleine suspendue… Le hardi plongeur était-il englouti pour toujours ou allait-il reparaître ? Puis, seconde question, était-ce l’Espagnol ?
+
+['Henri', 'monsieur', 'celui-ci', 'Olivier', 'Jean']	Philippe	: — Non, mon cousin, non, dit [MASK] ; c’est à moi de baiser les vôtres qui viennent de me procurer une victoire si grande, si glorieuse, et qui nous coûte si peu de sang !
+
+['il', 'Il', 'puis', 'et', 'celui-ci']	Gaëtano	En effet, l’indiscrétion ne se fit point attendre. [MASK] sortit tout effaré pour transmettre aux muletiers, aux palefreniers et aux valets d’écurie l’ordre qu’il avait reçu ; puis, apercevant le paysan et sa fille : — Ah ! vous êtes encore là, mes braves gens ?
+
+["l'", 'le', ',', 'fit', 'tout']	Heinrich	— Oh ! oh ! fit [MASK] en riant de son gros rire, che fous en irai gerger dant gue fous foutrez, à ce brix-là ! — Eh bien, alors, va, dit l’amiral, et sans perdre de temps !
+
+['lui', 'elle', 'lui-même', 'à', 'moi']	Malemort	C’était [MASK] qui travaillait à grands coups d’épée cette partie trop paresseuse. L’Espagnol, après avoir fait de vaines tentatives pour rejoindre ses compagnons courant sur la crête des toits, retomba en arrière et, malgré un dernier effort pour se cramponner aux rebords de la fenêtre, finit par disparaître tout à fait.
+
+['le', 'la', 'tout', 'Jean', 'Saint-Germain']	Lactance	; quand vous ordonnerez de brûler les maisons, on y mettra le feu. — Mais, dit une voix, j’espère bien qu’on épargnera l’abbaye de Saint-Quentin-en-Isle. L’amiral se retourna du côté d’où venait la voix et reconnut [MASK].
+
+['le', "l'", 'la', 'elle', 'celui-ci']	Emmanuel	— Oui, dit [MASK] en souriant, je comprends que je ne comprends pas ! — En vérité, murmura le paysan, y faut qu’tous ces renidiu, ils soient pus bêtes èque des kiens pour pas comprendre el picard ! — Chut, mon père, dit la jeune fille.
+
+[',', 'il', '</s>', 'et', 'Il']	Yvonnet	[MASK] n’eut besoin que de laisser tomber son regard sur ces épaules carrées, sur cette tête encadrée dans une chevelure et dans une barbe rousses, sur ces yeux bleu clair pleins d’entêtement et de férocité, pour reconnaître celui qui lui adressait la parole.
+
+['le', 'lancer', 'but', 'lui', 'son']	Conflans	Celle-ci avait débûché avec cette raideur qui caractérise les vieux animaux et avait piqué droit sur [MASK]. Le roi était parti aussitôt sur sa trace en sonnant le lancer et toute la cour avait suivi le roi. Mais les sangliers sont mauvais courtisans.
+
+[',', 'qui', 'il', 'on', "s'"]	Henri	À ces abois se mêla bientôt le cor du roi. [MASK] était arrivé, suivant d’aussi près les chiens que les chiens eux-mêmes suivaient l’animal. Il regarda autour de lui tout en sonnant, cherchant son porte-arquebuse ;
+
+['il', 'lui', 'nous', 'me', 'Il']	Yvonnet	Et [MASK] raconta, non sans pâlir, quoiqu’il fît grand jour, ce qui lui était arrivé pendant la nuit du 27 au 28 août. Il en était à la fin de son récit, quand un grand mouvement annonça que la conférence qui avait lieu sous la tente du roi d’Espagne était terminée.
+
+['il', ',', '...', 'enfin', 'elle']	Heinrich	Enfin [MASK] se leva, son verre plein à la main, la bouche souriante sous son épaisse moustache, l’œil pétillant sous son large sourcil. — Gombagnons, dit-il, che brobose inn zanté. — Silence, messieurs !
+
+['il', 'on', 'elle', 'qui', 'Il']	Maldent	Mais [MASK] connaissait mal les localités ; il alla se jeter à corps perdu dans une table couverte de pots et de verres. — Què qui gnia donc ? demanda la femme effrayée. — Y gnia éque j’dégriboule !
+
+['Gu', 'gu', '...', 'Gou', 'Gw']	Yvonnet	— Vous avez prononcé un nom…, dit-il. — Qui est le vôtre, monsieur, reprit [MASK], tandis que les aventuriers se regardaient, commençant à comprendre que c’était à l’amant de mademoiselle Gudule qu’ils devaient laisser défendre leurs intérêts.
+
+['tous', 'chacun', 'France', 'tout', 'français']	Maldent	Dites vite vos volontés. Alors, le chef, qui parlait un peu plus français que les autres, comprenant à peu près l’apostrophe de [MASK], s’approcha du lit et lui fit entendre que, ce qu’on désirait, c’était qu’il se levât d’abord.
+
+[',', 'et', 'ce', 'le', 'en']	Théligny	Comme l’avait prévu [MASK] qui, du reste, n’arrivait sur le théâtre du combat que derrière son écuyer, c’était là, en effet, que commençait la musique. La musique était bruyante et fit plus d’une fois courber la tête à ceux qui l’écoutaient
+
+[',', 'de', 'se', 'le', "l'"]	Dandelot	[MASK] était non seulement un général, mais encore un soldat ; il avait combattu de la hallebarde et de l’épée aussi bien qu’aurait pu le faire le dernier reître de l’armée. Comme rien ne le distinguait des autres que son courage, on l’avait respecté pour son courage, qui avait cédé au nombre
+
+['il', 'on', ',', 'Il', 'elle']	Heinrich	— Dout de zuide, meinherr amiral, dout de zuide ! Et en effet, immédiatement [MASK] se mit à choisir les chevaux. Ceux qu’il préféra étaient deux chevaux d’escadron, vigoureux, fortement râblés, solides sur leurs jambes. Puis il commença l’inspection des hommes.
+
+['il', 'on', 'chacun', 'elle', 'ils']	Maldent	Au moment où [MASK] recomptait les derniers écus et où Pille-Trousse alignait la dernière pile, une espèce d’ombre se projeta sur les aventuriers, indiquant qu’un corps opaque venait de s’interposer entre eux et le jour.
+
+['Il', 'il', ',', '</s>', 'et']	Coligny	[MASK] ne s’était pas trompé : en arrivant sur le rempart, il vit la tour éventrée et fumante comme le cratère d’un volcan. Une flammèche de l’immense incendie qui l’entourait était entrée par une des meurtrières et avait mis le feu au terrible combustible.
+
+['bien', 'lui', 'celui-ci', 'roi', 'nouveau']	Coligny	À l’instant même, celui-ci reçut du connétable une lettre annonçant à [MASK] qu’il n’avait plus à s’occuper de rien, que de bien tenir un jour ou deux, et que les secours demandés lui arriveraient d’un moment à l’autre.
+
+['deux', 'la', 'corps', ',', 'ceux']	Dandelot	Les deux entreprises, – celle des Espagnols pour surprendre la ville et celle de [MASK] pour la secourir, – étaient éventées. Nous avons vu comment le hasard avait fait échouer celle des Espagnols ; disons comment ce même hasard avait fait échouer celle des Français. Chapitre 13
+
+["j'", 'tu', 'il', "t'", 'ai']	Procope	lui dit-il, j’ai compris que tu avais à me parler : dégoise-moi vite ton compliment, et sois clair, ou je te livre comme espion au duc de Savoie, qui te fera pendre ! Alors, [MASK] avait raconté au connétable toute une histoire à sa plus grande louange.
+
+['Saint-André', 'Jean', 'monseigneur', 'Bernard', 'Olivier']	Dandelot	. Les trois officiers sourirent en même temps et avec une expression pareille. — Si mon frère dit cinquante mille hommes, répondit [MASK], c’est cinquante mille hommes, monseigneur. — Et même plutôt soixante mille que cinquante mille, dit le maréchal de Saint-André.
+
+['Jean', 'Pierre', 'Jacques', 'monsieur', 'Henri']	Procope	— C’est-à-dire, reprit [MASK], que vous nous achetez l’homme mort ou vivant. — Mort ou vivant, c’est cela. — Combien pour le mort ? combien pour le vivant ? — Le même prix. — Bon !
+
+['il', 'chacun', 'on', 'celui-ci', 'et']	Coligny	Assiégeants et assiégés s’abordèrent en silence et le seul bruit que l’on entendit fut celui du fer heurtant le fer. La brèche qu’il gardait n’étant point attaquée, [MASK] pouvait suivre des yeux les chances du combat et se porter où il croirait sa présence nécessaire.
+
+['il', 'Il', 'et', '-', 'Et']	Yvonnet	— Allons, drôle ! dit-il, avance ici ! Ce n’était pas l’heure de faire de la susceptibilité : [MASK] s’avança. — Plus près, dit le connétable, plus près, que je te regarde dans le blanc des yeux, maroufle !
+
+['celui-ci', 'David', 'Fabrice', 'Bernard', "l'"]	Malemort	Cinq secondes après, c’était le visage de [MASK] – reconnaissable au masque de linge que formait l’appareil de sa dernière blessure – qui apparaissait à la lucarne, à la place de celui de l’Espagnol. Il vit ses deux ennemis qui fuyaient et se mit à leur poursuite.
+
+['la', 'le', "l'", 'tout', '.']	Malemort	que, dans trois ou quatre jours, il rentrerait dans la ville à la suite de M. l’amiral et que, grâce à ce cheval, il pourrait, dans les sorties qu’il ferait, aller bien plus loin que les hommes à pied. Cette dernière considération décida [MASK].
+
+['ne', 'il', 'et', 'Il', 'on']	Saint-Quentin	[MASK] pouvait donc compter, pour le moment, sur cent vingt hommes de la compagnie du Dauphin, sur cent hommes de la compagnie du gouverneur de la ville, sur deux cents bourgeois et sur cent moines jacobins. En tout, cinq cent vingt combattants.
+
+['le', 'la', "l'", 'Marie', 'Jean']	Yvonnet	Ce que fit [MASK], ce fut de se cramponner à deux petites mains blanches qui sortirent bientôt par cette fenêtre et qui l’attirèrent si bien et si adroitement à l’intérieur, qu’il était facile de voir que ce n’était point la première fois qu’elles se livraient à cet exercice.
+
+['le', ',', 'la', 'les', 'tout']	Yvonnet	! — C’est juste, monseigneur, répondit [MASK]. Eh bien, vous m’avez vu chez le roi. — Comment, dit le connétable, chez le roi ? Tu vas donc chez le roi, toi ? —
+
+['il', 'on', 'elle', 'et', '</s>']	Procope	Alors, par-dessus l’espèce de petit bras de rivière qui, à cette époque, coulait au pied de la muraille, [MASK] avait sifflé la sentinelle, qui s’était arrêtée et avait cherché à percer l’obscurité du regard.
+
+['le', 'quelque', 'en', 'donc', "l'"]	Yvonnet	Quant au reste de la troupe… — Quant au reste de la troupe, reprit [MASK], il ne peut pas tarder à nous y suivre, attendu que M. l’amiral, d’après ce que je lui ai entendu dire à lui-même, doit y être dans deux ou trois jours
+
+['on', 'il', 'la', 'ils', 'le']	Lactance	Vers trois heures du matin, on n’avait point encore entendu parler d’eux. Alors, comme le jour était près de se lever et qu’il était urgent qu’ils n’allassent point donner dans quelque parti espagnol, [MASK] s’avança avec six ou huit de ses jacobins.
+
+['il', 'on', 'celui-ci', 'Henri', 'Pierre']	Heinrich	pour quel jour nous lui appartenions. — N’imborde ! dit [MASK], il a encaché za barole, et un Allemand n’a gue za barole : il fientra, il tonnera tes arrhes, et il nous vixera un chour.
+
+['elle', '</s>', 'Elle', ',', 'et']	Gudule	[MASK] commença de croire qu’il y avait véritablement un Dieu pour les amants quand elle vit que son oncle avait désigné pour son logement et celui de son père une espèce de petit pavillon formant l’angle du jardin et donnant sur le chemin de ronde du rempart.
+
+['il', 'elle', 'on', 'Il', 'et']	Yvonnet	Quant à la chaîne, après l’avoir tournée en tous sens, [MASK] avait décidé qu’il y restait assez de dorure pour faire illusion à ceux qui la regarderaient à la distance de quelques pas. C’était à lui de ne point permettre qu’on la regardât de trop près.
+
+['Philippe', 'Pierre', 'M.', 'Monseigneur', 'Jean']	Henri	— Notre frère Philippe II prend les devants et nous adresse les reproches qui lui sont dus, répondit [MASK] ; mais il eût mieux fait, puisqu’il a tant de griefs personnels contre nous, de nous faire une querelle personnelle.
+
+['nouvelle', 'la', 'le', 'que', 'de']	Théligny	La nouvelle qu’apportait [MASK] de la prochaine arrivée de l’amiral avec un renfort porta donc l’enthousiasme à son comble. À l’instant même, et séance tenante, les bourgeois s’organisèrent en compagnies qui nommèrent leurs chefs. Chaque compagnie était de cinquante hommes.
+
+["l'", 'le', "L'", 'un', '?']	Malemort	Puis, seconde question, était-ce l’Espagnol ? était-ce [MASK] ? Bientôt la surface de la rivière bouillonna et l’on vit poindre une tête, puis des bras, puis un torse, lesquels nagèrent selon le cours de l’eau pour aborder derrière la vieille muraille.
+
+["l'", 'le', 'Nelson', 'Villeneuve', 'amiral']	Dandelot	. — Eh bien, êtes-vous prêts à risquer quelque chose pour le secourir, l’amiral ? — Je suis prêt à risquer ma vie, répondit [MASK]. — Nous aussi, dirent d’une même voix le maréchal de Saint-André et le duc d’Enghien.
+
+['tout', 'personne', 'cela', 'plus', 'lui-même']	Maldent	; en un tour de main, ses vêtements furent à terre ; il les poussa du pied sous le lit, leva la couverture et se fourra dessous. Mais il ne suffisait point à [MASK] d’être tenu par les étrangers pour le maître de la maison ;
+
+['il', 'et', 'Napoléon', 'on', ',']	Coligny	Alors, voyant l’assemblée unie d’un seul et même esprit, nobles, bourgeois et militaires animés, sinon d’un enthousiasme, au moins d’une énergie égale, [MASK] se retira dans la maison du gouverneur où il avait donné rendez-vous aux officiers de toutes les compagnies.
+
+['M.', 'Mgr', 'monseigneur', 'Monseigneur', 'monsieur']	M.	« Enfin, un travail serait fait par [MASK] le cardinal de Lorraine, administrateur des finances, qui taxerait le tiers-état selon ses moyens. » Pauvre tiers-état ! on se gardait bien de le taxer à une année de son revenu, lui, ou de lui laisser le soin de se taxer lui-même
+
+['son', 'ses', 'la', 'tous', 'Guillaume']	Dandelot	mais, comme le roi doutait absolument qu’il eût un avis, il se rangea à celui de [MASK]. Il y eut donc majorité sur ce point, que les vainqueurs ne perdraient pas de temps et que, par conséquent, les vaincus n’avaient pas de temps à perdre.
+
+['Il', ';', '-', 'il', '—']	Théligny	; [MASK] s’est laissé tuer ? l’imbécile !… Après ? — Eh bien, après, monsieur le connétable, voici une lettre de M. l’amiral qui demande un prompt secours. — Il fallait donc commencer par là, maroufle !
+
+['les', 'le', 'la', "l'", 'un']	Yvonnet	Il y avait bien des chances pour que celui qui était chargé de cette périlleuse mission fût pris et pendu ; mais cette idée qui, par les souvenirs qu’elle lui rappelait, eût fait frissonner [MASK] pendant les ténèbres, n’avait plus d’effet sur le jeune homme une fois le jour venu.
+
+["l'", 'le', ',', 'les', 'la']	Vervins	; de là, il a pris sa route par Chimay, Glayon et Montreuil-aux-Dames ; il a passé ensuite près de la Chapelle, qu’il a pillée, et près de [MASK], qu’il a réduit en cendres ;
+
+[',', 'et', 'son', 'de', 'chef']	Théligny	que, si on ne lui ouvrait pas les portes, il sauterait du haut en bas du rempart. Seulement, [MASK] qui le connaissait pour l’avoir vu à l’œuvre la veille, lui recommanda de ne point se séparer du corps principal et de charger dans les rangs.
+
+['le', ',', 'à', "l'", "s'"]	Dandelot	; aussi, en invitant [MASK] à souper avec lui, comme il avait fait pour le connétable et pour l’amiral, il avait recommandé, comme il avait fait encore pour ceux-ci, que la surveillance la plus active entourât ce troisième prisonnier qu’il tenait
+
+[',', 'le', "s'", "l'", 'se']	Maldent	Maintenant, comment [MASK], qui était parti en costume militaire et avec une lettre de l’amiral, arrivait-il vêtu en paysan et sans lettre ? C’est ce que, grâce à leur perspicacité habituelle, nos lecteurs devineront dans un des chapitres suivants. Chapitre 12
+
+['HA', 'TH', 'le', 'se', 'les']	Strozzi	je suis on ne peut plus content de vous trouver satisfait d’eux, car j’ai une prière à vous adresser de leur part. — Laquelle, [MASK] ? Dites ! — C’est que le bois est cher en cette ville, et qu’ils se ruinent pour en acheter
+
+[',', 'le', 'de', 'se', 'on']	Charles	tantôt il était le maître avec les Guise, et c’était le connétable qui était en défaveur. Aussi avait-on fait sur le roi Henri II le quatrain suivant : Sire, si vous laissez, comme [MASK] désire,
+
+['le', "l'", ',', 'la', 'on']	Yvonnet	Mais la nuit était si sombre, mais le bruit était si peu perceptible, que tout cela pouvait aussi bien être une illusion qu’une réalité ; d’autant plus que, tout à coup, le mouvement et le bruit cessèrent. [MASK] regarda, écouta et ne vit ni n’entendit plus
+
+['la', 'madame', 'sa', 'votre', 'notre']	Gudule	— Et jamais croix d’or, je puis le dire avec assurance, n’aura brillé sur un plus beau cou que celui de [MASK], sire ! — Allons, ne voilà-t-il pas l’animal qui va nous faire le portrait de sa maîtresse !
+
+['tous', 'cheval', 'cavaliers', 'chacun', 'Espagnols']	Heinrich	; mais était-ce la cavalerie qui, à son tour, se trouvait serrée de trop près, deux coups d’arquebuse partis en même temps, avec une unité et une justesse remarquables, mettaient deux Espagnols à terre et donnaient à [MASK] le temps de respirer.
+
+['il', 'et', '</s>', 'Il', "c'"]	Henri	l’arquebusier n’eut donc qu’à présenter l’arme au roi. [MASK] était excellent tireur et manquait rarement son coup. L’arquebuse à la main, il s’avança à la distance de vingt-cinq pas à peu près du sanglier, dont les yeux brillaient comme deux charbons ardents.
+
+['-', 'non', 'alors', 'oui', 'bien']	Gudule	— S’il m’arrive malheur, [MASK], dit-il, ne m’oubliez pas trop vite et, si vous m’oubliez, que ce ne soit pas pour un Espagnol, pour un Allemand ou pour un Anglais !
+
+['et', 'chacun', 'un', 'quelques-uns', 'tandis']	Lactance	puis, suspendu un moment au haut de la falaise croulante, le flot qui avait monté descendit repoussé, laissant le talus couvert de morts. Chacun avait fait merveille ; les trois points attaqués avec acharnement avaient été défendus avec désespoir. [MASK] et ses jacobins s’étaient vigoureusement montrés.
+
+['monsieur', 'M.', 'car', 'de', 'Monsieur']	M.	— C’est vrai ; mais les paroles de [MASK] l’amiral ont été prises au vol par un des auditeurs qui a fait signe que c’était compris et qui est parti tout courant du côté de la caserne en criant : « Dauphins ! Dauphins, à la bataille
+
+["l'", 'en', 'le', 'M.', ';']	Yvonnet	— De votre troupe, si cela vous plaît. — À moins que, en mon absence, il ne soit arrivé malheur à quelqu’un de mes camarades, répondit [MASK] interrogeant Pille-Trousse, nous sommes neuf.
+
+['le', ',', 'de', 'les', 'la']	Procope	Puis, quand il fut en tête à tête avec [MASK] : — Allons, drôle ! lui dit-il, j’ai compris que tu avais à me parler : dégoise-moi vite ton compliment, et sois clair, ou je te livre comme espion au duc de Savoie, qui te fera pendre
+
+['de', ',', "d'", "l'", 'le']	Maldent	[MASK], en annonçant confidentiellement la prochaine arrivée du connétable, vint mettre le comble au désespoir de son compagnon. C’était l’heure du souper ; les aventuriers se mirent à table. Grâce aux mille ressources de leur imagination, cette table était certainement mieux garnie que celle de l’amiral.
+
+['Jean', 'Pierre', 'Henri', 'Jacques', 'celui-ci']	Yvonnet	Vous connaissez mes principes en matière de droit. — Eh bien, répondit [MASK], si l’idée, comme tu le dis, est à lui, et s’il a la propriété de l’idée, je trouve, moi, qu’il faut accepter les cinq cents écus d’or.
+
+['DE', 'ne', ',', 'NE', 'de']	Dandelot	— Et vous, monsieur d’Enghien, que pensez-vous ? — Mais, monsieur le connétable, je pense exactement comme ces messieurs. — Alors vous êtes, comme toujours, d’un avis contraire au mien ? — Non, monsieur le connétable, reprit [MASK] ;
+
+['la', 'le', 'une', 'lui', 'un']	Malemort	Bientôt la surface de la rivière bouillonna et l’on vit poindre une tête, puis des bras, puis un torse, lesquels nagèrent selon le cours de l’eau pour aborder derrière la vieille muraille. Du moment où le nageur prenait cette direction, il était à peu près sûr que c’était [MASK].
+
+['il', 'celui-ci', 'Pierre', 'Jean', 'Henri']	Maldent	— Mais, dit [MASK], si cependant la rançon était bonne, il me semble que mieux vaudrait pour nous recevoir à rançon que tuer. — Aussi traiterai-je et de la rançon et de la mort en même temps, afin que les deux cas soient prévus.
+
+['écurie', 'Auteuil', 'Angleterre', 'honneur', 'Artois']	Emmanuel	. Un des chevaux des écuries d’[MASK], choisi parmi les plus rapides coureurs, stationnait à dix pas du quartier du prince, la bride enrayée à l’arçon, et tenu au mors par un valet d’écurie.
+
+['celui-ci', 'celle-ci', 'Armand', 'Jean', 'Bertrand']	Théligny	! — Ah ! très bien, dit [MASK], je sais à qui nous avons affaire… Vous avez raison : ce n’est pas un homme, c’est un diable ! — Eh ! tenez, le voici, mon lieutenant, dit l’enseigne.
+
+['cela', 'que', 'tenir', 'tout', '...']	Coligny	dit [MASK]. — Et pour que vous teniez dix jours encore, il faut que nous brûlions nos maisons ? — Je crois, mes amis, que c’est nécessaire. — Alors nos maisons brûlées, vous répondez de tenir ?
+
+['celui-ci', 'lui', 'celle-ci', 'ceux-ci', 'là']	Saint-Quentin	Le seul soin qu’il prit donc, en apparaissant à la lisière du petit taillis, fut de tourner le dos à [MASK] et de courir dans une direction opposée à la ville ; le seul désir qu’il parut avoir fut de s’éloigner de là le plus tôt possible.
+
+['la', "l'", 'le', 'dame', 'une']	Maldent	C’est toujours bon à savoir. Puis, à son hôtesse : — Quà qui gnia ? Va-t-en vir tai-meume. — Mais, zernidiu ! ils vont écramouler la porte ! s’écria la femme. — Bon ! qu’ils l’écramoulent ! répondit [MASK].
+
+['ent', 'un', "l'", 'le', 'son']	Coligny	Du haut du rempart, [MASK], désespéré, voyait diminuer et se perdre ce secours si longtemps attendu, appelant inutilement ces hommes qui se débattaient par centaines dans les fondrières où leur entêtement les avait jetés et où ils disparaissaient peu à peu sans qu’on pût leur porter secours.
+
+['le', "l'", 'la', 'un', 'son']	Maldent	dit la femme, què qui gnia, Gosseu ? — Bien, dit [MASK] à lui même, il paraît que je m’appelle Gosseu… C’est toujours bon à savoir. Puis, à son hôtesse : — Quà qui gnia ? Va-t-en vir tai-meume.
+
+['aux', 'à', 'les', ',', 'de']	Maldent	L’amiral adjoignit [MASK] aux travailleurs ; il lui donna une lettre pour son oncle ; dans cette lettre, il traçait au connétable un plan des localités, lui indiquant, à ne pas s’y tromper, le point où devait avoir lieu l’embarquement ;
+
+['il', 'on', 'elle', 'vous', 'je']	Procope	— Et s’il se rend ?… — Je vous préviens d’avance que je ne le reçois pas à merci. — Peste ! dit [MASK], c’est une haine à mort, alors. — À mort ! vous avez dit le mot, mon ami.
+
+[';', 'il', ',', 'et', 'de']	Maldent	[MASK] connaissait les mœurs picardes ; il savait qu’il était rare que les paysans fermassent les portes de leurs maisons au verrou ; il appuya sur le loquet : le loquet céda, la porte s’ouvrit. — C’est ti tai, not’ pove homme ?
+
+[',', 'le', 'de', 'la', 'se']	Coligny	JUSQU’À PRÉSENT, NOUS AVONS fait tous les honneurs du siège aux assiégés ; il est temps que nous passions un peu – ne fût-ce que pour la visiter – sous la tente des assiégeants. Au moment où [MASK] et ce groupe d’officiers que nous appellerions aujourd’hui l’état
+
+['celui-ci', 'lui', 'Villeneuve', 'Vauban', 'Napoléon']	Dandelot	Rien de pareil n’arriva. On apprit au contraire que [MASK] était parvenu à entrer dans la place avec un renfort de quelques centaines d’hommes et que l’amiral et lui avaient fait serment de s’ensevelir sous les ruines de la ville.
+
+['il', ',', 'et', 'qui', "l'"]	Théligny	[MASK] oublia la parole engagée à l’amiral : sans autre arme que son épée, il sauta sur le premier cheval qui se trouva à sa portée et il s’élança hors des murailles, appelant à grands cris au secours de leurs compagnons ceux qui avaient tourné bride.
+
+['les', 'le', "l'", 'la', 'ce']	Malemort	Dans toutes ces maisons se produisait un mouvement d’effroi facile à remarquer ; mais, dans l’une d’elles, l’effroi paraissait monter jusqu’à la terreur. C’était celle où opérait [MASK] qui, sans s’inquiéter de l’incendie, attaquait, frappait, combattait au milieu de la fumée.
+
+[',', 'se', 'le', "'", "s'"]	Frantz	De ce côté, en moins de dix minutes, la brèche fut balayée. [MASK] avait également fait merveille. Lui aussi avait crié gare et, à sa voix, les rangs des soldats et des bourgeois s’étaient ouverts ;
+
+['et', ',', 'il', 'qui', 'on']	Henri	[MASK] demeura un instant étonné que l’animal ne fût pas tombé sur le coup, tandis que son cheval, tout frissonnant, plié sur les jarrets de derrière, piétinait des pieds de devant. Il tendit au piqueur l’arquebuse déchargée en demandant l’autre.
+
+['la', 'le', 'de', ',', 'se']	Malemort	Mais, à peine hors de la porte, [MASK], entraîné par la rage qui le tenait, ne put s’astreindre à suivre le chemin pris par la petite troupe et qui, sous un couvert d’arbres et à la faveur de certains mouvements du sol, devait conduire les quarante cavaliers tout près du poste espagnol
+
+['guet', 'et', 'pierre', ';', ',']	Notre-Dame	Des lumières étincelaient à toutes les fenêtres ; des torches flamboyaient par toute la place, se prolongeaient sur les quais, montaient sur les galeries et jusque sur le sommet des tours de [MASK]. La rivière semblait charrier du feu liquide.
+
+[',', "s'", "l'", 'ne', 'on']	Henri	Tout cela avait été si instantané que pas un des spectateurs n’avait songé à s’élancer au-devant du sanglier qui était revenu sur le roi avant même que celui-ci eût eu le temps de tirer son couteau de chasse. [MASK] essaya d’y porter la main ;
+
+['Il', 'et', 'il', 'Et', ',']	Yvonnet	— Plus près, dit le connétable, plus près, que je te regarde dans le blanc des yeux, maroufle ! J’aime à voir ceux à qui je parle. [MASK] s’avança jusqu’au bord du lit. — Me voici, monseigneur, dit-il.
+
+['le', "l'", 'les', 'il', 'la']	Procope	Je vous connais, vous me connaissez, nous habitons la même ville ; il nous sera facile de nous retrouver. Et, saluant les aventuriers d’un léger signe de tête, il tourna sur ses talons et s’éloigna. — Faut-il le rappeler ? dit [MASK].
+
+['lui', 'elle', 'celui', 'celle', 'lui-même']	Dandelot	Il y avait une grande connaissance de la multitude dans cette façon de lui annoncer une des plus terribles nouvelles que jamais la population d’une capitale eût reçue ; aussi était-ce [MASK] qui avait préparé tout à la fois, et son discours, et celui de la reine Catherine.
+
+['bas', 'il', 'le', 'Bas', 'elle']	Frantz	en montrant le second blessé. — Oh ! zelui-là, dit [MASK], ce n’êdre rien… c’êdre Malemort… Tans ine minute, il fa êdre refenu ! Lui êdre le tiaple, lui bas boufoir êdre dué !
+
+['tous', 'moi', 'nous', 'nos', 'lui']	Cadet	» ils n’ont voulu entendre à rien. Alors, nous nous sommes mis à crier et notre âne s’est mis à braire ; mais, malgré nos cris et ceux de [MASK], nous allions être dévalisés… sans compter ce qui pouvait m’arriver à moi !
+
+[',', 'de', 'à', 'le', 'se']	Yvonnet	Un homme couvert d’une robe sous laquelle on apercevait les mailles d’une cuirasse les conduisait, une épée nue à la main. Aux cris que l’on poussait sur leur passage, [MASK] se retourna et, regardant leur capitaine avec attention :
+
+['il', 'lui', 'et', ',', 'y']	Malemort	[MASK] jeta les hauts cris : depuis qu’il était pansé, il se sentait, disait-il, bien plus gai qu’auparavant ; il y avait quinze mois qu’il ne s’était battu, le sang l’étouffait et le peu qu’il en avait perdu l’avait grandement soulagé.
+
+['il', 'cavalier', 'celui-ci', 'tout', 'on']	Maldent	! Et, fermant la porte au verrou, il s’approcha du lit. Si rapidement que [MASK] eût disparu dans la maison, un cavalier l’avait vu disparaître, mais sans pouvoir dire précisément par quelle porte il avait disparu.
+
+['il', 'on', 'ils', 'qui', 'ont']	Coligny	Les autres pères rentrèrent les uns après les autres et Dieu, qui les protégeait, permit que, pour cette fois, il n’arrivât malheur à aucun d’eux. Aussitôt les derniers hommes rentrés dans la ville, [MASK] fit l’appel.
+
+[',', 'il', 'et', 'Il', 'cheval']	Nemours	[MASK] se mit en selle avec l’élégance d’un cavalier consommé et s’élança au galop par la grande allée du parc. Le jeune homme s’était informé de la direction qu’avait prise la chasse et il lui avait été répondu que l’on avait dû attaquer l’animal près de la route de Poissy.
+
+['morceau', 'morceaux', 'portion', 'tranche', 'outre']	Gaëtano	Les légumes déchargés, le paysan reçut de [MASK] un pain, un morceau de viande froide et un cruchon de vin. C’était, comme on voit, plus qu’il n’était accordé au comte de la Rochefoucauld et aux six gentilshommes prisonniers avec lui.
+

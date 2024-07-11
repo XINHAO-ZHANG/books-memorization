@@ -1,0 +1,200 @@
+['Marie', 'Jean', 'François', 'Louis', 'Charles']	Bertrand	Il sait que ma femme est morte, mais à peine sait-il que j’ai une fille !– Deux vieux reîtres comme nous mèneront la barque à bon port, dit [MASK]. Après tout, si le duc se fâche et s’en prend à nos carcasses, elles ont fait leur temps.
+
+['Baudelaire', 'Racine', 'Shakespeare', 'Rimbaud', 'Goethe']	Pétrarque	elle lui offrit des aspects si multipliés, qu’il croyait ne l’avoir jamais vue si belle. Il entremêla ses contemplations de la lecture de [MASK], un de ses auteurs favoris, celui dont la poésie allait le plus à son cœur par la constance et l’unité de son amour.
+
+['elle', 'il', 'Marie', 'Madeleine', 'Vénus']	Gabrielle	Mais, hélas ! au lieu de naître dans un pays de landes et de bruyères, au sein d’une nature sèche aux formes arrêtées et dures, que tous les grands peintres ont donné comme fonds à leurs vierges, [MASK] vivait au fond d’une grasse et plantureuse vallée.
+
+['resté', 'installé', 'entré', 'couché', 'né']	Gabrielle	ils devaient se rencontrer au bord de la mer qui leur offrait une image de l’immensité de leurs sentiments. Ils se quittèrent pleins l’un de l’autre, en craignant tous deux de ne s’être pas plu.De sa fenêtre Étienne regarda la lumière de la maison où était [MASK]
+
+['Il', 'Elle', 'Charles', 'Louis', 'Lui']	Beauvouloir	Elle inclina la tête en souriant. [MASK] devina tout.– Monseigneur, reprit-il, votre savoir autant que votre esprit vous a fait éloquent, l’amour doit vous rendre irrésistible ; déclarez votre amour à monseigneur le duc, vous confirmerez ma lettre qui est assez concluante.
+
+['elle', 'Marie', 'il', 'Anne', 'Jeanne']	Gabrielle	Sa joie s’éteignit, il se replongea dans son désert et n’y trouva plus les fleurs dont il l’avait embelli. Éclairée par la prescience des douleurs qui distingue l’ange chargé de les adoucir et qui sans doute est la Charité du ciel, [MASK] devina la peine qu’elle venait de causer.
+
+['Il', 'Elle', '</s>NOTUSED', 'II', 'Chacun']	Bertrand	– Choisis dans l’écurie un cheval assez vigoureux pour que tu me puisses suivre. Nous marcherons comme des balles au sortir de l’arquebuse. Quand je serai prêt, sois-le. Je sonnerai de nouveau.[MASK] s’inclina en silence et partit ;
+
+['Dieu', 'César', 'Napoléon', 'Satan', 'Monseigneur']	Monseigneur	mais il va le faire saisir et le livrer à la justice en demandant qu’on procède contre lui. Votre père sera rompu vif ; mais en faveur des services qu’il a rendus à son maître, peut-être obtiendra-t-il de n’être que pendu. J’ignore ce que [MASK] a décidé de vous
+
+['Il', 'Charles', 'Louis', 'François', 'Elle']	Beauvouloir	Malgré son habileté, sa femme était morte en couches en lui donnant une fille, dont la santé fut si faible, qu’il pensa que la mère avait dû léguer à son fruit des germes de mort. [MASK] aima sa Gabrielle comme tous les vieillards aiment leur unique enfant.
+
+['Marie', 'Sophie', 'Louise', 'Suzanne', 'Clara']	Étienne	Il aimera l’art au lieu d’aimer une femme, et l’art ne le trahira jamais.Les plaisirs de cette amoureuse maternité furent donc sans cesse altérés par de sombres pensées qui naissaient de la singulière situation où se trouvait [MASK] au sein de sa famille.
+
+['Julie', 'Sophie', 'Marie', 'Jeanne', 'Clara']	Étienne	Mon père a juré de ne me contrarier en rien, dit [MASK] avec calme.– Il m’a bien juré aussi, à moi, de consentir à ce que je ferais en vous cherchant une femme, répondit le médecin ; mais s’il ne tient pas ses promesses ?
+
+['Marie', 'Madeleine', 'Marianne', 'Catherine', 'Sophie']	Gabrielle	Une robe de couleur carmélite, qui continuait le trait des lignes accusées par le corps de velours, tombait jusque sur les pieds en formant des plis minces et comme aplatis. La taille était si fine, que [MASK] semblait grande.
+
+['Joseph', 'Pierre', 'Jean', 'Louis', 'François']	Beauvouloir	Quant à [MASK], le pacte entre la duchesse et lui s’était signé depuis long-temps. Ces deux serviteurs, émus de voir leur maîtresse forcée de leur léguer ce noble enfant, promirent par un geste sacré d’être la providence de leur jeune maître, et la mère eut foi en ce geste.
+
+['Elle', 'Il', 'On', 'Madeleine', 'Marie']	Gabrielle	[MASK] avait mis ce vase, orné d’animaux en relief, sur une table, au milieu de la salle, et le remplissait de fleurs pour égayer sa grand’mère, et peut-être aussi pour donner une forme à ses propres pensées.
+
+['Charles', 'Albert', 'Rodolphe', 'Frédéric', 'Henri']	Bertrand	Oh ! oh ! rebouteur, tu oublies ton vieux feutre noir, lui dit [MASK] au moment où l’opérateur sortait avec lui de la chambre.Les motifs de la clémence du comte envers son fils étaient puisés dans un et cætera de notaire.
+
+['Dieu', 'Marie', 'Vénus', 'cela', 'une']	Laure	Il avait entrevu [MASK], une fine et délicieuse figure, pure et dorée comme un rayon de soleil, intelligente comme l’ange, faible comme la femme. Ses vingt années d’études eurent un lien, il comprit la mystique alliance de toutes les beautés ;
+
+['Marie', 'Louis', 'Jeanne', 'Charles', 'Jean']	Beauvouloir	Emploie le vert et le sec, la magie blanche et noire, les neuvaines à l’Église et les rendez-vous au sabbat, pourvu que j’aie une lignée mâle, tout sera bien.– Je sais, dit [MASK], un chapitre de sorciers capable de tout gâter ;
+
+['Louis', 'Marie', 'Jeanne', 'Louise', 'Charlotte']	Étienne	La duchesse y allait passer la plus grande partie de la journée. La mère et l’enfant parcouraient ensemble les rochers et les grèves ; elle indiquait à [MASK] les limites de son petit domaine de sable, de coquilles, de mousse et de cailloux ;
+
+['moi', 'tous', 'mon', 'mes', 'Louis']	Gabrielle	Le duc me ferait certes jeter dans un cachot et m’y laisserait pour le reste de mes jours en apprenant cette fuite ; mais je mourrais joyeusement, si ma mort assurait votre bonheur. Hélas, monter à cheval, ce serait risquer votre vie et celle de [MASK].
+
+['Marie', 'Jeanne', 'Catherine', 'la', 'Jésus']	Jeanne	Enfin, quoi qu’il lui arrive, mandez-moi, je viendrai.Les enseignements du rebouteur se gravèrent dans le cœur de [MASK], qui le pria de compter sur elle comme sur une personne dont il pouvait disposer ;
+
+['Marie', 'Jeanne', 'Alice', 'Julie', 'Juliette']	Gabrielle	Le médecin trouva les deux enfants séparés, et il les avait vus entrelacés à la fenêtre. L’amour le plus pur aime encore le mystère.– Ce n’est pas bien, mon enfant, dit-il à [MASK]. Demeurer si tard, ici, sans lumière.–
+
+['Madame', '</s>NOTUSED', 'Monsieur', 'madame', 'Dieu']	Monseigneur	Quant à votre père, voici la résolution qu’a prise [MASK]. Il y a neuf ans, votre père fut impliqué dans une affaire criminelle ; il s’agissait du détournement d’un enfant noble au moment de l’accouchement de la mère, et auquel il s’est employé.
+
+['lui', 'Étienne', 'enfant', 'elle', 'toujours']	Étienne	lui répondit qu’il redoutait autant qu’elle le poison pour [MASK] ; mais sur ce point, la comtesse n’avait rien à craindre tant qu’elle le nourrirait de son lait ; puis pour l’avenir, il lui recommanda de toujours goûter à la nourriture d’Étienne.–
+
+['famille', 'Jeanne', 'Pierre', 'Marguerite', 'campagne']	Gabrielle	Il la baisa au front et non plus sur les lèvres ; puis il revint au château, résolu d’affronter l’homme terrible qui pesait tant sur sa vie. Il ne savait pas que la maison de [MASK] allait être gardée par des soldats aussitôt qu’il l’aurait quittée.
+
+['il', 'on', 'elle', 'Il', 'Monseigneur']	Beauvouloir	Tout à coup [MASK] frappa doucement, ouvrit, et montra sur sa figure assombrie le reflet d’un malheur.– Monseigneur, dit-il, madame la duchesse est dans un si triste état qu’elle veut vous voir. Toutes les précautions sont prises pour qu’il ne vous advienne aucun mal au château
+
+['lui', 'elle', 'amour', 'eux', 'tous']	Étienne	Bonsoir, mon amour, dit le vieillard, en baisant son fils au front.– Bonsoir, mon père, reprit le jeune homme dont la voix fit tressaillir le duc qui pour la première fois s’entendait donner par [MASK] le nom de père.
+
+['Allons', 'Ah', 'Voyons', 'Non', 'Oh']	Bélître	? Tuer mon fils ! l’enlever à sa mère ! Où as-tu pris ces billevesées ? Suis-je fou ? Pourquoi nous effraies-tu sur les jours de ce vigoureux enfant ? [MASK], comprends donc que je me suis défié de ta pauvre vanité.
+
+['moi', 'lui', 'nous', 'elle', 'cela']	Gabrielle	Si vous saviez monter à cheval, monseigneur, dit le médecin, je vous dirais de vous enfuir avec [MASK], ce soir même : je vous connais l’un et l’autre, et sais que toute autre union vous sera funeste.
+
+['elle', 'il', 'on', 'Il', 'Elle']	Étienne	Le duc espéra faire épouser à son fils mademoiselle de Grandlieu. En apprenant qu’[MASK] aimait la fille d’un misérable médecin, il voulut ce qu’il espérait. Pour lui, cet échange ne faisait pas question. Vous savez si cet homme de politique brutale comprenait brutalement l’amour
+
+['celui', 'celle', 'Pierre', 'Jeanne', 'Marie']	Étienne	dit le vieillard étonné de la faiblesse de son héritier sur lequel il se surprit à retenir son souffle.– Je ne pourrai vivre qu’ici, répondit simplement [MASK] qui l’avait entendu.– Hé ! bien, cette chambre sera la tienne, mon enfant.– Qu’y a-t-il ?
+
+['Abraham', 'Adam', 'Antoine', 'Alexandre', 'Alice']	Étienne	Parfois il se taisait, appliquait l’oreille à la crevasse, et tout ce que son ouïe faible lui permettait d’entendre était le sourd battement du cœur d’[MASK], dont les pulsations précipitées retentissaient sous la voûte sonore.– Il vit au moins, celui-là, dit le vieillard d’un son de voix déchirant.
+
+['comment', 'pourquoi', 'et', 'mais', 'aussi']	Étienne	; [MASK] n’accuserait-il pas sa mère, quand, sous la pourpre romaine, il voudrait être père comme elle avait été mère ? Ces pensées, sa vie mélancolique et pleine de douleurs secrètes, étaient comme une longue maladie tempérée par un doux régime.
+
+['elle', 'on', 'il', 'cela', 'Dieu']	Beauvouloir	Il étudia les ressources de sa voix comme e��t fait la plus habile des cantatrices, et venait chanter d’une voix mélancolique sous les fenêtres de sa mère, quand, par un signe, [MASK] lui disait qu’elle était seule.
+
+['Chacun', 'On', 'Il', 'Elle', 'Amour']	Gabrielle	Ces deux êtres si forts par le cœur, si maladifs de corps, mais embellis par les grâces de la souffrance, formaient un touchant tableau. [MASK] ignorait la coquetterie : un regard était accordé aussitôt que sollicité, et les doux rayons de leurs yeux ne cessaient de se confondre que par pudeur
+
+['elle', 'Marie', 'Charlotte', 'Anna', 'Sophie']	Gabrielle	Dans les circonstances où se trouvaient les deux amants, [MASK] fut frappée de ces paroles et du ton de franchise avec lequel le soldat les prononça.– Votre nourrice est là, elle peut nous entendre, venez dit le baron.
+
+['il', 'lui', 'elle', 'qui', 'on']	Gabrielle	mais [MASK] envoya sa nourrice pour lui dire qu’elle mourrait plutôt que de le trahir ; que d’ailleurs elle avait trouvé le moyen de tromper la vigilance des gardes, et qu’elle se réfugierait dans la bibliothèque du cardinal, où personne ne pourrait soupçonner qu’elle serait
+
+['Platon', 'Dieu', 'Vénus', 'Socrate', 'chacun']	Platon	Ordinairement l’amour veut un esclave et un dieu, mais ils réalisèrent le délicieux rêve de [MASK], il n’y avait qu’un seul être divinisé. Ils se protégeaient tour à tour. Les caresses vinrent, lentement,
+
+['Paris', 'la', 'le', 'Marie', '</s>NOTUSED']	Gabrielle	Malgré le secret qui environnait [MASK], il était difficile de tromper le lieutenant d’une compagnie d’ordonnance : il entendit le chant de deux voix, il vit de la lumière le soir dans la maison au bord de la mer ;
+
+['il', 'elle', 'on', 'Marguerite', 'Jeanne']	Beauvouloir	Au geste que fit le seigneur en lui tendant une bourse, [MASK] se mit en devoir de recueillir, non sans une joie inquiète, l’or qui brillait à travers un réseau de soie rouge, et qui lui fut dédaigneusement jeté.–
+
+['</s>NOTUSED', 'Monseigneur', 'Madame', 'Monsieur', 'La']	Monseigneur	Il y a neuf ans, votre père fut impliqué dans une affaire criminelle ; il s’agissait du détournement d’un enfant noble au moment de l’accouchement de la mère, et auquel il s’est employé. [MASK], sachant l’innocence de votre père, le garantit alors des poursuites du parlement
+
+['elle', 'il', 'Marie', 'Sophie', 'Clara']	Gabrielle	Comme [MASK] était toute sa vie, son amour, sa seule héritière, il n’avait jamais hésité à se procurer les choses dont le concours devait amener le résultat souhaité. Il écarta soigneusement les livres, les tableaux, la musique, toutes les créations des arts qui pouvaient réveiller la pensée.
+
+['qui', 'il', 'elle', 'lequel', 'Il']	Étienne	Que dites-vous de ce brin de fille, mon chérubin ?Le vieux duc ne mettait pas en doute l’obéissance de son fils, [MASK] était pour lui l’enfant de sa mère, la même pâte docile au doigt.– Qu’il ait un enfant et qu’il crève !
+
+['Marie', 'Sophie', 'Rose', 'Maria', 'Catherine']	Gabrielle	Le visage de [MASK] était mince sans être plat ; sur son cou et sur son front couraient des filets bleuâtres qui y dessinaient des nuances semblables à celles de l’agate, en montrant la délicatesse d’un teint si transparent, qu’on eût cru voir le sang couler dans les veines.
+
+['Adam', 'Abraham', 'Hermès', 'Alexandre', 'Augustin']	Orphée	Ses regrets et sa douleur étaient comme des liens qui l’unissaient au monde des esprits ; il y allait, armé de son amour, pour y chercher sa mère, en réalisant ainsi par les sublimes accords de l’extase la symbolique entreprise d’[MASK].
+
+['il', 'Charles', 'Louis', 'Guillaume', 'Alexandre']	Étienne	Quand [MASK] se trouva là, près de son vieux père, il frissonna de se voir le point de mire de tous les yeux.– Ne tremble pas, lui dit le duc en abaissant sa tête chauve jusqu’à l’oreille de son fils, car tout ça, c’est nos gens.
+
+['France', 'Versailles', 'Paris', 'Diane', 'Juliette']	Gabrielle	Cet air, attribué au feu roi Henri IV, n’était pas l’air de [MASK], mais un air de beaucoup supérieur comme facture, comme mélodie, comme expression de tendresse, et que les admirateurs du vieux temps reconnaîtront aux paroles également composées par le grand roi
+
+['Jésus', 'Marie', 'Thérèse', 'Madeleine', 'Jeanne']	Gabrielle	rêveur chez celle-là, mais plein de souffrants plaisirs.– Je n’ai pas eu de mère, disait [MASK], mais mon père a été bon comme Dieu.– Je n’ai pas eu de père, répondait l’enfant maudit, mais ma mère a été tout un ciel.
+
+['Louis', 'Napoléon', 'Charlemagne', 'Philippe', 'Bourbon']	Richelieu	d’une estrade élevée de quelques marches, d’où, dans quelques provinces, certains seigneurs rendaient encore des arrêts dans leurs châtellenies, rares vestiges de féodalité qui disparurent sous le règne de [MASK]. Ces espèces de trônes, semblables aux bancs d’œuvre dans les églises, sont devenus des objets de curiosité.
+
+['Antoine', 'Alexandre', 'André', 'Albert', 'Isaac']	Étienne	Elle seule avait soin des vêtements, du linge, des parfums, de la toilette d’[MASK], elle ne se parait que pour lui, car elle aimait à être trouvée belle par lui. Tant de sollicitudes accompagnées d’un sentiment qui pénétrait la chair de son fils et la vivifiait, eurent leur récompense.
+
+['Marie', 'Jeanne', 'Catherine', 'Sophie', 'Marguerite']	Gabrielle	Dans ces circonstances, Étienne et [MASK] avaient déroulé tout le fil de leur peloton dans l’immense labyrinthe de l’amour, et tous deux, peu inquiets d’en sortir, voulaient y vivre. Un jour, ils étaient restés auprès de la fenêtre où s’accomplirent tant de choses.
+
+['elle', 'Anna', 'Elle', '<unk>', 'eux']	Étienne	Les avis du rebouteur étaient toujours écrits devant la comtesse ; aussi craignait-elle pour son enfant, et les services de ses femmes, et la main de ses gens ; elle aurait voulu pouvoir ne pas dormir afin d’être sûre que personne n’approcherait d’[MASK] pendant son sommeil
+
+['Il', 'Dieu', 'Alexandre', 'Pascal', 'Pierre']	Étienne	[MASK] n’avait pas en lui l’étoffe de plusieurs passions, il ne pouvait aimer que d’une seule façon, une seule fois. Si cet amour devait être profond, comme tout ce qui est un, il devait être calme dans ses expressions, suave et pur comme les sonnets du poëte italien.
+
+['fils', 'papa', 'père', 'garçon', 'enfant']	Antoine	Le père tremblait, tant il avait peur d’une catastrophe.– Après tout, lui dit sa mère, ne t’effraie pas, [MASK] ! Le duc ne tuera pas sa petite-fille.– Non, répondit-il, mais il peut la contraindre à épouser quelque soudard de baron qui nous la meurtrirait.
+
+['cœur', 'deux', 'terre', 'exemple', 'amour']	Gabrielle	; le médecin n’avait rien voulu préparer, il pensait qu’entre deux êtres à qui la solitude avait laissé le cœur pur, l’amour se produirait dans toute sa simplicité. La répétition de l’air par [MASK] fut donc un texte de conversation tout trouvé.
+
+['Elle', 'elle', '</s>NOTUSED', 'Marie', 'On']	Étienne	elle fut pleurée des derniers serviteurs qui, pour tout discours, dirent sur sa tombe qu’elle était une gente femme tombée du paradis.[MASK] fut en proie à la plus intense, à la plus durable des douleurs, douleur muette d’ailleurs.
+
+['Il', 'Elle', 'On', 'il', 'Louis']	Étienne	Il mit de l’amour-propre à remplacer la duchesse de manière à ce que le fils trouvât, sinon le même amour, du moins les mêmes attentions. Cette pitié ressemblait à de la tendresse. [MASK] supporta sans plainte ni résistance les soins du serviteur ;
+
+['nouveau', 'Madeleine', 'Alice', 'Marie', 'Jeanne']	Gabrielle	Eh ! bien, crevez tous ! Toi, sale avorton, la preuve de ma honte. Toi, dit-il à [MASK], misérable gourgandine à langue de vipère qui as empoisonné ma maison !Ces paroles portèrent dans le cœur des deux enfants la terreur dont elles étaient chargées.
+
+['Il', 'Louis', 'Charles', 'Jean', 'Guillaume']	Étienne	[MASK] trembla pour sa mère avant de trembler pour lui-même ; puis bientôt chez lui, le nom même du duc d’Hérouville excita un trouble qui le dépouillait de son énergie, et le soumettait à l’atonie qui fait tomber une jeune fille à genoux devant un tigre.
+
+['Alexandre', 'Louis', 'Guillaume', 'Charles', 'Jean']	Maximilien	Il éleva [MASK] dans une sainte horreur des livres et des lettres ; il lui inculqua les connaissances mécaniques de l’art militaire, il le fit de bonne heure monter à cheval, tirer l’arquebuse et jouer de la dague.
+
+['moi', 'maman', 'Madeleine', 'elle', 'toi']	Jean	Ta nourrice et [MASK] t’accompagneront.– Sera-ce bientôt ?– Demain, dit le vieillard qui se précipita dans le jardin pour cacher son agitation à sa mère et à sa fille.– Dieu m’est témoin, s’écria-t-il, qu’aucune pensée ambitieuse ne me fait agir.
+
+['Joseph', 'Pierre', 'Jean', 'Charles', 'Louis']	Étienne	Comme il l’avait dit, imposer une femme à [MASK], c’était le tuer. On devait éviter surtout que ce jeune solitaire s’effrayât du mariage dont il ne savait rien, et qu’il connût le but dont se préoccupait son père.
+
+['celui', 'celle', 'Alexandre', 'Eugène', 'Joseph']	Bertrand	L’effroi que cette apparition et cet enlèvement inspirèrent à la comtesse fit taire un moment ses douleurs, elle put jeter un regard furtif sur les acteurs de cette scène mystérieuse, et ne reconnut pas [MASK] qui s’était masqué aussi soigneusement que son maître.
+
+['Antoine', 'O', 'Alexandre', 'Hélène', 'Adam']	Ovide	Deux amours qui jouaient sur un ciel de noyer orné de guirlandes auraient pu passer pour des anges, et les colonnes de même bois qui soutenaient ce dôme présentaient des allégories mythologiques dont l’explication se trouvait également dans la Bible ou dans les Métamorphoses d’[MASK].
+
+['il', 'elle', 'Joseph', 'David', 'on']	Beauvouloir	Le lendemain de son retour, [MASK] vint voir son maître, et le gronda doucement d’être resté dans sa chambre sans sortir, en lui faisant observer qu’il ne fallait pas substituer à sa vie en plein air, la vie d’un prisonnier.–
+
+['amour', 'Antoine', 'Armand', 'André', 'Alexandre']	Étienne	m’avez-vous pas promis hier de me montrer la musique ? lui répondit-elle tout en espérant que la musique serait un prétexte pour se trouver avec elle.Si la pauvre enfant avait su la vie d’[MASK], elle se serait bien gardée d’exprimer un doute.
+
+['Vénus', 'Marie', 'Marianne', 'femme', 'Rose']	Gabrielle	pas assez pour le fatiguer. L’amant posa sa tête trop lourde sur l’épaule de son amie, sa bouche s’appuya sur le sein tumultueux, ses cheveux abondèrent sur le dos blanc et caressèrent le cou de [MASK].
+
+['Platon', 'Voltaire', 'Socrate', 'Rousseau', 'Émile']	Étienne	Pour lui plaire, il fallait être laid de figure, grand, robuste et ignorant. [MASK], que sa faiblesse vouait en quelque sorte aux occupations sédentaires de la science, devait donc trouver dans son père un ennemi sans générosité. Sa lutte avec ce colosse commençait dès le berceau ;
+
+['il', 'Jésus', 'Joseph', 'Louis', 'elle']	Étienne	Comme [MASK] était venu prématurément, plusieurs vêtements manquaient, elle désira les faire elle-même, et les fit, avec quelle perfection, vous le savez, vous qui, dans l’ombre et le silence, mères soupçonnées, avez travaillé pour des enfants adorés !
+
+['Marguerite', 'Marie', 'Charlotte', 'Catherine', 'Madame']	Étienne	Pour éviter tout malheur, l’écuyer prit [MASK] dans ses bras et traversa la chambre de son redoutable maître, décidé à lui donner quelque prétexte tiré de l’état où se trouvait la duchesse, s’il était surpris.
+
+['Louis', 'Charles', 'Pierre', 'Alexandre', 'Henri']	Étienne	Quoique les mères ne grandissent pas toujours avec leurs fils, la duchesse était une de celles qui portent dans la maternité les humbles adorations de l’amour ; elle pouvait caresser et juger ; elle mettait son amour-propre à rendre [MASK] supérieur à elle en toute chose et non à le régenter ;
+
+['nous', 'moi', 'lui', 'elle', 'Job']	Étienne	Il est des peines qui, semblables à du sang jeté dans une eau courante, teignent momentanément les flots ; l’onde, en se renouvelant, restaure la pureté de sa nappe ; mais, chez [MASK], la source même fut adultérée ;
+
+['il', 'Il', 'on', 'Thomas', 'Alexandre']	Beauvouloir	Ces dernières paroles furent accompagnées d’un nouveau mouvement de doigts. Malgré les deux jets de flamme que dardaient les yeux du comte par les trous de son masque, [MASK] débita ses périodes avec le sérieux imperturbable d’un homme qui voulait gagner son argent.–
+
+['<unk>', 'Adam', 'Alexandre', 'Antoine', 'Alexis']	Étienne	La jeune fille faisait aussi son premier voyage dans les pays enchantés de l’extase amoureuse. Cette réponse remplit de joie le cœur d’[MASK] ; en coulant dans ses veines, le sang y répandit une force qu’il ne s’était jamais sentie, l’amour le rendait puissant.
+
+['lui', 'Charles', 'Arthur', 'Louis', 'elle']	Étienne	Le cadet eut en naissant le goût du bruit, des exercices violents et de la guerre ; aussi le comte conçut-il pour lui autant d’amour que sa femme en avait pour [MASK]. Par une sorte de pacte naturel et tacite, chacun des époux se chargea de son enfant de prédilection.
+
+['Il', 'Voltaire', 'Montesquieu', 'Rousseau', 'Napoléon']	Beauvouloir	Dans ce temps, ces places appartenaient à des savants qui y trouvaient les loisirs nécessaires à l’accomplissement de leurs travaux et les honoraires indispensables à leur vie studieuse. [MASK] souhaitait depuis quelque temps cette position, car son savoir et sa fortune lui avaient valu de nombreux et d’acharnés ennemis.
+
+['Charles', 'Ah', 'Allons', 'Henri', 'Pierre']	Chaverny	Jeanne appartient au malheur. À peine peut-elle dire adieu à son beau cousin délivré. – « [MASK], si tu m’aimes, ne me revois jamais ! » Elle entend le bruit lointain des pas de son noble ami qu’elle n’a plus revu ;
+
+['Louis', 'Charlotte', 'Louise', 'Charles', 'Léopold']	Maximilien	Enfin, un dernier coup activa la consomption de la duchesse, elle essaya d’éclairer le duc sur l’éducation de [MASK] et fut rebutée ; elle ne put porter aucun remède aux détestables semences qui germaient dans l’âme de cet enfant.
+
+['Jeanne', 'Louise', 'Marie', 'Charlotte', 'Julie']	Gabrielle	Aidé par sa mère, il intéressait [MASK] à des ouvrages manuels. La tapisserie, la couture, la dentelle, la culture des fleurs, les soins du ménage, la récolte des fruits, enfin les plus matérielles occupations de la vie étaient données en pâture à l’esprit de cette charmante enfant
+
+['il', 'lui', 'Charles', 'Louis', 'Stanislas']	Maximilien	Aussitôt qu’il avait pu raisonner, il s’était aperçu du peu d’estime que le duc avait pour sa femme. Si le vieux gouverneur conservait quelques formes dans ses manières avec la duchesse, [MASK], peu contenu par son père, causait mille chagrins à sa mère.
+
+['Elisabeth', 'Anne', 'Amélie', 'Isabelle', 'Emma']	Étienne	La duchesse augmentait ainsi le sentiment naturel qui lie un fils à sa mère, par les tendresses d’un amour ressuscité. La délicatesse d’[MASK] lui fit continuer pendant plusieurs années les soins donnés à l’enfance, elle venait l’habiller, elle le couchait ;
+
+['Monsieur', 'Émile', 'chacun', 'Joseph', 'Louis']	Étienne	bien plus ! si quelque vive terreur le tuerait à coup sûr, je crois qu’un bonheur trop subit le foudroierait également. Pour éviter ce malheur, m’est avis de laisser [MASK] s’engager de lui-même, et à son aise, dans la voie des amours.
+
+['Vénus', 'Jésus', 'Jupiter', 'Dieu', 'Joseph']	Étienne	; mais il était difficile de voir, même dans les tableaux italiens, une scène plus attendrissante que celle offerte par la comtesse, lorsqu’elle sentait [MASK] se gorgeant de son lait, et son sang devenir ainsi la vie de ce pauvre être menacé.
+
+['elle', 'Marie', 'Sophie', 'Marguerite', 'Catherine']	Jeanne	; et leur union se fortifia si bien, que, comme deux fleurs attachées au même rameau, ils se courbaient sous le même vent, se relevaient par la même espérance. Ce fut une même vie.Au départ du comte, [MASK] commençait une seconde grossesse.
+
+['Charles', 'Guillaume', 'Louis', 'Alexandre', 'Henri']	Beauvouloir	– Vous l’avez tué en ne le préparant pas à cette cérémonie.– Il ne pourra donc pas avoir d’enfant, s’il en est ainsi ? s’écria le duc qui suivit [MASK] dans la chambre seigneuriale où le médecin alla coucher le jeune héritier.– Eh ! bien, maître
+
+['elle', 'il', 'Marie', 'on', 'Louise']	Gabrielle	En arrivant dans le petit jardin, et à la lueur du flambeau qui éclairait le rouet de sa nourrice, [MASK] avait aperçu sur la chaise un homme à la place de cette bonne femme. Au bruit des pas, cet homme s’était avancé vers elle et l’avait effrayée.
+
+['Il', 'Elle', '</s>NOTUSED', 'Madame', 'il']	Étienne	, l’amour doit vous rendre irrésistible ; déclarez votre amour à monseigneur le duc, vous confirmerez ma lettre qui est assez concluante. Tout n’est pas perdu, je le crois. J’aime autant ma fille que vous l’aimez, et veux la défendre.[MASK] hocha la tête.–
+
+['Il', 'il', 'Louis', 'Elle', 'Charles']	Beauvouloir	[MASK] était riche. Le duc allait être furieux de l’audace du bonhomme. Le baron d’Artagnon basa sur ces événements l’édifice de sa fortune. Le duc, apprenant que son fils était amoureux, voudrait lui donner une femme de grande maison, héritière de quelques domaines
+
+['cela', 'mourir', 'ça', 'Dieu', 'vieillir']	Maximilien	À vous, rebouteur, s’écria-t-il, voyez où j’en suis aujourd’hui.– Tout va bien, monseigneur, et la fièvre a cessé. Vous vivrez encore de longues années.– Je voudrais voir [MASK] ici, reprit le duc en laissant échapper un sourire d’aise.
+
+['donc', 'alors', 'déjà', 'encore', 'pourtant']	Gabrielle	Où cette vie d’innocence conduisait-elle [MASK] ? Comment instruire une intelligence aussi pure que l’eau d’un lac tranquille qui n’aurait encore réfléchi que l’azur des cieux ? Quelles images dessiner sur cette toile blanche ? Autour de quel arbre tourner les clochettes de neige épanouies sur ce liseron ?
+
+['Alice', 'Anna', 'Alexandre', 'Antoine', 'Elisabeth']	Étienne	Pour lui, cet échange ne faisait pas question. Vous savez si cet homme de politique brutale comprenait brutalement l’amour ! il avait laissé mourir près de lui la mère d’[MASK], sans avoir compris un seul de ses soupirs.
+
+['chacun', 'présent', 'cela', 'tous', 'Dieu']	Étienne	Il n’y avait qu’une âme en lui, et pour que le corps faible et toujours débile ne fût pas détruit par les vives émotions de cette âme, il fallait à [MASK] le silence, des caresses, la paix dans le paysage, et l’amour d’une femme.
+
+['elle', 'il', 'et', 'qui', 'Louise']	Gabrielle	Votre nourrice est là, elle peut nous entendre, venez dit le baron.Il sortit, [MASK] le suivit. Tous deux allèrent sur la grève qui était derrière la maison.– Ne craignez rien, lui dit le baron.Ce mot aurait épouvanté une personne qui n’eût pas été ignorante
+
+['Monsieur', 'Paul', 'monsieur', 'Charles', 'Henri']	Étienne	Elle est si délicate, je crains tout pour elle, même un sentiment trop vif ; aussi ne lui ai-je rien fait apprendre, elle se serait tuée.– Elle ne sait rien ! dit [MASK] surpris.– Elle a tous les talents d’une bonne ménagère ;
+
+['Il', 'Paul', 'Pierre', 'Antoine', 'il']	Étienne	C’était un remuement d’eaux qui montrait la mer travaillée intestinement ; elle s’enflait par de grosses vagues qui venaient expirer avec des bruits lugubres et semblables aux hurlements des chiens en détresse. [MASK] se surprit à se dire à lui-même : – Que me veut-elle ?
+
+['Paul', 'Pierre', 'Henri', 'Joseph', 'Roland']	Étienne	elle eut de la joie à dire à [MASK] combien sa voix lui faisait plaisir à entendre ; elle oubliait la signification des paroles quand il lui expliquait la position des notes ou leur valeur ; elle l’écoutait, laissant la mélodie pour l’instrument, l’idée pour la forme
+
+['il', 'elle', 'qui', 'lui', 'confiance']	Étienne	mais [MASK] avait grandi pendant cette nuit, elle s’en était fait une espérance, un pouvoir ; elle l’avait mis si haut qu’elle désespérait de parvenir jusqu’à lui.– Me permettrez-vous de venir quelquefois près de vous, dans votre domaine ?
+
+[':', '</s>NOTUSED', ';', '[...]', '«']	Beauvouloir.–	Le mouvement de folie par lequel la mère cacha son fils auprès d’elle et le regard menaçant qu’elle jeta sur le comte par les deux trous du masque firent frissonner [MASK] Elle mourrait si elle perdait trop promptement son fils, dit-il au comte.
+
+['Jésus', 'Dieu', 'Marie', 'Moïse', 'Fatima']	Platon	Ils avaient accompli ce beau rêve du génie mystique de [MASK] et de tous ceux qui cherchent un sens à l’humanité : ils ne faisaient qu’une seule âme, ils étaient bien cette perle mystérieuse destinée à orner le front de quelque astre inconnu, notre espoir à tous !
+
+['plus', 'venir', 'encore', 'jamais', 'toujours']	Étienne	Malgré l’injuste convention faite avec le duc, elle ne voyait [MASK] ni prêtre ni cardinal dans ces trouées que son œil de mère faisait à travers les épaisses ténèbres de l’avenir. Le profond oubli du père lui permit de ne pas engager son pauvre enfant dans les Ordres.–
+
+['il', 'elle', 'on', 'Il', 'qui']	Beauvouloir	Le duc n’eut pas à se repentir de l’éclatante protection qu’il accordait à l’ancien rebouteur : [MASK] sauva le marquis de Saint-Sever d’une maladie si dangereuse, que tout autre médecin eût échoué dans cette cure.
+

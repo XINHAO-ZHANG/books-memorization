@@ -1,0 +1,200 @@
+['Seigneur', 'Marie', 'enfant', 'Satan', 'Jésus']	Jules	je vis que le moment était favorable pour obtenir ta grâce, je me jetai de nouveau à ses pieds, et cette fois, elle ne put résister à mes prières ; cette excellente mère me pressa contre son cœur, et un baiser scella ton pardon. — Mais qu’as-tu donc, [MASK] ?
+
+['Voltaire', 'Napoléon', 'Lafayette', 'France', 'Molière']	Napoléon	il leur parla des plaisirs et des amours des Français ; il leur parla de [MASK], dont le nom avait retenti jusqu’au fond de ces tribus, et il était facile de voir à leurs traits combien ses discours leur faisaient de plaisir ;
+
+['toi', 'Pierre', 'Pierrot', 'François', 'Henri']	Jérôme	Les Provençaux se jetèrent des regards, qu’ils accompagnèrent d’un sourire de malice.— Eh bien ! [MASK], est-ce que tu vas laisser chanter cette vieille chouette ? — « Non, sacredié pas ; car elle ouvre une bouche qui me fait frémir. »
+
+['Il', '«', 'il', 'Alexandre', 'David']	Jules	[MASK] fut frappé de l’excellence de ce conseil, qu’il se mit en devoir de suivre. » Il remplit ses poches de l’or qu’il avait devant lui, se leva, et, en traversant la foule de ses admirateurs, il ne put dissimuler la joie qui brillait dans ses yeux ;
+
+['Lui', 'Il', 'Elle', 'Et', 'et']	Jules	oh ! je t’en prie, dis-le moi, ne me cache rien. » [MASK] alors cherchait à la rassurer, prenait un air liant, lui parlait de son père, de sa mère, dé toutes leurs bontés ;
+
+['billets', '</s>NOTUSED', 'présents', 'offres', 'dettes']	Jules	mais, mon fils, jure-moi sur ton honneur que tu ne joueras plus. — Jamais je ne consentirai.... — Accepte les, [MASK], dit son père en. mettant un porte-feuille dans ses mains ; qu’une fausse délicatesse ne te force pas de refuser, songe à ton intéressante Amélie ;
+
+['Alice', 'Marie', 'Sophie', 'Anna', 'Emma']	Amélie	— « Mais si ; tu dormais lorsque je me suis mis au lit, et lu n’étais pas encore réveillée lorsque j’en suis sorti, voilà pourquoi tu ne t’en es pas aperçu. » Je suis sûre qu’il me trompe, pensa [MASK] en s’en allant ;
+
+['moi', 'non', 'enfin', 'hélas', 'voilà']	Elisa	si vous voulez mon bonheur, restons ici, et abandonnez un projet dont l’exécution serait le premier chagrin que j’aurais éprouvé. — Mais [MASK], je ne puis toujours vivre, je mourrai avant loi, et ce que je te laisserai sera si peu de chose....
+
+['«', ':', 'encore', '»', ';']	Amélie	lui disait [MASK], tu parais triste, tu ne manges pas ; serais-tu malade, mon ami, te serait-il arrivé quelque chose ? oh ! je t’en prie, dis-le moi, ne me cache rien. »
+
+['Voltaire', 'Holmes', 'Socrate', 'Martin', 'Alexandre']	Jules	Que peut-il donc leur dire de si intéressant ? pensa [MASK], et il s’approcha du groupe. — « Il y a six ans, disait l’orateur, que je suis à la recherche de ce jeu ; mais aussi il est infaillible.
+
+['eux', 'lui', 'elle', 'César', 'Napoléon']	Eugène	les sept forts et la casauba, bâtie sur le haut de la ville, qui la protégeait, ainsi que le port, la rade et les approches de la place, du côté de la mer, faisaient éprouver à [MASK], ainsi qu’à nous, des sensations fortes et belliqueuses ;
+
+['il', 'elle', 'Il', 'Henri', 'Charles']	Arthur	mais avant de combattre, il voulait voir sa bien-aimée ; il lui semblait qu’un seul de ses baisers redoublerait son courage ; les troupes passaient à une très-petite distance de son habitation ; [MASK] ne put résister au désir qui l’agitait ;
+
+['Tiens', 'Allons', 'Maintenant', 'Oui', 'Mais']	Amélie	— Mais ce ne fut pas encore le coup le plus terrible que ma mère me porta. — [MASK], me dit-elle, tu vas venir avec moi, je ne puis m’arrêter à l’idée que ma fille est dans la misère ;
+
+['lui', 'moi', 'cela', 'Dieu', 'Satan']	Zitouni	si le ciel ne m’eût amenée près de ces lieux, déjà ce poignard que tu vois près de toi, serait teint de ton sang ; méfie-toi, chrétien, de [MASK], il veut ta mort. Mais, tiens ; prends ce poignard ;
+
+['il', 'Louis', 'on', 'Pierre', 'Paul']	Brisetout	je ne me fis aucun scrupule de m’en servir, et le soir j’eus aussi mon billet d’entrée à l’hôpital, où [MASK] nous précéda, s’étant servi du même moyen qu’il m’avait indiqué.
+
+['Lui', 'lui', 'Pierre', 'Joseph', 'Louis']	Edouard	depuis quelques jours elle sortait sans son cheval, elle s’enfonçait dans les ravins, et, étendue près d’un ruisseau, elle respirait la fraîcheur et les parfums des arbustes-odoriférans, s’abandonnant aux charmes de la mélancolie. [MASK] aussi, depuis quelques jours, était triste et rêveur ;
+
+['il', 'on', 'lui', 'Voltaire', 'elle']	Jules	Plusieurs jours s’écoulèrent, qu’il avait employés à préparer ses plaidoyers ; déjà ses travaux avaient été couronnés du plus beau succès ; l’accusé du délit politique avait été déclaré non coupable, et [MASK] en avait reçu de riches présens.
+
+['lui', 'eux', 'elle', 'chacun', 'David']	Jules	un conciliabule fut tenu pour aviser aux moyens de connaître quel était ce jeu qui menaçait de les ruiner ; on décida que des hommes que l’on solderait largement, se tiendraient derrière [MASK], et étudieraient avec le plus grand soin sa manière de jouer.
+
+['Abraham', 'autrui', 'Auguste', 'Adam', '</s>NOTUSED']	Amélie	ceux qui le perdent. D’ailleurs, chaque fois que le hasard me conduit devant ces maisons où j’ai englouti toute la fortune d’[MASK], un frisson mortel me saisit, et je les fuis comme un spectre épouvantable.Oh ! bien certainement ce vieillard a tort ;
+
+['Joseph', 'Louis', 'Jean', 'Charles', 'Pierre']	Jules	à sa boutonnière est noué négligemment un ruban dont lés diverses nuances indiquent qu’il est décoré de plusieurs ordres militaires. Sitôt que [MASK] a reconnu son père, il s’est levé et est allé au-devant de lui.
+
+['elle', 'il', 'on', 'Marie', 'maman']	Amélie	il monte les escaliers avec précipitation, et n’a pas la peine de sonner ; [MASK] est déjà sur le seuil de la porte ; elle a pleuré, car ses beaux yeux sont encore tout rouges ; mais ils brillent cependant de cet éclat que donne l’espérance ;
+
+['tous', 'chacun', 'plusieurs', 'beaucoup', 'Tous']	Jules	Cette maison était précisément celle où il avait tout perdu. En ce moment un homme sortit d’une petite loge vitrée. Messieurs, s’écriait-il, je vous en prie, débarrassez le passage, vous parlerez aussi bien dehors. Ces paroles excitèrent la curiosité de [MASK] ;
+
+['elle', 'ce', 'il', 'Louise', 'Marie']	Elisa	que déjà il a parlé à son colonel ; il m’a promis, .dit-il, qu���il en soumettrait de suite la demande au ministre ; ainsi donc, bientôt [MASK] sera ma femme et nous ne nous séparerons plus....
+
+['Elle', 'Marie', 'elle', 'Jeanne', 'Marguerite']	Elisa	mais aux murs dégradés, aux portes brisées, il était facile de s’apercevoir que des troupes y avaient été cantonnées. [MASK] venait d’achever de donner ses soins au ménage, et elle se tenait près d’une croisée occupée à un ouvrage de broderie ;
+
+['Elle', 'Alice', 'et', 'Il', 'Clara']	Jules	» mais soudain le vieillard aux traits vénérables lui apparaissait, et prononçait d’une voix forte : « le jeu est un cratère qui parmi ses laves brûlantes ne vomit que des fleurs empoisonnées. » [MASK] alors se réveillait en sursaut et poussait de profonds soupirs.
+
+['Marie', 'Marguerite', 'Elizabeth', 'elle', 'Catherine']	Elisa	A peine [MASK] est-elle parvenue à la dernière marche de l’escalier, que ses yeux s’éblouissent en se portant sur les vagues qui mugissent.Son cœur ne peut résister à l’effet que produisent sur lui les mouvemens précipités et irréguliers que leur choc communique à la frégate.
+
+['il', 'elle', 'on', 'Joseph', 'Pierre']	Jules	quelle ne sera pas ta joie, en apprenant ce changement ! et ta mère.... elle finira aussi par me pardonner, car elle sera le témoin de tous mes efforts pour ton bonheur. En se livrant à ces agréables réflexions, [MASK] s’aperçoit qu’il est déjà au coin de la rue ;
+
+['Marie', 'Pierre', 'Madame', 'madame', 'Louis']	Julien	Nous partîmes donc accompagnés de [MASK], et bientôt nous fûmes devant l’hospice ; nous entrâmes par une petite porte latérale ; lorsque nous fûmes dans une cour très-propre, nous aperçûmes un corps de logis fort peu élevé et qui n’avait qu’un rez de-chaussée ;
+
+['toi', 'Seigneur', 'seigneur', 'chéri', 'moi']	Amélie	et tout cela, [MASK], l’appartiendra ; car, c’est à toi que je devrai tout ; le croirais-tu, cet argent m’a déjà rapporté plus de huit mille francs de bénéfices, et tous les jours il m’en rapportera autant.
+
+['oui', 'non', 'oh', 'Dieu', 'moi']	Alfred	— Oui, chaque fois que tu lui adressais la parole, elle rougissait et baissait les yeux, et les regards que, de tems en tems, elle jetait sur toi, étaient bien expressifs, bien tendres. — Tu crois qu’elle m’aime, oh ! [MASK], que je suis heureux !
+
+['Elle', 'Marie', 'Madame', 'Louise', 'Hélène']	Elisa	Aussi, sur le pont, les groupes se forment, les conversations s’animent, on ne se rappelle même pas ce que l’on vient de souffrir. [MASK] était sur la dunette, entourée d’une foule d’officiers et de passagers qui s’empressaient à lui faire sa cour ;
+
+['Il', 'il', 'Louis', 'II', 'Pierre']	Jules	[MASK] suait à grosses gouttes ; il s’essuie le front avec son foulard, et, sans donner aucune marque d’émotion, il recommence son jeu ; d’abord il gagne quelques coups ; un instant après, la chance lui devenant aussi funeste, il perd encore vingt-deux mille francs ;
+
+['elle', 'il', 'Marie', 'Madeleine', 'Louise']	Angélique	tu vas donc m’aider à préparer de suite le souper, car ces pauvres enfans doivent avoir bien faim ; nous ferons ensemble un souper de famille ; à la fortune du pot. Et plus légère qu’une biche, [MASK] franchit le seuil de la porte et disparut.
+
+['quiconque', 'qui', 'chacun', 'personne', 'nul']	Jules	Le joueur a déjà expliqué son jeu deux ou trois fois, et [MASK] serait capable de l’expliquer aussi bien que lui. Il n’est pas une seule voix qui s’élève pour le réfuter. Tous sont persuadés de son efficacité ;
+
+['Marie', 'Jeanne', 'elle', 'Sophie', 'Marguerite']	Jules	— Que veux-tu ? lui cria [MASK], en feignant de ne l’avoir pas entendue. — Je veux que tu viennes te reposer quelques instans. — Mon amie, je t’en prie, lui répondit-il avec un peu d’humeur, laisse-moi ;
+
+['elle', 'Marguerite', 'Marie', 'Catherine', 'Madeleine']	Amélie	il lès porte alternativement sur son fils, dont la contenance est celle d’un coupable plein de remords, et sur [MASK], dont les regards, remplis d’une tendre sollicitude, semblent implorer le pardon de son mari.
+
+['Alice', 'Anna', 'Elisabeth', 'Emma', 'Hélène']	Elisa	il cherche en vain à s’expliquer cet effroyable mystère ; qui peut être l’auteur du meurtre d’[MASK] ? où est son père ? personne pour l’instruire ! hors de lui, il se précipite sur ce cadavre, qu’il couvre de ses baisers et de ses larmes ;
+
+['lui', 'moi', 'Louis', 'nous', 'Paul']	Jules	Ces paroles du vieillard firent sur [MASK] une impression profonde ; la passion du jeu, se répétait-il souvent, n’abandonne sa proie qu’à la mort, et cependant je l’ai eue cette fatale passion, et pourtant je sens bien que maintenant j’en suis entièrement guéri ;
+
+['Voltaire', 'Robespierre', 'Napoléon', 'Montesquieu', 'Dreyfus']	Jules	A peine les jurés sont-ils entrés dans la salle des délibérations, qu’une foule d’avocats, de magistrats, entourent [MASK] et lui adresse les plus belles félicitations ; des pairs, des députés ne craignent même pas de venir joindre leurs éloges aux leurs ;
+
+['Jésus', 'Satan', 'mort', 'dragon', 'Moïse']	Méduse	Ce tison ardent, qu’il brandissait dans sa main, était plus effroyable pour elle que la tête de [MASK], et elle n’avait d’autre moyen de salut qu’en sautant par la croisée, qui n’était élevée de terre que d’environ douze pieds ;
+
+['il', 'elle', 'cela', 'ça', 'on']	Amélie	d’ailleurs, [MASK] pourrait venir pendant que j’irai boire ! j’ai manqué de précaution, demain j’aurai soin d’apporter une caraffe d’eau.... Minuit sonna ; c’est assez, dit-il, main tenant récapitulons. O ciel ! huit mille francs de gain en six heures ;
+
+['alors', 'toi', 'enfin', 'donc', 'maintenant']	Jules	— « Mais [MASK], d’où vient cet or ? — C’est un secret que je dois aussi te cacher ; qu’il te suffise de savoir que je n’ai point à rougir des moyens qui me le procurent ; il est le fruit de grands calculs et de combinaisons profondes.
+
+['il', 'elle', 'on', 'Marie', 'Il']	Arthur	plusieurs fois dans, la semaine, [MASK] venait les voir, et chaque visite augmentait leur amour ; avec quelle ivresse la jeune fille se livrait à ses occupations journalières ! le matin, lorsque le soleil se levait, elle se levait aussi ;
+
+['Il', 'il', 'Elle', 'Napoléon', 'On']	Arthur	elle craindrait alors que l’on s’aperçût de l’émotion que son arrivée lui a fait éprouver. [MASK] s’est mêlé à la conversation ; une discussion s’est élevée entre lui et un naturaliste qui s’est embarque dans l’intention d’étudier la nature dans la nouvelle conquête des Français.
+
+['Alexandre', 'Pierre', 'Charles', 'Jean', 'Louis']	Jules	venez voir si cela vous convient. » Et le mécanicien le conduisît dans son atelier ; « est-ce bien cela ? lui dit-il. — Oh ! tout-à-fait, s’écrie [MASK], et ses yeux étincelèrent de joie. — Faut-il vous l’envoyer chez vous ?
+
+['Madame', 'maman', 'madame', 'Henri', 'Maman']	Amélie	vois comme il est beau, comme il a bonne mine. — C’est bien aimable de sa part, dit [MASK] en souriant, et si son goût se rapporte à sa mine, ce doit être le phénix des pâtés. — Nous l’entamerons aujourd’hui à dîner.
+
+['Napoléon', 'Holmes', 'David', 'Charles', 'Alexandre']	Jules	— Monsieur de la chambre 2 , s’écria [MASK], des cartes ! alors, un petit homme vint -à lui, lui donna une forte épingle et quelques caries sur lesquelles étaient tracées des raies rouges et noires. Ces précautions prises, il promena ses regards sur tous les joueurs ;
+
+['hélas', 'non', 'oh', 'moi', 'vraiment']	Amélie	non ! s’écriait-il’alors, je ne jouerai jamais ; j’abhorre le jeu, [MASK] ! Mon père, vous n’aurez plus à déplorer les suites de cette fatale passion. Il assistait un jour à une réunion de saTanset d’hommes de lettres, à laquelle il avait été invité ;
+
+['elle', 'il', 'Elizabeth', 'Anna', 'on']	Elisa	jamais il ne pourrait se trouver seul avec elle ; dans la chambre des officiers, il y avait toujours, soit des passagers, soit des domestiques ; lorsqu’[MASK] paraissait sur le pont, elle était aussitôt entourée d’une foule d’officiers cm pressés à lui faire leur cour.
+
+['Charles', 'Louis', 'Pierre', 'Léon', 'Jacques']	Jules	— « Dix-huit, rouge, pair et impasse » , dit le banquier d’une voix aussi sombre que celle d’un juge qui prononce un arrêt de mort, et sa main s’est aussitôt emparée d’un râteau qui ramène à lui les douze billets de banque que [MASK] vient de perdre.
+
+['madame', 'monsieur', 'Madame', 'Monsieur', 'Mademoiselle']	Hassan	je vais lui ouvrir.... — « Que voulez-vous, [MASK] ? vous venez sans doute chercher votre salaire, je vais vous le donner ; ô mon Dieu ! comme vous me regardez, vous me faites frémir ;.... un poignard ! ... ah ! je suis morte.... »
+
+['il', 'elle', 'Mozart', 'Mahomet', 'Mahmoud']	Elisa	» Le soir de ce jour, [MASK] était à son piano ; comme à l’ordinaire, de sa voix s’échappaient les sons les plus mélodieux, et les Arabes, assis en silence en face de sa croisée, l’écoutaient avec les ravissemens de l’admiration ;
+
+['Charles', 'David', 'Louis', 'Alexandre', 'Napoléon']	Jules	— Précisément. Il faut, pensa [MASK] en s’en retournant, que je trouve un prétexte pour éloigner ma femme pendant que je ferai porter ce jeu chez moi ; car, pour tout au monde, je ne voudrais pas qu’elle soupçonnât ce que je veux faire.
+
+['Il', 'il', 'Louis', 'Joseph', 'Antoine']	Jules	[MASK] paraissait entièrement guéri de sa passion, et se livrait avec ardeur à ses occupations ; oh ! se disait-il en lui-même, que je suis heureux de ne plus aimer le jeu ; tous les joueurs devraient suivre mon exemple.
+
+['Joseph', 'Rodrigue', 'David', 'Jean', 'Salomon']	Jules	» Ici un frémissement involontaire fit bruire tous les membres de [MASK]. Son père répond : Mon fils, tu as un cœur excellent, mille brillantes qualités ; mais ta passion insensée en détruira tous les germes, et te conduira à ta perte ;
+
+['Marie', 'Elle', 'Madeleine', 'Jeanne', 'Emma']	Amélie	[MASK] si simple, si naïve., ne poussa pas plus loin ses réflexions, et promit de ne rien dire à sa mère ; et quelques instans après elle partageait toutes les illusions de son mari, tant elle avait confiance dans tout ce qu’il lui disait.
+
+['lui', 'elle', 'celui', 'Napoléon', 'Joseph']	Amélie	maintenant je vous remercie, je n’ai plus besoin de vous, voilà pour votre peine » et il le paya. Ensuite il ouvrit sa porte, transporta lui même le jeu dans son cabinet, et à peine y était il que l’on sonna ; c’était [MASK] qui revenait.
+
+['voyons', 'docteur', 'maman', 'Seigneur', 'oui']	Alfred	— Àh ! [MASK], si ce que tu dis était vrai ? — Très-vrai, je t’assure, tu le verras plus tard, mais laisse-moi achever : Nous entrons dans cet hôpital, où les soins les plus tendres nous sont prodigués ;
+
+['David', 'Joseph', 'Napoléon', 'Thomas', 'Léon']	Zora	sa mélancolie égalait celle, de [MASK] ; mais elle était moins douce, moins tendre ; il soupirait, il gémissait de se voir éloigné des siens, et l’idée qu’on pouvait le soupçonner d’une désertion dont il était incapable, abreuvait tous ses instans d’amertume et d’angoisse ;
+
+['Marie', 'Charlotte', 'Jeanne', 'Louise', 'Marianne']	Zora	Si je me lais renégat, se dit-il, il faut renoncer à revoir mes drapeaux, ma patrie et ma pauvre mère, et, cependant, si je refuse, que deviendra [MASK], cette pauvre enfant qui paraît tant m’aimer ? oh ! elle en mourrait de douleur !
+
+['Il', 'Elle', 'il', 'Louis', 'Pierre']	Brisetout	mais je vas les radoucir ; car je ne pourrai pas achever mon histoire si je savais qu’elles fussent vraiment fâchées. [MASK] se leva avec précipitation ; son pied accrocha sa chaise, qui tombant obliquement, vient justement frapper le nez épaté de son camarade ;
+
+['Elle', 'Marie', 'Jeanne', 'Madeleine', 'Louise']	Amélie	[MASK] était à sa croisée, depuis une heure, les larmes aux yeux, et dans la plus grande anxiété ; elle regardait si son mari arrivait ; elle craignait tant qu’il eût été victime de quelque fâcheux événement. Enfin, le cabriolet s’arrête ;
+
+['lui', 'les', 'le', 'eux', 'la']	Brisetout	il secoua sa tête, dont les cheveux formaient trois ou quatre gouttières, essuia sa figure jaunie par le liquide qui l’avait inondée, et suivit ensuite sans difficulté la jeune novice, qui le conduisit à la salle de bains. La gaîté s’apaisa, les sœurs et [MASK], reprirent leurs places.
+
+['elle', 'Madame', 'madame', 'Marie', 'Jeanne']	Amélie	Ciel ! que venez vous m’apprendre ? — Votre fils... Monsieur... — Je vous entends ; mon fils est mort. » A ces mots [MASK], ouvre des yeux hagards ; votre fils ! ... mon mari ! s’écrie-t-elle, où est-il ?
+
+['Il', 'il', 'Louis', 'Pierre', 'Paul']	Jules	[MASK] fut triste et silencieux toute la nuit ; des songes fantastiques troublèrent son sommeil ; sans cesse il croyait voir l’homme aux mous taches grises qui lui répétait : « dans un mois, la somme de mes gains a été au-delà de cent mille francs ; »
+
+['elle', 'celle', 'Elle', 'Marie', 'lui']	Zora	C’était [MASK] qui gardait toutes les richesses de son père, c’était elle qui commandait toutes les femmes esclaves, et toutes ses volontés étaient toujours excéutées ; son âme était aussi ardente que bonne, et elle serait morte dé langueur si il lui eût fallu ne jamais sortir dé sa triste gourbie ;
+
+['il', 'elle', 'on', 'lui', 'Il']	Jules	et cette tourbe, rongée de désirs et de cupidité, se dispersa. Entraîné par une fascination surnaturelle, [MASK] le suivit ; plusieurs fois il fut tenté de l’aborder ; il retournait sur ses pas et revenait soudain. Une horloge sonna ; il regarda à sa montre :
+
+['elle', 'Marie', 'lui', 'Marguerite', 'Jeanne']	Delphine	son cœur se gonfle, ses paupières s’humectent, et il jette un dernier regard sur [MASK], qui a suivi tous ses mouvemens et qui comprend sa douleur. La yole fend l’onde, et, poussée par une bonne brise, elle gagne promptement le port ;
+
+['Antoine', 'Pierrot', 'Lucien', 'Charles', 'Louis']	Brisetout	Cabaretier de malheur, s’écria [MASK], qui avait pris une allure de fierté en se voyant en société de gens dont le gousset paraissait mieux garni que le sien ; — des personnes comme nous ne boivent que du bon, arrive vite avec ton meilleur, je suis impatient d’humecter mon gosier.
+
+['Seigneur', 'toi', 'frères', 'maintenant', 'seigneur']	Jules	maintenant tu pourras satisfaire aux besoins de ton âme, d’être humain, généreux ;... maintenant tu seras heureux, puisque ton bonheur serait de me voir au sein des richesses... et ces richesses, [MASK], me seront d’autant plus agréables, qu’elles sont la récompense de tes belles actions...
+
+['Ah', 'Oh', 'Monsieur', 'Madame', 'Comment']	Elisa	— [MASK] ! ... je vous comprends ! elle sait tout, et elle consent à la demande que je vous fais. — Serait-il possible ? — Monsieur, la demande que je vous fais ne devrait pas vous affliger ;
+
+['Alice', 'Elisabeth', 'Anna', 'Hélène', 'Agnès']	Elisa	vous rougiriez d’un tel crime, car ce serait un crime, Monsieur, de tromper un enfant si ingénue, si aimante, dont les douleurs causeraient la mort de son père.... Vous me demandez la main d’[MASK] , eh bien ! elle est à vous, et mon amour se partagera entre vous deux.
+
+['Il', 'Jean', 'Elle', 'Le', 'Louis']	Edouard	[MASK], le cœur tout palpitant, courut à lui croyant qu’il allait être mis en liberté ; mais celui-ci détruisit bientôt cette douce illusion par ces mots, prononcés d’un air sombre : le capitaine rapporteur vient vous interroger. Le capitaine-rapporteur !
+
+['Marie', 'Madame', 'Jeanne', 'Maman', 'Louise']	Amélie	[MASK], tenant son enfant sur ses bras, se rapprocha’ du lit en marchant sur la pointe des pieds ; elle baissa la tête vers celle du malade ; d’une voix faible et oppressée, elle lui dit : Jules ! Jules ! regarde-moi, mon ami ;
+
+['elle', 'Elle', 'on', 'Hélène', 'Isabelle']	Elisa	ah ! si je savais qu’[MASK] pût m’aimer, que son cœur acceptât l’offre de ma main, que je serais fier de partager avec elle cette fortune qui n’est rien, comparée à la possession de ses charmes... Mais, ô ciel !
+
+['David', 'malheureux', 'Joseph', 'Alexandre', 'Seigneur']	Jules	mais ta passion insensée en détruira tous les germes, et te conduira à ta perte ; écoute, [MASK], je n’ai point été la dupe des détours ingénieux que ta femme a employés pour me cacher la véritable source de tes larmes ; elle a craint pour toi mes justes reproches ;
+
+['Il', 'On', 'il', 'Mahomet', 'Chacun']	Edouard	dès qu’il eut commencé à tirer quelques bouffées, tous les autres Arabes allumèrent leurs pipes et suivirent son exemple. [MASK] vit bien que, dans sa position, il lui était important de chercher à plaire à ces hommes, que l’ignorance et la superstition rendaient ses ennemis ;
+
+['celui', 'Ali', 'Moïse', 'Ahmed', 'Ibrahim']	Zitouni	A peine le soleil s’était-il levé, qu’il sortit de sa gourbie ; il aperçut, au même instant, [MASK] qui sortait de la sienne : sa vue lui inspira un projet dont l’exécution l’eût comblé de joie. Il alla droit à lui.
+
+['Il', 'Mahomet', 'Hassan', 'Ibrahim', 'Ahmed']	Hassan	tu seras content de notre zèle. Et les deux Arabes s’éloignèrent. [MASK] prolongea son regard sur la jeune fille ; c’était un regard qui exprimait tous les crimes, le regard du vautour sur la colombe, le regard de l’impudique sur l’innocence. »
+
+['Napoléon', 'Voltaire', 'Alexandre', 'Bonaparte', 'Goethe']	Alfred	Dieu merci ! mes amis, répondit [MASK], m’en voilà de retour ! et je proteste bien que les Français peuvent faire des conquêtes tant qu’ils voudront, mais que jamais il ne me prendra l’envie de les visiter ;
+
+['Mais', 'Lui', 'Monsieur', 'Jean', 'François']	Brisetout	[MASK], revenu de son émotion, continua : Quand le capitaine et l’Intrépide se sont bien embrassés, eh bien ! lui dit ce dernier, je vous l’avais bien dit, capitaine, que je me vengerais.
+
+['lui', 'moi', 'Ahmed', 'un', 'Mohammed']	Hassan	C’est un Arabe, je suis perdue ! mais non, folle que je suis ! c’est [MASK], un des deux Maures que mon père a prisa son service il y a trois jours ; j’ai oublié de lui donner son salaire et il vient le réclamer ;
+
+['Joseph', 'David', 'Abraham', 'Adam', 'Daniel']	Zitouni	effrayée, elle se réfugie vers le buisson qu’elle vient de quitter, et elle jette autour d’elle des regards inquiets ; bientôt, à travers le feuillage, elle aperçoit des vêtemens blancs, elle distingue un Burnouss, et son inquiétude s’accroît en reconnaissant [MASK], le plus cruel de la tribu ;
+
+['il', 'elle', 'lui', 'Il', 'Pierre']	Edouard	enfin., elle l’aperçoit sur l’avant de la frégate, surveillant les manœuvres ; leurs yeux se rencontrent ; [MASK] veut tout quitter pour voler près d’elle ; qu’il puisse au moins lui presser encore la main et lui répéter je t’aime pour toujours !
+
+['Henry', 'Holmes', 'lui', 'Martin', 'Charles']	Jules	.. —Assurément, lui répondit le mécanicien en le regardant d’un air étonné. — C’est une commission, reprit [MASK], que m’a donnée un de mes amis qui est établi dans les colonies, et je voudrais lui envoyer ce jeu le plutôt possible.
+
+['Moïse', 'Jérémie', 'David', 'Abraham', 'Jésus']	Mahomet	— Très-vrai ! répondis-je, [MASK], prophète et législateur, leur interdit l’usage des liqueurs spiritueuses, pour éviter qu’ils perdent leur raison en s’abandonnant à l’ivresse, ce qui, selon lui, est avilir au dernier point la dignité de l’homme.
+
+['Marie', 'Seigneur', '</s>NOTUSED', 'ô', 'Jésus']	Eugène	je crois que je vous aime ; et les tiens lui répéter : que vos grâces enivrent mes sens ; aux battemens de mon cœur je sens que je vous adore. Ne rougis pas, [MASK], voilà le véritable sens du langage muet, mais expressif, de vos yeux ;
+
+['Ah', 'Oh', 'Père', 'Papa', 'Dieu']	Amélie	Enfin, harassé de fatigue, il s’appuie contre une borne ; ses bras étaient croisés, sa tête tombait sur sa poitrine, son âme était livrée aux émotions les plus pénibles Dans son délire de douleur il s’écrie : [MASK] ! mon père ! pardonnez-moi !
+
+['lui', 'Paris', 'cela', 'elle', 'tout']	Amélie	Pendant le trajet, mille idées l’agitèrent ; elles se heurtaient et s’entre-choquaient dans son esprit, qu’elles traversaient avec la rapidité de l’éclair ; tantôt il pensait à [MASK], à l’or qu’il venait de gagner, à celui qu’il gagnerait encore ;
+
+['surtout', 'capitaine', 'donc', 'Monsieur', 'monsieur']	Brisetout	oui ! un conte, s’écrièrent ensemble plusieurs voix ; à toi, [MASK], qui as été caporal de grenadiers. —Mais surtout, répondit une autre, vous voudrez bien nous faire grâce des jurons dont vous ne manquez pas ordinairement d’assaisonner vos récits !
+
+['Il', 'il', 'Elle', 'elle', 'On']	Edouard	cette lettre dont vous me parlez, ces propos de deux de mes camarades, sont des mensonges que je ne puis concevoir, et vos interprétations infernales je les méprise autant qu’elles méritent de l’être. — Vous n’avez rien autre chose à ajouter pour votre justification ? [MASK] ne répondit point.
+
+['monsieur', 'lui', 'Monsieur', 'je', 'Dieu']	Jules	vous vous rappelleriez alors les écarts de votre mari, et sur eux vous verseriez des larmes de sang ; vous l’accableriez de justes reproches ; vous lui diriez... — Oh ! je ne lui dirai rien ;... que [MASK] travaille, mais qu’il travaille modérément ;
+
+['Jésus', 'Seigneur', 'Marie', 'Dieu', 'Père']	Amélie	... mais le moyen que j’avais pris pour y parvenir était faux ; j’en suivrai un autre plus digne de mon caractère... Je t’en conjure, [MASK], dis-moi que tu me pardonnes, que tu m’aimes toujours. — Moi, te pardonner ?
+
+['Alors', 'Mais', 'Oh', 'Quoi', 'Seigneur']	Ali	— [MASK], cette fille est bien belle ? — C’est une chrétienne ! .... — Une chrétienne ! ... oui, mais regarde ses yeux, les femmes du grand prophète en ont-ils de plus beaux ? — C’est une chrétienne ! ... — Une chrétienne !
+
+['parlez', 'Parler', 'Parlons', 'Dites', 'Mais']	Amélie	[MASK], parlez, s’écrie le vieillard, quel malheur vous est-il arrivé ? ne me cachez, rien, mes enfans, vous savez combien je vous aime. — Oh ! je ne mérite point lo amitié, mon père, j’en suis de plus en plus indigne.
+
+['Holmes', 'David', 'Alexandre', 'Napoléon', 'Charles']	Jules	il ne vit aucune place à chaise vacante ; enfin, après avoir bien examiné pendant près d’une demi-heure, il aperçut à une de ces places un vieillard, dont la pâleur et les regards sombres exprimaient le désespoir. Cet homme aura bientôt tout perdu, pensa [MASK] ;
+
+['toi', 'cela', 'ça', 'oui', 'çà']	Sirène	. « Monsieur, j’apporte au commandant de la frégate une lettre de l’amiral. — Une lettre de l’amiral ! eh bien ! [MASK] , mon enchanteresse, tu l’as entendu ; car tu frémis d’impatience, et sembles renaître à l’espérance.
+
+['elle', 'Elle', 'Marie', 'Marianne', 'Jeanne']	Zora	tiens, en ce moment, près de toi, je sens mon cœur qui bondit, mon sang qui brûle.... Jeune Français ! [MASK] est à toi pour la vie ; mais, par pitié, ne l’abandonne pas, tu la ferais mourir.... — Eh bien !
+
+['il', 'je', 'elle', 'on', 'Dieu']	Jules	— Tous en êtes bien éloigné ; [MASK] m’aime trop, au contraire.... — Ah ! par exemple, voilà du nouveau, une femme qui se plaint que son mari l’aime trop.... mais comment donc cela ? — Oh ! bien certainement, il m’aime trop ;
+
+['elle', 'Marie', '</s>NOTUSED', 'Julie', 'Suzanne']	Elisa	, on cherche à le voir, à l’entendre, et le cœur s’embrase, et l’amour s’accroît. Le soir, [MASK], étendue dans son cadre, réfléchissait, pensait à son excellent père, aux tourmens qu’il se préparait en courant après une fortune qui peut-être déjouerait tous ses projets ;
+

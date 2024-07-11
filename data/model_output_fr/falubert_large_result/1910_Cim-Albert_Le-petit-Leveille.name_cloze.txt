@@ -1,0 +1,200 @@
+[',', 'Pierre', 'il', 'Il', 'Henri']	Césaire	Nous partirons demain. — Oh ! déjà ? fit [MASK] avec un douloureux étonnement et une sorte d’effroi. — Oui, mon enfant. Cambournac nous attend, et il ne faut pas différer davantage. — Ah, mon oncle ! — C’est dans ton intérêt.
+
+['ᴥ', '</s>', 'Â', '.', '契']	Césaire	; aussi je connais les taxes ! — Vous devez gagner beaucoup d’argent à ce métier ? conclut [MASK]. — Eh ! malheureusement, ça se dépeuple, l’espèce disparaît ! soupira d’un air navré l’interlocuteur, qui était le tenancier de la ferme.
+
+['il', 'elle', 'on', 'celui-ci', 'y']	Césaire	En peu d’instants, [MASK] eut expédié le bol et taillé dans la miche une brèche d’importance. « Mazette ! Vous y allez bien, jeune homme ! C’est plaisir de vous regarder ! s’exclama la servante en se plantant devant lui, les poings sur les hanches.
+
+[',', 'se', 'le', 'en', 'et']	Césaire	[MASK] tira de son sac le restant de pain et y mordit à belles dents, tout en achevant la tranche de jambon ; puis il alla boire une gorgée d’eau dans le clair ruisselet de la prairie, et en route ! Sa fatigue de la journée précédente n’avait sans doute pas entièrement disparu
+
+['lui', 'moi', 'son', 'lui', "l'"]	Césaire	nous partirons de notre côté, lui du sien, et nous nous retrouverons tous les trois là-bas. Tu as de l’argent pour prendre ton billet ? ajouta-t-il en s’adressant à [MASK]. — Oui, monsieur, j’ai une trentaine de sous.
+
+['il', 'on', 'elle', 'tout', "l'"]	Césaire	Voyons, joue-moi encore cette cavatine ! » Et quand [MASK] eut terminé : « Bravo, mon enfant, bravo ! Ton oncle ne t’a appris que la flûte ? — J’ai fait un peu de clarinette aussi, un peu de cornet à pistons également…
+
+['le', '...', 'lui', 'un', 'les']	Césaire	Au bout de quelques instants, le vieillard se retourna à demi vers [MASK] : « Tu es blessé ? demanda-t-il. — Je… je crois que… oui… J’ai mal au bras… — Encore un peu de courage : nous allons arriver. »
+
+[':', '"', ';', ',', '-']	Césaire	« Que faut-il servir à monsieur ? demanda une servante, robuste et rougeaude campagnarde, en train de balayer la salle. — Une tasse de café, de café au lait, répondit [MASK]. Bien chaud ! » ajouta-t-il.
+
+['questions', 'question', 'roi', 'celle-ci', 'curé']	Césaire	Il faut croire que les réponses de [MASK] plurent à la vieille dame, car elle donna l’ordre à sa servante de « faire souper cet enfant », et, comme le soir approchait : « L’heure est trop avancée pour que tu te remettes en route, dit-elle.
+
+['en', 'encore', ':', 'de', 'pour']	Kiki	» Il n’avait rien pu découvrir. Voilà que l’année dernière, en nous promenant et comme nous repassions en cet endroit, j’interpelle [MASK] : « C’est cependant par ici que j’ai perdu mon couteau ! Oui, c’est bien là…
+
+['celui', 'rôle', 'celle', 'côté', 'nouveau']	Césaire	Tu verras, je te montrerai ! » En attendant, le rôle du balai étant fini, elle passa à [MASK] un torchon, et – nouvelle démonstration – lui enseigna à méthodiquement et minutieusement essuyer chaises, tables, commode, étagère, tous les meubles.
+
+["n'", 'il', 'chien', 'Il', 'ne']	Césaire	[MASK] était tout surpris de ce prodige et s’en amusait de tout cœur. « Qu’il est drôle, ce chien ! Qu’il est drôle ! s’exclamait-il. — Et si vous le voyiez se régaler de noisettes, les casser et en extraire l’amande !
+
+['le', ',', "l'", 'Raoul', 'Jean']	Césaire	Eh ! J’ai soixante-dix ans, et, à cet âge-là… — Je t’en prie ! s’écria [MASK] en se suspendant, tout ému et en larmes, au cou de son oncle. — Je sais que tu m’aimes bien, mon trésor !
+
+['...', 'le', "l'", 'la', 'dit']	Césaire	« C’est toi qui fais ce vacarme ? cria un homme qui stationnait au milieu de la chaussée. — Monsieur ! Il y a un loup… un loup derrière moi ! dit [MASK]. — Un loup ? Es-tu sûr ? —
+
+['on', 'elle', 'il', 'je', 'ne']	Césaire	; il faut, au contraire, s’appliquer à peler aussi fin que possible… Tiens, comme cela ! » Elle avait l’air très économe, la patronne ; et, cette économie, [MASK] la constata mieux encore, lorsqu’on se mit à table.
+
+['il', 'elle', 'celui-ci', 'on', 'celle-ci']	Landry	En moins d’une demi-heure, [MASK] effectua ce trajet et revint au château avec le docteur. Celui-ci, après avoir examiné le blessé et procédé à un pansement sommaire, annonça au comte qu’il tenterait le lendemain matin l’extraction de la balle.
+
+['M', 'Dieu', 'Pierre', 'chacun', 'moi']	Césaire	tiens, là, petit, derrière moi, et étends-toi bien : tu seras plus à l’aise pour faire un somme. » Il y avait divers objets, une boîte en fer blanc, deux bouteilles, une clef anglaise, des tenailles, à l’endroit indiqué à [MASK].
+
+['le', ',', 'la', 'de', "l'"]	Césaire	« Et l’horlogerie, monsieur ? insinua [MASK], à qui l’occasion de rappeler ce menu détail parut on ne peut plus propice. Je vous remercie mille et mille fois de vos leçons de cornet à pistons, elles me font le plus grand plaisir, mais…
+
+['le', "l'", 'la', 'Pierre', 'celui-ci']	Césaire	« Mais quand donc me mettrai-je à l’ouvrage ? » commençait à se dire [MASK], en songeant à l’horlogerie et en lançant un coup d’œil sur la place qui lui était réservée, sur son établi.
+
+[',', 'et', 'ou', ';', 'no']	Antoinette	déclara de nouveau [MASK] d’un ton catégorique. Quand tu lui auras raconté ce que tu y fais et ce que tu endures, lorsque papa et maman lui auront confirmé tes paroles, il sera le premier à te retirer de cette galère, à te placer chez nous…
+
+[',', 'de', 'la', 'le', 'on']	Césaire	L’influence de ce doux et reposant spectacle, de ce milieu si paisible et si salubre, aussi bien que de ce resplendissant renouveau, se faisait profondément sentir chez [MASK]. Il avait recouvré ses forces et abandonné l’écharpe qui soutenait son bras. Sa blessure était complètement fermée
+
+['le', "l'", 'la', 'un', 'plus']	Césaire	L’opération s’effectua sans encombre ; mais elle fut suivie d’une fièvre violente, accompagnée de longs accès de délire, qui retint [MASK] pendant douze jours insensible et étranger à tout ce qui l’entourait, comme annihilé.
+
+['...', 'DE', 'RE', 'le', '"']	Césaire	Si vous vouliez m’emmener ! s’écria [MASK]. Je voudrais tant embrasser mon oncle ! — Je comprends ton impatience, mon ami ; elle témoigne de ton bon cœur. Mais il est indispensable de consulter auparavant le docteur Geoffrin. Ce serait peut-être un peu tôt…
+
+['Maman', 'maman', '-', '...', 'aussi']	Antoinette	« Maman, demande-lui donc aussi s’il a faim. Il a peut-être faim… C’est l’heure de mon goûter… — Tu as raison, [MASK]. Prépare les cerises et le pain… Tu mangeras bien quelques cerises ?
+
+[',', 'se', 'il', 'tout', 'le']	Césaire	Comment… Ah ! ! ! » Et [MASK] comprit tout à coup, devina ce « quelque chose » qu’il avait senti planer sur lui et le menacer dès son entrée dans la chambre. Et ses yeux s’écarquillèrent, puis se voilèrent comme d’une buée :
+
+['il', 'elle', ':', ',', ';']	Césaire	Il n’y a que le pain dont il fasse fi. Ah ! le pain, il n’en faut pas ! — Qu’il est donc comique ! s’écriait [MASK]. Je n’en ai jamais vu un pareil ! — Mais c’est qu’il n’en existe pas !
+
+['madame', 'monsieur', 'Monsieur', 'Madame', 'dit-elle']	Pierre	« Qu’est-ce que vous faites donc, [MASK] ? — Madame, je fais sécher mon pain. — Sécher votre pain ? — Oui, madame. Plus il est sec, plus je l’aime, plus je le mange avec appétit.
+
+['rin', ',', 'et', 'y', 'il']	Césaire	[MASK] saisit ce qui lui tomba sous les doigts, une grosse paire de tenailles en fer, et, surgissant de sa cachette, se précipita sur ce malandrin, le frappa au hasard et de toutes ses forces avec cette arme improvisée, non sans crier à pleins poumons : « Au secours !
+
+['il', 'chacun', 'on', 'ré', 'elle']	Césaire	! » On prit place à table, et, après un copieux déjeuner, principalement composé de boudin, de fricadelles et de grillades, reliefs d’un porc tué l’avant-veille, [MASK] emboucha son instrument et régala l’assistance des meilleurs morceaux de son répertoire.
+
+['peu', 'cela', 'aussi', 'nous', 'alors']	Colombe	Ah ! je m’en vais le secouer, ce polisson ! Attends un peu ! Attends, attends !… Nous faire poser de la sorte ! Nous plonger dans des transes pareilles ! Nous… — Il sera bon de nous dépêcher, [MASK], si nous voulons ne pas manquer le train.
+
+['...', 'le', 'à', 'en', 'un']	Césaire	Je… je prendrais bien une seconde tasse », dit [MASK]. La seconde tasse ne tarda pas à rejoindre la première, et la brèche de la miche à s’accroître du double. Pour ce pantagruélique festin, notre voyageur paya la somme de cinquante centimes ;
+
+['Octave', 'plus', 'moins', 'tout', 'Monsieur']	Léocadie	— Oui, et elles sont mortes à quelques semaines d’intervalle sans laisser de progéniture. — Il n’y a que le plus jeune fils de votre frère Henri, votre neveu Octave, dont je ne saurais que dire non plus, reprit [MASK].
+
+['Monsieur', 'Bonjour', 'Madame', 'Je', 'Alors']	Kiki	Il boudait. Quelqu’un sonnait-il à la porte, il n’aboyait pas, ne bronchait pas, semblait se désintéresser de tout et ne plus faire partie de la famille. On avait beau l’appeler, l’exhorter : « [MASK], viens dire bonjour au monsieur !
+
+['la', 'une', ',', "l'", 'cette']	Léocadie	La fortune immobilière, c’est-à-dire la maison et le jardin, est attribuée à son petit-neveu. — Ah ! — Vous comprenez à présent ? — Oui… oui, monsieur, balbutia [MASK] tout émue, le visage rayonnant de joie.
+
+['oui', 'non', 'monsieur', 'dit-il', 'alors']	Colombe	— En effet, [MASK], c’est vrai, je ne réfléchissais pas, répondit l’horloger avec sa mansuétude habituelle. — Tu ne réfléchis jamais à rien, toi ! Pendant que nous dresserons le couvert, le petit s’occupera de la cuisine, il surveillera le gigot, tout en épluchant la salade
+
+['tombé', 'de', ',', 'mort', 'décédé']	Octave	« Serait-ce une bru de mon frère Henri ? Il était père de deux garçons, dont l’un est mort sans s’être marié ; quant au second, [MASK], il n’a jamais donné de ses nouvelles, mais je le croyais mort aussi…
+
+['Il', 'On', 'Elle', 'Chacun', 'Celui-ci']	Césaire	» [MASK] revint bientôt avec l’instrument demandé, et la leçon commença. « Espérons, se disait-il en lui-même, que ce sera tout à l’heure le tour de l’horlogerie ! » Mais son espoir fut déçu.
+
+['-', '...', 'le', 'ce', ';']	Martin	— Il vaut mieux que cette course se fasse aujourd’hui, repartit péremptoirement la patronne. Demain j’ai l’intention de sortir. — Il faut cependant qu’on aille demain chez [MASK]. — Eh bien, le petit ira ;
+
+['il', 'le', 'elle', 'Pierre', 'Jean']	Césaire	D’un côté, des outils, pelles, râteaux et pioches, étaient rangés debout contre le mur, près d’une brouette ; de l’autre, à droite de l’entrée, gisaient plusieurs bottes de paille. « Sauvé ! se dit [MASK], tremblant de joie.
+
+['moi', 'vous', 'lui', 'elle', 'le']	Bloch	mais, au lieu d’être demain quatre heures dehors, il n’en sera que deux, et je pourrai sortir après ma besogne faite. Envoie-le cette après-midi chez [MASK]. — J’aurais aussi besoin de porte-mousquetons pour ces chaînes, et d’un médaillon onyx semblable à celui-ci.
+
+['Jean', 'papa', 'oncle', 'Pierre', 'Robert']	Césaire	— Et toi alors tu demanderas à ton oncle de te placer chez nous. — Tiens, oui, c’est vrai ! Mais d’abord, reprit [MASK], je lui demanderai de me ramener un peu au pays, pour une huitaine ou une quinzaine de jours.
+
+[',', 'de', 'la', 'le', "l'"]	Césaire	[MASK], qui n’avait pas d’abord clairement entendu la question, s’empressa d’accepter, et, une seconde après, il était assis dans la voiture, à la gauche du vieillard. Celui-ci de lui poser alors les questions de rigueur en la circonstance : « Tu viens de loin
+
+['nous', 'lui', 'femmes', 'eux', 'moi']	Césaire	puis cette nouvelle corvée était passée en règle et elle figurait maintenant dans le programme. Le froid survenant, on avait dû s’occuper du chauffage, et c’était encore à [MASK] qu’incombait la tâche de descendre à la cave pour y puiser le charbon et de préparer les feux.
+
+[',', 'de', 'le', 'la', 'h']	Césaire	» [MASK], qui, depuis deux jours, ne s’était pas étendu dans un lit, se rattrapa cette nuit-là et dormit comme une marmotte. Le lendemain, on ne le laissa pas partir sans qu’il eût déjeuné ;
+
+['Il', 'Elle', 'il', '</s>', 'elle']	Césaire	ce serait de l’argent et du temps perdus. Aussi je fais encore une fois appel à ton bon cœur et à ton bon sens, je te supplie encore une fois, mon cher enfant, d’être raisonnable. » [MASK] se résigna et dévora ses larmes en silence.
+
+['...', 'encore', '-', ':', 'en']	Césaire	Parce que… c’est moi, la petite demoiselle… Elle me reproche souvent de… d’être un peu trop… de trop causer. — Comme je serais heureux d’être chez vous ! s’exclama [MASK]. Oui, quel bonheur, si cela pouvait se faire
+
+['son', 'ses', 'sa', 'notre', "l'"]	Césaire	En confiant son neveu à « l’ami Cambournac », l’oncle Justin, qui n’avait jamais oublié l’aménité, la cordialité et tous les généreux sentiments de son vieux camarade, ne concevait aucun doute sur le sort de [MASK]. « Chez qui pourrais-je le mieux placer ?
+
+['Il', 'Celui-ci', 'Elle', 'il', 'Lui']	Césaire	« Entre donc, mon petit ami… Ma maîtresse veut te parler. » [MASK] obéit et se trouva bientôt en présence de la vieille dame, qui désirait savoir d’où il venait et où il allait, et lui fit subir un interrogatoire en règle.
+
+['"', 'la', '.', 'bois', 'service']	Césaire	» Et elle vida la corbeille dans l’assiette de [MASK]. Tout était en bon ordre, paisible et souriant dans cette grande pièce, où les deux fenêtres, qui ouvraient sur un petit jardin disposé en pelouse et tout verdoyant, épandaient à flots la lumière.
+
+[',', '¿', '...', ';', "'"]	Antoinette	. Nous ne nous verrons plus ! — Écoute, répliqua [MASK]. Une idée m’est venue, que je veux te communiquer ; j’ai formé un plan… un plan qui serait, je crois, facile à exécuter — Va ! Quel est-il, ce plan
+
+['le', "l'", 'un', 'Pierre', 'son']	Césaire	– Voilà ce que je lui dirais, s’il était ici, si je le voyais », se murmurait [MASK], qui s’était affalé sur un banc, à l’extrémité du lac, et rêvait, la tête appuyée sur son coude. Soudain il se redressa.
+
+['toujours', ',', 'et', 'encore', "d'"]	Césaire	« Voyons, du courage, mon enfant ! » Et il l’embrassait, s’efforçait de le consoler par des baisers et des caresses. « Ah monsieur !… Ah ! ! ! râlait [MASK], toujours sanglotant et suffoquant. — Remets-toi… Voyons !
+
+['-', 'le', 'la', 'R', "l'"]	Médéric	! » Un jeune homme, occupé à ranger de grands pots de fer blanc dans la voiture, interpella le chasseur : « Dites donc, not’ maître ! Si j’allais avec vous ? — Pas besoin de toi, [MASK] ! Achève ta besogne ! »
+
+['il', "c'", 'Pierre', 'Paul', 'Louis']	Césaire	Il n’oublia pas la musique, pour laquelle il était passionné, et inspira cette même passion à son élève. À douze ans, [MASK] était un excellent flûtiste, et ne rêvait pas d’autre profession que celle-là. Mais l’oncle Justin était un homme circonspect et expérimenté.
+
+['se', 'pen', 'lui', 'tout', 'le']	Césaire	» « Je te montrerai… Je m’en vais te montrer… » Ces locutions revenaient à tout instant sur les lèvres de la longue, sèche et osseuse femme : c’était d’elle, et d’elle seule, que [MASK] semblait l’apprenti.
+
+['Tu', 'Il', 'Je', 'tu', 'Elle']	Césaire	Sais-tu éplucher les pommes de terre ? Je gage que tu ne sais pas ! » [MASK] convint qu’en réalité cette besogne ne lui était pas familière. « Tu vois que de choses tu as à apprendre ! Heureusement que je suis là pour te montrer !
+
+['...', 'bien', 'oui', ',', '....']	Césaire	? — J’ai fait un peu de clarinette aussi, un peu de cornet à pistons également… — Que ne le disais-tu ! Nous allons en jouer ensemble ! — Oh ! je ne saurais pas ! répliqua modestement [MASK]. — Bah ! Bah !
+
+[',', 'ainsi', 'celui-ci', 'il', 'Gilbert']	Césaire	Mais le balancement de la voiture poussait [MASK] à clore les yeux et à s’endormir. Il avait peine, avec son extrême lassitude, à lutter contre le sommeil. Le vieillard s’en aperçut. « Oh ! oh ! Nous avons du sable dans les yeux !
+
+['toi', 'MON', '...', 'NOS', 'NOUS']	Germaine	Je me disais qu’on pourrait mal interpréter cette réconciliation, lui supposer des motifs… des motifs intéressés… Vous avez une grande fortune, mon cousin, et nous… — Ô [MASK] ! N’étais-tu pas comme l’enfant de la maison, comme notre propre fille ?
+
+['Non', 'Mais', 'EN', '...', '-tu']	Césaire	Mais, poursuivit [MASK], es-tu sûre que tes parents consentiront à me recevoir ? — Certainement ! D’abord maman t’aime beaucoup. Elle te trouve gentil, bien élevé, et te cite toujours comme exemple. — Ah ! — Oui.
+
+[',', 'et', 'il', 'S', 'se']	Césaire	— C’est le début… C’est inévitable ! Peu à peu tu t’y feras, mon enfant, répondit onctueusement la patronne. Si tu veux monter te coucher ? — Je veux bien, madame. » Quelques minutes plus tard, [MASK] se glissait dans ses draps
+
+['il', 'lui', 'Il', 'ne', 'qui']	Césaire	Et [MASK] ne se lassait pas de le respirer, ce bon air, il en emplissait à plaisir ses poumons ; il ne se rassasiait pas de les contempler, ces épaisses frondaisons, il s’imprégnait et s’enivrait de tout ce charme sylvestre et de toute cette sève.
+
+["l'", 'la', 'ce', 'cette', 'tous']	Kiki	Le jeu de ballon était encore un des grands amusements de [MASK]. Vous lanciez le ballon vers lui, et il s’arrangeait de façon à le recevoir, à le ragager, sur son museau, et à le repousser, le relancer dans votre direction.
+
+['choses', 'femmes', 'gens', 'questions', 'lettres']	Martin	; il n’a eu qu’à se perfectionner, et s’est trouvé ainsi avec un état en main. — Si j’avais pu deviner ! s’exclama le comte. Mais ce changement de position… Et puis il y a tant de [MASK] !
+
+[',', "s'", "l'", '...', 'et']	Césaire	, dura jusqu’à onze heures. [MASK] espérait aller s’asseoir alors près de son patron, mais sa patronne intervint de nouveau. « À présent, il faut songer au déjeuner. Sais-tu éplucher les pommes de terre ? Je gage que tu ne sais pas
+
+['mais', ',', 'nes', 'et', 'de']	Césaire	Bien qu’il eût encore le bras en écharpe et les jambes un peu molles, [MASK] se sentait plein de vaillance et en excellentes dispositions. Il allait donc enfin revoir son oncle, se retrouver dans la petite maison qui lui rappelait tant de souvenirs et lui était si chère
+
+['deux', 'les', '-', 'la', 'nous']	Germaine	C’était un excès d’affection qui allait jusqu’à l’égoïsme, je le lui ai dit bien des fois. — Je n’ai jamais oublié vos bontés… Je sais combien vous m’aimiez tous les deux… — Et nous t’aimons toujours, [MASK].
+
+['...', 'ta', 'a', '"', 'de']	Ratata	La maman de solliciter aussitôt le bébé à diriger ses regards vers le musicien et à prêter l’oreille. « Tu vois… le petit garçon ! Écoute… Écoute bien la musique ! Ta ta ta ! Batata ! [MASK] ! Ta ta ta ta ta ta !…
+
+['-', "l'", 'ce', 'le', 'à']	Colombe	cela te donne à réfléchir ! — Il est certain que… c’est bizarre ! Cependant… — Cependant, oui, il a l’air convenable, honnête, trop comme il faut pour… — Non, [MASK] ! Il n’est pas possible que ce soit cet enfant
+
+["c'", 'il', 'qui', 'tu', "C'"]	Cambournac	D’ailleurs, [MASK] est un excellent homme, l’obligeance, l’indulgence et la douceur mêmes, tu t’en apercevras vite. Je le connais bien, j’ai eu tout loisir d’apprécier ses qualités durant les vingt-deux ans que nous avons été ensemble au régiment.
+
+[',', '-', 'le', 'la', 'je']	Antoinette	J’ai tant besoin de me retremper là-bas ! Je ne sais ce que j’éprouve… — Si tu étais chez nous, cela se passerait, affirma [MASK]. Nous te distrairions, maman et moi, nous te consolerions. N’est-ce pas que c’est une bonne idée
+
+['son', 'le', 'en', 'la', 'au']	Césaire	… Au voleur !… Au secours !… » Sous ce choc imprévu, l’homme se cabra, se renversa et roula au bas de la voiture ; mais il eut le temps auparavant de presser la détente de son revolver, et la balle atteignit [MASK] à l’épaule.
+
+['le', 'la', 'les', 'de', "l'"]	Cambournac	– Oui, mais c’est bien délicat, a repris papa. Ne va pas me brouiller avec [MASK] ! – Laisse faire, je saisirai le moment propice et glisserai en douceur à sa compagne ce que j’ai à lui dire, ce que j’ai sur le cœur ;
+
+['Sire', 'titres', 'non', 'certes', 'enfin']	Léocadie	Mais ne vous lamentez pas, ne vous désespérez pas, [MASK], nous les dénicherons, ces titres, M. le juge de paix est bien résolu à déployer tout le zèle possible dans cette enquête, à y mettre toute l’activité et toute la vigueur imaginables, une inlassable opiniâtreté, je vous en réponds !
+
+[',', 'le', 'de', 'à', 'la']	mossieu	Mais celui-ci ne savait rien, « rien de rien », et n’avait remarqué quoi que ce fût d’insolite. Il osa même insinuer que « c’était peut-être bien [MASK] ou madame qui avaient mal fermé leur porte, la veille, en s’en allant…
+
+['</s>', 'Oui', 'Bien', 'Eh', 'Monsieur']	Tiburce	Et elle courut retrouver son mari dans le magasin dévasté. « [MASK] ! — Eh bien ? — Es-tu sûr de ce petit Léveillé ? — Son oncle est la probité et l’honneur en personne… — Je ne te parle pas de son oncle.
+
+['la', '"', 'le', "l'", ',']	Tiburce	– C’était là, du reste, sa locution habituelle, son invariable aveu, lorsqu’il conversait avec sa femme. « Comme toujours, [MASK] ! riposta celle-ci aussitôt, et sans sourciller, le plus sérieusement du monde.
+
+['se', ',', 'en', 'à', 'de']	Césaire	Tout en le présumant, le devinant encore derrière lui, dans l’obscur sillage de la route, [MASK] continuait à s’avancer de son pas le plus rapide, et à faire résonner triomphalement son cuivre. Enfin une faible lueur se montra devant lui, un point rougeâtre
+
+['RE', 'ELLE', 'IL', 'LOU', 'ON']	Césaire	Tu vas être là-dedans comme un prince ! » 7 Autres rencontres sur la grande route. LA PREMIÈRE CHOSE QUE [MASK] aperçut le lendemain en quittant son gîte « princier », ce fut le cadavre du loup, étalé sur une dalle, dans la cour de la ferme.
+
+["c'", 'il', "C'", 'Il', 'tu']	Cambournac	J’y ai bien réfléchi, et j’ai, acquis la conviction que je ne saurais mieux te placer qu’auprès de lui. [MASK] est un de mes vieux camarades, le plus ancien et je puis même dire le seul qui me reste à l’heure qu’il est.
+
+['il', 'le', 'chien', 'je', '-il']	Antoinette	« Qu’il est drôle, ce chien ! Qu’il est drôle ! s’exclamait-il. — Et si vous le voyiez se régaler de noisettes, les casser et en extraire l’amande ! dit [MASK]. — Il mange aussi des noisettes ?
+
+['on', 'On', 'chacune', 'chacun', 'Elle']	Césaire	– Pas malin de faire si vite fortune, avec des rubriques de ce genre ! Certes, non ! » marmonnaient-elles souvent entre elles. [MASK] attendait avec impatience le mois d’octobre pour voir arriver l’oncle Justin et lui dévoiler la critique situation où il se trouvait.
+
+['lui', 'ne', ',', 'se', 'elle']	Paris	— Mon Dieu ! — Il n’a cessé, durant ses derniers moments, de réclamer son petit-neveu, de l’appeler près de lui, avec une insistance… — Oh ! — Il avait écrit à [MASK] pour le prévenir, et il se désolait de ne pas le voir arriver
+
+['il', 'celui-ci', 'Pierre', 'Jean', 'Martin']	Césaire	! Achève ta besogne ! » Resté seul avec ce domestique, [MASK] sollicita de lui la permission d’entrer et de se coucher dans le foin. « Je suis si fatigué et j’ai si froid ! ajouta-t-il.
+
+[',', 'de', "l'", 'la', 'le']	Césaire	[MASK] fut consterné de la minceur du morceau de pain qui lui fut adjugé. Tout jeune qu’il était, et si menue que fût sa taille, il n’était pas assez timide pour ne pas oser redemander du pain ;
+
+[',', 'le', '"', 'S', 'de']	Kiki	Mieux que beaucoup de petites filles, il savait sauter à la corde ; et rien n’était plus comique que de le voir lever simultanément les quatre pattes, et activer ou ralentir ses mouvements, selon qu’on lui criait : « Vinaigre, [MASK] ! Allons, vite
+
+['que', 'cela', '...', 'tout', ',']	Césaire	— Mais aussi, remarqua judicieusement [MASK], vous aviez sans doute bien des moutons d’enlevés et de dévorés ? — Ah ! cela, c’était le revers de la médaille ! — Et vous ne deviez guère oser sortir le soir sans fusil ? — Autre inconvénient !
+
+['Pierre', 'Bernard', 'Jean', 'Paul', 'Jacques']	Paul	Ces cambriolages sont malheureusement fréquents… — Hélas ! surtout lorsqu’on a chez soi des étrangers, des garnements, qui s’amusent à causer dans les rues avec Pierre et avec [MASK], qui se lient avec n’importe qui !
+
+['il', 'elle', 're', 'se', 'Il']	Césaire	» Et [MASK] serra de nouveau son oncle dans ses bras et l’étreignit longuement. « Mais, mon enfant, ce que j’ai fait pour toi, reprit l’oncle Justin après s’être dégagé de cette affectueuse étreinte, quelqu’un l’avait précédemment fait pour moi…
+
+['-', 'Elle', 'elle', "'", 'Oui']	Léocadie	C’était la mère Fauquignon, – [MASK], de son prénom. Il s’entretint avec elle de cette prétendue nièce. « Serait-ce une bru de mon frère Henri ? Il était père de deux garçons, dont l’un est mort sans s’être marié ;
+
+[',', '...', '#', "l'", 'ce']	Kiki	Quand tu lui auras raconté ce que tu y fais et ce que tu endures, lorsque papa et maman lui auront confirmé tes paroles, il sera le premier à te retirer de cette galère, à te placer chez nous… — Quelle joie ! — Jusqu’à [MASK] qui se réjouit d’avance
+
+[',', 'et', 'jeune', '</s>', 'il']	Césaire	[MASK] en avait eu la preuve dès sa première rencontre avec lui. Le décès de son oncle et la question d’hoirie qui en résultait avaient entraîné l’obligation juridique de nommer un tuteur et un subrogé tuteur au jeune orphelin.
+
+['raison', 'tort', 'plus', 'mieux', 'déconseillé']	Antoinette	Mais mon oncle ne veut pas : il dit que ce n’est pas une profession assez stable, suffisamment assurée… Il m’a toujours très vivement dissuadé d’essayer de faire de la musique un gagne-pain… — Il a bien raison ! déclara nettement [MASK].
+
+['le', '.', "l'", 't-il', 'il']	Césaire	— De sorte que vous avez en fin de compte du bénéfice, repartit [MASK]. Les loups que vous tuez vous sont actuellement payés plus cher qu’on ne les payait anciennement, et, comme il y en a moins, vous avez moins de moutons de mangés.
+
+[',', 'il', 'de', 'et', "d'"]	Césaire	[MASK], durant toute la journée et le jour précédent, n’avait fait que penser à cette séparation finale, cet instant terrible, et il avait le cœur bien gros. Il aimait tant son oncle ! C’était son seul parent, l’unique lien qu’il eût sur terre, – tout pour lui.
+
+['le', 'comte', "l'", 'ce', 'celui-ci']	Césaire	Avec le secours du comte et de son domestique, [MASK], qui ne pouvait plus mouvoir son bras gauche et y ressentait une vive douleur, quitta la voiture, et il pénétra bientôt dans un large vestibule à dallage de carreaux de marbre alternativement noirs et blancs, qu’éclairait un artistique lustre de cuivre.
+
+['la', 'tous', 'ce', 'chacun', 'celui-ci']	Césaire	« Un loup ! C’est un loup ! » Cette idée jaillit soudain dans l’esprit de [MASK]. Il s’arrêta brusquement, et l’animal fit de même. Crier, appeler au secours ? Qui l’entendrait, qui accourrait à lui au milieu de ce désert
+
+['on', 'se', 'le', 'il', 'de']	Césaire	La bise redoublait et faisait rage, et des flocons de neige tombaient, de plus en plus épais et serrés. Quoiqu’il eût encore les pieds endoloris par ses longues traites des journées précédentes, [MASK] pressa le pas. Si seulement il pouvait gagner quelque auberge, un abri où se blottir et attendre l’aube
+
+['-', 'de', 'sur', 'et', 'que']	Landry	! On vous disait bien de prendre garde… — Voyons, [MASK], nous causerons plus tard Conduisons cet enfant dans une chambre. — Une chambre du haut ? — C’est cela. Et puis, vite, chez le docteur Geoffrin, que vous ramènerez ! »
+
+['on', 'il', 'elle', 'et', 'celui-ci']	Césaire	; puis il regagna son poste, afin de les examiner à son aise et de se rendre compte des réparations que nécessitait leur état. Durant ce court déplacement, [MASK] remarqua que l’ouvrier était atteint d’une légère claudication.
+

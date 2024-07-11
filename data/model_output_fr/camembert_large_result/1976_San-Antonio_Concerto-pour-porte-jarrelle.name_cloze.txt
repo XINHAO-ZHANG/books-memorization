@@ -1,0 +1,200 @@
+['Paul', 'Pierre', 'lui', 'Jésus', 'Jean']	GaÎtano	Heureusement, je suis déjà sous le pieu. Mais j'ai eu la bonne idée de pousser un cri agonique au moment de la rafale. Elle était si parfaitement réussie, ma complainte funèbre, que [MASK], le bon apôtre, ne doute pas un instant de m'avoir rectifié.
+
+['il', 'on', 'lui', 'Paul', 'Max']	Bérurier	Mais [MASK] s'en tamponne le coquillard. Il est apaisé, serein, et il a oublié qu'il est désormais chibré comme personne d'autre au monde. Un simple levier commande l'ascenseur. Je le mets dans la position inverse à celle où il se trouve.
+
+['Une', 'Un', 'Très', 'Chien', 'Plutôt']	Corniaud	- Ce qui veut dire ? - Q u'il y avait un chien avec lui dans sa bagnole. - Q uelle race ? - [MASK] authentique, une sorte de bestiau gris et blanc. - Sa voiture, quelle marque ? - Une grosse Lancia bleu marine.
+
+['Il', 'Pierre', 'Jean', 'Paul', 'Antoine']	Béru	, hein ? Trois quilles vertes s'alignent brusquement sur notre table. [MASK] se tait, ému. D'une main frémissante il caresse leurs ventres frais. - T'as déjà goûté ça, l'ami ? il me demande. L'ami répond que oui.
+
+['Dieudonné', 'Freud', 'Voltaire', 'Molière', 'Céline']	Stendhal	Le roi mage Dieudonné suractivé ? C'est ben des manies de romancière ! De la marotte de plumaillon truqueur. Tu vas voir ce que tu vas voir, à quel point ce sera sanguignolet ! Même [MASK] se permettrait pas une vanne aussi simpliste.
+
+['Comme', 'Tout', 'Bienvenue', 'Et', 'Pas']	Bouillave	[MASK] dans le biscuit, mec ! Un vrai plaisir d'orfèvre, je te dis. Elle est souple, menue, baise-partout, un délice, que dis-je : un orgue (car elle fonctionne tellement vite que tu la crois pleine de trous).
+
+[':', '</s>NOTUSED', 'Jack', '...', 'Jean']	Durand	J'ai été obligé de le tuer par deux fois ; la première, y m'a raccroché au pif sous prétesque que j'voulais pas y donner mon blaze. Du coup, je lui ai dit m'appeler [MASK]. - Je sais, j'étais présent.
+
+['Lui', '</s>NOTUSED', 'lui', 'Là', 'Mais']	Rèche	Y en a une à deux lits pour mes hommes, une à un seul plumzingue pour moi. A tout seigneur, hein ? Tu sais ce qu'on dit... [MASK], il est trépidant en diable. L'organisateur-né.
+
+['Monsieur', 'monsieur', 'Madame', 'madame', 'non']	San-Antonio	- Je vais faire l'impossible. - Ce n'est pas suffisant, [MASK]. N'importe qui fait l'impossible. Faites seulement votre possible, le vrai, totalement. Je vous récompenserai haut la main, grassement. De l'argent, beaucoup d'argent.
+
+['monsieur', 'Monsieur', 'moi', 'là', 'madame']	Durand	Puis, dans le turiu : - Écoutez , [MASK], je vais vous faire une contre-proposition : vous me le rendez et vous me versez six millions anciens par an, c'est ce qu'il me revient d'entretien, ce maboule. Allez vite vous faire foutre, mon vieux !
+
+['Il', 'On', 'Paul', 'Lui', 'Pierre']	Béru	Par instants, je m'interromps pour prêter l'oreille. Vient-on? Non, pas encore... Alors je repars. [MASK] s'est assis, les jambes écartées pour laisser de la place à sa formidable bistougne. Un pacsif gros commak, ça lui brimbale.
+
+['quoi', 'docteur', 'hein', 'qui', 'là']	San-Antonio	Les secondes sont interminables. D'un moment à l'autre des zigs vont se pointer et nous n'aurons aucune possibilité de fuite. Si : emprunter l'ascenseur, mais ça changerait quoi puisqu'il n'existe aucune issue au niveau inférieur ? - Allô, [MASK] ?
+
+['Gros', 'Jack', 'gros', 'Bernard', 'Gaston']	Popomme	Et voici-voilà, voilà-voici comment les péones du professeur viennent me libérer de mes chaînes. - Tu permets que je réintègre mon futiau avant de te délivrer à ton tour. Gros ? - Faisez, faisez, m'sieur le baron, jubile [MASK] !
+
+['Il', 'On', 'Et', 'Alors', 'Qui']	Blumenstein	- Eh ben, me dit l'industriel, j' crois que vous aviez raison. Ça commence déjà ! Sur ce, la sonnerie de passage à niveau reprend et lui reprend le combiné. [MASK] écoute... Comment ?
+
+['Il', 'On', 'Elle', 'Ca', 'Je']	Probab'	- 'M' dit quèque chose. Je l'ai pas vu, je l'ai pas lu... - Mais vous en avez entendu causer ? - [MASK]ment. - On y fabrique quoi ? - Attendez... Il cherche. Véritablement, il cherche.
+
+['elle', 'là', 'ça', 'hein', 'pourtant']	Angèle	J'ai remarqué. Les nichemards sont révélateurs. Les pas gros, d'une certaine forme et d'une consistance plutôt molle, t'es certain qu'ils appartiennent à une enflammée du friquet. Elle ne dépare pas le cheptel de la clinique, [MASK].
+
+['voix', 'sa', 'son', 'la', 'ton']	Claudette	- Q ui ça ? - Anonyme. Je lui ai demandé son nom, elle m'a pratiquement envoyée aux bains turcs. - Parce que ce quelqu'un c'est une e lle ? - Ouais ! Au ton de [MASK], je pressens qu'elle est belle.
+
+['moi', 'Monsieur', 'Excellence', 'enfin', 'non']	Altesse	- Mais, [MASK], je croyais... Ordinairement... Peut-être préférez-vous du jus de pamplemousse ? - Pourquoi pas du jus de bite, du temps que t'y es, gamin ! Annonce-moi une boutanche de blanc, bien frappée. - Certainement, Excellence.
+
+['«', 'Madame', '78', '...', 'Marie']	Patricia	- Je suis une femme, objecte-t-elle. - Très juste, pardonnez-moi de l'avoir oublié une frac ti on de seconde. - Je peux néanmoins certifier qu'il s'agit d'une « 78 ». - Yvelines ! - Appelez-moi de préférence [MASK].
+
+['Il', 'Je', 'On', 'Qui', 'Ca']	Béru	Après quoi, je vais rejoindre mon cheik au bar où je le trouve en conversation avec un fort monsieur blond à lunettes. [MASK] commence d'enrogner. - Non, môssieur, il beugle, c'est pas moi que j'ai rendez-vous av e c vous pour placer vingt milliards de dollars sur un compte numéro ;
+
+['le', 'un', 'la', 'mon', 'une']	Bé	- Alors ils t'ont coiffé aussi ? demande [MASK] ni . - Avec un certain retard, mais ils m'ont baisé à la surprise. Et toi ? - Moi, j'en ai liquidé un qui me pointait avec un ya sur le ventre.
+
+['le', '-', '</s>NOTUSED', 'Jean', 'un']	Béru	égosille [MASK]. - En ce cas, je vous écoute... Et il se met en batterie, le crayon sur les starting-blocks, prêt à enregistrer nos commandes. Moi, j'aime bien les situations incongrues, pourtant, celle-ci me paraît par trop loufoque.
+
+['écoute', 'Écoute', 'regarde', 'toi', 'là']	Antoine	La croque l'entraîne dans son torrent calorique. Tant qu'y a de la mange, y a de la vie, pour lui. C'est l'organique qui le sauve. Ses viscères lui tiennent lieu de socle. - Écoute , [MASK], mon chéri...
+
+['Elle', 'Marie', 'Jeanne', 'Madame', 'Catherine']	Claudette	Depuis un instant le bruit de la machine à écrire ne retentit plus. [MASK] paraît, l'air pincée. - Q uelqu'un demande à être reçu de toute urgence, annonce-t-elle comme elle te dirait qu'un camionneur beurré vient d'emboutir ta Rolls en manœuvrant
+
+['Hé', 'Ah', 'Oh', 'Ru', 'Eh']	Béru	[MASK] ! Bé ru ! Il est là, le cher vieux chéri. Admirable de présence. Besognant la brune blonde dans ce qu'elle a de plus brun. Elle se tient accoudée au bureau et lit une bande dessinée qui fait partie de la bibliothèque du Mastar.
+
+['Dieu', 'rire', 'vivre', 'mort', 'cœur']	Rèche	- Certainement, Excellence. Vaud, Valais ? - Mets-en une de chaque, qu'j' me rende compte d'ia différence ! - Tout de suite. Monseigneur. Combien de verres ? - Deux, pour pas mélanger. La peine de [MASK] se tarit quelque peu.
+
+['Il', 'On', 'il', 'Dieu', 'Elle']	Bérurier	Trop facile, compère. Se libérer l'estom' ne te libère pas l'esprit d'une découverte de cette taille. [MASK] s'est approché. Il a regardé. Il a vu. Il tousse, comme à l'église, pendant un enterrement d'hiver ;
+
+['Il', 'Elle', 'On', 'Qui', 'Maman']	Claudette	Sa bouche, à certains moments, ressemble à un intestin. Il ne mange pas : il absorbe. La nourriture part dans son alambic puissant, pour des transformations formidables. - Gros ! - Siouplaît ? - [MASK] n'a pas de porte-jarretelles, n'est-ce pas ?
+
+['Ah', 'Elles', 'Toutes', 'Vraiment', 'Normal']	Iridologues	Dans cette boîte, c'est dingue la manière dont la gent féminine est dessalée. A peine que t'arrives, elle te mesure le chibre, en lisant dans ton z' œil. [MASK], ces frangines. Ne pensent, d'emblée, qu'à ton raminagrobis.
+
+['elle', 'là', 'aussi', 'lui', 'alors']	Mémère	La dame d’Égypte (tu parles d'une plaie !) me saute dessus à cheval, tête-bêche. Je découvre un panorama en friche. Pas tentant pour une livre égyptienne. Elle a le Nil marécageux, [MASK].
+
+['derrière', 'nuit', 'par', 'travers', 'dessous']	Feydeau	Il sort, tenant son assiette toute maculée sous son bras, comme un noctambule de [MASK] son chapeau-claque. Moi, tu sais quoi ? Depuis un moment, je ressens une espèce de mal-être. Cela me vient du prof. C'est un personnage incommodant.
+
+['Marie', 'elle', 'Jeanne', 'Maria', 'la']	Charlotte	Ses ronflements partent de là-dessous comme les appels d'une équipe de spéléologues bloqués par les eaux d'infiltration. A son côté, [MASK], la cheftaine, nue également. Elle a des loloches impressionnants comme des potirons.
+
+['il', 'Serge', 'Max', 'Paul', 'elle']	Béru	Encore sa fameuse gonzesse. - Elle était trop jolie pour se compromettre a'v'c des collants, assure [MASK] en roulant serré une tranche de lard pour mieux se l'introduire. Un prose comme t'aimes. La forme des cuisses aussi. Vraiment ton genre.
+
+['Bien', 'Très', 'Mal', 'Toujours', 'Mieux']	Vachetement	- [MASK] organisé, admire Sa Majesté. Le fort courant rotatif soulève sa veste-pagne, ce qui dévoile le mal cruel qui le frappe. Il me semble que son bec verseur a encore augmenté de volume. Je voudrais rester objectif, l'ami.
+
+['hiver', 'homme', '</s>NOTUSED', 'été', 'Adidas']	Adam	Assez impudique. Je déteste les photos d'hommes nus. Le plus beau garçon du monde, le mieux chibré, le plus harmonieux, a l'air ridicule quand il est flashé en costar d'[MASK]. - Ça vous excite ?
+
+['moi', 'nous', 'toi', 'certains', 'lui']	mézigue	Tu vas voir l'a quel point que j'ai l'esprit de décision (qui l'emporte sur l'esprit de sacrifice, chez [MASK]) mais, au travers de la grille, je lui administre un coup de genou particulièrement appuyé dans les roustons (tonton tontaine).
+
+['il', 'elle', 'on', 'Marie', 'Il']	Bérurier	Ce qu' entendant, [MASK] se h â te de la calmer : - F a che-toi pas, poulette, je causais pour dire, il est impeccabe, ton crougnou et j'en ferais mon No ë l tous les matins, espère.
+
+['madame', 'Pierre', 'maman', 'Monsieur', 'Marie']	Félicie	C'est vrai que j'ai faim puisqu'il a nettoyé à lui tout seul la bectance de [MASK], le sagouin. On s'installe à une petite table garnie d'une nappe bonne-femme, sous une applique en bois tourné avec abat-jour de parchemin rouge.
+
+['Il', 'Elle', 'il', 'Et', 'Je']	Béni	Sans pitié. [MASK] l'écrase d'une pression vengeresse contre le rebord de son burlingue. - Vois-tu, soupire-t-il, moi qui te connais comme si je t'aurais fait, je pige pas le mobilier qui te pousse à comporter de la sorte.
+
+['métro', 'voiture', 'secours', 'conduite', 'tête']	Saint-Cloud	- Ah, d' Dieu de bon Dieu, t'as un cracougnoff kif-kif le tunnel de [MASK], la mère ! Comment c'est qu' tu peut-il être espagnole av'c un dargif pareil ! Attends qu' j' m'oriente, ma gosse !
+
+['Franco', 'celui', 'Madrid', 'Sanchez', 'César']	Miguel	- Erreur, mon cher ami, il s'agit d'une initiative de [MASK] qui, constatant qu'il était suivi, a cru bon d'utiliser l'accident de votre collaborateur pour supprimer un témoin qui pouvait être dangereux. Ces Espagnols ont un grand mépris de la femme.
+
+['Pourquoi', 'Quoi', 'Comment', 'quoi', 'pourquoi']	Isabelle	Seulement, elle est au charbon en ce moment... [MASK] ? F ormide, mais elle parle trop. Si encore elle te disait des choses f o uetteuses, hélas, c'est de son vieux père qu'elle t'entretient.
+
+['Il', 'Le', 'On', 'Elle', 'il']	Sanchez	[MASK] choit contre le coffiot de sa chère Mercedes. Ole ! Bérurier ! lâ che le seau, cramponne le chauffeur par son col de limouille, l'arrache de la voiture pour l'obliger à s'incliner à 45 degrés plantigrades et lui file un étonnant coup de genou sous le maxillaire.
+
+['Sartre', 'Brassens', 'Baudelaire', 'Céline', 'Nietzsche']	Coluche	Il est normal : blanc, ajouterait [MASK]. Blanc et antipathique, mais c'est son état naturel. Il ne fanfare pas, ne nous jette pas des grands machins cinglants, façon Ruy Blas, il pourrait, vu que justement on bouffe.
+
+['minute', 'attention', 'minutes', 'hein', 'pitié']	Lisette	Une fois que t'as traité un con de con, tu l'acceptes plus aisément. Te mettre en situation de remords, c'est l'unique solution pour arriver à le supporter. Mais attention, minute, [MASK] : pas y prendre goût, virer sadique.
+
+['lui', 'moi', 'tous', 'toi', 'vous']	Klapusky	demande-je innocemment. - Eh bien, il a des parts importantes dans ma clinique, oui. Cela dit, ça n'est pas un actionnaire emmerdant. - Je croyais que les savants étaient pauvres ? - Beaucoup le sont, en effet, mais pas [MASK].
+
+['mais', 'maman', 'pourquoi', 'je', 'tu']	Antoine	- M'man ! - Mon chéri ? - Pourquoi dis-tu que je ne suis pas rentré depuis plusieurs jours ? Elle s'arrête de retirer ses french fried potatoes du bac crépitant. - Mais, [MASK]... - Hein, pourquoi, ma poule ?
+
+['Catherine', 'la', 'maman', 'Marie', 'Maman']	Félicie	J'ai réclamé à la voir, cette péteuse, mais manque de bol, elle a demandé son aprème pour aller chercher le restant de son matériel. Un qui sursaute, je te prie de croire que c'est le fils vénéré de [MASK]. Catherine !
+
+['mec', 'toi', 'non', 'hein', 'là']	Sana	- Écoute , [MASK], prends pas en mauvaise partie ce que je vais t 'demander, tu te serait-il pas camé avec la gonzesse au tailleur orange de midi ? J' sais que c'est pas ton style, mais p't' être que des fois, juste un peu, manière d'essayer.
+
+['Jack', 'John', 'Jane', 'Alice', 'Tom']	Bérurier	- Et ta sœur , docteur ? objecte [MASK]. J'achève de rabaisser la manette. La porte est lourde, d'une épaisseur de coffre-fort. Pas très vaste. Toute blanche. Au centre, quelque chose qui ressemble à un petit lit, mais sans couverture.
+
+['Mais', 'Eh', 'Ah', 'Dis', 'Alors']	Béru	Pourquoi joue-t-il cette comédie ? - [MASK], de quelle affaire as-tu parlé, il y a un instant ? Il rote à travers dix frites placées dans son clapoir comme des chevaux de frise devant une tranchée de quatorze-dix-huit. - Delafrèche !
+
+['le', 'la', 'les', 'son', 'sa']	David	Il escomptait que les ravisseurs liquideraient [MASK]. Il a agi contre le gré de son épouse et a procuré la photographie qui devait être fatale au clan... - Q uelle photo fatale ? Faudrait lui raconter encore ça, mais comme tu le sais déjà, je m'en abstiens.
+
+['elle', 'on', 'il', 'je', 'ça']	Félicie	On vivait correctement, en s'aimant tendre. Et puis [MASK] perd la boule ! Confusion mentale, voilà l'expression qui m'échappait. Elle fait de la confusion mentale ! Nous sommes frais. J'ai soudain des larmes dans la gorge. Impossible de parler.
+
+['Il', 'Elle', 'On', 'Et', 'Chacun']	Bérurier	- Elle était la femme de ma vie, ma maîtresse depuis seize ans. Je l'adorais... Son chagrin, malgré sa tête de saurien préhistorique, fait peine. [MASK] se mouche bruyamment dans un rideau de tulle jauni.
+
+['vous', 'nous', 'moi', 'toi', 'eux']	Prunier	- Du tonnerre. Gros. - La moule fraîche comme chez [MASK] ? - Une merveille. - Avec de la garniture blonde ? - De l'or. - Et le tout très sexy ? - A ne plus pouvoir se retenir !
+
+['lui', 'ça', 'elle', 'toi', 'moi']	Berthe	Y a là un gonzier, au bar, qui me propose j' sais pas combien de chiées d'hectares aux limites de la ville. Y ni' dis que si je retirerais mon auber de la Caisse d'…pargne, avec [MASK], on pourrait des fois se lancer dans l'immobilier.
+
+['</s>NOTUSED', 'blonde', '...', '«', 'oui']	Patricia	D'un coup de nuque je la bascule sur le pucemard, très bas. A moi, le bonheur. Dieu que c'est bon ! J'ai une grande bouffée : [MASK]. Ma grande bouffée blonde ! Vraiment blonde et délectable. Je m'engage la tête la première.
+
+['Il', '</s>NOTUSED', 'Pierre', 'Louis', 'David']	Bérurier	Je vous jure que si vous y tenez, je vous la laisse. Ne vous gênez pas, n'ayez pas de scrupule : tout est à mon nom à présent. [MASK] revient, l'air mystérieux. Il s'appuie des deux poings sur l'accoudoir de mon fauteuil.
+
+['Il', 'Chacun', 'On', 'Pierre', 'Jean']	Béru	- Go ! Si les chérubins sont toujours à l'affût, nous ne pouvons escompter l'effet de surprise, car, fatalement, ils voient bouger la manette de fer depuis l'extérieur. La voici rabattue. [MASK] cambre ses énormes meules et tire à lui.
+
+['Moi', 'Ah', 'Oh', 'moi', 'Non']	Canigou	que pourquoi je finirais pas l'écuelle à son glouton, du temps qu'elle y est ? [MASK], je préférerais, parole ! D'ailleurs je connais des restaurateurs qui ont assis leurs réputations dessus, en le servant à leurs clilles nappé de crème fraîche et de champignons de Pantruche ;
+
+['Dieu', 'Jésus', 'Lui', '</s>NOTUSED', 'Socrate']	Béru	Le mensonge et ses dérivés nous éloignent de l'existence, infléchissent celle-ci, la relèguent dans des confins inaccessibles. Alors on fait sans elle, tu comprends ? Peu à peu, on se met à vivre sans la vie. [MASK], lui, il vit avec la vie.
+
+['lui', 'un', 'Lui', 'le', 'Paul']	Charly	Un garçon dans ce genre... Pourquoi l'une des nos dépressives, tenaillée par la sexualité (son regard se met pleins phares) n'aurait-elle pas agi dans quelque état second ? Elle jette son dévolu sur [MASK], va le chercher, ce qui est facile.
+
+['là', 'camarade', 'mec', 'hein', 'toi']	Naveton	Surtout te fous pas à meugler à l'escroquerie, [MASK]. Amène un interlocuteur près d'une fenêtre et fixe-le de tout près : tu t'apercevras sur sa rétine, intégralement, ta connerie comprise. L'appareil masque une partie du visage incertain, mais on voit le haut de la figure du photographe.
+
+['lui', 'toi', 'Pierrot', 'ça', 'Raoul']	cézigue	Tu crois que ça lui carbonise le rêve, à [MASK] ? - Le plus duraille, c'sera pour casser le béton de la piste, murmure mon cher camarade, mais tu juges, tout en blé et en patates, ce que ça produirait, bon an malin, une superbe-ficie pareille ?
+
+['Il', 'il', 'et', 'Et', 'qui']	II	- Arrête de dormir debout, hé, vieux cierge rance, et fais ce que je te dis... [MASK] s'émiette les stores pour me prouver qu'il est tout ou ï e. - Je t'écoute, mon cher. - Tu vas prendre congé avant tout le monde.
+
+['la', 'bâton', 'Monsieur', 'Serge', 'Madame']	Félicie	Le mouflet, peu habitué à ce traitement digne des geôles anglaises de jadis, éclate en sanglots. Retour express de [MASK]. - Q u' est-ce que tu as, mon bijou ? Le bijou désigne le Gros en braillant de plus rechef.
+
+['je', 'on', 'elle', 'il', 'ça']	Klapusky	Sur l'une d'elles, il y a écrit en lettres pour Mobilisation Générale : Entrée Interdite. Tu ne doutes pas un instant que c'est celle-là que je choisis, si ? Je m'y dirige. Mais [MASK] hurle : - Non ! N'entrez pas !
+
+['Jean', 'Marie', 'Pierre', 'Michel', 'François']	Béru	- Il ont eu le temps de voir que le père Bistouri est nazebrock, selon toi ? murmure [MASK], sans grande conviction dans le point d'interrogation terminal. - Ils se trouvaient aux premières loges pour admirer l'accident, et peut-être en ont-ils été éclaboussés, eux aussi.
+
+['le', 'un', 'Alain', 'la', 'M']	Mathias	- Positif : ce garçon n'est pas fou. Les clichés sont des agrandissements des yeux. - Surdimensionné, un regard ne trompe pas, affirme [MASK]. Il est certain que votre type jouit de toutes ses facultés. J'irais même plus loin : il est intelligent.
+
+['Darwin', 'Dracula', 'Napoléon', 'Freud', 'Galilée']	Néfertiti	Des bribes, des brimborions. Rien, quoi ou presque... - Il y fait quoi, votre bonhomme dans son laboratoire, merveilleuse descendante de [MASK] ? Elle roucoule en trémoussant le fion. - Oh, comme vous êtes excitant, beau policier. Mon marrri ?
+
+['un', 'le', 'les', 'Jean', 'Pierre']	Béru	J'aperçois vaguement [MASK], assis sur l'une d'elles. Les deux autres sont disponibles. L'un des gars me délie les jambes. L'aubaine ! Au diable l'ankylose. Sans perdre une seconde, je lui propulse mon Charles Jourdan droit dans les castagnes.
+
+['moi', 'hein', 'là', 'bordel', 'quoi']	Hortense	Je tire dessus un bon coup et l'obscurité se fait. J'attends pas, tu penses, [MASK] ! Dans le même temps que la pièce plonge dans le noir, moi je plonge dans la ruelle du lit. Et comme j'ai raison !
+
+['Marie', 'Vénus', 'Venise', 'soie', 'Paris']	Patricia	En émane un parfum agressif qui me flanque mal au cœur. Je considère les hardes sans m'en approcher car elles m'inspirent une vague répugnance. - Tiens, songe-je, il est blanc. Et aussitôt, j'ajoute : comme, je suppose, celui de [MASK].
+
+['il', 'Il', 'on', 'Dieu', 'Pierre']	Béru	L'autre a pris l'extrémité de la potence sur l'épaule et il est tombé à genoux en gémissant. Impitoyable, féroce, souverain dans sa fureur, [MASK] élève sa potence à la verticale et l'abat bien droit, comme une barre à mine.
+
+['hein', 'non', 'toi', 'là', 'alors']	Dunoeud	!. Comme j'use volontiers de l'expression si j'ose m'exprimer ainsi, en attendant de trouver mieux, dorénavant j'écrirai simplement, histoire de gagner du temps et de la place « s j'o m'e a » ; tu te rappelleras, [MASK] ?
+
+['On', 'Il', 'Elle', 'Je', 'Ca']	Bérurier	Je marche, mains aux poches, mélancolique tout plein, avec ce sentiment étrange d'occuper ma peau en squatter. [MASK] parle choucroute. Moi je ne parle pas. Ne l'entends qu'à peine, à travers des épaisseurs de brumaille.
+
+['Monsieur', 'Mais', 'Oh', 'vous', 'oh']	San-Antonio	- Oh ! [MASK], mon ami, mon grand ami, vous qui êtes un génie policier, vous venez de le prouver une fois de plus, de gr‚ce, je vous en supplie : retrouvez-moi mon second pensionnaire. «a réduirait l'impact du scandale.
+
+['non', 'hein', 'ça', 'là', 'alors']	Sana	Tiens, les poils de son frifri. Blonds comme ses crins, ou noirs ? Ou rouquinos ? T'as oublié son visage, mais t'as pas pu oublier son dargif, tel que j' te connais ! Voyons, une chagatte, [MASK] ? De première qualité.
+
+['son', 'ses', 'tous', 'témoins', 'deux']	Catherine	La cage est vide, porte béante. Affolée, elle bat le parc, aidée de [MASK]. Rien ! Le fils Blumenstein a disparu à son tour. Alerte générale ! On dépêche les trois quarts et demi du personnel tout azimut, mais personne ne peut rapporter la moindre indication.
+
+['il', 'elle', 'on', 'Il', 'bébé']	Antoine	Depuis qu'[MASK] a grandi, ça sent toujours les frites à la maison. On se croirait à la Foire du Trône. Ce petit bougre de bougre raffole des frites à m'man. Faut dire qu'elle les réussit comme pas deux, ma vieille.
+
+['celui', 'lui', 'celle', 'un', 'ce']	Rèche	Il se met à causer médecine avec notre hôte. Des trucs compliqués que tu ne peux pas piger si t'as pas au moins le prix Nobel de médecine. D'ailleurs, [MASK] qui n'a pas le prix Nobel de médecine, n'y entrave que pouic, manifestement.
+
+['celle', 'celui', 'lui', 'toi', 'papa']	Pinuche	Et puis le restant ? La vieille liquidée dans le vestibule. Et [MASK] qu'a eu un accident. Et les parents au fils Patemouille que t'es allé rendre visite ? Putain de Dieu, c'est pas possible qu'y n' te reste rien de tout ça !
+
+['Marie', 'Jean', 'Paul', 'Pierre', 'Jacques']	Pinuche	Il est à demi défenestré dans son compartiment et agite ses ailerons frénétiquement. Derrière lui, on perçoit la tache pâle d'un visage ; celui de [MASK], surmontée d'une tache encore plus pâle : celle de son pansement. On joue de l'épaule pour se frayer passage.
+
+['tout', 'ça', 'moi', 'quoi', 'manger']	Médor	Je reviens à mes moutons. A mon chaton, le gros minou de la mère Bouffemi qu'elle voudrait m'en laisser les restes après [MASK], l'horreur. que pourquoi je finirais pas l'écuelle à son glouton, du temps qu'elle y est ?
+
+['Il', 'Elle', 'On', 'Paul', 'Pierre']	Béru	Le volant se bloque, l'appareillage se paralyse, le silence revient. [MASK] s'enrogne : - Mais qu'est-ce tu maquilles, putain de Dieu ? T'es là devant ces harnais de souris comme un vieux découillé qui n'peut plus que convoquer des souvenirs.
+
+['monsieur', 'Monsieur', 'messieurs', 'vous', 'là']	Sana	II se résigne à attendre. Pour meubler le temps il redécarre dans ses marasmes. - Franchement, [MASK], reconnaissez que pied-noir, de nos jours, c'est pas une sinécure. Tout, on aura tout eu. Moi, du moins ;
+
+['bruit', 'nouvelles', 'lumière', 'trace', 'doute']	Béru	Plus de [MASK]. O seigneur ! Je cavale à l'endroit où mon adorable compagnon s'était planqué. Une masse sombre gît sous les branches traînantes d'un saule inconsolable. Pas une grosse ombre que, Dieu qui n'est pas à vendre, soit loué !
+
+['toilettes', 'archives', 'chambres', 'bureaux', 'femmes']	chichemanes	et maintenant si on s'en irait, gars ? T'as pas envie d'un grand noir avec des croissants chauds, técolle ? Au fond du couloir, à gauche, y a la porte des [MASK]. A droite est celle qui permet d'accéder au hall de l'ambassade.
+
+['Il', 'Elle', 'Lui', 'Je', 'On']	Blumenstein	écrie-t-elle, j'ai pourtant le droit de savoir, il s'agit de mon fils. [MASK] répond qu'il sodomise ce fils, qu'il le défèque, et l'emmerde, toutes choses procédant d'une volonté nettement axée sur l'excrémentiel, et revêtant un certain aspect pléonasmique.
+
+['je', 'vous', 'ça', '...', 'voilà']	Klapusky	Maintenant que [MASK]... J'ai un énorme scandale à remonter, moi, mon pauvre commissaire. Tant qu'on aura pas retrouvé le fils Blumenstein... Au fait, rien de nouveau à son sujet ? - Un peu, si. - Dites vite, vieux
+
+['ici', '!', 'maintenant', 'aussi', 'enfant']	Santonio	Avant qu'il claque aux vents des épopées, les étendards de la révolte commencent par germer à l'ombre des cœurs meurtris. Une naissance, c'est tout petit, et ça passe inaperçu. Seulement elle se transforme en présence, la naissance. Alors je réponds présent, moi, [MASK].
+
+['jour', 'peu', 'instant', 'matin', 'moment']	moudela	- Allez-y... Je perçois le bruit de sa déglutition. Tu noteras qu'un [MASK], toujours, quand il est préoccupé, il éprouve le besoin d'avaler sa salive, comme si le produit de ses sécrétions glandulaires contribuait à la recharge de sa cervelle !
+
+['Rachel', 'Sarah', 'Marie', 'juive', 'Juif']	Blumenstein	Elle se fait confectionner de faux papiers, au nom de [MASK]. Pendant la guerre les juifs prenaient des identités aryennes, elle, elle opte pour une identité sémite, parce que cela lui semble être le refuge, le comble de la volupté pour cette hacheuse de juifs...
+
+['la', 'le', 'les', 'moi', 'lui']	Mathusalem	Un type attend, en bas, revolver au poing. Il est ganté. Il est très p â le. Je l'arrose. Il échoue aussi sec au concours de longévité organisé par [MASK]. Se répand. Alors il y a un bruit de fuite dehors.
+
+['non', 'hein', 'là', 'toi', 'dis']	Lavedu	Et je biche. Pas à cause de la biche, mais de l'impasse. Tu suis la trajectoire de mon esprit, [MASK] ? Une tomobile qui débouche d'une impasse, arrive fatalement d'une maison située dans ladite impasse, non ?
+
+['monsieur', 'Monsieur', 'madame', 'moi', 'là']	Pautouflet	- Je crains que ça ne soit pas possible, cher monsieur. Il se trouve en état d'arrestation et il est gardé à vue par un de mes hommes en attendant son incarcération. - …coutez, [MASK], nous travaillons pour la même maison, pratiquement.
+
+['Marie', 'Françoise', 'Monique', 'Myriam', 'Maria']	Loia	Elle s'appelle [MASK], ce qui est vachement joli, tu trouves pas ? Moi si. Aimable, potelée, accueillante, elle cause comme dans un spectacle pied-noir o ù qu'on fait exprès d'en rajouter. Présentations. Elle sert l'anisette.
+
+['je', 'ça', 'cela', 'tu', 'tout']	Klapusky	Ce coup d'úil. Les tulipes bataves ? Tiens, smock, c'est de l'Amsterdamer ! Mais on s'écarte du sujet, alors que je ferais mieux d'écarter cette saloperie de porte que [MASK] m'empêche de fermer.
+
+['il', 'on', 'pour', 'un', 'une']	saint	Il est essoufflé, mon compère. Un côté tranche-montagne l'ennoblit. Il tient sa potence comme [MASK] Christophe son b â ton, s'y appuyant noblement, comme un homme ayant accompli sa t â che. L'extrémité de la barre coudée ruisselle de sang.
+
+['il', 'lui', 'elle', 'Pierre', 'monsieur']	Klapusky	Mais [MASK] n'a pas besoin de cette caution. Mon regard lui suffit. C'est un psychologue. Il sait à qui il a affaire et les salades sont superflues. Moi, à me bigler, il se convainc de ma valeur, si tu me permets.
+

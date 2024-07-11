@@ -1,0 +1,200 @@
+['moi', 'toi', 'lui', 'ça', 'elle']	Alex	On voit que c’est une meuf qui aime le sexe. Et la coke – ce qui ne gâte rien. Il préfère parler d’autre chose : — T’as vu, pour [MASK] ? Quelle connerie, il était jeune quand même… — Ouais.
+
+['Arthur', 'Adam', 'Eric', 'Art', 'Andy']	Alex	Il ouvre sa page Facebook, y poste un morceau des Cramps, un live en hôpital psychiatrique, archive au charme imparable, de nature à éveiller le plus de sympathies possibles. Les déclarations autour de la mort d’[MASK] ont fleuri dans la nuit.
+
+['lui', 'eux', 'elle', 'moi', 'nous']	JP	Il faut qu’il se trouve une petite. Ça fait combien de temps qu’il est célibataire – plus de six mois ? C’est pas ce soir qu’il risque de rencontrer quelqu’un, il n’y a jamais de meuf chez [MASK].
+
+['Il', 'Michael', 'Sam', 'Mark', 'Jack']	Nicolas	[MASK] avait été un petit garçon turbulent, pas très heureux à l’école, mais sportif, et doué dans tout ce qu’il entreprenait. Il était curieux et ouvert. Elle en était arrivée à la conclusion que c’était chimique – sa chimie à lui ne pouvait résister à l’héroïne.
+
+['Il', 'Elle', 'Je', 'On', 'il']	Vernon	[MASK] lui disait : « viens on va discuter de tout ça autour d’un café, elle c’est juste une meuf qui m’héberge, je ne vois pas pourquoi elle serait témoin de nos discussions, viens avec moi.
+
+['Elle', 'Il', 'Alice', 'On', 'Ceci']	Aïcha	C’est le passé révolu, quelque chose qu’on ne pourra plus changer fiché plein milieu d’elle à partir de maintenant plus rien ne sera jamais comme avant. [MASK] est une chambre dans laquelle on aurait vidé tout le contenu des placards sur le sol – saccagée.
+
+['Il', 'Elle', 'Jack', 'David', 'Paul']	Vernon	Puis il retourne se coucher, la chienne grimpe sur le sofa et s’endort en ronflant, en deux secondes. [MASK] a pour habitude d’exercer un contrôle assez solide sur ses pensées. L’âme est un navire imposant, qu’il faut manœuvrer avec prudence.
+
+['</s>NOTUSED', '»', '«', '–', '...']	Pensum	Et encore plus à l’étranger. [MASK]. Il ne lui fait pas remarquer que les innombrables avantages de la féminité, quand ils lui servent à avancer, ne la révoltent guère. Elle n’a pas ouvert la carte, il aimerait commander rapidement – en finir au plus vite.
+
+['internet', 'Internet', 'Facebook', 'facebook', 'Google']	Internet	L’éditeur est marrant. Il ne regarde pas la télé, il ne va pas sur [MASK]. Il l’a briefée, sur les droits numériques, « vous ne voulez pas céder les droits numériques aux mêmes conditions que les droits papier ?
+
+['il', 'on', 'elle', 'Il', 'lui']	Kiko	Clavicules saillantes, il a envie de lui casser un os. Neurones frits. L’idée le traverse d’enjamber la balustrade de la terrasse et sauter. Juste pour mettre un froid. Ce matin en se levant, [MASK] s’était dit ce soir je fais tranquille.
+
+['Elle', 'Il', 'Anna', 'Emma', 'Kate']	Pamela	Il a toujours été maniaque. Mais quand il prend son temps de la sorte, elle sait que c’est pour éviter de lui répondre sincèrement. [MASK] cherche le livre qu’elle doit écrire depuis des années. Toutes les stars du X qui comptent ont publié au moins un livre.
+
+['toi', 'ça', 'sexe', 'moi', 'mariage']	Subutex	�: — T’as bien dansé, hier. — Ouais, vite fait quoi… j’étais naze, j’aurais mieux fait d’aller me coucher. — Prends-moi pour une jeune vierge, bébé… surtout ne me parle pas de [MASK].
+
+['Il', 'Renaud', 'Lui', 'Johnny', 'Gainsbourg']	Alexandre	[MASK] avait été touché par le succès comme on est percuté par un camion : il ne donnait pas trop l’impression d’en être sorti indemne. Son problème n’avait pas été la grosse tête, plutôt un désespoir violent, qui avait fatigué ses proches.
+
+['encore', 'enfin', 'Anna', 'Clara', 'Elena']	Marcia	Et il réalisait, à presque cinquante ans, qu’il n’avait jamais été amoureux avant. Aimer [MASK] était une évidence à laquelle il s’abandonnait sans la moindre retenue. Alors que sa vie s’était transformée en zone sinistrée, il se sentait plus favorisé que jamais.
+
+['Madame', 'madame', 'elle', 'Mademoiselle', 'maman']	Pamela	ça brouille les pistes. Monsieur pétarade en ville et pendant ce temps [MASK] va à la Poste à l’ouverture, quand il n’y a personne, fait ses courses sur Internet et regarde les films en streaming, chez elle…
+
+['Elle', 'Il', 'Jeanne', 'Maman', 'Marie']	Aïcha	[MASK] lui a dit qu’elle savait. L’autre s’est tue, un court moment, puis elle a rallumé la veilleuse : — T’es chiante, gosse. Tu crois pas que t’aurais mieux fait de voir ça avec ton père ?
+
+['Je', 'Il', 'Ca', 'Cela', 'Elle']	Alzheimer	— Qu’est-ce que je t’ai promis ? — Deux cents euros. — On n’avait pas parlé d’argent, meuf. — [MASK] te ronge. Tu m’as proposé le double, mais je t’ai fait un prix d’amie.
+
+['il', 'on', 'Paul', 'lui', 'Daniel']	Vernon	» On chargeait le corps évanoui sur une civière, [MASK] a demandé à le suivre et il n’a pas été entendu. C’était sans hostilité. Maintenant qu’il passait ses journées assis devant le supermarché, il était moins réel qu’avant.
+
+['Il', 'Thomas', 'Antoine', 'Paul', 'Simon']	Laurent	[MASK] ne voyait aucun problème à tenir une conversation seul. Le ton sur lequel il parlait de ses dix-neuf ans de galère ne laissait aucune place au doute : c’était un motif de fierté. Il avait en stock des dizaines d’anecdotes à raconter.
+
+['il', 'Johnny', 'Renaud', 'Brassens', 'Gainsbourg']	Alexandre	Quand [MASK] sortait un disque ou commençait une tournée, impossible de l’ignorer. Pas une heure de la journée sans le voir exhibé, gigoter quelque part, débiter quelques inepties de sa belle voix grave de toxico crooner.
+
+['Paul', 'Joseph', 'Georges', 'Maurice', 'Pierre']	Nicolas	On avait enterré [MASK] et le jeune homme souffrant s’était estompé de la mémoire de sa mère. Elle retrouvait le tout petit garçon. Si bagarreur qu’elle était familière de tous les directeurs et directrices de toutes les écoles où il avait été inscrit.
+
+['Elle', 'On', 'Marie', 'Anna', 'Il']	Pamela	Il s’agissait – juste – de se transformer en mec. [MASK] s’était renseignée, d’habitude quand les gens font ça c’est que ça les travaille depuis un moment – genre « j’ai toujours senti que j’étais un mec, enfermé dans un corps de femme ».
+
+['Teresa', 'Maria', 'Gloria', 'Marie', 'Diana']	Marcia	Une Brésilienne trans pauvre, c’était Nation, direct, quasi obligatoire. Le parcours n’était pas fléché, mais presque. Les filles que [MASK] rencontrait, quand elle leur disait « non moi je suis pas venue ici pour tapiner », la regardaient avec pitié.
+
+['Il', 'Lui', 'Paul', 'David', 'Elle']	Nicolas	[MASK] ne voulait pas mourir. Il appelait à l’aide et voulait s’en sortir. Puis le 13 décembre, la police à sa porte. Ils n’ont pas appelé. Ils sont venus. Elle a ouvert la porte et elle a su.
+
+['lui', 'elle', 'eux', 'les', 'tous']	Xavier	Il aimait bien la bière, mais il ne prenait pas de drogue dure. Elle aimait son influence sur [MASK], les éclats de voix excitées, chahuts, disputes et rires entre jeunes garçons qui s’amusaient dans sa chambre, tandis qu’ils écoutaient des disques, inlassablement.
+
+['place', 'lui', 'terre', 'le', 'Internet']	Internet	Depuis ses vingt ans, son premier réflexe du matin avait toujours été de l’allumer. Mais à présent, ça l’angoissait sans l’intéresser. Il avait perdu l’habitude d’écouter les infos. Pour la télé, ça s’était fait tout seul. Il avait trop à faire sur [MASK].
+
+['Jack', 'Paul', 'Max', 'David', 'Simon']	Lydia	Quand il pense à écrire à [MASK] pour lui expliquer qu’il n’a pas retrouvé son appartement, le souvenir de la scène de l’après-midi lui remonte direct à la gorge, et il sent que son sang se glace. Le son est excellent, ce type est un génie.
+
+['Lui', 'Mais', 'Sarkozy', 'Non', 'Macron']	Loïc	[MASK], on ne sait jamais ce qu’il pense, sérieusement. Sur les sujets importants, il esquive, c’est systématique. Il faut qu’il montre qu’il est le plus malin, qu’on ne la lui fait pas.
+
+['elle', 'il', 'on', 'Alice', 'personne']	Lydia	Il a quasiment fallu les sortir de la cantine en les tirant de là par les cheveux – elles allaient aux chiottes se faire vomir entre deux plateaux. Boulimie. Jamais [MASK] n’avait pensé à rapprocher ce qu’elle faisait dans l’intimité et ce mot. Boulimique.
+
+['il', 'Il', 'Alex', 'Antoine', 'David']	Sélim	Il se sentait à l’aise dans cet univers composé exclusivement de filles, et il était, à l’époque, suffisamment drôle et exubérant pour se faire accepter, en retour. Quelques mois après le départ de sa copine, chez son loueur vidéo, [MASK] était tombé sur la jaquette d’un film de boules.
+
+['Tom', 'Michael', 'John', 'Edward', 'James']	Sélim	Elle était brusque, mais si légère qu’elle ressemblait à un moineau enfermé dans une cuisine. Tout son charme, c’était cette énergie. On peut difficilement imaginer un garçon plus cool que l’était [MASK], mais c’était quand même un garçon : il n’était pas très fin.
+
+['Non', 'Lui', 'Ben', 'Johnny', 'Oui']	Bleach	[MASK], non. On pensait que c’était pas le plus doué, que c’était injuste qu’il remporte la mise. Ça le discréditait d’être aimé de tout le monde, il passait dans la variété. Ça donnait envie d’écouter autre chose.
+
+['premier', 'dernier', 'vérité', '...', '?']	Aïcha	Pourquoi sa mère n’est pas venue se réfugier auprès de son père, quand elle s’est sentie en danger ? Est-ce que sa propre famille lui répugnait à ce point ? Son père l’aurait sauvée. Pourquoi n’a-t-elle pas su se protéger ? Qui parle en [MASK]
+
+['Il', 'Elle', 'Lui', 'Personne', 'On']	Sophie	Mais ils n’avaient pas su le protéger de lui-même. [MASK] n’avait jamais compris comment ça avait pu commencer, par quel interstice ce malheur avait pu s’inviter chez eux. Ils avaient cette jolie vie de famille, aucun problème d’argent, ni de santé.
+
+['Il', 'Elle', 'On', 'Et', 'Lui']	Xavier	C’était terrible de la savoir condamnée, elle avait confiance en lui, et il ne pouvait rien faire pour la soigner. Le vétérinaire a emmené son corps dans un sac-poubelle. [MASK] a demandé à récupérer les cendres.
+
+['il', 'elle', 'on', 'je', 'Il']	Vernon	C’est ma gâche là-bas. C’est davantage un ordre qu’une proposition et [MASK] s’exécute, incapable d’envisager une discussion conflictuelle avec elle. — Je ne t’ai jamais vu dans le coin, tu viens d’arriver, pas vrai ?
+
+['Marie', 'Madame', 'Monsieur', 'Catherine', 'madame']	Xavier	Je suis la maman de [MASK]. Vous vous souvenez ? Je repassais vos chemises à jabot quand vous dormiez à la maison. Elle n’aurait pas dû s’arrêter. La tristesse qui écarte sa poitrine est plus insupportable que toute la colère qu’elle a pu amasser.
+
+['son', 'la', 'sa', 'Johnny', 'quoi']	Jean-No	Comme s’ils se connaissaient à peine et qu’elle était pénible à le harceler de coups de fil à la mort de [MASK]. Il peut crever dehors la gueule ouverte, aujourd’hui, en ce qui la concerne, c’est réglé, elle ne veut plus entendre parler de lui.
+
+['»', '»...', '»,', '«', '».']	Satana	Elles doivent se connaître. Peut-être qu’elles ne sont pas amies. Deux splendeurs de ce calibre, ça doit compliquer les liens amicaux. Il n’y a qu’un numéro un, au sommet. Mais c’est ça, il prononce le nom « Vodka [MASK] ?
+
+['Elle', 'Il', 'Anna', 'Marie', 'Lui']	Sophie	Elle est choquée à chaque nouvelle ride qui marque son visage. Ils n’ont plus grand-chose à se dire. Ces déjeuners du dimanche sont une corvée pour tout le monde. [MASK] digère mal le déjeuner chinois. Elle invente un rendez-vous chez le dentiste, pour partir plus tôt.
+
+['eux', 'moi', 'lui', 'ça', 'nous']	Xavier	Des mecs comme [MASK] lui doivent beaucoup, il leur a fait découvrir tellement de choses. Et il fait partie de ces rares personnes qu’on quitte de meilleure humeur que quand on les a rencontrées. Ils ont en commun une série de souvenirs précieux, dont ils deviennent progressivement les derniers détenteurs.
+
+['il', 'on', 'chacun', 'un', 'papa']	Vernon	Les gens qui conçoivent les chiottes ne boivent pas assez, ils n’ont pas en tête les situations quotidiennes importantes. La veille, [MASK] est arrivé avec une bouteille de rhum, ils ont bu sans penser au lendemain et maintenant tous ses organes se révoltent de ce qu’on leur a imposé.
+
+['elle', 'on', 'il', 'On', 'Obama']	Alex	C’est étrange, après coup, se rendre compte qu’[MASK] a tant cherché à le soutenir, et que lui ne l’a jamais pris comme quelque chose de bienveillant, mais plutôt comme une façon d’affirmer sa puissance. La journaliste est insistante.
+
+['elle', 'et', 'mais', 'on', 'qui']	Vernon	Son truc à elle, c’est la moto, les Hells Angels, tout ce qui implique qu’on se tache les mains au cambouis. Elle était encore une gamine quand elle s’est pointée au magasin, [MASK] n’avait jamais entendu l’expression « butch ».
+
+['Internet', 'internet', 'Google', 'google', 'Wikipédia']	Google	Elle avait récupéré une cinquantaine de pseudos – pour être crédibles, il faut que les messages soient signés par des internautes inscrits depuis longtemps sur un serveur, et qui ont des Facebook, un compte Twitter. Qui paraissent exister, si on se donne la peine de les chercher sur [MASK].
+
+['Claire', 'Marie', 'Sarah', 'David', 'Laura']	Sylvie	Ses gestes étaient sensuels, se déroulant au ralenti. Il avait découvert qu’elle avait une petite panthère tatouée, à l’encre noire, entre le nombril et le pubis. Les peaux s’étaient synchronisées, dans le noir la voix de [MASK] était devenue plus rauque.
+
+['Il', 'On', 'Et', 'Mais', 'Lui']	Vernon	L’ancien mauvais garçon devenu grand bavard ressemble à un enfant qui moulinerait du sabre dans l’espoir de dissuader les mauvaises idées de l’approcher. Il en a lourd sur le cœur, et il parle comme on court. [MASK] ne voit aucune objection à être un récepteur passif.
+
+['papa', 'Paul', 'maman', 'Michel', 'John']	Jean-No	Il pensait aux enfants de [MASK], et ça ne collait pas. Orphelins de père. Le mot ne cadrait pas avec ce qu’il connaissait de ces trois machins débiles qui réclamaient sans cesse de l’attention, des gâteaux ou de nouveaux jeux.
+
+['Paris', 'Satan', 'Dieu', 'Rome', 'ça']	Patrice	Mais à [MASK], on ne la fait pas. Tous les mecs qui venaient là étaient des menteurs. Ils disaient ce qu’on attendait d’eux. C’était souvent des beaux parleurs. Le diable est bon danseur, sinon personne ne le suivrait sur la piste.
+
+['Il', 'Elle', 'Jack', 'David', 'On']	Colette	[MASK] se laisse faire, dix secondes, immobile, puis montre les dents et fait reculer le rott de trois mètres en aboyant comme s’il s’agissait d’un vulgaire caniche. L’énorme chien garde une distance respectueuse, puis revient à la charge, l’air enthousiaste.
+
+['Il', 'Elle', 'On', 'Lui', 'Je']	Loïc	Quand ils ne parlent pas de cul, ils parlent de foot, ça n’attire pas trop les coquines. De toute façon, en ce moment, il n’a pas de chance, chaque fois qu’une fille lui tourne autour, elle est gentille, mais pas mettable. [MASK] cherche sa complicité sans arrêt.
+
+['Il', 'il', 'Edward', 'William', 'Alex']	Poutine	[MASK] est d’autant plus sexy que c’est un gros fils de pute plein de pouvoir, mais en vrai même sans ça il serait quand même sexy. À moitié nu sur un cheval, il en jette. Les cuisses serrées sur la monture.
+
+['chéri', 'Antoine', 'alors', 'merci', 'bisous']	DJ	Il lui plaît. Elle le frôle, en partant, elle dit « à demain, [MASK]. Tu sais qu’ici personne n’ira se coucher, tu peux remonter dans ta chambre quand tu veux. Ils n’entendent plus. » Il lui sourit, sans répondre.
+
+['mais', 'promis', 'toi', 'alors', 'demain']	Vernon	Moi je t’écrirai, [MASK], on reste en contact, hein ? » Il avait demandé aux passants qu’on lui indique la bibliothèque la plus proche, personne ne savait lui répondre, jusqu’à ce qu’un adolescent compatissant jette un œil sur son iPhone pour l’orienter.
+
+['Emma', 'Alice', 'Claire', 'Eva', 'Kate']	Elsa	Ni de montrer à [MASK] à quel point il était écœuré. Il aurait voulu la prendre à part et lui dire ce qu’il avait sur le cœur – à quel point elle lui plaisait, qu’il pensait à elle même quand ils restaient six mois sans se voir…
+
+['Sophie', 'Claire', 'Marie', 'Sarah', 'Louise']	Marcia	Ce n’est que le lendemain, en plein jour, que la beauté de [MASK] l’avait frappé. Elle tenait une tasse de thé entre ses paumes, le visage tourné vers la lumière, assise en face de la baie vitrée, les yeux clos.
+
+['Laurent', '—', 'Oui', 'Moi', 'Bonjour']	Vernon	Ça fait pas longtemps que t’es à la rue ? Ça se voit tout de suite. — C’est momentané. — Ça l’est toujours. Moi ça fait dix-neuf ans que c’est momentané. Je m’appelle Laurent, et toi ? — [MASK]. —
+
+['Il', 'Lui', 'Pierre', 'Paul', 'François']	Xavier	Tant que le frère était vivant, elle priait sans arrêt, la ferveur et l’espoir la tendaient tout entière. [MASK] est resté croyant. Il emmène sa fille à la messe le dimanche, la foi est ce que son père lui aura légué de plus précieux.
+
+['On', 'Il', 'Elle', 'Je', 'Sophie']	Vernon	Au contraire, elle incarnait la féminité dans ce qu’elle a de plus troublant. Elle était allée se coucher, et n’était pas réapparue jusqu’au soir. [MASK] l’avait entraperçue, dans l’entrée, prête à sortir, elle était d’une élégance stupéfiante.
+
+['qui', 'il', 'lui', 'on', 'elle']	Patrice	Au moment de l’ouverture des portes deux autres gamins, du même âge, mais baraqués, étaient entrés dans la rame et s’étaient pointés directement sur lui, pour lui taxer sa thune et lui coller une correction. Deux grosses masses contre un tout petit, [MASK] n’avait pas cherché à comprendre.
+
+['Il', 'Elle', 'Léo', 'Sam', 'Jack']	Vernon	[MASK] les regarde disparaître et les trouve quand même chiés de ne pas lui proposer de les suivre, l’un dans l’autre il se sentirait plus en sécurité encadré par les fafs qu’avec la « dingue ». À bout de souffle, la géante se laisse tomber à ses côtés.
+
+['elle', 'EDF', 'Renault', 'lui', 'Bouygues']	Numéricable	Sans lui, elle n’aurait pas osé réclamer des sommes pareilles. Il est passé lui en mettre un coup la veille du rendez-vous. Il n’y connaît rien, il bosse chez [MASK] comme technicien. Elle l’adore. Dans son top ten intime des amants, il est facile
+
+['Il', 'Elle', 'Sam', 'Léo', 'Alex']	Patrice	Ça ne va pas être facile pour lui non plus, le retour au réel. [MASK] remplit une bouteille d’eau, ça lui cogne dans les tempes comme si de violents travaux de démolition lui attaquaient le cortex du fond.
+
+['David', 'Joseph', 'Paul', 'Dieu', 'Pierre']	Patrice	Le gamin ne pleurait pas, il se refermait comme une huître pendant plusieurs jours. Rien n’avait mieux fait comprendre à [MASK] ce qu’il était que son fils terrorisé, aplati, les mains sur les oreilles pour ne rien entendre.
+
+['il', 'lui', 'elle', 'on', 'Pierre']	Vernon	Un ancien pote, devenu bouquiniste sur les quais, lui avait dit passe quand tu veux je te laisserai les clefs de chez moi, j’y suis très peu. Mais il n’était pas sur les quais quand [MASK] était arrivé, ses caisses étaient fermées, lestées de gros verrous.
+
+['Il', 'Elle', 'On', 'il', 'Lui']	Kiko	– [MASK] était effondré de rire. Est-ce que tu crois qu’on a le temps de faire l’inspection du trou de son propre cul en se demandant si c’est bien. Qui est le plus fort. Le plus rapide. C’est la seule question.
+
+['Il', 'Elle', 'Lui', 'il', 'Et']	Daniel	Il mange comme un porc et ne prend pas un gramme de graisse. Elle ne peut pas se passer de lui, ils sont tout le temps fourrés ensemble, mais il l’exaspère. Il le sait. [MASK] est devenu trans.
+
+['lui', 'Pierre', 'Paul', 'Monsieur', 'monsieur']	Vernon	Il a oublié que [MASK] dormait sur le clic-clac, pour un peu il allait aux gogues cul nu et bijouterie à l’air. Face à la cuvette, il marque une brève hésitation, quelle est la priorité – vomi ou diarrhée ? Il faut choisir.
+
+['Il', 'Elle', 'On', 'il', 'Lui']	Vernon	[MASK] lui ment, elle le voit à l’état de ses chaussures, à l’odeur quand on s’approche, au gros sac sous le banc, à l’expression hagarde dont il ne peut se départir entièrement, même en faisant un effort pour la rassurer.
+
+['Elle', 'Anna', 'Alice', 'Sarah', 'Claire']	Aïcha	Il avait haussé un sourcil, franchement surpris de l’incongruité de la question, mais n’avait pas eu le temps de répondre. [MASK] était arrivée dans le salon, l’air maussade, elle n’avait pas dit bonjour et avait demandé « tu crois qu’on pourrait se commander des pizzas ce soir ?
+
+['Il', 'Elle', 'Chacun', 'On', 'Lui']	Lydia	Sous la table leurs jambes se pressent et se frottent lentement, chaque millimètre de peaux en contact déclare qu’ils vont s’envoyer sauvagement en l’air. Le compte à rebours est éprouvant. [MASK] n’avait jamais eu aussi précisément conscience de son genou, qui cherche celui de l’autre.
+
+['elle', 'Maria', 'une', 'la', 'Anna']	Fabrizio	Elle a appris comme ça. La coiffure. Au départ, elle faisait les couleurs, dans la salle de bains. C’était facile. Elle sous-louait une chambre chez [MASK], qui était quand même la seule folle se réclamant de la mafia qu’elle ait jamais rencontrée.
+
+['aussi', 'là', 'toi', 'soir', 'alors']	Tyson	Tu veux t’en prendre une, Mike [MASK] ? » Elle hausse les sourcils et claque des doigts pour signifier qu’elles se remettent en route. « Speede, y a des keufs partout. » « T’as peur qu’on te demande tes papiers ? » «
+
+['Il', 'Antoine', 'Thomas', 'Paul', 'David']	Vernon	[MASK] se contente d’avancer, sans se poser de questions. Il dépasse le cinéma aux lumières éteintes, peu de voitures circulent à cette heure-ci, il traverse la place Gambetta sans marquer de pause au bord des trottoirs, il ne détesterait pas sentir le choc violent de la tôle lui brisant quelques os.
+
+['il', 'elle', 'lui', 'et', 'qui']	Gaëlle	on a juste couché ensemble et je crois qu’elle s’est emballée », [MASK] avait répondu « t’en fais pas je peux pas la saquer, elle fait tout le temps chier, tout le monde. Comment tu vas, le vétéran ? »
+
+['elle', 'et', 'qui', 'ça', 'il']	Patrice	Ils ont fait le deuxième – ils se sont obstinés à croire qu’en faisant revenir autant d’amour et de joie dans la maison, la rage reculerait, par pudeur. Mais la colère est une pute qui n’a pas froid aux yeux, [MASK] n’a pas arrêté son cirque.
+
+['Il', 'il', 'Elle', 'On', '—']	Vernon	Il portait une bière à la main et une longue canadienne, propre et en bon état. Les chaussures, en revanche, avaient fait leur temps et auraient dû être remplacées depuis longtemps. — T’es dans la galère ? [MASK] a voulu répondre, il était incapable d’articuler un mot.
+
+['<unk>', 'Alice', 'Anna', 'Alex', 'Oscar']	Alex	Pourtant, être la petite amie d’[MASK] ne présentait pas que des avantages. Il y avait les aspects amusants – passer devant tout le monde dans les files, voir les visages se transformer, partout où ils arrivaient, n’avoir qu’à prononcer son nom pour que les meilleures chambres se libèrent…
+
+['Il', 'Lui', 'David', 'Steve', 'Paul']	Kiko	Son job c’est la vitesse. Les gens qui ne sont pas de la partie ne comprennent pas. Ils pensent qu’il étudie des entreprises. [MASK] est un sprinter. Il réagit au centième de seconde, il marche au rythme des machines. Black holes.
+
+['Et', 'Elle', '</s>NOTUSED', 'Maintenant', 'Mais']	Émilie	Elle lui a fourré deux billets de vingt euros dans la main, sur le trottoir, en évitant son regard et elle a rejoint sa station de métro presque en courant. [MASK], ce qu’elle est devenue, c’est le truc le plus triste qu’il ait jamais connu.
+
+['Elle', 'Claire', 'Marie', 'Catherine', 'Isabelle']	Audrey	Haletant. [MASK] est convaincue d’avoir écrit une comédie. Elle ne s’imagine pas tourner à moins de trois millions de budget. Ben voyons ! Une quinquagénaire en goguette, qui ne supporte pas que son père se remarie. Gros sujet de comédie.
+
+['lui', 'Paul', 'John', 'Tom', 'Peter']	Cécile	Il y a ceux qui sont tellement sales que manger ou boire dans leurs verres procure un haut-le-cœur qu’il faut masquer. Il croyait que [MASK] changerait d’avis, il n’était pas pressé de prendre un appartement. C’était déjà arrivé, une fois, et ils avaient perdu un argent démentiel.
+
+['Lui', 'Celui', 'Ce', 'Et', 'Mais']	Cécile	Quand il le serait, il chercherait une carabine et mettrait une balle dans la nuque de l’enculé qui lui avait fait vivre cet enfer-là. Mais il ne pouvait pas empêcher que ça recommence. [MASK] qui blaguait avec le gros lourd de serveur.
+
+['moi', 'toi', 'lui', 'nous', 'le']	bibi	T’as ton samedi, tu peux traîner avec des potes, faire l’amour à ta copine, te faire un ciné, ou juste glander devant la télé avec une bonne bière fraîche et non. Tu vas chez H&M. Et le crétin qui range derrière toi, c’est [MASK].
+
+['Elle', 'Emma', 'Claire', 'Alice', 'Sophie']	Émilie	[MASK] est devenue balistique sur la propreté. Avant, elle s’en foutait royalement. Aujourd’hui, elle pourrait égorger pour quelques miettes sous une table, ou des traces de calcaire sur un robinet. Il y a une contrepartie – elle éprouve un plaisir indicible quand tout est ordonné et propre.
+
+['Tom', 'Julien', 'Thomas', 'chacun', 'Pierre']	Elsa	Qui voudrait être à la place de ce pitre ? Il ne pouvait se retenir de revenir sur cette discussion imaginaire, pendant laquelle il expliquait à [MASK] à quel point réaliser un premier long-métrage qui récolte trois articles élogieux, c’est du bidon.
+
+['Il', 'Elle', 'On', 'Pierre', 'Je']	Vernon	Il sent poindre, en face de lui, un agacement inquiet – les hommes craignent qu’il réagisse violemment. Ils ont l’habitude du pathos et des cris. [MASK] demande un quart d’heure, l’huissier soupire – mais il est soulagé : le client n’est pas un forcené.
+
+['lui', 'Hollande', 'Johnny', 'Mitterrand', 'Sarkozy']	Johnny	Il dit : — La dernière meuf avec qui j’étais était brésilienne, elle me parlait de [MASK], elle disait que quand on n’est pas français on ne peut pas comprendre l’effet qu’il nous fait. — Il faut avoir grandi avec pour s’attacher.
+
+['Il', 'Elle', 'il', 'Tout', 'Lui']	Vernon	Elle n’a pas fait attention à lui, mais maintenant qu’elle le regarde, à son tour elle lui trouve quelque chose. Il a de très belles mains. [MASK] est calme. Il est mûr. Ses rides d’expression sont celles de quelqu’un qui a beaucoup ri.
+
+['Il', 'Mike', 'Chris', 'Paul', 'David']	Vernon	[MASK] a toujours été un gars discret, qui ne faisait de problème à personne et rendait volontiers service. Pas une flèche, comme souvent les gars dans le rock, un petit pois lui sert de cerveau, mais ce n’est pas le genre à te planter un couteau dans le dos.
+
+['Il', 'Elle', 'Thomas', 'David', 'Paul']	Aïcha	[MASK] avait traîné sa mauvaise humeur quelques minutes dans le salon, avant de retourner s’enfermer dans sa chambre, « j’ai du boulot ». — Elle fait des études ? — Droit fiscal. — Elle travaille bien ? — De ce côté-là, rien à dire.
+
+['Il', 'Tout', 'Cela', 'Noël', 'Ca']	Vernon	Ni aussi démunie, en partant. [MASK] est tombé à pic. Tant de souvenirs reviennent, depuis qu’il est chez elle. Quand elle venait au magasin, il lui ouvrait le bureau, à l’arrière, pour qu’elle puisse rouler un joint discrètement.
+
+['Nestlé', 'Colette', 'Cartier', 'Chanel', 'Mars']	Marcolini	Elle passe devant chez [MASK], un groupe de Russes filment les chocolats. Au Printemps, les bus de touristes déversent des Chinois par grappes. Elle ne flâne plus dans les rayons luxe des grands magasins. Chez Lafayette Gourmet, elle achète une énorme boîte de pâtisseries Sadaharu
+
+['amour', 'elle', 'Antoine', 'amitié', 'Alice']	Alex	Il lui avait parlé d’[MASK]. Il s’était surpris à mettre de côté tout cynisme, et à s’entendre raconter en guise de préambule : « Les dernières fois qu’on s’est croisés, ça crevait les yeux qu’il appelait à l’aide et j’ai fait le mec qui n’entendait pas.
+
+['Il', 'il', 'Elle', 'David', 'Paul']	Sélim	[MASK] s’était penché en avant, l’avait fixée droit dans les yeux et avait marqué une pause. Il lui faisait un plan acteur de vieux film noir. — Je t’ai demandé si c’était pour parler de ça que tu étais venue me voir. —
+
+['Il', 'David', 'Paul', 'Daniel', 'Pierre']	Patrice	[MASK] met la radio et allume son ordinateur. C’est ce qu’il fait tous les matins. Il sait que ça le rend fou. Dans les années 80, quand il a commencé à acheter la presse et écouter la radio, c’était différent.
+
+['Julien', 'Thomas', 'Pierre', 'Paul', 'Vincent']	Vernon	On l’a retrouvé, mort, dans une chambre d’hôtel. Qui va payer ses loyers en retard ? C’est la première question que [MASK] se pose. Les mails et textos qu’il a envoyés ces dernières semaines sont restés sans réponse. Ses appels à l’aide.
+
+['elle', 'lui', 'eux', 'moi', 'elles']	Lydia	Et, très vite, il s’était aperçu que tout ce qu’elle voulait, c’était qu’il rentre avec elle. Après une scène pareille. Il avait joué le mec qui hésite, puis lui avait proposé qu’elle rentre l’attendre. Il devait passer chez [MASK], s’excuser et prendre ses affaires.
+
+['!', '?', '!!!', '!!', '<unk>']	Satana	Je n’allais pas l’écouter, en plus, quand il n’était pas là. — Et je pourrais récupérer ça ? — Mais pourquoi vous me cassez les couilles avec ça ? Et là, ça l’interrompt. Une évidence : Vodka [MASK]. Bien sûr.
+
+['Alice', 'Emma', 'Isabelle', 'Elsa', 'Hélène']	Alex	En cherchant à comprendre où brancher son iPod sur l’ampli, il met en marche la radio. La voix d’[MASK] remplit la pièce. « … et si je dors entre tes bras c’est qu’une autre que toi n’a pas voulu de moi. »
+

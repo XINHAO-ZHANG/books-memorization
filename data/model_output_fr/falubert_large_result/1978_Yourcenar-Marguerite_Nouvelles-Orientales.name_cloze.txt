@@ -1,0 +1,200 @@
+['il', 'papa', 'maman', 'Jean', 'celui-ci']	Marko	— Les uns m’appellent comme ci, et les autres comme ça, dit le petit vieux. C’est sans importance. « — Je ne connais pas non plus ta tête, dit [MASK]. C’est peut-être parce que tu as l’air comme tout le monde.
+
+['</s>', 'de', ',', 'un', "d'"]	Chujo	? [MASK], que j’aurais voulu rencontrer plus tôt dans ma vie, mais il est juste aussi qu’un fruit soit réservé pour l’arrière-automne… Grisé de tristesse, il laissa retomber sa tête sur son dur oreiller.
+
+['"', ',', 'ça', 'Je', 'je']	Marko	Ça ne regarde que moi cette fois-ci. « Mais il s’essoufflait. Tout à coup, il trébucha et tomba comme une masse. Je te jure que le vieux n’avait pas bougé. « — C’est une mauvaise chute, [MASK], dit-il.
+
+['elle', ',', "qu'", 'il', 'on']	Aphrodissia	[MASK] l’entendait, mais de ces paroles déchiquetées par le vent elle ne comprenait que la nécessité d’échapper au village, au mensonge, à la lourde hypocrisie, au long châtiment d’être un jour une vieille femme qui n’est plus aimée.
+
+['elle', 'il', 'et', 'celle-ci', 'chacune']	Genghi	Pas une fois il n’avait levé les yeux vers elle, et à ce signe elle reconnut qu’il était complètement aveugle. Quand elle se fut étendue sur le matelas de feuilles sèches, [MASK] vint reprendre son poste mélancolique sur le seuil de la cabane.
+
+['hommes', 'homme', 'eau', 'habitants', 'enfants']	Aphrodissia	La terre était sèche et dure, et la sueur d’[MASK] coulait plus abondante que n’avaient été ses larmes. De temps à autre, la pelle sonnait sur une pierre, mais ce bruit dans ce lieu désert n’alerterait personne, et le village tout entier dormait après avoir mangé.
+
+['tous', 'chacun', 'Paris', 'France', 'Napoléon']	Wang	Depuis longtemps, le fer rouge destiné aux yeux de [MASK] s’était éteint sur le brasier du bourreau. Dans l’eau jusqu’aux épaules, les courtisans, immobilisés par l’étiquette, se soulevaient sur la pointe des pieds. L’eau atteignit enfin au niveau du cœur impérial.
+
+['marbre', 'son', 'pierre', 'larmes', 'sa']	Kâli	un chapelet d’ossements s’enroule autour de son cou mince, et, dans sa figure plus claire que le reste de son corps, ses vastes yeux sont purs et tristes. Le visage de [MASK], éternellement mouillé de larmes, est pâle et couvert de rosée comme la face inquiète du matin.
+
+['Monsieur', 'messieurs', 'monsieur', 'Messieurs', 'Madame']	Philip	Croyez-moi, [MASK], ce dont nous manquons, c’est de réalités. La soie est artificielle, les nourritures détestablement synthétiques ressemblent à ces doubles d’aliments dont on gave les momies, et les femmes stérilisées contre le malheur et la vieillesse ont cessé d’exister.
+
+['il', 'elle', 'Il', 'et', 'on']	Kâli	Ses lèvres maculées de sang exhalaient une fade odeur de boucherie, mais ses embrassements consolaient ses victimes, et la chaleur de sa poitrine faisait oublier tous les maux. À l’orée d’une forêt, [MASK] fit la rencontre du Sage.
+
+['son', 'sa', 'ses', "l'", 'solidement']	Marko	Enfin, la veuve noua solidement son écharpe à la longue ceinture souple d’un Albanais ; un habile pêcheur de thons réussit à emprisonner [MASK] dans ce lasso de soie, et le nageur à demi étranglé dut se laisser traîner sur la plage.
+
+['le', 'la', 'ce', 'lui', 'un']	Marko	ses bras abandonnés pendaient ; et l’épaisseur de sa poitrine empêchait qu’on entendît son cœur. Les notables du village se penchèrent sur [MASK], dont leurs longues barbes chatouillaient le visage, puis, relevant tous la tête, ils s’écrièrent d’une seule et même voix :
+
+[',', 'de', 'le', 'un', "l'"]	Antigone	Ce n’est plus que dans les légendes des pays à demi barbares qu’on rencontre encore ces créatures riches de lait et de larmes dont on serait fier d’être l’enfant… Où ai-je entendu parler d’un poète qui ne pouvait aimer aucune femme parce qu’il avait dans une autre vie rencontré [MASK]
+
+["d'", 'de', 'lui', 'à', 'Roi']	Genghi	Ne se faisant d’illusions ni sur sa beauté, ni sur son esprit, ni sur sa naissance, la Dame, seule parmi tant de maîtresses, gardait à [MASK] une douce reconnaissance, car elle ne trouvait pas tout naturel qu’il l’eût aimée.
+
+['le', 'cela', 'ainsi', 'la', 'plus']	Ling	Dans l’eau jusqu’aux épaules, les courtisans, immobilisés par l’étiquette, se soulevaient sur la pointe des pieds. L’eau atteignit enfin au niveau du cœur impérial. Le silence était si profond qu’on eût entendu tomber des larmes. C’était bien [MASK].
+
+['</s>', 'On', 'ne', 'Il', 'on']	Marko	On sait en ville qu’on distribue les restes à qui en veut, et les restes des restes vont aux chiens. La plupart des gens apportent un pot, petit ou grand, ou une écuelle, ou tout au moins une corbeille. [MASK] les connaissait presque tous.
+
+['Elle', 'Celle-ci', 'âme', 'Et', 'Ainsi']	Kâli	; les diamants du matin scintillaient dans son regard, et l’univers se contractait ou se dilatait selon les battements de son cœur. Mais [MASK], parfaite comme une fleur, ignorait sa perfection, et, pure comme le jour, elle ne connaissait pas sa pureté.
+
+['celui-ci', 'Robert', 'Jean', 'Pierre', 'Guillaume']	Ling	Après les noces, les parents de [MASK] poussèrent la discrétion jusqu’à mourir, et leur fils resta seul dans sa maison peinte de cinabre, en compagnie de sa jeune femme, qui souriait sans cesse, et d’un prunier qui chaque printemps donnait des fleurs roses.
+
+['il', 'on', 'Il', 'chacun', 'On']	Ling	À l’aube, des pas lourds retentirent dans les corridors de l’auberge ; on entendit les chuchotements effrayés de l’hôte, et des commandements criés en langue barbare. [MASK] frémit, se souvenant qu’il avait volé la veille un gâteau de riz pour le repas du maître.
+
+['il', 'Il', 'et', 'elle', 'Elle']	Wang	[MASK] commença par teinter de rose le bout de l’aile d’un nuage posé sur une montagne. Puis il ajouta à la surface de la mer de petites rides qui ne faisaient que rendre plus profond le sentiment de sa sérénité.
+
+['pierre', 'mort', 'femme', 'mouton', 'veau']	Kostis	Elle s’assit toute haletante et se releva presque aussitôt, car elle avait pris goût à sa besogne d’ensevelisseuse. La tête de [MASK] était encore là-haut, exposée aux insultes, piquée sur une fourche à l’endroit où le village cède la place aux rochers et au ciel.
+
+['tout', "l'", 'le', 'ce', 'qui']	Wang	sa tête penchait de côté, comme s’il s’efforçait de mesurer la distance qui séparait sa main de sa tasse. L’alcool de riz déliait la langue de cet artisan taciturne, et [MASK] ce soir-là parlait comme si le silence était un mur, et les mots des couleurs destinées à le couvrir.
+
+['vous', 'celui-ci', 'celle-ci', 'le', 'la']	Ling	Le plafond de jade se reflétait sur l’eau, de sorte que [MASK] paraissait naviguer à l’intérieur d’une grotte. Les tresses des courtisans submergés ondulaient à la surface comme des serpents, et la tête pâle de l’Empereur flottait comme un lotus.
+
+['qui', 'chèvre', ',', 'elle', 'en']	Marko	[MASK] venait de boire ; sa patience était restée au fond de la cruche : il lui saisit les cheveux entre ses mains poissées de sauce et hurla : « — Chienne du diable, as-tu la prétention de me faire manger de la vieille chèvre centenaire ? «
+
+['tête', 'lumière', 'loin', 'bronze', 'France']	Wang	La pulsation des rames s’affaiblit, puis cessa, oblitérée par la distance. L’Empereur, penché en avant, la main sur les yeux, regardait s’éloigner la barque de [MASK] qui n’était déjà plus qu’une tache imperceptible dans la pâleur du crépuscule.
+
+['famille', 'tribu', 'clan', 'village', 'corps']	Kâli	Ils le prirent, posèrent le chef de [MASK] sur ces épaules et ranimèrent la déesse. Ce corps était celui d’une prostituée, mise à mort pour avoir essayé de troubler les méditations d’un jeune Brahmane. Privé de sang, ce pâle cadavre paraissait pur.
+
+['le', "l'", 'un', 'chacun', 'Monseigneur']	Genghi	Les pluies tendres du printemps tombaient du ciel sur la terre molle, noyant les dernières lueurs du crépuscule : c’était l’heure où [MASK], enveloppé de sa stricte robe de moine, se promenait lentement le long du sentier d’où ses vieux serviteurs avaient soigneusement écarté le moindre caillou, pour l’empêcher de buter.
+
+[',', 'en', 'dans', ';', '...']	Kâli	Les dieux jaloux guettèrent [MASK] un soir d’éclipse, dans un cône d’ombre, au coin d’une planète complice. Elle fut décapitée par la foudre. Au lieu de sang, un flot de lumière jaillit de sa nuque tranchée.
+
+['elle', 'on', 'chacun', 'il', 'tout']	Haisché	Les hommes se dirigèrent vers la petite mosquée rude et barbare ; les jeunes filles fatiguées s’égrenèrent vers la ville sur leurs babouches traînantes ; [MASK] s’en alla en tournant souvent la tête en arrière ; seule, la veuve méfiante resta pour surveiller le faux cadavre.
+
+['on', "l'", "j'", 'il', ',']	Ling	[MASK] aima cette femme au cœur limpide comme on aime un miroir qui ne se ternirait pas, un talisman qui protégerait toujours. Il fréquentait les maisons de thé pour obéir à la mode et favorisait modérément les acrobates et les danseuses.
+
+['le', 'un', 'vol', "l'", 'vol']	Marko	elle était comme le chevreuil qui bondit, comme le faucon qui vole. [MASK], immobile, se laissait effleurer par ces pieds nus, mais son cœur agité battait d’une façon de plus en plus violente et désordonnée, si fort qu’il craignait que tous les spectateurs ne finissent par l’entendre
+
+['vieux', 'se', 'lui', 'le', 'il']	Ling	Le vieux s’enveloppa dans des loques, et [MASK] se coucha contre lui pour le réchauffer, car le printemps venait à peine de naître, et le sol de terre battue était encore gelé. À l’aube, des pas lourds retentirent dans les corridors de l’auberge ;
+
+[',', 'et', 'elle', 'il', 'terre']	Aphrodissia	[MASK] referma le couvercle, entassa à nouveau la terre sur la tombe, recouvrit le monticule fraîchement remué à l’aide des couronnes achetées jadis à Athènes aux frais des paroissiens, égalisa la poussière du sentier où elle avait traîné son mort.
+
+['elle', 'il', 'on', 'femme', 'reine']	Aphrodissia	L’air brûlait comme un fer porté au blanc, et [MASK] ramena son châle sur son front, car il ne s’agissait pas de tomber foudroyée avant d’avoir terminé sa tâche. Le sentier débouchait enfin sur une esplanade blanche et ronde.
+
+['laquelle', 'ce', "l'", 'son', '</s>']	Marko	La fin de [MASK], récit que, depuis des années, je me proposais d’écrire, n’a été composé qu’en 1978. Le conte a pour point de départ un fragment de ballade serbe évoquant la mort du héros aux mains d’un mystérieux, banal, et allégorique passant.
+
+['vieillards', 'femmes', 'vieillard', 'corps', 'ceux-ci']	Kâli	Elle devint la séductrice des enfants, l’incitatrice des vieillards, la maîtresse despotique des jeunes hommes, et les femmes de la ville, négligées par leurs époux et se considérant comme des veuves, comparaient le corps de [MASK] aux flammes du bûcher.
+
+['chasse', 'route', 'combat', 'jeu', 'lutte']	Kostis	Enfin, il y avait eu l’assassinat du maire par un des compagnons de [MASK], et les maigres mains de l’homme aimé serrées de plus en plus hargneusement sur son vieux fusil de chasse, et ces trois jours et ces trois nuits où le soleil semblait se lever et se coucher dans le sang.
+
+['je', 'tu', "j'", "c'", "t'"]	Marko	Un peu plus de la chaleur et du soleil bas d’une après-midi finissante envahirent la boutique sombre. Son camarade Andrev entra comme chez soi et croisa les jambes sur un bout de tapis. — Tu sais que [MASK] était mort ? J’étais là, fit-il.
+
+['il', 'homme', 'ce', 'celui-ci', 'Il']	Kostis	Elle souleva le loquet et sortit sur l’étroit terre-plein qui la séparait du cimetière. Les corps entassés gisaient contre le mur de pierres sèches, mais [MASK] n’était pas difficile à reconnaître ; il était le plus grand, et elle l’avait aimé.
+
+['il', "c'", 'papa', 'tu', 'Papa']	Marko	Maintenant qu’on savait que [MASK] était mort, on s’était tous tournés vers l’entrée, pour voir le vieux qui s’en allait. Dehors, la route, comme tu sais, s’allonge tout droit entre deux collines, tantôt montant, puis descendant, puis montant encore.
+
+['famille', ',', 'Pierre', 'Bernard', 'Noël']	Panégyotis	; ceux qui ont eu la hardiesse de les approcher deviennent muets pour la vie, car il ne faut pas que soient révélés au vulgaire les secrets de leur amour. Or, un matin de juillet, deux des moutons du père de [MASK] se mirent à tourner.
+
+['monsieur', 'Jean', 'Monsieur', 'Robert', 'celui-ci']	Marko	« Mais la méchante veuve se mit à pleurer, puis à rire : « — Il faut plus d’une tempête pour noyer [MASK], dit-elle, et plus d’un nœud pour l’étrangler. Tel que vous le voyez, il n’est pas mort.
+
+['leurs', 'la', 'leur', "l'", 'eux-mêmes']	Kossovo	Et il y a toujours à table beaucoup de gens ; les vieux éclopés, d’abord, ceux qui n’en finissent pas de parler des bons coups qu’ils ont donnés à [MASK]. Mais d’eux, il en vient moins chaque année, et même chaque saison.
+
+['une', 'la', 'on', 'chaque', "l'"]	Aphrodissia	Contournant le village, elle prit pour monter au sommet le raidillon le moins fréquenté. De maigres chiens somnolaient dans l’ombre étroite des seuils ; [MASK] leur lançait un coup de pied en passant, dépensant sur eux la rancune qu’elle ne pouvait assouvir sur leurs maîtres.
+
+[',', 'en', 'plus', 'je', 'ici']	Ukifune	Quand leurs caresses eurent pris fin, la Dame s’agenouilla devant le prince et lui dit : — Je t’ai trompé, Prince. Je suis bien [MASK], la fille du fermier So-Hei, mais je ne me suis pas égarée dans la montagne ;
+
+['elle', 'il', 'on', "s'", 'ils']	Vania	Le lendemain, elle ne chantait plus, et ce fut d’une voix faible qu’elle demanda comment [MASK] avait passé la nuit. Le jour qui suivit, elle se tut, mais elle respirait encore, car ses seins habités par son haleine montaient et redescendaient imperceptiblement dans leur cage.
+
+[',', 'Il', 'il', 'de', 'É']	Kâli	Déjà, il n’était plus séparé de la déesse que par la longueur de son ombre. [MASK] ralentit son pas et laissa l’homme approcher. Quand il l’eut quittée, elle reprit son chemin vers une ville inconnue. Un enfant lui demanda l’aumône ;
+
+['cela', 'on', 'il', 'ça', 'personne']	Marko	Mais on aurait dit un petit vieux de pierre. On plutôt, non ; il n’avait pas l’air plus solide qu’un autre ; ses pieds en savates pendouillaient devant lui, mais on n’aurait pas dit que [MASK] l’avait touché.
+
+['les', 'table', 'tout', 'soi', 'tous']	Marko	— Ce n’est pas aujourd’hui jour férié, dit le vieux, en caressant le bec de cuivre. — Non, mais on mange toujours bien chez [MASK], même les jours ouvrables, et même les jours maigres. Et il y a toujours à table beaucoup de gens
+
+['il', 'on', 'elle', 'celui-ci', 'souvent']	Genghi	Elle avait déjà déployé les mêmes charmes dans son pavillon de cinquième concubine où [MASK] la visitait autrefois, mais, distrait par d’autres amours, il ne s’en était pas aperçu. À la fin de l’automne, les fièvres montèrent des marécages.
+
+['lui', 'plusieurs', 'certains', 'lui-même', 'beaucoup']	Genghi	La vie dans cette solitude s’avéra plus simple et plus rude encore qu’elle ne l’avait été au cours du long exil à l’étranger subi par [MASK] durant sa jeunesse orageuse, et cet homme raffiné put enfin goûter tout son saoul au luxe suprême qui consiste à se passer de tout.
+
+['il', 'on', ',', 'le', 'se']	Marko	Pendant deux heures, [MASK] nagea sans parvenir à avancer d’une brassée ; ses ennemis le visaient à la tête, mais le vent déviait leurs dards ; il disparaissait, puis reparaissait sous la même meule verte. Enfin, la veuve noua solidement son écharpe à la longue ceinture souple d’un Albanais
+
+["l'", 'cet', 'ce', 'cette', 'celui-ci']	Panégyotis	Un sourire timide se dessina sur les lèvres de [MASK], qui avait entendu prononcer son nom. Il ne semblait pas comprendre le sens des paroles de cet homme important en qui il reconnaissait vaguement un protecteur, mais le ton, et non les mots eux-mêmes, l’atteignait.
+
+['il', 'on', 'lui-même', 'lui', 'celui-ci']	Marko	Mais le corps du supplicié demeura inerte : aucun frémissement n’agitait ce visage qui semblait insensible, et le sang même ne suintait de sa chair ouverte que par gouttes lentes et rares, car [MASK] commandait à ses artères comme il commandait à son cœur.
+
+['il', 'elle', 'on', 'lui', 'Jean']	Genghi	? Et toute la journée, il resta sombre. La Dame comprit alors qu’elle venait de se tromper pour la seconde fois, mais [MASK] ne parlait pas de la renvoyer, et il semblait heureux d’écouter le frôlement de sa robe de soie dans l’herbe.
+
+['une', 'la', 'vous', 'je', 'Marie']	Ukifune	— Je suis [MASK], la fille du fermier So-Hei, dit la Dame en n’oubliant pas d’adopter l’accent du village. Je suis allée à la ville avec ma mère, pour acheter des étoffes et des marmites, car on me marie à la prochaine lune.
+
+['il', 'Il', 'et', '.Il', '</s>']	Genghi	À la fin de l’automne, les fièvres montèrent des marécages. Les insectes pullulaient dans l’air infecté, et chaque respiration était comme une gorgée d’eau bue à une source empoisonnée. [MASK] tomba malade et se coucha sur son lit de feuilles mortes en comprenant qu’il ne se relèverait plus.
+
+['famille', 'ne', 'al', 'question', 'en']	Aphrodissia	Ils n’imaginaient pas que le deuil d’[MASK] pût avoir d’autre objet que ce vieux pope caché depuis six ans dans le coin le plus honorable du cimetière : elle n’avait pu leur crier qu’elle se souciait de la vie de ce pompeux ivrogne comme du banc de bois des lieux au fond du jardin.
+
+['lui', 'César', 'Clovis', 'Roland', 'roi']	Kostis	Plus haut encore, il n’y avait que les aigles et le ciel, dont les aigles seuls savent les pistes. Les cinq têtes de [MASK] et de ses compagnons faisaient sur leurs fourches les différentes grimaces que peuvent faire des morts.
+
+['Jeanne', 'Jean', 'Pierre', 'celui-ci', 'chacun']	Kostis	; elles examineraient la verrue que [MASK] portait entre les deux épaules. Des hommes à coups de pied retourneraient le cadavre pour imbiber d’essence le peu de vêtements qu’on lui avait laissé ; on déboucherait les bidons avec la grosse joie de vendangeurs débondant un fût.
+
+[',', 'et', 'il', 'Il', 'qui']	Genghi	[MASK] la remercia d’un sourire. Depuis que ses yeux se taisaient, on eût dit que son regard bougeait sur ses lèvres. — Je vais mourir, fit-il péniblement. Je ne me plains pas d’un sort que je partage avec les fleurs, avec les insectes, avec les astres.
+
+['de', "d'", 'que', 'même', ',']	Panégyotis	Mais j’envie [MASK]. Il est sorti du monde des faits pour entrer dans celui des illusions, et il m’arrive de penser que l’illusion est peut-être la forme que prennent aux yeux du vulgaire les plus secrètes réalités.
+
+['tout', 'se', "s'", 'de', "l'"]	Genghi	Elles chuchotaient à haute voix que [MASK] était encore très beau, ce qui prouva une fois de plus au prince qu’il était grand temps de partir. On mit trois jours à atteindre l’ermitage situé en pleine sauvagerie champêtre. La maisonnette s’élevait au pied d’un érable centenaire
+
+['bien', ',', 'de', 'tous', 'jour']	Genghi	La Dame décrivait à [MASK] ces bruns gris, ces bruns dorés, ces bruns mauves, en ayant soin de n’y faire allusion que par hasard, et chaque fois elle évitait de paraître trop ostensiblement lui porter secours.
+
+['chacun', 'tous', 'chacune', 'elle', 'Sophie']	Aphrodissia	Aujourd’hui, cette même solitude allait permettre à [MASK] de réaliser un projet digne de sa vie de stratagèmes et d’imprudences, et, poussant la barrière de bois éclatée par le soleil, elle s’empara de la pelle et de la pioche du fossoyeur.
+
+['gorge', 'leur', 'dents', 'leurs', 'la']	Marko	ils se ruèrent sur la plage en hurlant de dépit et de terreur. Ils reçu-laient malgré eux, chaque fois qu’une vague plus féroce éclatait à leurs pieds ; et les accès du vent leur semblaient le rire de [MASK], et l’insolente écume son crachat sur leur visage.
+
+['de', ',', 'le', 'la', 'on']	Ling	Depuis que [MASK] lui préférait les portraits que Wang-Fô faisait d’elle, son visage se flétrissait, comme la fleur en butte au vent chaud ou aux pluies d’été. Un matin, on la trouva pendue aux branches du prunier rose : les bouts de l’écharpe qui l’étranglait flottaient mêlés à sa chevelure
+
+["l'", 'la', 'celle-ci', 'bois', 'et']	Genghi	Pour cette occasion, elle loua des porteurs et une chaise imposante, mais à laquelle manquaient les derniers perfectionnements de la ville. Elle s’arrangea pour n’arriver aux environs de la cabane de [MASK] qu’à la nuit close. L’été l’avait devancée dans la montagne.
+
+[',', 'il', 'et', 'on', 'elle']	Ling	[MASK] mendiait la nourriture, veillait sur le sommeil du maître et profitait de ses extases pour lui masser les pieds. Au point du jour, quand le vieux dormait encore, il partait à la chasse de paysages timides dissimulés derrière des bouquets de roseaux.
+
+[',', 'homme', "l'", 'le', 'jeune']	Genghi	[MASK], troublé, se rapprocha insensiblement de l’inconnue : — D’où viens-tu, jeune femme qui sait des chansons qu’on aimait dans ma jeunesse ? Harpe où se jouent des airs d’autrefois, laisse-moi passer la main sur tes cordes.
+
+['on', 'il', 'elle', 'chacun', 're']	Ling	Grâce à lui, [MASK] connut la beauté des faces de buveurs estompées par la fumée des boissons chaudes, la splendeur brune des viandes inégalement léchées par les coups de langue du feu, et l’exquise roseur des taches de vin parsemant les nappes comme des pétales fanés.
+
+['été', ',', 'épines', 'car', 'de']	Genghi	L’été l’avait devancée dans la montagne. [MASK], assis au pied de l’érable, écoutait les grillons chanter. Elle s’approcha de lui en dissimulant à demi son visage derrière un éventail et murmura avec confusion :
+
+['veuve', 'femme', 'celle-ci', 'veuves', 'femmes']	Haisché	Grâce au lent obscurcissement du crépuscule, les bourreaux et la veuve ne s’étaient pas encore aperçus de ce signe de vie, mais les yeux clairs de [MASK] restaient sans cesse fixés sur le visage du jeune homme, car elle le trouvait beau.
+
+['les', 'de', 'la', 'le', 'à']	Philip	Mais le temps, les guerres et les paysans du voisinage soucieux de consolider les murs de leurs fermes l’ont démolie pierre à pierre, et son souvenir ne tient debout que dans les contes… À propos, [MASK], êtes-vous assez chanceux pour avoir ce qu’on appelle une bonne mère
+
+['heures', 'de', ',', 'elle', 'se']	Marko	; la veuve du pacha de Scutari passait là ses nuits à rêver de [MASK] et ses matins à l’attendre. Elle frottait d’huile son corps glacé par les baisers mous de la mer ; elle le réchauffait dans son lit à l’insu de ses servantes ;
+
+['lui', "s'", ',', 'se', 'et']	Marko	[MASK] arracha sa chemise et plongea la tête la première dans cette tempête où ne se serait aventurée aucune barque. Des montagnes roulèrent sous lui ; il roula sous des montagnes. Les soldats saccagèrent la maison sous la conduite de la veuve sans trouver la moindre trace du jeune géant disparu
+
+['il', '</s>', 'Il', 'ayant', 'avait']	Homère	Mais ses genoux tremblent, son esprit s’en est allé pour ne plus revenir, et la parole ne renaîtra plus jamais sur ses lèvres : [MASK] déjà savait qu’ils voient se consumer leur intelligence et leur force, ceux qui couchent avec les déesses d’or.
+
+['un', 'une', 'en', 'on', 'à']	Andromaque	Enfin, les os fragiles eux-mêmes se dispersèrent, et il ne reste plus ici qu’un vieux Français grillé par cette chaleur d’enfer, qui rabâche au premier venu cette histoire digne d’inspirer aux poètes autant de larmes que celle d’[MASK]. »
+
+['elle', 'il', 'Elle', 'Dame', 'Il']	Genghi	La Dame ôta docilement sa robe de paysanne. Le feu rosissait son corps mince qui semblait taillé dans l’ambre le plus pâle. Soudain, [MASK] murmura : — Je t’ai trompée, jeune fille, car je ne suis pas encore complètement aveugle.
+
+['on', 'il', 'elle', "s'", "l'"]	Cornélius	Mais les pays poudreux de soleil où [MASK] avait traîné ses pinceaux et ses vessies de couleurs s’avéraient moins précis dans sa mémoire qu’ils ne l’avaient été dans ses projets d’avenir ; et il ne trouvait plus, comme dans son jeune temps, d’épaisses plaisanteries qui faisaient glousser de rire les servantes
+
+['t-il', 'il', '-t-il', 'le', 'a-t-il']	Marko	« — Il y en a qui disent que j’épie tout le temps, fit le vieux. Mais ils se trompent : je laisse les gens faire ce qu’ils veulent. « — Et moi aussi, j’aime faire ce que je veux, hurla [MASK].
+
+['elle', 'il', 'Elle', 'Il', "j'"]	Ling	Son père était changeur d’or ; sa mère était l’unique enfant d’un marchand de jade qui lui avait légué ses biens en la maudissant parce qu’elle n’était pas un fils. [MASK] avait grandi dans une maison d’où la richesse éliminait les hasards.
+
+['luxe', 'fortune', 'droite', 'chef', 'proue']	Philip	Aucun souffle ne provenait du large. Le compagnon de cabine de [MASK], l’ingénieur Jules Boutrin, buvait attablé à un guéridon de zinc, à l’ombre d’un parasol couleur feu qui ressemblait de loin à une grosse orange flottant sur la mer.
+
+['il', 'elle', 'puis', 'et', 'Il']	Marko	Soudain, [MASK] se redressa ; il enleva avec sa main droite le clou de sa main gauche, prit la veuve par ses cheveux roux et lui cloua la gorge ; puis, enlevant avec sa main gauche le clou de sa main droite, il lui cloua le front.
+
+["s'", ',', 'est', 'se', 'une']	Kâli	; et [MASK] étalée dans l’ombre pyramidale des bûchers s’abandonne sur les cendres tièdes. Elle aime aussi les bateliers, qui sont rudes et forts ; elle accepte jusqu’aux Noirs qui servent dans les bazars, plus battus que des bêtes de somme ;
+
+['le', 'les', 'la', "l'", ',']	Praxitèle	Les dieux et les déesses antiques sont bien morts, et les musées ne contiennent que leurs cadavres de marbre. Nos nymphes ressemblent plus à vos fées qu’à l’image que vous vous en faites d’après [MASK]. Mais notre peuple croit à leurs pouvoirs ;
+
+['homme', 'père', 'mari', 'hôte', 'ami']	Marko	; et, au point du jour, quand le vent du Nord commença de souffler la révolte parmi les vagues du golfe, elle conseilla doucement à [MASK] de retarder son départ. Il y consentit : aux heures brûlantes du jour, il se recoucha pour la sieste.
+
+['lui', 'qui', ',', 'la', 'velours']	Panégyotis	l’ombre d’une feuille se déplaçant sur un ventre nu ; un sein clair, dont la pointe se révèle rose et non pas violette ; les baisers de [MASK] dévorant ces chevelures qui lui donnent l’impression de mâchonner du miel ; son désir se perdant entre ces jambes blondes.
+
+['San', 'FA', 'Si', 'Ti', 'Salam']	Wang	Mais c’était peu probable, car [MASK]-Fô jusqu’ici avait peu fréquenté la cour des empereurs, lui préférant les huttes des fermiers, ou, dans les villes, les faubourgs des courtisanes et les tavernes le long des quais où se querellent les portefaix.
+
+[',', 'de', 'les', 'se', 'ta']	Cornélius	; et il ne trouvait plus, comme dans son jeune temps, d’épaisses plaisanteries qui faisaient glousser de rire les servantes Ceux qui se rappelaient le bruyant [MASK] d’autrefois s’étonnaient de le retrouver si taciturne ; l’ivresse seule lui rendait sa langue ;
+
+['pierre', 'femme', 'Pierre', 'Jésus', 'Jean']	Kâli	Au fond du charnier, dans un marécage, la tête de [MASK] ondoyait comme un lotus, et ses longs cheveux noirs nageaient autour d’elle comme des racines flottantes. Ils recueillirent pieusement cette belle tête exsangue et se mirent en quête du corps qui l’avait portée.
+
+['il', 'prince', ',', 'et', 'qui']	Genghi	Mais [MASK] craignait de ne plus inspirer à ses hôtes que de la pitié ou du respect, deux sentiments dont il avait horreur, et auxquels il préférait l’oubli. Il secouait tristement la tête, et ce prince renommé jadis pour son talent de poète et de calligraphe renvoyait le messager chargé d’une feuille blanche.
+
+['il', 'elle', 'Pierre', 'Martin', 'celui-ci']	Ling	; sa lueur projetait dans les flaques des feux inattendus. Ce soir-là, [MASK] apprit avec surprise que les murs de sa maison n’étaient pas rouges, comme il l’avait cru, mais qu’ils avaient la couleur d’une orange prête à pourrir.
+
+['celle-ci', "l'", 'celui-ci', 'on', 'elle']	Kostaki	; et la veuve du vieux pope que [MASK] avait assassiné six ans plus tôt, sur un chemin désert, pleurait dans sa cuisine tout en rinçant les gobelets qu’elle venait d’offrir pleins d’eau-de-vie aux paysans qui l’avaient vengée.
+
+['il', 'on', 'ils', 'elle', 'et']	Thérapion	Les paysans partageaient avec lui leurs maigres aliments, mais, bien que ces gens fussent hâves, blêmes et découragés par les famines et les guerres qui avaient fondu sur eux, [MASK] ne parvenait pas à les tourner du côté du ciel.
+
+['ne', 'il', 'on', 'qui', 'elle']	Genghi	Le contact de cette main si connue la fit tressaillir de la pointe de ses cheveux à l’orteil de son pied nu, mais [MASK] put croire qu’elle grelottait de froid. — Viens dans ma cabane, reprit le prince d’une voix engageante.
+
+['il', 't-il', 'celui-ci', 'Pierre', 'Harry']	Marko	« — Vous autres, cria [MASK] à ceux de son escorte, ne vous en mêlez pas. Ça ne regarde que moi cette fois-ci. « Mais il s’essoufflait. Tout à coup, il trébucha et tomba comme une masse.
+
+['et', 'Il', 'il', 'Elle', ',']	Ling	Et je te hais aussi, vieux Wang-Fô, parce que tu as su te faire aimer. Tuez ce chien. [MASK] fit un bond en avant pour éviter que son sang ne vînt tacher la robe du maître.
+
+['lui', ',', 'et', 'il', 'me']	Aphrodissia	[MASK] saisit la tête qui s’enleva avec un bruit de soie qu’on déchire. Elle se proposait de la cacher chez elle, sous le sol de la cuisine, ou peut-être dans une caverne dont elle seule avait le secret, et elle caressait ce débris en lui assurant qu’ils étaient sauvés.
+
+['il', ',', 'ne', 'et', 'qui']	Marko	[MASK] mange et boit comme dix, et parle encore plus qu’il ne mange, rit et frappe du poing encore plus qu’il ne boit. Et de temps en temps, il mettait le holà, quand deux se querellaient d’avance à cause du butin.
+

@@ -1,0 +1,200 @@
+['la', 'le', 'en', 'de', "l'"]	Mistigris	– De la tenue, [MASK] ! répondit le maître en lui donnant le surnom que l’atelier lui avait sans doute imposé.Ce voyageur était un jeune homme mince et pâle, à cheveux noirs, extrêmement abondants, et dans un désordre tout à fait fantasque ;
+
+['pirate', 'bar', 'cor', 'chevalier', 'co']	Schinner	Après avoir été corsaire, peut-être pirate, mon drôle se moquait de tuer un chrétien, comme moi de cracher par terre, reprit [MASK]. Voilà qui va bien. D’ailleurs, richissime à millions, le vieux gredin !
+
+['je', ',', 'de', 'le', 'à']	Oscar	Allons, [MASK], remercie donc ce bon monsieur Moreau, tu es là comme un terme ! Tous les jeunes gens qui font des sottises n’ont pas le bonheur de rencontrer des amis qui s’intéressent encore à eux après en avoir reçu du chagrin…–
+
+['Dieu', 'on', 'Il', '</s>', 'On']	Ali	C’est plus près, dit le comte de Sérisy.– Les femmes de sérail ne savent pas un mot de français, et la langue est indispensable pour s’entendre. [MASK] m’a donné cinq femmes légitimes et dix esclaves.
+
+['jeune', 'vous', 'et', 'Vous', '</s>']	Oscar	Oh ! vous êtes bien heureux d’être jeune…[MASK], qui crevait dans sa peau de n’être rien et de n’avoir rien à dire, regardait le colonel Czerni-Georges, le grand peintre Schinner, et il cherchait à se métamorphoser en quelque chose.
+
+['se', 'le', ',', 'tout', 'puis']	Pierrotin	Le comte reprit alors sa place, et [MASK] marcha dans le plus profond silence.– Eh ! bien, mes amis, dit le comte en atteignant le bois Carreau, nous voilà muets comme si nous allions à l’échafaud.– Il faut savoir se traire à propos, répondit sentencieusement Mistigris.–
+
+['il', 'qui', 'et', 'Il', 'mais']	Moreau	Cette manière d’arrondir sa fortune était un cas de conscience, voilà tout. Actif, entendant bien les intérêts du comte, [MASK] guettait avec d’autant plus de soin les occasions de procurer de bonnes acquisitions, qu’il y gagnait toujours un large présent.
+
+[',', 'roi', 'Pierre', 'Socrate', ';']	Schinner	La prudence, jeune homme, est mère de la surdité. Moi, je ne vous écoute pas.– C’est le cas de dire, s’écria [MASK], dis-moi qui tu hantes, je te dirai qui tu hais !
+
+['le', 'en', 'à', 'ce', "l'"]	Oscar	Souviens-toi de mes paroles : probité, travail et discrétion.– Entends-tu, [MASK] ? dit la mère. Ton oncle te met en trois mots le résumé de toutes mes paroles, et tu devrais te graver le dernier en lettres de feu dans ta mémoire…
+
+['il', 'maintenir', 'le', 'tenir', 'mettre']	Oscar	Il a raison, ce vieux bonhomme, reprit l’ex-régisseur, il faut maintenir [MASK] dans cette voie avec un bras de fer, et il sera certainement notaire ou avoué. Mais qu’il ne s’écarte pas du sentier tracé. Ah ! j’ai votre affaire.
+
+['se', 'à', 'ce', 'qui', 'de']	Georges	Ce fut en tournant là que [MASK] rompit le silence que les voyageurs avaient gardé jusqu’alors, en s’observant les uns les autres.– On marche un peu mieux qu’il y a quinze ans, dit-il en tirant une montre d’argent, hein ! père Léger.–
+
+['il', 'on', 'elle', 'et', "s'"]	Pierrotin	De temps en temps, [MASK] échangeait avec le comte de Sérisy des regards singuliers qui eussent inquiété des gens un peu plus expérimentés que ne l’étaient les cinq voyageurs.– Des lords, des pachas, des plafonds de trente mille francs !
+
+[':', '.', 'il', 'le', "qu'"]	Georges	dit [MASK]. Quand il a blagué tout à l’heure sur ses croix, je le croyais plus fort qu’il n’est, dit-il à voix basse au peintre ; mais nous le remettrons sur ses décorations, ce petit fabricant de chandelles.
+
+[',', 'de', 'en', 'le', 'à']	Schinner	[MASK]. J’entre donc, reprit-il, et je trouve deux mains qui me prennent les mains. Je ne dis rien, car ces mains, douces comme une pelure d’oignon, me recommandaient le silence ! On me souffle à l’oreille en vénitien : «
+
+['deux', 'tous', ',', 'chacun', 'tout']	Pierrotin	Cette méthode offrait à [MASK] la possibilité d’empocher le prix de deux places pour une, quand un habitant du pays venait de bonne heure demander une place appartenant à un oiseau de passage qui, par malheur, était en retard. Cette élasticité ne trouverait certes pas grâce aux yeux des puristes en morale
+
+['lui', ',', 'elle', 'monde', 'homme']	Oscar	mais ses larges lèvres, le contour de son visage, la bonhomie de son allure eussent offert à un observateur des indices de bonté. Plein de décision, d’un parler brusque, il imposait énormément à [MASK] par les effets d’une pénétration inspirée par la tendresse qu’il lui portait.
+
+['et', 'il', 'on', 'elle', 'qui']	Oscar	, [MASK] alla flâner sur les boulevards en attendant l’heure du déjeuner. Comment ne pas promener cette belle toilette qu’il portait avec un orgueil et un plaisir que se rappelleront tous les jeunes gens qui se sont trouvés dans la gêne au début de la vie ?
+
+['la', 'se', 'Trente', ',', 'A']	Desroches	La tranche fut roussie avec une perfection étonnante. Une fois le livre mis en état, voici quelques citations qui diront aux plus obtus l’usage auquel l’Étude de [MASK] consacrait ce recueil, dont les soixante premières pages abondaient en faux procès-verbaux. Sur le premier feuillet, on lisait
+
+['à', 'le', 'Bi', 'a', 'la']	Pierrotin	Nous allons vous atteler Bichette pendant que ces deux voyageurs prendront leur café, répondit [MASK]. Va donc, toi, dit-il au facteur, voir si le père Léger veut s’en venir avec nous…– Et où est-il, ce père Léger ?
+
+['Isabelle', ':', 'Marie', '...', 'Michèle']	Zéna	. Vous comprenez, me voilà incendiéErreur du Furne : « incendié, » au lieu de » « incendié. ».. Je questionne mon Diafoirus, il m’apprend que cette voisine se nomme [MASK]. Je change de linge.
+
+['un', '...', 'une', 'le', "l'"]	Clapart	Quand ce garçon-là réussira dans le monde, il y aura long-temps que nos os seront en gélatine, s’écria [MASK]. Il aura donc bien changé ! Mais vous ne le connaissez pas, votre enfant, il est vantard, il est menteur, il est paresseux, il est incapable…
+
+['une', 'un', 'écoles', 'anciens', 'la']	Oscar	Mais il fallait faire son Droit, étudier pendant trois ans, et payer des sommes considérables pour les inscriptions, pour les examens, pour les thèses et les diplômes ; le grand nombre des aspirants forçait à se distinguer par un talent supérieur ; enfin la question de l’entretien d’[MASK] se représentait toujours.
+
+['la', 'or', "l'", 'ce', 'un']	Pierrotin	Cette superbe diligence, il était allé la voir la veille chez les peintres, elle ne demandait qu’à rouler ; mais, pour la faire rouler le lendemain, il fallait accomplir le paiement. Or, il manquait mille francs à [MASK] !
+
+["l'", 'la', 'Dieu', 'Napoléon', 'tou']	Napoléon	Le rejeton de cette famille historique devint l’un des rouages les plus actifs de la grande et magnifique organisation due à [MASK]. Aussi le Conseiller-d’État quitta-t-il bientôt son administration pour un Ministère. Créé comte et sénateur par l’Empereur, il eut successivement le proconsulat de deux différents royaumes.
+
+['oncle', ',', 'de', 'père', 'notre']	Georges	[MASK], ajouta-t-il, est très-riche, il a hérité de son père qui était veuf, qui lui a laissé dix-huit mille livres de rentes, et avec les douze mille francs que notre oncle vient de nous laisser à chacun, il a trente mille francs par an.
+
+['théâtre', 'Molière', 'cour', 'siècle', 'scène']	Frédéric	Là, scintillaient des princesses de théâtre qui, sans doute instruites de la plaisanterie de [MASK], s’amusaient à singer les femmes comme il faut. On prenait alors des glaces. Les bougies allumées faisaient flamber les candélabres.
+
+['Jean', 'Guillaume', 'lui', 'Pierre', 'Robert']	Oscar	Le dîner, celui du patron d’ailleurs, consistait en un gros plat de viande, un plat de légumes et une salade. Le dessert se composait d’un morceau de fromage de Gruyère. Après le dîner, Godeschal et [MASK] rentraient à l’Étude et y travaillaient jusqu’au soir.
+
+['cela', 'ça', 'elle', 'il', 'je']	Florentine	Oui, j’en aurais eu, j’étais dans l’âge où l’on en a toujours… Eh ! bien, [MASK] ne me coûte pas si cher qu’une femme, elle ne m’ennuie pas, elle ne me donnera point d’enfants, et ne mangera jamais votre fortune.
+
+[',', 'ne', "n'", 'se', 'même']	Moreau	J’ai donc ici les preuves que j’allais chercher là-bas, pensa-t-il en regardant le gros fermier qui rentrait dans la cuisine. Peut-être, se dit-il, n’est-ce encore qu’à l’état de plan ? peut-être [MASK] n’a-t-il rien accepté
+
+['Oscar', 'George', 'Napoléon', 'Albert', 'Monsieur']	Georges	Et l’homme d’État jeta sur le fond de la voiture un coup d’œil sagace qui offensa beaucoup Oscar et Georges.– Nous sommes en retard d’une heure un quart, dit Oscar.– Quand on veut être maître d’une voiture, on en retient toutes les places, fit observer [MASK].
+
+[',', 'est', 'était', 'étant', ';']	Clapart	; dans ce métier-là, ses défauts deviendront peut-être des qualités, car l’amour-propre donne de la langue à la moitié des avocats.En ce moment [MASK] tombé malade, était gardé par sa femme, tâche pénible, devoir sans aucune récompense.
+
+['à', 'donc', 'au', 'devant', 'a']	Oscar	On vous ramène [MASK] en poste, s’écria-t-il d’un air où sa satisfaction se cachait sous une inquiétude réelle.– Oh ! mon Dieu, que lui est-il arrivé ? dit la pauvre mère saisie d’un tremblement qui la secoua comme une feuille est secouée par le vent d’automne.
+
+["l'", 'base', 'bien', 'retour', 'tous']	Balthazar	On rédigea le procès-verbal de ce festin de [MASK] au dessert, en commençant par : inter pocula aurea restauranti, qui vulgo dicitur Rupes Cancali. D’après ce début, chacun peut imaginer la belle page qui fut ajoutée sur ce Livre d’Or des déjeuners bazochiens.
+
+['compagnie', ',', 'taille', 'personne', 'ce']	Mistigris	Je vous remercie, monsieur, dit le comte au maître de [MASK] qui devint ainsi son voisin.Et l’homme d’État jeta sur le fond de la voiture un coup d’œil sagace qui offensa beaucoup Oscar et Georges.– Nous sommes en retard d’une heure un quart, dit Oscar.–
+
+['tout', 'on', 'Voltaire', 'il', 'Napoléon']	Georges	Une des sottises les plus habituelles aux gens tombés est de vouloir reconnaître les gens et de vouloir s’en faire reconnaître.– Vous êtes bien changé, répondit le vieux marchand de biens, devenu deux fois millionnaire.– Tout change, dit [MASK].
+
+[';', 'je', ',', '-', 'ceci']	Georges	Vous voyez que je connais le comte, leur dit Oscar.– C’est possible ; mais vous ne serez jamais ambassadeur, répondit [MASK] ; quand on veut parler dans les voitures publiques, il faut avoir, comme moi, le soin de parler sans rien dire.–
+
+['lui', 'vous', 'nous', 'tout', 'moi']	Presles	– Dame, si le comte lui donne dix mille francs, il aura de cette affaire-là cinquante mille francs ; mais il les aura bien gagnés.– D’ailleurs, après tout, il se soucie bien de [MASK] ! et il est si riche ! dit l’aubergiste.
+
+['tout', 'cela', 'ceci', 'choses', 'rien']	Estelle	; et, par un seul coup d’œil échangé, tous deux convinrent de prendre [MASK] au sérieux, afin de passer agréablement le temps de leur séjour.– Vous aimez les arts, peut-être les cultivez-vous avec succès, madame ?
+
+['il', 'Il', 'et', 'Dieu', 'Jésus']	Godeschal	il a fait ce que nous faisons, et le voilà arrivé.[MASK] prêchait d’exemple. S’il professait les principes les plus stricts sur l’honneur, sur la discrétion, sur la probité, il les pratiquait sans emphase, comme il respirait, comme il marchait.
+
+['elle', 'il', 'on', 'le', 'la']	Pierrotin	Le pantalon bleu, raccommodé par la mère, offrait aux regards un fond neuf, quand la redingote avait la méchanceté de s’entr’ouvrir par derrière.– Ne tourmente donc pas tes gants ainsi, tu les flétris d’autant, disait-elle quand [MASK] se montra.
+
+[',', '"', 'moi', 'me', 'tu']	Oscar	Qu’as-tu donc, [MASK] ? demanda cette pauvre mère blessée. Je ne te conçois pas, reprit-elle d’un air sévère en se croyant capable (erreur de toutes les mères qui gâtent leurs enfants) de lui imposer du respect.
+
+['le', "l'", 'un', 'la', 'maître']	Pierrotin	?– Un cabriolet est capable de lui demander quarante francs pour aller et venir ; car apprenez que cette route-là, si vous ne la connaissez pas, est faite pour les écureuils. Oh ! toujours monter et descendre, dit [MASK].
+
+['eux', 'avance', 'année', 'adjudication', 'elle']	Pierrotin	; mais ces défiants et durs fabricants ne voulaient livrer cette diligence que contre des écus. Peu flattés de construire une voiture difficile à placer si elle leur restait, ces sages négociants ne l’entreprirent qu’après un versement de deux mille francs opéré par [MASK].
+
+['il', 'et', 'cela', 'qui', 'elle']	Desroches	S’il ne gagnait rien encore, il fut nourri, logé, car il faisait la besogne d’un second clerc. [MASK] occupait deux maîtres-clercs, et le second clerc pliait sous le poids de ses travaux.
+
+['le', "l'", 'LE', 'LE', 'la']	Mistigris.–	Vous n’êtes pas très-bruni par le soleil, dit [MASK] Oh ! je sors de mon lit après une maladie de trois mois, dont le germe était, disent les médecins, une peste rentrée.– Vous avez eu la peste ! s’écria le comte en faisant un geste d’effroi.
+
+['ce', 'de', 'à', 'en', ',']	Mistigris	Enfin des bottes crottées indiquaient qu’il venait à pied et de loin. Par un regard rapide, cet artiste embrassa les profondeurs de l’hôtel du Lion-d’Argent, les écuries, les différents jours, les détails, et il regarda [MASK] qui l’avait imité par un coup d’œil ironique.–
+
+['il', 'elle', 'qui', 'cela', 'lui']	Georges	Un embonpoint mal placé, un ventre pyriforme altéraient les proportions autrefois si élégantes de l’ex-beau jeune homme. Devenu presque ignoble de tournure et de maintien, [MASK] annonçait bien des désastres en amour et une vie de débauches continuelles par un teint couperosé, par des traits grossis et comme vineux.
+
+['le', 'celui-ci', 'Huss', "l'", 'Jean']	Oscar	Je ne suis pas le conducteur, dit Pierrotin.– Qu’êtes-vous donc ? demanda le colonel Husson.– L’entrepreneur, répondit Pierrotin.– Allons, ne vous fâchez pas avec de vieilles connaissances, dit [MASK] en montrant sa mère et sans quitter son protecteur.
+
+['...', '-', '--', '....', 'y']	Carbonaro	?… non, ces cocos-là sont gens à ne connaître ni l’un ni l’autre. [MASK] ?… Diable ! je pourrais me faire empoigner. Si j’étais un des fils du maréchal Ney ?… Bah ! qu’est-ce que je leur dirais ?
+
+['un', 'une', 'en', 'était', 'à']	Oscar	L’un des deux jeunes gens, celui qui avait des bottes et des éperons, poussa l’autre par un coup de coude pour lui montrer la mère d’[MASK], et l’autre retroussa sa moustache par un geste qui signifiait : Jolie tournure !
+
+['Je', 'Oui', 'Monsieur', "J'", 'Tenez']	Clapart	D’ailleurs, voilà la lettre de ce pauvre monsieur Moreau, qu’est changé, madame, à faire trembler…– [MASK], deux verres de vin pour le postillon et pour monsieur, dit la mère qui s’alla jeter sur un fauteuil où elle lut la fatale lettre.
+
+[',', 'ce', 'à', 'de', "l'"]	Oscar	En admirant un pantalon collant gris de fer, une redingote à brandebourgs et à olives serrée à la taille, il semblait à [MASK] que ce romanesque inconnu, doué de tant d’avantages, abusait envers lui de sa supériorité, de même qu’une femme laide est blessée par le seul aspect d’une belle femme.
+
+['il', 'tu', 'Allah', 'on', 'lui']	Derville	attends le jugement s’il n’est pas prêt, ne te laisse pas entortiller ; car [MASK] est capable, dans l’intérêt de son client, de nous mettre des bâtons dans les roues. Le comte Félix de Vandenesse est plus puissant que son frère l’ambassadeur, notre client.
+
+['on', 'que', 'le', 'il', ',']	Mistigris	Eh ! bien, dit [MASK], il ne peut pas vous dire qu’on lui a coupé la tête. Plus on est debout, plus on rit.– Monsieur, y a-t-il des fermes dans ce pays-là ? demanda le père Léger. Comment y cultive-t-on
+
+['celui-ci', 'droite', 'gauche', 'Guillaume', 'Jean']	Schinner	: « À mort ! à bas l’assassin !… » qui fait de loin comme une basse-taille…– Ils criaient donc en français, ces Dalmates ? demanda le comte à [MASK], vous nous racontez cette scène comme si elle vous était arrivée d’hier.
+
+['on', 'se', 'tout', ',', 'le']	Pierrotin	du valet de chambre revint au cœur du voiturier, ainsi que le sentiment d’obéissance à ceux qu’il appelait les chefs de file. D’ailleurs, en ce moment, [MASK] se sentait dans la tête autant de pointes qu’il y a de pièces de cent sous dans mille francs
+
+['se', ',', 'de', 'et', 'ne']	Pierrotin	… tant il lui répugnait encore de croire son régisseur capable de tremper dans une semblable conspiration.[MASK] vint donner à boire à ses chevaux. Le comte pensa que le conducteur allait déjeuner avec l’aubergiste et le fermier ; or, ce qu’il venait d’entendre lui fit craindre quelque indiscrétion.–
+
+['il', 'celui-ci', 'et', 'Il', 'en']	Oscar	La comtesse de Sérisy n’avait point séparé son fils de celui qui, après l’avoir arraché aux Arabes, le soignait encore avec tant de dévouement. [MASK] était si grièvement blessé que l’amputation du bras gauche fut jugée nécessaire par le chirurgien que la comtesse amenait à son fils.
+
+[',', ':', 'cela', ';', 'nous']	Mistigris	On appelle, en termes d’atelier, croquer une tête, en prendre une esquisse, dit [MASK] d’un air insinuant, et nous ne demandons à croquer que les belles têtes. De là le mot : Elle est jolie à croquer !
+
+['le', "l'", 'la', 'un', 'son']	Pierrotin	Le jeune homme à la figure creusée et son rapin se montrèrent alors.– Partons ! fut un cri général.– Nous allons partir, répondit [MASK]. – Allons, démarrons, dit-il au facteur qui ôta les pierres avec lesquelles les roues étaient calées.
+
+['on', 'il', 'elle', 'y', 'On']	Godeschal	Chez moi, [MASK] a mille francs, la table et le logement. C’est un garçon qui me vaut, il est infatigable ! Je l’aime, ce garçon ! il a su vivre avec six cents francs, comme moi, quand j’étais clerc.
+
+['lui', 'celui', 'elle', 'celle', "l'"]	Oscar	Enfin, [MASK] qui venait d’achever ses classes, avait eu peut-être à repousser au collége les humiliations que les élèves payants déversent à tout propos sur les boursiers, quand les boursiers ne savent pas leur imprimer un certain respect par une force physique supérieure.
+
+['baron', 'magistrat', 'maire', 'marquis', 'président']	Godeschal	, dit-il au moment de s’en aller vers cinq heures, j’ai un cousin premier clerc de notaire chez maître Léopold Hannequin, je le consulterai sur ce que je dois faire pour ma bienvenue.– Cela va mal, s’écria [MASK], il n’a pas l’air d’un novice, le futur magistrat !
+
+['on', 'se', 'roi', 'il', 'le']	Moreau	Ni moi, dit le père Léger ; mais il va finir par habiter, autrement il ne dépenserait pas deux cent mille francs à restaurer l’intérieur. C’est aussi beau que chez le roi.– Ah ! bien, dit l’aubergiste, il était temps que [MASK] fît son beurre.–
+
+[',', 'je', 'que', '-', 'on']	Georges	[MASK] trouva juste et raisonnable d’apostropher Pierrotin.– Eh ! mon ami, quand on jouit d’un sabot conditionné comme celui-là, dit-il en frappant avec sa canne sur la roue, on se donne au moins le mérite de l’exactitude. Que diable !
+
+['non', ',', 'les', "l'", 'en']	Moreau	mettez-le à l’auberge, je ne répondrais point de ma colère en le voyant.– Je ne méritais point tant de douceur, monseigneur, dit [MASK] les larmes aux yeux. Oui, si j’avais été tout à fait improbe, j’aurais cinq cent mille francs à moi ;
+
+['à', 'pour', 'par', 'ainsi', 'son']	Rougeot	; mais alors, pour le traîner, il donnait, à son gros cheval hors d’âge, appelé [MASK], un compagnon dans la personne d’un cheval gros comme un poney, dont il disait un bien infini.
+
+['le', "l'", 'alors', 'un', 'ensuite']	Pierrotin	Garçon, deux absinthes ! cria-t-il en entrant… Qui donc est votre maître, et où va-t-il ? Je ne vous ai jamais vu, demanda [MASK] au domestique en trinquant.– Il y a de bonnes raisons pour cela, reprit le valet de pied.
+
+["qu'", 'alors', ',', 'madame', 'tout']	Cardot	! dit [MASK] à son neveu, c’est tout ce que tu auras de moi jamais ! Va t’arranger avec ton patron si tu peux. Je rendrai les mille francs que mademoiselle t’a prêtés ; mais je ne veux plus entendre parler de toi.
+
+['le', ',', 'la', 'de', 'S']	Oscar	, vit les larmes, et l’emmena dans un boudoir.– Qu’as-tu, mon petit ? lui demanda-t-elle.À cette voix, à ce mot, à l’accent, [MASK], qui reconnut une bonté maternelle dans la bonté des filles, répondit
+
+['son', 'sa', 'la', "l'", 'lui']	Georges	; sa figure creusée et ses traits prononcés s’accordaient avec son attitude militaire. La rosette d’officier, le bras de moins, la sévérité du costume, tout aurait égaré les souvenirs de [MASK], s’il avait eu quelque souvenir de son ancienne victime.
+
+[':', ',', '-', 'çà', 'à']	Florentine	– J’ai perdu cinq cents francs que mon patron m’a remis pour retirer demain un jugement, je n’ai plus qu’à me jeter à l’eau, je suis déshonoré…– Êtes-vous bête ? dit [MASK], restez là, je vais vous apporter mille francs, vous tâcherez de tout regagner ;
+
+['"', '-', ';', ':', ',']	Pierrotin	Ses yeux souriants étaient pressés par des bourrelets de graisse. – Allons, un coup de main, mon garçon, dit-il à [MASK].Le fermier fut hissé par le facteur et par le messager au cri de : – Haoup ! là ! ahé !
+
+['cela', 'ça', 'celui-là', 'non', 'cheval']	Pierrotin	Écoutez, père Léger, vous savez qu’il y a la côte à monter ; moi, je n’ai pas faim, j’irai doucement, vous me rattraperez bien, ça vous fera du bien de marcher.– Est-il enragé, [MASK] ? dit l’aubergiste.
+
+['lui', 'soi', 'nous', 'lui-même', 'eux']	Desroches	Le futur Substitut, animé du louable désir de savoir son métier dans ses plus petits détails, se mettait chez [MASK] avec l’intention d’étudier la Procédure et d’être capable de remplir la place de principal clerc en deux ans.
+
+['t-il', '"', "'", 'il', 'Victor']	Clapart	Un enfant qui n’a jamais eu de prix dans ses classes ! s’écria [MASK].Aux yeux des bourgeois, remporter des prix dans ses classes est la certitude d’un bel avenir pour un enfant.– En avez-vous eu ? lui dit sa femme.
+
+['S', 'de', 'en', ',', 'A']	Nathan	L’or reluisait sur quatre tables de jeu dressées dans la chambre à coucher. Dans le salon, les femmes s’adonnaient à un vingt-et-un tenu par [MASK], le célèbre auteur. Après avoir erré, gris et presque endormis
+
+['chacun', 'chacune', 'tous', 'elle', 'mariage']	Camusot	Quant à ses capitaux, il les avait partagés en trois dots de chacune quatre cent mille francs pour ses enfants. Le Cocon d’Or, la dot de sa fille aînée, fut accepté pour cette somme par [MASK].
+
+['Re', 're', 'et', 'bien', 'est']	Oscar	Le comte Félix de Vandenesse est plus puissant que son frère l’ambassadeur, notre client. Ainsi aie les yeux ouverts, et à la moindre difficulté, reviens me trouver.[MASK] partit avec l’intention de se distinguer dans cette petite escarmouche, la première affaire qui se présentait depuis son installation.
+
+['la', ',', 'le', "l'", 'de']	Georges	mais nous en avons tous fait autant, et nous perdrions beaucoup si nous ne semions pas le discours de petits agréments en échangeant nos réflexions. Tous les Français sont égaux dans le coucou, a dit le petit-fils de [MASK]. Ainsi continuez, agréable vieillard ?… blaguez
+
+['par', 'sa', 'de', 'le', 'une']	Oscar	– Allons déjeuner, répondit le bon petit vieillard en emmenant [MASK] par une oreille.Pendant le déjeuner, l’oncle Cardot observa son neveu sans en avoir l’air, et remarqua qu’il ne savait rien de la vie.– Envoyez-le-moi de temps en temps,
+
+['...', ',', 'NON', '(', 'et']	Oscar	Ma mère ! monsieur ?… dit [MASK] avec un mouvement d’indignation. Eh ! c’était la femme de charge de chez nous…– De chez nous est très-aristocratique, s’écria le comte en interrompant Oscar.– Le roi dit nous, répliqua fièrement
+
+['la', 'tout', "l'", 'ce', 'tous']	Georges	que c’est le bourgeois de Maffliers, dit à [MASK] le père Léger en rentrant dans la voiture.En ce moment les trois jeunes gens, sots comme des voleurs pris en flagrant délit, n’osaient se regarder les uns les autres, et paraissaient préoccupés des suites de leurs mensonges.–
+
+['une', 'un', 'Emilie', 'Annie', 'Amy']	Oscar	Il dit maman, s’écria l’un des deux inconnus en riant.Ce mot parvint à l’oreille d’[MASK] et détermina un : – Adieu, ma mère ! lancé dans un terrible mouvement d’impatience. Avouons-le ?
+
+['il', 'on', "c'", 'Il', 'celui-ci']	Chosrew	; c’est sa manière de destituer les fonctionnaires. Un jardinier passe préfet, et un premier ministre redevient tchiaoux. Les Ottomans ne connaissent point les lois sur l’avancement ni la hiérarchie ! De cavalier, [MASK] était devenu marin.
+
+['on', 'çà', ',', '...', 'et']	Ali	. C’est des cavaliers finis, les Turcs. [MASK] m’a donné des yatagans, des fusils et des sabres !… en veux-tu, en voilà. De retour dans sa capitale, ce satané farceur m’a fait des propositions qui ne me convenaient pas
+
+['se', 'à', 'de', ',', 'et']	Oscar	quel démon a délié ta langue, toi qui restes hébété toutes les fois que je t’interroge ? Quelle était ton idée ? lui dit le régisseur avec une épouvantable violence. Trop hébété pour pleurer, [MASK] garda le silence en restant immobile comme une statue.– Viens
+
+['re', 'est', 'homme', 're', 'était']	Oscar	[MASK] devenu discret avait fini par mesurer, au contact des affaires, l’étendue de la faute commise durant son fatal voyage en coucou ; mais, la masse de ses fantaisies réprimées, la folie de la jeunesse pouvaient encore l’entraîner.
+
+["l'", 'la', 'son', 'sa', 'elle']	Oscar	En dix tours l’actrice perdit les deux cents francs.– Allons, c’est bête, s’écria-t-elle, je vais faire la banque, moi. Nous restons ensemble, n’est-ce pas ? dit-elle à [MASK].
+
+['Oui', 'Non', '"', 'Monsieur', 'Seigneur']	Oscar	– « [MASK], dit-elle en terminant, j’avais mis en toi tout mon orgueil et toute ma vie. En acceptant une vieillesse malheureuse, je reposais ma vue sur toi, je te voyais embrassant une belle carrière et y réussissant.
+
+['...', "L'", ',', 'DE', 'LE']	Hurrah	Ainsi, messieurs de la Première Instance, reprit-il avec une morgue notariale, de la tenue, et sachez porter le vin comme les seigneurs de la Régence… – [MASK] ! cria l’Étude comme un seul homme. Bravo !…
+
+['Mais', 'Que', 'Pourquoi', 'Et', 'À']	Attelle	Où se fourrent-ils donc ? [MASK] tout de même. Avec cela qu’il n’y a point de paquets. Vingt-bon-Dieu ! Il ne saura où mettre ses voyageurs ce soir, puisqu’il fait beau, et moi je n’en ai que quatre d’inscrits !
+
+[',', 'le', "l'", 'en', 'la']	Godeschal	– Messieurs, dit [MASK] au déjeuner en s’adressant à tous les clercs, je vous annonce l’arrivée d’un nouveau bazochien ; et, comme il est richissime, nous lui ferons payer, je l’espère, une fameuse bienvenue…
+
+['on', 'il', 'et', 'qui', 'elle']	Desroches	L’Atelier et l’Étude sont, en ce genre, supérieurs aux comédiens. En achetant un titre nu, [MASK] recommençait en quelque sorte une nouvelle dynastie. Cette fondation interrompit la suite des usages relatifs à la bienvenue.
+
+['il', ',', 'qui', 'Il', 'et']	Moreau	[MASK] signalait à son patron un dangereux adversaire dans la personne du père Léger. Le fermier, qui savait combien il pouvait vendre cher en détail cette ferme au comte, était capable d’en donner assez d’argent pour surpasser l’avantage que la recette particulière offrirait à Margueron fils.
+
+['Georges', 'George', 'Robert', 'il', 'John']	Oscar	à Georges.– Comme vous avez perdu votre bras, répondit sèchement l’ancien clerc de notaire à l’ancien clerc d’avoué.– Vous avez donc fait quelque action d’éclat avec votre fortune ? dit [MASK] avec une ironie mêlée d’aigreur.– Parbleu !
+
+["l'", 'le', 'à', 'alors', 'enfin']	Georges	– Elle vous fera long-temps illusion, dit alors Léger qui paraissait vouloir se venger de son mystificateur.– Je la respecte, répondit [MASK] au père Léger. Mais, à propos, qu’est devenu ce régisseur qui, dans le temps, a été renvoyé ?
+
+[',', 'se', 'et', 'il', 'elle']	Moreau	[MASK] fondit sur le malheureux enfant comme un milan sur sa proie, l’empoigna par le collet de sa petite redingote olive et l’amena au jour d’une croisée.– Parle, qu’as-tu donc dit à monseigneur dans la voiture ?
+
+['se', 'à', 'le', 'vous', 'dire']	Godeschal	On veut faire de lui ce que vous vous êtes fait vous-même, un premier clerc habile, pour le jour où il prêtera son serment d’avocat. – Allez avec [MASK], mon petit ami, il va vous montrer votre gîte et vous vous y emménagerez…
+
+[',', '"', '...', 'Je', 'Non']	Pierrotin	Tous ces gens-là s’entendent contre nous, c’est pain bénit que de déjouer leurs plans, pensa-t-il.– [MASK], dit-il à voix basse au voiturier en s’approchant de lui, je t’ai promis dix louis pour me garder le secret ;
+

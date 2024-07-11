@@ -1,0 +1,200 @@
+['elle', 'on', 'il', 'maman', 'Françoise']	Thérèse	À midi, comme on était loin de la maison, [MASK] offrit de se contenter pour déjeuner d’un en-cas qu’elle avait emporté, fait de tartines et de fromage de chèvre. Puis, comme plat de résistance et dessert à la fois, on cuirait des châtaignes sous la cendre.
+
+['père', 'mère', '...', '-', 'Dieu']	Martial	Toi ? – Oui, moi, je ne suis pas son fils, n’est-ce pas ? – Le fils de [MASK] ! Mais réfléchis, mon chéri : il est mort six ans avant ta naissance. – Oui, c’est vrai… C’est dommage…
+
+['.', 'de', "d'", 'encore', 'à']	Geneviève	On trouvait encore dans la forêt des digitales aux longues tiges, les derniers cèpes et des tribus de champignons grisâtres, inquiétants, qui tentaient [MASK]. – Tu es sûre que c’est du poison, maman ? – Sûre, ma chérie.
+
+['On', 'on', 'Il', 'il', '</s>']	Détang	Dire que le premier m’a toujours paru un fieffé imbécile et le second, un bellâtre ridicule. Et ils ont fait tant de choses ; ils en ont tant vu. Ils ont tué des hommes. [MASK] dit qu’il les prend à la baïonnette, qu’il en a embroché un comme un poulet.
+
+['il', 'elle', 'Il', 'et', 'on']	Thérèse	Tu penses, j’y suis habitué », quoique ce fût le premier cigare de sa vie. Il souffla une bouffée de fumée d’un air grave. [MASK] n’avait pas de robe blanche, pas de bouquet de lis, pas de couronne de fleurs d’oranger.
+
+[',', 'celui-ci', 'à', 'dès', 'M.']	Thérèse	Selon les plans établis, il était venu habiter chez sa femme au retour d’un de ses voyages. « Non, c’est affreux, lui avait dit [MASK] le troisième jour, j’aime mieux une franche séparation. Les petites t’ont oublié ;
+
+['elle', 'nous', '...', ',', 'grand-mère']	Thérèse	« Je n’aurais pas manqué de consolateurs… ni [MASK] non plus, si elle voulait, se dit la grand-mère. Mais nous sommes une race d’honnêtes femmes. Lui… je ne sais pas ce qu’il a dans le corps.
+
+['il', 'elle', 'et', 'on', 'Il']	Martial	Ah, mince alors, protestèrent les soldats : mais il fait jour ! [MASK] ne voulait rien entendre : il lui fallait son blessé. Il se rappelait ce regard levé vers lui, ce regard d’un homme qui remettait entre ses mains sa vie, précieuse et unique.
+
+['se', 'sentait', 'de', ',', 'pour']	Thérèse	Je suis très vieille seulement, très vieille, je vais m’endormir… » Elle sombra dans un sommeil bref et léger et se retrouva dans un lieu inconnu où elle voyait [MASK] venir près d’elle. Elle la saisissait dans ses bras, caressait son visage et lui disait…
+
+['de', ',', 'le', 'la', 'se']	Bernard	[MASK] le partageait, cet orgueil, comme il partageait tous les sentiments des soldats lorsqu’il se trouvait avec eux. Son âme individuelle, complexe et contradictoire, était remplacée alors par une âme collective, simple et vigoureuse. Comme les autres, il se croyait invincible ;
+
+[',', 'tout', 'celui-ci', 'sur', 'presque']	Martial	elle fut coupée comme au couteau par un éclair aveuglant : un obus de 105 avait éclaté dans la chambre du poste, tuant [MASK] sur le coup. Toute une partie du plancher, enfoncé, écrasé, effondré s’abîma dans la terre, entraînant le cadavre avec lui.
+
+['maison', 'grand-mère', 'personne', 'moi-même', 'ménage']	Bernard	J’irai au cinéma le samedi avec grand-mère. Puis grand-mère mourra, et je resterai seule. Il est vrai que si je deviens la maîtresse de [MASK], je serai tout aussi seule… Mais, du moins, j’aurai eu quelques nuits, des souvenirs.
+
+['on', 'il', 'elle', 'je', 'On']	Détang	Il savait qu’il avait touché sa part, le reste… Incidemment, [MASK] lui avait appris qu’on avait fini par « coller ça au ministère de l’Air, mais ça n’a pas été sans mal, et il a fallu débourser plus de vingt pour cent en pots-de-vin »).
+
+['il', 'elle', 'Il', 'Dieu', 'Elle']	Martial	Vous nous comptez pour rien, non ? – Vous, vous… Quand vous voyez les lampions, vous êtes là comme un enfant, la bouche ouverte. Et [MASK] est trop jeune pour qu’on lui confie une fille.
+
+['le', "l'", 'la', 'son', 'M.']	Bernard	« Il n’y a qu’à recommencer, avait pensé [MASK]. Ce sont des choses qui arrivent. Je trouverai des crédits. » Avec calme et lucidité d’abord, puis fiévreusement, puis avec une rage désespérée, il avait cherché autour de lui des appuis.
+
+['les', 'de', "l'", 'le', 'la']	Mannheimer	Je le déplore, mais c’est inévitable : on ne peut pas s’en passer. Mais, pour moi, songe comme c’est intéressant : des voyages, des relations, l’espoir, si mon entreprise réussit, de monter ma propre affaire patronnée par un magnat de la finance comme [MASK] ;
+
+['messieurs', 'Monsieur', 'croyez-moi', 'monsieur', 'oui']	Thérèse	Fi donc, dit-elle en montrant avec orgueil sa propre chevelure, teinte en un jaune cuivré de feuilles mortes : croyez-moi, [MASK], si vous preniez soin de vous-même, si vous vous habilliez gentiment, vous n’auriez pas besoin de fabriquer des fleurs artificielles pour vivre.
+
+['ne', ',', 'Ne', 'et', 'on']	Bernard	[MASK] croyait l’entendre : – Avant tout, ne pas être dupe ! Peser froidement le pour et le contre. Penser à moi. Ma situation… Mon train de vie. Mon pouvoir. Ma maison, ma femme.
+
+['Noël', 'parents', 'famille', 'mariage', 'cadeaux']	Thérèse	Oh, Dieu ! J’ai honte… J’ai honte lorsque je reçois les lettres, les colis de [MASK], les photos des enfants, les nouvelles de mon fils et tout ce que je vois autour de moi, tout ce désordre, cette corruption, ce gâchis.
+
+[',', '...', '(', 'LE', 'S']	Détang	Si tout était si simple, que feraient des gens comme [MASK] et moi-même ? » Eh bien, tout cela… Elle chercha à exprimer ce qu’elle ressentait, un mélange complexe de colère, de dégoût et de peur. Elle dit seulement :
+
+[',', 'lui', 'eux', 'certains', 'elle']	Thérèse	Ses spectacles, son air, sa gaîté, sa fièvre, il les permettait à [MASK] comme un vieil Indien laisse jouer ses petits dans la prairie : pour d’autres, contrée sauvage et pleine de périls, – pour lui, la plus paisible des campagnes.
+
+['il', 'elle', 'on', 'chacun', 'Martin']	Yves	Il marchait depuis longtemps. La courte journée d’hiver finissait. Le couchant était rouge. – Signe de vent, dit un paysan qui passait. Non loin de là se trouvait une auberge où [MASK] entra et commanda un goûter de lait et de pain bis.
+
+['sa', 'tante', 'ses', 'son', 'grand-mère']	Thérèse	Un soir de juin, il invita chez lui sa mère et [MASK]. Quelle joie ! Une joie stupide, car, enfin, cela l’avancerait à quoi ? Elle était femme et elle ne pouvait se contenter d’aspirations vagues, de ferveur informulée.
+
+[',', 'de', 'se', 'on', 'le']	Bernard	Mais [MASK] savait qu’il y avait eu des manifestations patriotiques le matin même dans divers points de la capitale et, pour le reste, il brodait, il pénétrait par la pensée dans ces appartements invisibles, il sondait les cœurs et les reins de la population parisienne :
+
+[',', 'pas', 'qui', 'et', "n'"]	Martial	[MASK] avait eu le temps de lui faire une piqûre de caféine avant le départ, sur le seuil. À l’ambulance, il fit l’appel de ses hommes ; quand la civière passa près de lui, il se pencha et écarta la couverture qui couvrait le visage du blessé :
+
+['...', 'Excellence', 'm', 'me', 'vous']	Thérèse	Et moi, je ne veux pas leur ressembler ! Vous entendez ? cria-t-il furieusement : je ne veux pas être un gigolo complaisant, puis un forban, un faisan, une canaille pour finir ! Aidez-moi, [MASK]… Vous êtes bonne, vous m’aimez…
+
+['bien', 'tout', '...', 'moi', 'vous']	Thérèse	Tout bas, il dit : « Et [MASK] ?… » Il se trouvait dans la rue. Il se laissa tomber sur un banc, si pâle qu’un passant s’approcha de lui et lui demanda s’il était malade.
+
+['</s>', 'Et', 'En', "D'", 'Mais']	Thérèse	C’est une dépense, mais c’est plus galant. » [MASK] avec sa grand-mère attendait dans la foule et cherchait du regard le bel adolescent en uniforme qu’elle avait vu, pour la dernière fois, pendant sa permission en 1915.
+
+['le', "l'", 'il', 'la', 'son']	Détang	– Je t’en prie, dit [MASK] en lui mettant la main sur le bras d’un geste affectueux, je t’en prie, ne sois pas amer. Imite-moi. J’ai toujours su garder au milieu des pires traverses ma foi en la bonté des hommes, ou plutôt en leur infinie perfectibilité.
+
+['Ma', 'Je', 'me', 'M', 'je']	Bernard	Je m’aperçois que j’avais une vie si comblée, si pleine. Il faut une circonstance exceptionnelle, une maladie ou une épreuve comme celle que nous traversons, pour nous faire reconnaître cette plénitude de vie. – Moi, la mienne me paraît vide, murmura [MASK].
+
+['il', 'elle', 'Il', 'Elle', 'Marie']	Thérèse	Debout devant l’armoire à glace, [MASK] tenait d’une main la lampe de chevet et, de l’autre, elle fardait ses grands yeux effarés, ses joues pâles, sa bouche froide et tremblante. Il la réchaufferait sous ses baisers.
+
+['heures', 'quatre', 'deux', 'huit', 'vingt-quatre']	Martial	C’était une mariée de guerre, en petit tailleur gris, en chapeau noir. « Vingt-quatre heures, songeait [MASK], vingt-quatre heures, dont six sont écoulées déjà. Un jour et une nuit ! c’est tout ? Mon Dieu, c’est tout ?
+
+['...', ',', 'la', 'le', 'Y']	Renée	Dans le vestibule, elle dit : – C’est pour vos enfants que vous vous donnez tant de mal ? Allez, ça n’en vaut pas la peine ! Vous savez tout ce que j’ai fait pour [MASK] ? Eh bien… Elle hésita :
+
+[',', 'se', 'il', 'à', 'ne']	Thérèse	Il aurait voulu garder sa femme. Il n’était pas détaché d’elle, ni des enfants. C’était même étrange à quel point il tenait à eux, se disait-il. Il aurait voulu leur donner le bonheur. Mais [MASK] ne demandait pas le bonheur ;
+
+['le', '.', 'Jean', 'M.', 'la']	Bernard	En écartant le store bleu qui voilait la vitre, on voyait une campagne noire sous un ciel pur et glacé. – Espérons qu’il neigera, dit [MASK]. Il avait beaucoup compté sur ce premier soir en wagon pour le rapprocher de son fils.
+
+['on', 'il', 'elle', 'y', 'chacun']	Yves	On ne distinguait même pas les torrents qui coulaient le long de la montagne, brisant les glaces ; on les devinait seulement à leur odeur de cave fraîche et on entendait un bruit profond et solennel. Très longtemps [MASK] demeura immobile, caressant le chaud pelage du petit chien qui soupirait et grognait doucement.
+
+['il', 'lui', "c'", 'celui-ci', 'lui-même']	Martial	elle lui gardait un souvenir tendre et fidèle, avec ces bouffées de regret poignant où on se dit : « S’il avait vécu… » Mais ni elle, ni personne ne considérait que sa vie était finie parce que [MASK] était mort.
+
+['il', 'et', ',', 'Il', 'puis']	Bernard	[MASK] alluma une cigarette : – Je pensais tomber sur un bec de gaz, dit-il : je vous avouerai même que ça a son charme. Mais, mon petit, réfléchissez. Il n’y a pas d’homme aujourd’hui qui vous offre autre chose que ça.
+
+['</s>', '.', 'Mais', 'Peut-être', 'On']	Bernard	Rien ne prévaudrait contre ça. L’influence, les relations, la renommée, tout passait après l’argent. [MASK] l’avait-il oublié ? Il aurait dû s’en souvenir. Il fit encore quelques pas et aux hommes : – Vous êtes arrivés.
+
+['...', ',', 'à', 'de', "d'"]	Bouboule	Au ciel, de petites étoiles si lointaines… Derrière lui, le son strident, nasillard du disque qui s’achevait : T’en fais pas !… et tout finira très bien. T’en fais pas, [MASK], T’es un type à la coule,
+
+['le', '.', "l'", 'la', 'Jean']	Bernard	– Je n’avais pas d’illusions, dit [MASK]. Dans l’effort qu’il fit pour parler, pour ouvrir sa bouche tremblante, il se donna un coup de dent sur la lèvre ; elle se mit à saigner.
+
+['lui', 'elle', 'moi', 'nous', 'toi']	Bernard	ils étaient gais lorsque l’atmosphère était joyeuse ; ils s’embuaient de mélancolie pour répondre à la tristesse des gens, mais en eux-mêmes ils n’exprimaient rien. Il s’approcha de [MASK] et lui toucha l’épaule. – Dis donc, tu pars avec nous ?
+
+['elle', 'lui', 'eux', 'le', 'son']	Thérèse	À peine changée d’ailleurs, droite et impérieuse comme autrefois, elle darda sur [MASK] le dangereux regard de ses yeux verts : – Ma petite, c’est vous, quelle surprise ! Elle la fit entrer dans un salon noirâtre, plein de miroirs et de chapeaux juchés sur des champignons de bois.
+
+['on', 'elle', 'il', 'Paris', 'passé']	Renée	Il flottait entre ces murs une odeur de poussière et de parfum bon marché. – Vous voyez, je suis à peine installée encore, minauda-t-elle, mais j’ai beaucoup d’espoir. C’est un quartier plein d’avenir. – Où est [MASK] ?
+
+['de', ',', 'par', 'avec', 'encore']	Détang	Il essaya désespérément de se sauver ; il aurait pu, peut-être, pensait-il, en menaçant [MASK] d’indiscrétions, de bavardages, lui faire peur, soutirer de lui quelques secours, mais cela, il ne pouvait pas le faire. C’était trop bas, trop lâche.
+
+['elle', 'lui', 'elles', 'Elle', 'eux']	Thérèse	On leur dirait qu’il vivait à l’étranger pour ses affaires. Il reviendrait de temps en temps chez [MASK], il habiterait dans le même appartement qu’elle, mais ils seraient des étrangers sous le même toit. – Tu ne crois pas que cela vaudrait mieux ?
+
+['son', 'sa', 'la', "l'", 'caractère']	Bernard	Elle éprouvait une irritation profonde envers un être mystique qu’elle ne précisait pas, qu’elle nommait « on », qui avait tantôt les traits de [MASK], tantôt ceux de la femme de ménage qu’elle détestait et, ce soir, ceux du médecin. «
+
+['Chopin', 'Mozart', 'Beethoven', 'Figaro', 'Paris']	Toselli	ils entrèrent dans la salle obscure. C’était l’époque des films muets. De grandes ombres tremblantes bougeaient sur la toile, au-dessus de leurs têtes ; un piano perdu dans les ténèbres jouait la Sérénade de [MASK]. Ils étaient seuls au fond d’une loge.
+
+["s'", 'se', 'il', ',', 'Il']	Bernard	[MASK], brusquement réveillé, se frotta les yeux et entendit le bruit de bottes sur le sable du jardin. Dans la nuit transparente de juin, il vit deux, trois, cinq, dix hommes qui s’approchaient de la maison. Des soldats ? Il se pencha.
+
+["d'", "l'", ',', 'à', 'de']	Yves	C’était trop bas, trop lâche. Un sursaut de pudeur morale arrêtait la tentation : « Ah, non, hein, pas de ça ! Ce serait le dernier coup ! Je ne pourrais pas regarder [MASK] en face, après ça. »
+
+['Il', 'Elle', 'On', 'il', 'et']	Thérèse	Ma femme est là ? » [MASK] répondait mentalement : « Et où serais-je, mon ami, mon chéri, sinon ici, chez toi, à t’attendre, à soigner ce que tu m’as confié : ta maison, tes enfants, ta mère ? »
+
+['terre', 'sol', '...', 'lui', 'un']	Thérèse	Abrupte et sans nuances ? Peut-être. Ce n’était pas sa faute. Et puis, on s’en fout… Ses yeux s’abaissèrent sur [MASK]. En voilà une qui devait être aussi accessible… Mais il n’avait pas le temps de commencer l’attaque.
+
+['moi', 'nous', 'soir', 'matin', 'dimanche']	Thérèse	– Naturellement, quand j’ai la grippe et une gueule comme ça, je ne suis pas dans mon état normal. Je fais du sentiment. Est-ce que vous viendrez, [MASK] ? J’ai des masques nègres. J’ai une salle de bains dallée de vert.
+
+[',', 'il', 'Il', '</s>', 'y']	Bernard	[MASK] croyait retrouver les lignes françaises dans la forêt de Fontainebleau, mais il reconnut bien vite qu’il s’était trompé, que la forêt était peuplée de réfugiés et que le gros de l’armée reculait toujours vers le sud. La forêt ressemblait à un vaste campement de Bohémiens.
+
+['le', ',', 'la', "l'", 'un']	Bernard	il n’était même plus député. Il était l’un des dix ou douze rois occultes de l’heure. Il savait tout ; il était bien vu de tous les partis ; tous le ménageaient ; il obtenait tout. – Je lui tire mon chapeau, disait [MASK]
+
+['Bernard', 'Dominique', 'Robert', 'Didier', 'Jacques']	Détang	Ni Bernard, ni [MASK] ne savaient avec certitude ce qu’il fallait penser de cette affaire de pièces d’avions : les spécialistes s’étaient divisés en deux clans et ne parvenaient pas à se mettre d’accord. La question n’avait pas tardé d’ailleurs à sortir du domaine de la technique pure.
+
+['Elle', 'elle', 'et', 'On', 'Il']	Thérèse	– Mais j’y songe. Croyez bien que j’y songe. [MASK] eut alors la pensée fugitive que cela s’adressait à elle ; elle eut envie de rire et, en même temps, elle était honteuse comme si on l’eût déshabillée en public.
+
+['Elle', 'elle', "C'", 'Marie', 'On']	Thérèse	Sa mère était comme elle : elle avait des aventures… Elle retenait les hommes… Et puis, c’est un autre genre qu’ici. On s’amuse, on jette l’argent. [MASK] est douce et gaie, mais elle est l’épouse, le devoir.
+
+['lui', 'elle', 'lui-même', 'moi', 'eux']	Martial	En même temps il louchait vers un bout de gâteau demeuré sur son assiette et il se demandait comment il ferait pour le manger avec tous ces yeux fixés sur lui ; heureusement son père, en s’adressant à [MASK], détourna de lui l’attention et le rejeta dans son obscurité.
+
+['qui', 'et', ',', 'il', 'elle']	Thérèse	[MASK] mettait en ordre les vêtements de son père, à genoux devant une grande malle cerclée de fer qui contenait, dans les casiers du bas, des souvenirs de sa mère, morte si jeune, des corsages démodés, des robes de soie brochée, du joli linge modeste.
+
+['elle-même', 'lui', 'elle', ',', 'lui-même']	Renée	Toutes ces coquetteries, toutes ces petites roueries qui sont dans le sang d’une femme, elle les connaissait, elle aussi… Si elle voulait, elle saurait se faire assez belle, assez séduisante, assez facile pour lutter avec [MASK] ou avec toute autre.
+
+['Il', 'Elle', 'On', 'il', 'elle']	Thérèse	Mais, décidément, je manque de câpres. Je vais descendre en acheter. » Elle se glissa hors de l’appartement. Elle était vieille et forte, mais elle avait une démarche légère ; [MASK] ne l’entendit pas partir et ne l’entendit pas remonter.
+
+['mais', 'et', 'ni', 'Mais', 'la']	Renée	Les années écoulées, les amitiés féminines, légères et tendres, [MASK] surtout, que tout cela était loin ! Et cette guerre sournoise qui ne ressemblait pas à l’autre, à la grande, quand, mais quand cesserait-elle ?
+
+["l'", 'un', 'son', 'ce', 'ses']	Bernard	Dans l’obscurité, les lampes à arc formaient tout un jeu éclatant d’auréoles, de facettes, de reflets qui faisait tourner la tête à [MASK], déjà étourdi par les tièdes, les étouffantes ombres parfumées de la chambre.
+
+['tendu', 'sur', 'on', 'en', 'personne']	Thérèse	ses lèvres s’entrouvrirent, mais il réfléchit et détourna la tête sans rien dire. [MASK] le regarda : – Oui ? Qu’est-ce qu’il y a ? demanda-t-elle doucement. – Rien. Seulement tu as l’air si… découragée…
+
+['On', 'Il', 'Elle', 'Chacun', '</s>']	Renée	Souvent les hommes ne souhaitent pas d’enfants. Nous avons déjà un fils. Mais il s’attachera au second et… il m’aime. J’ai tant d’amour pour lui. » [MASK] désirait placer de l’argent à l’étranger. Les capitaux devenaient errants, capricieux.
+
+[':', '"', 'le', 'des', ',']	Yves	demanda [MASK]. Il avait quinze ans. C’était un garçon robuste, trapu, le cou un peu court, la tête trop grosse, les épaules larges, avec quelque chose de ramassé en lui, de tendu, de volontaire qui frappait le regard.
+
+['la', 'La', "l'", "L'", 'être']	Renée	-être… il ne savait pas… Il se sentait très las. Il ouvrit la fenêtre et aspira plusieurs fois l’air chaud et qui semblait coller à l’intérieur de sa gorge comme une poix. Il pensa à la mort. Il était désespéré. [MASK] ?
+
+['Be', 'le', 'la', 'ta', 'Très']	Thérèse	Modes » en lettres d’or et, dans l’arrière-boutique, une table ronde recouverte d’un tapis turc ; trois enfants jouaient à la dînette sur cette table, toi, une petite fille de ton âge qui s’appelait [MASK] Brun et un petit garçon…
+
+['ses', 'fait', 'sa', 'une', 'son']	Thérèse	Son mari l’avait ruinée ; elle avait perdu une enfant de vingt ans – la mère de [MASK] ; elle vivait aux frais de son gendre ; mais rien n’avait altéré sa bonne humeur. Au dessert, elle buvait volontiers un petit verre de liqueur sucrée et fredonnait :
+
+['-', 'de', 'en', 'la', ',']	Thérèse	– Tu devrais prendre maman avec toi. Est-ce qu’elle n’aime pas la musique ? – Non, je n’aime pas beaucoup la musique, dit faiblement [MASK]. – Ta mère ne veut pas me suivre, répondit
+
+[',', 'On', '...', 'et', 'on']	Martial	Il le regardait ! [MASK] lui saisit la main : – Ben quoi, mon vieux, mon pauvre vieux, on t’a salement plaqué ? Mais je suis là, tu n’es pas oublié… Ne t’en fais pas, je te guérirai, va…
+
+[',', '-', '...', 'tout', 'de']	Bernard	– C’est lourd, soupirait [MASK] dans une sorte de délire et chancelant sous le poids du barda qu’il portait encore sur son épaule meurtrie. Pauvres types ! comment pourraient-ils m’aider ? Il y en a de plus atteints que moi. Moi, moi…
+
+['...', '-', 'elle', 'Ashley', '"']	Thérèse	Puis, tout près d’elle, une voix : – Tu ne me reconnais plus, [MASK] ? Elle leva les yeux. Non, elle ne le reconnaissait pas, cet homme pâle aux yeux profondément enfoncés, à la démarche lourde, qui s’approchait d’elle et l’embrassait.
+
+['mère', 'bien', 'bonne', 'ta', 'bonté']	Bernard	Sa mère se tourna vers lui avec un sourire ravi : – Tu te rappelles, [MASK], comme tu aimais ça ? Les jeudis de congé, tu te rappelles ? Il considéra avec froideur le souvenir qu’elle faisait surgir devant lui. Délices de la vie familiale !
+
+['moi-même', 'autrui', 'lui', 'autrefois', 'Dieu']	Martial	Je l’aimerais pauvre et malheureux. Il est brave, il est intelligent, mais je ne le respecte pas comme je respectais [MASK]. Il n’a pas de caractère. Il me ferait souffrir… s’il voulait. Mais il n’y a rien à faire.
+
+['elle', 'se', 'une', 'la', ',']	Thérèse	Tout cela avait été gardé pour elle, « quand [MASK] sera grande, elle en tirera parti », disait la grand-mère, mais elle n’avait jamais osé le faire. Elle donna un tour de clef à la malle ;
+
+["d'", 'de', 'tout', 'sans', 'une']	Renée	Elle pensa à ces rêves chauds et coupables qui troublent l’âme la plus sage, mais s’enfuient au matin. Ainsi, il oublierait [MASK] et la vie qu’il avait connue grâce à elle. Il ne la regretterait pas, lorsqu’il posséderait une épouse fidèle et un foyer.
+
+['le', "l'", 'les', 'la', 'un']	Renée	Eh bien, qu’est-ce que vous voulez, il faut ça pour ranimer la flamme de l’enthousiasme. Les civils ont besoin de ça. – Nous sommes jeunes, nous avons besoin de distractions, dit [MASK].
+
+['pas', 'porte', 'voix', 'deux', 'derrière']	Bernard	elle s’asseyait un instant devant la table desservie ; elle cachait son visage dans ses mains et imaginait l’instant du retour : celui où elle entendrait le pas de [MASK] derrière la porte, sa voix, cette petite toux basse. Comme elle l’aimait !
+
+['tout', '-il', 'elle', 'souvent', 'Jean']	Renée	– Il n’est pas bête, disait [MASK] à sa mère ; il s’emballe juste autant qu’il le faut. C’est très curieux : il ne marche à fond pour rien. Il fait parler les autres. Lui-même, il parle beaucoup, mais pour ne rien dire.
+
+['celle-ci', 'Marie', 'Jeanne', 'Isabelle', 'Emma']	Renée	froid, en plein jour, jamais il n’eût avoué si clairement qu’il était las de sa femme, de son foyer, de son enfant. Jamais il n’eût laissé entendre la vérité : qu’il avait revu [MASK] quelques semaines auparavant et qu’elle était de nouveau sa maîtresse.
+
+['la', 'sa', 'le', 'les', 'ses']	Thérèse	Il lui était particulièrement doux d’épater [MASK]. Depuis quelque temps, elle faisait à peine attention à lui ; elle était fiancée… « Fiancée, murmura-t-il en haussant les épaules : une fille de mon âge, on trouve naturel qu’elle se marie, qu’elle ait une vie de femme, quoi…
+
+['se', 'un', 'à', "s'", 'de']	Détang	« Bientôt un garçon comme [MASK], sans fortune et sans avenir, n’importe quel garçon, à condition que la guerre veuille bien le rendre avec un bras ou une jambe sur deux, formerait déjà un appréciable lot. »
+
+[',', 'de', 'le', 'la', "l'"]	Martial	[MASK] avait marché les yeux fixés sur la civière ; c’était le plus atteint de tous ces hommes et il aurait voulu le sauver ; il espérait pouvoir le faire. Le blessé était un paysan, grand, gros, lourd, fort. Il ne parlait plus ;
+
+['Jean', 'le', "l'", 'un', 'Pierre']	Détang	– Moi ? s’exclama [MASK], et des larmes voilèrent sa voix claironnante. Tu me juges bien mal, mon petit. Crois-tu donc que cela n’élève pas le cœur de voir le spectacle merveilleux que donne en ce moment la jeunesse française ?
+
+[',', 'on', 'en', 'convi', 'de']	Bernard	Engagé volontaire à moins de dix-huit ans, blessé deux fois, toute la campagne, tu mérites un peu de repos, et elle aussi… « C’est rigolo, songea [MASK] : dire que je n’aurais qu’un geste à faire, qu’un oui à prononcer…
+
+['Vous', 'Monsieur', 'Oui', 'vous', 'Sire']	Germaine	J’avais le caractère viril. Oh, moi, j’étais déjà très patriote. Je n’ai pas attendu l’invasion, comme certains… J’ai un ami, officier aux colonies. Il me disait : « [MASK], vous avez le caractère romain, antique.
+
+['ART', 'MAISON', 'VENTE', 'TOUT', 'COMMERCE']	GERMAINE	» Sa veuve, restée sans fortune, avait dû, pour vivre, ouvrir un atelier de modiste ; dans l’avenue des Gobelins, une boutique peinte en bleu ciel, portait à son faîte : « [MASK], MODES », avec un paraphe d’or.
+
+['le', "l'", 'la', 'son', 'sa']	Thérèse	– Vous me la donnerez après notre mariage, mon ami, dit doucement [MASK]. C’était la première fois qu’elle faisait allusion en public à l’union projetée. Elle rougit et repoussa le bijou qu’il lui tendait, une montre en or, à l’ancienne mode, au bout d’une longue chaîne.
+
+['lui', 'elle', 'lui-même', 'la', 'sa']	Thérèse	C’est un double aiguillon qui fouaille, excite, blesse la bête humaine), oui, quand, enfin, tout cela l’abandonnerait, il reviendrait à [MASK]. Il eut la coquetterie de lui demander si elle le reprendrait, si vraiment, un jour, elle pourrait lui pardonner.
+
+['les', 'Les', 'que', 'ses', 'la']	Thérèse	Elle avait voulu sortir et voir de près ce qui se passait : « on » s’y était opposé. Elle se sentait tyrannisée. C’était bien ennuyeux de vieillir. On lui cachait tout. [MASK], à qui elle avait servi de mère, n’avait plus confiance en elle.
+
+['il', ',', 'Pierre', 'son', 'lui']	Bernard	Depuis le matin, [MASK] se sentait souffrant ; il resta couché, une couverture jetée sur lui, les bras croisés derrière la tête. Les pensées qui l’occupaient étaient peu nombreuses, mais elles ne le laissaient pas en repos ; il essayait de les chasser, mais en vain.
+
+['</s>', 'elle', 'il', 'on', 'Papa']	Bernard	– Maman a dit qu’elle vous l’offrait. [MASK] demeura seul, sur le banc, au soleil. C’était une journée orageuse ; sans cesse au loin grondait le tonnerre et les gens qui croyaient entendre le canon l’écoutaient avec crainte.
+
+['il', "j'", 'on', 'et', 'chacun']	Martial	les blessés voyageaient dans les trains de marchandises et les wagons à bestiaux, saignaient, agonisaient, mouraient le long des petites lignes départementales. Dès les premiers, les mauvais jours, [MASK] avait obtenu d’être envoyé dans un poste de secours de l’avant.
+
+['pensa', 'il', 'lui', 'elle', 'et']	Thérèse	Le visage de cette dernière était pâle et préoccupé. [MASK] pensa que c’était le départ du lendemain qui, déjà, gâtait sa joie. Pauvres mères ! Que de larmes, que de nuits sans sommeil pendant quatre ans, que d’angoisses !
+
+['il', 'Adam', 'lui', 'celui-ci', 'on']	Bernard	Plus rien ne pourra lui rendre le souffle ; puisque les amants ont admis qu’il pouvait mourir, c’est fait : il n’est plus qu’un cadavre. Quand [MASK] eut dit à sa femme : – Écoute, toutes ces discussions ne mènent à rien.
+
+["l'", ',', 'la', 'le', 'se']	Thérèse	Quand il eut dit cela, il s’arrêta, pâlit excessivement, marcha quelque temps à travers la pièce, d’un mur à l’autre, puis il revint auprès de [MASK] immobile et lui caressa les cheveux. Il y avait quelque chose d’implacable dans cette douceur ;
+
+['il', '</s>', 'Il', 'on', 'On']	Bernard	Et je ne le ferai certainement pas. J’ai de la conscience, moi ! Je n’achète pas les hommes. Tout se passe au grand jour. [MASK] voulut étudier la question et se trouva submergé par un flot de rapports contradictoires et d’exposés techniques.
+
+['</s>', 'ensemble', '...', '.', 'Oui']	Sapristi	Tenez, nous en reparlerons. Où cela ? Mais, par exemple, chez moi. Le 20. Ma femme reçoit quelques amis. On danse. [MASK], vous m’y faites penser : il faut que je rappelle la chose à… Ici, un nom célèbre jeté négligemment.
+

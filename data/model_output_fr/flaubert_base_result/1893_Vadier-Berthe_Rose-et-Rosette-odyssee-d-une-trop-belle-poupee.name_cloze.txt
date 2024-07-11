@@ -1,0 +1,200 @@
+['il', 'elle', 'qui', ',', 'on']	Polichinelle	— Mais son sort fut bientôt partagé par ceux qui ne le méritaient pas : les pierrots, les arlequins, les poupées, les soldats, tous les innocents, tous les braves. Du haut de sa branche, [MASK] leur faisait des grimaces et leur chantait :
+
+['lui', "n'", "j'", "m'", 'madame']	Mimi	Mais voilà qu’un instant après, et sans que [MASK] eût rien fait de mal, le gros monsieur changea de ton, se prit à la gronder, à la fouetter, finit parla mettre au coin et sortit de la chambre.
+
+['je', 'et', 'heureuse', "j'", 'la']	Chiffonnette	Et puis, écoutez donc, je suis bien aise qu’elle m’ait fabriquée, comme vous dites, parce que sans cela, sans cela... je ne vivrais pas. — Et vous êtes contente de vivre ? vous êtes donc heureuse, [MASK] ? — Heureuse !
+
+['solitude', 'mari', 'père', 'tendresse', 'thérèse']	Jacques	Elle ne pouvait souhaiter à ses enfants un compagnon plus aimable et meilleur, et, émue de pitié pour le pauvre petit qui vivait solitaire à l’âge où l’on a le plus grand besoin d’affection, elle adhéra bien volontiers au désir de [MASK].
+
+['geneviève', 'sophie', 'charlotte', 'marie', 'jeanne']	Coquette	Si tu étais raisonnable, lui dit-elle, tu garderais [MASK] dans l’état où elle est ; tu la verrais tous les jours, et sûrement cette vue t’aiderait à te corriger. — Oh ! non, maman, pour cela je n’en aurais pas le courage.
+
+['julien', 'chacun', 'celui-ci', 'robert', 'pierre']	Jacques	On aurait cru que les deux amis avaient l’habitude de toutes ces choses élégantes, tant elles les étonnaient peu. Il n’y avait rien d’extraordinaire à ce que [MASK], élevé par une mère comme la sienne, eût de la politesse dans les manières.
+
+['ros', 'rose', 'sa', 'la', 'marguerite']	Rose	Ce petit signe amusait beaucoup [MASK], qui en avait elle-même un sur le cou : « Grâce à cela, disait-elle, si des Bohémiens nous volaient, Rosette ou moi, comme ces enfants dont nous avons lu l’histoire, ils auraient beau nous déguiser, on pourrait toujours nous reconnaître.
+
+['</s>', '"', 'il', 'elle', 'on']	Mathilde	Bonjour, madame ! » et « au revoir et adieu », et « je vous remercie, » enfin tout le petit bagage de politesse en usage dans le beau monde. [MASK] ne pensait plus qu’à cette poupée ; elle en rêvait la nuit et le jour.
+
+['celle-ci', 'elle', 'elle-même', 'celle-là', 'marie']	Georgina	Ce qui n’est plus utile est vite indifférent. a dit un poète. Notre héroïne était devenue si indifférente à [MASK], que celle-ci en fit cadeau à sa petite cousine Amélie pour son jour de naissance, à la condition toutefois qu’elle en aurait grand soin.
+
+['pauvreté', 'qui', 'elle', 'pauvre', 'misère']	Diamantine	[MASK] ne s’était pas trompée, elle était échue à de pauvres gens, pauvres toutefois de cette pauvreté décente et digne qui ne s’abandonne pas, qui ne se laisse pas même soupçonner et fait l’illusion de l’aisance aux observateurs superficiels.
+
+['elle', 'il', 'on', 'je', 'maman']	Françon	Un taureau s’est fâché contre ma robe rouge, il m’a prise sur sa corne et m’a jetée en l’air. Je suis allée tomber à l’autre bout du pré. Pourtant je n’ai eu aucun mal. Mais [MASK] me croyait finie et elle pleurait, elle pleurait...
+
+['m', 'julien', 'murray', 'celui-ci', 'bob']	Gaston	oh ! merci, monsieur ! » dit le petit bossu en me serrant contre sa poitrine. Je sentais son cœur battre de joie ; moi aussi j’étais content ; il était bien le maître qu’il me fallait. « Les deux font la paire, » avait dit [MASK].
+
+['la', "l'", 'un', 'ce', 'des']	Kitty	qu’il vaut mieux les en prier gracieusement, parce que la violence appelle la révolte, tandis que la prière n’éveille que les bons sentiments, et qu’enfin : Plus fait douceur que violence. Quant à l’oncle Campbell, ce n’était pas lui qui faisait de la morale à [MASK]
+
+['il', 'qui', 'et', 'ce', 'mais']	Gargantua	Au moins, si nous nous querellons quelquefois, nous ne nous entre-dévorons pas comme font les hommes quand ils sont affamés et qu’ils n’ont pas de vivres. — Non, [MASK] n’était point méchant, ni fier de sa haute taille ;
+
+['</s>', 'elle', 'il', 'on', 'marie']	Amélie	— Vous allez me faire le plaisir de ne pas bouger de votre lit. » [MASK] eut beau supplier, la bonne, qui avait la raison pour elle, fut inflexible, et la petite fille, après avoir longtemps pleuré, finit par se rendormir.
+
+['beaucoup', 'davantage', 'plus', 'vivement', 'agréablement']	Éva	L’une, avec ses joues rondes, ses yeux riants, son air bon enfant, charma tout de suite [MASK] ; mais l’autre, brune, maigre, les yeux petits et couverts, une plume derrière l’oreille et de l’encre aux doigts, lui plut moins.
+
+['il', '(', 'qui', 'le', 'un']	Kitty	A huit heures. Est-ce convenu ? — C’est convenu, mademoiselle. » L’aveugle et sa fille, qui s’étaient tus pendant la comédie, recommençaient leur concert. [MASK] porta la main à ses oreilles. « Quelle musique enragée ! dit-elle en anglais
+
+['elle', 'il', ',', 'qui', 'en']	Françon	Sa petite fille [MASK] se dépêcha d’apporter ce qu’il y avait de chaises et de tabourets dans la maison, encore n’y en eut-il pas autant qu’il en aurait fallu, quoique plus d’un siège eût deux et même trois occupants. Pour Fairy
+
+['jeanne', 'jean', 'louise', 'pierre', 'marie']	Adrien	Quand, le soir, dans les belles journées d’été, Jacques et [MASK], revenus de leur travail, poussaient tour à tour le fauteuil roulant, la petite leur disait de sa voix caressante : « Comme c’est gentil d’avoir deux frères ! »
+
+['elle', 'on', 'il', 'chacun', 'celui-ci']	Adrien	Il n’y avait guère de réjouissances d’enfants où l’on n’eût pas recours à eux. Si [MASK] variait à l’infini ses sujets et sa mise en scène, ses pièces se ressemblaient toutes par la morale.
+
+['cendrillon', 'jeunesse', 'perrault', 'grimm', 'andersen']	Florian	je ne sais plus quoi imaginer pour vous amuser. Ah ! j’ai appris une fable ce matin ; voulez-vous que je vous la dise ? » Il fait signe que oui, et elle lui récite la jolie fable de [MASK], la Brebis et le Chien.
+
+['sa', 'elle', 'la', 'celle-ci', 'marthe']	Christine	N’étant pas riche, elle travaillait pour les pauvres et leur faisait l’aumône de son loisir, de son repos. Ses filles, leurs leçons finies, se joignaient à elle, et [MASK], qui était très bonne malgré ses travers, exécutait un nombre considérable de coutures de chemises et d’ourlets de jupons.
+
+['julien', 'il', 'candide', 'celui-ci', 'elle']	Jacques	On se bouchait les oreilles à cette musique, et pas un sou ne tombait dans le chapeau de l’aveugle. « Pauvre gens ! dit [MASK] à son ami, nous leur donnerons quelque chose ce soir, n’est-ce pas ?
+
+['sam', 'octave', 'gabriel', 'julien', 'marie']	Harry	— Non, répartit-elle, j’ai une autre idée. » Elle s’approcha de l’aveugle : « Prêtez-moi votre violon, mon bon père, » et, sans attendre son consentement, elle s’empara de l’instrument et le tendit à [MASK].
+
+['</s>', '"', 'et', 'enfin', 'puis']	Diamantine	« Qu’elle est gentille ! » s’écria-t-on. Et on la rappelait, et il fallut relever le rideau je ne sais combien de fois. [MASK], on le devine, prenait pour elle la bonne moitié de tout cela.
+
+['</s>', 'il', 'elle', '"', 'et']	Emma	Il ne répond pas, se promène farouche à travers le salon, puis se laisse tomber sur un siège et met la tête dans ses mains. [MASK] s’approche : « Vous vous ennuyez, monsieur, voulez-vous voir ma poupée ? Regardez, elle ferme les yeux ;
+
+['il', 'elle', 'cela', 'tout', 'celui-ci']	Georgina	Un matin qu’il la trouva seule au salon, il s’en empara et se disposait à la guérir de toute sorte de maux, quand [MASK] arriva juste à temps pour la soustraire à ses soins. Depuis ce jour, elle eut une extrême attention à la tenir hors de la portée du terrible praticien.
+
+['il', 'elle', 'je', 'tu', 'alors']	Gaston	« — Prends-le, si tu veux, lui cria [MASK], vous vous ressemblez, les deux font la paire, je te le donne. « — Merci ! oh ! merci, monsieur ! » dit le petit bossu en me serrant contre sa poitrine.
+
+['"', ',', 'jésus', 'marie', 'et']	Boileau	une vocation, irrésistible ou crue telle, lui avait fait abandonner la maison paternelle pour s’enrôler dans une troupe de comédiens. Il avait cependant fini par reconnaître que, pareil à ces poètes dont parle [MASK], qui « prennent pour du génie une ardeur de rimer », il s’était illusionné sur son talent dramatique
+
+['elle', 'il', 'chacun', 'paul', 'julien']	Cécilie	Chaque soir, la foule se portait au théâtre, de plus en plus nombreuse, et le vieil artiste s’écriait : « Nous aurons cent représentations ! » Ils les auraient eues peut-être si [MASK] avait pu supporter les fatigues de sa nouvelle vie.
+
+['dieu', 'jésus', 'cela', 'jésus-christ', 'la']	Diamantine	et, au lieu d’habiter un cinquième étage, ce qui essouffle maman quand elle monte, nous aurons une jolie, jolie villa, avec une véranda, une terrasse et des fleurs, beaucoup de fleurs pour maman qui les aime tant. » Le dimanche tout entier était consacré à [MASK].
+
+['la', 'elle', ',', 'qui', 'même']	Kitty	La princesse et le bouffon furent rappelés, puis ce fut au tour du machiniste et de l’imprésario de recevoir des félicitations. Toute la compagnie les fêta, et [MASK], comme elle venait de s’y engager, ne leur garda pas mauvais visage. CHAPITRE XXXI.
+
+['marguerite', 'jeanne', 'paris', 'marie', 'juliette']	Diamantine	enfin on y parvint, et, le sac bien secoué, la menotte potelée y rentra et cette fois ne ramena qu’un billet, un seul. Le sort de [MASK] était fixé ; mais ce n’était pas la protégée de Loulou qui l’avait gagnée.
+
+['</s>', 'personne', 'rien', 'il', 'on']	Rosette	Sa malice était douce, sa gaieté de bon aloi, une gaieté bien française qui faisait rire tout le monde et ne faisait pleurer personne. [MASK] ne pouvait en croire ses oreilles. « C’est bien lui, se disait-elle, mais à quel point il a changé ! »
+
+['encore', 'beaucoup', 'de', 'bien', 'tout']	Jacques	Elle trouvait [MASK] plus changé que sa mère et sa sœur. Le petit frisé d’autrefois, grandi et maigri, avait gardé sa toison bouclée, ses jolis traits et ses yeux intelligents ; mais la gaieté qui jadis illuminait continuellement son visage n’y paraissait plus que par instants.
+
+['dieu', 'marie', 'jésus', 'bethléem', 'david']	Marthe	L’épreuve la plus rude s’adoucit aussitôt qu’elle est acceptée de bon cœur ; notre poupée sentit, au milieu de sa douleur, une joie véritable à la pensée que par elle les enfants de [MASK] auraient du pain.
+
+['mais', 'et', ')', '-', 'pourquoi']	Mathilde	; [MASK] n’avait-elle pas dit à sa mère au moment du départ : « N’est-ce pas, maman, tu l’enfermeras tout de suite, je veux la conserver pour mes enfants. » Mais on est aussi souvent trompé en bien qu’en mal ;
+
+['ça', 'je', 'cela', 'tu', 'ca']	Françon	plus tard, quand les petits sont éclos, nous les regardons ouvrir leurs grands becs et crier. C’est très amusant ; ils n’ont pas peur de nous, les oiseaux, parce qu’ils savent que [MASK] ne leur fait pas de mal et moi encore moins.
+
+['elle', 'moi', 'vivre', 'toi', 'lui']	Mathilde	Notre héroïne, enchantée comme on pense d’avoir échappé à l’aventure de l’armoire, aima tout de suite sa nouvelle maîtresse, qui ressemblait à [MASK] comme une sœur. Elle avait les yeux aussi bleus, les cheveux aussi blonds, le teint aussi rose ;
+
+['</s>', 'chacun', 'tout', '--oui', 'le']	Gaspard	Il ne l’avait plus trouvée, et aussitôt il avait fait retentir sa sonnette. On était accouru ; il réclamait sa petite Mimi à grands cris, et promettait au voleur un châtiment exemplaire. [MASK], en prenant la poupée, n’avait pas eu de méchantes intentions.
+
+['vie', 'famille', 'france', 'vivre', 'foi']	Fifine	J’ai voulu me récompenser en faisant plaisir à nos filles, et puis, ma chère amie, l’emplette de cette poupée était aussi une bonne action, comme tu vas en juger. » Il raconta histoire de [MASK] ; quand il eut fini, sa femme l’embrassa
+
+['le', 'marx', 'dieu', 'paul', 'enfin']	Harry	C’est mon oncle qui serait ravi de voir un enfant qui crée ainsi des automates, lui qui aime tant la mécanique ! — Quel dommage, ajouta [MASK], que son rhumatisme l’ait retenu à la maison ! — Nous donnons des représentations en ville, se hâta de dire
+
+[',', ')', '"', 'et', ':']	Kitty	— Vraiment ? répliqua [MASK]. Eh bien, venez ce soir à la villa Campbell. A huit heures. Est-ce convenu ? — C’est convenu, mademoiselle. » L’aveugle et sa fille, qui s’étaient tus pendant la comédie, recommençaient leur concert.
+
+['elle', 'il', "c'", 'on', "n'"]	Jacques	Ah ! si seulement [MASK] était ventriloque ! » CHAPITRE XXVII. LA DANSEUSE ESPAGNOLE. Janvier avait passé, février aussi ; mars était là avec son soleil, avec la sève qui remonte aux branches, avec les bourgeons luisants, l’herbe nouvelle, et les premières fleurs.
+
+['il', '</s>', ',', '"', 'qui']	Kitty	[MASK] le regarda avec étonnement et les sourcils un peu froncés, comme pour dire : « Je n’aime pas cela, il faut être économe et ne pas jeter l’argent par les fenêtres, quand on est pauvre. »
+
+['elle', 'chacune', 'elles', 'madame', 'celle-ci']	Christine	Les poupées seraient les élèves d’un pensionnat dont elle serait la directrice. Les messieurs seraient les examinateurs. On y consentit ; [MASK] était si imposante avec son savoir qu’on faisait en général ce qu’elle voulait. Les poupées furent rangées en demi-cercle, ayant chacune sa maman derrière elle pour lui souffler.
+
+['celle-ci', 'celui-ci', 'ceci', 'mademoiselle', 'toujours']	Kitty	Il obéit et revint bientôt verser la recette sur le guéridon où s’appuyait [MASK] : « Pour les pauvres, mademoiselle. — Comment ! je ne veux pas ! Cet argent est à vous, vous l’avez gagné. — C’est pour cela que nous pouvons en disposer.
+
+['elle', 'il', 'on', 'ils', 'et']	Éva	; [MASK] jugea que c’était bien haut. L’appartement où elle fut introduite ne ressemblait en rien aux pièces somptueuses dont elle avait l’habitude. Pas de velours, pas de dorures, des meubles très simples, des tentures de cretonne ;
+
+['moi', 'lui', 'vous', 'toi', 'études']	Adrien	Mais le docteur la guérira, n’est-il pas vrai, papa ? — Je l’espère, ma fille ; mais laissez parler ces messieurs, je crois qu’ils ont décidé quelque chose. — Oui, dit l’oncle Campbell, voilà monsieur qui pense obtenir une bourse pour [MASK] ;
+
+['jacques', 'jeanne', 'maurice', 'marcel', 'robert']	Kitty	« C’est vrai, dit un petit garçon, moi j’ai vu la petite demoiselle mettre la poupée sur le banc et se cacher derrière l’arbre, j’ai bien pensé que c’était pour faire une attrape. — Fi ! s’écria [MASK], fi !
+
+['elle', 'lui', 'dignité', 'eux', 'moi']	Éva	; beaucoup d’élégance cependant et quelque chose d’agréable et de riant qui mettait en joie. Une jeune et jolie dame, qui était au salon, occupée d’un ouvrage d’aiguille, ne put retenir un cri de surprise lorsque le grand monsieur entra avec [MASK].
+
+['le', 'plus', 'moins', 'ressentiment', 'mécontentement']	SAPIN	LE [MASK] MÉCONTENT. Le lendemain, à la fois désiré et redouté, arriva. Les jours sont courts à la fin de décembre, et il se trouva que, cette veille de Noël-là, le temps était si couvert qu’à trois heures on n’y voyait plus qu’à peine.
+
+['elle', 'henriette', 'sarah', 'fanny', 'jane']	Rose	Jamais, avant d’être clouée sur son lit, [MASK] n’avait songé à plaindre les oiseaux en cage ; c’était sa réclusion qui lui avait fait sentir ce que devait être la captivité pour ces petits habitants de l’air. Ses jambes immobilisées lui enseignaient à plaindre les ailes prisonnières.
+
+['venez', 'madame', 'dit-elle', 'monsieur', 'dit-il']	Christine	« Oui, dit-elle, tu as bien fait. » Et, ouvrant la porte d’une chambre voisine : « Marcelle, [MASK], venez voir ce que vous apporte votre père. » Deux petites filles de neuf à dix ans se précipitèrent dans le salon.
+
+['possible', 'personne', 'moi', 'jamais', 'lui']	Jacques	mais, autant que [MASK], il était soigné dans sa personne ; son linge était blanc et ses habits bien propres. Il y avait foule devant le théâtre miniature, on riait et on applaudissait le jeune artiste bossu. C’était un Polichinelle, dégénéré ou perfectionné, selon les goûts.
+
+['</s>', 'il', 'je', 'cela', 'on']	Jacques	ce dont je suis sûre, c’est que, si le mouvement perpétuel est possible, c’est toi qui le trouveras. » [MASK] ne se vantait pas en disant qu’il s’entendait au mécanisme des jouets, et il lui arriva plus d’une fois d’en réparer à merveille
+
+['il', 'elle', 'et', 'celui-ci', 'puis']	Stentor	Une fois qu’elle fut sur le plancher, [MASK] la considéra un instant, tourna autour d’elle d’un air indécis, puis la reprit dans sa robuste mâchoire, et se mit à la secouer avec l’entrain d’un jeune chien qui s’amuse.
+
+['longtemps', 'peu', 'long-temps', 'quelques', 'plusieurs']	Ésope	; c’était la mère Babet qui lui avait appris à lire et à écrire ; son instruction n’était pas fort étendue, mais il avait infiniment d’esprit. Modestie à part, c’est un fait reconnu depuis [MASK], que les bossus sont toujours spirituels.
+
+['on', 'elle', 'il', "l'", 'qui']	Kitty	A la vérité, rien de pareil n’arriva à Fairy-Queen. Les très belles choses inspirent toujours du respect aux cœurs bien nés, et [MASK] eut avec elle des manières infiniment plus douces qu’avec les autres gens. Fairy
+
+[',', ':', 'et', '"', 'le']	Rose	— Qu’est-ce donc ? qu’est-ce donc ? » demandait [MASK] de son lit. On s’empressa de lui porter la danseuse. «OJacques ! ô Jacques ! » faisait-elle en joignant les mains. Elle ne pouvait rien articuler de plus.
+
+[',', 'que', 'et', 'ni', 'rien']	Coquette	Comme elle ne pouvait regarder [MASK] sans se remettre à pleurer, elle avait hâte de la faire disparaître. Ses frères, toujours mis en train par chaque nouveauté, trouvèrent excellente l’idée d’enterrer la malheureuse. La fosse fut vite creusée sous un lilas ;
+
+['papa', 'maman', 'dis-je', 'dit-il', 'père']	William	« Maintenant, papa, dit-elle, allons-nous-en bien vite, chacun ici me regarde comme une curiosité, et ça m’ennuie. — Messieurs du théâtre, cria [MASK], n’oubliez pas ce soir, à huit heures, à la villa Campbell.
+
+['13', '12', '14', '"', '28']	Emma	« Avez-vous une petite fille ? demandait [MASK]. — Non. — Est-ce pour cela que vous avez l’air si triste ? Papa dit qu’il serait très malheureux s’il ne m’avait pas. J’aimerais faire quelque chose pour vous amuser.
+
+['maman', 'je', 'tu', 'papa', 'vous']	Jacques	Maman, vous vous rappelez la poupée que [MASK] voulait m’avoir ? ma Rosette, comme nous l’appelions, celle-ci lui ressemble tant ! Oh ! mais tant ! que, si elle n’avait pas les yeux noirs, je croirais que c’est elle. »
+
+['qui', ')', 'et', 'père', 'lui-même']	Mathilde	[MASK], après avoir établi la poupée sur la chaise longue, arrangea avec le plus grand soin le trousseau dans les belles petites armoires. Tous ses mouvements étaient élégants et précis. On voyait qu’elle avait beaucoup d’ordre, qualité rare chez les enfants ;
+
+['il', 'elle', ',', 'y', 'ii']	Kitty	[MASK] y avait une vraie cour ; tous les petits habitués du jardin se groupaient autour d’elle ; elle était comme leur reine, et une reine généreuse. Elle apportait des gâteaux, des fruits confits, des pralines, qu’elle distribuait à ses sujets d’une main libérale.
+
+['.', 'tout', '...', 'le', 'la']	Shakespeare	— Quel drôle de nom ! est-ce qu’il est dans le calendrier ? — Non, il est dans [MASK]. — Je ne sais pas ce que c’est. — Je le pense bien. C’était un poète anglais. — Ah ! »
+
+['cela', 'paris', 'catherine', 'marie', 'dieu']	Coquette	tu la verrais tous les jours, et sûrement cette vue t’aiderait à te corriger. — Oh ! non, maman, pour cela je n’en aurais pas le courage. Cela m’est trop pénible de voir [MASK] dans cet état. J’y penserai toujours, toujours ;
+
+['elle', 'ce', 'sophie', 'mademoiselle', 'madame']	Rose	et puis, nous n’aimons pas tant à passer près de sa maison ; ça doit lui faire de la peine de nous voir si dégourdies. — Je ne le pense pas, répondit l’abbé, [MASK] n’est pas envieuse ; c’est une douce enfant bien résignée.
+
+['la', 'tous', "l'", 'ses', 'son']	Mimi	Tous les bruits de la terre : cris d’enfants, roulements de voiture, sonneries de cloches, remplissaient les oreilles de [MASK]. Étourdie, bouleversée, et, cette fois, se croyant bien perdue, elle usa de sa ressource ordinaire, elle ferma les yeux.
+
+['qui', 'bonheur', 'il', 'elle', 'et']	Jacques	[MASK] était devant elle, non plus sombre et soucieux, mais rayonnant, avec du bonheur plein les yeux, et, sur les lèvres, un large sourire qui découvrait toutes ses dents. Il tenait une clé d’acier d’une forme particulière ;
+
+['ce', 'voilà', 'monsieur', 'celui', 'celui-là']	Rose	mon Dieu, est-ce qu’il ne serait pas sorcier ? » L’abbé Paulin arriva fort à propos, qui rassura la bonne vieille au sujet de son petit cousin : « Un beau joujou, [MASK], dit-il, que votre frère vous a fait là.
+
+['lire', 'manger', 'tous', 'voir', 'césar']	Rose	Les enfants sont presque tous bons, et très facilement généreux quand ils y pensent ou qu’on les y fait penser : « Oui, monsieur l’abbé, répondirent ensemble les trois petites filles, vous avez raison, il faut la donner à [MASK]. »
+
+[':', '(', '...', 'par', 'un']	Stentor	Elle s’attendait à être dévorée toute vive, et peut-être lui serait-il arrivé en effet d’être mise en morceaux, quand par bonheur, pour elle, une idée de devoir traversa la cervelle de [MASK]. Son maître s’était donné beaucoup de mal pour lui apprendre à rapporter
+
+['nous', 'elle', 'lui', 'marie', 'soi']	Mathilde	C’est ainsi et sans plus de cérémonie que notre héroïne fut nommée. Sa vie chez [MASK] fut très brillante, mais pas amusante du tout. Elle voyait à peine sa petite maîtresse. Celle-ci était occupée toute la matinée avec sa gouvernante et ses différents professeurs.
+
+['et', ',', "n'", 'y', ';']	Stentor	Cependant la troupe qui poursuivait [MASK] arriva aussi. Après avoir repris haleine, on s’expliqua. Le forestier dit qu’il fallait excuser la bêtise de son chien, à cause de sa jeunesse, appuyant son dire d’un proverbe du terroir : « Jeunesse et sagesse ne s’asseyent pas ensemble sur la même chaise.
+
+['pas', 'non', 'oui', 'tu', 't-il']	Rose	! soupira [MASK], cela n’arrivera jamais. — Qui sait, mon enfant ! dit l’abbé Paulin, Dieu est tout-puissant. » CHAPITRE XXXII. CONCLUSION. Douze ans se sont écoulés. A la place de la maisonnette de cousine Charlotte s’élève aujourd’hui une jolie villa tout habillée de feuillage.
+
+['fai', 'ai', '¡', 'en', '"']	Mam’	Elle s’endormit sur le matin, tout heureuse de ses excellentes résolutions ; mais elle fut bientôt réveillée par le désobligeant refrain de la veille. Messieurs les joujoux, bien reposés par un bon somme, en avaient plus de voix pour crier : [MASK]selle Gargantua !
+
+['ami', 'seigneur', 'enfant', 'lecteur', 'fils']	Amélie	Elle se trompait. « Je te répète, [MASK], dit celle-ci, qu’il serait plus sage de la garder sous tes yeux ; il ne faut pas tant craindre de voir le mal dont on a été cause. Au reste, fais ce que tu voudras.
+
+['été', 'hiver', 'eté', 'esté', 'orléans']	Aladin	! ils en ont vu bien d’autres sous les lambris du palais d’[MASK], où la folle du logis les promène. On aurait cru que les deux amis avaient l’habitude de toutes ces choses élégantes, tant elles les étonnaient peu.
+
+['elle', ',', 'qui', 'et', 'mère']	Christine	[MASK] était née maîtresse d’école, ou plutôt pédagomane ; si elle aimait apprendre, elle aimait encore bien davantage à en faire parade. Expliquer, démontrer, endoctriner, réprimander, exhorter, c’était pour elle la suprême félicité.
+
+['comtesse', 'maman', 'monsieur', 'tante', 'comte']	Mathilde	dit la comtesse, reine des fées, c’est assez joli, n’est-ce pas, [MASK] ? — Oui, maman, c’est joli ; mais ça m’est égal, je ne mets pas d’importance à un nom de poupée.
+
+['elle', '</s>', 'on', "c'", 'celle-ci']	Diamantine	elle dit oui, en soupirant, mais elle le dit, et la loterie fut décidée. [MASK] était à la fois furieuse et désolée. Quoi donc ! on la traiterait toujours comme une pauvre esclave, on disposerait d’elle sans s’inquiéter le moins du monde de ses sentiments !
+
+['il', 'elle', 'on', 'et', "j'"]	Éva	le même soir, [MASK] eut une chemise et un jupon, et, deux jours après, une petite robe toute simple, mais très bien ajustée et très joliment cousue. « C’est parfait, mes enfants, leur disait leur mère, ce n’est pas perdre son temps que d’habiller des poupées
+
+['celui-là', 'nous', 'moi', 'un', 'lui']	Jacques	mais il avait de beaux cheveux blonds, le teint délicat, des yeux bleus splendides, et sur les lèvres un sourire charmant. C’était un enfant comme [MASK], un peu plus âgé peut-être, pauvre pareillement, cela se voyait au métier qu’il faisait et à ses vêtements élimés ;
+
+['elle', 'il', 'on', '</s>', 'jeanne']	Mathilde	; la jalousie élevait son mur de glace entre la Reine des Fées et les simples personnes, et aucune liaison ne se formait. Toujours les inconvénients d’une trop grande beauté. Quelquefois [MASK] la prenait avec elle lorsque sa mère la conduisait au Bois.
+
+['gr', 'cordon', 'barbe', 'ray', 'clair']	Satin	[MASK]-Bleu et ses compagnes abaissèrent leurs regards et virent au-dessous de leur vitrine, dans un tiroir resté à demi ouvert, une affreuse poupée toute sale, toute chauve, avec une plaie béante en travers du front. « Fi ! le monstre ! s’écrièrent les trois beautés.
+
+['il', 'elle', 'on', 'je', '"']	Bleu	» Et des sourires, des révérences, des respects ! Satin-[MASK] comprit que cette vieille dame, toute rose sous ses cheveux blancs, était très riche et avait l’habitude de faire beaucoup d’emplettes, et elle se prit à espérer.
+
+['quoique', "quoiqu'", "qu'", ',', 'en']	Kitty	Mathématicien, physicien, mécanicien, l’oncle Campbell, comme quantité de savants, ne remarquait jamais les défauts de détail, et, [MASK] ayant un excellent cœur, il la voyait parfaite et la préférait à ses frères.
+
+['ne', 'lui', 'la', 'dieu', "n'"]	Gaspard	Paris est si grand ! C’était bien là, en effet, l’idée de [MASK], abandonner la poupée sur le pavé ; mais en ayant soin que personne le vît. Le jour commençait à peine, les rues étaient encore à peu près désertes ;
+
+['lui', 'pierre', 'jacques', 'jean', 'son']	William	Quant à [MASK], l’autre frère, il disait en badinant que son instrument à lui c’était l’admiration, et il en jouait à souhait, ayant des mains comme des battoirs et une poitrine qui lui permettait de crier bravo de façon à être entendu d’une lieue.
+
+['la', "l'", 'guerre', 'droit', 'travail']	Polichinelle	De chacune il ressortait que la sagesse et le bonheur consistent à être satisfait de sa destinée, quelle qu’elle soit, et que, si l’on n’est pas beau, il faut doublement s’efforcer d’être bon. Certes, on riait devant le théâtre de [MASK]
+
+['</s>', 'dieu', 'chacun', 'terre', 'lui']	Rose	S’il était l’horloger des parents, il était aussi l’amuseur des enfants. Il fabriquait mille petits jouets qu’il leur donnait libéralement, et eux, en reconnaissance, apportaient à [MASK] des fleurs et des fruits, suivant les saisons. Quelquefois aussi des oiseaux ;
+
+['et', ',', 'elle', 'ce', '"']	Cécilie	[MASK] n’allait à aucune école ; le soir, son père lui préparait ses devoirs, et elle étudiait seule dans la journée avec une grande conscience, car elle avait un ardent désir de devenir très instruite pour aider un jour ses parents. Elle n’avait jamais eu de jouets
+
+['elle', 'sarah', 'a', 'alice', 'jeanne']	Mimi	[MASK] crut que son papa était devenu fou, et elle en fut toute triste. « Ne vous chagrinez pas, mignonne, lui dit alors une petite voix, votre papa n’est pas fâché, tout cela est pour rire. »
+
+['il', "s'", 'qui', "c'", "l'"]	Gaspard	Tous étaient des gens sûrs, [MASK] était regardé comme un honnête petit garçon, et, en effet, il l’avait été jusqu’à ce jour ; on conclut que la poupée avait été enlevée par quelqu’un d’étranger à la maison, et on dit au jeune cireur de chaussures qu’il pouvait aller dormir
+
+['elle', 'lui', 'moi', 'celle-là', 'cela']	Rose	mais, quand je serai grand, elle n’aura plus besoin de travailler, et [MASK] non plus ne travaillera qu’autant que ça lui fera plaisir. — Que comptes-tu donc faire ? — Papa cherchait le mouvement perpétuel ; je le trouverai, moi. »
+
+['confiance', "d'", 'place', 'de', 'valeur']	Jacques	La bonne marchande prenait de plus en plus [MASK] en amitié. Le jeudi, quand il n’y avait guère de commissions à faire et pas beaucoup de clients, elle l’emmenait dans l’arriere-magasin et, sachant qu’il aimait la mécanique, elle remontait, pour l’amuser, quelques jouets à mouvements.
+
+['il', '</s>', 'elle', 'on', 'qui']	Fifine	— Croyez-vous, monsieur ? Oh ! alors prenez-la. — Tiens, voilà quatre louis ; la poupée vaut peut-être davantage, mais je ne suis pas millionnaire, moi. » [MASK] n’en revenait pas de voir des pièces d’or dans sa main ;
+
+['elle', 'on', 'il', 'vous', 'tu']	Jacques	mais tant ! que, si elle n’avait pas les yeux noirs, je croirais que c’est elle. » Et, un moment après, elle s’écriait : « Maman ! c’est elle, regardez, elle a ce petit signe dont [MASK] nous avait parlé, vous vous rappelez ?
+

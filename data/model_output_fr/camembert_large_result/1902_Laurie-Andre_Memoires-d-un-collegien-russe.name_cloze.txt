@@ -1,0 +1,200 @@
+['lui', 'elle', 'moi', 'vous', 'toi']	Dmitri	— Je remets son dictionnaire en place, lui dis-je, croyant inutile, par égard pour [MASK], de parler du papier dont il faisait mystère et qui du reste ne se trouvait pas dans le pupitre. Il l’avait emporté, ainsi que je le supposais.
+
+['enfin', 'Bonaparte', 'Napoléon', 'soudain', 'face']	Sacha	Tant d’émotions m’avaient brisé, et jamais, dans ma courte vie, je ne m’étais senti si fier, si heureux et si navré à la fois. Au premier moment je n’avais, pour ainsi dire, éprouvé aucun étonnement à voir paraître [MASK] à l’audience
+
+['</s>NOTUSED', 'M', 'la', 'l', '«']	Bonapartichko	mais cet épisode avait laissé sur ma cervelle une impression tenace. Il faut dire aussi que, si mes idées n’étaient pas nombreuses, je m’attachais à celles que j’avais avec un entêtement tout particulier. Celle de [MASK]., l’envahisseur de la patrie sainte
+
+['pour', 'toute', 'à', 'de', 'dans']	Moscou	Et puis des Frantsouz 23 aussi... Comment sont-ils faits, ces Frantsouz du diable, hein ?... Père m’a conté l’histoire de ce Bonapartichko 24 qui vint ici nous démolir nos izbas et nous prendre [MASK] la Sainte. Ah ! le vilain diable de Bonapartichko !
+
+['Il', 'On', 'II', 'Chacun', 'Monsieur']	II	Donne un cabinet à ce garçon ! lui cria le maître. Et qu’il ne soit pas trop cher, ou tu auras affaire à moi !... » [MASK] rentra chez lui en rabattant brutalement la porte, et je me laissai conduire jusqu’aux combles de la maison.
+
+['Maman', 'Madame', 'Louise', 'Mère', 'Alice']	Porphyre	Dix minutes ne s’étaient pas écoulées que le rhume sévissait de plus belle. [MASK] en détresse me faisait des signaux désespérés, mais je n’avais pas coutume d’emporter des douzaines de mouchoirs dans mes poches, et je n’avais rien à lui offrir.
+
+['Louis', 'Pierre', 'Georges', 'David', 'Paul']	Térentieff	l’un était grand, de la taille et de l’allure de [MASK], les deux autres plus petits. Ils portaient de longs touloupes, des plaids remontés jusque sur le nez, et le plus grand des trois avait la casquette blanche de la première classe du gymnase.
+
+['Mahomet', 'Tintin', 'Charlie', 'Voltaire', 'Picasso']	Capiton	dis-je en riant moi-même au souvenir de la caricature de [MASK]. — Mais oui... on a des idées comme ça... ici tout le monde a les cheveux ras et ça te donne un air... un air... particulier », ajouta poliment
+
+['Joseph', 'Charles', 'Victor', 'Georges', 'Pierre']	Gavruchka	J’appris encore que [MASK] était d’un naturel farouche et irascible, qu’une lutte ouverte existait entre lui et les élèves depuis un temps immémorial. On se contait sur lui mille histoires. Les petits enfants de la ville le craignaient comme le feu, et il était tenu par eux pour un ogre.
+
+['derrière', 'côté', 'force', 'devant', 'Jane']	Crac	Pendant qu’elles dansaient ensemble, je prenais les pattes de devant de [MASK] et je forçais le brave chien à danser avec moi ; n’y comprenant rien, il essayait, avec des aboiements courts et nerveux, d’arriver jusqu’à mon visage pour le lécher, chose que je ne permettais sous aucun prétexte.
+
+['celui', 'celle', 'chat', 'Lily', 'chien']	Crac	Tu me compares à cette horreur de chien à présent... on voit que tu n’aimes que lui au monde. » Et elle s’enfuit toute fâchée. Je soupirai et je me remis à caresser les longues oreilles soyeuses de [MASK] qui battait le sol de sa queue, d’un air tranquille
+
+['Il', 'Elle', 'il', 'Monsieur', 'Pierre']	Grichine	» m’écriai-je rudement. [MASK] leva les yeux sur moi ; son regard avait une expression extraordinaire... quelque chose de patient, de doux, de résigné... Mais j’eus à peine le temps de le remarquer que ces yeux pétillèrent de sa malice ordinaire. «
+
+['Paul', 'Charles', 'Georges', 'Louis', 'Pierre']	Sacha	Un sentiment d’admiration pour la bonne fortune de notre camarade, mélangé d’une certaine dose de jalousie, s’empara de nous. « Je n’ai que quelques kopecks 49 , dit [MASK] en les faisant sauter dans la poche de son tablier avec un petit soupir.
+
+['enfant', 'François', 'seigneur', 'maître', 'Louis']	Gavruchka	nous verrons une bonne fois !... Rira bien qui rira le dernier... — Prends garde, [MASK] !... rien n’est plus mauvais que la colère pour un homme de ta corpulence ! On se fâche, le sang vous monte à la tête, et crac !
+
+['toi', 'vieux', 'alors', 'maître', 'gamin']	rustaud	Je courus à lui. « Ne tue pas le chien, barine ! criai-je. Donne-le-moi plutôt ! — Qu’en feras-tu, [MASK] ? Ne vois-tu pas qu’il est grièvementblessé ? Je crois qu’il a les reins cassés...
+
+['Pierre', 'madame', 'Madame', 'Charles', 'Albert']	Serge	Le lendemain même, selon le projet que j’en avais formé, je pris [MASK] à part en sortant de l’étude. « Je voudrais te consulter, lui dis-je avec un peu d’embarras. — Sur quoi donc ? — Sur une chose qui t’étonnera peut-être...
+
+['Ivan', 'Vladimir', 'Alexandre', 'Boris', 'Moscou']	Goltchov	A Sitovka j’avais toujours dévoré mon pain noir du plus franc appétit, et bu avec délices l’eau limpide de la fontaine. Peu habitué à la viande, celle que m’offrait [MASK] me causait un dégoût presque insurmontable, et le pain frelaté, l’eau saumâtre, ajoutaient encore à cette impression.
+
+['lui', 'Jésus', 'Marie', 'elle', 'et']	Agathon	Mon père la tenait sur ses bras, recueilli et grave ; [MASK], debout devant les saintes Icônes, les yeux levés au ciel, étendait sur elle ses deux mains, tandis qu’agenouillé à ses côtés, je lui tendais la coupe remplie d’eau bénite.
+
+['un', 'clairement', '</s>NOTUSED', 'le', 'encore']	Porphyre	« Vous avez entendu ma question, accusé ? quelles étaient ces deux personnes ? » Et comme je me tais toujours. « Celui-ci n’en était-il pas un ? » crie l’avocat d’une voix tonnante en me désignant [MASK]. Lui aussi !
+
+['toi', 'maman', 'maintenant', 'papa', 'alors']	Sacha	quand j’eus fini, elle se mit à me lécher les mains. Ses yeux avaient une expression vraiment humaine. « Maintenant il faut l’emporter chez nous. Veux-tu m’aider, [MASK] ? » Mais elle me boudait et refusa de me répondre.
+
+['Moi', 'Oui', 'Maintenant', 'Ami', 'Désormais']	Sacha	Ce ne fut pas sans une promesse que nous échangeâmes solennellement. « [MASK], dès que je serai grand et que j’aurai acquis une position convenable, je viendrai te chercher, où que tu sois. Ne l’oublie pas !
+
+['il', 'Il', 'Jack', 'elle', 'on']	Crac	En se retournant, affolé, [MASK] avait trouvé sous ses crocs le large fond de culotte du maladroit et il les y avait plantés... et je ne doutai pas qu’il tînt aussi la doublure du pantalon, à en juger par les contorsions du patient !
+
+['il', 'Il', 'lui', 'je', 'elle']	Porphyre	Absorbé par l’attention qu’il donne à l’examen, il garde imprudemment mon billet en main sans le lire. Un des juges le lui demande ; [MASK] sort de son rêve, voit le papier et le tend tout ébahi à l’examinateur.
+
+['Ah', 'Oh', 'Quoi', 'Non', 'Hé']	Dmitri	Un vieux monsieur à cheveux blancs, enveloppé de riches fourrures, l’accompagnait. Tout à coup elle quitta son compagnon et, venant droit à moi, elle s’arrêta court. « [MASK] !... tu ne me reconnais donc pas ! me cria une voix joyeuse.
+
+['maman', 'Mademoiselle', 'Marie', 'Maman', 'bébé']	Sacha	A partir de ce jour, la poupée, qu’on avait baptisée « Mademoiselle », ne quitta plus les bras de sa maman. Elle partagea même les leçons que mon père donnait à [MASK], qui en tirait un profit merveilleux selon moi.
+
+['«', '...', '-', '–', '»']	Porphyre	[MASK]. Toi !... Lui !... » répétait-il plus bas d’un air dramatique. Il se leva en sursaut et fit quelques pas avec égarement dans le petit jardin. Puis il revint vers nous et, prononçant d’une voix de basse profonde ces mots bien connus : « Je n’ai pas de chance
+
+['!', 'II', '»', '[...]', 'Ier']	Illitch	l’un d’eux se levait gauchement : « La vie est dure, Fédor [MASK] ; le repos te sera doux. — Oui, frère. — Puisses-tu l’avoir éternel, père ! — Je te remercie. — Dieu te soit en aide !...
+
+['Joseph', 'Pierrot', 'Roland', 'Alexandre', 'Pierre']	Porphyre	! Il fallait être fou ! Il avait donc chassé [MASK] ; mais celui-ci, avec son ordinaire aplomb, s’était installé sur les marches de la porte centrale, et les plus furieuses sorties du portier n’avaient pas réussi à l’en déloger ;
+
+['Vénus', 'Dieu', 'Marie', 'Juliette', 'Carmen']	Marguerite	avec lui je tremblai à l’apparition de [MASK]... La fin de l’acte me laissa éperdu, palpitant de toute cette harmonie qui ruisselait sur moi à l’improviste. Après cela, tout ne fut plus qu’un rêve délicieux. Une grande cantatrice étrangère chantait.
+
+['lui', 'eux', 'elle', 'moi', 'toi']	Sacha	Je me jetai devant [MASK] et je tournai les yeux vers les combattants. Le loup avait le dessus ! Le sang coulait autour d’eux et tachait la neige de larges plaques écarlates. Je me précipitai en avant, et, d’un coup terrible sur le crâne, j’étourdis le loup
+
+['celui', 'Pierre', 'Paul', 'Georges', 'Jean']	Serge	Je restai pensif, attristé de découvrir des sentiments aussi bas chez un condisciple. Au bout d’un instant, [MASK] qui s’était tû de son côté, releva la tête. « Tout n’est pas perdu !... dit-il. Il faut absolument que tu viennes voir mon père
+
+['on', 'il', 'elle', 'je', 'chacun']	Porphyre	Puis il rit. « Bah ! c’est si drôle de voir la tête qu’ils font tous ! » ajoute-t-il. Mais [MASK] s’aperçoit que ses yeux sont humides, et lui-même ne peut parler, tant il est ému... Il rentre et me raconte tout.
+
+['!', '»', '...', '».', '[...]']	Sacha	D’abord, je l’ai vue si noire et si fluette qu’elle m’avait presque fait peur... Mais, maintenant que la voilà lavée et attifée, elle n’a plus l’air d’un lutin... Et je crois qu’elle m’aimera aussi... Hé ! [MASK]
+
+['mais', 'et', 'maman', 'alors', 'chéri']	Dmitri	Quand je pense, ajouta-t-elle en tombant à genoux à côté du fidèle animal, que je n’avais pour lui que de mauvais traitements et de mauvaises paroles, et qu’il est venu donner sa vie pour me sauver !... Tu avais raison de l’aimer, [MASK]...
+
+['Racine', 'Voltaire', 'Corneille', 'Molière', 'Flaubert']	Sacha	« Bon accent, fit-il d’un air approbateur. Vous allez nous lire ce passage, s’il vous plaît. » Il me tendit un volume de Racine et je lus tout haut le fameux récit (que de fois j’avais entendu [MASK] le dire à mon père !...) :
+
+['monsieur', 'Monsieur', 'alors', 'M', 'Mr']	M.	Il ne se contient que par un visible effort. Un soldat placé derrière lui ayant posé la main sur son épaule pour le maintenir, il la secoue impatiemment. « — Accusé, dit gravement [MASK] le président, qu’avez-vous à dire pour votre défense ?
+
+['lui', 'moi', 'toi', 'ça', 'nous']	Crac	J’étais allongé à côté de [MASK] et je taillais un roseau en forme de flûte avec mon couteau. Et que fait mon lourdaud ? Il veut s’asseoir, perd l’équilibre et tombe de tout son poids (et quel poids !) sur le malheureux chien.
+
+['toi', 'nous', 'moi', 'vous', 'le']	Gavruchka	... s’écrièrent en chœur tous les témoins de cette scène étrange. Que diable fais-tu là ? qu’as-tu à pleurer comme une fille, grand dadais ?... Qui t’a donc enfermé là ?... Nous venons de prendre la clé chez [MASK]...
+
+['celle', 'celui', 'Marie', 'Catherine', 'Marguerite']	Sacha	» protesta le vieux gentilhomme en s’inclinant galamment. La princesse avait pris dans les siennes les deux petites mains brunes de [MASK] qui baissait la tête toute confuse, et elle se répandait en exclamations, moitié françaises, moitié russes, sur la grâce et la beauté de ma sœur.
+
+['cela', 'Vladimir', 'ça', 'Pierre', 'lui']	Térentieff	Les casquettes bleues, blanches et rouges de Saint-Vladimir sont en majorité. « A 8 heures précises les juges font leur entrée. « Immédiatement, on introduit l’accusé. « Nous avons déjà noté, hier, l’impression favorable que [MASK] a produite dès le premier moment sur l’auditoire.
+
+['Elle', 'Il', 'Me', 'Maman', 'Nous']	Tatiana	A peine rentrée, elle avait couru se cacher derrière moi, serrant avec force ma main avec les siennes, si petites et si frêles. [MASK] sourit d’un air de bonne humeur et, nous faisant sa révérence, elle sortit, en promettant de revenir le lendemain.
+
+['glace', 'cheval', 'mort', 'Montréal', 'bicyclette']	Sitovka	il n’y pas à dire, c’est à toi de le gagner !... oh ! je crois déjà y être... Hourrah ! on va montrer à ces empaillés de Moscovites ce qu’on appelle patiner à [MASK] !... »
+
+['Paul', 'Charles', 'Joseph', 'Pierre', 'Georges']	Porphyre	N’oublions pas le coiffeur qui devait t’extorquer des sommes fantastiques pour les heures sans nombre que tu consumais dans son officine... On remarqua en outre : Que le maintien de [MASK] devint gracieux et affecté. On en conclut qu’il prenait en secret des leçons de danse.
+
+['Ivan', 'Alexandre', 'Vladimir', 'tous', 'monsieur']	Térentieff	« Je rougis de confesser jusqu’à quel excès je me suis laissé emporter par ma jalousie et ma haine... Cet aveu m’est trop pénible. Demandez à [MASK] ce qui a eu lieu sur la glace, à la fête du comte Brovsky...
+
+['Napoléon', 'lui', 'Voltaire', 'Alexandre', 'Robespierre']	Gavruchka	Ah ! ah ! mon beau monsieur... on vous y repincera à faire des peurs aux pauvres gens pour leur tourner les sangs... » Ce discours avait été prononcé par [MASK], la face violacée par la colère et les yeux lui sortant de la tête.
+
+['Alice', 'tous', 'Sophie', 'Harry', 'chacun']	Sacha	Tandis que cette élégante fillette portait non seulement une robe, mais un jupon blanc, un pantalon brodé, une fine chemise, des bas, et jusqu’à de mignonnes bottines qui plongèrent [MASK] dans un délire de joie. La poupée fut déshabillée et rhabillée vingt fois pour le moins ce soir-là ;
+
+['Paris', 'quoi', 'tout', 'qui', 'toi']	Saint-Vladimir	! deux fois de plus seulement... et puis on te met à la porte... à la porte de [MASK] ! » Cette idée avait l’air de lui causer un plaisir infini. A partir de ce jour commença pour moi une existence en partie double.
+
+['Marie', 'Jeanne', 'Madeleine', 'Sophie', 'Catherine']	Sacha	Où est-elle ?... où la retrouver ?... Viens, Crac, viens !... m’écriai-je en mettant sous le nez un petit fichu que [MASK] portait habituellement autour du cou, et qu’elle n’avait pas songé à prendre. Tiens ! cherche ! cherche !
+
+['Beethoven', 'Chopin', 'Mozart', 'Molière', 'Debussy']	Térentieff	Le soir même où j’avais résolu d’agir, le hasard, ou plutôt la plus déshonorante indiscrétion, fit tomber entre mes mains le feuillet de musique de [MASK]. L’idée de lui faire supporter les conséquences de ma plaisanterie, si elles étaient désagréables, me vint soudain.
+
+['toi', 'Marie', 'maman', 'Maman', 'Jeanne']	Térentieff	... Je t’ai reconnu tout de suite. J’ai tant crié : « Vive [MASK] ! » que j’en ai mal à la gorge !... » Je tenais toujours ses mains et je la regardais profondément ému. « Que tu es grande !
+
+['Il', 'Elle', 'Socrate', 'il', 'Qui']	Serge	Si on veut arriver, il faut s’appliquer à tout, crois-moi. Ce n’est pas parce que tu soigneras tes mathémat, que ton style ou ton goût littéraire sera pire... au contraire. » [MASK] prêchait d’exemple aussi bien qu’en théorie.
+
+['Il', 'Elle', 'il', 'Pierre', 'Marie']	Porphyre	Il est tout honteux d’être découvert. [MASK] tombe dans ses bras et l’étouffe presque dans son émotion ; il lui dit à mots entrecoupés ce que cette passion dénaturée du gras lui a causé de tourments, combien il a rompu de lances pour lui !
+
+['Pierre', 'Paul', 'Charles', 'Jules', 'Henri']	Porphyre	je m’étonne que tu ne l’aies pas amené aussi ! dis-je en manière d’amère plaisanterie. — Ma foi, je l’aurais bien fait si j’y avais pensé, me répondit [MASK] de si bonne foi que je lui éclatai de rire au nez ;
+
+['Il', 'Elle', 'Pierre', 'Jean', 'Charles']	Porphyre	aussi les deux voyageurs ne tardèrent-ils pas à redevenir luisants de santé. [MASK] engraissa même tellement que ses vêtements devinrent trop étroits, et ses bras, ainsi que ses jambes, prirent une vague ressemblance avec des saucissons, bien ficelés dans leurs manches et leurs canons.
+
+['Pierre', 'Joseph', 'Jean', 'Louis', 'Jules']	Porphyre	!... » Se jetant alors au cou de [MASK] il s’y suspendit, et faillit l’étouffer dans ses embrassements. Le malheureux se débarrassa difficilement de son étreinte et sortit tout rouge et tout ébouriffé de l’algarade.
+
+['il', 'Il', 'qui', 'elle', 'Elle']	Crac	— [MASK] est à la tête de la bande — nous nous mettons à sa poursuite. Maintenant le cheval et son cavalier ne font plus qu’un point blanc sur la route. « Oh ! mon Dieu ! il va se tuer, le malheureux !
+
+['Faust', 'Carmen', 'Manon', 'Mireille', 'Gloria']	Faust	Allons, tire-toi d’ici ; va, pars, disparais !... » Je ne me le fis pas dire deux fois et je courus au théâtre, la tête à l’envers d’avance de ce que j’allais entendre. On donnait [MASK], du maître français Gounod.
+
+['moi', 'toi', 'elle', 'lui', 'nous']	Dmitri	« Enfin ! te voilà, mignonne ! Comme tu es en retard ! Le thé est servi depuis longtemps déjà... Mais qui amènes-tu là ? continua-t-elle en prenant son grand lorgnon à sa ceinture pour me regarder. — C’est [MASK] !
+
+['Pierre', 'Georges', 'papa', 'Joseph', 'Maurice']	Gavruchka	En effet, ce n’est pas dans ce rôle-là que j’avais connu [MASK] jusqu’à ce jour ; c’était bien plutôt dans celui de tortionnaire. Depuis des années, des générations d’élèves grands et petits ont été unanimes à maudire ce tyran domestique et à détester son autorité taquine et humiliante.
+
+['On', 'Elle', 'Chacun', 'Il', 'Maman']	Sacha	Pendant qu’ils jouaient en silence auprès du poêle, les jeunes gens, réunis autour de la table centrale, piochaient ferme le programme de l’examen. [MASK] le préparait aussi, mais avec combien plus de facilité que moi, grand Dieu !
+
+['il', 'on', 'Pierre', 'elle', 'Marcel']	Capiton	Cent pas à peine nous séparent du but, lorsque voilà la courroie de mon patin gauche qui se brise ; le patin tourne, je trébuche, je manque de tomber ; par un prodige d’équilibre je me remets sur pied ; mais déjà [MASK] a touché le poteau.
+
+['on', 'il', 'elle', 'chacun', 'Paul']	Grichine	Je ne voulus pas prendre mal une plaisanterie qui pouvait être faite sans mauvaise intention, et je m’efforçai de rire comme les autres. Cependant [MASK] avait triomphalement débrouillé le mélange de lièvres et de lévriers, et ils couraient maintenant en belle ordonnance sur le tableau noir.
+
+['genoux', 'table', 'moi', 'distance', 'maman']	Vodka	il ne m’avait pas fallu longtemps pour découvrir en elle ces travers. Le plus simple incident, un mot affectueux de mon père à moi ou de moi à mon père, une caresse que je faisais devant elle à [MASK], suffisaient pour la plonger dans des accès d’humeur farouche.
+
+['Victor', 'David', 'Louis', 'Charles', 'Paul']	Capiton	Ce ne fut que le lendemain au gymnase que je revis [MASK]. Il parut ému en me voyant et rougit ; mais, ce qui me surprit singulièrement, il s’avança, me tendit la main devant tous nos camarades, et me félicita de mon succès de la veille.
+
+['Beethoven', 'Mozart', 'Wagner', 'Debussy', 'Verdi']	Beethoven	— Quelle place avez-vous prise ? — Un billet de 3 e galerie de pourtour, que j’ai payé à la caisse en entrant. — Quels morceaux avez-vous entendus ? — De la musique instrumentale : la Symphonie héroïque de [MASK] ;
+
+['écrivant', 'public', 'chantant', 'France', 'poésie']	Tertia	Ces périodes harmonieuses lui causaient évidemment une jouissance artistique très vive, et on voyait que c’était pour lui une souffrance d’entendre massacrer ces beaux vers par une voix traînante, ânonnante, ou un rythme mal placé. Il faut convenir qu’il avait souvent à souffrir de cette façon-là en [MASK].
+
+['Il', 'On', 'Elle', 'il', 'on']	Serge	Sa charité, son courage, nous touchent profondément ! [MASK] apprend l’histoire ; bientôt tout le gymnase en est instruit. On fait une souscription pour les protégés de notre camarade ; chacun donne de bon cœur ce qu’il peut, et on réunit une assez jolie somme.
+
+['Marie', 'Sophie', 'Clara', 'Catherine', 'Mathilde']	Sacha	« Ci-joint un billet de 100 roubles pour ton fils. » Voilà donc mon sort décidé !... Et pas un mot au sujet de [MASK] ! Cet oubli me parut inconcevable ; mais, pour la première fois, je me réjouis qu’elle fût en sûreté chez la princesse.
+
+['lui', 'moi', 'toi', 'elle', 'vous']	Sacha	Et puis, le poids qui pesait sur mon cœur s’allégea tout à coup ; j’étais sûr qu’il savait mon culte pour lui. Lui et moi nous nous comprenions à demi-mot. Je me rappelai cent exemples de sa tendre bonté, pour [MASK], pour moi.
+
+['Jeanne', 'Louise', 'Marie', 'Madeleine', 'maman']	Sacha	« Tu n’as pas été grondée l’autre jour ? dis-je à [MASK] avant d’arriver au vieux monsieur. — Oh !... fit-elle, riant quoique avec une petite moue, ne parlons plus de cela, veux-tu ?...
+
+['lui', 'papa', 'monsieur', 'Monsieur', 'ça']	Strotdmann	Attrape !... Et si mon petit lapin s’est trouvé là, pauvre âme, pauvre pigeon, faut croire que [MASK] avait une mauvaise conscience... sans quoi il ne serait pas quasiment mort d’effroi pour une bestiole comme ça... »
+
+['Joseph', 'papa', 'Charles', 'Pierre', 'Jean']	Porphyre	. — Oh bien ! ce sera pour une autre fois, » dit [MASK] d’un ton encourageant. Et il nous quitta après que nous eûmes convenu de nous retrouver un peu plus tard sur la place, car mon père avait besoin de nous à la maison.
+
+['Pierre', 'lui', 'Nicolas', 'Paul', 'Catherine']	Serge	Il me dit aussi que son ambition était de devenir médecin. Je lui donnai à mon tour sur moi quelques éclaircissements, et il m’engagea beaucoup à venir dîner comme lui, quand je le pourrais, à la pension Goltchov, que [MASK] m’avait indiquée.
+
+['Il', 'il', '</s>NOTUSED', 'Joseph', 'Elle']	Capiton	aujourd’hui je n’en ai plus que le double. Quel est l’âge du père et celui du fils ? » [MASK] descendit d’un pas traînant dans l’arène ; toute sa jactance avait disparu. Il commença par effacer minutieusement chaque trace de craie sur le tableau noir
+
+['Il', 'On', 'Monsieur', 'Pierre', 'II']	Gavruchka	J’ai frappé à la petite porte, à droite du grand portail, celle qui donne directement dans la loge. [MASK] m’a ouvert lui-même. Je suis entré, je lui ai exposé ma requête. Il a absolument refusé de m’ouvrir la classe, disant que c’était contraire aux règlements
+
+['Elle', 'Maman', 'On', 'Il', 'Marie']	Sacha	[MASK] la mit à table à côté d’elle et n’alla se coucher qu’avec son trésor serré sur son cœur. A partir de ce jour, la poupée, qu’on avait baptisée « Mademoiselle », ne quitta plus les bras de sa maman.
+
+['je', '...', 'le', '!', '»']	Dmitri	J’avais dans ma poche un gros morceau de pain de seigle et un magnifique concombre frais. Un déjeuner de prince ! Je trouverais de l’eau en chemin pour étancher ma soif. En traversant le village, je vis maître Lebewohl sur la porte de l’école : « Hé ! dis donc, [MASK]
+
+['nous', 'lui', 'moi', 'eux', 'elle']	Porphyre	Le vocabulaire du dvornik était riche en injures, et il avait visiblement conçu dès la première minute une haine aussi effroyable contre [MASK] que celle qu’il entretenait à notre égard à nous, ses justiciables naturels. Quelques jours se passèrent.
+
+['Pierre', 'Paul', 'Louis', 'il', 'Antoine']	Sacha	Le pain sec, le cachot noir, le fouet peut-être, voilà ce que notre camarade a en perspective ! Nous restons ahuris et inquiets pendant plusieurs minutes, nous regardant en silence. « Écoutez, fait [MASK] tout à coup.
+
+['moi', 'personne', 'nous', 'jamais', 'présent']	Strotdmann	mais je lus sur sa figure ouverte une vive expression de mépris. Depuis ce jour il ne parla plus à [MASK] qu’avec une glaciale froideur. Imitant en cela ma réserve, il ne me dit jamais quels étaient ses motifs, mais il me fut facile de les deviner.
+
+['il', 'on', 'Alexandre', 'César', 'Il']	Porphyre	Peu d’instants après, [MASK] passait fièrement devant nous, juché sur un grand diable de cheval blanc au nez romain, qui reniflait en faisant le beau. Notre camarade s’adressa à nous d’une voix entrecoupée — par la joie, je suppose.
+
+['bravo', 'camarade', 'capitaine', 'colonel', 'messieurs']	Térentieff	Bravo, [MASK] ; bravo ! » criaient mille voix. On tirait des coups de feu. Mes camarades s’élancèrent vers moi pour me féliciter, et le comte Brovsky me mit en possession du vélocipède si envié ; il me complimenta chaleureusement en me serrant la main.
+
+['il', 'Il', 'on', 'Jacob', 'Roland']	Grégorov	en se lançant vers le lapin qui se sauva derrière un tas de raquettes et de filets. Après une courte lutte, [MASK] reparut, poussiéreux et essoufflé, mais tenant par les oreilles l’innocent petit quadrupède, qui marquait par de violents soubresauts combien peu la position était de son goût.
+
+['Lui', 'Il', '</s>NOTUSED', 'Monsieur', 'Pierre']	Capiton	je voulus lui donner une leçon, et, pivotant sur moi-même, je franchis le reste de la distance à reculons, lui faisant face. Je touchai le but ; on eût dit que j’étais porté sur des ailes. [MASK], livide et essoufflé, était encore à vingt pas au moins.
+
+['Il', 'il', 'Elle', 'Je', 'Jack']	Stépan	... Est-ce qu’il peut guérir, crois-tu ?... » [MASK] haussa les épaules de nouveau et cracha deux fois. « Chair de chien ! » marmotta-t-il d’un air de mépris. Le barine toujours en colère se retourna de mon côté.
+
+['sorcière', 'femme', 'diable', 'folle', 'putain']	Ouliana	hé ! holà !... femme, sorcière, [MASK] !... » Ces clameurs firent apparaître une femme âgée d’aspect assez misérable. « Donne un cabinet à ce garçon ! lui cria le maître. Et qu’il ne soit pas trop cher, ou tu auras affaire à moi !
+
+['moi', 'nous', 'toi', 'lui', 'elle']	Crac	« Reste là avec [MASK], lui dis-je, quand je rentrerai à midi nous causerons. — C’est que !... je déjeunerais bien !... — Moi aussi ! incorrigible gourmand ! Apprends à ne pas faire un dieu de ton ventre, mon cher !
+
+['Pierre', 'cheval', 'tout', 'monstre', 'cet']	Porphyre	... La tête me tourna... Mille visions horribles passèrent devant mes yeux... Je sautai à la gorge de [MASK] ébahi, et, le secouant violemment, fou d’inquiétude et de terreur : « De quel côté ? criai-je. De quel côté, animal ?...
+
+['eux', 'lui', 'elle', 'elles', 'vous']	Serge	je causais avec [MASK] de tout, excepté de ce qui m’occupait le plus ; mais toutes ces choses s’accomplissaient au bruit d’une harmonie intime qui ne me quittait pas. Mon corps seul était là, suivant les cours du gymnase, agissant de concert avec mes camarades
+
+['Monsieur', 'Maman', 'Mme', 'maman', 'Madame']	Serge	Le médecin fit sa visite le lundi, comme me l’avait dit [MASK]. Il m’examina minutieusement et parut satisfait de ma constitution robuste. Il me plaça, comme numéro visuel, parmi les « vues longues ». A l’entrée en classe je me transportai donc au dernier banc.
+
+['toi', 'alors', 'maintenant', 'elle', 'moi']	mamouchka	Viens, lui dis-je. Il se fait tard. — Et [MASK] ?... — Suis-moi maintenant, dis-je avec autorité. Nous reviendrons la prendre. » La petite fille se mit docilement à me suivre, non sans retourner fréquemment la tête avec des larmes silencieuses.
+
+['classe', 'Paris', 'Polytechnique', 'police', 'Strasbourg']	Prima	? « Faites entrer le témoin Strodtmann, » dit le préfet des études. On introduisit mon camarade de la deuxième division de [MASK]. C’est un garçon qui ne m’a jamais été sympathique. Il est Allemand par son père, Russe par sa mère.
+
+['toi', 'vous', 'Toi', 'Dieu', 'ta']	Sacha	Je pris alors une résolution envers moi-même. Ce ne serait plus l’ambition ni l’amour-propre qui me pousserait ! Si je devais aspirer désormais à devenir un homme distingué, ce serait pour me rendre digne de [MASK], chère âme bien-aimée...
+
+['Il', 'Elle', 'il', 'Thomas', 'Pierre']	Serge	Je voudrais savoir si tu crois possible qu’un garçon de mon âge arrive à gagner mensuellement une somme assez forte ? » [MASK] réfléchit un moment avant de répondre. « Cela dépend, reprit-il enfin. Il faut d’abord considérer la condition de ce garçon ;
+
+['Elle', 'Maman', 'Il', 'elle', 'On']	Sacha	— Oh ! oui, père ! Jamais plus je n’en ferai à personne ! [MASK] m’a pardonné... C’est la dernière fois, je te le jure, que je l’ai tourmentée !... » Et ce fut, en effet, la dernière.
+
+['il', 'Oscar', 'Léon', 'Jack', 'Fritz']	Crac	Tandis que nous causions, [MASK] avait dévoré à belles dents sa portion de pain trempé dans du lait, et il dormait profondément à mes pieds, tout content, dans son honnête âme de chien, d’avoir retrouvé son maître.
+
+['père', 'papa', 'Père', 'enfant', 'frère']	Mitia	Mais ne te laisse pas décourager, chère âme ; la patience et la persévérance viennent à bout de tout, et, si tu n’es pas très brillant, tu es patient, n’est-ce pas, [MASK] ?... — Oui, père. Entêté aussi.
+
+['Marie', 'Jean', 'John', 'Pierre', 'Monsieur']	Serge	— Mais oui... on a des idées comme ça... ici tout le monde a les cheveux ras et ça te donne un air... un air... particulier », ajouta poliment [MASK]. Je ne pus m’empêcher de rire de sa périphrase.
+
+['Jean', 'Pierre', 'Georges', 'Louis', 'Jacques']	Strotdmann	Mon nom est acclamé comme l’avait été celui de [MASK]. Ainsi que l’avaient pronostiqué nos camarades, nous voilà concurrents pour la course finale. Il est d’usage que les deux champions se serrent la main avant de partir, pour prouver que le concours a lieu loyalement et de bonne amitié.
+
+['tout', 'Paris', 'tous', 'Rome', 'Chopin']	Térentieff	je rends grâce au Créateur qui a permis que ce vieillard inutile formât un nouveau prince pour l’art. Je n’aurai pas vécu en vain ; on dira de moi : « Il fut « le maître de [MASK] !... » A ces paroles mon émotion déborda de mon cœur.
+

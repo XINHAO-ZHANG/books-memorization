@@ -1,0 +1,200 @@
+['all', '"', 'ali', 'al', 'alli']	Jack	allright, [MASK]. » — Attends, un peu mon bonhomme, murmurai-je entre mes dents, et nous allons voir si tu es « allright ». Et nous sortîmes tous les trois, armés jusqu’aux dents, au grand étonnement des Anglais qui pensaient nous avoir pris comme dans une souricière.
+
+['la', ',', "l'", 'vous', 'qui']	Jeanne	— Pauvre enfant ! continua la brave femme que la figure mélancolique de [MASK] avait intéressée, pauvre enfant ! Et vous espérez pouvoir trouver du travail sur une ferme ? Je crains que votre espoir ne soit déçu. N’avez-vous pas quelques amis qui pourraient s’intéresser à vous
+
+['le', "l'", '"', 'les', 'la']	Montépel	La discussion commença avec assez de calme, de part et d’autre, mais on en vint bientôt aux gros mots et je me laissai emporter, malgré mon grand âge, à crier : À bas [MASK] ! quand celui-ci s’avança sur l’estrade pour adresser l’assemblée.
+
+['de', ',', 'la', 'le', 'ta']	Pierre	[MASK] était à sa droite, la fermière à sa gauche. Le père Montépel qui n’était pas orateur de sa nature savait cependant, à l’occasion, donner de sages conseils à la jeunesse. Aussi se décida-t-il à faire un petit discours d’adieux à ses employés
+
+['qui', 'de', 'et', ',', 'se']	Pierre	Vous êtes ici le fils du fermier, et je ne suis que le moissonneur à gages. Puisque vous voulez bien vous-même oublier cette différence, j’accepte les sentiments d’amitié que vous m’offrez si cordialement. Voici ma main. [MASK] serra la main de son nouvel ami, et continua
+
+['Napoléon', 'Bonaparte', 'ceux-ci', 'celui-ci', 'Murat']	Gauvin	Les patriotes s’étaient retranchés, sous les ordres de [MASK], dans le manoir du seigneur Debartzch. Cette maison bâtie en pierre était située au milieu d’un parc et ne possédait réellement aucune valeur, comme lieu de défense.
+
+['il', 'on', 'se', 'les', 'chacun']	Pierre	La conversation en finit là pour le moment, car une allége approchait rapidement de la grève et les travaux de chargement allaient recommencer. Le vieillard s’éloigna pour surveiller les employés et [MASK] resta sur le rivage pour tenir compte des foins embarqués.
+
+['le', 'la', "l'", 'celui-ci', 'Holmes']	Pierre	Le docteur est là, et je vais le consulter pour savoir s’il serait prudent de la déranger. — Veuillez dire au docteur, répondit [MASK], que le frère et le fiancé de la malade sont ici, et qu’ils désirent le voir pour un instant, avant d’aller plus loin.
+
+['il', 'Il', 'et', '</s>', "s'"]	Pierre	Le père Montépel est un homme d’un caractère violent, et il s’était laissé emporté par la colère à dire des choses cruelles et injustes. [MASK] était parti, bien résolu à gagner lui-même sa vie, sans s’occuper des richesses que son père possède et dont il est l’unique héritier.
+
+["l'", "d'", 'la', 'de', 'le']	Jeanne	Il avait atteint un âge où chaque jour pouvait amener des complications sérieuses pour sa santé chancelante, et l’idée d’une mort prochaine lui venait parfois malgré lui. Et que ferait [MASK], alors, seule et sans appui, éloignée de son frère et de son protecteur naturel
+
+['celui', 'lui', 'Celui', 'toi', 'homme']	Jules	N’était-ce pas là des paroles d’espérance ? [MASK] qui aimait sa sœur plus que lui-même et qui aurait donné sa vie pour chasser l’ombre du malheur du sentier de la jeune fille, n’avait-il pas encouragé par ses paroles les sentiments de son ami ?
+
+['Pierre', 'Jean', 'celui-ci', 'Jacques', 'le']	Jules	— Monsieur Pierre, répondit [MASK] en souriant, il me faudrait être bien ingrat pour résister à vos bonnes paroles. Croyez bien que si jusque aujourd’hui j’ai paru éviter la conversation, c’est que je sentais qu’il y avait entre nous la distance qui sépare toujours le maître du serviteur.
+
+['calme', ',', 'en', 'abord', 'douceur']	Pierre	Le vieillard qui avait d’abord réussi à être calme devant la proposition inattendue de son fils, se laissa emporter par la violence de son caractère et répondit à [MASK] d’une voix rendue tremblante par la colère : — Ah ça ! monsieur mon fils !
+
+['il', 'on', 'elle', "j'", 'chacun']	Pierre	Le père Jean-Louis avec qui [MASK] avait eu l’occasion de causer à ce sujet, avait répondu : — Ma foi, mon fils, je crois que tu as raison. Ces jeunes gens me font l’effet de braves travailleurs et de personnes fort bien élevées.
+
+['mes', 'ma', 'mon', 'moi', 'moi']	Jeanne	Quinze jours plus tard, il y avait noce dans la famille, et je conduisais à l’autel celle qui fut ma compagne dévouée, et que la mort m’a enlevée à la naissance de [MASK]. Plusieurs mois s’écoulèrent et je vivais heureux dans l’humble chaumière qu’égayait la présence de ma jeune femme.
+
+['elle', 'il', 'Elle', 'et', 'Il']	Anselme	Homme et femme avaient mis la main aux manchons de la charrue mais les devoirs de la maternité avaient bientôt forcé la jeune épouse à se dévouer aux soins de la famille. [MASK] restait donc seul pour cultiver ses champs, car ses maigres revenus ne lui permettaient pas de se payer les services d’un employé.
+
+['Allons', 'viens', 'Viens', ',', 'ois']	Pierre	[MASK], viens ! Allons ! je sens qu’il me faut verser des larmes, car mon cœur est prêt à se briser. Et les deux amis s’élancèrent hors de la pension, au grand étonnement des personnes présentes qui ne comprenaient rien à leur brusque départ.
+
+['toi', 'e-toi', '-tu', 'Toi', '"']	Jean-Louis	– [MASK], me disait-il, souviens-toi que tu récolteras dans ta vieillesse les fruits de ta conduite de jeune homme. Sois joyeux à dix-huit ans, sérieux à vingt-cinq ans, sage à trente ans et tu seras riche à quarante ans.
+
+['de', 'à', 'sa', 'le', 'un']	Jules	Malgré les recherches les plus minutieuses, il avait été impossible de retrouver les restes du jeune homme, et la famille n’avait pas même eu la satisfaction de lui rendre les derniers devoirs de la tombe. Pierre et [MASK],
+
+['il', 'on', 'Il', 'Elle', 'elle']	Pierre	Si tu travailles encore dans les filatures, tu ferais bien d’aviser tes patrons que tu te verras forcée de les quitter sous peu. [MASK] se joint à moi pour t’envoyer mille baisers, et nous comptons les heures et les minutes qui nous séparent encore de toi.
+
+['les', 'la', 'et', '</s>', ',']	Jules	Le fleuve en cet endroit paraît avoir au moins une lieue de largeur. [MASK] et Jeanne maniaient cependant avec adresse l’aviron du canotier, et la frêle embarcation semblait voler sous les efforts réunis du faucheur et de la faneuse.
+
+[',', 'elle', 'qui', 'et', 'on']	Jeanne	[MASK] s’empressa d’annoncer la bonne nouvelle à la famille Dupuis, et la pauvre enfant était si heureuse qu’elle lut à haute voix, en présence de ses amis, la lettre de son frère : Contrecœur, ce 17 septembre 1874.
+
+['il', 'on', 'elle', 'chacun', 'Il']	Pierre	Après avoir poli et repoli ses avirons et fini ses préparatifs, [MASK] reprit la route de la ferme au son de la cloche de l’église du village qui sonnait le premier coup de la grand’messe. Tous les employés étaient sur pied et chacun se préparait à se rendre au village pour assister au service divin.
+
+[',', 'en', 'de', 'à', 'le']	Jules	. — Tu as raison, en effet, dit [MASK] en jetant un coup d’œil sur le journal. Allons nous asseoir à l’écart et lis-moi un peu le compte-rendu de cette terrible affaire. Les deux amis se retirèrent dans l’embrasure d’une fenêtre ;
+
+['Monsieur', 'Non', 'Écoutez', 'Ecoutez', 'Madame']	Jean-Louis	Cette explication parut suffire à la brave femme, mais elle ne put s’empêcher de dire à son mari, le soir même, avant de se retirer pour la nuit : — [MASK], j’ignore ce qu’a notre fils, ce soir, mais il paraît tout agité.
+
+['Jean', 'Paul', 'Marie', 'Jacques', 'Gilles']	Jeanne	Pierre et [MASK] Ils se quittaient. – Dans un regard bien tendre Tous deux venaient d’échanger un serment ; Le Capitaine avait promis d’attendre Et le bateau restait complaisamment. – « Ajoute encore un mot, ma blonde belle, Un mot d’adieu, le dernier, le plus doux !
+
+["c'", 'il', "C'", 'qui', "j'"]	Pierre	[MASK] est un brave cœur et il n’y a que le titre de frère qui puisse me faire oublier auprès de lui, son ancien titre d’ami. Maintenant petite sœur, retirons-nous pour la nuit. Notre père nous attend pour la prière du soir et il se fait tard.
+
+[',', 'celui', 'celle', 'lui', 'homme']	Pierre	Seul, [MASK] qui se tenait à l’écart, semblait voir avec tristesse le départ de ses camarades de travail. Il répondait avec distraction aux agaceries des jeunes filles qui se disputaient ses sourires, et aux paroles d’amitié des hommes qui avaient appris à estimer son caractère franc et loyal.
+
+['je', 'bien', 'père', 'enfant', 'dit-elle']	Jules	Le vieillard était d’un âge où tout travail lui était devenu impossible, et elle-même ne pouvait que faire bien peu pour le soutien de ses vieux jours. Ce fut donc avec assez de fermeté qu’elle répondit : — Tu sais, [MASK], que je m’en rapporte entièrement à la décision de mon père.
+
+[',', 'de', 'le', 'père', 'la']	Jules	Le père Girard qui avait consenti sans hésiter au départ de [MASK] n’avait fait que se soumettre à la plus dure des nécessités, car la pauvreté était à la porte de la chaumière. Quelques piastres seulement restaient à sa disposition ;
+
+["l'", 'la', 'de', 'se', 'vous']	Lanoraie	Vous ne voulez pas oublier le passé et il m’est impossible, à moi, de faire tomber sur la tête de celle que j’aime, la responsabilité des sentiments politiques de son père et de ses torts envers vous. Votre parole est engagée à [MASK], m’avez-vous dit
+
+['et', 'Et', 'il', 'elle', 'Elle']	Jules	Et vous, mademoiselle, continua-t-il en baissant la voix, aurez-vous toujours un souvenir pour celui qui donnerait volontiers sa vie pour vous causer un moment de bonheur. Et la voix du jeune homme tremblait d’émotion. Une larme brillait sur sa paupière. [MASK] le regardait étonné.
+
+['ses', 'Sainte-Marie', 'nous', 'son', 'Saint-']	Saint-Charles	Le courrier de Saint-Denis qui nous arrivait généralement vers les dix heures du matin, manquait à l’appel le 23 novembre. Onze heures, midi, une heure et personne n’avait encore reçu de nouvelles de Saint-Denis ou de [MASK].
+
+['famille', 'celle-ci', 'Dieu', 'femme', 'personne']	Montépel	Nous avons pu ne pas nous accorder sur le choix que j’avais à faire d’une compagne, mais comme vous, je me souviendrai que le nom de [MASK] doit rester pur et sans tache. Adieu ! et puissiez-vous me pardonner un jour les moments de peine et de colère que je vous ai causés.
+
+['rebelles', 'rebelle', 'républicains', 'nbsp', 'barons']	Girard	— Admettant que nous soyons Marion et [MASK], répondis-je, que prétendez-vous faire ? nous arrêter ? — Oui ! au nom de la reine, notre gracieuse souveraine, je vous arrête, comme traîtres et rebelles au gouvernement de sa gracieuse majesté. — Eh bien !
+
+['elle', 'Elle', '</s>', 'Jeanne', 'Louise']	Jeanne	À peine pouvait-il se traîner jusqu’au fauteuil qu’il occupait d’habitude, sous les ormes qui ombrageaient la porte de la chaumière. [MASK] s’était étonnée, un matin, de ne pas voir son père à la table du déjeuner, et elle s’était informée avec sollicitude de la santé du vieillard.
+
+['enfant', 'fille', ',', 'elle', 'petite']	Jeanne	[MASK] se trouvait seule à la chaumière, sans secours, et la pauvre enfant ne savait que faire dans des circonstances aussi difficiles. Elle hésitait à quitter son père, et, d’un autre côté, elle comprenait que les services d’un médecin étaient indispensables.
+
+['il', 'et', 'Il', 'on', 'elle']	Jeanne	Faisant comme un dernier effort sur lui-même, il prononça d’une voix faible les noms de ses chers enfants et il sembla s’endormir d’un sommeil paisible. [MASK] priait avec ferveur au chevet du malade, lorsque le docteur fit son apparition.
+
+['</s>', 'il', 'et', 'Il', 'mais']	Pierre	Et le fermier qui ne laissait jamais son esprit pratique et calculateur errer dans les régions du sentiment avait changé de conversation, et avait fait remarquer à son fils l’excellente qualité des foins et le rendement exceptionnel de la récolte. [MASK], malgré ces échecs successifs, ne se tenait cependant pas pour battu.
+
+['nous', 'oui', 'chante', '"', 'la']	Hervieux	chante nous donc un de tes vieux refrains de canotier ; nous t’aiderons en chœur et la route nous semblera moins longue. — Oui, oui ! une chanson, [MASK], répétèrent à l’unisson les autres voyageurs.
+
+['se', 'le', ',', 'de', 'un']	Pierre	Mais son cœur noble et droit lui faisait approuver, cependant, l’attitude digne du jeune homme et sa résolution de braver seul et sans secours les difficultés si nombreuses de la vie. Après avoir réfléchi pendant quelques instants, à ce que venait de lui communiquer [MASK], il répondit d’une voix calme :
+
+['il', 're', 'fils', 'celui-ci', 'elle']	Pierre	le père lui-même voyait avec peine cette brusque décision de son fils ; mais l’orgueil avait encore joué son rôle dans tout cela, et [MASK] partit sans que son père lui accordât le pardon de ce que le vieillard considérait comme un entêtement criminel. Le canot s’éloigna du rivage.
+
+['mon', 'oui', 'bien', 'et', 'en']	Jean-Louis	— Mon Dieu, [MASK] ! tu sais que j’ai pleine confiance dans ton habileté à conclure les marchés les plus difficiles. Va, mon homme ; mais surtout, fais bien attention à ces coquins d’Anglais qui savent toujours tirer avantage des « habitants » canadiens.
+
+['fille', ',', 'elle', 'qui', 'et']	Jeanne	[MASK] se trouvait enfin réunie à son frère et à son fiancé, après une année de séparation et d’épreuves terribles, et la pauvre fille, malgré le nouveau malheur qui venait de fondre sur elle, oubliait tout dans l’ivresse de la joie qu’elle ressentait du retour des voyageurs.
+
+['il', 'elle', 'on', 'chacun', 'Pierre']	Jeanne	Le cimetière devint désormais un lieu de pèlerinage pour la famille, et les jeunes filles se firent un pieux devoir de porter, chaque dimanche, pendant la belle saison, des fleurs nouvelles pour orner le monument. L’époque arriva enfin où [MASK] put sans danger supporter le voyage du Canada.
+
+['voyons', 'dit-il', 'allons', 'alors', 'dit-elle']	Jean-Louis	et que diable ! va-t-on commencer maintenant à me faire la leçon ? Je voudrais bien voir cela ! Et le vieillard s’excitait en pensant à ce qu’il appelait l’audace et l’impertinence de son fils. — Voyons, [MASK] ! calme-toi.
+
+['bon', 'mon', 'bien', 'cher', 'bonne']	Jeanne	— Dans tous les cas, bon frère, tu n’as pas moins intérêt que moi à ce que la réponse de notre père soit favorable. Si j’y gagne un mari, de ton côté, tu dois te féliciter d’avoir rencontré un bon ami. — Tu as raison, [MASK].
+
+[',', 'de', "qu'", 'son', '</s>']	Pierre	[MASK], en finissant de parler, s’était approché de sa mère qui sanglotait à l’écart et l’avait serrée dans ses bras après avoir déposé un baiser affectueux sur les cheveux blancs de la pauvre femme qui aurait donné tout au monde pour éviter ces scènes regrettables au sein de sa famille.
+
+['famille', 'la', "l'", 'famill', 'tous']	Jeanne	les coutures couvertes de gomme de sapin lui paraissaient grossières ; la courbe de la pince ne lui semblait plus élégante. Il voulait plaire au vieillard, et tous les fermiers de la côte se connaissent en canots d’écorce. Il redoutait la critique de l’œil exercé du père de [MASK].
+
+['la', 'elle', "l'", 'cette', 'une']	Jeanne	Il fallait se dire adieu. [MASK], pâle et silencieuse, traçait avec son aviron des figures bizarres sur le sable de la grève. La pauvre enfant n’osait lever les yeux, de peur de trahir le trouble qui l’agitait.
+
+['</s>', 'Dieu', 'lui', 'il', "l'"]	Pierre	Il aimait avec franchise et sans arrière-pensée, et il lui semblait que le plus court chemin pour arriver au bonheur était de déclarer franchement sa passion. [MASK], instruit à l’école des mœurs simples et pastorales du paysan canadien, avait conservé cette simplicité jusque sur les bancs du collège.
+
+[',', 'et', 'elle', 'de', 'ne']	Jeanne	— Mon enfant ! je ne puis rien faire pour celui qui fut votre père. Priez Dieu pour son âme, car vous êtes maintenant orpheline. [MASK] ne parut pas comprendre d’abord toute la portée de ces terribles paroles, car elle répéta d’une voix suppliante :
+
+[',', 'fille', 'qui', 'enfant', 'mère']	Jeanne	[MASK], elle aussi, essayait vainement de dérober à son père les sanglots qui soulevaient sa poitrine oppressée, et chaque soir, lorsque venait l’heure du repos, le vieillard pouvait entendre les gémissements de cette pauvre enfant qui n’avait connu l’amour que pour éprouver les tourments de la séparation.
+
+['qui', 'lui', 'elle', ',', 'il']	Pierre	La figure de cette jeune fille innocente que l’on rendait responsable des fautes de son père apparaissait à la mère de [MASK] comme la consolation qui ferait oublier à son fils les douceurs de l’amour maternel et les rigueurs de l’autorité paternelle.
+
+['son', 'la', "l'", 'sa', 'ses']	Pierre	La jeune fille trouvait le temps bien long et se demandait tout bas ce qui pouvait retarder ainsi l’arrivée de [MASK]. Elle laissa échapper une exclamation de joie lorsqu’elle aperçut au loin, sur la surface polie du fleuve, un canot qui s’avançait vers la rive.
+
+['et', 'elle', 'il', ',', 'Elle']	Jeanne	[MASK] avait repris, le cœur gros des émotions du jour, la route de la chaumière où l’attendait son frère Jules. On causa pendant longtemps des événements qui s’étaient succédés depuis le commencement de la moisson et on fit la part belle aux amours présentes et aux espérances de l’avenir.
+
+['je', 'Je', 'le', 'en', "l'"]	Pierre	— Mes chers parents, leur dit [MASK], je m’aperçois que vous avez eu la bonté de vous occuper de mon avenir en nourrissant des projets d’établissement en ma faveur. Je vous en remercie doublement, car j’avais moi-même, depuis quelques jours, songé à vous faire part de mes désirs ;
+
+['médecin', 'son', 'docteur', 'un', 'chirurgien']	Jeanne	Le malade se calma pendant quelque temps, mais il se plaignait de ne pouvoir pas obtenir de sommeil. Vers dix heures du soir, la douleur parut augmenter et le vieillard demanda à [MASK] de lui baigner les tempes avec de l’eau froide, car il avait la tête en feu.
+
+['la', 'sa', 'son', 'les', 'le']	Jeanne	Il s’était dit un jour qu’il aimait [MASK], mais il avait voulu attendre quelque temps pour consulter son cœur afin de ne pas s’engager à l’aventure dans une passion qu’il considérait comme sacrée. Son cœur lui avait répondu par un redoublement d’amour pour la jeune fille.
+
+[',', 'de', 'et', '</s>', ';']	Pierre	[MASK] s’approcha instinctivement du jeune homme et de la jeune fille, et les prenant tous deux par la main, il leur dit : — Jules mon bon camarade et vous Jeanne ma bonne amie, je crois deviner les sentiments qui vous agitent, en consultant mon propre cœur.
+
+['la', "l'", 'son', 'de', 'se']	Pierre	ceux qui s’approchent tous les jours du tombeau. Le fermier dont la colère ne s’était pas encore apaisée, ne songeait qu’à ce qu’il appelait l’insolence de [MASK], et lorsque sa femme s’approcha de lui en lui disant d’une voix étouffée par les sanglots
+
+['il', 'on', "s'", ',', "l'"]	Pierre	Le repas terminé, [MASK] embrassa tendrement sa mère après lui avoir annoncé son intention de s’absenter pendant quelques heures et lui avoir recommandé de ne pas s’inquiéter sur son compte. Le jeune homme, afin de ne pas éveiller les soupçons des employés de la ferme
+
+['il', 'alors', 'celui-ci', 'le', 'M.']	Pierre	— Mon cher camarade, commença [MASK], ne croyez pas que ce soit un vain motif de curiosité qui me fasse vous parler de choses qui vous sont personnelles. Ayant eu l’avantage moi-même de recevoir une certaine éducation, je me suis senti attiré vers vous par un sentiment de sympathie.
+
+['moi', 'ce', 'cette', 'nous', 'lui']	Contrecœur	Je ne voudrais pas cependant qu’il soit dit que je vous ai conseillée de vous éloigner de [MASK], s’il vous est possible de faire autrement. Réfléchissez à ce que je vous ai dit des difficultés que vous aurez à vous procurer du travail ici, et revenez demain me faire connaître votre décision.
+
+['elle', 'il', 'celle-ci', 'Alice', 'Margaret']	Jeanne	En dépit du peu d’expérience qu’elle avait des nécessités matérielles de la vie, [MASK] comprit que cette somme de vingt dollars était loin d’être suffisante pour payer ses frais de pension et d’entretien jusqu’au printemps suivant, et qu’il lui faudrait voir à obtenir un travail quelconque jusqu’au retour des voyageurs.
+
+['on', 'il', 'chacun', 'et', '</s>']	Pierre	Six heures arrivèrent enfin, et ils montèrent en wagon au milieu de la foule des voyageurs qui causaient avec animation de l’incendie qui était devenu le sujet de toutes les conversations. [MASK] s’adressa à quelques personnes afin d’obtenir de nouvelles informations, mais chacun lui répéta ce qu’il savait déjà lui-même.
+
+['elle', 'et', 'famille', 'mère', ',']	Jeanne	[MASK] payait ses frais de pension à raison de trois dollars par semaine et comme elle gagnait, en moyenne, plus d’un dollar par jour, la jeune fille confia à son protecteur les sommes dont elle pouvait disposer après avoir payé ses dépenses de chaque mois.
+
+["c'", 'elle', 'il', 'qui', "C'"]	Pierre	Je te le répète encore aujourd’hui ; je ne sais ce qui agite ainsi le jeune homme, mais ses manières trahissent des préoccupations sérieuses. — Bah ! laisse donc faire, femme, [MASK] est un gaillard qui saura bien « tirer son épingle du jeu ».
+
+['elle', 'il', 'de', "l'", "d'"]	Pierre	Quinze jours plus tard, [MASK] avait fait ses préparatifs de voyage ; et après avoir embrassé son père et sa mère, il leur annonça qu’il avait décidé d’aller « hiverner dans les chantiers » avec quelques jeunes hommes des environs. La mère était presque folle de chagrin ;
+
+['elle', 'il', 'Elle', 'on', 'Il']	Jeanne	Il recherchait constamment la solitude, et le travail de la filature paraissait absorber toute son attention. [MASK] avait continué à le traiter avec la plus grande familiarité, mais le jeune homme paraissait fuir sa société, tout en restant dans les bornes d’une amitié bienveillante.
+
+['Elle', 'Il', 'il', 'elle', '.']	Jeanne	? [MASK] tremblait comme la feuille du peuplier. La pauvre enfant avait été si surprise par cette scène inattendue, qu’elle avait failli s’évanouir. Elle était maintenant un peu remise, mais elle ne sut que balbutier quelques mots inintelligibles pour toute réponse.
+
+['toi', 'oui', 'vous', 'que', 'Oui']	Pierre	Mais c’est insensé ce que vous faites là. Dites, [MASK], dites-moi que je me suis trompé. Et toi, ma sœur, dis-moi aussi que tu comprends trop bien ton devoir d’honnête fille pour avoir osé porter les yeux sur le fils du maître.
+
+['Elle', 'elle', 'Il', 'Madame', 'il']	Jeanne	Faisant un effort sur lui-même, il réussit à surmonter cette émotion passagère, et il dit au docteur : — [MASK] va se trouver bien désappointée, docteur, de ce retard inattendu, car elle se faisait une joie de voir arriver son frère sous peu de jours.
+
+['la', "l'", 'son', 'lui', 'sa']	Contrecœur	Avec sa vigueur et son habileté de canotier, le jeune homme eut bientôt franchi l’espace qui le séparait de [MASK], et l’étoile commençait à briller au firmament lorsqu’il toucha la grève près de la chaumière du père Girard.
+
+['elle', 'il', 'celle-ci', 'on', 'elle-même']	Jeanne	Cette visite, cependant, avait eu pour effet de secouer l’espèce de torpeur dans laquelle [MASK] s’était laissé tomber, et lorsque le docteur se fut éloigné, elle se prit à réfléchir sur les moyens qui se trouvaient à sa disposition pour surmonter les obstacles qui se dressaient sur sa route.
+
+[',', 'de', "l'", 'le', 'la']	Pierre	et il avait su tenir parole. Si sérieux et si candide que l’on soit, cependant, dans des occasions aussi solennelles, la voix tremble toujours un peu et l’émotion rend timide. [MASK] malgré sa résolution d’en finir tout d’un coup avait hésité un moment
+
+['de', ',', 'le', 'se', 'en']	Jeanne	[MASK] avait accepté avec reconnaissance les services de ce vieil ami de son père, et lorsque après la cérémonie funèbre elle avait repris en sanglotant la route de la chaumière, le docteur lui avait dit : — J’ignore, mademoiselle, ce que vous prétendez faire maintenant, et quels sont vos projets pour l’avenir ;
+
+['jeune', ',', 'le', 'de', 'pauvre']	Pierre	[MASK] avait baissé la tête dès les premières paroles où le nom de son père avait été mentionné dans le récit du vieillard, et le pauvre garçon semblait accablé par les sentiments de honte, de pitié et de colère qui se heurtaient dans sa tête en feu.
+
+['posée', 'réponse', ',', 'profondément', 'ouverte']	Jeanne	— Je ne sais trop comment vous remercier de tant de bonté, répondit [MASK] émue par la franchise du fermier, mais je vais, selon votre avis, réfléchir sérieusement à l’offre que vous me faites. Demain je viendrai vous rendre ma réponse. —
+
+['elle', 'il', 'on', 'Elle', 'et']	Jeanne	Vers le soir, le malade se plaignit d’un violent mal de tête et [MASK] observa que ses yeux étaient injectés de sang. Elle ne redoutait encore rien de sérieux, cependant, et elle resta au chevet du vieillard afin de répondre promptement à ses moindres désirs.
+
+['il', 'Il', '...', 'et', 'tu']	Jules	Les bureaux sont généralement fermés le dimanche, mais essayons toujours. Voyons ! mon ami ! viens avec moi à la recherche d’un bureau de télégraphe. [MASK] se leva machinalement pour accompagner son camarade, mais le pauvre garçon avait un air distrait qui faisait mal à voir.
+
+['il', 'et', 'voyageur', ',', 'Il']	Jules	[MASK] reprit la route de la chaumière, le cœur gros des événements de la journée et il se joignit, en entrant, à son père et à sa sœur qu’il trouva agenouillés et priant Dieu pour le retour heureux du voyageur.
+
+['Bien', 'bien', 'Vous', 'Elle', 'toi']	Jeanne	Bien, je l’espère. Et [MASK], la pauvre enfant ? S’est-elle consolée du départ de son fiancé ? Notre santé à nous a été excellente sous tous les rapports et nous nous faisons une fête d’aller bientôt vous serrer sur nos cœurs.
+
+[',', 'il', 'où', "l'", 'de']	Papineau	[MASK] aurait désiré éviter l’effusion du sang, mais les choses en étaient rendues à un point où il était impossible de reculer. Le docteur Nelson, au contraire excitait les paysans à l’insurrection ouverte, et à une assemblée tenue à Saint-Charles pour discuter la situation, il avait dit
+
+['Jean', 'Marie', 'les', 'Jacques', 'Paul']	Jeanne	Pierre et [MASK] se redirent leurs premières impressions, leurs premières émotions, leurs premières pensées d’amour. Ils rééditèrent ce poème délicieux de deux cœurs qui s’aiment et qui, pour la première fois, se confient l’un à l’autre.
+
+['celui-ci', 'monsieur', 'retraite', 'Monsieur', 'France']	Pierre	Pensant que le moment était favorable pour soumettre son projet, il dit à son père : — Le départ de [MASK], mon père, me porte naturellement à penser qu’il me faudra moi-même trouver du travail pour cet hiver ; ce qui me serait impossible en restant au village.
+
+['elle', 'il', 'celle-ci', 'on', 'celui-ci']	Jeanne	Il s’agissait maintenant de savoir comment [MASK] répondrait à son amour. Le jeune homme, nous l’avons dit déjà, avait découvert sous l’humble apparence de la faneuse, les manières et l’éducation d’une fille bien née.
+
+['ce', 'se', 'à', '...', 'ceux']	Pierre	son trouble, ses manières embarrassées, ses paroles incohérentes, ses mots balbutiés, tout ne disait-il pas à [MASK] qu’il pouvait espérer ? Le jeune homme avait été si agité par la scène inattendue de la grève, que sa mère, en le voyant rentrer pour le souper, lui dit :
+
+['il', 'Il', 'Jean', 'on', 'Pierre']	Pierre	Chaque soir, maintenant, [MASK] allait sur la grève souhaiter un dernier bonsoir à ses amis de Contrecœur, et bien souvent, il oubliait en rêvant au bruit caressant de la lame qui venait lécher le sable du rivage, la danse sous les coudriers et les histoires du maître d’école.
+
+['grâce', 'dit-il', 'pardon', 'grace', 'alors']	Jean-Louis	Je m’aperçois qu’il est temps de mettre un frein à ton esprit d’indépendance, car Dieu sait ce que me réserverait l’avenir si je me prêtais à tes caprices. — Mon Dieu ! [MASK] ! calme-toi. De grâce, calme-toi !
+
+['le', 'celui-ci', 'M.', 'Jean', 'Marie']	Pierre	— Mais, mon Dieu ! qu’as-tu donc, mon fils ? Tes traits sont bouleversés et tu me sembles agir d’une manière étrange. — Rien, ce n’est rien, bonne mère, répliqua [MASK]. Probablement la lassitude après les travaux du jour, voilà tout.
+
+['celui-ci', 'Socrate', 'César', 'Paul', 'Pierre']	Pierre	Qu’en dis-tu ? — Hem ! ce que j’en dis. Tu dois connaître assez le caractère de [MASK] pour savoir qu’il n’est pas homme à se laisser imposer une femme comme condition dans une affaire aussi importante que celle-là.
+
+[',', 'fille', 'jeune', "qu'", ';']	Jeanne	[MASK] qui observait du coin de l’œil, les manières de son père, fut enchantée de la réception qu’il fit à son amant, et lorsqu’elle s’avança elle-même pour le saluer, elle eut un sourire qui porta le courage et l’espérance dans le cœur ému du jeune homme.
+
+['il', '</s>', 'et', 'Il', 'elle']	Pierre	Va, mon fils, dire à tous ces braves gens, garçons et filles, que je les attends à la maison pour leur payer leur salaire et pour prendre part avec eux, au repas du soir. [MASK] s’éloigna pour obéir aux ordres de son père.
+
+['celui-ci', 'celle-ci', 'Dieu', 'chacun', 'M']	Pierre	Ils rééditèrent ce poème délicieux de deux cœurs qui s’aiment et qui, pour la première fois, se confient l’un à l’autre. La jeune fille, penchée timidement au bras de son amant aspirait avec délices les paroles d’affection passionnée que lui répétait [MASK].
+
+['il', 'elle', 'chacun', 'on', 'lui-même']	Pierre	Il faudrait maintenant combattre pour deux, travailler pour deux, vivre pour deux ; et [MASK] avait accepté ce double devoir avec la fermeté d’un caractère qui ne savait pas reculer devant les obstacles, si pénibles qu’ils fussent à surmonter.
+
+['Jean', 'Marie', 'Pierre', 'Jacques', 'celui-ci']	Pierre	— Vous avez raison, ma mère, répondit [MASK], et si j’ai manqué de respect à mon père, je lui en demande humblement pardon. Au point où en sont rendues les choses, je comprends d’ailleurs que toute discussion devient inutile.
+
+["c'", ',', "C'", 'qui', 'nous']	Pierre	[MASK] est un brave cœur dont j’apprends à apprécier les qualités tous les jours, et nous pouvons nous féliciter d’avoir trouvé pour Jeanne un mari aussi vaillant et aussi industrieux. Et toi ! bon père, comment te portes-tu ? Bien, je l’espère.
+
+[',', 'le', 'ET', 'de', 'et']	Pierre	Laisse dormir le passé pour t’occuper de l’avenir, et voyons un peu ce qu’il nous faut faire pour empêcher [MASK] de retourner dans les « pays d’en haut ». Le fermier grommela entre ses dents quelques paroles inintelligibles mais il finit par s’apaiser :
+
+['R', 'Cur', 'Jean', 'Cro', 'Cor']	Cléophas	Le ménétrier du village, un brave homme nommé [MASK], que les jeunes gens avaient baptisé du sobriquet expressif de Crin-crin, fut juché sur une table, et après avoir accordé son instrument, attaqua un cotillon qui fit bondir garçons et filles dans le tourbillon de la danse nationale.
+

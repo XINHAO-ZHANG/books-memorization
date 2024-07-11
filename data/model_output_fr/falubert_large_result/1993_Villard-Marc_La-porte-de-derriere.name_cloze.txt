@@ -1,0 +1,200 @@
+['velours', 'son', 'taureau', 'ses', 'la']	Marcello	Tout est situé au ras du sol : le matelas, les poufs, la table. Dans un coin, trois sacs de déchets attendent que quelqu’un les descende. Les yeux rouges de [MASK], injectés de sang, sont ceux d’un petit taureau hystérique en quête de la cape rose.
+
+['lui', 'le', 'il', 'un', 'la']	Tramson	Ça lui évoque un film. Il pense à Jamais le Dimanche mais alors qu’il s’apprête à vérifier dans un dictionnaire on frappe à la porte. Il se lève pour ouvrir et, le panneau à peine libéré, se prend un direct en pleine poire lâché sauvagement par [MASK].
+
+['départ', 'la', "l'", 'base', 'fin']	Farida	Pour le moment, il est branché sur le rêve de [MASK] et à cette fin curieuse qui parle d’immerger leurs corps dans l’eau d’une plage. Ça lui évoque un film. Il pense à Jamais le Dimanche mais alors qu’il s’apprête à vérifier dans un dictionnaire on frappe à la porte.
+
+['on', "c'", 'On', 'elle', 'police']	Simon	Au fait, les flics qui ont pris ta déposition prétendent que tu n’as pas vu tes agresseurs. C’est du pipeau, non ? — Évidemment. [MASK] est derrière eux. Chopez-le pour moi. — Cette fois, je promets et je tiendrai.
+
+['celui', 'celle', 'ce', 'homme', 'Celui']	Pradal	La fenêtre est projetée sur le bitume, le souffle arrache la porte de ses gonds et [MASK] qui s’apprêtait à frapper se retrouve sur le palier du dessous les quatre fers en l’air et le cul en compote.
+
+['se', ',', 'le', 'un', 'en']	Tramson	? [MASK] soupire. Il va faire pour un gamin de quatorze ans ce qu’il n’a jamais fait pour sa fille Céline. Après s’être assuré que la porte est bien fermée, l’éducateur revient vers le lit et d’une voix cassée commence à chanter :
+
+['lui', '</s>', 'peu', 'enfant', 'Moi']	Pradal	Du coup, l’atmosphère se rafraîchit. [MASK] : — J’ai passé ton nom dans l’ordinateur central et on m’a sorti ton curriculum vitae. Je suis désolé pour ta mère, tu sais. — Ça va, ça va. C’est du passé, bredouille l’enfant.
+
+['elle', 'Elle', 'on', 'On', 'ça']	Tramson	Complètement allumée cette fille ! J’en ai pas encore fini avec la vie, mec. [MASK] se fige d’appréhension. — Elle a parlé ? — Oui, elle m’a dit que c’est moi qui l’ai tué. J’ai tué personne, elle délire.
+
+['les', 'tout', '</s>', 'la', 'dangereuse']	Simon	— Je vais la trouver, c’est une question d’heures… — Roule pas trop ta caisse. Je la connais, c’est une cliente. Elle est dangereuse, [MASK], alors j’ai pensé qu’un petit tuyau ne te ferait pas de mal.
+
+['il', 'Il', 'et', 'puis', ',']	Mercier	— Okay, okay. Le 9 dans la 5 e a aussi ses chances. — Je n’en doute pas. Ils stoppent enfin devant un tiroir doté du chiffre 31. [MASK] sort de sa poche un calepin sans âge et vérifie l’identité du cadavre.
+
+['OUI', 'en', 'à', 'par', 'NON']	Farida	— J’ai réfléchi… commence [MASK]. — Oui ? — L’argent. Je ne peux pas le garder, c’est le fric du rock, autrement dit de la merde. Il faut qu’il serve à quelque chose de bien.
+
+['on', 'il', 'je', 'elle', 'nous']	Simon	Le numéro 29 est bien tel que [MASK] le lui avait décrit. Blanchi sur la moitié de sa hauteur et surtout déserté par les tags et les graffitis. Elle sourit dans sa barbe : ça ne va pas durer. Elle frappe à la porte.
+
+['rock', 'copains', 'potes', 'folk', 'ska']	Simon	Enfin c’est quand même emmerdant pour moi : tout le monde croit que j’ai joué la chèvre pour faire tomber le deal de rock. — Je sais, ça s’est mal goupillé, j’étais trop confiant dans le fait que la bande à [MASK] avait tué ta copine.
+
+['sa', 'ses', 'la', 'son', 'le']	Barbès	Lui, sobre et royal, fait l’acquisition d’un Hound Dog Taylor live. Après avoir écumé tous les stands, claqué quelques mains, le môme décide de regagner [MASK] pour faire honneur au steak-frites de rigueur le dimanche soir.
+
+['elle', 'ça', 'tout', 'plus', 'nous']	Fari	Je m’excuse de n’avoir pu me rendre à l’enterrement, j’étais sur une autre affaire et on m’a averti trop tard. — C’est pas grave. [MASK], elle nous a fait beaucoup de mal. Elle est peut-être en paix maintenant.
+
+['qui', 'et', 'il', 'elle', ',']	Pradal	[MASK] revient dans la pièce, une casserole fumante à la main et, alors qu’il sert les pâtes, il jette un coup d’œil à Stevie qui passe les poteries en revue. — Pourquoi tu es habillé en noir ? demande le flic.
+
+['table', 'lui', 'Laurent', "l'", 'lui-même']	Marmottan	L’oncle termine son repas avant de prendre son service à [MASK]. — Tu manges ici, Laurent ? — Oui, j’irai faire un tour après. — Il y a des œufs au plat ou à la coque, du fromage et des blinis.
+
+['se', 'me', 'lui', 'je', 'on']	Tramson	À eux deux, ils s’interrogent gravement sur le complot juif international. Passablement abattu, [MASK] demande si c’est grave. Le toubib enveloppe sa réponse dans une dialectique absconse d’où il ressort que le sujet des délires maniaques est sans importance.
+
+['S', 'ces', 'la', 'qui', "l'"]	Bouvier	— Okay, j’intercepte, vous êtes l’indic de [MASK]. — Je l’aide de temps en temps, c’est vrai. — Bon, rentrez. Les deux hommes, un peu empruntés dans cet appartement qui n’est pas le leur, ne savent trop
+
+['moi', 'que', 'vous', 'où', 'pourquoi']	Farida	Le vieux qui tient le magasin a dû le prévenir. Quand je suis rentré dans la chambre le lit était encore tiède. — Et [MASK] dans tout ça ? — Je patauge. Pour le moment, j’essaie d’en finir avec le deal de crack.
+
+["l'", "s'", 'il', "L'", 'elle']	Guirrassy	— Cool, bébé, cool, on est des adultes ! Elle s’en fiche comme de l’an quarante d’être adulte et le lui fait comprendre en lançant sa lame vers lui. [MASK] esquive et lui pousse dans les jambes la banquette légère qui la déséquilibre.
+
+[',', 'de', 'se', 'le', '...']	Farida	C’est à ce moment précis qu’elle commence à hurler. Deux fenêtres s’allument au premier étage sur le mur occulté, des voix s’interpellent, des pas pressés martèlent les marches de bois d’un escalier. [MASK] perçoit tout cela. Un réflexe de survie la traverse
+
+['nature', 'ailleurs', 'moments', 'avance', 'eux']	Bébel	Le gamin opine du chef. À 22 heures pile, lassés par [MASK], l’oncle et le neveu installent un jeu de dames sur la table de salle à manger et, l’œil carnassier, se lancent dans une partie ayant pour enjeu la corvée de vaisselle de la semaine.
+
+['on', 'se', 'je', 'il', 'y']	Farida	La vitrine blanchie sur une hauteur de cent quatre-vingts centimètres laisse filtrer la lumière jaune des réverbères dans sa partie supérieure. L’ameublement est strict : une table ovale, six chaises, un meuble métallique bouclé. Dans la pièce attenante, [MASK] découvre un lit pliant, un duvet et un camping-gaz.
+
+['Ce', 'ce', '</s>', 'Il', '-']	Abdullah	Je suis en cavale, j’ai tué mon mec et je me trimballe quatre cents tickets sur les tubes. Ils vont lâcher les pitbulls et me planter des épingles dans le cul aux réunions du Mouvement pour la Dignité. — [MASK] n’est pas un imbécile.
+
+['elle', '</s>', 'puis', 'il', 'Elle']	Pradal	Elle pousse le panneau, fait manœuvrer son fauteuil qui pivote avec difficulté avant de s’introduire à l’intérieur et de rabattre la porte derrière elle. [MASK], les yeux exorbités mais retenu par sa tâche, la regarde s’installer face à lui. — Bonjour.
+
+[',', '-', '...', ')', 'Liège']	Henri	À [MASK] Cendres, cendres, Vous attisez, vous tisonnez. Chair, os, il n’y a rien ici. Un morceau de savon, Une alliance, Une couronne en or. Herr Gott, Herr Lucifer Attention Attention Des cendres Je renais avec mes cheveux rouges
+
+['non', 'oui', 'désolé', 'Non', 'Désolé']	Fari	Le fric paiera les couchettes, je veux dire… — Écoute, [MASK], je ne peux pas accepter… — Si. Tu fais comme j’ai dit, ça compte beaucoup pour moi. Fais établir un devis, je paierai l’addition. — Tu essaies de compenser ?
+
+['Il', 'Elle', "J'", 'On', 'on']	Tramson	Ils se faufilent à l’intérieur, [MASK] allume une discrète lampe de bureau. La vitrine blanchie sur une hauteur de cent quatre-vingts centimètres laisse filtrer la lumière jaune des réverbères dans sa partie supérieure. L’ameublement est strict : une table ovale, six chaises, un meuble métallique bouclé.
+
+['je', 'si', 'que', '-', 'oui']	Simon	protections » à des épiciers trop couards et balancer calmos ses cristaux de rock pour assurer l’ordinaire. Le grand banditisme, ça lui met un peu l’estomac à l’envers. — Remarque, maman, je peux essayer… — C’est ça, [MASK], essaie.
+
+['il', 'Il', 'Monsieur', 'celui-ci', 'Ben']	Pradal	Peut-être un flic. Le vieux rigole dans sa barbe : la journée commence bien. À huit heures pétantes, [MASK] s’arrache à son porche et gagne l’échoppe du vieillard. Il exhibe sous son nez sa carte de police. — Vous savez lire ?
+
+['-', ',', 'lui', '(', 'Simon']	Pradal	— Pourquoi pensez-vous qu’une fois Simon arrêté le réseau de crack coulera ? [MASK] qui pianotait contre la grille, en regardant vers l’extérieur, tourne brusquement la tête vers le dealer. — Tu veux dire qu’il y aurait quelqu’un au-dessus de lui ?
+
+['Marie', 'C.', 'celle-ci', 'madame', 'Julie']	Stevie	: — J’ai croisé [MASK] il y a trente minutes sur le boulevard. C’est lui qui l’a trouvée, les flics parlent de sept coups de couteau. Il dit que l’inspecteur qui s’en occupe a l’air compétent.
+
+['alors', 'non', 'dit-il', 'toi', 'dit-elle']	Marcello	La jeune femme lève les yeux au ciel. — Bon Dieu, [MASK], tu n’as aucun droit et tu le sais très bien alors fais pas chier. L’homosexuel roule maintenant des yeux fous, les mains sur les hanches puis, brusquement, éclate en sanglots, se laissant tomber sur les genoux.
+
+['tête', ',', 'profil', 'femme', 'la']	Tramson	Les dos se figent, les gestes se font plus lents. Masqués, les gus. Le flic chuchote trois mots au barman, un trou-du-cul de basse Lozère financé par l’argent des contribuables. Celui-ci indique le profil de [MASK] penché sur un Castaneda en collection de poche.
+
+['celui', 'celle', 'femme', 'celui-ci', 'celle-ci']	Youssouf	— Je pourrais te mettre un pain et me tirer sans payer, grogne le vieillard de vingt-trois ans. — Tu pourrais mourir aussi. Regarde sur le trottoir d’en face. Il plisse les paupières pour accommoder son regard de myope à la silhouette trapue de [MASK] qui malmène entre ses dents un bâton de réglisse.
+
+['survie', 'communication', 'défense', 'corps', 'protection']	Marcello	Le temps semble comme figé, les gestes de [MASK] se font désordonnés. En fait, par la parole, il essaie d’exorciser sa peur. Puis il fait l’erreur de sa vie : il va jeter un coup d’œil à la fenêtre.
+
+['et', 'il', ',', 'Il', 'puis']	Farida	— Tu fais dans quoi ? — Là-dedans ! Disant cela, il fait rouler sur la table un petit tube de plexi transparent à l’intérieur duquel sont compressés trois cristaux ambrés, évoquant vaguement le sucre roux des babs. [MASK] lève un sourcil d’incompréhension.
+
+['On', 'Elle', 'Il', 'on', 'Qui']	Pradal	À propos, elle inhale du crack, elle aussi ? — Ça va pas ! Heu… — Oui, c’est vrai, vous la connaissez à peine, vous ne pouvez pas le savoir. Maintenant [MASK] se fout vraiment de la tronche de l’éducateur.
+
+['celui-ci', 'Martin', 'il', 'Jimmy', 'Will']	Tramson	Comme si un faisceau de bras tendus lui indiquait l’éducateur. L’inspecteur ne croit pas que [MASK] soit mêlé de près aux meurtres mais dès maintenant, il le considère comme un homme clé dans l’articulation des deux affaires.
+
+[',', 'elle', '</s>', 'Elle', 'de']	Pradal	[MASK] s’installe derrière son tour et fait jaillir la beauté entre ses mains calleuses. À midi, il abandonne sa création et se récure comme il peut dans le petit lavabo de l’arrière-boutique. Car ce dimanche-ci est un dimanche « spécial Ghislaine ».
+
+['ça', 'là', "c'", 'à', 'nickel']	Fari	C’est nickel, [MASK]. Elle pose un regard terne sur le décor clinique. — Tu peux m’avoir un walkman, des bouquins ? — Okay, je vais m’en occuper. Je passerai te voir deux fois par jour, évite de te montrer à la porte.
+
+['la', 'une', 'un', "l'", 'lui']	Lariboisière	Les immeubles se découpent sur le ciel sombre, anguleux et impudiques. Il marche, il se sait coupable. Contempler les blessures de cet enfant – sa chèvre – lui paraît au-delà de ses forces. Il s’est planté sur ses deux jambes face à [MASK] mais en vain.
+
+['la', "l'", ',', '...', 'de']	Pradal	— Vous me refilez, comment on dit… un problème de conscience. Il reste une flèche dans la sacoche de [MASK]. Celle-ci est bien dégueulasse, incertaine mais le jeu en vaut peut-être la chandelle : — Je te propose de racheter ton passé. — Comprends pas. —
+
+[',', 'il', 'et', 'Il', "qu'"]	Stevie	[MASK] s’arrête de jouer. Malgré lui, il sait qu’il va avoir de la peine. Chaque fois qu’il passera un compact sur sa chaîne laser, il pensera à lui ça ne va pas faire un pli.
+
+['son', 'mon', '...', "l'", 'Pierre']	Tramson	— On t’a vue, il y a des témoins ? — Un mec, peut-être, mais ça s’est passé très vite. C’est le crime parfait, s’amuse-t-elle amèrement. Elle pose son visage sur l’épaule de [MASK]. Épuisée.
+
+[',', 'tout', 'la', 'le', "l'"]	Youssouf	Un porche avec des chats autour, des greffiers à moitié mabouls, tu connais ? — Oui, j’avais une copine qui habitait un peu plus haut. Disant cela, le gamin scrute [MASK], épiant la faille. Assassin, hurle le gosse dans sa tête.
+
+['</s>', 'elle', 'et', 'il', ',']	Farida	Un grand type efflanqué se découpe dans la lumière de l’entrée. [MASK] se penche sur le blessé et lui mord sauvagement la bouche puis, les yeux exorbités, elle s’arrache au corps, bouscule les poubelles et jaillit sur le trottoir.
+
+['celle-ci', 'sa', 'alors', 'Marie', 'Lisa']	Tramson	Parvenu sur les lieux, le docteur Dietrich l’informe que sa mère dort, passablement abrutie par les calmants. Le bon docteur prend [MASK] par le bras et le guide vers son bureau. Là, l’éducateur apprend que sa mère n’est plus branchée sur l’après-révolution russe mais fraye maintenant avec les nazis.
+
+['il', 'se', 'Il', 'et', 'y']	Stevie	Bon, maintenant il se dirige vers la fenêtre, tire le rideau et laisse la lumière de juin caresser son visage piqueté de taches de rousseur. Alors qu’il balaie la rue du regard, [MASK] découvre une tête dépassant le niveau peint en blanc de la vitrine d’en face.
+
+['Ma', '-', 'Oui', 'Non', 'Mon']	Farida	— [MASK], ma poule, justement je pensais à toi. Regard noir de la Kabyle. — Écoute, mec, je me suis tapé trois avortements à la suite et je ne veux plus voir ta grosse queue. Elle est comme ça : un peu tranchante parfois.
+
+["C'", "c'", 'Elle', "--C'", '...']	Mercier	? — Les cheveux, la forme du visage, oui, ça pourrait être elle. Elle est grande ? [MASK], précis comme un ordinateur : — Un mètre soixante-dix. C’est plutôt grand pour une femme. — Alors, c’est sûrement elle.
+
+['Tony', 'celui-ci', 'Richard', 'Dan', 'Danny']	Farida	— Je patauge. Pour le moment, j’essaie d’en finir avec le deal de crack. Si le meurtre de [MASK] est lié au crack, je vais croiser l’assassin. Si ça n’est pas le cas, je reprendrai l’affaire à zéro.
+
+['bien', 'ça', 'pas', 'monsieur', 'cela']	Tram	— Je connais [MASK], il est super costaud, il vous a bel et bien cassé la gueule. Je lui demanderai l’adresse des parents Belkacémi, si ça vous intéresse. — Ça m’intéresse. Tu sors quand de cet hôpital ? — Dans quatre jours.
+
+[',', 'le', 'de', 'ce', 'les']	Tramson	Le rouquin fait demi-tour, esquissant un clin d’œil de connivence au moment où le Rital du cinquième entreprend de martyriser une chanson d’amour qui pèse une tonne. L’allusion aux communistes vient de rappeler à [MASK] qu’il doit cet après-midi visiter sa mère à l’H.P.
+
+['</s>', ',', 'qui', '.', "J'"]	Pradal	[MASK] a choisi d’inviter son témoin dans l’atelier de poterie qui comporte une petite cuisine sympathique dans l’arrière-boutique. Il a disposé une planche sur deux tréteaux, épousseté deux tabourets et fait l’acquisition chez un droguiste voisin de deux couverts complets.
+
+['sais', 'oui', 'non', 'je', 'chérie']	Fari	— Je sais, [MASK], je sais mais ça le ramènera pas de te flanquer sous un train. — J’aurais donné ma vie pour lui et je l’ai tué. Je suis vraiment la dernière des merdes. Il la laisse s’auto flageller.
+
+['la', "l'", 'se', 'quatre', 'deux']	Pradal	Au même moment la lumière crue d’un phare automobile tombe d’un arbre éclairant de façon irréelle la scène en train de se jouer. Puis la voix de [MASK], à cinq mètres, claque : — Mains en l’air, police.
+
+['.', '...', '"', 'de', 'en']	Sony	— Faites voir. Intéressé, le gosse défait les ficelles et déballe l’objet de sa convoitise estampillé [MASK]. — C’est pour moi ? — Heu… oui. — Pourquoi vous faites ça ? — J’avais promis de te protéger, c’est ma punition.
+
+['Puis', 'Et', 'et', 'puis', 'conclut']	Pradal	— Salut, inspecteur. Et le gosse disparaît dans la nuit. [MASK], sur le ton de la confidence, en remplissant un verre à l’éducateur : — Vous le connaissez bien ce gamin ? — Oui, c’est un bon. Pourquoi ?
+
+[',', 'il', 'elle', 'Il', 'puis']	Pradal	[MASK] passe dans la cuisine et s’attarde enfin dans la chambre. Il soutire à la table de nuit une tablette pratiquement terminée d’amphétamines. Puis, haussant la voix, interpelle son collègue resté dans l’autre pièce.
+
+["l'", 'femme', 'pierre', 'la', 'marbre']	Tramson	— C’est à toi qu’il arrive quelque chose, mec. Ta copine, la petite Farida, s’est fait suriner cette nuit. Elle est morte. Un éclat cobalt dans la tête de [MASK]. Mille pensées, mille poignards. L’éclat d’un soleil.
+
+['qui', 'et', 'il', 'elle', ',']	Simon	Je le sens, c’est une fille du quartier, elle bougera pas. — Elle a peur, grésille le vieux. [MASK] se tourne vers lui, presque sympa : — C’est vrai, mon oncle : elle a peur et elle rôde dans le coin.
+
+['oui', 'al', 'moi', 'toi', 'non']	Tijuana	— Oui. — Qui t’a fait ça, mon grand ? — Faouzi et [MASK]. — Tu sais pourquoi ? Alors ça sort. L’histoire, toute l’histoire. Une logorrhée, le besoin de se faire mal, la honte à l’état brut.
+
+['Faut', 'faut', 'Ouais', 'Va', 'A']	Simon	Quel est le flic branché sur l’affaire ? — L’artiste, le potier. Paraît que c’est un vrai cerveau. Tu vas en chier, [MASK]. — Faut voir. Je vais commencer par lui envoyer un message pour qu’il sache que j’aime pas me faire entuber.
+
+['la', 'le', 'les', "l'", 'une']	Youssouf	Je vais pas cracher sur du matériel japonais. De toute façon, c’est moi qui ai fait la connerie. J’aurais jamais dû accepter votre plan à la con. — On a quand même serré [MASK]. — Pour quoi ? Pour dix tubes !
+
+['la', "l'", 'son', 'sa', 'M.']	Nasser	Curieusement, cette réflexion la touche au point sensible. Elle ne répond rien mais admet en son for intérieur qu’elle s’est durcie depuis le départ de [MASK]. Elle fixe le quinquagénaire, envahie par une soudaine pitié.
+
+['sexuel', 'familial', 'affectif', 'sentimental', 'masculin']	Mustapha	— À vrai dire, ta sœur précise que tu la bats de préférence la nuit donc l’alibi [MASK] ne tient pas. Alors Faouzi, pourquoi bats-tu ta sœur la nuit ? — La nuit je dors, je bats personne. Je fais des rêves très pacifiques, mec.
+
+['"', ':', ',', '.', 'encore']	Tramson	Elle rentre chez elle. « Pourquoi s’enfonce-t-elle ainsi ? » s’interroge [MASK]. Faut-il comprendre son attitude comme une autopunition ? Un point de non-retour ? Les tempes en feu, tourmenté, il fait volte-face et regagne son logement, les mâchoires serrées.
+
+['Jacques', 'Pierre', 'Paul', 'Jean', 'Jules']	Simon	Deux étages au-dessus, le bourdonnement de la sonnette tire [MASK] hors du lit. Il saute dans un jean, enfile une Lacoste rose, un blouson et rafle son fric et son carnet d’adresses. Un dernier regard au studio richement équipé.
+
+['il', 'Il', 'y', 'monsieur', 'on']	Farida	— C’est vous qui le gardez en permanence ? — Oui. [MASK] passait deux fois par semaine pour le voir et nous donner l’argent mais il vivait ici tout le temps. — Pourquoi dites-vous « vivait » ? Ce n’est plus le cas ?
+
+['ça', 'vous', 'je', 'tu', 'nous']	Farida	— J’ai une théorie un peu bancale mais je te la sers quand même : admettons que [MASK] dealait du crack… — Je veux plus entendre vos conneries. On peut pas se contenter de bouffer peinards, non ? — Comme tu veux, mon garçon.
+
+['-', 'L', '--', 'D', '"']	Stevie	. — T’es blindé, [MASK] ! Qu’est-ce que tu fumes ? — Arrête, je l’ai vu s’installer avec tout son bordel pour fabriquer des vases et toutes ces conneries. — Là, je rêve !
+
+["qu'", ',', 'et', 'même', "s'"]	Stevie	Alors ça sort. L’histoire, toute l’histoire. Une logorrhée, le besoin de se faire mal, la honte à l’état brut. Il vomit tout, [MASK], faut que ça fasse mal. Enfin il se tait, épuisé et contrit.
+
+['il', 'Il', 'elle', 'je', 'Je']	Stevie	Chopez-le pour moi. — Cette fois, je promets et je tiendrai. L’enfant lève sa main et le flic la claque à la volée. Ils se permettent enfin un premier sourire. Puis [MASK] lève le doigt transporté brusquement dans une autre réalité.
+
+['toi', 'ton', 'service', 'quartier', 'coin']	Barbès	— Bon, tu m’intéresses. Sais-tu pourquoi ? — J’vois pas. — Les flics n’imaginent pas qu’une belle fille comme toi puisse dealer. Ils aligneront tous les mâles de [MASK] avant de se décider à fouiller une femme. Voilà pourquoi.
+
+['Elle', 'Il', 'et', 'il', 'elle']	Tramson	: — J’adorais cette fille, vous savez. — Vous culpabilisez, si je comprends bien ? [MASK] lève lentement son visage vers l’inspecteur, les yeux gonflés de pleurs. « Qu’est-ce qu’ils ont tous à chialer dans ce bled ?
+
+['monsieur', 'celui-ci', 'madame', 'maman', 'Monsieur']	Nasser	— Ça va, ça va. C’est du passé, bredouille l’enfant. — Oui, mais quand même. Au fait, j’ai une question à te poser. Voilà : autour du cadavre de [MASK], il y avait des tubes de crack écrasés.
+
+['ça', 'pied', 'tout', 'mon', 'ton']	Youssouf	— Je sais, je vais récupérer [MASK] en sortant d’ici. Au fait, les flics qui ont pris ta déposition prétendent que tu n’as pas vu tes agresseurs. C’est du pipeau, non ? — Évidemment.
+
+['il', 'lui', 'qui', 'celui-ci', 'ce']	Marcello	En réalité l’enfant rêve des Tortues Ninja qu’il a vues au supermarché mais [MASK] n’est pas branché sur les reptiles. Son truc serait plutôt la guenon qui lui bouffe le cerveau d’heure en heure. C’est ce genre de type qui n’a pas besoin de payer un psychanalyste.
+
+['confiance', 'courage', 'connaissance', 'espoir', 'conscience']	Nasser	— A-t-elle retrouvé [MASK] ? — Pas à ma connaissance. — Lui connaissiez-vous des ennemis ? — Des ennemis, non, mais elle avait un copain qui s’occupait un peu d’elle. C’est un éducateur de rues, il s’appelle Tramson.
+
+['moi', 'lui', 'elle', 'nous', 'eux']	Nasser	— Oui… oui, c’est moi. — Tu vis toujours avec [MASK] ? Un rugissement dans son bas-ventre. Les couteaux de cet orage. Au prix d’un effort inhumain, elle parvient à grimacer un sourire immonde : — Pas pour le moment, la roue tourne.
+
+['oui', 'Oui', 'non', 'Non', 'Toi']	Fari	Après cinq minutes passées à s’agacer sur le verre opaque il essaie de tourner la poignée et découvre, subitement angoissé, que la porte n’est pas verrouillée. Le gosse pénètre vivement à l’intérieur et, d’une voix fluette, souffle « [MASK], tu es là ».
+
+['Non', 'Oui', 'Lui', 'Il', 'Je']	Faouzi	— C’est pas vrai, je l’ai pas tuée ! Il tire sur ses menottes tel un ours furieux pataugeant dans sa bauge, les yeux injectés de sang. — [MASK] ? — Lui non plus, ça s’est pas passé comme ça.
+
+['puis', 'et', 'il', 'elle', 'Il']	Farida	La jeune femme dépose toute sa fortune sur la table de formica puis tourne le dos au marabout qui dodeline de la tête. Sur la place, dans le soleil, un Zaïrois martèle des bongos. [MASK] se plante face au musicien, les mains profondément enfoncées dans les poches de ses jeans.
+
+['Ah', 'et', 'Et', 'Enfin', 'enfin']	Stevie	? — Arrête, je l’ai vu s’installer avec tout son bordel pour fabriquer des vases et toutes ces conneries. — Là, je rêve ! Ah, [MASK], un dernier point : tu racontes à personne que je crèche ici, c’est d’accord ?
+
+['elle', 'tout', 'la', 'une', 'sa']	Farida	Elle veut du speed pour oublier ce monde de merde et en particulier ce salaud de Nasser qui s’est tiré avec la couverture chauffante, le premier Velvet et la caisse des commissions. Elle veut du speed contre tous ses principes car elle est clean, [MASK].
+
+['</s>', 'deux', 'Deux', 'Je', '-']	Solomon	? — Lui non plus, ça s’est pas passé comme ça. — Bon, tu vas me raconter ça. [MASK], trois cafés, s’il vous plaît. Il y a une cuisinière dans l’arrière-boutique.
+
+['Papa', 'Tu', 'Mi', 'Son', 'Je']	Faouzi	Masqué, l’homme noir. Il plisse les yeux pour se rappeler mais sous son crâne ça carbure à 10.000 tours. — Je sais plus, moi, je devais taper le carton. — Avec qui ? — [MASK], Diégo des mecs comme ça.
+
+["c'", 'il', "C'", 'qui', 'lui']	Stevie	Direct, le gars. La suite de la missive est à l’avenant, le gosse pleurnichant sur son sort de petit employé tenu de ramener sa paye à la maison. En fait, son oncle lui reverse de l’argent de poche mais [MASK] est un vrai panier percé.
+
+['Il', 'Elle', 'il', 'Je', 'elle']	Pradal	— Il s’est mis aux claquettes. Je peux faire quelque chose pour vous ? [MASK] sort sa carte et l’agite sous le nez de la fille. — Oui, évitez les cartes de crédit. Non, je plaisante.
+
+['la', 'ma', 'une', 'moi', 'le']	Rastaman	Comment elle va ? — Pas terrible, côté moral. Tu pourrais t’arranger pour passer la voir régulièrement ? — Je le fais déjà mais je peux pas passer tout mon temps dans la boutique, j’ai mon boulot chez [MASK].
+
+['se', ',', 'enfant', 'il', 'elle']	Marcello	[MASK] glisse à terre et serre l’enfant dans ses bras. — Tu n’oublieras pas papa, hein, mon amour, tiens prends ta voiture en bois, c’est papa qui l’a faite pour toi. L’enfant, vaguement effrayé par l’attitude de l’albinos, s’exécute.
+
+['"', '_', ',', 'â', '-']	Farida	[MASK]. Elle avale l’alcool cul sec. Une noyade. — Tu bois ça comme du jus d’orange, s’amuse l’homme. — Ça m’aide à prendre les choses du bon côté. J’ai des képas à livrer ce soir ?
+
+['moi', ',', 'nous', 'ça', 'service']	Rastaman	— Pas du tout, tu travaillais déjà pour [MASK] et j’ai acheté cinq Dennis Brown d’un coup. J’avais la crève alors ils t’ont envoyé faire la livraison. — Ouais, ça me revient. Dis donc, c’est la boutique des éducateurs ici ?
+
+[',', 'et', 'il', 'elle', 'on']	Tramson	[MASK] se penche sur le plus proche des greffiers, un bâtard grisâtre aux yeux fous. L’animal se contracte devant l’intrus et d’un coup de reins prodigieux fuse contre le tronc d’un platane centenaire, situé à trois bons mètres.
+
+['ch', 'k', "l'", 'K', 'Ch']	Pradal	— Je sais pas où il est Simon mais rentrez donc, je fais du café. Ça vous va ? Amusé, [MASK] opine du chef. Le vieux passe derrière sa caisse, appuie négligemment sur un bouton et commence à faire bouillir de l’eau.
+
+['il', 'elle', 'Il', 'Elle', 'qui']	Tramson	Ils replongent de concert – chacun muré dans sa mauvaise humeur – vers leurs assiettes respectives au moment où grelotte la désuète clochette, accrochée sur la porte de la rue. [MASK] fait son entrée, un peu effaré par le spectacle qui s’offre à lui.
+
+['lui', 'celui', 'ce', 'celui-là', 'elle']	Marcello	Vous auriez dû m’en parler. C’est [MASK] qui a tué votre… heu… amie. Il vient de se faire sauter le caisson à la grenade, l’affaire est terminée. J’ai pensé que vous l’éducateur vous sauriez quoi faire de ce gamin.
+
+['</s>', 'lui', 'qui', 'il', ',']	Pradal	Son corps maigre est agité de hoquets déchirants qui attirent dans la pièce Solomon et le photographe. [MASK], un doigt sur la bouche, leur fait signe de dégager la piste. Le gosse s’essuie le nez et les yeux avec sa manche et relève piteusement la tête.
+

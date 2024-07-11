@@ -1,0 +1,200 @@
+['il', 'elle', 'Chopin', 'Debussy', 'Mozart']	Paolo	L’enthousiasme vous saisissait quand [MASK] étalait devant vous ces trésors de poésie en en cherchant la formule dans le langage sublime mais borné de la musique, et vous l’admiriez pendant qu’une exaltation délirante l’emportait loin de vous, car vous aimiez à croire que toute cette énergie déviée serait enfin ramenée à l’amour.
+
+['«', '–', '—', '5', '1']	Marianna	[MASK]. Ou vous m’avez déjà comprise, ou vous ne me comprendrez jamais. Essayez de vous interroger.– J’y consens, mais vous m’écouterez. Cette main que je vous ai prise, vous la laisserez dans la mienne aussi longtemps que mon récit sera fidèle.–
+
+['Bach', 'Wagner', 'Beethoven', 'Mozart', 'Debussy']	Rossini	quelle lâcheté de style ! Ces tournures uniformes, cette banalité de cadences, ces éternelles fioritures jetées au hasard, n’importe la situation, ce monotone crescendo que [MASK] a mis en vogue et qui est aujourd’hui partie intégrante de toute composition ;
+
+['le', 'Monsieur', 'Madame', 'Marie', 'la']	Marianna	– Marié avec une danseuse ! – Comment allez-vous faire pour vivre ? dit la fille. La route vous a tuée et…– Et vieillie, dit [MASK]. Non, ce n’est ni la fatigue, ni la misère, mais le chagrin.– Ah çà !
+
+['Il', 'Elle', 'On', 'II', 'Napoléon']	Giardini	Vous pourrez vous livrer à des expériences in animâ vili, c’est-à-dire sur l’estomac de mes vassaux. Voici un bon sur mon banquier pour vos frais de voyage.[MASK] baisa la main du comte, suivant la coutume napolitaine.–
+
+['Monsieur', 'Charles', 'Pierre', 'Louis', 'Joseph']	Andrea	Ne parlez pas ainsi, les générosités ont leur péril aussi, répondit-elle en retenant mal ses larmes. Mais quoi, vous me quittez déjà !– Oui, dit [MASK], soyez heureuse sans distraction.S’il fallait croire le cuisinier, le changement d’hygiène fut favorable aux deux époux.
+
+['gamme', 'corde', 'cordes', 'ton', 'violon']	Bertram	Cet ut mineur diabolique, cette terrible basse de [MASK] entame son jeu de sape qui détruira tous les efforts de cet homme à tempérament violent. Là, pour moi, tout est effrayant. Le crime aura-t-il le criminel ? le bourreau aura-t-il sa proie ?
+
+['Il', 'II', 'Elle', 'Alexandre', 'Napoléon']	Gambara	[MASK] s’essuya le front, lança son regard avec tant de force vers le plafond, qu’il sembla le percer et s’élever jusqu’aux cieux.– Vous avez vu le péristyle, dit-il, nous entrons maintenant dans le palais. L’opéra commence. Premier acte.
+
+['Clara', 'Marguerite', 'Marie', 'Isabelle', 'Sophie']	Gambara	– Qui a pu vous dicter de pareils chants ? demanda le comte.– L’esprit, répondit [MASK] ; quand il apparaît, tout me semble en feu. Je vois les mélodies face à face, belles et fraîches, colorées comme des fleurs ;
+
+['Hugo', 'Rodolphe', 'Baudelaire', 'Berthe', 'Clara']	Giardini	Le voici, dit [MASK] à voix basse en serrant le bras du comte et lui montrant un homme d’une grande taille. Voyez comme il est pâle et grave le pauvre homme ! aujourd’hui le dada n’a sans doute pas trotté à son idée.
+
+['Il', 'Jésus', 'Pierre', 'David', 'Moïse']	Mahomet	[MASK] s’écrie dans une invocation (en ut) que l’ange Gabriel est avec lui, et montre un pigeon qui s’envole. Le chœur des Croyants répond par des accents de dévouement sur une modulation (en si majeur).
+
+['Flaubert', 'Proust', 'Hugo', 'Baudelaire', 'Rimbaud']	Gluck	[MASK] avant d’écrire réfléchissait longtemps. Il calculait toutes les chances et arrêtait un plan qui pouvait être modifié plus tard par ses inspirations de détail, mais qui ne lui permettait jamais de se fourvoyer en chemin. De là cette accentuation énergique, cette déclamation palpitante de vérité.
+
+['Beethoven', 'Mozart', 'Wagner', 'Il', 'Bach']	Beethoven	[MASK] n’a pas construit autrement sa symphonie en ut. Mais son mouvement héroïque est purement instrumental, au lieu qu’ici mon mouvement héroïque est appuyé par un sextuor des plus belles voix humaines, et par un chœur des Croyants qui veillent à la porte de la maison sainte.
+
+['Antoine', 'Abraham', 'Alice', 'Isabelle', 'Augustin']	Alice	! quelle liaison de toutes les parties, quelle puissance de construction ! Le diable est là-dessous, il se cache, il frétille. Avec l’épouvante d’[MASK], qui reconnaît le diable du Saint-Michel de son village, le combat des deux principes est posé.
+
+['Rodrigue', 'il', 'Alexandre', 'Roméo', 'Rodolphe']	Mahomet	Les voluptés se groupent et se dessinent afin de produire leur opposition au sombre finale du premier acte. Après les danses, [MASK] se lève et chante un grand air de bravoure (fa mineur) pour regretter l’amour unique et dévoué de sa première femme en s’avouant vaincu par la polygamie.
+
+['Monseigneur', 'vous', 'Napoléon', 'Dieu', 'monsieur']	Beethoven	dit-il en s’adressant à Andrea.– Merci, répondit le comte, je ne me sens pas doué des organes nécessaires à l’appréciation des chants français. Mais si vous étiez mort, monsieur, et que [MASK] eût fait la messe, je ne manquerais pas d’aller l’entendre.
+
+['Monsieur', 'monsieur', 'Joseph', 'Madame', 'madame']	Giardini	Elle est fière, excusez du peu ! s’écria-t-elle. À quoi ça lui sert-il ? dit-elle à l’oreille de [MASK].Dans cette année, les artistes furent pleins de précautions pour leurs instruments, les raccommodages ne suffirent pas à défrayer ce pauvre ménage
+
+['Dieu', 'Satan', 'Jésus', 'Abraham', 'Marie']	Bertram	le malheur dévorera-t-il le génie de l’artiste ? la maladie tuera-t-elle le malade ? l’ange gardien préservera-t-il le chrétien ? Voici le finale, la scène de jeu où [MASK] tourmente son fils en lui causant les plus terribles émotions.
+
+['Monsieur', 'Madame', 'madame', 'monsieur', 'Marie']	Marianna	Je vous aime, [MASK], comme on aime dans ce beau pays où nous sommes nés l’un et l’autre ; je vous aime de toute mon âme et de toutes mes forces, mais avant de vous offrir cet amour, je veux me rendre digne du vôtre.
+
+['</s>NOTUSED', '»', 'Madame', 'Elle', 'Marie']	Marianna	demain nous irons ensemble choisir un logement pour lui. M’estimez-vous assez pour m’associer aux fonctions de votre tutelle.[MASK], étonnée de cette générosité, tendit la main au comte, qui sortit en s’efforçant d’échapper aux civilités du signor Giardini et de sa femme.
+
+['Prince', 'Roi', 'Le', 'Un', 'Poète']	Mahomet	! dit l’heureux compositeur en se rasseyant au piano. (Andantino solo.) [MASK] malheureux dans son sérail, entouré de femmes. Quatuor de houris (en la majeur). Quelles pompes ! quels chants de rossignols heureux ! Modulations (fa dièse mineur).
+
+['Madame', 'Monsieur', 'Antonio', 'Maria', 'madame']	Giardini	Dans quelques minutes, reprit [MASK], vous allez voir votre donnina. Je vous placerai près du mari, et si vous voulez être dans ses bonnes grâces, parlez musique, je les ai invités tous deux, pauvres gens !
+
+['Voltaire', 'Rousseau', 'Balzac', 'Goethe', 'Diderot']	Gambara	Mais, monsieur, dit [MASK] du ton humble d’un homme qui craint de voir ses paroles accueillies par le dédain ou par la malveillance, quoique jeune, vous avez longtemps étudié ces hautes questions de l’art, sans quoi vous ne les exposeriez pas avec tant de clarté.
+
+['Mozart', 'Paris', 'Venise', 'tout', 'Jupiter']	Robert	Comme la barcarolle vénitienne nuance bien ce finale ! par quelles transitions hardies cette scélérate paternité rentre en scène pour ramener [MASK] au jeu ? Ce début est accablant pour ceux qui développent les thèmes au fond de leur cœur en leur donnant l’étendue que le musicien leur a commandé de communiquer.
+
+['Beethoven', 'Debussy', 'Mozart', 'Wagner', 'Chopin']	Meyerbeer	La mélodie, ce fil d’or qui ne doit jamais se rompre dans une composition si vaste, disparaît souvent dans l’œuvre de [MASK]. Le sentiment n’y est pour rien, le cœur n’y joue aucun rôle ;
+
+['le', 'Mme', 'la', 'madame', 'Madame']	Giardini.–	je suis tout étourdi, s’écria le comte en sortant, un enfant dansant sur un clavier ferait de meilleure musique.– Assurément, le hasard n’éviterait pas l’accord de deux notes avec autant d’adresse que ce diable d’homme l’a fait pendant une heure, dit [MASK]
+
+['elle', 'Naples', 'Paris', 'place', 'Rome']	Marianna	Un réfugié, dont les œillades fréquentes trahissaient de prétentieux projets sur [MASK] et qui croyait se placer bien avant dans le cœur de l’Italienne en cherchant à répandre le ridicule sur son mari, commença le feu pour mettre le nouveau venu au fait des mœurs de la table d’hôte.–
+
+['Mozart', 'Le', '</s>NOTUSED', 'Molière', 'Il']	Mahomet	Premier acte. [MASK], seul sur le devant de la scène, commence par un air (fa naturel, quatre temps) interrompu par un chœur de chameliers qui sont auprès d’un puits dans le fond du théâtre (ils font une opposition dans le rythme.
+
+['Elle', 'Il', 'elle', 'Marie', 'Madame']	Cadhige	[MASK] était vieille, elle avait vingt ans. Attention, voici l’ouverture ! Elle commence (ut mineur) par un andante (trois temps). Entendez-vous la mélancolie de l’ambitieux que ne satisfait pas l’amour ?
+
+['Monsieur', 'monsieur', 'Madame', 'madame', '</s>NOTUSED']	Giardini	jusqu’à ce jour il s’est obstiné à rester devant la fenêtre bouchée, il faut le conduire à l’autre. Vous le premier m’avez mis sur la voie, [MASK], en me disant que votre hôte raisonne plus juste dès qu’il a bu quelques verres de vin.–
+
+['</s>NOTUSED', 'Monsieur', '–', '[...]', 'Madame']	Marianna	s’ils sont efficaces, peut-être ne saurai-je pas me résigner à mon rôle d’ami, mais alors je vous fuirai, [MASK]. Si je me sens assez de courage pour travailler à votre bonheur, je n’aurai pas assez de force pour le contempler.–
+
+['Ce', 'Elle', 'Il', 'Cela', 'Tout']	Gambara	L’épicier n’avait pas voulu faire crédit de l’eau-de-vie avec laquelle la femme grisait son mari pour le faire bien jouer. [MASK] fut alors si détestable, que les oreilles de la population riche furent ingrates, et le rond de moiré métallique revint vide.
+
+['triste', 'aimé', 'heureux', 'amoureux', 'perdu']	Robert	Ainsi, la douceur de la patrie aimée nuance d’un filet brillant ce sombre début. Puis vient cette merveilleuse ballade en ut majeur, accompagnée du chœur en ut mineur, et qui dit si bien le sujet ! – Je suis [MASK] ! éclate aussitôt.
+
+['force', 'elle', 'douceur', 'bonheur', 'joie']	Alice	mais elle va se calmer, car les souvenirs de l’enfance arrivent avec [MASK] par cet allegro en la majeur plein de mouvement et de grâce. Entendez-vous les cris de l’innocence qui, en entrant dans ce drame infernal, y entre persécutée ? – Non, non
+
+['Jésus', 'Dieu', 'David', 'Christ', 'Paul']	Gambara	Voyez-vous, dit [MASK], cette musique n’est faite ni pour les incrédules ni pour ceux qui n’aiment point. Si vous n’avez pas éprouvé dans votre vie les vigoureuses atteintes d’un esprit mauvais qui dérange le but quand vous le visez, qui donne une fin triste aux plus belles espérances
+
+['Chopin', 'Mozart', 'Beethoven', 'Wagner', 'Goethe']	Gambara	Le cuisinier napolitain qu’ébranla la communication magnétique des idées exprimées par les spasmes de la voix de [MASK], s’unit à cette émotion. Le musicien se retourna, vit ce groupe et sourit.– Vous me comprenez enfin ! s’écria-t-il.
+
+['lui', 'elle', 'moi', 'Jeanne', 'eux']	Marianna	Quoi qu’il en soit, je renonce à jamais à l’usage du vin, dont l’abus m’a entraîné hier au soir dans de bien coupables folies. Quand je pense que j’ai failli… (il jeta un regard d’effroi sur [MASK]).
+
+['lui', 'elle', 'moi', 'Maria', 'Juliette']	Giardini	de toute création humaine. Rompant alors la chaîne des transitions incroyables qui l’avaient amené dans ce bouge enfumé, il se crut le jouet de quelque hallucination étrange, et ne regarda plus Gambara et [MASK] que comme deux abstractions.
+
+['Mozart', 'Beethoven', '«', 'Il', 'Chopin']	Gambara	[MASK], rencontrant pour la première fois un homme qui ne lui riait point au nez, ne tarda pas à sortir des généralités pour parler de lui-même, de sa vie, de ses travaux et de la régénération musicale de laquelle il se croyait le Messie.–
+
+['il', 'Dieu', 'Shakespeare', 'Baudelaire', 'Pascal']	Robert	Mais à quoi sert cette comparaison, si ces deux œuvres sont belles de leurs beautés propres ? Pour moi, qui gémis sous les coups réitérés du démon, [MASK] m’a parlé plus énergiquement qu’à vous, et je l’ai trouvé vaste et concentré tout à la fois.
+
+['elle', 'Il', 'il', 'Elle', 'lui']	Paolo	Vous vous disiez : [MASK] sera mon génie, moi je serai sa raison, à nous deux nous ferons cet être presque divin qu’on appelle un ange, cette sublime créature qui jouit et comprend, sans que la sagesse étouffe l’amour.
+
+['il', 'Dieu', 'Mozart', 'Beethoven', 'elle']	Mahomet	Voici le désert qui envahit le monde (l’ut majeur reprend). Les forces de l’orchestre reviennent et se résument dans une terrible quinte partie de la basse fondamentale qui expire, [MASK] s’ennuie, il a tout épuisé ! le voilà qui veut mourir Dieu ?
+
+['musique', 'effet', 'somme', 'fait', 'vérité']	Sicile	Que vois-je ? le seul spectacle à qui nous donnions le nom d’infernal, une orgie de chevaliers, en [MASK]. Voilà dans ce chœur en fa toutes les passions humaines déchaînées par un allegro bachique. Tous les fils par lesquels le diable nous mène se remuent
+
+['Il', 'Napoléon', 'il', 'Elle', 'On']	Mahomet	! Quel pompeux récitatif ! [MASK] récompense ses généraux en leur donnant ses filles. (Ici, dit-il d’un air piteux, il y a un de ces ignobles ballets qui coupent le fil des plus belles tragédies musicales !)
+
+['celui', 'Chopin', 'ce', 'Picasso', 'Debussy']	Gambara	Madame, dit en terminant [MASK] qui n’était pas gris, nous sommes victimes de notre propre supériorité. Ma musique est belle, mais quand la musique passe de la sensation à l’idée, elle ne peut avoir que des gens de génie pour auditeurs, car eux seuls ont la puissance de la développer.
+
+['il', 'Charles', 'Eugène', 'Louis', 'Paul']	Gambara	S’il fallait croire le cuisinier, le changement d’hygiène fut favorable aux deux époux. Tous les soirs après boire, [MASK] paraissait moins absorbé, causait davantage et plus posément ; il parlait enfin de lire les journaux.
+
+['Antoine', 'Antonio', 'Alma', 'André', 'Alexandre']	Isabelle	Je respire, j’arrive dans la sphère élevée d’une cour galante ; j’entends les jolies phrases fraîches et légèrement mélancoliques d’[MASK], et le chœur de femmes en deux parties et en imitation qui sent un peu les teintes moresques de l’Espagne.
+
+['Il', 'Giovanni', 'Antonio', 'Giuseppe', 'Paolo']	Giardini	[MASK] affectait de se tenir près du comte, et faisait le cicerone en lui indiquant quels étaient ses habitués. Il tâchait d’amener par ses lazzi un sourire sur les lèvres d’un homme en qui son instinct de Napolitain lui indiquait un riche protecteur à exploiter.–
+
+['souvent', 'beaucoup', 'encore', 'toujours', 'cela']	Robert	Jamais le génie ne lâche la science qui le guide. Ici le chant d’Alice se trouve en si bémol et se rattache au fa dièse, la dominante du chœur infernal. Entendez-vous le tremolo de l’orchestre ? on demande [MASK] dans le cénacle des démons.
+
+['elle', 'qui', 'Clara', 'Suzanne', 'il']	Marianna	Ce changement eût dissipé l’illusion d’un homme blasé, mais chez le comte, le caprice était devenu passion. Dépouillée de sa poétique misère et transformée en simple bourgeoise, [MASK] le fit rêver au mariage, il lui donna la main pour monter dans un fiacre et lui fit part de son projet.
+
+['Il', 'Chopin', 'Mozart', 'Beethoven', 'Debussy']	Gambara	Vous allez juger de ma manière d’exprimer par des sons un grand fait que la poésie ne saurait rendre qu’imparfaitement par des mots.[MASK] se mit à son piano d’un air recueilli, et sa femme lui apporta les volumineux papiers de sa partition qu’il n’ouvrit point.–
+
+['</s>NOTUSED', 'mon', 'cela', '?', 'ce']	Gambara	S’il est encore temps de faire tonner la poésie à ses oreilles, au milieu des accords d’une belle musique, il faut le mettre en état d’entendre et de juger. Or, l’ivresse peut seule venir à mon secours. M’aiderez-vous à griser [MASK], mon cher
+
+['Newton', 'Freud', 'Holmes', 'Dieu', 'Goethe']	Andrea	Oui, dit [MASK], j’y ai songé. Mais, pour reconnaître si mes projets ne reposent point sur une fausse base, j’ai besoin d’appuyer mes soupçons sur une expérience. Je reviendrai pour examiner les instruments qu’il a inventés.
+
+['il', 'elle', 'on', 'Paul', 'Il']	Andrea	Elle approuva tout, heureuse de trouver son amant encore plus grand, plus généreux, plus désintéressé qu’elle ne l’espérait. Elle arriva dans un appartement où [MASK] s’était plu à rappeler son souvenir à son amie par quelques-unes de ces recherches qui séduisent les femmes les plus vertueuses.–
+
+['Il', 'Elle', 'Jésus', 'Dieu', 'Joseph']	Andrea	[MASK] ne put s’empêcher de frémir en voyant la rapidité inespérée de son succès ; mais quoique ses angoisses lui révélassent la force de son amour, elles ne le firent point chanceler dans sa vertueuse résolution. Il vint un jour reconnaître les progrès de cette singulière guérison.
+
+['il', 'Il', 'elle', 'on', 'lui']	Paolo	mais dès qu’il avait complétement recouvré, ou plutôt reperdu sa raison, il retombait dans sa manie. Néanmoins, [MASK] se laissait déjà plus facilement distraire par l’impression des objets extérieurs, et déjà son intelligence se dispersait sur un plus grand nombre de points à la fois.
+
+['Molière', 'Racine', 'Shakespeare', 'Mozart', 'Corneille']	Mozart	si vous imaginez enfin l’âme de la mère planant sur la tête de son fils pour l’arracher aux horribles séductions paternelles, vous n’aurez encore qu’une faible idée de cet immense poëme auquel il manque peu de chose pour rivaliser avec le Don Juan de [MASK].
+
+['Dieu', 'malheur', 'pitié', 'hasard', 'ciel']	Bacchus	enfin, au dernier hurlement du piano, il s’était jeté en arrière et avait laissé tomber sa tête sur le dos de son fauteuil.– Par [MASK] ! je suis tout étourdi, s’écria le comte en sortant, un enfant dansant sur un clavier ferait de meilleure musique.–
+
+['Mozart', 'musique', 'Wagner', 'Bach', 'jazz']	Hændel	! C’est des phrases hachées dont j’ai reconnu l’origine. Le morceau de : Gloire à la Providence ! ressemble un peu trop à un morceau de [MASK], le chœur des chevaliers allant au combat est parent de l’air écossais dans la Dame blanche ;
+
+['Il', 'Elle', 'Lui', 'Monsieur', 'On']	Marianna	Non, ce n’est ni la fatigue, ni la misère, mais le chagrin.– Ah çà ! pourquoi n’avez-vous rien envoyé à votre homme ? lui demanda la fille.[MASK] ne répondit que par un coup d’œil, et la fille en fut atteinte au cœur.–
+
+['Il', 'il', 'Elle', 'elle', 'Louis']	Gambara	Ce malheur lui a porté le dernier coup, et maintenant…[MASK] se posa un doigt au milieu de son front, et secoua la tête.– D’ailleurs, ajouta-t-il, il est bon homme. Ma femme assure que nous lui avons beaucoup d’obligations.
+
+['Wagner', 'Beethoven', 'Bach', 'Mozart', 'Goethe']	Mozart	Voilà le style de [MASK], s’écria-t-il. Voyez comme cet Allemand manie les accords, et par quelles savantes modulations il fait passer l’épouvante pour arriver à la dominante d’ut. J’entends l’enfer ! La toile se lève. Que vois-je ?
+
+['Il', 'Mozart', 'Wagner', 'Chopin', 'Beethoven']	Beethoven	Il voit toute une nature tour à tour éclairée par d’éblouissantes gerbes de lumières, assombrie par des nuages de mélancolie, égayée par des chants divins.– [MASK] est dépassé par la nouvelle école, dit dédaigneusement le compositeur de romances.– Il n’est pas encore compris, dit le comte, comment serait-il dépassé ?
+
+['Il', 'Dieu', 'Elle', 'il', 'Le']	Mahomet	[MASK] paraît (prière en fa). Quelle brillante et majestueuse harmonie plaquée sous ce chant où j’ai peut-être reculé les bornes de la mélodie. Ne fallait-il pas exprimer les merveilles de ce grand mouvement d’hommes qui a créé une musique, une architecture, une poésie, un costume et des mœurs
+
+['il', 'qui', 'et', 'elle', 'Il']	Paolo	Un seul instant vous avez entrevu le bonheur. Retombé des hauteurs où son esprit planait sans cesse, [MASK] s’étonna de trouver la réalité si douce, vous avez pu croire que sa folie s’endormirait dans les bras de l’amour. Mais bientôt la musique reprit sa proie.
+
+['Il', 'On', 'Elle', 'Galilée', 'il']	Gambara	[MASK] lui montra triomphalement les petits tambours sur lesquels étaient des grains de poudre à l’aide desquels il faisait ses observations sur les différentes natures des sons émis par les instruments.– Voyez-vous, lui dit-il, par quels moyens simples j’arrive à prouver une grande proposition.
+
+['Roland', 'Alexandre', 'Charles', 'Pierre', 'Antoine']	Gambara	?– Si ce pauvre fou reste, dit [MASK] à l’oreille du comte, il me sera impossible de jouer.Le comte éloigna le cuisinier en lui promettant une récompense, s’il voulait guetter au dehors afin d’empêcher les patrouilles ou les voisins d’intervenir.
+
+['Andrea', 'il', 'André', 'lui', 'elle']	Mahomet	La légère écume qui vint blanchir les lèvres du compositeur fit frémir Andrea.– Sa femme arrive (la mineur). Quel duo magnifique ! Dans ce morceau j’exprime comment [MASK] a la volonté, comment sa femme a l’intelligence.
+
+['Mozart', 'Luther', 'Goethe', 'Chopin', 'Voltaire']	Gambara	– Et d’abord, monsieur, dit [MASK], permettez-moi de vous apprendre en deux mots le sujet. Ici les gens qui reçoivent les impressions musicales ne les développent pas en eux-mêmes, comme la religion nous enseigne à développer par la prière les textes saints
+
+['Il', 'On', 'Lorenzo', 'Chacun', 'Antoine']	Andrea	[MASK] sentait déjà quelque répugnance à donner une folie si noble et si touchante en spectacle à tant de vulgaires sagesses. Il poursuivit sans arrière-pensée un entretien à bâtons rompus, pendant lequel le nez du signor Giardini s’interposa souvent à deux répliques.
+
+['Vénus', 'Marie', 'Julie', 'Louise', 'Madeleine']	Marianna	Il vint un jour reconnaître les progrès de cette singulière guérison. Si l’état de son malade lui causa d’abord quelque joie, elle fut troublée par la beauté de [MASK], à qui l’aisance avait rendu tout son éclat.
+
+['David', 'Joseph', 'Job', 'Dieu', 'Roméo']	Mahomet	! Quel thème pour le finale (si majeur) que cette douleur, brodée en couleurs si brunes sur le fond des acclamations du chœur, et mariée aux accents de [MASK] abandonnant sa femme comme un instrument inutile, mais faisant voir qu’il ne l’oubliera jamais !
+
+['Madame', 'Mme', 'madame', 'Mademoiselle', 'Marie']	Marianna	Le lendemain, il vint chercher [MASK], qui avait passé la matinée à se composer une toilette simple mais convenable, et qui avait dévoré toutes ses économies. Ce changement eût dissipé l’illusion d’un homme blasé, mais chez le comte, le caprice était devenu passion.
+
+['il', 'elle', 'lui', 'Napoléon', 'Alexandre']	Paolo	mais ses vertus soutenaient les vôtres. Entre votre héroïsme et le sien vous vous demandiez qui céderait le dernier. Vous poursuiviez la réelle grandeur de votre tâche, comme [MASK] poursuivait sa chimère. Si le seul amour du devoir vous eût soutenue et guidée, peut-être le triomphe vous eût-il semblé plus facile
+
+['Beethoven', 'Mozart', 'Debussy', 'Bach', 'Ravel']	Robert	Un tableau dont le coloris n’offrirait que du bleu ou du rouge serait loin de la vérité et fatiguerait la vue. Ainsi le rhythme presque toujours le même dans la partition de [MASK] jette de la monotonie sur l’ensemble de l’ouvrage.
+
+['</s>NOTUSED', 'Marie', 'la', 'le', 'Madame']	Bertram	Si je ne cueillais pas là les marguerites d’un opéra-comique français, si je n’entendais pas la douce plaisanterie de la femme qui sait aimer et consoler, je ne soutiendrais pas la terrible note grave sur laquelle apparaît [MASK], répondant à son fils ce
+
+['On', 'Il', 'Elle', 'II', 'on']	Marianna	[MASK] dégagea, non sans peine, de ses couvertures un instrument aussi grand qu’un piano à queue, mais ayant un buffet supérieur de plus. Cet instrument bizarre offrait, outre ce buffet et sa table, les pavillons de quelques instruments à vent et les becs aigus de quelques tuyaux.–
+
+['le', 'la', 'Bach', 'Mozart', 'Chopin']	Gambara	Au lieu de la musique savamment enchaînée que désignait [MASK], ses doigts produisaient une succession de quintes, de septièmes et d’octaves, de tierces majeures, et des marches de quarte sans sixte à la basse, réunion de sons discordants jetés au hasard qui semblait combinée pour déchirer les oreilles les moins délicates.
+
+['Marie', 'Madame', 'madame', 'Mme', 'maman']	Marianna	; le boisseau a toujours des fentes par où passe la lumière. Dans cette maison se trouvait la famille de ma femme, et l’espoir d’avoir la main de [MASK], qui me souriait souvent de sa fenêtre, avait beaucoup contribué à mes efforts.
+
+['David', 'Guillaume', 'Thomas', 'Alexandre', 'Daniel']	Andrea	Aussi ce matin me suis-je éveillé en songeant à la promesse que vous m’avez faite d’une place de chef. Je me regarde comme attaché maintenant à votre maison.– La même pensée m’est venue il y a quelques jours, répondit [MASK].
+
+['Salomon', 'Moïse', 'David', 'autrefois', 'lui']	Jésus	; il se sert de tout : honneur, espoir, jouissances éternelles et infinies, il fait tout briller à ses yeux ; il le met, comme [MASK], sur le pinacle du temple, et lui montre tous les joyaux de la terre, l’écrin du mal
+
+['Dieu', 'Adam', 'Jésus', 'Satan', 'Jupiter']	Mahomet	Le troisième présente [MASK] dégoûté de tout, ayant épuisé la vie, et dérobant le secret de sa mort pour devenir un Dieu, dernier effort de l’orgueil humain. Vous allez juger de ma manière d’exprimer par des sons un grand fait que la poésie ne saurait rendre qu’imparfaitement par des mots.
+
+['il', 'se', 'Mozart', 'Gautier', 'Molière']	Gambara	! les démons sont joyeux, la misère étouffera le génie, la passion perdra le chevalier.Ici [MASK] développa la bacchanale pour son propre compte, en improvisant d’ingénieuses variations et s’accompagnant d’une voix mélancolique, comme pour exprimer les intimes souffrances qu’il avait ressenties.–
+
+['Mozart', 'Beethoven', 'Voltaire', 'Corneille', 'Jupiter']	Mahomet	Mais [MASK] (si mineur) relève l’opéra par sa grande prophétie, qui commence chez ce pauvre monsieur de Voltaire par ce vers :Elle est interrompue par le chœur des Arabes triomphants (douze-huit accéléré). Les clairons, les cuivres reparaissent avec les tribus qui arrivent en foule.
+
+['Albert', 'Alfred', 'Charles', 'Hugo', 'Paul']	Gambara	Vous êtes grand et fort, vous recommenceriez votre vie, et moi je vous soutiendrais. Nous offririons la noble et rare alliance d’un homme riche et d’un artiste qui se comprennent l’un l’autre.– Êtes-vous sincère ? dit [MASK] frappé d’une soudaine stupeur.–
+
+['Il', 'Elle', 'Mozart', 'Chopin', 'Beethoven']	Gambara	Cette illusion eût été d’autant plus naturelle que l’exécution de cette musique insensée exigeait une habileté merveilleuse pour se rompre à un pareil doigté. [MASK] avait dû travailler pendant plusieurs années. Ses mains n’étaient pas d’ailleurs seules occupées, la complication des pédales imposait à tout son corps une perpétuelle agitation
+
+['Elle', 'Jean', '«', 'Il', '...']	Andrea	[MASK], qui marchait derrière elle, la vit disparaître dans une des plus sombres allées de cette rue dont le nom lui était inconnu. L’aspect repoussant de la maison où venait d’entrer l’héroïne de son roman lui causa comme une nausée.
+
+['Dieu', 'Jésus', 'Mozart', 'dieu', 'Beethoven']	Mahomet	Écoutez ce duo (sol dièse mineur). Quels déchirements ! La femme comprend la grandeur qu’elle a élevée de ses mains, elle aime assez [MASK] pour se sacrifier à sa gloire, elle l’adore comme un Dieu sans le juger, et sans un murmure.
+
+['lui', 'César', 'cela', 'Mozart', 'entendre']	Gambara	À chaque fois qu’il échappait à [MASK] quelque plaisanterie de bon ton ou quelque aperçu paradoxal, le cuisinier avançait la tête, jetait au musicien un regard de pitié, un regard d’intelligence au comte, et lui disait à l’oreille : – E matto !
+
+['Il', 'Elle', 'il', 'Paul', 'Antoine']	Andrea	[MASK] releva son manteau jusqu’à ses moustaches et s’élança hors de la rue, poussé par le dégoût que lui causa cet immonde personnage, dont l’habillement et les gestes étaient en harmonie avec la maison ignoble où venait d’entrer l’inconnue.
+
+['Votre', 'Son', 'son', 'votre', 'vôtre']	Votre	Oui, s’écria le cuisinier, et je devine le plan de [MASK] Excellence.– S’il est encore temps de faire tonner la poésie à ses oreilles, au milieu des accords d’une belle musique, il faut le mettre en état d’entendre et de juger.
+
+['Marie', 'Pierre', 'Jupiter', 'Rodrigue', 'Constance']	Mahomet	Les soldats, les magistrats, les grands arrivent (tempo di marcia. Quatre temps en si majeur). Lutte entre les deux chœurs (strette en mi majeur). [MASK] (par une succession de septièmes diminuées descendante) cède à l’orage et s’enfuit.
+
+['la', 'madame', 'Monsieur', 'son', 'Jeanne']	Gambara	Le comte éloigna le cuisinier en lui promettant une récompense, s’il voulait guetter au dehors afin d’empêcher les patrouilles ou les voisins d’intervenir. Le cuisinier, qui ne s’était pas épargné en versant à boire à [MASK], consentit.
+
+['Beethoven', 'Mozart', 'Chopin', 'Dieu', 'Wagner']	Gambara	Oui, dit [MASK] en s’animant, jusqu’ici l’homme a plutôt noté les effets que les causes ! S’il pénétrait les causes, la musique deviendrait le plus grand de tous les arts. N’est-il pas celui qui pénètre le plus avant dans l’âme
+
+['elle', 'Charlotte', 'Julie', 'Marie', 'Madeleine']	Marianna	Quoique l’esprit élevé de son amant lui fût déjà connu, car il est certaines âmes qui se pénètrent promptement, [MASK] était trop bonne femme de ménage pour ne pas laisser percer l’embarras qu’elle éprouvait à recevoir un si grand seigneur dans une si pauvre chambre.
+
+['Il', 'Lui', 'Freud', 'Descartes', 'Dieu']	Gambara	Vous ignoriez l’empire tyrannique et jaloux que la Pensée exerce sur les cerveaux qui s’éprennent d’amour pour elle. [MASK] s’était donné, avant de vous connaître, à l’orgueilleuse et vindicative maîtresse à qui vous l’avez disputé en vain jusqu’à ce jour.
+
+['moi', 'nous', 'lui', 'Paris', 'toi']	Robert	Il me rafraîchit un moment l’âme, ce bon homme qui exprime la verte et plantureuse Normandie, en venant la rappeler à [MASK] au milieu de l’ivresse. Ainsi, la douceur de la patrie aimée nuance d’un filet brillant ce sombre début.
+
+['Molière', 'Racine', 'Mozart', 'Voltaire', 'Baudelaire']	Andrieux	et, loin de nuire à cette riche mélodie, son organe l’expliqua, la fortifia, la dirigea, comme la voix atone et chevrotante d’un habile lecteur, comme l’était [MASK], étendait le sens d’une sublime scène de Corneille ou de Racine en y ajoutant une poésie intime.
+
+['il', 'on', 'elle', 'Charles', 'Frédéric']	Andrea	? demanda le cuisinier quand [MASK] descendit.– Je le saurai bientôt, répondit le comte. L’intelligence de cet homme a deux fenêtres, l’une fermée sur le monde, l’autre ouverte sur le ciel : la première est la musique, la seconde est la poésie ;
+
+['Chopin', 'celui', 'Debussy', 'Beethoven', 'celle']	Gambara	Entendez-vous les cris de l’innocence qui, en entrant dans ce drame infernal, y entre persécutée ? – Non, non ! chanta [MASK] qui sut faire chanter son pulmonique piano. La patrie et ses émotions sont venues !
+

@@ -1,0 +1,200 @@
+['comme', '...', 'ça', 'ainsi', 'Ben']	Sorinet	— Eh ben, un de nos clients se faisait véhiculer par un engin de ce genre, ces derniers temps. Sauf qu’il s’appelait pas [MASK]… Des mecs louches, j’en connais des paquets dans le secteur, mais là, pardon, il battait les records !
+
+['jazz', 'Shanghai', 'Chicago', 'Pékin', 'Jazz']	Witheman	Elle se fit une robe d’un drap pour mettre un enregistrement du sextette de [MASK], Wang Wang Blues sans réfléchir un instant à sa provenance. Je fronçai les sourcils. — Oh non ! Pas cette chanson ! Je vais virer toute cette collection.
+
+['monsieur', 'mais', 'Monsieur', 'hein', 'là']	Griffon	— Quel coup ? Il souffla profondément et articula laborieusement en se retenant de crier : — Ne faites pas l’idiot, [MASK]… Il me suffisait d’un mot, ce matin, pour que le commissaire Aubry se décide à vous boucler sous l’inculpation de meurtre.
+
+['Il', 'Puis', 'Et', 'Elle', 'Je']	Aubry	Il crachotait, le souffle court, rien qu’en effectuant les cent pas entre le bureau 28 et les chiottes de l’étage. [MASK] montra le bout du nez en raccompagnant son précédent visiteur au pied de l’escalier. Il me fit signe d’entrer.
+
+['mais', 'Monsieur', 'monsieur', 'non', 'colonel']	René	Chacun y trouvait son compte. Le colonel une assise financière, les vinassiers une raison sociale plus séduisante. — Un banal mariage d’intérêt. Il aurait dû s’attendre à ce que sa femme s’amuse au-dehors ! — Pas tout à fait, [MASK].
+
+['Lui', 'Il', 'lui', 'Monsieur', 'Paul']	Georges	J’avais son nom sur le bout de la langue, le type s’agitait dans ma tête, comme une marionnette… [MASK], quant à lui, pouvait faire une croix sur son paquet de bleu. Une croix ou autre chose ; selon ses convictions !
+
+['Monsieur', 'Madame', 'monsieur', 'madame', 'Mademoiselle']	Paul	Au début ils avaient un peu la frousse, avec tout ce qu’on raconte sur notre compte… Les femmes communautaires et tout le tremblement. Maintenant qu’on se connaît, ça va mieux. N’est-ce pas, [MASK] ? — Oui Monsieur. Monsieur a parfaitement raison.
+
+['enfant', 'Anne', 'enfance', 'Hélène', 'ancienne']	Irène	La salade en pot, une passion d’[MASK]. Je pouvais choper quinze pustules sur la figure sans qu’elle s’en aperçoive, mais il suffisait qu’un de ses végétaux jaunisse imperceptiblement, au revers de la feuille, pour qu’elle sorte tout un attirail de phytothérapeute.
+
+['On', 'Il', 'Chacun', 'Elle', 'Qui']	Sorinet	Pas étonnant que les ordres arrivaient toujours trop tard : ils venaient de si loin ! En tout cas, pour un baptême, c’était un baptême : leur artillerie dégueulait des collines. Les projectiles foiraient en plus… Comme des pétards mouillés. [MASK] tendait l’oreille ;
+
+['Zola', 'Céline', 'Sartre', 'Camus', 'Mitterrand']	Zola	Il travaille sur un article, un peu comme vous. C’est le coin des journalistes… Je ne sais pas ce que vaudra le vôtre, mais le sien c’est déjà une vraie bombe. Aussi fort que le « J’accuse » de [MASK]. Enfin presque…
+
+['</s>NOTUSED', '»', 'ans', '«', ':']	Irène	Je fis juste une halte au café des Travailleurs pour acheter le journal. Une vieille habitude. CHAPITRE QUINZE [MASK], le visage dans l’oreiller, dormait encore. Je m’allongeai près d’elle, sans me déshabiller, dans l’ombre de chaleur de son corps, pour attendre son réveil.
+
+['Monseigneur', 'On', 'Il', 'Elle', 'Jésus']	Luce	C’est un établissement d’un grand sérieux, tenu par l’Association des Sœurs de l’Assomption. Elles font preuve d’un dévouement admirable pour tous ces jeunes garçons. [MASK] leur rend visite chaque semaine… Disons que j’attribuais son intérêt pour leurs souffrances à la charité chrétienne.
+
+['Il', 'Paul', 'Pierre', 'Daniel', 'Max']	Aubry	Je n’allais pas résoudre le problème en deux coups de cuillère à pot et me ronger les sangs à débusquer un autre client à cent balles par jour ! [MASK] siffla, admiratif. — Cent balles ! Tu ne t’embêtes pas… — Il a du répondant.
+
+['Il', 'Elle', 'On', 'Jean', 'Lui']	Irène	Des groupes de manœuvres marocains, de grands types squelettiques, prenaient la relève des pionniers bretons ou auvergnats aussi bien dans le cambouis que sur les paillasses. [MASK] fermait les yeux depuis un bon bout de temps. Je sentis ses cheveux sur ma joue au hasard d’un cahot.
+
+['Léon', 'Georges', 'Jules', 'Paul', 'Marcel']	Mortalet	Le plus remarquable, en fait, résidait dans le nombre ahurissant de troquets qui complétaient le tableau : « Le Relais de la Poste », « Au Clairon », « Chez [MASK] », « Au Rendez-vous des Flamands » et d’autres encore qu’on devinait dans les rues adjacentes.
+
+['nous', 'moi', 'Leclerc', 'eux', 'Simon']	Daburon	Huîtres et belons en entrée, charcuterie de chez [MASK] pour suivre, épaule de mouton haricots, fromages, sorbet. La cave avait fourni du chablis et du pommard. À la une des journaux on parlait régulièrement de rétablir les cartes de pain. L’anarchie avait du bon.
+
+['il', 'lui', 'elle', 'Il', 'je']	Fantin	— Ce matin ils parlaient de moi, ensemble, sans savoir que j’écoutais. Ils jouent au chat et à la souris : [MASK] ne me présente pas à sa femme qui sait pertinemment qui je suis ! Et maintenant leur môme qui se suicide parce que sa mère a séduit son amoureux…
+
+['lui', 'son', 'ça', 'elle', 'vous']	Lecointre	En fait, c’est [MASK] ou ses articles qui vous intéressent ? — Ses articles en priorité mais j’aurais bien aimé l’entendre raconter ce qu’il avait vu. Il est difficile de tout caser dans un article, c’est forcément incomplet… C’est possible de les consulter
+
+['Jack', 'Alex', 'James', 'William', 'Harry']	Irène	Il assista sans intervenir aux efforts désespérés du détective pour délivrer [MASK] de la carcasse en feu. Quand le réservoir d’essence explosa à son tour en projetant des morceaux de ferraille tordue sur les façades des immeubles, sa seule réaction se limita à un frisson provoqué par l’onde de chaleur de la déflagration.
+
+['Il', 'Jean', 'Pierre', 'Michel', 'Elle']	Aubry	[MASK] s’apprêtait à allumer une cigarette. Ma question le fit sourire. — Depuis hier soir. Des péquenots ont entendu des coups de feu… J’ai cherché à te joindre aux alentours de minuit… Mais tu es un homme trop occupé pour rester à la maison…
+
+['Paul', 'David', 'Alex', 'Thomas', 'Pierre']	Pédro	La jeune femme nous servit du café mais ils refusèrent de le partager avec nous. Le seul fait de nous voir installés dans la cuisine dépassait leur entendement. Je me remis à interroger [MASK] pour bien le conforter dans mon rôle de journaliste. — Vous comptez demeurer longtemps ici
+
+['Elle', 'Il', '</s>NOTUSED', 'elle', 'Anna']	Irène	— Oui, ça ne change rien. — Au contraire… Les négociateurs parlent américain. Je me contente d’effectuer la liaison entre les deux parties. Traducteur en quelque sorte. Il se sentait moins à l’aise tout d’un coup. [MASK] ne s’était pas trompée
+
+['Il', 'il', 'Elle', 'et', 'Et']	Irène	En fait, je filais des grands coups de pied dans la fourmilière… L’infirmier a vite compris qu’on le serrait de près quand j’ai commencé à descendre au sanatorium… [MASK] m’interrompit : — Tu ne crois pas que tu en rajoutes !
+
+['moi', 'oui', 'toi', 'là', 'mais']	Griffon	On ne me paye pas au mois… Il se contenta de sourire. — Tu as raison, [MASK], j’ai des trous de mémoire. C’est pas étonnant avec tout ce qu’ils nous collent sur le dos ! Enfin je ne vais pas me plaindre…
+
+['Il', 'Elle', 'Jack', 'Je', 'Anna']	Aubry	Oui, bien sûr. J’essaierai d’y faire un tour dans la journée, pour le principe… Je connais la réponse d’avance ! [MASK] me tapa sur l’épaule à trois reprises. — Moi aussi… Le tout est de savoir si c’est la même…
+
+['Il', 'On', 'Elle', 'Pierre', 'Marie']	Irène	! Un attroupement occupait le côté droit de la place Saint-Blaise, des clameurs, des bribes de phrases musicales nous parvenaient aux oreilles. [MASK] se porta en avant. — Ce n’est pas la peine de courir… La cérémonie à l’air d’être terminée ;
+
+['Monsieur', 'monsieur', 'certains', 'Max', 'Tom']	Landru	Tu me diras qu’il suffit de regarder la tronche de [MASK] pour penser qu’on a toutes ses chances auprès des dames ! Enfin, il n’y en a plus qu’un à dénicher… Il avait prononcé ces derniers mots en me fixant droit dans les yeux.
+
+['Il', 'Elle', 'Claire', 'Sam', 'Jean']	Pédro	C’est vrai qu’il doit être crevé à force de courir sans arrêt depuis trois piges… C’est pas grave, on aura le temps d’en discuter ensemble demain. [MASK] referma la porte ; leurs pas s’éloignèrent dans la direction opposée à l’escalier.
+
+['on', 'maman', 'il', 'elle', 'Maman']	Fantin	— D’accord, je marche ! Tu m’aides à préparer les valises ? J’aurais eu besoin de me laver en grand, à l’évier… Faire chauffer l’eau, me sécher les cheveux… Pas le temps, [MASK] serait là pour me passer le peignoir.
+
+['Elle', 'Sophie', 'Alice', 'Marie', 'Jeanne']	Irène	[MASK] était seule, l’espérantiste avait renoncé ! Elle se jeta dans mes bras en riant. — Tu es libre… On va pouvoir prendre un peu de vacances : il te paye la semaine à venir, sans travailler. Tu m’emmènes au cinéma ?
+
+['tiens', 'alors', 'là', 'donc', 'dis']	René	— Tiens, [MASK], on devient noctambule ? Ne me dis pas que c’est moi que tu cherches ? Je n’étais pas d’humeur à lui rendre son sourire. Il remarqua très vite que je serrais les dents et il se composa un masque sérieux.
+
+['Il', 'Paul', 'Papa', 'Monsieur', 'Joseph']	Fantin	Je m’apprêtais à quitter la chambre quand la « nurse » fit irruption. Elle me jeta un regard réprobateur et s’agenouilla près du lit. [MASK] était assis dans un fauteuil du salon. Je l’interrompis dans sa lecture de la page financière du journal.
+
+['Il', 'On', 'Elle', 'Chacun', 'il']	Georges	[MASK] se mit en devoir de pousser les obstacles sans poser de questions après s’être assuré que la rue était libre. — Ah vous les journaleux, tous pareils ! Une vraie drogue ces satanées feuilles de choux… Les flics ne sont pas encore là, mais ne tardez pas à vous pointer, ils risquent
+
+['</s>NOTUSED', 'Le', 'Un', 'Du', 'La']	Émile	Ils avaient déjà nettoyé le secteur Clignancourt où on construisait des sortes de casernes à tout-va. Les H.B.M. [1] Des groupes faisaient la pause dans un troquet en planches. Au passage je distinguai un air joué au phono. [MASK] Vacher à tous les coups…
+
+['René', 'toi', 'Gérard', 'monsieur', 'vieux']	Bob	Il m’appela. — Hello René… Je feignis la surprise alors que je draguais depuis des heures dans ce seul but. — Salut, [MASK]. Je ne m’attendais pas à te trouver là. Qu’est-ce que tu fabriques ? — Je trimbale des veuves australiennes.
+
+['Il', 'Elle', 'On', 'Pierre', 'Paul']	Irène	Je n’avais rien à faire vers la porte Saint-Denis. Je fis demi-tour. [MASK] me rejoignit dans le passage Jouffroy, avant la sortie du musée Grévin, alors que je m’apprêtais à franchir la porte d’un sauna qui servait de couverture à une maison de passe.
+
+['Il', 'Elle', 'Marie', 'Anna', 'Pierre']	Bob	Les coutures blanches, apparentes, traçaient des motifs arrondis sur les fesses et la braguette, d’un effet plutôt douteux. Je passai le « jean ». [MASK] se baissa pour arranger les revers. — Impeccable. Tu verras, c’est très pratique.
+
+['Elle', 'Il', 'Anna', 'Marie', 'Emma']	Luce	Elle agita la tête. — Je ne sais plus. J’avais repéré un sac pendu à un crochet, derrière la porte. Je le saisis et fouillai à l’intérieur. Rien. [MASK] se retourna, la face contre l’oreiller, le corps secoué de sanglots.
+
+['Il', 'Léo', 'Sam', 'Jean', 'Thomas']	Ménard	[MASK] remua dans son lit, perturbé dans son sommeil. J’avançai avec un maximum de précautions vers lui après avoir pris soin de repousser le battant en silence cette fois. Je retins mon souffle en marchant, les muscles tendus, sur la pointe des pieds.
+
+['Hitler', 'Napoléon', 'Poutine', 'Lénine', 'Staline']	Foch	Pourquoi pas un championnat du monde de boxe opposant [MASK] au roi des Pygmées ! — Désolé de vous dire ça, mais vous devez vous mélanger les crayons. Les Russes étaient de notre côté contre les Allemands. Ils ont arrêté les frais au moment de leur Révolution, fin dix-sept, pas avant.
+
+['On', 'Cela', 'Elle', 'Tout', 'Gabriel']	Irène	On en rencontrait des dizaines comme ça, entre quinze et quarante ans maxi… J’évitais de regarder leurs mains grignotées par la chimie, crispant les poings au plus profond de mes poches. [MASK] me tira de ma rêverie : nous arrivions en gare.
+
+['Elle', 'Marie', 'Claire', 'Sophie', 'Isabelle']	Irène	Je disposais même d’une table, en salle, ce qui ne manquait pas d’impressionner les provinciales tombées dans mes filets. [MASK] ne s’était pas laissée prendre au piège. Je compris rapidement la différence : dès le départ elle mit en avant sa qualité de célibataire.
+
+['Il', 'On', 'Lui', 'Elle', 'Je']	Irène	Tu peux me dénicher un uniforme d’aviateur à ma taille ? — Américain ? anglais ? — Français. Déjà que je ne sais pas voler… Autant limiter la casse. J’attendis qu’il soit dix heures avant de sortir. [MASK] préférait rester à la maison pour bouquiner.
+
+['ça', 'toi', 'lui', 'le', 'un']	Irène	Imagine que quelqu’un te foute le feu avec une cigarette, ta bagnole explose ! Je haussai les épaules et il fit signe à l’apprenti de charger le bidon. — J’ai commencé à la nettoyer avec [MASK]. Si ton gars a un peu de temps.
+
+['Elle', 'Marie', 'Jeanne', 'Il', 'Anna']	Irène	[MASK] n’était pas seule. Un grand garçon, blond, dont je ne distinguai d’abord que le profil sur fond de papier peint était assis sur le divan, près d’elle, à demi caché par les feuilles d’une énorme plante d’appartement.
+
+['il', 'elle', 'lui', 'on', 'chacun']	Robert	Jusqu’à ses rides qui rappelaient les nervures crasseuses des portes de fichiers. Ses collègues, une vingtaine de bureaucrates affairés, ressemblaient à des copies carbone plus ou moins réussies de l’original qui me faisait face. Pas tout à fait : [MASK] n’osait pas me regarder.
+
+['Il', 'Elle', 'Marie', 'Jean', 'Jeanne']	Bob	[MASK] baissa la tête et glissa la main, doigts écartés, dans ses cheveux pour ramener une mèche en arrière. — Je ne vais pas raconter ma vie à tout bout de champ ! D’accord, je le connais ton colonel. On s’est rencontré par hasard…
+
+['Elle', 'Anna', 'Marie', 'Sophie', 'Emma']	Irène	Par égoïsme. Pour ne pas gâcher les minutes de plaisir que nous venions de vivre. Je me décidai d’un coup, les yeux fixés sur le drap. [MASK] m’écoutait en silence. Quand j’eus terminé elle se leva et s’habilla, sans explication.
+
+['la', 'le', 'Marie', 'Jean', 'mon']	Irène	— Ma fille vient d’essayer de s’empoisonner. — J’arrive. Je raccrochai puis m’habillai le plus chaudement possible ; le chemin risquait d’être rude. Le ciel devenait de plus en plus gris, s’alourdissait en annonçant la neige. J’embrassai [MASK].
+
+['cela', 'ça', 'ceci', 'je', 'Holmes']	Luce	— Cet accident peut-il avoir une quelconque relation avec la mission que je vous ai confiée ? Je ne comprenais pas bien ce que [MASK] venait faire dans le tableau mais il était évident que la coïncidence entre le début de mon enquête et la tentative de suicide était troublante.
+
+['ménage', 'chambre', 'Roland', 'Gaston', 'compagnie']	Fantin	Tu n’as rien fait de grave, au moins ? — Moi non… La femme de [MASK] a été tuée ainsi que le maître chanteur… — Qui c’était ? — Je n’en sais rien… Je n’ai pas traîné dans les parages.
+
+['Il', 'Pierre', 'Jean', 'On', 'Georges']	Fantin	Elle communiquait avec une sorte d’atelier où l’on entreposait des ustensiles de jardinage. Un escalier de service, en colimaçon, conduisait au premier étage. [MASK] ferma la porte à clef puis il revint vers moi, les mains plantées dans ses poches de pantalon.
+
+['celui', 'celle', 'ceux', 'monsieur', 'Celui']	Robert	Je me rajustai en catastrophe sans prendre le temps de m’égoutter pour m’apercevoir qu’elle venait tout simplement de décrocher l’essuie-mains usagé qui vint se mêler au reste de la brassée. Elle sortit en remerciant d’un mouvement de tête [MASK] qui lui tenait la porte ouverte.
+
+['la', 'Marie', 'Catherine', 'madame', 'Jeanne']	Roissy	je tombai sur les deux femmes. J’aurais préféré m’attaquer aux deux types en premier lieu, ça cadrait mieux avec la silhouette de [MASK]. Je me consolai en pensant que la veuve trimbalait probablement un amant dans ses bagages et dirigeai mes pas vers le palais Garnier.
+
+['Alex', '<unk>', 'Alain', 'Alexandre', 'Antoine']	Irène	Il suffit souvent de prolonger ce type d’entretien d’une ou deux minutes superflues pour provoquer des catastrophes… La présence d’[MASK] à mes côtés produisait, par contre, des miracles en chaîne : le rouquin poussa l’amabilité jusqu’à nous appeler un taxi par téléphone.
+
+['Elle', 'Il', '</s>NOTUSED', 'Je', 'On']	Pédro	Tout un symbole. On ne réécrira pas l’Histoire ce soir… L’important pour moi, c’est mon papier. On devient plus terre à terre en prenant de l’âge. Je peux commencer à vous poser mes questions ? [MASK] hocha la tête. —
+
+['Marcel', 'Enfin', 'Jean', '...', '«']	Robert	[MASK], un ami d’avant-guerre, enfin un gars avec qui je traînais les bals de bonniches en 12 et 13, entretenait les durillons de son fessier dans les bureaux du « sommier ». Je le contactais de loin en loin et il ne crachait jamais sur mes billets…
+
+['Il', 'Elle', 'Pierre', 'Jean', 'Philippe']	Robert	Il ne figure plus qu’ici, en réserve. [MASK] termina sa phrase et s’apprêta à repartir à son poste. Je l’arrêtai au milieu de son élan. — Attends, ces deux anars faisaient partie d’un groupe de récupérateurs d’appartements, c’est ça ?
+
+['Oh', 'Ah', 'Non', 'Mais', 'Oui']	Emmanuel	? Il abandonna son journal pour de bon et posa ses lunettes de myope sur la table. — Oui, je le connais. [MASK] ! C’est incroyable… La pauvre petite ! Il avait adopté un ton catastrophé et s’était composé la tête allant avec. —
+
+['Il', 'Elle', 'On', 'il', 'William']	Fantin	[MASK] venait d’atteindre son but initial… — Pourquoi, il en avait un autre ? Je l’embrassai sur le front. — Bien sûr, celui que tu as reniflé dès le début : se débarrasser de sa femme afin de mettre le grappin sur l’empire Darsac
+
+['Verdun', 'Paris', 'Berlin', 'Dunkerque', 'Strasbourg']	Verdun	Je suis sûr de ce que j’avance, on a eu un de leurs régiments en appui du nôtre devant [MASK]… Il releva la tête en souriant. — Tu vas pas me faire la leçon… Je connais mon histoire des massacres, jeune homme…
+
+['Marie', 'Alice', 'Sophie', 'Jeanne', 'Anna']	Irène	Je restai une minute entière les yeux fixés sur les papiers, l’esprit vide. Je les tendis à [MASK]. — Lis ça et accroche-toi ! Elle lut le texte sans un mot en agitant la tête nerveusement aux passages les plus horribles.
+
+['le', 'un', 'les', 'Pierre', 'mon']	Kropotkine	Je restai debout l’oreille collée à la porte dans une des seules positions valables pour prolonger la veille. Ils mirent près d’une heure à liquider [MASK] alias Lavachof et le barbu s’abstint de relancer un autre sujet. Je laissai passer un moment avant d’oser sortir dans le couloir.
+
+['lui', 'ça', 'toi', 'là', 'Lui']	Bob	Il aurait bonne mine. Ses explications ne tenaient pas la route. J’étais prêt à les avaler venant de n’importe qui, mais pas de [MASK]. Un coup comme ça, il m’en aurait rebattu les oreilles pendant un mois. Uniquement pour se faire mousser…
+
+['il', 'on', 'elle', 'Il', 'lui']	Aubry	Dès qu’il ferrait un déserteur, [MASK] s’arrangeait pour le saouler et le ramener, le soir venu, au poste frontière français… Avec, au bout du voyage, la cour martiale. Pas étonnant qu’il ait eu de la promotion maintenant que le gouvernement mettait la pédale douce sur le sujet.
+
+['Chirac', 'Mitterrand', 'Sarkozy', 'Giscard', 'Hollande']	Deschanel	Il faisait un froid de canard et je marchais au grog du matin au soir. Une mesure d’eau bouillante, trois de bourbon. À propos de canard, celui que je tenais entre les mains annonçait, à s’en mettre plein les doigts, l’élection de [MASK] à la présidence de la République
+
+['Robespierre', 'Jaurès', 'Marx', 'Napoléon', 'Voltaire']	Jaurès	… J’y connais pas grand monde d’ailleurs… Les anarchistes ne sont plus en odeur de sainteté chez vous… On était mieux traités du temps de [MASK]… C’était le moment de placer ma tirade et d’en rajouter question conviction : le Sésame était au bout de ma langue.
+
+['Il', 'On', 'Elle', 'Pierre', 'Marc']	Irène	J’acceptai. Le plus difficile consistait à se loger à trois (dont un rouquin aux épaules larges) dans l’espèce de baignoire à quoi se réduisait l’habitacle de la voiture. [MASK] ouvrit l’unique porte latérale et enjamba le fauteuil pour prendre place à l’arrière.
+
+['Turin', 'Bois', 'bois', 'fer', 'Troyes']	Troie	Vous vous améliorez, moins d’une heure de retard sur la police… — Ils disposent de plus de correspondants. — C’est quelquefois les mêmes… Il modéra aussitôt son propos : — Je ne parle pas pour vous… Vous ne ressemblez pas au Cheval de [MASK].
+
+['ça', 'vous', 'lui', 'tout', 'cela']	Deschanel	; alors vous pensez si je m’en foutais de [MASK] ! Mais revenons-en à cette histoire. On devait être le cinq. En tout cas, c’était le premier lundi du mois, et de l’année par la même occasion.
+
+['On', 'Il', 'Elle', 'Michel', 'Catherine']	Pédro	En face, autour d’une table aux pieds torsadés, trois hommes étaient occupés à lire des volumes reliés plein cuir prélevés dans une bibliothèque dont les rayonnages masquaient une bonne moitié du mur. [MASK] me désigna une vaste pièce aux parois tendues de tissu rose.
+
+['Il', 'Elle', '</s>NOTUSED', 'Lui', 'Et']	Irène	— Entre huit et neuf. D’ailleurs je ne vois pas pourquoi il s’agite, la presse étouffe l’affaire de façon magistrale. Plus une ligne dans les journaux. Une aubaine : ça nous permet d’agir en douceur. [MASK] chuchota ses paroles d’adieu.
+
+['lui', 'Jack', 'William', 'Max', 'Jane']	Luce	C’est la première fois, n’est-ce pas ? Je lui posai une série de questions toutes plus anodines les unes que les autres sans que [MASK] ne se décide à desserrer les mâchoires. Je contournais ses défenses, sans découvrir le moindre angle d’attaque.
+
+['Elle', 'Il', 'Cela', 'Ca', 'Lui']	Aubry	Je m’étais débrouillé pour lui soutirer le maximum d’informations sans contrepartie, et salut ! Il y a, comme ça, des relations qui vous font l’effet des fraises : on en a envie et ça vous refile de l’urticaire ! [MASK] n’avait pas changé.
+
+['lui', 'vrai', 'ça', 'toi', 'possible']	Bob	Je l’ai aperçu qui discutait avec une équipe de gars en costards. Ça avait l’air sérieux. Il ne promène pas ses groupes de touristes dans les abattoirs ? — Tu es bien sûre que c’était [MASK] ? — Oui, sans l’ombre d’un doute.
+
+['Il', 'On', 'Elle', 'Je', 'Maman']	Irène	J’allais encore courir tout le restant de la journée après les pissotières : un demi-litre de Kriek et les omnibus pouvaient s’aligner, je les battais haut la main pour la fréquence des arrêts ! [MASK] décrocha avant la fin de la première sonnerie. — Allô, c’est toi ?
+
+['Il', 'Elle', 'il', 'elle', 'femme']	Bob	? [MASK] se mit à brasser des tas de chiffons, de papiers, d’objets divers qui embarrassaient la pièce, découvrant, au hasard, des caisses, des cartons éventrés. — Si… Ça devrait te plaire. J’ai un arrivage de « jeans ».
+
+['mort', 'tir', 'renfort', '...', 'mobilisation']	Fantin	L’ordonnance de [MASK]… Il désigna le blessé d’un mouvement de main. — … il en a chopé un en portant un message aux avant-postes, à découvert… On ne s’attendait vraiment plus à leur canardage… — Ça s’est terminé comment… Un assaut
+
+['monsieur', 'là', 'je', 'Monsieur', 'le']	Francis	J’étais encore occupé à répartir les documents dans les différentes poches de mes vêtements quand on frappa deux coups discrets à la porte. Je me plaquai dans l’encoignure de l’armoire. Une silhouette apparut sur le seuil. — Hé, [MASK]…
+
+['Antoine', 'Annie', 'Adam', 'Olivier', 'Alice']	Irène	Avec un peu de chance les trous ne correspondaient pas… Des presque clochards s’il n’y avait eu ces paquets de graisse sur les mains, les visages, les cheveux… et surtout leurs regards immédiatement allumés par les jambes d’[MASK].
+
+['Churchill', 'Londres', 'Holmes', 'Smith', 'lui']	Pleyel	Une aubaine, un échange avec les stocks anglais. J’avais téléphoné à [MASK] sans succès : on ne l’avait pas vu à son poste depuis deux jours. Il ne me restait plus qu’à arpenter les boulevards en tous sens pour mettre la main dessus.
+
+['commissariat', 'neuf', 'double', 'jour', 'loyer']	Négresco	— Je crois que je vais me caser dans un coin et tenter ma chance. Il trouva le moyen de me refiler la piaule voisine du quatorze au tarif spécial-détective : celui du [MASK]. Avec une petite différence : la fenêtre ne donnait pas sur la mer
+
+['Jaurès', 'Zola', 'Gambetta', 'Buisson', 'Dru']	Jaurès	Même ses pires ennemis ne faisaient pas mystère de leur admiration pour ses dons oratoires, son lyrisme, la véritable fascination qu’il exerçait sur les foules lors des meetings. Le digne successeur de [MASK], à la direction du journal comme sur les tribunes. Je me repris.
+
+['</s>NOTUSED', '...', 'lui', '«', 'ici']	Hordant	Félicitations ! Cela prouve bien que votre ami Bob vous mésestime. D’après sa description, j’étais persuadé qu’en me recommandant de votre ancien général, [MASK], vous n’iriez pas fouiner plus loin… On est, quelquefois, victime de grandes illusions…
+
+['elle', 'Sophie', 'Alice', 'Marie', 'Caroline']	Liliane	— Ils peuvent se marier sans nous ! D’abord, c’est la première fois que je vois ces noms-là. Des copains à toi ? — Oui, [MASK] est une amie d’enfance. Ça me ferait plaisir de la retrouver déguisée en mariée…
+
+['il', 'on', 'Leclerc', 'Napoléon', 'elle']	Fantin	! Personne n’a fait d’objection quand, par la suite, [MASK] a expliqué qu’il avait été obligé d’exécuter le soldat Sorinet qui s’enfuyait de son poste après avoir refusé de monter à l’assaut lors de l’attaque allemande.
+
+['elle', 'lui', 'Jack', 'Alice', 'Edward']	Fantin	Enfin presque… Tout s’imbriquait de manière parfaite ; les documents convoités par [MASK] se trouvaient, à l’instant précis, à cinq mètres de moi sur une table en bois des îles ou dans le tiroir d’un secrétaire délicatement marqueté. Sans surveillance…
+
+['Il', 'Elle', 'On', 'Madame', 'Marie']	Pédro	[MASK] me laissa prendre possession de la chambre rose. S’il n’y avait eu que la couleur ; mais tout était imprégné, les tissus, les tentures, la literie, d’un parfum lourd et entêtant. J’ouvris la fenêtre, sur le parc.
+
+['Elle', 'elle', 'Marie', 'Il', 'Sarah']	Luce	Je ne l’ai jamais vue avec un seul garçon. [MASK] a toujours été très réservée, timide même. La vie d’une fille de militaire de carrière n’est pas aussi facile qu’on le dit… Je n’ai pas été aussi présent qu’il aurait fallu…
+
+['lui', 'ça', 'nous', 'cela', 'tout']	Fantin	Ce n’était pas prudent de rester plus longtemps dans le secteur. On devait se poser des questions, dans les chaumières, sur la nature des coups de feu et ces allées et venues d’automobiles… Quelqu’un sortirait bien assez tôt pour s’occuper de [MASK] avant qu’il ne gèle
+
+['Elle', 'Marie', 'elle', 'Madeleine', 'Il']	Irène	, c’est une affaire de famille sérieuse. Cent mille, leur histoire ne tenait plus ! [MASK] faisait sa toilette, nue devant la glace, un pied levé à la hauteur de l’évier. Je me collai contre son dos en lui plaquant les mains sur les seins.
+
+['monsieur', 'papa', 'il', 'Paul', 'maman']	Irène	Ça durait depuis six mois, sans accroc, juste quelques engueulades lorsque [MASK] essayait de me refiler des boîtes de Corned-Mutton quand c’était son tour de faire la bouffe. Le téléphone se mit à sonner à notre retour du cinéma alors que nous étions sur le palier.
+
+['Il', 'Paul', 'Louis', 'Jean', 'Pierre']	Migeon	Vous en avez peut-être entendu parler ? Je remuai la tête en signe de dénégation. [MASK] figurait également sur le fichier des anars disparus pendant la guerre que j’avais consulté dans les chiottes de la préfecture. Toute la liste allait y passer s’il continuait sa cavale.
+
+['Il', 'Elle', 'il', 'On', 'Jack']	Cachin	— Ses articles en priorité mais j’aurais bien aimé l’entendre raconter ce qu’il avait vu. Il est difficile de tout caser dans un article, c’est forcément incomplet… C’est possible de les consulter ? [MASK] me montra une porte vers le fond du couloir.
+
+['moi', 'nous', 'lui', '?', 'un']	Lecointre	Il me précéda dans un salon aux murs tendus de brocart rouge. — J’ai installé mon bureau ici. Du rouge partout ! Je n’ai pas trouvé de pièce noire… Alors comme ça, vous bossiez avec [MASK]… — Oui, de temps en temps.
+
+['cela', 'ça', 'moi', 'elle', 'ceci']	Fantin	Il n’avait pas le choix : pour contrer [MASK] il ne pouvait que dévoiler le contenu de la lettre en s’interdisant de la sorte tout profit… Il a donc envoyé la demande de rendez-vous que j’ai interceptée, dans le but de négocier au plus vite.
+
+['!', 'Madame', 'madame', 'Marie', '?']	Irène	— Bravo [MASK]. Tu es imbattable. Tu as mis longtemps pour en arriver à cette conclusion ? Elle accusa le coup et, comme à chaque fois qu’elle était vexée, elle se montra pédagogue. — Ce que je veux dire, c’est que c’est elle qui tient l’argent.
+
+['il', 'elle', 'lui', 'me', 'puis']	Fantin	À partir de ce moment tous mes doutes sont tombés, j’ai suivi la piste comme un petit chien… Il y avait bien cette histoire du laudanum ; le médecin ne lui en prescrivait pas et [MASK] prétendait le contraire. J’ai classé ça dans un coin de ma mémoire…
+
+['la', 'Jean', 'Jeanne', 'lui', 'Marie']	Ménard	Pas compliqué d’en déduire qu’il s’agissait d’un rajout imputable à [MASK]. On le lui avait amené sur sa demande, pour ses travaux d’écriture. Les clés de l’abattant se trouvaient dans une poche de son pantalon, sur le dossier d’une chaise.
+
+['Elle', 'Il', 'elle', 'On', 'Maman']	Luce	Il s’agit de votre fille. — Qu’y a-t-il ? [MASK] a eu un accident ? Décidément ils tenaient à cette version. — Non, ce n’est pas trop grave… Elle a tenté de se suicider mais elle est hors de danger.
+

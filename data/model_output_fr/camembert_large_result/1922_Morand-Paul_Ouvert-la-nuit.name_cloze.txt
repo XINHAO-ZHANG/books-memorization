@@ -1,0 +1,200 @@
+['Paris', 'Sydney', 'Johnny', 'Arthur', 'Patrick']	Petitmathieu	On va réveiller [MASK] pour les primes de deux heures. Des sifflets effilés coupèrent le ciel. Puis il eut 4 000 clameurs, de ces clameurs parisiennes, du fond de la gorge. L’Australien tentait un lâchage. Les sprints commençaient.
+
+['Goethe', 'Freud', 'Nietzsche', 'Baudelaire', 'Platon']	Buffon	Il est énorme… ce que [MASK] appelle en parlant de l’éléphant, un monstre de matière. Il sait aussi imiter les signatures et lever des serrures. Quand il vient me voir, il me dit : — Je ne peux pas repartir sans emporter quelque chose de vous.
+
+['madame', 'Madame', 'Monsieur', 'monsieur', 'Mademoiselle']	Remedios	— Vous aimer, [MASK], est ma seule préoccupation et vouloir vous séduire ma seule erreur. Si je suis, avec vous, précipité dans le danger, ce ne sera pas par imprudence, par galanterie, par facétie, mais parce que le besoin de vous voir me fixe ici.
+
+['Il', 'Elle', 'On', 'Jean', 'Jack']	Petitmathieu	[MASK] ouvrit l’œil. — Ça va bien, fit-il de mauvaise humeur, et en l’écartant. Laisse-lui faire son boulot. — Tu n’es pas rasé, mon vilain. — Fous-moi la paix. Il y eut un silence.
+
+['Jean', 'Georges', 'Pierre', 'Paul', 'Jacques']	Jack	Il s’appelait [MASK] et son pantalon tenait par une ceinture nickelée. Sur les parquets, il inscrivait, de la pointe et du talon de ses souliers vernis, des caractères magiques qu’on eût voulu déchiffrer. Ses ongles comme des gouttes roses arrêtées au bout des doigts.
+
+['Madame', 'madame', 'Monsieur', 'moi', 'Mademoiselle']	püppchen	— J’aime encore mieux que vous m’appeliez : [MASK], répondis-je avec humeur. Dans l’ombre, des couples se conciliaient à terre, silencieux, insensibles à notre présence, séparés du monde par leur plaisir comme par une cloison. Nous les enjambions.
+
+['On', 'Il', 'Elle', 'Chacun', 'Paul']	Anna	À une heure du matin seulement sonnait le couvre-feu imposé par le règlement des hauts commissaires. [MASK] obtint de quitter le restaurant. L’orchestre jouait une chanson plaintive et légère de plus en plus, comme les voix d’une troupe qui s’éloigne. Toute la société reprenait en chœur.
+
+['Il', 'Je', 'Elle', 'Tu', 'On']	Jack	Elle préféra peu après l’alcool dénaturé, le tabac en barre, les gigues en galoches, les fanfares les plus bruyantes, les couverts en vermeil, les culottes de satin groseille, les manteaux faits d’échantillons mis bout à bout. — [MASK] m’aime, disait
+
+['cela', 'ça', 'Dieu', 'Noël', 'demain']	Remedios	Peu à peu, je me forçai à penser que [MASK] ne viendrait certainement pas, mais que la nuit n’en serait pas moins bonne, étendu de biais, ou en travers, dans le lit. L’hôtel se trouvait à 800 mètres d’altitude.
+
+['soie', 'moi', 'femme', 'vous', 'lui']	Worth	Il me dit qu’il avait besoin de moi. Son visage était blanc comme une nappe d’autel. Je le suivis. Elle avait un décolleté stable, haut placé, la poitrine un peu hors du corsage, coupe trop pleine. — De qui est votre robe ? — De [MASK].
+
+['Madame', 'Jeanne', 'madame', 'Mme', 'Paul']	Pacifico	Femme de lettres ? — Non, je la crois chaste. Dès lors, la soirée ne fut plus sérieuse. Un ami d’enfance de [MASK], vieux monsieur aux joues peintes, qui jouait aux échecs et réparait les dentelles anciennes, offrit de nous tirer les cartes.
+
+['</s>NOTUSED', 'dit', 'madame', '—', '[...]']	Anna	Voyez tous ceux-ci : ils vivent de cette attente. — Vous faites l’éloge de l’espoir et le refusez à vous-même, [MASK]. En un souffle : — Pour moi, c’est fini, dit-elle.
+
+['Oui', 'Madame', 'Monsieur', 'Mademoiselle', 'Non']	Remedios	— [MASK], c’est vous. Il est tard. Nous nous levons. Le restaurant est vide. Je l’aime pour la vie. Pendant qu’elle va au vestiaire, je reviens à notre petite table et secrètement je lèche sa cuiller. * * *
+
+['Il', 'Elle', 'il', 'II', 'On']	Remedios	[MASK] écarta son assiette, son verre, prit son bâton de rouge et sur la nappe dessina une jota. — Notions préliminaires. L’alphabet est A, B, G, D, E, F, G, H, I, J… C’est la jota.
+
+['Il', 'Elle', 'On', 'il', 'elle']	Igor	C’est plus loin que la Porte du Peuple, un trou entre deux collines, où se loge un jardin humide et écrasé d’ombre… [MASK] l’interrompit. — Le propriétaire sort d’un conte allemand avec un bonnet en tricot noir et une barbe pleine de chauves-souris
+
+['Dieu', '</s>NOTUSED', 'les', 'certains', 'Napoléon']	Péra	on boit, on triche, on se pique, on meurt ou l’on fait des affaires avec une habileté et une malhonnêteté qui étonnent même [MASK]. J’inventai, pour l’encourager, la fin du régime actuel.
+
+['Il', 'Tout', 'Cela', 'On', 'Ca']	Remedios	Émus, les hommes retrouvaient un camarade, leur chapeau. [MASK] éclatait d’arome dans la pièce tiède comme un vin chambré. Les derniers dîneurs, eux aussi, décantaient doucement un bonheur. Le sommelier était immortel. Une dame buvait, un doigt en l’air, concluant
+
+['Il', 'Elle', 'II', 'il', 'On']	Isabelle	[MASK] dessina sur ses malles des losanges, des spirales, se chercha des devises, envoya des lettres anonymes aux hommes d’État, acheta des broches en mosaïque, porta des chasubles, inquiéta le quartier par ses clameurs nocturnes, prêcha la pauvreté, se découvrit une lésion de l’aorte.
+
+['effet', 'outre', 'plus', 'vain', 'France']	Catalogne	Des présages s’en mêlèrent, la forme des nuages et le marc de café devinrent menaçants. La solitude des soirées, ou même des matins trop radieux pour que j’acceptasse de me soumettre et de vivre avec sagesse m’encouragèrent à partir. Les journaux annonçaient en [MASK] de graves mesures de réaction.
+
+['Il', 'Elle', 'Pierre', 'On', 'Michel']	Anna	. — Vous avez un floch royal et vous hésitez ! Des joueurs édentés, en touloupe, abattaient leurs cartes comme des coups de hache. [MASK] m’apporta un compotier de fruits et, debout devant moi, grappillant le muscat, continua : —
+
+['Elle', 'elle', 'Marie', 'Il', 'Charlotte']	Léa	Cordialement, les bantams se délivraient des crochets dans les côtes, les trois quarts se plaquaient aux jambes. [MASK] était toujours belle, et rebelle. Seule une cravate jaune et noir, aux couleurs de l’équipe que j’avais achetée spécialement, l’émut.
+
+['Il', 'Elle', 'Et', 'Maman', 'On']	Petitmathieu	[MASK] m’expliquait son bonheur : — Ce qu’elle est marrante ! Avec ça, bonne fille. Et quand il faut, les petits plats, les compresses, tout le reste. Et un cocher au mois qui sonne de la trompe et qui connaît les champignons.
+
+['Elle', 'Il', 'Maman', 'Madame', 'Mademoiselle']	Trick	Elle me félicita de ma ménagerie. De mon côté, je fis à son chien un succès comme il n’est de mise que dans les trains de banlieue. — [MASK] est laide, monsieur, mais je l’aime, car c’est tout ce qui me reste au monde.
+
+['On', 'Il', 'Elle', 'Je', 'Chacun']	Zaël	Pour 280 couronnes, nous eûmes des cigares d’herbes sèches et des soucoupes de groseilles. [MASK] les piqua avec une paille. — Que dites-vous ? — Que tu as une belle petite gueule, répondis-je, encerclant ma figure du doigt, comme dans les pantomimes
+
+['elle', 'se', 'on', 'il', 'Elle']	Isabelle	Elle s’asseyait en tailleur sur le tapis, ramenait ses pieds sous elle, non sans que ses genoux osseux craquassent d’arthrite sèche et fumait avec un air de félin paresseux. Elle restait des heures ainsi, inactive, cynique et génitale. Au printemps, [MASK] fit des connaissances.
+
+['la', 'notre', 'La', 'cette', 'ma']	la	Quand six heures sonnaient, j’allais prendre congé de mon cher maître, dans le salon d’angle. Il lisait de bas auteurs africains assis dans un fauteuil de velours cramoisi, entouré d’angoras et de ces chats couleur pierre ponce, frères de ceux qui dorment autour de [MASK] Colonne Trajane.
+
+['madame', 'Madame', 'monsieur', 'Monsieur', 'Mademoiselle']	Remedios	Elle s’arrêta, fascinée par une glace de poche : — Comme j’ai le teint noir ! Pourquoi ? — Le teint, [MASK], c’est la conscience des femmes. — Je me fais trop de mauvais sang. Excusez-moi, mais il faut redire ces choses.
+
+['»', '[...]', '(...)', '...', '«']	Remedios	Le chapeau à pompons est tombé et voici sa grosse face apeurée de capucin, qui luit. Le cheval s’élance et répartit autour de l’arène ses entrailles. D’autres bêtes gisent le long des palissades ; dessellés, leurs os saillent davantage. On voit leurs dents jaunes. [MASK]
+
+['elle', 'je', 'il', 'Catherine', 'on']	Léa	Assise sur le bord du lit, [MASK] le regardait mastiquer, le regard humide et soumis. Il m’offrit une tasse de champagne et, dans une boîte de dissolution, des œufs à la neige. J’étais fier de connaître ce coureur, « un ténor de
+
+['lui', 'ça', 'cela', 'ce', 'moi']	Petitmathieu	— C’est pour avoir des nouvelles de mon ami, qui travaille. — Qu’est-ce qu’il fait votre ami ? — Il est stayer… Un six dayman… « Il court les 6 jours, quoi. Vous n’avez jamais entendu parler de [MASK].
+
+['Marie', 'Catherine', 'Isabelle', 'Jeanne', 'Sophie']	Léa	J’eus beau lui promettre une surprise, un cadeau, l’honneur sauf, je ne pus décider [MASK] à venir chez moi. J’obtins seulement d’aller lui faire une visite-apéritif, le lendemain. J’avais besoin d’elle.
+
+['Il', 'Pierre', 'Louis', 'Paul', 'Charles']	Isabelle	[MASK] était de tempérament impulsif et de caractère renfermé. Je n’eus le loisir de le remarquer et de façon générale de faire sa connaissance qu’après que nous eûmes pris ensemble ce plaisir qui jadis était employé à couronner ou à clore les affections.
+
+['Elle', 'Il', 'Marie', 'Louise', 'Jeanne']	Léa	Nous enroulant dans des couvertures, la tête sur des sacs, côte à côte, nous attendîmes le jour. [MASK] me prit la main. — Quels petits os ! Je sens que je vais être « chipée pour vous », disait-elle, comme dans les fausses romances populaires.
+
+['Marie', 'Pierre', 'Dieu', 'Jésus', 'Jean']	Aïno	D’autres feux flottaient sur l’eau. — Halte, dit [MASK], près de la source qui fortifie la vue. Ces feux ont pour objet d’imiter le soleil et de l’inciter au retour, et ces pierres sont des symboles sexuels…
+
+['Alice', 'Anna', 'Emma', 'Annie', 'Elizabeth']	Aïno	J’étais heureux. Je pris la main d’[MASK] dans la mienne et lui caressai affectueusement le poignet, ce qui eut pour effet de couper l’allumage et d’arrêter notre marche. Je la serrai dans mes bras.
+
+['Chacun', 'Il', 'Se', 'Pierre', 'Tout']	Petitmathieu	puis la ronde recommençait. Il était très tard. Les sprints de la nuit étaient finis. Les coureurs tournaient, les mains à l’envers, pour se reposer les poignets, enveloppés dans des passe-montagnes, contre le froid de la nuit. [MASK] reposait dans sa cage.
+
+['Elle', 'Marie', 'Catherine', 'Il', 'Madeleine']	Remedios	On montait au lit. [MASK] descendit enfin, ruisselante de brillants, sous un manteau en liberty noir, entrouvert comme une porte sur la pièce intime et capitonnée d’un grand décolleté, la clé de sa chambre et son bougeoir à la main.
+
+['elle', 'Elle', 'eux', 'elles', 'lui']	Aïno	D’un coup, je desserrai mon étreinte et me dégageai aussi d’[MASK]. Avec impétuosité, je sortis de la foule, sans regarder derrière moi, bondis au haut de l’escalier et gagnai le vestiaire, où je m’enfermai.
+
+['lui', 'Marie', 'Clara', 'partir', 'Julie']	Remedios	Le regret que j’avais de [MASK] n’alla pas en s’atténuant. Nos premières rencontres me semblaient une précaution de la destinée pour que, de toute façon, nos vies ne pussent être l’une à l’autre toujours ignorées. Je dressai des états récapitulatifs.
+
+['1918', 'la', 'le', '1830', '1914']	Sofia	Après [MASK], les maisons portèrent leurs piments qui séchaient, frères des vignes vierges. Éclairées par le soleil levant, labourées par des bœufs, les plaines bulgares affichaient une prospérité symbolique, comme sur les vignettes des timbres-poste ou au revers des monnaies.
+
+['elle', 'il', 'ce', 'on', 'tout']	Remedios	Je tendais l’oreille. Mais [MASK] n’était pas encore dans celui-là. Je n’osais m’expliquer son retard ou envisager le cas où elle ne viendrait pas, dans la crainte d’éveiller des forces contraires qui l’empêcheraient absolument d’arriver jusqu’à moi.
+
+['bon', 'moi', 'bien', 'parfait', 'gentil']	Léa	Sans compter les cure-dents et les amandes vertes. Elle monta au téléphone ; moi derrière elle. « C’est [MASK]. Avez-vous du bon lait ? Ça roule ?… Pas de point de côté ? Il a mangé ? Ah… ? Au biberon ?
+
+['[...]', '(...)', 'Marx', 'Paul', 'Pierre']	Remedios	Est-ce d’une fin d’après-midi parfumée d’anis, d’un chômage sentimental ou de cette boucherie déchirante que je suis malade ? * * * Mes recherches durèrent deux jours. Enfin, à l’Institut socialiste, j’eus le numéro de téléphone de [MASK].
+
+['Maria', '»', 'Marie', '<unk>', 'II']	Valentinovna	Je cache aussi mes bagues et celles de ma mère dans la poudre de riz. « — Anna [MASK], veuillez me remettre toute l’argenterie et l’argent en espèces que vous possédez. « J’obéis. « — Jurez sur les icônes que vous avez tout remis.
+
+['Il', 'Elle', 'Freud', 'On', 'Franz']	Zaël	Nous entrons dans un des salons particuliers, où, près de sataniques rideaux, se congestionne une lampe. « Drei cocktails. » Des cafards déjà orientaux courent sur les tables laquées d’or. [MASK] se laisse embrasser sans que son argumentation fléchisse.
+
+['Il', 'Elle', 'il', 'elle', 'qui']	Zaël	. [MASK] maintenait avec peine et sans équilibre sur sa chaise un corps de sylphe israélite, sans poitrine, avec une peau précieuse, le dos rond, et des mains nerveuses et pratiques, trop formées pour leurs dix-sept ans.
+
+['Vous', 'Non', 'Madame', 'Mais', 'Là']	Aïno	Comme la nuit, l’hypocrisie était ici réduite à rien : bains de franchise, bains de soleil de minuit. — [MASK], vous ne transpirez pas, vous ne doutez pas de moi par plaisir cruel, vous n’exigez rien des étoiles ; vous êtes sans fausseté, sans chignon
+
+['Joseph', 'Jacob', 'Moïse', 'David', 'Isaac']	Jean	— L’Éternel a dit : « Tu ne mangeras pas ce qui est impur. » Elle écoute, le corps immobile jusqu’aux yeux ; mais là, sous des paupières gonflées, toutes les promesses. [MASK], attendri, avoue à son tour le sortilège.
+
+['Il', 'On', 'Je', 'Elle', 'Cela']	Wanda	Un pavillon blanc marqué du n° 12. [MASK] frappa, doucement d’abord, plus fort ensuite. Nous appelâmes. Un mulot s’enfuit. Nous restions groupés, silencieux, éblouis par l’obscurité, les bras chargés de bouteilles. La glace me brûlait les doigts.
+
+['Joseph', 'un', 'Paul', 'Pierre', 'lui']	Polack	On fermait. Nous nous glissâmes sous le tablier de fer, à demi baissé. Derrière un comptoir, [MASK] et ses fils, aux cheveux de laine, aux yeux sanglants, procédaient à l’inventaire à la lueur d’une lampe à pétrole.
+
+['tout', 'Pierre', 'Jean', 'Henri', 'Daniel']	Aïno	Le mouvement de recul que sa posture m’obligeait à adopter à mon tour pressait [MASK] contre moi. À un moment où la lutte devint particulièrement vive, je sentis ses bras faire le tour de ma taille, tout son corps s’appuyer au mien ;
+
+['Ah', 'Oh', 'Beethoven', 'Mozart', 'Non']	Naples	— Et moi j’aime les femmes qui font leurs chapeaux elles-mêmes et qui ont des déceptions. — Libre à vous. Mais méfiez-vous des métrites. Elle posa son verre sur un disque de gramophone et le regarda tourner au son de [MASK] !
+
+['Il', 'On', 'Elle', 'Dieu', 'Je']	Remedios	[MASK] n’aime pas voir verser le sang. Le taureau est maintenant la proie des hommes vêtus d’argent, disposés comme des pions. Un à un, ils ouvrent leurs ailes, s’envolent et viennent se poser devant les cornes vermeilles.
+
+['on', 'elle', 'il', 'chacun', 'On']	Pacifico	On n’entendait plus que la gouvernante qui desservait, les craquements des meubles, et la promenade égale de la pendule. Quand les listes furent terminées, [MASK] appela à nouveau les qualités et les défauts, et, avec courage ou honteusement, chacun à son tour lut la note qu’il s’était infligée.
+
+['Marie', 'Jeanne', 'Sophie', 'Alice', 'Clara']	Aïno	On sautait, bras et jambes ouverts, dans les feux, en prononçant des vœux au milieu des flammes. Des ombres fabuleuses jonchaient le sol, battaient les entours des brasiers. Je pressai [MASK] de me raconter sa vie. Elle était studieuse, mais, avouait-elle, « chimérique ».
+
+['Elle', 'Madame', 'Marie', 'Maman', 'Suzanne']	Remedios	[MASK] s’avançait hésitante, la gomme à la main, tendue d’attention sincère. Je demandai si on pouvait se donner plus de 20. On n’entendait plus que la gouvernante qui desservait, les craquements des meubles, et la promenade égale de la pendule.
+
+['Michelin', 'Douglas', 'Boss', 'Clark', 'Morris']	Valentin	Elle était presque nue sous un cache-poussière lilas de chez [MASK], le roi des caoutchoucs. Ses cheveux huilés prenaient le ciel. Elle roula vers moi des yeux d’aquarium et fronçant sa bouche en ce baiser sans objet qu’est une moue : — Sympathique, êtes-vous satisfait
+
+['Marie', 'Paris', '...', 'Mademoiselle', 'Algérie']	Zaël	À ma danseuse, quand elle eut salué, j’offris de l’erzatz-Tokay qui oscillait dans une fiole sur notre guéridon en or. — D’où es-tu ? Elle répondit par son nom : — [MASK].
+
+['Marie', 'elle', 'Jeanne', 'Alice', 'Catherine']	Léa	Nous aurons un peu contribué à gagner tout cela à notre vainqueur. — Mon chéri, dit [MASK], vexée, tu as une belle âme. C’est bath ça. C’est délicat. Je t’aime plus encore. La déception tordait ses lèvres.
+
+['Debout', 'Allez', 'Eh', 'Alors', 'Maintenant']	Petitmathieu	! Des râleux qui viennent avec leurs poules, bien heureux encore quand ce n’est pas pour cueillir les femmes des autres. Ses cuisses étaient maintenant un ivoire mouillé. — [MASK], debout là-dedans ! crièrent au-dessus des lions Peugeot, inexorables, les populaires.
+
+['Il', 'On', 'Jean', 'Paul', 'Pierre']	Petitmathieu	, témoignant qu’il n’en voulait plus. Alors j’allai au quartier des coureurs. [MASK] commençait à dîner de belle façon. Débarbouillé, rasé, beau gosse dans un peignoir de cachemire, il tenait à la main une côtelette dans laquelle il mordait.
+
+['haine', 'colère', 'terreur', 'sang', 'jalousie']	Virginie	Elle fouilla dans mes poches. Je menaçai de jeter par-dessus bord une gourde de fine Joséphine qu’elle découvrit. Elle leva vers moi des yeux transparents de [MASK], et pour toute réponse, me défonça à coups de tête, comme une chèvre.
+
+['personne', 'quiconque', 'Personne', 'monsieur', 'tous']	Igor	C’est moi qui sortis. Sans me connaître, elle m’aborda : — J’ai à vous parler, me dit-elle. Je l’emmenai chez moi. Elle y resta… Nous fûmes plus d’une semaine sans oser l’avouer à [MASK].
+
+['Marx', 'Lénine', 'un', 'Sartre', 'Pierre']	Pacifico	C’est une sirène dans les eaux du marxisme. — Il serait intéressant de connaître son avenir, ajouta [MASK], qui poussait une pointe vers l’occultisme. Chacun se résuma : — Je crois qu’elle terminera dans la violence des jours malgré elle sanglants.
+
+['Elle', 'Marie', 'elle', 'Il', 'Hélène']	Remedios	[MASK] est incomparable ; elle a un rayon au front. Las de l’attendre, je dînai. Toutes les vingt minutes, le funiculaire annonçait son arrivée par un choc ; dont tremblait la montagne, suivi du fracas d’une chasse d’eau. Alors mon anxiété redoublait.
+
+['John', 'Alice', 'Jean', 'Marie', 'Jack']	Aïno	— Avez-vous du whisky ? demanda [MASK]. J’aime le whisky, et à son défaut l’eau dentifrice parce qu’on a l’impression de faire de la voile. C’est alors que je m’aperçus de son ivresse.
+
+['lui', 'Dieu', 'Lui', 'Jésus', 'Pierre']	Puig	Avoir accepté, seul, était mal. Les vrais dons que j’ai reçus de [MASK], je les conserverai toujours. Il m’a trouvée, élue, élevée à lui quand je n’étais que l’élève institutrice d’une école de banlieue. Il m’a fait lire, penser
+
+['Il', 'Elle', 'On', 'Personne', 'Rien']	Zaël	Il était trois heures. Je sautai du lit et regardai dans la chambre voisine. [MASK] n’y était plus, la porte donnant sur le couloir était ouverte, les draps rejetés, des vêtements à terre. La trace d’un pied d’homme sur l’oreiller.
+
+['elle', 'il', 'on', 'je', 'chacun']	Isabelle	— La vie est un tissu de contrastes, soupira-t-elle. Ce fut la période où [MASK] prit du vulnéraire, s’entoura de cristaux prismatiques, déjeuna de gingembre, acquit un lit-armoire florentin, reçut chaque jour d’une main inconnue un magnolia
+
+['chauve', 'blonde', 'brune', 'femme', 'belle']	Aïno	Presque. Si vous êtes [MASK], vous portez sur l’épaule gauche et au sein droit des grains de beauté. Mais avec ces robes, on ne sait. — Pourquoi ces cheveux ? C’est si beau un homme qui se rase la tête tous les matins.
+
+['il', 'on', 'elle', 'chacun', 'lui']	Petitmathieu	— Je ne sais pas comment [MASK] va prendre ça… À notre droite, par-dessus la publicité du vernis Éternol, par-dessus le vitrage, un jour désolé apparut, salué par le piano mécanique. Je chantai : Dans l’aube et ses draps douteux
+
+['elle', 'Marie', 'Pierre', 'le', 'Jean']	Jean	— Je suis pour la plus grande, celle qui a les hanches larges, fit [MASK], avec un entêtement de bouteille. L’autre était vêtue de muscles maigres, veines en écharpes, ligatures de bracelets, ombres d’os et un visage d’animal sacré.
+
+['Jaurès', 'Marx', 'Lénine', 'Rosa', 'Pierre']	Puig	J’allai chez mon notaire et fis dresser incontinent un acte formel de renonciation que je signai et qui paraîtra demain dans l’ Humanité. La donation de [MASK] passe tout entière à son Institut socialiste. Ce qui vous explique qu’il ne me reste ce soir plus rien.
+
+['le', 'la', 'les', 'son', 'Le']	le	Seule une cravate jaune et noir, aux couleurs de l’équipe que j’avais achetée spécialement, l’émut. Elle avait un grand chapeau de feutre blanc piqué d’une plume de gypaète et des pendants d’oreilles qui rappelaient [MASK] Far West et les dames qui tirent derrière leur dos dans une glace.
+
+['Alice', 'Maman', 'maman', 'Marie', 'Sophie']	Remedios	— Je voudrais que vous soyez un chat, dit [MASK], en jouant avec ma chaîne de montre. Et que vous ne me quittiez plus. Le jour, on vous mettrait dans un petit panier et le soir on vous sortirait et vous reprendriez votre forme humaine.
+
+['Bach', 'Mozart', 'Ravel', 'Chopin', 'Beethoven']	Tartini	Je me vantai même de posséder dans mon atelier la reproduction exacte d’une tente de chef arabe et de pouvoir lui jouer au violon les Trilles du diable, de [MASK]. Elle me regarda : — On peut dire que vous n’êtes pas comme tout le monde.
+
+['lui', 'papa', 'Dieu', 'Joseph', 'Papa']	Pacifico	Ses seins et les verres tremblèrent. Elle fut prise de gaieté et éloigna sa chaise de la table, s’adressant à [MASK]. — Père nourricier, merci de ce dîner. — Mon enfant rouge, ici est votre maison, comme l’on dit chez vous.
+
+['Dieu', 'Noël', 'Jésus', 'David', 'Marie']	Lakmé	— J’ai senti cela déjà quand nous avons dîné ensemble et que vous m’avez permis de demander au tzigane les stances de [MASK]. Je me souviens : C’est que Dieu de nous se retire . À ce moment, on entendit craquer des pattes de homard ;
+
+['On', 'Paris', 'Tout', '</s>NOTUSED', 'Chacun']	Petitmathieu	Les six coureurs tournaient en un ruban où se mêlaient le vert, le jaune, le blanc, le grenat, l’orangé. D’une pédale souple, ils usaient les planches polies par les tours, au coup de cloche surveillant les démarrages. [MASK] était en selle
+
+['Il', 'Elle', 'Louis', 'Jean', 'Pierre']	Anna	[MASK] finit par obtenir qu’on lui rendît sa pelisse de loutre. La doublure n’avait pas été décousue et les valeurs s’y trouvaient. Ses yeux se mouillèrent. — Je voudrais vous dire merci et pourtant je ne peux me consoler de vous devoir ce service.
+
+['*', '**', ':', 'I', '***']	ISABELLE	(J’oubliai moi-même cette clé jusqu’à ce que le lourd triangle de cuivre qui y était attaché eût fait dans ma poche un trou par où elle gagna la rue.) * * * ÉTUDES GRAPHOLOGIQUES PAR LE PROFESSEUR OVIDE Étude N° 34 [MASK] .
+
+['Il', 'Elle', 'On', 'Chacun', 'Joseph']	Zaël	» En rentrant à l’hôtel, nous nous aperçûmes que nous étions suivis. Nous nous couchâmes vers minuit. [MASK] vint boire et fumer dans notre chambre, puis se déshabilla dans la sienne, en nous demandant de laisser la porte de communication ouverte.
+
+['Il', 'On', 'Je', 'II', 'Lui']	Zaël	Le patron, ci-devant capitaine de la garde, à figure de Champion de saut en longueur, nous assit au bord du tapis sombre semé de bouquets. Nous prîmes une liqueur indigo. [MASK] fit amitié avec des métèques en rase-pet gris clair, cols mous, escarpins et chaussettes blanches.
+
+['Oscar', 'Adam', '<unk>', 'Alexandre', 'Arthur']	Igor	Mais elle me regarda : — Votre regard s’émousse, dit-elle. Les yeux d’[MASK] sont en cristal. Je n’aime pas les héros résignés. — Et moi j’aime les femmes qui font leurs chapeaux elles-mêmes et qui ont des déceptions. —
+
+['Elle', 'On', 'Il', 'Maman', 'Marie']	Isabelle	[MASK] allait le célébrer. Je pris les devants. — Ne me dites pas qu’il a l’air d’un rosier sauvage. Toute la journée, elle inscrivait son nom sur des bouts de papier qu’elle avalait ensuite en boulettes.
+
+['Marie', 'Jeanne', 'Anna', 'Sophie', 'Alice']	Aïno	où les Anglaises exigent de l’argent. Je voulus prendre [MASK] dans mes bras. Elle fit un effort pour se lever, mais soudain se liquéfia, glissa, prononça : — Je ne suis pas… et tomba sur le plancher, les bras en croix.
+
+['Socrate', 'Voltaire', 'Rousseau', 'Descartes', 'Platon']	Pacifico	— Connaissons-nous nous-mêmes, dit [MASK]. C’est d’ailleurs ce que l’on fait à merveille. Les plus jeunes sont, je dois le constater, encore sujets à des écarts ; mais chez ceux qui ont de l’âge, plus d’illusions.
+
+['Madame', 'Marie', 'Jeanne', 'Louise', 'Julie']	Anna	Nous prîmes une table. Je dis alors à [MASK] que ma joie de la revoir était immense et que j’étais toujours aussi amoureux d’elle ; mais elle me reprocha d’abuser de son malheur. — Empressé, sensuel et sérieux comme tous les Français. Passion et sécurité
+
+['on', 'il', 'elle', 'tout', 'Paris']	Remedios	Je ne pus endurer de penser que, loin de moi, [MASK] s’empressait peut-être vers l’infortune, et je pris à mon tour l’express du soir. * * * Maintenant, c’est un cirque de sable, plage unie où luttent à forces égales l’ombre et la lumière.
+
+['une', 'Anna', 'Alice', 'elle', 'Annie']	Aïno	sur mon image plate se rapportait celle d’[MASK] en chandail vert, chaussée jusqu’aux hanches de bottes en ciré ; les cheveux courts déchirés par le vent, adoucissaient de leurs reflets blonds, délicieuse démence, le masque obscur et malveillant des lunettes grillées, qui s’avançait comme un mufle vers le bas du visage
+
+['il', 'elle', 'madame', 'monsieur', 'on']	Remedios	— Quelle gavroche je fais, n’est-ce pas ? * * * Je veux ouvrir la fenêtre, mais [MASK] se jette sur le rideau et le rabat d’un coup. — Est-ce à cause de celui-ci qui fait les cent pas ?
+
+['Il', 'On', 'Jaurès', 'Napoléon', 'Lénine']	Esteban	[MASK] s’était rendu compte de l’inutilité des coups de force, après les attentats de 1905, et m’expliquait qu’il fallait reprendre les choses de plus loin. « Nous travaillons pour dans trente ans, pour dans cinquante ans », disait-il.
+
+['le', 'un', 'la', 'Dieu', 'une']	Aïno	On entendait des gémissements tendres par lesquels les femmes sollicitaient leurs compagnons aux grandes mains, lents à s’émouvoir. Dans un abîme invisible, quelqu’un tomba avec un cri rauque et les os craquèrent comme du bois mort. — À quoi pensez-vous ? dit [MASK].
+
+['Pierre', 'Paul', 'Jean', 'Jacques', 'Georges']	Zaël	les chauffeurs se penchaient hors de leurs voitures pour les pincer. Dès le second jour, d’assez vilaines têtes vinrent rôder autour de nous. Malgré nos objurgations, le portier omit de rendre à [MASK] son passeport, prétendit que la police ne l’avait pas renvoyé.
+
+['Toussaint', 'mort', 'chasse', 'Trinité', 'Pentecôte']	Saint-Jean	— Mon pays est le pays du vin, de la tempérance et de la sociabi… — Il ne doit jamais y avoir de querelles la nuit de la [MASK], interrompit-elle. Encagé derrière les troncs d’arbres, le soleil disparut, betterave coupée. Le ferry
+
+['Jaurès', 'Marx', 'Robespierre', 'Lénine', 'Voltaire']	Jaurès	Drapée dans une cape de bachelier, doublée de satin blanc, elle roule de gros yeux, appuie ses réponses d’une moue et, machinalement, feuillette, comme un coupon, l’ Histoire socialiste de la Révolution française de [MASK].
+
+['Je', 'Il', 'On', 'Elle', 'je']	Pacifico	[MASK] lui demanda la grâce d’un autographe. — Une citation suffira-t-elle ? Quand elle eut mis ses lunettes et pris la plume : — Peut-être une pensée ? suggérai-je. Elle riait en tendant le livre :
+
+['gagner', 'cela', 'courir', 'Paris', 'moi']	Léa	Je dus m’avouer avec humeur en arrivant le soir même au vélodrome, après une journée creuse, que je ne venais pas moins pour la course que pour [MASK] ; à l’affichage, rien n’était changé. Mais, tout de suite, il y eut branle-bas.
+
+['eux', 'lui', 'elles', 'Adidas', 'elle']	Cuny	Entre les tables, des sommeliers volaient, tenant entre chaque doigt un apéritif noir. Des mécanos en salopette, des cyclistes avec des pneus roulés autour du corps, des pugilistes qui sortaient de chez [MASK]. Chaque homme abordait l’autre avec le geste de sa spécialité.
+
+['vous', 'moi', 'droite', 'gauche', 'présent']	Tolède	— Et aussi des yeux malades, des fibromes et, à [MASK] notamment, des testicules en cire. — D’ailleurs, pourquoi invoquerais-je le sort, puisque nous voici réunis. Si longtemps, nous avons été séparés… — Et vous avez maigri, continuai-je, flatteusement.
+

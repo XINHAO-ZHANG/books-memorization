@@ -1,0 +1,200 @@
+['</s>', 'il', 'elle', 'et', 'Il']	Hélène	C’ÉTAIT une maison ancienne, assez semblable à une maison d’Europe. Devant, il y avait une longue grille faite d’entrelacs et surmontée de piques. La distance entre la grille et la maison n’était que de quelques mètres. [MASK] parut à la fenêtre.
+
+['il', 'on', 'elle', 'ne', 'mère']	Gaspard	Pour que vous n’ayez aucune gêne, je veux d’abord vous faire comprendre dans quelle maison vous vous trouvez. » Le garçon avait une voix étrangement aiguë, et [MASK] s’étonnait de son air un peu solennel.
+
+['il', 'on', 'chacun', 'elle', 'ne']	Gaspard	Sans aucun doute Niklaas et ses fils jouaient excellemment, malgré la composition étrange de leur orchestre : un piston, une trompette et un accordéon. Le soir, lorsqu’ils revinrent au bateau, [MASK] put leur déclarer : « Je connais cet homme à la barbe rousse.
+
+['ce', 'elle', 'Ce', 'cela', 'se']	Gaspard	Je vais t’expliquer. Il faut d’abord que je prenne quelque chose dans ma cabine. » Elle se leva et redescendit l’échelle. Pendant son absence, [MASK] ne fut pas sans angoisse. Quand elle revint, elle tenait un petit livre et une lampe électrique.
+
+['il', 'on', ',', 'Il', 'elle']	Gaspard	[MASK] épiait en vain les moindres bruits de l’hôtel. Il ne pouvait surprendre aucun signe de la présence de l’enfant. C’était comme s’il avait essayé de percevoir le bruit de la mer ou une chanson à l’autre bout du monde.
+
+[',', 'le', 'qui', 'et', 'homme']	Gaspard	[MASK], après s’être couché, en présence du commis, avait aussitôt sauté sur ses pieds. Sa blessure l’avait un peu affaibli. Il réussit à enfiler sa veste par-dessus son pansement, et il entrouvrit la porte afin d’assister au dénouement qu’il espérait.
+
+['il', 'Il', "c'", "C'", 'Jésus']	Bidivert	Je les ai assaisonnés de phrases ronflantes : [MASK] était notre ami, il m’avait sauvé la vie à moi et à mon frère, et cætera . Ils m’ont fait pénétrer dans une salle d’attente où j’ai tourné pendant une heure sans trouver le moyen de filer.
+
+['qui', 'il', "c'", 'lui', 'lequel']	Gaspard	Sur l’autre plateau il y avait un chat. [MASK] était d’un poids raisonnable. La balance pencha en sa faveur avec brusquerie, de telle façon que le chat surpris sembla projeté hors du plateau qu’il occupait et s’élança vers le haut du vaisselier.
+
+['le', 'il', "l'", 'la', 'un']	Gaspard	Je retrouverai son souvenir, et puis je reviendrai à l’hôtel du Grand-Cerf, chez ma tante Mlle Gabrielle Berlicaut. » Le cheval parut écouter ce discours. Ses yeux lançaient des flammes qui exprimaient une certaine méchanceté. « Non, tu ne seras pas méchant, dit [MASK].
+
+["c'", "C'", 'il', 'Il', ',']	Gaspard	[MASK] était un beau gamin blond. Il mettait du soin à son travail et ne demandait qu’à rendre service à ses camarades, comme à sa tante. Mais personne ne voulait de ses services. On savait avec quelle facilité il vous faisait renverser un encrier, démolir une pile de livres et casser vos plumes.
+
+["l'", 'le', 'la', 'les', 'ton']	Gaspard	« Tu détestes cet homme, souffla [MASK]. — Je ne le déteste pas », dit l’enfant. Les deux hommes s’étaient éloignés. Bientôt, ils furent remplacés par un gamin loqueteux qui vint avec un troupeau d’oies. «
+
+['on', 'et', 'elle', 'il', 'On']	Gaspard	Le lendemain matin, un marin vint lui ouvrir la porte, dès l’aube, et le poussa devant lui jusqu’à la cuisine. La cuisine était presque à l’extrémité de la coursive. [MASK] ne voyait que l’escalier qui menait au pont supérieur.
+
+[',', 'elle', 'de', 'se', 'la']	Jenny	Voilà pourquoi [MASK] répétait que dans le grand pays il fallait toujours attendre d’autres événements. Ce soir-là, bien que tous fussent à peu près d’accord pour continuer ensemble la route, elle répéta de nouveau : « Ce n’est pas tout. »
+
+['il', 'on', 'elle', 'Il', 'Elle']	Gaspard	Il n’y avait là aucune cachette et l’enfant avait dû comprendre que sa seule ressource était de tenter un coup d’audace et de se cacher dans une grange. Soudain [MASK] le vit qui se couchait au fond d’un petit fossé.
+
+['il', "s'", 'ils', 'Jésus', 'elle']	Gaspard	Il était accompagné d’une femme assez jeune qui lui parlait avec amitié. Ils prirent une échelle menant au pont supérieur et ils vinrent s’accouder juste en face de l’endroit où [MASK] était couché dans l’herbe de la digue. « Vous avez tort de vous entêter, disait-elle.
+
+['t-il', 'dit-il', '</s>', 'dis-je', 'Jean']	Niklaas	Ils hésitaient à poser des questions. Les uns et les autres, malgré toute leur confiance, n’osaient croire que ce pays puisse exister. « Le grand pays, murmura [MASK], j’en ai déjà entendu parler, mais je ne puis rien affirmer en ce moment.
+
+['la', 'Y', 'M', 'Juli', "l'"]	Gaspard	— Ça ne peut pas être vrai, dit [MASK]. — Je me suis souvenue aussi que lorsque j’avais le livre, j’étais très malade. Des gens venaient près de moi, mais je ne peux pas me rappeler comment ils étaient.
+
+['tout', '"', 'pourquoi', 'donc', 'voilà']	Fernande	Voilà [MASK] : « Vous travaillez dur ce matin, dit-elle avec ironie. Moi, je vais dans la cour. S’il vient un client, vous vous en occuperez. Je dois rester dans la cour. Votre tante monte la garde au deuxième étage.
+
+['terre', ',', 'sol', 'fond', 'et']	Niklaas	Le chemin était à cet endroit si inégal que la voiture pencha. Le cheval ralentit son allure et revint au petit trot. Néanmoins la voiture s’engagea si malencontreusement dans une ornière qu’elle versa. [MASK] et ses garçons furent précipités contre la bâche de la voiture.
+
+['il', 'et', 'Il', ',', 'y']	Gaspard	[MASK] attendit encore un peu, puis il fixa une corde à la charnière du hublot et la glissa au-dehors. La grande difficulté fut de s’équiper avec la ceinture de sauvetage, car il ne pouvait la revêtir qu’une fois sorti et suspendu à son filin.
+
+['le', ',', 'il', 'se', 'la']	Gaspard	[MASK] salua et s’éloigna. Un quart d’heure plus tard il avait trouvé le chemin, et bientôt il parvint au carrefour où il prit le sentier à travers les bois. Il fut encore torturé par des crampes d’estomac et il dut se coucher plus d’une fois.
+
+['se', "s'", 'le', ',', "l'"]	Gaspard	Il se tourna, et tous regardèrent la voiture versée. [MASK] aperçut alors le cheval pie qui était couché dans l’herbe entre les brancards. Il alla s’agenouiller près du cheval. Il jeta ses bras autour de son cou et plongea la tête dans sa crinière :
+
+['le', 'Jean', 'Pierre', "l'", 'celui-ci']	Gaspard	« Je l’ai aperçu de loin, dit [MASK]. Il veut se sauver toujours, mais on le surveille et demain ou après-demain le yacht va prendre la mer et je ne reverrai jamais mon ami. » Il pouvait à peine parler.
+
+['il', ',', 'et', 'Il', 'on']	Gaspard	[MASK] avait renoncé à ses promenades autour du village. Au début de juin, on l’envoya cueillir les fraises des bois, afin de satisfaire les clients de l’hôtel. Il y consacra les après-midi. « Cela le remettra tout à fait, prétendait la tante, il a besoin de prendre l’air.
+
+['chacun', 'Pierre', 'Jean', 'Marie', 'tous']	Gaspard	— On peut aussi espérer qu’il y a de belles choses en ce monde, disait l’autre. — Selon la volonté du Seigneur », reprenait le premier. Les marins racontèrent des histoires jusqu’à minuit. Ils laissèrent [MASK] dormir sur un lit dans leur cabine.
+
+['il', 'et', 'Il', ',', 'y']	Gaspard	Aussitôt le nommé Joseph, qui était un garçon difforme d’une vingtaine d’années, fut délégué pour frotter les escaliers déjà tout luisants de cire. [MASK] reçut la mission d’éplucher les légumes. Maître Sedagne, le maître coq, se montrait impatient et hargneux.
+
+['je', 't-elle', 't-il', 'il', 'dis-je']	Niklaas	On le poursuivit encore et, finalement, tous se retrouvèrent autour d’un très grand hallier qui s’élevait dans une fondrière. « Il ne doit pas être ici, cria [MASK], il me semble que j’ai entendu son galop un peu plus loin. —
+
+['Il', 'Elle', '</s>', 'Celui-ci', 'On']	Parpoil	Il le conduisit à la cuisine, le lava à grande eau, lui fit boire un cordial. « Ce soir, tu viendras avec moi dans la cabine de l’avant, dit le marin. Je te raconterai des histoires du pays. » [MASK] avait presque aussitôt repris le canot et regagné la ville.
+
+['</s>', 'il', 'et', 'Il', 'mais']	Gaspard	C’était un homme affreux, à la chevelure noire et qui avait des sourcils d’une épaisseur considérable. [MASK] le considéra, non sans effroi. L’homme lui faisait signe d’entrer, et lui indiquait la petite porte vitrée où était inscrit en lettres d’or : BAISEMAIN, COIFFEUR DIPLÔMÉ .
+
+['lui', 'elle', 'moi', 'toi', 'celui-ci']	Théodule	— Je fais ce que je veux, dit-elle. Racontez. » Ce fut [MASK] qui s’en chargea : « Tu te rappelles qu’un jour, il n’y a pas si longtemps, tu es venue me demander l’hospitalité.
+
+[',', '11', 'Il', 'se', 'il']	Gaspard	Elle avait dû pousser son lit en travers du couloir. Ainsi, elle défendait l’accès du petit escalier qui menait au dernier étage occupé par le grenier et les deux mansardes. [MASK] s’avança. Il reçut en pleine figure la lumière d’une lampe électrique : «
+
+['Pierre', 'celui-ci', 'Jean', 'celle-ci', 'Bernard']	Gaspard	Quand elle arriva à ce point de ce récit, elle baissa encore le ton et ce fut à l’oreille de [MASK] qu’elle poursuivit : « Une drôle de campagne. Des chênes, des bouleaux et en même temps des palmiers. Une forêt avec une clairière.
+
+['il', ',', 'Il', 'et', 'piston']	Jérôme	[MASK] a jeté son piston et s’est sauvé. Moi j’ai injurié l’homme, puis mon père m’a giflé. » Le jour suivant, le hasard avait voulu que l’homme vînt à passer près d’eux alors qu’ils jouaient pour des touristes devant une des maisonnettes de la plage.
+
+[',', 'il', 'et', 'Il', 'elle']	Ludovic	[MASK] se tut. Le lendemain, dès l’aube, les trois garçons allèrent retirer la périssoire du fond de vase où Jérôme l’avait enfoncée. Ils la remirent en état, fabriquèrent des rames légères avec des planches.
+
+['il', 'on', 'elle', 'chacun', 'madame']	Gaspard	Il travaillait du matin au soir et, quelquefois, tard dans la nuit. Il y a bien des occupations dans un hôtel. Toutefois, pendant la bonne saison, [MASK] se réservait toujours une heure vers la fin de la journée, ou après le repas du soir, pour faire une promenade.
+
+['il', 'Il', 'elle', 'ils', 'celui-ci']	Gaspard	Le silence continuait à régner dans le grenier. Au bout d’une demi-heure, [MASK] fut pris de crampes et se coula sous les tentures afin de se dégourdir un peu. Il parvint dans un étroit espace libre entouré de bandes de soie avec des dessins japonais.
+
+['ce', ',', 'que', 'se', 'et']	Parpoil	À tout hasard, il prit à gauche. Il n’avait pas fait cent pas qu’il voyait [MASK] qui venait à lui. Pourquoi cette obstination à le poursuivre ? Quelle importance y avait-il à se saisir d’un jeune garçon qui ne demandait qu’à disparaître sans espoir de retour
+
+['on', 'il', 'elle', 'y', 'On']	Gaspard	Les doubles portes, les panneaux, le plafond étaient aussi abondamment pourvus de réseaux d’or. Un lustre grand comme une douzaine de ruches. Enfin, [MASK] vit s’avancer un homme vêtu d’une robe de chambre jaune et verte avec des glands d’argent.
+
+['il', 'on', 'elle', 'chacun', 'Il']	Gaspard	C’était un soir de mai. Les marronniers venaient de fleurir devant la mairie. On guettait les asperges dans les jardins. Le grand nettoyage de printemps était terminé à l’hôtel du Grand-Cerf, et [MASK] faisait une de ses premières promenades de l’année.
+
+['Il', 'il', 'et', '.Il', 'Elle']	Gaspard	Le ciel était moins sombre et il régnait une vague lueur. [MASK] se décida à contourner la cheminée. Il s’avança avec prudence. Il était prêt à prendre son élan, lorsqu’il aperçut juste de l’autre côté de la cheminée la silhouette d’un homme.
+
+['il', 'Il', 'elle', 'en', 'et']	Gaspard	Les figures de ces personnages semblaient le regarder et suivre ses démarches. Il quitta cette pièce en hâte. La suivante était occupée uniquement par des masques suspendus aux murs ainsi qu’à des colonnades de bois. [MASK] eut un frisson dans le dos. Il voulut encore se hâter.
+
+['on', 'il', 'On', 'Il', 'qui']	Hélène	Une simple leçon, où tu risqueras ta vie avec plaisir » puisque tu aimes les aventures. Entends-moi bien, jeune homme, il n’y a rien de plus beau que les rêves, comme tu disais. [MASK] est en train de rêver en ce moment.
+
+['elle', 'Elle', 'celle-ci', "c'", 'Rachel']	Hélène	Comment [MASK] est venue chez moi, cela importe peu. Je ne peux pas songer qu’un jour je serai séparé d’elle. Du moins pas avant que j’aie réussi à faire d’elle une chanteuse hors de pair. Elle a des dons peu ordinaires.
+
+['le', 'en', 'la', 'de', 'un']	Niklaas	« Le mal n’est pas grand, nous le réparerons », dit [MASK]. Presque aussitôt, de l’escalier on vit surgir l’homme à barbe rousse qui se mit à invectiver les musiciens, par-dessus la tête des consommateurs. Il devait être ivre :
+
+['il', 'elle', 'celui-ci', 'on', 'je']	Gaspard	Le vagabond n’avait donc pas menti. Dès que le cheval eut pris le trot dans une rue pavée, [MASK] tenta de l’arrêter en tirant un peu sur le licou. Le cheval ne tint aucun compte de cet avertissement.
+
+['Il', 'il', 'Elle', 'On', 'Robert']	Gaspard	Le coup fut manqué. La balle rebondit sur la marquise. Cela ne fit qu’un léger bruit. [MASK] tira le fil et il ramena doucement la balle. Il put cueillir la balle à travers la grille. Il cassa le fil, le renoua.
+
+['bois', ',', 'haut', 'fer', 'et']	Gaspard	Le père Niklaas, qui veillait aux alentours, s’était soudain rapproché. Il envoya rapidement le faisceau d’une lampe électrique et quand il vit ses enfants barboter à une vingtaine de pas de [MASK] suspendu à sa corde, il leur dit de nager vers lui.
+
+['la', 'le', 'les', "l'", 'une']	Hélène	Au lieu de franchir la porte, les garçons demeuraient plantés devant [MASK]. « Je vais faire un bout de chemin avec vous, déclara-t-elle enfin. Vous avez l’air passablement ahuris. Qu’est-ce que vous êtes venus faire dans ce fichu décor ?
+
+['qui', 'il', 'Il', 'Qui', 'y']	Gaspard	Il y avait aussi des figures de pierre et de marbre étrangement paisibles. [MASK] découvrit une tête immense enveloppée d’une chevelure de paille et qui avait des yeux comme des rubis et la bouche grande ouverte. Il se contint et regarda la grande figure.
+
+['dimanche', 'paroisse', 'curé', 'prêtres', 'la']	Niklaas	Mais on ne pensait ni au travail ni aux sermons de [MASK]. On était saisi par l’air vif du mois de septembre. Il y avait dans cet air et dans cette forêt quelque chose de brutal qui ravivait l’ardeur de la vie. Jamais on n’oublierait.
+
+['il', 'elle', 'celui-ci', 'je', 'on']	Niklaas	Il déclara qu’il allait chercher du travail de son côté, mais [MASK] le pria de n’en rien faire. Il possédait un vieux break garé chez un ami et il projetait d’acheter un cheval. Avec cet équipage, il pourrait parcourir les campagnes où il jouerait et vendrait des chansons.
+
+['chacun', 'tous', 'personne', 'fond', 'savoir']	Gaspard	Mais le jeune prisonnier ne consentit pas pour sa part à se livrer aux confidences. Une grande heure passa, tantôt occupée par de longs silences, tantôt par des échanges de brèves questions et réponses qui n’apprirent que peu de choses à [MASK].
+
+['il', 'elle', 'Il', 'Elle', 'et']	Gaspard	Cependant il lui manquait de comprendre les espoirs de sa fille adoptive. [MASK] ne pouvait renoncer à l’idée que de tels espoirs avaient plus d’importance que tout le reste. Maman Jenny existait. Le grand pays existait en quelque région. Le livre d’images le prouvait.
+
+['il', 'Il', 'et', 'On', 'on']	Sosthène	Il aperçut encore les yeux bleus de son ami dans un éclair, et ce fut la dernière vision qu’il eut. Il s’évanouit et tomba au bas de l’arbre. [MASK] jeta l’alarme avec de grands cris, et les oies se mirent à cacarder.
+
+['Il', 'il', '</s>', 'et', 'Et']	GASPARD	Qui ai-je l’honneur d’accueillir ? » [MASK] se releva avec peine en se frottant les côtes. Il ne put que balbutier quelques mots d’excuse absolument vains. « Asseyez-vous, s’il vous plaît », dit le châtelain, en lui désignant un fauteuil.
+
+['On', 'on', 'Il', 'il', 'et']	Gaspard	Mais personne ne voulait de ses services. On savait avec quelle facilité il vous faisait renverser un encrier, démolir une pile de livres et casser vos plumes. Jamais lui-même n’était directement responsable, mais il valait mieux se tenir à distance. En classe, [MASK] était rarement interrogé.
+
+['on', 'il', 'elle', 'On', 'chacun']	Gaspard	Il n’y avait que deux écrous. En quelques minutes [MASK] put soulever le hublot. Aussitôt un bruit merveilleux lui parvint. C’étaient comme des milliers de sources. Au-dehors, sous les étoiles, apparaissait une mer d’un bleu sombre.
+
+['le', 'Jean', 'Pierre', "l'", 'la']	Niklaas	« Peut-être tu comprends mieux que moi », dit [MASK]. Il alla se coucher, tandis que les garçons restaient à bavarder sur le pont. Déjà la marée soulevait légèrement la coque et la balançait avec une grande douceur. « Où est ta périssoire ?
+
+['des', 'une', 'la', 'un', ':']	Gaspard	demanda [MASK]. — Je n’y comprends rien, assurait le coiffeur. C’est un vrai mystère, car il possède tout ce qui fait le bonheur d’un enfant, mais il a certainement une bonne raison pour agir avec tant d’obstination, j’en jurerais.
+
+['le', "l'", 'la', 'un', 'une']	Gaspard	Après avoir lutté très, longtemps, ils s’en dégagèrent et parvinrent au ruisseau dont le cours se poursuivait sous des sapins. Après une nouvelle heure de marche, ils furent arrêtés par un autre fourré. « Il faut attendre le jour », dit [MASK] !
+
+['on', 'il', 'elle', 'chacun', 'et']	Gaspard	Mais soudain ce visage changea d’expression. [MASK] y lut l’étonnement, puis les yeux s’agrandirent d’effroi en même temps qu’on entendait un bruit pareil à celui d’une bourrasque qui se serait soudain élevée, au milieu des feuillages.
+
+['elle', 'Elle', ',', 'en', 'femme']	Jenny	[MASK] eut un sourire et haussa les épaules. « Dieu sait ce qui peut arriver dans le grand pays », dit-elle simplement. À cet instant, on entendit hennir le cheval pie. Presque aussitôt quelqu’un frappa à la porte. Personne n’osait bouger.
+
+['il', 'et', 'Il', 'on', 'elle']	Gaspard	Les degrés étaient couverts de vastes tapis. [MASK] songeait qu’il ne pourrait rien rencontrer de plus terrible que les masques, et cependant, lorsqu’il eut dépassé la grande courbe de l’escalier, il fut en présence d’une apparition qui lui glaça les os.
+
+['il', 'Il', ',', 'et', 'ascenseur']	Gaspard	» [MASK] prit l’ascenseur, le tunnel et encore un autre ascenseur et il se retrouva sur l’autre rive dans une plaine nue sans maisons, avec des petits bois de saules. De vastes boulevards vides se croisaient dans ce désert.
+
+['maman', 'Maman', 'papa', 'ma', 'madame']	Hélène	Elles s’embrassèrent. Pendant un long temps, elles semblèrent ne pouvoir dénouer leur étreinte. « Viens dans ma caravane, dit maman Jenny. Il faut que nous parlions. Je t’attends depuis longtemps. — Je te cherchais, dit [MASK]. — Tu me cherchais !
+
+['il', '.', ',', ';', 'à']	Gaspard	Le cheval tournait autour des érables. « Où veut-il me conduire ? » songeait [MASK]. Et puis il dit à haute voix : « Où veux-tu me conduire ? » Le cheval s’arrêta, hennit doucement, puis repartit. L’orage s’apaisait peu à peu.
+
+['le', "l'", 'la', 'Jean', 'Pierre']	Théodule	Voilà les dernières nouvelles, conclut [MASK]. Moi-même je ne suis pas autorisé à entrer au château, et mon père, avec son goût des dispositifs ébouriffants, a fait venir ce soir les électriciens de la Cité pour mettre des sonneries dans tous les recoins de son palais.
+
+['Il', ',', 'et', 'il', 'puis']	Gaspard	[MASK] se tut. Il ne désirait rien apprendre en réalité, et ne voulait pas se montrer curieux. Après un long temps il reprit : « Pourquoi est-ce que tu ne dors pas ? Il est trois heures du matin. — Je ne peux pas dormir.
+
+['il', 'et', ',', 'on', 'Il']	Gaspard	Ce silence lui inspira toutefois de nouvelles craintes, comme si des ennemis l’assiégeaient avec une prudence menaçante. L’homme redescendit l’échelle. [MASK] attendit une bonne demi-heure avant de soulever un peu la toile. Le jour se levait. Une vive lueur inondait la cheminée blanche et la manche à air.
+
+['voiture', 'Elle', 'Il', 'auto', 'et']	Gaspard	L’auto sortit du garage. Le Chinois vint ouvrir la double porte de la grille. [MASK] s’effaça dans l’ombre d’un mur. Peu de temps après arriva la voiture du médecin. Un quart d’heure plus tard, la première auto revint.
+
+['il', 'Il', '</s>', 'et', 'elle']	Gaspard	Il n’y avait rien à comprendre dans une réponse de ce genre, mais c’était une réponse. [MASK] exécuta avec sa clef un petit roulement sur le tuyau, et, peu de temps après, il perçut un roulement analogue. Il sut ensuite ce qu’il devait faire.
+
+['France', 'famille', 'Québec', 'cœur', 'Paris']	Niklaas	Les affaires de [MASK] ne marchaient pas très bien cet été. La mode aurait voulu que lui et ses fils revêtissent des costumes flamboyants pour exécuter leurs concerts, mais cela leur déplaisait, et on les considérait comme des mendiants, malgré le talent qu’ils avaient.
+
+['M', 'Mr', '"', 'Mme', 'M.']	Gaspard	« C’est trop beau », dit enfin [MASK]. Ils restèrent d’abord un moment à l’orée du petit bois de bouleaux pour examiner la façade qui était orientée vers le lac. Elle leur apparut, de près, beaucoup moins brillante qu’ils n’avaient cru.
+
+['il', 'Il', 'et', 'mais', 'on']	Gaspard	Le marin l’examina des pieds à la tête, puis il lui fit signe de venir. [MASK] n’était pas encore monté en plein jour sur le pont. Il fut tellement ébloui par le soleil qu’il pleura. Le port n’était pas très vaste.
+
+['Il', 'On', 'Personne', 'il', 'Nul']	Gaspard	neuf cent cinquante-deux ». Il y eut un bruit fantastique. [MASK] ne sut jamais comment il avait sauté de la table. Il se retrouva étendu presque au milieu de la salle. La glace s’était fracassée et les débris gisaient autour de lui.
+
+['et', 'qui', 'On', 'on', 'Il']	Gaspard	— Les touristes sont rares dans cette région », répondit une voix. [MASK] aperçut au fond de la remise un homme qui était assis sur une pierre et s’occupait à entretenir un feu maigre dont la fumée s’échappait par un espace ménagé entre le mur et le toit.
+
+['il', 'Jean', 'celui-ci', 'Pierre', 'elle']	Gaspard	Qu’est-ce que vous êtes venus faire dans ce fichu décor ? — On te racontera », dit [MASK]. Ils sortirent de l’enceinte et tirèrent la porte à eux. Ils se laissèrent glisser le long du talus. Puis ils suivirent le fond du ravin.
+
+['personne', 'lui', 'son', 'la', 'ses']	Gaspard	Il se tourna et aperçut à l’horizon du sud, entre les escarpements des forêts, de lointains nuages noirs. Quand il regarda de nouveau devant lui, il vit venir deux gendarmes sur leurs bicyclettes. Les gendarmes passèrent sans prêter aucune attention à [MASK].
+
+['il', 'elle', '</s>', 'Il', 'et']	Gaspard	Puis le silence se fit : [MASK] s’avança à quatre pattes derrière des caisses, et se faufila entre deux armoires. À l’extrémité de ce passage, il y avait un mannequin sans tête, vêtu d’un habit de soirée mangé aux mites.
+
+['Il', 'Elle', 'il', '</s>', 'elle']	Gaspard	Cette année, comme le temps est beau, il faut choisir les lieux très humides. Tu y retourneras demain. » [MASK] songea que, en fait d’originalité, sa tante en détenait une bonne part. Il lui donna raison néanmoins et retourna dans les bois.
+
+['il', 'elle', 'je', 'Jean', '-il']	Niklaas	Ma voix a dû lui plaire, disait [MASK], mais lorsque nous sommes montés dans la voiture, il ne m’a plus obéi et il est parti à fond de train, dans n’importe quelle direction. Maintenant je ne sais pas ce que nous devons faire.
+
+['Jean', 'Pierre', 'Paul', 'Marie', 'Robert']	Gaspard	Leurs cheveux blonds se mêlaient. « Tu vas sauter avec moi dans l’autre fossé, reprit [MASK], et tu me suivras. Les gens doivent être du côté du ruisseau. Ils vont venir par ici tout à l’heure, et nous tâcherons d’aller vers le ruisseau.
+
+['il', ',', 'Il', 'et', 'qui']	Gaspard	[MASK] ne pouvait franchir la grille. Il appela de toutes ses forces. La maison s’était déjà éveillée. Les lumières s’allumaient. Un homme en pyjama sortit sur le perron, suivi d’un Chinois vêtu d’une longue chemise rouge, et de deux femmes.
+
+['et', 'elle', 'mais', 'son', 'car']	Gaspard	Si elle le gardait chez elle, pour faire son devoir, comme elle le proclamait, elle avait toutefois renoncé à ses rêves. [MASK], de son côté, ignorait même qu’il eût été possible de concevoir pour lui quelque ambition. Son seul désir était de passer inaperçu.
+
+['Pierre', 'M', 'Jean', 'Bernard', 'M.']	Hélène	Mais nous la ferons revivre s’il le faut. — Personne ne sait…, reprit [MASK]. — Personne ne sait, mais moi je saurai. Je reconstituerai toute sa carrière. Je la suivrai par la pensée jusqu’au bout du monde. Je lancerai partout des policiers.
+
+['-', ',', '...', 'le', '"']	Niklaas	Nous l’avons caressé, puis il nous a échappé. Il nous attendait, on le caressait, et il s’échappait encore. — Va chercher une corde dans la voiture, dit [MASK]. On ne risque rien d’essayer. »
+
+['le', 'un', 'la', 'son', "l'"]	Niklaas	Bruyère, genêts, hautes futaies, taillis se succédaient. Deux heures passèrent ainsi. Le cheval prenait des chemins à tout hasard, montait sur des crêtes, redescendait dans des vallons obscurs. « Il est fou », murmurait [MASK].
+
+['Il', 'Elle', 'et', 'il', '"']	Théodule	» [MASK] frappa du poing sur la table. « Ils ont raison. Ce n’est pas à nous de savoir ce que nous avons à faire. Ils ont tort tout de même de ne pas faire attention quelquefois à une idée d’enfant.
+
+['.', ',', '</s>', 'je', 'vous']	Niklaas	[MASK]. Mon fils, il ne faut pas compliquer les affaires, en tout cas. Tu vois, il y a aussi du nouveau pour nous. Le cheval s’est remis à marcher, et je crois que les brancards lui font du bien.
+
+[',', 'jour', 'alors', 'celui-ci', 'corps']	Gaspard	La terre et le ciel passèrent tour à tour devant ses yeux. Le dernier bond que fit [MASK] là où le talus devenait vertical le projeta vers le milieu de la route. Il pensait s’écraser sur le goudron, lorsqu’il sentit entre ses mains la crinière du cheval.
+
+['rien', 'personne', 'nul', 'on', 'celui-ci']	Niklaas	D’abord, ce fut un trot rapide que [MASK] ne put d’aucune façon modérer, puis un train de cheval emballé, un vrai train d’enfer, qui secoua la voiture avec une extrême violence. Par bonheur le chemin restait désert.
+
+['il', 'Il', 'et', 'elle', 'Elle']	Gaspard	Il eut le bonheur de rencontrer des tentures entre lesquelles il se glissa. Il y avait des dizaines de tentures suspendues à des fils de fer. [MASK] résolut de rester immobile à cet endroit pendant des heures s’il le fallait. Le silence continuait à régner dans le grenier.
+
+['il', '</s>', 'on', 'Il', 'qui']	Jérôme	Elle avait maintenant une allure dont l’élégance étudiée était propre à étonner tous les publics. Son visage et ses gestes parfois embarrassés dénotaient une vague inquiétude. Ses regards semblaient absents. Enfin, on passa à l’action. [MASK] fut d’abord envoyé en reconnaissance.
+
+['ils', 'il', 'on', 'eux', 'un']	Hélène	Néanmoins il n’était nullement nécessaire qu’[MASK] se trouvât dans ce studio, et ils se rendirent compte aussitôt qu’ils se fourvoyaient et qu’ils avaient commis une imprudence. Mais c’était trop tard pour changer d’avis. Ils pénétrèrent sans hésiter dans un hangar.
+
+["s'", "l'", 'soleil', 'on', "j'"]	Gaspard	Le soleil éclairait cette immensité qui ressemblait aux forêts lorsqu’on les voit d’une hauteur. Ce fut dans un éclair que [MASK] entrevit cette mer incomparable. Aussitôt, le marin l’avait attrapé par un pied et lui faisait dégringoler l’escalier sur le ventre et à reculons.
+
+['le', "l'", 'la', 'un', 'son']	Niklaas	Il veut se sauver toujours, mais on le surveille et demain ou après-demain le yacht va prendre la mer et je ne reverrai jamais mon ami. » Il pouvait à peine parler. « Console-toi, mon fils, dit [MASK].
+
+['celle-ci', 'celui-ci', 'je', 'nous', 'lui']	Gaspard	? Lui avait-on dit que [MASK] l’avait abandonnée, et qu’il était persuadé qu’elle entretenait des rêves insensés ? Comment la rejoindrait-il, s’il obtenait quelque renseignement sur son pays, et sur sa famille ? Il avait le temps d’y songer.
+
+['il', 'Baudelaire', '-il', 'celui-ci', 'Molière']	Gaspard	Si j’avais pu lire dans les yeux du cheval pie, disait [MASK], j’aurais peut-être deviné tout ce qui devait arriver. » Le commerce des chansons n’allait pas trop mal. On arriva un jour dans le petit village de Treinte, non loin de la frontière.
+
+['se', 'on', 'et', '"', 'il']	Jérôme	Il reste possible que son secrétaire Jacques Parpoil n’ait aucun scrupule, mais l’enfant n’en peut souffrir car, certainement, il a tout ce qu’il peut désirer. » Alors on s’avisa que [MASK] claquait des dents. « Que se passe-t-il, mon fils
+
+['il', 'et', 'Il', ',', 'puis']	Gaspard	Il posa sa tête dans les flots de la crinière qui descendait sur le cou, et s’endormit aussitôt. Le lendemain matin, il constata que le vagabond avait disparu. Il avait laissé sur une pierre un morceau de pain. [MASK] le dévora aussitôt.
+

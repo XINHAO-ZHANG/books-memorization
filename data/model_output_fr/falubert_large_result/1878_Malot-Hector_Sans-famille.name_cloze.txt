@@ -1,0 +1,200 @@
+['elle', 'celle-ci', 'Marie', 'Hélène', 'Louise']	Lise	J’allais continuer, mais [MASK] s’était approchée de moi ; elle me prit la tête dans ses deux mains et, par sa caresse, elle m’empêcha de parler. « Ô la douce surprise ! dit-elle, d’une voix que l’émotion faisait trembler.
+
+['Elle', 'Il', 'et', 'elle', 'il']	Vitalis	« Pardonnez-moi de vous avoir dérangé, dit la dame, mais j’ai voulu vous féliciter. » [MASK] s’inclina sans répliquer un seul mot. « Je suis musicienne, continua la dame, c’est vous dire combien je suis sensible à un grand talent comme le vôtre.
+
+['-', 'pieds', 'non', 'embarrassé', 'jambes']	Benjamin	- Il a suivi le brancard, dit l’un des enfants. - Tu l’as vu, [MASK] ? - Je crois bien, il marchait sur les talons des porteurs, la tête basse, et de temps en temps il sautait sur le brancard ;
+
+['il', ',', 'on', 'et', 'elle']	Garofoli	Mais un jour [MASK] me vit chez une fruitière mangeant une assiettée de soupe, et il comprit pourquoi je supportais sans me plaindre la privation des pommes de terre. Alors il décida que je ne sortirais plus et que je resterais à la chambrée pour préparer la soupe et faire le ménage.
+
+['moi', 'lui', 'eux', 'vous', 'moi-même']	Vitalis	C’était bien long, bien incertain de les attendre. J’étais anxieux d’avoir des nouvelles de [MASK]. Peut-être n’était-il pas mort comme on l’avait cru. Je n’étais pas mort, moi. Il pouvait, comme moi, être revenu à la vie.
+
+['lui', 'elle', 'eux', 'vous', 'toi']	Vitalis	» me dit-il en italien. Depuis que j’étais avec [MASK], j’avais appris assez d’italien pour comprendre à peu près tout ce qui se disait en cette langue ; mais je ne la parlais pas encore assez bien pour m’en servir volontiers.
+
+['...', 'vous', ',', 'personne', 'tout']	Barberin	; vous y serez bien, je peux m’en vanter, et dans une maison honnête. Faites attention que, si votre famille vous cherche, fatiguée de ne pas avoir des nouvelles de [MASK], c’est ici qu’elle s’adressera et non ailleurs ;
+
+['personne', 'rien', 'lui', 'lui-même', 'cela']	Capi	Tout à coup je m’aperçus que [MASK] ne nous suivait plus. Qu’était-il devenu ? cela était extraordinaire. Je m’arrêtai pour l’attendre en me jetant dans l’enfoncement d’une allée, et je sifflai doucement, car nous ne pouvions pas voir au loin.
+
+['je', 'se', 'on', '...', 'me']	Lise	! Il est vrai que j’avais mille fois entendu dire que [MASK] recouvrerait la parole un jour, et très probablement sous la secousse d’une violente émotion ; mais je n’aurais pas cru que cela fût possible. Et voilà cependant que cela s’était réalisé ;
+
+['</s>', 'Lui', "L'", 'lui', 'Mais']	Arthur	Je cessai de jouer aussitôt, me demandant pourquoi elle sifflait ainsi : était-ce pour me dire que je jouais mal ou pour me faire taire ? [MASK], qui voyait tout ce qui se passait autour de lui, devina mon inquiétude.
+
+['en', 'et', 'tantôt', '-', 'à']	Vitalis	Mais notre répétition dura près de trois heures, [MASK] nous faisant recommencer deux fois, quatre fois, dix fois la même chose, aux chiens comme à moi. Ceux-ci, en effet, avaient oublié certaines parties de leur rôle, et il fallait les leur apprendre de nouveau.
+
+['et', 'nous', ';', 'on', 'y']	Mattia	Et nous prenons nos instruments ; dans une belle boîte doublée en velours, [MASK] atteint un vieux violon qui vaudrait bien deux francs, si nous voulions le vendre, et moi je retire de son enveloppe une harpe dont le bois lavé par les pluies a repris sa couleur naturelle.
+
+['t-il', 'celui-ci', 'Socrate', 'dit-il', '-t-il']	Vitalis	» Tandis que le singe obéissait en poussant des petits cris étouffés, le chien, heureux, fier, tendait la patte à son maître. « Maintenant, continua [MASK], revenons à nos affaires. Je vous donne donc trente francs. - Non, quarante. »
+
+['il', 'elle', 'on', 'et', ',']	Mattia	toujours est-il qu’il riait aux éclats. Tant que dura la coupe de ses cheveux [MASK] ne tarit pas en questions, et, à tout ce qu’on lui demanda, le barbier répondit avec la même facilité et la même sûreté que pour le violon.
+
+['Je', '-', 'Non', '"', 'Oui']	Vitalis	Je me soulevai. On s’empressa autour de moi. « [MASK] ? dis-je. - Il demande son père, dit une jeune fille qui paraissait l’aînée des enfants. - Ce n’est pas mon père, c’est mon maître ; où est-il ?
+
+['moi', 'lui', 'nous', 'celui-ci', 'Bernard']	Carrory	! » À l’exception du magister qui cachait ses sentiments, et de [MASK] qui ne sentait pas grandchose, nous ne parlions plus de délivrance, et c’étaient toujours les mots de mort et d’abandon qui du coeur nous montaient aux lèvres.
+
+['"', ':', ',', '...', 'se']	Vitalis	« Le général croit que, quand ce garçon aura mangé, il sera moins bête, disait [MASK] ; nous allons voir cela. » Et je m’asseyais devant une petite table sur laquelle le couvert était mis, une serviette posée sur mon assiette. Que faire de cette serviette
+
+[',', 'de', 'un', 'à', 'le']	Arthur	[MASK] s’était pris pour moi d’une ardente amitié, et, de mon côté, je me laissais aller sans réfléchir et sous l’influence de la sympathie à le regarder comme un frère : pas une querelle entre nous ;
+
+[',', 'la', 'de', 'le', 'en']	Jérôme	« Ah ! maman. » Elle accourut près de mon lit : « Tu ne dormais donc pas ? me demanda-t-elle doucement. - Ce n’est pas ma faute. - Je ne te gronde pas ; alors tu as entendu tout ce qu’a dit [MASK]
+
+[',', 'enfant', 'et', '.', 'petit']	Vitalis	pauvre [MASK] ! Je m’étais couché sur le ventre, et je pleurais dans mes deux mains sans pouvoir m’arrêter quand je sentis un souffle tiède passer dans mes cheveux ; vivement je me retournai, et une grande langue douce et chaude se colla sur mon visage.
+
+['la', 'vous', 'votre', 'mon', "l'"]	Mattia	c’est pour voir le poirier crochu dont j’ai souvent parlé à [MASK]. - Nous pouvons aussi aller voir ton jardin, car je l’ai gardé tel que tu l’avais arrangé, pour que tu le retrouves quand tu reviendrais, car j’ai toujours cru et contre tous que tu reviendrais.
+
+['lui', 'nous', 'eux', 'il', 'vous']	Alexis	la connaissance est faite ; ils vont souper avec nous. » J’étais certes bien heureux de souper avec [MASK], c’est-à-dire de passer la soirée auprès de lui, mais, pour être sincère, je dois dire que j’étais heureux aussi de souper.
+
+[',', 'en', 'celui-ci', 'et', 'il']	Garofoli	; oui, c’est une honte, une lâcheté, de martyriser ainsi des enfants qui ne peuvent pas se défendre. - De quoi vous mêlez-vous, vieux fou ? dit [MASK] changeant de ton. - De ce qui regarde la police.
+
+['de', ',', 'se', 'me', 'et']	Capi	Ce fut à moi de paraître le premier sur le théâtre, et en m’accompagnant de ma harpe je chantai deux chansonnettes. Pour être sincère, je dois déclarer que les applaudissements que je recueillis furent assez rares. [MASK] fut plus heureux ;
+
+['On', 'Il', 'Elle', 'on', 'Monsieur']	Arthur	- Alors, maman, il faut payer très cher », dit l’enfant. Puis il ajouta quelques paroles dans une langue que je ne comprenais pas. « [MASK] voudrait voir vos acteurs de plus près », me dit la dame.
+
+['RE', 'NE', '"', "L'", 'INTER']	Garofoli	» Tous désignèrent celui qui était arrivé le premier apportant un morceau de bois. « Allons, toi, combien te manque-t-il ? demanda [MASK]. - Ce n’est pas ma faute. - Désormais, celui qui répondra : « Ce n’est pas ma faute
+
+['lui', 'la', "l'", 'son', 'sa']	Barberin	- Si vous me donnez ce moyen-là, je vous paie une bouteille, et de bon coeur encore. - Commandez la bouteille, et votre affaire est faite. - Sûrement ? - Sûrement. » Le vieillard, quittant sa chaise, vint s’asseoir vis-à-vis de [MASK].
+
+['lui', 'moi', 'fois', 'musicien', 'Oui']	Arthur	Pour [MASK], c’était un grand plaisir que d’entendre ainsi de la musique dans le calme de la nuit, sans voir celui qui la faisait ; souvent il me criait : « Encore ! » et je recommençais l’air que je venais de jouer.
+
+['à', 'une', ',', 'un', 'de']	Lise	Au lieu d’aller à l’école, elle avait dû rester à la maison, préparer la nourriture, coudre un bouton ou une pièce aux vêtements de son père ou de ses frères, et porter [MASK] dans ses bras ;
+
+['il', 'celui-ci', 'Il', 'on', 'elle']	Vitalis	; en ce moment, se sentant de nouveau malade, il nous tendait le bras pour qu’on le saignât encore et le guérît comme on l’avait guéri la première fois. Non seulement [MASK] fut touché, mais encore il fut inquiété.
+
+['Dieu', 'tout', 'tous', 'mes', 'cela']	Vitalis	seulement tu auras soin de faire comme les hirondelles et les rossignols, tu choisiras ta saison pour te mettre en route. - Je ne sortirai qu’une fois, lui dis-je, pour aller à la recherche de [MASK]. - C’est trop juste », me répondit le brave homme.
+
+['il', 'celui-ci', 'Pierre', 'Jean', 'Antonio']	Vitalis	- À demain, signor, dit [MASK], à demain. » Je croyais que mon maître allait acheter des muselières pour nos chiens, mais il n’en fit rien, et la soirée s’écoula même sans qu’il parlât de sa querelle avec l’homme de police.
+
+['elle', 'nous', 'eux', 'dame', 'le']	Lise	encore deux jours, encore un, encore quelques heures seulement. Enfin nous apercevions les bois dans lesquels nous avons joué avec [MASK] à l’automne précédent, et nous apercevons aussi l’écluse avec la maisonnette de dame Catherine.
+
+['"', 'le', 'il', 't-il', '-t-il']	Barberin	» s’écria [MASK]. Ce mot me tira de ma stupéfaction, car, si je n’avais jamais vu des singes, j’en avais au moins entendu parler ; ce n’était donc pas un enfant noir que j’avais devant moi, c’était un singe.
+
+['celui-ci', 'lui', 'Dieu', 'celle-ci', 'Abraham']	Vitalis	Je n’avais pas oublié ses paroles à [MASK] lorsqu’il m’avait vendu à celui-ci, et bien souvent je me les étais répétées : « Il y aura du profit pour ceux qui auront élevé cet enfant ; si je n’avais pas compté làdessus, je ne m’en serais jamais chargé.
+
+["l'", 'le', 'la', 'mes', 'TA']	Vitalis	Assurément elle m’avait vu, et c’était sur moi qu’elle accourait. Cette pensée me fit retrouver mes jambes, et, tournant sur moi-même, je me précipitai dans la descente pour rejoindre [MASK]. Mais, si vite que j’allasse, la bête allait encore plus vite que moi
+
+['...', 'de', 'celui-ci', ';', 'encore']	Bob	- Oui. - Eh bien, je vous arrête. » Et sa main s’abattit sur mon bras qu’elle serra fortement. Les paroles et le geste de l’agent de police avaient fait relever [MASK] ; il s’avança : « Eh pourquoi arrêtez-vous ce garçon
+
+['la', 'nar', 'une', 'le', "l'"]	Vitalis	Nous étions entrés misérablement dans ce village ; nous en sortîmes triomphalement, menant notre vache par la longe et marchant la tête haute. Les paysans qui se tenaient sur leurs portes nous jetaient de bons regards. Nous ne tardâmes pas à atteindre le village où j’avais couché avec [MASK]
+
+['de', ',', 'plus', '"', 'tous']	Barberin	« Et tes parents ? dit-il. - Vous savez donc ? » Alors il me raconta qu’il avait eu la visite de [MASK] quinze jours auparavant. « Il est mort, dis-je. - En voilà un malheur ! »
+
+[',', 'on', 'et', 'il', 'qui']	Lise	[MASK] ne savait pas lire, mais, en me voyant plongé dans les livres aussitôt que j’avais une heure de liberté, elle eut la curiosité de savoir ce qui m’intéressait si vivement. Tout d’abord elle voulut me prendre ces livres qui m’empêchaient de jouer avec elle
+
+['nous', 'on', 'il', 'elle', 'ils']	Bob	Vingt fois [MASK] avait annoncé que c’était la dernière représentation, et vingt fois nous en avions recommencé une nouvelle. Si nous étions las, nos camarades, qui dépensaient beaucoup plus de forces que nous, étaient exténués : aussi avaient-ils déjà manqué plus d’un de leurs tours.
+
+['il', 'je', 'on', 'nous', 'elle']	Vitalis	Avec ses yeux brillants il nous regardait tristement, comme pour nous prier de ne pas le tourmenter. En même temps il sortait un de ses bras du lit et nous le tendait. Je me demandais ce que signifiait ce geste qu’il répétait à chaque instant quand [MASK] me l’expliqua.
+
+['O', '-', '...', 'bel', 'de']	Rémi	nous ne l’étions ni l’un ni l’autre, car je ne savais de quel côté nager. Une idée me vint. « Parlez donc, vous autres ! m’écriai-je. - Où es-tu, [MASK] ? » C’était la voix de l’oncle Gaspard
+
+['le', ',', 'Dieu', 'on', 'cela']	Capi	Mais, au lieu de m’asseoir près de lui, je voulus gravir un petit monticule planté de genêts qui se trouvait à une courte distance du chemin, pour voir si de là je n’apercevrais pas quelque lumière dans la plaine. J’appelai [MASK] pour qu’il vînt avec moi
+
+['on', 'il', 'je', 'nous', 'elle']	Capi	? - Je ne sais pas. - Tu t’es endormi, et le feu s’éteint. » Au moment où nous allions sortir, un formidable hurlement éclata dans le silence, et [MASK] se rejeta dans nos jambes, effrayé. « Ce sont des loups ;
+
+['faire', 'dire', 'à', 'lui', 'çà']	Chopin	; où est-il, ce coquin-là ? » C’était justement ce que je demandais. Je sortis désappointé et jusqu’à un certain point inquiet. Je n’avais plus que [MASK] et, à qui m’adresser, si celui-là ne savait rien ?
+
+['lui', 'eux', 'elle', 'vous', 'toi']	Bob	; avec le chien, j’étais bien sûr de découvrir les voleurs, et j’en tiens un ; où est le père maintenant ? » Je ne sais si cette question s’adressait à [MASK] ou à moi ; je n’y répondis pas, j’étais anéanti.
+
+['il', 't-il', 'celui-ci', 'je', 'Pierre']	Mattia	Je savais ce que c’était que de jouer sans que personne mît la main à la poche. « Et vous ? demanda [MASK], que faites-vous maintenant ? » Je ne sais quel sentiment de vantardise enfantine m’inspira : « Mais je suis chef de troupe », dis-je.
+
+['la', 'tous', "l'", 'mes', 'mon']	Mattia	« Sortons », dis-je à [MASK]. Pendant assez longtemps nous marchâmes côte à côte, nous tenant par la main, ne disant rien et allant droit devant nous sans savoir où nous nous dirigions. « Où donc veux-tu aller ainsi ?
+
+['le', "l'", 'la', 'M.', 'Jean']	Carrory	; la remontée fermée à son extrémité fait pour nous ce que fait la cloche à plongeur. L’air refoulé par les eaux s’est amoncelé dans cette galerie et maintenant il résiste à l’eau et la refoule. - Nous sommes donc sauvés ! dit [MASK].
+
+['la', 'de', "l'", 'le', ',']	Roussette	Nous étions rentrés dans la maison. Mais longtemps encore nous avions entendu ses beuglements. Plus de lait, plus de beurre. Le matin un morceau de pain ; le soir des pommes de terre au sel. Le mardi gras arriva justement peu de temps après la vente de [MASK]
+
+['le', 'un', "l'", 'mon', 'la']	Mattia	« Elle est jolie, la glissade ! » me dit [MASK]. Quand le jour se leva, un jour pâle, vaporeux et sans soleil, nous étions en vue de hautes falaises ! blanches, et çà et là on apercevait des navires immobiles et sans voiles.
+
+['nous', 'le', 'la', 'avance', 'les']	Vitalis	Tout avait été préparé par [MASK], et il ne s’agissait plus que d’allumer les chandelles ; mais c’était un luxe que nous ne devions nous permettre que quand la salle serait à peu près garnie, car il fallait que notre illumination ne finît pas avant la représentation.
+
+["l'", 'témoin', 'et', 'le', 'qui']	Vitalis	Pendant cette déposition, [MASK], au lieu d’écouter avec attention, regardait de tous côtés dans la salle. Je compris qu’il me cherchait. Alors, je me décidai à quitter mon abri, et, me faufilant au milieu des curieux, j’arrivai au premier rang.
+
+['le', 'notre', ',', 'tout', 'Jean']	Mattia	Et dans notre enthousiasme nous allâmes embrasser notre vache sur son mufle noir ; sans doute elle fut sensible à cette caresse, car elle nous lécha la figure de sa langue rude. « Tu sais qu’elle embrasse », s’écria [MASK] ravi.
+
+['lui', 'qui', 'nous', 'lui-même', 'pourtant']	Capi	Mais aucun aboiement ne lui répondait, aucun bruit ne troublait le silence lugubre de la forêt, et [MASK], au lieu de chercher comme on le lui commandait, restait dans nos jambes, donnant des signes manifestes d’inquiétude et d’effroi, lui qui ordinairement était aussi obéissant que brave.
+
+['il', 'on', 'en', 'un', 'y']	Alexis	il n’y avait qu’une chose qui pouvait le faire se départir de sa bonhomie ordinaire : - un empêchement à son travail. Quand il entendit dire qu’[MASK] était condamné au repos pour plusieurs jours, il poussa les hauts cris. Qui roulerait sa benne pendant ces jours de repos
+
+[',', 'de', 'on', 'à', 'il']	Capi	Les choses continuèrent ainsi pendant plusieurs jours. Nous partions le matin et nous ne revenions que le soir après avoir joué notre répertoire tantôt, dans un quartier, tantôt dans un autre, tandis que de son côté [MASK] allait donner des représentations sous la direction d’Allen et de Ned ;
+
+["c'", "C'", 'il', 'qui', 'Il']	Vitalis	» [MASK] était un homme d’expérience, qui savait que le froid, dans les conditions où nous étions, pouvait devenir mortel. Pour qu’il s’exposât à ce danger, il fallait qu’il fût anéanti. Il l’était réellement.
+
+[',', 'les', 'ce', 'se', 'la']	Capi	dis-je. - Il demande son père, dit une jeune fille qui paraissait l’aînée des enfants. - Ce n’est pas mon père, c’est mon maître ; où est-il ? Où est [MASK] ? »
+
+['Mon', 'MON', 'Allons', 'Ma', 'Je']	Rémi	- Si j’interrogeais l’enfant, je suis sûr qu’il dirait que ce n’est pas vrai. Mais je ne veux pas disputer làdessus. Je n’ai pas le temps. Il faut se mettre en route. Allons, mon petit. Comment se nomme-t-il ? - [MASK].
+
+['le', 'la', 'tout', 'encore', 'en']	Bergounhoux	Au reste, je n’étais pas le seul, et parfois il échappait à mes camarades des observations qui prouvaient que le doute les envahissait aussi. « Ce qui me console, si je reste ici, dit [MASK], c’est que la compagnie fera une rente à ma femme et à mes enfants
+
+['Dieu', 'lui', 'elle', 'nous', 'eux']	Capi	on l’applaudit à plusieurs reprises, et à pleines mains. La représentation continua ; grâce à [MASK], elle se termina au milieu des bravos ; non seulement on claquait des mains, mais encore on trépignait des pieds. Le moment décisif était arrivé.
+
+['la', "l'", 'son', 'cette', 'ce']	Barberin	; si je n’avais pas compté làdessus, je ne m’en serais jamais chargé. » Cela avait, depuis cette époque, entretenu mes mauvais sentiments à l’égard de [MASK]. Enfin il fallait bien en passer par là, puisqu’il était impossible de faire autrement
+
+['le', 'mon', 'son', 'un', 'petit']	Capi	Et dans sa joie il se mit à danser en chantant ; je lui pris les mains, entraîné par sa gaieté, et [MASK], qui jusqu’alors était resté dans un coin, triste et inquiet, vint se placer au milieu de nous debout sur ses deux pattes de derrière.
+
+['monsieur', 'roi', 'lui', 'madame', 'comte']	Bob	« Expliquez-lui que je ne suis pas coupable, dis-je à [MASK], puisque je suis resté avec vous jusqu’à une heure du matin ; j’ai été à l’auberge du Gros Chêne où j’ai parlé à l’aubergiste, et aussitôt je suis revenu ici.
+
+['ne', ',', 'bien', 'se', 'à']	Capi	Ce fut ce dernier qui provoqua les applaudissements des enfants, qui nous écoutaient rangés en cercle autour de nous. « Et [MASK] ? demanda mon père, de quoi joue-t-il ? Je ne pense pas que c’est pour votre seul agrément que vous traînez un chien avec vous
+
+['il', 'Il', 'Ce', '</s>', 'ce']	Mattia	c’est une loi. » [MASK] n’était pas d’un caractère à s’insurger contre une loi ; seulement il avait une façon de me regarder, en ouvrant la bouche et en écarquillant les yeux, qui ne me rendait pas du tout fier de moi.
+
+['Elle', '</s>', 'elle', 'Celle-ci', 'Il']	Lise	Et puis enfin, si tu es un bon garçon, et j’ai dans l’idée quelque chose qui me dit que tu en es un, tu auras en nous une famille. » [MASK] s’était retournée, et à travers ses larmes, elle me regardait en souriant.
+
+['il', "l'", "m'", "s'", "j'"]	Mattia	Aussitôt arrivés, nous nous mîmes à jouer, et cela dura sans repos jusqu’au soir ; j’avais le bout des doigts douloureux comme s’ils étaient piqués par des milliers d’épines, et [MASK] avait tant soufflé dans son cornet à piston qu’il ne pouvait plus respirer.
+
+[',', 'cela', 'tout', 'çà', 'ça']	Barberin	; je m’en tiens à ce que j’ai dit, mais enfin à quoi le trouvez-vous propre ? » Le vieillard regarda [MASK] d’un air narquois, et, vidant son verre à petits coups : « À me tenir compagnie, dit-il ;
+
+['et', 'il', ',', 'Il', 'on']	Riccardo	» [MASK] décrocha de la muraille un fouet à manche court se terminant par deux lanières en cuir avec de gros noeuds. Pendant ce temps, celui auquel il manquait un sou défaisait sa veste et laissait tomber sa chemise de manière à être nu jusqu’à la ceinture.
+
+['il', 'je', 't-il', 'elle', '"']	Mattia	dit-il. - Certainement, jeune homme, et je vous raserai aussi, si vous voulez. - Je vous remercie », dit [MASK] ; il me lança un coup d’oeil à la dérobée pour me dire d’attendre un moment avant de me fâcher.
+
+['personne', 'quiconque', 'cela', 'Pierre', 'ça']	Alexis	il n’avait personne pour remplacer [MASK] ; s’il s’agissait de le remplacer tout à fait, il trouverait bien quelqu’un, mais, pendant quelques jours seulement, cela était en ce moment impossible ; on manquait d’hommes, ou tout au moins d’enfants.
+
+['le', 'la', "l'", 'les', 'une']	Bob	Cependant notre cheval, vigoureusement conduit par [MASK], continuait de détaler grand train sur la route déserte. De temps en temps seulement nous croisions quelques voitures, aucune ne nous dépassait. Les villages que nous traversions étaient silencieux, et rares étaient les fenêtres où se montrait une lumière attardée
+
+['Il', 'Elle', 'il', '</s>', 'Celui-ci']	Vitalis	Que veux-tu que nous y fassions avec une troupe réduite au seul Capi ? » [MASK] s’arrêta un moment pour lui passer la main sur la tête. « Toi aussi, dit-il, tu es un brave chien ; mais on ne vit pas de bonté dans le monde
+
+['je', 'vous', 'ce', 'se', 'tout']	Barberin	; elle m’avait dit que je le trouverais ici. - Si vous savez où est [MASK], dit le maître d’hôtel en s’adressant à celui qui m’avait interrogé, vous pouvez le dire à ce garçon qui ne lui veut pas de mal, bien sûr
+
+["c'", "C'", 'il', 'Il', '</s>']	Vitalis	Enfin un paysan plus charitable que ses voisins voulut bien nous ouvrir la porte d’une grange. Nous avions un toit pour nous abriter et la pluie ne nous tombait plus sur le corps. [MASK] était un homme de précaution qui ne se mettait pas en route sans provisions.
+
+['Jean', 'Marie', 'celui-ci', 'Pierre', 'celle-ci']	Arthur	; sa mère était près de lui. « Vous avez bien dormi ? me demanda [MASK], mieux que dans les champs ? » Je m’approchai et répondis en cherchant des paroles polies que j’adressai à la mère tout autant qu’à l’enfant.
+
+['il', 'elle', 'celui-ci', 'Belle', 'Il']	Dolce	Quand le mouvement fut régulier, [MASK] s’élança dans le cercle et sauta légèrement en tenant ses beaux yeux tendres sur les yeux de son maître. « Vous voyez, dit celui-ci, que mes élèves sont intelligents ; mais l’intelligence ne s’apprécie à toute sa valeur que par la comparaison.
+
+['On', 'Elle', 'on', 'Tout', 'elle']	Capi	; nous allons voir cela. » Et je m’asseyais devant une petite table sur laquelle le couvert était mis, une serviette posée sur mon assiette. Que faire de cette serviette ? [MASK] m’indiquait que je devais m’en servir. Mais comment ?
+
+['on', ',', 'se', '"', 'ade']	Alexis	quand vous serez reposés, vous nous donnerez une représentation. [MASK] dit que c’est un chien plus savant qu’un maître d’école ou qu’un comédien. » Autant je m’étais senti gêné devant la tante Gaspard, autant je me trouvai à mon aise avec l’oncle
+
+['mort', 'suicide', 'meurtre', 'persécution', 'menaces']	Garofoli	; il y avait aussi les menaces de [MASK], mais je me demandais si je ne devais pas garder le silence à ce sujet. Ce que mon maître avait si soigneusement caché durant sa vie devait-il être révélé après sa mort ?
+
+[',', 'tout', 'DE', '...', 'encore']	Vitalis	Malheureusement, quand [MASK], qui ignorait ce qui s’était passé en son absence, rentra, sa première parole fut pour me dire de préparer ma harpe et tous les accessoires nécessaires à notre représentation. L’heure était venue de nous rendre aux halles ;
+
+[',', ';', 'ainsi', 'cela', 'sa']	Capi	il est paralysé. » Je donnai aussi la main à mes deux frères et à ma soeur aînée ; je voulus prendre la petite dans mes bras, mais, comme elle était occupée à flatter [MASK], elle me repoussa.
+
+['le', 'mon', 'son', 'Mon', 'votre']	Joli	« Asseyez-vous, mon enfant », me dit la dame. Je ne me fis pas prier, je posai ma harpe et m’assis vivement devant la table ; les chiens se rangèrent aussitôt autour de moi, et [MASK]-Coeur prit place sur mon genou.
+
+['il', 'Il', "c'", 'tu', 'lui']	Rémi	« Tu ferais ébouler un déblai ; [MASK] est plus léger et plus adroit, il descendra et nous passera l’eau. - Dans quoi ? - Dans ma botte. » On me donna une botte et je me préparai à me laisser glisser jusqu’à l’eau.
+
+['un', 'le', "l'", 'mon', 'ce']	Capi	C’était le jour. Nous étions en plein air. En même temps, un corps blanc se jeta sur moi : c’était [MASK], qui, d’un bond, s’était élancé dans les bras de l’ingénieur et me léchait la figure.
+
+["l'", 'notre', 'la', "L'", 'cet']	Vitalis	Il refusa donc d’obéir à l’agent lorsque celui-ci voulut nous expulser de notre allée. L’agent répondit qu’il n’y avait pas à discuter, mais à obéir. « Il faut museler vos chiens, dit-il durement à [MASK]. - Museler mes chiens !
+
+['il', "s'", 'Il', ',', 'et']	Mattia	À cela [MASK] était obligé de répondre qu’il ne pouvait pas répondre. Je restais devant ces questions, accablé de mon impuissance, et je me disais que je me frapperais inutilement et à jamais, en pleine nuit noire, la tête contre un mur dans lequel il n’y avait pas d’issue.
+
+[',', 'de', 'qui', 'à', 'se']	Catherine	Mais [MASK] n’était pas là. Elle arriva cependant, une heure environ après le départ du père, et elle nous trouva tous dans la cuisine sans que nous eussions échangé une parole. Celle qui, jusqu’à ce moment, nous avait soutenus, était à son tour écrasée
+
+['ailleurs', 'personne', 'ne', 'les', 'se']	Alexis	La soirée et une bonne partie de la nuit ne furent point employées par [MASK] et par moi à dormir. L’oncle Gaspard était piqueur, c’est-à-dire qu’au moyen d’un pic il abattait le charbon dans la mine ;
+
+['se', 'les', ',', 'le', 'la']	Lise	; elle était accompagnée d’un tailleur et d’une lingère, qui nous prirent mesure pour des habits et des chemises. Elle nous dit que [MASK] continuait à s’essayer de parler, et que le médecin avait assuré qu’elle était maintenant guérie ;
+
+[',', 'tout', '"', 'le', 'çà']	Garofoli	Avant que je fusse revenu de la surprise dans laquelle m’avaient jeté ces étranges paroles il m’avait pris la main. « Suis-moi. » Et il m’entraîna vers la porte. « Eh bien, dit [MASK] en riant, sans rancune, mon vieux ;
+
+['lui', 'Dieu', 'être', ',', 'corps']	Capi	Cependant, comme grâce à [MASK] couché sur ma poitrine, j’avais conservé un peu de chaleur au coeur, j’avais résisté et je respirais encore. On m’avait alors porté dans la maison du jardinier, et l’on m’avait couché dans le lit d’un des enfants qu’on avait fait lever.
+
+['mais', 'oui', 'non', 'et', 'la']	Barberin	Je posai de nouveau ma question. « Ah ! oui, [MASK]... Nous avons eu ça dans les temps ; il y a au moins quatre ans. - Cinq, dit la femme, même qu’il nous doit une semaine ; où est-il, ce coquin-là
+
+['S', 'D', 'N', 'L', 'M']	Vitalis	Je lâchai la main de [MASK] pour avancer plus vite. Ce chemin était creusé par de profondes ornières. « Voilà l’épine ; il y a des ornières. - Donne-moi la main ; nous sommes sauvés, la carrière est à cinq minutes d’ici ;
+
+['"', 'se', ',', 'tous', 'de']	Carrory	» C’était le cas des autres, car chacun avait des allumettes dans son pantalon et nous avions trempé dans l’eau jusqu’à la poitrine ou jusqu’aux épaules. [MASK], qui avait la compréhension lente et la parole plus lente encore, répondit enfin : «
+
+["m'", ',', 'plainte', 'nous', "l'"]	Vitalis	« Il veut que je sorte, il a raison. - Pour te mener auprès de ton maître. » Les hommes de police qui avaient emporté [MASK] avaient dit qu’ils avaient besoin de m’interroger et qu’ils viendraient dans la journée, quand je serais réchauffé et réveillé.
+
+['elle', 'la', 'le', 'moi', 'lui']	Barberin	Mais, à la dérobée, elle me fit un signe qui disait que je devais obéir ; en même temps un mouvement de sa main me rassura : il n’y avait rien à craindre. Alors, sans répliquer, je me mis en route derrière [MASK].
+

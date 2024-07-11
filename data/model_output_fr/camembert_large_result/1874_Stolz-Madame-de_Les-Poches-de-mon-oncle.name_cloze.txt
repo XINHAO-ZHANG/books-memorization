@@ -1,0 +1,200 @@
+['Elle', 'On', 'Il', 'Je', 'Maman']	Germaine	Néanmoins, mon bonheur était de contrefaire la vieille fille, imitant sa façon toute particulière de prendre du tabac, de tousser, et d’ôter ses lunettes. [MASK] se fâchait bien fort, mourant d’envie de rire, et, au beau milieu de son petit sermon, elle éclatait.
+
+['lui', 'hasard', 'là', 'téléphone', 'écrit']	Florent	» J’appris effectivement par [MASK] que, au moment du départ, mon tuteur, satisfait de ma bonne volonté, avait donné l’ordre de laisser ma valise dans ma chambre, avec ma casquette de collége, pour reprendre le tout ensemble au jour de la rentrée.
+
+['moi', 'celui', 'vous', 'lui', 'ce']	Maurice	Ce n’est pas de vous qu’il s’agit. L’effrayant pseudonyme désigne mon tuteur qui, pour faire croire qu’il a toujours raison, emprunte votre propre langage. Il s’agit encore de [MASK] qui blâme en mon maître des impatiences que l’on ne voit jamais en vous
+
+['Marie', 'Jeanne', 'Sophie', 'Rose', 'Clara']	Germaine	« Entre ! » criai-je de toutes mes forces. J’avais reconnu la touche discrète de [MASK], une enfant de onze ans et demi qui ne me ressemblait pas, car elle était studieuse, raisonnable et sage ; c’était ma cousine pourtant.
+
+['Allons', 'Non', 'Maman', 'Voyons', 'Mais']	Germaine	— La bleue serait bien mieux pour aujourd’hui ? — [MASK], ne t’entête pas. — Je ne m’entête pas, maman ; je dis seulement que la verte me déplaît, et que la bleue serait.... — Assez, assez, que de paroles inutiles !
+
+['inconnu', 'Dieu', 'écrivain', 'Voltaire', 'roi']	Anatole	« Je suis mineure et captive. « Mon tuteur est [MASK] ; le lieu de ma captivité, son pupitre. « Je n’ai jamais fait de mal à personne ; et la correspondance que vous avez surprise n’est qu’une plaisanterie de trois têtes qui mûriront en vieillissant.
+
+['Jeanne', 'Marie', 'Madeleine', 'Marguerite', 'Clara']	Germaine	» Je me levai, sans me faire prier, bien que moralement assommé sous ce dernier coup ; et pendant que je longeais le corridor, j’entendis [MASK] qui disait à son père en sanglotant : « Je ne veux pas de dessert. »
+
+['là', 'toi', 'putain', 'camarade', 'mec']	Lucette	Toi, tu devrais avoir le courage de te dire une bonne fois : « Je suis un paress.... » — Tais-toi, [MASK], tu me fais l’effet de ma page d’écriture habillée en fille. —.
+
+['Jésus', 'Lui', 'Dieu', 'Il', 'Qui']	Edouard	[MASK] étant petit n’a jamais voulu croire que ce fût un danger, c’est tout au plus s’il le croit étant grand.... Il est donc grand ?... Eh oui ! puisque mes cheveux grisonnent. De ces temps, que reste-t-il en moi ?
+
+['Il', 'On', '</s>NOTUSED', 'Chacun', 'Elle']	Germaine	les uns des autres, il fallut essayer de nous raccommoder. Pour ce ; on tourna la chose en plaisanterie, et l’on eut recours à une correspondance clandestine qui apporta quelques adoucissements à ma position. [MASK] se fit le secrétaire intime de la captive.
+
+['Elle', 'elle', 'Madame', 'mère', 'femme']	Germaine	[MASK] écoutait mes paroles avec bonté, mais sans s’appesantir sur ma peine, ni sur ma maladie, tant elle était absorbée par le chagrin que lui causait l’état de mon oncle. Cependant, elle ne pouvait passer sans s’arrêter devant un être à plaindre, fût
+
+['un', 'Voltaire', 'Shakespeare', '</s>NOTUSED', 'Goethe']	Florent	! Un jour, oui, c’était en plein jour, vers deux heures et demie, pendant que je traduisais laborieusement je ne sais plus quel auteur, j’entendis sortir [MASK], à qui mon oncle venait de donner une commission.
+
+['Madame', 'mais', 'Mademoiselle', 'madame', 'Monsieur']	Lucette	— Chut ! chut ! Il ne faut pas dire ce mot-là. — C’est donc mal ? Tout le monde s’en sert pourtant. Enfin, puisque cela te fait tant de peine, je ne m’en servirai plus. — Tu feras bien, [MASK].
+
+['non', 'oui', 'monsieur', 'mais', 'Non']	Lucette	— Non, non, [MASK], mille fois non. L’homme est le chef de la femme. C’est dans mon histoire sainte, au premier chapitre. — Oh ! comme tu sais bien celui-là ! — Oui, mais je ne sais pas les autres.
+
+['exécution', 'ordre', 'André', 'Antoine', 'Albert']	Anatole	« Dès aujourd’hui, je visiterai le pupitre d’[MASK], et j’examinerai ses papiers. » Ce fut un coup de foudre pour ma bonne cousine. Oubliant un moment ce malheureux vous, elle se dit qu’il fallait rendre au prisonnier un dernier service.
+
+['madame', 'bébé', 'Marie', 'femme', 'maman']	Germaine	Je vous l’avoue, j’avais absolument oublié ma position, lorsque, au bout de dix minutes, les affaires de la tutelle, qui n’étaient pas compliquées, me laissèrent retomber sur moi-même, et retrouver tous mes ennuis. Sur ces entrefaites, j’entendis les petits pieds de [MASK] dans le corridor
+
+['Elle', 'Alice', 'Madame', 'elle', 'Maman']	Fitzine	boîte à ouvrage fut entr’ouverte avec des précautions sans nombre, l’esprit de liberté et d’insubordination étant fort à craindre chez les souris du dix-neuvième siècle. [MASK] était en train de souper : elle prenait tout simplement un peu de fil, avec un peu de bobine.
+
+['ainsi', 'elle', 'mère', '!', 'autrement']	Marguerite	; grande pèlerine noire ; ne levant pas le nez, tirant l’aiguille sans distraction, ne bougeant pas, enfin.... l’air empaillé ! Pour finir, on l’appelait mamselle Gothon ! s’autorisant de ce qu’elle se nommait [MASK].
+
+['lui', 'cela', 'moi', 'ça', 'Dieu']	Fénelon	Tout se taisait autour du rebelle jusqu’à ce que, rentrant en lui-même en face de la désapprobation générale, il s’humiliât devant l’autorité, reconnût sa faute et la réparât loyalement. Je finis par penser que mon tuteur pouvait avoir avec [MASK] quelques rapports, ou plutôt un seul : la fermeté.
+
+['Elle', 'Marie', 'elle', 'Sophie', 'Anna']	Lucette	de là, le cri aigu. [MASK] fut attristée, et comme en elle la bonté surpassait et surpasse encore tout autre sentiment, elle ne songea bientôt plus au chat, mais uniquement à la souris, dont elle entreprit, avec beaucoup de dévouement, de panser les blessures.
+
+['toi', 'Seigneur', 'camarade', 'enfin', 'docteur']	Lucette	! » Je me figure qu’il avait dit cela, ou quelque chose d’aussi irrévérencieux. « Enfin, repris-je, apprends-moi, [MASK], ce qui pourrait adoucir mon sort ; rendre du moins mes vacances supportables. — Rien au monde, hélas !
+
+['celui', 'lui', 'Celui', 'ce', 'Dieu']	Démosthène	Elles étaient fort belles les histoires qui sortaient des poches de mon oncle. Il y était, bien entendu, question de [MASK] qui, par des efforts persistants, et des cailloux dans sa bouche, était parvenu à vaincre ce qui dans sa nature s’oposait à lui-même.
+
+['Dieu', 'Lui', 'Elle', 'Cela', 'Jésus']	Lucette	J’avais encore le dessous ; c’était ainsi chaque fois que nous causions. Donc, je voulus briser ; mais les bons anges ne nous quittent pas quand nous faisons semblant de ne pas les entendre. [MASK] non plus ne me quitta point.
+
+['oui', 'merci', 'Seigneur', 'non', 'moi']	Lucette	Et puis, nous la demanderons du fond du cœur, cette grâce du moment qui aide à comprendre, à lutter, à supporter lagêne, l’ennui, la contrainte. Dis, veux-tu ? — Oui, [MASK]. »
+
+['monsieur', 'Monsieur', 'madame', 'Madame', 'Mademoiselle']	Perrin	— Je ne puis rien dire, [MASK], puisque cela m’est défendu ; mais je te répète que les poches de mon oncle ont beaucoup d’esprit sans en avoir l’air. — Et jusqu’à quand faut-il attendre ?
+
+['Madame', 'Mademoiselle', 'madame', 'Jeanne', 'Maman']	Prudence	Je le plaignais, et j’avouai à [MASK] que j’étais peiné de n’avoir pas encore été appelé près de lui. « Sans doute qu’il repose, me dit-elle ; Monsieur a eu cette nuit un accès de fièvre. — Il dort donc en ce moment ?
+
+['madame', 'Madame', 'Monsieur', 'monsieur', 'Mademoiselle']	Lucette	Cet exorde me fit prévoir le corps du discours, qui ne pouvait être qu’une suite, de sentences appropriées à mon état. « C’est qu’il est bien tard, [MASK]. — Non, dit-elle, avec un sourire aussi fin que possible, ta montre avance
+
+['elle', 'Marie', 'Jeanne', 'Maman', 'moi']	Germaine	En une minute, je me sentis grandir moralement, et je remerciai sans trop de gaucherie mon cousin qui s’en allait. Quant à [MASK], elle était si contente que sans sa cheville, encore endolorie, je pense qu’elle eût dansé.
+
+['Marie', 'Madeleine', 'Jeanne', 'Marguerite', 'Louise']	Germaine	Notre convalescent progressait tous les jours ; et [MASK], sa douce petite-fille, le quittait le moins possible, lui faisant avec une habileté rare toutes ses commissions, car quoiqu’il n’en convînt pas, mon oncle en était à regretter ses poches.
+
+['</s>NOTUSED', 'Marie', 'Jeanne', 'Elle', 'Maman']	Prudence	Il est tard, et ton ami, L’oiseau bleu, s’est endormi. [MASK], voyant que nul n’était à la hauteur du sinistre, prit le parti de ne s’en rapporter qu’à elle-même pour sauver la maison, le quartier, le pays !
+
+['Paul', 'Pierre', 'Henri', 'Louis', 'Marie']	Maurice	et ce très-court voyage se fit le plus heureusement du monde. J’avais eu l’attention de réunir dans une valise mes livres d’étude et mes cahiers, car je pensais travailler deux heures par jour comme faisaient [MASK] et son frère tout le long des vacances.
+
+['maman', 'mère', 'Maman', 'Mère', 'madame']	Prudence	; car par un nouveau caprice, le gros bébé ne voulait plus marcher qu’avec moi. Il repoussait mère, sœur, nourrice, en criant : « Non, Ato ! Ato ! » Si bien que [MASK] affligée avait décidé que l’enfant ne marcherait jamais.
+
+['Marie', 'Juliette', 'maman', 'Gabrielle', 'Cécile']	Lucette	— ce fut le doux nom de [MASK] qui s’échappa de mes lèvres ardentes ; je le répétai trois fois.... elle ne répondit point. Non, la compagne du premier âge, la sauvegarde de ma jeunesse, l’amie de tous les instants..... elle ne répondit point.
+
+['Thérèse', 'Colette', 'Socrate', 'maman', 'Catherine']	Germaine	et si tu l’as été jusqu’ici, reconnais ta faute, c’est le seul moyen de t’en corriger. » Le sens de ces mots, dits tout bas entre deux rires, me rappela le conseil de [MASK]. Elle aussi disait qu’il fallait se reconnaître coupable, en convenir
+
+['elle', 'maman', 'Marie', 'Madeleine', 'Alice']	Germaine	La vue de cette chère enfant calma mon agitation, et je retournais à des sentiments plus dignes d’un tuteur respectable et respecté. Enfin, [MASK] vint me délivrer. « Bon papa est mieux ce soir, me dit-elle ; il te demande, viens avec moi.
+
+['elle', 'madame', 'maman', 'Marie', 'Madeleine']	Prudence	Ah ! quel effet ! En sortant de ma chambre, je me dirigeai vers la cuisine, dont [MASK] tenait la moitié. Je lui demandai des nouvelles de mon oncle ; elle me dit que la nuit avait été excellente, et qu’il avait pris son café avec plaisir.
+
+['Moi', 'La', 'Le', '...', 'Les']	Lucette	CHAPITRE PREMIER. Mes aptitudes. — Un mot qu’il ne fallait pas dire.—Mon tuteur. — Ma pupille. — [MASK]. — Les arrêts. — Mon assiette à l’envers. — Le sourire de mon oncle. Aimez-vous les mathématiques ?... Je parie que non
+
+['maman', 'toi', 'hein', 'hier', 'maintenant']	Lucette	Le lendemain matin, je la trouvai m’attendant à l’heure où je devais sortir de ma chambre pour ma récréation du matin. Elle avait les yeux rouges. « Tu as pleuré, [MASK] ? — Oui. — Qui t’a fait pleurer ? — Toi.
+
+[':', '[...]', '...', 'Monsieur', ';']	Florent	Elle avait tant de grâce, l’aimable petite fille, qu’elle m’en prêtait, à moi qui n’en avais pas l’ombre. Comme je l’ai dit, il y avait encore dans la maison le domestique de mon oncle, brave et digne serviteur, nommé [MASK]
+
+['elle', 'Madeleine', 'Marie', 'Louise', 'on']	Germaine	on causait, et [MASK] demandait à sa mère quelle robe elle devait mettre pour sortir, car le soleil annonçait une belle journée. « Ma fille, tu me l’as demandé déjà ; je t’ai dit que tu mettrais ta robe verte.
+
+['Marie', 'Madame', 'Jeanne', 'Sophie', 'Jean']	Prudence	La douleur était passée ; mais les suites occasionnaient, dans le visage ridé de la bonne fille, un contraste tout à fait inattendu. Du côté qu’apercevait [MASK], c’était une joue d’anachorète ; de mon côté, un vrai ballon ! J’en étais décontenancé ;
+
+['Elle', 'Marie', 'Julie', 'Hélène', 'Catherine']	Fitzine	[MASK] guérit de ses blessures, mais sa langueur ne céda ni au changement de lieu, ni aux soins délicats dont elle était l’objet. Cette maladie ne venait, disait-on, que de la captivité. J’étais donc tout aussi méchant que ce vilain chat ?
+
+['voyons', 'allons', 'Socrate', 'alors', 'monsieur']	Lucette	Tu dois trouver que c’est raisonner juste, toi qui es un homme ? — Oui, c’est juste. Ah ! c’est fort ennuyeux d’avoir affaire à des gens qui ont toujours raison.... Mais voyons, [MASK], parlons friture ?
+
+['chacun', 'Marie', 'Louis', 'maman', 'Paul']	Prudence	Mais avançons.... Ah ? quel souvenir ! Il y avait au plus deux minutes que [MASK] nous avait quittés ; le silence favorisait l’audition du bruit le plus léger. Il me sembla qu’on entrait, mais avec des précautions infinies ;
+
+['elle', 'lui', 'vous', 'moi', 'toi']	Germaine	— Elle va bien, répondis-je, articulant à peine, tant je sentais que les affaires de la tutelle ne regardaient personne, sinon moi par devoir, et [MASK] par amitié. Je racontai avec une grande sobriété de paroles l’amande, la promenade, la timidité, etc., etc.
+
+['madame', 'Marie', 'Louise', 'Madame', 'maman']	Germaine	Cela durait jusqu’à l’heure de mon étude, heure fatale, où tombaient sur moi mille infirmités : lourdeur de tête, inquiétudes dans les jambes, force bâillements, et le reste. Quand je détaillais à [MASK] ces infirmités, elle raisonnait la situation d’un air capable et naïf à la fois.
+
+['elle', 'il', 'maman', 'lui', 'madame']	Germaine	Ses larmes étant imputées à sa cheville, son père frottait, frottait tant qu’il pouvait, et [MASK] pleurait toujours. Il voulut appeler un médecin ; elle assura que la douleur aiguë était passée depuis longtemps ; mais que c’était à cause de moi qu’elle pleurait.
+
+['maman', 'Maman', 'papa', 'Pierre', 'monsieur']	Germaine	Ne pas faire trembler et retentir le parquet sous mes pas me parut utile et placé. Ceci à l’adresse de mon oncle et de ma tante, car c’était tout un par le cœur ; ce que [MASK] voulait me faire entendre en disant que ma tante semblait ne pas marcher, quoiqu’elle marchât.
+
+['elle', 'il', 'Marie', 'Louise', 'Catherine']	Fitzine	Regarde, depuis que nous sommes là, elle n’a pas remué. » En effet, immobile à l’extrémité du promenoir, le visage tourné vers la haute et épaisse muraille qui longeait l’aile droite de l’établissement, [MASK] semblait insensible à nos paroles et à nos gestes.
+
+['lui', 'moi', 'Dieu', 'toi', 'David']	Florent	Lui aussi était aux arrêts, mais sa peine était bien plus sévère que celle du pauvre petit diable. — Je m’appelais ainsi depuis mes malheurs. — Il me fit approcher, et me dit devant [MASK], son bon et fidèle serviteur :
+
+['monsieur', 'madame', 'Monsieur', 'rien', 'quoi']	Lucette	— Qu’as-tu fait ce matin, avec lui ? — Il y a eu un examen sur les travaux de l’année. — Et qu’as-tu répondu ? — Rien que des bêtises, [MASK], deux heures durant ! — Ah !
+
+['Jeanne', 'bébé', 'Marie', 'Louise', 'Berthe']	Germaine	S’étant chargée d’élever [MASK] à la maison, elle lui donnait des leçons, corrigeait ses devoirs, et soignait le fameux poupon qui ne voulait pas marcher, ce qui compliquait tout. Ma cousine trouvait moyen de se mettre en quatre, — sans figure de rhétorique ;
+
+['madame', 'monsieur', 'Madame', 'Monsieur', 'docteur']	Prudence	Tenez, voilà du pain et de la mirabelle ; elle est délicieuse ! — Je vous remercie, [MASK], lui dis-je du ton grave qui convenait à ma position, et je suis bien aise de vous retrouver en bonne santé.
+
+['ici', 'monsieur', 'docteur', 'Monsieur', 'là']	Lucette	! Je pris donc une chaise, moi aussi, ce qui veut dire en français que l’on consent, puisqu’il le faut, à écouter, et je demandai d’un air distrait : « Qu’y a-t-il de nouveau, [MASK] ?
+
+['</s>NOTUSED', '—', '...', 'I', '1']	Franconi	— La serrure du grenier. — [MASK]. Le lendemain de ce premier jour de vacances — terribles vacances ! — je me levai de bonne heure, et j’écoutai sonner l’horloge qui frappa sept coups. Une seconde s’était à peine écoulée ; mon cousin entra.
+
+['on', 'elle', 'maman', 'il', 'Maman']	Florent	J’aurais dû convenir sur-le-champ, entre ma souris et moi, que j’étais réellement un petit p..... Qui sait ? j’aurais peut-être fini par le penser ; mais comme [MASK] vint m’avertir que le déjeuner était servi, je ne le pensai point.
+
+['Amour', 'Dieu', 'Sagesse', 'Socrate', 'le']	Aptitude	L’Optime, c’était un mythe pour l’excellente femme, elle ne cherchait pas à savoir que ce mot signifie Très-bien ; mais elle saisissait le sens par instinct, et jetait le mot difficile dans le sac aux oublis avec [MASK], et tant d’autres
+
+['on', 'il', 'elle', 'Dieu', 'maman']	Lucette	Le soir, quand j’allai voir mon oncle, il me parla sans aucun détour de ma pupille, la nommant Fitzine, car [MASK] lui avait confié ce doux nom, et ne l’appelant jamais souris, encore moins animal.
+
+['celui', 'Napoléon', 'Jésus', 'Socrate', 'David']	Achille	Que de côtés vulnérables si vous le comparez à [MASK] qui n’en avait qu’un ! Encore était-ce le talon, par où il est extrêmement difficile de tenir quelqu’un, même cinq minutes, à cause de la tête qui se trouve mal placée.
+
+['Marie', 'Jeanne', 'maman', 'Madeleine', 'Marguerite']	Germaine	Le souvenir attendrit ; l’espérance fait sourire. Pendant que chacun traduisait à sa manière ce qui se passait en lui, et que [MASK], transportée de joie, faisait manœuvrer son petit frère, on aperçut par l’ouverture de la porte un avant-bras ganté d’une chaussette.
+
+['monsieur', 'assez', 'Monsieur', 'madame', 'non']	Florent	! Il est si travailleur, lui, qu’il n’aime pas les paress.... — Assez, [MASK] ! je ne suis pas ce que vous alliez dire. Non, vraiment ; mais je n’ai aucune aptitude pour ce qu’on enseigne au collége.
+
+['Madame', 'madame', 'Mademoiselle', 'Mme', 'Marie']	Germaine	Monsieur savait sa théorie par cœur, et commençait \ prendre l’air suffisant de l’écolier qui croit pouvoir se passer de son maître. J’avais fini par mettre [MASK] dans ma confidence, afin qu’elle parlât en ma faveur, et certifiât, en temps et lieu, que j’avais donné d’excellentes leçons.
+
+['Oh', 'Henri', 'oh', 'non', 'Georges']	Perrin	« Est-elle gentille ! Oh ! [MASK], quel dommage que tu n’aies pas bien travaillé, que tu aies été.... co que tu ne veux pas qu’on dise ! Nous nous serions tant amusés avec ta souris !
+
+['Elle', 'Maman', 'Madame', 'Marie', 'Jeanne']	Germaine	[MASK] eut grand soin de raconter à nos amis Waldeck, dès qu’elle en trouva l’occasion, le crime, mon courage, et toutes les péripéties par où nous avions passé. Je ne leur pardonnerai jamais d’avoir ri.... C’est ce qu’ils firent pourtant.
+
+['Il', 'Elle', 'Maman', 'il', 'Bébé']	Germaine	Pendant que je faisais cela, j’oubliai l’assiette qui chavira, amenant le potage sur la nappe, sur mon pantalon, sur le parquet, et sur les souliers du bébé !... Quel tableau ! [MASK] poussa un petit cri de détresse, et vint à mon secours.
+
+['Monsieur', 'Madame', 'Monseigneur', 'Mademoiselle', 'Père']	Florent	? Rien du tout. Alors, quittant ce ton confidentiel que j’avais pris, sans la moindre prévoyance : « [MASK], dis-je avec beaucoup de dignité, apportez-moi, je vous prie, un peu de pain pour goûter ; il est bien tard. »
+
+['Marie', 'Jeanne', 'Catherine', 'Madame', 'Julie']	Lucette	Cependant je sus maîtriser cette inquiétude, et je ne manquai pas à ma parole ; mais déposant dans le bon cœur de [MASK] une partie de mes craintes, je la consultai pour savoir ce qu’il y avait à faire. Elle ne sut que dire, et ne répondit rien.
+
+['lui', 'elle', 'vous', 'toi', 'eux']	Fitzine	Oubliant un moment ce malheureux vous, elle se dit qu’il fallait rendre au prisonnier un dernier service. En effet, il s’agissait pour moi de sauver ou de perdre une tête bien chère, car malgré mes coupables emportements, que je regrettais, j’avais pour [MASK] une affection sincère.
+
+['Elle', 'Il', 'On', 'elle', 'Cela']	Germaine	ce teint de pain d’épices ! [MASK] me grondait, bien entendu, c’était sa spécialité. Néanmoins, mon bonheur était de contrefaire la vieille fille, imitant sa façon toute particulière de prendre du tabac, de tousser, et d’ôter ses lunettes.
+
+['Simon', 'Max', 'Nathan', 'Jack', 'Pierre']	Waldeck	! Cela donne le frisson quand on a le cœur pris.... par une souris ! La famille de [MASK] était mon cauchemar. Quand ils arrivaient tous les quatre, ma gorge se serrait, je ne savais plus que dire, tant j’avais conscience de mon infériorité.
+
+['petit', 'enfant', 'Louis', 'chéri', 'Henri']	Perrin	Écoute, [MASK], tu as bien travaillé pendant quelques jours, et tu as avancé beaucoup, c’est papa qui l’a dit. Puis, tu t’es relâché, et l’étude recommence à t’ennuyer. Je vais te dire, moi, d’où cela est venu.
+
+['monsieur', 'oui', 'Monsieur', 'ça', 'lui']	Florent	Le brave homme, souriant des terreurs de la nourrice, se félicitait de ce que son cher et vénéré maître dormait tranquille à côté de ce trouble. Oui, [MASK], c’était la doublure de mon oncle, son factotum, sa canne, sa jambe, sa poche, tout
+
+['toi', 'hélas', 'Marie', 'maman', 'moi']	Perrin	Non, je ne me tairai pas, parce que je t’aime trop. Vois-tu, [MASK], tu n’as pas cette bonne volonté que le bon Dieu bénit. — Mes livres m’assomment ! — Si tu reconnaissais.... — Et mes cahiers aussi.
+
+['elle', 'Carthage', 'Vénus', 'Rome', 'Jérusalem']	Clio	Des neuf muses, [MASK] était peut-être celle qui me déplaisait le plus. Je ne voyais nul profit à tirer du souvenir de ces millions d’hommes, bataillant depuis qu’ils se connaissent pour conquérir ou pour garder un coin de terre, dussent-ils se faire tuer sur place.
+
+['»', '...', '«', 'etc', 'Monsieur']	Lucette	Les nôtres sont rares, et quand il nous arrive de nous disputer cinq minutes, la querelle finit toujours de la même manière : ma femme me regarde d’un œil malin en disant : « Mon chef !... » et moi, désarmé, je réponds invariablement : « Tu as raison, [MASK].
+
+['</s>NOTUSED', '?', '«', '!', '»']	marmotte	Eh bien, mon cher lecteur, vous n’allez peut-être pas le croire, et pourtant les poches l’ont dit, le grand, l’illustre, l’incomparable Michel-Ange aurait pu devenir.... [MASK]. Quoi !
+
+['maman', 'madame', 'oui', 'monsieur', 'papa']	Perrin	; et toi tu m’aimes depuis que tu as tes premières dents ; c’était moi qui te consolais le mieux, m’a dit ta maman. — C’est vrai, [MASK], mais de tout cela, il n’y a que onze ans et demi.
+
+['Il', 'Lui', 'Elle', 'Jean', 'Pierre']	Germaine	Je continuais à travailler consciencieusement, et, de peur de ne pas entendre mon oncle sonner, j’avais entrebâillé ma porte. [MASK], sans me le dire, en avait fait autant, car nos atomes crochus s’accrochaient si bien, que nous avions souvent la même pensée.
+
+['et', 'mais', 'qui', 'puis', 'lequel']	Germaine	Toutefois, il ajouta que les puissances ne désarmeraient pas, et qu’il fallait user d’une extrême prudence si l’on voulait échapper aux horreurs de l’invasion, [MASK], sur la voie des confidences, ne s’arrêta plus.
+
+['non', 'monsieur', 'Monsieur', 'Non', 'chéri']	Lucette	promets-moi d’y consentir ? — Non, [MASK], non, non. Un homme n’engage jamais sa parole avant de savoir ce dont il s’agit, c’est beaucoup trop grave. » J’étais devenu extrêmement fier depuis que mon cousin avait traité avec moi.
+
+['Marie', 'Julie', 'Jeanne', 'Madeleine', 'Marguerite']	Germaine	. « Oui, me voilà, dit [MASK], mais sans entrain, et comme attristée par des pensées trop lourdes pour son bon petit cœur. Ah ! que de malheurs, mon ami ! que de malheurs cette année !
+
+['madame', 'Madame', 'Mademoiselle', 'monsieur', 'Monsieur']	Lucette	— Bonsoir, [MASK]. Oh ! comme il est tard ! » Ainsi, orgueilleux que j’étais, je la laissai partir sans lui faire voir le fond de mon cœur. Oui, c’était uniquement par orgueil, car il était bien troublé le fond de mon cœur.
+
+['maman', 'moi', 'chéri', 'non', 'Maman']	Lucette	» — Mais, [MASK], je t’assure qu’il est tard. J’ai une envie de dormir ! !... » Elle se leva toute triste, ma petite compagne, me tendit la main et me quitta, en disant avec une délicieuse naïveté : «
+
+['maman', 'madame', 'papa', 'monsieur', 'Maman']	Germaine	Je devais recourir à des plaisirs silencieux.... donc, la tutelle, puis un tour d’appartement, rencontrer [MASK], tâcher de voir mon oncle, essayer du marmot, au cas où il voudrait rire avec moi. Je commençai par la tutelle, le devoir avant tout.
+
+['moi', 'papa', '»', 'chéri', 'toi']	Perrin	Avec ses onze ans et demi, son visage rose et sa voix argentine, elle avait aussi sa logique. « Vois-tu, [MASK], me dit-elle un soir, d’un ton demi-plaisant, demi-sérieux, je ne suis qu’une petite fille, et toi, tu es un garçon....
+
+['moi', 'lui', 'Dieu', 'vous', 'elle']	Germaine	Il ajouta gravement qu’il ne faudrait demander aucune explication à personne, pas même à [MASK]. Du temps et de la persévérance, je devais recevoir la complète intelligence de ce qui me paraîtrait obscur.... Tout cela l’était beaucoup effectivement. Ce soir-là, j’abrégeai ma visite ;
+
+['maman', 'Marie', 'Maman', 'Jeanne', 'Alice']	Germaine	— Eh bien, reprit [MASK], de sa voix la plus douce, papa veut absolument que tu repasses, pendant tes. vacances, tout ce qu’on a expliqué au collége sans que tu y fisses attention. »
+
+['Monsieur', 'Joseph', 'Pierre', 'celui', 'Louis']	Florent	, Je me retirai très-étonné, et j’allai dans la chambre de [MASK] qui, s’étant couché plus tôt parce qu’il devait se lever de grand matin, dormait sur ses deux oreilles, et mit du temps à saisir le sens de mon discours.
+
+['</s>NOTUSED', 'Lui', 'Monsieur', '«', 'Elle']	Lucette	? — Ce doit être un remède bien énergique, » répondis-je en retenant un éclat de rire. [MASK], qui ne riait pas, entr’ouvrit la grande porte de la maison de santé, et avança la main, pour tâter le pouls de la mourante....
+
+['»', '«', 'Mademoiselle', 'Madame', 'Monsieur']	Perrin	Elle se leva toute triste, ma petite compagne, me tendit la main et me quitta, en disant avec une délicieuse naïveté : « Je t’ennuie ? Eh bien ! tout ce que tu ne voudras pas faire, c’est moi qui le ferai. Bonsoir, [MASK].
+
+['Julie', 'Marie', 'Madame', 'Sophie', 'Lucien']	Germaine	Le chocolat avait passé comme une lettre à la poste ; j’étais donc distrait malgré moi des idées pénibles que m’avait transmises [MASK], et je commençais à croire qu’il y avait dans mon état encore plus d’appétit que de consomption.
+
+['on', 'chacun', 'il', 'personne', 'elle']	Florent	Pas moyen cette fois d’éviter ce mot que j’avais en horreur. Je fus couvert de honte, car [MASK] l’avait entendu. Je compris qu’on se liguait contre moi, et que le juste mécontentement de mon cousin allait jusqu’à interdire tout rapport intime avec le mauvais écolier.
+
+['lui', 'elle', 'moi', 'maman', 'Maman']	Germaine	D’ailleurs, pas moyen de tomber malade, tant j’étais distrait à mes récréations par [MASK] et par son petit frère ; qui en était venu à m’aimer de passion ; il me cherchait des yeux, criant : « Ato ! Ato ! »
+
+['mon', 'ma', '...', '?', 'mes']	Lucette	Ma tante, qui ne me regardait pas sans tristesse ; ma cousine Adélaïde, qui faisait exprès de me toucher la main sans que cela parût, en me donnant un fruit au dessert. Et puis, quoi de plus indulgent que mon oncle ? quoi de plus gentil que [MASK]
+
+['il', 'on', 'elle', 'lui', 'qui']	Florent	On sonna Prudence, car [MASK] venait d’être appelé auprès du malade. Entre le torchon, la nourrice, la nappe, mon pantalon, et le bébé qui se croyait mort, je perdais la tête. Mon tuteur ne parlait pas ;
+
+['en', 'chacun', 'lui', 'Louis', 'comme']	Florent	? Il en est temps, mon cher ami. » J’allais répondre je ne sais quoi, — une bêtise probablement, je ne faisais plus que ça, — lorsque, [MASK] étant sorti, il me fut dit d’un ton paternel :
+
+['mais', 'monsieur', 'oui', 'madame', 'Monsieur']	Lucette	— Oui, [MASK], un garçon c’est plus qu’une fille. — Il faut bien le croire, mais c’est très-difficile. — Pourquoi donc ? — Parce que je trouve qu’on ne s’en douterait pas. — Comment ?
+
+['Elle', 'Il', 'Maman', 'On', 'Papa']	Germaine	Je la trouvais — bien entre nous — un peu.... un peu nulle. Je l’appelais rarement ma pupille ; il me semblait qu’elle était tout bêtement.... une souris. [MASK] la soignait de son mieux, pendant que je commençais à l’oublier.
+
+['Ah', 'Hélas', 'Oh', 'Allons', 'Mais']	Florent	Étant donc soulagé du côté du cœur, je retombai sur moi-même, ainsi que cela nous est naturel. « [MASK], dis-je, d’un ton à fendre l’âme, je vais bien m’ennuyer pendant deux mois !
+
+['lui', 'en', 'même', 'Madeleine', 'bientôt']	Germaine	Toujours est-il que, [MASK] ayant quitté ma chambre, je me trouvai bien inquiet. Elle m’avait, il est vrai, laissé un peu de chocolat ; mais au moment où j’allais la prier d’aller me chercher du pain, son père l’avait appelée.
+

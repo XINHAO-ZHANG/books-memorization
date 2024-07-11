@@ -1,0 +1,200 @@
+['merci', 'ah', '...', 'oui', '-']	Pinçard	et je jurerais à cette heure que cheveux, balafre et barbe, tout est faux ! — Mais se serait donc un agent ? — C’est un agent te dis-je. J’ajouterais même que je crois savoir son nom. — Et il s’appelle ? — [MASK] !
+
+['sade', 'lambert', 'robespierre', 'versailles', 'boucher']	Lesurques	Le misérable forçat ne s’était pas trompé sur la cause de l’acharnement que l’on mettait à le poursuivre, et, dans son rêve de vengeance, c’est à la veuve de [MASK] qu’il s’en prenait surtout !
+
+['il', "c'", 'y', 'ii', '--il']	Bernard	Certains forçats assuraient qu’il y était né... [MASK] était rogue, taciturne, impitoyable. Il portait constamment à la main un bâton noueux, dont il faisait un usage terrible, quand on faisait mine de lui résister.
+
+['on', 'il', 'qui', 'le', 'patron']	Bernard	[MASK] l’avait chargé de ranger des piles de boulets sur le quai, et il accomplissait sa besogne, seul, à quelques pas de ses compagnons. Le garde-chiourme ne le quittait pas de l’œil, et paraissait même surveiller tout particulièrement la manière dont il effectuait son travail.
+
+['14', '10', '13', '25', '19']	Claudine	En deux bonds, il fut auprès de [MASK]. La jeune femme avait l’habitude de lire sur la physionomie de son amant tous les sentiments qui venaient s’y refléter. Elle fut effrayée du bouleversement de ses traits. — Qu’y a-t-il ?
+
+['le', 'trop', 'cela', 'du', 'ce']	Firmin	ce n’était que [MASK]. Son cœur se serra à cette première contrariété ; puis son regard s’attacha sombre et menaçant au visage de l’agent subalterne. — Ah ! vous voilà enfin, dit-elle d’un ton saccadé, je commençais à craindre de vous revoir jamais.
+
+['</s>', 'elle', 'celle-ci', 'tout', 'qui']	Madeleine	C’était la seule chose que n’eût pas souillée en elle la fange dans laquelle elle avait vécu. Elle était grande, forte, bien prise dans sa taille, et à seize ans elle avait atteint le complet développement de sa beauté. [MASK], pourtant, n’était pas heureuse.
+
+['elle', 'moi', 'lui', 'nous', 'eux']	Courriol	Elle n’avait jamais rien vu au delà de cet horizon, et elle ne chercha pas à donner un autre but à sa vie. Toute son âme, tout son cœur, son être entier enfin, s’attacha à [MASK], et elle se mit à l’œuvre avec un dévouement d’esclave.
+
+['elle', 'on', 'il', 'qui', 'celle-ci']	Pinçard	je vous donnerais une fausse adresse, sans le vouloir même ; je vous tromperais... voyons, ne me repoussez pas ayez pitié, pitié !... En parlant ainsi, la malheureuse roulait sa tête échevelée dans ses mains, et elle pleurait et sanglotait. Mais [MASK] ne devait pas se laisser toucher ;
+
+['celui-ci', ',', 'jacques', 'rodin', 'maurice']	Firmin	— C’est donc un émigré ? dit [MASK] en baissant la voix. — Précisément. — Alors, je comprends. — Et tu seras discret ? — Comme un poisson — Eh bien ! va... Hâte-toi, et viens ici m’apporter la réponse.
+
+['dreyfus', 'innocent', 'lui', 'napoléon', 'robespierre']	Lesurques	A mesure que la défense faiblit, l’accusation s’affirme et redouble de zèle. C’est la marche naturelle des choses. Or, dans cette lutte ardente et passionnée, quel espoir pouvait donc rester à [MASK], s’il est vrai qu’il fût innocent.
+
+['dieu', 'oui', 'je', 'non', 'vous']	Guillaume	réponds. — Oui, oui, [MASK]... mon Dieu... j’étais folle à ce moment... tu te souviens... il y avait notre enfant !... — Tu m’as vendu pour le sauver ! — Le sauver !... Mais tu n’as donc rien su
+
+['eh', 'oui', 'oh', 'ah', 'non']	Bernard	— [MASK] ! — Eh ! sans doute... l’imbécile ; pour me le rendre favorable,’j’avais été obligée de lui promettre plus que je ne voulais tenir... et quand l’heure est venue... il a bien fallu s’en débarrasser... — Tu l’as donc tué ?
+
+['famille', 'barreau', 'mort', 'justice', 'juge']	Lesurques	On était au 28 frimaire an IX. Une foule compacte se pressait dans la salle. On y remarquait bon nombre de magistrats, quelques-uns des témoins de l’an IV, le citoyen Legrand, un cousin de [MASK], le sieur Daubanton, ex-juge de paix ;
+
+['il', '--il', '</s>', 'elle', '-il']	Laborde	j’ai, moi, une bonne paire de pistolets, et vous, vous avez votre grand diable de sabre. [MASK] ne répondit pas. Il était devenu pensif... une ombre avait passé sur son front, et le sourire s’était éteint sur ses lèvres.
+
+['celui-ci', 'dieu', 'jésus', 'charles', 'david']	Dubosc	Le jeune homme salua avec aisance et tendit à [MASK] une petite main que celui-ci prit et serra. — Vous m’avez sauvé, dit-il en même temps d’une voix douce comme une voix d’enfant, et je vous en exprime toute ma reconnaissance.
+
+['dieu', 'jean', 'jésus', 'chacun', 'lui-même']	Dubosc	De son côté, du reste, la jeune femme ne demandait pas mieux que de continuer la comédie qu’elle avait commencée, et, pendant une partie du trajet, elle ne cessa d’interroger la route, cherchant à reconnaître [MASK] dans tous les voyageurs qu’ils rencontraient.
+
+['il', 'elle', 'on', "j'", 'paul']	Claudine	Il m’a refusé cette joie suprême, et cet enfant, qui eût pu me racheter, s’il avait vécu, il ne m’aura été donné que pour me pousser à la plus cruelle des trahisons !.. [MASK] acheva à peine ces paroles.
+
+['longtemps', 'années', 'ensemble', 'enfants', 'enfant']	Claudine	— Ah ! nous avons été heureux ensemble, [MASK], et dans ces belles et jeunes années que nous ne reverrons plus, il y a bien des souvenirs pour lesquels je donnerais ma vie entière, si elle pouvait être encore prolongée.
+
+['dieu', 'jésus-christ', 'jésus', 'vous-même', 'monsieur']	Guillaume	— Quand j’aurai mis le pied sur le seuil de la maison où vous cachez mon enfant, je vous ferai connaître la retraite de [MASK]. — Vous le jurez ? — Marchez ! vous dis-je... j’accomplirai loyalement l’engagement que j’ai pris.
+
+['sept', 'eux', 'cela', 'lui', 'six']	Béroldy	» Ceci n’était pas dénué de sens, — mais il y avait à cette prétention une objection des plus simples. C’est qu’il y avait eu sept criminels et non pas cinq, — et qu’avec [MASK], la justice avait son compte.
+
+['lui', 'lui-même', 'dieu', 'elle', ',']	Dubosc	A un moment donc, et comme la voiture venait de recevoir un choc effroyable à la suite duquel ils avaient failli être lancés dans un précipice qu’ils côtoyaient, le guerrier se tourna vivement vers [MASK] et laissa échapper une imprécation formidable :
+
+['napoléon', 'qui', 'bonaparte', 'paris', 'satan']	Dubosc	— Où vas-tu ? — Si on te le demande, tu diras que tu n’en sais rien. Et continuant de glisser le long des tollards alignés, le sinistre interlocuteur de [MASK] disparut dans l’ombre de l’immense salle. XXX .
+
+['lui', 'desjardins', 'londres', 'm', 'elle']	Dubosc	Il n’était pas beau, mais il était aimable. Sa voiture était faite de deux compartiments. Dans le premier, pouvaient tenir quatre voyageurs dans le second, étaient enfouies les marchandises provenant de transactions véreuses de la nature de celle qu’il avait passée avec [MASK].
+
+['il', '-', '</s>', '"', 'elle']	Excoffon	— Et vous n’avez pas peur ? — De quoi ? — Des voleurs donc. [MASK] haussa les épaules. — Bah ! répliqua-t-il avec insouciance, est-ce qu’il faut penser à ces choses-là ?.. Et puis si nous sommes attaqués, que pouvons-nous redouter ;
+
+['</s>', '-', '"', 'on', 'il']	Claudine	— Je le reconnais. — Mais c’est de l’impudence !... — Non, citoyen président, c’est de l’amour... — Etrange et coupable amour, en ce cas. [MASK] releva le front, et une splendeur sereine sembla l’éclairer tout entière...
+
+['m', 'mm', 'suite', 'g', 'la']	LESURQUES	Age, 33 ans environ. Taille, 5 pieds, 4 pouces, 6 lignes. Cheveux, sourcils blonds. DE [MASK]. Au moment de son arrestation, 1797 — le 11 mai 1796. Age, 32 ans. Taille, 5 pieds, 3 pouces.
+
+['il', 'chacun', 'elle', 'on', 'jean']	Dubosc	Faites donc ce que je vous dis, et hâtez-vous de venir me rejoindre. Or, pendant que l’on s’occupait de lui avec tant de sollicitude, [MASK] prenait tranquillement le repas qui lui avait été servi, sans se préoccuper des dangers qui pouvaient le menacer.
+
+['le', 'lui', 'son', 'les', 'ses']	Laborde	Plusieurs témoins ont, en effet, assuré que, aux différents relais où le courrier s’arrêta, ce dernier, pour une cause qui est restée ignorée, avait refusé de payer pour [MASK], et déclaré aux maîtres de poste qu’il ne répondrait pas de ce qu’il pourrait devoir.
+
+['tout', "s'", "c'", 'il', 'on']	Dubosc	Elle serait morte peut-être, morte d’épouvante et de terreur, si à ce moment même le hasard ne lui avait envoyé un sauveur. La porte venait de voler en éclats sous un effort puissant, et [MASK] était entré. LI. — LA MERE.
+
+['on', 'leur', 'il', 'en', 'ils']	Maubert	[MASK] connaissait bon nombre d’histoires plaisantes ; et rien ne charme un voyage comme un récit fait avec esprit. On avait passé la frontière, que c’est à peine s’ils avaient eu le temps de s’en apercevoir. Et puis, il faisait un temps superbe.
+
+['celui-ci', 'jacques', 'julien', 'celle-ci', 'valentine']	Dubosc	et fiez-vous à la Faculté, qui en sait plus long que vous. Le citoyen Duclos était un excellent homme, mais c’était un médiocre médecin. Et pendant qu’il parlait de la sorte, la lèvre de [MASK] se plissait d’un fin et ironique sourire.
+
+['il', ',', 'homme', 'qui', 'en']	Dubosc	[MASK] fut donc presque heureux de cet incident qui le rejetait tout à coup aux derniers degrés de l’infamie, et le frisson qui courut sur sa chair, quand il rentra dans cette horrible sentine du bagne, fut, si l’on peut parler ainsi, un frisson de plaisir.
+
+['oui', 'non', 'monsieur', 'moi', 'bien']	Dubosc	— Cette barbe épaisse qui semble faire l’office d’un masque. — Tu as tout observé. — Oui, [MASK], oui ; et je jurerais à cette heure que cheveux, balafre et barbe, tout est faux ! — Mais se serait donc un agent ?
+
+["c'", "--c'", 'elle', 'il', '</s>']	Lesurques	Il avait senti son épaule frissonner comme à l’attouchement du bourreau. Il prit sa tête dans ses mains, et fondit en larmes. XV . — LA CELLULE DU CONDAMNÉ. [MASK] était sur le bord de cet abîme sans fond que l’on appelle l’éternité...
+
+['elle', 'qui', 'il', '</s>', 'celle-ci']	Pinçard	et ce que la femme nous refuserait obstinément, vous l’obtiendrez sans difficulté de la mère... [MASK] ne répondit pas ; mais ses sourcils se concentrèrent, et son regard enveloppa son interlocuteur. — Oh ! oh ! dit-il avec une dernière hésitation ;
+
+['</s>', '-', '--', '"', 'il']	Pinçard	— Pour vous protéger. — Comment ! [MASK] s’était levé : il entraîna le marchand de vins dans la cour, et de là dans le jardin. — Voyons, lui dit-il alors ; il n’y a aucun danger à vous révéler nos plans ?...
+
+['caractère', 'ressemblance', 'lumière', 'crayon', 'celui-ci']	Dubosc	, n’est pas le fruit de l’imposture c’est la vérité toute pure. Vous trouverez peu d’ordre dans cette lettre ; mais je vous l’écris encore plein de l’émotion que m’ont causée la lecture de votre rapport et la reconnaissance que j’ai eu lieu de faire des traits de [MASK].
+
+['</s>', 'elle', 'on', 'il', 'chacun']	Claudine	puis arrivé sur le lieu de l’exposition, on faisait entrer le cou du patient dans le collier, que l’on fermait avec un cadenas. [MASK] connaissait ce supplice pour l’avoir subi déjà une fois. Mais à ce moment elle ne pensait guère à l’horreur d’un pareil châtiment.
+
+[',', 'il', 'qui', 'en', 'elle']	Claudine	[MASK] tira une clef de sa poche, l’introduisit dans la serrure d’une petite porte située à gauche de la boutique, et pénétra dans une allée. Au bout de l’allée, il y avait un escalier. Au haut de l’escalier, une chambre.
+
+['bandit', 'il', 'on', 'lui-même', 'celui-ci']	Dubosc	Pour toute réponse, le bandit jeta un coup de sifflet, et cinq hommes accoururent. Mais [MASK] avait prévu le cas, et avant que ces derniers ne vinssent en aide à son adversaire, il l’avait étendu mort à ses pieds.
+
+['il', 'ii', '--il', 'i', 'homme']	Dubosc	[MASK] n’était pas vaincu, il n’était que las de la vie. Et qu’on nous permette de donner un dernier trait à la physionomie de ce scélérat, qui est bien un des types les plus curieux que fournisse l’histoire des anciens bagnes.
+
+['chacun', 'on', 'il', 'celui-ci', 'nul']	Lesurques	Enfin, on s’empara de ces infortunés, on les porta hors de la cellule, et [MASK] se retrouva seul, livré à lui-même, en face de l’horrible réalité. Il était anéanti. La scène qui venait de se passer lui avait enlevé une partie de son énergie ;
+
+['-', 'il', ',', 'et', 'elle']	Claudine	[MASK] tordit ses bras avec violence. — Ah ! cela devait arriver ! dit-elle, comme se parlant à elle-même. — Quoi donc ? — Tu ne sais donc pas où nous sommes ? — Où sommes-nous ?
+
+['qui', 'terreur', 'fer', 'douleur', 'satan']	Dubosc	le spectre de [MASK] lui avait parlé dans ce rêve poignant. Il tendait vers elle ses deux mains sanglantes, et de ses doigts crispés il cherchait à l’attirer dans un gouffre sans fond. La misérable ne pouvait se remettre de l’épouvante qu’elle avait éprouvée.
+
+['il', 'on', 'elle', 'julien', 'celui-ci']	Dubosc	On comprend avec quelle impatience [MASK] attendit la fin de l’office pour avoir l’explication d’un incident aussi mystérieux. Il avait caché avec soin la boulette sous sa casaque, mais cette boulette lui brûlait la poitrine. Heureusement l’office dura peu, et toute la chiourme rentra bientôt dans les salles.
+
+['il', 'elle', 're', 'et', ',']	Bernard	[MASK] devint livide. Depuis qu’il était au service, c’était la première punition qu’il encourait. — Mais, lieutenant... balbutia-t-il, je vous jure... — Pas d’observations. — Il faut que je vous parle.
+
+['oui', 'pardonne', 'allons', 'pardon', 'maintenant']	Firmin	— [MASK], mon ami, dit-il, on te pardonne ; le tour est bien joué, et je te rends ma confiance. Mais, maintenant, causons à cœur ouvert, et dis-moi tout ce que tu sais.
+
+['très', 'très-', 'tout', 'plus', 'et']	Dubosc	— Qu’as-tu ? fit [MASK] inquiet. — Rien... ce n’est rien... répondit la jeune femme ; un éblouissement, depuis quinze jours j’ai eu de ces défaillances, il ne faut pas y faire attention.
+
+['il', 'elle', 'et', 'cela', 'on']	Dubosc	— Toi !.. c’est toi qui m’as trahi, lui dit-il en passant. Ah ! je l’avais bien prédit... Cet enfant devait être notre malheur. — Grâce ! grâce ! balbutia la pauvre femme joignant les mains. [MASK] passa sans répondre un mot.
+
+['</s>', 'on', 'il', 'chacun', 'tout']	Dubosc	Les premières : lueurs de l’aube blanchissaient déjà l’horizon. Un certain mouvement commençait à animer les cours du bagne, il restait une demi heure à peine avant que le service de l’infirmerie ne reprît comme la veille. [MASK] écouta autour de lui.
+
+['il', 'elle', 'celui-ci', 'rodolphe', '</s>']	Dubosc	Et presque aussitôt, les deux amants étaient réunis. [MASK] avait pris les mains de sa maîtresse dans les siennes, et à la lueur de la lune, il la contemplait avec ivresse. — Toi ! toi ! dit-il, ah ! je n’espérais plus te revoir.
+
+['il', 'on', 'nul', 'personne', 'lui-même']	Dubosc	» C’était clair et facile à comprendre... Jamais, à aucune époque, un criminel ne vit s’élever contre lui tant de préventions redoutables, et [MASK] ne pouvait se faire longtemps illusion sur le sort dont il était menacé.
+
+['demain', 'information', 'approbation', 'observations', 'nous']	Lesurques	Ce matin, des observations nous ont été distribuées pour [MASK]. Sans doute, les membres du conseil se seront empressés de les lire : on n’attend point de moi que je les combatte. C’est bien assez d’avoir eu à soutenir les larmes et le désespoir d’une femme et de trois jeunes enfants.
+
+['robert', 'jacques', 'henri', 'tom', 'paul']	Firmin	— Eh !... que venaient-ils faire là... à cette heure ?.. — Je ne le leur ai pas demandé, répondit ironiquement [MASK], car il n’eût pas été prudent de me montrer ; mais c’est un renseignement que l’on pourra obtenir ce soir même.
+
+['on', '</s>', 'il', 'chacun', 'qui']	Durochat	Il demanda à déjeuner dans un village, un peu au-dessus ou au-dessous de Gros bois. On arrêta à la première auberge. [MASK] demanda à me parler seul. Les gendarmes crurent apercevoir quelque danger pour moi à lui accorder sa demande, et me firent signe qu’ils n’étaient pas de cet avis.
+
+['on', 'chacun', 'il', 'soi-même', 'lui-même']	Dubosc	On ne renonce pas à la vie dans de pareilles conditions, et si [MASK] refusa de se pourvoir contre l’arrêt qui le condamnait à la peine de mort, c’est qu’il fut poussé à cette résolution par une cause mystérieuse qui a échappé à ses biographes.
+
+[',', 'elle', 'qui', 'ce', 'et']	Claudine	[MASK] n’était plus, à cette époque, la jeune femme que le lecteur a connue, robuste, ardente, résolue... Pâle, chétive, malingre maintenant, elle semblait porter en elle un chagrin cuisant qui la minait.
+
+['il', "c'", 'elle', 'cela', 'qui']	Claudine	Il y avait sur le papier cette seule indication : Bue Hauteville n° 11. Il se retourna, [MASK] était déjà loin. La malheureuse avait couru vers la maison qu’on lui avait désignée. Son cœur battait à se rompre, sa poitrine haletait ;
+
+['dreyfus', 'il', 'celui-ci', 'lui-même', 'holmes']	Lesurques	— LES DEUX ENQUÊTES. Si [MASK] n’est pas coupable, et nous ne demandons qu’à le croire, il faut avouer qu’il a été victime d’une fatalité sans précédents, et qu’un concours inouï de circonstances a justifié hautement l’accusation qui a pesé sur lui.
+
+['consommation', 'guerre', 'luxe', 'famille', 'conscience']	Lesurques	Sur ce terrain, les sympathies ne pouvaient lui manquer, et elle devait éveiller l’intérêt de tous les honnêtes gens. La confiscation était un dernier vestige des mœurs barbares du moyen âge. Toute âme sincère et droite devait protester contre une pareille iniquité. Les biens de [MASK] avaient été assignés au Sénat ;
+
+['il', 'elle', 'pierre', 'jeanne', 'jean']	Pinçard	D’ailleurs ses doigts crispés commençaient à se fatiguer, et la gouttière, ébranlée par les secousses violentes que lui imprimait la malheureuse, cédait peu à peu sous cette pression énergique, et menaçait de se détacher de la muraille. A cette vue, [MASK] poussa un joyeux éclat de rire.
+
+[',', 'depuis', ':', 'que', '.']	Pinçard	Ce dernier accourut aussitôt. — Citoyen, lui dit alors [MASK], je suis un agent de police, et je vous ai fait demander un entretien particulier, parce que j’ai certaines choses graves vous confier. — A moi ! des choses graves, fit le marchand de vins
+
+['il', 'et', 'on', ',', 'qui']	Pinçard	[MASK] le regrettait bien un peu... Mais l’intérêt de la société parlait plus haut que ses sentiments d’amitié, et il avait fini par n’y plus penser qu’à ses heures perdues. D’ailleurs, l’âpreté de la lutte prenait tous ses instants.
+
+['tous', 'ceux-ci', 'lui', 'celui-ci', 'lui-même']	Lesurques	L’effet de cette capture fut immense ; tous les journaux du temps la racontèrent, avec les plus grandes louanges pour l’agent qui l’avait opérée, et quelques-uns même, sollicités sans doute par la famille, n’hésitèrent pas à escompter au profit de [MASK] le bénéfice de cette arrestation.
+
+['paris', 'dreyfus', 'france', 'mirabeau', 'justice']	Dubosc	L’inconciliabilité des deux arrêts ! Quoi qu’il en soit, et quelle que fût l’ardeur déployée par le défenseur de [MASK], il était évident que, dès le commencement des débats, la cause de son client était perdue.
+
+['elle', 'il', 'marie', 'jeanne', 'hélène']	Claudine	— Un seul... — Parle... alors... parle... C’est notre vie à tous deux qui est ici en jeu... Au lieu de répondre, [MASK] avait subitement porté là main à son front, et elle s’était assise défaillante sur une chaise. L .
+
+['travail', 'toilette', 'rédaction', 'sécurité', 'm']	Pinçard	— C’est un médecin ! — Je l’ai pensé aussi ! — Et que veut-il ? — Il prétend que l’affaire est urgente... — Faites entrer. Le garçon se retira, et presque immédiatement, la personne annoncée pénétra dans le cabinet de [MASK].
+
+['lui-même', 'celui-ci', 'chacun', 'maurice', 'il']	Dubosc	Mais sa démarche était si accablée, le ton dont elle venait de prononcer ces dernières paroles témoignait d’un tel déchirement, que [MASK] se sentit ému plus qu’il ne l’avait jamais été, et qu’au moment où elle allait atteindre la porte, il jeta un cri qui l’arrêta tout court.
+
+['lui', 'mirabeau', 'paris', 'dreyfus', 'celui-ci']	Dubosc	» Le citoyen Duclos ne fut pas, du reste, le seul qui reçut des nouvelles de [MASK], Le juge Daubanton eut, paraît-il, la même faveur, et des lettres lui parvinrent dans lesquelles les plus épouvantables menaces lui étaient adressées.
+
+['-', 'il', '</s>', 'elle', '"']	Claudine	— Vous êtes venu me chercher. — C’est cela. [MASK] baisa avec un transport fou les mains de l’homme qui lui parlait. — Ah ! c’est bien, cela, dit-elle avec explosion ; voilà une pensée qui vous sera comptée un jour.
+
+['</s>', 'il', '-', 'elle', 'on']	Madeleine	— En aucune façon. [MASK] enveloppa l’inconnu d’un regard plus profond. — C’est étrange, dit-elle aussitôt. Maintenant, je vois ; bien en effet que je me suis trompée, mais au premier abord la ressemblance est inouïe et j’avais cru...
+
+['le', "l'", 'm.', 'jean', 'son']	Goulon	Le citoyen Cauchois, menuisier, et [MASK], cordonnier, déclarèrent qu’ils avaient ouï dire que des six accusés, un seul était coupable, et que les vrais assassins avaient pris la fuite, à l’aide de passeports préparés lors de l’assassinat.
+
+['elle', 'ette', 'mère', 'il', 'on']	Claudine	[MASK] n’avait point oublié ce détail ; quand le gardien eut déposé la cruche pleine et comme il se disposait à regagner la porte avec la cruche vide, elle l’appela d’une voix émue mais ferme. Le gardien se retourna.
+
+['rodolphe', 'jacques', 'marie', 'jean', 'jésus']	Dubosc	dit-il, en cherchant à se lever. Mais la main robuste de [MASK] le retenait sur sa chaise, et il fut contraint de se rasseoir. Il passa la main sur son front, où perlait une sueur froide, et tourna un regard étrange vers son bourreau.
+
+['dreyfus', 'robespierre', 'lui', 'napoléon', 'bonaparte']	Lesurques	je croyais la date certaine, ce n’est qu’après avoir bien examiné mon livre que j’ai reconnu mon erreur. » A lui demandé, si sa déposition en faveur de [MASK] avait été sollicitée, il répond : « Non.
+
+[';', ',', 'négative', ':', 'inutile']	Gohier	demande le défenseur de Lesurques interdit. — Il y a, citoyen, réplique [MASK], il y a que le livre présente une surcharge grossière, et que, pour le besoin de la cause, du 9 qui existait on a tenté de faire un 8.
+
+['jésus', 'dreyfus', 'jeanne', 'marie', 'jacques']	Lesurques	ils attestent évidemment que le public prenait un profond intérêt à cette affaire criminelle, et qu’il en suivait tous les détails avec une attention soutenue. Les uns croyaient à l’innocence de [MASK], les autres croyaient à sa culpabilité. Mais où était la vérité ?
+
+['elle', 'qui', 'il', 'on', 'celle-ci']	Claudine	Mais [MASK] ne s’y trouvait pas encore. Qui pouvait l’avoir retenue ? C’est elle qui avait indiqué l’heure, sans doute... Par quel philtre avait-elle obtenu la complicité du garde-chiourme, pour une entreprise aussi dangereuse qu’une évasion.
+
+['dreyfus', 'jeanne', 'valentine', 'thérèse', 'coupable']	Courriol	D’ailleurs, c’était bien moins la fortune que l’honneur qu’elle réclamait, et elle n’épargnait aucune démarche pour atteindre ce but sacré... Après les aveux de [MASK], elle avait cru que sa tâche allait devenir plus facile. Il n’en fut rien.
+
+['barth', 'pierre', 'pit', 'bab', 'jean']	Durochat	Aussi, quand il apprit que [MASK] ou Laborde venait d’être arrêté pour vol, et qu’il allait comparaître devant le tribunal criminel, l’espoir lui revint instantanément... L’occasion était trop belle pour la laisser échapper, et il ne négligea aucune des précautions que réclamait la circonstance.
+
+['celui-ci', 'georges', 'bussy', 'julien', 'jeanne']	Claudine	Aussi, quand la trahison se mit en tiers dans ce couple étrange, quand le soupçon pénétra dans son esprit et vint troubler son cœur, toutes ses facultés furent ébranlées à la fois, et le doute lui inspira les premières terreurs qu’il eût jamais éprouvées. L’action de [MASK] lui semblait inexplicable.
+
+['</s>', "c'", "--c'", 'il', '...']	Dubosc	Mais il faut être juste envers tout le monde... Le droit à la justice est peut-être le seul qu’on ne puisse contestera ces monstrueuses exceptions. [MASK] était un misérable de la pire espèce. Vingt fois il avait mérité l’échafaud ; il avait mille défauts et bien des vices.
+
+['-', 'elle', '...', 'lui', 'il']	Claudine	... murmura doucement la sœur. [MASK] secoua énergiquement la tête. — Que je me calme !... Vous voulez que je me calme, répliqua-t-elle avec violence, mais vous ne savez donc pas qu’il est condamné... qu’il va mourir ?
+
+['il', 'elle', '-', 'on', '</s>']	Claudine	— Vous venez me donner des nouvelles de mon enfant. — En effet... — Me conduire près de lui... — Quand vous voudrez... [MASK] avait déjà laissé échapper un cri de joie. — Elle se contint presque aussitôt et comprima sa poitrine avec force.
+
+['-', '</s>', 'il', 'on', 'elle']	Claudine	A l’angle du renflement produit par la déviation, on apercevait une boutique d’orfèvrerie dont la devanture était solidement bardée de fer. [MASK] la désigna à son compagnon. — Diable ! fit ce dernier. — Il paraît que le propriétaire a peur des voleurs.
+
+['mémoire', 'preuve', 'moi', 'servir', 'examen']	Lesurques	je lui dis que c’était le jour qu’il m’avait donné la cuiller. Il me dit que c’était le 8 floréal d’après son livre. Je n’ai déposé aujourd’hui, pour [MASK], que D’APRÈS CE LIVRE.
+
+['il', 'se', 'lui', 'napoléon', 'bonaparte']	Dubosc	Il n’avait pas vingt-trois ans ! Cela promettait. A Toulon, [MASK] trouva des compagnons dignes de lui ; il avait encore bien des choses à apprendre et il les apprit. S’il lui restait quelques bons sentiments, — ce qui est douteux, — il les perdit vite.
+
+['dit', 'répondit', 'dire', ',', '-']	Claudine	Vous demanderez la mère Marthe. Et il indiqua une maison de sinistre apparence, une sorte de bouge, au-dessus de la porte duquel une méchante enseigne annonçait qu’on logeait à la nuit. — Bien ! fit [MASK] d’une voix sourde : donnant, donnant.
+
+['elle', 'lui', 'elle-même', 'eux', 'soi']	Dubosc	Elle ne parlait pas, elle ne versait pas une larme, elle écoutait Toutes les fois qu’une accusation nouvelle s’élevait contre [MASK], elle éprouvait comme une secousse convulsive, elle mordait ses lèvres ou tordait ses mains avec une violence mal contenue.
+
+['elle', 'lui', 'moi', 'autrui', 'nous']	Dubosc	Elle réfléchit. Pour elle-même elle ne redoutait pas grand chose, mais pour [MASK] c’était bien différent. Il fallait occuper le garde-chiourme, dont la surveillance était active, et l’empêcher à quelque prix que ce fût de retourner sur ses pas pour donner l’alarme.
+
+['il', 'elle', ',', "n'", 'qui']	Claudine	[MASK] eût donné tout son sang pour qu’on lui dît la vérité. Son attente ne fut pas, du reste, de longue durée. La porte de la cellule venait-de s’ouvrir, et elle aperçut un peloton de soldats rangés dans le corridor.
+
+['elle', 'me', 'lui', 'se', 'et']	Claudine	[MASK] remua la tête d’un air mélancolique et doux. — Oui, mon ami ; une bonne et grande nouvelle, répondit-elle. — Tu la connais donc ? — A peu près. — Et pourquoi ne me la dis-tu pas tout de suite.
+
+['non', 'oui', 'oh', 'ah', 'rien']	Claudine	— Tu veux donc que je meure de désespoir et de honte, sans emporter la consolation de croire que tu m’as pardonné... Ah ! il faut que tu me haïsses bien pour être à ce point cruel à un pareil moment. — [MASK] ! — Eh bien !
+
+['lui', 'lui-même', 'marie', 'moi', 'jeanne']	Claudine	Ce jeune homme qui l’attendait ne pouvait être que [MASK] ; mais d’où venait qu’elle avait devancé le jour de son arrivée ; quel événement avait pu changer ainsi ses dispositions ? Il ne savait à quelle supposition s’arrêter. — Voulez-vous me suivre, citoyen, dit alors l’aubergiste.
+
+[',', 'il', 'le', 'la', 'elle']	Pinçard	[MASK] frappait du pied, menaçait les agents, jurait de se venger ; et ne parvenait pas à découvrir le maladroit ou le perfide auquel la faute était imputable. Il en était là, quand le marchand accourut tout effaré. — Quoi ! qu’y a-t-il ?
+
+['ah', 'oh', 'oui', 'non', 'allons']	Guillaume	— [MASK] ! — Notre malheur, te dis-je, car toi qui m’aimes, toi qui m’es dévouée, toi qui donnerais ta vie pour la mienne s’il le fallait, avant huit jours tu auras trahi le père pour assurer la vie de l’enfant ?
+
+['celle', 'elle', 'celle-là', 'celle-ci', 'une']	Claudine	Et puis, c’était [MASK] qu’il n’avait pas revue, dont il ignorait le sort, et qui ne lui avait donné, depuis, aucun signe de vie. Qu’était-elle devenue ? que devait-il en espérer ? Il ne fut pas longtemps dans l’incertitude.
+
+['dreyfus', 'la', '1894', '1793', '"']	Gohier	il a donné des preuves d’alibi, et sur le dire de quelques témoins qui ont cru le reconnaître, sur le résumé partial de [MASK], les jurés l’ont livré aux mains du bourreau. ». Cette note était maladroite...
+
+['il', 'tout', '--il', '-', 'lui']	Courriol	— Pour demander justice ! — Croyez-vous que l’on m’écoute ? — N’en doutez pas. D’ailleurs, [MASK] paraît disposé à faire des aveux, et demain, il sera appelé devant les magistrats du bureau central qui consentent à l’entendre.
+

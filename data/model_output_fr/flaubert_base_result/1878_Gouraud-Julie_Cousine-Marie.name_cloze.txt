@@ -1,0 +1,200 @@
+[',', 'il', '(', 'et', 'que']	William	on distingue à peine les poires des pêches ! » Aussitôt [MASK] se lève brusquement, renverse sa chaise, il se précipite vers la cheminée, allume une bougie et met le feu à sa propre chevelure. Tout le monde s’effraya, mais les physionomies changèrent d’expression
+
+["c'", 'qui', 'elle', 'madame', "qu'"]	Olympe	Mère, nous oublions que nous dînons chez le ministre, et [MASK] est une fille si minutieuse dans les détails de ma toilette, que bien certainement je ne serai pas prête à huit heures, sans compter qu’elle va me gronder. »
+
+['elle', 'mère', 'femme', 'elle-même', 'fille']	Blanche	[MASK] avait résisté de son mieux à l’envahissement, elle avait pris le généreux parti de s’occuper de sa fille, mais elle ne tarda pas à se sentir ébranlée dans ses résolutions. Elle remit insensiblement tout en question : était-il vraiment bien sage de renoncer absolument au monde pour se faire institutrice ?
+
+['</s>', 'il', 'elle', '"', 'on']	Angélique	En ouvrant son secrétaire, elle se demandait s’il était bien vrai qu’elle fût arrivée à cet heureux résultat, de pouvoir disposer d’une petite somme d’argent. C’était un rêve, un rêve délicieux. [MASK] l’accompagna sans se douter du but de leur course matinale.
+
+['elle', 'qui', ',', 'sa', 'et']	Angélique	[MASK], moins fière et moins brillante qu’à son arrivée, partit dès qu’elle en reçut l’ordre. Elle s’attendait à recevoir des reproches ; mais la vengeance eût été trop au-dessous du ressentiment : elle fut accablée d’indifférence.
+
+['elle', 'il', 'alice', '-il', 'georges']	Blanche	« Ma bonne amie, dit [MASK], je sais tous les services que vous rendez à ma mère ; elle ne m’en laisse ignorer aucun, et ce qu’elle ignore elle-même, j’ai pu déjà le deviner. Vous avez un peu modifié ses goûts ;
+
+['elle', 'il', '"', ',', 'et']	Marie	» [MASK] devint rouge, puis elle pâlit, et ajouta : « Votre zèle vous a fait illusion, chère amie. Comment espérez-vous terminer cet ouvrage en si peu de temps ? Il faudrait pour cela travailler nuit et jour !
+
+['chacun', 'marie', 'celle-ci', 'elle', 'celui-ci']	Blanche	; elle gardait le silence, feignant de croire que [MASK] s’occupait de sa fille. Elle trouvait mille prétextes pour venir la surprendre, et s’excusait de la déranger. La généreuse amie attendait patiemment l’heure où la raison se ferait entendre.
+
+['se', 'lui', 'me', 'marguerite', 'marthe']	Marie	; ma présence adoucirait ses chagrins et même ses souffrances ; je le distrairais. » La tristesse semblait à la jeune fille le plus grand des maux. C’est en se promenant seule dans les allées solitaires du jardin que [MASK] faisait toutes ces réflexions.
+
+['charlotte', 'celle-ci', 'henriette', 'jeanne', 'diane']	Rose	; mais elle trouva moyen, sous mille prétextes, d’accaparer [MASK] : elle la frisait, changeait sa toilette plusieurs fois par jour, l’emmenait dans des magasins de joujoux et ne résistait à aucune de ses fantaisies.
+
+['dit-il', 'monsieur', 'dit-elle', 'maman', 'docteur']	Blanche	? — Excuse-moi, [MASK], c’est précisément demain que je quête. Tes quatre pièces d’or recueillies à la dernière heure feront un bel effet dans ma bourse. — Je regrette que tu ne voies pas mon costume de voyage : il est ravissant.
+
+['dieu', 'ce', 'papa', 'famille', 'france']	Rose	sa physionomie était triste et douce, mais sincère, et, lorsque la généreuse fille assura la grand’mère de [MASK] qu’elle se trouvait honorée d’être appelée à vivre sous son toit, elle ne put pas en douter. CHAPITRE XVII La demoiselle de compagnie.
+
+['</s>', '_', 'cela', 'il', '-']	Rose	mais de tous les objets plus ou moins curieux qui en sortirent, le parapluie de paille dans lequel s’enveloppent les Japonais causa une surprise générale. [MASK] s’en empara aussitôt. Elle paraissait et disparaissait sous son parapluie avec une adresse qui amusait autant les grandes personnes qu’elle-même.
+
+['</s>', 'il', 'on', 'mais', 'je']	Paul	Mais lorsqu’il lui demanda si l’on trouverait à Bordeaux les ouvrages de mademoiselle Cormery, elle répondit froidement : « Je n’en sais vraiment rien ; en fait de romans, je n’aime pas la nouveauté. » [MASK] n’insista pas davantage ;
+
+['se', 'il', 'et', 'elle', 'é']	Blanche	[MASK] mit dans sa tête que les choses ne se passeraient plus ainsi : il fut arrêté et décrété qu’on se réunirait chez elle tous les soirs, qu’il ne serait question ni d’Arabes, ni de sabres, ni de fusils, et qu’on serait tout au bonheur de se retrouver ensemble.
+
+['moi', 'toi', ',', 'ce', 'à']	Miche	Ma fille est un ange, son amie que tu as vue, nous est dévouée, ma vieille cuisinière suffit à tout, et enfin, [MASK], je fais mon piquet tous les soirs. — Mon colonel, vous êtes toujours le même ; content de tout, excepté des Arabes
+
+['ago', 'chateaubriand', 'elle', 'il', 'platon']	Marie	[MASK] suppléait avec art à ce qui manquait à sa toilette ; sa chevelure était l’objet de tous ses soins, non pas qu’elle fût coquette, mais elle aimait à entendre dire à son père : « Que tu es bien coiffée, ma fille.
+
+['toi', 'hein', 'non', 'maman', 'tu']	Marie	« Es-tu contente de ton élève, [MASK] ? — Très-contente ; bientôt l’élève sera plus habile que la maîtresse. » Les heures que passent ainsi les femmes sont des heures d’agréable distraction : elles causent ou gardent le silence.
+
+['tous', 'chacun', 'marie', 'certains', 'napoléon']	Blanche	— Je ne veux rien voir ; je te connais suffisamment, et ces larmes, que tu aurais voulu me cacher, effacent tes erreurs passées. » Ces paroles simplement dites ramenèrent le calme dans l’esprit de [MASK].
+
+['napoléon', 'celui-ci', 'bonaparte', 'lui', 'colonel']	Marie	; le colonel respirerait l’air du matin sans quitter son fauteuil. Aussitôt une pensée s’empara de l’esprit de [MASK] : n’était-ce pas le cas d’avoir une de ces voitures destinées aux personnes infirmes ? Mais combien un semblable véhicule pouvait-il coûter ?
+
+['elle', 'il', 'marie', 'jeanne', 'catherine']	Blanche	— Donne-moi vingt-quatre heures de réflexion. » C’était plus de temps qu’il n’en fallait. Le jour même, [MASK] fit part à son mari de la résolution qu’elle venait de prendre à la suite d’une conversation sérieuse avec sa cousine.
+
+['satan', 'jésus', 'un', 'joseph', 'jean']	Angélique	il allait jusqu’à dire qu’introduire [MASK] dans cette maison, c’était jeter une brebis au loup. Cependant il s’apaisa, car il possédait une qualité assez rare, surtout chez les vieillards : il ne s’entêtait pas dans une opinion, s’il voyait qu’elle pouvait contrarier les autres.
+
+['il', 'elle', ',', "j'", 'on']	Paul	La nuit passa sur ces douces émotions, et le lendemain matin [MASK] annonçait à sa mère le but de sa visite. « Vous m’avez témoigné un vif désir que je me marie, dit-il, et je viens solliciter votre consentement. — Une Parisienne, mon fils
+
+['chacun', 'mm', 'mr', 'm', 'mrs']	Colette	« Croyez-vous donc que les anciens fussent moins gourmands que nous ? — Non, je ne le pense pas ; mais le présent seul m’intéresse, et je mettrai à l’épreuve les talents de [MASK]. Je donnerai un dîner par semaine, et vous verrez que les convives ne manqueront pas.
+
+['jésus', 'celui-ci', 'socrate', 'faust', 'hamlet']	William	lorsque [MASK], portant la main à sa tète, dit tranquillement : « Ce n’est rien, ne vous effrayez pas. » Cette phrase, la première que le jeune Anglais disait correctement, excita un enthousiasme que plus d’un orateur eût envié.
+
+['louis', 'la', 'pierre', 'son', 'celui-ci']	Colette	Enfin, retournant à sa place, le colonel se demanda à demi-voix s’il ne commettait pas une injustice envers sa fille, et si sa fierté n’était pas tout bonnement de l’orgueil ? La présence de [MASK] l’empêcha d’éclaircir la question.
+
+['anne', 'alice', 'enfant', 'elle', 'agnès']	Angélique	et celui d’[MASK] aussi ; elle ne voulait pas la laisser s’éloigner un seul instant. Cependant le médecin ne partageait pas les inquiétudes de la famille, et, huit jours plus tard, l’événement lui donnait raison. La malade entrait en convalescence ;
+
+['lire', 'vous', 'moi', 'toi', 'voir']	Rose	« Merci de la leçon que tu viens de donner à [MASK], chère amie. Que veux-tu ? Elle a hérité de mes goûts frivoles... elle se souvient de m’avoir vue dans mes toilettes excentriques. — Quelle vieille histoire me contes-lu là ? dit gaiement
+
+['elle', '-elle', '-t-elle', 't-elle', '-il']	Marie	Cette démarche avait un tout autre caractère que les précédentes. Quel que soit le résultat de cette première entrevue, se disait [MASK], je suis sûre d’un accueil bienveillant. Elle ne s’était pas trompée : elle fut reçue par un gentleman bien différent des hommes auxquels elle s’était adressée.
+
+['il', ',', 'qui', ':', '-']	William	[MASK] parlait, parlait sans cesse. Sous prétexte de se perfectionner, il se glissait dans le salon avec une assiduité qui eût été indiscrète dans toute autre circonstance. Chaque coup de sonnette faisait tressaillir tous les habitants de la maison ;
+
+['elle', 'chacune', 'celle-ci', 'aussitôt', 'la']	Marie	» Les deux sœurs, un peu confuses de n’avoir pas eu d’elles-mêmes une idée si simple et si naturelle, s’empressèrent de la mettre à exécution ; et [MASK] partit chargée de toutes sortes de petits paquets.
+
+['qui', 'réponse', 'elle', 'curiosité', 'il']	Colette	[MASK] se fit attendre quelques instants. La brave femme n’avait pas refusé de satisfaire la curiosité des concierges, et tout en donnant l’adresse de ses maîtres, elle glissait cette petite phrase : « C’est dans un château que nous allons. Monsieur s’ennuyait trop en ville.
+
+['lui', 'paul', 'pierre', 'jean', 'julien']	Paul	; [MASK], un collégien de quinze ans, venait seulement les jours de congé prendre possession d’une jolie chambre. Il eût été facile de faire une petite place à la pensionnaire ; mais personne ne songea à se gêner pendant quatre jours.
+
+['il', 'elle', 'on', '--il', 'chacun']	Miche	—Mademoiselle Gondeberte et ses chats. Un matin, le colonel se réveilla plus tard qu’à l’ordinaire ; [MASK] s’inquiétait et faisait du bruit dans le dessein d’éveiller son maître. Le colonel ouvrit enfin les yeux et se plaignit aussitôt d’un grand mal de tête.
+
+['elle', 'il', 'je', 'on', 'catherine']	Charlotte	Aussitôt on l’entoura, on l’embrassa. « Sois tranquille, tu seras heureuse avec nous. Ici, dit [MASK], les petites ont des mères, et je suis la tienne à partir d’aujourd’hui. Ne crains rien, j’aurai soin de toi ;
+
+['</s>', 'il', 'elle', '--il', '...']	Olympe	Madame n’a peut-être pas pensé que..... — Apportez ma robe de mousseline. » [MASK] se retira, méditant sur ce nouveau caprice de sa maîtresse, et se demandant si cette étrange fantaisie n’était pas le symptôme d’une maladie grave.
+
+['il', 'elle', "j'", 'on', 'chacun']	Marie	; le bonheur de ceux que nous aimons fait passer dans notre âme un sentiment que l’égoïsme ne connaît pas. A partir de ce jour, [MASK] accepta franchement la carrière qui s’ouvrait devant elle. L’expérience de son père lui était utile ;
+
+['-', '"', 'je', ',', 'il']	Marie	« Déjà en visite ! Tu m’apportes certainement quelque grosse nouvelle ? — Tu ne te trompes pas : il s’agit en effet d’une affaire importante. » [MASK] rougit. « Tu me fais peur ; explique-toi ; je n’aime pas les mystères.
+
+['éducation', 'école', 'enseignement', 'instruction', 'alimentation']	Angélique	Quelle patience ne faut-il pas pour fixer l’esprit de l’enfant ? Et lorsque les devoirs sont achevés, la tâche est loin d’être finie : l’éducation se fait à la récréation comme à la classe. L’absence d’[MASK] rapproche la mère de son enfant ;
+
+['il', '</s>', 'elle', 'on', 'cela']	Blanche	Elle avait observé qu’une femme paraît toujours à son désavantage quand elle change sa coiffure. « Je ne me sens pas digne de vos chignons, de vos frisons et de vos ébouriffades ; je m’en tiens à mes bandeaux, qui me laissent l’illusion d’être encore jeune. » [MASK] n’insista pas
+
+['jamais', 'tort', 'peine', 'demi', 'merveille']	Angélique	» Cette question, sans cesse renouvelée, eût révélé à [MASK] l’indifférence de la mère pour sa fille, si déjà elle ne l’avait connue. La semaine n’était pas achevée, que la maîtresse et l’élève vivaient en fort bonne intelligence.
+
+['le', 'la', 'beaucoup', "l'", 'louis']	Marie	Ces courses intéressaient [MASK], qui se demanda, à la vue de quelques billets de cinq cents francs, pourquoi l’on prétendait que son père n’avait pas de fortune. Elle raconta à ses compagnes, jalouses de recouvrer leur liberté, l’emploi de ses journées, et les faisait juges de son bon goût.
+
+['</s>', 'il', 'on', 'elle', 'chacun']	Marie	Le premier objet de luxe qu’on remarqua fut un excellent fauteuil pour le colonel, qui se fâcha bien un peu, mais on connaît ces bouderies-là. [MASK] eût souhaité que ses petits revenus fussent entièrement consacrés à son père ; mais lui aussi avait ses exigences.
+
+['qui', ',', 'et', 'il', 'elle']	Blanche	[MASK] ne perdit pas de temps pour annoncer au colonel l’arrivée de sa mère et ses intentions. Le père qui avait fièrement résisté à la défaite, ne put se défendre d’une vive émotion en apprenant ce changement de résolution. Il appela sa fille, qui té moigna une joie modeste.
+
+['il', 'lui', 'qui', "m'", ',']	Marie	[MASK] avait appris de bonne heure que l’amitié ne consiste pas seulement dans la sympathie qu’éprouvent l’une pour l’autre deux âmes lorsqu’elles se rencontrent, et qu’un ami véritable croit de son devoir de consoler, d’encourager et d’avertir celui qu’il nomme son ami.
+
+['georges', 'charles', 'jeanne', 'marie', 'marguerite']	Marie	» Cet espoir releva le courage de [MASK], sa physionomie prit une expression de joie qui frappa son père. « Comme cette promenade lui a fait du bien, madame ; quand vous aurez besoin d’être accompagnée, souvenez-vous qu’il y a ici une jeune personne toute disposée à vous suivre.
+
+['maman', 'madame', 'son', 'lui-même', 'sa']	Miche	Elle constata avec satisfaction que les meubles et les ustensiles de cuisine étaient en parfait état. On était sur le point de se séparer, lorsque la mère aux chats, comme l’appelait [MASK], eut la fatale idée de prendre ses lunettes pour examiner de plus près les objets de son affection.
+
+['</s>', 'il', 'elle', 'et', 'celui-ci']	Marie	« Devine, lui dit son père, qui j’ai reçu en ton absence ? » [MASK] nomma tous les habitués du petit cercle de leurs connaissances, et finit par renoncer à deviner le nom de ce mystérieux personnage.
+
+['</s>', 'la', 'celle-ci', 'elle', 'sa']	Marie	mais ce soir-là elle prolongea la soirée, espérant que son père lui parlerait le premier de mademoiselle Angélique : il n’en fut rien. [MASK], impatiente de connaître son jugement, lui dit : « Comment la trouvez-vous, mon père ?
+
+['elle', 'maman', 'qui', 'mais', 'et']	Marie	Si vous craignez que le théâtre ne vous fatigue, vous nous confierez notre cousine. — Ma fille n’est jamais allée au théâtre, et je ne l’y laisserai pas aller sans moi. — [MASK] n’est jamais allée au théâtre ! s’écrièrent en même temps les deux sœurs.
+
+['</s>', 'il', 'elle', '-', 'celui-ci']	Marie	Dieu te bénira ! Cette pensée ne me quitte pas, elle soutient mon courage. Va, cher ange, mais donne-moi une petite lecture à faire dans le beau livre. [MASK] donna le beau livre à son père, et retourna dans sa petite chambre.
+
+['elle', 'qui', 'il', 'maman', 'adèle']	Marie	Grâce à vous, [MASK] aura un petit trésor à elle, et surtout une occupation qui lui fera oublier bien des choses. Ah ! qu’il est rare de rencontrer un véritable ami ! Ce nom est donné, au hasard, à bien des gens qui n’en sont pas dignes.
+
+['elle', 'qui', 'et', ',', 'il']	Blanche	[MASK] obéissait sans le savoir à la passion qui l’avait dominée toute sa vie. Mais la petite cousine sut, avec une délicatesse extrême, lui faire comprendre qu’elle attachait peu d’importance à des objets de luxe, qui flattent souvent plus celui qui les offre que celle qui les reçoit.
+
+['</s>', '"', '_', 'lui', 'se']	Angélique	; son regard n’était plus si assuré. Huit jours et huit nuits s’écoulèrent dans cette angoisse. La porte ne s’ouvrait que pour le colonel et sa fille. [MASK] passait une partie de la journée à aller et venir ;
+
+['</s>', 'il', 'elle', 'on', 'et']	Charlotte	A son entrée en classe, la nouvelle était entourée de ses compagnes, mais elle allait droit à sa petite mère et la faisait dépositaire de ses richesses. [MASK] faisait la distribution des confitures à l’heure du goûter.
+
+['celle-ci', 'marie', 'catherine', 'sophie', 'marie-thérèse']	Marie	Cet hiver n’amena donc aucun changement dans la position de [MASK] ; mais elle gagna à voir le monde ; douée de l’esprit d’observation, elle put du moins saisir mille nuances dont elle profita et fit profiter ses lecteurs.
+
+['celle-ci', 'celui-ci', 'ceux-ci', 'celles-ci', 'tous']	Marie	Il obtenait difficilement que [MASK] s’en éloignât. Tant que le malade eut un sourire pour sa fille, elle espéra ; mais lorsque, dans le délire, il la repoussa, la douleur de la pauvre enfant fut au comble.
+
+['</s>', 'chacune', 'chacun', 'elle', 'on']	Blanche	Le soir même, les deux amies partaient, accompagnées d’une femme de chambre et d’un domestique. [MASK] avait fait plus d’une bonne action dans sa vie, mais jamais elle n’avait si bien apprécié la liberté d’agir, de suivre le mouvement généreux de son cœur.
+
+['tom', 'marguerite', 'jacques', 'celui-ci', 'robert']	Blanche	J’en prends mon parti : je me lève à cinq heures du matin, sauf pendant les trois mois rigoureux d’hiver ; si j’ai doublé, comme tu le dis obligeamment, la paresse n’y est pour rien. — Cinq heures du matin ! » reprit [MASK] avec une sorte d’effroi.
+
+['jeanne', 'rose', 'marguerite', 'sarah', 'marthe']	Marie	Cette aimable attention encouragea [MASK] à dire à sa cousine qu’elle quêtait pour les pauvres de sa paroisse. « Je te donne tout ce qu’il y a dans ma bourse, ce ne sera pas trop pour te récompenser d’avoir accepté une pareille corvée !
+
+['elle', 'il', 'on', 'la', 'je']	Angélique	Les locataires devaient s’engager à prendre soin des trois autres, à ne point les laisser vagabonder sur les toits ; à ces conditions, la bonne demoiselle se contenterait de recevoir en tout, et pour tout, six cents francs. Une des quatre s’étant approchée, [MASK] la caressa.
+
+['elle', 'anna', 'adèle', 'charlotte', 'emma']	Marie	Elle raconta à ses compagnes, jalouses de recouvrer leur liberté, l’emploi de ses journées, et les faisait juges de son bon goût. Enfin le jour tant désiré arriva : [MASK] fit ses adieux à ses amies et en fut plus émue qu’elle ne s’y attendait.
+
+['</s>', '"', '-', 'jeanne', 'philippe']	Miche	— Entre, ma fille, ton avis m’est nécessaire. [MASK], droit comme un peuplier, salua respectueusement et dit d’une voix suppliante : « Mademoiselle, mon sort est entre vos mains. » Le colonel raconta ce qui venait de se passer entre lui et le sergent.
+
+['elle', 'taille', 'fille', 'femme', 'il']	Marie	[MASK] était grande, sa taille ne perdait rien de sa grâce sous la robe de toile noire, ses cheveux blonds ondés étaient à eux seuls un ornement. En contemplant sa fille, le père oubliait les préoccupations qui l’avaient troublé depuis un an.
+
+['celle-ci', 'celui-ci', 'se', 'la', 'le']	Colette	Il arrivait bien que [MASK] contredît sa maîtresse, sinon en paroles, du moins en action. Si l’arrangement des meubles du salon ne lui convenait pas, elle changeait tout de place, et se félicitait de son bon goût ;
+
+['</s>', '.', 'de', ',', "d'"]	Marie	Elle remit insensiblement tout en question : était-il vraiment bien sage de renoncer absolument au monde pour se faire institutrice ? Les scrupules de [MASK] n’étaient-ils pas exagérés ? On parle sans cesse aux riches de leurs obligations ;
+
+['oui', 'moi', 'non', '--oui', '--non']	Marie	! Mon Dieu ! c’est ce qu’on me disait il y a quatre ans. Papa venait de mourir... — Votre père est mort ? — Hélas ! oui. Que je l’aimais ! et qu’il m’aimait !... [MASK], je suis orpheline.
+
+['jeanne', 'famille', 'louise', 'joseph', 'jean']	Marie	La petite mère de [MASK] était une jeune personne de seize ans, studieuse, calme et douée d’une intelligence peu ordinaire ; mais c’était surtout par le caractère qu’elle dominait toutes ses compagnes. On la faisait juge des plus petits différends, et chose étonnante !
+
+['elle', 'il', 'on', 'cela', 'ça']	Colette	Sans savoir en quoi consistait la fortune du colonel, il lui était aisé de voir que le budget était mince, et comme [MASK] ne voulait pas passer pour servir des gens gênés, elle ne craignait pas d’aller un peu loin chercher les provisions.
+
+['</s>', 'elle', '...', 'il', 'je']	Charlotte	! « C’est triste de ne vivre que pour soi, de ne penser qu’à soi ! » [MASK] parlait simplement, sans s’apercevoir qu’elle faisait son éloge ; mais elle s’adressait à des personnes qui pratiquaient la charité et en connaissaient la douceur.
+
+['elle', 'jeanne', 'sophie', "j'", 'denise']	Marie	Ah ! qu’il est rare de rencontrer un véritable ami ! Ce nom est donné, au hasard, à bien des gens qui n’en sont pas dignes. » La conversation allait prendre un tour pathétique, lorsque [MASK] entra toute radieuse.
+
+['il', 'elle', 'celui-ci', 'on', 'bébé']	Rose	L’enfant penchait naturellement du côté de sa grand’mère, et, quinze jours plus tard, [MASK] pleurait lorsque l’heure de la leçon était arrivée. La grand’mère crut avoir remporté la victoire : « Tu ne peux sans inconvénient, dit-elle à sa fille, conserver plus longtemps cette gouvernante.
+
+['</s>', 'il', '-', ',', 'elle']	Colette	L’intimité de ces trois personnes ne fut pas l’œuvre du temps, mais celle de la sympathie, qui fait qu’on se reconnaît sans s’être jamais vus. [MASK] s’éleva contre la partie de piquet qui la faisait veiller jusqu’à dix heures un quart, tandis qu’elle se couchait habituellement à dix
+
+['moi', 'ami', '</s>', 'maintenant', 'frère']	Marie	— La fortune n’est pas toujours une garantie de bonheur, chère enfant..... Eh bien, [MASK], notre conversation m’amène à t’annoncer mon prochain mariage. — Tu vas me quitter ? — Oui, chère petite..... te quitter pour bien longtemps peut-être.....
+
+['</s>', 'ne', 'il', 'elle', 'rien']	Marie	Il supportait avec courage cette nouvelle épreuve, mais il se soumettait difficilement à recevoir les soins de femmes dont le dévouement était au-dessus de leurs forces. [MASK] ne pouvait renoncer à son travail devenu chaque jour plus nécessaire, c’était donc mademoiselle Angélique qui restait près du colonel.
+
+['non', 'vraiment', 'oui', 'désolé', 'monsieur']	Angélique	Nous avons parlé de vous tous et de vous en particulier. Alors une idée s’est emparée de mon esprit : si... — [MASK], je ne veux pas vous entendre. » La jeune fille restait à la même place et ne se bouchait pas les oreilles.
+
+['</s>', '"', '-', ')', '...']	Lucie	— Non, non, il faut l’arranger un peu. [MASK], prête-lui ta robe bleue, toi qui es petite, et moi je vais ressusciter mon chapeau blanc de l’année dernière, elle sera très-bien. — Merci, mes cousines, je resterai.
+
+["n'", '-', 'ne', 'une', 'la']	Angélique	— Te donner [MASK] ! quelle expression ! — Tu me parles de cette respectable amie comme d’une chose. — C’est un service que je te demande ; et je ne vois pas pourquoi tu me le refuserais : primo elle dépend de toi ;
+
+[',', ';', 'et', 'faites', ':']	Angélique	Votre présence sera l’occasion d’une de ces scènes auxquelles le cœur le plus ferme ne résiste pas. Rappelez [MASK] et restez ici jusqu’à ce que la tempête soit passée. Il n’y avait pas de tempête : le colonel, profondément blessé, dissimulait son chagrin
+
+['il', 'on', 'elle', 'à', 'de']	Paul	Le temps pressait ; [MASK] refusait toutes les invitations qui n’étaient pas officielles. Un soir, le capitaine annonça qu’il partait le lendemain avec quelques amis, et qu’il ne reviendrait que quatre jours plus tard à huit heures du soir, heure militaire, ajouta-t
+
+['elle', 'lui', 'elles', 'elle-même', 'jeanne']	Blanche	Les ouvrières se réunissaient dans une salle de verdure et y travaillaient avec ardeur. Ce premier essai fut pénible pour [MASK] ; ses mains, qui n’avaient jamais tenu que de fines broderies, se blessaient au contact d’étoffes grossières ; elle se piquait réellement les doigts, et de la meilleure grâce.
+
+['il', 'et', 'chacun', 'on', 'qui']	William	et c’était un véritable repos pour le professeur de retrouver la classe du collège. En l’absence de son maître, [MASK] se conduisait en vrai Anglais. Le programme de ses plaisirs était invariable : il ramait deux heures, montait à cheval el herborisait le reste du temps.
+
+['ses', 'son', 'les', 'des', 'sa']	Angélique	La vie facile qu’elle menait semblait la rendre indifférente à ses enfants. Il n’en était rien ; elle redoutait d’emmener [MASK], dans la crainte qu’on ne la retînt ; et, d’autre part, elle ne comprenait plus la vie sans cette auxiliaire de tous les instants.
+
+['</s>', 'elle', 'il', '-', 'celle-ci']	Marie	Depuis notre arrivée, j’ai reçu quinze lettres de quête et vingt billets de concert. Nous sommes plus raisonnables en province. Le colonel gardait le silence et laissait sa fille s’en tirer comme elle pouvait. [MASK] ne se laissa pas du tout intimider ;
+
+['dit-elle', 'madame', 'monsieur', 'mademoiselle', 'dit-il']	Marie	« Comment se fait-il, [MASK], que vous ne soyez pas allée au concert avec mes sœurs ? — Ma tante voulait m’emmener... je n’ai pas voulu. — Vous n’aimez pas la musique ? — Beaucoup au contraire... mais.....
+
+['marie', 'maman', 'papa', 'camille', 'georges']	Rose	Dans ces moments-là, la présence de [MASK] produisait toujours un effet salutaire ; les caresses de l’enfant ramenaient le sourire sur les lèvres de sa mère. Le colonel, qui suivait attentivement l’histoire de cette âme, disait que sa fille faisait des miracles.
+
+['elle', 'elle-même', 'lui', 'moi', 'elles']	Blanche	Cette persévérance dans le travail était chose nouvelle pour [MASK]. Elle admirait sa petite cousine, et ne la plaignait plus tant de n’être pas riche ; elle s’étonnait aussi de l’intérêt qu’une personne, si jeune encore, prenait à une conversation sérieuse, et des réflexions qu’elle faisait.
+
+['elle', 'il', 'qui', 'je', 'et']	Blanche	! Je lui dois tout..... Il n’y a pas d’hésitation possible : nous partirons ce soir. » Contrairement à ses habitudes, [MASK] frappait à la porte du colonel dès sept heures du matin... Elle lui fit part de son projet.
+
+['</s>', 'en', '"', "c'", '-']	Angélique	Jusqu’ici le colonel avait fait effort pour maintenir son intelligence au niveau de son cœur. Maintenant il se laisse aller à une certaine indolence. [MASK] essaye en vain de le distraire par des récits dont tout le résultat est de le porter au sommeil.
+
+['rose', 'celle-ci', 'louise', 'madeleine', 'clara']	Marie	L’automne fit songer à l’hiver ; tandis que [MASK] redoutait l’influence qu’allait encore exercer le monde sur son amie, celle-ci tremblait d’entendre critiquer la résolution qu’elle avait prise d’être tout à sa fille.
+
+['tout', 'les', 'encore', ',', 'le']	Blanche	— Cher colonel, ignorez-vous que je ne vais plus dans le monde ? — Si vous y alliez, madame, ce ne serait plus un service que j’aurais à vous demander. » La belle physionomie de ce respectable père, les infirmités dont il semblait ne plus se souvenir, émurent [MASK].
+
+['lui', 'elle', 'elle-même', 'lui-même', 'elles']	Angélique	C’est insupportable. N’est-il pas naturel cependant qu’un vieux soldat comme moi fasse bon accueil à ce vaillant jeune homme ? » Le brave colonel fut triste tout le reste de la journée, sans que sa fille et [MASK] pussent découvrir le motif de sa tristesse.
+
+["c'", 'fille', 'enfant', ',', 'mère']	Rose	[MASK] était une charmante fillette dont l’éducation, il est vrai, ne la satisfaisait pas complètement, et même à ce sujet la grand’mère n’était plus aussi sûre d’avoir agi en fine politique, lorsqu’elle lui avait enlevé sa gouvernante qui était sans parenté avec les bas bleus.
+
+['elle', '</s>', 'il', 'tout', 'valentine']	Charlotte	Cet espoir transportait de joie la jeune fille ; elle énumérait à son amie tous les bonheurs qu’allait lui apporter ce retour inespéré. [MASK] souriait, admirait le charmant visage de sa fille, encore embelli par le doux sentiment de l’amour filial.
+
+['elles-mêmes', 'là', 'expérience', 'elles', 'eux-mêmes']	Myshita	Le Japonais rit toujours ; qu’il soit au repos ou qu’il travaille, il ne perd jamais sa gaieté ! Les femmes n’ont pas moins d’entrain, et comme on peut en juger par [MASK], elles ne manquent pas d’une certaine grâce.
+
+['lui', 'elle', 'se', ',', 'et']	Colette	[MASK] dissimulait une grande fatigue ; ce fut donc avec empressement qu’elle prépara un lit dans le cabinet de la chambre de son maître. « Dieu merci, disait la brave femme, on n’aura plus l’oreille au guet pour savoir si monsieur dort ou veille ;
+
+['à', '-', 'etc.', 'non', 'monsieur']	Marie	! Penses-tu à lui quelquefois, [MASK] ? — Belle question vraiment ! Crois-tu la petite pensionnaire capable d’oublier le rhétoricien qui jouait au volant avec elle, qui la reconduisait, et remplissait ses poches de douceurs qui duraient toute la semaine ?
+
+['dieu', 'marie', 'marguerite', 'maman', 'elle']	Blanche	Quelques jours plus tard, il se croyait consolé en voyant l’attitude calme de sa fille. Il ne crut pas devoir lui parler de ce qui s’était passé. Il demanda seulement à [MASK] de faire tout ce qui était en son pouvoir pour la distraire.
+
+['que', ':', 'maintenant', 'en', '1']	Blanche	Vous doubleriez vos succès, et je crois que la chose vous serait facile : vous avez tant d’imagination ! Mais vous y arriverez : ces contes de petites filles finiront par vous fatiguer. — Moi, ajouta [MASK], si j’étais femme auteur, j’écrirais certainement des romans
+
+['et', 'elle', 'il', 'on', ',']	Marie	[MASK] lui adressa quelques-unes de ces paroles que le mourant aime à entendre ; notre foi a besoin à cette heure suprême de s’appuyer sur celle d’un ami, et les promesses de la jeune fille avaient en ce moment un accent prophétique.
+

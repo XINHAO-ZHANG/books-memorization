@@ -1,0 +1,200 @@
+['de', '"', 'matière', ')', 'on']	Lucien	[MASK] pensa : Ça y est, il va falloir soulever le capot. En panne de quoi ? dit-il. Qu’est-ce qu’elle a ? Puis il pensa : Je perds mon temps à lui demander ça, elle n’y connaît rien, puis répéta : En panne de quoi
+
+['"', 'quoi', "'", '?', 'pourquoi']	Tivoli	A cette heure-là, d’habitude, mais passons, ça ne regarde que moi. J’eus de nouveau recours à mes brochures. L’indolent que j’étais les parcourut jusqu’à ce qu’il se dise : Tiens, et si j’allais voir ça ? [MASK].
+
+['il', '</s>', 'elle', 'on', '--il']	Lucien	Ça n’avait pour elle aucune importance. Ça en avait si peu. Il était si voyant que ça n’en avait pas. Vous voulez faire ça, eh bien faisons ça, inutile d’être menaçant. [MASK] aurait dû le comprendre. Au lieu de faire le malin.
+
+['je', 'ça', 'cela', 'tout', 'jésus']	Kerguélen	De l’ordre du leurre ? Oui, pourquoi pas ? J’ai trouvé ça drôle, elle était soûle, quand elle m’a dit que [MASK] lui était apparu, je cite : Comme une œuvre d’art. Tout ça se passait le soir d’un vernissage.
+
+["c'", 'il', 'on', 'robespierre', 'c']	Lucien	de mal tomber. Dès qu’il rencontrait l’apparence, la promesse, la perspective d’une résistance, son désir était de la piétiner. Mais [MASK] était quand même un homme civilisé. On parlemente avant de frapper. Il commença donc par le commencement.
+
+['maman', 'monsieur', 'famille', 'mademoiselle', 'madame']	Lucien	Non, je ne lui ai pas dit ça. Si, enfin, quelque chose comme ça : J’en ai tout au plus pour une petite heure. Elle a téléphoné au bout de deux grandes heures. J’étais toujours chez la mère de [MASK].
+
+['guerre', '</s>', 'sarkozy', 'kadhafi', 'paris']	Haydn	Alors elle s’est mise à rire et elle a dit : Nous avons les moyens de vous faire chanter. Le père de [MASK] s’y est opposé. Il a bien fait. Les moyens de convaincre. Les moyens d’intimider. Les moyens de tuer.
+
+['ils', 'je', 'nous', 'chacun', 'il']	Suzanne	Deux jeunes amants resteraient accrochés l’un à l’autre et il faudrait les séparer. Nous n’étions que de vieux amants, qui se reposaient. J’ignore à quoi [MASK] pensait. Il fut un temps où je le lui demandais. Elle ne répondait pas.
+
+[':', 'en', ',', 'à', 'non']	Kierkegaard	Alors moi, pour le décourager, je lui ai répondu [MASK]. Ça ne l’a pas du tout découragé. Il s’est mis à me conter les amours du penseur avec une demoiselle Olsen. Un silence rêveur suivit. Tout au long du silence, je pensais à l’histoire des deux camionneurs incultes
+
+['il', 'elle', 'et', 'qui', 'mais']	Lucien	Il ôta sa veste qui reposait sur le siège avant, soigneusement pliée sur le dossier et il l’allongea sur la banquette arrière. Ensuite je vous emmène chercher de l’essence. Nous prenons un bidon et nous revenons. Pas lui. [MASK] ne revint pas.
+
+['...', ',', 'qui', 'elle', 'il']	Suzanne	Je suis prêt, me dit-il. Prêt à quoi ? dis-je. Je débarquais. J’étais en train de me demander si [MASK] allait penser à mon anniversaire. Prêt à quoi ? dis-je. Comment ça, prêt à quoi ? me dit-il.
+
+['moi', 'maman', 'lui', 'elle', 'nous']	Lucien	Ah, c’est ça, dit-elle, voilà pourquoi tu es en retard, tu traînais encore avec [MASK]. Comme si j’avais l’habitude. Pas du tout, dis-je, je l’ai croisé sur la route : enfin, pas lui, sa voiture.
+
+['</s>', 'il', 'on', 'elle', 'qui']	Suzanne	Pour voir quoi, je ne me rappelle pas. Je ne l’ai peut-être jamais su. N’importe quoi. Ce que tu voudras. [MASK] a dû me le dire. Je n’écoutais pas. Je me moquais bien de savoir ce qu’on allait voir.
+
+['</s>', 'il', 'elle', '"', 'on']	Suzanne	Alors lui : Tu pensais ça et tu es parti ? Oui, dis-je, je pensais ça et je suis parti, pour moi, pour partir, pour te fuir, et aussi pour te faire plaisir. [MASK] me demanda si j’avais vu cette femme.
+
+['elle', 'moi', 'lui', 'toi', 'madame']	Lucien	Alors elle : Je sais bien, mais quand même, et mon dîner ? Eh bien quoi, ton dîner ? Elle a d’ailleurs par la suite très mal pris mon trafic sentimental avec [MASK], ce qu’elle appelait mon manège, et plus tard encore plus mal mon histoire avec cette femme.
+
+['dit', 'répondit', 'demanda', 'reprit', 'ajouta']	Lucien	[MASK] : Mais comment pouvez-vous être sûr que c’est elle ? Il se tourna vers moi. J’avais vu moi aussi la page culturelle. Oh, moi, tu sais, lui dis-je, au moment des faits, je n’ai fait que l’entrapercevoir.
+
+['lui', 'pas', 'il', 'qui', ',']	Lucien	[MASK] non plus ne l’était plus. Il aurait bien voulu. Qui ne le voudrait ? Il faisait tout pour ça. Il régressait à mort mais rien à faire, il ne l’était plus. Pis encore, il ne le serait jamais plus.
+
+['passion', 'travail', 'lui', 'moi', 'littérature']	Lucien	Son travail la passionnait. Et, à propos de passion, quand je me suis décidé à lui parler de [MASK], elle m’a gentiment envoyé promener, avec un air qui je crois signifiait : Vous feriez bien de faire comme moi, passionnez-vous pour autre chose.
+
+['un', 'moi', 'il', 'celui-ci', '-il']	Kerguélen	Je suis un peu fatigué, dit [MASK], je t’appelais juste comme ça. Je comprends, dit l’autre, le ministère, la mer, c’est autrement plus fatigant : bon, écoute, prends quand même l’adresse, on ne sait jamais, si tu changeais d’avis dans la soirée.
+
+['lui', 'moi', 'personne', 'son', 'qui']	Kerguélen	Elle n’avait jamais eu, d’ailleurs, besoin de qui que ce soit. Non, pas même de [MASK]. Elle n’avait pas besoin de lui, ni lui d’elle. Il ne s’agissait pas de besoin entre eux. Il s’agissait de rencontre.
+
+['"', ')', '</s>', "'", '_']	Vertigo	Je venais de m’apercevoir que la femme devant le tableau était coiffée comme la femme dans le tableau. Je n’avais vu ça qu’une seule fois, dans un film. [MASK]. Alors j’ai pensé qu’elle aussi peut-être était une somnambule embarquée dans une vie antérieure.
+
+['...', 'travail', 'm', ':', 'nuit']	Lucien	J’ai très vite reconnu la voiture de [MASK]. Je pouvais me tromper mais ça m’a rassuré. Je me suis dit : Si c’est lui, il ne peut rien nous arriver. J’ai ralenti. Puis. J’ai envoyé un appel de phares.
+
+['chacun', 'celui-ci', ',', 'pierre', 'jacques']	Lucien	Puis, après réflexion, réprimant un sourire de vengeance, elle répéta : Bien sûr. Alors [MASK], à son tour vexé, se crut obligé de réparer, il nous précisa sa pensée : Ne vous méprenez pas, madame, dit-il, je ne voulais pas vous froisser.
+
+['il', 'elle', 'on', 'et', 'dieu']	Lucien	Il y avait même un post-scriptum disant ceci : Si tu changeais d’avis, je serais très heureuse de continuer avec toi la vie. Je commençais à me demander si je n’allais pas changer d’avis. La journée commençait plutôt bien. [MASK] a tout détruit.
+
+['toi', 'vous', 'cela', 'autant', 'lui']	Lucien	C’est la haine qui m’a fait parler. Si pour [MASK] j’avais eu de l’amitié, ce qui s’appelle de l’amitié, je n’aurais pas parlé. Quand on aime quelqu’un on est capable d’inventer une histoire qui se tient.
+
+[',', 'que', 'ce', 'à', 'exactement']	Kerguélen	Aucune importance, dit l’autre, au contraire. Comment ça, au contraire, dit [MASK], c’est un bal costumé ? Non, non, dit l’autre, tu verras, je suis sûr que tu vas lui plaire. A qui ?
+
+['maman', 'mon', 'papa', 'moi', 'frère']	Lucien	. Aussi, moi, un soir, lui ai-je dit : Ecoute, [MASK]. Ça ne peut pas durer comme ça. Je ne sais plus quoi faire avec toi. Si tu as une idée. S’il est encore quelque effort que je puisse faire.
+
+['et', '</s>', 'la', 'qui', '"']	Suzanne	C’est alors qu’il éprouva le besoin de me dire quelque chose. Il faut que je te dise, me dit-il. Quoi ? lui dis-je. Maintenant je peux bien te le dire, me dit-il. Quoi ? lui dis-je. [MASK], me dit-il.
+
+['elle', 'il', 't-elle', 't-il', 'maman']	Suzanne	C’est très simple, j’insultais ma mère, sa femme, alors lui, évidemment, vis-à-vis d’elle, il se devait de jouer son rôle de coq émasculé, alors il m’a giflé. Excuse-moi, me dit [MASK], je n’aurais pas dû faire ça.
+
+['</s>', '--non', 'oui', '"', 'non']	Suzanne	Il fallait que je parle. Ç’a été dur. J’ai eu d’autant plus de mal qu’entre-temps j’étais devenu un peu fou d’elle. [MASK], c’est très clair, elle n’avait plus confiance en moi.
+
+['mr', '"', '...', ':', 'dieu']	Lucien	J’offris mon courage à [MASK]. Je croyais qu’il en manquait. J’ai cru qu’il avait besoin du mien. Je me trompais. Il en avait plus que moi. Il en avait même pour lui et moi, un courage entièrement dirigé contre moi.
+
+['on', 'il', '</s>', 'elle', 'et']	Lucien	Ma dernière volonté, semblait-elle nous dire sur ces photographies, est que mon agresseur souffre, vous entendez, je veux qu’il souffre, jusqu’à sa mort. 18. Dans la voiture la dispute reprit. [MASK] me reprocha de n’être pas suffisamment intervenu.
+
+['laisser', 'ce', "l'", 'm.', 'cet']	Lucien	Son hypocrisie me faisait de la peine. Sa mauvaise foi. Cette innocence. Cette monstrueuse innocence. Mais je n’allais pas la tourmenter. Ce qui venait d’arriver à [MASK], son fils, c’était quand même encore son fils, un vieux type à présent
+
+['</s>', '--il', 'il', 'elle', 'ce']	Lucien	D’une manière ou d’une autre, il la lui avait confiée. A cette femme. Je l’ai vue quand on s’est croisés. [MASK] n’était pas dans la voiture, j’en suis sûr, ni à côté d’elle ni derrière elle.
+
+['dieu', 'maman', 'marie', 'jeanne', 'elle']	Lucien	J’ai pris sa défense. J’ai dit à [MASK] : Détrompe-toi, tu ne la connais pas. Ah ! Seigneur ! Que n’avais-je pas dit là ! Sa douleur fut si grande. Il me supplia de parler d’elle.
+
+['lui', 'moi', 'vous', 'toi', 'un']	Lucien	Et quand j’arrivais chez [MASK], c’était pour le trouver en train d’enjamber la barre d’appui, ou en train de se pendre, c’était bien calculé, j’avais juste le temps de le décrocher, je le saisissais sous les fesses puis le portais comme un grand bébé.
+
+['il', 'il', 'elle', '</s>', '-il']	Lucien	[MASK] ne conduisait plus. Nous sommes partis dans ma voiture. Il me reprocha de n’avoir toujours pas changé de voiture. Je lui fis observer que ma situation ne me le permettait pas. Il me reprocha de ne pas m’être suffisamment battu pour sauver mon laboratoire.
+
+['</s>', '"', '-', '_', '--']	Lucien	Moi : Je vivais bien aux tiens, lui dis-je. Oui mais moi c’est pas pareil, me dit-elle, je suis ta femme, et je t’aime. [MASK] aussi, fus-je tenté de lui dire. Je m’abstins. La conversation dégénérait.
+
+[',', 'de', 'à', 'et', ':']	Lucien	? Elle exagère un peu, pensai-je, parce que quand même, les surgelés, c’est vite fait, j’en sais quelque chose, c’était souvent moi qui le faisais. Je ne répondis pas puis me dirigeai vers le téléphone. Allô, répondit [MASK]
+
+['il', '</s>', 'on', 'elle', '--il']	Lucien	Je ne répondis pas. La dispute était terminée. [MASK] ne parlait plus. Je conduisais. Le paysage allait peut-être nous heurter, mais, comme toujours et sans arrêt, il ne faisait que nous frôler, sur les côtés et au-dessus de nos têtes.
+
+['petit', 'toi', 'maman', 'moi', 'petite']	Béatrice	Bah réponds ! Ça y est, me dis-je, elle va lui faire une scène. Ouf, non, elle n’insista pas. Mais elle continuait de fixer son mari avec un terrible regard, alors lui : Calme-toi, [MASK], dit-il.
+
+['elle', 'il', 'lui', 'on', ',']	Gustave	: Pas celle-là, dit [MASK], l’autre, celle qu’on a vue tout à l’heure. Alors elle : Comment tu le sais ? Comment tu peux savoir ça, toi ? Il haussa les épaules et de nouveau se leva de table. 15.
+
+['vite', 'descends', 'va', '</s>', 'viens']	Jésus	Elle se rangea le long du bas-côté, ouvrit la portière, vite, vite, descendit, vite, vite, [MASK], je vais faire dans ma culotte, fit en vitesse le tour de la voiture et se cacha derrière. L’essentiel de l’angoisse s’en allait avec l’urine.
+
+['il', 'qui', 'elle', 'on', 'et']	Lucien	Une voiture approchait. Une voiture bleue. [MASK] arrivait sur les lieux. Il m’a raconté ça un nombre incalculable de fois. Pendant toute la durée de sa convalescence, et même au-delà, il n’a pas cessé de me raconter comment les choses s’étaient passées.
+
+[',', "qu'", 'que', 'qui', 'et']	Lucien	Celle-ci semblait n’avoir besoin de rien. Elle ne rougissait pas. Elle n’était pas dans tous ses états. La présence de [MASK] ne lui faisait ni chaud ni froid. Il faut dire, que. Quoi ?
+
+['elle', 'eux', 'elles', 'amour', 'argent']	Andersen	Plus tard. Quel musée ? me dit-il. Des beaux-arts, lui dis-je. Il me prit pour un homme cultivé. Résultat, pendant qu’on faisait encore un grand tour en bagnole, il se crut obligé de me parler d’[MASK].
+
+['elle', 'lui', 'moi', 'prudence', 'maman']	Jean-René	Elle ne disait rien quand il s’en allait, elle le regardait, mais, mettons-nous à sa place, il ne pouvait tout de même pas emmener sa mère et l’asseoir dans un coin pendant qu’avec [MASK] il s’occuperait de la fille.
+
+['tout', 'ça', 'cela', 'hier', 'hamlet']	Othello	forme d’un bus bondé, ou le pot d’échappement, ça faisait des étincelles, ou alors ses amortisseurs étaient morts, c’est possible. Non, lui dis-je, je suis resté dans ma chambre, j’ai relu [MASK].
+
+['présent', 'paris', 'côté', 'dire', 'part']	Copenhague	Je complétais, quand il le fallait, sa diction hésitante, et toujours sans me voir elle me remerciait pour les mots que je lui donnais, les mots qui lui manquaient. Je n’avais plus rien à faire à [MASK].
+
+['</s>', 'et', '"', '-', 'mais']	Suzanne	Mon souci était son souci. J’étais seul à travailler. Je gagnais bien ma vie dans mon laboratoire. [MASK] peut-être allait devoir recommencer à travailler. Reprendre son ancien métier. Qu’elle avait quitté de son plein gré. Je ne l’ai pas obligée.
+
+['</s>', '"', '-', '_', '--']	Lucien	Il ne pensait qu’à ça. [MASK] aussi. Moi aussi. On était là pour ça. Elle s’expliqua : Tu ne vas tout de même pas obliger ce pauvre monsieur à vivre cette tragédie une seconde fois !
+
+["l'", 'magnus', 'jacob', 'johan', 'carl']	Dahl	J’ai regardé. Ça n’a pas marché. Les mains de la femme qui venait de me quitter étaient infiniment plus belles. Celle de gauche portait une robe à fleurs. Etait-ce bien l’hiver ? J’imagine des dahlias, du nom de [MASK], botaniste suédois.
+
+['il', '</s>', 'elle', 'on', 'maman']	Lucien	Prix de la nuit : 950 couronnes. [MASK] m’avait dit : Dépense comme tu veux, mais fais quand même attention, je compte sur toi, je te fais confiance, bonne chance, dis-lui ce que je t’ai dit, soulage mon cœur.
+
+['droite', 'celle', 'papa', 'gauche', 'maman']	Lucien	Bref, sous toutes les coutures et une petite dernière alors qu’elle s’enfuyait au volant de sa voiture, laissant celle de [MASK] là, en panne. C’est la mère Prouteau qui parla la première. Tu ne m’avais pas dit ça, dit-elle.
+
+['jean', 'celui-ci', 'monsieur', 'jacques', 'marie']	Lucien	Je vais vous donner ça, me dit-elle. Je rappelle que la mère de [MASK] était une vieille dame à moitié impotente. Non, non, lui dis-je, ne vous dérangez pas, je sais où est sa chambre.
+
+[',', 'longtemps', 'mon', 'tout', 'avec']	Lucien	Je conduisais. Le paysage allait peut-être nous heurter, mais, comme toujours et sans arrêt, il ne faisait que nous frôler, sur les côtés et au-dessus de nos têtes. Le silence durait. Je regardai [MASK]. Profil perdu dans le lointain d’une route.
+
+['elle', 'il', 'cela', 'qui', '</s>']	Lucien	Elle savait que j’en avais assez. Elle aussi en avait assez. [MASK] nous aura aidés. Elle insista pour qu’on s’aime une dernière fois. Je n’avais rien contre. Elle profita de tout le désir que j’avais accumulé pour ma petite princesse danoise.
+
+['</s>', 'il', '"', ')', '-']	Lucien	J’ai oublié la date exacte. [MASK] avait décrété que ce serait mercredi. Pourquoi mercredi, j’ai fini par l’apprendre. C’est d’ailleurs assez bête. Il était né un mercredi et il voulait mourir un mercredi. Pas mercredi là. Pas nécessairement.
+
+['dreyfus', '-', 'm.', 'robespierre', 'jacques']	Lucien	S’il avait parlé au moment des faits, ça n’aurait rien changé. Comme je l’ai dit plus haut, [MASK] lui-même refusait de parler. Il ne voulait pas qu’on la poursuive, qu’on la cherche, il refusa même de porter plainte.
+
+['moi', 'toi', 'lui', 'elle', 'vous']	Lucien	2) Le taxi pour 120 couronnes, environ. 3) Ou tout bonnement le bus, gratuit avec une carte que je n’avais pas. J’ai hésité un petit moment et puis je me suis dit : C’est [MASK] qui paye alors profitons-en.
+
+['lui', 'lui', 'son', 'le', 'moi']	Suzanne	15. Quand il m’a téléphoné, j’étais en train de dîner avec [MASK]. Nous mangions des pâtes au saumon, une délicieuse recette composée d’une sauce langoustine avec des crevettes et c’était bon, on a beau dire du mal des surgelés.
+
+['fac', 'gauche', 'coeur', 'chéri', 'classe']	Jean-René	Quitte à me priver de la copine de [MASK]. Autant profiter de celle-ci. Seulement voilà. Ça se présente mal. Elle n’a pas l’air commode. Elle ne se répand pas en remerciements. Elle ne rougit pas. Elle est relaxe, à l’aise.
+
+['moi', 'm', 'l', 'toi', 'mr']	Lucien	Je décidai de passer d’abord chez [MASK]. Un léger sursis eût été le bienvenu. J’y crus : personne ne répondait à la sonnette. Une fois, deux fois. Une troisième fois plus insistante rejeta tout espoir de grâce. Il fallait que j’y passe.
+
+['</s>', 'elle', 'il', '-', '"']	Lucien	La pièce existait toujours mais plus du tout à l’état de chambre. [MASK] avait transféré son sommeil dans la chambre de sa mère. Je croyais avoir tout vu. Je savais que ces choses-là existaient. Je pouvais même les imaginer.
+
+['il', 'lui', 'je', 'qui', 'elle']	Lucien	[MASK] refusait de parler. Il était le seul à l’avoir vue, ce qui s’appelle vue, comme jamais un homme n’a l’occasion de voir une femme. Moi, à côté, je n’ai rien vu, jamais je ne verrai ce qu’il a vu.
+
+['voltaire', 'molière', 'jeunesse', 'circonstance', 'shakespeare']	Suzanne	19. Il est temps d’aborder la période dite des multiples tentatives, autrement appelée la période de tous les chantages, car toutes ces tentatives n’avaient d’autre visée que de me faire chanter. Ça me rappelle une plaisanterie de [MASK]. J’en ris encore.
+
+['ceci', 'juste', 'deux', 'trois', 'ce']	Lucien	. Très bien, dis-je à [MASK] : si tu y tiens, si tu es vraiment décidé, si tu penses pouvoir ne pas flancher, je suis d’accord pour t’aider, mais à une condition. Laquelle ?
+
+['"', 'jacques', 'jeanne', 'geneviève', 'jésus']	Lucien	Ah oui, je vois, dit-elle, et alors ? Qu’est-ce qu’il voulait ? Il a retrouvé la femme qui a estropié [MASK], lui dis-je. Ah bon ? dit-elle. Parce qu’il la cherchait ? C’est elle qui me cherchait.
+
+['ailleurs', 'sa', 'son', 'maman', 'une']	Lucien	Alors chaque fois que je partais pour aller voir [MASK], elle me menaçait, sans jamais mettre sa menace à exécution, rien n’est plus pénible. Elle me disait, par exemple : Si tu continues, je te coupe les vivres.
+
+["c'", 'bon', 'non', ',', 'si']	Lucien	Moi, je rentrais d’une réunion. Bon, très bien. Mais [MASK], lui, il rentrait d’où ? De nulle part. Il ne rentrait pas de. Il venait de. D’où ? De chez sa mère. Autant dire de nulle part.
+
+['encore', ',', 'aussi', 'chacun', 'celui-ci']	Lucien	Mais je dois avouer que son pistolet était un bel objet. Je l’ai pris en main. Je l’ai gardé. Regardé avant de le lui rendre. Puis j’ai interrogé [MASK] sur la façon dont on allait s’y prendre. J’essaie encore :
+
+['</s>', 'on', 'il', 'elle', 'ça']	Nabokov	Je ne vais pas énumérer toutes ces tentatives, ce serait risible. Je n’avais pas envie de rire. Rien n’est plus tuant qu’une fausse alerte. Si, une suite de fausses alertes. [MASK] a beau dire que la littérature est née comme ça.
+
+['de', ',', 'quoi', 'que', '"']	Gustave	Qu’est-ce que tu disais ? Moi, rien, dit sa femme, c’est toi qui parlais. Ah bon ? dit [MASK], et de quoi, s’il te plaît ? Tu me parlais du fils de la mère Navara, tu ne t’en souviens pas
+
+['jean', 'jésus', 'gabriel', 'charles', 'grégory']	Lucien	Oui, le soir même. Ce détail m’a abasourdi. Je me suis dit, je ne sais pas pourquoi, que le grand amour c’était ça. Justement la mère de [MASK] me disait : Mon fils n’a jamais connu un grand amour.
+
+['louis', 'harry', 'sam', 'jacques', 'henri']	Lucien	Il me tendit l’enveloppe. Je regardai [MASK], l’air de lui dire : Tu ne veux pas les voir avant moi ? Il me fit signe que non. J’ouvris l’enveloppe. L’ambiance était celle d’une étude de notaire. Nous allions donner lecture.
+
+['</s>', 'il', '--il', 'et', '--']	Lucien	La petite route était trop étroite. On ne pouvait s’y croiser qu’à la condition que l’une des deux voitures se range sur le bas-côté. [MASK] fut par conséquent obligé de s’arrêter. Il était déjà très énervé. Il venait de chez sa mère.
+
+['une', 'un', 'homère', 'hamlet', 'ici']	Hamlet	dis-je, vous voulez dire une énigme comme le « to be » d’[MASK] ? Elle : Si vous continuez, je vous plaque en plein déjeuner. Sa menace me rappela la femme que moi j’avais plaquée en plein dîner. Elle me tapait sur les nerfs.
+
+['il', 'sarkozy', 'fillon', ',', 'lui']	Lucien	[MASK] n’aurait jamais confié sa voiture à une femme. C’est pourtant ce qui s’est passé. D’une manière ou d’une autre, il la lui avait confiée. A cette femme. Je l’ai vue quand on s’est croisés.
+
+['or', 'ange', 'cologne', 'oranger', 'evian']	Evian	Avant de s’enfuir, elle changea de vêtements. Ceux qu’elle portait étaient tout tachés de sang. Elle tira de son sac un jean et une chemise. Elle changea aussi de chaussures. Elle se lava les mains et la figure avec de l’eau d’[MASK].
+
+['il', 'lui', 'en', 'elle', 'celui-là']	Lucien	Et tu comptes vivre avec ça ? Alors moi : Non, dis-je, mais [MASK] a les moyens, sa mère lui a laissé largement de quoi vivre, et comme lui désormais ne vit plus que de rien, j’ai avec lui largement de quoi vivre.
+
+["c'", 'moi', 'lui', 'ce', 'peut-être']	Lucien	J’avais quelque chose à lui demander. Je lui envoyais mon frère. Alors elle : Tu ne peux pas faire tes commissions toi-même ? Je me demande ce qui l’a achevé, [MASK], ma trahison involontaire ou la mort de sa mère.
+
+['mais', 'toi', 'alors', 'non', 'oui']	Pierre-Yves	Dans ce regard, où depuis tout à l’heure il ne se passait rien, il était en train de se passer quelque chose. Le Danois se retourna, changea de couleur, puis s’écria : Ah, formidable, [MASK], tu es quand même venu ?
+
+['toi', 'lui', 'vous', 'elle', 'moi']	Suzanne	J’avais un livre à finir et peut-être une vie à sauver. Ma vie avec [MASK]. Tu me dois bien ça, me dit-il. Tu m’as trahi. Tu m’as achevé. M’aider à mourir est le moins que tu puisses faire.
+
+['de', 'à', 'comme', 'aussi', 'encore']	Maupassant	On ne peut plus lier connaissance, offrir une cigarette, une orange sortie d’un panier, ça me rappelle [MASK], demander si la fumée dérange ou supporter la conversation des gens qui partagent le compartiment, il n’y a plus de compartiments.
+
+['qui', 'il', 'elle', 'on', ',']	Lucien	C’est alors que je me suis rappelé cet endroit où il emmenait souvent des filles et plus tard des femmes, avec l’âge [MASK] ne s’était pas calmé. Un jour, il y a longtemps, on était jeunes, il m’y avait traîné.
+
+['et', 'à', 'en', 'plus', ',']	Gustave	? Oui, enfin non, pas très bien, répondit sa femme. Pourtant, ça avait fait du bruit, dans le patelin, dit [MASK]. Comment ? dit sa femme, qu’est-ce que tu dis ? Baisse la télé ! Je n’entends rien !
+
+['moi', 'toi', 'la', 'mon', 'ma']	Lucien	Elle : Tu comptes vivre aux crochets de [MASK] ? Moi : Je vivais bien aux tiens, lui dis-je. Oui mais moi c’est pas pareil, me dit-elle, je suis ta femme, et je t’aime.
+
+['on', 'je', 'il', 'elle', 'vous']	Jean-René	C’est ça, aurais-je dit, moi, désagréable, je le déteste, mais [MASK] m’aurait quand même serré la main, avec l’air supérieur du type qui part avec une fille, alors que vous vous restez sans, non seulement sans
+
+['propos', 'faire', 'dire', "l'", 'nouveau']	Lucien	C’est ce que je disais à [MASK] au début : De quoi te plains-tu ? Elle aurait pu te tuer. Alors lui : J’aurais préféré. Alors moi : Oui, on dit ça, j’aurais préféré, c’est la mode, et au moment de mourir on préfère vivre
+
+['jésus', 'chacun', 'dieu', 'celui-ci', 'pierre']	Lucien	Je ne vais pas entrer dans un tas de détails dégoûtants, disons simplement que [MASK] fut pris, c’est évident, à son propre piège, je veux dire au piège de sa jouissance. Il en oublia le couteau qu’il avait dans la main.
+
+['</s>', 'elle', '"', 'il', 'celle-ci']	Suzanne	Et c’est ainsi que s’engagea une discussion sur la saveur très acceptable des produits surgelés. [MASK] n’était pas là, c’est dommage, elle aurait apprécié. Enfin bon, soit, j’ai eu tort, mais ce n’est pas vraiment ma faute.
+
+[',', 'le', 'par', 'et', 'sur']	Lucien	J’arrivais sur les lieux du choc second, le choc réparateur, le mal par le mal. Non, pardon : le bien par le mal. J’ai trouvé [MASK] là. En piteux état. Je n’ai pas tourné de l’œil. J’ignore pourquoi.
+
+[',', 'et', ':', '...', 'ce']	Suzanne	Tu venais juste de partir, me raconta [MASK] quand je suis rentré. Ah bon ? dis-je. Elle : Tu en as mis du temps. C’est difficile, ai-je répliqué. Alors elle : Je sais bien, mais quand même, et mon dîner
+
+[',', 'il', 'elle', 'et', 'qui']	Lucien	[MASK] s’en trouva positivement gêné. Elle n’arrêtait pas de l’observer. Elle promenait ses regards toujours dans la même zone. Comment faites-vous pour faire, enfin, je veux dire, et autres questions du même style, ça la tracassait, je comprends ça.
+
+['dieu', 'david', 'jésus', 'chopin', 'rimbaud']	Lucien	Ils se racontent les mêmes histoires. La mienne, la leur, c’est la même. A quoi bon nous traduire ? L’imbécile heureux car amoureux que j’étais s’efforçait de traduire la pensée de [MASK] pour une Rebecca Lodge qui elle pensait à autre chose.
+
+['moi', 'nous', 'lui', 'toi', 'vous']	Lucien	De chez sa mère. Autant dire de nulle part. Il avait dit au revoir à sa mère et il se rendait à son rendez-vous. Ça me rappelle une chanson qui nous parle de l’instant du premier rendez-vous. Pour [MASK], c’était le dernier.
+
+['merde', 'noël', 'nuit', 'travail', 'guerre']	Lucien	Je me rappelai cette infirmière qui abrégeait les souffrances des malades. Ça m’a calmé. Je me suis dit : Voilà, je suis une infirmière et je vais mettre un terme aux souffrances de [MASK], y contribuer du moins. C’était sérieux. Ça devenait sérieux.
+
+['il', 'je', 'on', 'chacun', 'elle']	Lucien	Au lieu de faire le malin. Au lieu de se croire obligé de : A peine arrivés dans l’impasse, dans la clairière, près du petit étang, à peine descendus de voiture, [MASK] jugea utile et peut-être spectaculaire de sortir son cran d’arrêt.
+
+['elle', 'il', 't-elle', '-elle', '-il']	Suzanne	. Tu as vraiment du temps à perdre, me disait [MASK] en me voyant inscrire des choses comme ça sur le papier. Elle ne se doutait pas qu’en écrivant je l’inscrivais elle aussi dans un temps saisissable. Gardes ! Saisissez-vous de lui !
+
+['nous', 'que', '"', 'vous', 'nous-mêmes']	Lucien	Pour conclure, il eut recours à un argument choc, celui qu’en général on garde dans sa manche. S’il eut recours à cet argument choc, presque vexé, en tout cas navré d’y être obligé, c’est uniquement parce que nous autres nous doutions, surtout [MASK].
+

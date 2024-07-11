@@ -1,0 +1,200 @@
+['</s>NOTUSED', 'Marie', 'Jean', 'Jésus', 'Dieu']	Grelutot	réplique toute la troupe. — Mangez-la... votre m... ! hurle [MASK]. Et jusqu’à ce que leur gorge sèche de soif, les enfants de mon village récitent par cœur, à haute et intelligible voix, ce qu’ils savent le mieux.
+
+['Elle', 'Maman', 'Marie', 'Il', 'Jeanne']	Berthe	LE PAPA On a beau être un esprit fort. D’habitude, le mot providentiel me choque. Pourtant il vient de se passer quelque chose d’extraordinaire. [MASK] jouait souvent autour du baquet, seule et loin de nous. Son frère même jouait d’un autre côté.
+
+['Il', 'Elle', 'Pierre', 'Jean', 'Joseph']	Philippe	— Avalez, dit-elle, à peine moins impérieuse que si elle eût donné de l’ouvrage. [MASK] but sans cérémonie, comme un trou dans une terre sèche, et brusquement il ôta de sa bouche le verre encore à moitié plein.
+
+['Mme', 'la', 'Madame', '</s>NOTUSED', 'madame']	Berthe	— C’est peut-être le même, dit [MASK]. XLVII Elle observe, par terre, deux insectes accouplés. — Regardez, dit-elle, une petite bête qui en mange une autre ! Elle dit d’une mouche : « Oh ! celle-là n’est pas dangereuse ;
+
+['Marie', 'Pierre', 'Jean', 'Jeanne', 'Lucien']	Papot	Il a chaud et s’essuie, d’un tour de bras, avec sa manche où pendent des brins de racine. Et, peu à peu, je m’occupe moins de la soupe. Je suis distrait par l’éclosion d’une perle sur le front de [MASK].
+
+['le', 'un', 'mon', 'ton', 'plus']	Pierre	Nous causerons, et si tu veux, nous profiterons de notre promenade pour mettre au courant quelques visites arriérées. Il y a des mois qu’on en doit une à nos vieux amis les Bernard. — Ah ! oui, dit [MASK] sérieux, ce sera plus amusant.
+
+['Pierrot', 'Joseph', 'Pierre', 'Jean', 'Jacques']	Grelutot	Dès que [MASK] a fini de jouer, il se redresse et, baissant les yeux, frottant ses pieds, il s’éloigne sans se presser, et il s’arrête encore çà et là, de peur qu’on ne croie qu’il se sauve.
+
+['Madame', 'madame', 'Monsieur', 'Mme', 'Julie']	Philippe	Vous né connaissez pas ce supplice ? — Non, monsieur, dit [MASK]. — Et le supplice d’être enfermé, le connaissez-vous ? Libre, vous vivez sainement dehors. Vous prenez de l’exercice, vous faites de l’hygiène sans le savoir.
+
+['Cela', 'Il', 'Ceci', 'Elle', 'Ca']	Gela	Il pouvait les traduire exactement : Finis , la fin, coronat , couronne, opus , l’œuvre. [MASK] signifiait : — J’ai bien mangé, avec appétit, d’un bout à l’autre de mon déjeuner. La dernière bouchée ne valait pas moins que la première.
+
+['Il', 'Elle', 'Chacun', 'Je', 'On']	Félix	[MASK] la devine et sent qu’elle monte, légère, parmi les arbres. Ils vont la toucher du bout de leurs pointes, l’accrocher au passage. Mais elle glisse, leur échappe, et verse devant elle, pour annoncer sa venue, une lueur claire comme un flot de petit-lait.
+
+['maman', 'madame', 'Monsieur', 'monsieur', 'Madame']	Berthe	imaginez qu’un de mes enfants a des pets-de-nonne autour du cou. — Comment ! madame, des pets-de-nonne ? se répond [MASK], vous voulez dire des mandarines ? — Pardon, madame, je dis des pets-de-nonne. Quand on les perce, il ne sort rien.
+
+['Jérôme', 'Jean', 'Jésus', 'Jérémie', 'Paul']	Julien	— C’est vrai, dit [MASK]. Aussitôt il accourt m’offrir sa truite. Fraîche comme si elle sortait de l’eau, elle palpite dans sa légère cette d’écaillés vert et or, et je me régalerai ce soir. LE PIED DE JÉRÔME
+
+['elle', 'il', 'on', 'maman', 'Maman']	Berthe	LA MAMAN Le baquet contenait-il un verre d’eau ? On la boirait. LE PAPA Précisément. S’il avait été plein, [MASK] y-aurait seulement trempé ses menottes, debout. Il était presque vide. Elle a dû se pencher et basculer. LA MAMAN
+
+['</s>NOTUSED', 'Elle', '...', 'Lui', 'lui']	PIERRE	Va, va, je sais bien qu’une maman n’achète pas ses bébés. LA MAMAN Ah ! et comment les trouve-t-elle, s’il te plaît ? [MASK], brandissant sa Première Année d’Histoire Naturelle. Va, va, je sais bien que tu fais des œufs.
+
+['il', 'Pierre', 'Joseph', 'Jean', 'David']	Grelutot	Bien qu’ils aient la supériorité du nombre, ils se défient et, quoique seul, [MASK] ne se sent pas plus brave qu’eux. Il jure le nom de Dieu, fouille du sabot les branches de sa cabane et gesticule.
+
+['–', '</s>NOTUSED', '—', '-', '«']	PIERRE	Tu as vu tomber ta petite sœur dans le baquet. Tu ris. Je te défends de rire. Ton rire m’afflige. [MASK] Je te jure, maman, que je ne l’ai pas poussée. LA MAMAN Il ne manquerait plus que cela.
+
+['</s>NOTUSED', '—', '»', '«', '–']	ANDRÉ	depuis, j’ai l’habitude ; j’entre et je sors par la porte sans môme lever les yeux. — Voilà un carreau cassé. [MASK]. — Oui, et je ne me presse pas de boucher le trou avec une feuille de journal.
+
+['<unk>', 'Alice', 'Emma', 'Anna', 'Anne']	Honorine	Les doigts secs d’[MASK] se nouent comme de la vigne au creux de son tablier Dans ses bas de laine noire, que lui reste-t-il de ses pieds ? Il y a quatre-vingt-six ans qu’elle marche avec. Dévêtue, elle terrifierait.
+
+['Il', 'On', 'Je', 'Chacun', 'Elle']	Grelutot	restez là, je n’ai pas besoin de vous. Mais, d’un bond, toute la troupe rassurée rejoint son chef ; ils se bousculent du coude et de l’épaule et font l’autre moitié du chemin. [MASK] pense qu’il est perdu.
+
+['Il', 'Lui', 'II', 'Monsieur', 'il']	Boussard	— Vous les donnerez à votre cochon. — Il les rebutera peut-être. Quelquefois un cochon est plus difficile qu’un homme. [MASK] se lève et ne se plaint pas, tandis que sa femme ne peut jamais dire une parole qui ne soit une plainte.
+
+['elle', 'il', 'je', 'Marie', 'Elle']	Berthe	Comme j’attrape un poisson, [MASK] tire aussi sa ficelle et dit : — Est-ce qu’il y en a un après la mienne ? — Non, tu as du le manquer. Repose ta ligne. Elle la pose à peine et tire de nouveau.
+
+['Socrate', 'Luther', 'Job', 'Jésus', 'César']	Hubert	Opus n’était plus qu’un sou étranger, percé, cassé, rouillé, sans valeur. — Supprimons opus , se dit [MASK]. Et il prit l’habitude de refuser une moitié de pomme, un verre de liqueur en ces termes : — Finis coronat !
+
+['il', 'Pierre', 'Michel', 'Jean', 'André']	Philippe	Le soir, sa soupe mangée chez lui, dans l’obscurité, [MASK] vient souvent respirer le frais à côté de moi. Il apporte sa chaise, s’installe il califourchon, sort ses pieds lourds de fatigue et les met sur ses sabots, à l’air.
+
+['on', 'je', 'chacun', 'il', 'elle']	Alexandre	Et [MASK] ne cesse de guetter à la girouette immobile la direction du vent. — Est-il pour nous, celui-là ? — Cet orage ? Oh ! il ne passera pas loin. On étouffe. — Fait-il beaucoup d’orages ici ?
+
+['il', 'on', 'Pierrot', 'lui', 'Il']	Philippe	C’est l’heure où le coucou chante avec sa voix de poterie brute. Demain matin, [MASK] se lèvera encore plus tôt que d’ordinaire, il travaillera avec repentir, taciturne et le nez bas, comme pour enterrer l’odeur de vin restée à son haleine.
+
+['Il', '</s>NOTUSED', 'Pierre', 'Joseph', 'Antoine']	Julien	MINUTES D’HORLOGE LA TRUITE [MASK] n’est pas pêcheur de son métier. Il ne pêche que lorsqu’il a le temps, et s’il attrape un poisson, il le garde. Or, il vient de prendre une belle traite qui pèse au moins deux livres.
+
+['Jean', 'le', 'Pierre', 'Monsieur', 'Marie']	Philippe	La poutre reste par terre, à la pluie, au soleil, dans l’herbe, et les gamins s’amusent à courir dessus, quand ils sortent de classe. IV — Qu’avez-vous donc à la main ? — Je me suis coupé un morceau du poignet, dit [MASK].
+
+['Madame', 'Monsieur', 'Voltaire', 'Napoléon', 'Charles']	Nanette	— Oh ! pas encore. Il n’y a rien de plus difficile que d’être imprimé dans les almanachs. — Je ne peux pas me figurer, dit [MASK], que les bêtises de noire pays intéressent tes Parisiens. — Les vôtres surtout les amusent.
+
+['il', 'elle', 'lui', 'ça', 'cela']	Berthe	Son nez portait au fond du baquet. Son visage seul baignait. Ses mains n’avaient aucune prise. Du reste, remarque-le, quand un enfant qui tombe se fait mal, il ne veut pas se relever. Et [MASK] ouvrait la bouche au lieu de la fermer.
+
+['Monsieur', 'Madame', 'madame', 'Marie', 'Jean']	Philippe	— Jamais personne ne m’a montré. — Et ça ne vous fait pas quelque petite chose ? — De tuer un canard, non, dit [MASK]. Peut-être que si c’était une autre bête !... Mais les canards, j’en tuerai tant qu’on voudra.
+
+['il', 'Louis', 'Pierre', 'Charles', 'Joseph']	Philippe	C’est pourquoi [MASK] ne fut porté sur aucune liste. Les électeurs crurent qu’il s’abstenait, et il lui fallut du courage pour cacher sa surprise, quand il n’entendit pas son nom sortir des urnes. Il avait désiré, tout jeune, être membre du conseil.
+
+['</s>NOTUSED', '«', '»', '—', '...']	ANDRÉ	— Je ne me trompe pas : la paille du toit de votre maison est neuve. [MASK]. — Oui, l’autre était pourrie. Il fallait la changer. Sans le malheur arrivé juste comme on jetait la vieille paille, j’aurais mis une couverture en ardoise.
+
+['Elle', 'elle', 'Madame', 'femme', 'Jeanne']	Berthe	Et si ça gêne madame, qu’elle aille se plaindre au duc de Bourbon ! XX [MASK] s’imagine que savoir lire, c’est tenir un livre ouvert et promener ses yeux sur la page, en parlant tout haut. Elle improvise ou elle répète des histoires.
+
+['!', 'aussi', 'seul', 'dehors', 'vite']	Pierre	A plat ventre, il regarde aussi les joujoux, ces richesses inutiles auxquelles sa sœur défend qu’on touche. — C’est pourtant à mon tour, dit-il, d’être malade. VIII Comme la maman reste au chevet de la petite sœur, il faut que je sorte [MASK].
+
+['Elle', 'Marie', 'elle', 'Il', 'Suzanne']	Berthe	[MASK] suit leur trace fraîche, les récolte par le milieu, et les met dans son tablier. Après les avoir longtemps promenés et bercés, elle s’assied et les regarde. Elle les tripote, les presse et les vide de la terre brune dont ils se nourrissent.
+
+['–', '-', '—', 'Maman', 'maman']	BERTHE	[MASK] C’est papa. LE PAPA Elle confond. Elle reste légèrement étourdie. Qu’importe ? elle vit. LA MAMAN Grâce au ciel ! Je déteste les patenôtres, mais j’ai envie de prier, de remercier quelqu’un. LE PAPA On a beau être un esprit fort.
+
+['Puis', 'Et', '</s>NOTUSED', 'Mais', 'Là']	BERTHE	LA MAMAN Si, si, ma fille, pousse. J’y tiens. Inutile de t’entêter. Je ne céderai pas. Nous resterons ici jusqu’à demain, s’il le faut. ( Silence prolongé. ) [MASK], subitement elle se dresse et triomphe.
+
+['—', 'dehors', '</s>NOTUSED', 'hélas', 'vite']	Coolus	Tout brûle dehors, [MASK]. Ferme vite les branches. L’ORAGE — Avez-vous peur de l’orage ? — De l’éclair ou du tonnerre ? — Des deux ; l’un tue et l’autre assomme. — Écoutez, franchement, j’aime mieux autre chose.
+
+['Marie', 'Jeanne', 'Alice', 'Sophie', 'Maman']	Berthe	— Dieu merci, dit [MASK], ma ficelle est pourtant assez mouillée. Elle patiente encore un tout petit peu, puis, libre de ne plus pécher si ça l’ennuie, elle quitte la place et va vers l’arrosoir où je jette mes poissons.
+
+['Elle', 'Marie', 'Maman', 'Jeanne', 'Suzanne']	Sapho	Et les voilà. Je devine tout, et, demain matin, le fermier sera chez moi de bonne heure, et il faudra raisonner, chicaner, s’excuser, finalement payer. [MASK] se rase contre le mur : elle avoue.
+
+['femme', 'fille', 'Marie', 'dame', 'mère']	Berthe	Les uns préfèrent coudre sans nœud, les autres avec un nœud. — Avec un nœud on coud mal, dit nettement [MASK]. Et comme elle lève les yeux pour voir si On la regarde, elle se pique un peu. Elle l’a senti à peine.
+
+['rien', 'madame', 'monsieur', 'Madame', 'Monsieur']	Honorine	Dès qu’elle apercevait le médecin, elle se sauvait par la porté de derrière, dans le jardin. Elle écoute si je lui parle encore, ou plutôt elle regarde si mes lèvres remuent. — Plaît-il ? — Rien, [MASK]. Vous me quittez ?
+
+['il', 'on', 'Il', 'Pierre', 'lui']	Philippe	XVIII Aux dernières élections municipales, [MASK] ne s’est pas présenté, ou plutôt on ne l’a pas présenté. Pourtant les deux listes rivales, celle du curé et celle des radicaux, lui ont fait des offres.
+
+['Papillon', 'Pierre', 'Jean', 'Madame', 'Antoine']	Joseph	— Écoute donc, bête, tu seras heureux comme un prince ; tu auras un chien ; tu partageras avec lui ton pain et ton fromage, et il ne voudra suivre que toi. — Oui, dit [MASK], et je l’appellerai Papillon ! XIV
+
+['Jésus', 'Adam', 'David', 'Joseph', '</s>NOTUSED']	Philippe	— Par Dieu ! dit-il, tout de même il y aurait moyen. II — Je suis venu au monde avec mes deux bras, dit [MASK]. A leur mariage, ils avaient, sa femme et lui, quatre bras. Chaque nouvel enfant ajoute les deux siens.
+
+['il', 'elle', 'personne', 'on', 'Il']	Noël	, au désespoir..., elle vient de repasser, sur son catalogue, les joujoux qu’elle désire. Jamais, jamais [MASK] ne voudra m’apporter les trois choses que je lui demande. LA MAMAN Lesquelles ? BERTHE Jamais il ne voudra.
+
+['On', 'Papa', 'Il', 'Je', 'Maman']	Boussard	A la fin, cette pluie acharnée nous met en rage. Toutes les pommes de terre et tous les haricots se perdent. [MASK] n’y tenait plus. Il est parti ce malin avec sa brouette et un sac et je le vois revenir avant la nuit.
+
+['Pierre', 'Jean', 'Jules', 'Pierrot', 'Monsieur']	Grelutot	— Si tu fais la moitié du chemin, nous ferons l’autre, dit le petit maître d’école qui reprend du courage pour lui et sa troupe. — Oui, dit [MASK], vous vous mettez tous contre un. La troupe, piquée, délibéré...
+
+['elle', 'Marie', 'Jeanne', 'Alice', 'Sophie']	Berthe	III Plusieurs soirs de suite, [MASK], avant d’aller au lit, cache un morceau de papier sous la table, et le lendemain elle n’en revient pas qu’il n’y soit plus. Et elle a beau varier ses cachettes, le papier disparaît toujours.
+
+['Marie', 'Julie', 'Madame', 'Sophie', 'Alice']	Philippe	Je travaille par nécessité. Quand il fait du soleil je préférerais me promener. Je fatigue beaucoup de tête. — Sûrement, dit [MASK], vous fatiguez plus de tête que moi. Moi, je ne fatigue que de corps.
+
+['il', 'elle', 'on', 'Il', 'Elle']	Berthe	Maintenant, c’est un petit fouet, qu’au bout de son bras nu qui sert de manche, [MASK] fait tournoyer, plus vite, encore plus vite, jusqu’à ce que le petit fouet se rompe et perde, sa mèche.
+
+['Il', 'Elle', 'On', 'Maman', 'Marie']	Papot	J’ai tellement faim que, si je ne me retenais pas, je mangerais tout sec, sans lard et sans légumes, les copeaux farineux de l’écuelle. [MASK] me dit : — En veux-tu un pour patienter ? — Non, merci, faites votre soupe.
+
+['</s>NOTUSED', '»', '–', '-', '—']	BERTHE	pourquoi que je ne me vois plus dans la glace ? LA MAMAN Sotte ! parce que tu fermes les yeux. Prends garde, tu te gantes mal. [MASK] Je fourre deux doigts dans la même guérite. Ce gant-là n’est pas aussi pareil que l’autre.
+
+['Il', 'On', 'Pierre', 'Jean', 'Joseph']	Philippe	[MASK] grimpe en haut, par l’échelle, pour descendre une gerbe. Sa fourche mal piquée cède et il tombe, en arrière, dans la grange. On le relève avec trois trous à la tète, trois trous qui faisaient une grosse bosse.
+
+['piano', 'peinture', 'musique', 'gymnastique', 'dessin']	Deibler	— C’est à croire, lui dis-je, que vous avez pris des leçons de [MASK]. Il répondit gravement : — Jamais personne ne m’a montré. — Et ça ne vous fait pas quelque petite chose ?
+
+['vrai', 'sûr', 'que', 'elle', 'certain']	Honorine	Ses jupes trempent ; et elle tape dur, tandis que la rivière lui caresse fraîchement les genoux. C’est [MASK], c’est la plus vieille de toutes. On ne la voit par les rues que sous sa hotte pleine de linge, comme si elle déménageait toujours.
+
+['Marie', 'Vénus', 'Jeanne', 'Sophie', 'Charlotte']	Philippe	Les yeux clairs tranquillisent par leur gaieté puérile, mais la bouche qui baille inutilement trouble un peu. Et quand cette bouche se ferme, la figure de [MASK] cesse de vivre. Elle ressemble à une motte de terre dont sa barbe serait l’herbe sèche. IX
+
+['Marie', 'maman', 'elle', 'Jeanne', 'Françoise']	Berthe	— Il faut maintenant, lui dis-je, que tu apprennes tes lettres. — Oui, dit [MASK]. Et elle s’imagine encore qu’écrire, c’est barbouiller, avec une plume, des feuilles de papier blanc, et tout le monde lui dit :
+
+['le', 'la', 'Marie', 'Madame', 'madame']	Philippe	La tète dépassait un peu, ahurie, presque immobile. — Attachez-lui sa tète avec une ficelle, dit la servante. Je tiendrai le bout, sans quoi il va retirer la tête. — Il n’aura pas le temps, dit [MASK].
+
+['lui', 'toi', 'vous', 'Pierre', 'elle']	Chocolat	Je veux me marier avec [MASK]. PIERRE Il ne voudra pas de toi. BERTHE Mais moi je voudrai de lui. PIERRE C’est défendu à une blanche de se marier avec un-noir. Les gens de la rue diraient : vous voyez cette petite fille, c’est la femme d’un nègre.
+
+['Madame', 'madame', 'celui', 'Voltaire', 'celle']	Philippe	N’est-il pas bon ? — Si, si, maîtresse, dit [MASK] qui tachait de rire. — Vous dites si, comme vous diriez non. Le vin aurait-il un goût ? — Non, non, maîtresse.
+
+['Merlin', 'Guillaume', 'Jean', 'Louis', 'Alexandre']	Philippe	— Les forces des deux partis sont égales, celte année, se disait [MASK]. Personne ne sait qui sera battu. Je ne veux pas me compromettre, je ne me fie qu’au hasard, et je me laisse mettre sur les deux listes.
+
+['Marie', 'Louise', 'madame', 'Madame', 'Marianne']	Berthe	Je n’ai rien mis au bout de la ficelle, ni hameçon, ni épingle tordue, de peur que [MASK] ne se pique, mais elle croit, puisque je le dis, que sa ligne est une vraie ligne comme la mienne.
+
+['Marie', 'Tout', 'Madame', 'Marguerite', 'Jeanne']	Berthe	[MASK] absorbée tourne sa cuiller dans sa tasse de tilleul et elle, regarde au fond de la tasse. — Ne faites pas de bruit, dit-elle, mon sucre est en train de s’évanouir. — Oh ! dit-elle, il pousse des petites bulles.
+
+['Pierre', 'Jean', 'François', 'Antoine', 'Jacques']	Philippe	J’avais envie d’aller ailleurs. Je me forçai à rester. La servante tendit à [MASK] le couperet de cuisine. Après en avoir tâté du doigt le tranchant, il préféra sa serpe. Il appliqua sur une bûche, plate le ventre du canard.
+
+['»', '?', '!', '...', '».']	PIERRE	Pour se faire sécher... As-tu remarqué que papa et maman se parlent quelquefois comme des petits oiseaux. BERTHE Oui... quinze et sept, vingt ; vingt et dix, quarante-deux ; quarante-deux et... [MASK]
+
+['Charles', 'Joseph', 'Jacques', 'Pierrot', 'Jules']	Philippe	Non que [MASK] se saoule ; il boit avec mesure, pour se récompenser, et il fait durer le plaisir. Ce n’est que très tard qu’il éprouve une espèce de joie puérile et bruyante qu’il connaît bien. Aussitôt il s’arrête de boire et quitte l’auberge.
+
+['Celui', '</s>NOTUSED', 'Lui', 'Celle', 'Pierrot']	Pierre	un à un. Et, quand c’est fini, il soupire : — Eh ben ! vrai, il en avait envie, celui-là ! XXV Le Radeau. [MASK] qui prend racine sur la plage, a mis son costume neuf et des bottines vernies.
+
+['Marie', 'Jules', 'Madame', 'Jeanne', 'Pierre']	Nanette	— Les vôtres surtout les amusent. — Ah ! ah ! dit [MASK], elles sont plus bêtes. Et ceux qui les lisent te donnent de l’argent ? — Ils le donnent au propriétaire du journal qui me le redonne après en avoir retenu une partie.
+
+['il', 'elle', 'Il', 'on', 'Françoise']	Papot	» LA GOUTTE Comme je l’aide à rentrer son bois et, que nous ramassons les dernières bûches, [MASK] me dit : — Tu restes manger la soupe ? Et je réponds : — Avec plaisir. Car je n’aime pas les cérémonies ;
+
+['Non', 'Monsieur', 'Oh', 'Oui', 'Madame']	Jérôme	A la fin, je lui ai dit : « Je veux bien souffrir, monsieur le docteur, mais je veux savoir si je souffrirai longtemps. » Il m’a répondu : « [MASK], vous n’en mourrez pas, mais vous ne guérirez pas.
+
+['Il', 'Pierre', 'Thomas', 'Jean', 'Antoine']	Émile	Tous ne sont pas des environs. Il en est qui viennent de loin. [MASK] observe de préférence les gamins de son âge qui circulent librement à la recherche d’un maître. Il ne fait pas attention aux colporteurs qui vendent des ceintures, des chaînes de montre et des porte-monnaie.
+
+['Monsieur', 'monsieur', 'madame', 'Madame', 'docteur']	Philippe	— C’est ce que je dis, rien ne vous force à travailler ; votre travail vous désennuie. — Vous êtes vraiment têtu aujourd’hui, [MASK]. Tout à l’heure, vous aviez l’air de me comprendre. Vous ne me comprenez donc plus ?
+
+['il', 'lui', 'le', 'elle', 'Pierre']	Philippe	Elle le tenait déjà l’année passée, et son père a dû le calotter. Elle le reprend plus fort cette année, mais [MASK] refuse. — Non, lui dit-il, quand je dis non, c’est non.
+
+['</s>NOTUSED', '—', '–', '-', '[...]']	BERTHE	LA MAMAN Il ne faut pas rester même sur le trottoir d’herbe, à cause des bœufs qui peuvent passer. [MASK] Tu peux être tranquille, ma vieille, je rentrerai vite à la maison, si je vois venir un gros bœuf, ou quelque autre bête cruelle.
+
+['Pierre', 'Jean', 'Pierrot', 'Antoine', 'Guillaume']	Philippe	Déjà on avait embarqué les bœufs, et [MASK], qui portait une veste sous sa blouse, montait dans les wagons à bestiaux, à côté du toucheur. Il était content, il riait, il parlait fort, lorsque accourut le fermier Corneille :
+
+['Pierre', 'chacun', 'Jean', 'Marie', 'Paul']	Félix	Et ils coupent, dans la tartine, des morceaux réguliers où le fromage éclate de blancheur et tremble sur le pain. Puis cela disparaît sans toucher aux lèvres minces et rasées, dans leur bouche profonde, et il n’en vient à celle de [MASK] que de l’eau aigre.
+
+['Marie', 'Jeanne', 'maman', 'Maman', 'Pierre']	Pierre	— Tu comprends, c’est un honneur de sortir avec moi. Aussi n’emporte ni cerceau ni ballon, ni pelle, ni ficelle. Ça nous gênerait. Tâche de n’avoir aucun besoin et surtout ne demande rien. — Alors, dit [MASK], j’emporterai ma canne.
+
+['docteur', 'monsieur', 'moi', 'Monsieur', 'désolé']	Jérôme	— Je n’en sais rien. Quand j’ai vu le médecin, il m’a dit : « J’arrive trop tard, [MASK] ! Il fallait soigner votre pied au commencement ». Il parlait à son aise. Est-ce qu’on peut lâcher le travail ?
+
+['elle', 'Marie', 'Alice', 'Anna', 'Jeanne']	Nanette	Puis les arbres sifflent et hurlent et [MASK] se bouche les oreilles. Elle saute en arrière du garde-fou et s’agriffe des pieds au pont qui tremble. Une odeur de roussi la suffoque, et vite elle se signe : Elle a vu le diable. II.
+
+['Il', 'On', 'Chacun', 'Elle', 'Ne']	Émile	J’achèterai un cochon, et chaque jour, après la classe, tu viendras le prendre pour le mener au champ. Tiens, mets dans ton porte-monnaie tes quarante sous d’arrhes. [MASK] croit que je moque de lui comme les autres.
+
+['Joseph', 'Pierre', 'Jean', 'Marie', 'Louis']	Philippe	— A leur âge, me dit [MASK], j’étais loué depuis longtemps. Je me rappelle que la première fois que j’ai couché avec mes moutons, je ne savais pas où faire mon lit. J’ai mis une hotte de paille dans le râtelier pour y dormir.
+
+['lui', 'Monsieur', 'le', 'il', 'Pierre']	Philippe	— Le laisses-tu là ? dit [MASK]. — Faut-il donc, dit-elle, que je l’apporte jusque dans ta tasse ? — On finit ce qu’on commence, dit-il. Ils font ces manières autant par gène que pour se taquiner.
+
+['Elle', 'On', 'Maman', 'Il', 'Marie']	Berthe	— Viens, que je t’achète une autre toupie, dit la maman. Mais la neuve ne remplace pas l’ancienne. [MASK] pleure d’indignation. Le soir, à table, on ne parle que du drame. Aucun doute : l’homme a volé la toupie.
+
+['–', '—', '</s>NOTUSED', '-', '...']	PIERRE	BERTHE Ah ! je croyais que c’était une vieille pantoufle, et je cherchais l’autre... pourquoi qu’il y a des gens qui se pendent ? [MASK] Pour se faire sécher... As-tu remarqué que papa et maman se parlent quelquefois comme des petits oiseaux.
+
+['</s>NOTUSED', '–', '-', '—', 'IX']	PIERRE	Tu n’en finis plus de te barbouiller avec ton os de lièvre. BERTHE Ma foi, il est trop difficile. Je ne comprends rien à cet os-là. [MASK] Passe-le moi, pour que je voie à mon tour si j’y comprendrais quelque chose. IX
+
+['on', 'il', 'elle', 'Marie', 'Jésus']	Philippe	— Je ne dis pas le contraire. XI En semaine, [MASK] ne va pas à l’auberge, et le soleil seul cuit ses joues ; mais chaque dimanche, après vêpres, le vin achève de les cuire.
+
+['toi', 'vous', 'lui', 'elle', 'eux']	Antoine	Ce chemin de fer qui s’en va, il est arrivé après le nôtre ? LA MAMAN Oui. PIERRE Et il repart avant nous ? LA MAMAN Dame ! tu vois. PIERRE Alors, ce n’est pas juste. XIX PIERRE Ce soir, à quatre heures, je jouerai avec [MASK].
+
+['Monsieur', 'Madame', 'monsieur', 'madame', 'non']	Philippe	— Du tout, du tout, [MASK], et je donnerais gros pour avoir le courage de me lever matin. Je vous envie, vous êtes sur vos jambes au premier rayon de soleil, et cela ne vous fait jamais de peine.
+
+['</s>NOTUSED', '–', '-', '—', '...']	BERTHE	Je ne te le prête pas, tu comprends, je te le donne, je te le donne. [MASK] Oui. PIERRE D’ailleurs, écoute, tu n’en as pas besoin et je te donnerai, un autre matin, quelque chose de bien plus beau.
+
+['Il', 'Chacun', 'Elle', 'On', 'Un']	Octave	Ils grandissent et se multiplient. Les plus proches en appellent de nouveaux qui montrent déjà la tête, et ceux-là font des signes lents à d’autres qu’on ne voit pas. [MASK] revient, le visage ténébreux.
+
+['Et', 'Puis', 'Elle', 'Alors', '</s>NOTUSED']	Pierre	Mais elle prépare le feu du lendemain, donne encore un coup de balai et leur dit : — Mes petits, moi je me couche ; éteignez la lampe pour que je me déshabille. [MASK], d’une bouffée, souffle la lampe.
+
+['Maman', 'Marie', 'maman', 'Pierre', 'Jean']	Grelutot	— Ch... au bout, dit le petit maître d’école railleur. — Oh ! par exemple, m... pour toi ! répond [MASK]. — Je t’emm... aussi ! dit le petit maître d’école. — Et moi je vous emm... tous !
+
+['La', 'Cette', 'Ma', 'Une', 'Notre']	Sapho	[MASK] résignée n’est qu’une pelote. Elle ne souffle plus. Sans la lueur tremblante de ses yeux, je la croirais morte. Et je les corrige avec une application froide, évitant de leur dire des injures, au milieu d’un nuage de poussière et de balle d’avoine.
+
+['maman', 'Alice', 'Marie', 'Jeanne', 'Madeleine']	Berthe	Le soir, à table, on ne parle que du drame. Aucun doute : l’homme a volé la toupie. — C’est un pauvre homme, dit-la maman à [MASK]. Il n’a pas de quoi acheter des toupies pour sa petite fille.
+
+['entre', 'viens', 'pénètre', 'rentre', 'regarde']	Coolus	Entre, [MASK]. Ce n’est ici qu’ombre et fraîcheur. A peine quelques gouttes lumineuses tombent çà et là du ciel. Vois ce scarabée sur cette bouse, comme une riche épingle sur une épaisse cravate. Déplace ces moucherons et marche un instant la tôle dans leur fragile orchestre.
+
+['Lui', 'Pierre', 'Joseph', 'Louis', 'Émile']	Pierre	Elle ne va pas mieux ! nous n’y comprenons rien. [MASK] non plus. A plat ventre, il regarde aussi les joujoux, ces richesses inutiles auxquelles sa sœur défend qu’on touche. — C’est pourtant à mon tour, dit-il, d’être malade.
+
+['Il', 'On', 'Hugo', 'Augustin', 'Baudelaire']	Hubert	Ce fut le sens du mot opus qui s’obscurcit d’abord. [MASK] ne trouvait qu’avec peine le mot correspondant. Il le perdit tout à fait. Opus n’était plus qu’un sou étranger, percé, cassé, rouillé, sans valeur.
+
+['papa', 'maman', 'monsieur', 'Papa', 'Maman']	Pierre	— Oui, maman, c’est un monsieur qui vient nous dire quel jour on va mourir. XIV — Il a très bien appris ce matin, me dit sa maman au déjeuner. Tu peux l’interroger. Voyons, [MASK], qu’est-ce qu’on appelle un substantif ?
+
+['Elle', 'Il', 'Je', 'Le', 'Un']	Honorine	— Depuis la mort de mon frère Toine, elle apparaît moins. Elle devient rare, de plus en plus rare. Et nous rêvons un peu. [MASK] rêve trouble, et moi je songe à cette dame blanche que je me rappelle bien avoir presque vue un jour, étant petit.
+

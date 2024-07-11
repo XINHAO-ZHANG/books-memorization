@@ -1,0 +1,200 @@
+['cela', 'ceci', 'aristote', 'lui-même', 'mao']	Bellini	On nous jouait l’autre jour de lui une chose, très belle d’ailleurs, un peu froide, où il y a un thème russe. C’en est touchant de penser qu’il croyait cela russe. Et de même les peintres chinois ont cru copier [MASK].
+
+[')', '-', 'lucien', 'maurice', 'émile']	Saint-Loup	Je ne suis pas fâché de ton approbation, car tes avis semblent faire plus impression que les miens sur mon ami, dit en riant [MASK], soit que cette sympathie naissante entre son camarade et moi l’agaçât un peu, soit qu’il trouvât gentil de la consacrer en la constatant aussi officiellement.
+
+['lui', 'moi', 'elle', 'vous', 'jacques']	Saint-Loup	À sept heures je m’habillais et je ressortais pour aller dîner avec [MASK] à l’hôtel où il avait pris pension. J’aimais m’y rendre à pied. L’obscurité était profonde, et dès le troisième jour commença à souffler, aussitôt la nuit venue, un vent glacial qui semblait annoncer la neige.
+
+['elle', 'qui', ',', 'mère', 'et']	Françoise	[MASK] m’avait laissé seul dans la salle à manger, en me disant que j’avais tort d’y rester avant qu’elle eût allumé le feu. Elle allait faire à dîner, car avant même l’arrivée de mes parents et dès ce soir, ma réclusion commençait.
+
+['passe', 'passe', 'pass', 'dé', 'sauve']	Cambronne	il a le fumier épique ! C’est l’Homère de la vidange ! Il n’a pas assez de majuscules pour écrire le mot de [MASK].Malgré l’extrême fatigue qu’elle commençait à éprouver, la princesse était ravie, jamais elle ne s’était sentie mieux.
+
+['elle', 'il', 'on', 'elle-même', 'elle']	Oriane	Oui, je comprends bien, la princesse la reçoit par bonté. Et puis elle la connaît. Vous dites qu’[MASK] l’a vue, c’est possible, mais très peu je vous assure. Et puis je vais dire à la princesse, il y a aussi un peu de ma faute.
+
+['vous', 'et', 'dieu', 'la', 'si']	Combray	Je commençais à les connaître, ainsi que sa voix, si lourdement traînante, si âprement savoureuse. Dans ces yeux et dans cette voix je retrouvais beaucoup de la nature de [MASK]. Certes, dans l’affectation avec laquelle cette voix faisait apparaître par moments une rudesse de terroir
+
+['propos', 'part', 'paul', 'moi', 'peine']	Saint-Loup	Afin d’être plus assuré pourtant que cet art de la guerre fût bien un art au sens spirituel du mot :— Vous m’intéressez, pardon, tu m’intéresses beaucoup, dis-je à [MASK], mais dis-moi, il y a un point qui m’inquiète.
+
+['il', 'elle', 'me', 'lui', 'je']	Bloch	Et tu ne sais même pas en quoi c’est placé, s’il a des valeurs françaises, étrangères, des terres ?Je ne pus le renseigner en rien. Cessant de parler à mi-voix, [MASK] demanda très haut la permission d’ouvrir les fenêtres et, sans attendre la réponse, se dirigea vers celles-ci.
+
+['et', 'il', 'on', ',', '-']	Loup	-[MASK] employait à tout propos ce mot de « faire » pour « avoir l’air », parce que la langue parlée, comme la langue écrite, éprouve de temps en temps le besoin de ces altérations du sens des mots, de ces raffinements d’expression.
+
+['cela', 'guillaume', 'louis', 'robert', 'david']	Albertine	De toute évidence, quand j’avais connu [MASK], le mot de « mousmé » lui était inconnu. Il est vraisemblable que, si les choses eussent suivi leur cours normal, elle ne l’eût jamais appris, et je n’y aurais vu pour ma part aucun inconvénient car nul n’est plus horripilant.
+
+['sachs', 'parkinson', 'flaubert', 'jeanne', 'pénélope']	Swann	(La maladie de [MASK] était celle qui avait emporté sa mère et dont elle avait été atteinte précisément à l’âge qu’il avait. Nos existences sont en réalité, par l’hérédité, aussi pleines de chiffres cabalistiques, de sorts jetés, que s’il y avait vraiment des sorcières.
+
+['moi', 'toi', 'vous', 'lui', 'nous']	Gilbert	Au fond, reprit la duchesse, qui tenait à son idée, la vérité c’est que, comme dit mon beau-frère Palamède, l’on a entre soi et chaque personne le mur d’une langue étrangère. Du reste je reconnais que ce n’est exact de personne autant que de [MASK].
+
+['chacun', 'tous', 'autrui', 'dieu', 'elle-même']	Françoise	Et toujours ma grand’mère avait répondu qu’elle ne sortait pas en ce moment, dans une de ces lettres que, par une habitude nouvelle et que nous ne comprenions pas, elle ne cachetait plus jamais elle-même et laissait à [MASK] le soin de fermer.
+
+['</s>', 'il', '_', 'on', '-']	Saint-Loup	Un officier, grand, beau, majestueux, déboucha à pas lents et solennels d’un escalier. [MASK] le salua et immobilisa la perpétuelle instabilité de son corps le temps de tenir la main à la hauteur du képi.
+
+['monsieur', 'madame', 'messieurs', 'docteur', 'moi']	Basin	Je suis un homme calme, moi, mais elle nous ferait plutôt mourir.— Je suis tout à fait de votre avis, [MASK], dit la duchesse, allons dans le vestibule, nous savons au moins pourquoi nous descendons de votre cabinet, tandis que nous ne saurons jamais pourquoi nous descendons des comtes de Brabant.—
+
+['il', 'on', 'dieu', 'jésus', 'qui']	Swann	C’est une chose de toute beauté, moitié étrusque, moitié égyptienne...— Égyptienne ? demanda la princesse à qui étrusque disait peu de chose.— Mon Dieu, un peu les deux, [MASK] nous disait cela, il me l’a expliqué, seulement, vous savez, je suis une pauvre ignorante.
+
+['monsieur', 'madame', 'mademoiselle', 'messieurs', 'seigneur']	Grouchy	Comme son mari s’excusait du retard :— Je vois, dit-elle en prenant la parole, que même pour les petites choses, être en retard c’est une tradition dans votre famille.— Asseyez-vous, [MASK], et ne vous laissez pas démonter, dit le duc.—
+
+['lui', 'elle', 'moi', 'lui-même', 'charles']	Swann	hurla le duc, et se tournant vers [MASK] : « Quel bonheur qu’il soit vivant ! Il va reprendre des forces peu à peu. Il est vivant après une crise pareille. C’est déjà une excellente chose. On ne peut pas tout demander à la fois.
+
+['</s>', 'elle', 'il', 'on', 'et']	Alix	Voilà où elle est incomparable.[MASK] supporta le coup sans faiblir. Elle restait de marbre. Son regard était perçant et vide, son nez noblement arqué. Mais une joue s’écaillait. Des végétations légères, étranges, vertes et roses, envahissaient le menton.
+
+['moi', 'toi', 'nous', 'elle', 'vous']	Robert	Elle ne pleure pas la mort de sa sœur, elle la rit aux éclats. Elle se dit probablement, comme [MASK], que sic transit, enfin je ne sais plus, ajouta-t-elle par modestie, quoiqu’elle sût très bien.
+
+['il', 't-il', '-il', ',', 'elle']	Swann	« Mais il me semble que je connais ça », fit [MASK] avec la grimace des gens souffrants pour qui parler est déjà une fatigue. « Oui, dit le duc rendu sérieux par le retard que mettait le connaisseur à exprimer son admiration. Vous l’avez probablement vu chez Gilbert.—
+
+['il', 'le', 'un', 'bruit', 'pour']	Prométhée	Les rues vides sont remplies pour un instant par les ailes rapides et successives des tramways chanteurs. Dans la chambre elle-même, le malade vient de créer, non pas, comme [MASK], le feu, mais le bruit du feu.
+
+['ce', 'elle', 'il', 'ceci', 'cela']	Oriane	C’est que je vais vous dire, on m’a assuré qu’elle me croit tout à fait idiot.— Cela, je ne le crois pas : [MASK] n’est pas un aigle, mais elle n’est tout de même pas stupide.—
+
+['je', 'tu', ':', 'elle', 'oui']	Robert	Écoute, puisque je vois que tu veux regarder tout cela, être poétique, me dit [MASK], attends-moi là, mon amie habite tout près, je vais aller la chercher.En l’attendant je fis quelques pas, je passais devant de modestes jardins.
+
+['il', 'on', 'elle', 'monsieur', 'madame']	Monserfeuil	Mais Madame, s’écria-t-elle, [MASK] n’a aucune espèce de crédit ni de pouvoir avec le nouveau gouvernement. Ce serait un coup d’épée dans l’eau.— Je crois qu’il pourrait nous entendre, murmura la princesse en invitant la duchesse à parler plus bas.—
+
+['elle', "c'", 'il', 'on', 'tout']	Françoise	Tout était toujours à ses dépens, même si la famille, elle restait des mois et an-nées. (Cette réflexion n’avait rien de désobligeant pour nous, car [MASK] était d’un temps où « dépens » n’était pas réservé au style judiciaire et signifiait seulement dépense.
+
+["j'", 'il', 'dieu', 'monsieur', 'elle']	Elstir	Je ne dis du reste pas cela contre lui, répondit la duchesse, je partage sa manière de voir. Quoique [MASK] ait fait un beau portrait de moi. Ah ! vous ne le connaissez pas ? Ce n’est pas ressemblant mais c’est curieux.
+
+['allons', 'enfants', 'allez', 'dit-elle', 'voyons']	Basin	Allons, [MASK], n’ayez pas l’air d’insinuer du mal de nos parents.— Il la trouve trop méchante ? demanda vivement la princesse.— Oh ! pas du tout, répliqua la duchesse. Je ne sais pas qui a dit à Votre Altesse qu’elle était médisante.
+
+['elle', 'il', 'celle-ci', "j'", 'celui-ci']	Albertine	Je n’obéis pas tout de suite à cette invitation, un autre l’eût même pu trouver superflue, car [MASK] avait une prononciation si charnelle et si douce que, rien qu’en vous parlant, elle semblait vous embrasser.
+
+['david', 'thomas', 'jésus', 'samuel', 'georges']	Zénaïde	« Viens, viens, insistait [MASK] en vantant les bonnes choses qu’il y aurait à déjeuner. Tu mangeras une purée de marrons, je ne te dis que ça, et il y aura sept petites bouchées à la reine.
+
+['chacun', 'tout', 'tous', 'maman', 'moi']	Saint-Loup	Telle est l’amitié.Le troisième soir, un de ses amis auquel je n’avais pas eu l’occasion de parler les deux premières fois, causa très longuement avec moi ; et je l’entendais qui disait à mi-voix à [MASK] le plaisir qu’il y trouvait.
+
+['</s>', 'il', 'lui', 'me', 'elle']	Françoise	Comment, déjà la lampe ? Mon Dieu que cette lumière est vive !Mon but était sans doute par la seconde de ces phrases de dissimuler mon trouble, par la première d’excuser mon retard. [MASK] répondit avec une ambiguïté cruelle :— Faut-il que j’éteinde ?
+
+['vendée', 'france', 'religion', 'italie', 'suite']	Napoléon	Si j’avais le temps de te raconter à ce point de vue les guerres de [MASK], je t’assure que ces simples mouvements classiques que nous étudions, et que tu nous verras faire en service en campagne, par simple plaisir de promenade, jeune cochon ;
+
+[',', 'se', 'il', 'et', 'temps']	Bloch	[MASK] se leva pour partir. Il avait dit tout haut que l’incident du vase de fleurs renversé n’avait aucune importance, mais ce qu’il disait tout bas était différent, plus différent encore ce qu’il pensait : «
+
+['napoléon', 'pitt', 'talleyrand', 'voltaire', 'robespierre']	Robert	Mais d’ailleurs cela revint au même car elle n’en voulut pas, et même, dans la suite, il ne réussit jamais à le lui faire accepter. Certains amis de [MASK] pensaient que ces preuves de désintéressement qu’elle donnait étaient un calcul pour se l’attacher.
+
+['celui-ci', 'lui', 'lui-même', 'celui-là', 'napoléon']	Bloch	Puis elle se tourna, débordante d’une vie retrouvée, vers le marquis d’Argencourt tandis que [MASK] s’éloignait persuadé qu’elle était « ramollie ». Plein de curiosité et du dessein d’éclairer un incident si étrange, il revint la voir quelques jours après.
+
+['40', '20', '13', '28', '18']	grand’mère	Maman me demanda d’aller chercher un peu d’eau et de vinaigre pour imbiber le front de [MASK]. C’était la seule chose qui la rafraîchissait, croyait maman qui la voyait essayer d’écarter ses cheveux. Mais on me fit signe par la porte de venir.
+
+['on', 'elle', 'se', 'il', '</s>']	Albertine	Les femmes qu’on connaît d’abord chez l’entremetteuse n’intéressent pas parce qu’elles restent invariables.D’autre part [MASK] tenait, liées autour d’elle, toutes les impressions d’une série maritime qui m’était particulièrement chère.
+
+['il', 'elle', 'on', 'chacun', 'dieu']	Beethoven	Peut-être êtes-vous atteint d’une affection du nerf optique. Si vous aimez davantage ce genre de beauté, voici un arc-en-ciel de Turner qui commence à briller entre ces deux Rembrandt, en signe de notre réconciliation. Vous entendez : [MASK] se joint à lui.
+
+['elle', 'lui', 'moi', 'elle-même', 'dieu']	Robert	Ces sentiments se rapportaient à [MASK], elle était sincère. Mais elle cessa de l’être pour redevenir grande dame :— J’ai été intéressée, si heureuse, de causer un peu avec vous. Merci ! merci !
+
+['</s>', 'et', 'qui', 'le', 'elle']	Françoise	Et comme le démon du pastiche, et de ne pas paraître vieux jeu, altère la forme la plus naturelle et la plus sûre de soi, [MASK], empruntant cette expression au vocabulaire de sa fille, disait que j’étais dingo.
+
+[':', '.', '...', '!', 'madame']	Swann	Je m’excuse d’interrompre pour vous dire que j’ai envoyé la photographie, dit [MASK]. Je ne comprends pas qu’on ne vous l’ait pas donnée.— Ça ne m’étonne qu’à moitié, dit la duchesse. Mes domestiques ne me disent que ce qu’ils jugent à propos.
+
+['le', 'de', 'la', 'un', ',']	Robert	d’abord il a des yeux ravissants, et qui ont une manière de regarder les femmes ! on sent qu’il doit les aimer.— Tais-toi au moins jusqu’à ce que je sois parti, si tu es folle, s’écria [MASK]. Garçon, mes affaires.
+
+[',', 'lui', '</s>', 'lui-même', 'chacun']	Bloch	; car l’Ambassadeur avait l’air de s’adresser en lui à tout un parti, d’interroger [MASK] comme s’il avait reçu les confidences de ce parti et pouvait assumer la responsabilité des décisions qui seraient prises. «
+
+['lui', 'elle', 'moi', 'harry', 'jacques']	Robert	C’était une grande douceur pour [MASK], car il se rendait compte combien ils avaient tout de même vécu intimement ensemble, rien qu’à voir que, même s’il prenait à lui seul une grande moitié du lit, il ne la dérangeait en rien pour dormir.
+
+['enfance', 'été', 'amour', 'anniversaire', 'enfant']	Albertine	Un sourire semblait posé sur les lèvres de ma grand’mère. Sur ce lit funèbre, la mort, comme le sculpteur du moyen âge, l’avait couchée sous l’apparence d’une jeune fille.Chapitre deuxièmeVisite d’[MASK]. Perspective d’un riche mariage pour quelques amis de Saint-Loup.
+
+['elle', 'même', 'je', 'il', 'celle-ci']	Françoise	Quand [MASK], le soir, était gentille avec moi, me demandait la permission de s’asseoir dans ma chambre, il me semblait que son visage devenait transparent et que j’apercevais en elle la bonté et la franchise.
+
+['jacques', 'jean', 'celui-ci', 'philippe', 'louis']	Morel	Je me rendis vite compte que le fils de [MASK] était très « arriviste ». Ainsi, ce jour-là, il me demanda, étant un peu compositeur aussi, et capable de mettre quelques vers en musique, si je ne connaissais pas de poète ayant une situation importante dans le monde « aristo ».
+
+['</s>', '...', '.', 'et', ')']	Swann	» [MASK], cependant, sans avoir l’air d’entendre, considérait la duchesse comme il eût fait d’une toile de maître et chercha ensuite son regard en faisant avec la bouche la moue qui veut dire : « Bigre ! »
+
+['il', 'on', 'qui', 'dreyfus', 'elle']	Swann	.) Mais enfin maintenant ça s’aggrave de l’affaire Dreyfus, [MASK] aurait dû comprendre qu’il devait, plus que tout autre, couper tout câble avec ces gens-là, or, tout au contraire, il tient des propos fâcheux. »
+
+['écoutez', 'ecoutez', 'écou', 'attendez', 'écoute']	Basin	Écoutez, [MASK], laissez-moi, j’aurai justement quelque chose à lui faire dire dans la soirée je ne sais au juste à quelle heure. Ne bougez surtout pas d’ici d’une minute, dit-elle au valet de pied désespéré.
+
+[':', 'que', 'de', 'technique', ',']	balzacien	Tu comprends bien que, si je te demande cela, je m’en moque comme de l’an quarante, mais c’est au point de vue [MASK], tu comprends. Et tu ne sais même pas en quoi c’est placé, s’il a des valeurs françaises, étrangères, des terres
+
+['entre', 'arrêt', 'un', 'une', 'art']	Homère	Et j’arrivais à me demander s’il y avait quelque vérité en cette distinction que nous faisons toujours entre l’art, qui n’est pas plus avancé qu’au temps d’[MASK], et la science aux progrès continus. Peut-être l’art ressemblait-il au contraire en cela à la science
+
+['il', 'elle', 'ce', 'celui-ci', 'je']	Robert	Je vous l’écrirai dès que je le saurai.Certes [MASK] n’était nullement de ces fils qui, quand ils sont dans le monde avec leur mère, croient qu’une attitude exaspérée à son égard doit faire contrepoids aux sourires et aux saluts qu’ils adressent aux étrangers.
+
+['ce', 'cela', 'tout', 'ça', 'dieu']	Saint-Loup	Pourtant le monsieur battu était excusable en ceci qu’un plan incliné rapproche assez vite le désir de la jouissance pour que la seule beauté apparaisse déjà comme un consentement. Or, que [MASK] fût beau n’était pas discutable.
+
+['non', 'moi', 'monsieur', 'peut-être', 'ça']	Oriane	Mais nous allons regarder votre photographie. Défaites l’enveloppe, dit la duchesse à un valet de pied.— Mais, [MASK], pas ce soir ! vous regarderez cela demain, implora le duc qui m’avait déjà adressé des signes d’épouvante en voyant l’immensité de la photographie.—
+
+['qui', 'et', 'mais', 'laquelle', 'goethe']	Saint-Loup	Aussi en ce qui concernait ma modeste thèse, [MASK], absolument comme si elle eût toujours habité son cerveau et si je ne faisais que chasser sur ses terres, crut devoir me souhaiter la bienvenue avec chaleur et m’approuver.— Mais oui ! le milieu n’a pas d’importance.
+
+['hôtel', 'maître', 'chambre', 'logis', 'chef']	Françoise	[MASK], son valet de pied, le maître d’hôtel entendaient les coups de sonnette non comme un appel et sans songer à venir, mais pourtant comme les premiers sons des instruments qui s’accordent quand un concert va bientôt recommencer et qu’on sent qu’il n’y aura plus que quelques minutes d’entr’acte.
+
+['chacun', ',', 'moi-même', 'tout', 'aussi']	Saint-Loup	Dès la première fois, avant qu’on se mît à table, j’entraînai [MASK] dans un coin de la salle à manger, et devant tous les autres, mais qui ne nous entendaient pas, je lui dis :
+
+['lui', 'toi', 'elle', 'moi', 'vous']	Boucheron	C’est un collier qu’elle a vu chez [MASK]. C’est un peu cher pour moi en ce moment : trente mille francs. Mais ce pauvre loup, elle n’a pas tant de plaisir dans la vie. Elle va être joliment contente.
+
+['</s>', 'il', 'et', '"', 'cela']	Françoise	Dans une guerre, celui qui n’aime pas son pays n’en dit pas de mal, mais le croit perdu, le plaint, voit les choses en noir.[MASK] nous rendait un service infini par sa faculté de se passer de sommeil, de faire les besognes les plus dures.
+
+['présent', 'dire', 'penser', 'voir', 'rien']	Bloch	Je parlai à ce dernier du nouvel écrivain. Il me dégoûta de lui moins en m’assurant que son art était rugueux, facile et vide, qu’en me racontant l’avoir vu, ressemblant, au point de s’y méprendre, à [MASK].
+
+['le', 'de', 'la', '"', 'du']	Legrandin	[MASK], qui se dirigeait vers la place de la Concorde, nous donna un coup de chapeau, en s’arrêtant, l’air étonné. Moi qui n’étais pas encore détaché de la vie, je demandai à ma grand’mère si elle lui avait répondu, lui rappelant qu’il était susceptible.
+
+['cro', 'jack', 'cri', 'pier', 'lan']	Saint	il ne faut jamais discuter le choix des amants.Mais après avoir posé ce principe, elle y manqua immédiatement en critiquant le choix de [MASK]-Loup.— Voyez-vous, tout de même, je trouve étonnant qu’on puisse trouver de la séduction à une personne ridicule.
+
+['</s>', 'elle', 'il', 'on', "c'"]	Rachel	Mais vue ainsi, c’était une autre femme. [MASK] avait un de ces visages que l’éloignement — et pas nécessairement celui de la salle à la scène, le monde n’étant pour cela qu’un plus grand théâtre — dessine et qui, vus de près, retombent en poussière.
+
+[',', 'bien', 'lui', 'en', 'de']	Jupien	Mais aidée de ses amies elle n’avait besoin de personne. Aussi [MASK], son oncle, avait-il sollicité un emploi. Il fut libre d’abord de rentrer à midi, puis, ayant remplacé définitivement celui qu’il secondait seulement, pas avant l’heure du dîner.
+
+['elle', 'il', ',', 'celui-ci', 'louise']	Saint-Loup	Je suis très flattée.— Tiens, je vais un peu près de ma mère, je te donne ma chaise, me dit [MASK] en me forçant ainsi à m’asseoir à côté de sa tante.Nous nous tûmes tous deux.—
+
+['m', 'lui', 'elle', 'paul', 'disparu']	Albertine	Cette fois-ci pourtant, certains signes semblaient indiquer que des choses nouvelles avaient dû se passer dans cette vie. Mais il fallait peut-être tout simplement induire d���eux qu’on change très vite à l’âge qu’avait [MASK].
+
+['elle', 'lui', 'moi', 'nous', 'qui']	Albertine	» Elle semblait une magicienne me présentant un miroir du Temps. En cela elle était pareille à tous ceux que nous revoyons rarement, mais qui jadis vécurent plus intimement avec nous. Mais avec [MASK] il n’y avait que cela.
+
+['celui-là', 'ceux-là', 'celle-là', 'celui-ci', 'tous']	Saussier	Alors il nous a dit qu’en tout cas on saurait la vérité, car l’affaire allait être entre les mains de [MASK], et que celui-là, soldat républicain (notre ami est d’une famille ultra-monarchiste), était un homme de bronze, une conscience inflexible.
+
+[',', 'bien', 'tout', 'beaucoup', 'assez']	Saint-Loup	Le prince s’éloigna en ajoutant au salut d’adieu qu’il me fit, un sourire qui montrait [MASK] et semblait s’excuser sur la volonté de celui-ci de la brièveté d’une présentation qu’il eût souhaitée plus longue.
+
+['montréal', 'londres', 'washington', 'paris', 'chacun']	Swann	« Eh bien ! on ne sait pas. On ne sait jamais. Ce sont des musiques invisibles. C’est joli, n’est-ce pas, me dit-il d’un ton légèrement impertinent et qui pourtant rappelait un peu l’influence et l’accent de [MASK].
+
+['allons', 'allez', 'monsieur', 'va', 'seigneur']	Basin	; comme ce mot tend à lui en dénier certaines du cœur, il me semble inopportun.— Dénier ! inopportun ! comme elle s’exprime bien ! dit le duc avec une ironie feinte et pour faire admirer la duchesse.— Allons, [MASK], ne vous moquez pas de votre femme.—
+
+['papillon', 'aigle', 'papillons', 'phénix', 'chauve-souris']	Mercure	Un tel courant de vie affluait à mes nerfs qu’aucun de mes mouvements ne pouvait l’épuiser ; chacun de mes pas, après avoir touché un pavé de la place, rebondissait, il me semblait avoir aux talons les ailes de [MASK].
+
+['"', '!', '.', '?', ')']	Babal	« Snob, [MASK] ! Mais vous êtes fou, mon pauvre ami, c’est tout le contraire, il déteste les gens brillants, on ne peut pas lui faire faire une connaissance. Même chez moi ! si je l’invite avec quelqu’un de nouveau, il ne vient qu’en gémissant.
+
+['</s>', 'il', 'on', 'elle', '"']	Robert	On a dit aussi que le silence était un supplice, et capable de rendre fou celui qui y était astreint dans les prisons. Mais quel supplice — plus grand que de garder le silence — de l’endurer de ce qu’on aime ! [MASK] se disait : «
+
+['celui-ci', 'colère', 'celle-ci', 'marguerite', 'madeleine']	Robert	Et se tournant vers le danseur :— Ah ! vraiment il est épatant avec ses mains. Moi qui suis une femme, je ne pourrais pas faire ce qu’il fait là. Et se tournant vers lui en lui montrant les traits convulsés de [MASK] : «
+
+['il', 'qui', 'et', 'jésus', 'dieu']	Norpois	Vous avez bien fait de ne pas venir dîner avant-hier, il y avait une barbue à l’acide phénique ! Ça n’avait pas l’air d’un service de table, mais d’un service de contagieux. Vraiment [MASK] pousse la fidélité jusqu’à l’héroïsme : il en a repris !
+
+['début', 'luther', 'base', 'quelques-uns', 'certains']	Saint-Loup	Autant par politesse pour ses amis à qui les professions de foi dreyfusardes de [MASK] étaient pénibles que parce que le reste m’intéressait davantage, je demandai à mon voisin si c’était exact que ce commandant fît, de l’histoire militaire, une démonstration d’une véritable beauté esthétique.—
+
+['jeanne', 'tous', 'marie', 'marie-louise', 'madame']	Robert	C’était, disait-on, la parfaite chrétienne. Elle tenait à faire faire un mariage colossalement riche à [MASK]. Être grande dame, c’est jouer à la grande dame, c’est-à-dire, pour une part, jouer la simplicité.
+
+['maison', 'classe', 'musique', 'pension', 'chapelle']	Saint-Loup	) Mais — cette exception faite — la maîtresse de [MASK] parlait des artistes les plus connus sur un ton d’ironie et de supériorité qui m’irritait, parce que je croyais — faisant erreur en cela — que c’était elle qui leur était inférieure.
+
+['encore', 'aussi', 'ce', ',', 'que']	Swann	Mais [MASK], précisément au moment même où, si lucide, il lui était donné, grâce aux données héritées de son ascendance, de voir une vérité encore cachée aux gens du monde, se montrait pourtant d’un aveuglement comique.
+
+['moi', 'lui', 'toi', 'nous', ',']	Boucheron	Personne d’autre ne pourra te le donner, car je l’ai retenu chez [MASK] et j’ai sa parole qu’il ne le vendra qu’à moi.— C’est bien cela, tu as voulu me faire chanter, tu as pris toutes tes précautions d’avance.
+
+['pas', 'encore', 'juste', 'donc', 'moi']	Oriane	» répondit-il en riant au duc, lequel ne put laisser échapper un mouvement de rage. Quand elle fut calmée : « Vous êtes bien gentils tous les deux, attendez [MASK] un instant, je vais mettre ma queue de morue et je reviens.
+
+['moi', 'qui', 'vous.', 'vous', '...']	Jules.—	Taisez-vous, espèce d’idiot, cria le duc au comble de la colère. Qu’est-ce qui vous demande tout ça ? Vous n’avez rien compris à ce qu’on vous a dit.— Ce n’est pas à moi, c’est à [MASK] Allez-vous vous taire ?
+
+[',', ':', 'avait', 'déjà', 'avoir']	Apollon	on eût dit [MASK] vieilli ; mais un jus olivâtre, hépatique, semblait prêt à sortir de sa bouche mauvaise ; pour l’intelligence, on ne pouvait nier que la sienne, par un vaste écart de compas, avait vue sur beaucoup de choses qui resteraient toujours inconnues au duc de Guermantes.
+
+['qualité', 'jeunesse', 'circonstance', 'plus', 'cuisine']	Bergotte	C’est votre mal, votre suractivité nerveuse. Je saurais la manière de vous en guérir, je me garderais bien de le faire. Il me suffit de lui commander. Je vois sur votre table un ouvrage de [MASK]. Guérie de votre nervosisme, vous ne l’aimeriez plus.
+
+['elle', 'on', 'maman', 'il', 'papa']	Françoise	Maman frissonnait, son visage pleurait sans larmes, elle courut dire qu’on allât chercher le médecin, mais comme [MASK] demandait qui était malade, elle ne put répondre, sa voix s’arrêta dans sa gorge. Elle descendit en courant avec moi, effaçant de sa figure le sanglot qui la plissait.
+
+['art', 'histoire', 'or', 'exposition', 'après']	Elstir	Je suis loin de tout admettre sans distinction dans les tableaux d’[MASK]. Il y a à prendre et à laisser. Mais ce n’est toujours pas sans talent. Et il faut avouer que ceux que j’ai achetés sont d’une beauté rare.—
+
+['elle', 'moi', 'lui', 'maman', 'toi']	Boucheron	Ce qu’elle doit être malheureuse en ce moment ! En tout cas, quoi qu’il arrive je ne veux pas qu’elle me prenne pour un mufle, je cours chez [MASK] chercher le collier. Qui sait ? peut-être en voyant que j’agis ainsi reconnaîtra-t-elle ses torts.
+
+['soleil', 'bonheur', 'repos', 'sommeil', 'labeur']	Balbec	-même, vue ainsi d’en bas, non plus grosse et rebondie comme l’autre jour sur mon lit où les grains de son cou apparaissaient à la loupe de mes yeux approchés, mais ciselée et fine, semblait une petit statue sur laquelle les minutes heureuses de [MASK] avaient passé leur patine.
+
+['elle', 'il', 'on', 'elles', 'cela']	Albertine	Et pourtant elle m’était bien agréable, cette invitation. Elle me l’eût été même d’une autre jolie fille du même âge ; mais qu’[MASK] me fût maintenant si facile, cela me causait plus que du plaisir, une confrontation d’images empreintes de beauté.
+
+['chevalerie', 'gare', 'balzac', 'zola', 'guerre']	Balzac	Les femmes, et beaucoup d’hommes d’ailleurs, n’entendent rien aux choses dont je voulais parler. Ma belle-sœur est une femme charmante qui s’imagine être encore au temps des romans de [MASK] où les femmes influaient sur la politique.
+
+['gendarmerie', 'plomb', 'fer', 'sécurité', 'police']	Saint-André	« Le cordon de [MASK] est une erreur, pensa le prince ; les négociations n’ont pas fait un pas ; ce n’est pas cela qu’il voulait. Je n’ai pas mis la main sur la bonne clef.
+
+['ceux', 'gens', 'malheureux', 'personnes', 'populations']	Françoise	Et comme notre nouveau quartier paraissait aussi calme que le boulevard sur lequel nous avions donné jusque-là était bruyant, la chanson (distincte de loin, quand elle est faible, comme un motif d’orchestre) d’un homme qui passait, faisait venir des larmes aux yeux de [MASK] en exil.
+
+[',', ')', '(', 'elle-même', 'ainsi']	Oriane	ceux dont la situation paraissait la plus solide et la mieux fixée.) La duchesse de Guermantes (peut-être en ne l’appelant pas [MASK] voulait-il mettre plus de distance entre elle et moi) est délicieuse, très supérieure à ce que vous avez pu deviner.
+
+['cela', 'si', 'je', 'ça', 'il']	Orphée	Il me semblait que c’était déjà une ombre chérie que je venais de laisser se perdre parmi les ombres, et seul devant l’appareil, je continuais à répéter en vain : « Grand’mère, grand’mère », comme [MASK], resté seul, répète le nom de la morte.
+
+['cela', "jusqu'", ',', 'tout', 'ça']	Saint-Loup	J’essayai pendant quelques secondes de me rappeler ces impressions lointaines, et j’allais rattraper [MASK] au pas « gymnastique », quand je vis qu’un monsieur assez mal habillé avait l’air de lui parler d’assez près.
+
+['homme', 'père', 'chacun', 'garçon', 'dieu']	Jupien	Les gens les plus doués que j’avais connus étaient morts très jeunes. Aussi étais-je persuadé que la vie de [MASK] finirait vite. Il avait de la bonté, de la pitié, les sentiments les plus délicats, les plus généreux.
+

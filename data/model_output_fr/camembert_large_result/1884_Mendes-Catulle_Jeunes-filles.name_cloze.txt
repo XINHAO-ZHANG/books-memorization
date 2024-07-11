@@ -1,0 +1,200 @@
+['Marie', 'Alice', 'Ariane', 'Sophie', 'Clara']	Lucie	Une chose, d’abord, avait inquiété [MASK] : ce jeune homme semblait vêtu comme les jeunes gens d’ici-bas. Mais elle fit cette réflexion que les habitants des astres ont bien le droit d’être aussi civilisés que les habitants de notre planète !
+
+['Pierre', 'Marie', 'Jeanne', 'Louis', 'chacun']	Bertine	il y avait sur des touffes fleuries une nuée de papillons blancs. pareille à un éparpillement de neige, qui ne se décide pas à tomber ; je montrai du doigt à [MASK] un petit lézard gris, qui se chauffait au soleil sur la rampe du perron de pierre
+
+['elle', 'on', 'Marie', 'il', 'Elle']	Lucie	Peut-être. Mais tous les soirs, pendant un mois, elle vint regarder celui qui était dans l’étoile. S’il n’apparaissait pas tout de suite, il ne manquait jamais de se montrer, enfin. Peu à peu [MASK] le distingua beaucoup plus nettement.
+
+['elle', 'il', 'on', 'Marie', 'chacun']	Madelette	– Écoute donc la terrible histoire qu’une fée habillée de satin d’or m’a racontée tout à l’heure pendant que je sommeillais ! » « Comme il faisait grand chaud, [MASK] résolut de s’aller baigner dans le lac, près du torrent.
+
+['il', 'elle', 'lui', '</s>NOTUSED', 'Pierre']	Antoinette	Quand nous fûmes arrivés sur une petite place solitaire, [MASK], après avoir regardé le numéro d’une maison, étroite, sordide, où pas une croisée ne brillait, poussa une porte entr’ouverte, et disparut en me disant : « Attends-moi. » J’étais seul
+
+['Il', 'Elle', 'On', 'Madame', 'Pierre']	Sarah	La substitution, d’ailleurs, ne présente aucune difficulté, personne ne vous connaissant dans ce hameau. Et je vous assure que j’ai beaucoup de talent. [MASK] dit : – Comme il vous plaira. Et aux habilleuses, en laissant tomber la robe à moitié mise :
+
+['Elle', 'Jeanne', 'Marie', 'Marguerite', 'Sophie']	Bertrande	puisque tu n’oseras pas tuer ton père. Là-dessus elle poussa la porte et s’en alla. [MASK] n’hésita point, elle marcha d’un pas ferme vers l’appartement du marquis, monta l’escalier, s’arrêta, leva la main pour frapper.
+
+['elle', 'telle', 'cela', 'on', 'il']	Claire	En vain l’on tourna, tourna, tourna la manivelle. Plus rien. C’était l’âme de la misérable qui s’était brisée dans l’orgue à jamais muet. D’avoir seize ans et d’être blonde avec des joues si roses, [MASK] est jolie comme un printemps qui naît.
+
+['Elle', 'Marie', 'elle', 'Madeleine', 'Anne']	Madelette	La coque d’une noisette lui a servi de dé, les épines sont de bonnes aiguilles, et le fil de la Vierge soutache délicieusement une étoffe de feuillage. [MASK] poursuit son chemin, tout heureuse et fière de sa belle toilette. – Fi ! fi !
+
+['tout', '</s>NOTUSED', 'Dieu', 'cela', 'Paris']	Antoinette	Il me semblait que de chaque logis de ce quartier inconnu, quelque chose d’horrible et d’infâme allait sortir, sauter sur moi, m’envelopper, m’emporter. Peut-être aurais-je fui, lâchement, oubliant [MASK]. Mais de quel côté serais-je allé
+
+['elle', 'il', 'Marie', 'on', 'Marguerite']	Madelette	; et voici qu’elle les veut enfoncer dans sa chair, un à un, afin de fixer les feuilles volages. Mais. à la première tentative, une larme de sang rose jaillit sous l’épine, et [MASK] poussa un cri d’alarme.
+
+['</s>NOTUSED', 'Marie', 'Jeanne', 'Anna', 'Elle']	Anastasie	Et le tumulte durera jusqu’à l’heure des sorties avinées qui titubent sur le seuil et roulent dans le ruisseau. [MASK], – la fille du patron et de la patronne, – vivait dans cette maison. Seize ans, jolie, avec des yeux gais.
+
+['Elle', 'Qui', 'elle', 'Et', 'Il']	Mion	Ainsi, signons le papier. Trois cents francs pour deux ans. Il n’y a plus à se dédire. Voilà une petite qui ne se doute pas de la chance qu’elle a. [MASK] le regardait, stupéfaite, la bouche grande ouverte !
+
+['Marie', 'Jésus', 'Noël', 'Jeanne', 'Joseph']	Denise	Cependant, un jour, j’eus une audace extraordinaire ! J’écrivis une lettre, très longue, où je disais toute ma tendresse et tous mes chagrins, et je la plaçai, un peu avant l’arrivée de [MASK], dans le bénitier accroché au tronc du saule.
+
+['elle', 'on', 'Louise', 'Marie', 'Jeanne']	Emmeline	; c’était bien celui-là, mais, comprends, le soir, avant de m’épouser, – mon mari me l’avait ôté ! » Dans le dortoir où les pensionnaires ont clos les yeux sur leurs petits oreillers pâles, [MASK] s’éveille en sursaut.
+
+['elle', 'il', 'Sophie', 'Hélène', 'Jeanne']	Madelette	Elle s’approcha du bord, considéra longtemps l’eau profonde et tumultueuse. Mais [MASK] était la fille d’une ondine, et la fureur de l’onde lui était douce. Elle se dévêtit, accrocha ses habits à un saule, et descendit vers le lac, le long du sable fin.
+
+['il', 'elle', 'on', 'Marie', 'Pierre']	Bella	J’aurais voulu m’enfuir, disparaître, ne plus être là. Mais [MASK] m’expliqua les choses, avec sa chère voix tendre ; et je fus rassuré. Cet endroit, c’était le reliquaire où étaient rassemblés des os de martyrs, que l’on montrait tous les sept ans aux fidèles
+
+['Il', 'Elle', 'On', 'Pierre', 'Chacun']	Sarah	[MASK] la regarda. L’autre reprit, parlant très vite : – Je crois que j’ai beaucoup de talent. Je sais tous les rôles que vous jouez. Fournissez-moi l’occasion de tenter une épreuve, le vous en prie, et je vous en serai éternellement reconnaissante.
+
+['Napoléon', 'David', 'fer', 'Pierre', 'César']	Charlemagne	Ça ne les fâchait pas, ces statues. Il y avait, sur un échafaud exhaussé de douze marches, un fauteuil de pierre, massif, lourd et rude, brutal, qui avait été le trône de [MASK].
+
+['Elle', 'elle', 'Madame', 'Maman', 'Mademoiselle']	Madeleine	dis-je avec un attendrissement à peine exagéré. – Dieu le sait, Monsieur ! Quant à nous, nous ignorons ce qu’elle est devenue. Il continua d’une voix très basse : – [MASK] était bien triste, bien malade ; elle était comme nous sommes, mon bon monsieur.
+
+['elle', 'qui', 'et', 'mais', 'il']	Mion	Comme elle n’avait rien appris des choses de la vie dans ce pays éloigné des chemins de fer et des villes, [MASK] se trouvait très heureuse, n’avait jamais imaginé qu’il existât d’autres plaisirs que de jouer avec les agnelles et de voir voler les oiseaux.
+
+['toute', 'une', 'Jeanne', 'Madame', 'Marie']	Césarine	La mère, considérant le fourneau éteint, repétait, avec les mouvements de cou d’une goitreuse : « Dix mille francs, dix mille francs. » De sorte qu’enfin [MASK] affolée courut chez la Maman. « Soit, dit-elle, je veux bien.
+
+['il', 'elle', 'lui', 'Il', 'on']	Bella	Des jeux de garçon, auxquels [MASK] voulait bien se prêter pour obéir à mon caprice, des jeux de fillette, auxquels je consentais pour lui plaire. Nous poussions des billes d’agate sur l’énorme dalle de granit rose où ces mots étaient gravés : CAROLO MAGNO ;
+
+['vous', 'Vous', 'moi', 'toi', 'Dieu']	Psyché	ils sont nés chacun d’un grain de la poudre d’or, mystérieux pollen, que laissa choir « [MASK], votre âme », en s’envolant ! Te souviens-tu, quoique tu dormes ? oui, car tu rêves. Une fois, nous nous étions levés de grand matin.
+
+['elle', 'Marie', 'Maria', 'Jeanne', 'Catherine']	Louisa	– Que j’vous ramène ! chantonna l’une des femmes en mêlant les cartes. Mais [MASK], – la plus vieille des joueuses, belle encore avec sa chair blanche, – s’était levée, avait empoigné l’enfant, et la serrait contre elle passionnément.
+
+['Elle', 'Il', 'On', 'Marguerite', 'Marie']	Madelette	[MASK] ne prit point garde à cette parole. – Chère, soupira le roi pendant la valse, il se fait tard, et, si tu le veux, j’irai t’attendre là-bas, et je t’épouserai.
+
+['Oui', 'Non', '–', '—', 'Mère']	Bertrande	[MASK], en effet. La fille du vieux marquis de Karnoët était là, debout, très grande, très pâle ; et, dans sa virile beauté de vierge irritée, levant sous la lampe son front, elle était superbe et terrible. – Ma mère !
+
+['elle', 'on', 'il', 'cela', 'ça']	Madeleine	tu prendras froid. – Non, non, » me disait-elle. Et quand je lui demandais ce qu’elle regardait : « Il y a une étoile dans l’étang, » disait-elle. Un matin à l’heure du déjeuner, [MASK] ne descendit pas.
+
+['elle', 'il', 'Marie', 'on', 'Jeanne']	Césarine	Le lendemain, [MASK] alla chez le « monsieur », comme elle l’avait promis. Pas trop vieux, en effet. L’air doux, la regardant avec une tendresse passionnée. Elle était calme, très froide, résolue. Elle dit :
+
+['«', '»', 'Elle', '</s>NOTUSED', '...']	Bertine	» Livre absurde ! [MASK], tout près de moi, si près, se penchait aussi sur la page ; son souffle léger, parfumé, comme serait la respiration d’une fleur, doucement me glissait sur la joue. Je continuai de lire : «
+
+['il', 'elle', 'Louis', 'Émile', 'Pierre']	Lucie	. Une fois, – treize ans et demi alors, – [MASK] eut envie d’un télescope. Oh ! mais une envie folle, irrésistible, qui n’entend pas qu’on lui réponde non. D’où lui était né ce désir ?
+
+['Elle', 'On', 'Il', 'Maman', 'Marie']	Agathe	– Vous devez, en effet, rougir toute la journée. Et c’est ton amie de couvent qui t’a révélé ce noir mystère ? – Oui. [MASK] avait même fait une espèce de petit livre, d’album, pour mieux faire comprendre les choses.
+
+['Marie', 'Elle', 'Jeanne', 'Blanche', 'Catherine']	Bertrande	Comme il cheminait à travers les broussailles, un coup de feu retentit : l’homme tomba mort. [MASK] sortit d’entre les branches, tâta le corps, dit une prière, à genoux. Puis elle revint au château, rentra dans sa chambre, se recoucha et dormit bien
+
+['Elle', 'Marie', 'Alice', 'Sophie', 'Jeanne']	Marthe	[MASK], les yeux écarquillés, tremblante, pleine d’horreur, ne comprenant pas ce qui lui arrivait, n’essayant pas de comprendre, – son paquet sur les genoux, – regardait en face d’elle, stupidement, la vitre derrière laquelle les passants se détachaient en noir sur la clarté des boutiques.
+
+['elle', 'Marie', 'il', 'Rose', 'Madeleine']	Madeleine	Mais les oiseaux chantent encore quand ils sont malades, et [MASK] chantait auprès de nous, qui ne parlions pas. J’espérais qu’elle résisterait au fléau, je me disais : « Plus tard, s’il plaît à Dieu, je l’emmènerai vivre dans une ville. »
+
+['On', 'Il', 'Qui', 'Elle', 'Satan']	Bertine	Mais il nous était impossible d’entrer dans la bibliothèque. C’était en vain que nous rôdions, si souvent, devant la porte toujours close, – porte d’un paradis qu’hélas ! nous n’avions pas perdu. [MASK] vola les clefs ! Comment ?
+
+['lentement', 'doucement', '</s>NOTUSED', 'elle', 'déjà']	Primevère	Elle se fanait, [MASK]. Le front penché, les bras ballants, elle allait le long des murs, sans paroles. « Êtes-vous malade, ma sœur ? » Elle faisait signe que non, s’éloignait, voulait être seule. Que lui était-il donc arrivé
+
+['Oh', 'Ah', 'Eh', 'Hélas', 'Quoi']	Mâtin	– Mais oui ! – [MASK] ! il y en a de plus laides ! dit le garçon en tablier blanc, qui s’approcha d’un pas. – Je te crois ! Et madame n’a pas dit où elle allait ?
+
+['Elle', 'Il', 'Marie', 'Anna', 'Blanche']	Madelette	– Arrache une de mes branches, dit l’arbre miséricordieux, et tu t’habilleras de feuillage. [MASK] choisit la branche la plus touffue ; mais elle avait beau appliquer les feuilles sur sa peau : les feuilles jonchèrent le sol malgré leur grand désir de rester attachées à ce joli corps de neige.
+
+['moi', 'elle', 'lui', 'Marie', 'Alice']	Madeleine	C’était une femme, ou son spectre. Un instant, cette forme vague s’arrêta et se retourna. Est-ce que je devenais fou ? Je reconnus le visage du portrait. Cette forme, c’était [MASK].
+
+['Paris', 'France', 'Marie', 'Jeanne', 'Napoléon']	Jeanne	c’étaient des anges qui, dans un déploiement de grandes ailes blanches, emportaient [MASK] vers le beau Paradis, cette France du ciel ! Ce drame, horrible, est vrai. Ce sont des choses qui arrivent par on ne sait quelle volonté cruelle et toute puissante.
+
+['elle', 'Marie', 'Jeanne', 'Madame', 'Catherine']	Bertine	Certainement nous serions restés devant la croisée jusqu’au soir, si [MASK], plus hardie, n’eût dit enfin, à voix basse, sans se retourner vers moi : « Nous ne regardons pas les livres un petit peu ? »
+
+['papa', 'maman', 'lunettes', 'Pierrot', 'bicyclette']	Colin	quant à la fille, pas belle et qui causait peu, personne n’avait jamais songé à lui demander si elle avait un nom ; les uns disaient d’elle : « la joueuse d’orgue » ; d’autres, facétieux, « la sœur à [MASK] ».
+
+['elle', 'Elle', 'et', 'il', 'qui']	Mion	; [MASK] sautait aussi, de pierre en pierre, courbée un peu, s’aidant d’un bâton court ; et c’était comme un agneau de plus qui rentrait à l’étable. Dès qu’elle eut mis le pied dans la cuisine de la ferme :
+
+['Marie', 'Vénus', 'Diane', 'Jeanne', 'elle']	Madeleine	Oh ! dans combien d’effrois s’évanouirent à cette lecture mes convictions antérieures ! Ce n’était pas un linge en fuite sous le vent, cette forme hésitante et blanchâtre que j’avais vue de ma fenêtre, c’était [MASK] elle-même, entraînée dans l’étang, vers un réel fantôme
+
+['Pierre', 'Jeanne', 'Marie', 'Jean', 'Paul']	Bertine	! J’empoignai un volume, le premier venu, je le posai sur la table, je fis signe à [MASK] de s’asseoir à côté de moi dans un grand fauteuil de cuir, presque assez large pour nous deux, et j’ouvris le livre, furieusement.
+
+['Pierre', 'Louis', 'Frédéric', 'Charles', 'Napoléon']	Karl	! Nous étions plus hardis que n’avait été l’empereur : c’était le trône de [MASK] le Grand qui nous servait de table pour nos dînettes de cerises et de pain noir. Le jeu de cache-cache n’est pas à dédaigner ;
+
+['avait', 'elle', 'ayant', 'a', 'il']	Madelette	le zéphir astucieux avait, comme un voleur, emporté les habits sous son aile, et [MASK] vainement prit soin de les chercher. Une grande colère la saisit quand elle entendit le vent parmi les branches, heureux de la voir ainsi belle et nue, rire en s’applaudissant du succès de sa ruse.
+
+['Elle', 'Anna', 'Marie', 'Alice', 'Jeanne']	Marthe	[MASK] fut extasiée à l’idée qu’elle allait embrasser sa mère. Comme elle descendait de wagon, elle vit venir à elle une très grande créature maigre, aux rudes allures, le nez énorme et les joues couleur de brique sous un bonnet tuyauté où il y avait un nœud rose
+
+['elle', 'on', 'il', 'je', 'un']	Bella	! Des formes s’ébauchaient le long de ses murs, vaguement blêmissantes, statues ou fantômes ; et, malgré les ténèbres qui la rétrécissaient, on la sentait immense. J’aperçus une petite lumière qui vacillait ; [MASK] m’attendait, une lampe à la main. –
+
+['Elle', 'Marie', 'Jeanne', 'Louise', 'Catherine']	Bella	[MASK], c’était la nièce du bedeau. Toute mignonne, les joues doucement rougissantes, et blonde, une rose dans une gerbe d’épis, elle avait l’âge innocent où les jeunes filles ne savent pas encore qu’elles sont des vierges.
+
+['</s>NOTUSED', 'Elle', 'Marie', 'Et', 'Alors']	Madelette	mais elle avait beau appliquer les feuilles sur sa peau : les feuilles jonchèrent le sol malgré leur grand désir de rester attachées à ce joli corps de neige. [MASK], toute dépitée, continua de marcher. Au détour de la venelle, elle vit un aubépin qui devina l’embarras où elle était.
+
+['Dieu', 'Jésus', 'Marie', 'vous', 'lui']	Denise	! Volontiers j’aurais fait comme elle, m’agenouillant aussi ; d’autant plus que, de cette façon, j’aurais été tout près de [MASK], ce qui eût rendu la prière bien agréable, et croyez que j’aurais choisi les plus longues litanies.
+
+['Marie', 'Jeanne', 'Julie', 'Madame', 'Catherine']	Antoinette	Je frissonnais d’épouvante ! Mais [MASK], qu’une fièvre allumait, ne paraissait pas inquiète. Elle répondait à ces femmes, des paroles qui les faisaient rire. Elle causa un instant avec celle qui rattachait sa jarretière. « Oh ! allons-nous-en ! allons-nous-en !
+
+['elle', 'il', 'on', 'je', 'Elle']	Antoinette	Je me haussais, je marchais sur la pointe des pieds, j’étais presque aussi grand qu’elle. Nous allions, toujours plus vite, le long des boutiques encore éclairées. Bien qu’elle se fût refusée à me donner aucune explication, [MASK] continuait à parler.
+
+['Jeanne', 'Marie', 'Madeleine', 'Marguerite', 'Clara']	Madeleine	Ma chambre était une petite pièce aux murs couverts d’un papier moisi ; dans un coin un lit de fer, deux chaises dépaillées à droite et à gauche d’une commode en noyer, un portrait de jeune fille, celui de [MASK] sans doute, en face de l’unique fenêtre
+
+['Elle', 'elle', 'Marie', 'Jeanne', 'Catherine']	Madeleine	[MASK] semblait hésiter, en proie à une émotion violente. Tantôt elle s’élançait vers le fantôme de l’étang, tantôt elle demeurait immobile, et l’on eût dit qu’elle allait revenir sur ses pas ; mais bientôt elle reprenait sa course interrompue ;
+
+['Elle', 'Il', 'On', 'Madame', 'Cela']	Agathe	– Très savante, je te l’accorde. Mais que t’a-t-elle enseigné, mignonne ? – Elle m’a enseigné, Monsieur, que presque tous les hommes sont dangereux, rusés, et rôdent autour des jeunes personnes dans de mauvaises intentions. – [MASK] exagérait
+
+['la', 'tout', 'le', 'les', 'Madame']	Césarine	un mauvais plaisant a mise devant votre porte. Mais la mère, de l’autre chambre, cria : « Tiens, dix mille francs, c’est beaucoup d’argent tout de même. » Et la misère se fit de plus en plus horrible, s’acharna, étrangla [MASK].
+
+['Elle', 'Marie', 'Alice', 'Sophie', 'Madeleine']	Lucie	[MASK], plus mignonne à côté de l’énorme et presque effrayante machine, la contemplait, tournait autour ; parfois, dans l’orgueil de la possession, extasiée, elle mettait une main dessus, avec l’air d’une toute petite fée qui aurait dompté un monstre.
+
+['monsieur', 'Charles', 'Pierre', 'Monsieur', 'Louis']	Césarine	! Plus tard, on verrait, on s’arrangerait. Elle n’avait pas encore fini de s’expliquer, que [MASK] l’avait prise par les épaules et jetée dans l’escalier, comme une chose sale .qu’un mauvais plaisant a mise devant votre porte.
+
+['Marie', 'Marguerite', 'maman', 'Madeleine', 'Jeanne']	Bella	Ce soir, après le souper, reviens ici, tu m’y trouveras. Et alors.... – Tu me donneras un baiser ? – Nous nous marierons, dit-elle. Quelques heures après, j’entrai dans la cathédrale par une petite porte que [MASK] avait laissée entr’ouverte.
+
+['maman', 'Marie', 'Sophie', 'Maman', 'la']	Mion	le chien secouait la tête, se levait un peu sur les pattes de devant, bâillait, se recouchait, et, longtemps, avant de se rendormir, léchait le pied nu de [MASK]. Elle riait toujours, ravie.
+
+['...', 'une', 'un', 'la', '[...]']	Jules	Y avait-il longtemps, qu’elle ne l’avait pas embrassée ! « Mais c’est qu’elle est très jolie, hein, dis, Constance ? – Pour sûr ! – Dis donc, toi qui te rappelles, à qui trouves-tu qu’elle ressemble ? – A [MASK]
+
+['Elle', 'Il', 'elle', 'Marie', 'Vénus']	Madelette	[MASK] pâlit, et, soudain, avec un cri sourd et bref, la voilà qui tombe sur le sol, étranglée, morte. Le serpent se déroba parmi l’herbe ; et le roi des Gnômes dut retourner au bal chercher une autre épouse. »
+
+['</s>NOTUSED', '«', '»', 'doucement', 'endormi']	Bettina	? – Pas encore, répond, du lit voisin, [MASK], une voix douce. – Écoute donc la terrible histoire qu’une fée habillée de satin d’or m’a racontée tout à l’heure pendant que je sommeillais ! » «
+
+['Mme', 'Madame', 'Mademoiselle', 'madame', 'Monsieur']	Marie	La toilette très simple, de couleurs mortes, donnait à entendre la fille de quelque petit rentier retiré à la campagne. – Madame, dit la visiteuse, je viens vous adresser une demande assez extraordinaire. Permettez-moi de jouer, ce soir, à votre place, le rôle de [MASK] de Neubourg.
+
+['elle', 'Marie', 'Jeanne', 'Louise', 'Alice']	Césarine	Alors, [MASK], belle, vingt ans, intelligente et fière, sentait le cœur lui manquer et sanglotait dans un coin, le front contre le mur. Elle se révolta contre la destinée ! Elle lutterait ; et triompherait.
+
+['Elle', 'elle', 'Marie', 'Jeanne', 'Madeleine']	Denise	! encore ! et c’était de la tombe que venait ce bruit. Oui, de la tombe, sûrement. [MASK] se dégagea avec un cri, s’enfuit, ne fut plus là ; je m’enfuis comme elle, sans la suivre, à travers champs ;
+
+['Pierrot', 'Jean', 'diable', 'Pierre', 'Léon']	Colin	L’âne s’appelait [MASK] ; du moins, les gens le nommaient ainsi quand ils le voyaient arriver, tirant sur le licou, et la langue pendante, dans la cour des pauvres auberges, après la journée finie ;
+
+['Madame', 'Elle', 'Marie', 'Jeanne', 'Mme']	Sarah	! [MASK], qui n’avait pas dit mot pendant tout le drame, qui était restée, derrière un portant, attentive, sauta au cou de l’inconnue, et lui dit : – Tu es admirable, et je t’emmène ! Mais la jeune fille répondit :
+
+['son', 'cette', 'sa', 'cet', 'pareille']	Marthe	Les gens qui passent croyaient, en voyant [MASK] étendue, que c’était une femme ivre ou quelque mendiante suspecte, et se détournaient, pressant le pas. Vers trois heures du matin, deux sergents de ville la ramassèrent, ensanglantée, soupirant encore.
+
+['Il', 'Jean', 'Pierre', 'Et', 'Lui']	Lucie	[MASK], tout à coup, vit une autre forme humaine, une forme de femme, lui sembla-t-il, passer devant celle du pâle jeune homme blond ; et cette femme, plus sombre, brune sans doute, se pencha vers lui, en l’embrassant.
+
+['Elle', 'Marie', 'Marguerite', 'Jeanne', 'Sophie']	Madelette	– Je le veux bien, Monseigneur. – N’y va pas, dit le serpent quand la valse fut finie. [MASK] feignit de n’avoir point entendu, et, s’apercevant que le roi des Gnômes était parti, elle se leva pour aller là-bas où il l’attendait.
+
+['famille', 'retraite', 'vieillesse', 'Julien', 'veuve']	Marthe	comme ces gens qui, pour n’être pas tentés de faire l’aumône, évitent de passer dans la rue où il y a des mendiants. D’ailleurs, on chuchotait que la pension de [MASK], bien qu’assez peu coûteuse, n’était pas payée régulièrement ;
+
+['Marie', 'celle', 'Geneviève', 'Jeanne', 'Madame']	Césarine	Il y eut la légende attendrie de [MASK] montant dès le matin en omnibus pour aller à ses leçons, ou courant à pied dans la boue, et ne rentrant que le soir, fatiguée, rompue, sereine du devoir accompli. On la vanta, on la choya.
+
+['maman', 'petite', 'Marie', 'toi', 'Jeanne']	Madeleine	« Rentre, [MASK] ! criais-je. Couche-toi ; tu prendras froid. – Non, non, » me disait-elle. Et quand je lui demandais ce qu’elle regardait : « Il y a une étoile dans l’étang, » disait-elle.
+
+['Marie', 'Jeanne', 'Jean', 'Jésus', 'Catherine']	Clémentine	On ne se trompait pas au couvent. Quand on a un bonnet de mariée, on est sûre de se marier bientôt. Seulement, il y a bonnet et bonnet. – Qu’est-ce que tu veux dire ? demanda [MASK]. – Écoute.
+
+['elle', 'il', 'Marie', 'Alice', 'Diane']	Antoinette	Car [MASK] était une créature robuste. Ses quinze ans, dans leur épanouissement précoce, avaient des solidités et des carrures de vingt-cinquième année. Grande, et me paraissant l’être d’autant plus que j’étais, moi, plus petit ;
+
+['on', 'elle', 'il', 'chacun', 'Marie']	Belle-Marie	De sorte que, dans la chambre où s’inclinait, se relevait, tremblait la flamme de la bougie, mettant des ombres changeantes au mur, où les rideaux de percale blanche à fleurs roses frissonnaient sur le fer du petit lit, [MASK] avait grand’peur ;
+
+['Rose', 'Jeanne', 'Marie', 'Léa', 'Margot']	Marthe	» Et elle serrait [MASK] toujours, presque convulsivement, en riant, des larmes aux yeux, la baisant dans le cou, sur le front, dans les cheveux, tandis que les habitués de la brasserie se groupaient autour d’elle pour voir l’enfant. Quelques
+
+['elle', 'qui', 'et', 'tout', 'mais']	Antoinette	pas surveillée par sa mère, obèse, toujours dans un fauteuil, et joueuse de whist enragée au point qu’elle faisait un « mort », les matins, après le déjeuner, avec sa cuisinière et son valet de chambre, [MASK] avait poussé à sa guise, la mauvaise plante qu’elle était ;
+
+['beaucoup', 'Juliette', 'tout', 'cela', 'Suzanne']	Césarine	« Ote ta chemise, tu auras une robe ! » Elle vint, avec des propositions : un monsieur, très comme il faut, presque jeune encore, qui avait rencontré [MASK] dans le monde, du temps du père. Et ce ne serait pas pour une fois.
+
+['Elle', 'Flore', 'Ariane', 'Hélène', 'Diane']	Madelette	– Prends garde, dit le serpent. Et, ouvrant sa petite gueule verte, il promena dans l’air un dard qui menaçait. [MASK] sentit son collier vivant se resserrer ; mais, toute à la joie d’épouser le roi des Gnômes, elle ne comprit point cet avertissement.
+
+['elle', 'Flore', 'une', 'Blanche', 'Alice']	Madelette	Les petites fées dansaient à l’ombre des grands arbres ; [MASK] était si jolie avec son singulier costume, que le roi des Gnômes, qui avait été invité à la fête, devint amoureux d’elle. Il l’invita à danser.
+
+['alors', 'soudain', 'ensuite', 'là', 'enfin']	Sarah	: – Qui sait si elle n’a pas eu raison, si la part qu’elle a choisie n’est pas la meilleure en effet ? Mais [MASK], avec ce petit secouement de cheveux qui lui est familier : – J’ai dû me tromper ! s’écria-t
+
+['maman', 'Madame', 'madame', 'Maman', 'Marianne']	Sarah	; attendez que [MASK] ait des cheveux gris ! Et elle n’en aura jamais : on ne peut pas vieillir quand on a été jeune ; j’entends l’asthme futur dans la toux de votre grippe, petits vieillards de vingt ans.
+
+['il', 'on', 'elle', 'Il', 'On']	Antoinette	Homme, ayant appris beaucoup de choses, les souvenirs de notre promenade à travers de vils quartiers, les paroles qu’[MASK] avait dites pendant le chemin, – la Revue aux Délassements-Comiques, le ballet, les ouvreuses, la lettre, – me permettaient d’entrevoir une aventure absurde et odieuse.
+
+['Il', 'Elle', 'On', 'Marie', 'Paul']	Anastasie	[MASK] apporta le verre plein jusqu’au bord, et regarda le nouveau client. Il avait l’air très doux, poli, modeste, ne ressemblait pas à tout le monde. Comme il était en blouse, ce devait être quelque ouvrier, qui passait, qu’on ne reverrait plus.
+
+['elle', 'moi', 'lui', 'ça', 'cela']	Antoinette	Et je ne comprenais pas, en effet ! Seulement, j’avais peur. De quoi ? Je n’aurais pas pu le dire. Une chose me rassurait un peu. C’était que les passants ne prenaient pas garde à [MASK] ; elle avait l’air d’un homme, vraiment.
+
+['elle', 'Marie', 'Jeanne', 'madame', 'Catherine']	Antoinette	Nous courions toujours. Quand nous fûmes de retour, [MASK] s’enferma chez elle sans s’être expliquée davantage. Le lendemain, et les jours qui suivirent, je l’interrogeai, – vainement. « Tais-toi ! tais-toi ! parlons d’autre chose !
+
+['M', 'Louis', 'V', 'Napoléon', 'S']	Rodoald	mais sous celui de [MASK]. son fils, qui fut de courte durée, sa mauvaise administration, et plus encore les divisions qui s’élevèrent entre ses successeurs, firent bien changer de face à ses affaires, et les mirent en mauvais état. » Livre absurde !
+
+['César', 'Grégoire', 'Dieu', 'Pierre', 'Daniel']	Wamefried	Ses cheveux, chauds et caressants comme des rayons de soie, me couraient dans le cou. Je lus encore : « Il régna un an, selon le témoignage de [MASK] ; mais les annales ne nous rapportent aucun fait... » Elle leva un peu la tête, très lentement.
+
+['Marie', 'Jeanne', 'Sophie', 'Rose', 'Clara']	Bella	Il me semblait que nous allions vers quelque lieu terrible, que nous ferions en chemin de sinistres rencontres. Les cheveux de [MASK] s’ensoleillaient dans la clarté de la lampe. – Nous sommes arrivés, dit la petite fille. J’eus peur pour tout de bon !
+
+['lui', 'nous', 'elle', 'là', 'moi']	Belle-Marie	Et il semblait naturel qu’elle eût cet oiseau, puisqu’elle était le printemps. Un oiseau qui avait désappris de voler, tant il était fidèle à sa branche ! A l’heure du sommeil non plus, il ne consentait pas à se séparer de [MASK] ;
+
+['</s>NOTUSED', 'madame', 'une', 'Madame', 'Mme']	Agathe	Sottes ? ah ! bien oui. Très malignes, sans en avoir l’air. Et moi, justement, j’avais une amie, [MASK], qui était très savante ! – Très savante, je te l’accorde. Mais que t’a-t-elle enseigné, mignonne
+
+['Marie', 'Jeanne', 'maman', 'Madame', 'Alice']	Antoinette	Dans la rue, où elle marchait si vite que je pouvais à peine la suivre, je revins peu à peu de mon émotion ; j’interrogeai [MASK], lui demandant pourquoi elle s’était déguisée de la sorte, et où nous allions.
+
+['Elle', 'On', 'Il', 'Madame', 'Marie']	Marthe	[MASK] avait vu à côté de la porte, sous un globe dépoli, un écriteau jaune : « Chambres et appartements garnis. » La bonne entra dans le bureau de l’hôtel. « Est-ce que madame est rentrée ? – Oui, mais elle est ressortie.
+
+['moi', 'lui', 'elle', 'toi', 'vous']	Antoinette	– Es-tu bête ! répondit le visiteur. Ce jeune homme, devant moi, le chapeau à haute forme un peu penché sur l’’oreille, et le monocle à l’œil, – avec un paquet sous le bras, – c’était [MASK] ! Elle reprit vivement : Dépêche-toi.
+
+['elle', 'Marie', 'Catherine', 'il', 'on']	Antoinette	Puis, repasser seul par la rue où des femmes appellent en avançant la tête ! Je m’appuyais au mur, immobile, crispé, avec un sursaut de peur à chaque bruit de pas, au loin. Il y eut un tumulte de bousculade dans la maison où [MASK] était entrée
+

@@ -1,0 +1,200 @@
+['Elle', 'Il', 'elle', '.Elle', 'On']	Clothilde	Le carillon sonna de nouveau. — Salut. [MASK] traversa la salle, trempée de pluie, les bras chargés de sacs volumineux. Elle s’éclipsa quelques instants dans la réserve puis réapparut, dans un sillage de fraîcheur. — Qu’est-ce que t’as ?
+
+['On', 'Il', 'Elle', 'on', ',']	Ackermann	[MASK] se souvenait de ces moments exaltants. Pour la première fois, il contemplait, sur les écrans informatiques, les zones cérébrales en train de s’activer. Pour la première fois, il observait la pensée en marche, surprise dans ses rouages secrets.
+
+['elle', 'lui', 'Elle', 'elle-même', 'Anna']	Sema	Quant à [MASK], elle était plus que jamais une messagère invisible, à la fois paranoïaque et schizophrène, qui n’attendait qu’une occasion pour s’enfuir à jamais. Il n’avait su créer que deux monstres. Deux loups enragés prêts à lui sauter à la gorge.
+
+['Il', 'il', 'Elle', 'et', '.Il']	Schiffer	— Qu-quoi ? [MASK] se laissa choir à son tour sur le bitume. Il se ramassa sur le flanc gauche, grimaça, puis se releva sur un genou. — Il a dit ce qu’il avait à dire, cracha-t-il entre deux toux.
+
+['il', 'elle', 'Il', 'se', 'celui-ci']	Paul	Instinctivement, [MASK] rentra la tête dans les épaules et se plia en deux, comme pour éviter les coups qui lui tombaient dessus, l’atteignant à l’estomac, à la poitrine et sur les deux côtés du visage, là où ses tympans prenaient feu.
+
+['Marie', 'Jeanne', 'Louise', 'Alice', 'Anne']	Céline	Elle s’appelait [MASK] et était âgée de trois ans. Les premiers week-ends avaient été mortels. Parcs, manèges, barbe à papa : l’ennui sans retour. Puis, peu à peu, il avait découvert une présence qu’il n’attendait pas.
+
+['Il', 'il', '</s>', 'Elle', '"']	Schiffer	— Les Loups Gris, qui sont-ils ? [MASK] marchait sans répondre, aspirant de lentes bouffées d’air. Les pierres noires roulaient sous ses pieds. — Ce serait trop long à t’expliquer, dit-il enfin.
+
+['il', 'avait', 'et', 'Il', ',']	Paul	[MASK] pressentit qu’il faisait jeu égal avec la femme. — Qu’est-ce que tu sais ? interrogea-t-il sans préambule. — Rien. Moins que rien. Elle se pencha encore quelques secondes sur le bureau, puis alla s’asseoir dans le canapé, croisant doucement les jambes.
+
+['et', 'il', 'Il', '</s>', 'on']	Mathilde	Son toit de tuiles, ses murs divisés en deux bandeaux, bleu et blanc, ses barrières de bois lui donnaient un air de jouet verni – un décor de train électrique. [MASK] stoppa la voiture sur l’aire de stationnement.
+
+['il', 'elle', 'Il', 'on', 'Elle']	Anna	Au bout d’un long silence, [MASK] reprit : — Il y a quelqu’un dans cette histoire qui n’est pas flic. — Qui ? — Le client de la boutique. Celui que je reconnaissais. Avec ma collègue, on l’appelait « Monsieur Velours ».
+
+['Il', 'Elle', '</s>', 'il', 'et']	Schiffer	Son corps était déjà moite de transpiration. Ils obliquèrent dans un nouveau boyau en carrelage blanc, empli de brouillard. A droite, une embrasure s’ouvrit et dévoila un atelier d’où s’échappait un bruit de respiration géante. [MASK] prit le temps de contempler le spectacle.
+
+[',', 'il', 'Il', 'elle', 'ré']	Veynerdi	[MASK] enfila des gants de latex, disposa des sachets stériles sur le carrelage du comptoir, puis se plaça derrière une batterie de tubes à essai alignés. Il ressemblait à un musicien s’apprêtant à jouer d’un xylophone de verre.
+
+['Il', 'Je', 'Nous', '-', 'On']	Anna	— Ensuite, comment faites-vous ? — Nous disposons les os et les cartilages en fonction de la ligne décidée. Encore une fois : je peux vous offrir du sur-me-su-re. [MASK] ne lâchait pas sa direction. — Une telle opération doit laisser des traces, non ?
+
+[':', 'en', ';', 'le', ',']	Matkowska	Il demanda à voix haute : — Qu’est-ce que c’est que ce geste ? — J’sais pas, répondit [MASK]. Ils font tous ça. Sans doute un signe de reconnaissance. Y m’ont l’air bien barrés ! Ce signe était une clé.
+
+[',', 'il', 'homme', 'et', 'Il']	Paul	[MASK] se hissa sur la pointe des pieds et entrevit leur mec obliquer à droite. — Ligne 4 ! hurla-t-il à l’intention de son partenaire, invisible dans la cohue. Déjà, au fond du couloir de céramique, les soupirs d’ouverture des portes du métro résonnaient.
+
+[',', 'se', 'S', 'le', 'de']	Paul	[MASK] quitta le bar et descendit vers le parterre. Plongeant dans la foule, il sentit naître en lui une nostalgie familière. Les concerts de sa jeunesse ; le pogo furieux, à sauter comme un ressort sur les riffs rageurs des Clash ;
+
+['Pierre', 'celle-ci', 'Clémence', 'Béatrice', 'Marie']	Laurent	Elle gravit les marches quatre à quatre, dépassant son propre étage, puis les quatrième et cinquième. La voix de [MASK] explosa soudain dans la spirale de l’escalier : — Magnez-vous ! Elle va rejoindre l’autre immeuble par les chambres de bonne !
+
+['elle', 'la', 'voir', 'nous', 'moi']	Beylerbeyi	Il cultive ici ses propres espèces sauvages, enfouies dans ces jardins. Chaque soir, il vient à [MASK] pour surveiller ses papavéracées... Après le portail, elle pénètre dans une cour dallée de marbre, où s’alignent une série d’éviers au ras du sol, destinés aux ablutions avant la prière.
+
+['on', 'il', 'et', 'elle', 'Il']	Paul	Sur les murs, [MASK] parvint à identifier les impacts de deux armes différentes : un gros calibre, type Shotgun, et une arme de poing semi-automatique, sans doute un 9 millimètres ou un 45. Il avança, fasciné par ce spectacle lunaire.
+
+['Pierre', ',', 'Olivier', 'Stéphane', 'Michel']	Brancusi	Des formes au poli naturel, à la fois lourdes et douces, prêtes à se nicher au creux d’une paume ou à se dresser sur un doigt, en parfait équilibre. Des galets magiques, signés par un artiste nommé [MASK].
+
+['il', 'se', 'on', 'et', ',']	Paul	L’un des techniciens attrapa un masque dans sa valise : — La troisième allée, dit-il. Suis les projecteurs. Et reste sur les planches. Pas un pied au sol. Ignorant le masque, [MASK] se mit en marche. L’homme l’arrêta : —
+
+['Elle', 'elle', ',', 'et', 'Il']	Anna	[MASK] se coiffait toujours quand tout s’arrêta. Dans le miroir, sous sa frange, elle venait de remarquer trois cicatrices verticales. Elle ne put y croire. De sa main gauche, elle effaça les dernières traces de buée et s’approcha, la respiration coupée.
+
+[',', 'la', 'le', '...', 'à']	Schiffer	Du jamais vu. Nous avons réussi à la transformer en bourgeoise française, en épouse d’énarque. Une simple Turque, tu te rends compte ? Il n’y a maintenant plus aucune limite au conditionnement. Nous allions... — Je me fous de ton expérience, trancha [MASK]
+
+['Il', 'il', 'Elle', 'elle', 're']	Sema	Le marin accepte, démarre le moteur sans un mot puis met pied à terre. [MASK] prend la barre. Elle manœuvre parmi les autres embarcations et quitte le quai. Elle suit la première digue, contourne l’extrémité du remblai puis longe le second quai, jusqu’au phare.
+
+['cela', 'vous', 'déjà', 'exactement', 'ça']	Anna	— Depuis combien de temps, [MASK] ? — Il y a plus d’un mois. — Sois précise. Tu te souviens de la première fois, non ? Bien sûr qu’elle s’en souvenait : comment aurait-elle pu oublier cela ? — C’était le 4 février dernier.
+
+['on', "l'", ',', 'se', 'a']	Türkes	Les Loups Gris vivent ça comme une trahison : ils ont lutté contre les communistes, et voilà que les gouvernants de droite les mettent en taule... A l’époque, [MASK] écrit : « Je suis en prison mais mes idées sont au pouvoir. »
+
+['elle', 'il', ',', 'Il', 'Elle']	Laurent	.) Pourquoi nous n’avons pas d’enfant ? Durant une seconde, rien ne bougea. Puis [MASK] écarta les draps et s’assit au bord du lit, lui tournant de nouveau le dos. Le silence semblait tout à coup chargé de tension, d’hostilité.
+
+['Angel', 'Sam', 'Eric', 'Alex', 'Damon']	Anna	Elle faillit appeler [MASK], mais se retint. Pas question de se faire repérer par le tueur. Tout en réfléchissant, elle palpa son corps, elle n’était pas blessée. Elle ferma de nouveau les paupières et se concentra.
+
+['il', ',', 'Il', 'et', 'a']	Kürsat	[MASK] a brandi le poing, l’index et l’auriculaire levés. Il se donne beaucoup de mal pour avoir l’air d’un fanatique mais il ressemble surtout à ce qu’il n’a jamais cessé d’être : un enfant doux, maladroit, conditionné à la violence et à la haine.
+
+['Il', '</s>', 'il', 'On', 'Elle']	Beauvanier	Après deux communications, il grogna : — Je n’arrive pas y croire. Ces cons-là ont oublié de détruire ses fringues. — Elles sont où ? — Au dépôt de la Cité. [MASK] avait filé de nouvelles frusques à la fille.
+
+['il', 'Il', 'elle', 'Elle', 'qui']	Kudseyi	Des coffres en bois ouvragé s’alignaient contre les parois comme des ombres solides, des secrets rivetés de nacre. Et rien d’autre. [MASK] aimait ce dépouillement, cette vacuité presque mystique qui semblait prête à recueillir les prières d’un soufi.
+
+['on', 'il', 'elle', 'Il', 'On']	Akarsa	Mais ce n’était pas une piste. Pas même une théorie. Tout juste un délire qui ne reposait jusqu’ici sur rien. — Des activités criminelles ? reprit-il. — Je ne crois pas, non. [MASK] n’a pas besoin d’argent.
+
+['il', 'Il', 'et', ',', '.Il']	Paul	[MASK] jeta un dernier regard vers les négociations d’en bas. C’est à cet instant qu’il le repéra. Un livreur – moustache noire et veste bleue Adidas – venait de pénétrer dans l’entrepôt, les bras chargés d’un carton. Son regard se leva machinalement vers la mezzanine.
+
+["s'", 'il', 'et', 'on', 'r']	Sema	L’intérieur est étroit, glacé, hostile à toute présence humaine. Le phare est automatisé et paraît n’avoir besoin de personne. Au sommet de la tour, l’énorme projecteur tourne sur son pivot avec lenteur, en longs gémissements. [MASK] allume sa torche électrique.
+
+['il', 'y', 'père', 'elle', ',']	Anna	[MASK] avait eu un accident de voiture, huit mois auparavant. Son véhicule avait été carbonisé, ses papiers brûlés, sa mémoire anéantie. Ses blessures au visage avaient exigé une importante intervention chirurgicale. Le mystère de son identité était donc total.
+
+['qui', 'Je', 'Il', 'il', 'je']	Mathilde	[MASK] revient au corps : — Vous étiez... partenaires ? — Il ne m’avait jamais vue, mais je connaissais son visage. Nous avions un signe de reconnaissance. Une broche en forme de fleur de pavot. Et aussi une sorte de mot de passe : les quatre lunes.
+
+['Il', 'Elle', 'il', 'lui', 'elle']	Laurent	-elle. [MASK] répondit d’un ton distrait : — C’est à cause de l’Oxygène-15. — De quoi ? Il ne la regardait pas, ses doigts tapotaient la vitre. — L’Oxygène-15. Le traceur qu’on t’a injecté dans le sang pour l’expérience.
+
+['la', 'le', 'les', "l'", 'une']	Laurent	S’il y a quelque chose dont je suis sûre, c’est qu’il n’y a aucun hasard dans cette affaire. Ce type est avec les autres, tu peux en être certaine. Et si son visage te dit quelque chose, c’est que tu l’as aperçu avec [MASK]
+
+['il', 'qui', 'et', 'elle', 'celle-ci']	Schiffer	Le pont monumental qui s’ouvrait devant eux lui apparut comme un symbole. Un géant de pierre ouvrant ses croisées noires sur le ciel d’orage. Il accéléra encore et dépassa le Turc au milieu de la passerelle. [MASK] bondit au-dehors alors que la voiture roulait encore.
+
+['il', 'y', 'Il', 'se', 'on']	Schiffer	— Qui peut m’aider sur ce coup ? — Personne. Si quelqu’un savait quoi que ce soit, il l’aurait déjà dit. Mais pas à toi. A eux . Le quartier n’aspire qu’à la paix. [MASK] réfléchit un instant.
+
+['Il', 'Elle', 'il', 'elle', ',']	Anna	Pourtant, à cet instant, elle parut saisir sa gaffe. La sonnette de la porte vint à son secours. — J’y vais, dit-elle en tournant les talons. Installe-toi, je reviens. [MASK] écarta quelques cartons et s’assit sur un tabouret.
+
+['-', ',', 'est', 'en', 'tu']	Anna	Il bomba le torse en une posture théâtrale : c’était le grand moment du verdict. — Je pense que tu souffres d’une lésion. — Une lésion ? — Qui touche spécifiquement la zone de reconnaissance des visages. [MASK] était stupéfaite
+
+['il', 'elle', 'et', 'on', 'qui']	Paul	Cela valait le coup de l’appeler. L’homme s’était toujours montré coopératif dans le cadre de l’enquête et [MASK] avait besoin de parler à un citoyen turc. Dans sa voiture, il utilisa son téléphone portable, enfin rechargé.
+
+[',', 'on', 'qui', 'en', 'le']	Sema	Le kiosque de « l’iskele » – l’embarcadère – brille lui aussi, se réfléchissant dans l’eau en une tache bleu mordoré, plus faible encore, presque violette. Epaules hautes, col relevé, [MASK] longe l’édifice puis remonte la berge. Ce spectacle sinistre lui convient
+
+['Elle', 'elle', 'Je', 'je', 'Est']	Anna	: — Je vois sur votre ongle une tache brune. Savez-vous d’où elle vient ? [MASK] lança des regards égarés autour d’elle. Puis elle contempla sa main et haussa les sourcils. — Je sais pas, marmonna-t-elle. De la nicotine, non
+
+[',', 'de', 'qui', '...', 'se']	Paul	Qu’est-ce que vous avez pour localiser la femme ? [MASK] regardait les sépultures autour de lui. Un portrait suranné, dans un cadre ovale. Une vierge placide, regard incliné, drapée dans une cape languide. Un christ taciturne, aux humeurs de bronze...
+
+['Je', 'il', 'et', 'je', 'Il']	Paul	Il passa aux images suivantes. [MASK] commenta : — Le nez a été coupé au cutter. Ou au rasoir. Les lacérations et les crevasses sur les joues ont été effectuées avec le même instrument. Le menton a été limé. Les lèvres découpées aux ciseaux.
+
+['vous', 'les', 'moi', 'nous', 'soi']	Gozar	— Chez [MASK] ? Qui a sa carte ? Ce mec a une raison spéciale d’avoir peur. Je le sens. Le Chiffre cala ses genoux contre le tableau de bord. Il demanda d’une voix maussade : — Où il est ? — Trottoir de gauche.
+
+['</s>', 'on', 'il', 'On', 'Il']	Sema	Il se lève, s’empare de l’amarre. Les gestes, les bruits sont si ordinaires qu’ils en deviennent presque irréels. [MASK] ne peut se convaincre que l’homme qui ne vit que pour sa mort se tient à deux mètres d’elle.
+
+['elle', 'est', ',', 'qui', "c'"]	Gozar	Mais [MASK] aussi est une femme ! C’est une « teyze ». Une « tante », une marraine au sens large. Elle veille sur ses frères, ses neveux, ses cousins et sur tous les ouvriers qui bossent pour elle. Elle s’occupe de régulariser leur situation.
+
+['elle', "s'", 'il', 'et', ',']	Paul	Au bout de ces terres d’abandon, ils avaient découvert la Peugeot familiale, à demi enfoncée dans les dunes grises. [MASK] avait capté chaque signe à hauteur de ses huit ans. Les uniformes des policiers ; les menottes scintillant au soleil ; les explications à voix basse ;
+
+['vous', 'Vous', '...', '-', '/']	Mathilde	Vous fumiez dans votre vie antérieure. [MASK] intervint : — Elle fume aussi dans sa vie actuelle. Le biologiste accepta la remarque d’un hochement de tête, puis ajouta : — Pour le reste, aucune trace significative d’un milieu, d’une atmosphère.
+
+['Elle', 'il', 'Il', 'elle', '"']	Beauvanier	J’en ai envoyé un aussi à l’état-major, place Beauvau, histoire de me couvrir. Y’avait plus qu’à attendre. — Ensuite ? [MASK] soupira, passant son index sous son col : — Ses tremblements ont continué. C’est devenu carrément flippant.
+
+['Il', 'Elle', '...', 'il', 'elle']	Scarbon	: — Quoi ? [MASK] fit claquer ses lèvres, à la manière d’un clap de cinéma : — Je l’avais déjà remarqué sur les deux autres, mais c’est flagrant sur la dernière. Le sang de la victime contient des bulles d’azote.
+
+['</s>', ',', 'il', 'on', 'Il']	Paul	[MASK] s’attendait cette fois à un cloaque rempli de peaux écorchées, de cages croûtées de sang, d’odeurs de viande morte. Il eut droit à une petite cour, claire et fleurie, dont le sol pavé semblait avoir été ciré par la bruine du matin.
+
+['qui', 'celle-ci', 'elle', 'et', 'se']	Schiffer	un flot frénétique d’épaules et de hanches trépignant en cadence, réponse brutale, instinctive, aux rythmes crachés par la scène. Les deux flics, jouant des coudes et des genoux, parvinrent à atteindre l’estrade. [MASK] bifurqua à droite, sous les couinements suraigus des guitares qui jaillissaient des enceintes.
+
+['il', 'Il', 'et', '.Il', 'Je']	Paul	— Tatouages. Oreilles percées. Marque d’alliance. Des trucs que le tueur n’aurait pas pu effacer. — Non. Le Chiffre saisit la main gauche du cadavre et la retourna, côté paume. [MASK] frémit : jamais il n’aurait osé un tel geste.
+
+['gravité', 'douleur', 'corps', ',', 'ses']	Laurent	La vitre résista. Elle reprit son élan, balança de nouveau son bras, de toutes ses forces. Le verre éclata. Elle poussa sur ses pieds et bascula en arrière. Le châssis céda sous la pression. Le cri de [MASK] l’accompagna dans sa chute :
+
+[',', 'et', 'se', 're', 'de']	Schiffer	— Moi aussi, j’utilisais les îlots comme courriers. Pour apporter des cadeaux à mes copines... — Vos employées, vous voulez dire. — C’est ça, petit. C’est ça... [MASK] dépiauta la barre de caramel et la plia dans sa bouche :
+
+['On', 'Elle', 'Il', 'on', 'et']	Kürsat	Pourquoi avoir volé l’héroïne ? [MASK] ricane : — Il te fallait plus. Foutre le bordel. Dresser les clans les uns contre les autres. Avec cette mission, tu tenais ta vengeance. Quand les Ouzbeks et les Russes seront ici, ce sera l’hécatombe.
+
+['t-il', 't-il', ':', 'a-t-il', ';']	Schiffer	; un flic intransigeant, un représentant de l’ordre public, implacable qui remuait la fange. Avait-il imaginé cela quand il avait vingt ans ? Il reçut un coup dans le dos. — Ça va pas, non ? hurla [MASK]. Range-moi ça.
+
+[',', 'véhicule', 'il', 'Il', 'et']	Schiffer	[MASK] franchit la première barrière et traversa le parc de stationnement. A 2 heures du matin, il s’attendait à voir surgir une sentinelle en combinaison noire marquée du logo SURGER , flanquée d’un clebs agressif et d’une matraque électrique. Mais rien ne vint.
+
+['On', 'on', 'Je', 'Elle', 'Il']	Sema	Des voix retentissent, dans le lointain. [MASK] lève les yeux. Des pêcheurs accostent la première digue. Elle n’avait pas prévu cela. Pas si tôt, du moins. Dans l’obscurité, elle discerne leurs lignes qui fouettent déjà la surface de l’eau.
+
+["C'", 'Il', 'Elle', "c'", 'Lui']	Marius	Ses mains tavelées tremblaient, les mots sifflèrent entre ses dents. — Y a pas trente-six manières de traiter avec ces enculés. — Nous sommes des flics. — [MASK] est une ordure. Il asservit ses putes ici en faisant mutiler leurs enfants là-bas, au pays.
+
+[',', 're', 'et', 'se', 'on']	Amien	Ils abordaient une partie plus sombre du cimetière. Des caveaux noirs, au coude à coude, des portes obscures, des toits obliques : cette zone évoquait un village de corons, blotti sous un ciel de charbon. [MASK] claqua la langue avant de continuer. —
+
+['Il', 'il', '-', 'Elle', '...']	Paul	— Je l’avais déjà remarqué sur les deux autres, mais c’est flagrant sur la dernière. Le sang de la victime contient des bulles d’azote. — Qu’est-ce que ça veut dire ? [MASK] sortit son carnet. — C’est assez singulier.
+
+['on', 'il', 'elle', 'chacun', 'tout']	Ackermann	Le médecin, appelé à son domicile, s’était aussitôt précipité et avait accueilli le neurologue avec effusion. Il ressemblait à un officier de poste-frontière recevant la visite impromptue d’un général de légende. Depuis six heures, [MASK] s’affairait autour de l’appareil.
+
+['Mary', 'pierre', 'Marie', 'Anna', 'Maria']	Laurent	La seule personne qui avait changé de visage, c’était elle. 21 — Anna ? Bon sang, réponds-moi ! La voix de [MASK] résonnait dans la salle de bains, planant à travers les dernières vapeurs, rejoignant l’air humide du dehors, par le vasistas ouvert.
+
+[',', 'se', 'de', 'un', 'en']	Charlier	[MASK] fit un mouvement des épaules, à en craquer les coutures de sa chemise. Il finit par dire : — De toute façon, je ne peux rien pour toi. — Pourquoi ? — Elle nous a échappé. — Tu déconnes. — J’en ai l’air
+
+['Il', 'il', 'et', 'Elle', 'Paul']	Schiffer	) Et moi, je suis en haut de la pyramide. — C’est l’avantage de ma position. J’ai rien à perdre. — Donne-moi plutôt la seconde raison. [MASK] appuya ses coudes sur le bureau. Il savait déjà qu’il avait gagné.
+
+['le', 'en', 'à', 'tout', 'ce']	Kürsat	Tu viens seul. En barque. Sourire dans la voix : — Pour me faire tirer comme un lapin ? — Ça ne résoudrait pas mes problèmes. — Je ne vois pas ce qui résoudrait tes problèmes. — Tu sauras si tu viens. — Où est [MASK]
+
+['on', 'il', 'elle', 'On', 'Il']	Sema	La rive semble prête à se détacher et à suivre le détroit jusqu’à la mer. [MASK] ne peut s’empêcher de vibrer, de sentir, dans ses veines devenues rivières, ces fragments de continent qui oscillent sur leurs bases.
+
+['elle', 'il', 'Elle', 'celle-ci', 'Il']	Sema	Et à l’évidence, il ignorait qui elle était vraiment. Il se remit debout, électrisé des pieds à la tête : — Pourquoi elle ? — A cause de son état psychique, [MASK] souffrait d’une amnésie partielle, qui la rendait plus apte à subir notre traitement.
+
+['Oui', 'Oh', 'Non', 'Ouais', 'Ah']	Clothilde	Le samedi, la boutique est prise d’assaut. — [MASK], la boutique..., répéta-t-il sur un ton sarcastique. — Eh bien ? — Ce boulot, vraiment... Ce n’est pas digne de toi. — De toi, tu veux dire.
+
+['Il', 'Elle', 'Lui', 'lui', 'me']	Amien	Nous aurions constaté une recrudescence d’overdoses par exemple. Or, il ne s’est rien passé. — Et le deuxième élément ? — Nous avons retrouvé la drogue. — Quand ? — Aujourd’hui même. ([MASK] lança un regard par-dessus son épaule.
+
+['il', 'Il', 'elle', 'Elle', 'on']	Clothilde	Mais elle avait trouvé beaucoup mieux ici. Un refuge. Un cercle qui conjurait ses angoisses. Quatorze heures ; la boutique était déserte. [MASK] avait sans doute profité de l’accalmie pour se rendre à la réserve ou au stock.
+
+['Elle', 'Il', '-', '-elle', 'elle']	Anna	Mais c’est aussi le plus proche. Celui que je vois le plus souvent. — Souffres-tu d’autres troubles de la mémoire ? [MASK] se mordit la lèvre inférieure. Encore une fois, elle hésita : — Non. — Des troubles de l’orientation ?
+
+['...', 'Il', 'il', 'qui', 'et']	Mathilde	Ou bien alors, c’est une histoire plus dingue encore : ils ont modifié ton identité. — J’aurais été quelqu’un d’autre avant tout ça ? — L’opération de chirurgie esthétique pourrait le laisser supposer. — Je... je ne serais pas la femme de Laurent Heymes ? [MASK] ne répondit pas.
+
+[',', 'de', 'ne', 'on', 'à']	Tanoï	Juste un dernier coup de colère, un baroud d’honneur. [MASK] ne répondait pas, les yeux hors de la tête. Le Chiffre lâcha prise, le laissant retrouver son souffle, sous l’ampoule crue qui se balançait comme un pendule obsédant, puis il murmura :
+
+['il', 'on', 'elle', 'ils', 'je']	Schiffer	Deux groupes d’agents de la voie publique, en ciré, étaient sur le départ. Des lieutenants, blouson de cuir sur le dos, enfilaient leur brassard rouge. Les grandes manœuvres avaient déjà commencé. Sur le comptoir, [MASK] repéra une pile de portraits-robots.
+
+['</s>', 'Il', 'Elle', 'il', ',']	Mathilde	? [MASK] poussa l’homme dans l’escalier et se retourna avec colère vers la petite brune. Jamais elle ne tolérerait qu’un de ses patients survienne comme ça, sans prévenir, sans rendez-vous. Un bon psy devait toujours faire le ménage devant sa porte.
+
+[',', 'de', 'blanc', 'bleu', 'la']	Paul	Lorsqu’il l’ouvrit, une violente giclée de soleil pénétra dans la salle, tel un flot de lait lancé à travers le grand bleu. [MASK] saisit un autre exemplaire du rapport d’autopsie : — Je peux prendre celui-ci ? Le médecin le fixa sans répondre, puis :
+
+['il', 'chacun', "l'", 'on', 'tous']	Paul	Mi-héros, mi-démon, il incarnait à lui seul le meilleur et le pire, la rigueur et la corruption, le Bien et le Mal. Une figure fondatrice, un Grand Tout que [MASK] admirait malgré lui comme il avait admiré, du fond de sa haine, son père violent et alcoolique.
+
+['et', 'Il', 'Elle', ')', ',']	Anna	([MASK] tressaillit.) Un neurologue ? — Je... Qu’est-ce qui vous fait croire ça ? — Vos symptômes sont plutôt cliniques. Ces défaillances, ces distorsions font penser à une maladie neurodégénérative. Dans de tels cas, le patient préfère consulter un neurologue.
+
+['y', 'Elle', 'elle', ',', '...']	Mathilde	: — Je t’écrirai. Je te le jure. Je t’expliquerai tout. Elle disparaît dans une éclipse de cendres. [MASK] demeure immobile, les yeux fixés sur la galerie vide, Au loin, les sirènes du cimetière retentissent. DIX 57
+
+['dans', 'avec', 'et', 'sur', 'à']	Zeynep	Elle bossait ici depuis quelques semaines. Disons : le mois d’octobre. — Elle a vu l’enlèvement ? — Elle était aux premières loges. Les deux filles faisaient un réglage de température dans le local des canalisations. Les Loups ont embarqué [MASK].
+
+['</s>', 'Qui', 'Il', 'On', 'En']	Anna	Le goût de la poussière, d’abord. Celui du sang, ensuite. [MASK] reprenait conscience. Elle se tenait recroquevillée, en chien de fusil, au bas d’un escalier. Levant les yeux, elle aperçut un plafond gris, un globe de lumière jaune.
+
+['Elle', 'Il', 'elle', 'il', 'On']	Mathilde	Leurs pas claquaient sur le trottoir argenté. [MASK] composa le code d’entrée. A l’intérieur, l’obscurité et le froid les accueillirent. Elles traversèrent un hall immense et gagnèrent un ascenseur d’acier, sur la gauche, qui ressemblait à un coffre-fort.
+
+['vie', 'n', 'à', 'la', 'de']	Reyna	. [MASK], ou la vie à jeun... Ce sentiment présageait ce qui allait suivre. A la fin de l’été 1994, elle lui annonça qu’elle était enceinte. Il prit la nouvelle comme une trahison : on lui volait son rêve.
+
+[',', 'qui', 'me', '...', 'et']	Anna	Un sourire qui se voulait réconfortant, mais apparaissait totalement artificiel : — Tu ne dois avoir aucune appréhension. Nous pratiquerons une biopsie stéréotaxique. Il s’agit d’une simple sonde qui... — Personne ne touchera à mon cerveau. [MASK] se leva et s’enroula dans son châle
+
+['elle', 'celle-ci', 'il', 'je', 'on']	Anna	Il ressemblait à un musicien s’apprêtant à jouer d’un xylophone de verre. Quand [MASK] réapparut, elle ne portait plus qu’une culotte noire. Son corps était d’une maigreur maladive. Ses os semblaient près d’écorcher sa peau au moindre geste.
+
+['Il', 'il', '.Il', 'II', '--Il']	Schiffer	Devant lui s’étendait le même tableau. Il franchit un nouveau ruban jaune, puis, soudain, au bout de l’allée, il l’aperçut. [MASK] avait vécu comme un salopard. Il était mort comme un salopard – dans un ultime sursaut de violence.
+
+['jeunesse', 'ma', 'sa', 'la', 'son']	Paul	D’abord à la mairie communiste, puis dans une petite église. Un syncrétisme de foi, de socialisme, de soleil. Un des meilleurs souvenirs de [MASK]. Les mois suivants avaient été les plus beaux de sa vie. Il ne cessait de s’émerveiller.
+
+['Il', 'il', 'Elle', 'et', 'elle']	Tanoï	[MASK] reposa le cliché avec précaution. — Oui. — Quel était son job ? — Mécanicienne en confection. — Tu l’avais installée en bas ? Le chef d’atelier haussa les sourcils en rangeant ses lunettes. Derrière eux, les ouvriers avaient repris leur travail.
+
+['il', 'elle', '-il', 'on', 'le']	Paul	Soudain, au pied de l’arche, l’homme traversa la chaussée, leur passant pratiquement sous le nez, sans les remarquer. Il s’engagea au pas de course dans le boulevard Saint-Denis. — Merde, jura [MASK]. C’est à sens unique.
+
+['Il', 'et', 'il', 'Elle', 'On']	Mathilde	Il n’y a vraiment pas de quoi en faire un plat. Je... — C’est extraordinaire. La lumière du moniteur fixait sur le visage du biologiste une expression d’émerveillement : — Ce n’est pas de la nicotine. [MASK] s’approcha du spectromètre.
+
+['elle', 'Elle', 'il', 'on', 'ELLE']	Anna	Un cri. Un rire. Un baiser. Tout cela agglutiné en une même physionomie. Un cauchemar. Dans la rue, [MASK] marchait les yeux baissés. Dans les soirées, elle parlait sans regarder son interlocuteur. Elle devenait un être fuyant, tremblant, apeuré.
+
+['le', "l'", 't-il', '...', 'homme']	Paul	Il lança un regard circulaire et se pétrifia. — Merde ! cria [MASK], se souvenant soudain qu’il avait conservé le gyrophare magnétique sur le toit de la voiture. L’homme se mit à courir comme si le bitume avait pris feu.
+
+['le', 'les', 'la', "l'", 'un']	Paul	; — Un des mecs est peut-être plus cinglé que les autres. Ou ils veulent simplement que les victimes ne soient pas identifiables, qu’on ne puisse pas reconnaître le visage qu’ils cherchent. — Qu’ils cherchent ? Le flic s’arrêta et se tourna vers [MASK]
+
+['il', 'celui-ci', 'chacun', 'elle', 'Il']	Schiffer	Il aurait pu imaginer le pire, s’inquiéter pour la vie du flic, mais non, il pressentait plutôt que le salopard l’avait doublé. Rendu à sa liberté, [MASK] avait sans doute découvert une piste fertile et la creusait en solitaire.
+

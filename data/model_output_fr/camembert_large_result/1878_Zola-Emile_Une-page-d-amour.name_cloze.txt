@@ -1,0 +1,200 @@
+['il', 'elle', 'Pierre', 'Charles', 'Marie']	Jeanne	La bonne eut beau lui répéter que le potage était sur la table, elle voulut même se laver le visage et les mains à grande eau. Quand elle fut toute blanche, humide encore, le peignoir boutonné jusqu’au menton, [MASK] revint près d’elle, lui prit une main et la baisa.
+
+['Elle', 'Il', 'Marie', 'Jeanne', 'Madeleine']	Hélène	[MASK] la regarda, lui répondit seulement par un hochement de tête. Toutes deux avaient la face pâmée et souriante. Un grand bruit de chaises et de mouchoirs s’éleva, le prêtre venait de quitter la chaire, en lançant ce dernier cri :
+
+['elle', 'Jeanne', 'Marie', 'Juliette', 'lui']	Juliette	Oh ! elle ne se gênerait plus, c’était le cri qui revenait en elle. Puis, elle pensa que son devoir était de parler à [MASK], de lui éviter la faute. Mais cette bonne pensée la glaçait, et elle l’écartait comme importune.
+
+['il', 'Alexandre', 'Charles', 'Pierre', 'Jean']	Hélène	Elle s’est endormie, dit [MASK] à voix basse. Regardez-la.Il n’entendait point, sa passion ne voulait pas faire silence. Elle s’était penchée devant lui, il avait aperçu sa nuque dorée, avec de fins cheveux qui frisaient.
+
+['le', 'la', 'malade', 'Marie', 'Louis']	Jeanne	Ne vous inquiétez pas, il faut que la crise suive son cours.Et tous deux, penchés au-dessus du lit, ils maintenaient [MASK], dont les membres se détendaient avec des secousses brusques. Le médecin avait boutonné son veston pour cacher son cou nu.
+
+['Marie', 'Jeanne', 'Marguerite', 'Madeleine', 'Catherine']	Hélène	Ah ! dit [MASK] toute pâle.– Bien sûr, la dame d’à côté, celle avec qui vous alliez à l’église… Elle est venue, l’autre jour.Les yeux de la mère Fétu se rapetissaient, en guignant l’émotion de la bonne dame.
+
+['...', '[...]', 'le', 'la', '(...)']	Henri.–	Ils firent doucement quelques pas. Par terre, les marronniers avaient laissé tomber une pluie de leurs petites fleurs, et ils marchaient sur ce tapis rose. Puis, ils s’arrêtèrent, le cœur trop gonflé pour aller plus loin.– Pardonnez-moi, dit simplement [MASK]
+
+['Marie', 'elle', 'Alice', 'Jeanne', 'Sophie']	Juliette	Vous ne vous disputez donc pas ce soir ? demanda-t-il.– Non, répondit [MASK] très gaiement. Il dit trop de bêtises… Si tu savais toutes les bêtises qu’il nous dit…On chanta de nouveau. Mais le silence fut plus difficile à obtenir.
+
+['Elle', 'Maman', 'Marie', '</s>NOTUSED', 'Jeanne']	Hélène	Puis, à voix basse :– Tu n’es donc plus fâchée contre le docteur ?L’enfant fit un long signe de tête.– Non, maman.Il y eut un silence. [MASK], de ses mains tremblantes et maladroites, semblait ne pouvoir serrer le nœud du châle.
+
+['il', 'elle', 'on', 'chacun', 'Il']	Pierre	Dans le vestibule du petit hôtel, [MASK] se tenait debout, en habit et en cravate blanche, ouvrant la porte à chaque roulement de voiture. Une bouffée d’air humide entrait, un reflet jaune de la pluvieuse après-midi éclairait le vestibule étroit, empli de portières et de plantes vertes.
+
+['lui', 'moi', 'Joseph', 'Lucien', 'elle']	Rosalie	Puis, dans sa rêverie, il y eut un brusque saut : elle songeait à des détails d’intérieur, aux comptes du mois qu’elle avait arrêtés le matin même avec [MASK], et elle se sentait très fière de son bon ordre.
+
+['chacune', 'Madame', 'madame', 'Marie', 'Clara']	Hélène	Alors, le docteur se montra très aimable pour ces dames ; il les complimenta, il leur promit un grand succès. Ganté de noir, très correct avec son visage rasé, il rentrait de ses visites. En arrivant, il avait simplement salué [MASK] d’un petit signe de tête.
+
+['Marie', 'elle', 'Jeanne', 'Madame', 'Catherine']	Hélène	Ce mardi-là, [MASK], assise près d’une fenêtre, travaillait à un ouvrage de couture, profitant des dernières lueurs du crépuscule, en attendant ses invités. Elle vivait là ses journées, dans une paix très douce. Sur ces hauteurs, les bruits se mouraient.
+
+['on', 'il', 'On', 'elle', '<unk>']	Hélène	Ça m’a étonnée, parce que, voyez-vous, la chance et moi… Un monsieur m’a chargée de son ménage. Oh ! c’est une histoire…Sa voix se ralentissait, ses petits yeux vifs tournaient dans les mille plis de son visage. Elle semblait attendre qu’[MASK] la questionnât.
+
+['Jean', 'Pierre', 'Louis', 'Léa', 'Henri']	Jeanne	Que s’était-il donc passé ? Pourquoi était-elle là, à suivre toujours les aiguilles sur ce cadran ? Deux minutes nouvelles s’étaient écoulées.– Maman, dit [MASK], si tu veux, nous irons voir le docteur ensemble, ce soir… Ça me promènera.
+
+['</s>NOTUSED', 'Elle', 'Madame', 'Marie', 'Jeanne']	Hélène	. Il ne va rien rester dans la bouillotte.Et elle posa la bouillotte devant elle. [MASK], un instant surprise, dut se lever.– Ah ! oui… Je vous remercie.Elle n’avait plus de prétexte, elle s’en alla lentement, à regret.
+
+['celle', 'celui', 'moi', 'madame', 'Monsieur']	Zéphyrin	Enfin, le dimanche suivant, la bonne se présenta, tout essoufflée, en disant :– Oh ! Madame, il n’y a personne, je vous le jure. Il n’y a que moi et [MASK] qui ratisse… Laissez-la venir.
+
+['elle', 'ce', 'lui', 'cela', 'celle']	Jeanne	Au fond de cette chambre, ils se trouvaient hors du monde, ayant perdu le souvenir de tout obstacle. Rien ne les séparait plus que cette enfant, secouée de leur passion.Alors, justement, ce fut [MASK] qui fouetta leurs désirs.
+
+['Marie', 'Jeanne', 'Pierre', 'Jean', 'Henri']	Rosalie	Ses quarante-cinq ans étaient déjà tout gris. Mais ses gros yeux bleus gardaient l’air étonné, naïf et doux d’un enfant.– Et voilà monsieur l’abbé, tout notre monde y est ! reprit [MASK], en ouvrant de nouveau la porte.
+
+['Antoine', 'Alice', 'Alexandre', 'Emma', 'Amélie']	Hélène	Elle couchait de nouveau dans le cabinet, depuis qu’elle était bien portante. Elle vint pieds nus et en chemise, comme tous les jours, se jeter au cou d’[MASK]. Puis, elle repartit en courant, elle se fourra encore un instant dans son lit chaud.
+
+['Marie', 'Jeanne', 'Alice', 'Sophie', 'Catherine']	Hélène	Il leur restait plus inconnu encore, ainsi éclairé par les nuées saignantes, pareil à quelque ville des légendes expiant sa passion sous une pluie de feu.– On a dansé en rond ? demanda tout d’un coup [MASK], comme réveillée en sursaut.–
+
+['Elle', 'Marie', '</s>NOTUSED', 'Jeanne', 'Catherine']	Hélène	mais ses regards, par-dessus le livre, se coulaient vers sa mère, d’une façon suppliante. [MASK], gagnée par le milieu de bonne grâce où elle se trouvait, ne bougeait pas ; elle était de sang calme et restait volontiers assise pendant des heures.
+
+['</s>NOTUSED', 'Il', 'Et', 'Lui', 'Jean']	Juliette	Il avait ouvert une porte, on apercevait l’enfilade des trois petites pièces, noires et délabrées, laissées dans toute leur crasse. Une bouffée d’air humide entra. [MASK], avant de s’engager dans cette misère, eut une dernière révolte, demandant tout haut :
+
+['On', 'Chacun', 'Il', 'Elle', 'Madame']	Hélène	Ils mettaient, dans cet étranglement des constructions voisines, l’illusion d’un coin de parc et semblaient agrandir démesurément ce jardinet parisien, que l’on balayait comme un salon. Entre deux ormes pendait une balançoire, dont l’humidité avait verdi la planchette.[MASK] regardait, se penchait pour mieux voir.–
+
+['non', 'oui', 'Non', 'là', 'enfin']	Zéphyrin	Je vois bien que tu mens, ton nez remue !… Ah ! [MASK], tu te perds, tu n’as seulement plus de religion… Méfie-toi !Pour toute réponse, d’un geste galant, il voulut la prendre à la taille.
+
+['Elle', 'Il', 'Marie', 'Maman', 'elle']	Jeanne	… les voilà ensemble.[MASK] les regardait, avec le tremblement de sa tête, un léger tremblement de femme très vieille. Ils étaient là comme mari et femme, prêts à se prendre bras dessus, bras dessous, pour retourner au pays.
+
+['</s>NOTUSED', 'Madame', 'Elle', 'Marie', '»']	Hélène	Vous ne mettez pas assez de finesse dans cette phrase : « Faire une bourse en cachette de son mari, cela passerait, aux yeux de bien des gens, pour un peu plus que romanesque… » Répétez cela.[MASK], très étonnée de l’occupation où elle la trouvait, s’était assise en arrière.
+
+['Marie', 'Jeanne', 'Alice', 'Rose', 'Emma']	Pauline	– Tiens ! qu’est-ce que ça fait ! Papa n’a rien dit, répondait tranquillement [MASK]. Si tu veux, je vais me mettre un bouquet.Elle cueillit une poignée de fleurs naturelles dans une jardinière et se la fourra entre les seins.
+
+['Marie', 'Jeanne', 'Maria', 'Catherine', 'Isabelle']	Jeanne	Les chants continuaient, la voix large de la foule roulait sur une gamme descendante, tandis que des notes suraiguës d’enfants piquaient çà et là le rythme traînard et balancé du cantique.– Elles te disent de venir, tu vois bien ! reprit [MASK] triomphante.–
+
+['Elle', 'Marie', 'Jeanne', 'Marguerite', 'Maman']	Hélène	Le vieux docteur, un matin, s’installa. [MASK] comprit, son enfant ne passerait pas la journée. Depuis la veille, elle était dans une stupeur qui lui ôtait la conscience même de ses actes. On ne luttait plus contre la mort, on comptait les heures.
+
+['il', 'elle', 'on', 'Marie', 'Pierre']	Jeanne	; sa petite face ronde, couverte de son, avait le reflet doré du blé mûr, tandis que les boutons de sa tunique étincelaient et que son pantalon rouge saignait comme un champ de coquelicots. Alors, [MASK] l’aperçut.
+
+['tous', 'chacun', 'Tous', 'certains', 'beaucoup']	Jeanne	Et, au ras des maisons, des ondes passaient sur la ville, une vibration de vie, faite de toute la vie enfermée là. La voix haute des rues prenait dans le soleil une mollesse heureuse. Mais un bruit attira l’attention de [MASK].
+
+['elle', 'il', 'Marie', 'lui', 'on']	Hélène	Et voilà, et voilà…Il se dandinait, passait son képi d’une main dans l’autre. Mais, comme [MASK] gardait le silence, il crut comprendre qu’elle doutait de sa fidélité. Cela le blessa beaucoup. Il s’écria avec feu :
+
+['lui', 'Marie', 'Paul', 'Madame', 'Marianne']	Zéphyrin	Elle examinait la belle femme, un couvercle de boîte à pastilles, doré et verni, que [MASK] avait essuyé avec soin. Sur le dossier de la chaise, un torchon l’empêchait de s’appuyer. Elle le repoussa, s’absorba de nouveau.
+
+['Madame', 'Marie', '</s>NOTUSED', 'Elle', '–']	Juliette	Cependant, le soleil se couchait, jaunissant les hautes branches. Une sérénité tombait du ciel pâle. [MASK], qui avait la manie des questions, même avec les personnes qu’elle connaissait le moins, interrogeait son mari, coup sur coup, souvent sans attendre les réponses.–
+
+['Marie', 'Alice', 'Rose', 'Louise', 'Jeanne']	Jeanne	Tu sors, maman ? demanda [MASK] étonnée.– Oui, ma chérie, une course dans le quartier. Je ne resterai pas longtemps… Sois sage.Dehors, le dégel continuait. Un fleuve de boue coulait sur les chaussées.
+
+['elle', 'il', 'on', 'Marie', 'tout']	Hélène	Onze heures sonnèrent, [MASK] était toujours là, lorsqu’elle crut entendre frapper légèrement à la porte du palier. Elle prit la lampe et, très surprise, alla voir.– Qui est là ?– Moi, ouvrez, répondit une voix étouffée.
+
+['madame', 'Madame', 'Monsieur', 'monsieur', 'un']	Jeanne	Et, sur le seuil, comme elle se retirait :– Vous savez ce que vous m’avez promis… Le premier jour de beau temps, vous descendez au jardin et vous amenez [MASK]. C’est une ordonnance du docteur.
+
+['prise', 'et', 'mais', ';', '!']	Jeanne	! mettez-les, mais que le Ciel vous inspire !Elle n’avait pas lâché [MASK], elle refusa de se relever, voulant garder sa tête sur son épaule. Lui, le visage froid, ne parla plus, absorbé dans l’effort qu’il tentait.
+
+['lui', 'Marie', 'moi', 'Lui', 'Louis']	Juliette	Elle piétinait à côté de [MASK], au milieu de la foule qui s’écoulait difficilement. Trempée de tendresse, comme lasse et sans force, elle n’éprouvait plus aucun trouble à la sentir si près d’elle. Un moment, leurs poignets nus s’effleurèrent, et elles se sourirent.
+
+['Marie', 'Jeanne', 'Louis', 'Pierre', 'Jean']	Hélène	– Ça ne fait rien, ma belle, c’est comme je t’aime… Et ça y est…Mais la porte avait craqué. Lorsque [MASK] entra, le petit soldat et la cuisinière, attablés bien tranquillement, avaient tous les deux le nez dans leur assiette.
+
+['Marie', 'elle', 'celle', 'Jeanne', 'Marguerite']	Hélène	Puis, se tournant vers [MASK] qui venait de se rasseoir, il murmura :– Ce sont des coliques hépatiques. Elle sera sur pied dans quelques jours.Et, déchirant une page de son carnet sur laquelle il avait écrit quelques lignes, il dit à la mère Fétu :
+
+['Monsieur', 'Pierrot', 'Charles', 'Madame', 'Louis']	Malignon	j’ai songé à un Pierrot de satin blanc.– Oh ! c’est commun ! déclara [MASK]. Vous aurez une bonne douzaine de Pierrots, dans votre bal… Attendez, il faudrait quelque chose de trouvé…Et il se mit à réfléchir profondément, en suçant la pomme de sa badine.
+
+['Elle', 'Maman', 'Marie', 'Thérèse', 'Louise']	Jeanne	Comment, tu ne m’as pas dit ?… Tu as refusé carrément, en m’expliquant que tu ne pouvais quitter tes malades.[MASK] écoutait. Une grande ride coupait son front pur, pendant que, machinalement, elle tordait ses doigts, les uns après les autres.–
+
+['elle', 'Marie', 'Jeanne', 'Louise', 'Marguerite']	Jeanne	Alors, de lui-même, frappé au cœur, malade, il cessa ses visites.Vers la fin du mois d’août, [MASK] put enfin se lever et marcher dans l’appartement. Elle riait soulagée ; en quinze jours, elle n’avait pas eu une crise.
+
+['elle', 'on', 'il', 'Marie', 'Madeleine']	Hélène	elle sautait plus fort, elle répétait : « Un soldat ! Un soldat ! » sans s’expliquer davantage. Alors, comme elle avait laissé la porte de la chambre ouverte, [MASK] se leva, et elle fut toute surprise d’apercevoir un soldat, un petit soldat, dans l’antichambre.
+
+['elle', 'Isabelle', 'Emma', 'Alice', 'Hélène']	Hélène	Écoutez, je puis vous parler franchement… Eh bien ! n’insistez pas, vous me gêneriez… Ce sera pour l’autre lundi.Cela était dit sans une émotion, si nettement, avec un si tranquille sourire, qu’[MASK], confondue, n’ajouta rien.
+
+['chacun', 'Marie', 'Clara', 'Sophie', 'Louis']	Jeanne	Sourdement, invinciblement, cette possession s’accomplissait. Lorsque [MASK] traversait une heure de danger, presque chaque soir, à ce moment où la fièvre redoublait, ils étaient là, silencieux et seuls, dans la chambre moite ;
+
+['Alice', 'Isabelle', 'Antoine', 'Anne', 'Emma']	Hélène	Une exaltation dévote l’avait subitement prise, elle multipliait les signes de croix, elle envoyait des génuflexions au grand lit et à la veilleuse de cristal. Puis, ouvrant la porte qui donnait sur le palier, elle ajouta à l’oreille d’[MASK], d’une voix changée :
+
+['Maria', 'Marie', 'te', '!', 'Stella']	Maria	… Ne vous sauvez pas, ma bonne petite demoiselle. Laissez-moi dire un Ave [MASK] à l’intention de votre maman, et vous répondrez : Amen, avec moi… Votre maman le permet, vous la rattraperez.
+
+['elle', 'il', 'maman', 'on', 'Marie']	Hélène	répéta le docteur.La petite fille était venue s’appuyer contre l’épaule de sa mère dans cette pose câline qu’elle aimait à prendre. Comme [MASK] allait ouvrir les lèvres, elle murmura :– Oh ! maman, tu sais ce que tu m’as promis ?
+
+['Elle', 'Madame', 'Marie', 'La', 'Mme']	Rosalie	[MASK], qui tournait le dos à la porte, lui coupait de longues mouillettes de pain.– Va, mange, mon petit ! disait-elle. Tu marches trop, c’est ça qui te creuse… Tiens ! en as-tu assez ? En veux-tu encore ?
+
+['il', 'elle', 'on', 'maman', 'Joseph']	Rosalie	Et, comme [MASK] arrivait avec une lampe, l’enfant apparut, toute blanche, dormant la joue sur ses bras croisés, tandis que l’éclaboussement des gouttes tombant du toit la mouillait. Elle ne soufflait plus, abattue de désespoir et de fatigue.
+
+['il', 'Marius', 'Louis', 'Charles', 'Julien']	Zéphyrin	En effet, [MASK], ahuri par son existence nouvelle, avait les yeux ronds et le dandinement d’une oie. Il gardait sa lourdeur de paysan sous ses épaulettes, la caserne ne lui enseignait point encore le beau langage ni les manières victorieuses du tourlourou parisien.
+
+['il', 'elle', '–', 'Jean', 'Il']	Lucien	Tu sais, je t’attendais, murmurait [MASK]. Ça m’embête, de donner le bras… Hein ? nous restons ensemble.Et il s’installa avec elle sur le premier rang des chaises. Il oubliait tout à fait ses devoirs de maître de maison.–
+
+['Marie', 'Jeanne', 'Louise', 'Catherine', 'Clara']	Jeanne	Alors, dans le désir fou qui lui battait le crâne il tâta machinalement le pouls de [MASK], cédant à l’habitude de la profession. Mais la lutte était trop forte, il resta un moment immobile, sans paraître savoir qu’il tenait cette pauvre petite main dans la sienne.–
+
+['Il', 'Elle', 'On', 'il', 'Jeanne']	Hélène	Puis, il se recula vite. [MASK] avait de grosses larmes au bord des yeux. Comme cet enfant se portait ! Et sa Jeanne qui était si essoufflée pour avoir fait le tour de la pelouse ! Il y avait des mères bien heureuses !
+
+['Dieu', 'Jésus', 'Napoléon', 'un', 'César']	Rosalie	Son caractère changeait. Dix fois dans une journée, elle montrait des humeurs différentes. Le plus souvent, elle avait une voix brève et impérative, parlant à sa mère comme elle aurait parlé à [MASK], la dérangeant pour les plus petits services, s’impatientant, se plaignant toujours.–
+
+['il', 'elle', 'lui', 'Il', 'Pierre']	Jeanne	Que dis-tu, mon enfant ? demanda-t-elle. Sais-tu bien ce que tu dis ?… Les remèdes ne sont jamais bons. Il faut prendre celui-là.Mais [MASK] garda son silence entêté, tournant la tête pour ne pas avaler la potion.
+
+['Elle', 'Anna', 'Alice', 'Il', 'Marie']	Hélène	[MASK] avait fait le voyage dans l’unique pensée de s’agenouiller là. Elle restait immobile, la tête basse, comme perdue et ne sentant pas la froide terre qui lui glaçait les genoux.Cependant, le vent cessait.
+
+['Marie', 'Jeanne', 'Madame', 'Madeleine', 'Catherine']	Rosalie	Puis, comme il ne pouvait se décider à jeter ses baguettes, il les apportait l’après-midi à [MASK], qui les lui enlevait des mains, en criant un peu, parce que cela salissait la cuisine. La vérité était qu’elle les collectionnait ;
+
+['une', 'un', 'madame', 'Madame', 'on']	Pauline	peu de silence ! cria [MASK]. Elle va jouer.C’était la pianiste, la dame qui avait un si beau talent. Toutes les têtes se tournèrent par politesse. Mais, au milieu du recueillement, on entendit de grosses voix d’hommes discutant dans le petit salon.
+
+['Berthe', 'Pauline', 'Louise', 'Jeanne', 'Marie']	Juliette	Elle l’avait oubliée.– Pauline, dit-elle, va donc une minute dans le jardin.– Ah ! non, c’est fatigant à la fin ! déclara la jeune fille qui se révoltait. On me dérange toujours.– Va dans le jardin, répéta [MASK] avec plus de sévérité.
+
+['elle', 'Marie', 'il', 'Louise', 'Madeleine']	Hélène	L’ambition de toute sa vie semblait enfin satisfaite. Elle était née pour ça. Comme elle serrait son sucre, [MASK] aperçut au fond d’une armoire des gourmandises, un pot de confitures, un paquet de biscuits, jusqu’à des cigares volés au monsieur.– Eh bien !
+
+['Il', 'Elle', 'On', 'Louis', 'Charles']	Hélène	Ah ! tu vas me dire ! demanda-t-elle. Ces vitres toutes blanches ?… C’est trop gros, tu dois savoir.Elle désignait le palais de l’industrie. [MASK] hésitait.– C’est une gare… Non, je crois que c’est un théâtre…
+
+['elle', 'il', 'madame', 'Jeanne', 'Marguerite']	Jeanne	Mais [MASK] intervint vivement :– Non, non, le soleil est si bon… Nous descendrons, madame. Vous me garderez ma place, n’est-ce pas ?Et comme le docteur restait en arrière, elle lui sourit.–
+
+['</s>NOTUSED', 'la', 'Madame', 'Mme', 'madame']	Hélène	Ah ! ma bonne dame, ma bonne dame…, se mit-elle à geindre, lorsqu’elle vit entrer [MASK].La mère Fétu était couchée. Toute ronde malgré sa misère, comme enflée et la face bouffie, elle ramenait de ses mains gourdes le lambeau de drap qui la couvrait.
+
+['On', 'Chacun', 'on', 'Il', 'Elle']	Malignon	Je vous attends, avait dit le docteur Deberle à son confrère. Venez nous rassurer.Dans le jardin, on causa vivement. [MASK] s’écriait que les femmes avaient de drôles de têtes. Pourquoi diable cette dame s’était-elle amusée à sauter ?
+
+['elle', 'Marie', 'il', 'Jeanne', 'Madeleine']	Hélène	d’une voix furieuse, comme si elle avait reçu le contrecoup du baiser ardent dont le médecin effleurait les cheveux de sa mère. Vivement, [MASK] dut rentrer, car elle venait d’entendre l’enfant sauter du lit. Elle la trouva grelottante, exaspérée, accourant en chemise.
+
+['Monsieur', 'Charles', 'Madame', 'Louis', 'Julien']	Rosalie	Et pourtant, malgré ses répugnances, elle restait enfiévrée, attirée, les sens occupés du silence et du demi-jour qui devaient régner dans la chambre rose.– Mademoiselle, répétait [MASK], si vous ne vous laissez pas faire, je vais appeler Madame…– Tiens !
+
+['chacun', 'boire', 'chacune', 'prendre', 'tous']	Rosalie	Est-ce fini ? dit-elle à demi-voix. Croyez-vous à d’autres accès ?Il fit un geste évasif. Puis, il répondit :– En tout cas, les autres seront moins violents.Il avait demandé à [MASK] un verre et une carafe.
+
+['Elle', 'Il', 'On', 'Maman', 'Marie']	Hélène	Déjà elle renversait les poignets, comme à l’approche d’une crise de convulsions. [MASK] se leva vivement, en la suppliant de parler ; mais elle gardait sa raideur entêtée, elle arrêtait sur sa mère des regards si noirs, que celle-ci finissait par rougir et balbutier
+
+['Marie', 'Jeanne', 'Catherine', 'Anna', 'Sophie']	Juliette	Elle acheva son café, resta là, absorbée, les yeux sur la flamme. En se levant, elle venait de se dire que son devoir lui commandait de parler à [MASK], de la faire renoncer au rendez-vous de l’après-midi. Comment ? elle l’ignorait ;
+
+['Elle', 'Il', 'Personne', 'Lui', 'Rien']	Hélène	tous étaient morts. Une autre dame restait seule avec un grand fils qui la battait ; celui-là aurait dû mourir, sa mère se serait consolée sans peine. [MASK] semblait l’écouter. Elle ne bougeait plus, agitée seulement d’un tremblement d’impatience.– Vous voilà plus
+
+['elle', 'Alice', 'Anna', 'Amélie', 'Emma']	Hélène	D’autres applaudissaient, tandis que les garçons riaient, la bouche ouverte, d’un ton grave qui accompagnait les gammes flûtées des demoiselles.– S’amusent-ils ! murmura le docteur.Il était revenu se placer près d’[MASK]. Celle-ci s’égayait comme les enfants.
+
+['Mathilde', 'Jeanne', 'Marguerite', 'Madame', 'Mme']	Pauline	Vous savez que je n’ai rien eu, dit le fils Tissot à [MASK], qui lui parlait d’un peintre chez lequel son père l’avait conduite voir des tableaux.– Comment ! vous n’avez rien eu ?… Je vous ai apporté une tasse de café.–
+
+['Jeanne', 'Marie', 'Rose', 'Louise', 'Madeleine']	Jeanne	Elle ne sut que répondre d’abord à cette question d’enfant. Enfin, elle murmura :– Il serait comme ton père, ma chérie.Alors, les petits bras de [MASK] se raidirent, elle éclata brusquement en gros sanglots. Elle bégayait :
+
+['elle', 'Marie', 'Louise', 'Anna', 'Julie']	Jeanne	Depuis quelque temps, [MASK] le boudait ; et le pauvre homme, désespéré, ne sachant comment rentrer dans les bonnes grâces de sa petite amie, en arrivait à la taquiner pour se rapprocher d’elle. Il répéta à plusieurs reprises, en la regardant :
+
+['Elle', 'Et', 'Marie', 'On', 'Mais']	Jeanne	[MASK], entre deux branches, voyait la face du petit soldat, une lune bon enfant, très rouge, crevant d’un rire amoureux. Il y eut une poussée, le petit soldat et la bonne roulèrent derrière les verdures.
+
+['elle', 'lui', 'eux', 'Marie', 'moi']	Jeanne	Son regard, un instant, tomba sur [MASK] ; puis, embarrassé, il détourna la tête. La petite avait soutenu ce regard gravement ; et, dénouant ses mains, d’un geste instinctif, elle saisit la robe de sa mère, elle l’attira près d’elle.–
+
+['Elle', 'Jeanne', 'Marie', 'Anne', 'Marguerite']	Hélène	[MASK] songeait qu’il ne fallait pas donner d’importance aux caprices des enfants. Au fond, elle avait une sourde honte, le poids de sa fille sur son épaule la faisait rougir. Alors, elle posa Jeanne à terre. Toutes deux furent soulagées.–
+
+['elle', 'Madame', 'Mme', 'Marie', '–']	Pauline	Tu as eu beaucoup de monde ? demanda [MASK], sautant brusquement à un autre sujet.– Oh ! un monde fou, toutes ces dames ! Ça n’a pas désempli… Je suis morte…Puis, songeant qu’elle oubliait de procéder à une présentation dans les formes, elle s’interrompit
+
+['Madame', 'Mathilde', 'Marie', 'Jeanne', 'Marguerite']	Pauline	Et, par la porte du salon réséda laissée ouverte, on entendait la voix aiguë de [MASK], restée seule avec le fils Tissot.– Maintenant que je l’ai versé, vous allez le boire, bien sûr… Qu’est-ce que vous voulez que j’en fasse ?
+
+['Monsieur', 'Madame', 'Maman', 'Papa', 'Marie']	Rosalie	puis, elle s’échappa, en recommandant à [MASK] de bien veiller sur Mademoiselle. Alors, l’enfant se pelotonna au coin de la cheminée, regardant le feu brûler, enfoncée dans une rêverie. De temps à autre, elle avançait machinalement les mains, pour les chauffer.
+
+['lui', 'ceux', 'celui', 'moi', 'celle']	Malignon	– Autre part alors, où il vous plaira, pourvu que je vous voie… Chez vous, cette nuit ?Elle se révolta. Mais elle ne put refuser que d’un geste, reprise de peur, en voyant les deux femmes et [MASK] qui revenaient.
+
+['elle', 'Marie', 'Catherine', 'Jeanne', 'Marguerite']	Jeanne	Elle les attirait, les rapprochait d’une façon convulsive, en répétant :– Ensemble, ensemble…Le délire reparut ainsi à plusieurs reprises. Dans les moments de calme, [MASK] cédait à des somnolences, qui la laissaient sans souffle, comme morte.
+
+['eux', 'tous', 'lui', 'nous', 'moi']	Lucien	À chaque visite, elle recommençait la même conversation ; elle expliquait que son mari ne l’accompagnerait pas à la mer ; puis, elle questionnait les gens, elle ne pouvait fixer son choix. Ce n’était pas pour elle, c’était pour [MASK].
+
+['fièvre', 'ce', 'Paul', 'cœur', 'Lucien']	Jeanne	Successivement, il redouta une lésion du cœur et un commencement de phtisie. Ce qui l’inquiétait, c’était l’exaltation nerveuse de [MASK] qu’il ne savait comment calmer, c’était surtout cette fièvre intense, entêtée, qui refusait de céder à la médication la plus énergique.
+
+['Il', 'Elle', 'On', 'Maman', 'Marie']	Hélène	Je vous jure qu’elle va beaucoup mieux, dit le docteur. Avant quinze jours, elle pourra descendre au jardin.[MASK] piquait vivement son aiguille. Elle murmura :– Hier, elle a encore été bien triste… Mais, ce matin, elle riait ;
+
+['Il', 'Tout', 'On', 'Elle', 'Joseph']	Malignon	; elle l’installa dans un fauteuil, près de la bouche de chaleur, voulut qu’on fermât tout de suite les glaces, en faisant remarquer que l’air était un peu vif pour la chère enfant. [MASK] était parti.
+
+['Marie', 'mère', 'Jeanne', 'mort', 'Marguerite']	Jeanne	Auprès du lit de [MASK], dans cette pièce émue encore de l’agonie de l’enfant, une chasteté les protégeait contre toute surprise des sens. Cela les calmait, d’entendre son haleine d’innocente. Pourtant, à mesure que la malade se montrait plus forte, leur amour, lui aussi, prenait des forces
+
+['Elle', 'Marie', 'Sophie', 'Jeanne', 'Alice']	Hélène	Elle entra vivement dans la pièce voisine où un lourd silence s’était fait. Mais la veilleuse, noyée d’huile, avait une tremblante clarté qui envoyait seulement au plafond une tache ronde. [MASK], penchée sur le lit de fer, ne put rien distinguer d’abord.
+
+[':', 'joie', '«', '–', 'surprise']	Malignon.–	Mais il eut la parole coupée par une exclamation de [MASK] J’ai trouvé !… Un marquis Louis XV !Et il brandissait sa badine, d’un air triomphant. Puis, comme on ne s’enthousiasmait guère autour de lui, il parut étonné.– Comment
+
+['Elle', 'Il', 'Lui', 'Marie', 'Pierre']	Charles	Puis, on les avait mariés. Ce mariage l’étonnait encore. [MASK] l’adorait, se mettait par terre, le soir, quand elle se couchait, pour baiser ses pieds nus. Elle souriait, pleine d’amitié, en lui reprochant d’être bien enfant.
+
+['Jeanne', 'Marie', 'Anne', 'Louise', 'Isabelle']	Hélène	Au fond, elle avait une sourde honte, le poids de sa fille sur son épaule la faisait rougir. Alors, elle posa Jeanne à terre. Toutes deux furent soulagées.– Maintenant, sois raisonnable, essuie tes yeux, reprit [MASK]. Nous arrangerons tout ça.
+
+['elle', 'il', 'Anna', 'Elle', 'Marie']	Hélène	Lentement, sur ces eaux blanches, si calmes, des ombres semblaient faire voyager des vaisseaux aux voiles roses, que la jeune femme suivait d’un regard songeur. Aimer, aimer ! et elle souriait à son rêve qui flottait.Cependant, [MASK] reprit son livre.
+
+['Jeanne', 'Marie', 'Anna', 'Alice', 'Louise']	Jeanne	Mon Dieu ! plus que douze minutes, juste le temps de courir. Elle irait là-bas, elle ferait quelque chose, n’importe quoi. En chemin, elle verrait.– Petite mère, emmène-moi, répétait [MASK] d’une voix de plus en plus basse et touchante.–
+
+['Paul', 'Pierre', 'Louis', 'Jean', 'Marie']	Jeanne	Alors, elle demeura le front baissé jusqu’à la fin de la cérémonie, dans l’attente du retour.– Ah ! c’est gentil d’être venu ! dit [MASK] à la sortie, avec sa familiarité d’enfant. J’aurais eu peur, dans ces rues noires.
+
+['Il', 'Lui', 'Elle', 'Daniel', 'Paul']	Henri	[MASK] ne semblait pas la voir. Il ne s’était plus approché d’elle. Par moments, il lui souriait de loin. Au commencement de la soirée, elle avait éprouvé un soulagement à le trouver si raisonnable.
+
+['Elle', 'Il', 'Anna', 'Marie', 'Emma']	Hélène	Vous voyez bien, je suis prise… Demain, si vous avez le temps.[MASK] se tut. Le ton détaché de la jeune femme l’irritait. Elle sentait une colère, à la voir si paisible, lorsqu’elle-même endurait depuis la veille une si douloureuse agonie.
+

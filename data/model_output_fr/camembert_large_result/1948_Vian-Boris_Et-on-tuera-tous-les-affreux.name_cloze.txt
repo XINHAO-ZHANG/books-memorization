@@ -1,0 +1,200 @@
+['Il', 'Elle', 'Papa', 'Pierre', 'Je']	Gary	[MASK] se penche et donne de nouvelles indications au chauffeur. – Et s’ils sont déjà là, et s’il est monté? dis-je. Il sourit. – N’aie pas peur, je ne te dirai pas de monter.
+
+['Marie', 'Pierre', 'Madame', 'Jean', 'Jeanne']	Mona	L’air est doux et tiède et on se sent vivre rien qu’en respirant. – Restons dehors… dis-je… Il fait si chouette… – Nous avons à vous parler, dit [MASK]. Fichtre! ça ne traîne pas…
+
+['toi', 'gamin', 'papa', 'Max', 'vieux']	Gary	– Du moment que tu sais où tu vas… murmure-t-il. Il se rendort. Je le réveille d’un bon coup de coude. – Dis donc, [MASK], si tu faisais un peu travailler tes méninges, au lieu de roupiller.
+
+['Pierre', 'Jean', 'Albert', 'Paul', 'Jules']	Gary	– Quel brave type! dit [MASK]. Tu comprends pourquoi on ne t’a pas suivi, ce coup-ci? Les deux bonshommes qui étaient derrière toi se sont éliminés d’eux-mêmes. – J’aime pas ces mœurs-là, dis-je.
+
+['là', 'madame', 'venez', 'ici', 'maintenant']	Sally	D’abord, j’ai horreur de ça, ensuite, une fois par semaine, ça me suffit bien. Si on les laissait s’expliquer toutes seules? – Excellente idée, dis-je. Je regagne l’autre pièce. – Venez, [MASK], dis-je.
+
+['monsieur', 'madame', 'mais', 'Monsieur', 'Madame']	Rocky	– Mais oui, [MASK]… Il y a trois jours qu’on ne vous voit plus… Venez, on a la voiture… On va faire un tour… Vous ne partez pas tout de suite… – J’ai un peu de temps… dis-je.
+
+['John', 'Jean', 'monsieur', 'Paul', 'Francis']	Cora	Les deux hommes nous entraînent. Nous retraversons la cour saupoudrée de gravier. La grosse voiture qui y était garée est toujours là, et la mienne attend dehors, derrière la Dodge de [MASK]. C’est dans la grosse que nous montons.
+
+['Paul', 'Albert', 'Jack', 'Pierre', 'Charles']	Defato	Les deux bonshommes qui étaient derrière toi se sont éliminés d’eux-mêmes. – J’aime pas ces mœurs-là, dis-je. Ils ont la gâchette beaucoup trop rapide. Qu’est-ce que tu as fait à [MASK] pour qu’il te raconte tous ses secrets?
+
+['Il', 'Elle', 'On', 'Pierre', 'Paul']	Gary	Il l’ouvre et le retourne au-dessus de son bureau. Il en tombe des objets divers et féminins: poudrier, bâton de rouge, briquet, et puis des cigarettes, des photographies, deux enveloppes. [MASK] néglige le matériel et se rue sur les papiers.
+
+['lui', 'ça', 'Charlotte', 'Paul', 'Thomas']	Cora	J’ai toujours les mains liées et je ne peux pas bouger, mais je devine sa main qui me tâte les cuisses et je n’aime pas ça. Toutes mes envies, tous mes désirs, ont singulièrement rétrogradé depuis que [MASK] m’a caressé le crâne à coups d’objets d’art.
+
+['il', 'je', 'Bill', 'Jerry', 'John']	Nicholas	Mince, dit [MASK]… Mais c’est vous Monsieur Los Angeles de l’année dernière. Je me mets à rire… J’ai un bon tailleur et quand je suis habillé, on ne peut pas se douter de ce que je me suis fabriqué comme anatomie (mes parents m’ont aidé au début)
+
+['Pierre', 'Marie', 'Jean', 'Alice', 'Philippe']	Mike	Il se retourne vers nous. – Ces deux-là sont rigoureusement identiques. Si vous préférez être tous les quatre ensemble, naturellement, c’est à votre idée… les deux pièces communiquent. – Merci, dit [MASK]. Nous profiterons de l’autorisation.
+
+['vous', 'maintenant', 'monsieur', 'alors', 'Monsieur']	Rock	– Alors, [MASK]… vous avez été dire au revoir à votre vieille mère? – Heu… Oui… dis-je. Elle m’a retenu un peu plus longtemps que je ne pensais… Enfin, me voilà.
+
+['Jean', 'Pierre', 'Alice', 'Paul', 'Marie']	Mike	– Nous y sommes, murmure [MASK]. Devant nous un grand bâtiment blanc avec un toit en terrasse, un cube de maçonnerie percé de quelques rares fenêtres. Nous guettons quelques instants. Il est absolument invraisemblable que les gens qui vivent là-dedans n’aient pas entendu les explosions.
+
+['rien', 'tout', 'personne', 'juste', 'Alice']	Gary	Il y a aussi de drôles de petites fenêtres avec des grands rideaux. Et je suis adossé au mur, ficelé comme un saucisson. Je peux à peine tourner la tête et je suis tout endolori. J’aperçois [MASK] à côté de moi.
+
+['Pierre', 'celui', 'David', 'moi', 'Paul']	Douglas	Je suis à votre disposition pour vous payer un verre. – Votre entraînement vous permet de boire? me répond-elle du tac au tac. – Mais oui, assure [MASK] qui ne perd pas un mot de notre conversation.
+
+['Pierre', 'Jack', 'Max', 'John', 'Paul']	Gary	Si notre chance continue, peut-être que tu pourras voir si l’un d’eux est le gaillard qui t’a drogué cette nuit. – Ce serait trop de veine… dis-je. – Non… dit [MASK]. Vraisemblablement, si c’est la même bande, ils préféreront un type qui te connaisse.
+
+['Pierre', 'Albert', 'Monsieur', 'Paul', 'José']	Mike	Je le dis à [MASK]. – Ce n’est pas possible, il n’y a personne là-dedans. – Il y avait des gardiens à la porte et sur les miradors, me répond-il avec logique. Ils sont là pour garder quelque chose, non?
+
+['Freud', 'Sartre', 'Jésus', 'Marx', 'Nietzsche']	Mike	mais vous voyez: à quoi ça nous sert? Nous restons puceaux jusqu’à vingt ans et plus. – C’est pas parce que nous sommes des cons, dit [MASK], qu’il faut laisser périr la société, même si c’est une société d’encore plus cons.
+
+['Il', 'David', 'Joseph', 'Papa', 'Paul']	Mike	Amusez-vous, mes enfants… Moi, je vais dormir un peu… Je m’étends et je ferme les yeux… Cinq secondes… Je dors… Une poigne vigoureuse me secoue. Je regarde. [MASK] est debout à côté de moi, couvert de sueur et haletant.
+
+['Alors', 'Mais', 'Dites', 'Monsieur', 'Et']	Rocky	c’est de ça qu’il a l’air. Et ça le gêne un peu pour faire la cour aux filles. Mona a remis ça. – [MASK], quand allez-vous vous décider à m’avouer que vous m’aimez? – Jamais, Mona…
+
+['Madame', 'Camille', 'Monsieur', 'Henri', 'Alice']	Schutz	Je franchis la porte suivante. – À tout à l’heure! nous crie [MASK] en s’en allant. La police de ses couloirs est sérieuse. Nous n’avons pas vu âme qui vive depuis que nous sommes descendus. Dans ma chambre, une fort jolie personne m’attend.
+
+['il', '–', 'John', 'Jack', 'Paul']	Andy	Je vais à lui et je lui serre la main. Derrière, dans la voiture, il y a un type sympathique, costaud, le teint hâlé, les traits énergiques, avec des yeux assez aigus qui surprennent un peu dans sa figure calme. – Mike, me dit [MASK].
+
+['Georges', 'Monsieur', 'Paul', 'Jack', 'Pierre']	Lem	Les deux ou trois clients qui sont encore là se sont levés, sont allés regarder le cadavre et sont revenus au bar, ce qui fait que tout le monde entoure le comptoir, attendant que [MASK] nous prépare un remontant terrible; car son barman est allé se coucher depuis un moment sans doute.
+
+['John', 'Jack', 'Harry', 'David', 'Tom']	Gary	J’ai idée que s’il avait quelque chose de compromettant à cacher, c’est un endroit idéal. – Je ne te suis pas, dit [MASK]. – Il devait s’attendre à quelque chose, dis-je.
+
+['il', 'lui', 'je', 'on', 'Pierre']	Mike	Bing! il rentre dedans… Elle est fermée, mais c’est le même tabac, elle s’ouvre quand même… Je suis sur lui… En terrain libre! Bon Dieu, nous sommes dehors! Du coup, je reperds quatre mètres et [MASK] me double…
+
+['ça', 'chéri', 'maman', 'Monsieur', 'merci']	Rocky	– Quelle bonne idée, [MASK]… Ça va nous faire du bien. En deux secondes, le pantalon tombe et le chandail vole et Dieu me pardonne, elle n’éprouvait le besoin de rien d’autre. Je ne sais plus où me mettre…
+
+['Madame', 'madame', 'Maman', 'maman', 'Monsieur']	Schutz	Il n’est pas question de physique là-dedans. Vous le savez bien. – Ah, dit [MASK], si vous parlez par énigmes, je ne vous suis plus. Venez voir mes petites filles; nous avons perdu assez de temps comme ça…
+
+['Marie', 'Alice', 'Jean', 'Sophie', 'Pierre']	Gary	Des portes… des armoires métalliques laquées de blanc tout autour. Jef en ouvre cinq et nous fait les honneurs. – Si vous voulez passer ces ravissantes tenues, dit-il. Ça vous permettra d’entrer où vous voudrez. – Elles sont stérilisées? demande [MASK].
+
+['Alice', 'Sophie', 'Freud', 'Marie', 'Clara']	Mike	Une fois encore, il ricane désagréablement: – Sauf moi, bien sûr, puisque je suis loupé! – Bon, bon, dit [MASK]. Nous avons compris. Ainsi le docteur Markus Schutz fait des expériences sur les hommes et sur les femmes et sur la reproduction?
+
+['Alice', 'Jack', 'Maman', 'Marie', 'Charlotte']	Sigman	– Ça m’a l’air de finir en queue de poisson, tout ça, dit-il. – C’est une bonne fin, dis-je. Quand le poisson est bien cuit… – Que va faire [MASK]? – Rien… On va voir…
+
+['Il', 'Elle', 'On', 'Paul', 'Jack']	Andy	Il fait assez clair… Je me repère sans difficulté… Je suis tout près du tronc et en dessous de moi, il n’y a pas une branche que je puisse atteindre avant trois mètres de chute libre. Bon. [MASK] avait raison, après tout.
+
+['Marie', 'Jeanne', 'Alice', 'Madame', 'Sophie']	Beryl	On va le tirer au sort, glapit [MASK]. Elle non plus n’a plus rien sur le dos… elle a roulé ses bas aux chevilles… Je fais des comparaisons. – Enfin, dis-je, je ne suis pas un coquetier de foire… –
+
+['Il', 'Joseph', 'Paul', 'Napoléon', 'Louis']	Mike	Il fait encore jour, parce que nous avons fait route dans le sens du soleil; c’est pour cette raison que notre départ a été retardé de plusieurs heures. [MASK] est déjà presque prêt, et ses hommes sont en train de s’habiller.
+
+['Jack', 'Pierre', 'Jean', 'John', 'Albert']	Gary	– Tu parles! me dit [MASK]. Si tu as envie de te retrouver dans le fossé avec des pissenlits plein les narines, c’est la bonne chose à faire. Mon vieux, je n’ai pas l’intention de jouer au détective de cette façon-là.
+
+['le', 'la', 'madame', 'Jean', 'Pierre']	Douglas	Il me désigne une grande fille mince qui attend debout près de la porte. – Qu’est-ce qu’elle veut? – C’est personnel, paraît-il, me répond le garçon. Il s’éloigne. – Ça y est, me dit [MASK].
+
+['Il', 'Elle', 'Jack', 'On', 'Maman']	Noonoo	[MASK] vient d’aboyer, un aboiement bref et sourd. Nous nous retournons et nous plaquons des deux côtés de la porte éventrée. – Je commence à comprendre, dis-je. C’est cette pièce-là qui sert de souricière. Des bruits de pas se rapprochent.
+
+['je', 'il', 'Pierre', 'Paul', 'lui']	Mike	Il monte de la bagarre une telle odeur de sueur et de chair chaude que j’ai la tête qui me tourne. Nous marchons en silence et [MASK] secoue la tête, désolé. – C’est pas une vie, dit-il.
+
+['moi', 'nous', 'eux', 'ça', 'cela']	Mary	– Que je n’aime que ceux qui me ressemblent. Alors, si ça ne vous fait rien, vous allez vous distraire avec [MASK]. – Mais pourquoi nous donnez-vous ces noms? dit-elle. – Je n’aime pas les numéros, dis-je.
+
+['Marie', 'Catherine', 'Jeanne', 'Sophie', 'Claire']	Mary	Le buste ferme de [MASK] s’écrase contre le mien et je sens qu’elle respire plus vite. La voiture saute sur les bosses du chemin. La voilà qui ralentit de nouveau, tourne une seconde fois, mais à gauche, fait deux cents mètres et s’arrête brusquement.
+
+['Pierre', 'Jean', 'Philippe', 'Michel', 'Paul']	Gary	Il était toujours en train de me blaguer parce que j’ai été trop cuit. Lui, il n’avait rien qui cloche… d’accord… mais c’est lui qui est mort; ça lui apprendra. – Ça va, coupe [MASK]. Comment peut-on sortir d’ici?
+
+['Pierre', 'Paul', 'John', 'Jean', 'Tom']	Andy	– Chut! dit [MASK] à mi-voix. Ça alors, ajoute-t-il, c’est plus fort que de jouer à la pêche au tarpon avec des patins à roulettes en toile d’avion. Devant nous s’étend une immense propriété, masquée à demi par un rideau d’arbres…
+
+['Marie', 'Sophie', 'Catherine', 'Alice', 'Jeanne']	Cora	Il se plie en deux et je recommence à voir la vie en rose. Qui a pu me lancer le vase? Je me retourne et j’aperçois [MASK]. – Oh! dis-je, c’est méchant d’attaquer votre fiancé de dos. Elle ricane.
+
+['mais', 'monsieur', 'ça', 'Monsieur', 'non']	Mike	C’est la faillite du système… Je proteste. – C’est une erreur, [MASK]… Ils ne peuvent pas voir ce qu’ils font là-dedans… Les marins dédaignés ont formé le cercle et l’un d’eux prend des photographies avec un petit appareil portatif.
+
+['le', 'John', 'Jack', 'Jean', 'la']	Mike	– À moins qu’ils ne soient là pour faire croire qu’il y a quelque chose à garder, dis-je avec une logique équivalente en me taquinant le sacrum du bout de l’ongle, car il me point. – On va bien voir… dit [MASK].
+
+['César', 'Napoléon', '</s>NOTUSED', 'le', 'Dieu']	Mike	– Mettez-vous par là, ordonne [MASK]. Il les compte. – On va vous amener des hommes et vous choisirez celui que vous voulez… Vu? Au commandement, vous marcherez sur lui et vous le désignerez… Vous serez en nombre égal.
+
+['papa', 'maman', 'monsieur', 'John', 'Jean']	Mona	Elles gémissent un peu… tout doucement. … Le temps passe… Il passe beaucoup, aujourd’hui… Je m’amène à cinq heures, juste à temps pour le départ, dans la Cadillac de [MASK]… J’ai laissé les deux filles chez le cousin…
+
+['Madame', 'Monsieur', 'Pierre', 'madame', 'Françoise']	Mike	Parlons d’autre chose… Je vous le demande comme un service personnel… – Ça va, dit [MASK]. Je n’insiste plus… Mais quant à me dire que vous vous contentez de cultiver le physique des gens, n’attendez pas que j’avale celle-là…
+
+['Paul', 'Pierre', 'Jules', 'Max', 'David']	Gary	C’est pas ici. Mais le chauffeur ne pipe pas et démarre. – Lis leur numéro… dis-je à [MASK] en lui bourrant les côtes d’un solide coup de coude. Il se retourne, regarde par la glace arrière et note quelque chose sur un carnet.
+
+['il', 'ça', 'cela', 'elle', 'John']	Andy	Je rêvais que j’étais en train de faire l’amour avec une girafe et [MASK] me tire vraiment d’un mauvais pas. Je le remercie et nous commençons à prendre nos dispositions pour le parachutage sur l’île. Il fait encore jour, parce que nous avons fait route dans le sens du soleil;
+
+['un', 'Pierre', 'plusieurs', 'deux', 'certains']	Kilian	Un tout petit coup. Ils nous ménagent. Ils entrent. Deux flics en uniforme et un civil qui n’a pas l’air très réveillé. Il serre la main à [MASK]. Ce doit être le dénommé Defato. Il en arrive aussitôt deux autres.
+
+['dehors', 'ça', 'David', 'cela', 'Daniel']	Mike	– Il est complètement enragé, assure l’homme paisiblement. Il a pris quatre filles pour lui tout seul et elles sont en train de demander grâce toutes les quatre. Mais il a fermé la porte. Je regarde [MASK] avec fierté. – Hein? dis-je.
+
+['John', 'Jack', 'Tom', 'Max', 'Peter']	Gary	– C’est ça qui m’a réveillé, dis-je. On ferait bien de se grouiller d’aller au Slammer avant qu’ils ne suivent le même raisonnement que nous. – C’est la barbe, dit [MASK]… Je voulais voir quelque chose au bureau des Disparus…
+
+['Jean', 'Pierre', 'Paul', 'Max', 'Michel']	Gary	Parce que vraiment, je n’avais qu’à me laisser faire. Mais parle-moi d’autre chose, parce que c’est un souvenir désagréable. – Il ne tenait qu’à toi, ricane [MASK]. Et pardieu, je sais bien qu’il a raison.
+
+['John', 'Jack', 'Max', 'Maman', 'Tom']	Douglas	– J’ai été enlevé par une femme qui m’aimait en secret, dis-je. Et j’ai trouvé un type qui fume des cochonneries encore plus affreuses que les tiennes. – Allons, dit [MASK]… dis-le-nous, quoi… Où as-tu été?
+
+['Il', 'Sam', 'David', 'Tom', 'Jack']	Mike	Tout à coup, il y a un remue-ménage d’enfer au-dessus de nous et l’espace entier s’illumine. Des lampes électriques s’allument dans tous les arbres. [MASK] ne perd plus une seconde. Il s’écarte d’un mètre et balance la grenade droit au-dessus de lui.
+
+['</s>NOTUSED', 'Le', 'Et', 'Mais', 'Son']	Gary	Ça doit être son cou que je serre car ça craque sous mes doigts. [MASK], que j’aperçois par éclairs, me paraît, lui aussi, se défendre. Je rassemble mes forces et je serre plus fort, des mains et des jambes.
+
+['Il', 'il', 'Elle', 'On', 'II']	Gary	Il n’est pas beau à voir. Il a la figure en compote et son bras gauche est tout retourné. [MASK] gémit dans son coin et son premier assaillant, un gros type qui a un costume de gabardine claire et un chapeau gris, se penche sur lui;
+
+['Il', 'Paul', 'Sam', 'Daniel', 'David']	Gary	Et je pose le sac sur la table. [MASK] me regarde avec des yeux ronds. Sa figure hâlée exprime l’incompréhension la plus totale. – Qu’est-ce que c’est? dit-il. Tu attaques les femmes dans la rue, maintenant?
+
+['lui', 'moi', 'toi', 'vous', 'la']	Mike	Il doit y avoir un soupirail. Je me baisse, il y a un soupirail, effectivement, et on peut y passer la tête, le corps et les pieds: je préfère adopter l’ordre inverse et j’atterris à côté de [MASK]. Tout ça me paraît trop facile.
+
+['!', '</s>NOTUSED', '...', 'Giscard', '?']	Schutz	– Oui, complète [MASK]. Notre cher président… Vous savez… petit à petit, on y arrive… Cette fois-ci, on va laisser les choses se tasser, mais dans cinq ans, les affreux, il n’y en aura plus…
+
+['hein', 'toi', 'là', 'alors', 'non']	Douglas	– Trop d’eau dans ce whisky, marmonne-t-il, et puis il m’aperçoit. – C’est toi, sale brute! dit-il. – T’es pas fâché, [MASK]? dis-je. Après tout, j’aurais pu te la verser plus bas.
+
+['Martin', 'Jack', 'Jean', 'Pierre', 'Jacques']	Schutz	– En tout état de cause, poursuit [MASK], venez avec moi. Je vais vous montrer où c’est. Il décroche un téléphone. – Envoyez P. 13 et P. 17 aux chambres 309 et 311, dit-il. Il se retourne vers nous.
+
+['Pierre', 'monsieur', 'Louis', 'papa', 'Charles']	Gary	Je crois que [MASK] s’éveille. – Qu’est-ce qu’il y a, dit-il. On est en mer? – Non… pas encore, dis-je. On va faire une promenade à la campagne. Tu n’as pas d’objections à ça?
+
+['–', '</s>NOTUSED', 'Oh', 'Ah', 'Allons']	Rocky	Je ne sais plus où me mettre… Elle entre dans le bassin carré dont je n’avais pas eu le temps de tirer le rideau. – Poussez-vous… grande brute… Réveiller une jeune fille comme il faut à des heures pareilles… [MASK]… mon chéri…
+
+['Il', 'Elle', 'Paul', 'Jack', 'John']	Mac	[MASK] se lève et tire le tiroir supérieur d’un des six classeurs métalliques qui garnissent son bureau. – C’est à jour jusqu’à la semaine dernière, dit-il. Mais il n’y a rien d’intéressant depuis. Regardez vous-même.
+
+['le', 'un', 'Jack', 'Max', 'Julien']	Gary	Je suis dehors avant qu’il ait refermé la grille, et je m’apprête à foncer dans le couloir quand une poigne me retient. Je fais demi-tour et je reconnais [MASK]. C’est lui qui m’était passé sous le nez. – Je t’ai gratté, dit-il.
+
+['Marie', 'elle', 'Jeanne', 'Catherine', 'Anne']	Mona	Elle non plus n’a plus rien sur le dos… elle a roulé ses bas aux chevilles… Je fais des comparaisons. – Enfin, dis-je, je ne suis pas un coquetier de foire… – Silence, vous, ordonne [MASK]. Elle a raison.
+
+['Pierre', 'Marie', 'Jean', 'le', 'Michel']	Andy	Nous progressons sans bruit, un peu inquiets tout de même. Comment les choses vont-elles se présenter? Le sol est sec et dur sous nos pas et des tiges craquent rythmiquement à mesure que nous nous frayons un chemin dans la direction que nous a fixée [MASK].
+
+['Dieu', 'papa', 'Fred', 'Serge', 'David']	Andy	les voilà endormis pour un bout de temps car il a parachevé le travail du boxer au moyen de quelques volées de son outil à cogner sur les crânes. Je remercie [MASK] du fond du cœur; vraiment il m’a tiré d’un drôle de pétrin.
+
+['Max', 'Pierre', 'Jean', 'Paul', 'Antoine']	Gary	– Ah non, dis-je. Tu as voulu jouer au flic, joues-y tout seul. Moi je veux bien faire le coup de la séduction, mais c’est tout. – Pour ce que ça te réussit… grommelle [MASK] dans sa barbe.
+
+['Maman', 'maman', 'John', 'monsieur', 'papa']	Jef	Quand je vois ces trucs-là, ça me flanque la chair de poule. – Venez, dit [MASK], je vais vous montrer la salle suivante. Quand ils ont un an il les met en couveuse spéciale et il les vieillit artificiellement avec des bains d’oxygène et un tas d’autres systèmes.
+
+['Pierre', 'John', 'Jean', 'Marie', 'Jack']	Mike	Qu’est-ce qu’ils en ont fait? Lui seul peut nous guider… – C’est pas compliqué, dis-je… C’est tout droit. – On a passé des portes, dit [MASK], et je voudrais bien savoir ce qu’il y a derrière…
+
+['«', '–', '-', '—', '»']	Cora	[MASK]. Vous m’avez complètement déshabillée. Je n’ai jamais vu une fille aussi dure. Pas de rancune à ce point-là, c’est presque aussi inquiétant que si elle me tombait dessus à bras raccourcis. – Je voulais profiter de votre inconscience, lui dis-je.
+
+['Marie', 'Alice', 'Anna', 'Maria', 'Rose']	Bérénice	Il a des expériences en train, alors quelques-uns de ses aides sont restés. Vous voulez voir les expériences? De jolies expériences en vérité. Dans la salle huit, ils sont en train de travailler sur une fille, très belle ma foi. Il paraît qu’elle s’appelle [MASK].
+
+['Il', 'On', 'Elle', 'il', 'elle']	Mike	mais le quatrième, reconnu, est éjecté par deux furies échevelées qui le poursuivent en le griffant et en lui criant des injures… Elles le traitent de mal bâti et le menacent des pires castrations… [MASK] me prend par le bras.
+
+['monsieur', 'Monsieur', 'Paul', 'Henri', 'Pierre']	Gary	Je ne sais pas ce qui prend à [MASK]. – Eh bien! ce n’est pas nous… répond-il poliment. Je suis en bas de l’escalier à peu près sept marches avant lui, mais nous l’entendons encore nous engueuler tous les deux.
+
+['John', 'Jack', 'Alice', 'Marie', 'Tom']	Gary	Le téléphone était décroché dans la cabine où il est mort? – Oui, dit [MASK]. – Bon. Ceci prouve qu’il n’a pas eu le temps de leur dire qu’il avait caché la chose ni où il l’avait cachée. Tu me suis?
+
+['gauche', 'droite', 'derrière', 'loin', 'devant']	Gary	Et ceux de [MASK] m’interrogent. – C’est ça, lui dis-je, simplement. – Eh bien! mon vieux, tu es difficile, me répond-il sans se frapper, en admirant la jolie figure de cette poupée de premier ordre.
+
+['Jack', 'John', 'Max', 'Tom', 'Alice']	Gary	– Maintenant que je suis détective et que je peux mourir d’un instant à l’autre, dis-je, je commence à croire que ce serait bougrement idiot de ne pas profiter du temps qui me reste. – Eh bien mon cochon, tu attendras, dit [MASK].
+
+['Pierre', 'Marie', 'Jean', 'Michel', 'Maman']	Andy	Des traces de passage se montrent de place en place; et voici qu’une route se manifeste sous notre nez, sans la moindre pudeur, s’étalant sous l’œil jaune de la lune qui fait mine de regarder ailleurs. – Halte! ordonne [MASK]. Nous stoppons.
+
+['«', '1', '5', '...', '2']	Mike	[MASK]. Nous venons de déboucher en espace découvert. Douze ou quinze couples dansent un slow tandis que d’autres marchent, vont et viennent, rient, boivent, fument… Il va falloir jouer serré, maintenant… Il y a trois femmes à quelques mètres de nous.
+
+['toi', 'nous', 'moi', 'lui', 'vous']	Lem	Mais ça ne l’empêchait pas de parler. – Tu sais qui c’était, le macchabée, chez [MASK]? – Comment veux-tu que je le sache? Je sais seulement que c’était un grand gars blond, avec probablement, des yeux bleus;
+
+['madame', 'Madame', 'Mademoiselle', 'monsieur', 'Monsieur']	Rocky	Le parfum de ses cheveux et celui de son rouge à lèvres sont remarquablement assortis. Je le lui dis. – Pas de bêtises, [MASK], s’il vous plaît. Vous n’en pensez pas un mot. – Mais si, ma douce, dis-je.
+
+['Il', 'On', 'Paul', 'Lui', 'Vincent']	Gary	– Planquez-vous, dis-je. Je prends mon élan et je gagne la sortie à toute bride. [MASK] m’a vu et par bonheur la portière est restée ouverte. Je fonce et il démarre en trombe à l’instant précis où mon postérieur prend contact avec les coussins.
+
+['bruit', 'chien', 'doute', 'problème', 'traces']	Mike	Je ne veux pas avoir l’air d’un dégonflé et je m’avance à sa suite. Le chien m’a précédé et je suis un peu rassuré en constatant qu’il ne manifeste aucun signe d’inquiétude. Je me glisse derrière les arbustes. Plus de [MASK].
+
+['celle', 'Sophie', 'Jane', 'Marie', 'Rose']	Sally	C’est un spectacle nouveau pour moi, mais je m’y habitue très vite. Les cheveux de Mary balaient la peau satinée des cuisses de [MASK] qui lâche prise la première et se renverse en gloussant de satisfaction… L’autre ne l’entend pas de cette oreille…
+
+['elle', 'Jack', 'Satan', 'Max', 'Madame']	Cora	Je me suis agenouillé à moitié K. O. devant ma dernière victime, et je sens [MASK] me sauter à cheval sur le dos et me marteler l’occiput avec un genre de presse-papier chinois en bronze artistique. 1, 2, 3, 4… zut!
+
+['le', 'il', 'alors', 'Monsieur', 'je']	Mike	– Alors, dit [MASK]… il me regarde et hésite. Alors, reprend-il, que l’on fasse venir les vingt-cinq plus beaux marins du bord, et les vingt-cinq plus laids. Qu’ils se rangent dans la cour et qu’ils attendent de nouveaux ordres.
+
+['il', 'on', 'Pierre', 'Marc', 'Simon']	Mike	Je m’approche en rampant et [MASK] est déjà près de lui. Il prend une grosse jumelle et me la tend. Moi, j’ai laissé la mienne au campement, naturellement. – Regardez ça… Je regarde… C’est flou; je tourne la molette…
+
+['cinéma', 'porno', 'films', 'pornographie', 'télévision']	Hollywood	Des filles commencent à sortir. Nues, naturellement… par séries de quatre ou cinq parfaitement identiques… des rousses pareilles a celles que nous avons prises cette nuit… des brunes… des blondes… Toutes faites au moule et belles à damner un producteur de [MASK].
+
+['Papa', 'Il', 'On', 'Joseph', 'Pierre']	Andy	Les affreux, on se les arrachera, je vous le dis. Nous arrivons devant la villa et à ce moment retentit la sirène d’un bateau. [MASK] saute en l’air. – Le torpilleur! dit-il. Les enfants, grouillons-nous de faire notre choix.
+
+['monsieur', 'Monsieur', 'Pierre', 'madame', 'Jean']	Jef	– Ah!… dit [MASK]. En somme, vous voyez ce qui m’est arrivé, moi, c’est que mon réglage s’est déréglé. J’ai été trop chaud tout le temps. – Ça ne vous a pas tellement mal réussi, dis-je.
+
+['monsieur', 'merci', 'Monsieur', 'madame', 'assez']	Mike	Votre chocolat et vos biscuits, c’est très gentil, mais j’aimerais mieux une douzaine de hamburgers avec du fromage et des œufs. – Assez, [MASK], dis-je. Ne parlez pas de ces choses inaccessibles… Je boufferais ma mère entre deux tranches de pain…
+
+['Monsieur', 'Marie', 'Alice', 'Jack', 'Pierre']	Schutz	– Allons, allons, dit [MASK]. N’employez pas des mots comme ça… Moi, j’aime les jolies créatures et je cherche à en fabriquer le plus possible… Mais je veux de la variété et ne peux réussir à l’obtenir qu’en changeant souvent mes reproducteurs de base…
+
+['classe', 'travail', 'jeu', 'lycée', 'théâtre']	Mary	Il varie les formules en artiste. Tantôt il est le représentant de la compagnie d’assurances, tantôt un camarade de [MASK] qui voudrait lui parler, etc. Moi, pendant ce temps-là, je m’assieds, j’attends, et je rêve un petit peu pour moi tout seul.
+
+['celui', 'lui', 'ce', 'celle', 'Pierre']	Mike	Soudain, le chien s’arrête, tous ses muscles tendus, et je me jette contre [MASK] qui a stoppé net. Une clairière s’étend devant nous. À droite et à gauche, j’aperçois deux constructions sur pilotis: des miradors sans doute.
+
+['il', 'on', 'cela', 'tout', 'ça']	Jef	Malgré tout, on respire très facilement. C’est sans doute un nouveau procédé. Le docteur Schutz doit avoir plusieurs cordes à son arc. Au bout d’un peu plus de cinq minutes, un gong sonne sur une note pure et grave et [MASK] ramène les manettes à zéro.
+
+['Milo', 'Paris', 'Turin', 'Monaco', 'Mai']	Milo	Elle entend le bruit de l’eau et elle s’amène, pas gênée du tout… Elle a un pantalon et un chandail noirs comme ses cheveux avec un rang de perles autour de son joli cou rond et ça lui va comme rien du tout à la Vénus de [MASK].
+
+['Il', 'Daniel', 'Paul', 'Pierre', 'Joseph']	Gary	[MASK] sort les photos une à une et me les tend. Il est un peu pâle et sa mâchoire se serre. Il déglutit péniblement. À la quatrième, il s’arrête et me rend le tout. – Garde ça, dit-il. Moi, je ne peux pas.
+

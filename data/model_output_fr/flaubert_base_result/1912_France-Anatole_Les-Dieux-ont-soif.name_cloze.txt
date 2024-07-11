@@ -1,0 +1,200 @@
+['il', 'et', 'en', 'il', 'puis']	Evariste	Du plus loin qu'il put l'apercevoir, [MASK] leva ses regards vers une des fenêtres qui s'ouvraient au-dessus du magasin, celle de gauche, où il y avait un pot d'œillets rouges derrière le balcon de fer à coquille.
+
+['</s>', 'il', "c'", "--c'", 'elle']	Gamelin	Mais elle aimait trop la jeunesse pour ne pas lui pardonner quelque âpreté. [MASK] était beau elle lui trouvait du mérite. On le façonnera songea-t-elle. Et elle l'invita à ses soupers: elle recevait, chaque soir, après le théâtre.
+
+['confiance', 'moi', 'vous', 'respect', 'remarque']	David	Ce brave garçon a regardé tes esquisses et les a admirées. – Quand la paix sera rétablie et la conspiration étouffée, dit le peintre, je reprendrai mon Oreste. Je n'ai pas l'habitude de me flatter; mais il y a là une tête digne de [MASK].
+
+['mange', 'bois', 'reste', 'moi', 'prie']	Evariste	Elle avait laissé dans le plat le meilleur à son fils, qui restait songeur et distrait. – Mange, [MASK], lui disait-elle, à intervalles égaux, mange. Et cette parole prenait sur ses lèvres la gravité d'un précepte religieux.
+
+['il', '-il', 'paul', 'bussy', '-']	Guénot	– Ne perdons point de temps dit [MASK]. Il fut signalé à notre vigilance par une lettre d'une de ses complices qui a été interceptée et remise au Comité, il y a déjà quinze jours, et dont le citoyen Lacroix a pris connaissance hier soir seulement.
+
+[',', '"', ')', 'de', 'le']	Desmahis	[MASK]. Et il jeta quelques mots indistincts, en guettant le moment de s'élancer: – Je suivais une femme divine, en chapeau de paille, une ouvrière de modes, ses cheveux blonds sur le dos: cette maudite charrette m'en a sépare.
+
+[',', 'répondit', 'en', 'abord', 'et']	Brotteaux	[MASK], aux questions du citoyen Delourmel, comprit d'où venait le coup et s'aperçut un peu tard qu'on a tort de se confier aux femmes. Invité à suivre le citoyen commissaire, il prit son Lucrèce et ses trois chemises.
+
+['"', '</s>', '_', ')', "'"]	Robespierre	Il n'y a que les despotes qui soutiennent que la peine de mort est un attribut nécessaire de l'autorité. Le peuple souverain l'abolira un jour. [MASK] l'a combattue, et avec lui tous les patriotes; la loi qui la supprime ne saurait être trop tôt promulguée.
+
+['le', 'un', "l'", '</s>', 'la']	Brotteaux	A l'arrivée de l'exécuteur et de ses valets, [MASK], qui lisait tranquillement son Lucrèce, mit le signet à la page commencée, ferma le livre, le fourra dans la poche de sa redingote et dit au barnabite:
+
+["c'", 'il', 'elle', 'en', ',']	Marat	Toujours ces gens-là s'efforçaient de se liguer avec les puissances du jour, et, par sa popularité, par sa plume, par son caractère, [MASK] était une puissance formidable. Les girondins sombraient; les dantonistes, battus par la tempête, ne gouvernaient plus.
+
+['pain', 'fête', 'noël', 'sucre', 'farine']	Nanterre	Des femmes, portant l'éventaire sur le ventre, criaient les gâteaux de [MASK]. Les marchands de tisane agitaient leur sonnette; au pied de la statue de la Liberté, un vieillard montrait des gravures d'optique dans un petit théâtre surmonté d'une escarpolette où se balançait un singe.
+
+[',', ';', ':', '-', 'pour']	Brissot	Il frappa d'arguments métaphysiques et terribles [MASK] et ses complices. Il parla longtemps, avec abondance, avec harmonie. Planant dans les sphères célestes de la philosophie, il lançait la foudre sur les conspirateurs qui rampaient sur le sol.
+
+[':', 'simplement', 'froidement', '.', 'en']	Brotteaux	– Cette dame dont vous parlez, monsieur, fit la citoyenne Gamelin, n'était-elle pas un peu regardante, de faire servir si longtemps le même os? – Elle menait petit train, répondit [MASK]. Elle était pauvre, bien que prophétesse.
+
+['on', 'et', 'se', 'chacun', 'ne']	Evariste	Les plus grands événements n'excitaient plus ni enthousiasme ni curiosité; on ne lisait plus les journaux, [MASK] doutait si, sur les sept cent mille habitants de la capitale, trois ou quatre mille seulement avaient encore l'âme républicaine. Ce jour-là, les Vingt-et-Un comparurent.
+
+['abraham', 'hercule', 'edward', 'amour', 'ulysse']	Elodie	vingt fois dans la nuit, il se réveillait en sursaut d'un sommeil plein de cauchemars. C'était seulement dans la chambre bleue, entre les bras d'[MASK], qu'il pouvait dormir quelques heures. Il parlait et criait en dormant et la réveillait;
+
+['moi', 'le', 'moi-même', 'un', 'la']	Desmahis	Je crois ces cartes assez fièrement dessinées; j'ai l'intention de les faire graver en taille-douce par [MASK], et de prendre un brevet. Et, tirant de son carton quelques figures terminées à l'aquarelle, l'artiste les tendit au marchand d'estampes.
+
+['jean', 'jeanne', 'catherine', 'jacques', 'marie']	Brotteaux	C'est pourquoi je vous supplie, monsieur, de faire pour Lui ce que vous étiez porté à faire pour moi. – Mon Père, répondit [MASK], ne vous donnez point de souci et ne m'ayez nulle reconnaissance.
+
+['ailleurs', 'en', 'clair', 'à', 'lui-même']	Marat	L'homme de l'agio, le baron de Batz, cherchait de nouveaux complices à la Convention et conseillait au banquier Morhardt de voir [MASK]. Cette pensée des agioteurs contre-révolutionnaires n'était pas aussi étrange qu'elle semblait tout d'abord.
+
+['laisse-moi', 'écoute', '"', 'je', 'écou']	Julie	Ecoute-moi, [MASK]. Il ne me confie point ses pensées et, sans doute, je ne serais pas capable de les comprendre. mais il est juge; il a des principes; il agit d'après sa conscience.
+
+['que', 'ainsi', 'puis', 'enfin', 'pourtant']	Hippolyte	au Théâtre Feydeau, ce buste se dressait sur un piédouche, du côté jardin contre le cadre de maçonnerie qui fermait la scène. Tandis que l'orchestre jouait l'ouverture de Phèdre et [MASK], un jeune muscadin, désignant le buste du bout de son gourdin, s'écria:
+
+['exemple', 'de', 'rapport', 'les', "d'"]	Boilly	On y voyait, ce jour-là, des scènes galantes traitées avec une grâce un peu sèche par [MASK], Leçons d'amour conjugal et Douces résistances, dont se scandalisaient les Jacobins et que les purs dénonçaient à la Société des arts;
+
+['il', 'on', 'elle', 'marie', 'pierre']	Gamelin	Il ne se rappelait plus, et, s'il restait dans sa mémoire quelque vestige de son antique admiration, c'était pour concevoir que ces monstres avaient séduit les meilleurs citoyens. En rentrant, après l'audience, dans sa maison, [MASK] entendit des cris déchirants.
+
+['et', ',', 'mais', 'ce', 'celui']	Julie	C'est cela que les royalistes ne lui pardonnent point. Et le patriote à moustaches, dévisageant [MASK] qui ne cessait pas de rire: – Toi, blanc-bec, prends garde que je ne t'envoie mon pied dans le derrière, pour t'apprendre à respecter les patriotes.
+
+['toujours', 'convenu', 'promis', 'toi', 'ami']	Eudamidas	Et de sa voix haletante et faible, que conduisit un esprit lucide : – Mon ami, comme [MASK], je te lègue mes dettes : trois cent vingt livres dont tu trouveras le compte… dans ce cahier rouge…
+
+['</s>', 'il', 'elle', 'on', 'et']	Evariste	Ce jour-là, 13 juillet, elle et son fils avaient dîné, à midi, d'une bouillie de châtaignes. Comme ils achevaient cet austère repas, une dame poussa la porte et emplit soudain l'atelier de son éclat et de ses parfums. [MASK] reconnut la citoyenne Rochemaure.
+
+['robespierre', 'bonaparte', 'napoléon', 'mirabeau', 'lincoln']	Marat	Et il entendait de cette armée trahie monter une immense clameur qui accusait le général. A la clôture des débats, l'ombre emplissait la salle, et la figure indistincte de [MASK] apparaissait comme un fantôme sur la tête du président. Le jury appelé à se prononcer était partagé.
+
+["l'", 'la', 'travail', 'l', 'vie']	Robespierre	L'assemblée décidait que l'échafaud serait dressé de nouveau sur la place de la Révolution. On voulait que les riches, les élégants, les jolies femmes pussent voir sans se déranger le supplice de [MASK], qui aurait lieu le jour même. Le dictateur et ses complices étaient hors la loi
+
+['martin', 'pierre', 'antoine', 'georges', 'nicolas']	Hubert	La vieille répondit elle-même: – Voyez, messieurs, faites votre choix. Je tiens chapelets et rosaires, croix, images saint Antoine, saints suaires, mouchoirs de sainte Véronique, Ecce homo, Agnus Dei, cors et bagues de saint [MASK], et tous objets de dévotion.
+
+['</s>', 'il', 'elle', 'celui-ci', 'chacun']	Gamelin	Quand le juge lui faisait une question embarrassante, son visage restait calme et sa parole assurée, mais ses deux mains, réunies sur sa poitrine, se crispaient d'angoisse. [MASK] s'en aperçut et dit à l'oreille de son voisin, peintre comme lui :
+
+['cela', 'on', 'il', 'elle', 'tout']	Jean-Jacques	Et, parce que [MASK] avait mis la botanique à la mode parmi les filles des villes, elles savaient toutes trois des fleurs les noms et les amours. Comme les corolles délicates, alanguies de sécheresse, s'effeuillaient dans ses bras et tombaient en pluie à ses pieds, la citoyenne Elodie soupira:
+
+['il', 'on', 'elle', 'personne', 'lui']	Desmahis	Enfin, il porta ses vœux les plus pressants à l'oreille de la citoyenne Hasard elle y répondit par un air de stupeur qui pouvait exprimer une soumission abîmée aussi bien qu'une morne indifférence. Et [MASK] ne crut point qu'elle était indifférente.
+
+['tous', 'eux', 'lui', 'dieu', 'rome']	Maximilien	Ils voyaient Dieu, ces jurés du Tribunal révolutionnaire. L'Etre suprême, reconnu par [MASK], les inondait de ses flammes. Ils aimaient, ils croyaient. Le fauteuil de l'accusé avait été remplacé par une vaste estrade pouvant contenir cinquante individus on ne procédait plus que par fournées.
+
+['lui', 'cela', 'vous', 'bien', 'moi']	Danton	Il revêt l'apparence d'un patriote, d'un révolutionnaire, d'un ennemi des rois; il affecte l'audace d'un cœur qui ne bat que pour la liberté; il enfle la voix et fait trembler les ennemis de la République: c'est [MASK];
+
+['voyez', 'messieurs', 'monsieur', 'madame', 'voyons']	Evariste	il émanait d'elle un charme domestique et une grâce familière qui inspiraient les douces pensées et la tranquille volupté. Elle leva, sans bouger, sur son amant son beau regard d'or fondu et dit : – Voyez, [MASK], nous travaillons pour vous.
+
+['</s>', 'il', 'on', 'elle', 'chacun']	Gamelin	C'eût été le considérer, pour ainsi dire, comme indigne du châtiment. Réservée aux seuls aristocrates, la guillotine lui eût paru une sorte de privilège inique. [MASK] commençait à se faire du châtiment une idée religieuse et mystique, à lui prêter une vertu, des mérites propres.
+
+['</s>', ':', 'dieu', 'paul', 'pierre']	Evariste	il obtint qu'un commissaire les irait chercher en poste. Elles arrivèrent enfin. Le substitut de l'accusateur public les lut, fit la grimace et dit à [MASK] – Elles ne sont pas fameuses, les pièces Il n'y a rien là-dedans! des fadaises !…
+
+['elle', 'albert', 'celui-ci', 'lui', 'alexandre']	Evariste	Le sentiment que lui inspirait [MASK] était assez profond pour qu'elle pensât lui engager sa vie. Elle était toute disposée à l'épouser, mais s'attendait à ce que son père n'approuvât pas l'union de sa fille unique avec un artiste obscur et pauvre.
+
+['henriette', 'isabelle', 'agnès', 'elle', 'hélène']	Elodie	mais peut-être, sur ce point, n'avait-elle pas très bonne mémoire. Il connaissait mal les femmes, et n'avait pas pénétré bien profondément le caractère d'[MASK]; pourtant il la pensait très capable de feindre et de tromper un plus habile que lui.
+
+['et', 'mais', '"', 'car', 'que']	Gamelin	Ce n'est pas avec des criailleries mais avec du fer et des lois qu'on fonde les empires. Bonsoir, [MASK] j'ai quelques lettres à écrire. Et il s'en alla, son mouchoir sur les lèvres, dans la ci-devant sacristie.
+
+['napoléon', 'joséphine', 'bonaparte', 'marie-louise', 'joseph']	Mouton	A l'appel du tocsin et de la générale répondent les bruits des volets qui se rabattent et des serrures qui se ferment. Le citoyen Dupont aîné s'est caché dans sa boutique; le portier Remacle se barricade dans sa loge. La petite Joséphine retient craintivement [MASK] dans ses bras.
+
+['la', 'une', 'le', "l'", 'et']	Gamelin	Il promenait autour de lui le regard perçant de ses yeux jaunes, comme si, dans cette multitude enthousiaste, il cherchait encore des ennemis du peuple à dénoncer, des traîtres à punir. Sur son passage, [MASK], tête nue, mêlant sa voix à cent mille voix, cria:
+
+['non', 'oui', 'bien', 'toi', 'enfin']	Evariste	J'aurai bientôt vécu un siècle. Vois ce front: Est-il d'un amant? Aimer!… – [MASK], tu es à moi, je te garde; je ne te rends pas ta liberté. Elle s'exprimait avec l'accent du sacrifice. Il le sentit;
+
+['nous', 'nous-mêmes', 'que', 'où', 'et']	Elodie	– Tu le vois bien, [MASK] nous sommes précipités; notre œuvre nous dévore. Nos jours, nos heures sont des années. J'aurai bientôt vécu un siècle. Vois ce front: Est-il d'un amant? Aimer!…
+
+['lui', 'toujours', 'elle', 'longtemps', 'cela']	Brotteaux	La belle enfant, trouvant cette réponse difficile, renonça à la comprendre et se trempa le bout du nez dans la terrine qui remplaçait pour [MASK] les cuvettes d'argent dont il usait autrefois. Puis elle arrangea ses cheveux devant le miroir à barbe de son hôte, avec un soin minutieux et grave.
+
+['</s>', 'cela', 'il', 'on', 'qui']	Gamelin	Ces sentiments leur ont été inculqués dès l'enfance par leurs père et mère qui les ont suffisamment fessés, et leur ont fait entrer les vertus par le cul. [MASK] ne cacha pas au vieux Brotteaux qu'un tel langage lui semblait indigne d'un philosophe.
+
+['quoi', 'voilà', 'monsieur', 'allons', 'eh']	Gamelin	– Eh bien, [MASK]! demanda le citoyen Blaise, m'apportez-vous quelque chose de neuf? – Peut-être dit le peintre. Et il exposa son idée – Nos cartes à jouer offrent un contraste choquant avec l'état des mœurs.
+
+['non', 'pas', ',', 'répondit', ';']	Gamelin	[MASK] d'une voix sourde, qui s'étranglait dans sa gorge, mais d'un ton résolu, déclara l'accusé coupable de trahison envers la République, et un murmure approbateur, qui s'éleva dans la foule, vint caresser sa jeune vertu.
+
+['chacun', 'un', 'jeanne', 'quelques-uns', 'jean']	Gamelin	Elle l'avait toujours dans ses jupes, miroir d'amour et certificat vivant de civisme. La citoyenne félicita [MASK] de ses talents et lui demanda s'il ne consentirait pas à dessiner une carte pour une marchande de modes à qui elle s'intéressait.
+
+['elle', 'albert', 'henriette', 'alphonse', 'antoine']	Evariste	En effet, la citoyenne Rochemaure montra de la sensibilité elle s'émut à l'idée des souffrances d'[MASK] et de sa mère et rechercha les moyens de les adoucir. Elle ferait acheter les ouvrages du peintre par des hommes riches de ses amis.
+
+['</s>', 'il', 'elle', '--il', '-']	Evariste	quelle serait son attitude dans l'affaire des Brissotins et de la veuve Capet. [MASK] était timide et ne savait point parler en public. Mais l'indignation l'inspira. Il se leva, pâle, et dit d'une voix sourde: – Je suis magistrat.
+
+['et', '</s>', 'mais', 'un', 'le']	Gamelin	Cette fois pourtant, [MASK], que la nécessité rendait ingénieux, venait de concevoir une invention heureuse et neuve, du moins le croyait-il, qui devait faire la fortune du marchand d'estampes, du graveur et la sienne;
+
+['le', 'la', "l'", 'son', 'san']	David	– C'est mon testament de mort, dit l'homme, vous me verrez boire la ciguë avec calme. – Je la boirai avec toi, répond [MASK]. – Tous, tous! s'écrient les jacobins, qui se séparent sans rien décider.
+
+['or', 'aigle', 'homme', 'adam', 'enfant']	Oreste	Et l'on voyait la jeune fille écarter d'un geste touchant les cheveux emmêlés qui voilaient les yeux de son frère. La tête d'[MASK] était tragique et belle et l'on y reconnaissait une ressemblance avec le visage du peintre.
+
+['qui', 'lui-même', 'robespierre', 'surtout', 'carnot']	Robespierre	Mais [MASK], par ses discours aux Jacobins, lui avait révélé leurs menées et découvert que ces hommes, dont les intentions paraissaient pures, tendaient à la subversion de la République, et n'alarmaient les riches que pour susciter à l'autorité légitime de puissants et implacables ennemis.
+
+['</s>', '.', ',', 'de', 'et']	Evariste	Elle songeait: Et elle lui dit avec bonté: – Vous ne l'aviez donc pas vu, mon ami, que je vous aimais? Ils se croyaient seuls au monde. Dans son exaltation, [MASK] leva les yeux vers le firmament étincelant de lumière et d'azur:
+
+['travail', 'fer', 'dieu', 'service', 'secours']	Custine	– La Convention n'a pas créé un Comité de salut public pour des prunes. La conduite de [MASK] y sera examinée. Incapable ou traître, il sera remplacé par un général résolu à vaincre, et ça ira. Il feuilleta des papiers et y promena le regard de ses yeux fatigués
+
+['elle', 'eux', 'autrui', 'ailleurs', 'abord']	Evariste	Il n'a pas dépendu de moi que tu ne restes une honnête fille et que tu ne te maries selon ta condition. Je t'ai aimée tendrement et je t'aime encore. Je te pardonne et je t'aime. Mais ne dis pas de mal d'[MASK].
+
+['jeanne', 'marie', 'louise', 'rose', 'madeleine']	Elodie	Quand il rencontrait [MASK], dans la rue, il la regardait d'un œil qui semblait dire « Allons! la belle; je sens bien que je vais vous pardonner de vous avoir trahie, et que je suis tout près de vous rendre mon estime. »
+
+['marie', 'jeanne', 'sophie', 'ida', 'nicole']	Flora	Pendant qu'ils montaient, je me suis réfugiée chez [MASK], ma voisine, et j'ai sauté par la fenêtre dans la rue, de sorte que je me suis foulé le pied. Ils viennent; ils veulent me mettre en prison et me faire mourir.
+
+['moi', 'personne', 'vous', 'lui', 'dire']	Evariste	– Cet aristocrate! cet émigré! cet infâme! Elle haussa les épaules, et nia avec beaucoup de naturel avoir jamais connu un Jacques Maubel. Et vraiment elle n'en avait jamais connu. Elle nia avoir jamais donné d'œillets rouges à personne qu'à [MASK];
+
+['le', 'la', "l'", 'jacques', 'jean']	Brotteaux	– Encore un coup, dit [MASK], en soulevant la toile qui recouvrait ses petits pendus, regardez ces masques et ces visages, sont-ce d'autres que des personnages de comédie et de bergerie? Comment vous êtes-vous laissé dire, citoyen Caillou, que je jouais la Convention nationale?
+
+['on', 'il', 'elle', "j'", 'ont']	Fortuné	Mais lundi un membre de la Commune mit le pied sur la boîte et lui fit cirer ses bottes. C'est un ancien boucher à qui [MASK] a donné autrefois un coup de pied dans le derrière pour avoir vendu de la viande à faux poids.
+
+['seigneur', 'oui', 'moi', 'toi', 'monsieur']	Maximilien	"J'ai vu ta tristesse, [MASK]; j'ai compris ta pensée. Ta mélancolie, ta fatigue et jusqu'à cette expression d'effroi empreinte dans tes regards, tout en toi dit: Que la terreur s'achève et que la fraternité commence!
+
+['âme', 'esprit', 'autrefois', 'ici-bas', 'alors']	Evariste	Elle s'efforçait d'émouvoir dans le moins de temps possible une dame qu'elle jugeait riche et répandue, et de l'intéresser au sort de son enfant. Et elle sentait que la: beauté d'[MASK] conspirait avec elle pour attendrir une femme bien née.
+
+['il', 'elle', 'puis', "j'", 'celui-ci']	Gamelin	Et [MASK] ajouta: – Il vous recevra, citoyenne, si vous êtes malheureuse car son grand cœur le rend accessible à l'infortune et pitoyable à toutes les souffrances. Il vous recevra si vous avez quelque révélation à lui faire intéressant le salut public il a voué ses jours à démasquer les traîtres.
+
+['celui-ci', 'elle', 'maurice', 'paul', 'henri']	Gamelin	– Oh! citoyen! s'écria [MASK], n'avez-vous pas honte de tenir ce langage? et pouvez-vous confondre les sombres divinités conçues par l'ignorance et la peur avec l'Auteur de la nature? La croyance en un Dieu bon est nécessaire à la morale.
+
+['m.', 'le', 'robespierre', 'mirabeau', 'marx']	Gamelin	– Ce n'est point assez d'un tribunal révolutionnaire, dit [MASK]. Il en faut un dans chaque ville. Que dis-je? dans chaque commune, dans chaque canton. Il faut que tous les pères de famille, que tous les citoyens s'érigent en juges.
+
+['oreilles', 'oreille', 'oreill', 'or', 'argent']	Elodie	Vous pouvez cependant garder ce modèle en le simplifiant, en le ramenant à la ligne droite. Elle lui demanda ce qu'il fallait ôter. Il se pencha sur l'écharpe ses joues effleurèrent les boucles d'[MASK]. Leurs mains se rencontraient sur le linon, leurs souffles se mêlaient.
+
+[',', 'et', '!', ';', 'que']	Hanriot	Vive [MASK]! Deux partis se formèrent. On s'aborda, les poings s'abattirent sur les chapeaux défoncés, les tables se renversèrent, les verres volèrent en éclats, les quinquets s'éteignirent, les femmes poussèrent des cris aigus.
+
+['la', 'tout', "l'", 'toi', 'fer']	Robespierre	les sections ne marcheront pas. La section des Piques, la section de [MASK], reste tranquille. Je le sais mon père en fait partie. Si tu vas à l'Hôtel de Ville, tu te perds inutilement. – Tu veux que je sois lâche?
+
+['</s>', 'il', 'on', '-', 'et']	Brotteaux	Le Père Longuemare porta, par brassées, sa défense dans une gouttière. [MASK] coula son Lucrèce dans les cendres de là cheminée. Quand les commissaires, ayant au cou des rubans tricolores, vinrent opérer leurs saisies, ils ne trouvèrent guère que ce qu'on avait jugé convenable de leur laisser.
+
+['il', 'homme', 'lui-même', ',', 'et']	Brotteaux	[MASK] n'en était pas surpris il savait que les hommes avouent volontiers la cruauté, la colère, l'avarice même, mais jamais la lâcheté, parce que cet aveu les mettrait, chez les sauvages et même dans une société polie, en un danger mortel.
+
+['il', 'et', 'jacques', 'elle', 'marcel']	Gamelin	A sa vue, [MASK] frissonna/ il croyait revoir ce militaire que, mêlé au public, il avait vu, trois semaines auparavant, juger et envoyer à la guillotine. C'était le même homme, l'air têtu, borné/ ce fut le même procès.
+
+['"', 'les', 'calvin', ',', '-']	Beauvisage	– Les dénonciations, répliqua fièrement [MASK], affluent aussi au Comité de vigilance de la section. Les uns apportent leurs révélations par civisme; les autres, par l'appât d'un billet de cent sols. Beaucoup d'enfants dénoncent leurs parents, dont ils convoitent l'héritage.
+
+['le', 'avec', 'paul', 'la', 'sans']	Longuemare	– Vous vous trompez entièrement, monsieur, répliqua [MASK]. Je crois, au contraire, que rien ne saurait être tout à fait faux dans la pensée d'un homme. Les athées occupent le plus bas échelon de la connaissance;
+
+['bailly', 'robespierre', 'saint-simon', 'bonaparte', 'carnot']	Evariste	Le fédéralisme était vaincu: la République une, indivisible, vaincrait tous ses ennemis. Etendant le bras sur la plaine populeuse: – C'est là, dit [MASK], que, le 17 juillet 91, l'infâme Bailly fit fusiller le peuple au pied de l'autel de la patrie.
+
+['dit-elle', 'dit-il', 'non', 'et', 'mais']	Evariste	– Tais-toi, [MASK], tais-toi! Elle le pria d'aller plus loin: là, on les observait, on les écoutait. Il fit une vingtaine de pas et poursuivit, très calme: – J'ai fait à ma patrie le sacrifice de ma vie et de mon honneur.
+
+['</s>', 'mais', 'et', 'qui', 'lui']	Gamelin	Après avoir fait quelques pas, il se retourna pour appeler son chien qui, sentant le rat, montrait les dents à la marmotte hérissée. – Brount! Brount! Puis il s'enfonça dans les allées sombres. [MASK], par respect, ne s'approcha pas du promeneur solitaire;
+
+['il', 'elle', 'celui-ci', 'jean', 'philippe']	Brotteaux	s'il le veut et le peut, que ne le fait-il, mon Père?" Et [MASK] jeta sur son interlocuteur un regard satisfait. – Monsieur, répondit le religieux, il n'y a rien de plus misérable que les difficultés que vous soulevez.
+
+['le', 'la', "l'", 'un', 'henri']	Brotteaux	– Pour votre sûreté, mon enfant, mettez ceci à votre coiffe! lui dit [MASK], en lui donnant une cocarde tricolore. – Je le ferai volontiers, monsieur, lui répondit-elle; mais ce sera pour l'amour de vous et non pour l'amour de la nation.
+
+['il', 'elle', 'maman', 'jésus', 'on']	Brotteaux	– Je le suis aussi, dit [MASK], et mes pantins le sont aussi, ce qui est le pis de tout. Vous les voyez exposés, sous cette mince toile, à la pluie fine qui nous morfond.
+
+['</s>', '"', ',', 'et', '.']	Gamelin	Hier nous étions vingt-huit. – Eh bien! dit [MASK], il faut obliger, sous peine d'amende, les citoyens à venir. – Hé! Hé! Fit le menuisier en fronçant le sourcil, s'ils venaient tous, les patriotes seraient en minorité.
+
+['elle', 'lui', 'il', 'en', "s'"]	Julie	Et elle colla son visage humide de larmes sur les joues de la jeune femme. Durant quelques instants, elles gardèrent le silence. La pauvre mère cherchait dans son esprit le moyen d'aider sa fille et [MASK] épiait le regard de ces yeux noyés de pleurs.
+
+['il', 'qui', '</s>', 'on', 'elle']	Gamelin	Quelques pas plus avant, on atteignait la porte de la ci-devant sacristie, que surmontait cette inscription: Comité Militaire. [MASK] la poussa et trouva le secrétaire du Comité qui écrivait sur une grande table encombrée de livres, de papiers, de lingots d'acier, de cartouches et d'échantillons de terres salpêtrées.
+
+['</s>', '"', 'il', 'elle', 'on']	II	On entendit le mourant pousser un souffle embarrassé, et ses mains qui grattaient le drap. A minuit, il prononça des mots sans suite : – Encore du salpêtre… Faites livrer les fusils… La santé? très bonne… Descendez ces cloches. [MASK] expira à heures du matin.
+
+['hercule', 'olivier', 'apollon', 'adam', 'albert']	Evariste	Sous l'ombrage du bosquet, il lui donna un long baiser ardent sous lequel elle renversa la tête, et, dans les bras d'[MASK], elle sentit toute sa chair se fondre comme une cire. Ils s'entretinrent longtemps encore d'eux-mêmes, oubliant l'univers.
+
+['vous', 'mon', 'monsieur', 'en', 'à']	Evariste	Il s'en est fallu de peu que mon père n'ait été mis en prison. Si le danger avait duré quelques heures de plus, je serais allée vous demander, [MASK], de faire auprès de vos amis influents des démarches en sa faveur.
+
+['qui', 'et', 'il', 'que', ',']	Gamelin	[MASK], comme il atteignait le coin de la rue, vit assise sur une borne la citoyenne Dumonteil, son nourrisson dans ses bras. Elle était sans mouvement, sans couleur, sans larmes, sans regard. L'enfant lui suçait le doigt avidement.
+
+['julien', 'jean', 'jacob', 'roméo', 'rené']	Philippe	Elle la regarda jusqu'à ce que les larmes eussent brouillé sa vue, l'ôta doucement et la jeta dans les flammes. Alors brillante de larmes et de sourire, belle de tendresse et d'amour, elle se jeta dans les bras de [MASK].
+
+['maman', 'marie', 'jean', 'jeanne', 'pierre']	Brotteaux	Elle monta, légère, dans la charrette. Et là, le buste droit, sa tête d'enfant fièrement dressée, elle s'écria: – Vive le roi! Elle fit un petit signe à [MASK] pour lui montrer qu'il y avait de la place à côté d'elle.
+
+['rodin', 'delacroix', 'peinture', 'maître', 'raphaël']	David	Ils n'étaient point tout à fait étrangers l'un à l'autre ils s'étaient vus plusieurs fois dans l'atelier de [MASK], dans une tribune de l'assemblée, aux Jacobins, chez le restaurateur Vénua; elle l'avait remarqué pour sa beauté, sa jeunesse, son air intéressant.
+
+['-', '"', '(', 'non', '...']	Evariste	Tout à coup, avec une finesse d'ouïe que l'inquiétude avait aiguisée, elle entendit son fils qui montait l'escalier. – [MASK]! dit-elle. Cache-toi. Et elle poussa sa fille dans sa chambre. – Comment allez-vous aujourd'hui, ma bonne mère?
+
+['"', '!', '.', 'heure', ',']	Gamelin	– Enfant! tu grandiras libre, heureux, et tu le devras à l'infâme [MASK]. Je suis atroce pour que tu sois heureux. Je suis cruel pour que tu sois bon, je suis impitoyable pour que demain tous les Français s'embrassent en versant des larmes de joie.
+
+[',', 'on', 'il', 'paris', ')']	Maximilien	Enfin [MASK] s'est décidé à faire appel du décret de la Convention à la section des Piques. Le Conseil général se fait apporter des sabres, des pistolets, des fusils. Mais un fracas d'armes, de pas et de vitres brisées emplit la maison.
+
+['carlos', 'jésus', 'jacques', 'papa', 'jeanne']	Nieves	Un point seul restait obscur. Parmi les papiers qu'il avait jetés dans sa cheminée, lors de son arrestation, et dont on n'avait retrouvé que des bribes, on lisait des mots espagnols et le nom de "[MASK]".
+
+['achille', 'hercule', 'abraham', 'olivier', 'aaron']	Oreste	C'est ce que j'aurais voulu montrer dans ce groupe du frère et de la sœur. Il s'approcha de la toile et la regarda avec complaisance. – Certaines parties, dit-il, sont à peu près terminées; la tête et le bras d'[MASK], par exemple.
+
+['</s>', 'toujours', '"', 'puis', 'derrière']	Julie	Pas un moment il ne quittait des yeux le faux jeune garçon, il ne cessait de lui sourire et, le voyant se lever, il se levait lui-même et le suivait de loin. [MASK], dans sa misère et dans sa solitude, se sentait touchée de la sympathie discrète que lui montrait ce bon homme.
+
+['</s>', 'elle', 'il', '"', 'qui']	Desmahis	Traversant la lucarne, un rayon de lune baignait d'azur et d'argent sa peau qui, entre des écailles de crasse et des éclaboussures de purin, brillait de jeunesse et de fraîcheur. [MASK] se jeta sur elle; réveillée en sursaut, elle eut peur et cria;
+
+['il', 'après', 'à', 'elle', 'i']	Evariste	Ce qui la tranquillisait sur l'issue de l'affaire, c'est qu'elle savait avec certitude (et aussi n'y avait-il pas de doute à ce sujet) qu'[MASK], avant que la Révolution l'eût héroïsé, avait aimé très humainement une femme, une humble créature, la concierge de l'académie
+
+['on', 'il', 'je', 'et', 'dieu']	Brotteaux	Mais quand, à sa demande, [MASK] lui eut donné de la ficelle et un passe-lacet, il se révéla très apte à douer de mouvement ces petits êtres qu'il n'avait su former, et à les instruire à la danse.
+

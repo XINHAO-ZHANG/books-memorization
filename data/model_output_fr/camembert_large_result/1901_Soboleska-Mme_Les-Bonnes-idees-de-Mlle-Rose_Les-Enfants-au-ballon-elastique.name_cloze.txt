@@ -1,0 +1,200 @@
+['elle', 'il', 'Jeanne', 'Marie', 'je']	Rose	Ce sera comme pour l’élève du grand peintre : mon oncle sera ravi de voir que sa petite nièce a tant de talent !... Et maman, donc, qui se verra tout d’un coup la maman d’un grand artiste !... » Ayant terminé son œuvre, [MASK] la considère avec fierté.
+
+['Dieu', 'personne', 'moi', 'dieu', 'lui']	Croquemitaine	je ne suis pas une criminelle ; je suis une pauvre petite Rose qui croit toujours avoir d’excellentes idées et en a souvent de très mauvaises. Je ne peux pas avoir peur de [MASK] ni du gendarme, puisque je n’ai jamais mauvaise intention. »
+
+['elle', 'on', 'il', 'Marie', 'cela']	Rose	Il est évident que si la place des encriers n’est pas précisément là, la place des toutous est encore moins sur une table au milieu de livres et de papiers et [MASK] ne peut pas risquer de tacher tout cela. Elle se félicite de sa prudence ;
+
+['maman', 'papa', 'madame', 'oui', 'monsieur']	Alice	Je vous ai défendu de jouer avec des enfants que je ne connais pas, mais je connais ces petits garçons et cette petite fille. — Quoi ! maman, vous connaissez les enfants au ballon élastique ! — Mais oui, [MASK], je les connais maintenant.
+
+['Elle', 'elle', 'Maman', 'On', 'Il']	Alice	soupira-t-elle, pourquoi suis-je allée leur demander de jouer avec eux malgré la défense de maman ! » Pourquoi, oui ! [MASK] découvrait maintenant la vérité de ce que nous avons dit, que les fautes se chargent de punir elles-mêmes ceux qui les commettent.
+
+['Elle', '</s>NOTUSED', '»', '«', 'et']	Alice	Ils ne peuvent pas être ici avant au moins un quart d’heure. » [MASK], pensant qu’ils ne l’avaient pas aperçue, tâcha d’attirer leur attention en toussant deux ou trois fois. La petite fille se retourna alors ;
+
+['Marie', 'Jeanne', 'Sophie', 'Alice', 'Marguerite']	Alice	Tout à coup les enfants cessèrent de causer et se mirent à courir dans la direction du kiosque. [MASK], à bout de ressources, se sentit prise comme dans une souricière : si elle fuyait, ils la verraient ; si elle restait, elle serait infailliblement découverte.
+
+['Marie', 'Sophie', 'elle', 'Thérèse', 'Clara']	Alice	; mais [MASK], elle, ne l’oublia jamais. Elle se rappela toujours que les fautes se chargent de punir ceux qui les commettent, et que tout change d’aspect lorsqu’on est dans une mauvaise disposition d’esprit.
+
+['voyons', 'monsieur', 'Monsieur', 'docteur', 'madame']	Alice	! Vous vous trompez, je crois, car je les vois d’ici jouer avec leur ballon, et ils paraissent aussi contents et aussi gais qu’hier. Voyons, [MASK], qu’est-ce qui est changé ? »
+
+['Monsieur', 'Jean', 'Pierre', 'Louis', 'Jules']	Constance	; je suis sûr d’avoir entendu le même bruit par deux fois, et j’ai bien envie de faire le tour du kiosque pour voir ce que cela signifie. — Aviez-vous déjà vu cette petite fille avant tout à l’heure ? demanda [MASK].
+
+['Jeanne', 'Marie', 'Sophie', 'Charlotte', 'Alice']	Alice	Oh ! que c’est mal à elle ! s’écrie [MASK]. Comment a-t-elle pu, après ce qui m’est arrivé, oser leur demander de jouer avec eux ? » Et, oubliant sa propre désobéissance dans son indignation contre celle de sa sœur, elle descend l’escalier quatre à quatre.
+
+['maman', 'Maman', 'madame', 'Madame', 'alors']	Alice	« Qu’y a-t-il, [MASK] ? — Maman, puis-je demander à ces enfants s’ils veulent que je joue avec eux ? — Ma chère petite, répondit sa mère, vous savez parfaitement que je ne vous laisse jamais jouer avec des inconnus.
+
+['Madame', 'non', 'Monsieur', 'Mademoiselle', 'Non']	Bessy	? Je suis déjà trop en retard, je ne puis attendre. — Je suis sûre que Madame ne vous laisserait pas sortir ainsi. Vous feriez mieux de changer de robe. — Oh ! [MASK], cela me prendrait trop de temps ! Je ne peux pas.
+
+['Mademoiselle', 'maman', 'vous', 'Madame', 'madame']	Alice	« Comme ils s’amuseront ! Ah ! si je pouvais seulement me joindre à eux ! » Sa mère la tira de sa rêverie en lui disant : « Eh bien ! [MASK], qu’avez-vous décidé ? Viendrez-vous demain avec moi ?
+
+['Elle', 'Il', 'On', 'Bébé', 'Sophie']	Virginie	[MASK] devait avoir, avait ou allait avoir des vulsions, et un bain s’imposait, sur-le-champ. Un bain avec de la moutarde, comme on en donne aux gens qui ont très mal à la tête. Si les chiens se font souvent comprendre par leurs regards ou leurs gestes, les poupées sont muettes.
+
+['elle', 'on', 'il', 'cela', 'ça']	Constance	Elle avait été .trop humiliée pour qu’il lui fût possible de déclarer qu’elle était « la petite fille impolie qui dévisage tout le monde », quand même [MASK] leur apprendrait en même temps qu’elle était sa sœur.
+
+['papa', 'maman', 'lui', 'Joseph', 'Maman']	Gertrude	Quand elle entendit les coups de sifflet et qu’elle vit la locomotive s’avancer en soufflant, grondant, écumant, comme un monstre de fer, elle se serra contre son papa ; elle avait un peu peur d’être emportée ainsi loin de lui, et la présence de [MASK] ne la rassurait qu’à demi.
+
+['Marie', 'Alice', 'elle', 'bébé', 'Jeanne']	Rose	Elle expliqua à la petite fille que rien de bon ne peut provenir d’une mauvaise graine. Il était défendu à [MASK] de toucher aux couleurs de l’oncle. Il lui était défendu d’entrer dans certaines chambres habituellement fermées à clef.
+
+['Il', 'On', 'Elle', 'Et', 'il']	Rose	[MASK] la regarda laver, frotter, essuyer, avec de l’eau, du lait, du sel d’oseille, des brosses, etc., etc., jusqu’à ce que cette horrible mare noire sur le tapis fût devenue gris fer, puis gris ardoise et puis gris argent.
+
+['il', 'on', 'papa', 'elle', 'maman']	Rose	? Les ciseaux ont été inventés tout exprès pour cela, et il y a, sur le bureau de papa, une immense paire de ciseaux avec laquelle [MASK] raccourcira à merveille ce maudit châle, dont le poids et la longueur fatiguent sa pauvre maman bien inutilement
+
+['Il', 'Joseph', 'Elle', 'Charles', 'Marie']	Rose	tu verras comme je te soignerai bien, petite mère ; tu seras forcée de guérir, maintenant que je suis revenue. » Au retour d’un voyage, on a toujours beaucoup d’occupations. [MASK] n’en manquait certes point : il y avait d’abord ses enfants.
+
+['Madame', 'madame', 'Mme', 'Monsieur', 'Julie']	Edred	Si elle ne regardait pas si singulièrement, elle serait comme vous et moi. Je trouve même qu’elle vous ressemble un peu. Elle est jolie, je crois, et ne paraît pas bête, je pense qu’elle est seulement mal élevée. — Oui, très mal élevée, dit [MASK].
+
+['maman', 'papa', 'Maman', 'ça', 'Papa']	Constance	Déjà elle pouvait entendre ce qu’ils disaient ; mais ni le petit garçon ni la petite fille ne faisaient attention à elle ; ils continuaient à causer comme si elle n’était pas là. « J’espère que [MASK] va bientôt revenir.
+
+['elle', 'cela', 'ça', 'Emma', 'Marie']	Bessy	. Ce n’est pas étonnant qu’ils n’aient pas deviné que nous étions les deux sœurs. » Et, pensant à [MASK], une rougeur de honte envahit ses joues. « Oh ! si j’avais seulement changé de robe quand elle me l’a dit ?
+
+['Marie', 'Catherine', 'Jeanne', 'Madeleine', 'Marguerite']	Rose	Peu s’en est fallu que [MASK] elle-même ne roulât par terre, mais elle eût préféré cent fois bosses et égratignures aux malheurs qui s’offrent à sa vue ? Sa robe blanche est irrémédiablement perdue et le tapis, le tapis de tante Marie, est tout abîmé !
+
+['Maman', 'Flaubert', 'Brassens', 'Colette', 'Voltaire']	Gertrude	Et cette autre où, pour mettre de l’ordre dans les papiers de son papa, elle fit un tel « gâchis », comme disait [MASK], que son papa, le plus patient papa du monde, s’emporta et mit sa fille en pénitence !
+
+['elle', '»', 'Marie', '«', 'Jeanne']	Rose	; elle était loin d’être une gentille abeille laborieuse. » Ce soir-là [MASK], en s’endormant, versa encore quelques larmes de remords. Elle se promit que ce serait bien la dernière sottise qu’elle ferait pendant son séjour chez son oncle et sa tante.
+
+['Descartes', 'un', 'Voltaire', 'philosophe', 'aveugle']	Gertrude	Il fallait être [MASK], qui toujours trouve à redire à tout, pour relever quelques petites imperfections. Je vous demande un peu ce que cela faisait que le carré ne fût point un carré parfait avec tous ses côtés de pareille grandeur.
+
+['Marie', 'Jeanne', 'Marguerite', 'Catherine', 'Louise']	Rose	Il arriva, après bien des efforts patients de la part de tante Marie et de sa nièce, que [MASK] put lire toute seule de merveilleuses histoires écrites pour les enfants et leur parlant de tout ce qui peut les intéresser.
+
+['il', 'elle', 'on', 'Il', 'Pierre']	Alice	Cependant les voix et les pas devenaient de minute en minute plus distincts. Comme un cerf traqué qui sent que ses ennemis gagnent du terrain sur lui, [MASK] examina d’un coup d’oeil toutes les parties du kiosque. 0 bonheur ! les branches s’écartaient dans un des coins
+
+['elle', 'Marie', 'Anna', 'Sophie', 'Alice']	Constance	Pourquoi lui semble-t-il si bien connaître les longs cheveux bruns, le chapeau, la robe et toute la petite fille ? Cela se peut-il ? — Est-ce bien elle ? — Oui, c’est [MASK], sa propre sœur, qui est avec les enfants et paraît si intime avec eux.
+
+['Elle', 'Anna', 'Alice', 'Marie', 'Sophie']	Rose	Justement la boîte aux pilules était sur le buffet. [MASK] en prend quatre et les croque consciencieusement. Si cela eût été meilleur, elle en aurait pris davantage, mais c’est très amer, les pilules, quoique cela ressemble à de jolis petits bonbons en argent.
+
+['elle', 'Anna', 'Alice', 'Elle', 'Emma']	Alice	vous feriez mieux d’attendre de les connaître avant de donner votre avis sur eux. » Mais [MASK] était convaincue qu’elle ne les aimerait jamais, qu’ils seraient désagréables et peut-être méchants, et, en résumé, tout le contraire des jolis.enfants blonds qui jouaient au ballon.
+
+['moi', 'vous', 'madame', 'Madame', 'Monsieur']	Éva	à [MASK]. Je voudrais bien la voir. — Elle doit être quelque part par là dans le square. Je vous la montrerai tout à l’heure ; mais elle n’a rien de bien extrordinaire, sinon qu’elle se campe devant vous et vous dévisage.
+
+['Elle', 'Marie', 'elle', 'Alice', 'Anna']	Rose	[MASK] en essaya plusieurs sans pouvoir les ouvrir et puis, persévérant encore, car elle ne se décourageait pas aisément, elle finit par tomber sur un tube moins solidement vissé que les autres. Elle presse doucement, et il apparaît au bout de la couleur... bleue.
+
+['tous', 'présent', 'chacun', 'beaucoup', 'priori']	Rose	C’était là un raisonnement qui paraissait à [MASK] clair comme le jour. Or, qu’y a-t-il de plus facile que de remédier à l’inconvénient d’un objet trop long, quand cet objet est une étoffe comme une autre, après tout ?
+
+['cela', 'ça', 'tout', 'Jack', 'Tom']	Bessy	» Cependant elle n’avait pas la conscience tout à fait tranquille, et elle ne put s’empêcher de penser que [MASK] eût bien dû ne pas venir juste à ce moment-là. « Tout va de travers aujourd’hui, murmura-t-elle.
+
+['il', 'elle', 'on', 'chacun', 'Il']	Rose	; il est devenu une petite travailleuse réfléchie et raisonnable. Maintenant, surtout, [MASK] sent que jamais, au grand jamais, on n’ajoutera un seul chapitre à ceux, déjà trop nombreux, des mésaventures causées par l’exécution de ses bonnes idées.
+
+['elle', 'et', 'Elle', 'il', 'qui']	Rose	, [MASK] recommença à s’ennuyer et à dire : « Est-ce que, demain ne sera pas bientôt aujourd’hui. » Heureusement, il y avait ses enfants à elle qui réclamaient toute son attention. Elle eût voulu les emmener tous.
+
+['elle', 'il', 'Anna', 'Alice', 'Clara']	Rose	Elle ne doute pas que le général ne fasse teindre en bleu sa propre moustache afin de mieux ressembler à ce beau portrait. Il y a des gens qui se teignent les cheveux et la barbe, [MASK] l’a entendu dire une fois et rien de ce qui tombe dans sa petite oreille n’est oublié.
+
+['Marie', 'Rose', 'Jeanne', 'Alice', 'Madeleine']	Alice	— Oh ! maman, répondit [MASK] devenue cramoisie, je préfère rester ici. Je vous en prie, dites non ; je ne pourrais pas y aller. — Et cependant, hier à la même heure, vous eussiez été ravie si les « enfants au ballon élastique » vous avaient envoyé une invitation semblable
+
+['elle', 'Anna', 'Alice', 'Emma', 'Rose']	Alice	A ce moment, [MASK] voulut regarder l’aspect du château d’un autre côté, et elle alla se poster entre la mer et les enfants. Découvrant alors que sa mère n’était plus là, elle se sentit une envie folle de prendre part au jeu des enfants.
+
+['elle', 'Alice', 'Sophie', 'Anna', 'Marie']	Alice	puis ils ramenaient doucement la ficelle à eux, et le ballon semblait leur revenir poussé par les vagues. A distance on ne distinguait pas la ficelle, et [MASK] se demanda pourquoi leur ballon n’était jamais emporté au large. « Quels charmants jeux ils ont ! soupira-t-elle.
+
+['il', 'elle', 'lui', 'on', 'Il']	Médor	Elle ne réussit pas davantage à l’en tirer de force, car [MASK] était trop loin d’elle, et même en se mettant à plat ventre et en étendant la main sous le canapé, sa petite main n’atteignait point le chien. Elle eut recours à la ruse.
+
+['Marie', 'Jeanne', 'Alice', 'Louis', 'Louise']	Alice	— Je n’en ignore pas moins qui ils sont. — Je le leur demanderai, si vous voulez, s’écria [MASK]. Cela ne me ferait rien du tout de leur demander leur nom. — Peut-être bien, dit son père en riant ;
+
+['Antoine', 'Albert', 'Adam', 'Alexandre', 'Oscar']	Alice	Comment se fait-il que la nouvelle venue soit si familière aux yeux d’[MASK] ? Pourquoi lui semble-t-il si bien connaître les longs cheveux bruns, le chapeau, la robe et toute la petite fille ? Cela se peut-il ? — Est-ce bien elle ?
+
+['Alice', 'Anna', 'Emma', 'Anne', 'Isabelle']	Alice	— J’étais plus affligée que fâchée, je ne vous supposais pas capable d’une pareille désobéissance. Votre père n’en pouvait croire ses yeux lorsqu’il vous a vue parler à la petite fille. » Les yeux d’[MASK] se remplirent de larmes. «
+
+['tous', 'chacun', 'Paul', 'certains', 'maman']	Rose	On déjeuna sur la grève, en pique-nique, les rochers servant de sièges et les galets d’assiettes ; l’oncle Paul faisant cuire lui-même les crabes et les crevettes pêchés par les enfants et qui, au grand étonnement de [MASK], devenaient tout rouges en cuisant.
+
+['elle', 'Marie', 'puis', 'surtout', 'Jeanne']	Rose	Et [MASK] de se jeter au cou de sa bonne pour l’embrasser en la serrant à l’étouffer, ce qui était une manière à elle de manifester sa gratitude. Un bruit de roues de voiture lui coupa la respiration. Grand Dieu ! sa tante était de retour.
+
+['Elle', 'Marie', 'En', 'Sophie', 'Alice']	Rose	[MASK] posant sa bouillotte sur la table, au détriment du chêne ciré de cette table sculptée, observe de près le phénomène. Elle finit par prendre un de ses malheureux poissons et le tire de l’eau pour voir ce qu’il a et pourquoi il ne veut plus remuer.
+
+['elle', 'moi', 'lui', 'toi', 'maman']	Lily	Pensez donc, si vous en aviez deux dans les bras et que vous en laissiez échapper une, quelle catastrophe. Il est infiniment plus prudent de n’en prendre qu’une et de laisser les autres ici, bien en sûreté. — Alors, c’est [MASK] qui doit venir, déclara la petite mère éplorée.
+
+['elle', 'Marie', 'Anna', 'il', 'Alice']	Rose	Elle finit par prendre un de ses malheureux poissons et le tire de l’eau pour voir ce qu’il a et pourquoi il ne veut plus remuer. Cette fois, malgré son inexpérience, [MASK] comprend la triste vérité : ses poissons sont morts.
+
+['lui', 'moi', 'elle', 'nous', 'Pierre']	Éva	— Oui, ce matin, sur la grève ; elle est venue nous examiner pendant que nous jouions, et elle s’est jetée sur [MASK] pour lui demander la permission de jouer avec nous. — A quoi pensez-vous ?
+
+['«', '5', 'I', '2', 'II']	Éva	[MASK]. Si elle ne regardait pas si singulièrement, elle serait comme vous et moi. Je trouve même qu’elle vous ressemble un peu. Elle est jolie, je crois, et ne paraît pas bête, je pense qu’elle est seulement mal élevée.
+
+['</s>NOTUSED', 'Marie', 'Jeanne', 'Catherine', 'Elle']	Alice	— Des enfants de personnes que je ne connais pas, mais qui sont des amis de votre tante Marie ; j’espère que vous aurez bientôt des compagnons de jeu. » [MASK], restée en arrière, n’avait pas entendu cette conversation.
+
+['maman', '</s>NOTUSED', 'Maman', 'Papa', 'le']	Constance	N’est-ce pas bizarre qu’elle rôde comme cela toute seule ? Elle n’a ni mère ni institutrice, ni personne avec elle. — Elle est peut-être folle, insinua [MASK].. — Ou idiote, dit le bébé. — Oh ! non, répliqua
+
+['Elle', 'Il', 'Anna', 'Marie', 'Alice']	Alice	; cela ne servit à rien. [MASK] dut se décider à partir. Elle ne le fit que bien à contre-cœur, et après avoir encore jeté un long regard d’envie sur les enfants qui l’attiraient si fortement.
+
+['elle', 'Marie', 'Louise', 'Jeanne', 'Madeleine']	Rose	Mais des bonbons donnés au dernier moment par un papa prévoyant arrêtèrent une crise de larmes et bientôt, la fatigue aidant, [MASK] s’endormit pour ne plus ouvrir les yeux qu’à Damville le lendemain matin. « Où sommes-nous ! s’écria-t-elle, toute surprise, et encore mal éveillée.
+
+['Dieu', 'Satan', 'Jésus', 'Marie', 'peinture']	Rose	Les moustaches que le bon Dieu lui a données lui suffisent telles quelles et il ne voit pas du tout la nécessité de changer quoi que ce soit de sa personne. Peut-être le pinceau de [MASK] le chatouillait-il désagréablement.
+
+['Elle', 'Alice', 'Emma', 'Anna', 'Clara']	Rose	[MASK] fait petit à petit toutes ces découvertes et elle est remplie de reconnaissance envers tout le monde. Comment pourra-t-elle leur dire jamais à tous à quel point elle est heureuse et que pourra-t-elle bien faire « en échange ».
+
+['Marie', 'Alice', 'Sophie', 'Jeanne', 'Rose']	Alice	Ce que vit [MASK] tout d’abord sur la plage, ce furent les trois enfants aux cheveux blonds qu’elle avait tant remarqués au square et qui s’amusaient ensemble comme la veille. Ils avaient attaché une ficelle autour de leur ballon, qu’ils lançaient le plus loin possible dans la mer
+
+['il', 'elle', 'on', 'mer', 'Neptune']	Alice	Ils avaient fait un charmant château de sable sur les murs duquel ils avaient incrusté de petits galets blancs et des coquillages, et quand [MASK] arriva auprès d’eux, ils étaient occupés à creuser tout autour un grand fossé que les vagues se chargeaient de remplir d’eau.
+
+['chacun', 'madame', 'personne', 'Dieu', 'maman']	Constance	— Oui, ils paraissent de charmants enfants ; d’ailleurs, je ne les ai vus qu’un instant, et [MASK] pourra mieux que moi vous renseigner. — Sont-ils blonds ou bruns ? Combien y en a-t-il ? Des petits garçons ou des petites filles
+
+['il', 'on', 'elle', 'Voltaire', 'Molière']	Rose	Et cette fois où, pour aider la cuisinière, [MASK] mit du sucre dans le lapin cuisant dans la casserole, d’après ce principe que le sucre, étant une excellente chose, ne pouvait qu’améliorer le goût de tout ce que l’on mange !
+
+['bébé', 'maman', 'Jésus', 'Marie', 'Léon']	Rose	Son petit cœur, à elle, se met à faire tic tac très fort ; qu’est-il arrivé ? Jamais la pendule n’a agi de la sorte avec la maman de [MASK]. Bien sûr, il y a quelque malheur. Que dira maman ?
+
+['Marie', 'Rose', 'Sophie', 'Jeanne', 'Clara']	Constance	Tout à coup quelque chose dans le costume de [MASK] attira son attention ; ôtant vivement son chapeau, elle le regarda d’un air embarrassé, puis elle regarda celui de sa sœur. Le sien était en paille noire et garni d’une plume noire ;
+
+['Alice', 'elle', 'Sophie', 'Emma', 'Marie']	Constance	Elle se retourna effrayée et fut très étonnée de reconnaître en ce quelqu un Alice, qui, les joues très rouges et les yeux étincelants, paraissait hors d’elle. « Oh ! Alice, que vous m’avez fait peur ! s’écria [MASK].
+
+['Jeanne', 'Marie', 'Madeleine', 'Berthe', 'Suzanne']	Alice	le cocher, par un violent effort, parvint à retenir juste à temps ses chevaux, et un monsieur très ému, sautant vivement de la voiture, prit [MASK] dans ses bras et la porta chez lui. C’était son père lui-même qui revenait de sa promenade.
+
+['</s>NOTUSED', 'La', 'femme', 'Elle', '«']	Alice	« Maintenant nous allons l’abattre, » dit l’aîné des petits garçons, et ils envoyèrent une pluie de pierres contre les murs de sable. [MASK], enivrée ; courut à la petite fille et lui dit : « Oh ! puis-je vous aider à l’abattre
+
+['Marie', 'Jeanne', 'Sophie', 'Clara', 'Rose']	Alice	» Lorsque [MASK] vit tout le monde prêt à sortir, elle ne put s’empêcher de regretter ses paroles de la veille. Le temps lui parut bien long pendant près d’une heure et demie qu’elle resta seule ;
+
+['Alice', 'Jeanne', 'Rose', 'Anna', 'Marie']	Rose	« Vite ! vite, nous allons manquer le train... » et il prit [MASK] dans ses bras. Une fois en voiture, la fillette, très préoccupée de ces dernières paroles, ne pensa plus qu’à la possibilité de manquer ce train.
+
+['maman', 'Marie', 'Sophie', 'Jeanne', 'Maman']	Rose	Au moment où elle avançait les doigts pour le saisir, son regard tomba sur la pendule, une vieille pendule Empire que son papa affectionnait tout particulièrement et sur laquelle il y a un sujet qui a toujours fait le bonheur de [MASK].
+
+['»', '«', '...', 'etc', 'mais']	Alice	Celle-ci la conduit vers la fenêtre, et lui montrant le groupe d’enfants : « Regardez, » s’écrie-t-elle ; sa mère ne paraît ni étonnée ni mécontente, et dit : « Je ne vois rien d’extraordinaire, [MASK].
+
+['Aussi', 'Que', 'Pourquoi', 'Encore', 'Comment']	Jeanne	Dans sa jugeotte, elle se croyait infaillible. [MASK] n’avait-elle pas administré un pareil bain à sa poupée Dorothée, ce qui avait, disait-elle, en outre, admirablement nettoyé une poupée salie par un trop long service et de trop tendres caresses de petits doigts malpropres.
+
+['Madame', 'maman', 'Marie', 'madame', 'Jeanne']	Rose	Elle se félicite de sa prudence ; un accident est si vite arrivé ! Une autre, moins précautionneuse, eût peut-être posé l’encrier sur le tapis, mais là, sur le tabouret, il n’y a aucun danger. Ainsi parle [MASK] et sa fille n’objecte rien.
+
+['on', 'il', 'elle', 'maman', 'papa']	Gertrude	? Elle eût voulu partir sur-le-champ, mais il n’y avait point de train à la disposition des petites filles impatientes et force lui était d’attendre. Pour l’occuper, [MASK] lui dit de l’aider à faire la malle.
+
+['Elle', 'Anna', 'Marie', 'Alice', 'Maman']	Alice	[MASK] tourna vivement la tête d’un autre côté, et ses joues devinrent toutes rouges lorsqu’elle songea à la manière dont la petite lui avait dit : « Maman nous défend de jouer avec des étrangers.- » Un instant après elle regarda de nouveau.
+
+['maman', 'Marie', 'Jeanne', 'Madeleine', 'Catherine']	Rose	« attraper ». La veille, [MASK] n’a-t-elle pas confectionné un châle à sa fille, Mlle Virginie, pour la mener, elle aussi, au soleil, comme maman, reprendre des forces après la grande maladie causée par le fameux bain trop chaud ?
+
+['elle', 'il', 'on', 'Alice', 'Emma']	Médor	Elle a appris à connaître presque toutes ses lettres, mais cela ne suffit pas pour donner un sens aux pages des livres : la lecture, comme bien d’autres choses, ne s’apprend pas en un jour. A défaut de moustaches bleues, [MASK] apprécierait certainement des moustaches noires.
+
+['elle', 'Sophie', 'Anna', 'Alice', 'Lisa']	Rose	Corrige-toi, mon pauvre petit frelon, à la fois étourdi et présomptueux... » Ainsi parlait maman, mais [MASK] était convaincue qu’elle était déjà maintenant une sage petite abeille. Que désirait-elle toujours ? Rendre service, être utile, être bonne.
+
+['on', 'Dieu', 'personne', 'je', 'elle']	Bessy	puis nous blâmons le monde au lieu de nous en prendre à nous-mêmes. « N’oubliez pas la leçon que vous venez de vous donner à vous-même aujourd’hui, chérie, et maintenant venez voir avec moi si [MASK] ne peut rien faire pour guérir un peu cette pauvre figure écorchée.
+
+['on', 'elle', 'il', 'maman', 'papa']	Rose	En déjeunant il a dit à tante Marie qu’il ne l’accompagnait vraiment en visite que pour l’obliger, car il n’avait pas une minute à perdre. Vite, vite, [MASK] va le remplacer et l’oncle sera joliment content quand il reviendra de trouver sa besogne faite.
+
+['maman', 'Madeleine', 'Maman', 'Marguerite', 'Jeanne']	Jacques	Elle a déjà colorié tant et tant d’images qu’elle saura s’y prendre, et l’oncle n’a-t-il pas dit hier à [MASK] que le talent n’est qu’une patience infinie. Elle en aura, de la patience, et du génie, par conséquent.
+
+['Maman', 'Elle', 'Papa', 'Il', 'Je']	Rose	[MASK] prête l’oreille et ne perçoit aucun son. La pendule est arrêtée. Maman l’a bien dit : tout va de travers dans une maison où la maîtresse de maison est malade. La pendule est arrêtée et personne n’a pensé à la remonter.
+
+['Elle', 'Alice', 'Emma', 'Anna', 'Marie']	Rose	[MASK] aime beaucoup les histoires qu’on lui raconte, mais elle ne sait encore ni lire, ni écrire, et c’est grand dommage, car si elle avait la patience d’apprendre à lire, elle ne se plaindrait plus jamais de s’ennuyer et elle ne serait plus jamais inoccupée.
+
+['Elle', 'Marie', 'elle', 'Alice', 'Maman']	Rose	[MASK] était rarement montée en wagon et jamais avec tous ces bagages. Quand elle entendit les coups de sifflet et qu’elle vit la locomotive s’avancer en soufflant, grondant, écumant, comme un monstre de fer, elle se serra contre son papa ;
+
+['Elle', 'Maman', 'maman', 'elle', 'On']	Rose	Des roses blanches et des œillets roses, le joli bouquet, et qu’il ferait bon effet dans ce vase de cristal de Bohême que maman aime ! [MASK] n’a besoin de consulter personne pour cela. Elle n’a qu’à prendre le vase sur la cheminée ;
+
+['Elle', 'Marie', 'Catherine', 'Madeleine', 'Thérèse']	Rose	[MASK] avait compris. Elle essuya ses yeux, prit son courage à deux mains, et alla, très contrite, dire à l’oncle Paul combien elle était peinée et le supplier de lui pardonner. Elle était si désolée et si repentante qu’il eût fallu un cœur de pierre pour rester inflexible.
+
+['maman', 'papa', 'bébé', 'Maman', 'madame']	Virginie	a recours à son grand remède : les larmes, mais les larmes n’ont jamais avancé à rien. Les larmes ne redonnent pas à [MASK] son corps de cire blanc et rose, les larmes ne font pas que papa ne soit obligé d’envoyer chez le chapelier son chapeau neuf
+
+['Il', 'On', 'Joseph', 'Louis', 'David']	Edred	[MASK] resta un instant stupéfait d’étonnement ; puis il partit d’un éclat de rire : « Et nous avons dit qu’elle était folle ! et vous-même vous l’avez appelée idiote ! Votre propre sœur ! ! !
+
+['On', 'Il', 'Elle', 'Maman', 'Marie']	Alice	L’aîné portait le pliant de son institutrice, la petite fille son livre, et le tout petit garçon pliait sous le poids du ballon. [MASK] les entendit projeter d’aller le lendemain sur la grève faire des châteaux de sable. « Comme ils s’amuseront !
+
+['maman', 'Maman', 'Jane', 'Marie', 'Rose']	Constance	Enfin elle entendit la voix de ses parents. « Où est [MASK] ? » s’écria-t-elle en n’apercevant pas sa sœur. — Avec les petits Conyngham, et je crois qu’elle reviendra tout juste à l’heure de se coucher. — Oh ! quel ennui
+
+['non', 'hein', 'là', 'maintenant', 'alors']	Éva	elle est toujours à nous dévisager. — C’est elle qui voulait jouer avec nous, [MASK] ? Je me demande pourquoi elle nous regarde ainsi. C’est très impoli. — C’est ennuyeux, allons un peu plus loin. » Et ils tournèrent le dos.
+
+['elle', 'Jeanne', 'Marie', 'Emma', 'Louise']	Alice	« J’ai quelque chose à vous dire, maman, fit-elle très bas. — Préférez-vous pour cela attendre que nous soyons rentrées à la maison ? lui demanda sa mère, car [MASK] paraissait si agitée qu’elle craignait une scène de larmes devant tout le monde.
+
+['maman', 'Jeanne', 'Marie', 'madame', 'Madame']	Éva	; puis il partit d’un éclat de rire : « Et nous avons dit qu’elle était folle ! et vous-même vous l’avez appelée idiote ! Votre propre sœur ! ! ! — Venez vite le dire à [MASK] ; elle sera si étonnée ! »
+
+['maman', 'Jeanne', 'cela', 'madame', 'Madame']	Zouzou	! Il est si méchant ! — Mais non, mais non. Mettez [MASK] en prison dans l’armoire, en punition de ses fautes passées, et chargez la cuisinière de veiller sur vos enfants ; croyez-moi, une seule est bien assez. »
+
+['elle', 'lui', 'eux', 'Anna', 'Marie']	Constance	; elle n’avait pas traversé la moitié de l’a pelouse qui les séparait qu’elle aperçut l’institutrice se diriger de l’autre côté du square avec [MASK] et le bébé et sortir par la porte qui faisait face à la mer.
+
+['elle', 'on', 'il', 'chacun', 'Marie']	Constance	Elle s’en rapprochait peu à peu, et [MASK] se demandait si elle ne leur parlait pas tant elle en était près, lorsque, lasse d’attendre, elle se remit à faire un beau pouding de sable dans lequel elle enfonça de petits cailloux qui ressemblaient tout à fait à des raisins
+
+['Marie', 'Jeanne', 'Madeleine', 'Jean', 'Pierre']	Constance	— Leurs enfants ne sont-ils pas à peu près de l’âge des nôtres ? — Quels enfants, maman ? demanda [MASK]. — Des enfants de personnes que je ne connais pas, mais qui sont des amis de votre tante Marie ;
+
+['Léa', 'Jeanne', 'elle', 'Louise', 'Charlotte']	Rose	Maman est guérie, la vie ordinaire va reprendre son cours, et [MASK] va revivre, heureuse, sous l’œil de sa chère maman jusqu’à ce qu’elle soit assez grande pour savoir, enfin, à elle toute seule, ce qu’il est bon de faire ou de ne pas faire.
+

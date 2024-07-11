@@ -1,0 +1,200 @@
+[',', 'il', 'elle', 'et', 'qui']	Gaston	mais [MASK] lui saisit vivement la main, et la baisant avec passion :– Ah ! madame, lui dit-il, vous venez de me faire le plus heureux des hommes, et je ne veux pas douter de la réussite d’un projet auquel mon bonheur est attaché.
+
+['le', 'de', "l'", 'la', 'val']	Charpentier	Absorbé dans sa pensée, le roi n’avait pas vu [MASK].Croyant que le secrétaire n’avait point répondu à l’appel, il releva impatiemment la tête et s’apprêtait à frapper sur le timbre une seconde fois, lorsque celui-ci, au geste devinant l’intention s’empressa de s’avancer en disant
+
+[',', '"', 'se', 'et', 'en']	Richelieu	» [MASK] relut la dépêche une seconde-fois, puis avec le sourire du joueur triomphant :– Allons, dit-il, je commence à voir clair sur mon échiquier.FIN DU PREMIER VOLUME.Arrivés au point où nous en sommes
+
+['le', 'la', 'les', "l'", 'Le']	Mulot	On vous fera manger de force.– Je ne boirai pas.– On débouchera sous votre nez des bouteilles de romanée, de clos-vougeot et de chambertin.– Taisez-vous’! taisez-vous ! cria [MASK], au comble de l’exaspération, et marchant sur le cardinal les poings fermés.
+
+['son', "l'", 'sa', 'la', 'ses']	Mirame	Toutes deux respirent l’herbe et tombent évanouies. Pendant ce temps, on a pansé les blessures d’Arimant, qui ne sont pas mortelles. Il revient à lui, mais pour se désespérer de la mort de [MASK].
+
+['lui', 'un', 'Lui', 'Un', 'Monsieur']	Chalais	Quant à Monsieur, il signa une confession, dans laquelle il dénonçait et abandonnait ses amis. Il fut marié, enrichi et déshonoré.[MASK] seul sortit sans honte de cette conspiration parce qu’il en sortit sans tête.Et déjà si avant dans l’ignoble, MONSIEUR n’avait pas vingt ans.
+
+['il', 'on', 'lui', 'Il', 'et']	Baradas	Le roi essaya de le calmer ; [MASK] eût pardonné un coup d’épée et même, d’un coup d’épée venant du maréchal de Bassompierre eût tiré un certain orgueil, mais il ne pardonnait pas un coup de lardoire.
+
+['il', 'chacun', 'Il', 'on', 'Pierre']	Montmorency	quelques-uns avaient apporté des échelles ; l’escalade commença.[MASK] prit un drapeau et monta le premier à la muraille ; trop lourd et un peu trop vieux pour les suivre, il alla se poster à demi-portée de fusil des remparts, exhortant les soldats à bien faire.
+
+['</s>', 'Monsieur', 'monsieur', 'Madame', 'vous']	Isabelle	Vous avez affaire à pis que cela, [MASK]. Un païen consent à se convertir ; un penseur veut s’éclairer, et, en s’éclairant, c’est-à-dire au fur et à mesure qu’il s’avance vers la vérité éternelle, il s’éloigne du dogme.
+
+['deux', 'quatre', 'trois', 'six', 'cinq']	Lafalone	Quand les autres disaient qu’il ferait beau promener, qu’il ferait beau chasser, qu’il ferait beau baigner aujourd’hui, lui, invariablement disait : qu’il ferait beau manger, il en résulta que, quoique le cardinal eût des gardes, il n’en conserva pas moins [MASK].
+
+['le', 'monseigneur', 'celui-ci', 'Monseigneur', 'il']	Gaston	– Le baron le pense, monseigneur, et le lui dit dans sa lettre.– En échange, dit [MASK], je vous donnerai des nouvelles d’alcôves, les seules qui m’intéressent, maintenant que j’ai renoncé à la politique.– Dites, monseigneur, dites, firent les dames en riant.
+
+[',', 'de', 'il', 'et', ';']	Latil	[MASK] marchait devant le cheval du roi, sondant la route avec un bâton ferré ; de temps en temps il s’arrêtait, cherchait un meilleur passage, prenait le cheval par la bride et lui faisait traverser le mauvais pas.
+
+['le', 'la', "l'", 'les', 'se']	Bois-Robert	Et comme [MASK] rentrait tenant la demoiselle de Gournay par la main, le sourire, hôte inusité de cette sombre physionomie, reparut momentanément sur ses lèvres.La demoiselle de Gournay était, comme nous l’avons dit, une vieille fille, née vers le milieu du seizième siècle
+
+['le', 'on', "l'", ',', 'de']	Gaston	Les deux femmes se regardèrent.– Le cardinal, continua [MASK], pour s’allier à une maison royale, passerait par tout ce que l’on voudrait.Les deux dames se regardèrent de nouveau.– Ce que monseigneur dit là est-il
+
+[',', 'mais', 'donc', 'la', 'les']	Vénus	Je ne vous eusse pas crue si ambitieuse, chère Isabelle.– Ambitieuse, et pourquoi ?– Deux ou trois de ces mondes seulement sont plus petits que le nôtre : [MASK], Mercure, la lune, trois en tout ;
+
+[',', 'de', 'le', 'la', "l'"]	Sully	[MASK] qui, par son œil bleu et dur, et par son teint de rose, à soixante ans, justifiait peut-être sa prétention d’être d’origine écossaise, était beaucoup plus craint qu’aimé, même de Henri IV ;
+
+['de', 'le', ',', '...', 'à']	Latil	elle avait de son côté fait un mouvement agressif.Les deux troupes n’étaient plus qu’à cinquante pas l’une de l’autre.La troupe savoyarde s’arrêta peur faire feu.– C’est le moment, dit [MASK] ; attention, monseigneur ! essuyons le feu ;
+
+['on', 'le', ',', "l'", 'en']	Mulot	Mais c’est justement chez elle que je voulais t’envoyer, le Bois.– Comme cela se trouve.– Prends mon carrosse et va me la quérir.– Le malheureux, fit [MASK], il leur fera tant faire de courses pour ses malheureux poètes, qu’il crèvera les chevaux de monseigneur.–
+
+['il', 'on', 'lui-même', 'chacun', 'je']	Latil	; ne seriez-vous pas l’Éminence grise, alors ?– Je suis mieux que cela, dit le cardinal en riant à son tour, je suis l’Éminence rouge.Et il rabattit son capuchon pour que [MASK] sût bien à qui il avait affaire.– Ouais !
+
+['Elle', 'elle', 'lui', ',', 'il']	Mathilde	[MASK] avait appris le départ du comte aussitôt son départ à elle. Elle avait su gré à son amant de n’avoir pas voulu renter dans une cour où elle n’était plus, et depuis dix-huit mois elle rêvait son retour.
+
+['celui-ci', 'celle-ci', 'jadis', 'Monseigneur', 'réception']	Gaston	Quant au duc, comme les paroles de [MASK] flattaient sa suprême ambition :– Voilà des paroles qui ne sont point semées sur le sable, monseigneur, répondit-il, et l’occasion s’en présentant, Votre Altesse verra que j’ai de la mémoire.
+
+['celui-ci', 'celle-ci', 'Philippe', 'madame', 'chacun']	Gaston	mais que se passe-t-il donc, voyons, qui rend ici nécessaire la présence de votre humble servante ?La reine lui raconta le départ du roi, l’arrivée de [MASK] et l’espèce de pacte qui en avait été la suite.– Et Votre Majesté se fie à son beau-frère ?
+
+['il', 'le', 'celui-ci', 't-il', 'Monseigneur']	Richelieu	Le cardinal fixa un regard aigu du côté d’où venait la voix, et dans les ténèbres il distingua une forme humaine qu’il reconnut pour être celle d’une seconde religieuse.– Qui êtes-vous, demanda [MASK], vous qui répondez si péremptoirement à une question qui ne vous est point adressée ?
+
+['Dieu', 'Allah', 'dieu', 'Jésus', 'Zeus']	monseigneur	S’il n’était pas à la mesure de ma tête, je prierais [MASK] de me donner un vieux chapeau à lui, en signe que, quelles que soient les faveurs dont le ciel me comble, jamais je ne me tiendrai pour son égal, mais pour son serviteur et son domestique.
+
+['RON', ',', 'RO', '...', '--']	Corneille.–	Mais ce n’est point là qu’est le mérite, puisque l’histoire est vraie, et que mon ami en étant le héros n’a pas même le mérite de l’invention. Imaginez-vous, madame, qu’un ami de ce libertin…– Rotrou ! Rotrou ! interrompit [MASK]
+
+['les', 'le', 'la', 'de', "l'"]	Latil	Services à la fois offensifs et défensifs, dit-il. M. le cardinal n’a plus de capitaine des gardes, plus de gardes ; c’est à moi de lui servir de tout ceci.– Comment, plus de capitaine des gardes ! dit une voix de femme derrière [MASK]
+
+['le', 'de', 'une', 'la', 'un']	Judas	Quel effet vous fit-il la première fois que vous le vîtes ? demanda le cardinal.– Je fus fort effrayée de sa figure : c’était un homme grand et fort, charpenté vigoureusement, d’un roux foncé et noirâtre. Quand je le vis, je crus voir [MASK]
+
+['excell', 'bien', 'en', 'répon', 'parfaitement']	Guillaume	– Le lendemain, je vais mieux, je reprends mon service, il n’y a rien à dire.– Vous entendez, [MASK] ?– Oui, excellence.– À quelle heure commencent les travaux ?– À sept heures du matin.– Alors, il n’y a pas de temps à perdre.
+
+['dame', 'la', 'très', 'le', 'en']	Richelieu	Cette dame, dit [MASK], n’est probablement pas de la cour ou ne va pas à la cour, car elle ignore les règles de l’étiquette, sinon elle ne supposerait pas que le roi pût visiter le plus humble de ses sujets.–
+
+['de', ',', 'me', 'se', 'en']	Mirame	– Dans le même acte, dit-il, j’ai esquisse entre [MASK] et son père une scène qui devra être conservée entière par celui de vous, messieurs, qui se chargera du premier acte, cette scène renferme toute ma pensée, et une pensée à laquelle je ne veux rien changer.–
+
+['conteur', 'celle-ci', 'celui-ci', 'ceux-ci', 'chacun']	Bois-Robert	D’ailleurs, outre les contes qu’il espérait tirer, comme d’habitude, de la verve intarissable de [MASK], il avait à le charger de découvrir la demeure de la demoiselle de Gournay et de la lui amener.
+
+['le', 'la', "l'", ',', 'de']	Thadéo	que le cardinal Antoine, le jeune, surnommé le Démosthène parce qu’il bégaie en parlant, n’était capable que de s’enivrer trois fois par jour, et que le dernier d’eux tous, [MASK], qu’il avait nommé généralissime du saint-siége, était plus en état de porter une quenouille qu’une épée.–
+
+[',', 'de', 'le', "l'", 'se']	Isabelle	[MASK] poussa un soupir de joie plaintif comme un cri de douleur, puis, sans s’inquiéter du lieu où elle était :– Oh ! mon ami, dit-elle, oh ! combien je t’aime.Le comte regardait la madone.–
+
+[',', 'le', 'de', 'en', 'ce']	Latil	Puis, tirant leurs deux brancards des coulisses dans lesquelles ils étaient passés :– D’ailleurs, dirent-ils, si vos gens viennent avec leurs bâtons, nous avons de quoi répondre.– Bravo, mes amis, dit [MASK] voyant que la chance était pour lui
+
+['re', '.', 'R', 'et', 'il']	Cavois	– Le bien qu’il m’avait fait.– Et si je veux vous faire du bien autant et plus que lui ?[MASK] secoua la tête.– Ce n’est plus la même chose.– Ce n’est plus la même chose, répéta le roi.–
+
+['Du', 'du', 'de', 'M.', 'son']	Marie	le duc de Savoie a des espions partout.– Vous êtes à peu près de ma taille, vous les ferez pour moi ; voici de l’argent.Le comte tendit une bourse à [MASK] Coutet.– Mais il y a beaucoup trop.– Vous me rendrez ce que vous n’aurez pas dépensé.
+
+['là', 'ça', 'oui', 'çà', 'toi']	Pisani	Devant lui une espèce d’athlète de cinq pieds six pouces de haut, lui parlait les bras croisés.– Ah ! ça, [MASK], lui disait-il, tu es donc enragé de te jeter sans cesse, et de nous jeter avec toi dans de mauvaises affaires.
+
+['roi', 'il', 'reine', 'elle', 'prince']	Luynes	pour répéter son ballet ; soupa à huit heures ; fit de nouveau visite à la reine, la quitta à dix heures, rentra dans ses appartements et se coucha ; mais à peine était-il couché, que [MASK] entra dans sa chambre et l’engagea à se lever.
+
+[',', 'NON', 'tout', '...', 'TRAN']	Jupiter	C’est [MASK] ; il est mille quatre cent quatorze fois plus gros que la terre, aussi a-t-il quatre lunes qui lui donnent une lumière permanente et un printemps éternel.– Mais comment nous semble-t-il si petit, lorsque le soleil nous semble si gros ?–
+
+[',', 'de', 'le', 'la', 'ta']	Latil	[MASK], après avoir ordonné à ses hommes de garder les portes, s’avança, le chapeau d’une main, l’épée de l’autre, jusqu’au milieu de la salie. Mais la princesse Christine, lui épargnant la moitié du chemin, vint de son côté au devant de lui.–
+
+['le', 'celui-ci', "l'", 'Jean', 'Pierre']	Richelieu	Savez-vous, mon cher capitaine, répondit [MASK], que vous avez bien fait de débuter comme vous avez fait, sinon je me serais demandé si vous étiez un niais de vous charger d’une pareille ambassade, ou si vous me preniez pour un niais moi-même.
+
+['la', 'de', ',', "l'", 'le']	Saint-Simon	Tu me l’as dit, du moins.– Et que quant aux femmes, je ne puis pas les souffrir.– Bien vrai, Baradas ?– C’est-à-dire que c’est ma querelle incessante avec ce mauvais sujet de [MASK], à qui je montre sans cesse l’exemple de Votre Majesté.–
+
+['-', ':', '...', "'", '"']	Richelieu.–	avec une pareille promesse, dit le blessé, je n’y manquerai pas, monseigneur ; mais, ajouta-t-il, il était temps.– Temps de quoi ? demanda [MASK] Que nous finissions ; je me sens faible et… bon ! est-ce que je vais mourir ?
+
+['elle', 'on', 'mesure', 'chacune', 'épée']	Suze	ceux que lui avaient adressé le comte de Moret étaient vrais.Ce fut là que, vérification faite des cartouches, il apprit que chaque homme avait sept coups à tirer.– Qu’importe ! répondit-il, si [MASK] est prise au cinquième.
+
+['-', 'le', 'monsieur', 'je', 'en']	Cavois	– Oh ! reprit la femme du notaire, un beau garçon ! – Il était beau garçon dans ce temps-là, monseigneur ; depuis il est un peu déformé, mais n’importe, je ne l’en aime pas moins, n’est-ce pas, [MASK] ?
+
+['la', "l'", 'ces', 'de', 'BU']	Padoue	– Vous allez en juger ; les meilleurs télescopes qui existent au monde sont ceux de [MASK]. Eh bien, braqués sur votre planète favorite, ma chère Isabelle, ils dénoncent partout la stérilité et la solitude, du moins sur son hémisphère visible ;
+
+[',', 'le', 'se', 'et', 'la']	Lafalone	[MASK] croisa béatiquement les mains sur son gros ventre, et les yeux dévotement levés au ciel :– Seigneur Dieu, dit-il, faites-nous la grâce de bien digérer ce bon déjeuner que nous avons si bien mangé.C’était ce que le cardinal appelait les grâces de Lafalone.–
+
+['on', 'tu', 'se', 'de', 'te']	Monseigneur	Choisis toi-même les hommes et les chevaux ; il y a, si tu réussis, cinquante mille livres pour les hommes, vingt-cinq mille pour toi.– L’honneur d’avoir fait le coup me suffirait ; mais si [MASK] veut absolument y ajouter quelque chose, j’en passerai par où il voudra.–
+
+[',', 'ce', 'se', 'de', 'le']	Mazarin	; car, naturalisé en 1639, il enleva les dernières lettres de son nom, et ce fut sous celui de [MASK] que l’histoire l’a enregistré comme un des plus grands fourbes qui aient jamais administré le royaume, –
+
+['elle', 'tout', 'aussitôt', 'encore', 'tous']	Richelieu	Il monta droit à l’appartement de la reine, ouvrit la porte, et sans nommer personne, comme si elle devait savoir de qui il était question il cria en italien : « E amazatto ! »– Il est tué ! répéta [MASK].
+
+[',', 'le', 'dame', "d'", 'de']	Montmorency	Tout à coup on vit un certain trouble se manifester parmi les assiégés, puis on entendit au loin, derrière eux, une fusillade et de grands cris.– Courage, amis, cria [MASK], en montant pour la troisième fois à l’assaut, c’est le comte de Moret qui nous arrive
+
+['Monsieur', 'conclure', 'Je', 'que', '-']	Éminence	– [MASK], en votre qualité de théologien, pouvez-vous m’affirmer que cette alliance avec un hérétique ne compromet point le salut de mon âme ?– Comme c’est moi qui l’ai conseillée à Votre Majesté, s’il y a un péché je le prends sur moi.–
+
+[',', 'pers', 'S', 'le', 'qui']	Guillemot	:– Le roi !– Ah ! par ma foi, murmura le cardinal, décidément, c’est un grand diplomate que ma voisine Marion Delorme.[MASK] s’effaça rapidement, et le roi Louis XIII et le cardinal de Richelieu te trouvèrent face à face.– Sire
+
+['le', 'les', 'la', 'un', 'une']	Baradas	Elles étaient si préoccupées qu’elles ne l’ont pas vu, lui ; il a continué son chemin, après les avoir vues, dans un entre-deux de portes, parler avec M. le duc d’Orléans. Puis il est entré chez [MASK] ;
+
+['il', 'elle', 'lui', 'et', 'Philippe']	Gaston	Et tandis que la princesse Marie sortait par une porte, [MASK] s’élançait par l’autre, avec la vivacité d’un homme qui a besoin d’aller chercher dans la fraîcheur de l’air extérieur un calmant à sa passion.
+
+['vous', 'lui', 'nous', 'moi', 'Vous']	Villaudry	Quant à [MASK], justement parce que vous aviez été clément avec votre femme, vous résolûtes d’être implacable avec lui, et comme il était à la messe aux Minimes de la place Royale, vous entrâtes dans l’église, lui donnâtes un soufflet et mîtes l’épée à la main.
+
+['velours', 'bonté', 'droite', 'beauté', 'fer']	Mélite	Après l’œil de [MASK], il n’est rien d’admirable,Il n’est rien de solide après ma loyauté.Mon feu, comme son teint, se rend incomparableEt je suis en amour ce qu’elle est en beauté !
+
+['"', '...', 'Coll', 'parti', 'le']	Galuar	Laissez-moi [MASK].Puis, la joie dans le cœur, le prince saisit la main du cardinal, la pressa avec reconnaissance et s’élança hors de l’appartement.Resté seul avec le comte de Moret, le cardinal s’approcha de lui, et, le regardant avec une respectueuse tendresse :
+
+['ta', 'ç', 'la', 'un', 'mon']	Baradas	– Ah, tu as donné un bon de trois mille pistoles à [MASK] ?– Oui.– Eh bien, tu peux te vanter que voilà de l’argent bien placé.– Crois-tu qu’il en fasse un mauvais emploi ?
+
+[',', 'Elle', 'elle', 'qui', 'ne']	Bouvard	La princesse Marie ne parlait point, mais comme son cœur, en ne parlant pour personne, laissait germer l’ambition dans sa jeune tête, elle ne perdait point une parole de ce que disait Monsieur.– [MASK] le regarde comme un homme perdu, madame, et s’émerveille qu’il vive encore
+
+['le', "l'", 'notre', 'votre', 'maître']	Nogent	Je me couvre, et je vous couvre, dit l’Angély.– Devant le roi, y penses-tu ?– Bah ! pour des bouffons, c’est sans conséquence…– Sire, faites donc taire votre fou ! s’écria [MASK] furieux.– Bon !
+
+['toi', 'tu', 'moi', 'nous', 'je']	Marie	À votre place, moi.Elle hésita.– À ma place, toi ? voyons, achève.– À votre place, je les abandonnerais à leur sort. Vous n’étant plus là ; nous verrons un peu comment ils s’en tireront.– C’est ton avis, [MASK] ?
+
+['Roland', 'Robert', 'Albert', 'Henri', 'Jean']	Bassompierre	Non, c’est vous, répliqua le roi.– Alors, continua [MASK], je pris tout, pistoles et demi-pistoles, j’ouvris une fenêtre, et je les jetai aux laquais qui attendaient dans la cour ; puis je revins faire le jeu avec des pistoles entières.– Ah !
+
+[',', 'eur', 'TE', 'e', 'TA']	Guadaçamilles	Celui-ci courut aussitôt chez le maître des requêtes, qui était de ses amis, auquel il affirma l’innocence de Lopez.– Et cependant, mon cher marquis, la chose est claire, lui dit le maître des requêtes : [MASK].Le marquis l’arrêta.– Parlez-vous espagnol
+
+[',', 'et', 'qui', 'il', 'personne']	Latil	En tête et à cheval marchait le colonel qui le commandait.Ce corps était à peu près égal en nombre à celui du comte de Moret.[MASK] s’approcha du comte.– Je reconnais, lui dit-il, l’officier qui conduit cette troupe ;
+
+[',', 'une', 'de', 'la', 'le']	Latil	de quel genre étaient les services que monsieur venait vous offrir ?[MASK] montrant son épée.– Services à la fois offensifs et défensifs, dit-il. M. le cardinal n’a plus de capitaine des gardes, plus de gardes ; c’est à moi de lui servir de tout ceci.–
+
+[',', 'tout', 'je', '-', "l'"]	Baradas	– Je les garderai comme argent de poche et comme réserve. Dieu merci, Sire, continua [MASK] en levant les yeux au ciel, les bonnes actions, à faire ne manquent pas, et sur toutes les routes on rencontre des orphelins à secourir et des veuves à consoler.–
+
+['-', 'il', 'Il', 'et', 'elle']	Charpentier	est chez elle, dit-il, elle va venir à l’instant même ; dois-je refermer la porte ?– Inutile.– Sa Majesté désire-t-elle être seule, ou veut-elle que je reste ?– Laissez-moi seul.[MASK] se retira.
+
+['il', 'celui-ci', 'elle', 'tout', 'Henri']	Richelieu	Il se vante d’avoir quelque bonheur secret. MIRAME. Un amour bien traité devrait être discret. – Belle pensée, murmura Corneille.– Vous pensez, jeune homme, dit [MASK] avec complaisance. LE ROI. Il dit qu’il est fort aimé d’une fort belle dame.
+
+['la', 'ce', 'se', 'clairs', 'clair']	Montmorency	– Prince, lui dit-il, voulez-vous être connétable demain ?Les yeux de [MASK] lancèrent un double éclair.– Monseigneur, dit-il, à la façon dont Votre Éminence me fait la proposition, j’ai peur qu’elle n’ait à me demander quelque chose d’impossible.–
+
+[',', 'on', 'à', 'je', 'et']	Latil	dit [MASK] avec un geste de suprême dédain, sont des donneurs d’étrivières, tandis que moi je suis un donneur de coups d’épée.– Allons ! dit l’inconnu, je vois qu’il faut doubler la somme ; soit, je puis mettre deux cents pistoles à cette fantaisie.–
+
+['il', 'y', 'roi', 'qui', 'et']	Charpentier	Ces coups rapides et violents indiquaient la situation mentale du roi.[MASK] entra vivement, mais s’arrêta sur le seuil.Le roi était resté pensif, les yeux fixés en terre, le poing appuyé sur le bureau du cardinal, murmurant :– Enceinte !
+
+[',', "s'", 'à', 'même', 'lui-même']	Richelieu	– … Où il était allé, continua [MASK] au risque de s’égarer, mais voulant tout savoir, où il était allé pour voir, si, par l’intermédiaire d’un certain Étienne Latil, il ne pourrait pas se débarrasser du comte de Moret, son rival
+
+['il', 'Il', 'qui', 'le', 'et']	Latil	?– Oui ; il est habité à cette heure par le duc de Savoie et son fils.[MASK] sourit.– Il y aurait un coup à faire, dit-il.– Lequel ?– Celui de les enlever tous les deux.– T’en chargerais-tu ?– Parbleu !
+
+['parti', 'me', 'de', 'ade', 'on']	Sire	Le roi regarda sa montre.– Quatre heures ! dit-il. Demain à dix heures du matin je serai ici ; veillez à ce que la traduction de ce nouveau chiffre soit faite.– Elle le sera, [MASK].Puis, comme le roi prenait son chapeau pour se retirer :
+
+[',', 'le', 'je', 'en', 'de']	Fargis	Et la reine haussa doucement les épaules.– Maintenant, voici ce que me dit mon frère Philippe IV.– Et ce que ne comprend pas très bien Votre Majesté.– Ce que je ne comprends pas du tout, [MASK], dit la reine, avec un air d’innocence parfaitement joué.–
+
+["l'", "s'", 'un', 'il', 'le']	Baradas	:– Sire, je le ferais fouetter.– Ah ! vous me feriez fouetter, monsieur le maréchal, dit [MASK] exaspéré.Et tirant son épée malgré la présence du roi, il s’élança sur le maréchal.Le duc de Guise et le duc d’Angoulême le retinrent.–
+
+['donner', 'recevoir', 'payer', 'tout', 'accorder']	Monseigneur	Puisque tu as promis à ces drôles une double ration, il faut bien la leur donner ; mais que tout soit payé comptant.– Je ne demande pas mieux, [MASK] ; mais pour payer…– Oui, il faut de l’argent, n’est-ce pas ?
+
+['certains', 'Voltaire', 'quelques-uns', 'Madame', 'Molière']	Bassompierre	étant jeune homme il avait enluminé des images, ce que ses courtisans avaient appelé faire de la peinture ; il avait fait ce que ses courtisans avaient appelé de la musique, c’est-à-dire joué du tambour, exercice auquel, s’il faut en croire [MASK], il réussissait très-bien.
+
+['avoir', 'et', ',', 'il', 'avait']	Latil	[MASK] dit tout ce qu’il avait vu, déclara avoir aperçu un tout jeune homme de dix-sept à dix-huit ans, coiffé d’un large feutre avec une plume de couleur, et enveloppé d’un manteau bleu ou noir. Le cheval était aussi noir que la nuit, avec laquelle il se confondait.
+
+['ⱴ', 'RO', '_', '縫', '-']	Richelieu	– Pas tout à tait, mais je ne sais si je dois vous le dire.– Pourquoi cela ?– Parce que dans le reste il y a un coup d’épée.– Des duels ! des duels encore ! murmura [MASK].
+
+['la', ',', 'les', 'se', 'une']	Rossignol	– Il a craint qu’elles ne fissent plus de mal au roi qu’à ses ennemis.Le roi fit quelques pas en long et en large dans le cabinet, allant et revenant, la tête basse et le chapeau sur les yeux.Puis, revenant à [MASK] :
+
+['on', 'On', 'qui', 'Je', 'je']	Rotrou	– Avec une comédie en cinq actes.– Qui a pour titre ?– Mélite.– Ce n’est point un nom historique.– Non, c’est un sujet de fantaisie. [MASK] prétend qu’il est destiné à effacer tous les poètes passé, présents et futurs.– L’impertinent !
+
+['celui-ci', 'Monseigneur', 'le', 'monseigneur', 'Monsieur']	Isabelle	En ce moment la pendule sonnait deux heures du matin.Le cardinal congédia le vicomte avec une certaine tristesse, car, d’après les aveux que lui avait faits [MASK], il comprenait qu’il lui serait difficile, impossible même de donner à ce bon serviteur la récompense qu’il ambitionnait.
+
+['tout', 'pas', 'se', ')', 'le']	Mulot	blancs de chapons à la royale, un salmis de-pluviers et d’alouettes, deux bécasses rôties, champignons farcis à la provençale, écrevisses à la manière de Bordeaux ! à la rigueur, on peut déjeuner avec cela.– Hé pardieu ! fit [MASK], de la nourriture on en aura toujours assez
+
+['un', 'le', 'à', ',', 'de']	Bassompierre	Ah ! messieurs, dit le roi en pâlissant, que feriez-vous si un page se rendait coupable envers vous d’une insulte pareille à celle que ce petit coquin s’est permise à mon égard ?On se tut.[MASK] seul, incapable de retenir sa langue, dit
+
+['Oui', '-', 'OUI', 'est', ':']	Ravaillac	Qui, [MASK] ? Oui ; ce fut alors que par deux fois, le jour de l’Ascension et de la Fête-Dieu, il me dit tout, c’est-à dire qu’il était décidé à tuer le roi.– Et quel air avait-il eu vous faisant cette confidence ?
+
+['il', 'et', ',', "l'", 'Il']	monseigneur	À trois heures, [MASK] envoya chercher une seconde chaise pour la dame de Coëtman, et la conduisit chez le baigneur Nollet, en face le pont Notre-Dame, où il donna quelques ordres, continuant seul son chemin.– Allons ! allons !
+
+['le', 'il', 'son', 'leur', "l'"]	Richelieu	elle voua le roi à une vendetta italienne, et elle ferma son cœur à tous les avis qui lui furent donnés.– Ces avis ne lui furent-ils-point particulièrement donnés, demanda [MASK], par une femme nommée la dame de Coëtman ?
+
+['dont', 'le', ',', 'et', "s'"]	Baradas	Les deux enfants – c’étaient presque des enfants – [MASK], l’aîné, avait vingt ans à peine, les deux enfants avaient fait les plus beaux projets sur les trois mille pistoles. Ils allaient vivre un mois, au moins, comme des princes ;
+
+['la', 'elle', 'jeune', 'femme', 'une']	Marion	À peine avait-il achevé que la porte s’ouvrit et que [MASK], vêtue d’une robe de satin blanc, avec un simple fil de perles au cou, une forêt de boucles noires tombant sur ses rondes et blanches épaules, apparut dans tout l’éclat de sa beauté de dix huit ans.
+
+[',', '...', 'le', 'en', '-']	Isabelle.–	Oh ! la charmante fleur, dit [MASK] La désirez-vous ? s’écria le jeune homme.Et avant que la jeune fille eût pu répondre, il s’était élancé et gravissait le roc qui le séparait du plateau et de la fleur.–
+
+["l'", 'le', ',', 'la', 'ce']	Latil	?– Ma foi oui ; pauvre reine ! reprit [MASK], en portant la main sur l’or, et en s’apprêtant à le faire passer de la table dans sa poche, elle n’a pas de chance, on vient de lui tuer le duc de Buckingham.–
+
+[',', 'le', 'tout', 'LE', 'un']	Cavois	?– Oui, monseigneur, répondit [MASK], qui avait obéi à l’ordre du cardinal.– Eh bien, il est de mes amis ; seulement il est de ceux qui viennent me voir de dix heures du soir à deux heures du matin ;
+
+['un', 'une', 'accueil', 'hôte', 'assignation']	Achille	mais, ce que nous savons, c’est qu’une demi-heure après être entré dans la tente d’[MASK], l’Ulysse moderne regagnait, toujours sur la pointe du pied, l’appartement des deux reines, dont il ouvrait la porte d’un air joyeux et en disant d’une voix pleine d’espérance
+
+['le', 'la', "l'", 'un', 'ce']	Guillaume	J’ai peur, fit-elle.– Ne craignez rien, dit le comte, je veille sur vous.– D’ailleurs, fit [MASK], qui avait entendu, si nous avions quelque chose à craindre, ce ne serait point ici, j’y ai trop d’amis.– Et nous ?
+
+[',', 'le', 'en', 'tout', "l'"]	Sully	le vieillard, orgueilleux, familier avec l’étiquette des cours, fut sensible à ce détail.– Monsieur le duc, lui dit le cardinal en souriant, ma visite vous étonne ?– J’avoue, répondit [MASK] avec sa brusquerie ordinaire, que je ne m’y attendais pas.–
+
+[',', 'de', "l'", 'le', 'un']	Jacinta	Tu te trompais, tu vois, et comme pour un diplomate rien n’est plus précieux que le temps, dis-moi vite où est ta maîtresse ?[MASK] poussa un second soupir, ouvrit la fenêtre et prononça ce seul mot :
+
+['on', ',', 'il', "s'", 'et']	Richelieu	– Oui, et ce fut au milieu de ces-beaux projets que le frappèrent les parricides.[MASK] enregistra la seconde interruption près de la première, car, sur la seconde comme sur la première, son intention était de revenir, et continua :
+
+[',', 'le', 'de', 'ne', 'on']	Richelieu	[MASK] avait l’habitude, par feinte courtoisie, de dire au capucin de s’asseoir, et celui-ci, par feinte humilité, avait l’habitude de rester debout. Il remercia donc le cardinal de la tête et continua :
+

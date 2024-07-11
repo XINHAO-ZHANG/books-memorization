@@ -1,0 +1,200 @@
+['il', 'elle', 'qui', 'on', "j'"]	Gabriel	puis le laisser ensuite faire son chemin lui-même, en aidant, mais sans l’opprimer de tes propres idées. – Ne trouves-tu pas qu’il a une figure. pas aide du tout ? Dans son enthousiasme pour son futur élève, [MASK] aurait voulu en dire beaucoup plus
+
+['celui', 'jésus-christ', 'dieu', 'celui-là', 'ce']	Jésus	Voilà pourquoi la révolte de l’homme a couvert la terre de tant de maux et de douleurs. Ne croyez-vous pas que [MASK] qui était saint et dont l’amour était sans mesure, a plus souffert de la vue du mal que nous ne pouvons en souffrir ?
+
+['non', 'mais', 'enfin', 'seulement', 'oui']	Raoul	? Je vous écoute. – [MASK], ne plaisantez pas, je vous en prie, au moins si ce que vous m’avez dit est réellement vrai. – C’est réellement, indubitablement, incontestablement vrai. Plût au ciel que ce ne fût qu’une blague !
+
+['il', 'elle', ',', 'lui', 'louis']	Gabriel	Pendant ce temps [MASK] observait sans en avoir l’air tout ce qui l’entourait. Ce vaste et élégant salon ne ressemblait guère à celui de sa mère, si simple et si petit. Jamais encore il n’avait vu autant de luxe.
+
+['</s>', '(', 'il', '--', 'gali']	Rosine	; elle y met tous les sous que je gagne avec mes bons points et les pièces d’argent qu’on lui donne pour la dentelle qu’elle raccommode. [MASK] en a une aussi. Elle dit que nous serons bien contentes un jour de nous trouver riches.
+
+['il', 'tout', ',', 'elle', 'cela']	Raoul	dit [MASK] en riant aux éclats. Ah ! mon pauvre garçon, deux ans de Paris ne vous ont pas guéri de votre candeur. Que ferez-vous à vous tout seul contre vingt millions de paysans ignorants, grossiers, avares, tout encroûtés dans leurs préjugés sordides ?
+
+['</s>', '-', 'elle', '"', 'il']	Maurice	elle n’est plus dans la maison où elle était. – Vraiment ? et pourquoi ? – Elle a perdu sa place. – C’est sans doute un malheur, mais au moins vous pouvez la voir librement. [MASK] ne répondit pas tout de suite.
+
+['il', 'elle', 'chacun', 'jésus', 'marie']	Gabriel	Que n’aurait-il pas donné peur se jeter dans ses bras et lui tout dire sans réserve et sans réticence. Mais, hélas ! un péché en appelle un autre, et [MASK] se servit pour tromper sa mère de la confiance même qu’elle avait en lui. – Pourquoi me regardes-tu ainsi ?
+
+['il', 'qui', ',', 'lui-même', 'tout']	Leclerc	[MASK] avait été mis en quarantaine par la rédaction du Merle blanc ; personne ne lui adressait la parole, personne ne faisait semblant de le voir ou de l’entendre ; il était pour ses anciens amis exactement comme s’il n’existait pas.
+
+['...', 'etc', 'etc.', '</s>', ',']	Cinna	: – Soyons amis, [MASK], c’est moi qui t’en convie ! – Mais, dit le jeune garçon, c’est un peu vite. – Bah ! est-ce que vous seriez rancunier, par hasard ?
+
+['</s>', "c'", "--c'", '-', 'il']	Raoul	C’est un n joli tableau, en effet, que personne ne pourrait regarder avec indifférence. [MASK] est devenu un grand et beau jeune homme de dix-huit ans. Il fait sa rhétorique, et veut étudier le droit.
+
+['"', 'à', 'total', 'exclu', ')']	Raoul	– Que regardez-vous donc ? demanda [MASK]. – Voyez-vous ce garçon là-bas qui regarde passer les élèves ? Je voudrais lui parler. – Lui parler ! quelle absurde idée ! Est-ce votre habitude d’entrer en conversation avec les mendiants que vous rencontrez dans la rue
+
+['</s>', '-', '"', 'il', ',']	Maurice	Comment passerez-vous vos vacances de Pâques ? – Si le temps est beau, nous irons peut-être quelques jours à la campagne dans une ferme. [MASK] a été très-malade, et ma mère veut l’emmener avec nous pour lui faire changer d’air. Et vous
+
+['elle', 'et', 'il', 'on', '-']	Susanne	– Mais la nièce du concierge. – Elle affirme qu’on ne lui a rien dit et qu’elle ignorait complétement que vous fussiez sortie, et ce n’est pas une menteuse, bien qu’elle ne se fasse pas passer pour une sainte. [MASK] comprit tout.
+
+['oui', 'non', 'oh', 'mais', 'peut-être']	Raoul	Une mère qui ne nous connaît guère mieux, qui sort tout le jour, qui ne trouve pas une heure à te donner, entre sa couturière et ses visites, à toi qui es malade et toujours seule. – [MASK], tu te trompes, dit la jeune fille avec vivacité
+
+['il', 'elle', 'jeanne', 'marie', 'on']	Gabriel	Mais il ne faut pas le lui dire ee soir, de peur qu’il n’ait peur et ne vienne pas. – Sois tranquille, je le prendrai comme dans une souricière. Le lendemain, [MASK] arriva de bonne heure chez son ami.
+
+['il', 'leur', ',', 'ils', 'en']	Gabriel	[MASK] avait pour tous deux une cordiale antipathie, et leurs fréquentes humiliations scolaires ne lui causaient aucune peine, mais il était trop généreux pour chercher jamais à leur en attirer, ou pour les aggraver par des moqueries. Il tâchait seulement de s’apercevoir le moins possible de leur aimable présence.
+
+['tom', 'robert', 'alice', 'jacques', 'catherine']	Francine	Il trouva pourtant la force de s’approcher du petit lit et de s’asseoir tout auprès. – Avant d’être malade, reprit [MASK], je pensais toujours aux prés remplis de fleurs que je n’avais jamais vues et j’aurais voulu les cueillir.
+
+['il', ',', 'frère', 'père', 'on']	Raoul	[MASK] allait dire que c’était du jargon, et qu’il détestait le jargon ; mais il rencontra le regard de sa sœur, et les paroles s’arrêtèrent sur ses lèvres. Il se leva et alla regarder par la fenêtre. – Voilà qu’on prépare la voiture.
+
+['un', 'et', 'le', ',', 'une']	Gabriel	? Est-ce que vous vous promenez vraiment en chemin de fer avec des polissons des rues ? – Non, dit [MASK]. – Alors, qu’est-ce qu’on m’a dit ? c’est donc un conte ?
+
+['je', 'tu', 'maman', 'ça', "j'"]	Susanne	et puis elle sait que [MASK] me soigne si bien ! – Oui, elle entre trois ou quatre fois par jour dans ta chambre pour s’informer de toi, et à moi elle me demande au moins une fois par semaine si je travaille bien.
+
+['sa', 'marie', 'la', 'clotilde', 'marthe']	Susanne	Sa solitude était redevenue profonde, elle n’avait pour la soutenir que l’affection de [MASK], toujours dévouée, et qui toujours dirigeait ses regards vers le ciel où tous les viles seront comblés et où il n’y aura plus ni tristesse ni solitude.
+
+['je', 'on', 'celui-ci', 'madame', 'lui-même']	Raoul	Elle ne s’étonnait pas de la détermination de son père, dont elle connaissait la sévérité qui ne s’adoucissait un peu que pour elle ; mais que sa mère ne pût se mettre à sa place, que [MASK] lui refusât un service demandé avec tant d’instance, voilà ce qui lui était dur et amer.
+
+['</s>', "s'", 'il', "c'", 'on']	Gabriel	Un des jeunes gens, qui paraissait plus aimable que les autres, lui offrit de le prendre sous sa direction jusqu’à ce qu’il sût la marche du jeu. [MASK] était un peu humilié de dire qu’il n’avait jamais de sa vie touché une carte ;
+
+['elle', "m'", 'vous', 'nous', 'chacune']	Hélène	– Laissez-moi vous raconter tout ce qui s’est passé. Et [MASK] exposa les faits tels qu’elle les connaissait, aussi brièvement que possible, car elle voyait des marques d’impatience sur la figure de son père. – C’est elle qui le dit.
+
+['il', 'dieu', 'celui-là', 'lui-même', 'mais']	Maurice	il faut qu’elle en vienne à dire : « C’est impossible, [MASK] n’a pas fait cette faute honteuse, car il est incapable de mentir. » C’est un but à atteindre, mon enfant, et il n’est pas difficile de gagner la confiance d’une mère.
+
+['"', '.', '!', ',', '(']	Maurice	Maman est méchante, elle fait pleurer [MASK]. L’audacieuse petite créature vit sans sourciller la main de sa mère se lever pour lui donner un soufflet. Elle l’aurait sans doute reçu si elle avait eu le moins du monde l’air d’avoir peur, mais son regard mutin et déterminé retint le coup.
+
+['</s>', 'elle', 'il', "s'", "c'"]	Maurice	Quand il eut disparu, elle alla s’asseoir sur sa chaise près du feu et resta immobile, occupée à se pénétrer de son bonheur. [MASK] était rentré dans la maison, justifié de cette accusation terrible qui pesait sur lui depuis si longtemps.
+
+['un', 'qui', 'il', 'lui', 'le']	Raoul	Elle pensait que peut-être dans un autre intérieur, [MASK], mieux connu, plus suivi, mieux dirigé, ne serait pas si facilement rentré dans une mauvaise voie. Elle souffrait aussi de n’avoir pu, avec toute sa tendresse, rien deviner, rien prévenir.
+
+['pied', 'pieds', 'genoux', 'celle-ci', 'sa']	Francine	Il posa [MASK] par terre, ôta sa casquette de dessus son front et aspira fortement cet air plus pur que celui de la rue. La petite, qui s’était vêtue à la hâte et à moitié en sortant de son lit, commença à frislonner.
+
+['</s>', 'il', 'le', 'et', ',']	Maurice	N’oubliez pas mon adresse, et souvenez-vous que c’est au cinquième. [MASK] le regarda s’éloigner d’un pas léger, s livres sous le bras, jusqu’à ce qu’il eût tourné coin de la rue, puis il tourna lui-même sur ses Ions et soupira
+
+['-', '</s>', 'elle', '"', '--']	Hélène	– Tu as l’air bien, ce soir, ma chérie ; tu ne souffres pas ? tu es contente ? [MASK] l’embrassa et-répondit qu’elle était très-bien, très-contente, et que sa mère devait jouir de sa soirée sans se préoccuper d’elle.
+
+['elle', 'il', 'qui', 'jeanne', 'et']	Hélène	– Pas tout à fait, pas encore. En disant ces mots, [MASK] le regardait avec son doux sourire. – Eh bien, espérons, ayons patience ; cela viendra. J’ai entendu parler l’autre jour d’un médecin qui fait des cures merveilleuses.
+
+['il', 'elle', 'et', 'celui-ci', 'on']	Hélène	Il ne lui était pas même venu à l’esprit qu’elle pût renoncer pour quelques jours à la petite routine de sa vie ; la nièce du concierge venait s’établir dans la chambre voisiné, [MASK] lui demandait ce dont elle avait besoin et échangeait quelques paroles avec elle quand l’envie lui en prenait.
+
+['les', 'le', ',', 'tout', 'la']	Maurice	Il parlait avec fermeté, avec dignité ; des juges sans prévention eussent été convaincus par le seul accent de sa voix ; mais son oncle lui-même, le seul de qui il put attendre quelque justice, était prévenu contre lui. Les apparences en effet, accusaient [MASK].
+
+['</s>', 'celui-là', 'lui', 'un', 'dieu']	Gabriel	Il était né à une vie nouvelle, mais cette vie était encore un chaos. [MASK], chez qui la vie du cœur et celle de l’intelligence s’étaient développées en harmonie et par degrés, ne pouvait comprendre un état semblable et ne devinait pas ce qu’il y avait sous son silence.
+
+['cachet', 'lui', 'recommandation', 'désespoir', 'démission']	Leclerc	– Lisez cette lettre, lui dit-il en lui mettant un papier dans la main. C’était une lettre de [MASK] qui contenait l’aveu de sa faute et de la lâcheté avec laquelle il avait laissé pendant des mois entiers le blâme peser sur un autre.
+
+['elle', '</s>', 'il', 'et', 'celle-ci']	Francine	Elle prit la règle et frappa trois fois les petites mains qui ne tremblèrent pas et demeurèrent immobiles sous les coups ; elle eut même assez de force d’âme pour les donner aussi vigoureux qu’elle l’eût fait à une vraie coupable. [MASK] retourna à sa place.
+
+['elle', 'il', 'jeanne', 'catherine', 'marie']	Gabriel	Mon père dit qu’il faut se défier des gens mal vêtus, et passer le plus loin d’eux possible, quand ce ne serait que pour ne pas se salir. – Ma mère ne me parle pas ainsi, dit [MASK] avec indignation ;
+
+['dit-il', 'dit-elle', '-', 'ajouta-t-il', 'répondit-il']	Gabriel	– Pas chrétien ! répéta [MASK] d’un ton indigné. Parce qu’il n’a pas ses façons de parler méthodistes, et ne pense pas que nous devons vivre les yeux levés au ciel, sans nous inquiéter de ce qui se passe sur la terre !
+
+['il', 'elle', 'on', 'dieu', 'chacun']	Gabriel	Quelques pluies et quelques soleils d’avril avaient suffi pour faire éclater de toutes parts la vie et la jeune verdure. Combien [MASK] aurait pu se réjouir de se retrouver en pleine liberté dans les champs, s’il était resté le même qu’autrefois.
+
+['chacun', 'autrui', 'quiconque', 'personne', 'tous']	Gabriel	Jamais, sous aucun prétexte, il ne négligeait une leçon ou ne la remettait au lendemain. Quand je lui demandais de le faire, il me répondait : « Comment pourrais-je inculquer à [MASK] le sentiment de son devoir, si je manque au mien ? »
+
+['dieu', ',', 'jésus', 'jésus-christ', 'comme']	Jésus	Pour le moment, nous obtiendrons davantage en leur montrant [MASK] vivant et agissant parmi les hommes, ses frères, guérissant leurs maladies et partageant leurs souffrances, qu’en leur parlant d’un monde des esprits qui ne peut avoir pour eux la même réalité que celui-ci. –
+
+['ceux', 'ce', 'celles', ',', 'ceux-là']	Bertrand	– Il nous insulte ! cria un des gamins qui avaient mis l’affaire en train. – Silence ! voilà [MASK] qui vient. Il ne plaisante pas, vous savez, nous en aurions bien vite pour cinq cents vers. Nous retrouverons Son Excellence après la classe.
+
+['jean', 'mrs', 'jacques', 'tom', 'henri']	Gabriel	Je crois que j’aimerais mieux que tu te fusses reconnu auteur de l’article ; cela ne t’aurait fait que de l’honneur auprès des élèves. – J’aime beaucoup mieux avoir dit la vérité, répliqua [MASK]. Les vacances du jour de l’an étaient venues.
+
+['bien', 'moi', 'monsieur', 'dit-il', 'oui']	Susanne	[MASK], vous allez partir tout de suite ; je le prends sur moi. J’expliquerai tout à maman. Je n’ai pas besoin de vous. Mon frère viendra passer la soirée avec moi ; je ne serai pas seule. – Mais la nuit ?
+
+[',', 'et', 'ce', 'qui', 'que']	Gabriel	[MASK] paraissait plus gai que de coutume. Il l’avait embrassée tendrement et avec un sourire joyeux. Etait-il possible que cet enfant, si loyal, si aimant, fût devenu un menteur, un hypocrite ? Non ! elle croirait plutôt que tout le monde était dans l’erreur,
+
+['</s>', 'elle', '-', '"', 'il']	Maurice	Mais tout à coup une crainte s’empara d’elle ; elle ajouta : – Qu’est-ce que nous mangerons là-bas ? [MASK] n’eut pas de réponse à cette question. Il n’avait aucune idée de ce que les bois pouvaient fournir en fait de subsistance.
+
+['lui', 'moi', "qu'", 'quand', "lorsqu'"]	Francine	Il avait en lui un monde nouveau, inaccessible aux aspérités de celui où il était forcé de vivre. Quand vint l’heure du souper et qu’il voulut prendre sa place habituelle entre son oncle et [MASK] il vit qu’il n’y avait pas de couvert.
+
+['il', '-il', 'on', 'elle', '-t-il']	Raoul	Messieurs, dit [MASK], c’est tout simplement un poulet que l’on couve encore. Je vous prie de ne pas chercher à l’induire en tentation. Vous voyez qu’il n’a pas encore de duvet, laissez-le se réfugier sous l’aile maternelle.
+
+['</s>', 'il', 'elle', '-', '"']	Maurice	Il n’y aura pas de place pour lui à ma table jusqu’à ce qu’il m’ait demandé pardon de sa conduite. [MASK] jeta un regard de colère à sa tante et s’en alla sans répondre un mot.
+
+['lui', 'moi', 'elle', 'nous', 'là']	Raoul	Près d’elle était assise une dame dont le regard, comme celui de la pauvre mère, était attaché sur la petite figure immobile de l’enfant. Plus près de [MASK], dans un fauteuil, une vieille femme tricotait et grommelait en même temps.
+
+['lui', 'il', 'julien', 'lui-même', 'pascal']	Maurice	Comme il aurait été joyeux, surtout, de la pensée que [MASK] allait voir la nature en fête, la voir de près, dans son intimité, lui, qui la connaissait à peine et ne l’avait encore vue qu’un peu triste et sévère !
+
+['noël', 'toussaint', 'pâques', 'papa', 'monsieur']	Raoul	– Mais les vacances de [MASK] vont finir et il n’aura plus le temps de rester avec nous et de nous faire la lecture. – C’est vrai, mais il nous donnera au moins un moment. Pour aujourd’hui, je vous laisse si heureux que je m’en vais sans remords.
+
+['et', 'par', 'de', 'non', 'en']	Maurice	Lui enseigner à lire et à écrire, vraiment !. et qu’est-ce qui l’a empêché d’apprendre jusqu’à présent ? Est-ce que je te l’ai jamais défendu ? Voyons, [MASK], parle. Peux-tu dire que je te l’aie défendu
+
+['il', 'ne', 'comme', 'de', 'ainsi']	Gabriel	; il ne savait pas se mettre à la place des autres. Plusieurs jours s’étaient écoulés, et [MASK] L’avait pas revu le pauvre garçon qui l’intéressait, bien qu’il l’eût toujours cherché des yeux au sortir. du lycée.
+
+['il', 'qui', 'cela', 'beaucoup', 'en']	Raoul	De choses importantes ! La confiance de son fils, sa loyauté, les fruits que pouvait porter pour son avenir l’humiliation de ses fautes, ce n’étaient donc pas, à ses yeux, des choses importantes ! Mais [MASK] restait encore.
+
+['il', 'elle', 'et', 'chacun', 'on']	Gabriel	; mais elle ne lui dit pas pourquoi il recevait d’elle un si tendre baiser. En rentrant de la classe du soir, [MASK] jeta ses livres sur la table avec un mouvement de triomphe. – J’ai une invitation pour demain, maman ;
+
+[',', ':', 'que', 'cela', '...']	Raoul	– Elle n’est pas laide, ni désagréable, dit [MASK], elle a surtout la voix douce, au lieu de cette voix criarde qu’ont les femmes qui ne sont plus jeunes. – Tu l’as vue ? – Mais, oui, ne te l’ai-je donc pas dit
+
+['</s>', 'il', 'elle', '--il', 'celui-ci']	Susanne	; d’ailleurs, cela ne vous regarde plus. Allons, dépêchez, j’ai à faire mon service. [MASK] donna l’adresse demandée et se retira le cœur horriblement serré. Ne devait-elle plus revoir sa chère jeune maîtresse ?
+
+[':', 'pas', ',', '"', 'non']	Susanne	? – Mon Dieu ! est-ce possible ? dit [MASK]. – Est-ce possible !. Vraiment, c’est bien à vous de faire l’étonnée. Qui est-ce qui l’a laissée seule ? – Mais la nièce du concierge.
+
+[',', 'qui', 'roi', 'lui', ';']	Maurice	[MASK] de son côté suivait seul sa voie, et rencontrait bien des obstacles à surmonter. A mesure qu’il lisait et étudiait davantage il comprenait mieux tout ce qui lui manquait, tout ce que jamais il ne pourrait acquérir.
+
+['.', '...', 'dieu', ':', 'sécurité']	Gabriel	Par une association d’idées inexplicable, la vue de cet inconnu réveilla tout à coup dans sou esprit les pensées de la nuit qu’il avait jusqu’alors oubliées. Quel rapport pouvait-il y avoir entre ce jeune homme qu’il n’avait jamais vu et le secret de [MASK]
+
+['on', 'il', 'cela', 'elle', 'dieu']	Hélène	il balbutia quelques mots dont lui-même ne comprit pas le sens, puis se tut et commença à exercer sur les boutons de son gilet une persécution à laquelle il leur était difficile de résister. Mais [MASK] lui laissa le loisir de se remettre, en causant d’une manière animée avec son frère.
+
+['</s>', '(', 'temps', 'personne', '...']	Raoul	Si a petite fille meurt elle ne supportera pas ce double chagrin ; mais comment faire ? – Si je le disais à [MASK] aujourd’hui, maman ? ) eut-être quand il saura combien elle est malheureuse trouvera-t-il quelque moyen de lui faire rendre justice ? –
+
+['il', 'elle', 'cela', 'ça', 'noël']	Maurice	– Laisse-moi coudre, répliqua la mère sans regarder, tu m’ennuies. – Quand [MASK] viendra je lui montrerai mon image, dit l’enfant d’un ton mutin, il ne me dit jamais que je l’ennuie.
+
+['</s>', '-', 'elle', '...', '"']	Gabriel	– Non, avec ma mère. – Ah ! c’est vrai, j’oubliais. Et votre mère vous accompagne au lycée ? [MASK] rougit et jeta un regard de reproche sur le questionneur. – Ma mère est veuve, dit-il, elle n’a que moi.
+
+['je', "j'", 'celui-ci', 'maman', 'cela']	Maurice	Il aurait voulu que [MASK] l’interrompît pour lui demander le sens de tel ou tel mot qui ne faisait certainement pas partie de son vocabulaire, mais le pauvre enfant n’en était pas à la phase de développement où l’on veut se rendre un compte minutieux de chaque chose.
+
+['lui', 'elle', 'moi', 'eux', 'lui-même']	Raoul	Il se rendit aussitôt chez [MASK]. – Vous savez que je n’y tenais pas, dit celui-ci en jetant dédaigneusement l’argent dans un tiroir de son bureau, je ne me souciais nullement de cette bagatelle. Où avez-vous pris cet argent ?
+
+['pierre', 'jésus', 'paul', 'tous', 'julien']	Raoul	J’ai son adresse, ce n’est pas très-loin d’ici. La figure de [MASK] se rembrunit. Cette mission ne lui souriait nullement. – Quelle idée ! dit-il, et que veux-tu que j’aille lui dire ? Ecris-lui.
+
+['sa', 'elle', 'son', 'lui', 'ce']	Gabriel	Son sourire était franc ; ses grands yeux bruns semblaient dire des choses meilleures que celles qui sortaient de ses lèvres. [MASK], qui n’avait jamais eu pour camarades que de petits paysans sans instruction, subissait le charme de son langage facile et de ses manières aisées.
+
+['maurice', 'marguerite', 'bussy', 'henri', 'rodolphe']	Gabriel	Si vous ne voulez pas me croire, ne me croyez pas ; ça m’est bien égal. Vous n’empêcherez pas que j’ai seize ans, et que je cours sur mes dix-sept. – A demain, dit [MASK] sans se rebuter ; je compte sur vous.
+
+['il', ',', 'qui', 'elle', '</s>']	Raoul	[MASK] était du nombre de ceux qui n’ont jamais eu le temps de désirer. Tout petit garçon, ayant déjà reçu montre, chaîne d’or, meubles de toutes sortes et jouets coûteux de toute espèce, il n’avait pu trouver à demander pour ses étrennes qu’une paire de bottes.
+
+['je', 'tu', 'elle', 'maman', 'celle-ci']	Susanne	– J’irais bien avec toi, mais il faut que je monte un moment auprès de ta sœur, pendant que [MASK] déjeune. – La couturière attend Madame, dit un domestique en ouvrant la porte. – Ah ! quel ennui ! j’avais oublié ce rendez-vous.
+
+['dieu', 'je', 'paris', 'maman', 'elle']	Maurice	Elle était fluette et ne pesait pas plus qu’une plume à ses bras devenus vigoureux. Aussi quand elle s’y nichait en balbutiant son nom de sa petite voix caressante, il n’était rien au monde que [MASK] n’eût fait avec joie pour la contenter.
+
+['moi', 'lui', 'tout', 'vous', 'cela']	Francine	Je venais vous parler de [MASK]. – Elle vous a mécontentée, sans doute ; j’ai vu qu’elle avait la main enflée et elle n’a pas voulu m’expliquer pourquoi. Je dois vous dire en passant que je n’approuve pas qu’on frappe mon enfant.
+
+['maurice', 'jacques', 'catherine', 'marguerite', 'robert']	Francine	– Non, pas tant qu’on me croira un voleur. Mais tu ne vas pas mourir, petite folle ? Il se baisse, l’embrassa au front et voulut s’éloigner. – Ta ne m’aimes plus, dit [MASK] d’un ton moitié fâché moitié suppliant.
+
+['marguerite', 'catherine', 'elle', 'alice', 'henriette']	Hélène	– Quoi ? dit le jeune garçon d’un ton peu encourageant. – Si tu savais, poursuivit [MASK], ce que c’est que d’être dépendante pour tout, incapable de rien faire par soi-même, je suis sûre que tu ne me le refuserais pas.
+
+['il', 'lui-même', 'elle', 'lui', 'celui-ci']	Raoul	Mais [MASK] ne répondit pas à cette salutation familière, et quand son père, surpris de ce silence, se retourna pour s’assurer que c’était bien lui qui venait d’entrer, il le vit pâle et immobile et entendit ces paroles prononcées d’une voix qui ne tremblait pourtant pas :
+
+['caroline', 'jeanne', 'catherine', 'marguerite', 'henriette']	Raoul	je ne puis me fier qu’à toi, car les domestiques sont tous contre elle. – Cela ne parle pas en sa faveur, dit [MASK] sèchement. – Ah ! si je te disais tout ce qu’elle a fait pour moi !
+
+['personne', 'rien', 'mort', 'homme', 'que']	sonne	Jamais la classe n’avait été aussi silencieuse et aussi tranquille. Il y régnait une morne consternation. Ceux qui savaient le fond des choses jetaient des regards de mépris sur le pauvre chroniqueur, qui, pâle comme un mort, ne levait les yeux sur per [MASK].
+
+['elle', 'marie', 'jeanne', 'madeleine', 'alice']	Francine	Sa vieille maîtresse d’école m’a raconté d’elle un trait qui révèle dans cette enfant si jeune la ressemblance de celui qui a mis sa vie pour ses frères. Elle redit en peu de mots la scène qui avait eu lieu dans la petite école le dernier jour où [MASK] s’y était trouvée.
+
+['lui', 'lui-même', 'elle', 'celui-ci', 'moi']	Maurice	; mais le sentiment qu’il éprouve pour [MASK] est une chose à part. Il est fier de son ancien élève, mais il n’est pas toujours sûr de le comprendre ; cette nature contenue, énergique et un peu rude l’étonne et l’embarrasse.
+
+['il', "l'", 'y', "n'", 'elle']	Gabriel	[MASK] avait consenti, mais non avec le joyeux élan qu’il eût mis autrefois à accepter une offre comme celle-là. Ils marchèrent d’abord en silence. La matinée était si belle qu’il semblait contre nature d’être triste au milieu de ce luxe de soleil, de parfums et de fleurs.
+
+['il', 'elle', 'le', '-il', 'jean']	Gabriel	Au fond, il est plus à plaindre que moi. – Il faudra pourtant bien que cela se découvre un jour. Autant vaut tout de suite. – J’espère toujours qu’il l’avouera lui-même, dit [MASK]. – Quelle folie ! il est beaucoup trop pleutre pour cela.
+
+['elle', 'il', '</s>', 'puis', 'celle-ci']	Raoul	; elle lui sourit et mit de côté le journal qu’elle lisait. [MASK] se pencha sur sa mère, et au même instant le petit animal, roulé en boule soyeuse et à moitié endormi, se secoua brusquement et aboya avec colère.
+
+['</s>', '-', 'il', '"', '...']	Gabriel	C’est justement ce qui fait que je puis vous parler. M’écoutez-vous ? – Oui. – Je me suis endetté cet hiver de trois mille francs. Voilà qui est dit. Vous voyez que je sais piquer une tête. [MASK] resta consterné et immobile.
+
+['celui', 'celle', 'jeanne', 'ce', 'celui-ci']	Lucien	? – Oui, répondit [MASK] qui avait les cheveux rouges et l’air lourdaud, oui, je l’ai vue de mes propres yeux, et elle est restée au coin de la rue à le regarder jusqu’à ce qu’il fût entré. – Pas possible !
+
+['il', 'elle', 'julien', 'georges', 'henri']	Gabriel	Un jour, en sortant de la classe du soir, [MASK] vint s’asseoir près de sa mère qui travaillait à côté de la fenêtre ouverte. – Eh bien ? dit-elle en le regardan d’un air tendre et interrogateur. – Eh bien, rien n’est changé.
+
+['on', 'tout', 'elle', 'il', 'chacun']	Gabriel	Quand on eut pris le thé, [MASK] se trouvait si bien, et la causerie était devenue si facile qu’il fallut le sentiment du devoir et la crainte d’inquiéter sa mère pour lui donner le courage de partir.
+
+['jeanne', 'jean', 'georges', 'jacques', 'paul']	Maurice	a mère aura raison de me gronder. – Non, dit l’enfant en se serrant contre lui, elle n’aura pas raison, je ne l’aimerai plus du tout si elle te gronde encore. – Tais-toi, tais-toi, disait [MASK] tout en marchant.
+
+['il', 'et', 'puis', 'elle', 'on']	Gabriel	Le pauvre garçon s’arrêta devant la porte et hésita. Il jeta un coup d’œil vers les fenêtres du cinquième ; [MASK] retira promptement sa tête, et ien lui en-prit, car cette vue aurait sans doute atendu irrésistible la tentation déjà bien forte de étaler.
+
+['elle', 'eux', 'lui', 'elles', 'elle-même']	Susanne	En tout autre moment ce cadeau l’eût ravie, car elle aimait les fleurs, et c’était son plus grand plaisir d’en avoir autour d’elle. Mais elle pensa que celles-ci étaient destinées à la consoler de l’arrêt porté contre [MASK], et elle ne put les regarder sans avoir le cœur serré.
+
+["l'", 'rien', '"', 'mon', 'dieu']	Maurice	– Oh ! parce que je n’ai ni les facultés, ni les préoccupations, ni l’avenir de [MASK]. Si vous saviez combien d’idées fermentent dans sa tête. Je crois que c’est un garçon qui n’a pas son pareil.
+
+['</s>', 'et', 'tu', "c'", '.']	Maurice	– Non, mère, je ne l’ai pas pris. – Si par malheur tu l’as fait, avoue-le, [MASK]. Tu doublerais ta faute en la niant et tu ne peux pas la cacher à Dieu. – Je ne l’ai pas pris, répéta
+
+["l'", 'cela', 'ceci', 'ce', 'qui']	Maurice	Munis chacun d’un morceau de pâté et de quelques fruits, ils devaient acheter du pain dans le village et s’en aller chercher la solitude sur la mousse et parmi les grands troncs à moitié dépouillés. C’était la première fois que [MASK] allait en chemin de fer
+
+['il', 'celui-ci', 'paul', 'elle', 't-il']	Francine	Il l’attira tout près de lui. – Ecoute, dit-il, tu m’aimes bien, n’est-ce pas ? – Oh ! oui, dit [MASK] en lui passant ses deux bras autour du cou. – Je veux te dire un grand secret.
+
+['il', 'elle', 'robert', 'jacques', 'jean']	Gabriel	C’est cette malheureuse copie. – Oui, j’ai fait une sottise, dit [MASK], une grande sottise en copiant une chose que je trouvais mauvaise, mais au moins je ne voudrais pas y ajouter une lâcheté. Il y eut un silence.
+
+['elle', 'il', 'emma', 'madeleine', 'marie']	Francine	Sa femme se tenait loin du petit lit, seule et comme frappée de stupeur. [MASK] fit un geste pour l’appeler près d’elle et prit sa main dans les siennes. – Pauvre mère ! dit-elle avec un regard plein de tendresse et d’une ineffable compassion, pauvre mère !
+
+['jacques', 'maurice', 'robert', 'jean', 'paul']	Gabriel	le médecin dit qu’il n’y a qu’un changement d’air qui puisse la couper pour tout de bon, et ma mère veut prendre soin de lui. – Elle l’aime donc bien, votre mère ? – Il le mérite, dit [MASK] d’un ton bref.
+

@@ -1,0 +1,200 @@
+['David', 'Pierre', 'John', 'Thomas', 'Paul']	Norbert	— Il y a au moins cinquante briques… Les mains de [MASK] s’agitaient déjà dans les coupures. Une liasse à l’endroit, une liasse à l’envers. Ils vidèrent une bouteille de Ruynart pour fêter les cinquante premiers millions et sa jumelle pour les trente suivants.
+
+['télévision', 'renom', 'Fox', 'légende', 'choc']	TV5	Les invités applaudirent poliment tandis que les images du rodéo étaient projetées sur le mur écran. Le journaliste de [MASK] grimpa à son tour sur le podium pour recevoir sa sculpture scintillante. Il remercia une douzaine de personnes, « sans lesquelles je ne serais pas devenu ce que je suis
+
+['prêt', 'prêts', 'quoi', 'maintenant', 'prête']	Simone	L’essoreuse s’impatienta. — Je vous rappelle qu’il s’agit là d’une question de blocage tiltée qui ne vous rapporte aucun point et que vous n’avez droit qu’à une seule réponse. Il vous reste dix secondes. Alors, [MASK] ?
+
+['Elle', 'Il', 'elle', 'On', 'il']	Simon	— C’est vous le réalisateur ? [MASK] s’efforça de ne pas le regarder. — Oui, et je vous prie de sortir d’ici, le public n’est pas admis dans les locaux techniques… — Et moi je vous ordonne de modifier immédiatement le cadrage.
+
+['Il', 'Thomas', 'David', 'Elle', 'Paul']	Joker	[MASK] en profita pour plonger son regard sur les balconnets… Il respira un bon coup et compulsa ses fiches avec gourmandise. — Très bien. Je vais demander aux chefs de famille de se placer face au bouton-poussoir afin d’appuyer pour me donner une réponse.
+
+['Il', 'Elle', 'On', 'Lui', 'Paul']	Michèle	Un homme tira la porte vers lui, lança quelques phrases rapides puis replongea le quartier dans la pénombre. Je me plaquai contre les tôles d’un appentis. [MASK] passa devant moi sans déceler ma présence. Son regard fouillait les boqueteaux, les dépôts de gravats, les recoins du bidonville.
+
+['alors', 'toi', 'là', 'hein', 'maintenant']	Alain	— Mais qu’est-ce qu’il t’est arrivé, [MASK] ? Qui t’a fait ça ? Je me déshabillai, me couchai. — Je ne sais pas… Des types que je connaissais pas : ils m’ont attaqué dans la rue, sans raison…
+
+['Il', 'Elle', 'Pierre', 'Antoine', 'Jean']	Cyrille	[MASK] se décida d’un coup. Sa main se referma sur la crosse du pistolet. Son pied frappa la porte, faisant voler le verrou. Le père Chassagne, plus valide qu’il ne l’avait pensé, faisait face, son couteau à la main.
+
+['lui', 'Pierre', 'Antoine', 'Paul', 'Jean']	Stan	Ils se couchèrent tôt, les nerfs soudain dénoués après plusieurs semaines de veilles, de filatures, de répétitions, d’angoisse. Ce fut [MASK] qui se réveilla le premier, vers neuf heures du matin. Il se précipita dans la cave, impatient de mettre ses rêves en accord avec la réalité.
+
+['Il', 'Elle', 'Pierre', 'Michel', 'Jean']	Simon	[MASK] vint se placer entre ses jambes. — Ce n’est peut-être pas gratifiant de dire dans une soirée mondaine qu’on est metteur en scène de « Café-Croissant », mais je me tenais à l’écart du marigot…
+
+['Il', 'Elle', 'Jack', 'John', 'Paul']	Félix	Le transistor s’éteignit aussitôt et la fente située sous le compartiment des cassettes éjecta un petit carré de papier. [MASK] le saisit et le lut à haute voix. — Espèce d’imbécile, elle ne te parlait pas du chanteur de rock mais de l’amiral Nelson…
+
+['Il', 'Macron', 'Philippe', 'François', 'Lui']	Félix	[MASK] arrivait bon dernier avec cinq cents points qui lui avaient pour ainsi dire été donnés au tourniquet du supermarché. Il avait eu droit au questionnaire blanc, d’habitude réservé aux malades en convalescence : le nom du dernier Président de la V e République, de 2012 à 2019…
+
+['On', 'Il', 'Pierre', 'Jean', 'André']	Fred	Ils franchirent les limites d’Épinay-la-Jolie un peu avant une heure du matin, le dimanche. [MASK] arrêta la X.M. devant l’entrée du cimetière Paul-Valéry (ex-cimetière Pierre-Gamarra). Au loin les contours lumineux des statues projetées aux frontons des immeubles de la cité des Poètes se découpaient sur le ciel noir.
+
+['pourtant', 'bien', 'pas', 'aussi', 'même']	Horatio	— Espèce d’imbécile, elle ne te parlait pas du chanteur de rock mais de l’amiral Nelson… C’était [MASK] son prénom. Réfléchis avant de l’ouvrir, ta précipitation nous coûte deux mille points… Maintenant on en est à moins mille…
+
+['il', 'Il', 'Jack', 'Franck', 'Paul']	Norbert	Deux minutes plus tard les deux casseurs refluèrent vers la sortie après avoir sommé les têtes de carnaval de se tourner contre le mur. Dès qu’il les vit émerger, [MASK] fit glisser le bas sur ses traits. Il mit le moteur en route et enclencha la première.
+
+['Il', 'Elle', 'Jack', 'On', 'Paul']	Michèle	J’escaladai la rambarde et sautai sur le quai, juste avant que le bateau ne prenne de la vitesse. [MASK] marchait loin devant, en direction des Ponts-Couverts, sans se soucier des passants venant à sa rencontre et qui l’évitaient en glissant contre son cuir.
+
+['Chacun', 'Il', 'On', 'Elle', 'Chacune']	Stan	Une liasse à l’endroit, une liasse à l’envers. Ils vidèrent une bouteille de Ruynart pour fêter les cinquante premiers millions et sa jumelle pour les trente suivants. [MASK] passait en revue toutes les façons de dépenser sa part au plus vite, bagnoles, voyages, filles, fêtes…
+
+['Alex', '</s>NOTUSED', 'Arthur', 'Fred', 'Nicolas']	Joker	Les deux familles finalistes composées chacune de quatre personnes se placent derrière un pupitre, face à face. [MASK], votre animateur favori, se tient entre les deux camps et pose les questions auxquelles papa, maman, tata et tonton doivent répondre au plus vite.
+
+['Marie', 'Catherine', 'Anne', 'Florence', 'Isabelle']	Michèle	Je garai la voiture devant une église anguleuse et commençai à suivre [MASK] de très loin, pour éviter les désagréments douloureux de la veille, hâtant le pas quand sa silhouette se fondait dans l’obscurité, dans la brume, m’arrêtant dès qu’elle redevenait trop précise.
+
+['Caen', 'Rouen', 'Paris', 'Tours', 'Lille']	Jussieu	Je vous rappelle que le montant de la cagnotte atteint trois cent mille francs que je remettrai personnellement au vainqueur dans moins d’une heure… Il se tourna et donna le top du départ. Le pompier de Mondeville et l’étudiant de [MASK] soulevèrent la toile de leur parapente, cherchant le vent.
+
+['Il', 'Elle', 'On', 'Paul', 'Pierre']	Norbert	Les trois hommes en glissèrent chacun un dans leur poche. [MASK] fila un coup, du bout de sa chaussure, dans les couches. — Qu’est-ce que tu veux foutre avec ça ? Tu as peur de faire dans ton froc ?
+
+['On', 'Elle', 'Il', 'Catherine', 'Marie']	Joker	Les Mortier étaient nettement distancés avec 161, n’ayant réussi qu’à ajouter 83 points à leur razzia sur les couleurs de l’amour. La lumière rouge s’éteignit le temps de l’interruption publicitaire. [MASK] dirigea les candidats vers un recoin discret du décor où l’on avait dressé un petit buffet.
+
+['Il', 'il', 'Elle', 'II', 'Je']	Cyrille	Il me tournait le dos, assis à sa table, et comptait des liasses de billets neufs. J’en ai jamais autant vu de ma vie… [MASK] laissa treize francs près de la tasse vide et s’enfonça le casque sur la tête avant de sortir du recoin obscur.
+
+['Il', 'Elle', 'il', 'On', 'Tom']	Joël	Réfléchis avant de l’ouvrir, ta précipitation nous coûte deux mille points… Maintenant on en est à moins mille… [MASK] essaya de se justifier. — Oh, me dispute pas, fallait le savoir que son père était dans la marine… Je ne suis pas tombé loin.
+
+['mais', 'non', 'ça', 'monsieur', 'madame']	Simon	— Ce n’est pas un argument, [MASK], il n’est pas responsable de son nom… Ils commandèrent deux kirs-champagne. — Tout est bon contre eux… On ne va pas revenir sur les camps, sur toute cette horreur, je t’ai assez désespérée avec mon histoire…
+
+['Il', 'Pierre', 'Jean', 'Paul', 'Marc']	Cyrille	[MASK] déchira le journal et en dispersa les morceaux dans les taillis. Il coupa à travers les bois pour rattraper le chemin de terre qui passait derrière la fermette. Il freina au sommet d’une butte en apercevant le mur bleu nuit des camionnettes de gendarmerie qui enserraient le gîte.
+
+['lui', 'elle', 'eux', 'Jack', 'Paul']	Cyrille	Soudain il baissa la tête et se mit à courir droit sur [MASK], le couteau pointé en avant. L’automatique claqua par deux fois. Le rescapé du Trio Pamper’s s’approcha de la fenêtre pour vérifier que les coups de feu n’avaient pas été entendus.
+
+['lointain', 'international', 'parisien', 'européen', 'transatlantique']	exotique	Elle lui sourit et l’embrassa. — Attends, mon chéri, je n’ai plus de pilules… Elle pressa le bouton placé au-dessus de sa table de nuit. Une voix vaporeuse d’aéroport [MASK] leur susurra : — Être ou ne pas être, telle est la question.
+
+['Il', 'Elle', 'il', 'elle', 'Thomas']	Simon	? Ce n’est pas un facho, il l’invite peut-être pour démonter le personnage… [MASK] haussa les épaules, une moue de mépris aux lèvres. — J’ai regardé le press-book de l’émission. Ça fait trois fois qu’il l’invite.
+
+['Il', 'Jean', 'Elle', 'Pierre', 'Michel']	Kaleb	— Fais pas le con, marche comme si de rien n’était. Ta bagnole est garée où ? Il donna un coup de menton en direction d’une X.M. grise. — C’est la Citroën. [MASK] prit les clefs dans la poche du journaliste qu’il obligea à monter à l’arrière.
+
+['Elle', 'On', 'Il', 'Chacun', 'Marie']	Cyrille	Les longs doigts nerveux de la gérante frappèrent les touches de la machine comme des becs de poule picorant du grain. [MASK] fit une pause au milieu de la forêt, à l’écart de la route, dans une clairière aménagée en aire de pique-nique.
+
+['le', '</s>NOTUSED', 'John', 'Jack', '«']	Fred	Si on peut se faire un peu de son en plus pour que les gens comprennent bien, on boucle notre sujet et on peut retourner au pieu. Celui qui semblait diriger le groupe, [MASK], un grand type blond efflanqué, les épaules à l’étroit dans un blouson élimé, s’avança.
+
+['celui', 'Georges', 'Pierre', 'Jean', 'Paul']	Cyrille	Elle s’acquitta de sa tâche en tremblant tandis que [MASK] qui s’était fait ouvrir le coffre, remplissait son sac de voyage de coupures de cinq cents francs. Deux minutes plus tard les deux casseurs refluèrent vers la sortie après avoir sommé les têtes de carnaval de se tourner contre le mur.
+
+['</s>NOTUSED', '—', 'Marie', 'Elle', '»']	Christine	Elle le prit dans ses bras. — Tu ne peux pas tomber malade ? Je connais un médecin qui acceptera sans poser de questions de t’arrêter pendant une semaine… — Je suis dans le potage… [MASK], mon assistante, se fait remplacer.
+
+['elle', 'il', 'Marie', 'lui', 'Anne']	Carole	Et toi, qu’est-ce que tu vas faire ? — J’en sais rien. Je vais peut-être essayer de me faire remplacer… À midi moins le quart il attendait déjà en bas de l’immeuble où [MASK] travaillait. Il la mit au courant de la situation.
+
+['Moi', 'Non', 'Mais', 'Bah', 'Oh']	Michaël	— [MASK], j’y suis pour rien… On était partis depuis longtemps quand il a foncé sur les flics… Kaleb le titilla de la pointe du cran d’arrêt. — Ta gueule, on t’a déjà assez entendu comme ça à la télé.
+
+['Elle', 'Marie', 'elle', 'Sophie', 'Catherine']	Michèle	J’entrai, tous les sens en éveil, marchant sur un tapis d’ordures, de déchets, de linge sale… [MASK] était assise sur le bord de la baignoire. Elle lacérait une serviette de bain à l’aide d’un rasoir de coiffeur.
+
+['Il', 'On', 'Elle', 'Pierre', 'François']	Bringuier	[MASK] le perçut instantanément. — À la fin de l’émission vous resterez tous à votre place, et la production sera heureuse d’offrir aux supporters dont l’équipe aura remporté la finale un abonnement d’un an à Télé-Première Magazine , et la cassette des meilleurs moments de « Plein aux as ».
+
+['celui', 'celle', 'David', 'Thomas', 'Pierre']	Goret	Il déconnecta tous les écrans de contrôle placés dans l’auditorium et demanda à son assistante de resserrer le plan sur le visage de [MASK] qui ne s’était encore aperçu de rien. — Vous savez, je suis habitué à la censure et au bâillon.
+
+['tout', 'alors', 'lentement', 'ensuite', 'soudain']	Joker	Il quitta le devant de la scène sous les ovations à la seconde précise où la lumière rouge s’allumait. La tenture se scinda en deux moitiés qui rejoignirent majestueusement les cintres. Un projecteur blanc cibla [MASK], seul au milieu du décor, puis de petits faisceaux colorés vinrent chercher les visages des finalistes.
+
+['eux', 'lui', 'elle', 'elles', 'les']	Anaïs	Il dressa l’oreille en surprenant quelques mots d’une conversation, derrière lui, et se retourna discrètement. Deux paysans discutaient de l’irruption des flics, la veille, chez [MASK]. Celui qui parlait porta son verre à sa bouche puis le reposa sans y avoir trempé les lèvres.
+
+['Elle', 'Il', 'Marie', 'elle', 'Anna']	Élisa	[MASK] m’entraîna vers un petit train sur pneus dont les wagons miniatures se remplissaient de vieux et de vieilles endimanchés descendus d’un autocar. Je résistais mais elle parvint à s’asseoir face à deux anciens rigolards qui l’aidèrent à me tirer dans leur compartiment.
+
+['Il', 'On', 'Elle', 'Paris', 'Maurice']	Élisa	Les lumières des gyrophares tournoyaient sur les lettres érodées du « Palais des Fêtes ». Je me glissai dans la cabine téléphonique plantée en face, au milieu d’une petite place. Le veilleur de nuit de l’hôtel se décida à décrocher à la quinzième sonnerie. [MASK] ne dormait pas.
+
+['Il', 'On', 'Papa', 'Elle', 'Chacun']	Félix	Ils en perdirent le double à cause d’une seule lettre en essayant de mettre en route la voiture paternelle, une Exocet-Turbo : la question était pourtant simple, il suffisait de trouver le nom du Marquis dans Le Chat botté . [MASK] s’était laissé aller…
+
+['il', 'Jack', 'James', 'John', 'Joe']	Cyrille	Dans la même fraction de seconde [MASK] s’était précipité vers la caisse. Il brandit la gueule énorme de son pistolet lance-fusées contre la vitre pare-balles. Les bastos de 37 mm de son Webley étaient aussi efficaces qu’un marteau piqueur.
+
+['Sophie', 'Christine', 'Clara', 'Marie', 'Sofia']	Britt	De même qu’il se souvint des mois entiers de la réflexion de [MASK] se refusant à son partenaire Björn, dans Le Péché suédois : « Non, je ne veux pas faire l’amour avec toi, je ne pourrai jamais parce que tu trouves que c’est une chose laide, honteuse… »
+
+['lui', 'David', 'John', 'Jack', 'Robert']	Norbert	Il se laissa tomber dans le fauteuil plein cuir, près de [MASK], le conducteur, glissa le paquet à ses pieds et déchira à l’aide de ses dents la cellophane protégeant les bas. Les trois hommes en glissèrent chacun un dans leur poche.
+
+['Elle', 'Marie', 'Sophie', 'Anna', 'Alice']	Élisa	Dans le lit elle voulut me caresser mais je repoussai sa main. Je demeurai longtemps sans dormir, les yeux grands ouverts sur les ombres qui dansaient au plafond. Le lendemain je passai la journée en voiture à retrouver mes itinéraires de la nuit. [MASK] était restée à l’hôtel.
+
+['Il', 'Elle', 'il', 'Alice', 'Anna']	Carole	Je me demande comment il passe les portes… Tu n’as jamais remarqué le rapport entre son nom et son émission de télé ? [MASK] se renversa en arrière pour suivre le sillage d’un hors-bord. — Non, je ne vois pas à quoi tu fais allusion…
+
+['Il', 'Elle', 'Anna', 'Jack', 'Michael']	Célia	[MASK] cligna des yeux quand les projecteurs donnèrent leur pleine puissance, et l’on put remarquer la légère touche de violet qui teintait son regard sans que l’on se rende compte que cette étrangeté était due à ses lentilles de contact.
+
+['Il', 'On', 'Elle', 'il', 'Chacun']	Joker	— Alors ! Je crois qu’il est temps de réagir si vous voulez décrocher les cent mille francs de la cagnotte hebdomadaire… Je vous rappelle que, lors de cette deuxième partie, les points comptent double… [MASK] tira les questions d’une enveloppe.
+
+['Pierre', 'Paul', 'Jean', 'Marie', 'Marc']	Stan	Ils prirent place dans le flot de vacanciers qui se dirigeaient vers les plages et sortirent au premier péage. Ils roulèrent encore quelques kilomètres avant d’apercevoir leur gîte rural, une fermette de trois pièces à l’écart du village de Saint-Esquirol, que [MASK] avait loué par téléphone, deux mois plus tôt.
+
+['il', 'elle', 'Paris', 'chacun', 'Hollywood']	Goret	Il lui répondit d’un signe, et observa la course du point lumineux sur le cadran des secondes. Une pensée lui traversa l’esprit quand il donna l’ordre de passage du générique : autant de caméras, autant de fusils… À cinq mètres, derrière la vitre, [MASK] se vautrait dans sa fange.
+
+['Elle', 'Il', 'Anna', 'Alice', 'Emma']	Michèle	— Comment ça se fait que tu l’as appelée Chouchoune ? C’est comme ça qu’on l’endormait quand elle était petite… Personne d’autre ne connaît ce surnom ! [MASK] se détacha de l’animateur et piqua du nez.
+
+['Il', 'Elle', 'il', 'elle', 'Pierre']	Cyrille	L’autre haussa les épaules. — Ça arrive peut-être, mais là, je peux te dire que tu te fous le doigt dans l’œil ! Je sais qui a causé pour empocher la prime… [MASK] retint son souffle. — Qui c’est
+
+['Comte', 'le', 'la', '</s>NOTUSED', '«']	Joker	Son assistante lui tendit sa bouteille d’eau glacée. Le présentateur, Patrick Comte, qui avait dû prendre le nom de la boisson sponsorisant l’émission, [MASK], pointa son museau. — Alors ? — J’en ai marre de ces cons de sélectionneurs !
+
+['Marie', 'Marguerite', 'Juliette', 'Catherine', 'Rose']	Siv	En revanche il fut séduit par ses blouses blanches entrebâillées, son acceptation des jeux érotiques, l’utilisation curieuse du matériel médical même s’il n’acceptait pas encore le refus de [MASK], lors de la dernière scène, de troquer le blanc de la blouse contre celui de la robe de mariée…
+
+['Elle', 'Marie', 'Anna', 'Sophie', 'Hélène']	Élisa	[MASK] dormait nue sur le couvre-lit, devant la grille muette d’un canal allemand. J’éteignis la télé. Le déclic la réveilla. Elle ne vit tout d’abord pas mes vêtements souillés, déchirés, mes lèvres boursouflées, les bleus sur mes mains.
+
+['Il', 'On', 'Elle', 'Qui', 'Lui']	Alexis	On s’est revus, ensuite, et on a passé deux ou trois soirées ensemble… — Et comment ça se fait que vous vous retrouvez avec lui sur le plateau de « Plein aux as »… Je n’ai jamais cru aux coïncidences… — [MASK] connaît le producteur.
+
+['Il', 'On', 'Elle', 'Puis', 'Et']	Stan	Les bastos de 37 mm de son Webley étaient aussi efficaces qu’un marteau piqueur. Le caissier dut s’en rendre compte car il écarta son pied de la sonnette d’alarme et leva les mains au ciel. [MASK] traîna l’hôtesse au milieu de la salle d’attente.
+
+['il', 'Jack', 'lui', 'Il', 'Richard']	Bringuier	Merde, ça fait onze mois que je baise avec mon matelas pneumatique ! » On le gratifia de rires nourris, et [MASK] profita du regain d’intérêt de l’assistance pour avancer ses pions. Il tendit le bras et la main, droit devant lui.
+
+['lui', 'Jack', 'David', 'Kevin', 'John']	Simon	à la tête d’un détachement de skins armés de mitraillettes, s’approcha de [MASK] et lui cracha au visage. — Tu as mal choisi ton jour… Il se tourna vers ses hommes. — Occupez-vous de lui et de la fille qui était derrière la caméra.
+
+['Il', 'Jean', 'Pierre', 'Daniel', 'Paul']	Joël	[MASK] trempait son pain doré dans son bol, les yeux rivés au transistor. N’y tenant plus, il tourna la molette sur ON , guettant les voyants. La danse des diodes prit fin sur le vert et une voix de femme le salua avant de lui soumettre sa question.
+
+['Alice', 'Sophie', 'Claire', 'Jeanne', 'Anne']	Carole	À dix heures du matin, il était libre et pouvait entamer la part d’existence qui lui importait. Il consacrait le reste de sa matinée à la lecture de livres, de scénarios puis il retrouvait [MASK] au drugstore Publicis.
+
+['lui', 'Thomas', 'Peter', 'Tom', 'James']	Félix	Elle rassembla le linge sale au milieu du couloir afin que [MASK] ne puisse pas faire autrement que le voir et le porte dans la salle de bains. Il l’enfourna dans la machine lavessoreuse biotonique et s’aperçut que le compteur de poudre télé-active flirtait avec le négatif.
+
+['chasse', 'course', 'tirage', 'tirs', 'tir']	Plein	Les plus rapides se servirent en premier, razziant les cassettes vidéo des « Meilleures séquences de [MASK] aux as », les suivants jetèrent leur dévolu sur les tee-shirts imprimés, d’autres se partagèrent les pin’s et les autocollants de « Télé-Première ».
+
+['Marie', 'Madame', 'Monsieur', 'Nicolas', 'Marguerite']	Milhous	Elle s’était décidée pour « Menteur », à cause du Watergate, mais on décrochait le bonus avec « [MASK] », prénom fort peu usité, il est vrai, en cette deuxième moitié du XXI e siècle.
+
+['On', 'Il', 'Elle', 'Paul', 'David']	Michèle	Le pont Churchill surplombait la ville endormie et donnait accès aux anciens terrains militaires. [MASK] délaissa le secteur des facs, des avenues rectilignes et des immenses cités verticales pour s’enfoncer dans des rues minuscules. Les façades des boutiques parlaient plus souvent turc et chinois qu’alsacien.
+
+['Il', 'Elle', 'On', 'Paul', 'John']	Michèle	L’eau ruisselait sur les pentes spongieuses, inondait la rue et stagnait entre les traverses du chemin de fer industriel. [MASK] suivit les rails, dépassa une maigre forêt. Un bâtiment de trois étages occupait le centre d’une clairière. Des bureaux abandonnés.
+
+['—', '«', 'Ah', '...', '–']	Jérico	: — [MASK]… L’enregistreur, d’origine, datait de quinze ans, et ses capteurs sensibles en silicium déclassé n’étaient pas capables de décrypter la prononciation orthographique. Il donna le feu vert et les pistons commencèrent à comprimer leur mélange d’air, de vapeur d’essence, d’huile infiltrée.
+
+['il', 'Il', 'elle', 'on', 'ils']	Yvan	Le journaliste tira sur le fil de son micro relié à la caméra qu’[MASK] portait sur l’épaule, pour placer la vitrine brisée du Félix Potin dans le cadrage. — Vous pensez que les incidents sont terminés ou qu’il est possible qu’ils reprennent dans la nuit ?
+
+['BFMTV', 'BFM', 'RMC', 'Arte', 'TV']	TV5	Les voitures crament dans tous les sens. On aura l’air fin si les radios ciblent le rodéo et que [MASK], « La Chaîne de l’Info, celle qu’il vous faut », se contente d’une minute trente en rubrique culture…
+
+['On', 'Il', 'Elle', 'on', 'il']	Loïc	— Qu’est-ce que tu as ramené de renversant, à part le discours du maire ? — Pas grand-chose… [MASK] m’a chiadé un paquet de cadrages sur leurs ombres chinoises géantes. On va surtout garder ces images pour demain. Tu veux venir voir ?
+
+['Il', 'Elle', 'On', 'il', 'Chacun']	Michèle	[MASK] se dirigea droit sur l’une des pièces de plain-pied et une négociation semblable à celle de la nuit précédente, dans la cour de la cité Spach, s’engagea avec une sorte de roitelet misérable assis dans un fauteuil défoncé.
+
+['Jack', 'Merlin', 'Max', 'William', 'Jason']	Blackie	Les éclairs violets se firent plus soutenus. Le chien fit entendre quelques gémissements furtifs en se souvenant que cette maudite porte avait refusé de s’ouvrir, une semaine entière, et qu’il avait dû bloquer son envie pour ne pas subir le sort de [MASK], son prédécesseur…
+
+['celui', 'celle', 'Pierre', 'Simon', 'Vincent']	Stan	Il poussa jusqu’au carrefour des Innocents, par la voie piétonne. Tout avait l’air normal. Il revint sur ses pas et cligna de l’œil, rassurant, en direction de [MASK] qui le questionnait du regard de l’arrière de la 605.
+
+['Il', 'Elle', 'On', 'Jack', 'il']	Fabrice	— Putain, pour une fois qu’on avait un vieux qui crevait l’écran, il faut qu’on nous le flingue ! [MASK] se prit la tête entre les mains. — Il n’aura pas profité longtemps des trente briques qu’il avait gagnées la semaine dernière…
+
+['Il', 'Elle', 'Pierre', 'Chacun', 'Paul']	Carole	Ils s’arrêtèrent devant l’Assemblée nationale, le cœur au bord des lèvres, comme au sortir d’un repas d’anniversaire, la bile remplaçant le cholestérol. [MASK] se hissa sur le parapet du pont et s’assit, face à la place de la Concorde.
+
+['récente', 'précédente', 'télévisée', 'antérieure', 'française']	Spielberg	Son masque évoquait l’un des monstres d’une production [MASK], Les vers nous gouvernent . Il fit le tour de la b.m.w., ouvrit le bouchon du réservoir, alluma un mouchoir à l’aide de son Zippo et enfourna le tissu enflammé dans l’essence.
+
+['Il', 'Elle', 'Jean', 'Marie', 'Pierre']	Michèle	Une inscription agrémentait le pignon, juste au-dessus des tentures publicitaires d’un restaurant : Palais des Fêtes. [MASK] poussa une porte vitrée et s’engagea dans le vaste hall de l’immeuble. La lumière de la cage d’escalier découpa la façade.
+
+['verre', 'bureaux', 'luxe', 'béton', 'fonction']	TV5	Il s’habilla sans prendre le temps de se laver, appela un taxi pour ne pas perdre une seule minute à la recherche d’une place de stationnement et s’engouffra dans l’immeuble de [MASK], oubliant même de réclamer la monnaie sur son billet de cent.
+
+['près', 'loin', 'dos', 'front', 'nuit']	Stockholm	Il n’a jamais entendu parler du livre de Fogelström à l’origine du scénario. Il ne voit pas la misère ouvrière de [MASK], la femme s’échinant sur le linge, le père ivre se cognant aux murs.
+
+['Elle', 'Anna', 'Marie', 'Sarah', 'Il']	Michèle	[MASK] se tenait droite, immobile, les pouces accrochés aux rebords des poches arrière de son jean. Elle relevait la tête pour lancer des phrases brèves qui semblaient agresser l’homme qui lui faisait face, puis elle braquait son regard sur la portion de trottoir délimitée par ses chaussures.
+
+['Il', 'Elle', 'Hitler', '»', 'Angela']	Simon	L’enfer des handicapés congénitaux condamnés à vivre, le supplice des agonisants, la surpopulation dans le tiers-monde, la famine, et à terme, le génocide. Je suis pour la justice, non pour l’égalité. [MASK] décrocha le téléphone qui sonnait depuis le début de la réponse du leader d’extrême droite.
+
+['sexe', 'nez', 'pierre', 'derrière', 'sortie']	Goret	— Resserre encore le cadre… Fais-moi un plan rapproché sur la seule bouche de [MASK]… Qu’on ait l’impression de voir un film X… — Je suis un Celte, et l’une des principales qualités de cette race est de dire la vérité, sans pudibonderie.
+
+['Franck', 'Jack', 'Paul', 'Jacques', 'David']	Chassagne	Le rescapé du Trio Pamper’s s’approcha de la fenêtre pour vérifier que les coups de feu n’avaient pas été entendus. Après avoir renversé tiroirs et étagères, il trouva l’argent que [MASK] avait jeté en vrac dans un sac de chez Auchan et dissimulé derrière une barrique de vin.
+
+['Il', 'Elle', 'Paul', 'Pierre', 'Jean']	Cyrille	[MASK] fit l’inventaire de tout ce qu’il lui restait : une mobylette, un casque, un automatique, deux litres de mélange, trente-deux francs, quatre piles LR6, deux canards régionaux, une boîte de ravioli et trois paquets de clopes.
+
+['Il', 'On', 'Elle', 'Kennedy', 'Ali']	Norbert	Le reporter insistait sur la cruauté des gangsters : l’un des clients pris en otage avait failli mourir étouffé par sa couche-culotte. Le directeur de l’agence estima le montant du vol à plus de cent millions. [MASK] bondit de son siège. —
+
+['Il', 'Elle', 'Jack', 'James', 'John']	Stan	Ils pénétrèrent dans le sas et enfilèrent un bas sur leur visage au moment précis où le système électronique déclenchait l’ouverture de la deuxième porte. [MASK] contourna la table pleine de prospectus et se jeta sur l’hôtesse d’accueil, lui braquant son Magnum sur la tempe.
+
+['Il', '</s>NOTUSED', 'Jean', 'Michel', 'Lui']	Simon	réalisateur cligna des yeux pour lui signifier d’aller à l’essentiel. Le coursier lui tendit un pli et disparu vers l’escalier. [MASK], intrigué, décacheta l’enveloppe aux couleurs de Télé-Première et tira la lettre à en-tête de la Direction de l’Information.
+
+['</s>NOTUSED', 'monsieur', '—', 'Monsieur', '!']	Joker	Il était vêtu de manière très élégante et se mit à parler en se frottant les mains. — Non, cher… [MASK]… Pardonnez-moi, mais il est très… comment dirais-je… très curieux d’avoir à dénommer quelqu’un de la sorte…
+
+['maintenant', 'là', 'mais', 'alors', 'elle']	Alain	C’est moi, [MASK]… Elle pivota, et son visage se leva lentement vers le mien. Ses yeux brillaient tristement, des cernes que je n’avais pas remarqués depuis le bateau creusaient ses traits et, malgré le maquillage, la minuscule cicatrice d’enfance partageait toujours en deux son sourcil gauche.
+
+['ça', 'mais', 'hein', 'Madame', 'madame']	Simone	Elle esquissa une grimace désolée en montrant le mur mitoyen. Le grille-pain se mit à rire avec un vieux bruit de résistances secouées. — C’est la vie, [MASK]… Première question de la journée… Quel est le nom de la première speakerine de la télévision française
+
+['On', 'Il', 'Elle', 'Paul', 'Louis']	Michèle	Les aboiements éclatèrent en relais, tout le long du quai. Je m’immobilisai. [MASK] emprunta un chemin de terre bordé de baraquements en planches, de maisons rafistolées abritant des ateliers de réparation, des magasins de pièces détachées d’occasion. Ça sentait l’humidité, la terre et le cambouis.
+
+['Il', 'Elle', 'il', 'Alice', 'Anna']	Lucien	! Par quel mystère connais-tu le diminutif de cette créature ? — Je ne sais pas, j’ai dit ça par hasard, ma langue a fourché. [MASK] écrasa le bouton-poussoir sous son poing, allumant toutes les ampoules du cadran.
+
+['mais', 'non', 'hein', 'oui', 'ou']	Simon	C’est peut-être un hasard, [MASK]… À mon avis tu ne devrais pas te monter la tête contre lui avant de voir comment il se comporte à ton égard. Si c’est vraiment un sale con, je fais confiance à tes cadrages subliminaux pour que les spectateurs le comprennent sans avoir besoin de sous-titrage
+
+['Il', 'Elle', 'Paul', 'Jack', 'Anna']	Félix	Une voix monta de l’essoreuse. — Vous venez de tilter. Question de blocage : qui a dit « Donnez-moi deux pages de la Bible et je vous fais un film » ? [MASK] se planta devant la glace et observa les progrès de la calvitie sur son front.
+
+['viens', 'arrête', 'maman', 'toi', 'là']	Christine	Quand je leur en parle ils n’arrêtent pas de me dire : Arrête de rêver, [MASK], on a une famille, il faut bien bouffer… À force les intestins prennent la place du cerveau ! — Et toi, qu’est-ce que tu vas faire ?
+
+['Il', 'Elle', 'John', 'Anna', 'Paul']	Félix	Leur bâtiment, de construction trop ancienne, ne comportait pas de « cynonette », ces pièces autonettoyantes qui équipaient maintenant les appartements des familles tenues de posséder un animal. [MASK] s’empressa de refiler la corvée à son fils qui ne pouvait plus se retourner vers personne.
+
+['Elle', 'Alice', 'Anna', 'Emma', 'Marie']	Michèle	[MASK] se retourna vers son père, comme pour lui demander l’autorisation. Elle contourna le pupitre et se planta devant le présentateur. — Je ne suis pas d’accord… On l’a dit exactement en même temps…
+

@@ -1,0 +1,200 @@
+['il', 'on', 'elle', 'chacun', 'un']	Fosse	Il allongea sa lourde patte, dont [MASK] sentit le poids sur son épaule. Par bonheur, il avait eu le temps de respirer ; il replongea, reprit la chaîne qu'il avait abandonnée un instant, et refit une dizaine de brassées vers le bord, entraînant toujours l'animal après lui.
+
+['le', 'se', 'tout', 'me', 'la']	Napoléon	Je continuai. -Il n'est point que vous n'ayez entendu dire encore que cet archichancelier, que [MASK] tourmentait tant avec son vote du 20 janvier 1793, était non-seulement un grand légiste, mais encore un grand gastronome, chose bien autrement rare ;
+
+['il', 'elle', 'tu', 'on', 'je']	Bougainville	-N'importe, j'irai à pied. -Mais non, tu n'iras pas à pied, dit [MASK]. -Comment, je n'irai pas à pied ? -Non, il ne sera pas dit que tu auras attrapé une pleurésie pour avoir fait la conduite à un ami.
+
+[',', 'à', 'de', 'le', 'les']	Philae	Pendant les premiers jours, il fallut au jeune hippopotame le lait de dix chèvres ou de quatre vaches. Au fur et à mesure qu'il grandissait, le nombre de ses nourrices augmentait. À [MASK], il lui fallut le lait de vingt chèvres ou de huit vaches ;
+
+['il', 'Il', 'elle', 'on', 'et']	Fosse	Depuis ce jour, ce doigt est inerte, le nerf en a été coupé. En 1836, [MASK] entra dans la compagnie des bateaux à vapeur, en qualité de pisteur. C'est le nom que l'on donne à ceux qui appellent et dirigent les voyageurs.
+
+["c'", 'il', 'qui', 'préfet', 'on']	Berteau	Le lendemain, en venant à son bureau, il trouva le préfet plein d'inquiétude ; on lui avait annoncé que son secrétaire particulier était fou, et comme, à part son enthousiasme romantique, [MASK] était un excellent employé, le préfet était au désespoir.
+
+['Il', 'il', 'On', 'Celui-ci', 'Je']	Fosse	Il prit l'extrémité de la chaîne et nagea vers le bord, entraînant l'ours, qui résistait, mais résistait inutilement, entraîné qu'il était par une force supérieure. Cependant [MASK] fut obligé de revenir à la surface de l'eau pour respirer.
+
+['vous', 'moi', 'lui', 'nous', "l'"]	Ruggieri	-Chez [MASK]. -Attendez. J'écrivis une lettre. -Tenez, leur dis-je, remettez cette lettre à mon ami Désiré. -Qu'est-ce que votre ami Désiré ? -Ruggieri en personne. Non-seulement je contribue au feu d'artifice, mais encore je fournis l'artificier.
+
+["l'", 'le', 'monseigneur', 'Monseigneur', 'dom']	Bougainville	Ce n'est pas trois cents livres que le roi m'a données pour eux, dit [MASK] en tirant un rouleau de sa poche ; c'est cinquante louis ! -Comment, cinquante louis ? s'écria l'abbé Rémy tout ébouriffé de la largesse royale ; douze cents livres ?
+
+['il', 'on', 'elle', 'y', 'autrui']	Hérodote	je ne compterai pas les champions ; -je les pèserai : d'abord, tu produis un ancien, c'est-à-dire une de ces opinions quasi religieusement respectées, dès notre enfance, sous peine de pensums. Je sais qu'[MASK] a une grande réputation de véracité.
+
+['il', 'Rémy', 'Il', 'celui-ci', 'Monseigneur']	Bougainville	Les deux officiers devaient, pendant ce temps, tenir compagnie à l'abbé Rémy. Comme il l'avait dit, [MASK] fut absent une heure. Malgré les instances des officiers, le digne prêtre s'était tenu dans un état d'équilibre qui faisait honneur à sa volonté.
+
+['les', 'la', 'le', 'des', 'une']	Ruggieri	Non pas, chers lecteurs, un véritable feu d'artifice avec ses feux du Bengale en manière de prologue, ses cinq actes et son épilogue. Son épilogue était un magnifique bouquet. Le tout apporté, ordonné, tiré par [MASK]. Racontons comment s'accomplit ce grand événement.
+
+['exilé', 'toi', 'toujours', 'tu', 'moi']	Montpensier	-C'est donc toi, citoyen Alexandre Dumas, me dit-il, qui appelle [MASK] -monseigneur- ? -Monsieur, lui répondis-je avec ma politesse accoutumée, j'appelle toujours un exilé -monseigneur- ; c'est une mauvaise habitude peut-être ; mais, que voulez-vous ! elle est prise ainsi.
+
+['la', "l'", 'son', 'sa', 'lui']	Bougainville	De même que, lorsque celui-ci avait crié : « Au Havre ! » il avait trouvé la calèche tout attelée, de même, en criant : « À la frégate » il trouva la yole du capitaine toute parée. Il descendit dans la barque, s'assit près de [MASK], qui prit le gouvernail.
+
+['Robert', 'Landry', 'rin', 'Noël', 'R.']	Fosse	En 1822, elle se remaria, épousa un nommé Perrico, duquel elle eut douze enfants, dont trois sont morts. En 1828, le beau-père de [MASK] devint infirme et cessa de travailler. Il y avait déjà six enfants de ce second lit à nourrir.
+
+[',', 'et', ';', 'qui', 'il']	Berteau	[MASK] s'élance sur le théâtre, crie : «Au rideau ! » d'une si majestueuse voix, que le machiniste la prend pour celle du régisseur ; le rideau se lève, et que voit le parterre, encore en train de se gourmer ?
+
+['qualité', 'marque', 'passage', 'choix', 'luxe']	Cambacérès	» Les convives de [MASK], qui avaient vu ce qu'il y a de mieux en poissons de tout genre, et qui croyaient naturellement n'avoir plus rien à voir sous ce rapport, attendaient donc avec une dédaigneuse confiance l'apparition du prétendu monstre.
+
+['</s>', 'il', 'on', 'Il', 'On']	Fosse	Il était impossible de monter par l'escalier, qui était en flammes. [MASK] applique une échelle à la façade de la maison, entre par une fenêtre, brise les portes, et enfin trouve une femme étendue sans connaissance sur le carreau.
+
+['des', 'un', 'une', 'de', 'du']	Ruggieri	L'apparition évanouie, les bravos éclatèrent. Trois fois le fantastique mirage se renouvela, et, chaque fois, avec une teinte différente. Pour mon compte, je n'ai rien vu de plus merveilleux. Songez-y donc : un lac, des ruines et [MASK] !
+
+[',', 'le', 'la', '"', 'se']	Dumas	» À [MASK], déjà nommé, une certaine tulipe noire qui, venue de graine, fleurit l'année même du semis, et qui, de ses caïeux, produit des fleurs qui ne lui ressemblent pas. De plus, un tournesol qui s'ouvre le matin et, conséquemment, se ferme le soir
+
+['il', 'lui', 'leur', 'elle', 'on']	Fosse	Mais compatriotes et étrangers prennent peur et s'enfuient. [MASK] achète, au prix qu'ils veulent les lui vendre, tous les bois des fuyards ; et, tout en se conduisant avec son courage habituel, réalise un bénéfice considérable.
+
+['il', 'celui-ci', 'lui', 'qui', 'y']	Fosse	et, tout en se conduisant avec son courage habituel, réalise un bénéfice considérable. Possesseur d'un petit capital, [MASK] donne sa démission de maître du port, et met de côté le commerce de bois pour le commerce de grain.
+
+['il', 'le', 'Jean', 'elle', 'celui-ci']	Bougainville	... Il est vrai que c'est la première que je fais, et que de longtemps je n'aurai pas l'occasion d'en faire une seconde. -Sais-tu une chose ? dit [MASK] en posant ses coudes sur la table.
+
+[',', '(', 'de', 'se', "s'"]	Isabeau	Or, au nombre des plus élégants cavaliers faisant la cour à toutes ces belles dames, grasses, décolletées et cornues, étaient le jeune roi Charles VI et son frère, plus jeune encore, le duc Louis d'Orléans. Le premier, le roi, venait d'épouser son impudique Bavaroise [MASK] ;
+
+['il', ',', "l'", 'on', 'et']	Fosse	Seulement, comme il craignait d'être saisi par quelque membre essentiel et paralysé dans ses mouvements en se jetant à l'eau, [MASK] avait pris à tout hasard un cercle de tonneau ; il présenta le cercle aux saltimbanques ;
+
+['Il', 'il', '</s>', '.Il', 'Elle']	Berteau	Comment était-il mon ami sans me connaître ? comment m'avait-il prouvé son amitié ? Je vais vous raconter cela. [MASK] avait vingt-quatre ans en 1830 ; comme tous les Marseillais, il avait le coeur chaud, la tête poétique, et de l'esprit jusqu'au bout des ongles.
+
+['...', '1', '2', '3', 'père']	Louis-Philippe	Deux ans, comme commis d'ordre, à 2,000 francs ; Deux ans, comme bibliothécaire adjoint, à 1,200 francs. Là se sont bornés à mon égard les bienfaits du duc d'Orléans ([MASK]), bienfaits en échange desquels je lui consacrais neuf heures de mon temps par jour.
+
+['non', 'pourtant', 'bien', 'si', 'je']	Marianne	mais c'est uniquement pour eux que j'y consens. Puis, s'arrêtant tout à coup : -Mais non, dit-il avec explosion, c'est impossible ! -Comment, impossible ? -Et [MASK] ! ... -Tu vas lui écrire qu'elle ne soit pas inquiète.
+
+['de', 'en', "d'", 'très', 'royale']	Asti	Elle lui avait apporté en dot [MASK], avec quatre cent cinquante mille florins. L'autre avait apporté à son époux l'adultère, la guerre civile, la folie. Le pauvre jeune roi était pourtant bien gai, bien heureux, bien courtois, ne demandant qu'à rire et à s'amuser.
+
+['"', "'", '‴', '1844', 'ˉ']	VILLERS-HELLON	» Moi, je suis malheureuse, je ne te verrai plus ! » 1844. » [MASK]. « Bon ange gardien des jours de mon enfance, toi que ma prière, le soir, appelait vers mon berceau, bon ange, aujourd'hui ma voix t'invoque encore !
+
+[',', 'qui', 'de', 'ne', 'à']	Berteau	[MASK] m'interrompit. -Eh ! mon ami, c'est bien mieux que tout cela : c'est l'oiseau contesté, l'oiseau fabuleux, l'oiseau que l'on vous a accusé d'avoir trouvé dans votre imagination, l'oiseau qui n'existe pas, à ce que prétendent les savants ;
+
+['or', 'madame', 'dit-elle', 'bien', 'dis-je']	Dumas	heureuse comparativement ; car, depuis la mort de mon cher grand-père, je n'ai jamais été heureuse. » Eh bien, [MASK], rappelez-vous l'enfant, rappelez-vous la jeune fille ; la prisonnière est aussi innocente que l'enfant et que la jeune fille ;
+
+['elle', 'cela', 'la', 'son', 'lui']	Berteau	La première chose qui m'était nécessaire était une cuisinière. Je m'informai à [MASK]. -Diable ! me dit-il, je vous en donnerais bien une, mais... -Mais quoi ? -Mais elle a un défaut. -Lequel ? -Elle ne sait pas faire la cuisine.
+
+['il', 'elle', 'et', 'alors', 'le']	Fosse	L'escalier était en feu ; il s'agissait d'aller chercher l'enfant au second étage, la compagnie des pompiers avait jugé la chose impossible. [MASK], sans hésiter, se jeta dans les flammes, et cette chose jugée impossible, il la fit.
+
+['première', 'facile', 'possible', 'de', 'occasion']	Delaporte	fut à [MASK] de traiter avec un bateau à vapeur des Messageries impériales. Ce fut une grande affaire : l'hippopotame avait quelque chose comme cinq ou six mois ; il avait énormément profité ; il pesait trois ou quatre cents, exigeait un bassin d'une quinzaine de pieds de diamètre.
+
+['les', 'le', 'la', 'ses', 'un']	Fosse	La commission, à la tête de laquelle se trouvait le préfet, consulta [MASK], afin de savoir si la chute d'eau de cinq ou six mètres qui se précipitait en cet endroit permettait la manoeuvre d'une barque.
+
+['le', ',', 'Bonaparte', "l'", '...']	Dumas	Lorsqu'il fut question de former l'Assemblée constituante, un de ses aides de camp vint me trouver de sa part. C'était un capitaine de frégate. -Monsieur [MASK], me dit-il, le prince de Joinville désire se mettre sur les rangs pour la députation.
+
+['On', 'on', '</s>', 'Il', "S'"]	Oh	faites cuire les deux poissons, vous recevrez des ordres subséquents. » [MASK] était habitué à ne plus s'inquiéter de rien en politique et en cuisine, quand l'archichancelier avait dit : »-Soyez tranquille. » On ne s'inquiéta plus de rien.
+
+['On', 'Il', 'Con', '</s>', 'con']	Fosse	Quand le premier lâcha la chaîne, il était trop tard, il avait perdu pied. Ni l'un ni l'autre ne savaient nager. Quant à l'ours, il nageait comme un de ses confrères du pôle. [MASK] courut d'abord aux saltimbanques.
+
+['la', ',', "l'", 'de', '"']	Marie	À A.G. « Enfant, vous demandez pourquoi ma tête penche sur mes froids barreaux, et vers quelles régions ma pensée s'élance, à cette heure où, le jour s'éteignant dans la nuit, la nature s'endort, et l'-Angelus- chante l'hymne sainte de [MASK]
+
+['je', 'Je', 'on', 'On', 'il']	Berteau	pourquoi. [MASK] pense que c'est son affaire de 1831-vous savez, la fameuse affaire de la couronne de laurier et de la perruque-qui lui a fait du tort. Il pourrait bien avoir raison : rien n'est rancunier comme un classique.
+
+[':', 'le', '</s>', 'celui-ci', 'la']	Fosse	Le préfet arrive, et demande des nouvelles du village de Vallabrègues, complètement enveloppé d'eau, et avec lequel toute communication est interrompue. -Vous voulez des nouvelles, monsieur le préfet ? dit [MASK]. Vous en aurez, ou je ne reviendrai pas.
+
+['le', 'Louis', 'Charles', 'son', 'lui']	Louis	À vingt-deux ans, il avait tout usé ; à vingt-deux ans, la tête était morte et le coeur vide. À vingt-trois ans, il était fou. Ses deux oncles prirent le royaume. [MASK], qu'il venait de faire duc d'Orléans, prit sa femme.
+
+['vie', 'France', 'conscience', 'coeur', 'moi']	Cambacérès	Seulement, tu ne t'appelles pas le premier murmure, tu t'appelles l'Envie ; seulement, tu n'es pas un homme, tu es un serpent ! Eh bien, ce premier murmure, je venais de l'entendre derrière moi, à cette seconde période de mon histoire de [MASK].
+
+['tout', ',', 'S', 'le', 'bu']	Bougainville	-Va donc pour le verre plein, mais c'est le dernier ! Et l'abbé, bon catholique, vida aussi gaillardement son verre à la santé des pauvres qu'il l'avait vidé à la santé du roi. -La ! dit [MASK] ;
+
+[',', 'de', 'le', 'et', 'pour']	Coutry	Mais, au lieu d'une maxime, au lieu d'un vers, il aurait bien mieux fait de nous donner une recette. [MASK], autre grand praticien, aujourd'hui retiré, a dit : « Je préfère le cuisinier qui invente un plat à l'astronome qui découvre une étoile ;
+
+['re', 'Re', 'res', 're-', 'dé']	Fosse	Le même manège se renouvela dix fois, quinze fois, vingt fois, peut-être, [MASK] plongeant, esquivant, à son retour sur l'eau, le coup de patte de l'ours, replongeant et tirant de nouveau l'animal à terre.
+
+['lui', 'eux', '-on', 'Aristote', 'moi']	Hérodote	-la deuxième espèce offrait, selon [MASK], des racines tubéreuses et charnues ; des fleurs GRANDES ET BLANCHES comme celles du lis, des fruits semblables à ceux du pavot et renfermant une multitude de grains dont on faisait une sorte de pain.
+
+['je', 'il', '-je', 'le', '-']	Latour	-Il s'est mis à rire en disant : «Ce farceur de Dumas ! » -Tiens, c'est singulier, répondis-je ; à sa place, je me serais mis à pleurer. J'allai à mon bureau. -Vous écrivez ? me demanda [MASK].
+
+['On', 'on', '-on', 'Il', '-']	messe.-Boileau	-Orgue- : -masculin au singulier, féminin au pluriel ; ce qui amène la phrase : un des plus belles orgues. -Hymne- : -masculin dans les livres, et féminin dans les livres de [MASK] dit : -un hymne vain- ; -et l'Académie : -après que l'hymne fut chantée-.
+
+['le', "l'", 'Le', 'V', "L'"]	Blanqui	Tous refusèrent. J'allai à -la Commune de Paris-, c'est-à-dire dans la gueule du lion. J'attaquais tous les jours Sobrier et [MASK]. -La Commune de Paris- fit ce qu'aucun journal n'avait osé faire, elle inséra ma protestation.
+
+['on', 'il', 'elle', 'celui-ci', 'Dieu']	Bougainville	puis, enfin, il se décida à boire son vin pur. Quand [MASK] le vit arrivé à ce point, il se leva, annonçant que l'heure était venue pour lui de se présenter chez le roi, auquel il allait adresser la requête relative aux pauvres de Boulogne.
+
+['</s>', 'et', ',', "c'", 'un']	Pasquier	La pièce en était au huitième ou dixième tableau, et était en train de conquérir le succès qui se traduisit par cent cinquante ou cent soixante représentations consécutives. Le duc de Montpensier assistait à la représentation. [MASK], son chirurgien, vint frapper à ma loge.
+
+[',', 'se', '"', 'cela', 'ne']	Collard	! » Pourquoi donc [MASK] ne vous a-t-il pas, ou pourquoi ne s'est-il pas, en vous parlant, assuré de votre opinion sur la pauvre prisonnière qui tremble en vous écrivant ? Ah ! lui, sait que je ne suis pas coupable ;
+
+['oreilles', 'or', 'Apollon', 'amour', 'oreille']	Osiris	» Le -nelumbo-, dit-il, est le lotos sacré qui couronne le front d'[MASK] ; il a la fleur rose. » Nulle part il n'est question du lotus à pétales transparents ni à pétales féminins. Ce lotus t'appartient donc entièrement ;
+
+[':', '...', 'etc.', '.', ',']	Berteau	Au nombre des personnes qui assistaient à la lecture était un de mes vieux amis, nommé [MASK]. Nous étions déjà amis avant de nous connaître.-Nous sommes restés amis après nous être connus, et nous nous sommes connus en 1834, voilà de cela tantôt vingt-quatre ans.
+
+['il', 'je', 'on', 'elle', 'tu']	Marianne	-En vérité, mon ami, ce serait avec grand plaisir, mais... -Mais quoi ? L'abbé Rémy tâta les poches de sa veste, plongea alternativement les deux mains jusqu'au fond de ses goussets. -Mais, continua-t-il, [MASK] n'a pas mis d'argent dans mes poches.
+
+['on', 'il', 'valet', 'monsieur', 'madame']	Marianne	nous irons au pas, répondit-il. Un valet descendit du siège de derrière, et abaissa le marchepied. -C'est qu'il est onze heures un quart, dit le prêtre, et [MASK] m'attend pour dîner. -Où demeures-tu, d'abord ?
+
+['poésie', 'celle-ci', 'poète', 'France', 'Madame']	Procuste	En effet, que la musique fasse les honneurs d'une partition à la poésie, sous prétexte de donner l'hospitalité à la poésie, elle la conduira dans le château de [MASK] ; elle la couchera sur son lit, c'est-à-dire sur un véritable échafaud.
+
+['il', "s'", 'on', 'elle', "l'"]	Bougainville	L'abbé Rémy tendit la main, -Mais le roi me les a remises à une condition. -Laquelle ? -C'est que tu boiras à sa santé. -Oh ! qu'à cela ne tienne ! Et il présenta son verre, sur le bord duquel [MASK] inclina le goulot de la bouteille.
+
+['qui', 'pas', 'était', 'plus', 'est']	Smendou	[MASK], en 1846, n'en était pas arrivé encore à ce degré de civilisation, de se servir de lampes ou de bougies. Je demandai deux hommes de bonne volonté pour se mettre en quête d'une chambre, tandis que je veillerais sur le souper.
+
+['il', 'Dieu', 'on', 'qui', 'elle']	ella	car, pour qu'une plante, une fleur ou un arbre soient arrachés, il faut l'ordre de Dieu, et [MASK] doit compte à Dieu de toutes les plantes humaines. -Ah ! mon Dieu, dit la mère, pourquoi ai-je si froid ?
+
+['Waterloo', 'une', 'la', 'perdue', 'elle']	Rosbach	Or, quoi qu'il doive m'en coûter, il faut bien que je l'avoue, la bataille fut perdue, non pas comme Waterloo, au cinquième acte, mais comme [MASK]. au premier. Force fut de baisser la toile avant la fin de ce malheureux premier acte.
+
+['monseigneur', 'le', 'Monseigneur', 'celui-ci', 'monsieur']	Fosse	-Bon ! monseigneur, répondit [MASK], qu'avez-vous à craindre, vous qui ne quittez ce monde que pour aller directement au ciel ? Par malheur, je n'en puis dire autant. Aussi, je vous recommande mon âme. On arriva sans accident.
+
+['-il', '-elle', 'elle', 'je', 'il']	Bougainville	-Bah ! dit [MASK], une fois n'est pas coutume ... Nous allons dîner sans elle, nous, et j'espère que son absence ne t'ôtera pas l'appétit. -Oh ! sois tranquille... C'est que j'ai véritablement très-faim.
+
+['qui', 'et', 'peuple', ',', 'a']	Berteau	[MASK], à son grand regret, fut un peu empêché de prendre part à cette lutte. Pourquoi ? -ou plutôt par quoi ? Par une couronne de laurier qu'il avait apportée toute faite, et qu'il cachait sous une de ces immenses redingotes blanches, comme on en portait en 1831.
+
+[',', 'de', 'la', 'le', "l'"]	Jacquette	[MASK] le suivit quelque temps des yeux au milieu de la nuit, enviant probablement le sort de ce riche qui avait des torches pour l'éclairer dans l'obscurité. Puis, comme elle quittait la fenêtre pour aller coucher son enfant, elle entendit crier : « À mort ! à mort ! »
+
+['on', ',', 'le', 'en', 'la']	Bougainville	-Allons donc ! reprit [MASK], un demi-verre ? Eh bien, le roi serait content s'il voyait boire à sa santé dans un verre à moitié vide ! -Le fait est, dit gaiement l'abbé Rémy, que douze cents livres, cela vaut bien un verre entier...
+
+['ils', 'tous', 'elle', 'il', 'lui']	Clarisse	Peut-être la pièce ne valait-elle pas -Antony-, qui, du temps de l'école idéaliste, passait pour une assez bonne pièce ; mais, en tout cas, c'était moins connu. Jenneval et [MASK] acceptèrent.
+
+['il', 'Il', 'et', 'ne', 'le']	Bougainville	-Mais... Le prêtre regarda autour de lui avec inquiétude, comme s'il avait peur de s'écarter de son domicile. [MASK] comprit sa crainte. -Sois tranquille ; nous irons au pas, répondit-il. Un valet descendit du siège de derrière, et abaissa le marchepied.
+
+['lui', 'elle', 'moi', 'celui-ci', 'nous']	Bougainville	Il était évident que le pauvre prêtre pensait au plaisir qu'il eût éprouvé, du temps qu'il était libre, à voir la mer et à visiter une frégate. Ce soupir amena entre [MASK] et les deux officiers un nouvel échange de regards accompagnés d'un sourire.
+
+['il', 'on', 'elle', 'chacun', 'se']	Fosse	Pas une seule fois, pendant tout le temps des inondations, où tous les jours [MASK] risquait sa vie, pas une seule fois il ne s'inquiéta des pertes que subissait son commerce, complètement abandonné par lui. Le 19 août 1856, il reçut une nouvelle médaille d'or de première classe.
+
+['frère', 'ami', 'sire', 'homme', 'cousin']	Louis	-C'est mon frère, dit-il, ou plutôt c'était mon frère ; car il faut que tu saches que j'ai eu le malheur de le perdre, il y a trois ans. -Ah ! pauvre [MASK]... Mais, que veux-tu !
+
+[',', 'il', 'qui', 'tit', 'on']	Bougainville	[MASK] regarda à sa montre. -Bah ! dit-il, qu'importe ! il n'est que onze heures et demie, et, par conséquent, tu as encore vingt bonnes minutes devant toi. Plus vite, postillon ! -Comment, plus vite ?
+
+['et', 'il', ',', 'Il', 'oiseau']	Berteau	[MASK] poussa un cri de joie. -Eh ! mon ami, dit-il, c'est pour vous, c'est en votre honneur que cet oiseau s'est fait tuer. Je pris l'oiseau, je l'examinai, le tournant et le retournant.
+
+['crime', 'la', '"', "l'", 'meurtre']	Nessus	» Je vivrai ces six jours. » Mais porter les insignes du crime, sentir se débattre ma conscience sous cette fatale robe de [MASK], qui ne s'attache pas au corps seulement, qui brûle et qui tache l'âme ? ... » Jamais !
+
+['celui-ci', 'on', 'celle-ci', "l'", 'le']	Delaporte	puis, lorsque [MASK] l'eut appelé de son nom arabe, l'animal accourut avec les démonstrations de joie les plus vives, et avec des grognements de satisfaction pouvant équivaloir à ceux que pousserait un troupeau d'une trentaine de porcs.
+
+["l'", 'ce', 'la', 'son', 'vie']	Bougainville	bon ! interrompit l'abbé Rémy, je te vois venir ! ... Continue, mon ami, continue, je t'écoute. Complétement captivé par le récit de [MASK], l'abbé n'avait pas remarqué que les chevaux étaient passés tout doucement du petit trot au grand trot
+
+['il', 'qui', 'et', 'entrer', 'arriver']	Berteau	d'une si majestueuse voix, que le machiniste la prend pour celle du régisseur ; le rideau se lève, et que voit le parterre, encore en train de se gourmer ? [MASK] sur le théâtre avec sa redingote blanche, et sa couronne à la main.
+
+['on', 'On', 'Je', 'je', 'il']	Dumas	De plus, un tournesol qui s'ouvre le matin et, conséquemment, se ferme le soir. » [MASK] vient d'enrichir le jardin d'un -lotus blanc- comme la neige, à pétales transparen-tes- (lui ont fait dire les imprimeurs.)
+
+['la', 'le', 'il', "l'", 'une']	Jenneval	-Va pour -les Gardes forestiers-, dit la même voix. -À jeudi donc -les Gardes forestiers-, messieurs. Le grand saumon avait fait son effet ; on m'entoura, on m'applaudit, on me félicita. -Que cherchez-vous ? me demanda [MASK].
+
+['il', 'celui-ci', 'Jésus', 'Pierre', 'Jean']	Bougainville	-Ce que je suis devenu, cher ami ? dit [MASK] ; viens t'asseoir un instant près de moi, et je te le dirai. -Mais... Le prêtre regarda autour de lui avec inquiétude, comme s'il avait peur de s'écarter de son domicile.
+
+['vous', 'elle', 'lui', 'eux', 'votre']	Blazy	À peine eus-je connu vos intentions, relativement aux objets que vous désirez placer sur le tombeau de la pauvre madame Marie, que je m'empressai de traiter avec [MASK] pour la confection et le prix de la grille. Il voulut absolument cent vingt francs : je consentis à les lui donner.
+
+[';', ':', ',', '-', '"']	Ruggieri	Je le trouvai soucieux au milieu de son triomphe. -Qu'avez-vous donc ? lui demandai-je. -Je ne connais pas bien les ruines, de sorte que je n'en ai pas tiré tout le parti possible, répondit [MASK]. Mais, ajouta-t-il, je reviendrai.
+
+['On', 'on', 'qui', 'et', 'Il']	Berteau	On se précipita sur le théâtre. [MASK] n'eut que le temps de disparaître, non par une trappe, mais par le trou du souffleur. Un pompier, qui lui avait des obligations, lui prêta son casque et sa veste pour sortir du théâtre et rentrer chez lui.
+
+['UN', 'UNE', 'É', 'ES', 'E']	ANDERSEN	cherche, à travers des douleurs infinies, à atteindre ce fantôme aux mille couleurs quî fuit incessamment devant toi, dût ton coeur se briser, dût ta vie s'éteindre, dût ton dernier soupir s'exhaler au moment où ta main le touchera. (CONTE IMITÉ D'[MASK])
+
+['vous', 'toi', 'elle', 'les', 'un']	Marianne	-Oh ! de trois ans à trois ans et demi tout au plus... Mais compte plutôt trois ans et demi que trois ans. L'abbé se laissa tomber anéanti sur le banc de quart. -Oh ! murmura-t-il, je n'oserai jamais me représenter devant [MASK] !
+
+["j'", 'on', 'il', 'qui', 'cela']	Méry	C'est que [MASK] a le mal de mer rien qu'à regarder le balancement d'un bateau ; aussi mîmes-nous sa peur à rançon ; il ne fut racheté du voyage qu'à la condition qu'au retour il y aurait deux cents vers faits.
+
+['connaître', 'savoir', 'connaitre', 'lire', 'trouver']	Bougainville	En moins de dix minutes, on était à bord. Il va sans dire que cette merveille maritime qu'on appelle une frégate éveilla au plus haut degré l'enthousiasme du bon abbé Rémy ; il demanda à [MASK] le nom de chaque mât, de chaque vergue, de chaque agrès.
+
+[',', 'le', 'se', "l'", 'de']	Bougainville	Cependant, vers le milieu du dîner, il lui sembla que le mouvement de la frégate augmentait. [MASK] répondit que c'était le reflux, et se livra à l'exposé d'une savante théorie sur les marées. L'abbé Rémy écouta avec la plus grande attention et le plus vif plaisir
+
+['bu', 'vin', 'boire', 'le', ',']	Antoine	Eh bien, le roi serait content s'il voyait boire à sa santé dans un verre à moitié vide ! -Le fait est, dit gaiement l'abbé Rémy, que douze cents livres, cela vaut bien un verre entier... Verse tout plein, [MASK], et à la santé du roi
+
+['Noël', "c'", 'Pâques', 'Napoléon', 'tout']	Ruggieri	Une heure après, on savait, à trois lieues à la ronde, que [MASK] était arrivé, qu'il y aurait feu d'artifice sur la pelouse et illumination des ruines. À sept heures du soir, dix mille personnes attendaient au bord du lac.
+
+[',', 'le', 'de', "l'", 'la']	Fosse	un d'eux, en se débattant, s'y accrocha, et, comme le second n'avait pas lâché le premier, [MASK], en nageant vers le bord, les traîna tous deux après lui. Malgré cette précaution, l'un d'eux parvint à le saisir par la jambe ;
+
+[',', 'le', 'se', 'de', 'on']	Dantès	[MASK] passe quatorze ans avec l'abbé Faria dans les cachots du château d'If, et n'en sort qu'en se substituant à celui-ci dans le sac qu'on jette à la mer. Or, voilà que la légende fausse a pris la place de l'histoire vraie ;
+
+['maintenant', 'libre', 'maître', 'bien', 'moi']	Dumas	» Vous le voyez, [MASK], je me crois déjà libre, je me crois déjà auteur, je me crois déjà poète, je vis en liberté, j'ai de la réputation, du bonheur, et tout cela, tout cela grâce à vous.
+
+['théâtre', 'théâtres', 'Molière', 'boulevard', 'caractère']	Hugo	Eh bien, c'était contre cette religion que, à mon avis, venait d'être commis un acte qui ressemblait à un sacrilége, surtout de la part d'une artiste dramatique, surtout de la part d'une actrice qui a joué dans les pièces de [MASK], surtout de la part d'une femme !
+
+['qui', 'ane', 'il', 'tout', 'pavillon']	Bougainville	Puis, en homme qui a jeté son bonnet par-dessus les moulins : -Allons, allons, dit-il, à la frégate ! [MASK] semblait être servi par des génies, et ces génies semblaient obéir à l'abbé Rémy.
+
+['il', 'monsieur', 'Monsieur', 'chacun', 'on']	Ruggieri	Vous croyez que [MASK] fait des feux d'artifice parce qu'il est artificier ? C'est tout le contraire. Il est artificier parce qu'il fait des feux d'artifice. Ce n'est pas un état qu'il fait, c'est un plaisir qu'il se donne.
+
+['reste', 'content', 'é', 'seul', 'dernier']	Blazy	Enfin, après m'avoir fait enrager plus d'un mois et demi, il a fini par me l'apporter lui-même, et, certes, celui-là n'a pas été comme [MASK] ; il a fini son travail en tout point, et je puis vous assurer qu'il a fait une jolie pièce.
+
+['bien', 'ainsi', 'vrai', 'tout', 'beaucoup']	Marianne	-Que t'importe, puisque tu as permission pour une semaine ? -Je sais bien ; mais, vois-tu, c'est [MASK]... -Te figures-tu les cris de joie qu'elle poussera en te revoyant ? -Tu crois que ce seront des cris de joie ? -Mordieu !
+

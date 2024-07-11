@@ -1,0 +1,200 @@
+['il', '</s>', 'et', 'elle', 'Il']	Picounoc	Elle flotte dans l'incertitude, retenue, d'un côté, par le souvenir et l'amour, attirée, de l'autre, par la souffrance de la pauvreté et la reconnaissance. [MASK] se voyait à la veille de recueillir le fruit de son oeuvre.
+
+['furieux', 'désespéré', 'mécontent', 'sanglant', 'fou']	Naskarina	. --Nul! c'est nul! à recommencer, s'écria-t-il furieux, on m'a touché le bras. Le couteau n'avait déchiré que le gilet du prisonnier. --Arrête! s'était écrié [MASK], j'ai une parole à confier au chef.
+
+[',', 'de', 'ne', 'il', 'et']	Victor	[MASK] n'était guère moins ému que sa mère, et il se voyait, comme elle, agité de mille sentiments divers. Le désir de connaître cet homme qui lui avait donné le jour, luttait contre la peur du scandale et du déshonneur;
+
+['il', 'elle', 'celui-ci', 'on', 'je']	Victor	Mais quand [MASK] lui dit l'hypocrisie de cette femme, et quand il lui raconta dans tous les détails l'histoire du vieux mendiant, il se leva, comme fou de terreur, et, tombant à genoux devant son crucifix, il y demeura longtemps prosterné.
+
+['le', "l'", 'la', 'M.', 'Pierre']	Victor	--Beaucoup, monsieur.... --C'est lui qui a conseillé ma mère de me faire donner une éducation classique, reprit [MASK], et, n'eût-il fait que cela, je voudrais l'aimer toujours.... --Est-ce lui qui a payé votre éducation? demanda le grand-trappeur.
+
+['celui-ci', 'le', 'Marchand', 'marchand', 'monsieur']	Picounoc	--Est-elle égarée un peu? remarqua le bossu en éclatant de rire. --C'est presque de l'idiotisme, répondit [MASK]. --Veux-tu me prêter cela pour jouer un peu? dit-elle au marchand. Elle montrait des rouleaux de fil.
+
+['le', 'de', 'ses', 'à', 'en']	Poussedon	... --Je l'ignore... Les seuls que je reconnaisse sont l'ex-élève Lefendu Tintaine et [MASK]. C'étaient des camarades de chantier.... --Et vos ennemis? --Le vieux chef des voleurs est mort dans la cave du ruisseau, comme tu sais;
+
+['que', '--', ',', 'tard', '--']	Baptiste	--Sauvons-nous! --Pas de ce côté! la balle vient de là. --C'est vrai;... mais nous nous éloignons de la rivière. --Nous la retrouverons bien, [MASK], sauvons-nos peaux d'abord nos chemises après.... pellis ante chemisam !
+
+['il', 'on', 'elle', 'celui-ci', 'Pierre']	Baptiste	Raconter la scène qui venait d'avoir lieu fut l'affaire de quelques minutes. Quand [MASK] apprit que le grand-trappeur était tombé au pouvoir des Couteaux-jaunes, il leva les bras au ciel avec désespoir: Mon Dieu! dit-il, est-ce possible...?
+
+['Mais', 'MAIS', 'Oh', 'OUI', 'Oui']	Aglaé	Viens! marchons ensemble; conte-moi tout; je ne crains rien, et nos ennemis travaillent en pure perte. Ils ne réussiront jamais à m'éloigner de toi, [MASK], car je t'aime. --Tu m'aimes! Ah! si c'était vrai!
+
+['il', 'et', ',', 'Il', 'elle']	Picounoc	[MASK] éclata de rire. --Mon Dieu! que tu es simple! dit-il.... Enfin tant mieux pour toi! car si tu peux la croire une sainte et fidèle épouse, ton bonheur sera le même--qu'elle le soit ou ne le soit pas.
+
+['il', 'celui-ci', 'elle', 'lui-même', 'chacun']	Picounoc	Et quand [MASK] trouve son travail assez avancé; quand il voit son aveugle ami se porter à des excès de violence, et dans son langage et dans ses actions, alors il songe à mettre le couronnement à son oeuvre.
+
+[',', '....', '...', ';', 'et']	Aglaé	--As-tu vu l'ex-élève? réitéra la jeune fille. --Pourquoi cette demande? --Tu le sais bien. --Comme te voilà mystérieuse [MASK], où vas-tu? je t'accompagne.... --Je m'en vais à l'église. --Alors je m'en retourne avec toi.
+
+['et', 'il', ',', 'puis', 'elle']	Kisastari	[MASK] avait repris connaissance. Ses amis résolurent de rester auprès de lui jusqu'à ce qu'il fut en état de marcher, et, quand ils le virent capable de tuer du gibier pour se nourrir, ils lui donnèrent une bonne provision de poudre et s'éloignèrent.
+
+[',', 'femme', 'qui', '</s>', 'la']	Iréma	[MASK], remplie de reconnaissance envers le grand-trappeur, consentit à se sacrifier pour le sauver. --Je serai votre femme, dit-elle, mais pas avant que la robe noire nous unisse.... --La robe noire est bien loin.... --Nous irons ensemble, et nous marcherons tout un mois s'il le faut.
+
+['une', "l'", ',', 'un', 'alors']	Charlot	--Si quelqu'un s'informe de nous, dit [MASK] aux deux femmes, dites que vous ne nous connaissez point. --Vous vous sauvez? demanda la vieille. --Le bossu nous dérange un peu, la mère, n'importe, nous vous conterons notre voyage un autre jour.
+
+['Elle', 'elle', 'femme', 'Madame', 'Celle-ci']	Noémie	mais avertissez-le que vous n'agissez de la sorte que pour le rendre raisonnable. C'est le seul moyen de guérir cette espèce de folie--la pire de toutes--qu'on appelle "jalousie." [MASK] était trop profondément blessée pour répondre de cette façon à l'outrage de son mari.
+
+['il', 'le', 'et', 'on', 'elle']	Picounoc	[MASK] voyait depuis longtemps le ravage dont il était cause; mais il ne se laissait pas attendrir par tant de souffrances; et puis, il fallait qu'il en fut ainsi pour qu'il arrivât à la possession de cette femme aimée que le malheur rendait plus admirable encore.
+
+['tous', 'la', 'loin', "l'", 'nouveau']	Baptiste	Ils espéraient être vus de [MASK], leur camarade, s'il ne s'était pas trop enfoncé dans la forêt. Et il avait dû être curieux de connaître le résultat de la bataille. Cependant, personne n'apparaissait de l'autre côté de la rivière, et un silence profond régnait aux alentours.
+
+['vrai', 'elle', 'tout', 'cela', 'ainsi']	Noémie	, c'est [MASK]... Elle est la femme d'un autre.... Eh bien! puisque de ce côté le bonheur m'est ravi, je n'estime plus les femmes que d'après leur dot, et je voudrais devenir veuf tous les ans pour me remarier toujours avec des filles avantageuses.
+
+['nuage', "l'", 'S', '...', 'ce']	Djos	Un nuage passa sur la figure de [MASK]. --L'ex-élève, l'ex-élève!... tu tiens peut-être plus que moi à le voir, répondit-il d'une voix sourde. --Comment! est-ce qu'il n'est plus ton ami?..
+
+['le', 'la', 'son', "l'", 'ce']	Djos	Sortez, entendez-vous? où je vous déchire en mille morceaux comme une guenille! Le docteur eut peur, et il eut raison, car [MASK], ne se possédait plus, et pouvait, d'un instant à l'autre, se porter à des violences terribles.
+
+[',', 'il', 'homme', "l'", 'un']	Kisastari	[MASK] est mort! Une nouvelle clameur s'éleva. Les guides infidèles commençaient à comprendre la folie de leurs soupçons. Ils furent tout à fait désolés quand ils entendirent le récit de l'attaque des Couteaux-jaunes et du combat sans merci qui avait eu lieu.
+
+['elle', 't-elle', 'Alice', 'plus', 'si']	Noémie	--C'est vrai, dit [MASK] naïvement, je n'avais pas songé à cela. Mon Dieu! que je suis contente d'échapper à cet homme! s'écria-t-elle ensuite, en joignant les mains. Une larme vint trembler au bord de la paupière du grand-trappeur.
+
+['Elle', 'elle', 'Il', 'et', "n'"]	Picounoc	Elle a demandé les meilleurs serviteurs et n'a pas regardé au paiement. Une sorte de fatalité l'a poursuivie, et, malgré son travail et ses économies, elle est devenue d'année en année plus pauvre et plus malheureuse. Nous saurons bientôt comment cela s'est fait. [MASK] entra.
+
+['...', 'celle-ci', 'madame', 'elle', 'une']	Picounoc	--Il ne vous a pas dit qu'il avait vendu un châle à [MASK] peu de temps avant le meurtre? --Non, monsieur. --Le châle que portait la défunte, quand elle a été tuée... et qu'elle n'a porté que cette fois-là.
+
+['tous', 'celui-ci', 'certains', 'personne', 'Madame']	Djos	les jaloux, ils sont parfois d'une logique désespérante. Elle avait brûlé l'inoffensif billet, et n'avait osé le dire, de crainte d'éveiller les soupçons de [MASK]; et, c'était justement en cachant cet insignifiant détail qu'elle lui donnait un semblant de raison.
+
+['TA', 'es', ',', 'suis', 'est']	Djos	il faut que tu ne voies pas cela.... --Ah! fit [MASK] un peu surpris. --N'aie pas de soupçon, cher ami; tu sauras tout plus tard... aujourd'hui, impossible. --Quelque billet doux, je suppose... c'est bon! garde tes secrets;
+
+['la', ',', "l'", 'se', 'qui']	Picounoc	L'image de [MASK] passa devant ses yeux, moqueuse et provocatrice. Il frémit et leva le bras sur elle. Son ami lui apparaissait dans toute sa hideur. --Picounoc! cria t-il. --Que veux-tu? répond celui-ci qui se tient prudemment à l'écart
+
+['moi', 'toi', 'cela', 'lui', 'Dieu']	Racette	--Non, ce n'est pas bon, répliqua la folle; j'aurais du dire: meâ culpâ, meâ culpâ, meâ maximâ culpâ . Eu te frappant la poitrine? dit le bossu. --En me perçant le coeur avec un poignard. --Penses tu encore à [MASK]?
+
+['vite', 'tard', 'cela', 'là', 'loin']	Letellier	Je poussai un cri, mais il était trop tard. Je reconnus bien [MASK]; je l'appelai par son nom, mais il était loin déjà. Je me précipitai au secours de ma femme; elle n'avait plus besoin de secours, elle était morte.
+
+['la', 'madame', 'monsieur', 'Monsieur', 'Mr']	Picounoc	C'est lui qui a, selon toute probabilité, vendu les deux châles de soie. Il était donc dès lors, ou il est devenu depuis, le complice de [MASK]? Pourquoi? Pour de l'argent? Peut-être. Par vengeance? Peut-être encore.
+
+['elle', ',', 'il', 'et', ';']	Marguerite	[MASK] jeta ses bras autour du cou de son père et l'embrassa avec effusion, puis, fondant en larmes, elle alla s'enfermer dans sa chambre. --Le bossu me l'avait dit, que je verrais mon père à mes genoux... Mon Dieu!
+
+['cor', 'cro', 'atta', 'hou', 'le']	Collin	on joue à [MASK]-maillard--au bout d'un bâton--et à la paroisse--un jeu fort amusant et bien simple celui-ci; l'on vend le corbillon--toujours en "on", ou l'on passe le gant, en rimant;
+
+['nous', 'eux', 'moi', 'vous', 'toi']	Picounoc	Les poètes font bien la nomenclature de leurs guerriers imbéciles qui vont s'entr'égorger au profit de l'orgueil et de l'ambition, pourquoi ne nommerais-je pas les jeunes gens éveillés qui sont venus chez [MASK] prendre part à une fête charmante qui s'en va, hélas! avec les bonnes années?
+
+['Il', 'Et', 'et', 'Elle', 'il']	Picounoc	Elle avait peur des larmes si elle bravait les menaces. --Mon père, dit-elle, nous parlerons de cela plus tard, laissez-moi me retirer je suis souffrante. Et elle s'éloigna. [MASK] la regarda s'enfuir. Il eut un sentiment de compassion.
+
+['le', 'il', 'elle', "l'", 't-il']	Robert	--Et ils sont à la veille de se retirer des affaires, dit [MASK]. --Même que ton mari m'a dit qu'il allait acheter une terre et vivre paisiblement des rentes des autres, comme un rat dans son fromage.
+
+['il', 'elle', 'tout', 'Jean', 'Il']	Picounoc	--Mais je suis sérieux.... Je suis un maudit, tu sais, et le fils d'un maudit... donc il faut que je fasse mon oeuvre. En parlant ainsi [MASK] s'animait, sa voix devenait aigre et ses yeux s'injectaient de sang.
+
+['t-il', '-t-il', 'celui-ci', '-il', 'Henri']	Victor	--La reconnaissance, monsieur, ajouta [MASK], est une vertu qui tient souvent la place de l'amour, et bien des hommes achètent le bonheur en la faisant naître dans les âmes qui ne veulent pas ou ne peuvent pas aimer.
+
+['et', 'elle', 'fille', 'Elle', 'qui']	Iréma	[MASK] fondait en larmes quand elle entra dans l'humble chapelle en bois rond. Le missionnaire supplia le Hibou-blanc de rendre à la pauvre indienne la promesse arrachée dans un moment fatal. --J'ai attendu assez longtemps, dit le Hibou-blanc, vos prières sont inutiles.
+
+['oui', 'non', 'NON', 'OUI', 'bien']	Kisastari	demanda le Hibou-blanc en éclatant de rire. --Oui, [MASK]! répondirent les Litchanrés. --Oh! oui! je le promets.... -- Aures habent et non audient ! dit l'ex-élève fatigué de héler un canot qui passait loin de lui, sur le grand lac.
+
+[',', 'et', 'elle', 'il', '...']	Marguerite	Et, comme elle s'abandonnait à ces pensées de tristesse et d'amour, elle le vit venir. Il marchait la tête penchée, et ses pas semblaient enchaînés au sol, tant ils étaient lents et indécis. Il arriva. [MASK] le salua avec un sourire de pitié: --Ton père est
+
+['il', 'Il', 'et', 'puis', 'Elle']	Victor	Monsieur... en prison!... mais il est innocent!... ah!... bien innocent!... [MASK] entra. --Le père Normand n'est pas chez lui, dit-il. Il aperçut sa mère qui sanglotait. --Ne te désole point, petite mère, allons!
+
+['elle', 'et', 'puis', 'Elle', 'il']	Satalia	Le jongleur partit. [MASK] s'assit pensive la tête dans ses mains; puis elle se mit à prier, mais avec tiédeur et distraction, car l'image du jongleur passait et repassait de plus en plus séduisante devant ses yeux.
+
+['celui-ci', "c'", 'Gaston', 'monsieur', 'Jean']	Picounoc	Quand il apprit que [MASK] était l'acquéreur de cette ferme qu'il avait tant raison de regretter, il éprouva une consolation: Au moins cet homme nous aime, pensait-il, et il ne chassera pas ma mère, j'en suis sûr.
+
+['il', 'et', ',', 'Il', 'elle']	Kisastari	[MASK] s'assit auprès d'elle sans parler, et longtemps ainsi il demeura silencieux. Le festin fut joyeux cependant, car l'eau de vie coula avec abondance. Les deux tribus se donnèrent mille marques d'amitié, et les paroles de paix ne cessèrent de tomber.
+
+['--', '--Et', '--', '_', '--Vous']	Marguerite	--Et ta promesse? [MASK] est-elle prévenue? --Je l'en ai avertie... mais je crois bien qu'il faudra employer les menaces.... --N'importe! c'est aujourd'hui lundi, je veux me marier dans huit jours. --On la fera consentir.
+
+[',', 'à', ';', 'dans', 'de']	Letellier	des gens qui auraient, par hasard, entendu quelques paroles échappées [MASK]... ou qui l'auraient vu faire des menaces à la défunte.... --Précisément... c'est cela!... Le bossu se passa la main dans la barbe et fit semblant de réfléchir....
+
+['il', 'on', 'monsieur', 'elle', 'Monsieur']	Picounoc	--Vous avez des témoins, reprit-elle, qui prouveront l'innocence de votre père? --Il y aura conflit de témoignages, car [MASK] va jurer qu'il l'a vu frapper. --Vous croyez? --J'en suis certain. Il vous l'a dit lui-même, ce me semble?
+
+['...', 'à', 'COM', '....', 'UNI']	Charlot	Vous ne courez aucun danger. Si l'ex-élève veut contredire vos témoignages, il sera seul et vous serez deux! Deux contre un, c'est la victoire.... --Nous y penserons, répondit [MASK]. Combien cela paie-t-il? --Je vous donne quittance....
+
+['Dieu', 'chacun', 'Pierre', 'quiconque', 'Philippe']	Picounoc	Cependant il songeait, en marchant, par quels moyens il réussirait à convaincre [MASK] de malice et de trahison, et plus il songeait, plus la chose lui semblait impossible. Alors il résolut de ne point se faire reconnaître, et d'arriver chez lui comme un étranger.
+
+['un', 'une', 'Alger', 'Oran', 'Ann']	Iréma	Souvent aussi les plus heureuses réconciliations ont lieu alors, grâce au zèle et à la charité des saints missionnaires. Le Hibou-blanc comprit qu'il ne pouvait s'entourer de trop de précautions, ni employer trop de moyens pour parvenir à son but, la possession d'[MASK].
+
+[',', 'il', "d'", 'et', "l'"]	Ferron	[MASK], conduit au pénitencier avec son compère Racette le maître-d'école, s'était enfui au bout de deux ans, avec le même complice, en tuant l'un des gardiens. La femme Asselin, la tante inhumaine du Pèlerin, l'épouse infidèle, l'empoisonneuse, monta aussi sur l'échafaud.
+
+['le', 'de', "l'", 'la', ',']	John	répondirent les Litchanrés. --Oh! oui! je le promets.... -- Aures habent et non audient ! dit l'ex-élève fatigué de héler un canot qui passait loin de lui, sur le grand lac. -- Well ! let them go !... C'est nous les rejoindre, ajouta [MASK]
+
+['marchand', 'marchands', 'lui', 'elle', 'hasard']	Marguerite	Le marchand fut accueilli avec empressement d'une part, et, de l'autre, avec une froideur significative. Inutile d'ajouter que l'empressement ne venait pas de [MASK]. Quand la jeune fille eut servi la table, son père la pria de le laisser quelques instants seul avec le visiteur.
+
+['et', 'pour', 'ou', ',', '/']	Geneviève	--C'est possible. --Et vous avez envoyé [MASK] porter votre lettre? --Oui. --Au nom de qui écriviez-vous? --En mon nom, je suppose.... C'est-à-dire, c'est ma fille.... --Entendons-nous.
+
+['elle', 'il', 'on', 'ne', 'Elle']	Picounoc	Il réussit à empêcher le sourire de s'étendre une fois de plus sur la figure béate de la fiancée, et ce fut tout. Le moment d'angoisse passa vite, et l'amour reprit en tyran sa place dans le coeur de la jeune fille. [MASK] ne fit pas de noces.
+
+['il', 'éprouv', 'lui', "s'", 'y']	Picounoc	--Que fais-tu là, toi? demanda-t-il tout-à-coup à une femme assise sur un bout de planche, vis-à-vis la fenêtre. A la vue de cette femme qui ne s'était pas encore retournée, [MASK] eut un tressaillement de peur: si elle avait entendu! pensa-t-il....
+
+['(', 'me', 'm', ',', 'M']	Aglaé	--Qui donc? fit [MASK] légèrement anxieuse. --Je ne le dis pas, cela te chagrinerait. La jeune fille pâlit et pencha la tête. L'ex-élève reprit: --Aglaé, tu es une bonne fille; ta mère est à l'aise; tu aurais pu...
+
+['la', 'ce', "l'", 'celui', ',']	Marguerite	l'amour de [MASK] l'entraînait d'un côté, puis, de l'autre, le dévouement. Tant d'émotions violentes chassèrent de ses paupières le sommeil bienfaisant, et, quand vint le matin tout radieux, il n'avait, pas plus que sa mère, goûté de repos.
+
+['Il', 'il', 'et', 'Chacun', 'chacun']	Picounoc	il ne me pèserait guère au bout du bras.... Les deux amis se rendirent au bois, et revinrent avec leur voyage, toujours en causant. [MASK] s'applaudissait d'avoir imaginé ce nouveau grief contre la femme de son ami.
+
+['cela', 'que', "qu'", 'ça', 'sa']	Emmélie	Vous êtes surpris de voir [MASK]? Nous le sommes tous: nous ne l'attendions point. Elle est un peu mieux aujourd'hui, et l'ex-élève lui a fait comprendre qu'une petite distraction, sous forme d'épluchette , lui serait très-favorable.
+
+['je', 'celui-ci', 'maman', 'on', 'Madame']	Saint-Pierre	Mon mari, tout bouleversé, se rendit dans le jardin, il prit un rondin sur un tas de bois que [MASK] lui avait montré, comme par hasard, un peu auparavant, et se cacha sous les arbres. L'obscurité se répandit.
+
+['u', 'avocat', 'il', ',', 'et']	Geneviève	[MASK] s'assit à côté du cocher. Le bossu entr'ouvrit sa porte, et le jeune avocat la salua d'un air un peu railleur. --Mon tour de rire viendra peut-être, grinça le bossu. --Quel est cet homme? demanda le grand-trappeur. --C'est un nommé Chèvrefils!
+
+['le', 'la', 'de', "l'", 'les']	Noémie	On eut dit qu'un courant magnétique s'établit aussitôt entre la personne du dehors et [MASK], car celle-ci se retourna soudain vers la fenêtre; mais la tête curieuse avait disparu déjà. Il est singulier que souvent nous sommes avertis par un messager merveilleux
+
+['il', 'lui', 'elle', 'Il', 'et']	Djos	Elle lui écrivit quelques mots que le faux commissionnaire garda soigneusement dans sa poche. Le jour du mariage arriva. [MASK] servit de père à son ancien camarade de chantiers. En allant à l'église, il lui dit: --Pourquoi as-tu invité l'ex-élève?
+
+['il', 'et', 'Il', 'mais', 'celui-ci']	Picounoc	Le marchand continua sa route. [MASK] ne remarqua pas l'exclamation de son ami; il avait quelque chose en tête. Il partit et atteignit bientôt le colporteur. --Vous avez encore un châle semblable à celui que vous venez de vendre, lui dit-il.
+
+['qui', 'un', ',', "l'", "d'"]	Letellier	Un mouvement onduleux agita la salle, et tous les regards se tournèrent vers le prisonnier qui parut entre deux sergents de police. [MASK] était ferme sans forfanterie et résigné sans faiblesse. Personne ne put lire ce qui se passait dans son esprit;
+
+['est', 'on', 'se', 'en', ',']	Djos	Un chérubin d'un mois environ, reposait, rosé et frais, dans le berceau neuf. Et la mère dévouée ne laissait pas de loin le petit amour. La journée finie, [MASK] revint vers sa femme et son enfant, le coeur débordant d'ivresse;
+
+['se', '...', ',', '…', 'TOUT']	Picounoc	si j'ai répliqué un peu trop vivement à votre démenti; mais si vous ne me croyez pas sur parole, demandez à l'ex-élève, il vous dira la même chose que moi.... --Mais non! ce n'est pas possible! disait [MASK] marchant au milieu de la salle...
+
+['Non', 'Oui', 'Alors', 'Et', 'Effectivement']	Louise	--Et du vieux chef? ajouta [MASK], je me souviens de ce temps-là et de ces gens aussi. C'est étonnant que je vous aie oublié. --Cela ne m'étonne pas du tout moi. Plusieurs de ces pauvres diables ont mal fini.
+
+['le', 'de', 'hou', ',', "l'"]	Djos	[MASK] était ahuri. --C'est peut-être un tour, pensa-t-il... Il sait que je suis jaloux et s'amuse à mes dépens... pourtant c'est un bon ami et il ne m'a jamais trompé.... Ah! la malheureuse! si elle vient!--et il brandissait
+
+['Oui', 'Maintenant', 'Allons', 'Bon', 'Bien']	Geneviève	Elle s'approcha de l'armoire et le développa: C'est du thé, murmura-t-elle, et du bon!... [MASK], il est l'heure de souper, veux-tu prendre une tasse de thé? demanda-t-elle à la folle.
+
+['sa', '.', 'la', 'une', 'son']	Iréma	C'est au fort Providence que le vieux chef devait épouser [MASK]. Ensuite, remontant la rivière des Couteaux-jaunes, ils iraient, en attendant la saison de la chasse, dresser leurs tentes sur les vastes terrains occupés jadis par leurs aïeux.
+
+['ta', ',', 'on', 'i', 'qui']	Kisastari	Il avait vingt-deux ans seulement et n'était sachem que depuis quelques mois. Ni l'un ni l'autre n'avaient d'épouse. Mais le jeune chef des Litchanrés, [MASK]--c'est son nom--aimait une vierge de sa tribu, la belle Iréma;
+
+['John', 'son', 'les', 'ses', ',']	Félix	Alors ils laissèrent déborder leur joie, et entonnèrent un chant de victoire. L'ex-élève, John et [MASK], pleurant la perte de leur chef valeureux descendirent la côte et se cachèrent sur le rivage en attendant le départ de leurs ennemis.
+
+['Allah', 'Ali', 'honneur', 'apaisement', 'or']	Iréma	heures d'angoisses et d'agonie que celui qui va mourir peut seul comprendre. --Frère, dit le Hibou blanc. --Moi, ton frère! vil renégat, jamais! Le vieux chef eut un mouvement de colère, mais la pensée d'[MASK] lui rendit le calme.
+
+['boutique', 'de', 'à', 'magasin', ',']	Robert	[MASK]. Il a fermé boutique ces jours-ci, grâce au dernier tour que ton mari lui a joué. Nous étions là, et il y a deux mois au moins que cette belle affaire a eu lieu. C'est réellement un de nos meilleurs coups.
+
+['un', 'autrui', 'une', 'autres', 'homme']	Aglaé	A qui donc le crime profite-t-il? Qui pouvait gagner quelque chose par la mort d'[MASK]? Son mari? Non, s'il l'aimait, oui, s'il ne l'aimait pas. Car une femme que l'on hait est un fardeau bien lourd à porter.
+
+['--', "l'", 'la', 'LA', '...']	Picounoc	--Si tu veux que nous restions amis, dit-il à [MASK], viens un peu moins souvent chez moi quand ma femme est seule. --Ah! tu as peur! Laisse-moi faire; je suis en train de te prouver la justesse de mon jugement sur les femmes en général et la tienne en particulier....
+
+['celui-ci', 'Pierre', 'il', 'Jean', 'Martin']	Charlot	Le bossu ordonna trois verres et, tout en vidant le sien, il dévisageait ses nouveaux compagnons. --Il me semble vous avoir vus déjà, dit-il. --C'est possible, répondit [MASK], mais à coup sûr, je ne vous ai jamais vu, moi.
+
+['le', "l'", 'la', 'un', 'celui-ci']	Victor	--Pour te confondre, misérable! répondit le vieillard d'une voix sourde et terrible. --Reconduisez cette femme en prison! ordonna le juge. --Il reste un dernier témoignage, reprit [MASK], qui sait si la pauvre folle lâchement assassinée ne parlera pas du fond de sa tombe.
+
+['Je', 'Elle', 'Toute', 'tout', 'Tout']	Aglaé	Et une larme roula dans les yeux de l'ex-élève. --Ce n'est donc pas à cause de la malédiction qui pèse sur elle que tu ne la prends pas pour femme? reprit [MASK], contente d'affaiblir l'argument de son ami. --J'avoue que je l'aime tant....
+
+['pas', 'jamais', 'plus', 'rien', 'ne']	Noémie	je ne te comprends, pas.... --Tu me comprends, [MASK].... --Mon Dieu! quel est cet air mystérieux?... Pourquoi parles-tu ainsi? tu m'effraies! tu n'est plus le même depuis quelques jours! dit la jeune femme d'une voix émue!
+
+['Elle', 'elle', 'et', 'Ainsi', 'ainsi']	Noémie	Je ne veux pas dire qu'il y a du mal à danser... certaines danses... avec certaines personnes: mais danser certaines autres danses avec certaines autres personnes!... [MASK] se trouva seule contre tous, que pouvait-elle faire? danser? cependant elle ne dansa point.
+
+['elle', 'se', 'on', 'et', ',']	Noémie	Le jour commence et [MASK] se hâte, car elle veut faire ses cinq aunes d'étoffe avant la nuit. Elle est pauvre et sa terre, si féconde autrefois, ne rend plus. Les mauvaises herbes, moutarde et chien-dent, remplacent l'avoine et le blé;
+
+['Où', 'et', 'Mais', 'Combien', 'Pourquoi']	Noémie	une pensée unique l'absorbait tout entier: revoir sa femme et son enfant. Mais que de craintes! que d'angoisses serraient son âme! [MASK] vit-elle encore? et, si le chagrin ne l'a pas tuée, est-elle demeurée fidèle à son premier amour?
+
+['toi', 'folle', 'moi', 'femme', 'fou']	Geneviève	Mais la femme se retourna et les deux compères reconnurent la folle. --Elle est partout, cette gueuse-là! murmura le bossu.... Puis il répéta: que fais-tu là, [MASK]? --J'enfile des perles pour un faire un collier.
+
+['chambre', 'plus', 'se', '(', 'la']	Picounoc	c'est la femme de [MASK] qu'il a tuée!... --Mon Dieu! mon Dieu! s'écrie le grand-trappeur en tombant à genoux. --Le missionnaire lui demande ce qu'il a. Il pleurait comme une Madelaine, et criait: Noémie! Noémie, pardon!...
+
+['les', 'la', 'le', 'en', '...']	Joseph	Le lendemain, vers midi, un colporteur, portant sur son dos une cassette pleine de nouveautés, entra chez [MASK]. Il déposa son fardeau sur une table, déboucla les courroies et fit un tour dans la place , en gesticulant et parlant avec volubilité:
+
+['NON', 'ON', '...', 'non', 'il']	Victor	Et puis, s'il revenait!... Il s'arrêta, voyant qu'il en avait trop dit déjà.... --Et s'il revenait? demanda [MASK]. --Mais c'est impossible, puisqu'il est mort, répondit-il en éludant la question, on a retrouvé ses ossements calcinés....
+
+['Jean', 'celui-ci', 'Paul', 'Pierre', 'Henri']	Picounoc	Il n'osa pas achever, cela lui faisait trop de mal. --Le docteur est un joli garçon, continua [MASK] avec malice, il a de l'esprit, de l'argent, quelle femme demeurerait insensible? --Tu crois?... mais non, il ne vient presque jamais à la maison.
+
+['de', 'la', 'les', 'chaque', 'une']	Iréma	Les Litchanrés comptaient deux morts, et les Couteaux-jaunes, trois. Il y avait un bon nombre de blessés, [MASK] prisonnière, c'était le comble des voeux du vieux chef. Il n'avait jamais ambitionné un plus beau triomphe.
+
+['lui', 'vous', 'elle', 'monsieur', 'chacun']	Picounoc	, repartit l'ex-élève, et prenez garde à [MASK] et à son ami, ce sont des hommes dangereux.... --Je le sais, fit-elle. --Elle n'est plus folle! Telle fut la pensée qui vint à l'esprit de chacun.
+
+['il', ',', 'elle', 'Il', 'Elle']	Noémie	[MASK] se leva et courut à lui: --Petit méchant, va, comme tu me fais de la peine!... dit-elle en l'enveloppant de ses deux bras. --Tu pleures? pourquoi?... --Tu le sais bien pourquoi... penser que je puis en aimer un autre que toi!
+
+['Monsieur', 'cela', 'Madame', '"', 'tout']	Picounoc	Le jeune avocat s'était levé d'un bond; il fallait jouer serré. Il ouvrit un tiroir de commode, et en tira un magnifique châle. --Il n'a pas été détruit! vous voyez, Madame, et cela va joliment embêter [MASK].
+
+['il', ',', 'se', 'le', 'et']	Picounoc	Il croyait devoir beaucoup à cet homme, et il était à l'âge où nulle passion ne fait taire la voix de la reconnaissance. [MASK] recueillait avec avidité les bonnes paroles du jeune homme et devinait qu'il avait un auxiliaire nouveau. Le soleil rayonnait dans les champs;
+
+['la', "l'", 'cette', 'son', 'ce']	Aglaé	Il eut été difficile de donner à [MASK], la victime désignée d'avance, un motif plausible peur l'entraîner ailleurs. Il rentre donc dans son jardin, suivi de sa femme à qui il parle comme un amant parle à son amante.
+
+['elle', 'tout', 'toi', 'une', 'vrai']	Noémie	Je le blâmai. Il répliqua: Tiens! je n'ai pas de secret pour toi! j'ai aimé, j'aime et j'aimerai toujours. Celle que j'aime, tu la connais, c'est [MASK]. Elle est la femme d'un autre.
+
+['celui-ci', 'celle-ci', 'il', 'celui-là', 't-il']	Djos	Son ami lui apparaissait dans toute sa hideur. --Picounoc! cria t-il. --Que veux-tu? répond celui-ci qui se tient prudemment à l'écart. --Où es-tu? Viens ici, continue [MASK] d'une voix que la colère rend tremblante.
+

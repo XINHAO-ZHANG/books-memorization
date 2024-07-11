@@ -1,0 +1,200 @@
+['Oui', 'Seigneur', 'Non', 'Maître', 'Monsieur']	Souba	Reprenez le chemin de la ville.” C’est alors que la plus âgée des laveuses doucement fit un pas en avant et les yeux toujours à terre lui répondit. “[MASK], nous t’avons reconnu lorsque la nuit t’a mis sur notre route.
+
+['guide', 'père', 'chauffeur', 'roi', 'Dieu']	Katabolonga	Il se dressa et demanda à [MASK], qui savait entendre les morts, de le mener jusque là-bas. Dans les couloirs déserts du palais en deuil, deux silhouettes marchaient côte à côte, prenant soin de ne pas se faire voir.
+
+['son', 'ses', 'sa', 'leurs', 'la']	Massaba	Durant toutes ces nuits de voyage, il n'avait cessé de se poser la même question. Pourquoi son père lui avait-il confié cette tâche ? Pourquoi l'avait-il condamné à l'exil et à la solitude ? Loin des siens. Contraint à ne plus rien savoir du sort de [MASK].
+
+['la', 'elle', 'se', 'une', 'de']	Samilia	[MASK] vit. Vous l’avez laissée seule. Vous prétendiez vous battre pour elle. Vous vous êtes entre-déchirés jusqu’au dernier et vous l’avez oubliée. Il n’y a plus personne pour veiller sur elle. Soyez maudits. Vous n’aviez pas le droit.”
+
+['on', 'On', 'qui', 'Ca', 'Cela']	Samilia	On parlait de colonnes entières d’hommes et de chevaux qui se succéderaient pour déposer dans la cour des montagnes d’or, de tissus et de pierres précieuses. On parlait d’objets fabuleux dont on ne connaissait pas l’usage mais qui laissaient les mortels sans voix. [MASK] n’avait pas de prix.
+
+['Il', 'Mon', 'Un', '</s>', '"']	Tsongor	De mesurer la haine qu’ils se portaient l’un à l’autre, mais n’y parvenait pas. “[MASK] s’est tué par mes mains, dit-il, parce qu’il sentait la guerre approcher et ne voyait pas d’autres moyens de l’éviter.
+
+['celui-ci', '...', 'celui', 'Ulrich', ',']	Kouame	Il ne reconnaissait plus personne. Il ne voyait, partout autour de lui, que des corps à transpercer. Il enfonça son arme jusqu’à la garde dans le cou de [MASK] qui le fixa avec de grands yeux étonnés. Il s’effondra à terre. Sans vie.
+
+['il', 'Il', 'ce', 'ne', '</s>']	Sako	Il ne restait plus que d’horribles blessés qui se traînaient, à la force des bras, pour tenter d'échapper au festin des hyènes qui déjà se pressaient dans la plaine. [MASK] fut le dernier à mourir. Son frère Danga lui ouvrit le ventre et répandit à terre ses entrailles.
+
+['le', 'celui-ci', "l'", 'la', 'il']	Katabolonga	Je suis comme lui le tyran d’une terre laide et étriquée. Si elle brûle, je n’ai rien offert aux miens. — Tu as offert, Tsongor, mais on brûle tes présents”, répondit [MASK]. Le roi Tsongor se tut à nouveau.
+
+['Personne', 'On', 'on', 'personne', 'Il']	Rassamilagh	Personne ne bougea. Lentement, [MASK] sortit des rangs. Ce fut alors le début d’un grand départ. Dans chaque camp, dans chaque tribu, des hommes se décidaient. Les jeunes parce qu’ils avaient encore devant eux des années à vivre et voulaient revoir leur famille.
+
+['il', 'celui-ci', 'Pierre', 'celle-ci', 'elle']	Katabolonga	Il pensait simplement que c’était la première fois, et certainement la dernière, qu’il croisait tant d’hommes lors de sa marche nocturne et que le bruit de ses pas était accompagné de tant de murmures. Mais lorsque [MASK] entra dans la salle du tabouret d’or, il se figea brusquement.
+
+['le', 'pour', "l'", 'un', 'son']	Tsongor	Dans la forêt des baobabs hurleurs, il fit construire une haute pyramide. Un tombeau pour [MASK] le bâtisseur, au milieu de l’humus épais et des cris d’oiseaux au plumage rougeoyant. Puis il alla jusqu’aux confins du royaume, dans l’archipel des manguiers.
+
+['mon', 'son', 'ma', "l'", 'notre']	Liboko	De père en fils, rien que de la poussière et du mépris. J’ai échoué. Je voulais avoir un empire à léguer. Que mes enfants l’agrandissent encore. Mais mon père est revenu. Il rit. Et il a raison. Il rit sur la mort de [MASK].
+
+['elle', 'toi', 'vous', 'elles', 'lui']	Samilia	Je suis heureux que tu te souviennes de moi et que tu t’en souviennes avec joie. Oui, c’est pour [MASK] que je suis revenu. Comme c'est pour elle que j’étais parti. Je voulais apprendre le monde. Accumuler richesses et sagesse.
+
+['Dieu', 'tous', 'DIEU', 'dieu', 'mon']	Tsongor	Oubliez-moi. N’essayez ni de me retenir, ni, plus tard, de me retrouver. Ce que je vous dis est la volonté de [MASK]. Pour moi, je ne veux rien. Partagez le royaume entre vous. Faites comme si j’étais mort.
+
+['moi', 'toi', 'vous', 'MOI', 'nous']	Souba	Lorsque tu auras fait cela, et avant de repartir et de vivre la vie que tu dois, penche-toi sur mon oreille de mort et murmure-moi ces paroles : «C’est moi, mon père. C’est [MASK]. Je vis.
+
+['le', 'un', "l'", ',', 'en']	Souba	A l’extrémité, à la place du cadet, était assis [MASK]. Le visage fermé. Il pensait sans cesse à ce dernier entretien qu’il avait eu avec son père. Il cherchait à comprendre les raisons de cette mort mais n’y parvenait pas.
+
+['elle', 'la', ',', 'celle-ci', "l'"]	Massaba	Une mousse verte couvrait maintenant les façades. De hautes herbes folles avaient poussé dans les patios, sur les terrasses, entre les tuiles des toits et dans les fissures des murs des maisons. C’était comme si [MASK], lentement, avait été avalée par la végétation.
+
+['il', 'je', 'père', 'mon', 'un']	Tsongor	[MASK] est mort et c’est pour moi comme si toute une partie de ma vie venait de glisser, doucement, dans la mer. Nous le pleurerons. Et notre deuil durera plus de onze jours. Laisse-nous cela. Laisse-nous organiser les cérémonies funéraires comme nous l’entendons.
+
+['On', 'on', 'Chacun', 'Il', '</s>']	Katabolonga	Plus aucune hutte ne tenait debout. L’armée tout entière se reposait dans cet immense campement et fêtait sa victoire. Les uns nettoyaient leurs armes. Les autres soulageaient leurs pieds. On discutait, en troquant quelques trophées. [MASK] se présenta aux portes du camp.
+
+['loups', 'chiens', 'douleur', 'loup', 'guerre']	Katabolonga	La nuit s’achevait aux sons horribles des hurlements de [MASK]. Et lorsqu’il referma les yeux du roi en passant doucement la main dessus, c’est une époque entière qu’il referma. C’est sa vie à lui aussi qu’il enterrait.
+
+['Je', 'Tu', 'je', 'Mon', 'Nous']	Souba	Qu’on nous apporte de quoi manger et boire. Qu’on nous chante les chansons tristes de notre pays. C’est ainsi, par ces heures passées ensemble, que nous nous, dirons au revoir. Car il faut se dire adieu. Je le sais. Adieu à toi, [MASK].
+
+['tous', 'la', 'ses', 'sa', 'son']	Tsongor	Il ferait en sorte que le palais dise à la fois le faste de sa vie et le gâchis de cette existence mangée par le malheur. Oui, il lui restait cela à faire. Les tombeaux de [MASK], nul n’y pénétrerait jamais.
+
+['bâtir', 'laquelle', 'recevoir', '...', 'couvrir']	Tsongor	Il ne parviendrait jamais à bâtir le portrait vrai et complet de son père. Il fallait voyager. Le lieu existait. Il serrait son amulette. Il avait trouvé la terre qui le recouvrirait. Il fallait maintenant trouver la terre de [MASK]. Ce serait une évidence.
+
+['le', 'la', "l'", 'son', 'un']	Tsongor	Les deux hommes vieillirent ensemble. Ils devinrent, au fil des ans, l’un pour l’autre, comme deux frères. Le pacte d’autrefois semblait oublié. Ils étaient unis. D’une amitié profonde. Et silencieuse. "Je sais", avait dit [MASK].
+
+['je', "j'", 'il', '"', 'qui']	Sako	Tu te prépareras à la guerre. Pour que je n’aie plus aucune chance, ce jour-là, de reprendre ce qui me revient de droit. Alors, je le dis ici, devant vous tous, je n’attends pas, moi.” [MASK] était blême.
+
+['il', ',', "qu'", 'on', 'qui']	Liboko	[MASK] se battait sur son sol, pour défendre sa ville et l’ardeur qui l’animait semblait ne jamais devoir le quitter. Il frappait sans cesse. Eventrant les lignes ennemies de toute sa fureur. Les ennemis tombaient à la renverse sous la force de ses charges.
+
+['il', ',', ':', 'qui', 'que']	Souba	Cela attisa sa curiosité. Il interrogea son hôte : “Que se passe-t-il ? demanda-t-il. Pourquoi est-ce que toute la ville frémit d’une telle agitation ? — Il est revenu, répondit, peureusement, son hôte. — Qui ? demanda [MASK].
+
+['On', 'on', 'Il', 'il', 'Personne']	Souba	[MASK] ne pouvait plus en douter. Une terre qui n’était pas à l’échelle humaine. Infiniment plus belle et plus sauvage. Un lieu hors du monde. Il avait trouvé. Lorsqu’il se remit en selle, il sut que le voyage était fini.
+
+['famille', 'diamant', 'mariage', 'Jean', 'Charles']	Samilia	Tout ce qu'il avait entrepris ces derniers mois, il l'avait fait pour les noces de [MASK]. Ce jour était devenu son obsession de père et de roi. Que tout soit prêt. Que la fête soit la plus belle que l'empire ait jamais connue.
+
+['je', 'chacun', 'tout', 'il', 'tu']	Souba	Il contemplait ces femmes. Les larmes lui montèrent au visage mais il ne voulut pas pleurer. Il aurait aimé enlacer chacune d’entre elles en signe de reconnaissance. Elles étaient immobiles à nouveau. Attendant que [MASK] reprenne sa route pour marcher dans ses pas.
+
+[',', '</s>', 'il', 'et', "qu'"]	Souba	Mais un lieu comme cela, le royaume, certainement, n’en possédait pas. [MASK] se sentit harassé par l’ampleur de sa tâche. Pour la première fois, il lui semblait qu’il passerait peut-être sa vie entière à chercher et qu’il mourrait sans avoir trouvé.
+
+['France', 'son', "l'", 'la', 'roi']	Tsongor	Il avait construit six tombeaux de par le royaume et avait trouvé le septième. La dernière demeure de [MASK]. Il ne restait plus qu’à l’enterrer pour qu’il puisse enfin reposer en paix. Plus aucune rumeur, plus aucun bruit de bataille ne venait interrompre le sommeil épais du roi.
+
+['ses', 'sa', 'son', ',', 'et']	Samilia	Le roi Tsongor, ses quatre fils, [MASK], sa suite de femmes et l’ensemble de la cour attendaient dans la vaste salle des ambassadeurs. Ils ne voyaient rien, mais ils entendaient, au loin, le chant des cornes de zébu qui se rapprochait.
+
+['celui-ci', 'Pierre', 'Jean', 'il', 'Paul']	Tsongor	Mais sa voix était lointaine. Il dut se pencher sur le visage du mort pour entendre ce qu’il murmurait. “Ça y est, dit [MASK], ça y est, je les vois. Ils arrivent. Ils sont là.
+
+["l'", 'la', 'Dieu', 'son', 'ses']	Tsongor	Il voyait des ponts, des aqueducs et il savait que tout cela était l’œuvre de [MASK]. Mais plus il découvrait l'immensité du royaume, plus il prenait conscience de la force sauvage et implacable qu’il avait fallu pour imposer un tel pouvoir.
+
+['tous', 'tout', 'à', 'ses', 'son']	Tsongor	Mais le lendemain, il réapparut. Là. Sur la berge d’en face. On distinguait parfaitement sa silhouette sur son cheval écumant. Il hurlait de l’autre côté du fleuve. Il hurlait de toutes ses forces pour dire à tous ce qu’il avait à dire sur [MASK].
+
+['son', "l'", 'ses', 'sa', 'la']	Galash	Ce n’était pas le bruit du fleuve qui couvrait la voix de [MASK]. Durant toutes ces années, il avait hurlé de toutes ses forces. Jusqu’à se déchirer les cordes vocales. Il avait passé des dizaines d’années à s’époumoner dans la rage.
+
+['le', 'les', 'la', "l'", 'de']	Katabolonga	Le même mot répété à l’infini sortait des lèvres du mort avec toujours plus de force. Jusqu’à emplir la salle tout entière. Le même mot que le cadavre ne faisait que répéter avec les yeux fixés sur [MASK]. “Rends-la-moi... Rends-la-moi... Rends-la-moi...”
+
+['se', 'une', 'un', 'la', 'tous']	Souba	Elle avait retrouvé son visage de mère. Elle souriait devant ce jeune homme qui avait eu la force de l’écouter. Elle prit le voile puis fit signe à [MASK] de s’approcher et, tandis qu’elle l'embrassait sur le front, elle lui murmura :
+
+['Elle', 'elle', '"', 'Il', 'il']	Tsongor	Qu’a-t-elle eu de moi ? Des promesses de fête et la cendre des maisons saccagées. Samilia, c’est la part sacrifiée. Je ne voulais pas cela. Personne ne voulait. Mais tout le monde l’a oubliée.” [MASK] se tut.
+
+['cela', 'non', 'toi', 'moi', 'ça']	Samilia	Alors même qu’elle avait choisi ton camp, elle m’a abandonné son corps, une nuit, dans le campement. Je ne mens pas. Elle est là. Elle peut le dire. Est-ce vrai, [MASK] ?” Il y eut un silence de pierre.
+
+['tous', 'Napoléon', 'moi', 'toi', 'Saint-Louis']	Massaba	Je suis le dernier du vieux monde. Le temps du roi Tsongor et de [MASK] est révolu. Le temps de ma vie aussi. Je n’irai pas plus loin." Il s’accroupit devant le tombeau, comme un garde, prêt à bondir.
+
+['enfant', 'dit-il', ',', 'ami', 'fils']	Souba	C’est alors qu’elle se mit à parler avec une voix de caverne qui charriait toute une vie de peines et de douceur. “Ecoute-moi, [MASK], écoute bien ce que je vais te dire. Ecoute-moi comme un fils écoute sa mère.
+
+['moi', 'cela', 'vous', 'plus', 'moi-même']	Samilia	Ni l’époux que je lui avais promis, ni la vie à laquelle elle avait droit. Où est-elle aujourd’hui ? De [MASK], je ne sais rien. Elle était ma seule fille et n’a rien eu de moi.
+
+['elle', 'Elle', 'vie', 'qui', 'il']	Samilia	Même dans le deuil. Elle comprit qu’il était venu pour cela. Pour dire à tous que malgré cette mort, [MASK] lui était promise et qu’il attendrait ce qu’il faudrait attendre pour pouvoir la faire sienne. Et elle en fut reconnaissante à cet homme.
+
+['lui', 'celui-ci', 'je', 'tu', 'Mohamed']	Samilia	Il constata que [MASK] n’était pas là. Il constata qu’aucun des frères Tsongor n’était venu le saluer. Il constata que les gardiens de la porte étaient en armes et que tous les remparts de la ville bruissaient d’une activité frénétique.
+
+['Dieu', "l'", 'il', 'elle', 'lui']	Kouame	Il était beau. Les lèvres bien dessinées. Ce qu’il dit, elle ne l’entendit pas. Mais elle vit ses yeux qui la fixaient avec fièvre. Et elle comprit à ce regard, elle comprit que [MASK] la voulait encore. Même dans le deuil.
+
+['Il', 'il', 'Elle', 'et', ',']	Kouame	[MASK] l’écouta sans rien dire, le visage fermé. Il ne la quitta pas des yeux. Lorsqu’elle eut fini, il lui dit simplement : “Tu m’as donné la vie deux fois, mère. Le jour où tu accouchas de moi.
+
+["l'", 'elle', 'il', 'Elle', 'Il']	Samilia	Il construirait ce palais et peut-être, un jour, [MASK] entendrait-elle parler de ce lieu qui porterait son nom. C’était le seul espoir qu’il lui restait. Qu’elle en entende parler et vienne à lui. Il construirait un palais pour appeler sa sœur.
+
+['...', ',', 't-il', "l'", 'à']	Sako	Et plus ils regardaient, plus ils voyaient distinctement que c’était bien sur leurs ennemis que chargeaient les renforts. Les silhouettes, maintenant, se précisaient. “Mais... ce sont des femmes..., murmura [MASK], bouche bée.
+
+['Sire', 'Monsieur', 'Mais', 'Oui', 'Roi']	Katabolonga	Et le vieux roi était heureux de cette présence. “[MASK], dit-il à son ami, partout où je me tourne, je ne vois que la guerre. Cette journée devait être celle de la joie partagée. Je ne devais connaître que la douce amertume de voir partir ma fille.
+
+['de', 'grave', 'la', '"', 'le']	Katabolonga	Sans même que son fils le sache. La fidélité calme de [MASK]. Il ferma les yeux. Oui. Son ami devait avoir raison. Car le rire de son père ne résonnait plus sous son crâne. “Ce n’est pas possible. Cela doit cesser.”
+
+['la', "l'", 'mes', 'ma', ',']	Liboko	Car à chaque fois que nos troupes sont entrées dans la ville, ce ne fut pour moi que douleur et consternation. D’abord l’incendie où j’ai vu disparaître les tours de mon enfance. Puis la mort de [MASK].”
+
+['la', "l'", 'leurs', 'ses', 'leur']	Karavanath	Il avait toujours chargé avec rage, piétinant ses ennemis, faisant frémir, par ses cris, ceux qui l’affrontaient, avançant sans cesse avec fureur dans la forêt de pics que lui opposaient les crânes rouges de [MASK]’, avançant comme un démon, semant partout la panique et l’effroi.
+
+['dit-il', 'de', 'être', '"', 'me']	Rassamilagh	“De quoi aurais-je l'air, [MASK], si je partais. cette nuit, emportant comme un voleur la femme que je suis venu chercher ? Elle est la fille du roi Tsongor. Ce ne sont pas les sentiers nomades du désert que je veux lui offrir pour dot, mais sa ville reconquise.
+
+['et', 'il', 'de', 'qui', 'un']	Souba	On n’entendait que le bruit net des sabots sur les cailloux de la route. Les hommes et les femmes abandonnèrent leurs outils et s’avancèrent. Ils se pressèrent le long de la route pour voir passer le cavalier endeuillé. [MASK] de la main fit alors le geste sacré des rois.
+
+["l'", 'son', 'le', 'lui', 'la']	Tsongor	Il y avait en lui quelque chose de familier. L’inconnu leva les yeux sur [MASK]. Et sourit. Avec un sourire doux d’ami. Il garda le silence encore un temps comme pour laisser son interlocuteur s’habituer à sa présence, puis il parla.
+
+['-', '"', '...', "'", '_']	Kouame	— [MASK] ?” Elle était debout, les yeux écarquillés et la voix tremblante. Il fit un pas dans la tente pour ne pas risquer d���être vu de l’extérieur et enleva les voiles qui lui couvraient le visage.
+
+['A', '"', ',', 'L', ')']	Saramine	A [MASK]. Ton père ne t’a pas élevé pour que tu pleures. Il est temps que tu te défasses du deuil. Ne sois pas irrité par mes paroles. J’ai connu moi aussi, plus d’une fois, la douleur de la perte.
+
+['</s>', 'et', 'qui', ',', 'mais']	Tsongor	Et la sueur lui coulait du front. A ces gouttes de sueur se mêlaient des larmes qu'il ne parvenait pas à retenir. Elles tombaient sur le corps du vieux roi. Elles rafraîchissaient la dépouille du souverain. [MASK] à nouveau s'inquiéta de ce silence.
+
+['et', 'il', 'qui', 'Il', 'on']	Arkalas	Avec une fureur de hyène, il lui mangeait le visage. Il y faisait de grands trous à pleines dents. Le nez. Les joues. Il arrachait tout. La panique gagna les guerriers. [MASK] entraîna dans sa suite les deux armées.
+
+['eux', 'je', 'moi', 'comme', 'que']	Katabolonga	Je sais. Je ne leur en veux pas. Je ferais probablement comme eux si j’étais à leur place. Je viendrais moi aussi pleurer le père pour prendre la fille. C’est pour cela que je veux que tu leur parles, [MASK].
+
+['il', 'Il', ',', 'qui', 'Elle']	Souba	Un coup sourd retentit. Il l’avait frappée en pleine tête. Le rire cessa. Le corps tomba de tout son poids. Inerte. [MASK] n'entendait plus rien. Ne voyait plus rien. Il tenait serré le bâton entre ses mains. La colère était encore là.
+
+['lui', 'elle', 'moi', 'celui', 'Lui']	Kouame	Il s'adressa à [MASK] qui l'écoutait sans comprendre qui était cet homme, ce qu'il faisait ici et pourquoi il s'adressait à lui qui ne l'avait jamais vu. “Vous êtes... Oui bien sûr... vous êtes venu tout de suite... sans attendre.
+
+['je', 'elle', 'celle-ci', 'il', 'lui']	Shalamar	Puis il se tut à nouveau. Il s’attendait à ce que [MASK] donne immédiatement des ordres mais elle ne fit rien. Elle regardait la silhouette des tours et des terrasses qui se découpaient sur le bleu du ciel et de la mer mêlés.
+
+['il', 'Il', 'nul', 'jamais', 'lui']	Tsongor	Il était le souvenir voûté de ses années de guerre. En l’entourant de sa présence, il lui rappelait sans cesse ses crimes et le deuil. Et jamais, ainsi, [MASK] ne pouvait oublier ce qu’il avait fait durant ces vingt années de jeunesse.
+
+['Cach', 'Drap', 'Cou', 'Le', 'La']	Samilia	On aurait dit une statue. Immobile. Malgré la chaleur. Malgré les mouches qui tournaient autour de lui. Immobile. Happé par ses pensées. [MASK], sous ses voiles, se remémorait l’entretien qu’elle venait d’avoir avec son père, les mâchoires serrées.
+
+['il', 'un', 'le', 'chacun', 'et']	Sako	"Je suis venu chercher Samilia." Les fils du roi Tsongor se levèrent comme un seul homme. [MASK] était blanc de colère. “Sango, dit le fils aîné du roi, tu ferais mieux de quitter cette salle, car tu divagues et cela devient indécent.
+
+['suite', 'roi', 'la', 'ses', 'sa']	Katabolonga	Devant la future épouse et sa famille assemblée. Mais encore une fois le roi se plia à cette exigence inattendue. Et accompagné seulement de [MASK], il s’installa dans la salle du trône. L’homme qui se présenta à lui était grand.
+
+['Il', 'Elle', '</s>', 'il', 'elle']	Samilia	Demain commence une autre vie et je ne sais si vous y serez encore mes frères. Laissez-moi, tous, vous prendre dans mes bras. Pardonnez-moi si je pleure. C’est que je vous aime et que c’est la dernière fois.” [MASK] n’acheva pas sa phrase.
+
+['celui', 'celle', 'ce', 'sang', 'savoir']	Kouame	Le long de ses cuisses, de longs tremblements humides venaient étancher la soif de [MASK] qui restait penché sur elle, la tête enfouie dans ses cheveux. Il lava son âme des blessures du combat. Il s’enivra, une dernière fois, de l’odeur de la vie.
+
+['en', ';', 'et', ',', 'la']	Massaba	Lui qui rêvait d’une tout autre vie. Lui qui, tant de fois, avait voulu renoncer aux sept tombeaux pour aller secourir [MASK]. Ces questions l'avaient souvent agité et jamais il n'avait su y répondre. Il avait vieilli.
+
+['Dieu', '...', 'roi', 'Zeus', 'David']	Tsongor	Je suis le fils de [MASK]. Je cherche, parmi l’immense royaume de mon père, un lieu où l’enterrer. Un endroit où la terre l’attend. Je cherche et ne trouve pas.” L’oracle d’abord ne répondit rien.
+
+['-', ':', '"', 'le', ',']	Rassamilagh	Cette ville est à nous. Il n'y a pas de victoire si nous ne parvenons pas à la prendre. —J'ai dit ce que j'avais à dire et je ne regrette pas d'avoir parlé, répondit [MASK]. Aucun de vos arguments ne me convainc.
+
+[',', 'se', 'ça', 'de', 'et']	Kouame	Ils n’avaient plus envie de rien d’autre que de cette mort qui les soulagerait de leur épuisement. [MASK] crachait, hurlait et tapait du poing contre les murailles en criant : “Mais qu’ils viennent, qu’ils viennent et qu’on en finisse !”
+
+['là', ',', '-', '...', 'ici']	Katabolonga	Devant toi. Je suis là. Au milieu de tous tes hommes réunis. Je veux te dire cela. Je suis [MASK] et je te tuerai. Car par ma hutte piétinée, par mes femmes tuées, par mon pays brûlé, ta mort m’appartient.”
+
+['elle', 'lui', 'eux', 'Lui', 'Elle']	Kouame	Mais lorsqu’elle le voyait, elle savait qu’elle appartenait à [MASK]. Malgré elle. Malgré la guerre qui ne permettrait jamais leur union. C’était ainsi. Elle ne bougeait pas. Il s'approcha d’elle. Elle pouvait sentir son souffle sur sa poitrine.
+
+['"', 'qui', ',', 'accorde', 'ore']	Souba	Nous ne nous opposerons ni à ta volonté ni à celle du roi Tsongor. Nous te laissons là. A ton destin. Mais accepte sans protester nos offrandes.” [MASK] acquiesça. Alors, lentement, les femmes, une à une, se mirent à se couper les cheveux.
+
+['il', 'Il', 'Elle', 'elle', 'en']	Galash	Il voyait, au fur et à mesure qu'il avançait, la silhouette du cavalier muet grandir. Il le distinguait parfaitement maintenant mais n’entendait toujours rien. Il avança encore. La mule, enfin, eut pied à nouveau. [MASK] était là.
+
+[',', 'il', 'Il', 'et', '</s>']	Arkalas	Tout était perdu. Il n’y avait plus rien à faire. Des hurlements de joie leur parvinrent de là-bas et achevèrent de leur apporter la désolation. [MASK], surtout, faisait peine à voir. Il déambulait sur les remparts, en murmurant le nom des siens.
+
+['il', 'on', 'et', 'Il', 'elle']	Galash	Ses rides profondes disaient tout de ces années interminables d'exil. La façon qu’il avait de se tordre les lèvres, les expressions qui passaient sur sa face, tout cela traduisait les souffrances et les peurs, la sauvagerie et la solitude. [MASK] pleurait.
+
+['lentement', 'puis', 'enfin', 'le', 'tout']	Samilia	En un instant, des dizaines d’hommes se pressèrent autour d’eux et ils durent livrer bataille. Assaillis à nouveau de toutes parts. Incapables de se soustraire aux mâchoires de la guerre. Et [MASK], lentement, disparut derrière la dernière colline. La bataille dura toute la journée.
+
+['son', 'sa', 'la', 'le', "l'"]	Kouame	Donna l’ordre que l’on prépare ses affaires et que sa garde personnelle se tienne prête au départ dans le plus grand secret. Lorsqu’il eut donné ses ordres, il chercha sa sœur pour lui dire adieu. Il la trouva à l’instant même où elle venait de quitter [MASK].
+
+['moi', 'seul', 'seule', ',', 'toi']	Katabolonga	Je te garderai à mes côtés. Tu veilleras sur moi. Le jour où tu voudras reprendre ce qui t’appartient, le jour où tu voudras ta vengeance, je ne me battrai pas. Tu me tueras, [MASK], quand tu le voudras. Demain.
+
+['passé', 'tombé', 'le', 'là', 'un']	Arkalas	Sur son chemin était [MASK], le chef des chiennes de guerre. Il eut à peine le temps de distinguer son ennemi. Tout juste entendit-il un cliquetis de bijoux et des hurlements de jubilation qui fondaient sur lui.
+
+['celui', 'celle', 'Ulrich', ',', 'celui-ci']	Kouame	“Vous êtes... Oui bien sûr... vous êtes venu tout de suite... sans attendre. Pas même un jour. Non... Un jour, c'eût été trop long... Oui... — Qui êtes-vous ? demanda calmement [MASK] qui ne comprenait pas ce qu'il se passait.
+
+['-', 'S', 'E', '--', '/']	Katabolonga	Elle est là. — Je n'ai rien réussi, [MASK]. C’est ma punition qui vient maintenant. Chaque jour. Chaque jour je verrai venir à moi les guerriers tombés sur le champ de bataille. Je les contemplerai pour essayer de les reconnaître. Je les compterai
+
+['il', ',', 'Il', 'et', 'mais']	Souba	Seul [MASK] ne se coucha pas. Il déambula encore un peu dans les couloirs silencieux. Il voulait saluer une dernière fois le vieux palais. Revoir les salles où il avait grandi. Caresser de ses mains la pierre des couloirs et le bois des meubles familiers.
+
+['me', '"', 'le', 'te', 'en']	Katabolonga	Le seul à pouvoir faire cela. Il ne s’agit plus de me tuer. Je l’ai fait pour toi. Il s’agit de m’épargner ce nouveau jour qui se lève et dont je ne veux pas. Aide-moi." [MASK] pleurait toujours.
+
+['de', 'à', 'ses', 'tout', ',']	Massaba	Qu’ils la chérissent jalousement. Pour les autres, qu’ils se préparent à entrer dans la dernière mêlée. Il n’y aura plus de répit. Nous nous battrons jour et nuit. Nous nous battrons en oubliant [MASK] et ses trésors. Nous nous battrons pour nous venger.
+
+['qui', 'il', ',', "c'", 'Il']	Katabolonga	[MASK] était l’un d’eux. Un des derniers, probablement, à être encore en vie lorsque le roi fut sur le point d’achever ses conquêtes. Sa hutte, comme celle de tant d’autres, avait été mise à bas. Ses femmes violées et assassinées.
+
+['Paris', 'palais', 'pierre', 'granit', 'briques']	Massaba	Lorsqu’ils tuaient un adversaire, ils lui murmuraient à l’oreille : “Regarde, lâche, c’est une femme qui te tue." On entendait jusqu'aux murailles de [MASK] les rires nerveux de ces travestis qui portaient le glaive et se léchaient les lèvres du sang qu’ils feraient bientôt couler.
+
+['Il', 'il', 'qui', 'Elle', 'on']	Katabolonga	[MASK] était là. Assis au pied du cadavre. Et personne ne songeait à lui demander quoi que ce soit. On l’avait trouvé avec le roi sur la terrasse. Il avait un couteau baigné de sang à la main. On l’avait trouvé comme un assassin.
+
+['le', "l'", 'celui-ci', 'Ali', 'S']	Kouame	Nous nous battrons pour nous venger. — Ce que tu dis est juste, Sango Kerim, répondit [MASK]. La guerre ne va pas au-delà d’aujourd’hui. Ce qui va naître ensuite, c’est le carnage des enragés.
+
+['il', 'Il', 'elle', 'puis', 'et']	Tsongor	Il resta silencieux et [MASK] continua : “Le rire de mon père. Je l’entends sans cesse résonner dans mon esprit. Avec les mêmes intonations que le dernier jour où je le vis. Il était sur son lit.
+
+["l'", 'le', 'les', 'un', 'la']	Bandiagara	Ils étaient innombrables. On eût dit une eau humaine qui coulait le long des pentes. Arrivés au milieu de la plaine, ils s’immobilisèrent et se rangèrent tous par clans, pour attendre l’ennemi. Il y avait là l’armée des ombres blanches que commandait [MASK].
+
+['toi', 'homme', 'ton', 'ta', 'tu']	Tsongor	La bouche déformée de mes ennemis entassés sur les champs de bataille me le demandait. «Qu’as-tu fait, [MASK] ?» Je t’écoutais et n'entendais plus que cela. J’avais honte. J’aurais pu me mettre à genoux devant toi.
+
+['qui', 'il', 'et', 'mais', 'Il']	Katabolonga	Il était nu. Ebouriffé. Les yeux rougis par le soleil. Face à lui, le roi Tsongor semblait un enfant chétif. “Que veux-tu ?” demanda le souverain. [MASK] ne répondit pas. Comme s'il n'avait pas entendu la question.
+
+['les', 'était', 'le', 'la', 'bon']	Tsongor	Un tombeau pour chacun d’entre eux. Aux quatre coins du royaume. Et les sept tombeaux réunis diraient ce qu'était [MASK]. Il lui restait cela à faire. Trouver le lieu et la forme que devaient prendre les autres visages.
+

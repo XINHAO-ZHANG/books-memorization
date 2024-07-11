@@ -1,0 +1,200 @@
+["c'", "--c'", 'il', 'monsieur', 'jules']	Bianchon	Ah ! madame, vous me flattez, [MASK] est un grand homme ; mais moi, je suis trop obscur !… Dans vingt ans d’ici, mon nom serait plus difficile à expliquer que celui de monsieur le Procureur du Roi dont la pensée inscrite sur votre album indiquera certainement un Montesquieu méconnu.
+
+['le', 'la', ',', '"', '.']	Lousteau	– Absolu, répéta [MASK]. Voyons ? Je suis entraîné dans une partie de garçon, je retrouve une de mes anciennes maîtresses, elle se moque de moi ; par vanité, je fais l’homme libre, et je ne rentre que le lendemain matin ici…
+
+['t-il', 'olivier', 'il', 'gabriel', 'elle']	Lousteau	Il y a, mon ange, s’écria [MASK], que nous sommes indissolublement unis… On vient de m’apporter une réponse verbale à la lettre que tu m’as vu écrire et par laquelle je rompais mon mariage…– C’est là cette partie dont tu te dégageais ?
+
+['bien', 'quelques-uns', 'peut-être', 'certains', ',']	Lousteau	Dans cette intimité complète, où chacun dépose son masque, la jeune femme conserva de la pudeur, montra sa probité virile et cette force particulière aux ambitieux qui faisait la base de son caractère. Aussi [MASK] conçut-il pour elle une involontaire estime.
+
+['celui-ci', 'balzac', 'zola', 'chateaubriand', 'lui-même']	Didine	Cette perspicacité chez un homme épris était un effort surhumain. Il devina que [MASK] voulait se faire le bon génie du journaliste, le mettre dans une noble voie ; elle avait conclu des difficultés de la vie matérielle à quelque désordre moral.
+
+['celui', 'celle', ',', 'jean', 'jeanne']	Lousteau	mais j’espère avoir de mon bien-aimé deux lignes chaque semaine pour me tranquilliser… » – Quel dommage de brûler cela ! c’est crânement écrit, se dit [MASK] qui jeta les dix feuillets au feu après les avoir lus. Cette femme est née pour faire de la copie.
+
+['celui', 'celle', 'dieu', 'bernadette', 'monseigneur']	Dinah	Le spirituel curé se prêtait assez bien à l’hypocrisie de ses complices, il résistait, il s’écriait : – Nous perdrions trop à ne pas écouter notre belle inspirée ! Et il stimulait la générosité de [MASK] qui finissait par avoir pitié de son cher curé.
+
+['maman', 'julie', 'sophie', 'voir', 'anna']	Dinah	Mais si je reste c’est à cause du certificat d’innocence instruite que tu donnes à [MASK] ! Elle est belle, n’est-ce pas ?– Elle deviendra charmante en aimant, dit le médecin. Puis, après tout, ce sera un jour ou l’autre une riche veuve !
+
+['jacques', 'robert', 'maurice', 'rodolphe', 'paul']	Lousteau	?– Cela me semble difficile, répondit [MASK]. Je crois à l’amour, mais je ne crois plus à la femme… Il y a sans doute en moi des défauts qui m’empêchent d’être aimé, car j’ai souvent été quitté.
+
+['jeanne', 'elle', 'sophie', 'marguerite', 'alice']	Lousteau	Une fois mère, elle reprendra de l’embonpoint, les rides s’effaceront, elle paraîtra n’avoir que vingt ans…– Eh ! bien, fit [MASK] en se roulant dans ses draps, si tu veux m’aider, demain, oui, demain, je… Enfin, bonsoir.
+
+['le', 'son', 'lui-même', 'rousseau', 'quiconque']	Lousteau	Ce billet prouve que [MASK] manque de cœur, de bon goût, de dignité, qu’il ne connaît ni le monde, ni la morale publique, qu’il s’insulte lui-même quand il ne sait plus qui insulter…
+
+['cela', 'femme', 'elle', 'abord', 'femmes']	Dinah	Jouant, dans son ménage, le rôle de la femme, il en eut les féroces exigences : il reprochait à [MASK] le peu de fraîcheur de sa mise, tout en profitant de ce sacrifice qui coûte tant à une maîtresse ;
+
+['la', 'vénus', "l'", 'celle-ci', 'une']	Dinah	! En effet, [MASK], grande elle-même, devait être plus accessible à l’esprit qu’à la grandeur. L’amour préfère ordinairement les contrastes aux similitudes. La franchise et la bonhomie du docteur, sa profession, tout le desservait.
+
+['"', ':', ')', '.', ',']	Lousteau	– Il n’y a plus que les femmes de province qui portent des robes d’organdi, la seule étoffe dont le chiffonnage ne peut pas s’effacer, se dit alors en lui-même [MASK]. Cette femme, qui m’a choisi pour amant, va faire des façons à cause de sa robe.
+
+['que', 'enfin', ',', '"', 'et']	Lousteau	Alors il lui échappa un sourd rugissement d’hyène…– Hé ! bien, nous croyions avoir récemment inventé les cris de hyène ? dit [MASK], la littérature de l’Empire les connaissait déjà, les mettait même en scène avec un certain talent d’histoire naturelle ;
+
+['il', 'elle', '-', 'on', '</s>']	Dinah	Puis la réflexion vint. [MASK] frémit de honte à l’idée d’avoir exploité quelques-unes de ses douleurs.– Ne faites plus rien, lui dit l’abbé Duret, vous ne seriez plus une femme, vous seriez un poète.
+
+['qui', 'celui-ci', 'aussi', 'carnot', 'lui-même']	Bianchon	Mais [MASK], au grand contentement du nouveau Sous-Préfet, fit observer qu’il lui paraissait presque impossible d’abandonner la science pour la politique. – Il n’y a, dit-il, que des médecins sans clientèle qui puissent se faire nommer députés.
+
+['monsieur', 'georges', 'maurice', 'charles', 'jean']	Lousteau	dit-elle en mettant le billet dans son corsage.Elle eut la force de cacher son trouble et pria sa mère de coucher les enfants. Elle fit alors dire à [MASK] de venir, et elle le reçut dans un boudoir attenant à son grand salon, les portes ouvertes.
+
+['elle', '</s>', 'ce', 'qui', 'et']	Lousteau	En un mois, la châtelaine changea complétement. Elle fut étonnée de retrouver tant de facultés inertes, endormies, inutiles jusqu’alors. [MASK] fut un ange pour elle, car l’amour de cœur, ce besoin réel des âmes grandes, faisait d’elle une femme entièrement nouvelle.
+
+['mais', '...', 'monsieur', 'comment', 'qui']	Lousteau	? mais elle aura le bonheur aussi ennuyeux que le malheur, elle déploiera plus de talent à éviter la grâce que la Parisienne n’en met à l’inventer. Écoute, [MASK] ? que la passion te fasse oublier en quel temps nous vivons, je le conçois ;
+
+['vous', 'en', '...', '(', 'soit']	Lousteau	… Oh ! il y a long-temps que je ne me suis senti tant de joie au cœur…[MASK] prit la main, l’attira sur son cœur et la pressa tendrement.– Une goutte d’eau dans le désert, et… par la main d’un ange
+
+['il', ',', '</s>', '.il', 'elle']	Lousteau	[MASK] regarda les deux femmes, deux vraies pagodes indiennes, et put tenir son sérieux. Il jugea nécessaire de s’écrier : Attention ! en reprenant ainsi :robe frôla dans le silence. Tout à coup le cardinal Borborigano parut aux yeux de la duchesse.
+
+['tous', 'tout', 'toute', 'toutes', 'la']	Dinah	Elle est là…– Pardon, pourquoi ne pas me l’avoir dit plus tôt… tu es majeur… et elle aussi, fit-il d’un ton plus bas mais assez haut cependant pour être entendu de [MASK]. Elle te fera joliment repentir de son bonheur…
+
+['la', 'l', "l'", 'son', 'un']	Didine	la mère cédait avec une honteuse facilité la place à [MASK]. Elle se sentit comme un jouet entre les mains de cet homme, et elle finit par se dire : – Eh ! bien, je veux être son jouet ! en y trouvant des plaisirs aigus, des jouissances de damné.
+
+[',', 'on', '-', ':', ')']	Dinah	[MASK] vivait ! elle trouvait l’emploi de ses forces, elle découvrait des perspectives inattendues dans son avenir, elle était heureuse enfin, heureuse sans soucis, sans entraves. Cet immense château, les jardins, le parc, la forêt étaient si favorables à l’amour !
+
+['elle', 'il', 'maurice', 'marguerite', 'georges']	Lousteau	– Nous étions si gais en partant, dit [MASK], vous voilà souffrante, et vous me parlez avec amertume, et pourquoi ?… N’êtes-vous donc pas accoutumée à vous entendre dire que vous êtes belle et spirituelle ?
+
+['-', 'et', 'mais', '--', ',']	Rinaldo	dit l’inconnu.– Si je quitte cette place, je ne saurai plus la retrouver ! pensa [MASK] quand il reprit son sang-froid accoutumé. Frapper, je serai reconnu : que faire ?– Qui donc est là ? demanda la voix.– Hein !
+
+['gagner', 'recevoir', 'payer', 'donner', 'prêter']	Lousteau	Elle haïssait le libraire ou le directeur de journal qui refusait à [MASK] de l’argent en objectant l’énormité des avances déjà faites. Elle allait jusqu’à comprendre que ce bohémien écrivît une Nouvelle dont le prix était à recevoir, au lieu de la donner en paiement de l’argent reçu depuis longtemps.
+
+['</s>', '_', '"', '-', 'elle']	Dinah	! quand vous en sortez. [MASK] fut donc obligée de ramasser les guides jusqu’alors assez flottantes de la domination que toutes les femmes spirituelles exercent sur les gens sans volonté. Mais à cette manœuvre elle perdit beaucoup de son lustre moral.
+
+['l', "l'", 'la', '"', 'la']	Lousteau	L’abus du cigare entretenait la paresse de [MASK]. Si le tabac endort le chagrin, il engourdit infailliblement l’énergie. Tout ce que le cigare éteignait au physique, la Critique l’annihilait au moral chez ce garçon si facile au plaisir.
+
+[',', 'et', ':', 'les', 'par']	Lousteau.–	Que viens-tu faire ici ? s’écria-t-il.Le vous n’était pas possible avec une femme à renvoyer.– Eh ! mon amour, s’écria-t-elle, n’as-tu donc pas lu mes lettres ?…– Si, répondit [MASK]
+
+['alors', 'ensuite', 'froidement', 'aussitôt', 'm.']	Lousteau	Comment, demanda [MASK] le mystificateur, une femme aussi belle que vous l’êtes et qui paraît si supérieure, a-t-elle pu rester en province ? Comment faites-vous pour résister à cette vie ?– Ah ! voilà, dit la châtelaine. On n’y résiste pas.
+
+['on', 'il', 'elle', 'dieu', 'qui']	Dinah	; mais les femmes ne sont pas disposées à reconnaître une force à des êtres faibles, et la haine est une trop constante action pour ne pas être une force vive. En trouvant son mari profondément indifférent en amour, [MASK] lui refusait la faculté de haïr.
+
+['à', 'a', 'al', 'aile', 'hu']	Atocha	Au petit jour je me trouvai près de ma porte et l’Espagnol s’enfuit en se dirigeant vers la porte d’[MASK]. – Et vous n’avez rien aperçu qui puisse vous faire soupçonner à quelle femme vous aviez affaire ? dit le colonel au chirurgien.
+
+[',', ':', 'oui', 'non', 'ce']	Bixiou	Oh, vieux jeune homme, répondit [MASK], tu sens le fer de l’opérateur à ta plaie. Tu t’es épuisé, n’est-ce pas ? Eh ! bien, dans le feu de la jeunesse, sous la pression de la misère, qu’as-tu gagné
+
+['1', '4', 'mr', '14', '23']	Beauvoir	– Où est-elle ? demanda [MASK]. – La voici, répondit le guichetier en lui jetant une corde à nœuds. Elle a été fabriquée avec du linge afin de faire supposer que vous l’avez confectionnée vous-même, et elle est de longueur suffisante.
+
+['homme', 'cerveau', 'esprit', 'génie', 'vieillard']	Lamberti	des brigands, une caverne, un [MASK] qui sait calculer… Je vois tout un vaudeville dans cette page. Ajoutez à ces premiers éléments un bout d’intrigue, une jeune paysanne à chevelure relevée, à jupes courtes, et une centaine de couplets détestables…
+
+['</s>', 'elle', 'ce', 'la', 'cette']	Olympia	!– À moins d’être placé entre l’huître et le sous-chef de bureau, les deux créations les plus voisines du marbre dans le règne zoologique, il est impossible de ne pas reconnaître dans [MASK], dit Bianchon.– Une femme de trente ans !
+
+['elle', 'il', 'alice', 'paul', 'natacha']	Lousteau	Pourquoi, dit [MASK], ne pas finir comme nous aurions dû commencer, cacher à tous les yeux notre amour, et nous voir secrètement ?– Jamais ! dit la nouvelle comtesse en prenant un air glacial. Ne devinez-vous pas que nous sommes, après tout, des êtres finis.
+
+[',', 'à', "qu'", 'un', 'en']	Étienne	: ma mère y est, la seule circonstance qui, pour lui, fût possible, et il entra. La future et la belle-mère, alors dans la chambre à coucher, se tapirent dans un coin en voyant [MASK] avec une femme.–
+
+['dieu', 'fer', 'quoi', 'maître', 'gauche']	Dinah	; elle ne put cacher sa préoccupation, elle fut un peu provinciale, elle étala son mouchoir, elle fit convulsivement des gestes qu’elle s’était interdits. Enfin, dans l’entr’acte du second au troisième acte, un homme se fit ouvrir la loge de [MASK] !
+
+['.', ':', 'de', 'avec', ',']	Lousteau.–	Puis, après tout, ce sera un jour ou l’autre une riche veuve ! Et un enfant lui vaudrait la jouissance de la fortune du sire de La Baudraye…– Mais c’est une bonne action que de l’aimer, cette femme, s’écria [MASK]
+
+['présent', 'dieu', 'nouveau', 'maman', 'voir']	Bianchon	Vous excuserez le cynisme d’un vieux drôle comme moi. Demandez à [MASK], je n’ai plus d’illusions, je dis les choses comme elles sont. Cette femme a bien certainement fait sécher sa mère comme une perdrix exposée à un trop grand feu…
+
+['couleur', 'lisière', 'rose', 'fraise', 'chaux']	Robin	Comment, madame, vous ne voulez pas que nous le disions heureux d’avoir une jolie femme, heureux de ce qu’elle lui fait de si charmantes choses sur ses corbeilles à papier ? Le dessin est rouge et noir, à la [MASK] des bois.
+
+['</s>', 'ne', 'jésus', 'dieu', 'pénélope']	Dinah	; les adorateurs de [MASK] se contentaient donc de l’accabler de petits soins, ils la comblaient de services, d’attentions, heureux d’être pris pour les chevaliers d’honneur de cette reine par les gens présentés qui passaient une ou deux soirées à La Baudraye.–
+
+['seigneur', 'moi', 'maman', 'toi', 'roméo']	Rinaldo	– Écoute-moi, [MASK] ! Je ne te parlerai pas du désir de vengeance qui me ronge le cœur : je suis là depuis trente mois – tu es Italien – tume comprendras ! Ah ! mon ami, ma fatigue et mon épouvantable captivité ne sont rien en comparaison du mal qui me ronge le cœur.
+
+['énergie', 'information', 'affaires', 'au', 'entreprise']	Anzy	Lorsque, dans une situation où son orgueil est blessé si cruellement, une femme a ri, tout est compromis. Quand on entra dans l’immense cour sablée et ornée de son boulingrin à corbeilles de fleurs qui fait si bien valoir la façade d’[MASK], le journaliste disait
+
+['--', '</s>', 'elle', '--il', 'on']	Dinah	, à quoi bon tes remords ?[MASK] plaida pour obtenir un jour de plus, et les deux amants se firent leurs adieux à la manière de ces théâtres qui donnent dix fois de suite la dernière représentation d’une pièce à recettes. Mais combien de promesses échangées !
+
+['être', 'un', 'éprouver', 'avoir', 'homme']	Étienne	Enfin, elle fit deux livres qui eurent du succès. Plus d’une fois elle sauva l’amour-propre d’[MASK] au désespoir de se sentir sans idées, en lui dictant, lui corrigeant, ou lui finissant ses feuilletons.
+
+['le', 'lui', 'napoléon', 'lorenzo', 'lui-même']	Adolphe	La duchesse de Bracciano retrouva son gant. Certes, [MASK], qui l’avait ramenée au bosquet d’orangers, put croire qu’il y avait de la coquetterie dans cet oubli ; car alors le bosquet était désert. Le bruit de la fête retentissait vaguement au loin.
+
+['maurice', 'il', 'catherine', 'georges', 'alice']	Rinaldo	Nous n’avons guère de temps, va vite… Ah ! si mes dents étaient des limes… J’ai essayé de mâcher ce fer…– Excellence, dit [MASK] en écoutant les dernières paroles du duc, j’ai déjà scié un barreau.– Tu es un dieu !
+
+['juliette', 'catherine', 'marguerite', 'valentine', 'jeanne']	Lousteau	Et il eut des larmes dans les yeux, lui qui venait de faire condamner un homme à mort ! La satiété de [MASK], cet horrible dénoûment du concubinage, s’était trahie en mille petites choses qui sont comme des grains de sable jetés aux vitres du pavillon magique où l’on rêve quand on aime.
+
+['maman', 'elle', 'sophie', 'henriette', 'alice']	Dinah	… s’écria le Procureur du Roi d’un ton défiant.– Oh ! mon Dieu, oui, tout en chassant, mais cela ne se voit que trop ! J’aurais voulu faire mieux pour madame.– Ces vers sont ravissants, fit [MASK] en levant les yeux au ciel.
+
+['toi', 'moi', 'lui', 'elle', 'amour']	Florine	J’ai quarante-deux ans, je suis devenu paresseux comme une marmotte. Je le sens : mon amour (il lui baisa bien tendrement la main) ne peut que te devenir funeste. J’ai vécu, tu le sais, à vingt-deux ans avec [MASK] ;
+
+[',', 'il', 'et', ';', 'qui']	Lousteau	[MASK] dînait et déjeunait, fumait comme s’il était riche. Il n’eût pas, pour une succession, manqué d’acheter les cigares les plus chers, pour lui, comme pour le dramaturge ou le prosateur avec lesquels il entrait dans un Débit.
+
+['il', 'et', 'qui', 'on', 'chacun']	Lousteau	Pour se servir d’une expression commerciale, les comptes se balançaient à la rigueur. Eu égard à son peu de fortune, à la peine avec laquelle il gagnait son argent, [MASK] se regardait moralement comme le créancier. Assurément, l’heure était favorable pour quitter cette femme.
+
+['voltaire', 'pascal', 'm', 'chateaubriand', 'paris']	Dinah	Quelle pouvait être l’arrière-pensée de ce vigneron, en se mariant à quarante-quatre ans avec une jeune fille de dix-sept ans, et quel parti sa femme pouvait-elle tirer de lui ? Tel fut le premier texte des méditations de [MASK].
+
+['dieu', 'lui', 'se', 'je', 'il']	Dinah	mais comme s’il eût été jeune, beau, compromettant, il se mettait à distance en homme qui devait cacher son bonheur. Il essayait de couvrir du plus profond secret ses petits soins, ses légers cadeaux que [MASK] montrait au grand jour.
+
+['chateaubriand', 'voltaire', 'byron', 'balzac', 'paon']	Lousteau	mais elle le justifiait en se disant : – C’est un poète ! tant elle avait besoin de se justifier à ses propres yeux. En devinant ce secret de la vie littéraire de bien des gens, elle devina que la plume de [MASK] ne serait jamais une ressource.
+
+['fort', 'placés', 'payé', 'nés', 'placé']	Lousteau	mais je ne les trouve pas trop chèrement payés !… Et je ne me suis jamais plaint !… Que les femmes trahissent le secret de leur passion, c’est leur dernière offrande à l’amour ; mais que ce soit nous… il faut être bien [MASK] pour ça !
+
+['</s>', 'de', ',', 'et', '.']	Dinah	[MASK] ne répondant pas, le magistrat répéta sa question en prenant la main de la comtesse et la lui serrant entre les siennes d’un air dévot.– Voulez-vous la main droite ou la main gauche ? répondit-elle en souriant.–
+
+['.', 'le', 'il', 'robert', 'elle']	Lousteau	Oh ! les noms y sont, dit Lousteau.– Eh ! bien, la suite ? dirent ceux des auditeurs qui comprenaient.– Mais le chapitre est fini, répondit [MASK]. La circonstance de la vignette change totalement mes opinions sur l’auteur.
+
+['personnes', 'parents', 'celui-ci', 'ceux', 'celui']	Lousteau	L’amour lui fit alors entreprendre des démarches auxquelles elle ne serait jamais descendue pour elle-même. Elle entama par sa mère des négociations avec son mari pour en obtenir une pension, mais à l’insu de [MASK] dont la délicatesse devait, dans ses idées, être ménagée.
+
+[',', 'de', 'et', 'le', 'est']	Lousteau	La dévote a fait une scène… une scène sterling ! Enfin, le premier clerc actuel, qui était second premier clerc depuis deux ans, accepte la fille et l’Étude.– Le lâche ! s’écria [MASK]. Comment, en deux heures, il a pu se décider.–
+
+['elle', '</s>', 'il', 'on', 'celle-ci']	Dinah	Et le nain eut, comme toujours, raison de sa femme. [MASK] comprit qu’elle avait eu tort d’écrire : elle se promit de ne jamais faire un vers, et se tint parole. Aussi fut-ceErreur du Furne : « fût-ce » au lieu de « fut-ce ».
+
+["c'", 'celui-là', "--c'", 'il', '</s>']	Adolphe	mais ceux-là, ma chère, on les quitte… [MASK] est un fils de bonne maison, un cœur aristocrate qui veut rentrer dans la voie des honneurs, et rattraper sa dot sociale, sa considération compromise. Vous jouez en ce moment à la fois les deux personnages.
+
+['ami', 'oui', 'seigneur', 'toi', 'frère']	Étienne	nous compterons quand nous nous quitterons, et… tu sais !… la mort seule nous séparera. Ton honneur, [MASK], c’est ma félicité ; comme le mien est ma constance et ton bonheur. Si je ne te rends pas heureux, tout est dit.
+
+['lui', 'moi', 'celui', 'toi', 'celui-là']	Fouché	Elle avait des idées, mais elle ne les exprimait pas, la dédaigneuse ! elle observait, mais elle ne faisait part de ses observations à personne, l’avare ! il n’y avait que [MASK] qui fît part de ses observations à quelqu’un.
+
+['la', 'de', 'elle', 'sa', 'cette']	Dinah	[MASK], dont la taille était svelte, la fit valoir à outrance et ne s’aperçut point du moment où elle devint ridicule, où, l’ennui l’ayant maigrie, elle parut être un squelette habillé ; ses amis, en la voyant tous les jours, ne remarquaient point les changements insensibles de sa personne.
+
+['il', '</s>', 'le', '"', 'tout']	Beauvoir	; mais toujours est-il constant que le commandant se crut en droit d’exercer des rigueurs extraordinaires sur son prisonnier. [MASK], mis au donjon, fut nourri de pain noir, abreuvé d’eau claire, et enchaîné suivant le perpétuel programme des divertissements prodigués aux captifs.
+
+['le', '</s>', 'mais', 'ce', '"']	Beauvoir	– Hein ? ajouta-t-il d’un air de triomphe après un moment de silence en regardant son prisonnier. [MASK], se voyant incarcéré fort et ferme, ne crut pas que sa position pût empirer par l’aveu de son véritable nom.
+
+['jeunesse', 'volonté', 'réflexion', 'régénération', 'sensibilité']	Dinah	Aucune des précieuses facultés de [MASK] ne put donc se développer, elle dévora les blessures faites à son orgueil constamment opprimé par son mari qui se promenait si paisiblement et en comparse sur la scène de sa vie. Obligée d’enterrer les trésors de son amour, elle ne livra que des dehors à sa société.
+
+['toi', 'moi', 'donc', 'le', 'lui']	Rinaldo	Mais qui es-tu, toi ?– Je suis [MASK], le prince de la campagne, le chef de quatre-vingts braves que les lois nomment à tort des scélérats, que toutes les dames admirent et que les juges pendent par une vieille habitude.– Dieu soit loué !…
+
+['</s>', 'elle', 'il', '-', 'chacun']	Dinah	; mais, au fond de son cœur, elle sait que ses vœux poursuivent un lieu commun plus ou moins bien vêtu. [MASK] fut préservée de ce danger par l’idée qu’on lui avait donnée de sa supériorité.
+
+['qui', 'je', 'et', 'elle', 'on']	Lousteau	Au grand désespoir de l’assemblée, [MASK] reprit la lecture de la bonne feuille.Alors je voulus m’assurer de mon malheur, afin de pouvoir me venger sous l’aile de la Providence et de la Loi. La duchesse avait deviné mes projets.
+
+['monsieur', 'madame', 'monseigneur', 'demain', 'service']	Lousteau	votre délicatesse, à vous, monsieur, est au-dessus de la gaminerie de [MASK] ; mais je serais mort avant d’avoir prononcé son nom… Quelques mois de ses gentillesses et de minauderies m’ont coûté cent mille francs et mon avenir ; mais je ne les trouve pas trop chèrement payés !
+
+['robespierre', 'qui', 'lebrun', 'ils', 'il']	Anytus	Pilate et [MASK] étaient alors aussi logiques que les procureurs-généraux qui demandaient la tête des sergents de la Rochelle et qui font tomber aujourd’hui la tête des républicains armés contre le trône de juillet, et celles des novateurs dont le but est de renverser à leur profit les sociétés sous prétexte de les mieux organiser.
+
+['elle', 'et', 're', 'qui', 'elle-même']	Dinah	Comme elle n’avait sous les yeux aucun terme de comparaison, [MASK] tomba dans les piéges tendus aux femmes de province. Si une Parisienne n’a pas les hanches assez bien dessinées, son esprit inventif et l’envie de plaire lui font trouver quelque remède héroïque ;
+
+['tête', 'parole', 'prière', 'plus', 'mots']	Lousteau	Non ! mon silence ne sera pas une plainte, et ma parole ne sera pas une querelle !… » Je ne serai pas vulgaire, se disait-elle en posant sur sa table le petit volume jaune qui déjà lui avait valu ce mot de [MASK] : « Tiens
+
+[',', 'et', 'à', '</s>', 'de']	Rinaldo	Je te vois, mon ami, car mes yeux se sont accoutumés à l’obscurité. Écoute, marche droit… bien… tourne à gauche… viens… ici… Nous voilà réunis.[MASK], mettant ses mains en avant par prudence, rencontra des barres de fer.–
+
+['chacun', 'détresse', 'guerre', 'samuel', 'robert']	Rinaldo	On écouta le journaliste dans le plus profond silence.Un gémissement profond répondit au cri de [MASK] ; mais, dans son trouble, il le prit pour un écho, tant ce gémissement était faible et creux ! il ne pouvait pas sortir d’une poitrine humaine…
+
+['la', 'le', ',', 'un', "l'"]	Rinaldo	Et, en effet, si, dans la maculature, [MASK], qui a volé la clef des trésors de la duchesse Olympia en lui en substituant une à peu près semblable, se trouve, dans la bonne feuille, au palais des ducs de Bracciano, le roman me paraît marcher à une conclusion quelconque.
+
+['dieu', 'pierre', 'marie', 'jésus', 'mort']	Dinah	car maintenant il me faut un ami !…Le magistrat fut vraiment grand et même sublime. À cette déclaration où vibrait l’âme de [MASK], il répondit d’un son de voix déchirant : – Je voudrais aller vous voir afin de savoir si vous êtes aimée…
+
+['"', '.', '...', ':', '!']	Lousteau	Bien ! bien ! fit [MASK]. « Ami chéri, idole de mon cœur et de mon âme… » Vingt pages d’écriture ! une par jour et datée de minuit ! Elle m’écrit quand elle est seule… Pauvre femme. Ah ! ah !
+
+['et', 'ce', ',', 'de', 'celle']	Lousteau	– Je n’ai pas la somme que vous me demandez… Venez demain à huit heures, l’huissier attendra bien jusqu’à neuf, surtout si vous l’emmenez pour le payer. Elle sentit la nécessité de congédier [MASK] qui feignait de ne pas avoir la force de la regarder
+
+['lui-même', 'lui', 'moi', ',', 'moi-même']	Dinah	Il n’y a que vous au monde qui puissiez me secourir et me tendre une perche, car je me noie, et j’ai déjà bu plus d’une gorgée… dit-il en s’arrêtant devant [MASK] et paraissant céder à un effort suprême.
+
+['y', "n'", 'cela', 'diable', 'ne']	Lousteau	pourquoi…Et elle se cantonna dans son coin en regardant par les glaces du coupé ; mais elle supprima le reste de sa phrase que l’Avocat-Général devina : Pourquoi [MASK] n’a-t-il pas un peu de la noblesse de cœur de votre mari !…
+
+['elle', 'cesse', 'permission', 'autorisation', 'interruption']	Dinah	Le journaliste obligé d’aller aux premières représentations sans [MASK], et séparé d’elle la plupart du temps, trouva je ne sais quel attrait dans l’exercice de sa liberté. Plus d’une fois il se laissa prendre sous le bras et entraîner dans une joyeuse partie.
+
+['elle', 'femme', 'personne', 'âme', 'une']	Dinah	! Les femmes étaient heureuses de pouvoir plaindre celle qui les avait tant opprimées, et jamais [MASK] ne parut plus grande qu’alors aux yeux du pays. Le petit vieillard, devenu plus jaune, plus ridé, plus débile que jamais, ne témoigna rien ;
+
+['il', 'elle', 't-il', 'celui-ci', 'bussy']	Lousteau	mais le proverbe sur la plus belle fille du monde regarde aussi la pauvre femme de province.– Ce petit sot de Gatien, répondit [MASK], vous a répété sans doute une phrase dite par moi pour lui faire avouer qu’il vous adorait.
+
+['il', 'elle', 'cela', 'bien', 'encore']	Bianchon	mais son repentir et sa religion avaient fini par attirer l’intérêt sur elle, malgré l’énormité du crime.– Eh ! sait-on, dit [MASK], toutes les tragédies qui se jouent derrière le rideau du ménage que le public ne soulève jamais…
+
+['rodolphe', ',', 'celui-ci', 'il', 'albert']	Lousteau	Excusez mon ami, dit [MASK] d’un air plaisant à la baronne, il est toujours médecin, et l’amour n’est pour lui qu’une question d’hygiène. Mais il n’est pas égoïste, il ne s’occupe évidemment que de vous, puisqu’il s’en va dans une heure…
+
+['il', 'chacun', 'elle', 'jean', 'paul']	Lousteau	Si vous me voyez, c’est que mes affaires vont diablement mal.– Assez ! dit-elle, je vous comprends. Une nouvelle pause se fit entre eux pendant laquelle [MASK] se retourna, prit son mouchoir, et eut l’air d’essuyer une larme.
+
+['il', 'dieu', 'on', 'je', 'monsieur']	Lousteau	! Convenez-en ? ceci, monsieur, est une pièce nécessaire aux archives de notre époque… Aujourd’hui [MASK] me caresse, demain il pourra demander ma tête… Ah ! pardon de cette plaisanterie, je ne pensais pas que vous êtes Substitut.
+
+['</s>', 'il', 'elle', 'me', 'lui']	Dinah	Jusqu’à présent, nous avons partagé le fardeau de notre existence, elle n’est pas belle depuis dix-huit mois. Par dévouement pour moi, tu vas mise tout en noir, ce qui ne me fait pas honneur… [MASK] fit un de ces magnifiques mouvements d’épaule qui valent tous les discours du monde…
+
+["d'", "l'", 'de', 'par', ',']	Bianchon	[MASK], qui, l’année précédente, avait obtenu sa chaire après un brillant concours, ne pouvait quitter son enseignement.Au mois de septembre, en pleines vendanges, les deux Parisiens arrivèrent dans leur pays natal, et le trouvèrent plongé dans les tyranniques occupations de la récolte de 1836
+
+['bien', '"', 'encore', 'vraiment', 'cela']	Adolphe	? tu lis [MASK]. » N’eussé-je qu’un jour où il reconnaîtra ma valeur et où il se dira : Jamais la victime n’a crié ! ce serait assez ! D’ailleurs, les autres n’auront que des moments, et moi j’aurai toute sa vie
+
+['sa', 'madame', 'son', 'la', 'mademoiselle']	Dinah	tandis que le Procureur du Roi ne sortait pas de l’habit, du pantalon et du gilet noirs, souvent râpés.Ces quatre personnages s’extasièrent, les premiers, sur l’instruction, le bon goût, la finesse de [MASK], et la proclamèrent une femme de la plus haute intelligence.
+
+['henri', 'robert', 'celui-ci', 'georges', 'catherine']	Dinah	; et comme elles se trouvent répétées six fois dans les deux façades et dans les deux ailes, ce n’est pas une petite affaire.– Vos armes d’hier ! s’écria [MASK], et après 1830 !…– N’ai-je pas constitué un majorat ?
+
+['lui', 'elle', 'lui-même', 'celui', 'elle-même']	Lousteau	Elle en était d’ailleurs arrivée à un tel degré d’affection pour [MASK] qu’elle se glorifiait de sa faute ; elle mettait une force sauvage à heurter le monde, elle voulait le regarder en face sans détourner la tête.
+

@@ -1,0 +1,200 @@
+['il', 'et', 'julien', 'léonard', 'pierre']	Miguel	Penché en avant, [MASK] inspecta ce qu’il prit, tout d’abord, pour un fossé... Mais il ne put en apercevoir le fond. Un puits était creusé là... De l’autre côté, le mur s’élevait de nouveau, abrupt et sans fissure.
+
+['il', 'qui', 'et', 'je', '--il']	Miguel	Il est fort possible, d’ailleurs, que sa mère soit morte à l’heure actuelle : je compte transformer cette supposition en certitude, à son usage. Orphelin, [MASK] n’a rien d’autre à faire qu’à rester ici.– Sans doute.
+
+['cela', 'lui', 'témoins', 'là', 'ceux-ci']	Mocaër	Il lui semblait certain que la jeune fille et ses parents avaient grand besoin d’un soutien dans ces circonstances dramatiques. Et si par hasard il se trouvait en face de [MASK], sa présence, en somme, pouvait fort bien s’expliquer par la curiosité.
+
+['</s>', '"', 'le', 'mais', 'qui']	Miguel	Souvent, « le beau seigneur » revenait dans ses discours. [MASK], après des années, ne savait pas encore si cette dénomination s’adressait à lui ou voulait dire quelque autre personnage, ou l’un et l’autre.
+
+['et', ',', 'il', 'puis', 'qui']	Mainsville	[MASK] reparut au bout d’un quart d’heure. Il s’assit en déclarant :– Charmante femme ! Pas farouche, habituée aux galanteries des hommes. De petite extraction, mais affinée par la fréquentation de gens appartenant à une classe sociale plus élevée.– Elle t’a fait des confidences ?
+
+['il', ',', 'qui', 'ceci', 'à']	Miguel	Elle n’est guère à redouter !– Sans doute, sans doute... pour le moment. Mais quand elle aura dix-huit ans, ce sera plus grave, mon ami ! Les Espagnols ont le cœur inflammable !– Mais [MASK] fut élevé par moi, ne l’oublie pas
+
+['il', 'qui', 'elle', ',', 'lui-même']	Miguel	Et [MASK] déplorait à part lui que nul événement ne se produisît pour l’aider à réaliser son cher projet. Il ne pouvait plus se passer de la présence de la jeune fille et attendait l’heure des rencontres avec une fièvre grandissante.Au manoir, l’existence n’allait pas sans heurts.
+
+['...', ',', 'et', 'que', 'donc']	Edern.–	Inutile de te recommander la discrétion, dit [MASK] Je ne dirai rien... murmura l’adolescent.Son père adoptif lui prit le sac des mains et sourit avec satisfaction.– Voici des piécettes qui vont se multiplier entre mes mains, dit-il. Dans quelques années, je t’enseignerai mes méthodes.
+
+['son', 'jean', 'jules', 'george', 'charles']	Miguel	Rien ne laissait deviner sur le visage de [MASK], le lendemain, le souvenir de son expédition nocturne.Le jeune garçon se réjouit d’avoir consciencieusement étudié la veille, car le docteur Mainsville lui adressa des félicitations, ce qu’il ne faisait pas souvent.
+
+['moi', 'nous', 'toi', 'eux', 'moi-même']	Kermoal	Tu n’avais pas compris ? Eh ! tu as l’esprit prompt, cependant, à l’ordinaire ! Eh bien ! entends ceci : au cas où ces jeunes insolents auraient l’audace de se montrer à [MASK], mets-les hors de chez moi sans barguigner !
+
+['marguerite', 'jacques', 'jeanne', 'valentine', 'marie']	Porspoët	C’est elle qui prendra la décision définitive. Je vais écrire à mon fils...– Je vous remercie, s’écria [MASK] avec une joie sincère. Vous trouverez sur cette table tout ce qu’il faut pour écrire... et je vais de ce pas préparer votre départ.
+
+['qui', 'la', ',', 'elle', 'pâle']	Hoëlle	Et [MASK], rougissante, des larmes de joie roulant sur ses joues semblables à des pétales de fleurs, vint doucement mettre sa petite main dans celle du fiancé que lui donnait son grand-père.– J’ai douté de vous, je le confesse, reprit le vieillard.
+
+['cela', 'très', ',', 'si', 'tout']	Miguel	Méfie-toi des curieux, de ceux qui te poseraient des questions sur ta venue ici, sur les circonstances qui ont entouré ton apparition dans ce pays. Méfie-toi des étrangers, et surtout, naturellement, des Espagnols.– Je serai prudent, et méfiant, mon père, dit [MASK] sérieusement.
+
+['-', '--', 'mais', 'peut-être', 'non']	Porspoët.–	Pas farouche, habituée aux galanteries des hommes. De petite extraction, mais affinée par la fréquentation de gens appartenant à une classe sociale plus élevée.– Elle t’a fait des confidences ? demanda [MASK] Pas du tout. Ce sont mes seules observations dont je te fais part.
+
+['</s>', 'il', 'ils', 'chacun', 'cela']	Miguel	Si tu te montres digne de ma confiance, je t’en donnerai d’autres. Et maintenant, remontons sur terre.Il rabattit le couvercle sur le coffre. [MASK] se chargea du sac, qui pesait fort lourd, et ils reprirent en sens inverse le chemin qu’ils avaient parcouru auparavant.
+
+['elle', 'tout', 'celle-ci', 'celle-là', 'marie']	Hoëlle	Sa rancune s’usait à être indéfiniment remâchée. Il en vint à oublier le père et le grand-père pour ne plus songer qu’à la petite fille.Car [MASK] avait été bonne pour lui, elle ne l’avait pas repoussé, elle ! Elle lui avait souri...
+
+['il', 'dieu', 'on', 'lui', 'elle']	Miguel	Mais jamais [MASK] ne m’a parlé comme on parle à un ami, jamais il ne m’a fait aucune confidence. De ses goûts, de ses ambitions, je ne sais rien. Est-il heureux, malheureux ? Envisage-t-il de poursuivre toujours la même existence ?
+
+['</s>', '-', 'il', '"', 'je']	Miguel	– C’est très possible. [MASK] parle peu, il est réservé. Peut-être accepte-t-il, sans se poser de questions, mes ordres, mes conseils, la manière de vivre que je lui ai imposée... Peut-être... Mais peut-être pas.
+
+['elle', 'il', 'on', 'à', 'elles']	Edern	»Mais, à cet instant, un pas retentit sur le sable de la grève et une exclamation de la petite fille lui apprit qu’[MASK] s’avançait vers eux.Le nouveau venu échangea quelques mots avec sa fille, puis se tourna vers Miguel.–
+
+['il', 'elle', 'dieu', 'on', 'abraham']	Edern	Aujourd’hui encore elle existait, aussi forte chez le peuple de la côte et des terres. Plus forte peut-être même, car [MASK] passait pour posséder le pouvoir, par son regard, de forcer autrui à lui révéler sa pensée et à lui obéir.
+
+['</s>', 'et', 'chacun', 'qui', 'mais']	Edern	! Il pouvait s’y diriger les yeux fermés.Bientôt il en sortait, près de l’étang. Il courut au manoir.Tout dormait maintenant dans la maison de l’épouvante. [MASK], son forfait accompli, se reposait sans honte.
+
+['et', ',', 'liberté', 'méthode', 'une']	Hoëlle	Il oubliait presque le motif de ses recherches : voir, parler, par quelque moyen que ce fût, avec [MASK]. Il ne songeait plus, à la minute présente, qu’à cet extraordinaire voyage d’exploration qu’il effectuerait bientôt, même s’il ne découvrait pas le plan
+
+['un', 'une', 'anne', 'harry', 'andrew']	Hoëlle	Notre vengeance nous appartient, à nous, et je n’ai nulle envie de me la laisser dérober !– Je comprends... dit le jeune homme.Sous ses dehors impassibles, son esprit travaillait fébrilement. Un danger terrible menaçait le grand-père d’[MASK]...
+
+['elle', 'celle-ci', 'marie', 'lui', 'jeanne']	Catherine	Elle était vêtue d’une robe de mousseline blanche brodée, trouvée dans sa malle, et que [MASK] avait lavée et repassée avec le plus grand soin. Ses beaux cheveux noirs tombaient en boucles épaisses autour du joli visage mat, reposé, légèrement teinté de rose.
+
+['il', 'tout', 'cela', 'on', 'elle']	Miguel	Et dans son naïf orgueil, il était certain de sa victoire.Puis, sans qu’il s’en aperçût, [MASK] changeait. Il l’aurait nié si on le lui avait dit, mais cela était, cependant.
+
+['l', 'le', 't-on', 't', 'vous']	Porspoët	Que dirait-il à cette petite fille ? Que lui importait-elle, en vérité ?Il se leva, hésitant un peu sur la conduite à tenir. S’il rentrait maintenant au manoir, que penserait [MASK] ? Il allait l’interroger encore, sans doute ?
+
+['une', 'la', 'ta', 'sa', ',']	Ahès	C’est vrai, dit-il. Seulement, moi, je ne lui rappelle personne et il pourrait très bien me reprocher ma paresse si je mécontentais son ami !– En somme, tu as peur de mon père ! remarqua [MASK], railleuse.
+
+['"', ',', 'qui', ')', 's']	Edern	[MASK] s’engagea dans un sentier rocailleux qui descendait presque à pic et déboucha sur la grève. De quelque retraite invisible surgirent une dizaine d’hommes qui devaient le guetter.– Eh bien ! le signal ? demanda-t-il.L’un des hommes répondit :
+
+['</s>', 'il', 'le', 'elle', 'puis']	Mainsville	L’enfant lui jeta un regard hostile, sans répondre. Il avait de très beaux yeux bleu foncé, un petit air fier et triste, des manières graves empreintes d’une distinction raffinée. [MASK] l’enveloppa d’un coup d’œil curieux et ricana :
+
+['il', 'on', 'chacun', 'se', 'ils']	Porspoët	J’ai donc appris qu’ils passaient leurs soirées, soit au théâtre, soit dans des tripots où [MASK] jouait gros jeu et gagnait de fortes sommes. Ils soupent en compagnie des gens les moins recommandables, hommes et femmes, et fréquentent un certain nombre d’étrangers, particulièrement des Espagnols.
+
+['je', 'il', 'on', 'ou', 'et']	Edern	Mais que pensait le garçon au fond de son cœur ? Y avait-il place en son esprit pour des sentiments, des idées, des goûts étrangers à ceux que lui avait insufflés son père adoptif ? Cela, [MASK] l’ignorait.
+
+['et', 'de', ',', '/', 'à']	Miguel	![MASK] se sentit frémir. Allait-il recevoir l’horrible mission de trahir l’aïeul de celle qu’il aimait, de l’attirer dans un sinistre traquenard ? Assister ensuite à un assassinat ?Avec un immense effort, il continua d’affecter l’indifférence.–
+
+[',', 'et', 'vous', 'votre', 'bien']	Nannie	Voyez, [MASK] ! Voici du beurre... des œufs, de la farine. Et ma mère vous envoie ce corsage neuf, que je l’ai aidée à coudre. Et voilà du pain, des galettes... une bouteille de vin...–
+
+['on', 'il', 'chacun', 'elle', 'tout']	Ahès	Le sinistre Rocher Rouge et ses compagnons prenaient, dans la tendre clarté matinale, un aspect débonnaire.Sur la grève, [MASK] courait, pieds nus, cheveux au vent, s’enivrant d’air salé, de tiédeur au parfum de sel.
+
+['autrui', 'elle', 'autru', 'elles', 'ali']	Hoëlle	Garde-toi d’éveiller la méfiance d’[MASK]. Je lui réserve un rôle pour lequel il est préférable de t’en faire une alliée.Il rit, d’un rire sardonique.– Je me vengerais enfin de mes vertueux cousins, le vicomte de Tréguidy et son admirable fils !
+
+['(', ',', 'mais', ')', ':']	Porspoët	Je t’attendais avec impatience ! La lettre que tu m’as fait parvenir m’a rempli d’espoir ! Allons-nous enfin revoir les beaux jours ?– Il se pourrait, mon cher ami ! répliqua [MASK] avec un petit rire. Et ce ne serait pas trop tôt, vraiment
+
+['jeu', 'armes', 'camp', 'guerre', 'damas']	Trenarvan	demanda le jeune Espagnol.Il ressentait une impression de soulagement, de triomphe, il aurait aimé rire et chanter. Il se sentait fort, soudain, plus fort que celui qui avait voulu l’écraser.Ce jour-là, il avait vaincu le maître de [MASK].
+
+['de', ',', 'par', 'des', 'et']	Mocaër	Leur coup de sifflet, ça ne manque jamais ! Et après, ni vu, ni connu !– Ils ont des guetteurs sur la lande... Il faudra que j’organise quelque chose pour les contre-espionner. Cherche un moyen, [MASK], tu as quelquefois de bonnes idées
+
+['demain', 'dit-il', 'seigneur', 'maintenant', 'monsieur']	Mocaër	Je vais réfléchir, répondit-il prudemment. Venez demain matin, juste avant midi, m’attendre près de l’étang. Je vous dirai ce que je peux faire pour vous.– C’est bien... Je viendrai après ma leçon avec le docteur Mainsville. Sois exact au rendez-vous, [MASK].
+
+['celui-ci', 'julien', 'jeanne', 'valentine', 'robert']	Edern	Je n’ai pas de fait très saillant à te rapporter, dit-il. Les choses vont, pour ainsi dire, toutes seules. Et je suis là pour les diriger !– Je le sais ! répliqua [MASK] avec un rire satisfait.
+
+['il', '-', '</s>', '--il', '"']	Edern	– Monsieur, voilà le docteur Mainsville ![MASK] cria :– Eh bien, qu’il entre !Repoussant la porte du bahut, il alla poser sur une table le coffret et les papiers.Le docteur Mainsville parut. Il devait avoir une quarantaine d’années.
+
+['il', 'elle', 'on', 'arthur', 'elle-même']	Ahès	Il voulait être certain qu’[MASK] ne reviendrait pas, après quelques minutes, tenter à nouveau de l’interrompre. Puis, il désirait sincèrement se préparer à la leçon du jour suivant. S’il s’intéressait vivement à ce qu’il apprenait, il entendait également satisfaire toujours son savant professeur.
+
+['il', 'et', 'se', 'on', 'qui']	Miguel	Cela révoltait le jeune Espagnol, tout en lui laissant au cœur une sorte de malaise indéfinissable.Les sourcils froncés par l’effort de concentration qu’il s’imposait, [MASK] rappelait à lui ses souvenirs. Tous, pour lui, n’étaient pas empreints de joie, loin de là
+
+['tranquille', 'moi', 'et', 'calme', 'résolu']	Mainsville	. Sois tranquille, [MASK], je lui dirai exactement ce qu’il faut. Il est fort possible, d’ailleurs, que sa mère soit morte à l’heure actuelle : je compte transformer cette supposition en certitude, à son usage.
+
+['il', 'on', 'elle', 'et', 'qui']	Porspoët	Et nous avons des ennemis pour voisins, ne l’oubliez pas...Le vicomte haussa les épaules.– Bah ! [MASK] se trouve, cette fois, du même côté que nous de la barricade. Il s’est calmé, d’ailleurs, et ne fait plus parler de lui.–
+
+['lui', 'lui-même', 'sa', 'son', 'ses']	Linda	Elle choquait en lui une droiture instinctive, en raillant tout et tous, même son père et [MASK]. Elle ne se faisait pas faute de se moquer d’eux, riant méchamment de l’amour de la jeune femme pour la parure, les robes, les bijoux.
+
+['elle', 'marguerite', 'celui-ci', 'jacques', 'catherine']	Mainsville	Puis l’étrangère est de celles par qui on peut faire souffrir une femme de la plus douloureuse jalousie.– Peste ! je dois dire que vous vous entendez à cela, elle et toi ! dit [MASK] avec un rire sardonique.
+
+['.', 'il.', 'elle.', "l'", ',']	Edern	[MASK] insista.– Tu es un homme à présent ! Je ne suis pas un tyran et je ne refuse pas de te donner voix au chapitre ! Je souhaite, pour ma part, que la vie t’apporte toutes les satisfactions que tu désires !– Je vous remercie...
+
+['dit-il', 'regarda', "d'", 'main', 'mains']	Miguel	Certes. Il était extrêmement las quand il est rentré et il n’en pouvait plus. Le pauvre homme n’est plus jeune et se fatigue, maintenant, pour peu de chose.– C’est tant mieux ! murmura [MASK] entre ses dents.Ils sortirent du château sans incident.
+
+['elle', 'on', 'il', 'personne', 'nul']	Miguel	Et peut-être y trouvait-elle quelque plaisir ? Mais cela, [MASK] n’osait l’espérer...Quoi qu’il en fût, à mesure que passaient les mois, puis les années, l’amitié de la petite fée du château lui devenait de plus en plus précieuse.
+
+['et', ',', 'il', 't', 't.']	Ahès	Je n’ai pas appris la leçon, moi, et je ne m’en porte pas plus mal, au contraire !– Mais demain le docteur Mainsville te grondera... et ton père, à son retour, ne sera pas content ![MASK] se mit à rire.–
+
+['qui', ',', 'de', 'et', 'ce']	Jeanne	:– Tu ne juges pas, sans doute, le docteur digne de te serrer la main ? Voilà une singulière façon d’être polie, pour une maîtresse de maison ![MASK] rougit et, avec effort, tendit ses doigts amaigris que pressa légèrement Mainsville.–
+
+['il', 'qui', '.il', ',', "n'"]	Porspoët	[MASK] avait suivi le regard. Il sourit.– Eh ! eh ! ils n’ont peut-être pas tellement tort, mes beaux cousins ! mais ils s’y prennent un peu tôt. Le danger, pour le moment, n’est pas très grand.
+
+['"', 'non', 'merci', 'oui', '_']	Mainsville	Eh ! cette jeune personne est décidément tout à fait charmante ! dit [MASK].Il frottait l’une contre l’autre ses grandes mains sèches en jetant un coup d’œil sur la physionomie contractée de Jeanne.– ... Qu’en pensez-vous, madame ?
+
+['</s>', '"', 'il', 'elle', '_']	Edern	J’ai vu, à la façon dont te regarde la jeune personne, que tu commences de ne plus lui être indifférent.[MASK] sourit, tandis qu’un éclair traversait le bleu de ses yeux.– Oui, la conquête est déjà commencée. Elle m’aimera, car je l’aime.
+
+['elle', 'eux', 'elle-même', 'elles', 'alexandre']	Ahès	Il songeait à ce qu’il emporterait avec lui pour vaincre les obstacles qui pouvaient se dresser sur sa route, à la manière dont il se débarrasserait d’[MASK] si, par un malencontreux hasard, la fillette s’attachait à ses pas.Elle ne reparut pas de l’après-midi, cependant.
+
+['napoléon', 'celui-ci', 'chateaubriand', 'encore', 'jérémie']	Miguel	S’il révélait à celui-ci le complot tramé à Ty an Heussa, s’il l’empêchait de s’y réfugier, le vieillard serait arrêté... et les rumeurs les plus terribles couraient sur les prisons révolutionnaires !« Que faire ? Que faire ? répétait [MASK].
+
+['et', 'qui', ',', 'a', '-']	Miguel	[MASK] l’aida à se relever.– Regardez ! dit-il.Il prit le bras du vieil homme et le conduisit jusqu’au puits. La lueur dansante de la chandelle jetait sur les murs des ombres fantasmagoriques.– Seigneur !... murmura le vicomte. Que Dieu punisse ce bandit !
+
+['elle', 'il', 'marie', 'jeanne', 'celle-ci']	Nannie	Deux ou trois fois par semaine, la fillette se rendait donc chez sa vieille amie. Et c’était pour elle bien plus un plaisir qu’un devoir.Malgré son âge, [MASK] gardait son humble logis dans un état de propreté parfaite.
+
+['</s>', 'il', 'elle', '--il', '"']	Mocaër	? demanda-t-il enfin.– Je ne sais pas ce qu’il en pensera, répondit le jeune garçon, dédaigneux. Rien, je suppose ! Une petite fille n’a guère d’importance à ses yeux ![MASK] n’était pas tout à fait de cet avis.
+
+['t-il', 'il', 'cela', 'elle', '-t-il']	Linda	Ce sera moins amusant que les attaques à main armée sur les routes ou les naufrages de vaisseaux, mais avantageux, je le reconnais... Et comment se porte [MASK] ? ajouta-t-il, répondant ainsi indirectement à la dernière phrase de son interlocuteur.– Elle se porte à merveille.
+
+['lui', 'elle', 'jean', 'moi', 'barbe']	Hoëlle	Il ne songeait plus qu’à la perspective de sa proche rencontre avec [MASK].Pourtant, comme il arrivait à quelques pas de la fin du souterrain, la lueur de la lanterne accrocha tout à coup un point brillant sur la paroi. Intrigué, il s’arrêta.
+
+['il', 'elle', 'on', 'nous', 'je']	Miguel	Par bonheur, le granit qui formait les parois du couloir ne s’y prêtait guère et, pendant un temps assez long, [MASK] progressa sans difficulté. La lanterne éclairait suffisamment son chemin : il en promenait la lueur sur le sol, les murs, avec grand soin, déroulant son peloton de fil.
+
+['...', ':', 'travail', 'france', 'paris']	Trenarvan	murmura son interlocuteur. Le vent tourne parfois... La tempête peut balayer les édifices les plus solides...Cette prophétie pessimiste n’était certes pas du goût du maître de [MASK]. Néanmoins, celui-ci l’accueillit sans manifester d’humeur.–
+
+['moi', 'vous', 'maman', 'toi', 'mademoiselle']	Nannie	Ses yeux lumineux levés vers le visage ridé, elle dit avec une douce sincérité :– Je suis contente que vous soyez contente, [MASK] !– Je le sais, mon petit cœur. Je sais que vous êtes bonne et que vous vous réjouissez de la joie des autres.
+
+['isabelle', 'adèle', 'henriette', 'elle', 'albert']	Hoëlle	Il connaissait d’avance la réputation d’[MASK], lui-même jugeait ainsi la fillette et toutes ces phrases enthousiastes ne lui apprenaient rien. De plus, ces mots : bonté, générosité, n’éveillaient en lui qu’un vague sentiment de mépris.
+
+['il', 'je', 'jean', 'pierre', 'daniel']	Miguel	Il était convenu que cette décision demeurerait, en dernier ressort, à ma petite-fille...Éperdu, bouleversé, [MASK] regarda le vieillard, puis les autres témoins de cette scène avec des yeux angoissés. Il ne vit autour de lui que des visages graves, mais bienveillants.
+
+['il', 'et', ',', 'elle', '</s>']	Edern	[MASK] poursuivit :– Mais il ne faut pas croire que l’or s’acquière sans efforts ! Ni mes aïeux ni moi ne sommes restés inactifs, tu peux m’en croire ! J’espère que tu seras digne de la confiance que j’ai mise en toi et que tu feras de même.– Soyez-en persuadé, père
+
+['et', 'qui', '...', 'pour', ',']	Mainsville	Mais toi, réponds-lui toujours que ce n’est pas son nom, donne-lui invariablement celui de Juan. Il s’y habituera d’autant plus vite que la drogue donnée pour l’endormir l’abrutira pour un certain temps.[MASK] hocha la tête.–
+
+[',', ':', ';', 'et', '...']	Porspoët	– Et les enfants ? demanda [MASK]. Ils m’ont paru en excellente forme !– Ils le sont, dit le docteur. Ce sont des lurons dont on trouverait difficilement les pareils ! Sais-tu ce qu’ils ont inventé le jour de la Saint-Jean ?
+
+[',', 'à', 'ce', 'de', 'et']	Hoëlle	Mais le regard du jeune garçon, tout à coup, témoigna d’un vif intérêt. Il venait d’apercevoir [MASK] qui, la danse étant arrêtée subitement, s’avançait en quelques bonds légers vers le groupe formé par son grand-père et les étrangers.– Eh bien
+
+['il', 'on', ',', ':', 'elle']	Edern	[MASK] se frotta les mains. Il savourait le plaisir démoniaque de construire, détail par détail, ce rêve caressé depuis des années. Longtemps, il avait cherché comment il pourrait assouvir sa rancune contre ses voisins, et voici que le hasard, doublé de sa ruse machiavélique, lui livrait enfin l’inspiration désirée
+
+['que', 'qui', ',', 'en', "qu'"]	Nannie	Voyons, [MASK], ne pourriez-vous, pour une fois, dire nettement votre pensée ?Il avait parlé sur un ton assez brusque. L’infirme tressaillit. Elle ouvrit les yeux comme si elle s’éveillait.– Les sourds n’entendent pas et les aveugles ne sauraient discerner la lumière
+
+['vie', 'vivre', 'venir', 'naître', 'vif']	Kermoal	Le vieil homme est encore à [MASK], et tant qu’il y a de la vie, il y a de l’espoir, ainsi qu’on dit dans notre corporation. Tu as encore le temps d’agir avant que les prisons révolutionnaires protègent contre toi ton ennemi.
+
+['on', 'de', 'il', ':', ',']	Nannie	C’était singulier : quand [MASK] la regardait ainsi dans les yeux, elle ne songeait même plus à remuer. À peine respirait-elle ! Elle se sentait ensuite tout engourdie. Mais elle ne voulait pas faire de peine à la vieille femme en lui disant que ces histoires-là, si peu compréhensibles, l’ennuyaient
+
+['et', 'la', 'il', 'les', 'le']	Mainsville	Son visage expressif s’était assombri.– Quoi qu’il en soit, déclara-t-elle enfin, ce moyen, pratique ou non, me déplairait à moi ![MASK] l’interrogea du regard, surpris de cette façon d’envisager les choses. Elle secoua la tête en riant.–
+
+['elle', 'je', 'on', 'dieu', 'madame']	Nannie	Mais moi, je ne parle à personne, sinon à vous et aux anges qui me portent secours et vous savez que, si [MASK] rêve tout haut, elle sait garder les secrets... c’est pourquoi vous êtes venu la trouver, elle et personne d’autre !
+
+['elle', 'isabelle', 'eugénie', 'elizabeth', 'arthur']	Hoëlle	Un épais brouillard enveloppait les arbres dénudés, ce qui faisait fort bien l’affaire du jeune homme : il pourrait ainsi facilement s’approcher du château et guetter le passage, qu’il espérait prochain, d’[MASK] ou de son père, sans attirer l’attention de nul autre.
+
+['on', 'il', '</s>', 'elle', '-']	Linda	Il me semble que ce serait là le moyen le plus pratique ![MASK] songea un moment. Son visage expressif s’était assombri.– Quoi qu’il en soit, déclara-t-elle enfin, ce moyen, pratique ou non, me déplairait à moi !
+
+['qui', 'et', 'père', 'son', ',']	Miguel	[MASK], quant à lui, ne se lassait pas d’écouter la jeune fille. L’adorable simplicité avec laquelle elle lui confiait ses pensées, et ces pensées elles-mêmes, si claires, si limpides, si remplies d’enthousiasme, de générosité, l’enchantaient.
+
+['confiance', 'solidarité', 'loyauté', 'générosité', 'fidélité']	Porspoët	Le vicomte de Tréguidy n’était pas naïf au point de ne pas deviner que le geste généreux de [MASK] envers lui n’avait été dicté que par le désir d’obtenir de lui son consentement à ce projet d’union.
+
+['"', 'qui', 'ii', '-', '_']	Porspoët	Avec une feinte hardiesse, il leva les yeux.– Que désirez-vous de moi, mon père ? demanda-t-il.– Tu m’as semblé bien pressé de nous fausser compagnie ! répliqua [MASK]. Où courais-tu ainsi ?
+
+['...', 'famille', 'm', 'toi', 'moi']	Marat	– Imagine un « aristo » traqué, poursuivi, craignant pour sa liberté et sa vie. Il me rencontre... je lui offre mon aide...– Hum... ! Ne se méfiera-t-il pas ? Tu es connu pour être un ami de [MASK]... et ton passé...
+
+['il', 'celui-ci', 'julien', 'jean', 'pierre']	Miguel	Et ce fut entre lui et le jeune Espagnol le début d’une amitié qui ne devait jamais se démentir. Quelques jours plus tard, [MASK] suivait d’un pas allègre le chemin qui conduisait chez la vieille Nannie.Il devait y rencontrer Hoëlle et sa mère et leur apportait de bonnes nouvelles.
+
+['il', '</s>', 'elle', '--il', 'et']	Miguel	Il s’était montré dur, impitoyable. Et maintenant, il interrogeait en vain le beau visage immobile. [MASK] ne livrait rien de ses sentiments, si rudement écrasés par un maître sévère, à supposer qu’il y eût encore place pour des sentiments dans son cœur.
+
+['il', 'elle', 'on', 'celui-ci', 'jésus']	Miguel	Et, désespéré, [MASK] jeta vers les cieux un appel passionné.– Oh ! ma Mère, si vous m’entendez, si vous êtes vraiment ma Mère, comme celle de tous les hommes, ainsi que me l’a affirmé celle que j’aime, venez à mon secours !
+
+['le', 'les', 'un', 'la', 'monsieur']	Mainsville	? Elle ne restera pas ainsi ?– Comment veux-tu que je le sache ? En tout cas, je vais faire venir [MASK]. Nous verrons ce qu’il en dira.La servante entra, portant un plat qu’elle posa sur la table.
+
+['le', 'la', "l'", 'un', 'une']	Mocaër	– Arrive ici et reconduis promptement hors de chez moi ces insolents-là !Mais [MASK], qui venait d’apercevoir les deux enfants eut à leur vue un haut-le-corps qui fit s’entrechoquer les verres sur le plateau. Il s’immobilisa, les traits un peu crispés, les yeux attachés sur eux.
+
+['et', 'faire', 'je', 'me', 'les']	Mainsville	Je sais convaincre, [MASK] ! Je sais, quand il me plaît, faire croire aux gens ce que je veux ! J’attire donc ici mon aristo avec son précieux chargement... Ensuite, la farce est simple à jouer. Nous en avons fait bien d’autres !
+
+['napoléon', 'femme', 'jésus', 'marie', 'vieillard']	Jeanne	En vain recherchait-il ses traits dans sa mémoire. D’elle, il ne se rappelait rien, pas même son nom ! Et tandis que, désespérément, il tentait de l’évoquer, ce fut la pâle figure de [MASK] qui revint à son souvenir, estompée par le temps.
+
+['.', '"', ':', 'les', 'le']	Hoëlle	Il partirait aussitôt après le repas de midi, car le trajet souterrain était long, il avait pu s’en rendre compte. Et il s’attendait à perdre du temps à guetter [MASK]. S’il rentrait en retard, il trouverait bien quelque fable plausible à raconter.
+
+['elle', 'il', 'et', "j'", '</s>']	Jeanne	Pendant un moment, [MASK] essaya vainement de se soulever. Elle y parvint enfin, but péniblement quelques gorgées et retomba sur le traversin en murmurant :– Je ne puis plus... c’est la fin... la fin bientôt...
+
+['elle', 'je', 'ce', 'il', 'cela']	Linda	Dame de Porspoët ou non, [MASK] n’en est pas moins la joie de cette demeure. J’ai la plus puissante influence sur elle et si je l’épouse un jour, je serai assuré de la tenir toujours sous ma domination.
+
+['il', 'elle', 'celui-ci', ',', 'on']	Edern	Après lui avoir donné des conseils qui étaient bien plutôt des ordres, [MASK] ne lui avait jamais encore reparlé de ce projet de mariage, ne lui avait posé aucune question sur ses espoirs de réussite, et le jeune homme s’en étonnait un peu.
+
+['tu', 'je', 'toi', 'te', 'ton']	Miguel	Ne permets pas qu’une seule seconde ta pensée vacille. Et tu sortiras vainqueur de l’épreuve.Comme il arrivait souvent lorsque [MASK] quittait la « sorcière », il réagit contre l’impression pénible qu’avaient produite sur lui ses paroles.
+
+['ce', ',', '</s>', ':', 'de']	Edern	[MASK] qui s’avançait déjà vers la porte se retourna.– Mon cousin, dit-il, considérez, je vous en prie, que je suis trop heureux de vous rendre service, d’effacer ainsi, de tout mon pouvoir, l’antagonisme qui a séparé nos familles depuis trop longtemps
+
+['elle', 'il', ',', 'qui', 'et']	Hoëlle	[MASK] avait écouté cet échange de paroles avec une mine de songeuse tristesse. Les beaux sourcils dorés, d��un ton plus foncé que ses cheveux, se fronçaient légèrement. En secouant ses boucles soyeuses, la fillette s’éloigna sans entrain et alla reprendre sa tâche de petite maîtresse de maison.
+
+['la', 'répondre', 'réponse', 'financement', '1919']	Trenarvan	Ce dernier lui révélait même les secrets de [MASK] !« Il vaut mieux que ses pères ! se dit le malheureux vieillard. Il existe en lui des traits de générosité qui se sont révélés avec l’âge. Il est vrai que sa mère était une Tréguidy !
+
+['il', 'celui-ci', 'lui-même', 'lui', 'aussi']	Edern	Peut-être celui-ci allait-il lui donner la clé de l’énigme qui le tourmentait ?Mais [MASK] ne paraissait pas pressé d’aborder un sujet si important. Il s’enquit des travaux scolaires du jeune garçon, fit quelques commentaires sur les ouvrages qu’il étudiait avec le docteur.
+
+['-', 'dit', 'demanda', 'je', 'il']	Mainsville	Les projets de mes amis ne sont qu’ébauchés et je dois donner quelques conseils pour que notre besogne soit facilitée.– Quand crois-tu que nous pourrons agir ? demanda [MASK], déçu.– Cela dépend des circonstances, des développements, qui peuvent être imprévus, de la situation.
+

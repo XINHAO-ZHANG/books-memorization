@@ -1,0 +1,200 @@
+['pierre', 'jacques', 'jeanne', 'jean', 'paul']	Gastin	L’idée qu’il avait causé un tort à [MASK] ne paraissait pas lui être venue. Était-elle venue aux autres habitants du village ? — Vous partez ? s’étonna-t-il en voyant le commissaire se diriger vers la porte.
+
+['</s>', 'il', 'et', 'elle', 'celui-ci']	Jean-Paul	Alors qu’il n’était plus qu’à une trentaine de mètres de l’enfant, son pied écrasa une branche morte. [MASK] tourna vivement la tête dans sa direction, sauta de la pierre sur laquelle il était perché et se précipita vers la route.
+
+['</s>', 'mais', '-', 'm.', 'et']	Maigret	— De toute façon, c’est dans son intérêt. Il sera plus en sûreté en prison qu’ailleurs. Vous n’ignorez pas comment on réagit dans les petites villes et les villages. Tout cela était un peu guindé. [MASK] lui-même n’était pas trop à son aise.
+
+['...', ':', ',', 'écrit', '(']	Gastin	Peut-être aurait-il mieux valu que vous ne veniez pas. — Cela dépend de ce qu’il y a au bout. Vous n’en avez pas la moindre idée ? — J’en sais à peu près autant que vous. — Et vous auriez laissé [MASK] en prison
+
+['-', '--il', '</s>', "--c'", 'il']	Thérèse	— Du même que tout à l’heure. — Je n’ai que celui-là. Je suppose que vous mangerez ici ? [MASK] est en train de cuire un lapin dont vous me direz des nouvelles. La bonne se montra.
+
+['</s>', 'il', '-', '-il', 'et']	Joseph	? [MASK] ne prenait pas l’événement trop au tragique. Il avait tellement l’habitude des petits drames quotidiens que celui-là, à ses yeux, n’était guère plus impressionnant que les autres. — On va le mettre en prison ? — Pas pour longtemps.
+
+['alors', 'puis', 'déjà', 'là', 'enfin']	Louis	Il y avait fatalement quelqu’un qui savait. Peut-être même étaient-ils un certain nombre à savoir et à se taire ? Chez [MASK], on commençait à parler à voix haute et un fermier maigre, aux moustaches tombantes, était déjà plus qu’à moitié ivre.
+
+['t-il', 'robert', 't-elle', 'alice', 'elle']	Maigret	Si j’étais coupable, comme ils en sont persuadés, et si j’avais eu l’intention de fuir, je ne serais pas ici, n’est-ce pas ? — Il m’est difficile de répondre à cette question avant d’en savoir davantage, murmura [MASK].
+
+['</s>', '-', '=', '"', 'par']	Joseph	S’il n’est pas premier de la classe, c’est parce qu’on accuserait mon mari de favoriser son fils. [MASK] le fait exprès de lui donner des notes plus basses que celles qu’il mérite. — L’enfant ne se révolte pas ? — Il comprend.
+
+['hein', 'pourquoi', 'non', 'toi', 'alors']	Jean-Paul	Si vous saviez quel bien cela me fait ! Elle essuyait ses mains mouillées à son tablier, se tournait vers son fils qui n’avait pas levé la tête et qui semblait ignorer le visiteur. — Tu ne dis pas bonjour au commissaire Maigret, [MASK] ? — Bonjour.
+
+['ah', 'oh', 'non', 'rien', '...']	Julien	Elle savait qui il était et ne paraissait pas effrayée. Dans la cuisine, qui était le centre vital de la maison, elle lui avançait une chaise à fond de paille, ouvrait une porte qui donnait sur la cour. — [MASK] !… Quelqu’un pour toi…
+
+['qui', 'ce', 'vous', 'ça', 'il']	Jean-Paul	— [MASK] n’est pas ton ami ? — Il n’est l’ami de personne. — Pourquoi ? — Je ne sais pas. Il n’en a sans doute pas envie. Il ressemble à sa mère. Sa mère ne parle pas aux femmes du village.
+
+['je', 'nous', 'faisait', "j'", 'dans']	Maigret	— Je n’ai pas dit ça. Il ne fallait pas l’effrayer car il aurait été capable de se remettre à courir. Pourtant ce n’était pas seulement la crainte que [MASK] le rattrape qui le retenait. Il était plus rapide que le commissaire.
+
+['on', 'elle', 'il', "l'", 'julien']	Maigret	À droite de cette cour, le bâtiment bas, dont on voyait trois fenêtres, était l’école, avec des visages de garçons et de filles alignés, et, debout, la silhouette de l’instituteur remplaçant que [MASK] avait aperçu à l’auberge.
+
+['enfin', 'puis', 'et', 'mais', 'cependant']	Maigret	Il paraît que c’était une rude femelle et que son mari a été cocu toute sa vie. Est-ce que cela n’expliquait pas le village ? Derrière [MASK], dans un autre groupe, quelqu’un expliquait : — Quand il m’a vendu cette vache-là, je lui ai dit : »
+
+['il', ',', '.il', 'qui', '-']	Maigret	[MASK] buvait son verre à petites gorgées et cela ressemblait presque à l’idée qu’il s’était faite de son voyage au bord de la mer. L’air était de la même couleur que le vin blanc, avait le même goût.
+
+['tous', 'certains', 'dieu', 'chacun', 'tout']	Maigret	— Je vous accompagne. J’ai la clef. Elle se trouvait sur la cheminée aussi. Il la fourra dans sa poche, boutonna sa tunique et mit son képi. L’air, dehors, sentait quand même la mer, pas assez au goût de [MASK], cependant.
+
+["c'", 'il', "--c'", 'elle', 'ceci']	Marcellin	C’est bien ainsi que vous dites ? Il remplit les verres. — [MASK] est un pauvre type. Tout le monde sait qu’il n’en a plus pour longtemps. On ne peut pas lui en vouloir de boire, car il n’a jamais eu de chance.
+
+['</s>', 'il', 'elle', 'on', 'y']	Marcellin	C’était difficile, de loin, de deviner ce qui se passait au juste. [MASK] en avait apparemment contre quelqu’un, essayait de repousser le petit docteur pour avancer dans la première pièce. — Je te dis que je vais lui dire ! entendit le commissaire.
+
+['...', ':', 'la', ',', ';']	Marcellin	— Il a eu une jambe cassée ? — En deux endroits. — Il boitera ? — Non. D’ici une semaine ou deux, il n’y paraîtra plus. — Il ne peut pas encore marcher ? — Non. — L’accident rapporte-t-il quelque chose à [MASK]
+
+[',', 'puis', 'elle', 'il', 'et']	Maigret	[MASK] se tourna vers lui, l’observa des pieds à la tête, fut sur le point d’ouvrir la bouche puis, haussant les épaules, lui tourna le dos. L’imbécile allait probablement s’imaginer qu’il avait frappé juste. Cela n’avait aucune importance.
+
+['il', 'on', 'elle', 'qui', '-']	Marcel	— Elles étaient fermées. — Tu entendais quand même le bruit de la forge ? — Il me semble que oui. J’en suis à peu près sûr. — Que s’est-il passé ? — [MASK] a quitté la fenêtre et traversé la classe. —
+
+['ah', 'bonsoir', 'oh', 'merci', 'eh']	Thérèse	— Je vous remercie. Bonne nuit. — [MASK] ! Celle-ci s’engagea la première dans un escalier aux marches inégales, tourna dans un couloir tapissé de papier à fleurs, ouvrit une porte. — Éveillez-moi vers huit heures, dit-il.
+
+['ménage', 'chambre', 'celui-ci', 'charge', 'joseph']	Marcellin	L’une d’elles devait être la femme de [MASK], les deux autres sa mère et sa sœur qui habitaient le village voisin et qui étaient venues pour l’enterrement. Elles l’avaient vu passer. Les fenêtres étaient si petites qu’un instant il avait bouché celle-là de sa carrure.
+
+['m.', 'jean', 'moi', 'monsieur', 'pierre']	Théo	Le lendemain, c’est-à-dire hier, il s’est installé dans mon bureau de la mairie, avec [MASK], l’adjoint, à côté de lui. — Où étiez-vous pendant ce temps-là ? — Je faisais la classe.
+
+[',', 'm.', 'dreyfus', 'celui-ci', 'monsieur']	Gastin	Dans la classe, les têtes d’enfants s’alignaient. Il trouva le lieutenant qui annotait, au crayon rouge, le procès-verbal d’un interrogatoire. — Entrez, monsieur le commissaire. J’ai vu le juge d’instruction. Il a interrogé [MASK] ce matin.
+
+['il', ',', 'elle', "l'", 'et']	Bresselles	? Que préférez-vous avec votre café ? Fine ou calvados ? — Calvados. [MASK] alla prendre la bouteille dans un meuble ancien, remplit les verres, toujours gai, enjoué, mais avec un peu plus de sérieux dans les prunelles. — À votre santé.
+
+['lui', 'jean', 'aussi', 'joseph', 'louis']	Julien	? — Elle hait le monde entier. — Pourquoi ? — Je l’ignore. Elle n’a jamais été mariée. Elle avait une nièce qui a longtemps vécu avec elle et qui a épousé [MASK], le ferblantier, qui est en même temps le garde champêtre.
+
+['se', 'lui', 'celui-ci', 'jacques', 'jean']	Jean-Paul	Il ignorait lui-même où il allait, était surpris de voir [MASK] lever vivement la tête, le fixer avec un effroi mêlé d’admiration. Le gamin ouvrit la bouche, faillit parler, se tut, les poings serrés par l’effort qu’il faisait pour se maîtriser.
+
+['-', '</s>', 'il', '"', 'elle']	Maigret	? — Je suis son ami. [MASK] lui tapota la tête d’un geste machinal. — C’est tout, mon petit bonhomme ! dit-il en se levant. Il faillit ajouter : — Il y en a qui apprennent à vivre plus tôt que les autres.
+
+['etc', 'et', '-', 'une', 'un']	Louis	Il devait recevoir une pension, lui aussi, pour son bras. Il était payé par le gouvernement. Et cela l’enrageait que les autres passent également à la caisse. Il était jaloux, en somme. — Donne-moi une chopine, [MASK].
+
+['il', 'on', 'lui', 'chacun', 'pierre']	Maigret	Il joue déjà fort bien pour son âge. La fenêtre était fermée et [MASK] commençait à étouffer, à se demander s’il ne se trouvait figé soudain dans quelque vieil album de photographies. — Votre mari est venu dans la maison mardi un peu après dix heures ?
+
+['non', 'attention', 'maman', 'maintenant', 'frère']	Marcellin	Je lui répète régulièrement : » — [MASK], si tu ne t’arrêtes pas de boire, tu vas crever ! » Il en est au point où il ne mange plus. — Il est malade ? — Ils sont tous malades dans sa famille.
+
+['il', ',', 'qui', 'enfant', 'elle']	Maigret	[MASK] faillit l’appeler, ne le fit pas, car les autres l’auraient entendu, se contenta de presser le pas, espérant rejoindre le gamin sur le chemin. La situation était ridicule, il s’en rendait compte. Il n’osait pas courir.
+
+['moi', '...', 'cela', ',', 'jésus']	Marcel	Vous les houspillez à l’occasion. Mais en réalité, vous ne les trahiriez pas. Est-ce que je me trompe ? — Le curé, selon vous, refuserait de vous répondre si vous le questionniez au sujet de [MASK] et je pense que vous avez raison.
+
+['</s>', '-', 'qui', '_', '"']	Daniélou	— Une chopine. [MASK], mal à l’aise, cherchait une contenance. C’était peut-être pour cela que l’adjoint les regardait tous les deux avec des yeux rigoleurs. Il était grand et il devait avoir été gras.
+
+[',', 'chacun', 'jeanne', 'tranquillement', 't-il']	Louis	Le facteur, qui avait un crochet de fer à la place du bras gauche, se tenait debout devant lui. Tous les deux se turent à leur entrée. — Qu’est-ce que je vous sers, messieurs ? questionna [MASK] derrière son comptoir, les manches haut troussées.
+
+[',', 'et', 'ou', 'que', 'à']	Maigret	— Notre cour ? — Oui. — Qu’est-ce que j’aurais vu ? — Ce n’est pas moi qui le sais. C’est toi. Le gamin, dans son lit, avait reculé jusqu’au mur et fixait [MASK] d’un œil ahuri. —
+
+['jean', 'la', 'son', 'hans', 'droite']	Théo	: — Je vous souhaite du plaisir ! Enfin, en passant, il heurta, exprès, les jambes de [MASK]. — Salut, crapule ! On le vit mettre son moteur en marche et la camionnette fit demi-tour sur place. —
+
+['part', 'mrs', 'propos', 'genoux', 'm']	Thérèse	demanda le commissaire à [MASK]. — Il ronfle ! Il a sali toute la chambre. Il ne peut plus supporter la boisson. C’est chaque fois la même chose. — Personne ne m’a demandé ? — Le lieutenant est passé tout à l’heure.
+
+['il', 'elle', 'on', '-', 'qui']	Théo	— Vous vous êtes efforcé de le calmer. — Vous auriez préféré la bagarre ? — [MASK] l’a assommé en lui faisant boire un double ou triple Pernod et l’a transporté à l’étage. C’est la première fois que je vois l’adjoint jouer les saint-bernard.
+
+['jésus', 'martin', 'monsieur', 'jean', 'pierre']	Marcel	Le prêtre ne le fera pas. Je me proposais de demander aux voisins, entre autres aux gens de la coopérative, s’ils avaient vu [MASK] entrer à l’église en dehors des services, mais je sais maintenant qu’il s’y rend par la cour.
+
+['il', 'qui', 'et', '</s>', ',']	Marcel	[MASK] était là, en surplis d’enfant de chœur, à servir la messe. Il devait pouvoir se rendre directement dans la sacristie, en passant par la cour de ses parents. — Dies irae, dies illa… Les femmes avaient vraiment l’air de prier et remuaient les lèvres.
+
+['dieu', "c'", 'tu', 'monsieur', 'jésus']	Marcel	— Qu’est-ce que [MASK] est venu te dire tout à l’heure ? — Que, si on l’interrogeait encore, il serait obligé d’avouer la vérité. — Pour quelle raison ? Il a peur ? — Il est allé se confesser.
+
+['"', 'française', 'longue', 'américaine', 'de']	Gastin	Et, d’une voix un peu sourde, il expliqua : — J’ai tout de suite vu qu’il me regardait d’un drôle d’air. La première question qu’il m’a posée a été : » — Vous possédez une carabine. [MASK] ? »
+
+['il', 'on', "j'", "s'", 'qui']	Maigret	Avant de frapper, [MASK] était passé devant la fenêtre de droite, celle de la cuisine, qui était ouverte et où trois femmes, dont une vieille à bonnet blanc, étaient assises autour de la table ronde et mangeaient de la tarte.
+
+['eux', 'lui', 'soi', 'moi', 'nous']	Louis	Les hommes s’interpellaient, quelques-uns commençaient à pénétrer chez [MASK] et à boire un verre sur le pouce, ressortaient en s’essuyant les lèvres. Au passage du commissaire, tout le monde se taisait, puis se mettait à parler à voix basse en le suivant des yeux.
+
+["j'", 'chacun', 'lui', 'tu', 'lui-même']	Paumelle	— Il est maintenant à la prison de La Rochelle. C’était difficile de deviner ce que [MASK] en pensait. Tout aubergiste qu’il était, il avait plutôt l’air d’un paysan dans sa ferme. — Vous ne croyez pas que c’est lui ? — Je ne sais pas.
+
+['</s>', 'il', 'elle', 'chacun', 'on']	Maigret	Les silhouettes noires se multipliaient rapidement. [MASK] apercevait des visages qui ne lui étaient pas encore familiers. Le lieutenant de gendarmerie lui serra la main. — Rien de nouveau ? — Rien. Je l’ai vu hier, soir dans sa cellule.
+
+['homme', 'mer', 'lui', '"', 'eau']	Jean-Paul	[MASK], qui ne le regardait plus, s’était tourné vers la mer. Ils la fixaient tous les deux et le silence dura longtemps, tout le temps qu’il fallut à leurs cœurs pour reprendre un rythme calme et régulier.
+
+['cheval', 'celui', 'rosa', 'chien', 'sarah']	Paumelle	Seulement, il les avait vus avec des yeux d’enfant et il se rendait compte à présent qu’il ne les avait pas vraiment connus. Pendant qu’il se déshabillait, il entendit les pas de [MASK] qui montait, puis des heurts dans la chambre voisine.
+
+['médecin', 'docteur', 'savant', 'faust', 'celui-ci']	Maigret	— Je crois que vous arriverez à quelque chose ! soupira le petit docteur en faisant allusion, non à la carrière de [MASK], bien entendu, mais à son enquête. Il le regardait maintenant avec un certain respect, mais aussi avec quelque ennui.
+
+['il', 'on', 'chacun', 'qui', 'tout']	Maigret	La maison comprenait quatre pièces, aussi petites les unes que les autres, et [MASK] y avait l’impression d’être trop grand et trop large et en même temps depuis son entrée, une autre impression, celle de se trouver soudain dans un monde irréel.
+
+["j'", "s'", 'julien', 'pierre', 'jeanne']	Maigret	Au moment d’entrer dans le cimetière il y eut des piétinements, un certain désordre. Le prêtre et l’enfant de chœur étaient déjà devant la fosse que tout le monde n’était pas encore entré. C’est à cet instant-là que [MASK] aperçut un visage au-dessus du mur.
+
+['qui', '...', 'georges', 'm.', 'oswald']	Marcel	— Tu étais là, le lendemain, quand on a interrogé [MASK] ? — Non. On nous a fait venir au bureau un par un. — Et quand il est revenu le jeudi matin ? Quand as-tu su qu’il prétendait avoir vu ton père ?
+
+['on', 'il', 'qui', 'personne', 'elle']	Maigret	[MASK] ne pouvait s’empêcher de penser à une sorte de vieux faune à la retraite. Il était là, planté au milieu du village, comme un dieu malicieux qui savait tout ce qui se passait derrière les murs, derrière les fronts, et qui jouissait en solitaire du spectacle qu’on lui donnait.
+
+[',', 'puis', 'il', 'et', ';']	Maigret	[MASK] s’était mis à ouvrir et à refermer des tiroirs, découvrant les ustensiles de cuisine à moitié rouillés, des objets hétéroclites, de vieux boutons, des clous, des factures, pêle-mêle avec des bobines sur lesquelles il n’y avait plus de fil, des bas, des épingles à cheveux.
+
+['st', 'dr', '12', '0', 'f']	Jean-Paul	— J’ai dit au lieutenant qu’autant que j’en savais la carabine devait se trouver dans la chambre de [MASK]. Il a envoyé un de ses hommes pour s’en assurer. J’aurais dû interroger mon fils. Je n’y ai pas pensé.
+
+['il', 'et', 'celui-ci', 'puis', 'elle']	Théo	Alors, comme s’il venait de l’assommer, [MASK] le poussa vers l’escalier où il le fit monter et où il dut, après quelques marches, le hisser sur son épaule. — Vous n’avez pas oublié mon invitation ?
+
+['qui', 'et', 'lui', 'assis', 'debout']	Théo	En face de lui, [MASK], ses cartes à la main, lui lançait de temps en temps un regard pétillant de malice qui disait : — Tu y viens ! Tu y viens ! Encore quelques années de ce régime-là et tu seras comme les autres.
+
+['</s>', 'on', 'cela', 'il', 'ce']	Maigret	Des éclaboussures étoilaient les murs. Devant la fenêtre, le fauteuil de cuir devait être celui dans lequel la vieille femme passait la plus grande partie de ses journées. [MASK] comprit pourquoi elle se tenait plus volontiers dans cette pièce que dans celle de devant.
+
+['le', 'un', 'la', 'une', ',']	Louis	— File dans ta cuisine. Une camionnette s’arrêta, un homme entra, en tenue de boucher. À l’encontre de la plupart des bouchers, il était maigre et mal portant, avec le nez de travers et de mauvaises dents. — Un Pernod, [MASK].
+
+['monsieur', 'maître', 'docteur', 'papa', 'garçon']	Marcel	Après quoi l’homme se retira dans l’ombre de la pièce tandis que sa femme s’approchait du poêle. — Dis-moi, [MASK], commença le commissaire en revenant au garçon qui n’avait pas bougé, je suppose que tu n’as jamais menti ?
+
+['remarquer', 'dire', 'que', 'donc', 'valoir']	Daniélou	— De sorte que les malins les font payer par le gouvernement au titre de calamité nationale ! — Le sénateur était très populaire, fit [MASK], mi-figue, mi-raisin. Il n’a jamais eu de peine à être réélu. — Vous avez lu toutes ces lettres ?
+
+['</s>', 'il', 'qui', ',', '"']	Joseph	[MASK] a voulu traverser la route et a été renversé. — Il a eu une jambe cassée ? — En deux endroits. — Il boitera ? — Non. D’ici une semaine ou deux, il n’y paraîtra plus. — Il ne peut pas encore marcher
+
+['à', ':', 'a', '10', '14']	Jean-Paul	Il reconnut [MASK]. Un des verres de ses lunettes renvoyait le soleil comme un miroir. Au lieu de suivre la foule, le commissaire resta dehors et commença à contourner le cimetière avec l’intention de rejoindre le gamin.
+
+['qui', 'il', 'on', '--il', 'monsieur']	Marcel	Mon père a besoin d’argent. — [MASK] est venu te voir ? — Oui. Je lui ai fait promettre de ne rien dire non plus. — Depuis, il est venu te voir tous les jours ? — À peu, près tous les jours.
+
+['"', '</s>', '-', '--', '_']	Maigret	Vous voyez ce que je veux dire ? [MASK] fit oui de la tête. Le lieutenant avait une envie presque enfantine de son approbation et il était touchant à force de désirer bien faire. — C’est ce que nous avons appelé la théorie de l’accident pur et simple.
+
+['il', 'elle', 'on', 'et', '</s>']	Maigret	— Vous restez dans le village ? — Il faut que j’aille voir le juge d’instruction, qui a interrogé l’instituteur ce matin, mais je reviendrai dans le courant de l’après-midi. — À tout à l’heure. [MASK] lui serra la main.
+
+['</s>', '"', '-', ')', '_']	Daniélou	— Nous y allons ? [MASK], qui n’avait fait que tremper les lèvres dans son verre, le suivit soulagé. — Vous ne trouvez pas que ces paysans ont l’air de se moquer de nous ? murmura-t-il, une fois dehors. — Parbleu !
+
+['tout', 'lui', 'elle', 'moi', 'soin']	Maria	Et, ici, c’est moi qui sais. » Essayez ! Jouez votre jeu. Questionnez les gens. Tirez-leur les vers du nez. » On verra bien si vous finissez par y comprendre quelque chose ! Il couchait avec [MASK], qui était sale et sans charme.
+
+['il', 'et', 'ou', 'qui', 'elle']	Gastin	Le lundi, avant la classe, [MASK] a travaillé dans son jardin. Quand il a traversé la cour, dans le courant de la matinée, il a aperçu une houe qui traînait et est allé la remettre à sa place.
+
+['il', 'on', 'lui', 'celui-ci', "j'"]	Maigret	Si [MASK] était resté debout, il aurait presque rempli la pièce et il se tenait immobile dans un fauteuil, faisait signe à son interlocutrice de s’asseoir aussi, parce que cela le fatiguait de la voir debout. Elle n’avait pas plus d’âge que son fils.
+
+['noël', 'moi', 'lui', 'nous', 'pâques']	Noël	Or, l’automne dernier, je ne sais plus qui a sorti une carabine 22 avec laquelle il s’est mis à tirer les moineaux. Un mois plus tard, on comptait une demi-douzaine de carabines du même genre. Mon fils en a voulu une pour [MASK].
+
+['ainsi', 'à', 'en', 'maintenant', 'cet']	Marcel	Ne pouvait-on pas prétendre que c’était au contraire une certaine loyauté vis-à-vis des autres ? Il avait l’occasion de contredire [MASK], de le traiter de menteur. C’était facile. Peut-être cela lui paraissait-il trop facile, une victoire gagnée à bon compte
+
+['une', 'celle', 'un', 'celle-ci', 'celle-là']	Thérèse	Elle a tenu le coup sept ans, avec un foie comme un caillou, et il a pu enfin lui offrir un bel enterrement. Depuis, il couche avec ses bonnes successives. Elles s’en vont l’une après l’autre, sauf [MASK] qui a l’air de tenir bon.
+
+['paris', 'julien', 'lui-même', 'house', 'holmes']	Maigret	Le médecin, qui avait rejoint [MASK], soupirait de soulagement, prononçait à peu près les mêmes mots que le vieux du coin. — Ils l’ont mise dans le trou ! Vous venez ? Ils se dégageaient tous les deux, gagnaient le trottoir, faisaient quelques pas dehors.
+
+['ce', 'il', 'celui-ci', 'dreyfus', 'cela']	Gastin	Ce n’était pas si tragique que [MASK] soit en prison car le lieutenant de gendarmerie ne croyait pas trop à sa culpabilité, le juge d’instruction non plus, sans doute. Il était mieux là-bas, pendant quelques jours, que dans le village ou qu’enfermé dans sa maison.
+
+['</s>', '"', '...', '--non', '--oui']	Chevassou	Ils sont trop pareils. [MASK], lui, qui est une grande brute pleine de vie, une sorte de taureau satisfait, en a fait ce qu’il a voulu. Elle souffre encore un peu de son bras droit, qui conserve une certaine raideur.
+
+[';', ',', ':', '...', '(']	Maigret	— Qu’est-ce que vous allez faire ? — Ce qu’il y a à faire, répondit [MASK] sans enthousiasme. Il poussa un soupir, vida sa pipe sur le plancher grisâtre, regarda les cendres, par terre, d’un air embarrassé et ajouta comme à regret
+
+['elle', 'il', 're', 'lui', 'on']	Thérèse	— À votre santé ! — À la vôtre ! — Vous devez vous faire une drôle d’idée du pays ? Il ne répondit pas et, un peu plus tard, [MASK] descendit sa valise, qu’elle avait faite pour lui.
+
+['il', 'papa', 'elle', "c'", 'jésus']	Théo	Si on avait tiré avec un fusil de chasse, tout le monde l’aurait remarqué. Ensuite, ces engins-là ne font pas beaucoup de bruit et on y est tellement habitué depuis que tous les gosses en ont… — [MASK] était dans son jardin et il n’aurait rien vu ?
+
+['</s>', '-', '--', '...', '"']	Maigret	— Moi ? Pourquoi ? Qu’est-ce que j’ai fait ? — Il te le dira lui-même. — Vous êtes allé chez moi ? [MASK] ne répondit pas. — Vous avez tourmenté le gamin ? poursuivit le boucher d’une voix sourde.
+
+["c'", 'tout', 'on', 'il', 'qui']	Joseph	Là-bas, [MASK] était bien considéré. Ils ont des idées plus modernes, vous comprenez ? Il réussissait. Il avait de l’avenir. — Et vous ? — Moi aussi. Il m’aidait, me donnait des conseils.
+
+['.', 'le', 'dieu', 'jésus', 'les']	Joseph	— Je l’étais, comme mes parents, avant de rencontrer [MASK]. Lui ne croit qu’à la science et au progrès. Il déteste les prêtres. — Vous avez cessé de pratiquer ? — Oui. — Depuis ce qui s’est passé, vous n’êtes pas retournée à l’église ?
+
+['</s>', 'il', 'elle', 'on', 'tout']	Maigret	Les pupitres et les bancs étaient noirs, couverts d’entailles, avec le violet de l’encre qui faisait sur le vernis des taches à reflets mordorés. [MASK] alla à la première fenêtre de gauche, aperçut une partie de la cour, les jardins, la cabane à outils.
+
+['cela', 'tout', 'bien', 'ça', 'ceci']	Marcel	N’étouffait-il pas, dans la petite maison au fond de la cour, où on n’osait plus ouvrir les fenêtres ? — Vous allez le dire au lieutenant ? — Il faut d’abord que je voie [MASK]. — Vous lui raconterez que c’est moi qui ai parlé ?
+
+['il', 'elle', 'et', ',', 'qui']	Louis	[MASK] le regarda en souriant, avec l’air de dire : — Moi non plus. Mais il ne le dit pas. Peut-être étaient-ils aussi alourdis l’un que l’autre par ce qu’ils avaient mangé et par ce qu’ils avaient bu.
+
+['retraite', 'famille', 'campagne', 'maître', 'vacances']	Gastin	La plupart des maisons étaient obscures. Il reconnut la mairie, sans étage, à la hampe du drapeau. C’était une toute petite mairie et, dans la cour, au premier étage d’un bâtiment, probablement la maison de [MASK], une lampe était allumée.
+
+['un', "l'", 'ce', 'moi', '(']	Maigret	— Pas trop fatigué ? Quand je pense qu’il existe des fainéants de ton espèce ? Il s’en prit à [MASK]. — Alors, c’est vous, à ce qu’il paraît, qui allez découvrir le pot aux roses. — J’essaie !
+
+['il', 'elle', 'on', 'personne', 'celui-ci']	Maigret	? Comme [MASK] ne répondait ni oui, ni non, le lieutenant alla donner des instructions à ses hommes qui s’approchèrent de l’instituteur. Le commissaire qui n’avait rien à dire à celui-ci, se contenta de le regarder gravement. — Vous avez entendu.
+
+['il', 'me', 'lui', ',', 'qui']	Maigret	[MASK] paraissait un peu triste, ou fatigué, comme presque chaque fois qu’il en avait fini avec une affaire. Il était venu ici pour manger des huîtres arrosées de vin blanc du pays. — Qu’est-ce que je vous offre, commissaire ? Il hésita.
+
+["c'", 'celui-là', 'il', 'ceci', 'qui']	Marcellin	— [MASK] est son cousin. — J’aurais préféré qu’on lui laisse dire ce qu’il avait envie de me sortir. Les autres n’avaient visiblement pas envie qu’il parle, l’avaient en quelque sorte escamoté et maintenant le boucher devait être en train de cuver son vin dans une des chambres du premier.
+
+['robert', 'celui-ci', 'maurice', 'charles', 'jacques']	Maigret	— Évidemment… soupira-t-il. — Que voulez-vous dire ? — J’ai eu tort. Je ne sais plus. Cela m’avait paru tout naturel. — Quoi ? — De venir me mettre sous votre protection. — Sous ma protection ? répéta [MASK], surpris.
+
+['personne', 'part', 'propos', 'qui', 'paris']	Marcel	Ses camarades n’avaient pas dû se demander de quelle fenêtre il s’agissait. — Il est temps que nous retournions au village. — Je préférerais ne pas y rentrer avec vous. — Tu veux partir le premier ? — Oui. Vous êtes sûr que vous ne direz rien à [MASK] ?
+
+['on', 'il', 'elle', 'monsieur', 'maman']	Thérèse	Nous en avons plein le village. Je vous souhaite bien du plaisir. Un petit dernier ? — Non, merci. — [MASK] va vous montrer votre chambre. Vous lui direz à quelle heure vous avez envie qu’on vous monte votre eau chaude. — Je vous remercie.
+
+['</s>', 'le', 'un', '"', 'pierre']	Maigret	La gendarmerie est ici chaque matin et nous devons tenir notre livre en ordre. Les quatre hommes ne jouaient plus, écoutaient. [MASK], qui s’était rapproché du comptoir couvert de bouteilles, tendait sa carte et le patron mettait ses lunettes pour lire.
+
+['pierre', 'monsieur', 'madeleine', 'un', 'rose']	Lucas	— Je vous remercie. Je serai à la gare. Dans son bureau, il trouva [MASK] qui observait curieusement l’instituteur. — Attends-moi encore un moment. Un mot à dire au chef. Son travail lui permettait de prendre quelques jours de congé.
+
+['il', 'elle', '-', '</s>', 'celui-ci']	Maigret	— C’est un curé. — Il est pour l’instituteur ? — Contre. [MASK] finit par se lever, resta un instant, hésitant, au milieu de la salle, se décida pour la solution paresseuse et se dirigea vers l’escalier.
+
+['cela', 'ça', 'maman', 'dieu', 'monsieur']	Joseph	Et je voudrais tant qu’on m’explique ! Voyez-vous, je ne suis pas une mauvaise femme. J’ai connu [MASK] quand j’avais quinze ans et j’ai tout de suite su que c’était lui que j’épouserais. Nous avons préparé notre vie ensemble.
+

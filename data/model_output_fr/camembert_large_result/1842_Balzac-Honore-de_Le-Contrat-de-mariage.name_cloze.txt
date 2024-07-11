@@ -1,0 +1,200 @@
+['il', 'elle', 'on', 'lui', 'y']	Paul	Je suis las de vivre pour les autres, d’avoir des chevaux pour les montrer, de tout faire en vue du Qu’en dira-t-on, de me ruiner pour éviter que des niais s’écrient : – Tiens, [MASK] a toujours la même voiture.
+
+['Il', 'On', 'Louis', 'II', 'Monsieur']	Solonet	[MASK] vint en ce moment pour annoncer une bonne nouvelle à sa cliente ; il avait trouvé, parmi les spéculateurs de sa connaissance, deux entrepreneurs affriolés par l’hôtel, où l’étendue des jardins permettait de faire des constructions.– Ils offrent deux cent cinquante mille francs, dit-il ;
+
+['alors', 'donc', 'toi', 'Joseph', 'Monsieur']	Paul	? Pourquoi, [MASK], t’es-tu caché de moi ? Si tu m’avais dit un seul mot, mon pauvre bonhomme, je t’aurais éclairé sur ta position. Ta femme m’a refusé sa garantie. Puisse ce seul mot te dessiller les yeux !
+
+['Il', 'Adam', 'Gabriel', 'Alex', 'Nathan']	Paul	Si tu ne le savais pas, tu pourrais par une révolte intempestive gâter ton avenir. [MASK] est un jeune homme faible, il pourrait se laisser dominer par un ami, peut-être même pourrait-il tomber sous l’empire d’une femme, qui te feraient subir leurs influences.
+
+['chéri', 'voyons', 'tiens', 'va', 'maintenant']	Natalie	Avec quel talent il a conduit l’affaire. Mais, dit-elle, prends donc mon écrin, [MASK] ! Je ne me suis jamais sérieusement demandé ce que valent ces diamants. Quand je disais cent mille francs, j’étais folle.
+
+['Monsieur', 'monsieur', 'merci', '»', '[...]']	Paul	mais je suis modeste, je me résigne.– Et ta femme, dit l’impitoyable de Marsay, se résignera-t-elle ?– Ma femme, mon cher, fera ce que je voudrai.– Ha, mon pauvre ami, tu en es encore là ? Adieu, [MASK].
+
+['il', 'elle', 'on', 'madame', 'chacun']	Natalie	Madame, dit-il en prenant un moment où [MASK] s’absenta, vous savez ce qu’est un notaire de famille : le mien est un bon vieillard, pour qui ce serait un véritable chagrin que de ne pas être chargé de mon contrat de…
+
+['Charles', 'Louis', 'Alexandre', 'Joseph', 'David']	Paul	?– Si vous aviez eu des enfants, la mère aurait empêché les dissipations de la femme, elle serait restée au logis…– Si vous aviez raison, mon cher, dit [MASK] en fronçant le sourcil, je serais encore plus malheureux.
+
+['Napoléon', 'Voltaire', 'Descartes', 'Rousseau', 'Il']	Paul	Chez les gens ainsi faits, le vent du Nord chasse aussi vite les nuages que le vent d’Ouest les amène ; ils s’arrêtent aux effets sans remonter aux causes. [MASK] était une de ces natures essentiellement confiantes, sans mauvais sentiments, mais aussi sans prévisions.
+
+['Madame', 'madame', 'Mme', 'Catherine', 'Marie']	Solonet	– Vous, reprit [MASK], vous pourrez avoir un comte à meilleur marché, si, pour vous, le titre est la raison suprême de ce mariage.– Non, non, nous ne pouvons pas ainsi jouer notre honneur ! Je suis prise au piége, monsieur.
+
+['Voltaire', 'Rousseau', 'un', 'Luther', 'Kant']	Rousseau	Ce malheur est dû à l’un de leurs écrivains, à [MASK], hérétique infâme qui n’a eu que des pensées anti-sociales et qui, je ne sais comment, a justifié les choses les plus déraisonnables. Il a prétendu que toutes les femmes avaient les mêmes droits, les mêmes facultés
+
+['Il', 'Joseph', 'Elle', 'Jésus', 'Bébé']	Paul	Oui, mon amour, répondit la mère, tout a réussi selon mes désirs, et je me sens un poids de moins sur les épaules qui ce matin m’écrasait. [MASK] est une excellente pâte d’homme. Ce cher enfant, oui certes !
+
+['Louis', 'Charles', 'Joseph', 'Pierre', 'Guillaume']	Solonet	– Mais, reprit [MASK] en dépliant un projet d’acte inutile qu’il avait fait brouillonner par un clerc, comme nous sommes la partie opprimée, que nous sommes la fille, j’ai rédigé le contrat pour vous en éviter la peine.
+
+['–', '?', '!', 'maman', 'mère']	Natalie.–	Comment ? dit [MASK] Ne me suis-je pas déjà donné tout entier ? dit-il en regardant la jeune fille dont la beauté redoubla quand le plaisir causé par cette réponse eut coloré son visage.– Ma mère, comment puis je reconnaître tant de générosité ?
+
+['elle', 'Marie', 'Juliette', 'Jeanne', 'Alice']	Natalie	Reine de tous les bals, blasée sur les propos flatteurs, sur les sourires et les admirations qu’elle recueillait partout à son passage, [MASK] ne connaissait rien de l’existence. Elle vivait comme l’oiseau qui vole, comme la fleur qui pousse, en trouvant autour d’elle chacun prêt à combler ses désirs.
+
+['Voltaire', 'Platon', 'Socrate', 'Descartes', 'Nietzsche']	Paul	Cette grandeur est une exception. À qui n’arrive-t-il pas d’être abandonné de l’esprit qui soutient notre frêle machine et d’écouter la puissance inconnue qui nie tout ? [MASK], accroché par quelques faits irrécusables, croyait et doutait tout à la fois.
+
+['amant', 'lui', 'tel', 'époux', 'toujours']	Napoléon	Comme [MASK], le mari est condamné à des victoires qui, malgré leur nombre, n’empêchent pas la première défaite de le renverser. La femme, si flattée de la persévérance, si heureuse de la colère d’un amant, les nomme brutalité chez un mari.
+
+['Socrate', 'Pierre', 'Freud', 'Voltaire', 'Jules']	Paul	– Tu n’iras pas plus loin social. Marié, tu ne pourras plus être que ce que tu seras, à moins que ta femme ne daigne s’occuper de toi.– Mais, dit [MASK], tu m’écrases toujours sous des théories exceptionnelles !
+
+['Elle', 'Il', 'Marie', 'Alexandre', 'Judith']	Natalie	Des fêtes brillantes et la continuation d’un train royal entretenaient le public dans la croyance où il était des richesses de la maison Évangélista. [MASK] atteignit à sa dix-neuvième année, et nulle proposition de mariage n’était parvenue à l’oreille de sa mère.
+
+['Paul', 'Lucien', 'Henri', 'Pierre', 'Louis']	Paul	? Reprends les baisers que te met, là au bas, dans ce carré,Cette lettre engagea [MASK] dans une rêverie autant causée par l’ivresse où le plongeaient ces témoignages d’amour, que par ses plaisirs évoqués à dessein ;
+
+['elle', 'Dieu', 'il', 'Jésus', 'Marie']	Natalie	; mais si elle manquait de quelque chose, si elle avait des caprices, fais-toi son banquier, ne crains rien, je reviendrai riche. Après tout, mes terreurs sont sans doute vaines, [MASK] est un ange de vertu.
+
+['Marie', 'Marguerite', 'Jeanne', 'Louis', 'François']	Natalie	Quant à sa ratification, monsieur le comte s’entendra sans doute avec la chancellerie, s’il est besoin.Le jeune notaire prit une plume et libella sur la marge de l’acte cette terrible clause, à laquelle Paul et [MASK] ne firent aucune attention.
+
+['Telle', 'Tel', 'Là', 'Elle', 'Ceci']	Féraud	[MASK] est l’âme de la coterie Gondreville, bas intrigants qui sont toujours en haut, je ne sais pourquoi. Appuyés ainsi, qu’avons-nous à craindre ? Nous avons un pied dans toutes les capitales, un œil dans tous les cabinets, et nous enveloppons l’administration sans qu’elle s’en doute.
+
+['Monsieur', '</s>NOTUSED', 'Lui', 'M', '–']	Solonet	; durant votre existence, vos enfants pendront-ils leurs dents au croc ?– Qu’est-ce que signifie cette phrase ? dit la veuve. Que veulent dire ce croc et cet usufruit ?[MASK], homme de goût et d’élégance, se mit à rire.–
+
+['Elle', 'Il', 'Tel', 'Telle', 'Vénus']	Paul	[MASK] était bien cette fleur délicate qui veut une soigneuse culture, dont les qualités ne se déploient que dans un terrain humide et complaisant, que les façons dures empêchent de s’élever, que brûle un trop vif rayon de soleil, et que la gelée abat.
+
+['messieurs', 'Messieurs', 'Madame', 'madame', 'Monsieur']	Paul	Voyez-vous, il existe entre nous deux, [MASK], des habitudes qu’il faut briser. Mon influence doit céder à la vôtre. Je veux que vous m’aimiez, et croyez que je prends ici vos intérêts plus que vous ne l’imaginez.
+
+['il', 'Il', 'Pierre', 'Louis', 'François']	Mathias	Religieux et généreux incognito, [MASK] se trouvait partout où le bien s’opérait sans salaire. Membre actif du comité des hospices et du comité de bienfaisance, il s’inscrivait pour la plus forte somme dans les impositions volontaires destinées à secourir les infortunes subites, à créer quelques établissements utiles.
+
+['elle', 'il', 'on', 'lui', 'Dieu']	Paul	Elle voulut savoir si [MASK] l’aimait assez pour surmonter les difficultés prévues par sa mère, et que lui dénonçait la figure un peu nuageuse de maître Mathias. Ces sentiments la poussèrent à un mouvement de loyauté qui d’ailleurs la posait bien.
+
+['Voltaire', 'Napoléon', 'Molière', 'Charles', 'Balzac']	Paul	Pour que la lettre de la comtesse de Manerville puisse être bien comprise, il est nécessaire de rapporter celle que [MASK] avait écrite à sa femme et que voici.Ma bien-aimée, quand tu liras cette lettre je serai loin de toi ; peut-être serai
+
+['Charles', 'Louis', 'Napoléon', 'François', 'Guillaume']	Paul	Son désastre le rendait aussi célèbre en ce moment qu’il l’avait été jadis par sa fortune, il y eut donc un mouvement de curiosité. Chacun disait son mot. Le vieillard avait accompagné [MASK] sur le port, et ses souffrances durent être vives en entendant quelques-uns de ces propos.–
+
+['madame', 'Madame', 'Monsieur', 'Mme', 'monsieur']	Solonet	Mais si vous avez mangé de si bon appétit quand vous étiez fille, vous dévorerez donc quand vous serez femme.– Laissez-nous alors, dit [MASK], la plus belle fille du monde doit toujours manger plus qu’elle n’a.– Je vais dire deux mots à mon client, reprit le vieux notaire.–
+
+['Anna', 'Marie', 'Clara', 'Sophie', 'Alice']	Paul	? se dit-elle. N’aurait-il pas soustrait [MASK] à mon influence en lui inspirant de mauvais soupçons pendant leur conférence secrète dans le petit salon ?Elle était debout devant sa cheminée, le coude appuyé sur le coin du manteau de marbre, tout songeuse.
+
+['ami', 'lecteur', 'seigneur', 'Jacques', 'Jean']	Paul	Dans deux ans, je puis avoir quatre cent mille livres en revenus territoriaux. Une fois le brasseur en bière, je puis compter sur six cent mille livres de rente. Tu le vois, [MASK], je ne donne à mes amis que les conseils dont je fais usage pour moi-même.
+
+['Marie', 'Louise', 'Charlotte', 'Sophie', 'Jeanne']	Natalie	Un an après son installation, sans s’être déclaré, le comte Paul fut si attentif auprès de [MASK], que le monde le considéra comme lui faisant la cour. Ni la mère ni la fille ne paraissaient songer au mariage.
+
+['non', 'maintenant', 'oui', 'enfin', 'Monsieur']	Paul	Hélas ! [MASK], il faut bien se livrer à l’écriture, je dois m’habituer à minuter des dépêches. J’aborde la politique. Je veux avoir dans cinq ans un portefeuille de ministre ou quelque ambassade d’où je puisse remuer les affaires publiques à ma fantaisie.
+
+['Il', 'Elle', 'Chacun', 'Lui', 'II']	Paul	Elle usa donc de tout son ascendant pour se grandir, pour grandir sa fille et donner du prix à tout chez elle, afin de dominer par avance l’homme en qui elle vit le moyen de continuer sa vie aristocratique. [MASK] s’estima davantage quand il fut apprécié par la mère et la fille.
+
+['Marie', 'Julie', 'Charlotte', 'Marianne', 'Catherine']	Dinah	Elle a d’ailleurs aussi peu d’intelligence que j’en veux chez une femme. S’il en existait une plus bête, je me mettrais en route pour l’aller chercher. Jamais cette fille, qui se nomme [MASK], ne me jugera ; jamais elle ne me contrariera
+
+['vous', 'toi', 'elle', 'lui', 'Vous']	Paul	Mon cœur de mère ne sera-t-il pas sans cesse satisfait par l’idée que je contribue, comme je le dois, à votre double fortune ?– Mais, chère adorable mère, vais-je donc être seule avec [MASK], là, tout de suite ?
+
+['Pierre', 'Charles', 'Joseph', 'Louis', 'Monsieur']	Solonet	car l’accent de la veuve fit croire à [MASK] que cette alliance, conseillée par les intérêts, allait s’étendre un peu plus loin.– Vous pouvez compter sur moi, dit-il, je vous trouverai des placements sur marchandises où vous ne risquerez rien et où vous aurez des gains considérables…
+
+['Napoléon', 'Voltaire', 'Bonaparte', 'Rothschild', 'Balzac']	Manerville	Parmi les personnes qui se trouvaient là, quelques-unes connaissaient personnellement [MASK]. Son désastre le rendait aussi célèbre en ce moment qu’il l’avait été jadis par sa fortune, il y eut donc un mouvement de curiosité. Chacun disait son mot.
+
+['Marie', 'Pierre', 'Jeanne', 'Louis', 'madame']	Solonet	– Nous n’avons pas un cours d’économie politique à faire, mais un contrat de mariage, dit [MASK] en laissant échapper un geste d’impatience et en interrompant le vieillard.– Je vous prie de me laisser parler à mon tour, dit le bonhomme.
+
+['madame', 'oh', 'Madame', 'dame', 'dames']	Paul	Rien n’attriste plus une femme que le froissement de ses vanités, je n’ai jamais vu nulle part une femme mal mise être aimable et de bonne humeur. Allons, soyez juste, [MASK] ! nous jouissons beaucoup plus en l’objet aimé qu’en nous-même.–
+
+['Je', 'Il', 'je', 'On', 'Dieu']	Paul	Mais, ma mère chérie, ne sommes-nous donc pas assez fortes toutes les deux pour rester ensemble près de lui, sans avoir à redouter ce froncement de sourcils que vous paraissez redouter ? [MASK] t’aime, maman.– Oh ! oh ! il me craint plus qu’il ne m’aime.
+
+['Marie', 'Jeanne', 'Sophie', 'Emma', 'Alice']	Natalie	[MASK], séparée de sa mère, pleurait. La jeune fille était en proie à tous les doutes qui saisissent le cœur à l’entrée d’une vie nouvelle, où, malgré les plus fortes assurances de bonheur, il existe mille piéges dans lesquels tombe la femme.
+
+['lui', 'Proust', 'Flaubert', 'Baudelaire', 'Freud']	Paul	Comment [MASK], qui aimait comme on aime quand le désir augmente l’amour, aurait-il reconnu dans une fille de ce caractère et dont la beauté l’éblouissait, la femme, telle qu’elle devait être à trente ans, alors que certains observateurs eussent pu se tromper aux apparences
+
+['elle', 'cela', 'ça', 'lui', 'Marie']	Natalie	Y avait-il dans sa conduite un seul de ces motifs bas et ignobles qui salissent l’âme ? Elle ne savait pas compter, était-ce un crime, un délit ? Un homme n’était-il pas trop heureux d’avoir une fille comme [MASK] ?
+
+['Pierre', 'Marie', 'Timothée', 'Jeanne', 'Paul']	Natalie	Chère ignorante, tu ne sais pas combien nous avons eu de peine à bâtir un majorat à l’aîné de tes enfants ! Ne nous rejette pas dans les ennuis d’où nous sommes sortis.– Pourquoi ruiner ma mère ? dit [MASK] en regardant Paul.– Pourquoi êtes-vous si riche ?
+
+['Charles', 'Monsieur', 'Louis', 'Paul', 'Henry']	Mathias	– Comment menez-vous un train qui exige cent mille livres de rentes ? s’écria [MASK] atterré.– Notre fille nous a coûté les yeux de la tête. D’ailleurs, nous aimons la dépense. Enfin, vos jérémiades ne nous feront pas retrouver deux liards.–
+
+['Il', 'Elle', 'On', 'Madame', 'Monsieur']	Solonet	? Il nous dira : Vous voulez donc dissiper la fortune de mon client, qui, par la création du majorat, est mise hors de toute atteinte, comme si les époux se mariaient sous le régime dotal.[MASK] calma ses propres scrupules en se disant : –
+
+['Marie', 'Catherine', 'Madame', 'Mme', 'Florence']	Natalie	» circulait dans les salons et dans les coteries. Les mères de famille, les douairières qui avaient des petites-filles à établir, les jeunes personnes jalouses de [MASK], dont la constante élégance et la tyrannique beauté les importunaient, envenimaient soigneusement cette opinion par des propos perfides.
+
+['messieurs', 'Monsieur', 'monsieur', 'madame', 'Madame']	Paul	; jamais elle ne me contrariera ; je serai sa chambre haute, son lord, ses communes. Enfin, [MASK], cette fille est une preuve irrécusable du génie anglais ; elle offre un produit de la mécanique anglaise arrivée à son dernier degré de perfectionnement ;
+
+['Pierre', 'maman', 'Madame', 'madame', 'Thérèse']	Mathias	la somme mise dans la communauté sera du quart des apports respectifs ; le survivant garde le mobilier sans être tenu de faire inventaire. Tout est simple comme bonjour.– Ta, ta, ta, ta, dit [MASK], je ne fais pas les affaires comme on chante une ariette.
+
+['Joseph', 'Louis', 'Charles', 'Pierre', 'Alexandre']	Paul	Quand la porte cochère se ferma sur la voiture des deux notaires, elle se retourna vers son gendre, impatientée de résoudre ses doutes.– Voilà la plus terrible journée de ma vie, s’écria [MASK] vraiment joyeux de voir ces difficultés terminées.
+
+['famille', 'Dieu', 'Rachel', 'Jésus', 'Marie']	Natalie	Ma dot était la beauté, la vertu, le bonheur, la naissance, l’éducation. L’argent donne-t-il ces trésors ? Si le père de [MASK] entendait notre conversation, son âme généreuse en serait affectée pour toujours et lui gâterait son bonheur en paradis.
+
+['il', 'elle', 'on', 'Louis', 'Charles']	Paul	Après avoir connu le monde, après s’être dégrisé de beaucoup d’illusions, après avoir dissipé les capitaux liquides que son père avait amassés, il vint un moment où, pour continuer son train de vie, [MASK] dut prendre les revenus territoriaux que son notaire lui avait accumulés.
+
+['</s>NOTUSED', 'Madame', 'Marie', '–', 'Mme']	Josette	À son retour, le vieillard vint voir son ancien client, et se contenta de le regarder endormi, comme une mère regarde son enfant. [MASK], la gouvernante, accompagnait son maître, et demeura debout devant le lit, les poings sur les hanches.–
+
+['ce', 'Charles', 'lui', 'David', 'James']	Manerville	Certes, s’il en est ainsi, le bonhomme aura voulu sauver l’avenir de cette famille.– Natalie est trop belle pour ne pas être horriblement coquette. Une fois qu’elle aura deux ans de mariage, disait une jeune femme, je ne répondrais pas que [MASK] ne fût pas un homme malheureux dans son intérieur.–
+
+['hélas', 'Monsieur', 'monsieur', 'moi', 'non']	Paul	moi, je me sentirai l’homme le plus heureux du monde quand mon valet de chambre entrera me disant : – Madame attend monsieur pour déjeuner. Quand je pourrai, le soir en rentrant, trouver un cœur…– Toujours trop leste, [MASK] !
+
+['Il', 'Napoléon', 'Voltaire', 'Tel', 'Montesquieu']	Henri	[MASK] est la nature la plus parfaitement imparfaite, la plus illégalement belle que je connaisse. Si vous saviez avec quelle supériorité cet homme encore jeune plane sur les sentiments, sur les intérêts, et quel grand politique il est, vous vous étonneriez comme moi de lui savoir tant de cœur.
+
+['</s>NOTUSED', '–', '—', ';', 'il']	Paul.–	lui dit-il.– Heureusement, répondit [MASK] Je comprends autrement le mariage, répondit naïvement le vieux notaire. Une femme doit, selon moi, partager le sort bon ou mauvais de son mari. J’ai entendu dire que les jeunes mariés qui s’aimaient comme des amants n’avaient pas d’enfants.
+
+['Madame', 'Napoléon', 'Voltaire', 'Monsieur', 'Balzac']	Paul	Ce silence, si peu habituel aux gens de province, plut beaucoup à [MASK]. Les gens timides sont ombrageux, les propositions brusques les effraient. Ils se sauvent devant le bonheur s’il arrive à grand bruit, et se donnent au malheur s’il se présente avec modestie, accompagné d’ombres douces.
+
+['lui', 'elle', 'moi', 'Dieu', 'eux']	Paul	Il s’éleva dans son âme, contre [MASK], un léger mouvement où il n’y avait ni haine, ni aversion, ni rien de mauvais encore ; mais n’était-il pas la partie adverse de ce procès secret ?
+
+['Charles', 'Monsieur', 'David', 'Alexandre', 'Joseph']	Paul	– Me donner, me donner, dit la jeune fille en riant et agitant un écran fait en plumes d’oiseaux indiens. Que dites-vous tout bas ?– Je disais, reprit [MASK], combien je vous aime, puisque les convenances me défendent de vous exprimer mes désirs.–
+
+['Dieu', 'tout', 'cela', 'autrui', 'moi']	Natalie	Tu as assez de bonnes fortunes pour respecter [MASK] et m’accorder toute la probité du sentiment qui nous lie. Je ne sais pas de meilleur gardien que toi. Je laisse ma femme sans enfant, un amant serait bien dangereux pour elle.
+
+['Voltaire', 'on', 'Goethe', 'Shakespeare', 'il']	Talleyrand	En apprenant ces tragi-comédies, beaucoup de gens refusent d’y croire ; ils prennent le parti de la nature humaine et de ses beaux sentiments, ils soutiennent que c’est des fictions. Mon cher, [MASK] a dit ce magnifique mot : – Tout arrive !
+
+['Dieu', 'Jésus', 'dieu', 'lui', 'elle']	Natalie	Perdu dans ses pensées, en proie à une terrible incertitude involontaire, mais combattue par les gages d’un amour pur et par sa croyance en [MASK], il relut deux fois cette lettre diffuse, sans pouvoir en rien conclure ni pour ni contre sa femme.
+
+['Il', 'Elle', 'On', 'Puis', 'Chacun']	Natalie	; il pressa la main de la jeune fille et la baisa comme un homme à qui l’amour était plus cher que l’intérêt. [MASK] sortit.– Sac à papier, monsieur le comte, vous faites des sottises, reprit le vieux notaire en rejoignant son client.
+
+['qui', 'elle', 'ce', 'cela', 'se']	Natalie	Femme d’esprit, insinuante, cette femme-là vous sera d’un grand secours au milieu de la vie politique à laquelle vous devez aspirer. Elle a d’ailleurs sacrifié tout à sa fille, qu’elle adore, et [MASK] sera sans doute une bonne femme, car elle aime bien sa mère.
+
+['Virginie', 'Marie', 'Charles', 'Louise', 'Louis']	Natalie	Le matin où, se trouvant mieux, il alla se promener sur le tillac pour y respirer les brises marines d’un nouveau climat, il sentit ses lettres en mettant les mains dans ses poches ; il les saisit aussitôt pour les lire, et commença par celle de [MASK].
+
+['Dieu', 'Joseph', 'Pierre', 'Charles', 'Monsieur']	Paul	Les natures faibles, une fois prévenues, se jettent dans l’entêtement, et n’en reviennent jamais. Tout était donc perdu ! Le jour où commença la discussion, elle avait compté sur la faiblesse de [MASK], sur l’impossibilité où il serait de rompre une union si avancée.
+
+['il', 'Charles', 'Joseph', 'Louis', 'Paul']	Paul	En ce moment [MASK] était optimiste : il voyait un avantage à tout, et ne se disait pas qu’une belle-mère ambitieuse pouvait devenir un tyran. Aussi tous les soirs, en sortant, s’apparaissait-il marié, se séduisait-il lui-même, et chaussait-il tout doucement la pantoufle du mariage.
+
+['autrui', 'argent', 'autres', 'hommes', 'elle']	Israël	Il faut avoir été notaire pendant quarante et un ans et demi pour connaître l’espèce de douleur que me cause la vue de mon nom imprimé tout vif à la face d’[MASK] dans les verbaux de la saisie et dans l’établissement de la propriété.
+
+['elle', 'ce', 'il', 'je', 'Sophie']	Natalie	Ne devons-nous pas confondre nos fortunes et vivre ensemble ? D’ailleurs à quoi bon prendre du souci ? Dans quelques jours [MASK] sera ma femme, nos intérêts sont bien définis, rien ne peut nous désunir. Vogue la galère ! Néanmoins je serai sur mes gardes.
+
+['Monsieur', 'monsieur', 'mais', 'Madame', 'madame']	Paul	s’il en est ainsi, je vais vous proposer une affaire. Je suis forcée de vendre mon collier de perles et mes boucles d’oreilles. Oui, [MASK], je ne veux pas mettre un sou de ma fortune en rentes viagères, je n’oublie pas ce que je vous dois.
+
+['il', 'on', 'Charles', 'Louis', 'François']	Paul	Quand il eut officiellement promené ses équipages, traité les jeunes gens les plus distingués de la ville, fait des parties de chasse avec eux dans son château restauré, [MASK] comprit que la vie de province n’allait pas sans le mariage.
+
+['Pierre', 'Guillaume', 'Louis', 'Joseph', 'Jean']	Solonet	En ce moment les deux notaires ressemblaient à deux acteurs qui se donnent la main dans la coulisse après avoir joué sur le théâtre une scène de provocations haineuses.– Mais, dit [MASK], qui pensait alors aux choses du métier, n’est-ce pas à moi d’acquérir les terres dont vous parlez ?
+
+['Dieu', 'tous', 'Paris', 'chacun', 'classe']	Paul	Par un phénomène inexpliqué, mais dont les effets sont familiers aux penseurs, son esprit devait, pendant le sommeil, travailler ses idées, les éclaircir, les coordonner, lui préparer un moyen de dominer la vie de [MASK], et lui fournir un plan qu’elle mit en œuvre le lendemain même.
+
+['</s>NOTUSED', 'alors', 'hein', 'non', 'oh']	Natalie	Mais, quoique t’aimant comme un fou, s’il survenait des discussions auxquelles il serait étranger, et par-dessus lesquelles il faudrait qu’il passât, pour toi comme pour moi, [MASK], hein ? Si, sans blesser aucunement les convenances, un peu de gentillesse dans les manières le décidait
+
+['autrui', 'toi', 'Dieu', 'dormir', 'penser']	Paul	promène-toi le matin, dîne en ville le soir, rends beaucoup de visites, accorde peu de moments à [MASK]. Par ce système tu ne perdras rien de ton prix. Quand pour aller jusqu’au bout de l’existence, deux êtres n’ont que le sentiment, ils en ont bientôt épuisé les ressources
+
+['elle', 'qui', 'Maria', 'Marie', 'Clara']	Natalie	; est-il joué, la jeune fille n’est plus. Sans cesse au cœur de sa mère, [MASK] n’avait reçu, comme toute femme espagnole, qu’une instruction purement religieuse et quelques enseignements de mère à fille, utiles au rôle qu’elle devait jouer.
+
+['celui', 'celle', 'ceux', 'celles', 'Pierre']	Paul	Il déchaînait les passions, il les calmait tour à tour en faisant suer dans son harnais [MASK] dont la vie et le bonheur étaient à tout moment en question, et sa cliente qui ne voyait pas clair à travers les tournoiements de la discussion.–
+
+['–', '—', '!', '</s>NOTUSED', '[...]']	Paul.–	Tudieu, quel jeu serré !– Natalie ? s’écria [MASK] Je n’en mettrais pas ma main au feu, dit le vieillard. Vous la voulez, prenez-la ! Mais je désirerais voir manquer ce mariage sans qu’il y eût le moindre tort de votre côté.–
+
+['–', '!', 'Mme', '—', '?']	Natalie.–	Peut-être serais-je dispensée de mettre le reste de ma fortune à fonds perdu.– Le beau collier de perles ! dit [MASK] J’espère qu’il te le laissera, s’il t’aime. Ne devrait-il pas faire remonter tout ce que je lui remettrai de pierreries et te les offrir.
+
+['Madame', 'Monsieur', 'madame', 'Marie', 'Julie']	Paul	Le mariage est une institution fort agréable, si elle donne aux maris le talent de deviner les désirs de leurs femmes.– Ce n’est pas autre chose, dit [MASK], mais il est minuit, il faut partir.– Pourquoi si tôt aujourd’hui ?
+
+['</s>NOTUSED', 'Lui', 'Dieu', 'Toi', '»']	Montriveau	car une fois que nous aurons mesuré nos griffes, ta belle-mère et moi, nous verrons qu’il n’y a rien à gagner quand on se trouve diable contre diable. [MASK], mon cher, est lieutenant-général ;
+
+['Monsieur', 'Madame', 'Holmes', 'madame', 'Marx']	Solonet	Si monsieur cherche une fortune égale en capital à la sienne, dit [MASK], nous n’avons pas trois millions et demi, rien n’est plus évident. Si vous possédez trois accablants millions, nous ne pouvons offrir que notre pauvre petit million, presque rien !
+
+['il', 'elle', 'chacun', 'Louis', 'Jeanne']	Natalie	Par un seul mot la créole pouvait influencer la vie de ces deux êtres destinés à marcher ensemble à travers les halliers et les grandes routes de la société parisienne, car [MASK] avait en sa mère une croyance aveugle. Quelle portée acquérait un conseil dans un esprit ainsi prévenu
+
+['tout', '</s>NOTUSED', 'le', '!', 'la']	Angélique	… dans ce cas, je brise [MASK]. Le grand secret de l’alchimie sociale, mon cher, est de tirer tout le parti possible de chacun des âges par lesquels nous passons, d’avoir toutes ses feuilles au printemps, toutes ses fleurs en été, tous les fruits en automne.
+
+['suite', 'nouveau', 'même', 'quoi', 'lui']	Marsay	mais une trahison facile et qui donnerait la mort, elle y renonce. Non, je n’y pense pas. Grâce pour ce cri si naturel à un homme. Chère ange, tu verras de [MASK], il sera le locataire de notre hôtel et te le laissera.
+
+['lui', 'elle', 'eux', 'elles', 'Louis']	Paul	ni elle ni sa fille ne pouvaient être soupçonnées d’avoir des vues intéressées ; leurs sentiments paraissaient purs de toute mesquinerie ; à la moindre difficulté financière soulevée par [MASK], elles avaient le droit de s’envoler à une distance incommensurable, enfin elle avait sur son futur gendre un ascendant insurmontable.–
+
+['Monsieur', 'madame', 'monsieur', 'Madame', 'Mme']	Solonet	Mon mari a payé le tout deux cent mille francs, ainsi je consens, dit-elle ; mais vous me réserverez le mobilier, les glaces…– Ah ! dit en riant [MASK], vous entendez les affaires.– Hélas ! il faut bien, dit-elle en soupirant.–
+
+['il', 'Charles', 'David', 'John', 'Édouard']	Manerville	Quand [MASK] passait en tilbury ou monté sur son beau cheval à la promenade, quelques jeunes gens s’arrêtaient, et il les entendait se disant : – « Voilà un homme heureux : il est riche, il est joli garçon, et il va, dit-on, épouser mademoiselle Évangélista.
+
+[':', 'que', 'aussitôt', 'la', 'le']	Paul	Croyez-vous que nous ayons besoin de le faire garder par la gendarmerie ? Craignons-nous de nous le voir enlever par quelque conspiration bordelaise ?– Soyez persuadée, chère amie, que vous me faites un plaisir extrême…La parole fut coupée à la marquise par le valet de chambre, qui annonça [MASK].
+
+['il', 'on', 'Dieu', 'Satan', 'elle']	Vandenesse	Le jour où [MASK] a remué dans le cœur de ta femme la corde du désir que tu y laissais vierge, tes fanfaronnades amoureuses, tes torrents de cervelle et d’argent n’ont pas même été des souvenirs. Tes nuits conjugales semées de roses, fumée !
+
+['Madame', 'Maria', 'Marie', 'madame', 'Mme']	Solonet	Voici pourquoi, reprit [MASK]. Nous n’avons pas fait inventaire après la mort de notre mari, nous étions Espagnole, créole, et nous ne connaissions pas les lois françaises. D’ailleurs, nous étions trop douloureusement affectée pour songer à de misérables formalités que remplissent les cœurs froids.
+
+['elle', 'Marie', 'lui', 'Julie', 'Louise']	Natalie	Mais il formait un voile dans lequel la femme était enveloppée, comme le papillon l’est dans sa larve. Néanmoins un homme habile à manier le scalpel de l’analyse eût surpris chez [MASK] quelque révélation des difficultés que son caractère devait offrir quand elle serait aux prises avec la vie conjugale ou sociale.
+
+['Jeanne', 'Marie', 'Madeleine', 'Louise', 'Alice']	Natalie	– Oh, chère mère, quant à lui obéir ! dit [MASK] en laissant échapper un geste de tête qui exprimait une gracieuse mutinerie. Vous riez ? reprit-elle. Mon père n’a-t-il pas toujours satisfait vos caprices ? pourquoi ? il vous aimait.
+
+['Napoléon', 'Charles', 'Alexandre', 'Louis', 'Frédéric']	Mathias	Je veux gagner une belle fortune en sept ans. À mon retour je n’aurai que quarante ans. Tout est encore possible à cet âge.– Vous ? dit [MASK] en laissant échapper un geste de surprise, vous, monsieur le comte, aller faire le commerce, y pensez-vous ?
+
+['On', 'Cela', 'Il', 'Noël', 'Elle']	Paul	– Je ne connaissais ni l’étendue de mes obligations, ni le chiffre de mes dettes, répondit la mère qui ne voulait pas dire son secret. D’ailleurs, dans un an ou deux d’ici, je te répondrai là-dessus. [MASK] va venir, habillons-nous !
+
+['Pourquoi', 'Comment', 'Mais', 'Que', 'pourquoi']	Natalie	Dans le calme de la nuit, elle s’excusa par une suite de raisonnements que sa fierté domina. [MASK] n’avait-elle pas profité de ses dissipations ? Y avait-il dans sa conduite un seul de ces motifs bas et ignobles qui salissent l’âme ?
+

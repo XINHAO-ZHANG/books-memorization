@@ -1,0 +1,200 @@
+['</s>', 'le', 'lui', "l'", 'Le']	Montussan	– Je ne trouve pas, dit-il, j’ai la vue obscurcie, je ne sais ce qui se passe dans ma tête. Si je pouvais mourir à mon tour ! [MASK], qui était resté silencieux et froid pendant cette courte scène, fit deux pas en avant.
+
+[',', 'et', 'il', ';', 'demi-tour']	Montussan	– Non, répondit l’artiste. Il faut que j’aille au boulevard. – Ah ! très bien ! Alors, au revoir, fit [MASK] qui partit sans insister, faisant claquer ses doigts et fredonnant un air de chasse.
+
+['"', ':', '...', ';', ',']	Laurence	Mais cette vue le rassura sur l’issue de son audacieuse entreprise. – Maintenant, dit-il, je n’ai plus qu’une chose à faire : avertir [MASK]. Après un moment de perplexité il reprit : – L’avertir de quoi ?
+
+[',', 'de', 'DE', 'et', 'ET']	Montussan	. – Au fait, celui qui a raconté cela est un observateur et je suis bien désolé que tu te sois intéressé à moi, puisque ce qu’on en dit te fâche. – [MASK], tu vas me mettre hors de moi. –
+
+['Jésus', 'celui-ci', 'Holmes', 'Socrate', 'Dieu']	Glossard	– Oh ! mon Dieu ! mon Dieu ! que croire ? A qui se fier ? Mais, encore une fois, je ne puis me résoudre à l’accuser, moi aussi. – Le doute n’est pas permis, je vous l’affirme, répliqua [MASK].
+
+['celui-ci', 'Pierre', 'Jésus', 'Dieu', 'chacun']	Montussan	Il ne faut pas croire que le cœur et le cerveau de [MASK] ne fussent pas en proie à d’horribles révoltes, en songeant à l’enlacement de ces deux êtres qu’il s’était donné pour mission de réunir.
+
+['il', 'Il', 'Elle', 'mère', 'elle']	Laurence	Tout à l’heure, la pauvre enfant trouvait que le temps ne passait pas assez vite. Maintenant, il lui semblait qu’il s’envolât avec une rapidité extraordinaire. Six heures et demie sonnèrent, puis bientôt sept heures. [MASK] commençait à trembler pour sa fille, elle aussi.
+
+['Il', 'il', 'Monsieur', 'Elle', 'On']	Lucien	– Il ne viendra plus, vous dis-je. Je le sens, j’en suis sûre. [MASK] exultait, mais il sut dissimuler sa joie. – Quoi ! mademoiselle, dit-il, vous vous abandonnez vous-même pour un petit retard ! Il devait venir.
+
+['</s>', 'et', 'Il', 'il', 'Elle']	Laurence	Qui pouvait le voir ? personne. Qui pouvait le troubler ? nul être au monde. Je ne dis pas que cela se soit passé ainsi, mais enfin c’est possible et nous devons rechercher les faits. [MASK], dans une pose désespérée, se tordait les bras.
+
+['(', '...', 'Et', ',', 'dit-il']	Lucien	– C’est très-intéressant, très-intéressant ! déclara [MASK] d’un ton péremptoire. – Attention, il se lève. Le voilà qui va partir, dit le peintre. Nous allons le suivre, n’est-ce pas ? – Eh !
+
+["L'", 'TRES', '/', "d'", 'très']	Georges	– Quel événement ? demanda [MASK] inquiet. – Mais ce qui s’est passé dans la nuit où les gardiens de la paix, guidés par deux particuliers plus ou moins catholiques, sont venus vous avertir que des malfaiteurs avaient escaladé le mur du jardin. –
+
+[',', 'se', 'et', 'on', 'il']	Montussan	Vous donnerez le surplus aux pauvres, à moins que vous ne vouliez l’ajouter à vos économies. Et jetant une pièce de cinq francs aux pieds du peintre belge, [MASK] prit son chapeau et la badine qui ne le quittait jamais : –
+
+["l'", "c'", 'le', ',', 'la']	Georges	le meilleur des hommes ! [MASK] était farouche. Le malheureux était atteint en plein cœur. Il ne s’inquiétait plus de sa position. Peu lui importait d’être accusé ou de ne pas l’être. Il ne pensait plus qu’à une chose, à ce que venait de raconter
+
+['et', ',', 'que', 'elle', ';']	Montussan	Mais en voyant ses yeux fatigués, son front chauve, sa figure ravagée, elle changea aussitôt d’expression comme si elle eût jugé qu’elle imaginait l’impossible. [MASK], d’ailleurs, n’avait jamais perdu son air froid et extrêmement réservé.
+
+['il', 'celui-ci', "l'", 'Jean', 'Robert']	Georges	Mais pendant que l’on échangeait ainsi quelques paroles banales, l’employé préparait sa besogne. – Vous avez votre certificat de vie ? demanda-t-il. – Le voici, répondit [MASK] en tirant la pièce de sa poche. – Ah ! parfait.
+
+[',', 'de', "d'", "l'", 'le']	Remi	C’était le pied à l’étrier. Il y avait là de quoi ébaucher des ambitions ou s’assurer un modeste bonheur. L’un, [MASK], se lança, tête baissée, dans les plaisirs. Les femmes et le jeu lui mangèrent son patrimoine en trois ans.
+
+['celui-ci', 'Pierre', 'Jean', 'celle-ci', 'Martin']	Georges	– Depuis combien de temps habitez-vous cette maison ? – Depuis sept ans et demi, je crois, répondit [MASK]. – Avez-vous des domestiques ? – J’ai une servante. – Depuis combien de temps est-elle à votre service ? – Depuis trois semaines.
+
+['-', 'ah', ',', 'non', 'oui']	Riaux	Il est incapable d’une indélicatesse. Il se peut que moi, dont la réputation est affreuse, je sois soupçonné et même convaincu de toutes sortes de cr : mes – on n’est jamais sûr de rien – mais [MASK], ah ! je vous en prie.
+
+['il', 'elle', 'Marie', 'celle-ci', 'celui-ci']	Riaux	Et alors ? – Et alors, comme son bonheur consiste à épouser ce petit écrasé de Dormeau, eh bien ! je le lui ferai épouser, quand même il faudrait y perdre mon nom. – Voilà comme tu es, fit [MASK] avec un soupir de regret.
+
+['Le', 'Celui', 'Ce', 'Il', ',']	Laurence	. – Comment allons-nous payer ce médecin ? fit [MASK] qui songeait au plus pressé. – De ce côté, je suis tranquille. Il nous enverra sa note. C’est autant de gagné. – Il faudra aller voir ton frère.
+
+['un', 'personne', 'il', "quelqu'", 'son']	Largeval	Tous les ivrognes sont des imbéciles. Le grand air le saisit brusquement et il tomba à la renverse. Fort heureusement pour lui, [MASK] se trouvait là pour l’empêcher de s’étaler jusqu’à terre. Il le saisit et le plaça dans un fauteuil.
+
+['Jean', 'celui-ci', 'Pierre', 'Alice', 'Martin']	Georges	– Ma situation, continua [MASK], était extraordinairement délicate, car je ne pouvais avoir aucune idée de ce que signifiait son langage mystérieux. – Que vous a-t-il dit ? – Il m’a parlé de la mort de quelqu’un dont je ne connaissais même pas le nom.
+
+['mon', "l'", 'la', 'Mr', 'ma']	Remi	Quel est le démon qui a fait germer dans mon esprit la funeste résolution de prendre la place de [MASK] ! Rem h ! c’était donc lui qui était coupable ? c’était donc lui qui avait commis quelque horrible forfait ? Mais non. On se trompe évidemment.
+
+['lui', 'celle-ci', 'celui-ci', 'elle', 'personne']	Geneviève	Certes, il savait bien que [MASK] ne l’aimait pas, ne pouvait pas l’aimer Seulement, lui entendre dire ces choses cruelles, c’était vraiment trop dur. Un sanglot lui monta à la gorge. Il crut qu’il allait étouffer et mourir là.
+
+['le', 't-il', 'la', "l'", '-t-il']	Georges	– Non, monsieur, il était seul avec moi. – Absolument seul ? – Absolument, affirma [MASK], dont la voix commençait à trembler. Le commissaire garda un instant le silence et fit entendre le petit bruit qui avait le don d’égayer les gardiens de la paix.
+
+['le', "l'", 'la', 'un', 'M.']	Largeval	As-tu besoin de te consulter longuement pour me dire oui ou non ? – Cette somme de quatre cents francs, tu en as besoin tout de suite ? – Evidemment, sans cela… – C’est que, reprit [MASK] le riche, nous sommes au 25 février.
+
+[',', 'de', 'se', 'il', 'on']	Riaux	Mais quelle ne fut pas leur stupéfaction de voir assis à la place même que venait de quitter l’homme, un individu à mine peu rassurante qui les regarda d’un air indifférent, pendant que du pouce il effaçait tranquillement ce que l’autre avait écrit sur la table. [MASK] faillit perdre contenance,
+
+['Sam', 'John', 'il', 'celui-ci', 'Jean']	Georges	Seulement je soutiens que je ne vous avais jamais vu, que j’ignore qui vous êtes et je vais plus loin, je suis content qu’on vous ait arrêté... – Ouais ! murmura le vieux. – ... Parce que, continua [MASK], je finirai par savoir enfin quel crime avait commis mon frère.
+
+['Madame', 'madame', 'Monsieur', 'monsieur', 'maman']	Pascalin	Un sentiment d’avidité le poussa définitivement à agir tout de suite. – Je vais en parler à [MASK], dit-il. Remontez dans votre cuisine. Et d’un pas qu’il s’efforçait de rendre calme, il se dirigea vers la loge du portier.
+
+['il', 'elle', 't-il', 't-elle', '-t-il']	Largeval	Voulez-vous me permettre de vous le présenter ? – Mais, monsieur… balbutia [MASK] avec un regard qui exprimait la plus douce gratitude. – Je cours chez lui et je vous le ramène. Il ne faudra pas plus de dix minutes.
+
+['</s>', ',', 'il', 'Il', 'et']	Georges	[MASK] ne s’était pas cuirassé d’avance contre la peine qu’il éprouverait en voyant sa femme dans un tel état. Il sentait bien que des paroles banales ne pouvaient rien pour adoucir son angoisse, et cependant il aurait tout fait pour qu’elle ne souffrit pas ainsi.
+
+['On', 'on', 'Il', '</s>', 'Tout']	Pascalin	– Mais, monsieur, il peut venir du monde pour les locataires. – Eh bien ! un gardien de la paix vous suppléera. [MASK] se tut. On entra dans une pièce qui n’avait pas d’affectation bien précise et qui était meublée de quelques chaises et d’une table.
+
+['tout', 'lui', 'cela', 'elle', 'lui-même']	Geneviève	Il parut même ne pas entendre, car son regard était perdu dans le vague. Il songeait à [MASK]. Le juge d’instruction sonna. On vint à son appel. – Le nommé Rouillouze est-il là ? demanda-t-il. – Oui, monsieur, il vient d’arriver.
+
+['le', 'il', 'je', 'monsieur', "l'"]	Montussan	Parlez, vous. – Eh bien ! c’est une bonne nouvelle, dit [MASK]. – Ah ! vous avez vu ma tante ? – J’ai vu votre cousine aussi, mon cher. – Comment est-elle ? Souffre-t-elle toujours ? Dites-moi.
+
+[',', "n'", 'ne', 'se', "l'"]	Geneviève	[MASK] avait tout entendu. Elle aussi était sans voix et sans courage. Pendant quelques jours, elle avait vécu dans des régions éthérées, ne songeant qu’à son amour et ne rêvant qu’à son fiancé. La chute était terrible. Comme sa mère elle se dit : que faire
+
+[',', 'toi', 'moi', '...', 'tout']	Geneviève	– Qui me retient, mon pauvre ami ? Oublier [MASK] ! es-tu fou ? Est-ce que ces choses-là sont possibles ! – En y mettant de l’énergie. – Parbleu ! mais le malheur est que je ne veux pas en mettre.
+
+['homme', 'celui', ',', '-', "'"]	Largeval	? – Si, cela est possible. – Ou encore, continua [MASK] qui n’avait pas osé commencer par cette supposition dont il connaissait l’exactitude, en faisant tomber le meuble par maladresse, le tiroir ne s’est-il pas ouvert tout seul ?
+
+['celui-ci', 'il', 'Henri', 'elle', 'Rodolphe']	Laurence	– Moi ! mademoiselle, moi ! s’écria-t-il, mais je ne suis pas digne de tant d’honneur. Si vous saviez… Je mérite tout au plus de vous servir de chien de garde. – Ne vous calomniez pas, dit [MASK] avec une douce autorité.
+
+['il', 'elle', 'dit-il', 'dis-je', 'dit-elle']	Geneviève	Oui, mademoiselle, je crois avoir trouvé un moyen de sauver M. votre père. – Ah fit [MASK] avec un accent de joie bien sincère. – Seulement, pour que je puisse accomplir mon projet, il est pour ainsi dire indispensable que je cesse mes visites auprès de vous.
+
+['agent', 'le', "l'", 'celui-ci', 'portier']	Montussan	Le brigadier hésita une fois de plus. – Vous devez connaître, reprit [MASK], la porte de la maison dont ce jardin dépend. – Sans doute, dit l’agent. – Eh bien ! pourquoi n’iriez-vous pas réveiller le portier et fouiller la maison ?
+
+['on', 'il', '</s>', 'On', 'et']	Riaux	On se gardait d’ailleurs de les tenir en présence de gens qui auraient pu les lui rapporter, car on savait que le bohème eût souffleté les insolents et qu’il se fût battu à mort avec eux. [MASK] faisait ses préparatifs de voyage.
+
+['il', 'Il', ',', 'et', '.Il']	Georges	[MASK] se creusait en vain la tête. Il ne parvenait pas à comprendre comment ces deux hommes étaient venus là. Surtout, il ne s’expliquait pas comment, y étant venus, ils avaient pu s’y enfermer.
+
+['il', 'on', 'elle', 'et', 'qui']	Largeval	Les nombreux petits fragments de lettre furent pliés dans une feuille de papier blanc, scellés avec de la cire rouge, puis confiés au commissaire de police. On était remonté. [MASK] avait suivi les incidents nouveaux qui venaient de se produire.
+
+['pour', 'par', 'à', 'de', ',']	Montussan	Depuis trente-cinq à quarante minutes, il s’était étendu sur le sofa, terrassé par l’alcool qu’il avait absorbé. Ce retour passager à ses anciennes habitudes fut pour [MASK], qui avait cédé à un accès de désespoir, la cause d’un réel chagrin.
+
+['hom', 'HA', 'de', 'DE', 'h']	Lucien	Ah ça, on trouve donc de tout chez moi ! fit [MASK]. – Taisez-vous ! – Ahh ! non, je ne me tairai pas. Je suis accusé. Vous me dites clairement que je suis un vulgaire crocheteur de portes et vous voulez que je me taise
+
+['Dieu', 'Jésus', 'Jésus-Christ', 'Pierre', 'Satan']	Remi	Une agitation nerveuse s’emparait de lui, et l’empêchait de tenir en place. Il lui fallait pourtant trouver une justification quelconque, ou avouer tout de suite le faux qu’il avait commis en prenant le nom de [MASK], en agissant à sa place et en signant pour lui.
+
+['elles', 'cependant', 'alors', 'donc', 'dit-il']	Montussan	Mais cela ne prouve pas que je les connaisse. – Vos explications, [MASK], deviennent peu à peu de plus en plus sincères, sans que vous paraissiez vouloir convenir des faits qui vous sont reprochés. – Je n’en conviendrai jamais et pour cause.
+
+[',', 'en', 'se', 'le', 'y']	Montussan	la ressemblance, cette flamme des yeux dont il avait parlé, tout cela venait sous son pinceau, qui semblait mené par quelque main magique. Sept heures sonnèrent. On n’y voyait presque plus. [MASK] fit trois pas en arrière et s’écria :
+
+['on', ',', 'se', 'il', 'en']	Largeval	– C’est bien extraordinaire. – Quand nous étions enfants, on nous habillait différemment pour nous reconnaître. – Et depuis, en vieillissant ? L’un était riche, l’autre moins heureux, à ce que je crois. [MASK] fit un geste d’acquiescement. –
+
+['se', 'le', 'la', 'elle', 'de']	Labor	Il le poussa et prit sa place auprès de la selle, empoigna de la terre et se mit à la pétrir. Cétait merveilleux ! La glaise fondait dans ses doigts comme par enchantement, et à mesure que sa création prenait corps, [MASK] murmurait :
+
+['son', 'ses', 'sa', 'un', 'les']	Lucien	– Non, c’est mon ami Montussan, répondit le peintre en désignant [MASK]. – Oh ! monsieur, que je ne puis-je reconnaître autrement que par mes protestations de gratitude ce que je vous dois. – Que voulez-vous dire ? demanda le bohème avec une certaine hauteur.
+
+['il', "s'", 'on', 'se', ',']	Largeval	Du reste, tout s’était passé rapidement et si l’on eût consenti, la veille, à faire une audience de nuit, l’affaire aurait été terminée en ppu de temps. Rien ne paraissait douteux. [MASK] était certainement aux yeux de tous la victime d’une inconcevable fatalité
+
+['on', 'il', 'celui-ci', 'Pierre', 'Jean']	Montussan	On trinqua à la santé de l’ordre de choses et de son auguste famille, selon l’usage, puis on remonta au rez-de-chaussée. – Commençons par nous assurer, dit [MASK], qu’aucune persienne n’a été sciée, qu’aucune fenêtre n’a été fracturée.
+
+['il', 'on', 'elle', 'et', 'lui-même']	Geneviève	Il y avait eu trop de sincérité dans son langage, sa voix était trop attendrie par une émotion véritable pour que l’on ne devinât pas qu’il nourrissait un secret amer, un secret qui le rongeait, qui le tuerait peut-être. [MASK] cherchait à se rendre compte.
+
+['dit-il', 'voyons', 'dit-elle', 'disait-il', 'monsieur']	Rouillouze	La déveine l’avait mis dans cet état. Cependant, au bout de quelques instants, il fit un effort, ébaucha un sourire pour répondre à une dame qui lui adressait risette. – Voyons, [MASK], tâchez donc de parler plus convenablement.
+
+['monsieur', 'Monsieur', 'messieurs', 'madame', 'ça']	Pascalin	– J’en serai enchanté. Parlez, monsieur, et parlez haut. – Oh ! pour ça, [MASK], je parlerai comme je voudrai. A cet égard, je suis de la catégorie des hommes qui n’admettent de gens tels que vous ni conseils ni observations.
+
+['Marie', 'celle-ci', 'Jeanne', 'France', 'Victoria']	Geneviève	Mais je vous dirai ce que j’ai sur le cœur. Quoi qu’aient pu faire le père ou l’oncle de [MASK], elle n’en est pas moins la vierge pure, l’immaculée enfant que la terre entière devrait adorer à genoux.
+
+["l'", 'la', 'le', ',', 'x']	Remi	mais pendant ce temps-là, peut-être que des soins empressés le rappelleraient à la vie Avec une sorte d’acharnement il frotta de vinaigre pur le crâne de [MASK], l’appelant à chaque minute. Puis, au bout de quelques instants il murmura, en devenant terriblement pâle :
+
+['eux-mêmes', 'eux', 'leurs', 'leur', 'eux']	acharnemant	C’est vrai, il y a des gens prédestinés, semble-t-il, à étre malheureux avec [MASK]. L’univers s’arrêterait plutôt, la terre et les planètes cesseraient de tourner, croirait-on, s’ils devaient être l’ojet d’un bonheur quelconque.
+
+['la', "l'", 'son', 'sa', 'votre']	Largeval	; il fit tourner la clef dans la serrure qui, remarqua-t-il, avait dû être graissée récemment, ouvrit la porte toute grande et poussa un cri Sa bougie venait de s’éteindre tout à coup. Ce fut l’étonnement qui arracha ce cri à [MASK].
+
+[',', 'se', 'la', 'de', 'liberté']	Jaggernauth	Je me sens capable de l’adorer d’en bas. Sans me croire digne d’être récompensé, même d’un regard, comme les Hindous qui se jettent sous le char de [MASK], je serais capable de me faire écraser par un fiacre pour elle, –
+
+['le', "l'", 'la', 'Pierre', 'Bernard']	Montussan	Le brigadier sonna longuement et attendit. Mais la porte resta close. Sans doute le concierge n’avait pas l’habitude d’être réveillé à cette heure indue. – Sonnez fort ! dit [MASK]. L’un des agents agita si longuement la sonnette qu’on l’entendit tinter du dehors.
+
+['le', 'en', 'Henri', 'M.', 'Jean']	Largeval	Il vous enverra sa note à la fin de l’année, comme il le fait pour tous ses clients. – Je ne voudrais pourtant point vous laisser partir, reprit [MASK], sans vous dire toute la reconnaissance dont je suis pénétré.
+
+['Je', 'et', 'je', 'elle', 'Elle']	Laurence	? à une triste vie. Déjà je subis une terrible torture de ne pouvoir la consoler, et de penser que je vais être, au moins pour quelque temps, un étranger, un ennemi à ses yeux. [MASK], accablée, était retombée dans sa douleur.
+
+['et', 'que', 'le', 'tout', '-']	Gaston	– Telle n’est pas mon intention, mais je puis me rendre à pied chez moi sans me fatiguer beaucoup. – Alors, prenez le bras d’un de ces messieurs. – Je veux bien. [MASK], naturellement, s’offrit pour cette douce besogne.
+
+['Non', 'Monsieur', 'Oui', 'NON', 'Mais']	Laurence	– Seulement, pour que je puisse accomplir mon projet, il est pour ainsi dire indispensable que je cesse mes visites auprès de vous. – Nous ne pouvons pas vous aider ? demanda [MASK]. – Non. – Eh bien !
+
+['et', ',', 'qui', 'nouveau', 'se']	Georges	[MASK], cette fois, entendit formuler cette accusation nouvelle qui eut le don de le tirer de son apathie. Il bondit comme s’il eût reçu un coup de fouet en plein visage. – Voilà, certes, du nouveau ! s’écria-t-il avec indignation.
+
+['le', 'son', "l'", 'la', 'sa']	Pascalin	Mais une minute après il se coiffait de son chapeau, oubliant machinalement de prendre celui de son frère. Heureusement il s’aperçut de sa méprise, la répara et quitta le pavillon. Il était deux heures du matin lorsqu’il frappa au carreau de la loge où dormait [MASK].
+
+['voix', 'sévérité', 'celui-ci', 'suffisance', 'fermeté']	Montussan	– Comme il vous plaira, monsieur. Je serai enchanté d’honorer leur mémoire par cet aimable euphémisme. Le ton de [MASK] commençait à agacer le juge d’instruction qui devenait plus raide à mesure que celui qu’il interrogeait était plus libre en paroles.
+
+[',', 'et', 'elle', 'le', 'personne']	Laurence	– Et pourquoi ? – Mais… – Est-ce qu’un autre pourrait le reconnaître mieux que moi ? [MASK] s’exprimait avec une autorité véritable, comme si elle eût élé certaine qu’on ne pouvait pas lui refuser ce qu’elle demandait, et elle demandait tout simplement
+
+['il', 't-il', 'dit-il', 'alors', '-il']	Geneviève	– Oui, répondit-il sur un ton giacé auquel la jeune fille ne prit pas garde. Il chancela. – Qu’avez-vou ? s’écria [MASK], vous souffrez ? – Non, merci. – A demain alors. – Peut-être, répondit-il.
+
+['chacun', 'il', 'celui-ci', 'celle-ci', 'lui-même']	Lucien	cela était encore très-évident – ne voulait plus entrer dans cette famille et, malgré ce que [MASK] avait dit, il était clair qu’on ne pouvait trop l’en blâmer. La place restait donc libre devant le bohème.
+
+['il', 'elle', 'celui-ci', 'celle-ci', 'dis-je']	Laurence	Il faut que les médecins légistes disent bien qu’il est mort de sa mort naturelle et que mon mari n’y est pour rien. – Cela, madame, ne peut vous être refusé. Je pense même que dès demain les constatations médicales pourront être faites. – Ah ! fit [MASK] avec un profond soulagement.
+
+['ce', 'un', 'lui', 'épuisé', ',']	Remi	! Mais il est mort… chez vous… – Non, monsieur, c’est [MASK] qui a succombé d’une façon si inopinée. J’étais là. J’étais venu pour demander aide et secours à mon frère lorsqu’il tomba,
+
+['il', 'Il', 'elle', 'qui', 'Elle']	Largeval	Debout derrière sa femme, [MASK] attendait patiemment qu’elle eût fini de pleurer et de prier. Enfin elle se redressa, et s’adressant à celui qu’elle croyait être son beau-frère : – Monsieur, lui dit-elle, vous aurez l’obligeance de faire transporter le corps à la maison dans la journée de demain.
+
+[':', 'le', '-', '...', '"']	Lucien	. – Chut ! tais-toi. répondit [MASK]. Mais ces mots à peine prononcés, ils entendirent les pas précipités de gens qui couraient, arrivant par les deux bouts de la rue. – Hop ! hop ! firent plusieurs voix haletantes, nous les tenons.
+
+['les', 'à', 'la', "l'", 'un']	Georges	Lui qui aurait sacrifié l’humanité entière pour épargner un simple chagrin à cette enfant, il la voyait écrasée par ces événements sans pouvoir rien, rien, rien ! De temps à autre, son œil s’illuminait comme s’il eût trouvé un moyen d’arracher [MASK] à ses juges.
+
+['il', 'et', 'elle', 'lui', 'Il']	Lucien	Du reste, [MASK] ne veut même pas lui avouer sa passion. – Et pourquoi ? – Parce qu’ayant mené une existence déréglée, il ne se croit pas digne d’épouser une si pure jeune fille. – Mais pourquoi se serait-il accusé de crimes imaginaires ?
+
+['il', ',', 'Il', 'elle', 'Elle']	Rouillouze	[MASK] eut un sourire insolent, fit une espèce de grimace et dit : – Non. Je ne veux plus vous raconter ça. – Ah ! que veut dire cette fantaisie ? – Oh ! vous savez ; on n’aime pas beaucoup à mettre les amis dans la peine.
+
+['Sois', 'est', 'Et', 'es-tu', 'Êtes-vous']	Riaux	– Eh ! qu’y a-t-il donc, alors ? – As-tu vu cet homme qui vient d’entrer et qui est allé s’asseoir là-bas ? Ne regarde qu’avec précaution, je te prie. – Tu le connais ? demanda [MASK] fort surpris.
+
+['le', "l'", 'la', 'un', 'une']	Largeval	Voici les cinq cents francs, dit [MASK], en revenant auprès de l’homme. – Oh je n’aime pas les billets de banque, c’est trop difficile à changer. Tu n’as donc pas d’or ? Tu devais pourtant m’attendre d’un moment à l’autre.
+
+['défie', 'que', 'me', 'suis', 'le']	Gaston	[MASK]. – Je vous défie de me prouver pareille chose. – Cela ne me paraît pourtant pas difficile et, si vous voulez m’écouter un instant, vous allez être de mon avis. – Je doute que vous parveniez à me convaincre, mais je vous écoute.
+
+['il', 'elle', ',', 'en', 'on']	Georges	– Elle monte même avec intensité. Dieu ! que cela est écœurant ! Il ne faut pas songer à rien tenter en ce moment. Le plus sage est d’établir une ventilation. [MASK] ouvrit alors les portes et les fenêtres du rez-de-chaussée et s’en alla promener dans le jardin.
+
+['il', ',', 'et', 'que', 'dit-il']	Georges	[MASK], interpellé ainsi, se redressa. – Je crois tout simplement, dit-il, que cet homme ne sait rien sur le compte de mon frère... – Toujours son frère ! – Il s’amuse sans doute à nous faire attendre une histoire qu’il n’a pas encore eu le temps d’inventer.
+
+['et', 'il', 'Il', 'elle', 'puis']	Largeval	Je ne sais pas ce que je vous ai dit, mais j’ai dû être bête et grossier. Si vous voulez prendre la peine d’attendre dix minutes, je vais être à votre disposition. [MASK] s’arrêta au moment même où il mettait la main sur le bouton de la porte.
+
+['il', 'Il', 'elle', '--Il', 'Monsieur']	Montussan	Eh bien ! – Eh bien ! mademoiselle, [MASK] vous aime, il vous aime comme un insensé. C’est pour sauver votre père – et cela sans espoir de récompense – qu’il s’est accusé des forfaits qui vont l’envoyer à la mort ou au bagne.
+
+['oui', 'Madame', 'madame', 'Monsieur', '-']	Marthe	? – Monsieur ne s’est donc pas aperçu, répondit [MASK], de l’insupportable odeur qu’il y a dans la cave ? Tenez, elle vient jusqu’ici, C’est une véritable infection. – Une odeur ! – Oui, monsieur.
+
+['Rien', 'Personne', 'rien', 'personne', 'Nul']	Hien	reprit le malheureux en prenant ses cheveux à pleines mains. Quelle vie j’ai eue ! [MASK] ne m’a réussi. Tout a raté dans mes mains, et si j’avais réfléchi à cela, est-ce que j’aurais dû me plonger dans cette atroce impasse ?
+
+['le', "l'", 'la', 'tout', 'M.']	Perlot	Il fit l’étonné, eut l’air de ne point comprendre et demanda des explications que, du reste, nous nous empressâmes de lui donner. – Tu es bourré de billets de banque, dit [MASK] en finissant. Il ne faut pas nous faire poser.
+
+['passé', ',', 'et', 'és', 'monde']	Geneviève	En descendant l’escalier, il réfléchissait à la situation qui venait de lui être faite par les événements. [MASK], rien n’était plus certain, quelque pure et charmante qu’elle fût, allait être la fille d’un condamné.
+
+[':', '.', ',', 'ensuite', '...']	Montussan	Allons, allons, au poste et pas de résistance. – Qui parle de vous résister d’abord, dit [MASK]. Pour mon compte, je suis ravi que vous m’ayez arrêté. Il ne pouvait m’arriver d’événement qui me procurât plus de plaisir.
+
+['tout', 'il', 'elle', 'lui', 'tu']	Montussan	Tout ce qui la frappa, c’est que [MASK] était là, et il lui sembla que tout n’était pas perdu puisqu’il restait fidèle et dévoué. – Merci d’être venu, mon ami, lui dit-elle, et d’être venu si promptement.
+
+['celui-ci', 'M.', 'le', 'il', "l'"]	Largeval	– Mais ne craignez-vous pas, demanda [MASK], de briser le coffret en le laissant tomber à terre ? – Cela peut arriver, en effet. J’estime pourtant qu’il vaut mieux trouver la clef du mystère qui nous occupe que de nous inquiéter du dégât qui peut résulter de notre essai.
+
+['il', 'elle', 'on', 'Il', 'Pierre']	Montussan	– Comment ! mais personne n’en douterait. Votre ancien locataire est l’ennemi de la société contre laquelle il s’est mis en révolte... Tout en parlant ainsi, [MASK] avait sur les lèvres un sourire des plus extraordinaires que personne n’aurait pu définir.
+
+[',', 'de', 'le', 'et', 'IR']	Georges	Quoi donc ? demanda d’une voix tranquille [MASK], qui se sentait assis sur un excellent terrain. – Comment se fait-il que ces deux hommes aient pu s’introduire chez vous d’abord, et une fois entrés, comment auraient-ils pu s’enfermer dans cette cave
+
+['il', "s'", "l'", ',', 'vous']	Riaux	On parlait beaucoup de cela dans le monde officiel russe. Aussi, dès que [MASK] y eut été présenté, un colonel du génie lui demanda t-il : – Connaissez vous un artiste, ou plutôt un bohème – je m’exprime comme mon journal – qui se nomme Montussan
+
+[',', '...', ':', 'monsieur', 'jamais']	M.	Et si [MASK] votre père nous demande des détails. – Oh ! papa ne sera pas là. Il est parti depuis sept heures et demie pour son bureau, et ne rentrera pour déjeuner qu’à onze heures. – Nous voici, je crois, à votre porte.
+
+['...', 'que', 'les', 'la', 'encore']	Montussan	. Je lui aurais evité tout tourment, toute désolation, tout ennui. Je serais allé à elle en sortant d’apprendre ce qu’on vous a dit ce soir, et je lui aurais offert de partir pour un pays quelconque, où, s’appelant Mme [MASK]...
+
+["c'", "C'", 'il', 'tu', 'DIEU']	Remi	Ah ! quel bonheur ! Tu as voulu… quelle folie ! devenir riche. pour nous ! C’est mal. Mais tu es là, tu es vivant, , tu es innocent. Oui, [MASK] est un infâme assassin, mais toi ! toi !
+
+[',', '"', 'qui', '-', 'et']	Montussan	[MASK] – il l’a dit lui-même – a bien des vices, mais sans qu’il consente à l’avouer, il a aussi un cœur, je ne puis pas dire haut placé, mais un cœur enfin assez riche pour pouvoir en céder, comme il le fait de son talent, à bien des gens.
+

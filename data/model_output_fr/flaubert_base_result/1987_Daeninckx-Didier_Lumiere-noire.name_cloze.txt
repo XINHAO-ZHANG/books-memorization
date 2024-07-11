@@ -1,0 +1,200 @@
+['"', 'maintenant', ',', '...', 'même']	Londrin	Ici [MASK]... – Désolé de vous déranger aussi tardivement. Vous dormiez ? Ça ne me coûtait rien de répondre « oui », tranquillement... Mon cerveau en décida autrement. – Non, pas encore. Que se passe-t-il ? Il se racla la gorge.
+
+['et', 'il', ',', '</s>', 'elle']	Dalbois	[MASK] frotta l'un contre l'autre son pouce et son index. – Le fric... Les hologrammes de pièces inertes ne posent plus de problèmes mais dès qu'on aborde les compositions animées, les prix s'envolent ! En plus, c'est là qu'apparaissent les aberrations...
+
+['jésus', 'celui-ci', 'et', 'celle-ci', 'tout']	Guyot	Il sautillait sur place, dans le froid et battait des mains pour se donner l'illusion de se réchauffer. Il esquissa un sourire en voyant [MASK] s'avancer vers lui. – Alors les Français, on veut goûter au mpégou ? – Non. Qu'est-ce que c'est
+
+['</s>', 'il', 'elle', 'on', 'paris']	Coubron	« Ça nous a rapporté près de cent cinquante bâtons et il a fallu monter deux autres petites opérations complémentaires pour disposer d'assez de fric pour le coup suivant. [MASK] a toujours eu un réseau d'informateurs de premier choix.
+
+['on', "c'", 'il', 'tout', "j'"]	Gérard	Arrête de parler par énigme. J'ai besoin d'une bonne nuit de repos, ensuite je vais aller les voir. Je n'ai rien à cacher... – [MASK] était mêlé à une grosse histoire de vol... Un truc en préparation... Une bande de professionnels.
+
+['</s>', 'il', 'elle', 'on', 'chacun']	Cadin	Il se redressa en nous apercevant. Je pris ma sacoche et nous nous installâmes à l'avant, dans la lumière du hall. [MASK] se mit à lire la série d'articles que j'avais découpés et classés la veille, avant de me coucher.
+
+['qui', '?', '!', '...', ',']	Yves	il s'en voulut de ne pas s'être arrêté plus tôt. – C'est toi [MASK] ? Elle parlait d'une voix étouffée comme une gosse confiant un secret, mais les magnétos enregistraient jusqu'aux battements de son cœur. – Oui, je me suis mis à l'écart.
+
+['lui', 'face', 'elle', 'moi', ',']	Guyot	– Pas la nuit dernière ni celle d'avant... Donc la nuit du 5 au 6 janvier. Attendez, je vérifie... Il retourna à sa place et compulsa le registre puis revint face à [MASK] son livre grand ouvert dans les mains. –
+
+['-', '</s>', '--', '"', '--']	Dalbois	– A votre place je mettrais mes billes ailleurs, commissaire. [MASK] s'est fait virer... Il n'était absolument pas fiable. – Eh bien, c'est pas de chance. Un tuyau crevé de plus... Qu'est-ce qu'il devient maintenant ?
+
+["l'", 'mère', 'celle', 'la', 'lui']	Ghislaine	L'image de [MASK] encombrée des deux mômes s'imposa lentement à son esprit. Il la voyait s'étonner, chercher le mot qu'il n'avait pas pris le temps d'écrire et, soudain occupé par ses pensées il ne l'entendit pas venir.
+
+['lui', 'lui-même', 'vous', 'celui-ci', 'philippe']	Guyot	Le juge Berthier avait enfoncé la pédale d'embrayage et son poing droit caressait nerveusement le pommeau du levier de vitesse. – Ce n'est pas le cas cette fois, vous pouvez en être sûr. Leurs dossiers administratifs sont nickel. Quant à [MASK], il va rapidement apprendre la modération.
+
+['jean', 'le', '.', 'un', 'henri']	Guyot	La chaleur humide du butane fit suffoquer [MASK]. Ses yeux s'adaptaient peu à peu à l'ombre, après le scintillement de la neige. Il distingua trois enfants emmitouflés dans une large couverture, assis sur un matelas posé à même le sol.
+
+['proust', 'jeunesse', 'bibliothèque', 'famille', 'poche']	Ghislaine	Il essayait de fixer son attention sur un livre de Marie-José Doberman, un cadeau de [MASK], mais aucune des phrases qui ondulaient au hasard des cahots n'était en mesure de rivaliser avec les rimes du petit Arménien : « Je vous parle d'un temps Que les moins de vingt ans ne peuvent pas connaître... »
+
+[',', '-', 'jean', 'simon', 'lévesque']	Guyot	Il osa enfin. – Il est une heure et demie... Il faut que j'y aille si je veux manger avant que ça ferme... Yves [MASK] se frotta les yeux. – Oui... Excusez-moi... Prenez votre temps, celui-là je m'en charge tout seul.
+
+['</s>', 'il', 'lui', 'elle', '--il']	Fanfana	C'est « la Bricole » qui m'a donné votre nom... Il m'a également raconté que votre cousin faisait partie des Maliens renvoyés chez eux, il y a quatre jours. C'est exact ? [MASK] avait enveloppé une main autour du fourneau de sa pipe et il aspirait la fumée par brèves succions.
+
+['lui', 'charles', 'william', 'george', 'lord']	Babemba	Son cousin, [MASK], était dans le même avion que toi et il t'a entendu raconter ce que tu avais vu de la fenêtre de ta chambre, à l'hôtel... J'ai besoin de l'entendre à mon tour...
+
+['</s>', 'il', 'chacun', 'on', 'qui']	Coubron	le raclement de mes chaussures devait s'entendre jusque sur le viaduc. La porte et la fenêtre volèrent en éclats alors que je dépassais la table et que mes coudes arrivaient à hauteur du réfrigérateur. [MASK] s'était accroupi dans le minuscule espace ménagé entre le mur et le meuble.
+
+['il', 'on', 'chacun', '</s>', 'se']	Mathieu	« Je vous parle, parce que je n'ai plus rien à perdre. » [MASK] vit en condamné, certain que la police le liquidera à la première occasion : « Ils ont une expression pour ça : mesriniser... »
+
+['il', '-', 'on', 'elle', '"']	Berthier	Elles marchaient à la perfection... [MASK] soupira. – Ce qui signifie que les deux policiers disaient la vérité Vous en avez douté un moment ? Ma réponse n'était visiblement pas celle qu'il attendait. – Oui, dès le début...
+
+['vous', 'là', 'monsieur', 'aussi', 'alors']	Coubron	Je lui répondis par un clin d'œil. – Ils vont finir par vous avoir, [MASK]... Vos actions s'orientent à la baisse depuis ce matin... Il saisit la bouteille de soda et en but une longue gorgée, à même le goulot.
+
+['celle-ci', 'celui-ci', 'lui', 'chacun', 'elle']	Black	Il était devenu caractériel et ne pissait que contre le mur de l'entrée. Les coups, les cris, rien n'y remédiait. La mère avait fini par planter des clous pour suspendre des serpillières qu'elle venait changer dès que [MASK] avait levé la patte.
+
+['elle', '</s>', 'il', '"', 'et']	Ghislaine	Les souvenirs n'avaient pas droit de cité. Il hésita devant la porte, découragé par les cris des mômes. Il gagnait assez de fric maintenant pour qu'elle se passe de ce boulot mais elle disait s'être attachée aux gamins. [MASK] n'était pas seule.
+
+['</s>', 'il', '-', 'elle', '"']	Guyot	– Alors les Français, on veut goûter au mpégou ? – Non. Qu'est-ce que c'est ? – Un alcool de chez nous qui te dégèle le cœur et l'esprit... [MASK] prit la bouteille glacée qu'il lui tendait, la reposa.
+
+['</s>', 'il', '-', 'elle', 'je']	Fanfana	Je sais bien que personne ne voudra entendre son témoignage, s'il existe, mais ça me donnera la force de continuer. [MASK] fit un signe au marchand de plantes médicinales qui tenait l'étal le plus proche. – Je fais affaire et je reviens tout de suite.
+
+['</s>', '-', '_', '"', 'il']	Coubron	La révélation de ma condition de flic ne provoqua pas d'éclat. [MASK] se contenta d'enregistrer le fait, ce qui confirma l'essentiel de mes suppositions. – Entrez et collez-vous contre le mur, à gauche... Les mains à plat, à hauteur des épaules..
+
+['</s>', '_', '"', '-', '--']	Gérard	– Une semaine quatre heures de l'après-midi jusqu'à minuit, la semaine suivante huit heures du matin jusqu'à quatre heures de l'après-midi. Avec chaque jour une heure de pause. [MASK] bossait toujours dans la première équipe de nuit, de quatre heures à minuit...
+
+[',', 'et', ';', 'il', 'qui']	Blanc	Il ne gardait chaque feuille qu'une dizaine de secondes, photographiant les textes davantage qu'il ne les lisait. Il s'arrêta sur un article du Figaro concernant la mort de Gérard [MASK] le lut doucement une fois, pour lui-même, puis à voix haute :
+
+['il', 'je', '"', 'et', '</s>']	Coubron	Il bougea précautionneusement le pouce de sa main droite et le tendit vers moi. – Je ne suis pas seul... [MASK] ne lui laissa pas le loisir de terminer sa phrase. Il l'agrippa par son écharpe blanche et le tira à l'intérieur de la pièce.
+
+['lui', 'cela', 'moi', 'elle', 'tout']	Georgette	Vous avez des animaux à la maison ? Je pensai à [MASK], à son obsession de propreté en regardant les moutons de poils qui couraient sur le sol au moindre filet d'air. – Vaut mieux pas, on n'a pas le temps de s'en occuper...
+
+['temps', 'jour', 'juillet', 'janvier', 'avril']	Dupalaix	Le compte rendu abondamment illustré de la visite qu'effectuait le chef de service des études financières au ministère français de la coopération, un certain [MASK], et sa rencontre avec le Premier ministre malien occupait une bonne partie de la première page, uniquement concurrencé par le sommaire et l'ordre du jour du conseil des ministres.
+
+['il', 'et', ',', 'elle', 'qui']	Guyot	[MASK] se força à rire. Il agita ses mains devant lui. – La vérité... Quelle vérité ? Je me fatigue à répéter dix fois, vingt fois que la DS roulait pleins phares, que la voiture de police ne se trouvait pas au milieu de la route mais sur le bas-côté...
+
+['vous', 'on', 'il', 'et', 'ils']	Berthier	Hier on m'a appris, par hasard, que sous certains angles, les hologrammes comportaient un écho visuel de ce qui figurait DERRIERE le dispositif de prise de vues. Vous tenez entre les mains la photo en trois dimensions de l'assassinat d'Yves Guyot... [MASK] me dévisagea.
+
+['</s>', 'il', '"', 'elle', 'ali']	Berthier	– C'est pas une question de confiance. Vous n'arrêtez pas de me balader dans tous les sens depuis hier et j'ai bien l'impression que ce que je vous dis ne sert à rien... [MASK] avait ouvert la portière de sa BMW et s'était penché pour déposer ses documents.
+
+['non', 'monsieur', 'je', 'pas', 'oui']	Guyot	? Je regardai le chien avec un dégoût amusé. – Qui ? Blanc... – Non, [MASK]. – Je ne me souviens plus comment on appelle ça... Le métier... Il prenait des photos en trois dimensions, des hologrammes, de certaines pièces d'avion.
+
+['</s>', 'il', '-', 'elle', '--il']	Dalbois	Il quitta la cuisine. – Attendez-moi, j'en ai pour une minute. Le chien profita de l'absence de son maître pour ramasser les miettes qui traînaient sur la table, à portée de sa langue. [MASK] revint cinq minutes plus tard, triomphant.
+
+['thorax', 'cou', 'dos', 'col', 'crâne']	loden	D'où j'étais, je pus voir le mouvement du rideau mais malheureusement pas les traits de celui qui le soulevait. La porte s'ouvrit vivement et le canon d'un revolver de fort calibre se ficha dans les plis verts du [MASK], à hauteur du sternum.
+
+['personne', 'je', 'cela', 'quiconque', 'ça']	Georgette	– Quand ? Tout de suite ? – Oui, si c'est possible... Certains dossiers ne doivent pas traîner. Je m'habillai sans que [MASK] réagisse alors que depuis trois ans, il ne m'était plus arrivé une seule fois d'être appelé en pleine nuit.
+
+['</s>', 'il', 'on', 'chacun', 'qui']	Mathieu	Ils détaillent le trajet du fenwick jusqu'au fourgon, le manège des trois hommes, les deux convoyeurs et le manœuvre. [MASK] ne le dira pas en clair mais il est probable que la mort des trois hommes qui joueront ce rôle lors du braquage est planifiée.
+
+['-', '"', 'il', '</s>', 'elle']	Darqué	– Pourquoi ne l'avez-vous pas dit vous-même ? ... Ce n'est pas tous les jours que la police peut se vanter d'avoir déjoué un hold-up de ce genre... [MASK] plongea ses mains dans les poches de son pantalon.
+
+['il', 'on', 'elle', '-', 'lui']	Boudjougou	– Je me rappellerai le numéro toute ma vie : c'était le 717... on était six là-dedans... Enfermés comme des bêtes. – Le 717 vous êtes sûr. Pas le 715.. [MASK] écarquilla les yeux. – Non, le 717...
+
+['je', 'il', '"', "j'", ',']	Mathieu	« De temps en temps [MASK] caresse le revolver et sa main s'en éloigne brusquement quand il s'aperçoit que je l'observe. Je me rends compte que je ne pose pratiquement pas de questions, que l'interview prend peu à peu la forme d'une confession.
+
+['lui', 'moi', 'toi', 'eux', 'elle']	Guyot	Je m'assis sur une chaise après avoir quitté mon manteau que je posai sur mes genoux. – Il y a peut-être des questions qu'on a oublié de te poser ou bien qui ne se posaient pas hier... Tu travaillais depuis quand avec [MASK] ?
+
+['"', 'ce', 'plus', 'cela', ',']	Fanfana	» m'a dit que je pourrais voir [MASK]. Il est là ? Le serveur ne prit même pas la peine de dévisager son client. – Non, pas encore. Des fois c'est midi, des fois c'est une heure, ça dépend du business...
+
+['le', 'jésus', 'celui-ci', 'chacun', 'dieudonné']	Gérard	En zinc, en taxi de brousse.. Je n'ai pas eu le temps de lire le journal ni l'occasion de poser mon cul devant la télé ! J'ignore de quels crimes est accusé [MASK], mais je n'en crois pas un traître mot. O.K. ?
+
+['la', "l'", '...', 'son', 'ce']	Coubron	J'aurais pu vous désigner, vous, un commissaire, et non pas le journaliste ! Ils l'ont aligné comme à l'entraînement... Je décidai de me placer à l'abri et commençai à ramper en direction de [MASK]. Aucun bruit ne parvenait du dehors ;
+
+['moi', 'lui', 'non', 'nous', 'pas']	Coubron	! Il craint vraiment qu'on l'exécute à la première occasion... – Je ne peux qu'être d'accord avec lui : que ce soit les flics ou [MASK], son avenir est compromis. J'étais sûr que vous alliez monter sur vos grands chevaux.
+
+['"', '-', 'oui', 'mais', 'non']	Dalbois	Une autre voix : – Qui demandez-vous ? J'eux le sentiment d'être entré dans son bureau par effraction. – [MASK]... Je suis bien à l'Information Particulière ? Il dédaigna la question et aboya de nouveau. – C'est de la part de qui ?
+
+['on', 'ne', 'il', 'monde', '.on']	Coubron	[MASK] peut dormir tranquille : on n'a pas trop de temps à lui consacrer. J'avais promis de revenir et j'étais repassé de l'autre côté de l'autoroute, à l'aérogare numéro 1. Je n'aimais pas trop les parkings encaissés, moulés dans le béton.
+
+['il', 'qui', '</s>', 'elle', 'celui-ci']	Guyot	Son professionnalisme lui dicta de se rapprocher le plus possible des désirs du client. Il examina la liste des réservations. – ... Si vous le voulez, je peux vous proposer la 615, c'est exactement la même, un étage au-dessous. [MASK] accepta.
+
+['il', 'noir', 'blanc', ',', 'ulysse']	Boudjougou	[MASK] entra sous la tente en se baissant et posa sa récolte sur une table au plateau plastifié semblable à celle qui équipait la tente du Hollandais. Il les invita à le suivre. C'était un jeune garçon d'allure enjouée, râblé et musclé.
+
+['ça', 'cela', 'vous', 'toi', 'nous']	Roissy	A cause de [MASK]... On est en bout de piste. C'est un ancien orphelinat. Il a accueilli des pensionnaires jusqu'à l'ouverture de l'aéroport et depuis plus personne n'y habitait. J'ai aménagé cinq, six piaules dans le bâtiment du milieu.
+
+['dieu', 'lui-même', 'lui', 'césar', 'personne']	Gérard	Que ce corps soudain inerte appartint à [MASK], il ne pouvait y croire. Une vie doit-elle s'achever ainsi, sans raison... Le café était en route. Il délaissa les tartines, vaguement écœuré et but un bol de liquide amer debout devant la fenêtre de la cuisine.
+
+['</s>', 'il', '-', 'elle', 'zola']	Guyot	Il replia sa carcasse dans un fauteuil du hall d'accueil et son buste disparut derrière la Une de l'Essor qu'il venait de tirer d'un tas de revues et de journaux dépareillés posés sur une table basse. [MASK] traversa la salle sombre et fraîche d'un pas décidé.
+
+['lui', 'qui', 'me', ',', 'et']	Darqué	[MASK] souffla sa première bouffée en toussant. – Si je pouvais y arriver, ce ne serait pas du luxe... Le juge Berthier a tout simplement fait ce qu'il avait à faire. Il avait le choix entre charger de l'enquête la P.A.F. ou la gendarmerie.
+
+['etc', '"', 'dit-il', 'mais', 'et']	Coubron	Une quinzaine de policiers en tenue d'assaut avaient pris position sur le pont de la voie de chemin de fer. Je reconnus les uniformes du G.I.G.N. – Nous n'y sommes pour rien, [MASK]... Des bruits de pas résonnèrent sous la voûte. – Toi, le journaleux...
+
+['dieu', 'plus', 'son', 'foi', 'celui']	Guyot	Le commissaire le saisit par le col de sa chemise et le souleva, approchant le visage de [MASK] du sien. – Quels faux témoignages ? Ton copain est embringué dans une sale affaire qui aurait pu se terminer par trois cadavres et tu viens me parler de faux témoignages
+
+['il', 'on', 'elle', '-', 'et']	Guyot	– On peut peut-être essayer de discuter avec les policiers... [MASK] se traîna derrière lui jusqu'à la guérite où deux flics en uniforme filtraient les passages. Le Sénégalais plaida la cause du Français et le plus gros des deux fonctionnaires se leva.
+
+['il', '</s>', 'elle', 'on', 'je']	Guyot	Le prochain est dans quatre jours... Si tu veux le voir vite il te reste le douro-douro... [MASK] les regarda les uns après les autres, incrédule. – Le douro-douro ? Ils se mirent à rire de son air effaré.
+
+['je', 'se', 'chacun', 'cela', 'jack']	Guyot	C'est comme si, prenant une photo de votre femme devant une forêt, vous vous retrouviez caché dans les arbres ! Je me souvins, tandis qu'il parlait, de ce que [MASK] faisait au moment précis où le tueur entrait dans son laboratoire et je n'eus bientôt plus qu'une envie : partir.
+
+['on', 'ça', 'cela', "j'", 'il']	Dalbois	Il prenait des photos en trois dimensions, des hologrammes, de certaines pièces d'avion. D'après ce que j'ai compris, ils parviennent à calculer l'usure des matériaux à partir de ces hologrammes... [MASK] écarquillait les yeux et la surprise effaçait presque les cernes noires.
+
+['paul', 'maman', 'jean', 'marie', 'celui-ci']	Cadin	– Oui, mais ça m'étonnerait qu'ils me signent une note de frais pour un voyage autour du monde. J'enverrai des télégrammes en espérant qu'on me réponde ! – C'est une solution, mais sûrement pas la meilleure. Le ton sentencieux de [MASK] m'amusa.
+
+['comme', '"', 'danse', '-', 'voyage']	Zazie	– A part « [MASK] dans le métro », c'est tout. – Ce n'est déjà pas si mal, commissaire. Ça (il désigna d'un mouvement circulaire de la main, l'ensemble des mécanos), c'est le résumé de « Pierrot mon ami ».
+
+['mais', 'non', 'et', 'alors', 'donc']	Ghislaine	Il se décida alors à aller jusqu'au bout de son aveu. – Je n'ai pas le même courage que toi, [MASK]... Ça n'a pas réussi à sortir, c'était trop dur. Le flic de ce matin était au courant...
+
+['il', 'celui-ci', 'elle', 'lui-même', 'lui']	Guyot	La main du commissaire avait quitté son cou mais [MASK] ne releva pas la tête. Il se mit à serrer les dents très fort afin de ne pas crier le dégoût qu'il s'inspirait en s'avouant la décision qu'il avait déjà prise.
+
+['minuit', 'temps', 'présent', 'nouveau', 'londres']	Camberra	Tout se joue au cours des vingt-quatre premières heures... Si vous voulez en avoir le cœur net, télexez à [MASK] : on vous répondra sûrement que la société Carard a été dissoute et que les propriétaires sont partis sans laisser d'adresse...
+
+['</s>', 'il', '"', 'on', 'elle']	Robert	Si c'est moi qui vais traîner dans le staff des pilotes, ça va jaser et il y en aura bien un pour s'étonner auprès d'un flic de P.A.F... Je veux partir discrètement... Et vite ! [MASK] lui fourra sa revue dans les mains.
+
+['</s>', '-', 'il', 'elle', '"']	Cadin	Il tourna vers moi son visage aux cernes creusés par la pénombre. – Un peu plus tôt, un peu plus tard... Je n'étais pas taillé pour ce boulot. [MASK] a eu besoin de moi à deux reprises et je lui ai fourni des informations classées.
+
+['</s>', 'il', 'elle', 'on', 'Il']	Guyot	L'homme marchait à grands pas, insensible aux sollicitations des vendeurs. [MASK] essayait d'échapper aux gamins qui tentaient de lui vendre des parures sanghoï, des poignards tamasheq ou à des adultes au visage grave qui lui présentaient des sachets de plantes médicinales.
+
+['il', 'elle', '</s>', 'et', 'je']	Guyot	– Bien entendu... Nous pratiquons ainsi depuis la mise en service de l'hôtel. Le septième étage est condamné. Il possède même une entrée distincte de celle de l'hôtel, sur la façade arrière. La chambre 615 vous donne toute satisfaction j'espère... [MASK] réfléchissait intensément.
+
+['plomb', 'saturne', 'celui-ci', 'dieu', 'celle-ci']	Ghislaine	Il demeura prostré sur le lit, totalement absent de ce qui se jouait sur l'écran, incapable de fixer la moindre idée. Il s'endormit pour échapper au vide. L'affaissement du matelas sous le poids de [MASK] le tira de son sommeil provisoire.
+
+['on', 'il', 'y', "n'", "y'"]	Gérard	Il avait posé la main sur la poignée de la porte dans l'intention évidente d'appeler une secrétaire. – Je me fous de ce que pensaient les deux policiers. Je m'en tiens aux faits... Les phares déconnaient et [MASK] a eu besoin de mieux voir...
+
+['il', 'tout', 'elle', 'qui', 'on']	Babemba	Le vieux Malien à la gandoura se concerta en dialecte bambara avec les autres hommes du clan et fit part de leur conclusion au Français. – [MASK] se cache. Il a peur. Les policiers français l'ont battu dans l'avion.
+
+['lui', 'loup', 'joe', 'chien', 'corps']	Gérard	Il se sentait fatigué, le corps lourd et n'arrêtait pas de penser à cette minute insensée où tout avait basculé. L'image de [MASK] hurlant dans l'herbe, ses doigts tordus labourant la terre, repassait indéfiniment devant ses yeux.
+
+['elle', 'chacun', "j'", 'celle-ci', 'lui']	Gérard	Il se souvenait que [MASK] avait baissé la vitre pour signaler où ils allaient. C'était tout, puis la DS avait redémarré avant d'effectuer son demi-tour devant les hangars aux portes closes. Que faisait-il pendant ce temps.
+
+['lui', 'moi', 'elle', 'lui-même', 'celui-ci']	Guyot	Il posa son regard vide sur [MASK] en se persuadant qu'il avait affaire à un fétichiste du chiffre 715. – Désolé Monsieur, elle n'est pas libre... Son professionnalisme lui dicta de se rapprocher le plus possible des désirs du client. Il examina la liste des réservations.
+
+['</s>', '--', '_', '-', '(']	Guyot	? [MASK] leva la tête et le fixa droit dans les yeux. – Pourquoi ne l'avez-vous pas dit vous-même ? ... Ce n'est pas tous les jours que la police peut se vanter d'avoir déjoué un hold-up de ce genre...
+
+['u', 'é', '-', 'm', 'fa']	Darqué	[MASK] eut une moue incrédule. – Les hologrammes ? Je n'en ai jamais entendu parler ! Qu'est-ce que ça vient faire sur un aéroport ? – Vous avez une carte de crédit ? Le commissaire parut interloqué. – Oui bien sûr... Quel rapport ?
+
+['fini', 'parti', 'le', 'terminé', 'reparti']	Gao	– Le paiement de cette surtaxe rend votre véhicule prioritaire... Tout de suite après, c'était [MASK]. Le taxi roulait dans les larges avenues bordées de baraques en évitant les trous, les ornières, profitant des rares plaques de bitume qui témoignaient d'un passé plus glorieux.
+
+['il', 'et', 'elle', '</s>', ',']	Babemba	Il déjeuna de lait et de galette dans la cour qui gardait encore un peu de la fraîcheur de la nuit, devant tout le clan rassemblé. La jeune femme qui la veille lui avait présenté l'eau pour se laver les mains lui remit un sac plastique bleu rempli de provisions. [MASK] s'approcha.
+
+['</s>', '-', 'il', '...', '"']	Gérard	Un des phares marchait. [MASK] a été tué de sang-froid... Ils l'ont flingué comme un lapin. – Ça ne m'étonne pas, avec ce qu'il préparait... – Mais il préparait quoi à la fin ! Arrête de parler par énigme.
+
+['il', 'elle', 'lui', 'je', 'me']	Guyot	Il se pencha vers le chauffeur, les lèvres à hauteur de l'oreille noire. – Vous n'avez rien d'autre comme musique ? L'autre haussa les épaules et [MASK] devina une moue désolée dans le rectangle étroit du rétroviseur. – Pour les Français, j'ai pas grand-chose...
+
+['robert', 'laurent', 'rocher', 'martin', 'lambert']	Guyot	Yves [MASK] fut troublé par la tristesse de son regard. – Moi non, je suis resté tout le temps dans le couloir : les chambres étaient déjà pleines quand ceux d'Aubervilliers sont arrivés... Mais dans l'avion un homme a parlé de ça...
+
+['cheval', 'dieu', 'pharaon', 'pierre', 'jésus']	Guyot	L'homme s'immobilisa le temps d'habituer ses yeux à la nuit verdâtre. Il s'agenouilla près du cadavre, fouilla les poches une à une, entassant tous les objets qu'il trouvait par terre à hauteur de la tête de [MASK].
+
+['il', 'elle', 'on', '-il', 'lui']	Gérard	Peut-être aurait-il dû partir aussi ce soir-là... [MASK] savait déjà où poser ses valises, lui non. Il ne leur avait fallu qu'une semaine pour admettre qu'il était plus facile de refaire un lit, le matin, au lieu de deux.
+
+['</s>', '--', '-', '--vous', '--il']	Babemba	Des policiers sont restés avec nous, pendant tout le voyage, pour nous surveiller et battre encore ceux qui criaient... – Vous n'avez rien remarqué, vers minuit, de l'autre côté du parking de l'hôtel ? [MASK] leva la tête pour la première fois.
+
+['qui', 'la', '12', 'lot', 'per']	Ghislaine	Le numéro de [MASK] sonnait occupé. Il raccrocha violemment, récupéra sa monnaie, composa à nouveau l'indicatif. Il l'eut enfin au bout du fil. – Qu'est-ce qui s'est passé ? Pourquoi ça sonnait occupé ? Il ne s'aperçut pas qu'il criait.
+
+['m', 'f', 'robespierre', 'napoléon', 'monsieur']	Delacroix	Je détachai un billet de « Tac-au-Tac » du présentoir et grattai le rectangle gris avec la tranche de ma pièce de 10 francs. Le chiffre 100 apparut. La patronne changea ma pièce contre un billet à l'effigie de [MASK]. – Vous en prenez un autre ?
+
+['</s>', ',', '...', 'de', 'à']	Cadin	La bière était fade, éventée. [MASK] récupéra le tabouret d'un client qui réglait ses consommations. Il baissa la voix. – Vous êtes sur un coup ? – Oui, si on veut. Je me mets en situation. Son regard s'alluma. – Lequel
+
+['il', '</s>', 'elle', '"', '-']	Dalbois	C'est impossible... [MASK] se mit à rire en tournant autour de la table. – Vous avez raison : c'est impossible. Et pourtant cela existe ! La fréquence d'apparition de cette aberration est infime mais le problème n'en demeure pas moins...
+
+['il', 'on', 'elle', 'celui-ci', 'et']	Guyot	Tu verras, il est très bien documenté. Je suis certain que c'est le principal organisateur de l'opération qui parle... [MASK] reconnut immédiatement la maquette de Libération, le titre en capitales italiques, le surtitrage ironique, la colonne de commentaire que s'autorisait le journaliste.
+
+['elle', 'il', '-', '"', 'jeanne']	Guyot	– On n'a pas que ça à faire, à te regarder jouer les seigneurs ! Tu nous suis. Un point c'est tout. Elle sait lire... Laisse-lui un mot, elle comprendra... [MASK] haussa les épaules et se résigna à enfiler son blouson.
+
+['viens', '"', 'va', 'allons', 'oui']	Bandit	Une forme noire, rapide, slaloma entre les épaves et finit sa course en sautant sur le rebord intérieur du muret. – [MASK]... Viens ici ! Le chien avait passé une patte entre les barreaux. Il sollicitait les caresses en griffant ma manche de manteau.
+
+['la', 'st', 'paris', "l'", 'l']	Bagadadgi	Le conducteur dont le crâne était recouvert d'un calot blanc brodé se retourna en roulant au pas, le menton posé sur son épaule. – Tu veux aller où Patron ? – Dans le quartier de [MASK]. Il n'exigea pas davantage de précisions.
+
+['§', '2', '4', '5', '1']	Cadin	? La lumière de la fenêtre, derrière lui, éclairait sa chevelure abondante à la manière d'une auréole. Il me confirma son identité d'un mouvement de tête. – J'ai encore des amis ! Bonne nouvelle... Qui ? – [MASK].
+
+['pas', 'rien', 'bien', '"', 'encore']	Taroum	Demande [MASK], il aura peut-être envie de parler... Ce ne sont pas mes affaires. Il replia sa carcasse dans un fauteuil du hall d'accueil et son buste disparut derrière la Une de l'Essor qu'il venait de tirer d'un tas de revues et de journaux dépareillés posés sur une table basse.
+
+['lui', 'compagnie', 'moi', 'autres', 'rossi']	Girard	? Je me mis à parler entre mes dents. – Ce ne sont pas des salades : Carpo et [MASK] sont cités dans le rapport Bricot, mais pas un journaliste n'a été assez bien inspiré pour vérifier les noms des témoins miracles de la chambre 715 !
+
+['tout', 'il', '-', 'ça', 'ulrich']	Darqué	A ta place je m'écraserais, je me ferais oublier... – Je ne suis pas le seul à me souvenir de ce qui s'est réellement passé cette nuit-là.. [MASK] s'était figé. – Comment ça, « pas le seul » ?
+
+['euh', 'heu', 'bonjour', 'oui', 'hum']	Bandit	? Il avait un visage osseux qui contredisait l'impression de force qu'il donnait en marchant. La tête partait en triangle aigu à partir du menton et les pommettes étroites supportaient de larges cernes. Je désignai le chien en souriant. – [MASK]... Drôle de nom...
+
+['et', 'il', 'elle', ',', 'qui']	Ghislaine	[MASK] se leva pour l'embrasser. – Tu veux un café, il est chaud. Je me demandais où tu étais... Il répondit par une grimace et s'enferma dans la chambre malgré les enfants qui, voulant jouer avec lui, s'agrippaient à ses jambes.
+
+['écoutez', 'monsieur', 'ecoutez', 'docteur', 'inspecteur']	Londrin	J'allais vous en parler... Ecoutez, [MASK], vous êtes à deux doigts de la retraite Même si vous n'aboutissez pas dans cette enquête, cela ne remettra rien en cause pour vous... Peut-être même... Il souleva lentement les paupières, laissant sa phrase en suspens.
+

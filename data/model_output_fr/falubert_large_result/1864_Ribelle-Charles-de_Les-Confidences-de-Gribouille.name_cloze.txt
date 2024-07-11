@@ -1,0 +1,200 @@
+['il', 'on', 'celui-ci', 'y', "c'"]	Gribouille	Comme quoi [MASK] est accueilli au retour à coups de manche à balai, et comme quoi il se réfugie chez le cousin Lustucru. Le raisiné avalé, comme tu le penses bien, je n’eus aucune presse de revoir ma tante et je ne revins chez elle qu’assez tard dans la journée.
+
+['ah', ',', '!', '</s>', '.']	Gribouille	[MASK] ! ah, mon enfant ! Comme il arrive un moment dans la vie où l’on regrette amèrement son bras si dodu, sa jambe bien faite et son temps perdu, et pourtant !... Mais enfin je ne veux pas te causer de regrets prématurés, et puis, tu es un homme, toi.
+
+[',', 'tout', 'le', '...', ';']	Bilboquet	— Oui, dis-je, mais je n’aime pas la queue du chat, assaisonnée ou non ! ni les cachots non plus ! — Allons, dit [MASK], qui voyait que les choses allaient s’embrouiller, le père Lustucru se fourrera dans la voiture au moment de sortir des barrières
+
+['tu', 'te', 'ton', "l'", 'ta']	Lustucru	— Ah ! dit [MASK], en voilà une tuile !... Comment, tu ne sais pas lire ! pas même déchiffrer un méchant bout de papier de rien du tout !... mais à quoi donc a servi de t’envoyer à l’école, infortuné ?...
+
+[',', 'de', 'le', 'à', 'un']	Marie	Le père Thomas eut quelque peine à se décider à laisser [MASK] avec nous ; mais pourtant il fut obligé de consentir, et depuis ce temps, nous menons une existence qui n’est point sans plaisirs et sans quelque peu de bonheur ;
+
+['</s>', ',', '"', ';', '-']	Margot	La maladie vient au galop, mais elle ne s’en retourne qu’au petit trot, et encore faut-il l’aider à faire sa retraite. — Ah ! jour de Dieu ! [MASK], ai-je dit, je voudrais te voir à ma place ;
+
+['elle', 'il', 'ne', 'celle-ci', 'madame']	Marie	dès qu’elle fut un peu grandelette, le bonhomme voulut lui choisir un état ; mais [MASK] décida elle-même qu’elle s’appellerait Margot, et qu’elle travaillerait avec nous, parce qu’elle ne voulait pas nous quitter.
+
+[',', "d'", 'EST', 'à', 'est']	Lustucru	— Oui, mais l’héritage ! l’héritage ! tu l’aimes bien mieux que moi ! — Mais non ! cousin ; écoutez-moi, vous allez voir que mes intentions sont bonnes. — Ah ! ! les intentions ! les intentions ! dit [MASK] avec un geste de désespoir
+
+['le', 'la', 'se', 'my', 'S']	Lustucru	— Sachez donc, patron, dit le pitre, que — la faim chasse le loup du bois ; — nourrissez votre geindre, et quand il aura l’estomac plein, il ne pensera plus à y rien introduire frauduleusement. — Tu peux avoir un peu raison, dit [MASK] ;
+
+[',', 'NE', 'de', "l'", 'à']	Gribouille	...Et le crime puni, je te recommande mon chat Beaupoil, et, pour te prouver combien je regrette de t’avoir soupçonné d’être un cannibale, un anthropophage, je te laisse tout ce que je possède, y compris mon pauvre minet Beaupoil. Ah ! [MASK]
+
+['se', 'deux', ',', 'cheval', 'en']	Gribouille	— Comme quoi on veut vendre quatre lapins à [MASK] pour six francs, et comme quoi il préfère en choisir trois sur les quatre et les payer deux francs pièce. — Malade ! oui, ça doit être quelque chose comme ça, me dit le père Jean ;
+
+['je', 'moi', "j'", 'voilà', 'vous']	Michel	Voilà, petit, comment j’ai passé trente-deux années de ma vie : ah ! je peux dire que j’en ai fait des sauts et des cabrioles avec mes chats, et que [MASK], mon défunt, en a fumé de toutes sortes de tabac !
+
+[',', 'en', 'le', 'on', 'un']	Lustucru	les moments sont courts. Prenez-vous avec nous la route de la capitale, ou restez-vous ici ? — Je décampe au plus vite, dit [MASK], devenant tout blême en apercevant poindre dans le lointain un tricorne. Oui, oui, je vous suis ;
+
+['oui', 'alors', 'non', 'vraiment', 'toi']	Gribouille	patience ! — Ça n’est pas la patience qui me manque, dis-je d’un air dolent, c’est la charge qui m’assomme. — Ah ! [MASK], tu me ferais désespérer de toi, si je te voyais caner pour si peu de chose.
+
+['ça', 'je', 'cela', 'çà', 'moi']	Bilboquet	— La Providence ? dis-je, les Gribouilles de la famille ne m’ont jamais parlé de ça. — Vous êtes donc d’une famille de bêtes, dit [MASK] ? — Mais non, dis-je, puisque l’on dit malin, vous savez ! !
+
+[',', 'de', 'pour', 'et', 'ad']	Gribouille	Ah ! xcit ! ah ! xcit ! ah ! xcit ! Après cette observation et un petit temps d’arrêt, pendant lequel les Ah ! xcit ! ah ! xcit ! ah ! xcit ! éclatèrent de plus belle, [MASK] continua son histoire, ou plutôt ses confidences
+
+['le', 'LE', 'la', 'TOU', ',']	Beaupoil	Ah ! Et le père Lustucru était vraiment dans un véritable accès de folie, s’arrachant les cheveux, frappant des coups de poing sur les meubles, et répétant à chaque moment : — Ah ! l’affreux rêve ! C’était un avertissement. Ah ! [MASK] !
+
+['te', ',', 'ze', 'E', 'non']	Gribouille	Eh ! si par hasard la mère Michel était trépassée, et que ce soit le testament auquel j’ai rêvé cette nuit, qui se trouve dans cette lettre. Ah ! [MASK], tu n’as pas encore dégringolé les escaliers, butor...
+
+['il', 'elle', '-il', '-elle', 'celui-ci']	Gribouille	? elle en mourra peut-être ; — et puis, un bon averti en vaut deux.—Je m’en vais mettre le vivier à sec. —Et votre poisson ? — Mon poisson ? ah ! oui, dit [MASK] en se frottant le front ; eh ! pardine !
+
+['le', 'mon', "l'", 'la', 'ma']	Gribouille	— Petit, me dit [MASK], en recommençant à éternuer, j’aime mieux mon histoire que la tienne. D’abord, elle est plus poétique, et ensuite plus amusante. Ah ! xcit ! ah ! xcit ! ah ! xcit !
+
+['la', '...', ',', 'elle', "l'"]	Bilboquet	— Je l’ai connue, moi ! dit [MASK], en poussant un profond soupir !... Mère chérie !... trésor du ciel descendu sur la terre ! que de larmes n’ai-je pas données à ta perte !...
+
+['on', 'On', '</s>', 'il', 'Il']	Margot	ma foi non, — et le père Jean se remit à éternuer, ah ! xcit ! ah ! xcit ;— mais pourtant ça commence à se calmer, je n’éternue plus que deux mille fois par jour. [MASK] dit que c’est un remède qui opère.
+
+['elle', 'je', 't-elle', 'il', 'dis-je']	Bilboquet	nous, ajouta-t-elle avec tristesse, nous sommes orphelins. — Ah ! dis-je, et moi aussi, j’ai perdu les auteurs de mes jours lorsque j’étais en bas âge. — Tenez, dit [MASK], je vois que nous sommes logés à peu près à la même enseigne.
+
+['le', 'la', "l'", '"', 'un']	Bilboquet	— Laissez-moi donc continuer, dit [MASK]. « ...Et le crime puni, je te recommande mon chat Beaupoil, et, pour te prouver combien je regrette de t’avoir soupçonné d’être un cannibale, un anthropophage, je te laisse tout ce que je possède, y compris mon pauvre minet Beaupoil.
+
+[',', 'de', 'le', "l'", 'la']	Lustucru	[MASK] croyait-il tenir le chat de la mère Michel sur ses fourneaux ? ou était-il dans l’habitude de confectionner des gibelottes clandestines et fallacieuses aux dépens des chats de gouttières et autres dont il pouvait s’emparer ? Voilà ce que l’on ne découvrit que plus tard
+
+[':', ',', 'tu', 'je', ';']	Lustucru	Un peu effrayé du poids qui me pesait sur les épaules, je ne pus m’empêcher de dire : — Eh ! cousin, la charge est lourde. — Ah ! déjà, dit [MASK]. Comment, tu n’as pas le courage de supporter un peu de gêne
+
+['...', 'se', 'ne', ',', 'qui']	Michel	!... à moi !... Comprends-tu cela de ton grand-père Gribouille, toi, petit ? Hein ! en voilà une drôle d’idée !... J’avais beau lui représenter que la jambe de bois de [MASK] ne pouvait me convenir, rien n’y fit ;
+
+['son', 'ses', 'la', 'sa', "l'"]	Gribouille	Que la plaie était mortelle. Regretté de ses soldats, Il mourut digne d’envie, Et le jour de son trépas Fut le dernier de sa vie. —Tu vois que c’était un malin celui-là, bien digne d’être l’un des aïeux des [MASK].
+
+['on', 'EST', 'posé', 'se', 'est']	Lustucru	» — Il doit m’appartenir, dit [MASK] ; oui, ce chat qui doit enrichir son maître me revient en bonne justice ; j’en ai une partie, le reste doit être ma propriété, sans conteste. Je le veux, je le réclame ;
+
+['il', 'celui-ci', 't-il', 'monsieur', 'le']	Lustucru	— Je suis déjà sous le coup d’une accusation, dit [MASK] d’un air sombre ; donc, la justice a déjà pris ses informations. — Oui dit le commissaire ; mais depuis cette accusation ! ! !.... — Ah !
+
+['je', 'çà', 'S', 'ça', "'"]	Gribouille	; faut voir comme ils sont jaloux de moi. « Malin comme [MASK], » qu’ils disent tous. Ça m’a bien coûté quelque chose, ma réputation. Oui, c’est moi qui recevais toujours les roulées qu’il y avait à attraper ;
+
+[',', 'tout', 'à', 'en', 'le']	Gribouille	— Voulez-vous de l’eau de mélisse, ou voulez-vous que je vous frotte l’estomac avec un balai de chiendent, comme le jour où vous avalâtes en colère douze tourtes aux prunes que vous n’aviez pas pu vendre ? — Reste tranquille, [MASK], et je vais te raconter la cause de mon effroi
+
+["s'", 'ré', 'vous', "l'", 'dés']	Margot	— Quoique ça, je sens que le remède de [MASK] opère. — Enfin, père Jean, dis-je, puisque vous reconnaissez vos torts, vous voilà sur la bonne voie et vous êtes bien près de vous corriger tout à fait. — Jamais, mon ami !
+
+['bien', 'moi', 'Thomas', 'mon', 'tout']	Gribouille	oui donc ! dit le père Thomas ; voyons, en bons camarades, si cela peut s’arranger. — S’arranger ! s’arranger ! encore si j’avais seulement hérité du chat Beaupoil ! Mais, néant sur toute la ligne... Je t’écoute, [MASK].
+
+[',', 'nous', 'je', 'est', 'suis']	Lustucru	! la la ! dis-je, si l’autorité pouvait supposer un instant que ces cendres sont les nôtres ! — Il se pourrait ! dit [MASK] devenu plus hardi au fur et à mesure que nous nous éloignions, les erreurs de ce genre ne sont pas rares.
+
+['duc', 'la', 'votre', 'madame', 'ma']	Bourbon	Va-t’en te plaindre (bis) Au duque de [MASK]. LA CAPITAINE ET LE COLONEL. Mon duc, mon prince (bis) Je viens me plaindre à vous. LE DUC. Mon capitaine, mon colonel (bis) Que me demandez-vous ?
+
+['Pierre', 'Jean', 'il', 'Paul', 'Robert']	Lustucru	— Me saigner des quatre membres !... dit [MASK] devenu blême ! Ah ! je forme opposition, et il sauta sur le grand couteau qui lui servait à couper sa pâte, qu’il se mit à brandir d’un air féroce. Ah ! vous voulez ma mort !
+
+['il', 'je', 'le', 'se', 'tout']	Bilboquet	mais ce qu’il a perdu, ce minet si choyé, c’est sa queue, son affreuse queue, qui me poursuit jusque dans mon sommeil. Ah !... — Mais non, dit [MASK], c’est de sa maîtresse dont il est question, pas d’autre chose
+
+['il', '...', ',', 'je', 'on']	Lustucru	... — Silence !... me dit [MASK] d’un air sinistre. Eh ! malheureux ! crois-tu que la mauvaise chance de ne pas avoir eu le chat tout entier ne m’est pas bien fatale ?... Et l’héritage, donc !...
+
+['que', 'de', '-', 'à', 'toi']	Gribouille	— Mais, cousin, vous ne savez donc pas que ça porte malheur de tuer des chats ? Les bergers de la plaine disent qu’au treizième que l’on mange, l’on est changé en chien. —Ah çà ! es-tu bête, [MASK] !
+
+['COM', 'le', 'la', 'on', 'Monsieur']	Bilboquet	— Oui, dit [MASK], notre préoccupation la plus constante, c’est la crainte de mal faire et le désir de plaire au brave homme qui nous a recueillis avec tant de bonté. — Tant mieux, mes amis, dis-je, si vous vous trouvez heureux, cela prouve en faveur de votre bon caractère
+
+[',', ';', 'qui', 'ne', 'elle-même']	Margot	Pourtant les paysans, ses voisins, disaient de lui, à cause de la bonne tenue de sa ferme, que c’était un malin de la Bouille, qui, malgré son air tout chose, avait su amasser des écus,—dame [MASK] n’ayant jamais fait confidence à personne que c’était un propre-à-rien.
+
+['sa', 'son', 'la', 'madame', 'mademoiselle']	Lustucru	je t’aurais fricassé, et alors, ni vu ni connu, et le lendemain personne bien sûr ne t’aurait retrouvé ! Ah ! Sur ces entrefaites arriva le père Thomas, accompagné de mademoiselle Margot. — Qu’est-ce qu’il y a donc ? dit-il, en voyant le désespoir de [MASK].
+
+['non', 'tout', 'NON', ',', ':']	Lustucru	Mais il faut fuir à l’instant. — Oui, dis-je ; mais le mobilier ? — Ah ! le mobilier, dit [MASK] : il n’y a que quelques vieux meubles hors de service et une vieille paillasse qui ne vaut pas cher ;
+
+['la', 'ses', 'langu', 'parti', 'ces']	Lustucru	Et nous partîmes. Chargé comme un âne, je n’étais guère libre de mes mouvements. Sauf la langue, tout le reste était employé au service de [MASK]. Un peu effrayé du poids qui me pesait sur les épaules, je ne pus m’empêcher de dire :
+
+['ont', 'a', 'se', 'été', ',']	Bilboquet	Un soir que nous étions tous à dîner autour de la marmite commune, car, pour dire la vérité, nous étions fournis d’argent aussi bien les uns que les autres, tout autant que les crapauds de plumes, [MASK] dit en mangeant sa soupe :
+
+['lui', 'chacun', 'elle', 'vous', 'toi']	Gribouille	; libre à [MASK] de rester, si ça l’amuse ; quant à moi, c’est bien arrêté. Seulement, si, par hasard, il y avait une petite place dans votre voiture pour mon établissement, je vous serais bien obligé de lui donner asile.
+
+[',', 'le', 'de', 'la', '"']	Bilboquet	— Alors laissez-moi lire et ne m’interrompez plus, dit [MASK], je commence : « Monsieur, « Voici bientôt six mois que feu madame votre tante est passée de vie à trépas ; c’est avec plaisir que nous vous aurions appris cette triste nouvelle, si nous avions pu connaître votre adresse
+
+['les', 'la', 'le', 'no', 'de']	Bilboquet	! en cette occasion, nous tâcherons d’atteindre de l’autre côté de l’octroi sans queue de vache, mais à l’aide du moyen indiqué par [MASK]. Plions bagage, et sauvons le mobilier avant qu’un gendarme quelconque ne vienne former opposition à son enlèvement et à notre départ
+
+['</s>', 'elle', 'on', 'On', 'Elle']	Lustucru	Ah ! le scélérat ! Ah ! si... Enfin, n’y pensons plus. L’heure était arrivée de faire nos préparatifs pour commencer notre commerce. [MASK] appela une vieille femme qui vendait une dissolution de quelque chose de noir qu’elle enrichissait du nom de café.
+
+['moi', 'sire', 'seigneur', 'et', 'obligé']	Gribouille	; passe pour cette fois, et que cela ne se renouvelle plus, ajouta le cousin, car, autrement, je me verrais forcé, [MASK], de te mettre une muselière pour ne plus avoir d’inquiétude sur l’écoulement de mes marchandises.
+
+['brin', 'ça', 'tout', 'cela', 'çà']	Gribouille	j’ai agi du mieux de mon possible pour préserver le fils de ma mère : c’est pourquoi les jaloux, les envieux, en me voyant échapper à leurs embûches, m’ont toujours jalousé un brin, et chaque fois qu’un individu échappe à la méchanceté, ils disent : il est malin comme [MASK].
+
+['nous', "j'", 'chacun', "l'", 'Jean']	Lustucru	En deux temps, quatre mouvements, nous eûmes plié bagage, et, comme le tricorne que [MASK] avait déjà aperçu dans le lointain semblait se rapprocher, nous saisîmes notre mobilier et nous le portâmes au plus vite dans la voiture du père Thomas qui commençait à s’ébranler.
+
+['Thomas', 'lui', 'toi', 'Jean', 'vous']	Bilboquet	ah ! le Grand Turc ne serait pas mon parrain ! Je continue : Le père Thomas serait le conseil de la ferme ; puis, [MASK] et moi, nous travaillerions dans les champs, dans les granges, dans le piloir aux jours d’automne, où il faudrait faire du cidre.
+
+[',', 'le', 'je', 'se', "l'"]	Margot	il ne faut pas mentir. Quant à moi, j’étais, comme disait [MASK], comme la cinquième roue d’un carrosse, les choses n’allant que mieux quand je ne m’en mêlais pas. Enfin, le pauvre père Thomas est mort dans sa quatre-vingt-troisième année ;
+
+[',', 'de', '.', '</s>', 'à']	Bilboquet	fit [MASK]. Comme j’étais myope et que je n’y voyais, la plupart du temps, pas plus loin que le bout de mon nez, je ne compris pas d’abord les desseins du cousin Lustucru, et je fis sans difficulté ce qu’il me demandait.
+
+['-', 'le', 'la', 'VAL', 'en']	Lustucru	— C’est ton droit, dit [MASK]. Et puis, qu’est-ce que ça fait au gouvernement que ce soit toi ou moi qui fassions de la prison, pourvu qu’il y ait quelqu’un sous cloche ? — Mais pas du tout, dis-je en trépignant
+
+['la', "l'", 'mère', '"', 'Marie']	Lustucru	mais compter là-dessus, c’est vouloir prendre la lune avec les dents, et il ne faut pas y voir plus loin que le bout de son nez pour comprendre que la mère Michel ne me pardonnera jamais !... Au fait, n’en parlons plus et restons bons amis. Le Rêve de [MASK].
+
+['madame', 'monsieur', 'Monsieur', 'mademoiselle', 'dame']	Bilboquet	— Tiens ! dis-je au pitre, vous avez donc une sœur ? — Mais oui, me dit [MASK]. — Comment s’appelle-t-elle, votre sœur ? — Elle s’appelle Margot. — Margot ! ah ! est-ce drôle !
+
+['on', 'se', 'en', 'tout', 'le']	Margot	; enfin, [MASK] dit que ça se passera, faut bien le croire ; et puis, si je ne la croyais pas, ça serait encore tout de même, quand je serais triste comme un bonnet de nuit, cela ne ferait rien à la chose ;
+
+['bone', 'de', ',', 's', 'le']	Michel	; elle disait que c’était la santé du corps, et qu’avec ça on allait loin... L’âge de me marier était arrivé, mon père voulut absolument que j’épousasse un sien ami, nommé [MASK], qui avait une jambe de bois ;
+
+['mou', 'mon', 'ma', 'votre', 'celui-ci']	Beaupoil	? Dites, répondez-moi. —Ma tante, dis-je, je n’ai rien à me reprocher au sujet de [MASK], si ce n’est d’avoir quelquefois soustrait son mou pour m’en servir pour attraper les corneilles. —Pris son mou ?
+
+['il', ',', 'celui-ci', 'on', 'elle']	Lustucru	dit [MASK] en se frottant le nez, tu me donnes le frisson ; après tout, j’en ai tué plus de treize, il est vrai, mais je n’en ai guère mangé ; donc ça ne me regarde pas.
+
+["j'", 'ils', 'il', 'nous', 'on']	Gribouille	xcit ! ah ! xcit ! ah ! xcit ! et [MASK] éternua encore une douzaine de fois, — proposèrent d’aller prendre des renseignements sur les conditions que ferait le monstre pour s’éloigner de la ville ou pour se suicider au besoin.
+
+['on', 'le', "l'", 'que', "qu'"]	Lustucru	; puis il avait réfléchi un moment, et, après avoir réfléchi, il s’écria : — Eh bien ! non ; il ne sera pas dit que [MASK] se sera laissé enfermer dans une ratière comme un serin dans une cage ;
+
+['un', '"', 'bien', ',', 'celui']	Lustucru	Quand il s’agit de pincer un paroissien, on n’y regarde pas de si près. Du moment où tu diras : « Je suis [MASK], » laisse faire, on ne t’en demandera pas davantage. — Hum ! hum !
+
+['de', ',', 'le', "l'", 'la']	Lustucru	[MASK], fâché que l’on vînt donner de mauvais conseils à son geindre, comme il m’appelait, ramassa la galette accusatrice qui gisait dans la poussière et la colla sur la face du pître qui s’en saisit aussitôt et l’avala sans se fâcher, en disant :
+
+['je', 'il', 'alors', 'elle', '-je']	Lustucru	— Ah çà ! mais, dis-je en ouvrant de grands yeux et en me grattant la tête à deux mains, ah çà, mais ! il s’agit donc d’être pincé ? — Dame ! dit [MASK], c’est toi qui as le faux nez !
+
+['on', 'il', 'chacun', 'tout', 'elle']	Marie	; pour moi, j’avais le cœur tellement gros, l’esprit si bouleversé, que je ne pus prendre ma nourriture. Dès que [MASK] eut mangé, je vis notre protecteur prendre un morceau de toile bien blanche et un vase rempli d’eau claire.
+
+['qui', 'quiconque', 'Qui', 'celui', 'personne']	Bilboquet	— Voyons, dit le père Thomas, qui était le plus raisonnable et le plus conciliant des hommes, jusqu’ici, nous voilà tous à peu près d’accord, [MASK] n’a rien dit, et qui ne dit mot consent.
+
+['on', 'Jean', 'celui-ci', 'monsieur', 'Bob']	Bilboquet	! — Oui, oui, dit [MASK], on connaît ça ; mais, mon camarade, — comme on fait son lit on se couche. — Vaut encore mieux faire travailler son corps, que d’en faire une boutique d’apothicaire.
+
+['celui', 'celle', 'celui-ci', 'Jean', 'Pierre']	Lustucru	— Oui, dit [MASK] qui venait de jeter un dernier regard en arrière, oui, il était temps ; car je vois le gendarme qui s’est arrêté vers l’emplacement qu’occupait ma boutique ; je l’aperçois qui remue les cendres provenant de mon fourneau.
+
+['et', 'de', "d'", 'des', 'je']	Nicolas	Ah ! la brave femme ! En ai-je fait de ces parties de cache-cache, [MASK], en ai-je dansé de ces rondes. Tiens, rien que d’y penser mes vieilles jambes en frémissent encore. Tandis que j’y suis, je veux te donner une idée de mes récréations et de nos joies
+
+['le', 'je', "l'", "'", 'la']	Gribouille	— Franchement, dit-il, j’ai reconnu depuis longtemps que j’avais joui d’une réputation usurpée, et je vois même aujourd’hui que l’on a retourné le sens de ce que voulait dire autrefois : Malin comme [MASK]. A l’heure qu’il est
+
+['il', 'celui-ci', 'Jean', 'Pierre', 'Espérance']	Lustucru	— Mais moi, malheureux, dit [MASK] en s’arrachant les cheveux, mais moi ? Si ce rêve était par hasard une réalité, je serais capable de me passer une cravate de chanvre autour du col et de me lancer dans le vide de désespoir.
+
+[',', 'en', 'tout', "l'", "s'"]	Lustucru	— Laquelle, laquelle ? Eh bien ! mais, celle de... de... de... — De quoi ? dit le père Thomas, qui se frottait les mains en voyant mon trouble. — Pardine, dit [MASK] en se donnant un grand coup de poing sur le nez
+
+['-', 'le', 'TRAN', 'perdu', 'il']	Bilboquet	— Quoi donc ? dit [MASK]. — Quoi ? mais ce qu’il a perdu, ce minet si choyé, c’est sa queue, son affreuse queue, qui me poursuit jusque dans mon sommeil. Ah !...
+
+['Re', 'de', 'il', 'tout', "d'"]	Margot	ah ! xcit ! ah ! xcit ! Et le père Jean se remit à éternuer de plus belle. Ah ! xcit ! ah ! xcit ! ah ! xcit ! — Ça opère, dit-il, dès qu’il put parler ; peut-être bien que [MASK] a raison
+
+['Oui', 'Moi', 'Mais', 'moi', 'Je']	Michel	Enfin, à ça près de cet inconvénient, [MASK], mon défunt, était un fort brave homme, et j’avais la liberté de danser toute seule tout à mon aise, mon homme n’y trouvait jamais à redire. Mon père prétendait avoir fait un mariage de bascule.
+
+['allons', 'as', 'et', 'te', 'le']	Gribouille	: —Allons, [MASK], il est temps de montrer que tu es un malin : tu vas porter tout, et moi je ferai en sorte de me charger du reste. Tiens, par exemple, je m’en vais emporter une chaise ;
+
+['elle', 'il', 'on', 'celle-ci', 'celui-ci']	Bilboquet	! mais c’est un nom de pie, ça. Qu’est-ce qu’elle fait votre sœur Margot ? — Ah ça ! camarade, me dit [MASK] sans se fâcher, vous m’avez l’air d’un bon enfant, mais vous êtes bien curieux.
+
+[',', 'de', 'est', 'matin', 'la']	Lustucru	le patron ne m’avait encore rien donné ce matin, c’est un à-compte sur le premier repas que je pourrai faire. [MASK], voyant le sang-froid de ce garçon, ne put s’empêcher de rire, et moi, attiré vers lui par sa bonne et joyeuse figure, je lui dis
+
+['la', 'une', "s'", 'se', "l'"]	Gribouille	Chassé par la Mère Michel. III Histoire de la mère Michel et de son chat, et comme quoi la bonne femme donna un jour à [MASK] une représentation de ses jeux de jeune fille en dansant et en chantant toutes les vieilles rondes qu’elle savait. — Ah
+
+['"', 'la', "l'", '...', 'deux']	Beaupoil	« Je ne lui laisse pas une obole et je lui souhaite d’être forcé, par la famine, de poursuivre lui-même les rats et les souris pour assouvir ses appétits désordonnés de chair fraîche, le cannibale !... « Je te donne ma bénédiction accompagnée de [MASK].
+
+['on', 'il', 'sur', ',', 'non']	Bilboquet	plus tard je vous raconterai cela, mais pour le moment il s’agit de calmer le cousin. — Le calmer, dit [MASK], ça n’est pas facile ; il s’excite lui-même de plus en plus, et il est capable d’en attraper un coup de sang
+
+['le', 'un', "l'", 'ainsi', '-']	Martin	Il est vrai — qu’il y a plus d’un âne à la foire qui se ressemble et s’appelle [MASK], —mais vous êtes un homme fait, pendant que moi je ne suis encore qu’un jeune homme.
+
+['ça', 'cela', 'esprit', 'homme', 'personne']	Gribouille	— et si, plus d’une fois, l’on m’a reproché d’être malin comme [MASK], du moins n’ai-je pas laissé supposer un seul instant que c’était en mauvaise intention. A bon entendeur, salut !
+
+[',', 'de', 'le', 'à', 'la']	Gribouille	[MASK] ! tu deviens mon ennemi ; à dater de ce jour tu ne fais plus partie de mon exploitation de galette ; il faut que tu vives de tes croûtes. Ah ! ah ! mon gaillard, allons-nous en faire barbouiller du papier timbré ! je sui s
+
+[',', 'de', 'se', 'la', 'le']	Gribouille	— Nous vivotions de notre pâtisserie ; mais le cousin Lustucru s’aperçut un jour que, malgré son faux nez, il était observé d’une certaine façon par plusieurs particuliers de fort mauvaise mine. Le soir, il me dit : — Ah ! la la ! [MASK]
+
+[',', '...', ';', 'et', 'mais']	Lustucru	Tu coucheras sur la table pour ne pas avoir l’humidité du sol. —C’est ça, cousin, dis-je ; mais vous ? — Je pense à toi d’abord, petit, dit [MASK] d’un air assez équivoque. Tu vois si j’ai bon cœur
+
+['je', 'dis-je', 'il', 'alors', 'donc']	Lustucru	dis-je d’un ton lamentable, comme le poisson sur la paille ! — Non, non ! dit [MASK], le poisson n’est heureux que dans son élément : dis-donc comme le poisson dans l’eau,— le poisson est très-heureux dans l’eau.
+
+['nuit', 'la', 'deux', 'circonstance', "l'"]	Bilboquet	—Où il est démontré qu’il est toujours imprudent de vouloir avaler clandestinement une galette trop chaude, et comme quoi il est fort désagréable d’être obligé de la recracher. — Rencontre de [MASK]. — Bon, dis-je, mais en attendant où allons-nous passer la nuit ?
+
+['il', 't-il', '-il', 'celui-ci', 'je']	Gribouille	— Ce que j’y ai gagné, mon garçon ? me dit [MASK] en élevant les mains au ciel ; ah ! petit ! tu ne comprends donc pas ? ah ! mais pardine, c’est que la pluie m’aurait martyrisé en me mouillant peu à peu.
+
+['gri', 'co', 'bonne', "s'", 'br']	Margot	Le remède de [MASK] opère ; c’est un vrai remède de bonne femme, celui-là ; aussi je le conseille à tous ceux qui peuvent s’en servir sans courir le risque d’être entièrement rissolés comme des côtelettes sur le gril. Ah ! xcit ! ah !
+
+['alors', ',', 'mais', 'Mais', 'MAIS']	Gribouille	? L’amitié, la famille n’ont donc aucun droit sur ton cœur ? Ah ! [MASK], auras-tu le cœur assez endurci et l’âme assez noire pour refuser un sacrifice à ceux qui te donnent ta pâtée et que tout t’ordonne d’affectionner ?
+
+['Non', 'bien', 'Ho', 'non', 'Bien']	Gribouille	Seulement le père Lustucru était assez souvent de mauvaise humeur. — [MASK], mon garçon, me disait-il alors, oui, je suis triste comme un bonnet de nuit, quand je pense à combien peu tiennent la fortune et le bonheur en ce monde ;
+
+['elle', 'ne', 'on', "n'", 'RT']	Margot	; et puis, [MASK] n’est pas toujours douce comme une peau de taupe. Ah ! la vie ! la vie ! ah ! xcit ! ah ! xcit ! Et le père Jean se remit à éternuer de plus belle. Ah ! xcit ! ah ! xcit
+
+['laquelle', 'quelle', 'quel', 'la', 'Quelle']	Gribouille	— Dame, ça serait pourtant la meilleure, dis-je tout troublé. — Laquelle, [MASK], laquelle ? dit le père Lustucru, qui s’était assis après avoir quitté le grand coutelas avec lequel il voulait nous pourfendre un instant auparavant. — Laquelle, laquelle ?
+
+['bref', ',', '...', 'voilà', '..']	Lustucru	Enfin [MASK], notre cousin, que tu connais, est parvenu à me consoler en me donnant de jeunes minets à élever : ah ! les chers innocents ! comme j’avais du plaisir à faire leur éducation ; mais chose étrange ! dès qu’ils étaient gras et dodus, ils disparaissaient.
+
+['monsieur', 'Monsieur', 'dit-il', 'ami', 'madame']	Gribouille	— Bonsoir, [MASK] ; tâche de passer une bonne nuit. La nuit était froide : la foire de la Saint-Romain se trouve à la fin de l’automne, au moment juste où les marrons font leur apparition dans les poêles des Auvergnats, débitants de cette denrée.
+

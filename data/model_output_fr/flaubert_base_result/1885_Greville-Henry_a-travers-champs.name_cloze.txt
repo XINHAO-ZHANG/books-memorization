@@ -1,0 +1,200 @@
+['et', 'à', ',', 'au', ':']	Maxime	; l’obscurité se fit soudaine, presque impénétrable ; une vapeur sulfureuse les entoura ; les chevaux, pris de panique, bondirent en avant avec un terrible coup de collier qui faillit disloquer l’équipage. — Vois-tu la calèche ? cria [MASK].
+
+['celui-ci', 'robert', ',', 'henri', 'jean']	Cécile	mais ton père ?… aurait-il pardonné ? Les yeux de la mère s’emplissaient d’ombre, et ses mains serraient convulsivement le drap. — Soyez en paix, dit [MASK] en étendant la main : au nom de mon père, je vous pardonne !
+
+['il', 'on', 'elle', 'cela', 'lui']	Maxime	Mais, le lendemain, ses chevaux n’étaient pas encore arrivés, et il ne partit pas. Les chevaux arrivèrent deux jours après, et [MASK] ne partit pas davantage. 14 IL NE PARTIT PAS, parce qu’il s’était senti calme tout à coup.
+
+['chacun', 'tous', 'quelques-uns', 'ceux-ci', 'celui-ci']	Souratine	Ils entrèrent et n’eurent pas lieu de s’en repentir ; tous les visiteurs étaient jeunes et gais. Grâce à la réputation de distinction de [MASK], ce qui chez un autre eût passé pour un manque d’usage, fut considéré comme une espièglerie amusante.
+
+['madame', 'eugénie', 'christine', 'pauline', 'yvonne']	Orianof	Dans une des visites largement espacées que leur faisait [MASK], elle lui fit comprendre qu’elle et son mari avaient pénétré les motifs de son éloignement, qu’ils en étaient sincèrement peinés, et qu’ils feraient tout leur possible pour lui prouver que, loin de perdre un ami, il en avait gagné un autre.
+
+['corvée', 'pied', 'main', 'génie', 'métier']	Souratine	; – le seigneur riverain avait répondu que, pour allumer la lanterne, il faudrait qu’un des hommes de [MASK] traversât la rivière et débarquât tous les jours dans son jardin, et qu’il entendait ne point avoir d’étrangers chez lui.
+
+['il', 'et', 'comme', 'elle', 'tant']	Souratine	Premier à sortir par cette porte, soyez aussi le premier à revenir. Rentré chez lui, [MASK] prit sa femme dans ses bras et lui appuya doucement la tête sur son épaule. — Ma pauvre enfant, lui dit-il, tu viens de subir une épreuve cruelle
+
+['le', 'la', "l'", 'un', 'm.']	Maxime	la clarté ne se fit pas attendre : à droite, un peu en avant, une masse noire, ballottée par des mouvements capricieux et fantastiques, se dirigeait vers la rivière qui roulait des vagues menaçantes à vingt pieds au-dessous du niveau de la prairie. — Elle est perdue ! s’écria [MASK].
+
+['tout', 'être', 'je', 'dis-je', ',']	Maxime	Il ne s’en ira pas, répondit-elle avec le même calme ; il sait que nous avons besoin de lui. — Comment cela ? fit [MASK] surpris. — Pour soigner nos pauvres paysans. Un médecin n’abandonne pas plus ses malades qu’un soldat son drapeau.
+
+['marie', 'jeanne', 'maman', 'marguerite', 'catherine']	Tatiana	De temps en temps ils se regardaient, échangeaient un sourire et ne disaient rien. Il est si bon de vivre quand on est jeune, aimée, et qu’on a vu la mort de près ! Mais les lèvres souriantes de [MASK] étaient pâles, – elle avait dû beaucoup souffrir.
+
+['</s>', 'il', 'elle', 'qui', 'chacun']	Souratine	Les refrains des chœurs de jeunes filles qui tournaient lentement en rond sur la place du village lui arrivaient distinctement avec leurs longues tenues aiguës. [MASK] venait de sortir en lui disant quelque chose qu’il n’avait pas entendu ; il n’osa se retourner pour le faire répéter.
+
+['il', '</s>', 'chacun', 'on', 'celui-ci']	Maxime	Les cochers négligents accouraient tout consternés. [MASK] leur remit sa capture et retourna en toute hâte vers le pauvre petit blessé, que les femmes entouraient en gémissant. Il les écarta, enleva doucement l’enfant dans ses bras et l’emporta avec précaution vers la maison.
+
+[',', "qu'", '</s>', 'qui', 'à']	Orianof	cria [MASK] à son tour. — Regardez votre montre. Il courut à sa table, où il avait déposé sa montre la veille au soir. — Arrêtée ! dit-il en se remettant à la fenêtre. J’ai oublié de la remonter. Quelle heure est-il
+
+['il', 'elle', 'je', 'et', 'ou']	Souratine	Tu enverras ce qu’il faut avec la voiture, comme à l’ordinaire, ajouta-t-elle en se tournant vers son mari. Sans lui répondre, [MASK] lui prit la tête dans ses deux mains et l’embrassa au front, avec respect, avec passion…
+
+['</s>', 'elle', "n'", 'qui', '"']	Vevette	— Allons ! dit-il en ouvrant la porte. Le vent s’engouffra dans la maison, mais les époux n’y prirent garde. [MASK] était couchée depuis longtemps ; nul ne soupçonnait leur entreprise. Ils marchaient vite, sans se parler ;
+
+['le', '.', 'la', 'les', '"']	Souratine	— Nenni, lui répondit sa femme ; mais si vous êtes bien sage, on viendra vous chercher au retour et nous irons nous promener. — Vous me trouverez à moitié route, répondit [MASK]. La calèche roulait déjà. — Je te le défends bien !
+
+['robert', 'jacques', 'catherine', 'henri', 'valentine']	Orianof	— Ne me regardez pas, madame ! s’écria [MASK]. Attendez encore dix minutes. Un quart d’heure après il fit son apparition, bien vêtu, bien rasé, une cravate de couleur tendre nouée sous le menton.
+
+['lui', 'moi', 'natacha', 'elle', 'celui-ci']	Grégoire	elle vit et je l’aime. Je reste, c’est assez ! Après avoir rêvé tout éveillé quelque temps, il s’habilla sans se presser et se dirigea vers le jardin. Le cocher d’Orianof et [MASK] étaient tous deux dans l’antichambre, prêts à faire leur rapport.
+
+[',', 'et', 'à', 'de', ':']	Orianof	Une angoisse extrême le prit à la gorge ; il allait retourner et lui crier : Non, je ne puis pas ! Son cocher, qui venait le chercher, lui dit : — La calèche est prête, monsieur, qu’ordonnez-vous ? — Attelle ! répondit [MASK]
+
+['harry', 'alice', 'donc', 'meg', 'ensuite']	Maxime	— Elle dort, dit-il, très bien, le sommeil est ce qu’il y a de mieux pour la remettre. Quelle épreuve ! Et moi qui ne me doutais pas… Vraiment, on est quelquefois si bête… Il conduisit [MASK] dans la chambre bleue et s’empressa de retourner près de sa femme.
+
+["l'", 'le', 'un', 'son', 'la']	Maxime	rien n’est perdu de tout ce que vous m’avez donné. Elle parlait par saccades, et [MASK] haletant suivait les paroles sur ses lèvres. – Je suis heureuse et fière des affections que je puis inspirer autour de moi ; cela seul vaut qu’on vive et qu’on lutte
+
+['le', 'lui', 'un', 'son', 'de']	Maxime	; – je sais que de telles choses vous semblent toutes simples et que vous ne me laisseriez pas vous remercier, mais… Il détourna son honnête visage, baigné de larmes. — Vit-elle ? demanda [MASK], qui était resté debout et immobile.
+
+['il', 'elle', 'celui-ci', 'on', 'henri']	Tatiana	: — Comment vous sentez-vous ? Au lieu de répondre, [MASK] lui tendit la main ; il la prit à peine, l’effleura rapidement et la laissa retomber. Son cœur semblait fondre en lui : elle était là, belle, tendrement aimée – et vivante !
+
+['henri', 'jules', 'jacques', 'julien', 'jean']	Souratine	— Allons, allons, s’il n’y a qu’un cheval de perdu, ce n’est que demi-mal, dit [MASK] d’un air encourageant. — Vous êtes bien bon, monsieur, mais je sais que je suis déshonoré, je ne mérite plus de tenir une paire de rênes dans mes mains.
+
+['il', 'elle', 'se', 'lui', 'on']	Orianof	— Oui, sois la plus jolie femme de toute la province, cela me fera plaisir, ajouta son mari. — On obéira, dit-elle. Ce jour-là et le lendemain, [MASK] déploya dans la conversation des facultés qu’on ne lui connaissait pas.
+
+[',', 'à', 'la', 'le', '...']	Souratine	Un paysan passait en ce moment et regardait avec curiosité ce beau monsieur arrêté sur la route. — On dira que vous m’avez assassiné, ajouta-t-il en riant. — Il y a moyen de tout arranger, répondit [MASK].
+
+['</s>', 'versailles', 'chacun', 'il', 'elle']	Orianof	; interminable aussi, mais un peu moins, l’heure qui suivit, pendant laquelle, en attendant le café et les friandises, la société se dispersa dans les serres et les jardins. [MASK] ne cessait d’être entouré ;
+
+['dit-il', 'celui-ci', ',', 'dit-elle', 'il']	Souratine	ou auriez-vous quelque chagrin ? dit [MASK] en enjambant la plate-bande pour se rapprocher de lui. Ses épaules se trouvaient au niveau de l’appui de la fenêtre ; sans l’obscurité qui croissait de minute en minute, il eût pu voir distinctement la figure du jeune homme.
+
+['marcel', 'napoléon', 'mrs', 'faiblement', 'bonaparte']	Souratine	Suivant le fil de l’eau, une barque attardée passa lentement ; le cri de salut : « Avec l’aide de Dieu ! » retentit deux fois, échangé entre ceux qui se reposaient à terre et ceux qui voyageaient encore. — C’est la patrie ! murmura [MASK].
+
+['le', 'la', 'mrs', 'm.', "l'"]	Orianof	j’en suis enchantée, vous savez écrémer le lait. Mais alors vous devez aussi savoir faire du beurre ? — À la russe, dans une bouteille, répondit gravement [MASK]. — Bravo ! mais vous êtes un homme précieux, on peut se servir de vous.
+
+['julien', 'maurice', 'robert', 'jacques', 'marguerite']	Souratine	— Est-ce décidément votre dernière soirée avec nous, Maxime ? lui dit [MASK] ; vous ne vous laisserez pas ébranler ? — Jugez vous-même, mon ami, s’il est possible que je reste plus longtemps sans aller voir ce qui se passe chez moi !
+
+['messieurs', 'monsieur', 'et', '...', 'non']	Tatiana	seigneur ! — Vous avez raison, [MASK], pensa-t-il ; je ne m’occupe pas assez de mes terres. Vous ne me ferez plus ce reproche. Il franchit le seuil de la maison paternelle, grave et triste, mais non pas désolé. Août finissait
+
+['moi', 'toi', '-', 'tu', 'elle']	Vevette	— Ma mère ? dit-elle. Tu y étais, [MASK] ? — J’étais à la maison, moi ; la pauvre dame, elle, était allée se promener toute seule sur la falaise, comme ça lui arrivait souvent ;
+
+['</s>', 'travail', '(', 'lit', 'mal']	Marcel	Elle revint bientôt à elle, grâce aux soins de [MASK]. — Ma fille ! ma fille ! s’écria-t-elle. Enfin, je puis te nommer ma fille ! Tu m’as pardonné ? — Oh ! mère !
+
+['il', ',', 'elle', 'qui', ')']	Orianof	Enfin [MASK] entra, l’air sérieux, et se dirigea rapidement vers elle. — Votre calèche est prête, madame, dit-il ; si vous voulez rentrer avant l’orage, il n’y a pas une minute à perdre.
+
+['il', 'elle', 'lui', 'se', 'et']	Maxime	Vous permettez ?… — Je crois bien ! Allez, cher ami, votre chambre vous attend. Il ouvrit avec précaution la porte qui conduisait chez sa femme ; involontairement, [MASK] tourna la tête de ce côté. Le lit était en face de lui ;
+
+['il', 'elle', 'celui-ci', 'julien', 'charles']	Souratine	Il se contenta d’une dénégation chaleureuse et garda le silence jusqu’à la maison. Depuis ce jour, [MASK] se préoccupa beaucoup moins de ce que faisait son hôte et l’abandonna sans remords à la société de sa femme, toutes les fois que sa présence était nécessaire ailleurs.
+
+['elle', 'henriette', 'marguerite', 'celle-ci', 'jeanne']	Tatiana	… disait une vieille tante célibataire qui portait perruque. — Oui, mais il en a beaucoup, de ces cheveux gris, répondait [MASK] avec cette raillerie sérieuse qui la rendait redoutable pour les gens obtus. Bref, elle épousa l’homme qu’elle avait choisi et fut parfaitement heureuse.
+
+['mort', 'femme', 'pierre', 'jeanne', 'moine']	Tatiana	la faible lueur d’une veilleuse placée devant les saintes images jetait un reflet jaunâtre sur les couvertures. La tête de [MASK] reposait sur l’oreiller, pâle et les yeux fermés ; au milieu de ses cheveux épars, on la distinguait à peine dans l’ombre.
+
+['il', ',', 'homme', 'et', 'lui']	Orianof	[MASK] ne répondit pas, mais il ressentit une émotion profonde. Par principe, toutefois, il prit un air indifférent. 3 LES CHEVAUX REPRIRENT LEUR course ; ils n’étaient guère qu’aux deux tiers de la route.
+
+['</s>', 'il', 'elle', 'je', 'chacun']	Marcel	« J’ai péché, mais vous qui me lisez, chère et chaste Cécile, trouvez-vous que je sois assez punie ? Eh bien ! ce châtiment n’était rien auprès de ce qui m’attendait. » [MASK] déposa le cahier sur la table et réfléchit longuement.
+
+['elle', 'madame', 'lui', 'moi', 'auguste']	Cécile	La chambre était propre, quoique bien pauvre. Quelques fleurs d’automne dans un vase, une serviette blanche sur la petite table, près du chevet, donnaient cet aspect riant, seul luxe de la pauvreté. Une veilleuse de porcelaine, apportée jadis par [MASK], éclairait faiblement le lit.
+
+[',', 'et', '...', 'le', 'les']	Marcel	Ce doit être étrange. — Veux-tu que nous allions le voir un jour qu’il fera beau ? dit [MASK]. — Oh non ! S’il venait une tempête comme celle d’aujourd’hui pendant que nous y serions ! — Eh bien ! ensemble, ce serait très agréable
+
+['embarquement', 'officiers', 'équipage', 'évacuation', 'escorte']	Orianof	Elle reconnut l’équipage d’[MASK] et agita son mouchoir blanc en signe de salut. La distance à parcourir était assez considérable entre eux à cause du pont, mais ils se trouvaient à portée de la voix. — Merci !
+
+['elle', 'georges', 'marguerite', 'henri', 'jean']	Orianof	il n’occupait pas encore un espace très considérable, mais l’azur prenait à son approche une teinte lugubre et terreuse. Le cocher se retourna, regarda le ciel et secoua la tête en murmurant : — Cela va mal. — Il vient droit sur nous, dit [MASK] ;
+
+['lui', 'elle', 'vous', 'toi', 'dieu']	Souratine	— C’est vrai, je l’avais presque prise en grippe, se disait-il, mécontent de lui-même, et j’ai été assez maladroit pour le lui laisser voir, lorsque la plus simple politesse m’obligeait à lui témoigner des dehors affectueux, sans parler de l’affection que je porte à [MASK].
+
+['</s>', '-', '"', 'il', 'elle']	Orianof	Son rire rompit le charme étrange et mystérieux de la forêt. [MASK] répondit avec plus d’aisance : — Un jour vous avez témoigné le regret de ne pouvoir étudier la médecine, à cause des usages qui l’interdisent aux femmes, et alors…
+
+[',', 'qui', 'et', 'un', 'il']	Souratine	[MASK], étonné, regarda sa femme ; elle fut une seconde sans lever les veux sur lui, puis son visage s’éclaircit, un charmant sourire entrouvrit ses lèvres et elle lui enleva son verre vide pour le remplir de thé.
+
+['que', 'lui', 'qui', 'lequel', 'laquelle']	Maxime	Pour [MASK], dès les premiers jours, il s’aperçut que toute hésitation, toute incertitude avait disparu de l’esprit de sa charmante hôtesse. Son caractère, toujours réfléchi, mais amolli précédemment par une certaine timidité juvénile, avait pris une fermeté décidée.
+
+[',', 'celui-ci', 'georges', 'rodin', 'paul']	Orianof	vous avez vu l’effet : la cause est prosaïque. — C’est la poésie de la prose au clair de lune, dit [MASK] au moment où la calèche passait, guidée avec précaution, sous une porte étroite. En fait de prose, vous n’avez pas élargi votre porte ;
+
+['</s>', '"', '-', ')', '...']	Vevette	— C’est pour la dame, un paquet, donnez-le-lui tout de suite. L’enfant retira brusquement sa tête, jeta un paquet dans la cuisine et referma la porte. [MASK], stupéfaite, ramassa le petit paquet recouvert de toile cirée, qui ne portait aucune suscription.
+
+['il', 'se', 'et', 'avait', 'qui']	Souratine	Depuis lors, pendant les nuits sombres, [MASK] faisait allumer un fanal à cet endroit. Il avait fait prier le propriétaire de la rive opposée d’en établir un autre vis-à-vis, pour mieux guider les mariniers ; le voisin, plus économe que charitable, avait répondu par un refus.
+
+['il', ',', 'elle', 'qui', 'homme']	Cécile	[MASK] ouvrit une porte et se dirigea vers une fenêtre d’où l’on voyait le fanal. La grande lueur fixe, blanche, monstrueuse et si singulièrement étouffée au sommet par les réflecteurs qui la renvoyaient à la mer, éclairait le raz, où les vagues faisaient rage.
+
+['lui', 'moi', 'elle', 'chacun', 'lui-même']	Orianof	— C’est de notre maréchal de noblesse, dit-il à sa femme ; tu vas voir que c’est une invitation. C’était en effet une invitation à dîner pour le surlendemain., Le messager qui l’avait apportée en avait une pour [MASK] ;
+
+['il', 'elle', 'jean', 'celui-ci', 'tristan']	Marcel	Au moment où il l’ouvrait, une rafale furieuse se précipita sur la côte, faisant craquer les arbres et gémir les toitures. La lampe s’était éteinte ; [MASK] referma la fenêtre, non sans difficulté, et courut à sa jeune femme qui était restée pétrifiée d’épouvante.
+
+['celui', 'celle', 'jean', 'jacques', 'henri']	Orianof	— Alors, presse tes chevaux, dit [MASK] qui s’assit de côté, de manière à ne pas perdre des yeux le nuage grandissant. La calèche vola sur la route. Le calme était de plus en plus profond, le silence plus solennel.
+
+['on', '</s>', 'chacun', 'il', 'ne']	Orianof	mais, au moral, c’était tout différent. [MASK] put s’en apercevoir dans leurs causeries, pendant les longs repos au bord des ruisseaux, lorsque la chaleur du jour les invitait à rester sous l’épais couvert des bois.
+
+['madame', 'dis-je', 'maintenant', 'seigneur', 'monsieur']	Tatiana	j’aimerai encore : celle que j’aimerai, je l’aimerai à la face de l’univers entier, et c’est à vous, [MASK], que je devrai mon bonheur, car vous avez fait de moi un homme nouveau… Puissiez-vous être aussi heureuse que vous êtes aimée !
+
+['il', 'qui', 'elle', 'personne', ',']	Orianof	[MASK] ne pouvait se lasser de la regarder. — Dieu soit avec vous et sa paix sur votre maison ! dit-elle ; je reviendrai demain. Un faible murmure lui répondit, et les malades s’assoupirent doucement, pendant qu’une fraîche haleine de vent agitait quelques brins de paille sous la porte mal jointe
+
+['</s>', '"', '...', 'elle', '--je']	Cécile	mourir par un beau soleil, avec ma fille près de moi… Embrasse-moi ! [MASK] serra longuement sa mère dans ses bras. Celle-ci ne paraissait pas souffrir, mais elle respirait de plus en plus lentement. Une inquiétude se peignit tout à coup sur son visage.
+
+['</s>', 'le', 'cheval', '"', '_']	Souratine	; en un clin d’œil il fut debout et ouvrit la fenêtre, qui laissa entrer un torrent d’air tiède et parfumé. [MASK], qui se promenait dans le parterre, leva la tête au bruit, et lui fit un signe amical.
+
+['il', 'elle', 'on', 'tout', 'pierre']	Marcel	Vers neuf heures, je vis un fanal s’élever près de notre maison ; il brûla une heure, puis s’éteignit. Était-ce pour moi qu’on l’avait allumé ou pour quelque barque en détresse ? » À cet endroit du récit, [MASK] s’arrêta.
+
+['jacques', 'paul', 'georges', 'jean', 'pierre']	Souratine	; il sauta à bas de son siège, releva dans sa ceinture sa grande robe de cocher et se mit en route après avoir dit : — Rien de plus ? — Rien de plus, répondit [MASK]. Allons, Maxime Ivanovitch.
+
+['</s>', '--il', '--je', '--', '...']	Orianof	? Quand on a un bon lit et un toit sur la tête, on n’a pas besoin de garde-malade.. Viendrez-vous voir après dîner ce qui se passe dans le palais que j’ai fait avec cette grange ? [MASK] ne demandait pas mieux.
+
+['et', 'puis', 'dit-il', 'enfin', 'alors']	Orianof	— Madame n’est pas arrivée ? demanda [MASK], comme s’il conservait un vague espoir. — Est-ce qu’elle voulait venir ? répondit le domestique étonné. Monsieur avait fait allumer des torches à tout hasard, mais il pensait que madame resterait là-bas pour la nuit.
+
+['marguerite', 'jeanne', 'robert', 'cela', 'celle-ci']	Vevette	C’est d’une écriture féminine… je vais t’en faire la lecture. — C’est une histoire, alors ? fit [MASK] avec dédain. — Oui, ma bonne. — Alors, je m’en retourne à la cuisine, dit la vieille servante.
+
+['il', 'elle', "c'", 'on', 'qui']	Tatiana	; [MASK] était en face de lui, sur l’autre. De temps en temps ils se regardaient, échangeaient un sourire et ne disaient rien. Il est si bon de vivre quand on est jeune, aimée, et qu’on a vu la mort de près !
+
+['cette', 'ce', ',', 'est', "d'"]	Cécile	— Ma fille ! ma fille ! s’écria-t-elle. Enfin, je puis te nommer ma fille ! Tu m’as pardonné ? — Oh ! mère ! fit [MASK] oppressée. Je vous aime. — Tu m’as pardonné, dis ? Et vous ?
+
+['jacques', 'celui-ci', 'robert', 'maurice', 'georges']	Souratine	Des rires joyeux et les sons d’un vieux piano fourbu, comme il ne s’en trouve qu’en province, sortaient de toutes les fenêtres ouvertes. — Il y a du monde ! s’écria [MASK] terrifié. — Battons en retraite ! dit sa femme qui riait aux larmes.
+
+[',', '.', 'à', ':', 'de']	Orianof	Elle frissonna imperceptiblement, puis son sourire reparut doux et tendre avec un mélange de soumission caressante. En ce moment, elle avait l’air d’un enfant qui demande grâce ; mais cette expression étrange et nouvelle disparut aussitôt. — Et vous avez passé une bonne nuit après tant de fatigue ? reprit [MASK]
+
+['"', 'demain', 'venir', 'paris', 'midi']	Cécile	La manière mystérieuse dont cet objet leur était parvenu lui inspirait une certaine méfiance. Il l’ouvrit avec précaution et tira d’une seconde enveloppe un manuscrit dont l’encre jaunie indiquait une date relativement ancienne. Il le retourna de tous côtés : la dernière feuille portait pour suscription ces mots : « À [MASK].
+
+['</s>', 'il', 'elle', 'et', '--il']	Souratine	Cinq minutes après, il apparut dans l’antichambre, fort honteux, et se retournant avec inquiétude toutes les fois qu’il entendait craquer le plancher. Pas un seul domestique ! Il avait l’air de plus en plus penaud. [MASK] entra, revenant du jardin.
+
+['elle', 'paul', 'julien', 'georges', 'alice']	Tatiana	il se redressa à demi, et, sans s’en rendre compte, il écouta de toute son âme. — Oui, disait [MASK], il a complètement changé ; la jactance des tout jeunes gens a disparu ; il est modeste, et son cœur est resté généreux.
+
+['maurice', 'raoul', 'rodolphe', 'jacques', 'georges']	Maxime	? lui dit enfin [MASK], avide d’entendre le son de sa voix. Il lui semblait ainsi continuer une conversation commencée. — Oui, répondit-elle. – Sa voix était moins assurée que son regard. – Deux fois j’ai cru que c’était fini.
+
+['le', 'john', 'jacques', 'jean', 'georges']	Orianof	— On n’a rien pour rien, répondit [MASK]. Va, mon brave, va te reposer après la journée finie. Il marcha longtemps le long du ruisseau creusé par son père, le long des peupliers que le vieillard avait plantés pour ombrager le chemin.
+
+['il', 'et', 'on', 'elle', 'qui']	Grégoire	; sa voix mâle exerçait une influence presque superstitieuse sur ces pauvres femmes, semblables à un troupeau de brebis effarées. Ils partirent, suivis des bénédictions de tout le village, À mi-chemin de la maison, [MASK] arrêta tout à coup ses chevaux devant son maître.
+
+['elle', 'alice', 'jean', 'jacques', 'robert']	Souratine	— Ah ! te voilà ? lui dit sa femme en le voyant s’approcher. Que tu es donc joli ! Mais que tu es joli ! Monte, monte, n’aie pas peur de me salir. — Tiens, c’est vrai, dit [MASK] ;
+
+['</s>', 'on', 'il', 'elle', 'chacun']	Souratine	dans cette maison, bêtes et gens se trouvaient bien, et le retour du maître faisait plaisir à tout le monde. [MASK] caressa le chien, qui s’en alla d’un air affairé s’assurer que nul malfaiteur n’avait profité de sa négligence momentanée pour approcher les clôtures de trop près.
+
+['il', 'on', 'lui', 'chacun', 'celui-ci']	Orianof	Le cri avait été si unanime, l’élan si vif, que, pris d’une émotion involontaire, [MASK] ôta son chapeau sans y penser… Quand il s’en aperçut, il resta un peu penaud, – et le garda à la main comme pour jouir de la fraîcheur.
+
+['tout', 'que', 'mais', 'le', 'non']	Orianof	— Il pourrait bien faire mauvais temps demain, vous ne partirez pas et ma femme éviterait la corvée qui l’attend : deux bonheurs à la fois ! — Je partirai quand même, répondit-il, je ne puis plus rester. — [MASK], n’êtes-vous pas malade
+
+['13', '20', '40', '10', '19']	Maxime	une rougeur subite colora le visage de la jeune femme et disparut en laissant une teinte rosée sur ses tempes et sur son cou. Elle entra dans le kiosque et s’assit en face de [MASK]. Sa respiration inégale indiquait la fatigue. Cette courte promenade l’avait lassée.
+
+['monsieur', 'personne', 'moi', 'madame', 'vous']	Orianof	Je ne fais jamais de compliments, [MASK], et cela me donne le droit de vous dire aujourd’hui ce que je pense de vous : le jeune homme que j’ai tant aimé tout enfant est devenu un homme, – un homme dans le vrai sens du mot.
+
+['elle', 'il', 'paul', 'catherine', 'robert']	Marcel	Elle n’osa achever sa pensée. — Il faut savoir la fin, dit [MASK] en reprenant le cahier. Voyons où tout cela va nous mener. « Il fallait vivre, continuait le manuscrit, et je ne savais rien de ce qui fait vivre.
+
+['il', '-il', 'alors', 'pascal', 'on']	Maxime	; des tas d’herbes sèches brûlaient au loin, laissant monter dans l’air paisible leur colonne de fumée bleuâtre ; quelques lumières brillaient aux vitres des cabanes où les journaliers prenaient leur repas du soir. — Voici l’automne, se disait [MASK], les froids vont venir
+
+['famille', 'dieu', "l'", 'famill', 'm']	Souratine	; il la chassait, elle revenait, et sa mélancolie grandissait toujours. Il se leva, fit quelques tours dans la chambre et vint se rasseoir près de la fenêtre ; ses idées avaient pris un autre cours. Il se rappela les premiers temps du mariage de [MASK]
+
+['il', 'elle', 'on', 'chacun', 'paul']	Orianof	; – [MASK] sentit la rougeur lui monter au visage ; – c’est très malsain dans notre climat : un médecin devrait savoir cela. — Aussi, répondit le jeune homme, je l’interdis à mes patients. — Très bien !
+
+['</s>', '-', 'elle', 'il', 'jeanne']	Cécile	De grands oiseaux de mer tournoyaient au-dessus de la lanterne, attirés par la clarté, et parfois frappaient la lanterne de leurs vastes ailes noires, avec des cris de douleur. [MASK] détourna son visage et le cacha sur l’épaule de son mari. — J’ai peur !
+
+['vite', 'toi', 'moi', ',', 'vent']	Grégoire	; aller vite contre le vent, c’est un des plaisirs de l’existence… Plus vite, [MASK], dit-elle au cocher, rends la main à tes chevaux. — Ce sont de vilaines bêtes, madame, répondit-il en secouant la tête.
+
+['</s>', 'elle', 'il', 'le', 'puis']	Orianof	Je n’ai jamais eu le courage de traverser de force un troupeau qui rentrait au bercail ; le bien-être des animaux est respectable tout comme celui des hommes. [MASK] fit un signe d’acquiescement et reprit au bout d’un instant :
+
+['il', 'personne', 'elle', 'on', 'nul']	Maxime	; les deux amis échangèrent un regard. En ce moment, [MASK] ne se souvenait plus que cet homme était le mari de celle qu’il aimait ; leurs cœurs étroitement liés pendant tant d’années s’unirent cette fois dans un commun élan de joie ;
+
+['mrs', 'il', 'dr', '"', 'm']	Souratine	— L’intendant ? À prendre ce qui reste quand les paysans ont fait leur part. — Le fait est qu’on a bien nettoyé votre forêt, reprit [MASK]. J’ai passé par là aux premiers jours du printemps ; vous n’aurez pas besoin d’éclaircir vos taillis avant une vingtaine d’années.
+
+['valentine', 'mademoiselle', 'marguerite', 'catherine', 'jacques']	Maxime	— Vous avez l’air d’un homme qui va se noyer, dit-il à son hôte effaré ; que cherchez-vous si piteusement ? — Ma valise ! s’écria [MASK]. Regardez comme je suis fait ! La poussière du voyage, jointe à la rosée du soir, avait en réalité fort maltraité son costume.
+
+[',', 'jacques', 'georges', 'paul', 'julien']	Marcel	Je crois que ce sont les mêmes pierres qui ont servi. — Cela ne fait rien, dit joyeusement [MASK] en s’asseyant devant le souper fumant ; vieille ou neuve, notre maison n’est hantée que par de joyeux souvenirs, et c’est tout ce qu’il faut.
+
+['il', 'qui', '</s>', 'elle', 'tout']	Maxime	— Je ne la vois plus, monsieur, répondit le cocher d’une voix pleine de terreur. Éperdu, [MASK] se jeta en avant et regarda de tous ses yeux dans l’ombre, attendant une nouvelle lueur pour distinguer les objets ;
+
+['monsieur', 'seigneur', 'madame', 'messieurs', 'dit-il']	Cécile	« Je vous écris tout cela, [MASK], pour que vous sachiez bien jusqu’à quel point un homme peut être fourbe et une femme peut être folle. Que cette cruelle leçon serve d’exemple à celles qui n’ont pas encore failli ! « Il voulait me quitter.
+
+['droite', 'fond', 'gauche', 'cassette', 'la']	Orianof	; au bout d’un moment elle revint vêtue d’une robe de toile grise très simple, presque pauvre, avec une cassette de médicaments qu’elle remit à [MASK]. — Entrez en fonctions, monsieur le droguiste, lui dit-elle…
+
+['et', ':', 'de', ',', 'er']	Maxime	Il avait peur qu’elle n’entendît les battements désordonnés de son cœur dans sa poitrine ; deux ou trois minutes, trois éternités, s’écoulèrent ainsi. Un grand bruit se fit sur la place du village ; avec un soupir de soulagement, [MASK] leva le côté du store
+
+['</s>', 'il', '-', '--il', '_']	Grégoire	va, et ne bois plus de bière chez personne. [MASK] ouvrit la bouche pour parler, puis la referma ; il essuya ses yeux du revers de sa manche, s’inclina jusqu’à terre encore une fois et sortit, le cœur plein d’une indicible reconnaissance ;
+
+['se', ')', 'qui', ',', 'il']	MAXIME	19 [MASK] ROULAIT À TRAVERS champs. Après le premier choc, sa douleur semblait s’être pétrifiée ; il ne la sentait presque pas, bien que tout son être fût en proie à une tension pénible. Les prairies étaient d’un vert splendide ;
+
+['on', 'il', 'elle', 'dieu', 'marie']	Orianof	— Qu’on ne rentre pas ici avant le soir, dit-elle, et maintenant allons voir vos hommes. Pendant ce temps, [MASK] avait surveillé l’installation des malades, chacun dans un coin commode, sur une épaisse couche de foin moelleux.
+

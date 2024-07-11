@@ -1,0 +1,200 @@
+['être', 'état', 'État', 'homme', 'écrire']	Henriette	Quand il reçut le billet qu’elle lui envoyait une épouvantable nouvelle s’empara de lui ; en lisant toute la partie de cette lettre écrite dans la nuit, il avait frémi de voir la raison d’[MASK] égarée, perdue.
+
+['elle', 'et', 'il', 'Elle', 'Il']	Henriette	les inquiétudes que ma maladie donna à ma mère achevèrent de détruire sa santé ; et malgré ce que mon père appelle ses soins, elle mourut. [MASK] avait prononcé ces dernières paroles avec un sarcasme singulier et rare dans sa bouche.
+
+[',', "qu'", 'non', 'dit', 'tout']	Charles	Mon présent est avec celui du général, mais un présent qui ne vient que de moi. — Bien beau, n’est-ce pas ? dit [MASK] avec dédain, qu’il me faudra montrer à tout le monde, et que tout le monde admirera, excepté moi ?
+
+['celui', 'celui-ci', 'Jean', 'Pierre', 'monsieur']	Charles	— Je vous avais dit que vous ne travailleriez plus ici. — C’est possible, mais je ne l’ai pas cru. — Allons, dit [MASK] qui s’était décidé à être maître de lui, assez d’insolence et sortez.
+
+['il', 'elle', "c'", 'ce', 'se']	Charles	puis elle y songea moins, et enfin elle crut s’être trompée. Elle chercha une explication à ce mystère dans la préoccupation de sa pensée ; et, au bout de quinze jours, [MASK] était le dernier homme qui lui parût devoir la troubler.
+
+['elle', 'moi', 'celle', 'elle-même', 'celle-ci']	Henriette	Ce fut [MASK] qui chercha la première à fuir l’obsession de ses idées. Il y a bien longtemps que j’ai lu ou entendu ce mot : L’homme n’oublie pas, il remplace. Cette distinction, qui ne paraît que subtile, est exactement vraie.
+
+['elle', 'lui', 'vous', 'moi', 'eux']	Louise	Allons ! ça te fâche, n’en parlons plus. Eh bien ! madame la duchesse, d’Aspert, qui ne comprenait rien au magnétisme, me fit voir des soupçons outrageants pour [MASK] et plus encore pour moi, il les laissa percer et on en parla.
+
+["j'", 'on', "m'", 'il', 'tu']	Bazil	Quoi qu’il en soit, voilà ce qui arriva, ce que j’ai appris, ce qui me désespère ; car maintenant, quel est l’enfant désolé et pleurant que [MASK] a trouvé sur la pierre de la porte de ma maison ?
+
+['monsieur', 'madame', 'dit-il', 'sire', 'Monsieur']	Henriette	Des deux côtés il y a crime et malheur. — Vous le voyez, [MASK] ; moi aussi, j’ai besoin d’un cœur qui me plaigne, qui me console, et surtout qui me seconde dans ce qui me reste à faire pour réparer le mal que j’ai fait.
+
+['tous', 'ce', 'le', 'la', 'se']	Dumont	mais, monsieur, j’ai l’ordre de ne laisser sortir personne de celte maison jusqu’à l’arrestation de [MASK] ; il ne faut pas qu’on puisse le prévenir du mandat, qui le concerne, et lui fournir ainsi le moyen d’y échapper,
+
+['on', 'il', ',', 'se', 'elle']	Henriette	Elle dormait depuis une demi-heure, lorsque les aboiements terribles des chiens de garde l’éveillent en sursaut. Pour cette fois, elle ne se trompe pas : le cheval piétine à la porte de la maison. [MASK] se lève, rouvre sa fenêtre et demande timidement qui est là ;
+
+['santé', 'fait', 'choses', 'chose', 'conscience']	Charles	L’éclaircissement qu’il avait tant désiré sur l’état de [MASK] lui en paraissait un qui devait avoir un résultat désagréable, et il faisait semblant de n’y plus penser, c’est-à-dire il en écartait la pensée quand elle lui venait.
+
+['le', 'de', ',', 'à', 'pour']	Honorine	fanatique à ce sujet, au point que, si quelqu’un avait pu lui voir donner à [MASK] la leçon que nous venons de dire, il aurait pu penser qu’il trompait sincèrement, pour le triomphe d’une chose qu’il croyait excellente ;
+
+['or', 'oreille', 'Alice', 'Octave', 'ouverte']	Honorine	Il se plaça derrière elle, et au moment où, armé d’une plume, il en approchait l’extrémité de la bouche d’[MASK], il tira furtivement un pistolet de sa poche et le fit partir aux oreilles de la somnambule.
+
+['un', 'ailleurs', 'une', 'étendue', 'endroit']	Henriette	Je t’écouterais mal ; je ne te comprendrais pas. Laisse-moi te regarder... laisse-moi te voir longtemps... toujours ! Il avait alors croisé ses bras sur les genoux d’[MASK], sa poitrine s’y appuyait aussi ;
+
+['elle', 'il', 'on', 'Elle', 'et']	Henriette	Il ne s’aperçut pas qu’on entrait. [MASK] s’approcha de lui et le considéra. Tous les signes de la mort étaient sur ce visage ; l’œil n’avait plus d’âme, les traits arrêtés n’attestaient plus même la souffrance active du corps.
+
+['elle', 'alors', ',', 'il', '"']	Charles	moi ! dit-elle en levant au ciel ses yeux baignés do larmes ; oh ! moi ! je ne t’aime pas, n’est-ce pas ? — Que sais-je ? dit [MASK] avec colère et désespoir. — Il ne le sait pas, mon Dieu !
+
+[',', 'elle', 'et', 'Elle', 'ELLE']	Henriette	Pendant ce temps, ils étaient entrés dans le salon. [MASK] s’était assise dans un de ces larges fauteuils que je vous ai dépeints. Oui, c’est là qu’elle était, svelte et souple, dessinée par sa robe blanche sur ce fond sombre de velours ;
+
+['que', 'il', 'cela', 'ainsi', 'de']	Henriette	— Oui, madame, du malheur pour moi d’être obligé de quitter plus tard le soin des affaires du général, que peut-être il faudra cependant que je quitte demain, si vous ne me venez en aide. — Comment cela ? dit [MASK].
+
+['il', 'on', 'personne', 'ne', 'enfant']	Charles	Cet ami avait un fils du même âge que le nôtre, et personne ne s’étonnera qu’il me l’ait confié. Du reste, [MASK] ne saura rien de ce qui le concerne qu’a l’âge où il pourra se protéger lui-même contre les embûches qu’on peut lui tendre.
+
+['elle', 'celle-ci', 'qui', 'et', 'Elle']	Henriette	A toutes ces pensées qui allaient, venaient, fuyaient et revenaient dans sa tête, [MASK] était devenue froide ; puis, lorsqu’elle atteignit ce doute d’une âme vendue à l’enfer, elle s’épouvanta tellement qu’elle poussa un cri ; ce cri la fit revenir à la réalité.
+
+['Il', 'Elle', 'il', 'elle', 'On']	Henriette	ou oserait-elle le lui dire ? Ne sortirait-il pas de cet entretien avec l’opinion d’un rendez-vous demandé et obtenu, comme il arrive dans toutes les intrigues ? [MASK] avait le cœur trop jeune pour avoir pensé que ne pas se donner lui serait une excuse.
+
+['celle-là', 'cela', 'celle-ci', 'ceci', 'laquelle']	Charenton	Mais il y a forge et forge : celle dont je vous dois la description ne ressemblait point du tout à celle-là. — Pourquoi donc décrire la forge de [MASK] ? — Pour m’amuser. — Mais cela ne nous amuse pas. — Qu’est-ce que ça me fait ?
+
+['lui-même', 'lui', 'succès', 'celui-ci', 'nous']	Henriette	celui-ci la lui dit sincèrement, mais sans parler de la nécessite urgente de rétablir l’ordre, d’une manière aussi formelle qu’il l’avait fait avec [MASK] ; sans, parler au général de l’état déplorable de ses affaires, et surtout sans rappeler l’épithète de bâtard.
+
+[',', 'le', 'on', 'et', '"']	Lussay	Puis, quand elle fut assurée que c’était lui, elle crut y trouver une prédestination fatale, et elle considéra ce moment comme celui où allait éclater le dénouement de sa situation. [MASK] lui fit un léger signe et lui dit à voix basse :
+
+['il', 'on', 'Dieu', 'elle', 'celui-ci']	Charles	Quant à ce qu’il lui dirait le soir, elle écouterait sa justification, parce que c’était pour cela qu’elle l’aurait reçu ; mais il y avait longtemps que celle justification était complète, dans son cœur : toutes les raisons que [MASK] pourrait lui fournir, elle les avait déjà épuisées.
+
+['tout', ',', 'le', 'on', 'je']	Lussay	— Parce que, dit [MASK], je m’étais imposé de ne jamais rien trahir des secrets que je pourrais découvrir par ma puissance : notre mission ici-bas est un sacerdoce qui ne demande pas moins de secret et d’intégrité que celle d’un prêtre qui entend la confession d’un pénitent
+
+['elles', 'les', 'ses', 'de', 'leur']	Charles	[MASK], un jugement naïf et fort de ce qu’elles auraient dû être ; il y avait dans elle une appréciation charmante et exquise du monde, des livres, des sentiments ; dans lui, un blâme ou un éloge brûlant, mais hors des règles tracées.
+
+['de', "l'", 'le', 'se', 'il']	Charles	que dans ces circonstances, la seule assurance que [MASK] était son fils le désignerait trop aisément à des gens qui pourraient vouloir l’enlever pour lui faire jouer son premier rôle ou le faire disparaître tout à fait. Il consentit et dit : — Je vous donne ma parole,
+
+["l'", 'le', 'son', 'la', 'lettre']	Dubois	tu diras cela à mon père, s’il me fait demander ou s’il veut m’amener mon oncle. — Oui, madame. — S’il arrivait un courrier, fais sonner un retour par [MASK], sans lui dire pourquoi ; je saurai ce que cela signifie.
+
+['votre', 'le', "l'", 'ce', 'la']	Henriette	C’était un parti pris de continuer le désordre qui règne ici et alors, madame, je suppose que cet homme eût désobéi aux ordres du général comme aux miens, qu’eût fait votre mari ? — Il eût appelé, sans doute, les autorités du pays, dit [MASK].
+
+['chacun', 'hommes', 'tous', 'esprit', 'être']	Henriette	Aussi ne faisait-il qu’accroître l’exaltation d’[MASK] par la résistance et la discussion ; et presque toutes se terminaient par ce mot : — Ah ! si j’étais homme ! Un autre aussi souffrait comme elle, un autre était dans celte même position de désespoir, et il était homme.
+
+['re', 'non', 'Non', ',', 'et']	Henriette	Et il s’élança hors du salon. Bientôt il redescendit. — [MASK], lui dit-il, rentre chez toi ; je lui ai dit que tu m’avais parlé de ma naissance, que je m’étais emporté, que je t’avais répondu avec colère et presque offensée ;
+
+['Il', 'Mon', 'Elle', 'il', "J'"]	Lussay	N’ai-je pas levé le mot inceste sur sa tète ?... ne veut-il pas le faire tomber sur la mienne ? Mon père... Hier il m’a regardée longtemps de ses yeux ardents... Il a laissé échapper des mots où il parlait de vengeance... Si mon père... [MASK] entra.
+
+['le', 'de', 'se', 'à', ',']	Charles	Elle prit une soudaine résolution, elle mit toute sa vie sur un mot. [MASK] était irrité : elle le voyait, elle le sentait ; car c’était sa colère implacable et concentrée, c’était ce visage quand il avait voulu tuer le malheureux Aubert ;
+
+['se', ',', 'de', 'ora', 'la']	Henriette	madame. [MASK] fut humiliée ; sa conduite lui parut pour la première fois manquer de cette dignité qu’elle avait voulu garder à son malheur ; elle comprit qu’elle n’avait plus l’air que d’une femme piquée. Elle se ressouvint de sa parole ;
+
+['S', 'DE', 'NE', 'SE', 'SES']	Honorine	— Et puis, madame, il y a autre chose, c’est qu’il ne pense qu’à ça. — A quoi ? — On dit, madame, on dit que c’est un enragé après les femmes. A ce singulier propos, la duchesse regarda [MASK] ;
+
+['moi', 'vous', 'lui', 'toi', 'mains']	Louise	eh bien ! il va me suffire de dire tout haut que cette heure sonne, pour que le pouvoir que j’ai sur [MASK] se manifeste à l’instant. Aussitôt il ajouta en élevant la voix et d’un air tout indifférent : Comment ! il est déjà huit heures ?
+
+[',', 'de', 'le', 'à', '(']	Jean	mais cette nouvelle qualité, qui un moment avant eût passé inaperçue, se révéla à point pour intéresser la duchesse et lui faire considérer [MASK] comme un garçon à part. Elle se tut un moment, puis elle ajouta comme avec regret :
+
+['elle', 'et', 'Elle', 'il', 'on']	Honorine	— N’importe, dit la duchesse avec impatience, allez me chercher du vin. [MASK] sortit. — Ce n’est pas pour vous ni pour moi, ajouta tout de suite la duchesse ; mais cette fille est insupportable ; elle a bonne intention, mais elle est d’une indiscrétion !
+
+['...', '-', 'Bonjour', 'Bien', '....']	Henriette	Elle allait peut-être se livrer à une plus minutieuse recherche de ses souvenirs, lorsqu’on l’appela de nouveau. Elle descendit, bien persuadée qu’un rêve affreux l’avait poursuivie. En entrant dans la salle à manger, son mari lui cria :… — [MASK] !
+
+['la', 'son', 'sa', 'cette', "l'"]	Prémitz	La duchesse, tout étourdie de l’arrivée de [MASK], qui ne lui avait d’abord laissé aucune présence d’esprit pour discuter sa position, la duchesse se sentit le besoin de se remettre, et après un moment de silence, elle lui dit : — Eh bien !
+
+['elle', 'il', "c'", 'on', 'ce']	Charles	elle espéra triompher par une force ordinairement étrangère aux hommes du monde, et peut-être eût-elle obtenu l’avantage si elle eût rencontré un caractère moins décidé et un bras moins vigoureux. Et véritablement, que serait-il arrivé si [MASK] eût été un homme d’une force ordinaire ?
+
+['Monsieur', 'Madame', 'Mademoiselle', 'Je', '-']	Lussay	Celui-ci, en le voyant entrer, se leva, et, allant à sa rencontre, il lui dit d’un ton solennel : — [MASK], sur mon honneur, votre fille est innocente : êtes-vous aussi assuré de n’être pas coupable ?
+
+['le', "l'", 'la', 'les', 'un']	Prémitz	dit le général avec colère. — Mais, reprit [MASK], des soldats républicains français ; et, sans un ancien domestique de sa maison qui la tira de leurs griffes pour quelque argent, elle aurait probablement été tuée comme son père et cet enfant.
+
+['celui-ci', 'Robert', 'Pierre', 'lui-même', 'nouveau']	Honorine	Aussitôt elle se leva violemment ; et, prenant un parasol, elle s’apprêta à sortir en disant à [MASK] : — Je suis malade pour toute la journée ; je ne puis sortir de ma chambre ni recevoir personne, entends-tu ?
+
+[',', '...', 'le', 'h', 'Ath']	Henriette	Il faut y aller, [MASK], toi à qui il a dit cette folie, monte chez lui, parle-lui. C’est une faiblesse indigne : un homme de trente ans ! Mais moi, mon Dieu ! qui souffre les douleurs d’un damné !...
+
+["l'", ',', ':', "qu'", '-']	Charles	il se prit à crier : — A l’assassin ! à l’assassin ! d’une voix si déchirante, qu’elle domina le bruit du marteau et que les ouvriers s’en émurent. — Eh bien ! lui dit [MASK] en le soulevant de terre, demanderas-tu grâce ?
+
+['général', 'celui-ci', 'colonel', 'Général', 'major']	Jean	Tout autre qu’une femme eût tremblé jusqu’à la racine des cheveux à l’expression terrible qui agita en ce moment le visage de [MASK] ; mais elle supporta insolemment les regards du général, et ne baissa pas les yeux devant l’éclair de rage qui s’en échappa.
+
+['elle', 'une', 'elles', 'eux', 'un']	Henriette	il se passait un combat violent en lui-même. Enfin, il sembla se décider ; il s’assit près d’[MASK], et, du ton d’un homme qui va commencer un long récit, il lui dit : — Écoutez-moi, madame, écoutez-moi patiemment.
+
+['AR', 'OL', 'HOU', 'AU', 'ham']	Aspert	— Vous n’en avez plus besoin, dit d’[MASK]. J’ignore les secrets de votre prétendue science, mais je sais qu’il y a dans l’accent de l’homme une puissance inimitable qui atteste la vérité plus haut que les paroles ;
+
+['il', 'on', 'un', 'à', 'elle']	Henriette	C’est qu’[MASK] ne pensait pas un mot de tout cela ; c’est que rien de tout cela n’était dans son cœur, si ce n’est comme la fleur large et éblouissante est dans sa graine imperceptible ;
+
+['lui-même', 'ne', 'personne', 'il', 'celui-ci']	Charles	puis, que [MASK] s’y était mêlé, et enfin que, n’ayant pas d’autres moyens de se venger de lui, il l’avait dénoncé, ainsi que tous ses complices. — Et depuis quand cette dénonciation est-elle faite ? — Mais, depuis trois semaines au moins.
+
+['il', 'on', 'en', 'et', 'je']	Henriette	Mais, voyez-vous, ne parlons plus de cela ; quand j’y pense, j’en deviens fou... Me dire : Je suis innocente... me dire la tête haute : Je suis pure... me dire... A ce moment un cri d’enfant se fit entendre, [MASK] se leva ;
+
+['général', 'celui-ci', 'Napoléon', 'celle-ci', 'Paris']	Charles	Cependant ce n’était rien qui, en apparence, dût exciter le souvenir d’une femme jeune et belle. Le délai pour la réponse de [MASK] était expiré le jour même, et le général avait annoncé avec humeur qu’il en finirait le lendemain avec le régisseur.
+
+['Monsieur', 'Madame', 'Non', 'Messieurs', 'Mademoiselle']	Charles	Elle crut avoir tout prévu, et, au milieu de la soirée, elle lui dit devant son mari, qui était assez bien pour être descendu : — [MASK], je vous prie de ne pas sortir ce soir sans me parler ; j’ai à vous entretenir.
+
+['elle', 'et', 'puis', 'Elle', 'il']	Charles	Elle ne pouvait plus lui venir en aide, elle se repentit presque de ce qu’elle avait dit ; puis elle douta qu’il l’eût comprise. Bientôt elle eut la preuve qu’ils étaient déjà compromis. [MASK] se remit, et répondit suffisamment bien aux compliments qu’on lui faisait.
+
+['cœur', 'coeur', 'lui-même', 'plaisir', 'elle-même']	Bizot	Elle poussa un cri de surprise et de joie. Cela lui venait de [MASK] ! C’est qu’il y a des femmes qui inspirent du cœur et du goût à tout ce qui les entoure. On voulut voir, on accourut ; mais elle serra son médaillon et refusa de le montrer.
+
+['une', 'un', 'assises', 'ici', 'où']	Aspert	pour cette insupportable obstination à ne pas dire : Je suis coupable... mon père, pardonnez-moi... El puisque vous êtes là, voyez-vous, d’[MASK], je puis le dire... je puis l’avouer... je lui aurais pardonné... j’aurais pleuré avec elle...
+
+['très', '...', 'on', ',', 'si']	Henriette	— Je vous demande grâce, monsieur, dit [MASK] tristement ; je ne vous ai point fait de mal, je ne l’ai point voulu, du moins : si, dans l’irritation d’un amour qui s’est cru trahi, je vous ai traité quelquefois cruellement, pardonnez-le-moi...
+
+['ons', 'aimons', 'sons', 'amour', 'tons']	Charles	[MASK]... oui, je t’aime... je t’aime... Allons, écoute-moi, causons. Causons ! Oh ! que l’abbé d’Olivet aurait bien voulu savoir cet entretien, pour faire son Dictionnaire des synonymes , où il s’évertue à marquer la nuance de chaque mot !
+
+["l'", 'le', 'alors', 'il', 'un']	Henriette	dit-elle. Qui êtes-vous ? que vouliez-vous ? L’inconnu ne répondit pas encore cette fois ; il réfléchît et reprit : — Mais peut-être me trompé-je. Est-ce bien ici la demeure du général d’Aspert ? — C’est ici, dit [MASK].
+
+['Il', 'Elle', 'il', 'Charles', 'On']	Aubert	— C’est, dit-il en reprenant un ton froid, un ouvrier insolent que je corrige. On murmura. [MASK] voulut s’éloigner, Charles l’arrêta. — Pas encore, tout n’est pas fini entre nous.
+
+['tout', 'non', 'je', 'oui', 'alors']	Charles	non... plus tard... dans quelques jours, quand vous serez rétabli. — Vous me le promettez ? — Je vous le promets. — Et jusque-là, dit [MASK], ne me direz-vous rien ? — Qu’ai-je à vous dire ?
+
+['il', 'on', 'elle', 'le', '-il']	Charles	Puis, que fait [MASK] ? que devient-il ? il s’absente. Quelle étrange situation que la nôtre ! Pas un mot d’explication entre nous. Cela se conçoit-il ? Hélas ! cela se pouvait-il autrement ? Comment nous parler ? que nous dire ?
+
+['lui', 'son', 'la', 'ses', 'sa']	Charles	Celui-ci, tenu par [MASK], et qui avait senti le cœur près de lui faillir un instant avant, répondit d’un air brutal : — On peut être fâché, quand on se voit ôter son pain. — Dites quand on ne le gagne pas.
+
+['on', 'elle', "l'", "qu'", 'On']	Julie	Elle avait obtenu, disait-on, une nomination à la Chambre des pairs pour le gendre qu’elle choisirait, avec le droit de faire passer son nom et titre. [MASK] accompagnait sa mère, et l’on parlait beaucoup de la brillante réunion des prétendants qui devait avoir lieu au château.
+
+['il', 'on', 'elle', 'autrefois', 'Antoine']	Henriette	Il n’était pas conteur, mais quand une histoire l’avait ému, il faisait pleurer en la répétant. Toutes ces bonnes façons, qui le premier jour avaient déparé l’espèce de vampire qu’[MASK] s’était créé, devinrent autant de grâces pour l’homme de salon.
+
+['le', "l'", 'la', 'M.', 'son']	Henriette	— Oh ! si c’est une question d’amour-propre, je n’ai plus rien à dire, reprit sèchement [MASK]. — Non, madame, c’est une question de prospérité ou de ruine pour vous ; pardon, je veux dire pour le général.
+
+[':', 'le', '-', 'M.', 'celui-ci']	Henriette	— Alors, dit le général, il faut qu’il y ait un crime. — Ah ! s’écria [MASK], merci, mon Dieu, merci ! vous l’avez pensé, vous qui n’êtes pas mon père, vous avez pensé qu’il y avait un crime...
+
+['devant', 'lait', 'Simon', 'Clémence', 'Robert']	Charles	Lâcheté ! lâcheté ! voulaient dire ce geste et cette exclamation. Les dents de [MASK] claquaient, ses yeux étaient égarés, sa poitrine haletait à se briser ; on voyait bondir son cœur à travers. Il fut obligé de poser sa main sur le lit pour s’appuyer.
+
+[',', '...', ':', ';', 'et']	Henriette	Qui est là ? que cherchez-vous ? L’étranger, au lieu de répondre à la question qu’on lui faisait, dit tout haut, mais avec une expression d’étonnement : — C’est une femme ! — Oui ! dit rapidement [MASK] que cette réflexion effraie ;
+
+['général', 'colonel', 'Napoléon', 'roi', 'comte']	Aubert	Tout à coup les traits du général se décomposèrent, ses joues devinrent presque pendantes, et, d’une voix serrée à la gorge, il dit à [MASK] : — Tu l’as appelé bâtard !... Et il se leva de son fauteuil.
+
+['le', 'celui', "l'", 'M.', 'celui-ci']	Prémitz	elle viendra avec sa fille, dites-vous ? et son fils, ne viendra-t-il pas ? — Quel fils ? dit [MASK] qui, depuis quelques mois qu’il avait rencontré la duchesse, n’avait jamais entendu parler d’un lits.
+
+[',', 'à', 'de', 'encore', 'tout']	Charles	Je l’adore et pour jamais. Les réflexions qui avaient survécu à la conversation cessée, le charme de la mélodie, peut-être aussi le sens de ces quatre premiers vers, plongèrent [MASK] dans une méditation distraite de ce qui l’entourait, mais non de ce qu’il entendait ;
+
+['il', 'Il', 'elle', 'et', 'Elle']	Charles	mais elle y retomba aussitôt en se tordant convulsivement et en s’écriant : — O mon Dieu ! mon Dieu ! mon Dieu ! que je suis malheureuse ! [MASK] s’était retourné en la voyant en cet état ; il courut à elle.
+
+['était', "c'", 'la', 'et', 'avait']	Charles	Elle s’était beaucoup étendue sur toutes les manières de faire une déclaration à une femme. [MASK], à son penser, n’avait plus que le choix après une si complète leçon. Le moment de la musique, arriva.
+
+['elle', 'il', 'Elle', 'et', 'mais']	Henriette	mais il ne donna pas occasion à cette prière, et se tint éloigné d’elle. Il avait la confiance qu’après ce qu’il avait obtenu, il ne risquait que de voir diminuer son bonheur ; [MASK] ne pourrait aller plus loin, mais elle pouvait revenir sur ses pas.
+
+['il', 'elle', 'lui', 'on', 'inconnu']	Lussay	D’un autre côté, [MASK] disait à l’inconnu : — Comme se fait-il que vous, qui êtes un homme en qui les idées nouvelles ont toujours trouvé un ardent prosélyte, comment se fait-il que vous mettiez tant d’obstination à nier les phénomènes du magnétisme ?
+
+['Annette', 'Emilie', 'Isabelle', 'elle', 'Ève']	Henriette	Le vent éparpillait ses cheveux et chassait sur la surface du lac des feuilles qui traversaient l’air comme des êtres animés. Peu à peu la pensée d’[MASK] s’était absorbée dans la contemplation ; elle regardait les nuages et écoutait les plaintes du vent.
+
+[',', 'de', 'à', 'la', 'le']	Honorine	Si [MASK] n’était pas entrée, peut-être le beau meunier, fasciné par ce regard qui le dévorait tout à l’heure, eût dit un mot auquel se serait éveillé tout l’orgueil de la duchesse ; elle l’eût chassé et il n’en eût plus été question ;
+
+['on', 'tout', ',', "qu'", 'elle']	Prémitz	Demain vous donnez une séance de magnétisme dont on parle comme d’une chose qui sera miraculeuse ; il faut que j’y assiste, car cela m’intéresse plus vivement que vous ne pensez. — Madame s’occupe du magnétisme ? dit [MASK] en la regardant sérieusement.
+
+['fas', ',', 'qui', 'on', 'or']	Lussay	[MASK] tisonnait en souriant, en s’adressant à la flamme, comme un homme qui se voit disserter devant le public, qui pérore, démontre, entraîne, finit par convaincre et s’applaudit de sa victoire et du talent qu’il lui a fallu pour la remporter.
+
+['Monsieur', 'général', 'dit-il', 'monsieur', 'oui']	Lussay	Il fait appeler le chirurgien, et pendant que celui-ci coupe la manche de son habit et rapproche, sous des bandes de diachylon, les lèvres sanglantes de sa blessure, le général lui dit : — Eh bien ! [MASK], vous avez raison, c’est elle.
+
+['celle', 'Marie', 'Jeanne', 'elle', 'Andrée']	Henriette	mais on vous a envoyée, et vous êtes venue. — Non, dit [MASK] dont les larmes gagnaient la voix, non, on ne m’a pas envoyée ; non, je suis venue pour vous voir, pour vous prier... — Me prier ? moi ?
+
+['la', 'le', 'elle', 'tout', 'il']	Prémitz	elle n’a souvenir de rien ? — Dans son état accoutumé, sans doute, dit [MASK] en appuyant sur chacune de es paroles ; mais lorsqu’elle arrivée à ce degré de somnambulisme lucide, tout lui revient, intelligence et mémoire? — Mémoire ! dit la duchesse.
+
+['la', ',', "l'", 'elle', 'de']	Henriette	— Je ne sais pas, répondit-i l ; mais je ne veux pas que tu meures. — Eh bien ! dit [MASK] qui trembla d’épouvante, et devant qui se déroula une si fatale série de crimes, qu’elle en frémit encore plus que du crime accompli...
+
+['le', 'la', 'un', 'de', 'les']	Ramel	On ne tuait que [MASK] à Toulouse, mais on le tuait trois jours durant, poignardé sur tous les membres ; on licenciait cette armée, cette grande ruine de dix ans de victoire et de trois ans de défaite, et il n’en parlait pas un murmure.
+
+['te', 'tu', 'ta', 'je', 'de']	Henriette	tu pleures ! Grâce ! oh ! grâce ! Que veux-tir de moi ? ma vie... mon honneur... un crime ? parle, je te donnerai tout... Si j’avais un monde à te sacrifier, je le briserais à tes pieds. [MASK] !
+
+['il', 'elle', ',', ';', 'qui']	Charles	[MASK] ne vit que le geste froid, et n’entendit que le mot tout seul ; ce fut son tour de souffrir. Cependant, quoiqu’il semblât que ce mot les désunît, à partir de ce moment, ils n’eurent plus qu’une même vie.
+
+['je', 'Je', 'il', 'Il', 'vous']	Charles	— Oh ! dit [MASK] redevenu tout à coup calme et triste, ne me demandez pas pourquoi ; car, si vous l’exigiez, je vous le dirais, et peut-être alors n’y aurait-il plus de pardon pour moi dans votre cœur.
+
+['elle', 't-elle', 'il', 'celle-ci', 'Alice']	Charles	— Oh ! dit [MASK] d’une voix où l’amour suppliant semblait moins dangereux, tu as donc compris ce que, je souffre ? — Tiens, lui dit-elle en prenant sa main, sens mon cœur. Et elle plaça cette main sur ce cœur qui bondissait.
+
+['son', 'sa', 'la', 'ses', "l'"]	Charles	et, appuyé sur les deux bras qu’il avait demandés, il sortit de la salle à manger. Arrivé devant la porte, il quitta le bras de [MASK], et, soutenu seulement par sa femme, il montra de la main les divers ateliers qu’on voyait de toutes parts fumer autour de la maison.
+
+['lui', 'Monsieur', 'celui-ci', 'elle', 'monsieur']	Prémitz	ce sont des migraines et des palpitations de cœur ; je verrai bien si la somnambule y comprend quelque chose. Puis, s’adressant à [MASK], il lui dit : — Monsieur, voulez-vous avoir la bonté de soumettre ma femme à l’examen de votre somnambule ?
+
+['cela', 'que', 'ceci', 'ainsi', 'pourquoi']	Jean	dit [MASK] ; comment l’entendez-vous ? est-ce parce que l’on apprendra ce qui est ? Alors, pourquoi l’avez-vous fait ? La duchesse se tut ; elle attachait une trop grande importance au projet qu’elle avait conçu pour l’abandonner par colère ou impatience.
+
+[',', 'tout', 'de', 'et', 'le']	Henriette	aussi fut-elle obligée d’arriver toute seule à la question, et elle reprit : — Si, au lieu de nous donner la chambre que nous occupons d’ordinaire, vous pouviez nous faire arranger... — Deux appartements séparés ? dit [MASK] avec un empressement marqué ;
+
+['Racine', 'vers', 'forme', 'prose', 'Voltaire']	Molière	le vers de Racine, avec sa césure sévère et sa chasteté d’expression, a eu le vers Viennet pour héritier, et la libre allure de [MASK] a été invoquée pour faire un Spectacle dans un fauteuil . Où sont donc la littérature, la morale, la législation ?
+
+['on', 'il', 'et', 's', 'en']	Aspert	Il fallait d’autres temps, un entretien plus préparé pour arriver à une confidence complète. Ils s’étonnèrent seulement en eux-mêmes que le mot eût été dit et qu’il eût porté coup. Enfin d’[MASK] finit la conversation en disant : —
+
+["s'", 'se', ',', 'de', 'la']	Charles	mais [MASK], occupé d’aimer, n’y avait pas pris garde le plus souvent ; et, lorsque ces mots furent assez clairs pour qu’il ne pût s’y tromper, il imposa silence. Dès les premiers temps de son arrivée, il avait été l’objet de beaucoup d’espérances ;
+
+['abord', 'accord', 'ailleurs', 'habitude', 'emblée']	Aspert	Pourquoi pensait-elle cela ? — C’est bien, c’est bien, dit d’[MASK], nous t’aiderons un peu et nous repasserons ensemble nos souvenirs ; qui sait si nous n’y trouverons pas quelque événement bizarre, singulier, inattendu ?
+

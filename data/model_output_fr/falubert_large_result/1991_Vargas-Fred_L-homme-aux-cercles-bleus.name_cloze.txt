@@ -1,0 +1,200 @@
+['il', 'elle', 'et', 'Il', 'Elle']	Danglard	Puis il se rendit à l’adresse donnée par le dernier cafetier, où il devait trouver une chambre chez l’habitant. L’habitant était une vieille dame qui lui servit un nouveau verre de vin local. [MASK] eut envie de confier tous ses ennuis à ce vieux et très vif regard.
+
+['le', 'un', 'la', "l'", 'une']	Castreau	Il fit un petit signe de tête et ils prirent le premier sentier qui partait sur leur droite. En tête, les chiens tiraient sur leur laisse en hurlant. L’un d’eux avait bouffé le bout de viande. — Il est con, ce chien, dit [MASK].
+
+['elle', "s'", 'femme', 'belle', 'maîtresse']	Delphine	Elle expliquait que ça lui convenait comme ça, que ça lui faisait « travailler la tête », mais l’amant est certain que ce n’était pas aussi bénin, et qu’elle mourait de trouille devant son mari. Mais [MASK] était presque enfin décidée à demander le divorce.
+
+['il', "l'", 'la', 'Il', 'elle']	Adamsberg	» Quel itinéraire ? Un itinéraire suppose un plan, une projection dans l’avenir, et pour cette enquête, [MASK] en avait encore moins que pour aucune autre. Il attendait l’homme aux cercles. Cet homme n’avait pas l’air d’inquiéter grand monde.
+
+['il', 'on', 'un', 'ouvert', 'tout']	Adamsberg	Leur précédent commissaire, c’était l’inverse. Il était sans cesse bouclé dans ses réflexions. Le précédent commissaire, c’était la rumination perpétuelle. Tandis qu’[MASK] était ouvert à tout vent comme une cabane en planches, le cerveau à l’air libre, quoi, pensa
+
+['le', 'la', "l'", 'un', 'il']	Danglard	— Il y avait ça dans le caniveau, dit [MASK] en lui montrant une pochette plastique. Ce n’était pas loin du corps, à vingt mètres environ. L’assassin n’a même pas pris la peine de dissimuler la chose.
+
+['elle', 'il', 'je', 'Alice', 'Paul']	Adamsberg	— Non, dit [MASK], c’est impossible. On ne lui voit pas d’alliance, mais à elle si. C’est peut-être son amant, un type plus jeune. Ça expliquerait qu’elle ait cette photo avec elle. — Oui, j’aurais dû remarquer.
+
+['son', "l'", 'lui', 'il', 'le']	Danglard	[MASK], de plus en plus chaviré, continuait à appuyer avec constance, ne lui épargnant aucun des faits qui le rendaient suspect. Il avait même laissé les journalistes s’emparer de quelques informations et en faire la une.
+
+['quiconque', 'certains', 'Obama', 'Alex', 'un']	Camille	Et puis ce fut trop tard et peine perdue, le taxi partit. Il resta là, sur le bord du trottoir, respirant vite. Pourquoi est-ce qu’il avait couru ? Ça aurait été bien de voir [MASK] monter dans un taxi sans courir pour autant.
+
+['elle', 'il', 'et', 'Elle', '</s>']	Mathilde	L’homme aux cercles a passé la vitesse supérieure. [MASK] posa son sombre visage sur ses poings, puis elle se leva avec brusquerie, sortit une bouteille de scotch et deux verres et posa le tout sur la constellation de l’Aigle entre eux deux.
+
+['il', 'Il', ',', 'elle', '.Il']	Mathilde	[MASK] avait raison, il attendait le sursaut. Il savait aussi ce qu’elle avait voulu dire avec son image éculée de « lumière dans les yeux ». Ça a beau être éculé, ça n’en existe pas moins, la lumière dans les yeux.
+
+['il', 'elle', 'Il', 'Elle', 'tout']	Mathilde	Il lui fixa rendez-vous à cinq heures à son bureau. De manière inattendue, [MASK] fut à l’heure. Elle s’en étonna elle-même. — Je ne comprends pas, dit-elle. Ce doit être « l’effet policier », je suppose.
+
+['...', 't-il', 'M.', ':', 'le']	Danglard	Vous vous souvenez quand même du maigre bout de femme qu’elle est ? — Il y a mille façons de contourner l’obstacle, dit [MASK]. On peut faire la malade sur un trottoir, attendre qu’un passant inquiet se penche sur vous, et l’assommer.
+
+['...', ',', ';', '.', '?']	Mathilde	! Pourquoi penser encore à lui, bon sang ? — Tout ce qui est petit et cruel me préoccupe. Vous avez trop écouté [MASK]. Vous défendez l’homme aux cercles à présent. — Je ne fais rien de ce genre.
+
+['...', 'Il', 'On', 'se', 'Je']	Danglard	Depuis un mois, les cercles deviennent plus nombreux. Ça s’accélère. Il y a là-dedans quelque chose d’immonde, vous ne le sentez pas ? [MASK] réfléchit. Il répondit en hésitant : — Juste malsain peut-être… Mais ce n’est peut-être qu’une vaste farce…
+
+['il', 'lui', 'me', 'Il', 'et']	Adamsberg	Alors vous imaginez. À certains moments, je me comporte comme une véritable catastrophe naturelle, à ce que dit mon ami philosophe, bien sûr. [MASK] fit la moue. — Moi, dit-il, ça m’est difficile d’oublier que vous êtes une scientifique.
+
+['le', 'la', 'son', 'de', '</s>']	Delphine	Ça lui a fait tellement de bien qu’elle s’est acharnée sur lui. Enfin, craignant que l’enquête ne découvre pas assez vite l’homme aux cercles et qu’elle ne s’attarde sur le cas du docteur, elle a saigné la propre femme de l’homme aux cercles, [MASK] Le Nermord.
+
+['que', 'non', "qu'", 'pourquoi', 'si']	Adamsberg	lui demanda [MASK]. — Non. Je dois dire que non. — Après, vous me jugerez le plus sale flic de la terre. Il faut vous asseoir un moment, je parle lentement, j’ai beaucoup de mal à me résumer, souvent même je m’égare.
+
+['-', 'plus', '...', 'B', 'S']	Danglard	Alors moi… je vis là-dedans, dans cette grande baraque… seul. Comme un con, acheva-t-il avec un geste circulaire. Il sembla à l’oreille de [MASK] que sa voix s’effritait un peu. — Malgré tout, vous la voyiez toujours
+
+['le', "l'", 'les', 'la', 'tout']	Mathilde	Elles lui semblaient certes avoir un milieu, mais ni début, ni fin. Alors comment les transcrire ? Dégoûté mais toujours serein, il écrivit au bout d’une heure : Je n’ai rien trouvé à penser. Et puis du café, il appela chez [MASK].
+
+['Elle', 'elle', ',', 'ne', 'et']	Mathilde	[MASK] réfléchit. — Vous n’arriverez à rien comme ça, conclut-elle. Vous devriez être un peu plus poissonneux justement, un peu plus souple, plus fluide. Enfin ça vous regarde, si c’est votre ambition d’en faire baver à tout le cosmos.
+
+['il', 'elle', 'Elle', 'Il', 'IL']	Mathilde	Il tâtonna à la recherche du bouton de sonnette et appuya deux coups de suite. — Il t’arrive quelque chose ? demanda [MASK] en ouvrant la porte. Ou bien tu as du neuf sur la musaraigne ? — Je devrais ?
+
+['il', 'Il', 'elle', 'on', 'Elle']	Adamsberg	Il y eut la fermeture des portières, l’éloignement de la bordure du quai. Il y eut la recommandation de ne pas jeter des objets à travers les fenêtres. Oui. [MASK] savait tout cela. Ce geste peut blesser ou tuer. Le train partait.
+
+['il', 'on', 'enfin', 'puis', 'celui-ci']	Declerc	Ça suffit. On s’arrête. On va boire quelque chose. On jeta les outils dans un coin, et [MASK] sortit du sac un litre de cognac. — Ce n’est pas du cognac sophistiqué, expliqua-t-il. Mais ça nous nettoiera un peu.
+
+['.', 'En', 'La', '--', '"']	Mathilde	Je suis des quantités de gens, vous savez. C’est plus fort que moi. — Votre amant est parti après le requin ? — Parti, et d’autres sont venus. — Vous êtes une femme singulière. — Pourquoi dites-vous ça ? dit [MASK].
+
+[',', 'le', 'de', 'plus', 'jamais']	Mathilde	Elle se dissout, elle devient ordinaire, bruyante, ne cherchant plus qu’à être aimée à n’importe quel prix. Il ne faut jamais faire boire [MASK], jamais. Vous m’entendez ? — Est-ce que tous ces discours ont eu l’air d’intéresser quelqu’un dans la salle
+
+["c'", 'elle', "C'", '</s>', 'Elle']	Mathilde	; mais tout ça n’a guère de sens pour elle. Sa tentation, c’est cet énorme territoire qu’elle s’est fait sous l’eau. [MASK] est la seule plongeuse que je connaisse qui refuse de se faire accompagner, ce qui est fort dangereux.
+
+['il', 'Il', 'on', 'personne', 'lui']	Mathilde	Il était très bien ce groom, brun, longs cils, et juste pour une ou deux nuits parce qu’il avait chassé les cafards de la salle de bains. Et puis [MASK] ne dirait rien de toute façon. Ils n’en parleraient plus.
+
+['Elle', 'Il', 'elle', 'il', 'et']	Mathilde	? – en me faisant venir vivre chez vous. Vous voulez me refaire les yeux, vous me mettez votre Clémence sur le dos pendant toute une soirée, et maintenant entre les pattes de ce policier… Mais pourquoi êtes-vous venue me chercher ? Pour faire quoi de moi ? [MASK] haussa les épaules.
+
+['son', 'la', "l'", 'sa', 'un']	Adamsberg	Elle se dit ensuite que c’était fantasmagorique d’égorger un vieux docteur sous prétexte qu’il a été votre fiancé d’un jour et que l’aigreur a fait le reste. Fantasmagorique. Elle aurait dû dire ça à [MASK].
+
+['-', 'le', 'je', '...', 'la']	Mathilde	— Non, dit [MASK]. Ou bien c’est que toutes les visites que je reçois sont particulières. — Après cette soirée, avez-vous encore filé l’homme aux cercles ? — Bien sûr, pas mal de fois. — Il n’y avait personne dans vos parages
+
+['vous', 'le', '.', '!', 'la']	Danglard	Toujours la même : « Victor, mauvais sort, que fais-tu dehors ? » Je n’en sais pas plus pour le moment. Je vous attends. — J’arrive. Réveillez [MASK]. Dites-lui qu’il s’amène au plus vite.
+
+['elle', 'toute', 'vous', "j'", 'tu']	Camille	Il se souvenait parfaitement de toutes les turbulences qui hier encore l’avaient secoué quand il avait pensé que [MASK] était morte. Et à présent, même le mot « turbulence » lui semblait dénué de sens. Qu’est-ce que ça pouvait bien être, des turbulences ?
+
+['le', 'il', 'M.', '.', 'Monsieur']	Adamsberg	— Ça vous apporte quelque chose, ça ? — Beaucoup, dit [MASK]. Soyez assez aimable pour passer au commissariat dans la journée pour qu’on enregistre votre déposition. Je vous laisse l’adresse. Et n’oubliez surtout pas de signaler cette odeur de fruits à mon collègue.
+
+['le', "l'", 'la', 'M.', 'un']	Adamsberg	Mais juste le voir de loin, pas l’approcher, pas l’emmerder. Ce n’est pas au flic de renom que je propose mon secret, c’est à l’homme qui m’a fait entrer dans son bureau. — Ça me va, dit [MASK].
+
+['elle', 'je', "j'", 'on', "c'"]	Clémence	Comme toujours, [MASK] est partie en riant sous cape à un rendez-vous prometteur. Ça se déroule d’une manière invariable. Soit elle attend le type jusqu’à point d’heure dans une brasserie sans voir personne, soit le type repart aussi sec dès qu’il l’aperçoit.
+
+['le', 'la', 'maman', 'Pierre', "l'"]	Danglard	— Moi, ça ne va pas, dit [MASK]. D’une part je ne réussis pas très bien les ourlets des pantalons des enfants. D’autre part la tueuse me hante. Sale vieille tueuse. Elle va m’échapper maintenant, c’est certain.
+
+['un', "l'", 'le', 'une', 'on']	Mathilde	Il coule et il résiste, il file en flottant vers un but, vers un estuaire. Alors un assassin là-dedans, bien sûr il peut se noyer. — Un but ? Ça n’a pas de sens d’avoir un but. C’est bon pour les gosses, dit [MASK].
+
+['il', 'elle', 'le', 'ceci', 'je']	Castreau	Et je n’ai rien fait de plus. Je me suis laissé porter. — Le merle a trouvé un cadeau pour la merlette, dit [MASK]. C’est un petit bout d’aluminium. — Ça t’intéresse pas ce qu’on dit ?
+
+['Il', 'Elle', 'Je', 'On', 'il']	Adamsberg	Je veux savoir. Tout. Quelque chose nous a échappé. — Mais comment voulez-vous que j’interroge les gens sans avoir la moindre idée de ce que vous cherchez ? [MASK] secoua la tête. — Allez-y, et posez toutes les questions du monde.
+
+['Elle', 'Il', 'il', 'elle', 'et']	Charles	Elle dit que je n’ai qu’à attendre la tête levée et respirer à fond, que je serais un limier hors classe pour la pomme pourrie. [MASK] haussa les épaules. — Il n’en est pas question. Elle est très désobligeante parfois.
+
+[',', ';', '...', ':', 'mère']	Mathilde	Il ouvrit la porte. — Vous comprenez, Reine [MASK], les choses profitent de ma faiblesse. Je hais les choses. Elles se dissimulent, elles se glissent entre sommier et matelas, elles font dégringoler la poubelle, elles se coincent entre les lames des parquets.
+
+['il', 'on', 'elle', 'je', 'ça']	Adamsberg	J’ai fait la jonction plus tard. — Oui, dit [MASK], vous avez déjà dit ça. — Vous aussi vous vous répétez. — C’est toujours comme ça à certains moments des enquêtes : on se répète. Les journalistes appellent ça « piétiner ».
+
+['côté', 'lui', ',', 'elle', "l'"]	Danglard	Celui-là, sa femme l’avait fait avec un homme aux yeux bleus, c’était évident, et elle l’avait laissé un jour à [MASK] en disant que, à tant faire, c’était mieux que tous les petits soient ensemble.
+
+['il', 'me', 'et', 'lui', 'elle']	Danglard	Dans la voiture, [MASK] marmonna : — Un bouchon de bouteille et une femme égorgée, je ne vois pas le lien, ça me dépasse. Je n’arrive pas à me rendre compte de ce que ce type a dans le cerveau.
+
+['.', ',', 'de', '</s>', '"']	Danglard	[MASK]. C’est vrai, on aurait pu croire que tout ce qui lui entrait par les oreilles, les yeux ou le nez, de la fumée, de la couleur, du froissement de papier, faisait un courant d’air sur ses pensées et que ça les empêchait de prendre corps.
+
+['il', 'on', 'elle', 'ils', 'y']	Adamsberg	Toutes ces animations dans le silence qui veulent dire : mais qu’est-ce que c’est que ce type ? Doucement il avait souri, doucement il avait serré les mains, expliqué et écouté, parce qu’[MASK] faisait toujours tout doucement.
+
+[',', 'et', 'crime', 'référence', 'vie']	Danglard	Il faut comparer tout ça à ce nouveau cercle, [MASK]. Il faut arriver à savoir si oui ou non c’est le même homme qui l’a tracé et s’il a été tracé avant ou après le meurtre.
+
+['t-il', 'il', '-t-il', 't-elle', '-il']	Charles	— Tout de même, insista [MASK], il n’y a pas loin pour que les flics pensent que vous êtes la mieux placée pour avoir prêté main-forte au meurtrier. Vous étiez la seule sans doute à pouvoir lui indiquer temps et lieu pour trouver un cercle propice à son assassinat.
+
+['il', 'Il', 'on', 'homme', 'celui-ci']	Adamsberg	Mais [MASK] n’a pas besoin de se distraire pour vivre, vous me comprenez ? Donc il vit, en mélangeant tout d’ailleurs, en mélangeant les grandes idées et les petits détails, en mélangeant les impressions et les réalités, en mélangeant les verbes et les pensées.
+
+['tout', 'body', 'la', 'plus', 'toute']	Christiane	Elle lui donnait son avis sur toutes ses amies qu’elle pouvait rencontrer. De [MASK], elle avait dit : « Mention passable, corps impeccable, distrayante une heure, ramifications du cerveau moyennes à lourdes, esprit centripète et pensées concentriques, trois idées-pivots
+
+[',', '"', 'la', "l'", 'le']	Reyer	Mais quand cet homme dans le hall de l’hôtel avait fait allusion à la « grande dame de la mer », l’écho du souvenir avait été assez agréable, tout compte fait, pour qu’il souhaite vérifier s’il s’agissait bien d’elle et ce qu’on pouvait bien lui reprocher. [MASK]
+
+['Il', 'il', 'Victor', 'Et', 'Mais']	Adamsberg	Debout face au mur blanc, il prit encore le temps de réfléchir quelques instants. Et puis, très vite, il écrivit en grandes lettres : Victor, mauvais sort, que fais-tu dehors ? [MASK] ne bougea pas. Il attendait cela depuis hier déjà.
+
+['il', 'et', 'elle', 'Il', 'en']	Danglard	C’est encore un coin sans cinéma et sans bistrot proche ouvert le soir. Et un coin où les gens ont tendance à se coucher tôt. Il se fait discret, l’homme aux cercles. Jusqu’à midi, [MASK] garda un doigt pressé sur le front.
+
+['elle', 'il', 'je', 'madame', 'Jean']	Danglard	Elle y échappe. Il y a quelque chose qui cloche. — Je n’aurais pas dit ça, dit [MASK]. J’aurais dit qu’on met trop de temps à la retrouver, mais qu’on y parviendra. Mais elle sait être discrète, la vieille.
+
+['secoué', 'secou', 'bouleversé', 'ébranlé', 'secouer']	Danglard	Sa terreur, ses sanglots, sa fragilité, et puis ses aveux, et puis son innocence. Foutaises. — Très bien joué. Il vous a secoué, [MASK]. Même le juge d’instruction, qui est né méfiant, a estimé impossible qu’il soit coupable.
+
+['il', 'Il', 'qui', ',', '</s>']	Adamsberg	Merde. Une foutue pente. [MASK] avait toujours placé peu d’espérances et peu d’attentes dans l’amour, non qu’il fût opposé à l’existence des sentiments, ce qui n’aurait rien voulu dire, mais cela ne motivait pas l’essentiel de sa vie.
+
+['JEAN', 'PRI', 'RIEN', 'OUI', 'N']	Mathilde	Sa voix charrie des images lointaines et des pensées indécises mais elle va vers des accomplissements inexorables, dont il est peut-être le dernier à avoir idée. — Je peux manger quand même ? demanda [MASK]. — Bien sûr.
+
+['il', 'et', 'Il', ',', 'elle']	Adamsberg	[MASK] ne s’empêtrait jamais dans des débats d’orgueil. C’était l’impression de perdre son temps et ses rêves dans un inutile et récurrent fantasme, en sachant que la vie lui eût été depuis longtemps plus légère s’il avait su s’en débarrasser.
+
+['Quel', 'En', 'Ton', 'Eh', 'Pourquoi']	Victor	Les traits de son visage s’affaissaient. Il faisait très vieux. Il n’était pas agréable à regarder. — [MASK], triste sort, pourquoi es-tu dehors ? C’est ça ? interrogea-t-il à voix basse.
+
+['la', 'elle', "l'", '-', 'toujours']	Charles	demanda [MASK]. — Ne vous en faites pas, vous ne la verrez pour ainsi dire jamais. Toujours sortie, toujours errante à la recherche de son époux. Et puis vous, vous n’aimez personne, alors, comme disait ma mère, quelle importance ? —
+
+[',', 'il', 'Il', 'Elle', 'elle']	Mathilde	[MASK] sortit son agenda et nota : « Le type qui est assis à ma gauche se fout de ma gueule. » Elle but une gorgée de bière et jeta un nouveau coup d’œil à son voisin, un type immense qui pianotait sur la table depuis dix minutes.
+
+['il', ',', "qu'", "n'", 'qui']	Adamsberg	[MASK] avait été un mauvais élève, n’ayant jamais bien compris le motif pour lequel on le faisait aller en classe, mais s’efforçant à faire semblant de travailler aussi gentiment qu’il le pouvait pour ne pas attrister ses parents, et pour que, surtout, ils ne découvrent jamais qu’il s’en foutait.
+
+['vous', 'moi', 'ceci', 'votre', 'attention']	Danglard	Je vous fais confiance. Mais je ne cherche pas quelque chose de palpable. En attendant, il faudrait que vous repreniez tout ça avec [MASK], pour votre déposition. — Soyez honnête, commissaire. En tant qu’« homme aux cercles », je risque quoi ?
+
+['il', 'qui', 'on', 'ça', "qu'"]	Danglard	On ne sait pas pourquoi, était-ce à cause de son air de fatigue, ou de son air de penseur vaincu persévérant à se poser des questions sur les destins, ou de la manière de déplier et replier ce grand corps inassouvi et résigné, mais [MASK] l’émouvait ce matin-là.
+
+['Olivier', 'Isabelle', 'Alain', 'André', 'Antoine']	Adamsberg	Il gardait la tête levée. On ne voyait qu’un bout de ciel pas bien grand là-haut entre les sommets des arbres, et ce coin de forêt était sombre. Il entendit la voix douce d’[MASK] qui disait : — Ça suffit. On s’arrête.
+
+['celui-ci', 'Paul', 'Pierre', 'Jean', 'Henri']	Adamsberg	Vers huit heures du soir, tout était en place. Mais le territoire de la ville était si grand que les mailles de la surveillance étaient bien entendu trop larges. — S’il est habile, dit [MASK], il y échappera, c’est évident.
+
+['il', 'je', 'elle', 'le', 'alors']	Adamsberg	C’est de ces devoirs auxquels on ne se dérobe pas. Et puis merde, j’ai toujours répugné à ce que mes notes personnelles puissent servir de fichiers de délation. — Compréhensible, dit [MASK]. Pourquoi dites-vous « avide » pour parler de lui ?
+
+['-', ',', "'", '_', 'de']	Danglard	— Non. Je les aime, et je me fous des bestioles, de ce qu’elles pensent, de ce qu’elles veulent. Pourtant ça veut des trucs aussi, les bestioles, il n’y a pas de raison. — C’est vrai, admit [MASK].
+
+['-', 'et', ',', '...', 'Il']	Adamsberg	Il l’aurait fait, de toute façon. Vous n’avez aperçu personne qui corresponde à ce qu’on cherche ? — Personne. — Et ceux du secteur ? — Ils n’ont rien signalé. [MASK] soupira. — Vous avez remarqué le cercle, commissaire ?
+
+['le', 'la', 'les', 'et', 'en']	Adamsberg	avec l’équipe du secteur du 14 e arrondissement. — Le cercle ? Comment est le cercle ? interrogea [MASK]. — Le cercle est là, commissaire. Bien exécuté, comme si le type avait pris tout son temps. L’inscription autour est complète aussi.
+
+['alors', 'Alors', 'elle', 're', 'RAN']	Christiane	Avec tout ça, [MASK] qui était là, certaine qu’elle allait faire le café demain, alors que la petite chérie avait crevé quelque part sans qu’il ait été là pour faire quelque chose. Et alors lui crèverait un jour sans avoir jamais revu la petite.
+
+['le', '...', "l'", 'il', 'M']	Danglard	Ce n’est pas ce maniaque qui a ?… — On n’en sait rien, dit [MASK]. — Non, non, messieurs, vous vous trompez. Ce que je gagne à la mort de ma femme, c’est du vide, de la désolation.
+
+["l'", 'son', 'la', 'ses', 'sa']	Mathilde	En face de lui, elle le dévisageait en souriant, superbe et généreuse, mais sûre d’elle, mais royale, comme pouvant faire et défaire son bureau et le monde d’une simple moquerie. Alors il parla lentement, hasardant les idées nouvelles que suggérait le regard de [MASK].
+
+['Monsieur', 'dit-il', 'alors', 'dis-je', 'Excellence']	Adamsberg	Aucune. Mais j’ai voulu tout savoir sur lui depuis des semaines. Il était déjà dangereux à mes yeux quand il cerclait les cotons-tiges et les bigoudis. Il le reste donc aujourd’hui. — Mais mon Dieu, [MASK], vous travaillez complètement à l’envers !
+
+['Il', 'Elle', 'On', '--Il', 'Je']	Adamsberg	— Je vais l’appeler Miette, dit-il. C’est con, non ? Est-ce que vous croyez qu’elle va rester avec moi ? [MASK] sonna à la porte. Des pas en chaussons glissèrent dans le couloir, avec calme.
+
+['il', 'et', 'Il', 'y', 'elle']	Danglard	Rompu de se retourner cent fois dans son lit, et crevant de chaud, [MASK] pensa à se lever pour aller se rafraîchir à la cuisine avec le fond de la bouteille. Il faisait attention devant les gosses à souvent laisser un fond dans la bouteille.
+
+['il', 'elle', 'on', 'Il', 'On']	Adamsberg	. Malgré la secousse, [MASK] ne put s’empêcher de calculer que la découverte avait lieu en début de tranche 2, la tranche du dérisoire, mais que le meurtre avait été commis en fin de tranche 1, la tranche grave.
+
+['Elle', '*', 'elle', 'On', 'Celle-ci']	Mathilde	* * [MASK] s’était présentée à l’ Hôtel des Grands Hommes pour chercher l’aveugle beau, un bien petit hôtel pour un si grand titre, pensa-t-elle. Ou alors ça voulait peut-être dire qu’il n’y avait pas besoin de beaucoup de chambres pour loger tous les grands hommes.
+
+['les', 'le', 'ses', 'son', 'la']	Adamsberg	— Si, affirma le patron après avoir écouté [MASK]. Si, j’ai vu un type pas catholique qui pourrait correspondre à ce que vous cherchez. Vers minuit cinq, il est passé en trottinant très vite pendant que je rangeais les tables en terrasse pour fermer.
+
+['son', 'le', 'sa', 'la', 'ce']	Pontieux	Vous seule pouviez la conduire à lui. Et aux cercles. Elle a d’abord assassiné cette grosse femme qu’elle ne connaissait pas, pour amorcer une « série ». Puis elle a égorgé [MASK]. Ça lui a fait tellement de bien qu’elle s’est acharnée sur lui.
+
+['</s>', 'moi', 'lui', '.', 'plus']	Danglard	Pourquoi avait-il l’air de trouver important que la deuxième victime soit un homme ? Parce que ça permettait d’éliminer l’hypothèse de crimes sexuels ? Ce n’était pas une surprise pour [MASK]. Il pensait depuis longtemps que quelqu’un se servait de l’homme aux cercles dans un but précis.
+
+['Marie', 'celle-ci', 'elle', 'Hélène', 'Virginie']	Camille	* * Dans la nuit, il eut un sale rêve, fait de plaisir en même temps que de scènes grotesques. Il vit [MASK] entrer dans sa chambre, habillée en groom. L’air grave, elle avait retiré ses habits et s’était allongée contre lui.
+
+["l'", 'la', 'son', 'le', 'même']	Clémence	Et c’est ce qu’il fit. * * * La semaine qui suivit n’apporta aucune nouvelle de [MASK]. Danglard déclinait dans une somnolence éthylique dès trois heures de l’après-midi, qu’il interrompait par quelques explosions verbales d’impuissance.
+
+['-', 'monsieur', 'Monsieur', '...', 'oui']	Mathilde	? Il faut bien laisser quelque chose à l’aveugle, madame, dit l’homme avec un sourire. Il se leva pour partir. Il n’avait même pas bu son verre. — Attendez. Comment vous appelle-t-on ? dit [MASK]. L’homme hésita.
+
+['on', 'il', 'elle', 'On', 'chacun']	Louvenel	C’est drôle, [MASK] a employé le même mot. En tous les cas, vous vous êtes fait, avec toutes ces déclarations au Dodin Bouffant , une sacrée publicité. Il n’y avait qu’à s’adresser à vous pour en savoir plus. — Pour quoi faire ?
+
+['ça', 'cela', 'vous', 'lui', 'il']	Louvenel	Alors il faut bien que je m’en occupe. Je crois que vous n’êtes pas loin de savoir qui il est. J’espérais que vous en auriez dit plus ce soir-là et que [MASK] m’aurait mis au courant.
+
+['nous', 'cinq', 'vous', 'quatre', 'autour']	Danglard	— Demain quoi ? — Demain matin, il y aura un nouveau cercle, [MASK]. — Vous n’êtes pas devin. — On ne va pas revenir là-dessus, on en a déjà parlé tous les deux. L’homme aux cercles a un projet.
+
+['il', "l'", 'elle', 'on', "m'"]	Charles	. Rien partout. Hier soir, [MASK] avait tâtonné le long de son visage. Ça avait été assez agréable, il faut le reconnaître, ces mains longues qui avaient effleuré si scrupuleusement tous les contours de sa figure comme si elle avait été imprimée en braille.
+
+['-', 'de', 'à', 'le', 'S']	Danglard	— Du cercle ? Vous voulez parler de cette histoire de ronds autour de capsules de bière ? « Victor mauvais sort que fais-tu dehors » ? — C’est de ça que je veux parler, [MASK]. Exactement de ça. — Mais c’est stupide…
+
+['une', 'un', 'en', 'la', 'le']	sylvestre	La police n’est pas [MASK]. » Elle s’était trompée. Il avait débrouillé coup sur coup au cours des cinq années suivantes quatre meurtres d’une manière que ses collègues avaient trouvée hallucinante, c’est-à-dire injuste, provocante.
+
+['elle', 'non', ',', 'la', 'le']	Mathilde	Il savait que ça pouvait prendre un certain temps, qu’elle allait se débattre. — Mais non, dit [MASK], elle n’aurait jamais eu la force physique ! Vous vous souvenez quand même du maigre bout de femme qu’elle est ? —
+
+['espèce', 'Étienne', 'Antoine', 'autrui', 'école']	Adamsberg	On avait dit que le cas d’[MASK] était désespéré, et c’était parfois son opinion. Mais pas toujours. Et aujourd’hui, son humeur était à tourner un café, avec lenteur. Un type s’était fait tuer dans son entrepôt de tissus, trois jours plus tôt.
+
+[',', 'il', 'on', "l'", 'elle']	Danglard	De la main, il toucha une branche basse qui avait été cassée, il y a des mois. La mousse avait poussé sur la flexure. Ses lèvres s’entremêlèrent, comme à chacun de ses moments d’émotion. [MASK] avait repéré ça. —
+
+['Il', 'il', '.Il', ',', 'Elle']	Danglard	Il dit très vite : — Je ne suis pas journaliste. [MASK] fronça les sourcils et passa un doigt sur son front, alors qu’il savait pourtant qu’on ne retire pas un mal de tête en appuyant dessus avec le doigt.
+
+['il', 'elle', 'on', 'je', 'Jean']	Danglard	C’est parfait. » Pire encore, [MASK] croyait qu’il ne lisait même pas les rapports. Le soir, ils étaient à l’endroit où il les avait déposés le matin. Alors il les reprenait pour les classer dans le dossier Clémence Valmont.
+
+["l'", 'le', 'la', 'il', 'elle']	Mathilde	— Vous avez environ cinquante ans, je suppose ? demanda l’homme, sans s’écarter d’elle. — Possible, dit [MASK]. Elle fut contrariée. Qu’est-ce que ça pouvait lui faire à ce type ?
+
+['-', '...', 'Monsieur', 'voilà', 'Madame']	Danglard	Lui n’a pas le sou. Juste son salaire de professeur et des droits d’auteur. Imaginez que sa femme ait voulu divorcer et tout filait ailleurs. — C’était le cas, [MASK]. J’ai rencontré l’amant. C’est bien le type de la photo.
+
+['On', 'Il', 'Elle', '</s>', 'Et']	Mathilde	! C’est elle qui s’en va, n’est-ce pas ? Ne me mentez pas, bon Dieu ! J’en suis certain ! Le quai ? Le numéro du quai ? [MASK] le regardait sans rien dire.
+
+['il', 'et', 'elle', 'elles', 'Il']	Adamsberg	Le meurtrier s’était acharné en pratiquant dans la gorge au moins six entailles et avait atteint les vertèbres. [MASK] grimaça. Toute l’enquête de la journée n’avait guère fourni plus de renseignements que ceux qu’ils possédaient au matin.
+

@@ -1,0 +1,200 @@
+['il', 'elle', 'Il', 'Jean', 'Paul']	Cérizet	Dans trois mois, comme il nous l’a promis, nous saurons à quoi nous en tenir.Le soir, à sept heures, [MASK] acheta l’imprimerie et la paya, en gardant à sa charge le loyer du dernier trimestre.
+
+[',', 'de', 'en', 'le', 'à']	Kolb	Si matame feut addentre ein bedit quard’hire, che fais bousser eine regonnaissanze dans le gampe ennemi, dit [MASK], et vis ferrez que che m’y gonnais, quoique chaie l’air d’ein Hallemante ; gomme che suis ein frai Vrançais, chai engor te la malice.–
+
+[',', 'le', 'de', "l'", 'à']	David	[MASK] remarqua la rougeur et l’embarras de son ami, qu’il laissa soutenant la conversation avec le gentilhomme campagnard, auteur d’un mémoire sur la culture des vers à soie, et que la vanité poussait à se faire imprimer pour pouvoir être lu par ses collègues de la Société d’agriculture.–
+
+['çà', 'demain', 'les', 'tout', 'dix']	Cérizet	– Tenez, mon ami, dit l’imprimeur en prenant six feuilles du Paroissien du Diocèse et les tendant à [MASK], si vous pouvez nous avoir corrigé cela pour demain, vous aurez demain dix-huit francs. Nous ne sommes pas méchants, nous faisons gagner de l’argent au prote de notre concurrent !
+
+['...', 'A', 'la', 'en', 'mille']	Métivier	Encore trois mille francs en billets, dit-il en se reprenant, et à douze et quinze mois… Ce sera bien assez des risques à courir… Nous avons douze mille francs à prendre sur notre compte avec [MASK]. Cela fera quinze mille francs !…
+
+['tous', 'chacun', 'tout', 'toutes', 'Monsieur']	Lucien	Depuis deux heures, aux oreilles de [MASK], tout se résolvait par de l’argent. Au Théâtre comme en Librairie, en Librairie comme au Journal, de l’art et de la gloire, il n’en était pas question.
+
+['elle', 'maman', 'le', 'son', 'la']	Bérénice	Aidée par [MASK], l’actrice avait déshabillé avec le soin et l’amour d’une mère pour un petit enfant son poète qui disait toujours : – C’est rien ! c’est l’air. Merci, maman.– Comme il dit bien maman !
+
+[',', 'le', "l'", 'les', 'on']	Lousteau.–	Il était la terreur des imprimeurs, qui ne savaient comment le prendre : il les payait sous escompte et rognait leurs factures en devinant des besoins urgents ; puis il ne se servait plus de ceux qu’il avait étrillés, en craignant quelque piége.– Hé ! bien, continuons-nous nos affaires ? dit [MASK]
+
+['le', 'je', 'me', 'on', 'celui-ci']	David	– Comment, dit le vieillard en jetant à son fils un effroyable regard, tu ne me laisseras pas te voir faisant tes opérations…– Mon père, répondit [MASK], vous m’avez prouvé qu’il n’y avait pas de père dans les affaires…
+
+['il', 'je', 'donc', 'on', 'JE']	Ève	Ils regardèrent les trente et quelques enfants ou vieilles femmes, les ouvriers revenant de leur ouvrage qui précédaient les gendarmes dont les chapeaux bordés brillaient au milieu du principal groupe. Ce groupe, suivi d’une foule d’environ cent personnes, marchait comme un nuage d’orage.– Ah ! dit [MASK], c’est mon mari
+
+['le', 'la', "l'", 'madame', 'M.']	Lucien	et, dans son intérêt bien entendu, je lui refuse les Marguerites ! Oui, monsieur, je vous aurai donné plus d’argent dans six mois d’ici pour les articles que j’irai vous demander que pour votre poésie invendable !– Et la gloire ? s’écria [MASK].
+
+['Montaigne', 'Voltaire', 'tous', 'Pascal', 'Rousseau']	Napoléon	Sa voix fêlée s’harmoniait à l’aigreur de sa face, à son air grêle, et à la couleur indécise de son œil de pie. L’œil de pie est, suivant une observation de [MASK], un indice d’improbité.
+
+["s'", 'moins', "n'", 'en', ',']	Lucien	[MASK] est-il sérieusement protégé, car il est devenu la bête noire de tous mes rédacteurs ; et, avant de favoriser leur conspiration, j’ai voulu vous consulter pour savoir s’il ne vaut pas mieux la déjouer et le servir.
+
+['Luci', 'autr', 'Juli', 'Charles', 'Messi']	Cavalier	– Qui est-ce ? dit Lucien.– Deux associés, deux bons garçons, assez ronds en affaires, nommés Fendant et [MASK]. L’un est un ancien premier commis de la maison Vidal et Porchon, l’autre est le plus habile voyageur du quai des Augustins, tous deux établis depuis un an.
+
+['ma', 'je', 'mon', 'est', 'toute']	Lucien	! elle m’aime ! tu iras.– Non, dit l’imprimeur d’un air confus, je viens te remercier de cette preuve d’amitié qui m’a fait faire de sérieuses réflexions. Ma vie, à moi, [MASK], est arrêtée.
+
+['il', 'elle', 'qui', 'il', 'lui']	David	Il hypothéquait ses trente mille francs sur les idées d’honneur que l’éducation devait avoir développées chez son fils. En jeune homme bien élevé, [MASK] suerait sang et eau pour payer ses engagements, ses connaissances lui feraient trouver des ressources, il s’était montré plein de beaux sentiments, il payerait !
+
+['</s>', '.', 'il', 'y', 'on']	Lucien	condamné, percé d’un croisillon par où il surveillait dix-sept locataires. Cette ruche s’appelle une maison de produit en style de notaire. [MASK] aperçut un bureau, un fauteuil, de l’encre, des plumes et du papier.
+
+['je', "d'", 'il', "j'", 'on']	Lucien	Surpris par l’esprit d’à-propos, par la finesse avec laquelle ces hommes formulaient leurs réponses, [MASK] était étourdi par ce qu’on nomme le trait, le mot, surtout par la désinvolture de la parole et l’aisance des manières.
+
+['lui', 'chacun', 'nous', 'tous', 'elle']	Lucien	Nous sommes tous deux également modestes dans nos goûts, il nous faudra peu de chose ; le bonheur de [MASK] sera notre grande affaire, et son cœur sera le trésor où nous mettrons fortune, sentiments, sensations, tout !
+
+['eux', 'les', 'lui', ',', 'nous']	Métivier	C’est la mise en pratique de ce proverbe connu, Passez-moi la rhubarbe, je vous passerai le séné. Messieurs Cointet frères, se trouvant en compte courant avec [MASK], n’avaient pas besoin de faire traite.
+
+['il', 'Il', ',', 'et', 'qui']	Lucien	[MASK] se sentait seul, inconnu, rattaché par le fil d’une amitié douteuse au succès et à la fortune. Il accusait ses tendres, ses vrais amis du Cénacle de lui avoir peint le monde sous de fausses couleurs, de l’avoir empêché de se jeter dans cette mêlée, sa plume à la main.
+
+['il', 'on', 'celui-ci', ',', 'père']	David	Quand [MASK] pria son père, en sa qualité d’associé, de contribuer à la mise nécessaire à l’exploitation commune, le vieux pressier fit l’ignorant. Il ne s’était pas obligé, dit-il, à donner de l’argent en donnant son imprimerie ;
+
+[')', '</s>', '(', 'de', 'en']	Finot	). [MASK] est rédacteur en chef. Je vis en vendant les billets que me donnent les directeurs de ces théâtres pour solder ma sous-bienveillance au journal, les livres que m’envoient les libraires et dont je dois parler.
+
+['on', ',', 'il', "l'", 'un']	Anaïs	Puis quand la conversation commença, quand chacun de ces esprits si fins, si délicats, se révéla par des traits qui avaient plus de sens, plus de profondeur que ce qu’[MASK] entendait durant un mois en province ;
+
+['un', 'autre', 'auteur', 'homme', 'amour']	Arthez	de l’abattement, il versait un torrent de larmes, et n’avait plus la force de remettre ses chansons au net. Quand, à travers ses sanglots, il eut expliqué sa situation, il vit des larmes dans les yeux de ceux qui l’écoutaient.– Ceci, dit d’[MASK], efface bien des fautes !
+
+[',', 'le', 'et', 'tout', 'en']	Florine	Bonjour ou bonsoir, messieurs, dit [MASK]. Monsieur, dit-elle en se tournant vers un homme gros et court qui se tenait dans un coin, ces messieurs sont les arbitres de mes destinées, mon avenir est entre leurs mains ;
+
+[',', "l'", 'le', 'un', 'on']	Merlin	Tous ceux qui résisteront à cette épreuve seront des hommes réellement forts, dit Lousteau.– D’ailleurs, s’écria [MASK], pendant les ovations des grands hommes, il faut autour d’eux, comme autour des triomphateurs romains, un concert d’injures.–
+
+[',', "'", '"', 'S', ';']	Bouffé	– [MASK].On entre, on sort, on parle, on se promène, on cherche quelque chose et l’on ne trouve rien, tout est en rumeur. L’alcade a perdu sa fille et retrouve son bonnet ;
+
+['mais', 'que', 'et', 'alors', 'enfin']	David	: – Mon père, vous m’égorgez !– Moi qui t’ai donné la vie ?… dit le vieil ivrogne en levant la main vers l’étendage. Mais, [MASK], à quoi donc évalues-tu le brevet ?
+
+['cent', 'la', 'cinquante', "l'", 'Cent']	Dauriat	Hé ! bien, tu lui diras que l’article est de moi, je serai censé l’avoir fait atroce, tu l’auras adouci, il te devra des remercîments.– Ne pourrais-tu me faire escompter ce petit bon de cent francs par le caissier de [MASK] ?
+
+['la', 'le', 'trouvera', 'à', 'de']	Finot	Vous réassassinerez votre victime par un grand article dans le journal hebdomadaire. Enfin, si l’affaire est capitale pour vous, [MASK], à qui vous vous serez rendu nécessaire, vous laissera porter un dernier coup d’assommoir dans un grand journal qui aura dix ou douze mille abonnés.–
+
+['R', 'on', 'le', 'en', "l'"]	Lucien	Sur un banc rustique, le poète aperçut une bonne grosse ménagère tricotant et surveillant un enfant qui tourmentait des poules.– Ma bonne femme, dit [MASK] en s’avançant, je suis bien fatigué, j’ai la fièvre, et n’ai que trois francs ;
+
+[',', 'il', 'de', 'et', 'y']	Coralie	[MASK] était toutes les vanités réunies de ce riche bourgeois, il tranchait chez elle du grand seigneur d’autrefois, il se croyait là de moitié dans son succès, et il le croyait d’autant mieux qu’il l’avait soldé.
+
+['on', 'il', 'On', 'nous', 'Il']	Dauriat	Ce jeune homme, presque aussi jeune que vous, est aux Débats. Il est un des princes de la critique : il est redouté, [MASK] viendra le cajoler, et nous pourrons alors dire notre affaire au Pacha des vignettes et de l’imprimerie.
+
+['cheminée', 'on', ',', 'chêne', 'marbre']	Lucien	Sur la table de nuit, chargée des livres lus pendant la matinée, brillait le rouleau rouge de Fumade. Sur le manteau de la cheminée erraient un rasoir, une paire de pistolets, une boîte à cigares. Dans un panneau, [MASK] vit des fleurets croisés sous un masque.
+
+['il', 'elle', "c'", 'et', 'un']	Florine	À seize ans, [MASK] était maigre. Sa beauté, comme un bouton de fleur plein de promesses, ne pouvait plaire qu’aux artistes qui préfèrent les esquisses aux tableaux. Cette charmante actrice avait dans les traits toute la finesse qui la caractérise, et ressemblait alors à la Mignon de Gœthe.
+
+[',', 'le', 'de', 'la', 'on']	Lucien	Au lieu de le prendre pour une borne de granit, [MASK] fit de ce gentilhomme un sphinx redoutable, par suite du penchant qui porte les hommes d’imagination à tout grandir ou à prêter une âme à toutes les formes, et il crut nécessaire de le flatter.–
+
+['S', 'A', 'non', 's', ',']	Cérizet	À quoi cela peut-il me servir d’être un bon prote ? répondit [MASK], je suis orphelin, je fais partie du contingent de l’année prochaine, et, si je tombe au sort, qui est-ce qui me payera un homme ?…–
+
+['il', 'on', 'ministre', 'elle', 'Ministre']	Richelieu	Eh ! bien, jeune homme, ils sont devenus Grands-Ducs, comme [MASK] devint Ministre. Si vous aviez cherché dans l’histoire les causes humaines des événements, au lieu d’en apprendre par cœur les étiquettes, vous en auriez tiré des préceptes pour votre conduite.
+
+['se', ',', 'le', "l'", 'de']	Ève	[MASK] vint alors s’asseoir près de lui, sans laisser échapper un murmure ; car il entre dans le sentiment d’une sœur pour son frère un plaisir immense à être traitée sans façon.– Mais qu’as-tu donc ? s’écria-t-elle en voyant briller des larmes dans les yeux de son frère.–
+
+[',', 'la', 'les', 'et', 'de']	David	; mais le maître et le prote, perdus dans les absorbants travaux de l’intelligence, se contentaient des ouvrages que leur donnaient leurs derniers clients. Les frères Cointet avaient fini par connaître le caractère et les mœurs de [MASK], ils ne le calomniaient plus ;
+
+['celle-ci', 'Louise', 'Marguerite', 'Marie', 'celui-ci']	Lucien	La sœur de [MASK] travaillait chez une blanchisseuse de fin, sa voisine, et gagnait environ quinze sous par jour ; elle conduisait les ouvrières, et jouissait dans l’atelier d’une espèce de suprématie qui la sortait un peu de la classe des grisettes.
+
+['elle', 'celle-ci', 't-elle', 'il', 'Diane']	David	La belle soirée ! dit-elle en cherchant un sujet de conversation, l’air est à la fois tiède et frais, les fleurs embaument, le ciel est magnifique.– Tout parle au cœur, répondit [MASK] en essayant d’arriver à son amour par analogie.
+
+['COR', 'sur', ',', 'le', 'tout']	Lucien.–	Aujourd’hui, pour réussir, il est nécessaire d’avoir des relations. Tout est hasard, vous le voyez. Ce qu’il y a de plus dangereux est d’avoir de l’esprit tout seul dans son coin.– Mais quelle impertinence ! dit [MASK]
+
+['il', 'celui-ci', 'elle', 't-il', 'le']	Blondet	Voici comment tu peux t’en tirer, mon enfant, répondit [MASK] en se recueillant. L’envie, qui s’attache à toutes les belles œuvres, comme le ver aux beaux et bons fruits, a essayé de mordre sur ce livre, diras-tu.
+
+['de', ',', 'à', 'et', 'un']	David	Nom d’une pipe, les pères sont-ils malheureux dans leurs enfants ! [MASK], quand je me suis marié, j’avais sur la tête un bonnet de papier pour toute fortune et mes deux bras, j’étais un pauvre Ours ;
+
+[',', 'le', '(', 'on', 'à']	Finot	Si l’on se joue de vous, comment ferez-vous ? dit [MASK] en terminant. Si quelque ministre, croyant vous avoir attaché par le licou de votre apostasie, ne vous redoute plus et vous envoie promener, ne vous faudra-t-il pas lui lancer quelques chiens pour le mordre aux mollets
+
+['il', 'on', 'elle', 'Il', 'On']	Octavie	Cette excellente femme était supposée incapable d’écrire un billet, elle devait être purement et simplement l’éditeur responsable d’une audacieuse ambition. Qui pouvait être caché sous cette jupe ? Après quelques observations, [MASK] découvrit que le roi correspondait avec son Ministre. Son plan est fait.
+
+['il', 'jour', 'celui-ci', 'vous', 'roi']	Lucien	; l’âge emporte les fleurs, il ne reste un jour que le tissu ; et, s’il est mauvais, on y voit un haillon. Tant que [MASK] sera jeune, il plaira ; mais, à trente ans, dans quelle position sera-t-il ?
+
+['il', 'je', 'on', 'elle', 'qui']	Braulard	Enfin le théâtre garde ses droits de location. Il y a les jours de beau temps, et de mauvais spectacles. Ainsi, [MASK] gagne peut-être trente mille francs par an sur cet article. Puis il a ses claqueurs, autre industrie.
+
+['homme', 'celui', 'ce', 'ceux', 'un']	Lucien	Je voudrais pouvoir vous donner une voiture tous les jours, dit le pauvre homme.– Allons, monsieur, il est deux heures, dit l’actrice à [MASK] qu’elle vit honteux et qu’elle consola par un geste adorable.
+
+['il', 'et', 'banquier', ',', 'on']	Lucien	Cette nouvelle tentative dura peu, les vingt-cinq francs furent perdus en dix coups. [MASK] jeta rageusement ses derniers vingt-cinq francs sur le chiffre de son âge, et gagna : rien ne peut dépeindre le tremblement de sa main quand il prit le râteau pour retirer les écus que le banquier jeta.
+
+['il', "n'", 'ne', 'se', 'on']	Lucien	En voyant l’insuccès de ses démarches à propos de son premier roman, [MASK] était peu tenté d’en composer un second. D’ailleurs, de quoi vivrait-il pendant le temps de l’écrire ? Il avait épuisé sa dose de patience durant un mois de privations.
+
+['elle', 'et', ',', 'qui', 'se']	Louise	Dans les ténèbres de sa mémoire, [MASK], comparée à ces souveraines, se dessina comme une vieille femme. Il rencontra plusieurs de ces femmes dont on parlera dans l’histoire du dix-neuvième siècle, de qui l’esprit, la beauté, les amours ne seront pas moins célèbres que celles des reines du temps passé.
+
+[',', "l'", 'on', "s'", 'de']	Lucien	Quand il cherchait ses idées, il voyait cette créature adorée, blanche comme une porcelaine, belle de la beauté des mourantes, lui souriant de deux lèvres pâles, lui montrant des yeux brillants comme le sont ceux de toutes les femmes qui succombent autant à la maladie qu’au chagrin. [MASK] envoyait ses articles aux journaux
+
+['et', ',', 'qui', 'en', 'se']	Lucien	dit-il en frémissant de la niaiserie de cette demande.– Oui, elle s’habille, répondit naturellement le mari.[MASK] leva les yeux pour regarder les deux solives saillantes, peintes en gris, et dont les entre-deux étaient plafonnés, sans trouver une phrase de rentrée ;
+
+['il', 'Il', 'et', "n'", 'en']	Lucien	[MASK] éprouva le plus indéfinissable mouvement de bonheur, de vanité satisfaite et d’espérance en se voyant le maître de ces lieux, il ne s’expliquait plus ni comment ni par qui ce coup de baguette avait été frappé.
+
+['un', 'une', 'on', 'elle', 'à']	Anaïs	Mais il ne s’agit pas en ce moment de reconquérir l’amitié d’[MASK], il s’agit de ne pas l’avoir pour ennemie, et je vais vous en donner le moyen. Elle vous a écrit, renvoyez-lui toutes ses lettres, elle sera sensible à ce procédé de gentilhomme
+
+["l'", 'le', ':', 'celui-ci', 'un']	Finot	: – Oui, mais il a des mollets bien monarchiques.– Si ça commence ainsi, je ne vous en demande pas davantage ; tout va bien, dit [MASK]. Cours leur porter cela, dit-il à l’apprenti.
+
+['il', 'chacun', 'tu', 'je', 'alors']	Braulard	À cinquante billets de faveur par soirée à chaque spectacle, tu trouveras deux cent cinquante billets par jour ; si, l’un dans l’autre, ils valent quarante sous, [MASK] paye cent vingt-cinq francs par jour aux auteurs et court la chance d’en gagner autant.
+
+['il', ',', 'et', 'Il', ';']	Dauriat	[MASK] a vendu l’autre tiers trente mille francs à son imprimeur et à son marchand de papier. Il a, lui, son tiers gratis, et gagne dix mille francs, puisque le tout ne lui en coûte que cinquante mille.
+
+['elle', 'elle-même', 'une', 'enfin', 'Annette']	Anaïs	D’abord chacun devait reconnaître dans sa compagne la pauvre parente venue de province, de laquelle peut être affligée toute famille parisienne. Puis sa cousine lui avait parlé toilette en lui manifestant quelque crainte ; elle l’avait rassurée en s’apercevant qu’[MASK], une fois habillée, aurait bientôt pris les manières parisiennes.
+
+['celui-ci', 'tout', 'doucement', 'le', 'apprenti']	Lucien	Quand le maître vit son apprenti fermant la porte à sonnette qui donnait sur la rue, il emmena [MASK] dans la cour, comme si la senteur des papiers, des encriers, des presses et des vieux bois lui eût été insupportable.
+
+['je', 'monsieur', 'madame', 'celle-ci', 'Monsieur']	Lucien	À quelques regards, la bonne fille comprit, d’après l’aveu que [MASK] lui fit de la perte au jeu, quel était le dessein de ce pauvre poète au désespoir : il voulait se pendre.– Êtes-vous fou, monsieur ? dit-elle.
+
+[',', 'où', 'ce', 'à', 'de']	Coralie.–	Mais il a déjà fait bien du chemin en six semaines.– Et quand il ne sera séparé de quelque sceptre que par l’épaisseur d’un cadavre, il pourra se faire un marchepied du corps de [MASK] Vous vous aimez comme au temps de l’âge d’or, dit
+
+['la', "l'", 'moi', 'se', 'ma']	Lucien	À moi, douze cents francs de rente me suffiraient, et mon père doit m’en laisser au moins trois fois autant quelque jour… Je vis par l’amour et par ma pensée !… une vie céleste… Il s’agit de [MASK] et de ma femme ;
+
+['main', 'pièce', 'parti', 'neuf', "l'"]	Marion	Avec un vieux tamis en crin que j’ai pris à [MASK], répondit-il.– Tu n’es donc pas encore content ? demanda-t-elle.– La question n’est pas dans la fabrication, elle est dans le prix de revient de la pâte ;
+
+[',', 'à', 'et', 'se', 'de']	Ève	– Tu n’as pas signé ce billet ?…– Non ! lui dit-il. Ton frère était si pressé, qu’il a signé pour moi…[MASK] rendit le billet au garçon de caisse de la maison Cointet frères en lui disant : –
+
+[',', 'se', 'le', 'et', 'de']	David	[MASK] fut conduit par le geôlier dans celle des chambres qui se trouvait auprès de la voûte, et dont la porte donnait en face de son logement. Le geôlier voulait voisiner avec un homme qui, vu sa position particulière, pouvait lui tenir compagnie.–
+
+['le', 'ce', 'à', 'la', "l'"]	Lucien	lui, plus habile, a donné dans le solide…Le prêtre fit arrêter sa calèche, il voulut, par curiosité, parcourir la petite avenue qui de la route conduisait à la maison et regarda tout avec plus d’intérêt que [MASK] n’en attendait d’un prêtre espagnol.–
+
+['le', ':', "l'", 'moi', 't-il']	Lucien	Nous apportez-vous quelque joli poème ? demanda le sémillant baron en redressant la boucle majeure d’une de ses faces qui lui parut dérangée.– Pour savoir si j’ai réussi, j’aurais dû vous consulter, répondit [MASK]. Vous avez pratiqué la poésie avant moi.– Bah !
+
+['il', 'celui-ci', 't-il', 'Jean', '-il']	Finot	Il fut démontré au nouveau journaliste que là s’élaborait le grand œuvre.– Messieurs, dit [MASK], l’objet de la réunion est l’installation en mon lieu et place de notre cher Lousteau comme rédacteur en chef du journal que je suis obligé de quitter.
+
+['Monsieur', 'on', 'il', 'On', 'Monseigneur']	Lucien	Ce spirituel et mordant article fit la joie des Libéraux et celle du parti de Monsieur ; [MASK] s’en amusa sans y voir autre chose qu’un très-agréable canard. Il alla le lendemain prendre des Lupeaulx et le baron du Châtelet. Le baron venait remercier Sa Grandeur.
+
+['foule', 'population', 'femme', ',', 'et']	Ève	[MASK] épouvantée regardait le magistrat d’un air hébété.– Vous comprenez, dit-il en lui jetant un regard plein de grosse finesse, que nous avons, pour réfléchir à ce qui se passe sous nos yeux, tout le temps pendant lequel nous sommes assis à écouter les plaidoiries de messieurs les avocats.
+
+[',', 'le', "l'", 'la', 'les']	Courtois	! Ah ! le beau domaine que nous aurions, et comme je le gouvernerais ! On dit qu’elle va se marier avec [MASK], son premier garçon, tu vaux encore mieux que lui ! Je mènerais le moulin, tandis qu’elle ferait les beaux bras à Angoulême.–
+
+['rien', 'Rien', 'tout', 'RIEN', '"']	Ève	Rien, rien, [MASK], dit-il en la prenant par la taille, l’attirant à lui, la baisant au front et sur les cheveux, puis sur le cou, avec une effervescence surprenante.– Tu te caches de moi.– Eh ! bien, elle m’aime !
+
+['et', 'il', 'elle', "qu'", 'mais']	Ève	Le pauvre petit ménage ne possédait que trois couverts d’argent, [MASK] les employait tous pour le frère chéri.– Que lis-tu donc là ? dit-elle après avoir mis sur la table un plat qu’elle retira du feu, et après avoir éteint son fourneau mobile en le couvrant de l’étouffoir.
+
+['de', 'à', 'le', 'la', ',']	Petit-Claud	Ces messieurs viendront ici ce soir, et vous verrez si je sais défendre vos intérêts.– Ah ! monsieur, vous me feriez bien plaisir, dit Ève.– Eh ! bien, dit [MASK], à ce soir, ici, sur les sept heures.–
+
+['inconnu', 'il', 'et', ',', 'con']	Lousteau	[MASK] courut au Palais-Royal, y jouer les neuf francs qui lui restèrent sur ses dix francs. Le grand inconnu, quoiqu’il eût une divine maîtresse, alla dans une vile maison suspecte se plonger dans le bourbier des voluptés dangereuses.
+
+['le', '...', ',', 'de', 'à']	Cérizet	Enfin, le jour où le journal sera supprimé, je brûlerai cette lettre devant toi… Ta fortune ne te coûtera pas cher…Les gens du peuple ont des idées très-erronées sur les distinctions légales du faux, et [MASK], qui se voyait déjà sur les bancs de la cour d’assises, respira.–
+
+['il', 'on', ',', 'se', 'et']	Lucien	Cette injustice du sort fut un lien puissant. Puis tous deux étaient arrivés à la poésie par une pente différente. Quoique destiné aux spéculations les plus élevées des sciences naturelles, [MASK] se portait avec ardeur vers la gloire littéraire ;
+
+['vite', 'vivre', 'rentrer', 'peu', 'longtemps']	David	Le geôlier admit bien [MASK] à son foyer, mais il fallut enfin le renfermer, à l’heure du coucher. Le pauvre mari d’Ève connut alors les horreurs de la prison et la grossièreté de ses usages qui le révolta.
+
+['celui-ci', 'M.', 'Pierre', 'celle-ci', 'Paul']	Nathan	?– Les réverbères, dit [MASK] ; mais nous sommes trop modestes pour avoir des craintes, nous ne serons que fêlés.– Vous êtes un peuple trop spirituel pour permettre à un gouvernement de se développer, dit le ministre.
+
+['il', 'Il', ',', 'journaliste', 'et']	Finot	[MASK] sera sollicité par soixante drôles qui, d’ici à deux jours, vont venir lui faire des propositions au rabais. J’ai promis pour toi, tu lui diras non, si tu veux. Tu ne te doutes pas de ton bonheur, reprit le journaliste après une pause.
+
+['il', 'je', 'cela', 'celui-ci', 'Pierre']	Petit-Claud	… dit [MASK], vous me donnez des remords ; mais je crois avoir aujourd’hui tout réparé. Si je suis devenu magistrat, c’est grâce à vous ; et si quelqu’un doit être reconnaissant, c’est moi… Adieu.
+
+['il', 'celui-ci', 'monsieur', 'elle', 'le']	Petit-Claud	Ah ! monsieur, s’écria la belle madame Séchard, je vous en prie, défendez bien nos intérêts, vous avez tout notre avenir entre les mains.– Voulez-vous, madame, dit [MASK], que la conférence ait lieu chez vous ?
+
+['eux', 'nouveau', 'nous', 'lui', 'toujours']	Lucien	Donc, après l’heure de la poésie et du dévouement, après une lecture qui venait de montrer aux deux amis les campagnes littéraires éclairées par un nouveau soleil, l’heure de la politique et des calculs sonnait pour [MASK].
+
+[',', 'le', '...', "l'", 'et']	Vidal	Nous n’achetons d’ailleurs que des livres sérieux, des histoires, des résumés.– Mais mon livre est très-sérieux, il s’agit de peindre sous son vrai jour la lutte des catholiques qui tenaient pour le gouvernement absolu, et des protestants qui voulaient établir la république.– Monsieur [MASK] !
+
+['il', "l'", 'le', 'les', 'chacun']	Lucien	Ce jeune homme y venait sans doute depuis long-temps, les employés et le bibliothécaire lui-même avaient pour lui des complaisances ; le bibliothécaire lui laissait emporter des livres que [MASK] voyait rapporter le lendemain par le studieux inconnu, dans lequel le poète reconnaissait un frère de misère et d’espérance.
+
+['de', 'soi', 'à', 'di', 'le']	Lousteau	[MASK]. Depuis dix mois que j’y suis, le journal est toujours sans copie à huit heures du soir.On nomme, en argot typographique, copie, le manuscrit à composer, sans doute parce que les auteurs sont censés n’envoyer que la copie de leur œuvre.
+
+[',', 'le', 'ta', 'à', 'la']	Fulgence.–	Jamais peut-être la vie ne lui sembla plus belle, mais le mouvement de son amour-propre n’échappa point aux regards profonds de ses amis et à leur délicate sensibilité.– On dirait que tu as peur de nous devoir quelque chose, s’écria [MASK]
+
+["l'", 'tu', 'la', 'ta', 'le']	Florine	? dit-il à une actrice qui se préparait à son entrée en scène en écoutant les acteurs.– Oui, mon amour. Je te remercie de ce que tu as dit de moi. Tu es d’autant plus gentil que [MASK] entrait ici.–
+
+['se', 'il', 'elle', 'ne', 'seulement']	Lucien	!… Ça m’a fait un mal ! Je ne sais pas si [MASK] pourra, dans les circonstances actuelles, aller chez sa sœur ; mais, en tout cas, la petite chambre qu’il occupait ici est libre, et je la lui offre volontiers.–
+
+[',', ';', '...', ':', '....']	Lousteau.–	Vous ne connaissez pas le dévouement et la finesse de ces chères créatures, répondit [MASK] Elles rachètent tous leurs défauts, elles effacent toutes leurs fautes par l’étendue, par l’infini de leur amour quand elles aiment, dit le directeur en continuant.
+
+['on', 'se', 'y', 'On', 'elle']	Lucien	L’aspect, assez triste sur la rue, était intérieurement fort simple : c’était la cour de province, froide et proprette ; une architecture sobre, quasi monastique, bien conservée. [MASK] monta par un vieil escalier à balustres de châtaignier dont les marches cessaient d’être en pierre à partir du premier étage.
+
+['en', 'JE', 'cela', 'mauvais', '-']	Camusot	– Quand ils apprendront que je subis [MASK], ils me mépriseront, se disait-il.– Tiens, lui dit le sauvage républicain avec une affreuse bonhomie, tu pourras être un grand écrivain, mais tu ne seras jamais qu’un petit farceur.Il prit son chapeau et sortit.–
+
+['qui', 'à', 'A', 'EST', 'est']	Lucien	Cette divinisation qui permet d’être deux ici-bas pour sentir, un seul dans le ciel pour aimer, était son absolution. À qui d’ailleurs la beauté surhumaine de [MASK] n’aurait-elle pas servi d’excuse ?
+
+[',', 'il', 'et', 'poète', "d'"]	Lucien	Mais [MASK], né poète, soumis bientôt à d’immenses désirs, se trouva sans force contre les séductions des affiches de spectacle. Le Théâtre-Français, le Vaudeville, les Variétés, l’Opéra-Comique, où il allait au parterre, lui enlevèrent une soixantaine de francs.
+
+['On', 'A', 'ON', 'S', 'a']	Vernou	As-tu maintenant envie de te marier ? [MASK] n’a plus de cœur, le fiel a tout envahi. Aussi est-ce le journaliste par excellence, un tigre à deux mains qui déchire tout, comme si ses plumes avaient la rage.–
+
+['librairie', 'M.', 'Foire', "l'", 'libraire']	Vidal	On nous promet vingt pour cent de remise sur le prix ordinaire de librairie, afin d’organiser un succès.– Hé ! bien, à un an, répondit piteusement l’éditeur foudroyé par la dernière observation confidentielle de [MASK] à Porchon.– Est-ce dit ?
+

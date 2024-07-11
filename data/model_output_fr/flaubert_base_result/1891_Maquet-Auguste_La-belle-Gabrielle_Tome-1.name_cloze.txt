@@ -1,0 +1,200 @@
+[',', 'le', 'la', 'de', 'et']	Crillon	— Croyez-vous ? c'est possible. Moi je croyais que toutes les fois qu'on est certain d'être le plus fort, on devrait s'abstenir de frapper. — Mais … murmura [MASK], contre la force, les faibles ont l'adresse et peuvent battre un fort
+
+['.', '_', '"', 'un', '(']	Pontis	demanda [MASK]. — Celui qui est partout où doit venir mystérieusement le roi, celui qui lui ouvre les portes trop bien fermées, celui qui reçoit les étrivières que mériterait souvent Sa Majesté, enfin celui qui porte les poulets du roi ?
+
+['-', 'il', '</s>', 'elle', 'et']	Pontis	— Je le veux bien. Donne-moi ce billet. [MASK] baissa la tête. — Donne, ou non-seulement tu perdras le poste de confiance que je t'avais fixé ici, mais tu perdras encore ta pique de garde. Je suis ton colonel et je te casse !
+
+['le', 'la', "l'", 'madame', 'm.']	Pontis	. Seulement il ne faut pas oublier de regarder la façade de la maison. On y voit une croix, n'est-il pas vrai ? — Oui, monsieur, dit [MASK]. — Eh bien, cela signifie que nous sommes dans la maison de Dieu.
+
+['il', '-t-il', 't-il', '-il', 'dis-je']	Espérance	— Le vieillard, ajouta [MASK], me demanda ensuite à visiter la chambre de mon gouverneur Spaletta, pour savoir si celui-ci n'aurait pas laissé quelque avertissement de son départ. Mais non, il n'y avait rien.
+
+['rodin', 'elle', 'maurice', 'bussy', 'celui-ci']	Gabrielle	— Vous ne supposez pas un seul instant que vous soyez la dupe de ces moines ? — On voit bien, dit [MASK] en haussant légèrement les épaules, que vous ne connaissez ni le prieur, ni le frère Robert. Me duper ? Et que leur importe ?
+
+['</s>', 'et', 'puis', 'le', '...']	Crillon	. Il me reste à vous demander maintenant, monsieur le chevalier, si mon récit vous a éclairci ce que vous trouviez d'obscur dans mes paroles et si vous comprenez mieux la lettre de ma mère ? [MASK], sans répondre, rouvrit et relut cette lettre :
+
+['la', 'marie', 'marguerite', 'blanche', 'le']	Crillon	— Dites le mot ! s'écria le chevalier. — Coquette ! — C'est faible, grommela [MASK]. — Et je balance…. — Mais non, vous ne balancez même pas, puisque vous continuez à vous rapprocher de la tanière de ces bêtes puantes.
+
+['oui', 'pourquoi', 'comment', 'non', 'quoi']	Gabrielle	Mais si je ne vous aimais pas, il me semble au contraire que je ne serais pas ici. — Aimer, signifie donc affliger ? — Quoi, ma présence vous afflige ? — Aimer signifie donc offenser ? — Je vous offense ? — Aimer signifie donc perdre et déshonorer ? — [MASK] !
+
+['bataille', '-', 'lui', '"', 'paris']	Brissac	. Il trouva le chevalier, riant comme toujours après une prouesse. — Qu'y a-t-il ? demanda [MASK], que le roi suivait de près. — Un Espagnol que je viens de mettre en déroute, comte.
+
+['john', 'george', 'paul', 'robert', 'johnson']	Espérance	— Nous étions résolus, dit-il, à profiter de toutes les occasions pour rendre aux femmes ce qu'elles nous ont fait. — Et d'abord, répliqua [MASK], que t'ont-elles fait, à toi, les femmes ?
+
+['elle', 'il', 'catherine', 'jacques', 'jeanne']	Crillon	— Non pas, c'est une demoiselle ; mais elle n'en est point plus libre. Or, il faut que je prenne toutes les précautions de prudence … et je n'ai pas trop de temps. — Mais … dit [MASK] avec tristesse.
+
+['comte', 'le', 'la', "l'", ',']	Crillon	— Si cela vous amuse de faire un peu de bruit et de me brûler quelques poils de moustache, faites, mon cher comte, dit froidement [MASK], sans chercher à détourner l'arme, vos pistolets renferment de la poudre, peut-être, mais ils n'ont plus de balles certainement.
+
+['-', 't-il', 'dis-je', 'celui-ci', '-t-il']	Pontis	— Et s'il est aussi rare que les paroles du frère parleur, ajouta [MASK], je n'ai pas de chance d'y goûter jamais. Quelle singulière idée a-t-on eue, dans le couvent, d'appeler parleur un homme qui n'ouvre jamais la bouche !
+
+['un', 'une', 'hélène', 'apollon', 'hippolyte']	Espérance	Déjà le soleil en dorait les facettes et y allumait ses feux prismatiques, lorsque le frère parleur versa lentement dans le cristal un vin jauni, velouté, qui changea l'opale en rubis, et embrassa de ses reflets les lèvres d'[MASK], à qui on présenta le verre.
+
+['celui-ci', 'le', 'rodin', 'dit-il', 'la']	Rosny	— Voilà ce qu'il me faut, murmura-t-il avec un fauve sourire. — Qu'y a-t-il ? demanda [MASK], devant qui s'ouvrirent les rangs. Et il attacha son regard pénétrant sur ce visage décomposé par toutes les mauvaises passions de l'humanité.
+
+['temps', '...', 'midi', 'dieu', 'travail']	Pontis	… Tu l'as vue ? — Avec quatre Espagnols, deux gentilshommes, son écuyer et un petit jeune homme inconnu. Soyons sur nos gardes, sire, en attendant le retour de [MASK] et notre renfort. — Voudrait-il se venger ainsi de mon ingratitude !
+
+['</s>', '-', 'il', 'elle', '"']	Henriette	— Voudriez-vous épouser quelqu'un ? — Si ce n'est moi qui le veux, c'est peut-être ma famille. [MASK] prononça cette réponse avec tant de sécheresse et d'orgueilleuse provocation, que le jeune homme se sentit mordu au coeur.
+
+['ceci', 'aussi', 'ce', 'ci-dessous', ':']	Pontis	— Je ferais bien un marché avec le frère parleur, dit [MASK] : un verre de mon sang pour un verre de ce généreux nectar ! — Le vin est plus vieux que votre sang, mon frère, répondit un des religieux en souriant de voir le garde promener sa langue sur ses lèvres
+
+['hélène', 'autrui', 'andré', 'henriette', 'alice']	Henri	Le roi prononça ces paroles avec un coeur brisé, les larmes roulaient dans ses yeux. Le frère parleur se retourna furtivement, et surprit sur le visage d'[MASK] cette loyale et glorieuse émotion ; puis, baissant de nouveau la tête, il répondit d'une voix entrecoupée :
+
+[',', '(', ';', '-', '"']	Pontis	— Comment, une armée ? s'écria le chevalier, tandis que le roi attentif prêtait l'oreille et se rapprochait de la porte pour mieux entendre. — Monsieur, continua [MASK], j'ai compté au moins quatre-vingts cavaliers, marchant par petits groupes sur le bord de la rivière
+
+['il', ',', 'et', 'ce', 'qui']	Henri	[MASK] n'eut pas un long chemin à faire. Au bout du corridor, il trouva un petit degré particulier, lequel aboutissait à l'appartement du prieur, précédé d'un vestibule. L'enfant poussa la porte d'une grande chambre dont les contrevents étaient soigneusement fermés ;
+
+['jacques', 'celui-ci', 'henri', 'georges', 'paul']	Crillon	à force, dis-je, de considérer ma mère comme fabuleuse et chimérique, j'ai senti s'éteindre peu à peu le foyer d'affection qu'un seul mot délicat d'allusion eût entretenu en moi. — Seriez-vous devenu méchant ? dit [MASK], pris d'un douloureux serrement de coeur.
+
+['dieu', 'maman', 'elle', 'jacques', 'il']	Crillon	tu me seras d'ailleurs fort utile. — Ah ! dit [MASK], à quoi donc, bon Dieu ? — A dissiper les soupçons d'un père intraitable. — Le père Estrées ? En effet, c'est un homme plein de volonté, un honnête homme.
+
+[',', 'et', '"', ')', '...']	Pontis	— Ah ! s'écria [MASK], enfin ! — Eh bien ! quoi ; tu as bu et tu t'es jeté par terre. — J'ai bu, oui, et j'ai vu aussi. — Quoi vu ? — Deux hommes à cheval, vous avez dû les voir passer ?
+
+['.', 'le', '-', '!', ',']	Crillon	— Une Saint-Barthélémy, si tu veux, dit [MASK]. Le garde s'inclina sans répondre et s'alla placer au poste indiqué par le colonel. Son épée flamboya aux reflets pourprés qui embrasaient la fenêtre du corridor. — Que prétends-tu faire ?
+
+['part', 'paul', 'pierre', 'celui-ci', 'lui-même']	Crillon	Le moine rentra. — La permission est accordée, dit-il à [MASK], et le cavalier que vous attendez peut entrer. Vous plaît-il qu'on l'amène ici, mon cher frère ? — Non pas, non ; dans ma chambre, si vous le voulez bien.
+
+['je', 'et', ',', 'le', 'il']	Gabrielle	Il n'y a là-dedans et il ne peut y avoir qu'un seul article pour éviter tout ambage et toute fraude. -Oh ! sire, faites le traité en prince, en gentilhomme, en honnête homme ! — Je le veux ainsi, [MASK].
+
+['maurice', 'jeanne', 'celui-ci', 'robert', 'paul']	Henriette	Celui-là, je vous le garantis, mais celui-là seul. Je ne puis m'engager pour les autres. — Que prétendez-vous dire ? s'écria [MASK] avec un serrement de coeur qui retira de son visage le peu de sang que cette discussion y avait laissé.
+
+['robert', 'jacques', 'henri', 'celui-ci', 'maurice']	Crillon	je suis heureux, bien heureux, le plus heureux des hommes ! — Sire, répliqua [MASK] palpitant de bonheur, il ne faut jamais dire cela. On ne sait pas ce qui se passe dans le coeur des autres. — Est-ce pour toi que tu parles ?
+
+['il', 'qui', ',', 'elle', 'et']	Crillon	[MASK] aida le roi à monter a cheval et le vit s'éloigner rapidement. Il s'apprêtait à partir lui-même, lorsque sur la route, en arrière, au loin, il entendit retentir un galop rapide. — Serait-ce l'Espagnol qui reviendrait avec du renfort ?
+
+['mer', 'jupiter', 'la', 'shakespeare', 'pharaon']	Tisiphone	Ses cheveux tordus, prêts à se dénouer, semblaient siffler comme les serpents de [MASK]. — Vous vous oubliez, mon maître ! murmura-t-elle avec un accent farouche. Croyez-vous donc qu'il ne vous reste plus assez de cou pour qu'on vous pende ?
+
+['il', 'et', ',', "s'", 'elle']	Pontis	[MASK] élevait en l'air sur ses deux mains un plat de terre d'une honorable dimension. Il tenait sous son bras, par un miracle d'équilibre, un pain de plusieurs livres ; deux canards et des pigeons étranglés pendaient en sautoir à son col.
+
+['elle', 'elle-même', 'une', 'eux', 'elles']	Henriette	Il détacha son épée, la posa sur un meuble près du balcon, et s'agenouilla près d'[MASK], accoudée sur le bras de sa chaise. Alors il attacha sur la jeune fille son regard profond dans lequel se reflétait toute son âme.
+
+['alice', 'henriette', 'arthur', 'albert', 'eugénie']	Espérance	La Ramée fit un mouvement qui trahit toute son inquiétude. — Et, quand j'aurais rapporté une bague, dit-il, en attachant un regard effaré sur la physionomie calme et sereine d'[MASK], en quoi cela me ferait-il pendre, comme vous dites ?
+
+['john', 'tom', 'robert', 'le', 'joe']	Espérance	— C'est que, monsieur, répliqua [MASK], pour aller où je vais, je ne puis prendre de valet ni d'escorte. Il ne manquerait plus que d'emmener des trompettes, et de faire sonner fanfares.
+
+['la', 'vous', "l'", 'domicile', '(']	Pontis	Celui-ci frisa ses rubans jonquille, celui-là reprit sa contemplation en murmurant : — Oh ! non, ce n'est pas les nuages que je regarde. — Quoi donc, alors ? dirent ensemble plusieurs compagnons qui se soulevèrent à demi autour de [MASK].
+
+['femme', '"', 'oui', 'non', 'moi']	Sambioux	tu me fais mal à la tête, elle est vide, ma tête, vois-tu, puisque par crainte de la fièvre, mes chirurgiens me refusent à manger. — Ils ont raison. Fuyons la fièvre comme nous fuirions une femme. La fièvre est femme ! [MASK] !
+
+['</s>', 'il', 'bonaparte', '-', 'napoléon']	Rosny	— Nous ne demandons pas mieux, monsieur ; mais fermez-nous la bouche. Et le cadet compléta sa phrase par une pantomime à l'usage de toutes les nations qui ont faim. [MASK] haussa les épaules et passa outre.
+
+['"', ':', 'pas', 'm', 'tout']	Rosny	J'habite avec ma famille le château que vous apercevez au bas de la colline, dans ces arbres à droite. Mon père est au lit, blessé. — Blessé ? interrompit [MASK]. Est-ce un soldat du roi ? Le jeune homme rougit à cette question.
+
+['iv', 'ii', 'iii', 'il', 'qui']	Chicot	[MASK] avait l'habitude de cette grande et splendide existence du roi Henri III. Le lit d'Henri IV était dur, sa vaisselle d'argent était souvent mise en gage et remplacée par des écuelles de terre chichement garnies.
+
+[',', 'celui-ci', 'celle-ci', 'jésus', 'jésus-christ']	Crillon	Il atteignit bientôt la chambre désignée, s'y enferma, et presque aussitôt vit entrer [MASK] par une autre porte donnant sur le corridor. — Sire ! comme vous êtes pâle ! s'écria le chevalier. Est-ce que vous savez déjà son arrivée en cette maison ?
+
+['il', 'elle', 'on', 'lui-même', 'celui-ci']	Rosny	— Eh ! eh !… jeune homme, répliqua le petit porte-poulets, c'est la mort. La Ramée avait déjà inspecté une bonne partie des gardes sans rien signaler, lorsqu'il s'arrêta tout à coup, comme [MASK] venait de le dire au capitaine.
+
+['bussy', 'jeanne', ',', 'catherine', 'marguerite']	Crillon	C'est une terrible jouteuse celle-là ! — Le feu roi en sut quelque chose, dit [MASK] avec un accent pénétré. — C'est une femme boiteuse qui fait de bien grands pas lorsqu'il le faut. — C'est votre ennemie mortelle, sire.
+
+['espérance', 'amour', 'père', 'espoir', 'joseph']	Pontis	Ces deux derniers étaient encore en face l'un de l'autre, les mains entrelacées ; [MASK], remerciant avec la chaleur d'un coeur généreux qui aime à exagérer le service rendu ; Espérance, se défendant avec la simplicité d'une belle âme qui craint d'être trop remerciée.
+
+['-', ';', ')', ':', 't-il']	Crillon	s'écria [MASK], vous voilà bien, vous autres gens de robe, qui vous croyez soldats parce que vous nous regardez faire la guerre. Donner un homme au prévôt parce qu'il a pris des canards…. — Et brûlé … interrompit
+
+['me', 'monsieur', 'vous', 'madame', 'cela']	Spaletta	et toute cette maigre dépense !… Combien de gens avez-vous pour votre service ? Vous thésaurisez donc ? — J'ai une femme de charge qui dirige la cuisinière et un laquais. Encore [MASK] trouvait-il l'entretien de tout cela bien cher, et il avait raison.
+
+['"', '</s>', '-', '...', '--']	Espérance	Le roi est tout entier aux préparatifs de son abjuration. Si j'allais être mariée pendant son absence ! pauvre prince ! [MASK] étouffa un soupir, — Que ne résistez-vous ? dit-il. — Je l'ai tenté, mais la lutte m'a brisée.
+
+['</s>', '-', '"', '...', '!']	Sambioux	— Quand je vous disais qu'il dînerait encore aujourd'hui ! [MASK] ; s'écria-t-il, que la paix est une sotte chose pour les gens qui n'ont pas de maître d'hôtel ! En guerre, au moins, l'on chasse et l'on pille ;
+
+['madame', 'monsieur', 'dit-elle', 'sire', 'mademoiselle']	Gabrielle	Quant à vous reprendre, qu'on y vienne, lorsque je vous aurai prise ! Vous le voyez donc, [MASK], c'est de vous seule que vous dépendez. C'est à vous seule qu'il faudra rapporter les malheurs que vous voyez dans l'avenir.
+
+['davantage', 'encore', 'plus', 'personne', 'assez']	Espérance	Je me connais en blessures, et j'en ai vu, je devrais dire j'en ai eu, de plus cruelles. Aujourd'hui, mon vieux cuir n'y résisterait pas, mais quand on a votre âge, on est vraiment immortel. Cette superbe exagération ne rassura point [MASK] ;
+
+['catherine', 'robert', 'celui-ci', 'valentine', 'olivier']	Espérance	Il s'agitait sur son cheval de façon à inquiéter sérieusement la pauvre bête, qui connaissait la calme et ferme assiette de ce modèle des cavaliers. — Monsieur, s'écria [MASK], ne croyez pas que je vous laisserai aller seul ainsi ! — Et pourquoi non ?
+
+['.', 'le', ':', 'henri', 'vivement']	Robert	Je le fis panser, soigner par de bons chirurgiens. — Chez vous ?… dans votre tente, n'est-ce pas ? monsieur le chevalier, demanda [MASK]. — Dans ma tente … dit le roi embarrassé, je n'en avais pas toujours.
+
+['et', 'elle', 'il', 'tout', 'on']	Crillon	— Je n'aime pas les chambres de couvent, celles qu'on destine aux visiteurs surtout ; elles ont toujours quelque cachette bourrée d'espions, ou quelque soupirail qui conduit la voix en des endroits où elle ne devrait point aller. Parlons bas. [MASK] se rapprocha.
+
+['-', '...', 'et', 'si', 'combien']	Dom	— Juron, blasphème ; péché mortel. — [MASK] Modeste !… — Je sers le Seigneur ! vous l'offensez, tant pis pour vous. — Encore une fois ! s'écria la duchesse ivre de rage, vous prêchez, mauvais moine, et vous ne répondez pas !
+
+['il', 'elle', 'tout', 'qui', 'on']	Pontis	[MASK] allait s'écrier, gesticuler, Espérance lui saisit les bras. — Je sais ce que tu vas dire, je vois les mots s'arranger sur tes lèvres : Ce brave bossu est sur le point d'épouser une femme, et on le trompe. — Précisément.
+
+['le', 'la', "l'", 'm.', 'madame']	Pontis	nous sommes sur les terres de Sa Majesté. — Dirai-je très-chrétienne ? demanda un autre d'un ton goguenard. — Pas encore mais bientôt, j'espère, dit vivement [MASK]. Le roi nous fait mourir de faim parce qu'il n'est pas catholique.
+
+[',', 'et', '"', '(', "qu'"]	Crillon	Fouler le pauvre peuple, c'est défendu. — Monsieur, j'avais faim, et ce n'est pas le pauvre peuple que je mettais à contribution, mais un riche gentilhomme qui eût dû m'offrir à dîner. — Ah ! où est-il, ce gentilhomme ? demanda [MASK].
+
+[',', 'qui', 'il', '"', 'et']	Crillon	[MASK] fit un soubresaut qui n'annonçait pas un grand respect pour la teneur de l'article. — Par les armes ! dit-il. Pour des poulets ! — Pour des canards, monsieur ; et voyez, le prévôt m'avait déjà saisi. — Qui a ordonné cela ?
+
+['elle', "c'", 'qui', 'on', 'il']	Marie	[MASK] est dans un couvent. Destinée à faire profession, elle n'a plus besoin de s'intéresser aux choses de ce monde. D'ailleurs, c'est une enfant qui ne se souvient plus. — Elle a peut-être confié ses chagrins à sa soeur Henriette.
+
+['jeanne', 'catherine', 'louise', 'pierre', 'marie']	Espérance	puis il dit à [MASK] : — Je crois que je la comprends. — S'il y avait quelque chose qui m'intéressât et qui pût me satisfaire à mon tour, serait-il indiscret de vous interroger ? — Je ne sais trop encore.
+
+['bussy', 'jeanne', 'maurice', 'robert', 'henri']	Espérance	— Non, monsieur, Dieu merci, car ma maîtresse est adorable. — Cependant, vous la quittez pour moi. — Eh bien, non, dit [MASK] avec enjouement ; non, monsieur le chevalier, je n'ai pas même cette bonne action à compter.
+
+['on', 'il', 'elle', 'chacun', 'napoléon']	Brissac	Évidemment elle ne devait pas être flatteuse, la première parole de celui dont [MASK] venait de menacer ainsi la liberté, la fortune, peut-être la vie, et qui tenait à son tour dans ses mains le sort de son imprudent adversaire. Le comte salua profondément.
+
+['moi', 'et', 'non', 'oui', 'je']	Gabrielle	Ayez de la volonté pour moi, [MASK], et j'aurai de la force pour nous deux ! Ce n'est pas moi qui vous perds, c'est vous-même ! Aidez-vous, je vous aiderai ! Quant à vous reprendre, qu'on y vienne, lorsque je vous aurai prise !
+
+['m.', 'monseigneur', 'monsieur', 'mgr', 'feu']	M.	— C'est parce que je veux le servir, fut-il répondu. — Je ne crois pas, mon père. Le capuchon fit un mouvement. — D'où vient ce soupçon ? — Du lit de [MASK] le cardinal de Guise, que j'ai vu en cette maison.
+
+['moi', 'lui', 'vous', 'nous', 'toi']	Pontis	Ni [MASK], ni le capitaine ne feignirent d'avoir entendu. Celui-ci frisa ses rubans jonquille, celui-là reprit sa contemplation en murmurant : — Oh ! non, ce n'est pas les nuages que je regarde. — Quoi donc, alors ?
+
+['jésus', 'la', 'guerre', 'tous', 'secours']	Brissac	Il avait certaine tournure martiale qui semblait justifier l'exclamation de [MASK]. D'ailleurs cet homme venait droit au gouverneur qui, de son côté, bâta le pas pour l'aborder : il était impatient d'avoir des nouvelles. Lorsqu'ils furent tous deux en présence :
+
+[',', 'et', 'qui', 'il', 'on']	Gabrielle	[MASK] repoussa tristement le gâteau et les cerises. — Il faut chercher, dit-elle. Gratienne ! — Mademoiselle ? — Mène-moi dans le bateau jusqu'à la maison. Là certainement on trouvera des provisions. — Non ! non ! s'écria
+
+['bussy', 'robert', 'henri', 'celui-ci', 'maurice']	Crillon	Le moine s'inclina sans répondre et descendit par un escalier voisin. — Mais, sire, dit [MASK], quand ils verront que ce n'est pas moi. — Il sera trop tard pour s'en dédire.— Envoyez votre garde où vous savez.
+
+['napoléon', 'paris', 'madrid', 'jeanne', 'm']	Argus	sa correspondance n'avait pour ainsi dire plus de cachets, sa maison pour ainsi dire plus de portes ; il ne sortait qu'accompagné, annonçant toujours le but de chaque sortie, parlait espagnol et pensait en français. Il croyait pouvoir se flatter d'avoir endormi [MASK].
+
+['le', "l'", 'un', 'son', 'la']	Crillon	Le chirurgien, sans dire un mot, acheva sa tâche, remit tout en ordre autour de lui, et il fût sorti de la chambre, si [MASK], impatient, ne l'eût arrêté en lui disant avec un visage riant :
+
+['monsieur', 'madame', 'messieurs', 'sire', 'seigneur']	Gabrielle	Je vous jure, [MASK], que votre salut et le mien ne sont pas en danger…. — Ce n'est pas l'avis de tout le monde, sire. — Ah ! qui donc vous a donné son avis ? — Un bien saint homme….
+
+['personne', '</s>', 'on', 'cela', 'rien']	Gabrielle	voyant que [MASK] n'avait pas encore osé s'approcher : — Mademoiselle, dit-il, veuillez vous asseoir, on vous verra moins que si vous demeuriez debout. Je vous prie de m'excuser si je ne vais à vous ;
+
+['albert', 'henriette', 'alice', 'annette', 'arthur']	Espérance	— Ah ! monsieur, murmura une si douce voix qu'elle pénétra jusqu'au coeur d'[MASK], c'est donc vous qui voulez m'avertir d'un danger ? Vous vous intéressez donc à une pauvre jeune fille sans défense ? Votre secours imprévu m'a donné bien du courage.
+
+['je', 'on', 'il', '</s>', 'et']	Henriette	Voilà pourquoi, madame, je me suis caché. Mademoiselle devait me croire parti … Mon stratagème a réussi en dépit de mademoiselle, puisque j'ai été assez heureux pour déposer à vos pieds ces sincères explications. [MASK] respira ;
+
+['</s>', 'il', 'elle', '-', '"']	Pontis	Conduite irréprochable en ce couvent. Obéissance aux ordres du prieur, qui est, dit-on, un grand esprit et un bon coeur. [MASK] s'inclina encore. — Est-ce tout, monsieur ? — Ah !… une seule bouteille de vin par jour.
+
+['robert', 'henri', 'jeanne', 'jacques', 'jean']	Pontis	— Si le roi se convertit à la messe, s'écria un huguenot, je quitte son service. — Et moi, répliqua [MASK], je le quitte s'il ne se convertit pas…. — Ventre du pape ! s'écria le huguenot en se levant à moitié.
+
+['chacun', 'il', 'elle', '</s>', 'on']	Henriette	Ce cheval qui broutait derrière le mur avait pour maître Espérance, qui, arrivé au moment même où huit heures sonnaient à Deuil, s'était mis tout joyeux à reconnaître la place. Les amants sont d'excellents topographes, [MASK] avait décrit parfaitement son pavillon et tous les alentours.
+
+['il', 'on', 'elle', "l'", 'et']	Crillon	Les échafaudages gigantesques, les grues avec leurs bras noirs se profilaient bizarrement sur le ciel, et par delà ces entassements de charpente et de marbre qui noircissaient de leur masse opaque une immense étendue du canal, on apercevait les eaux diaprées d'argent de la haute lagune. La musique continuait. [MASK] écoutait toujours.
+
+['le', ',', 'les', 'la', ':']	Espérance	— Pourquoi me prives-tu d'air et de soleil ? dit [MASK]. — Tiens, c'est vrai. Eh bien, c'est encore la faute de ces enragées créatures. — Là ! là ! ne crie pas si haut ;
+
+['il', 'chacun', 'celui-ci', '</s>', 'jean']	Espérance	Nous l'avons dit, l'ombre descendait sous les feuilles touffues. [MASK] promena un long regard autour de lui, ne vit que des paysans cheminant bien loin vers leurs chaumières, et sauta en bas de son cheval. La pauvre bête attendait ce moment avec impatience.
+
+['moi', 'dieu', 'ce', 'cet', 'mon']	Arnaud	— Pardonnez à [MASK], qui est un honnête homme, je le sais mieux que personne, et gardez-le près de vous ; il nous servira d'intermédiaire chaque fois que vous voudrez communiquer avec moi, ce qui, à partir d'aujourd'hui, va se répéter fréquemment.
+
+[',', '...', '!', 'ah', '(']	Gabrielle	[MASK] !… — Mon roi, vous m'affligez, vous m'offensez, vous me perdez, en effet, par votre présence. — Voilà bien de grands mots, chère belle. — Plus graves encore sont les choses. .. Causons, et la main sur le coeur.
+
+['catherine', 'il', 'henriette', 'jane', 'valentine']	Crillon	— Je ne vous accuse pas, jeune homme, tant s'en faut, repartit [MASK] avec la même bienveillance ; mais j'ai besoin de comprendre tout à fait les choses, un peu obscures pour moi, qui sont renfermées dans cette lettre, et je vous demanderai…
+
+['devenue', 'la', 'une', 'de', 'restée']	Jézabel	— Par les chiens ; c'est ce que je venais vous dire. Et puisque je suis [MASK], qui était reine, songez-y bien ! nommez-moi les chiens qui me dévorent toute vivante. Mort de ma vie ! — Juron, blasphème ; péché mortel.
+
+['celui-ci', 'robert', 'john', 'catherine', 'valentine']	Espérance	C'était un voyage à entreprendre qui, je l'avoue, m'eût gêné beaucoup en ce temps-là. — Quelque amourette vous occupait, sans doute ? — Oui, monsieur, répliqua [MASK] en souriant de la plus charmante façon. Je vous supplie de me pardonner.
+
+['elle', 'dieu', 'paul', 'il', 'marie']	Espérance	— Vous ne serez pas perdue cependant pour m'aimer, dit [MASK], et près de moi vous n'avez à craindre ni la pauvreté, ni le déshonneur ! — Vous ne connaissez pas vos parents, dit la jeune fille avec une hypocrite douceur ;
+
+['john', 'robert', 'johnson', 'jacques', 'harry']	Rosny	— La loi est la loi, répliqua [MASK], et vous avez tort de vous mettre au-dessus. Les esprits, échauffés par votre faiblesse d'aujourd'hui, ne sauront plus se retenir une autre fois, et au lieu d'un homme qu'il fallait sacrifier à l'exemple, vous en sacrifiez dix.
+
+['le', ',', ':', 'pierre', 'robert']	Rosny	— Il y a, monsieur, répondit le jeune homme, que je viens ici demander vengeance. — Commencez par jeter votre couteau ! dit [MASK]. Allons, jetez-le ! Deux gardes saisissant brusquement les poignets de cet homme, le désarmèrent. Il ne sourcilla point.
+
+['non', 'ah', 'oh', '"', '!']	Harnibieu	L'affaire vous regarde ! Qu'est-ce que cela signifie ? — Que je rendrai un coup d'épée pour un coup de couteau. — [MASK] ! si je savais cela, je serais capable de vous laisser crever tout seul dans votre coin comme un cheval teigneux !
+
+['il', 'elle', 'maurice', 'tristan', 'marie']	Crillon	Courons ! L'homme que [MASK] avait vu descendre vers la rivière se retourna au bruit des pas du chevalier, et comme si l'aspect d'une créature humaine lui eût rendu quelque courage, il se mit à crier : — Au secours ! au secours !
+
+['</s>', 'il', 'elle', '"', 'le']	Henriette	Quant à l'objet de la combinaison, il n'était pas là ; inutile de la ménager. [MASK] venait de se faire excuser près de sa mère de ne pas paraître au souper. Fatiguée, disait-elle, elle préférait se reposer seule dans sa chambre ;
+
+['seigneur', 'lui', 'nous', 'moi', 'vous']	Zamet	— C'est plutôt lui, dit-il, qui nous offrirait quelque chose. Savez-vous que le compagnon est seigneur comme [MASK], non pas de dix-sept cent mille écus, mais de vingt-quatre mille par chaque année ! — Vingt-quatre mille écus de rente !
+
+['il', 'et', ',', 'qui', 'cavalier']	Crillon	[MASK] poussa son cheval vers le quadrupède fringant et libre. Il l'appela par son nom sur des tons affectueux et impérieux tout ensemble, qui rappelèrent l'indépendante créature aux leçons de discipline qu'elle avait reçues trop souvent.
+
+['jeanne', 'jean', 'charles', 'catherine', 'jacques']	Crillon	— Harnibieu ! s'écria [MASK] en se frappant le front d'un coup si brusque que le cheval en fit un écart. Ah ! malheureux que nous sommes … oui… c'est cela !… — Vous auriez deviné ?
+
+['ah', 'oh', 'dieu', 'hélas', 'eh']	Harnibieu	— [MASK] ! dit-il, je suis un maroufle. — Eh quoi ! — Un bélître, un boeuf. J'allais dire un cheval ; mais c'est une bête trop sensée pour être comparée à un animal de mon espèce.
+
+['la', 'le', '.', 'vivement', "l'"]	Espérance	— Qu'est-ce que c'est qu'un frère parleur ? dit-il, le savez-vous ? — Non, monsieur, répliqua le garde. Tous deux regardèrent [MASK]. — Ni moi, murmura celui-ci. Le moine revint presque aussitôt.
+
+['</s>', 'elle', 'je', 'il', '"']	Crillon	Il y a au bas de la lettre de ma mère certain espace blanc, certain anonyme qui me dispose très-fort à l'indulgence chrétienne envers les enfants illégitimes. [MASK] rougit, et sa conscience acheva de donner raison au jeune homme.
+
+['-', '</s>', '"', 'il', '...']	Espérance	— Et, par conséquent, il y a six mois que vous gardez cette lettre qui m'était destinée ; vous n'avez eu guère de hâte ! [MASK] rougit. — Ai-je mal fait ? demanda-t-il. Je ne me suis pas cru pressé.
+
+['il', "c'", "qu'", 'qui', 'tout']	Pontis	Celui-ci promena ses regards dans la chambre comme quelqu'un qui cherche. — Je ne vois pas, dit-il, votre aimable compagnon, mon cher frère ? — [MASK] est sorti, mon cher frère, répliqua
+

@@ -1,0 +1,200 @@
+['</s>', "c'", 'cela', "--c'", 'ceci']	Marius	Être entre deux religions, l’une dont on n’est pas encore sorti, l’autre où l’on n’est pas encore entré, cela est insupportable ; et ces crépuscules ne plaisent qu’aux âmes chauves-souris. [MASK] était une prunelle franche, et il lui fallait de la vraie lumière.
+
+['qui', 'quoi', 'soi', 'dire', 'nous']	Corneille	l’effort vers la délivrance n’est pas moins surprenant que le coup d’aile vers le sublime ; et l’on dit d’un voleur évadé : Comment a-t-il fait pour escalader ce toit ? de même qu’on dit de [MASK] : Où a-t-il trouvé
+
+['</s>', 'il', 'elle', 'on', "j'"]	Fauchelevent	S’approcher de ceux qui sont sains et les toucher dans l’ombre avec son ulcère invisible, c’est hideux. [MASK] a eu beau me prêter son nom, je n’ai pas le droit de m’en servir ; il a pu me le donner, je n’ai pas pu le prendre.
+
+['marie', 'chacun', 'maman', 'elle', 'jeanne']	Fantine	On fit jaser au cabaret l’écrivain public, vieux bonhomme qui ne pouvait pas emplir son estomac de vin rouge sans vider sa poche aux secrets. Bref, on sut que [MASK] avait un enfant. « Ce devait être une espèce de fille. »
+
+['il', 'lui-même', 'chateaubriand', 'lui', 'napoléon']	Javert	Ce sont des vertus qui ont un vice, l’erreur. L’impitoyable joie honnête d’un fanatique en pleine atrocité conserve on ne sait quel rayonnement lugubrement vénérable. Sans qu’il s’en doutât, [MASK], dans son bonheur formidable, était à plaindre comme tout ignorant qui triomphe.
+
+['ce', 'il', 'qui', 'et', 'elle']	Marius	Pour ces recherches, [MASK] fut quatre jours hors de la maison.— Décidément, dit le grand-père, il se dérange.On avait cru remarquer qu’il portait sur sa poitrine et sous sa chemise quelque chose qui était attaché à son cou par un ruban noir.
+
+['il', 'on', 'qui', 'elle', ',']	Marius	[MASK] avait donné sa clef à l’inspecteur de police ; il était donc important qu’il se hâtât.Le soir était venu ; la nuit était à peu près fermée ; il n’y avait plus, sur l’horizon et dans l’immensité, qu’un point éclairé par le soleil, c’était la lune.
+
+['je', 'dieu', 'tu', "j'", 'moi']	Jésus	Je puis les rencontrer. Eux aussi doivent avoir besoin qu’on leur parle du bon Dieu.— Monseigneur ! mais c’est une bande ! c’est un troupeau de loups !— Monsieur le maire, c’est peut-être précisément de ce troupeau que [MASK] me fait le pasteur.
+
+['tout', 'il', 'on', 'cela', 'elle']	Fantine	Comme l’exactitude était de la bonté, il était exact.Vers deux heures et demie, [MASK] commença à s’agiter. Dans l’espace de vingt minutes, elle demanda plus de dix fois à la religieuse :— Ma sœur, quelle heure est-il ?
+
+["s'", 'il', 'et', ',', "l'"]	Javert	[MASK] avança lentement, sondant et fouillant sur son passage tous les recoins de la rue comme les poches d’un voleur.Quand il arriva au centre de sa toile, il n’y trouva plus la mouche.On imagine son exaspération.
+
+['</s>', '_', '"', 'il', '--']	Marius	Non, dit-elle, cela m’embarrasserait, j’ai les deux chaises à porter. Il fait clair de lune.[MASK] entendit la lourde main de la mère Jondrette chercher en tâtonnant sa clef dans l’obscurité. La porte s’ouvrit.
+
+['</s>', 'qui', 'il', 'elle', "qu'"]	Marius	il frappait à la porte du tombeau, une main dans l’ombre lui en tendait la clef. Ces lugubres ouvertures qui se font dans les ténèbres devant le désespoir sont tentantes, [MASK] écarta la grille qui l’avait tant de fois laissé passer, sortit du jardin et dit : allons
+
+['</s>', 'il', 'et', 'elle', 'on']	Jean	Il faisait ce qu’il pouvait. Sa sœur travaillait de son côté, mais que faire avec sept petits enfants ? C’était un triste groupe que la misère enveloppa et étreignit peu à peu. Il arriva qu’un hiver fut rude. [MASK] n’eut pas d’ouvrage.
+
+['</s>', 'il', 'je', 'elle', 'qui']	Javert	; c’est le mouvement obscur de la bête emprisonnée dans leur tenaille. Quel délice que cet étouffement ![MASK] jouissait. Les mailles de son filet étaient solidement attachées. Il était sûr du succès ; il n’avait plus maintenant qu’à fermer la main.
+
+['jean', 'jacques', 'celui', 'jeanne', 'julien']	Gavroche	— Quoi ?— Un boulet de canon.— Le voici, dit le soldat.Et il ramassa quelque chose qui roulait à terre. C’était un caillou.Le perruquier courut à la vitre brisée et vit [MASK] qui s’enfuyait à toutes jambes vers le marché Saint-Jean.
+
+['venez', 'oui', 'allons', 'monsieur', 'viens']	Momacques	Voilà grand’chose. Est-ce qu’on pleure pour ça ? Sont-ils serins donc !Et prenant, à travers sa supériorité un peu goguenarde, un accent d’autorité attendrie et de protection douce :— [MASK], venez avec moi.— Oui, monsieur, fit l’aîné.
+
+['chacun', '</s>', 'travail', 'famille', 'qui']	Marius	Sans qu’elle sût elle-même pourquoi, et sans qu’il y ait à l’en accuser, son âme était tellement devenue celle de son mari, que ce qui se couvrait d’ombre dans la pensée de [MASK] s’obscurcissait dans la sienne.N’allons pas trop loin cependant
+
+['elle', 'il', 'alice', 'lucy', 'claire']	Fantine	Le postillon fouettait les chevaux. Ils avaient passé la rivière et laissé derrière eux Mont-Saint-Éloy.La nuit devenait de plus en plus profonde.Cependant, en ce moment-là même, [MASK] était dans la joie.Elle avait passé une très mauvaise nuit.
+
+[',', 'il', 'dieu', 'et', 'paul']	Fauchelevent	Père Fauvent, je vous ai fait appeler.— Me voici, révérende mère.— J’ai à vous parler.— Et moi, de mon côté, dit [MASK] avec une hardiesse dont il avait peur intérieurement, j’ai quelque chose à dire à la très révérende mère.La prieure le
+
+['fer', 'paris', '.', 'st', '...']	Médicis	! pourquoi faire ? Canon, que me veux-tu ? Vous voulez donc mitrailler l’Apollon du Belvédère ? Qu’est-ce que les gargousses ont à faire avec la Vénus de [MASK] ? Oh ! ces jeunes gens d’à présent, tous des chenapans !
+
+["n'", 'lui-même', 'lui', "j'", 'cameron']	Marius	? Ainsi vous voulez vous marier ? à qui ? peut-on sans indiscrétion demander à qui ?Il s’arrêta, et, avant que [MASK] eût eu le temps de répondre, il ajouta violemment :— Ah çà, vous avez un état ? une fortune faite ?
+
+[',', 'et', 'chacun', '-', 'lui-même']	Marius	Il se borna à lui répondre :— Précisez.L’inconnu inséra ses deux mains dans ses deux goussets, releva sa tête sans redresser son épine dorsale, mais en scrutant de son côté [MASK] avec le regard vert de ses lunettes.— Soit, monsieur le baron.
+
+['celui-ci', 'il', 'cela', 'lui-même', 'celle-ci']	Marius	Elles étaient habituellement déchirées, ce qui lui faisait boutonner son habit jusqu’au menton.Pour que [MASK] en vînt à cette situation florissante, il avait fallu des années. Années rudes ; difficiles, les unes à traverser, les autres à gravir.
+
+['se', 'on', 'et', 'il', 'mais']	Bonaparte	Apparence semblable, fond différent ; les Suisses défendent le faux, [MASK] défend le vrai. Ce que le suffrage universel a fait dans sa liberté et dans sa souveraineté, ne peut être défait par la rue. De même dans les choses de pure civilisation ;
+
+['et', 'il', '</s>', 'elle', ',']	Cosette	[MASK] se tourna vers le porte-manteau de la garde-robe où sa défroque de pensionnaire était accrochée.— Ce déguisement ! dit-elle. Père, que voulez-vous que j’en fasse ? Oh ! par exemple, non, je ne remettrai jamais ces horreurs.
+
+['il', 'elle', 'ne', 'qui', 'chacun']	Gavroche	la barricade ne ripostait point.À chaque feu de peloton, [MASK] se gonflait la joue avec sa langue, signe de haut dédain.— C’est bon, disait-il, déchirez de la toile. Nous avons besoin de charpie.
+
+['</s>', ':', '.', ',', 'le']	Cosette	Toussaint, reprit [MASK], vous avez soin de bien barricader le soir les volets sur le jardin au moins, avec les barres, et de bien mettre les petites choses en fer dans les petits anneaux qui ferment ?— Oh ! soyez tranquille, mademoiselle.
+
+['lui', 'moi', 'nous', 'nouveau', 'marie']	Gavroche	Dites-le. Je vous préviens que je ne suis pas du régiment des godiches. Ah çà, est-ce que vous êtes les moutards du moutardier du pape ?Un peu de rudoiement est bon dans l’épouvante. Cela rassure. Les deux enfants se rapprochèrent de [MASK].
+
+['celui-ci', 'monsieur', 'cela', 'charles', 'pied']	Polichinelle	Ça ne lui a pas fait de bien, ça lui a fait du mal.« Alors une dame a mis [MASK] en prison. »C’est là qu’a été dit, par une petite abandonnée, enfant trouvé que le couvent élevait par charité, ce mot doux et navrant.
+
+['</s>', '"', 'et', 'mais', '_']	Bruneseau	La muraille, par places, était couverte de fongus difformes, et l’on eût dit des tumeurs, la pierre elle-même semblait malade dans ce milieu irrespirable.[MASK], dans son exploration, procéda d’amont en aval.
+
+['</s>', 'cela', 'qui', '-', "c'"]	Cosette	; elle allait pieds nus l’hiver, cela venait du mari.[MASK] montait, descendait, lavait, brossait, frottait, balayait, courait, trimait, haletait, remuait des choses lourdes, et, toute chétive, faisait les grosses besognes. Nulle pitié ;
+
+['bien', 'mieux', 'différent', 'égal', 'non']	Abel	; dans la société humaine, telle qu’elle existe, jusqu’au jour où une clarté plus grande la changera, il y a à jamais deux hommes, l’un supérieur, l’autre souterrain ; celui qui est selon le bien, c’est [MASK] ;
+
+['et', 'que', 'déclara', 'montra', 'répondit']	Fauchelevent	Quant à lui, [MASK], si ému qu’il fût, il ne se souciait point de payer.Le fossoyeur poursuivit, avec un sourire supérieur :— Il faut manger. J’ai accepté la survivance du père Mestienne. Quand on a fait presque ses classes, on est philosophe.
+
+['la', 'chacun', 'dieu', 'tous', 'qui']	Marius	Vous voyez que nous n’avions pas de mauvaises intentions.Des images épouvantables passèrent devant la pensée de [MASK]. Quoi ! cette jeune fille qu’on enlevait, on n’allait pas la ramener ? Un de ces monstres allait l’emporter dans l’ombre ? où ?…
+
+['liberté', 'gloire', ',', 'esclavage', 'libre']	Napoléon	Il avait sur le front cette étoile, Liberté. Les yeux ardents des jeunes générations se tournèrent vers lui. Chose singulière, on s’éprit en même temps de cet avenir, Liberté, et de ce passé, [MASK]. La défaite avait grandi le vaincu.
+
+['je', 'vous', 'non', "j'", 'moi']	Daumont	— C’est un nouveau locataire, dit la vieille, qu’il y a dans la maison.— Et qui s’appelle ?— Je ne sais plus trop. Monsieur Dumont ou [MASK]. Un nom comme cela.— Et qu’est-ce qu’il est, ce monsieur Dumont.
+
+['lui', '</s>', "s'", ',', 'il']	Basque	! — Sa tête chauve était tombée sur sa poitrine, et il fixait vaguement sur la cendre de son foyer un regard lamentable et irrité.Au plus profond de cette rêverie, son vieux domestique, [MASK], entra et demanda :
+
+['la', 'jésus', '</s>', "l'", ')']	Toussaint	— Pas encore, mademoiselle.(Nous avons indiqué une fois pour toutes le bégayement de [MASK]. Qu’on nous permette de ne plus l’accentuer. Nous répugnons à la notation musicale d’une infirmité.)Jean Valjean, homme pensif et promeneur nocturne, ne rentrait souvent qu’assez tard dans la nuit.—
+
+['le', 'la', ':', 'les', 'un']	Enjolras	Par ce goût qu’il avait de rester en dehors de tout, et aussi pour avoir été par trop effarouché, il n’était décidément pas entré dans le groupe présidé par [MASK]. On était resté bons camarades ; on était prêt à s’entr’aider dans l’occasion de toutes les façons possibles
+
+['</s>', 'chacun', 'il', 'elle', 'on']	Grantaire	Chastes sur la terre, mais s’accouplant dans l’infini. Ce sont des âmes qui ont des sens. Ils couchent ensemble dans les étoiles.[MASK] entamait sa seconde bouteille, et peut-être sa seconde harangue quand un nouvel être émergea du trou carré de l’escalier.
+
+['lui', 'chacun', 'lui-même', 'pierre', 'eux']	Boulatruelle	Touchante effusion de deux vieux camarades qui se retrouvent. Mais la pelle et la pioche avaient été un trait de lumière pour [MASK] ; il avait couru à la broussaille du matin, et n’y avait plus trouvé ni pelle ni pioche.
+
+['cheval', 'cadavres', 'chevaux', 'pierre', 'marbre']	Javert	Le pavé passa au-dessus de lui, heurta la muraille du fond dont il fit tomber un vaste plâtras et revint, en ricochant d’angle en angle à travers le bouge, heureusement presque vide, mourir sur les talons de [MASK].
+
+['monsieur', 'madame', 'présent', 'dieu', 'nouveau']	Nicolette	Je suis toute seule. J’arrange une chambre gentiment. Si j’avais pu y mettre le bon Dieu, je l’y aurais mis. On me laisse ma chambre sur les bras. Mon locataire me fait banqueroute. Je commande à [MASK] un bon petit dîner.
+
+['la', 'armée', "l'", 'le', 'police']	Vincennes	La répression, ayant l’armée, ne compte pas les hommes, et, ayant [MASK], ne compte pas les coups. La répression a autant de régiments que la barricade a d’hommes, et autant d’arsenaux que la barricade a de cartouchières.
+
+['ils', 'il', 'elle', 'on', 'il']	Cosette	L’enfant montrait son petit doigt.— Et qui ne coupe pas ? — Si, monsieur, dit l’enfant, ça coupe la salade et les têtes de mouches.Ils atteignirent le village ; [MASK] guida l’étranger dans les rues. Ils passèrent devant la boulangerie ;
+
+['</s>', 'il', 'on', 'et', 'elle']	Marius	Je le remplace.— C’est pour une affaire très secrète.— Alors parlez.— Et très pressée.— Alors, parlez vite.Cet homme, calme et brusque, était tout à la fois effrayant et rassurant. Il inspirait la crainte et la confiance. [MASK] lui conta l’aventure.
+
+['bailly', 'mercier', 'etienne', 'boucher', 'bourgeois']	Burtot	Une femme balayant sa porte disait à une autre femme : — Depuis longtemps on travaille à force à faire des cartouches. — On lisait en pleine rue des proclamations adressées aux gardes nationales des départements. Une de ces proclamations était signée : [MASK], marchand de vin.
+
+['savoir', 'suivre', 'lire', 'ce', 'propos']	Toussaint	; elle n’y toucha pas, s’enfuit sans oser regarder derrière elle, se réfugia dans la maison, et ferma tout de suite au volet, à la barre et au verrou la porte-fenêtre du perron. Elle demanda à [MASK] :— Mon père est-il rentré
+
+['rodin', 'bussy', 'henri', 'maurice', 'julien']	Grantaire	Au fait elle gêne le peuple aux entournures.— Cela m’est à peu près égal, votre révolution, dit [MASK]. Je n’exècre pas ce gouvernement-ci. C’est la couronne tempérée par le bonnet de coton. C’est un sceptre terminé en parapluie.
+
+['elle', '</s>', "j'", 'marguerite', 'on']	Fantine	le lien, brisé du côté des hommes, s’était défait du côté des femmes ; on les eût bien étonnées, quinze jours après, si on leur eût dit qu’elles étaient amies ; cela n’avait plus de raison d’être. [MASK] était restée seule.
+
+[',', 'que', 'et', ';', '"']	Gavroche	?— Oui, les rats.L’enfant, consterné de ces souris qui mangent les chats, poursuivit :— Monsieur, est-ce qu’elles nous mangeraient, ces souris-là ?— Pardi ! fit [MASK].La terreur de l’enfant était au comble.
+
+['le', "l'", 'm.', 'barbi', 'la']	Enjolras	La mitraille entrait.Il y eut une rumeur de consternation.— Empêchons toujours le second coup, dit [MASK].Et, abaissant sa carabine, il ajusta le chef de pièce qui, en ce moment, penché sur la culasse du canon, rectifiait et fixait définitivement le pointage.
+
+['</s>', 'il', '--il', 'elle', 'chacun']	Marius	La fille jasait sans cesse, et gaîment. Le vieux homme parlait peu, et, par instants, il attachait sur elle des yeux remplis d’une ineffable paternité.[MASK] avait pris l’habitude machinale de se promener dans cette allée. Il les y retrouvait invariablement.
+
+['il', 'elle', ',', "j'", "s'"]	Marius	Ne m’attends pas demain.— Pourquoi ?— Ne m’attends qu’après-demain.— Oh ! pourquoi ?— Tu verras.— Un jour sans te voir ! mais c’est impossible.— Sacrifions un jour pour avoir peut-être toute la vie.Et [MASK] ajouta à demi-voix et en aparté :
+
+["qu'", 'qui', ',', 'avec', 'à']	Marius	Voici ce que [MASK] entendit :— Écoute bien. Il est pris, le crésus ! C’est tout comme. C’est déjà fait. Tout est arrangé. J’ai vu des gens. Il viendra ce soir à six heures. Apporter ses soixante francs, canaille
+
+['celui-ci', 'il', 'jean', 'jésus', 'elle']	Marius	Quant à l’homme, il était toujours le même.La seconde fois que [MASK] arriva près d’elle, la jeune fille leva les paupières. Ses yeux étaient d’un bleu céleste et profond, mais dans cet azur voilé il n’y avait encore que le regard d’un enfant.
+
+['</s>', '"', '-', '(', '_']	Marius	:— Allez-vous-en, ou je fais sauter la barricade ![MASK] sur cette barricade après l’octogénaire, c’était la vision de la jeune révolution après l’apparition de la vieille.— Sauter la barricade ! dit un sergent, et toi aussi !
+
+[',', 'et', 'un', 'le', 'de']	Cosette	: — Si je pouvais seulement la revoir avant de mourir ! — Si son souhait eût été réalisé, s’il eût vu en ce moment-là [MASK] regardant un lancier, il n’eût pas pu prononcer une parole et il eût expiré de douleur.À qui la faute
+
+['il', 'qui', 'napoléon', 'bonaparte', 'celui-ci']	Gavroche	En arrivant près du colosse, [MASK] comprit l’effet que l’infiniment grand peut produire sur l’infiniment petit, et dit :— Moutards ! n’ayez pas peur.Puis il entra par une lacune de la palissade dans l’enceinte de l’éléphant et aida les mômes à enjamber la brèche.
+
+['</s>', '"', '_', '-', '...']	Enjolras	il ne se plaisait que là ; il les suivait partout. Sa joie était de voir aller et venir ces silhouettes dans les fumées du vin. On le tolérait pour sa bonne humeur.[MASK], croyant, dédaignait ce sceptique, et, sobre, cet ivrogne.
+
+['et', 'elle', ',', '...', '</s>']	Marius	[MASK] considérait cette créature infortunée avec une profonde compassion.— Oh ! reprit-elle tout à coup, cela revient. J’étouffe !Elle prit sa blouse et la mordit, et ses jambes se raidissaient sur le pavé.En ce moment la voix de jeune coq du petit Gavroche retentit dans la barricade.
+
+['dieu', 'christ', 'joseph', 'mal', 'lui']	Javert	C’est à peine s’il osait s’avouer à lui-même que cette figure qu’il avait cru voir était la figure de [MASK].La nuit, en y réfléchissant, il regretta de n’avoir pas questionné l’homme pour le forcer à lever la tête une seconde fois.
+
+['il', 'on', 'elle', 'ils', 'ève']	Enjolras	L’audace de bien mourir émeut toujours les hommes. Dès qu’[MASK] eut croisé les bras, acceptant la fin, l’assourdissement de la lutte cessa dans la salle, et ce chaos s’apaisa subitement dans une sorte de solennité sépulcrale.
+
+['ce', 'il', 'qui', 'que', 'ceci']	Cosette	Ce fut au milieu de cette foi, de cet enivrement, de cette possession virginale, inouïe et absolue, de cette souveraineté, que ces mots : « Nous allons partir », tombèrent tout à coup, et que la voix brusque de la réalité lui cria : [MASK] n’est pas à toi
+
+['personne', 'elle', 'lui', 'elle-même', 'une']	Favourite	Cette mère, grognon et dévote, ne parlait jamais à [MASK], restait des heures sans souffler mot, déjeunait, dînait et soupait comme quatre, et descendait faire salon chez le portier, où elle disait du mal de sa fille.
+
+['la', 'ce', ',', "l'", 'qui']	Cosette	Qui dit amour, dit femme. Ah ! ah ! voilà une toute-puissance, c’est la femme. Demandez à ce démagogue de Marius s’il n’est pas l’esclave de cette petite tyranne de [MASK]. Et de son plein gré, le lâche ! La femme
+
+['maria', 'césar', 'ata', 'dente', 'rio']	Maria	Chez les visitandines, celle qui entre dit : Ave [MASK], et celle chez laquelle on entre dit : Gratiâ plena. C’est leur bonjour, qui est « plein de grâce » en effet.À chaque heure du jour, trois coups supplémentaires sonnent à la cloche de l’église du couvent.
+
+['</s>', 'il', '"', ',', '-']	Marius	Courfeyrac venu, l’hôte les quitta. [MASK] lui conta ce qu’il n’avait pas songé à lui dire encore, qu’il était comme seul au monde et n’ayant pas de parents.— Qu’allez-vous devenir ? dit Courfeyrac.—
+
+['celui', ',', 'et', ';', 'ce']	Marius	répéta-t-il. Et, sans s’en douter, pour premier succès, il arrêta le pistolet prêt à partir et paralysa [MASK] pour lequel l’urgence disparut, et qui, devant cette phase nouvelle, ne vit point d’inconvénient à attendre encore.
+
+['deux', 'amis', ',', 'escorte', 'lui']	Cosette	Tous les soirs, au crépuscule, il se promenait une heure ou deux, quelquefois seul, souvent avec [MASK], cherchant les contre-allées du boulevard les plus solitaires, ou entrant dans les églises à la tombée de la nuit.
+
+['-', '(', 'il', 'elle', 'et']	Cosette	Il dégagea ses mains.— Vous n’avez plus besoin de père, vous avez un mari.[MASK] s’emporta.— Je n’ai plus besoin de père ! Des choses comme çà qui n’ont pas le sens commun, on ne sait que dire vraiment !
+
+['</s>', '"', ',', '-', 'elle']	Javert	Son second mouvement fut de rester, et de hasarder au moins une question.C’était cette sœur Simplice qui n’avait menti de sa vie. [MASK] le savait, et la vénérait particulièrement à cause de cela.— Ma sœur, dit-il, êtes-vous seule dans cette chambre
+
+['john', 'johnson', '</s>', ',', 'caroline']	Favourite	?— Moi, je le déteste, répondit [MASK] du même ton en ressaisissant sa fourchette. Il est avare. J’aime le petit d’en face de chez moi. Il est très bien, ce jeune homme-là, le connais-tu ?
+
+['hiver', 'or', 'autrefois', 'argent', 'acier']	Élie	Il n’essayait point de faire faire à sa chasuble les plis du manteau d’[MASK], il ne projetait aucun rayon d’avenir sur le roulis ténébreux des événements, il ne cherchait pas à condenser en flamme la lueur des choses, il n’avait rien du prophète et rien du mage.
+
+['il', "c'", 'google', "j'", 'on']	Tohubohu	Ce fiacre, devenu démesuré par son chargement, a un air de conquête. Brouhaha est à l’avant, [MASK] est à l’arrière. On y vocifère, on y vocalise, on y hurle, on y éclate, on s’y tord de bonheur ;
+
+['</s>', 'qui', 'on', 'tout', 'il']	Thénardier	On les avait mis par précaution dans l’étage d’en bas. Le hasard faisait que la tête de leurs lits s’appuyait au tuyau de la cheminée.[MASK] se trouvait précisément au-dessus de leur tête dans ce comble qualifié le Bel-Air.
+
+['dieu', 'lazare', 'pierre', 'jésus', 'paris']	Cosette	passé, présent, avenir, tout n’était plus en lui que le brouillard d’une idée vague, mais il y avait dans cette brume un point immobile, un linéament net et précis, quelque chose qui était en granit, une résolution, une volonté : retrouver [MASK].
+
+['le', 'jean', '"', ':', 'léon']	Gavroche	les deux pans du treillage qui retombaient l’un sur l’autre s’écartèrent.— Mômes, à quatre pattes ! dit [MASK].Il fit entrer avec précaution ses hôtes dans la cage, puis il y entra après eux, en rampant, rapprocha les pierres et referma hermétiquement l’ouverture.
+
+['</s>', 'lui', 'il', 'elle', 'celui-là']	Bahorel	Les autres donnaient plus de lumière, lui il donnait plus de calorique ; le fait est qu’il avait toutes les qualités d’un centre, la rondeur et le rayonnement.[MASK] avait figuré dans le tumulte sanglant de juin 1822, à l’occasion de l’enterrement du jeune Lallemand.
+
+['partout', 'dieu', 'bien', 'le', 'jésus']	Javert	Il chercha [MASK], mais il ne le vit pas. Le banc des témoins lui était caché par la table du greffier. Et puis, nous venons de le dire, la salle était à peine éclairée.Au moment où il était entré, l’avocat de l’accusé achevait sa plaidoirie.
+
+['tous', 'vivre', 'dieu', 'lui', 'mourir']	Cosette	l’idée qu’il ne suffisait peut-être pas, lui, au bonheur de [MASK], cette idée, qui avait été autrefois sa fièvre et son insomnie, ne se présentait même pas à son esprit. Il était dans le collapsus de toutes ses douleurs passées, et en plein optimisme.
+
+['la', "l'", 'corps', 'tout', 'feu']	Babylone	rien n’égalait l’horreur de cette vieille crypte exutoire, appareil digestif de [MASK], antre, fosse, gouffre percé de rues, taupinière titanique où l’esprit croit voir rôder à travers l’ombre, dans de l’ordure qui a été de la splendeur, cette énorme taupe aveugle, le passé.
+
+['le', 'vous', 'je', 'au', 'il']	Marius	; [MASK] combattait à découvert. Il se faisait point de mire. Il sortait du sommet de la redoute plus qu’à mi-corps. Il n’y a pas de plus violent prodigue qu’un avare qui prend le mors aux dents ;
+
+['armée', '"', 'désert', 'bataille', 'ennemi']	Marius	[MASK], dont presque toutes les forces étaient revenues, les rassembla, se dressa sur son séant, appuya ses deux poings crispés sur les draps de son lit, regarda son grand-père en face, prit un air terrible et dit :— Ceci m’amène à vous dire une chose.— Laquelle ?
+
+['il', '</s>', 'elle', 'celui-ci', 'celle-ci']	Bouddha	Plusieurs étoiles avaient déjà été incendiées par ce monstre qui, en outre, avait des griffes de tigre. [MASK] alla dans son antre et réussit à convertir le dragon. C’est un bon livre que vous lisez là, mère Plutarque. Il n’y a pas de plus belle légende.
+
+['dieu', 'cela', 'je', 'qui', ',']	Jupiter	[MASK] ne me fait point l’effet d’un mort. Les dieux sont des songes, dites-vous. Eh bien, même dans la nature, telle qu’elle est aujourd’hui, après la fuite de ces songes, on retrouve tous les grands vieux mythes païens.
+
+['maman', 'jean', 'pierre', 'marie', 'papa']	Nicolette	Qu’aurait dit ta tante ? Tu étais tout nu les trois quarts du temps, mon bonhomme. Demande à [MASK], qui ne t’a pas quitté une minute, s’il y avait moyen qu’une femme fût là. Et puis qu’aurait dit le médecin ?
+
+['</s>', '--non', '--oui', '"', '-']	Marius	Plus tard, ça vous aura des vertus avec odeur de violette. C’est une grâce, quoi ! On ne peut que vivre noblement avec une telle créature. [MASK], mon garçon, tu es baron, tu es riche, n’avocasse pas, je t’en supplie.
+
+['je', 'et', "c'", "j'", 'si']	Marius	C’est donc bien étonnant ce que vous dites ! des affaires, placer de l’argent à une banque, voilà grand’chose. Les hommes font les mystérieux pour rien. Je veux rester. Je suis très jolie ce matin ; regarde-moi, [MASK].
+
+[',', 'tout', '"', ':', 'un']	Gavroche	Le boulanger comprit parfaitement et répondit :— Eh mais ! c’est du pain, du très bon pain de deuxième qualité.— Vous voulez dire du larton brutal, reprit [MASK], calme et froidement dédaigneux. Du pain blanc, garçon ! du larton savonné ! je régale.
+
+['il', 'dieu', 'lui', 'elle', 'jésus']	Enjolras	c’est la femme qui fait partir l’homme. Eh bien, [MASK] n’a pas de femme. Il n’est pas amoureux, et il trouve le moyen d’être intrépide. C’est une chose inouïe qu’on puisse être froid comme la glace et hardi comme le feu.
+
+['il', ',', '.il', 'qui', 't.il']	Enjolras	[MASK] avait un pistolet à la main.À la détonation, il était arrivé.Il avait empoigné de sa main gauche le collet, la blouse, la chemise et la bretelle du Cabuc.— À genoux, répéta-t-il.
+
+['paris', '.', '</s>', 'la', '...']	Petit-Gervais	Mais, pardon, vous ne pouvez pas comprendre ce que je dis là. Vous trouverez chez moi, dans les cendres de la cheminée, la pièce de quarante sous que j’ai volée il y a sept ans à [MASK]. Je n’ai plus rien à ajouter.
+
+['francs', 'livres', 'dollars', 'roubles', 'louis']	Cosette	Il est probable que si le mariage eût été pauvre, elle l’eût laissé pauvre. Tant pis pour monsieur mon neveu ! Il épouse une gueuse, qu’il soit gueux. Mais le demi-million de [MASK] plut à la tante et changea sa situation intérieure à l’endroit de cette paire d’amoureux.
+
+[',', 'en', 'et', 'avec', ';']	Bahorel	Tu as une maîtresse qui rit toujours.— C’est une faute qu’elle fait, répondait [MASK]. La maîtresse qu’on a tort de rire. Ça encourage à la tromper. La voir gaie, cela vous ôte le remords ; si on la voit triste, on se fait conscience.— Ingrat
+
+[',', 'jean', ';', '"', 'léon']	Gavroche	L’une venait devant, l’autre, à quelque distance, derrière.— Voilà deux êtres, grommela [MASK].La première silhouette semblait quelque vieux bourgeois courbé et pensif, vêtu plus que simplement, marchant lentement à cause de l’âge, et flânant le soir aux étoiles.
+
+['tout', 'cela', 'celle-ci', 'ça', 'celui-ci']	Cosette	C’est le propre de la douleur de faire reparaître le côté enfant de l’homme. Il sentait invinciblement que [MASK] lui échappait. Il eût voulu lutter, la retenir, l’enthousiasmer par quelque chose d’extérieur et d’éclatant.
+
+['ce', 'celui', 'celle', 'ceux', 'et']	Marguerite	En rentrant, elle dit à [MASK] qui travaillait près d’elle :— Qu’est-ce que c’est donc que cela, une fièvre miliaire ? Savez-vous ?— Oui, répondit la vieille fille, c’est une maladie.— Ça a donc besoin de beaucoup de drogues
+
+['monsieur', 'tiens', 'oui', 'moi', 'allons']	Cosette	— Mon mari m’a dit une drôle de chose hier.— Quelle chose donc ?— Il m’a dit : [MASK], nous avons trente mille livres de rente. Vingt-sept que tu as, trois que me fait mon grand-père. J’ai répondu : Cela fait trente.
+
+['il', "c'", 'tout', 'elle', 'et']	Marius	C’était par une sereine matinée d’été, [MASK] était joyeux comme on l’est quand il fait beau. Il lui semblait qu’il avait dans le cœur tous les chants d’oiseaux qu’il entendait et tous les morceaux du ciel bleu qu’il voyait à travers les feuilles des arbres.
+

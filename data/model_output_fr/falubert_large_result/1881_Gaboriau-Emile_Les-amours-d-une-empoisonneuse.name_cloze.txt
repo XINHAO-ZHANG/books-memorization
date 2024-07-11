@@ -1,0 +1,200 @@
+['le', 'il', 'madame', 'monsieur', 'celui-ci']	Olivier	—Mais, monsieur, dit [MASK], de grâce, donnez-moi votre avis... —Je pense que ces conclusions sont d'autant plus remarquables... —Oh! monsieur! pouvez-vous vous jouer ainsi de mon malheur!.... —Quoi! mon enfant, quel malheur!
+
+['il', 'Il', 'et', 'on', '</s>']	Hanyvel	—Ne le voyez-vous pas? répondit le chevalier en proie à une colère terrible. Cet homme est un coquin, et, vrai Dieu! il ne répétera plus ailleurs ses misérables calomnies! [MASK] essayait de mettre flamberge au vent: il était plus pâle qu'un cadavre.
+
+['on', ',', 'hum', 'et', 'où']	Exili	Tous deux, avec quelque peine, regagnèrent leur cachot. La volige et les briques furent remises dans leur état primitif; les carreaux soigneusement ajustés et les interstices de nouveau bouchés avec de la mie de pain. [MASK] s'assura que nul ne pouvait s'apercevoir du travail qui avait eu lieu;
+
+['le', ',', "l'", 'dit', 'plus']	Cosimo	mais, comme dit [MASK], celui qui doit finir pendu ne sera pas noyé. A l'heure marquée, quand nul ne pourra suivre ma trace dans la vie, ni la retrouver après ma mort, une main invisible démasquera le traître, et il périra du poison qu'il aura distillé.
+
+['qui', 'il', 'lequel', 'Il', 'on']	Sainte-Croix	—Que voulez-vous dire? —Rien, sinon que l'heure est venue, je crois, de notre liberté. A ce mot de liberté qui résume à lui seul toutes les pensées, toutes les inspirations du prisonnier, [MASK] ne put retenir une exclamation.
+
+[',', 'de', 'à', 'se', 'le']	Henriette	[MASK]. Et ne cherchez plus à me revoir. Votre cœur souffrira, mais songez que je serai aussi malheureuse que vous. Le coup terrible qui me frappe me dessille les yeux et me montre la profondeur de l'abîme où nous courions ensemble;
+
+[',', 'tout', 'on', "s'", 'pas']	Olivier	Monsieur, soyez assez bon pour me conduire à mon carrosse, qui doit m'attendre au détour de cette rue. —Madame, au nom du ciel! interrogea [MASK] en lui offrant son bras, de quel malheur parlez-vous, qu'est-il arrivé?...
+
+['pardon', 'dit-il', 'monsieur', 'sire', 'Pardon']	Exili	il fixa celui qu'un instant avant il appelait encore son sauveur. —Pardon, dit-il, pardon, ma joie me fait honte, [MASK]; mais je n'ai pas été maître de moi. Songez donc que je m'attendais si peu à cet événement.
+
+['autrui', 'un', 'autres', 'une', 'Israël']	Olivier	Que l'on juge donc de la douleur d'[MASK]. Il savait, lui, que cette tombe se refermait, non sur un mort, mais sur un vivant. Il ne put supporter ce spectacle, et sa douleur trouvant enfin un issue, il pleurait.
+
+[',', '...', 'le', 'se', 'S']	Exili	Assis tristement sur sa couchette, il attendait le jour avec une fébrile impatience; il attendait le jour pour reprendre l'œuvre de délivrance. Il mangeait à peine et sans avoir la conscience de ce qu'il faisait. —Vous vous tuez, lui disait souvent [MASK];
+
+['elle', 'la', 'lui', 'il', 'le']	Madeleine	[MASK] portait au cœur un de ces besoins effrénés de tendresse que la femme voue à Dieu quand il ne se rencontre pas un homme pour les voler au créateur. Nous nous aimâmes... C'est là un de ces souvenirs que le plus insoucieux des aventuriers conserve précieusement pour en rafraîchir son existence brûlante.
+
+['de', 'le', 'Lui', "l'", 'lui-même']	Cosimo	Seul, sans autre ami que [MASK], il ne vivait que par la pensée, dans le passé ou dans l'avenir, le présent lui semblait lourd à porter. Déshérité de toutes les affections légitimes qui sont ici-bas le vrai bonheur, il s'était replié sur lui-même;
+
+['il', 'celui-ci', 'on', "c'", 'elle']	Olivier	A part soi il pensa que le jeune homme avait l'esprit légèrement détraqué. Autant eût valu essayer lui faire traduire le Koran. Lorsque [MASK] eut fini: —Mon cher enfant, dit-il, avez-vous fait bien attention aux conclusions du procès que je vous confiai hier soir?
+
+['il', 'et', 'elle', 'lui', 'qui']	Penautier	A ce nom, [MASK] étendit la main. —J'étais son ami, monsieur, et ma connaissance de ses affaires et de ses opérations me permettra de vous aider à sauver quelques épaves de ce grand naufrage; mais cette succession est très embarrassée.
+
+['présent', 'lui-même', '…', 'jadis', 'nouveau']	Olivier	—Vous me portez bonheur, très cher, disait-il à [MASK], et désormais, je le déclare, je ne vous quitte plus; cette heureuse veine nous promet la meilleure chance pour demain; rassurez-vous donc et quittez cet air lugubre.
+
+['Le', "L'", 'Il', 'Et', 'le']	Sainte-Croix	Pour l'éprouver, je lui fis une confidence insignifiante; dès le lendemain, il fit appeler le major général et lui révéla ce que je lui avais confié. —Et ce fut son arrêt de mort? —Vous l'avez dit. —Malheureux! murmura [MASK].
+
+['cela', 'lui', 'ceci', 'vous', 'celui-ci']	Penautier	—N'est-ce que cela? Eh bien, rassurez-vous. —C'est en [MASK] que j'ai mis toute mon espérance; s'il allait échouer? s'il allait être surpris, jugé, mis à la torture, ne nous livrerait-il pas?
+
+['il', 'Il', 'marquis', 'lui', 'Monsieur']	Cosimo	Il le conjurait de lui dire ce qu'était devenu le marquis, le lieu de sa retraite, comment on recevait de ses nouvelles, comment on pouvait lui faire passer les réponses. A ces sollicitations diverses, presque désespérées, [MASK] restait muet ou ne répondait que ces seuls mots: —Je ne puis dire.
+
+[',', 'le', 'Pierre', 'Jean', "l'"]	Olivier	—Comment! païen, s'écria [MASK], cette doctrine te paraît indigne de tes savantes oreilles? —Il me semble, monsieur, que celles de mon maître gagneront plus à entendre ce qu'elles ignorent, que les vôtres à écouter des billevesées de prédicateur.
+
+['Jean', 'Pierre', 'celui-ci', 'Espérance', 'Georges']	Exili	—Ce prisonnier, reprit [MASK] après un moment de silence, pouvait m'être un aide précieux. Mais, avant de lui confier mes espérances, je voulais savoir s'il en était digne; une imprudence pouvait me coûter la liberté.
+
+[',', 'de', 'à', 'en', 'pour']	Exili	—Mon imprudence irréfléchie a failli tout perdre; mais j'espère que cette leçon suffira et je me sens maître de moi comme de ma pensée. —C'est le premier secret pour être celui des autres, ajouta [MASK] de sa voix musicale;
+
+['dit-il', '-', 'dit-elle', 'monsieur', 'sire']	Exili	Il se releva alors, et ce fut d'une voix presque épouvantée qu'il s'écria: —Vous vous trompez, [MASK], cet homme est bien mort; vous l'avez tué! —Je pourrais, continua l'Italien impassible, le laisser ainsi impunément trente heures encore.
+
+['il', 'elle', 'cela', 'Il', 'tout']	Exili	Je ne comprends rien à votre proposition. —Je vais parler plus clairement: Si dans une heure vous ne m'apportez pas deux millions, en quatre bons à vue de cinq cent mille livres, [MASK] sortira de sa tombe et se présentera à votre hôtel.
+
+['fer', 'bois', 'pierre', 'paille', 'cuir']	Sainte-Croix	L'Italien ne répondit pas. S'armant d'une espèce de ciseau fabriqué avec le manche en fer d'un ustensile de cuisine dérobé au guichetier, il alla s'agenouiller au pied du mur contre lequel était adossée la couchette de [MASK].
+
+['Pierre', 'celui-ci', 'Fabrice', 'Ralph', 'Antonio']	Sainte-Croix	parce que leurs secrets, voyez-vous, sont de ceux qui ne se divulguent pas, mais que chaque maître lègue mystérieusement à un élève favori longtemps éprouvé. —Voulez-vous, s'écria [MASK], que je sois cet élève? L'Italien hocha la tête d'un air indécis.
+
+[':', 'bien', ';', '...', 'non']	Hugonnet	—Hélas! non, répondit tristement [MASK]. Et comme on continuait à frapper: —Je vais ouvrir, dit-il; il pourrait m'arriver malheur. Et il fit mine de sortir. —Allez, mon ami, dit la marquise, laissez-nous.
+
+['il', 'elle', 'celui-ci', 'Pierre', 't-il']	Hanyvel	Le chevalier gagna. —Double! disait [MASK] d'un ton de mauvaise humeur. —Quitte ou double, si vous voulez, répondit son adversaire. Je vous assure qu'il faut que je m'en aille. —Voilà un beau joueur! murmuraient les hommes.
+
+['il', 'elle', 'le', 't-il', "l'"]	Sainte-Croix	. Le guichetier parti: —Cet homme et son insipide bavardage me font mourir, s'écriait [MASK]. —Ce qui n'empêche, mon cher chevalier, que s'il était tant soit peu clairvoyant, il devinerait bien vite nos projets. —Malheur à lui!
+
+[',', 'en', 'le', 'la', 'et']	Cosimo	—Que votre volonté soit faite... Il faut vous obéir à tous deux comme aux enfants gâtés, dit [MASK] en ouvrant un coffre. Il en tira un flacon plat, recouvert d'une armature métallique, et dévissa le bouchon de cristal qui en fermait hermétiquement l'orifice;
+
+['JE', 'DE', 'je', '...', 'NON']	Madeleine	Oh! qu'il prenne garde! Je n'ai pas oublié que par lui est venu le plus grand malheur de ma vie; que par lui j'ai été honteusement chassé de votre hôtel. —Il est mon père, chevalier!... —Oui, [MASK];
+
+['alors', 'jamais', 'homme', 'seule', 'seul']	Cosimo	Si aujourd'hui, par exemple, un hasard, un événement que tu ne peux prévoir, faisait violer toutes les règles habituelles! Ah! je ne m'en consolerais jamais, et toi, [MASK], tu aurais, jusqu'à ton heure dernière, le plus terrible des remords.
+
+['se', 'la', "l'", "s'", 'tous']	René	... Mais la culpabilité de [MASK] était connue, et le peuple maudit sa mémoire. Le pape Alexandre VI ne l'a pas eue, lui, cette impunité; le vieux démon s'est laissé prendre à son propre piège;
+
+['il', 'un', ',', 'Il', 'qui']	Olivier	[MASK] est venu!... Cette chambre de bénédictin doit être la sienne... Je suis libre!... Ah! il y avait longtemps que je n'avais vu le soleil, respiré cet air subtil et pur, embaumé du parfum des fleurs, entendu chanter les oiseaux dans les arbres.
+
+['fois', 'sire', 'cher', 'dit-il', 'argent']	Hanyvel	La fortune s'acharnait contre le financier; le capitaine gagnait sans cesse. Tout à coup il s'arrêta, et regardant successivement sa montre et les cartes: —Vous avez encore perdu, [MASK], et voici qu'il me faut me retirer... —Double! insista le receveur.
+
+['Il', 'il', 'Elle', 'elle', 'et']	Olivier	Et une petite main se glissa dans un intervalle des planches: [MASK] saisit cette main et la couvrit de baisers; mais la main se retira... Il resta de longues heures au même endroit, en extase, insensible à tout ce qui l'entourait.
+
+['lui', 'lui-même', 'moi', 'celui-ci', 'nous']	Sainte-Croix	—Que m'est-il arrivé? demanda-t-il après un moment. —Rien de grave, mon ami, répondit l'Italien. Et, s'adressant à [MASK]: —Soutenez donc à votre tour ce pauvre homme, que j'achève de le remettre sur ses pieds.
+
+['Sire', 'Monsieur', 'monseigneur', 'bien', 'monsieur']	Exili	—Des remords! dit L'Italien avec stupéfaction, des remords! Le chevalier haussa les épaules. —Êtes-vous bien sûr de votre poison, [MASK]? demanda-t-il. —N'est-ce que cela? Eh bien, rassurez-vous.
+
+[',', 'il', 'le', 'qui', 'et']	Exili	à l'aide d'un couteau, il lui desserra les dents et fit glisser dans sa bouche cinq ou six gouttes du liquide. Le geôlier fit un mouvement. [MASK] laissa s'écouler quelques minutes et recommença la même opération. Cette fois, le pauvre porte-clefs ouvrit les yeux.
+
+['-', '...', ':', 'RE', 'HA']	Penautier	—On dit qu'il aimait la marquise, répondit hypocritement [MASK]. N'est-ce pas sur un mot imprudent de sa part que vous avez tiré l'épée? —C'est vrai. A présent, je me rappelle...
+
+[',', '...', 'la', 'le', 'de']	Exili	J'y vivais caché chez un mien ami, fripon retiré, qui s'était fait hôtelier pour ne point changer d'état, quand il m'arriva la principale aventure de ma vie. —Comment se nommait cette aventure? interrogea [MASK]. Elle se nommait Marie-Madeleine d'Aubray;
+
+['.', 'le', '!', "l'", 'M.']	Olivier	—Il me reste peu de chose à vous apprendre, reprit [MASK]. Dès que celui qu'il ne me convient pas d'appeler gentilhomme fut sorti du cimetière, nous nous mîmes à l'œuvre avec les instructions dont nous étions munis.
+
+[',', ';', '...', 'posé', ':']	Olivier	—Oui, il est à peu près écroulé... l'accès de cette brèche est aussi facile que celui d'une porte. —Certainement, c'est par là que nous passerons. —Mais, reprit [MASK] préoccupé, je ne vois pas ici de fosse béante;
+
+['on', 'à', ',', 'le', 'de']	Exili	une imprudence pouvait me coûter la liberté. —En quoi? Son désir d'être libre ne devait-il pas être votre sûr garant? —Enfant, dit [MASK], une trahison pouvait aussi bien lui donner cette liberté! Pour l'éprouver, je lui fis une confidence insignifiante;
+
+['le', ',', 'la', 'un', 'de']	Olivier	. Lorsqu'il avait reconnu son erreur, il avait voulu parler à son jeune maître, essayer quelques timides observations; mais [MASK], dur pour la première fois de sa vie, lui avait brutalement enjoint de ne pas se préoccuper de ses affaires. —De sorte
+
+['un', 'une', 'hommes', 'esprit', 'eau']	Henriette	Il devait même se cacher et ne se montrer que si quelque danger pressant menaçait la fugitive. Tous deux s'assirent alors sur une grosse pierre qui touchait presque le mur, et ils attendirent. Mais les heures s'écoulaient et rien n'annonçait la présence d'[MASK].
+
+['on', 'çà', 'il', 'se', 'On']	Sainte-Croix	Donc, attendez un instant et ne vous en prenez pas à la porte d'une honnête maison. Terrible était, durant cette courte scène, l'anxiété des deux amants. Ivre de fureur, [MASK] tournait autour du salon comme un tigre captif;
+
+['comme', 'et', 'donc', 'vous', 'que']	Exili	s'il en était ainsi. Je suis votre élève, [MASK], et comme vous, je saurai défendre ma liberté. Si je savais qu'un soupçon eût germé dans sa creuse cervelle, j'aurais vite, et pour toujours, fermé sa bouche indiscrète.
+
+['on', 'On', 'il', 'Il', 'Elle']	Cosimo	—Il le faut, mon enfant, continua le marquis d'une voix grave et triste. Je suis heureux de croire que tu te souviendras toujours de ton vieil ami. Autant que je le pourrai, je te donnerai de mes nouvelles; [MASK] prendra les mesures nécessaires pour me donner des tiennes.
+
+['on', 'qui', 'il', 'lui', 'me']	Olivier	—Que ne lui administrais-tu quelque bonne drogue, qui lui aurait ajouté les années que tu venais de jeter aux orties? —Il est loisible au comte de Kronborg de se moquer du vieux serviteur du marquis de Florenzi; mais [MASK] dira si j'aurais eu tort.
+
+[',', ';', '...', 'tout', '-']	Olivier	. —Et maintenant, fit [MASK] en terminant, que me conseilles-tu de faire? —Par ma foi, monsieur, la chose ne demande pas grande réflexion. —Comment cela? —Nous avons de l'or ici, n'est-il pas vrai?
+
+['RE', 'LIN', 'VAL', 'FOR', 'ON']	Hanyvel	mais prenez garde, elles vont me revenir... —Si elles vous reviennent, je les suivrai, fit résolument la jeune femme. —Doublons-nous l'enjeu? demanda [MASK]. —Volontiers. Seulement, je vous préviens de ceci, messieurs; il est dix heures;
+
+['lui', 'le', 'la', 'eux', 'celui-ci']	Cosimo	Il songeait à adopter le parti proposé par [MASK], lorsqu'il se souvint d'un jeune lieutenant aux gardes, le chevalier de Tancarvel, avec lequel il avait fait, dans le temps, plus d'une partie de paume, et dont il aimait le caractère.
+
+['</s>', 'Il', '.', ',', 'il']	Cosimo	A quoi songes-tu? —Je réfléchis à notre dîner. —Eh bien, laisse-nous. [MASK] ne se fit pas répéter cet ordre, et il passa dans une pièce voisine pour vaquer aux préparatifs du repas de midi.
+
+['elle', 'il', 't-elle', 'le', 'la']	Sainte-Croix	avant qu'il soit prévenu, on a le temps de mourir dix fois. —C'est fort rassurant pour les prisonniers, objecta [MASK]. —Oh! monsieur! vous n'avez rien à craindre, vous; votre ami n'est-il pas là?
+
+['celui-ci', 'Alice', 'Jean', 'Harry', 'Holmes']	Exili	—Elle ne le sera pas non plus pour l'humanité, je l'espère, continua [MASK], car vous êtes bien l'homme que j'avais vainement cherché jusqu'à ce jour. Un infernal sourire plissa les lèvres minces du terrible empoisonneur, tandis qu'il prononçait ces mots.
+
+['mort', ',', 'ed', 'vie', 'ie']	Olivier	s'écria-t-elle, là, à deux pas de nous, mon père est sur son lit de mort, et moi, impie, je m'abandonne au bonheur de pleurer entre les bras de celui que j'aime!... Fuyez, [MASK], fuyez cette maison;
+
+['qui', 'lui', 'et', 'il', 'dés']	Sainte-Croix	[MASK] obéit, et son compagnon ayant rempli d'eau un gobelet et y ayant versé la moitié de ce qui restait de liquide dans le flacon, le présenta au geôlier en lui disant: —Buvez, mon brave, voici qui vous remettra.
+
+[',', 'se', 'ne', 'le', 'il']	Sainte-Croix	[MASK] rougit. Il croyait digne de son orgueil d'égaler son maître en tout ce qu'il pouvait y avoir d'abominable en lui. —Je vois, dit-il d'une voix sourde, que vous m'avez voulu donner une fausse joie;
+
+['il', 'et', 'Il', '.Il', 'puis']	Sainte-Croix	Pendant quelques instants, il examina l'emplacement, et, ayant enfin trouvé ce qu'il cherchait, il commença à gratter le ciment qui unissait les carreaux en cet endroit. [MASK] remarqua que ce ciment, loin de se pulvériser sous l'instrument, se détachait en bandes longues et minces.
+
+['eux', 'lui', 'lors', 'elle', 'tous']	Sainte-Croix	Il éventra son matelas, plein de linges de toute sorte, amassés depuis près de deux années. —Voilà nos richesses, dit-il. Sur l'heure ils se mirent en besogne. Le temps, pour [MASK], passait rapide comme l'éclair.
+
+['il', 'je', 'le', 'Il', 't-il']	Exili	il me le dit en termes de fort mauvais goût, et alla même jusqu'à mettre en doute la légitimité de mon titre. Je le priai de venir faire avec moi un tour derrière les Chartreux... et il ne douta plus. —Vous l'aviez convaincu? demanda [MASK].
+
+['</s>', 'Il', 'Le', 'Mais', 'il']	Olivier	Il pouvait revenir d'un jour à l'autre. Quelle consolation resterait-il à ses vieux jours si son enfant bien-aimé venait à être tué! [MASK] se rendit à toutes ces raisons et essaya, en désespoir de cause, de se frayer un chemin dans la magistrature.
+
+['Il', 'Elle', 'il', 'elle', 'et']	Exili	Mais pourquoi ne m'en avoir pas prévenu plus tôt? [MASK] hocha la tête en souriant. —En vous avertissant de mes projets, je rendais votre captivité mille fois plus pénible encore. Par mes leçons, par mes travaux, j'ai pu vous abréger le temps.
+
+['on', ',', 'qui', 'tout', 'il']	Olivier	Successivement le chevalier conduisit son jeune ami souper dans un cabaret à la mode; puis, jouer chez des marquises de contrebande, qui vivaient autant du tapis vert que de l'amour. La tête basse, le cœur bien gros, l'esprit inquiet, [MASK] se laissait entraîner;
+
+['il', 'on', 'lui', 'elle', 'se']	Olivier	il sera libre de suivre ses instincts, bons ou mauvais. Le soir même, après un excellent souper, auquel [MASK] fit à peine honneur, tant il avait le cœur gros encore, le marquis ordonna qu'on lui amenât des chevaux. Cet ordre sembla consterner l'hôte.
+
+['S', 'ze', 'DE', 'de', ',']	Olivier	—Il a pu résister à vos larmes? —J'ai été jusqu'à lui dire que j'en aimais un autre:—«Eh! que m'importe!» m'a-t-il répondu. —Oh! malédiction! s'écria [MASK];
+
+['eux', 'ailleurs', 'il', 'autrement', 'aucun']	Hanyvel	Il gourmandait tout bas le jardinier paresseux qui s'endormait sur sa bêche, il se fâchait contre le maladroit qui déracinait une plante; bien mieux qu'[MASK], il connaissait au bout d'un mois toutes les richesses du jardin.
+
+['monsieur', 'madame', 'père', 'sire', 'alors']	Olivier	si je dois être unie à vous, [MASK], ce ne sera que du consentement de ma mère. Peut-être entendra-t-elle ma voix, lorsque je lui dirai que pour elle vous seriez un bon fils; mais, quoi qu'elle décide, je lui obéirai.
+
+['une', 'état', 'un', 'équilibre', 'essai']	Olivier	Telle était exactement la situation d'[MASK], lorsque, pour la première fois, il aperçut la fille du riche Hanyvel. Cet amour, tout d'abord, lui parut sans danger: —Je l'aimerai de loin, se disait-il, comme un frère;
+
+['-', 'lui', 'il', 'son', 'bien']	Henriette	—Vous me repoussez, dit-il, vous me chassez... [MASK]!... Je suis bien malheureux, vous ne m'aimez plus... —Ne plus vous aimer, reprit-elle d'un ton plus calme, est-ce donc en mon pouvoir, lors même que je le voudrais?
+
+['.', ',', ';', ':', '...']	Penautier	elle n'a pas daigné donner un mot de souvenir à l'homme qu'on a arraché de ses bras pour le jeter ici, les lèvres encore humides de ses baisers. —Vous vous trompez, chevalier, répondit doucement [MASK]. Vos accusations sont injustes.
+
+['elle', 'il', 'on', 'donc', 'tu']	Sainte-Croix	—A moi, maintenant! dit-il. Déjà il saisissait la coupe où était préparé le narcotique, lorsqu'une réflexion, qui traversa son esprit comme un éclair, le cloua immobile. —Si [MASK] ne venait pas au rendez-vous! s'écria-t-il.
+
+[',', 'il', 'on', 'et', 'On']	Exili	[MASK] l'observait. Il rompit le silence. —Oui, dit-il d'une voix timbrée, qui fit vibrer toutes les cordes du cœur de son enfant d'élection, c'est une chose cruelle pour un fils de mépriser son père et de ne pouvoir embrasser sa mère sans horreur.
+
+[',', 'pas', 'se', 'de', 'à']	Sainte-Croix	Le financier se vautrait dans ses écus en jubilant. —Je savais bien, disait-il, que le proverbe ne pouvait mentir. —Quel proverbe? fit [MASK] en bouclant son ceinturon. —Vous le connaissez aussi bien que moi: «Bonheur au jeu...»
+
+['il', 't-il', 'ils', 'alors', 'on']	Cosimo	En vain, pendant plus de deux heures, ils attendirent, interrogeant l'horizon muet. —Il lui sera arrivé malheur, murmurait [MASK]; peut-être est-il mort à cette heure: qui sait, l'embarcation ne se sera pas trouvée au lieu indiqué!
+
+['Olivier', 'celui-ci', '.', 'il', "l'"]	Cosimo	—Ouf! firent-ils. Le cercueil, en tombant, rendit un bruit sourd, qui retentit douloureusement dans le cœur d'Olivier. —Les misérables! murmura-t-il avec rage. —Monsieur, de grâce, conjura [MASK]. Les guichetiers avaient déposé leur civière.
+
+['Je', 'Il', 'Et', '</s>', 'Vous']	Exili	—Comment ne vous pardonnerais-je pas? reprit [MASK] en se contraignant visiblement; votre égoïsme est si naturel. C'est celui des gens heureux. Pour vous, les portes s'ouvrent, que vous importe celui qui reste?... —Oh! vous êtes cruel.
+
+['Elle', 'elle', 'Tu', 'Celle-ci', "C'"]	Henriette	Et cependant ne vois-tu pas le serpent lové, immobile, qui semble dire à l'oiseau fasciné: «Descends du ciel, et meurs?» —Oui. —[MASK] est douce et pure comme une colombe. Un jour, elle sera attirée par la fascination de la vipère.
+
+['Bien', 'bien', 'Oui', '-', 'O']	Cosimo	On a peut-être déjà armé du poignard la main qui doit me frapper... —O mon maître! balbutia le valet ému, ne parlez pas ainsi. —[MASK], tu m'es dévoué, n'est-il pas vrai? Tu me l'as prouvé cent fois...
+
+['je', 'le', 'à', 'alors', 'de']	Cosimo	Alors une terreur voisine de la folie se lisait sur sa physionomie, l'égarement dans ses yeux. —Écoute, disait-il à [MASK], je ne me trompe pas, c'est bien la voix que j'entends...
+
+['Il', 'il', 'et', 'Elle', '</s>']	Exili	Et moi, reprit-il après une pause, je viens d'accomplir la plus difficile et la plus dangereuse de mes expériences. —Vous avez empoisonné mon âme, mon père. [MASK] se leva comme si la main de l'ange des ténèbres s'était posée sur son épaule.
+
+['il', 'elle', ',', 'alors', '-']	Olivier	Après quelques hésitations, le jeune homme se décida à la suivre. Elle se rendait à l'église voisine. —Comment n'avais-je pas songé à cela! se disait [MASK], fut-il jamais moyen plus simple de la contempler et de l'adorer à mon aise!
+
+[',', 'qui', 'de', 'en', 'tout']	Sainte-Croix	[MASK], avec son fatal caractère, assemblage de bien et de mal, de qualités et de vices, ne tarda pas à s'éprendre d'admiration pour cet homme étrange que son mauvais génie avait jeté sur sa route. Et cette admiration s'explique facilement.
+
+['Messieurs', 'Oui', 'Allons', 'Non', 'Nous']	Tope	Mais l'honnête fossoyeur, qui, plus d'une fois, avait tourné les yeux vers l'endroit où s'était réfugié le gentilhomme, attira vite sur autre chose l'attention des guichetiers. —Camarades, dit-il, je paie une bouteille. —[MASK], répondirent-ils, chacun la nôtre.
+
+['celui-ci', 'il', 'Pierre', 'Guillaume', 'Jean']	Exili	Il remit alors à son compagnon une petite fiole qu'il était allé prendre dans la cachette aux poisons. —Voici ma vie, lui dit [MASK] d'un ton solennel en fixant sur lui ses yeux ardents; ma vie est désormais entre vos mains.
+
+['t-il', 't-elle', '-t-il', 'Raoul', 'doucement']	Sainte-Croix	O mon ami! c'est ma mort! —Oh! malédiction! hurla [MASK]; et personne pour nous défendre, personne pour nous sauver! —Vous vous trompez, chevalier, il y a moi, dit une voix qui paraissait sortir de la muraille.
+
+['Olivier', 'Étienne', 'André', 'Antoine', 'Édouard']	Exili	L'œuvre avançait cependant, lentement, mais sans interruption. Selon les calculs d'[MASK], l'échelle devait être bien près d'atteindre la longueur nécessaire. Dans toute la partie terminée, les deux prisonniers avaient, avec le plus grand soin, essayé sa solidité.
+
+[',', 'de', 'le', 'se', 'la']	Olivier	[MASK], il faut le dire, était bien digne de cette sympathie; il avait un de ces visages dont la douceur n'exclut ni la fierté ni l'énergie; une fine moustache noire estompait sa lèvre supérieure, sa joue avait encore le velouté de l'adolescence;
+
+['-', 'et', 'ce', 'mais', 'qui']	Hanyvel	Quand l'heure sonne, il faut partir. —Oui, même quand une main complaisante donne un coup de pouce à l'aiguille de l'horloge. —C'est là une façon d'envisager la mort d'[MASK] qui pouvait convenir à monsieur votre frère.
+
+["l'", 'le', 'celui-ci', 'un', 'cet']	Sainte-Croix	La nuit même je me mis à l'œuvre, je descellai les carreaux et bientôt j'eus trouvé ce que je cherchais. —Mais, objecta [MASK], une fois dans la chambre de la question, en quoi serons-nous plus avancés? —Attendez donc, poursuivit l'Italien.
+
+['mal', ',', 'le', 'honnête', 'blessé']	Exili	—Oui, continua amèrement [MASK], le malheureux! qui, sans scrupule, eût trahi la confiance d'un compagnon de misère! Ah! cette mort-là ne me pèse guère! N'étais-je donc pas dans mon droit en me défendant?
+
+['on', 'il', 'elle', ',', 'On']	Sainte-Croix	Jadis [MASK] attendait avec un certain plaisir les visites quotidiennes du guichetier apportant la pitance. C'était pour lui comme un ressouvenir du monde dont il était depuis si longtemps séparé, un trait d'union entre la société des vivants et celle des morts. Maintenant ces visites lui paraissaient insupportables.
+
+['celui-ci', 'Jean', 'Pierre', 'Jacques', 'Martin']	Cosimo	—Voyez donc le mur en cet endroit, monsieur, dit [MASK]. —Oui, il est à peu près écroulé... l'accès de cette brèche est aussi facile que celui d'une porte. —Certainement, c'est par là que nous passerons.
+
+['Ulrich', 'Olivier', 'Arnaud', 'Arthur', 'Harry']	Exili	Une satanique satisfaction illumina le visage d'[MASK]. —L'orgueil! murmura-t-il, très bien; nous ferons quelque chose de vous, chevalier; mais, continuez, de grâce, car c'est dans le passé que je lis l'avenir.
+
+[',', ';', 'et', '...', '-']	Olivier	Jamais je ne saurais me résoudre à perdre d'honneur celle que j'aime; jamais!... —Alors, monsieur, laissez-la épouser l'autre. —Tais-toi, malheureux! vociféra [MASK] furieux, tais-toi!
+
+['de', ',', 'à', 'en', 'le']	Penautier	—Soit! Nous voici quatre maintenant unis par le pacte terrible du sang. Tu m'appartiens, [MASK], et ce billet que dans ta joie tu as eu l'imprudence de me faire parvenir, après avoir eu la folie de l'écrire de ta main, ce billet te livre à moi;
+
+[',', 'à', 'de', 'se', 'le']	Hanyvel	—Si vous me dites de chercher, monsieur, c'est donc que vous avez trouvé? —Mon Dieu! la charité m'oblige à vous venir en aide, et quelque chagrin que j'éprouve à constater les faiblesses de mon prochain, ne vous semble-t-il pas que chez La Vienne, [MASK]...
+
+['il', 'Il', 'qui', '</s>', 'et']	Olivier	mais, habitué à obéir aveuglément aux moindres désirs du jeune homme, il eût cru manquer à son devoir en l'importunant. Et certes ses lamentations eussent été vaines et se fussent brisées contre la volonté ferme du jeune homme. [MASK] allait bientôt recevoir la récompense de ses travaux.
+
+['un', 'le', "l'", ',', 'Pierre']	Sainte-Croix	Elle se leva et fit quelques pas à travers la chambre avec une visible impatience. —Lui serait-il arrivé quelque chose? murmura-t-elle. Mais, au même moment, la porte s'ouvrit et [MASK], souriant, apparut sur le seuil.
+
+['le', ',', "l'", 'votre', 'tout']	Cosimo	—Vaines imaginations de la fièvre, monsieur, répondait [MASK], qui, pour rassurer son maître, trouvait encore la force de commander à ses propres inquiétudes, vous eussiez mieux fait d'agir comme moi, qui n'ai pas clos l'œil, et de ne point essayer de dormir.
+

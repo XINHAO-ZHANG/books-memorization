@@ -1,0 +1,200 @@
+['il', 'qui', "s'", "c'", ',']	Mathias	[MASK] était buté et orgueilleux. Aussi orgueilleux que lui ? Peut-être bien pire. En tous les cas, le prototype du chasseur-cueilleur qui poursuit son aurochs jusqu’à épuisement et qui fuit sa tribu plutôt que de rentrer bredouille. Non.
+
+['la', 'mettre', 'être', "l'", 'faire']	Lucien	Ce fut le vieux Siméonidis qui les emmena en voiture à la gare, d’une conduite ferme et rapide. — Tenez-moi au courant, dit-il en leur serrant la main. Qu’y a-t-il dans votre paquet, jeune homme ? demanda-t-il à [MASK].
+
+['il', 'elle', 'on', 'tout', 'je']	Lucien	Il avait l’air soucieux, mais pas démoli par la mort de sa femme. Au moins, s’il était l’assassin, il n’essayait pas de jouer la comédie, ce qui était une tactique comme une autre. Vers six heures trente, [MASK] rentra.
+
+['les', 'toujours', 'le', 'vraiment', '.']	Marc	Quel con. C’est sûr qu’à prendre des allures de guetteur dans son nid de pie, ou de capitaine de navire baleinier, le vieux gagnait en importance aux yeux des naïfs. Mais ce genre d’esbroufe n’épatait pas [MASK].
+
+['ton', 'tu', 'que', 'le', 'un']	Leguennec	Donc, ça ne change rien. Ralentis, on arrive. — Auprès de l’inspecteur du 19 e , maugréa [MASK], un peu calmé, je te fais passer pour un de mes collègues. Et tu me laisses faire. Entendu ?
+
+[',', "d'", ':', 'en', 'de']	Lucien	. À quoi bon lui expliquer que je n’ai même pas regardé les noms des villages ? Il ne m’a pas crue et je m’en fous. — Le père de votre père, il était allemand aussi ? interrompit [MASK]. —
+
+['il', 'elle', '-', 'on', '-il']	Lucien	— Si son mari ne s’alarme pas, dit [MASK], c’est qu’il a de bonnes raisons et il n’est pas forcé de déballer sa vie privée sous prétexte que sa femme a déserté, et qu’elle a raté un émincé. Laissons tomber.
+
+[',', ';', ':', 'le', 'et']	Marc	? Une diversion à ses pensées ? Une enquête ? Elle était finie, l’enquête, avant d’avoir commencé. — On t’a dit qu’il n’y avait rien sous l’arbre, reprit [MASK]. Laisse tomber cette soirée.
+
+['elle', 'et', '.elle', ',', 'qui']	Sophia	[MASK] n’eut pas envie de rester seule toute la journée avec l’arbre. Elle prit son sac et sortit. Dans la petite rue, un jeune type, dans les trente ou plus, regardait à travers la grille de la maison voisine. Maison était un grand mot.
+
+[':', 'non', '...', ',', ';']	Mathias	Merde, il n’avait pas pris de lampe de poche. De toute façon, il n’avait plus de lampe de poche depuis longtemps. Deux ans. Disons deux ans. Il se pencha par-dessus la margelle et appela [MASK]. Pas un son.
+
+['dis-moi', 'ami', 'jacques', 'papa', 'dit-il']	Juliette	— C’est comment ? En bon état ? On peut y vivre ? — Tu veux quitter les autres ? — Dis-moi, [MASK], on peut y vivre ? — Oui, c’est entretenu. Il y a tout ce qu’il faut.
+
+['10', '13', '18', '40', '20']	Marc	— Votre mère m’a dit que vous aviez vendu votre voiture. J’ai téléphoné à tous les garages proches de votre domicile jusqu’à ce que je trouve le bon. — Mais quel mal à ça ? cria soudain [MASK]. Qu’est-ce que tu cherches ?
+
+[',', 'et', 'il', 'qui', 'elle']	Juliette	[MASK] hocha la tête. — C’est indispensable de les appeler Saint Truc ? demanda-t-elle. — Oh non… C’est au contraire une fantaisie vaniteuse et puérile qui m’est venue un soir, en les regardant dans les fenêtres… C’est pour jouer.
+
+['elle', 'jean', 'jacques', 'georges', 'il']	Vandoosler	Genre philosophique, quête de l’impossible, et tout le truc. — N’empêche, dit [MASK], j’aurais bien aimé que tu me la retrouves. — Tu n’espères pas que je vais relire tout le bouquin pour te la chercher, non ?
+
+['</s>', 'il', 'on', '-', 'elle']	Lucien	Les flics n’ont pas encore eu le temps de mettre leur nez là-dedans. Il tira le carton 1978 et en vida proprement le contenu sur la table. [MASK] le feuilleta rapidement. — Ça ne concerne qu’un seul opéra, dit-il.
+
+['bussy', 'maurice', 'celui-ci', 'jacques', 'paul']	Vandoosler	? La réaction ? La crotte de Pigeon ? La baleine ? — Je ne te cause pas de tort, il me semble, dit [MASK] en descendant de sa chaise. Pourquoi t’énerver ? — Tu fais l’important, l’indispensable. Tu fais le beau.
+
+['</s>', 'on', 'il', 'ça', '-']	Sophia	— Qu’est-ce que vous voulez que je vous dise sur cet arbre ? [MASK] m’en a fait toute une histoire ! Je ne pensais pas qu’elle irait jusqu’à faire creuser dessous. Qu’est-ce qu’elle est encore allée s’imaginer ?
+
+['monsieur', 'maman', 'ma', 'mon', 'madame']	Relivaux	Tout est là. Alors je lui ai tiré le portrait de tas d’autres assassins tout à fait potables. Cet après-midi, [MASK], qui se défend bien, l’avait favorablement impressionné. Il a fallu que j’y mette mon grain de sel.
+
+['elle', 'il', '</s>', 'et', 'on']	Vandoosler	Elle ne voulait pas laisser le petit tout seul. [MASK] suivit des yeux sa longue silhouette qui s’éloignait. Trois petits points. Les jumeaux, la femme. Merde. Il baissa la tête, écrasa sa cigarette.
+
+['il', 'et', 'elle', '</s>', 'puis']	Mathias	Et si ça te distrait de jouer à l’homme des temps obscurs, tu ferais mieux de te mettre dans le crâne que l’homme préhistorique, quoi que j’en pense, n’était sûrement pas assez crétin ni assez primaire pour vivre à poil. [MASK] haussa les épaules.
+
+['jacques', 'jean', 'maurice', 'georges', 'robert']	Vandoosler	Tu as forcé sa porte pendant son absence. Tu vas nous attirer des emmerdements. — Tu as bien piqué le lièvre, l’autre jour, répondit [MASK]. On a du mal à perdre ses habitudes. Je voulais voir. J’ai cherché un peu de tout.
+
+['il', 'et', ',', 'ii', 'i']	Marc	[MASK] pensa que c’était l’occasion adéquate pour amorcer l’offensive audacieuse et désagréable, mais l’idée ne lui semblait plus si bonne. Il se leva et s’assit sur la table pour s’affermir. Il n’avait jamais été bon en restant assis normalement sur une chaise.
+
+['.', 'm', ':', '?', '...']	Sophia	Debout les morts 1995 1 — Pierre, il y a quelque chose qui déraille dans le jardin, dit [MASK]. Elle ouvrit la fenêtre et examina ce bout de terrain qu’elle connaissait herbe par herbe. Ce qu’elle y voyait lui faisait froid dans le dos.
+
+['elle', 'celle-ci', 'il', 'marie', 'marguerite']	Sophia	Elle est forte. Au petit matin, elle est revenue, en silence, en silence… Bon. Il avait passé le moment le plus dur. Le moment où [MASK] était enterrée sous l’arbre. Ce n’était plus la peine d’arracher de l’herbe partout maintenant.
+
+['.', ',', 'de', 'gauche', 'national']	Ouest	Peut-être le père était-il gros et moche, pourquoi pas ? Merde. Qu’est-ce qu’il avait à penser toujours à ce type ? Il secoua la tête, regarda à nouveau vers le front [MASK]. Le jeune hêtre était florissant.
+
+['un', ',', 'le', 'et', '-']	Lucien	— Le chasseur-cueilleur est un sage, proféra [MASK]. Et de plus, depuis qu’il travaille dans le tonneau, il commence à savoir y faire en cuisine. N’étant ni pur, ni sage, je propose de bouffer. —
+
+['jacques', 'catherine', 'jean', 'robert', 'paul']	Marc	C’était la nuit où, assis sur la septième marche, il avait fait de la tectonique des plaques. Le parrain qui descendait pisser dehors avec un sac en plastique. — C’est vrai, dit [MASK]. J’ai cru que tu allais pisser.
+
+['le', 'il', 'elle', 'on', 'michel']	Vandoosler	Merde ou grandeur, mais pas de compromis, pas d’intermédiaire. Pas de juste milieu. Dans le juste milieu, je perds tous mes moyens et je me consterne moi-même. — Ça ne se passe pas chez elle, dit [MASK].
+
+['pierre', 'octave', 'pierrot', 'celui-ci', 'il']	Marc	— Je suis nerveux, dit [MASK]. J’ai le droit de parler. Je suis à mon étage tout de même. — À propos d’étage, c’est toi qui as torché ces pages que j’ai lues sur ton bureau ?
+
+[',', 'le', 'tout', 'ou', '"']	Lucien	. Je n’ai pas envie que tu te fasses trouer le ventre à ton tour. Restons groupés, soldat. Marc s’arrêta de bourrer son petit sac et regarda [MASK]. Mathias d’abord et maintenant, lui.
+
+['</s>', '-', '...', '"', 'il']	Marc	Pas d’événement, pas d’incident mineur, pas la moindre fiente de pigeon, rien. [MASK] descendit faire son rapport au parrain qui préparait un feu pour se sécher. — Rien, dit-il. Je me suis ankylosé cinq heures à regarder le néant.
+
+['celui', 'celle', 'ce', 'ceux', 'et']	Cyrille	Oui, juste à temps. Elle passa, la démarche un peu endormie, tenant par la main [MASK] qui avait l’air de lui raconter des tas d’histoires. Comme hier, elle ne leva pas la tête vers la baraque.
+
+['et', ',', '...', ':', 'ou']	Marc	— Avance, dit [MASK] sans le lâcher. Dire qu’il faut encore qu’on le tire jusqu’à son troisième étage. C’est sans fin. — « La connerie militaire et l’immensité des flots sont les deux seules choses qui puissent donner une idée de l’infini
+
+['il', 'lui', 'elle', 'on', 'johnny']	Georges	— Forcément oui. Il le fréquentait même beaucoup en espérant que ça le pistonnerait. En 78, [MASK] a fait sa dernière figuration. Ça faisait quatre ans qu’il était là-dedans et ça ne débouchait sur rien. Il s’est découragé.
+
+['il', 'elle', 'on', 'lui-même', 'celui-ci']	Sophia	Il faudrait connaître les noms des deux figurants qui ne sont pas revenus le lendemain. C’est presque impossible. Comme [MASK] a refusé à l’époque de déposer plainte, il n’y a pas eu d’enquête. — Ça, c’est curieux.
+
+['</s>', 'il', '"', '--il', '...']	Grand-père	C’est bien plus tard que j’ai pu reprendre, quand, à sa mort, il m’a laissé un gros capital. [MASK] avait beaucoup d’hectares et d’idées fixes. Il avait mis une condition impérative pour que je touche son héritage : il exigeait que je reprenne le piano…
+
+['jacques', 'julien', 'pierre', 'robert', 'marcel']	Marc	Et où est le quatrième, hein ? Nulle part. Voilà ce que c’est… Une voiture à trois roues, un char à trois chevaux. Vraiment marrant. — Marrant ? Parce que ça verse dans le fossé ? demanda [MASK], énervé.
+
+['le', 'la', "l'", 'il', 'alors']	Marc	— C’est un truc, dit [MASK]. — Peut-être, mais ça marche bien. Parce que moi, au lieu de réfléchir, j’ai versé dans le ridicule : je lui ai montré ma bibliothèque pour lui prouver que je savais lire.
+
+['</s>', '-', '--', 'il', '--il']	Marc	Et voilà. C’était exactement ce qui s’appelle être dans la merde. Et depuis combien de temps ? Disons deux ans. Et au bout de deux ans, le coup du tunnel. [MASK] tapa du bout du pied dans un caillou et le fit progresser de six mètres.
+
+['lui', 'vous', 'dieu', 'lui-même', 'moi']	Mathias	Il changea de position sur son tabouret. Il lui faudrait prévoir un coussin pour l’avenir. Il s’imagina un instant bloqué pour des années devant sa fenêtre, installé dans un fauteuil spécial, capitonné pour l’attente inutile, avec [MASK] comme seul visiteur avec des plateaux.
+
+['?', 'qui', '!', '</s>', 'gaston']	Leguennec	Mais comment veux-tu enfoncer ça dans le crâne de [MASK] ? Elle a bien choisi son soir pour sa balade ! Après les ennuis que ça lui a déjà valus, elle aurait pu se tenir tranquille, non ? —
+
+['elle', 'il', 'on', 'et', 'qui']	Sophia	— [MASK] essayait de le lancer. C’était le beau-fils de son père après tout. Elle avait pu s’attacher à lui. — Ou lui à elle, plutôt. Tu dis qu’il épinglait des photos d’elle sur les murs de sa chambre.
+
+['il', 'et', ',', 'lui', 'qui']	Marc	[MASK] pensa que, décidément, il n’arriverait jamais à comprendre ce type, ils étaient tous graves, le meurtrier était à quelques pas d’eux, et lui ne pensait qu’à briquer sa table en bois. Alors que sans lui, toute l’affaire serait restée bloquée.
+
+['la', 'elle', 'de', 't-elle', 'une']	Juliette	Si elle est partie en promenade avec son copain grec, ça ne nous regarde pas ! — Mais il y a l’émincé aux champignons, reprit [MASK], butée. Elle m’aurait avertie. De toute façon, j’aimerais mieux savoir. Ça me rassurerait.
+
+['non', 'maman', 'papa', 'dit-elle', 'dit-il']	Mathias	Tu n’as jamais été raisonnable avec ça. — N’en parle pas, [MASK], ce n’est plus le moment. Où habites-tu ? — Dans une chambre que je quitte dans dix jours. Les affiches ne me permettent plus mes vingt mètres carrés.
+
+[',', '"', 'qui', '...', 'les']	Leguennec	— Rien. Le chaud. Je comprends mieux. — Qu’est-ce qu’on doit faire ? demanda Marc au parrain. Prévenir [MASK] ? S’il se produit un autre pépin et qu’on n’a rien lâché, on sera bons pour complicité ce coup-ci.
+
+[',', ':', 'de', '1', 'moitié']	Sophia	À cause de l’étoile. J’ai eu affaire à ce type plusieurs fois avant mon mariage. Un admirateur-rhinocéros-impulsif. — Pardon ? — Non, rien. Un fidèle de [MASK]. — Son ancien amant. —
+
+['on', 'il', 'chacun', 'en', 'qui']	Lucien	On entendit un fracas au sous-sol et [MASK] revint, ravi, un annuaire sous le bras. — Désolé, dit-il, tout est tombé. Il s’installa avec son verre à un bout de la grande table et se mit à compulser l’annuaire.
+
+['personne', 'lui-même', 'je', 'celui-ci', 'rien']	Sophia	Mais le plus vieux. Soixante, soixante-dix. On pouvait croire qu’il sortirait de cette gueule une voix de stentor, mais il avait au contraire un timbre si doux et bas que [MASK] n’avait pas encore pu saisir un seul mot de ce qu’il disait.
+
+['il', 'lui', 'elle', 'personne', 'ça']	Vandoosler	Oui mais lui, ça l’amusait. Plus que ça même. Et jusqu’ici, [MASK] ne s’était jamais vu renoncer à quelque chose qui lui procurait du plaisir. Donc, il verrait ce qu’ils allaient donner sur l’actuel, les trois chercheurs du Temps.
+
+['le', 'paul', 'm', 'thomas', 'martin']	Marc	Il était très désireux d’être seul. Je suis entré une fois lui porter du café. Je crois qu’il consultait le carton 1982, sans certitude. Je vous laisse, vous n’avez pas de temps à perdre. — Une question encore, demanda [MASK].
+
+['il', 'elle', 'tu', 'on', 'celui-là']	Lucien	— Ne t’énerve pas, dit-il, [MASK] n’a pas tort. J’aime donner mon avis sur tout. Surtout quand j’ai raison. Lui aussi aime ça d’ailleurs. Même quand il se trompe.
+
+['on', 'il', 'elle', 'chacun', 'napoléon']	Marc	Il flottait. Il passait d’ordinaire très peu de gens dans cette petite rue et encore moins quand il flottait. Très difficile de repérer quoi que ce soit sous des parapluies. Comme [MASK] l’avait pressenti, il ne se passa strictement rien.
+
+['que', ',', 'heures', 'elle', 'ce']	Marc	Pourtant, elle pensait qu’elle était tombée dans la bonne maison. Qu’il fallait continuer. — Oui. Trente mille francs pour un trou, et pour votre silence. — Mais, commença [MASK], madame… —
+
+['celui', 'ce', 'celle', ',', 'ceux']	Gosselin	Plus d’un an après, le critique croise et reconnaît [MASK] qui, du coup, l’abat avec son ami Frémonville. À moi, ça me paraît plus grave de descendre deux gars que d’être inculpé pour coups et viol. Ce double meurtre est con et démesuré.
+
+['il', 'robin', 'thomas', 'harry', 'elle']	Siméonidis	Deux points : [MASK] n’est pas riche et il conduit toujours. Mais la donnée de base reste celle-ci : c’est un fiévreux fervent de sa fille. Atterré par sa mort. Il a tout collectionné sur elle, tout ce qui s’est dit, écrit, photographié, balbutié, chuchoté,
+
+['les', '.', 'eux', 'lui', 'la']	Sophia	Il a fini par en prendre son parti. Comme quoi, son idée de la maison n’était pas si bête. Moi, en revanche, c’est comme ça que je suis devenue amie avec [MASK]. Juliette termina son sirop et les regarda tour à tour.
+
+['mrs', 'le', 'm', '.', 'la']	Marc	Le type hocha la tête et le suivit sans réelle résistance jusqu’à une cabine au coin de la rue. — C’est que je n’ai pas le téléphone, expliqua [MASK]. — Ah bon, dit le type.
+
+['il', 'on', 'lui', 'elle', "l'"]	Dompierre	— Pour l’instant, je dirais entre onze heures et deux heures du matin. Je serai plus précis après l’autopsie car le patron sait à quelle heure [MASK] a pris son dîner. Je vous ferai parvenir mes premières conclusions dans la soirée.
+
+['à', ',', 'que', 'mais', 'et']	Marc	— Au cas où, [MASK], au cas où. Je ne suis peut-être pas vouée à la solitude pour toujours… On ne sait jamais. Et comme mon frère vit avec moi, un petit pavillon pour l’indépendance, au cas où… Ça te paraît ridicule
+
+['ça', 'cela', 'il', 'on', "j'"]	Marc	? Ça attendrait encore. Il n’y avait rien à faire dans ce café, et [MASK] attendait. Du doigt, il dessinait des motifs sculpturaux sur la petite table. Ses mains étaient maigres et longues. Il aimait bien leur charpente précise et les veines dessus.
+
+['</s>', 'on', 'il', 'qui', 'elle']	Mathias	Les niveaux étaient intacts à soixante-dix centimètres sous la surface. Une espèce de remblai de la fin du XVIII e siècle, l’âge de la maison. [MASK] sortit de sa poche le fragment d’une pipe en terre blanche au fourneau empli de terre et le posa sur la table.
+
+['le', 'la', 'un', 'cheval', ',']	Vandoosler	C’est comme ça qu’il s’endormit. Il regagna sa chambre à quatre heures du matin, courbatu et glacé. Il n’eut pas le courage de se déshabiller. Vers sept heures, il entendit [MASK] descendre. Ah, oui. Le sabot.
+
+['</s>', '"', 'il', 'elle', '_']	Lucien	De la terre qu’on n’ira pas remuer parce qu’il y a un arbre par-dessus. De la terre scellée. Autant le dire, une tombe. Le problème ne manque pas d’intérêt. [MASK] était brutal et ne prenait pas quatre chemins pour dire son avis.
+
+['il', '</s>', '--il', '-il', '-']	Marc	Je prends tes cœurs, je harponne sur valet de carreau. [MASK] empocha le pain et mit deux pommes dans son autre poche. Il se demanda à quel jeu étrange les deux flics étaient en train de jouer. Il s’en foutait. Il fallait qu’il marche.
+
+['</s>', '"', ')', "'", 'il']	Marc	Il a forcément dû déclarer son absence à la police. [MASK] attendit quelques instants. Il avait laissé exprès la porte ouverte pour que le type entende tout ce qu’il disait et il n’avait pas l’air surpris.
+
+['toi', 'lui', 'moi', 'cela', 'elle']	Lucien	Et sans [MASK], tu n’aurais jamais couplé l’affaire à l’assassinat des deux critiques et tu n’aurais jamais identifié le figurant Georges Gosselin. — Et sans toi, il serait dans ce bureau à cette heure ! — Exactement. Si on jouait aux cartes en attendant ?
+
+['</s>', '"', 'il', 'elle', 'lui']	Leguennec	Il ne l’avait pas réellement interrogé car il était aux limites de la légalité et il le savait. [MASK] agissait sous impulsion et entendait vider les lieux au plus vite s’il n’en sortait rien. Les deux flics qui creusaient lui étaient acquis. Ils la fermeraient.
+
+['il', '-il', 't-il', 'dieu', ',']	Mathias	Le sang lui frappa les tempes. Toujours ces sacrés coups d’énervement. La tectonique. Comment diable faisait donc [MASK] pour rester laconique et géant alors que rien de ce qu’il souhaitait ne lui arrivait ? Lui avait l’impression de s’émacier dans l’exaspération.
+
+['on', '"', ':', '.', ',']	Marc	— Il n’existe pas de pièce sans ouverture, dit-il. Et en bas d’une ouverture, il y a toujours un sol, quel qu’il soit. C’est la courette aux poubelles, je préfère ça à la rue. J’y suis. — On monte, dit [MASK].
+
+['est', 'que', 'et', 'de', 'a']	Leguennec	Certain, [MASK]. — Qu’est-ce que tu sais ? — Rien de plus que ce qui t’a été dit ce matin au téléphone. Un ami à moi. Au fait, ne te fatigue pas à rechercher les types qui ont creusé la première tranchée
+
+['robert', 'georges', 'tom', 'paul', 'alice']	Marc	Tu te souviens ? — Même pour bouffer ? — Même. On va finir ce rôti. Ensuite tu monteras à ta fenêtre et tu attendras. Ne prends pas un livre en même temps. Reste à ta fenêtre et regarde. — Je vais m’emmerder, dit [MASK].
+
+['personne', 'il', 'on', 'rien', 'nul']	Jacqueline	Son autoritarisme en aurait fait un tyran parfait si [MASK] n’avait eu de quoi se défendre. Mais la souffrance patente du père grec interdisait qu’on le soupçonne de quoi que ce soit. Tout le monde était d’accord là-dessus.
+
+['il', 'elle', 'on', '-', 'maman']	Jacqueline	— [MASK] n’a pas pleuré. Elle n’est pas mauvaise mais volontariste, toujours désireuse de « faire front ». Pour ma femme, « faire front » est un label suprême de qualité. C’est devenu une telle habitude chez elle qu’on ne peut rien tenter contre.
+
+[',', '"', ')', '.', 'et']	Marc	Assieds-toi, dit-il, raconte. — Je ne sais rien de plus ! cria [MASK], toujours essoufflé. C’était à la radio. On l’a tué, c’est tout ! Tué ! Il a été retrouvé ce matin dans le parking de son hôtel.
+
+['courtoisie', 'contrôle', 'prison', 'dimanche', 'voiture']	Dompierre	— Il a pu récidiver quinze ans plus tard. Et ça aurait mal tourné. Quant à la visite de [MASK], ça a dû l’affoler. Il a pris les devants. — Ça n’explique pas l’arbre. — Toujours cet arbre ?
+
+['dieu', 'cesser', 'certains', 'chacun', 'quelques-uns']	Mathias	À tout prendre, je préfère répondre à un vrai flic, pourri à ce qu’on m’a dit, qu’à trois faux flics empêtrés dans leurs intentions douteuses. Sauf l’intention de [MASK] de couper du pain, qui est bonne. Je vous écoute.
+
+['le', 'la', "l'", 'paul', 'm.']	Juliette	— Évidemment, dit [MASK]. — Passe la consigne à ton frère, au cas où. Je fais un saut à la maison et je prends le prochain train. Un brusque coup de vent ouvrit une fenêtre mal fermée. La tempête prévue arrivait, apparemment plus consistante qu’annoncée.
+
+['on', 'il', 'ils', 'et', 'elle']	Marc	Ah oui ? Tu sais déjà ça ? — Oui, je le sais. Celui-là, c’est un tueur. Un tueur, tu m’entends bien ? Bonsoir tout le monde. 23 Lundi, vers midi, [MASK] entendit une voiture s’arrêter devant leur grille.
+
+['elle', '</s>', 'il', '-', 'emma']	Juliette	? Quel intérêt ? — Aucun. Je voudrais juste savoir. [MASK] haussa les épaules et attrapa son sac. Elle en sortit un petit agenda. — Je note tous ses voyages, dit-elle. Pour savoir quand il rentre, pour lui préparer son repas.
+
+['</s>', '"', ')', '...', '_']	Marc	? Ça peut être différent, quand on voit les gens de près. [MASK], assis-debout sur la grande table en bois, croisant ses jambes minces, jolie pose, assez joli visage qui la regardait sans impatience.
+
+['il', 'elle', 'on', 'qui', 'lui']	Marc	Au début bien entendu ça distrait, ça fait rêver, ça encourage. Ensuite, ça énerve et puis ça aigrit. C’est assez connu. Et [MASK] ne voulait surtout pas devenir aigri. C’est moche, c’est risqué, surtout pour un médiéviste.
+
+['je', 'personne', 'quiconque', 'ce', 'tu']	Sophia	— Il avait peur ? — Il avait honte. Il ne voulait pas que [MASK] devine qu’il l’avait suivie jusque-là, ni que tout le quartier s’en mêle et se foute de sa gueule. C’est bien naturel.
+
+['celui-ci', 'jacques', 'georges', 'paul', 'robert']	Lucien	Il n’y aurait peut-être rien à en tirer mais l’idée qu’il pourrait les consulter sans hâte, dans l’abri de son deuxième étage médiéval, le soulageait. L’essentiel du carton y passa. — Des photos, dit [MASK] en agitant une main.
+
+['elle', 'il', 'maurice', 'jacques', 'georges']	Lucien	Ça vaut pour toi aussi. Pas un mot ! Tu n’as rien dit à ton photographe au moins ? — Mais non, dit [MASK]. Je ne suis pas idiot. Je fais ma table mais j’entends quand même ce qui se dit.
+
+['elle', 'alice', 'anna', 'charlotte', 'jeanne']	Alexandra	— J’y vais, dit [MASK] en se levant d’un bond. Elle souleva avec précaution le petit garçon, cala sa tête sur son épaule, cheveux noirs contre cheveux noirs, attrapa d’une main son écharpe, son blouson.
+
+["j'", 'je', 'ce', 'à', 'me']	Lucien	En tout cas, il est dans cet état-là depuis cet après-midi. Je n’en peux plus, moi, de sa foutue guerre. Il n’y a que les excès qui l’intéressent. Tu m’entends, [MASK] ? Ce n’est plus de l’histoire que tu fais
+
+['le', 'la', 'il', 'en', "l'"]	Lucien	Ça a l’air de t’étonner ? — C’est-à-dire que je pensais autre chose. — J’imagine ce que tu pensais, dit [MASK]. Ceci posé, il vaut mieux être deux en ce moment.
+
+['ceux', 'celles', ',', 'ce', 'et']	Lucien	Il sortit de son lit et vit par la fenêtre [MASK] qui gesticulait dans la rue en criant leurs noms. Il s’était juché sur une grande poubelle, on ne sait pourquoi au juste, peut-être pour mieux se faire entendre, et son équilibre paraissait précaire.
+
+[':', '.', 'jean', '-', 'georges']	Marc	— Je vais te montrer une baraque, dit [MASK]. Si tu marches avec moi, on franchira peut-être ensemble les trente mille ans qui nous séparent. — Et la merde avec ? — Je n’en sais rien. Tu m’accompagnes ?
+
+['je', 'il', 'heures', 'on', 'ans']	Mathias	32 [MASK] frottait sa masse d’épais cheveux blonds et les emmêlait plus encore qu’il n’était possible. Les autres venaient de le mettre au courant et il était abasourdi. Il n’en avait pas même retiré sa tenue de serveur.
+
+['celui', 'ce', 'un', 'pierre', 'merlin']	Pierre	Mais pour l’arbre, il pouvait avoir raison. Peut-être, mais pas sûr. Elle entendit [MASK] qui disait « au revoir-à ce soir-ne-t’en-fais-plus », et elle resta seule. Avec l’arbre.
+
+['jacques', 'robert', 'elle', 'maurice', 'celui-ci']	Mathias	Et puis quoi encore ? Est-ce que tu te rends bien compte de ce que tu dis ? — Oui, dit [MASK], mais le gars est loin d’être un con. — Il paraît. Mais quand même. On ne peut pas y songer.
+
+['r', 'ir', 'le', 'est', '...']	Marc	En entendant sa voix, [MASK] respira. Qu’un type de trente-cinq ans soit chez lui un mercredi à quinze heures vingt est la preuve tangible qu’il est dans une merde de première qualité. C’était déjà une bonne nouvelle.
+
+['jacques', 'rodolphe', 'jean', 'caroline', 'pierre']	Mathias	Il se détendit un peu, se serra dedans, et sa mâchoire trembla moins fort. Il gardait les yeux rivés vers l’herbe, par instinct, pour ne pas risquer de l’apercevoir. — Continue, reprit la voix sourde de [MASK]. Maintenant, ça revenait.
+
+['</s>', '--', '-', '"', '_']	Pierre	— Il n’y était pas hier. — Possible. — Certain. Qu’est-ce qu’on fait ? Tu as une idée ? — Pourquoi faire une idée ? — Cet arbre me fait peur. [MASK] rit. Il eut même un geste affectueux. Mais fugace.
+
+['"', '</s>', '-', '...', 'il']	Marc	— C’est ça. — Ça veut dire que les flics ont creusé plus profond que nous. — Oui. C’est ce que j’ai pensé. [MASK] rangea le fourneau de pipe dans sa poche et sentit sous ses doigts le tesson de grès.
+
+['femme', 'vie', 'mère', 'main', 'fille']	Juliette	— Tu affirmes que vers deux heures du matin, tu n’as absolument rien entendu ? chuchota-t-il. — Puisque je te le dis ! chuchota [MASK] à son tour. Tu n’as aucun souci à te faire.
+
+['lui', 'celui-ci', 'lui-même', 'pierre', 'julien']	Dompierre	Aucun d’eux n’osait le toucher, comme s’ils avaient peur. L’écriture au doigt laissée par [MASK] était faible, irrégulière, d’autant qu’il avait dû lever le bras pour atteindre le bas de la portière. Mais il n’y avait aucun doute possible.
+
+['</s>', '-', '"', '...', 'elle']	Alexandra	Tu n’as qu’à voir, j’ai trois réveils en batterie sur ma table de nuit, pour être sûre de ne pas rater l’école. En plus… — En plus ? [MASK] hésita, les sourcils froncés.
+

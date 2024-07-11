@@ -1,0 +1,200 @@
+['James', 'Charles', 'William', 'Henry', 'David']	John	au loin seulement on distinguait une pâle lueur. Le colonel suivit [MASK] en se traînant sur un sol humide et fangeux.. Pendant quelque temps, les deux Anglais s’avancèrent ainsi, rampant sur les genoux, sur les mains et sur le ventre, dans l’obscurité la plus complète.
+
+['Joseph', 'Dieu', 'Pierre', 'Jésus', 'Charles']	Sidney	Te dire, mon enfant, l’attachement profond, aveugle, de [MASK] pour moi, serait impossible; une seule affection luttait dans son cœur avec celle qu’il m’avait vouée, c’était sa tendresse pour toi, toi sa parente éloignée qu’il avait recueillie;
+
+['Ah', 'Oh', 'oh', 'Hélas', 'Enfin']	Mordioux	de dénouer le lien conjugal... [MASK]! je vais la voir, lui plaire, la séduire; pauvre femme... elle ne se doute pas que son vainqueur est à sa porte! Si... si... je parie que son petit cœur bat bien fort à ce moment.
+
+['tous', 'chacun', 'Pierre', 'Dieu', 'pierre']	Croustillac	Pendant quelque temps la crainte les retint; mais encouragés par l’immobilité de [MASK], l’un des plus hardis et des plus affamés grimpa lestement sur l’arbre, et le Gascon vit tout à coup près de lui deux gros yeux brillants et verdâtres qui luisaient au milieu de l’obscurité.
+
+['Madame', 'madame', 'Mme', 'Catherine', 'Marie']	Angèle	La porte fermée, l’aventurier s’écria: —Je vous répète, madame, que vous avez indignement abusé de ma délicatesse! —J’ai à vous demander compte de votre déloyale conduite, monsieur, dit fièrement [MASK]. Mais expliquez-vous d’abord.
+
+['coq', 'perroquet', 'troupeau', 'bébé', 'dauphin']	Gascon	Excepté les cris du [MASK], on n’entendait aucun bruit. Le soleil allait bientôt se lever; l’air, rafraîchi par l’abondante rosée de la nuit et par la brise de mer, était imprégné des odeurs fortes et aromatiques des fleurs tropicales.
+
+['Tristan', 'Merlin', 'Roland', 'Richard', 'Jean']	Croustillac	Le chevalier commença à trouver son rôle moins divertissant et à maudire la sotte curiosité, l’imprudente étourderie qui l’avaient ainsi jeté au milieu d’une position aussi compliquée que dangereuse. L’esprit de [MASK] était trop mobile et trop aventureux pour s’appesantir longtemps sur de craintives et tristes pensées;
+
+['bien', 'oui', 'quoi', 'non', 'voilà']	mordioux	elle est passionnément amoureuse de son mari, et quoiqu’on vous ait pris complaisamment pour lui, il est aussi beau, aussi grand seigneur, aussi intéressant, que vous êtes laid; ridicule et homme de peu, quoique de race antique... Polyphème. —Eh! [MASK]!
+
+['moi', 'Voltaire', 'lui', 'Dieu', 'vous']	Croustillac	foi de [MASK], il me donne des scrupules. Et il reprit tout haut: —Vous ne comprenez donc pas, mon brave ami, que cet homme aussi séduisant qu’irrésistible dont je vous parle... c’est moi? —Ah! bah! c’est impossible...
+
+['Il', 'Elle', 'On', 'il', '</s>NOTUSED']	Croustillac	on dirait que des chats viennent ici faire leur sabbat. Je le disais bien... Puisque voici des chats, la maison ne doit pas être éloignée. [MASK] se trompait. Ces chats n’étaient pas domestiques, mais sauvages, et jamais chats-tigres ne furent plus féroces;
+
+['Oui', 'Oh', 'Ah', 'Seigneur', 'Monsieur']	Jacques	, dans une affreuse perplexité. —[MASK], peut-être est-ce un honnête homme lui dit tout bas Angèle; mais son exaltation m’épouvante, regarde comme il a l’air égaré. —Il faut risquer de nous confier à sa loyauté, il parlera sans cela.
+
+['maître', 'monsieur', 'madame', 'ami', 'Monsieur']	Jacques	—Que faire, [MASK]? Quel danger court cet homme? —D’immenses..... possesseur d’un pareil secret d’état! —Mais alors... il faut te perdre... ou le suivre. Ah! que faire?
+
+['...', '»', '</s>NOTUSED', '«', 'et']	Mirette	... [MASK], malgré sa soumission passive, ne put s’empêcher de tressaillir encore en entendant sa maîtresse parler ainsi, quoique la pauvre esclave dût être habituée à ces abominables plaisanteries, et sans doute à de bien plus grandes énormités. —Qu’est-ce que tu as
+
+['cheval', 'dragon', 'Dieu', 'Jésus', 'bataille']	Croustillac	—Comment, qu’importe, mon révérend? mais je tiens à montrer à ces drôles ce que c’est que le sang de [MASK]. Ah! ils croient m’intimider!... Mais ils ne savent donc pas que cette épée que voilà... s’agiterait toute seule dans son fourreau!
+
+['Dieu', 'dieu', 'cela', 'DIEU', 'diable']	Lucifer	—Donne-moi un baiser par remords, donc, et j’en aurai... —Que [MASK] me soit en aide! Il n’y a que les femmes pour être aussi criminelles... Ah! ma chère, que vous êtes bien nommée... vous me faites frémir...
+
+['Maître', 'Alors', 'Maintenant', 'Madame', 'Mademoiselle']	Mirette	Elle portait une robe de guinée blanche à raies écarlates, et avait des anneaux d’argent aux bras et aux jambes. —[MASK], as-tu fini de ranger les fleurs là-dedans? lui dit la Barbe-Bleue. —Oui, maîtresse.
+
+['Marie', 'Catherine', 'Jeanne', 'Suzanne', 'Louise']	Angèle	L’aventurier était si touché de l’état d’anxiété où il voyait [MASK], il conservait si peu d’espérance... qu’il osait à peine lui rappeler la promesse que celle-ci lui avait faite. Enfin il lui dit avec embarras: —
+
+['Monsieur', 'Madame', 'monsieur', 'Monseigneur', 'Chevalier']	Croustillac	mais elle vous est offerte de grand cœur. —Et je l’accepte avec reconnaissance, mon père, dit [MASK]. A ce moment, Monsieur vint avertir le curé qu’il était servi, et le père Griffon précéda le chevalier dans la salle à manger.
+
+['Alexandre', 'Frédéric', 'Sophie', 'Socrate', 'David']	Angèle	—Mais sans doute! dit [MASK]. —N’est-ce pas, continua le prince, n’est-ce pas qu’on pouvait ajouter foi à ses paroles sans être égaré par la peur de la mort, sans être entraîné par un lâche, par un horrible égoïsme?
+
+['Molière', 'Shakespeare', 'Voltaire', 'Monsieur', 'Mozart']	Croustillac	—Oui, oui, qu’on l’accroche à la grande vergue, répétèrent les gentilshommes anglais, nous nous expliquerons après. —Vous m’obligerez beaucoup en vous expliquant avant! s’écria [MASK]. —Il parle, il ose parler, cria-t-on.
+
+['Il', 'Gabriel', 'Ceci', 'Georges', 'Pierrot']	Colas	Quelques mots sont nécessaires pour présenter au lecteur le nouvel acteur dont nous n’avions pas eu jusqu’ici occasion de parler. [MASK] était un sanglier privé, d’une merveilleuse intelligence, dont le père Griffon se faisait toujours accompagner et précéder lors de ses excursions à travers les bois.
+
+['toi', 'seigneur', 'Henri', 'Seigneur', 'Charles']	Angèle	—Ah! qu’as-tu fait, [MASK]! s’écria le duc, l’épée de mon père, une boîte qui m’a été donnée par ma mère... et le manteau qui a appartenu au plus saint, au plus admirable martyr qui se soit jamais sacrifié à l’amitié
+
+['Arthur', 'Merlin', 'Alexandre', 'Guillaume', 'Napoléon']	Rutler	La nuit était claire, le chevalier distingua parfaitement les traits du colonel, ils lui étaient absolument inconnus. —Monseigneur, rappelez-vous votre promesse! lui dit [MASK], qui ne manifesta pas le moindre étonnement lorsque le visage de l’aventurier fut découvert.
+
+['Socrate', 'Voltaire', 'Jésus', 'Dieu', 'Freud']	Croustillac	— J’en ai mangé , me répondit ce malheureux idolâtre, avec une sorte de satisfaction orgueilleuse et farouche. —C’est une manière comme une autre de goûter quelqu’un, dit [MASK], et de partager ses principes.
+
+['Churchill', 'Hitler', 'Napoléon', 'Harry', 'Albert']	Croustillac	Puis elle tira de sa poche un petit médaillon où était son chiffre et dit à [MASK]: —Voici ce que j’étais revenue chercher ce soir; je voulais vous offrir ce gage de notre amitié; c’est en vous l’apportant que j’ai entendu votre conversation avec le colonel Rutler...
+
+['on', 'il', 'tout', 'ça', 'elle']	Chemeraut	—O généreux... généreux ami... Et vous, mon Dieu... et vous... —Soyez tranquille, une fois que je n’aurai plus à veiller sur vous, je veillerai sur moi. Mais vite, vite, vos diamants; [MASK] peut revenir;
+
+['Marie', 'Pierre', 'Henri', 'Alexandre', 'Dieu']	Sidney	—Hélas! oui, j’acceptai, car tout ce que me disait [MASK] ne me paraissait que trop vraisemblable; sa présence à cette heure dans la Tour, malgré la sévère surveillance dont j’étais environné, devait me faire croire qu’une volonté toute-puissante concourait mystérieusement à mon évasion.
+
+['Ah', 'Oh', 'Hélas', 'Quoi', 'Eh']	Mordioux	[MASK]! vous vous trompez furieusement! —Comment, s’écria le duc, vous persistez? —Si je persiste! je persiste doublement, s’il vous plaît, et par une raison toute simple... Tenez, monseigneur... pourquoi vous cacherais-je cela?...
+
+['Monseigneur', 'Monsieur', 'Roland', 'Madame', 'François']	Chemeraut	—Qu’y a-t-il donc, monseigneur? s’écria [MASK]... —Il y a, monsieur, dit le Gascon, que ce misérable a osé me tenir des propos d’une si abominable insolence que, malgré le mépris qu’il m’inspire, j’ai été obligé de le faire bâillonner!
+
+['Arthur', 'Guillaume', 'Jean', 'Tristan', 'Roland']	Croustillac	Le curé dormait encore, ne croyant pas le chevalier capable de s’aventurer sans guide dans un pays inconnu. Il se trompait. [MASK], pour échapper aux instances et aux reproches de son hôte, partit au moment même. Il ceignit sa formidable épée, arme assez incommode pour traverser des buissons;
+
+['monsieur', 'capitaine', 'Monsieur', 'madame', 'commandant']	Thomas	—C’est bien, [MASK]; et d’ailleurs, ajouta l’officier en tirant un coup de fusil en manière de signal, le garde-côte n’eût pas laissé mettre le brigantin à la voile. Il est inutile de peindre l’affreuse angoisse des acteurs de cette scène.
+
+['Napoléon', 'Joseph', 'Martin', 'Pierre', 'David']	John	Des chats-tigres, étant descendus dans le précipice, dépistèrent le cadavre de [MASK], s’en approchèrent d’abord timidement; puis, bientôt enhardis, ils le dévorèrent. Le colonel les entendit et ne sut que penser de ces cris féroces;
+
+['Henry', 'Georges', 'Jean', 'Henri', 'Pierre']	Sidney	je ne le sais... Le lendemain on vint chercher [MASK], il suivit ses bourreaux, mais il refusa de parler de peur qu’on ne le reconnût à sa voix... Le sacrifice fut accompli, ajouta Monmouth en essuyant ses larmes qui avaient encore coulé à ce récit.
+
+['hélas', 'oh', 'quoi', 'ô', 'diable']	palsambleu	il serait, [MASK]! piquant de m’y faire conduire par cet ours... Il reprit donc tout haut: —Mais, mon brave chasseur, hélas! toute gloire s’achète, j’ai voulu vous voir, je vous ai vu.
+
+['Il', 'Louis', 'On', 'Antoine', 'Charles']	Croustillac	[MASK] se montra donc d’assez bonne composition; il se dit avec la conviction d’un homme qui sait sagement modérer et borner ses prétentions: —Pourvu que la veuve n’ait pas plus de quarante à cinquante ans, pourvu qu’elle ne soit ni borgne ni audacieusement bossue;
+
+['Monsieur', 'Charles', 'Monseigneur', 'Henry', 'Napoléon']	Chemeraut	—C’est bien notre duc, notre véritable duc, reprirent les lords. —Monseigneur, reprit [MASK], j’ai été indignement abusé depuis avant-hier... par un misérable qui avait pris votre nom. —Oui, et nous allons le faire pendre en ton honneur!
+
+['On', 'Il', 'on', 'Qui', 'Chacun']	Monseigneur	Il reprit tout haut:—Vous n’ignorez pas, monsieur, que ce sont justement les hommes d’une force extrême qui ressentent le plus vivement ces secousses; je vous dirai même... mais cela tout à fait entre nous, au moins... —[MASK] peut être sûr de ma discrétion...
+
+['il', 'elle', 'on', 'Il', 'Madeleine']	Croustillac	de me parler ainsi... A moi!... à moi!... à l’aide!... au secours!... Puis [MASK] dit tout bas et rapidement au duc: —Vous m’y forcez, pardon, monseigneur, mais je n’ai pas d’autre moyen.
+
+['Monseigneur', 'Napoléon', 'Monsieur', 'monsieur', 'Dieu']	Mortimer	Mais nous voici à bord, monseigneur... Toutes les lumières sont éteintes... Vous n’êtes pas attendu... —Tant mieux! tant mieux!... Pourvu que [MASK] ne soit pas là! —Il me semble que je l’aperçois sur le pont, monseigneur.
+
+['Henry', 'Alice', 'Victoria', 'Catherine', 'William']	Rutler	—Ce n’est pas à moi, milord-duc, de m’étonner de vous retrouver sous ces vêtements, qui doivent cependant vous rappeler des souvenirs... des souvenirs bien cruels... ajouta [MASK] d’un air sombre.
+
+['le', 'Monsieur', 'Voltaire', 'Dieu', 'Madame']	Monmouth	comme vous, je dirais... «Jamais...» Seulement, que répond le bonhomme Chemeraut à ce jamais? le bonhomme Chemeraut vous répond:—«Vous êtes mon prisonnier...» Est-ce vrai? —Malheureusement, cela est possible, dit [MASK].
+
+['il', 'elle', 'Arthur', 'Pierre', 'Guillaume']	Croustillac	il conduisit son hôte dans la chambre qu’il lui destinait, bien décidé à mettre tous les obstacles possibles à la fantaisie du chevalier. Inébranlable dans sa résolution, [MASK] s’endormit profondément. Une ardente curiosité était venue augmenter son entêtement naturel et sa confiance imperturbable dans sa destinée;
+
+['lui', 'il', 'ils', 'eux', 'elle']	Croustillac	le père Griffon et [MASK] restèrent seuls. Après avoir versé un verre de vin au chevalier, le curé lui dit:—A votre santé, mon fils. —Merci, mon père, dit le chevalier en approchant son verre. Portez aussi la santé de ma future;
+
+['Charles', 'Fritz', 'Martin', 'Georges', 'Joseph']	John	—A vos ordres, colonel, seulement au lieu de marchons... c’est rampons qu’il faut dire. Mais voyons donc, ajouta [MASK] en se baissant, si l’on aperçoit toujours la lumière du jour. Oui, oui... la voilà, mais comme ça paraît loin.
+
+['partez', 'allez', 'venez', 'vite', 'messieurs']	Polyphème	Si je partais. —Voyons... essayez... Partez, [MASK]! A peine l’aventurier se fut-il donné mentalement cette permission, qu’appuyant plusieurs coups de talon à son cheval, il partit brusquement avec une grande rapidité.
+
+['Madame', 'Monsieur', 'madame', 'Mme', 'Voltaire']	Croustillac	Je ne voudrais pas te donner un conseil égoïste et lâche; mais encore une fois, il a raison, tu ne peux le nier. Le duc baissa la tête sans répondre. —Je le crois bien, madame, que j’ai raison, dit [MASK].
+
+['Madame', 'Napoléon', 'Molière', 'Voltaire', 'César']	Croustillac	—Ce qui prouve que l’Anglais est incomparablement plus délicat que le Français, et que l’Espagnol est coriace en diable, dit [MASK]; mais avec ces gourmandises-là, il finira un jour par manger la Barbe-Bleue de caresses... si tout ceci est vrai...
+
+['chevalier', 'seigneur', 'comte', 'duc', 'noble']	Croustillac	Qui êtes-vous? où suis-je? que suis-je? suis-je [MASK]? suis-je milord? suis-je le prince? suis-je vice-roi... ou même roi? ai-je eu le cou coupé, oui ou non?... qu’on s’explique;
+
+['Dieu', 'Jésus', 'Christ', 'Marie', 'Satan']	Vénus	malgré la bonne opinion qu’il avait de lui-même, malgré ses consolantes réflexions sur la nudité allégorique de [MASK] et de la Vérité, il regrettait que sa bonne mine naturelle ne fût point relevée par de riches vêtements. Il se hasarda donc, après maintes hésitations, à faire le mensonge suivant au boucanier:
+
+['maman', 'madame', 'fille', 'chéri', 'Mademoiselle']	Angèle	—Tu as raison, mon Dieu, tu as raison, je suis folle d’avoir eu cette pensée, je te comprends! —Relève-toi, calme-toi, [MASK], dit le mulâtre. Je ne crois pas que cet homme soit à craindre;
+
+['le', '</s>NOTUSED', 'la', 'Monsieur', 'madame']	Croustillac	vous le voyez, je n’agis pas sans son agrément. —Une escorte, monsieur, dit l’officier d’un air étonné, vous avez une escorte? —Là... près du môle, monsieur, dit [MASK]. —Oh! c’est différent...
+
+['Non', 'Oui', 'Mais', 'Oh', 'Ah']	Angèle	mais son exaltation m’épouvante, regarde comme il a l’air égaré. —Il faut risquer de nous confier à sa loyauté, il parlera sans cela. —Mais s’il nous trompe? Mais s’il parle? —[MASK], entre deux dangers il faut choisir le moindre.
+
+['il', 'elle', 'Napoléon', 'Bonaparte', 'Louis']	Monmouth	après son exécution même, ses partisans conservèrent l’espérance de le revoir un jour à leur tête .» Nous expliquerons plus tard les causes de la singulière espérance des partisans de ce prince, et comment [MASK] avait en effet survécu à son exécution.
+
+['le', 'Charles', 'Monsieur', 'Madame', 'Henri']	Croustillac	Ah çà! mais le boucanier? —Ma foi, s’écria un passager, je ne sais si je n’aimerais pas mieux encore avoir pour ennemi l’Ouragan que le boucanier Arrache-l’Ame! —Peste! voilà du moins un nom qui promet, dit [MASK].
+
+['Isabelle', 'elle', 'Anne', 'Alexandre', 'Arthur']	Angèle	et je l’ai même, au grand effroi d’[MASK], commandé comme flibustier, dans une rencontre avec un pirate espagnol... Nous vivions donc ici très heureux, presque tranquilles, lorsque j’appris que le chevalier de Crussol, à qui j’avais autrefois sauvé la vie, arrivait comme gouverneur...
+
+['Henry', 'Churchill', 'James', 'George', 'Holmes']	Croustillac	—Des souvenirs cruels? répéta [MASK]. —Milord-duc, dit le colonel, deux ans avant la fatale journée de Bridge-Water, revêtu de cet habit de votre charge, ne fîtes-vous pas hommage à votre royal père du faucon de Lancastre?
+
+['Henry', 'Anne', 'Charles', 'Catherine', 'Richard']	Monmouth	—Eh bien donc, dit [MASK], après la mort de mon père, lorsque le duc d’York, mon oncle, monta sur le trône sous le nom de Jacques II, j’entrai dans une conspiration contre lui. Je ne chercherai pas à justifier ma conduite...
+
+['Monsieur', 'Charles', 'monsieur', 'Louis', 'Henri']	Croustillac	—A merveille! oh! elle comprend à demi-mot, se dit [MASK]; et il reprit tout haut: —Et pourquoi donc, madame, notre entretien serait-il secret? auriez-vous quelque chose de caché pour votre bien-aimé... pour l’amant de votre choix?
+
+['Monseigneur', 'Mgr', 'Dieu', 'Jésus', 'Voltaire']	Croustillac	il lui dit avec une fermeté respectueuse: —Monseigneur, la justice est sévère... mais elle ne dois pas être cruelle. —Qu’est-ce à dire, monsieur? reprit fièrement [MASK], ne suis-je pas seul juge... de la peine que méritent ces coupables?
+
+['Napoléon', 'Voltaire', 'Bonaparte', 'Stanislas', 'Condé']	Croustillac	—Je vais, monsieur, vous donner une preuve de haute estime et de... —Ton estime, scélérat! s’écria [MASK] indigné en interrompant le duc, est-ce bien à moi que tu oses parler ainsi? Ton estime... —Mais, monsieur...
+
+['madame', 'Marie', 'Jeanne', 'Madame', 'Alice']	Angèle	A ce moment, l’aventurier, voyant l’aiguille marquer la cinquième minute, se leva et dit à [MASK]: —Eh bien! madame, à quoi vous décidez-vous? Un oui ou un non, car je suis incapable d’entendre ou de comprendre autre chose;
+
+['cheval', 'nouveau', 'Pierre', 'César', 'Bertrand']	Rutler	il lui fallait décidément suivre le colonel ou lui avouer la vérité. Le Gascon dit à [MASK]: —En supposant, monsieur, que je consente à vous suivre de bon gré, quel sera notre ordre de marche, comme on dit?
+
+['</s>NOTUSED', 'toi', 'Toi', 'Chéri', 'chéri']	Jacques	Croyez-vous que mes regrets seront plus cruels maintenant que je sais qu’il a sacrifié sa vie pour vous, qu’il a fait ce que je ferais pour toi avec tant de bonheur... [MASK], mon amant, mon époux!
+
+['Il', 'Joseph', 'Paul', 'Louis', 'Antoine']	Croustillac	Puis le léger navire, tournant sa poupe vers l’anse aux Caïmans, commença de s’avancer vers la haute mer. [MASK] restait immobile dans une contemplation douloureuse, les yeux attachés sur le bâtiment qui emportait cette femme qu’il avait si brusquement, si follement aimée.
+
+['moi', 'nous', 'lui', 'Duval', 'Voltaire']	Croustillac	Si ce pavillon parlementaire cache une ruse, ce bâtiment sera coulé bas. M. de Chemeraut et [MASK] partagèrent le même étonnement en reconnaissant le Caméléon , à bord duquel s’étaient embarqués le mulâtre et la Barbe-Bleue.
+
+['il', 'elle', 'Monseigneur', 'on', 'Il']	Rutler	—Le fait est que, sans me vanter, je puis dans cette circonstance, si je veux m’en mêler, vous être de quelque secours. Après un moment de silence, [MASK] reprit: —L’on ne m’avait pas exagéré la fermeté de votre Grâce...
+
+['Il', 'On', 'il', 'on', 'II']	Croustillac	[MASK] vit bientôt entrer chez lui plusieurs nègres. L’un était courbé sous le poids d’un énorme paquet. L’autre apportait sur un plateau d’argent ciselé une écuelle de vermeil, où fumait un consommé le plus appétissant du monde;
+
+['monsieur', 'Monsieur', 'non', 'enfin', 'voyons']	Polyphème	—Mais, [MASK], vous êtes fou, vous aimez cette femme sans aucun espoir; elle est passionnément amoureuse de son mari, et quoiqu’on vous ait pris complaisamment pour lui, il est aussi beau, aussi grand seigneur, aussi intéressant, que vous êtes laid;
+
+['Alice', 'Emma', 'Anna', 'Hélène', 'Amélie']	Angèle	pour te faire oublier ces pénibles idées, je te chanterai ces ballades écossaises que tu aimes tant. En disant ces mots, le mulâtre passa un de ses bras autour de la taille d’[MASK], et la tenant ainsi embrassée, il descendit quelques marches qui conduisaient au jardin.
+
+['Joseph', 'Marie', 'Pierre', 'Jésus', 'Julie']	Angèle	Ah! qui récompensera jamais cette conduite si belle! —Mon ami, dit tendrement [MASK], Dieu n’a-t-il pas béni votre vie laborieuse et paisible? ne nous a-t-il pas envoyé deux petits anges pour changer nos devoirs en plaisirs?
+
+['Il', 'il', 'Louis', 'Paul', 'II']	Croustillac	[MASK] se mit à la table qu’on lui avait servie, mangea peu et se coucha, espérant que le sommeil le calmerait, et lui donnerait peut-être quelque heureuse idée d’évasion; il avait reconnu avec chagrin l’impossibilité de fuir par la fenêtre de la chambre qu’il occupait;
+
+['il', 'elle', '</s>NOTUSED', 'et', 'Il']	Youmaalë	puis, mettant les coudes sur ses genoux, appuyant son menton dans la paume de ses deux mains, [MASK], semblant regarder l’espace, resta longtemps immobile dans cette sorte de paresse contemplative si chère aux peuples sauvages.
+
+['Allons', 'allons', 'allez', 'Allez', 'vite']	John	nous trouverons là-dedans nos poignards, nos pistolets et notre cartouchière aussi secs que s’ils sortaient d’un râtelier d’armes. —Allons... [MASK], en route, passe le premier, dit le colonel, il nous faut le temps de faire sécher nos habits.
+
+['maintenant', 'ô', 'hélas', 'oh', 'enfin']	Angèle	Son sang, son noble sang avait coulé sur l’échafaud au lieu du mien... Maintenant, [MASK], malheureuse enfant! comprends-tu pourquoi je t’ai toujours caché ce funeste secret [4] ? En disant cet mots, le prince tomba assis dans un fauteuil en cachant sa figure dans ses mains.
+
+['madame', 'Madame', 'Mme', 'Monsieur', 'Julie']	Angèle	—Oui, maîtresse. —Voyez-vous cela, monsieur? dit [MASK]. —Allez, allez, ma chère, je ne suis pas jaloux, vous le savez; la beauté est comme le soleil, elle luit pour tout le monde.
+
+['Pierre', 'Jeanne', 'monsieur', 'Monsieur', 'Simon']	Youmaalë	... mais j’ai une réparation à vous faire... Attendez-moi là, il faut que j’aille voir où est [MASK] et chercher quelque chose... un présent... oui... monsieur le chevalier, un présent... que je vous défierai bien de refuser cette fois...
+
+['Jacques', 'et', '...', 'Jean', 'Pierre']	Angèle	—Nos parents sont tenanciers de l’abbaye, monsieur. —Allons, se dit le soldat, que le lecteur a sans doute déjà reconnu, je suis un vieux fou... mais aussi, mordioux! la réunion de ces deux noms... Jacques ... [MASK] ...
+
+['Il', 'On', 'Monseigneur', 'Eugène', 'Louis']	Croustillac	à cette heure que votre Grâce sait les motifs qui me font agir, je ne doute pas qu’elle ne me suive sans faire la moindre résistance. [MASK] avait prolongé l’entretien autant qu’il l’avait pu; il lui fallait décidément suivre le colonel ou lui avouer la vérité.
+
+['Napoléon', 'Jean', 'Joseph', 'la', 'Pierre']	John	Il lui fallait une heure environ pour gravir ces rochers; ne voulant pénétrer dans le parc de l’habitation qu’à la nuit close, il attendit pour se mettre en marche que le soleil commençât de décliner. Le colonel avait poussé hors du conduit le squelette de [MASK].
+
+['Louis', 'François', 'Marie', 'Alexandre', 'Henri']	Croustillac	—Oh! la fine mouche! pensa [MASK], cela veut dire ce que je ne savais pas, qu’il y a justement un bâtiment à elle appelé Caméléon , dont le capitaine lui est dévoué, et qui sera demain matin mouillé près d’ici...
+
+['monsieur', 'Monsieur', 'madame', 'vous', 'messieurs']	Polyphème	n’admettons pas dans notre avenir cette crainte exagérée, mordioux! on ne vous pend pas pour si peu... tandis que la prison est possible, pour ne pas dire probable... Parlons donc de la prison. —Eh bien! que vous semble de la prison, [MASK]?
+
+['Il', 'Chacun', 'On', 'Elle', 'Renard']	Snog	la nuit était sombre: sans doute, celui qui avait lancé cette flèche était déjà loin ou bien caché dans la cime de quelque arbre touffu. [MASK] aboyait et quêtait avec ardeur; le père Griffon rappela ses deux noirs qui s’aventuraient trop imprudemment hors du verger.
+
+['Marie', 'Jeanne', 'Marguerite', 'Alice', 'elle']	Croustillac	D’ailleurs si vous hésitez, je compte sur un puissant auxiliaire... —Et lequel? —Instruite par moi du sort qui vous menace, vous voyant sous le coup de mon poignard... —Toujours son éternel poignard... il est insupportable avec son poignard... pensa [MASK];
+
+['</s>NOTUSED', '»', 'Napoléon', 'Louis', 'Il']	Chemeraut	ce bon succès me ravit d’autant plus que le roi regarde cette affaire comme très importante. Encore une fois, bravo!... [MASK], le cœur joyeux, l’esprit allègre, s’endormit doucement, bercé par les plus séduisantes et par les plus ambitieuses espérances......
+
+['toi', 'hein', 'non', 'alors', 'là']	Jacques	Ah! il est amoureux de mes trésors et non pas de moi... ah! il veut m’épouser, ce beau chevalier errant. Nous allons bien voir... Eh bien... tu ne ris pas de mon projet, [MASK]? qu’as-tu donc?...
+
+['Il', 'Elle', 'On', 'II', 'Charles']	Rutler	[MASK] se pencha à son oreille, et lui dit en anglais avec un accent hollandais très prononcé: —Milord-duc, je puis vous débarrasser de ce voile; mais prenez garde... Si vous appelez du secours, vous êtes mort. Sentez-vous la pointe de mon poignard?
+
+['Charles', 'Charlotte', 'Louis', 'Henri', 'Alexandre']	Croustillac	—Ah! mon père, dit [MASK] avec amertume, en tirant de son sein le médaillon que la duchesse lui avait donné, et qu’il portait suspendu à un pauvre lacet de cuir, avec cela j’étais récompensé en gentilhomme...
+
+['Jeanne', 'Marie', 'Charlotte', 'Catherine', 'Marguerite']	Angèle	mon second père... mon bienfaiteur! s’écria [MASK], c’est en combattant pour toi qu’il est mort! C’est donc à cette bataille qu’il a été tué... tel était donc le secret que tu me cachais?...
+
+['Il', 'Elle', 'Et', 'On', 'il']	Croustillac	son regard farouche. [MASK] lui dit résolument: —Ah ça! camarade, refuserez-vous à un gentilhomme affamé un morceau de ce rôti? —Ce rôti n’est pas à moi, dit le boucanier. —Comment! et à qui donc appartient-il?
+
+['Jésus', 'Marie', 'Pierre', 'Jean', 'Dieu']	Croustillac	—Qu’est-ce que c’est que ce vieux porte-besace? dit le moine irrité. —Parce que je porte besace, il ne s’ensuit pas que je vous demande l’aumône, mon révérend, s’écria [MASK]. —Que veux-tu donc alors?
+
+['Il', 'il', 'On', 'II', 'Elle']	Croustillac	. [MASK] se rappela l’histoire de l’engagé du boucanier Arrache-l’Ame, dévoré par ses chiens; mais il ne s’intimida pas; il leva sa gaule d’un air menaçant, en disant: — Au chenil, valets! au chenil!
+
+['il', 'elle', 'on', 'Louis', 'Pierre']	Jacques	En ouvrant l’uniforme du chevalier pour faciliter sa respiration, [MASK] vit attaché avec un lacet de cuir le riche médaillon que l’aventurier portait sur sa poitrine. —Ma mère, regardez donc le beau reliquaire! dit le jeune garçon.
+
+['Eh', 'Ah', 'Oh', 'Hé', 'Quoi']	Mordioux	des fanaux allumés étaient suspendus aux haubans et aux mâts. Lorsque l’aventurier parut sur le pont, les douze pièces d’artillerie du trois-mâts tirèrent en salut. —[MASK]! mon père, qu’est-ce que cela?
+
+['enfin', 'alors', 'Jean', '</s>NOTUSED', 'encore']	Arrache	—Je ris parce que je vois que je ne suis pas le seul à trafiquer des peaux, dit [MASK]-l’Ame. Pardieu! nous sommes vraiment frères! si je dépèce le cuir du taureau, vous ne faites pas fi de la dépouille d’un des maris de la veuve.
+
+['Il', 'On', 'il', 'II', 'Et']	Croustillac	mais, se rappelant les impertinentes et glorieuses confidences du boucanier, il se dit qu’après tout un homme en valait un autre, et il reprit bientôt son imperturbable assurance. [MASK] fit coup sur coup trois de ses plus respectueuses révérences;
+
+['Marie', 'Pierre', 'Jean', 'Jeanne', 'Charles']	Monmouth	mais pouvais-je alors m’imaginer que je retrouverais fermier un fils de roi qui remuait des diamants à la pelle? Ah ça! il ne s’agit pas de philosopher, mais de retrouver le père Griffon, s’il existe. —Et comment le retrouver? dit [MASK].
+
+['</s>NOTUSED', 'Joseph', 'Paul', 'Dieu', 'David']	Croustillac	Les deux enfants se jetèrent dans les bras l’un de l’autre en sanglotant et en disant:—Notre père en mourra... mon Dieu, il en mourra... [MASK], à demi caché par un pilier du hangar, avait été à la fois touché et indigné de cette scène.
+
+['Il', 'il', 'II', 'Et', 'Mais']	Croustillac	c’était une trop belle occasion pour ne pas la saisir. Le boucanier ne répondit pas sur-le-champ. [MASK] mit machinalement la main à la garde de son épée pour ne pas être pris sans défense dans le cas où le chasseur, exaspéré par la jalousie, voudrait se livrer à quelque violence.
+
+['Marie', 'Sophie', 'Alice', 'Jeanne', 'Marguerite']	Croustillac	—Mon Dieu, voilà qu’il me fait encore peur. —Pourtant ces traits, disait [MASK] en sentant son cœur battre à la fois de doute, d’anxiété, de crainte et d’espoir, ces traits charmants me rappellent... mais non... c’est impossible... impossible!
+
+['Pierre', 'Paul', 'Jean', 'Joseph', 'Louis']	Sidney	Mais que sais-je... une sanglante fatalité... peut-être un affreux égoïsme me poussaient... j’acceptai... je serrai [MASK] dans mes bras, je pris ses vêtements et je lui dis... à demain... avec la conviction que le lendemain je le verrais.
+

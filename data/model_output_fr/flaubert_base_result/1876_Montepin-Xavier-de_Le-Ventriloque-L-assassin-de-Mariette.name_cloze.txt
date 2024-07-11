@@ -1,0 +1,200 @@
+['-', 'qui', 'cela', 'je', 'ça']	Munito	— Je le croirais, ou plutôt je l’espérerais comme vous, si l’on n’avait pas tué le chien, — répliqua le juge de paix, — mais le meurtre de [MASK] m’inquiète parce qu’il est inexplicable. — Bah ! ça s’expliquera comme le reste...
+
+['diane', 'marie', 'jeanne', 'valentine', 'celui-ci']	Munito	— Il se laissa glisser le long des barreaux, au risque d’y compromettre notablement la peau de ses mains, et une fois qu’il eut touché le sol il prit sa course dans la direction du château. Aux deux tiers environ de l’avenue, il atteignit le corps inerte et presque inanimé de [MASK].
+
+['il', 'elle', 'on', 'jésus', 'marie']	Ravageot	— Écoutez... Ce même bruit indéfinissable auquel [MASK] avait répondu par des hurlements, se reproduisait. Mais maintenant il devenait impossible de se méprendre sur sa nature. — C’était une plainte, un gémissement, un râle.
+
+['voilà', 'ah', 'et', '...', 'mais']	Saperlipopette	! — [MASK], bonne affaire !... Nous allons voir un peu ça... Et, joignant l’action aux paroles, il colla son œil aux vitrages de la boutique, de manière à ne perdre aucun détail de ce qui se passerait dans l’intérieur.
+
+['monsieur', 'madame', 'dit-il', 'messieurs', 'dit-elle']	Jobin	— C’est du délire ! « Ægri somnia ! » — Je crois en effet, [MASK], que vous vous égarez... — dit à son tour le juge d’instruction... — Cependant tout est possible, même ce qui paraît impossible... — Éclairez donc ma conscience...
+
+['il', 'elle', 'je', 'et', 'lui']	Mariette	— « Tonnerre du diable, comment faire ! — Il faut des provisions pour demain... gibier, poisson, viande de boucherie, tout ce qu’il y aura de plus fin... C’est la consigne... » [MASK] répondit : « Je vais faire une note...
+
+[',', 'il', 'elle', 'et', 'qui']	Passecoul	En un tour de main [MASK] métamorphosa son foulard en mentonnière qui, lui cachant la moitié du visage, lui donna la mine d’un jeune monsieur affligé d’une fluxion de premier ordre, et cette opération suffit pour le rendre méconnaissable.
+
+['même', 'aussi', 'encore', 'cela', '"']	Jacques	— Elle le savait certainement, et pourtant elle fut sans pitié... — Peut-être [MASK] lui avait-il commandé de se taire si je revenais. « Elle obéit à cette consigne, elle refusa de me répondre, et personne au monde ne pouvait me renseigner.
+
+['feu', 'fer', 'la', 'guerre', 'sang']	Munito	Le maire, le juge de paix et le brigadier s’approchèrent. Sur un espace de trois ou quatre pieds, la pelisse de gazon avait été labourée profondément en vingt endroits par les ongles de [MASK], et des myriades de grosses mouches bourdonnaient autour des flaques de sang déjà sèches.
+
+['soi-même', 'lui-même', 'vous-même', 'vous', 'domicile']	Mariette	— Il n’y avait point de représentation ce soir-là... — L’idée me passa par la tête, à la nuit tombante, de retourner d’où je venais et d’essayer de parler à [MASK], ne fût-ce que pendant cinq minutes... — Mais le moyen
+
+['il', 'cela', 'on', '-', '"']	Passecoul	— S’il allait au spectacle, ce serait une fière chance ! — répliqua ce dernier. — La foule amène les bousculades, et dans les bousculades il y a toujours moyen d’approcher un homme et de tâter ses poches... [MASK] eut bientôt lieu de se frotter les mains.
+
+[',', 'il', 'qui', 'elle', 'et']	Raquin	[MASK] saisit par le bras le blond Passecoul, l’entraîna dans un angle de la salle d’attente et, le forçant à s’asseoir à son côté, se mit ainsi que lui à l’abri des regards du lieutenant. — Sais-tu que tu m’étonnes !
+
+['de', 'il', 'la', 'qui', 'elle']	Jobin	» [MASK] fouilla dans l’enveloppe... Elle était vide. — Ah ! sacrebleu ! — s’écria-t-il avec un geste de désappointement, — il ne manquait plus que cela ! ! — Le jeune homme avait dû cependant garder la lettre puisqu’il conservait l’enveloppe
+
+['de', '-', ',', 'et', 'des']	Domerat	— Pris connaissance lettre [MASK]. — Installé chambre. — Habillé. — Sorti à six heures, laissant clef chambre, sans rien dire. — Plus reparu depuis. — Abandonné bagages. — Gérant Grand-Hôtel étonné, inquiet, craignant malheur.
+
+['un', 'toujours', 'mort', 'jamais', 'cela']	Baptiste	— Un simple tour et point de clef, — murmura-t-il ; — c’est par là que l’assassin s’est en allé tranquille comme [MASK], après le crime commis. Il examina ensuite longuement, minutieusement, les placards éventrés et les bahuts défoncés à coups de hache.
+
+[',', 'et', 'qui', 'il', ';']	Passecoul	[MASK] la traversa derrière lui. L’officier s’assit à l’une des petites tables placées en dehors de l’établissement, sur cette partie du trottoir dont la ville loue fort cher la jouissance aux limonadiers et que les garçons de café, dans leur argot, appellent « la terrasse. »
+
+['faiblement', 'non', '...', 'encore', ':']	Raquin	— Ça me va beaucoup... murmura sentimentalement [MASK], — pleurer au spectacle, c’est ma folie ! — On ne saura jamais combien je suis sensible... — Chut ! — firent les voisins. — Silence ! ! à la porte ! ! La pièce commençait.
+
+[',', 'il', 'et', '</s>', 'en']	Sylvain	? — Je ne sais pas... tout est fermé. — Il fallait enfoncer un volet, briser une fenêtre. [MASK] secoua la tête. — Et me mettre les gendarmes sur les bras ! — interrompit-il avec amertume. — Non ! non ! pas de ça
+
+['...', 'des', 'les', 'aussi', ',']	Mariette	! — Je défierais mon plus grand ennemi, si j’en avais un, de dire n’importe quoi sur mon compte ! !... — Votre sommier judiciaire m’apprendra si je dois vous croire à cet égard... — Continuez... — Je rencontrais souvent [MASK]...
+
+['georges', 'maurice', 'jacques', 'geneviève', 'henriette']	Sylvain	Il se roidit et ne remua plus... — C’est fini, — murmura [MASK]. — Ah ! tonnerre du diable ! il faut convenir qu’il y a dans ce bas monde des gens qui sont de rudes canailles... Et tes maîtres, pauvre Munito ?
+
+['bonsoir', 'bonjour', 'monsieur', 'messieurs', 'madame']	Jobin	— Avant neuf heures nous pourrons avoir la réponse... — Bonsoir, [MASK]... — Reposez-vous un peu, je vous le conseille, car la journée de demain, je le prévois, sera fatigante... — Rien ne me fatigue... — répliqua l’agent.
+
+['qui', ',', 'il', 'et', '"']	Georges	[MASK] se trouvait à deux pas du fameux bureau de tabac du Grand-Hôtel. — Depuis longtemps, je n’ai fumé aucun cigare « sérieux », — se dit-il, — les londrès de la régie sont absolument exécrables !... — Grâce à mon oncle, je suis riche...
+
+['elle', 'et', '</s>', 'puis', ',']	Jobin	— Voyons un peu... Il ramassa le papier, le défripa, et put constater tout d’abord que pas une seule ligne ne manquait. — La flamme capricieuse semblait avoir comme à plaisir respecté l’écriture, qu’elle côtoyait sans l’entamer. [MASK] se mit à lire.
+
+['-', 'jacques', 'lui-même', 'simon', 'georges']	Jobin	— L’aubergiste, sans moi, ne serait pas arrivé du tout... [MASK], plus pâle encore que de coutume, essuyait sur son front de grosses gouttes de sueur. — Vous dites : « une heure et demie du matin ? » — demanda le juge d’instruction.
+
+['elle', 'il', 'lui', 'ève', 'me']	Mariette	— fit-il d’une voix très-basse et bien douce, — arrêtez-vous, je vous en supplie... il faut que je vous parle... il le faut... « [MASK] répondit : — Nous n’avons rien à nous dire... et cependant elle s’arrêta.
+
+['il', 'et', 'celui-ci', 'second', ',']	Georges	[MASK] fit jouer le ressort du porte-monnaie dont il examina le contenu. L’une des cases renfermait un napoléon, — la seconde quelques pièces blanches, et la troisième un petit paquet de billets de banque pliés en huit. Le lieutenant prit les billets de banque.
+
+['m', 'mr', 'mrs', 'mm', 'r']	Jobin	— Je tiendrais beaucoup à y assister... — dit [MASK]. — Vous y assisterez... cela va de soi. — C’est qu���alors il me faudrait prier monsieur le juge d’instruction de vouloir bien retarder cet interrogatoire de quelques minutes.
+
+['celui', ',', 'napoléon', 'maurice', 'bonaparte']	Sylvain	— On reconnaissait sans peine cet honorable fonctionnaire à sa boîte de cuir, d’une forme particulière, et au collet rouge de sa blouse bleue. Ces nouveaux venus rejoignirent [MASK] qui, voyant son second appel rester sans résultat comme le premier, frappait du pied avec impatience.
+
+[',', 'le', 'louis', 'jean', 'vaillant']	Jobin	Bref, les deux cent mille francs durèrent deux ans et demi. Quand il eut dépensé son dernier sou [MASK], qui était honnête, ne tenta point d’allonger la courroie en ayant recours au crédit qu’on ne refuse jamais à quiconque vient de dépenser un peu d’argent comptant.
+
+['lui', 'me', 'je', 'il', 'elle']	Mariette	[MASK] répliquait qu’elle le lui défendait bien, que le bonhomme Landry qui le refusait autrefois le refuserait bien davantage encore à présent et même le mettrait à la porte sans se gêner. — Il suppliait, il se désolait...
+
+['monsieur', 'vous', 'madame', 'oui', 'moi']	Jobin	— Monsieur le juge d’instruction m’autorise-t-il à voir le prisonnier ? — demanda le policier. — Non ! — répliqua le magistrat vivement. — J’ai toute confiance en vous, [MASK], vous le savez à merveille, et mon refus ne peut vous blesser...
+
+['"', ')', 'oui', 'alors', 'de']	Jobin	— Cent fois, oui ! — Vous n’avez pas un doute ? — Est-ce que le doute est possible ? [MASK], sans répondre, baissa la tête et tracassa son pince-nez. Un quart d’heure plus tard
+
+['elle', 'il', ',', 'il', '-il']	Mariette	— Je ne sais pas ce qui restait à voir après ça... « Allons-nous-en, » dit [MASK] et, me prenant par la main, elle m’emmena bien malgré moi en dérangeant le monde pour sortir. « Dehors, il faisait nuit noire...
+
+['elle', '-', 'il', 'jeanne', '</s>']	Gervaise	— Laissez-la s’expliquer, je vous en supplie... — Voyons, petite, raconte-nous ce que tu as vu ou entendu, enfin ce que tu sais... [MASK] prit une attitude réfléchie et, après un instant de silence, elle releva la tête.
+
+['mrs', 'froidement', '"', 'simplement', 'faiblement']	Passecoul	— répondit [MASK]. — Un plan ne s’improvise guère, surtout quand on ne sait pas un traître mot des circonstances dans lesquelles il pourra se réaliser... — La chose évidemment dépendra de ce que l’officier va faire après dîner...
+
+['le', 'alors', ':', '-', '"']	Gervaise	— Mais, monsieur le juge de paix, — fit observer le sous-officier, — cette petite est peut-être à jeun... — Ah ! — s’écria [MASK], — je n’ai pas faim, je ne songe guère à manger, je vous assure...
+
+['</s>', 'il', 'elle', 'chacun', 'on']	Mariette	Le maire et le juge de paix s’avancèrent en même temps. Le spectacle qui les attendait fit courir sur leur chair un frisson d’épouvante. [MASK] gisait-au milieu du couloir, étendue sur le dos et les bras en croix, dans une mare de sang caillé.
+
+['</s>', 'il', 'et', 'on', '-']	Jobin	— C’est bien... — Je vais l’interroger... Et, laissant l’accusé sous la garde des gendarmes, le magistrat sortit de la lingerie. [MASK] le suivit comme son ombre. XXIX Une bonne figure en vérité, le père Ridel. Il avait soixante-cinq ans.
+
+['il', 'elle', '-', 'et', 'lui']	Mariette	Le jeune homme n’osa rien répondre, mais j’entendais toujours le bruit de ses souliers sur la route... pour sûr il venait derrière nous... — [MASK] avait la clef de la grille... Elle m’embrassa et me renvoya... — Je revins au village bien essoufflée et rassurée tout juste...
+
+['.', '!', '?', ',', ';']	Jobin	— fit-il. — C’est la réponse, — pensa [MASK]. Le magistrat déchira vivement l’enveloppe, lut la dépêche à deux reprises avec une attention profonde, puis la tendit ensuite au policier. - — Nous étions absolument dans le vrai, — lui dit-il.
+
+['-', '(', 'il', "j'", 'elle']	Colette	— Oui, monsieur le maire... oui, bien sûr, je vais vous conduire... Seulement... [MASK] hésita. — Seulement, quoi ? — Dame ! s’il s’est fait du crime là-dedans, je n’ose pas entrer la première.
+
+['ceci', 'et', 'pour', 'de', ':']	Jobin	J’ai hâte d’apprendre à ce pauvre diable qu’il est libre !... — Innocent et accusé, il a dû cruellement souffrir... — Ah ! — murmura [MASK], — près du cadavre de la femme qu’il aimait, se souvient-il seulement de l’accusation
+
+['</s>', '(', 'et', '-', ',']	Gervaise	[MASK] continua. — Donc, le lundi, tout un chacun de ceux qui la veille étaient entrés dans la baraque disaient que c’était vraiment superbe, et qu’on irait jusqu’à la ville sans voir un spectacle plus beau... — Ça me tournait la tête...
+
+['dit-il', 'dis-je', 'dit-elle', 'ajouta-t-il', 'disait-il']	Andoche	!... il trouvera sa besogne faite et bien faite ! ! Il reprit tout haut : — Et dites-moi, [MASK], en voyant cet homme tomber de l’arbre et s’enfuir avec une épouvante manifeste, qu’avez-vous pensé ?... — Dame !
+
+['qui', 'et', 'lequel', '"', '-']	Mariette	— [MASK], de temps en temps, jetait une bouchée de pain à un dogue couché à ses pieds. « Au bout de cinq minutes, un peu plus ou un peu moins, l’ancien matelot se leva et se mit en devoir de bourrer sa pipe et de l’allumer.
+
+['monsieur', 'non', 'madame', 'moi', 'dis-je']	Jobin	— Et moi, [MASK], — murmura-t-il, — j’ai peur de vous comprendre... — C’est qu’alors vous me comprenez en-effet... — répliqua le policier. — Expliquez-vous nettement, et point de réticences... Qui accusez-vous ?
+
+['</s>', 'il', '"', 'le', 'la']	Jobin	Il lui sembla sentir en lui-même les aptitudes qui font les grands policiers et, après de longues réflexions, il alla résolûment trouver le chef de la sûreté pour lui exposer ses désirs et lui proposer ses services. [MASK] paraissait convaincu — et véritablement on ne pouvait l’être plus que lui.
+
+['vous', 'pour', 'à', 'au', 'partie']	Sylvain	asseyez-vous au bord du fossé, sur le talus de gazon, et attendez sans impatience... Vous n’attendrez pas longtemps et vous serez toute portée pour avoir des nouvelles... — Vous êtes bien sûr, au moins, [MASK], que je ne cours aucun danger ?
+
+['il', 'elle', 'on', 'jeanne', 'chacun']	Sylvain	Il souleva à demi sa grosse tête ronde, une suprême lueur d’intelligence brilla dans ses prunelles ternies. — Il essaya de se dresser, mais il n’y parvint qu’à moitié... [MASK] se pencha de nouveau pour l’aider et le prendre dans ses bras.
+
+['il', 'elle', '...', 'lui', ',']	Mariette	« [MASK] fit un grand mouvement tout à coup, comme une personne très-surprise. — Nous étions serrées l’une contre l’autre. — Je sentis son coude m’entrer dans les côtes. — Je lui demandai ce qu’elle avait... elle ne répondit rien...
+
+['il', 'blaise', 'robert', 'elle', 'marcel']	Jobin	— fit [MASK], — c’est de la déveine ! ! — Et moi qui fondais tant d’espoir sur cette correspondance ! ! Je suis volé comme dans un bois ! ! — Cependant, allons jusqu’au bout. Il prit la troisième enveloppe et l’examina.
+
+['le', 'encore', 'un', 'de', 'du']	Pandore	... — Brigadier, vous avez raison, — répliqua le simple gendarme, qui cependant ne s’appelait point [MASK]. Les habitants de Saint-Avit, en assez petit nombre d’ailleurs, se rendaient à l’appel du pitre et gravissaient l’escalier de la baraque.
+
+['droite', 'gauche', 'derrière', 'devant', 'bas']	Landry	il y a un couloir entre les deux, et celle de [MASK] a une seconde porte qui donne sur l’enclos de la basse-cour. — Alors, petite, conduis-nous... — Oui, monsieur le maire... oui, bien sûr, je vais vous conduire...
+
+['bien', 'pas', 'correctement', '"', 'mieux']	Rougeot	Je conduis [MASK]... — Les camarades seront derrière, le mousqueton chargé au poing... — Si vous faites mine de sauter en bas de la carriole et de nous brûler la politesse, je vous avertis qu’ils tireront sur vous comme sur un loup et vous casseront une patte ou deux...
+
+['"', '...', '!', '-', ')']	XXII	— Alors, pas de bruit, pas d’esclandre... Nous sommes en force, je vous en préviens... Toute tentative de fuite ou de résistance serait inutile... — Encore une fois, que me voulez-vous ? — Je vous arrête au nom de la loi ! [MASK]
+
+['voyez', 'et', 'regardez', 'voyons', 'découvrez']	Sylvain	— C’est probable, — fit le juge de paix. — C’est évident !... — approuva le maire. — Je voudrais bien relever une trace quelconque des chaussures que portaient les malfaiteurs, — reprit le juge de paix. — Voyez donc, [MASK]...
+
+['t-il', 'georges', 'alice', 'elle', 'vivement']	Passecoul	— Voilà qui va bien ! — pensa [MASK], — le jeune homme est millionnaire ! — Je sais où loge le magot, et il se porte bien, le magot !... — Deux mille huit cents livres à lever d’un coup, c’est coquet !
+
+['robert', 'jacques', 'celui-ci', 'jeanne', 'jean']	Sylvain	— Mais pourquoi donc que vous faites une mine de l’autre monde ? Nous vous entendions de bien loin jurer et sacrer comme un païen... — Pourquoi ? — répondit [MASK] d’un ton bourru, — parce que je drogue depuis cinq minutes, et que ça me vexe !...
+
+['robert', 'jeanne', 'georges', 'charles', 'johnson']	Sylvain	— Je vois quelque chose s’agiter tout là-bas dans l’avenue des Pommiers... — reprit [MASK], — on dirait une bête qui cherche à se traîner de notre côté et qui ne peut pas... Elle se soulève... elle retombe... elle se soulève encore...
+
+['nous', 'je', 'vous', 'dans', 'monsieur']	Marigot	— s’écria-t-il comme malgré lui. — Certainement que nous l’avons, et même que [MASK] le garde à vue dans la prison de la mairie... — A-t-il tenté quelque résistance ? A-t-il essayé de fuir ? — demanda le juge.
+
+['napoléon', 'voltaire', 'le', 'dieu', 'nous']	Mariette	— Ce ventriloque, en somme, est peut-être un brave garçon, et d’ailleurs il est clair que [MASK], loin de le chercher, le fuyait... — Gardons-nous des jugements téméraires ! !... — Continue, petite Gervaise... L’enfant reprit :
+
+['maman', 'papa', 'tous', 'pierre', 'monsieur']	Gervaise	— J’apporte un lièvre et cinq perdreaux... — J’ai promis à [MASK] que j’arriverais à huit heures... il est huit heures... Je sonne à tout confondre, et on me laisse rager à la porte ! ! Croyez-vous que c’est drôle ?
+
+['il', ',', '.', '...', 'était-il']	Mariette	« [MASK] sortit avant la fin du spectacle avec une petite fille qui l’accompagnait. « Je la guettais, bien entendu... Je la suivis... Je la rejoignis et je lui parlai... — Elle m’accueillit assez mal...
+
+['quoi', ',', 'là', 'bien', 'que']	Saint-Gille	Voilà, ce nous semble, des résultats qui valent un bon point à la ventriloquie ! Après [MASK] les ventriloques, renonçant à travailler pour le compte de la pure vertu, utilisèrent leur art en l’appliquant aux divertissements du public, qu’ils enthousiasmèrent.
+
+['non', 'monsieur', 'mais', 'madame', 'oui']	Jobin	— Ne serait-il pas à propos de gagner mon logis ?... La réponse fut affirmative. — Décidément, [MASK], vous ne venez pas ? — demanda le magistrat à l’agent. — Impossible ! — répliqua ce dernier, — tout à fait impossible ! !
+
+['le', 'que', 'ce', ',', '-']	Passecoul	Ce jeune homme n’était autre que [MASK], — nos lecteurs l’ont deviné déjà. L’adroite application d’un crêpé couleur d’ambre sur les joues et sur le menton suffisait pour métamorphoser absolument ce personnage, le vieillissait de plusieurs années, et dissimulait la flétrissure précoce et compromettante de ses traits
+
+['-', 'il', 'elle', 'lui', '"']	Jobin	— Vous composerez une autre pièce... [MASK] secoua la tête. — Ah bah ! — reprit le directeur, — on jette le manche après la cognée dans le premier moment, et puis ensuite on ramasse l’outil. — Croyez-moi, vous prendrez votre revanche.
+
+['elle', 'il', 'celui-ci', 'julien', 'paul']	Jobin	Le drame, lui, s’appelait : Le Nouveau comte de Sainte-Hélène, et l’étiquette est suffisante pour en indiquer le sujet. — Dans six mois je serai riche et célèbre ! — se dit [MASK] en attachant ses deux manuscrits avec de belles faveurs roses.
+
+['elle', 'il', 'le', '-il', 'je']	Sylvain	C’est indispensable... — Entrons donc, je le répète, mais que personne ne touche à ce corps. — Il fait noir là-dedans, — dit [MASK], — je vais ouvrir la fenêtre et les volets afin de donner du jour. Vous entrerez ensuite...
+
+['mrs', 'm', 'raoul', 'rodin', 'julien']	Jobin	- reprit [MASK]. — Il devait y en avoir ici beaucoup autres... Ces deux pièces auront glissé pendant ne le meurtrier remplissait ses poches... — Donc e vol était certainement le mobile de l’assassinat... — Cela me paraît incontestable, et c’est bon à savoir...
+
+['allons', 'eh', 'mais', 'ah', 'non']	Turlututu	— Toutefois, — commença le sous-officier, — n’étant point ici dans l’exercice de nos fonctions, pour la chose de la surveillance municipale, il me semble... — [MASK], chapeau pointu !... Brigadier, il vous semble mal ! — interrompit la grosse femme.
+
+['un', 'le', 'la', 'celui-là', 'ce']	Munito	— répondit le braconnier d’une voix sourde. — Un malheur !... un crime !... — répéta la jeune fille en tremblant. — Seigneur mon Dieu, qu’est-ce que vous avez vu ? — J’ai vu [MASK] mort, troué de vingt coups de couteau.
+
+['il', 'elle', 'en', 'émotion', 'visage']	Sylvain	[MASK] tressaillit. — Ses sourcils se contractèrent et, le chien ayant hurlé de nouveau, il le châtia d’un coup de pied en lui criant avec un juron : — Tonnerre du diable, vieux Ravageot, tu vas te taire et plus vite que ça ! !
+
+['</s>', '...', '"', '--oui', '--non']	Sylvain	! une si brave fille... une si bonne fille... et que j’aimais tant ! [MASK], les poings crispés, indiquait par son attitude que s’il tenait le meurtrier il n’attendrait pas la décision du jury pour lui faire passer un mauvais quart d’heure.
+
+['il', 'elle', 'celui-ci', 'le', '-il']	Jobin	— Suffit, monsieur le juge d’instruction. — Si le ventriloque a commis le crime pour s’emparer d’une grosse somme, — dit [MASK], — les gendarmes feront chou blanc... — Il se sera bien gardé de rejoindre sa troupe, et à cette heure il est loin...
+
+['-', '</s>', 'il', 'elle', '"']	Jobin	- — Nous étions absolument dans le vrai, — lui dit-il. — En voici une preuve nouvelle... preuve d’ailleurs surabondante, car nous avions pour nous l’évidence. [MASK] saisit le papier et lut à son tour avidement les lignes suivantes :
+
+['etc', 'monsieur', 'tranquille', 'etc.', '?']	Colette	... — D’ailleurs, ou je me trompe beaucoup, ou, à l’heure qu’il est, il doit y avoir pas mal de kilomètres entre nous et les gredins qui ont fait le coup,.. — Soyez donc paisible, [MASK]...
+
+[',', 'où', 'que', 'il', 'et']	Ravageot	A cet instant précis [MASK], le grand chien maigre, se releva avec une sorte de rage, bondit vers la grille, se dressa pour la seconde fois contre les barreaux et poussa de nouveau ce hurlement lugubre que son maître avait accueilli quelques minutes auparavant par une si brutale correction.
+
+['oui', 'non', 'moi', 'enfin', 'ah']	Mariette	ô mon espérance ! ils t’ont tuée... et on m’accuse de ta mort ! On m’accuse, moi qui pour toi aurais donné ma vie !.... — [MASK], je t’aimais, tu le sais bien !... Tu sais bien que je t’adorais !
+
+['!', '?', 'moi', 'donc', 'vous']	Gervaise	— J’ai cru bien faire... — J’ai pensé qu’il vous conviendrait peut-être de les questionner chacun à leur tour sans qu’ils puissent entendre les réponses les uns des autres. — Vous avez eu raison et je vous complimente de votre prudence... — Amenez [MASK]...
+
+['-il', 'johnson', 't-il', 'celui-ci', '-t-il']	Gervaise	? — Oui, monsieur le juge de paix, — répondit [MASK], — j’ai rencontré deux hommes qui venaient par ici... — Ensemble ou isolément ? — Ensemble. — Les connais-tu ? — Je ne sais pas... il faisait nuit noire...
+
+['-', '</s>', '"', 'il', '_']	Jobin	— Si j’osais me permettre d’avoir une opinion, je croirais que c’est peut-être un brave homme... [MASK] rayonnait. Le magistrat fit un haut-le-corps. — Un brave homme ! ! lui Il — répéta-t-il. — Allons donc ! !... — Eh !
+
+['jeanne', 'paul', 'jacques', 'julien', ',']	Sylvain	— Avez-vous vu quelque chose ou quelqu’un ? — leur demanda [MASK] à voix basse. — Une demi-douzaine de passants, — répliqua la jeune fille, — mais c’étaient tous gens du pays qui nous ont dit bonjour en riant... — Pas une seule figure inquiétante.
+
+['celle-ci', 'tout', 'cela', 'jeanne', 'chacune']	Mariette	— J’en perdais le boire et le manger... le sommeil aussi... Je suivais [MASK] comme son ombre et, quand elle entrait dans la maison d’une de ses pratiques, elle était bien sûre de me retrouver à la porte, montant la garde, au moment où elle en sortait...
+
+['...', '!', ',', '"', ';']	Léontine	— Si seulement je savais où se trouve le pensionnat de ma sœur, j’irais, et sans doute la supérieure ne refuserait point de me laisser embrasser [MASK]... mais mon oncle a négligé de me donner l’adresse... — C’est étonnant comme je vais m’ennuyer !
+
+['dieu', 'fer', 'feu', 'pierre', 'milton']	Paillasse	; surnommée la femme de [MASK], qui méritait une demi-douzaine de prix Monthyon, tout au moins... et cependant elle avait été condamnée, la pauvre créature... condamnée à mort par contumace, pour le crime d’un autre. — Et son innocence a été prouvée ?
+
+['ce', 'cela', 'celle-ci', 'tout', 'celui-ci']	Pamphile	Or, aucune carrière libérale ne lui semblant plus belle et plus brillante que celle du barreau, il avait décidé que [MASK] serait avocat. La conséquence de cette ambition paternelle fut que le jeune garçon suivit comme externe les cours du collége Louis-le-Grand ;
+
+['-', 'il', 'elle', 'et', '"']	Jobin	— Merci, monsieur le juge 1 merci, monsieur l’agent 1 ! — murmura le ventriloque... — Vous êtes bons pour moi tous les deux !... [MASK] reprit : — Tout est convenu... Nous voici d’accord...
+
+['dieu', 'paille', 'service', 'malheur', 'famille']	Passy	— Chut ! �� Trop de monde à la clef pour prononcer les noms tout haut... mais je peux te le désigner... c’est le mari... l’homme de [MASK]... — Au fait, c’est vrai !... — Je n’y pensais plus...
+
+['ariane', 'or', 'araignée', 'aiguille', 'acier']	Ariane	De tous ses vœux il appelait une de ces affaires étranges, indéchiffrables, sortes de logogriphes judiciaires où tout le monde s’égare, sauf l’agent que sa bonne étoile et son instinct servent à propos, et qui trouve moyen de saisir au milieu des ténèbres l’extrémité du fil d’[MASK].
+
+['personne', ',', 'cela', 'question', 'pierre']	Jobin	— S’il avait deux assassinats sur la conscience et trois cent cinquante mille francs dans ses poches, il n’aurait point attendu la gendarmerie... il serait loin ! Le magistrat, sans répondre à [MASK] et s’adressant au brigadier, reprit : — Des détails ?...
+
+['oui', 'non', 'monsieur', 'dit-il', 'maman']	saperlipopette	... — Oui, [MASK], je le ferais ! je le ferais sans hésiter !... De quoi t’étonnes-tu ? — Tu sais bien que je l’ai déjà fait, là-bas... — Et qu’est-ce que je risque après tout ?
+
+['john', 'catherine', 'jack', 'joe', 'maurice']	Passecoul	— demanda [MASK] en terminant. — Je dis que tu es un lapin, un vrai, un fameux !... — Ton filage du lieutenant était mené de main de maître... Ah ! je te rends justice ! ! — C’est plaisir de travailler avec toi !
+
+['</s>', 'il', '"', 'tout', 'elle']	Raquin	— Penche-toi un peu vers moi, ma vieille, que je puisse te glisser ça dans le tuyau de l’oreille... — Il y a des paroles dangereuses qu’il ne fait pas bon perdre en plein air. [MASK] obéit passivement, et le jeune bandit continua
+
+['celui-ci', 'lui', 'le', 'rodin', 'elle']	Pomponnette	... pendard ! tu me payeras ça ! ! Cependant [MASK], sans paraître, s’apercevoir du supplément de poids qu’on lui imposait, filait sous les pommiers avec une vélocité merveilleuse, et bientôt il fut posssible de se rendre compte du chargement de la légère voiture.
+
+['oui', 'non', 'moi', 'là', 'vraiment']	Sylvain	— [MASK], j’ai peur... — Il ne faut point se monter le coup d’avance... il n’y a peut-être rien du tout de ce que nous supposons... — D’ailleurs, attendez... à la guerre comme à la guerre... En avant l’escalade !...
+
+['robert', 'maurice', 'celui-ci', 'tom', 'john']	Jobin	— Il reçoit en payement beaucoup d’or étranger. — Cela se comprend, — répliqua [MASK], — mais à coup sûr il ne donnait point cet or à son régisseur, qui n’aurait pu s’en servir pour solder les dépenses courantes.
+
+['</s>', 'lui', 'roland', 'eux', '-']	Colette	— Je voudrais connaître déjà le mot de la sombre énigme... Dix minutes plus tard la petite troupe, entraînant à sa suite près de cent curieux, arrivait à la grille du château. [MASK] et le garçon boucher n’avaient eu garde de quitter leur poste.
+
+['-', '"', '</s>', ')', '...']	Rougeot	Enfin tout ça ne me regarde pas, et c’est heureux... — J’y perdrais mon latin... [MASK], — la bonne bête, — ralentissait à peine son allure pour gravir les côtes les plus roides et secouait sa grelottière avec un entrain superbe.
+
+['non', 'rien', 'oui', 'un', 'et']	Mariette	!... Si tu es morte, ranime-toi ! — Un mot, [MASK], rien qu’un mot !... Un nom... celui du meurtrier !... — Après ça qu’on prenne ma tête... Ah ! ça m’est bien égal !...
+

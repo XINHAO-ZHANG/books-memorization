@@ -1,0 +1,200 @@
+['Il', 'Pierre', 'Alexandre', 'Antoine', 'Paul']	Patrice	[MASK] différa sa réponse. Il avait l’impression confuse d’un accord entre la jeune femme et le magistrat, et qu’en face de cet accord, il jouait, lui, autant par sa présence que par son zèle, le rôle d’un importun que l’on cherche à éconduire.
+
+['Il', 'Elle', 'Pierre', 'Marie', 'Jean']	Siméon	: — Pas de grands mots, je vous en conjure. Il s’agit, n’est-ce pas, d’y mettre le prix ? J’y suis déterminé. Combien ? D’un geste, le docteur lui montra la porte. [MASK] ne protesta pas.
+
+['on', 'il', 'elle', 'Pierre', 'Jean']	Patrice	Le nègre se releva en grognant. À la lueur d’une allumette, [MASK] vit qu’il tenait au bout de son bras, de son bras unique avec lequel il lui avait fallu se défendre, un énorme chien qui râlait, serré à la gorge par cinq doigts implacables.
+
+['Il', 'Lui', 'Pierre', 'Jean', 'Antoine']	Patrice	[MASK] n’avait pas bougé de la barque. D’un coup brusque, il la poussa et saisit la rame en marmottant : — Nom de Dieu ! je crois qu’il se fiche de moi, le client ! Et, à dix mètres du bord, déjà, il s’écria :
+
+['Il', 'il', 'Elle', '</s>NOTUSED', 'II']	Lupin	Bref, comme ton rendez-vous n’était que pour dix heures, j’avais encore deux bonnes heures devant moi ; j’ai donc été visiter la péniche, prendre les millions, mettre au point certaines choses. Et me voilà ! » [MASK] s’arrêta devant le vieillard et lui dit
+
+['Il', 'On', 'Elle', 'Mamadou', 'Chacun']	Patrice	[MASK] constata qu’il y avait du sang sur l’épaule de son dolman. À cet instant, le Sénégalais s’affaissa. — Tonnerre ! Il est blessé !… Mort peut-être ! Il sauta par-dessus le corps, et se précipita dans la chambre dont il alluma aussitôt l’électricité.
+
+['Il', 'il', 'Pierre', 'Jean', 'Elle']	Patrice	Je l’avais conservée pour la lui rendre et le mettre en garde. Tenez, c’est bien son écriture… [MASK] saisit la feuille de papier, et tout de suite il vit son nom. La lettre lui était adressée, comme il l’avait pressenti.
+
+['Il', 'Elle', 'Pierre', 'On', 'Marie']	Bournef	Que sont-ils devenus ? [MASK] eut un geste de rage. — Repris ! Volés ! C’était un piège ! — Qui les a repris ? — Un nommé Grégoire. — Qui était-ce ? — Son âme damnée, nous l’avons su depuis.
+
+['Il', 'Thomas', 'Pierre', 'David', 'Elle']	Valenglay	Ou bien ? — Ou bien dans un tas de sable. [MASK] resta silencieux et impassible. Tout au plus un léger frisson secoua-t-il ses épaules. Il ne fit pas le geste indiqué. Il n’avait pas besoin de le faire. Il avait compris.
+
+['Henry', 'Charles', 'Louis', 'Victor', 'Moreau']	Patrice	— Que dites-vous ? s’écria [MASK], interloqué. Votre arrestation ? — Ou tout au moins ma comparution, l’examen de mes papiers, tout le diable et son train. — Mais ce serait abominable ! — C’est légal, mon cher capitaine.
+
+['lui', 'hasard', 'elle', 'moi', 'Madeleine']	Patrice	Il ne dit plus rien. Quant à la femme de chambre, questionnée par [MASK], elle raconta : — Tout d’abord, monsieur, ce matin, première surprise : plus de maître d’hôtel, plus de valet, plus de concierge. Tous trois partis.
+
+['il', 'elle', 'Anna', 'Alice', 'Jack']	Coralie	Un petit vestibule conduisait d’un côté à une cuisine, de l’autre à une chambre. En face, ce devait être la pièce principale. La porte en était entrebâillée et [MASK] balbutia : — C’est ici que la chose a dû avoir lieu… autrefois.
+
+['Joseph', 'Dieu', 'Moïse', 'Louis', 'Pierre']	Siméon	— Là, je deviens moins affirmatif. Il est à présumer que [MASK] se sera tapi dans l’ombre. Ce n’est qu’au tout petit jour que, plus tranquille, n’ayant pas entendu Ya-Bon, il aura risqué quelques pas.
+
+['Madame', 'Monsieur', 'madame', 'Mme', 'Jules']	Patrice	— Ah ! bien, s’écria [MASK], vous allez voir si je ne lui délie pas la langue, au bonhomme ! — Inutile, monsieur, déclara le concierge avec beaucoup de fermeté et un grand calme. Vous m’avez trompé, messieurs.
+
+['elle', 'eux', 'Elle', 'Anna', 'Alexis']	Essarès	Je la sortis de là. Je hélai une auto. Je la conduisis d’abord chez elle. Puis je m’occupai d’[MASK], du concierge Vacherot, et, renseigné sur les projets de notre ennemi, j’allai m’entendre avec le docteur Géradec.
+
+['il', 'elle', 'on', 'je', 'Dieu']	Coralie	Il y avait, presque en face, dans le mur opposé, une porte exactement semblable. Il en fit la réflexion, et [MASK] lui dit : — Cela n’a rien d’étonnant. Ce mur limite un jardin qui dépendait autrefois de celui que nous venons de quitter.
+
+['Il', 'Elle', 'Pierre', 'Paul', 'Jean']	Patrice	La jeune femme était pâle et inquiète. Ils firent le tour des pelouses et gagnèrent sans être vus les bosquets de fusains qui dissimulaient la porte de la ruelle. [MASK] ouvrit cette porte. Au moment d’ouvrir l’autre, il eut une hésitation.
+
+['ami', 'lecteur', 'enfant', 'Socrate', 'camarade']	Patrice	Vois-tu, [MASK], et ne crois pas que je plaisante, il en est, dans la vie, comme dans l’art dramatique, où ce qu’on appelle le coup de théâtre manque son effet s’il n’est pas préparé.
+
+['Elle', 'Il', 'On', 'Pierre', 'Je']	Patrice	[MASK] le regarda. Il ne comprenait pas. — Que voulez-vous dire ? — Je veux dire que la certitude n’existe pas, que le doute, s’il s’appuie sur des apparences, ou même sur des présomptions, n’est fortifié d’aucune preuve.
+
+['Il', 'On', 'Jean', 'Alexandre', 'Georges']	Patrice	Toujours, chez le vieux, même torpeur. [MASK] tenta l’épreuve encore. Il traça les noms d’Essarès et du colonel Fakhi, dessina un triangle. Le vieux ne comprenait pas et ricanait. Mais, soudain, son rire eut quelque chose de moins enfantin.
+
+['il', 'Pierre', 'David', 'Joseph', 'Moïse']	Patrice	Lourdement, avec une lenteur causée par le contrepoids, mais avec une force irrésistible, l’énorme bloc de pierre s’abattit. Bien qu’engagé tout entier dans la terre remuée, [MASK], devant le péril, voulut se relever.
+
+['Marie', 'Sophie', 'Jeanne', 'Lucie', 'Catherine']	Coralie	Cependant, il se leva, et il comprit que toutes ses sensations avaient été exactes, qu’il se trouvait à l’entrée du pavillon, que [MASK] avait vidé le deuxième verre d’eau et qu’elle dormait paisiblement. Et il répéta, à haute voix :
+
+['lui', 'Lui', 'moi', 'ça', 'toi']	Siméon	— Surtout, Ya-Bon, méfie-toi de [MASK]. C’est lui qui t’a blessé. Si tu l’apercevais, saute-lui à la gorge, et amène-le ici… Mais ne le tue pas, fichtre ! Pas de blague, hein
+
+['Lui', 'Il', 'Jésus', 'Paul', 'Joseph']	Patrice	[MASK], qui la suppliait d’être calme, était lui-même emporté dans la tourmente et impuissant à réagir contre l’épouvantable sensation de détresse que donne le poids des ténèbres où la mort vous guette. On veut fuir. On veut échapper à ce souffle froid qui déjà vous glace la nuque.
+
+['Charles', 'David', 'Louis', 'se', 'Pierre']	Siméon	Il était là depuis un quart d’heure, lorsque [MASK] fut introduit ainsi que la femme de chambre. Le vieux secrétaire semblait anéanti par la mort de son maître, et il pérorait tout bas, avec des airs bizarres.
+
+['papa', 'Papa', 'maman', 'hier', 'Pierrot']	Patrice	Mais quand tu pleures, maman, je te connais, c’est que tout ton cœur adorable déborde de tendresse et d’amour. Tu pleures ? Ah ! maman, je ne croyais pas que tu m’aimais à ce point ! Lui aussi, [MASK], il avait les larmes aux yeux.
+
+['Il', 'On', 'Monsieur', 'Elle', 'il']	Siméon	[MASK] avait dû brancher un vieux compteur sur quelque conduite extérieure, probablement celle qui alimente les réverbères de la ruelle, et il vous asphyxiait. Il ne nous restait plus qu’à vous sortir tous les deux et à vous donner les soins habituels, massages, tractions, etc.
+
+['lui', 'vous', 'plaisir', 'toi', 'elle']	Bournef	J’en causerai avec [MASK]. — Toujours rien de spécial de ce côté ? — Non, et je n’attends rien de plus. L’alibi qu’il m’a fourni est réel. Ses amis et lui ne sont que des comparses dont le rôle est terminé.
+
+['lui', 'toi', 'quoi', 'mourir', 'tout']	Coralie	!… Dis-moi où elle est, et tu auras la vie sauve. Le vieux tressauta ; sa haine, fouettée par le souvenir de [MASK], pour faire du mal, retrouvait de l’énergie, et il répondit avec un rire cruel :
+
+['il', 'Il', 'on', 'David', 'Thomas']	Patrice	Comme il n’attendait pas l’attaque, dont il espérait de si bons résultats, avant le milieu de la nuit, [MASK] s’assit devant un bureau-cylindre placé contre le mur, et en sortit le registre sur lequel il avait commencé le journal détaillé des événements.
+
+['Jésus', 'Marie', 'Jean', 'Pierre', 'Paul']	Coralie	Tout cela peut se vérifier. Mais, dès maintenant, voici une vérité qui apparaît. Celui qui entrelaçait les noms de Patrice et de [MASK] ne pensait pas seulement à nous, et ne regardait pas seulement l’avenir.
+
+['il', 'elle', 'on', 'lui', 'Paul']	Patrice	Mais son silence ne troubla pas le banquier, qui continua ses politesses et termina son inexplicable communication par un monologue où il répondait avec la plus grande aisance aux questions qu’il posait lui-même. Puis les deux hommes se dirent adieu. C’était fini. Malgré tout, [MASK] se sentait plus tranquille.
+
+['Marie', 'Jeanne', 'maman', 'Marianne', 'Louise']	Coralie	— Je t’ai dit que [MASK] était vivante. — Elle était vivante quand vous l’avez quittée, mais depuis… — Ah ! depuis… — Quoi ? Vous avez l’air de douter ?… — On ne peut répondre de rien.
+
+['toi', 'alors', 'hein', 'là', 'quoi']	Essarès	Sans compter qu’une fois en mon pouvoir, la petite me servait d’otage, et je ne te l’aurais rendue – sois-en sûr – qu’après exécution intégrale de notre accord. Et tu aurais marché droit, [MASK] !
+
+['Il', 'Elle', 'il', 'David', 'Adam']	Bournef	— Nous la prenons. [MASK] rapprocha ses mains l’une de l’autre, puis les croisa, ce qui noua la cordelette autour du cou. Ensuite il serra légèrement de manière à ce que la pression fût sentie, et il demanda d’un ton sec :
+
+['Marie', 'Clara', 'Sophie', 'Juliette', 'Jeanne']	Coralie	Il n’a d’autre idée, en dehors de sa vengeance, que votre bonheur et celui de [MASK]. Il veut vous réunir tous les deux. Il collectionne vos photographies. Il vous suit dans toute votre existence. Il se met presque en rapport avec vous.
+
+['Il', 'Elle', 'il', 'elle', 'Je']	Géradec	Un pareil chiffre ! [MASK] répondit calmement : — Qui vous oblige à l’accepter ? Nous débattons un marché. Vous êtes libre. — Enfin, quoi, du moment que vous acceptez de m’établir un faux passeport, que vous importe de connaître mon nom ?
+
+['il', 'se', 'lui', 'puis', 'elle']	Siméon	Je ne vous demande pas un entretien, mais le temps seulement de dire quelques phrases. Asseyons-nous. Il s’assit résolument. Le docteur prit place en face de lui, avec un air de plus en plus surpris. Et [MASK] prononça, sans autre préambule :
+
+['Elle', 'Il', 'On', 'Tout', 'Cela']	Siméon	[MASK] ne bougea pas. Le capitaine entendit tous les bruits de départ, le claquement de la porte cochère, la mise en marche du moteur, et enfin le ronflement de l’auto qui s’éloignait. Et ce fut tout. Rien ne s’était produit.
+
+['Il', 'On', 'Papa', 'Georges', 'Pierre']	Mustapha	Ne perdons pas de temps… Écoute… Il s’assit et continua : — Voici. [MASK] est mort. Le colonel aussi… Mais, sacrebleu ! ne m’interromps pas, ou nous sommes fichus… « Eh ! oui, fichus, et toi aussi…
+
+['maman', 'chéri', 'non', 'toi', 'enfant']	Patrice	? — Qu’importe !… — Oh ! ne dis pas cela, [MASK] !… L’or ! tout est là ! Depuis que cet or est à moi, ma vie a changé. Le passé ne compte plus… ni la haine… ni l’amour…
+
+['Il', 'Elle', 'On', 'Je', 'Jack']	Patrice	Toutes les autres ouvertures, portes et fenêtres, sont également bouchées par des blocs de pierre accumulés et cimentés depuis notre dernière entrevue. Une évasion est impossible. Qu’allons-nous devenir ? » La partie découverte s’arrêtait là. [MASK] prononça :
+
+['”', 'Voilà', '...', 'Tiens', '“']	Patrice	Et puis un cri rauque, que vous entendez au bout du fil, et puis des sons incohérents, le bruit d’une discussion. Et puis la voix qui se colle à l’appareil, et qui balbutie, au hasard : “[MASK], le médaillon d’améthyste…
+
+['le', 'Jean', 'Marie', 'Alice', 'la']	Bournef	Et si elle s’est enfuie ? — Comment ? — La porte de la ruelle ? — Impossible ! — Pourquoi ? — Depuis des années, c’est une porte qui ne sert pas. Il n’y a même plus de clef. — Soit, reprit [MASK].
+
+['il', 'elle', 'on', 'Il', 'lui']	Patrice	Réponds. Oui ou non ? Il desserra le bâillon et tendit l’oreille. Cette fois, [MASK] ne perçut pas les quelques mots qui furent prononcés par la victime. Mais presque aussitôt, l’autre, le chef, se releva dans une explosion de colère subite.
+
+['Marie', 'Jeanne', 'Suzanne', 'Rachel', 'Anne']	Coralie	Il regarda [MASK]. Elle ne bougeait pas, la figure convulsée, méconnaissable, et les yeux comme fascinés par la terrifiante vision. — Cinq centimètres encore, cria du bout de la pièce le chef, qui desserrait les liens du vieux Siméon. L’ordre fut exécuté.
+
+['Il', 'Elle', 'On', 'Pierre', 'Paul']	Siméon	[MASK] était peut-être de connivence avec lui sur certains points, et il doit en savoir long. Ah ! s’il pouvait parler et nous mettre dans la bonne voie. Une heure plus tard, comme le soleil penchait à l’horizon, ils montèrent sur les terrasses.
+
+['Charles', 'Louis', 'Paul', 'Georges', 'Pierre']	Patrice	Cependant, il devait acquiescer aux idées de [MASK], car, au bout d’un instant, il déclara : — Soit, j’y vais. Nous verrons bien… Et il dit au chauffeur : — File au garage, et ramène la quatre-vingts chevaux.
+
+['Mademoiselle', 'madame', 'Madame', 'monsieur', 'Monsieur']	Patrice	— Je reste. — Mais pourquoi ? pourquoi cette obstination ? Elle ne sert à rien. Pourquoi ? — Parce que je vous aime, [MASK]. Il demeura confondu. Il n’ignorait pas que la jeune femme l’aimât, et il le lui avait dit.
+
+['Holmes', 'Napoléon', 'Voltaire', 'David', 'Miller']	Patrice	— Soyez sûr, monsieur, fit [MASK], que les choses qu’il accomplit actuellement sont encore plus grandes. Et il ajouta : — Étrange personnage, en effet ! Et plus étrange encore, plus puissant et plus extraordinaire que vous ne pouvez le supposer.
+
+['Pierre', 'Jean', 'Jacques', 'Louis', 'Max']	Patrice	Puis il se heurta à des agents qui émergeaient de ce rez-de-chaussée, et dont l’un vociférait : — J’ai vu une silhouette qui s’enfuyait par là. — Par où ? demanda [MASK]. L’homme courait dans la direction de la petite ruelle.
+
+['Elle', 'Alice', 'Il', 'Marie', 'Maman']	Coralie	[MASK] est bien vivante, n’est-ce pas ? Il n’entendit pas la réponse et s’endormit d’un sommeil bienfaisant. Lorsqu’il se réveilla, la crise était finie, bien qu’il éprouvât encore quelques bourdonnements dans le cerveau et du mal à respirer jusqu’au bout de son souffle.
+
+['lui', 'Papa', 'papa', 'Dieu', 'Pierre']	Siméon	— Tu ne t’es jamais aperçue que [MASK] te recherchait ?… — Jamais… Jamais… Il ne me recherchait pas… Peut-être même m’évitait-il… — C’est qu’il est fou alors… — Il n’est pas fou… je ne crois pas…
+
+['Il', 'Elle', 'il', 'elle', 'Marie']	Patrice	Ah ! j’aurais été si heureux !… [MASK] l’avait lâché et l’observait avec horreur. Tout bas, à son tour, il dit : — Je vous défends de parler de cela… C’est là une chose impossible.
+
+['on', 'elle', 'il', 'maman', 'chacun']	Siméon	Après la mort de nos parents, personne n’ayant songé à écarter ce voile, la vérité demeura cachée… jusqu’au jour où [MASK] la découvrit, et, par précaution, la dissimula de nouveau sous une cloison de bois, et posa deux rideaux à la place de l’unique rideau.
+
+['il', 'on', 'Paul', 'Jean', 'Pierre']	Patrice	Ensuite, il s’écoula des heures… ou des secondes. À la fin, [MASK] eut l’impression qu’il s’endormait, mais d’un sommeil infernal, durant lequel il souffrait, physiquement et moralement, comme doit souffrir un damné.
+
+['Alice', 'Marie', 'Anna', 'Sophie', 'Louise']	Coralie	Il avait quelques allumettes dans une boîte. Tout en les allumant les unes après les autres, il conduisit [MASK] vers le panneau de l’inscription. — Que veux-tu ? demanda-t-elle. — Je ne veux pas que l’on attribue notre mort à un suicide.
+
+['il', 'elle', 'Pierre', 'lui', 'Michel']	Lafitte	D’ailleurs, [MASK] insistait, et, lorsque je lui faisais remarquer qu’à la fin de ma nouvelle j’avais coupé court à tout développement ultérieur, en fourrant mon héros en prison, il me répondait tranquillement : — Qu’à cela ne tienne… qu’il s’évade !
+
+['elle', 'il', 'on', 'Catherine', 'Marie']	Patrice	Les bourgeons des marronniers luisaient aux pointes des rameaux. Les lourds parfums des giroflées montaient des plates-bandes, et leurs fleurs jaunes ou mordorées, comme des robes de guêpes ou d’abeilles serrées les unes contre les autres, ondulaient au gré d’une brise légère. Soudain, [MASK] frissonna.
+
+['lui', 'elle', 'vous', 'Lui', 'moi']	Coralie	Il vous envoie la clef du jardin et prépare une entrevue. Et puis, soudain, changement total ! Il devient votre ennemi acharné et ne songe qu’à vous tuer, [MASK] et vous ! Qu’y a-t-il eu entre ces deux états d’âme ?
+
+['Il', 'Elle', 'il', 'elle', 'Marie']	Siméon	Et c’est également l’écriture des lettres adressées par ce misérable à son ami Vacherot… Oh ! quelle ignominie !… cet homme !… ce bandit !… [MASK] eut un mouvement. Plusieurs fois ses paupières s’ouvrirent et se refermèrent.
+
+['elle', 'Marie', 'maman', 'Maman', 'Thérèse']	Coralie	— Mais oui, mais oui, Ya-Bon, ça commence. Et voici où nous en sommes. D’abord, [MASK] n’est pas en danger. Comme je l’espérais, la lutte se passe loin d’elle, sans doute entre les complices et à propos de leurs millions.
+
+['il', 'Joseph', 'elle', 'Il', 'on']	Patrice	Puis [MASK] arma ses deux revolvers, et les plaça bien en vue, près de lui. — Comme cela, dit-il, nous sommes tranquilles. Tout ennemi qui se présente est un homme mort. Mais le souvenir du passé pesait sur eux de tout son poids formidable.
+
+['Il', 'Elle', 'Pierre', 'David', 'Thomas']	Essarès	[MASK] se tut. Après avoir réfléchi, il poursuivit : — Tu as toujours une double clef de chacune des pièces qui leur serviront de chambre ? Oui ?… Bien. Et tu as aussi en double les clefs qui ouvrent les placards de ces pièces ? Oui ?
+
+['elle', 'Marie', 'Jeanne', 'Suzanne', 'Julie']	Coralie	Et, en même temps, il se demandait la cause pour laquelle [MASK] restait dans cette salle. En supposant qu’elle ne pût sortir du jardin, elle pouvait cependant, étant libre d’aller et venir en cette partie de la maison, ouvrir quelque fenêtre et appeler au secours.
+
+['chacun', 'Pierre', 'Jean', 'lui', 'Thomas']	Patrice	Il se baissa davantage encore et murmura de telle façon que [MASK] avait du mal à entendre : — Ces gens-là sont des imbéciles que je mène à ma guise et à qui je ne dévoile que le moins possible de mes plans.
+
+['Il', 'Elle', 'il', 'On', 'Lui']	Patrice	Quoi qu’ils fissent, ils le retrouvaient toujours et partout, remplissant son rôle mystérieux et incompréhensible. Complice inconscient ? Force aveugle du destin ? Qu’importe ! il était celui qui agit, qui attaque inlassablement, et contre lequel on ne peut pas se défendre. [MASK] chuchota :
+
+['lui', 'elle', 'eux', 'Lui', 'le']	Lupin	Et, d’autre part, ton trésor est découvert. Alors, c’est fini, n’est-ce pas ? Nous sommes d’accord ? Tiens, voilà le joujou libérateur. Il lui présenta le revolver, que l’autre, machinalement, prit et braqua sur [MASK].
+
+['Il', 'il', 'Elle', 'On', 'elle']	Patrice	— Ah ! depuis… — Quoi ? Vous avez l’air de douter ?… — On ne peut répondre de rien. C’était cette nuit, il y a cinq ou six heures, et je crains… [MASK] sentait que la sueur lui coulait dans le dos.
+
+['voisin', 'de', '(1)', '»', '[...]']	Berthou	Il contourna le pavillon, chercha ses lunettes jaunes et les mit, descendit le jardin, ouvrit et referma la porte. Puis, par la ruelle, il gagna le quai. Nouvelle station, cette fois, devant le parapet qui dominait le chantier [MASK].
+
+['monsieur', 'Monsieur', 'mais', 'colonel', 'lieutenant']	Patrice	— Je vous défends de parler de cela… C’est là une chose impossible. — C’est une vérité, [MASK]. — Tu mens ! tu mens ! s’écria l’officier, incapable de se contenir et dont la douleur contractait le visage au point de le rendre méconnaissable
+
+['David', 'Adam', 'Roland', 'Joseph', 'Daniel']	Essarès	La volonté du meurtre était inscrite sur sa face livide, et de telle façon que, avant même qu’elle fît un seul geste, un soubresaut de terreur secoua [MASK] et qu’il chercha, par un effort de tous ses muscles, à briser les liens qui l’entravaient.
+
+['toi', '</s>NOTUSED', 'Jean', '«', '[...]']	Essarès	— Ah ! tu acceptes ?… Il était temps… je ne crois pas qu’on puisse être plus près de la mort que tu l’as été, [MASK]. Sans lâcher la corde cependant, il reprit : — Soit. Tu vas parler.
+
+['Marie', 'Seigneur', 'papa', 'Joseph', 'chéri']	Patrice	« D’ici le 14 avril, la lutte qui commence ce soir sera terrible. Si je succombe, il est certain que celle que tu aimes va courir les plus grands dangers. Veille sur elle, [MASK], et que ta protection ne la quitte pas un instant.
+
+['elle', 'il', 'on', 'ça', 'cela']	Siméon	Et, comme [MASK] ne répondait pas, il ajouta : — D’ailleurs, ce n’est pas grand-chose. Dès l’instant que vous vivez, il n’y a pas eu fracture. Cela se réduit donc à des spasmes du larynx dont nous viendrons à bout avec un tubage.
+
+['Elle', 'Marie', 'Anna', 'Maria', 'Il']	Coralie	[MASK] leva le bras. Devant elle, son mari ne tentait même plus ces mouvements de désespoir qui indiquent l’effort suprême. Il n’y avait dans ses yeux ni prières, ni menaces. Il était résigné. Il attendait.
+
+['Jésus', 'Pierre', 'Jérémie', 'Moïse', 'Alexandre']	Essarès	Dois-je te répéter ma phrase de tout à l’heure : “Nous n’avons pas été, au cours de cette lutte, en face de deux criminels. Il n’y a pas eu [MASK] pour commencer la besogne infernale, et celui qui s’est fait appeler le vieux Siméon pour l’achever.”
+
+['Mademoiselle', 'Madame', 'Oh', 'Allons', 'Marie']	Coralie	» De fait, la jeune femme se trouvait en face de la fenêtre, dont aucun obstacle ne la séparait. Il prononça donc à haute voix et d’un ton dégagé : — [MASK], vous devez être un peu lasse. Nous allons nous dire adieu.
+
+['Marie', 'la', 'Jeanne', 'Pierre', 'Joseph']	Siméon	— Il faut que je sois debout à six heures pour tout préparer, et je suis mort de fatigue. Conduis-moi jusqu’à ma chambre. Ensuite, tu reviendras éteindre. Il sortit avec l’aide de [MASK].
+
+['Monseigneur', 'Pierre', 'Joseph', 'François', 'Mgr']	Siméon	J’ai donc pu attirer le registre sur lequel vous teniez votre journal et prendre connaissance des événements. C’est ainsi, d’ailleurs, que [MASK] était au courant de vos moindres intentions. C’est ainsi qu’il a su votre projet de venir ici, en pèlerinage, le 14 avril.
+
+['il', 'Il', 'elle', 'Bouddha', 'Dieu']	Siméon	À ce moment, il n’y aurait pas eu d’acte qu’il n’eût été prêt à accomplir. Accroupi sur l’herbe, sous le petit temple, le doigt tendu, [MASK] répéta : — C’est là… c’est là-dessous…
+
+['Jean', 'Pierre', 'Jacques', 'François', 'Paul']	Patrice	La journée parut longue à [MASK]. Il avait tellement hâte d’arriver à quelque chose qui fût comme une lueur dans les ténèbres ! Et cette lueur n’allait-elle pas justement jaillir des circonstances que ferait naître ce vingtième anniversaire du 14 avril ?
+
+['le', 'Marie', 'la', 'Jean', 'elle']	Siméon	fit [MASK], toujours à voix basse. — Oui, il est arrivé ici cette nuit, après vous, avec un de ses amis. — Et tu lui as dit ?… — Qu’il était votre fils ?… Évidemment, il a bien fallu…
+
+['mort', 'morts', 'personne', 'cela', 'Dieu']	Siméon	Ils ne parlèrent plus de [MASK]. Cela n’avait point d’importance que la mort leur vînt de celui-ci ou de celui-là. C’était contre elle qu’il fallait combattre, sans se soucier de ce qui la dirigeait. Or, que pouvaient-ils contre elle ?
+
+['Alice', 'Anna', 'Marie', 'Sarah', 'Kate']	Coralie	dit [MASK] en un cri d’angoisse. — Très probablement. Elle se cacha la tête entre les mains. — Non, non… cela ne se peut pas… il ne se peut pas que j’aie été la femme de celui qui a tué ma mère.
+
+['monsieur', 'Monsieur', 'madame', 'Madame', 'Mademoiselle']	Coralie	demanda-t-elle anxieusement. — Écoutez-moi, [MASK]. Il s’assit en face d’elle et prononça : — Je ne vous raconterai pas toutes les démarches que j’ai faites. Je vous résumerai simplement le résultat de celles qui ont abouti.
+
+['Mais', 'Rimbaud', 'Wagner', 'Baudelaire', 'Goethe']	Siméon	? — Je ne sais pas. [MASK] a-t-il agi seul ? Avait-il un confident, un assistant dans l’œuvre qu’il a entreprise ? Et est-ce celui-là qui est tombé à sept heures dix-neuf ? Je ne sais pas.
+
+['Marie', 'Jeanne', 'Julien', 'Camille', 'Jean']	Siméon	Cela n’avait duré que quelques secondes. — Tu vois, s’exclama [MASK], que j’ai bien fait de te séparer de ton camarade. Il ne serait pas tombé dans le panneau, lui ! Mais, tout de même, quelle comédie tu m’as fait jouer !
+
+['camarade', 'maintenant', 'monsieur', 'Monsieur', 'mais']	Essarès	Il respirait encore. Il bégaya : — Ah ! la brute… la brute… il m’a tué… mais c’est ta perte, [MASK]… J’avais prévu le cas. Si je ne rentre pas cette nuit, le préfet de police recevra une lettre…
+
+['il', 'Dieu', 'Rimbaud', 'Nietzsche', 'Baudelaire']	Siméon	— Est-on jamais sûr ?… — Je le suis absolument. Ma certitude n’est atténuée par aucune hésitation. Celui que j’appelle notre ami inconnu est mort avant d’avoir achevé son œuvre. Il est mort assassiné. Or, [MASK] est vivant.
+
+['elle', 'lui', 'moi', 'vous', 'Marie']	Essarès	… — Non, mais elle soupçonnait beaucoup de choses, et cette nuit, avant votre arrivée, elle en entendit d’autres qui furent dites entre [MASK] et ses agresseurs et qu’elle m’a répétées, me donnant ainsi le mot de l’énigme.
+
+['Émile', 'Henri', 'Joseph', 'Louis', 'Pierre']	Patrice	En bas, elle s’arrêta. Il n’y avait point d’indécision dans son attitude. Son plan devait être très net, et elle ne réfléchissait qu’au meilleur moyen de l’exécuter. « Ah ! se dit [MASK] tout frémissant, que faites-vous, maman Coralie
+
+['Paris', 'maman', 'Dieu', 'Dreyfus', 'tout']	Coralie	— Mais vous êtes fou ! Je consentirais, moi !… Un homme qui m’a sauvé la vie… qui a sauvé [MASK] ! — Mais qui la perd maintenant. Réfléchis… S’il n’était pas là, s’il ne se mêlait pas de cette affaire…
+
+['moi', 'lui', 'Pierre', 'Charles', 'Louis']	Essarès	— Oui, de celle que j’aimais… Quant à la petite, par elle aussi, j’ai bien souffert… Elle n’aurait pas dû épouser [MASK], et alors peut-être bien des choses ne seraient pas arrivées…
+
+['hier', 'autrefois', 'avant', 'eux', 'ailleurs']	Essarès	: — J’ai vu son visage, au haut de la lucarne, dans le pavillon où il nous avait enfermés… Il nous regardait mourir… un visage de haine éperdue… Il nous haïssait encore plus qu’[MASK]… — Erreur ! Hallucination ! protesta le bonhomme.
+
+['Le', 'Mais', 'Jack', 'Il', '«']	Siméon	[MASK], lui, jeta son arme et demeura impassible, un peu vacillant. Un à un, jusqu’à six, il ouvrit les doigts. Comptait-il les six personnes dont il s’était débarrassé depuis quelques heures ?
+
+['Il', 'Pierre', 'Paul', 'Elle', 'Jean']	Patrice	C’est cela qu’elle considérait attentivement, et c’est de là que venait le danger. [MASK] fut près de courir à cette fenêtre. Il ne le fit pas. Le danger se précisait. Dehors, dans l’ombre du crépuscule, il distinguait, à travers les carreaux obliques, une forme humaine.
+
+['oui', 'monsieur', 'voilà', 'madame', 'mais']	Coralie	— Oui, [MASK], on entre dans le vestibule… Ah ! il n’est même pas nécessaire d’écouter… Il n’y a qu’à se souvenir… Tenez… « Il se dirige vers la cuisine, et il creuse comme tout à l’heure avec la pioche, mais en pleine pierre…
+
+['Il', 'Elle', 'Pierre', 'Jésus', 'Joseph']	Patrice	[MASK] murmura : — Même porte… même clef, peut-être ? Il introduisit dans la serrure la clef rouillée qui lui avait été adressée. La serrure fonctionna. — Allons-y, dit-il, la suite des miracles continue. Celui-ci nous sera t-il favorable
+
+['Il', 'il', 'Elle', '</s>NOTUSED', '»']	Patrice	— Enfin, quoi, que veux-tu ? Qu’exiges-tu ? [MASK] avait pris les deux bras de cet homme, qui était son père, et qu’il n’avait jamais détesté avec plus de violence. Il le suppliait de tout son être.
+

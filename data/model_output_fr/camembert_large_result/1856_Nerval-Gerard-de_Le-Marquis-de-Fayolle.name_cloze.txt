@@ -1,0 +1,200 @@
+['</s>NOTUSED', '!', '«', 'et', '—']	Gabrielle	Nous étions enfants tous deux, et ni vous, ni moi, nous ne soupçonnions les exigences de la société dans laquelle nous étions appelés à vivre... aussi, croyez-le bien... [MASK]... vous n’avez pas d’ami plus sûr et plus dévoué que moi..
+
+['il', 'elle', 'on', 'Madeleine', 'Louise']	Gabrielle	Pendant que le marquis galopait sur la route des Bénédictines, le comte entra dans la chambre de sa fille. Après quelques paroles insignifiantes, il alla s’asseoir sur un fauteuil auprès de la fenêtre où [MASK] travaillait habituellement ; et, donnant à sa voix l’inflexion la plus caressante :
+
+['le', 'Madame', 'Mme', 'Voltaire', 'Monsieur']	Yvonne	De peur de se compromettre, l’assassin n’avait pas osé emporter son pistolet, que nous retrouvâmes à côté du corps. — Et qui vous prouve que le comte fut assassiné ? demanda le marquis. — Rien, monsieur le marquis, dit [MASK].
+
+['Barthe', 'Bart', 'Barbe', 'Berthe', 'Baptiste']	Martinet	— Le citoyen Barthe, répondit l’individu, avec un accent méridional très-prononcé et en souriant d’un air d’intelligence, lu ne me reconnais pas, citoyen ? — Je ne t’ai jamais vu, citoyen, dit [MASK] en l’examinant attentivement.
+
+['Il', 'On', 'Chacun', 'Jean', 'Pierre']	Martinet	— Portez ça plus loin, mes gars, dit le Grand-Fumeur en désignant le corps qui gisait au pied du lit. [MASK] avait suivi tous les détails de cette scène, sans qu’aucun muscle eût tressailli en lui, sans qu’aucun signe annonçât la moindre émotion.
+
+['Robespierre', 'Voltaire', 'Napoléon', 'Louis', 'Pierre']	Jouault	— Il y a assez longtemps que le peuple, comme un chien soumis, se lient couché à plat-ventre devant ses maîtres... Qu’il se lève à la fin et montre les dents ! — Oui, dit [MASK], il y a assez longtemps que leur orgueil nous écrase...
+
+['Jésus', 'Dieu', 'François', 'Marie', 'Monseigneur']	Huguet	Qu’il soit dépouillé de ses habits sacerdotaux qu’il est indigne de porter, et que son corps maudit soit dévoré par les chiens !.. » Les chouans essayèrent d’arracher [MASK] de la chaire. Alors se mettant à genoux, et les yeux levés au ciel :
+
+['madame', 'Monseigneur', 'Madame', 'monsieur', 'Monsieur']	Huguet	pouvons-nous donner une famille, un nom, au pauvre enfant que vous avez recueilli ? — Depuis la première visite que vous fîtes à madame, au couvent des Bénédictines, j’ai souvent réfléchi à la question que vous me faites en ce moment, répondit [MASK].
+
+['vous', 'lui', 'toi', 'moi', 'elle']	Péchard	— Il faut demander cet anneau, — dit le comte, c’est indispensable. — Seulement, si [MASK] ou moi, exigions que ce jeune homme le rendît, — il est probable qu’il nous le refuserait... Il faudrait que la demande fût faite par loi.
+
+['Il', 'On', 'Elle', 'il', 'Louis']	Gabrielle	[MASK] se sentit chanceler ; et le comte du revers de sa main essuya les gouttes de sueur froide qui perlaient sur son front... — Eh bien ! tant mieux ! dit le général, j’en suis enchanté, et si vous parvenez à l’arrêter, son jugement ne sera pas long, ce sera un traître
+
+['Jésus', 'Monseigneur', 'Julien', 'Pierre', 'Napoléon']	Georges	— Mesdames, reprit [MASK], il n’y a ici ni victimes, ni bourreaux, on vous a trompées, si l’on vous a promis les honneurs du martyre : nous aimons et nous respectons la religion autant que vous...
+
+['il', 'Louis', 'Charles', 'François', 'Antoine']	Georges	Le lendemain, [MASK] était hors de danger, et sa blessure ne présentait plus beaucoup de gravité. En reprenant connaissance, il avait été contrarié de se trouver chez les demoiselles de Renac, qui appartenaient à la noblesse. — Cela pouvait le compromettre auprès de ses amis.
+
+['il', 'qui', 'tel', 'monsieur', 'quel']	Huguet	mais [MASK] est votre directeur ; c’est un homme de bon conseil, demandez-lui, si en expiation de votre faute, vous pouvez... — En commettre une plus grande encore, peut être... — Non, vous sacrifier au bonheur de votre enfant...
+
+['alors', 'lui', 'Monsieur', 'non', 'monsieur']	Gabrielle	... — Je refuserai. — Mais votre père, [MASK] ? — Mon père m’aime trop pour vouloir mon malheur. — Et vous oseriez lui avouer que vous m’aimez, moi dont on ne connaît ni le nom ni la famille ? — Je l’oserai.
+
+['Marie', 'Jean', 'Pierre', 'Jeanne', 'Jacques']	Martinet	— Et chaque fois, reprit [MASK], n’avez-vous pas reçu, par un mendiant, une lettre dans une canne creuse ? — D’où savez-vous ?... — Ces lettres, d’une écriture qui vous était inconnue, n’étaient-elles pas toutes signées :
+
+['messieurs', 'frères', 'madame', 'monsieur', 'camarades']	Huguet	... Je vous en prie, [MASK], ne sortez pas !... — Où pourrais-je me cacher si mon heure est venue ? Je dois à ces malheureux les conseils de la sagesse et l’exemple du courage. Je suis sans haine comme sans crainte,
+
+['Louis', 'Charles', 'Eugène', 'Napoléon', 'Henri']	Martinet	— Alors, il est inutile que je la fasse visiter... — Je le crois... cependant, voyez... cherchez... Un second sous-officier entra : on n’avait pas été plus heureux la seconde fois que la première. — C’est impossible ! s’écria [MASK] ;
+
+['monsieur', 'Monsieur', 'messieurs', 'madame', 'comte']	Péchard	Un homme ouvrit la porte du salon et entra sans se faire annoncer. Le comte fit un mouvement de surprise et de mauvaise humeur qu’il ne chercha pas à dissimuler. — C’est vous, [MASK] !... dit-il d’un ton plus impérieux que poli, — que demandez-vous ?...
+
+['Marie', 'Jeanne', 'Julie', 'Alice', 'Louise']	Georges	c’est bien, mon ami, c’est bien. Top père le pardonne ; viens dans ses bras. — Mon père ! vous ! dit [MASK] en le regardant avec étonnement. — Malheureux ! ton cœur ne m’avait donc pas reconnu ?... Embrasse-moi donc.
+
+['elle', 'Marie', 'Jeanne', 'Catherine', 'Julie']	Gabrielle	Alors, elles parfument leurs corps, frisent leurs cheveux, stylent leurs paroles, dirigent leurs regards et les dressent à la conquête d’un mari. Rentrée chez elle, [MASK], encore émerveillée des splendeurs de la fête, avait refait toute sa nuit ;
+
+['Guillaume', 'Pierre', 'Arthur', 'Louis', 'Jeanne']	Péchard	— Pourquoi pas ? dit [MASK] avec assurance ; cela s’est toujours fait chez nous... Quand un seigneur breton croyait avoir à se plaindre de son suzerain, il ne se faisait pas faute d’appeler à son aide les Anglais, les Espagnols ou les Français.
+
+['Charles', 'Napoléon', 'Voltaire', 'Pierrot', 'Rousseau']	Martinet	J’ai couru ce pays-là pendant vingt ans... et j’y suis connu. — On ne peut pas attendre grand chose de voleurs de grands chemins. — Je vois que vous les jugez mal, dit [MASK] en remarquant le paysan qui s’était penché pour écouler la conversation.
+
+['Marie', 'Pierre', 'Jean', 'Jeanne', 'Louis']	Gabrielle	... — Écoutez !... dit [MASK] en approchant l’oreille de la fenêtre. Au même instant on entendit un bruit de pas cadencé dans la rue : puis la voix de l’officier commandant ses hommes et plaçant des factionnaires. Les plus hardis pâlirent...
+
+['</s>NOTUSED', 'Moreau', 'Merlin', 'Bonnet', 'Lafayette']	Martinet	Ils entrèrent bientôt dans la même chambre ; Chaudeboire les y suivit. Les deux chouans, après avoir essuyé la batterie de leurs fusils, se mirent sur le banc au pied du lit et s’agenouillèrent. [MASK], peu rassuré, feignit de dire aussi sa prière
+
+['Charles', 'David', 'Louis', 'Julien', 'Henry']	Georges	Monsieur, — dit [MASK] en se laissant retomber affaissé sur son lit, — que puis-je attendre de parents qui m’ont abandonné pendant près de vingt années ? — Si c’est une faute, si c’est un crime, nous appellerons l’expiation par le repentir...
+
+['Jeanne', 'Marie', 'Émile', 'Jean', 'Léon']	Huguet	Vous connaissez ma mère ! Oh ! dites-moi seulement que vous la connaissez. — Je n’ai rien à te répondre, dit [MASK]. — Mais c’est m’apprendre, du moins, que je suis autre chose qu’un enfant trouvé dans la rue...
+
+['Jésus', 'Charles', 'Louis', 'Pierre', 'Émile']	Georges	— Je ne suis point encore guéri, monsieur l’abbé, répondit [MASK] d’une voix faible. Les sermons me font mal... Une autre fois, si vous le permettez... — J’ai quelques mots seulement à vous dire, mon enfant.
+
+['Napoléon', 'Voltaire', 'Madame', 'Rousseau', 'Monsieur']	Moreau	— Messieurs, dit [MASK], n’oublions pas que nous avons à préparer pour demain des choses sérieuses... Nous saurons plus tard ce qui fut résolu au sortir du café, où il n’était pas prudent de faire connaître ses projets. VI. — L’HÔTEL FAYOLLE.
+
+['elle', 'Marie', 'Jeanne', 'Madeleine', 'Louise']	Gabrielle	Voyons, ma fille, avoue-moi franchement sans songer à mal que tu lui as donné cet anneau, nous verrons ensuite ce qui nous reste à faire pour prévenir les suites de ton étourderie... Touchée par tant de bonté, [MASK] cacha en pleurant son front rouge de honte, dans le sein de son père.
+
+['Elle', 'Il', 'Marie', 'Louise', 'Madeleine']	Gabrielle	Le lui remettre en cette circonstance n’est que de la probité. [MASK] tourna vers lui, avec reproche, son visage mouillé de larmes. Renonçant à son rôle de grande et noble demoiselle, elle pleurait cette fois comme un enfant.
+
+['Mais', 'Merlin', 'Monsieur', 'Monseigneur', 'Et']	Georges	— [MASK] a-t-il été blessé ?.. — Je ne le crois pas, général. — Et l’abbesse ? — Madame la supérieure a été enlevée par les chouans. — Du moins on me l’a assuré... — et conduite... — Où cela ?
+
+['Dieu', 'cela', 'Louis', 'Joseph', 'lui']	Huguet	Il aimait à se dire même que [MASK] pouvait bien en être le père. Mais alors comment expliquer la visite du marquis de Fayolle au couvent ? Enfin, il y avait sur tout cela un voile, qu’il espérait ne pas tarder à soulever ;
+
+['Il', 'il', 'Louis', 'Napoléon', '</s>NOTUSED']	Martinet	A c’t’ heure, voulez vous nous faire l’honneur de trinquer ? N’y a pas d’affront... J’ sommes de bons gars ! [MASK] parut enchanté de la proposition, et s’attabla avec les chouans qui, tous, voulurent avoir l’honneur de boire à sa santé.
+
+['elle', 'on', 'il', 'Louise', 'Marie']	Gabrielle	Dans l’embrasure d’une fenêtre, à l’autre bout du salon, [MASK] travaillait à un ouvrage de tapisserie. La nuit commençait à tomber, — les rues étaient désertes et mal éclairées par quelques réverbères qui fumaient de loin en loin...
+
+['Marie', 'Jeanne', 'sœur', 'madame', 'fille']	Hélène	Son cœur qu’il croyait mort bondit dans sa poitrine... — Relevez-vous, [MASK], dit-il, en la prenant dans ses bras : — il n’est point de faute que ne rachète un si long, un si douloureux martyre.
+
+['Mais', 'Oui', 'Car', 'Enfin', 'Monsieur']	Georges	— [MASK], dit-il, d’une voix grave et vivement émue, il y a des instants dans la vie où l’on se trouve en face de deux roules, où l’on hésite entre deux principes, entre deux sympathies, — tout l’avenir se trouve résumé dans cet instant.
+
+['bien', 'longtemps', 'beaucoup', 'ici', 'encore']	Péchard	— Mes instants sont comptés, mademoiselle, et je crains même de m’être oublié trop long-temps auprès de vous... je m’aperçois que depuis mon entrée dans ce salon, la pendule marque toujours quatre heures cinq minutes… Je ne puis attendre [MASK] davantage ;
+
+['Il', 'On', 'il', 'Elle', 'II']	Péchard	... On avait eu pour lui, dans cette maison, les soins les plus affectueux et les plus empressés... seulement, il souffrait de se trouver forcément lié par la reconnaissance à la caste qu’il abhorrait, — en ce moment surtout. [MASK] entra.
+
+['Il', 'Napoléon', 'Bonaparte', 'II', 'César']	Martinet	[MASK] rentre crâne et triomphant, effrayant à voir. — Tenez, dit-il en leur montrant la baïonnette qu’il tenait à la main et passant son pouce sur la rainure ; voyez... du sang !... il y a du sang... Il est là, derrière cette tapisserie.
+
+['Alice', 'Elisabeth', 'Amélie', 'Albert', 'Anne']	Hélène	Tout son passé lui apparut radieux et coloré par les souvenirs de sa jeunesse. C’était à cette heure qu’il arrivait au château ; il attachait son cheval à cet arbre... il voyait la chambre d’[MASK] à travers ce massif de sorbiers et de lilas...
+
+['Il', 'il', 'Elle', 'elle', 'Louis']	Georges	si je vous disais que j’ai toujours pensé... à vous... [MASK] la regarda avec surprise... — A moi !... vous ?... c’est impossible... — Reconnaissez-vous cet anneau ?... l’anneau de ma mère, que je vous avais donné ?..
+
+['Charles', 'Joseph', 'Alexandre', 'Henri', 'Julien']	Georges	Elle baissa les yeux et rougit. La charmante enfant mentait déjà comme une grande personne. Mais ce mensonge était une faveur, un aveu ; — car, si déjà elle n’eût pas aimé [MASK], qui l’eût forcée à lui faire ce mensonge ?
+
+['moi', 'toi', 'camarade', 'Jeanne', 'soldat']	Chaudeboire	Il sauta à terre, et regardant le chouan d’un air égaré : — Que voulez-vous ? — Le coq chante, dit le chouan en se jetant en bas du lit et saisissant son fusil... Il est temps de se mettre en route ! Et toi, [MASK], allons, debout.
+
+['Julie', 'Voltaire', 'Sophie', 'Henri', 'Madame']	Péchard	? — Je n’y ai jamais vu qu’une pitié généreuse pour un pauvre enfant abandonné. — Eh bien ! moi, — dit [MASK] avec force, — j’y ai vu le calcul d’un ambitieux qui veut profiter d’un secret arraché à la faiblesse ;
+
+['il', 'elle', 'Il', 'Pierre', 'Alexandre']	Georges	Pour examiner l’anneau de plus près, [MASK] prit du bout des doigts la petite main si coquettement tendue vers lui et l’approcha de ses lèvres... Au lieu de se retirer brusquement, — froissée par le contact de sa bouche, il lui sembla que cette main avait légèrement pressé la sienne...
+
+['Holmes', 'Voltaire', 'Smith', 'Napoléon', 'Newton']	Chassebœuf	— Ceci est une question, dit [MASK]. — Comment ? — L’étude des races a démontré que chacun des grands continents a eu sa création... ou, si vous voulez ne pas admettre la création, son éclosion d’hommes particulière.
+
+['Il', 'il', 'et', 'Elle', 'puis']	Huguet	— Dieu ne l’a pas voulu !... ajouta-t-il en soutenant la comtesse qui s’affaissait, brisée de douleur. — Encore un sacrifice, madame, et Dieu veuille que ce soit le dernier !... [MASK] entraîna la comtesse brisée par la douleur et l’anxiété.
+
+['Il', 'il', 'On', 'II', 'Elle']	Georges	— [MASK] nous a suivis... nous l’avons emmené... — Il a déserté son drapeau... déshonoré ses épaulettes !... Oh ! mon Dieu ! ma faute fut grande sans doute, mais je l’expie bien cruellement ! — Voyons, réfléchis, que diable !
+
+['Il', 'Bonaparte', 'Napoléon', 'César', 'Leclerc']	Georges	En même temps des coups de fusil partirent des deux côtés à la fois. [MASK] court pour se mettre à la tête de ses hommes et diriger l’attaque... Aussitôt il est frappé par derrière, renversé, cloué à terre : un genou s’appuie sur sa poitrine...
+
+['David', 'Jérémie', 'Jésus', 'Daniel', 'Pierre']	Péchard	— « Qu’on l’arrache du temple qu’il souille par sa présence !... s’écria [MASK], pâle de colère et d’indignation... Qu’il soit dépouillé de ses habits sacerdotaux qu’il est indigne de porter, et que son corps maudit soit dévoré par les chiens !
+
+['je', 'monsieur', 'ça', 'cela', 'maman']	Huguet	— Eh bien ! puisque [MASK] refuse de parler, voyez le général, interrogez-le... Puisqu’il connaît votre père, qu’il vous conduise auprès de lui et tous deux vous irez ensemble revoir votre malheureuse mère... — Elle a été hier enlevée par les chouans à l’attaque de la mi-forêt...
+
+['Moïse', 'Jérémie', 'David', 'Jésus', 'Dieu']	Bernadotte	et elles se régénérer ont à leur tour et ne transmettront plus à leurs enfants les signes physiques d’une longue servitude. — Ainsi selon toi, dit [MASK], il n’y aurait que des natures difformes dans le peuple et parmi nous-mêmes.
+
+['Napoléon', 'Louis', 'Charles', 'Alexandre', 'Armand']	Georges	Est-ce que vous comptez devenir officier général ? dit [MASK] en riant. — Je suis et je serai sergent toute ma vie... si je reste militaire... — Comment ! à vingt-un ans vous êtes sergent et vous n’irez pas plus loin ! c’est impossible.
+
+['Charles', 'David', 'Thomas', 'Henry', 'Paul']	Nouaïl	— Ben riche ? ben riche ?... — Cousu d’or. — Ah ! mes amis ! — s’écria [MASK] d’une voix suppliante, je suis un homme ruiné. — Écris... « Une somme de dix mille livres. » — Ah ! mon Dieu !
+
+['Celui', 'Ce', 'celui', 'Celle', 'Pierre']	Martinet	[MASK] qui, plus tard, jouera un rôle important dans ce récit, était un homme de trente-six ans environ ; il avait les jambes torses comme un basset, le nez crochu, les jeux petits, caves cl inquiets.
+
+['Elle', 'Marie', 'Jeanne', 'Charlotte', 'Julie']	Gabrielle	Par un effort de courage surhumain, le malheureux avait pu étouffer le cri de la douleur... La baïonnette était entrée dans sa poitrine... La mort avait été instantanée. XXV. — LE CONSEIL DE GUERRE. La scène qui suivit fut courte, mais horrible. [MASK] tomba évanouie.
+
+['Madame', 'Monsieur', 'madame', 'Mme', 'Louis']	Tinteniac	Des coups de crosses de fusils ébranlaient la porte de la rue... — Des armes ! dit [MASK], — armez vos domestiques, nous tiendrons quelque temps, vous vous sauverez pendant ce temps-là. — Les domestiques ! dit le comte, ils se mettraient contre nous.
+
+['Madame', 'madame', 'Mademoiselle', 'Marie', 'chère']	Hélène	Toutes nos affections, comme les ombres, croissent vers le soir de la vie. Tenez... je vous le jure, [MASK], je ne vous ai peut être jamais tant aimée que tout à l’heure à cette place, en me rappelant ce que vous étiez pour moi...
+
+['Napoléon', 'Madame', 'Alexandre', 'Charles', 'Louis']	Martinet	— Cela n’est pas vrai, dit [MASK] avec un aplomb imperturbable. — Et pour prouver que vous étiez bien réellement cet ami officieux, vous ne vous souvenez pas d’avoir écrit de votre main, devant moi, le même billet que le marquis venait de recevoir ?
+
+['Jeanne', 'Marie', 'Louis', 'Pierre', 'Jean']	Chaudeboire	— Quoi ? dit [MASK]. — Ne m’as-tu pas dit que le tambour battait à Rennes, et que la garde nationale s’assemblait quand vous êtes partis ? — Oui, les rues en étaient pleines. — Tu as vu du canon ?
+
+['un', 'quelque', 'le', 'Socrate', 'Jean']	Chassebœuf	— Il ne s’agit pas ici de physionomie, dit [MASK] peu touché de l’interruption et s’adressant à l’assemblée. Dans toutes les espèces animales, les diverses familles se reconnaissent à la forme particulière des pattes et des mâchoires.
+
+['Pierre', 'Louis', 'Alexandre', 'Jean', 'Antoine']	Chaudeboire	— Allons ! dit [MASK], ne vous faites pas prier ; si vous n’avez pas soif, vous ne refuserez pas de vous chauffer les pieds. L’assemblée rit d’un rire bête et féroce, à cette affreuse plaisanterie qui fit frissonner le malheureux conseiller municipal.
+
+['Napoléon', 'Jeanne', 'Lafayette', 'Marie', 'Roland']	Péchard	et que, craignant de mourir sans vous avoir vu, elle m’a chargé de vous dire qu’elle désirait vous confier un secret, que vous seul deviez connaître... Le général se croisa les bras et, regardant fixement [MASK] : — Est-ce un piège pour me faire fusiller par vos chouans ?
+
+['il', 'on', 'Jésus', 'Pierre', 'elle']	Huguet	Tout le monde quittait l’église quand [MASK] montait en chaire ; puis, voyant qu’ils demeuraient impunis, les paysans s’enhardirent peu à peu : on complota d’arracher l’intrus au moment où il irait de l’autel à sa chaire.
+
+['Il', 'Elle', 'il', 'Jésus', 'Marie']	Martinet	— En ce cas, fais ton acte de contrition, tu as le temps d’ici jusqu’au jardin. [MASK] les suivait le plus lentement possible ; ses yeux fouillaient les ténèbres et interrogeaient tous les sons pour y chercher un reste d’espérance... Rien !...
+
+['lui', 'elle', 'Pierre', 'Jeanne', 'Paul']	Martinet	Assis devant un bureau couvert de papiers et de cartons, un homme d’un certain âge fixa quelque temps sur [MASK] un regard perçant, et après avoir parcouru des pieds à la tête l’ensemble de sa personne, il lui fit, de la main signe de s’approcher
+
+['Marie', 'Dieu', 'Joseph', 'Maria', 'David']	Martinet	Le regard de [MASK] allait continuellement de la bêche des terrassiers aux visages des jeunes filles. Toutes deux restèrent impassibles et indifférentes à ce qui se passait. Les travailleurs étaient fatigués ; les autorités avaient froid aux pieds et parlaient de se retirer.
+
+['Il', '...', 'il', 'Puis', 'On']	Péchard	[MASK] sortit... rentré à la cuisine, il engagea tout le monde à aller se reposer pour être frais et dispos le lendemain de grand matin, et préparés aux grands événements qui devaient s’accomplir. Depuis une heure environ
+
+['Il', 'Elle', 'On', 'Marie', 'Monseigneur']	Gabrielle	[MASK] baissa les yeux avec embarras. — C’est un malheureux enfant que les mauvais conseils sont égaré... Les volontés de la Providence sont impénétrables, peut-être vous a-t-elle choisie pour ramener à elle cette brebis égarée... — Mais, l’abbé, que dire pendant cette entrevue ?..
+
+['chacun', 'John', 'Paul', 'Jack', 'Thomas']	Péchard	c’était un manque grossier de politesse, un oubli impardonnable que [MASK] s’empressa de réparer, il s’empressa d’aller présenter ses excuses au nom de tous ses amis... chose incroyable ! et qui ne s’était jamais vue !
+
+['!', '»,', '»', '?', '!”']	Huguet	Damnation sur ceux qui prêchent miséricorde et compassion envers les impies ! C’est par le fer et le feu qu’il faut combattre le monstre de l’idolâtrie !... Damnation sur toi ! misérable intrus, qui viens prêcher le mensonge jusque dans la chaire de la vérité [MASK] voulut répondre.
+
+['Antoine', 'Pierre', 'Alexandre', 'Joseph', 'Pierrot']	Nouaïl	— Ah ! mes amis ! — dit [MASK] en se jetant à genoux et les mains jointes... — Vous n’allez pas me tuer !... Tout ce que j’ai, je vous le donnerai. Le Grand-Fumeur le fit rouler à terre d’un coup de pied.
+
+['</s>NOTUSED', 'Jean', 'Marie', 'Pierre', 'Louis']	Martinet	La moitié du sixième et du dernier carré avait été bouleversée sans amener aucune découverte... [MASK], qui s’en allait sur les deux genoux, le nez dans les touffes d’herbes, crut remarquer un endroit où la terre paraissait plus fraîche. — Les papiers sont là !
+
+['Napoléon', 'Victor', 'Jésus', 'Pierrot', 'Alexandre']	Péchard	Les coups redoublaient : on menaçait d’enfoncer la porte. — Faites ouvrir ! dit [MASK], et ne craignez rien... je réponds de vous sauver tous... Tout le monde le regarda avec surprise, instinctivement rassuré par sa confiance et son sang froid.
+
+['Il', 'il', 'qui', 'Elle', 'elle']	Georges	... [MASK] pâlit. — L’abbé, prenez garde ! vous conspirez, je le sais... Il y a longtemps que j’aurais dû vous faire fusiller... mais si vous avez dit la vérité, malheur à vous.
+
+['lui', 'nous', 'moi', 'elle', 'Jésus']	Georges	Tout père qui abandonne son enfant est un malhonnête homme. Pour la mère, c’est un crime dont son cœur ne l’absoudra jamais. Quant à [MASK], nous avons dû cacher sa naissance pour ne pas lui donner un nom qui n’était pas le sien, une fortune
+
+['Monsieur', 'Pierre', 'Jean', 'Louis', 'Voltaire']	Martinet	Au milieu de la nuit, quatre hommes à figures sinistres entrèrent dans la chambre de [MASK], l’arrachèrent de son lit, et après l’avoir forcé à s’habiller, le portèrent dans un fiacre arrêté devant la porte de sa maison.
+
+['Bonaparte', 'Napoléon', 'Robespierre', 'Moreau', 'Lafayette']	Martinet	— J’ai mes raisons pour agir ainsi, général, dit froidement [MASK]. Arrachant la baïonnette du fusil d’un garde national, il s’en allait çà et là, sondant le plafond, frappant contre les lambris, et s’assurant qu’ils rendaient un son mat et plein.
+
+['hein', 'quoi', 'vous', 'alors', 'donc']	Georges	Qui donc a égayé la noble assemblée de mes aveux surpris, de mes confidences écoutées ?... Voyons, monsieur l’abbé, quand on est l’ennemi des gens, il faut avoir le courage de le leur dire en face. — Moi, votre ennemi, [MASK] ?...
+
+['quand', 'comment', 'pourquoi', 'où', 'souvent']	Georges	— il n’est point de faute que ne rachète un si long, un si douloureux martyre. — Et [MASK] avez vous pensé à lui ? — Toujours... mais de loin : en lui cachant la main tendue vers lui ;
+
+['Marius', 'Roland', 'Jacques', 'Jeanne', 'Pierre']	Nouaïl	Le Grand-Fumeur prit à terre le bassin qui avait reçu le sang de [MASK], et le mettant sur la table : — Faites comme nous avons tous fait... trempez votre main dans ce sang et jurez : Mort aux bleus ! et aux patauds !
+
+['il', 'elle', 'Louis', 'Antoine', 'Alexandre']	Georges	A cause d’elle, [MASK] avait, il est vrai, éprouvé une sanglante injure ; mais aussi à qui la faute ? Pourquoi s’était-il avisé de l’aimer ? Ne devait-il pas sentir la distance que la naissance et la fortune avaient mise entre eux ?
+
+['Il', 'Jésus', 'Pierre', 'François', 'Joseph']	Georges	[MASK] étendit l’épée qu’il tenait à la main, et fit signe aux soldats de rester. — Mes sœurs, dit-il aux religieuses avec émotion, ne craignez rien, nous ne sommes pas venus ici pour vous faire violence, mais pour vous protéger.
+
+['Il', 'On', 'Elle', 'Chacun', '</s>NOTUSED']	Péchard	L’Assemblée nationale a ordonné que les couvents seraient fermes, parce qu’ils servent d’asiles à des conspirateurs qui prêchent partout la résistance aux lois, et arment les citoyens les uns contre les autres. [MASK] voulut parler. — Qu’on arrête cet homme ! s’écria le procureur syndic.
+
+['Napoléon', 'Louis', 'Roland', 'Jeanne', 'Charles']	Martinet	— Faites comme nous avons tous fait... trempez votre main dans ce sang et jurez : Mort aux bleus ! et aux patauds ! Involontairement les yeux de [MASK] se portèrent sur le chouan qui ne perdait pas un de ses mouvements, puis il plongea la main dans le bassin.
+
+['Henry', 'César', 'Alexandre', 'David', 'Fritz']	Georges	— Au nom de la loi que je représente, capitaine, vous rendrez compte au tribunal de cet abus d’autorité. — Sergent, arrêtez cet homme, dit [MASK] et conduisez-les tous deux au poste. Je vous rejoins dans un instant.
+
+['Napoléon', 'Alexandre', 'Bonaparte', 'Moreau', 'Dreyfus']	Péchard	— Je puis ne pas partager toutes les opinions politiques de M. le général, dit [MASK], mais je suis incapable de commettre une trahison... Votre mort d’ailleurs ne ferait pas triompher la cause que j’ai embrassée... — C’est bien... dit le général, laissez-moi...
+
+['Il', 'On', 'Elle', 'Paul', 'Louis']	Georges	Un instant après, l’abbé Péchard lui faisait demander la permission de le voir. [MASK] eût bien voulu éviter cette politesse suspecte, mais comment ? sous quel prétexte ?... On avait eu pour lui, dans cette maison, les soins les plus affectueux et les plus empressés...
+
+['monsieur', 'Monsieur', 'certes', 'messieurs', 'seigneur']	Péchard	— Non, dit le comte ; cela aurait un air de mystère que les domestiques pourraient remarquer. Vous êtes très-compromettant, [MASK] ; mais il y a peut-être moins de danger devant ma fille. Parlez... quel est votre moyen ?...
+
+['celle', 'celui', 'ceux', 'Marie', 'celles']	Gabrielle	Malgré sa haine bien sincère pour la noblesse, il se sentait attendri en pensant à la générosité de [MASK] qui, la première, l’avait aimé quand tout le monde le repoussait dédaigneusement... Et il se rappela son premier amour, si frais, si jeune, si naïf, si plein de confiance ;
+
+['Il', 'il', 'Elle', 'Paul', 'Pierre']	Martinet	[MASK] devint horriblement pâle ; son regard vitreux prit une expression effrayante. Un signe, un geste, une seconde... il était perdu... la mort était là !... la mort en place publique, au milieu des clameurs et des huées de la foule stupide et furieuse
+
+['Il', 'Monseigneur', 'On', 'Chacun', 'Grégoire']	Huguet	[MASK] dit sa messe, que l’on n’osa pas interrompre ; seulement, on affectait de rire et de tenir contre l’intrus des propos grossiers et injurieux. Il descendit de l’autel, l’air doux, le front calme, et monta en chaire.
+
+['elle', 'Marie', 'Anna', 'Alice', 'Catherine']	Marianne	Il était midi ; [MASK] était occupée à tricoter dans une grande pièce très-propre, servant à la fois de salon et de chambre à coucher, lambrissée à hauteur d’appui et tapissée d’un papier fond bleu, avec des fleurs impossibles et des oiseaux invraisemblables.
+
+['On', 'Il', 'on', 'Elle', 'Napoléon']	Martinet	Les travailleurs étaient fatigués ; les autorités avaient froid aux pieds et parlaient de se retirer. [MASK] insista pour que les fouilles fussent continuées jusqu’à la fin... La moitié du sixième et du dernier carré avait été bouleversée sans amener aucune découverte...
+
+['Monsieur', 'Marie', 'Madame', 'Jean', 'Pierre']	Perrin	une houppelande de draps gris avec un petit rabat, des culottes courtes de même étoffe, un gilet jaune à boutons de métal et des bottes molles. — C’est la vérité, dit [MASK], et je vois bien qu’il n’y a pas moyen de vous rien cacher...
+
+['Voltaire', 'Louis', 'Monsieur', 'François', 'Napoléon']	Martinet	— Ce qu’il vous plaira, marquis... — Qu’on le pende. — Haut et court... — A mort le pataud !... Toutes ces opinions émises à la fois ne purent arracher [MASK] au sang froid qui ne l’avait pas abandonné un seul instant.
+
+['Voltaire', 'Moreau', 'Rousseau', 'Merlin', 'Monsieur']	Barthe	— Citoyen procureur, demanda [MASK], pourrais-tu me donner des renseignements précis et catégoriques sur le ci-devant marquis Tuffin La Rouërie ? — Sur lui, non... je sais qu’il conspire... — Toujours... depuis quatre ans... et tu n’as rien appris, autrement ?
+
+['lui', 'elle', 'eux', 'moi', 'Louis']	Martinet	Il ne put toutefois retenir, en causant avec [MASK], quelques observations sur l’inégalité des classes, assez hardies déjà pour l’époque dans la bouche d’un recteur ; mais son cœur débordait d’amertume, et il fallait qu’il en manifestât quelque chose, — même pour son grossier compagnon de roule.
+
+['là', 'ça', 'hein', 'paysan', 'monsieur']	Chaudeboire	— Bonsoir, les gars, — dit le paysan en allongeant sa tête entre les épaules des deux voyageurs placés sur le devant. — Ah !... c’est toi, [MASK] ? répondit un des chouans en sautant dans la voiture ;
+
+['Voltaire', 'Madame', 'Monsieur', 'Monseigneur', 'Napoléon']	Huguet	— Gardons-nous d’avoir une telle pensée à l’égard du marquis, répondit [MASK], — mais, comme vous le dites, — l’expiation comme la récompense est nécessaire dans ce monde, ou dans l’autre.
+

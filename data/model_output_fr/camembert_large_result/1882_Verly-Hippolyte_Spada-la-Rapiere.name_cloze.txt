@@ -1,0 +1,200 @@
+['Ah', 'Oh', 'Oui', 'Mais', 'Hélas']	Lardinois	« [MASK], murmura-t-il, je m’en doutais ! » Il s’assit devant une table sur laquelle il étendit et redressa les papiers chiffonnés par le séjour de leur étroite prison, puis, la tête appuyée sur ses deux mains, il s’absorba dans la lecture du récit qui va suivre.
+
+['maître', 'Maître', 'Seigneur', 'Monsieur', 'monsieur']	Guirault	Maître, faut-il étriper cet insolent ? demanda l’un des prévôts impatienté. – Garde-t’en bien, [MASK]. Les insolents ne se frottent point ici. Il est clair que l’homme qui frappe là a de grosses raisons pour entrer… Vas-y voir et sans tarder.
+
+['il', 'Joseph', 'Charles', 'David', 'Louis']	Lardinois	Avant de pousser l’huis, [MASK] s’arrêta, et, appuyant le pied sur une borne pour soutenir son fardeau, il tira de sa poche un demi-masque de soie grise qu’il s’appliqua sur le visage ; puis reprenant le blessé dans ses bras, il entra.
+
+['Il', 'Pierre', 'Antoine', 'Alexandre', 'Jean']	Matapan	[MASK] écouta sans sourciller ce message encore mystérieux pour lui ; cependant, fidèle à la maxime qu’un véritable hidalgo ne se doit étonner de rien, il s’abstint de répondre et regarda froidement l’inconnu découper avec son poignard l’étoffe très malpropre de son vêtement.
+
+['il', 'on', 'je', 'lui', 'elle']	Spada	Rien de plus facile, ni de plus naturel. Si [MASK] triomphe, il en résultera un scandale qui compromettra son incognito ; s’il est vaincu, tout sera dit, et personne n’aura été mis en jeu que son adversaire. – Dans ces conditions, soit ! répondit le président.
+
+['Alice', 'Emma', 'Alma', 'Anna', 'Hélène']	Anne	ses traits fins et doux, empreints d’une gravité rêveuse, son teint pâle contrastant avec ses grands yeux et ses cheveux noirs, l’auraient fait prendre pour le vrai frère d’[MASK], laquelle était en femme exactement ce que lui était en homme.
+
+['on', 'il', 'elle', 'personne', 'chacun']	José	Après avoir longé le chemin de ronde du côté où il était libre, il avait franchi le fossé intérieur, en un endroit où [MASK] l’attendait, et mis le feu aux bâtiments secondaires tant pour augmenter l’alarme que pour éclairer sa marche.
+
+['Voltaire', 'Monsieur', 'Louis', 'Guillaume', 'Lafayette']	Baurepaire	– Puisse cette faveur insigne être échue à un successeur qui porte comme il convient le nom de ce loyal gentilhomme ! – Avec l’aide de Dieu, j’espère que l’honneur de [MASK] ne périclitera pas entre mes mains. – Quoi ? Comment ! Que dis-tu !
+
+['Moreau', 'Picasso', 'Zola', 'Dali', 'Morris']	Callot	Les dernières lueurs qui s’échappaient des bâtiments de service et des magasins achevant de se consumer, éclairaient un spectacle où [MASK], l’immortel peintre des horreurs de la guerre, aurait pu alimenter l’inspiration de son crayon réaliste.
+
+['Il', 'Elle', 'On', 'il', 'Louis']	Spada	! vociférait la foule qui se grossissait sans cesse, ceux que rebutait le siège de la porte toujours close, venant rejoindre par le chemin de ronde leurs camarades plus avisés. [MASK] étendit sur eux sa longue rapière d’un geste auquel nul n’avait coutume de désobéir :
+
+['Monseigneur', 'Marie', 'Jeanne', 'Madeleine', 'Madame']	Pierre	– Enfantillages ! répéta [MASK] d’une voix irritée, en croisant les bras sur sa poitrine et en s’arrêtant brusquement. Enfantillages ! Par Notre-Dame, messire, vous n’êtes point chatouilleux, ou bien vous oubliez que ces « enfants » s’aiment depuis tantôt dix-neuf ans !
+
+['</s>NOTUSED', 'un', 'le', 'la', 'une']	José	! – Trêve ! cria alors la même voix qui avait parlé après le coup de feu. A bas la messe ! – Mort aux papistes ! répondit effrontément [MASK]. – Qui êtes-vous donc ? – Dames et gentilshommes de la religion réformée. – Vos noms ?
+
+['Elle', 'Il', 'Et', 'Qui', 'Maman']	Pierre	– Ma bru, que je ne connais pas encore, doit être digne de mon fils, puisque mon fils l’a choisie. La bienvenue soit-elle dans ma maison. – Comme elle en est déjà la bien-aimée ! ajouta doucement la mère. [MASK] reprit alors :
+
+['il', 'Il', 'on', 'Thomas', 'Alexandre']	José	Quelques lames de renfort ne feraient, pas mal dans le paysage, là-bas. Ces observations avaient été échangées à demi voix, mais [MASK] n’en avait pas perdu un mot, bien qu’il se donnât l’apparence d’un homme absorbé par ses réflexions.
+
+['il', 'elle', 'ce', 'Dieu', 'on']	Spada	Moi non plus, je n’oublierai jamais sa force et sa bonté. Aujourd’hui, [MASK] n’est plus, et si je tiens le baron de Beaurepaire pour un noble et fier gentilhomme, je ne puis l’aimer et lui n’a que faire de mes services.
+
+['[...]', 'vous', 'je', 'mais', '...']	Magdeleine	C’est bien, je sais maintenant ce qu’il me reste à faire et je le ferai, s’il plaît à Dieu et à Notre-Dame. Il y aura encore du sang, il y aura encore des ruines, des cris, des pleurs : vous l’aurez voulu, [MASK]
+
+['celui', 'celle', 'Pierre', 'Simon', 'Jean']	Gomez	– Tiens bon ici pendant cinq minutes, dit-il à [MASK] qui l’avait suivi, je vais t’envoyer du renfort. – Comptez sur moi, capitaine ! répondit son Sosie en jouant de l’épée d’estoc et de taille.
+
+['Jean', 'Pierre', 'Guillaume', 'François', 'Arnaud']	Joseph	– Le sire de Crèvecœur est maître de sa troupe, celle qui occupe la première enceinte. Nous autres qui gardons la porte et le château, nous sommes commandés par un gentilhomme béarnais qui se fait appeler [MASK] et qui a eu la chance de trouver sur la route l’occasion d’entrer en faveur.
+
+['oh', 'seigneur', 'monsieur', 'dame', 'madame']	Nino	; excusez-moi. Approchez-vous de la table ; une course à travers champs et bois ouvre d’ordinaire l’appétit. Je compléterai ma lettre de vive voix quand vous aurez satisfait votre estomac. Holà, [MASK] ! que l’on serve promptement ce gentilhomme !
+
+['Napoléon', 'Jésus', 'Dieu', 'Joseph', 'David']	Spada	Parle, tout est à toi. – Merci, maître, merci, mon vieil ami, répondit [MASK] en le serrant de nouveau sur sa poitrine ; il s’agit, en effet, de choses de haute importance pour moi et que je vous exposerai dans leurs moindres détails.
+
+['il', 'Napoléon', 'Il', 'on', 'Bonaparte']	Pierre	c’est par là qu’il était venu au rendez-vous et qu’il avait ensuite opéré sa retraite. Le lendemain de sa suprême et infructueuse démarche, tout espoir de rapprochement étant désormais perdu, [MASK] se disposa à rejoindre sa troupe et à combiner le nouveau plan de campagne que les circonstances lui imposaient.
+
+['Il', 'Arthur', 'Thomas', 'Alexander', 'Gabriel']	Spada	[MASK] savait dès lors à quoi s’en tenir, et manœuvra en conséquence. Il se tint sur la défensive, laissant en apparence son épée obéir docilement aux impulsions du fer ennemi, laissant même celui-ci gagner à la main et effleurer une ou deux fois sa poitrine.
+
+['Il', 'On', 'Elle', 'Louis', 'Charles']	Matapan	– Non, maître… Une sotte histoire avec des soudards. Moins que rien ! – Hum ! Voyons ces boutonnières. [MASK] connaissait trop bien l’art de faire ces sortes d’accrocs pour ne pas savoir aussi celui de les raccommoder. Il était bon chirurgien.
+
+['il', 'elle', 'monsieur', 'on', 'Pierre']	José	– Dame, capitaine, [MASK] est l’éclaireur de la compagnie ; sa profession et son devoir consistent à comprendre les demi-mots, à voir d’un coup d’œil et à deviner le reste. – C’est juste ! – Maintenant, capitaine, j’attends vos ordres.
+
+['cœur', 'race', 'naissance', 'France', 'coeur']	Nino	Il n’était pas indispensable d’être né par delà les monts pour reconnaître en celui-ci, malgré l’insuffisance du luminaire, un compatriote de [MASK], si ce mot peut être employé à propos de gens qui font profession de ne point avoir de patrie.
+
+['capitaine', 'sergent', 'colonel', 'lieutenant', 'commandant']	Spada	Pas encore, capitaine, lui répondit-on. Ils ont refermé sur eux les portes de fer ! – C’est bien. Dites-leur qu’il y a quartier pour ceux qui se rendront de suite, et que les autres seront pendus dans une heure, foi de [MASK] !
+
+['lui', 'moi', 'Napoléon', 'Joseph', 'Voltaire']	Matapan	La suite de ce récit apprendra au lecteur les motifs des sentiments contradictoires qu’inspirait cet aventurier célèbre.. Il s’empressa, les bras étendus, vers l’un des voyageurs, qui n’était autre que [MASK], et le maître et l’élève se tinrent un instant serrés dans une étreinte émue.
+
+['Il', 'il', 'II', 'Louis', 'Alexandre']	Spada	[MASK] remit la sienne au fourreau, et, la remplaçant par une arme démodée, mais formidable dans sa main d’hercule, une masse d’armes qu’il avait coutume de porter suspendue à sa ceinture aux jours de bataille, il se fit une large trouée par laquelle il opéra sa retraite.
+
+['!', 'à', 'le', 'la', 'un']	Spada	lui dit la jeune fille d’un ton menaçant. – C’est à moi de te le demander ! repartit le bohémien avec audace. – Réponds ! Je n’ai pas aujourd’hui le loisir de discuter. – Je fais ce que tu fais toi-même : je cherche [MASK]
+
+['Paris', 'Bordeaux', 'Nantes', 'Rouen', 'Montauban']	Matapan	Peu de huguenots fréquentaient [MASK], qu’ils regardaient comme un ennemi dangereux, et le seigneur du Harnel n’était point du petit nombre des exceptions ; tout était donc ici nouveau pour lui, le débraillé espagnol de l’endroit, comme la métamorphose du jeune bourgeois.
+
+['monsieur', 'messieurs', 'Monsieur', 'vous', 'madame']	Sancy	Mais, diantre, vous pensez, du jour au lendemain. Ah ! par Notre-Dame, voilà là-bas des braves qui vous renseigneront peut-être mieux que moi ! Dites donc, [MASK], ne connaîtriez-vous pas quelque bonne aubaine pour une rapière disponible ? La glace était rompue
+
+['Dieu', 'lui', 'Marie', 'Paris', 'toi']	Raoul	Il sait aussi qu’au jour des fiançailles, à Douxlieu, j’étais la seule personne qui eût ignoré jusqu’au dernier moment le vrai but de la fête. Il sait tout, te dis-je, et je le hais autant que j’aime [MASK] !
+
+['monsieur', 'maître', 'Monsieur', 'messieurs', 'Maître']	Medlim	Le bohémien s’était levé et se tenait accroché aux vêtements du beau page, qui avait écouté cette longue objurgation, l’œil étincelant, le sourcil froncé, en donnant des marques non équivoques de son impatience. – En voilà assez, [MASK] ! répondit-il en cherchant vainement à se dégager.
+
+['Roland', 'Pierre', 'Guillaume', 'Jean', 'Alexandre']	Pierre	– Alors, vous êtes volés ! répliqua [MASK] en ramassant le fer par un contre-en-cercle et en ripostant par une grêle de coups de pointe et de taille qui firent en un clin d’œil le vide autour de lui. – Chargez, chargez, marauds que vous êtes !
+
+['en', 'et', 'mais', 'comme', 'Roland']	Spada	Enfin, [MASK] s’étant découvert en quarte basse par une parade exagérée, le comte vit le jour et y donna, tête baissée, par une botte furieuse ; c’était ce qu’attendait l’élève de Matapan : il lia l’épée par une irrésistible flanconnade et enferra son adversaire en plein corps.
+
+['le', 'la', '?', 'Mme', 'alors']	Pierre	? La jeune fille sembla cruellement perplexe pendant quelques instants ; mais elle répondit d’un ton ferme en se levant : – Je vous ai dit que je n’étais plus libre… Je ne puis rien ajouter. – Ah ! c’en est trop ! s’écria [MASK]
+
+['Il', 'César', 'Mais', 'Alexandre', '«']	Pierre	[MASK], les sentant déjà sur ses talons, fit un bond en avant, allongea au juger une foudroyante estocade qui atteignit son antagoniste en plein corps, et par une série de voltes savantes vint faire face successivement aux deux groupes d’assaillants en s’écriant :
+
+['ami', 'Seigneur', 'camarade', 'non', 'Pierre']	Gomez	Les amitiés fidèles sont rares en ce temps-ci, comme en tous les temps d’ailleurs ; crois-moi, [MASK], hâte-toi de fermer la main où je mets la mienne ? Le colossal montagnard à qui s’adressait ce discours avait fait un pas en avant
+
+['il', 'elle', 'Louis', 'Guillaume', 'Charles']	Raoul	Ici [MASK] échappa à l’étreinte de son frère, bondit dans l’appartement et se précipita aux pieds de sa maîtresse, qu’il entoura passionnément de ses bras, couvrant de baisers et de larmes son visage, ses cheveux, son cou, ses mains, toute sa personne.
+
+['Joséphine', 'Madame', 'Charlotte', 'Louise', 'Marie']	Magdeleine	Sans doute les inspirations habilement soufflées par la douairière qui poursuivait ses projets de famille avec une opiniâtreté que rien ne rebutait, entraient pour beaucoup dans les résolutions de [MASK], bien que celle-ci ne s’en rendit point compte.
+
+['il', 'on', 'elle', 'chacun', 'Dieu']	Guzman	– Nous acceptons votre épée, jeune homme, me dit le roi du ton froid et lent qui lui est habituel ; [MASK] l’utilisera en attendant que nous l’utilisions nous-même. Allez, et soyez fidèle. » Je me relevai quand le roi fut passé, et replaçai mon arme.
+
+['enfant', 'cependant', 'toi', 'maman', 'chéri']	Medlim	– Ah ! ceci est mon affaire ! – Tu mens ! – Comme il te plaira, ma belle. – Prends garde, [MASK] ! Veux-tu répondre, oui ou non ? – Soit ! Toi, tu le cherches pour le délivrer, et moi, pour t’empêcher de le sauver.
+
+['toi', 'alors', 'maintenant', 'ici', 'Alice']	Nina	– Es-tu décidée, [MASK] ? – Oui, répondit le pseudo-page. – Tu viens ? – Je reste ! Le bohémien murmura entre ses dents une série de paroles insaisissables, qui devaient être autant d’imprécations dans sa langue natale, puis s’adressant de nouveau à son compagnon :
+
+['lui', 'Pierre', 'Louis', 'Joseph', 'Charles']	Pierre	On l’a deviné, c’est [MASK], le bourgeois batailleur, l’homme d’action, qui cherchait à entraîner son frère dans une lutte vive contre les ennemis de son bonheur. Il avait passé son bras sous celui de son cadet, qui semblait être son fils tant la disproportion entre eux était grande.
+
+['Madame', 'madame', 'Mademoiselle', 'Monsieur', 'monsieur']	Magdeleine	– Assez sur ce sujet… Vous savez que je ne puis ni ne dois entendre un mot de plus. – Je n’admets point cela, [MASK]. Vous êtes libre, donc… – Je ne le suis plus. – Comment cela ? – Je suis fiancée.
+
+['Espagne', 'France', 'Italie', 'Amérique', 'Égypte']	Flandre	» Il tira sa dague, dont il lui mit la pointe à la gorge. » – D’où viens-tu ? » – De la Granja. » – Où vas-tu ? » – En [MASK]. » – Porter cette lettre ? » – Oui.
+
+['elle', 'tout', 'il', 'Versailles', 'Elle']	Douxlieu	L’altière demeure a quitté les habitudes silencieuses et moroses à laquelle l’absence du maître condamne les châteaux comme les chaumières ; [MASK] vit et s’agite du haut en bas, tout un monde affairé grouille dans ses murs : valets et suivantes vont et viennent dans les cours, corridors et escaliers
+
+['Lui', 'Il', 'Celui', 'Elle', '</s>NOTUSED']	Lardinois	– Je suis Spada. La jeune fille était en proie à une agitation inexprimable : elle s’était reculée, la main nerveusement étendue vers son interlocuteur, une profonde stupeur empreinte sur le visage. [MASK], les bras croisés sur la poitrine, la regardait gravement.
+
+['corne', 'bouc', 'vache', 'brume', 'lait']	Satan	! – Par les cornes de [MASK], ma bête n’est pas accoutumée à porter un chanoine ! – La mienne non plus ; elle butte d’impatience, et prend chaque goutte d’eau pour un coup de houssine. Je la retiens à rompre les rênes.
+
+['viens', 'reviens', 'va', 'vas', 'vienne']	Nina	Viens, [MASK], sois douce, ma gazelle ! Le bohémien s’était levé et se tenait accroché aux vêtements du beau page, qui avait écouté cette longue objurgation, l’œil étincelant, le sourcil froncé, en donnant des marques non équivoques de son impatience.
+
+['Alexandre', 'Charles', 'Pierre', 'David', 'Napoléon']	Matapan	– Retirez-vous, dit lentement [MASK] à son second ; et vous, parlez ! L’homme attendit que la porte se fût refermée, puis, changeant soudain d’allures, il s’inclina gravement devant son hôte et, ôtant d’un seul geste son bonnet et sa perruque
+
+['maman', 'madame', 'Mademoiselle', 'Madame', 'Marie']	Nina	? – Rien ! – A présent, sauve-toi, si tu le peux, par où tu es venue, car avant un quart d’heure je serai hors d’ici ; il y aura probablement bataille et tu me gênerais. Merci encore, [MASK] !
+
+['Il', 'Joseph', 'Louis', 'On', 'Pierre']	Pierre	[MASK] avait quitté à l’automne la maison paternelle ; l’on approchait maintenant de l’été, et rien n’annonçait encore l’arrivée de ce fils aimé, objet unique de leur tendresse et de leur orgueil. Quel avait été son sort depuis le jour déjà lointain où son laquais était venu calmer un instant leurs alarmes
+
+['Il', 'Guillaume', 'Louis', 'Pierre', 'Jean']	Pierre	[MASK] est d’un caractère aventureux et bouillant, qui est plutôt d’un soldat que d’un commerçant ; il fréquente plus les hommes de guerre que les damoiselles, et il n’a ni l’art, ni la douce éloquence, ni les manières caressantes de son frère.
+
+['il', 'on', 'elle', 'Dieu', 'lui']	Spada	Ces trois taches étaient : d’abord sa rancune contre l’homme qui lui avait tiré les vers du nez en le grisant, lors de l’enquête dont [MASK] l’avait chargé ; ensuite le sentiment. de sa trahison involontaire ;
+
+['Alexandre', 'Napoléon', 'Il', 'Mais', 'David']	Pierre	[MASK], qui ignorait les préparatifs dirigés contre lui, estima qu’il lui suffisait de reprendre les vêtements de son ancienne condition et de renoncer à toute arme apparente pour rester confondu avec tout le monde et pour passer inaperçu.
+
+['José', 'Marcel', 'Georges', 'Jean', 'Maria']	Gomez	Depuis le moment où les alarmés que l’on sait l’avaient chassé du camp en compagnie de [MASK], le joyeux compère José voyait trois points noirs au fond de son verre, et ce spectacle lui rendait la vie amère.
+
+['Hélas', 'Ah', 'Oh', 'Non', 'Allons']	Spada	Sa cruelle incertitude dura peu. La même voix, adoucie, affectueuse, lui glissa dans l’oreille, pendant cette course rapide : – N’aie crainte, enfant, tu es aux mains de celui qui te doit la vie ! – [MASK] ! soupira-t-elle.
+
+['il', 'Il', 'Antoine', 'ce', 'Joseph']	Pierre	– Enfin !… Mais le cri de cette double tendresse fut aussitôt comprimé par l’étonnement : [MASK] n’était pas seul. Une femme, dont les premières ombres du crépuscule ne permettaient pas de distinguer les traits, s’appuyait sur sa main gauche.
+
+['Jeanne', 'Marie', 'Catherine', 'Elizabeth', 'Anne']	Magdeleine	Puis il regarda [MASK]. Celle-ci s’était levée et, debout dans une attitude fière qui faisait admirablement ressortir ses formes opulentes, son regard insolent glissant entre ses paupières mi-closes, elle avait l’air d’une princesse des vieilles chroniques scandalisée par l’outrecuidance de quelque chevalier discourtois.
+
+['Il', 'Elle', 'Napoléon', 'il', 'Louis']	Matapan	[MASK] se tut, et son auditeur demeura pensif. La renommée sanglante qu’on lui faisait ne le touchait guère : à cette époque de violences et dans ces jours de troubles, une pareille célébrité n’avait rien qui pût choquer un homme de guerre.
+
+['Léopold', 'David', 'Napoléon', 'Merlin', 'Lambert']	Spada	; mais capturer [MASK] lui-même et décider le collège échevinal à l’enfouir dans quelque oubliette, si l’on ne pouvait mieux, était un coup de maître et une représaille savoureuse qui faisaient d’avance tressaillir d’aise la plupart des membres du conciliabule.
+
+['on', 'il', 'elle', 'chacun', 'On']	Spada	Pendant qu’on garrottait trois prisonniers, seuls restés saufs, [MASK] les interrogea et apprit seulement alors le secret de leur présence. – Quiconque touche à la part d’un camarade perd la sienne ; quiconque touche à celle du capitaine est pendu : tel est le réglement.
+
+['on', 'elle', 'Anne', 'Dieu', 'Marianne']	Raoul	Il y a des choses qu’on ne fait point, chère Anne ; noblesse oblige. – Ta nature impérieuse aurait bientôt fait litière de tous ces préjugés, si tu aimais comme moi ! – Eh ! Sais-tu seulement si [MASK] se désole autant que toi ?
+
+['lui', 'moi', 'un', '</s>NOTUSED', 'Joseph']	Medlim	Celui-ci se voyant découvert avait fait un pas et la lueur d’une ampoule de fer remplie d’huile qui fumait non loin de là, suspendue à une clef de voûte, permettait de distinguer ses traits : c’était [MASK]. – Que fais-tu ici
+
+['il', 'Il', 'Jack', 'David', 'Alexander']	Spada	Quand les choses furent engagées comme il le souhaitait, [MASK] saisit une hache à son tour, et, raidissant ses muscles d’athlète, asséna sur la porte gothique un coup qui l’aurait ouverte d’emblée sans sa puissance armature.
+
+['Monsieur', 'Madame', 'passage', 'madame', 'Paris']	Matapan	La protection de cette arme redoutable n’était point surperflue, comme on va le voir, car son propriétaire allait avoir, plus tôt qu’il ne le pensait, à recommencer avec des adversaires moins courtois les prodiges de force et d’adresse accomplis tout à l’heure avec les clients de [MASK].
+
+['</s>NOTUSED', 'le', 'un', 'Alexandre', 'Socrate']	José	Il s’assit devant la table, sur laquelle le gentil serviteur venait de déposer un pâté de venaison, et il se mit à attaquer sans cérémonie plats et flacons, pendant que son amphitryon faisait appeler [MASK], son émissaire. Celui-ci ne tarda point à paraître
+
+['Marie', 'Pierre', 'Marguerite', 'Jeanne', 'Jean']	Raoul	– C’est encore mal, ce que nous faisons ici, fit [MASK]. – Enfant ! sachons d’abord à qui nous avons affaire. Ils reconnurent aussitôt le parler lent et hautain de celle qu’on appelait « la belle Magdeleine » ;
+
+['Merlin', 'Roland', 'Martin', 'Guillaume', 'Jean']	Spada	– Passe encore pour cette fois, dit [MASK], desarmé par cette bouffonnerie ; mais gare à la prochaine ! parle, maître entonnoir ! – Voici, capitaine. Déguisé en chicanous, perruque en tête, grimoires sous les deux bras, écritoire à la ceinture.
+
+['monsieur', 'Monsieur', 'Monseigneur', 'maître', 'frère']	Magdeleine	en secret par un autre, celui des échevins… Mille pistoles pour la tête que voici, rien que cela ! C’est une aubaine à tenter plus d’un sacripant, qu’en pensez-vous, [MASK] ? – Je ne puis comprendre vos paroles, mon frère.
+
+['Marie', 'John', 'Sarah', 'Claire', 'William']	Spada	L’un et l’autre sentaient leur anxiété croître d’heure en heure, à mesure que se prolongeait l’absence de [MASK]. Toutefois, ils gardaient leurs pensées secrètes, car ils avaient tous deux leurs raisons de se montrer discrets.
+
+['Pierre', 'Louis', 'Jean', 'David', 'Jeanne']	Meldim	– Sans hésiter, si tu persistes. Chacun pour soi. – C’est donc toi qui l’as livré ? – C’est moi, et je. – Eh bien ! sois puni, double traître ! La voix de [MASK] s’étouffa dans un râlement.
+
+['non', '...', 'mais', 'monsieur', 'Monsieur']	Nina	– Tu viens ? – Je reste ! Le bohémien murmura entre ses dents une série de paroles insaisissables, qui devaient être autant d’imprécations dans sa langue natale, puis s’adressant de nouveau à son compagnon : – Non, cela n’est pas possible, [MASK].
+
+['César', 'Alexandre', 'Guillaume', 'David', 'Pierre']	Gomez	Il y eut un mouvement de recul parmi les assiégeants ; quelques grappes d’hommes rageusement enlacés, la dague au poing, tombèrent dans l’eau sombre du fossé qui engloutit impartialement amis et ennemis. [MASK], sentant le péril, s’élança vers l’entrée du pont.
+
+['compagnie', 'chambre', 'fer', 'lettres', 'cœur']	Beaurepaire	Quelques instants plus tard, lorsqu’il se trouva seul avec la dame de [MASK], l’assemblée s’étant dispersée, le comte laissa percer son irritation sans contrainte. – Les sots prétentieux que voilà ! L’homme nous échappera, madame, si nous n’y mettons ordre nous-mêmes.
+
+['Rome', 'Napoléon', 'César', 'Roland', 'Constance']	Spada	En un instant il s’opéra une désagrégation dans la foule : les soldats de [MASK] vinrent se masser autour de leur chef, tandis qu’un autre groupe moins nombreux se trouvait ainsi refoulé vers l’extrémité opposée de la salle, et parmi ceux-ci figuraient les agresseurs de Magdeleine.
+
+['elle', 'il', 'on', 'Marianne', 'Louise']	Pierre	En ce moment solennel, oubliez vos titres, s’il le faut, pour laisser parler votre cœur de femme. Pitié, madame, ayez pitié ! Et [MASK] alla mettre un genou en terre devant l’orgueilleuse baronne. Ce n’était point ce qu’attendait celle-ci :
+
+['il', 'Pierre', 'François', 'Joseph', 'Jean']	Pierre	Le lendemain, [MASK] se rendit au couvent des Dominicains pour revoir le frère dont il était séparé depuis cinq ans. L’entrevue fut affectueuse et longue : les deux frères ne se séparèrent qu’à l’heure des Laudes, après s’être tout dit, comme au temps heureux de leurs illusions.
+
+['il', 'Il', 'on', 'lui', 'David']	Pierre	A l’évidence, [MASK] était tombé en plein dans une embuscade. En homme habitué aux surprises de la guerre, il embrassa la situation d’un rapide coup d’œil : ses adversaires, nombreux et bien armés, cherchaient déjà à l’entourer, et lui n’avait ni épée ni dague
+
+['Dieu', 'mort', 'Satan', 'Jésus', 'diable']	Belzébuth	Quant aux gens de la ville, qui inclineraient volontiers à croire que tu es [MASK] en personne si l’on ne te savait zélé catholique, ton nom seul leur inspire une épouvante inexprimable ; c’est dire qu’ils ne te portent pas dans leur cœur.
+
+['Elle', 'Marie', 'elle', 'Jeanne', 'Sophie']	Nina	[MASK] se sentit alors soulevée et emportée par un bras puissant. N’avait-t-elle échappé aux outrages qui la menaçaient que pour tomber dans un péril inconnu ? Sa cruelle incertitude dura peu. La même voix, adoucie, affectueuse, lui glissa dans l’oreille, pendant cette course rapide
+
+['Ah', 'Oh', 'Hélas', 'Quoi', 'Non']	Spada	ce dont je vous demande pardon d’avance, – du vulgaire bandit qui se pose effrontément en ennemi de tout un parti pour avoir le droit d’exercer avec impunité ses odieux brigandages contre chacun des membres de ce parti… – [MASK] ! murmurèrent quelques voix. –
+
+['Elle', 'Marie', 'Sophie', 'Madame', 'Anna']	Magdeleine	mais une même arrière-pensée arrêta leur double élan, et dès lors un invincible embarras se glissa entre eux. [MASK] parla la première, et en s’efforçant de cacher son trouble, elle tomba dans un autre travers ; ce fut avec son intonation la plus altière qu’elle prononça ces mots :
+
+['Napoléon', 'Monseigneur', 'Condé', 'France', 'Bonaparte']	José	Les deux cavaliers qui renouvelaient cet exploit, le lendemain de la visite de [MASK] au seigneur Matapan, ne semblaient pas gens à solliciter l’escorte d’autrui ; ils trottaient insoucieusement l’un derrière l’autre, en silence et sans hâte, comme à la promenade.
+
+['Michel', 'Paul', 'Jean', 'Dieu', 'Louis']	Calvin	Dans une des dernières échauffourées, il s’en est fallu d’un cheveu que je ne fusse pris, c’est-à-dire pendu, car il ne fait pas bon de ce côté-là, pour les gens de la religion ; et, par saint [MASK], j’ai préféré tirer au pied.
+
+['On', 'Il', 'Louis', 'Napoléon', 'Elle']	Spada	– Deux cornes gravées au pommeau : ce fer n’est point des nôtres ; c’est la marque du Bœuf. [MASK] avait ordonné qu’on poursuivît les traîtres, mais il était trop tard : le pont n’ayant point encore été relevé, ni les sentinelles posées, ils avaient réussi à s’échapper.
+
+['Bella', 'non', 'enfant', 'fille', 'Marie']	Nina	Mais tu ne le feras pas, [MASK] ! Ce soldat massif et brutal pour lequel tu m’as fui, se joue de toi. Fusses-tu deux fois plus belle, tu ne serais encore pour lui qu’un caprice. Peux-tu te faire illusion ?
+
+['madame', 'Madame', 'monsieur', 'Mademoiselle', 'Monsieur']	Magdeleine	! Dites, [MASK], que décidez-vous ? La jeune fille sembla cruellement perplexe pendant quelques instants ; mais elle répondit d’un ton ferme en se levant : – Je vous ai dit que je n’étais plus libre… Je ne puis rien ajouter. – Ah !
+
+['Il', 'Elle', 'Alexandre', 'Pierre', 'Jeanne']	José	[MASK] se jeta à genoux et baisa la main de son chef. Celui-ci reprit : – Mais, dis-moi, comment connaissais-tu si bien mes secrets particuliers et mon vrai nom que je n’ai confiés à aucun de mes compagnons ?
+
+['il', 'on', 'elle', 'Pierre', 'Charles']	Pierre	Quoique peu profondément atteint, il lâcha son fer et tomba sur les genoux. Au lieu de l’achever, [MASK] s’écarta. – Vous n’en mourrez pas encore cette fois, dit-il, car nous autres, bourgeois, nous ne comptons pas la félonie au nombre de nos vertus.
+
+['David', 'Alice', 'Marie', 'Charles', 'Louis']	Pierre	– Mais non les déshonorer ni devenir leur égal. – Vous vous trompez, il peut même les déshonorer et devenir plus que leur égal : leur terreur et leur maître ! Vous l’apprendrez mieux encore quelque jour, selon toute apparence, continua [MASK] d’un air sombre
+
+['</s>NOTUSED', 'toi', 'chevalier', 'fils', 'maintenant']	Gomez	; à mon tour, je vous promets que mon aide ne vous fera point défaut quand vous viendrez la requérir. Prends cet or, [MASK], et va choisir dans ma salle d’armes l’équipement qui te plaira le plus : ceci est ta part ;
+
+['non', 'alors', 'hein', 'toi', 'donc']	Gomez	– Tu dois tout au capitaine, [MASK] ? – Tout. – Es-tu homme à risquer, pour payer ta dette, la corde dont il t’a sauvé ? – Oui. – Bien. Mais s’il y a du contre, il y a aussi du pour.
+
+['Jean', 'François', 'Louis', 'Pierre', 'Guillaume']	José	– Tout ça sent la traîtrise, maître imbécile, dit [MASK], parlant à sa propre personne. Ta chienne de langue aura encore évaporé en paroles le vin et la cervoise que ton gosier a entonnés. Le capitaine est en péril, c’est sûr.
+
+['Madame', 'madame', 'Monsieur', 'Mme', 'Jeanne']	Spada	– Je vous avais prévenu, monsieur, se borna à dire [MASK]. Un hourra formidable s’éleva dans la cour, auquel en répondit un autre : la porte venait enfin de céder et les gens du pont se précipitaient à flots dans le château.
+
+['Paul', 'Roland', 'Jean', 'Pierre', 'Alexandre']	Pierre	– Rustre et butor toi-même ! répondit [MASK] irrité. Tâche de surveiller ta langue en même temps que tes coudes si tu ne veux aller t’assurer là-dedans si les mixtures des teinturiers ont aussi bon goût que bon teint ! – C’est bien là langage de drapier…
+
+['Il', 'il', 'Alexandre', 'II', 'Elle']	Spada	– Vengeance ! à mort le traître ! [MASK] se retourna furieusement, et brandit sa massue sanglante : – Venez-y donc ! cria-t-il. Et deux hommes qui s’étaient avancés, l’épée levée, tombèrent à l’instant assommés à ses pieds.
+
+['Il', 'il', 'Antoine', 'Louis', 'Jean']	José	[MASK] avait enfourché l’un des coins de la dalle, et, les bras croisés, l’air plus narquois que jamais, il charmait ses loisirs en sifflotant une farandole qu’il composait sans doute au fur et à mesure.
+
+['chacun', 'chacune', 'tous', 'certains', 'Pierre']	Pierre	Le corps échevinal tout entier assistait à la cérémonie et toutes les corporations y étaient représentées par leurs syndics, [MASK] ayant hérité de l’ancienne popularité de son père, et chaque bourgeois se sentant solidaire de ce plébéien qui avait rompu, à la force du poignet, les barrières de la caste privilégiée.
+

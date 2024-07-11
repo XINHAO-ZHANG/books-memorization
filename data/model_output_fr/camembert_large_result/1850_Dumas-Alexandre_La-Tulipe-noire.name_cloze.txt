@@ -1,0 +1,200 @@
+['il', 'elle', 'chacun', 'on', 'lui']	Cornélius	Il comprit qu’il avait le bras cassé, et cet homme, si dur pour les autres, retomba évanoui sur le seuil de la porte, où il demeura inerte et froid, semblable à un mort. Pendant ce temps, la porte de la prison était demeurée ouverte, et [MASK] se trouvait presque libre.
+
+['Dieu', 'Napoléon', 'Jésus', 'Voltaire', 'Monsieur']	Craeke	?– Il y a, monsieur, dit [MASK], déposant le papier sur la grande table où était resté gisant le troisième oignon ; il y a que vous êtes invité à lire ce papier sans perdre un seul instant.
+
+['elle', 'on', 'Marie', 'Elle', 'Louise']	Cornélius	Et se levant tout oppressée, elle rentra dans sa chambre, où elle prit une plume et du papier, et pendant toute la nuit s’exerça à tracer des lettres.Le lendemain, en se levant pour se traîner jusqu’à la fenêtre, [MASK] aperçut un papier qu’on avait glissé sous la porte.
+
+['Il', 'Elle', 'Et', 'il', 'Pierre']	Gryphus	monsieur, qu’ai-je donc lu là-bas ?– Où, là-bas ?– Sur cette pancarte.Et tremblant, pâle et haletant, il lui montrait, au fond de la place, le gibet surmonté de la cynique inscription. [MASK] se mit
+
+['Vénus', 'Diane', 'Charlotte', 'Juliette', 'Marie']	Rosa	Le feu de cette lampe éclairait les riches couleurs de [MASK], son œil bleu et profond, ses tresses blondes sous le casque d’or bruni qui, ainsi que nous l’avons dit, sert de coiffure aux Frisonnes ;
+
+['Marie', 'Marguerite', 'Jeanne', 'Madeleine', 'Mathilde']	Rosa	Il n’avait point osé demander encore à [MASK] ce qu’elle avait fait du précieux trésor qu’il lui avait confié.– Ah ! vous les avez donc conservés ?– Ne me les aviez-vous pas donnés comme une chose qui vous était chère ?
+
+['Jésus', 'Pierre', 'Marie', 'Dieu', 'Jean']	Jean	– Merci de ta bonne volonté, mon ami, dit [MASK], au portier ; l’intention est réputée pour le fait ; tu avais l’intention de nous sauver, et, aux yeux du Seigneur, c’est comme si tu avais réussi.–
+
+['Monseigneur', 'Madame', 'Monsieur', 'madame', 'Mademoiselle']	monseigneur	– Au Cygne blanc ; je vais le mander, et si, en attendant, Votre Altesse veut me faire l’honneur d’entrer au salon, il s’empressera, sachant que [MASK] est ici, d’apporter sa tulipe à monseigneur.– C’est bien, mandez-le.–
+
+['Elle', 'Il', 'Marie', 'elle', 'il']	Rosa	[MASK] devint pâle comme la mort.– Oh ! murmura-t-elle, je comprends : il est inquiet de sa tulipe.Et se levant tout oppressée, elle rentra dans sa chambre, où elle prit une plume et du papier, et pendant toute la nuit s’exerça à tracer des lettres.
+
+['Socrate', 'Jésus', 'Napoléon', 'David', 'Sophie']	Cornélius	Montrez-moi à lire et à écrire ; je profiterai de vos leçons, croyez-moi, et de cette façon nous ne serons plus jamais séparés que par notre volonté à nous-mêmes.– Oh ! alors, s’écria [MASK], nous avons l’éternité devant nous.
+
+['Elle', 'Il', 'Marie', 'Jeanne', 'Anna']	Rosa	Le brave garçon ignorait l’importance de son message, et cependant allait aussi bon train que s’il l’eût connue. En moins d’une heure il avait déjà fait une lieue et demie.[MASK] lui reprit le billet devenu inutile et lui exposa le besoin qu’elle avait de lui.
+
+['Dieu', 'Jésus', 'lui', 'Marie', 'dieu']	Rosa	; et il se demandait comment il avait pu dire à sa consolatrice de le sacrifier à sa tulipe, c’est-à-dire de renoncer à le voir si besoin était, quand chez lui la vue de [MASK] était devenue une nécessité de sa vie.
+
+['Napoléon', 'Voltaire', 'Alexandre', 'Chacun', '</s>NOTUSED']	Rosa	Ce bruit, c’était celui des cadavres que l’on traînait et que l’on revenait pendre à la place accoutumée des exécutions.[MASK], cette fois encore, se cacha, mais c’était pour ne pas voir l’horrible spectacle.
+
+['grâce', 'Dieu', 'Providence', 'miséricorde', 'chance']	Rosa	– Oh ! c’est toi qui m’as assassiné, vieux bourreau. Je n’y survivrai pas !Et en effet le pauvre prisonnier fût tombé malade sans ce contrepoids que la Providence avait mis à sa vie et que l’on appelait [MASK].
+
+['Jupiter', 'Alexandre', 'Jason', 'Socrate', 'Hermès']	Boxtel	[MASK], remis sur ses pieds, s’arracha le plus de cheveux qu’il put, et les jeta en holocauste à cette divinité farouche et insensible qu’on appelle l’Envie.Ce fut une offrande sans doute agréable à cette déesse qui n’a, dit la mythologie, que des serpents en guise de coiffure.
+
+['Monsieur', 'Pierre', 'Charles', 'Louis', 'Jean']	Gryphus	– Voilà déjà une contravention, répliqua [MASK], des pigeons ! Ah ! jeune homme, jeune homme, je vous préviens d’une chose, c’est que, pas plus tard que demain, ces oiseaux bouilliront dans ma marmite.–
+
+['il', 'on', 'Dieu', 'elle', 'Napoléon']	Cornélius	?Comme [MASK] eût envoyé loin de lui un homme qui fût venu lui proposer la liberté en échange de sa tulipe !Le jour vint sans nouvelles. La tulipe n’était pas fleurie encore.La journée passa comme la nuit.
+
+['le', 'la', 'les', 'un', 'ce']	Cornélius	; ses cris avaient été entendus et avaient mis en émoi tous les employés de la maison. Deux porte-clefs, un inspecteur et trois ou quatre gardes parurent donc tout à coup et surprirent [MASK] opérant le bâton à la main, le couteau sous le pied.
+
+['Jésus', 'Marie', 'Julie', 'Jeanne', 'Catherine']	Rosa	! mon Dieu ! vous me récompensez de mon innocence et de ma captivité, puisque vous avez fait pousser ces deux fleurs au guichet de ma prison.– Embrassez-la, dit [MASK], comme je l’ai embrassée tout à l’heure.
+
+['Il', 'Elle', 'il', 'Pierre', 'Joseph']	Corneille	Ainsi donc, mon frère, fuyons vite, s’il en est encore temps.[MASK] se souleva sur son lit et, prenant la main de son frère, qui tressaillit au contact des linges :– Est-ce que je ne connais pas mon filleul ? dit-il
+
+['il', 'on', 'elle', 'Il', 'Jean']	Cornélius	Au bas de l’escalier, le chien le regarda passer tranquillement ; [MASK] crut même remarquer dans les yeux du molosse une certaine expression de douceur qui touchait à la compassion.Peut-être le chien connaissait-il les condamnés et ne mordait-il que ceux qui sortaient libres.
+
+['garde', 'ligne', 'pied', 'cavalerie', 'tête']	Tilly	Puis se retournant vers ses soldats :– Haut les armes, soldats ! cria-t-il.Les soldats de [MASK] obéirent au commandement avec une précision calme qui fit rétrograder immédiatement bourgeois et peuple, non sans une confusion qui fit sourire l’officier de cavalerie.–
+
+['Monsieur', 'Charles', 'Louis', 'Pierre', 'Madame']	Cornélius	Monsieur, demanda-t-il d’une voix tremblante, serait-ce donc aujourd’hui que l’on donne le prix ?– Le prix de la tulipe noire, oui.Les joues de [MASK] s’empourprèrent, un frisson courut par tout son corps, la sueur perla sur son front.
+
+['Rosa', 'venez', 'oui', 'allez', 'madame']	Rosa	Ah ! oui, [MASK], venez ! venez !– Mais à une condition.– Elle est acceptée d’avance !– C’est que de trois jours il ne sera pas question de la tulipe noire.– Il n’en sera plus question jamais si vous l’exigez, Rosa.–
+
+['Il', 'Elle', 'On', 'Lui', 'Madame']	Rosa	[MASK] fit un petit signe d’incrédulité.– Puis à ce que nous devions faire.– Eh bien ?– Eh bien ! voilà ce que j’ai décidé. La tulipe fleurie, quand il sera constaté qu’elle est noire et parfaitement noire, il vous faut trouver un messager.–
+
+['il', 'chacun', 'on', 'Robespierre', 'Napoléon']	Cornélius	Aussi l’échafaud ressemblait à une île que serait venu battre le flot de quatre ou cinq rivières.Au milieu de ces menaces, de ces hurlements et de ces vociférations, pour ne pas les entendre, sans doute, [MASK] s’était absorbé en lui-même.
+
+['Voltaire', 'Robespierre', 'Napoléon', 'Rousseau', 'Louis']	Boxtel	Cependant, si heureux que fût le cœur de [MASK], il frissonna d’abord à cette idée de dénoncer un homme que cette dénonciation pouvait conduire à l’échafaud.Mais le terrible des mauvaises idées, c’est que peu à peu les mauvais esprits se familiarisent avec elles.
+
+['Mais', 'Lui', 'Il', 'Chacun', 'Car']	Boxtel	Aussi le bourreau acquiesça-t-il à la proposition. Il n’y avait mis qu’une condition, c’est qu’il serait payé d’avance.[MASK], comme les gens qui entrent dans les baraques de foire, pouvait n’être pas content et par conséquent ne pas vouloir payer en sortant.
+
+['celui', 'Joseph', 'Pierre', 'Monsieur', 'Jean']	Cornélius	De sorte qu’elle ne vit pas s’approcher les lèvres de [MASK] qui ne rencontrèrent hélas ! que le grillage, mais qui, malgré cet obstacle, envoyèrent jusqu’aux lèvres de la jeune fille le souffle ardent du plus tendre des baisers.
+
+['Madame', 'Marie', 'madame', 'maman', 'Mme']	Rosa	Mais j’y pense, la culture de ma tulipe va vous prendre tout votre temps.– Oui, c’est vrai, dit [MASK], mais qu’importe ; votre tulipe, c’est ma fille. Je lui donne le temps que je donnerais à mon enfant, si j’étais mère.
+
+['Il', 'Elle', 'Et', 'On', 'il']	Boxtel	Tout à coup, il aperçoit des sillons et des monticules sur ce terrain plus uni la veille qu’un miroir ; tout à coup, il aperçoit les rangs symétriques de ses tulipes désordonnées comme sont les piques d’un bataillon au milieu duquel aurait tombé une bombe.Il accourt tout pâlissant.[MASK] tressaillit de joie.
+
+[':', '–', '«', '—', '</s>NOTUSED']	Rosa.–	Il se retourna et vit [MASK] Tu entends les enragés ? dit-il.– Je les entends si bien, mon père, qu’à votre place…– Tu ouvrirais, n’est-ce pas ?– Non, je laisserais enfoncer la porte.– Mais ils vont me tuer.–
+
+['madame', 'Dieu', 'elle', 'il', 'Jésus']	Rosa	monsieur est un des membres de la société horticole.– Monsieur, dit [MASK], que vous dirai-je que je ne vous ai point dit déjà ?– Eh bien alors ?– Alors, j’en reviendrai à la prière que je vous ai adressée.– Laquelle ?
+
+['Il', 'Diego', 'Antonio', 'André', 'Oscar']	Cornélius	Puis à dix heures, comme d’habitude, ils se quittèrent.[MASK] était heureux, aussi complètement heureux que peut l’être un tulipier à qui on n’a point parlé de sa tulipe.Il trouvait Rosa jolie comme tous les Amours de la terre ;
+
+['Joseph', 'Il', 'Charles', 'Jean', 'Henri']	Cornélius	[MASK], effrayé de la voir si pâle et si mourante, allait la prendre dans ses bras, lorsqu’un pas pesant, suivi d’autres bruits sinistres, retentit dans les escaliers accompagnés des aboiements du chien.– On vient vous chercher !
+
+['Il', 'Louis', 'il', 'Antoine', 'Alexandre']	Cornélius	[MASK] regretta de n’avoir plus à côté de lui ce garde si complaisant qui parlait, lui, sans se faire prier.Il lui eût sans doute offert sur cette étrangeté, qui survenait dans sa troisième aventure, des détails aussi gracieux et des explications aussi précises que sur les deux premières.
+
+['En', '</s>NOTUSED', 'Puis', 'Et', 'en']	Bientôt	Le prince essuya une goutte de sueur froide qui venait de couler de son front sur sa joue. Il plia lentement le papier, laissant son regard plonger avec sa pensée dans cet abîme sans fond et sans ressource qu’on appelle le repentir et la honte du passé.[MASK] relevant la tête avec effort
+
+['Marie', 'Pierre', 'Joseph', 'Jeanne', 'Sophie']	Rosa	On en était arrivé juste à cette époque du mois d’avril que les jardiniers les plus experts indiquent comme le point précis de la plantation des tulipes. Il avait dit à [MASK] :– Je vous indiquerai le jour où vous devez mettre le caïeu en terre.
+
+['Paul', 'Joseph', 'Jean', 'Georges', 'Albert']	Boxtel	Ce qu’ils sont devenus ? … l’un a avorté, l’autre a donné la tulipe noire…– Et le troisième ?– Le troisième ?– Le troisième, où est-il ?– Le troisième est chez moi, dit [MASK] tout troublé.– Chez vous ?
+
+['famille', 'Dieu', 'son', 'Vénus', 'Joseph']	Cornélius	Excepté de me marier, ajouta-t-elle tout bas, car cela, oh ! cela, je le jure, c’est pour moi une chose impossible.Et elle enfonça dans son sein palpitant le cher trésor de [MASK].
+
+['il', 'Il', 'Charles', 'Paul', 'Frédéric']	Boxtel	N’était-il pas possible qu’ayant à peindre l’intérieur d’un tulipier, il eût amassé dans son nouvel atelier tous les accessoires de la décoration ?Cependant, quoique bercé par cette décevante idée, [MASK] ne put résister à l’ardente curiosité qui le dévorait.
+
+['Satan', 'Joseph', 'lui', 'Dieu', 'Jacob']	Gryphus	C’est dans ce moment même que [MASK] entra.Il tenait à la main un énorme bâton, ses yeux étincelaient de mauvaises pensées ; un mauvais sourire crispait ses lèvres ; un mauvais balancement agitait son corps, et dans sa taciturne personne tout respirait les mauvaises dispositions.
+
+['Charles', 'Napoléon', 'Louis', 'Henry', 'Paul']	Cornélius	demanda-t-il à l’officier chargé de l’escorter.– Comme vous pouvez le voir, monsieur, répliqua celui-ci, c’est une fête.– Ah ! une fête ! dit [MASK] de ce ton lugubrement indifférent d’un homme à qui nulle joie de ce monde n’appartient plus depuis longtemps.
+
+['Luther', 'Jérôme', 'Thomas', 'Valentin', 'Léonard']	Cornélius	Un fanatique comme l’était [MASK] pouvait bien avoir un autre fanatique qui donnât cent florins de ses reliques.Aussi le bourreau acquiesça-t-il à la proposition. Il n’y avait mis qu’une condition, c’est qu’il serait payé d’avance.
+
+['Napoléon', 'Charles', 'Ferdinand', 'Joseph', 'Louis']	Jean	Arrête et sauve-toi, dit [MASK] au cocher ; il est inutile d’aller plus loin ; nous sommes perdus.– Les voilà ! les voilà ! crièrent ensemble cinq cents voix.– Oui, les voilà, les traîtres ! les meurtriers ! les assassins !
+
+['non', 'oui', 'monsieur', 'Monsieur', 'madame']	Rosa	Ah ! [MASK], le testament est fait dans la prévision de ma mort, et, grâce au ciel, je suis vivant.– Eh bien ! donc, je ne chercherai pas ce beau jeune homme de vingt-six à vingt-huit ans, et je viendrai vous voir.–
+
+['Un', 'Lui', 'Pierre', 'Il', 'Jean']	Gryphus	[MASK] seulement alors sentit la douleur et jeta un cri. Il comprit qu’il avait le bras cassé, et cet homme, si dur pour les autres, retomba évanoui sur le seuil de la porte, où il demeura inerte et froid, semblable à un mort.
+
+['Elle', 'Madame', 'Marie', 'Jeanne', 'Madeleine']	Rosa	Celui-ci allait prendre le pas sur son interlocuteur, quand s’arrêtant soudain :– Passez devant, dit-il, et appelez-moi monsieur.Ils entrèrent dans le cabinet.[MASK] était toujours à la même place, appuyée à la fenêtre et regardant par les vitres dans le jardin.–
+
+['hasard', 'terre', 'Pierre', 'Dieu', 'Joseph']	Craeke	Il chercha des yeux un papier où les envelopper, aperçut la feuille de la Bible déposée par [MASK] sur le séchoir, la prit sans se rappeler, tant son trouble était grand, d’où venait cette feuille, y enveloppa ses trois caïeux, les cacha dans sa poitrine et attendit.
+
+['distance', 'jamais', 'terre', 'tout', 'part']	Dordrecht	car, quoique enseveli à [MASK], quoique distrait, que c’est miracle ! il saura, un jour ou l’autre, ce qui nous arrive), s’il est fort, il se vantera de nous ; s’il est faible, il aura peur de notre intimité
+
+['Il', 'On', 'Louis', 'Charles', 'Joseph']	Cornélius	À cinq heures du soir, on avait fait au moins vingt lieues.[MASK] adressa quelques questions à l’officier qui lui servait à la fois de garde et de compagnon ; mais, si circonspectes que fussent ses demandes, il eut le chagrin de les voir rester sans réponse.
+
+['</s>NOTUSED', 'le', 'il', 'la', '«']	Jacob	– Sans doute, fit mon père.« – C’est infâme ! continua-t-il, c’est odieux ! c’est un crime que vous avez commis là ! hurla [MASK].« Mon père resta stupéfait.« – Est-ce que vous aussi vous êtes fou
+
+['moi', 'toi', 'lui', 'vous', 'elle']	Cornélius	murmura-t-elle, j’ai fait une faute énorme, j’ai perdu peut-être et [MASK], et la tulipe et moi ! … J’ai donné l’éveil, j’ai donné des soupçons. Je ne suis qu’une femme, ces hommes peuvent se liguer contre moi, et alors je suis perdue…
+
+['rien', 'moi', 'toi', 'tout', 'ça']	Cornélius	… J’ai donné l’éveil, j’ai donné des soupçons. Je ne suis qu’une femme, ces hommes peuvent se liguer contre moi, et alors je suis perdue… Oh ! moi perdue, ce ne serait rien, mais [MASK], mais la tulipe !
+
+['surtout', 'messieurs', 'vous', 'pitié', 'monsieur']	Rosa	; d’autres yeux la verront défleurir. Oh ! surtout, [MASK], avant que ne la voie le président, ne la laissez voir à personne. La tulipe noire, bon Dieu ! si quelqu’un voyait la tulipe noire, on la volerait ! …– Oh
+
+['</s>NOTUSED', 'Marie', 'Pierre', 'Jean', 'Alexandre']	Cornélius	« – Comment cela ?« – C’est de le fouiller ; et s’il a les autres caïeux, nous les trouverons, car ordinairement, il y en a trois.– Il y en a trois ! s’écria [MASK]. Il a dit que j’avais trois caïeux
+
+['Marie', 'Jeanne', 'César', 'Robespierre', 'Catherine']	Rosa	Alors elle rentra fermer la porte derrière elle et jeta la clef dans un puits.Ce bruit qui avait fait pressentir à [MASK] que le peuple enfonçait la porte, était en effet celui du peuple, qui, après avoir fait évacuer la place de la prison, se ruait contre cette porte.
+
+['Napoléon', 'Madame', 'Alexandre', 'madame', 'Louis']	Rosa	!– Soyez tranquille, dit [MASK] en riant, il n’a pas encore l’âge, puisque vous-même vous avez fixé l’âge de vingt-six à vingt-huit ans.– Enfin, vous croyez pouvoir compter sur ce jeune homme ?
+
+['lui', 'cela', 'Socrate', 'voici', 'voilà']	Cornélius	C’eût été un pythagoricien très distingué que [MASK], et pourvu qu’on lui eût permis de demander une fois par jour des nouvelles de sa tulipe, il fût bien resté cinq ans, selon les statuts de l’ordre, sans parler d’autre chose.
+
+['droite', 'gauche', 'prendre', 'descendre', 'monter']	Rosa	N’eût-on pas dit qu’il m’assassinait, ce savant ! Ah ! que de mal on a toujours avec les savants !Puis, indiquant du doigt l’escalier à [MASK] :– Marchez devant, mademoiselle ! dit-il.Et, fermant la porte :
+
+['Rosa', 'Clara', 'Maria', 'Oscar', 'Diego']	Gryphus	lui qu’il avait vu sortir entre le greffier et le bourreau.Mais la belle Rosa l’appela, et le molosse vint à elle.– Monsieur, dit [MASK] en levant sa lanterne pour tâcher de projeter un peu de lumière autour de lui, vous voyez en moi votre nouveau geôlier.
+
+['Merlin', 'Monsieur', 'Madame', 'Joseph', 'Robinson']	Noé	Les rats sont des rongeurs fort à craindre, et j’ai vu de malheureux tulipiers reprocher bien amèrement à [MASK] d’avoir mis une paire de rats dans l’arche.– Je regarderai, et s’il y a des chats ou des rats…– Eh bien ! il faudra aviser.
+
+['–', '</s>NOTUSED', '—', '[...]', 'le']	Cornélius.–	En ce moment les deux pigeons, effarouchés par la vue et surtout par la voix de cet inconnu, sortirent de leur nid, et disparurent tout effarés dans le brouillard.– Oh ! oh ! qu’est-ce que cela ? demanda le geôlier.– Mes pigeons, répondit [MASK] Mes pigeons ! s’écria le geôlier, mes pigeons
+
+['On', 'Personne', 'Il', 'Nul', 'Rien']	Gryphus	Quant aux ficelles à l’aide desquelles le mouvement s’opérait, notre mécanicien avait trouvé un moyen de les cacher avec les mousses qui végètent sur les tuiles et dans le creux des pierres.[MASK] n’y devinait rien.Ce manège réussit durant huit jours.
+
+['présent', 'Paris', 'Rome', 'Londres', 'Versailles']	Loevestein	Eh bien, à [MASK], n’y a-t-il point de commis, point d’officiers, point d’étudiants ?– Oh ! si fait qu’il y en a, et beaucoup même, dit Rosa.– Qui écrivent ?– Qui écrivent.– Et maintenant que vous savez lire…
+
+['Jésus', 'Maria', 'Marie', 'Dieu', 'Pierre']	Cornélius	; au contraire, il accorda.– De sorte que vous voilà ?– Comme vous voyez.– De sorte que je vous verrai tous les jours ?– Le plus souvent que je pourrai.– Ô Rosa ! ma belle madone Rosa ! dit [MASK], vous m’aimez donc un peu ?
+
+['Guillaume', 'Napoléon', 'Alexandre', 'Voltaire', 'Louis']	Tilly	Cédez-nous donc la place alors, et vous ferez acte de bon citoyen.– D’abord, je ne suis pas citoyen, dit [MASK], je suis officier, ce qui est bien différent ; et puis je ne suis pas Hollandais, je suis Français, ce qui est plus différent encore.
+
+['On', 'Il', 'Elle', 'Chacun', 'Pierre']	Cornélius	À l’extrémité de la place, une masse noirâtre, teintée de bleu sombre par les brumes matinales, s’élevait, découpant sur les maisons pâles sa silhouette irrégulière.[MASK] reconnut le gibet.À ce gibet pendaient deux informes lambeaux qui n’étaient plus que des squelettes encore saignants.
+
+['madame', 'Madame', 'Marie', 'Catherine', 'Jeanne']	Rosa	Celui-ci continua :– Je donne à [MASK] cent mille florins, qu’elle aura bien gagnés et qu’elle pourra vous offrir ; ils sont le prix de son amour, de son courage et de son honnêteté.
+
+['lui', 'ailleurs', 'Molière', 'terre', 'Jupiter']	Cornélius	Ce brutal, ce sacripant, cet ivrogne, ne se vengeait-il pas à la façon des pères du théâtre grec ? Quand le genièvre lui montait au cerveau, ne donnait-il pas à son bras, trop bien raccommodé par [MASK], la vigueur de deux bras et d’un bâton
+
+['elle', 'on', 'il', 'Marie', 'Louise']	Cornélius	En conséquence, la jeune fille dut s’appuyer au guichet, la tête penchée, le livre à la hauteur de la lumière qu’elle tenait de la main droite, et que, pour la reposer un peu, [MASK] imagina de fixer par un mouchoir au treillis de fer.
+
+['la', 'Madame', 'madame', 'Marie', 'Catherine']	Rosa	Ah ! ah ! une Frisonne, dit le prince en apercevant le casque d’or et les jupes rouges de [MASK].Celle-ci se retourna au bruit, mais à peine vit-elle le prince, qui s’asseyait à l’angle le plus obscur de l’appartement.
+
+['Pierre', 'Charles', 'Jean', 'Paul', 'Henri']	Cornélius	Oui, prise, volée !Et, malgré elle, les jambes lui manquant, elle glissa et tomba sur ses genoux.– Mais comment cela ? demanda [MASK]. Dites-moi, expliquez-moi…– Oh ! il n’y a pas de ma faute, mon ami.
+
+['bien', 'oui', 'mais', 'non', 'Mais']	Rosa	Si vous la trouviez ouverte en rentrant ?– Eh bien ?– Ah ! [MASK], du moment où elle sera ouverte, rappelez-vous qu’il n’y aura pas un moment à perdre pour prévenir le président.– Et vous prévenir, vous. Oui, je comprends.
+
+['Monsieur', 'Madame', 'madame', 'monsieur', 'Louis']	Cornélius	Eh bien ? demanda [MASK], présageant un malheur à cette double infraction de toutes les règles.– Ah ! monsieur, fuyez, fuyez vite ! cria le domestique.– Fuir, et pourquoi ?– Monsieur, la maison est pleine de gardes des États.– Que demandent-ils ?
+
+['demi', 'moitié', 'temps', 'peine', 'tous']	Boxtel	Ce que tout autre tulipier et qu’un tulipier envieux n’eût jamais pu découvrir, c’est-à-dire l’existence des caïeux et les ambitions du prisonnier, l’envie l’avait fait, sinon découvrir, du moins deviner à [MASK].
+
+['Madame', 'madame', 'Julie', 'Jeanne', 'Monsieur']	Gryphus	On connaît les ruses de messieurs les prisonniers.– Mais je vous jure…– Lâchez, répétait [MASK] en frappant du pied ; lâchez, ou j’appelle la garde.– Appelez qui vous voudrez, mais vous n’aurez cette pauvre fleur qu’avec ma vie.
+
+['Jeanne', 'Marie', 'Catherine', 'Marguerite', 'Louise']	Rosa	! s’écria [MASK] indignée.– Je le nie.– Écoutez, niez-vous m’avoir suivie dans le jardin, le jour où je préparai la plate-bande où je devais l’enfouir ? Niez-vous m’avoir suivie dans le jardin où j’ai fait semblant de la planter ?
+
+['Dieu', 'Joseph', 'Monsieur', 'Pierre', 'Frédéric']	Jacob	Voilà ce qu’il serait bon de savoir, ce me semble.« Je détournai les yeux pour éviter le regard de mon père. Mais je rencontrai les yeux de [MASK].« On eût dit qu’il voulait poursuivre ma pensée jusqu’au fond de mon cœur.
+
+['Jésus', 'Pierre', 'Paul', 'Jean', 'Dieu']	Cornélius	ah ! le bâton, le règlement n’en parle pas.– La deuxième, continua [MASK], la deuxième, qui n’est pas inscrite au règlement mais que l’on trouve dans l’Évangile, la deuxième, la voici :« Quiconque frappe de l’épée périra par l’épée.
+
+['Ah', 'Oh', 'Maintenant', 'Allons', 'Mais']	Rosa	[MASK], mon amour, rompez le caïeu de la tulipe noire, détruisez l’espoir de cette fleur, éteignez la douce lumière de ce rêve chaste et charmant que je m’étais habitué à faire chaque jour ; soit !
+
+['maman', 'moi', 'Maman', 'mère', 'Alice']	Cornélius	Puis, se tournant vers moi :« – Mais ce n’était pas le seul qu’il eût ? demanda-t-il.– Il a demandé cela ? fit [MASK], dressant l’oreille.– « Vous croyez que ce n’était pas le seul ? dit mon père.
+
+['Elle', 'Thérèse', 'Marie', 'Colette', 'Jeanne']	Rosa	[MASK] était une de ces femmes qui s’abattent d’un rien, mais qui, pleines de force contre un malheur suprême, trouvent dans le malheur même l’énergie qui peut le combattre, ou la ressource qui peut le réparer.
+
+['elle', 'madame', 'Madame', 'Marie', 'maman']	Cornélius	« Cher monsieur ou chère demoiselle, mon enfant est ici, voyez comme je suis désespérée, laissez-moi le voir une heure seulement et je prierai Dieu toute ma vie pour vous. » Oh ! non, continua [MASK], oh !
+
+['il', 'on', 'elle', 'se', 'Pierrot']	Boxtel	Ajoutons à ce que nous venons de dire que le séchoir était ce même cabinet vitré sur lequel [MASK] braquait incessamment son télescope.L’envieux était plus que jamais à son poste.Il vit d’abord s’éclairer les murs et les vitrages.Puis deux ombres apparurent.
+
+['Il', 'Lui', 'Elle', 'il', 'lui']	Cornélius	[MASK] fit un signe de remerciement.Puis à lui-même :– Eh bien, dit-il, à la bonne heure ! voici un garçon qui ne manque jamais de placer une consolation quand l’occasion s’en présente. Ma foi, mon ami, je vous suis bien obligé.
+
+['Henri', 'Pierrot', 'Georges', 'Jean', 'Louis']	Boxtel	»– Ces caïeux ! ces caïeux ! hurla [MASK] en ravageant tout dans le séchoir, où les a-t-il pu cacher ?Puis tout à coup se frappant le front à s’aplatir le cerveau.– Oh ! misérable que je suis ! s’écria-t-il ;
+
+['</s>NOTUSED', 'le', 'Monsieur', 'Madame', 'madame']	Cornélius	, à quelle heure l’exécution ?– Monsieur, pour midi.– Diable ! fit [MASK], j’ai entendu, ce me semble, sonner dix heures il y a au moins vingt minutes. Je n’ai pas de temps à perdre.–
+
+['se', 'lui', 'chacun', 'Dieu', 'Napoléon']	Rosa	Cependant, à ses tressaillements subits, à son oreille tendue du côté de la porte, à son regard rapide interrogeant le guichet, on voyait que le prisonnier avait la sourde espérance que [MASK] ferait une infraction à ses habitudes.
+
+['Voltaire', 'Louis', 'Napoléon', 'Monsieur', 'Dreyfus']	Cornélius	Je proteste enfin que j’ignore et comment on a pu savoir que ce paquet était chez moi, et surtout comment je puis être coupable pour avoir accueilli ce que m’apportait mon illustre et malheureux parrain.Ce fut là tout le plaidoyer de [MASK].
+
+['Il', 'II', 'il', 'Louis', 'Elle']	Cornélius	[MASK] prit le troisième caïeu, s’approcha de la fenêtre, l’ouvrit, mais à l’aspect du dégât qu’il allait causer dans ses plates-bandes bien plus encore qu’à la vue de la distance qu’il lui fallait franchir :– Jamais, dit-il.
+
+['fer', 'Napoléon', 'garde', 'pierre', 'Bourbon']	Tilly	je crois que nous allons voir un spectacle étrange.L’officier s’inclina et suivit son maître sans répondre.La foule était immense sur la place et aux abords de la prison. Mais les cavaliers de [MASK] la contenaient toujours avec le même bonheur et surtout avec la même fermeté.
+
+['Madame', 'elle', 'moi', 'madame', 'maintenant']	Rosa	Dieu ne peut rien avoir contre moi. Je ne vous demanderai donc pas un ministre. La dernière pensée qui m’occupe, [MASK], se rapporte à la glorification de Dieu. Aidez-moi, ma chère, je vous en prie, dans l’accomplissement de cette dernière pensée.–
+
+['Il', 'Elle', 'Pierre', 'il', 'Alexandre']	Rosa	[MASK] lui laissa sa main tant qu’il lui plut de la garder, et il parla tulipe tout à son aise. À partir de ce moment, chaque jour amena un progrès dans la tulipe et dans l’amour des deux jeunes gens.
+
+['on', 'il', 'Dieu', 'qui', 'elle']	Cornélius	Est-ce que ce cœur de diamant aurait pu avoir un secret qu’il m’eût caché ? Non, non, monseigneur, je le répète, dussé-je encourir votre colère, [MASK] n’est pas plus coupable du premier crime que du second, et du second que du premier.
+
+['Il', 'Napoléon', 'Robespierre', 'Voltaire', 'Bonaparte']	Cornélius	Il y avait presque compensation.[MASK], arrivé sur l’esplanade, chercha bravement des yeux les gardes ses exécuteurs, et vit en effet une douzaine de soldats rassemblés et causant ; mais rassemblés et causant sans mousquets, rassemblés et causant sans être alignés ;
+
+['Monsieur', 'seulement', 'monsieur', 'madame', 'Madame']	Rosa	Je ne songe qu’à elle.– Qu’à elle, [MASK] ? Prenez garde, c’est moi qui vais être jaloux à mon tour.– Eh ! vous savez bien que penser à elle c’est penser à vous. Je ne la perds pas de vue.
+
+['Jeanne', 'Juliette', 'Marie', 'Marguerite', 'Julien']	Gryphus	– Eh ! devine-le, coquin, si tu ne le sais pas.– Attends, attends, gronda [MASK] pâle et les lèvres agitées par la folie qui commençait à envahir son cerveau. Ah ! tu ne veux rien dire ? Eh bien ! je vais te desserrer les dents.
+
+['Il', 'il', 'Jésus', 'On', 'David']	Gryphus	plus héroïques, choisissant l’endroit où tombait chaque fois le terrible gourdin.[MASK] ne tarda point à demander grâce.Mais avant de demander grâce, il avait crié, et beaucoup ; ses cris avaient été entendus et avaient mis en émoi tous les employés de la maison.
+
+[':', '–', '—', '!', '<unk>']	Rosa.–	demanda [MASK] Cela veut dire, mademoiselle, que vous avez d’abord aimé à entendre le récit de mes joies et de mes chagrins ; vous avez caressé la fleur de notre mutuelle jeunesse ; mais la mienne s’est fanée à l’ombre.
+

@@ -1,0 +1,200 @@
+[',', '"', '...', ';', 'des']	Jacob	? — A Saint-Omer. J’ai écrit pour qu’on me l’adresse là... parce que je suis sûr de m’y rendre vers la mi-carême : je m’y suis engagé envers « l’oncle » [MASK], que je ménage tant que je peux.
+
+['deux', ',', 'à', 'de', 'se']	Mathurin	Est-ce que je ne t’ai pas fait bonne mesure, dans le temps, bourgeois ? Est-ce que tu viens pour réclamer ton surplus ? J’ai quitté les affaires, tu le sais ; j’ai passé la queue de la rôtissoire à [MASK]...
+
+['effectivement', 'en', 'oui', 'alors', 'à']	Jean	; on dirait, [MASK], que vous vous faites un malin plaisir... — Comment ! Mais c’est un vrai moyen que je vous propose ; croyez-moi, mon cher ami. — Au fait, nous pourrions essayer.
+
+['les', 'la', 'le', 'elles', ',']	Jean	Réfugiées au centre du léger navire, sous le panache de fumée que tordait la tempête, lady Tavistock et ses deux filles, pâles, nerveuses, se tenaient avec peine debout. Le baronnet, son fils et [MASK] secondaient à la manœuvre le petit équipage.
+
+['de', ',', 'à', "d'", 'le']	Jean	La baronne ne cessait d’exhaler sa douleur ; elle donnait cent formes à sa plainte toujours renouvelée ; s’étendait sur les grâces que devait avoir la petite en grandissant ; priait [MASK] de bien lui dire, de lui répéter l’impression qu’elle lui avait faite ;
+
+['chacun', 'roi', 'tous', 'Jean', 'Pierre']	Jean	— Chansons, bien aise, traduisaient les obligeants garçons. C’était fort gracieux de leur part... Et la vente marchait. Cela faisait prendre patience à [MASK], l’empêchait de se languir dans cette ville si nouvelle pour lui.
+
+['lui', 'roi', 'lui-même', 'tous', 'comte']	Jean	je le conduirai assez loin pour qu’il ne puisse plus manquer son chemin. — Un instant ! fit le buronnier. Et s’adressant à [MASK] : Je dois un louis, dit-il, à mon successeur Mathurin.
+
+['ce', ',', 'te', 'il', 'se']	Victorine	! disait une voix de femme, parce que tu as le dos plat et que j’y ai une bosse, tu prends des airs capables avec moi ! Non, mon canard, ce mariage ne se fera pas ! [MASK] n’est pas pour cet Alsacien ;
+
+['Il', 'il', 'et', ',', ';']	Jean	— Rien ne me tient de lui donner une leçon, à ce particulier, dont il se souviendra [MASK] réfléchissait depuis un moment. Un vaste projet trottait dans sa petite tête. — N’en faites rien, dit-il enfin avec vivacité ; cet homme est fou.
+
+['personne', 'on', 'il', 'nul', 'elle']	Risler	et il frappait dans ses mains, en criant : « Suivez, suivez, suivez le monde ! on va commencer ! » Il y avait pourtant plus d’un bon quart d’heure que la représentation était en train ; mais [MASK] n’avait jamais dit une vérité.
+
+['maintenant', 'enfin', 'donc', 'alors', 'Maintenant']	Maurice	Vous avez gagné l’estime et l’amitié de bien des gens. Que cela vous suffise pour le moment. Et maintenant, [MASK], je vous abandonne votre ami, je veux dire, je vous le confie. Tâchez de lui faire oublier un moment ses ennuis.
+
+['-', '</s>', 'ni', 'est', 'mais']	XV	Je l’ai été du moins ; mais je vais m’y remettre... je crois. Vous n’aimeriez pas mieux... saltimbanque ? — Ah ! certes non ! — Au fait ! ni moi non plus ! [MASK] Une ancienne connaissance.
+
+["l'", 'on', ',', 'libre', "d'"]	Jean	Une autre idée lui vint aussitôt, il faut l’avouer : il laissa tomber la fourche et disparut, sans dire comme il en avait l’habitude : J’ai l’honneur ! Mais [MASK] entendait son pas ; il n’hésita point ;
+
+['enfant', 'il', '...', 'et', 'garçon']	Jean	[MASK] fut pris d’un éblouissement. Ce cadavre... c’était celui de cet homme qu’il était venu chercher de si loin ! Le pauvre enfant se laissa tomber, découragé, sur un banc du canot. — Ah ! quel plus grand malheur pouvait m’arriver !
+
+["l'", 'le', 'la', "d'", '...']	Jean	— Et l’autre ?... l’autre homme, celui dont l’Allemand a pris les malles ?... Qu’est-ce qu’il va dire de ça, lui ? — Au fait, il faut que j’aille voir !... s’écria [MASK].
+
+['...', 'deux', 'tous', 'se', 'table']	Reculot	... pas du côté de l’argent, mais dans les vieux papiers. — Et ils ont emporté quelque chose ? — Je crois bien que oui, en disant que c’était pour rendre service à [MASK], — un petit carnet de deux sous...
+
+["l'", ',', 'dés', "s'", 'une']	Jean	— Je vais lui écrire à ta tante, finit par dire [MASK] impatienté. D’abord, j’ai besoin de toi... et je te garde. — Mais de l’argent, pour manger ? — Je changerai un nouveau billet de banque...
+
+['ne', 'nous', 'me', 'qui', 'il']	Jean	! Nous ne l’avons ni remercié ni récompensé... occupés de cette espèce de fou qui nous suivait... Et pourtant, chers, si je suis au milieu de vous, c’est au courage de ce gros garçon que je le dois. [MASK] rougissait.
+
+['le', "l'", 'il', 'un', 'en']	Modeste	— J’avais toujours pensé que votre belle musique vous rendrait riche. — Oui, fit [MASK] en soupirant, c’est un bel art ! mais un oncle m’est venu ant soit peu en aide, en mourant à propos et en faisant de moi son unique héritier...
+
+['lui', 'cela', 'son', 'ce', 'sa']	Emmeline	Le pauvre garçon soupira en pensant à [MASK] et, par respect pour ce souvenir adoré, il s’avança vers la loge avec un véritable recueillement, tandis que la foule accourait et se pressait pour admirer les baladines. La manola, très blonde, secouait une rose dans ses cheveux.
+
+['il', 'et', 'qui', 'Il', 'on']	Jean	Le « buronnier » s’était un peu avancé. D’une main, il se faisait un abat-jour pour mieux voir qui venait vers le buron. [MASK] ne se trouvait plus qu’à une trentaine de pas lorsque le montagnard se mit à crier : — Hé, là !
+
+['le', 'la', ',', 'ham', 'de']	Jean	Dans une maison où trois blessés avaient été apportés, [MASK] qui s’était rendu utile fut invité à prendre quelque repos. Il demanda une feuille de papier, et comme s’il n’avait plus qu’une heure à vivre ainsi que l’infortuné qui râlait à côté de lui, il traça rapidement les lignes suivantes
+
+['tout', '...', '-', 'le', "l'"]	Jean	Tu te trompes de porte, mon gars. — Tant pis et tant mieux ! fit [MASK]. — Quoi, tant mieux ? — Qu’il n’y ait point d’Allemand... — Et tant pis ? — Que je ne trouve pas... ce que je cherche
+
+[',', 'de', 'à', 'la', 'et']	Julia	Notre premier voyage à deux durerait bien longtemps... trop longtemps... ne craignez-vous pas ? — Cela fût-il vrai, il ne durerait jamais autant que mon inaltérable amitié pour vous, [MASK]. Jean comprit qu’il était de trop... puisqu’on parlait anglais ;
+
+['de', ',', "s'", 'il', "d'"]	Jean	[MASK] retrouva son oncle très préoccupé, très soucieux, vieilli même : il s’ennuyait de son neveu, ce cher oncle ! Il sentait si bien que son sort dépendait du caprice de ce garçon qu’il s’était plu à irriter !
+
+[',', 'il', 'elle', 'remarquer', 'dit-il']	Jean	reprit la petite fille, non sans quelque orgueil, et comme si cette circonstance rachetait l’absence du nom de famille. — Si ce n’est que cela, j’en puis dire autant ! fit [MASK] avec un peu d’humeur.
+
+['se', 'le', 'on', 'ce', 'dé']	Jean	C’est ainsi que [MASK] vit avant beaucoup d’autres, les curiosités « invisibles » : les difficultés vaincues pour la prise de possession du Champ-de-Mars, redevenu depuis la précédente Exposition une arène bouleversée, qu’il fallut excaver, canaliser de nouveau, couvrir de terre végétale et de gravier, d’arbustes et d’édifices
+
+['bar', 'BAR', 'dame', 'B', 'sire']	Maurice	puis il embrassa sa sœur en serrant les mains de sa mère, à ce point que la baronne s’écria : — Eh mon Dieu ! quelle expansion, mon fils ! qu’avons-nous donc à apprendre à sa mère ? — Elle va arriver ! murmura [MASK].
+
+[';', ',', ':', 'en', 'où']	Jean	; je suis deshonoré ! — A moins que... insinua [MASK] qui sentait poindre une idée. — A moins que ? — A moins que nous ne le rattrapions. — Mais voilà le difficile ? où est-il ? quelle route suivre ? le chemin de fer ?
+
+[',', 'il', 'elle', '...', 'ne']	Jean	La sœur aînée jetait de grands cris. A cet appel, son père, son frère et un guide arrivaient en toute hâte... Alors [MASK] s’effraya de ce qu’il avait osé faire : il se trouvait à un mètre d’un abîme insondable ;
+
+['bar', 'BAR', 'Bar', '-', 'BRE']	Maurice	; car jamais je n’en déchire la bande : mon père le reçoit à titre d’archéologue et de correspondant. Oui, le baronnet est en train de révolutionner l’Établissement thermal par ses excentricités, au point de prendre place dans la chronique locale. — [MASK] !
+
+["s'", 'on', 'tout', "n'", ',']	Méloir	mais il y a des chambres, pardi, des lits, et tout, pardi, il y a de tout et de tout. [MASK] intervenait. — Not’e maître, si c’était un effet de vot’e politesse d’y demander s’y on aura du quoi pour manger
+
+[',', 'de', 'à', 'la', '...']	Jean	demanda [MASK]. — Pas le moins du monde ; mais je ne peux point passer mes journées, auprès d’elle, à enfiler ses aiguilles ! J’aimerais encore mieux bourlinguer sur toutes les mers, comme dirait le père Vent-Debout. — Et que fais-tu alors
+
+['le', 'un', 'je', 'il', 'la']	Jean	Si c’est un Prussien, tu lui réclameras ma jambe. Je suis comme une roue à laquelle il manque la moitié de ses raies : il n’y a pas de solidité. — Oui, je vois... vous avez perdu une jambe... dit [MASK].
+
+['Celui-ci', 'Il', 'et', "L'", 'Le']	Barbillon	— Mais vous n’abandonnerez pas mon blessé, monsieur le docteur ! — Soyez tranquille, mon garçon, vous me verrez demain.... [MASK], à moitié guéri par les encouragements de l’homme de l’art, fut hissé dans le cabriolet et installé le plus commodément qu’il fut possible.
+
+['Votre', 'votre', 'tout', 'vous', 'le']	Maurice	Votre futur beau-père aurait le droit de se formaliser... — Qu’est-ce que le monde va devenir, s’écria une bonne femme, si l’on fait maintenant des bâtiments en papier ! — Alors essayons de gagner de vitesse sur lui, dit [MASK].
+
+['celui-ci', 'le', 'Pierre', 'il', 'Jean']	Jean	— Toi, lui dit [MASK], tu ne vois que ça : manger : tu n’en es pas plus gras ! Le baronnet consultait son Guide. Quand il eut trouvé ce qu’il cherchait dans le livre cartonné : — C’est assez de petites fromages, dit-il : Pârtons !
+
+['celui-ci', 'Jean', "j'", 'lui', 'Pierre']	Jean	Il le questionna sur son nom, sur ses années d’école, sur l’état qu’il comptait apprendre. Quand il sut que [MASK] était Parisien par la famille de sa mère et Alsacien-Lorrain par son père, le baron s’intéressa tout de suite à lui.
+
+['Maurice', 'donc', 'ne', '...', ',']	Jean	Pourquoi [MASK] regardait-il avec tant d’attention cette jeune fille ? C’est qu’il trouvait en elle une ressemblance frappante avec les portraits de la fillette enlevée à la baronne du Vergier, une ressemblance très grande aussi avec son ami Maurice. Était-ce effet du hasard ?
+
+[',', 'je', 'et', 'se', 'le']	Jean	Etant coupable, elle s’est effrayée, voilà les choses... Ainsi [MASK] persistait dans son odieux système. — J’attendais plus de vous, dit la jeune fille. Pourquoi ? je n’en sais rien ; c’est d’instinct. J’ai tant besoin d’une protection
+
+['ça', 'il', 'cela', 'Landry', 'Jean']	Jean	— Et moi j’y suis né, dit [MASK], et j’y étais encore il y a huit jours. — Eh bien ! que dites-vous de ça ? — C’est bien vrai, c’est une merveille !
+
+[',', 'il', 'ne', '"', 'et']	Méloir	[MASK] poussa un cri de douleur, accompagna « le failli merle de failli chien » de toutes sortes de malédictions et fit cette remarque prudente : — Si ce serait qu’il soit enragé ? Ah ! dame ! Ah ! dame ! Ça s’est vu !
+
+[',', "l'", 'le', '...', '(']	milady	: Il est un peu... extravagant... un peu fou... — Je suis fol... bôcoup ! s’écria le baronnet qui avait entendu ; mais je voulé acheter tout de même, pour dépenser bôcoup et faire enrager [MASK] ! Celui qui riait de moi je boxé loui
+
+['on', 'il', 'elle', 'qui', 'chacun']	Jean	V Le buron Mais enfin, [MASK] avait peur des loups. A son âge c’était bien pardonnable. Il erra dans diverses directions, tout en faisant le plus de bruit possible, maintenant qu’il n’avait plus à craindre de trahir sa présence.
+
+[',', 'de', 'le', 'les', '"']	Maurice	Toutes les sciences sont encore dans l’enfance, et celle de rendre les hommes heureux n’est pas encore au jour (le même). » Il y en avait comme cela une cinquantaine de pages. — C’est vous qui avez glané toutes ces vérités utiles ? s’écria [MASK]
+
+['il', 'lui', 'elle', 'celui-ci', 'Jean']	Maurice	Le baronnet lui versa quelques gouttes de cognac qu’il but avec plaisir, tandis que [MASK] disposait une compresse autour de son front. — Vous êtes bien honnêtes tous, dit le blessé ; et il ajouta d’une voix affaiblie : C’est bien beau l’honnêteté !
+
+['-', 'libre', 'merci', 'contraire', 'alors']	Méloir	? — Oh ! pour quant à ça, non pas ! ça serait retomber du pré dans la lande. — Alors sois raisonnable, [MASK], et laisse-moi faire. — Vous avez raison. Je serai toujours mieux qu’à allumer les chandelles de votre oncle ;
+
+['elle', 'il', 'alors', 'Pierre', 'Henri']	Risler	— Vraiment ! que trop ! s’écria [MASK] à son tour. Ça te contrarie ? ça te déroute ? Voyez-vous l’honnête garçon qui se formalise lorsque son oncle veut faire une action méritoire : restituer leur bien à papa et à maman ? Tiens !
+
+['eux', 'pied', 'la', 'cheval', 'leur']	Lamballe	Mais il dut se ranger pour laisser monter plusieurs jeunes Bretons qui prirent place dans le compartiment : des gars éveillés qui s’en retournaient à [MASK]. Joyeusement, ils se donnèrent du coude quelques renfoncements dans les côtes, tandis que le train se remettait en marche.
+
+['y', 'il', 'et', 'Il', ',']	Jean	[MASK] éprouva une deuxième surprise : le théâtre, ce chef-d’œuvre de l’architecte Louis. Il est entièrement isolé et occupe l’un des côtés d’une belle place. Sa façade principale est formée de deux colonnes corinthiennes, auxquelles correspondent douze statues colossales décorant la balustrade qui en couronne la frise.
+
+['il', 'elle', 'Jean', 'Henri', '-il']	Jacob	car c’est bien toi qui as tout fait, n’est-ce pas ? Ah ! quand j’y pense ! dit [MASK] d’une voix devenue rauque. Il y avait là une fortune à gagner pour tous les deux... C’est toi ! Dis-le !
+
+['elle', 'Elle', 'il', 'et', 'on']	Jean	? lui répondit la grosse dame, très vexée malgré tout d’être obligée de se taire sur l’injonction de son mari. Et un soupir d’éléphant souleva sa forte poitrine. [MASK] retint ces noms de villes et ces datés : ce furent les paroles les plus importantes de l’entrevue.
+
+['</s>', 'qui', 'en', ',', 'homme']	Jean	On ne devait remonter en voiture qu’à deux heures. En se mettant à table à midi on avait donc plus de temps qu’il n’en fallait pour déjeuner. [MASK], avec la distinction de ses sentiments, ne pouvait pas avoir des manières d’enfant mal élevé.
+
+[',', 'qui', 'en', 'a', "l'"]	Jean	[MASK] eut des larmes aux yeux. La déception était si forte ! — Pourquoi pleure-t-il donc ce petit ? demanda l’aubergiste. Mes paroles lui font cuire les yeux comme si elles étaient assaisonnées à la moutarde...
+
+['Louis', 'Bernard', 'Martin', 'Pierre', 'Raymond']	Bernard	Beaucoup de ses maisons sont construites en bois et en craie. Hors de la ville se trouve la belle promenade du Jard ombragée par deux mille ormes magnifiques : c’est sur son emplacement que saint [MASK] prêcha la seconde croisade.
+
+['on', ',', 'se', 'il', 'et']	Jean	Le fait est que l’heure de vendre des livres était passée depuis longtemps que, du côté où l’on s’amusait, la gaieté s’animait encore avant de s’éteindre. Mais [MASK] se souciait fort peu de tout ce qui n’était pas son petit commerce ;
+
+['son', 'sa', 'la', 'ses', "l'"]	Méloir	Sur ce bel air, le charlatan arracha la mentonnière de [MASK], et le forçant à se lever, il lui tint la tête et montra victorieusement à tous, ses deux joues, pourpres toutes les deux, — de confusion : il était impossible, en effet, de reconnaître le côté malade.
+
+['alors', ',', 'il', '...', 'Jean']	Jean	— Oh ! que ben oui ! et avec un air assatti 6 . — Un affreux louchon ? — Allez ! marchez ! c’est son image toute récopie. — Et pourriez-vous me dire, le chemin qu’il a pris ? s’écria [MASK] avec véhémence.
+
+['on', 'il', 'elle', 'voyageur', 'y']	Jean	Au milieu de ce paysage la ville s’élève en amphithéâtre ; peu de monuments dépassent les maisons, sauf l’église ; de sorte qu’en entrant dans la ville, [MASK] eut la surprise de trouver beaucoup de constructions régulières et belles.
+
+['S', 'plus', ',', 's', 'B']	Bordelais	Long et maigre comme il est, il a dû passer à travers les barreaux de la cage ; mais il est connu dans le pays. Il paraît même qu’il n’est pas méchant, malgré son vilain air. Ça a amélioré les affaires de l’ami du [MASK]...
+
+['...', 'tu', ',', 'DE', 'JE']	Emmeline	— Jean ? Et puis ? ��� Jean... — Tu n’as pas d’autre nom ? fit la danseuse étonnée — nuançant d’un tutoiement son dédain inconscient. — Et vous ? demanda à son tour le jeune garçon. — Moi, [MASK] ;
+
+[',', 'tout', 'et', 'Jean', 'celui-ci']	Jean	Faut pas mentir, mais ce vieux houro-là 17 , jure pus salé qu’un trancheur de morue quand il est chaudeboiré. — C’est bon ! dit à son tour [MASK] en interrompant son loquace compagnon. Nous partirons demain matin de bonne heure et nous serons dans ton pays au cœur de la journée.
+
+['il', 'je', 't-il', 'lui', 'celui-ci']	Jean	— Que fais-tu là, toi ? lui dit-il très surpris, et d’un ton qui n’avait rien d’engageant. — Je vous attendais, « mon oncle », dit [MASK] avec assurance. Il disait mon oncle par habitude. — Moi ?
+
+['les', 'le', 'la', 'des', 'leurs']	Vère	Tout à coup, un remous se forme dans les groupes au milieu de ces gars petits de taille, bruns, à tête ronde ; des coups de poings — de vrais coups — y tombaient drus, faisant tourbillonner les gars ahuris : [MASK] !
+
+[',', 'il', '</s>', 'le', 'qui']	Jean	[MASK] allait répondre, et peut-être refuser toutes les belles offres à lui faites pour le tenter, lorsque le géant tyrolien passa la tête par une lucarne ménagée à son intention à gauche de l’entrée de la loge, où il ne se montrait jamais qu’en buste.
+
+['ensemble', 'le', 'avec', '...', ',']	Jacquot	Une ancienne connaissance. — As-tu déjeuné, [MASK] ? — Oui, oui, oui ! Ce court dialogue avait lieu entre un marin de notre connaissance et un superbe perroquet gris et rouge, l’aîné de la famille du vieux loup de mer ;
+
+[',', 'complètement', 'comme', 'dés', ':']	Polichinelle	Affublé de la sorte, avec son long nez tombant sur sa bouche fatiguée par un rictus ironique habituel, ses yeux à demi fermés et qui louchaient encore, son visage demeuré livide, on aurait dit [MASK] assommé. Aux stations, les gens qui ouvraient la portière, reculaient épouvantés.
+
+['il', 'on', "l'", 'elle', "s'"]	Jean	? — Yes ! fit l’Anglais. Ce n’était pas répondre et [MASK] se dit : Bon ! ce n’est plus maintenant un département qu’il lui faut à cet original, c’est une province entière : Qu’il y vienne ! On lui en donnera !
+
+['elle', 'on', 'il', 'une', 'un']	Emmeline	Elle revint s’asseoir et attendit, impatiente, la réponse à sa question. — Est-ce qu’[MASK] danse ? fit le jeune garçon. — Elle danse. — Alors j’entre. — Un moment !... Vous ne me répondez pas ?... Cette baronne ?
+
+["l'", ',', "s'", 'en', 'il']	Méloir	Heureusement dans sa chute rapide le gars rencontra une pointe de rocher à laquelle il demeura accroché par sa veste, brusquement remontée autour de son cou. [MASK] étouffait, et il se mit à crier autant qu’il le put. Ses bras battaient dans le vide ;
+
+['son', 'le', "l'", 'un', 'à']	Jacob	mais il louchait davantage. Il dit quelques mots en allemand à son compagnon. Les deux hommes parurent se concerter un instant comme s’il s’agissait d’aviser... — Oui, nous verrons, mauvais gueux ! dit enfin [MASK].
+
+['Louis-Philippe', 'Vauban', 'Napoléon', 'Colbert', 'Thiers']	Mansart	Il y avait à voir la belle façade de l’hôtel de ville, due à [MASK], la remarquable grille de l’hôtel-Dieu, le Musée, la bibliothèque publique, l’une des plus riches bibliothèques départementales et possédant deux mille cinq cents manuscrits.
+
+['il', 'orphelin', 'père', 'lui', 'fils']	Jean	Ainsi [MASK] avait enfin réussi dans la chose qu’il tenait le plus à cœur de réaliser ! Encore quelques jours, et il pourrait prouver à tous que son père avait été indignement confondu avec un traître, un vil espion. Et maintenant l’orphelin ne serait plus réduit à cacher un nom déshonoré !
+
+[',', 'le', 'se', 'de', 'un']	Jean	Mais [MASK] voulut être conduit d’abord à l’endroit où Jeanne fut brûlée. C’est la place du Vieux-Marché. Les deux jeunes garçons, de leur pied le plus leste, arrivèrent promptement à cette place, partagée en deux portions inégales par l’envahissement d’anciennes maisons
+
+['celui-ci', 'Paul', 'Jean', 'Robert', 'Pierre']	Jean	De mon côté, je n’ai que des ennuis à vous apprendre. — Oui, aucune démarche n’a abouti ; j’en deviendrai folle ! Mais mon pauvre garçon que vous arrive-t-il donc ? En parlant ainsi la baronne introduisit [MASK] dans un petit salon.
+
+['il', 'elle', 'on', 'celui-ci', 'celle-ci']	Jean	Elle regarda attentivement l’auxiliaire à la taille exiguë, à la mine délicate, à l’œil animé qui lui arrivait. El elle vint s’asseoir, bonne et caressante, dans le large fauteuil de chêne, où [MASK] lui fit une place auprès de lui.
+
+[',', 'tout', "l'", 'lui-même', ';']	Jacob	non, il fallait tenter l’impossible, et se faire admettre du voyage. Lui présent, il saurait maîtriser [MASK] en lui faisant comprendre à mots couverts qu’il le tenait à sa discrétion. — Quand part-on ? demanda-t-il, espérant avoir le loisir de prendre une résolution
+
+[',', ';', 'et', 'qui', 'les']	Quentin	[MASK] conduisit ses amis dans un cabaret ou une cantine, où les mineurs se pressaient, altérés et affamés, autour des tables. Ils étaient là le front moite, les joues et le menton noirs de poussière ; ça leur donnait un air de famille.
+
+['il', 'et', 'elle', ',', 'Il']	Jean	[MASK] soupira pour se délivrer de son oppression. — Je n’ai jamais cru, dit-il, que vous fussiez la fille de cette femme qui a fini par vous adopter. Mais quand je l’ai entretenue de vous, je ne lui ai rien dit qui dût lui faire supposer que je connaissais vos parents.
+
+[',', 'il', 'qui', 'et', 'elle']	Jean	[MASK] s’assit à côté du docteur, qui toucha ses poneys. En le voyant s’éloigner le garde champêtre promit au docteur de lui communiquer son procès-verbal. Il n’y manquerait pas, « ne l’ayez mie en doutance ».
+
+['celui-ci', 'Paul', 'Jean', 'Pierre', 'Lucien']	Joseph	De ses yeux louches, il regardait son bras droit en frappant sur sa manche gauche ; passant à l’autre bras, il regarda de même du côté opposé. — Le camarade voulait déguerpir, reprit [MASK], mais ce n’est pas à moi qu’on la fait... en louchant, encore !
+
+['il', 'on', 'elle', 'ils', 'lui-même']	Jean	Cela devint vite l’histoire de toute sa vie d’enfant et d’adolescent, avec les déceptions et les espérances. Le père Vent-Debout saluait au passage, de quelque « failli chien ! » les noms de ceux dont [MASK] avait à se plaindre.
+
+['...', ',', 'le', 'à', 'de']	Jean	Lorsque tu me retrouveras, je serais marié et un peu le papa de cette petite fée de Cydalise qui t’a ensorcelé, je le devine. Pars... et tu verras que je suis un bon oncle. Est-ce dit ? — C’est dit, mon oncle, repartit [MASK] ;
+
+[',', '(', 'a', 'HO', '...']	Maurice	— Eh bien, dit l’Anglais, nous pâtirons démain. — Mais où voulez-vous aller ? s’écria [MASK] désespérément. Jean est fatigué, — c’était un prétexte — restons au moins quelques jours dans cette belle ville où il y a tant de choses dignes d’être vues
+
+['lui', 'elle', 'son', 'le', 'la']	Risler	Plus irrésolu que jamais, il se persuada toutefois qu’il devait à l’intéressante baladine de ne pas s’éloigner trop d’elle, et il comptait bien que, soit par [MASK], soit par sa femme, la jeune fille saurait qu’on devait bientôt se retrouver.
+
+[',', 'en', '...', 'encore', 'ce']	Méloir	Nous partirons demain matin de bonne heure et nous serons dans ton pays au cœur de la journée. Voilà qui est arrêté. Et maintenant [MASK], ralentis un peu ton pas, mon garçon, et conduis-moi où tu voulais me faire manger, tantôt, je ne sais plus quoi...
+
+['le', 'il', "l'", 'la', 'un']	Jean	Le jeune paysan, d’une main remontant ses chausses, qui tombaient faute de bretelles, de sa main libre, mettant un peu d’ordre dans sa carriole, s’apprêtait à partir. — Il ne s’agit pas de ça ! lui cria [MASK].
+
+[',', 'étant', 'même', 're', '-']	Cydalise	— Et je me dis que [MASK] devenue une grande et belle fille, ayant grandi et embelli en même temps que mon théâtre, j’aurais vraiment peu de chance si je ne lui trouvais pas autour de moi, dans ma troupe même, un bon mari qui m’aiderait à soutenir la prospérité de l’établissement.
+
+['un', ',', 'le', 'hom', "l'"]	Méloir	Jean s’en alla sans en écouter davantage et se mit à la recherche du pauvre Breton. Il se heurta contre [MASK] qui accourait au-devant de lui — livide, les poings fermés, mâchant d’effroyables jurons : il venait de tout apprendre au cabaret : inutile de se cacher plus longtemps, sarpegoy
+
+['il', ',', 'elle', 'de', 'Il']	Sylvia	! [MASK] s’enhardissant, avança une main effilée pour fermer la bouche à son père. — Si je vous priais, dit-elle, de ne mettre à exécution aucune de vos menaces, me refuseriez-vous la première grâce que je vous demanderais ?...
+
+["l'", 'le', '"', "L'", 'son']	Quentin	— Il est pressé « pour une fois » ton ami, chuchota le commis aux écritures. Nous y allons aux écuries, « viens avec » ajouta-t-il. — C’est qu’il a acquis un élan de deux cents lieues ! répondit [MASK].
+
+['tous', 'nbsp', 'son', 'équité', 'la']	tarteiffle	il réclamerait justice, [MASK] ! Puis s’avalant, il s’efforça de passer par une portière ; mais la douleur de son pied trahit sa bonne volonté. Cette dernière et infructueuse tentative provoqua une hilarité générale. L’autorité elle-même se mordait les lèvres pour ne pas éclater.
+
+['celui-ci', 'il', 'chacun', 'Pierre', 'Jean']	Jean	Il la saisit et l’enveloppa de ses deux bras, comme une recrue de cavalerie embrasse, au manège, le cou de son cheval excité par quelques coups de houssine. C’est que [MASK] craignait de tomber s’il s’endormait.
+
+['tu', 'Tu', 'Il', 'Tout', 'Je']	Jean	Il semble que tu as grandi. Mais tu as l’air tout.... drôle : on dirait que tu sais la nouvelle... — Quelle nouvelle ? murmura [MASK] en pâlissant. — Tu ne le sais donc pas... que ta sœur est morte ? — Morte ?
+
+['fille', 'garçon', 'homme', 'demoiselle', 'chevalier']	Jean	[MASK], qui décidément n’était plus le même, eut peur de nouveau. — Ne craignez rien, s’empressa-t-il de dire. J’ai eu moi-même trop de peine de voir s’éloigner cette jeune fille pour que je recommence. — Ah !
+
+['...', ',', 'et', 'celui', 'celle']	Jean	— Et moi donc ! dit le buronnier. Mais je suis intrigué... Si je te donnais une seconde écuelle de lait et une nouvelle tranche de pain... histoire de t’ouvrir la bouche ? — De me la fermer plutôt... en la remplissant, observa [MASK] dont la bonne humeur revenait.
+
+['S', ',', 'la', 'ne', '"']	Méloir	Notre ami Jean était entré chez le tailleur Troadec ; et sa femme, — une femme toute petite et ridée, ridée, — lui avait dit qu’il était à la noce. — Vous n’êtes pas du pays ? avait ajouté la mère de [MASK] ;
+
+['il', 'Il', 'Dieu', 'Jésus', 'lui']	Jean	Tout affligé qu’il fût à la suite de tant d’événements pénibles, bien faits pour l’accabler, [MASK] ne se désintéressait nullement de la vie et du bonheur des autres. Humble et pauvre plus que jamais, il avait l’orgueil de la fortune de tous.
+
+['il', ',', 'se', 'IL', 'en']	Jean	— Si vous voulez que je vous fasse entrer... à l’œil ? fit le buveur reconnaissant. A cette proposition [MASK] recula de surprise et d’effarement. — A l’œil ? c’est tentant tout de même ! dit-il. Mais pas aujourd’hui, demain...
+
+['il', 'on', 'ils', 'nous', 'elle']	Davy	. Les ouvriers étaient munis de ces lampes dont [MASK] a inventé le modèle : formées d’un tube de toile métallique qui enveloppe la flamme, cette toile refroidit suffisamment les gaz combustibles qui la traversent pour que leur inflammation ne puisse avoir lieu.
+

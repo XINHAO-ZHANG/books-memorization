@@ -1,0 +1,200 @@
+['Pierre', 'Louis', 'Jean', 'Joseph', 'Émile']	Cyprien	: – On ne travaille plus comme de votre temps, mère Vidal. – Oui, je ne demanderais pas mieux que d’emmener [MASK], si c’était possible. Je reprendrais volontiers pour lui le rouet et la quenouille ; mais l’enfant doit rester avec sa mère.
+
+['lui', 'elle', 'moi', 'Jean', 'Paul']	Benoîte	– Sans savoir pourquoi, elle était inquiète et gardait le silence. Aussi, lorsqu’elle fut couchée dans la chambre qu’elle occupait en commun avec [MASK], elle se mit à réfléchir, avec un peu d’inquiétude, à ce qu’elle venait d’apprendre.
+
+['Socrate', 'Dieu', 'Jésus', 'Bouddha', 'Platon']	Cyprienne	Cette comparaison l’amenait à comprendre le bien et le mal mieux que n’aurait pu le faire les plus longs discours, et [MASK], qui sans doute devinait ce qui se passait dans son esprit, l’abandonna à ses méditations dans l’espoir qu’il en retirerait profit.
+
+['enfant', 'maman', 'Marie', 'mère', 'Françoise']	Cyprienne	Si tu savais, [MASK], comme il a été malheureux étant petit ! il n’avait d’autre famille qu’une vieille tante qui ne s’en occupait pas, de sorte que tous les enfants de son village se moquaient de lui, le battaient, le martyrisaient.
+
+['Paris', 'Londres', 'papa', 'maman', 'personne']	Zélie	– Eh bien ! grand’mère, dit-elle lorsqu’elle eut terminé la lettre, voilà un emploi tout trouvé pour l’argent que nous venons de recevoir. – Comment ? Est-ce que tu voudrais l’envoyer à [MASK] ? – Pourquoi pas ?
+
+['Marie', 'Jeanne', 'Julie', 'Marguerite', 'Sophie']	Cyprienne	Elle avait pensé qu’il s’amuserait à les copier et ne se doutait pas de l’immense utilité qu’ils devaient avoir pour lui. C’est à ces albums que [MASK] eut recours pour étendre l’instruction de son frère ;
+
+['il', 'Charles', 'Louis', 'Pierre', 'Paul']	Cyprien	Quoique [MASK] ne fut point encore au courant de cette langue, la jeune femme accompagnait sa conversation d’un jeu de physionomie si animé qu’il n’éprouvait pas la moindre difficulté à la comprendre. Elle l’interrogea avec intérêt sur sa famille, ses études, ses travaux
+
+['Charles', 'Louis', 'Monsieur', 'Joseph', 'David']	Cyprien	– Pauvre enfant ! dit-elle d’un air de profonde commisération, en pensant aux efforts de volonté qu’il avait fallu au jeune homme pour suppléer aux facultés que lui avait refusées la nature. – Ne me plaignez pas, madame, répliqua [MASK].
+
+['en', 'et', 'comme', '</s>NOTUSED', 'que']	Cyprien	– C’est si bien possible que, quand vous voudrez, vous pourrez vous assurer de la vérité de ce que je vous dis, en allant vous-même chez ma belle-sœur, voir le portrait dont je vous parle. Deux jours après, [MASK] passant devant l’auberge, le père Fournier l’arrêta.
+
+['Pierre', 'Joseph', 'Jean', 'Paul', 'César']	Cyprien	– Mais est-il ennuyeux, celui-là ! s’écria le troisième. Ah ça ! vas-tu bientôt partir ? Et pour rendre son injonction plus formelle, il jugea à propos de la renforcer d’une pierre envoyée à [MASK]. Celui-ci tenait de sa mère ;
+
+['Marie', 'Jeanne', 'Paul', 'Jules', 'Pierre']	Cyprien	Et – brave, courageux, – pouvaient se mettre dorénavant au nombre des mots qu’il savait. A mesure que grossissait le vocabulaire de [MASK], il fournissait de plus en plus à la jeune institutrice le moyen d’élargir le cadre de ses leçons.
+
+['un', '</s>NOTUSED', 'une', 'il', 'Jean']	Cyprien	Devant le mur, courant avec vivacité d’un bout à l’autre, donnant tous les signes d’une joie folle, [MASK], portant un bâton au bout duquel était fixé un morceau de charbon, gambadait et gesticulait.
+
+['Pierre', 'Joseph', 'Jean', 'Jacques', 'lui']	Benoîte	Il ne paraissait pas à l’heure des repas, se contentant de ce qu’il trouvait dans le potager et d’un morceau de pain que [MASK] laissait exprès sur la table où il venait le prendre furtivement quand il croyait n’être pas vu.
+
+['Madame', 'madame', 'Mademoiselle', 'Julie', 'Jeanne']	Cyprienne	– Vous voilà encore, répliqua la maîtresse avec colère, ne voulant jamais convenir des torts de [MASK] et trouvant mauvais qu’elle soit grondée comme elle le mérite. Courez donc après les bêtes, afin de les faire rentrer, cela vaudra mieux que de parler à tort et à travers.
+
+['il', 'on', 'chacun', 'Charles', 'Louis']	Cyprien	Il faut croire qu’on ne se rassasie pas facilement d’éloges, car après le dîner, qu’il expédia en quelques minutes, [MASK] alla se promener sur la route, pour guetter celles des personnes de sa connaissance qui venaient au village ou qui en sortaient.
+
+['Marie', 'Alice', 'Jeanne', 'Sarah', 'Catherine']	Cyprienne	– Il m’a battu l’autre jour, grommela l’enfant après une nouvelle hésitation. – Battu ? répliqua [MASK], qui était désireuse d’obtenir une confession entière, pour voir si son frère lui avait dit la vérité. Il t’a battu ? – Oui.
+
+['il', 'Pierre', 'Jean', 'Louis', 'Charles']	Cyprien	Moi, cela m’est égal d’aller d’un côté ou de l’autre ; il y a de bonnes âmes partout, et je trouverai toujours à remplir mon bissac. Comme [MASK] semblait rassasié, le père Malot lui demanda d’un geste s’il voulait l’accompagner.
+
+['Socrate', 'Paul', 'Pierre', 'Charles', 'Joseph']	Cyprienne	Les discours de [MASK] avaient déterminé un changement dans ses idées. Quels étaient-ils donc ? Malgré tous les efforts du petit sourd-muet pour les saisir, à mesure qu’ils s’échappaient de ses lèvres, et pour leur donner un sens, il n’avait pu y parvenir.
+
+['Pierre', 'Joseph', 'Monsieur', 'Mme', 'César']	Cyprienne	Ce n’était, pensaient-ils qu’une conséquence momentanée de la maladie qui avait failli leur enlever leur petit Cyprien. On peut donc juger de leur désespoir lorsque, ayant communiqué au médecin les remarques de [MASK], ils virent celui-ci secouer la tête avec tristesse, en déclarant que tout remède était inutile.
+
+['Jean', 'Pierre', 'Jeanne', 'Paul', 'Louis']	Andoche	Non, vraiment, ce n’est pas bien, dit encore [MASK], toujours sur le même ton. – Bah ! bah ! ne sois donc pas si scrupuleux ! – Mais si l’on allait savoir. – Savoir quoi ? J’ai signé la dépêche Jean.
+
+['Jeanne', 'Marie', 'Alice', 'Clara', 'Louise']	Cyprienne	– Un peu de courage ! Mais à peine la petite fille fut-elle arrivée à quelques pieds du sol que le méchant garçon, écartant l’échelle du mur, se mit à la secouer, de la main qui la tenait, au risque de précipiter [MASK] à la renverse.
+
+['Napoléon', 'Louis', 'David', 'Joseph', 'Salomon']	Cyprien	Le bonheur augmente la générosité naturelle, et il fit la sourde oreille à toutes les insinpations. La joie de [MASK], à l’annonce du succès de son protecteur, fut d’autant plus vive que c’était lui qui avait déjoué les machinations de ses ennemis.
+
+['Marie', 'maman', 'Maman', 'Madame', 'la']	Cyprienne	Lorsque l’enfant, en ouvrant les yeux après le départ de [MASK], ne la vit pas près de son lit, selon son habitude, il la chercha d’abord du regard, le sourire aux lèvres, s’imaginant qu’elle s’était cachée pour l’amuser et qu’elle allait se montrer.
+
+['il', 'elle', 'on', 'lui', 'chacun']	Cyprien	– Tu ne veux donc pas encore parler, demanda-t-il. Et comme [MASK] cherchait à répondre à l’intérêt qu’on lui témoignait par des caresses et des gentillesses. – Drôle de petit garçon ! continua-t-il, il a des façons tout à fait aimables.
+
+['Alexandre', 'Alice', 'Antoine', 'Isabelle', 'Auguste']	Antoine	S’il n’était pas le plus fort, il était le plus leste et le plus adroit ; mais ses moyens étaient en partie paralysés par la nécessité de protéger sa précieuse décoration contre les agressions d’[MASK], dont le regard plein d’animosité s’était porté de ce côté.
+
+['lui', 'elle', 'moi', 'nous', 'eux']	Antoine	mais ce n’est pas pour courir après [MASK]. – Se venger ! il s’agit bien de cela maintenant ! Nous verrons plus tard. – En deux bonds il est au bord du cours d’eau. D’un regard anxieux il sonde le cristal liquide.
+
+['la', 'Mme', 'Monsieur', 'nos', 'Madame']	Cyprien	Un joli jardin l’entourait ; et, lorsque les vagons ne filaient pas trop vite, les voyageurs mettaient la tête à la. portière pour admirer les capucines et les volubilis qui l’égayaient. Cet endroit était un des lieux de prédilection de [MASK].
+
+['Marie', 'Louise', 'Jeanne', 'Pierre', 'Lucie']	Cyprien	Quand il accompagnait sa sœur au petit bois, il apportait son album, et s’occupait à faire des études d’arbres. [MASK] alors s’établissait près de lui et c’était merveille de voir avec quelle application vive et soutenue l’enfant suivait chaque coup du crayon déjà habile du jeune artiste.
+
+['lui', 'elle', 'personne', 'Joseph', 'Jeanne']	Benoîte	Il ne voulut pas consentir à se laisser habiller par sa mère ni par [MASK], cependant lorsqu’on l’eut laissé seul dans la chambre, il se leva, se vêtit tant bien que mal, sauta par la fenêtre et courut se réfugier dans le jardin.
+
+['Il', 'On', 'II', 'Elle', 'IL']	Cyprien	Les voilà achevés. Le cheval regarde, il respire. [MASK] a eu la main plus heureuse encore cette fois que la première et en contemplant son ouvrage retouché, il éprouve plus de satisfaction qu’avant l’accident. Souvent il en est ainsi, vous le reconnaîtrez plus tard.
+
+['elle', 'Louise', 'Marie', 'Emma', 'Sophie']	Cyprienne	! Grâce à ces soins [MASK] était beaucoup plus instruite que ne le sont habituellement les jeunes filles de sa condition. Elle aurait voulu, en les quittant pour toujours peut-être, leur peindre sa gratitude, leur dire l’affection dont son cœur était rempli ;
+
+['elle', 'il', 'on', 'maman', 'papa']	Paul	– Si [MASK] n’est pas sage, on ne l’aimera plus, – n’a pas besoin qu’on lui définisse le mot aimer. Lui-même a balbutié : – j’aime papa, – j’aime maman, – avant de comprendre ce que ces sons signifiaient.
+
+['Charles', 'Paul', 'Jules', 'Louis', 'Gustave']	Cyprien	– Il se demandait encore ce qu il allait faire quand il était déjà remonté dans le vagon qui se trouvait en face de lui et que la locomotive l’emportait. Ce ne fut pas sans une profonde stupéfaction que [MASK] s’aperçut que, dans son trouble, il avait grimpé dans une voiture de première classe.
+
+['il', 'lui', 'Il', 'Alexandre', 'Pierre']	Jacques	Quelque chose pourtant en avait transpiré et deux ou trois camarades du jeune homme essayèrent de le pousser à faire une dénonciation publique mais [MASK] était trop heureux de sa victoire pour se soucier de nuire à son tour à ceux qui avaient voulu la lui enlever,
+
+['tout', 'lui', 'Marie', 'Catherine', 'Sophie']	Cyprien	Elle trouvait moyen de s’entendre avec lui presque aussi sûrement que par la parole ; sur un geste, un regard, une expression de visage, un mot même, que [MASK] semblait deviner, il courait exécuter les ordres de sa sœur.
+
+['il', 'elle', 'on', 'Pierre', 'Juliette']	Benoîte	Le souvenir de cet incident eut cela de bon qu’il la rendit désormais un peu moins prompte à punir. Au besoin [MASK] était là pour le lui rappeler, car la bonne femme ne se faisait pas faute, quand s’en présentait l’occasion de s’écrier.
+
+['Joseph', 'lui', 'Jésus', 'Jean', 'Salomon']	Cyprien	; lorsque les nécessités de votre éducation vous séparent, vous en éprouvez du chagrin ; mais vous avez mille choses pour vous en distraire. Il n’en était pas de même de [MASK], sa sœur était tout pour lui, car elle seule savait pénétrer dans son âme
+
+['Il', 'Elle', 'Pierre', 'Antoine', 'Jean']	Zélie	mais la porte ne s’ouvre pas davantage. [MASK] retire la clef pour connaître la cause de cet incident et voit avec stupeur qu’il ne lui reste dans la main qu’un petit bâton de fer. La partie qui fait mouvoir le pène était restée dans la serrure.
+
+['lui', 'elle', 'Marie', 'Jeanne', 'moi']	Zélie	Mes fleurs ! mes pauvres fleurs ! que j’aimais tant ! – Dites-lui de finir, continua-t-elle en se retournant pour s’adresser à [MASK]. Mais elle demeura attérée en reconnaissant qu’elle ne pouvait espérer aucun appui de ce côté.
+
+['</s>NOTUSED', 'Mais', 'David', 'Paul', 'John']	Cyprien	; si les arbres qui l’entouraient paraissaient sortir d’une boutique de fleurs artificielles, ils ne s’en plaignirent pas et déclarèrent qu’il était impossible de mieux réussir. [MASK], lui, n’était pas tout à fait aussi content.
+
+['Elle', 'Anna', 'Marie', 'Alice', 'Maria']	Cyprienne	Le médecin vint encore une fois, il l’examina soigneusement, le regarda essayer ses faibles pas et déclara qu’il était complètement guéri. [MASK], néanmoins, ne pouvait s’empêcher de concevoir de l’inquiétude. A quel sujet ? Elle n’aurait pu le dire ;
+
+['Il', 'Lui', 'Pierre', 'Paul', 'Jean']	Cyprien	(Il savait maintenant que les autres recevaient par l’oreille des perceptions qui lui étaient inconnues.) Son interlocuteur alors s’était mis à rire. [MASK] en avait conclu qu’on se moquait de lui et s’était avancé le poing levé. L’autre avait ri plus fort.
+
+['le', 'Pierre', 'la', '...', 'les']	Antoine	Réfléchit-on lorsqu’il s’agit de sauver ce qu’on a de plus cher ! Il s’élance. Déjà il tient l’objet précieux ; mais le courant est rapide, l’enfant perd pied et disparaît. Heureusement il a été aperçu du promeneur dont l’apparition avait mis en fuite [MASK].
+
+['Elle', 'Marie', 'Anna', '</s>NOTUSED', 'Eva']	Valentine	; il faisait tout son possible pour l’obliger à hâter le pas. [MASK], au contraire, s’efforçait de le retarder. Elle devinait les vaines recherches déjà faites par son petit ami et elle savait quelle dernière et cruelle déception l’attendait encore.
+
+['Socrate', 'Voltaire', 'Descartes', 'Molière', 'chacun']	Cyprien	Dans ce cas tous les mots auraient pu se confondre dans l’esprit de [MASK]. En supposant qu’il les eût aussi bien retenus, il eût été exposé à les appliquer mal à propos, à donner à une chose le nom qui convenait à une autre ;
+
+['Il', 'Elle', 'Anna', '</s>NOTUSED', 'Alice']	Paul	les heures de classe et de repas. Tantôt tu lui feras visiter la maison. En attendant, emmène-le jouer. [MASK] entraîna son nouveau compagnon vers un groupe d’écoliers qui avaient installé une perche en travers d’une allée et s’amusaient à sauter par-dessus.
+
+['Louis', 'Paul', 'Léon', 'Léopold', 'Charles']	Cyprien	Cette lecture fit faire d’immenses progrès à [MASK] ; il lisait et relisait le volume sans se lasser, et jamais l’auteur de ce livre ne mérita mieux son surnom de, l’Ami des enfants , que par les services qu’il rendit au petit sourd-muet
+
+['Il', 'Elle', 'il', 'On', 'elle']	Cyprienne	; mon pigeon ! mon pigeon ! – Mais puisque je te dis de venir le chercher répliqua l’autre ; tu n’as qu’à faire ce que je t’ordonne. [MASK] aurait bien pu lui demander de quel droit il lui parlait d’un ton si arrogant ;
+
+['Alice', 'elle', 'Marie', 'Jack', 'Anna']	Victor	Je suis sûre, à présent que tu connais la raison de ce silence, que tu es bien fâché d’y avoir répondu de cette manière. – Si j’avais su que c’était votre frère. murmura [MASK].
+
+['celui', 'Pierre', 'Joseph', 'Paul', 'Henri']	Jacques	– Et tiens, continua [MASK] qui suivait la tentative de l’enfant avec autant d’intérêt que l’enfant en mettait ordinairement à le voir dessiner lui-même, tiens, regarde, n’y a-t-il pas là quelque chose ? Il jette déjà ses traits avec une vigueur et une sûreté étonnantes.
+
+['Dieu', 'Jésus', 'Joseph', 'Voltaire', 'Charlemagne']	Cyprien	On le vit aussi plus souvent à l’école et plus rarement à flâner le long des chemins, et [MASK], s’il eût remarqué ce changement et qu’il en eût connu la cause, se serait sans doute félicité d’avoir, en usant de générosité à son égard, amené cet heureux résultat.
+
+['Jeanne', 'Marie', 'Margot', 'Juliette', 'Marguerite']	Zélie	Et sur la réponse affirmative de celui-ci : – Elle est assez gentille, mais bien chétive. Vous dites qu’elle a sept ans passés ; on ne lui en donnerait pas plus de six. Si vous aviez vu [MASK] à cet âge, elle était autrement taillée que celle-là.
+
+['Marie', 'Madame', 'Jeanne', 'Mme', 'Julie']	Cyprien	Voici précisément l’heure de la récréation ; je vais leur présenter votre frère. Prenant alors par la main [MASK], qui déjà devinait en lui un ami, il sortit du salon, accompagné de la jeune fille, et atteignit le perron qui descendait au jardin.
+
+['Il', 'Joseph', 'Eugène', 'Paul', 'Antoine']	Cyprien	[MASK] continuait à se promener devant son dessin révélateur, un morceau de charbon à la main. Il venait, aux applaudissements de l’assistance, de placer une nouvelle pièce au caraco de la vieille femme qui y était représentée et se retournait pour jouir de l’approbation des spectateurs.
+
+['Marie', 'Sophie', 'Sophia', 'Jeanne', 'Clara']	Cyprienne	Un tel résultat ne méritait-il pas tous ses efforts, et le moindre pas qu’il faisait pour y parvenir ne devait-il pas lui causer une grande joie ? Tant que [MASK] put fournir à son frère des exemples concernant les choses dont elle lui parlait, l’enseignement ne présenta pas trop de difficultés.
+
+['Elle', 'Il', 'Maman', 'elle', 'On']	Valentine	alors, tirant la jeune fille par sa robe, il sembla la solliciter de la conduire près de celle qu’il cherchait – Là, dans le petit bois, près des rosiers en fleurs, c’est là, bien sûr, qu’elle les attendait. [MASK] crut devoir céder au désir du pauvre petit.
+
+['elle', 'il', 'Marie', 'Louise', 'Alice']	Cyprienne	A plusieurs reprises, [MASK] avait quitté sa place en voyant un flot de voyageurs déboucher du quai de débarquement et toujours le flot s’était écoulé sans qu’elle y eut découvert celui qu’elle cherchait. – Serait-il survenu un accident, une rencontre de trains ?
+
+['lui', 'Joseph', 'mais', 'Léon', 'Louis']	Cyprien	ce mois d’août que tous vous attendez si impatiemment, [MASK], malgré son désir d’apprendre et les liens d’amitié qu’il avait formés à sa pension, tant avec les maîtres qu’avec les élèves, ne voyait pas venir le jour de la liberté avec moins de satisfaction que ses camarades.
+
+['Il', 'On', 'Joseph', 'Alexandre', 'David']	Benoîte	Il n’y avait rien d’impossible à ce qu’il s’y fût rendu cependant, car le pauvre garçon, lui, devait ignorer que la maison fût vide. [MASK] continua donc sa course jusque-là, mais les domestiques qui gardaient la propriété n’avaient pas aperçu l’enfant.
+
+['Marie', 'Julie', 'Madame', 'Jeanne', 'Marguerite']	Benoite	Lorsque vint le repas de midi, selon l’habitude, qu’il avait contractée depuis ce moment, il n’y parut pas. Son absence ne causa pas d’étonnement ; cependant lorsque [MASK] se rendit au jardin quelques heures après, elle s’aperçut qu’il n’était pas à son poste habituel.
+
+['Marie', 'Julie', 'Jeanne', 'Suzanne', 'Catherine']	Zélie	Aussi quel bonheur pour lui quand il parvenait à attaquer [MASK] dans ce qu’elle avait de plus cher, et surtout à la laisser s’accuser elle-même comme cette fois, par exemple, où il lui brûla sa robe !
+
+['chacun', 'Napoléon', 'Monseigneur', 'Madame', 'Gambetta']	Cyprienne	– Médaille d’honneur. Il représentait une petite fille d’une douzaine d’années, assise sous un arbre, et couronnée de marguerites. Cette petite fille, nous venons d’en retracer l’histoire et ce n’est pas sans une profonde émotion que [MASK] la reconnut.
+
+['il', 'Il', 'On', 'on', 'Je']	Cyprien	: – Il manque cinq centimes, dit flegmatiquement le receveur. Cinq centimes ! [MASK] ne les a pas. C’est en vain que sa main plonge jusqu’au fond de sa poche, qu’il la retourne ; rien, il n’y trouve rien.
+
+['Il', 'Elle', 'Joseph', 'On', 'II']	Cyprienne	Ce n’est que peu à peu et après plusieurs années d’étude qu’il arriva à les lire tous couramment, mais il y trouvait un plaisir qui le dédommageait amplement de ses peines. [MASK] avait aussi eu le soin de donner à son frère les premières notions du calcul.
+
+['Il', 'Elle', 'il', 'elle', 'et']	Victor	? [MASK] garda la même attitude. – Eh bien ! Tu ne me réponds pas. Ne consens-tu pas à faire ce que je te demande ? Même silence, accompagné d’un mouvement d’épaules et d’un signe de tête négatif. – Non ?
+
+['moi', 'toi', 'César', 'Alexandre', 'Marius']	Hector	eh bien ! le cruel Mars me les a presque tous ravis. Un seul me restait, celui qui défendait notre cité, qui nous protégeait nous-mêmes, et tu viens de l’immoler tandis qu’il combattait pour sa patrie. Ce fils, c’était [MASK].
+
+['Marie', 'Jeanne', 'Marguerite', 'Julie', 'Louise']	Cyprienne	Pour conclure, la victoire était demeurée à notre sourd-muet. A ce récit, que l’enfant fit avec une satisfaction évidente, le chagrin et le mécontentement se peignirent sur la figure de [MASK] ; Elle chercha à faire comprendre à son frère qu’elle était fâchée ;
+
+['Il', 'Elle', 'Pierre', 'Maman', 'Louis']	Cyprien	Ils passaient ainsi ensemble de bonnes heures. [MASK] se prêtait avec douceur et patience à tous ses jeux et à toutes ses fantaisies. En dépit de l’insuffisance des moyens de relations du petit sourd-muet, tous deux s’arrangeaient à merveille.
+
+['joie', 'maman', 'toi', 'lui', 'Jérémie']	Catherine	Mais tu n’as pas besoin de pleurer comme ça, ajouta-t-il, car les larmes de [MASK] coulaient toujours, puisque après tout, pour cette fois, tant de tués que de blessés il n’y a personne de mort.
+
+['il', 'on', 'chacun', 'Émile', 'lui']	Cyprien	– enfant charitable, qui aime à donner. – Comme [MASK] connaissait la signification du premier mot, il devinait bien vite que les autres avaient trait à l’action qu’il voyait faire et les termes, – charitable, – généreux, – s’imprimaient dans son esprit.
+
+['il', 'on', 'Paul', 'David', 'Alexandre']	Cyprien	En voyant se dissiper les ténèbres et en se trouvant entre les quatre murailles d’une chambre, [MASK] se sentit tout à fait rassuré, et ne songea pas à se plaindre de la petitesse de la pièce, qui n’était pourtant pas des plus vastes.
+
+['lui', 'elle', 'Marie', 'moi', 'Clara']	Cyprien	? Sans doute il lui serait cruel de le voir partir ; mais n’en serait-il pas de même pour [MASK] et ne devait-elle pas s’efforcer de lui montrer de la satisfaction afin de lui faire envisager cet évènement du côté favorable ?
+
+['lui', 'Joseph', 'Paul', 'Pierre', 'Louis']	Cyprien	Cette perspective aurait pu décourager un voyageur moins résolu que [MASK] ; mais celui-ci ne s’inquiétait guère de la longueur du chemin ; il n’y pensait pas plus qu’à la brûlante chaleur du soleil, dont ne le garantissait qu’imparfaitement son petit chapeau de paille ;
+
+['il', 'Jésus', 'alors', 'soudain', 'Pierre']	Cyprienne	Il venait de frapper un premier coup sans que l’enfant eut paru s’en apercevoir. – Écoute ! lui dit [MASK], la tête penchée dans l’attitude de l’attention et portant la main à son oreille. Écoute !
+
+['Elle', 'Marie', 'Emma', 'Alice', 'Léa']	Cyprienne	mais l’enfant doit rester avec sa mère. [MASK] le savait bien, néanmoins elle avait peine à se résigner. Et puis sa grand’mère demeurait si loin ! Elle ne pouvait même concevoir l’espérance de venir embrasser son frère de temps en temps.
+
+['Elle', 'Marie', 'Jeanne', 'Marguerite', 'Thérèse']	Cyprienne	Quoique la grand’mère et la petite-fille vécussent dans la plus tendre et la plus parfaite union, il était un point sur lequel elles n’étaient pas d’accord. [MASK] avait été demandée plusieurs fois en mariage, mais, malgré les instances de la mère Vidal, elle avait toujours repoussé les propositions qui lui étaient faites.
+
+['Louis', 'Pierre', 'Jean', 'Joseph', 'Jacques']	Cyprien	La lettre que la mère Vidal lui avait écrite, en réponse à celle où elle annonçait que [MASK] était orphelin, ratifiait pleinement l’engagement qu’elle avait pris. L’excellente vieille accueillit donc le frère de sa petite-fille, comme elle avait accueilli sa petite-fille elle-même.
+
+['Pierre', 'Tom', 'Paul', 'lui', 'Jack']	Cyprien	Je suis le plus fort aux billes, tant pis pour lui, ce n’est pas une raison pour tricher ! – Non, certes, ce n’était pas une raison, et tricher est une bien vilaine action, une actien honteuse ; mais ce que [MASK] allait faire, lui, était-ce bien
+
+['maman', 'Maman', 'Jeanne', 'Marie', 'Julie']	Cyprienne	des occupations qui nécessitent sa présence. Dans peu elle sera ici. – Dans peu ! Dans peu elle ne me trouvera plus. – Elle vous trouvera, et guérie, je l’espère, reprit [MASK] avec douceur. – Voyons cette lettre, dit la mère.
+
+['Il', 'Joseph', 'Louis', 'Paul', 'Jean']	Cyprien	[MASK] demeura dans cet état plus d’un quart d’heure encore. Enfin il rouvrit les yeux et rencontra bien des regards amis fixés sur le sien, mais celui qui, jusqu’ici, avait accueilli son réveil y manquait toujours.
+
+['Bien', 'Oui', 'Parfait', 'Merci', 'Soit']	Tope	Veux-tu venir demain matin m’aider à l’enlever. Nous partagerons ce qu’il contient. – [MASK] ! dit l’autre. Mais au moment convenu, quand les petits ravisseurs se rendirent au chemin vert, le nid n’y était plus.
+
+['mais', 'non', 'oui', 'madame', 'elle']	Cyprienne	– Oui ; [MASK]. – Elle ne t’est pas plus proche parente que moi. Si elle est la fille de ton père, je suis le fils de ta mère. – Osez-vous bien vous comparer à elle !
+
+['Marie', 'Sophie', 'Jeanne', 'Catherine', 'Rose']	Cyprienne	Le souvenir de la conversation de la veille s’était effacé de l’esprit de [MASK], mais la vue d’une robe de mérinos bleu, qu’elle n’avait pas portée depuis près d’un an, la lui rappela bien vite.
+
+['lui', 'Marie', 'Joseph', 'Pierre', 'Jeanne']	Roussette	Est-il bien sûr que [MASK] et ses petits eussent été seuls à passer entre les barreaux de fer qui défendaient la fenêtre donnant sur le jardin ? En faisant un peu d’efforts, un enfant de sept ans ne pouvait-il parvenir, lui aussi, à s’introduire par là dans la pièce
+
+['Marie', 'Catherine', 'Madame', 'Marguerite', 'Anna']	Benoîte	Il aurait mieux fait de chercher une bonne femme. – Qui te dit qu’elle n’est pas bonne ? répliqua avec une certaine aigreur [MASK], qui voulait bien blâmer son maître, mais qui ne permettait à personne de prendre une semblable liberté.
+
+['chacun', 'chacune', 'tout', 'elle', 'on']	Cyprien	A ce spectacle des éclats rire sonores partirent de tous côtés et la victime eût le bon esprit d’y mêler les siens. Un instant après la barrière était replacée, la bande reformée et [MASK] y avait repris son rang.
+
+['Dieu', 'Marie', 'Henri', 'Monsieur', 'Pierre']	Zélie	– Hé ! hé ! qui sait ? On s’accoutume bien vite à ce qui est agréable ! – Si tu m’en crois, ajouta-t-elle quelques instants après, tu n’enverras pas à [MASK] cette somme tout entière à la fois. Je veux bien croire à son repentir
+
+['elle', 'trouver', '</s>NOTUSED', 'la', 'une']	Cyprienne	il n’avait qu’une chose dans l’esprit, [MASK], et il allait, il allait, il allait toujours, sans autre but que de la trouver au terme du voyage. Les enfants atteints d’une infirmité ne vivent pas de la vie habituelle aux autres enfants.
+
+['Marie', 'Jeanne', 'Maman', 'Madame', 'maman']	Cyprienne	– Et puis il me semble, dit [MASK], que plus tard, s’il vient à passer par ici, cela lui fera plaisir de voir de belles roses au milieu des ronces et des orties, Il ne peut y avoir de mal à cela.
+
+['Marie', 'maman', 'Jeanne', 'Sophie', 'Catherine']	Valentine	Est-elle donc partie pour toujours ! Néanmoins, vaincu par les émotions et les fatigues des heures précédentes, l’enfant finit par s’endormir dans les bras de [MASK], qui ne le quitta que lorsqu’elle l’eut replacé dans son lit et qu’elle l’y vit reposer paisiblement.
+
+['il', 'elle', 'Il', 'on', 'Pierrot']	Cyprienne	A midi, lorsqu’il allait répéter douze fois ses notes aiguës et monotones, [MASK] venait se placer avec l’enfant devant l’horloge. C’était un grand bonheur pour celui-ci de voir la volatile jaune et rouge secouer la tête d’un mouvement sec et raide, en répétant : Cou-cou
+
+['elle', 'Marie', 'Jeanne', 'Madeleine', 'Louise']	Cyprien	Dans le transport de sa joie, [MASK] ouvrit en toute hâte la porte de la chambre et se précipita vers le lit de la malade avec une impétuosité qui aurait pu lui être funeste si elle n’eût tout de suite deviné, en apercevant la jeune fille, ce qui causait l’agitation de l’enfant.
+
+['chacun', 'chacune', 'cela', 'certaines', 'ça']	Benoîte	Déjà, quelques jours auparavant, elle avait entendu les servantes parler entre elles de noce, mais elle ne savait pas à quelle noce on faisait allusion. Elle avait seulement remarqué que [MASK] avait laissé échapper des murmures de désapprobation.
+
+['Pierre', 'Julien', 'Alexandre', 'Jean', 'Antoine']	Victor	Il ne voulut pas avouer sa culpabilité, ce qui n’empêcha pas [MASK] de savoir à quoi s’en tenir. Il s’empressa donc d’avertir son ami, se déclarant prêt à le seconder pour administrer à son rival une bonne correction ;
+
+['il', 'on', 'elle', 'chacun', 'Il']	Cyprien	Heureusement [MASK] allait avoir bientôt l’occasion d’en faire un meilleur. En bas d’une côte un petit ruisseau traversait la route, quelques saules le bordaient et à l’ombre des arbres un homme âgé, et vêtu misérablement, se disposait à prendre son repas.
+
+['elle', 'Marie', 'Catherine', 'Louise', 'Jeanne']	Zélie	Quoique sa fortune eut été presqu’entièrement dissipée, sa fille se trouvait encore riche ; une parente, sa marraine, lui ayant laissé en mourant tout ce qu’elle possédait. Depuis quelque temps [MASK], parvenue à l’âge de dix-sept ans, commençait à sortir un peu de son indolence.
+
+['elle', 'Marie', 'Jeanne', 'Madeleine', 'Louise']	Roussette	C’étaient des sauts, des bonds, des cabrioles, images sans doute de ceux auxquels [MASK] et sa famille s’étaient livrées dans le combat qu’elles avaient eu ensemble à l’occasion de son chapeau. Tout à coup il lui sembla qu’on en voulait à sa coiffure.
+
+['chacun', 'Joseph', 'Marie', 'Jean', 'Paul']	Benoîte	Un énorme gigot attendait le moment d’être mis à la broche, et une paire de poulets, qui, quelques heures auparavant, faisaient encore entendre leurs joyeux cocoricos, étaient étendus sur la table à côté d’un lapin que [MASK] se disposait à dépecer.
+
+['qui', 'elle', 'Marie', 'maman', 'Sophie']	Cyprienne	L’enfant semblait heureux de la vie que sa sœur lui avait faite et [MASK], elle aussi, était heureuse du bonheur de son filleul. A cet âge l’avenir est si loin qu’il était bien naturel que la pensée de la petite fille ne se portât pas au-delà du présent.
+
+['elle', 'lui', 'Marie', 'tous', 'Jeanne']	Cyprienne	il y eut bien vite renoncé. La faveur qu’on lui accordait, en la choisissant pour marraine de son petit frère, avait été accueillie bien différemment par [MASK]. Elle en fut transportée de joie, si bien que le souvenir de ses chagrins s’effaça complètement.
+

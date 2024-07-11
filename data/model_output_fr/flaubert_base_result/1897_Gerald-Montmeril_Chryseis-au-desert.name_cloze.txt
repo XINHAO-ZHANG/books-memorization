@@ -1,0 +1,200 @@
+['un', 'une', 'son', 'le', 'des']	Annette	Elle envoya [MASK], et, prenant une mandoline oubliée dans le déménagement, alla s’asseoir dans le salon abandonné, couvert de housses grises, où le piano, emballé pour voyager avec ses maîtresses, avait l’air d’un monument d’un autre âge.
+
+['robert', 'alice', 'jean', 'john', 'jacques']	Merced	Mais elle regardait en dedans son âme haineuse et sauvage, et s’effrayait de la comparaison. « Ce que je te dis là, reprit [MASK], ce n’est pas, tu comprends, pour te faire la leçon : je suis trop peu de chose auprès de toi pour avoir une prétention pareille.
+
+['</s>', 'elle', 'qui', "c'", "qu'"]	Aouka	? Hélas ! hélas !... O mœurs des peuples libyo-punico-romano-vandalo-arabo-sahariens ! que vous êtes dures à qui doit vous étudier de près, à qui ne s’y est pas préparé par un entraînement suffisant ! [MASK] était sortie ;
+
+['elle', '</s>', 'on', 'il', 'et']	Chryséis	quant aux guerriers, ils ne rient jamais, mais on vit leurs yeux sourire. [MASK] vit qu’on se moquait d’elle, et sa rage redoubla. Elle frappa du pied, et s’avançant furieuse vers le cheik, lui mit sous le nez ses deux petits poings fermés.
+
+['elle', 'on', 'il', 'celle-ci', 'elle-même']	Chryséis	Le but qu’elle avait atteint n’était cependant pas tout à fait celui qu’elle poursuivait : [MASK] lui avait jeté les bras autour du cou, abandonnant tout orgueil et toute fausse honte, et elle pleurait de tout son cœur en répétant :
+
+['il', 'elle', 'celui-ci', 'et', 'jean']	Merced	?... j’allais l’assommer, ce que je regretterais maintenant, car, enfin, c’est une femme... et c’est votre voix seule qui m’a arrêté... Ai-je bien entendu ?... » [MASK] leva un regard anxieux sur son amie.
+
+['se', 'il', 'lui', 'en', 'on']	Chryséis	le colonel fit servir une collation, et [MASK] fit, bien à contre-cœur, une distribution de menus souvenirs. Une femme, qui portait aux oreilles de magnifiques pendeloques, s’empara, ravie, d’un crochet à boutons qui lui fit beaucoup d’envieuses ;
+
+['ainsi', 'moi-même', 'moi', 'vous-même', 'autrement']	Catherine	je ne m’appelle pas [MASK] ; ce nom m’est odieux et je vous l’ai fait savoir. Enfin s’il vous faut une explication plus complète, je vous répète que l’on a reconnu le danger qu’il y a dans un simple baiser qui peut communiquer les plus dangereux microbes.
+
+['mari', 'père', 'maître', 'cavalier', 'paysan']	targui	Elle en était, non au chapitre des chapeaux, où la ressemblance eût pu paraître illusoire, mais à l’article toilette cependant : à la blouse bleue de nos paysans, la blouse celtique, qu’elle retrouvait dans la longue chemise de coton bleu foncé que le [MASK] drape et serre autour de lui.
+
+['john', 'harry', 'joe', 'sam', 'major']	Jubier	— Ayez pas peur, mon colonel, répondit [MASK] ; m’est avis que rien ne consolera ces particulières comme une calebasse de tafia... » Et ce seul mot, en effet, avait suffi pour faire étinceler joyeusement, sous leurs larmes de commande, les yeux éteints des pleureuses noires.
+
+['tribu', ',', 'elle', 'qui', ';']	Chryséis	[MASK] avait été contrainte de tenir par le museau les moutons dont le boucher de la tribu faisait voler la tête à coups de sabre, et toute couverte des jets tièdes du sang des malheureuses bêtes, elle avait en vain demandé grâce.
+
+['</s>', 'elle', 'il', 'se', '-']	Aouka	Elle s’avança cependant, baissant la tête, et coulant sous ses cils noirs un regard à la fois farouche et craintif. [MASK] lui arracha le manteau des mains, regarda, et jeta une exclamation d’horreur, suivie bientôt d’un torrent d’injures et de cris de colère.
+
+['mots', 'génie', 'jeunesse', 'plus', 'vocabulaire']	Jubier	« C’est subséquemment l’interprète des dames du père Alioum-Lata, le grand sec qui tient comme qui dirait les magasins du Louvre de l’endroit. Elles s’offrent le plaisir d’une visite à ma jeune colonelle. » « Ma jeune colonelle » était une trouvaille de [MASK].
+
+['celle-ci', 'mina', 'dieu', 'maman', 'marie']	Chryséis	Les fillettes frémirent : cette opération était généralement une des plus belles occasions d’orage, et faisait régulièrement regretter à [MASK] la fameuse toilette des jeunes mehara, lesquels au moins ruaient et se défendaient, mais n’avaient ni langue ni fouet.
+
+['jeanne', 'elle', 'sarah', 'alice', 'adèle']	Merced	Mais toi, tu en serais peut-être morte. » ... Pendant trois jours, [MASK], enfiévrée et délirante, fut incapable de se tenir debout. Sa compagne connut alors toutes les joies de la vie d’esclave à tout faire dans une tribu du désert.
+
+['</s>', 'allez', 'alors', '!', '.']	Lanternois	jamais de la vie ! Un cotillon ; que je te dis, couleur de rose de mai ; je te prie de croire que je le connais depuis des jours et des jours que je le vois... [MASK], fourbissez votre gamelle, triple propre-à-rien que vous êtes !
+
+['et', ',', 'elle', 'la', 'en']	Rosita	[MASK], sur un mot, fort courtois d’ailleurs, de son époux, qui la regardait comme une espèce de fétiche, fit une belle révérence aux noirs, et s’éloigna, le livre en main, suivie de ses élèves.
+
+['la', 'un', ':', 'une', 'de']	antique	A quoi pense ce jeune homme ? » Mais elle se remit vite : « Après tout, se dit-elle, ce doit être dans sa pensée un terme de respect, comme patricien, dont la racine signifie père, ou archiduchesse, dont le préfixe archi correspond à [MASK]...
+
+['darwin', 'descartes', 'platon', 'flaubert', 'goethe']	Chryséis	Comme ils ruaient ! comme ils bondissaient, les jeunes mehara, exaspérés par la fatigue et l’ardeur du soleil ! Et quelle besogne, que leur pansage ! Ah ! ce n’était pas ainsi, certes, que [MASK] avait rêvé d’étudier la faune africaine !
+
+['la', "l'", 'une', '1', 'un']	Merced	O maîtresse ! murmura-t-elle. — Quoi ? fit hautainement la jeune femme en se retournant, le regard foudroyant. — Avez pitié d’elle, je vous supplie ! — De quoi se mêle l’esclave ? répliqua la femme du cheik en tournant le dos à [MASK].
+
+['napoléon', 'bonaparte', 'marie-louise', 'soldats', 'louis']	Chryséis	Et les jeunes officiers, qui, peu de temps auparavant, s’étaient tant amusés de l’arrivée et de l’extravagance de [MASK], se sentaient à présent tout impressionnés en présence de ces lambeaux, muets témoignages des souffrances de la captive, pressants appels à leur dévoûment, à leur courage.
+
+["c'", 'celle-ci', 'elle', 'jeanne', 'marie']	Rosita	Mais si elles avaient compté sur une bonne nuit, leur attente fut cruellement déçue. Les imprudentes avaient laissé les fenêtres ouvertes, pour respirer l’air frais de la nuit après la journée brûlante ; elles avaient gardé une veilleuse allumée parce que [MASK] était très peureuse.
+
+['marie', 'rose', 'jeanne', 'madeleine', 'celle-ci']	Chryséis	: « J’ai refusé... j’ai refusé le baiser de mon pauvre père !... Comme je suis punie !... » Ce n’était pas seulement au souvenir des siens que [MASK] s’attendrissait lorsqu’elle se croyait bien seule.
+
+['nettoyage', 'julien', 'restauration', 'travail', 'david']	Chryséis	Le pansage terminé — ce qui fut long et pénible, — l’autre partie de la besogne de [MASK] lui apparut, terrible, sous la forme d’une immense jarre, d’une taille invraisemblable, que toutes les tentes enviaient à cause de sa grandeur, et qui contenait le déjeuner des slouguis.
+
+['te', 'pour', 'et', 'me', 'en']	Sigisbert	... et comme je n’ai pas de fils, je reviens chez toi, [MASK], pleurer à jamais celui que j’ai perdu, en attendant que je le rejoigne, ce qui ne tardera pas, j’espère !... » Nouvelle explosion de sanglots, immédiatement imitée par les pleureuses.
+
+['et', 'encore', 'ensemble', ',', 'tout']	Gobain	— Deux sous de récompense à qui le retrouvera ! ajouta [MASK]. — Ça fait encore un objet perdu, quoi !... ce qu’il en pleut dans ce pays-ci !... Mon lieutenant ? — Qu’y a-t-il, sergent ?
+
+['lui', 'tout', 'dieu', 'moi', 'eux']	Chryséis	A ces dames en succédèrent d’autres, puis d’autres encore ; tout le faubourg Saint-Germain de la ville sainte défila devant [MASK], touchant à tout, admirant tout, et échangeant à haute voix des réflexions en arabe, à la grande mortification des Françaises.
+
+['travail', 'nuit', 'tête', 'ce', 'minuit']	Paul	Mais il avait affaire à forte partie, et le combat n’était pas égal. Le détachement de [MASK], s’il était plein d’ardeur et d’entrain, était par contre peu nombreux, et fatigué par la longue étape ; les Touareg étaient de robustes et vaillants guerriers
+
+[',', 'la', 'et', '...', 'elle']	Chryséis	« Qui es-tu ? dit [MASK] stupéfaite. Défais les nœuds tout à fait : ne comprends-tu pas qu’ils me gênent ? » Elle avait si Lien l’habitude de commander, l’aimable enfant, que le naturel reprenait tout de suite le dessus.
+
+['qui', 'il', 'elle', 'et', ',']	Catherine	[MASK] n’avait jamais aimé rien ni personne, sinon elle-même, comme il arrive aux enfants très gâtés qui ont toujours vu leurs souhaits prévenus, et n’ont jamais eu occasion de sacrifier quoi que ce soit à qui que ce soit.
+
+['convenance', 'langage', 'français', 'circonstance', 'goût']	Jubier	Très énergique au.fond, elle n’avait ni perdu connaissance, ni essayé de s’échapper du burnous ; elle sentait d’ailleurs que tout effort. pour se dégager serait inutile. Mais, pour employer un mot de [MASK], elle rageait en dedans, si l’extérieur était à peu près calme.
+
+[',', 'lui', 'se', 'il', 'me']	Chryséis	Tout à coup [MASK] releva vivement la tête : « Merced ! Merced !... une idée !... — Laquelle ? fit la petite prestement réveillée. — Ce couffin qui nous fait contrepoids, que contient-il ? — De la ferraille, de la vaisselle, des... Tu as raison !
+
+['ensemble', 'tous', 'et', 'partout', 'messieurs']	Catherine	Sans l’anneau de servitude, on ne les dompterait jamais. Mais que fait là cette petite ? — Elle garnit d’or le beau manteau dont tu m’as fait cadeau hier. Ici, [MASK] ! » La fillette sursauta. Elle n’était plus du tout à la situation
+
+['mais', 'tout', 'simplement', 'ceci', 'non']	Jubier	, voilà trois fois que je vous récupère la distance à mettre entre les tentes, et c’est comme si je chantais !... — Qu’est-ce que tu crois qu’elle nous dira ; quand on la retrouvera, si on la retrouve ? fit [MASK], n’insistant pas sur la question d’origine.
+
+['lui', 'moi', 'elle', 'nous', 'eux']	Aouka	Mais elle reçut en échange un magnifique soufflet, et elle constata avec amertume que c’était le troisième depuis la veille au soir : c’était trois de plus qu’en toute sa vie ! Elle avait donc les nerfs passablement tendus quand elle revint devant [MASK].
+
+[',', 'cela', 'celui-ci', 'il', 'elle']	Rosita	— Malborough ! » murmura [MASK] d’une voix qu’étranglaient à la fois l’émotion, et l’asphyxiante fumée des plumes de poulots qui se consumaient sans relâche aux psalmodies incessantes des sorciers. « Oui... oui... murmura le malade... Malborough !... »
+
+['marie', 'marguerite', 'jeanne', 'juliette', 'madame']	Aouka	Dans ses yeux durs, qui brillaient seuls entre les plis de son voile, passait une gaîté inaccoutumée en écoulant les reproches et les adjurations passionnées de la fillette. Il se pencha et dit un mot à [MASK], qui éclata de rire, et toutes les femmes firent chorus :
+
+['</s>', 'elle', 'il', '"', 'on']	Catherine	; elle avait laissé la petite Française méditer sur les vicissitudes de sa destinée et sur la manière de coudre un galon d’or, à points perdus, au bord d’un manteau de cérémonie. [MASK] essayait cependant, je dois le dire ; elle essayait en conscience.
+
+[',', 'bien', '...', 'donc', ':']	Lanternois	[MASK], animal ! criait ce dernier, est-ce ainsi qu’on enfonce un piquet ?... il est droit comme mon bras quand je me mouche... Eh bien ! mon vieux, nous voilà dans le sentier de la guerre, comme ils disent dans le Journal des Voyages...
+
+['m', 'mrs', 'faiblement', 'marcel', 'vivement']	Catherine	Comme il faut qu’elle se rende utile et qu’elle gagne au moins sa nourriture, elle va donner à manger aux slouguis et soigner les heugs, qui ont souffert de la chaleur et de la course de ce matin. — Les slouguis ! cria [MASK].
+
+['rodolphe', 'julien', 'paul', 'jean', 'marguerite']	Lucien	Ordonnant sans toucher à rien, elle faisait la très sincère admiration des deux sergents qui reconnaissaient en elle un instinct de commandement de premier ordre. « Peste ! c’était un peu nu, chez toi, disait cependant [MASK] à son ami ; cela va se meubler.
+
+['il', 'elle', 'on', 'chacun', 'lui']	Catherine	Je ne sais si la femme du cheik s’y prit maladroitement ou si elle y alla trop vite, mais il y eut une goutte de sang sur la collerette et [MASK] jeta un cri aigu. Et elle compta son quatrième affront.
+
+['celle-ci', 'la', 'henriette', 'caroline', 'florence']	Chryséis	Or, entre ces deux natures altières, d’orgueil égal, dont l’une commandait, dont l’autre était forcée d’obéir, c’étaient des chocs continuels, où la jeune femme déployait une rare habileté pour frapper aux endroits sensibles, et qui laissaient toujours [MASK] plus meurtrie et plus exaspérée.
+
+['autrui', 'dieu', 'tous', 'chacun', 'personne']	Merced	Seulement, à défaut de l’amitié, qui ne pouvait germer encore dans un cœur trop aride, un sentiment de justice, inné dans une âme au fond très droite, la forçait à rendre à [MASK], quand elle le pouvait, service pour service.
+
+['maurice', 'georges', 'julien', 'paul', 'jacques']	Paul	J’ai été, pour me procurer une distraction avouable, jusqu’à entreprendre de compter combien il y a ici d’autruches apprivoisées, sans queue, par conséquent. — Et tu en as trouvé ?... dit [MASK] en riant. — Trente-huit mille sept cent quatre-vingt-trois.
+
+['elle', 'il', '.elle', '...', '.il']	Chryséis	» [MASK] avait passé en silence son bras autour de la taille de la fillette : cette enfant lui paraissait maintenant si grande qu’elle n’osait lui répondre. Mais elle regardait en dedans son âme haineuse et sauvage, et s’effrayait de la comparaison.
+
+['il', 'maurice', 'robert', 'henri', 't-il']	Jubier	? — C’est vrai : je ne suis qu’un serin », reprit [MASK] avec conviction. Pendant ce dialogue, le noir continuait son récit avec une parfaite aisance, sautant sans scrupule du sabir au latin et du latin au dialecte des Bambaras ;
+
+[':', '"', '.', 'm', 'mrs']	Merced	... Je ferai comme il me plaira. — Ou comme tu pourras », se dit à part [MASK]. Et tout haut : « Tu as raison : je ne dis que des sottises. C’est que je n’avais pas eu à souper, l’autre fois.
+
+['elle', 'jeanne', 'il', 'jean', 'lui']	Chryséis	Elle n’était cependant qu’au début de ses épreuves : la jeune femme l’attira près d’elle, et, en un tour de main, lui enleva ses boutons d’oreille : [MASK], en effet, avait les oreilles percées.
+
+['"', '(', '·', ',', '[']	OChryséis	Mais le chef de gare en avait assez. Il fit poliment comprendre à son interlocutrice que l’heure du train arrivait, que ses devoirs le réclamaient, et il s’esquiva, promettant de leur envoyer « quelqu’un pour les conduire au palais du gouverneur ». «[MASK]
+
+['personne', 'mon', "quelqu'", 'mes', 'ton']	Aouka	Mais c’est pour te dire que je serais si heureuse, si heureuse, si tu voulais essayer de ne plus en vouloir à [MASK], et de ne pas t’aigrir et te désespérer sans cesse comme tu le fais.
+
+['monsieur', 'dit-il', 'oui', 'messieurs', 'madame']	Rozel	il y a belle lurette qu’on a dit que c’était la bouteille à l’encre !... » Cependant l’objection du lieutenant avait frappé le colonel. « Votre idée est bonne, [MASK], et vous prendrez, en conséquence, la conduite du détachement nord ;
+
+['le', 'robert', 'jacques', 'tom', 'john']	Chryséis	Cela ne veut pas dire qu’elle sera bonne pour toi, au contraire. — Elle me plaît aussi, répondit [MASK], les dents serrées, et si je pouvais l’étrangler de ma main, je n’y manquerais pas.
+
+['il', 'elle', 'et', 'chacun', 'on']	Chryséis	Pour occuper les jours d’attente, [MASK] eut une idée utile, contre son ordinaire : il faut dire que cette idée rentrait un peu dans celles qui lui étaient familières, sans quoi elle ne lui fût sans doute pas venue.
+
+['il', 'et', 'elle', 'on', 'qui']	Aouka	» [MASK] riait : « Ils sont difficiles ? — Tu ne peux pas te l’imaginer. Il n’y a point de cabrioles, de ruades, de passades qu’ils n’aient faites. Sans l’anneau de servitude, on ne les dompterait jamais.
+
+['son', 'sa', "l'", 'la', 'm.']	Chryséis	Cette dissertation fit, ce jour-là, beaucoup remonter la charmante femme dans l’esprit de [MASK], qui, l’ayant vue s’occuper de sa maison et de ses enfants, avait commencé par la regarder avec son dédain habituel.
+
+['t-elle', 'elle', 'catherine', 'georges', 'clotilde']	Chryséis	— Pauvre chérie, fit [MASK] en l’embrassant, tu n’es pas fille de militaire, toi !... c’est de famille, vois-tu, ces idées-là !... — Cela se peut... ah !... un soldat tué... là... tout près !
+
+['goethe', 'boileau', 'chateaubriand', 'pascal', 'rousseau']	Chryséis	; mais tu t’habitueras et nous causerons bientôt facilement. » « Tu t’habitueras ! » Cette idée saugrenue fit sauter [MASK] : « Je ne m’habituerai pas du tout, répliqua-t-elle sèchement. J’espère bien ne pas rester ici assez longtemps pour cela.
+
+['jacques', 'robert', 'jeanne', 'catherine', 'georges']	Chryséis	Je crois donc que nous ferons bien d’être très attentives à tout : d’abord parce que les maîtres sont bien plus méchants lorsqu’ils sont en guerre, ensuite pour profiter de la moindre occasion favorable. — Oui, murmura [MASK] ; tu dois avoir raison.
+
+['celui', 'celle', 'napoléon', 'dieu', 'tristan']	Jubier	interrompit le colonel. — Non, mon colonel, vers le sud... — Allons ! bon !... que faire ?... » Et, tout au bout du camp, on entendait la voix harmonieuse de [MASK] qui chantait à ses hommes une de ses plus belles romances :
+
+['marie', 'jean', 'jacques', 'tom', 'pierre']	Merced	« Ne la tuez pas !... ne la tuez pas !... » Et elle perdit connaissance pour tout de bon. Quand elle revint à elle, elle était dans les bras de [MASK], qui riait et pleurait à la fois en l’embrassant.
+
+['celle-ci', 'place', 'racine', 'tout', 'cela']	Merced	(Vous savez que c’était son idée fixe.) Et, prenant [MASK] par la taille, elle la fit pivoter sur elle-même et se mit devant, bravant la maîtresse. « Tiens ! frappe donc ! disait-elle toute crispée, frappe ! voilà de la chair française !
+
+['il', 'elle', 'et', 'on', '</s>']	Rosita	Ce refus avait consterné les sorciers, qui, à partir de ce moment, n’augurèrent plus rien de bon de l’état du malade. « Mironton... mirontaine... » balbutia le moribond. Le cœur serré, quoiqu’elle fût encore sans inquiétude, [MASK] reprit la chanson
+
+['alger', 'fès', 'constantine', 'tunis', 'oran']	Tombouctou	De la reine Rosita Tidi-Ha au colonel Sidi Verduron, représentant de la puissante République française à [MASK], son noble frère. « Mon bien-aimé Sigisbert, « Je ne veux pas qu’une autre plume que la mienne vous apprenne le grand changement qui s’est produit dans mon obscure existence.
+
+['il', 'elle', 'on', 'en', 'à']	Aouka	de la laisser seule toute la journée sans pouvoir la distraire, sans pouvoir éventer son front en feu, sans pouvoir presser sur ses lèvres le jus d’un de ces citrons doux qu’[MASK] suçait toute la journée. Rien pour la petite esclave dévorée par la fièvre, rien que de l’eau et encore
+
+['vite', '.', '!', '"', 'tôt']	Djaoud	la nourriture n’y fait rien ; ne tarabustez pas trop [MASK]. C’est le meilleur de la bande, du reste, et je flanquerai deux jours à l’imbécile qui vous l’a donné ; s’il s’emballait, nous ne serions pas capables de le rattraper,
+
+['ami', 'non', 'malheureux', 'toi', 'adieu']	Rose	Le dromadaire s’était agenouillé ; le colonel, prenant alors bravement son parti, s’approchait et recevait dans ses bras sa sœur qui faisait mine de s’évanouir. « Inutile, [MASK], lui dit-il avec beaucoup de calme ; tu le trouveras mal dans une autre occasion ;
+
+['-', '</s>', 'elle', '"', 'et']	Aouka	—Seulement elle voulut remettre ses bas. [MASK] se mit à rire : — songez quelle prétention ! des bas à une esclave ! — et d’un coup de son petit pied chaussé de babouches brodées d’or, elle envoya bas et bottines hors de la tente ouverte.
+
+['"', '.', '...', '?', '!']	Catherine	Cependant, quand elle sentit l’allure des bêtes s’accélérer, quand, se penchant hors du panier, elle vit la nature du terrain changer et les chameaux voler sur ce sol rocheux sans laisser plus de traces que les aigles dans l’air, elle se décida : « [MASK]
+
+['elle', 'on', 'tombouctou', 'marie', 'maman']	Catherine	dit-il d’une voix rauque : [MASK] est enlevée par des Touareg pillards ! Dieu veuille que nous la revoyions un jour ! » Et, après un court silence : « Et quand je pense, reprit-il en serrant les poings, quand je pense que c’est ta faute !
+
+['marie', 'jeanne', 'catherine', 'alice', 'marguerite']	Chryséis	: le désert frissonna tout entier aux notes joyeuses de la « Casquette », les Touareg bondirent sur leurs armes, et, sans explications préalables, une fusillade enragée éclata. « Mon père !... s’écria [MASK], qui se trouva debout, soudain ranimée.
+
+['il', '</s>', 'elle', 'et', '"']	Paul	il fait si chaud, dans ce pays-ci ! » [MASK] haussa les épaules en souriant : « Je crois plutôt, sergent, que nous ferons d’une pierre deux coups, et que nous en délivrerons deux pour une. La pauvre petite aura trouvé une compagne de captivité ;
+
+['il', 'cela', 'elle', 'ceci', 'ainsi']	Merced	« Tiens ! dit-elle en lui jetant un riche manteau de laine, j’ai compassion de ta faiblesse. Borde mon manteau avec ce galon d’or ; [MASK] fera ta besogne. Assieds-toi ici, sur ce tapis, et travaille devant moi.
+
+['enfin', 'puis', 'lui', 'encore', 'moi']	Jubier	« En avant ! mes amis, en avant ! » Et [MASK], remontant son sac d’un tour d’épaule : « J’ai idée que je vais lui rendre son cotillon, pour lors, et qu’elle n’en sera peut-être pas fâchée. »
+
+['"', '</s>', '...', '!', '-']	Picard	... Seulement qu’il était empaillé, le crocodile... Mais nos aventures, à nous, elles ne valent peut-être pas celles-là ?... Espèce de tête de veau ! [MASK], c’est à vous que je cause ! où allez-vous dresser cette tente-là ?...
+
+['té', 'k', 'd', 'dé', 'ta']	Jubier	[MASK] riait : « Ses jupes ! ses jupes ! mon vieux !... d’abord il en manquera une : le cotillon rose que j’ai eu celui de repriser avec tout l’art dont auquel je suis susceptible... — Le cotillon ? je croyais que c’était un casaquin ?...
+
+['elle', 'celle-ci', 'il', 'celui-ci', 'henriette']	Merced	... » A ce souhait sauvage, qui revenait sans cesse sur les lèvres de sa compagne, [MASK] frissonna : « Que tu es méchante ! ne put-elle s’empêcher de dire. — Et elle ? la trouves-tu bonne ?... fit sa compagne.
+
+[',', 'tout', "qu'", 'et', 'gabriel']	Chryséis	cria tout à coup [MASK] en reparaissant au-dessus de l’escalier. Vite !... vite !... » Et, prenant la main de son amie, elle l’entraîna dans la maison, disant affectueusement : « N’es-tu pas ma sœur, chérie ?... ma tante est la tienne par conséquent.
+
+['présent', 'moi', 'paris', 'lui', 'cheval']	Merced	Puis ce fut un lambeau d’étoffe, qui suggéra aux sergents la même idée qu’à [MASK] : « Tiens ! v’la qu’on joue au Petit Poucet ! » Puis on trouva un fragment de mouchoir marqué C. V., et l’on ne douta plus.
+
+['elle', 'lui', 'moi', 'toi', 'vous']	Merced	Elle m’a fait du bien en voulant me faire du mal, et si je suis moins mauvaise c’est à [MASK] et à elle que je le dois. Et maintenant laissez partir ce qui reste de la tribu, lieutenant, je vous en prie ;
+
+['la', 'une', "l'", 'cette', 'blanche']	Chryséis	, elles se soutenaient à peine ; les maîtres s’étaient montrés la veille plus durs que jamais, et [MASK], qu’un soufflet d’Aouka avait renversée dans le feu, les bras cruellement brûlés, le visage noirci, était presque méconnaissable.
+
+[',', 'georges', 'catherine', 'cela', 'tout']	Catherine	Il y a longtemps que j’aurais voulu le faire, mais je suis si ignorante, si sotte à côté de toi ! Et cependant je sens bien que je dois parler... — Quoi ? dit [MASK] avec impatience. Quelque chose de nouveau dans notre destinée ?...
+
+['elle', 't-elle', 't-il', 'alice', 'yumi']	Chryséis	... servante de la tribu ! s’écria [MASK] suffoquée. Mais tu devrais comprendre que je ne peux pas rester ici deux ans, ni servir ces gens-là, moi ! je n’ai pas été élevée pour cela. Comment peux-tu faire des comparaisons pareilles ?
+
+['jeanne', 'marie', 'marguerite', 'catherine', 'henriette']	Chryséis	; et d’ailleurs, il est inutile de chercher à vous installer, car je n’ai que faire de vous, et je compte bien vous renvoyer dans trois jours avec l’escorte ! — Nous renvoyer !... Dans trois jours !... s’écria [MASK] suffoquée.
+
+['celui', 'jeanne', 'celle', 'celui-ci', 'marie']	Catherine	— Ne me parle pas d’elle, je te le défends ! s’écria [MASK] dont les yeux brillèrent de colère. Elle qui m’a souffletée, qui me traite en esclave, elle qui t’a fait battre presque jusqu’à te tuer !... »
+
+['maman', 'papa', 'grand-père', 'jeanne', 'tom']	Chryséis	; et on se mit à décharger devant la demeure de l’officier les trois djemels 8 porteurs des six malles et des caisses pleines de livres, d’instruments, de bocaux du plus étrange aspect, sans oublier le piano de [MASK] et la guitare de sa tante.
+
+['elle', 'lui', 'nous', 'elles', 'moi']	Chryséis	? — Oui, je te remercie. Mais j’ai grand’faim. » Chez [MASK], l’estomac ne perdait jamais ses droits : elle estimait, avec assez de raison, d’ailleurs, que ceux-là sont au moins aussi imprescriptibles que les Droits de l’Homme.
+
+["c'", 'vous', 'tu', 'dieu', 'maman']	Rosita	« Ma chérie ! murmura-t-il en baisant la lettre de sa fille avant de l’ouvrir. Que [MASK] est bonne de me la garder si bien ! » Et en père gourmand qui garde le meilleur pour la fin, il ouvrit d’abord la lettre de sa sœur.
+
+['elle', 'lui', 'soi', 'elle-même', 'moi']	Aouka	La fillette continua à se taire : à genoux devant [MASK], comme l’avait surprise le premier coup, elle ne fit pas un mouvement, ne desserra pas les dents... ; la maîtresse frappait, de plus en plus furieuse ;
+
+['</s>', '...', '--', '"', 'il']	Chryséis	Qu’il est mauvais ! C’est l’ordinaire de chaque jour, cette espèce de nourriture ? — Je n’en ai pas toujours autant : il m’est arrivé de voler des os aux slouguis 17 . » [MASK] frissonna. Quelle vie allait être la sienne !...
+
+['on', '</s>', 'chacune', 'il', 'elle']	Chryséis	Dans l’espèce de panier où elles étaient blotties, balancées par le pas rythmé du vieux chameau, les petites causaient. [MASK] parlait le sabir maintenant, et, malgré ses hautaines protestations du premier jour, elle avait eu le temps de l’apprendre.
+
+['</s>', 'il', 'elle', '"', 'qui']	Jubier	Mais pour la tante, tu sais, je crois pas que c’est son évanouissement qui a fait maigrir le colonel. — Au contraire, ricana le sceptique Gobain, ça l’a peut-être aidé à digérer l’autre. » [MASK] rit sans répondre, et continua : «
+
+['vous', 'présent', '...', 'maintenant', 'égal']	Gobain	Mais, dès qu’il eut tourné le dos, elle revint aux soldats : « Jeune officier, dit-elle à [MASK], vous avez entendu : la tendre sollicitude de mon frère redoute pour une jeune dame comme moi les fatigues de l’expédition. Mais il me connaît mal
+
+[',', 'et', ';', 'mais', '-']	Chryséis	Laisse-moi dormir. » — Mais non... s’ils fuient, c’est qu’on les poursuit. — C’est Amilcar, murmura du fond de son rêve [MASK] qui dormait déjà. Il les attend au défilé de la Hache... — Mais non », fit encore
+
+['</s>', '"', '-', 'qui', ')']	Catherine	et qu’elle n’avait pas l’air commode, la fille du colonel ! Les voyages forment la jeunesse, dit-on, mais ils ne l’adoucissent probablement pas. [MASK] avait souffert de la chaleur, de la poussière, du « contact de gens mal élevés » ;
+
+['bien', 'mal', 'raison', 'dit', 'peu']	Annette	Regarde-moi cet amour de machine pneumatique : ne serait-ce pas dommage qu’il lui arrivât malheur ?... Prends donc garde ! tu vas mettre le pied sur mes éprouvettes... Tiens ! va-t’en ! tu me gênes. Envoie-moi plutôt [MASK] : elle est plus adroite que toi.
+
+['maman', 'voyons', 'mais', 'non', 'alors']	Sigisbert	la tienne, oui, la tienne ! que si tu l’avais élevée en femme raisonnable... — [MASK], interrompit la muse en se redressant en une pose tragique, ne brisez pas davantage le cœur maternel que j’avais pour votre fille.
+
+['...', '</s>', 'et', '--', '!']	Djaoud	! [MASK] qui revient !... Et toute une ambassade nègre, conduite par un sorcier qui tient comme qui dirait une lettre ! » Et en effet un cortège multicolore se déployait en demi-cercle devant le palais lézardé que le colonel avait choisi pour sa demeure.
+
+['ah', 'oh', 'quoi', 'hélas', 'non']	Catherine	... [MASK] !... » Mais la voix ne portait pas assez loin, sans doute, car le point rose ne témoigna point qu’il eût entendu. En ce moment, un piétinement de chevaux retentit derrière lui : c’était une ronde dirigée par le lieutenant Rozel.
+
+['homère', 'aristote', 'ailleurs', 'ici', 'après']	Homère	Telles on voit de tendres feuilles de laitue dans un panier à salade étincelant agité par une main vigoureuse, telle était la fille du colonel Verduron sur le cou du mehari de son ravisseur (ceci est une comparaison pastorale imitée directement d’[MASK]).
+

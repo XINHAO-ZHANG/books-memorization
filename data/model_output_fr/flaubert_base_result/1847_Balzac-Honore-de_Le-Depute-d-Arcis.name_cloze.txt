@@ -1,0 +1,200 @@
+['la', '13', 'da', 'l', '14']	Cécile	Ce nom fut donné par le comte de Gondreville, parrain de [MASK]. Si la mère s’était opposée à ce que sa fille reçût ce nom, elle aurait en quelque sorte confirmé les soupçons. Comme le monde veut toujours avoir raison, ceci passa pour une malice du vieux pair de France.
+
+['il', 'robert', 'jean', 'henri', 'paul']	Rastignac	Dans ce moment je ne peux donc rien pour vous, reprit [MASK], nous n’aurons pas le pouvoir dans six mois. Oui, ces six mois vont être une agonie, je le savais, nous connaissions notre sort en nous formant, nous sommes un ministère-bouche-trou.
+
+['?', '!', '.', '...', ',']	Antonin	Mon collègue de Bar-sur-Aube se plaindrait de moi si je ne faisais pas les mêmes efforts que lui dans le sens du gouvernement, et ta promesse est conditionnelle, tandis que ma destitution est certaine.– Mais je n’ai pas de concurrents…– Tu le crois, dit [MASK]
+
+['monsieur', 'messieurs', 'dames', 'bonjour', 'madame']	Achille	Bonjour, [MASK], dit-il en prenant un air dégagé, vous allez me tailler des croupières !…– Je ne crois pas que votre réunion soit une conspiration contre l’indépendance de nos votes, répondit le notaire en souriant. Ne jouons-nous pas franc jeu ?
+
+['</s>', 'il', 'elle', '--il', 'qui']	Grévin	Ce peu de paroles, dites avant la révolution de 1830, un an après la retraite du vieux notaire dans cette maison, explique son attitude végétative. [MASK] voulait vivre, il voulait mettre dans la route des grandeurs sa fille, sa petite-fille et ses arrière-petits-enfants.
+
+['...', 'quoi', 'dire', 'boire', 'manger']	Gondreville.–	Ne lui parle pas de moi ! elle ne viendrait point, propose-lui une place avantageuse…– Ah ! monsieur… j’ai servi à [MASK] Tu ne sais pas pourquoi ce message de Cinq-Cygne à cette heure, car il est neuf heures et demie…
+
+['fin', 'vous', 'et', 'monsieur', 'messieurs']	Maxime	; il sera intéressé à ce qu’on ne me paie pas en eau bénite de cour après le succès, et il poussera au mariage.– Vous êtes fin, [MASK], vous vous défiez de moi, mais j’aime les gens d’esprit, j’arrangerai votre affaire.
+
+['</s>', '?', '-', '"', '.']	Antonin	Comment ! [MASK], tu ne m’avais pas dit qu’il avait un tilbury, ce matin, quand nous avons parlé de ce conspirateur ; mais le tilbury, c’est une circonstance atténuante ; ce ne peut plus être un républicain…
+
+['chacun', 'celui-ci', 'lui-même', 'pascal', 'philippe']	Philéas	La vie qui abondait dans ses yeux bleus et enfantins ne démentait pas ce perpétuel et insupportable sourire.Cette satisfaction interne passait d’autant plus pour de la bienveillance et de l’affabilité que [MASK] s’était fait un langage à lui, remarquable par un usage immodéré des formules de la politesse.
+
+['il', 'dieu', 'qui', 'jéhovah', 'on']	Brutus	! Mettre la patrie avant la famille, c’est un si grand effort, que nous sommes toujours forcés, pour y arriver, de nous dire que du haut de son tribunal, [MASK] nous contemple, depuis deux mille cinq cents quelques années.
+
+['deux', 'plus', 'qui', 'trois', 'que']	Figaro	Depuis que nous savons nous faire des rentes, nous sommes [MASK], plus l’argent.– QuiErreur de L’Union : « Que » au lieu de « Qui ». gruges-tu donc ?– Il y a des courses où je gagne mille écus… sans vendre mon maître, monsieur…
+
+[',', '"', '(', 'libre', 'et']	Vinet	– Ah ! ah ! dit [MASK], vous rêvez encore aux inconnus, belle dame ?– Vous êtes un impertinent ; si je voulais, je vous ferais rêver de moi ! répliqua-t-elle. Ce matin donc, en me levant…
+
+['moi', 'lui', 'elle', 'vous', 'elle-même']	Beauvisage	Vous n’avez pas tellement faim, dit-elle en jetant les yeux sur [MASK], que vous ne puissiez attendre une demi-heure. Mon père a fini de dîner, et je ne peux pas manger en repos, sans avoir su ce qu’il pense et si nous devons aller à Gondreville.–
+
+[',', ':', '...', ';', 'et']	Beauvisage	Messieurs, dit l’avocat saisi par la cruelle interjection du petit notaire, l’honneur que vous faites à monsieur le maire, peut le surprendre sans l’étonner.– C’est cela, dit [MASK], je suis trop sensible à cette attention de mes concitoyens, pour ne pas en être excessivement flatté.–
+
+['le', 'm.', 'monsieur', 'madame', 'la']	Antonin	– Vous vous nommez Goulard ?… demanda l’inconnu d’une voix de tête.– Je suis le sous-préfet, monsieur… répondit [MASK] Goulard.– Votre père n’appartenait-il pas aux Simeuse ?… – Et moi, monsieur, j’appartiens au gouvernement, voilà la différence des temps…
+
+['il', 'on', 'ce', 'monsieur', 'celui-là']	Arcis	, le comte Maxime…– Et si monsieur veut prendre la qualité d’administrateur du chemin de fer, [MASK] sera content, et on peut l’amuser avec ce bâton flottant pendant quinze jours…– Non, je préfère la condition d’irrigateur, c’est moins commun…
+
+['.', '?', '!', ':', '...']	Philéas.–	Mon Dieu, je ne vous déshabitueraiErreur de L’Union : « déhabituerai » au lieu de « déshabituerai ». donc jamais de me tutoyer ? dit-elle en faisant un geste d’épaules assez significatif.– Jamais cela ne m’est arrivé devant le monde, depuis 1817, dit [MASK]
+
+['et', ':', 'que', 'seulement', ',']	Philéas	de même qu’il avait pris la jeunesse pour la force, et le bonheur pour le génie des affaires. Mais si [MASK] savait lire, écrire et bien compter, jamais il n’avait rien lu. D’une ignorance crasse, on ne pouvait pas avoir avec lui la plus petite conversation
+
+['et', ',', '/', ':', '...']	Ernestine	– Une chambre, maman ?… dit [MASK]. Le comte occupe trois chambres !… Le petit domestique, habillé tout en noir, est dans la première. On a fait comme un salon de la seconde, et l’inconnu couche dans la troisième.–
+
+[':', 'le', '.', ',', 'la']	Vinet	En or ! en or ! dit [MASK]. Quand les choses sont inconnues, il faut les imaginer de la plus belle qualité. Aussi, moi qui, je vous le déclare, n’ai pas vu ce monsieur, suis-je sûr que c’est au moins un comte…
+
+['il', 'elle', 't-il', 'je', ',']	Simon	Puis, quand il fut derrière la table, il ne vit pas cent yeux, mais cent mille chandelles. Enfin, le soleil lui parut jouer dans ce salon le rôle d’un incendie, et il eut, selon son expression, une gabelle dans la gorge.– Remerciez ! lui dit [MASK] à voix basse.– Messieurs…
+
+['elle-même', 'elle', 'lui-même', 'part', 'lui']	Rastignac	Mais n’est-ce pas me faire gagner mon procès que de me donner madame pour juge ?Le comte par un geste gracieux, amena la jolie comtesse auprès de lui ; elle écouta quelques mots, regarda sa mère, et dit à [MASK] :
+
+['homme', 'qui', 'lui', 'anglais', 'général']	Maxime	[MASK], un de ces hommes méprisés qui savent comprimer le mépris qu’ils inspirent par l’insolence de leur attitude et la peur qu’ils causent, ne s’abusait jamais sur sa situation. De là venait sa force. Les gens forts sont toujours leurs propres critiques.
+
+["qu'", ',', 'elle', 'et', 'que']	Cécile	; elle s’était habituée avec elle à une fausse sévérité qui lui permit de se faire obéir et de réprimer le peu de mal qui se trouvait dans cette âme.La mère et la fille ne s’étaient jamais quittées, ainsi [MASK] avait ;
+
+['elle', ',', 'il', 'qui', 'et']	Séverine	[MASK] trouva son père assis sur un banc de bois, au bout de sa terrasse, sous les lilas en fleur et prenant son café, car il était cinq heures et demie. Elle vit bien, à la douleur gravée sur la figure de son père, qu’il savait la nouvelle.
+
+['</s>', 'il', "c'", '--il', 'elle']	Maxime	il lui prouva que le pouvoir n’abandonnerait jamais un instrument solide et sûr, élégant et poli.– En politique, on ne fait chanter qu’une fois ! lui dit-il en le blâmant d’avoir fait une menace.[MASK] était homme à sonder la profondeur de ce mot.
+
+['pitt', 'bonaparte', 'lincoln', 'clemenceau', 'napoléon']	Napoléon	Les fautes de la chambre profiteront à une volonté qui, malheureusement, est tout dans la politique. Quand on est tout, comme fut [MASK], il vient un moment où il faut se faire suppléer ; et comme on a écarté les gens supérieurs, le grand tout ne trouve pas de suppléant.
+
+['dieu', 'lui', 'louis', 'se', 'celui-ci']	Séverine	Néanmoins, un mari capable de refaire son éducation et d’y effacer les traces de la vie de province, pouvait encore extraire de ce bloc une femme charmante. En effet, l’orgueil que [MASK] mettait en sa fille, avait contrebalancé les effets de sa tendresse.
+
+['il', 'et', ',', 'elle', 'qui']	Maxime	[MASK] possédait toutes les grâces et les noblesses physiques de l’aristocratie, encore rehaussées par sa tenue supérieure. Son visage, long et bourbonien, était encadré par des favoris, par un collier de barbe soigneusement frisés, élégamment coupés, et noirs comme du jais.
+
+['harry', 'john', 'sarah', 'alice', 'tom']	Maxime	– Mon cher, je suis trop nouvellement marié pour ne pas rentrer avec ma femme !– C’est-à-dire que plus tard ?… dit la jeune comtesse en se retournant et regardant son mari.– Plus tard, c’est la fin du monde, répondit [MASK].
+
+['elle', 'femme', 'en', 'qui', ',']	Cécile	[MASK] était d’ailleurs bien faite, d’une taille moyenne et parfaitement proportionnée. Elle avait tressé ses cheveux châtains, selon la mode de 1839, en deux grosses nattes qui lui accompagnaient le visage et se rattachaient derrière la tête.
+
+['-', 'et', '...', '--', '"']	Beauvisage	… Ce n’est pas bien, je ne suis pas contente de vous, vous voulez me cacher quelque pensée…– Qu’a-t-elle donc fait ? demanda [MASK] enchanté de voir sa fille si pimpante.– Ce qu’elle a fait ? je le lui dirai !
+
+[',', 'qui', 'il', 'elle', 'réponse']	Paradis	[MASK] se présenta si rapidement que l’inconnu lui dit : Tu écoutais !– Malgré moi, monsieur le comte ; les cloisons sont en papier… Si monsieur le comte le veut, j’irai dans une chambre en haut…– Non, tu peux écouter, c’est ton droit…
+
+['soi', 'lui', 'elle', 'eux', 'un']	Beauvisage	En entrant chez [MASK], on trouvait devant soi un péristyle où se développait, au fond, un escalier. À droite, on entrait dans un vaste salon dont les deux fenêtres donnaient sur la place, et à gauche dans une belle salle à manger dont les fenêtres voyaient sur la rue.
+
+['il', 'se', 'et', ',', 'qui']	Goulard	[MASK] résolut d’éclaircir par lui-même le mystère dans lequel s’enveloppait l’inconnu qui, physiquement, était enveloppé dans cette petite redingote en gros drap, appelée paletot, et alors à la mode. Un manteau jeté sur les pieds de l’inconnu comme une couverture, empêchait de voir le corps.
+
+['en', 'qui', 'que', 'et', "qu'"]	Simon	Que faut-il dire, [MASK] ? reprit-il tout bas.– Eh ! bien ? dit Achille Pigoult.– Messieurs, dit l’avocat saisi par la cruelle interjection du petit notaire, l’honneur que vous faites à monsieur le maire, peut le surprendre sans l’étonner.–
+
+['catherine', 'valentine', 'jacques', 'celui-ci', 'maurice']	Giguet	; mais– Et ma tante, qui sait que je suis sur des charbons ardents, et qui ne vient pas !… s’écria [MASK]. Oh ! voici trois heures qui peuvent compter pour trois années…Et son secret lui échappa !
+
+['la', 'm.', 'jean', 'françois', 'louis']	Jean	Depuis 1830, ils avaient vendu leur commerce de bonneterie à [MASK] Violette, un de leurs facteurs, petit-fils d’un des principaux témoins à charge dans l’affaire Simeuse, et ils avaient alors placé leurs capitaux, estimés à trois cent mille francs ;
+
+['il', 'elle', 'on', 'lui-même', 'm.']	Séverine	La vie de province et la mise un peu négligée à laquelle [MASK] se laissait aller, depuis dix ans, donnait je ne sais quoi de commun à ce beau profil, à ces beaux traits, et l’embonpoint avait détruit ce corps, si magnifique pendant les douze premières années de mariage.
+
+[',', 'il', 'et', 'qui', 'elle']	Pigoult	[MASK] s’élança vers la table à thé, s’y tint debout, les doigts légèrement appuyés sur le bord, et fit preuve d’audace, en parlant sans gêne, à peu près comme parle l’illustre monsieur Thiers.– Messieurs, ce n’est pas moi qui ai lancé la proposition d’imiter la Chambre
+
+['monsieur', 'henri', 'maurice', 'jeanne', 'madame']	Maxime	La puissance au maillot, c’est la Chambre des Députés, qui, n’étant pas contenue par une Chambre héréditaire…– Ah ! ah ! dit [MASK], vous êtes pair de France.– Ne le serais-je pas maintenant sous tous les régimes ?… dit le nouveau pair.
+
+['non', '--non', 'mais', 'certes', 'ça']	Cécile	Pourquoi ne penserais-je pas à lui ? demanda [MASK], ce n’est pas compromettant. Puis c’est, disent ces messieurs, ou quelque grand spéculateur, ou quelque grand seigneur… Ma foi ! l’un et l’autre me vont.
+
+['que', 'et', 'il', '...', '</s>']	Napoléon	Et c’est bien différent de mettre son nom au bas d’une page qui sera lue par un département, ou de parler à une assemblée. À ce métier-là, [MASK] lui-même a échoué. Lors du dix-huit brumaire, il n’a dit que des sottises aux Cinq-Cents.–
+
+['elle', 'il', 't-il', 'robert', 't-elle']	Achille	Un candidat se met sur la sellette, et, reprit [MASK] avec feu, j’ai le droit d’interroger sa vie avant de l’investir de mes pouvoirs. Or, je ne veux pas d’ingratitude chez mon mandataire, car l’ingratitude est comme le malheur, l’une attire l’autre.
+
+['il', '</s>', '--il', '"', 'elle']	Grévin	! [MASK] était alors âgé de cinquante ans, il craignait de mourir, il ne voyait plus jour, sous la Restauration, à marier sa fille à son goût ; car, pour elle, il avait de l’ambition.
+
+['je', 'il', 'jean', 'elle', 'qui']	Grévin	– Veux-tu la croix ? – Qué que j’en ferais ? répondit [MASK].L’un n’avait jamais failli à l’autre, tous deux s’étaient toujours mutuellement éclairés, conseillés ; l’un sans jalousie, et l’autre sans morgue ni prétention blessante.
+
+['marguerite', 'madame', 'henriette', 'louise', 'maman']	Vinet	QuiErreur de L’Union : « Que » au lieu de « Qui ». gruges-tu donc ?– Il y a des courses où je gagne mille écus… sans vendre mon maître, monsieur…– Enfant sublime ! dit [MASK].
+
+['celui', 'celle', 'pied', 'ceux', 'cheval']	Simon	Mais s’il était accepté, je crois qu’un mot suffirait pour le lui dire, répliqua le substitut.– Eh bien ! dirent à la fois les deux fonctionnaires à [MASK] qui venait sous les tilleuls.– Eh bien ! ma tante a bon espoir.
+
+['napoléon', 'louis-philippe', 'bonaparte', 'paris', 'balzac']	Cécile	Ses mains étaient gantées de mitaines en filet noir. Elle était chaussée de brodequins en peau bronzée ; enfin, excepté son petit air endimanché, cette tournure de figurine, dessinée dans les journaux de mode, devait ravir le père et la mère de [MASK].
+
+['il', 'elle', 'on', 'qui', ',']	Séverine	Mais [MASK] rachetait ces imperfections par un regard souverain, superbe, impérieux, et par une certaine attitude de tête pleine de fierté. Ses cheveux encore noirs, longs et fournis, relevés en hautes tresses sur la tête, lui prêtaient un air jeune.
+
+['famille', 'femme', 'baptême', 'bonaparte', 'jeanne']	Philéas	et comme il tenait de ses parents la bosse que les phrénologistes appellent l’acquisivité, son ardeur de jeunesse se porta sur ce commerce qui lui parut magnifique, et qu’il voulut agrandir par la spéculation.Ce prénom de [MASK], qui peut paraître extraordinaire, est une des mille bizarreries dues à la Révolution.
+
+['né', ',', 'qui', 'nommé', 'charles']	Simon	Le colonel avait eu, de 1806 à 1813, de sa femme, qui mourut en 1814, trois enfants, dont l’aîné, [MASK], survécut à ses cadets, morts tous deux, l’un en 1818, l’autre en 1825.
+
+['</s>', 'il', 'elle', 'et', '-']	Maxime	et, alors, il entra dans la conspiration sourde sous laquelle succombèrent les Bourbons de la branche aînée. [MASK] fit partie d’une association commencée dans un but de plaisir, d’amusement (Voir les treize), et qui tourna naturellement à la politique cinq ans avant la Révolution de juillet.
+
+['bussy', '-', 'napoléon', ':', 'chateaubriand']	Simon	– Chaque époque se résume dans un mot ! dit [MASK] à son père, en répétant une observation du vieux comte de Gondreville qui peint bien ce vieillard. Sous l’Empire, quand on voulait tuer un homme, on disait : – C’est un lâche !
+
+['hui', 'hier', 'si', 'demain', 'maintenant']	Cécile	! [MASK], c’est une immense fortune ! Aujourd’hui, la grande fortune, c’est le pouvoir !– Ah ! combien les temps sont changés ! Sous l’empereur, il fallait être brave !– Chaque époque se résume dans un mot !
+
+['je', 'william', 'tom', 'louis', 'george']	Séverine	Pendant que [MASK] traverse le pont en regardant si son père a fini de dîner, il n’est pas inutile de jeter un coup d’œil sur la personne, sur la vie et les opinions de ce vieillard, que l’amitié du comte Malin de Gondreville recommandait au respect de tout le pays.
+
+['le', 'un', "l'", 'ce', 'la']	Philéas	Aussi jusqu’en 1830, [MASK], qui trouvait à exercer ainsi sa bosse de l’acquisivité, gagna-t-il chaque année une somme équivalente à celle de ses dépenses, outre l’intérêt de ses capitaux, en faisant son métier en pantoufles, pour employer une expression proverbiale.
+
+['personne', 'aucun', 'chacun', 'tous', 'celui-ci']	Grévin	Les deux amis conservaient encore le tutoiement de leur jeunesse et la même affectueuse poignée de main. Jamais le sénateur n’avait fait sentir à [MASK] la différence de leurs situations ; il devançait toujours les désirs de son ami d’enfance, en lui offrant toujours tout, sachant qu’il se contenterait de peu.
+
+['marionnettes', 'cirque', 'rue', 'boulevard', 'wagner']	Guignolet	menace à la Cromwell qui, sans un Cromwell, ne pouvait aboutir, sous un prince ennemi de la fraude, qu’au triomphe du système actuel où les chambres et les ministres ressemblent aux acteurs de bois que fait jouer le propriétaire du spectacle de [MASK], à la grande satisfaction des passants toujours ébahis.
+
+['lui', 'moi', 'nous', 'vous', 'elle']	Arcis	Et dépasser le but, ce n’est pas y atteindre. Mais de quoi s’agit-il donc ? reprit-il en regardant son fils. Depuis deux jours vous attachez à cette candidature des idées… Si mon fils n’est pas nommé, tant pis pour [MASK], voilà tout.
+
+['le', 'm.', 'un', 'les', 'la']	ce	La maréchale est devenue dynastique, elle vous recommande chaudement et vous rejoindra d’ailleurs. Je ne vous ajouterai qu’un mot : défiez-vous du sous-préfet que je crois capable de se ménager dans [MASK] Simon Giguet un appui auprès de l’ex-président du conseil.
+
+['faire', 'dire', 'que', 'présent', 'cela']	Goulard.–	demanda-t-il à [MASK] Je suis le sous-préfet et je suis né dans le pays.– Eh bien ! comment peut-on y déjouer la curiosité ?– Mais en y satisfaisant. Ainsi, monsieur le comte a son nom de baptême, qu’il le mette sur les registres avec son titre.–
+
+['"', '-', '_', 'non', '...']	Beauvisage	Ne jouons-nous pas franc jeu ?– Franc jeu ! répéta [MASK].Et le maire se mit à rire de ce rire sans expression par lequel certaines personnes finissent toutes leurs phrases, et qu’on devrait appeler la ritournelle de la conversation.
+
+['elle', 'lui', 'elle-même', 'tout', 'son']	Arcis	Après un pareil mot, l’inconnu put garder près de lui, pendant deux heures environ, la maîtresse de l’hôtel, et lui fit dire tout ce qu’elle savait sur [MASK], sur toutes les fortunes, sur tous les intérêts et sur les fonctionnaires.
+
+['monsieur', 'jacques', 'm.', 'jean', 'pierre']	Gothard	Si vous me tourmentez, j’irai à l’hôtel de Poste, sur la place du Pont, et remarquez que je compte rester au moins quinze jours ici… Cela me contrarierait beaucoup, car je sais que vous êtes la sœur de [MASK], l’un des héros de l’affaire Simeuse.– Suffit, monsieur !
+
+['bussy', 'celui-ci', 'georges', 'julien', 'caroline']	Goulard	C’est bien, monsieur le comte, dit [MASK] en rendant les lettres.– Récapitulez toutes les voix dont peut disposer le ministère, et surtout n’ayons pas l’air de nous entendre. Je suis un spéculateur et je me moque des élections !…
+
+['</s>', 'il', 'elle', "qu'", 'on']	Séverine	Le bail finit le quinze juillet de cette année.[MASK] embrassa son père au front et sur les deux joues. Cette dernière révélation agrandissait tellement son avenir qu’elle eut comme un éblouissement.– Mon père, par mon conseil, ne donnera que la nue-
+
+['maurice', 'henri', 'albert', 'il', 'jean']	Rastignac	; sa mère sera riche, j’en ferai un diplomate, il pourra être ambassadeur.– Voici ma réponse, dit [MASK]. Il y a un combat, plus violent que le vulgaire ne le croit, entre une puissance au maillot et une puissance enfant.
+
+['famille', 'dieu', 'jésus', 'jeanne', 'marie']	Cécile	Afin d’éviter toute demande indirecte, et se soustraire à toute interprétation de paroles dites en l’air, la mère de [MASK] prit position à une table de whist, et s’enfonça dans une contention d’esprit à gagner cent fiches.Cent fiches font cinquante sous !
+
+['maurice', 'jeanne', 'catherine', 'henri', 'jacques']	Simon	Enfin, mon cher père, reprit [MASK], il s’agit de toute ma vie, de ma fortune, de mon bonheur… Tenez, ne regardez qu’une seule personne et figurez-vous que vous ne parlez qu’à elle, vous vous en tirerez…
+
+['</s>', 'il', 'paris', 'napoléon', 'bonaparte']	Napoléon	; il ne fit rien fabriquer, et se tint prêt à tout événement avec ses capitaux réalisés en or.À cette époque, les lignes de douanes étaient enfoncées. [MASK] n’avait pu se passer de ses trente mille douaniers pour sa lutte sur le territoire.
+
+['robert', 'celui-ci', 'jacques', 'olivier', 'john']	Simon	Oui ! oui ! cria-t-on d’une seule voix.– En conséquence, reprit [MASK], j’ai l’honneur de prier, d’après le vœu de l’assemblée, monsieur le maire, de venir occuper le fauteuil de la présidence.
+
+['il', 'on', 'et', 'elle', 'lui']	Antonin	S’il n’était pas assez fort en blason français pour connaître la maison qui portait cette devise, [MASK] pensa que les Cinq-Cygne ne pouvaient donner leur chariot, et la princesse de Cadignan envoyer un exprès que pour un personnage de la plus haute noblesse.–
+
+['elle', 'il', 'on', 'chacun', 'chacune']	Grévin	elles lui tricotaient des bas pour l’hiver, elles avaient pour lui les plus petites précautions, et [MASK] savait qu’il n’entrait dans leur affection aucune pensée d’intérêt ; le million probable de la succession paternelle n’aurait pas séché leurs larmes, les vieillards sont sensibles à la tendresse désintéressée.
+
+['cela', 'rien', 'tout', 'celle-ci', 'personne']	Séverine	En tout temps, il portait des bottes, un pantalon de drap bleu, un gilet blanc et un habit bleu, tenue encore exigée par sa femme. Son linge se recommandait par une blancheur et une finesse d’autant plus remarquée, que [MASK] l’obligeait à en changer tous les jours.
+
+['cela', 'ailleurs', 'tout', 'mademoiselle', 'bien']	Cécile	Le sous-préfet reçut cette double bordée en homme qui se sait trente mille livres de rentes, et qui attend une préfecture. – Mademoiselle a raison, répondit-il en regardant [MASK] ; mais elle est assez riche pour faire un mariage d’amour…
+
+[',', 'que', '(', 'dans', 'et']	Simon	Où donc est [MASK] ?– Il s’habille, répondit-elle. Il a bien fait de ne pas déjeuner, car il est très nerveux, et quoique notre jeune avocat ait l’habitude de parler au tribunal, il appréhende cette séance comme s’il devait y rencontrer des ennemis.–
+
+['elle', 'il', '.', 'madame', '-il']	Goulard	– Vous avez un domestique nommé Julien qui veut enlever la femme de chambre de la princesse de Cadignan ?…– Monsieur, je ne permets à personne de me parler ainsi, dit [MASK], vous méconnaissez mon caractère…– Et vous voulez savoir le mien !
+
+[',', ';', 'que', ':', '...']	Beauvisage.–	Il est bien intelligent, dit [MASK] Vous lui avez donné pour trente mille francs une clientèle et un établissement qui, certes, en valait cinquante mille, et en huit ans il ne vous a payé que dix mille francs…
+
+['qui', 'lui', 'et', ',', 'homme']	Grévin	[MASK], à l’instar de son ami Malin, paraissait plus végéter que vivre, il ne se montrait point, il cultivait son jardin, taillait ses arbres, allait examiner ses légumes, ses bourgeons ; et comme tous les vieillards, il s’essayait à l’état de cadavre.
+
+[',', ':', 'dans', 'par', '...']	Cécile	Forcée de rester ici tant que vivra son père, elle a reporté son ambition sur la tête de son futur gendre, et la belle dame rêve les splendeurs de la vie politique.– Aimerais-tu [MASK] ? dit le colonel à son fils.– Oui, mon père.–
+
+['chez', 'maître', 'l', 'm.', 'à']	Courtet	Il va venir vous apporter ses vingt mille francs. Voilà trois fois qu’il nous remet à trois mois, ne lui accordez plus de délais ; et s’il n’est pas en mesure, allez porter son billet à [MASK] l’huissier ; soyons en règle, prenez jugement.
+
+['</s>', '"', 'le', 'un', 'son']	Philéas	Seulement, en sa qualité de fils de fermier, il ne manquait pas du bon sens commercial. La parole d’autrui devait exprimer des propositions nettes, claires, saisissables ; mais il ne rendait jamais la pareille à son adversaire. [MASK], bon et même tendre, pleurait au moindre récit pathétique.
+
+['de', ',', ';', 'à', 'et']	Grévin	[MASK] lui, riche de quinze mille livres de rentes, possède la maison où il achève sa paisible vie en économisant, et il a géré les affaires de son ami, qui lui a vendu cette maison pour six mille francs.
+
+['...', 'comptes', 'compte', 'recette', 'commerce']	Poupard.–	Je suis un spéculateur et je me moque des élections !…– Je vais vous envoyer le commissaire de police pour vous forcer à vous inscrire sur le livre de [MASK] C’est très bien… Adieu, monsieur. Quel pays que celui-ci ? dit le comte à haute voix.
+
+['ce', 'lui', 'cela', 'celui-ci', ',']	Simon	Le comte n’aurait pas existé que [MASK] serait ce qu’il est : fils d’un colonel d’artillerie qui doit ses grades à ses services, un avocat dont les opinions n’ont pas varié. Je dirais tout haut au comte de Gondreville et en face de lui :
+
+['moi', 'toi', 'lui', 'elle', 'celui']	Mollot	Si je m’endors la première, oh ! j’ai le sommeil si dur que je n’entends rien, mais si c’est [MASK] qui part le premier, ma nuit est flambée…– Il y a le cas où vous partez ensemble !
+
+["l'", 'qui', 'et', 'dieu', '...']	Poupart	Mais oui, mon cabinet de toilette donne sur la place. Or, vous savez que [MASK] a mis l’inconnu dans une des chambres dont les fenêtres sont en face des miennes…– Une chambre, maman ?… dit
+
+['elle', 'il', ',', 'qui', 'tête']	Maxime	[MASK] avait un très beau front, les yeux bleus, un nez grec, une bouche agréable et le menton bien coupé ; mais le tour de ses yeux était cerné par de nombreuses lignes fines comme si elles eussent été tracées avec un rasoir, et au point de n’être plus vues à une certaine distance.
+
+['mort', 'penser', 'tuer', 'vivre', 'nuire']	Beauvisage	Ne trouvant rien à répondre à cette observation cruelle, il regarda les planches qui formaient le parquet du salon.Peut-être l’abolition progressive de l’intelligence et de la volonté de [MASK] s’expliquerait-elle par l’abus du sommeil.
+
+["c'", 'fillon', ':', ',', '"']	Simon	[MASK] est le candidat d’un parti qui veut renverser le ministère actuel et qui peut réussir ; mais pour des gens aussi intelligents que nous, il n’y a qu’un parti à prendre ?…– Lequel ?– Servir ceux qui font et défont les ministères…
+
+['pitié', 'tendresse', 'sympathie', 'compassion', 'respect']	Séverine	Le sentiment de [MASK] pour cet homme nul n’allait pas sans la pitié protectrice de la mère pour ses enfants. Elle déguisait la dureté des paroles qu’elle était obligée de lui dire, sous un air de plaisanterie.
+
+['il', 'on', ',', 'napoléon', 'bien']	Beauvisage	Enfin il apercevait, les jours d’audience, le mouvement de la Justice de paix et celui de la Mairie. Aussi [MASK] n’aurait pas troqué sa maison contre le château malgré son air seigneurial, ses pierres de taille et sa superbe situation.
+
+['tom', 'robert', 'john', 'joe', 'paul']	Philéas	Il était en habit et pantalon noirs, orné d’un superbe gilet blanc entr’ouvert de manière à laisser voir deux boutons de diamant d’une valeur de plusieurs milliers de francs.– Nous nous combattrons, et nous n’en serons pas moins bons amis, reprit [MASK].
+
+[':', 'oui', '"', 'à', '</s>']	Beauvisage	[MASK], qui ne se serait pas cruErreur de L’Union : « qui ne serait pas cru » au lieu de « qui ne se serait pas cru ». président s’il n’avait pas agité sa sonnette, augmenta le tapage en réclamant le silence.
+
+['elle', 'harry', 'alice', 'il', 'robert']	Antonin	Au-dessus de la robe de chambre, là où devrait être la tête, je vois une masse énorme, quelque chose comme un genou… Non, je ne peux pas vous dire quelle a été ma curiosité.– Je le conçois, dit [MASK].
+
+['celui-ci', 'henri', 'gaston', 'lui-même', 'monsieur']	Maxime	Quelques instants après, le valet de chambre introduisit [MASK] dans le cabinet où se trouvait l’homme d’État.– Mon cher, lui dit le ministre, je puis vous dire un secret qui sera divulgué dans deux jours par les journaux et que vous pouvez mettre à profit.
+
+['celui', 'celle', 'jeanne', 'ceux', ',']	Pigoult	Les affaires politiques ne marchent pas ainsi, car ce ne serait plus de la politique ! s’écria [MASK] dont le grand-père âgé de quatre-vingt-six ans entra dans la salle. Le préopinant décide ce qui, selon mes faibles lumières, me paraît devoir être l’objet de la discussion.
+
+['elle', 'se', 'la', 'qui', 'ne']	Cécile	aux jeunes filles.Vive, animée, bien portante, [MASK] gâtait, par une sorte de positif bourgeois, et par la liberté de manières que prennent les enfants gâtés, tout ce que sa physionomie avait de romanesque.
+
+['à', "d'", ',', 'de', 'plus']	Vinet.–	Ah ! cet homme est très fin, il nous mettra tous dans un sac, et nous vendra sur la place du Marché !– À qui ? demanda [MASK] À une affaire ! À une idée ! À un système ! répondit le notaire à qui le substitut sourit d’un air fin.–
+

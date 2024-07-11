@@ -1,0 +1,200 @@
+['elle', 'alors', 'esprit', 'amour', 'André']	Olympe	La pensée d’[MASK] me ramena au papier qui était sur mes genoux. Je le pris. Je crois pouvoir affirmer que c’était pour le jeter au feu. Il n’y avait pas de feu dans la cheminée.
+
+['madame', 'elle', 'monsieur', 'Madame', 'maman']	Jeanne	Le guichetier me fit un salut de connaissance et me répondit : – C’est elle qui voudrait bien avoir de vos nouvelles ! Je lui mis une pièce d’argent dans la main et il me promit de dire à [MASK] que je l’aimais toujours bien.
+
+['bien', 'les', 'toutes', ',', ';']	Olympe	Je défie bien qu’on me trouve quelqu’un pour rapporter que j’aie jamais dit un mot contre elle. Au contraire, je soutenais [MASK], les minettes aussi ; nous disions au garçon : tu n’as qu’à te baisser pour la prendre.
+
+[',', 'tout', 'bien', 'de', 'à']	Geoffroy	je disais encore : « Il fallait bien arracher le consentement de ma mère… » Votre dédaigneux silence m’écrasait… Oh ! [MASK], il y a un mot dégradant que nous connaissons bien, nous autres magistrats, et qui désigne au palais le plus lâche des crimes
+
+['bon', 'tout', 'bonne', 'de', 'Bon']	Geoffroy	Comme tu ris bien ! de bon cœur et de tout ! Moi, je ne ris plus jamais, [MASK], et pourtant, dans ta lettre, il y a une chose qui m’a fait sourire, c’est le paragraphe où tu me reproches mon silence.
+
+['</s>', 'elle', 'il', 'et', 'on']	Bébelle	D’ailleurs, c’est presque fini chez nous, car maman pleure. [MASK] n’en donnait que cela. Il y en a qui deviennent tout de même de chères créatures, mais je ne prends pas sous mon bonnet de recommander ce genre d’éducation aux familles.
+
+[',', 'ou', 'rêvé', '-', 'ne']	Lucien	[MASK] s’était-il trompé dans ce rêve non exprimé, mais qui perçait à chaque page de son récit : ce rêve d’un ami modèle – qui était moi – vaillant, dévoué, prêt à tout, ne devant reculer devant rien ? Hier, je ne sais pas.
+
+[',', 'me', '-', 'et', 'je']	Geoffroy	répliquai-je avec chaleur. – Aurais-tu fait comme moi ? – Certes, et de toute mon âme ! Il me saisit la main et la secoua fortement. – Je suis bien auprès de toi, [MASK], dit-il, je voudrais que tu fusses là toujours.
+
+['elle', 'vous', 'moi', 'Elle', 'je']	Olympe	? Si elle nous voit, elle doit être heureuse. Elle nous voit. Il me semble que je l’entends prier longtemps et ardemment pour [MASK]. Oh ! priez, mère chérie, portez votre prière jusqu’aux pieds de Dieu.
+
+['jeunesse', 'mon', 'ma', 'de', 'je']	Lucien	Et je n’ai pas de peine à cela. J’abdique mon restant de jeunesse, ma fortune qui m’a coûté si cher, ce qu’on appelle mes succès du monde, je renonce à tout cela, [MASK], en renonçant à ma dernière espérance.
+
+['elle', 'Elle', "c'", "C'", "j'"]	Olympe	Il y a des moments où je n’y crois pas, [MASK] est pour moi plus qu’une sœur. Il me semble que ma mère elle-même ne m’entourait pas de si exquises tendresses. J’avais été élevée à penser qu’elle nous méprisait pour notre infortune.
+
+['</s>', 'Elle', '.', 'Sa', 'La']	Bébelle	! [MASK], mon amie, était un bijou de sept ans, héritière unique du cinquième, sur le derrière. Son père, prote d’imprimerie, et sa mère, artiste en éventails, pouvaient passer pour des cœurs d’or, très vifs de caractère.
+
+[',', 'je', 'et', '-', 'mais']	Pélagie	J’entendais, mais j’avais peine à comprendre. [MASK] reprit en tirant de sa poche un bon gros talon de pain, coupé en deux et farci moitié beurre, moitié fromage : – On serait bien bête aussi de se laisser manquer, pas vrai, M. le juge ?
+
+['elle', 'Elle', 'Il', 'il', 'et']	Célestine	Les trois Thibaut, mère et filles – je vais vous reparler tout à l’heure de la famille, ma chère, – s’étaient fagotées de leur mieux. La bonne femme avait son fameux velours épinglé d’avant la première révolution. [MASK] portait la parure omnibus en petites pierres violettes : c’était son tour.
+
+['nous', 'moi', 'lui', 'eux', 'elle']	Nadar	Je n’ai plus jamais entendu parler de cela. En sortant de chez [MASK], nous prîmes une voiture sur le boulevard, et la métayère en ferma les stores, toujours par précaution, après avoir parlé bas au cocher.
+
+[',', 'de', 'le', 'me', 'mon']	Jeanne	Je prime tout le monde à ce qu’il paraît. Je suis sérieusement menacé de périr à la fleur de l’âge, étouffé sous une avalanche de millions. Et sais-tu que, si je mourais, ton affaire, [MASK], cesserait d’être une mauvaise plaisanterie
+
+["l'", 'la', 'ton', 'ta', 'ma']	Olympe	L’accusation vague – le fameux fragment – que tu auras dû trouver dans le dossier ne s’appliquait pas à lui nommément. Pourtant, il avait servi de tuteur à [MASK], mais seulement pendant les derniers mois de sa minorité, et en remplacement du premier tuteur nommé, qui avait disparu dans une fâcheuse affaire.
+
+['était', 'est', 'une', 'alors', 'avait']	Olympe	Au moment où je soulevai le marteau du vieil hôtel, laissé par feu M. le marquis à sa veuve, ma poitrine était si serrée que j’avais peine à respirer. Je ne sais pourquoi le souvenir du mari d’[MASK] passa dans mon esprit.
+
+['gauche', 'droite', 'maman', 'madame', 'femme']	Lucien	La main de [MASK] remuait les papiers du coffre, et il disait : – C’est ce mois-ci qu’elle va avoir ses vingt ans. Il ajouta d’un accent impatient : – Dis donc au moins comment tu la trouves ?
+
+['chacun', 'M', 'moi', 'M.', 'Mr']	Jeanne	et l’accent ? et l’ineffable harmonie de l’ensemble ? qui pourrait deviner cela ? – Moi, murmurai-je involontairement, les yeux toujours fixés sur le portrait de [MASK]. Certaines vues ont la faculté de produire, par l’intensité du regard, le phénomène stéréoscopique.
+
+['famille', 'mes', 'ma', 'tous', 'tout']	Jeanne	Je lui dois mon bonheur puisqu’il est le père de [MASK]. Il mourut un peu trop tard, perdu de dettes, et ne se doutant même pas qu’il avait mangé sa considération en même temps que ses rentes. J’allai à l’enterrement, où j’étais à peu près seul.
+
+['vous', '...', 'la', 'votre', 'lui']	Martroy	Répondez, s’il se peut, courrier pour courrier au sujet de [MASK]. Il n’y avait que lui – et vous… Vous, je ne peux vous soupçonner, puisque votre intérêt… Mais, brisons là. Il faudrait que vous fussiez atteint de folie.
+
+['tous', 'chacun', 'nous', 'vous', 'moi']	Jeanne	Elle a assuré à [MASK] des avantages que je ne veux même pas énumérer. Je fais serment devant Dieu que jamais un centime de cet argent n’entrera chez nous. Ma femme mangera mon pain et ne mangera que mon pain.
+
+['famille', 'France', 'souche', 'paysans', 'Lorraine']	Rollon	Je veux bien les mettre dans votre affaire, pourvu que je sois le caissier de notre société. Même quand ils se jettent par la fenêtre d’un cinquième étage, ces braves fils de [MASK] n’abandonnent jamais la prudence originelle. Vous jugez si les quatre associés firent la petite bouche !
+
+['elle', 'eux', 'un', 'elle', 'il']	Yvetot	Le bonhomme Jean Rochecotte était de chez vous, et tous ses héritiers demeurent autour d’[MASK]. Je prime tout le monde à ce qu’il paraît. Je suis sérieusement menacé de périr à la fleur de l’âge, étouffé sous une avalanche de millions.
+
+['vous', 'je', 'moi', 'que', 'et']	Lucien	Avec elle je n’ai pas eu de peine. Il n’y a rien de sa faute. Sait-elle seulement le mal qu’elle m’a fait ? Et vous, [MASK], et vous, saurez-vous jamais à quel point vous m’avez méconnue ?
+
+["c'", "C'", 'et', 'Quant', 'quant']	Geoffroy	Déjà dix fois, j’avais eu envie de me précipiter à ses genoux et de briser mon arme, en implorant sa pitié. Qu’aurait-elle fait si j’eusse capitulé ainsi ? C’est à toi que je le demande, [MASK] ; moi, je l’ignore.
+
+['lui', 'notaire', 'moi', 'commerce', 'France']	Lucien	Si tu m’avais demandé mon avis sur cette fille, je t’aurais dit qu’elle n’avait rien pour elle. Mais il est trop tard. Tu touches au dernier degré de la honte. Moi seule te reste fidèle. Pièce numéro 75 (Écriture de [MASK], sans signature.
+
+['il', "c'", 'Il', 'qui', 'lui']	Lucien	Au collège, [MASK] était incomparablement le plus beau d’entre nous, mais comme il faut, de toute nécessité, trouver quelque tache à toute œuvre de Dieu ou des hommes, nous lui reprochions volontiers la perfection même de sa beauté. C’était trop.
+
+['sirop', 'tout', 'jus', 'goutte', 'service']	Lucien	Partout où le Dr Chapart, quel que soit son vrai nom, débite son sirop, il y a odeur de séquestration. Depuis que j’avais passé le seuil de cette cellule, j’étais chargé de [MASK]. Je l’entendais, je l’acceptais ainsi.
+
+['elle', 'moi', 'Elle', 'Moi', 'lui']	Olympe	Et de la défiance aussi. Ce fut en me désignant un fauteuil qu’elle ajouta : – Êtes-vous donc toujours aussi timide qu’autrefois ? Je m’assis et je répondis : – Plus timide. Il y eut une pause. [MASK] aussi avait repris son siège.
+
+['autrefois', 'ici', 'Alsace', 'antan', 'Auvergne']	Yvetot	mais entrez tout de même, vous l’attendrez dans sa chapelle. En parlant ainsi avec le pur accent d’[MASK], elle m’avait pris par le bras, sans façon, et me poussait à travers un salon, riche en poussière, dont les meubles étaient dérangés à la diable.
+
+['</s>', 'il', 'elle', 'Il', 'Elle']	Lucien	Aux heures lucides, ils ne se souviennent jamais de ce qui a eu lieu pendant la crise. Pendant la crise ils oublient profondément ce qui s’est passé dans les heures lucides. [MASK] continua en touchant ma main sans la serrer.
+
+["s'", "l'", "c'", ',', 'se']	Lucien	Et comme, en cas pareil, on essaye volontiers d’oublier, j’avais écarté le côté tragique, me disant que [MASK] était sans doute dans quelqu’un de ces embarras auxquels chacun de nous est sujet et qu’on fait cesser soit par une démarche, soit par un prêt d’argent
+
+['/', 'ses', 'de', 'manche', 'manches']	Jeanne	Je ne connais pas, et que m’importe ? La situation à laquelle vous faisiez allusion tout à l’heure, mais la situation dont je vous parle, moi, est celle-ci : J’ai pu retirer [MASK] des mains de ses ennemis. Elle est chez moi…
+
+['monsieur', '_', 'Monsieur', '.', 'soit']	Pivert	mazette ! Il veut gagner un galon dans cette instruction-là. Tâchez de lui lever son gibier, [MASK]. Il a regardé ensuite la carte photographique, jointe au dossier et il a ajouté : – Quelle drôle de petite bonne femme !
+
+['si', '...', 'voyez', 'très', ',']	Cressonneau	C’est un original. Nous le verrons sous peu à la cour d’appel. Mais le fait est qu’elle est à croquer, dites-donc, [MASK], cette petite chacalo ! Quand vous l’aurez trouvée, n’allez pas vous laisser empaumer ! Foi de gentilhomme
+
+['cela', 'bien', 'seul', 'le', 'commencer']	Lucien	Quand tu verras [MASK], tu reconnaîtras cela d’un coup d’œil : il n’a plus d’âme. Était-ce là l’explication de ce grand poids qui, depuis mon arrivée, m’oppressait le cœur si lourdement ? Et fallait-il croire à cette définition que la folie donnait d’elle-même
+
+['toi', 'Toi', 'moi', 'nous', 'toi']	Bullier	! Toi ! tu comptais tes rêves par les contredanses que tu dansais, un soir au faubourg Saint-Germain, et le lendemain chez [MASK]. On aurait pavoisé toute une rue avec la guirlande de tes amours. L’as-tu oublié ? J’avais aussi mon rêve.
+
+['...', 'non', 'NON', 'POURQUOI', 'voilà']	Lucien	? J’étais à deux pas d’elle quand on lui a mis la main sur l’épaule. Elle a rougi un peu, puis pâli, pas beaucoup. Ce qui dominait en elle, c’était l’étonnement… Mais [MASK] !
+
+['Il', 'il', 'Elle', 'elle', 'On']	Olympe	C’était à ce point-là. Eh bien ! pas de ça. Lisette ! Le coquin m’aurait laissé mourir si j’avais été assez bête pour tenir ma parole. Il refusa mordicus. Il avait son trésor de petite Jeanne ; [MASK] ne pouvait qu’avoir tort.
+
+['il', 'Il', '</s>', 'ce', 'Rousseau']	Lucien	Il était quatre heures du matin, et le sommeil rôdait autour de mes paupières. [MASK] devait être en état de « métapsychie » quand il avait écrit cela. Il y parlait de lui-même à la troisième personne, avec la compassion qu’on éprouve pour un tiers, plus malheureux que coupable.
+
+['</s>', 'tout', 'elle', 'il', 'cela']	Dorothée	Quand on en mange trop, ce n’est plus bon du tout. [MASK] avait l’air d’une corbeille. La toilette ne lui va pas. Son mari n’est pas trop mal pour un blond fade, mais il a les oreilles désourlées.
+
+['...', 'en', 'à', 'de', 'se']	Sylvandre	… Depuis que j’ai vu [MASK] Me regarder d’un air tendre… Puis il me remit ma lettre en disant avec beaucoup d’aménité : – La conscience, Monsieur, sans laquelle je ne comprendrais même pas la profession, peut se contenter de vos explications ;
+
+['tout', 'ça', 'cela', 'je', 'Paris']	Lucien	; mais l’aiguillon ne m’avait pas encore piqué. La preuve, c’est que je me souviens de l’instant précis où ma curiosité, soudainement éveillée, secoua les langueurs de ma tristesse. Il pouvait y avoir une heure et demi que [MASK] dormait.
+
+["qu'", '</s>', ',', 'fille', 'et']	Fanchette	[MASK] elle-même se moquerait de moi et ce ne serait pas la première fois. (Tu comprends : marchande de plaisirs, en tout bien tout honneur, diable !) Si tu savais quels purs diamants il y a dans son sourire ! Le monde est bête à tuer.
+
+[',', 'tout', 'et', 'ou', ';']	Jeanne	J’aurais eu plaisir à voir l’éclat superbe de cette bouche, terni par la calomnie. Cependant, comme elle se taisait, je repris encore : – Mme la marquise, il ne me convient pas de vous interroger. Je connais [MASK] comme je connais l’âme qui anime mon propre corps.
+
+[',', 'le', 'de', 'la', 'ce']	Méricourt	– Maison du Dr Chapart M. Louaisot de [MASK] lut ces quatre lignes attentivement. Il me dit en me rendant le papier : – Il y a la conscience, Monsieur, et sans elle la profession serait ravalée indéfiniment. Je n’ai pas à vous faire subir d’interrogatoire ;
+
+['beauté', 'beau', 'belle', 'Beauté', 'la']	Jeanne	C’était vrai. Je la trouvais belle splendidement. Et quelque chose en moi, dès le premier moment, se révolta contre cette splendeur de beauté. Il me semblait qu’elle insultait ainsi à la détresse de [MASK].
+
+['ce', 'lui', 'son', 'la', 'tout']	Lucien	Assez là-dessus, sauf un mot : Quand ça fut venu, dame… ah ! ma chère ! Il s’agit de [MASK]. Est-ce que je ne le connais pas comme ma poche ? Est-ce que je n’ai pas épié le premier éveil de son cœur
+
+['brisée', 'cassée', 'usée', 'blessée', 'pleine']	Lucien	Ne craignez plus rien de moi, pas même un reproche. Je suis morte – morte. Vous avez brisé tout ce qui était en moi, espoir ou désir. J’ai l’âme broyée, [MASK]. Je n’y saurais même plus trouver de haine.
+
+[',', 'de', "l'", 'les', 'le']	Julie	[MASK] avait un paquet de myosotis qui criait à tous les messieurs : pensez à moi, pensez à moi, sur l’air des lampions ! Quand je songe qu’elles se donnaient les gants de nous fiancer toutes les deux, vous et moi, à leur grand nigaud de frère
+
+['que', 'chauffer', 'pourquoi', 'dire', 'feu']	Fanchette	L’agneau est bien malade, mais il guérira. Il cherche, il brûle. Il m’a proposé beaucoup d’argent, savez-vous pourquoi ? Pour retrouver [MASK]. Je vous dis qu’il brûle. Ce qui reste à fabriquer doit être mis en main lestement.
+
+['lui', 'moi-même', 'celle-ci', 'moi', 'cela']	Lucien	Je connaissais l’existence de la tragédie. Ma première sensation morale fut l’étonnement de reconnaître si tard en moi la présence d’une curiosité arrivée à l’état de fièvre, mais qui était restée comme assoupie tant que j’avais été en présence de [MASK].
+
+['elle', 'me', 'nous', 'Elle', 'on']	Pélagie	! Pendant que la minette était à la maison, [MASK] l’a confessée. Nous avons eu le nom du brocanteur qui avait acheté l’objet. Alors, pas et démarches d’abord infructueux, puis couronnés de succès. J’ai la boîte à ouvrage depuis hier.
+
+[',', "s'", 'qui', 'en', 'est']	Lucien	[MASK] est juge. Ces messieurs savent tant de choses ! Écrivez-moi beaucoup, beaucoup, sans négliger de bien danser à la noce. Un mot bien senti sur les toilettes qu’il y aura, s’il vous plaît. P. S.
+
+['davantage', 'plus', 'moins', 'ridicule', 'alors']	Geoffroy	Oui, certes, je suis de cet avis. Et ce qui me blesse davantage, il y avait aussi quelque chose de ridicule. Mais si vous étiez scandalisé, [MASK], ou s’il vous arrivait de railler, je ne vous pardonnerais de ma vie.
+
+['…', '-', '...', '_', ',']	Jeanne	D’autant que, pour tomber dans ce piège, il lui avait fallu me croire capable d’écrire une lettre pareille. La personne qui avait imité ma signature, me regardant comme un idiot, avait cru faire preuve d’adresse en me prêtant ces platitudes. Mais [MASK] !
+
+['oui', 'cela', 'non', 'enfin', 'alors']	Geoffroy	Est-ce clair, à la fin ? Ah ! je ne sais. Je désespère d’exprimer cela par des mots. Essaye de comprendre, [MASK], je t’en prie, car c’est bien cela : j’étais un autre. Un autre qui ?
+
+['ton', "l'", 'ta', 'mon', 'son']	Lucien	(Le mot espérance était souligné au crayon, sans doute de la main de [MASK].) Il faut que j’en parle encore : oui j’avais fait un beau rêve autrefois, et je crois qu’il aurait été assez de ton goût, mon coquin !
+
+['mon', 'ma', 'mes', "l'", 'la']	Lucien	! mais comment s’y prendre ? Les garçons timides comme lui vont tout droit aux femmes avec qui on ose. C’est la nature. On devrait la supprimer, ça donne trop de tracas aux mères. Je ne peux pas en vouloir à [MASK], moi.
+
+['Il', 'Je', 'il', 'je', 'Mais']	Lucien	mais il continuait de s’agiter. Je restai, moi, sous le charme de cette vision, car l’inconnue était d’une beauté rare. Je m’étais donc trompé : [MASK] n’était pas abandonné. Pourquoi n’éprouvais-je aucun plaisir à me dire cela ?
+
+[',', 'la', 'TH', 'en', 'NE']	Lucien	C’est si vrai, [MASK] ! Sans elle, nous serions encore tout au fond de notre misère. Aussi, dès que je suis seule, une foule de questions se posent au-dedans de moi-même. La nuit, je les écoute comme des refrains
+
+[',', 'se', 'le', 'de', "'"]	Geoffroy	! Je voudrais tout rejeter sur la maladie de mon cerveau ; et peut-être en aurais-je le droit, selon le monde, mais au-dedans de moi un reproche s’élève que je ne puis pas étouffer. [MASK], j’ai mal fait…
+
+['souvent', 'toujours', 'encore', 'parfois', 'quelquefois']	Geoffroy	? Je demandais un frère autrefois. Un frère me dirait que je me perds, ou peut-être que je le déshonore. Qui sait ? je ne veux pas de frère. Je t’écris encore, [MASK], mais c’est parce que tu ne me répondras pas.
+
+['maintenant', 'Monsieur', 'jamais', 'monsieur', 'désormais']	Geoffroy	Il me tendit la main. – Je n’espérais plus vous voir, [MASK], me dit-il. Je vous ai longtemps attendu. Manifestement, il ne se souvenait pas de m’avoir vu tout à l’heure. Ceci rentre dans l’ordre des faits admis scientifiquement.
+
+['toi', 'tu', 'te', 'toi-même', 'alors']	Geoffroy	Il fronça le sourcil avec colère. – Toi, [MASK], demanda-t-il, est-ce que tu aurais écouté la voix du métier plutôt que celle de ta conscience ? – Dis-moi, dis-moi, m’écriai-je, que tu parvins à la sauver !
+
+['On', 'Il', 'on', 'il', 'Elle']	Lucien	Tu pourras nous être très utile et il avait compté sur toi. Sa voix baissait peu à peu, arrivant au ton de la confidence. – C’est, continua-t-il, une affaire assez malaisée. Beaucoup de circonstances un peu extraordinaires, [MASK] s’y perd.
+
+['elle', "j'", 'on', 'il', 'nous']	Jeanne	– Non, non, mes amis, ce n’est pas moi qui la condamnerai. La fermière me demanda : – Comment ferez-vous, M. le juge, si elle est coupable ? Je me rendis à la porte de la prison pour savoir si [MASK] avait bien dormi.
+
+['plus', 'très', 'fort', 'tout', 'bien']	Lucien	Dit-il trop ou ne dit-il pas assez ? Je retrouvais [MASK] rajeuni, après ces dix années qui faisaient juste le tiers de notre âge à tous les deux. L’homme de trente ans m’apparut sous un aspect plus juvénile que l’adolescent achevant sa vingtième année.
+
+['de', 'votre', 'me', 'ma', 'vous']	Geoffroy	J’y mets sans doute trop de ménagements par la frayeur que j’ai de passer pour un homme en état de démence. Et n’est-ce pas déjà folie, [MASK], que de compter à ce point sur une amitié que vous ne m’avez jamais jurée ?
+
+[')', 'la', 'référence', '"', 'circonstance']	Lucien	Comme je n’avais pas avancé la main pour prendre la feuille de papier pliée en quatre, il la glissa sur mes genoux. Puis il me laissa seul. Pièce numéro 30 (Écriture de [MASK], suite du précédent.) J’ai dormi, cela ne m’a pas reposé.
+
+['mon', 'ma', 'mer', "l'", 'tête']	Lucien	Était-ce là l’explication de ce grand poids qui, depuis mon arrivée, m’oppressait le cœur si lourdement ? Et fallait-il croire à cette définition que la folie donnait d’elle-même ? Le malade poursuivit tranquillement. – C’est là le mal de [MASK].
+
+['on', 'il', 'qui', 'elle', 'le']	Lucien	Ce mariage, du reste, dont il fut question très longtemps après notre séparation – vers 1863, je crois – ne se fit pas. Mon avis n’y avait point été favorable, quoiqu’il s’agît d’une amie d’enfance dont [MASK] nous avait rebattu les oreilles dès le collège.
+
+['on', 'ce', 'On', 'Ce', 'qui']	Fanchette	Je ne veux pas du moins vous leurrer, et je vous dis franchement : il faut chercher ailleurs. [MASK] n’est pas chez nous. Je suis d’autant plus triste d’avoir si mal réussi – remarquez l’habileté de la transition – que j’avais un service à vous demander.
+
+['elle', 'il', 'Elle', 'on', 'ELLE']	Olympe	Mais l’imprévu plaidait pour elle avec un égal succès. En admettant purement et simplement qu’[MASK] était le mauvais génie planant au-dessus de tous ces malheurs, la chose allait trop droit. Ceci n’implique aucune contradiction avec le principe posé par moi tout à l’heure.
+
+['moi-même', 'lui', 'tout', 'moi', 'choses']	Lucien	– c’est à peine si j’avais essayé de réfléchir. En somme, j’avais été pris par surprise. Malgré le peu que je savais d’avance sur [MASK], je ne m’attendais à rien de ce que je venais de voir et d’entendre.
+
+['elle', 'il', 'on', 'Elle', 'elle-même']	Olympe	Il parait qu’elle a été bonne, empressée, ravissante de zèle charitable, et même… Je peux bien être franc, puisque ma lettre ira où les autres sont allées : au mur. Il parait même qu’[MASK] a été mieux encore que cela.
+
+['M.', 'Jean', 'le', ',', 'monsieur']	Guzman	Mon premier mouvement était de partir ainsi du pied gauche pour me précipiter chez la marquise. La réflexion seule me suggéra l’idée qu’il était bon de passer au moins mon pantalon et de chausser mes bottes. Je sonnai. J’ai un valet de chambre qui s’appelle [MASK].
+
+['vie', 'rêve', 'femme', 'pensée', 'beauté']	Lucien	C’était elle, la femme voilée qui m’était apparue sous l’auvent de l’Opéra, et dont j’avais distingué les traits au moment où elle descendait les marches. Certes, c’était bien elle… Les rêves sont ainsi. La forme de [MASK] s’effaça.
+
+['personne', 'ne', 'on', 'personnes', 'Personne']	Olympe	Mais des râpes dans la bouche. Alors, [MASK] m’ayant remis à ma place, je cherche comme un malheureux. Personne ne m’a dit : « Marie-toi », mais je sens qu’il faut me marier. Il le faut. C’est la loi.
+
+['personne', 'un', 'Dieu', 'homme', 'elle']	Olympe	. Oh ! priez, mère chérie, portez votre prière jusqu’aux pieds de Dieu. J’ai beau regarder en arrière, je ne vois qu’[MASK] qui m’ait été secourable. Priez, ma mère, payez la dette de votre fille !
+
+['on', 'il', "qu'", 'qui', 'le']	Pélagie	Le rire éclairait ses traits vulgaires d’une lueur qu’on pourrait qualifier d’ignoble. Mais son bel œil flamboyait héroïquement derrière ses lunettes. – Après la conscience, reprit-il d’un ton de professeur, ce qu’il faut dans notre état, c’est la décence. [MASK] vous aura scandalisé.
+
+['vous', 'la', 'toi', 'lion', "l'"]	Lucien	… je ne vous ai pas parlé de [MASK]. Un lion, ma chère ! Il a rugi, cet ancien mouton ! Il a saisi le commissaire de police à la gorge ; j’ai vu le moment où il allait l’étrangler.
+
+[',', 'S', 'à', 'de', '(']	Thibaut	Comme il vous lâche cela la bouche ouverte ! Eh bien ! ma parole, je ne déteste pas ça. Nous sommes de la jeune magistrature. Toutes les vieilles précautions oratoires nous ennuient et nous dégoûtent. Moi, par exemple, si je l’appelais Mme [MASK]…
+
+[',', 'me', 'lui', 'je', 'vous']	Guzman	Mon coup de sonnette l’avait pris entre deux petits instants, à la minute précise où, ayant achevé trente points, il n’avait pas encore commencé les trente autres. La conversation suivante s’engagea entre nous. – Habillez-moi un peu vite, [MASK], dis-je.
+
+['foin', 'fer', 'paille', 'chêne', 'bois']	Jeanne	! Le jeudi enfin, – qui était hier, – après avoir passé une demi-heure agenouillé devant la paillasse de [MASK], je pris mon courage à deux mains, et je partis pour l’hôtel de Chambray, ganté de frais, mais la mort dans l’âme.
+
+['la', 'ma', "l'", 'mon', 'plai']	Lucien	Ceci répondait à un désir qui était si vif en moi que je sautai hors de mon lit, éparpillant sur le parquet les pauvres pièces du dossier de [MASK]. Mon premier mouvement était de partir ainsi du pied gauche pour me précipiter chez la marquise.
+
+['une', 'origine', 'un', 'Alger', 'antan']	Olympe	moi, j’ai déjà jeté vingt fois ma langue aux chiens. Nous ne sommes pas dans le pays des Mille et une nuits. Chez nous, ce qui est a sa raison d’être. On s’y perd, surtout ceux qui connaissaient, comme nous, l’ancien caractère d’[MASK].
+
+['ses', 'mes', 'son', 'sa', 'ma']	Lucien	Croyant la servir, je fis un mouvement pour éveiller [MASK], mais elle joignit aussitôt les mains d’un air suppliant. Je me levai et j’allai vers elle. – Laissez-le reposer, balbutia-t-elle, je ne lui veux rien, sinon le voir.
+
+['Elle', 'qui', 'elle', 'Qui', "C'"]	Sidonie	Tout le monde lui plaît. Il faut penser à ta timidité. [MASK] est si bonne, si bonne, si bonne qu’on y entre comme dans du beurre, mais une conduite ! Tu vois, je l’ai mise la première. C’est presque ma candidate.
+
+['S', 'L', 's', '...', 'M']	Méricourt	On nous avait bien dit que vous étiez un agneau. Alors asseyez-vous et gobez le marmot en pensant à votre bergère. À vous revoir. Elle sortit, claquant la porte à tour de bras. J’étais seul dans le cabinet de M. Louaisot de [MASK] ;
+
+['Non', 'Mais', 'Oui', 'Sire', 'Alors']	Geoffroy	Je ne suis pas encore mort. Puisque je pense, je puis agir… mais… mais… Il s’interrompit de nouveau et finit par balbutier si bas que j’eus peine à l’entendre : – [MASK], c’est que je ne sais pas bien qui je suis.
+
+['Louis-Philippe', '1830', '1848', 'Saint-Louis', 'Juillet']	Voltaire	De la vraie, de la vieille. Si nous n’avons pas été aux croisades, c’est que nous étions libéraux un petit brin déjà dans ce temps-là. Pas des rouges, mais le drapeau de [MASK] et Louis-Philippe.
+
+['elle', 'il', 'on', 'Elle', 'qui']	Bébelle	J’étais sûr de mon affaire, [MASK] voyait tout. – Parbleu ! me répondit-elle. Elle ajouta : – Puisque je revenais du lait, avec la boîte. – Pourrais-tu me dire comment il est fait ?
+
+['tablette', 'légère', 'main', 'bonne', 'même']	Normande	Le vent de la porte brusquement poussée par la [MASK], avait soulevé une feuille de papier blanc posée sur le devant de la tablette. Et la feuille, en s’envolant, avait découvert un agenda d’où sortait, en manière de signet, un portrait-carte photographié.
+
+['Tout', 'Mon', 'Ma', '...', 'Et']	Lucien	Tout ceci fut dit avec une extrême simplicité. J’avais écouté, retenant ma respiration. Ma poitrine était serrée si violemment que ma gorge restait incapable de livrer passage à un son. [MASK], attendait pourtant une parole. Il fronça le sourcil avec colère.
+
+['Il', 'il', 'et', 'qui', 'II']	Lucien	Le droit d’être joli à ce point-là n’appartient qu’à l’autre sexe. [MASK] avait la bravoure d’un lionceau. Il était magnifique quand il se ruait sur le tas des railleurs. Il châtiait surtout sévèrement ceux qui affectaient de le traiter en demoiselle.
+
+['il', 'qui', 'elle', 'Il', 'Elle']	Guzman	Et sincèrement fort à la poule. [MASK] était là par hasard. Mon coup de sonnette l’avait pris entre deux petits instants, à la minute précise où, ayant achevé trente points, il n’avait pas encore commencé les trente autres. La conversation suivante s’engagea entre nous.
+
+['QUI', ',', 'LES', 'LE', '...']	Jeanne	Veux-tu voir [MASK] ? Ces derniers mots me donnèrent un tressaillement. Je ne sais pourquoi ils ramenèrent devant mes yeux l’image charmante de l’inconnue qui tout à l’heure s’était montrée au seuil de l’appartement voisin.
+

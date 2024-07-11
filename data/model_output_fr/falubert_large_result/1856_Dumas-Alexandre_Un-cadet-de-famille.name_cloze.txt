@@ -1,0 +1,200 @@
+[',', 'de', 'et', 'en', 'à']	Walter	— Venez me voir, reprit [MASK], nous parlerons de vos projets, et rappelez-vous bien que, quelle que soit la différente direction que nous donnerons à notre vie, nous serons toujours des frères. Prenez ce livre, ami, il m’a rendu presque incapable de remplir ma nouvelle profession
+
+['tous', 'lui', 'Dieu', 'elle', 'eux']	Joseph	Voici vos billets de banque. La vue de l’argent me grisa la conscience ; je le pris de ses mains et nous déchirâmes la lettre. Généreusement aidé par [MASK], j’eus bientôt dépensé un trésor que, sur le premier moment, j’avais jugé inépuisable.
+
+['Feu', 'feu', 'NON', 'F', 'chaud']	Georges	; à son entrée, le vent s’engouffra par la porte et augmenta rapidement l’intensité du feu. — [MASK], criai-je au domestique, dont la peur avait paralysé les mouvements, vous m’avez dit que, malgré le froid, je me passerais de feu
+
+['se', 'tomba', 'fut', 'soirée', '21']	Ruyter	La nuit se passa dans le calme ; mais au point du jour de [MASK] prit la résolution de couler à fond le Malais. Nous nous y résignâmes en faisant feu sans relâche avec nos plus grands canons. Des symptômes d’incendie se manifestèrent ;
+
+['il', "l'", 'on', 'nous', 'Il']	Louis	Nous le hissâmes sur le pont, et [MASK] eut bientôt taillé sur ses côtes un plat de côtelettes. — Ma foi, il a mérité sa mort, dit le munitionnaire en montrant les restes d’une jaquette de matelot enfouis dans l’estomac du monstre.
+
+['les', 'le', 'Ali', 'la', "l'"]	Aston	; parallèle à la côte malaise, qui est très élevée, elle est entourée d’un canal qui offre aux vaisseaux un magnifique port. Bien décidé à accompagner [MASK], j’équipai le proa avec six Arabes et deux Malais (ils devaient cacher leurs armes).
+
+['Laure', 'Marie', 'vieillard', 'Marguerite', 'Isabelle']	Zéla	Quand enfin il me fut permis de voir la radieuse splendeur des grands yeux noirs de [MASK], mes membres chancelèrent, mon cœur palpita convulsivement, et, les deux mains de la jeune fille enfermées dans les miennes, je restai pendant un quart d’heure dans l’extase d’une adoration absolue et muette.
+
+['Il', '</s>', 'Elle', 'il', 'elle']	Walter	Sa lecture convient aux hommes qui ont une âme comme la vôtre. Il faut que j’essaie de l’oublier ; mais qui peut détourner son esprit des charmes de la vérité ? [MASK] me pressa une dernière fois la main et partit sans tourner la tête.
+
+['tout', 'les', 'le', 'voile', 'mes']	Zéla	Notre petit vaisseau plongeait follement dans la mer, et pendant une seconde, nous nous trouvâmes entièrement submergés. D’une main je saisis [MASK], de l’autre les haubans, mais c’était avec une peine inouïe que je résistais à l’entraînement de l’eau.
+
+['le', 'à', "l'", 'de', 'les']	Aston	D’ailleurs, en admettant même que votre présence ne soit pas indispensable au bon ordre de ma maison, une cause sérieuse vous obligerait à y rester : il est impossible que nous abandonnions [MASK] à lui-même. À mon retour, je vous communiquerai les projets que j’ai en vue, projets qui sont fort importants
+
+['il', 'elle', 'lui', 'celui-ci', 'celle-ci']	Walter	mais, comme [MASK] avait plus de talent que moi pour le dessin, je lui persuadai de faire une bonne copie de mon travail. L’ouvrage terminé, je saisis pour faire éclater ma bombe le moment où, rassemblés autour de la table servie, tous les officiers étaient en présence.
+
+['il', 'on', 'papa', 'monsieur', 'lui']	Aston	mais notre commune chambre était vide : [MASK] était encore absent. La crainte que le lieutenant se trouvât mêlé à la dispute, ou qu’un accident eût révélé à mes ennemis qu’il était entré le matin dans la ville avec moi, me décida à aller à sa recherche.
+
+['il', 'et', 'je', 'Il', 'elle']	Joseph	Le lendemain, le docteur Burney nous permit de sortir pour faire la chasse aux oiseaux. [MASK] me laissa tirer le premier coup, et comme nous étions convenus de mettre en commun la jouissance du fusil en nous en servant tour à tour, je le lui donnai aussitôt.
+
+[',', 'peu', ')', ';', 'èrement']	Ruyter	NOUS N’AVANCIONS QUE TRÈS lentement vers le but de notre voyage, car nous étions fréquemment forcés de mettre le vaisseau en panne ; malgré ces contretemps, dont s’impatientait de [MASK], je passai les longues heures du jour d’une manière fort agréable, car nous avions à bord une foule d’amusements.
+
+['Jean', 'celui-ci', 'Pierre', 'Henri', 'Robert']	Aston	; je m’y oppose, car je trouve que la coquille paternelle est déjà bien assez chargée. — Pauvre garçon ! dit [MASK], le sort a été cruel envers lui, et le malheur a éteint le peu d’intelligence qu’il possédait.
+
+['je', 'il', 'Je', 'et', 'Il']	Zéla	Quand il fut tout à fait en dehors de la tente, [MASK] me réveilla. Je sautai aussitôt hors du lit pour courir vers mes compagnons, qui dormaient à quelques pas de nous, et, avant de les réveiller, je suivis le serpent, qui marchait lentement vers le feu.
+
+[',', 'tout', 'là', 'celle-ci', 'prise']	Zéla	Je me précipitai vers la cabine, et je trouvai [MASK] dans les convulsions de l’agonie. La pauvre chère était saisie avant terme par les douleurs de l’enfantement, et elle mit au monde un petit être sans vie.
+
+['de', 'donc', 'aller', 'pour', 'tout']	Van	Nous laissâmes [MASK] travailler sur l’orang-outang pour aller examiner les bois de charpente et tracer un chemin jusqu’au rivage. Vers le soir, nous regagnâmes nos bateaux, car les natifs nous assurèrent que l’île était infestée par des tigres et par des serpents.
+
+['un', 'le', "l'", 'ce', 'mon']	Louis	— Que je sois pendu si vous faites cela ! m’écriai-je en me levant et en regardant le personnage, qui n’était autre que [MASK], arrivé le matin à la maison avec une provision de vivres. — Ah ! me dit-il, je ne vous avais pas vu.
+
+['il', 'quand', 'celui-ci', 'le', 'on']	Louis	Ce mouvement fit tomber l’énorme tortue, qui profita de ce répit de liberté pour ouvrir ses lourdes nageoires et regagner en triomphe son élément naturel. Quand [MASK] se fut redressé, il s’écria avec une expression de physionomie lamentable : — Mais où est ma tortue ?
+
+['celui-ci', 'monsieur', 'M.', 'le', 'alors']	Aston	il nous a été ordonné d’examiner cette barque, je le fais. Avançons, mes braves ! Je priai [MASK] de s’arrêter un instant, et, me tournant vers le lieutenant, je lui demandai d’une voix presque respectueuse : — Avançons-nous, monsieur ?
+
+['Les', 'H', '_', 'les', 'De']	Nelson	Bataille, [MASK], vaisseaux, étaient les seules paroles intelligibles que pouvaient recueillir les oreilles avides de ces jeunes officiers, bouillants d’impatience et d’ardeur. Le capitaine trépignait, le sang avait jailli à sa figure, et sa voix haletante saccadait les interrogations.
+
+['lui', 'eux', 'nous', 'Fritz', 'madame']	Zéla	Un soir, après avoir soupé sur le grab avec [MASK], nous rentrâmes à bord du schooner. Tout à coup j’entendis près du rivage un sifflement et un bruit qui semblaient provenir de la marche d’une troupe de marsouins.
+
+['lui', 'le', 'son', 'la', 'votre']	Trelawnay	— Ce garçon, reprit-il après un moment de silence ému, a un bon cœur, mais il a trop tété du lait de sa mère, et cet abus l’a métamorphosé en fille. Quel livre vous a-t-il donné, [MASK] ?
+
+['ces', 'cette', 'moi', 'ma', 'la']	Zéla	Pour rendre justice à ces dames, je dois dire que, si plusieurs d’entre elles n’étaient pas blondes et jolies, elles étaient jeunes, avaient la peau douce et de charmants traits mauresques. J’étais si exclusivement amoureux de [MASK], que mes pensées ne se tournaient jamais vers une autre femme.
+
+['il', 'Il', "s'", 'frère', '</s>']	Zéla	je crois qu’il ôte son turban ; il serait un saint parmi les Raypaats (descendants du soleil). [MASK] accourut vers moi et me dit doucement : — Ne restez pas au soleil, mon frère ; dans ce moment-ci sa chaleur est très dangereuse.
+
+['amie', 'enfant', 'dame', 'fille', 'madame']	Zéla	Pour arracher ses pensées au sujet qui l’avait attristée, je dis en lui serrant la main : — Vous devez être fatiguée, chère [MASK] ; mais ne craignez rien, voici le dernier ruisseau que nous avons à traverser, et nous serons bientôt dans cette magnifique plaine.
+
+['de', 'tous', 'ceux', 'les', 'celle']	Zéla	ceux qui étaient de la même tribu que [MASK] ou qui avaient été ses domestiques. Privilégié par son âge et par son rang, le rais put aller voir la jeune fille, lui parler, et l’assurer qu’elle ne manquerait de rien.
+
+['elle', 'la', 'ma', 'moi', 'cette']	Zéla	Ma vie de planteur reprit son cours ; c’était une vie calme et heureuse, embellie surtout par mon amour pour [MASK], qui n’avait point diminué. Tous les jours je découvrais en elle une qualité nouvelle, une qualité digne d’admiration.
+
+['la', 'le', "l'", 'mon', 'son']	Torra	Partout où se trouvait [MASK], l’air était rempli par des hurlements de rage, par des râles de mort. J’ai cru un instant que ce massacreur était fou, tellement que je fus obligé de lui envoyer une balle dans les jambes, car il était inutile de lui parler, il n’entendait pas.
+
+['nous', 'Nous', 'on', '</s>', 'tout']	Zéla	Quand les deux bras de la jeune femme eurent entouré ma tête, je repris mes sens, et je couvris son visage adoré des plus tendres caresses. [MASK] était hors de danger ; les corps des deux tigres gisaient à nos pieds : tout était calme autour de nous.
+
+["s'", ',', "l'", 'on', 'qui']	Adoa	[MASK] y grimpa malgré les difficultés que lui opposaient la mousse et l’humidité des plantes grasses qui couvraient le rocher. Tout à coup la petite Malaise, que j’avais placée en sentinelle, cria d’une voix épouvantée : » – Des requins ! des requins ! »
+
+['Monsieur', 'Madame', 'allez', 'monsieur', 'Allez']	Louis	— Que votre eau de riz soit maudite ! Allez, [MASK], allez auprès du cuisinier, et dites-lui de nous faire rôtir deux poulets, ainsi qu’un morceau de porc ; j’ai besoin de prendre quelque chose de solide et de réconfortant.
+
+['lieu', 'degré', 'abord', 'homme', 'fond']	Torra	Son air triste, résolu, sa démarche inquiète, me firent croire que, second [MASK], il cherchait à se venger de l’insulte que je lui avais faite. Tranquille et en apparence endormi, j’attendis l’approche et l’attaque du jeune homme.
+
+['un', 'Morris', 'le', 'Mr', 'M.']	Joseph	Le capitaine Morris m’avait donné une lettre pour mon père. Un jour j’obtins la permission de sortir, afin de la mettre à la poste, et je fus accompagné par [MASK], le camarade rusé dont je n’ai pas même oublié le nom.
+
+['le', 'lui', "l'", 'la', 'les']	Louis	Mais au moment où l’esprit de la vie (suivant [MASK]) toucha ses lèvres blanches et glutineuses, il jeta le verre loin de lui en s’écriant d’un ton désespéré : — Mon Dieu ! mon Dieu ! je demande une mer d’eau, et ce démon m’apporte du feu
+
+['ma', 'la', "l'", 'mon', 'cette']	Zéla	. Le fatal simoun était passé. Je détachai [MASK], qui s’était suspendue à mon bras par une étreinte convulsive, et, après l’avoir mise en sûreté, j’ordonnai à mon contremaître américain de tenir le gouvernail.
+
+['Dieu', 'Neptune', 'tout', 'mer', 'cela']	Louis	mais je me souvins qu’en bêchant la terre, j’y avais trouvé des myriades de vers et d’insectes. Je changeai donc d’idée pour considérer le pur et blanc tombeau de la mer ; le souvenir de [MASK] détruisit encore ce second projet.
+
+['Pierre', 'Jean', 'roi', 'cheval', 'chasseur']	Zéla	elle remit donc ses vêtements et voulut débarquer, mais une réflexion l’empêcha de suivre cette première idée. La décharge des fusils devint plus distincte, et la finesse exquise de l’oreille de [MASK] la rendit capable de distinguer le bruit de ma carabine, qui avait le son aigre et retentissant.
+
+['ma', 'la', "l'", 'mon', 'cette']	Zéla	Heureusement pour moi, mes regards éperdus tombèrent sur la douce figure de [MASK], qui s’était prosternée à mes pieds. Je fis vainement la tentative de la relever, je n’avais plus de force, je chancelais, je me sentais sur le point de devenir fou.
+
+['la', "l'", 'parents', 'de', '#']	Zéla	; mais il vint souvent me voir pour m’engager à le suivre à la ville. Toutes ses prières furent vaines ; ma vie était dans la cabine solitaire du schooner, mes pensées sur la petite boîte qui contenait les cendres de [MASK]. Chapitre 126
+
+['colère', 'service', 'douleur', 'bois', 'rage']	Zéla	À quelques pas du groupe formé par l’éléphant et son sauvage antagoniste, un petit tigre déchirait à belles dents un objet que je ne pris point le temps d’examiner. L’éléphant de [MASK] trépignait, criait, se débattait avec désespoir pour se débarrasser du tigre.
+
+['moi', 'les', 'le', 'lui', 'mon']	Zéla	Le ciel n’avait ni étoiles, ni nuages ; il était pur, et son calme menaçant fut enfin troublé par le rayonnement des éclairs qui illuminèrent les montagnes. J’étais assis sur le pont avec [MASK], et nous regardions ces signes extraordinaires et qui nous pénétraient insensiblement d’une profonde mélancolie.
+
+['moi', 'je', 'lui', 'nous', 'vous']	Joseph	mais il rabaissa l’arme, et d’un geste furieux m’appliqua un soufflet. Je pâlis de colère et nous marchâmes en silence : [MASK] fatigué de ne rien tuer ou de ne pouvoir rien tuer, ce qui est absolument la même chose, moi exaspéré d’indignation.
+
+['celui-ci', 'tous', 'chacun', 'Charles', 'tout']	Zéla	je l’avais réchauffée, nourrie, aimée, oh ! aimée à en mourir ! Le docteur, qui partageait son temps entre les deux vaisseaux, continuait à prédire le rétablissement de [MASK] ; seulement il était forcé d’avouer que la convalescence serait longue et suivie d’une extrême faiblesse.
+
+['cela', 'mieux', 'bien', "l'", 'ça']	Torra	comment ! répéta-t-il, affamé ! S’il a encore faim, je lui donnerai de cette tortue, je ne puis pas tout manger, et il y en a en abondance sur le vaisseau ; j’aime [MASK], moi, parce que c’est un honnête homme.
+
+['elle', 'lui', 'moi', 'celle-ci', 'Elle']	Zéla	Sous l’influence de mon étrange hallucination, je me précipitai vers [MASK], je saisis la bride de son cheval, dont j’excitai vivement la marche. J’avais peur de voir ma petite fée se transformer en faon blanc et s’élancer vers les bois.
+
+['elle', 'Elle', ',', 'et', 'voix']	Zéla	[MASK] était belle, plus belle que je n’ai pu la décrire, car je ne suis pas versé dans la science des paroles, et les paroles sont souvent impuissantes à représenter ce que l’œil voit, aussi bien qu’à exprimer ce que le cœur ressent.
+
+['il', 'Il', 'et', '.Il', '</s>']	Aston	En conséquence, nous fîmes servir un magnifique déjeuner, tout en commandant un somptueux repas pour le soir. [MASK] profita de notre tête-à-tête pour me renouveler la prière qu’il m’avait déjà faite tant de fois, et cela si inutilement, celle de rentrer dans la marine.
+
+[',', 'on', 'il', "n'", "s'"]	Zéla	, [MASK] eut le temps de revenir avant que l’étonnement dans lequel j’étais plongé se fût tout à fait dissipé. — Un ogre vous a-t-il attirée par un mauvais regard ? lui dis-je en riant. — Oh ! non, s’écria-t-elle
+
+['le', 'de', '"', 'à', 'la']	Trelawnay	ne seraient pas trop forts pour lui, car il a une magnifique ligne d’eau, et sa tournure à l’arrière est celle d’un schooner, sa proue est des plus minces ; enfin, il a un air mauvais sujet et intelligent qui m’enchante. — Eh bien ! voulez-vous l’essayer, [MASK]
+
+[',', 'le', 'de', 'à', "l'"]	Louis	la raison de cette dernière défense vient de la faveur dont jouit le gin dans le paradis des croyants. Une vision miraculeuse m’a assuré ce que je vous dis, déclama [MASK] le munitionnaire : les jours où quelques rebelles refusèrent le genièvre, un ange m’est apparu
+
+['les', 'moi', 'elles', 'plaisir', 'eux']	Zéla	; mais ces caprices étaient souvent contraires à mon devoir et à mes désirs. Parfois cependant l’atmosphère était splendide et les nuits si lumineuses et si fraîches que je les passais presque toutes sur le pont, causant avec [MASK] ou écoutant des histoires arabes.
+
+['-', 'la', 'se', 'tous', '...']	Zéla	N’ai-je pas dit la vérité ? Les hommes qui avaient été témoins de la mort du père de [MASK] en avaient raconté tous les détails. — Certainement, malek, où est la personne qui pourrait en douter ? La chose cependant me paraît étrange ;
+
+['celui-ci', "l'", 'lui', 'la', 'questions']	Duckworth	L’amiral pâlit ; mais, sachant qu’il méritait les reproches, il ne fit aucune observation et monta sur le tillac pour interroger le commandant du schooner, qui ne répondit aux questions de [MASK] que par des monosyllabes.
+
+['enfant', 'elle', ',', 'on', 'agneau']	Zéla	[MASK] n’était pas visible, et le tigre portait sa tête, en écumant de rage, jusqu’au houdah. — La malheureuse enfant a été dévorée ! m’écriai-je en me frappant le front. Oh ! fou, fou que je suis !
+
+['vous', 'lettre', 'comprends', 'conséquent', 'lettres']	Jupiter	par [MASK], je comprends : cette lettre renferme un trésor, et c’est bien certainement le reste des billets de banque que votre père avait donnés au capitaine pour satisfaire aux nécessités de votre entretien. J’espère que vous ne serez pas assez niais pour commettre la folie de l’envoyer.
+
+['moi', 'nous', 'vous', 'lui', 'cela']	Ruyter	Peut-on y faire quelque chose ? Donnez-moi votre opinion sur ce grave sujet. Nous avons entendu parler de vous, de [MASK] ; votre nom est un nom célèbre, grand, et qui mérite la réputation qu’on lui a faite, l’estime dont je l’honore !
+
+['il', ',', 'elle', 'Il', 'Elle']	Zéla	. [MASK] reprit sa première position et resta immobile ; ses bras retombèrent nonchalamment le long de son corps, et ses pieds mignons se cachèrent dans le lin du vêtement qui l’enveloppait, comme se cachent de petits oiseaux sous l’aile de leur mère.
+
+['de', ',', 'à', 'la', 'le']	Zéla	portez-la jusqu’à lui ou faites-moi mourir ! L’extrême bout d’une petite corde blanche vint tomber presque dans ma main. Bien sûrs étaient les yeux qui l’avaient dirigée, bien ferme la main qui l’avait tendue. Cette main était la tienne, [MASK]
+
+['Il', 'il', '</s>', 'et', '.Il']	Van	ce fragment sera masseux, à moins que la balle ne soit presque consumée, et alors la blessure qu’elle cause n’est point profonde. [MASK] conclut son discours en me disant qu’il voyait des symptômes de jaunisse dans mes yeux et sur ma peau.
+
+['il', 'on', "j'", 'elle', 'nous']	Zéla	Un homme de l’équipage, placé en vigie sur la rive, donna le signal de notre approche, et en voguant avec rapidité j’atteignis promptement le vaisseau, sur le pont duquel [MASK] était en observation, un télescope à la main.
+
+['mon', 'son', "l'", 'la', 'ma']	Ruyter	Il leva les yeux vers moi, et me voyant tremblant et muet, un tronçon d’épée à la main, il comprit qu’il arrivait trop tard. Son regard, empreint de reconnaissance et de regret, rencontra celui de [MASK].
+
+['vous', 'lui', 'toi', 'moi', 'monsieur']	Trelawnay	J’en remercie les prières de ma mère et la bonté de Dieu, qui ont permis que je trouvasse un emploi dans le service de la compagnie. Le vaisseau m’a déposé ici ce matin, et j’accourais auprès de [MASK] dans l’espoir d’acquitter ma dette envers le lieutenant.
+
+['il', 'Il', 'et', 'on', 'celui-ci']	Van	— Vraiment ! alors le brave vous montrait qu’il était plus instruit que votre ordonnance ; ce gaillard méritait de vivre et vous de mourir. [MASK] maudit avec véhémence le médecin qui avait déserté son poste pendant la bataille ; il enviait ce poste de toutes les forces de son âme.
+
+['ma', 'mon', 'mes', 'la', "l'"]	Zéla	Le danger dans lequel j’avais placé [MASK] en l’emmenant avec moi à la chasse aux tigres m’avait donné une cruelle leçon de prudence, et l’idée de la savoir seule, quoique en sûreté sur le schooner, me rendait sage, sensé, et surtout fort méfiant.
+
+['médecin', 'docteur', 'ministre', 'étranger', 'Médecin']	Ruyter	— Il faut maintenant songer à nos malades, me dit de [MASK], lorsque le transport des étrangers fut opéré. Je vais me mettre à la recherche de quelques logements, et vous envoyer toutes les choses dont vous pouvez avoir besoin.
+
+['homme', 'Adam', 'Abraham', 'un', 'Hercule']	Aston	Cette aspersion saisissante, jointe à la fumée, me renversa, et je tombai sans mouvement aux pieds d’[MASK] qui était descendu. Il me remplaça. L’air frais me rendit à la vie. L’incendie était éteint, la joie et le calme avaient reparu.
+
+['la', 'ma', 'sa', "l'", 'mon']	Zéla	Je laissai tomber la main de [MASK], qui alla se cacher, toute rougissante d’effroi ou de pudeur, sous les plis de son voile blanc. L’échange mutuel de nos bagues était la déclaration définitive de notre mariage.
+
+['la', 'ce', "l'", 'mon', 'ma']	Zéla	elle s’embellit de ses paroles comme d’un fard, et je finis par trouver sa voix dure et sèche plus musicale que le son harmonieux d’une harpe éolienne. Mes veilles de nuit s’abrégeaient merveilleusement, elles se remplissaient de l’éclatante lumière des yeux de [MASK], que je n’avais cependant pas vus.
+
+['</s>', 'il', "c'", 'Il', 'vous']	Trelawnay	arrangez-vous avec lui, vos querelles ne me regardent pas, et vous feriez mieux, au lieu d’hésiter, de tirer votre épée et de vous mettre en garde. [MASK] est un enfant et vous êtes un homme, si j’en juge par votre moustache.
+
+['qui', 'elle', 'il', 'ne', ',']	Torra	[MASK] sait cela, mais les autres hommes du bord sont des imbéciles qui ne savent absolument rien ; savent-ils quelque chose ? Allons, buvez cette petite goutte, elle tournera la tortue, qui restera tranquille jusqu’au soir, et passé le soir, vous n’entendrez plus parler d’elle.
+
+['il', 'se', 'le', 'aussi', 'lui']	Van	— Chut ! dis-je tout bas, j’entends sa nageoire agiter l’eau ; il se remue, écoutez : son coassement s’élève plus haut que celui des crapauds. Nous entendîmes [MASK] marmotter des plaintes en faisant des effort inutiles pour se délivrer de sa prison.
+
+['Une', 'Elle', 'une', 'elle', 'Personne']	Zéla	de plus, la chaloupe qui nous attend a une caronade. Nous étions épuisés de fatigue, affamés, mourants de soif ; [MASK] seule, en véritable enfant du désert, avait songé à apporter de l’eau, et cette eau fut un grand soulagement pour les blessés.
+
+['Java', 'Timor', 'Singapour', 'Malaisie', 'Bombay']	Pondichéry	— Ma femme n’a pas de bijoux, pas de bagues ; elle donna un jour son anneau de mariage pour une bouteille de skédam. Nous rencontrâmes une flotte de vaisseaux des compagnies de Ceylan et de [MASK], escortée par un brigantin de guerre.
+
+['"', 'mes', 'mon', 'le', 'les']	Brondoo	» Je descendis de mon hamac et je tuai [MASK]. À travers le sabord, je vis le filet de mon père se fermer sur l’âme du mort, que le démon blanc prit du bout de sa lance.
+
+['efforts', 'une', 'effort', 'un', 'encor']	Adoa	En perdant l’appui de la plante marine, et malgré les efforts d’[MASK], je tombai sur les rochers de corail, et sans ma fidèle compagne, qui m’a traînée jusqu’au rivage, je serais morte bien loin de vous. »
+
+[',', 'fertile', 'que', 'à', "qu'"]	Louis-le-Grand	regardez, mon frère, ne dirait-on pas qu’il est tout près de nous ? Armé d’un télescope, je vis si distinctement le grab, que mon imagination me montra aussitôt [MASK], l’air empressé, égorgeant des tortues sous la banne du pont.
+
+['corps', 'ce', 'NO', 'body', 'ceci']	Zéla	les corps des deux tigres gisaient à nos pieds : tout était calme autour de nous. En apercevant la victime du tigre, je dis à [MASK], car je ne pouvais en distinguer ni les traits ni la forme : — Qui a donc succombé sous les coups de cette horrible bête
+
+[',', 'le', 'se', 'de', 'à']	Aston	[MASK] me considéra tristement, et reprit, après m’avoir laissé comprendre par un muet reproche combien il blâmait ma conduite : — En luttant contre un équipage commandé par deux pareils hommes, nous n’avions aucune chance de succès ; il était ensuite impossible de vous prendre dans une position si bien fortifiée
+
+['elle', 'on', 'il', 'ce', 'se']	Zéla	Quand [MASK] fut sur l’extrême bout, elle entendit ma voix, et, dirigée par le son, elle jeta le rouleau de corde. Dans la crainte de mal viser son but, la pauvre enfant avait attaché l’autre bout avec l’intention de se jeter dans la mer pour me l’apporter.
+
+['il', 'en', 'y', 'et', ',']	Walter	Ce brutal personnage appesantit sa force sur la faiblesse du pauvre garçon, et l’attrista tellement que, presque sans se rendre compte à lui-même des changements de son esprit, [MASK] devint pensif, soucieux, presque indifférent à tout ce qui se passait autour de lui.
+
+['il', 'Il', ',', 'et', 'on']	Van	[MASK] s’était muni d’un bandage, afin d’arrêter l’écoulement du sang, quand, en sa qualité de médecin, il se serait écrié : – Arrêtez ! assez !… Le plus profond silence régnait dans le jardin. Je donnai le signal de l’entrée en scène.
+
+['elle', 'Elle', 'et', 'Il', 'puis']	Zéla	Bientôt après, la jeune femme entendit, quoique faiblement, les cris des natifs, et ces cris lui parurent les clameurs de la guerre et non celles d’une joyeuse chasse. [MASK] regagna donc en toute hâte le schooner et communiqua ses craintes au contremaître.
+
+['lui', 'moi-même', 'moi', 'toi', 'vous']	Dungaro	Comme j’étais certain, en marchant devant moi, de m’éloigner de [MASK], je ne songeais pas à m’inquiéter de la direction qu’avait prise ma monture, car j’étais anéanti par l’assoupissement de l’ivresse. Je ne sais combien de temps dura cette étrange course.
+
+['à', 'au', 'de', 'avec', 'la']	Zéla	— Dieu seul connaît les besoins réels de ses enfants, ajouta le vieillard. Et pendant qu’il reprenait le récit des horribles assassinats commis dans le désert, je jetai sur sa tête un seau d’eau et j’emmenai [MASK] sur le schooner.
+
+["l'", 'mon', 'la', 'ma', 'un']	Walter	— Tu te laisseras tatouer ? demandai-je à [MASK]. — Certainement, me répondit-il, je serai tatoué, je ne mettrai plus de vêtements. Qu’importe cela ! tout ce qu’ils feront, je le ferai.
+
+['grâce', 'moi', 'vous', '...', 'cela']	Ruyter	— Comment, de [MASK], vous appelez peu de chose l’entière ruine et la complète dégradation que ce misérable a accumulées sur mon ami Walter ? J’en suis la cause, et je me dévoue à venger ses injures.
+
+['père', 'il', 'et', 'ne', 'qui']	James	[MASK] voulut s’enfuir, mais, pris par l’oreille, il fut contraint d’attendre que mon père m’eût jeté en bas de l’arbre. Lorsque nous nous trouvâmes tous deux en sa possession, il nous dit d’un ton furieux : — Suivez-moi, brigands !
+
+['lui', "l'", '...', 'celui-ci', "s'"]	Louis	dis ! Hein, monsieur, le savez-vous ? Un silence de quelques minutes suivit cette interrogation. Les regards de [MASK] erraient vaguement sur le pont, et ses lèvres balbutiaient de sourdes menaces. — Damné garçon ! reprit-il d’une voix haletante, fils du diable
+
+['monde', 'père', '...', 'cœur', 'vie']	Ruyter	— Par le ciel ! je crois que j’aurais agi comme vous l’avez fait… mais, ajouta-t-il en souriant, à votre âge. — Si vous connaissiez de [MASK] comme je le connais, Aston, vous n’ajouteriez pas cette parenthèse.
+
+['moi', 'lui', 'et', 'eux', 'deux']	Bombay	Mais cette erreur fut dissipée, lorsqu’une seconde d’observation m’eut fait voir que je me trouvais placé entre [MASK] et l’objet qui attirait mes regards. Je tâchai donc de distinguer les détails du tableau confusément déroulé devant l’ardeur de mon attention.
+
+['il', 'on', 'elle', 'et', 'Il']	Zéla	Après avoir servi le café, [MASK] m’apporta une chibouque (pipe turque), car quand une femme arabe est dans son propre appartement, elle emplit et allume une pipe, mais seulement pour son père ou pour son mari.
+
+[',', 'il', 'et', 'singe', 'qui']	Louis	[MASK] sauta sur le singe, le saisit promptement par la nuque et lui coupa la gorge. Cette action ressemblait tellement à un homicide, que je frissonnai. — Allons-nous-en, dis-je d’un ton impatienté ; laissons-le, laissons-le !
+
+['Suzanne', 'madame', 'Diane', 'Juliette', 'Marie']	Zéla	! — Ah ! s’écria [MASK], combien je suis contente, mon bien-aimé mari ; nous allons aller à terre ; mais il faudra m’emporter dans vos bras, mon amour, car je suis incapable de marcher.
+
+['le', 'je', "l'", 'de', 'ne']	Aston	Aussi bien que vous, je sais que c’est un homme d’un rare mérite ; mais là n’est point le sujet du regret que j’exprime, et votre réponse nous éloigne de la question. — Eh bien ! [MASK], pour y répondre, je ne puis qu’interroger vos souvenirs
+
+[',', 'a', 'le', 'la', 'se']	Bacon	[MASK] dit : « Les gens difformes sont généralement méchants de caractère ; la nature leur ayant fait du mal, ils en font autant par instinct que par vengeance : ils naissent donc exclusivement méchants, et n’apportent point avec eux cette part de bonté qu’on croit commune à tous les hommes
+
+['mon', 'ma', 'son', "l'", 'sa']	Zéla	Je posai mes lèvres sur les siennes, et ce chaste et doux baiser emporta l’âme de [MASK]. Chapitre 125 IL ME SERAIT IMPOSSIBLE de dépeindre l’épouvantable douleur que je ressentis et que je ressens encore aujourd’hui, quoique mon cœur soit presque épuisé de souffrance.
+
+['me', ',', 'je', 'de', 'nous']	Zéla	L’échange mutuel de nos bagues était la déclaration définitive de notre mariage. — Chère lady, dis-je à [MASK], veuillez me donner vos ordres ; que puis-je faire pour vous être agréable, pour vous rendre moins tristes et moins longues les heures de votre isolement
+
+['et', 'il', ',', 'puis', 'Il']	Aston	[MASK] me saisit violemment par le bras : — Ne m’entendez-vous pas ? cria-t-il, je vous appelle à tue-tête ; au nom du ciel, que faites-vous ? Êtes-vous fou ? êtes-vous enragé ? Votre exemple a rendu tous mes gens insensés.
+

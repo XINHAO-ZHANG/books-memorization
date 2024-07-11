@@ -1,0 +1,200 @@
+['lui', 'moi', 'elle', 'lui-même', 'celui']	Lupin	Sinon tant pis pour vous. — Parfait ! dit-il en se frottant les mains. Ça va mal dans le camp adverse. Cette menace est aussi stupide que celle du pseudo-chauffeur. Quel style ! on voit bien que ce n’est pas [MASK] qui tient la plume.
+
+['la', "l'", 'plus', 'deux', '.']	Ganimard	En bas, les coups se rapprochaient. Deux ou trois portes, pas davantage, les séparaient de [MASK]. Au large, on apercevait le dos noir du torpilleur et les barques qui croisaient. Le jeune homme demanda : — Et le trésor ? — Ah !
+
+['il', 'elle', 'et', 'qui', 'on']	Lupin	tout le reste me paraît absurde et puéril… il n’y a plus que ses cheveux qui comptent… ses yeux tristes… et sa petite âme honnête. Les hommes montaient l’escalier. Un coup ébranla la porte, la dernière… [MASK] empoigna brusquement le bras du jeune homme.
+
+['le', 'henri', 'bussy', 'tout', 'madame']	Beautrelet	— Quand même… il faut que quelqu’un ait déniché, ait pris ce livre… Voyons, vous, monsieur, s’écria [MASK], apostrophant le baron, vous ne savez rien ?… vous ne soupçonnez personne ? — Nous pourrions interroger ma fille.
+
+['elle', 'part', 'terre', 'rome', 'bord']	Marie-Antoinette	Mais il reste une copie de la page essentielle, celle qui contient la solution du problème, ou du moins la solution cryptographique, celle qui fut portée à [MASK] et glissée par elle sous la couverture de son livre d’heures. Qu’est devenu ce papier ?
+
+['qui', 'et', 'que', 'est', 'mais']	Albert	Que va-t-elle faire ? Personne ne peut les voir. Le domestique Victor surveille la petite porte. L’autre, [MASK], posté à la fenêtre du salon, les a perdus de vue l’un et l’autre. Livrera-t-elle l’homme qu’elle a blessé
+
+['on', 'il', 'elle', 'monsieur', 'madame']	Brédoux	Mes plans sont bouleversés. Ce que j’ai tâché de laisser dans l’ombre, vous l’avez mis en pleine lumière. Vous me gênez, vous me barrez le chemin. Eh bien ! j’en ai assez… [MASK] vous l’a dit inutilement.
+
+['lui-même', 'celui-ci', 'lui', '</s>', 'qui']	Lupin	Il apprit ainsi que [MASK] ne venait que tous les trois ou quatre jours, arrivant le soir en automobile et repartant dès le matin. À chacun de ses voyages, il rendait visite aux deux prisonniers, et tous deux s’accordaient à louer ses égards et son extrême affabilité.
+
+['monsieur', 'napoléon', 'jacques', 'madame', 'marcel']	Lupin	C’est elle, évidemment, qui, à certains indices que j’ignore, devine, sous son déguisement de chauffeur, le complice de [MASK]. C’est elle qui l’avertit. C’est elle qui lui signale l’urgence d’une opération.
+
+['rodin', 'elle', 'il', 'paul', 'rodolphe']	Lupin	Le sol était couvert d’un plancher de bois rare, à dessins concentriques. Contre les murs, des vitrines, quelques tableaux. — Les perles de mes collections, dit [MASK]. Tout ce que tu as vu jusque-là est à vendre.
+
+['</s>', 'il', "s'", '-', "c'"]	Victor	— Oui, l’homme atteignait la pierre tombale presque enfouie sous les ronces, à gauche du cloître. — Mais il s’est relevé ? — À moitié seulement. [MASK] est aussitôt descendu pour garder la petite porte, et je l’ai suivi, laissant ici en observation notre domestique Albert.
+
+['maurice', 'jacques', 'robert', 'rodolphe', 'julien']	Froberval	Mon père est venu, et on s’est emparé de lui, voilà tout. — Soit, murmura [MASK] abasourdi, soit… j’admets… les choses se sont passées ainsi… mais tout cela n’explique pas comment il a pu sortir pendant la nuit.
+
+['</s>', '"', '...', '--', '--je']	Raymonde	: — Pourquoi ai-je peur ?… C’est comme une oppression… Est-ce que l’aventure de l’Aiguille creuse n’est pas finie ? Est-ce que le destin n’accepte pas le dénouement que j’ai choisi ? [MASK] se retourna, tout inquiète.
+
+['à', 'il', ',', 'est', 'ce']	Fersen	Qu’attendez-vous ? Il tira une feuille, pliée en deux. — Eh bien, lisez !… Il y a des mots à l’encre rouge… tenez… on dirait du sang… du sang tout pâle… lisez donc ! Il lut : À vous, [MASK].
+
+['toi', 'oui', '-', 'non', 'et']	Lupin	Et ce tutoiement insolent qui le mettait du premier coup au niveau de son adversaire !… Il reprit : — Vois-tu, [MASK], ton grand défaut, c’est de croire tes combinaisons infaillibles. Tu te déclares vaincu ! Quelle blague !
+
+['et', 'il', ',', 'elle', 'qui']	Isidore	[MASK] lui dit : — Vous êtes de mon avis, n’est-ce pas, monsieur l’inspecteur ? — Parbleu ! — Vous non plus, n’est-ce pas, vous n’avez jamais douté que ce fût lui l’organisateur de cette affaire ? —
+
+['son', "l'", 'la', 'm.', 'notre']	Lupin	un peu et que la tristesse de ses yeux s’accentuait. Et, chaque fois, c’était comme une réponse muette et douloureuse aux boutades de [MASK]. On eût dit que cette légèreté de paroles, cette vision sarcastique de la vie lui causaient une souffrance.
+
+['moi', 'lui', 'elle', 'nous', 'eux']	Beautrelet	Il racontait sa matinée et son après-midi du vendredi, les marchés conclus à la foire, le repas qu’il avait pris à l’auberge. Puis… plus rien… Il croyait se réveiller au lendemain de ce jour. Ce fut horrible pour [MASK].
+
+['harry', 'tom', 'robert', 'john', 'henri']	Lupin	— Précisément, fit [MASK] en riant de plus belle. Et moi, je n’aurais pas connu les affres cruelles que votre blessure m’a causées. J’ai passé là, je vous le jure, des heures atroces, et, aujourd’hui encore, votre pâleur m’est un remords cuisant.
+
+['blaise', 'julien', 'robert', 'pierre', 'georges']	Albert	— Parbleu, non, fit [MASK], le gredin n’a pas pu quitter les ruines… On le dénichera au fond de quelque trou. Ils organisèrent une battue méthodique, fouillant chaque buisson, écartant les lourdes traînes de lierre enroulées autour du fût des colonnes.
+
+['il', ',', '.il', ';', 'et']	Lupin	[MASK] saisit une règle en fer qui se trouvait sur mon bureau, et sans effort la brisa net. Sa pâleur était effrayante. Il essuya des gouttes de sueur qui perlaient à son front. Lui qui jamais n’avait connu de résistance à ses volontés, l’entêtement de cet enfant le rendait fou.
+
+['jésus', 'napoléon', 'socrate', 'jacques', 'dieu']	Lupin	Toute personne qui eût admis la mort de [MASK] comme possible eût été déroutée. Mais, pas une seconde, je n’avais admis cette éventualité (par intuition d’abord, par raisonnement ensuite). Le subterfuge devenait alors inutile et vaines toutes les combinaisons.
+
+['lui', 'la', "l'", 'celui', 'lui-même']	Ganimard	La situation de celui-ci n’en était pas moins terrible, puisque l’issue sur laquelle il comptait, la petite porte du triptyque, s’ouvrait en face de [MASK]. Essayer de s’enfuir, c’était s’exposer au feu du policier… et il restait cinq balles dans le revolver.
+
+['le', 'il', 'harry', 'john', 'la']	Lupin	— Du bruit, dit-elle… du bruit en dessous de nous… vous entendez… — C’est le clapotement de l’eau, fit [MASK]. — Mais non… mais non… Le bruit des vagues, je le connais… c’est autre chose…
+
+['john', 'alice', 'robert', 'harry', 'henri']	Beautrelet	— Oh ! non, repartit [MASK] en riant… Seulement… il me semble qu’il y a certains points où il n’est pas impossible de se faire une opinion, et d’autres, même, tellement précis, qu’il suffit… de conclure.
+
+['lui-même', 'lui', 'descartes', 'celui-ci', 'freud']	Lupin	Le soir de ce treizième jour, il ne savait certes pas le mot du problème, mais il connaissait en toute certitude une des méthodes qui pouvaient en provoquer la découverte, la méthode féconde que [MASK] sans aucun doute avait utilisée.
+
+['il', 'elle', '"', 'on', "qu'"]	Beautrelet	» Après avoir pris quelques instants de repos, [MASK] interrogea le père de son ami, collectionneur émérite, appelé souvent comme expert à titre officieux, et que, récemment encore, le directeur d’un de nos musées consultait pour l’établissement de son catalogue.
+
+['plus', 'couleur', 'marque', 'style', 'femme']	Lupin	— Vous non plus, n’est-ce pas, vous n’avez jamais douté que ce fût lui l’organisateur de cette affaire ? — Pas une seconde ! La signature y est. Un coup de [MASK], ça diffère d’un autre coup comme un visage d’un autre visage.
+
+['</s>', 'il', 'elle', 'chacun', 'celui-ci']	Beautrelet	Un trou presque carré percé à même la pierre s’ouvrait en lucarne du côté de la terre, exactement face au fort de Fréfossé dont on apercevait à trente ou quarante mètres la couronne crénelée. [MASK] jeta son sac et s’assit. La journée avait été lourde et fatigante.
+
+['se', 'il', 'elle', 'qui', 'et']	Beautrelet	— En plein jour, à marée montante, sur le coup de dix heures. — Parfait. Sous ses apparences de gaieté, [MASK] cachait une véritable angoisse. Jusqu’au lendemain, il ne dormit pas, agitant tour à tour les plans les plus impraticables.
+
+['il', 'et', ',', '...', 'en']	Raymonde	[MASK] gémit : — C’est ta mère… je reconnais… Il se jeta sur elle, et l’entraînant dans un état de passion farouche : — Viens… fuyons… toi d’abord… Mais tout de suite il s’arrêta, éperdu, bouleversé.
+
+['famille', 'chateaubriand', 'paul', 'jésus', 'laval']	Cherbourg	Ses précautions étaient trop bien prises. Les amis de [MASK] n’avaient pas seulement consigne de garder le père Beautrelet, ils devaient surveiller ses allées et venues, ne jamais le laisser sortir seul, et même ne lui remettre aucune lettre sans l’avoir au préalable décachetée.
+
+['il', 'elle', 'se', 'le', 'lui']	Lupin	À sa droite, il avait vu un rempart de hautes murailles, que flanquaient, à distances égales, des contreforts massifs. C’était là ! C’était là ! Ces murs emprisonnaient son père ! Il avait trouvé le lieu secret où [MASK] gardait ses victimes !
+
+['napoléon', 'bonaparte', 'jacques', 'clemenceau', 'hamlet']	Isidore	Et le 6 juin arriva. Une demi-douzaine de journalistes guettaient [MASK] à la gare Saint-Lazare. Deux d’entre eux voulaient l’accompagner dans son voyage. Il les supplia de n’en rien faire. Il s’en alla donc seul. Son compartiment était vide.
+
+['il', 'tout', 'ils', 'et', 'on']	Beautrelet	Et le chien n’aboya pas et ne bougea pas à leur approche. Très étonné, [MASK] s’avança. La bête était couchée sur le flanc, les pattes raidies, morte. En hâte, ils coururent vers la maison. La porte était ouverte. Ils entrèrent.
+
+['</s>', ',', 'elle', 'il', 'lui']	Beautrelet	Ils marchèrent pendant quelques secondes, et tout de suite un escalier se présenta. [MASK] compta quarante-cinq marches, marches en briques, mais que l’action lente des pas avait affaissées par le milieu. — Sacré nom !
+
+['celui-ci', 'jacques', 'jean', 'julien', 'henri']	Massiban	Il y appliqua son poing violemment, comme s’il défendait que personne au monde y touchât… et un peu aussi comme si lui-même n’osait le prendre. — Eh bien, s’écria [MASK], tout ému. — Je l’ai… le voilà… maintenant, ça y est…
+
+['de', 'dieu', 'rêve', ':', 'réalité']	Lupin	L’échec des premiers jours ne le découragea point. Il avait une foi profonde, inébranlable dans la justesse de l’hypothèse qui le dirigeait. Hardie, excessive, n’importe ! elle était digne de l’ennemi poursuivi. L’hypothèse valait la réalité prodigieuse qui avait nom [MASK].
+
+['des', 'celui-ci', 'un', 'celui-là', 'une']	Lupin	Il y en a fort peu et de valeur médiocre. Alors quoi ? Et, d’autre part, pouvait-on admettre que des gens comme [MASK], d’une habileté aussi prodigieuse, n’eussent pas réussi à joindre à l’envoi ce reste , qu’ils avaient évidemment proposé
+
+[',', 'de', '!', ':', '...']	Lupin	Des poissons s’enfuyaient à leur approche. L’un deux plus hardi s’accrocha au hublot, et il les regardait de ses gros yeux immobiles et fixes. — À la bonne heure, nous marchons, s’écria [MASK]…
+
+['hasard', 'exemple', 'suite', 'malheur', 'conséquent']	Beautrelet	Après, rien. On ne savait rien. Et peut-être aussi, par [MASK], aurait-on l’explication complète du document, de ce papier mystérieux auquel le greffier Brédoux attachait assez d’importance pour le reprendre, à coups de couteau, à celui qui le possédait.
+
+['il', ',', 'y', 'et', 'elle']	Beautrelet	[MASK] eut un geste de surprise. Il venait, sur l’instantané, de se reconnaître, debout, les deux mains dans ses poches, avec, autour de lui, une pelouse où se dressaient des arbres et des ruines.
+
+['on', 'il', 'elle', 'je', 'celui-ci']	Beautrelet	Peu à peu, de la sorte, il retrouva toute sa connaissance. Il parla. Il fit des projets. Mais, quand [MASK] l’interrogea sur les événements qui avaient précédé son sommeil, il sembla ne pas comprendre.
+
+['lui', 'moi', 'lui-même', 'elle', 'jacques']	Isidore	? — Celui de ne pas ébruiter le secret, de ne pas effaroucher mes voleurs, et de leur proposer le rachat des tableaux dont ils doivent être quelque peu embarrassés. — Comment communiquer avec eux ? Le comte ne répondant pas, ce fut [MASK] qui riposta :
+
+['"', '</s>', '(', ')', '_']	Beautrelet	Peut-être un jour pourrai-je la jeter par-dessus les murs, et quelque paysan la ramassera-t-il. Ne t’inquiète pas. On me traite avec beaucoup d’égards. Ton vieux père qui t’aime bien et qui est triste de penser au souci qu’il te donne. [MASK].
+
+['rome', 'napoléon', 'carthage', 'bonaparte', 'robespierre']	Lupin	La foule le sentit si bien que ce fut à ce moment que jaillit, parmi ses admirateurs, l’idée d’un grand banquet où l’on célébrerait son triomphe et l’écrasement de [MASK]. Idée merveilleuse et qui suscita l’enthousiasme. En quinze jours, trois cents adhésions furent réunies.
+
+['sa', 'son', 'la', 'ses', 'marie']	Lupin	Elle chancela, porta la main à sa gorge, se redressa, tournoya, et s’abattit aux pieds de [MASK]. — Raymonde !… Raymonde ! Il se jeta sur elle et la pressa contre lui. — Morte, fit-il. Il y eut un moment de stupeur.
+
+['il', ',', 'qui', 'elle', 'voix']	Beautrelet	[MASK] s’interrompit, demeura pensif un instant et reprit : — Mais auparavant il faut que je vous montre le chemin que j’ai suivi pour arriver à la certitude, et les raisons mêmes du meurtre… sans quoi mon accusation vous semblerait monstrueuse… Et elle ne l’est pas…
+
+['paul', 'jacques', 'georges', 'celui-ci', 'jean']	Beautrelet	Mais comment la trouverez-vous ? Il y a trois escaliers et un labyrinthe de couloirs. J’aurai beau vous donner le fil, vous expliquer le chemin à suivre, vous vous perdrez. — Venez avec moi, dit [MASK] en riant. — Impossible.
+
+['monsieur', '?', 'vous', 'moi', '-']	Ganimard	Vous venez, [MASK] ? L’inspecteur s’aventura dans le tunnel, suivit la passerelle en bois et s’arrêta devant une lanterne qu’il décrocha : — Les ustensiles datent peut-être du Moyen Âge, mais le mode d’éclairage est moderne. Ces messieurs s’éclairent avec des manchons à incandescence.
+
+['il', 'personne', 'lui-même', 'elle', 'lui']	Lupin	Il partait de ce principe, dont la justesse était facile à démontrer, que jamais [MASK] n’avait pris la peine d’envoyer une seule de ses amusantes lettres aux journaux sans une nécessité absolue, sans un motif que les événements ne manquaient pas de mettre en lumière un jour ou l’autre.
+
+['paul', 'plus', 'marguerite', 'si', 'ville']	Beautrelet	— Ne ris pas… réponds. Je réponds qu’il m’est fort désagréable de vous contrarier, mais j’ai promis de parler, je parlerai. — Parle dans le sens que je t’indique. — Je parlerai dans le sens de la vérité, s’écria [MASK] ardemment.
+
+["c'", 'tout', 'il', 'cela', 'on']	Lupin	Sa main se crispa à la crosse de son revolver. « Si je prends parti, pensa-t-il, [MASK] est perdu… et j’en ai le droit… c’est mon devoir… » Leurs yeux se rencontrèrent.
+
+['il', 'on', 'elle', 'qui', 'celui-ci']	Valméras	mais aujourd’hui, le silence… l’émotion… Et puis, depuis le coup de couteau de ce greffier… Mais ça va passer… tenez, ça passe… Il réussit, en effet, à se lever, et [MASK] l’entraîna hors de la chambre.
+
+['monsieur', 'papa', 'harry', 'maman', 'toi']	Ganimard	— Je voudrais bien savoir ce que fait [MASK] ? Dégringole-t-il les autres escaliers pour me barrer l’entrée du tunnel ? Non, il n’est pas si bête… Il aura laissé là quatre hommes… et quatre hommes suffisent. Il s’arrêta.
+
+['le', 'la', 'les', 'du', "l'"]	Suzanne	�. Cette porte devait être ouverte, car l’homme disparut subitement, et elles n’entendirent point le grincement habituel des gonds. — Il venait du salon, murmura [MASK]. — Non, l’escalier et le vestibule l’auraient conduit bien plus à gauche…
+
+['orient', 'aix', 'armes', 'arles', 'orléans']	Ambrumésy	Jadis demeure abbatiale des prieurs d’[MASK], mutilé par la Révolution, restauré par le comte de Gesvres auquel il appartient depuis vingt ans, il comprend un corps de logis que surmonte un pinacle où veille une horloge, et deux ailes dont chacune est enveloppée d’un perron à balustrade de pierre.
+
+['il', '</s>', 'et', ',', 'de']	Beautrelet	C’est ce que l’on peut apprendre par les trois premières lignes. La première est ainsi conçue de me venger du roi, je l’avais prévenu d’ailleurs... [MASK] s’arrêta, interloqué. — Quoi ? Qu’y a-t-il
+
+['</s>', 'joseph', 'paul', 'jean', 'georges']	Froberval	Sur le quai, [MASK], l’employé du port militaire qui avait donné l’hospitalité au père Beautrelet, l’attendait, accompagné de sa fille Charlotte, une gamine de douze à treize ans. — Eh bien ? s’écria
+
+['-je', 'le', 'un', ',', 'je']	Beautrelet	On avait de drôles d’idées en ce temps-là. Moi, je suis de mon époque. J’ai rompu avec le passé. — Oui, objecta [MASK], impatienté, mais n’avez-vous aucun souvenir d’avoir vu ce livre ?
+
+['tous', 'la', 'mon', "l'", 'mes']	Raymonde	L’Aiguille reprise, c’est tout le passé qui se détache de moi, c’est l’avenir qui commence, un avenir de paix et de bonheur où je ne rougirai plus quand les yeux de [MASK] me regarderont, un avenir… Il se retourna furieux, vers la porte :
+
+['il', 'y', 'vous', 'on', 'ou']	Isidore	[MASK] eut l’impression désagréable que l’on éprouve à descendre dans un ascenseur, l’impression du sol, de la terre qui se dérobe sous vous, l’impression du vide. Cette fois, c’était l’eau qui se dérobait, et du vide s’entrouvrait, lentement…
+
+[',', '"', '.', ')', ':']	Lupin	— Hein, nous coulons ? ricana [MASK]. Rassure-toi… le temps de passer de la grotte supérieure où nous sommes, à une petite grotte située tout en bas, à demi ouverte à la mer, et où l’on peut entrer à marée basse…
+
+['mais', 'dit-il', '-', 'et', 'dit-elle']	Charolais	Mais si creuse que soit cette Aiguille, je me demande comment ils vont y pénétrer… Il prit le cornet acoustique : — Ne quittons pas les fonds, [MASK]… Où allons-nous ? Mais je te l’ai dit…
+
+[':', '.', 'dieu', 'marie', 'tout']	Charolais	Eh bien ! parmi ces plans, j’avais gardé ceux d’un canot automobile submersible, et voilà comment tu as l’honneur de naviguer en ma compagnie… Il appela [MASK]. — Fais-nous monter, plus de danger… Ils bondirent jusqu’à la surface et la cloche de verre émergea…
+
+['il', 'elle', '</s>', 'et', "s'"]	Valméras	Au même moment, un rayon de lune filtra, et ils aperçurent le château avec ses clochetons pointus disposés autour de cette flèche effilée à laquelle, sans doute, il devait son nom. Aucune lumière aux fenêtres. Aucun bruit. [MASK] empoigna le bras de son compagnon.
+
+['il', 'qui', ',', 'et', 'en']	Beautrelet	et, à droite de la brique, sur une largeur d’un mètre, le pan du mur pivota et découvrit l’orifice d’un souterrain. Comme un fou, [MASK] empoigna la porte de fer dans laquelle les briques étaient scellées, la ramena violemment, et la ferma.
+
+['"', 'quelques-uns', 'un', 'chacun', 'une']	Lupin	Quand on ne gagnerait que dix ans, que cinq ans de silence ! Ces cinq années peuvent être le salut… — Mais, pour s’emparer de cette citadelle, de ce futur arsenal, il faut bien l’attaquer, il faut bien en déloger [MASK].
+
+['locataire', 'propriétaire', 'là', 'responsable', 'content']	Lupin	Après cela, je trouverai acheteur. Seulement�� — Seulement ? — Je vous demanderai de n’agir qu’avec la plus extrême prudence et de ne prévenir la police qu’en toute certitude. Voyez-vous que mon locataire ne soit pas [MASK] ?
+
+['dieu', 'on', 'je', 'allah', 'jésus']	Beautrelet	— Parfaitement. L’un d’eux m’a écrit : « Si [MASK] déclare qu’il sait, il faut le croire, et, ce qu’il dira, ne doutez pas que ce soit l’expression exacte de la vérité.
+
+['il', 'elle', 'et', 'puis', ',']	Lupin	Après un instant, [MASK] reprit, à voix basse : — Et voilà, c’est fini… Une petite fille a passé, qui a des cheveux blonds, de beaux yeux tristes, et une âme honnête, oui, honnête, et c’est fini…
+
+['il', 'elle', 'et', 'celui-ci', 'on']	Lupin	Très calme, et comme si, véritablement, il n’eût pas entendu, [MASK] reprit : — Par exemple, rudement endommagée, l’Aiguille, quand j’ai réussi à la découvrir ! On voyait bien que nul n’avait possédé le secret depuis un siècle, depuis Louis XVI et la Révolution.
+
+['-', '</s>', 'on', '(', 'monsieur']	Beautrelet	— Mon fils… mon fils… bégayait-elle, si faible qu’elle ne pouvait même pas aller au secours de celui qu’on menaçait. [MASK] la rassura. — Ce n’est pas sérieux… il y a là une plaisanterie… voyons, qui aurait intérêt ?
+
+['</s>', 'madame', 'une', 'la', 'elle']	Suzanne	je serais tenté de le croire, car, depuis ce matin, je m’épuise en recherches et en suppositions. Mais il est aisé de les interroger. On fit venir les deux cousines dans le grand salon. [MASK], toute pâle et tremblante encore, pouvait à peine parler.
+
+['il', 'elle', 'chacun', 'jésus', 'celui-ci']	Beautrelet	et quand leurs yeux se furent accoutumés à l’obscurité, ils virent que toute cette chair grouillait abominablement… En quatre enjambées, [MASK] remonta l’échelle et s’enfuit au grand jour, à l’air libre. M. Filleul le retrouva de nouveau couché à plat ventre, les mains collées au visage.
+
+['cause', 'moins', 'propos', 'côté', 'bord']	Lupin	— Des excuses ! Et pourquoi, Seigneur ? — Pour la brutalité dont le sieur Brédoux a fait preuve à votre endroit. — J’avoue que l’acte m’a surpris. Ce n’était pas la manière d’agir habituelle à [MASK]. Un coup de couteau…
+
+['mais', 'non', 'allons', 'oui', 'maintenant']	Fichtre	— Patron, un autre escalier, là, sur la gauche. Et tout de suite après, ils en découvrirent un troisième sur la droite. — [MASK], murmura l’inspecteur, la situation se complique. Si nous passons par ici, ils fileront par là, eux.
+
+['montaigne', 'chacun', 'platon', 'lecture', 'hegel']	César	Rien, me direz-vous, et nous ne devons lui accorder aucune créance. C’est là ma première impression ; mais quelle ne fut pas ma stupeur, en ouvrant les Commentaires de [MASK] au chapitre indiqué, d’y découvrir la phrase relevée dans la brochure !
+
+['tête', 'décès', 'presse', 'mort', 'base']	Beautrelet	Le lendemain matin à huit heures, j’envoyai mon domestique me chercher un Grand Journal . Il ne l’apporta qu’au bout de vingt minutes, la plupart des kiosques manquant déjà d’exemplaires. Je dépliai fiévreusement la feuille. En tête apparaissait l’article de [MASK] .
+
+['"', 'pas', 'tout', ')', 'rien']	Beautrelet	? Bigre ! ce sont là des questions d’un intérêt primordial ! — Plus tard ! plus tard ! protesta [MASK], comme s’il avait peur que le livre ne s’envolât de ses mains avant qu’il ne connût l’énigme. —
+
+['il', 'elle', 'ils', ',', 'on']	Beautrelet	Tous quatre ils traversèrent le petit bois. Puis [MASK] rampa parmi les bruyères, écorcha ses mains à la haie de ronces, et, se soulevant à moitié, lentement, avec des gestes qui se retenaient, introduisit la clef dans la serrure. Doucement, il tourna.
+
+['question', ':', ',', 'questions', 'la']	Beautrelet	juste la grandeur du sous-marin… — Mais, interrogea [MASK], comment se fait-il que les pêcheurs qui entrent dans la grotte d’en bas ne sachent pas qu’elle est percée en haut et communique avec une autre grotte d’où part un escalier qui traverse l’Aiguille
+
+['celui-ci', 'robert', 'jeanne', 'marguerite', 'jean']	Beautrelet	Et s’ils ne s’accommodent pas ? — Eh bien monsieur le juge d’instruction, ce sont eux qui auront tort, dit [MASK] en riant, et j’en chercherai d’autres plus dociles. À lundi, n’est-ce pas ? — À lundi.
+
+['pierre', 'fer', 'pied', 'chair', 'celui-ci']	Beautrelet	Tout cela, définitif, immanent, grandiose malgré la grandeur du rempart de falaises qui le dominait, immense malgré l’immensité de l’espace où cela s’érigeait. Les ongles de [MASK] s’enfonçaient dans le sol comme les griffes d’une bête prête à bondir sur sa proie.
+
+['-', 'se', 'le', 'la', '</s>']	Césarine	: — Quoi ! qu’y a-t-il ? Parlez donc ! Suffoquée, à bout de souffle, [MASK] bégaya : — Un homme… j’ai vu un homme dans le salon. — L’Anglais de ce matin ? — Oui… mais déguisé autrement…
+
+['oui', '-', 'non', 'mais', 'et']	Beautrelet	Voyons, monsieur le juge d’instruction, remettez-vous… — [MASK]… il est là… — Hein ? — Oui… il y avait quelque chose sous la grosse pierre qui s’est détachée de l’autel… j’ai poussé la pierre… et j’ai touché…
+
+['jacques', 'georges', 'maurice', 'jean', 'robert']	Beautrelet	— Le voici, dit [MASK]. Il tira de sa poche son portefeuille et le tendit au greffier qui s’en empara. — Parfait ! Nous sommes raisonnable. Décidément, il y a quelque chose à faire avec toi… un peu froussard, mais du bon sens.
+
+['il', 'elle', 'pierre', 'pascal', 'on']	Isidore	Quatre heures du matin… [MASK] a de nouveau accepté l’hospitalité de son camarade de Janson. Debout devant la cheminée de sa chambre, les coudes plantés droit sur le marbre, les deux poings au menton, il regarde son image que lui renvoie la glace.
+
+['il', 'qui', '...', 'on', 'ça']	Beautrelet	Si elle parlait, c’était ma vie à refaire, tout l’échafaudage détruit… Le domestique arriverait-il à temps ? Oui… non… le voilà… Mais [MASK] va me démasquer ? Jamais ! trop gourde ! Si… non… voilà, ça y est…
+
+['"', 'tranquillement', 'lui-même', ':', 'intérieurement']	Valméras	C’était une veilleuse placée au bas de l’escalier, sur un guéridon que l’on apercevait à travers les branches frêles d’un palmier. — Halte ! souffla [MASK]. Près de la veilleuse, il y avait un homme en faction, debout, qui tenait un fusil.
+
+['marie', 'jeanne', 'yumi', 'celle-ci', 'tristan']	Charlotte	Elle ne répondait pas. Il lui dit : — Pourquoi as-tu fait cela ? On t’a offert de l’argent, sans doute… de quoi t’acheter des rubans… une robe… Il décroisa les bras de [MASK] et lui releva la tête.
+
+['il', ',', 'et', 'elle', 'on']	Beautrelet	Puis il en maintint vigoureusement les deux montants. — Voulez-vous descendre, monsieur Filleul ? Le juge d’instruction, muni d’une bougie, s’aventura. Le comte de Gesvres le suivit. À son tour [MASK] posa le pied sur le premier échelon.
+
+['il', 'on', "s'", 'qui', "j'"]	Beautrelet	Toutes servaient de magasins. À la quatrième, il n’y avait plus de lampe. Un peu de jour filtrait par des fissures, et [MASK] aperçût la mer à une dizaine de mètres au-dessous de lui.
+
+['vous', '...', 'alors', 'moi', 'qu']	Daval	s’écria-t-elle affolée, penchée sur l’un d’eux. Au bout d’un instant, le comte de Gesvres remua. D’une voix brisée, il dit : — Ne crains rien… je ne suis pas blessé… Et [MASK] ? est-ce qu’il vit ?
+
+['il', 'qui', 'elle', 'et', 'on']	Isidore	? Bah ! c’est l’enfance de l’art ! Toujours est-il que le colis est expédié. Que dis-tu de cela, bébé ? De tout son être tendu, de tout son effort exaspéré, [MASK] tâchait de faire bonne figure.
+
+['le', 'la', ':', '.', '"']	Beautrelet	— Eh bien ? s’écria [MASK]. Le brave homme se mettant à gémir, il l’interrompit, l’entraîna dans un estaminet voisin, fit servir du café, et commença nettement, sans permettre à son interlocuteur la moindre digression :
+
+[',', 'plus', 'et', 'de', 'vous']	Beautrelet	J’ai marché plus vite que nos adversaires ne s’y attendaient, et je suis persuadé que, de leur côté, ils vont agir avec vigueur. Le cercle se resserre autour de moi. Le péril approche, j’en ai le pressentiment. — Voyons, voyons, [MASK]…
+
+['plus', 'travail', 'nouveau', 'faire', 'et']	Lupin	Bah ! fit-il, le hasard m’a servi. — Il n’y a pas de hasard avec lui , affirma l’inspecteur, qui parlait toujours de [MASK] d’un air solennel et sans prononcer son nom. Il s’assit. — Alors nous le tenons ?
+
+['or', 'service', 'argent', 'et', 'table']	Beautrelet	Au milieu de la pièce, une table richement servie avec une nappe en dentelle, des compotiers de fruits et de gâteaux, du champagne en carafes, et des fleurs, des amoncellements de fleurs. Autour de la table, trois couverts. [MASK] s’approcha.
+
+['le', 'la', ':', 'm.', 'paul']	Valméras	— Tu sais où est sa chambre ? — Oui, dans ce couloir, la troisième à droite. — La chambre bleue, murmura [MASK]. La porte est à deux battants, nous aurons moins de mal. Très vite, en effet, l’un des battants céda.
+

@@ -1,0 +1,200 @@
+['Monsieur', 'maman', 'monsieur', 'Marie', 'Madame']	Mariette	Pauvre enfant, si jamais tu peux être entendue et comprise, ce sera par les trois personnes avec lesquelles tu te trouves en ce moment. Raconte-nous tes amours passés, ce ne sera point prendre sur les secrets actuels de ton cœur.– Voici le café que nous apporte [MASK], répondit-elle.
+
+['madame', 'Madame', 'maman', 'Jeanne', 'Marie']	Benassis	Il est un des créateurs du chemin que vous avez admiré. – Je n’ai pas besoin, ajouta [MASK] en montrant le curé, de vous dire quelle est la profession de monsieur. Vous voyez un homme que personne ne peut se défendre d’aimer.
+
+['Pierre', 'Jean', 'Joseph', 'Louis', 'Marie']	Gondrin	Il est en quelque sorte la femme de ménage de [MASK]. Tous deux demeurent ensemble chez la veuve d’un colporteur à laquelle ils remettent leur argent ; la bonne femme les loge, les nourrit, les habille, les soigne comme s’ils étaient ses enfants.
+
+['le', '</s>NOTUSED', 'il', 'la', 'Napoléon']	Genestas	Tous les gens de la veillée se précipitèrent à la porte pour revoir le commandant ; et, à la lueur de la lune, ils l’aperçurent prenant le bras du médecin.– J’ai fait des bêtises, dit [MASK]. Rentrons vite ! Ces aigles, ces canons, ces campagnes
+
+['Dieu', 'Jésus', 'tous', 'Satan', 'Socrate']	Bacchus	Cet acte, il ne le vantait pas, il ne le blâmait pas ; il se contentait de dire, en faisant une libation à [MASK] : Mourir, il n’y a pas de quoi rire, il n’y a pas de quoi pleurer.
+
+['lui', 'eux', 'nous', 'elle', 'moi']	Genestas	En distinguant un pas que le bruit des éperons rendait insolite pour des oreilles accoutumées au marcher monotone des gens de la campagne, l’homme se tourna vers [MASK] en manifestant une sorte de surprise, partagée par la vieille.– Je n’ai pas besoin, dit le militaire, de demander si vous êtes monsieur Benassis.
+
+['Dieu', 'Satan', 'Merlin', 'Jupiter', 'Noé']	Napoléon	Ha ! çà, dites-moi d’où ils avaient su le pacte de [MASK] ? Était-ce naturel ?Il passait pour certain dans leur esprit qu’il commandait aux génies et se transportait en un clin d’œil d’un lieu à un autre, comme un oiseau.
+
+['Madame', 'Hélas', 'Mais', 'Voilà', 'Alors']	Judith	– [MASK], lui dis-je, votre enfant est perdu. – Et moi aussi, dit-elle. – Bah ! répondis-je, nous allons faire venir les papiers nécessaires, je vous épouserai et reconnaîtrai pour mien l’enfant de… Je n’ai pas pu achever.
+
+['Napoléon', 'il', 'Voltaire', 'Robespierre', 'Bonaparte']	Napoléon	Moi, je n’ai jamais cru cela ; mais l’Homme Rouge est un fait véritable, et [MASK] en a parlé lui-même, et a dit qu’il lui venait dans les moments durs à passer, et restait au palais des Tuileries, dans les combles.
+
+['Madame', 'maman', 'madame', 'Mademoiselle', 'Monsieur']	Jacquotte	Chez vous donc, les beaux meubles, le chaud tapis, les draperies, la pendule, les flambeaux et la veilleuse ; à vous la bougie, à vous les soins de [MASK], qui vous a sans doute apporté des pantoufles neuves, du lait et sa bassinoire.
+
+['Marie', 'Jeanne', 'Marguerite', 'Joseph', 'Léon']	Jacques	Ne m’avez-vous pas montré le lit de la mère Colas lorsque nous avons couché [MASK] ? Hé ! bien, s’il m’est impossible de voir un enfant sans penser à l’ange que j’ai perdu, jugez de mes douleurs en couchant un enfant condamné à mourir
+
+['Pierre', 'Joseph', 'Paul', 'Lucien', 'Martin']	Gondrin	Mais nous voici près de la fosse, et je n’aperçois pas mon ami le pontonnier.Le médecin et le commandant regardèrent attentivement autour d’eux, ils ne virent que la pelle, la pioche, la brouette, la veste militaire de [MASK] auprès d’un tas de boue noire
+
+['le', 'la', '</s>NOTUSED', 'Monseigneur', 'Monsieur']	Benassis	Ah ! monsieur le maire, dit-il en s’inclinant comme pour échapper à l’éloge que faisait de lui [MASK].Le son de sa voix remua les entrailles du commandant, qui fut jeté dans une rêverie presque religieuse par les deux mots insignifiants que prononça ce prêtre inconnu.–
+
+['madame', 'Madame', 'monsieur', 'Monsieur', 'Mademoiselle']	Adrien	Et il monta. « – Je vous ai apprêté votre thé, lui dis-je. – Merci, [MASK] ! » me répondit-il en me souriant comme vous savez. Ce fut son dernier sourire. Le voilà qui ôte sa cravate comme s’il étouffait.
+
+['il', 'Napoléon', 'Bonaparte', 'elle', 'Leclerc']	Napoléon	Alors [MASK] vous enveloppe ces généraux allemands qui ne savaient où se fourrer pour être à leur aise, les pelote très-bien, leur chippe quelquefois des dix mille hommes d’un seul coup en vous les entourant de quinze cents Français qu’il faisait foisonner à sa manière.
+
+['Il', '</s>NOTUSED', 'il', 'Elle', '»']	Genestas	Quand vint le jour, j’allai seller mon cheval, et je trottai pendant deux grandes heures dans la campagne pour me rafraîchir ; et, sans m’en apercevoir, j’avais presque fourbu ma bête… [MASK] s’arrêta, regarda son nouvel ami d’un air inquiet, et lui dit
+
+['Elle', 'elle', 'Marie', 'Jeanne', 'Thérèse']	Jacquotte	mais il est quelquefois bête tout de même, mais bête qu’il faut tout lui mettre dans la main comme à un enfant ! » [MASK] aimait la maison comme une chose à elle. D’ailleurs, après y avoir demeuré pendant vingt-deux ans, peut-être avait-elle le droit de se faire illusion
+
+['il', 'je', 'on', 'monsieur', 'lui']	Vigneau	Eh ! bien, [MASK] possède deux équipages semblables. En outre, il a le petit bidet d’allure sur lequel il va faire ses affaires, car son commerce s’étend maintenant fort loin, et quatre ans auparavant cet homme ne possédait rien ;
+
+['midi', 'minuit', 'temps', 'cela', 'jour']	Benassis	La Mairie, située sur la place de l’Église, faisait face au Presbytère. À mesure que [MASK] avançait, les femmes, les enfants et les hommes, dont la journée était finie, arrivaient aussitôt sur leurs portes ;
+
+['Voltaire', 'Madame', 'Julie', 'Charles', 'Marie']	Genestas	Ce serait faire l’usure.– Ah ! je sais bien, répondit [MASK], que le mérite d’une bonne action s’envole au moindre profit qu’on en retire ; la raconter, c’est s’en constituer une rente d’amour-propre qui vaut bien la reconnaissance.
+
+['Lui', '</s>NOTUSED', '«', '»', 'Celui']	Junot	Allez me nettoyer la route. » [MASK], qu’était un sabreur au premier numéro, et son ami véritable, ne prend que mille hommes, et vous a décousu tout de même l’armée d’un pacha qui avait la prétention de se mettre en travers.
+
+['—', '</s>NOTUSED', '–', '?', 'le']	Benassis.–	Mais, monsieur, qui donc êtes-vous ? demanda [MASK] Ah ! voilà ! répondit le militaire en revenant se placer devant le médecin, qu’il n’osait envisager. Je vous ai trompé ! reprit-il d’une voix altérée.
+
+['Il', 'II', 'On', 'il', 'Elle']	Genestas	Il était dans un de ces chars découverts et à quatre roues, menés par un seul cheval, voiture légère qui se rencontre sur toutes les routes de ces pays montagneux. [MASK] avait pour compagnon un jeune homme maigre et chétif, qui paraissait n’avoir que douze ans, quoiqu’il entrât dans sa seizième année.
+
+['Napoléon', 'Charles', 'Voltaire', 'Paul', 'Victor']	Benassis	dit le militaire en s’arrêtant au milieu de ce chemin dont il n’apercevait ni la fin ni le commencement.– Vous me faites du bien, s’écria [MASK]. J’ai du plaisir à vous entendre répéter ce que je dis souvent au milieu de cette avenue.
+
+['Marie', 'Jeanne', 'Jean', 'Madame', 'Maria']	Genestas	; tandis que fortement éclairé par le soleil couchant qui donnait aux jeunes pousses des teintes d’or, l’autre offrait le contraste des jeux et des reflets que produisaient la lumière et la brise sur son mouvant rideau.– Vous devez être bien heureux ici, s’écria [MASK].
+
+['personne', 'Monsieur', 'monsieur', 'quiconque', 'Henri']	Évelina	Par malheur, le lendemain de cette bonne journée, une lettre du précepteur de mon fils me fit trembler pour une vie qui m’était si chère. Je partis sans dire mon secret à [MASK], sans donner à la famille d’autre motif que celui d’une affaire grave.
+
+['elle', 'il', 'on', 'Elle', 'elles']	Genestas	Une vieille femme apparut soudain sur le seuil d’une cabane, et la jeune paysanne passa dans une étable, après avoir indiqué par un geste la vieille, vers laquelle [MASK] se dirigea, non sans bien tenir son cheval afin de ne pas blesser les enfants qui déjà lui trottaient dans les jambes.
+
+['la', 'Mme', 'le', 'son', 'sa']	Genestas.–	Pour elle, le plus violent des chagrins était de me voir désirer quelque chose qu’elle ne pouvait me donner à l’instant. Oh ! monsieur, les dévouements de la femme sont sublimes !Cette exclamation du médecin exprimait une secrète amertume, car il tomba dans une rêverie passagère que respecta [MASK]
+
+['Pierre', 'madame', 'Louis', 'Monsieur', 'Jean']	Benassis	C’était bien naturel, pas vrai, monsieur ?– Non, dit [MASK], tes orges ne t’appartenaient plus, tu n’en étais que le dépositaire. Et si les orges avaient baissé n’aurais-tu pas contraint ton acheteur à les prendre au prix convenu
+
+['Il', 'Elle', 'On', 'Cela', '</s>NOTUSED']	Genestas	Il y a dix ans, j’ai failli être lapidé dans ce village aujourd’hui désert, mais alors habité par trente familles.[MASK] mit une interrogation si visible dans l’air de sa physionomie et dans son geste, que le médecin lui raconta, tout en marchant, l’histoire annoncée par ce début.–
+
+['il', 'Alexandre', 'David', 'Pierre', 'Il']	Genestas	Malgré les instances de son hôte, [MASK] jura militairement, en jetant sa serviette, qu’il ne resterait pas à table sans son hôte, et revint en effet se chauffer au salon en pensant aux misères qui se rencontraient inévitablement dans tous les états auxquels l’homme est ici-bas assujetti.
+
+['toujours', 'souvent', 'quelquefois', 'bien', 'partout']	Jacquotte	Une femme à laquelle tout obéit chante toujours ; aussi [MASK] riait-elle, rossignolait-elle par les escaliers, toujours fredonnant quand elle ne chantait point, et chantant quand elle ne fredonnait pas. Naturellement propre, elle tenait la maison proprement.
+
+['beaucoup', 'attentivement', 'doucement', 'fort', 'encore']	Jacques	Il faudra veiller [MASK] pendant cette nuit, mère Colas. S’il vous disait qu’il étouffe, vous lui feriez boire de ce que j’ai mis dans un verre sur la table. Ayez soin de ne lui en laisser prendre chaque fois que deux ou trois gorgées.
+
+['garde', 'trait', 'tête', 'curé', 'service']	Benassis	Le commandant suivit son cheval, pour voir comment il allait se trouver. L’écurie était propre, la litière y abondait, et les deux chevaux de [MASK] avaient cet air heureux qui fait reconnaître entre tous les chevaux un cheval de curé.
+
+['le', 'Mgr', '[...]', '...', 'la']	Cambon	En effet, Dieu ne pèse pas le vol d’après la valeur de l’objet volé, il juge le voleur. Tel a été le sens des paraboles que j’ai tenté d’approprier à l’intelligence de mes paroissiens.– Vous avez réussi, monsieur le curé, dit [MASK]
+
+['Pierre', 'papa', 'Jacques', 'François', 'Michel']	Butifer	Après un mois ou deux consacrés à lui refaire l’estomac par le régime du laitage, je lui aurai un port d’armes, des permis de chasse, et le remettrai entre les mains de [MASK], et ils iront tous deux chasser le chamois.
+
+['lui', 'Napoléon', 'Louis', 'Charles', 'Joseph']	Genestas	Après la manœuvre, si les jeunes officiers causaient de [MASK], ils le rangeaient dans la classe des hommes qui ont obtenu au collége les prix d’excellence, et qui durant leur vie restent exacts, probes, sans passions, utiles et fades comme le pain blanc ;
+
+['le', 'la', '[...]', 'son', '...']	Genestas.–	Oh ! elle est en sûreté. D’ailleurs il n’y a point de mauvais sujets dans notre vallée ; si par hasard il s’en rencontre, je les envoie à l’armée, où ils font d’excellents soldats.– Pauvre fille ! dit [MASK]
+
+['Jean', 'Pierre', 'Martin', 'Guillaume', 'Henri']	Benassis	Allons-y promptement ! cria [MASK], qui, se dirigeant en ligne droite sur le petit bois, fit voler son cheval à travers les fossés et les champs, comme s’il s’agissait d’une course au clocher, tant il désirait surprendre le tireur en flagrant délit.–
+
+['</s>NOTUSED', 'Voltaire', 'Mme', 'Madame', 'le']	Benassis	; mais, lubie ou non, beaucoup de ces gens-là vivent à leur aise aujourd’hui dans de beaux hôtels sans avoir le cœur oppressé par la reconnaissance.– N’auriez-vous donc fait le bien que pour en percevoir cet exorbitant intérêt appelé reconnaissance ? dit en riant [MASK].
+
+['Marie', 'Jeanne', 'maman', 'Thérèse', 'Camille']	Jacquotte	Ce linge étincelait de blancheur et sentait le thym mis par [MASK] dans ses lessives. La vaisselle était en faïence blanche bordée de bleu, parfaitement conservée. Les carafes avaient cette antique forme octogone que la province seule conserve de nos jours. Les manches des couteaux, tous en corne travaillée
+
+['Alexandre', 'Pierre', 'Joseph', 'Antoine', 'Gaspard']	Genestas	Il faut arriver avant la nuit dans le bourg, pour que vous puissiez en voir le nouveau quartier.– Hé ! voilà le feu quelque part, dit [MASK] en montrant un endroit de la montagne d’où s’élevait une gerbe de flammes.– Ce feu n’est pas dangereux.
+
+['maman', 'Maman', 'Joseph', 'Napoléon', 'Louise']	Benassis	Ah ! que je voudrais savoir quelque chose de militaire.– Demain nous viendrons peut-être prendre une tasse de café au lait chez vous. Et l’on te contera quelque chose de militaire, mon enfant, dit [MASK] en la prenant par le cou et la baisant au front.
+
+['Moreau', 'Henry', 'Louis', 'Martin', 'Robert']	Genestas	– Mais, capitaine Bluteau, mes malheurs…– Ne m’appelez pas le capitaine Bluteau, s’écria [MASK] en interrompant le médecin et se levant soudain par un mouvement impétueux qui semblait accuser une sorte de mécontentement intérieur. Il n’existe pas de capitaine Bluteau, je suis un gredin
+
+['il', 'elle', 'on', 'Il', 'Louis']	Benassis	Un homme d’État devrait toujours se peindre les pauvres aux pieds de la Justice, elle n’a été inventée que pour eux.En arrivant sur le territoire du bourg, [MASK] avisa dans le chemin deux personnes en marche, et dit au commandant, qui depuis quelque temps allait tout pensif
+
+['David', 'baptême', 'Jésus', 'prophète', 'lion']	Napoléon	La vérité du tout est que ses amis l’ont laissé seul dans le désert, pour satisfaire à une prophétie faite sur lui, car j’ai oublié de vous apprendre que son nom de [MASK] veut dire le lion du désert. Et voilà ce qui est vrai comme l’Évangile.
+
+['Napoléon', 'Alexandre', 'Bonaparte', 'Auguste', 'César']	Goguelat	mais ça fait toujours plaisir à entendre.– Racontez-nous l’Empereur ! crièrent plusieurs personnes ensemble.– Vous le voulez, répondit [MASK]. Eh ! bien, vous verrez que ça ne signifie rien quand c’est dit au pas de charge. J’aime mieux vous raconter toute une bataille.
+
+['on', 'il', 'elle', 'chacun', 'Louis']	Genestas	; vous pouvez m’accompagner sans scrupule ; d’ailleurs la scène est si imposante, et nous allons trouver tant de monde, que vous ne serez pas remarqué.En suivant le médecin, [MASK] vit en effet la première pièce pleine de parents.
+
+['Pierre', 'Moïse', 'Jean', 'Jacob', 'Marie']	Genestas	Sentez-vous les parfums exhalés par la propolis des peupliers et par les sueurs du mélèze ? Quelles délices !– Écoutez, s’écria [MASK], arrêtons-nous.Ils entendirent alors un chant dans le lointain.– Est-ce une femme ou un homme, est-ce un oiseau
+
+['Marie', 'la', 'Catherine', 'Jeanne', 'Clara']	Judith	Les Cosaques avaient mis le feu à la ville, je me souvins alors de [MASK], j’allai donc la chercher, elle se mit en croupe, et, grâce à la vitesse de mon cheval, je rejoignis le régiment, qui avait opéré sa retraite. Quant au Juif et à sa famille, plus personne
+
+['argent', 'Antoine', 'Alexandre', 'elle', 'Ernest']	Adrien	Mais, monsieur, répondit-elle en rougissant, il ne m’est jamais rien arrivé qui vaille la peine d’être raconté. – Voulez-vous encore un peu de ce pâté au riz, mon petit ami ? dit-elle en voyant l’assiette d’[MASK] vide.– Oui, mademoiselle.–
+
+['le', '[...]', 'Mme', 'la', 'Monsieur']	Genestas.–	Tenez, monsieur, ces gens-là ont du cœur quand on ne le leur flétrit pas. Aujourd’hui je pense plus de bien et moins de mal d’eux que par le passé.– Vous vous êtes donné bien du mal ? dit [MASK]
+
+['moi', 'Dieu', 'eux', 'vous', 'toi']	Gondrin	; mais je les comprends, et ils s’en aperçoivent ; tandis que nul ici ne peut recueillir mes larmes secrètes, ni me donner cette poignée de main d’honnête homme, la plus belle des récompenses, qui ne manque à personne, pas même à [MASK].
+
+['Elle', 'Marie', 'Jeanne', 'Suzanne', 'Sophie']	Évelina	[MASK] donc, puisque je l’ai nommée, leva la tête par un mouvement dont la rapidité brève contrastait avec la douceur innée de ses gestes ; elle me regarda sans fierté, mais avec une inquiétude douloureuse ; elle rougit et baissa les yeux.
+
+['Un', 'Lui', 'Alexandre', 'Napoléon', 'César']	Napoléon	! Tout le monde se trouvait très-malade. [MASK] seul était frais comme une rose, et toute l’armée l’a vu buvant la peste sans que ça lui fit rien du tout.Ha çà, mes amis, croyez-vous que c’était naturel ?
+
+['ce', 'cet', 'le', 'Monsieur', 'cette']	Taboureau	Vous allez voir un peu l’esprit de cette classe dans [MASK], homme simple en apparence, ignare même, mais certainement profond dès qu’il s’agit de ses intérêts.Le bruit d’un pas pesant annonça l’arrivée du prêteur de grains.–
+
+['Madame', 'Mme', 'Marie', 'madame', 'Jeanne']	Jacquotte	Si cette cuisine, enfumée comme celle d’une auberge, était garnie d’ustensiles en nombre suffisant, ce luxe était l’œuvre de [MASK], ancienne servante de curé, qui disait nous, et régnait en souveraine sur le ménage du médecin.
+
+['moi', 'vous', 'nous', 'lui', 'Napoléon']	Napoléon	Monsieur l’officier, dit-elle après un moment de silence, vous ne m’avez rien dit de vous, et j’aurais voulu vous entendre raconter quelque aventure de guerre. J’aime bien ce que vous avez dit de [MASK], mais ça m’a fait mal…
+
+['monsieur', 'moi', 'voyons', 'madame', 'alors']	Genestas	Aussi, lorsqu’il vint se promener sur le bord de la mer, me trouva-t-il en faction à dix pas de lui. « – Hé ! bien, [MASK], me dit-il en s’approchant de moi, nous ne sommes donc pas morts ?
+
+['madame', 'Madame', 'Marie', 'Mme', 'Pierre']	Benassis	Ces arbres ont peut-être deux cents ans, ajouta-t-il. Là demeure cette femme pour laquelle un garçon est venu me chercher hier au moment de dîner, en me disant qu’elle était devenue blanche.– Était-ce dangereux ?– Non, dit [MASK], effet de grossesse.
+
+['il', 'on', 'Il', 'Louis', 'Charles']	Genestas	ses habitants paraissaient former une même famille en dehors du mouvement social, et ne s’y rattacher que par le collecteur d’impôts ou par d’imperceptibles ramifications. Quand [MASK] eut fait quelques pas de plus, il vit en haut de la montagne une large rue qui domine ce village.
+
+['Madame', 'Monsieur', 'Antoine', 'Marie', 'Napoléon']	Benassis	Mais il y a une demi-heure que je vous tiens là, dit [MASK], il est presque nuit, allons nous mettre à table.Du côté du jardin, la maison du médecin présente une façade de cinq fenêtres à chaque étage.
+
+['Socrate', 'Descartes', 'Voltaire', 'Rousseau', 'Jésus']	Benassis	Vous avez raison, reprit [MASK]. Pour mon compte, j’ai rudement abusé de la faculté de commettre des fautes. Mais ne devons-nous pas tendre à la perfection ? La vertu n’est-elle pas pour l’âme un beau idéal qu’il faut contempler sans cesse comme un céleste modèle ?
+
+['</s>NOTUSED', '–', ';', '!', '—']	Genestas.–	mais il n’en serait pas ainsi, je vous demanderais ce que vous risquez en croyant à ses vérités.– Pas grand’chose, dit [MASK] Eh ! bien, que ne risquez-vous pas en n’y croyant point ? Mais, monsieur, parlons des intérêts terrestres qui vous touchent le plus.
+
+['lui', 'Dieu', 'eux', 'Satan', 'Jésus']	Napoléon	; mais, avec [MASK], c’te farce-là ne pouvait pas prendre. Donc, il dit à ses damnés, à ceux qui avaient le cuir plus dur que les autres : « Allez me nettoyer la route.
+
+['Napoléon', 'Bonaparte', 'Moreau', 'Alexandre', 'Victor']	Genestas	Allons, capitaine, un verre de vin de l’Ermitage, s’écria le médecin en riant.– Deux plutôt qu’un, dit [MASK] en tendant son verre, et je veux les boire à votre santé comme à celle d’un homme qui fait honneur à l’espèce.–
+
+['un', 'David', 'le', 'Joseph', 'Voltaire']	Benassis	Pendant le cri qui devint général, la veuve prit des ciseaux pendus à sa ceinture, et coupa ses cheveux qu’elle mit dans la main de son mari. Il se fit un grand silence.– Cet acte signifie qu’elle ne se remariera pas, dit [MASK].
+
+['Il', 'On', 'Paul', 'Louis', 'Antoine']	Genestas	Venez voir, dit le médecin, je suis votre voisin, nous ne sommes séparés que par l’escalier.[MASK] fut assez étonné d’apercevoir en entrant chez le médecin une chambre nue dont les murs avaient pour tout ornement un vieux papier jaunâtre à rosaces brunes, et décoloré par places.
+
+['Dieu', 'Napoléon', 'Jésus', 'Joseph', 'Henry']	Jacquotte	Le son de sa voix remua les entrailles du commandant, qui fut jeté dans une rêverie presque religieuse par les deux mots insignifiants que prononça ce prêtre inconnu.– Messieurs, dit [MASK] en entrant jusqu’au milieu du salon, et y restant le poing sur la hanche, votre soupe est sur la table.
+
+['le', 'la', 'Mme', 'un', 'une']	Genestas.–	puis, après avoir observé ses imperfections organiques, je résolus de prendre soin d’elle. Peut-être avec le temps finira-t-elle par s’accoutumer au travail de la couture, mais en tout cas j’ai assuré son sort.– Elle est bien seule là, dit [MASK]
+
+['</s>NOTUSED', 'Ah', 'hélas', 'non', 'Hélas']	Jacquotte	L’entrée d’honneur est par le jardin, mais je suis si peu habitué à recevoir du monde, que… [MASK] !À ce nom, proféré presque impérieusement, une voix de femme répondit dans l’intérieur de la maison.
+
+['Voltaire', 'Rousseau', 'Flaubert', 'Freud', 'Baudelaire']	Genestas	Les autres, reprit [MASK], ont cru que j’avais eu quelque lubie ; mais, lubie ou non, beaucoup de ces gens-là vivent à leur aise aujourd’hui dans de beaux hôtels sans avoir le cœur oppressé par la reconnaissance.– N’auriez-vous donc fait le bien que pour en percevoir cet exorbitant intérêt appelé reconnaissance ?
+
+['Mais', 'Et', 'Joseph', 'David', 'Léopold']	Genestas	[MASK] lui-même demeura silencieux, sans pouvoir s’expliquer comment la mort d’un être si peu intéressant lui causait déjà tant d’impression. Il partageait instinctivement déjà la pitié sans bornes que ces malheureuses créatures inspirent dans les vallées privées de soleil où la nature les a jetées.
+
+['Il', 'Papa', 'Monsieur', 'Elle', 'Joseph']	Vigneau	Mais, cette semaine sans doute. [MASK] est en route ? demanda-t-il après une pause.– Oui, monsieur, répondit la jeune femme, il se hâte de faire ses affaires pour pouvoir rester au logis pendant mes couches, le cher homme !–
+
+['Neptune', 'Napoléon', 'Bonaparte', 'Moreau', 'Jupiter']	Genestas	Le chemin est beau, voulez-vous galoper ?– Votre bête me suivra-t-elle, dit [MASK] en criant à son cheval : Haut, Neptune !En un clin d’œil l’officier fut emporté à cent pas, et disparut dans un tourbillon de poussière ;
+
+['Marie', 'Pierre', 'Julie', 'Jeanne', 'Alice']	Benassis	Ils entrèrent, et ne trouvèrent personne dans la salle du rez-de-chaussée.– Elle aura entendu le pas de deux chevaux, dit [MASK] en souriant, et sera montée pour mettre un bonnet, une ceinture, quelque chiffon.
+
+['tir', 'maître', 'Joseph', 'guerre', 'chasse']	Butifer	Depuis que vous ne l’avez vu, il a si bien profité des leçons de [MASK], qu’il est aussi bon tireur que notre contrebandier lui-même ; il est d’ailleurs, leste et agile, bon marcheur, bon cavalier. En lui tout est changé.
+
+['vous', 'lui', 'toi', 'moi', 'Dieu']	Jésus	ces paroles calmeront-elles l’âme agitée d’une pauvre fille solitaire ? Ne m’avez-vous pas déjà perdue dans ma vie future, en me donnant des souvenirs qui reviendront toujours ! Si maintenant je ne puis être qu’à [MASK], acceptera-t-il un cœur déchiré
+
+['Napoléon', 'Bonaparte', 'Gambetta', 'Louis', 'Dieu']	Napoléon	mais l’officier, qui sans doute avait parcouru les pays où les armées françaises furent emportées par les guerres impériales, jouissait de ce paysage sans paraître surpris de ces accidents multipliés. L’étonnement est une sensation que [MASK] semble avoir détruite dans l’âme de ses soldats.
+
+['Paul', 'Pierre', 'Jean', 'Thomas', 'Jacques']	Thomas	Tous les paysans sont fils de saint [MASK], l’apôtre incrédule, ils veulent toujours des faits à l’appui des paroles.– Vous allez peut-être rire de mon début, monsieur, reprit le médecin après une pause. J’ai commencé cette œuvre difficile par une fabrique de paniers.
+
+['cela', 'lui', 'tout', 'ça', 'eux']	Jacquotte	Il resta planté sur ses jambes en s’appuyant sur un bâton à gros bout. Malgré [MASK], un petit chien épagneul suivit le marchand de grains et se coucha près de lui.– Hé ! bien, qu’y a-t-il ?
+
+['Voltaire', 'Balzac', 'Flaubert', 'Molière', 'Napoléon']	Genestas	J’ai bien peu de souvenirs, dit [MASK]. Il se rencontre des gens auxquels tout arrive, et moi, je n’ai jamais pu être le héros d’aucune histoire. Tenez, voici la seule drôlerie qui me soit arrivée.
+
+['Charles', 'Georges', 'Louis', 'Jeanne', 'Napoléon']	Benassis	C’est ma fille, voyez-vous ? ajouta-t-il en se tournant vers le commandant, lorsque je ne l’ai pas baisée au front, il me manque quelque chose dans la journée.La Fosseuse serra la main de [MASK], et lui dit à voix basse :
+
+['elle', 'il', 'maman', 'on', 'Dieu']	Judith	Je n’ai pas pu achever. Ah ! mon cher monsieur, l’on peut tout faire pour recevoir le regard de morte par lequel [MASK] me remercia ; je vis que je l’aimais toujours, et dès ce jour-là son petit entra dans mon cœur.
+
+['Charles', 'Paul', 'Pierre', 'Albert', 'Julien']	Benassis	je suis loin de les en blâmer, leur culte envers le crétin ne m’a-t-il pas souvent servi de texte pour engager ceux qui avaient de l’intelligence à aider les malheureux. Mais nous sommes arrivés, reprit après une pause [MASK] en apercevant le toit de sa maison.
+
+['Marie', 'Monsieur', 'Pierre', 'Jeanne', 'Jean']	Genestas	Je me suis vingt fois dit qu’elle ferait une charmante femme ; mais je ne saurais l’aimer autrement que comme on aime sa sœur ou sa fille, mon cœur est mort.– A-t-elle des parents ? demanda [MASK]. Que faisaient son père et sa mère ?
+
+['«', '1', '—', '5', '2']	Benassis	[MASK]. Après onze ans, je ne puis encore penser à cette funeste année… Cet enfant, monsieur, je l’ai perdu.Le médecin se tut et se cacha la figure dans ses mains, qu’il laissa tomber quand il eut repris un peu de calme.
+
+['Charles', 'Napoléon', 'Roland', 'Alexandre', 'Guillaume']	Genestas	Mais cachons-nous bien, si ces pauvres gens voient un étranger, ils font des façons et ne sont plus eux-mêmes.– Eh ! mon cher hôte, dit [MASK], n’ai-je pas souvent fait semblant de dormir pour entendre mes cavaliers au bivouac ?
+
+['I', '5', '6', '4', '2']	Benassis	[MASK]. Je ne recueillis les lumières d’une saine morale qu’après m’être transplanté dans un sol autre que celui du monde social. Je ne reconnus que plus tard la main de Dieu dans mes malheurs, et plus tard je sus me résigner en écoutant sa voix.
+
+['Napoléon', 'Leclerc', 'Guillaume', 'Alexandre', 'César']	Napoléon	Pour lors, là, la garde meurt d’un seul coup. [MASK] au désespoir se jette trois fois au-devant des canons ennemis à la tête du reste, sans trouver la mort ! Nous avons vu ça, nous autres ! Voilà la bataille perdue.
+
+['Marie', 'Jeanne', 'Catherine', 'Marguerite', 'Alice']	Genestas	Que le diable vous emporte ! s’écria [MASK] en regardant le cheval qui ne suait ni ne soufflait. Quelle bête avez-vous donc là ?– Ha ! répondit en riant le médecin, vous l’avez prise pour une rosse.
+
+['Emma', 'Alice', 'Hélène', 'Anna', 'Anne']	Évelina	J’osai croire que l’amour d’[MASK] serait plus fort que les résolutions paternelles, et qu’elle saurait vaincre l’inflexibilité de ses parents ; son père pouvait lui avoir caché les motifs du refus qui tuait notre amour, je voulus qu’elle décidât de mon sort en connaissance de cause, je lui écrivis.
+
+['Dieu', 'Napoléon', 'Jésus', 'le', 'David']	Benassis	Venez, lui dit [MASK], le Chant est commencé. Le Chant est le nom que l’on donne à cette partie des cérémonies funèbres.Le militaire aperçut alors, sur le revers occidental du pic, les bâtiments d’une ferme considérable qui forment un carré parfait.
+
+['lui', 'moi', 'nous', 'eux', 'vous']	Taboureau	Il est usurier, si profondément usurier, et usurier par une combinaison si bien fondée sur l’intérêt de tous les habitants du canton, que je perdrais mon temps si j’entreprenais de les désabuser sur les avantages qu’ils croient retirer de leur commerce avec [MASK].
+
+['il', 'on', 'elle', 'Napoléon', 'Charles']	Napoléon	Mais quand nous nous embarquons, [MASK] nous dit : « Ils ne nous verront pas, et il est bon que vous sachiez, dès à présent, que votre général possède une étoile dans le ciel qui nous guide et nous protége ! » Qui fut dit fut fait.
+
+['lui', 'chacun', 'tous', 'Alexandre', 'Julien']	Genestas	Lorsque vous serez tous servis, je veux bien vous dire mes amours. – Mais, monsieur le commandant n’oubliera pas sa promesse, ajouta-t-elle en lançant à [MASK] un regard à la fois modeste et agressif.– J’en suis incapable, mademoiselle, répondit respectueusement Genestas.–
+
+['Il', 'Elle', 'il', 'On', 'Louis']	Butifer	Tu m’apporteras ce soir même ton fusil, je te le garderai.[MASK] pressa le canon de son arme par un mouvement convulsif.– Vous avez raison, monsieur le maire, dit-il. J’ai tort, j’ai rompu mon ban, je suis un chien.
+
+[':', '—', '–', '</s>NOTUSED', 'Rousseau']	Genestas.–	Pourquoi ? dit [MASK] D’abord, parce que l’élection pour être un principe demande chez les électeurs une égalité absolue, ils doivent être des quantités égales, pour me servir d’une expression géométrique, ce que n’obtiendra jamais la politique moderne.
+
+['Il', 'Elle', 'On', 'Pierre', 'Louis']	Genestas	[MASK] aperçut alors la fumée d’une pipe entre les feuillages d’un éboulis, et la montra du doigt au médecin qui répéta son cri. Bientôt le vieux pontonnier avança la tête, reconnut le maire et descendit par un petit sentier.–
+
+['le', 'Louis', 'la', 'Monsieur', 'Guillaume']	Taboureau	Ah ! nenni, monsieur, je ne le perdrai point, dit [MASK]. Voyez-vous, monsieur le maire, c’est l’homme de Saint-Laurent qui me doit l’orge ; c’est moi qui la lui ai achetée, et c’est lui qui me refuse de la livrer.
+

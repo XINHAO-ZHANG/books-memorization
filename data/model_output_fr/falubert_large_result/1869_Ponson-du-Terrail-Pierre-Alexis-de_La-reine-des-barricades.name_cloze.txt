@@ -1,0 +1,200 @@
+['il', 'et', 'Il', 'on', 'celui-ci']	Jacquot	Sur la table, il y avait quelques aliments grossiers et une cruche de mauvais vin. [MASK] se jeta dessus avec voracité : il but et mangea en compagnie du religieux. — A présent, dit ce dernier, écoutez-moi bien, si vous voulez vous guérir.
+
+['Il', 'il', 'et', ',', 'Et']	Hardouinot	[MASK] regarda de nouveau le monceau d’or. — Il y en a beaucoup, dit-il. — Oui, certes. — Et comment transporter cela ? — J’ai pris mes mesures. — Ah ! — La nuit prochaine, tu te procureras des futailles comme celles-là.
+
+['il', 'on', 'Condé', "n'", 'elle']	Raoul	Trois autres eurent le même sort ; mais, comme le prince et [MASK] allaient en faire autant de la cinquième, ils entendirent du bruit dans la rue. Ce bruit leur arrivait au fond des caves de la maison par un étroit soupirail ouvert à fleur de terre.
+
+[',', 'le', 'me', 'en', '...']	Henri	— Hé ! mais, dit [MASK], elle me semble y venir de son plein gré. — Soit ! — Avec plaisir même... — Eh bien ! si j’osais donner un conseil à Votre Majesté... — Donne...
+
+['Jean', 'Robert', 'Pierre', 'Blaise', '...']	Noë	— Je suis à vos ordres, répondit le sieur Trépassé. — Tu vas donc mettre de la paille sur un chariot, continua [MASK]. — Le chariot est tout chargé. — Ah ! c’est différent. Alors, tu vas atteler trois chevaux au chariot.
+
+['le', 'les', "l'", 'la', 'un']	Mauvepin	Sa voix — une voix d’enfant — avait quelque chose de criard et d’aigu qui acheva d’irriter les nerfs du roi. Il se retourna vers [MASK] : — Tiens ! drôle, lui dit-il, va porter à ce moinillon d’enfer trois pistoles...
+
+['Albert', 'madame', 'Laure', 'Baudelaire', 'Goethe']	Raoul	— L’amour, reprit [MASK], est chose de fantaisie avant tout. C’est un mal qui se manifeste par symptômes divers, se traduit de manières différentes et ne se traite jamais de la même façon. — Ah ! vraiment, fit la duchesse.
+
+['celui-ci', 'Henri', 'Monsieur', 'Philippe', 'Monseigneur']	Mauvepin	— Sire, dit le page Séraphin, vous pouvez aller droit devant vous. — Bien, dit le roi, qui s’engagea dans le corridor. — Sire, fit une dernière fois [MASK], vous ne voulez donc pas que je suive Votre Majesté ?
+
+['il', 'chevalier', 'et', 'qui', 'Il']	Crillon	Les mignons tressaillirent d’aise, car ils craignaient d’avoir à venger le roi tout à l’heure et comptaient pour cette besogne sur la rude épée du chevalier. [MASK] était entré en courant, mais lorsqu’il vit le roi et son adversaire, l’épée bas, il s’approcha plus lentement.
+
+['Il', 'il', 'et', 'Elle', 'Et']	Pacôme	Le vidame eut un grognement des plus significatifs. Il rappela son valet qui, déjà, était hors de la salle. [MASK] attendit. — Tâche de savoir s’ils sont huguenots, dit le vidame. — Oui, monseigneur. — Car alors tu les renverras.
+
+['il', 'elle', 'tout', 'on', 'vous']	Henri	— Ah ! — Je vous ai fait préparer une litière, et je compte vous tenir compagnie. Comme [MASK] était libre et toujours le plus galant des princes, il prit la main de la duchesse et la porta courtoisement à ses lèvres. — Vous êtes adorable !
+
+['à', 'A', 'a', 'À', 'je']	Raoul	Elle étendit la main, écarta le rideau et vit une nappe liquide. Elle passa la main sur son front pour bien se convaincre qu’elle était éveillée, puis elle se leva et appela : — A moi ! à moi, [MASK] !
+
+['il', 'on', 'et', 'roi', 'Jean']	Mauvepin	— Et je prouve ce que j’avance. Sur ces mots, [MASK] fit glisser sur sa tringle la portière qu’il avait soulevée, et le roi tressaillit et se dressa tout effaré. Il voyait devant lui un cadavre. C’était celui du moine.
+
+['tous', 'chacun', 'celui-ci', 'celle-ci', 'circonstance']	Mauvepin	sentiment égoïste, du reste, que dominaient l’orgueil de race et la crainte du trépas pour son propre compte. La bonne humeur de [MASK] l’avait réconforté, l’arrivée du page de la belle inconnue l’avait mis en liesse.
+
+['son', 'ses', 'le', 'les', 'la']	Raoul	— Je t’aimais... et tu m’as trahie ! acheva-t-elle. Soudain les bras de la duchesse se détendirent et repoussèrent [MASK]. Celui-ci fit un pas en arrière et jeta un cri perçant. Un cri auquel répondit un strident éclat de rire.
+
+['le', 'son', 'Charles', 'notre', 'Philippe']	Henri	— Tiens ! tiens ! voilà une belle idée. — Eh bien ! avez-vous encore quelque objection à me faire ? — Oh ! une seule... — Voyons ? — Et le roi de France, [MASK] troisième du nom, que deviendra-t-il en tout cela ?
+
+['et', 'il', 'Il', 'puis', 'y']	Henri	— Mais... vous ?... — Moi, je suis un revenant. — Que voulez-vous dire ? — Jugez-en plutôt, monseigneur. Et l’inconnu approcha la lanterne de son visage et souleva un instant son masque. [MASK] jeta un cri mêlé d’épouvante.
+
+['la', "l'", 'son', 'sa', 'ce']	Loisel	Tout cela s’était accompli à une heure si matinale que personne dans le quartier n’avait vu entrer la litière. Une heure après, un gentilhomme enveloppé dans un grand manteau, son chapeau rabattu sur les yeux, frappait à la porte de [MASK].
+
+['Jean', 'ainsi', 'monsieur', 'Thomas', 'Guillaume']	Hermann	— Vous êtes curieux, dit-il. Le capitaine lorrain se rengorgea : — Savez-vous, jeune homme, dit-il, que je m’appelle [MASK], que je suis capitaine au service du duc d’Alençon et que j’ai le droit de tout savoir ?
+
+['le', "l'", 'la', 'Henri', 'celui-ci']	Henri	— Il est certain qu’il est un peu froid, dit [MASK], qui avait toujours aux lèvres une fleur de sourire. Mais, pardon ! que Votre Altesse daigne m’apprendre à qui elle destinerait le deuxième royaume.
+
+['le', '.', 'la', 'madame', 'M.']	Henri	— Ce bonhomme chez qui vous étiez logée et que vous avez pris pour un aubergiste. — Ah ! ah ! — Il a mélangé un certain narcotique à votre vin, continua [MASK]. La duchesse se frappa le front.
+
+['il', 'Il', 'on', 'On', 'elle']	Séraphin	— Et voici ma compagne fidèle, dit-il. [MASK] introduisit une clef dans une serrure, et la porte s’ouvrit, mettant à découvert un corridor à demi plongé dans l’obscurité. Nous disons à demi, car un point lumineux brillait dans l’éloignement.
+
+['Pierre', 'tout', 'Jean', 'celui-ci', 'Martin']	Quélus	du sang ! répéta [MASK], qui crut un moment que le reître s’était heurté à quelque clou de la porte. Ce fut à ce moment que le chariot se montra, plus noir que les ténèbres de la nuit, à l’extrémité de la rue.
+
+['il', 'le', 'ainsi', 'se', 'on']	Quélus	— Il faut frapper d’abord, dit-il, et tâcher de pénétrer par ruse dans la maison. Si on refuse d’ouvrir, nous enfoncerons la porte. Pourvu, acheva mentalement le mignon, que l’homme qui est avec lui ne soit pas Crillon ! Et [MASK] frappa.
+
+[',', 'de', 'le', 'et', ';']	Henri	[MASK] se leva de dessus la futaille qui lui servait de siège et fit signe au procureur de reprendre sa lampe. Celui-ci ouvrit la porte, la referma avec soin quand le roi de Navarre fut sorti, et tous deux remontèrent dans l’oratoire du procureur.
+
+['et', 'il', 'le', 'un', "l'"]	Mauvepin	Tout à coup un bruit se fit au fond de la salle, et la porte de l’office s’ouvrit brusquement. [MASK], étonné, se fit un abat-jour de sa main, au-dessus de la chandelle qui brûlait sur la table, et il regarda.
+
+['S', 'L', 'LE', '...', ',']	Pacôme	— J’en suis sûr. — Elle s’est brisé sur les rochers... tiens, voilà son équipage à la nage. Pauvres gens ! dit le vidame avec indifférence, ils vont se noyer... — Il faudrait leur porter secours, monseigneur ? — Tues fou... [MASK]...
+
+['ainsi', 'alors', 'Pierre', 'maître', 'roi']	Amédée	— Alors que, vous le savez bien, je suis un galant seigneur, morbleu ! Et il posa la main sur la garde de son épée et se contempla de nouveau dans le miroir d’acier. Les pages échangèrent un regard. Puis celui qui se nommait [MASK] frappa sur un timbre.
+
+['et', 'il', 'Il', 'Et', 'puis']	Henri	Et il éteignit sa lanterne. [MASK] se laissa conduire pendant dix minutes environ à travers d’épaisses ténèbres. Tantôt son guide se penchant à son oreille lui enjoignait de se baiser ; tantôt il lui faisait gravir une ou deux marches. L’homme à la pioche cheminait derrière.
+
+['guerre', '</s>', 'et', 'bataille', ',']	Jacquot	Seuls, les frères convers, gens taillables et corvéables à merci, occupés à laver, à balayer et à remplir les fonctions indignes, comme on disait, étaient depuis longtemps sur pied. [MASK], le moinillon, appartenait à cette catégorie maltraitée du sort.
+
+['il', 'chacun', 'Jean', 'celui-ci', 'Pierre']	Jacquot	Les deux pages sortirent, et [MASK] se trouva seul avec celui qui lui prédisait l’avenir. Alors celui-ci décrivit avec sa baguette quelques cercles magiques, il prononça plusieurs paroles mystérieuses, et tout aussitôt la salle où ils se trouvaient fut plongée dans l’obscurité.
+
+['sur', ',', 'vous', 'il', 'se']	Jacquot	demanda-t-il. Trois moines se levèrent parmi les autre moines, et chacun d’eux répondit : — Moi ! — Eh bien ! dit l’homme vêtu de noir, chargez-vous de ramener l’âne à votre couvent. Puis, comme [MASK] le regardait étonné :
+
+['dés', 'il', 'lui', 'Il', "l'"]	Schomberg	[MASK] obéit.et se tint à distance. — Voyons, monsieur, dit le roi, dépêchons-nous, car j’ai grand froid et vous veux tuer tout de suite, afin de m’aller chauffer. Le Gascon se mit à rire et engagea le fer en tierce, ce qui n’est pas une garde habituelle.
+
+['il', 'et', 'Il', '-', '</s>']	Jacquot	? L’archer répondit : — Je ne sais pas si vous êtes encore fou, messire Amaury ; mais à coup sûr, vous l’avez été. — J’ai été fou, moi ! — Fou à lier. [MASK] ouvrit de grands yeux.
+
+['il', 'Il', 'elle', 'y', 'et']	Quélus	Et il se promenait de long en large avec un personnage qui était si bien enveloppé dans son manteau qu’on ne lui voyait que le haut du visage. [MASK] alla à ce dernier et lui dit : — Monseigneur, Votre Altesse m’accorderait-elle un moment d’entretien ?
+
+['il', ';', 'Il', 'elle', 'et']	Henri	[MASK] cria ; mais ses cris ne rencontrèrent point d’écho. Il fit des efforts surhumains pour s’arracher du lit, mais ces efforts furent vains. Enfin le lit s’arrêta et parut reposer de nouveau sur une surface ferme, tandis qu’un bruit se faisait au dessus de sa tête.
+
+['Et', 'Mais', 'Oui', 'Non', 'Oh']	Tarare	— Et comme, sous prétexte de politique, vous avez un peu oublié vos serments... — Oh ! jamais ! — [MASK] ! j’ai eu de vos nouvelles. — Mais je vous aime ! — Je veux bien le croire... Seulement j’ajourne encore notre mariage.
+
+['On', 'on', 'Il', 'il', 'Nul']	Mauvepin	Mais avoir franchi la fenêtre et prêté le roi n’était rien : il fallait maintenant sortir du jardin... [MASK] ne pouvait escalader le mur et porter le roi en même temps.... Heureusement il aperçut une porte, porte qui sans doute mettait le jardin en communication avec les champs.
+
+['il', 'elle', 'on', 'Jean', 'Pierre']	Jacquot	voilà pourtant où conduit l’amour ! A ces mots, [MASK] tressaillit et songea à la femme blonde. Ce souvenir, du reste, donnait dans son esprit un côté de vraisemblance à tout ce qu’on lui racontait touchant sa qualité de gentilhomme, son amour malheureux et sa folie.
+
+['lui', 'terre', 'lui', 'luy', 'son']	Schomberg	Alors le conducteur du chariot, calme et impassible jusque-là, descendit et vint droit à [MASK]. — Pardon ! monsieur, lui dit-il, mais je vous vois inoccupé et serais désolé de vous laisser dans cette position. Et il mit flamberge au vent.
+
+['le', "l'", 'la', 'BRA', 'il']	Henri	— Madame, lui dit [MASK], qui lui baisa dé nouveau la main, je vais vous faire une prière. — Parlez, mon cousin. — Je suis votre prisonnier, n’est-ce pas ? — Oh ! si peu... — Mais encore...
+
+['il', '-', 'se', '(', ',']	Lahire	— Eh bien ! qui donc, alors ? — Ce sera le roi... [MASK] haussa les épaules. — Le roi l’exècre et elle exècre le roi, dit-il. — Oui, mais de la haine à l’amour il n’y a qu’un pas...
+
+['pardon', 'pourquoi', 'conseil', 'bonjour', 'la']	Raoul	Comme lui, il était sain et sauf, quoique fortement contusionné. Seulement, son évanouissement avait été plus long. — Qui donc est là ? se décida à demander [MASK]. — Moi, répondit le Gascon. — Qui... toi ?
+
+['.', ':', 'à', 'tou', 'distinctement']	Quélus	Un pas discret se fit entendre sur le parquet. Le roi leva la tête et vit [MASK]. — Ah ! c’est toi, dit-il. — Oui, Sire. — Où étais-tu ? — Derrière cette porte. — Et tu as entendu ?
+
+['Henri', 'il', 'celui-ci', 'Philippe', 'moi']	Quélus	mais, pour moi, la chose est indispensable, attendu que les gens de la religion jetteraient les hauts cris si le roi Henri, troisième du nom, courait lés rues et la bonne aventure. — Sire, dit [MASK], les gens de la religion sont des imbéciles.
+
+['prends', 'que', 'garde', 'prend', 'dis']	Jacques	Une obscurité profonde, opaque, et qui ne permit même plus au moine devenu tout tremblant de distinguer la silhouette du sorcier. — Prends garde, dit alors celui-ci, prends garde, [MASK]... peut-être as-tu tort de sonder l’avenir ? — Pourquoi donc aurais-je tort ?
+
+['il', 'Il', 'et', 'elle', 'Philippe']	Mauvepin	L’humeur folâtre avait disparu, le sourire avait fui des lèvres du monarque, et le dernier Valois venait de reprendre ce front chargé de nuages que les princes de sa race s’étaient transmis fidèlement de l’un à l’autre. [MASK] donna des ordres à voix basse et commanda le soupes du roi.
+
+['Il', 'il', ',', 'et', '...']	Henri	[MASK] attendit. — Puisqu’ils m’ont mis ici avec tant de précaution, pensa-t-il, c’est qu’ils ne songent pas à me tuer ; car il leur eût été facile de me faire tomber dans l’oubliette, au lieu de m’y descendre avec précaution.
+
+['valoir', 'Ensuite', 'Enfin', 'Ainsi', '-']	Mauvepin	— Ensuite, mieux vaut régner sans héritier présomptif que régner avec la peur d’être détrôné quelque jour — Que veux-tu dire ? — Heu ! heu ! fit [MASK], il avait de l’ambition, monseigneur le duc d’Anjou.
+
+['Lui', 'Pierre', 'Jacques', 'Jean', 'Monsieur']	Gaston	— Mais comment cela est-il arrivé ? — [MASK], qui veillait à la barre, se sera endormi. — Où est-il ? — Je ne sais... il est tombé à l’eau... J’imagine qu’il se sera noyé pareillement. Le chaland enfonçait toujours.
+
+['...', '....', ';', ':', ',']	Quélus	— Non pas... il me plaît... c’est un fin tireur, mon mignon. Et puis ce diable de Crillon l’a pris sous sa protection. — Voilà qui est différent, ricana [MASK]. Eh bien ! ce Gascon ?... — Il doit venir.
+
+['il', 'plus', 'le', 'ce', 'observer']	Henri	— Et quel danger veux-tu que je coure ? fit [MASK] dédaigneusement. Suis-je pas le roi ? Puis il frappa de la main sur la garde de son épée : — Et voici ma compagne fidèle, dit-il.
+
+['il', 'Il', 'roi', 'Elle', 'elle']	Maugiron	Il prit sa dague à sa ceinture, la tira du fourreau et en introduisit la pointe dans le cadenas, afin de le forcer. — Dépêche-toi donc, il fait froid ! cria le roi à travers la porte. Mais [MASK] n’eut pas le temps de répondre.
+
+['Et', 'Mais', 'Nous', '"', 'Naturellement']	Gascons	— [MASK] aussi ? — Naturellement. Et, dans un quart d’heure, je viendrai vous demander à souper. Le roi de Navarre sortit, laissant la duchesse seule et livrée à une profonde méditation. Quelques minutes après, elle éprouva une légère secousse.
+
+['Jean', 'celui-ci', 'Pierre', 'Lucien', 'Bernard']	Crillon	— Alors, dit froidement [MASK], je supposerais volontiers que le fils du baron d’Uzès, que vous prétendez être votre père, a été troqué en nourrice contre le fils d’un bateleur ou d’un marchand de vulnéraire. La leçon était rude.
+
+['lui', 'il', 'et', ',', 'Il']	Jacquot	[MASK] prit sa tête à deux mains : — 0 mon Dieu ! mon Dieu ! murmura-t-il. Alors le moine lui posa la main sur l’épaule : — Je vous guérirai, moi, dit-il. — Je ne serais plus fou ? — Non.
+
+['il', 'elle', 'puis', 'alors', 'Il']	Henri	— Ah ! simplement pour cela. — Vous êtes fou !... — Soit ; mais je vous aime... Et [MASK] se mit aux genoux de la duchesse, prit ses belles mains dans les siennes et les couvrit de brûlants baisers.
+
+['Non', 'Oui', 'Je', 'Très', 'NON']	Pacôme	— Y songes-tu, malheureux ? — Ils sont mouillés, ils ont froid... peut-être ont-ils faim ! — [MASK], dit sévèrement le vidame, je vous défends de vous abandonner à une générosité exagérée ! Vous savez bien que nous sommes pauvres cette année...
+
+['page', 'le', 'celui-ci', 'Jean', 'Olivier']	Mauvepin	Et il porta la pointe de son épée au visage du page.. Pour toute réponse, le page dégagea et para le coup. — Mais tu veux donc que je te tue ! s’écria [MASK]. — Je veux ma revanche, voilà tout. Je suis entêté.
+
+["s'", 'il', 'se', ',', 's']	Mauvepin	Et il s’inclina profondément par trois fois, puis se dirigea vers la porte et sortit, sans que le roi, rêveur, eût songé à le retenir, Et lorsqu’il fut parti, [MASK] s’écria : — Ouf ! on respire... ouvrons les fenêtres...
+
+['...', 'Sire', 'roi', 't-il', 'sire']	Quélus	— Il veut régner, Sire. Ces trois mots coupèrent court aux hésitations du roi. — Fais alors ce que tu voudras, dit-il, je m’en lave les mains. — La propreté a toujours été une vertu, murmura [MASK]. — Arnen !
+
+['Pierre', 'Jean', 'Lucien', 'Robert', 'Paul']	Mauvepin	on l’entendit grommeler et jurer derrière la porte, en homme qui n’aime pas à être réveillé. Mais il se calma subitement à la vue du page Séraphin et salua avec respect. — Oh ! oh ! pensa [MASK], il paraît que le jeûne homme boit sec et paie bien.
+
+['monseigneur', 'celui-ci', 'monsieur', 'Monseigneur', 'il']	Quélus	. — Voyons ! — Oh ! pas ici, dit [MASK] ; je me souviens du proverbe : « Les murs ont quelquefois des oreilles. » — Où voulez-vous aller ? — Là-bas... dans la cour... et nous parlerons bas, monseigneur.
+
+['Il', 'Celui-ci', 'il', 'Qui', 'Elle']	Jacquot	— Riche ! Oh !... et quoi encore ? — Tu seras aimé... — Par qui ? — Par une femme belle et puissante. [MASK] tressaillit, il regarda le sorcier. Celui-ci ajouta : — Et cette femme t’élèvera jusqu’à elle.
+
+['il', 'on', 'elle', 'chacun', 'tout']	Tristan	— Mais alors le gentilhomme ne sortait pas ? Au contraire. Seulement il avait laissé pousser sa barbe, et [MASK] le saluait tous les jours, et le trouvait un excellent locataire, tranquille et exact à payer son loyer. — Hé bien ! Sire.
+
+['Il', 'il', '</s>', 'Je', 'et']	Amédée	— Mon camarade, dit-il, je crois que vous vous moquez de moi. [MASK] ne répondit pas, mais il pressa le pas et entraîna le moinillon transformé en cavalier dans un dédale de rues obscures et tortueuses.
+
+['il', 'celui-ci', "c'", 'on', 'celui-là']	Théobald	Il y eut un moment de stupeur parmi tous ces hommes. Ils se penchèrent à l’envi sur le cadavre, car [MASK] était bien mort, et ils purent tous aussitôt constater que le reître avait été frappé entre les deux épaules, et qu’une blessure profonde laissait échapper des flots de sang.
+
+['le', 'il', 'elle', 'la', '.']	Henri	— Il fallait que mon sommeil fût bien pesant, en vérité, pour que j’aie fait tant de chemin en dormant. — En effet, dit [MASK]. Elle lui fit un signe et lui montra un escabeau. — Asseyez-vous donc, mon cousin, dit-elle.
+
+['il', 't-il', 'il', 'le', 'celui-ci']	Catherine	dit-il, car c’était bien lui qui venait d’ouvrir la poterne. — C’est moi, dit [MASK]. Malgré le brouillard et la nuit, le duc aperçut l’homme au masque. — Quel est cet homme ? dit-il avec un accent de défiance.
+
+["l'", 'Z', 'K', 'z', 'tout']	Jacquot	Ce bruit paraissait venir de derrière le tableau qui représentait le saint. Puis, tout à coup, à l’obscurité profonde qui l’enveloppait succéda une vive clarté, et [MASK] ébloui crut voir le saint descendre de son cadre.
+
+['Jean', 'Henri', 'Pierre', 'le', 'Marie']	Mauvepin	— Je sais bien, continua [MASK], que le roi n’en était pas moins attaché à ses devoirs, qu’il suivait, pieds nus, les processions, et se macérait durant le carême ; mais Dieu ne lui demandait pas tout cela. — Ah ! tu crois ?
+
+['le', "l'", 'un', 'en', 'à']	Henri	— Prisonnier de l’amour et de la beauté, répondit une voix. En même temps, [MASK], stupéfait, vit un panneau de la boiserie tourner sur lui-même, mettre à découvert une porte dont il ne soupçonnait pas l’existence, et livrer passage à une femme
+
+['Sire', 'ainsi', 'donc', 'sire', 'Ainsi']	Maugiron	— Moi, Sire, je me borne à l’amitié, c’est moins trompeur que l’amour. Le roi reprit en ricanant : — Ainsi, [MASK], mon chéri, la petite ne te plaît qu’autant que son minois me semblera vulgaire ? — Hélas !
+
+['sire', 'roi', 'Sire', 'Jean', 'Robert']	Crillon	— Ah ! tant pis ! murmura le roi. — Mais, reprit [MASK], ce matin, précisément, un homme qui se prétend expert en ces matières rôdait aux environs du château. — Et vous l’avez laissé partir ?
+
+['le', "l'", 'la', 'Y', 'L']	Henri	— En péril de mort. — Ah ! — Savez-vous qu’il était simplement question de vous laisser mourir de faim au fond de cette oubliette ? — Je m’en suis douté, murmura [MASK], qui ne put se défendre d’un léger frisson.
+
+['...', ';', '.', ':', '?']	Crillon	— Justement, dit l’ancien adorateur de la duchesse de Montpensier. — Et... ces messieurs ? fit [MASK]. Et le bon chevalier salua, en parlant ainsi, les quatre autres mariniers. — Ce sont des amis à nous et à lui.
+
+["l'", 'est', 'un', ',', 'son']	Jacquot	A sa vue, le moinillon se prit à trembler et une vague angoisse l’envahit. Le corregidor vint à lui, les sourcils froncés, et lui dit : — Mon frère, vous avez manqué à tous vos devoirs. — Moi ? fit [MASK] épouvanté.
+
+['sire', 'roi', 't-il', 'il', 'donc']	Quélus	— Alors, il est bien inutile de recommencer. — Il est certain, murmura [MASK], que mieux vaudrait peut-être... — Quoi donc ? fit le roi, voyant que son favori s’arrêtait court. — Nous débarrasser de ce roitelet, sans tambour ni trompette.
+
+['le', "l'", 'Jean', 'Pierre', 'Monseigneur']	Jacquot	— Le roi vous a fait donner deux pistoles. — C’est vrai, dit [MASK], qui jugea inutile de parler des horions qu’il avait reçus. Après ? — Sur votre route, en votre qualité de frère quêteur, vous avez recueilli les aumônes destinées au couvent.
+
+['le', ',', 'elle', 'on', 'la']	Henri	— Vous ne m’aviez donc pas oubliée, Sire ? lui dit-elle. — Madame, répondit [MASK], vous êtes de ces femmes qu’il suffit de voir une fois pour ne les oublier jamais. Et il lui baisa la main une seconde fois, murmurant :
+
+['je', 'il', 'ce', 'me', 'on']	Jacquot	— Mais, mon père, dit [MASK], ne me disiez-vous pas tout à l’heure que le roi était le plus, cruel ennemi de la religion ? — Oui. — Et que le ciel avait besoin de moi ? — Peut-être...
+
+['celui-ci', 'tous', 'ceci', 'Blaise', 'part']	Jacquot	Il posa sa lanterne sur sa table, et dit à [MASK] : — Eh bien ! vous n’avez pas dormi ? — Non. — Vous avez prié ? — J’ai vu le roi. Le moine secoua la tête. — Dites le démon, fit-il.
+
+['lui', 'vous', 'moi', 'toi', 'Monseigneur']	Henri	Mais au lieu de pousser cette porté, au lieu de frapper, il se retourna vers [MASK]. — Monseigneur, lui dit-il, j’ai été votre ennemi acharné... mais pour le mal que vous m’avez fait... — Et que tu as provoqué, malheureux.
+
+['pièce', 'de', 'table', ',', 'deux']	Séraphin	Il n’y avait toujours, dans la salle d’entrée, que [MASK], le roi et le fou. Le fou lut : « Madame et ravissante inconnue, pour la première fois de ma vie, en vous voyant, j’ai remarqué l’humilité de ma condition...
+
+['France', 'Bretagne', 'la', 'france', 'Blois']	Maugiron	Elle ne sort que le dimanche, pour aller à la messe ou au prêche, car je ne sais si elle est catholique ou bien de la religion. Encore est-elle voilée. — Hé ! hé ! messieurs, dit le roi, qui fit claper sa langue, l’histoire de [MASK] devient appétissante.
+
+['il', 'elle', 'Il', 'on', 'et']	Crillon	Au son de cette voix, [MASK] étouffa un cri. — Oh ! oh ! dit le roi, qu’avez-vous, chevalier ? — Rien... oh ! rien. Pardon, balbutia le chevalier. Et il s’approcha plus encore et chercha à percer les ténèbres de son regard.
+
+[',', 'et', "l'", 'homme', 'abbé']	Jacquot	[MASK] qui, cette fois, rêvait tout de bon, se retrouva moine dans son rêve, affublé de son froc, enfermé dans son cachot, et en présence du morceau de pain noir qui était l’unique pitance des moines condamnés à la prison.
+
+['il', 'celui-ci', 'on', 'elle', 'Il']	Jacqnot	Quand [MASK] revint à lui, il jeta un cri lamentable. Ses beaux habits avaient de nouveau fait place à son froc et il était couché sur son lit de sangles, dans la cellule de son couvent. — Aurais-je donc rêvé ? se demanda-t-il éperdu.
+
+['un', 'celui-ci', 'Bernard', 'suisse', 'monsieur']	Mauvepin	demanda un suisse. — Non, le rosser, dit [MASK]. — Mais si on le trempait un peu dans l’eau ? — Trempez ! pourvu que vous ne le lâchiez pas. Le roi s’était remis à la croisée, et il assistait au spectacle.
+
+['le', "l'", 'Henri', 'Philippe', 'Jean']	Crillon	— Nous avons le temps d’attendre, en ce cas, répondit [MASK]. Et comme on ne lui offrait point de siège, le bon chevalier prit un escabeau et s’assit. — L’histoire ! voyons l’histoire ! demanda le roi avec une joie d’enfant.
+
+[',', 'et', 'lui', 'ainsi', 'elle']	Berthe	Celle qu’il avait appelée [MASK] eut un sourire divin. — Mon bon père, dit-elle, vous savez que Dieu est bon, que Dieu est juste, et qu’il protège ceux qui le servent fidèlement. Le vieillard soupira et se tût.
+
+['parlez', 'Madame', 'Monsieur', 'Sire', 'donc']	Raoul	— Madame, répondit le page de Charles IX, si Votre Altesse exige que je complète ma pensée... — Certainement, je le veux, dit la duchesse. — Il lui faudra m’écouter patiemment. — Eh bien ! [MASK], mon mignon, parlez, je vous écoute.
+
+[',', 'le', 'à', '...', "l'"]	Quélus	— Quoi donc ? fit le roi, voyant que son favori s’arrêtait court. — Nous débarrasser de ce roitelet, sans tambour ni trompette. — Oh ! oh ! fit le roi, qui recula d’un pas et regarda fixement [MASK]. Le mignon reprit :
+
+["s'", 'il', ',', 'et', 'Il']	Henri	— Et ces ordres, qui te les a donnés ? — Vous allez le savoir. Et l’homme au masque poussa la porte que son compagnon venait d’ouvrir. [MASK] hésita un moment : — Ne me tends-tu pas un nouveau piège ? dit-il avec défiance
+
+['tiens', 'ONNE', 'EN', ',', 'Tiens']	Amaury	XI — Tiens ! [MASK], dit le page en courant au moinillon Jacquot. Et il le prit dans ses bras, le baisa tendrement sur les deux joues et lui dit : — Mon Dieu ! qu’il y a longtemps que nous ne nous sommes vus.
+
+["l'", 'la', 'son', 'ce', 'ses']	Jacquot	Ce fut ce dernier qui prit la parole et se chargea d’expliquer la folie de [MASK]. Il raconta que le jeune gentilhomme, qui était son neveu, ne pouvait s’endormir sans se voir aussitôt en rêve affublé d’une robe de moine, enfermé dans un couvent, fustigé ou emprisonné par ordre du supérieur.
+
+['</s>', 'de', ',', 'Le', 'le']	Raoul	[MASK], qui s’accoutumait petit à petit à ces relations avec les morts, prit sa dague à son flanc, la tira du fourreau et en glissa la pointe contre cette dalle de façon à la soulever. Sous la dalle était une clef.
+
+['lui', 'luy', 'eux', 'vous', 'le']	Crillon	— C’est mon avis, répliqua le roi. Mais il faut bien faire quelque chose pour les sots. Et se tournant de nouveau vers [MASK], le roi ajouta : — Vous allez venir avec nous, chevalier ? — Moi. Sire ?
+
+['roi', 'prince', 'ministre', 'fou', 'France']	Mauvepin	Il y eut un éclat de rire universel provoqué par le nouvel accoutrement de [MASK]. — Ne riez pas, dit-il, je suis le fou du roi. — Oh ! oh ! fit-on à la ronde. — Et le ministre de ses volontés.
+
+[',', 'SAM', ':', ';', 'que']	Séraphin	— Au diable ! dit-il, les gens d’épée qui passent la nuit à boire et à jouer ! Il n’y a pas moyen de dormir. — Eh bien ! dit [MASK], buvez un coup avec nous. — Non, c’est jour de jeûne ;
+

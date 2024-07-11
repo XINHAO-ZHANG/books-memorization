@@ -1,0 +1,200 @@
+['elle', 'Isabelle', 'Louise', 'Marianne', 'Marie']	Carmen	— Monsieur, lui dit-elle en l’entraînant sous les grands arbres du parc, j’ai vingt-trois ans et deux cent mille francs de dot, voulez-vous m’épouser. Le marquis recula stupéfait. — Monsieur, continua [MASK], vous dire que je vous aime serait mentir ;
+
+['le', 'Napoléon', 'Albert', 'Charles', 'Joseph']	Victor	— En ce cas, mon cher, si tu as besoin de négociateur, me voilà. — Nous verrons, dit [MASK] pensif. — Mais en attendant, je te préviens d’une chose. — Laquelle ? — J’irai lui faire une visite dès demain.
+
+['Pierre', 'lui', 'Jeanne', 'la', 'Henri']	Bouquin	mais comme, avant d’être veneur, il était gentilhomme et loyal serviteur du roi, il étouffa ses instincts égoïstes et s’efforça de prendre une physionomie insouciante. Aussi ne répondit-il point à [MASK], se contentant de jeter un heu !
+
+['Dieu', 'Joseph', 'Moïse', 'Salomon', 'Jésus']	Francis	Le vieillard muet et le vieillard sourd se regardèrent avec une éloquente inquiétude, et comme s’ils n’eussent attendu que ce regard, les forgerons et les serviteurs se levèrent. — Allez, leur dit [MASK], courez à sa rencontre dans toutes les directions.
+
+['Madame', 'madame', 'Alexandre', 'Charles', 'Monsieur']	Christian	excusez. — Attendez donc mon cher, fit imperturbablement [MASK] en posant la main sur la bride de son cheval, attendez que je vous conte quelque chose... — Mon cher, dit poliment le marquis, ce serait un vrai plaisir pour moi de vous entendre, mais...
+
+['Il', 'Louis', 'II', 'Charles', 'Frédéric']	Francis	— UN AUTEUR DRAMATIQUE. [MASK] fumait honnêtement son cigare dans l’avenue du parc, attendant que le premier coup de dix heures vînt à sonner, pour aller à son travail de chaque nuit, quand il vit venir à lui, sortant du château, son convive Christian.
+
+['Monsieur', 'Charles', 'monsieur', 'Madame', 'Camille']	Victor	— Mais non, fit [MASK], je le vois, vous ne m’attendiez pas. — Non, monsieur, non ! s’écria la jeune fille, je ne vous attendais pas ici... et à pareille heure.
+
+['Voltaire', 'Monsieur', 'Madame', 'Louis', 'Montesquieu']	Raoul	— Tu es avare, continua [MASK], mais lu es honnête selon la lettre de la loi. Donc, je me fie à loi. — Vous avez raison, M. le marquis, je ne défends que mon bien.
+
+['Elle', 'elle', 'Marie', 'Clara', 'Jeanne']	Carmen	Elle qui avait eu le courage de se taire, aurait-elle celui de parler ! [MASK] se relira chez elle presque aussitôt, craignant de révéler son trouble et ayant besoin de réfléchir une nuit avant de prendre un parti. Mais cette nuit devait voir le commencement de la tempête.
+
+['Monsieur', 'madame', 'monsieur', 'Madame', 'Mademoiselle']	Carmen	je vous aime depuis mon enfance, et hier encore, j’avais juré de n’être qu’à vous. Eh bien ! au nom de cet amour, je viens vous demander de me croire. — Je vous croirai, [MASK].
+
+['Marie', 'Madame', 'Jeanne', 'madame', 'Joseph']	Francis	Elle prit une feuille de papier, traça quelques lignes presque illisibles, les cacheta et les tendit à son mari. — Bien, dit [MASK]. Maintenant écoutez-moi. Vous allez sonner votre femme de chambre, vous lui ordonnerez d’allumer du charbon sous un prétexte quelconque.
+
+['Voltaire', 'Merlin', 'Monsieur', 'ce', 'Mme']	Bouquin	Le comte eut un mouvement de mauvaise humeur en écoutant [MASK], dont l’abrupte éloquence réveillait si bien tous ses appétits de veneur émérite ; mais comme, avant d’être veneur, il était gentilhomme et loyal serviteur du roi, il étouffa ses instincts égoïstes et s’efforça de prendre une physionomie insouciante.
+
+['il', 'elle', 'on', 'madame', 'Voltaire']	Raoul	— Le roi aura bien autre chose à faire. — Les gentilshommes vos parents, et vos voisins. — Mon ami, dit froidement le marquis, on ne force jamais un homme à reprendre ce dont il ne veut plus. Et [MASK] lui tourna le dos en riant.
+
+['elle', 'Marie', 'Jeanne', 'Suzanne', 'Sophie']	Carmen	Et [MASK] était là, éperdue regrettant presque son dévouement sublime et voyant se dénouer dans le vague désolé de son avenir, celte longue agonie de souffrances, ce martyre de toutes les heures, cette vie infernale qu’elle allait mener, enchaînée à cet homme qu’elle détestait et pour qui elle ressentait un mépris souverain.
+
+['Paris', 'chacun', 'tout', 'lui', 'Londres']	Carmen	il voulait vivre tant que [MASK] serait libre, et se brûler la cervelle au moment de la signature du contrat. Il colla donc son oreille au mur, appuya, d’une main, un pistolet sur son front, et prit la lettre de l’autre.
+
+['il', 'Dieu', 'on', 'elle', 'lui']	Francis	Si [MASK] m’eût témoigné du mépris, si noire vie commune eût été un long reproche, j’aurais eu peut-être la force de souffrir en mesurant la faute au châtiment. Il a été bon, sa clémence est devenue mon supplice.
+
+['Il', 'Antoine', 'Joseph', 'Thomas', 'Alexandre']	Francis	[MASK] se rendit à la forge vers dix heures, tenaillé plus que jamais par ses soupçons, et si pâle, que les forgerons l’interrogèrent du regard en le voyant. Le danger est moins atroce que la crainte du danger, le doute cent fois plus poignant que la réalité.
+
+['tout', 'cela', 'lui', 'Joseph', 'Louis']	Francis	Madame de Flars et le marquis, qui avaient chassé le père, étaient là, et des trois personnes qui, seules, eussent le droit de demander des nouvelles du fils, l’une était sourde, l’autre muette, et la troisième savait parfaitement ce que [MASK] semblait annoncer.
+
+['mépris', 'noblesse', 'courtoisie', 'colère', 'majesté']	Rose	Ces paroles de [MASK] exaspérèrent Sonne-Toujours. — Eh bien, s’écria-t-il, qu’il y vienne ce marquis, ce gentilhomme, ce seigneur d’autrefois, demander la main de la fille de son ancien vassal et nous verrous comme il sera reçu.
+
+['Marie', 'Marguerite', 'Jeanne', 'Rose', 'Sophie']	Rose	L’enfance de [MASK] passa tout entière devant ses jeux, et dans ses larmes et ses sourires de petite fille, dans ses coquetteries mutines, dans ses puérils dépits, il lut et comprit dix années d’amour qui lui avaient échappé.
+
+['Madame', 'Marie', 'Catherine', 'Jeanne', 'Julie']	Carmen	Cette chaîne se brise, et si, maintenant... — Monsieur, dit tristement [MASK], on n’aime qu’une fois en sa vie, mais je serai une honnête femme... Allez demander ma main. Ils reprirent ensemble le chemin du château.
+
+['</s>NOTUSED', 'John', 'Alice', 'Jack', 'David']	Sonne	Ce sentiment-là a tellement grandi en moi, il m’absorbait et me dominait à un tel point que j’ai risqué vingt fois ma vie pour venir ici chasser encore un peu sur tes terres. — Je comprends cela, dit [MASK]-Toujours.
+
+['chêne', 'bois', 'Fontainebleau', 'sapin', 'vigne']	Pré-Gilbert	— Mais vous m’assurez bien... demanda le soupçonneux propriétaire du manoir et des futaies de [MASK]. — Je t’assure, articula froidement le marquis, que je n’y songe nullement. — D’ailleurs, comprenez bien, monsieur le marquis, que pour déposséder un homme...
+
+['un', 'Pierrot', 'Paul', 'Monsieur', 'Eugène']	Francis	allez ! dit [MASK] intéressé malgré lui et pris d’une sorte d’impatience fiévreuse. — Jusqu’ici rien que de vulgaire. C’est l’exposé de mon action, voilà tout... Mais voici que la situation se complique ; le mari a un ami, un imbécile !
+
+['celui', 'lui', 'celle', 'toi', 'elle']	Christian	... que sais-je ? ... Là-dessus, [MASK] qui avait la sotte prétention de connaître les femmes comme si quelqu’un au monde arrivait jamais à pareil résultat ! lui développa des théories fort belles et parfaitement absurdes. — Et comment se nomme ta merveille ?
+
+['Charles', 'Louis', 'David', 'Jean', 'Alexandre']	Christian	— Tarare ! fit [MASK], je ne me bats jamais le soir. — Eh bien ! demain. — Non, tout de suite. — Mais je suis pressé ? — C’est l’affaire de quelques minutes. — Je ne les ai pas à ma disposition.
+
+['Oui', 'Monsieur', 'Capitaine', 'Oh', 'Moi']	Victor	— [MASK], dit-elle, je vous aime. — Oh ! fit-il, sera-ce possible, maintenant ? — Attendez. Elle glissa comme une-ombre devant le capitaine, qui n’osa la presser sur son cœur.
+
+['Jeanne', 'Catherine', 'Marguerite', 'Marie', 'Charlotte']	Rose	— Et qui voudrait d’une pauvre fille comme moi ? demanda [MASK] avec une naïveté parfaite. — Une pauvre fille, massacre de cerf ! exclama le nouveau châtelain, une pauvre fille ! mais tu auras trente mille livres de rente un jour, et tu te trouves une pauvre fille !
+
+['Henry', 'Alfred', 'Napoléon', 'Shakespeare', 'Molière']	Christian	— Mais non, dit le capitaine, parle ! Ne vois-tu pas que je suis fou. — Recule-toi donc, dit [MASK], car tu pourrais bien m’étrangler encore et j’ai un drame superbe que je veux faire avant de mourir.
+
+['Molière', 'Montaigne', 'Balzac', 'Racine', 'Montesquieu']	Lauzun	— Je suis là, à côté, m’a-t-elle dit. Le comte était un élève de Richelieu et de [MASK], si le mot impossible n’était pas français pour lui, c’était surtout en amour.
+
+['vous', 'moi', 'nous', 'lui', 'soi']	Victor	Comment ce dernier qui avait quitté le salon vers neuf heures, se trouvait-il à près de dix encore dans l’avenue ? — D’où sortez-vous donc ? lui demanda-t-il, je vous croyais chez [MASK]. — Ma foi ! très
+
+['il', 'Satan', 'Dieu', 'Pierre', 'Merlin']	Satan	Mais [MASK] le repoussa, et furieux, prit le flambeau et l’approcha des draperies du lit. Le lit s’enflamma, le diable s’enfuit, et le châtelain, qui était trop cassé pour être leste, brûla lui et sa Bible.
+
+['qui', 'il', 'elle', 'on', 'Antoine']	Francis	— Pardon, monsieur, je venais de faire la même démarche au nom de mon ami, M. Victor Antoine, capitaine au premier régiment de spahis. — Oui, oui, fit la tête du vieillard. A cette brusque interruption, [MASK] eut un mouvement de contrariété, le marquis fronça le sourcil.
+
+['il', 'elle', 'on', 'Il', 'lui']	Victor	— Ah ! — J’ai mangé mes rentes d’abord, j’ai enterré mon oncle ensuite, et j’ai dévoré les siennes enfin. — En sorte que maintenant te voilà... Et [MASK] s’arrêta, cherchant une expression polie qui signifiât : « Te voilà ruiné.
+
+['Marie', 'Julie', 'Juliette', 'Marianne', 'Catherine']	Carmen	Un homme de cœur, à cette révélation, fût tombé aux genoux de [MASK] et l’eut aimée d’un violent amour ; le marquis n’était qu’un lâche : il se contenta de remercier le hasard qui se chargeait de l’accomplissement de ses tortueux desseins.
+
+['Monsieur', 'Le', 'M', '«', 'Mr']	Bouquin	[MASK], qui se levait de table, s’appuya à son siège pour ne point tomber à la renverse : — Monsieur le comte est fou ! murmura t-il avec commisération. — Non pas, répondit le comte.
+
+['madame', 'Madame', 'Monsieur', 'Mme', 'monsieur']	Raoul	— Autrefois, monsieur le marquis, du temps de l’ancien régime, le roi était tout puissant et les nobles fort respectés. Il ne fallait pas être gentilhomme si on avait la fantaisie d’être pendu, vu que les gentilshommes étaient décapités. — C’était leur droit, dit fièrement [MASK].
+
+['Marie', 'Juliette', 'Madame', 'Julie', 'Marguerite']	Carmen	Cependant il baisa la main de [MASK], et lui dit : — Si un pareil mot n’était un blasphème, je vous dirais, mademoiselle, qu’une chaîne de fer me retenait, seule, ailleurs, et que je vous aimais du jour où je vous vis...
+
+['madame', 'Madame', 'Mademoiselle', 'monsieur', 'Monsieur']	Anaïs	Elle était pâle, et sa toilette de jour témoignait qu’elle n’avait pas songé encore à prendre quelque repos. — Vous, [MASK] ? dit le marquis. — Oui, répondit-elle, déposant son bougeoir et se jetant dans un fauteuil, je veux causer avec vous.
+
+['Napoléon', 'Monsieur', 'Louis', 'Voltaire', 'Charles']	Francis	Notre capital peut doubler en cinq ans. Voici vos titres. Le marquis ouvrit un portefeuille et voulut en tirer une liasse de papiers. — Gardez, dit [MASK], vous mettrez cela dans la caisse et vous le porterez en compte au grand livre.
+
+['madame', 'Madame', 'Mademoiselle', 'Marie', 'dame']	Anaïs	— Votre silence, continua le marquis, me dit assez combien j’ai été misérable et lâche envers vous, combien j’ai été coupable et abject en vous abandonnant. Mais réjouissez-vous, [MASK], car mes tortures vous ont vengée d’avance.
+
+['Roland', 'Pierrot', 'Henri', 'Louis', 'Charles']	Raoul	— Oh ! oh ! fit [MASK] joyeux et redevenant veneur. — Nous ferons une belle journée, je vous jure. — Tant mieux, morbleu ! — Et nous aurons un cuisseau de venaison à dîner, je vous en réponds. Puis, envisageant le marquis :
+
+['Il', 'Joseph', 'Paul', 'Jean', 'Louis']	Francis	Il prenait du ventre avant l’âge, et ses traits, assez réguliers du reste, commençaient à s’empâter disgracieusement. [MASK] avait succédé à son père dans la gestion de l’usine, lorsque celui-ci perdit la voix.
+
+['celle', 'Marie', 'elle', 'Sophie', 'Jeanne']	Rose	mais [MASK] qui était une fille de résolution et de cœur, fronça ses blonds sourcils avec une expression décolère toute olympienne, et elle répéta : — Nous verrons bien ! En ce moment, la porte s’ouvrit brusquement, et maître Sonne-Toujours apparut sur le seuil.
+
+['celui', 'un', 'celle', 'Pierre', 'Fritz']	Bouquin	Il arriva au rendez-vous de chasse à dix heures, trouva [MASK] qui lui donna à choisir entre un cerf et un élan, opta pour l’élan et fit découpler. Les chiens, oisifs depuis long-temps, donnèrent avec une ardeur sans pareille.
+
+['lui', 'elle', 'eux', 'soi', 'moi']	Raoul	— Non, il ne partira pas, continua l’ancien piqueur avec véhémence, il ne partira point, parce qu’il est ici chez lui et qu’on ne quitte pas sa maison. Et maître Sonne-Toujours plia un genou devant [MASK] et poursuivit :
+
+['Il', 'Elle', 'il', 'Alexandre', 'Merlin']	Jacques	[MASK] comprit cependant et répondit avec un rire terrible : — Je le connais, et tu sauras son nom quand je l’aurai tué. Deux éclairs illuminèrent le regard du géant, une sorte de joie féroce contracta sa large figure ; puis éclairs et joie s’éteignirent, et il dit :
+
+['Napoléon', 'Charles', 'Louis', 'Henri', 'Roland']	Bouquin	— Ceci est fort bien dit et bien pensé, Monsieur le comte, répondit [MASK] d’un ton grondeur ; mais ce n’était vraiment pas la peine de faire faire à vos chiens huit cents lieues, pour les traîner jour et nuit couplés et la queue basse, à la suite d’un fourgon de campagne.
+
+['Ah', 'Oh', 'Vraiment', 'Enfin', 'Quoi']	Cordieu	dit une voix douce et harmonieuse, une voix de femme qui ne ressemblait en rien à celle que le comte avait entendue déjà. Le comte chercha de nouveau autour de lui, le salon était désert. — [MASK] ! s’écria-t-il, je la trouve adorable ;
+
+['il', 'puis', 'ensuite', 'lui', 'soudain']	Christian	La pauvre femme s’assit sous le poids d’une émotion terrible. Le marquis, assez embarrassé, demeura adossé au chambranle de la cheminée ; et [MASK] se promena de long en large avec des airs vainqueurs, que sans doute il empruntait aux héros de ses mélodrames.
+
+['Charles', 'David', 'Richard', 'George', ';']	Victor	A la vue de ce dernier, le vieux Flars se leva et vint à lui menaçant ; sa bru l’arrêta d’un geste et se plaça, comme elle l’avait fait naguère, comme l’avait fait ensuite [MASK] au milieu de la salle et s’écria :
+
+['chacun', 'tous', 'cheval', 'Roland', 'César']	Bouquin	Les chiens, oisifs depuis long-temps, donnèrent avec une ardeur sans pareille. À 5 heures du soir, l’élan était forcé sans qu’il y eût à relever un seul défaut. Le comte fit la curée, avisa un village voisin et dit à [MASK] :
+
+['elle', 'il', 'Jeanne', 'on', 'Marie']	Carmen	Le marquis arriva ; peu après, [MASK] eut tout deviné, tout compris. Que pouvait-elle faire ? Se taire ? ... n’était-ce pas froisser tout ce qu’il y avait en elle de dignité, d’orgueil, de race et de vertu ? Parler ?
+
+['on', 'se', 'où', 'qui', 'y']	Malicorne	Une branche de houx était suspendue au-dessus de la porte, et au-dessous de la branche on lisait ces mots tracés avec une orthographe bizarre, dont nous respectons volontiers les allures capricieuses : Au relé de la poste, [MASK] loge à pié et à cheval, ser à boire et à mangé.
+
+['famille', 'maître', 'Madame', 'Monsieur', 'Mme']	Victor	Il avait franchi le pont jeté sur le torrent, et du pont, il était arrivé à la maison de [MASK], devant laquelle il allait passer sans s’arrêter, lorsque sur le seuil se montra notre ami Christian. — Ah ! pardieu, s’écria celui-ci, enchanté de vous voir, marquis.
+
+['Marie', 'Alice', '</s>NOTUSED', 'Madame', 'Isabelle']	Carmen	Je viens vous tuer, [MASK], parce que vous n’êtes plus ni la femme de mes rêves, ni le but de mon avenir, ni l’ange dont l’image m’a guidé et soutenu à travers mille dangers et mille fatigues...
+
+['Allons', 'Écoute', 'Voyons', 'Oh', 'Voilà']	Rose	. Un peu plus tard, tandis qu’il dînait somptueusement, au mépris de la frugalité républicaine, il dit brusquement à sa fille : — [MASK], mon enfant, tu as vingt ans tout à l’heure ; il faudrait songer à t’établir.
+
+['elle', 'il', 'Elle', 'Il', 'qui']	Carmen	il a trouvé des empreintes de pas dans le jardin, et il est entré chez sa femme pour la tuer... Alors, moi... [MASK] s’arrêta rouge de honte, — Achevez, mademoiselle, achevez, s’écria le marquis avec impétuosité.
+
+['cela', 'méditer', 'seul', 'dormir', 'écrire']	Rose	Au reste, il éprouvait un besoin impérieux de solitude depuis quelque temps, — il se plaisait dans un isolement absolu, et rêvait, Celte rêverie, cet isolement, était la conséquence forcée de la métamorphose qui s’était opérée en lui. Il aimait [MASK] ;
+
+['Il', 'Voltaire', 'Robespierre', 'Montesquieu', 'Rousseau']	Raoul	Nous nous bornerons donc à esquisser sommairement les détails indispensables à l’intelligence de notre récit. [MASK] était d’une philosophie peu commune, philosophie dont, cependant, la noblesse d’alors donna des preuves nombreuses dans les prisons et sur les marches de l’échafaud.
+
+['Madame', 'madame', 'Marianne', 'tout', 'Balzac']	Dusautoy	fine moustache, coiffure léonine, un homme que [MASK] habille et qui dîne au café Anglais. Celui-ci s’installe comme le diable s’est installé chez le châtelain, au lieu d’aller comme ce dernier chasser avec son hôte, il parle bourse, commerce, chemins de fer et politique avec le sien ;
+
+['demain', 'mieux', 'cela', 'ceci', 'Noël']	Bouquin	Cette lettre écrite et le valet de chambre parti à franc étrier, le comte s’était dit : — En attendant [MASK], je me procurerai un chien d’arrêt et je secouerai les lièvres et les compagnies de perdreaux qui m’avoisinent. Il avait commencé dès le lendemain.
+
+['Marie', 'Vénus', 'Catherine', 'elle', 'toi']	Rose	Pour que je puisse élever [MASK] jusqu’à moi, il faut que je l’épouse pauvre et que je demeure pauvre moi-même. Tu t’exagères ton devoir en te croyant obligé de me rendre mes biens, tu les as acquis, ils sont à toi.
+
+['Il', 'Chacun', 'il', 'On', 'Louis']	Francis	bonsoir, marquis. [MASK] rentra chez lui plus calme et presque rassuré. Mais la jalousie ressemble à ce brasier sur lequel vous jetez de l’eau et qui paraît s’éteindre pour se rallumer aussitôt avec une dévorante activité.
+
+['Antoine', 'Jacques', 'Marie', 'Jean', 'Pierre']	Jeannon	Le père Antoine est mort, la garcette de Jacques Nicou s’est affolée, puis noyée sans qu’on sache pourquoi. — Je le sais, moi, murmura [MASK]. Il y eut un murmure d’interrogation dans la salle ;
+
+['Charles', 'Louis', 'Alexandre', 'Henri', 'Guillaume']	Raoul	— Un gentilhomme est assez riche de quinze cents livres de revenu, ajouta [MASK] avec mélancolie, surtout lorsque son roi est mort de la main des bourreaux et que les princes mangent le pain noir de l’exil. Puis il se leva de nouveau et dit simplement :
+
+['partir', 'sortir', 'rentrer', 'revenir', 'mourir']	Victor	Il demeura là jusqu’au jour. Le jour vint, il entendit aller et venir dans la maison... mais il resta... Neuf heures sonnèrent, et il distingua parfaitement le bruit des serviteurs et des forgerons entrant pour la cérémonie. La résolution de [MASK] était prise ;
+
+['Il', 'Elle', 'On', 'Louis', 'il']	Raoul	Donc, je me fie à loi. — Vous avez raison, M. le marquis, je ne défends que mon bien. [MASK] réprima de nouveau un sourire. — Donc, je place ces dix mille écus chez toi, et tu m’en servira le revenu.
+
+['Il', 'II', 'Paul', 'On', 'Lui']	Francis	Vingt fois la honte et la crainte l’empêchèrent, tant il redoutait une de ces preuves terribles, palpables, écrasantes, devant lesquelles le doute n’est plus permis. [MASK] était trop loyal pour savoir mentir. Rentrer avant son heure accoutumée ! il fallait un prétexte.
+
+['Il', 'Elle', 'On', 'Dieu', 'Pierre']	Francis	L’amant ne présente point comme le diable au châtelain, une quittance de son âme en bonnes formes à l’infortuné mari, il n’engloutit pas sa maison. Non, il fait mieux... il se sauve avec l’argent et la femme. [MASK] frissonna.
+
+['Jeanne', 'Marie', 'Sophie', 'Catherine', 'Madeleine']	Carmen	[MASK] jusque-là forte et résolue encore, sentit s’évanouir son courage, et, craignant de ne pouvoir supporter plus longtemps son fardeau de douleur, tremblant de trahir son secret fatal devant ce père qui la croyait coupable, elle se releva brusquement et s’enfuit.
+
+['Elle', 'Il', 'On', 'Marianne', 'Marie']	Victor	— Elle épouse... le marquis de... Lestang... répéta-t-il du ton d’un homme qui ne comprends pas. — Sans doute. [MASK] prit son ami à la gorge, elle serrant à l’étouffer : — Tu mens ! s’écria-t-il, elle le hait.
+
+['Balzac', 'Voltaire', 'Baudelaire', 'Flaubert', 'Rousseau']	Christian	Mais le lendemain, quand il se trouva à l’usine et loin de sa femme et du marquis, ce frissonnement qui, déjà s’était emparé de lui, le reprit et le soupçon, comme l’avait fort bien dit [MASK], commença à grandir, grandir...
+
+['il', 'on', 'Robespierre', 'Moreau', 'chacun']	Raoul	Les deux jeunes gens rougirent l’un et l’autre en se regardant, et [MASK] monta à cheval, dix minutes après, avec moins d’ardeur qu’on eût du le supposer de la part d’un homme qui avait bravé l’échafaud et fait trois cents lieues à pied pour venir chasser.
+
+['fer', 'Dieu', 'Fer', 'Satan', 'Pan']	Satan	Quand on le vit dépasser le village, un cri d’effroi retentit. — Le Trou de [MASK] ! murmurèrent cent voix. Mais le géant courait toujours, et comme il était sourd, il n’entendit point les cris de : Arrêtez ! arrêtez ! dont on le poursuivait...
+
+['Dieu', 'dieu', 'Jésus', 'DIEU', 'Rome']	Raoul	ce testament était une longue et touchante prière qu’il adressait à [MASK] en le suppliant de reprendre son bien. Après quoi il se commanda un cercueil et une pierre tumulaire. Vers le soir sa folie le reprit, et il s’éteignit deux jours après.
+
+['ver', 'serrure', 'fer', 'balle', 'souris']	Satan	Que voulait dire cette fumée ? Malheureusement, quelque hâte qu’elle eût d’arriver, le chemin devenait de plus en plus étroit et raboteux ; le précipice s’escarpait, et, dans le lointain, entre elle et la maison blanche, grondait le trou de [MASK].
+
+['un', 'le', '</s>NOTUSED', 'Monsieur', ':']	Victor	Un jeune homme de vingt-huit à trente ans, en costume de voyageur, dégringola lestement de la banquette, regarda autour de lui pour s’orienter sur l’existence d’un café ou d’un restaurant quelconque, aperçut [MASK], poussa un cri et courut à lui :
+
+['»', '«', '...', '\\"', '</s>NOTUSED']	IX	malheureusement, un nouveau personnage devait surgir qui changerait ce calme en orage, jouant innocemment le rôle de l’étincelle tombée sur un baril de poudre. Et l’heure était proche, la mine souterraine creusée autour du château, et sur laquelle ses hôtes reposaient insoucieux, allait éclater... L’étincelle arrivait ! [MASK].
+
+['Elle', 'Marie', 'Anna', 'Jeanne', 'Isabelle']	Carmen	[MASK] eut le courage de se taire ; elle feignit de tout ignorer. Elle avait deviné la domination féroce de cet homme sur cette femme, elle comprit qu’il y avait une victime et un bourreau ; elle plaignit l’une et méprisa l’autre.
+
+['Il', 'Elle', 'Je', 'Anna', 'Adam']	Raoul	C’est un homme qui a des idées à lui, et qui n’est pas du goût de tout le monde, j’en conviens, mais je vous réponds qu’il a du bon, malgré ça. [MASK] fronça le sourcil et ne répondit rien.
+
+['Voyons', 'Oh', 'Ah', 'Allons', 'Mais']	Rose	— [MASK], mon enfant ! lui dit-il, si tu te sens assez de courage pour renoncer à cette fortune. — Qui n’est point à moi, fit-elle avec indignation, qui est un vol honteux ; une infamie, qui retombe en taches de boue sur mon front.
+
+['il', 'on', 'elle', 'Joseph', 'Il']	Francis	Et il salua et sortit si brusquement, d’une façon si différente de celle qu’il avait mise à entrer, qu’il sembla justifier l’accusation de folie qu’il avait annoncé contre lui-même. Quand il fut parti, [MASK] se retourna près de son père.
+
+['madame', 'Madame', 'Mademoiselle', 'maintenant', 'Jeanne']	Carmen	— Viendrez-vous au château ? dit-elle en lui abandonnant sa main, qu’il effleura d’un baiser. — Non, dit-il ; car si je voyais cet homme, je le tuerais. Mais vous, [MASK], vous reverrai-je ?
+
+['Il', 'Elle', 'Charles', 'On', 'Frédéric']	Bouquin	— Monsieur le comte est fou ! murmura t-il avec commisération. — Non pas, répondit le comte. Mais j’ai toujours eu envie de savoir par moi-même si les Turcs étaient des veneurs passables. [MASK] haussa les épaules :
+
+['il', 'elle', 'on', 'Antoine', 'Louis']	Christian	Un éclair passa dans l’œil unique du vieillard, et tandis qu’il allait répondre négativement, [MASK] dit vivement au marquis : — Pardon, monsieur, je venais de faire la même démarche au nom de mon ami, M. Victor Antoine, capitaine au premier régiment de spahis.
+
+['Elle', 'Alice', 'Anna', 'Emma', 'Marie']	Carmen	[MASK] se prit à trembler elle aussi. Jamais elle n’avait osé se demander à elle-même ce qui pourrait arriver, quel drame sanglant ou lugubre se déroulerait si jamais son aveugle frère ouvrait les yeux enfin. Pour la première fois elle se fit cette question ...
+
+['il', 'on', 'Paul', 'Charles', 'Louis']	Francis	Lorsque quatre heures sonnèrent, [MASK] était encore occupé à calculer la perte et à chercher un moyen de l’atténuer. Aussi rentra-t-il chez lui fort soucieux. Sur le seuil de l’usine, ces soupçons dont avait parlé si éloquemment son ami l’auteur dramatique, lui revinrent et envahirent son cerveau.
+
+['Joseph', 'Pierre', 'Louis', 'Charles', 'François']	Raoul	— Maintenant, mon ami, reprendras-tu des mains de ta femme cette fortune dont tu refusas d’accepter la restitution ? — Oui, répondit [MASK], mais nous dépenserons en œuvres de charité une somme équivalente à celle dont ton père eut besoin pour acheter mes biens.
+
+['Jeanne', 'Julie', 'Marie', 'Marguerite', 'Catherine']	Jeannon	. — Quand je vous le dis, reprit [MASK] en frappant de son poing sur la table, que ces Parisien sont tout bouleversé ici. — Allons, la vieille ; dit un forgeron, retiens un peu ta langue, ou gare. — Eh ben !
+
+['il', 'on', 'Satan', 'elle', 'Pierre']	Gontran	Le châtelain lut et recula, reconnaissant sa signature. — Maintenant, dit le diable en tournant le parchemin à l’envers, relis. Le parchemin était transparent, et au travers, [MASK] lut : Satan ! et poussa un cri d’effroi.
+
+['oui', 'non', 'Oui', 'maman', 'madame']	Carmen	c’est toi. — Oui, [MASK], répondit-il en s’agenouillant et prenant ses mains effilées et blanches, c’est moi. — Mon Dieu ! fit-elle avec une joie enfantine, je le sentais bien, là, tout à l’heure, cette fumée.
+
+['pourtant', 'Dieu', 'voilà', 'encore', 'puis']	Carmen	peut-être un souvenir poignant, une de ces grandes douleurs qui tuent l’esprit, quand, le corps est vivace encore, avait-il brisé la vieillesse de cet homme sourd qui ne parlait jamais, tant il avait l’habitude de comprendre son maître sur un seul regard. Et [MASK] !
+
+['Mais', 'Monsieur', 'Madame', 'Comment', 'Enfin']	Carmen	— [MASK], dit le capitaine avec une explosion de douleur, croyez-vous que l’on pardonne, quand on ne retrouve qu’une tombe. J’avais deux amours, mon père et vous. Cet homme les a brisés tous deux.
+
+['Napoléon', 'Voltaire', 'Charles', 'David', 'Louis']	Francis	— Vous êtes fou... et je ne sais ce que vous voulez dire... — C’est possible, répondit [MASK], mais les hommes de ma trempe, lorsqu’ils s’avisent d’agir, ne s’y reprennent pointa deux fois.
+
+['Allons', 'Capitaine', 'Allez', 'Monsieur', 'Chevalier']	Bouquin	— [MASK], dit tristement le comte, couple les chiens et passe à l’ambulance. Nous chasserons un autre jour. Puis il se tourna vers son lieutenant qui devait chasser avec lui : — Faites sonner le boute-selle pour la compagnie, et à cheval !
+
+['Louis', 'Charles', 'François', 'Henri', 'Henry']	Christian	— Oui, fit [MASK]. — Mais elle... elle ? — Elle ? mon pauvre ami, elle épouse le marquis de Lestang dans huit jours peut-être... Le capitaine fût devenu moins livide si la foudre du ciel l’eût atteint.
+
+['madame', 'Madame', 'Mademoiselle', 'monsieur', 'Monsieur']	Anaïs	— Oui, répondit-elle, déposant son bougeoir et se jetant dans un fauteuil, je veux causer avec vous. — Comme vous êtes pâle, [MASK]. — Les émotions de cette journée m’ont brisée. — Heureusement voilà le mal réparé, et le dénoûment...
+
+['non', 'Monsieur', 'monsieur', 'vous', 'Madame']	Armand	Vous n’êtes pas mon mari, mais vous êtes mon complice, nous sommes unis, enchaînés l’un à l’autre comme deux compagnons de boulet, et vous me direz vainement : Nous ne sommes pas mariés ! Eh bien ! non, [MASK], vous ne l’épouserez pas ;
+
+['lui', 'moi', 'nous', 'elle', 'Marie']	Carmen	murmura-t-il tout bas. Elle hésita une minute, une minute encore le remords essaya de lutter, mais il était toujours vaincu depuis si longtemps. Le marquis la conduisit à sa place auprès de la table à ouvrage, puis s’approcha négligemment de [MASK].
+

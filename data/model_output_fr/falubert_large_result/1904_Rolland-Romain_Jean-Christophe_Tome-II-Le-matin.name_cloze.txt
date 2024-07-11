@@ -1,0 +1,200 @@
+['la', 'musique', 'leur', 'piano', 'une']	Minna	Il continuait à lui enseigner le piano. Deux fois par semaine, le matin de neuf heures à dix heures, il surveillait les gammes et les exercices de la fillette. La chambre où ils se tenaient était le studio de [MASK].
+
+['il', 'Il', 'elle', '-', 'Elle']	Christophe	Elle attendit un moment, puis dit d’un ton dépité : – Voudriez-vous, je vous prie, ramasser mon mouchoir ? [MASK] n’y tint plus. – Je ne suis pas votre domestique ! cria-t-il grossièrement. Ramassez-le vous-même !
+
+['il', 'elle', 'lui', 'lui-même', 'Il']	Minna	Elle continuait de sourire, et disait : – Parce que. Il insistait. Avec des ménagements ironiques, – (elle ne le prenait pas tout à fait au sérieux) – elle lui dit qu’il n’avait pas de fortune, que [MASK] avait d’autres goûts.
+
+['celle-ci', 'Madame', 'Dieu', 'tous', 'madame']	Minna	c’était pénible et difficile. Il s’évertua à voiler maladroitement son amour sous des formules de politesse cérémonieuse, dont il se servait toujours d’une façon ridicule. Sa lettre partie, il attendit la réponse de [MASK], il ne vécut plus que dans cette attente.
+
+['il', 'on', 'le', 'celui-ci', 'qui']	Christophe	le frôlement des feuilles froissées s’effaça comme un sillage sur la surface de l’eau. Bien qu’ils eussent regret d’avoir crié, cette aventure les mit en joie. Ils se tordaient de rire, en pensant au bond effarouché du lièvre, et [MASK] l’imita d’une façon grotesque.
+
+['dire', 'entendre', 'faire', 'lui', 'penser']	Christophe	; il disait des choses blessantes à [MASK] ; il voulait s’arrêter, il prétendait qu’il était dangereux de marcher, il menaçait de s’asseoir dans le chemin, de se coucher par terre, au milieu des champs labourés.
+
+['change', 'recommandation', 'démission', 'la', 'M']	Minna	; il se leva, fut sur le point de partir à pied, d’aller la rejoindre. Mais où ? Où la retrouver ? Le quatrième matin arriva la lettre de [MASK], – une demipage, – froide et pincée.
+
+['il', 'nous', 'leur', 'lui', 'homme']	Jérémie	[MASK] racontait des histoires étranges de la vie des animaux ; elles paraissaient d’autant plus mystérieuses qu’il s’exprimait d’une façon brève et énigmatique. La lune se cachait derrière les forêts. On longeait la sombre masse des collines. Les ténèbres du ciel et de l’eau se fondaient.
+
+['Madame', 'Jean', 'madame', 'Pierre', 'Marguerite']	Minna	; et une subtile odeur, qu’il n’avait jamais encore respirée, l’enveloppait, l’étourdissait, le faisait défaillir. * Il revint deux jours après, comme ils en étaient convenus, pour donner une leçon de piano à [MASK].
+
+['Il', 'il', 'Elle', 'et', 'elle']	Louisa	Il fit irruption dans la cuisine, avec des cris affreux. [MASK] épluchait des légumes. Il se jeta sur elle et l’étreignit avec désespoir, pour qu’elle vînt à son secours. La figure convulsée par ses sanglots, il pouvait à peine parler.
+
+['Dieu', 'lui', 'cause', 'personne', 'son']	Christophe	Elles étaient, en musique, d’une stupidité parfaite ; en revanche, elles possédaient toutes, plus ou moins, un sens aigu du ridicule ; et leur regard moqueur ne faisait grâce à [MASK] d’aucune de ses maladresses. C’était une torture pour lui.
+
+['lui', 'Joseph', 'Pierre', 'Dieu', 'David']	Christophe	et il faisait volontiers largesse de ce qui lui appartenait – et de ce qui ne lui appartenait pas, – aux pauvres diables qu’il rencontrait sur son chemin. Toutes ses qualités apparaissaient maintenant à [MASK] : il les exagérait. Il lui semblait qu’il avait méconnu son père.
+
+['la', 'ce', "l'", 'beauté', 'ces']	Melchior	* Assis auprès du lit, veillant le dernier sommeil de [MASK], dont le visage avait pris maintenant une expression sévère et solennelle, il sentait la sombre tranquillité du mort entrer en lui. Sa passion enfantine s’était dissipée, comme un accès de fièvre ;
+
+['cela', 'tout', "l'", 'celui-ci', 'sa']	Christophe	Quand il se vit sauvé, au lieu de se réjouir, il fit d’aigres reproches à son compagnon ; il se plaignit que [MASK] le compromît. L’autre l’écrasa du regard, et l’appela : « Capon ! » Ils échangèrent des paroles vives.
+
+['nous', 'lui', 'eux', 'moi', 'elle']	Melchior	et il se perdait en conjectures pour expliquer ce retard. Un soir, un voisin de la maison, un ami de grand-père, le tapissier Fischer, était venu fumer sa pipe et bavarder avec [MASK], comme il faisait souvent, après dîner.
+
+['on', 'il', 'en', 'le', 'de']	Christophe	La nuit, flottaient autour du jardin des parfums : de lilas au printemps, d’acacias en été, de feuilles mortes en automne. Quand [MASK] revenait, le soir, du château, si fatigué qu’il fût, il s’arrêtait près de sa porte, à boire leur souffle délicieux
+
+[',', 'le', "l'", 'son', 'les']	Christophe	… Heureusement, ajoutait-il en caressant [MASK], que je puis encore aller, jusqu’à ce que celui-ci vous tire d’affaire ! Mais il se trompait dans ses calculs : il était au bout de sa route. Nul ne s’en fût douté.
+
+['elle', 'celle-ci', 'Hélène', 'Elle', 'lui']	Minna	Mais au moment où il se remettait à espérer, grisé par un de ses charmants sourires, il vit [MASK] mettre sa petite main devant sa bouche, et bâiller. Il s’interrompit net. Elle s’en aperçut, et s’excusa aimablement, prétextant sa fatigue.
+
+['il', 'Il', ',', 'homme', 'et']	Christophe	[MASK] eut beau s’irriter, jurer qu’il n’irait pas, il ne pouvait plus se dérober. Quand vint l’heure de l’invitation, il se prépara en rechignant ; secrètement, il n’était pas fâché que le hasard fît violence à sa mauvaise volonté.
+
+[',', 'de', 'on', 'à', 'le']	Christophe	mais [MASK] le sentait, et il en était agréablement surpris. Il n’avait pas l’habitude qu’on lui parlât sur ce ton de respect ému. Il continua d’interroger son voisin sur l’histoire des pays qu’on traversait ; l’autre faisait étalage de ses connaissances toutes fraîches
+
+['elle', 'on', 'cela', 'qui', 'et']	Christophe	Mais [MASK] l’obligeait à fixer son attention sur des exercices difficiles : aussi, pour se venger, elle s’ingéniait quelquefois à jouer le plus mal qu’elle pouvait. Elle était assez musicienne mais n’aimait pas la musique, – comme beaucoup d’Allemandes.
+
+['il', 'ils', 'Il', 'Ils', 'et']	Christophe	Ce n’était pas leur faute s’ils étaient domestiques dans l’âme ! Ils ne se doutaient pas qu’on pût être autrement. [MASK] se repliait donc en lui ; et, sans juger les siens, il sentait un fossé qui le séparait d’eux.
+
+['on', 'il', 'se', ',', 'de']	Christophe	Il cherchait à les rabaisser. C’était bête à pleurer. On ne pouvait que hausser les épaules ; il n’y avait même pas à se fâcher : car il était inconscient de ce qu’il faisait, et aigri par sa déchéance. [MASK] se taisait ;
+
+['Il', 'il', 'et', 'Et', 'Elle']	Melchior	L’enfant le bravait avec des yeux haineux, et il tremblait de rage. [MASK] se mit à trembler aussi. Il s’assit et se cacha la figure dans ses mains. Les deux petits s’étaient sauvés, en poussant des cris aigus. Au vacarme succéda le silence.
+
+['celui-ci', 'maman', 'celle-ci', 'tous', 'Madeleine']	Christophe	; et ses absences devinrent si fréquentes au théâtre que, malgré les prières de [MASK], on finit par le mettre à la porte. L’enfant resta donc seul chargé de soutenir son père, ses frères, et toute la maison.
+
+['lui', 'se', 'son', 'la', 'S']	Christophe	Il frissonnait de bonheur quand, assise auprès de lui, elle lui expliquait avec bonté un passage d’un livre qu’il ne comprenait pas : elle appuyait sa main sur l’épaule de [MASK] ; il sentait la tiédeur de ses doigts, son haleine sur sa joue, et le doux parfum de son corps ;
+
+['il', ',', 'on', 'Il', 'ou']	Christophe	De toute sa vie, il n’a rien fait de mieux. Ah ! le vieux pochard ! Comment diable a-t-il pu s’y résoudre ? Il s’arrêta net. [MASK] lui avait arraché le papier des mains, et criait, blême de colère :
+
+['il', 'elle', 'on', 'Il', 'celui-ci']	Minna	Son cœur battait si fort qu’il faillit déchirer la lettre en l’ouvrant. Il tremblait de ce qu’il allait lire ; mais, dès qu’il eut parcouru les premiers mots, une joie l’envahit. C’étaient quelques lignes très affectueuses. [MASK] lui écrivait en cachette.
+
+['elle', 'il', 'celle-ci', 'celui-ci', 'ils']	Christophe	; mais elle en fut piquée, et elle le montra bien. Quand [MASK] se força enfin à articuler quelques mots, elle l’écouta d’un air glacé : ce fut à peine s’il eut le courage d’aller jusqu’au bout de sa phrase.
+
+['il', 'elle', 'on', "l'", "j'"]	Christophe	Il faisait la joie de ses voisins ; on lui passait beaucoup de choses, en faveur de son ridicule. Mais cette indulgence était pire que la sévérité ; et [MASK] en mourait de honte. L’enfant était maintenant premier violon à l’orchestre.
+
+['hom', 'le', 'un', "s'", 'assis']	Christophe	On marchait sur les fleurs, on se penchait autour du vieux, on parlait tous à la fois. Deux ou trois hommes le soulevèrent de terre. [MASK], resté à l’entrée, tourné contre le mur, se cachait la figure dans ses mains, il avait peur de voir
+
+['se', 'fut', 'et', "s'", 'qui']	Melchior	Il se jeta comme un fou sur son père. [MASK], renversé dans son fauteuil, n’eut pas le temps de se garer. L’enfant l’avait saisi à la gorge, et lui criait : – Voleur ! Ce ne fut qu’un éclair.
+
+['Il', 'Elle', 'il', 'et', 'elle']	Christophe	– Chut ! fit-il, d’une voix altérée… – Et comment n’avoir pas peur ? dit-il après un instant. Mais qu’y faire ? C’est ainsi. Il faut se soumettre. [MASK] secoua la tête avec révolte.
+
+['répondu', 'répon', 'le', 'repon', 're']	Christophe	? Je n’ai dit que ce que tout le monde pense. Toi-même, tu le penses. – Non ! cria rageusement [MASK]. – Quoi ! tu ne le penses pas ? Tu ne penses pas qu’il boit ?
+
+[',', 'il', 'et', ';', 'elle']	Melchior	[MASK] le calotta, le traita de polisson, et lui prit l’argent des mains. L’enfant avait douze à treize ans, il était robuste, et commençait à gronder contre les corrections ; pourtant il avait encore peur de se révolter, et il se laissait dépouiller.
+
+['...', 'à', 'encore', 'en', 'de']	Otto	? Que veux-tu que je fasse, qui te remue le cœur ? – Quelle belle amitié que la nôtre ! soupirait [MASK]. En fut-il jamais une semblable dans l’histoire ? C’est doux et frais comme un rêve. Pourvu qu’il ne passe point
+
+['tous', 'la', 'ceux', "l'", 'Jean']	Christophe	Ils ne touchèrent plus à ce sujet, de toute l’après-midi ; mais ils se battaient froid, en affectant une politesse exagérée, inaccoutumée entre eux, surtout de la part de [MASK]. Les mots lui restaient dans la gorge.
+
+['son', 'le', "l'", 'un', 'ses']	Otto	Cependant une pudeur instinctive lui faisait serrer les brouillons de lettres qu’il griffonnait à [MASK], et les réponses de celui-ci. Il ne les enfermait pas sous clef ; il les mettait entre les feuilles d’un de ses cahiers de musique, où il se croyait sûr qu’on n’irait pas les chercher.
+
+['Elle', 'Il', 'elle', 'il', 'On']	Christophe	– Oh ! c’est trop fort, dit-elle, tapant rageusement sur le clavier. Elle sortit furieuse. [MASK] l’attendit. Elle ne revint pas. Il avait honte de son action : il sentait qu’il s’était conduit comme un petit goujat.
+
+['vieux', 'vieillard', 'Pierre', 'Jacques', 'Jean']	Christophe	– Mais alors… – il bégayait, – mais alors, je vais mourir !… L’accent terrible de cette voix perça le cœur de [MASK] ; jamais elle ne devait plus sortir de sa mémoire. Le vieux ne parlait plus, il gémissait comme un petit enfant.
+
+['et', 'réponse', 'mais', '-', 'il']	Christophe	– Donnez, je vous prie, reprit tranquillement le vieillard, comme s’il n’avait pas entendu. [MASK], machinalement, donna le chiffon de lettre ; mais il se lança dans un flot de paroles embrouillées, tendant toujours la main pour ravoir la lettre.
+
+['dame', 'une', 'la', 'R', 'elle']	Louisa	Quand il apercevait au loin une forme qui lui ressemblait, il prenait un autre chemin. * Ce fut elle qui vint à lui. Un matin qu’il rentrait pour dîner, [MASK], toute fière, lui raconta qu’un laquais en livrée était venu déposer une lettre à son adresse
+
+['il', ';', ',', 'et', "qu'"]	Christophe	[MASK] se rend compte des tristesses de la situation ; il a l’air sérieux et soucieux d’un petit homme. Il s’acquitte vaillamment de sa tâche, bien qu’elle ne l’intéresse guère, et qu’il tombe de sommeil, le soir, à l’orchestre.
+
+['Soudain', 'Et', 'Puis', 'Alors', 'et']	Otto	Soudain, un tourbillon de vent souleva la poussière, tordit les arbres, les fouetta furieusement. Et le silence retomba, plus sinistre qu’avant. [MASK], d’une voix tremblante, se décida à parler : – C’est l’orage. Il faut rentrer.
+
+['on', 'qui', ',', "d'", "j'"]	Otto	Ils s’assommaient l’un l’autre. Ils s’assommaient eux-mêmes en s’entendant parler. Et ils parlaient toujours, tremblant de s’arrêter : car il s’ouvrait alors des abîmes de silence qui les glaçaient. [MASK] avait envie de pleurer ;
+
+[',', "l'", 'le', 'de', 'un']	Christophe	mais [MASK] avait de bons poings et la conscience de son droit : il faisait marcher rondement ses cadets. Ils n’en faisaient pas moins de lui ce qu’ils voulaient ; ils abusaient de sa crédulité, ils lui tendaient des panneaux, où il ne manquait jamais de tomber
+
+['lui', 'il', 'elle', 'et', ',']	Otto	[MASK] répondit : bonjour ; et ils ne trouvèrent plus rien à se dire, sinon que le temps était fort beau, et qu’il était dix heures cinq, ou six, à moins que ce ne fût dix heures dix, parce que l’horloge du château était toujours en retard.
+
+['Elle', 'elle', 'Celle-ci', 'et', 'Il']	Minna	– Je ne suis pas votre domestique ! cria-t-il grossièrement. Ramassez-le vous-même ! [MASK] fut suffoquée. Elle se leva brusquement de son tabouret, qui tomba : – Oh ! c’est trop fort, dit-elle, tapant rageusement sur le clavier.
+
+['il', 'se', 'et', 're', ',']	Louisa	Il ne sortit plus de sa chambre, pendant huit jours, [MASK] déposait son dîner à la porte : car il ne la laissait même pas entrer. Il écrivit un quintette pour clarinette et instruments à cordes. La première partie était un poème d’espoir et de désir juvéniles ;
+
+['elle', 'il', 'Elle', ',', 'et']	Christophe	[MASK] n’y comprenait rien. En très peu de temps, elle fit des progrès étonnants. Non seulement elle jouait mieux, mais elle aimait la musique. Si peu flatteur qu’il fût, il dut lui en faire compliment.
+
+['beaucoup', 'très', "d'", 'profondément', 'avec']	Otto	Il riait et respirait très fort. Il remerciait [MASK] avec effusion. Il avait honte de la scène qu’il avait faite ; mais il était soulagé d’un grand poids. Ils se regardaient tous deux, plantés l’un en face de l’autre, immobiles et se tenant la main
+
+['famille', 'Molière', 'ville', 'qui', 'scène']	Kerich	– quand, au théâtre, assis à quelques pas de leurs places encore vides, il entendait la porte de la baignoire s’ouvrir, et la rieuse voix qu’il connaissait si bien ; – quand, dans une conversation étrangère, le cher nom de [MASK] était prononcé !
+
+['dis-je', 'en', 'dit-il', ',', 'ami']	Christophe	Ils peignaient avec des couleurs tragiques la tristesse de leur sort, et s’affligeaient de jeter dans l’existence de leur ami le trouble de leur destinée. – Je t’en veux, mon amour, écrivait [MASK], de la peine que je te cause.
+
+['le', 'lui', 'se', 'les', ',']	Otto	; il affectait de se persuader qu’il était bien aise de lui voir trouver plaisir dans d’autres sociétés que la sienne. Mais quand [MASK], qui n’était point dupe, lui obéissait malicieusement, il ne pouvait s’empêcher de lui faire grise mine ;
+
+['vous', '...', 'Monsieur', 'moi', 'monsieur']	Christophe	Je n’aurais jamais cru cela, [MASK]. Je vous estimais un garçon sérieux. J’avais confiance en vous. Je n’aurais jamais pensé que vous en abuseriez, pour essayer de tourner la tête à ma fille. Elle était sous votre garde.
+
+['ainsi', 'seule', 'arriver', 'seul', 'là']	Christophe	Active et matinale, elle s’occupait à arroser avec une carafe les pots de fleurs sous la véranda. Elle eut une exclamation moqueuse, en apercevant [MASK] : – Ah ! fit-elle, c’est vous !… Vous venez à propos, j’ai justement à vous parler.
+
+['le', "s'", 'se', 'de', 'on']	Christophe	Elle fit son éducation littéraire, sans avoir l’air d’y toucher : elle ne semblait pas s’étonner de ses étranges ignorances ; mais elle ne négligeait aucune occasion de relever ses erreurs, simplement, tranquillement, comme s’il était tout naturel que [MASK] se fût trompé
+
+['il', 'Il', 'on', 'On', 'et']	Louisa	mais [MASK] tremblait qu’il ne fût congédié d’un jour à l’autre, après un esclandre. Déjà on l’en avait menacé, certains soirs où il était arrivé à son pupitre vers la fin de la représentation. Deux ou trois fois, il avait même totalement oublié de venir.
+
+[',', ';', 'et', 'ou', 'parce']	Otto	Mais il ne s’apercevait pas qu’il contrefaisait lui-même [MASK], il copiait sa façon de s’habiller, de marcher, de prononcer certains mots. C’était une fascination. Ils étaient pénétrés l’un de l’autre, ils avaient le cœur inondé de tendresse.
+
+['Il', 'il', 'Elle', 'elle', 'et']	Christophe	Bien qu’il sût parfaitement qu’elle mentait, [MASK] se pencha sur le cahier, pour voir de près le passage en question. Elle avait sa main posée sur le pupitre, elle ne la dérangea même pas. Il avait la bouche tout près de cette main.
+
+['il', 'son', 'un', 'le', "l'"]	Ernst	; il s’assit, en haussant les épaules, et affecta un mépris profond. [MASK], piqué, reprit son effronterie ; il s’appliqua à blesser son frère, il lui dit une kyrielle de choses plus viles les unes que les autres.
+
+['caractère', 'celle-ci', 'chacun', 'bonté', 'Dieu']	Christophe	Elle était assez intelligente pour sentir les rares dons de [MASK], bien qu’elle ne fût pas capable de discerner son originalité véritable. Elle se plaisait curieusement à surveiller l’éveil de cette flamme mystérieuse, qu’elle voyait poindre en lui.
+
+[',', 'de', 'elle', 'et', 'le']	Christophe	Elle feignait de s’étrangler, pour se rendre intéressante ; elle avait une quinte de toux, ou bien elle avait quelque chose de très important à dire à la femme de chambre. [MASK] savait que c’était de la comédie ;
+
+[',', 'de', 'se', 'et', 'tout']	Melchior	il essayait de s’absorber dans sa tâche, mais il ne pouvait s’empêcher d’entendre les réflexions de [MASK] et les rires des voisins. Les larmes lui en venaient aux yeux. Les musiciens, braves gens, s’en étaient aperçus, et ils avaient pitié de lui
+
+['</s>', 'il', 'Il', 'et', 'qui']	Christophe	C’est assez, bien souvent, pour qu’une mère et un fils, deux frères, deux amis, qui sont tout près l’un de l’autre, restent éternellement étrangers l’un à l’autre. [MASK] ne trouvait donc pas auprès de sa mère un appui dans la crise qu’il traversait.
+
+['chacun', 'elle', 'celle-ci', 'il', 'lui']	Christophe	Le plus grave était que [MASK] continuait d’en user avec la même désinvolture à l’égard de toutes les haies, barrières, clôtures, murailles, défenses de passer, menaces d’amende, Verbote de toute sorte, – de tout ce qui prétendait limiter sa liberté et garantir contre elle la sainte propriété.
+
+['il', 'Il', 'et', 'Elle', ',']	Gottfried	[MASK] comprit qu’il voulait lui demander quelque chose. – Non, fit-il, en mettant un doigt sur sa bouche. Il ne faut pas parler. Pleurer est bon. Parler est mauvais. L’enfant insistait. – Cela ne sert à rien.
+
+['il', 'ce', 'Il', 'cela', 'et']	Melchior	… Il regardait son père endormi, et il était pénétré d’une pitié infinie. Il se rappelait ses moindres actes de bonté et de tendresse. Car, avec toutes ses tares, [MASK] n’était pas méchant, il y avait beaucoup de bon en lui.
+
+['il', ',', 'qui', 'on', '...']	Christophe	il la laissa retomber en poussant un cri aigu. Il se releva épouvanté, il se sauva. Il courut au dehors. Il criait et pleurait. Un homme, qui passait sur la route, arrêta l’enfant. [MASK] était hors d’état de parler ;
+
+['de', 'le', "l'", 'la', ',']	Diener	; et quand ils furent en haut, il s’allongea sur l’herbe, comme s’il avait l’intention d’y passer la journée. Après un quart d’heure, [MASK], voyant qu’il ne semblait pas disposé à bouger, glissa de nouveau, timidement :
+
+['personne', 'elle', 'sa', 'la', 'cela']	Christophe	Elle n’en prit pas moins sa leçon et toutes les leçons suivantes, parce qu’elle savait fort bien que [MASK] se connaissait en musique et qu’elle devait apprendre à jouer proprement du piano, si elle voulait être – ce qu’elle prétendait être : une demoiselle bien née, d’une éducation accomplie.
+
+["L'", "l'", "D'", 'Un', 'Puis']	Christophe	L’employé le regardait avec un mélange d’ironie et de pitié. [MASK], froissant le papier dans sa main, fit mine de sortir. L’autre se leva et lui prit le bras. – Attends un moment, dit-il, je vais arranger les choses.
+
+['chacun', 'il', 'lui-même', "l'", 'le']	Christophe	Et comme le seul moyen de vous le dire était de vous faire venir, j’espère que vous me pardonnerez de l’avoir employé. Il y avait dans ces paroles aimables et banales tant de cordialité, malgré une pointe cachée d’ironie, que [MASK] se sentit rassuré.
+
+['on', ',', 'il', 'elle', 'le']	Minna	Il prolongeait ses saluts, il attendait une invitation à revenir le lendemain : il n’en fut pas question. Il fallut partir. [MASK] ne le reconduisit pas. Elle lui tendit la main, – une main indifférente, qui s’abandonnait froidement dans sa main ;
+
+['il', 'lui', 'se', 'de', "s'"]	Melchior	Il savait que, dès qu’il était sorti, les moqueries reprenaient leur train et que [MASK] était la risée de la ville. Il ne pouvait rien pour l’empêcher ; c’était un supplice pour lui. Il ramenait son père à la maison après la fin du spectacle
+
+['il', ',', 'Il', 'et', 'lui']	Christophe	[MASK] ne répondait pas ; il continuait sa marche, aveuglé par le vent, la pluie et les éclairs, ahuri par le bruit, un peu inquiet aussi, mais se gardant de l’avouer. Et soudain, ce fut fini. L’orage était passé, comme il était venu.
+
+['il', 'et', 'Il', ',', 'se']	Christophe	[MASK] revint seul dans la nuit. Son cœur chantait : « J’ai un ami, j’ai un ami ! » Il ne voyait rien. Il n’entendait rien. Il ne pensait à rien autre. Il tombait de sommeil et s’endormit à peine rentré.
+
+[',', 'h', 'se', 's', "s'"]	Christophe	[MASK] s’était couché tout habillé. Il se glissait hors du lit, ses souliers à la main ; et, retenant son souffle, il rampait avec des ruses de sauvage jusqu’à la fenêtre de la cuisine, qui donnait sur la route. Il montait sur la table ;
+
+['celui-ci', 'Pierre', 'Gilbert', 'Robert', 'Jacques']	Christophe	Ils étaient seuls. Elle courut à lui, lui saisit la main, et l’entraîna dans le petit salon voisin, dont les volets étaient clos. Alors elle approcha brusquement sa figure de celle de [MASK], et elle l’embrassa violemment, de toutes ses forces.
+
+['tout', 'cela', 'Dieu', 'lui-même', 'tous']	Minna	Il haïssait [MASK]. Il les méprisait avec fureur. Il lui semblait qu’il avait été souffleté, il tremblait de honte et de rage. Il lui fallait répondre, agir sur-le-champ. Il mourrait, s’il ne se vengeait.
+
+['amour', 'tendresse', ',', 'là', 'tout']	Christophe	Ils ne savaient pas ce qu’ils désiraient eux-mêmes. Pour [MASK], son amour prenait la forme de cette soif de tendresse, impérieuse, absolue, qui le brûlait depuis l’enfance, qu’il réclamait des autres, qu’il eût voulu leur imposer, de gré ou de force.
+
+['celle-ci', 'cela', 'celui-ci', 'lui-même', 'ainsi']	Melchior	; il lui donnait le bras, subissait ses bavardages, s’évertuait à cacher l’incertitude de sa marche. Mais à qui faisait-il illusion ? Et malgré ses efforts, il était rare qu’il réussît à conduire [MASK] jusqu’au bout.
+
+['celui-ci', 'Madame', 'tous', 'monseigneur', 'Monseigneur']	Christophe	; et malgré les supplications de [MASK], il alla faire une scène au palais. Mais il en revint tout penaud, et il ne souffla mot de ce qui avait eu lieu. On l’avait reçu fort mal.
+
+['cela', 'ainsi', ';', 'celui-ci', 'lui-même']	Christophe	Elle avait sévèrement observé [MASK] ; et elle l’avait jugé un garçon laid, pauvre, mal élevé, qui jouait bien du piano, mais qui avait de vilaines mains, qui tenait sa fourchette à table d’une façon abominable, et qui coupait le poisson avec son couteau.
+
+['son', 'sa', 'droite', "l'", 'la']	Christophe	Il la regarda. Elle regardait d’un autre côté : elle souriait, haletante, la bouche entr’ouverte ; sa main était crispée dans la main de [MASK]. Ils sentaient leur sang battre dans leurs paumes pressées et leurs doigts qui tremblaient. Autour d’eux, le silence.
+
+['une', 'son', 'sa', 'la', 'elle']	Franz	Il n’était pas méchant : il avait l’âme d’une fille. Il continua donc, malgré ses promesses, à se montrer bras dessus, bras dessous, avec [MASK], ou avec quelque autre camarade ; ils faisaient grand bruit ensemble, et il riait de façon affectée.
+
+['lui', 'soi', 'lui-même', 'moi', 'elle']	Christophe	Mais, comme c’est l’habitude, la contrainte les rendait plus forts. Quand rien n’entrave l’action, l’âme a bien moins de raisons pour agir. Plus étroite se resserrait autour de [MASK] la prison des soucis et des tâches médiocres, plus son cœur révolté sentait son indépendance.
+
+['de', ',', 'tout', 'un', 'se']	Otto	Ils avaient envie de courir ; mais leurs vêtements collés par la pluie les empêchaient de marcher, leurs souliers clapotaient, l’eau ruisselait sur tour leur corps. Ils respiraient avec peine. [MASK] claquait des dents, et il était fou de colère ;
+
+['il', 'Il', 'et', '</s>', 'on']	Otto	il sapait, comme un vieux révolutionnaire, les conventions sociales et les lois de l’État. [MASK] écoutait, scandalisé et ravi ; il s’essayait timidement à se mettre à l’unisson ; mais il avait soin de regarder autour de lui si personne ne pouvait entendre.
+
+[',', 'on', 'de', 'qui', 'à']	Christophe	Il comptait sans la malice de ses frères. Il les voyait depuis quelque temps rire et chuchoter en le regardant : ils se récitaient à l’oreille des fragments de discours, qui les jetaient dans des convulsions de gaieté. [MASK] ne parvenait pas à entendre leurs paroles ;
+
+[',', 'de', 'il', 'le', 'et']	Christophe	[MASK], très intrigué par cette nouvelle, qui, dans l’horizon borné de sa vie, était un événement important, retourna au travail, cherchant d’après les récits de son père, hyperboliques comme à l’ordinaire, à imaginer les hôtes de la maison enchantée.
+
+[',', 'de', 'sa', 'la', 'so']	Minna	Elle chérissait [MASK], mais la jugeait avec clarté, et ne se dissimulait aucune de ses imperfections, pas plus qu’elle ne cherchait à se faire illusion sur elle-même. Spirituelle, sensée, elle avait un regard infaillible pour découvrir du premier coup d’œil le faible et le ridicule de chacun
+
+['il', 'ne', 'se', ',', 'et']	Christophe	Ce n’était pas aisé, et le mieux était de ne pas faire attention à lui ; sans quoi l’ivrogne, dès qu’il se sentait regardé, faisait des grimaces, ou commençait un discours. [MASK] détournait donc les yeux, tremblant de lui voir faire quelque excentricité
+
+['change', 'la', 'recommandation', 'Paul', "l'"]	Melchior	Elle ajouta qu’elle avait confiance en lui, et qu’elle était sûre qu’il s’amenderait pour l’amour d’eux. Cela finit par une scène d’attendrissement général ; et la lettre de [MASK], oubliée sur la table, alla tomber sous l’armoire, où elle resta cachée.
+
+["n'", 'il', 'Il', 'y', 'elle']	Christophe	[MASK] entrait dans des explications techniques sur les œuvres musicales et le jeu du violon. Ils s’assommaient l’un l’autre. Ils s’assommaient eux-mêmes en s’entendant parler. Et ils parlaient toujours, tremblant de s’arrêter : car il s’ouvrait alors des abîmes de silence qui les glaçaient.
+
+['moi', 'quiconque', 'toi-même', 'personne', 'nous']	Franz	! Je ne veux pas que tu sois intime avec [MASK], parce que… parce que tu es mon ami ; et je ne veux pas que tu aimes quelqu’un mieux que moi ! Je ne veux pas ! Vois-tu, tu es tout pour moi.
+
+[',', 'de', 'à', 'la', 'le']	Minna	[MASK], occupée à écrire, lui tendit la main par dessus la table, et continua sa lettre, en lui demandant de ses nouvelles, d’un air distrait. Elle s’excusait d’ailleurs de son impolitesse et feignait d’écouter ce qu’il disait ;
+
+["s'", 'il', 'on', ',', 'et']	Melchior	[MASK] y ajouta encore. Loin de travailler davantage, il s’abandonna tout à fait à son vice, quand il fut délivré du seul contrôle qui le retînt. Presque chaque nuit, il rentrait ivre, et il ne rapportait jamais rien de ce qu’il avait gagné.
+
+[';', ',', 'en', 'le', 'la']	Christophe	Une ou deux fois par an, un jardinier venait faire une ronde et aérer la maison. La nature reprenait ensuite possession du jardin, et tout rentrait dans le silence. Ce silence impressionnait [MASK]. Il se hissait en cachette à son observatoire ;
+
+['tout', 'tous', 'toutes', 'S', 's']	Christophe	; mais si vieux et si impotent qu’il fût, il était le meilleur ami de [MASK] : il avait révélé à l’enfant le monde sans bornes de la musique ; sur ses touches jaunes et polies il avait découvert le royaume des sons ;
+

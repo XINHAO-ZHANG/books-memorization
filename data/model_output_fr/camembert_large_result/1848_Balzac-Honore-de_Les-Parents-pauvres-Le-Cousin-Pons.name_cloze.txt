@@ -1,0 +1,200 @@
+['il', 'Antoine', 'Pierre', 'on', 'Louis']	Pons	Pendant tout ce temps, [MASK] se maintint gratuitement à table, en se rendant nécessaire dans toutes les maisons où il allait. Il entra dans une voie fatale en s’acquittant d’une multitude de commissions, en remplaçant les portiers et les domestiques dans mainte et mainte occasion.
+
+['non', 'cela', 'que', ':', 'oui']	Villemot	dit [MASK], c’est une question de bonne foi !…– Elle ne se prouvera pas, comme dans les affaires criminelles, par des témoins… Allez-vous vous jeter dans des expertises, des vérifications… des jugements interlocutoires et une procédure ?– Non !
+
+['il', 'Jésus', 'Pierre', 'Paul', 'Jacques']	Rémonencq	Au physique, [MASK] apparaissait comme un homme court et maigre, dont les petits yeux, disposés comme ceux des cochons, offraient, dans leur champ d’un bleu froid, l’avidité concentrée, la ruse narquoise des Juifs, moins leur apparente humilité doublée du profond mépris qu’ils ont pour les chrétiens.
+
+['tout', 'Martine', 'Jeanne', 'Catherine', 'elle']	Fraisier	Et elle se lança dans une de ces trombes de paroles auxquelles elle excellait.– Ne dites pas de paroles oiseuses, s’écria sèchement [MASK] en arrêtant sa cliente. Au fait ! au fait ! et vivement.– Eh bien ! et voilà comment ça s’est fait.
+
+['Il', 'Elle', 'il', 'elle', 'et']	Schmucke	Maintenant, fais-moi de la musique, réjouis-moi par quelqu’une de tes improvisations… Ça t’occupera, tu perdras tes idées noires, et tu me rempliras cette triste nuit par tes poèmes…[MASK] se mit au piano.
+
+['Ali', 'Marie', 'Jean', 'maman', 'Louis']	Gaudissard	. Que voulez-vous ? répéta-t-il. Mais plus rien après.– C’est bir aguidder ein tedde zagrée.– Une dette ! se dit [MASK] ; quel filou ! c’est pis qu’un fils de famille ! il va inventer des lettres de change ! il faut finir roide
+
+['moi', 'Monsieur', 'vous', 'monsieur', 'M']	Berthier	puis [MASK], notre notaire ; mon gendre et ma fille… Après le dîner, nous aurons vous et moi, le notaire et l’avoué, la petite conférence que vous avez demandée, et où je vous remettrai nos pouvoirs.
+
+['Il', 'Elle', 'On', 'Louis', 'Joseph']	Topinard	[MASK] voulait s’en aller, après avoir remis le pauvre musicien entre les mains de la dame Sauvage.– Il est quatre heures, mon cher monsieur Schmucke, et il faut que j’aille dîner… ma femme, qui est ouvreuse, ne comprendrait pas ce que je suis devenu.
+
+['Monsieur', 'Napoléon', 'Louis', '[...]', 'Madame']	Pons	[MASK], qui recevait cet honneur pour la première fois de sa vie, pressentit une réparation.– Mon cher cousin, dit le président après les compliments d’usage, j’ai fini par savoir la cause de votre retraite. Votre conduite augmente, si c’est possible, l’estime que j’ai pour vous.
+
+['celui', 'celle', 'Alexandre', 'Napoléon', 'Henri']	Magus	Et, sur un signe de la portière, les trois oiseaux de proie entrèrent.– Là, sont les chefs-d’œuvre ! dit en montrant le salon [MASK] dont la barbe blanche frétillait par tous ses poils, mais ici sont les richesses ! Et quelles richesses !
+
+['Dieu', 'Satan', 'Salomon', 'Jupiter', 'César']	Magus	Les chiens n’aboyaient jamais, le génie de [MASK] les avait promus Sauvages, ils étaient devenus sournois comme des Mohicans. Or, voici ce qui advint. Un jour, des malfaiteurs, enhardis par ce silence, crurent assez légèrement pouvoir rincer la caisse de ce Juif.
+
+['Il', 'On', 'Elle', 'II', 'Madame']	Rémonencq	[MASK] avait loué, moyennant six cents francs, la boutique toute nue, l’arrière-boutique, la cuisine et une seule chambre en entresol, où couchait autrefois le premier garçon, car l’appartement dépendant du café de Normandie fut compris dans une autre location.
+
+['Madame', 'Mme', 'madame', 'Jeanne', 'Marie']	Pons	– Cinq mille francs.– Bon Dieu, ils en valaient vingt fois autant ! s’écria [MASK], c’est la fleur de ma collection. Je n’ai pas le temps d’intenter un procès, d’ailleurs ce serait te mettre en cause comme la dupe de ces coquins…
+
+['On', 'Il', 'on', 'Elle', 'Cela']	Gaudissard	Non, tenez, ma bonne femme, puisque vous courez pour le prix Montyon… [MASK] sonna, le garçon de théâtre se présenta soudain. – Dites au caissier de m’envoyer un billet de mille francs. Asseyez-vous, madame.– Ah ! pauvre femme, voilà qu’elle pleure !
+
+['Pierre', 'Louis', 'Henry', 'celui', 'chacun']	Schmucke	L’abbé Duplanty, bon et digne prêtre, sans méfiance ni malice, fut frappé de la vérité des observations du docteur Poulain ; il croyait d’ailleurs aux qualités du médecin du quartier ; il fit donc signe à [MASK] de venir lui parler, en se tenant au seuil de la chambre mortuaire.
+
+['Monsieur', 'Madame', 'madame', 'Mme', 'X']	Villemot	– Je vais vous assigner en référé, reprit [MASK], pour voir dire que nous sommes locataires par moitié de cet appartement, et vous ne nous en chasserez pas… Ôtez les tableaux, distinguez ce qui est au défunt, ce qui est à mon client, mais mon client y restera… mon petit !
+
+['On', 'Il', 'Maman', 'Elle', 'Papa']	Schmucke	Eh bien ! mon chérubin, c’est bien, allez.– [MASK] n’a pas pu vous dire d’aller au théâtre sans me consulter…– Faut-il l’éveiller, ce pauvre cher homme qui dort comme un bienheureux, et l’appeler en témoignage !
+
+['Molière', 'Balzac', 'Voltaire', 'Il', 'Shakespeare']	Gaudissard	[MASK], toujours fou des femmes, demanda le privilége d’un théâtre alors en faillite, et le ministre, en le lui donnant, eut soin de lui envoyer quelques vieux amateurs du beau sexe, assez riches pour créer une puissante commandite amoureuse de ce que cachent les maillots.
+
+['Pierre', 'François', 'Louis', 'Antoine', 'Charles']	Schmucke	Soyez tranquille, allez à vos affaires, je vais lui tenir compagnie, et lui faire boire ses pintes d’eau d’orge.– Sans fus, che murerais d’einquiédute… dit [MASK] en pressant dans ses mains par un geste de confiance la main de sa bonne ménagère.
+
+['mon', 'me', 'te', 'ti', 'la']	bremier	– Ile hâ ei eine nouitte derriple ! t’ine achidadion tiapolique ! Chai êdé opliché te vaire de la misicque bir le galmer, ed les loguadaires ti [MASK] edache sont mondés bire me vaire daire !… C’esde avvreux, car il s’achissait te la fie te mon hami.
+
+['Dieu', 'Satan', 'Roland', 'Merlin', 'Napoléon']	Pons	– Remplacé ! s’écria [MASK] d’une voix formidable en se dressant sur son séant.En général les malades, surtout ceux qui sont dans l’envergure de la faux de la Mort, s’accrochent à leurs places avec la fureur que déploient les débutants pour les obtenir.
+
+['Julie', 'Marie', 'Jeanne', 'Madeleine', 'Charles']	Gaudissard	La danseuse se leva subitement, se mit au port d’arme, et porta le revers de sa main droite à son front, comme un soldat qui salue son général.– Quoi ! dit [MASK], vous seriez cette belle écaillère dont me parlait mon père ?
+
+['lui', 'Pierre', 'Roland', 'Alexandre', 'Paul']	Pons	vint-elle dire à [MASK] en le foudroyant par un regard. Pour le mal que je vous veux, portez-vous bien. Quand vous serez aimable pour moi, quand vous croirez que ce que je fais est bien fait, je reviendrai ! Jusque-là je reste chez moi…
+
+['Pierrot', 'Molière', 'Charles', 'Jules', 'Rachel']	Gaudissard	Et tu as trois enfants, dont l’aîné joue les rôles d’enfant, avec des feux de cinquante centimes !…– Monsieur…– Laisse-moi parler… dit [MASK] d’une voix foudroyante. Dans cette position-là, tu veux quitter le théâtre…–
+
+['David', 'Alexandre', 'Bertrand', 'Charles', 'Dreyfus']	Fraisier	vous ne pouvez pas désavouer un homme comme maître Godeschal, la probité même ; mais on peut rejeter tout sur le dos d’un méchant petit homme d’affaires…La présidente regarda [MASK] avec admiration.– Vous devez aller bien haut ou bien bas, lui dit-elle.
+
+['Il', 'il', 'qui', 'II', 'Louis']	Pons	[MASK] était d’ailleurs partout une espèce d’égout aux confidences domestiques, il offrait les plus grandes garanties dans sa discrétion connue et nécessaire, car un seul mot hasardé lui aurait fait fermer la porte de dix maisons ; son rôle d’écouteur était donc doublé d’une approbation constante
+
+['Elle', 'Julie', 'Charlotte', 'Catherine', 'Marie']	Cécile	[MASK] est dans sa vingt-troisième année, et si le malheur voulait qu’elle atteignît à vingt-cinq ou vingt-six ans, il serait excessivement difficile de la marier. Le monde se demande alors pourquoi une jeune personne est restée si long-temps sur pied.
+
+['Dieu', 'maman', 'Marie', 'Maman', 'Joseph']	Pons	Il ne possédait que deux paires de souliers, une paire de bottes, deux habillements complets, douze chemises, douze foulards, douze mouchoirs, quatre gilets et une pipe superbe que [MASK] lui avait donnée avec une poche à tabac brodée.
+
+['Il', 'Elle', 'On', 'il', 'qui']	Graff	[MASK] trouva ces deux places exiguës aux deux enfants prodigues, en souvenir de son apprentissage à l’hôtel de Hollande. Ces deux faits : un ami ruiné reconnu par un ami riche, et un aubergiste allemand s’intéressant à deux compatriotes sans le sou, feront croire à quelques personnes que cette histoire est un roman
+
+['Pierre', 'Marie', 'Jeanne', 'Jean', 'Louis']	Schmucke	– Moi ! s’écria [MASK] en se dressant sur ses jambes, mais…– Allons, vous n’aussi, vous n’êtes sans héritiers, n’est-ce pas ! Vous n’êtes venus tous deux comme des champignons sur cette terre.– Foyons, fenez !
+
+['monsieur', 'va', 'Monsieur', 'là', 'papa']	Rosalie	c’est à devenir fou de joie !… Eh ! dis donc, [MASK], va-t-on bisquer au théâtre !… Mais ce n’est pas possible, reprit-il.– Notre bienfaiteur ne peut loger dans une mansarde.– Pah ! pur quelques jurs que c’hai à fifre !
+
+['là', 'mort', 'ici', 'venu', 'bon']	Dobinard	Et, pris de pitié pour cet innocent, le directeur eut une larme à l’œil.– Ha ! fous me gombrenez ! monsir le tirecdir ! hé pien ! ced hôme à la bedide file est [MASK], qui serd l’orguestre et allime les lambes ;
+
+['il', 'elle', 'lui', 'Joseph', 'Alexandre']	Rémonencq	Pour lui, le bonheur, c’était d’épouser l’appétissante portière, et de tripler ses capitaux. Or, [MASK], en voyant le petit tailleur buvant de la tisane, avait eu l’idée de convertir son indisposition en une maladie mortelle, et son état de ferrailleur lui en avait donné le moyen.
+
+['Molière', 'Monsieur', 'Madame', 'Voltaire', 'Merlin']	Gaudissard	– Eh bien ! belle dame, dit [MASK], veuillez faire préparer l’acte ; à quatre heures, je vous amènerai l’Allemand… Recommandez-moi, madame, à la bienveillance de votre charmante fille, la vicomtesse Popinot ;
+
+['juste', 'cela', 'Paris', 'Molière', 'ceci']	Topinard	Et elle désigna [MASK] au moment où le garçon de théâtre passait fier d’avoir déjà payé sa dette à son bienfaiteur, en empêchant par une ruse inspirée par les coulisses, où tout le monde a plus ou moins d’esprit drôlatique, l’ami de Pons de tomber dans un piége.
+
+['Pierre', 'Monseigneur', 'Louis', 'Charles', 'Paul']	Pons	monsieur le président sera charmé de faire votre connaissance… – Merci, cousin. Elle pressa le bras de [MASK] d’une façon tellement significative, que la phrase sacramentelle : « C’est entre nous à la vie à la mort ! » n’eût pas été si forte.
+
+['Cie', 'lui', 'compagnie', 'autres', 'Moreau']	Schmucke	Quand les connaisseurs admirèrent quelques fraîches compositions qui servirent d’accompagnement à deux ou trois grandes pièces à succès, ils les expliquèrent par le mot progrès, sans en chercher les auteurs. Pons et [MASK] s’éclipsèrent dans la gloire, comme certaines personnes se noient dans leur baignoire.
+
+['!', '</s>NOTUSED', ':', '?', '<unk>']	Zipod	Saisi par une de ces inspirations qui ne brillent que dans le cœur d’un ami véritable, il alla droit à la portière, et l’emmena sur le palier.– Montame [MASK], ce pon Bons aime les ponnes chosses, hâlez au Gatran Pleu, temandez ein bedid tinner vin : tes angeois, di magaroni
+
+['On', 'Il', 'on', 'il', 'Elle']	Gaudissard	Il s’agissait de douze cents francs ! Le pauvre honnête homme voulut rendre ce cadeau ! [MASK] eut mille peines à le lui faire accepter. – « Ah ! si nous pouvions, dit-il à son associé, trouver des acteurs de cet échantillon-là ! »
+
+['Goethe', 'Napoléon', 'Voltaire', 'Luther', 'David']	Pons	C’est le seul ami que j’aie sur la terre, dit [MASK], et je veux l’instituer mon légataire universel ; dites-moi quelle forme doit avoir mon testament, pour que mon ami, qui est Allemand, qui ne sait rien de nos lois, puisse recueillir ma succession sans aucune contestation.–
+
+['Il', 'Elle', 'il', 'On', 'Chacun']	Schmucke	Porteaux, dout ce qu’il y aura te meilleur en vriantise : gomme tes groguettes te risse ed ti lard vîmé ! Bayez ! ne tittes rien che fus rentrai tutte l’archand temain madin.[MASK] rentra d’un air joyeux en se frottant les mains ;
+
+['Il', 'Ceci', 'Cela', 'Arthur', 'Charles']	Pons	; mais on ne lui sut aucun gré de tant de courses et de tant de lâchetés. – [MASK] est un garçon, disait-on, il ne sait que faire de son temps, il est trop heureux de trotter pour nous… Que deviendrait-il ?
+
+['Molière', 'Balzac', 'Voltaire', 'Flaubert', 'Montaigne']	Rémonencq	; je n’ai pas grand’chose, trois mille francs, le fruit de vingt-cinq ans d’épargnes et de privations… vous me feriez une lettre de change, comme dit [MASK], car je suis ignorante, je ne sais que ce qu’on m’apprend…
+
+['le', 'un', 'monsieur', 'encore', 'notre']	Sonet	Monsieur, voici le devis et la commande… sept mille francs, non compris les praticiens.– Si monsieur veut du marbre, dit [MASK] plus spécialement marbrier, ce sera douze mille francs, et monsieur s’immortalisera avec son ami…
+
+['Henri', 'Paul', 'Albert', 'Léon', 'Charles']	Schmucke	Le détail de ses devoirs sociaux envers son ami mort, hébéta tellement [MASK], qu’il aurait voulu mourir avec Pons.– C’est un enfant ! dit le docteur Poulain à l’abbé Duplanty.– Eine anvant !… répéta machinalement Schmucke.– Allons !
+
+['Il', 'Chacun', 'On', 'Monsieur', 'Monseigneur']	Gaudissard	mais vous savez ! quoiqu’on ait bon cœur, chacun a ses affaires, et on ne trouve pas une heure pour aller voir ses amis. [MASK] parle de venir ici tous les jours, et tous les matins il est pris par les ennuis de l’administration.
+
+['elle', 'lui', 'Madame', 'Mme', 'Napoléon']	Pons	Dans la matinée, la présidente alla voir la comtesse Popinot, en comprenant qu’il fallait répondre à un pareil échec par un mariage tout fait. Elle raconta la vengeance épouvantable et l’affreuse mystification préparées par [MASK]. Tout parut croyable quand on apprit que le prétexte de cette rupture était la condition de fille unique.
+
+['elle', 'on', 'il', 'Louise', 'tout']	Cécile	– Oh ! avec deux enfants, vous seriez pauvre ! reprit le cousin. C’est l’effet du partage égal des biens ; mais, soyez tranquille, ma belle cousine, [MASK] finira par bien se marier. Je ne vois nulle part de jeune fille si accomplie.
+
+['on', 'il', 'elle', 'Molière', 'je']	Pons	Cet homme était un gagiste du théâtre, le garçon chargé de mettre les partitions sur les pupitres à l’orchestre, et à qui [MASK] donnait tous les mois une pièce de cinq francs, en le sachant père de famille.– Ah !
+
+['Ici', 'ici', 'Là', 'Allons', 'Venez']	Magus	mais ils y furent cloués par ce mot : – [MASK], ici… Je suis trahi… Le malade était réveillé par l’instinct de la conservation de son trésor, sentiment au moins égal à celui de la conservation personnelle.
+
+['Louis', 'Alexandre', 'Jean', 'Joseph', 'Pierre']	Schmucke	s’écria [MASK] frappé de terreur. Chamais il n’a i dand t’esbrit… et c’ed ce qui m’einguiède bir sa sandé… Toutes les personnes qui composaient l’attroupement écoutaient cette conversation avec une curiosité bien naturelle, et qui la grava dans leur mémoire.
+
+['lui', 'Georges', 'Jean', 'Pierre', 'Joseph']	Pons	mais gomme si du édais à deux cend bas te moi… il me zemble que che m’envonce dans la dombe afec toi !… dit l’Allemand que la douleur écrasait.Il se rapprocha de [MASK] et il lui prit une main qu’il mit entre ses deux mains.
+
+['Dieu', 'Monsieur', 'monsieur', 'lui', 'papa']	Cibot	En voilà ed’ la chance ! Moi, je suis mariée !… Mais je n’ai pas d’enfant, et je puis le dire, c’est la faute à [MASK], qui m’aime trop ; car si je voulais… Suffit.
+
+['Pierre', 'Charles', 'Jean', 'Louis', 'Monsieur']	Schmucke	Ah ! j’ai n’eu tort de parler d’amour n’à des vieillards qui n’ont jamais connu de femmes ! j’ai n’allumé vos feux, monstre, s’écria-t-elle en voyant les yeux de [MASK] brillant de colère. N’à la garde !
+
+['Moi', 'Oui', 'Non', 'Oh', 'Ah']	Héloïse	Tu te maries, et tu sais comme je puis te rendre malheureux !…– [MASK], j’ai le cœur doublé de cuivre, comme une frégate.– Je montrerai des enfants de toi ! j’en emprunterai.– J’ai déclaré notre attachement…
+
+['Il', 'qui', 'il', 'On', 'Monsieur']	Poulain	[MASK] va voir votre propriétaire (notez ceci !) tous les quinze jours, et il a su tous ces détails par lui. Cet ancien négociant assistait au mariage de son arrière-petit-neveu (car c’est un oncle à succession, il a bien quelque quinze mille francs de rente
+
+['Louis', 'Monsieur', 'Jean', 'Pierre', 'Joseph']	Pons	Une fois les présentations et les compliments faits, [MASK], engagé par les parents à signer au contrat, entendit la lecture des actes, et, vers cinq heures et demie, on passa dans la salle à manger.
+
+['Monsieur', 'Madame', 'Moi', 'Oui', 'Mais']	Pardine	– [MASK], dit-elle, pour trois francs, sans le vin, je puis vous faire tous les jours, pour vous deux, n’un dîner n’à licher les plats, et les rendre nets comme s’ils étaient lavés.–
+
+['Monsieur', 'monsieur', 'Pierre', 'Louis', 'Madame']	Schmucke	; il était décent, poli, convenable par état, comme une statue représentant le génie de la mort. Cette déclaration causa un tremblement nerveux à [MASK], comme s’il eût vu le bourreau.– Monsieur est-il le fils, le frère, le père du défunt ?
+
+['Il', 'Elle', 'il', 'On', 'Madame']	Rémonencq	Si monsieur voulait nous charger de la commande, nous lui éviterions l’ennui d’aller à la Ville acheter le terrain nécessaire à la sépulture de l’ami que les Arts ont perdu…[MASK] hocha la tête en signe d’assentiment et poussa le coude à Schmucke.–
+
+['Ah', 'Oh', 'Eh', 'Oui', 'Hé']	Watteau	– [MASK] ! ma cousine, un des plus grands peintres français du dix-huitième siècle ! Tenez, ne voyez-vous pas la signature ? dit-il en montrant une des bergeries qui représentait une ronde dansée par de fausses paysannes et par des bergers grands seigneurs. C’est d’un entrain
+
+['Proust', 'Picasso', 'Baudelaire', 'Balzac', 'Flaubert']	Pons	Si quelque chose peut exprimer jusqu’où va l’amour-propre des collectionneurs, qui, certes, est un des plus vifs, car il rivalise avec l’amour-propre d’auteur, c’est l’audace que [MASK] venait d’avoir en tenant tête à sa cousine, pour la première fois depuis vingt ans.
+
+['Napoléon', 'Frédéric', 'Charles', 'Léopold', 'Louis']	Pons	mais le convalescent quittait de temps en temps son ami pour examiner les nouveautés fraîchement exposées dans les boutiques. Il se trouva nez à nez avec le comte Popinot, qu’il aborda de la façon la plus respectueuse, l’ancien ministre étant un des hommes que [MASK] estimait et vénérait le plus.–
+
+['Joseph', 'Louis', 'Charles', 'Pierre', 'Henri']	Pons	Elle laissa [MASK] confus, en proie à des remords, admirant le dévouement criard de sa garde-malade, se faisant des reproches, et ne sentant pas le mal horrible par lequel il venait d’aggraver sa maladie en tombant ainsi sur les dalles de la salle à manger.
+
+['celui', 'Cécile', 'celle', 'Clément', 'Léonard']	Cardot	Il fait bon être votre héritier, dit l’ancien notaire à Pons.– Mais mon héritier, c’est ma cousine Cécile, répliqua le bonhomme en persistant dans sa parenté.Un mouvement d’admiration se manifesta pour le vieux musicien.– Ce sera une très-riche héritière, dit en riant [MASK] qui partit.
+
+['Monsieur', 'Voltaire', 'Holmes', 'monsieur', 'Napoléon']	Popinot	Mais comment un homme aussi occupé que vous l’êtes, dont la fortune primitive a été si loyalement gagnée dans le commerce…– De drogueries, dit [MASK], a pu continuer à se mêler de drogues…– Non, reprit l’étranger, mais où trouvez-vous le temps de chercher
+
+['Lui', 'Il', '</s>NOTUSED', 'II', 'Jésus']	Schmucke	Écoute-moi bien, et suis mes instructions à la lettre… M’entends-tu ? demanda le malade.[MASK], accablé de douleur, saisi par une affreuse palpitation, avait laissé aller sa tête sur le dos du fauteuil, et paraissait évanoui.– Ui, che d’endans !
+
+['va', 'viens', 'maman', 'toi', 'Marie']	Cibot	! Non, cet être-là m’a soignée comme une reine, en me pleurant comme un veau !… Mais je comptais sur vous, foi d’honnête femme. Je me disais : Va, [MASK], mes monsieurs ne te laisseront jamais sans pain…
+
+['procureur', 'le', '...', '[...]', ':']	Fraisier	; le procureur du Roi s’en est mêlé ; ce magistrat était du pays, il a pris fait et cause pour les gens du pays. Ce pauvre garçon, encore plus sec et plus râpé que je ne le suis, logé comme moi, nommé [MASK]
+
+['il', 'Chopin', 'Mozart', 'Beethoven', 'Wagner']	Pons	Bientôt noyé dans les flots d’harmonie allemande, et dans la production rossinienne, si [MASK] fut encore, en 1824, un musicien agréable et connu par quelques dernières romances, jugez de ce qu’il pouvait être en 1831 !
+
+['Lui', 'Il', 'Louis', 'Napoléon', 'Gérard']	Gaudissard	[MASK], debout devant la cheminée, avait pris une attitude napoléonienne, contractée depuis qu’il conduisait tout un monde de comédiens, de danseurs, de figurants, de musiciens, de machinistes, et qu’il traitait avec des auteurs.
+
+['tête', 'politesse', 'protestation', 'défiance', 'colère']	Fraisier	Le notaire, sur un geste de [MASK], haussa les épaules significativement.– Ne nous dérangez donc jamais quand nous signons des actes. Demandez le nom de ce… Est-ce un homme ou un monsieur ? est-ce un créancier…Le clerc revint et dit :
+
+['On', 'Dieu', 'Il', 'on', 'Elle']	Schmucke	Eh bien ! n’au bout du fossé la culbute, comme disait cet ancien acteur ! Faut de la philosophie. Comment avez-vous fait sans moi ?…– [MASK] m’a gardé, répondit le malade ; mais notre pauvre caisse et notre clientèle en ont souffert…
+
+['Voltaire', 'Napoléon', 'Robespierre', 'Alexandre', 'Rousseau']	Cardot	– Restez, si vous en avez le cœur, son ami, libre à vous, monsieur, répliqua [MASK] ; mais n’allez pas plus avant, car je crois devoir vous prévenir que j’envelopperai dans la même réprobation ceux qui tenteraient de l’excuser, de le défendre.–
+
+['vie', 'Dieu', 'Jésus', 'Jupiter', 'Marie']	Bossuet	Ce féroce parvenu fut touché de cette noblesse et de cette reconnaissance pour une chose de rien aux yeux du monde, et qui, aux yeux de cet agneau divin, pesait, comme le verre d’eau de [MASK], plus que les victoires des conquérants.
+
+['Napoléon', 'Madame', 'Julie', 'Voltaire', 'Molière']	Fraisier	Oui, c’est lui qui vous envoie là, reprit [MASK]. Ah ! ma chère dame, vous ne savez pas ce qu’est une robe rouge ! C’est déjà bien assez d’avoir une simple robe noire contre soi ! Si vous me voyez ici ruiné, chauve, moribond…
+
+['Il', 'Lui', 'On', 'II', 'Chacun']	Topinard	C’est le peuple des fabriques, peuple intelligent dans les travaux manuels, mais dont l’intelligence s’y absorbe. [MASK] demeurait dans cette cité florissante comme produit, à cause des bas prix des loyers. Il habitait la seconde maison dans l’entrée à gauche.
+
+['François', 'Pierre', 'Roland', 'Louis', 'Antoine']	Schmucke	Ma femme est à l’église.– Che bardacherai mon bain afec doi ! s’écria [MASK] dans la joie d’avoir près de lui un homme qui aimait Pons.– Monsieur veut-il prendre un des glands du poêle ? dit le maître des cérémonies, nous aurons ainsi les quatre.
+
+['Madame', 'Monsieur', 'Moreau', 'Louis', 'Voltaire']	Desplein	– C’est un homme mort, dit le docteur Haudry. – Il n’a pas un mois à vivre… répondit [MASK], à moins d’un miracle. Le coiffeur entendit ces paroles. Comme tous les coiffeurs, il entretenait des intelligences avec les domestiques.
+
+['en', 'on', 'celui', 'Pierre', 'se']	Beaumarchais	Il n’y a que les natures d’élite qui aiment à gravir les hauteurs, qui ne souffrent pas en se voyant en présence de leurs supérieurs, qui se font leur place, comme [MASK] laissant tomber la montre d’un grand seigneur essayant de l’humilier ;
+
+['Rousseau', 'Gagnon', 'Roy', 'Moreau', 'Pelletier']	Fraisier	C’est une bagatelle pour vous et pour monsieur le président que d’obtenir ma nomination, car vous devez causer assez d’ombrage au garde des sceaux actuel pour qu’il désire vous obliger… Ce n’est pas tout, madame, ajouta [MASK] en voyant la présidente prête à parler et lui faisant un geste.
+
+['vous', 'Marie', 'moi', 'lui', 'maman']	Schmucke	que serais-je devenu sans vous et [MASK] ?– Ah ! nous sommes bien vos seuls amis sur cette terre ! ça c’est bien vrai ! Mais deux bons cœurs valent toutes les familles… Ne me parlez pas de la famille !
+
+['lui', 'moi', 'nous', 'cela', 'vous']	Pons	Un homme moins absorbé que [MASK] dans son contentement, un homme du monde, un homme défiant eût observé la présidente et sa fille en revenant dans cette maison ; mais ce pauvre musicien était un enfant, un artiste plein de naïveté, ne croyant qu’au bien moral comme il croyait au beau dans les arts ;
+
+['Pierrot', 'Molière', 'Napoléon', 'Voltaire', 'Roland']	Schmucke	il le voyait sans cesse, il le croyait à ses côtés, et il arriva devant le théâtre d’où sortait son ami Topinard, qui venait de nettoyer les quinquets de tous les portants, en pensant à la tyrannie de son directeur.– Ah ! foilà mon avvaire ! s’écria [MASK] en arrêtant le pauvre gagiste.
+
+['Monsieur', 'monsieur', 'Charles', 'Alexandre', 'Antoine']	Schmucke	Ele a l’air d’une bedide Allemante ! dit [MASK] en lui faisant signe de venir à lui.– Monsieur serait là bien mal, dit l’ouvreuse ; si je n’étais pas obligée d’avoir mes enfants près de moi, je proposerais bien notre chambre.
+
+['Marie', 'Jeanne', 'Marguerite', 'Madeleine', 'Catherine']	Pons	mais il prit la main de [MASK], la baisa doucement, et la tint dans ses deux mains, en essayant de lui communiquer encore une fois ainsi sa propre vie. Ce fut alors que le docteur Poulain entendit sonner et alla ouvrir la porte à l’abbé Duplanty.–
+
+['Monsieur', 'monsieur', 'Madame', 'madame', 'Mme']	Schmucke	Monsieur serait là bien mal, dit l’ouvreuse ; si je n’étais pas obligée d’avoir mes enfants près de moi, je proposerais bien notre chambre.Elle ouvrit la chambre et y fit passer [MASK]. Cette chambre était tout le luxe de l’appartement.
+
+['Il', 'il', 'Elle', '»', '</s>NOTUSED']	Pons	signez la paix en venant dîner avec nous ce soir…[MASK] s’embrouilla dans une diffuse réponse, et finit en faisant observer à son cousin qu’il assistait le soir aux fiançailles d’un musicien de son orchestre, qui jetait la flûte aux orties pour devenir banquier.–
+
+['il', 'elle', 'qui', 'Il', 'on']	Pons	Oiseau picoreur, s’enfuyant le gosier plein, et gazouillant un air pour tout remercîment, [MASK] éprouvait d’ailleurs un certain plaisir à bien vivre aux dépens de la société qui lui demandait, quoi ? de la monnaie de singe.
+
+['lui', 'Wagner', 'Franz', 'Beethoven', 'Fritz']	Schmucke	Le vieux musicien ne répondait aux prières du pauvre Allemand désespéré que par des signes de tête négatifs, entremêlés de mouvements d’impatience. Enfin, le moribond rassembla ses forces, lança sur [MASK] un regard affreux et lui dit : – Laisse-moi donc mourir tranquillement !
+
+['Napoléon', 'Madame', 'Voltaire', 'Monsieur', 'Monseigneur']	Brunner	N’étiez-vous pas venu, monsieur, reprit le futur pair de France, pour demander la main de ma petite-fille ?– Oui, monsieur, dit [MASK], et je vous prie de croire qu’aucune alliance ne peut être plus flatteuse pour moi que celle-là.
+
+['médecin', 'chirurgien', 'docteur', 'médecine', 'psychiatre']	Sisyphe	Un homme se façonne à son sort, il accepte la vulgarité de sa vie. Aussi, le docteur Poulain, après dix ans de pratique, continuait-il à faire son métier de [MASK], sans les désespoirs qui rendirent ses premiers jours amers.
+
+['Dupont', 'Smith', 'Durand', 'Moreau', 'Martin']	Cibot	!La position des époux [MASK], en style d’acte d’accusation, devait, chose singulière ! affecter un jour celle des deux amis ; aussi l’historien, pour être fidèle, est-il obligé d’entrer dans quelques détails au sujet de la loge.
+
+['mourir', 'souffrir', 'vivre', 'tuer', 'tomber']	Bons	– C’esde eine monsdre qui a dué [MASK] ! dit-il.– Mais il vous faut quelqu’un auprès de vous ? reprit le docteur Poulain, car il faudra garder le corps cette nuit.– Che le carterai, che brierai Tieu ! répondit l’innocent Allemand.– Mais il faut manger !
+
+['le', ':', 'les', '–', '!']	Gaudissard.–	– Trois cents francs ! dit [MASK] Tes zouliers, quadre baires…– Soixante francs.– Tis pas…– Douze ! c’est trente-six francs.– Sisse gemisses.– Six chemises en calicot, vingt-quatre francs, autant en toile, quarante-huit : nous disons soixante-douze.
+
+['Il', 'Joseph', 'Paul', 'Charles', 'Pierre']	Pons	[MASK] descendit lentement l’escalier en retenant ses larmes : il se voyait chassé de cette maison, sans savoir pourquoi. – Je suis trop vieux maintenant, se disait-il, le monde a horreur de la vieillesse et de la pauvreté, deux laides choses. Je ne veux plus aller nulle part sans invitation.
+
+['elle', 'lui', 'eux', 'plaisir', 'soulagement']	Pons	-ci fit un geste mutin qui signifiait : – Et vous donc ! qui ne vous aimerait ? – Maman, ça va bien ! dit-elle à l’oreille de sa mère qui revint avec [MASK].L’aspect d’une famille pendant une soirée pareille ne se décrit pas.
+
+['Que', 'Et', 'Je', 'On', 'Elle']	Che	Mais vous afez une chantile femme, fus l’épiserez, n’est-ce bas ? [MASK] fus donne mille écus… La bedide file aura eine tode te mile écus que fus blacerez en son nom. Ed fus ne serez plis cachisde… fus allez êdre le gaissier du théâdre…
+
+['Marie', 'Jeanne', '</s>NOTUSED', 'Jean', 'Pierre']	Pons	puis, avec cette habitude des garde-malades, métier qu’elle avait exercé pendant dix ans, elle déshabilla [MASK], l’étendit, lui colla les mains de chaque côté du corps, et lui ramena la couverture sur le nez, absolument comme un commis fait un paquet dans un magasin.–
+
+['Il', 'On', 'Elle', 'il', 'Qui']	Watteau	[MASK] s’est exterminé à composer cela ! « Combien voulez-vous du meuble ? – Oh ! mille francs, on me les donne déjà ! » Je lui dis un prix de l’éventail qui correspondait aux frais présumés de son voyage.
+

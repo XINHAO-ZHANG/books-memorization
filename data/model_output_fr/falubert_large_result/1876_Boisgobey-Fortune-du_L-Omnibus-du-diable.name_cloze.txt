@@ -1,0 +1,200 @@
+[':', ';', 'M.', ',', 'M']	Chambras	; mais j’ignore les formalités qu’il faut remplir pour... voudriez-vous me rendre le service de passer à l’hôpital ? — C’est fait, dit simplement [MASK]. Elle sera enterrée demain matin, et je suivrai le convoi. — Nous le suivrons.
+
+['lui', 'moi', 'elle', 'vous', 'nous']	Ernest	Je dirai plus tard à monsieur votre père, ajouta-t-il en s’adressant à [MASK], le nom de l’homme qui a commis cette infamie. En attendant, je vais lui prouver que vous seul êtes coupable de ce vol, qui, d’ailleurs, n’était pas le premier.
+
+['de', 'à', 'que', 'jouer', 'siennes']	Traies	A vingt ans, on n’y songe guère, et on tient pour [MASK] toutes les comédies, même les plus mal jouées. Heureux âge, et que les intelligentes personnes qui vivent de la sottise de leurs contemporains ont bien raison de préférer à la maturité expérimentée.
+
+["l'", "L'", 'notre', 'le', 'cet']	Dominique	: — N’avez-vous pas ici un apprenti nommé Charles Crambard ? — Faut demander ça au contre-coup, répondit l’ouvrier ; justement il cause avec une femme, là-bas, au fond de la cour. — Le contre-coup ! répéta [MASK] étonné.
+
+[',', '"', '¬', '...', '-']	Dominique	murmura [MASK]. — Ce n’est pas probable, mais ce n’est pas impossible non plus. J’ai un plan que je vais mettre à exécution dès ce soir. Pour le moment, nous n’avons qu’à nous occuper du fils de l’Époulardeur.
+
+['il', 'elle', 't-il', 'celui-ci', 't-elle']	Chambras	Mais... la police ? Comment se fait-il qu’elle soit si oublieuse ? — La police a fort à faire, cher monsieur, dit [MASK] en souriant, et si elle s’attardait à fouiller le passé, elle risquerait fort de négliger le présent.
+
+['lui', 'moi', 'vous', 'nous', 'elle']	Valentine	Et pour quoi faire, mon Dieu ! qu’il me donnerait cinq cents francs par mois, ce vilain caliborgne ? — Tiens ! je croyais que vous ne le connaissiez pas. — Je l’ai vu chez [MASK], ça, c’est vrai.
+
+['il', 'lui', 'le', 'se', 'homme']	Chambras	Le trajet, qui se fit rapidement, fut silencieux jusqu’au quai. Là, [MASK] cria d’arrêter, sauta à terre et courut à la berge, où, du premier coup d’oeil, il s’assura qu’aucun chaland n’était amarré.
+
+['lui-même', 'personne', 'tous', 'lui', 'même']	Dominique	Le directeur dit quelques mots à un garçon muni d’une lanterne, qui se glissa aussitôt le long des casiers pour chercher le gage demandé et, en attendant qu’il l’apportât, l’aimable chef de l’immense et bienfaisant établissement de prêts crut devoir en faire un peu les honneurs à [MASK].
+
+['la', "l'", 'de', 'se', ',']	Savinien	Elle est sans doute allée le rejoindre, car elle avait déjà quitté l’hôtel lorsque je m’y suis présenté pour retirer mes fonds. Ne comptez-vous pas la poursuivre ? Elle a été, m’avez-vous dit, complice du vol qui a coûté si cher à [MASK]
+
+['officier', 'homme', 'officiers', 'colonel', ',']	Fertugues	[MASK], qui ne possédait que sa solde, ne pouvait pas l’épouser, puisqu’elle ne lui apportait pas en dot la somme indispensable, aux termes des règlements militaires, pour devenir la femme d’un officier, mais il ne l’abandonna point.
+
+['le', '...', '-', ':', 'Monsieur']	Chambras	— Je suis à vos ordres, monsieur le comte, dit-il en s’inclinant. Vous nous avez quittés de bien bonne heure à la petite fête de cette nuit. — Mon Dieu, oui, répondit [MASK]. J’ai le malheur de ne pas aimer le jeu...
+
+['...', 'terre', 'lui', 'lui-même', 'le']	Marcel	Embrasse-moi, conclut l’impétueux Canadien en se jetant sur [MASK] et en le serrant à l’étouffer. Voilà qui est fait. Adieu. Pierre est en bas... Il a déjà repris sa livrée... je vais te l’envoyer... il te racontera le bruit qui court...
+
+['moi', 'brune', 'rousse', 'toi', 'elle']	Jacques	mais je lui tordrais le cou comme à un poulet à c’te chipie, dit la géante blessée dans son amour-propre. — C’est pas moi qui t’en empêcherai. La blonde et [MASK], c’est une mauvaise société et je veux m’en tirer les pieds.
+
+['il', 'Il', ',', 'et', '...']	Dominique	[MASK] réfléchissait. Tout à coup, il se frappa le front et s’écria : — Je me rappelle maintenant. Le chèque de sept mille neuf cents francs a été signé devant moi, dans la journée de lundi.
+
+['service', 'pique', 'coeur', 'campagne', 'cœur']	Phémie	— Je t’avais défendu de venir ici, lui dit-elle sèchement. — En blouse et en casquette, oui, répondit l’amant de [MASK] ; mais aujourd’hui que je me suis camouflé en rupin, c’est pas la même chose. — Finissons-en.
+
+['celui-ci', 'monsieur', 'M.', 'Monsieur', 'Jean']	Chambras	Il étouffait. — Si je ne me trompe, vous êtes arrivé à temps pour remplir votre mission, reprit le directeur. — Oui, répondit [MASK], et il ne me reste plus qu’à vous remercier, monsieur, de m’en avoir facilité l’accomplissement.
+
+['celui-ci', 'Pierre', 'Jean', 'Jacques', 'lui-même']	Marcel	Le Canadien suivait, fort attristé du résultat de cette première enquête. La montre portant la trace d’un coup ne lui disait rien de bon et il inclinait de plus en plus à croire que [MASK] avait été assassiné .
+
+['soir', 'dimanche', 'Paris', 'Auteuil', 'année']	Lilas	L’intérêt y est de 9 pour 100, c’est vrai, mais l’étudiant qui engage sa montre et la mère qui y apporte son matelas sont sûrs d’y trouver, l’un de quoi aller au bal de la Closerie des [MASK], l’autre de quoi acheter du pain à ses enfants.
+
+['le', 're', 'ne', 'se', 'elle']	Dominique	Mais elle devinait que le Californien et son ami étaient mêlés à ce mystère, et, comme il lui tardait de l’éclaircir, elle ne s’était point opposée à ce que [MASK] vit le blessé, parce qu’elle espérait qu’après cette visite la lumière se ferait peut-être.
+
+['madame', 'la', 'Mme', 'Madame', 'M']	Catherine	��� Ah ben ! si vous comptez sur moi pour ça, vous vous mettez joliment dedans, s’écria [MASK]. J’étais cuisinière chez papa Robinier quand on barbotta sa boutique, mais je n’en ai jamais su plus long que les autres.
+
+['il', 'lui-même', 'je', 'le', 'lui']	Dominique	Par un sentiment de délicatesse que [MASK] trouvait exagéré, il s’était abstenu de se présenter de nouveau à l’hôtel du quai de Valmy, et il serait certainement devenu fou d’inquiétude s’il n’eût pas eu de graves distractions.
+
+[',', 'se', 'ne', 'le', 'en']	Marcel	[MASK] vint à lui, et de sa voix la plus douce : — Pourquoi pleurer, mon ami ? dit-il lentement. Pourquoi regretter cette femme qui vous préférait un laquais ? — Je ne la regrette pas... je la hais... et si je pleure... c’est de honte...
+
+['le', "l'", 'la', '"', 'Jean']	Chambras	Elle n’en a pas pour vingt-quatre heures. Ses poumons fondent comme du sucre dans un verre d’eau. Elle a déjà, dans le lobe inférieur du côté droit, une caverne à y fourrer le poing. — Diable ! il était temps, murmura [MASK].
+
+['celui', 'Jean', 'Pierre', 'celui-ci', ',']	Salomon	— Si vous me l’apportez avant trois jours, cent francs de gratification pour vous et ma parole que l’ami ne sera pas inquiété, à moins qu’il n’ait trempé dans l’affaire. — C’est comme si vous l’aviez, dit [MASK] dont la figure s’illumina.
+
+['son', 'sa', 'la', 'le', "l'"]	Savinien	Il est capable de s’être volé lui-même pour perdre [MASK]. — C’est difficile à croire, vous en conviendrez ; d’autant plus que le vol... il m’en coûte de vous le dire... le vol est prouvé.
+
+['il', 'celui-ci', 'Jean', 't-il', '-il']	Carinis	— Ce serait la dix-huitième intermittence, et on n’a jamais vu cela, dit [MASK] d’une voix étranglée par l’émotion. — Possible, mais on a vu mieux, répliqua le vieux viveur, dont l’érudition était sans limites, en matière de jeu.
+
+['il', 'celui-ci', 'elle', 'Robert', 'chacun']	Pierre	Il fit même très-bonne contenance jusqu’au moment où [MASK] entra pour obéir à son maître. Le drôle avait probablement écouté à la porte, car il ne parut pas surpris de se trouver en face de son adversaire de la veille.
+
+['t-il', 'il', 'celui-ci', 'le', 't-elle']	Dominique	tenez, il faut que je vous dise encore une fois que vous êtes un brave homme, ajouta [MASK] en se jetant au cou du policier, qui ne chercha point, comme il l’avait fait la veille, à se dérober à cette marque d’estime et d’amitié.
+
+['-', 'Ensemble', 'Allons', 'travaillons', 'Oui']	Laboremus	son âme est immortelle, car elle appartient à l’humanité, » — C’est très-beau, sa conclusion, mais... la morale, où est-elle ? — Elle est tout entière dans un mot, le dernier qu’ait prononcé Septime Sévère, un empereur romain : [MASK], travaillons.
+
+['puis', 'toi', 'bien', 'même', 'lui']	Amanda	— Je fermerai aussi le bec au pante. — Et [MASK], l’empêcheras-tu aussi de jouer du chiffon rouge ? — Tout de même. — Alors t’as un idée ? — Mets que j’en ai une, et n’en parlons plus.
+
+['il', 'en', 'avait', 'lui', 'fit']	Atkins	Cette fois, je te tiens et je ne te manquerai pas. Le baron s’affaissa immédiatement et chercha à se cacher sous le banc où il était assis, mais [MASK] fit bonne contenance. — Ah ! ah ! dit-il, il paraît que vous voulez m’assassiner.
+
+['il', 'Il', 'elle', 'Elle', 'et']	Chambras	Elle n’avait pas répondu aussi franchement quand on l’interrogeait sur le vol du magasin. [MASK] remarqua fort bien la nuance et il se dit. aussitôt : — Elle a été complice du vol, mais elle ne s’est pas mêlée de l’affaire de Fertugues.
+
+['Henri', 'celui-ci', 'Paul', 'Rodin', 'Jean']	Marcel	— Parce que ce secret n’était pas le mien, répliqua [MASK] avec fermeté, parce que je voulais vous épargner le chagrin de soupçonner une femme qui a pu être imprudente, mais qui n’a jamais été coupable. Je réponds de son honneur comme du mien.
+
+['t-il', 'il', 'le', 'celui-ci', ',']	Dominique	Ils sont chargés. Prends-en un et sers-t’en, lui cria [MASK] en avançant le bras pour lui offrir une des armes qu’il avait choisies. Sur ce bateau, où les deux adversaires se touchaient presque, il était impossible de se servir de carabines.
+
+['personne', "l'", 'nul', 'on', 'rien']	Chambras	? Tous ces gredins devaient avoir depuis longtemps rendu leurs comptes à Dieu ou aux hommes ; s’ils vivaient encore et s’ils couraient le monde, ils étaient introuvables, puisque [MASK] n’avait pu recueillir sur eux que des renseignements très-vagues.
+
+[',', 'la', 'de', '...', 'se']	Valentine	— Possible, mais avec les Américains c’est une autre affaire. Celui de [MASK] vous donne cinq cents francs par mois. — Oh ! si on peut dire ! Et pour quoi faire, mon Dieu ! qu’il me donnerait cinq cents francs par mois, ce vilain caliborgne
+
+['il', 'et', 'Il', 'on', ',']	Dominique	V’là la brise qui fraîchit. Si le canot capote, ça vous regarde ; il est payé. [MASK] ne se donna même pas la peine de répondre au patron complaisant qui venait de lui louer sa barque plus cher qu’elle ne lui avait coûté.
+
+["c'", "C'", 'elle', 'Elle', 'vous']	Coralie	— Ma liaison avec elle m’a coûté un peu cher, reprit le valet de chambre encouragé par ce silence approbateur, mais je ne regrette pas mon argent. [MASK] est une femme charmante... un peu mûre peut-être, mais de la dent, du cheveu et du goût dans ses toilettes.
+
+['Il', 'Elle', "n'", 'il', 'On']	Charles	Entraînée rapidement par les courants qui portent au large, la barque chavirée avait disparu. Il s’agissait de regagner la terre, et elle était assez éloignée pour qu’un enfant eût bien de la peine à y aborder. [MASK] y tâcha pourtant. Il commença par s’orienter.
+
+['.', 'de', 'la', ',', 'le']	Canoche	[MASK]. — Excepté l’Époulardeur et la blonde, que tu as fait cuire au pétrole, reprit le sous-chef de la sûreté. La manie du pétrole, vois-tu, mon garçon, ça conduit tôt ou tard à la Roquette, et te voilà en route.
+
+[',', 'il', 'le', 'en', 'se']	Pain-de-Blanc	— Apparemment que c’est pas ma laitière, puisque je mets une cravate blanche pour venir la voir, dit [MASK] d’un ton qui ne permettait pas de croire qu’il eût été élevé sur les genoux d’une duchesse. Et il reprit en se dandinant avec grâce :
+
+['celui-ci', 'celui', "l'", 'celle', 'Jean']	Marcel	demanda l’officier en montrant le papier qui était resté sur son lit. — Oui, dit [MASK] qui comprit aussitôt la situation, oui, c’est moi, et je vous donne ma parole d’honneur que tout ce qu’elle contient est vrai.
+
+['le', 'et', 'ce', 'or', 'il']	Marcel	Cela dérangeait tous ses calculs, et il se demanda s’il n’allait pas changer de batteries en sautant tout simplement au collet du banqueroutier pour le faire arrêter. Ce voleur de baron devait avoir sur lui une grosse somme dont [MASK], indignement spolié par lui, avait bien le droit de réclamer sa part.
+
+['gauche', 'son', "l'", 'terre', 'droite']	Phémie	Mais Pain-de-Blanc s’est ménagé et il a plus d’une fois poussé le coude à [MASK], qui buvait trop longuement à même le large bidon de fer-blanc dont on se sert en guise de bouteille à bord du Barbillon.
+
+['OR', 'car', 'le', 'R', 'de']	Chambras	— Très-joli, le camouflage, dit [MASK]. Malheureusement, tu ne pourras plus le recommencer, carton compte est bon, et celui de ta largue aussi. — J’ai grinché, c’est vrai, mais je n’ai buté personne, s’écria
+
+['homme', 'Artagnan', 'autre', 'autres', '.']	Aldrige	— Ladies and gentlemen, commença-t-il d’une voix nasillarde. — Si la surprise se fait en anglais, je m’en vais, interrompit d’[MASK]. — Oui, oui, parlez français ! crièrent les femmes.
+
+['tout', 'Tout', 'on', 'On', 'amour']	Cécile	La justice informe, et elle ne tardera pas sans doute à éclaircir ce qu’il y a de mystérieux dans ce triste événement. » XIV Le mois de mai est de retour. Les lilas ont fleuri. [MASK] se marie.
+
+['père', ',', 'autre', 'homme', 'docteur']	Aldrige	Les premiers coups n’amenèrent pas de résultats décisifs. La rouge passait une ou deux fois de suite, puis c’était la noire, sans qu’il se produisît de séries ni d’alternatives régulières. — Ça m’a l’air d’être une taille hachée, dit d’[MASK].
+
+['il', 'elle', 'on', 'ne', 'Il']	Chambras	Mais vous comprenez qu’il s’agit ici d’une affaire de famille où l’intervention de la police serait superflue. Souffrez donc que je la règle moi-même et portez mes remercîments à M. le préfet. En dépit de ce congé peu dissimulé, [MASK] ne bougea point.
+
+[',', 'en', '...', 'on', 'E']	Chambras	A l’apparition d’un monsieur si bien vêtu, cette puissante beauté se leva, non sans efforts, et porta la main à son front comme un troupier qui salue son supérieur. — Je suis médecin, dit [MASK] sans lui laisser le temps de se reconnaître ;
+
+['vous', 'Il', 'Elle', 'qui', 'il']	Claire	Vous m’avez dit : « Si jamais j’aime encore, je vous promets de donner à celle que j’aimerai cette fleur qui me vient de vous. » Voilà qui est fait, monsieur. [MASK] accepta la fleur et la mit à son corsage.
+
+['elle', 'il', 'celle-ci', 'on', 'celui-ci']	Chambras	Elle grimpa, en soufflant comme une baleine, jusqu’au cinquième étage, et elle allait frappera la porte de la chambre, mais [MASK] lui tendit la clef en lui disant : — Votre homme me l’a confiée pour qu’on ne vînt pas le déranger pendant que j’allais vous chercher.
+
+['Joséphine', 'la', 'Napoléon', 'Madame', 'Joseph']	Coralie	— Joséphine ! répéta douloureusement l’amoureux de [MASK]. Toutes ses illusions s’envolaient une à une. Son adorée l’avait trompé jusque sur son nom de baptême. — Ah ben, oui, je t’en souhaite !
+
+[',', 'la', 'celui-ci', "l'", 'Dieu']	Coralie	n’en faut pas, grommela le frère de [MASK] en se rapprochant de la porte. — Tu sais, ça dépend de toi. Il est là, dans la pièce à côté, et comme il ne joue pas, lui, il aura tout le temps de t’examiner.
+
+['personne', 'autrui', 'public', 'lui-même', 'nouveau']	Dominique	Mais il croyait n’avoir rien fait tant qu’il lui restait quelque chose à faire, et, en ce moment même, il méditait d’achever son œuvre et d’employer pour cela des moyens qu’il jugeait inutile d’exposer à [MASK].
+
+['tout', 'monsieur', 'madame', 'personne', 'bien']	Noémi	— Vous plaisantez, mon cher. — Pas du tout. Vous en avez une dizaine en poche. Vous pourriez bien partager. — Après moi, vous aurez tout, puisque vous épouserez [MASK], car je ne laisserai pas un sou à mon gredin de fils.
+
+['...', 't-il', 'Jean', 'monsieur', 'Robert']	Marcel	D’ailleurs, j’en ai été bien puni, puisque, hier, j’ai reçu... — Il ne s’agit pas de vous excuser, interrompit [MASK], mais de nous dire comment vous vous trouviez au Grand-Hôtel, sous un nom d’emprunt.
+
+['Elle', 'elle', 'Madame', 'Celle-ci', 'Jeanne']	Cécile	Je vous expliquerai cela tout à l’heure. Continuez, je vous en prie. — [MASK] craignait d’être attaquée, enlevée peut-être par ceux qui l’épiaient, et, pour la rassurer, je lui avais dit de me faire appeler sur-le-champ en cas de malheur.
+
+['celui-ci', 'Jean', 'Philippe', 'Henri', 'Charles']	Ernest	Heureusement, ça ne sort pas de la famille, puisqu’il va épouser ma sœur, s’écria [MASK] en riant d’un rire un peu forcé. Ce dialogue à bâtons rompus se tenait dans le couloir qui menait chez le baron et qu’arpentaient à grands pas Chambras et son guide.
+
+['le', 'M', 'M.', "l'", 'la']	Phémie	Du reste, ajouta le chenapan qui connaissait fort bien les usages administratifs, on l’a repêché mardi ; les soixante-douze heures sont passées. Il doit être enterré. — C’est égal, grommela [MASK]. J’ai le trac tout de même.
+
+['lui', 'lui-même', 'moi', "l'", 'elle']	Chambras	Avec sa figure pâle, ses longues moustaches noires, ses yeux caves et sa physionomie expressive, il avait l’air d’un seigneur italien proscrit pour avoir conspiré contre une tyrannie quelconque. Quant à [MASK], tout en lui, costume, figure, attitude, était d’une correction absolue.
+
+[',', 'qui', 'Je', 'et', 'je']	Cécile	[MASK], prétendait-il, avait été entraînée de force sur un bateau et elle n’avait eu que le temps de lui jeter mon nom et la phrase de reconnaissance. Je n’ai pas hésité un instant, et j’ai couru avec lui à l’endroit qu’il m’indiquait.
+
+[',', 'de', 'déjà', 'le', 'à']	Robinier	vous ne l’êtes plus. Je croyais que vous vous nommiez M. de Colorado ; vous êtes le fils d’un homme qui s’appelait [MASK] et que mon mari tenait en grande estime. La situation n’est plus la même... — Voulez-vous dire que vous seriez
+
+['...', 'on', 'le', 'ON', ',']	Pain-de-Blanc	murmura-t-elle. — Ça de l’absinthe ! c’est du pétrole, ricana [MASK]. Et saisissant par le bras la femme-colosse, il la conduisit au bord du bateau, et lui dit d’un ton qui la fit frissonner des pieds à la tête
+
+['Ulrich', 'Harry', 'Jack', 'Sam', 'Jean']	Dominique	— Oui, il est mort, reprit douloureusement [MASK], ils me l’ont tué. Cela devait finir ainsi dans cette ville exécrable. Je sais maintenant ce qu’il me reste à faire, ajouta-t-il en montrant le poing à un ennemi invisible.
+
+['le', "l'", 'la', 'M.', 'mon']	Chambras	Elle a bien fait. — Oui, certes, et le jeune homme m’a dit qu’il irait l’y rejoindre cette après-midi. — Pensez-vous qu’il y soit maintenant ? — C’est probable, répondit [MASK], après avoir regardé sa montre.
+
+['il', 'se', 'chacun', 'je', 'celui-ci']	Marcel	Le chèque que [MASK] destinait à payer son carrossier était rempli d’avance pour la somme de sept mille neuf cents francs et signé. Il suffisait de le détacher de la souche et de le toucher dans la journée, pour n’avoir rien à craindre.
+
+['M', 'B.', 'A', 'M.', 'F.']	Marcel	— Ce n’est pas l’écriture de [MASK]. La signature est fausse. — Parbleu ! murmura le sous-chef de la sûreté. — Ainsi, demanda le directeur, vous croyez qu’on a volé cet étranger et qu’on s’est servi de ses papiers pour engager ?
+
+['t-il', 'Il', 'circonstance', 'il', 'ainsi']	Chambras	— Après notre visite au cimetière ? — Précisément ; je l’ai très-bien reconnu. — Quel homme était-ce ? demanda [MASK]. — Une manière d’hercule, carré, trapu, velu comme un ours. — C’est bien le signalement de l’Époulardeur.
+
+['...', 'le', 'la', '.', "l'"]	René	! — Mon beau-frère va beaucoup mieux, balbutia [MASK]. — Je sais bien qu’à votre âge la passion ne raisonne pas, mais je suis sûr que vous avez des remords d’avoir laissé votre mère qui vous aime tant se désoler de votre absence.
+
+['lui', 'elle', 'il', 'et', 'fit']	Jackson	[MASK] laissa bien voir quelque surprise de rencontrer chez elle si nombreuse société, mais il fit. bonne contenance et il lui témoigna tant d’attentions, qu’elle se crut suffisamment autorisée à l’afficher comme son adorateur attitré.
+
+['la', 'le', 'en', "l'", 'RE']	Dominique	— C’est elle qui nous envoie, dit aussitôt [MASK]. — Vous l’avez vue ? s’écria l’enfant tout ému. — Oui, répondit le Canadien en baissant la voix. — Elle me demande, n’est-ce pas ?... elle est donc plus malade
+
+['il', 'elle', 'on', 'lui', 'celui-ci']	Claire	Et si [MASK] refusait de l’épouser, comme il n’avait que trop lieu de le craindre, que lui importait d’être pauvre ? Il reprit donc : — Vous pouvez garder aussi le reste de la somme que je vous ai remise pour les premiers frais.
+
+['ses', 'son', 'la', "l'", 'sa']	Savinien	Naturellement, il n’avait pas invité ses agents à la noce de [MASK], et il ne pouvait compter que sur sa propre habileté, mais il n’était pas homme à lâcher une piste avant de l’avoir menée jusqu’au bout.
+
+['il', 'Wade', 'Jésus', 'celui-ci', 'Macky']	Fertugues	; mais j’ai faitune enquête et j’ai appris que [MASK] avait eu cette enfant lorsqu’il était encore au service. La mère était une jeune orpheline que la ruine de ses parents avait laissée sans ressources, mais qui avait été bien élevée.
+
+['lui', 'eux', 'elle', 'nous', 'celui-ci']	Pain-de-Blanc	C’est là qu’elle s’était adressée en arrivant et qu’on lui avait donné des nouvelles de son homme. Le couple y fut reçu à merveille ; depuis trois jours, le maître de l’établissement faisait avec [MASK] d’excellentes affaires, et le traitait avec beaucoup d’égards.
+
+['ça', 'le', ',', 'cela', 'en']	Marcel	Évidemment, ces gens-là n’avaient pas enlevé [MASK] pour le plaisir de le séquestrer, et ils voulaient exploiter leur capture. L’agent de police avait donc pris ses précautions pour le cas où ils se présenteraient à une caisse quelconque, porteurs de la signature du millionnaire californien..
+
+['il', 'elle', 'on', 'Monseigneur', 'je']	Marcel	— Bah ! au fait, j’aurais dû me douter que cet homme était un domestique. Il a la manie de parler toujours à la troisième personne. — Oui, [MASK] l’a déguisé en gentleman, l’a logé au Grand-Hôtel et lui fait une grosse pension, pour qu’il entretienne cette créature.
+
+['"', 'NE', '...', ',', 'la']	Francklin	— Encore une erreur. Je vais te répondre par des chiffres. Sans doute, il y a ici bien des gens qui pourchassent la fortune, sans se soucier le moins du monde de cette grande parole de [MASK] : «
+
+['...', '"', '_', "'", ';']	Chambras	— C’est l’Américain, c’est ce gredin-là qui a fait le coup. — Vous voulez dire qu’il vous a payée pour le faire, rectifia [MASK]. Combien vous a-t-il donné pour cacher les billets de banque sous le traversin ?
+
+['le', 'la', 'elle', 'il', "l'"]	Chambras	demanda-t-elle de l’air obséquieux et insinuant qu’elle savait prendre quand elle flairait de bonnes pratiques. — Non, dit [MASK] en la regardant bien en face, nous venons pour vendre. — Ça peut se faire, répliqua la revendeuse d’un ton moins engageant.
+
+['famille', 'celle-ci', 'Marie', 'Louise', 'celui-ci']	Claire	— Monsieur, balbutia la mère de [MASK], la démarche que vous faites en ce moment... nous honore... mais elle est si grave et... je m’y attendais si peu... il y a des obstacles... et d’ailleurs, je suis obligée de consulter ma fille.
+
+['le', 'la', "l'", 'son', 'sa']	Chambras	— En effet, il faut qu’elle soit bien ingrate, dit tranquillement [MASK], car, ce matin, elle m’a tout raconté. Elle m’a appris que, depuis quelques semaines, vous étiez à la solde de son amant et qu’il vient de vous congédier, parce que son but était atteint.
+
+[',', 'se', '...', 'ne', 'il']	Chambras	Il descendit rapidement l’escalier, suivi par le Canadien qui ne se sentait pas de joie et qui mourait d’envie de le questionner. Le fiacre les attendait à la porte et [MASK] s’y jeta en criant au cocher
+
+['lui', 'moi', 'eux', 'elle', 'nous']	Chambras	— Je vous crois, monsieur, dit-il en s’arrêtant devant [MASK], je vous crois et je vous jure que les coupables seront punis. Mais vous comprenez qu’il s’agit ici d’une affaire de famille où l’intervention de la police serait superflue.
+
+['le', 'celui-ci', "l'", 'la', 'il']	Chambras	Son stick était posé sur la tablette à côté de son chapeau, et [MASK], en traversant la cour de l’hôtel, avait aperçu, gardé par un groom, le hack de promenade de l’héritier du baron.
+
+['tout', "c'", 'chacun', 'celui-ci', 'lui']	Marcel	Je parierais que demain, au plus tard, ils rattraperont l’Époulardeur et sa bande. — Et vous êtes sûr que [MASK] est à bord ? — Parbleu ! la chose est claire et je vois ce qui s’est passé comme si j’y avais été.
+
+['je', "j'", 'nous', 'vous', "c'"]	Fertugues	— Oui, certes ; et, pour le croire, il faudrait que j’en eusse la preuve. — C’est cette preuve que je viens chercher, et j’ai bien peur qu’on ne me la fournisse. Il faut vous dire que [MASK] menait une existence singulière.
+
+['Il', 'il', '</s>', 'et', 'Elle']	Phémie	Un si bel homme ! Ah ! qué malheur ! — J’espère que l’amputation ne sera pas nécessaire, répondit gravement le docteur de contrebande. Mais, dépêchons-nous. [MASK] se précipita hors de sa tente et courut droit à l’allée de la maison voisine.
+
+['son', 'sa', 'ses', 'la', "l'"]	Marcel	Il la reconnut et il remarqua qu’elle était vêtue de noir, comme si elle eût porté le deuil de [MASK]. Il lui sembla même qu’elle le reconnaissait aussi, car une vive émotion se peignit sur son doux visage lorsqu’il entra.
+
+['il', 'Il', 'elle', 'Elle', 'père']	Dominique	Il pleuvait à torrents et personne ne s’était trouvé là pour les voir aborder. [MASK] prit l’enfant par la main et l’entraîna au pas de course vers la ville. Il avait ses raisons pour tenir à ce que leur aventure fût ignorée des Havrais, et il réussit parfaitement à la leur cacher.
+
+['la', 'tous', "l'", '.', 'leur']	René	Ce calme de la grande ville et cette paisible joie des bourgeois rentrant au logis avaient l’air d’insulter à la douleur de [MASK]. Il était là immobile, les dents serrées, les mains crispées, les yeux obstinément fixés sur ces vitres illuminées derrière lesquelles se dessinaient parfois des ombres errantes.
+
+[',', 'se', 'de', 'le', '...']	Chambras	[MASK] aussi se leva et se glissa doucement hors du cabaret. Il en savait assez et il n’avait pas perdu son temps. Son agent flânait dans la rue. Il se dirigea de son côté, et, sans s’arrêter, il lui dit en passant :
+
+['le', "l'", 'mon', 'son', 'Mr']	Chambras	Il ne sera pas difficile à remplacer, car c’est un propre à rien. Le petit regardait avec de grands yeux étonnés ces deux messieurs qu’il n’avait jamais vus. — Veux-tu venir avec nous, mon garçon ? lui demanda doucement [MASK].
+
+['posé', 'debout', 'la', 'dames', 'HO']	Atkins	— Oui, oui, parlez français ! crièrent les femmes. — Mesdames et messieurs, reprit docilement [MASK], je vous annonce une nouvelle qui, je n’en doute pas, fera plaisir à toutes les personnes auxquelles j’ai l’honneur de m’adresser en ce moment
+
+[',', 'il', 'Il', 'lui', '...']	Georges	[MASK] tendit la main sans répondre. Ses yeux brillaient comme s’ils eussent déjà vu ruisseler sur un tapis vert cet or destiné à nourrir sa chimère, la décevante martingale qui dévore les joueurs, comme aux temps mythologiques le sphinx dévorait les devineurs d’énigmes.
+
+['soi', 'de', 'ta', 'ta', 'ton']	Marcel	N’insiste pas, je t’en prie, ajouta le Canadien pour répondre à un geste de dénégation de [MASK]. Ma résolution est prise et rien ne m’en fera changer. — Je ne puis pas te laisser partir ainsi... courir seul à une rencontre dangereuse...
+
+['Nous', 'nous', 'Je', 'Vous', 'je']	Dominique	Nous les perdons toutes. Le mois passé, on en sauvait quatre sur cinq. Il y a des veines comme ça. [MASK] ne souffla mot. Il sentait un malaise indéfinissable. Cette façon dégagée de parler des pauvres mortes le choquait. La boîte à dominos le révoltait.
+
+['le', 'la', "l'", 'celui-ci', 'Pierre']	Chambras	— Eh bien, dit brusquement [MASK], vous les verrez, je vous le promets, mais je vous supplie de me quitter sur-le-champ, car je crois que je tiens une piste, et vous me gêneriez beaucoup pour la suivre.
+

@@ -1,0 +1,200 @@
+['celui-ci', 'robespierre', 'celle-ci', 'mirabeau', 'clemenceau']	Patience	Pour ma part, j’étais décidé, avant l’arrêt, à ne point me pourvoir auprès de cette chambre de cassation de l’ancienne jurisprudence ; mais l’action et le discours de [MASK] n’avaient pas moins agi sur mon esprit que sur celui des spectateurs.
+
+['dreyfus', 'robespierre', 'nuremberg', 'socrate', 'napoléon']	Calas	On compara mon procès à celui de [MASK], et cette comparaison n’eut pas plus tôt cours dans les conversations que mes juges, se voyant en butte à mille traits sanglants, éprouvèrent par eux-mêmes que la haine et la prévention sont de mauvais conseillers et des guides dangereux.
+
+['je', 're', 'celui-ci', 'valentine', 'marianne']	Marcasse	Je l’embrassai ; il fut surpris et touché de ma joie ; puis, me regardant de la tête aux pieds, il s’émerveillait du changement opéré dans ma personne, lorsque [MASK] parut sur le seuil de la porte.
+
+['horace', 'aristote', 'autrui', 'homère', 'alexandre']	Edmée	et, si l’immense désaccord qui se trouvait entre eux et le patriarche ne se faisait guère sentir, c’était grâce au respect qu’il inspirait à juste titre et à la tendresse qu’il avait pour sa fille. Je me jetai à plein collier, comme vous pouvez croire, dans les idées d’[MASK] ;
+
+['</s>', 'elle', '--je', '--', 'il']	Edmée	Profondément triste, mais aveuglément dévoué à la souffrance, je m’endormis soulagé, comme si j’eusse fait le sacrifice de ma vie et de mes espérances. [MASK] ne parut pas avoir trouvé ma lettre, car elle n’y répondit pas.
+
+[',', 'maintenant', 'et', '...', 'non']	Marcasse	– Mais le lit était défait, dit [MASK] en la regardant fixement. – Ah ! dame ! monsieur, répondit-elle, ça se peut ; je ne sais comment on l’a laissé la dernière fois qu’on y a couché ; je n’y ai pas fait attention en mettant les draps
+
+['tom', 'john', 'jacques', 'robert', 'le']	Edmée	Et pourrait-on savoir, monsieur le devin, reprit [MASK], dont la figure devint plus sérieuse, ce que signifient quelqu’un et un autre ? Je crois que vous êtes comme les antiques pythonisses : vous ne savez pas vous-même le sens de vos oracles.
+
+['il', 'on', 'antoine', 'alexandre', 'olivier']	Aubert	la cour sera par nous requise de délibérer sur votre refus de témoignage en joignant l’incident au fond. – Pour moi, dit le président, en attendant, et en vertu de mon pouvoir discrétionnaire, j’ordonne qu’[MASK] soit arrêté et conduit en prison.
+
+['</s>', "c'", "--c'", 'il', 'elle']	Edmée	aimez-vous le bon vin ? – Beaucoup plus que le latin, répondis-je. – Eh bien ! l’abbé, pour vous punir d’avoir fait le cuistre, reprit-il gaiement, vous en boirez avec nous. [MASK] est tout à fait hors de danger.
+
+['moi', 'elle', 'vous', 'lui', 'nous']	Edmée	! Quelle différence avec [MASK] ! Vous ne savez pas cela, vous ! Vous l’aimez parce qu’elle est belle comme la marguerite des prés, et moi je l’aime parce qu’elle est bonne comme la lune qui éclaire tout le monde.
+
+['la', 'fer', 'dieu', 'paris', 'travail']	miserere	Je ne sais ce qu’elle répondit ; elle tomba malade et mourut. Les médecins de campagne mirent encore en avant la colique de [MASK]. Mon grand-père était demeuré chez elle les deux derniers jours qu’elle passa en ce monde...
+
+['moines', 'domestiques', 'religieux', 'religieuses', 'chevaux']	Patience	Le seul événement de cette semaine fut l’installation de [MASK] dans une cabane voisine du château. Depuis que l’abbé Aubert avait trouvé auprès du chevalier une existence à l’abri des persécutions ecclésiastiques, il n’y avait plus pour lui de nécessité à voir secrètement son ami le cénobite.
+
+['seigneur', 'monsieur', 'jésus', 'moi', 'père']	Edmée	leurs craintes me faisaient injure et pitié. « Elle m’a promis, repris-je en souriant, de me regarder toujours comme son frère et son ami. Ne sont-ce pas là vos paroles, [MASK], et croyez-vous que cela se prouve avec de l’argent
+
+['elle', 'avoine', 'anjou', 'artagnan', 'orléans']	Edmée	Je fus à terre presque aussitôt qu’elle, et je repoussai vivement les chevaux. Celui d’[MASK], qui était fort doux, s’arrêta et se mit à brouter. Le mien s’emporta et disparut. Tout cela fut l’affaire d’un instant.
+
+['madame', 'jeanne', 'monsieur', 'mademoiselle', ',']	Edmée	Si ce monsieur est capable de soupçonner [MASK] et de lui faire outrage à la veille de ses noces, il me semble qu’il y a un moyen bien simple de raccommoder tout cela. – Et lequel, selon vous ? – C’est de le provoquer et de le tuer.
+
+['elle', 'il', '</s>', "c'", 'celui-ci']	Patience	Sa jument broutait l’herbe à quelques pas de là. [MASK] était debout auprès d’elle, les bras croisés sur sa poitrine, la face livide, et le cœur tellement gonflé qu’il lui fut impossible de répondre à l’abbé, qui l’interrogeait avec des sanglots et des cris.
+
+['elle', 'celle-ci', 'en', '"', 'il']	Edmée	»Après cette disposition importante, la cour suspendit pendant quelques instants la séance et, lorsqu’elle rentra, [MASK] fut ramenée en sa présence. Pâle et brisée, pouvant à peine se traîner jusqu’au fauteuil qui lui était réservé, elle montra cependant une grande force et une grande présence d’esprit.
+
+['il', 'elle', '"', 'puis', 'celui-ci']	Edmée	»J’avais fait quelques pas pour sortir ; je souffrais horriblement. [MASK] courut vers moi, me prit par le bras, et, me ramenant vers son père : « Ce que vous dites est cruel et plein d’ingratitude, me dit-elle.
+
+['dieu', 'jésus', 'jésus-christ', 'marie', 'notre-dame']	Jésus	; Dieu l’inspirerait, disait-il, et il comptait, à la prochaine fête de la Vierge, à l’heure auguste et sublime de la sainte communion, entendre la voix de [MASK] parler à son cœur et lui dicter la conduite qu’il aurait à tenir.
+
+['on', 'il', 'elle', 'ils', 'un']	Edmée	On m’assit sur l’unique chaise de la résidence, et le curé se mit en devoir d’examiner ma jambe, tandis qu’[MASK] racontait, jusqu’à certain point, notre aventure, et s’informait de la chasse et de son père.
+
+['</s>', '"', '_', '-', ')']	Edmée	; la beauté, pour moi, ç’avait été jusqu’alors la jeunesse et la santé, avec une sorte de hardiesse virile. [MASK], en amazone, s’était un peu montrée sous cet aspect la première fois, et je l’avais mieux comprise ;
+
+['il', 'homme', 'qui', 'garçon', 'père']	Blaireau	[MASK] m’avait suivi ; couché devant l’âtre, il me regardait de temps en temps d’un air mécontent, comme pour me demander raison d’un si méchant gîte et d’un si pauvre feu.Tout à coup, en jetant les yeux autour de moi, il me sembla que ma mémoire se réveillait.
+
+['...', '</s>', '"', 'jeanne', ')']	Edmée	Je sais bien qu’elle ferait volontiers le sacrifice d’une partie de sa dot pour se dispenser... »[MASK], qui était restée fort pâle et comme distraite jusque-là, me lança tout à coup un regard étincelant, et m’interrompit pour me dire avec assurance : «
+
+['dieu', 'marie', 'jacques', 'sophie', 'celui-ci']	Saint-Jean	si nous eussions été seuls, je me serais tiré d’affaire par une de ces brusques sorties que je savais m’imposer à moi-même quand j’étais trop honteux de ma timidité ; mais la présence de [MASK], qui nous servait, me condamnait au silence sur le point principal.
+
+['moi', 'cela', 'jamais', 'lui', 'nous']	Patience	– Pour s’instruire ? Jamais il n’y consentira ; et, quand il s’y prêterait, il ne le pourrait pas plus que [MASK]. Quand le corps est fait à la vie animale, l’esprit ne peut plus se plier aux règles de l’intelligence.
+
+['moi', 'marie', 'toi', 'louis', 'antoine']	Marcasse	Les gendarmes prirent congé de nous ; car le chevalier et le lieutenant général étaient assez bien escortés par leurs gens pour n’avoir à craindre aucune mauvaise rencontre. Un nouveau sujet de surprise pour moi fut de voir le chevalier donner de vives marques d’amitié à Patience et à [MASK].
+
+['aller', 'arriver', 'assister', 'allah', 'obéir']	Edmée	Elle me donna six enfants, dont quatre vivent encore et sont avantageusement et sagement établis. Je me flatte qu’ils achèveront d’effacer la mémoire déplorable de leurs ancêtres. J’ai vécu pour eux, par l’ordre d’[MASK] à son lit de mort.
+
+['de', ')', '.', ',', '"']	Edmée	[MASK]. – Non, de par tous les diables ! pas plus que je ne te livrerai, toi, le plus joli des oiseaux des bois, à ces méchants oiseaux de nuit qui te menacent.– Mais comment fuirons-nous ? dit-elle en écoutant avec terreur la fusillade.
+
+['monsieur', 'madame', 'moi', 'messieurs', 'oui']	Bernard	Oui, je comprends que vous ne puissiez soumettre votre vie tout entière à un animal de mon espèce... Mais je ne vous demandais pas cela, moi !... et je n’y puis penser sans frémir ! – Il faut que vous y pensiez cependant, [MASK] ;
+
+['tout', 'celui-ci', 'madame', 'celle-ci', 'lui']	Edmée	J’aurais dû me dire que, cette fois, ma lettre devait amener une explication décisive, ou être passée sous silence. Je soupçonnai l’abbé de l’avoir soustraite et jetée au feu, j’accusai [MASK] de mépris et de dureté ; néanmoins je me tus.
+
+['</s>', "j'", 'cela', 'il', 'je']	Edmée	L’abbé m’avait dit qu’avec une forte volonté on pouvait, à mon âge, en un mois, connaître parfaitement les règles de la langue. Au bout d’un mois, je m’exprimais avec facilité et j’écrivais purement. [MASK] avait une sorte de direction occulte sur mes études ;
+
+['non', 'mais', 'oui', '-', 'un']	Edmée	– Parce que je sais que vous le méritez. – Qui vous l’a dit ? l’abbé ? – Non pas. – [MASK] ? – Un peu. Et cependant elle n’est pas bien amoureuse de vous, au moins. Mais c’est votre faute.
+
+['elle', 'il', 'et', 'je', 'on']	Edmée	Je souffris longtemps d’atroces douleurs à la tête, mais je les surmontai avec stoïcisme ; [MASK] reprit le cours d’études qu’elle faisait pour moi indirectement durant les soirs d’hiver. J’étonnai de nouveau l’abbé par mon aptitude et la rapidité de mes triomphes.
+
+['eugénie', 'henriette', 'agnès', 'élisabeth', 'adèle']	Edmée	; l’autre, porté au désespoir, l’accusa des forfaits les plus horribles, de l’empoisonnement de ma mère et de celui de la mère d’[MASK], qui étaient mortes l’une et l’autre de violentes inflammations d’entrailles à des époques assez rapprochées.
+
+['il', 'elle', 'jeanne', '.', 'jean']	Edmée	Nous avions fait une lieue environ dans les bois, nous arrêtant à chaque embranchement de route pour appeler ; car [MASK], convaincue que son père ne rentrerait pas chez lui sans l’avoir retrouvée, suppliait ses compagnons de voyage de l’aider à le rejoindre ;
+
+['il', ',', 'lui', 'qui', ')']	Jean-Jacques	[MASK] en fut un exemple éclatant et magnifique, et vous savez quelles sympathies il éveilla chez les prêtres et chez les nobles, alors même qu’il les gourmandait avec tant de véhémence. Quels miracles n’opère pas la conviction, aidée d’une éloquence sublime !
+
+["jusqu'", 'toujours', 'presque', ',', 'arrivé']	Edmée	On ne pouvait, disait-on, se représenter le hasard comme un être de raison, armé d’un fusil, attendant [MASK] à point nommé à la tour Gazeau pour l’assassiner au moment où j’aurais le dos tourné pendant cinq minutes.
+
+[',', 'celui-ci', 'quiconque', 'celui', 'roger']	Laurent	° que [MASK] l’ayant rencontrée par les champs, l’avait amenée pour divertir la compagnie ; 3° qu’on lui avait fait confidence de mon état d’ivresse fanfaronne, et qu’on l’amenait pour mettre ma galanterie à l’épreuve, tandis qu’on me regarderait par le trou de la serrure.
+
+['chateaubriand', 'verlaine', 'lamartine', 'retour', 'paris']	Patience	Quand il essayait de ressaisir quelques-unes des expressions qui l’avaient charmé à l’audition, il arrivait à une abondance de métaphores et d’images qui tenait du délire. Cette initiation de [MASK] à la poésie marqua dans sa vie une époque de transformation ;
+
+['elle', 'elle-même', 'on', 'il', 'isabelle']	Edmée	Au bout de quelque temps, je m’aperçus qu’[MASK] ne dormait pas, et qu’elle causait à voix basse avec sa suivante ; je crus voir que celle-ci me regardait en dessous de temps en temps et comme à la dérobée.
+
+['maintenant', 'seigneur', 'ô', 'moi', 'voyez']	Edmée	Mais, ô ciel ! dans quel désordre sont mes idées ! Voyez, [MASK], à quel point mon esprit est malade, et prenez pitié de moi. Patientez, permettez-moi d’être triste, ne suspectez jamais mon dévouement ; je suis souvent fou, mais je vous chéris toujours.
+
+['il', 'elle', 'jésus', 'dieu', '</s>']	Edmée	! »En prononçant ce mot avec la rougeur au front et l’accent profond de l’âme la plus passionnée et la plus orgueilleusement concentrée qui ait jamais existé, [MASK] se rassit et couvrit son visage de ses deux mains.
+
+['il', 'on', 'elle', '"', 'qui']	Marcasse	[MASK] m’aimait quand même ; mais je n’avais pour garant de mon innocence que moi seul au monde.« Si vous retournez au château, vous allez jurer ici de ne pas rentrer dans la chambre de votre cousine ou de votre oncle sans l’autorisation de l’abbé !
+
+['elle', 't-elle', '-t-elle', 'jeanne', 'celle-ci']	Edmée	Que sait-on ? » répondit [MASK] du même ton ; puis elle se leva en ajoutant : « J’ai trop mal à la tête pour rester là. Donnez-moi le bras pour remonter dans ma chambre. »Elle sortit appuyée sur lui ; je restai stupéfait.
+
+['"', 'toujours', 'm', 'ici', 'partout']	Patience	car il existe, dit-on, une liaison d’amitié entre vous et ce paysan instruit qu’on appelle [MASK]. »L’abbé hésita et demanda si les lois de la conscience n’étaient pas ici en contradiction avec les lois de la procédure ;
+
+['lui-même', 'lors', 'céline', 'thérèse', 'celui-ci']	Edmée	un peu, comme si dans son invincible fierté elle eût regretté la jalouse possession de son secret. Ce fut l’abbé qui se chargea de me faire sa confession et de m’assurer que, dans ce temps, il avait bien souvent grondé [MASK] de son penchant pour l’enfant sauvage.
+
+['seigneur', 'vous', 'monsieur', 'chevalier', 'moi']	Edmée	« Quelle promesse lui avez-vous donc faite, [MASK] ? » dit le chevalier en se tournant vers elle avec candeur. En même temps, le curé me serra le bras à la dérobée, et je compris que le confesseur de ma cousine était en possession de notre secret.
+
+['vous', 'cela', 'moi', 'lire', 'lui']	Patience	« Je ne sais guère mieux lire que [MASK], ajoutai-je, et je voudrais bien que vous eussiez autant de plaisir dans ma société que dans la sienne ; mais il n’y paraît guère, cousine, car, depuis que je suis ici... »
+
+['on', 'elle', 'il', 'tu', 'je']	Edmée	Qu’ai-je fait pour être épargné, moi qui payais vos bienfaits de la ruine de votre honneur ? Non, non, je le sens, [MASK] ne doit pas m’épouser ; ce serait accepter la honte de l’injure que j’ai attirée sur elle.
+
+['elle', 'eux', 'hôpital', 'adèle', 'ici']	Edmée	Le chevalier haussa les épaules ; l’abbé me conjura de prendre sur moi de le satisfaire ; c’était une véritable contrariété pour mon bon oncle que ma résistance. Je me soumis, et, résolu à me vaincre, je pris congé d’[MASK] pour deux jours.
+
+['</s>', 'une', '--', 'figure', 'si']	Edmée	Un instant, j’espérai que j’allais mourir. [MASK] expirante à côté de moi, et en face de moi un juge saisi d’une telle conviction, que, de doux et timide qu’il était par nature, il se faisait rude et implacable !
+
+['</s>', 'il', '-', 'me', '_']	Arthur	Tout à coup elle fondit en larmes, jeta ses bras autour de mon cou et perdit connaissance. [MASK] la fit emporter aussitôt ; il eut de la peine à me faire retourner à ma place. Je ne savais plus où j’étais ni de quoi il s’agissait ;
+
+['paris', 'londres', 'rome', 'florence', 'marseille']	Edmée	Elles étaient comme gravées dans cette partie de la mémoire qui garde le son des mots, alors même que sommeille celle qui sert à en pénétrer le sens. Un instant encore je fus incertain ; je me demandai si mon fusil était parti entre mes mains au moment où je quittais [MASK].
+
+['nous', 'lui', 'napoléon', 'celui-ci', 'carthage']	Pleumartin	Mais, au moment où [MASK], près de tomber au pouvoir de ses ennemis, nous avait donné sa parole de nous accueillir comme amis et alliés si nous marchions à son secours, nous avions appris sa défaite et sa fin tragique. Nous étions donc à toute heure sur nos gardes.
+
+['moi', 'personne', 'jamais', 'monsieur', 'dit-il']	Bernard	Et, quand même je n’aurais jamais pour vous, [MASK], une affection aussi vive que la vôtre, celle que je vous ai témoignée jusqu’ici est-elle donc si peu de chose que vous la méprisiez, et que vous y renonciez par dépit de ne pas m’inspirer précisément celle que vous croyez devoir exiger
+
+['de', '2', '1', 'est', 'ci-dessous']	Héloïse	J’ai lu la Nouvelle [MASK], et j’ai beaucoup pleuré. Mais, par la raison que je suis une Mauprat et que j’ai un inflexible orgueil, je ne souffrirai jamais la tyrannie de l’homme, pas plus la violence d’un amant que le soufflet d’un mari
+
+['anna', 'antoine', 'albert', 'harry', 'auguste']	Edmée	? » m’écriai-je. Rien ne me répondit. Mon front se couvrit d’une sueur froide et mes genoux tremblèrent. Honteux d’une faiblesse si étrange, je m’élançai vers la cheminée en répétant avec angoisse le nom d’[MASK]. «
+
+['(', ',', 'et', 'à', '"']	Bernard	Votre oncle Louis vient d’être tué. Venez, pour Dieu, venez, [MASK] ! – Que le diable vous emporte tous ! m’écriai-je, et soyez tué vous-même, si je crois un mot de tout cela ; je ne suis pas si sot que vous pensez
+
+['amour', 'moi', 'elle', 'moi-même', 'toi']	Edmée	Il ne me cacha pas que son plus grand désir, avant de s’endormir du sommeil éternel, était de me voir devenir l’époux d’[MASK] ; et, lorsque je lui répondis que c’était l’unique pensée de ma vie, l’unique vœu de mon âme
+
+['il', 'elle', 'maurice', 'marguerite', 'alice']	Edmée	? Voilà encore où je ne vous comprends plus.– Oh ! pour cela, je le crois bien, car je ne me comprends pas moi-même, dit [MASK] avec une expression singulière. – Ma chère enfant, il faut que vous me parliez à cœur ouvert.
+
+['</s>', 'il', '--il', 'elle', '_']	Arthur	Le jour fixé arriva. J’étais dévoré d’inquiétude. [MASK] m’avait écrit d’espérer, dans un style aussi laconique que Patience. Mon avocat n’avait pu saisir aucune bonne preuve à faire valoir. Je voyais bien qu’il commençait à me croire coupable.
+
+['le', 'son', 'julien', 'charles', 'henri']	Edmée	J’allais retourner sur mes pas et rejoindre [MASK], au risque de l’offenser encore, lorsqu’il me sembla entendre un gémissement humain du côté de la tour Gazeau. Je m’élançai et puis je tombai sur mes genoux, comme foudroyé par mon émotion.
+
+['non', 'oui', 'mais', 'amen', 'bonsoir']	Edmée	– Non, [MASK], non, lui répondis-je le cœur serré et les yeux pleins de larmes, en portant sa main à mes lèvres ; je sens que vous avez fait pour moi plus que je ne méritais, je sens que je voudrais en vain m’éloigner de votre présence
+
+['</s>', 'il', 'on', 'elle', '--il']	Marcasse	Je ne sais ce que j’éprouvai dans la nuit. [MASK] m’a dit que j’avais été en proie à un délire affreux. Il prit sur lui d’envoyer chercher au village le plus voisin un barbier qui me saigna dès le matin, et quelques instants après je repris ma raison.
+
+[',', 'encore', '.', ')', ';']	Diogène	point. Comme s’il eût aimé à se venger, par le dédain, de cette défaveur, ou à s’en consoler par la sagesse, il se plaisait, comme autrefois [MASK], à dénigrer les vains plaisirs d’autrui ;
+
+['lui', 'elle', 're', 'la', 'en']	Edmée	Comment [MASK] souffrait-elle ses assiduités si elle avait réellement l’intention d’en épouser un autre que lui ? Peut-être n’osait-elle pas l’éloigner ; peut-être était-ce à moi de le faire. Je ne savais pas les usages du monde où j’entrais.
+
+['de', 'du', 'ou', 'pour', 'os']	Edmée	C’est, dites-vous, la lutte des grandes forces, et vous croyez saisir dans les bruits de l’air les imprécations de l’aquilon et les cris douloureux des antiques rameaux. Lequel souffre davantage, [MASK], ou de l’arbre qui résiste ou du vent qui s’épuise à l’attaque
+
+['mrs', 'mr', 'm', 'st', 'dr']	Marcasse	– Elle n’est pas morte ! » s’écria [MASK]. Et il me fit des serments qui me convainquirent ; car je savais qu’il eût fait de vains efforts pour mentir ; tout son être se fût mis en révolte contre ses charitables intentions.
+
+['elle', 'annette', 'agnès', 'angélique', 'eugénie']	Edmée	L’abbé était si consterné qu’il ne songea point à m’en empêcher. Je pris la main d’[MASK], toujours insensible et froide. Je la baisai une dernière fois, et, sans dire un seul mot aux autres personnes, j’allai me livrer à la maréchaussée.
+
+[',', 'il', 'on', 'elle', 'je']	Patience	Ayant plusieurs fois ouï dire à son ami qu’il fallait cultiver ces doctrines avec prudence (précepte que, d’ailleurs [MASK] n’observait guère pour son propre compte), l’hidalgo, puissamment aidé par son habitude et son penchant, ne parlait jamais de sa philosophie ;
+
+[',', '...', '"', ';', ':']	Saint-Jean	Mais, lorsqu’il ouvrit les yeux, son esprit semblait lutter contre les impressions d’un rêve pénible. « Est-il parti, est-il parti, ce misérable fantôme ? s’écria-t-il à plusieurs reprises. Holà ! [MASK] ! mes pistolets !... Mes gens !
+
+['nous', 'oui', 'moi', 'hui', 'frères']	Bernard	[MASK], nous sommes victimes tous deux d’une famille atroce. Ce n’est pas le moment de récriminer contre ceux qui paraissent à cette heure devant le redoutable tribunal de Dieu ; mais ils m’ont fait un mal irréparable, ils m’ont brisé le cœur...
+
+['pasteur', 'hamlet', 'joseph', 'faust', 'jean']	Patience	Avant de vous mettre en scène mon personnage de [MASK], et tout en vous demandant pardon de la longueur trop complaisante de cette biographie préliminaire, je dois encore vous dire que, dans l’espace de ces vingt années, l’esprit du pasteur avait suivi une nouvelle direction.
+
+['cela', 'encore', 'donc', 'tout', 'toujours']	Edmée	Je maudis le ciel de ne l’avoir pas donnée à nos ennemis. Je pressai [MASK] sur ma poitrine, et nous restâmes immobiles dans les bras l’un de l’autre, jusqu’à ce qu’un nouveau coup de fusil annonçât que le combat recommençait.
+
+['-il', 'robert', 'paul', '-t-il', 'm']	Marcasse	? S’il avait, malgré la nuit obscure et le silence que nous gardions, vent de notre présence, se risquerait-il dans la campagne tant que nous serions postés comme nous l’étions sur tous les points ? « Ce n’est pas probable, dit [MASK].
+
+['il', "c'", 'dieu', 'on', 'celui-là']	Saint-Jean	mais [MASK] est sourd et il ne vint pas. Il nous fallut donc entendre, dans une angoisse inexprimable, les discours étranges de cet homme qui se dit trappiste, et qui prétend qu’il vient se livrer au glaive séculier en expiation de ses forfaits.
+
+['maurice', ',', 'jeanne', 'hélène', 'geneviève']	Edmée	Et sans doute elle pensa au jour funeste où elle avait été emportée loin de la chasse et conduite à la Roche-Mauprat ; car j’y pensai aussi, et les images qui s’offrirent à mon cerveau me causèrent une sorte de vertige. Je suivis machinalement [MASK] vers la rivière.
+
+['elle', 'il', 'eux', 'abraham', 'elle-même']	Edmée	j’arrivais pour assister aux derniers moments de mon grand-oncle. Il recouvra, vers sa fin, non la mémoire des événements, mais celle du cœur. Il me reconnut, me pressa sur sa poitrine, me bénit en même temps qu’[MASK] et mit ma main dans celle de sa fille.
+
+['dieu', 'la', 'tous', 'son', 'ses']	Jean	En outre, elle me soustrayait à la tyrannie immédiate de [MASK]. Mais, quand mon grand-père fut mort, et notre bande dégradée par un autre genre d’exploits, je retombai sous cette odieuse domination. Je n’étais nullement propre au mensonge et à la fraude.
+
+['par', 'et', 'de', ',', 'les']	Edmée	dit-elle en retirant son bras. – C’est de colère et d’autre chose encore, répondis-je. – Mais quoi encore ? dit [MASK]. – Je n’en sais rien ; peut-être de chagrin, comme vous avez dit. Le fait est que je souffre
+
+['celui-ci', 'chacun', 'philippe', 'louis', 'césar']	Jean	Il ne paraissait pas probable que [MASK] eût eu le temps de prévenir son frère. Le donjon était entouré de cavaliers, toutes les issues étaient bien gardées. La nuit était sombre, et nous avions fait une invasion qui avait bouleversé d’effroi tous les habitants de la métairie.
+
+['robert', 'tom', 'paul', 'jean', 'celui-ci']	Marcasse	mais il avertit à sa manière en faisant entendre une sorte de toux sèche, qui était son plus grand signe de colère et d’inquiétude... « Quelque chose là-dessous », dit [MASK]. Et il avança fort courageusement dans les ténèbres en faisant signe à l’amazone de ne pas sortir.
+
+['elle', 'il', "j'", 'celle-ci', 'madeleine']	Edmée	J’étais appuyé contre le poêle éteint, à la lueur mourante d’une lampe épuisée ; [MASK] entra sans me voir, prit quelques cerises dans le bahut, et s’approcha lentement du poêle ; elle était pâle et absorbée. En me voyant, elle jeta un cri et laissa tomber ses cerises.
+
+['</s>', 'et', '"', '-', 'je']	Patience	« Petit, dit-il à mon compagnon, va-t’en chez toi, et ne crains rien. [MASK] ne se fâche guère contre ses pareils, et il pardonne à ses frères, parce que ses frères sont des ignorants comme lui, et ne savent pas ce qu’ils font
+
+["j'", 'il', 'elle', "c'", 'je']	Edmée	Toute cette tendresse dont [MASK] était l’objet, ces affections de famille dont je n’avais pas l’idée, ces cordiales et douces relations entre des plébéiens respectueux et des patriciens bienveillants, tout ce que je voyais et entendais ressemblait à un rêve.
+
+['le', 'ma', 'mon', 'la', "l'"]	Edmée	Mais, quand j’ouvris les yeux, je m’aperçus du rapt, et je recommençai à divaguer. Aussitôt [MASK], qui était dans la chambre, accourut à moi et me passa l’anneau au doigt en adressant quelques reproches à l’abbé.
+
+['lui', 'un', 'moi', 'homme', 'toi']	Bernard	[MASK] seul me semble aussi fier, aussi colère, aussi hardi que moi et aussi faible que moi ; car il pleure comme un enfant quand je l’irrite, et voilà que je pleure aussi en songeant à lui. »
+
+['et', 'mais', 'plus', 'que', 'ou']	Edmée	– Je crois que vous n’êtes pas craintive, [MASK], parce que vous avez toujours la ressource d’éviter les gens ou de les attraper avec de belles paroles. Ah ! on m’avait bien dit que toutes les femmes sont menteuses et qu’il n’en faut aimer
+
+['indulgence', 'hommes', 'humanité', 'ici', 'âmes']	Edmée	et il me fallait tous les reproches et toutes les remontrances d’[MASK] pour ne pas me livrer à un profond mépris pour cette courtisanerie des regards, de la toilette et des agaceries, qui s’appelait dans le monde la coquetterie permise, le désir charmant de plaire, l’amabilité, la grâce.
+
+['jésus-christ', 'jésus', 'dieu', 'socrate', 'moïse']	Patience	il en avait soixante lorsque je le vis pour la première fois, et il jouissait d’une force physique extraordinaire. Il avait bien quelques habitudes de promenade chaque année ; mais, à mesure que je vous dirai ma vie, j’entrerai dans le détail de la vie cénobitique de [MASK].
+
+["c'", 'il', 'elle', 'tout', 'on']	Blaireau	Hum ! dit le sergent, quand je suis entré, [MASK] était tout en feu. Il venait à vous, flairait, pleurait à sa manière, allait du côté du lit, grattait le mur, venait à moi, allait à vous. Singulier, cela !
+
+['il', 'elle', 'lui', 'qui', 'chacun']	Patience	Elle le croit bon, elle le croit véritable : elle se trompe et il la trompe, et il trompe tout le monde. Je le sais, moi, c’est un homme qui n’a pas de cela (et [MASK] posait la main sur son cœur).
+
+['cela', 'moi-même', 'moi', 'que', 'est']	Edmée	Une fenêtre en ogive, garnie de ses meneaux de pierre surmontés d’un trèfle, était située immédiatement à la hauteur de ma tête. « Qui donc est là ? » demanda une figure pâle qu’éclairait le rayon oblique de la lune à son lever. En reconnaissant [MASK], je voulus m’éloigner
+
+['autant', 'encore', 'hôpital', 'étude', 'hôpitaux']	Edmée	Jamais personne ne recouvra la santé avec moins de plaisir que moi ; car chaque jour rendait les visites d’[MASK] plus courtes, et, quand je pus sortir de ma chambre, je n’eus plus que quelques heures par jour à passer près d’elle, comme avant ma maladie.
+
+['amour', 'alexandre', 'autrefois', 'autrui', 'hippolyte']	Edmée	car je savais qu’il eût fait de vains efforts pour mentir ; tout son être se fût mis en révolte contre ses charitables intentions. Quant aux paroles d’[MASK], il se refusa franchement à me les rapporter, et je compris par là qu’elles étaient accablantes.
+
+['henriette', 'anna', 'eugénie', 'annette', 'ève']	Edmée	il est certain qu’elle s’assit auprès de la chaise longue, de manière à présenter à mon œil désappointé son dos sec et long, à la place du beau visage d’[MASK] ; puis elle tira son ouvrage de sa poche et se mit à tricoter tranquillement.
+
+['jésus', 'judas', 'jacques', 'robespierre', 'luther']	Patience	Et puis les paroles de [MASK] avaient peut-être fait naître en moi, à mon insu, un sentiment de honte salutaire. Peut-être ses justes malédictions contre les nobles m’avaient-elles fait entrevoir quelque idée de justice.
+
+['elle', ',', 'mère', 'vie', 'fille']	Edmée	[MASK] ne fut point aveugle, mais elle resta impénétrable ; son œil noir et profond, attaché sur moi comme sur son père avec la sollicitude d’une âme exclusive, se refroidissait quelquefois tout à coup au moment où la violence de ma passion était près d’éclater.
+
+['ailleurs', 'attentivement', 'derrière', 'par-dessus', 'moi-même']	Patience	Tant de hardiesse et de confiance me surprit et me plut en même temps. Les droits qu’elle s’arrogeait sur moi étaient comme une sanction de ceux que je prétendais avoir sur elle. « C’est juste », répondis-je en m’asseyant. Et j’ajoutai en regardant [MASK] : «
+
+['avant', 'hector', 'or', 'élan', 'olivier']	Edmée	; je pensai qu’un tirailleur maladroit avait pris, à travers les branches, le cheval d’[MASK] pour une bête fauve, et je ne songeai pas à accuser qui que ce fût d’assassinat volontaire ; seulement, je compris que j’étais accusé moi-même.
+

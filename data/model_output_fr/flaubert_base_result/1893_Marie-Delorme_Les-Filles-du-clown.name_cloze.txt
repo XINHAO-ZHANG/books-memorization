@@ -1,0 +1,200 @@
+['madame', 'monsieur', 'dit-elle', 'mademoiselle', 'donc']	Victoire	I — Ainsi, [MASK], vous êtes bien décidée à faire cette folie ? — Oui, madame, sûrement, c’est avec regret, madame était si bonne pour moi !... Et depuis si longtemps que je la sers !...
+
+['pierre', 'marbre', 'gazon', 'cheval', 'rose']	Rita	Dans cinq minutes je serai de retour. Attends-moi là. Viens, Turc ! Le chien qui devenait paresseux en vieillissant se fit un peu prier pour quitter son lit de gazon aux pieds de [MASK], il finit par se décider cependant à accompagner sa jeune maîtresse.
+
+['il', 'elle', 'je', 'on', 'cela']	Rita	Que vous est-il donc arrivé depuis ce terrible incendie et comment êtes-vous là toutes deux, toutes seules ? Où est votre mère, où est cette vieille Italienne que vous aimiez tant ? En quelques mots, [MASK] le mit au courant de sa triste histoire et aussi de ses projets.
+
+['elle', 'il', ',', '</s>', 'puis']	Rita	sais-tu ? [MASK] souleva lentement ses paupières frangées de longs cils, regarda sa petite sœur d’un air à demi conscient, puis s’étira avec un doux gémissement. Enfin, s’asseyant à son tour sur son lit d’herbes sèches, elle se réveilla complètement.
+
+['celle-ci', 'celui-ci', 'jacques', 'm', 'hercule']	Rita	Sa mère, inscrite sur les programmes du théâtre sous le nom de la belle Léocadie, était la femme de l’hercule, et la sœur de la première Mme Jos Viguier ; elle était par conséquent tante de [MASK].
+
+['ailleurs', 'souvent', 'ici', 'précédemment', 'montaigne']	Jos	Nous nous marierons à Saint-Vincent-de-Paul, sans embarras, car nous sommes des gens raisonnables, et l’argent, comme dit [MASK], coûte trop de mal à gagner pour qu’on le jette par les fenêtres. J’espère que madame voudra bien assister à la bénédiction nuptiale ?
+
+['lady', 'anna', 'maria', 'alice', 'jeanne']	Sally	Elle approcha de ses lèvres un cornet acoustique, et, au bout d’un temps invraisemblablement court, apparut [MASK], une Écossaise aux cheveux d’un blond ardent, à la figure couverte de taches de rousseur, mais parfaitement correcte avec ses manches et son tablier blancs, raides d’empois.
+
+['il', 'elle', 'chacun', 'et', 'on']	Victoire	? — Oui, madame, sûrement, c’est avec regret, madame était si bonne pour moi !... Et depuis si longtemps que je la sers !... Ici, [MASK] porta son mouchoir à ses yeux. — Si encore c’était pour vous bien établir !
+
+['on', 'chacun', 'tous', 'il', '...']	Jos	les bois de la scène, du côté du magasin où le feu maintenant faisait rage, venaient de céder, et la toiture s’effondra ensevelissant sous ses débris le malheureux Italien... ... Un grand cri d’horreur s’éleva, et [MASK] se précipita sur les débris brûlants.
+
+[',', 'et', ':', 'cela', ';']	Dorothée	- — Je ne suis pas allée aux champs, aujourd’ hui, dit-elle, je vous ai gardées, mes ptioutes, avez-vous bien dormi ? — Oh ! oui ! madame, répondit [MASK] avec un accent partant du cœur, et je ne suis plus fatiguée du tout
+
+['il', "j'", 'on', 'ii', 'lui']	John	J’ai trente-huit ans, une bonne santé, des habitudes de vie active ; [MASK] en a quarante-cinq, il est fort comme un chêne, nous avons les mêmes goûts, les mêmes idées, il m’a attendue fidèlement ; le moment est venu de nous unir.
+
+['marguerite', 'marie', 'clotilde', 'juliette', 'elle']	Rita	Tu verras comme je te rendrai heureuse ! ajouta-t-il en montrant le blanc de ses yeux et en roucoulant comme dans ses plus sentimentales romances. Mais [MASK], blasée sans doute sur les inflexions tendres de son organe fêlé, ne parut pas s’émouvoir d’une si charmante déclaration.
+
+['et', ',', 'ou', 'pour', ':']	Dorothée	— Bien ! faites-moi le plaisir alors de déjeuner avec moi. Il y a là du pâté de lièvre qui a une mine ! et un parfum ! aimez-vous le pâté de lièvre ? — Beaucoup, dit [MASK]. — Tant mieux ! Hé, la fille
+
+['travail', 'service', 'fonction', 'stage', 'matière']	Rita	elle entra dans la cuisine. Un groupe d’ouvriers piémontais, attablés autour d’un bloc de polenta 34 qu’ils attaquaient tous à la fois avec leurs mains noires, soupaient bruyamment. Le tapage redoubla à l’entrée de [MASK] et à sa demande : « Où est l’hôtesse
+
+['il', 'elle', 'qui', 'on', 'et']	Rita	Pour le coup, [MASK] était tout à fait en colère. — Je vous prie de m’épargner vos compliments, dit-elle avec beaucoup de dignité. Je désire entrer dans cette auberge. Nous sommes lasses, et ma petite sœur vient d’être malade des fièvres.
+
+[',', 'les', 'et', 'le', 'à']	Turc	Habitué à la vie en forêt, à l’absence de toute contrainte, aux longues courses dans la montagne, les heures passées dans le petit enclos lui paraissaient des siècles. Il avait beau fumer sa pipe, agacer [MASK], regarder les bateaux, tout cela ne durait qu’un moment et ne remplissait pas son esprit
+
+['jacques', 'elle', 'jean', 'paul', 'celui-ci']	Dorothée	— Je ne sais pas ; je chercherai de l’ouvrage, car je ne veux plus être saltimbanque, on vit avec du trop vilain monde. — Ni moi non plus, dit [MASK] en secouant sa petite tête d’un air résolu.
+
+['la', 'le', 'une', 'cette', 'sa']	Rita	— J’en ai vu bien d’autres que toi, mon drôle ! Ouah ! Ouah ! — Ouah ! — et il le contrefaisait en riant. — Monsieur, s’il vous plaît, laissez mon chien tranquille ! dit [MASK] mécontente. Il ne fait rien de mal ;
+
+['elle', '</s>', 'il', 'celle-ci', 'chacun']	Rita	L’un d’eux essaya de la retenir, l’autre lui barra le passage et un troisième voulut lui enlever son bâton. [MASK] se défendait à grand’peine et commençait à avoir peur pour elle et pour sa sœur... — Voulez-vous bien finir, tas de bandits !
+
+['retour', 'ceux-là', 'passage', 'garde', 'sortie']	Tamié	! Est-ce que tu crois que je vais vous garder là tout le temps que ta petite sera malade ? Je suis de [MASK], et quand la journée a été rude je ne rentre pas chez nous, je couche ici.
+
+['elle', 'il', 'delacroix', 'blanche', 'on']	Rita	Avec une docilité stupéfiante les deux hommes quittèrent la place et rentrèrent, l’un dans sa roulotte, l’autre dans le théâtre. IX Du haut de son observatoire, [MASK] avait surveillé leur départ et c’est avec un indicible soulagement qu’elle les vit disparaître.
+
+['elle', 'il', 'celle-ci', 'elle-même', 'on']	Jos	elle aimait à enseigner et s’y prenait à merveille. Son élève était, du reste, fort ignorante ; [MASK] avait tout son temps pris par son théâtre, ses répétitions, ses exercices, l’entretien de son matériel et ne pouvait s’occuper de l’enfant d’une manière suivie.
+
+['...', 'il', 'qui', 'etc', 'et']	Rita	... — Chut ! chut ! pas d’extravagances ! Ce n’est sûrement pas la roulotte ; il n’y a pas de bruit de roues. — Cachons-nous quelque part : oh ! cachons-nous ! “Viens, [MASK]. — Où veux-tu nous cacher
+
+['oui', 'allons', 'monsieur', 'non', 'maître']	Josette	— [MASK], dit la maîtresse, vous allez monter là-haut avec ces deux jeunes filles, vous les conduirez à la chambre jaune, vous ferez une flambée de sarment, vous bassinerez le lit et vous aiderez à y coucher cette petite.
+
+['on', '</s>', 'il', 'chacun', 'elle']	Jos	On éteint le gaz, on étend une sorte de housse grise sur les fauteuils des premières ; on range les accessoires dans un coin du théâtre. [MASK] fait sa ronde pour s’assurer que personne ne se cache dans quelque- recoin et que tout est bien clos.
+
+['maurice', 'georges', 'julien', 'henri', 'robert']	Jos	— C’est bien par là qu’il faudra commencer, dit [MASK] ; mais la police est toujours longue à ébranler !... avant qu’elle soit arrivée, les Bohémiens, qui ont le plus grand intérêt à ce qu’on ne trouve pas chez eux l’enfant volée, la feront disparaître.
+
+['gravement', 'faiblement', 'marguerite', 'jean', 'alors']	Jos	puis, quand on lui eut promis formellement d’aller porter de la soupe à sa grand’mère, il acheva la portion restée dans son bol avec un empressement disant bien haut la grandeur du sacrifice qu’il avait voulu faire à l’amour filial. — As-tu des parents ? demanda [MASK].
+
+['ma', 'mon', 'maman', 'madame', 'la']	Jos	— Il me faut bien cela pour travailler à mes affaires, à celles de [MASK], — et à la robe de la petite, ajouta-t-elle avec un sourire radieux, éclairant sa bonne figure toute simple, sans beauté, mais non sans charme.
+
+[',', 'et', 'coup', 'qui', 'elle']	Rita	[MASK] rougit très fort. — Nous avons nos petites provisions, dit-elle, et nous ne voulons pas faire de dépenses. — Qu’est-ce qui vous parle de dépenses ? C’est moi qui régale. — Je vous remercie de vos bonnes intentions, mais...
+
+['</s>', 'il', 'celui-ci', 'elle', 'chacun']	Turc	Il poussa la porte à claire-voie. Le bruit d’une sonnette fêlée qui y était fixée, éveilla le chien de garde qui aboya bruyamment. [MASK] ne manqua pas une si belle occasion de faire valoir ses poumons et riposta avec vigueur.
+
+['jeanne', 'madeleine', 'marguerite', 'catherine', 'marie']	Rita	— Je vous remercie, monsieur, dit [MASK] un peu tremblante — je vous remercie beaucoup ! — Et ses beaux yeux jetèrent au garde un regard plein de reconnaissance : — ne pensant qu’au service rendu, elle avait oublié la semonce qui l’avait accompagné.
+
+['il', 'elle', 'chacun', 'on', 'chacune']	Rita	Les sous y pleuvent et si la recette s’évaluait par le nombre des pièces reçues, elle serait superbe. La quête finie, [MASK] l’apporte à sa sœur et, sur un vieux banc de pierre, elles s’en vont compter leur trésor. — Que de sous !
+
+['il', 'dieu', 'lui', 'qui', 'celui-là']	Achille	— Tu es une rude entêtée, dit-il avec une bordée de gros mots, mais [MASK] veut que je te cède et tu sais bien qu’il a de l’amitié pour toi, ajouta-t-il avec un gros rire qu’il voulait rendre malin.
+
+['la', 'travail', '2', '5', '1']	Turc	Elles étaient tout près de moi et j’ai vu ce qu’elles mettaient dans la corbeille de [MASK]. Seulement j’avais cru que c’était de la monnaie suisse. — Mais qui, alors ?... — Veux-tu que je te dise ce que je pense
+
+['!', 'oui', 'oh', '</s>', 'ah']	darling	Cette conversation se renouvelait très souvent et ravissait l’excellente miss, qui finissait toujours par dire : — Oh ! [MASK], vous avez bien raison ! Voyez comme je suis contente d’être restée fille !... malgré le chagrin que cela a causé à mon cousin Fred, ajoutait-elle quelquefois d’un ton de mystère.
+
+['elle', 'celle-ci', 'marie', 'la', 'lui']	Rita	La plus jeune aurait même bien voulu s’arrêter pour de bon, mais [MASK], craignant le froid et l’humidité de la nuit, s’y refusa absolument. Avec un gros soupir, la petite fille se résigna donc à marcher encore.
+
+['et', ',', 'ce', 'il', 'que']	Rita	Sous quel abri grossier, sur quel oreiller de broussailles ou de paille sèche allait reposer ce soir cette petite tête échevelée ?..... [MASK] pleurait bien amèrement l’avant-veille quand il était entré dans la petite salle... et de quel airelle lui avait demandé une place, — même de servante
+
+['quiconque', 'personne', 'autrui', 'paris', 'tout']	Dorothée	— Pourquoi ça ? — Parce que nos caractères ne s’entendraient pas. — Et puis tu me trouves trop pauvre, dis-le tout de suite. — Ce n’est pas cela — quoique je ne tienne pas non plus à mettre [MASK] dans la misère.
+
+['jeanne', 'marie', 'madeleine', 'marthe', 'alice']	Léocadie	On comptait sur une séance de jour le lendemain, pour gagner les frais d’éclairage de la soirée ; tout le monde chômait donc ; [MASK], exténuée par un grand lessivage, s’était couchée de bonne heure et dormait à poings fermés.
+
+['</s>', '"', ')', '_', '(']	Cadèche	-ci était hors d’elle-même. [MASK], une belle jeune oie d’une intelligence remarquable, qu’elle dressait depuis un mois, avait disparu, et elle la cherchait vainement pour l’enfermer dans la cage à claire-voie qui devait lui servir de prison pendant la route.
+
+['(', 'annuler', 'il', 'elle', ':']	Dorothée	elle avait cru tout prévoir : le danger d’être poursuivie et rattrapée par son oncle, celui des mauvaises rencontres et des mauvais gîtes, l’excès de la fatigue, le froid, la faim, les accidents... elle n’avait jamais pensé qu’elle ou [MASK] pouvait tomber malade
+
+['en', 'la', "l'", 'une', '(']	Rita	! Voyez comme je suis contente d’être restée fille !... malgré le chagrin que cela a causé à mon cousin Fred, ajoutait-elle quelquefois d’un ton de mystère. [MASK] était, des quatre, celle qui avait le moins changé. Elle était devenue plus robuste
+
+['le', 'la', 'sa', 'ses', 'son']	Dorothée	La fraîcheur du matin avait réveillé [MASK], et au sortir de cette douloureuse nuit, plus semblable à un affreux cauchemar qu’à des heures vraiment vécues, elle se reprenait à espérer, à désirer vivre, à se réjouir presque !
+
+['qui', 'assise', 'elle', 'et', 'debout']	Rita	Couverte de sa mante, [MASK], près du petit comptoir, attendait que l’hôtesse eût réglé son compte. — Ce ne sera pas long ni difficile, dit celle-ci d’un ton jovial : vingt sous pour le souper, vingt sous pour le coucher, dix sous pour la soupe de ce matin.
+
+['jeanne', 'marguerite', 'jacques', 'catherine', 'celui-ci']	Rita	Est-ce que tu ne l’as pas dans ta poche ? — Non, dit [MASK] d’une voix étranglée par l’émotion. — Tu l’as peut-être laissé dans la chambre ? Elles remontèrent toutes deux, défirent le lit, cherchèrent partout... Rien !
+
+['vue', 'vous', 'bord', 'moi', 'cheval']	Rita	— Voulez-vous bien finir, tas de bandits ! dit une voix sonore et impérieuse. Gare à vous si je m’en mêle ! — Et vous, dit brusquement le garde à [MASK], qu’est-ce que vous allez faire là dedans ?
+
+['on', "c'", 'il', 'elle', 'qui']	Rita	Les yeux brillant d’une sorte de fièvre, tremblant d’une agitation qu’il avait peine à dominer, et pourtant, assez maître de lui pour parler à voix basse, il dit à sa grand’mère : — [MASK] est dans le camp ! — Où ?
+
+['hygiène', '</s>', 'enfants', 'enfans', 'elle']	Achille	Sur l’estrade, les soirs de représentation, la musique composée d’une grosse caisse, d’un chapeau chinois confiés à l’hercule, et d’un cornet à piston dévolu aux soins d’[MASK], était bien un peu maigre ;
+
+['dans', 'on', 'et', ',', 'sur']	Rita	[MASK] le mit un peu au courant de leur situation, mais cette confidence n’eut point pour effet de l’attendrir. — Me voilà bien ! disait-il en jurant entre ses dents, moi qui suis un honnête homme, me voilà bien ! avec deux baladines dans ma maison
+
+['ce', 'le', 'de', 'cette', 'ces']	Karl	Après l’arrangement des boîtes, vint celui des livres, et Dieu sait ce qu’il y en avait ! [MASK], dont les forces revenaient chaque jour, reprenait peu à peu sa vigueur et son adresse. Il tirait les volumes des rayons et les portait sur la terrasse pour les épousseter
+
+['maman', 'celle-ci', 'monsieur', 'papa', 'confiture']	Grisonne	Un fond de pot de confitures et une poignée de noix que m’a données, hier soir, la femme dont nous avons mis le petit garçon sur le dos de [MASK] ; ce n’est pas avec cela que nous pourrons faire un bon repas.
+
+['il', 'et', '-il', 'qui', '-']	Jos	? — [MASK] n’avait pas de famille. Il avait été élevé par un artiste comme lui qui s’était attaché à lui et en avait fait, certes ! un bien brave homme ! — Et n’avait-il point d’amis, de camarades ?
+
+['allons', 'vous', 'moi', '-', 'doucement']	Karl	— Prenez une goutte avant de vous remettre en route, [MASK], dit-elle, et les petites et moi, nous trinquerons avec vous. Et gaiement, de sa vieille main ridée qui tremblait, elle leva son verre.
+
+['maman', 'marie', 'tous', 'rené', 'marguerite']	Rita	; elle souriait même en dormant, et ses lèvres balbutiaient « Maman » d’un ton plaintif qui serra le cœur de [MASK]. Mais ce n’était pas le moment de s’attendrir, et la vaillante fille le savait bien.
+
+['que', ',', 'ce', '(', 'et']	Karl	— Comment, la même chose ? Ce ne sera pas le même pâté ? — Si, mais si nous avions déjeuné avec [MASK] c’était plus gai. — Je ne te dis pas le contraire, mais ça n’aurait pas été convenable. — Pourquoi ?
+
+['elle', 'mais', 'ou', 'qui', 'on']	Rita	Les petits bohémiens la suivaient avec de mauvais rires et des sifflements stridents. Quelques vieilles échevelées et grimaçantes vinrent lui montrer le poing et l’injurier. Déjà les hommes s’approchaient et la regardaient d’une vilaine façon ; elle prit peur, revint à la roulotte... [MASK] n’y était pas.
+
+['</s>', 'elle', 'chacun', 'on', 'il']	Turc	On installa les jeunes filles dans une petite pièce du rez-de-chaussée, meublée d’un lit, sorte de cadre en bois avec une paillasse de feuilles de maïs, d’une table grossière et de deux escabelles. [MASK] s’étendit dans un coin et la Grisonne alla rejoindre la vache dans l’étable.
+
+['elle', 'lui', 'il', 'dieu', 'maman']	Rita	; mais [MASK], soucieuse, secoua la tète. — Nous savons bien ce que c’est qu’un orage, dit-elle, nons en avons eu plus d’un sur notre roulotte. Si celui-ci devenait plus fort, nous pourrions entrer dans une maison de paysans.
+
+['il', 'lui', 'et', 'lui-même', ',']	Jos	Plus d’une fois, [MASK] avait engagé des sujets de passage, piémontais, napolitains ou toscans. Lui-même s’étant trouvé en rapport avec des Italiens, dans les grands cirques, savait très bien parler leur langue. Sa femme l’appela à la rescousse, et il interrogea le petit garçon.
+
+["c'", 'jeanne', 'mademoiselle', 'marguerite', 'celle-ci']	Rita	! — Mais quoi ? quoi ? Qu’allez-vous écrire ? — Que [MASK] est la plus honnête et la meilleure des jeunes filles, que je la dote de cinq cents livres 52 , et que je veux qu’elle soit votre femme dans un mois d’ici.
+
+['elle-même', "jusqu'", 'même', ',', 'beaucoup']	Rita	elle aida même [MASK] à débarrasser la Grisonne de sa charge et à tout transporter dans la salle basse, puis les deux sœurs, avec un, soulagement de corps et d’esprit inexprimables, se laissèrent tomber, plutôt qu’elles ne s’assirent, sur deux chaises près du feu.....
+
+['elle', 'il', 'robert', 'jeanne', 'pierre']	Marius	— Mais je ne veux pas m’enfermer dans cette méchante boîte du diable, dit [MASK] ; j’étouffe —une bordée de jurons — il me faut de l’air à moi ! — autre bordée. — Eh bien, asseyons-nous là, sous les arbres, en fumant une pipe.
+
+['la', "l'", 'ce', 'ces', 'dieu']	Rita	— Elle a les fièvres, la petite, dit-il brusquement à [MASK]. Je m’y connais, j’en ai perdu une de cet âge-là en trois jours. D’abord il faut tâcher de la réchauffer ; après nous verrons. Heureusement, j’ai là un fagot sec
+
+['leur', 'leurs', "l'", 'la', 'm.']	Rita	Ils s’étaient installés tout près de leur propre roulotte, mais à une dizaine de mètres de celle de [MASK]. Pour arriver à leur banc, ils avaient dû passer sous sa fenêtre, et c’est ainsi qu’elle avait pu saisir quelques bribes de leur conversation.
+
+['</s>', 'elle', "s'", "c'", ',']	Rita	Les minutes semblent des heures ! [MASK] est couchée par terre, sans lâcher son terrible ami. Elle guette en écoutant, car elle ne peut rien voir... Enfin ! Enfin ! le ronronnement des roues sur le sol ne s’entend plus,... non, pas même un murmure.
+
+['qui', 'elle', 'il', 'celui-ci', 'dieu']	Rita	Je ne garde pas votre chien parce qu’il faudrait le nourrir. Emmenez-le et débarrassez-moi de vous. Elle les poussa rudement dehors et ferma la porte sur elles. Mais [MASK], cette fois, était en colère pour tout de bon ;
+
+[',', 'ou', 'et', 'tout', ':']	Dorothée	les jeunes filles lui obéirent en balbutiant des mots incohérents, entrecoupés de sanglots. — Oh ! non ! vous n’allez pas mourir, mère Agnese ! ce n’est pas possible ! Non ! non ! non ! répétait [MASK] en se tordant les mains. Non !
+
+[',', 'de', '.', 'et', 'à']	Victoire	Ils étaient avec [MASK]. Les yeux brillant d’une sorte de fièvre, tremblant d’une agitation qu’il avait peine à dominer, et pourtant, assez maître de lui pour parler à voix basse, il dit à sa grand’mère :
+
+['maurice', 'napoléon', 'georges', 'jacques', 'charles']	Rita	! » Le lendemain au matin, [MASK], par discrétion, avait voulu partir, mais ses hôtesses avaient jeté les hauts cris ! Pourquoi courir les routes ? Pour se placer ? mais il y avait là une place toute trouvée.
+
+['-', 'et', '...', 'je', '"']	Rita	— Entends-tu, [MASK] ? Entends-tu ? dis ! — Oui, j’entends. C’est un cavalier, ou même deux. — C’est la roulotte ! dit l’enfant épouvantée, c’est l’oncle Margasse ! il va nous tuer !...
+
+['il', 'elle', 'on', 'et', 'chacun']	Rita	— Ah ! s’écria la pauvre fille avec un cri déchirant, pourquoi ne sommes-nous pas mortes avec eux ! La chanson se tut et un vieux bonhomme s’arrêta sur le seuil. Aux outils qu’il portait sur l’épaule, [MASK] reconnut le cantonnier.
+
+['non', '...', '-', 'oui', ')']	Rita	! ajouta-t-elle avec une tristesse navrante. — Je suis ton maître, parce que je suis le patron de la baraque où tu es engagée... — Je ne suis pas engagée au théâtre Viguier, riposta [MASK], je suis associée... — Associée !
+
+['maurice', 'marguerite', 'rodolphe', 'georges', 'rodin']	Rita	— et il frappa un coup de sa baguette de saule sur la croupe de l’ânesse. — C’est que..., reprit [MASK], c’est que... Elle s’arrêta. — Ah ! je vois ! fit le jeune homme en riant à belles dents.
+
+['</s>', 'elle', 'il', 'et', '-']	Rita	Un aigle s’enleva lourdement d’une cime voisine et vint tournoyer d’un vol lent et majestueux au-dessus du triste groupe. [MASK] fut glacée d’effroi. Eh, quoi ? Sentait-il déjà la mort près de lui ? Venait-il prendre possession de sa proie ?
+
+['on', 'nous', 'il', 'y', 'ça']	Grisonne	s’écria-t-elle. Elle m’a donné tout ça ! —et elle montra une corbeille pleine de fruits. —Ce sera bien plus agréable que de boire du café quand nous aurons soif, et puis, [MASK] a si bien mangé !
+
+['"', ')', '_', '.', '4']	Rita	[MASK]. — Qu’y a-t-il, mademoiselle ? s’écria-t-elle en entrant dans le cabinet où la bonne demoiselle, debout devant sa vitrine ouverte, ses petites balances de cuivre plantées devant elle, ses lunettes sur le nez et son bocal à la main, semblait.
+
+['"', '-', 'monsieur', 'moi', '!']	Karl	alors j’ai décidé que ce serait vous, [MASK]. — Moi ! balbutia le garde qui devint très rouge. — Vous-même ; il faut vous marier et vous établir ici. Je ferai arranger pour vous la maison de la mère Rivollet qui veut bien me la vendre.
+
+['</s>', 'elle', 'et', 'il', '-']	Dorothée	Partons ! Et tout en parlant, elle arrangeait le ballot sur le dos de l’ànesse. [MASK] l’aidait de son mieux, mais bien maladroitement, de ses pauvres petites mains tremblantes, en dépit des efforts qu’elle faisait pour se dominer !
+
+['lui', 'rappel', 'elle', 'tous', 'deux']	Rita	Pour [MASK], elle était dans un complet ravissement Elle descendit quatre à quatre l’escalier de la roulotte et vint en courant interpeller le petit danseur. — Comment t’appelles-tu ? s’écria-t-elle tout essoufflée.
+
+["jusqu'", 'tout', ',', '...', ':']	Achille	Celui-ci fit un vrai saut de carpe pour échapper aux crocs qui le menaçaient. Le chien alors aboie furieusement. Grand remue-ménage au camp des bohémiens ; des jeunes gens accourent : l’un d’eux saisit [MASK] à la gorge ;
+
+['</s>', '--je', '...', '--il', '"']	Dorothée	— Oh ! moi, je marcherais bien un jour et une nuit encore, s’il le fallait, pour être sûre d’échapper aux poursuites ! [MASK] ne répondit pas ; elle était à bout de forces et se laissa installer sur l’ânesse presque sans s’aider.
+
+['il', '</s>', 'on', 'elle', 'chacun']	Jos	L’hercule voulait qu’on allât tout de suite s’emparer de la charrette et enlever l’enfant de vive force. [MASK] fit observer que c’était risquer d’attirer tout le camp sur soi, et que dans la bagarre on pouvait attraper de mauvais coups et exposer même la vie de la petite.
+
+['cria', 'crie', 'cri', 'crié', 'à']	Jos	; les premiers jets d’eau, insuffisamment nourris, ne produisaient pas grand effet. La toile mouillée résistait au feu sans doute, mais la charpente en bois de sapin très sec s’enflammait de tous côtés. — Riccio ! Riccio ! cria [MASK] à pleins poumons.
+
+['un', 'la', "l'", 'paris', 'son']	Marius	demande le capitaine des pompiers à [MASK], hagard, blême, stupide. — Oui ! balbutie l’hercule d’une voix qui n’a rien d’humain,... un baril entier !... je l’ai acheté ce matin même, il était resté dans les coulisses !
+
+['elle', 'marguerite', 'catherine', 'madeleine', 'jeanne']	Rita	! ça ne me paraît pas bien clair ! Avez-vous des papiers ? — Les voilà, dit [MASK] en donnant son portefeuille qu’elle avait gardé sur elle. Le gendarme les parcourait d’un air assez incrédule. — Tout ça ne me paraît pas bien clair !
+
+['ou', 'et', '...', ',', ':']	Karl	? C’est moi qui régale. — Je vous remercie de vos bonnes intentions, mais... — Mais vous refusez ? — Oui, monsieur. Ceci avait été dit d’un ton qui n’admettait pas de réplique. — A votre aise, dit [MASK] en colère
+
+['...', 'et', 'encore', 'après', ',']	Turc	! Avant de descendre, elle jette encore un coup d’œil autour d’elle... Rien en vue, mais un bruit sourd de mauvais augure... Elle tend l’oreille,... concentre toutes ses forces pour écouter,... le bruit s’éloigne... [MASK],
+
+['elle', 'qui', 'et', 'il', 'on']	Rita	Elle est bien plus délicate que sa sœur, mais c’est une consolation pour moi de penser que si je viens à m’en aller — ce qui ne tardera pas, bien sùr, car je suis frappée au cœur — [MASK] pourra lui servir de mère.
+
+[',', 'georges', 'pierre', 'un', 'lui-même']	Riccio	Les pompiers dirigeaient vers lui le jet de leurs lances. Sous l’eau, à travers la fumée, il tentait d’atteindre un endroit où la toile laissât une trouée, d’apercevoir [MASK], peut-être d’arriver jusqu’à lui... La foule haletante le suivait des yeux avec un indicible effroi.
+
+['se', 'chacun', 'il', 'celui-ci', 'lui-même']	Victoire	Il restait là, planté tout droit, les narines dilatées, ne faisant pas un mouvement et contemplant la grande cuiller de fer que [MASK] promenait dans le chaudron en ramenant à la surface tantôt un oignon doré, tantôt une belle pomme de terre à demi éboulée.
+
+['jacques', 'paul', 'jean', 'robert', 'marguerite']	Achille	Ils se levèrent et saluèrent avec humilité l’agent de police. — Nous sommes des artistes forains, mon père et moi, dit [MASK] d’un ton modeste, et nous prenions le frais avant de rentrer dans notre roulotte. — Où est-elle cette roulotte ?
+
+['enthousiasme', 'passion', 'grâce', 'ferveur', 'amour']	Riccio	cet air tant de fois chanté gaiement avec [MASK], ramenait tout d’un coup, par un violent contraste, la pensée des jours d’autrefois, où la vie était si douce, de ces êtres chéris dont l’affection était si tendre et la protection infatigable.
+
+['il', 'elle', 'lui', 'on', 'paul']	Victoire	; il répondit cependant, en montrant le bol encore à demi plein et en tournant la tête derrière lui. — È per la nonna 3 . Dans sa vie errante, [MASK] avait appris à entendre assez bien l’italien populaire.
+
+[',', 'dans', 'à', 'que', ':']	Karl	— Est-ce que vous avez déjeuné ? reprit [MASK]. — Non, pas encore. — Bien ! faites-moi le plaisir alors de déjeuner avec moi. Il y a là du pâté de lièvre qui a une mine ! et un parfum ! aimez-vous le pâté de lièvre
+
+['.', 'le', '!', 'la', '...']	Rita	montagnes, les gouttes d’eau suspendues en perles de cristal aux branches des sapins et les rochers fauves tachés de lichens veloutés. L’air, balayé par les ondées, avait une odeur fraîche et balsamique, la terre et le ciel se réjouissaient d’avoir secoué leur torpeur. — Courage, sœurette, dit [MASK]
+
+['désert', 'monastère', 'cluny', 'moines', 'la']	Tamié	sur de longues pentes, abruptes mais verdoyantes, paissent de grands troupeaux de ces jolies vaches tarines, rousses, aux yeux cerclés de brun. Au fond du vallon, dort un petit étang, seul reste des travaux d’irrigations exécutés au temps jadis par les moines de [MASK].
+
+['paul', 'marie', 'jésus', 'dieu', 'robert']	Rita	! Et qui se souciait de nous, en ce monde ? Aurions-nous pu penser qu’après toutes nos épreuves, nous connaîtrions un bonheur si parfait ! — Il ne faut jamais désespérer de la Providence ni de soi-même, dit [MASK] de sa voix grave.
+
+['je', 'et', 'mais', 'on', 'il']	Léocadie	— Achille ! vaurien ! — Achille ! feignant ! — Rita ! sucre à Coco ! —[MASK] ! combien de recette ? Cette question, il l’avait apprise de lui-même à force de l’avoir entendu répéter chaque soir à l’hercule.
+
+['emma', 'anna', 'rose', 'jane', 'renée']	Dorothée	Sa rude figure, bronzée par le hâle, n’était pas malveillante, et au premier regard qu’il jeta sur les habitantes passagères de son taudis, elle se sentit un peu rassurée. Sans bouger de place, tenant toujours [MASK] serrée dans ses bras, elle expliqua comment elle se trouvait là.
+
+['il', ',', 'et', ')', 'qui']	Margasse	[MASK] fit preuve de plus de sensibilité qu’on n’en aurait attendu de lui ; il avait une réelle amitié pour sa douce belle-sœur ; il la respectait beaucoup, l’admirait même pour ses vertus modestes et ressentit vivement sa perte.
+

@@ -1,0 +1,200 @@
+['bien', 'souffrir', ',', 'aimé', 'mal']	Serlon	! Oh ! non ! je hais trop [MASK] en ce moment pour ne pas, malgré sa trahison, l’aimer encore... Mais je ne suis pas si lâche que de lui pardonner ! Je m’en irai de cette vie, jalouse de lui, et implacable.
+
+['moi', 'juliette', 'nuit', 'lucien', 'zola']	Savigny	Mais excepté les pâleurs et les transes réprimées de [MASK], je ne voyais rien du roman qu’ils faisaient entre eux, en attendant le drame et la catastrophe... selon moi inévitables. Où en étaient-ils tous les deux ? C’était là le secret de leur roman, que je voulais arracher.
+
+['il', 'elle', 'marie', 'valentine', 'jeanne']	Serlon	J’avais déjà remarqué que les êtres heureux sont graves. Ils portent en eux attentivement leur cœur, comme un verre plein, que le moindre mouvement peut faire déborder ou briser... Malgré sa gravité et ses vêtements noirs, [MASK] avait dans les yeux l’incoercible expression d’une immense félicité.
+
+['père', 'qui', 'il', 'homme', 'lui']	Tressignies	[MASK], presque terrassé par ces incroyables paroles, n’eut pas le moindre doute sur la vérité de cette renversante affirmation. Il était sûr que cette fille n’avait pas menti. Il venait de la reconnaître. La ressemblance qui l’avait tant frappé au boulevard était justifiée.
+
+['si', "s'", 'elle', 'cela', 'autrefois']	Cléopâtre	C’était une espèce de bracelet vivant dont la maîtresse de la maison, avec son profil égyptien, et le lit de repos sur lequel elle est éternellement couchée, comme [MASK], formait l’agrafe. Une croisée ouverte laissait voir un pan du ciel et le balcon où se tenaient quelques personnes.
+
+['eux', 'lui', 'ces', 'elle', 'entre']	Karkoël	Elle et lui, lui et elle, étaient deux abîmes placés en face l’un de l’autre ; seulement, l’un, [MASK], était noir et ténébreux comme la nuit ; et l’autre, cette femme pâle, était claire et inscrutable comme l’espace.
+
+['fort', 'vrai', 'bon', 'et', 'long']	Mesnil	– S’il est, [MASK], aussi fort que ton histoire, il sera bon. Fortiter. J’ai souvent entendu parler de la hardiesse de la littérature moderne ; mais je n’ai, pour mon compte, jamais cru à cette hardiesse-là.
+
+['usage', 'information', 'informations', 'utilisation', 'argent']	Alcudia	Après la surprise d’[MASK], qui nous fut si fatale, je le cherchai. Je ne le trouvai pas. Il avait disparu, comme tant d’autres, et n’avait pas rejoint les débris de notre régiment décimé. – Est-ce là tout ? – dit
+
+['donc', 'cela', 'attention', 'halte', 'mal']	Mautravers	? Je suis entré dans l’église, dimanche soir, parce que cela m’a plu. – Et pourquoi cela t’a-t-il plu ?... – fit [MASK], car si le Diable est logicien, un capitaine de cuirassiers peut bien l’être aussi.
+
+['parle', 'viens', 'allons', 'va', 'meurs']	Mesnil	Mais, croirez-vous bien qu’il ne voulut jamais me dire ce qu’il était venu faire dans cette galère d’église ?... Voilà pourquoi je vous le dénonce aujourd’hui, Messieurs, pour que vous le forciez à s’expliquer. – Allons, parle, [MASK].
+
+['pieds', 'pied', 'cheval', 'terre', 'chevaux']	Hauteclaire	Tout cela finissait par embarrasser le jugement. Pour les pieds de [MASK], c’était peut-être de là que viendrait l’obstacle ; – étant impossible qu’une situation comme celle que j’entrevoyais dans cette maison, – de présent, tranquille, – n’aboutît pas à quelque éclat affreux...
+
+['france', 'florence', 'rome', 'venise', 'grèce']	Raphael	Ce fut là qu’elle commença de produire sur les hommes ces effets d’encharmement qui tenaient, sans doute, à la composition diabolique de son être, et qui faisaient d’elle la plus enragée des courtisanes, avec la figure d’une des plus célestes madones de [MASK].
+
+['-', ':', 'et', '(', 'à']	Rançonnet	L’incendie – car elle n’incendia pas que le 8e dragons, mais mon régiment de hussards à moi, mais aussi, tu t’en souviens, [MASK], tous les états-majors du corps d’expédition dont nous faisions partie, – l’incendie qu’elle alluma prit très vite
+
+['monsieur', 'madame', 'moi', 'dit-il', 'monseigneur']	Rançonnet	– J’y allais... qui sait ? peut-être à confesse. J’ai du moins fait ouvrir la porte d’un confessionnal. Mais tu ne peux pas dire, [MASK], que ma confession ait trop duré ?... Ils voyaient bien qu’il se jouait d’eux...
+
+['celui', 'même', 'puis', 'plus', 'et']	Bonaparte	» disait-on, et on allait peut-être lui découvrir le cancer à l’estomac de [MASK] dans la poitrine, quand, un beau jour, il supprima toutes les questions et inquisitions sur sa personne en bouclant sa malle en deux temps, comme un officier, et en disparaissant comme par un trou.
+
+['moi', 'elle', 'personne', 'lui', 'elles']	Ravila	mais aucune des douze femmes qui étaient autour de cette table ne songea à rire, – ni [MASK] non plus. – Et voilà, Mesdames, croyez-le, si vous voulez, – ajouta-t-il en forme de conclusion, – le plus bel amour que j’aie inspiré de ma vie !
+
+['</s>', '"', '...', '-', ')']	Mazarin	! Pour qu’à vingt instants de sa vie l’officier de Brassard n’eût pas sauté, c’est que, comme tous les dandys, il était heureux. [MASK] l’aurait employé, – ses nièces aussi, mais pour une autre raison : il était superbe.
+
+['son', 'rire', 'douleur', 'ce', 'bonheur']	Stasseville	et surtout à ces mains d’un homme, du plus amolli des civilisés, chez qui le sauvage finissait au poignet, et qui savaient imprimer aux cartes cette vélocité de rotation qui ressemblait au tournoiement de la flamme, et qui avait tant frappé Herminie de [MASK], la première fois qu’elle l’avait vu.
+
+['hier', 'autrefois', 'hommes', 'avant', 'amour']	Alberte	Nous ne sommes pas des bégueules entre nous. Nous sommes deux hommes, et nous pouvons nous parler comme deux hommes... J’avais l’expérience des spasmes voluptueux d’[MASK], et quand ils la prenaient, ils n’interrompaient pas mes caresses.
+
+['il', 'elle', ',', 'dieu', 'y']	Hauteclaire	[MASK] n’avait point de ces embarras ; de ces précautions épouvantées... Tentatrice comme elles le sont toutes, qui tenteraient Dieu dans son ciel, s’il y en avait un, et le Diable dans son enfer, elle semblait vouloir agacer, tout ensemble, et le désir et le danger.
+
+['le', 'jacques', 'jean', 'henri', 'la']	Mesnil	– Tu y étais bien, toi ! – dit [MASK], avec tranquillité. – J’y étais pour t’y suivre. Je t’ai vu y entrer, plus étonné de ça, ma parole d’honneur, que si j’avais vu violer ma mère.
+
+['dire', 'tort', 'penser', 'croire', 'part']	Tressignies	Sa voix même avait perdu la raucité qu’elle avait dans la rue... Etait-ce une illusion produite par ce qu’elle disait ? mais il semblait à [MASK] que cette voix était d’un timbre plus pur, – qu’elle avait repris sa noblesse.
+
+['parti', 'partie', 'acte', 'place', 'cela']	Hauteclaire	Ils prenaient [MASK] de très bonne foi pour une des leurs, et j’en aurais été pour mes frais de curiosité sans un hasard qui, comme toujours, en fit plus, en une fois, que toutes mes combinaisons, et m’en apprit plus que tous mes espionnages.
+
+['non', 'disait-il', 'dit-il', 'mais', 'chercher']	Serlon	Je suis morte. Ce n’est pas le médecin qu’il fallait envoyer chercher, [MASK], c’était le prêtre. Allez ! donnez des ordres pour qu’il vienne, et que tout le monde me laisse seule deux minutes avec le docteur. Je le veux !
+
+['le', 'm.', 'la', 'madame', 'mrs']	Mesnilgrand	– Laissons cela, du reste, – continua [MASK]. – Vous êtes, à ce qu’il paraît, encore plus abrutis que moi par la guerre et par la vie que nous avons menée tous... Je n’ai rien à dire à l’incrédulité de vos âmes ;
+
+['est', 'il', 'a', 'en', "l'"]	Louis	En amenant, si je l’avais fait, une maîtresse chez moi, comme [MASK], à son hôtel de la Poste, c’était rompre avec les bonnes gens chez qui j’habitais, et qui m’auraient immédiatement prié d’aller chercher un autre logement que le leur
+
+['la', 'gloire', 'malheur', 'satan', 'fortune']	Karkoël	En proie à ces brûlantes timidités qui sont en même temps des voluptés et des supplices, je m’étais réfugié et assis auprès du dieu du chelem, ce Marmor de [MASK], pour lequel je m’étais pris de belle passion. Il ne pouvait y avoir entre lui et moi d’amitié.
+
+['chateaubriand', 'napoléon', 'lui-même', 'il', '-il']	Casanova	Rien n’en a été inventé. On n’en a pas nommé les personnages : voilà tout ! On les a masqués, et on a démarqué leur linge. « L’alphabet m’appartient », disait [MASK], quand on lui reprochait de ne pas porter son nom.
+
+['diane', 'vénus', 'pénélope', 'jupiter', 'chien']	Mélusine	mince et idéale comme une arabesque et comme une fée, dans sa robe de velours vert aux reflets d’argent, dont la longue traîne se tordait autour de sa chaise, et figurait assez bien la queue de serpent par laquelle se terminait la croupe charmante de [MASK].
+
+['madame', 'marguerite', 'henriette', 'catherine', 'jeanne']	Eulalie	m’écriai-je. « ... Par sa femme de chambre, [MASK], qui avait pris une fiole l’une pour l’autre et qui, disait-on, avait fait avaler à sa maîtresse une bouteille d’encre double, au lieu d’une médecine que j’avais prescrite.
+
+['non', 'monsieur', 'mais', 'vous', 'madame']	Rançonnet	! « Et je ne la calomnie point, n’est-ce pas, [MASK] ?... Tu l’as eue peut-être, et si tu l’as eue, tu sais maintenant s’il fut jamais une plus brillante, une plus fascinante cristallisation de tous les vices !
+
+['jeanne', 'celui-ci', 'robert', 'celle-ci', 'elle']	Tressignies	J’en serais plus infâme, mais j’en serais mieux vengée. – Dites-la ! » – fit [MASK], crocheté par une curiosité et un intérêt qu’il n’avait jamais ressentis à ce degré, ni dans la vie, ni dans les romans, ni au théâtre.
+
+['homme', 'argile', 'achille', 'acier', 'argent']	Alberte	Mais ni les yeux ne revinrent, ni les dents ne se desserrèrent... Le froid des pieds d’[MASK] était monté jusque dans ses lèvres et sous les miennes... Quand je sentis cet horrible froid, je me dressai à mi-corps pour mieux la regarder ;
+
+['cela', 'donc', 'celui-ci', 'robert', 'alors']	Rançonnet	» – Elle n’a donc pas duré ? Tu sais donc, toi, ce que cette chienne de femme-là est devenue ? – fit [MASK], haletant d’intérêt, excité, et oubliant pour une minute cette visite à l’église qui le tenait si dru.
+
+['mais', 'et', 'pour', 'par', "d'"]	Hauteclaire	– oui, [MASK] elle-même ! – tenant, dans ses belles mains, un plateau d’argent sur lequel fumait le bol demandé par la comtesse. C’était à couper la respiration qu’une telle vue ! Eulalie !...
+
+['ce', 'il', 'ceci', 'cela', 'mais']	Karkoël	... [MASK] n’était pas un fat. Ce n’est pas lui qui se serait permis des confidences. On n’a pu jamais rien savoir de sa vie. Il n’aura pas commencé d’être confiant, ou indiscret, à propos de la comtesse de Stasseville.
+
+['lui', 'elle', 'toi', 'il', 'moi']	Mesnilgrand	Mais lui, [MASK], était – eussent dit les femmes – adorablement mis. Comme on était au matin encore, il portait un amour de redingote noire, et il était cravaté (comme on se cravatait alors) d’un foulard blanc, de nuance écrue semé d’imperceptibles étoiles d’or brodées à la main.
+
+['il', ',', '.il', 'qui', 'et']	Serlon	[MASK] me recevait ici ou là, selon l’occurrence et où il était, quand j’arrivais. Il n’avait pas le moindre embarras avec moi. Il avait repris sa bienveillance. Il était grave. J’avais déjà remarqué que les êtres heureux sont graves.
+
+['elle', 'qui', 'pénélope', 'jeanne', 'et']	Alberte	Seulement [MASK], avec sa tête d’acier, trouvait à chaque fois un prétexte. Elle était souffrante... Elle cherchait le sucrier sans flambeau, de peur de réveiller personne... » – Ces têtes d’acier-là ne sont pas si rares que vous avez l’air de le croire, capitaine !
+
+['et', ',', 'ou', "qu'", 'lui']	Vasconcellos	je ne le voulais pas. Avait-il tué, lui, [MASK] avec son épée, comme un gentilhomme ? Non ! il l’avait fait tuer par des valets. II avait fait jeter son cœur aux chiens ; et son corps au charnier peut-être !
+
+['moi', 'tout', 'lui', 'lui-même', 'moi-même']	Vasconcellos	Mais puisque lui, le duc, mon mari, ne m’avait pas comprise, puisqu’il se croyait au-dessus de [MASK], qu’il lui paraissait impossible que celui-ci élevât les yeux et son hommage jusqu’à moi, je ne poussai pas plus loin l’héroïsme conjugal contre un amour qui était mon maître...
+
+['il', 'elle', 'on', 'henri', 'paul']	Rançonnet	– Des chefs d’escadron de hussards à genoux, maintenant, devant des dévotes ! – Et encore, – dit [MASK], – encore, si c’était comme l’infanterie devant la cavalerie, pour se relever et passer sur le ventre à l’ennemi !
+
+['</s>', "--c'", '...', '"', 'elle']	Alberte	Nous dormions sur ce canon chargé. Nous n’avions pas la moindre inquiétude en faisant l’amour sur cette lame de sabre posée en travers d’un abîme, comme le pont de l’enfer des Turcs ! [MASK] était venue plus tôt qu’à l’ordinaire, pour être plus longtemps.
+
+[',', 'de', 'ce', 'et', "d'"]	Serlon	? – il n’était plus possible d’arrêter les ravages de l’empoisonnement. [MASK], dévasté de physionomie, vint au devant de moi dans la cour et me dit, au dégagé de l’étrier, comme s’il eût eu peur des mots dont il se servait
+
+['henri', 'philippe', 'paul', 'celui-ci', 'robert']	Mesnilgrand	– Eh bien, Messieurs, – continua [MASK], – nous avons vu des choses bien atroces en Espagne, n’est-ce pas ? et même nous en avons fait ; mais je ne crois pas avoir vu rien de plus abominable que ce que je vais avoir l’honneur de vous raconter.
+
+['(', 'un', 'entre', 'oeuvre', 'er']	Alberte	Hallucination effroyable ! par moments le cadavre d’[MASK] me semblait emplir toute ma chambre et ne pouvoir plus en sortir. Ah ! si la sienne n’avait pas été placée derrière l’appartement de ses parents, je l’aurais, à tout risque, reportée dans son lit
+
+['lui', 'lui-même', 'moi', 'celui-ci', 'fils']	Hauteclaire	Il me fut évident, au bout de quelques jours, qu’elle n’avait pas le moindre soupçon de la complicité de son mari et de [MASK] dans le crime domestique dont sa maison était le silencieux et discret théâtre... Etait-ce, de sa part, défaut de sagacité ?
+
+[',', '</s>', 'elle', 'il', 'qui']	Herminie	[MASK] se leva et poussa la persienne, afin que le jour tombât mieux sur la bague de sa mère et qu’on en pût mieux apprécier la beauté. Et elle se rassit, le coude à la table, regardant aussi la pierre prismatique ;
+
+['droite', 'gauche', 'fer', 'bois', 'marbre']	Tortoni	Il ne s’appuya plus, comme le faisaient les autres gants jaunes, les lions du temps, contre la balustrade de [MASK]. « Si je revoyais flotter sa diable de robe jaune, se disait-il, je serais peut-être encore assez bête pour la suivre. »
+
+[',', '...', 'que', 'être', 'vous']	Serlon	! – fit-elle impérieusement. J’aimerais moins [MASK]. Les enfants, – ajouta-t-elle avec une espèce de mépris, – sont bons pour les femmes malheureuses ! » Et le docteur Torty finit brusquement son histoire sur ce mot, qu’il croyait profond.
+
+['elle', 'il', 'edith', 'on', 'une']	Eulalie	A l’indifférence avec laquelle il me dit cela, je vis que personne, parmi les gens du comte, ne se doutait qu’[MASK] fût sa maîtresse. “Ils jouent toujours serré, – me dis-je. Mais pourquoi ne s’en vont-ils pas du pays
+
+['elle', "s'", 'on', "l'", 'il']	Tressignies	car il venait de la surprendre, dans le temps où elle était le plus panthère et le plus souplement nouée à lui, distraite de lui et toute perdue dans l’absorbante contemplation d’un bracelet qu’elle avait au bras, et sur lequel [MASK] avisa le portrait d’un homme.
+
+['il', '</s>', '--il', 'elle', 'on']	Esteban	– “Prouve-lui que tu oseras !” – lui dis-je, le soir même, en lui déclarant mon amour. Je n’avais pas besoin de le lui dire. [MASK] m’adorait depuis le premier jour qu’il m’avait vue.
+
+['cela', 'vous', 'moi', 'ça', 'parler']	Serlon	Mais il ne s’agit pas de [MASK], docteur, reprit-elle avec énergie, en me découvrant tout un côté de son caractère que j’avais entrevu, mais que je n’avais pas pénétré dans ce qu’il avait de plus profond. Il s’agit du comte de Savigny.
+
+['lui', 'lui-même', 'hasard', 'mer', 'moi']	Hartford	Ainsi, dans ce vaste salon plein de gens pour qui l’arrivée d’un Anglais était une circonstance peu exceptionnelle, personne, excepté la table du marquis, ne prit garde à ce whisteur inconnu, remorqué par [MASK].
+
+['...', ',', ':', '(', 'et']	Achille	et de penser cela me rendit désormais fort tranquille et fort indifférent avec toutes les femmes. Ah ! elle m’a parachevé comme officier. Après elle, je n’ai plus pensé qu’à mon service. Elle m’avait trempé dans le Styx. – Et tu es devenu tout à fait [MASK]
+
+['sa', 'ma', 'la', 'bien', 'une']	Hauteclaire	Ce n’était plus l’expression du soulagement et de la délivrance qui y brillait, comme le jour où, chez sa femme, il s’était aperçu que je reconnaissais [MASK], mais que j’avais pris le parti de ne pas la reconnaître. Non, parbleu !
+
+['lui', 'napoléon', 'eux', 'moi', 'rome']	César	mais les Turre-Cremata repoussèrent cette prétention avec mépris, et deux d’entre eux payèrent de leur vie cette audacieuse hauteur. Ils furent, dit-on, empoisonnés par [MASK]. Mon mariage avec le duc de Sierra-Leone fut une affaire de race à race.
+
+['amour', 'hamlet', 'ami', 'adèle', 'adolphe']	Esteban	– ajouta-t-elle, changeant de ton et passant de l’âpreté des sentiments les plus cruels aux douceurs poignantes d’une incroyable mélancolie, – je n’ai pas le portrait d’[MASK]. Je ne le vois que dans mon âme... et c’est peut-être heureux, – ajouta-t-elle.
+
+['la', 'le', 'les', 'un', "l'"]	Mesnilgrand	Heureusement, les milieux ne sont absolument une fatalité que pour les âmes et les génies vulgaires. Pour les personnalités vraiment fortes, il y a quelque chose, ne fût-ce qu’un atome, qui échappe au milieu et résiste à son action toute-puissante. Cet atome dormait invincible dans [MASK].
+
+['ceci', 'savoir', 'autres', 'ce', 'et']	Hauteclaire	Ils s’aiment trop... Le feu, – qui dévore, – consume et ne produit pas. Un jour, je le dis à [MASK] : « – Vous n’êtes donc pas triste de n’avoir pas d’enfant, madame la comtesse ? – Je n’en veux pas
+
+['des', 'demande', 'les', 'de', 'le']	Rançonnet	Ce jour-là, il n’aurait rien dit ; il aurait laissé passer avec l’indifférence du bronze ce torrent de fange impie qui roulait devant lui en bouillonnant, comme un bitume de l’enfer ; mais, interpellé par [MASK] : – Que veux-tu que je te dise
+
+['elle', 'il', 'bussy', 'henri', 'robert']	Tressignies	... » Elle dit ces dernières paroles avec des yeux qui se mirent à étinceler de la joie d’un coup bien frappé. « – Mais, – dit [MASK], – le sait-il, lui, le duc, ce que vous êtes devenue ?...
+
+['la', "l'", 'chacun', 'jean', 'tom']	Tressignies	Et la partie s’acheva, mais coupée d’interjections, et chacun si préoccupé de sa pensée, que tout le monde fit des fautes parmi ces forts whisteurs, et que personne ne s’aperçut de la pâleur de [MASK], qui saisit son chapeau et sortit, sans prendre congé de personne.
+
+['qui', 'il', ',', 'cela', 'le']	Tressignies	[MASK] devint sombre. C’était dans le monde un homme d’un esprit animé, dont la gaîté était aimable et redoutable – ce qu’il faut que toute gaîté soit dans ce monde, qui vous mépriserait si, tout en l’amusant, vous ne le faisiez pas trembler un peu.
+
+['18', '13', '14', '16', '15']	Karkoël	mais là n’était pas le secret pour moi de l’aimant de [MASK]. Il fallait qu’il agît sur mon imagination avec la puissance des êtres exceptionnels sur les êtres exceptionnels, car la vulgarité préserve des influences supérieures, comme un sac de laine préserve des coups de canon.
+
+['paul', 'pierre', 'chacun', 'tout', 'maurice']	Tressignies	! Le dégoût de ce dernier mot donna à [MASK] la force de s’en aller. Il rafla les pièces d’or de la coupe et n’y laissa que ce qu’elle demandait. “Puisqu’elle le veut !
+
+['cervelle', 'feu', 'brûle', 'vie', 'enfer']	Mesnil	Et il doubla le pas, enfila, suivi de l’autre, la petite porte basse, et quand, dehors et à l’air libre de la rue, ils eurent pu reprendre la plénitude de leur voix : – Que tous les tonnerres de l’enfer te brûlent, [MASK] !
+
+['jeanne', 'réflexion', 'blaise', 'lucien', 'cela']	Tressignies	– Où as-tu pris cela ? – fit [MASK], qui pensa : Elle va me faire un conte. Elle va me débiter la séduction d’usage, le roman du premier, l’histoire connue qu’elles débitent toutes... – Pris ! – repartit-elle, révoltée.
+
+['jeanne', 'jean', 'marguerite', 'henri', 'jacques']	Mesnil	– Me justifier ! – dit [MASK], gaîment. – Je n’ai pas à me justifier de faire ce qui me plaît. Vous qui clabaudez à cœur de journée contre l’Inquisition, est-ce que vous êtes des inquisiteurs en sens inverse, à présent ?
+
+['déjeuner', 'dîner', 'repas', 'souper', 'la']	Joseph	Mais nous ne sommes plus au temps de [MASK], et les préoccupations qu’on a au dessert sont moins fortes. – Quelle grande bête, avec tout son esprit, que votre marquise, pour vous avoir dit pareille chose !
+
+['napoléon', 'service', 'france', 'rome', 'conti']	Rosalba	elle était aussi bien le dessous que le dessus de la femme, et elle frissonnait et palpitait en elle autant dans le sang qu’à la peau. Ce n’était pas non plus une hypocrisie. Jamais le vice de [MASK] ne rendit cet hommage, pas plus qu’un autre, à la vertu.
+
+[',', 'il', 'on', 'et', 'de']	Tressignies	[MASK] rentra chez lui, ce soir-là, après cette incroyable aventure, dans une situation si troublée qu’il en était presque honteux. Les imbéciles – c’est-à-dire à peu près tout le monde – croient que rajeunir serait une invention charmante de la nature humaine
+
+['toi', 'moi', 'oui', 'lui', 'et']	Mesnilgrand	– continua l’autre, qui paraissait comme enragé. – Vas-tu donc te faire capucin ?... Vas-tu donc manger de la messe ?... Toi, [MASK], toi, le capitaine de Chamboran, comme un calotin, dans une église !
+
+['frère', 'ami', 'moi', 'traître', 'maître']	Mesnil	Celui qu’il avait appelé « [MASK] » eut un geste de colère. – Tais-toi ! – dit-il, en réprimant l’éclat d’une voix qui ne demandait qu’à retentir. – Es-tu ivre ?... Tu jures dans une église comme dans un corps de garde.
+
+['genoux', 'terre', 'bas', 'moi-même', 'pleurer']	Esteban	Ce mot me jeta à [MASK]... » Elle s’arrêta un instant ; – et il l’écoutait, parlant cette langue élevée qui, à elle seule, lui aurait affirmé, s’il avait pu en douter, qu’elle était bien ce qu’elle disait : la duchesse de Sierra-Leone.
+
+['celle-ci', 'vénus', 'celui-ci', 'diane', 'laure']	Hauteclaire	La seule chose peut-être que je n’expliquais pas si bien, c’est que l’éclatante beauté de [MASK] n’eût pas été un obstacle à son entrée dans le service de la comtesse de Savigny, qui aimait son mari et qui devait en être jalouse.
+
+['positivement', 'négativement', '...', 'non', 'etc']	V	?... Qui l’avait enlevée ? Car, bien sûr, elle avait été enlevée... Nulle réponse à cela. C’était à rendre folle une petite ville de fureur, et, positivement, [MASK]... le devint. Que de motifs pour être en colère !
+
+['paul', 'jacques', 'jean', 'jeanne', 'marguerite']	Savigny	Je le veux ! Elle dit ce : Je le veux, comme je ne le lui avais jamais entendu dire, – comme une femme qui avait ce front et ce menton dont je vous ai parlé. – Même moi ? – dit [MASK], faiblement.
+
+['que', 'et', 'maintenant', ':', ',']	Ravila	je voulais me lever, je ne pus pas... le cœur me manqua ! et je sentis... tiens ! là, maman... que ce que j’avais... c’était un enfant !... » La marquise avait ri, dit [MASK], quand elle lui avait raconté cette histoire
+
+['que', 'et', '-', 'la', 'je']	Alberte	Je me levai de ma table pour aller la fermer ; mais la porte entr’ouverte s’ouvrit plus grande et très doucement toujours, mais en recommençant le son aigu qui traîna comme un gémissement dans la maison silencieuse, et je vis, quand elle se fut ouverte de toute sa grandeur, [MASK]
+
+['je', 'monsieur', 'ah', 'oui', 'moi']	Amédée	; et elle resta comme elle était dans mes bras. « Ah ! l’effet de ce nom, [MASK] ! Je recevais d’un seul coup, en plein cœur, la punition de la grande faute de ma vie !
+
+['il', 'jean', 'celui-ci', 'paul', 'pierre']	Mesnil	Eh bien ! ces convives du vendredi, qui scandalisaient hebdomadairement la ville de ***, vinrent, suivant leur usage, dîner à l’hôtel Mesnilgrand le vendredi en suivant le dimanche où [MASK] avait été si brusquement appréhendé dans l’église par un de ses anciens camarades, étonné et furieux de l’y voir.
+
+['je', 'tu', "j'", 'chacun', 'celui-là']	Sbogar	; et pour que la ressemblance fût plus complète, il portait des cheveux courts, qui n’empêchaient nullement de voir briller à ses oreilles deux saphirs d’un bleu sombre, qui me rappelèrent les deux émeraudes que [MASK] portait à la même place...
+
+['jésus', 'lazare', 'adam', 'jacques', 'pierre']	Esteban	J’avais ressenti, tant j’étais par l’amour devenue lui, ce qu’aurait senti [MASK] s’il avait été vivant. J’avais ressenti la douleur que ne sentait pas son cadavre, et c’était cela qui m’avait tirée de l’horreur dans laquelle je m’étais figée quand ils me l’avaient étranglé.
+
+['tête', 'danse', 'musique', 'trois', 'quatre']	Canova	! Mais je les avais vus, tous deux, faire le groupe de [MASK], au balcon ! Le monde n’avait pas vu ce que j’avais vu. Le monde n’eut d’abord que l’impression d’un accident terrible.
+
+['elle', 'il', 'cela', 'celle-ci', 'on']	Hauteclaire	Mais, enfin, une visite pouvait, de temps en temps, tomber au château. Il est vrai encore que si c’était une visite d’hommes, [MASK] pouvait ne pas paraître. Et si c’était une visite de femmes
+
+["l'", 'son', 'la', 'ce', 'mon']	Sélune	C’était horrible, mais, après tout, grandiose. Quand le sang montait au visage de [MASK], qui était violent, la blessure rougissait, et c’était comme un large ruban rouge qui lui traversait sa face bronzée.
+
+['(', ',', ':', 'par', ')']	Rançonnet	Ton plongeon serait donc fait ? – dit tristement [MASK], terrassé, qui prenait la chose au tragique. Puis, se rejetant devant sa pensée et se renversant comme un cheval cabré : – Mais non, – cria-t-il, – tonnerre de tonnerres ! c’est impossible
+
+['il', 'elle', 'on', "j'", "m'"]	Mesnilgrand	Aussi, depuis ce temps, je me suis soucié de la blancheur des autres femmes comme de ça ! » Et [MASK] envoya d’une chiquenaude une peau d’orange à la corniche, par-dessus la tête du représentant Le Carpentier, qui avait fait tomber celle du roi.
+
+['il', 'on', 'elle', 'lui-même', 'pierre']	Tressignies	On avait tout prévu. Enfin, une porte ouverte laissait voir, par-dessous ses portières, un mystérieux cabinet de toilette, la sacristie de ces prêtresses. Mais, tous ces détails, [MASK] ne les vit que plus tard.
+
+['celle', 'celui', 'triompher', 'plus', 'davantage']	Esteban	et cependant vous avez cru, il n’y a qu’un instant, que j’étais encore une créature humaine, qu’il y avait encore une fibre qui vibrait en moi ; et il n’y avait en moi que l’idée de venger [MASK] du monstre dont voici l’image !
+
+['descartes', 'socrate', 'kant', 'aristote', 'platon']	Broussais	Et ne vous imaginez point, – continua ce vieux diable de docteur Torty, comme s’il eût lu dans ma pensée, – que ce que je vous dis là, c’est une thèse... la preuve d’une doctrine que je crois vraie, et qui nie carrément la conscience comme la niait [MASK].
+
+['puis', 'alors', 'enfin', 'et', 'mais']	Mesnilgrand	! – fit l’abbé Reniant. – Un beau cas de chirurgie, – dit le docteur Bleny, – et rare ! Mais [MASK], lancé, passa outre : « Il était, – reprit-il, – tombé mort sur le corps de sa femme évanouie.
+
+['"', '...', 'disait-il', '-', 'laure']	Ravila	« ... Et marquise trois fois, comme les pachas peuvent être pachas à trois queues ! continua [MASK], à qui la verve venait. La marquise était de ces femmes qui ne savent rien cacher et qui, quand elles le voudraient, ne le pourraient pas.
+
+['lui', 'moi', 'saint-antoine', 'qui', 'cie']	Hauteclaire	Savigny et [MASK] continuaient de jouer, avec la même perfection, la très difficile comédie que mon arrivée et ma présence en ce château n’avaient pas déconcertée. Néanmoins, on eût dit qu’il y avait un peu de fatigue dans les acteurs.
+
+['</s>', 'elle', "c'", 'il', '...']	Alberte	! [MASK] était morte chez moi, et sa mort disait tout. Qu’allais-je devenir ? Que fallait-il faire ?... A cette pensée, je sentis la main, la main physique de cette peur hideuse, dans mes cheveux qui devinrent des aiguilles !
+
+['il', 'elle', 'et', 'celui-là', 'ii']	Tressignies	! – [MASK] avait plus de trente ans. Il avait vécu cette niaise première jeunesse qui fait de l’homme le Jocrisse de ses sensations, et pour qui la première venue qui passe est un magnétisme. Il n’en était plus là.
+
+['le', 'un', 'la', "l'", 'il']	Mautravers	– C’est donc la fin du monde ! – dit [MASK], en cassant un noyau de pêche avec son poing fermé, comme avec un marteau. – Des chefs d’escadron de hussards à genoux, maintenant, devant des dévotes !
+
+['le', 'robert', 'henri', 'albert', 'il']	Mesnil	– Je n’y suis allé que pour moi seul, mon cher, – dit [MASK], avec l’insolence froide du plus complet mépris, de ce mépris qui se soucie bien de ce qu’on pense. – Alors, tu m’étonnes plus diablement que jamais !
+

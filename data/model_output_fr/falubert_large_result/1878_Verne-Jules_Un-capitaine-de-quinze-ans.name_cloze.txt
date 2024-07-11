@@ -1,0 +1,200 @@
+['il', 'elle', 'on', 'celui-ci', 'Harry']	Alvez	Ce fut alors qu’[MASK] retrouva dans ses souvenirs quelques mots d’anglais, que des agents tels que l’Américain Harris avaient pu lui apprendre, et le vieux singe crut devoir souhaiter ironiquement la bienvenue à ses nouveaux esclaves.
+
+['il', 'Ce', 'ce', 'Il', "c'"]	Tom	.Ainsi se passaient les choses à bord. Les noirs faisaient intelligemment leur besogne et devenaient chaque jour plus pratiques du métier de marin. [MASK] fut naturellement le maître d’équipage, et c’était bien lui que ses compagnons eussent choisi pour cette fonction.
+
+[',', 'il', '</s>', 'le', 'un']	Jack	[MASK], placé devant sa mère, lui dit alors qu’il saurait très bien conduire le « cheval du monsieur ».On lui donna donc à tenir le bridon, et il ne douta pas qu’il fût le véritable chef de la caravane.
+
+['la', 'sa', 'M', 'Mme', "l'"]	Mrs	! Elle se le représentait dans les bras de sa mère ! La maladie l’avait bien amaigri, mais il devait être lourd encore pour les bras affaiblis de [MASK]. Weldon ! Où était-elle ? Que devenait-elle ? Sa vieille servante la reverrait-elle jamais ?
+
+['lui', 'lui-même', 'un', 'son', 'elle']	Negoro	Il était évident qu’il voyait ou sentait quelque indigène.Et, en effet, ce n’était plus à [MASK], à son ennemi du bord, cette fois, que le chien en voulait.Un homme tournait, en ce moment, le dernier pan de la falaise.
+
+['Monsieur', 'Mais', 'Sachez', 'Sire', 'Oui']	Negoro	Le novice tira de sa poche un revolver, et le dirigeant sur le maître-coq :« [MASK], dit-il, sachez bien que ce revolver ne me quitte pas, et qu’au premier acte d’insubordination, je vous casserai la tête !
+
+['je', 'se', 'le', 'chacun', 'on']	Cameron	Aussi les nuits ne retentissaient-elles plus des rugissements accoutumés. Ce qui troublait uniquement leur silence, c’était ce concert des grenouilles, que [MASK] compare au bruit des calfats qui calfatent, des riveurs qui rivent, des foreurs qui forent dans un chantier de construction navale.
+
+['-il', 't-il', '-t-il', 'il', 'celui-ci']	Harris	« D’ailleurs, ajouta [MASK], il est possible que nous rencontrions une autre bande de ces autruches. Eh bien, cette fois, regardez mieux, et ne vous exposez plus à prendre des oiseaux pour des quadrupèdes !
+
+[',', 'en', 'LES', 'de', 'les']	Hercule	! Eh bien, je répète que tout cela ne s’est pas fait sans motif, et que ces perspicaces insectes prévoyaient quelque danger prochain !– Ils prévoyaient que nous allions envahir leur demeure ! répondit [MASK] en riant.– Vraiment
+
+['lui', 'lui-même', 'eux', 'moi', 'elle']	Tom	; mais les demandes de la côte orientale étaient si considérables qu’il se décida à les exposer tels quels.Ce fut là un malheur pour [MASK] et ses trois compagnons.Les havildars les poussèrent dans le troupeau qui envahit la tchitoka.
+
+['"', ')', 'fort', 'plus', 'aussi']	Hercule	» criait [MASK].Le brave noir eût voulu prendre tout ce monde dans ses bras et le porter à lui seul.Ces paroles enflammaient ces hommes courageux, et malgré les fatigues d’une journée de marche, ils s’avançaient plus vite alors qu’ils ne l’avaient fait au commencement de l’étape.
+
+['on', 'il', 'elle', 'Charlemagne', 'On']	Harris	Sur leurs rives croissaient des touffes de roseaux, auxquels [MASK] donna le nom de papyrus. Il ne se trompait pas, et ces plantes herbacées poussaient abondamment au bas des berges humides.Puis, le marécage passé, le fourré d’arbres recouvrait à nouveau les étroites routes de la forêt.
+
+["l'", 'le', 'un', 'son', 'ledit']	Howik	» répondit le maître d’équipage en se relevant.Mais il s’aperçut alors que, dans sa chute, son aviron de queue s’était cassé par le milieu.« Un autre aviron ! dit le capitaine Hull.– C’est fait », répondit [MASK].
+
+['Pierre', 'Jean', 'Olivier', 'Martin', 'Henri']	Negoro	À ce moment, on vit [MASK] monter sur le pont. Cette fois, il regarda la côte avec une extrême attention, remua la tête en homme qui saurait à quoi s’en tenir, et redescendit, après avoir prononcé un nom que personne ne put entendre.
+
+['</s>', 'et', '.', '"', ',']	Tom	L’aiguille aimantée avait été déviée, et au lieu de marquer le nord magnétique, qui diffère un peu du nord du monde, elle marquait le nord-est. C’était donc une déviation de quatre quarts, autrement dit d’un demi-angle droit.[MASK], presque aussitôt, était revenu de son assoupissement.
+
+['Napoléon', 'César', 'liberté', 'barbarie', 'Cicéron']	Bonaparte	Ces esclaves, comme au temps de [MASK], deviennent souvent des soldats. Chez certains peuples du haut Niger, ils composent pour moitié les armées des chefs africains. Dans ces conditions, leur sort n’est pas sensiblement inférieur à celui des hommes libres.
+
+['...', '"', '....', 'enfin', 'alors']	Hercule	– Cela doit être, mistress Weldon. Ce misérable était sur nos traces. Le hasard a mis ces deux coquins en présence, et...– Et j’espère bien qu’ils ne se seront pas séparés, lorsque je les retrouverai, dit [MASK].
+
+['et', 'il', 'on', 'puis', 'chacun']	Actéon	Les armes furent visitées avec soin. Ce qui restait de provisions fut réuni en un seul ballot, de manière à ne faire que la charge d’un homme. [MASK] le jeta sur son dos, et ses compagnons restèrent ainsi libres de leurs mouvements.
+
+['nous', 'lui', 'tout', "l'", 'toute']	Harris	Ce n’étaient plus que quelques heures à passer.Bien que, selon [MASK], qui ne pouvait établir son calcul que d’après le temps qu’avait duré le voyage, on ne dût plus être qu’à six milles de l’hacienda, les précautions ordinaires furent prises pour la nuit.
+
+['Dick', 'Bob', 'Baker', 'Richard', 'Tom']	Richard	Si le nom de Dick, – abréviatif de celui de [MASK], – avait été donné au petit orphelin, c’est que ce nom était celui du charitable passant qui l’avait recueilli, deux ou trois heures après sa naissance.
+
+['il', 'elle', 'homme', 'se', 'le']	Negoro	Il retourna donc sur l’avant, mais il ne vit rien qui eût l’apparence d’une terre et revint au gouvernail.Un instant après, [MASK] monta sur le pont. Là, soudain, comme malgré lui, son bras se tendit vers un point de l’horizon.
+
+['lui', 'eux', 'Pierre', 'lui-même', 'Jean']	Harris	Les vivres, bien qu’ils commençassent à s’épuiser, ne leur avaient point fait défaut, et leur état était satisfaisant.Quant à [MASK], il semblait fait aux épreuves de ces longs parcours à travers les forêts, et il ne paraissait pas que la fatigue eût prise sur lui.
+
+['il', 'on', 'elle', 'se', 'cela']	Dingo	À l’avant, on en causait aussi, mais on n’en tirait pas les mêmes conséquences. Là, dans le poste de l’équipage, [MASK] passait tout simplement pour un chien qui savait lire, et peut-être même écrire mieux que plus d’un matelot du bord.
+
+['gouverne', 'dirige', 'gère', 'toi', 'ordonne']	Howik	La bête va prendre son élan et se précipiter sur nous ! Gouverne, [MASK], gouverne ! »La jubarte, en effet, avait évolué de manière à se présenter de front à la baleinière. Puis, battant violemment la mer de ses énormes nageoires, elle fondit en avant.
+
+['il', 'y', 'tout', 'et', 'bateau']	Negoro	; mais Tom et son fils ne lui répondirent pas.Tout d’un coup, dans un violent coup de roulis, [MASK] tomba, et il aurait été sans doute jeté à la mer, s’il ne se fût retenu à l’habitacle.
+
+['plomb', 'gravité', 'la', 'de', '...']	Negoro	Il se demandait s’il n’y avait pas quelque rapport entre la chute de [MASK] et le bris du premier compas. Qu’était venu faire là le maître-coq ? Est-ce qu’il avait un intérêt quelconque à ce que la seconde boussole fût aussi mise hors de service
+
+['lui', 'eux', 'nous', 'elle', 'moi']	Hercule	Mais, en passant devant [MASK] :« Nègre maudit, murmura-t-il, tu me le payeras ! »Cependant, le vent venait de changer, ou du moins il semblait avoir sauté de quarante-cinq degrés.
+
+['le', "l'", 'un', 'la', 'son']	Harris	Une sorte de fourrure d’orseille leur montait jusqu’aux branches. Leur ombre épaisse, leurs fruits délicieux en faisaient de précieux arbres, et cependant, ainsi que le raconta [MASK], pas un indigène n’eût osé en propager l’espèce. « Qui plante un manguier meurt !
+
+['il', 'on', 'elle', 'en', 'ils']	Harris	! » pensa le jeune novice.Et, cependant, suivant ce qu’[MASK] avait dit la veille, il ne restait plus que six milles à faire, et sur ces derniers six milles, à cinq heures du soir, quatre avaient été certainement franchis.
+
+['le', 'répondit', 'dit', 'reprit', 'demanda']	mistress	! Ah ! tu as bien souffert, mon pauvre enfant ! Tu as fait là...– Mon strict devoir, [MASK] Weldon.– Mais vas-tu pouvoir enfin prendre quelque repos ?– Du repos ! répondit le novice.
+
+['puis', 'alors', 'et', 'que', 'là']	Hercule	?– Je ne vous sens même pas.– Eh bien, plus haut encore ! Au bout de ton bras !Et [MASK], tenant les deux petits pieds de l’enfant dans sa large main, le promenait comme fait un gymnaste dans un cirque.
+
+['Dame', 'femme', 'dame', 'homme', 'la']	Hercule	L’eau a dépassé ma tête... J’ai perdu connaissance... Lorsque je suis revenu à moi, un trou perdu dans les papyrus de cette berge me servait d’abri, et [MASK], à genoux, me prodiguait ses soins !– Dame !
+
+['lui', 'Hull', 'le', 'Burns', 'son']	Tom	ne se plaignait pas et prenait philosophiquement son mal en patience.Ce jour même, 2 février, vers le soir, l’épave fut perdue de vue.Le capitaine Hull se préoccupa, en premier lieu, d’installer aussi convenablement que possible [MASK] et ses compagnons.
+
+['il', 'Montaigne', 'Marx', 'Aristote', 'Nietzsche']	Harris	Mais où [MASK] avait raison, c’est lorsqu’il disait que la civilisation pénétrait peu à peu dans ces contrées sauvages à la suite de ces hardis voyageurs dont le nom se lie indissolublement aux découvertes de l’Afrique équatoriale.
+
+['le', "l'", 'son', 'ce', 'il']	Hercule	Quelle fut donc sa joie, quand [MASK], – « son élève » après tout, – lui rapporta une horrible petite bête qu’il venait de recueillir sur un brin de cette tikatika. Chose singulière, le brave noir semblait même un peu confus en la lui remettant.
+
+['il', 'on', 'elle', 'en', 'y']	Alvez	Pendant ce temps, [MASK] causait assez vivement avec l’Arabe Ibn Hamis, et de choses, évidemment, qui concernaient Dick Sand et ses amis. Sans doute, on allait les séparer de nouveau, et qui sait si jamais l’occasion d’échanger quelques paroles leur serait encore offerte.
+
+['elle', 'il', 'celle-ci', 'cela', 'on']	Negoro	! Mais il avait beau l’interroger, elle ne pouvait lui donner le mot d’une énigme qui, dans la situation que [MASK] lui avait faite, était incompréhensible pour lui, comme elle l’eût été pour tout autre !
+
+['pavillon', 'poupe', 'bâ', 'flèche', 'drapeau']	misaine	Bon !... De l’ensemble ! Halez... tirez sur les bras... »Et tout le phare du mât de [MASK], dont les bras de bâbord avaient été mollis, tourna lentement. Le vent, gonflant alors les voiles, imprima une certaine vitesse au navire.
+
+['le', 'chien', 'un', "l'", 'Chi']	Negoro	»En ce moment, [MASK], quittant le poste, se montra sur le pont. Personne ne remarqua d’abord sa présence et ne put observer le singulier regard qu’il lança au chien, lorsqu’il aperçut les deux lettres devant lesquelles celui-ci semblait être en arrêt.
+
+['D', 'M.', 'K', 'Mr', 'M']	Harris	Non, mon jeune ami, non, répondit [MASK]. Je sais bien que cette forêt, c’est comme une mer immense, ou plutôt, comme le dessous d’une mer, où un marin lui-même ne pourrait prendre hauteur et reconnaître sa position.
+
+['le', "l'", 'la', 'M.', 'John']	Harris	J’avais oublié que la guerre de 1862 avait tranché cette grave question. – J’en demande pardon à ces braves gens, ajouta [MASK], avec la petite pointe d’ironie que devait mettre dans son langage un Américain du Sud parlant à des noirs.
+
+['non', 'Juifs', 'autres', 'Turcs', 'pas']	Portugais	Et ceux-ci, cependant, n’avaient aucune pitié à attendre de la part des chefs de la caravane, Arabes ou [MASK], parlant une langue qu’ils ne pouvaient comprendre, et qui n’entraient en communication avec eux que par des regards et des gestes menaçants.
+
+['il', "s'", 'celui-ci', 'novice', 'se']	Dingo	Du reste, il tint compte des ordres du novice, et il ne se hasarda plus à venir sur l’arrière du bâtiment, où son service ne l’appelait jamais. D’ailleurs, [MASK] y fut installé en permanence, et le cuisinier n’eut garde de l’approcher.
+
+['le', "l'", 'les', ',', 'la']	Harris	C’était, ainsi que l’avait dit [MASK], un parcours de plus de deux cents milles, tantôt en forêts, tantôt en plaines, – voyage très fatigant, à coup sûr, puisque les moyens de transport faisaient absolument défaut.
+
+[',', 'bien', 'le', 'en', 'de']	Tom	:« [MASK], je compte sur vos compagnons et vous, dit-il, pour nous aider à dépecer la baleine, lorsqu’elle sera amarrée à la coque du navire, – ce qui ne tardera pas.– À votre disposition, monsieur, répondit le vieux noir.–
+
+['bê', 'tê', 'tête', 'main', 'buff']	Belzébuth	De ces divers quadrumanes, les plus remarquables incontestablement sont les « guéribas », à queue prenante, à face de [MASK]. Lorsque le soleil se lève, le plus vieux de la bande entonne d’une voix imposante et sinistre une psalmodie monotone.
+
+["c'", '</s>', 'il', "C'", 'Il']	Weldon	Cela fait, il n’aurait plus qu’à remonter la côte américaine, avec des vents de terre qui rendent ces parages forts agréables.Mrs. [MASK] était, d’ailleurs, une femme courageuse, que la mer n’effrayait pas.
+
+[',', '</s>', 'en', 'eux', 'les']	Alvez	Aucune protestation ne fut faite, ni à la cour, ni dans la plèbe indigène. [MASK] et les autres traitants n’avaient rien à craindre de l’avènement de cette reine Moina. Avec quelques présents, quelques flatteries, ils la soumettraient aisément à leur influence.
+
+['autrui', 'enfants', 'Isabelle', 'amis', 'elle']	Halima	Les bons soins d’[MASK] adoucissaient un peu les rigueurs de cette séquestration. Il était d’ailleurs vraisemblable que le traitant ne lui aurait pas permis d’abandonner l’établissement. La grosse prime que devait lui procurer le rachat de la prisonnière valait bien la peine qu’on la gardât sévèrement.
+
+['la', "l'", 'le', 'de', 'les']	Livingstone	Après ces boucheries épouvantables, les champs dévastés sont déserts, les bourgades incendiées sont vides d’habitants, les fleuves roulent des cadavres, les bêtes fauves occupent le pays. [MASK], au lendemain de ces chasses à l’homme, ne reconnaissait plus les provinces qu’il avait visitées
+
+['le', '"', 'de', 'se', "l'"]	Dick	mais il n’en est rien, et, en prêtant l’oreille, on peut s’assurer que ce bruit est d’une nature toute différente. – Quelle est ton opinion à ce sujet, [MASK] ? demanda le capitaine Hull en se retournant vers le novice.–
+
+['il', 'qui', 'lui', 'on', 'Il']	Harris	Il n’interrogea même pas l’Américain à cet égard. Qu’attendre d’un homme qui avait essayé de lui faire prendre des girafes pour des autruches ? [MASK] eût encore donné là quelque explication, plus ou moins bien imaginée, qui n’aurait rien changé à la situation.
+
+['chacun', 'on', 'il', 'ne', 'personne']	Nan	Tous, d’ailleurs, étaient à jeun comme lui, et, après la prière du matin, [MASK] s’occupa de préparer le repas.Le menu fut celui du souper de la veille, mais, avec cet appétit qu’aiguisait l’air matinal de la forêt, personne ne songeait à être difficile.
+
+['plus', 'à', 'le', 'mieux', 'un']	Harris	Le contraire aurait été plus naturel. C’était, du moins, l’opinion du jeune novice, devenu plus que défiant à l’égard de l’Américain. Et cependant, quel intérêt eût pu porter [MASK] à les tromper ?
+
+['"', 'le', ',', "'", 'la']	Alvez	il s’avança aussitôt, et, montrant ses compagnons et lui :« Nous sommes des hommes libres ! dit-il. Citoyens des États-Unis ! »[MASK] le comprit sans doute ; il répondit avec une grimace de belle humeur, en hochant la tête :« Oui... oui... Américains
+
+['capitaine', 'Jean', 'tout', 'maître', 'monsieur']	Negoro	Il n’y répondit encore que par un méprisant silence.« Vous avouerez, capitaine, reprit [MASK], qu’il est heureux pour vous qu’il se soit trouvé à bord un marin, un vrai celui-là. Où serions-nous sans lui, grand Dieu !
+
+['il', 'Il', 'elle', 'Elle', 'et']	Tom	Tout à coup, vers onze heures, un rugissement prolongé et grave se fit entendre, auquel se mêlait une sorte de frémissement plus aigu.[MASK] se dressa tout debout, et sa main se tendit vers un épais fourré, distant d’un mille au plus.
+
+['elle', 'Elle', ',', 'femme', "n'"]	Nan	[MASK] n’était pas mieux traitée. Elle faisait partie d’un groupe de femmes qui occupait le milieu du convoi. On l’avait enchaînée avec une jeune mère de deux enfants, l’un à la mamelle, l’autre âgé de trois ans et qui marchait à peine.
+
+['John', 'James', 'ainsi', 'lui-même', 'alors']	Negoro	.Un homme à bord, seul, entre tous, n’était pas d’origine américaine. Portugais de naissance, mais parlant l’anglais couramment, il se nommait [MASK], et remplissait les modestes fonctions de cuisinier du brick-goélette.
+
+['il', 'celui-ci', 'le', "l'", 'son']	Negoro	Ce que ne pouvait alors observer le capitaine Hull, ce qui ne put pas même être remarqué à bord du Pilgrim, c’est que la fureur du chien se manifesta précisément au moment où [MASK], quittant sa cuisine, venait de se diriger vers le gaillard d’avant.
+
+['Olivier', 'Atlas', 'il', 'Alexandre', 'Adam']	Hercule	Mais, si ces végétaux obstruaient le sol, ce n’était plus l’épaisse forêt qui confinait au littoral. Les arbres se faisaient rares. De larges gerbes de bambous se dressaient seulement au-dessus des herbes, si hautes qu’[MASK] lui-même ne les dominait pas de la tête.
+
+['le', 'de', "l'", 'RE', 'BUR']	Negoro	J’ai à parler au capitaine Hull, répondit froidement [MASK], ou, à son défaut, au maître Howik.– Vous savez bien que tous deux ont péri ! s’écria le novice.– Qui commande donc à bord maintenant ? demanda très insolemment Negoro.–
+
+['</s>', 'et', 'moi', 'cerveau', 'place']	Tom	De temps en temps, quelques heures de sommeil suffiront à me remettre. Mais, pendant ces quelques heures, il faudra bien que l’un de vous me remplace. [MASK], je vous indiquerai comment on gouverne au moyen de la boussole.
+
+['lui', 'eux', "l'", 'le', 'nous']	Dingo	Les cubes de bois de l’alphabet furent replacés devant [MASK], et, invariablement, sans une erreur, sans une hésitation, les deux lettres S et V furent choisies entre toutes par le singulier animal, tandis que les autres n’attirèrent jamais son attention.
+
+['ils', ',', 'Ils', 'les', "qu'"]	Weldon	Mais, dans les conditions où s’était fait ce voyage, pendant lequel certains soins ne leur avaient point été refusés, ils se trouvaient dans un état satisfaisant, physiquement du moins.Quant à ses compagnons. Mrs. [MASK] n’en avait plus eu de nouvelles.
+
+['il', 'elle', 'en', 'on', 'Henry']	Howik	Le capitaine Hull ne s’y méprit point.La troisième attaque de l’animal ne put être entièrement parée. En passant, il frôla la baleinière de son énorme nageoire dorsale, mais avec tant de force, qu’[MASK] fut renversé de son banc.
+
+['"', ',', 'eille', 'bien', 'veille']	Howik	Le capitaine Hull, l’œil sur sa proie, ne cessait de faire entendre son éternel refrain :« Veille bien, [MASK], veille bien ! »Et l’on pouvait être assuré que la vigilance du maître d’équipage ne serait pas mise un instant en défaut.
+
+['</s>', 'et', ',', 'où', ';']	Negoro	Donc, il n’en fallait pas plus pour se reposer quelques heures.Dix minutes après, tout le monde était étendu sur un tapis de varech. [MASK] lui-même avait cru devoir rejoindre la petite troupe et prendre sa part du repas qui allait être fait en commun.
+
+['on', ',', 'les', "qu'", 'de']	Hercule	C’était une vulgaire araignée ! Et si elle n’avait que six pattes au lieu de huit, c’est que les deux pattes de devant lui manquaient ! Et si elles lui manquaient, ces pattes, c’est qu’en la prenant. [MASK] les avait malencontreusement cassées
+
+['corps', "l'", 'deux', 'châ', 'quelque']	Kazonndé	Cela tient à ce qu’on n’applique que deux sortes de châtiments à [MASK], la mutilation ou la mort, le tout au caprice du roi. Pour la moindre faute une amputation quelconque, et les plus punis sont ceux qu’on essorille, puisqu’ils ne peuvent plus porter d’anneaux aux oreilles
+
+['il', 'on', 'Il', 'On', '</s>']	Howik	Il fallait que ces marins fussent des pêcheurs déterminés pour ne pas perdre la tête en cette occasion.[MASK] évita encore adroitement l’attaque de la jubarte, en lançant l’embarcation de côté.Trois nouveaux coups, portés à propos, firent encore trois nouvelles blessures à l’animal.
+
+['ailleurs', 'un', 'es', 'en', 'Ailleurs']	Hercule	Vient-il d’[MASK] ? Comment le fidèle animal que nous croyions mort a-t-il rencontré l’un ou l’autre ? Que va me dire ce billet ? Est-ce un plan d’évasion qu’il m’apporte, ou me donne-t-il seulement des nouvelles de ceux qui me sont chers
+
+['lui', 'eux', 'son', ',', 'Ali']	Tom	Il dormait cinq ou six heures, le jour, et cela paraissait lui suffire, puisqu’il ne se sentait pas trop fatigué. Pendant ce temps, [MASK] ou son fils Bat le remplaçaient à la roue du gouvernail, et, grâce à ses conseils, ils devenaient peu à peu de passables timoniers.
+
+['on', 'il', 'en', 'elle', 'y']	Harris	Mais, si la contrée semblait être abandonnée de l’homme, les animaux se montrèrent plus fréquemment pendant ces derniers jours. On entendait parfois une sorte de long cri plaintif qu’[MASK] attribuait à quelques-uns de ces gros tardigrades, hôtes habituels de ces vastes régions boisées, qu’on nomme des « aïs »
+
+['ne', 'continuer', 'poursuivre', 'recommencer', 'retour']	Negoro	En effet, il eût été malaisé, pour ne pas dire imprudent, de recommencer ce difficile cheminement à travers la forêt, qui n’aboutirait, d’ailleurs, qu’à se retrouver au point de départ. C’était aussi permettre aux complices de [MASK] de suivre une piste assurée.
+
+['il', 'Il', 'seul', 'et', ',']	Negoro	Seul, [MASK] n’abandonna pas la cabane qui lui servait de cuisine, et de tout l’équipage, comme toujours, il fut le seul que la rencontre d’une épave ne parut pas intéresser. Tous regardaient alors avec attention l’objet flottant, que les lames berçaient à trois milles du Pilgrim.
+
+['Jean', 'Martine', 'Pierre', 'Alain', 'Bernard']	Harris	Il n’y a rien, dit bientôt [MASK]. C’est ce ruisseau grossi par l’orage qui coule plus bruyamment. Depuis deux ans, camarade, tu as perdu l’habitude des bruits de la forêt, mais tu t’y referas. Continue donc le récit de tes aventures.
+
+['tu', 'on', 'Dieu', 'il', 'elle']	Dingo	! Ah ! au milieu de toutes ces misères, c’est une bonne nouvelle, c’est une joie que [MASK] m’a apportée là !– Du 11 au 15 mai. – La caravane continue sa marche. Les prisonniers se traînent de plus en plus péniblement.
+
+['celui-ci', 'celle-ci', 'il', 'chacun', 'on']	Munito	Voici, mon ami. Lorsque [MASK] devait « travailler » devant le public, des lettres semblables à celles-ci étaient étalées sur une table. Sur cette table, le caniche allait et venait, attendant qu’un mot fût proposé, soit à voix haute, soit à voix basse.
+
+['de', 'je', ',', 'que', "d'"]	Negoro	quoi qu’il pût dire.« J’ai cru de mon devoir, lui dit [MASK] pour débuter, de venir saluer une dernière fois mon jeune capitaine et de lui faire savoir combien je regrette pour lui qu’il ne commande plus ici comme il commandait à bord du Pilgrim.
+
+[',', 'qui', 'le', 'un', 'de']	Negoro	.[MASK], hors de lui, fut sur le point de passer de la parole aux gestes et d’étrangler de ses mains son prisonnier désarmé. Déjà il s’était jeté sur lui et il le secouait avec fureur, quand une réflexion soudaine l’arrêta.
+
+['...', 'mes', 'en', 'mon', ',']	Harris	On m’a pris...– Et condamné ?...– À finir mes jours dans le pénitentiaire de Saint-Paul de Loanda.– Mille diables ! s’écria [MASK]. Un pénitentiaire ! Voilà un lieu malsain pour des gens habitués comme nous le sommes à vivre au grand air !
+
+['.', '!', 'Allez', '</s>', '?']	Bat	Allez donc, [MASK]. Si la fourmilière est submergée, ne cherchez pas à y rentrer. Nous essayerons d’en sortir comme vous l’aurez fait. Mais si le cône émerge encore, frappez sur sa calotte à grands coups de la hache dont vous allez vous munir.
+
+['</s>', 'On', 'Il', 'on', 'il']	Actéon	On lui tendit la main, et il se releva couvert de vase, mais très satisfait de n’avoir point endommagé sa précieuse boîte d’entomologiste. [MASK] se plaça près de lui, et eut pour fonction de prévenir toute nouvelle chute du malencontreux myope.
+
+['pétrole', 'diamants', 'gibier', 'fourrures', 'ressources']	Livingstone	Le premier en date, c’est le lieutenant de la marine anglaise Verney-Howet Cameron. En 1872, on avait lieu de penser que l’expédition de l’Américain Stanley, envoyée à la recherche de [MASK] dans la région des grands lacs, était fort compromise.
+
+['monsieur', 'madame', '-', 'nous', '...']	Howik	! Y sommes-nous, [MASK] ?– Je suis paré, monsieur, répondit le maître d’équipage, mais une chose me tracasse ! C’est que la bête, après avoir fui si rapidement, est bien tranquille à cette heure !
+
+['Le', 'le', 'Il', 'il', 'capitaine']	Negoro	Il n’y a plus qu’un capitaine ici... le capitaine Sand, et il est bon que chacun sache qu’il saura se faire obéir ! »[MASK] s’inclina, murmurant d’un ton ironique quelques mots que l’on ne put entendre, et il retourna à son poste.
+
+['_', 'e', '"', 'de', ',']	Dick	[MASK] ! Un hexapode unique en son genre et d’origine africaine ! Celui-là, du moins, on ne me le contestera pas, et il ne me quittera qu’avec la vie !– C’est donc bien précieux ?
+
+[',', 'ou', 'et', 'ne', 'se']	Negoro	Est-ce qu’il avait un intérêt quelconque à ce que la seconde boussole fût aussi mise hors de service ? Quel aurait pu être cet intérêt ? Cela ne s’expliquait en aucune façon. [MASK] ne devait-il pas désirer, comme tous le désiraient, d’accoster le plus tôt possible la côte américaine
+
+['et', 'le', 'lequel', 'ou', 'celui-ci']	Hercule	Un demi-mille encore, et l’embarcation eût été entraînée dans l’abîme.[MASK], d’un vigoureux coup de godille, s’était lancé vers la rive gauche. Le courant, d’ailleurs, n’était pas accéléré en cet endroit, et le lit du fleuve conservait jusqu’aux chutes sa pente normale.
+
+['ne', 'le', "n'", 'sur', ',']	Negoro	Voilà un lieu malsain pour des gens habitués comme nous le sommes à vivre au grand air ! Moi, j’aurais peut-être préféré être pendu !– On ne s’échappe pas de la potence, répondit [MASK], mais de la prison...– Tu as pu t’évader ?...
+
+["n'", 'il', 'quiconque', "j'", 'lui-même']	Dingo	Je suis donc étonnée, son maître n’étant pas là, – si toutefois le voyageur Samuel Vernon a jamais été son maître, – que [MASK] ait pu reconnaître ces deux lettres.– En effet, répondit le capitaine Hull, c’est fort étonnant.
+
+['le', "l'", 'la', 'mon', 'un']	Negoro	Au même moment rugit le lion, brochant sur le tout, et il est malaisé de faire prendre son rugissement pour le miaulement d’un chat inoffensif ! Je n’ai donc eu que le temps de sauter sur mon cheval et de filer jusqu’ici !– Je comprends ! répondit [MASK].
+
+[',', 'est', 'de', 'un', 'que']	Negoro	[MASK], lâche coquin, ne se fût pas exposé à subir le même sort que son complice. Mais maintenant, en face d’un prisonnier solidement attaché des pieds et des mains, il supposa qu’il n’avait rien à craindre, et il résolut de lui rendre visite.
+
+[',', ':', 'le', "l'", 'de']	Negoro	D’un coup du poker dont il s’était armé, le cuisinier repoussa l’animal, que quelques matelots parvinrent à contenir.« Est-ce que vous connaissez ce chien ? demanda le capitaine Hull au maître-coq.– Moi ! répondit [MASK]. Je ne l’ai jamais vu
+
+['la', 'le', "l'", 'R', ',']	Mrs	« Vous écrirez cette lettre !... reprit celui-ci.– Non... répondit encore [MASK]. Weldon.– Ah ! prenez garde ! s’écria Negoro. Vous n’êtes pas seule ici ! Votre enfant est, comme vous, en mon pouvoir, et je saurai bien !...
+
+['se', 'ne', 'on', 'de', ',']	Alvez	Un long repos, une nourriture suffisante avaient mis les esclaves en état de figurer avantageusement dans le lakoni. Quant aux derniers arrivés, ils ne pouvaient soutenir aucune comparaison avec eux, et après un mois de baracon, [MASK] les eût certainement vendus avec plus de profit ;
+
+[',', "s'", 'a', 'de', 'il']	Dingo	De toutes les lettres de cet alphabet, [MASK] n’a choisi que ces deux-ci : S et V. Les autres, il ne semble même pas les connaître. Il faut donc en conclure que, pour une raison qui nous échappe, son attention a été spécialement attirée sur ces deux lettres.–
+
+['bon', 'vrai', 'parti', 'dur', 'beau']	Negoro	C’était [MASK].Arrivé à l’arrière, le maître-coq plaça sous l’habitacle un objet assez pesant qu’il tenait à la main.Puis, après avoir observé un instant le cadran lumineux de la boussole, il se retira sans avoir été vu.
+
+['il', 'on', 'elle', 'celui-ci', 'le']	Negoro	Quelques instants après, l’entomologiste, sa précieuse boîte de fer-blanc en bandoulière, quittait la grotte.Presque en même temps, [MASK] l’abandonnait aussi. Il paraissait tout simple à cet homme de ne jamais s’occuper que de lui-même.
+

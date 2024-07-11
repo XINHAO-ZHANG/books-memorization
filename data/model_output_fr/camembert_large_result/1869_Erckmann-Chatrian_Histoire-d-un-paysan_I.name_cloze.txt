@@ -1,0 +1,200 @@
+['il', 'on', 'elle', 'Robespierre', 'Napoléon']	Malouet	» Ce jour-là, [MASK] renouvela sa proposition d’envoyer une députation aux deux ordres privilégiés, pour les engager à se réunir aux députés des communes, et là-dessus, le comte de Mirabeau se leva. J’aurai souvent à vous parler de cet homme.
+
+['Dieu', 'Joseph', 'Jésus', 'Pierre', 'tu']	Chauvel	— Tout ce que [MASK] nous avait raconté arrive… Le capucin et les autres vont avoir le nez long !… Ha ! ha ! ha ! quelle chance !… Mais à cette heure, il faut butter les pieds, et je le ferai moi-même.
+
+['oui', 'toi', 'Oui', 'Toi', 'non']	Marguerite	— Oui, respirons ! Ah ! [MASK], tu fais un plus dur métier que nous autres ! — Oui, mais aussi ça marche ! dit-elle avec la même voix et le même coup d’œil que son père ; aussi nous pouvons dire que nous avons fait du chemin
+
+['eux', 'tous', 'lui', 'maman', 'papa']	Finaude	; au contraire, en les voyant se faire des révérences, il en avait les larmes aux yeux, et finissait toujours par dire : — Ça leur va comme des dentelles à [MASK], la bourrique du père Bénédic !… Ah ! les gueux !…
+
+['cela', 'ça', 'Dieu', 'chacun', 'maman']	Nicolas	; la mère surtout, elle riait et criait : — Ah ! je savais bien que [MASK] ferait son chemin ! Ah ! voyez-vous comme on avance ! C’est parce que nous restons toujours aux Baraques, que nous sommes si pauvres.
+
+['</s>NOTUSED', 'mais', 'Madame', 'chéri', 'non']	Michel	— Nous sommes aussi beaux que le jour des élections. Depuis, il ne nous est pas arrivé de mal ; pourvu que cela continue, [MASK]. Surveillons bien notre langue, on parle toujours trop dans un grand dîner. Prenons garde à nous ; tu m’entends
+
+['les', 'le', '</s>NOTUSED', 'la', 'et']	Nicole	Un matin, entre quatre et cinq heures, au commencement de juin, je descendais la rue comme à l’ordinaire pour éveiller [MASK], fourrager les bêtes et les conduire à la pâture. Il était tombé beaucoup de rosée pendant la nuit ;
+
+['moi', 'si', 'Madame', 'madame', 'Monsieur']	Marguerite	; et pour te le montrer, j’accepte ton cadeau. N’est-ce pas, [MASK], nous acceptons tous les deux ? — Oh ! oui, dit-elle, puisque ça lui fait tant de plaisir, nous ne pouvons pas refuser.
+
+['monsieur', 'Monsieur', 'camarade', 'seigneur', 'madame']	Michel	Voilà ce qui le touchait au milieu du grand bouleversement qu’on voyait déjà venir ; il ne songeait qu’à ses appeaux, et me disait : — La saison des nids approche, [MASK] ; et après les nids viendra la pipée ;
+
+['lui', 'cela', 'moi', 'Pierre', 'toi']	Valentin	Et l’on se remettait à forger. Je n’ai jamais rencontré de plus brave homme que [MASK], mais il avait la tête en pain de sucre, et raisonnait comme une oie. Ce n’était pas sa faute, on ne pouvait pas lui en vouloir.
+
+['toi', 'moi', 'Dieu', 'lui', 'elle']	Valentin	Je ne respirais plus. — Ah ! dit-elle en me regardant, c’est [MASK] qui l’a faite. Et je lui répondis, tout rouge : — Tu crois donc que je ne sais rien faire ? — Oh ! non… mais c’est si beau !
+
+['Joseph', 'Louis', 'Pierre', 'Charles', 'Jean']	Nicolas	les billets noirs étaient seuls pris. Quel bonheur ! Aussitôt l’idée de vendre [MASK] vint à la mère ; il avait cinq pieds six pouces, il pouvait entrer dans les grenadiers : cela devait faire plus de neuf écus ! Toute ma vie je verrai la joie de notre famille ;
+
+['moi', 'nous', 'lui', 'Moi', 'toi']	Chauvel	En ce temps les domestiques et le maître mangeaient ensemble, mais la servante et la femme du maître servaient ; elles ne s’asseyaient à table qu’après le repas. Nous venions donc de nous asseoir, maître Jean et [MASK] contre le mur, d’un côté ;
+
+['chéri', 'toi', 'Charles', 'Joseph', 'petit']	Michel	; moi, j’avais déposé la malle, et je n’osais avancer. — Viens donc ici, me dit-elle en me tendant la joue. Et je l’embrassai, pendant qu’elle me soufflait à l’oreille : — Travaille bien, [MASK], travaille !
+
+['Il', 'Elle', 'Lui', 'Pierre', 'Monsieur']	Valentin	— Bon, bon, lui dis-je, nous pouvons commencer. Jamais je ne m’étais senti plus de cœur au travail. Le fer était au feu. [MASK] prit les pinces et le petit marteau ; moi, le merlin, et nous voilà partis.
+
+['maman', 'là', 'toi', 'maintenant', 'Marie']	Marguerite	Et je m’arrêtai, comme si la cheminée m’était tombée sur la tête. — Qu’est-ce que tu veux, [MASK] ? lui dis-je, sentant mon cœur battre à défoncer ma poitrine. — Hé ! monte donc, répondit-elle, j’allais te chercher ;
+
+['On', 'Il', 'Elle', 'on', 'Madame']	Nicole	; il parlait tout seul, en étendant ses grosses mains et gonflant ses joues rouges, comme il faisait toujours à la fin d’un bon dîner. Nous l’écoutions dans l’étonnement et l’admiration. [MASK] mettait la nappe pour souper ; cela rétablit le silence ;
+
+['Je', 'On', 'je', 'Il', 'Chacun']	Marguerite	par-ci par-là, quelques rayons de soleil. On craint une mauvaise année ; qu’en pensez-vous ? – [MASK] désire avoir des nouvelles de notre petit verger et surtout de ses fleurs ; notez cela. » Nous vivons dans cette ville comme des étrangers.
+
+['Joseph', 'Paul', 'Georges', 'Henri', 'Jésus']	Jérôme	Un infirmier montait devant nous. Il ouvrit en haut une chambre à part, où se trouvait [MASK] dans un petit lit, la tête tellement emmaillotée, que si l’on n’avait pas vu son nez et ses moustaches, on aurait eu de la peine à le reconnaître.
+
+['cela', 'que', 'ceci', 'tout', 'Jésus']	Chauvel	: — Vous riez comme de véritables bêtes, sans savoir pourquoi. N’êtes-vous pas honteux de rire et de faire les malins, quand je parle sérieusement ?… Mais ils riaient plus fort, et le capucin, voyant alors [MASK], s’écria : — Ah !
+
+['il', 'elle', 'Madeleine', 'Marie', 'Marguerite']	Marguerite	Mon Dieu, mon Dieu, est-ce possible que tout soit fini ? » Comme nous rentrions dans la chambre en bas, [MASK] me montra les livres de son père, rangés en bon ordre sur leurs rayons, entre les deux petites fenêtres, et me dit :
+
+['il', 'Jésus', 'Il', 'cela', 'Dieu']	Chauvel	Maintenant [MASK] est connu partout, et l’on sait aussi que nous l’avons envoyé, qu’il demeurait au Bois-de-Chênes, et que les gens de ce pays-là ont eu assez de bon sens pour reconnaître son esprit, malgré sa religion.
+
+['Marie', 'Pierre', 'Jeanne', 'Jean', 'Marguerite']	Chauvel	Il tirait les livres l’un après l’autre du panier, et les posait en piles sur le banc. — C’est toi qui vends ces livres-là ? dit-il à la fin, sans même se retourner. — Oui, monsieur, répondit tranquillement [MASK] ;
+
+['Louis', 'en', '</s>NOTUSED', 'Charles', 'le']	Mirabeau	Pendant ce discours, le maître des cérémonies, qui avait suivi le roi, était rentré dans la salle, et il s’avançait, son chapeau à plumes à la main, du côté des bancs vides de la noblesse. À peine [MASK] finissait-il de parler, qu’il prononça quelques mots
+
+['le', 'Jean', 'la', 'Louis', 'Pierre']	Cochart	! Les deux sergents, qui voyaient cette foule penchée sur la haie et tous ces yeux reluisant dans l’ombre, parurent bien contents de s’en aller. Ils lâchèrent [MASK], qui se redressa, le sarrau déchiré, les joues et le front couverts de sueur.
+
+['vous', 'Pierre', 'lui', 'elle', 'Jeanne']	Marguerite	Puis, s’adressant à [MASK] et à moi, et passant sa grande jambe entre nous deux : — Allons, mes enfants, dit-il avec douceur, faites-moi place. Nous nous serrions, repoussant nos assiettes, à droite et à gauche.
+
+['monsieur', 'Monsieur', 'Charles', 'Pierrot', 'Louis']	Valentin	je lui donnai une jolie forme carrée, un peu longue, légère, la ligne bien au milieu, le tranchant en queue d’aronde, le col tellement arrondi et bien soudé, que [MASK] s’arrêtait de temps en temps pour admirer mon travail, et je l’entendais murmurer en lui-même :
+
+['papa', 'Papa', 'enfant', 'monsieur', 'bébé']	Michel	Et le père, avec douceur, dit alors : — Eh bien, mon enfant, va dormir, cela se passera. Bonne nuit, [MASK] ! Je montai l’escalier avec la petite lampe de fer-blanc, je montai tout accablé, la main sur le genou pour m’aider.
+
+['maman', 'Marie', 'Maman', 'Jeanne', 'Madeleine']	Marguerite	Alors je criai, relevant la tête : — Ah ! la belle nuit, [MASK] ! Je remercie Dieu de te donner une si belle nuit pour partir. Il va faire bon voyager. J’étais redevenu content ; elle paraissait plus grave, et me dit en entrant
+
+['gauche', 'droite', 'Paris', 'Lyon', 'devant']	Mittelbronn	; nous eûmes mille peines à traverser de nouveau la foule ; et même en bas, au lieu de remonter sur la place, où ceux de [MASK] venaient d’arriver, il nous fallut passer par derrière, sous la vieille halle.
+
+['madame', 'monsieur', 'Madame', 'Monsieur', 'maman']	Michel	; puis me lâchant et courant s’essuyer la figure à la serviette, elle se mit à rire et me dit : — Que je suis folle ! n’est-ce pas, [MASK] ? Peut-on pleurer pour de pareilles choses ? Moi, je ne disais rien ;
+
+['ce', '?', 'ça', 'cette', '[...]']	Michel	et de me fâcher même, quand tout à coup le père Chauvel, en petit sarrau gris et le bâton à la main, me prit par le bras, en disant : — Eh bien… eh bien !… Qu’est-ce que c’est donc, [MASK]
+
+['maman', 'papa', 'chéri', 'Maman', 'Henri']	Jean	-il. Comme tout me revient quand je te regarde ! — Oui, faisait mon père, les larmes aux yeux, le bon temps de la milice, n’est-ce pas, [MASK] ? J’y pense aussi quelquefois, il ne reviendra plus.
+
+['Voltaire', 'Luther', 'Jésus', '</s>NOTUSED', 'Pierre']	Valentin	tu te serais acquis du bien, tu pourrais vivre à ton aise. — C’est égal, répondait [MASK], vous penserez ce qui vous plaira ; moi, je suis pour notre sainte religion, la noblesse et le roi. C’est l’ordre établi par Dieu
+
+['oui', 'hélas', 'vraiment', 'oh', 'Dieu']	Nicolas	— Mon Dieu, oui, [MASK] ! C’est ce gueux de déficit qui nous vaut ça. Les anciens impôts ne suffisent plus, le peuple n’arriverait jamais à remplir le déficit ; c’est terrible, terrible… Quel malheur !… Et l’on riait.
+
+['maman', 'toi', 'Marie', 'papa', 'Maman']	Marguerite	Aussitôt je lui montrai la bêche de loin, et j’arrivai tout content près d’elle, en lui criant : — La voilà !… Que penses-tu de ça, [MASK] ? Elle prit la bêche et la regarda tout émerveillée. Je ne respirais plus.
+
+['il', 'elle', 'Monsieur', 'Louis', 'lui']	Létumier	– À la santé de notre bon roi ! Tous furent comme attendris, en répétant : — À la santé de notre bon roi ! Et quand ils eurent bu, [MASK], d’un air grave, dit : — Ce sera dur à faire avaler aux femmes ;
+
+['oh', 'maman', 'oui', 'Maman', 'Dieu']	Michel	et tout à coup, fondant en larmes, elle se jeta dans mes bras en criant : — Oh ! [MASK], quel honneur pour mon père ! Je la tenais serrée, elle ses bras autour de mon cou ; je sentais les sanglots par tout son petit corps ;
+
+['Pierre', 'Louis', 'Jean', 'Paul', 'Jacques']	Michel	j’ai ma petite-fille Christine mariée avec l’inspecteur des forêts Martin, un homme rempli de bon sens ; mon autre petite-fille Juliette est mariée avec le commandant du génie Forbin ; et le dernier, [MASK], celui que j’aime pour ainsi dire le plus, parce qu’il est le dernier, veut être médecin.
+
+['Il', 'On', 'Chacun', 'Lui', 'Tout']	Nicolas	Je lui répondis : Quatorze ans. Alors il ne me dit plus rien. [MASK] s’était mis à chanter, moi, voyant qu’il entrait toujours plus de monde et qu’on étouffait, je pris mon sac sous le banc, et je me dépêchai de retourner aux Baraques.
+
+['on', 'On', 'il', 'personne', 'un']	Marguerite	Je ne sais plus combien ils vendirent de ces petits livres ; [MASK] me l’a dit autrefois, mais tant d’années se sont passées depuis ! Les jours de marché, vous n’entendiez plus parler que de l’abolition des privilèges et de l’égalité des impôts :
+
+['toi', 'Pierrot', 'maintenant', 'alors', 'moi']	Michel	! Elle se met à rire ; et, pendant que je me réjouis de l’entendre dans cette rue tranquille, elle me demande : — Mais, dis donc, à quoi pensais-tu, [MASK], pour avoir cette figure ? Et je lui réponds :
+
+['Il', 'Elle', 'On', 'Chacun', 'Cela']	Nicolas	: — Écoute, nous aurons plus de neuf gros écus. [MASK] a six pouces, les pouces se payent à part ; ça fera douze louis ! Nous achèterons une vache ; nous aurons du lait, du beurre, du fromage ; nous pourrons aussi engraisser un cochon
+
+['Elle', 'elle', 'Marie', 'Il', 'Louise']	Marguerite	chaque mot est dans mon oreille ; et ce petit murmure de la source, tout, tout revit. Oh ! l’amour, quelle bonne chose !… [MASK] avait alors seize ans, elle n’a jamais vieilli pour moi.
+
+['moi', 'toi', 'nous', 'lui', 'vous']	Josse	: — Tu vas boire un coup. — Allons plutôt chez [MASK], lui dis-je. — J’ai bien assez de choucroute !… fit-il. Arrive !… Et comme je lui parlais d’argent, l’autre se mit à crier :
+
+['«', '1', 'I', '2', '5']	Sieyès	[MASK]. Moi, j’aurais pris tranquillement le vieux nom d’états généraux. Les nobles et les évêques refusaient d’y paraître, cela les regardait ; mais nous n’en étions pas moins les états généraux de 1789 ;
+
+['il', 'on', 'elle', '«', 'puis']	Malouet	; l’air qu’on y respire porte la corruption dans les cœurs��! Des représentants de la nation, hélas ! semblent déjà en être vivement atteints… » Il continua de cette manière, et [MASK] ne dit plus rien. »
+
+['tous', 'certains', 'Paris', 'chacun', 'Pierre']	Chauvel	Mais d’imposer ses propres terres, c’est dur, je comprends ça ! quand on se respecte soi-même, il faut se ménager. Ce qui faisait le plus de bon sang à [MASK], c’était le procès-verbal en tête des réunions des notables : «
+
+['lui', 'cela', 'il', 'moi', 'ainsi']	Valentin	Il s’écriait que nous autres jeunes gens nous avions bien des facilités pour apprendre, mais que de son temps il n’existait pas de livres pareils, ou qu’ils étaient trop chers ; et [MASK] aussi paraissait me prendre en plus haute considération.
+
+['on', 'ça', 'cela', 'il', 'elle']	Robin	il avait payé sa rente pour un ou deux mois. Cela ne durait jamais longtemps ; quand on redevenait tranquille, un beau matin [MASK] toquait à la vitre ! On parle quelquefois de maladies qui vous rongent le cœur, qui vous dessèchent le sang ;
+
+['Dieu', 'maman', 'Jésus', 'Marie', 'toi']	Chauvel	Je ne savais quoi répondre, lorsque la mère dit en souriant : — Hé ! tu vois bien qu’il a riboté avec les autres !… Il en a pris son compte, en l’honneur de [MASK]. Je répondis, dans l’amertume de mon âme :
+
+['le', 'Dieu', 'Louis', 'Charles', 'Pierre']	Chauvel	? Vous devriez pourtant le savoir ! Nommons [MASK] et ne nous inquiétons pas du reste. Je vous réponds qu’il nous fera plus de bien et plus d’honneur que cinquante capucins ; qu’il défendra nos intérêts avec un grand bon sens et un grand courage.
+
+['il', 'on', 'Il', 'lui', 'chacun']	Mirabeau	Chacun réfléchissait, chacun amassait de la force et de la colère. » Cela durait depuis un quart d’heure, quand [MASK] se leva, sa grosse tête en arrière et les yeux étincelants. Le silence était terrible. On le regardait.
+
+['Marie', 'Jésus', 'Jeanne', 'Paul', 'Joseph']	Chauvel	— Oui, répondit le parrain tout joyeux. — De votre part, cela ne m’étonne pas, dit [MASK] en lui serrant la main ; je vous connais depuis longtemps ! mais ce qui me surprend, ce qui me réjouit, c’est d’entendre des catholiques nommer un calviniste.
+
+['Monsieur', 'monsieur', 'voyons', 'messieurs', 'madame']	Michel	— Il parle bien… C’est juste !… Mais ne disons rien, [MASK], c’est trop dangereux. Il regardait à chaque instant du côté de la porte, comme si les sergents de la maréchaussée avaient dû venir.
+
+['hé', 'Hé', 'ho', 'he', 'bé']	Pletche	C’est notre histoire en quatre mots ! Cependant les vieux, réunis près de la fenêtre, s’étaient remis à causer des affaires du bailliage, et chaque fois qu’un notable entrait, on recommençait à crier : — Hé ! [MASK] !… hé !
+
+['Pierre', 'Jean', 'Louis', 'Antoine', 'Pierrot']	Cochart	Tous ces grands braillards, lorsqu’ils voient les sergents ou les gendarmes, deviennent prudents ; et souvent ceux auxquels on pense le moins montrent un autre courage. À force de le tirer et de lui donner des secousses, les deux sergents avaient presque fini par arracher [MASK] de son banc.
+
+['il', 'on', 'elle', 'madame', 'Louis']	Marguerite	Je descendis jusqu’auprès du banc, et comme je m’approchais, [MASK] me prit aussitôt par la veste, en criant : — Monsieur ! monsieur ! Qu’est-ce que le tiers état ? Voyez le Tiers état, de M. l’abbé Sieyès, à six liards.
+
+['Condé', 'Clermont', 'Picardie', 'Champagne', 'Metz']	Castella	; on les aurait assommés sur la route, car le régiment de La Fère, qui venait de remplacer celui de [MASK], ne voulait pas les soutenir : c’étaient de vieux soldats, las de la jeune noblesse et des coups de plat de sabre.
+
+['ce', 'MARIE', 'Marie', 'Louise', 'Cécile']	Marguerite	Et je partis, m’écriant dans mon âme : — Maintenant elle sait que tu l’aimes ! Jamais je n’ai senti depuis de trouble et d’enthousiasme pareils. Chapitre 16 J ’AVAIS DONC DÉCIDÉ QUE [MASK] serait ma femme ; tout était arrangé dans ma tête
+
+['Il', 'Elle', 'On', 'Marie', 'Pierre']	Chauvel	[MASK] se tenait derrière, les mains dans les poches de sa culotte, sous le sarrau, comme si de rien n’était. — Hé ! criaient les échevins, les syndics, en allant et venant, encore une corvée de faite ! Ils riaient.
+
+['Robespierre', 'Voltaire', 'Montesquieu', 'Rousseau', 'Lafayette']	Mirabeau	Alors, pour la première fois, en entendit le nom de [MASK], un noble dont les autres ne voulaient pas, et qui se mit avec le tiers état. Il disait que ces protestations de la noblesse et des parlements « n’étaient ni utiles, ni convenables, ni légitimes ».
+
+['lui', 'Grégoire', 'Luther', 'Calvin', 'le']	Mirabeau	La foule nous entourait et ne se gênait pas pour applaudir ceux qui lui plaisaient. » Le lendemain, 28, on ordonna d’établir une barrière pour séparer l’assemblée du public, et l’on fit une députation au clergé, dans le sens indiqué par [MASK].
+
+['on', 'On', 'et', 'chacun', 'elle']	Valentin	et puis les compliments, les salutations, car toutes ces femmes étaient d’anciennes connaissances ; et depuis que les maris avaient été nommés députés, on se saluait bien plus, on faisait des cérémonies, on s’appelait : Madame ! [MASK] en riait de bon cœur.
+
+['oui', 'merci', 'toi', 'maman', 'madame']	Marguerite	— Oui, oui, [MASK], tu l’auras ce soir. Elle repartit ; et tout de suite je posai la petite enclume sur son billot ; je remis le vieux fer au feu, et j’empoignai le bâton du soufflet.
+
+['Strasbourg', 'Metz', 'Nancy', 'Paris', 'Bâle']	Silbermann	l’ancien Messager boiteux, de [MASK], pendu derrière la croisée, ne compte plus ; chacun veut connaître les affaires du pays, et lire son Courrier du Bas-Rhin, ou son Impartial de la Meurthe deux ou trois fois au moins par semaine ;
+
+['il', 'on', 'Il', 'elle', 'lui']	Chauvel	Il le fallait, car d’être pris en faisant cette contrebande-là, c’était un cas de galères. Toutes les fois qu’il arrivait de ses voyages, [MASK] entrait d’abord chez nous, à la nuit, quand l’auberge était vide et que tout se taisait au village.
+
+['Il', 'Elle', 'On', 'Cela', 'Noël']	Marguerite	[MASK] venait quelquefois ; nous causions contre la charmille, riant entre nous, pendant que le grand Létumier tapait des deux poings sur la table en criant : — C’est fini !… ça ne peut pas durer… Il faut déclarer que nous sommes tout !
+
+['Marie', 'maman', 'Jeanne', 'Maman', 'Madame']	Marguerite	Je regardais [MASK], qui ne parlait plus et qui regardait aussi ces choses, les yeux en l’air, je la regardais !… Elle avait le coude sur son panier ; et, comme je ne la quittais pas des yeux, elle le vit et me dit :
+
+['Napoléon', 'Versailles', 'Bonaparte', 'Voltaire', 'Monsieur']	Necker	Les gardes-françaises avaient reçu l’ordre de tirer, pas un ne bougea. La foule entra jusque dans les appartements de [MASK], et c’est en apprenant de la bouche du ministre lui-même qu’il restait, qu’elle consentit à se retirer. »
+
+['il', 'on', 'Joseph', 'Louis', 'Albert']	Nicolas	Nous voyions que cela lui faisait beaucoup de peine. Au moment de partir, nous nous embrassâmes ; il était pâle et demandait à voir les frères et sœurs, mais la mère ne voulut pas. Trois jours après, [MASK] partit pour son régiment de Royal-Allemand.
+
+['Marie', 'fille', 'enfant', 'Jean', 'Jeanne']	Michel	; mais le soir où mon frère venait de partir, ce brave homme voyant que je me désolais dans mon coin derrière le fourneau, me dit : — Ne te chagrine pas, [MASK]. Je sais que l’usurier Robin vous tient dans ses griffes ;
+
+['Il', 'Elle', '</s>NOTUSED', 'il', 'elle']	Chauvel	: — Quel malheur d’avoir dans sa famille des gueux pareils, des gens qui ne pensent qu’à hacher père et mère, frères et sœurs, et qui trouvent encore que c’est beau, parce que cela s’appelle discipline ! [MASK] répondit :
+
+['Pierre', 'le', 'Jean', 'David', 'Jacques']	Chauvel	Au lieu d’ensemencer le quart de mon enclos, j’ensemencerai le clos tout entier. — Et vous ferez bien. Toute terre est bonne pour ces racines, dit [MASK], mais principalement la terre sablonneuse. Ils sortirent, causant encore de ces choses ;
+
+['chacun', 'les', 'Pierrot', 'Marie', 'Camille']	Marguerite	Et la porte s’étant refermée, je restai deux minutes à ma place, écoutant [MASK] trotter dans leur baraque, monter l’escalier ; et puis, regardant la lampe s’allumer, à travers les fentes du volet : — Elle se couche ! me dis-je.
+
+['puis', 'toujours', 'parfois', 'là', 'souvent']	Nicole	la mère Catherine en grand bonnet blanc, les manches de chemise retroussées, aller et venir, un plat ou bien une tarte sur son tablier ; et [MASK], avec sa grande fourchette de fer, retourner les viandes dans les marmites, ou secouer dans un coin le panier à salade.
+
+['Jésus', 'Moïse', 'Dieu', 'Mahomet', 'David']	Chauvel	? Est-ce qu’on les enterrerait dans les champs, loin de la terre sainte, comme des animaux ? Est-ce qu’on les empêcherait de remplir une place, comme le dit [MASK] lui-même ? Est-ce que tout le monde crierait contre eux ?
+
+['Pompidou', 'Mitterrand', 'Giscard', 'Il', 'Lui']	Chauvel	[MASK], avant de sortir, disait toujours : — Allons, allons, ça va bien ! Les impôts, les dépenses et le déficit, tout augmente d’année en année. Nous prospérons : – plus on s’endette, plus on s’enrichit ! c’est clair.
+
+['</s>NOTUSED', 'Lui', 'Louis', 'Pierre', 'Paul']	Chauvel	Mais je suis content d’apprendre tout ça. Préparons-nous pour les élections, soyons prêts, et que le bon sens, la justice de tous se montrent. [MASK] alors ne serrait plus les lèvres ; il paraissait plein de confiance.
+
+['Elle', 'On', 'elle', 'Il', 'Madame']	Marguerite	[MASK] n’avait qu’à choisir ! Je trouvais même, en y pensant, qu’elle aurait tort de prendre un garçon forgeron, au lieu d’un fils de conseiller ou de syndic ; oui, ça me paraissait naturel et me désolait d’autant plus.
+
+['ça', 'monsieur', 'cela', 'Monsieur', 'enfant']	Jean	: — Qu’est-ce que c’est, [MASK] ? D’où cela vient-il ? Le parrain nous ayant dit d’en goûter, on trouva ces racines tellement bonnes, que toute la table disait : — Nous n’avons jamais rien mangé d’aussi bon !
+
+['moi', 'lui', 'maman', 'elle', 'nous']	Valentin	ils paraissaient bien fatigués et pourtant encore joyeux. Quelques-uns avaient bu un coup de trop, et chantaient en levant les bras le long des chemins. Mon père et [MASK] ne vinrent que plus tard. Nous aurions pu les chercher longtemps, avant de les trouver.
+
+['elle', 'il', 'Marie', 'Jeanne', 'Madeleine']	Marguerite	— Eh bien, [MASK] est seule sur la place ; son père court la ville avec des brochures. En ce moment nous descendions du balcon dans le grand corridor, qui menait à la salle d’audience du prévôt. Le tour des Baraquins était venu ;
+
+['moi', 'lui', 'toi', 'vous', 'nous']	Robin	Alors, gare à [MASK] ! Aussitôt payé, je lui fends la tête avec la hachette. Il faut être bien malheureux, pour avoir des idées pareilles. Le père ne répondait rien, et nous autres nous trouvions tout naturel d’être vendus ;
+
+['toi', 'hein', 'là', 'maman', 'maintenant']	Marguerite	— Tu veux donc me chagriner, [MASK] ? Comment je travaille pour toi… Je t’apporte une bêche en cadeau… Je suis content de te faire un plaisir, et tu me demandes ce que ça coûte ? Elle, alors, voyant ma figure désolée, s’écria
+
+['moi', 'madame', 'lui', 'Marie', 'maman']	Chauvel	et lui trouvait cela magnifique ! Je lui pardonnais de bien bon cœur, mais j’étais honteux de montrer sa lettre à maître Jean et à [MASK]. Le père et la mère, eux, pendant tout le temps que je l’avais lue, levaient les mains d’admiration
+
+['on', 'elle', 'il', 'qui', 'laquelle']	Nicole	Le petit syndic des boulangers, Merle, levait le couvercle des marmites, et se faisait tout expliquer par la mère Catherine ; [MASK] déployait une belle nappe blanche sur la table ; et le lieutenant de police ne bougeait pas de sa place.
+
+['Il', 'On', 'Elle', '</s>NOTUSED', 'Cela']	Jérôme	; le major m’a dit que ce ne sera rien. Seulement il ne faudra pas boire de vin ni d’eau-de-vie pendant une quinzaine, et tout se remettra dans l’ordre. [MASK] ne répondait toujours pas. À la fin, il dit en nous regardant :
+
+['lui', 'eux', 'Dieu', 'vous', 'moi']	Marguerite	Et lui, selon son habitude, me suivit en grossissant sa voix, ronflant du nez et traînant chaque mot, à la manière plaintive des anciens compagnons. Nos marteaux allaient en cadence ; et en songeant que je travaillais pour [MASK], mon cœur débordait de contentement.
+
+['Renard', 'Simon', 'Jacques', 'Louis', 'Thomas']	Jean	surtout à maître [MASK], qui voyait principalement son profit dans la chose, sans pourtant oublier tout à fait le reste. — Pourvu qu’elles aient seulement le goût des navets, disait-il, je n’en demande pas plus.
+
+[':', 'députés', ';', 'eux', '«']	Camus	c’était nous qui voulions faire bande à part, et qui défendions de vieux privilèges contraires aux droits de la nation ! » Sa Majesté nous prenait pour des enfants. » Plusieurs députés parlèrent contre cette lettre, entre autres [MASK].
+
+['un', 'Jean', 'Jeanne', 'une', 'Madame']	Marguerite	Ça lui ferait plaisir de s’entendre nommer. Aussitôt, écartant un peu les coudes, je retournai dans la foule jusqu’au haut des marches de la mairie, et j’aperçus [MASK], son panier sur un des bancs de la place des Ormes, qui vendait ses livres.
+
+['Henri', 'viens', '!', 'toi', 'oh']	Michel	Hé, [MASK], arrive donc !… Un jour comme celui-ci, tout le monde doit s’entendre. Et nous entrâmes ensemble dans la grande salle. On s’assit autour de la table, le long des fenêtres ;
+
+['il', 'elle', 'on', 'chacun', 'lui']	Nicolas	, et quand [MASK] disait quelque chose, tous riaient et criaient : — Ha ! ha ! ha !… C’est ça !… Ha ! ha ! ha ! Je ne savais pas ce que cela signifiait, j’étais bien étonné, d’autant plus que l’autre payait toujours.
+
+['Il', 'Tout', 'On', 'Demain', 'Minuit']	Valentin	Je m’affermissais en moi-même. Le soleil devenait toujours plus chaud ; les oiseaux chantaient, tout était rouge, la rosée tremblotait au bout des feuilles. Je voyais aussi la fumée blanche de notre forge monter lentement dans le ciel. [MASK] était levé.
+
+['On', 'Ils', 'Il', 'Rien', 'Personne']	Lisbeth	Plus tard, si la fille remplit bien son service, on verra. C’est tout ce qu’il faut pour commencer. On peut se figurer la joie de mes parents, lorsqu’ils apprirent ces bonnes nouvelles. [MASK] ne se tenait plus de contentement ;
+
+['lui', 'et', 'moi', 'mais', 'Charles']	Étienne	Je les aimais bien, et eux m’aimaient bien aussi, [MASK] surtout ! Il venait à ma rencontre tous les soirs, en se balançant et riant de plaisir ; il me prenait par la main et me disait : —
+
+['Allons', 'Maman', 'Oh', 'Ah', 'Ami']	Michel	Ah ! c’est qu’à force de souffrir, on se méfie de tout. À chaque instant, le pauvre homme me disait : — [MASK], prends garde ! Ne disons rien !… Taisons-nous !… Ça finira mal !… Moi, j’avais plus de confiance ;
+
+['moi', 'toi', 'maintenant', 'hein', 'là']	Michel	on aurait dit qu’il revivait. — Ah ! c’est bon, fit-il. Je savais bien que tu resterais, [MASK] !… Oui, je suis bien content de t’avoir parlé !… Elle n’a pas de raison… elle s’emporte trop.
+
+['allez', 'partez', 'Allez', 'aller', 'merci']	Marguerite	Elle était penchée par la fenêtre et me donnait la main. Le conducteur venait d’entrer voir au bureau si les places étaient payées ; il remonta sur son siège en disant : — Allez ! Et les chevaux partirent, comme nous criions tous ensemble. — Adieu… adieu… [MASK] !…
+

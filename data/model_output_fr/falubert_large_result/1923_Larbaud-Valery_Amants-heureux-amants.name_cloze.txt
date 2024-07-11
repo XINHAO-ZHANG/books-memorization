@@ -1,0 +1,200 @@
+[',', 'elle', 'il', 'Elle', 'Il']	Lucas	[MASK] n’a jamais pu trouver de sujet de conversation approprié à la tournure d’esprit de son cousin Jean, chasseur et connaisseur en chevaux et qui méprise les livres. « Femmes » est un sujet à sa portée, faute de mieux. Donc, cette femme, cette jolie inconnue.
+
+['le', "l'", 'on', 'la', "s'"]	Marc	En partant elle ferma la porte d’entrée si doucement et si lentement que [MASK] sentit qu’elle faisait effort pour dominer son trouble ou son irritation ; et même, un instant, il eut peur qu’elle ne revînt plus. Elle revint ;
+
+['ils', 'admirateurs', 'eux', 'autres', 'artistes']	Inga	Et comme les amis et admirateurs d’[MASK] la peuvent voir. Pas un ne se doute que c’est une femme passionnée, une grande amoureuse, une âme ardente dont ils sont aussi éloignés qu’ils peuvent l’être d’un saint ou d’un grand homme.
+
+['Alice', 'Emma', 'Isabelle', 'Anne', 'Hélène']	Édith	; et peut-être même qu’en observant mieux et en y réfléchissant davantage, il aurait trouvé, dans le caractère même d’[MASK], l’explication — plus ou moins flatteuse pour son amour-propre — de l’affection très réelle qu’elle avait pour lui.
+
+[',', ';', '"', 'A', 'de']	Crosland	! A présent, je hais tous les hommes. �� Faites une exception pour moi, mademoiselle [MASK]. Mais que vous me haïssiez ou non, il faut que je vous dise ceci. Vous savez quelle amitié j’avais pour votre mère.
+
+['de', 'le', ',', 'les', 'la']	Isée	Enfin tout ce qu’il peut y avoir en moi de désir, d’affection et de tendresse est concentré dans ma femme et satisfait par elle. — Et ainsi je sortais de ces pensées, de cette retraite, pour reprendre mes amours avec [MASK] ;
+
+['une', "l'", 'toutes', 'la', 'chacune']	Lavinie	Mais qui sait si elle ne l’asservirait pas ? Et puis, enfin, il aimait les femmes plutôt en peintre et en sculpteur qu’en moraliste et en romancier, et [MASK] était belle, tandis que l’autre était seulement bien parée. Pourtant il devait —
+
+['"', ',', '...', ':', 'un']	Torre	» Tiens, on s’est arrêté et je ne m’en suis pas aperçu. [MASK] Annunziata sans doute ? Oui, je me rappelle l’avoir lu. « Tu nocte vel atra Lumen, et in solis … » Ils sont beaux, ceux-là aussi ;
+
+['il', 'Il', 'elle', 'on', 'y']	Isabelle	— Il a son portefeuille ? oui ; environ trois mille lire en billets, et [MASK] a l’argent de la maison pour une semaine. Il a ses clés. Adieu. Regarde encore une fois autour de toi. Adieu. O ragazza mia !
+
+['elle', 'Elle', 'et', 'qui', 'on']	Queenie	? Une surprise que ces dames font de temps en temps aux convalescents des hôpitaux : une idée si charitable… Malgré notre deuil je n’ai pas voulu que ma fille refusât l’invitation de ces dames. [MASK] m’a promis qu’elle viendrait après la visite.
+
+['de', ',', 'les', 'le', 'la']	Jean	Une femme raisonnable qui s’applique à tracer bien droit la ligne de son existence ; on ne lui en contera pas ; capable de chasser un homme comme une mouche. Comme c’est aimable, une honnête femme, [MASK]. Vois celles des cafés : des sauvages ;
+
+['il', 'on', 'tout', 'cela', 'lui']	Inga	S’il savait ! Mais comment prévoir ce qu’il en penserait ? S’il serait tranquillisé ou s’il souffrirait davantage. Il romprait, peut-être, et [MASK] tient à le garder, comme distraction et comme écran. Et puis ça ne le regarde pas.
+
+['Elle', '</s>', 'Il', 'elle', 'On']	Marc	Enfin, Dieu merci, c’est tout fini. — Et maintenant ? » [MASK] vit qu’elle était arrivée au moment le plus pénible de sa confession, et il mit toute la tendresse et toute l’amitié qu’il put dans le regard dont il accompagna sa question.
+
+['"', 'ma', 'je', 'Je', '...']	Irène	si une fête se prépare, si une douce musique résonne, je l’avertis : « Viens, [MASK]. » (Ce jour de la procession où elle était près de moi sur le balcon et où pendant un instant je l’ai vue agenouillée dans mon ombre…)
+
+['il', 'Il', ',', 'et', ')']	Marc	« Mais l’amour, mon Dieu, l’amour n’est pas un péché. » [MASK] n’avait pu s’empêcher de sourire, et il avait surnommé cette dame, pour lui-même : « L’amore-non-è-peccato », mais il avait été troublé.
+
+['la', ',', 'une', "l'", 'le']	Romana	Et quand [MASK], remplaçant Inga à mon côté, est venue se faire bercer à son tour : son étonnement ; le coup au cœur, la rougeur qui a couvert ses joues. Comme ses yeux s’agrandissaient pour emporter leur image. Elles étaient pour lui, quoi
+
+['</s>', 'Voilà', 'Oui', 'Bref', '…']	Lucien	Ton peuple sera mon peuple. « Tu es confiante et amie de l’homme » : Σὐ εἴ πιστή καί φίλανδρος. D’où cela me revient-il ? Ah ! [MASK] : le seul dialogue que j’aie aimé suffisamment pour le retenir.
+
+['sa', 'une', 'femme', 'la', 'dame']	Isabelle	Et cependant… Lorsqu’il songeait à l’avenir, à dans deux ans d’ici par exemple, il se voyait seul. Un jour, ayant eu affaire après déjeuner, il était sorti sans [MASK], et il avait été surpris de ne pas la trouver à dîner.
+
+['il', 'Jean', 'Pierre', 'Paul', 'Nicolas']	Marc	… Oui, je crois qu’elle l’a. » Puis elle ajouta, avec un sourire que [MASK] ne comprit pas bien, ou qu’il ne voulut pas comprendre : « Ce n’est qu’une enfant, vous savez : quatorze ans le 20 décembre dernier !
+
+['68', '67', '69', '48', '8']	Winifred	Toutefois, pour cette année, et en attendant l’idéal, j’aimerais faire une expérience de la vie conjugale. Six mois, un an au plus, d’intimité complète, pour savoir . Possibles : [MASK]. — Coquette ; et si je m’engageais à fond : jalousie.
+
+['toi', 'elle', 'moi', 'la', 'celle']	Inga	toi humblement à ta vanité. Et avoue que dans le fond de ton cœur ce n’est pas [MASK], l’amie déjà ancienne, que tu regrettes le plus, mais l’autre, celle qui est nouvelle pour toi, la mal connue.
+
+['elle', 'lui', 'une', 'la', 'son']	Marc	Elle devrait se considérer comme son invitée, et, en échange, elle dirigerait sa maison, avec pleine autorité sur la servante et dans tous les détails du ménage, et serait en somme, aux yeux de toutes les personnes qui pourraient avoir affaire à [MASK], son intendante.
+
+['le', 'alors', 'qui', ',', "l'"]	Marc	Vous êtes bien trop subjectif… » Et [MASK], agacé, n’avait pu s’empêcher de lui dire : « Édith, laissez donc vos philosophes et ne lisez que les livres qui vous amusent. — Oh ! mais c’est de l’hédonisme tout pur ! »
+
+['dit-elle', 'dit-il', '"', 'matin', 'soir']	Queenie	; et elle sentait toujours en elle son âme d’enfant libre, rêveuse, brutale et fermée. « C’est votre oncle qui vous a fait cette surprise, [MASK]. — Oh ! c’est lui ? dit-elle. — Qui d’autre pourrait-ce être ?
+
+['bien', 'ainsi', 'attentivement', 'mieux', 'son']	Ruby	» Il la lui donna, tout ému qu’elle l’eût appelé par son prénom. C’était la première fois ; et en regardant [MASK], il comprit, au sourire qu’il vit passer dans ses yeux, qu’elle savait tous leurs secrets.
+
+['tout', 'rien', 'dîner', 'plus', "l'"]	Irène	Mais à cet instant-là, il ne songeait pas à [MASK], tout préoccupé qu’il était de l’impolitesse énorme qu’il commettait en ne se rendant pas à cette invitation qu’il avait acceptée, furieux de penser qu’on l’attendait peut-être pour se mettre à table.
+
+['...', 'JE', 'je', 'se', 'NE']	Graziella	Mais il faut surveiller la fenêtre. IV Il éteint la lampe… L’aube ; son silence, sa frêle gravité ; la fée venue sans bruit et qui se tient debout dans la chambre. Voici arrivé l’instant décisif. Pourvu que [MASK] dorme encore…
+
+['une', 'celle-ci', 'nouveau', 'celui-ci', 'lui']	Queenie	Il était déjà tard, et après avoir dîné sans appétit, il rentra chez lui. Alors il se mit à écrire à [MASK] une lettre d’excuses, mais dans laquelle il lui répétait son offre d’un poste de secrétaire.
+
+['on', 'ne', 'même', 'personne', 'il']	Inga	« douces et belles », des filles saines, bien d’aplomb, sans caractère, flexibles, faciles à persuader et à commander, et pour tout le reste tellement comme tout le monde que même [MASK] ne pouvait pas les idéaliser.
+
+['"', '...', ':', '/', '(']	Queenie	: « [MASK]… » Et l’instant d’après il était si près d’elle que le beau visage clair et les yeux bleus n’étaient plus qu’une seule tache fraîche devant ses yeux, et que ses lèvres touchaient les douces lèvres humides, et qu’il sentait passer leur souffle à travers sa moustache.
+
+['sable', 'signes', 'poussière', 'jours', 'lettres']	Virgile	Quelques olives, un poisson, de l’eau fraîche, une ou un esclave, et en voilà pour toute la journée, qu’on passe à tracer des lettres et des signes dans du sable fin… Mais tu es devenu paresseux ; tu ne lis plus tes dix vers de [MASK] tous les matins.
+
+['adieu', 'dit-il', 'monsieur', 'dit-elle', 'madame']	Marc	« Eh bien, adieu, [MASK] ; j’ai sommeil et je vais me coucher. Restez où vous êtes, j’ai quelque chose de sérieux à vous dire. Si vous approchez, j’appelle et je réveille les voisins.
+
+['une', 'un', 'autrui', 'âme', 'elle-même']	Inga	Je ne me donne pas ; vous me prenez comme un voleur, tristement, honteusement, parce que les circonstances vous favorisent et grâce à la complicité d’[MASK], qui ne sait plus ce qu’elle fait ; mais réduit à vos seuls mérites vous ne m’auriez jamais obtenue.
+
+['DE', 'bien', 'D', '...', 'S']	Queenie	? Oui, c’est cela, calmez-vous. Et ce soir je vous attends chez nous à l’heure du thé. Calmez-vous, ma chérie. Là, ma belle. Eh bien, au revoir, [MASK]… »
+
+['elle', 'il', 'on', 'Elle', 'Il']	Édith	Il aurait pu mieux faire après toute la peine qu’[MASK] s’était donnée pour lui ; mais enfin… Naturellement c’est votre oncle qui, étant votre tuteur, aura la garde de cette somme jusqu’à votre majorité. Il vous expliquera tout cela.
+
+[',', 'en', 'est', 'à', 'un']	Isabelle	Elle, avec la nouvelle amie, la cara, la diletta, l’« unica ». Et moi, tout seul, probablement. Mon plus secret conseil… Mon plus secret conseil et mon doux entretien, Pensers, chers confidents d’un amour si fidèle, Tenez-moi compagnie et parlons d’[MASK]…
+
+[',', 'est', 'et', 'soit', 'ou']	Minerve	[MASK] déguisée en berger. La description est sommaire ; mais il y a le détail : πανάπαλος : le corps délicat et tendre comme l’ont les fils des Princes. Et les fils des Princes étaient là, assis aux tables, tandis que l’aède chantait.
+
+['il', "qu'", ',', 'Il', 'et']	Marc	[MASK] n’était pas encore très sûr de ses goûts en poésie, et il se rappela qu’il avait dit, précisément à propos de celle-ci, qu’elle était un peu trop dans le genre des cartes postales à sujet sentimental.
+
+['la', 'son', "l'", 'sa', 'ses']	Marc	? Cessez, ou je crie. Prenez garde ! » Elle échappa soudain aux mains de [MASK], et d’un bond elle atteignit la porte, dont elle s’était approchée peu à peu et dont elle saisit la poignée qu’elle ne lâcha plus.
+
+['Madame', 'Elle', 'Monsieur', ',', 'elle']	Graziella	Ses yeux rouges. L’heure du thé dans le salottino. [MASK] apportant le service pour deux. Monsieur n’est pas encore rentré ; je ne sais que penser. L’autre essayant de la consoler avec des phrases en napolitain qu’elle ne comprend pas.
+
+['lui', 'vous', 'nous', 'le', "l'"]	Marc	Il y avait six semaines de cela ; mais, par bonheur, Dieu dans sa miséricorde avait déjà rappelé à lui le pauvre petit être qui s’était ainsi fourvoyé dans ce monde. C’était à partir du moment où ses ennuis avaient commencé qu’elle avait cessé d’écrire à [MASK].
+
+['elle', 'celle-ci', 'elle-même', 'ELLE', 'on']	Queenie	… Oui, ce serait amusant de voir si l’autre gamine voudrait mordre à l’hameçon, et si [MASK] était capable de se montrer jalouse. Un passe-temps comme un autre. Ce sont précisément ces petites intrigues qui nous font mieux sentir le côté sérieux de notre vie, de nos travaux et de nos affaires.
+
+['de', ',', 'la', 'et', 'le']	Picerno	Il cherchait à imaginer tout ce corps sous la protection de la robe inviolable et de la jupe sacrée, il lui faisait sa place dans le lit où il le désirait, s’endormant le bras allongé, légèrement posé, comme sur elle. [MASK] .
+
+['on', 'se', ',', 'le', 'ON']	Pauline	Probablement, ils ne tiendraient compte que des désordres, et diraient que le reste est hypocrisie, ne voudraient pas se donner la peine d’examiner de plus près. [MASK] dirait qu’elle se conduit mal ; et c’est vrai, comme on dit d’un chauffeur qu’il conduit mal
+
+['C', 'Com', 'F', 'Comm', 'S']	Thomas	Il revient sur ses pas, referme le livre — [MASK] de Quincey — le repose à sa place sur un rayon — Complete Works . Il n’aimerait pas le retrouver ouvert sur la table, comme s’il avait rêvé ce voyage qu’il va faire.
+
+['la', '"', 'ces', "l'", '_']	Finja	Au moment où le train partira nous dirons tous trois en même temps : « Addio, cari villani ! » La première fois, c’était pour nous empêcher d’être tristes à l’instant de la séparation, après le retour de [MASK]. Addio, cari…
+
+['Elle', '...', 'elle', 'qui', 'Mais']	Pauline	Mais [MASK], tout en la sentant, n’y a pas cédé. Elle a plutôt insisté sur ce qu’il y avait de trop vif ou d’un peu sans gêne dans leur beau départ. Parce qu’elle désire trouver quelque chose à redire en elles.
+
+[',', 'le', 'la', 's', 'STR']	Salerno	Le donner à un porteur. (Tâcher de parler avec désinvolture.) « Facchino, senta. Prenda quel coso li ; si, è buono, tutto fresco dentro, l’ho comprato a [MASK], ma sono svogliato e mi farebbe male. »
+
+['elle', 'il', 'Molière', 'on', 'Fontaine']	Boileau	Il y a des hommes qui épousent une petite pensionnaire timide et la voient se transformer en une furie. Il est question de cela dans la Satire sur les Femmes ; et [MASK] a très bien saisi le ridicule de la femme querelleuse et dominatrice : la « fontange altière » et la « bourgeoise sauvage ».
+
+['personne', 'qui', ',', 'femme', "l'"]	Inga	Mais [MASK], lorsqu’elle aime, se dépasse : elle devient la personne aimée, et il y a désormais entre elles un pacte si étroit que personne ne peut espérer s’y joindre. Emmurée dans son amour. Volontairement détournée, sourde, implacable, pétrifiée dans son amour.
+
+['vous', 'toi', 'moi', 'nous', 'lui']	Mayfair	Était-ce que vous parliez sans réfléchir ? Ou, plutôt, que vous n’aviez pas confiance en moi et que… vous trouviez que nous étions, là-bas, trop près de [MASK] ? Était-ce cela ? — Peut-être.
+
+['France', 'fer', 'Lucy', 'x', 'ton']	Queenie	« Oui, ma chère madame Longhurst, dit-il en se tournant vers la tante de [MASK], oui : il suffit de vouloir les choses avec intensité, et alors on découvre tout, et, comme dit le proverbe chinois : « Avec le cérémonial et la musique tout est possible dans l’Empire.
+
+['aimable', 'bien', 'agréable', 'facilement', 'bonne']	Ruby	Peut-être parviendrait-il à retrouver aussi [MASK]… Ah, qu’elle était donc désagréable, cette femme qui se mettait ainsi à la traverse de ses plaisirs ! Pourtant, ce même soir, elle se montra si douce, tendre et complaisante qu’il eut comme l’impression de la retrouver après une séparation.
+
+['je', 'de', 'Je', 'quand', 'vous']	Marc	— Oh ! ne soyez pas si égoïste, [MASK] : pour si peu de temps que nous avons à être ensemble. Quand il m’arrive de penser, mon cher, que chaque jour qui passe me rapproche du jour où vous partirez, je sens une douleur en moi.
+
+['elle', 'il', 'la', 'le', "l'"]	Baudelaire	Renseignements pris, c’était une Altesse Royale. Mieux encore, comme erreur : les gens pour qui [MASK] n’était qu’un prodigue qui faisait le désespoir de sa famille. Par contre : les grands hommes de petits groupes et les célébrités locales.
+
+['nos', 'ces', 'la', 'toutes', "l'"]	Poole	Elle aimerait ça, comme moi. Faire partie du joli mouvement de ces rues, y contribuer, elle par sa jeunesse et sa grâce et moi par une tenue exemplaire. Penser à faire donner un coup de fer aux deux complets de [MASK].
+
+['pitié', 'celui-ci', 'Laurent', 'lui', 'Robert']	Marc	Il éprouva un sentiment de pitié et presque de répugnance. Mais elle ne songeait pas à se recouvrir, et quand le regard de [MASK] rencontra le sien, elle sourit naïvement en écartant, de sa main libre, une longue mèche claire qui la gênait pour voir.
+
+['Il', 'il', '"', 'en', 'et']	Calixte	Mais ils collent leurs étiquettes partout et toujours, et n’imaginant même pas qu’il y ait des gens qui peuvent paraître ceci et être cela. [MASK] disant : « Je me demande qui peut bien être cette vieille institutrice ? » Renseignements pris, c’était une Altesse Royale.
+
+['personne', 'jamais', 'un', 'la', 'le']	Queenie	Elle revint ; mais il comprit, à son air dépité et à son affectation d’indifférence, d’abord qu’il valait mieux ne faire aucune allusion à ce qui s’était passé, et ensuite qu’il ne devait plus espérer revoir [MASK] dans la maison.
+
+['on', 'il', 'elle', 'maman', 'celui-ci']	Édith	il avait dîné en ville et était rentré tard ; mais [MASK] l’avait prévenu : « Je ferai venir ma fille pour m’aider à faire les bagages et à mettre les housses aux meubles. » Elle devait être couchée dans la chambre qu’on n’utilisait pas.
+
+['cela', "l'", 'cette', '...', 'la']	Inga	? Mais non, je ne la préférais pas à [MASK]. C’était autre chose. Ah, justement, c’était… Allons, laisser cela, n’y plus penser. Tout s’est très bien passé et ne pouvait pas se passer mieux.
+
+['une', 'elle', 'un', 'eux', 'autrui']	Inga	Plus doux que tous les autres souvenirs, pourtant bien plus intimes et bien plus précis, que j’ai d’elle. Plus doux que tous les autres baisers donnés, avant et après celui-là, en présence d’[MASK].
+
+['je', 'Monsieur', '...', 'tout', 'vraiment']	Reggie	Elle dit donc : « Je regrette, [MASK]. » Et il répondit entre ses dents : « Si nous n’étions pas dans la rue, j’aimerais vous embrasser. » Et il ajouta au bout d’un moment : « Et tout cela pour un morceau de saumon !
+
+['autrui', 'esprit', 'âme', 'argent', 'hommes']	Isée	Une partie de ce reliquat de vingt-cinq mille francs sur quoi il n’avait pas compté (et dont la provenance, malgré l’explication du notaire, lui semble obscure, ou providentielle) est employée à ces dépenses, qui ne sont pas des générosités mais d’humbles hommages à la beauté d’[MASK].
+
+['on', 'il', 'On', 'elle', 'Il']	Marc	Et que vais-je faire ? Je ne peux aller dans la rue vêtue comme cela. » Mais tout s’arrangea. [MASK] sortit, on entendit le coup de sifflet du concierge, et au bout d’un instant un taxi s’arrêtait devant la porte.
+
+['la', "l'", 'son', 'sa', 'notre']	Gênes	» (C’était pour maquiller la scène.) Il lui prend la main qu’il sent si frémissante, et il lui voit une figure si bouleversée (hideuse) qu’il préfère ne pas insister. Silence complet jusqu’à l’arrivée à [MASK].
+
+['s', 'à', 'elle', 'es', 'une']	Hedvige	Son anneau, peut-être celui de sa mère, je serais fâché qu’elle fût mariée, car elle doit être fidèle à son mari, ou alors ce serait un siège interminable ; bien moins facile qu’[MASK], dont je t’ai parlé : plus de préjug��s
+
+[',', 'de', 'la', 'à', 'le']	Irène	[MASK] a vu qu’elle te plaisait et cela lui plaît, et ce que tu appelles brutalement et bêtement des avances, c’est sa réponse à ce qu’elle lit dans tes yeux. Cette manie que tu as de croire qu’il n’est pas possible que tu plaises à une femme
+
+['elle', 'lui', 'eux', 'cela', 'ELLE']	Irène	Mais avec [MASK], il se passait de l’intermédiaire des sens. Elle était en lui, leurs limites confondues, comment aurait-il songé à son corps ? Elle pouvait devenir laide, infirme, cela ne diminuerait en rien son amour.
+
+['la', 'Dieu', 'Famille', 'Marie', "l'"]	Marie	Me rappelant mon union avec Elle (puisqu’il y avait, dans « le Très Saint Rosaire » : « … le Sang du Fils et de [MASK] dans la Communion »), lui demander, oser lui demander de prendre ces deux femmes sous sa protection ;
+
+['il', 'elle', 'je', 'on', 'Il']	Marc	! » avec un sourire triste qui fit que [MASK] la regarda, surpris. Elle avait raison : elle était vêtue trop simplement pour qu’il pût l’emmener dans cette élégante boutique de thé. Même, trop pauvrement vêtue. Il essaya de réparer sa bévue.
+
+['zéro', 'mille', 'elle', 'de', 'la']	Chelsea	Tant pis, il l’aiderait en dépit d’elle-même à « remonter ». Il lui enverrait un chèque de quarante livres dès le lendemain. Pour lui, maintenant, qu’est-ce que c’était que quarante livres ? Jadis, à [MASK], il vivait tout un mois avec cette somme
+
+['cela', 'est', 'que', '-', 'elle']	Baragiano	Elle est pardonnée : cette action ridicule, enfantine, ne signifie rien. Mais la façon dont elle s’est défendue, ce mensonge, et cette peur qu’elle n’a pas hésité à me faire, — cela reste. Ma chaîne s’est alourdie encore. [MASK] .
+
+['Hélène', 'elle', 'Isabelle', 'Aurore', 'Agnès']	Inga	Avec sa figure qui paraissait plus sombre et plus mate encore près du teint clair d’[MASK]. Aussi l’échancrure de son corsage : les pointes aux épaules, ne découvrant que le haut de la gorge, et la mince chaîne autour du cou, avec la médaille du couvent où elle a été élevée.
+
+['il', ',', 'et', 'Il', 'elle']	Marc	[MASK] releva la vitre, puis, se forçant un peu pour sourire, il dit : « C’est votre nom, Queenie ? — Oui ; pourquoi pas ? — J’avais pensé que c’était un nom d’amitié que vous donnait votre mère.
+
+['il', 'elle', 'lui', 'avait', 'se']	Marc	Pourtant lorsque, dans le reste de la soirée, [MASK] dit quelque chose d’assez drôle, elle le regarda, sans sourire, mais avec un air d’approbation, et il sentit une chaleur et une détente en lui, et un soudain contentement de soi-même.
+
+['vous', 'toi', 'lui', 'Lui', 'personne']	Pauline	Lui faire comprendre que je regrette, — non ! je ne regrette pas, au contraire. Enfin, oui. N’avoir pas fait attention à ses mains avant cet instant. C’est finir par le commencement. Ainsi j’ai été plus lent que [MASK] à reconnaître la grâce.
+
+['bien', 'oui', 'monsieur', 'alors', 'dit-il']	Queenie	; quatre-vingts livres par mois pour le ménage ; vingt livres par mois pour son argent de poche, et ses notes personnelles payées jusqu’à concurrence de cinq cents livres par an. — Eh bien, [MASK], que diriez-vous, ma chère ? Ah !
+
+['Elle', 'et', 'elle', 'Et', ',']	Queenie	Songez donc : il sait tout, et il a tout pardonné. » [MASK] se leva frémissante. « Il n’a rien à pardonner ! » cria-t-elle, et l’indignation la fit rester haletante, ne trouvant plus de paroles.
+
+['la', "l'", 'tout', 'pros', 'toutes']	Chelsea	Et c’était là, sans doute, que s’étaient réfugiées les anciennes petites divinités proscrites, celles de la rive, celles qui protégeaient les potiers, celles de la forge et du pré communal — toutes les nymphes et les fées de [MASK] !
+
+['elle', 'Elle', 'et', 'Il', 'Et']	Marc	Oh, peu à peu, cela deviendra tout à fait gentil ici. » Et elle regarda ses tristes murs avec ravissement, comme si elle les voyait déjà tendus d’un joli papier et ornés de gravures. [MASK] vit qu’il n’y avait même pas une carpette devant le lit.
+
+['une', 'de', 'à', 'rentré', 'un']	Isabelle	; et, sans doute, ramener [MASK] à son mari serait un heureux dénouement à cette comédie sans intérêt. Plus tard il songerait : « J’avais à peine vingt-deux ans ; une femme, je ne sais plus comment, s’était fourvoyée dans ma vie ;
+
+[',', 'le', 'de', 'la', "l'"]	Queenie	Pourtant, ce même soir, elle se montra si douce, tendre et complaisante qu’il eut comme l’impression de la retrouver après une séparation. Et puis elle était sa femme, et elle était là, sous sa main. Il fit pourtant quelque effort pour retrouver [MASK]
+
+['celui-ci', 'Jean', 'Pierre', 'Dieu', 'il']	Marc	Qu’était-ce donc ? Eh oui : sa jupe était plus longue. Elle avait décousu un des volants de sa jupe de deuil, et l’avait recousu plus bas. Elle rougit et détourna la tête quand elle vit que [MASK] s’était aperçu de ce changement.
+
+['est', '...', '-', 'chauffe', 'bien']	Édith	? L’hiver n’est pas tellement froid, ici, et vous m’avez dit que vous en aviez déjà passé un tout entier. Votre appartement… — Notre appartement, [MASK]. — Non, votre appartement — est facile à chauffer ; voyez ce beau feu.
+
+["s'", 'tous', '...', "c'", 'Grande']	Queenie	Le malheur et la pauvreté de [MASK] étaient entre eux comme une barrière infranchissable. Pourtant… puisqu’elle n’avait plus rien à perdre, pourquoi la belle jeune fille d’à présent ne voulait-elle pas se souvenir des faveurs que la grande petite fille d’autrefois lui avait accordées
+
+['che', 'con', 'ma', 'e', 'ch']	Maria	C’est peut-être cela qui m’a fait comprendre pour la première fois ce qu’on pouvait faire avec des mots. « Dio ti salvi, [MASK], piena di grazia… » Croire, simplement, comme autrefois… Serait-ce possible ? Elle.
+
+['la', 'le', 'les', "l'", 'et']	Isabelle	! Elle est aussi sotte, aussi humiliante que toute cette lamentable histoire de ses relations avec [MASK]. Enfin, dans huit jours… mettons quinze… tout cela sera oublié, le sillage même effacé. Libre ! libre de toute cette médiocrité, de tout ce péché ;
+
+['il', 'elle', 'on', 'Il', 'personne']	Graziella	! dans le salottino, dans leur chambre, sans elle ! Il n’y aura plus de fleurs fraîches sur sa table de travail ; [MASK] n’y pensera pas, ne saurait même pas choisir les fleurs, vieille sorcière, « la strega dal nome poetico ».
+
+['il', 'lui', 'celui-ci', 'Tom', 'Ben']	Marc	Quant aux relations qu’elle aurait avec lui… D’abord, ne serait-elle pas sa secrétaire ? et ensuite, elle espérait que [MASK] se comporterait comme il s’était comporté pendant ces deux jours qu’elle avait passés avec lui dernièrement. Elle y veillerait.
+
+['la', 'cette', 'sa', "l'", 'Madame']	Isabelle	dans ce journal qui donne la liste des arrivées aux hôtels ? Comment s’en souviendrait-elle ? Il n’y a aucune crainte à avoir. L’important, c’est d’en parler le moins possible à [MASK], et surtout qu’elle ne sache pas l’adresse de cette dame.
+
+["d'", 'madame', ',', "jusqu'", 'maman']	Queenie	Vous pourriez même vous passer de servante ; il y a une chambre à coucher qui reste vide, je pourrais faire venir ma fille pour m’aider, et à nous deux nous tiendrions votre ménage. — Faire venir [MASK] ici ?
+
+['oui', 'bien', 'dame', 'vous', 'alors']	Marc	Si bien élevée… Oh ! et blonde et blanche et douce comme vous ! C’est étonnant comme vous vous ressemblez… J’aimerais savoir jusqu’à quel point va la ressemblance. A-t-elle ce même petit signe… ? — Oh [MASK], vous posez des questions !
+
+['moi-même', 'Madame', 'vous-même', 'madame', 'Monsieur']	Irène	Je suis presque infidèle à [MASK]. Enfin, à la maison. De nous deux, c’est moi le plus calme ; non, exactement : le plus ridicule. Elle s’est laissée tomber sur le canapé de notre chambre. Monsieur déshabillera Madame ce soir.
+
+[',', 'ou', ';', 'autrui', 'le']	Queenie	Il déchira la page commencée, et prit une nouvelle feuille de papier. Il essaya d’être plus cohérent, et de ne rien dire qui pût effaroucher [MASK], éveiller ses scrupules et sa méfiance, ou devenir — sait-on jamais ? — une arme entre ses mains.
+
+['il', 'elle', 'celui-ci', 'on', 'celle-ci']	Marc	Mais quand [MASK] parvint au coin de la rue, il ne la vit plus, et en conclut qu’elle était montée dans l’autobus. Personne n’avait fait attention à sa mésaventure, et du reste que lui importait ?
+
+['tout', 'que', 'cela', 'quand', 'ça']	Irène	Ma femme, et toutes ces femmes pour la servir : les vendeuses empressées, les essayeuses agenouillées, et ces Panathénées en son honneur : le défilé des mannequins. (Avec [MASK] cela recommencerait sur une plus grande échelle.)
+
+["l'", 'son', 'cette', 'sa', 'la']	Queenie	? Si l’autre n’était pas parti ? » Il se sentit rougir. Était-il possible qu’elle l’eût si effrontément dupé ? Mais non, toutes les actions, toutes les paroles de [MASK], et ce dernier incident l’assuraient qu’elle était libre.
+
+['nous', 'vous', 'toi', 'cela', 'ça']	Finja	Non, non : rien à fonder sur le souvenir de [MASK] ; rien de solide, pas même un séjour ensemble ici. Son meilleur ami, le seul à qui elle a parlé de son enfance et dit son secret, les autres ?
+
+['par', 'la', 'livre', 'M.', "l'"]	Thomas	La lettre de recommandation que son tuteur lui avait donnée pour cette dame napolitaine. XV Pourvu qu’il ne l’ait pas perdue, qu’elle ne se soit pas chiffonnée dans ses bagages… Non, elle doit être dans le tome VIII du [MASK] de Quincey.
+

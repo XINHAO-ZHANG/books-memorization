@@ -1,0 +1,200 @@
+['</s>', '-', '"', 'il', 'on']	Maigret	C’était sombre et poisseux, saturé de l’âcre odeur qui régnait dans le bateau tout entier. Des tricots rayés de bleu séchaient sur le pont. [MASK] faillit s’étaler en traversant la passerelle grasse de détritus de poisson. — Vous avez trouvé quelque chose ?
+
+['il', 'napoléon', 'celui-ci', 'maurice', 'robert']	Maigret	10 Les événements du troisième jour Quand [MASK] descendit de sa chambre vers huit heures du matin, il avait la tête vide, la poitrine vague, comme quand on a trop bu. — Ça ne marche pas comme tu voudrais ? lui avait demandé sa femme.
+
+['</s>', 'il', 'on', 'elle', '--il']	Maigret	N’était-ce qu’une comédie ? — Si vous devez m’arrêter, faites-le tout de suite ! Mais je demande à être confronté avec ce monsieur… On verra bien !… [MASK] avait pressé un timbre électrique. Le secrétaire du commissaire montrait son visage inquiet.
+
+['enfin', 'maintenant', 'monsieur', 'tiens', 'alors']	Adèle	! — Chéri, va !… — Et pourquoi me tairais-je ? — Parce que ! — Je dois dire que la réponse est intelligente… — Est-ce que tu vas te taire ? — Si cela me plaît… — [MASK], je te préviens que…
+
+['il', 'lui', 'celui-ci', 'lui-même', 'jean']	Fallut	Et son regard cueillait par-ci par-là un détail : les gants, par exemple, énormes, déformés, que [MASK] ne devait mettre que pendant les heures de veille et qu’il laissait ici… En se tournant à demi, on apercevait le château d’arrière.
+
+[',', '-', 'commencer', '...', 'finir']	Jean-Marie	— Un hasard, et n’importe qui pouvait entendre, tout apprendre du même coup… Fallut était fou d’angoisse… — J’ai vu son geste pour happer [MASK] par les épaules, mais, au lieu de le saisir, il l’a fait tomber en avant…
+
+[':', ';', ',', 'de', 'et']	Maigret	Moi, il faut que je reparte demain, à cause des examens… Est-ce que tu crois ?… — Demain ! Nous verrons ! répéta [MASK]. Et, tandis qu’il se couchait, sa femme murmura dans un demi-réveil : — N’oublie pas d’éteindre la lumière
+
+['on', 'il', 'dieu', 'elle', 'chacun']	Fallut	Et chemin faisant, il grommelait : — [MASK] savait qu’il allait mourir !… Mais savait-il qu’il serait tué ?… Est-ce qu’il a voulu, d’avance, sauver son assassin, ou avait-il seulement envie de se suicider ?…
+
+['jésus', 'dieu', 'fer', 'john', 'droite']	Fallut	Le capitaine a fait un mouvement pour le gifler… Le gosse, très souple, a évité le coup, a crié quelque chose qui devait être une nouvelle menace de parler… — Et la main de [MASK] a rencontré un hauban… Il a dû se faire mal…
+
+['il', '</s>', '-', 'elle', '...']	Maigret	De l’encre spéciale, bleu-noir… [MASK] se leva, gagna la porte. — Vous permettez ?… Quelques instants plus tard, il était à bord de l’ Océan , fouillait la cabine du télégraphiste, puis celle du capitaine, sale et en désordre.
+
+['qui', 'il', 'ce', 'on', 'elle']	Buzier	— [MASK] n’a pas protesté ?… — Il était hésitant… Vous comprenez ?… Fallait pas aller contre les idées du vieux… Il m’avait promis de prendre sa retraite tout de suite après la campagne et de m’épouser… Une jolie vie qu’il m’a réservée
+
+['de', 'ça', '...', 'si', 'cela']	Pierre	— Je n’aurais pas dû venir… Moi qui croyais… Mais ce n’est pas possible que [MASK]… Dites ! il faut que je le voie le plus tôt possible !… Je lui parlerai, toute seule… Vous ferez le nécessaire, n’est-ce pas
+
+[',', ':', 'me', 'il', 'de']	Maigret	[MASK] voyait le visage pâle de la jeune fille se tirer sous l’effet de la réflexion et de la joie. — On dirait… mais vous allez rire de moi !… qu’on a surélevé le lit pour que quelqu’un puisse se cacher dessous…
+
+['"', '-', '...', 'euh', 'moi']	Jean-Marie	Et un mousse qui ne voulait pas partir, qui pleurait, qui hurlait !… Bon ! Trois jours après, on télégraphie qu’il a été emporté par une lame !… Un gamin de quinze ans !… Un petit blond tout maigre, avec presque un nom de fille : [MASK]…
+
+['de', "d'", 'et', 'à', ',']	Maigret	[MASK] esquissa une ombre de sourire, car il comprenait qu’au fond d’elle-même elle espérait faire une découverte. Il l’y conduisit. Il alla même chercher une lanterne qui se trouvait sur le pont. — Comment peuvent-ils vivre dans cette odeur ?… soupira-t
+
+['on', 'ce', 'il', 'jésus', 'napoléon']	Fallut	— Trois jours… C’est l’avis général… Il a fallu trois jours environ pour créer une atmosphère d’inquiétude… Et dès ce moment les hommes se sont demandé si [MASK] n’était pas fou… Pourquoi ?… La jalousie ?…
+
+['</s>', 'il', 'et', 'on', 'qui']	Maigret	… Ils se dirigèrent lentement vers l’hôtel. [MASK] portait les deux fauteuils pliants. Ils allaient se mettre à table quand un agent en uniforme arriva, qui cherchait le commissaire. — On m’a dit de vous montrer ceci. C’est arrivé voilà une heure…
+
+['on', 'il', 'elle', "j'", 'chacun']	Maigret	Un homme et une femme… — Avec une auto grise ?… — Oui… Ce sont ceux que vous cherchiez ?… Dix minutes plus tard, [MASK] arrivait au commissariat, dont les bureaux étaient déserts hormis le bureau public divisé en deux par une barrière.
+
+['</s>', 'il', 'elle', 'on', 'chacun']	Maigret	Le chalutier s’était élevé de plusieurs mètres. Le pont se trouvait au niveau du quai et les aspirations de la marée lui faisaient faire des embardées latérales qui provoquaient des grincements de la passerelle. [MASK] avait oublié sa fatigue. L’heure pénible était passée.
+
+['il', 'elle', 'on', 'madeleine', 'chacun']	Maigret	Ils se débattent… Ils voudraient être optimistes… Ils essaient de croire à leur destinée… [MASK] parlait doucement, d’une voix sourde en suivant des yeux les deux silhouettes qui se découpaient sur la mer scintillante. — Qui est-ce qui dirige officiellement l’enquête ?
+
+['celui', ',', 'celle', 'ce', 'et']	Maigret	L’atmosphère était lourde, saumâtre. On entendait des touristes qui jouaient aux dominos dans la salle voisine, plus claire et plus propre. — Beaucoup de morue ? questionna [MASK] qui suivait son idée avec l’implacabilité d’une foreuse mécanique. — De la saleté !
+
+['lui', 'moi', 'elle', 'jacques', 'celui-là']	Adèle	: — Eh bien ?… Il va mieux ?… C’était [MASK], qui n’avait pas mis de poudre depuis le matin au moins et qui avait la peau luisante. — Buzier ?… questionna le commissaire.
+
+['amour', 'achille', 'isis', 'hector', 'hélène']	Adèle	Mais il n’y prêta pas la moindre attention et il regarda autour de lui, se demandant vers qui il devait se tourner. De son côté, l’amant d’[MASK] l’examinait de la tête aux pieds, la lèvre dédaigneuse.
+
+['et', 'il', "c'", 'à', 'mais']	Léon	— Attends !… C’est ceci aussi qu’il faut faire… Il prit un verre vide, y mordit à pleines dents, mâcha le verre en imitant la satisfaction d’un gourmet. — Ha ! Ha ! Pouvez toujours y venir… Verse à boire, [MASK]
+
+['misérable', 'imbécile', 'toi', 'non', 'réponds']	Gaston	— Suffit ! En deux mots, vous bricolez… Qu’est-ce que vous faisiez auparavant ? — J’étais représentant d’une marque de bicyclettes… J’ai aussi placé des machines à coudre dans les campagnes… — Combien de condamnations ? — Ne réponds pas, [MASK] !
+
+['elle', 'avant', 'ailleurs', 'auparavant', 'hier']	Adèle	Oui… — Et beaucoup plus distinguée qu’[MASK]… En outre, elle vous aime… Elle est prête à tous les sacrifices pour… — Mais taisez-vous donc ! gronda le télégraphiste. Vous savez bien que… que… — …Que c’est autre chose !
+
+['il', "m'", 'on', 'elle', 'lui']	Pierre	— Vous aviez dix-huit ans l’un et l’autre ? — À peine ! C’est moi qui ai parlé chez moi. Et [MASK] a juré qu’il ne m’épouserait que quand il gagnerait au moins deux mille francs par mois… Vous voyez que…
+
+['encore', 'partout', 'toujours', 'auprès', 'aussi']	Maigret	Je vaux autant qu’un autre, pas vrai ?… Et il cherchait [MASK] du regard. On eût dit qu’il voulait provoquer une discussion. — C’est comme ce gros-là… Qu’est-ce qu’il veut y comprendre ?… C’était du commissaire qu’il parlait.
+
+['ce', 'elle', 'là', 'cela', 'ça']	Marie	La main posée sur la table venait de se desserrer insensiblement. L’autre était dans la poche. Les paupières s’entrouvrirent, d’un millimètre à peine, de quoi laisser filtrer une parcelle de regard. C’était [MASK] que ce regard allait chercher.
+
+['t-il', 'harry', 'il', '-t-il', 't-elle']	Maigret	Le capitaine Fallut, à ce qu’on dit, n’a pas l’air d’un homme à faire des folies… Et pourtant, il rédige son testament un peu avant d’être assassiné… — Il serait intéressant de savoir aussi qui a pris soin d’apporter ce testament ici… soupira [MASK].
+
+['il', ',', 'on', 'et', 'je']	Maigret	[MASK] regardait tout ça lentement, pesamment, en essayant de faire vivre le décor, de le sentir. Et peu à peu, il créait en lui comme un état de fièvre. — C’était une nuit pareille, plus froide parce que le printemps commençait à peine…
+
+['il', 'napoléon', 'ulysse', 'paul', 'jack']	Maigret	11 Le départ de l’Océan [MASK] arriva sur le quai juste au moment où le nouveau capitaine donnait l’ordre de larguer les aussières. Il aperçut le chef mécanicien qui faisait ses adieux à sa femme et il s’approcha, le prit à part.
+
+['lui', 'moi', 'elle', 'toi', 'eux']	Maigret	avait-il dit. La veille au soir, elle était aussi neutre qu’une jeune fille élevée dans le calme d’une petite ville peut l’être. Or, il n’y avait pas une heure qu’ils avaient quitté l’ Hôtel de la Plage , elle et [MASK].
+
+['-', '...', 'oui', '"', 'enfin']	Jean-Marie	… — Quel gosse ?… — Le mousse… [MASK]… Celui qui est passé par-dessus bord, le troisième jour… L’homme tendait l’oreille. S’il n’avait pas entendu les mots, il avait compris qu’il était question de lui.
+
+['toi', 'moi', 'papa', 'maman', 'garçon']	Adèle	… Et il a le culot de dire… — Doucement… Il ne pouvait plus respirer. Il haleta : — Tu entends, [MASK] ?… Voilà comment ils sont, tes amants !… Des larmes de rage lui jaillissaient des paupières. Ses dents claquaient.
+
+['il', 'on', '-', '</s>', 'vous']	Maigret	— Vous me demandez s’il a tué le capitaine Fallut ? — Oui… Vous devez comprendre qu’il est essentiel que… [MASK] regardait droit devant lui de son air le plus absent. — Eh bien… Il vit les mains de la jeune fille qui frémissaient.
+
+['il', 'on', 'elle', 'lui', 'se']	Maigret	Et [MASK] retrouvait un lit blanc, un visage un peu tiré, un peu pâle, mais plus calme qu’il ne l’avait jamais vu. C’était presque de la sérénité qu’on lisait dans les prunelles. C’est peut-être pourquoi il hésita.
+
+['mrs', 'm', '"', 'marguerite', 'valentine']	Maigret	— Les hommes nous regardaient avec des yeux interrogateurs, inquiets… Ils devinaient qu’il se passait quelque chose… Cent fois j’ai entendu parler du mauvais œil… — Et je n’avais qu’une envie… — Naturellement ! grommela [MASK]. Il y eut un silence.
+
+['elle', '</s>', '-', 'on', 'il']	Maigret	… Déjà les gens nous écoutent… — Tu ferais mieux de réfléchir et tu comprendrais… Elle se leva d’une détente, comme quelqu’un qui en a assez. [MASK] lui tournait le dos, mais il vit son ombre grandir sur les dalles de la terrasse.
+
+['</s>', '"', 'lui', 'elle', ')']	Maigret	Sa cravate était mal faite. [MASK], les mains dans les poches, allait d’un air obstiné en grommelant comme pour lui-même : — Vous devez comprendre que je n’ai pas le temps de vous faire de la morale… Une seule chose : votre fiancée est ici…
+
+['présent', 'moi', 'personne', 'temps', 'manger']	Marie	!… Parce que, maintenant, j’imaginais des choses… Tenez !… Elle m’avait appelé son grand gosse … Avec une voix spéciale, un peu rauque !… Et je répétais ces deux mots-là pour me torturer… Je n’écrivais plus à [MASK]…
+
+['un', 'premier', 'le', 'lui', 'chef']	Fallut	— Premier déjeuner dans l’étroite cabine réservée aux officiers : [MASK], le second, le chef mécanicien et le télégraphiste… Et le capitaine annonce qu’il prendra ses repas tout seul, chez lui… C’est quelque chose de jamais vu ! Une idée biscornue !
+
+['ça', 'elle', 'cela', 'une', 'celle-là']	Adèle	J’avais horreur de cet homme déjà vieux qui tenait enfermée une femme comme [MASK]… — J’avais peur de rentrer au port… J’avais peur de la perdre pour toujours… — À la fin, il me faisait l’effet d’un démon ! Oui !
+
+['</s>', '-', '"', '...', 'il']	Maigret	On fermait la porte de la salle à manger. — Ne restez pas ici… disait le patron à ses clients. Du calme !… Le docteur désire qu’on ne fasse pas trop de bruit. [MASK] poussa l’huis, trouva le médecin agenouillé.
+
+['...', 'ça', 'sagement', 'toujours', 'tout']	Adèle	— Comme elle dit, j’étais sur le quai… J’ai vu les matelots entrer au café… J’attendais [MASK]… Il faisait noir… À un moment donné, le capitaine est descendu à terre, tout seul… Il y avait des wagons en stationnement…
+
+['</s>', ')', '"', 'on', ',']	Maigret	Une odeur rance, écœurante, qui ne s’atténuait pas quand on s’éloignait, s’infiltrait, rendue plus sourde encore par la chaleur, dans le bistrot. [MASK] s’assit sur la banquette, dans un coin libre. Il pénétrait en plein vacarme, en pleine agitation.
+
+['il', 'elle', '</s>', 'chacun', 'jacques']	Léon	Du moment qu’on ne les laisse pas boire… [MASK] baissa la voix, regarda ses clients avec méfiance. — Cette fois-ci, ils ont peut-être d’autres raisons de se flanquer la cuite… Ils ne vous diront rien, à vous !…
+
+[',', ':', 'et', 'que', 'ensemble']	Léon	— Bon ! voilà que ça sent encore le roussi !… Le commissaire le regarda dans les yeux. L’autre rougit, balbutia : — Atout trèfle !… — T’aurais dû jouer pique ! dit [MASK] pour parler. 5
+
+['</s>', 'un', 'et', 'chacun', 'le']	Maigret	Tout juste un mouvement léger, comme le soulèvement d’une poitrine. Un des trois hommes du gaillard d’avant jouait de l’accordéon. [MASK], en tournant la tête, aperçut sur le quai deux silhouettes de femmes, se précipita, franchit la passerelle.
+
+['qui', ',', '...', 'anne', 'marie']	Léonnec	Marie [MASK] nous attend… — Je ne peux pas… — Qu’est-ce que vous ne pouvez pas ?… — Aller là-bas… Je vous en supplie, laissez-moi !… Qu’est-ce que cela peut vous faire que je me détruise ?
+
+['et', 'puis', 'vous', 'ensuite', '-']	Maigret	— Non, mon vieux, non ! Il y a autre chose… Et d’abord la femme que vous avez dénichée, [MASK]… Vous avez donné toutes les indications aux gendarmeries pour qu’on la retrouve ?… Par exemple, je n’arrive pas à préciser son rôle…
+
+['...', 'temps', ',', 'un', 'et']	Maigret	Au point que je me demande si je vais m’embarquer pour la prochaine campagne ! — La dernière n’a évidemment pas été brillante ! Nouveau regard aigu à [MASK]. — Qu’est-ce que vous voulez dire ? — Que tout allait mal ! Un mousse est mort
+
+['les', 'le', '...', ':', 'ses']	Adèle	— Il y a eu des fausses manœuvres à l’arrivée… Les hommes ont sauté à terre, soulagés, se sont précipités vers les bistrots… Je savais bien, moi, que le capitaine n’attendait que la solitude de la nuit pour faire sortir [MASK]… —
+
+['il', 'elle', 'on', '-', 'je']	Maigret	Il serra les dents sans mot dire. — Est-ce que vous connaissez cette personne ? Et [MASK] tendit le portrait dont la tête disparaissait sous le gribouillage à l’encre rouge. Mais il tenait le pouce sur cette tête. On ne voyait que le corsage de soie.
+
+['chien', 'toi', 'dieu', 'va', 'maman']	Gaston	Tirez votre plan !… Ah ! c’est ainsi… Et, tournée vers son amant : — T’en fais pas, [MASK] !… On tient le bon bout !… Et tu verras qu’en fin de compte, c’est encore nous qui les aurons…
+
+['il', 'elle', 'qui', 'chacun', 'on']	Maigret	: — Puisqu’il est innocent !… Et [MASK] avait son visage le plus bougon, son regard vague. — Je ne sais pas… Vous êtes mieux à même… — Vous me permettez quand même de vous offrir quelque chose… Une bouteille de champagne ?…
+
+['t-il', 'jeanne', 'tout', 'jacques', 'celui-ci']	Adèle	— Crapule ! lui lança [MASK] en crachant par terre. On m’y reprendra à dire la vérité… Et d’abord, tout ce que j’ai raconté, c’est de l’invention, là !… Et je ne signerai aucun procès-verbal… Tirez votre plan !
+
+['il', 'on', 'elle', 'personne', 'et']	Fallut	… Et nous, nous regardions sans comprendre, sans parvenir à réaliser cette chose épouvantable… — Personne n’avait rien vu, rien entendu… [MASK] n’osait pas toucher l’enfant… C’est moi qui tâtai la poitrine, les mains, la tête fêlée…
+
+['celui-ci', 'marie', 'jules', 'tristan', 'julien']	Marie	Je me trompe peut-être, mais je crois que [MASK] a plus de caractère que son fiancé… Il était piteux, en tout cas, à promener sa silhouette maigre à pas nonchalants sans s’occuper de sa compagne, sans rien dire, eût-on juré de loin.
+
+['il', 'elle', 'on', ',', 'et']	Maigret	Il y avait une grande flaque de lune au milieu du bassin. La brise se levait, arrivait du large, presque glacée, comme l’haleine de la mer. Alors [MASK] fit demi-tour, lourdement, à regret.
+
+['il', ',', 'qui', 'et', 'on']	Maigret	[MASK] visita une fois de plus la cabine du capitaine. Une cabine étroite. Un lit, avec une courtepointe sale. Une armoire dans la cloison. Une cafetière d’émail bleu sur la table couverte d’une toile cirée. Des bottes à semelle de bois dans un coin.
+
+['amour', 'ange', 'autrefois', 'ailleurs', 'alcool']	Adèle	— Elle est bien gentille ! Sais-tu qu’elle a déjà préparé tout son trousseau ? Entièrement brodé à la main… Tu as du nouveau ?… Tu sens le parfum… Un peu du parfum violent d’[MASK], sans doute, qui s’était accroché à lui.
+
+['il', '</s>', 'elle', 'chacun', 'on']	Maigret	Une barque de pêche, son feu blanc balancé au bout du mat, s’éloignait lentement vers les jetées et l’on entendait deux hommes qui parlaient. [MASK] bourra une dernière pipe, regarda la ville, les tours de la Bénédictine au pied desquelles les murs sombres étaient ceux de l’hôpital.
+
+['elle', 'il', 'on', 'et', 'jeanne']	Maigret	Très honoré et très heureux… [MASK] le regarda d’un air morne. C’était un homme court en pattes, qui n’aurait pas été plus ridicule qu’un autre sans un nez disproportionné, de la grosseur de deux ou trois nez moyens, piqueté par surcroît comme une fraise.
+
+['chacun', 'celui-ci', 'marguerite', 'lui', 'rodin']	Maigret	On ne voyait que le corsage de soie. L’autre lui lança un regard rapide, voulut saisir le carton. — Vous la reconnaissez ? — Comment voulez-vous que je la reconnaisse ? Et il ouvrait encore la main tandis que [MASK] remettait le portrait dans sa poche.
+
+['elle', 'elle-même', 'lucy', 'lui', 'personne']	Maigret	Au contraire ! Il se laisse emprisonner à sa place ! Il se défend à peine, alors qu’il a toutes les chances d’être condamné ! Il est sombre, comme un homme bourrelé de remords. Il n’ose regarder ni sa fiancée ni [MASK] dans les yeux…
+
+['</s>', 'il', "c'", ',', 'ce']	Léon	Qu’est-ce qu’il veut y comprendre ?… C’était du commissaire qu’il parlait. [MASK] était sur des charbons ardents. Les derniers consommateurs attendaient, sûrs qu’il allait se passer quelque chose. — Tiens ! j’aime encore mieux m’en aller…
+
+['napoléon', 'la', 'bonaparte', 'jeanne', 'dieu']	Fallut	— À la revoyure !… Si l’on revient !… Un grand coup de sirène. Puis deux autres. Les femmes et les gosses, après une dernière étreinte, se précipitant vers la jetée. L’armateur serrant la main de [MASK]. Les aussières étaient larguées.
+
+['il', 'elle', "s'", 'puis', 'julien']	Maigret	Nous partons… Déjà on ne voit plus la ville et… [MASK] alluma une nouvelle pipe, se leva pour mieux voir à l’entour. Tous ses personnages, il les possédait, il les faisait manœuvrer en quelque sorte sur ce bateau qu’il dominait du regard.
+
+['il', 'et', 'en', ',', 'homme']	Maigret	[MASK] sortit, les deux mains dans les poches, le col relevé, car l’air était frais. Dans le hall d’entrée de l’ Hôtel de la Plage , il aperçut une jeune fille, assise dans un fauteuil d’osier.
+
+['personne', 'monsieur', 'ça', 'on', 'papa']	Fallut	Est-ce que [MASK] s’en est aperçu ? — Non ! — N’empêche qu’il avait des soupçons, qu’il rôdait autour de vous, qu’il ne vous quittait que quand c’était strictement nécessaire… — Comment le savez-vous ?
+
+['il', 'armand', 'cartouche', 'on', 'gérard']	Maigret	8 Le marin ivre Il était un peu moins de minuit quand [MASK] sortit de l’hôpital. Il avait attendu de voir le brancard sortir de la salle d’opération porteur d’une grande forme blanche. Le chirurgien se lavait les mains. Une infirmière rangeait les instruments.
+
+['</s>', 'il', 'et', '-', 'elle']	Maigret	Il était ému. Peut-être faisait-il des rêves d’aventures. [MASK] ne parvenait pas à s’en aller. Il était retenu par le sentiment que le mystère était tout près, à sa portée, qu’il n’y avait plus qu’un effort à faire…
+
+['il', '</s>', 'elle', 'et', 'chacun']	Maigret	Seulement, une femme qui a figuré sur le registre des mœurs, n’est-ce pas ? c’est juste bon à fourrer au violon… Est-ce que ce ne serait pas moi, par hasard, qui aurais tué le capitaine ?… [MASK] sortit sans en entendre davantage.
+
+[',', 'et', 'ou', ';', "jusqu'"]	Maigret	. — L’armateur ? demanda [MASK] à un douanier qui passait. — Oui… le directeur de la Morue française… Le commissaire se présenta. L’autre le regarda avec méfiance, sans cesser de surveiller le déchargement. — Que pensez-vous du meurtre de votre capitaine
+
+['le', 'la', 'elle', 'celui-ci', 'celle-ci']	Adèle	: — C’est le mousse qui est chargé de porter la nourriture au capitaine… Celui-ci ne fait qu’entrouvrir la porte, ou bien cache [MASK] sous le lit qu’il a surélevé… Ils sont deux à ne manger qu’une seule portion !
+
+['moi', 'lui', 'dieu', 'elle', 'nous']	Fallut	… Et que, si cela continue, le bateau ne repartira pas pour une seconde campagne !… Et ce n’est pas la police qui arrangera les choses, ni qui comblera le déficit ! — Vous aviez toute confiance en [MASK], n’est-ce pas ?
+
+['et', 'puis', 'chacun', 'avant', 'continuant']	Maigret	Et le capitaine annonce qu’il prendra ses repas tout seul, chez lui… C’est quelque chose de jamais vu ! Une idée biscornue ! Tout le monde en cherche en vain la raison ! Et [MASK], le front dans la main, de grogner :
+
+['"', '.', ':', '!', ',']	Maigret	, c’étaient les larmes qui roulaient sur ses joues ternes. — Peut-être qu’un médecin… — Non ! Lâchez-le ! commanda [MASK]. Et quand l’autre fut seul sur les pavés : — Debout !… Allons !… Plus vite que ça !
+
+['</s>', 'il', 'sable', '"', 'elle']	Maigret	Une planche mince, étroite. Le bruit du ressac devenait plus distinct. Le flux devait commencer, tandis que l’eau blanchâtre rongeait peu à peu les galets de la plage. [MASK] s’engagea sur la planche qui forma un arc de cercle quand il pesa en son milieu.
+
+['qui', 'il', 'homme', ',', 'on']	Maigret	[MASK] était debout sur la passerelle de commandement et un homme qui se serait réveillé se fût demandé ce qu’il faisait là, énorme, solitaire, à regarder lentement autour de lui. Ce qu’il faisait ? Il essayait de comprendre !
+
+['"', 'et', '...', 'etc', '-']	Julie	… Surtout que, quand ils ont bu, ils font de la casse pour plus que ce qu’ils me rapportent… Va donc voir à la cuisine si j’y suis, [MASK]… Une œillade entendue au commissaire. — À votre santé !…
+
+['enfin', ',', 'paul', 'après', 'maintenant']	Maigret	Les dominos abandonnés formaient un dessin compliqué sur le rectangle gris de la table. — En somme, dit lentement [MASK], personne ne sait pourquoi le télégraphiste a tenté de se tuer ? Ces mots ne rencontrèrent qu’un silence obstiné. Est-ce que tous ces hommes savaient
+
+["l'", ';', 'encore', 'en', ',']	Maigret	Il grommelait des choses indistinctes, des injures ou des menaces. Dehors, il colla d’abord son visage à la vitre, pour regarder [MASK] une ; dernière fois, et son nez s’épatait sur la glace embuée. —
+
+['et', 'qui', ',', '(', '</s>']	Maigret	— C’est avec cette roue qu’on dirige le bateau ?… — Chut… Ils descendaient l’escalier de fer. Ils étaient sur le pont. Ils pénétraient dans la cabine du capitaine. La porte se refermait. — Oui ! c’est ainsi ! grommela [MASK].
+
+['on', 'il', 'elle', 'et', 'de']	Fallut	Est-ce qu’elle ne m’avait pas dit qu’au retour [MASK] l’épouserait ?… — Je me suis heurté à un homme… Il se laissa tomber lourdement sur l’oreiller et tout son visage crispé exprima une douleur atroce. — Puisque vous savez… râla-t
+
+['</s>', 'il', 'et', 'lui', '...']	Maigret	… Et il se mit à courir le long du bateau en fulminant contre tout le monde. [MASK] resta encore quelques instants à assister au déchargement. Puis il s’éloigna dans la direction de la jetée, parmi les groupes de pêcheurs en vareuse de toile rose.
+
+['</s>', 'les', '(', 'de', '"']	Maigret	. [MASK], lui, était là à titre privé. Assis dans un coin, au bord d’une table, il n’avait encore rien dit. — Cela me paraît pourtant simple ! risqua l’inspecteur, tout en quêtant l’approbation de son chef.
+
+['personne', 'quiconque', 'tous', 'ses', 'son']	Fécamp	! Une femme qu’il n’osait pas montrer à [MASK] ! Une femme qu’il entretenait ! Une femme qui était jeune, jolie, désirable, mais à qui sa vulgarité donnait quelque chose d’inquiétant. Un homme sage, ordonné, méticuleux.
+
+['et', ',', 'de', 'ou', ':']	Maigret	Elle feint de ne pas savoir, mais elle m’a affirmé qu’elle appuierait quand même sur les mots quoi qu’il se soit passé … Pauvre petite !… Elle irait le chercher au bout du monde. — Hélas ! soupira [MASK]. — Que veux-tu dire
+
+['il', 'elle', 'on', 'et', '-']	Maigret	Quand on est marié, on se doit de… — Évidemment !… — Surtout que je n’ai pas de fils… Vous devez me comprendre, vous ! — Oui… [MASK] regardait l’escalier. Enfin sa femme s’y montra. — Les bagages sont prêts…
+
+['alice', 'hélène', 'achille', 'adèle', 'henriette']	Adèle	C’était la nuit, une rue déserte, des petites maisons bourgeoises. Il n’avait pas fait dix pas qu’une forme se détachait du mur, que le visage d’[MASK] se montrait dans la clarté d’un réverbère, que sa voix hargneuse questionnait :
+
+['je', 'se', 'le', 'il', 'on']	Maigret	Est-ce que la journée allait s’achever sous le signe de la colère ? Un des marins grommelait quelque chose en patois normand et [MASK] traduisit à peu près : — Bon ! voilà que ça sent encore le roussi !… Le commissaire le regarda dans les yeux.
+
+['lui', 'elle', 'moi', 'eux', 'nous']	Canut	— C’est bien fait pour lui !… Est-ce qu’il est mort ?… — Non !… Peut-être qu’on le sauvera… — Tant pis ! Ils devraient tous crever !… Ces mots firent une forte impression. Tous les visages se tournèrent vers [MASK].
+
+['famille', 'dieu', 'la', 'jacques', '...']	Jean-Marie	… — Je me suis heurté à un homme… Il se laissa tomber lourdement sur l’oreiller et tout son visage crispé exprima une douleur atroce. — Puisque vous savez… râla-t-il. — Oui… Le père de [MASK]… Le chalutier était à quai…
+
+['</s>', 'il', 'chacun', 'qui', 'elle']	Maigret	Un jeune homme prenait des photographies avec un Kodak et il y avait quelque part des voix pointues de jeunes filles. [MASK] laissait son regard errer sur le paysage et sa pensée devenait flottante, son cerveau s’engourdissait en une rêverie qui tournait autour d’un capitaine Fallut de plus en plus inconsistant.
+
+['celui-ci', 'puis', 'qui', 'et', 'lui']	Fallut	Ils sont deux à ne manger qu’une seule portion ! La première fois, la femme rit ! Et [MASK], sans doute, lui abandonne presque toute sa part. Il est trop grave. Elle se moque de lui. Elle le câline… Il cède…
+
+['et', 'il', 'elle', 'puis', '_']	Laberge	? Brusquement, [MASK] se fâcha. — Où voulez-vous en venir avec vos questions ? Qu’est-ce que vous voulez que je vous dise, moi ? Je n’étais pas chargé de faire la police, vous entendez ? Et j’en ai plein le dos !
+
+['tailleur', '"', 'etc', '...', 'moi']	Gaston	Prends ma jaquette, [MASK]… Et elle retirait la jaquette de son tailleur, se montrait en soie rose, les chairs luxuriantes, les bras nus. Ses prunelles ne quittaient pas un seul instant la jeune fille. — Tu aimes le gris, toi ?…
+
+['oui', 'non', 'tiens', 'ah', '-']	Girard	? — [MASK], un commissaire de la Brigade du Havre que tu ne connais pas. Un homme intelligent… — Il le croit coupable ? — Non ! Et en tout cas il n’y a aucune preuve, ni même aucune présomption sérieuse…
+

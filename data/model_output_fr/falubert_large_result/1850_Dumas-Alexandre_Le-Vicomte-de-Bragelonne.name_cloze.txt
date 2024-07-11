@@ -1,0 +1,200 @@
+['il', 'qui', 'Il', 'celui-ci', 'et']	Malicorne	c’est une amie d’enfance, entièrement dévouée, un véritable puits où l’on peut jeter tous les secrets qu’on veut perdre.Pas un mot de l’entretien n’avait échappé au roi.[MASK] avait même remarqué que le roi avait ralenti le pas pour lui donner le temps de finir.
+
+['et', 'QUOI', 'pas', 'le', 'mais']	Porthos	Mais ne parlons plus de cela.– Corne de bœuf ! dit [MASK], au contraire, parlons-en ; ainsi, le roi savait que l’on fortifiait Belle-Île ?– Bon ! est-ce que le roi ne sait pas tout ?– Mais il ne savait pas qui le fortifiait
+
+[',', 'on', 'se', 'le', 'de']	Raoul	Je ne me soucie pas, vous comprenez, d’être chassée ou embastillée. Parlons, vous dis-je, ou plutôt ne parlons pas.[MASK] serra ses poings, enleva le pas et fit la mine d’un homme de cœur,
+
+['elle', 'il', 'Diane', 'Madame', 'Marie']	Montalais	Apprenez, madame, dit [MASK], que je ne suis point fille à servir des bourgeoises ni des robines, et qu’au lieu de la cour misérable où vous végétez, je vais habiter une cour presque royale.– Ah !
+
+[',', 'on', 'et', 'mais', 'de']	Louis	Cinq minutes après, le roi montait l’escalier.Il était rouge d’avoir couru à cheval. Ses habits poudreux et en désordre contrastaient avec la toilette si fraîche et si ajustée de Madame, qui, elle, pâlissait sous son rouge.[MASK] ne fit pas de préambule
+
+['et', 'il', 'mais', ',', 'de']	Fouquet	Vous êtes puissant ?– Je vous ai offert dix millions, je vous les offre encore.[MASK] se leva troublé à son tour.– Voyons, dit-il, voyons : vous avez parlé de renverser des rois, de les remplacer par d’autres rois. Dieu me pardonne
+
+['elle', 's', 'en', 'ho', 'un']	Artagnan	Et le principal obstacle qu’elle rencontrait sur son chemin, continua d’[MASK], était un certain général commandant les armées du Parlement, et qui jouait là-bas le rôle d’un autre Cromwell. Votre Majesté n’a-t-elle pas dit cela ?– Oui ;
+
+['le', 'nes', 'un', 'de', ',']	Biscarrat	[MASK] seul risqua une dernière tentative.– Monsieur, dit-il à voix basse, croyez-moi, passons notre chemin ; ces deux hommes, ces deux lions que l’on va attaquer se défendront jusqu’à la mort. Ils nous ont déjà tué dix hommes ;
+
+['-', 'en', 'je', 'tu', 'tout']	Montalais	Que veux-tu que je te réponde ?– Oui ou non ; ce n’est pas bien difficile, ce me semble.– Oh ! tu es bien heureuse, [MASK] !– Allons, ce qui veut dire que tu voudrais être à ma place ?
+
+['de', 'la', 'le', 'se', 'je']	Baisemeaux	Et naturellement, nous parlâmes de vous et de nos amis. Je dois dire que [MASK] me reçut froidement. Je pris congé. Or, comme je revenais, un soldat m’aborda et me dit il me reconnaissait sans doute malgré mon habit de ville : « Capitaine
+
+[',', 'de', 'un', 'une', 'à']	Raoul	[MASK] fit un mouvement, puis soudain :– Vous êtes bon, monsieur, dit-il, et votre concession me pénètre de reconnaissance ; mais je n’accepterai pas.– Voilà que vous refusez, à présent ?– Oui, monsieur.–
+
+['de', 'le', 'la', 'se', 'en']	Malicorne	Eh bien ? demanda [MASK], qu’est-ce que cela veut dire ?– Cela veut dire que si vous êtes pressé d’avoir la lettre du comte de Guiche pour Monsieur, j’ai gagné mon pari.– Comment cela ?– C'est limpide, ce me semble ;
+
+['...', '-', 'non', 'de', 'm']	Bernouin	Moi, je repousse la sottise. Un ministre n’a rien à soi, d’ailleurs. Voyons, continue. Rentrées générales, sept millions. Propriétés, neuf millions. As-tu écrit, [MASK] ?– Oui, monseigneur.– Bourse, six cent mille livres ;
+
+['et', 'me', '"', 'elle', 'la']	Aramis	? Eh bien ! j’ai remarqué que certains prisonniers libérés se sont fait réincarcérer presque aussitôt. Pourquoi serait-ce faire, sinon pour goûter de ma cuisine ? Oh ! mais c’est à la lettre ![MASK] sourit d’un air de doute.– Vous souriez ?– Oui.–
+
+[',', 'ne', 'de', 'et', 'se']	Manicamp	[MASK] s’arrêta.– Quand vous entendrez descendre deux femmes, sortez et suivez, sans vous retourner, la route qui conduit chez le pauvre comte.– Mais, si le hasard faisait descendre deux autres personnes que je m’y trompasse ?– On frappera trois fois doucement dans les mains.–
+
+['Sain', 'de', 'Saint', 'Monsieur', 'St']	Styx	? Je te le répète donc, de Saint-Aignan, tu seras du voyage.– Oui, si, d’ici là, je n’en ai pas fait un autre plus long et moins agréable.– Lequel ?– Celui de [MASK], Sire.– Fi !
+
+[',', ';', 'bien', "qu'", 'la']	Pélisson	Celui-ci, regardant [MASK], s’appuya sur la surintendante, et serra la main glacée de la marquise de Bellière.– Eh bien ! fit-il d’une voix qui n’avait plus rien d’humain.– Qu’arrive-t-il, mon Dieu ? lui dit-on.
+
+['Non', 'non', 'Monsieur', 'le', 'Madame']	Motteville	Elle ne surprit qu’un « hum ! » significatif de la duègne espagnole, image de la circonspection. Elle surprit aussi un soupir exhalé comme un souffle du sein de la reine.Elle leva la tête aussitôt.– Vous souffrez ? dit-elle.– Non, [MASK], non ;
+
+['non', 'Non', 'moi', 'oui', 'NON']	Saint-Aignan	objet.– Non, dit-il vivement, non, tu te trompes, [MASK], je ne me mets pas en colère ; j’admire seulement que nous ayons été joués avec tant d’adresse et d’audace par ces deux petites filles.
+
+['la', 'le', 'de', 'en', "l'"]	Louis	Le roi fit un pas vers lui d’un air charmant et plein de négligence.– Pardon, monsieur le surintendant, si je trouble votre conversation, dit [MASK] ; mais je vous réclame partout où j’ai besoin de vous.– Mes services sont au roi toujours, répliqua Fouquet.–
+
+[',', 'accueil', 'arrivée', 'entrée', 'entretien']	Artagnan	C’est que j’avais entendu dire que, dans les premiers jours de votre arrivée…– Oui, je ne pouvais plus remuer, n’est-ce pas ?– Comment, fit d’[MASK] avec un sourire, et à propos de quoi ne pouviez-vous plus remuer ?
+
+['vous', 'Sire', 'je', 'sire', 'me']	Raoul	vous ne verrez pas cela vous autres.– Vous tenez rigueur au roi, cher monsieur d’Artagnan, et vous le connaissez à peine.– Moi ? Écoute, [MASK] : jour par jour, heure par heure, prends bien note de mes paroles, je te prédis ce qu’il fera.
+
+["l'", 'les', 'un', 'cet', 'nos']	Jupenet	! c’est curieux, en effet.– N'est-ce pas ?– Que de choses on apprend en voyageant, mon Dieu !– À votre santé, dit [MASK] enchanté.– À la vôtre, mordioux, à la vôtre ! Mais un instant, pas avec ce cidre.
+
+['autre', 'Artagnan', 'un', 'homme', 'roi']	Artagnan	– Et puis la nation.– Est-ce tout ?– La nation, qui a consenti la chute et la mort du feu roi, père de celui-là, et qui ne se voudra point démentir.– Planchet, mon ami, dit d’[MASK], tu raisonnes comme un fromage.
+
+['et', ',', 'il', 'Il', 'qui']	Athos	[MASK] prit l’ordre et lut.– C’est vrai, dit-il.– En seriez-vous fâché ? demanda d’Artagnan.– Oh ! non, au contraire. Je ne veux pas de mal au roi, et le plus grand mal qu’on puisse souhaiter aux rois, c’est qu’ils commettent une injustice.
+
+[',', 'il', 'gouverneur', 'et', 'Il']	Baisemeaux	[MASK] prit le registre, le reporta vivement vers l’armoire qu’il ferma, et dont il mit la clef dans sa poche.– Vous plaît-il que nous déjeunions, monseigneur ? dit-il. Car vous ne vous trompez pas, on nous appelle pour le déjeuner.– À votre aise, mon cher gouverneur.
+
+['Va', 'va', 'vas', 'vais', 'Allons']	Villiers	; chacun souffre sa passion en ce monde : j’ai eu la mienne, j’ai eu celle des miens, j’ai porté double croix. Au diable les soucis, maintenant ! Va, [MASK], va me quérir ce gentilhomme.
+
+['lui', 'Dieu', 'roi', 'Louis', 'son']	Aramis	D’ailleurs, il haïssait ce financier.Il voulut s’ouvrir au roi. Mais le roi ne comprendrait rien à ses soupçons, qui n’avaient pas même la réalité de l’ombre.Il résolut de s’adresser directement à [MASK], la première fois qu’il le verrait.
+
+['à', ',', "l'", 'de', 'non']	Aramis	Ah ! croyez-moi, monsieur, ajouta le prisonnier avec une expression qui n’était pas exempte d’une certaine amertume, les hommes ont fait pour moi tout ce que peut espérer, tout ce que peut désirer un homme.– Les hommes, soit ! dit [MASK] en relevant la tête ;
+
+['-', ',', '...', ';', ':']	Athos.–	en vérité, où avais-je l’esprit ? j’allais, moi, dire une folie de jeune homme.– Alors, vous n’obéiriez pas ? dit [MASK] Je ne dis pas cela non plus, monsieur. Avant tout, le salut de ma patrie.
+
+['a', '"', 'demanda', '-', 'fit']	Aramis.–	monsieur, vous avez bonne mémoire, n’est-ce pas ?– Pourquoi ? demanda [MASK] Pour vos plans et pour vos mesures, car vous savez qu’il n’est pas permis, même aux architectes, d’entrer chez les personnes avec du papier, des plumes ou un crayon.
+
+['monsieur', 'Raoul', 'celui-ci', 'Henri', 'Jean']	Athos	Son nom ?– Vous l’exigez ?– Je le veux.– Le vicomte de Wardes.– Ah ! dit tranquillement [MASK], c’est bien, je le connais. Mais nos chevaux sont prêts, monsieur ; au lieu de partir dans deux heures, nous partirons tout de suite.
+
+['excell', 'IR', 'AR', 'ON', 'or']	Artagnan	Sire, s’écria d’[MASK], ce digne gentilhomme est interdit par la majesté de votre personne, lui qui a soutenu fièrement le regard et le feu de mille ennemis. Mais je sais ce qu’il pense, et moi, plus habitué à regarder le soleil…
+
+['un', 'une', 'Armand', 'elle', 'Olivier']	Athos	Et il s’assit au chevet d’[MASK], qui sortit à grand-peine de sa préoccupation.– Qu’y a-t-il, docteur ? demanda le comte après un silence.– Il y a que vous êtes malade, monsieur, et que vous ne vous faites pas traiter.– Moi, malade !
+
+[',', 'il', 'se', 'et', 'le']	Fouquet	S'ils dissimulèrent un sourire, ce fut un grand effort, car ils savaient que le prince, élevé dans une ignorance absolue des affaires, se chargeait là, par amour-propre, d’un fardeau trop lourd pour ses forces.[MASK] prit congé de ses collègues sur l’escalier en leur disant
+
+['il', '</s>', 'Il', 'et', 'mais']	Athos	Et puis, en relevant la tête, il voyait toujours, toujours, son fils qui l’invitait à monter avec lui.[MASK] en était là de sa vision merveilleuse, quand le charme fut soudain rompu par un grand bruit parti des portes extérieures de la maison.
+
+['moi', 'vous', 'lui', 'nous', 'personne']	Raoul	; mais, moi qui suis au service du roi, je ne puis raconter les affaires du roi. Si le cœur vous en dit, marchez ! La chose vous regarde plus que moi et presque autant que [MASK].
+
+['DE', '...', 'de', 'conclure', "s'"]	Marie	à mes prières, à mes supplications, à mes larmes, on a répondu par la raison d’État.– Eh bien ?– Eh bien ! que voulez-vous faire, mademoiselle, lorsque tant de volontés se liguent contre moi ?Ce fut au tour de [MASK] de baisser la tête.–
+
+['roi', 'souverain', 'majesté', 'se', 'monarque']	Guiche	! oui, malheureusement, Sire.Le roi fit une pause.– À l’affût de quel animal ? demanda-t-il.– Du sanglier, Sire.– Et quelle idée a donc eue de [MASK] de s’en aller comme cela, tout seul, à l’affût du sanglier
+
+[',', "qu'", '-', 'et', 'encore']	Louis	demanda [MASK] après avoir attendu un instant.– Je veux dire qu’il me faudra revenir à la résolution que j’avais prise.– À laquelle ?– À celle que j’avais déjà soumise à Votre Majesté.– Quand cela ?– Le jour où nous nous expliquâmes à propos des jalousies de Monsieur.–
+
+[',', 'il', 'et', 'on', ';']	Baisemeaux	Enfin, on arriva à la porte ; le guichetier n’eut pas besoin de chercher la clef, il l’avait préparée. La porte s’ouvrit.[MASK] se disposait à entrer chez le prisonnier ; mais, l’arrêtant sur le seuil :
+
+[',', 'qui', 'on', 'On', 'et']	Aramis	Eh bien ! monsieur, eh bien ! non ! je n’obéis qu’au roi. À qui donc, bon Dieu ! voulez-vous qu’un gentilhomme français obéisse, si ce n’est au roi ?[MASK] ne bougea point ; mais, avec sa voix si suave :
+
+["l'", 'un', 'L', 'cet', "L'"]	Baisemeaux	; mais elle est pour ce drôle-là qui s’ennuie, et non pas pour moi qui m’amuse ! dit [MASK] exaspéré.– Est-ce une perte que vous faites, et le prisonnier qui vous est enlevé était il aux grands contrôles ?– Ah bien, oui !
+
+['chacun', ',', 'le', 'lui', 'il']	Buckingham	De l’état de cœur de chacun des voyageurs, sans prononcer aucun nom dangereux.Aussi le voyage, qui se faisait à petites journées, fut-il charmant.Aussi [MASK], véritablement Français par l’esprit et l’éducation, fut-il enchanté d’avoir si bien choisi son partner.
+
+['(', '--', '_', ',', 'la']	Mordioux	; et alors les femmes pleuraient, et alors les murailles riaient, et alors cinq cents gredins battaient des mains et criaient : « Tue ! Tue ! » quand il ne s’agissait pas d’un mousquetaire ! [MASK] !
+
+['se', 'tout', 'le', 'de', ',']	Fouquet	ma gabare !Personne ne répondit.Le surintendant s’habilla lui-même de tout ce qu’il trouva sous sa main.– Gourville !… Gourville !… cria-t-il tout en glissant sa montre dans sa poche.Et la sonnette joua encore, tandis que [MASK] répétait :
+
+['et', ',', 'il', ';', 'se']	Colbert	allons chez un ami, en ami. Marchez doucement, messieurs des équipages ; et nous, messieurs, en avant !Il entraîna derrière lui tous les cavaliers.[MASK] cacha sa grosse tête renfrognée derrière le cou de son cheval.–
+
+['curé', 'cardinal', 'seigneur', 'aumônier', 'bien']	Colbert	Là-dessus, le confesseur quitta son pénitent avec une mine pleine de componction, puis il sortit du même pas qu’il était entré.– Holà ! mon Dieu, gémit le cardinal… Venez ça, [MASK] ; je suis bien malade, mon ami !
+
+[',', '</s>', '.', 'est', 'dire']	Louise	[MASK], pour vous prouver combien je vous aime, je veux faire une chose : j’irai trouver Madame.– Vous ?– Je lui ferai révoquer la sentence : je la forcerai.– Forcer ? oh ! non, non !– C’est vrai : je la fléchirai.
+
+['il', 'Monsieur', 'je', 'tout', 'monsieur']	Porthos	; que demandez-vous ?– Monsieur, dit [MASK], j’ai en bas un cheval ; faites moi le plaisir de le monter ; il est excellent et ne vous jouera point de mauvais tours.– Monter à cheval ! pour quoi faire ?
+
+['</s>', 'il', 'et', 'la', ',']	Letellier	la recouvrer après communication, c’était la difficulté.[MASK] jeta les yeux autour de lui, et voyant le commis noir et maigre qui griffonnait, le sourcil froncé, dans ses bureaux, il le préféra au meilleur gendarme pour l’exécution de ce dessein.
+
+['elle', 'il', 'en', 'sou', 'qui']	Louise	Elle finit cependant par arriver.Aussi ponctuelle que la prêtresse Héro, [MASK] leva la trappe au dernier coup de deux heures, et trouva sur les premiers degrés le roi, qui l’attendait respectueusement pour lui donner la main.Cette délicate déférence la toucha sensiblement.
+
+['...', 'ou', 'ad', '.....', 'tout']	Malicorne	! c’était convenu ainsi.– C’était convenu ainsi ?– Mot pour mot.– C’est extraordinaire, murmura [MASK]. Ainsi, vous comprenez ?– Oui.– C’est tout ce qu’il faut. Maintenant que vous comprenez… car vous comprenez bien, n’est-ce pas ?
+
+['terre', 'métier', 'réserve', 'Condé', 'libération']	Lambert	» Dès lors, l’on n’entendit plus parler que de désertion dans l’armée de [MASK]. Les soldats se laissaient entraîner par la force des principes, qui sont, comme la discipline, le lien obligé de tout corps constitué dans un but quelconque.
+
+['tout', 'Mr', 'monsieur', 'S', 'Monsieur']	M.	Cette même heure était celle du souper de [MASK] le gouverneur. Il avait un convive ce jour-là, et la broche tournait plus lourde que d’habitude.Les perdreaux rôtis, flanqués de cailles et flanquant un levraut piqué ;
+
+['il', '</s>', 'elle', 'et', 'Il']	Louis	Une sueur froide monta au front du comte, ses mains s’ouvrirent et laissèrent tomber le chapeau qu’il tenait entre ses doigts tremblants.[MASK] chercha le regard de sa mère, comme pour lui montrer qu’il était le maître.
+
+['le', ',', 'on', 'en', 'la']	Fouquet.–	car j’allais écrire encore à son sujet.– Que fait-il donc ?– Depuis ce matin, il me mécontente extrêmement ; il a des accès de rage à faire croire que la Bastille s’écroulera par son fait.– Je vais vous en débarrasser, en effet, dit [MASK]
+
+['il', 'Elle', 'Il', 'elle', 'ils']	Fouquet	Ils n’ont donc qu’à s’humilier et à demander grâce !– Grâce vous soit donc accordée alors ![MASK] voulut se mettre à genoux.– Non, dit-elle, à côté de moi, asseyez-vous. Ah ! voilà une pensée mauvaise qui passe dans votre esprit !
+
+['il', 'Il', 'se', ',', 'lui']	Philippe	[MASK] prêta l’oreille à tous les bruits, il laissa osciller son cœur au souffle de toutes les épouvantes ; mais, confiant dans sa force, doublée par l’exagération de sa résolution suprême, il attendit sans faiblesse qu’une circonstance décisive lui permît de se juger lui-même.
+
+['chevalier', 'monsieur', 'Chevalier', 'sire', 'le']	Planchet	Un homme de bonne mine, portant un tablier blanc et caressant sa moustache grise avec une bonne grosse main, poussa un cri de joie en apercevant le cheval pie.– Monsieur le chevalier, dit-il ; ah ! c’est vous !– Bonjour, [MASK] !
+
+['il', 'elle', 'on', 'celle-ci', 'celui-ci']	Louis	Donc, au lieu de froncer le sourcil en apercevant sa belle-sœur, [MASK] se promit de lui montrer encore plus d’amitié et de gracieux accueil que l’ordinaire.C’était à une condition cependant, à la condition qu’elle serait prête de bonne heure.
+
+[',', 'de', 'se', 'la', 'le']	Athos	[MASK] continua :– Devant vos soldats, le général m’a dit d’attendre huit jours ; que dans huit jours il me donnerait la réponse qu’il avait à me faire. Me suis-je enfui ? Non, j’attends.– Il vous a dit d’attendre huit jours
+
+['à', 'de', 'en', ',', 'ce']	Louise	Oui, je le sais. Mon Dieu ! la question n’est pas là. Je n’ai même pas oublié une seule des paroles que tu as dites ; mais pensais-tu ce que tu disais ?[MASK] se troubla.– Encore des questions ? s’écria-t-elle
+
+['Jean', 'le', 'Henri', 'Pierre', 'celui-ci']	Baisemeaux	– Tenez, venez, dit [MASK] en allant à la fenêtre. C’est cette tour à gauche, la deuxième.– Très bien. Ah ! c’est là qu’est le prisonnier à quinze livres ?– Oui.– Et depuis combien de temps y est-il ?
+
+['il', 't-il', 'elle', ',', '-il']	Fouquet	Moi, dit [MASK] avec un sourire, j’en connais une à dix pas d’ici.Puis s’orientant :– Oui, dit-il, c’est bien cela.– Que vous êtes heureux d’avoir si bonne mémoire !
+
+['la', ',', 'de', 'bien', 'à']	Porthos	elles dédaignent ce qu’elles ambitionnaient, quand elles l’ont.Après avoir rendu ce service à son ami Planchet d’Artagnan dit à [MASK] tout bas :– Vous avez, mon ami, une bague assez jolie à votre doigt.– Trois cents pistoles, dit Porthos.–
+
+['bonjour', 'tout', "qu'", 'que', 'non']	Aramis	dit [MASK] à d’Artagnan.– Oui, en carrosse, à l’instant.– Et que vous a-t-il dit ?– Il m’a dit adieu.– Voilà tout ?– Que vouliez-vous qu’il me dît autre chose ? Est-ce que je ne compte pas pour rien depuis que vous êtes tous en faveur ?
+
+[',', 'je', 'en', 'tous', 'le']	Guénaud	Oh ! donne-moi un mois, et pour chacun de ces trente jours, je te paierai cent mille livres.– Monseigneur, répliqua [MASK] d’une voix ferme, c’est Dieu qui vous donne les jours de grâce et non pas moi. Dieu ne vous donne donc que quinze jours
+
+['tout', 'aussi', 'il', 'he', 'on']	Porthos	?– Non ; tout ce que je puis dire, c’est que c’est un homme qui a étudié tous les systèmes et qui me paraît s’être arrêté au meilleur.– Chut ! dit [MASK] ; ménagez ma modestie, mon cher d’Artagnan.– Vraiment ! répondit le mousquetaire
+
+['en', 'le', 'à', 'pour', 'de']	Sire	Il est urgent, [MASK], comprenez-vous bien, urgent, de toute urgence, que Madame et ses filles d’honneur soient absentes deux heures de votre domicile.– Tu me confonds, de Saint-Aignan.– Il est dur pour moi de commander à mon roi ;
+
+['la', 'le', 'les', 'tout', 'votre']	Aramis	Mais, quand il eut fini, adressant la parole au jeune prisonnier :– Vous avez bonne mine, dit-il, cela va bien ?– Très bien, monsieur, merci, répondit le jeune homme.Cette voix faillit renverser [MASK].
+
+['-', 'de', ',', 'que', 'à']	Louise	; cette condition ne peut vous convenir : il faut que vous soyez mariée pour être respectée.– Mariée ?– Oui.– Mon Dieu !– Voici ma main, [MASK], laissez-y tomber la vôtre.– Mais votre père ?– Mon père me laisse libre.– Cependant…
+
+[',', 'et', 'se', 'ne', 'le']	Malicorne	?[MASK] tira de sa poche quatre lettres qu’il offrit à Raoul.– Mes lettres ! est-il possible ! dit celui-ci en pâlissant ; mes lettres encore cachetées !– Monsieur, ces lettres n’ont plus trouvé à Blois les personnes à qui vous les destiniez ;
+
+['le', 'la', 'les', "l'", 'de']	Athos	Le général aurait dû accomplir quelques négociations si secrètes qu’il aurait cru imprudent de prévenir, même nous. Alors, le temps limité pour son absence serait huit jours.Puis, se retournant vers [MASK] :– Monsieur, dit-il, votre déclaration est de la plus grave importance ;
+
+['il', 'on', 'elle', 'Henri', 'Il']	Athos	Oui, répondit le mousquetaire en se grattant la moustache de la main qu’[MASK] lui laissait libre, oui, je viens aussi…– Soyez le bienvenu, monsieur le chevalier, non pour la consolation que vous apportez, mais pour vous-même. Je suis consolé.
+
+[',', 'de', 'à', 'le', 'se']	Montalais.–	– Non pas.– Comment, non pas ?– La porte était fermée.– De sorte que ?…– De sorte que le roi s’en est retourné tout penaud comme un simple voleur qui a oublié ses outils.– Bien.– Et du troisième côté ? demanda [MASK]
+
+['banquiers', 'financiers', 'Sarkozy', 'Napoléon', 'politiciens']	Mazarin	Le règne de [MASK] est fini, mais celui des financiers commence. Ils ont l’argent : Votre Majesté ne doit pas en voir souvent. Vivre sous la patte de ces loups affamés, c’est dur pour un homme qui comptait sur l’indépendance.
+
+[',', 'de', 'bien', 'la', 'tous']	Porthos	Quand le patron de la barque envoyée par moi fut de retour, quand j’ai reçu la réponse de ces deux messieurs et il désignait de la main à l’officier Aramis et [MASK], vous avez entendu jusqu’au bout le discours du messager. Tout cela était bien dans vos ordres
+
+[',', "l'", "s'", 'qui', "d'"]	Athos	[MASK] introduisit la pince dans cette gerçure, et bientôt des morceaux tout entiers de plâtre cédèrent, se soulevant comme des dalles arrondies. Alors le comte de La Fère saisit les pierres et les écarta avec des ébranlements dont on n’aurait pas cru capables des mains aussi délicates que les siennes.–
+
+['de', ',', 'on', '...', 'les']	Athos	– D'autant plus aisément, monsieur le cardinal, que j’ai vu les événements.– Vous ?– Oui, monseigneur.Le roi s’était involontairement rapproché du comte ; le duc d’Anjou avait fait volte-face, et pressait [MASK] de l’autre côté.– Après, monsieur, après
+
+['-', '...', ':', ',', '....']	Malicorne.–	?– Sans doute, dans le même coffret où je mettais les lettres que je recevais de vous, et où je déposais les miennes quand vos affaires ou vos plaisirs vous empêchaient de venir au rendez-vous.– Ah ! fort bien, dit [MASK] Pourquoi cette satisfaction ?
+
+[',', 'y', 'il', ';', 'et']	Baisemeaux	[MASK] revint, posa le registre sur la table, le feuilleta un instant, et s’arrêta à la lettre M.– Tenez, dit-il, par exemple, vous voyez bien.– Quoi ?– « Martinier, janvier 1659. Martinier, juin 1660.
+
+['il', 'on', 'je', 'elle', 'la']	Baisemeaux	monsieur, qu’on me punisse, moi, qu’on me coupe la main avec laquelle je l’ai écrit, je travaillerai de l’autre ; mais qu’on me rende ma mère.– Mon enfant, dit [MASK], vous savez que cela ne dépend pas de moi ;
+
+['dit-il', 'dit-elle', 'lui', 'dites', 'disait-il']	Monseigneur	Il ouvrit son tiroir et lui remit dix billets de caisse qui s’y trouvaient. Chaque billet était de mille livres.– Tenez, dit-il, faites sortir le fils, et remettez ceci à la mère ; mais surtout ne lui dites pas…– Quoi, [MASK] ?
+
+['le', "l'", '...', 'parti', 'de']	Guénaud	:– Oh ! oh ! dit-il.– Eh quoi ! [MASK] ?… Quel air vous avez !– J'ai l’air qu’il faut pour voir votre mal, monseigneur, et un mal fort dangereux.– La goutte… Oh ! oui, la goutte.–
+
+['le', ':', ',', 'notre', 'est']	Athos	Mais, répéta le même colonel qui avait déjà parlé, vous savez bien que vous demandez une chose impossible.– Voilà déjà deux fois que l’on fait cette étrange réponse au désir que j’exprime, reprit [MASK] Le général est-il absent ?
+
+['autr', 'autre', 'un', 'autres', 'Artagnan']	Artagnan	La cour était déserte, les poules elles-mêmes n’avaient pas encore quitté leurs perchoirs.Pas un valet n’apparaissait.Toutes les portes étaient fermées.« Bon ! calme parfait, se dit d’[MASK]. N'importe, me voici réveillé le premier de toute la maison.
+
+['elle', 'celle-ci', 'Marie', 'Alice', 'Catherine']	Athénaïs	, survivrai-je à cette cruelle soirée ?– Oh ! ne vous effarouchez point ainsi, dit [MASK], nous avons le remède.Et, s’asseyant entre ses deux compagnes, à chacune desquelles elle prit une main qu’elle réunit dans les siennes, elle commença.
+
+['de', ',', 'le', 'la', 'une']	Louis	[MASK] n’était pas dans une disposition d’esprit capable de lui dicter une politique savante.– Je ne sais trop, Sire ; je me mêle peu de galanterie, comme on dit.– Mais, enfin, vous savez, puisque vous parlez ?– J’ai ouï prononcer…
+
+['il', 'on', 'carrosse', 'et', 'esprit']	Fouquet	Il résulta de cette intelligence que les ordres s’exécutèrent avec cette précision de manœuvre que l’on trouve sur un vaisseau de guerre commandé pendant l’orage par un capitaine irrité.Le carrosse ne roula point, il vola.À peine si [MASK] eut le temps de se recueillir durant le trajet.
+
+['Il', 'il', 'Elle', 'Raoul', '</s>']	Fouquet	À moi, surintendant des finances ?– Reposez-vous, je vous prie ; voilà tout ce que j’ai à vous dire.[MASK] se mordit les lèvres et baissa la tête. Il couvait évidemment quelque pensée inquiète.
+
+['me', 'il', 'je', 'et', 'on']	Manicamp	– En voilà deux cent cinquante.– Et les deux cent cinquante autres ?– Quand je tiendrai ma charge.[MASK] fit la grimace.– En ce cas, rendez-moi la recommandation, dit-il.– Pourquoi faire ?– Pour que j’y ajoute un mot.– Un mot ?
+
+['entrée', 'entretien', 'étranger', 'homme', 'amis']	Aramis	Ce porte-clefs, le même qui, à la première visite d’[MASK], s’était montré si curieux et si questionneur, était devenu non seulement muet, mais même impassible. Il baissait la tête et semblait craindre d’ouvrir les oreilles.
+
+['monsieur', 'dit-il', 'messieurs', 'dis-je', 'madame']	Raoul	à moi, que vous avez élevé comme un homme ? Ah ! monsieur, voulez-vous donc m’exposer à cette cruelle épreuve de ne plus vous revoir jamais ?– Qui vous a dit, [MASK], que mon voyage fut dangereux ?
+
+["l'", 'le', 'HA', '/', ',']	Aramis	dit-il en secouant la tête, à quoi bon ?– Pourquoi m’avez-vous dit, demanda [MASK], que vous vous trouviez bien ici ? pourquoi m’avez vous dit que vous n’aspiriez à rien ? pourquoi enfin en me parlant ainsi, m’empêchez-vous d’être franc à mon tour
+
+['</s>', 'il', 'Il', 'et', '"']	Mazarin	Ce luxe de chevaux, d’armes et de livrées compensait en ce temps-là, grâce au bon vouloir des peuples et aux traditions de respectueux attachement pour les rois, les énormes dépenses couvertes par l’impôt.[MASK] avait dit : « Laissez-les chanter, pourvu qu’ils paient.
+
+['on', 'se', "s'", 'il', "l'"]	Raoul	En ce moment de la conversation des deux jeunes gens, [MASK] entra le front soucieux.En l’apercevant, le chevalier, qui avait pour lui, comme pour tout noble caractère, une haine secrète, le chevalier se leva.– Vous me conseillez donc, alors ?…
+
+['celui-ci', 'celle-ci', 'il', 'monsieur', 'madame']	Bragelonne	demanda ce dernier, voyant que [MASK] s’apprêtait à sortir.– Chez moi, monsieur, répondit celui-ci de sa voix douce et triste.– C’est donc là qu’on vous trouvera, vicomte, si l’on a quelque chose à vous dire ?– Oui, monsieur.
+
+['de', 'se', 'le', 'à', 'en']	Guénaud	car enfin, à quoi serviraient la puissance, la force de volonté ? À quoi servirait le génie, votre génie à vous, [MASK] ? À quoi enfin servent la science et l’art, si le malade qui dispose de tout cela ne peut se sauver du péril
+
+['et', 'Il', 'il', '.Il', ',']	Louis	Peste soit du maître, va ! »[MASK] s’arrêta.– Lieutenant ? dit-il.– Me voilà, Sire.– Pourquoi donc, ce soir, avez-vous crié là-bas, dans la salle : « Le service du roi, les mousquetaires de Sa Majesté » ?
+

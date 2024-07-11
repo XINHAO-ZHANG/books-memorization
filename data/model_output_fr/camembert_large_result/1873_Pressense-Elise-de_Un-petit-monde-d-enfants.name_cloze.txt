@@ -1,0 +1,200 @@
+['Pierre', 'Marie', 'Jeanne', 'Alice', 'Camille']	Maurice	— Regarde mon pied. Est-ce qu’il y entrerait ? Moi je crois que ce sont bien les tiens. — Mais alors on les a raccommodés... Ils sont comme neufs ! cria [MASK] avec ravissement. — Eh bien ! es-tu content ?
+
+['on', 'il', 'elle', 'et', 'qui']	Madeleine	! quand je pense qu’elle est malade depuis douze jours et que je n’en ai rien su ! Oh ! j’irai la voir tous les jours maintenant. En parlant ainsi elle redoublait de vitesse, [MASK] avait peine à la suivre.
+
+['Elle', 'Quelle', 'Marie', 'Isabelle', 'Qui']	Madeleine	[MASK] est celle de toutes qui a le mieux répondu. Voulez-vous que je vous dise quand je crois, moi, que vous êtes le plus heureuses ? C’est quand vous avez le cœur plein d’amour pour les autres et que vous sentez que les autres vous aiment aussi.
+
+['Monsieur', 'Jean', 'Charles', 'Julien', 'Madame']	Valentin	Il descendait donc assez gaiement quand [MASK], qui l’attendait, le prit au passage : — Ah ! çà, je ne t’ai pas vu de toute la semaine, dit-il ; qu’est-ce que cela signifie ? Est-ce que nous sommes brouillés ?
+
+['Marie', 'Alice', 'Jeanne', 'Jean', 'maman']	Madeleine	oui, mais elle n’a pas le temps de s’occuper de moi. Et puis, tu sais, moi, on ne peut pas m’aimer beaucoup. — Mais si, dit [MASK], puisque je t’aime beaucoup. — Il n’y a que toi.
+
+['Il', 'Elle', 'il', 'Jean', 'Louis']	Maurice	[MASK] releva la tète et regarda sa mère d’un air un peu inquiet. — J’ai vu aujourd’hui la petite de la voisine d’en bas. Elle est bien malade et c’est toi qui en es cause, en partie au moins. — Ah !
+
+['Marie', 'Jeanne', 'Sophie', 'Madeleine', 'Suzanne']	Lydie	Les gamins avaient tous pris la fuite. Quand les yeux furent accoutumés à l’obscurité, un peu diminuée d’ailleurs par le demi-jour qui venait des portes entr’ouvertes, on aperçut [MASK] étendue, la figure contre terre, et ne donnant aucun signe de vie.
+
+['Marie', 'maman', 'Maria', 'Maman', 'Mère']	Madeleine	Mais quand le matin revenait, que [MASK] s’éveillait joyeuse et qu’elle la voyait toujours bien portante et rose en dépit de la mauvaise nourriture, elle se remettait le cœur plein de reconnaissance au travail de la journée. Un matin, cependant, elle se sentit presque écrasée sous son fardeau.
+
+['personne', 'les', 'cela', 'le', 'jamais']	Valentin	; elle était accoutumée à la froideur de son fils. — Ecoute, lui dit-elle, je te crois et je suis fâchée de t’avoir soupçonné à tort, mais vois-tu, mon enfant, il faut me promettre de ne plus fréquenter [MASK].
+
+['Marie', 'Alice', 'Anna', 'Sophie', 'Maria']	Madeleine	Elle va se dégeler ici, il fait si chaud. Et en effet, quelques moments plus tard, la robe était dégelée et l’eau en suintait. — Qu’est-il donc arrivé ? reprit [MASK], on dirait que ta robe a été trempée dans une fontaine.
+
+['Il', 'il', 'qui', 'II', 'Monsieur']	Maurice	Est-ce que votre fils voudra le prendre en apprentissage ? — Il lui montrera à lire, le soir. — Je ne sais pas s’il aura de la satisfaction avec lui... [MASK] est un peu étourdi et paresseux.
+
+['Marie', 'Julie', 'Sophie', 'Jeanne', 'Anna']	Lydie	; mais ce mouvement d’égoïsme fut bientôt vaincu. — Tiens ! dit-elle, nous mangerons une cuillerée chacune à son tour. As-tu du pain ? — Oui, dit [MASK] en montrant le morceau de pain qui jusque-là ne lui avait encore jamais manqué.
+
+['Marie', 'Jeanne', 'Pierre', 'Jean', 'Louis']	Lydie	— Pourquoi ? demanda [MASK]. — Maman a reçu une lettre qui n’avait pas de timbre ; il lui a fallu payer cinq sous. Elle était très-ennuyée et elle a dit qu’on ne devait jamais envoyer de lettre sans mettre un timbre.
+
+['je', 'que', 'moi', 'madame', 'si']	Madeleine	— Crois-tu qu’au ciel je serai comme je suis maintenant ? dit-elle enfin. — Je ne sais pas. — Non, je ne le crois pas, puisqu’au ciel on dit que tout sera beau. Sais-tu, [MASK]...
+
+['Il', 'Elle', 'il', 'elle', 'Dieu']	Lydie	? [MASK] répondit oui bien bas. — Je ne puis pas vous parler du ciel comme si je l’avais vu, mais je sais que tout y sera lumière, beauté, harmonie et pureté. Ainsi rien de laid ni de souillé n’y trouvera place.
+
+['Il', 'Elle', 'II', 'Joseph', '</s>NOTUSED']	Maurice	laisse-moi dormir !... La pauvre mère se remit au travail en soupirant. XII LE VOISIN DU N° 10 [MASK] dormait profondément et sa mère travaillait le cœur plein de tristes pensées, quand un léger coup frappé à la porte la fit tressaillir.
+
+['moi', 'là', 'non', 'alors', 'maman']	Madeleine	— Mais mon dos me fait tant de mal quand je couds. Non, vois-tu, [MASK], j’ai commencé à prier tous les soirs et tous les matins pour que le bon Dieu me fasse mourir et je crois qu’il le fera.
+
+['Alice', 'Marie', 'Sophie', 'Clara', 'Anna']	Lydie	Est-ce vrai, dis ? — Oui. — Eh bien ! tu me détestes, n’est-ce pas ? — Oh ! non, répondit [MASK] en levant sur lui des yeux pleins de douceur. Mais laissez-moi aller, ou je serai trop tard.
+
+['elle', 'lui', 'Marie', 'Jeanne', 'Isabelle']	Madeleine	Elle se releva et se tourna contre [MASK], furieuse de s’être laissée aller devant elle à un bon sentiment et de recevoir d’elle une leçon. — Et de quoi est-ce que je demanderais pardon, madame la mijaurée ?
+
+['»', '[...]', '(...)', '...', '«']	XVI	Vous n’avez pas souvent une journée de plaisir, et chacun vous souhaite en passant beaucoup de joie, un beau soleil jusqu’au soir et un heureux retour dans vos pauvres demeures, où vous rapporterez le parfum des grands bois, des fleurs par poignées et des souvenirs pour longtemps. [MASK]
+
+['famille', 'Louis', 'Léon', 'Pierre', 'Jean']	Jean	— Il faut que vous sachiez, Monsieur, dit la mère de [MASK], que j’ai acheté au petit, il y a quelque temps, un pantalon pour le dimanche qui s’est trouvé n’avoir pas de poche.
+
+['elle', 'Marie', 'Anna', 'Emma', 'Alice']	Lydie	— Oui, mais je n’ai pas faim. La veux-tu ? Quand la classe fut finie, les deux petites partirent ensemble. Arrivée au coin de la rue où son amie la quittait d’ordinaire, [MASK] s’arrêta pour lui dire adieu.
+
+['vivre', 'tout', 'Clara', 'Dieu', 'Marie']	Lydie	car elle n’était pas méchante. Elle aimait [MASK] à sa manière, et travaillait sans relâche pour lui procurer le nécessaire ; mais elle n’avait jamais le temps de s’occuper de ce qui se passait en elle, de ce qu’elle pouvait penser et sentir.
+
+['Joseph', 'Jésus', 'Marie', 'Pierre', 'Jeanne']	Lydie	Quand la mère comprit que c’était bien son fils qui avait fait tomber [MASK] dans l’escalier, et qui avait ainsi causé ses souffrances et sa mort, elle se mit à trembler de tous ses membres et cacha sa figure dans ses mains. — Oh !
+
+['Joseph', 'santé', 'Louis', 'Pierre', 'Jeanne']	Lydie	— C’est ta fille, répondit sa femme. Et elle lui apprit en peu de mots l’accident et la gravité de l’état de [MASK]. Elle espérait que cela le dégriserait, mais il n’en fut rien. — Ote-la de ce lit.
+
+['Jules', 'Louis', 'Jeanne', 'Berthe', 'bébé']	Madeleine	; et en outre l’édredon qui avait été mis au mont-de-piété pour acheter une paire de chaussures à [MASK] à son entrée à l’école, faisait grand vide maintenant sur le lit que recouvrait à peine une vieille couverture.
+
+['Madame', 'Marie', 'Mme', 'Monsieur', 'madame']	Madeleine	— Maintenant, dit [MASK], comment allons-nous la lui envoyer ? Faut-il la garder jusqu’à dimanche ? — Oh ! non. Jamais je n’oserais la lui donner. — Eh bien, mettons-la à la boîte. Il faut d’abord la plier et mettre l’adresse.
+
+['David', 'Simon', 'Joseph', 'Pierre', 'Jean']	Maurice	Seriez-vous assez bonne pour venir m’aider un instant ? — J’y vais, répondit la mère de [MASK]. Et, se tournant vers lui, elle ajouta rapidement : — Cela m’est impossible ; tu ne devrais même pas me le demander.
+
+['elle', 'il', 'Madeleine', 'Marie', 'on']	Maurice	la petite fille suivait avec un intérêt affectueux chaque morceau qu’il portait à sa bouche. Tout ce qui pouvait faire plaisir aux autres lui en faisait à elle-même. Et, en vérité, [MASK] semblait jouir beaucoup de son déjeuner.
+
+['Alice', 'Anna', 'Emma', 'Elizabeth', 'Helen']	Hélène	Enfin, elles arrivèrent devant la maison noire, et le cœur d’[MASK] se serra plus encore en voyant pour la première fois la demeure de sa petite élève. Elles traversèrent l’allée sombre, montèrent en tâtonnant les quatre étages dans l’obscurité et s’arrêtèrent un instant avant d’oser frapper à la porte.
+
+['Elle', 'Marie', 'Maman', 'Jeanne', 'Suzanne']	Lydie	[MASK] se laissait faire, étonnée, heureuse, n’osant pas remercier, mais ne refusant rien. Les deux enfants partagèrent un repas composé de pain et de fromage blanc ; puis on sortit triomphalement de la commode la belle poupée dont le nez était cassé.
+
+['Jeanne', 'Marie', 'lui', 'Madeleine', 'Léa']	Lydie	Quand le linge fut étendu, le feu allumé, et que [MASK] et sa mère eurent mangé, sans échanger une parole, la soupe réchauffée à la hâte, la petite s’étendit sur la paillasse, où elle passait souvent de longues heures sans sommeil.
+
+['</s>NOTUSED', 'Marie', 'Jean', 'Alice', 'Charles']	Madeleine	; elle les apprenait par cœur et les répétait d’un air dégagé, mais son cœur était fermé et elle n’en comprenait pas le sens. — Je ne l’aime pas, dit [MASK], quand elle se fut éloignée. — Ni moi non plus, répondit
+
+['Marie', 'Jeanne', 'maman', 'Marguerite', 'Alice']	Lydie	— Oh !... dit [MASK] d’un air d’effroi. — Eh bien, sais-tu, gardons-la jusqu’à dimanche et nous la glisserons dans sa Bible. Elle la pose toujours sur le banc avant de commencer.
+
+['Elle', 'Il', 'On', 'Marie', 'Maman']	Henriette	Non, je ne veux pas prendre tes deux sous, ma fille ; garde-les pour une autre fois, et porte-lui vite sa portion, car il faut vous hâter pour faire place à d’autres. [MASK] emporta promptement la soupe, et se cacha derrière les autres enfants pour la manger.
+
+['nouveau', 'Marianne', 'Marie', 'maman', 'Madeleine']	Madeleine	! quelle joie et quel honneur pour elle, qui n’était guère accoutumée qu’à être oubliée ou traitée avec dédain ! Elle releva la tête et sourit à [MASK]. Quand la classe fut finie, elles s’en allèrent ensemble s’asseoir dans un coin du préau ;
+
+['il', 'elle', 'Il', 'Charles', 'Pierre']	Maurice	réponds... — Parce que j’ai eu peur qu’on ne crût que c’était moi. Et, comme il voyait bien que son juge n’était pas convaincu, et qu’il se sentait encore sous l’étreinte de sa main vigoureuse, [MASK] ajouta : —
+
+['Marie', 'Jeanne', 'Alice', 'Catherine', 'Julie']	Hélène	— Tu es plus heureuse sans moi qu’avec moi, dit [MASK], me voilà bien convaincue de cette vérité. Oh ! que j’aurais voulu que tu pusses jouir aussi de cette verdure, de cette fraîcheur et de ce silence !
+
+['il', 'elle', 'on', 'chacun', 'Marie']	Maurice	mais maintenant que tu es avec moi, je te conseille de te donner de la peine. Et [MASK] commença dès ce matin-là à comprendre qu’il n’y a pas de plus grand plaisir que de se donner de la peine et de vaincre les difficultés lorsqu’on est sous une direction intelligente et affectueuse.
+
+['Louis', 'maman', 'Jules', 'Monsieur', 'Léon']	Madeleine	Nous saurons bien nous arranger. — Mais il n’y aurait plus moyen de remuer dans cette petite chambre ! — Maintenant que [MASK] va à l’école, nous n’avons plus besoin de tant de place. Il ne m’en faut pas beaucoup, à moi.
+
+['elle', 'il', 'Marie', 'Mademoiselle', 'Marguerite']	Henriette	Cependant, quand [MASK] se présenta pour réclamer une seconde portion, elle lui fit observer qu’elle avait déjà été servie. — C’est pour une autre, Madame, répliqua promptement la petite fille ; il y en a une qui n’a rien eu. — Laquelle
+
+['elle', 'Alice', 'Marie', 'Jeanne', 'Charlotte']	Madeleine	Aussi [MASK] à trois ans n’avait échangé de discours qu’avec sa poupée et regardait les enfants bruyants avec plus d’effroi que de plaisir. Une fois seulement sa mère l’avait conduite dans un jardin public, et la petite était restée saisie d’admiration devant les parterres éblouissants et les arbustes en fleurs.
+
+['Elle', 'Maman', 'Marie', 'Il', 'Madeleine']	Lydie	Maman m’a dit qu’elle aime beaucoup te voir sourire. [MASK] devint rouge de plaisir, mais sa figure s’assombrit de nouveau. — Il faut bien, dit-elle, qu’il y ait quelque chose pour qu’on ne m��aime pas.
+
+['Elle', 'Il', 'elle', 'Marie', 'Anna']	Lydie	[MASK] lui raconta comment ses vêtements avaient été mouillés, puis gelés par le froid, et qu’elle n’avait pas pu en changer, n’en ayant pas d’autres. — Comment avais-tu pu te mouiller ainsi ? il n’a pas fait de pluie.
+
+['Elle', 'Il', 'Marie', 'Anna', 'Alice']	Lydie	— Eh bien, je l’amènerai demain. [MASK] regardait la boîte, et au lieu de la mettre de côté comme d’autres petits objets qu’on lui avait donnés, elle la tenait dans sa main. — Tu lui diras que j’aime beaucoup sa boite.
+
+['vous', 'si', '?', '...', 'maintenant']	Madeleine	— Vous avez été ma seule amie depuis que j’ai perdu mon mari. Si nous devons souffrir un peu, nous souffrirons ensemble ; ce ne sera rien de bien nouveau. N’avez-vous pas souvent partagé avec moi votre morceau de pain, quand moi je n’avais rien ? — Et [MASK]
+
+['Marie', 'Alice', 'Rose', 'Charlotte', 'Emma']	Madeleine	; elle me prendra avec elle quand je serai devenue une demoiselle. C’est ça qui m’amuserai — Maman ne va jamais au bal, et moi je n’irai pas non plus, dit [MASK], qui ne savait pas même bien ce que c’était,
+
+['elle', 'Marie', 'Isabelle', 'Martine', 'Hélène']	Hélène	Le lendemain, [MASK] n’était pas à l’école du dimanche. Elle avait envoyé un message pour s’excuser et dire qu’elle était absente pour quelques jours, mais qu’on pouvait compter sur elle pour le dimanche suivant. Le dimanche suivant !... serait-ce encore à temps
+
+['Il', 'Elle', 'On', 'il', 'Marie']	Madeleine	Son cœur plein d’amertume quelques instants auparavant débordait de reconnaissance et d’émotion. [MASK] mit sans qu’on le lui dît une troisième assiette sur la table, et la soupe qui avait été préparée pour deux servit pour trois.
+
+['elle', 'il', 'on', 'maman', 'Marie']	Madeleine	— Va, ma petite, va à ta place, lui dit celle-ci sans deviner son embarras. Elle obéit les larmes aux yeux. Quand tout fut fini, comme les enfants se dispersaient, [MASK] lui demanda pourquoi elle n’avait pas donné son bouquet.
+
+['Pierre', 'Marie', 'David', 'Joseph', 'Socrate']	Robert	? Crois-tu toujours qu’il ait menti ? — Je serais bien fâché de lui faire tort, et pourtant je ne crois pas me tromper, répondit [MASK] ; mais nous l’amènerons peu à peu à faire son aveu s’il en a un à faire.
+
+['Il', 'On', 'Louis', 'Joseph', 'Antoine']	Valentin	[MASK] ne recevait chez ses parents que de mauvais exemples et il en profitait amplement. Il passait toute sa vie à courir les rues, à jouer de méchants tours, à se faire craindre et détester de tous les voisins, surtout de ceux qui avaient des enfants.
+
+['elle', 'on', 'Elle', 'On', 'il']	Henriette	demanda-t-elle. — Non, Madame, répondit la petite, étonnée à la seule idée qu’[MASK] pût être soupçonnée de donner quelque chose. — Comment, tu n’en as pas eu ? — Si, Madame. — Qui te l’a donnée ?
+
+['va', 'viens', 'maman', 'allons', 'allez']	Henriette	— Pauvre petite ! Tiens, [MASK], porte-lui cela. Non, je ne veux pas prendre tes deux sous, ma fille ; garde-les pour une autre fois, et porte-lui vite sa portion, car il faut vous hâter pour faire place à d’autres.
+
+['<unk>', 'Antoine', 'Émile', 'Alexandre', 'enfant']	Henriette	En l’entendant, le paysan se retourna et lâcha la main d’[MASK] que sa maîtresse tenait déjà de l’autre côté. — Ah ! ces enfants-là sont à vous ? dit-il. Eh bien, ils vous font honneur. Ils sont joliment bien élevés.
+
+['Marie', 'Jeanne', 'Catherine', 'Suzanne', 'Julie']	Lydie	N’était-ce pas une heureuse invention ? Une fois [MASK] guérie et la pièce de dix sous rendue, il n’aurait plus rien à craindre, et il entrerait bien résolûment dans sa vie nouvelle de travail et de bonne conduite.
+
+['Jeanne', 'Marie', 'Alice', 'Emma', 'Louise']	Lydie	— Mais ta mère... elle t’attend, dit [MASK], à qui cette pensée d’être attendue avait toujours paru un bonheur suprême. — Je courrai bien vite, après ; ce n’est pas si loin » Le temps s’était un peu radouci et la neige tombait par flocons serrés
+
+['maman', 'maintenant', 'ici', 'toi', 'là']	Madeleine	Cela lui prit beaucoup de temps d’arriver jusque-là. — Est-ce que ça peut aller, [MASK] ? demanda-t-elle à son amie qui s’amusait à dessiner sur son ardoise. Crois-tu qu’elle pourra lire ?
+
+['Rose', 'Alice', 'Anna', 'Marie', 'Emma']	Madeleine	demanda [MASK] en serrant la main de sa mère. — Je t’amènerai et je viendrai te chercher jusqu’à ce que tu sois bien habituée. — Tu me laisseras seule ?... — Je ne suis pas une petite fille, on ne me permettrait pas de rester avec toi.
+
+['maman', '</s>NOTUSED', 'Marie', 'la', 'elle']	Lydie	— Il faut aller chercher un médecin, dit une des personnes qui entouraient [MASK]. — Avec quoi est-ce que je le payerais ? cria la mère. Mon mari m’a pris hier tout ce que j’ai gagné ;
+
+['Elle', 'Marie', 'elle', 'Emma', '</s>NOTUSED']	Madeleine	; son souvenir s’est effacé dans tous les cœurs qui n’avaient senti pour elle qu’une pitié et une affection passagères, mais il est resté bien vivant pour ceux qui l’ont véritablement aimée. [MASK] est devenue une jolie jeune fille de quinze ans ;
+
+['Dieu', 'Marie', 'Jésus', 'Anna', 'Joseph']	Madeleine	lui demanda-t-elle. — Elle dit, répondit [MASK] pour son amie, qu’elle ne voudrait pas être si laide et si mal habillée au ciel comme elle l’est maintenant, parce qu’alors ils ne pourraient pas l’aimer. — Qui ils ?...
+
+['Elle', 'Marie', 'Alice', 'Il', 'Anna']	Madeleine	C’était, il est vrai, une douce figure que celle que son regard rencontra, une figure souffrante et maladive mais dont l’expression gagnait le cœur. [MASK] la regarda à plusieurs reprises et chaque fois elle se sentit plus attirée vers sa petite compagne.
+
+['elle', 'Jeanne', 'Charlotte', 'Louise', 'Marie']	Henriette	Chez elle, [MASK] était encore plus indisciplinée qu’ailleurs ; elle se sentait sur son terrain. — Allons ! Mademoiselle, dit la mère, levez-vous au lieu de vous traîner là comme un chien. J’en apprends de belles sur vous.
+
+['elle', 'il', 'on', 'Marguerite', 'Marie']	Lydie	Il fut peiné sans doute quand [MASK] lui dit qu’elle ne pouvait pas y goûter ; mais ce premier élan de généreux dévouement une fois refroidi, il faut avouer qu’il ne fut pas fâché de ce qu’elle lui laissait sa portion tout entière.
+
+['Elle', 'elle', 'Marie', 'Madeleine', 'Thérèse']	Hélène	! [MASK] avait le cœur serré, mais en regardant au fond de ces yeux clairs et doux fixés sur les siens, elle ne put s’empêcher de se dire : — « Le royaume des cieux est pour ceux qui leur ressemblent. » Ah !
+
+['Jésus', 'Dieu', 'Mahomet', 'Paul', 'Socrate']	Jésus	— Est-ce que tu ne sais pas que [MASK] a dit : « Faites du bien à vos ennemis.. » — Ah ! oui, on dit souvent cela, mais personne ne le fait. — Alors à quoi bon le dire si on ne le fait pas
+
+['le', 'Marie', 'la', 'Sophie', 'Alice']	Madeleine	— Les méchants !... pourquoi font-ils cela ? Moi, s’ils me jetaient de la boue, je leur en jetterais aussi. — Mais il ne faut pas rendre le mal pour le mal. — C’est drôle, ça, dit [MASK].
+
+['Elle', 'Il', 'Marie', 'elle', 'il']	Madeleine	je ne puis pas la regarder sans rire et ça la fâche. [MASK] se rendit alors compte pour la première fois de l’infirmité de sa petite compagne. Elle se rapprocha d’elle et passa son bras autour de son cou. — Je t’aime bien, moi, lui dit-elle.
+
+['Il', 'Lui', 'Thomas', 'Pierre', 'Jean']	Maurice	? Il entra. Sa mère avait le dos tourné. Elle travaillait encore avec fièvre aux dernières lueurs du jour. [MASK] ne dit rien et se mit à fureter dans les recoins de la chambre comme s’il cherchait quelque chose. — Que cherches-tu donc ?
+
+['Il', 'il', 'Joseph', 'Louis', 'Pierre']	Maurice	— La pauvre petite est bien mal, elle en mourra peut-être... [MASK] fit un mouvement involontaire, car il avait compris que sa mère lui disait l’exacte vérité. — Comment cela est-il arrivé ? demanda-t-elle. Qui l’a poussée si rudement ?
+
+['Marie', 'Jeanne', 'Sophie', 'Clara', 'Louise']	Lydie	Quelquefois, la nuit, il s’éveillait en sursaut : il avait rêvé qu’il était encore dans l’escalier noir et qu’il entendait le cri de terreur de [MASK] au moment où il l’avait saisie si rudement et lui avait fait perdre l’équilibre.
+
+['Elle', 'Il', 'elle', 'Marie', 'Jeanne']	Lydie	[MASK] continua un peu encouragée : « Can je suis thrisse je panse à vous pars que vous aîte si bonne et si goli et can je ne pui pas dor mire je panse que vous mavé ambrasé un gour can je vous è doné les fleurs.
+
+['manger', 'boire', 'bébé', 'chacun', 'Marie']	Madeleine	puis, en cachette, elle donnait à [MASK] le morceau de sucre qu’elle retranchait à la tasse de café qui était pourtant son seul régal. A l’approche de l’hiver, quand la petite eut un peu plus d’une année, la bonne dame commença à économiser dans un but mystérieux.
+
+['Il', 'Antoine', 'Louis', 'Charles', 'Joseph']	Maurice	[MASK] eut d’abord un frisson à la pensée de voir sa victime ; puis il se dit que ce serait une occasion de s’assurer qu’elle-même ne le soupçonnait pas, que peut-être d’ailleurs il la trouverait moins mal qu’on ne le disait, et il descendit avec sa mère.
+
+['Ainsi', '</s>NOTUSED', 'Toi', 'Jean', 'Non']	Maurice	C’est la clef de toutes choses, se donner de la peine. [MASK], je ne te ferai point de reproche pour ta paresse passée, cela ne me regarde pas ; mais maintenant que tu es avec moi, je te conseille de te donner de la peine
+
+['vous', 'non', 'hein', 'alors', 'elle']	Madeleine	... vous ne l’avez pas oubliée, [MASK] ? Les yeux de la jeune fille se remplirent de larmes, et elle regarda un petit cadre noir, suspendu à la muraille, qui renfermait une fleur desséchée et une boucle de cheveux bruns.
+
+['Marie', 'Joseph', 'Clara', 'Jeanne', 'Sophie']	Maurice	. — Oui, répondit-elle, je souffre bien moins. Le cœur de [MASK] s’allégea en entendant cette réponse. Si, après tout, elle allait guérir, quel bonheur ! Il vint tout près d’elle. — Est-ce que ta maman est sortie ?
+
+['Elle', 'Anna', 'Marie', 'Il', 'Emma']	Lydie	[MASK] ne montra aucune impatience ; elle était reconnaissante pour tout service, si gauchement qu’il fût rendu, et elle le remercia en laissant tomber sa tète en arrière comme si le simple effort d’avaler quelques gouttes d’eau eût été encore trop grand pour elle.
+
+['elle', 'on', 'maman', 'Maman', 'ça']	Madeleine	C’était tout plaisir d’aller à l’école par cette belle matinée ; [MASK] sautait et jasait tout le long du chemin. Elle était proprement vêtue d’une robe bien rapiécée avec un tablier de cotonnade tout neuf par-dessus.
+
+['John', 'David', 'Charles', 'Joseph', 'Daniel']	Maurice	— Non, pas autant, mais j’ai un mauvais rhume. — Qu’est-ce qui te l’a donné ? Elle ne répondit pas. — Ne peux-tu pas dire ce que tu penses, petite stupide ? cria [MASK] en lui prenant le bras.
+
+['Pierre', 'Jean', 'lui', 'chacun', 'Marie']	Maurice	Tantôt il chantait de jolies chansons que [MASK] essayait de répéter après lui ; tantôt il lui racontait quelque chose sur les pays éloignés dont il avait lu la description, sur les hommes et les animaux qui les habitent, sur la manière dont on y vit.
+
+['Il', 'Elle', 'Dieu', 'Jésus', 'On']	Lydie	! » Cela m’a fait du bien de l’entendre parler ainsi. [MASK] n’a pas même une tombe sur la terre, mais sa part est belle dans le monde où l’amour et la foi d’un cœur d’enfant sont la meilleure richesse.
+
+['même', 'cependant', 'pourtant', 'hélas', 'certainement']	Madeleine	Je l’aurais à peine reconnue, tant elle est grandie aussi ; bien plus que vous, [MASK]. C’est une femme maintenant. Je l’ai arrêtée au passage, mais elle paraissait se soucier médiocrement de renouveler connaissance.
+
+['elle', 'on', 'Marie', 'Madame', 'Catherine']	Henriette	répondait un des fils respectueux. Et dès qu’on avait fini le repas, chacun en ayant pris la plus large part qu’il avait pu, on se dispersait pour retourner aux affaires ou aux plaisirs. Ce soir-là [MASK] se mit au lit fatiguée et de mauvaise humeur.
+
+['elle', 'il', 'on', 'chacun', 'je']	Madeleine	Une jeune fille venait d’entrer, modestement vêtue, mais ses yeux brillants et son sourire illuminaient tout autour d’elle : elle vint s’asseoir au milieu du petit cercle d’enfants dont [MASK] faisait partie et le parcourut du regard, adressant à chacun une question, un sourire, quelquefois une caresse.
+
+['elle', 'Marie', 'Jeanne', 'Suzanne', 'Sophie']	Lydie	... — Elle t’embrasse souvent et moi jamais. Madeleine ne répondit pas et [MASK] resta un moment absorbée dans ses tristes pensées. — Crois-tu qu’au ciel je serai comme je suis maintenant ? dit-elle enfin. — Je ne sais pas.
+
+['Il', 'Elle', 'Lui', 'Pierre', 'Merlin']	Maurice	Mais il avait eu soin de fermer sa porte, et moi je dormais si bien que je n’ai rien entendu. [MASK] restait debout, les souliers féeriques à la main, les regardant, puis regardant son maître, et dans une telle perplexité que celui-ci éclata de rire.
+
+['Marie', 'Jeanne', 'Thérèse', 'Catherine', 'Louise']	Lydie	elle se mit à genoux près d’elle, et, appuyant sa joue contre celle de [MASK], elle la berça un instant comme font les mères avec leurs petits enfants malades. — Oui, dit-elle, en se relevant, tu as raison, le ciel vaudra mieux pour toi que la terre.
+
+['madame', 'Madame', 'Marie', 'Monsieur', 'Mme']	Lydie	continua-t-il. — Parce que j’aime beaucoup à y aller. — Drôle de goût ! Mais les filles sont si bêtes. Les trois quarts sonnaient à l’horloge voisine. — Je vais être en retard, dit [MASK], c’est à dix heures.
+
+['Maman', 'Oh', 'Ah', 'Papa', 'Mais']	Maurice	— [MASK], tu veux donc me briser le cœur ! Point de réponse encore, si ce n’est que le petit garçon se tourna avec impatience du côté du mur. Sa mère soupira. — La pauvre petite est bien mal, elle en mourra peut-être...
+
+['Elle', 'Il', 'Marie', 'Anna', 'Louise']	Lydie	Je ne voudrais pas la toucher du bout du doigt... Et elles s’éloignèrent en ricanant et en tenant leurs robes neuves des deux mains pour les empêcher de frôler les vêtements de l’enfant dont l’infirmité et la misère leur semblaient si repoussantes. [MASK] baissa la tête.
+
+['Alice', 'Marie', 'Jeanne', 'Anna', 'Emma']	Léon	— Alors à quoi bon le dire si on ne le fait pas ? Il y eut un moment de silence. — Je ne te ferai plus jamais de mal et je ne permettrai pas qu’on se moque de toi, dit [MASK] les larmes aux yeux.
+
+['elle', 'il', 'Marie', 'on', 'maman']	Hélène	demanda-t-elle, joyeuse et inquiète pourtant. — Elle est au ciel, répondit la jeune fille en serrant l’enfant contre elle, au ciel où l’on ne souffre plus et où l’on aime. Le lendemain, [MASK] revint apporter un bouquet de roses blanches et de jasmin.
+
+['Il', 'Elle', 'Pierre', 'il', 'Louis']	Maurice	Je ne veux pas y aller avec ces souliers-là. Ça prend l’eau comme une éponge. — Mais tu vas bien courir dans la neige. [MASK] ne répondit pas, et ferma la porte sur lui avec un bruit qui fit tressaillir tous les voisins dans leurs chambres.
+
+['tous', 'chacun', 'tout', 'Pierre', 'les']	Maurice	— Es-tu stupide ! lui dit son camarade, avec tes idées de rester chez toi !... Nous allons nous amuser comme des rois, aujourd’hui. Regarde !... Et il montra dans sa main ouverte plusieurs gros sous, dont la vue éblouit [MASK].
+
+['Mais', 'Oh', 'Non', 'Ah', 'Allons']	Maurice	— Ah bah ! tout le monde en a. C’est pour me contrarier que tu fais de la soupe. — [MASK], tu oublies que je suis seule pour suffire à tout et que je suis moins forte qu’autrefois. Il ne répondit pas et la mère continua
+
+['Marie', 'Julie', 'Sophie', 'Jeanne', 'Rose']	Madeleine	A ce moment, là maîtresse frappa sur son pupitre pour attirer l’attention de toute la classe. Elle allait donner une leçon générale, et l’esprit de [MASK] fut bientôt si absorbé parce qu’elle entendait de nouveau, qu’elle en oublia ses deux compagnes et tout ce qui se trouvait autour d’elle.
+
+['Julie', 'Marie', 'Sophie', 'Marguerite', 'Jeanne']	Madeleine	— Oui, elle est bien méchante ; mais tu sais qu’il faut aimer ceux qui nous font du mal, et elle me fait du mal très-souvent. — Oui, j’ai entendu qu’on disait cela l’autre jour, dit [MASK] d’un air pensif.
+
+['toi', 'quoi', 'non', 'oui', 'alors']	Jean	? Les enfants se taisaient. Tout à coup, une voix partit du milieu des garçons : — Oui ! — Qui a dit : Oui ? — C’est moi, dit un petit blondin joufflu. — Toi, [MASK] ! et qui est ton ennemi ?
+

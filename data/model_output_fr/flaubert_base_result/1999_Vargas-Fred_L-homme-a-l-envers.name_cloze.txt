@@ -1,0 +1,200 @@
+['sa', 'son', 'lui-même', 'ami', 'maria']	Danglard	Il s’arrêta aux bains municipaux où il resta vingt minutes planté sous la douche, la tête levée sous le jet tiède, les bras pendants le long du corps. Nettoyé, amnésique, il s’attarda une demi-heure au café puis chercha un coin isolé dans le bourg pour appeler [MASK].
+
+['le', '_', '</s>', '"', '.']	Soliman	Cela suppose qu’il a eu les moyens de l’attirer dehors. Un billet, ou un coup de fil. — A quelle heure ? — Vers deux heures du matin. — Un rendez-vous à deux heures du matin ? demanda [MASK]. — Pourquoi pas ?
+
+['elle', 'toi', 'moi', 'lui', 'la']	Massart	Je ne l’avais pas reconnue. Je ne pensais qu’à [MASK]. — Tandis que moi, dit le Veilleux en montrant son œil, je veille. Dis donc, c’est pas pour rien qu’on m’appelle le Veilleux. — C’est pas pour rien.
+
+['il', 'elle', '-', 'on', 'et']	Lawrence	— A peu près. — Colle pas. Doit signifier autre chose. [MASK] réfléchit. — Peut-être là qu’il pose ses pièges, proposa-t-il. — Pourquoi les pointer sur la carte ? — Inscrit ses prises. Repère les bons endroits.
+
+['alice', 'catherine', 'john', 'jacques', 'tom']	Hermel	— A la télé. — Hier, intervint un lieutenant, il n’y avait rien. C’est samedi soir. Je la regarde quand même, c’est mon seul soir de tranquille. — Il aurait mieux fait de t’imiter, dit [MASK] d’un ton pensif.
+
+['paul', 'robert', 'henri', 'celui-ci', 'jean']	Camille	« Ignorance », dit-il d’une voix plus posée. « Défaut général de connaissance, manque de savoir. » — C’est cela, dit [MASK]. Le Veilleux entreprit de rouler, lécher et coller trois cigarettes. — Faut lever le camp, dit-il.
+
+['paris', 'maman', 'rome', 'marie', 'jeanne']	Suzanne	— Et pour les croix ? — Simple question de boulot, d’après eux. Ça se tient, si tu es convaincu que [MASK] a été attaquée par un loup, juste par un loup. Et les flics en sont convaincus.
+
+[',', 'qui', 'et', '</s>', 'il']	Soliman	[MASK] reprendrait le flambeau. — Sol, je n’essaie pas de te faire sortir de là. — Tire-toi ! — Moi aussi j’ai du chagrin. — Ton chagrin ne vaut rien ! Il ne vaut rien, t’entends ? T’as même pas le droit d’être là
+
+['mais', 'et', '-', 'oui', 'très']	Camille	— Ça va être cradingue, [MASK]. Tu y as réfléchi ? — Oui. — Et dormir avec ces deux types ? Tu y as réfléchi aussi ? — Oui. Ça s’est embringué, c’est tout.
+
+['docteur', 'ça', 'hein', 'monsieur', 'toi']	Lawrence	C’est vrai, [MASK] ? — Vrai. L’autre soir, pendant que tu réparais la fuite. Elle dit que c’est un foutu connard de loup-garou qui saigne toute la région. Que c’est pour ça que les dents ne sont pas normales.
+
+['-il', 'robert', 'voltaire', 'celui-ci', 'paul']	Soliman	De la main gauche, il piqua une saucisse et trois pommes de terre et les laissa tomber maladroitement dans son assiette. — « Handicap », dit [MASK]. « Désavantage quelconque, infirmité qui met quelqu’un en état d’infériorité. »
+
+[',', 'un', "d'", 'une', "qu'"]	Lawrence	[MASK] acquiesça. — Je vois des, comment dirais-je, demandes de prolongations de visa. Des problèmes ? — Pas de problème. Je traîne. Je m’incruste. — Et pourquoi cela ? — Les loups, les insectes, une femme. — Pourquoi pas
+
+['(', 'par', 'à', 'et', ':']	Camille	— Un vieux type, c’est tout ce qu’on sait. Il l’a égorgé hors du bourg, à deux kilomètres de là, dans les collines. — Qu’est-ce qu’il a contre les vieux types ? murmura [MASK]. —
+
+['-', '-t-il', 'le', 't-il', '.']	Adamsberg	— Ce loup, rectifia [MASK]. Il est tout seul mais il compte pour dix. Un mangeur d’hommes insaisissable. — Et ça nous regarde ? D’une manière ou d’une autre ? — Non, Danglard. Comment voudriez-vous que ça nous regarde ?
+
+['à', 'le', 't-il', '.', 'il']	Sabrina	— Il ne le rendra jamais, souffla [MASK]. — Crois-moi que oui. Il le rendra. Baisse ton arme. Je tiens beaucoup au vieux qui est couché par terre. Je tiens beaucoup aux deux qui sont dans le camion.
+
+['...', 'de', 'un', 'deux', 'une']	Adamsberg	Faut qu’on se rationne. — Et toi, le Veilleux ? T’as aimé quelqu’un ? Le Veilleux resta silencieux. — Je m’en fous, dit [MASK]. Je n’ai pas sommeil. — T’as la réponse ?
+
+['</s>', 'il', '-', 'elle', '"']	Camille	— Tu comptes faire toutes les églises sur la route ? — Ce serait un moyen de le localiser. Il ne doit pas être très loin d’ici. Dix, quinze kilomètres à tout casser. [MASK] réfléchit en silence, les bras sur les genoux, tirant sur sa cigarette.
+
+['il', 'et', 'on', 'qui', 'elle']	Lawrence	Éclaire-le. Sous le faisceau jaune, [MASK] se pencha sur la blessure. — La carnassière a à peine planté, murmura-t-il, mais la canine, oui. Il ramassa un brin de paille et l’enfonça dans l’orifice sanglant.
+
+['</s>', '-', '"', 'elle', 'il']	Camille	Toute personne susceptible de fournir une information de nature à aider la police dans ses investigations est priée de contacter la gendarmerie ou le poste de police le plus proche de son domicile. [MASK] reposa le journal, désolée. — La fuite vient des flics, dit-elle.
+
+['lui', 'jacques', 'pierre', 'jean', 'celui-ci']	Soliman	Elle gardait de la nuit le souvenir d’un rêve menaçant, et de chocs autour du camion. Quelqu’un qui touchait au camion. Mais rien n’avait bougé dans la bétaillère et [MASK], qui avait fait la garde à vingt pas de là, n’avait rien vu.
+
+[',', '.', 'le', 'la', 'les']	Soliman	— Rien. J’ai eu la trouille, c’est tout. — Tu n’es pas très trouillarde. — Ça m’arrive. — De quoi t’avais peur ? insista [MASK]. — Des loups. J’avais peur des loups. Tu es satisfait ?
+
+['il', ',', '-', 'dis-je', 'et']	Adamsberg	— Doublement avisé, dit [MASK] en considérant la façade. Il se figure que les flics le chercheront dans des hôtels borgnes et il n’a pas tort. Il loge donc dans des établissements bourgeois. La jeune femme qui tenait la réception fut presque incapable de les aider.
+
+["qu'", ',', 'il', 'et', 'qui']	Soliman	[MASK] avait passé sa fin d’après-midi à transporter le Veilleux partout dans ses bras, pour descendre, pour monter, pour pisser, pour bouffer, en le traitant de vieillard. — N’empêche, lui disait-il, tu les as drôlement ratées, ces foutues marches
+
+['elle', 'il', 'qui', 'on', 'et']	Camille	[MASK] pensait que la toiture délabrée ne tenait le coup que par la grâce d’une solidarité occulte entre tuiles, soudées les unes aux autres par esprit de corps. L’endroit était désert et elle gagna la longue bergerie, plantée à flanc de pente cinq cents mètres plus haut.
+
+['elle', 'il', 'on', 'ça', 'cela']	Adamsberg	Il lui semblait qu’au début de la nuit, [MASK] lui avait dit quelque chose. Oui, elle s’en souvenait maintenant Plus déconcertée qu’hostile, elle échafaudait une manœuvre pour sortir sa main de là sans faire d’histoire, sans faire de peine à personne.
+
+['celui-ci', 'celle-ci', 'cheval', 'la', 'souris']	Camille	Après quelques minutes d’efforts, sa pensée lâcha prise à son insu et s’immergea dans les songes. Il sursauta après un quart d’heure, au bord du sommeil. Il étendit le bras, posa sa main à plat sur le dos de [MASK].
+
+['jacques', 'raoul', 'henri', 'julien', 'celui-ci']	Lawrence	— On peut se renseigner, savoir dans quelle bagnole il roule. Quand on saura ça, on aura une chance de le repérer. L’affaire de quelques jours peut-être. — C’est tout ce qu’ils lui veulent ? demanda [MASK], méfiant.
+
+['le', 'la', "l'", ',', 'm.']	Camille	C’est le suint qui fait ça. — Je sais, dit [MASK]. Le berger plissa les yeux dans l’obscurité, s’attarda sur la silhouette du flic. Voilà au moins un gars, un seul, qui ne râlait pas contre le suint de la bétaillère.
+
+['il', 'le', 'qui', 'ne', 'on']	Adamsberg	Mais [MASK] sut sur l’instant qu’il faisait face au loup-garou. Le tueur vagabond, l’homme de toutes les esquives, celui qui se terrait depuis maintenant deux semaines, se découvrait enfin pour un face à face meurtrier.
+
+['famille', 'jésus', 'dieu', 'chacun', 'jésus-christ']	Massart	— Nous, on s’en branle du plafond légal, dit le jeune homme. — Je suis au courant. C’est pas la question de la loi. C’est la question de la vie de [MASK]. — Ça revient au même. — En partie.
+
+['il', 'elle', 'je', 'on', 'tu']	Soliman	Il serra la main du Veilleux. — Veille sur toi, mon gars, dit le Veilleux. Je suis plus derrière toi. — Tout le monde n’a pas besoin de t’avoir dans les pattes, dit [MASK].
+
+['le', 'm.', 'la', 'un', "l'"]	Soliman	Laurence. On aurait fini par trouver, Sol. — Peut-être pas, dit [MASK]. — Peut-être pas. Mais il y a eu les poils de loup. On s’en est inquiété et soudain, on en trouve. Qui était au courant ?
+
+['patiemment', 'encore', 'et', 'toujours', 'cela']	Adamsberg	Elle aussi attendait [MASK], sans plaisir et sans ennui. Le revoir avait été moins harassant qu’elle ne l’avait craint. Et le convaincre ne lui avait coûté aucun effort. Il avait paru prêt à s’occuper de cette affaire de loup avant même qu’elle n’en parle.
+
+['lui', 'napoléon', 'chacun', 'dieu', 'césar']	Massart	Cent fois plus, mille fois plus. Il y avait là pour [MASK] un pays immense et vide, où il n’aurait qu’à tendre les crocs pour puiser de l’eau, de la viande et des victimes en abondance. Mais il y avait le froid.
+
+['-t-il', 't-il', 'celui-ci', 't-elle', 'il']	Buteil	— Faut pas vous biler, lui cria [MASK], élevant la voix pour couvrir le sifflement du jet d’eau. Ce camion, c’est comme la Belle et la Bête, ça se transforme. J’en fais un trois étoiles en moins de deux heures.
+
+['secours', 'chasse', 'représailles', 'france', 'daech']	Suzanne	Elle avait accepté la veille au soir de lancer la bétaillère de [MASK] aux basques d’un assassin. Elle entrevoyait ce matin les défauts majeurs de l’entreprise : niaiserie du projet, danger de l’exécution, désagrément de la promiscuité avec deux types presque inconnus qui n’avaient pas l’air au mieux de leur quiétude.
+
+['</s>', ',', '.', 'de', 'et']	Camille	Qui croit qu’il n’y a pas de bête. — Les brebis mortes, il n’y croit pas non plus ? — Si. Bien sûr que si. Mais pas à la bête. [MASK] haussa les épaules, découragée. — Qui croit à quoi, alors ?
+
+['acier', 'or', 'angélique', 'olivier', 'argent']	Adamsberg	Si vous revenez, je vous tirerai comme des chiens. Toi, le gros, essaie pas de bouger, dit-il en tournant rapidement son arme. Tu veux qu’on commence tout de suite ? — Ne tirez pas, le Veilleux, dit la voix d’[MASK].
+
+['</s>', '"', '_', 'il', 'elle']	Adamsberg	Quand il l’entendrait avouer le meurtre du jeune homme, il éprouverait cette joie brève qui naissait en lui chaque fois que l’intuition entrait en contact avec la raison. [MASK] sourit. Il doutait souvent, mais pas sur cette affaire.
+
+['elle', 'il', 'je', 'on', 'chacun']	Adamsberg	Elle dormit mal, dans ce qui-vive qu’elle connaissait bien, et qui lui signalait que quelque chose était en train de dérailler. Au matin, [MASK] lâcha sa main, attrapa ses habits et descendit du camion. À ce moment seulement, elle s’endormit pour deux longues heures.
+
+['il', 'elle', 'on', 'chacun', 'et']	Adamsberg	On évoque cette fois une bête d’une taille exceptionnelle. Réalité ou légende ? Sur place… Tout doucement, [MASK] se rapprocha du poste, l’assiette à la main, sur la pointe des pieds, comme pour ne pas effaroucher le commentateur.
+
+['il', 'on', 'elle', 'celui-ci', 'lui']	Adamsberg	Mais [MASK] n’avait pas besoin de grand-chose. Il attendait le dossier d’Interpol. Exceptionnellement, ce samedi, il ne sortit pas une seule fois marcher dans la campagne, griffonnant debout sur son carnet à dessin en surveillant le crépitement du fax.
+
+[',', 'que', "qu'", 'ainsi', 'et']	Hermel	— Tenez-moi au courant, [MASK]. Les analyses et le dossier. Le dossier surtout. — Le dossier, je sais. — A propos de cette tueuse que j’ai aux fesses, prévenez vos hommes de la boucler. N’oubliez pas. — Dangereuse ?
+
+['</s>', 'il', '"', '_', 'on']	Lawrence	En ce premier jour de guerre, les combattants avaient respecté leurs marques. Mais rien n’était joué. La battue reprenait à l’aube. Et le surlendemain, samedi, il y aurait cinq fois plus d’hommes disponibles. [MASK] restait là-haut, sur place.
+
+['de', 'et', 'il', '</s>', ',']	Suzanne	La tenant par le bras, il l’amena jusqu’au break et l’installa sur le siège avant. — Moi aussi j’ai de la peine, dit le gendarme. Mais faut pas le dire. C’est pas réglementaire. — Elle s’en branle du règlement, [MASK]
+
+[',', '(', '-', 'rodolphe', 'valentine']	Adamsberg	dit [MASK] d’un ton un peu désabusé. — Seulement, si on l’attend, faudra penser à trouver du pinard. — On y pensera. Le Veilleux avala une gorgée. — Ces motards de l’autre jour, reprit-il, faudra aussi y penser.
+
+['on', 'il', 'elle', 'tout', 'montagne']	Massart	Partout où cherchait son regard, les montagnes opposaient leurs masses noires et compactes, somptueuses et sans espoir. Tôt ou tard, il faut sortir de la montagne. Tôt ou tard, [MASK] serait hors de sa protection. Sans doute.
+
+['m', ':', '"', 'mrs', 'celui-ci']	Lawrence	Ils serrèrent la main du gendarme moyen, qui avait l’air hagard et dépassé. — On peut voir les blessures ? demanda [MASK]. Le gendarme haussa les épaules. — Faut toucher à rien, dit-il d’une voix mécanique. Faut toucher à rien.
+
+['on', '</s>', 'chacun', 'il', 'on']	Camille	Voilà qui aurait résolu bien des soucis à la professeur de grec si seulement elle s’était donné la peine de s’y intéresser. On frappa doucement à la porte, deux coups. [MASK] sursauta et s’assit sur le lit. Elle ne bougea pas et attendit.
+
+['toi', 'moi', 'ça', 'lui', 'cela']	Camille	J’ai soulevé la bâche et par la claire-voie, je l’ai vu s’éloigner dans ta direction. J’ai compris qu’il allait te chercher pour une bonne petite explication, à propos de [MASK], et je me suis dit que ça ne me regardait pas.
+
+['le', 'm.', 'alors', 'madame', 'la']	Lawrence	— Est-ce que vous suggérez qu’on se saisisse de cet individu et qu’on l’ouvre ensuite depuis la gorge… — Merde, dit [MASK]. Bullshit Ceci est une affaire sérieuse. — Fort bien. Présentez et argumentez votre accusation.
+
+['c', 'b', '</s>', '"', '-']	Suzanne	? demanda-t-elle. — [MASK] est contre les loups. Elle dit qu’il n’en sortira rien de bon. Que cette bête-là attaque pour le plaisir de tuer. — Elle est pour la battue ? — Elle est contre les battues aussi.
+
+['qui', 'je', '</s>', '-', 'il']	Adamsberg	[MASK] grimpa à cet instant dans le camion. — Comment va-t-il ? — La cheville, dit le gendarme. Je pense qu’il n’y a rien de cassé. Mais vaudrait mieux voir un médecin. Vous aussi, commissaire, dit-il en regardant son bras, serré dans un bandage d’appoint.
+
+['il', 'elle', 'on', 'ça', 'qui']	Suzanne	A dix-sept ans, le jeune homme avait tenté une unique rébellion. — J’en ai rien à foutre de ces types, avait-il gémi devant un reportage sur la chasse au phacochère. Et pour la première et dernière fois, [MASK] lui avait retourné une baffe.
+
+['</s>', 'il', 'on', 'ça', 'lui']	Lawrence	Et beaucoup de boulot, s’il avait bien compris. [MASK] n’aimait pas discuter à perte de vue des détails du boulot. On faisait le boulot, c’est tout. Et c’était ce qu’il y avait de plus important.
+
+['celui-là', 'celui-ci', 'ça', 'cela', 'moi']	Massart	Tu as déjà essayé de saisir un type comme [MASK], bordé d’un dogue et d’un loup ? — On va se préparer. On repérera sa voiture et on le suivra jusqu’à ce qu’il massacre un troupeau. Flagrant délit. Là, on le serrera.
+
+['il', '-il', 'cela', 'on', 't-il']	Soliman	— Il en a peut-être déjà démoli un autre, dit [MASK] avec insistance. Mais ça, on ne peut même pas le savoir. On ne peut même pas avoir le premier renseignement sur un vampire qu’on est seuls à connaître. Qu’on est seuls à pouvoir bloquer.
+
+[',', 'jésus', 'comme', 'david', 'jusque']	Hellouin	Les superstitieux ne font pas ça. Ils s’accrochent, ils s’obstinent, ils ne lâchent surtout pas prise dans un défi aussi grave. Mais lui a égorgé [MASK] dans un pré, tout simplement. Ça signifiait que les croix précédentes étaient sans doute des foutaises.
+
+['</s>', 'il', 'elle', '_', '"']	Sol	Ouvre-la, prends la photo. Montre-la-lui. [MASK] s’exécuta, sortit de l’enveloppe le portrait noir et blanc d’un petit garçon d’environ huit ans, et le plaça devant le visage de la fille. Sabrina baissa les yeux vers l’image.
+
+[',', 'exactement', 'chacun', 'ainsi', 'militairement']	Suzanne	. On aurait cru, à les voir encadrer [MASK] comme deux gardes immobiles, qu’ils attendaient un seul signe d’elle pour disperser d’un revers de bâton une cohue d’assaillants imaginaires montant à l’assaut. Rien de tel.
+
+[',', 'et', 'la', 'par', ':']	Adamsberg	— La cheville, dit le gendarme. Je pense qu’il n’y a rien de cassé. Mais vaudrait mieux voir un médecin. Vous aussi, commissaire, dit-il en regardant son bras, serré dans un bandage d’appoint. — Oui, dit [MASK].
+
+['elle', 'il', 'on', 'cela', "l'"]	Soliman	— Parle pas comme ça de tes origines ! avait-elle ordonné. Et comme [MASK] avait manqué pleurer, elle avait tenté de s’expliquer plus tendrement, sa grosse main serrée sur l’épaule délicate du petit. — On s’en branle, Sol, de la patrie.
+
+['</s>', 'qui', 'il', 'ce', "'"]	Soliman	— Qu’est-ce qu’elle t’a dit de lui ? A part les poils ? — Rien. [MASK] est arrivé et elle s’est tue. Je n’ai rien su de plus. — C’est déjà pas mal. — C’est beaucoup trop. —
+
+['quoi', 'ça', 'pas', 'qui', 'bien']	Massart	— Rien sur la route ? — Rien. — Tu connais [MASK] ? — Le tordu du mont Vence ? — Ouais. — Je le vois par-ci par-là, à des messes. Il va pas à l’église par chez vous.
+
+['</s>', '-', 'il', 'elle', 'et']	Camille	Le dictionnaire est formel là-dessus : il ne parle pas de défaite. [MASK] fronça les sourcils. — Ça ne peut pas attendre ? dit-elle. D’ici un jour ou deux, il y aura peut-être de nouvelles brebis. On saura où aller.
+
+['voiture', 'conduire', 'pourquoi', 'non', 'moto']	Camille	Ecoute ça, écoute au moins ça : tu conduirais le camion, et tu n’aurais à t’occuper de rien d’autre, tu comprends ? Juste conduire le camion. Moi et le Veilleux, on se chargerait de tout le reste. Conduire, [MASK], on ne te demande que ça,
+
+['le', 'la', 'm.', 'rodin', 'henri']	Camille	Précisez-moi l’objet de votre appel. — Je ne veux pas préciser l’objet de mon appel, dit tranquillement [MASK]. Je veux parler au commissaire Adamsberg. — Personnel, hein ? — C’est ce que j’ai dit.
+
+['elle', 'il', 'et', '</s>', 'puis']	Camille	Le chien la rassurait. Il sentirait l’approche du groupe bien avant qu’il ne soit sur elle. [MASK] passa ses doigts dans son pelage. C’était un chien qui puait le chien, bien sûr, mais elle lui était reconnaissante d’être vautré sur ses bottes.
+
+['</s>', '"', '-', 'il', '--il']	Camille	— Tu l’as fait exprès ? demanda-t-il d’une voix un peu contenue. D’être camionneur ? Tu ne pouvais pas t’en empêcher ? [MASK] haussa les épaules. — Ça s’est fait comme ça, dit-elle.
+
+['jacques', 'marguerite', 'catherine', 'henriette', 'julien']	Camille	Le berger fixait d’une mine maussade cette étendue sans grandeur et sans limites, qui le dépouillait du soutien de toute sa vie. — C’est plat, hein ? dit [MASK]. La route était déformée, le camion résonnait de toutes ses tôles et il fallait élever le ton pour se faire entendre.
+
+['.', 'le', 'la', 'jean', ':']	Adamsberg	Je vis avec lui. — On comprend mieux comme ça, dit [MASK]. Il se leva, ramassa la branche de saule et fit quelques pas dans la clairière. — Où t’es-tu garée ? demanda-t-il.
+
+['</s>', '.', 'à', 'que', 'en']	Saint-Victor	L’entendre lui rappelait [MASK], les hauts murs du village perché, les ruelles serrées, les montagnes puissantes, encadrantes, la vue bouchée. Là-bas, tout lui semblait prévu, attendu. Mais ici, tout paraissait confus, et possible.
+
+['on', 'et', 'il', ',', 'qui']	Adamsberg	[MASK] se demandait si ça valait aussi pour les loups. Fallait pas avoir beaucoup de plomb dans le crâne pour acculer une bête pareille. Voilà ce qui arrive quand on fonce. Toujours aller trop vite, toujours précipiter les choses. Ça ne donne rien de bon.
+
+['</s>', '"', '--non', '-', '--oui']	Camille	On ne va pas perdre une seule balle à sanglier dans le cul de ces vermines. Ça nous prendrait trop de temps et on est pressés. Très pressés. [MASK], viens près de moi, prends mon portable dans ma veste, appelle les flics.
+
+['le', 'paul', 'marcel', 'robert', 'pascal']	Soliman	— Peut-être pas. Mais il y a eu les poils de loup. On s’en est inquiété et soudain, on en trouve. Qui était au courant ? Les flics, et nous cinq. — Je vais voir le Veilleux, dit [MASK].
+
+['le', 'il', 'je', 'elle', 'la']	Camille	Si tout le village lui tombe dessus ? Si la grosse a parlé aux autres ? Il a peur qu’on lui ouvre le bide depuis la gorge jusqu’aux couilles. Et il s’enfuit, avec son chien. — Je n’y crois pas, dit [MASK].
+
+['john', 'tom', 'robert', 'joe', 'catherine']	Soliman	— S’il a une voiture, il n’est plus forcé de se déplacer de nuit. Il peut rouler de jour. Il peut sortir de ce garage à cinq heures du soir comme il peut en sortir à l’automne. — Non, répéta [MASK].
+
+["j'", 'chacun', 'celui-ci', "s'", 'lui']	Michelet	Le Veilleux fit un signe de la tête. — Ouais. T’avais rien remarqué ? — Un truc. — Quoi ? — Il a pas de poils. Un silence s’établit entre les deux hommes, le temps que [MASK] assimile l’information.
+
+['donc', 'maintenant', 'peut-être', 'monsieur', 'seul']	Danglard	Et c’est une fille douée. Pas un mot à personne, même si ma propre mère vous appelle en gémissant. Sachez que ma mère ne gémit jamais, pas plus qu’aucune de mes cinq sœurs. Vous seul, [MASK], aurez mon numéro.
+
+['socrate', 'il', 'samuel', 'jeanne', 'celui-ci']	Soliman	— Or, continua [MASK], un jour que l’homme puisait à la mare d’un seul bras, un poisson sans nageoires se trouva prisonnier dans son pot à eau. « Laisse-moi aller », implora le poisson… — Merde, Sol, cria le Veilleux.
+
+['</s>', 'cela', 'elle', '-', 'qui']	Camille	Aussi, sur ces traits inégaux et tumultueux, les fines marques de l’âge étaient-elles largement submergées par le chaos général de l’ensemble. [MASK] s’obligea, à titre de simple précaution, à regarder ce visage qu’elle avait en un temps placé au-delà de tous les autres.
+
+['il', "s'", 'lui', 'père', 'qui']	Adamsberg	[MASK] était protégé comme s’il avait une colonne de tueurs aux fesses. Il lui semblait que le souvenir de sa mère avait beaucoup fait pour briser le tir de barrage du lieutenant. Elle sourit. La Reine Mathilde était à elle seule un laissez-passer, il en avait toujours été ainsi.
+
+['il', ',', '</s>', 'et', ':']	Soliman	[MASK] revint en sueur de la ville, balança sa mobylette sur le bas-côté, jeta le pain frais et une brassée de journaux sur la caisse en bois. — Tout est dans ces putain de journaux ! cria-t-il. Tout ! Une catastrophe ! Une fuite monumentale !
+
+['johnson', 'edison', 'immédiatement', 'armstrong', 'alors']	Soliman	Ensuite, on ajusterait les éléments ensemble. — Au début du monde, commença [MASK], l’homme avait trois yeux. — Merde, dit le Veilleux. Nous assomme pas avec tes histoires. Tiens-toi tranquille. —
+
+['-', '</s>', '(', '--', '"']	Camille	Ils chassent sur les mêmes terres. Elle doit l’éliminer. — Tu penses trop aux grizzlis. — C’est comme ça que ça marche. Ce sont deux concurrents féroces. [MASK] hocha la tête. — Qu’est-ce qu’elle t’a dit de lui ?
+
+['maintenant', 'donc', ':', 'également', 'aussi']	Danglard	Il s’assit près d’elle, lui ôta avec soin sa coiffe grise, caressa les cheveux roux. — Lève-toi, dit-il doucement. Un de mes hommes va venir te chercher. Il s’appelle [MASK].
+
+['m', 't-il', 'celui-ci', 'le', 'jean']	Lawrence	— Tu vois. Un long moment de silence s’écoula entre les deux hommes. — Mais grand quand même, reprit [MASK]. — Il risque d’y avoir du sport, dit le menuisier en parcourant la place du regard, les hommes aux poings enfoncés dans les poches. — Leur dis pas.
+
+['</s>', 'elle', 'ça', 'cela', 'qui']	Adamsberg	Elle planquait toujours contre une poubelle, les mains dans le dos. Quand les flics étaient sur elle, le flingue était déjà ailleurs. Situation grotesque mais pas moyen de l’inculper. [MASK] d’ailleurs freinait ses collègues. Ça ne servait à rien de l’arrêter.
+
+[',', 'il', 'elle', 'et', 'enfant']	Adamsberg	[MASK] s’assit à côté d’elle, examina la page des perceuses-ponceuses. — Qu’est-ce que tu peux bien chercher là-dedans ? dit-il. — Du réconfort. — A ce point ? — Tout est aléa, confusion et précarité, sauf le Catalogue .
+
+['jésus', 'jacques', 'paul', 't-il', '-t-il']	Michelet	— Ce que je peux te dire, c’est que le gars aurait mieux fait d’être moine. On dit qu’il a jamais touché une femme. Le Veilleux resservit une tournée. — Je l’ai pas vu rater une messe, continua [MASK].
+
+['</s>', 'il', "j'", 'on', 'et']	Camille	« Ici, continua-t-il en se dirigeant vers le fond et en écartant une lourde toile grise, salle de bains. » [MASK] examina la cabine de douche fabrication maison, surmontée d’un vieux chauffe-eau reconverti à usage de réservoir, capacité environ cent cinquante litres.
+
+['dieu', 'm', 'tom', 'jacques', 'roger']	Mombo	Dorénavant, tu ne couperas plus du bois avec ta bouche mais tu tisseras du fil avec tes fesses. Et avec ce fil, jour après jour, tu recolleras les branches et tu laisseras les oiseaux nicher. » « Que dalle », fit le fils de [MASK]…
+
+['ce', ',', 'et', 'cela', 'plus']	Massart	La nuit, il s’inverse, et sa peau velue apparaît. — De sorte que [MASK] ne serait jamais qu’un manteau de fourrure retourné ? — Si tu veux. — Et ses dents ? Elles sont réversibles ? Où les range-t-il, le jour ?
+
+['il', 'on', 'ce', 'tout', ',']	Massart	— Cette fois, dit-il, il l’a égorgé à l’entrée d’un pré, et il n’y avait aucune sorte de croix. Comme quoi [MASK] n’est pas si sourcilleux qu’on le pense quand il s’agit d’être efficace.
+
+['</s>', 'il', 'le', 'et', '"']	Buteil	La bétaillère sortit bruyamment du chemin de terre et de caillasse. [MASK], adossé à la vieille barrière de bois, leur fit un signe de main contraint, avec la mine soucieuse d’un gars qui voit sa maison foutre le camp à travers les champs. XVII
+
+['en', 'elle', ',', 'femme', "n'"]	Camille	[MASK] était orgueilleuse et ne rendait de comptes à personne. Il l’avait revue, une seule fois, dans un train, il y avait au moins cinq ans de ça. Ils s’étaient aimés deux heures, et puis plus rien, elle avait disparu, vis ta vie camarade.
+
+['john', 'tom', 'robert', 'harry', 'alice']	Camille	Mais cela, ça t’a complètement échappé. — Possible, répéta [MASK], qui réalisait en effet que cela lui avait tout à fait échappé. — Parce que tu n’es pas un homme, voilà pourquoi. Tu ne détectes pas la femelle dans la brebis.
+
+['</s>', 'avant', '"', ')', 'mais']	Suzanne	ou des âneries de ce genre. Vous n’êtes pas du pays, alors ne dites rien, ne dites rien sans beaucoup réfléchir avant. [MASK], c’était la Madone du Veilleux, rien de moins. Alors, pas d’âneries. Surtout pas d’âneries.
+
+['non', 'je', 'monsieur', 'rien', 'oui']	Camille	Si on est pas en train de se remplir de vin en s’en fichant pas mal ? — Non, Sol, je ne crois pas ça. — Non, [MASK] ? Alors pourquoi t’es là ? — Tu ne te souviens pas ? Pour conduire.
+
+['jacques', 'jean', 'henri', 'paul', 'robert']	Soliman	— Qu’est-ce que tu fais ? dit [MASK], stupéfait. Tu fais une prière ? — Je compare. — Même. Si tu mets un cierge, faut faire une prière. Et faut payer le cierge. Sinon, on n’est pas exaucé.
+

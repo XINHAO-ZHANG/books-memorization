@@ -1,0 +1,200 @@
+['tout', 'se', 'le', 'VAL', "s'"]	Lantier	La vraie vérité était que [MASK], très bavard sur les autres, se taisait ou mentait quand il s’agissait de lui. Il ne voulait même pas dire où il demeurait. Non, il logeait chez un ami, là-bas, au diable, le temps de trouver une belle situation
+
+['enfant', 'adulte', 'ami', 'occupant', 'installé']	Étienne	Enfin, elle renvoyait ça à plus tard, avec un soupir.Le ménage vécut dans l’enchantement de sa nouvelle demeure. Le lit d’[MASK] occupait le cabinet, où l’on pouvait encore installer une autre couchette d’enfant. La cuisine était grande comme la main et toute noire
+
+['il', 'et', 'puis', 'Il', 'on']	Zidore	; puis, légèrement, au marteau, il ployait cet éventail en forme de champignon pointu. [MASK] s’était remis à souffler la braise du réchaud. Le soleil se couchait derrière la maison, dans une grande clarté rose, lentement pâlie, tournant au lilas tendre.
+
+['la', "l'", 'ses', 'son', 'terre']	Nana	D’abord, le zingueur flanqua une tripotée à [MASK]. Qu’est-ce qu’on lui apprenait ? cette gueuse-là donnait dans les vieux ! Ah bien ! qu’elle se laissât surprendre à se faire relicher dehors, elle était sûre de son affaire, il lui couperait le cou un peu vivement !
+
+['mots', 'propos', 'langage', 'tout', 'langue']	Sophie	Puis, elle-même répéta la phrase, qui courut ainsi d’oreille à oreille, au milieu des exclamations et des rires étouffés. Lorsque toutes connurent la saleté de [MASK], elles se regardèrent, elles éclatèrent ensemble, un peu rouges et confuses pourtant.
+
+['elle', ',', 'lui', 'peine', 'visage']	Gervaise	Des lambeaux d’étoffe volaient. D’abord, ce fut sur [MASK] que le sang parut, trois longues égratignures descendant de la bouche sous le menton ; et elle garantissait ses yeux, les fermait à chaque claque, de peur d’être éborgnée.
+
+['Paris', 'était', 'est', 'un', 'le']	Sainte-Anne	elle fila, ayant assez d’une représentation. Dans les rues, le galop des chevaux et le bruit des voitures lui firent croire que tout [MASK] était à ses trousses. Et ce médecin qui l’avait menacée ! Vrai, elle croyait déjà avoir la maladie.
+
+['elle', 'il', 'on', 'cela', 'celle-ci']	Coupeau	! C’était toute sa mère, avec des yeux d’ailleurs ; pour sûr, ces yeux-là ne venaient pas de la famille.Cependant, [MASK] ne reparaissait plus. On l’entendait, dans la cuisine, se battre avec le fourneau et la cafetière.
+
+['madame', 'Madame', 'monsieur', 'Monsieur', 'mademoiselle']	Claude	C’est lui qui a fermé la porte et qui vous a dit d’apporter la clef, n’est-ce pas ?Et, baissant la voix, à l’oreille de [MASK] :– Est-ce qu’il y avait une dame dans la voiture ?
+
+['elle', 'Elle', 'il', 'femme', 'ella']	Virginie	Elle répéta à plusieurs reprises :– Non, non, je ne veux pas, ça compromet la maison.Par terre, la lutte continuait. Tout d’un coup, [MASK] se redressa sur les genoux. Elle venait de ramasser un battoir, elle le brandissait.
+
+['elle', 'et', 'il', '</s>', 'Elle']	Gervaise	et elle se remettait au travail, débarbouillait ses enfants, faisait la soupe, ne laissait pas un grain de poussière sur les meubles. Ça rentrait dans sa tâche de tous les jours d’être battue.[MASK] s’était prise d’une grande amitié pour sa voisine.
+
+["s'", ',', 'se', 'la', 'de']	Virginie	Vous ne savez pas, la mère ! j’ai vu Nana, l’autre jour.[MASK], assise au comptoir, l’air soucieux en face des bocaux et des tiroirs qui se vidaient, hocha furieusement la tête. Elle se retenait, pour ne pas en lâcher trop long
+
+['la', '--', 'La', 'malheureuse', 'roi']	sage	Madame va en manger avec moi. N’est-ce pas, madame ?La [MASK]-femme refusa ; mais elle voulut bien boire un verre de vin, parce que ça l’avait émotionnée, disait-elle, de trouver la malheureuse femme avec le bébé sur le paillasson.
+
+['celle-ci', 'Marie', 'Françoise', 'Catherine', 'celui-ci']	Lorilleux	Elle appela [MASK], lui demanda son mouchoir ; puis, dans un coin de la boutique, soigneusement, elle essuya une à une les gouttes de pluie roulées sur la soie.Cependant, l’ondée avait brusquement cessé.
+
+["s'", "n'", 'il', 'qui', "l'"]	Gervaise	Elle peut se ficher de nous tous, elle a du bonheur par-dessus la tête, cette gueuse !… L’amour de petit chat ! non, vous n’avez pas idée d’un petit chat pareil ![MASK] essuyait toujours son plat, bien qu’il fût net et luisant depuis longtemps.
+
+['et', 'la', 'une', '</s>', 'leur']	Gervaise	Et les formalités, la lecture du Code, les questions posées, la signature des pièces, furent expédiées si rondement, qu’ils se regardèrent, se croyant volés d’une bonne moitié de la cérémonie. [MASK], étourdie, le cœur gonflé, appuyait son mouchoir sur ses lèvres.
+
+['à', ',', 'des', 'beaucoup', 'le']	Nana	On n’aime pas, quand on est dans la crotte, recevoir un rayon en plein sur la tête. Aussi, les jours où elle cherchait [MASK], rageait-elle d’enjamber des matériaux, de patauger le long des trottoirs en construction, de buter contre des palissades.
+
+['</s>', 'et', 'elle', 'la', ',']	Gervaise	Les ouvriers avaient bâclé ça comme en se jouant, sifflant sur leurs échelles, chantant à étourdir le quartier.L’emménagement eut lieu tout de suite. [MASK], les premiers jours, éprouvait des joies d’enfant, quand elle traversait la rue, en rentrant d’une commission.
+
+[',', 'elle', 'on', 'tout', '...']	Gervaise	! Ah ! zut ! je ne joue plus !Et [MASK] s’intéressait au tourniquet. Elle soiffait à tirelarigot, et appelait Mes-Bottes « mon fiston ». Derrière elle, la machine à soûler fonctionnait toujours, avec son murmure de ruisseau souterrain ;
+
+['elle', 'on', 'se', 'de', 'à']	Gervaise	Cependant, [MASK] baissait la tête. Vrai, elle craignait de se rendre malade. Pourtant, désirant prouver que ce n’était pas histoire de se faire prier, elle commença deux ou trois petits sauts ; mais elle devint toute chose, elle se rejeta en arrière ;
+
+['t-il', 'roi', 'moi', 'bas', '"']	Boche	On se la montrait avec des clignements d’yeux et des hochements de menton. Sacré mâtin ! quelle dame ! quelles cuisses et quel ventre !– Elle ne s’est pas engraissée à lécher les murs, celle-là ! dit [MASK].Alors, on entra dans des détails sur la bête.
+
+[',', 'le', 'les', 'de', 'la']	Gervaise	c’est-à-dire que personne de la société ne se souvenait de s’être jamais collé une pareille indigestion sur la conscience. [MASK], énorme, tassée sur les coudes, mangeait de gros morceaux de blanc, ne parlant pas, de peur de perdre une bouchée
+
+['il', 'on', 'cela', 'elle', 'ça']	Coupeau	Et le malheur qui la menaçait, la rendait naturellement plus sensible encore au malheur de la petite. Oui, [MASK] filait un mauvais coton. L’heure était passée où le cric lui donnait des couleurs. Il ne pouvait plus se taper sur le torse, et crâner, en disant que le sacré chien l’engraissait
+
+['il', 'qui', ',', 'on', 'et']	Boche	[MASK] lâchait la redingote ou le pantalon dont il refaisait les boutonnières, venait de son côté surveiller ses hommes. Et tous deux, debout en face des ouvriers, les mains derrière le dos, fumant, crachant, passaient la journée à juger chaque coup de pinceau.
+
+['se', 'la', ',', 'une', 'elle']	Gervaise	Ça fiche un froid !… Hein ! c’est vous !… Qu’est-ce qu’il y a ? qu’est-ce que vous voulez ?Alors, [MASK], les bras tendus, ne sachant plus ce qu’elle bégayait, se mit à le supplier avec passion.–
+
+['il', 'je', 'on', 'elle', 'ils']	Gervaise	; un matin, [MASK] l’avait surprise vidant là son panier plein d’écailles d’huîtres. Ah ! non, pour sûr, ces rapiats n’étaient pas larges des épaules, et toutes ces manigances venaient de leur rage à vouloir paraître pauvres. Eh bien !
+
+['elle', 'Elle', 'la', 'une', 'et']	Gervaise	; et elle rentrait seule, chancelant le long des boutiques, pleurant toutes les larmes de son corps.Enfin, le défilé avait cessé. [MASK], droite au milieu de la rue, regardait la porte. Ça commençait à sentir mauvais.
+
+['se', 'il', 'on', 'lui', ',']	Gervaise	Le zingueur travaillait toujours à l’hôpital. [MASK] défendit d’aller le déranger. Quand il rentra, à sept heures, il la trouva couchée, bien enveloppée, très pâle sur l’oreiller. L’enfant pleurait, emmailloté dans un châle, aux pieds de la mère.–
+
+['la', "l'", 'son', 'Jean', 'sa']	Coupeau	Et, dans le calme brusque qui se fit, on distingua, au fond de l’arrière-boutique, la voix épaisse de [MASK]. Il restait bon enfant, il riait tout seul, en lâchant des bouts de phrase.– Est-elle bête, ma femme !… Est-elle bête de me coucher !
+
+['elle', 'lui', 'moi', 'Jean', 'Martin']	Lantier	Pourtant, vers le milieu de l’été, la grande Clémence était partie, parce qu’il n’y avait pas assez de travail pour deux ouvrières et qu’elle attendait son argent pendant des semaines. Au milieu de cette débâcle, Coupeau et [MASK] se faisaient des joues.
+
+['la', "l'", 'France', 'Provence', 'cœur']	Follebiche	Il aurait fait rire les carafes, quand il imitait le tourlourou, les doigts écartés, le chapeau en arrière. Tout de suite après le Volcan d’amour, il entama la Baronne de [MASK], un de ses succès.
+
+['Elle', 'elle', 'Il', 'il', 'et']	Gervaise	Elle achevait son pain, elle torchait ses larmes au fond du poêlon, ses grosses larmes silencieuses qui tombaient toujours dans son manger.[MASK] se leva. Elle avait fini. Elle demeura un instant la tête basse, gênée, ne sachant pas s’il voulait d’elle.
+
+['lui', 'lui-même', 'elle', 'lui', 'LUI']	Lantier	Ce n’était pas lui qu’elle cherchait, les coudes à l’air, la margoulette enfarinée ; c’était son ancien marlou. Puis, brusquement, il fut pris d’une rage folle contre [MASK]. Ah ! le brigand, ah ! la crapule !
+
+['elle', 'Elle', 'il', 'on', 'ne']	Gervaise	Voyons, remuez-vous, je n’ai pas envie de patauger dans l’eau jusqu’à ce soir.Et elle ajouta plus bas, méchamment :– Est-ce que c’est ma faute si sa fille fait la noce !Sans doute, [MASK] n’entendit pas.
+
+[',', 'lampe', 'il', "l'", 'la']	Lorilleux	[MASK], vivement, approcha la lampe. Et il lui examinait les doigts avec méfiance.– Il faut prendre garde, dit-il, les petits morceaux d’or, ça se colle sous les souliers, et ça s’emporte, sans qu’on le sache.
+
+['le', "l'", 'chacun', 'grand-père', 'chaque']	Coupeau	Dehors, en face de l’hôpital, elle se retourna, elle jeta un coup d’œil sur le monument. Et elle pensait aux jours d’autrefois, lorsque [MASK], perché au bord des gouttières, posait là-haut ses plaques de zinc, en chantant dans le soleil.
+
+['Clémence', 'elle', 'Elle', 'on', 'On']	Virginie	On riait, on en lâchait de fortes. [MASK] ayant dit qu’elle ne mangeait plus depuis deux jours, pour se faire un trou, cette grande sale de Clémence en raconta une plus raide : elle s’était creusée, en prenant le matin un bouillon pointu, comme les Anglais.
+
+['que', 'cela', 'si', 'ceci', 'le']	Gervaise	Pourquoi ne l’a-t-elle pas invitée, alors ?Elle s’interrompit, pour montrer [MASK], que la pente du trottoir faisait fortement boiter.– Regardez-la ! S’il est permis !… Oh ! la banban !Et ce mot : la Banban
+
+['pour', 'à', ',', "d'", 'de']	Lantier	Mais elle restait, regardant [MASK] enlever les dernières cordes, prise du besoin de savoir ce que contenait la malle. Elle se souvenait, dans un coin, d’un tas de chaussettes, de deux chemises sales, d’un vieux chapeau. Est-ce que ces choses étaient encore là
+
+['"', ',', 'de', 'tout', 'le']	Virginie	… Ah ! je serais joliment débarrassée !Alors, le chapelier se montra très pratique. En cédant le bail, on obtiendrait sans doute du nouveau locataire les deux termes en retard. Et il se risqua à parler des Poisson, il rappela que [MASK] cherchait un magasin
+
+[',', 'hé', 'je', 'toi', 'en']	Zidore	Contre le mur de la maison voisine, son aide, un gamin de dix-sept ans, fluet et blond, entretenait le feu du réchaud en manœuvrant un énorme soufflet, dont chaque haleine faisait envoler un pétillement d’étincelles.– Hé ! [MASK], mets les fers !
+
+['une', 'hum', 'encore', 'la', 'en']	Gervaise	Il disait qu’il travaillait. Tout est possible, n’est-ce pas ? et [MASK], attrapée pourtant bien des fois, avait fini par compter sur cet argent-là. Elle, après toutes sortes d’histoires, ne trouvait plus seulement un torchon à laver dans le quartier
+
+["c'", 'il', 'vous', "j'", 'je']	Lantier	nous avons fait le voyage avec les deux enfants. Il devait m’établir blanchisseuse et travailler de son état de chapelier. Nous aurions été très heureux… Mais, voyez-vous, [MASK] est un ambitieux, un dépensier, un homme qui ne songe qu’à son amusement.
+
+['elle', 'Elle', 'et', 'il', 'Il']	Coupeau	Lui non plus ne pouvait donc rien pour elle ? Elle rentra dans sa chambre, stupide, et se jeta sur sa paille, en regrettant d’avoir mangé. Ah ! non, par exemple, la misère ne tuait pas assez vite ![MASK] tira une bordée, cette nuit-là.
+
+['plus', 'longuement', 'allongé', 'trop', ',']	Gervaise	Il ne s’endormit pas, il resta les yeux grands ouverts, à faire le tour de la chambre.– C’est propre, ici ! murmura-t-il.Puis, après avoir regardé un instant [MASK], il ajouta méchamment :– Tu ne te débarbouilles donc plus
+
+['on', 'il', "d'", 'encore', "s'"]	Virginie	; et il citait des gens en train de réaliser des fortunes, la fruitière du coin de la rue, une petite marchande de faïence du boulevard extérieur ; car le moment était superbe, on aurait vendu les balayures des comptoirs. Cependant, [MASK] hésitait ;
+
+['tout', 'et', ',', ';', 'se']	Coupeau	Ils lui avaient mis des bas, un jupon blanc, une camisole, un bonnet ; enfin son linge le meilleur. [MASK] ronflait toujours, deux notes, l’une grave, qui descendait, l’autre sèche, qui remontait ;
+
+['on', 'il', 'elle', 'homme', "n'"]	Coupeau	Sans cela, elle n’aurait pas dit non, car le chapelier lui faisait son offre d’un air trop honnête pour qu’elle se méfiât de quelque traîtrise. Il semblait s’intéresser à son malheur et se montrait vraiment paternel. Jamais [MASK] n’avait découché deux nuits.
+
+['elle', 'il', 'Elle', 'Il', 'puis']	Coupeau	Ses regards inquiets fouillaient les coins, cherchaient, parmi toute cette crasse, le resplendissement qu’elle avait rêvé.Mais [MASK] s’était mis à rire.– L’or ? dit-il ; tenez, en voilà, en voilà encore, et en voilà à vos pieds !
+
+['le', 'lui', "c'", 'que', 'les']	Lantier	; tandis que [MASK], gros et gras, suant le sucre dont il se nourrissait, emplissait de son enthousiasme pour les petits trognons bien mis la boutique d’épicerie fine, mangée déjà aux trois quarts, et où soufflait une odeur de ruine.
+
+['sa', 'son', 'madame', 'le', 'la']	Gervaise	Quand le médecin des Boche l’eut vu le matin, et qu’il lui eut écouté dans le dos, il branla la tête, il prit [MASK] à part pour lui conseiller de faire porter tout de suite son mari à l’hôpital.
+
+[',', 'de', 'le', 'on', 'à']	Coupeau	[MASK] lui cria en riant d’empoigner ferme la rampe et de ne plus la lâcher. Elle leva les yeux, cligna les paupières, en apercevant la haute tour creuse de la cage de l’escalier, éclairée par trois becs de gaz, de deux étages en deux étages
+
+['Il', 'il', 'et', 'On', '--Il']	Coupeau	Il a l’air joliment poivré ![MASK] traversait justement la rue. Il faillit enfoncer un carreau d’un coup d’épaule, en manquant la porte. Il avait une ivresse blanche, les dents serrées, le nez pincé.
+
+['elle', 'on', 'il', 'cela', 'Elle']	Coupeau	; ils n’étaient pas méchants au fond, on s’entendrait très bien. Et, quand ils furent couchés, [MASK] dormait déjà qu’elle continuait ses aménagements intérieurs, sans avoir pourtant, d’une façon nette, consenti à louer.
+
+['ruine', '.', 'poussière', 'décadence', 'lui']	Gervaise	et, à l’entendre, si elle entrait encore dans un pareil bazar, c’était uniquement pour sa pauvre mère, qui se trouvait forcée de vivre au milieu de ces abominations. Alors, le quartier tomba sur [MASK]. Ça devait être elle qui avait débauché le chapelier.
+
+['le', 'ce', "l'", 'tout', 'son']	Bonaparte	Maintenant, il faut deux ans de domicile. Trois millions de citoyens sont rayés des listes… On m’a dit que [MASK], au fond, est très vexé, car il aime le peuple, il en a donné des preuves.Lui, était républicain ;
+
+['un', 'enfant', 'homme', 'une', 'être']	Étienne	Elle allait donner une légère claque sur la joue d’[MASK] pendu au soufflet, et elle restait là une heure, à regarder les boulons. Ils n’échangeaient pas dix paroles. Ils n’auraient pas mieux satisfait leur tendresse dans une chambre, enfermés à double tour.
+
+['son', 'sa', 'ses', "l'", 'leur']	Goujet	Oh ! c’était fini, bien fini. S’il osait un jour lui demander ça, elle lui répondrait par une paire de claques, elle instruirait plutôt son mari. Et, de nouveau, elle songeait sans remords, avec une douceur extraordinaire, à la bonne amitié de [MASK].
+
+[',', 'elle', 'on', 'de', 'se']	Goujet	Elle s’était levée, en comprenant que [MASK] la croyait remise avec Lantier, comme le quartier l’affirmait. Et, les bras tendus, elle cria :– Non, non, je vous jure… Il me poussait, il allait m’embrasser, c’est vrai
+
+['elle', 'on', 'il', 'se', 'cela']	Gervaise	elle n’en était pas encore réduite à se nourrir de choses où les autres avaient pataugé. Et, dès lors, [MASK] coupa net à tous les cadeaux : plus de litres de vin, plus de tasses de bouillon, plus d’oranges, plus de parts de gâteau, plus rien.
+
+[',', 'il', 'qui', 'elle', 'et']	Gaudron	[MASK] ne s’embêtait pas, se trouvait bien là, offrait seulement de se mettre à table tout de suite. Et, à chaque proposition, on discutait, on se fâchait : c’était bête, ça endormirait tout le monde, on les prendrait pour des moutards.
+
+[',', "l'", 'à', 'et', 'la']	Lalie	Ça remuait en lui toutes sortes de choses ; mais il ne trouvait plus rien, et avait la couenne trop brûlée pour pleurer.– Écoute encore, reprit [MASK] après un silence. Nous devons quatre francs sept sous au boulanger ; il faudra payer ça…
+
+['elle', 'eux', 'lui', 'et', ',']	Boche	Et ils se laissèrent aller à une grosse jouissance d’égoïsme, en se trouvant calés, bien au chaud, avec la perspective d’une fameuse soupe. [MASK] aussi s’étalait, enflant encore ses joues, si bien que son rire devenait malpropre.
+
+['la', 'son', 'sa', "l'", 'ses']	Coupeau	Quelle grosse bête ! On n’est pas bête comme ça !Il l’avait empoignée, il ne la lâchait pas. Elle s’abandonnait, étourdie par le léger vertige qui lui venait du tas de linge, sans dégoût pour l’haleine vineuse de [MASK].
+
+['elle', ',', 'et', 'march', 'tout']	Gervaise	Le quartier avait disparu, le boulevard paraissait mort, comme si la rafale venait de jeter le silence de son drap blanc sur les hoquets des derniers ivrognes. [MASK], péniblement, allait toujours, aveuglée, perdue. Elle touchait les arbres pour se retrouver.
+
+['se', 'tout', "s'", 'il', 'le']	Coupeau	il a piqué une tête ! Dieu de Dieu, s’il pouvait se casser la gueule !D’autres fois, lorsque [MASK] arrivait droit sur elle, sans lui laisser le temps de se sauver, elle s’accroupissait, elle murmurait :– Cachez-moi donc, vous autres !…
+
+['Chirac', 'Sarkozy', 'Tapie', 'Sarko', 'lui']	Lantier	Enfin, ils se comprenaient, ils étaient bâtis l’un pour l’autre. L’amitié avec un homme, c’est plus solide que l’amour avec une femme.Il faut dire une chose, Coupeau et [MASK] se payaient ensemble des noces à tout casser.
+
+[',', 'et', 'se', 'on', 'il']	Gervaise	puis, le dos arrondi, après s’être appelés d’un marchand de vin à l’autre, ils se décidaient à reprendre le chemin de l’atelier, en traînant les pieds. [MASK] s’amusa à suivre trois ouvriers, un grand et deux petits, qui se retournaient tous les dix pas
+
+['il', 'se', "s'", ',', 'le']	Gervaise	La bouche ouverte, il exhalait cette odeur d’alcool des vieux tonneaux d’eau-de-vie, dont on a enlevé la bonde. Et, comme cette rencontre d’une femme dans ce coin d’ombre commençait à le rendre goguenard, [MASK] recula, en murmurant :
+
+['un', 'lui', 'Pierre', 'Un', 'Lui']	Coupeau	Mais on causait peu, on se tenait bien, on se faisait des politesses. [MASK] seul était en blouse, parce que, disait-il, on n’a pas besoin de se gêner avec des amis, et que la blouse est du reste le vêtement d’honneur de l’ouvrier.
+
+['elle', 'ne', 'robe', 'qui', 'leur']	Clémence	Ils étaient déjà soûls comme des tiques. Et les dames avaient leur pointe, oh ! une culotte encore légère, le vin pur aux joues, avec un besoin de se déshabiller qui leur faisait enlever leur fichu ; seule, [MASK] commençait à n’être plus convenable.
+
+['on', 'se', 'elle', 'il', 's']	Gervaise	Maintenant, [MASK] se moquait de tout. Elle avait un geste vague de la main pour envoyer coucher le monde. À chaque nouvel ennui, elle s’enfonçait dans le seul plaisir de faire ses trois repas par jour. La boutique aurait pu crouler ;
+
+['Amour', 'Dieu', 'Parti', 'Bon', 'Un']	Boit	, dit [MASK]-sans-Soif.Non, elle en avait assez. Elle hésitait pourtant. L’anisette lui barbouillait le cœur. Elle aurait plutôt pris quelque chose de raide pour se guérir l’estomac. Et elle jetait des regards obliques sur la machine à soûler, derrière elle.
+
+['elle', 'on', 'il', 'Elle', 'Jeanne']	Virginie	Oui, [MASK] gardait sur la conscience la fessée du lavoir, elle mijotait sa rancune dans la cendre. Eh bien ! elle agirait prudemment en mettant sa fessée sous verre, si elle ne voulait pas en recevoir une seconde. Et ça ne serait pas long, elle pouvait apprêter son pétard.
+
+[',', 'la', 'hum', 'de', 'bone']	Jeanneton	Elle n’avait plus quinze ans, elle devait en avoir soixante-treize à la Saint-Antoine. Avec ça, très patraque, râlant pour un rien, quoique grosse et grasse. Le médecin annonçait qu’elle s’en irait en toussant, le temps de crier : Bonsoir, [MASK], la chandelle est éteinte
+
+[',', "l'", 'la', 'se', 'R']	Gervaise	[MASK] écoutait avec un petit sourire. Bien sûr, non, elle ne songeait pas à gronder ; elle se sentait trop gênée. Depuis la fête, elle s’attendait bien à revoir son ancien amant un jour ou l’autre ;
+
+['la', "l'", ',', 'A', 're']	Lantier	Puis, une fois encore, elle trouva très bien la façon tranquille dont s’arrangeaient les choses. Il n’aurait pas été convenable, sûrement, de troubler la fin du dîner. Elle revint avec la cafetière et servit un verre de café à [MASK], qui d’ailleurs ne semblait pas s’occuper d’elle.–
+
+['à', 'tout', 'la', ',', 'sur']	Virginie	Oui, va te frotter à ma sœur, reprit [MASK] en ricanant. Ah ! c’est ma sœur ! C’est bien possible, ma sœur a un autre chic que toi… Mais est-ce que ça me regarde ! est-ce qu’on ne peut plus laver son linge tranquillement
+
+['il', 'le', 'son', "l'", 'on']	Léonie	Un soir, elle reçut encore une danse, parce qu’il lui avait trouvé une tache noire au cou. La mâtine osait dire que ce n’était pas un suçon ! oui, elle appelait ça un bleu, tout simplement un bleu que [MASK] lui avait fait en jouant.
+
+['la', "l'", 'son', 'sa', 'notre']	Poisson	Par la porte ouverte, on apercevait, se détachant sur le jour blafard de la cour, le profil de [MASK], en congé ce jour-là, et profitant de son loisir pour se livrer à sa passion des petites boîtes.
+
+['la', ',', 'sa', 'une', 'de']	Lalie	Hop ! hop ! à dada ! à dada !Une légère écume lui venait aux lèvres, ses yeux jaunes sortaient de leurs trous noirs. [MASK], affolée, hurlante, sautait aux quatre angles de la pièce, se pelotonnait par terre, se collait contre les murs
+
+['les', 'la', 'le', 'se', 'un']	Gervaise	! Il n’y aurait pas à se défendre, car les fils de famille qui la tutoient de près sont bigrement heureux !Son regard s’était allumé, il se tourna vers [MASK], debout au fond de la boutique, en train d’essuyer un plat.–
+
+["qu'", 'elle', 'et', 'Elle', '</s>']	Clémence	il lui semblait que la chanson disait son tourment, qu’elle était cette enfant perdue, abandonnée, dont le bon Dieu allait prendre la défense. [MASK], très soûle, éclata brusquement en sanglots ; et, la tête tombée au bord de la table, elle étouffait ses hoquets dans la nappe.
+
+['la', "l'", 'leur', ',', 'leurs']	Gervaise	Les Lorilleux, devant la prospérité du ménage, étaient devenus très aimables, faisaient un éloge outré de [MASK], en laissant échapper de petits gestes restrictifs, des hochements de menton, des battements de paupières, comme pour ajourner leur vrai jugement. Enfin, ils savaient ce qu’ils savaient
+
+['il', 'elle', 'Il', 'et', 'Elle']	Gervaise	Tous les invités s’étaient levés, [MASK] s’avança, embrassa sa belle-sœur, comme il était convenu, en disant :– Allons, entrez. C’est fini, n’est-ce pas ?… Nous serons gentilles toutes les deux.
+
+['il', 'elle', 'on', 'Il', 'Elle']	Coupeau	N’importe, [MASK] se soûlait davantage, pour sa santé. Ses cheveux poivre et sel, en coup de vent, flambaient comme un brûlot. Sa face d’ivrogne, avec sa mâchoire de singe, se culottait, prenait des tons de vin bleu.
+
+['la', 'son', 'sa', "l'", 'ses']	Bazouge	La blanchisseuse souffrait également beaucoup du voisinage de [MASK], le croque-mort. Une simple cloison, très mince, séparait les deux chambres. Il ne pouvait pas se mettre un doigt dans la bouche sans qu’elle l’entendît.
+
+[',', 'pour', 'à', 'encore', 'de']	Coupeau	Elle avait lavé un bonnet, et s’escrimait, depuis le matin, sur les trous d’une vieille robe, voulant être présentable. Enfin, vers neuf heures, l’estomac vide, bleue de colère, elle se décida à descendre, pour chercher [MASK] dans les environs.–
+
+['il', 'toujours', 'gravement', 'Pierre', 'Jean']	Lorilleux	Le père Bazouge, un croque-mort d’une cinquantaine d’années, avait son pantalon noir taché de boue, son manteau noir agrafé sur l’épaule, son chapeau de cuir noir cabossé, aplati dans quelque chute.– N’ayez pas peur, il n’est pas méchant, continuait [MASK].
+
+['elle', 'la', 'elles', 'femme', 'dame']	Virginie	Par terre, des mares coulaient, les deux femmes pataugeaient jusqu’aux chevilles. Cependant, [MASK], ménageant une traîtrise, s’emparant brusquement d’un seau d’eau de lessive bouillante, qu’une de ses voisines avait demandé, le jeta. Il y eut un cri.
+
+['et', 'elle', 'il', 'Elle', 'Il']	Coupeau	-femme refusa ; mais elle voulut bien boire un verre de vin, parce que ça l’avait émotionnée, disait-elle, de trouver la malheureuse femme avec le bébé sur le paillasson. [MASK] partit enfin, pour annoncer la nouvelle à la famille.
+
+['la', 'sa', 'les', 'son', 'le']	Gervaise	mais il fallait pourtant qu’un homme fût un homme, sans quoi autant valait-il tout de suite porter des jupons. Il le blaguait devant [MASK], en l’accusant de faire de l’œil à toutes les femmes du quartier ; et ce tambour-major de Goujet se défendait violemment.
+
+[',', 'se', 'or', 'il', 'de']	Gervaise	[MASK] se récriait. Ce n’était pas de l’or, peut-être, ce métal noirâtre, vilain comme du fer ! Il dut mordre le déchet, lui montrer l’entaille luisante de ses dents. Et il reprenait ses explications : les patrons fournissaient l’or en fil, tout allié
+
+['elle', ',', 'Elle', 'on', 'avait']	Gervaise	[MASK] avait mis sous elle ses anciennes fiertés, ses coquetteries, ses besoins de sentiments, de convenances et d’égards. On pouvait lui allonger des coups de soulier partout, devant et derrière, elle ne les sentait pas, elle devenait trop flasque et trop molle.
+
+['Elle', 'Je', 'Il', 'elle', 'On']	Gervaise	– Elle rit de vous voir pleurer, cette sans-cœur, là-bas. Je mettrais ma main au feu que son savonnage est une frime… Elle a emballé les deux autres et elle est venue ici pour leur raconter la tête que vous feriez.[MASK] ôta ses mains, regarda.
+
+['régulière', 'régulières', 'irrégulière', 'réguliers', 'blanche']	Gervaise	À droite des réservoirs, le tuyau étroit de la machine à vapeur soufflait, d’une haleine rude et régulière, des jets de fumée blanche. [MASK], sans retrousser ses jupes, en femme habituée aux flaques, s’engagea sous la porte, encombrée de jarres d’eau de javelle.
+
+['h', 'S', 'ch', 'CH', 'R']	Lantier	Doucement, sans pousser un cri, glacée et prudente, la blanchisseuse revint dans la chambre de [MASK]. Il s’était rendormi. Elle se pencha, en murmurant :– Dis donc, c’est fini, elle est morte.Tout appesanti de sommeil, mal éveillé, il grogna d’abord :
+
+['on', 'il', 'On', 'elle', 'Il']	Coupeau	Mais elle finissait par se ficher des dégelées comme du reste. [MASK] pouvait faire la Saint-Lundi des semaines entières, tirer des bordées qui duraient des mois, rentrer fou de boisson et vouloir la réguiser, elle s’était habituée, elle le trouvait tannant, pas davantage.
+
+['plafond', 'tapis', 'place', 'nappe', 'moitié']	Gervaise	exaspéré, l’air malheureux, écartant ses dix doigts dans une crampe d’avare auquel on arrache son or, cédait à [MASK], promettait le plafond et le papier, à la condition qu’elle payerait la moitié du papier. Et il se sauva vite, ne voulant plus entendre parler de rien.
+
+['il', 'on', 'et', 'Il', 'je']	Gervaise	Alors, il se le vidait dans le coco, furieux, gueulant qu’il lui en faudrait des douzaines et qu’ensuite il se chargeait de porter un tonneau sans remuer un doigt. [MASK] lui disait au contraire de ne plus boire, s’il voulait cesser de trembler.
+

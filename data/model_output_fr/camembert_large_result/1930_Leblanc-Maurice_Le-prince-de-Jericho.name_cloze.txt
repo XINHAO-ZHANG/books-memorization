@@ -1,0 +1,200 @@
+['Elle', 'elle', 'Alice', 'Anna', 'Il']	Nathalie	Ça doit y être. » [MASK] pleurait doucement. La scène affreuse se déroulait devant elle. Il lui semblait que son père mourait une seconde fois, maintenant qu’elle apprenait comment il était mort, et qu’il avait été victime d’un meurtre.
+
+['Il', 'Elle', '</s>NOTUSED', 'On', 'Jésus']	Nathalie	Je lui confiai la bague. Il la vendit à un bijoutier et vint me remettre l’argent. J’en laissai le quart en remerciement des soins donnés. Avec le reste je m’enrichis. Vous voyez la nature de mes miracles. [MASK] continua : – Deuxième question.
+
+['il', 'on', 'elle', 'Alexandre', 'Socrate']	Zafiros	Certain que le Grec ne soupçonnait rien, il posa quelques questions techniques auxquelles l’autre se hâta de répondre, et ils firent ainsi le tour du temple. Après quoi, [MASK] engagea vivement son client à visiter le théâtre antique.
+
+['!', 'maintenant', 'sur', 'un', '?']	Boniface	? Pas de phrases ! Mais pas de silence non plus. Oui ou non ? – Non. – Alors, je tire [MASK], tu es prêt ? Je compte jusqu’à trois… Il compta lentement. – Un… deux… trois…
+
+['Madame', 'Mademoiselle', 'madame', 'Monsieur', 'moi']	Nathalie	: – Je vous l’avais bien dit, [MASK], que notre entretien n’était pas terminé et qu’il s’achèverait tout autrement ! Qu’en pensez-vous, ma jolie ? Elle n’essaya pas de résister. Elle ne tenta pas non plus d’appeler.
+
+['lui', 'vous', 'inconnu', 'là', 'moi']	Jéricho	Il portait un grand chapeau de feutre gris clair. – Oui… toujours… Il s’agit bien de mon père, en effet, Et selon vous, mademoiselle, il s’est entretenu avec le major Boniface et avec cet autre individu qui devait être [MASK] ?
+
+['Elle', 'Marie', 'Alice', 'Sarah', 'Anna']	Nathalie	L’attente fut lourde. [MASK], les mains glacées, la tête en feu ne pensait plus à fuir, mais d’autre part, elle n’avait aucun plan. Ses jambes vacillaient sous elle. Elle regardait, elle écoutait éperdument.
+
+['elle', 'il', 'on', 'Madeleine', 'Marie']	Maxime	La voix de la chanteuse la troublait bien davantage, et elle riait ingénument des balourdises de l’Italien. Quand ce fut terminé, [MASK] fit servir du porto aux trois musiciens, puis les conduisit jusqu’à la grille du jardin et la referma sur eux. – Ouf
+
+['</s>NOTUSED', 'Henry', 'James', 'Et', 'John']	Alexandre	Le baron d’Ellen-Rock ne peut pas nier… il a entendu ce matin… Il se démenait comme un pantin et tâchait de raisonner, mais d’une voix si tremblante que l’inquiétude des domestiques devenait plus irréfléchie et comique. [MASK], le chauffeur, à son tour se précipita.
+
+['chacun', 'tous', 'Madame', 'madame', 'chacune']	Nathalie	Il était en habit, d’une élégance sobre qu’on ne pouvait cependant point ne pas remarquer. Il s’assit à quatre tables de distance, bien en face d’elle, et inclina imperceptiblement la tête, d’une manière qui enjoignait à [MASK] de ne pas le saluer.
+
+['même', 'Dieu', 'cela', 'aussi', 'ainsi']	Jéricho	Ah ! enfin, je vais savoir. Il parcourait la pièce en tous sens et répétait, secouant ses bras tendus : – Je vais savoir !… Peut-être [MASK] m’a-t-il connu !… Je vais savoir ! Je vais savoir ! Quelle ivresse !
+
+['John', 'Jack', 'Jean', 'Max', 'Paul']	Forville	– Oui, dit [MASK], gouailleur, un homme habillé de velours noir. – Habillé comme tout le monde, mais avec une élégance spéciale. Une silhouette étonnante. Beaucoup de race. – Et un air sombre ? L’expression fatale d’un ange déchu ?
+
+['elle', 'lui', 'madame', 'moi', 'Madame']	Nathalie	? Celui-ci, affectant de dédaigner le vaincu, se tourna vers [MASK]. – Vous excuserez mon intervention, mademoiselle, et la manière un peu brutale que cet individu m’a contraint d’employer. Je vous dois des explications. Elles seront brèves.
+
+['il', 'elle', 'je', 'on', 'Marguerite']	Nathalie	Aussitôt [MASK] reprit, de peur qu’un nouveau silence ne s’établît entre eux : – Oui, c’est vraiment beau ! Et je me dis qu’il doit y avoir en vous certaines réminiscences… certaines impressions qui remontent à la surface… et qui éclosent devant de pareils spectacles.
+
+['monsieur', 'Monsieur', 'madame', 'Madame', 'Mademoiselle']	Nathalie	Elle promit d’un signe de tête. Il la regarda longtemps. Elle avait les yeux humides et une figure bouleversée d’émotion et d’amour. – Adieu, [MASK]. – Au revoir, murmura-t-elle. – Vous m’aimez, n’est-ce pas ?
+
+['bien', 'oui', 'tiens', 'ça', 'Bien']	Maxime	Nous arriverons avant lui. Et le baron d’Ellen-Rock ajouta : Ah ! [MASK], voilà une expédition qui me plaît. Sans compter que c’est un pas de plus vers la vérité !… Chapitre 2 Et d’un !…
+
+['je', 'Je', 'Maxime', 'Dieu', 'cela']	Boniface	– Si vous avez confiance en Maxime et en moi, mademoiselle, vous irez jusqu’au bout de ce que vous avez commencé. Ayant bu la drogue, ainsi que [MASK] le suppose, vous affecterez de vous être endormie subitement, sans avoir eu le temps de gagner votre chambre.
+
+['»', 'Lui', 'Et', 'Mais', 'Alors']	Ahmed	Pourquoi pas moi ?… [MASK], le Turc, qui avait fait le coup du médaillon et qui avait reçu vingt coups de baguette sur les épaules, me le disait aussi : « Pourquoi c’est-il pas vous qui êtes le chef, monsieur Boniface ?
+
+['Jean', 'Pierre', 'Marie', 'la', 'Francis']	Nathalie	– Vous prévoyez la tempête ? – Non, mais un fort coup de vent. Il s’était retourné et, tout en répondant aux questions de [MASK], braquait sa longue-vue vers l’arrière, sur la partie de la mer que l’on venait de franchir.
+
+['Elle', 'Marie', 'Il', 'Jeanne', 'Sophie']	Forville	[MASK] s’exerçait. Elle n’avait plus la force de se tenir, et si elle n’eût pas craint qu’un mouvement ne trahît sa présence, elle se fût évanouie. Cependant, de toute sa volonté exaspérée, elle réussit à rester debout.
+
+['Marie', 'elle', 'Jeanne', 'Anna', 'Alice']	Nathalie	– Ainsi, dit-elle, ils vont venir ? – Ils viennent. – Ils viennent ! répéta [MASK], en cherchant à se rendre compte de tout ce que signifiaient d’affreux ces simples mots. Une minute ou deux encore et elle reprit :
+
+['Elle', 'Il', 'Marie', 'Lui', 'Anna']	Nathalie	La main avait saisi un bijou, une sorte de gros médaillon ancien qu’elle portait toujours sur sa poitrine, comme on porte une médaille de sainteté. D’un coup, l’homme cassa la chaînette d’or et arracha le bijou. [MASK] ne fit pas un geste.
+
+['Elle', 'Il', 'Marie', 'Alice', 'Suzanne']	Nathalie	Alors il s’installa, là-bas, entre ces deux piliers, en s’abritant sous son ombrelle, et, après avoir enlevé son chapeau et gonflé un coussin de caoutchouc qu’il mit sous sa tête, il s’endormit. [MASK] chuchota, tout oppressée :
+
+['lui', 'moi', 'nous', 'Pierre', 'Louis']	Forville	Cinq cent mille !… Le major Boniface s’était approché et, pris d’un vertige subit, ébloui par l’énormité de la somme, criait en même temps que [MASK] : – Cinq cent mille francs chacun ! Pas un sous de moins ! C’est ma part
+
+['maintenant', 'Monsieur', '...', 'et', 'Mademoiselle']	Maxime	… Je vais savoir ! Je vais savoir ! Quelle ivresse !… Savoir !… Savoir !… Brusquement, il se dompta, et aussi calme en apparence que si son destin n’était pas en jeu : – Encore quelques minutes. Préparons tout, [MASK].
+
+['il', 'elle', 'lui', 'Albert', 'Paul']	Maxime	L’effort qu’il faisait afin de résoudre le problème creusait des rides sur son front. Tous deux se turent, jusqu’au moment où [MASK] revint. – Eh bien ? dit-il, en glissant la tête par la porte entrebâillée de sa chambre… Rien de nouveau
+
+['François', 'le', 'lui', 'Louis', 'Pierre']	Jéricho	Il avait ainsi participé à toutes les expéditions de la bande et ramassé quelque argent. On voyait peu [MASK], qui dirigeait les opérations de loin, transmettant ses ordres au major Boniface, comme on l’appelait. Les affaires, depuis quelque temps, allaient mal.
+
+['Marie', 'Jean', 'Alice', 'Jeanne', 'Pierre']	Nathalie	Il allait et venait comme un capitaine sur le pont de son navire. C’était toute l’exubérance d’un être qui a l’habitude du péril et la conviction que rien ne peut résister à ses efforts. – Alors, nous sommes sauvés ? dit [MASK].
+
+['Jean', 'Marie', 'Pierre', 'Jacques', 'Jeanne']	Nathalie	– Il reste donc une part d’inconnu ? – Aucune. Tout est réglé au millimètre et au milligramme. Sans quoi, bavarderais-je ? – Mais c’est une véritable délivrance ! s’écria [MASK]. De sorte que, aujourd’hui, 14 juin…
+
+['Il', 'Elle', 'Pierre', 'On', 'Lui']	Forville	– Elles me seront rendues ? – Non. – Comment elles ne me seront pas rendues ? Cependant, j’ai accepté toutes les conditions. – Aucun rapport. – Alors, il me faudra demeurer sous la menace d’une dénonciation possible ? [MASK] se rebiffait.
+
+['il', 'Paul', 'Charles', 'Pierre', 'Albert']	Forville	Cette fois [MASK] se révolta et d’une façon si spontanée qu’il était impossible de nier qu’il fut sincère. – Ah ! cela non, s’exclama-t-il avec force… Je ne suis pour rien là-dedans.
+
+['On', 'Il', 'Elle', 'Maman', 'Je']	Nathalie	Si vous êtes menacée, c’est lui que vous appelez au secours ! C’est son nom qui vous vient à la bouche ! Et vous osez dire qu’il vous est indifférent ? Il suffoquait, la voix haletante et le visage mauvais. [MASK] sonna. – Hein
+
+['Il', 'Elle', 'il', 'On', 'Pierre']	Forville	– Non, pas précisément. – Un apôtre ? – Encore moins. Un redresseur de torts plutôt. Je sais sur lui, par mon ami, des histoires surprenantes. Malfaiteurs démasqués, tricheurs pris au piège, situations tragiques dénouées dans la joie… [MASK] ricana.
+
+['alors', 'hein', 'non', 'ça', 'Madame']	Nathalie	– Une farce, [MASK] ? Mais c’est de la prudence ! La plus élémentaire des prudences ! – À propos de quoi ? – Quand on habite un coupe-gorge, chère amie, on se tient sur ses gardes. – Contre qui ?
+
+['Gabriel', 'quiconque', 'lui', 'qui', 'Pierre']	Zafiros	Et c’est à peine s’il s’aperçut tout d’abord que [MASK] avait surgi devant lui et lui offrait son concours. C’était un petit homme souple, jeune encore et bien pris dans des vêtements clairs, avec des gants de fil et un chapeau de paille.
+
+['Madame', 'madame', 'Monsieur', 'Mademoiselle', 'monsieur']	Nathalie	Mais ai-je besoin de le dire pour que vous le sachiez ? Elle continua de plaisanter. – J’avoue, en effet, que tant d’exploits m’impressionnent. Une vieille dame sauvée des eaux… des chevaux maîtrisés. – Tout vous bouleverse, [MASK].
+
+['Il', 'Elle', 'On', 'Marie', 'Joseph']	Maxime	[MASK] les suivait. Avant de la quitter, il lui dit : – Le dénouement est proche. Ne vous étonnez de rien de ce qui peut se produire jusque-là, et ne changez pas vos habitudes. Chaque soir, depuis deux semaines, n’est-ce pas, vous dînez au restaurant de l’hôtel ?
+
+['Marie', 'Julie', 'Sophie', 'Madame', 'Charlotte']	Nathalie	? Et croyez-vous que je ne vous ai pas vue pâlir quand elle est revenue et que vous pouviez vous demander si je n’allais pas courir au-devant de rua fiancée d’autrefois ? – Qu’osez-vous dire ? s’écria [MASK], hors d’elle.
+
+['»', 'ça', '«', '...', '!']	Nathalie	Il examina la panoplie, mania quelques armes, puis jeta un dernier coup d’œil sur la table de travail. Il allait renoncer à ses investigations lorsque, tout à coup, il s’écria : « Ah ! ça, c’est curieux, [MASK].
+
+['Marie', 'Louise', 'Jeanne', 'Sophie', 'Camille']	Nathalie	On la touchait presque. Elle en eut l’affreuse conviction, et soudain, dans un sursaut d’énergie, se dressa, prête à la lutte. La lueur de la lampe aussitôt s’éteignit, avant que [MASK] eût seulement le temps de discerner la silhouette de son agresseur.
+
+['Il', 'Elle', 'il', 'elle', 'Chacun']	Nathalie	Quand ils eurent grimpé durant une centaine de mètres, il s’arrêta et dit : – C’est là… Vous voyez la vitrine éclairée ?… Écoutez… On chante… Une voix de femme… et puis une guitare…[MASK] prêta l’oreille et murmura
+
+['Madame', 'maintenant', 'madame', 'Monsieur', '</s>NOTUSED']	Nathalie	Certes non. Mais je me rends compte de ce qu’il est pour vous, [MASK]. Si vous êtes menacée, c’est lui que vous appelez au secours ! C’est son nom qui vous vient à la bouche ! Et vous osez dire qu’il vous est indifférent
+
+['Il', 'il', 'Elle', 'On', 'Monsieur']	Boniface	Ce n’est pas le récit d’un cauchemar ? [MASK] ne délirait pas en parlant ainsi ? – Non, affirma-t-elle, car, ayant divulgué son secret, peut-être involontairement, il en reparla la nuit d’après, et longuement, avec tout son sang-froid
+
+['Elle', 'Il', 'Marie', 'Alice', 'Jeanne']	Nathalie	? Qui peut enchaîner ainsi la confiance des siens ? C’est le pouvoir de la pensée, la magie de l’âme… » [MASK] éclata de rire et dit à haute voix : – Enfin, quoi ! je ne vais pas me laisser obséder par cet individu.
+
+['Elle', 'Il', 'Marie', 'Jeanne', 'Marguerite']	Nathalie	[MASK] eut l’intuition de paroles imminentes et se contracta. Mais il la mena près de la lampe allumée, la fit asseoir et, mettant sous la clarté le beau visage de la jeune fille, il murmura : – Il y a neuf jours de cela.
+
+['Elle', 'Il', 'qui', 'Jeanne', 'elle']	Nathalie	– Il était grand ?… – Oui, grand, à la fois mince et puissant… un seigneur de haute race. – Vous êtes sa parente, mademoiselle ? – Sa fiancée. Chapitre 2 L’embuscade [MASK] tressaillit.
+
+['»', '«', '...', '[...]', 'moi']	Boniface	J’étais comme un chien qui obéit stupidement au premier coup de sifflet… Non, ça ne pouvait pas durer… Ça devait finir à la première occasion. Il s’en doutait et il me l’avait dit, ajoutant : « Tu n’oseras jamais, [MASK].
+
+['elle', 'lui', 'Jeanne', 'Pierre', 'Julie']	Boniface	Puis, tout de suite, se redressant, exaspéré par une accusation qui semblait la pire des infamies et contre laquelle tout son être se révoltait, il se précipita sur [MASK] et l’agrippa de ses cinq doigts à la gorge. – Tu mens ! Tu mens !
+
+['Pierre', 'Marie', 'Jean', 'Louis', 'François']	Armelie	– Mais non, dit [MASK], c’était la race des Plouvanec’h qui pariait. Mais il y en avait une autre, aussi forte en lui, la race à laquelle il tenait par la bonne dame de Plouvanec’h, née Marie de Sainte-Marie.
+
+['ce', 'il', 'ça', 'cela', 'ceci']	Jéricho	: – Mais [MASK] n’est qu’un vulgaire bandit, un assassin… – Qu’en savons-nous ? On ne le connaît pas. Quelques relations de captifs échappés ou de complices capturés, lesquels, d’ailleurs, se contredisent tous
+
+['Elle', 'Marie', 'Anna', 'Alice', 'Maria']	Nathalie	Un paysage onduleux offrait des plantations de figuiers et d’orangers. [MASK] ne voyait rien et ne regardait pas, engourdie dans une rêverie confuse où elle avait la sensation douloureuse d’agir contre sa volonté. Pourquoi avait-elle accepté ce voyage ? Pourquoi cette soumission inexplicable ?
+
+['On', 'Chacun', ':', 'Elle', 'Il']	Forville	La journée du 14 juin Chapitre 1 [MASK] tente sa chance Le déjeuner fut gai, autant que peut l’être un déjeuner de cinq convives où l’une des personnes est seule à parler, où deux autres écoutent et rient, et où les deux dernières gardent le silence.
+
+['Paul', 'David', 'Thomas', 'Pierre', 'Charles']	Forville	– Qui donc vous troublera jamais ? – Un inconnu. – Par quel moyens ? – Le coup de foudre. Je crois au coup de foudre. Le visage de [MASK] se contracta. Il souffrait réellement. – Alors, aucun espoir ? – On peut toujours espérer.
+
+['midi', 'janvier', 'juin', 'veille', 'septembre']	Mirador	Je ne manquerai pas à mon engagement. Pour la première fois, il faisait allusion à leur entretien de [MASK], et cela paraissait l’adoucir. Il prenait une voix plus amicale et il continua : – Et puis… et puis… tout ce que j’ai pressenti se confirme.
+
+['Madame', 'madame', 'Mme', 'Monsieur', 'Jeanne']	Maxime	– Trop tard ? J’espère que vous ne les avez pas fait entrer ? – Si. – Hein ? – Dame ! ils sonnaient à la porte. J’ai donné l’ordre qu’on ouvrît. – Ah ! gémit [MASK], d’un ton mélodramatique.
+
+['fille', 'Marie', 'Sara', '»', 'maman']	Pasquarella	Il répéta plus doucement : « Raconte, [MASK]. Tu n’as aucun piège à redouter de moi. Quand tu nous auras dit ce que tu sais et que je connaîtrai l’exacte vérité, tu peux être certaine que je n’agirai qu’en ta faveur et en faveur de ta famille.
+
+['Il', 'Elle', 'Tu', 'On', 'Papa']	Boniface	Justement le complice qui pouvait le mieux l’aider pour l’enlèvement de ta sœur. [MASK] le connaissait ? – Je crois… Oui… oui… il le connaissait… Je me souviens. Ellen-Rock semblait content. Les événements se reliaient les uns aux autres et prouvaient la justesse de sa supposition.
+
+['On', 'Elle', 'Il', 'Qui', 'Chacun']	Nathalie	[MASK] s’étonne d’avoir éprouvé un de ces sentiments confus qu’on ne s’avoue pas à soi-même, mais qui vous troublent, vous ravissent ou vous inquiètent. Était-ce de l’amour ? Ou la peur de l’amour ?
+
+['je', 'tu', 'vous', 'Je', 'ça']	Maxime	: – Il y a un mois que je le surveille et que [MASK] le surveille, jour et nuit. Dès les premières minutes, j’ai senti que cet homme était un fourbe et qu’il faudrait un jour vous débarrasser de lui.
+
+['il', 'elle', 'Il', 'Louis', 'Alexandre']	Zafiros	Je sais, en effet, que la pauvre demoiselle a été enlevée par des malfaiteurs. Mais je n’ai jamais été mêlé à cette vilaine affaire, et la justice elle-même… Une fois encore, [MASK] s’inquiéta. Décidément l’œil de son adversaire inconnu l’impressionnait.
+
+['vous', 'lui', 'toi', 'moi', 'ça']	Forville	Quand j’y pense !… – Cependant, aujourd’hui encore, avec [MASK]… – J’étais fou. Cet idiot m’avait monté la tête. – Ainsi, on ne recommencera plus ? – Jamais. On fait ça une fois… – Oui, pour la rigolade.
+
+['Il', 'Elle', 'il', 'elle', 'On']	Nathalie	Vous étiez debout près d’une fontaine, dans un jardin, avec une couronne de fleurs autour de la tête. – Une couronne ? – Je la vois distinctement… elle serre à peine votre chevelure… [MASK] murmura pensivement : – Des fleurs sur la tête…
+
+['Il', 'Tout', 'Elle', 'Daniel', 'Pierre']	Rock	[MASK] s’animait de plus en plus. Une étape encore s’achevait sur la voie de la vérité. L’heure de l’action approchait, et, pour lui, l’action contenait toujours une part de certitude qui le grisait d’espoir.
+
+['hier', 'jeudi', 'lundi', 'mardi', 'vendredi']	Versailles	Le dossier est en sûreté. Si tu m’avais démoli tout à l’heure, demain, après-demain, la justice était à tes trousses. Alors, à quoi bon ? Maintenant, je conclus. C’est notre deuxième rencontre. Elle ne se terminera pas comme celle de [MASK].
+
+['madame', 'Mademoiselle', 'Madame', 'petite', '!']	Pasquarella	répliqua-t-elle, avec une révolte brusque, non ! Tout ce que j’ai fait jusqu’ici, c’est contre mon gré… Je ne veux plus vous obéir… Laissez-moi. Il lui frappa sur l’épaule, à petits coups. – Écoutes moi bien, [MASK].
+
+['elle', 'il', 'Anna', 'Alice', 'Sarah']	Maxime	Ellen-Rock se mit dans un renfoncement obscur du vestibule, à un endroit où il ne pouvait être vu. Derrière lui, [MASK] s’installa au seuil de la salle de bains. Il n’y avait aucun bruit dans cette partie de l’hôtel.
+
+['</s>NOTUSED', '–', '»', 'Non', 'Voilà']	Fichtre	Je n’ai pas voulu vous faire peur, mais la situation est terrible. – Alors, j’appelle ? – Et tout de suite encore. Un défenseur de plus, ce n’est pas à dédaigner. Et surtout de ce calibre-là ! [MASK], un magicien…
+
+['Philippe', 'Paul', 'elle', 'lui', 'Pierre']	Maxime	C’était bien la personne que Nathalie et [MASK] avaient vue de dos, un peu trop grande, un peu trop forte, surannée de mise et de coiffure, mais avec un joli visage sain, des joues éclatantes et un beau sourire.
+
+['non', 'ça', 'là', 'Non', 'çà']	Jéricho	? Faire la guerre à son chef, quand on l’a retrouvé ! – Tu lui as bien flanqué un coup de matraque, à ton chef ! – Ah ! [MASK], n’en parlons pas ! Quand j’y pense !…
+
+['Marie', 'Jean', 'Pierre', 'Monsieur', 'madame']	Maxime	– Qu’est-ce que c’est ? dit-elle, un peu inquiète. – Une abeille ; il était temps. – Fichtre ! s’écria [MASK]. Quel coup d’œil ! Et l’on prétend aussi que vous êtes d’une force ! Un athlète…
+
+['il', 'Il', 'Jean', 'David', 'Paul']	Forville	Brusquement, [MASK] eut la sensation précise que les choses, en effet, avaient tourné contre lui et qu’il était le prisonnier de l’homme qu’il avait tenu au bout de son fusil. Sa décision fut immédiate. Il s’élança vers le palier.
+
+['Tout', 'Il', 'Elle', 'On', 'Chacun']	Nathalie	Mon Dieu ! mon Dieu ! il me semble que toute ma vie ressuscite au fond de vos prunelles, et que si je pouvais vous regarder indéfiniment… Il se tut. L’effort du souvenir paraissait le fatiguer. [MASK] se prêtait à son attention.
+
+['il', 'on', 'Dieu', 'elle', 'Pierre']	Boniface	Je suis sûr qu’il ne se serait aperçu de rien, on aurait pris le médaillon, et tout aurait été pour le mieux. Mais un paysan passa… et puis un groupe d’étrangers fit le tour du temple… et puis [MASK] ne voulait pas…
+
+['moi', 'ça', 'autrefois', 'toujours', 'souvent']	Jéricho	On vivait dans des mansardes toutes voisines. Il me voyait chaque jour… Alors il a voulu… comme [MASK] pour ma sœur… il a voulu profiter… Vous comprenez ?… Plusieurs fois, si je n’avais pas eu mon couteau pour me défendre… Ah !
+
+['celle', 'Marie', 'madame', 'Jeanne', 'Marguerite']	Nathalie	– Certes, répondit-il sourdement – et [MASK] qui était près de lui fut seule à l’entendre -, certes, il y a tant de coïncidences !… J’étais là aussi, et nous vous admirions peut-être non loin l’un de l’autre, quand vous vous couronniez de fleurs…
+
+['il', 'elle', 'on', 'Alice', 'chacun']	Nathalie	Ivre, délirant, il tournoya sur lui-même et, serrant entre ses mains sa tête dont la blessure d’autrefois le faisait souffrir atrocement, il s’écroula sur le tapis, d’un bloc. Impassible, [MASK] contemplait ce long corps inerte.
+
+['toi', 'Simon', 'Pierre', 'capitaine', 'moi']	Berteux	L’extrémité du câble était enroulée autour d’une petite borne de cuivre. II le déroula et le jeta par-dessus bord comme une amarre. – Allons-y, cria-t-il à ses compagnons. Tu es prêt, [MASK] ?
+
+['Voltaire', 'Julie', 'un', 'Julien', 'Paul']	Forville	Il en est qui ont tout quitté pour lui. – Racontars ! dit [MASK]. – Tout n’est pas racontars. Et dans ce qu’on sait de lui, quelle allure ! – Oui, pendaisons, supplices… – Quelle témérité ! Quel mépris du danger !
+
+['Elle', 'Marie', 'Jeanne', 'Madeleine', 'Suzanne']	Nathalie	[MASK] se mit debout, sur le seuil de la terrasse, se pencha sur l’enfer et, lentement, gravement, frappa trois fois dans ses mains. – Rien ! dit-elle. Pas de fumée ! Pas une trappe qui s’ouvre !
+
+['voix', 'détresse', 'Jeanne', 'fusil', 'feu']	Nathalie	Ils se préparaient. L’étoffe tremblait un peu. Entre elle et le chambranle de la porte, le canon du fusil apparut. Et, presque en même temps, deux choses se produisirent : l’appel de [MASK] et une détonation qu’une autre suivit immédiatement.
+
+['il', 'elle', 'Il', 'Jésus', 'on']	Forville	Alors votre passé jaillira tout entier de l’ombre. J’envisagerai également l’hypothèse du cas où vous seriez amené aux lieux mêmes de votre enfance. L’émotion du passé se ferait jour peu à peu, et le miracle se produirait infailliblement. Cependant [MASK] avait fait amener son auto.
+
+['Jeanne', 'Marguerite', 'Marie', 'Madeleine', 'Thérèse']	Forville	– Le mal fut immédiat, en effet. Un envoûtement… un philtre. Certes, dit [MASK] sourdement… un philtre qui vous a fait perdre la tête. Sans quoi, auriez-vous fui comme vous l’avez fait, le surlendemain, avec ce misérable ?
+
+['il', 'chacun', 'on', 'personne', 'elle']	Nathalie	Tout l’équipage se massa pour lui barrer le passage. Un revolver fut braqué. – Halte ! ou je tire, hurla le capitaine, le canon de son arme contre le visage de l’assaillant. Mais [MASK] s’interposa.
+
+['Pierre', 'Marius', 'Louis', 'Jean', 'Julien']	Forville	Le choc n’avait même pas ébranlé l’adversaire qui parut ne pas s’en apercevoir et qui, tout au plus, retirant les mains de ses poches, les projeta comme un rempart. – Que faites-vous là, voyou ? bégaya [MASK], que sa nature grossière emportait.
+
+['il', 'on', 'Monsieur', 'monsieur', 'je']	Jéricho	Voici la lettre de ton correspondant « C’est entendu, [MASK] est également désireux de vous rencontrer. Puisque vous venez rejoindre votre patron, profitez-en, et soyez au rendez-vous fixé, à quatre heures de l’après-midi. »
+
+['il', 'elle', 'Il', 'Charles', 'Louis']	Nathalie	Mais, comme on s’apprêtait à retirer la passerelle, subitement, [MASK] changea d’avis, dit quelques mots au capitaine, se chargea de son sac, et s’en alla d’un pas précipité. Une automobile de louage stationnait devant l’église. Le chauffeur lui demanda
+
+['Voltaire', 'Merlin', 'Pierre', 'Napoléon', 'Jean']	Maxime	Et je dois dire que c’était le dernier du nom, et que personne n’a le droit de s’appeler Plouvanec’h. – Ce monsieur, ajouta [MASK], se disait en outre prince… prince de je ne sais pas quoi…
+
+['</s>NOTUSED', 'Jean', 'le', 'Pierre', 'la']	Forville	– Donc il entrera par ici ? dit [MASK], en désignant la porte basse. – Pas d’erreur. – Dans vingt minutes peut-être ? – Il marchait vite. Comptez-en dix… – Nom d’un chien ! grogna
+
+['ça', 'cela', 'on', 'il', 'je']	Boniface	Je ne suis pas bien fort… je ne pouvais plus bouger… D’ailleurs j’espérais bien que ce pauvre monsieur s’éveillerait… Je voyais qu’il s’agitait, qu’il semblait se débattre, souffrir. J’essayai de crier, [MASK] me serra la gorge…
+
+['Elle', 'Alice', 'Anna', 'Marie', 'Emma']	Nathalie	Le bleu de la mer devenait noir. [MASK] observait le baron d’Eilen-Rock, comme on observe quelqu’un de qui l’on attend des paroles et des actes, et elle s’étonnait de cet état d’esprit, elle qui avait l’habitude de se déterminer toujours par elle-même.
+
+['Pierre', 'Jean', 'Georges', 'Paul', 'Charles']	Nathalie	– Certainement, fit [MASK], ils ne nous manqueraient pas… Il se décida soudain, et aussitôt l’obligation d’agir le transforma… Il se mit à rire et, sans plus étouffer le son de sa voix, il parla joyeusement, tout en inspectant la terrasse.
+
+['cependant', 'Monsieur', 'parfois', 'certes', 'monsieur']	Nathalie	Il faut se méfier, [MASK]. Quand on choisit comme demeure les caravansérails que sont les palaces, on s’expose à des dangers imprévus. Ainsi, voilà cette porte… Parce qu’elle est fermée à clef et au verrou, vous vous croyez à l’abri.
+
+['Dieu', 'Napoléon', 'Jésus', 'Il', 'Ceci']	Jéricho	– Allons donc ! – Comme j’ai l’honneur de vous le dire. [MASK] est un mythe, un personnage déformé par l’imagination… tandis que mon héros se tient d’aplomb sur ses jambes. – Et comment s’appelle-t-il, votre héros ?
+
+['Il', 'Elle', 'On', 'Lui', 'Joseph']	Boniface	De toute sa volonté, elle exigeait que sa figure demeurât impassible, et que sa respiration fut celle d’une femme engourdie par un sommeil paisible. [MASK] avançait. À trois pas de lui, sur la toilette, il avisa les bijoux et le reliquaire.
+
+['Il', 'Elle', 'On', 'Chacun', 'Paul']	Nathalie	[MASK] savait que cette femme n’était autre que la chanteuse italienne. À vingt mètres, le canot obliqua sur la droite, évitant le sillon creux et le bouillonnement des flots que laissait derrière lui le Nénuphar. Et presque aussitôt il fut à hauteur du yacht.
+
+['monsieur', 'Monsieur', 'Baron', 'Mademoiselle', 'madame']	Nathalie	Il pressentait, entre elle et le baron d’Ellen-Rock, l’existence d’un secret, de quelque chose de spécial qui troublait la jeune fille. – Que vous le vouliez ou non, [MASK], il faudra bien parler. – Pourquoi ? dit-elle.
+
+['Maria', 'Anna', 'Juliette', 'Elena', 'Clara']	Pasquarella	Il n’y avait pas là de sa part faiblesse ou lâcheté, et pas davantage ce désir de vengeance qui avait secoué [MASK] et qui, s’évanouissant au moment suprême, laissait la jeune Italienne sans forces, à genoux et sanglotante, devant celui qu’elle aimait.
+
+['Moi', 'Oui', 'Bref', 'Franchement', 'Personnellement']	Fichtre	Cette troupe d’ambulants, c’était eux… le major Boniface et ses acolytes. [MASK], j’ai eu du nez de déguerpir, et je commence à croire que je suis doué de certaines qualités de finesse et de clairvoyance qui me mèneront loin dans la vie.
+
+['John', 'elle', 'lui', 'Jack', 'David']	Nathalie	La chambre était vide, les chaises et le lit en désordre, la fenêtre ouverte, avec une vitre cassée, et on voyait le haut d’une échelle qui était plantée derrière la maison. Ellen-Rock et [MASK] écoutaient avec attention.
+
+['Il', '</s>NOTUSED', 'On', 'Elle', 'Je']	Nathalie	C’est d’ailleurs ce qu’on nous a répondu à l’hôtel de Brest. La dame de Plouvanec’h est décédée, son fils également, et le vieux régisseur, qui n’a guère sa tête à lui, soigne le domaine comme il peut, c’est-à-dire mal. [MASK] répliqua
+

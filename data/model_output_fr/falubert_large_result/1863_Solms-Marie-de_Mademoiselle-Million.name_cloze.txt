@@ -1,0 +1,200 @@
+['un', 'une', 'on', 'abord', 'état']	Albert	Celui-ci prit le bras d’[MASK], l’entraîna au jardin, et là, dans une allée solitaire, où nul œil curieux ne pouvait pénétrer, il parla ainsi au jeune homme, déjà ému et glacé de crainte par l’air triste du père de sa bien-aimée
+
+['il', ',', 'on', "s'", 'encore']	Luigi	un courant d’air éteignit la lampe, et [MASK] se retrouva, avec son guide mystérieux dans l’arène des Cimiers, au centre même de l’amphithéâtre. Mais ce n’était plus l’amphithéâtre ruiné et désert qu’il avait vu la veille. La tempête avait cessé ;
+
+['la', 'son', 'sa', 'ses', "l'"]	Napoléon	on l’avait vu revenir, après Waterloo, le visage à moitié emporté par un sabre prussien, ses trente-trois blessures presque toutes rouvertes, et son cœur tellement navré de la chute de [MASK], qu’il devait toujours rester sourd aux brillantes propositions qui lui seraient faites par la Restauration.
+
+['Adieu', 'adieu', 'Madame', 'Monsieur', 'dit-elle']	Kerget	Maintenant je suis contente. Adieu, [MASK] ! Tu m’as fait du mal autrefois : nous sommes quittes. Je connais ta femme ; elle ne te pardonnera jamais. Votre malheur commence aujourd’hui, et je suis bien aise que tu saches qu’il vient de moi.
+
+['</s>', 'et', 'Quand', 'Il', '-']	Hermann	Bientôt, il vit s’avancer à sa rencontre un homme à la mine hypocrite, qui pressait les flancs d’un cheval étique et jetait autour de lui des regards tout à la fois avides et craintifs. [MASK] l’aborda. — Vous venez de loin, seigneur ?
+
+['S', 'se', 'tout', 'tous', 'la']	Kerget	Une fois entrée, j’étais bien sûre de ne pas sortir, il est si faible ! Alors je lui ai mis dans la tête de passer trois nuits par semaine ici... Oui, j’ai consenti à partager avec vous l’amour de [MASK]...
+
+['il', 'Il', 'homme', '.Il', 'celui-ci']	Hermann	En conséquence, il se dirigea vers une rivière pour noyer d’un seul coup tous ses chagrins. Quelqu’un l’arrêta par le bras au moment où il allait se précipiter dans l’eau. [MASK] se retourna et vit un vieux mendiant en cheveux blancs et en haillons.
+
+['Jésus', 'celui-ci', 'monsieur', 'Pierre', 'Dieu']	Kerget	Toute la nuit, elle attendit sans se coucher l’arrivée de [MASK]... Mais il ne vint pas, et, quand je la trouvai près de son foyer, il y avait près de vingt-quatre heures qu’elle attendait ainsi sans avoir pris ni repos ni nourriture.
+
+['-', 'TO', 'en', 'O', 'A']	LOUISE	Embrasse tendrement tous nos chers bébés, et reçois toi-même toutes les tendresses de Ton amie, [MASK]. III La lettre précédente est la seule que nous emprunterons à la correspondance des deux amies. Le roman par lettres nous a toujours paru mortellement ennuyeux.
+
+['il', 'elle', '</s>', 'Il', 'on']	Kerget	Le voile brodé d’amour qui lui couvrait la vue se déchira tout à coup, et elle comprit toute l’horreur de sa position. [MASK] l’avait toujours trompée. Il avait aimé cette femme avant elle et l’aimait encore au point de la faire passer pour sienne devant toutes ses pratiques.
+
+[',', 'on', 'il', 'de', 'ne']	Hermann	Elles lui firent prendre une route fleurie et embaumée. Tour à tour, il fut le cavalier de chacune de ces jeunes femmes. Le voyage, bien que long, était agréable, et elles semblaient prendre à tâche de le prolonger... Cependant, [MASK] ne voyait point paraître l’Amour
+
+['il', 'on', 'en', 'éti', 'elles']	Hermann	A peine le vieillard avait-il dit ces paroles, qu’[MASK] était à ses genoux. — Vieillard, lui dit-il les mains jointes, vous avez renontré l’Amour ! Où est-il ? — Que me donnerez-vous pour vous le dire ? demanda rdemment le mendiant
+
+['fort', 'beaucoup', 'encore', 'tout', 'celle-ci']	Louise	Le jeune homme n’avait eu pour la jeune fille que la politesse obligatoire dont on ne peut se dispenser sans se montrer grossier. Cependant le silence observé à son sujet intriguait [MASK] ; il suffisait qu’elle eût remarqué l’inconnu pour que tout le monde se tût sur son compte.
+
+[',', 'et', 'il', 'de', 'le']	Kerget	[MASK] ne fit qu’un bond jusqu’au lit, et saisissant la main de sa femme, il se pencha vers elle, comme pour l’embrasser, jeta un cri perçant et tomba sans connaissance sur la terre battue qui servait de plancher. Alors, tout me fut expliqué.
+
+['à', ':', '"', ';', 'A']	Hyacinthe	; et, lorsqu’à force de patience, de soins et d’art, je puis fixer sur ma toile ces éblouissants phénomènes, mon cœur se gonfle d’orgueil et de joie, et je me crois un nouveau créateur ! — Fou ! répondait [MASK]. Fou !
+
+['le', 'la', "l'", 'madame', 'elle']	Kerget	— Ah ! c’est comme ça, reprit-elle, rouge comme un coquelicot et les yeux hors de l’orbite. Ah ! c’est comme ça ! la malheureuse, je la chasserai ! — Non, dit [MASK], qui craignait un scandale, ne la chassez pas.
+
+['me', 'il', 'ME', 'je', 'ne']	Sataniel	J’ai déjà essayé de me réduire de moitié ; le moi y consentit de grand cœur, mais [MASK] ne voulut jamais entendre parler de séparation. Me voilà donc condamné à cette association funeste, qui me fait une existence si triste et si amère.
+
+['on', 'il', 'encore', 'lui-même', 'alors']	Jean	Lorsque [MASK] se déclarait vassal du Pape et faisait arracher les dents aux juifs ? « Était-ce le bon vieux temps que celui des lois forestières et du couvre-feu ? des lois normandes ? « A quelle époque de cette série d’annales sanglantes, placerez-vous l’époque du bon vieux temps que vous regrettez
+
+[',', 'se', 'de', 'le', 'la']	Jaffa	et on a eu raison de dire que ce qu’il y a de mieux dans l’homme, c’est le chien. Il quitta sur-le-champ le pavillon, sans prévenir personne. A quelques jours de là, vers le soir, [MASK] s’avança dans la cour avec toute la gravité d’un agent diplomatique
+
+['...', 'or', 'mée', ';', ',']	Napoléon	Et, détachant elle-même sa croix, elle la posa sur la poitrine de son frère. Celui-ci, agonisant déjà, ouvrit une dernière fois les yeux,... aperçut cette croix et [MASK], cria : Vive l’Empereur ! et rendit le dernier soupir.
+
+['en', 'ton', 'ta', 'te', 'ren']	Kerget	— Je te répéterai que le mariage se fera et que, si tu fais trop la renchérie... Eh bien, quand je serai ton père, je te ferai enfermer comme on fait de certaines filles. — Vous l’avez voulu, [MASK],... priez Dieu !
+
+['qui', ',', 'on', 'se', 'en']	Mérijot	Or, douze mille francs à manier pour un avoué qui a su son métier et qui n’a plus rien à faire, c’est, comme on dit, un beau denier. [MASK] fut loin de s’en plaindre ;
+
+['se', 'y', 'en', ',', 'celui-ci']	Luigi	Peut-être était-ce un aqueduc, peut-être était-ce un chemin secret par où les belluaires pénétraient dans l’amphithéâtre. Quoi qu’il en soit, cette voûte pouvait conduire dans quelque ruine inexplorée : c’était une trop bonne fortune pour être négligée par un antiquaire ; aussi [MASK] poursuivit-il résolûment ses recherches.
+
+['celui-ci', 'Pierre', 'Jean', 'Paul', 'Jésus']	Sataniel	? — Non, dit-il, j’ai mon individualité, comme tu as la tienne. Cette discussion fut surprise par le supérieur, qui, ne comprenant pas les motifs qui forçaient [MASK] à parler tout haut dans le réfectoire, le pria de se taire.
+
+['votre', 'le', 'la', 'vous', 'ce']	Kerget	— Mon ami, lui dit-elle, est-ce que [MASK] n’est pas ici ? — Non, dame ! répondit l’enfant. Le patron est sorti pour le quart d’heure ; mais, si vous voulez parler à la patronne, je vas l’appeler.
+
+['elle', 'Elle', ',', 'celle-ci', 'il']	Louise	Si [MASK] avait besoin de se reposer des compliments prétentieux de son précédent partenaire, elle ne pouvait mieux tomber. Celui-ci est quasi muet ; il parle peu, il regarde sa danseuse sans affectation, mais aussi sans embarras, comme un frère regarderait sa sœur.
+
+['Il', 'il', 'H', 'ans', 'IL']	Louise	; il était doué d’un des plus jolis visages qu’il soit possible de voir, et joignait à une grande habitude du monde élégant un cœur excellent. Il était franc et loyal. [MASK] était belle et d’une douceur angélique. Il avait vingt-cinq ans ;
+
+['il', 'elle', 'celui-ci', 'celle-ci', 'Pierre']	Kerget	Attends,... attends, me voici. . En effet, [MASK] s’habilla à la hâte et ouvrit la porte d’en bas. — Entre, mon enfant, et explique-moi l’objet de ta visite matinale.
+
+['tout', 'chacun', 'celle-ci', 'bien', 'Marie']	Louise	— Puis, par un de ces retours méchants qu’elle devait peut-être à la famille Mérijot, elle ajoutait mentalement : — « Il ne sait peut-être pas que je suis riche ! » La contredanse finie, l’inconnu reconduisit [MASK] à sa place, salua respectueusement et disparut.
+
+['elle', 'il', 'chacun', 'on', 'Jeanne']	Louise	0 charmes de la première lecture du premier billet doux ! Chères et pures émotions de l’amour naissant, qui vous remplacera jamais ? La feuille satinée fut couverte de baisers, et [MASK] conserva le beau sonnet toute une journée sur son cœur.
+
+['Rodin', 'celui-ci', 'le', 'il', 'Pierre']	Blenkinsop	— Sur ma parole, monsieur, dit [MASK], après les observations que vous m’avez faites cette nuit, je reconnais que je suis embarrassé pour fixer l’époque précise du bon vieux temps. — Voulez-vous que je fixe cette époque pour vous ? demanda la statue.
+
+['il', 'le', 'celui-ci', "l'", 'elle']	Hermann	— J’ai perdu l’Amour, dit [MASK], et tout espoir le le retrouver s’est évanoui pour moi. Laissez-moi nourir. — L’Amour ! dit le mendiant, mais je l’ai rencontré out à l’heure. Il vous cherche sans doute.
+
+['donc', 'comment', "n'", 'enfin', 'alors']	Louise	mais que, dans son état normal, elle n’avait rien de saillant. Comment [MASK] avait-elle pu remarquer une figure où rien ne semblait remarquable ? Nous l’avons dit, parce que l’expression de cette figure était naturelle et franche, chose rare pour la jeune fille.
+
+['et', 'il', ',', 'qui', 'Il']	Napoléon	[MASK] rallie lui-même les troupes. A la tête de sa vieille garde, il parcourt les rangs des conscrits. Sa présence et sa voix puissante électrisent ces jeunes soldats. Ils attaquent impétueusement les Prussiens, aux cris de vive l’Empereur !
+
+['situation', '</s>', 'condition', 'elle', 'femme']	Albert	Ma Louise est un trésor qui vaut bien des sacrifices. Êtes-vous décidé à la prendre pour épouse dans les conditions où le sort l’a placée, et qu’il ne dépend pas de nous de changer ? [MASK], atterré par cette déclaration, fut quelques instants sans pouvoir répondre.
+
+['chœur', 'elle', 'il', 'Dieu', 'celui-ci']	Hermann	dirent-ils en chœur, nous t’accompagnerons et nous t’aiderons à trouver l’amour ! — Venez avec moi, dit [MASK] : la route me semblera moins ennuyeuse à parcourir... venez !... Notre artiste, entouré de ses gais et bruyants compagnons, ne réussit pas davantage dans ses investigations.
+
+['on', 'il', 'elle', '</s>', 'Il']	Bernier	Ce plan ne laissait pas que d’offrir quelques difficultés d’exécution. La ruse ne pouvait réussir avec un adversaire réfléchi, prudent et maître de lui-même : d’autre part, une querelle était malaisée à susciter : [MASK] était en bons rapports avec la famille Mérijot, comme avec toute la ville.
+
+['général', 'colonel', 'Général', 'généraux', 'capitaine']	R	! s’écria de [MASK]... dans une exaltation fébrile. — Contre ta fille Noémi, dit en souriant le général. — Contre ma fille Noémi ! c’est ce que nous aimons tous les deux le plus au monde : l’enjeu est donc égal.
+
+['il', 'maître', 'homme', "c'", 'monsieur']	Sataniel	Si toutes ces querelles de mes deux maîtres s’étaient passées entre nous, le mal n’eût pas été très-grand. Par malheur, [MASK] était aussi orgueilleux que bavard, et il se permit plusieurs actes de révolte qui nous attirèrent bon nombre de punitions.
+
+['soir', ',', ';', 'matin', 'et']	Louise	J’ai vu hier [MASK] pour la première fois. Vous allez me dire que je suis fou, que j’ai perdu la tête ! Je m’attends à tout ; mais je dois vous prévenir que cela ne changera rien à l’impression soudaine que j’ai ressentie.
+
+['elle', 'lui', 'celle-ci', 'elle-même', 'eux']	Kerget	Quant à [MASK], il la contemplait de ses yeux uns, cherchant à saisir au passage les frémissements rares de la figure de la veuve. Puis, s’approchant jusqu’à son siège, il lui prit familièrement la tête dans les deux mains et l’embrassa au milieu du visage.
+
+['il', 'on', 'elle', 'tu', 'personne']	Louise	C’est ce que tu n’osais ajouter, n’est-ce pas ? — Oui, ma tante. — Le fat ! Eh bien ! malgré ta jeunesse, ta fortune et ta jolie tournure, [MASK] ne t’aimera jamais, par une raison plus que simple.
+
+['Il', 'il', "C'", 'et', 'y']	Bernier	Il le trouva assis mélancoliquement devant son piano, composant un de ces morceaux qui avaient donné, en province, une certaine célébrité à son talent. [MASK] était bien avocat ; mais, comme tant d’autres, il ne plaidait jamais.
+
+['le', 'la', 'les', 'B', 's']	D	Ce fut de cette manière qu’il fit connaissance avec [MASK]... ; seul, celui-ci avait compris sa pantomime, et il lui dit : « Vois mon sang, n’ai-je pas assez fait ? D’ailleurs veux-tu que je me batte tout seul ? »
+
+['je', 'celle-ci', 'celui-ci', 'Jeanne', 'chacun']	Louise	Vous n’avez pas permis que je connusse les joies de la maternité ; que [MASK] remplace, auprès de son père, l’enfant légitime qui manque à son foyer ! » La vie régulière et monotone du couvent avait peu à peu engourdi les chagrins de cette noble femme.
+
+['ma', 'mon', 'la', 'de', 'ce']	Louise	— Si j’étais seul au monde, dit-il, je n’hésiterais pas une seule minute à tout braver, mais je dépends de ma famille. Seul, je ne puis rien décider, et cependant je dois taire à mes parents le secret de la naissance de [MASK]
+
+['le', 'la', "l'", 'en', 'les']	Noémi	Il était, en effet, impossible à une nature délicate comme celle de ce brave chien d’approcher [MASK], sans s’attacher fortement à elle. Son cœur était si bon, si indulgent, son esprit si fin, si prodigue de lui-même pour l’agrément de ceux qui l’entouraient
+
+['le', 'il', "l'", 'je', 'tout']	César	; si bien que [MASK], venu pour obtenir une explication, n’avait plus besoin d’en demander et n’eut pas même l’occasion de placer un mot, tant son loquace rival prenait avec ardeur sa revanche de son mutisme d’autrefois.
+
+['Jean', 'Pierre', 'Henri', 'le', 'Charles']	Hermann	— Soyez bénies, s’écria [MASK], ô vous qui me rendez l’Amour ! Et il suivit les séduisantes bayadères. Elles lui firent prendre une route fleurie et embaumée. Tour à tour, il fut le cavalier de chacune de ces jeunes femmes.
+
+['elle', 'je', 'me', 'et', 'il']	Margot	elle leva les yeux sur moi, me reconnut et se prit à fondre en larmes. [MASK] vola sur ses genoux en l’entendant gémir, et je ne pus que lui dire : — Pourquoi pleurez-vous ? La pauvre femme n’avait que trop sujet de se désoler.
+
+['elle', "l'", 'on', 'il', "s'"]	Louise	Il se tourna vers celui-ci : — Ma femme veut vous rassurer, reprit-il, mais ce qu’elle vous dit là n’est qu’un leurre ; ne la croyez pas, Monsieur ; nous savons qui [MASK] aime, qui elle a choisi, ce n’est pas vous....
+
+['il', 'elle', 'et', 'jour', 'on']	Paolo	Le onzième jour, [MASK] mourut. Alors le jeune baron rassembla ses amis et ses vassaux, et marcha à leur tète contre les Sarrasins, qu’il extermina. Comme il avait fait vœu de raser le château théâtre de ces atrocités, il tint son serment.
+
+['il', 'Il', 'Elle', 'et', 'elle']	Hermann	; il riait comme un petit démon. — Tu n’as pas de volonté, n’essaye donc pas de peindre ; causons et fumons, laissons-nous vivre. [MASK] jetait encore de temps de temps un regard furtif sur sa palette abandonnée.
+
+['les', 'sur', 'là', 'tous', 'à']	Paolo	Ronge ta chair, bourreau, jusqu’ à ce que ton âme damnée s’en aille dans les enfers ! Aussitôt il fit un signe aux hommes armés, qui couchèrent [MASK] dans le cercueil, l’y garrottèrent et le descendirent dans un caveau.
+
+['on', 'tous', 'chacun', 'il', 'ils']	Thérèse	! Vous me faites honte. Il y a bien longtemps que je cherchais à me venger : le jour est venu ; je ne laisserai pas l’occasion s’échapper. Écoutez-moi tous ! Il y eut ici un moment de silence pendant lequel [MASK] se recueillit.
+
+['il', 'étais', 'esprit', 'était', "j'"]	Sataniel	J’avais une âme ardente, prête à accepter tous les dogmes de la religion sans les discuter ni les approfondir ; mais [MASK] était sceptique et moqueur ; il demandait à chaque instant des preuves ; il raillait le pauvre moi sur ses croyances naïves et traitait sa foi de stupidité.
+
+['le', 'la', "l'", 'tout', 'les']	Hermann	C’est vrai, pensa [MASK]. » Et il ajouta tout haut : — Mais je ne connais personne qui puisse me rendre un tel service, à qui m’adresser ? — A moi, dit le vampire. Venez chez moi, nous en causerons pendant le dîner...
+
+["c'", "C'", '</s>', 'Elle', 'elle']	Louise	Il paraît que cela est charmant, et je sais fort bien que ce soir-là je trouvai cela charmant. [MASK] était une jeune fille de dix-huit ans. Elle avait un visage d’une régularité antique. Son profil semblait avoir été copié sur une médaille grecque.
+
+['le', 'que', 'les', '...', 'il']	D	? Il est probable que [MASK]... comprit que, s’il n’acceptait pas cet enjeu, son ami le porterait ailleurs ; ses hésitations cessèrent. — Le Fort du Diable contre le pavillon, dit-il, du ton d’un homme qui prend un grand parti.
+
+[';', ',', 'M.', '...', ':']	Hermann	N’es-tu pas plus heureux maintenant ? — Oui, répondit faiblement [MASK]. Cependant l’ennui venait souvent le trouver, et, dans de tels moments, il voulait reprendre ses pinceaux,... mais alors le travail le fatiguait plus que l’oisiveté ne l’avait ennuyé.
+
+['On', '...', 'Il', 'il', 'on']	Louise	Se fâcher pour un sonnet, est-ce possible ? [MASK] le lut avec avidité... Dans le premier quatrain, il la comparait à la lune ; dans le second, à la brise, et il mettait son cœur et le monde à ses pieds, dans les deux tercets...
+
+['votre', 'à', 'plus', "aujourd'", 'monsieur']	Paolo	— Madame, dit-il en lui secouant rudement le bras jusqu’à ce qu’elle eût repris connaissance, madame, je suis [MASK], votre beau-frère, et je viens, suivant ma promesse, vous rendre votre repas de fiançailles. Alors un homme entra dans l’appartement.
+
+[',', '-', '(', 'le', 'je']	Aristide	— J’en suis sûr, disait le père Mérijot, il veut faire comme les autres, et il faut être aussi bouché que tu l’es pour n’avoir pas remarqué son manége et ses intentions. — Mais, mon père, répondit sentencieusement [MASK], je suppose que vous vous trompez
+
+['-', 'moi', 'ma', 'me', 'mon']	Kerget	— Je viens vous demander compte de votre conduite à l’égard de ma mère et de moi. Vous êtes un malhonnête homme, [MASK], et vous m’avez lâchement calomniée pour en arriver à vos fins. — Moi ? dit le paysan... On t’aura trompée.
+
+["l'", 'le', 'celui', 'Monsieur', 'Sire']	Jeanne	dit l’Empereur d’une voix émue. — Oui, Sire, dit [MASK]. Hier a succombé mon ami d’enfance, demain peut-être ce sera mon tour. — Ton père et tes trois frères sont morts à la guerre, tu dois bien me haïr ?
+
+['le', 'il', 'alors', 'je', '-']	Blenkinsop	— Brave vieillard, dit [MASK], digne et rare citoyen ! nous ne verrons jamais ton égal ! Ah ! le bon vieux temps ! le joyeux bon vieux temps ! Rien de pareil au bon vieux temps, mon vieux ! Rien de pareil au bon vieux temps !
+
+['et', ',', 'mais', 'qui', 'le']	Claude	Toutefois, car il faut dire la vérité tout entière, soit que ce calme ne fût qu’apparent, soit qu’une autre cause de désorganisation se fût manifestée dans son moral, [MASK], à partir de cette époque, n’eut plus le même entrain, la même ardeur qu’autrefois.
+
+['Il', 'On', 'Elle', 'il', 'on']	Hermann	! — Adieu, petite chambre qui nous réunissait tous deux, dit-il, adieu ! je ne reviendrai qu’avec lui. [MASK] marchait fort vite, l’œil hagard, la toilette en désordre. On le regarda avec curiosité d’abord, avec intérêt ensuite.
+
+[',', 'de', "d'", "l'", 'à']	Louise	? Le son de sa voix n’aurait-il point trahi l’importance qu’elle y attachait ? Aurait-elle été assez forte pour affecter l’indifférence sans que l’indifférence parût affectée ? Voilà ce que se demandait [MASK], devenue tout à coup prudente et réfléchie ;
+
+['il', 'et', 'elle', 'Il', 'qui']	Louise	Il vendit un prix considérable le fonds qu’il avait formé lui-même, et il se préparait à jouir de cette fortune laborieusement et légitimement acquise, lorsque — événement toujours imprévu et cependant inévitable — la mort le prit au moment du repos, à l’âge de cinquante ans. [MASK] avait alors quatorze ans.
+
+['dedans', 'ici', 'dehors', 'ensemble', 'là']	Kerget	— Nous causerons aussi bien dehors, [MASK], car je n’ai pas beaucoup de temps à vous donner. Si je viens vers vous, c’est que je ne puis vous parler comme je le voudrais à la Table-Ronde.
+
+['Elle', 'Personne', 'elle', 'On', 'Ca']	Louise	Mais laisse mes mains en repos ; assieds-toi tranquillement, verse-moi une tasse de thé et causons. J’obéis comme une machine à l’injonction de ma tante, qui continua ainsi : — [MASK] ne peut être ta femme ! — Oh ! ma tante !
+
+["C'", "c'", 'qui', 'Quel', '-']	Louise	— [MASK] est en effet son nom. Mais... Qui a pu vous dire ?... — Continuez. — Eh bien ! madame, un jeune homme qu’elle aime recherche cette jeune fille ; mais elle est sans famille, et je voulais demander à votre amitié la permission de l’adopter.
+
+['Il', 'il', 'et', 'On', 'Et']	Antonio	Puis il quitta la table et sortit du château. On ne sut ce qu’il était devenu, et douze ans s’écoulèrent sans qu’on en entendit parler. [MASK] vécut très-heureux avec sa nouvelle épouse, qui lui donna trois beaux garçons.
+
+[',', 'jeune', 'fils', 'il', 'de']	César	[MASK], prévenu par une lettre de son père, avait déjà rejoint son régiment. Il ne demanda plus de congé. Les grisettes et les bourgeoises de la petite ville où il était en garnison purent posséder désormais ce héros, sans partage.
+
+['on', 'se', 'elle', 'il', 'On']	Jeanne	Parmi eux se trouvait celui de ses amis d’enfance dont [MASK] venait de parler à l’Empereur. Elle s’agenouilla pieusement ; des larmes baignaient son visage, et elle murmura au milieu de ses sanglots étouffés : —Adieu, toi que j’aimais...
+
+['ceux', 'tous', 'chacun', 'ceux-ci', 'certains']	Louise	les compétiteurs se neutralisaient les uns les autres, et les premiers refus avaient habitué [MASK] à persévérer dans la même voie. Il faut dire que parmi ces soixante-quatorze victimes de l’amour, on en eût trouvé fort peu d’intéressantes et de dignes d’un meilleur sort.
+
+['il', "c'", 'on', "s'", "d'"]	Albert	On hésita, on craignait de s’engager trop légèrement, mais [MASK] était si respectueux en exprimant son amour, qu’il fallut céder. Ce fut alors un échange perpétuel de serments de s’aimer toute la vie, de n’être jamais que l’un à l’autre
+
+['elle', ',', 'qui', 'Elle', 'et']	Louise	[MASK] était vraiment belle ; non pas de cette beauté qui n’appartient qu’à la jeunesse, de cette beauté qui s’éteint avec le premier rayon de l’amour, mais d’une beauté réelle, sérieuse et pour ainsi dire solide.
+
+['t-il', 'monsieur', 'madame', 'Jean', 'celui-ci']	Albert	!... Toutefois, s’il m’était permis de vous adresser une seule question... — Ah ! parlez, monsieur ! — La situation où nous nous trouvons tous deux, reprit [MASK], est si extraordinaire, qu’elle servira d’excuse à mes paroles.
+
+['or', 'plus', 'qui', 'eur', 'te']	Avon	Heureusement l’église n’est pas très-élevée et le coq d’[MASK] ne craint pas les plaisanteries saugrenues que l’absence de cet appendice pourrait suggérer à ses collègues des paroisses voisines. Comme le séminaire, l’église contient un souvenir historique.
+
+[',', 'le', 'de', 'un', 'en']	Sataniel	Mais il avait dans l’esprit un charme irrésistible, et dans le caractère une douceur angélique qui lui attirait tous les cœurs. C’était sans doute par antiphrase qu’on l’avait surnommé [MASK]. Passionné pour la littérature, il travaillait beaucoup, niais dans un but artistique seulement
+
+['il', 'on', 'elle', 'ils', "j'"]	Louise	il les formera dès les langes aux études classiques ; il leur apprendra à dire papa et maman dans le dialecte dorien. En attendant, [MASK] a eu peur de cette érudition rétrospective. Tant de lumières l’ont éblouie ! elle a mieux aimé rester dans son obscurité.
+
+['elle', 'se', 'de', ',', 'ELLE']	Kerget	Depuis quelque temps son mari avait établi sur la route de Nantes une petite boutique où les ouvriers d’un château que l’on bâtissait de ce côté venaient prendre leur repas. C’était une bonne spéculation. [MASK] gagnait quelque argent dans cette maison ;
+
+['chacun', 'il', 'tout', 'elle', 'on']	Kerget	Deux cabinets furent réunis en une seule chambre à coucher, où [MASK] s’installa dans un mobilier neuf. Tout ce qui restait de son ancien ménage fut vendu, et la Sablonnière devint une auberge proprette et achalandée. Tous les dimanches la maison retentissait de cris et de chants.
+
+['que', 'donc', 'tu', 'une', '...']	César	— Ce sera donc [MASK]... — Qui l’épousera ? Sans doute, puisque tu ne fais rien Pour soutenir ta candidature. Voyons ! Est-ce toi, avec ton habit noir et ta cravate blanche, toi, greffier, qui iras chercher querelle à celui-ci ou à celui-là ?
+
+["aujourd'", 'aujourd', 'amour', 'hier', 'un']	Hermann	Eh bien ! qu’avez-vous donc tous ? Vous paraissez mornes, abattus, désespérés. Cet effet serait-il produit par l’histoire d’[MASK] ?... Ce serait plaisant ! Est-ce que nous courons après l’amour, nous autres jeunes gens d’aujourd’ hui ?
+
+['chacun', 'on', 'lui-même', 'celui-ci', 'Christian']	Luigi	Cependant les yeux enflammés des tigres pâlissaient ; les contours de leurs têtes monstrueuses s’effaçaient peu à peu ; leurs corps tachetés se décoloraient et devenaient presque diaphanes, si bien que [MASK] croyait voir les arbres à travers leurs flancs, de moins en moins opaques.
+
+["c'", "C'", 'esprit', "n'", ',']	Louise	[MASK] est un ange ; et, bien que ton ardeur soit un peu prompte, je ne veux pas te gronder d’un sentiment que je comprends parfaitement. Mais laisse mes mains en repos ; assieds-toi tranquillement, verse-moi une tasse de thé et causons.
+
+['enfou', 'enterré', 'le', 'de', 'fondations']	Césars	Comment était-il resté pendant des siècles enfoui sous la terre, dans un état parfait de conservation, aussi riche, aussi intact qu’au temps des [MASK] ? Chose plus étrange encore, comment se faisait-il qu’il fût splendidement illuminé, et comment cette huile brûlait-elle depuis quinze cents ans
+
+['il', 'elle', 'on', 'Pierre', "n'"]	Luigi	Les lèvres de la jeune fille s’agitèrent, mais aucun son n’en sortit. Elle ne parlait pas, et pourtant [MASK] entendit distinctement au fond de lui-même ces paroles effarées : « Sauve-moi et je suis à toi ! sauve-moi et je renie Dieu !
+
+['il', 'on', 'celui-ci', 'Napoléon', 'Il']	César	La comparaison était tout à l’avantage de l’absent. Avec moins de prétentions, [MASK] se fût peut-être moins nui à lui-même, et ; par contre, il eût moins bien servi les intérêts d’un rival dont, au reste, il ne soupçonnait même pas l’existence.
+
+['il', 'elle', ',', 'je', 'celui-ci']	Sataniel	Puis, tout à coup, rompant brusquement le dialogue, [MASK] sauta par la fenêtre, traversa le jardin comme une flèche, grimpa sur un arbre, enfourcha le mur, et nous nous trouvâmes dehors, avant que le moi paisible fût remis du trouble où l’avait jeté la ruse imprévue de son collègue.
+
+['chambre', 'charge', 'ménage', 'Paris', 'qualité']	Kerget	; puis, ayant jeté un triste regard sur la masure qu’avait habitée autrefois la femme de [MASK], elle reprit sa course, traversa le Champ de Mars, et peu de temps après, elle s’arrêta devant la Sablonnière.
+
+['Monseigneur', 'celui-ci', 'Madame', 'lui-même', 'Monsieur']	Antonio	A ce moment le majordome entra. Monseigneur, dit-il à [MASK], le diner est prêt. Je ne dirai rien du diner. On mangea comme au vieux temps, c’est-à-dire énormément, en arrosant chaque tranche de venaison d’une ample coupe de vin.
+
+['celui-ci', 'alors', 'encore', 'chacun', 'déjà']	Albert	L’amour ne tarda pas à naître dans le cœur de ces deux jeunes gens, si bien faits l’un pour l’autre. Des motifs sérieux empêchaient [MASK] de se déclarer sur-le-champ ; sa position n’était point encore fixée ; il lui restait un examen définitif à subir pour être reçu médecin.
+
+['tous', 'elle', 'la', "l'", 'toutes']	Bernier	Elle avait compris qu’une seule cause avait pu rendre si puissante sur elle l’impression produite par une simple lecture, et que cette cause unique était la crainte, subitement perdue, de ne pas être aimée par [MASK].
+
+[',', 'posé', 'le', 'les', 'un']	Jaffa	[MASK], l’oreille basse, immobile, renversé, dans l’attitude de l’accablement, aurait semblé étranger à cette scène si, par intervalles, un gros soupir ne fût sorti de sa poitrine. La partie fut longue ;
+
+['SAL', 'en', 'la', 'le', 'OR']	Wilhelm	— Allons, amis, s’écria [MASK] en se levant et se rapprochant de la table, notre punch est éteint, rallumons la bougie et remplissons les verres ! La tempête est calmée, vous allez pouvoir retourner chacun chez vous. Eh bien ! qu’avez-vous donc tous
+
+['lui', 'Paul', 'Georges', 'Pierre', 'Jean']	Aristide	Il ne demanda plus de congé. Les grisettes et les bourgeoises de la petite ville où il était en garnison purent posséder désormais ce héros, sans partage. Quant à [MASK], il se consola avec son parapluie : ils continuent à vieillir ensemble.
+

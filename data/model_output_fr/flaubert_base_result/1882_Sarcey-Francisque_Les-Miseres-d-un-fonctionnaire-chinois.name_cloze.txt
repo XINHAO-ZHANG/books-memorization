@@ -1,0 +1,200 @@
+['nbsp', '"', 'ii', '4', 'i']	Frédéric	[MASK]. – Il faut bien faire comme tout le monde. Le curé se morfond dans son église abandonnée, et son vicaire meurt de faim. Ils ne baptisent plus que les enfants du tiers état et ne célèbrent plus que des enterrements de sixième classe.
+
+['chasse', 'passage', 'guerre', 'garde', 'mer']	Panurge	– Il nous faut, reprit-il dès que le cheval trotta sur la grand’route, quelques hommes qui veuillent bien se mettre en avant pour patronner ma candidature. Je vous l’ai dit, les Macaréens sont les moutons de [MASK] : s’ils en voient sauter dix, ils sauteront à leur tour.
+
+['qui', 'cela', 'dieu', 'moi', 'ceci']	Marguerite	– Monsieur le maire, dit-il, ce pauvre diable est très mal sur cette paille humide. J’ai à lui offrir une chambre et un lit chez moi. Vous y serez plus à votre aise pour y donner vos soins, et [MASK], s’il le faut, lui servira ce soir de garde-malade.
+
+['il', 'chacun', 'celui-ci', 'lui-même', 'lui']	Léger	Et ils s’esquivèrent tous trois, sans demander leur reste. Le quatrième les suivit, et [MASK] resta seul en face de son papier timbré. Il était désappointé et furieux. Il courut chez un huissier, et le somma de venir avec lui faire les constatations légales.
+
+['son', 'la', 'sa', "l'", 'ses']	Marguerite	– Il faut absolument que je vous parle, dit-il rapidement à [MASK]. A ce soir, onze heures, ici-même. – – Allez-vous-en, je vous en conjure, répondit-elle. – Vous verrai-je ce soir ? Répondez oui, ou je reste.
+
+['le', 'de', ',', 'par', 'et']	Frédéric	pour lui, il n’opposait rien à toutes les intrigues que la conscience de son bon droit et le souvenir des services qu’il avait rendus. [MASK] attristé rentra chez lui plein de dégoût. – C’est donc là le suffrage universel ! dit-il à son père
+
+['celui', ',', 'celle', 'et', 'homme']	Frédéric	demanda [MASK] qui avait la tête pleine de ce nom. Le petit homme fit un soubresaut et pinça les lèvres. – Moi ! s’écria-il. O ! pour cela, non ! – Je vous en félicite, monsieur.
+
+['ao', 'ah', 'men', 'ba', 'fou']	Fo	Chez un autre, ce fut la femme qui arrêta [MASK]-hi au premier mot de son discours : – Je vous en prie, lui dit-elle, ne donnez pas à mon mari de mauvais conseils ; le pauvre homme ne serait que trop disposé à les suivre.
+
+['</s>', ',', 'le', 'qui', 'que']	Perrier	Nous ne trouvâmes que son second, qui était un homme jeune encore, mais prudent, avisé et d’un caractère doux. [MASK], tout échauffé de l’affaire, la lui conta, dans tous ses détails, avec une indignation mêlée de fureur. « –
+
+['et', 'il', 'puis', '-', 'mais']	Perrier	; tout le monde à l’École prenait les menaces du général pour ce qu’elles valaient. Il déduisit froidement ses raisons qui parurent assez bonnes, [MASK] prononça le mot d’enquête. – Une enquête ! une enquête ! s’écria le général bondissant de colère.
+
+['mais', '"', 'oui', '-', 'non']	Valentin	je remontai dans ma chambre. « – [MASK], dis-je brusquement au domestique, il ne faudrait point accuser les gens sans être sûr de son fait. » – J’en suis sûr, répondit-il. » – Sûr, de quoi ? » –
+
+['</s>', 'il', 'elle', 'et', 'puis']	Jeanne	Mon camarade n’y put tenir. Il enfonça ses éperons dans le ventre de son cheval, et vola plutôt qu’il ne courut à la fenêtre. Je les vis tous deux qui échangaient des signes d’intelligence. [MASK] se pencha en dehors, laissant prendre sa main ;
+
+['12', '13', '14', '10', '11']	Jeanne	elle se lève de bonne heure. Et nous piquâmes des deux. La maison dormait encore ; il n’y avait qu’une croisée ouverte ; c’était celle de [MASK]. Nous la vîmes bientôt qui se mit à sa fenêtre, et s’appuya sur le balcon.
+
+['lui', 'monsieur', 'celui-là', 'louis', 'celui-ci']	Rousseau	Si j’avais connu l’histoire de [MASK], et qu’il fût venu familièrement chez moi, je n’aurais pas laissé traîner mon argent sur ma table. Ses remords d’un moment ne m’eussent point rassuré sur la délicatesse de sa conscience, j’aurais eu peur d’une nouvelle éclipse.
+
+['lui', 'ailleurs', 'moi', 'cela', 'ici']	Frétillot	Ce petit roman satirique fut publié, dans la Revue Nationale. A l’époque où il parut, quelques personnes me reprochèrent d’avoir chargé le tableau ; elles ne pouvaient s’imaginer qu’il y eût nulle part un maire, comme [MASK] ;
+
+['</s>', '--', '--je', '"', '...']	Valentin	? Sais-tu bien qu’un officier n’a pas de bien plus cher au monde que son honneur ? Je devrais te faire fusiller ! [MASK] ne se troubla point ; tout le monde à l’École prenait les menaces du général pour ce qu’elles valaient.
+
+[',', 'et', ';', 'alors', 'il']	Perrier	nous l’aimions pour son courage héroïque, pour ses manières brusques et franches, pour son langage soldatesque, pour son cœur même, car il avait bon cœur ; mais son exemple prouve une fois de plus que le cœur et l’esprit sont deux. L’histoire que .lui conta [MASK] le jeta hors des gonds.
+
+['encore', '!', 'moi', '...', 'aussi']	Perrier	Je me rappelle qu’une fois sa mère me prit à part et me supplia, avec larmes, de tout faire pour le ramener à des idées meilleures. J’en ris encore ; moi, convertir [MASK] ! Elle craignait, la digne femme, qu’il ne tournât mal.
+
+[':', '"', ',', 'et', 'seulement']	Frédéric	– J’aurais dû me garder moi-même. A ! on est toujours puni de ses fautes, et c’est juste. – Mais lui ! s’écria [MASK], pourquoi ne vous rendrait-il pas l’honneur qu’il vous a pris ? – Jamais, jamaisis !
+
+['et', 'elle', 'il', 'cela', 'on']	Henri	; une petite bise fraîche soufflait avec une harmonie douce et triste, à travers les sapins ; un rossignol chantait au-dessus de nos têtes, [MASK] regardait sans rien voir. Il semblait baigner ses yeux dans les lueurs molles qui terminaient l’horizon, mais sa pensée était ailleurs
+
+['le', ':', 'la', ',', 'm.']	Frédéric	; le pouls était sec et brûlant. – Je vous remercie, mon ami, lui dit-elle, d’être venu me voir une dernière fois. – Une dernière fois ! s’écria [MASK]. – Laissez-moi parler. Ce ne sera plus pour longtemps encore ;
+
+['marie', 'charlotte', 'caroline', 'laura', 'sarah']	Rosita	Tout cela entrecoupé de silences et de bruits de baisers qui ne me disaient rien de bon. Mais je suis philosophe, et les anges n’ont jamais compté pour beaucoup dans ma vie. « – Je m’en vais aller demander un lit à ma cousine, dit la voix flûtée de [MASK].
+
+['je', 'et', 'il', 'le', 'on']	Frédéric	[MASK] remarqua que la jeune fille, à cette question, avait légèrement tressailli et baissé la tête sur l’ouvrage qu’elle tenait à la main, il sentit lui-même une secrète émotion, et, au lieu de répondre franchement. – Je ne sais pas encore, dit-il ;
+
+['il', 'elle', '</s>', 'on', 'chacun']	Frédéric	Ce ne sera plus pour longtemps encore ; je sens que dans quelques heures tout sera fini pour moi ; personne ne s’en doute, et mon pauvre père moins que personne ; mais je connais mon état. [MASK] se demanda si elle n’avait point le délire.
+
+['ici', 'cela', 'congé', '"', 'ça']	Valentin	Il entra furieux dans son cabinet, où nous le suivîmes, sonna violemment et commanda qu’on lui fît venir [MASK]. – C’est donc vous, lui cria-t-il dès qu’il le vit, c’est donc vous, mauvais drôle, qui accusez de vol un officier
+
+['elle', 'il', '</s>', 'on', "j'"]	Frédéric	c’est bien assez de mensonges comme cela ; ne m’interrogez pas. Il me serait impossible de vous rien répondre. Je suis une misérable. J’aurais pu vivre heureuse, honorée ; j’ai tout perdu par ma faute. [MASK] hésitait à comprendre.
+
+['le', 'de', 'un', 'du', 'au']	Je	Ce Le-hi-to était un gros garçon, à mine réjouie, toujours content, toujours chantant, et dont les poètes orientaux auraient facilement comparé [MASK] visage à la lune, lorsqu’elle est dans son plein. Il vivait très retiré chez lui, et connaissait peu ses collègues
+
+['je', 'le', 'se', 'que', 'ce']	Valentin	Calmez-vous, lui ditl’autre, je vous en supplie, et ne faites point d’esclandre. Il faut en effet que nous sachions la vérité, mais nous y arriverons plus sûrement par des moyens doux. Il peut se faire que [MASK] croie dire vrai et se soit néanmoins trompé
+
+['elle', 'soir', 'lui', 'seule', 'noël']	Brigitte	Il n’aurait pas donné pour bien de l’argent la friture que lui accommodait le soir, [MASK], sa vieille domestique. Il soupirait après le jour où il pourrait se retirer à la campagne, et planter ses choux dans quelque bonne petite ville, sur le bord d’un joli ruisseau.
+
+['lui', 'alors', 'puis', 'donc', 'moi']	Frétillot	mais la règle, une fois qu’on s’est mis à la violer, on ne sait plus où l’on va. Et [MASK], toujours parlant et gesticulant, sauta sur la voiture, prêt à opérer en plein air.
+
+['m.', 'monsieur', 'mr', 'monseigneur', 'madame']	M.	vous sentez bien que je n’attache aucune importance à tout cela ; mais enfin je serai obligé d’en référer à [MASK] le préfet, et vous devez penser que l’administration règlera sa conduite sur la vôtre. Vous êtes homme d’esprit ; vous savez donc ce que parler veut dire.
+
+['texas', 'ainsi', '1964', 'saint-louis', 'dimanche']	Césa	un plus vaste. Il sentit un impérieux désir de dominer ; mais il ne songea point à étendre sa domination plus loin que les lieux qu’il avait toujours habités. Il se dit comme [MASK] : « Je serai le premier dans ma bourgade. »
+
+['pâques', 'carême', 'funérailles', 'notre-dame', 'pentecôte']	Jagarnatha	Il ira ce soir au bal chez M. le gouverneur, et peut-être sera-t-il admis à l’honneur de lui taper sur le ventre, comme cela se pratique dans le grand monde. Il a sa place marquée dans les cérémonies publiques et à la procession de [MASK].
+
+['enfin', 'ainsi', 'cependant', '</s>', 'puis']	Frédéric	Il se console des injures en formant de bons élèves. Pour [MASK], il s’est rejeté dans la vie active et dans le journalisme militant. Il a formé des relations nombreuses avec les gens de province ; il étudie les questions qui les intéressent ;
+
+['catherine', 'robert', 'jacques', 'maurice', 'valentine']	Frédéric	Il courut chez l’imprimeur, qui, après avoir lu la brochure, la lui rendit en l’assurant qu’il ne trouverait personne pour l’imprimer. – Comment, personne ! s’écria [MASK]. Mais à quoi servent des imprimeurs ? – Ils servent précisément à ne pas imprimer.
+
+['"', '-', '...', "'", '(']	Portheaut	On proposait de faire un vaudeville qui aurait pour titre : [MASK] (c’était mon nom) ou la Chemise du grand monde., . J’aurais pu m’en faire trois mille francs de revenu en les montrant à deux sous la séance. Jamais chemises ne furent plus célèbres.
+
+['mrs', 'm', 'celui-ci', 'catherine', 'valentine']	Frédéric	. Léger paya le tout, assigna le sieur Trichard et me pria de venir plaider l’affaire. – Elle est imperdable ! s’écria [MASK]. – Tout procès peut se perdre, reprit l’avocat, et je crois que celui-là est perdu d’avance.
+
+['elle', 'je', 'il', ',', "j'"]	Marguerite	Elle n’y répondait que d’une voix altérée et par des mots sans suite. Le jeune homme lui prit la main, la pressa avec force, et encha ses lèvres vers un charmant visage qu’on semblait lui offrir. Mais tout d’un coup [MASK] recula effrayée.
+
+['des', 'quelques', 'deux', 'le', 'soldats']	Perrier	Vous ne voudrez point mettre un aussi cruel remords dans les derniers jours qui me restent à vivre. Vous serez sages, promettez-le-moi. Nous promîmes tout ce qu’on nous demandait, et le général nous renvoya, ne gardant auprès de lui que [MASK].
+
+['il', 'elle', 'et', 'on', '</s>']	Perrier	Nous tremblions, à le voir aller ainsi, que sa machine, privée de la force intérieure qui la soutenait, ne s’affaissât tout d’un coup, et qu’il ne tombât sur le plancher comme une masse inerte. [MASK] resta près du général.
+
+['louis', 'jean', 'jaurès', 'armand', 'henri']	Trichard	Il est fort probable que ces seigneurs taillaient à plaisir les misérables qui dépendaient d’eux ; mais jamais ils ne purent être plus despotes que l’homme dont je te parle. C’est un bourgeois, un fils de 89, comme dit mon père ; il s’appelle [MASK].
+
+['chacun', 'la', 'silence', 'jésus', "l'"]	Perrier	il m’est encore présent comme si c’était hier. Nous étions tous dans la cour, par groupes et pêle-mêle, causant tous ensemble avec animation, nous rappelant les vertus de [MASK], et comme il était bon, aimant, et quelle longue et belle carrière s’ouvrait devant lui.
+
+['il', '</s>', 'chacun', 'elle', 'celui-ci']	Frédéric	La foule était énorme. [MASK] se mêla dans les groupes et tâcha de surprendre, par-ci, par-là, quelques lambeaux de conversation. Il fut bien étonné ; toutes les sympathies de la ville étaient pour le Parisien.
+
+['lui', '</s>', 'celui-là', 'dieu', 'le']	Perrier	La haine n’est point naturelle au cœur de l’homme ; elle lui pèse et il s’en décharge par fatigue, plutôt qu’il ne la sacrifie par grandeur d’âme. Il oublie plus qu’il ne pardonne. [MASK] seul n’oubliait point.
+
+['le', 'la', "l'", 'un', 'son']	Frédéric	– Est-ce que j’ai l’air d’un voleur ? s’écria [MASK]. – Voleur ou non, vous avez des papiers ; montrez-les moi. – Tenez, les voici, dit le jeune homme en glissant son porte-monnaie dans la main du gendarme ;
+
+[',', '"', '</s>', 'de', ';']	M.	[MASK] l’administrateur lui prit des mains la lettre qu’il apportait, l’ouvrit et changea de visage en la lisant. Il se remit peu à peu. « Messieurs, dit-il, je bénis l’heureux hasard qui vous rassemble autour de moi en ce moment.
+
+['</s>', 'il', 'qui', ',', '"']	Frédéric	? [MASK] se rongeait les poings de fureur, son compagnon de route le vit dans un tel état de surexcitation morale, qu’il le pria de ne point aller, comme ils en étaient convenus, parler au sous-préfet. –
+
+['il', 'et', 'elle', ',', 'é']	Henri	[MASK] mit un doigt sur ses lèvres. – Ma mère dort-elle ? lui dit-il. – Oui, mais ne la réveillez pas. Elle est bien malade, allez. J’ai passé la nuit près d’elle ; elle vient de s’endormir au matin.
+
+[',', 'et', ':', 'ou', 'non']	Pauline	– Eh ! eh ! eh ! dit [MASK] en riant, il y a de l’amour sous jeu. Eh ! bien, dépêche-toi, car tu n’arriveras peut-être pas le premier non plus cette fois. – Que veux-tu dire ?
+
+['horace', 'byron', 'lamartine', 'virgile', 'boileau']	Dante	; instruit d’ailleurs, et sachant par cœur les plus beaux vers de [MASK], qu’il aimait à nous réciter ; je me souviens encore de sa voix, une belle voix de basse, étoffée et mordante, qui emplissait l’oreille et sonnait au cœur.
+
+['lui', 'paris', 'moi', 'celui-là', 'celui']	Perrier	Bon compagnon du reste, bien découplé, hardi, cultivant l’escrime avec passion ; personne ne maniait une épée avec autant d’adresse. Il était avec nous tous sur un pied d’excellente camaraderie ; il n’y avait guère que [MASK] qui lui eût gardé rancune ;
+
+['et', 'il', 'elle', 'enfant', 'qui']	Frédéric	[MASK] se retourna vers son père. – Eh bien ! tu le vois, lui dit-il, c’est en réalité la censure préventive qui est rétablie par ce droit laissé aux imprimeurs de refuser leur ministère pour des motifs dont ils sont seuls juges.
+
+['tu', 'je', 'il', 'et', 'elle']	Valentin	Je courus à lui : « – Parbleu ! lui dis-je avec beaucoup de vivacité, il est étrange que tu mettes la main sur ce qui ne t’appartient pas ; il est plus étrange encore que tu le nies ; [MASK] déclare avoir vu mes chemises chez toi.
+
+['</s>', 'il', 'elle', 'qui', 'et']	Marguerite	Il n’y pouvait comprendre qu’une chose, c’est qu’il y était question de lui, et que les deux interlocuteurs n’étaient pas d’accord. Il lui sembla saisir un Je le veux, articulé à voix basse et d’un ton de commandement. [MASK] se tourna vers son père.
+
+['il', 'on', 'qui', 'elle', ',']	Panurge	[MASK] n’eût pas fait mieux. Ce fut la même chose la seconde année, puis la troisième Orge, avoine, blé ou trèfle, les lapins dévoraient tout, sans distinction, de fond en comble. Mon Parisien enrageait ;
+
+['son', 'la', 'sa', "l'", 'ses']	Marguerite	Cette honteuse comédie finit parle lasser. Il quitta son allié, qui restait ferme au poste, et s’en alla demander des nouvelles de [MASK]. Elle avait donné ordre qu’on le fît monter et qu’on le laissat seul avec elle dans sa chambre.
+
+['</s>', '.', 'triomphe', '!', 'cheval']	Jagernaut	– Oui, tout nus, reprit le bonze, et qui s’entonçaient des clous dans les cuisses, et qui se jetaient sous les roues du char de [MASK]. Vous sentez aisément combien ces exemples sont contagieux ! Confiez-moi votre fils ;
+
+['chasse', 'bergers', 'moutons', 'troupeaux', 'berger']	Panurge	nous échouerons une fois, peut-être deux, peut-être dix nous finirons un jour par l’emporter. Dans tous les pays, comme dans les assemblées délibérantes, il y a un centre, une plaine, comme on disait en 92 La plaine se compose toujours des moutons de [MASK].
+
+['marie', 'marguerite', 'valentine', 'celle-ci', 'catherine']	Gertrude	Avant de monter à cheval, il se jeta dans les bras de [MASK], la pressa avec force : – Tu la soigneras bien, n’est-ce pas ? lui dit-il. Tu me le promets. – Mais oui, dit la bonne femme, un peu étonnée de ce transport.
+
+['</s>', 'il', '--il', 'elle', 'lui']	Henri	il avait bon pied, bon œil, tirait bien et ne s’en cachait pas. Son fils ne lui ressemblait guère en cela. [MASK] n’aimait point les exercices du corps ; il y était maladroit. Il avait la vue courte, et ne touchait guère un objet qu’il ne le cassât.
+
+['je', 'il', 'elle', 'le', "j'"]	Frédéric	Laissez-moi faire, lui dit [MASK], après avoir bu un grand verre d’eau ; je serai calme et diplomate. Je tiens à causer, une fois en ma vie, avec un sous-préfet Il s’attendait à être reçu avec hauteur et morgue. Point du tout ;
+
+['genoux', 'deux', 'dieu', 'un', 'demi']	Valentin	Quelques-uns proposent qu’on le force de demander, à deux genoux, pardon à [MASK]. Rien ne nous semble trop cruel, dans cette première effervescence des esprits. Le général entre au milieu de ce brouhaha, dont il vient demander la cause.
+
+['</s>', '"', '_', '-', '=']	Frédéric	Il affecta d’engager avec elle une conversation à voix basse. [MASK] remarqua qu’elle y répondait à peine et avec un embarras visible. Mais il était lui-même au supplice et ne savait quelle contenance garder durant cet entretien qui lui perçait le cœur : –
+
+['il', 'pierre', 'celui-ci', 'julien', 'on']	Frédéric	Il sera un de ces jours forcé de s’en aller, et les frères resteront seuls maîtres de la place. – Mais, dit [MASK], comment le conseil municipal n’est-il pas arrêté au moment de commettre une sottise par le contrôle de l’opinion publique ?
+
+['t-il', 'celui-ci', 'julien', ',', 'jacques']	Frédéric	lui dit l’employé, je t’attendais depuis hier, j’étais bien sûr de te voir arriver. – Et comment cela ? s’écria [MASK] un peu étonné. – Crois-tu donc, mon cher ami, que nous ne sachions pas tout ce qui se passe dans notre arrondissement ?
+
+['pierre', 'jean', 'paul', 'cela', 'julien']	Borgès	Nous ne savons pas trop ce que devient [MASK], car ce brigand sans délicatesse nous envoie rarement de ses nouvelles ; mais nous nous en passons fort bien. Tu verras que dans le numéro d’aujourd’hui nous lui tuons douze hommes, mais il peut encore servir longtemps ;
+
+['le', 'm', 'jean', 'jean', 'm.']	Perrier	– Mon compte est bon, me dit-il, j’en étais sûr. C’est aujourd’hui l’anniversaire de mon duel avec [MASK]. Tenez, voici une lettre que j’avais préparée hier pour qu’on vous la remît après ma mort, en cas de malheur.
+
+['</s>', '"', '--oui', '_', 'et']	Frédéric	Maintenant que nous n’avons pas le droit de réparer notre mur, il ne nous reste plus qu’à abattre la maison. [MASK], à son tour, raconta la mort de son terreneuve et la façon dont il avait rossé celui qui l’avait tué.
+
+['"', 'que', 'je', 'dans', 'et']	JEANNE	mais il n’est pas pour vous, ingrat,si je ne dois pas vous voir. Ma mère, qui vient de lire mon petit billet, vous fait mille compliments. [MASK], » – Je comprends, lui dis-je après avoir lu. Eh bien !
+
+['</s>', 'il', 'elle', ',', 'on']	Henri	Un bruit de pas et de voix nous tira de cette rêverie. [MASK] s’essuya rapidement les yeux et fit. effort sur lui-même pour se donner une contenance ferme. Il marcha vers le groupe dont nous entendions le bruit, avec ce terrible sang-froid du soldat
+
+['mon', 'la', 'moi', "l'", 'deux']	Turin	Mais les nouvelles ne peuvent jamais si bien être tenues sous clef qu’elles ne trouvent quelque fissure par où s’échapper dehors. L’histoire fit en moins d’une heure Je tour de [MASK], qui ne s’entretint d’autre chose pendant huit jours.
+
+['</s>', 'il', 'elle', 'on', "j'"]	Frédéric	Il se prépare en ce moment des élections nouvelles, quelques amis me pressent de me remettre sur les rangs, de sacrifier mes goûts simples au bien public. Je ne sais encore si je m’y déciderai. [MASK] admirait la prodigieuse facilité avec laquelle les provinciaux racontent leurs affaires au premier venu.
+
+['travail', 'droite', 'service', 'chambre', 'bureau']	Molinchart	Je ne vous engage pas à tenter la moindre démarche auprès de mes confrères de [MASK], ce serait du temps perdu. Ils auraient autant de peur que moi. Je voudrais bien vous voir, vous qui parlez, si vous étiez à ma place.
+
+['il', 'on', "m'", ',', 'et']	Frédéric	[MASK] exposa avec chaleur qu’en laissant aux mains d’un seul particulier, qui n’était point un homme de progrès, une autorité absolue, on finissait par engourdir tout un pays dans un sommeil qui était bien voisin de la mort.
+
+['plus', 'ce', 'de', ',', 'par']	Harpagon	Pour eux, ils ne songent qu’à entasser écus sur écus ; ils en remontreraient à [MASK]. Je vous parlais tout à l’heure d’un pâtissier retiré qui a gagné, je ne sais où ni comment, beaucoup de bien. Croyez-vous qu’il en fasse étalage
+
+['celui-ci', 'lui-même', 'chacun', 'il', 'lui']	Henri	Il fut convenu que [MASK] achèverait son cours d’études ; qu’au lieu de prendre l’état militaire, à quoi il n’était guère propre, il entrerait dans les ponts et chaussées, et que le jour où il recevrait sa nomination d’ingénieur, on célèbrerait la noce.
+
+['il', 'elle', '-', 'on', 'qui']	Rousseau	Il avait dérobé un ruban. – [MASK] avait l’âme d’un laquais. – Et le génie d’un grand homme. On voulait savoir où ce ruban avait passé. Il chargea une pauvre fille innocente de la faute qu’il avait commise.
+
+['dieu', 'jésus', 'napoléon', 'rome', 'marie']	Perrier	Tout ce qui a suivi est venu de ce premier mensonge, qui n’était au fond qu’une imprudence. Le hasard a changé en crime une malheureuse erreur. » Je l’expie aujourd’hui. Je m’en vais là-bas demander pardon à [MASK], qui doit bien avoir aussi quelques regrets.
+
+['</s>', '(', '"', ',', 'de']	Pé	L’admiration et l’envie que le pauvre garçon vit briller dans tous les regards fut un baume pour les blessures de son amour-propre. Ses sœurs et ses beaux-frères le croyaient naïvement un homme supérieur et lui témoignaient une sorte de déférence. [MASK]-ka
+
+['il', 'on', 'maître', 'fritz', 'chacun']	Frédéric	Il prit congé et passa, en s’en allant, devant le fils Trichard. Les deux hommes échangèrent un salut sec et froid. Au moment de sortir, [MASK] siffla son chien, qui accourut du fond du jardin et vint joyeusement se frotter contre les jambes de son maître.
+
+['alice', 'rodolphe', 'jacques', 'celui-ci', 'maurice']	Léger	– Eh bien ! mes amis, continua [MASK], nous allons dresser nous-mêmes, sur papier timbré, un acte où sera relaté tout ce que nous avons vu aujourd’hui et vous le signerez comme de gentils garçons que vous êtes. Les quatre cultivateurs se grattèrent simultanément l’oreille :
+
+['je', 'elle', '"', 'il', '(']	Jeanne	– Mort, s’écria-t-il, mon fils est mort ! [MASK] poussa un cri ; et tomba évanouie dans mes bras. Le désespoir et l’accablement de ces deux personnes me rendirent toute mon énergie. Le père s’était affaissé sur un banc, sanglotant tout bas
+
+[',', 'de', 'et', 'il', 'le']	Frédéric	– Et pourquoi ? demandait [MASK]. La jeune fille cacha sa tête dans ses deux mains, et laissa échapper des sanglots que le silence de la nuit rendait plus touchants. – Ne m’interrogez pas, je vous en supplie ; il m’est impossible de vous répondre
+
+['pierre', 'jacques', 'jean', 'robert', 'celui']	Jeanne	J’examinais avec une attention profonde un caillou que j’avais pris à terre, et qui me servait de contenance. J’entendais par intervalles la voix mélodieuse de [MASK] qui répondait : « – Est-ce bien vrai, mon ami ? »
+
+['il', '(', 'et', 'ce', 'tant']	Perrier	[MASK] restait en contemplation devant cette persienne verte, comme ne pouvant en arracher ni sa pensée, ni ses regards. – Allons ! lui dis-je, voilà l’heure. Nous n’avons que juste le temps ; il faut que nous allions en ville prendre ton cousin
+
+['celui-ci', ',', 'robert', 'henri', 'jacques']	Perrier	– Parfaitement, monsieur. – Pourquoi donc n’obéissez-vous pas ? Ne reconnaissez-vous plus cette épaulette ? – Cette épaulette ! s’écria [MASK] dans un transport d’indignation. Vous osez parler d’épaulette, vous qui vous en êtes rendu indigne par un faux serment !
+
+[',', 'et', ':', 'ou', 'à']	Frédéric	– C’est bien ! monsieur, dit froidement celui-cii ; nous ajouterons ces coups au procès-verbal. – Tiens ! mets-y encore ceux-ci et puis ceux-la disait [MASK] hors de lui, et accompagnant chaque mot d’un coup de cravache
+
+['jacques', 'henri', 'maurice', 'robert', 'julien']	Frédéric	– Un gendarme, qui est venu m’avertir juste au moment où j’allais me mettre au lit. Il m’a offert même de m’accompagner dans ma visite. – C’est bien cela, pensa [MASK]. Il faut se défier des gens qui ont à leurs ordres la police et la gendarmerie.
+
+['dieu', 'métamorphoses', 'psyché', 'monstres', 'satan']	Vichnou	Ils ne parlent donc point du vrai Dieu, qui n’existait pas encore. Ce sont des poésies abominables qui chantent les métamorphoses de [MASK] et les superstitions du culte des idoles. Elles donnent pour des modèles de piété ces fakirs ridicules, qui allaient tout nus.
+
+['</s>', 'il', 'on', 'elle', 'celui-ci']	Léger	; il fallut tout payer, et les lapins restèrent maîtres du champ de bataille. [MASK] vint alors me consulter ; il avait la faiblesse de tenir à son orge. Il en eût acheté vingt sacs à l’un de ses voisins pour les jeter à l’eau ;
+
+['on', 'qui', ',', 'il', 'elle']	Frédéric	[MASK] vit ces beaux yeux se tourner avec une expression de pitié profonde vers le blessé qu’on pansait au fond de la charrette, et de là se relever tout en larmes sur le gros homme, qui soufflait comme un bœuf en s’essuyant la figure.
+
+['ulysse', 'est', 'israël', 'homère', 'este']	Horace	le troisième me parut plus âgé : il pouvait avoir de quarante-cinq à cinquante ans, et portait les insignes de capitaine. Il demeurait impassible sous les torrents d’eau qui coulaient de sa barbiche et de ses cheveux, comme le juste d’[MASK] sous les ruines du monde.
+
+['enfin', '...', 'hier', ':', 'encore']	Frédéric	car il n’y avait pas moyen de se voir à la maison. Jusque-là mon histoire n’a rien que d’ordinaire ; c’est celle do toutes les filles du pays. – Comment ! interrompit [MASK], toutes les filles du pays ont eu ce monsieur pour amant
+
+['il', 'elle', '--il', 'on', 'celui-ci']	Jeanne	Il arriverait à la fortune ; [MASK] pourrait jouir de cette large aisance qui allait si bien à ses goûts délicats et à son bon cœur. Il l’établirait dans une petite maison de campagne qu’elle avait un jour devant lui trouvée charmante.
+
+['lui', 'lui-même', 'moi', 'elle', 'vous']	Jeanne	Je ne croyais pas qu’on pût être aussi follement heureux. Il me fit asseoir, me conta longuement ses projets d’avenir, et versa tout son cœur dans le mien. Il n’avait pas d’ambition pour lui-même, mais il devait en avoir pour [MASK] ;
+
+['cela', 'tout', 'lui-même', 'dieu', 'jésus']	Perrier	Il n’entendit plus siffler à son oreille une seule allusion, et n’eut plus besoin de se tenir sur le qui-vive. Tout le monde autour de lui avait oublié [MASK] ; il l’avait peut-être oublié lui-même. Mais il faut que tout se paye en ce monde.
+
+['il', 'qui', 'le', 'à', 't']	Frédéric	[MASK] rentra exaspéré chez lui. Il y trouva son père, qui n’était guère moins en colère. – Il n’y a plus ni justice ni loi, s’écria le chef du bureau en voyant son fils. Apprends ce qui nous arrive : Tu sais que le mur extérieur de la maison tombe en ruines
+
+['</s>', 'il', 'elle', '--il', 'on']	Pillerault	mais nous nous en passons fort bien. Tu verras que dans le numéro d’aujourd’hui nous lui tuons douze hommes, mais il peut encore servir longtemps ; il faut le ménager. [MASK] voulait qu’on détruisît sa bande entière ; la perte eût été trop grande pour nous.
+
+['dieu', 'jésus', 'marie', 'jacques', 'maman']	Perrier	mais nous entendions qu’on sût que c’était à la mémoire de [MASK] et aux sollicitations de sen père que nous faisions le sacrifice d’une juste vengeance. Le général, à qui cette résolution nouvelle ôtait un grand poids de dessus la poitrine, promit tout ce que nous voulûmes.
+
+['pascal', 'marie', 'paul', 'thomas', 'je']	Perrier	Je me comporte bravement à table, et n’y ai jamais laissé à personne le dernier mot. J’étais obligé de manger pour deux ; car ce fut justement cette année-là que [MASK] s’éprit sérieusement d’une jeune fille, et vous savez que les amoureux ne mangent point
+

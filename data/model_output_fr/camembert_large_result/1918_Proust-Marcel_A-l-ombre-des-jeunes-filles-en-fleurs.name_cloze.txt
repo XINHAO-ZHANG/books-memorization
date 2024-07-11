@@ -1,0 +1,200 @@
+['Paris', '</s>NOTUSED', 'la', 'maman', 'le']	Elstir	Ça doit être de famille. Est-ce que sa mère avait ces beaux cheveux-là ? — Je ne sais pas, répondit naïvement le père. Je ne l’ai jamais vue qu’en chapeau. »Il fallait rejoindre [MASK]. Je m’aperçus dans une glace.
+
+['Elle', '</s>NOTUSED', 'Madame', 'Et', 'Maman']	Françoise	« L’Ambassadeur, lui dit ma mère, assure que nulle part on ne mange de bœuf froid et de soufflés comme les vôtres. » [MASK], avec un air de modestie et de rendre hommage à la vérité, l’accorda, sans être, d’ailleurs, impressionnée par le titre d’ambassadeur
+
+['nous', 'elle', 'lui', 'moi', 'vous']	Savonarole	! Je trouve très humiliant pour nous qu’elle passe pour notre amie. Pensez que le bon docteur Cottard qui ne dit jamais de mal de personne déclare lui-même qu’elle est infecte. — Quelle horreur ! Elle n’a pour elle que de ressembler tellement à [MASK].
+
+['Paris', 'Pierrot', 'Céline', 'Maman', 'Marcel']	Gilberte	Mais alors cette sorte d’obligation d’avoir du plaisir me semblait bien lourde. Puis si je rentrais malade, serais-je guéri assez vite pour pouvoir aller aux Champs-Élysées, les vacances finies, aussitôt qu’y retournerait [MASK] ?
+
+['elle', 'il', 'Elle', 'je', 'Marie']	Albertine	Plaisant plus qu’elle ne voulait et n’ayant pas besoin de claironner ses succès, [MASK] garda le silence sur la scène qu’elle avait eue avec moi auprès de son lit, et qu’une laide aurait voulu faire connaître à l’univers. D’ailleurs
+
+['lui', 'Nietzsche', 'Baudelaire', 'tout', 'moi']	Robert	Il n’était plus qu’un objet que ma rêverie cherchait à approfondir. À retrouver toujours en lui cet être antérieur, séculaire, cet aristocrate que [MASK] aspirait justement à ne pas être, j’éprouvais une vive joie, mais d’intelligence, non d’amitié.
+
+['Dieu', 'il', 'Napoléon', 'Jésus', 'Freud']	Cottard	Les plus intelligents d’entre les jeunes médecins déclarèrent — au moins pendant quelques années, car les modes changent étant nées elles-mêmes du besoin de changement — que si jamais ils tombaient malades, [MASK] était le seul maître auquel ils confieraient leur peau.
+
+['Il', 'Elle', 'On', 'Sophie', 'Alexandre']	Saint-Loup	[MASK] me dit que même dans la société aristocratique la plus fermée son oncle Palamède se distinguait encore comme particulièrement difficile d’accès, dédaigneux, entiché de sa noblesse, formant avec la femme de son frère et quelques autres personnes choisies ce qu’on appelait le cercle des Phénix.
+
+['on', 'il', 'elle', 'On', 'Il']	Elstir	Il y a les quatre morceaux ! Ah ! aussi il s’en donne une peine ! »Et il ne savait pas si un petit « lever de soleil sur la mer », qu’[MASK] lui avait donné, ne valait pas une fortune.
+
+['elle', 'lui', 'Marie', 'vous', 'Julie']	Albertine	Et peut-être cette impression eut-elle plus tard pour moi de grandes et fâcheuses conséquences, car ce fut par elle que commença à se former ce sentiment presque familial, ce noyau moral qui devait toujours subsister au milieu de mon amour pour [MASK].
+
+['elle', 'minuit', 'il', '</s>NOTUSED', 'on']	Françoise	maintenant depuis qu’elle était amie d’une personnalité de la cuisine, ce qui nous avait paru de bon augure pour notre commodité, si ma grand’mère ou moi nous avions froid aux pieds, [MASK], fût-il une heure tout à fait normale, n’osait pas sonner
+
+['Paul', 'Marie', 'Monsieur', 'Pierre', 'Charles']	Gilberte	L’antipathie actuelle de [MASK] pour moi me sembla comme un châtiment infligé par la vie à cause de la conduite que j’avais eue ce jour-là. Les châtiments, on croit les éviter, parce qu’on fait attention aux voitures en traversant, qu’on évite les dangers.
+
+['elle', 'lui', 'Marie', 'Gabrielle', 'vivre']	Gilberte	À cette acceptation, je finis pourtant par arriver, alors je compris qu’elle devait être définitive et je renonçai pour toujours à [MASK], dans l’intérêt même de mon amour, et parce que je souhaitais avant tout qu’elle ne conservât pas de moi un souvenir dédaigneux.
+
+['Dieu', 'Jésus', 'Jupiter', 'lui', 'Joseph']	Gilberte	J’avais beau dédier celle-ci à [MASK], et comme on superpose une religion aux lois aveugles de la nature essayer d’imprimer au jour de l’an l’idée particulière que je m’étais faite de lui, c’était en vain ;
+
+['maman', 'Maman', 'papa', 'Marie', 'Jeanne']	Françoise	demanda mon père qui nous avait rejoints et appréciait beaucoup le restaurant de la place Gaillon où il avait à dates fixes des repas de corps. — Oh non ! dit [MASK] avec une douceur qui cachait un profond dédain, je parlais d’un petit restaurant.
+
+['clair', 'loin', 'Dieu', 'ailleurs', 'cela']	Gilberte	il concentra sur lui tous les sentiments de colère que j’avais pu avoir pour mon amie ; débarrassé d’eux grâce à ces paroles, mon amour subsista seul ; mais elles m’avaient montré en même temps que je devais pendant quelque temps ne pas chercher à voir [MASK].
+
+['Marie', 'beaucoup', 'tant', 'Jeanne', 'Alice']	Gilberte	Souvent (notre vie étant si peu chronologique, interférant tant d’anachronismes dans la suite des jours), je vivais dans ceux, plus anciens que la veille ou l’avant-veille, où j’aimais [MASK]. Alors ne plus la voir m’était soudain douloureux, comme c’eût été dans ce temps-là.
+
+['lui', 'moi', 'soi', 'Dieu', 'tout']	Gilberte	Or (comme je ne savais pas alors l’influence que cette famille devait avoir sur ma vie), ce propos aurait dû me paraître oiseux, mais il me causa une vive souffrance, celle qu’éprouvait un moi, aboli pour une grande part depuis longtemps, à être séparé de [MASK].
+
+['on', 'je', 'maman', 'elle', 'Maman']	Françoise	Sauf ces jours de pluie, comme nous devions aller en bicyclette sur la falaise ou dans la campagne, une heure d’avance je cherchais à me faire beau et gémissais si [MASK] n’avait pas bien préparé mes affaires.
+
+['il', 'elle', 'on', 'Il', 'cela']	Bloch	Ah ! bien, cela n’a aucune espèce d’importance, je m’arrangerai autrement » ; l’autre arrangement vers lequel il est sans aucune espèce d’importance d’être rejeté étant quelquefois le suicide.Puis [MASK] me dit des choses fort gentilles.
+
+['moi', 'lui', 'elle', 'nous', 'soi']	Gilberte	J’imaginais à peine que cette substance étrange qui résidait en [MASK] et rayonnait en ses parents, en sa maison, me rendant indifférent à tout le reste, cette substance pourrait être libérée, émigrer dans un autre être. Vraiment la même substance, et pourtant devant avoir sur moi de tout autres effets.
+
+['raisonnable', 'sérieuse', 'sage', 'patiente', 'bonne']	Gisèle	D’abord si j’avais été [MASK] je ne me serais pas laissée emballer et j’aurais commencé par écrire sur une feuille à part mon plan. En première ligne la position de la question et l’exposition du sujet, puis les idées générales à faire entrer dans le développement.
+
+['lui', 'Pierre', 'Paul', 'Charles', 'Joseph']	Saint-Loup	Et quand elle parlait de [MASK], elle disait : « C’est un hypocrite », avec un large et bon sourire qui faisait bien comprendre qu’elle le « considérait » de nouveau autant qu’au premier jour et qu’elle lui avait pardonné.
+
+['Monseigneur', 'Dieu', 'Pierre', 'François', 'Monsieur']	Saint-Loup	Hé bien, j’irai seul. Selon les deux ridicules alexandrins du sieur Arouet, je dirai à [MASK], pour charmer son cléricalisme : « Apprends que mon devoir ne dépend pas du sien, qu’il y manque s’il veut, je dois faire le mien. »
+
+['elle', 'on', 'il', 'je', 'et']	Albertine	Je ne sais pas ce que je donnerais pour avoir cette petite ombrelle. » J’aurais tant voulu savoir en quoi cette petite ombrelle différait des autres, et pour d’autres raisons, de coquetterie féminine, [MASK] l’aurait voulu plus encore.
+
+['elle', 'Marie', 'Madame', 'madame', 'Catherine']	Bloch	Elle voulut bien dénouer la sienne en faveur de ton serviteur, je n’ai jamais passé de si bons moments et nous allions prendre toutes dispositions pour nous revoir quand une personne qu’elle connaissait eut le mauvais goût de monter à l’avant-dernière station. » Le silence que je gardai ne parut pas plaire à [MASK].
+
+['elle', 'Marie', 'Louise', 'Madeleine', 'Charlotte']	Odette	Dans ce complet désintéressement du faubourg Saint-Germain, [MASK] continuait à être la cocotte illettrée bien différente des bourgeois ferrés sur les moindres points de généalogie et qui trompent dans la lecture des anciens mémoires la soif des relations aristocratiques que la vie réelle ne leur fournit pas.
+
+['il', 'elle', 'lui', 'Pierre', 'Charles']	Elstir	Ainsi, par une nuit claire, la lune emportée par le vent passe sous un nuage et voile un instant son éclat, puis reparaît bien vite. Mais déjà [MASK] avait quitté les jeunes filles sans m’avoir appelé. Elles prirent une rue de traverse, il vint vers moi.
+
+['elle', 'lui', 'eux', 'moi', 'autrui']	Andrée	Puis tant d’actes différents, tous de gentillesse pour moi (une gentillesse caressante, parfois inquiète, alarmée, jalouse de ma prédilection pour [MASK]) baignaient de tous côtés le geste de rudesse par lequel, pour m’échapper, elle avait tiré sur la sonnette.
+
+['elle', 'lui', 'Marie', 'Alice', 'Sophie']	Gilberte	La seule chose à laquelle je tinsse, mes relations avec [MASK], c’est moi qui travaillais à les rendre impossibles en créant peu à peu, par la séparation prolongée d’avec mon amie, non pas son indifférence, mais ce qui reviendrait finalement au même, la mienne.
+
+['Merlin', 'Tolkien', 'Dieu', 'cœur', 'toujours']	Gilberte	Si j’avais déjà commencé d’explorer avec ces tressaillements de respect et de joie le domaine féerique qui contre toute attente avait ouvert devant moi ses avenues jusque-là fermées, pourtant c’était seulement en tant qu’ami de [MASK].
+
+['Jack', 'John', 'Peter', 'David', 'Rose']	Swann	De sorte que je ne suppose pas que je doive être très en odeur de sainteté auprès du personnage, et je ne sais pas jusqu’�� quel point il a apprécié l’attention de [MASK] de l’inviter en même temps que moi. À moins que ce ne soit lui qui l’ait demandé.
+
+['lui', 'Pierre', 'moi', 'Pierrot', 'Paul']	Œnone	Il me fit remarquer, mais d’un ton détaché, ennuyé, comme s’il voulait rester en quelque sorte en dehors de ce qu’il disait, avec quelle intelligence, quelle justesse imprévue l’actrice disait à [MASK] : « Tu le savais ! »
+
+['Louise', 'Marie', 'Anne', 'Jeanne', 'Sophie']	Albertine	Pour commencer je trouvai à [MASK] l’air assez intimidé à la place d’implacable ; elle me sembla plus comme il faut que mal élevée à en juger par les épithètes de « elle a un mauvais genre, elle a un drôle de genre », qu’elle appliqua à toutes les jeunes filles dont je lui parlai
+
+['Gabrielle', 'elle', 'Madame', 'Madeleine', 'Louise']	Elstir	Elle était mise avec la plus grande simplicité. Et on était touché mais surpris d’entendre [MASK] dire à tout propos et avec une douceur respectueuse, comme si rien que prononcer ces mots lui causait de l’attendrissement et de la vénération : « Ma belle Gabrielle ! »
+
+['On', 'Elle', 'Il', 'Maman', 'Marie']	Elstir	[MASK] allait m’appeler. Ce n’était pas du tout de cette façon que je m’étais souvent, sur la plage, dans ma chambre, figuré que je connaîtrais ces jeunes filles. Ce qui allait avoir lieu, c’était un autre événement auquel je n’étais pas préparé.
+
+['Turner', 'Adam', '</s>NOTUSED', 'Ernst', '«']	Elstir	C’était cette comparaison, tacitement et inlassablement répétée dans une même toile, qui y introduisait cette multiforme et puissante unité, cause, parfois non clairement aperçue par eux, de l’enthousiasme qu’excitait chez certains amateurs la peinture d’[MASK].
+
+['Pierre', 'Monsieur', 'monsieur', 'Charles', 'Paul']	Albertine	Pensant que si je connaissais leurs amis j’aurais plus d’occasions de voir ces jeunes filles, j’avais été sur le point de lui demander à être présenté. Je le dis à [MASK], dès qu’il fut parti en répétant : « Je suis dans les choux.
+
+['Orléans', 'Amsterdam', 'Avignon', 'Amiens', 'Alger']	Elstir	Mais ma volonté ne laissa pas passer l’heure où il fallait partir, et ce fut l’adresse d’[MASK] qu’elle donna au cocher. Mon intelligence et ma sensibilité eurent le loisir, puisque le sort en était jeté, de trouver que c’était dommage.
+
+['Alice', 'Isabelle', 'Anne', 'Anna', 'Emma']	Albertine	J’ai tenu à vous envoyer toutes mes congratulations auxquelles je joins, mon cher confrère, l’expression de mes sentiments les plus distingué s. » Les yeux d’[MASK] n’avaient cessé d’étinceler pendant qu’elle faisait cette lecture.«
+
+['Marie', 'Julie', 'Sophie', 'Juliette', 'Catherine']	Gilberte	Dans leur impuissance à se représenter l’objet de leur douleur, ils s’accusent presque de n’avoir pas de douleur. Et moi je n’étais pas loin de croire que, ne pouvant me rappeler les traits de [MASK], je l’avais oubliée elle-même, je ne l’aimais plus.
+
+['on', 'il', 'elle', 'je', 'maman']	Françoise	Et comme cette petite espérait pour le 15 août aller voir ses bienfaiteurs, [MASK] ne pouvait se tenir de répéter : « Elle me fait rire. Elle dit : j’espère d’aller chez moi pour le 15 août. Chez moi, qu’elle dit !
+
+['celui', 'ce', 'Voltaire', 'Napoléon', 'Monsieur']	Swann	Or, il est certain que le comte de Paris a toujours agréé avec beaucoup de bienveillance le dévouement de [MASK] qui est, d’ailleurs, un garçon d’esprit s’il en fut.— Et votre impression à vous, quelle a-t-elle été, Monsieur l’Ambassadeur ?
+
+['morte', 'elle', 'Marie', 'décédée', 'lui']	Gilberte	Ceux que les êtres portent dans un rêve peuvent nous abuser. La personne que nous aimons doit y être reconnue seulement à la force de la douleur éprouvée. La mienne m’apprit que, devenue pendant mon sommeil un jeune homme, la personne dont la fausseté récente me faisait encore mal était [MASK].
+
+['jeunesse', 'Balzac', 'poésie', 'madame', 'Voltaire']	Bergotte	Puis-je entrer, monsieur ? Monsieur, reprit-il du même ton une fois qu’il eut refermé la porte, mon neveu racontait tout à l’heure que vous étiez un peu ennuyé avant de vous endormir, et d’autre part que vous admiriez les livres de [MASK].
+
+['elle', 'lui', 'eux', 'maman', 'vous']	Saint-Loup	Et quand ayant passé la soirée dehors avec [MASK] je songeais pendant le trajet du retour au moment où j’allais pouvoir retrouver et embrasser ma grand’mère, j’avais beau attendre qu’elle frappât contre la cloison ces petits coups qui me diraient d’entrer lui dire bonsoir, je n’entendais rien ;
+
+['il', 'elle', 'cela', 'ça', 'ceci']	Gilberte	Et pourtant, comme [MASK] avait été mon premier amour pour une jeune fille, elles avaient été mon premier amour pour une fleur. « Oui, je sais, elles s’en vont vers la mi-juin, répondis-je, mais cela me fait plaisir de voir l’endroit qu’elles habitaient ici.
+
+['Marie', 'Louise', 'Sophie', 'Madame', 'Mathilde']	Albertine	Je dis à [MASK] qu’en me donnant ce crayon, elle me faisait un grand plaisir, moins grand pourtant que celui que j’aurais eu si le soir où elle était venue coucher à l’hôtel elle m’avait permis de l’embrasser. « Cela m’aurait rendu si heureux !
+
+['exposition', 'anniversaire', 'heure', 'Exposition', 'honneur']	Élysée	Le toast qu’il a prononcé à l’[MASK], et qui, d’après des renseignements qui me viennent de source tout à fait autorisée, avait été composé par lui du premier mot jusqu’au dernier, était entièrement digne de l’intérêt qu’il a excité partout.
+
+['Dieu', 'Pierre', 'Jeanne', 'Marie', 'Paul']	Gilberte	Combien de fois ne fus-je pas sur le point d’écrire, ou d’aller dire à [MASK] : « Prenez garde, j’en ai pris la résolution, la démarche que je fais est une démarche suprême. Je vous vois pour la dernière fois.
+
+['Nietzsche', 'Baudelaire', 'Goethe', 'Pascal', 'Rousseau']	Vinteuil	Aussi faut-il que l’artiste — et c’est ce qu’avait fait [MASK] — s’il veut que son œuvre puisse suivre sa route, la lance, là où il y a assez de profondeur, en plein et lointain avenir.
+
+['Marie', 'Jeanne', 'Thérèse', 'Clara', 'Sophie']	Gilberte	Aussitôt ce fut comme si un mur m’avait caché une partie de la vie de [MASK], comme si un génie malfaisant avait emmené loin de moi mon amie. Dans une langue que nous savons, nous avons substitué à l’opacité des sons la transparence des idées.
+
+['lui', 'Salomon', 'David', 'Socrate', 'Platon']	Bergotte	» Mais l’instinct du constructeur était trop profond chez [MASK] pour qu’il ignorât que la seule preuve qu’il avait bâti utilement et selon la vérité résidait dans la joie que son œuvre lui avait donnée, à lui d’abord, et aux autres ensuite.
+
+['maman', 'madame', 'Maman', 'Madame', 'Madeleine']	Albertine	demandai-je à [MASK]. — Mais énorme, mon petit bonhomme, me répondit-elle. Oh ! pardon. Seulement, hélas ! ce qui coûte trois cents francs ailleurs coûte deux mille francs chez eux. Mais cela ne se ressemble pas, cela a l’air pareil pour les gens qui n’y connaissent rien.
+
+['ailleurs', 'dehors', 'maman', 'Marie', 'Jeanne']	Elstir	Nous étions venus là pour respirer l’air rafraîchi de l’après-midi avancé. Je me croyais bien loin des jeunes filles de la petite bande, et c’est en sacrifiant pour une fois l’espérance de les voir, que j’avais fini par obéir à la prière de ma grand-mère et aller voir [MASK].
+
+['maman', 'Maman', 'Marie', 'Jeanne', 'Sophie']	Gilberte	Aussi je préférai d’abord ne pas retourner chez sa mère. Je continuais bien à me dire que [MASK] ne m’aimait pas, que je le savais depuis assez longtemps, que je pouvais la revoir si je voulais, et, si je ne le voulais pas, l’oublier à la longue.
+
+['Alice', 'Anna', 'Emma', 'Isabelle', 'Hélène']	Albertine	Celle que me donnait en ce moment la vue des joues d’[MASK] était aussi vive, mais conduisait à un autre désir qui n’était pas celui de la promenade mais du baiser. Je lui demandai si les projets qu’on lui prêtait étaient vrais : «
+
+['nouveau', 'personne', 'Pierre', 'moi', 'maman']	Gisèle	Je l’avais vue ce matin s’éloigner en me tournant presque le dos, pour parler à [MASK]. Sur sa tête inclinée d’un air boudeur, ses cheveux qu’elle avait derrière, différents et plus noirs encore, luisaient comme si elle venait de sortir de l’eau.
+
+['David', 'Bernard', 'Picasso', 'Léonard', 'Paul']	Elstir	Elle s’approcha même pour tendre la main au peintre, sans s’arrêter, et je vis qu’elle avait un petit grain de beauté au menton. « Vous connaissez cette jeune fille, monsieur ? » dis-je à [MASK], comprenant qu’il pourrait me présenter à elle, l’inviter chez lui.
+
+['lui', 'elle', 'eux', 'vous', 'elles']	Albertine	De sorte qu’essayer de me lier avec [MASK] m’apparaissait comme une mise en contact avec l’inconnu sinon avec l’impossible, comme un exercice aussi malaisé que dresser un cheval, aussi reposant qu’élever des abeilles ou que cultiver des rosiers.J’avais cru,
+
+['moi', 'lui', 'toi', 'elle', 'Marie']	Gilberte	De cette façon j’entendrais parler de [MASK] et j’étais sûr qu’elle entendrait ensuite parler de moi et d’une façon qui lui montrerait que je ne tenais pas à elle. Et je trouvais, comme tous ceux qui souffrent, que ma triste situation aurait pu être pire.
+
+['elle', 'il', 'madame', 'Marie', 'Louise']	Gilberte	Alors, [MASK] me dit avec bonté :— Vous savez, si vous voulez, nous pouvons lutter encore un peu.Peut-être avait-elle obscurément senti que mon jeu avait un autre objet que celui que j’avais avoué, mais n’avait-elle pas su remarquer que je l’avais atteint.
+
+['lui', 'Dieu', 'Jésus', 'moi', 'David']	Gilberte	Peut-être avait-il reconnu dans la sympathie que je lui exprimais un simple effet — et une confirmation enthousiaste — de mon amour pour [MASK], par lequel — et non par ma vénération secondaire pour lui — seraient fatalement dans la suite dirigés mes actes.
+
+['il', 'elle', 'on', 'Il', 'Elle']	Albertine	ils contenaient mon bonheur. Je sonnai le lift pour monter à la chambre qu’[MASK] avait prise, du côté de la vallée. Les moindres mouvements, comme m’asseoir sur la banquette de l’ascenseur, m’étaient doux, parce qu’ils étaient en relation immédiate avec mon cœur
+
+['Il', 'Elle', 'Je', 'Lui', 'Chacun']	Saint-Loup	Il me semblait qu’elle m’avait remarqué, je m’attendais à ce qu’un des garçons de Rivebelle vînt me dire un mot de sa part. [MASK] ne la connaissait pas et croyait qu’elle était comme il faut. Il serait bien difficile de la voir, de la voir sans cesse.
+
+['moi', 'Marie', 'Madame', 'vous', 'femmes']	Gilberte	aussi, à peine le maître d’hôtel les eut-il prononcées, qu’elles engendrèrent chez moi de la haine à laquelle je préférai donner comme objet, au lieu de [MASK], le maître d’hôtel ; il concentra sur lui tous les sentiments de colère que j’avais pu avoir pour mon amie
+
+['Madame', 'madame', 'Marie', 'Jeanne', 'Alice']	Bergotte	! — Oui, n’est-ce pas, dit [MASK], il est bien obligé de se taire assez souvent pour ne pas épuiser avant la fin de la soirée la provision de sottises qui empèsent le jabot de la chemise et maintiennent le gilet blanc.
+
+['David', 'Charles', 'Paul', 'John', 'Pierre']	Gilberte	Et les paroles de [MASK] étaient affectueuses. « Mais en quoi ne suis-je pas gentil, lui demandai-je, dites-le moi, je ferai tout ce que vous voudrez. — Non, cela ne servirait à rien, je ne peux pas vous expliquer.
+
+['Voltaire', 'Napoléon', 'Madame', 'Monsieur', 'lui']	Swann	C’est-à-dire qu’il est grand ami de [MASK] et l’a toujours beaucoup soutenu. Mais on n’a jamais dit qu’il fût l’amant de sa femme. Vous causeriez beaucoup d’étonnement dans le monde si vous aviez l’air de croire cela.
+
+['lui', 'moi', 'Marie', 'maman', 'toi']	Gilberte	Celle qui soufflait sur mon cœur était si violente que je revins vers la maison, bousculé, meurtri, sentant que je ne pourrais retrouver la respiration qu’en rebroussant chemin, qu’en retournant sous un prétexte quelconque auprès de [MASK]. Mais elle se serait dit : « Encore lui !
+
+['moi', 'elle', 'lui', 'vous', 'toi']	Gilberte	Mes paroles ne seraient parvenues à [MASK] que déviées, comme si elles avaient eu à traverser le rideau mouvant d’une cataracte avant d’arriver à mon amie, méconnaissables, rendant un son ridicule, n’ayant plus aucune espèce de sens.
+
+['Dieu', 'Paul', 'Voltaire', 'Socrate', 'Descartes']	Swann	Moi qui savais la pureté de mes intentions, la bonté de mon âme, j’étais indigné que mes paroles n’eussent même pas effleuré l’absurde erreur de [MASK]. Car ce fut une erreur, je n’en doutais pas alors.
+
+['clair', 'pourquoi', 'plus', 'si', 'davantage']	Albertine	Elle pouvait imaginer ce que je désirais, mais n’en étant pas sûre, supposer que je ne tendais qu’à des relations sans but précis auxquelles mon amie devait trouver ce vague délicieux, riche de surprises attendues, qui est le romanesque.Dans la semaine qui suivit je ne cherchai guère à voir [MASK].
+
+['Balzac', 'Flaubert', 'Voltaire', 'Dumas', 'Molière']	Balzac	C’est un chef-d’œuvre de malice et d’impertinence.Elle reprochait à [MASK], qu’elle s’étonnait de voir admiré par ses neveux, d’avoir prétendu peindre une société « où il n’était pas reçu », et dont il a raconté mille invraisemblances.
+
+['elle', 'lui', 'moi', 'nous', 'Dieu']	Odette	Nous ne la reconnaissons pas. Et pourtant il y a là un être que nous sentons bien que nous avons déjà vu. Mais cet être-là ce n’est pas [MASK] ; le visage de cet être, son corps, son aspect, nous sont bien connus.
+
+['lui', 'elle', 'vous', 'toi', 'eux']	Elstir	Je ne reconnaissais ni mon désir, ni son objet ; je regrettais presque d’être sorti avec [MASK]. Mais, surtout, la contraction du plaisir que j’avais auparavant cru avoir était due à la certitude que rien ne pouvait plus me l’enlever.
+
+['Noël', 'tendresse', 'France', 'bonheur', 'Marie']	Gilberte	et c’est ce choc en retour de notre propre tendresse que nous appelons les sentiments de l’autre et qui nous charme plus qu’à l’aller, parce que nous ne connaissons pas qu’elle vient de nous. Le 1er janvier sonna toutes ses heures sans qu’arrivât cette lettre de [MASK].
+
+['Joseph', 'Charles', 'Louis', 'Pierre', 'Jean']	Swann	Il y a eu, il est vrai, dans les années qui précédèrent le mariage, d’assez vilaines manœuvres de chantage de la part de la femme ; elle privait [MASK] de sa fille chaque fois qu’il lui refusait quelque chose.
+
+['Paris', 'eux', 'moi', 'vous', 'là']	Gilberte	refus qui était au fond de l’horreur que m’avait fait si souvent éprouver la pensée que mes parents mourraient un jour, que les nécessités de la vie pourraient m’obliger à vivre loin de [MASK], ou simplement à me fixer définitivement dans un pays où je ne reverrais plus jamais mes amis
+
+['Dieu', 'Jésus', 'dieu', 'Marie', 'David']	Swann	Et pourtant cet appartement, parce qu’il avait été si passionnément désiré par la volonté de [MASK], devait conserver pour lui quelque douceur, si j’en jugeais par moi pour qui il n’avait pas perdu tout mystère. Ce
+
+['plus', 'consolation', 'bonheur', 'réconfort', 'tendresse']	Gilberte	À ce moment-là, un mot de [MASK] n’eût peut-être pas été ce qu’il m’eût fallu. Nos désirs vont s’interférant, et dans la confusion de l’existence, il est rare qu’un bonheur vienne justement se poser sur le désir qui l’avait réclamé.
+
+['David', 'Paul', 'John', 'Daniel', 'Thomas']	Elstir	et nous redoutions tellement le pire que nous sommes finalement enclins à trouver que dans l’ensemble pris en bloc, le hasard nous a, somme toute, plutôt favorisé.« J’aurais été si content de les connaître, dis-je à [MASK] en arrivant près de lui.
+
+['moi', 'chacun', 'et', 'elle', 'Proust']	Cottard	Aux uns, Mme Bontemps de son côté, [MASK] du sien, disaient négligemment quand on leur demandait qui il y avait d’autre au dîner : « Il n’y avait que le prince d’Agrigente, c’était tout à fait intime. »
+
+['Alice', 'Anna', 'Anne', 'André', 'Antoine']	Andrée	Et là elle devait être héréditaire, les cheveux tout blancs de la mère d’[MASK] étaient fouettés de la même manière, formant ici un renflement, là une dépression comme la neige qui se soulève ou s’abîme selon les inégalités du terrain.
+
+['Rousseau', 'Balzac', 'Voltaire', 'Baudelaire', 'Montaigne']	Swann	Esthétiquement, le nombre des types humains est trop restreint pour qu’on n’ait pas bien souvent, dans quelque endroit qu’on aille, la joie de revoir des gens de connaissance, même sans les chercher dans les tableaux des vieux maîtres, comme faisait [MASK].
+
+['Il', 'Elle', 'On', 'Charles', 'Léopold']	Françoise	[MASK] ne voulait pas avoir l’air étonné. On aurait dit devant elle que l’archiduc Rodolphe, dont elle n’avait jamais soupçonné l’existence, était non pas mort comme cela passait pour assuré, mais vivant, qu’elle eût répondu « Oui », comme si elle le savait depuis longtemps.
+
+['celle', 'celui', 'Jeanne', 'Marie', 'Sophie']	Odette	Avec la lâcheté des gens qui pourtant pourraient tout se permettre, elle n’adressa pas une fois la parole à [MASK] qui ne fut pas encouragée à pousser désormais plus loin une incursion dans un monde qui du reste n’était nullement celui où elle eût aimé être reçue.
+
+['Madame', 'Marie', 'Jeanne', 'Louise', 'Julie']	Gilberte	Pourtant, un tel avertissement, je l’eusse peut-être adressé, par lettre ou de vive voix, à [MASK], quand assez de temps eût passé, me la rendant ainsi, il est vrai, moins indispensable, mais aussi ayant pu lui prouver qu’elle ne me l’était pas.
+
+['cela', 'monsieur', 'tout', 'Monsieur', 'papa']	Salomon	! — Qu’est-ce qu’il y avait ? — Un grand tralala, le stéréoscope, toute la boutique. — Ah ! s’il y avait le stéréoscope, je regrette, car il paraît que [MASK] est extraordinaire quand il le montre.
+
+['Moïse', 'Abraham', 'Israël', 'Jacob', 'David']	Bloch	chacune accablant de son mépris celle qui lui était immédiatement inférieure. Percer jusqu’à l’air libre en s’élevant de famille juive en famille juive eût demandé à [MASK] plusieurs milliers d’années. Il valait mieux chercher à se frayer une issue d’un autre côté.
+
+['Charles', 'Pierre', 'Louis', 'Jean', 'Marie']	Albertine	Mais chaque soir à dîner, tout en prenant un air dédaigneux et indifférent, elle était enchantée d’entendre [MASK] lui raconter ce qui s’était passé au château pendant qu’elle y était, les gens qui y avaient été reçus et qu’elle connaissait presque tous de vue ou de nom.
+
+['lui', 'Louis', 'Pierre', 'Paul', 'Joseph']	Saint-Loup	Or, cette curiosité, c’est à tort que j’avais espéré l’exciter chez [MASK] en lui parlant de mes jeunes filles. Car elle était pour longtemps paralysée en lui par l’amour qu’il avait pour cette actrice dont il était l’amant.
+
+['Comment', '</s>NOTUSED', 'Où', 'Quand', 'Pourquoi']	Gilberte	? (qu’ils prononçaient tous deux « commen allez-vous » sans faire la liaison du t, liaison qu’on pense bien qu’une fois rentré à la maison je me faisais un incessant et voluptueux exercice de supprimer). [MASK] sait-elle que vous êtes là ?
+
+['<unk>', 'Anna', 'Alice', 'Adam', 'Anne']	Albertine	Je voyais de côté les joues d’[MASK] qui souvent paraissaient pâles, mais ainsi, étaient arrosées d’un sang clair qui les illuminait, leur donnait ce brillant qu’ont certaines matinées d’hiver où les pierres partiellement ensoleillées semblent être du granit rose et dégagent de la joie.
+
+['elle', 'Marie', 'Jeanne', 'lui', 'Dieu']	Gilberte	Je l’avais dit comme si j’avais décidé pour toujours de ne plus la voir. Et la lettre que j’allais envoyer à [MASK] serait conçue dans le même sens. Seulement à moi-même pour me donner courage je ne me proposais qu’un suprême et court effort de peu de jours.
+
+['Elle', 'Maman', 'On', 'elle', 'Il']	Françoise	Quelquefois ma mère passait sa main sur mon front en me disant :— Alors, les petits garçons ne racontent plus à leur maman les chagrins qu’ils ont ?[MASK] s’approchait tous les jours de moi en me disant : « Monsieur a une mine !
+
+['elle', 'il', 'on', 'chacun', 'lui']	Gilberte	et c’est lui qui vous répondait ; et on était déçu et irrité — presque intrigué comme devant une substitution de personne — par une réflexion mesquine, un ricanement fourbe, où [MASK] se complaisait, car ils sortaient de ce qu’elle-même était à ce moment-là.
+
+['elle', 'Marie', 'Jeanne', 'Sophie', 'Alice']	Gilberte	Je vous vois pour la dernière fois. Bientôt je ne vous aimerai plus. » À quoi bon ? De quel droit eussé-je reproché à [MASK] une indifférence que, sans me croire coupable pour cela, je manifestais à tout ce qui n’était pas elle ?
+
+['Il', 'Elle', 'elle', 'il', 'Madame']	Elstir	Avant de la connaître, toute notre préoccupation est de savoir dans quelle mesure nous pourrons la concilier avec certains plaisirs qui cessent d’en être dès que nous l’avons connue.[MASK] ne resta pas longtemps à causer avec nous.
+
+['Albert', 'André', 'Eugène', 'Antoine', 'Auguste']	Elstir	Tout cela est bien loin. — Et qu’est devenu le modèle ? » Un étonnement provoqué par mes paroles précéda sur la figure d’[MASK] l’air indifférent et distrait qu’au bout d’une seconde il y étendit.
+

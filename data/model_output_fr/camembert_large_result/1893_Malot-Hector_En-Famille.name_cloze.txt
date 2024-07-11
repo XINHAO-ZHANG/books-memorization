@@ -1,0 +1,200 @@
+['gauche', 'droite', 'manger', 'côté', 'coucher']	Monneau	une voiture était bien arrêtée au bout du champ, et il lui sembla, autant qu’elle pouvait juger à la pale clarté des étoiles, qu’une ombre, homme ou femme, en jetait des paniers que deux autres ombres prenaient et portaient dans la pièce à côté, celle à [MASK].
+
+['on', 'il', 'chacun', 'elle', 'ont']	Perrine	, les deux charrettes s’éloignèrent du côté du village. Alors, de la route déserte [MASK] put voir, dans le crépuscule, la différence qu’offraient les deux champs qui se touchaient, l’un complètement dépouillé de ses fruits, l’autre encore tout chargé de grosses têtes bonnes à couper ;
+
+['moi', 'toi', 'elle', 'nous', 'lui']	Maraucourt	Si je l’aime, il m’aime aussi ; que de fois a-t-il tourné ses regards vers [MASK] ! que de regrets n’a-t-il pas éprouvés ! Qu’il apprenne la vérité, tu le verras accourir. – Il devrait donc quitter sa femme et sa fille ?
+
+['on', 'il', 'Pierre', 'Paul', 'Bernard']	Talouel	une fois assis en voiture, il s’affaissa et, la tête inclinée en avant, il ne prononça pas un mot. Au bas du perron des bureaux, [MASK] se tenait prêt à le recevoir et à l’aider à descendre ; ce qu’il fit, obséquieusement :
+
+['Elle', 'Marie', 'Alice', 'Jeanne', 'Anna']	Perrine	» [MASK] avait écouté le commencement de cet interrogatoire avec émoi, mais à mesure qu’il avançait elle s’était affermie. « Il y a quelqu’un qui sait ce que j’ai fait depuis que j’ai quitté la chambrée de mère Françoise. – Qui ?
+
+['Elle', 'Il', 'elle', 'il', 'On']	Théodore	moi. » Il y avait tant de résolution dans son accent et dans son attitude que bien certainement pour avoir cette feuille de papier il faudrait la lui prendre de force ; et alors ne crierait-elle point ? [MASK] n’osa pas aller jusque-la :
+
+['lui', 'Napoléon', 'moi', 'Bonaparte', 'nous']	Théodore	C’était l’heure des manœuvres habiles où chacun devait s’employer entièrement, avec toute son énergie, toute son intelligence, toute son intrigue. Quel désastre si cette industrie qui était une des forces du pays, tombait aux mains d’un incapable comme [MASK] !
+
+['jadis', 'Joseph', 'Marguerite', 'Sophie', 'Charlotte']	Saint-Denis	aussi était-elle émue lorsqu’elle se décida à entrer chez le premier boulanger qu’elle vit, tremblant que l’aventure de [MASK] ne se reproduisit. « Est-ce que vous voulez bien me couper pour un sou de pain ? » dit-elle.
+
+['Monsieur', 'Pierre', 'chacun', 'Madame', 'madame']	Perrine	mais il se trouva qu’elles ne lui donnèrent pas entière satisfaction : « II est fâcheux que cette petite ne soit pas là, dit-il, mécontent. – Mais elle est là, répondit le directeur, qui fit signe à [MASK] d’approcher.
+
+['lui', 'elle', 'il', 'Pierre', 'Paul']	Palikare	» Comme elle ne pouvait pas avancer puisque [MASK] ne le voulait pas, il fallait bien reculer ; aussitôt qu’il comprit qu’elle renonçait à entrer, il se releva et la suivit avec une parfaite docilité en remuant les oreilles d’un air de contentement.
+
+['lui', 'Paul', 'Pierre', 'Henri', 'Jean']	Bendit	» Mais [MASK], qui de sa vie n’avait jamais remercié personne, ne sentit pas tout ce qu’il y avait d’émotion et de cordiale reconnaissance dans l’accent de ces quelques mots. « Je suis bien aise », dit-il en continuant son chemin.
+
+['Grain', 'Fleur', 'Pain', 'Marchand', 'Boule']	Grain	« C’est pour te dire, petite, commença [MASK] de Sel, qui crut pouvoir prendre le premier la parole comme étant le personnage le plus important de la compagnie, c’est pour te dire que tu peux loger au Champ Guillot tant que tu voudras sans payer.
+
+['poste', 'Poste', 'traduction', 'Paris', 'change']	Bendit	» Elle écrivit couramment la dépêche qu’elle devait traduire en anglais, mais pour celle qui devait être déposée en français au télégraphe elle s’arrêta dès la première ligne, et demanda la permission d’aller chercher un dictionnaire dans le bureau de [MASK].
+
+['maman', 'Marie', 'Jeanne', 'Maman', 'Louise']	Perrine	Cependant ce soulagement ne fut pas assez fort pour la défendre contre une nouvelle faiblesse, et pendant un temps assez long elle resta sans respiration, sans voix, sans mouvement, « Maman, dit [MASK] penchée sur elle, toute tremblante d’anxiété, éperdue de désespoir, maman !
+
+['un', 'Monsieur', 'monsieur', 'le', 'Pierre']	Félix	– Tu vas conduire cette jeune personne à la chambre des papillons, qui sera la sienne, et tu veilleras à ce qu’on lui donne tout ce qui peut lui être nécessaire pour sa toilette ; tu mettras son couvert vis-à-vis le mien ; en passant, envoie-moi [MASK], qu’il me conduise aux bureaux.
+
+['celui', 'celle', 'un', 'Celui', 'ce']	Talouel	« Pour moi, dit [MASK] qui avait voulu se donner le plaisir de se joindre à eux, et qui d’autre part tenait à ne pas perdre de temps pour faire sa cour à l’héritière des usines, je l’avais toujours supposé. »
+
+['lui', 'le', 'un', 'ce', 'son']	Talouel	au contraire épanouie chez [MASK], qui depuis longtemps avait pris l’habitude de faire exprimer à sa physionomie comme à ses paroles précisément le contraire de ce qu’il pensait. Cependant il y avait des gens qui ne voulaient pas croire à ce retour : « Le vieux a été trop dur ;
+
+['maman', 'ça', 'Marie', 'Jeanne', 'Maman']	Rosalie	« Voir [MASK], pourquoi faire ? Le médecin a dit qu’il ne fallait pas l’éluger. Quand elle se lèvera, elle vous racontera comment elle s’est fait estropier, l’imbécile ! » La façon dont elle avait été accueillie le matin l’empêcha de revenir le soir ;
+
+['Marie', 'Jeanne', 'Catherine', 'Marguerite', 'Suzanne']	Talouel	Et les regards, qui tout à l’heure se cherchaient, évitaient maintenant de se rencontrer : les uns par compassion ; les autres, particulièrement ceux de [MASK] et des neveux, de peur de se trahir. Il dit encore : « Nous verrons plus tard. »
+
+['maman', 'Maman', 'tu', 'Marie', 'Dieu']	Fabry	– Ne crois pas que ce que [MASK] vient de m’apprendre d’elle, en me disant son refus d’entrer à l’hôpital où elle aurait peut-être été sauvée, et cela pour ne pas t’abandonner, ne m’a pas ému. – Tu l’aimeras, tu l’aimeras.
+
+['Elle', 'Il', 'elle', '</s>NOTUSED', 'Marie']	Perrine	mais il était facile de voir qu’elle avait une envie très vive d’accepter. [MASK] insista : « Je vous assure que vous me ferez plaisir, je suis si isolée ! – C’est tout de même vrai. – Alors c’est entendu ;
+
+['«', '–', 'Non', 'Moi', '—']	Laïde	[MASK], j’ai sef. » Plus elle se plaignait, plus l’exaspération contre elle montait dans la chambrée, chacune criant son mot plus ou moins fâché. Mais elle continuait toujours : « Salut, turlututu, chapeau pointu, fil écru, t’es rabattu.
+
+['Marie', 'Jeanne', 'Maman', 'Paul', 'Pierrot']	Fabry	« N’allez pas par-là, dit [MASK], ce sont les deux mères des enfants asphyxiés qui les pleurent. – Qui sont-elles ? – Des ouvrières des usines. – Il faut que je leur parle. »
+
+['maman', 'Marie', 'Berthe', 'Jeanne', 'Joseph']	Palikare	Aussitôt qu’elle eut installé [MASK] à la place qui lui avait été assignée, ce qui ne se fit pas sans certaines secousses, malgré le soin qu’elle prenait de les éviter, elle monta dans la roulotte : « À la fin, pauvre maman, nous voilà arrivées.
+
+['Pourquoi', 'Où', 'Comment', 'Qui', 'Mais']	Aurélie	« [MASK] est-elle là ? » demanda-t-il d’une voix altérée, dolente et faible comme celle d’un enfant malade. Elle s’avança vivement : « Me voilà, monsieur. – Montons en voiture. » Elle eût voulu l’interroger, mais elle n’osa pas ;
+
+['Jean', 'Pierre', 'Paul', 'Philippe', 'Julien']	Benoist	Une troisième fois il cria : « Aurélie ! » Alors, comme si elle s’éveillait en sursaut, elle courut à eux : « Est-ce que tu es sourde ? demanda [MASK]. – Non, monsieur ; j’écoutais les monteurs.
+
+['Joseph', 'Marie', 'Pierre', 'Jeanne', 'Louis']	Rosalie	Très occupée par ces divers travaux qui lui prenaient toutes ses soirées, elle resta plus d’une semaine sans aller voir [MASK] ; et comme, par une de leurs camarades aux cannetières qui logeait chez mère Françoise, elle eut de ses nouvelles ;
+
+['Elle', 'Marie', 'Madame', 'Jeanne', 'Madeleine']	Perrine	[MASK], bouleversée, frémissante, cherchait des paroles pour répondre et ne trouvait rien, l’esprit paralysé par l’émotion, la gorge serrée, les lèvres sèches : « Et moi, s’écria-t-elle enfin, je dois vous dire que je suis à vous, monsieur, de tout cœur.
+
+['Marie', 'Jeanne', 'Louise', 'Sophie', 'Mathilde']	Perrine	Le mot qui monta aux lèvres de [MASK] fut un refus : elle n’avait pas besoin qu’on se chargeât d’elle, surtout avec de pareils procédés ; mais elle eut la force de le refouler : elle avait un rôle à remplir, rien ne devait le lui faire oublier ;
+
+['Marie', 'Jeanne', 'Catherine', 'Marguerite', 'Sophie']	Perrine	Elle répondit dans un sanglot. « Rentrons au château. » Comme toujours il avait posé sa main sur l’épaule de [MASK], et ce fut ainsi qu’ils sortirent au milieu du premier flot des ouvriers qui quittaient les ateliers :
+
+['elle', 'Marie', 'Anna', 'il', 'Jeanne']	Rosalie	« Faites mieux, dînez avec moi. » En vraie paysanne qu’elle était, [MASK] s’enferma dans des réponses cérémonieuses, sans dire ni oui ni non ; mais il était facile de voir qu’elle avait une envie très vive d’accepter.
+
+['Jeanne', 'encore', 'Marie', 'Emma', 'Marguerite']	Perrine	Alors, dans la mélancolie du soir, l’impression de ce qui venait de se dire étreignit [MASK] plus fort, et, appuyant sa tête à celle de son âne, elle laissa couler les larmes qui depuis si longtemps l’étouffaient, tandis qu’il lui léchait les mains.
+
+['elle', 'Marie', 'lui', 'Anna', 'Catherine']	Perrine	Resté seul avec [MASK], assise à la petite table d’où elle n’avait pas bougé, il ne parut pas faire attention au départ de ses employés, et garda son attitude accablée. Le temps s’écoula, il ne bougea point.
+
+['personne', 'chacun', 'autrui', 'quiconque', 'tous']	Rosalie	mais alors où en trouverait-elle un autre, et surtout que dirait-elle à [MASK] pour expliquer d’une façon acceptable que ce qui était bon pour les autres ne l’était pas pour elle ? Comment les autres, quand elles connaîtraient ses dégoûts, la traiteraient-elles ?
+
+['Jeanne', 'Marie', 'Sophie', 'Pierre', 'Camille']	Rosalie	– Il ne pense qu’à ça. » On se mettait sur les portes pour les voir passer, le mouchoir teint de sang dont la main de [MASK] était enveloppée provoquant la curiosité ; quelques voix aussi les interrogeaient : « T’es blessée ? – Les doigts écrasés.
+
+['change', 'poste', 'tabac', 'douane', 'vente']	Perrine	ne l’oublie pas et tiens-toi prête à me le rendre. » Une demande de payement de ce marché ne se fit pas attendre ; un peu avant la sortie il s’arrêta devant le bureau de [MASK] et sans entrer, à mi-voix de façon à n’être entendu que d’elle :
+
+['elle', 'Marie', 'Madeleine', 'Marguerite', 'on']	Perrine	je n’aime pas les reproches. – Je ne vous en ferai pas, madame. » La marchande avait pris la pièce du calicot à quarante centimes, et [MASK] remarqua qu’il n’était ni blanc, ni lustré comme celui qu’elle avait admiré dans la montre.
+
+['coton', 'grain', '</s>NOTUSED', 'cuir', 'pain']	Linen	– Je crois. – Maintenant cherche la rubrique : [MASK], hemp, jute, sacks twine. – Mais, monsieur, vous savez l’anglais ! s’écria-t-elle involontairement. – Cinq ou six mots de mon métier, et c’est tout, malheureusement.
+
+['lui', 'Lui', 'David', 'John', 'Daniel']	Palikare	Le mercredi était le jour qu’elle attendait, mais son impatience de le voir arriver était traversée par l’émotion douloureuse avec laquelle elle le redoutait, car s’il devait les sauver par l’argent qu’il allait leur apporter, d’un autre côté, il devait la séparer de [MASK].
+
+['lui', 'elle', 'eux', 'Marie', 'chacun']	Perrine	Quand du dortoir ils vinrent dans le pouponnat, les enfants se précipitèrent sur [MASK] en lui présentant le jouet qu’ils avaient aux mains, une trompette, une crécelle, un cheval de bois, une poule, une poupée.
+
+['Elle', 'elle', 'Marie', 'Jeanne', 'Anna']	Perrine	– Comment, c’est toi, fillette, que fais-tu ici ? » [MASK] n’eut pas à répondre ; une faiblesse la prit qui la força à s’asseoir, et sa pâleur ainsi que ses yeux noyés parlèrent pour elle.
+
+['Marie', 'Sophie', 'Rose', 'Sarah', 'Camille']	Perrine	agenouillant près d’elle elle lui introduisit le goulot de la bouteille entre les lèvres. « Bois un bon coup, ça te soutiendra. » En effet le bon coup ramena le sang au visage pâli de [MASK] et lui rendit le mouvement. « Tu avais faim ?
+
+['ce', 'tant', 'parce', '</s>NOTUSED', 'ceux']	Laïde	je vas aller te qu’ri. – Nous v’là tranquilles, dit une voix. – Mais non, elle va chercher [MASK] qu’elle ne trouvera pas, et quand elle reviendra dans une heure, ça recommencera. – On ne dormira donc jamais !
+
+['elle', 'Marie', 'Jeanne', 'Sophie', 'Anna']	Perrine	mais l’oculiste n’était pas tout : que se passerait-il si une reprise de la bronchite se produisait ? Une crise de toux, un éternuement ne pouvaient-ils pas tout compromettre ? Et de nouveau [MASK] éprouva les angoisses qui l’avaient accablée pendant la maladie de son père et de sa mère.
+
+['Alice', 'Marie', 'maman', 'Anna', 'Jane']	Rosalie	« Vous ne pouviez pas emprunter des ciseaux aux gens de votre maison ? dit [MASK] étonnée. – Il n’y a pas de gens qui puissent me prêter, des ciseaux dans ma maison. – Tout le monde a des ciseaux. »
+
+['Voltaire', 'Molière', 'Monsieur', 'chacun', 'tous']	Bastien	cependant elle se risqua : « Mais n’avez-vous pas besoin de moi, monsieur ? Ne voulez-vous pas que je vous fasse la lecture ? » Elle eut la satisfaction de voir [MASK] l’applaudir par de grands mouvements de tête : elle avait deviné, c’était bien cela qu’elle devait dire.
+
+['Jésus', 'Moïse', 'Jérémie', 'David', 'Marie']	Perrine	Il faut que je marche pour eux, pour l’honneur de cette maison que j’ai créée, qui est ma joie, ma gloire, – et je suis aveugle ! » Une pause s’établit et l’âpreté de cette plainte emplit de larmes les yeux de [MASK] ;
+
+['elle', 'il', 'Marie', 'on', 'Marguerite']	Perrine	Quand [MASK] revint prendre sa place auprès de son âne, il s’était enfoncé le nez dans la voiture de foin, et il mangeait tranquillement comme s’il avait été devant un râtelier. « Vous le laissez manger ? s’écria-t-elle. – J’vous crois.
+
+['cela', 'midi', 'minuit', 'lui', 'Lourdes']	Écouen	Dans le petit village où elle arriva après [MASK], elle eut beau regarder de chaque coté de la rue qui le traverse, nulle part elle n’aperçut la fontaine bienheureuse sur laquelle elle comptait, car ils sont rares les villages où l’on a pensé au vagabond du chemin qui passe assoiffé ;
+
+['côté', 'manger', 'vivre', 'coucher', 'vous']	Monneau	« Vous avez cueillé vos artichauts ? cria-t-elle. – C’est pas trop tôt, répondit le paysan ; pas drôle de coucher là toutes les nuits pour veiller aux galvaudeux, au moins je vas dormir dans mon lit. – Et la pièce à [MASK] ?
+
+['nous', 'moi', 'eux', '»', 'vous']	Talouel	mais le chemin se faisait silencieusement, sans qu’il répondît le plus souvent aux observations qu’elle lui adressait de temps en temps, et arrivé aux usines, c’était à peine s’il écoutait le rapport des directeurs. « Pour le mieux, répétait-il ; entendez-vous avec [MASK].
+
+['lui', 'cela', 'ça', 'Lui', 'moi']	Rosalie	« Je suis bien aise », dit-il en continuant son chemin. Pendant toute la matinée elle ne pensa qu’à [MASK], et elle put d’autant plus librement suivre sa vision que déjà elle était faite à son travail qui n’exigeait plus l’attention.
+
+['Dieu', 'Jésus', 'Napoléon', 'papa', 'Papa']	Edmond	Que ferais-je en ce monde si [MASK] était mort ? C’est la loi de la nature que les enfants perdent leurs parents, non que les parents perdent leurs enfants. Enfin, j’ai cent raisons meilleures les unes que les autres qui prouvent l’insanité de ces espérances.
+
+['Pierre', 'Jean', 'Antoine', 'Georges', 'Alexandre']	Palikare	– Vous allez voir ; mais préparez-vous à vous faire du bon sang. » De nouveau il emplit son verre et le tendit à [MASK] qui, comme la première fois, le vida à moitié au milieu des rires et des exclamations des gens qui le regardaient.
+
+['elle', 'Marie', 'Jeanne', 'il', 'Charlotte']	Perrine	– Ne vous gênez pas pour moi. – À ce soir. » Et d’un pas lent, à regret, elle se dirigea vers la maison. XIII Après son départ, [MASK] fût volontiers restée assise à sa table comme si elle était là chez elle.
+
+['Monsieur', 'il', 'monsieur', 'le', 'Pierre']	Talouel	Du haut de son perron, [MASK], qui la regardait venir, l’appela : « Viens ici. » Elle monta vivement les marches du perron. « C’est bien toi qui parles anglais ? demanda-t-il, réponds-moi sans mentir. – Ma mère était Anglaise.
+
+['On', 'Il', 'Elle', 'on', 'il']	Perrine	– L’pétiot. – Et l’ote ? – On y a pas copé. – All a criai ? – C’tait des beuglements à faire pleurer ceux qui l’y entendaient. » [MASK] n’avait pas besoin de demander à. qui on avait coupé le doigt ;
+
+['Il', 'Elle', 'On', 'Pierre', 'Chacun']	Perrine	tu viendras avec moi, crie un peu, si tu en as la force : « Peaux de lapin, chiffons, ferraille à vendre ». [MASK] fit ce qui lui était demandé. « Bon, la voix est claire ;
+
+['monsieur', 'madame', 'Monsieur', 'Madame', 'docteur']	Benoist	« Je vous remercie, [MASK], la petite va remplacer cet ivrogne. – Sait-elle conduire ? – Ses parents étaient des marchands ambulants, elle a conduit leur voiture bien souvent ; n’est-ce pas, petite ? – Certainement, monsieur.
+
+['Marie', 'Jeanne', 'Sophie', 'Catherine', 'Rose']	Perrine	Ces propositions s’enchaînant ainsi emplirent de larmes les yeux de [MASK], et la douceur de celles-là lava l’âcreté de celles qui depuis deux jours la brûlaient. « Comme vous êtes bons pour moi ! murmura-t-elle.
+
+['Joseph', 'Dieu', 'Marie', 'chacun', 'Pierre']	Rosalie	» Sur leur chemin les ouvriers qui les rencontraient les arrêtaient pour les interroger : les uns plaignaient [MASK] ; le plus grand nombre l’écoutaient indifféremment, en gens qui sont habitués à ces sortes de choses et se disent que ça a toujours été ainsi ;
+
+['Elle', 'elle', 'Marie', 'Il', 'Anna']	Perrine	je vous dirai ce que vous devrez faire pour être embauchée. Bonsoir. – Bonsoir, et merci. – Pour vous servir. » [MASK] se hâta de se déshabiller, heureuse d’être seule et de n’avoir pas à subir la curiosité de la chambrée.
+
+['traduction', 'traducteur', 'poste', 'Traduction', 'la']	Bendit	il faut que tu la comprennes avant de me l’expliquer. Voilà ce que tu vas faire : tu vas prendre cette lettre et aller dans le bureau de [MASK], où tu la traduiras aussi fidèlement que possible, en écrivant ta traduction que tu me liras…
+
+['Madame', '</s>NOTUSED', 'Marie', 'Mme', 'Elle']	Perrine	Allant à la boiserie, il pressa un bouton, et un foyer de petites lampes placé au haut du cadre et en avant du portrait l’inonda de lumière. [MASK], qui s’était relevée pour se rapprocher de quelques pas, poussa un cri et laissa tomber le volume du Tour du Monde.
+
+['Jules', 'Pierre', 'Marie', 'Jean', 'Paul']	Perrine	mais cela continuerait-il ? ! Ce mouvement, sans doute, provoqua l’attention d’une de ses camarades qui, ayant regardé les espadrilles, les trouva à son goût et en fit compliment à [MASK]. « Où qu’c’est que vo avez acheté ces chaussons ?
+
+['Elle', 'elle', 'Il', 'Anna', 'Emma']	Perrine	Je serais une mauvaise mère, faible et lâche, au moins je serais imprudente de reculer encore. » Elle fit une pause, autant pour respirer que pour affermir ses idées vacillantes. « Il faut nous séparer… » [MASK] eut un sanglot que malgré ses efforts elle ne put contenir.
+
+['Marie', 'Jeanne', 'Sophie', 'Louise', 'Julie']	Perrine	Cette montre augmenta encore la timidité de [MASK], et comme l’entrée d’une déguenillée ne provoquait les prévenances ni de la maîtresse de maison, ni des ouvrières qui travaillaient derrière un comptoir, elle resta un moment indécise au milieu du magasin, ne sachant à qui s’adresser.
+
+['il', 'elle', 'on', 'Il', 'Charles']	Guillaume	et tu es ivre, le bruit de tes pas me le prouve. – Monsieur… je vais… vous dire…. » Tout en parlant, [MASK] avait détaché le cheval, et, en remettant les guides dans la voiture, fait tomber le fouet ;
+
+['Marie', 'Alice', 'Judith', 'Sophie', 'Jeanne']	Perrine	Et aussitôt ayant ouvert une porte, elle introduisit [MASK] dans une longue salle, où la valse vertigineuse de milliers de broches en mouvement produisait un vacarme assourdissant. Cependant, malgré le tapage, elles entendirent une voix d’homme qui criait : « Te voilà, rôdeuse !
+
+['Marie', 'Catherine', 'Alice', 'Jeanne', 'Anna']	Perrine	En parlant ainsi il regardait [MASK], et d’un coup d’œil qui lui disait en insistant : « Tu vois ce que je fais pour toi ; ne l’oublie pas et tiens-toi prête à me le rendre. » Une demande de payement de ce marché ne se fit pas attendre ;
+
+['on', 'elle', 'il', 'lui', 'un']	Virginie	Cependant comme [MASK] apportait sur le comptoir une robe en cachemire, garnie de passementerie et de jais, elle intervint : « Cela n’est pas dans les prix, dit-elle ; montrez la jupe avec blouse en indienne noire à pois ;
+
+['on', 'chacune', 'elle', 'chacun', 'Marie']	Perrine	ce qui n’eut d’autre résultat que de la rendre plus vide et par là plus misérable encore. Elles n’eurent pas une trop longue attente à endurer : un roulement de voiture annonça l’arrivée du médecin et [MASK] courut au-devant de lui.
+
+['Joseph', 'Paul', 'David', 'Daniel', 'Georges']	Mombleux	En arrivant devant un grand bâtiment neuf construit en briques blanches et bleues émaillées, elle aperçut [MASK] qui se promenait en long et en large d’un air ennuyé, et elle crut voir qu’il lui lançait un mauvais regard.
+
+['Françoise', 'Jeanne', 'Marie', 'Marguerite', 'Louise']	Perrine	Devant la maison de mère Françoise, la tante Zénobie causait appuyée sur sa barrière avec deux commères ; quand elle aperçut [MASK], elle leva les deux bras au ciel dans un mouvement de stupéfaction, mais aussitôt elle lui adressa son salut le plus avenant accompagné de son meilleur sourire, celui d’une amie véritable.
+
+['il', 'elle', 'Il', 'Anna', 'Jack']	Perrine	» N’osant pas répondre, [MASK] se jeta à côté : « C’était trop cher pour moi, il ne me restait rien pour ma nourriture et mon entretien. – Est-ce que vous avez trouvé à meilleur prix autre part ? – Je ne paye pas.
+
+['animées', 'étaient', 'surtout', 'même', 'vivaient']	Perrine	» Toutes deux étaient pleines d’espérance et [MASK] d’une foi absolue ; puisque le médecin avait promis de guérir sa mère, il allait accomplir ce miracle : pourquoi l’aurait-il trompée ? quand on demande la vérité à un médecin, il doit la dire.
+
+['</s>NOTUSED', 'Léon', 'la', 'Jeanne', 'le']	Perrine	la malade, qui depuis deux jours n’avait pu rien prendre, mangea un œuf et la moitié du petit pain. « Tu vois, maman, disait [MASK]. – Cela va aller. » En tout cas, son irritabilité nerveuse s’émoussa ;
+
+['tout', 'cela', 'Satan', 'ça', 'courage']	Fabry	– Et il a fallu que, mes soupçons s’étant précisés après des luttes cruelles, des hésitations, des espérances aussi bien que des doutes que tu m’aurais épargnés en parlant plus tôt, j’emploie [MASK] pour t’obliger à te jeter dans mes bras !
+
+['maturité', 'point', 'cela', 'bout', 'toi']	Maraucourt	C’est cela, oui c’est cela : tu arrives à [MASK] ; ne brusque rien ; tu n’as le droit de rien réclamer, ce que tu obtiendras ce sera par toi-même, par toi seule, en étant bonne, en le faisant aimer…
+
+['elle', 'lui', 'Marie', 'Louise', 'eux']	Perrine	alors celui-ci se tourna vers [MASK] : « Dis-leur que tu parles anglais et qu’ils peuvent s’expliquer avec toi. » Elle fit ce qui lui était commandé, et aux premiers mots elle eut là satisfaction de voir la physionomie renfrognée des ouvriers s’éclairer ;
+
+['Paris', 'Berlin', 'Londres', 'Moscou', 'Genève']	Dakka	à ce moment, il vit venir le facteur du télégraphe, qui, sans se presser, musait à droite et à gauche. « Justement, dit-il, voilà qu’arrive une dépêche qui est peut-être la réponse à celle qui a été envoyée à [MASK].
+
+['toi', 'lui', 'moi', 'maman', 'nous']	Palikare	– Quoi ? – Il y a des boutiques, je peux t’acheter un citron ; je reviendrais tout de suite. – Non. Gardons notre argent ; nous en avons si peu ! Retourne près de [MASK] et fais en sorte de l’empêcher de voler ce foin.
+
+['maman', 'papa', 'là', 'toi', 'Papa']	Laïde	—-Si elle pouvait ne pas se relever. – Elle dormirait aussi ben dans l’escalier qu’ici. – Et nous dormirions mieux. » Les gémissements continuaient mêlés d’appels. « Viens donc, [MASK] : un p’tit coup de main, m’n’éfant.
+
+['Elle', 'Il', 'Marie', 'Louise', 'Jeanne']	Perrine	– Je vous remercie, madame, je viendrai le chercher ce soir. – Pas avant huit heures, pas après neuf. » [MASK] avait cette bonne raison pour ne pas vouloir qu’on lui envoyât ses vêtements, qu’elle ne savait pas où elle coucherait le soir.
+
+['il', 'elle', 'on', 'Il', 'Pierre']	Talouel	maintenant ils avaient des attitudes mécontentes, embarrassées, hésitantes. Au moment où ils allaient sortir, [MASK] les retint d’un geste de main : « Le patron vous a-t-il dit autre chose que ce que je vous avais déjà dit moi-même ?
+
+['Monsieur', 'lui', 'Pierre', 'monsieur', 'Jean']	Guillaume	Puis s’adressant à [MASK], qui s’arrêtait : « D’où viens-tu ? – Monsieur… je vais… vous dire… – Ton haleine parle pour toi, tu viens du cabaret ; et tu es ivre, le bruit de tes pas me le prouve.
+
+['il', 'on', 'elle', 'chacun', 'lui']	Perrine	mais [MASK] n’aperçut qu’une confusion de bâtiments, les uns neufs, les autres vieux, dont les toits en tuiles ou en ardoises se groupaient autour d’une énorme cheminée qui écrasait les autres de sa masse grise, dans presque toute sa hauteur, noire au sommet.
+
+['Elle', 'Il', 'Lui', 'Et', 'elle']	Rosalie	« Qu’est-ce qu’elle a encore celle-là ? » cria-t-il. [MASK] montra sa main ensanglantée. « Enveloppe-la donc de ton mouchoir, ta patte ! » cria-t-il. Pendant qu’elle tirait difficilement son mouchoir, il arpentait la véranda à grands pas ;
+
+['Julie', 'une', 'madame', 'la', 'Louise']	Rosalie	Où donc que vous étiez ? demanda [MASK] surprise. – Je me suis levée de bonne heure, pour me promener un peu. – Ah ! bon. Je vous ai cherchée. – Je vous remercie bien ; mais il ne faut jamais me chercher, je suis matineuse.
+
+['Alice', 'Marie', 'Sophie', 'Anna', 'Sarah']	Perrine	» Il troubla en effet [MASK] qui laissa voir son émotion mais elle se raidit. « Je dois aller près de mes parents. – Tes parents t’ont-ils sauvé la vie comme lui ? – Je n’obéirais pas à maman si je n’y allais pas.
+
+['Pierre', 'Marius', 'Jean', 'Louis', 'Paul']	Palikare	– Et si le charretier se fâche ? – Faudrait pas avec moi. » Il se mit en posture d’invectiver un adversaire, les poings sur les hanches, la tête renversée. « Ohé, croquant ! » Mais son concours ne fut pas nécessaire pour défendre [MASK] ;
+
+['Merci', '...', 'Bonjour', 'Monsieur', 'Oui']	Paindavoine	Lui écrire pour le prévenir que je m’adresse à lui directement. « [MASK]. » « Traduis cela en anglais, et fais plutôt plus court que plus long ; à 1 fr 60 le mot, il ne faut pas les prodiguer ; écris très lisiblement. »
+
+['elle', 'Marie', 'Jeanne', 'Madeleine', 'Anna']	Perrine	Mais cette question, [MASK] se la posait avec plus d’angoisse encore, car aux secousses que de sa main il lui imprimait à l’épaule, elle sentait, sans qu’il prononçât une seule parole, combien profondément il était atteint.
+
+['famille', 'la', 'Mme', 'Jacques', 'Madame']	Dehra	« Remerciements pour lettre. » « Prière envoyer par dépêche, réponse payée vingt mots, nom de l’ami qui a reçu nouvelles, dernière date de celles-ci. Envoyer aussi nom du père de [MASK]. Lui écrire pour le prévenir que je m’adresse à lui directement
+
+['elle', 'madame', 'Madame', 'maman', 'Marie']	Françoise	– À propos de ta conduite depuis ton arrivée ici ? – Mais je vous affirme, monsieur, je vous jure que je vous ai dit la vérité. – Tu m’as dit que tu avais logé chez [MASK]. Et en partant de chez elle où as-tu été ?
+
+['lui', 'moi', 'nous', 'Marie', 'là']	Guillaume	» Ce fut la parole qu’elle se répéta dans le chemin qu’en venant à Saint-Pipoy, elle avait fait à côté de [MASK]. À quoi allait-elle être employée ? Son esprit s’envola, mais sans pouvoir s’accrocher à rien de solide.
+
+['elle', 'il', 'Marguerite', 'Louise', 'Marie']	Perrine	« Je suis enchanté de voir, dit-il, la fidélité que vous montrez pour les ordres de mon oncle, même dans les choses insignifiantes. » Lorsqu’il eut refermé la porte, [MASK] voulut se remettre au travail, mais elle était si bouleversée que cela lui fut impossible.
+
+['il', 'Charles', 'Paul', 'Joseph', 'Pierre']	Talouel	L’horloge sonna, il y eut une dernière poussée, puis quelques retardataires parurent à la queue leu leu, essoufflés, et la rue se trouva vide ; cependant [MASK] ne quitta pas sa place et, les mains dans les poches, il continua à regarder au loin, la tête haute.
+
+['Alice', 'Marie', 'Anna', 'Sophie', 'Rose']	Perrine	Après s’être fait rendre compte du travail accompli par les monteurs, et avoir répété à ceux-ci ses recommandations de se hâter autant qu’ils pourraient, il dit à [MASK] de le conduire au bureau du directeur. « Est-ce que je dois vous donner la main ? demanda-t-elle timidement.
+
+['il', 'on', 'elle', 'Il', 'Joseph']	Rosalie	Comment tout ce monde pouvait-il loger dans la vieille maison qui n’était pas grande ? La vue de son grenier, quand [MASK] eut allumé une petite chandelle placée derrière un treillis en fil de fer, répondit à cette question.
+

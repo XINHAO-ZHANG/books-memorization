@@ -1,0 +1,200 @@
+['on', 'se', 'le', 'il', ',']	Julien	Sa plaie allait bien ; cependant on ne pouvait prévoir quand il serait possible de le lever. Quatre de ses lettres étaient déjà parties, Yvon se disposait à porter la cinquième à la poste, quand [MASK] le retint, pensant qu’il valait mieux écrire de nouveau ;
+
+['premier', 'plan', 'second', 'le', ';']	Raoul	[MASK] regardait les gravures et les tableaux appendus au mur ; il s’arrêta devant une toile représentant un rocher à pic sur lequel était assise une petite ville fortifiée. La mer portant quelques vaisseaux formait le premier plan. « Quel est donc ce site-là, grand’mère ?
+
+['elle', ',', 'et', 'vous', 'il']	Edith	[MASK] avoua qu’aussitôt qu’elle apercevait des fleurs elle était prise d’un irrésistible désir de les posséder toutes, et qu’en les cueillant elle éprouvait précisément les sensations si bien décrites dans le récit qu’on venait de lire. « Voyez-vous l’ambitieuse !
+
+['se', 'la', ',', 'de', 'le']	Manette	Mon père m’explique aussitôt que ces figures qui me causent tant d’effroi, n’existent que dans ma pauvre tète où les absurdes récits de [MASK] les font naître ; et la preuve, ajouta-t-il, c’est qu’elles se dissipent aussitôt que la chambre est éclairée
+
+['se', 'une', ',', 'et', 'la']	Laure	[MASK] répondit des petits bancs. Ces deux jours de repos firent grand bien à tout le monde, tant chacune, élèves et maîtresses, s’étaient fatiguées par le travail exagéré de cette fin d’année. Les parents éloignés arrivaient ; les enfants s’occupaient des préparatifs du départ
+
+['elle', "s'", 'celle-ci', 'se', 'Jeanne']	Lucile	aussi lui donnait-on généralement quelques années de moins que son âge réel. Son père, riche marchand de laines, ne permettait pas qu’on la contraignît en aucune manière. Les médecins ayant déclaré que tout travail était contraire à la santé de l’enfant, [MASK] fut laissée entièrement à elle-même.
+
+[',', 'de', 'le', 'à', 'on']	Marthon	[MASK], la vieille servante du curé, engagea son maître à garder cet enfant à demeure. « Monsieur le curé, lui dit-elle, vous ferez une grande aumône en vous chargeant du sort de votre enfant de chœur, car son père a bien de la peine à nourrir toute sa famille
+
+[',', "qu'", 'tout', ':', 'humblement']	Julien	Mère, lui dit [MASK] en l’embrassant et en lui essuyant les yeux, permettez-moi de vous dire que vous n’êtes pas raisonnable. Ne faudrait-il pas que l’un de nous fût militaire, puisque vous ne pouvez pas nous exempter tous les deux, ni même en racheter un seul ?
+
+['à', 'en', 'de', 'se', 'pas']	Théodule	je crains seulement que les tentations que lui offrira votre table ne portent [MASK] à enfreindre son régime ; car c’est un véritable malade que je vous confie. Il ne doit prendre ni café ni liqueur ; il ne sort qu’alors que le soleil a suffisamment échauffé l’atmosphère
+
+['elle', 'lui', 'eux', 'moi', 'nous']	Sarah	La pauvre fille, ployant sous le poids de son émotion, vint devant [MASK], et là, ne pouvant plus se soutenir, elle tomba à genoux, et cacha sa figure dans les mains de son amie en la baignant de ses larmes.
+
+['ne', 'et', ',', 'mais', 'Ne']	Noémi	La malade se résigna volontiers à cette inaction, avec le regret pourtant de n’être plus d’aucun secours à personne. [MASK] voulant épargner à sa mère toute espèce de contrariété, résolut de la remplacer auprès de ses pauvres, quoi qu’il dût lui en coûter.
+
+[',', 'se', 'le', 'me', 'est']	Sarah	et quoique je ne fusse pas descendue si bas, je me suis sentie bien coupable encore, et je n’aurais rien trouvé à dire en ma faveur si j’avais eu la force de parler. » [MASK] descendit raconter tout cela à ses deux amies, et les amenant dans la peignerie :
+
+[',', '</s>', 'de', 'elle', 'et']	Sarah	[MASK], voyant tous les yeux fixés sur elle et chacune se parler bas, se douta du sujet de la conférence ; et, allant vers ses deux amies, elle les emmena dans un coin écarté du jardin. « Mes chéries, leur dit-elle, réunissons nos efforts pour faire une bonne action.
+
+[',', 'alors', 'tout', 'le', 'en']	Jules	? — Monsieur, je ne vous connais pas, répondit assez brusquement l’officier sans même le regarder ; je parle au capitaine Duchesne. » Et [MASK], se retournant, vit le jeune officier qui l’avait si vivement intéressé. «
+
+['médecin', 'docteur', 'celui-ci', 'fils', 'elle']	Noémi	Mais trouvant inutile d’éclairer la malade sur l’imminence d’un danger qu’il ne pouvait conjurer, le docteur se contenta de prescrire le repos le plus absolu. Il recommanda en même temps à [MASK] de distraire sa mère sans lui causer le moindre ébranlement.
+
+[';', '...', 'S', 'B', 'ET']	Jean-Louis	— Tiens ! vous ne savez donc pas faire du feu, cria [MASK] ; c’est pourtant bien facile, vous allez voir ! » Et ramassant deux cailloux, il mit des feuilles sèches entre son pouce et le caillou qu’il tenait de la main gauche ;
+
+['jeune', 'la', 'fille', 'de', ',']	Diane	[MASK], qui l’observait pendant cette lecture, la vit pâlir, rougir, et pâlir de nouveau ; puis, jetant un faible cri, elle s’affaissa dans son fauteuil. La jeune fille, pleine d’un mortel effroi, poussa de grands cris pour appeler du secours.
+
+['</s>', 'lui', ',', 'me', 'Ainsi']	Fanchon	La pauvre mère tout émue courut à elle et la serra vivement dans ses bras sans pouvoir parler. Elle avait été si inquiète ! « [MASK] dit le brigadier, où as-tu donc pris les pommes de terre que tu manges là ? — Dans notre cabane donc !
+
+['on', 'tu', 'maman', 'papa', 'mère']	Manette	car elle me soignait avec une grande sollicitude et me vêtissait chaudement. Un jour que [MASK] m’avait parlé d’animaux fabuleux qui vomissaient des flammes et mangeaient les petits enfants, je rêvais à toutes ces affreuses choses quand je fus éveillée tout à coup par un bruit qui se faisait dans mes rideaux.
+
+["c'", 'plus', ',', 'et', "n'"]	Diane	C’est pour lui seul qu’elles sont belles, et quand il les a pénétrées d’un de ses rayons, elles se referment à jamais ! Ce n’est pas toi, [MASK], à qui le rayon de soleil dans la solitude pourrait suffire !
+
+['elle', 'à', "l'", 'lui', 'madame']	Ernest	On invita [MASK] à dîner pour le dimanche suivant ; et ce jour-là, au dessert, sa chère écolière lui offrit une jolie petite montre d’argent avec sa chaîne. Bien habile qui pourrait dire lequel des deux enfants fut le plus heureux !
+
+["l'", 'la', 'tout', "quelqu'", 'cette']	Diane	Jamais on ne la punissait pour une leçon mal sue, un devoir mal fait, une infraction à la règle, tant on craignait de provoquer ces déluges de larmes qui allaient quelquefois jusqu’à la convulsion ; tandis qu’on appréciait assez peu la bonté calme et soutenue de [MASK], qui ne recherchait point les éloges.
+
+[',', 'celui-ci', 'celle-ci', 'tout', 'cela']	Jules	En allant volontairement à l’armée, j’exempte [MASK] et je lui donne la tranquillité nécessaire pour réussir dans sa profession. Puis, j’aime la guerre, moi ! Il n’est pas un bulletin de la grande armée qui ne me fasse bondir le cœur.
+
+['elle', 'je', 'Je', ',', 'qui']	Flore	poursuivit ma vieille amie dont l’intérêt était excité. — Non, madame ; [MASK] me fut léguée par sa mère que j’assistai à ses derniers instants. — Voulez-vous bien me conter cette histoire, si toutefois vous ne voyez pas dans cette prière une curiosité indiscrète
+
+['Monsieur', 'monsieur', 'cependant', 'dit-il', 'dis-je']	Clémence	. Il me semble, [MASK], que vous n’envisagez point la chose avec votre bon sens ordinaire ; si j’étais à votre place, je n’admettrais pas qu’on pût m’offenser aussi facilement, et je n’attacherais aucune importance à ces puérilités.
+
+['elle', 'madame', 'de', 'Louise', 'Jeanne']	Laure	; il devint impossible à [MASK] de travailler tant qu’elle n’eut pas passé un jour à l’hôtel ; et l’on eut beaucoup de peine pour la décider à retourner au couvent. Elle finit enfin cette année qui lui semblait interminable !
+
+['elle', ',', 'et', "s'", 'se']	Remi	Quand elle revint à elle, il faisait nuit close. Son premier mouvement fut de chercher son enfant qu’elle trouva étendu auprès d’elle et dormant assez tranquillement ; elle le saisit et l’étreignit avec frénésie. [MASK] se réveilla tout épouvanté en s’écriant : « Maman
+
+[',', 'de', 'à', '"', 'se']	Lucile	« Quand bien même elle n’en aurait aucune, continua [MASK] avec animation, est-ce bien à nous, les compagnes de la pauvre fille, de renchérir sur la sévérité de madame, et de nous montrer sans pitié ! »
+
+[';', "qu'", ',', 'comme', 'ma']	Manette	. — Non, en vérité, ma mère ignorait tout cela, et j’avais le tort de ne pas le lui dire ; elle eût renvoyé [MASK] qui était bonne et attentive pour moi. C’était là une grande faute, mes enfants !
+
+['elle', 'la', 'Jeanne', 'Marie', 'Louise']	Marthon	Un déplorable accident vint enfin dévoiler la vérité. Un vendredi, pendant que le curé disait la messe assisté de son enfant de chœur, [MASK], malgré son extrême faiblesse, voulut aller chercher elle-même à la cave des œufs et des légumes pour préparer le dîner.
+
+['celle-ci', 'celui-ci', 'maman', 'elle', 'Landry']	Wilhelmine	« Tiens, mère, lui dit [MASK], voilà un petit frère que je t’amène : sa maman est au ciel ; personne ne l’embrasse jamais, et cela le fait pleurer. Embrasse-le, mère, et aime-le bien pour le consoler !
+
+['RE', 'AB', 'TT', 'SA', 'SE']	TROISIÈME	— Mes chéris, il est temps de nous séparer. Comme nous avons bien employé cette après-dînée ! non-seulement ces petites histoires sont intéressantes, mais on peut tirer de chacune d’elles quelque bon enseignement, et vous êtes tous assez intelligents pour l’en extraire sans aide. » [MASK] GOUTER
+
+['chacune', 'chacun', 'les', 'celle-ci', 'on']	Diane	Ces deux petites filles n’ayant jamais joué avec d’autres enfants, se trouvaient un peu mal à l’aise au milieu du troupeau bruyant qui les entourait à la récréation. On leur fit beaucoup d’avances que [MASK] accueillit avec réserve, ce qui lui valut le sobriquet de la grande dame.
+
+['elle', "s'", "l'", ',', 'les']	Diane	et l’on décida de placer les petites filles au couvent des Dames anglaises pour y faire leur première communion : elles y resteraient l’année entière. Bien que [MASK] aimât tendrement ses parents adoptifs, elle ne fut pas fâchée d’entrer en pension et de voir beaucoup d’enfants comme elle
+
+['qui', ',', 'et', 'roi', 'lequel']	Cyr	Les burettes antiques reluisaient comme au sortir des mains de l’orfévre. [MASK], dans ses moments de loisir, courait les bois, les champs, les prés, et en rapportait des fleurs et de grandes herbes dont il faisait des bouquets prodigieux que tout le monde admirait sur l’autel.
+
+['or', 'qui', 'et', 'argent', 'vous']	Sarah	; et depuis j’ai en vain cherché le moment favorable pour remettre l’argent à sa place, quelqu’une des élèves rôdant sans cesse aux alentours du dortoir. Allez chercher cette maudite bourse, [MASK], vous la.
+
+['le', 'la', ',', '...', 'en']	Ernest	Mais comment faire, nous qui ne connaissons personne ? — Si l’enfant est capable, je m’engage à l’y faire admettre. — Il est fort en état d’y entrer immédiatement, dit [MASK]. — Alors, comptez sur moi ;
+
+['Dieu', 'celle-ci', 'Marie', 'celui-ci', 'lui']	Laure	» Aussitôt elle écrivit à [MASK] : « Aime ton prétendu en toute sécurité, ma sœur chérie ; ton père a si bien administré notre fortune que tu auras une dot qui satisfera l’ambition de ta future famille, tant grande puisse-t-elle être.
+
+['la', "l'", 'le', 'son', 'ver']	Julien	La pauvre mère ne pouvait se consoler de la blessure de [MASK]. « Ma fille, lui dit son père, tu devrais bien plutôt remercier le ciel qui te l’a conservé ; il y a tant de malheureuses mères qui n’embrasseront jamais leur fils ? »
+
+[',', 'en', ';', 'de', 'et']	Alice	; je m’accommoderais bien aussi, moi, de la vie des bois et de la liberté qu’elle donne ! — Tu te vantes, cousin, dit malicieusement [MASK] : les racines et l’eau claire ne sont pas ton fait ;
+
+['elle', 'celle-ci', 'Jeanne', 'Marie', 'Louise']	Lucile	dans ce cas elle tâchait de le leur procurer, et n’y épargnait ni sa petite bourse ni celle de son père. Bien que [MASK] n’eût rien appris encore de ce que l’on enseigne aux enfants de son âge, elle ne manquait pas cependant d’une certaine instruction.
+
+[',', 'se', 'tout', 'on', "s'"]	Zoé	plus d’une petite fille sentait battre son cœur bien fort à chaque coup de tonnerre, et se fût volontiers bouché les oreilles, n’eût été la crainte d’être raillée par les impitoyables écoliers qui faisaient les braves. Enfin [MASK] voulant se donner une contenance dit en tremblant un peu :
+
+['maman', 'Jean', 'Henri', 'Pierre', 'papa']	Oscar	— Et si on ne les eût pas trouvés, quel affreux malheur ! — Heureusement, mes enfants, on brûlait des fagots à la cuisine, et on allait en prendre là chaque jour. — Moralité, dit gravement [MASK] : plus le danger est grand, plus il faut agir avec réflexion.
+
+[',', ';', 'cousins', 'cousin', 'de']	Lucile	[MASK] m’a raconté comment vous employiez vos loisirs du jeudi ; et pour me faire pardonner le trouble que je viens jeter dans vos plaisirs, je vais vous lire un épisode de la vie d’un de mes cousins.
+
+[',', 'elle', 'et', 'de', 'la']	Eudora	[MASK] s’étant sentie envahir par un frisson glacial, monta machinalement pour se chauffer aussi ; elle prit en silence l’une des places vacantes sur le banc. Aussitôt la petite troupe s’envola comme, une nuée d’oiseaux effarouches ; restée seule, la pauvre fille fondit en larmes.
+
+['le', 'la', "l'", 'Jean', 'madame']	Charles	? C’est fort sain par la chaleur qu’il fait, et nous porterions notre vin à cette pauvre vieille qui n’en a pas, et qui se fatigue une bonne partie de la nuit après sa petite fille. — Bien dit ! » s’écria [MASK].
+
+['celui-ci', 'Pierre', 'Jean', 'Jacques', 'Blaise']	Zoé	Arrivé là, il fit aussitôt abattre de magnifiques orangers dont le bois fort dur est très-propre à cet usage. « Quel dommage ! s’écria [MASK], un arbre si précieux ! — Mon enfant, il est si commun dans cette contrée.
+
+['monsieur', 'madame', 'ainsi', 'Monsieur', 'tout']	Baptiste	ce drôle (et il désignait [MASK]), à qui je ne puis donner de gros gages, me néglige et me nourrit mal. Quand j’étais riche, il restait à l’antichambre et me servait avec respect. Aujourd’hui, monsieur court une bonne partie de la journée.
+
+['il', 'qui', ',', 'et', 'on']	Baptiste	mais [MASK] s’oppose obstinément à cette révélation, ne voulant pas enlever à son maître la satisfaction de croire qu’il paye largement ses services : ce qu’il fait, il est vrai, mais seulement par sa grande confiance ; car il faut dire qu’il ne lui a jamais demandé de comptes.
+
+['celui-ci', 'Jean', 'Pierre', 'celle-ci', 'monsieur']	Fanchon	Les larmes lui vinrent aux yeux et elle sauta au cou de [MASK] ; puis, s’étant remise de cet attendrissement, elle fit un inventaire minutieux de la hutte, qui lui fournit deux tasses et deux cuillères en bois et une marmite en fonte.
+
+['MAD', 'la', 'le', 'RE', 'DO']	Clémence	« La connaissez-vous ? dit [MASK]. — Non. Je n’ai pas voulu lever les yeux pendant le discours de madame, de peur d’ajouter à la confusion de la malheureuse. Eh bien ! regardez devant vous, au fond du pensionnat. »
+
+['elle', 'celle-ci', 'Marie', 'Jeanne', 'Catherine']	Emma	et d’ailleurs, nous nous reposerons en chemin. » Ils partent gaiement tous les trois, en suivant un sentier charmant, s’arrâtant à chaque pas pour faire un bouquet, ramasser un fruit, admirer un insecte, et surtout pour cueillir des noisettes dont [MASK] était très-friande.
+
+['frère', 'il', ',', 'père', 'et']	Fanchon	[MASK] ne répondit pas ; mais son frère dit avec vivacité : « Ah ! dame, c’est que nous nous cachions sous l’herbe de notre lit, parce que le père disait toujours que les gardes étaient des méchants, et qu’il ne fallait pas s’en laisser approcher.
+
+[',', 'la', 'de', 'femme', 'une']	Gertrude	[MASK] qui, au début de cette longue séance, s’était bien promis d’être le plus désagréable possible, étonnée et charmée de l’esprit de sa vieille parente, se sentit vaincue et devint aimable son tour ; elle la divertit fort par ses vives reparties.
+
+['elle', 'Elle', 'celle-ci', 'et', 'on']	Diane	! elle en mourrait. » La gaieté était rentrée à l’hôtel d’Orville ; [MASK] s’occupait de faire décorer l’appartement qu’elle destinait à sa sœur. Elle voulut broder les rideaux du petit salon, et sa mère adoptive était de moitié dans cet ouvrage.
+
+['pas', 'bien', '"', 'mal', 'armés']	Oscar	! répondit [MASK] ; ils attaquent les voyageurs au risque de leur vie ; ils les traitent très-bien dans les repaires où ils les emmènent en attendant qu’on paye leur rançon ; ils sont vraiment très-braves et pas si méchants qu’on le croit.
+
+['-', '"', 'dit-elle', 'tu', '?']	Fanchon	Et l’ayant conduite derrière le tas de bourrées, elle la fit entrer dans une hutte à moitié creusée en terre, couverte de branchages et de mottes de gazon. « Comment ! tu as demeuré là, [MASK] ! — Hé ! oui marraine, et je m’y trouvais très-bien.
+
+['cela', 'ça', 'lui', 'mieux', 'elle']	Clémence	— Je fais plus, [MASK], je l’admire ! — Eh bien ! moi, je ne tiendrai jamais la main au coupable, de peur d’encourager le mal. — On doit flétrir le mal, mais non le coupable ; et il ne faut pas les confondre ensemble.
+
+['qui', 'sauvage', 'et', ',', 'on']	Emma	» Et le petit se laissa emmener sans mot dire. Jeannette et sa maîtresse s’occupèrent immédiatement de faire des vêtements pour la petiote [MASK] voulut lui donner des bas et des bottines, mais le pied de la petite sauvage ne put y entrer.
+
+['avant', 'une', 'un', 'arrière', 'ores']	Eudora	La charmante fille pencha la tête d’[MASK] en arrière et lui dit : « Vous avez mal aux yeux, ma chérie, laissez-moi vous les guérir ! » Et elle lui souffla sur les yeux au travers de son mouchoir plié en plusieurs doubles. «
+
+['nous', 'nos', 'les', 'notre', 'lui']	Agathe	; mais j’ai été si souvent trompée par lès apparences que j’étais bien aise de m’assurer de ses véritables sentiments ; et je suis heureuse de n’avoir conservé aucun doute fâcheux. » Quinze jours après, nous retournâmes chez [MASK].
+
+['très', 'en', 'la', 'les', 'hom']	Édith	— Mais comme elle a bien raconté son histoire ! répondit [MASK]. — Tu es une brave petite fille, Mignonne ; viens embrasser ta grand’mère ! Mes enfants, n’avons-nous pas un peu oublié l’heure ? J’espère que vos parents ne seront pas inquiets ;
+
+['se', 'tous', 'la', 'gravité', 'de']	Sarah	En levant les yeux sur la porte vitrée, les deux pensionnaires rencontrèrent le regard bienveillant de [MASK] fixé sur elles, et elles se rendirent à l’étude. Le soir, les jeunes filles étaient à genoux sur quatre files, et l’une des demoiselles Amaury récitait les prières
+
+['</s>', 'il', 'elle', 'on', 'Il']	Noémi	; et il fallut toute l’autorité du digne prêtre pour la ramener à cette soumission aux volontés de Dieu dont sa mère lui avait donné un si constant exemple. [MASK] passa les six premiers mois de son deuil dans la solitude et la méditation.
+
+['plus', 'surcroît', 'circonstance', 'fait', 'chacun']	Mignonne	— Et qui, j’en suis sûre, débarbouillait les marmots ! » Cette observation un peu personnelle de [MASK], et faite avec une certaine malice, réjouit fort l’assistance. « Et que sont devenues vos inséparables ?
+
+['je', 'Je', 'et', 'se', ',']	Sarah	Vous pouvez regarder comme exact tout ce qu’il contient, car je n’y ai rien ajouté de mon cru. — Prêtez bien toute votre attention à cette lecture, mes enfants ; [MASK] possède au plus haut degré le talent de bien lire ;
+
+['celle-ci', 'bientôt', 'toujours', 'ainsi', 'encore']	Noémi	; mais elle ne tarda pas à comprendre les dangers de cette exagération. Elle vit bien que l’isolement où vivait sa petite fille lui était fort préjudiciable, et elle renoua d’anciennes relations qui mirent [MASK] en contact avec d’autres enfants.
+
+['je', 'dis', 'tu', 'la', 'les']	Irénée	! quand nous trouvons un endroit bien abrité, l’on dételle le cheval ; maman descend le poêle pour faire la soupe ; ma sœur et le petit font des couronnes de fleurs pendant que le père et les deux grands frères travaillent. — Dis donc, [MASK] ?
+
+['il', 'elle', 'enfant', 'et', ',']	Remi	L’idée que son enfant pourrait bien mourir de soif à ses côtés sans qu’elle pût le secourir vint saisir la malheureuse mère ; elle se sentait défaillir à chaque instant. [MASK] s’était endormi en pleurant, et ne laissait plus entendre qu’un sourd gémissement.
+
+["l'", 'la', "d'", 'une', ',']	Sarah	Comment pouvez-vous craindre d’être remplacée dans nos cœurs, vous, l’amie la plus sûre et la plus aimable qui soit au monde ! » Après une scène d’attendrissement qui bouleversa les inséparables, [MASK], la plus raisonnable des trois, dit en essuyant ses yeux :
+
+['il', 'elle', 'on', ',', 'et']	Gédéa	Après le thé, [MASK] emmena son frère dans un coin. « Au fait, lui dit-elle, il est bien dur pour des enfants privés de tout, de ne pouvoir goûter à ces bons fruits qu’ils ont eus toute la journée devant les yeux ;
+
+['ce', 'sa', 'une', 'la', ',']	Marthon	Cet arrêt consterna le curé. Outre qu’il était très-attaché à [MASK] qui le servait depuis quarante ans, il songeait avec effroi qu’il lui faudrait modifier ses habitudes. Sa vieille servante l’avait accoutumé depuis longtemps à des soins minutieux et à une exactitude rigoureuse
+
+['enfant', 'on', 'il', 'qui', ',']	Lucile	[MASK] accompagnait souvent les ouvrières qui demeuraient presque toutes dans le voisinage, quand, après la journée de travail, elles rentraient dans leur maison pour apprêter le repas du soir. L’enfant aidait à mettre le couvert dehors, car à cette époque tous les habitants du faubourg soupaient au grand air devant leur porte.
+
+['encore', 'de', 'à', 'en', 'plus']	Remi	LES BRIGANDS (Histoire véridique.) Ma mère était dans sa chambre, occupée à lire, et [MASK], mon frère, qui n’avait que cinq ans, jouait à côté d’elle. Tout à coup elle entend un grand tumulte dans la rue ;
+
+['elle', 'la', 'le', ',', 'on']	Jean-Louis	les feuilles prirent feu et furent déposées avec soin sur un petit tas de brindilles recouvertes d’autres feuilles sèches que sa sœur avait préparé : elle souffla doucement, et quand la flamme parut, [MASK] le couvrit de branches un peu plus fortes.
+
+['il', ',', 'je', 'alors', 'non']	Germain	« Est-il donc assez malade pour ne pas me recevoir ? S’il en est ainsi, [MASK], allez lui dire que je viens m’installer auprès de lui comme garde-malade, et qu’il n���en saurait avoir une plus attentive ni plus affectueuse. »
+
+['il', 'Il', 'elle', 'et', 'on']	Diane	Un torrent de larmes s’échappa de ses yeux, les premières qu’il eût versées depuis son malheur ! [MASK] le crut sauvé, et pressant ses mains amaigries elle l’appelait des noms les plus tendres. Il lui fit comprendre qu’il voulait être mis sur le lit de sa femme.
+
+['il', 'malade', 'y', 'et', ',']	Julien	Pendant trois mois, [MASK] eut une fièvre si violente qu’il ne sortait du délire que pour tomber dans un accablement plus effrayant que ses transports. La gangrène se mit dans la plaie à plusieurs reprises et le docteur crut plus d’une fois son malade perdu.
+
+['médecins', 'prêtres', 'curé', 'pauvres', 'médecin']	Cyr	car me voilà bien cassée de vieillesse, et cet enfant me serait d’un grand secours. » Et comme le curé objectait le surcroît de dépense occasionné par la présence de [MASK] dans une maison où tout devait appartenir aux pauvres, la vieille servante s’écria : «
+
+['"', ',', 'il', 'Il', 'alors']	Oscar	« Mais vous aurez besoin d’un chevalier pour vous protéger ? Quel dommage que vous ne puissiez pas partir quinze jours plus tard ! dit [MASK] avec une contrariété bien marquée. — La chose peut s’arranger à notre satisfaction mutuelle, mon cher enfant.
+
+['en', ',', 'aussitôt', '"', 'pas']	Gédéa	» répondit [MASK] en versant le contenu des paniers dans la voiture, sur les genoux de tout ce petit monde qui poussa un joyeux hourra à la vue de tant de bonnes choses, convoitées bien certainement. Le lendemain, la vieille bonne des enfants les conduisit à la foire pendant que leurs parents faisaient des visites.
+
+['je', 'se', 'vous', 'le', 'te']	Marthon	il me laisse même inventer des gâteaux que sans doute l’on trouve bons, puisque mon oncle a la vogue ! — C’est bien cela que je remarquais que [MASK] faisait des merveilles en vieillissant ! Mon garçon, tu ne me quitteras plus, et je te donnerai de bons gages ;
+
+['celui-ci', 'Pierre', 'Jean', 'celle-ci', 'Henri']	Alice	« Si, pourtant, grand’mère, dit [MASK] ; je vais quelquefois dans une petite rue qui porte son nom. » La séance avait été plus longue que d’ordinaire et chacun s’empressa de rentrer dans sa famille.
+
+[',', 'de', 'le', '</s>', 'un']	Remi	[MASK], qui s’était éveillé et avait mangé le reste de son pain, demandait à boire avec instance, et sa mère pleurait, désespérée de ne pouvoir lui en donner. Elle appela de nouveau, mais aussi vainement que la première fois.
+
+[',', 'et', 'lui', 'elle', "n'"]	Édith	La grand’mère l’y suivit. [MASK] ayant obtenu à grand’peine un instant de silence, dit : « Qui parmi vous est doué d’une longue haleine ? Voici une histoire qui nous touche au cœur puisque bonne maman y joue le rôle principal. » Et elle montra le gros cahier.
+
+['parents', 'se', 'la', "l'", ',']	Noémi	Mais comment la pauvre mère trouvera-t-elle le courage d’attrister l’enfant toujours si tendre pour elle, et qui vit dans la plus entière sécurité, ne voyant pas dépérir cette mère adorée dont elle s’occupe uniquement ? D’excellents partis se présentèrent pour [MASK], plutôt attirés par ses qualités personnelles que par sa fortune
+
+['le', 'les', 'bon', ',', "l'"]	Zoé	— En vertu de leur inutilité, répondit vivement [MASK], sa cousine, fillette de dix ans, puisqu’ils ne savent pas occuper leurs doigts. — Ou plutôt en vertu de votre incapacité à faire une narration intéressante, mesdemoiselles, répliqua le mutin, s’animant toujours davantage.
+
+['elle', 'on', "l'", "c'", 'et']	Ernest	et comme l’avait dit son jeune maître, six mois après elle écrivait déjà très-passablement. [MASK] était de toutes les fêtes de famille chez le premier valet de chambre ; le jour tant attendu, l’on était au dessert quand la servante apporta une lettre que le facteur venait de lui remettre.
+
+['il', 'elle', 'frère', 'et', 'on']	Gédéa	? manger à l’ombre des grands arbres, cueillir des fleurs et changer de lieu tous les jours. Quelle bonne vie ! » Et [MASK] fit un gros soupir. « Et quand il pleut ? objecta son frère moins enthousiaste.
+
+["l'", 'le', ',', 'la', 'tout']	Jean-Louis	— Dans notre cabane donc ! répondit fièrement [MASK] en la lui désignant du doigt. — Mais c’est la hutte du père balaissier, un ivrogne qu’on a trouvé mort dans un fossé il y aura deux ans à la Noël prochain.
+
+['lui', 'eux', 'soi', 'elle', 'nous']	Cyprien	— Mon cher ami, j’ai mes raisons d’agir ainsi, et ton camarade m’a promis une entière obéissance. » Celui-ci monta chez [MASK] et revint bientôt avec un costume tout blanc à la dernière mode, et les jeunes gens allèrent se joindre aux faneurs.
+
+[',', 'le', 'en', "l'", 'de']	Baptiste	et puis il a toujours été égoïste et orgueilleux. « [MASK] qui aime son maître tel qu’il est, eut bien de la peine à le remonter un peu. Il lui fit entendre qu’en faisant argent de tout on pourrait vivre encore dans l’aisance, et monsieur le crut ;
+
+['il', 'on', 'elle', 'Pierre', 'celui-ci']	Baptiste	Vous n’étiez pas grande dans ce temps-là, au moins ! pas plus de douze à treize ans, je gage ? — Mais oui, à peu près cet âge. » Au même moment [MASK] entra dans le magasin par une porte intérieure.
+
+['et', 'il', 'on', ',', 'elle']	Oscar	L’on venait d’arriver chez la grand’mère, et avant que les filettes eussent eu le temps de quitter leurs chapeaux et leurs casaques, [MASK] s’écria : « Il faut jouer aux brigands pendant que ces demoiselles feront des bouquets pour orner la table ;
+
+['Par', 'par', '"', 'Je', 'Vous']	GERMAIN	mais je n’ai pu étouffer le remords de ce crime, je viens réparer mon iniquité en vous envoyant le seul testament valable. « Pardonnez-moi, ma chère demoiselle, et daignez prier le Seigneur pour votre serviteur indigne qui ne sera plus quand vous lirez ces mots. « [MASK].
+
+[',', 'je', 'le', 'à', ';']	Édith	— Tout ce qui est très-excellent n’est pas commun ; mais les bons domestiques se trouvent encore, surtout quand on les traite avec indulgence et affection. « Qui de vous veut lire une petite nouvelle qui m’a été confiée ? — Moi, dit [MASK]
+
+['elle', 'il', 'ce', 'Il', 'cela']	Gertrude	! En attendant, nous allons, aujourd’hui même, lui donner cette fête de boston si ardemment désirée : car [MASK] sera des nôtres. » Celle-ci n’osa refuser, et se dédommagea de cette contrariété en faisant un peu la moue.
+
+["l'", ',', 'et', "d'", 'le']	Germain	Arrivée à la porte du général, l’intrépide fillette sonna fort et longtemps. [MASK] arrive tout effaré, croyant à quelque sinistre. Ne trouvant à la porte que la petite visiteuse qu’il ne reconnaît pas tout d’abord, il lui dit d’un ton bourru :
+
+['vous', 'personne', 'moi', 'elle', 'votre']	Sarah	— Parce que, si vous avez cédé à la tentation dans un mauvais moment, je suis bien sûre qu’il n’y a pas eu bassesse chez vous. — Ni bassesse, ni tentation, [MASK] ! — Je ne comprends pas, alors.
+
+['Les', 'les', 'la', 'La', 'Elles']	Jeanne	Quand l’enfant fut démaillottée, les deux sœurs furent étonnées de la trouver si petite ; elles la chaussèrent, puis l’habillèrent entièrement sans la faire crier tant elles s’y prirent délicatement. « Comment peut-elle vivre puisqu’elle n’a pas de nourrice ? demanda [MASK].
+

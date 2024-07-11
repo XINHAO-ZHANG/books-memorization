@@ -1,0 +1,200 @@
+[',', 'se', 'le', 'de', 'est']	Marcotte	Monseigneur, répliqua [MASK] avec une émotion à la fois digne et douloureuse, monseigneur, dites que c’est ma faute, dites que je suis un imbécile, un animal, un maroufle, un bélître, une buse ;
+
+['il', 'Il', 'et', 'on', 'elle']	Thibault	; il savait lire, écrire, compter ; il avait appris même un peu de latin, ce qui le rendait très fier.[MASK] avait employé beaucoup de temps à lire. Il avait lu surtout les livres à la mode à la fin du dernier siècle.
+
+['lui', 'Dieu', 'son', 'dieu', 'Allah']	Thibault	elle l’appelait, elle demandait grâce pour lui à des esprits invisibles qui obsédaient jusqu’aux courts instants de sommeil que l’exaltation de son cerveau lui permettait de prendre.Elle prononçait le nom de [MASK] et s’adressait au maudit avec des supplications qui tiraient les larmes des yeux de tous ceux qui l’entendaient.
+
+['.', 'la', '...', 'le', ',']	Thibault.–	La comtesse se leva.Elle alla sans rien dire à son écrin et prit le fil de perles qu’elle portait la veille au cou.Elle le présenta à [MASK] Qu’est-ce que cela ? demanda celui-ci.– Prenez, dit la comtesse, il vaut cinquante mille livres.–
+
+['on', 'il', 'Bernard', 'alors', 'elle']	Thibault	Puis on entendit un bruit sinistre, un bruit de mâchoires dont les dents claquaient les unes contre les autres.– Oui, oui, mes amis les loups, dit [MASK], vous avez goûté de la chair humaine, et cela vous a semblé bon !
+
+['et', 'elle', 'qui', 'il', 'on']	Thibault	Elle avait à la tête les mêmes épingles de diamant, au cou le même fil de perles, au corps la même robe de chambre de taffetas rose, aux pieds les mêmes mules de drap d’argent qu’elle avait pour recevoir le baron Raoul.[MASK] s’approcha.
+
+['lui', 'arrière', 'terre', 'moi', 'sol']	Landry	en suivant la meunière du regard et en reportant ensuite les yeux sur [MASK], ce gaillard-là serait-il plus heureux qu’il ne s’en doute lui-même, et faudra-t-il que, pour me débarrasser de lui, j’appelle le loup noir à mon aide ?
+
+['il', 'Il', 'elle', 'et', 'on']	Thibault	, s’était aussi fidèlement accompli que le second ; et il y avait eu, en effet, des coups d’épée donnés et reçus.[MASK] parvint, après des efforts inouïs et des douleurs atroces, à se mettre sur un genou.
+
+['celui-ci', 'loup', 'Jean', 'Loup', 'chacun']	Thibault	Il serait temps de grimper sur un arbre si les loups changeaient de manière d’agir à son égard.Nous devons dire que [MASK] était si troublé, qu’il touchait à sa porte et ne l’apercevait pas.Il reconnut enfin sa maison.
+
+['conclusion', 'conclure', ',', 'conclue', 'jour']	Thibault	La conclusion de toutes ces belles réflexions fut pour [MASK] qu’il fallait laisser emporter à la brise les ridicules promesses de la veille et oublier des fiançailles qui n’avaient eu pour témoins que les feuilles tremblotantes des bouleaux et les fleurs roses des bruyères.
+
+['il', 'celui-ci', 'on', 'lui-même', 'Pierre']	Marcotte	Seulement, cette fois, ce n’était point un daim timide qui conduisait les chiens ; c’était le loup dont [MASK] avait eu connaissance la veille et qu’il était parvenu à rembucher le matin même.C’était un vrai loup que celui-là.
+
+['le', 'votre', 'ce', 'son', 'un']	Thibault	criait-elle, car elle avait entendu la malédiction que le sabotier avait envoyée à son pourceau, et elle était restée confondue de la promptitude avec laquelle ce souhait s’était accompli.– Tombez sur [MASK] ! assommez-le ! c’est un magicien ! c’est un sorcier !
+
+['lui', 'gauche', 'celui-ci', 'droite', 'devant']	Mont-Gobert	Il résolut de s’en rapporter à celui de son cheval.Il le ramena dans son chemin, lui tourna la tête du côté de [MASK] et lui lâcha les rênes.Le cheval partit au galop.Il était évident qu’il avait compris.
+
+[',', 'homme', 'raisonnable', 'amoureux', 'indifférent']	Thibault	?Comment redeviendrait-il [MASK] après avoir vu tout cela ?Il en était là de ses réflexions lorsque la porte du cabinet de toilette s’ouvrit et que la comtesse parut.C’était bien véritablement l’oiseau de ce nid charmant, la fleur de cette terre embaumée.
+
+['il', 'comte', 'elle', ',', 'et']	Thibault	Il glissa la lame tranchante sous le genou plié et tira à lui.Le comte jeta un cri.Mais, en se relevant, [MASK] sentit à son tour une vive douleur entre les deux épaules, puis une sensation glacée qui lui traversait la poitrine.
+
+['Il', 'il', 'et', '</s>', '-']	Thibault	– Range-toi donc, drôle ! si tu ne veux pas que je t’écrase ! [MASK] sentit à la fois, au fond de son ivresse mal dissipée, le cinglement de la cravache, le choc du cheval et le froid de l’eau et de la boue dans lesquels il roulait.
+
+['...', '</s>', '-', 'dit-il', '"']	Mocquet	Mais enfin, [MASK], dirent les gardes en frissonnant, tu crois ?…– Oui, pardié ! je jurerais que nous venons d’avoir affaire au loup de Thibault le sabotier.Les gardes et les chasseurs se regardèrent. Deux ou trois firent le signe de la croix.
+
+['tous', 'chacun', 'ceux-ci', 'Thibault', 'celui-ci']	Mocquet	je jurerais que nous venons d’avoir affaire au loup de Thibault le sabotier.Les gardes et les chasseurs se regardèrent. Deux ou trois firent le signe de la croix. Tous paraissaient partager l’opinion de [MASK] et savoir ce que c’était que le loup de Thibault le sabotier.
+
+[',', 'NE', 'tout', 'ne', 'je']	monseigneur	Que [MASK] l’ordonne, et nous attaquerons ; mais qu’il me permette de lui faire observer que nous avons encore devant nous deux bonnes heures de nuit qui nous suffisent pour rompre les jambes de tout ce que nous avons de chevaux.– Je ne dis pas non ;
+
+['et', ',', 'on', 'elles', 'se']	Lisette	À moitié route à peu près, un homme se détacha du tronc d’un saule derrière lequel il était caché et barra le passage aux deux femmes.[MASK] jeta un cri.Mais, sans manifester aucune crainte, la comtesse s’avança vers cet homme.– Qui êtes-vous
+
+['la', 'personne', '-', '...', 'votre']	Thibault	, dit le baron.Et en même temps qu’il lui faisait défense de la voix, il lui faisait aussi défense de la main.– Hé ! l’ami ! reprit le baron toujours sans reconnaître [MASK], te plairait-il de me répondre, oui ou non ?
+
+['il', 'Il', 'et', 'elle', '.Il']	Thibault	Il remarqua seulement qu’il y avait au tranchant de son outil une petite brèche juste de la largeur d’un cheveu.[MASK] soupira ; il comprit que ce cheveu, prix du souhait qu’il avait fait, appartenait au loup noir, et il renonça à son entreprise.
+
+['il', 'on', 'elle', 'lui', 'chacun']	Thibault	Et, au milieu de tout cela, la besogne du métier allait ; car [MASK] n’avait pas son pareil pour trouver une paire de souliers de bois dans un morceau de fayard, et pour tailler des cuillers, des salières, de petites sébiles de bois dans les rognures du premier travail.
+
+['le', "l'", 'la', ',', 'les']	Thibault	Il porta à son tour son regard sur [MASK], s’inquiétant beaucoup plus de ce qu’il croyait apercevoir d’alarmant dans son ami que de l’état d’excitation nerveuse dans lequel l’hilarité avait mis sa femme.– Ah ! mon compère
+
+['Monsieur', 'merci', 'oui', 'Merci', 'Madame']	Thibault	Merci, [MASK] ; mais ce que j’ai, ni conseils ni argent n’y peuvent faire.– Dis toujours ce que tu as ; cela soulage de raconter sa peine.– Eh ! non ! tu auras beau faire, je ne parlerai pas.
+
+['seul', 'même', 'particulier', 'le', 'lui']	Thibault	Enfin, la chambre n° 3 était la sienne.Seulement, de la chambre du bailli à celle de sa femme, on communiquait par une porte intérieure ; tandis que sa chambre à lui, [MASK], n’avait d’autre porte que celle du corridor.
+
+['il', 'Il', 'elle', ',', "m'"]	Mocquet	Voilà pourquoi, à la question de mon père : « Et qu’as-tu fait encore ? » [MASK] avait répondu : « J’ai fait ce que je fais quand je veux prendre une bête fausse. »Nous avons interrompu le dialogue pour donner l’explication que l’on vient de lire ;
+
+["l'", "d'", 'de', 'elle', "s'"]	Thibault	; y êtes-vous déjà venu ?– Oui, madame, une fois.– Quand cela ?– Avant-hier.– À quelle heure ?– De dix heures et demie à minuit et demi.La comtesse regarda [MASK] en face.– Ce n’est pas vrai ! dit-elle.–
+
+['on', 'il', 'elle', 'ne', 'On']	Thibault	Mais, quand ces hommes ne furent plus qu’à cinq cents pas, [MASK] s’aperçut qu’ils portaient deux civières.Sur ces deux civières, deux corps inanimés étaient étendus :Celui du seigneur Jean et celui de son piqueur Marcotte.Une sueur froide lui passa sur le front.–
+
+['moi', 'lui', 'nous', 'moi', 'elle']	Thibault	Maudit soit le jour où le loup noir m’a vendu la puissance de faire le mal, puisque le mal que j’ai fait, au lieu d’ajouter à mon bonheur, l’a détruit à tout jamais !Un éclat de rire retentit derrière [MASK].
+
+[',', 'NE', 'té', 'se', 'le']	Thibault.–	? fit [MASK] Je réfléchis, dit le loup, que j’ai les griffes pointues, et que, sans le vouloir, je pourrais te faire grand mal. Mais je vois un moyen de conclure le marché sans aucun inconvénient. Tu as une bague d’argent ;
+
+['il', 't-il', 'elle', 'IL', 'Il']	Thibault	La solitude et le silence du château l’effrayaient. On eût dit d’un château maudit.– Où allons-nous ? demanda [MASK] sans trop savoir ce qu’il disait.– Mais vous le savez bien.– Dans la chambre de la comtesse ?– Dans la chambre de la comtesse.– Elle m’attend ?
+
+['il', 'celui-ci', 'Jean', 'Loup', 'Pierre']	Thibault	– troquons. – Tu vois que le marché est à ton avantage.Et le loup montra sa patte, à l’annulaire de laquelle brillait, en effet, à travers le poil, une bague de l’or le plus fin.– Ah ! dit [MASK], j’accepte.
+
+['la', 'ces', 'cette', 'ta', 'porteurs']	Thibault	– Je t’appelle ivrogne, non parce que tu as bu trois bouteilles de vin, mais parce que tu t’es laissé griser par ces trois malheureuses bouteilles.Et, avec un geste plein de commisération, essayant pour la troisième fois d’arracher son manteau des mains de [MASK] :
+
+['un', 'le', 'Un', 'ce', 'tout']	Thibault	Fût-il au pied de l’échafaud, tant qu’il lui resterait un souhait à faire, il était sûr d’échapper à la justice des hommes.[MASK] garrotté, avec des cordes aux mains, des entraves aux pieds, marchait donc entre ses quatre gendarmes avec une résignation apparente.
+
+['lui', 'son', 'sa', 'la', "l'"]	Thibault	En ce moment, les abois des chiens se firent entendre si près de [MASK], qu’il jugea qu’il serait imprudent de continuer sa poursuite.Il regarda autour de lui, vit un chêne touffu, jeta son épieu dans un buisson, prit le chêne à bras-le-corps et se dissimula dans le feuillage.
+
+['H', 'h', 'un', 'Eu', 'E']	Oigny	aller.Depuis deux heures, la chasse durait et le daim tenait bon. Il avait d’abord emmené la chasse du petit bois d’Haramont à la route du Pendu, puis de la route du Pendu à la queue d’[MASK], et tout cela haut la main
+
+['mariage', 'baron', 'Dieu', 'circonstance', 'celle-ci']	Thibault	Quant au baron, il n’était pas mort ; mais il n’en valait guère mieux.Depuis le moment où il avait été frappé comme d’un coup de foudre par le souhait de [MASK], il n’avait pas repris ses sens.
+
+[',', 'de', 'à', ';', 'la']	François	?– Oui, répondit joyeusement Champagne.– Tant mieux, répondit allègrement [MASK].Cette communion de bonheur entre les laquais et le maître étonna Thibault.– Est-ce donc la bonne fortune de votre maître qui vous rend si joyeux ? demanda-t-il à François.– Non pas ;
+
+['Dieu', 'Jésus', 'Bouddha', 'gens', 'Newton']	Satan	quelles furent les pensées de [MASK] après sa chute.Il pensa à ces rêves qui lui avaient éternellement bouleversé l’esprit, qui avaient fait tant de désespérés avant lui dans le passé, et qui devaient encore faire tant de désespérés après lui dans l’avenir.
+
+['il', 'et', 'Il', ',', 'elle']	Thibault	[MASK] connaissait, à dix pas de là, une source, celle où la première fois il s’était regardé et avait aperçu un cheveu rouge.Il y courut, puisa de l’eau dans ses deux mains, et jeta cette eau au visage de la jeune femme.
+
+["l'", 'il', 'on', 'son', 'Dieu']	Thibault	Mais ce qu’avait prédit [MASK] arriva.On entendit tout à coup comme un ouragan.C’était la meute qui arrivait au grand galop.Les chevaux, lancés au trot, refusèrent de reprendre le pas, effrayés par le piétinement, l’odeur et le hurlement des loups.
+
+['de', 'ad', 'le', ',', "d'"]	Thibault	me voilà devenu presque fée, et, tandis que tu ne te doutes de rien, mon honnête bailleur d’étrivières, il ne tient qu’à moi de jeter un sort sur ta tête et de me venger grassement de toi.[MASK], à cette pensée, s’arrêta court.–
+
+['de', ',', 'en', '...', ';']	Thibault	Ah ! loup noir, mon ami, je suis à l’école ! mais, mordienne ! je réfléchirai tant désormais avant de souhaiter, que l’écolier deviendra maître… Mais, continua [MASK] s’interrogeant lui-même, à qui donc peut appartenir cette voix que je connais ?
+
+['mur', 'murs', 'lui', 'celle-ci', 'elle']	Thibault	Il sentit se poser sur son épaule droite d’abord, puis sur son épaule gauche, un poids si lourd, qu’il plia sur ses genoux et glissa le long du mur comme pour s’asseoir.Cette manœuvre parut conforme au désir de l’individu, qui se servait de [MASK] comme d’une échelle.
+
+['lui', 'sa', 'son', 'ses', "l'"]	Marcotte	s’il l’avait su ! Comme il eût désiré que ce fût à lui qu’il arrivât malheur au lieu de [MASK] ! !Qu’était-ce que la torture physique que les coups de ceinturon lui avaient fait éprouver, auprès de la torture morale qu’il éprouvait !
+
+["l'", 'la', 'le', ',', 'qui']	Thibault	; peut-être même pensa-t-il qu’il serait convenable de lui donner la valeur de deux horions ordinaires, afin de faire bonne mesure et de donner le treizième ; toujours est-il que celui-là sillonna plus rudement encore que les autres les épaules de [MASK].Il est
+
+['il', 'tout', 'fau', 'pit', 'Il']	Thibault	Au bout d’un quart d’heure, la forêt était redevenue déserte…[MASK] était resté avec son oiseau qui chantait, sa fleur qui fleurissait, son rayon de soleil qui brillait.Seulement, un enfer nouveau venait de s’allumer dans son cœur ;
+
+[',', 'grave', 'et', 'il', 'se']	Thibault	Et, en prononçant la dernière syllabe, il sautait à terre, tandis que le grincement d’une fenêtre qui se ferme se faisait entendre.[MASK] comprit deux choses :La première, qu’on le prenait pour un nommé l’Éveillé, qui, probablement, dormait dans quelque coin aux alentours du château
+
+['Il', 'il', 'Tout', "C'", 'On']	Thibault	Cheval et cavalier étaient dans le parc. Il y avait déjà une des trois choses embarrassantes heureusement accomplie. [MASK] était passé par où il savait. Restait à trouver la personne qu’il savait. Il s’en rapporta encore à son cheval pour cela.
+
+['il', "l'", 'Dieu', 'celui-ci', 'le']	Pythagore	Cependant, le digne bailli, ayant exécuté un second voyage au cellier, et le second voyage lui ayant fait ce qu’on appelle un petit nœud au bout de la langue, il commença d’apprécier un peu moins cette rare qualité que [MASK] exigeait de ses disciples.
+
+['le', 'en', 'la', "l'", 'un']	Thibault	et la preuve, c’est que, d’ici, je vois le régalis où l’animal a gratté.– Cependant, monseigneur, je vous proteste, je vous jure…, dit [MASK], qui voyait avec inquiétude les noirs sourcils du baron se rapprocher.– Paix, et avance ici, maroufle
+
+['il', 'on', "s'", "l'", 'se']	Thibault	En même temps, [MASK] entendit un bruit qui lui parut ressembler fort à celui d’un baiser. Le malheureux comprit toute l’étendue de la nouvelle déception à laquelle il semblait réservé.Ses réflexions furent interrompues par la voix du nouveau venu, qui toussa deux ou trois fois.–
+
+['un', 'encore', 'en', 'le', 'elle']	Mocquet	Puis j’allai rejoindre [MASK], déjà en chemin. Au bout de cent pas, je me retournai. Ma mère s’était avancée jusqu’au milieu de la rue pour me suivre plus longtemps des yeux.Ce fut mon tour d’essuyer une larme au bord de ma paupière.–
+
+['cela', '...', 'plus', 'ceci', 'que']	Thibault	fit [MASK] ; et combien y a-t-il de cela ?– Il y a trois semaines à peu près.– Et la semaine prochaine est encore à venir ? demanda le sabotier, qui, connaissant mieux les femmes que son cousin Landry, sentait revenir ses inquiétudes un moment amorties.
+
+['on', 'il', 'en', 'elle', 'le']	Thibault	Un monceau de cendres fumantes marquait la place où elle avait été.Comme si [MASK] leur eût donné rendez-vous en cet endroit, des loups formaient un vaste cercle autour de ces ruines, qu’ils contemplaient avec une morne expression de fureur ;
+
+['il', 'on', 'elle', 'celui-ci', 'ils']	Thibault	Oh ! oh ! dit-il, qu’est-ce que cela ? Voici ce qui était arrivé :Tant que le daim s’était tenu sous le couvert, l’expédient dont [MASK] avait usé pour donner le change aux chiens avait eu un heureux résultat.
+
+['le', "l'", 'leur', 'son', 'la']	Landry	Une minute après que la veuve Polet était rentrée toute haletante, le sergent des racoleurs parut sur la porte avec un de ses compagnons.Deux étaient restés en dehors, probablement pour surveiller [MASK], dans le cas où il tenterait de s’échapper.
+
+['on', 'qui', 'elle', "n'", 'nous']	Thibault	et bien certainement nous sommes cependant, ma grand-mère et moi, les deux créatures les plus dénuées qu’il y ait à la ronde.[MASK] écoutait tout cela sans répondre, restant rêveur, de cette rêverie particulière aux ambitieux.
+
+['il', 'et', "s'", 'puis', "l'"]	Thibault	Et aussitôt, passant sa serpe à sa ceinture et prenant son épieu, [MASK] écouta l’aboi des chiens, s’orienta, et, devenant la corde de l’arc dont le daim et la meute faisaient le cercle, il prit les grands devants avec toute la vitesse dont les jambes d’un homme sont capables.
+
+['vent', 'chacun', 'la', 'tous', "l'"]	Thibault	Ces clameurs funèbres du vent étaient de temps en temps coupées par le houhoulement des hiboux, dont le cri semble celui des voyageurs égarés qui s’appellent et se répondent.Tous ces bruits étaient familiers à [MASK] et ne l’impressionnaient que médiocrement.
+
+[',', 'on', 'qui', 'ne', 'ce']	Marcassino	[MASK] ne se trompe jamais, entends-tu, belître ! et la preuve, c’est que, d’ici, je vois le régalis où l’animal a gratté.– Cependant, monseigneur, je vous proteste, je vous jure…
+
+['le', "l'", 'lui', 'il', ',']	Thibault	Ce voisinage eût été encore très effrayant pour tout autre ; mais [MASK], qui, il y avait quelques instants, marchait escorté de toute la terrible bande, se sentait réconforté en songeant qu’une muraille, si mince qu’elle fût, le séparait de ses maussades compagnons de route.
+
+['il', 'elle', 'Il', 'Elle', 'qui']	Thibault	Pouah ! dit-il, quels porcs que ces paysans ! et comment peuvent-ils vivre dans de pareilles saletés !La chandelle était allumée ; c’était le principal.[MASK] décrocha la glace du mur, s’approcha de la chandelle et se regarda.
+
+['HA', '...', ',', 'ON', 'R']	Thibault	Tu es malheureux dans le moulin, tu es amoureux ; donc, c’est de la meunière que tu es amoureux, et c’est cet amour qui cause ton malheur.– Ah ! tais-toi donc, [MASK] ! Si elle nous entendait !…
+
+[',', 'le', 'à', 'de', 'la']	Thibault.–	Or, si dans le malheur du meilleur ami il y a toujours quelque chose d’agréable, comprends donc ce qu’il peut y avoir de réjouissant dans le malheur du plus grand ennemi !– Il y a du vrai là-dedans, dit [MASK]
+
+[',', 'dessus', 'doucement', 'tout', 'cela']	Perrine	Les femmes, en effet, n’ont jamais pour certaines bouteilles vénérables tout le respect qu’elles méritent et toute la délicatesse avec laquelle elles aiment à être maniées.Il tira [MASK] comme s’il voulait lui parler à l’oreille.
+
+['il', 'elle', 'on', 'celui-ci', 'Pierre']	Thibault	En traversant le corridor, [MASK] se fit renseigner par la chambrière.La chambre n° 1 du corridor était celle de maître Magloire.La chambre n° 2 était celle de sa femme.Enfin, la chambre n° 3 était la sienne.
+
+['le', "l'", 'son', 'un', 'lui']	Marcotte	Ah ! c’est non, à ce qu’il paraît ; tu fais le sourd ; attends, attends, je vais prendre mon porte-voix.Et il tendit la main vers [MASK], qui, devinant ce que voulait le baron, lui tendit sa carabine.
+
+[',', 'home', 'de', 'que', 'bien']	Mocquet	Il avait tenu parole à ma mère : j’avais un bon matelas, deux draps blancs et deux bonnes couvertures bien chaudes.– Allons ! me dit [MASK], fourrez-vous là-dedans et dormez ; il est probable que demain, à quatre heures du matin, il faudra se mettre en campagne.–
+
+['on', 'et', ',', 'il', 'On']	Marcotte	Toute la meute découplée rallia les deux vétérans. [MASK] cria gare, sonna le lancer, et la chasse commença, à la grande satisfaction du seigneur de Vez, qui, tout en regrettant son loup noir, acceptait cependant un daim dix cors comme pis-aller.
+
+['le', "l'", ',', 'les', 'la']	Agnelette	Ce petit doigt, frêle et transparent, autour duquel l’anneau devait jouer aussi facilement qu’un bracelet eût joué à celui de Thibault, ce petit doigt, malgré les efforts que fit [MASK], ne put entrer dans l’anneau.–
+
+['le', 'je', 'de', 'à', 'les']	Mocquet	Mais, si la mère du général avait été derrière lui à le tirer par les basques de son habit comme vous êtes derrière cet enfant là, il n’aurait jamais tant seulement traversé la mer pour venir en France.– Tu as raison, [MASK], emmène-le ;
+
+['il', 'on', 'ne', 'cela', 'ça']	Thibault	Il ne réfléchissait pas que ces animaux l’aimaient parce qu’il était devenu, parmi les hommes, ce qu’ils étaient, eux, parmi les animaux :Une créature de nuit !Un homme de proie !Avec la réunion de tous ces animaux, [MASK] ne pouvait pas faire un atome de bien.
+
+[',', ';', 'et', 'mal', 'temps']	Thibault	Le cheveu résista.[MASK] alors jugea que la pince n’avait pas été assez serrée, et essaya d’un autre moyen.Il enroula le cheveu autour de son doigt et fit un violent effort.Le cheveu entama l’épiderme du doigt plutôt que de céder.
+
+['bénéfice', 'profit', 'gain', 'fice', 'il']	Agnelette	Chaque fois qu’il avait eu beau jeu, chaque fois qu’il s’était cru sûr du point, c’était le diable qui avait gagné.Quel bénéfice lui avait rapporté cette fatale puissance qui lui était donnée de faire le mal ?Aucun.[MASK] lui avait échappé.
+
+['il', 'Il', 'R.', 'T.', 'qui']	Mocquet	Mais, enfin, insistai-je, qu’est-ce que c’est que le loup de Thibault le sabotier ?[MASK] hésitait à me répondre.– Ah ! par ma foi ! s’écria-t-il enfin, le général m’a dit que je pourrais vous conter l’affaire quand vous auriez quinze ans.
+
+['on', 'il', 'se', "s'", ',']	Marcotte	Mais, comme on sait, si vites que soient les chevaux, si fins que soient les chiens, la chasse a ses bons et ses mauvais quarts d’heure.Un jour, [MASK] se présenta tout penaud au rendez-vous où l’attendait le baron Jean.–
+
+['qui', 'la', ',', 'le', 'as']	Thibault	Ce n’est pas vrai ! dit-elle.– Voulez-vous que je vous dise ce qui s’y est passé ?– À l’heure que vous indiquez ?– À l’heure que j’indique.– Dites, fit laconiquement la comtesse.[MASK] fut aussi laconique que celle qui l’interrogeait.–
+
+['à', 'le', 'de', 'on', 'se']	Thibault	– Pourquoi, dit l’enfant en secouant naïvement la tête, pourquoi prendrais-je garde à ce que je vais dire, puisque je ne dirai que la vérité ? Le jour où vous m’avez dit que vous vouliez me prendre pour femme, je vous ai cru, [MASK]
+
+['la', 'le', 'elle', 'à', 'ce']	Thibault	Mais elle fit un bond en arrière avec un effroi visible.– Oh ! dit-elle, ne me touchez pas ou j’appelle.– Peste ! la belle fille, dit [MASK], vous n’étiez pas si revêche l’autre jour avec le baron Raoul.– Oui, dit la suivante ;
+
+['qui', 'elle', '</s>', 'il', 'et']	Thibault	Le bruit de la double mort s’était aussitôt répandu dans la maison, et tous les domestiques avaient fui en disant que l’ange exterminateur était entré dans le château. Seule, la chambrière était restée pour accomplir les dernières volontés de sa maîtresse.[MASK] n’avait plus rien à faire dans la maison.
+
+['il', 'Il', 'et', '</s>', 'Elle']	Thibault	Il lui semblait que ce voisinage lui donnerait de la force et lui porterait bonheur, et que la douce image de la chaste enfant pourrait avoir quelque influence sur sa bonne ou sa mauvaise fortune.[MASK] se dirigea donc de ce côté.Il était six heures du soir.
+
+['Jean', 'JEAN', 'Chevalier', 'Maître', 'chevalier']	Thibault	Pour la seconde fois le bailli l’arrêta.– Seigneur Jean ! seigneur Jean ! murmura [MASK], voilà la seconde fois qu’en désir tu me passes ton épée au travers du corps : c’est donc la seconde fois que tu es meurtrier en pensée ! Prends garde !
+
+['il', 'père', 'Il', 'toujours', 'et']	Mocquet	oh ! fit mon père en se soulevant sur le coude, c’est grave, cela, mon garçon.– C’est comme cela, mon général.Et [MASK] tira son brûle-gueule de sa bouche, ce qu’il ne faisait que rarement et dans les grandes occasions.–
+
+['</s>', 'pourtant', 'certes', '-', 'toi']	Thibault	– Oh ! pour un misérable daim comme il y en a des centaines qui broutent l’herbe de cette forêt !– Tu croyais ne souhaiter que le daim, [MASK] ; mais les souhaits s’enchaînent les uns aux autres comme les nuits aux jours et les jours aux nuits.
+
+['il', 'on', 'comme', 'si', 'Il']	Thibault	Puis, comme [MASK] les avait vus apparaître à travers la futaie, à travers la futaie ils disparurent.Comme il avait entendu grandir peu à peu le bruit des violons et du hautbois, le bruit des violons et du hautbois s’éteignit peu à peu.
+
+['</s>', 'il', 'et', 'Il', 'la']	Thibault	tous les animaux de l’arche, depuis l’âne brayant jusqu’au coq chantant, mêlaient leurs voix discordantes à ce concert champêtre, tandis que le tic-tac du moulin, en battant la mesure, semblait en régler le rythme.[MASK] en eut un éblouissement.
+
+["l'", 'ce', 'la', 'cet', 'son']	Thibault	Eh bien, cependant, la première pensée de [MASK], en se trouvant seul avec la jeune fille, ne fut point pour celle qui venait de le sauver ; sa première pensée fut pour la haine et la vengeance.
+
+[',', 'et', 'à', 'par', "l'"]	Thibault	Le pauvre animal était, ou tellement fatigué, ou si singulièrement apprivoisé, qu’il ne fit pas un mouvement pour fuir, se contentant de regarder [MASK] avec ses deux grands yeux de velours noir, rendus plus expressifs encore par la crainte qui l’agitait.–
+
+['il', 'elle', 'celui-ci', 't-il', 'Bernard']	Thibault	Voyez-moi l’aspect de ce petit souper ; il est bien simple, et cependant il me réjouit plus la vue que n’eût fait, certes, le festin de Balthazar.– Par ma foi ! dit [MASK], vous avez raison, bailli, et voilà un réjouissant spectacle.
+
+['de', 'le', ',', 'en', "l'"]	Landry	– Pauvre garçon ! dit la meunière avec un sourire et un haussement d’épaules qui, dans un autre moment, eussent fait pâmer [MASK] de joie, et qui, dans celui où l’on se trouvait, redoublèrent sa douleur.–
+
+['il', 'elle', 'on', 'ils', 'Il']	Agnelette	Il était évident qu’[MASK] n’avait plus que quelques heures à souffrir.Vers minuit, le prêtre entra, suivi du sacristain qui portait la croix, et des enfants de chœur qui portaient l’eau bénite.Ces derniers s’agenouillèrent au pied du lit, tandis que le prêtre s’approchait du chevet.
+
+['il', 'celui-ci', 'lui-même', 'chacun', 'Jésus']	Thibault	C’était plutôt par amour-propre que pour autre chose que [MASK] avait lutté.Sa puissance pour faire le mal était, on le sait, indéfinie.Il n’avait qu’à souhaiter la mort de ses quatre assaillants, et ses quatre assaillants fussent tombés morts.
+
+['tous', 'Marie', 'Dieu', 'celui-ci', 'chacun']	Thibault	Mais sa tendresse de furieux se fût volontiers arrangée de la voir tomber morte avec son fiancé au pied de l’autel où le prêtre allait les unir.Par bonheur, Dieu, qui réservait les deux enfants à d’autres épreuves, ne permit point que le souhait fatal se formulât dans l’esprit de [MASK].
+
+['personne', 'il', 'elle', 'nul', 'lui']	Thibault	Puis elle éteignit immédiatement la lumière, et le sabotier l’entendit qui s’approchait de la fenêtre sur la pointe du pied et qui l’ouvrait avec toute la discrétion imaginable.À cette fenêtre se murmurèrent quelques paroles que [MASK] ne put entendre.
+
+['Dieu', 'lui-même', 'lui', 'tous', 'cela']	Marcotte	Mais, par le serrement de cœur qu’il éprouvait de temps en temps au souvenir de [MASK], il se disait à lui-même que, si déterminé que l’on soit, on n’envoie pas les hommes au diable comme on y envoie les cochons.
+
+[',', 'le', 'R', 'de', 'elle']	Landry	Il est vrai que ces paroles pleines de commisération en apparence étaient empreintes d’une certaine nuance de satisfaction et de raillerie.– Ah ! je le crois bien qu’elle est sévère ! dit [MASK]. Dans le principe, je m’étais imaginé qu’elle ne repoussait pas mon amour…
+
+['le', 'tout', 'en', 'la', 'à']	Thibault	Que veux-tu de moi ? Parle vite.– Il y a, dit [MASK], des gens qui abuseraient de leur position et de la vôtre, et qui demanderaient des choses pardessus les maisons : de les faire riches, puissants, nobles, que sais-je, moi
+
+[',', 'personne', "l'", 'personnes', 'ri']	Thibault	Pas une seule fois la surveillance de [MASK] ne fut mise en défaut.Avait-il mal entendu, avait-il mal compris, ignorait-il l’endroit de l’attaque, par des courriers expédiés au commencement de la nuit, il rassemblait tous les loups sur un point ;
+

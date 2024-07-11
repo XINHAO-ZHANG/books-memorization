@@ -1,0 +1,200 @@
+['...', 'etc', 'bien', 'en', 'non']	Clara	… – Vous l’avez peut-être mangé? insinua, en riant, [MASK]… – Non… on m’a traîné devant je ne sais quels juges qui me condamnèrent à deux mois de prison et dix mille francs de dommages et intérêts… Pour un sale paysan!…
+
+['Eu', '-', 'Je', 'le', 'fi']	Clara	Longtemps elle me regarda d’un regard triste et voilé, à travers ses larmes. – Toi… fit-elle… Toi… ah! oui… Et sa voix était comme un souffle… – C’est moi, c’est moi!… [MASK], me voilà…
+
+['le', 'la', 'vous', "l'", 'en']	Clara	Je lui demande d’une voix tremblée: – Vous m’en voulez, [MASK]?… Vous me détestez? Elle me répond d’une voix irritée: – Mais non! mais non! Cela n’a aucun rapport, mon ami… Je vous en prie, taisez-vous…
+
+['et', 'qui', 'Et', 'Elle', 'Lui']	Clara	Voyant que je faiblissais et que je bronchais aux flaques, dont les taches s’élargissaient et gagnaient le milieu de l’allée, [MASK], d’une voix douce, m’encourageait: – Ce n’est rien encore, mon chéri… Avançons!… Mais il était difficile d’avancer.
+
+['...', 'la', 'le', 'se', 'on']	Clara	Nous nous approchâmes encore. – Vois, mon chéri, me dit [MASK], comme tout cela est curieux et unique… et quelle magnificence!… En quel autre pays, trouver un pareil spectacle?… Une salle de torture parée comme pour un bal…
+
+['</s>', 'Elle', 'elle', 'Il', 'il']	Eugène	En attendant les honneurs suprêmes où le poussa le flux bourbeux de la politique, voici, entre autres choses honorables, quels étaient la qualité de ses intrigues et le choix de ses préoccupations. [MASK] avait officiellement une maîtresse. Elle s’appelait alors la comtesse Borska.
+
+['en', ',', 'que', 'le', 'de']	Clara	Il fallut jeter quelques pièces de monnaie à cet énergumène dont les invectives dépassaient tout ce que l’indignation la plus ordurière peut concevoir d’outrageantes obscénités. – Je le connais! dit [MASK]. Il est comme tous les prêtres de toutes les religions…
+
+[',', 'elle', "l'", 'il', 'et']	Clara	[MASK] appela le surveillant et engagea avec lui, en chinois, un bref colloque qu’elle me résumait, au fur et à mesure des réponses. – Ce sont ces deux pauvres diables qui ont sonné la cloche… Quarante-deux heures sans boire, sans manger, sans un seul repos!
+
+[',', "l'", "s'", 'on', 'et']	Clara	[MASK] applaudit, et sa voix tremblait encore. – C’est lui!… C’est mon poète!… C’est le plus fort!… Elle lui jeta toute la viande du panier, et, la gorge serrée: – J’étouffe un peu, dit-elle…
+
+['...', ',', 'le', 'tout', 'de']	Clara	L’allée tournait toujours, tantôt ensoleillée, tantôt ombreuse et changeait d’aspect, à chaque instant, mêlant à plus de beauté florale, plus d’inexorable horreur. – Regarde bien, mon chéri, dit [MASK]… regarde partout…
+
+['Elle', 'Je', 'On', 'elle', 'on']	Clara	Je suis malade. Sa pâleur, ses lèvres exsangues et sa voix qui était comme un râle, me firent peur… Je crus qu’elle allait mourir… Effaré, j’appelai à mon aide la Chinoise: – Vite!… vite! [MASK] meurt!
+
+['elle', '...', 'il', 'Elle', 'Il']	Annie	… Avec un air de regret, elle ajouta: – Cette femme avait, à l’un de ses doigts, un gros rubis qui, durant le supplice, allait et venait dans le soleil, comme une petite flamme rouge et dansante… [MASK] l’acheta…
+
+['la', "l'", 'S', 'se', ',']	Clara	Le baiser de [MASK], dont j’avais, sur les lèvres, le goût – comme un magique goût d’opium –, insensibilisait mes souffrances, ralentissait les pulsations de ma fièvre, éloignait jusqu’à l’invisible l’image monstrueuse d’Annie morte…
+
+[',', 'et', '...', 'elle', 'cela']	Clara	Nous ne disions rien… Et la nuit était d’une douceur féerique, le bateau glissait voluptueusement sur la mer, comme sur de la soie. [MASK] s’adressa à l’explorateur… – Alors? fit-elle d’une voix malicieuse… Ça n’est pas une plaisanterie?…
+
+["m'", '...', "j'", ',', 'être']	Clara	À peine [MASK] eut-elle disparu derrière les feuillages du jardin que le remords d’être là me saisit… Pourquoi étais-je revenu?… À quelle folie, à quelle lâcheté avais-je donc obéi?… Elle m’avait dit un jour, vous vous souvenez, sur le bateau: «
+
+[',', 'de', 'en', 'et', 'se']	Clara	[MASK] ne tarda pas à me rejoindre… Était-ce d’avoir trop aimé?… Était-ce d’avoir trop pleuré? Ses paupières étaient toutes meurtries et ses yeux, dans leur cerne bleu, exprimaient une grande tristesse. Et il y avait encore dans ses yeux plus que de la tristesse;
+
+['et', '</s>', 'il', 'puis', 'elle']	Clara	Un large et profond matelas de soie brodée occupait le centre de la barque, et du plafond descendait une lanterne à transparents phalliques, une lanterne en partie voilée d’orchidées et qui répandait sur l’intérieur du sampang une demi-clarté mystérieuse de sanctuaire ou d’alcôve. [MASK] se jeta sur les coussins.
+
+['avant', 'un', 'une', 'à', 'après']	Annie	Tu n’es pas un homme… Même du temps d’[MASK], c’était la même chose… Tu nous gâtais tout notre plaisir avec tes évanouissements de petite pensionnaire et de femme enceinte… Quand on est comme toi, on reste chez soi… Est-ce bête, vraiment?…
+
+['elle', 'Elle', 'je', 'il', 'et']	Clara	Accoudée à la rampe du pont, le front barré, les yeux fixes, [MASK] regarde l’eau. Un reflet du soleil couchant embrase sa nuque… Sa chair s’est détendue et sa bouche est plus mince. Elle est grave et très triste.
+
+['Elle', 'Il', 'elle', 'il', 'et']	Clara	[MASK] continua: J’ai trois amies. Les cheveux de la troisième sont nattés et roulés sur sa tête. Et jamais ils n’ont connu la douceur des huiles parfumées. Sa face qui exprime la passion est difforme. Son corps est pareil à celui d’un porc.
+
+['et', 'puis', 'il', 'Il', 'se']	Eugène	Mais, mon cher, toutes les missions sont dans ce goût-là… Ah!… [MASK] se mit à rire d’un rire malicieusement discret. – Il y a bien encore la police secrète… Hé! hé!… on pourrait peut-être t’y trouver une bonne situation…
+
+['...', 'rentré', 'épuisé', 'dit', ',']	Clara	Et j’étais revenu à elle, comme l’assassin revient au lieu même de son crime… Des rires dans le feuillage, de petits cris… un bondissement de chien… C’était [MASK]… Elle était vêtue, moitié à la chinoise, moitié à l’européenne…
+
+[',', 'et', 'le', 'tout', '...']	Clara	… Il nous regarda, malicieusement, du coin de ses paupières rabattues, afin de juger de l’effet que ses paroles produisaient sur nous… – Et alors?… fit [MASK], simplement. – Alors, milady, vous introduisez, dans le petit trou du pot
+
+['elle', 'lui', 'terre', ',', 'Elle']	Clara	Elle ne daigne même plus s’irriter de mes paroles… Alors, poussé par un rut grossier, maladroitement, je me penche sur [MASK], tente de l’enlacer, et, d’une main brutale, je lui empoigne les seins.
+
+[',', 'mutuellement', 'ainsi', 'efficacement', 'elle-même']	Clara	Venez par ici!… Ahuri par la bousculade, étourdi par le glapissement des marchands et les vibrations sonores des gongs, il fallut presque me battre pour pénétrer dans la foule et pour protéger [MASK] contre les insultes des unes, les coups des autres.
+
+['Il', 'il', 'Je', 'et', 'On']	Clara	– Pardonnez-moi, dit-il, de m’être laissé emporter dans un tel sujet, et d’avoir oublié que devant une femme, telle que vous, on ne devrait jamais parler que d’amour… [MASK] répondit: – Mais, capitaine, qui parle de la mort, parle aussi de l’amour!…
+
+['moi', 'lui', 'Lui', 'Moi', 'toi']	Clara	– C’est trop!… c’est trop!… ne cessais-je de répéter. Et [MASK], qui me suivait docilement, répétait aussi: – Ah! tu vois, mon chéri!… je savais bien, moi!… t’avais-je menti?
+
+['il', 'elle', 'on', ',', 'je']	Eugène	Sous peine d’une chute, [MASK] devait me traîner, perpétuellement, à sa suite, comme un boulet. En attendant les honneurs suprêmes où le poussa le flux bourbeux de la politique, voici, entre autres choses honorables, quels étaient la qualité de ses intrigues et le choix de ses préoccupations.
+
+['...', ':', '..', 'le', ';']	Clara	Cela semblait venir des profondeurs de la muraille, de dessous la terre… des abîmes mêmes de la mort… on ne savait d’où… – Entends-tu?… reprit [MASK]. Ce sont eux… tu vas les voir tout de suite… avançons!
+
+['et', 'la', 'le', 'elle', 'qui']	Clara	Une Chinoise, au visage rude, vêtue d’une blouse et d’un pantalon de soie noire, les bras nus, chargés de lourds anneaux d’or, les oreilles ornées de larges cercles d’or, tenait l’amarre. [MASK] sauta dans la barque.
+
+['il', 'elle', 'on', 'Il', 'celui-ci']	Annie	une affolante créature, chéri, à qui des prêtres avaient enseigné certains rites maudits des anciens cultes brahmaniques… C’est peut-être cela… ou autre chose… Une nuit que nous revenions du fleuve, [MASK] se plaignit de très vives douleurs à la tête et aux reins.
+
+[',', 'en', 'de', 'à', 'il']	Clara	– Ah! vous l’avez rencontré?… cria le bonhomme flatté… Eh bien, qu’en dites-vous?… – Quelle horreur!… fit [MASK] d’une voix tranquille, qui démentait le dégoût de son exclamation. Alors le bourreau expliqua: –
+
+['elle', 'Elle', 'je', 'tout', 'on']	Clara	je ne pensais à rien… je ne disais rien… [MASK] parlait, parlait… Sans doute, elle me racontait encore des histoires et des histoires… Je ne l’écoutais pas, et je ne la sentais pas, non plus, près de moi.
+
+['Je', 'je', 'en', 'me', ',']	Eugène	… – Soit! je t’écoute… Devant son assurance, je perdais peu à peu de la mienne… À l’inverse de ce que j’avais trop vaniteusement auguré, [MASK] reconquérait toute son autorité sur moi… Je le sentais qui m’échappait encore…
+
+[',', '...', 'le', 'tout', 'un']	Clara	et toute ma colère, due à une excitation nerveuse, fondit subitement dans un grand accablement. – Ah! tu vois… fit [MASK], qui ne voulut pas profiter davantage de ma piteuse défaite et de son trop facile triomphe… tu n’as même pas ce courage, qui serait beau…
+
+['S', '...', 'la', 'N', '(']	Shakespeare	– Très joli, en effet! approuva le capitaine, visiblement flatté… très poétique!… – On dirait, n’est-ce pas?… on dirait d’un nom de fée dans une comédie de [MASK]… La fée Dum-Dum!… cela m’enchante…
+
+['tout', '-', 'toute', 'presque', 'tous']	Annie	– L’année dernière, avec [MASK], j’ai vu quelque chose de bien plus étonnant… J’ai vu un homme qui avait violé sa mère et l’avait ensuite éventrée d’un coup de couteau. Il paraît, du reste, qu’il était fou…
+
+[',', 'bien', 'que', 'beaucoup', 'cela']	Eugène	Je retrouvai [MASK] plus tard, dans une circonstance difficile et douloureuse de ma vie. À force de mettre « les gens dedans », mon père finit par y être mis lui-même, et non point au figuré, comme il l’entendait de ses clients.
+
+['…', 'm', 'le', 'tout', 'même']	Eugène	Ça, je te le jure! Alors, [MASK], avec un sourire gêné, tandis que les plis de ses lèvres retombantes donnaient à toute sa physionomie une double expression de peur ignoble et de crime impuissant, me dit:
+
+['elle', 'il', 'on', 'celle-ci', 'cela']	Eugène	Elle fut, au contraire, accueillie avec faveur des différents partis politiques, car [MASK] ne passait pas pour un sectaire farouche, ne décourageait aucune espérance, aucune ambition, et l’on n’ignorait pas que, l’occasion venue, il était possible de s’entendre avec lui.
+
+['la', "l'", 'toute', 'ma', 'sa']	Clara	Et il me semble qu’une odeur de sang, qu’une odeur de cadavre monte avec elle, encens que d’invisibles encensoirs, balancés par d’invisibles mains, offrent à la gloire immortelle de la mort, à la gloire immortelle de [MASK]!
+
+['se', '...', 'on', 'il', 'je']	Clara	Instinctivement, [MASK] recula: – Tu vois… poursuivit-elle sur un ton moins assuré… ça les amuse que je leur donne de la viande… ça leur fait passer un petit moment à ces pauvres diables… ça leur procure un peu d’illusion… Avançons…
+
+['le', 'de', 'On', '...', 'on']	Clara	… Sa voix est sèche, coupante, impérieuse… Nous voilà partis… Nous traversons le pont, elle devant, moi derrière, et nous nous engageons dans les petites allées qui serpentent à travers les pelouses. [MASK] marche à pas brusques, par saccades, péniblement…
+
+[',', 'on', 'ON', 'On', 'encore']	Clara	Pour s’y rendre, il faut faire un long détour, atteindre un pont sur lequel, tous les mercredis, au milieu d’une affluence considérable de personnes élégantes, se tient le marché de la Viande-aux-Forçats. [MASK] avait refusé le palanquin. Nous descendîmes, à pied,
+
+['lui', 'sa', 'la', 'notre', 'cette']	Clara	Quant à l’officier anglais, capitaine dans un régiment d’artillerie, il cherchait à nous éblouir, en nous décrivant toutes ses inventions de balistique. Un soir, après le dîner, sur le pont, nous étions tous réunis autour de [MASK], délicieusement étendue sur un rocking-chair.
+
+['elle', 'il', 'on', '...', "l'"]	Annie	Vous savez combien [MASK] aimait les perles… Elle en possédait d’incomparables… les plus merveilleuses, je crois, qui fussent au monde… Vous vous souvenez aussi avec quelle sorte de joie physique, de spasme charnel, elle s’en parait…
+
+['moi', 'le', 'la', 'lui', "l'"]	Clara	… Et comme pour donner un démenti à ces paroles, un bronze que je n’avais pas encore aperçu, une sorte de singe de bronze, accroupi dans un coin de la pièce, tendait vers [MASK], en ricanant férocement, un sexe monstrueux.
+
+['(', 'se', ',', 'le', 'Je']	Clara	… Je sens que, dorénavant, j’aurai toujours le cauchemar de cette face horrible… et l’effroi de ces paroles… Vous me faites beaucoup de peine, je vous assure… [MASK] répliqua vivement: – Et toi aussi, tu me fais de la peine…
+
+['...', '"', '.', 'la', 'miss']	Clara	[MASK]. – Certainement, oui, adorable miss!… – Pourquoi, puisque vous ne les mangiez pas? – Mais, pour les civiliser, c’est-à-dire pour leur prendre leurs stocks d’ivoires et de gommes… Et puis… que voulez-vous?
+
+[',', 'à', 'de', 'et', 'elle']	Clara	[MASK] m’emmena sous une tente toute brodée de fleurs de pêcher, me fit asseoir, près d’elle, sur une pile de coussins, et elle me dit, en me caressant le front de sa main électrique, de sa main donneuse d’oubli et verseuse d’ivresse:
+
+['certains', 'tous', 'plusieurs', 'spécialistes', 'chacun']	Clara	Mais ils sont loin encore de la beauté pure des modèles chinois. Selon les dires de [MASK], il leur manque cette attraction de haut goût qu’on y ait mêlé les supplices à l’horticulture, le sang aux fleurs.
+
+['.', 'la', ',', 'mon', 'ma']	Clara	Je regardai [MASK]. Divinement calme et jolie, nue dans une transparente tunique de soie jaune, elle était mollement couchée sur une peau de tigre. Sa tête reposait parmi des coussins, et de ses mains, chargées de bagues, elle jouait avec une longue mèche de ses cheveux déroulés.
+
+['amour', 'un', 'elle', 'une', 'âme']	Europe	Mais toi, tu n’es qu’un amoureux d’[MASK]… une pauvre petite âme timide et frileuse, en qui la religion catholique a sottement inculqué la peur de la nature et la haine de l’amour… Elle a faussé, perverti en toi le sens de la vie…
+
+['longtemps', 'tout', 'le', 'la', 'longuement']	Clara	C’est affreux!… Alors elle se tua… Quelques gouttes de poison, et ce fut fini de la plus belle des femmes. L’épouvante me clouait les lèvres. Je regardai [MASK], sans avoir l’idée d’une seule parole.
+
+['et', ',', '...', "m'", 'Je']	Eugène	Et c’est au moment, où, de tous côtés, l’on annonce ma chute, que j’atteins au sommet de ma carrière!… Avoue que c’est comique, mon cher petit, et qu’ils n’ont pas encore ma peau… [MASK] était redevenu enjoué…
+
+[',', '...', 'de', 'et', '(']	Clara	– Sales bêtes!… fit [MASK]. Grâce aux sels dont elle avait longuement respiré les émanations cordiales, grâce surtout à son implacable volonté de ne pas défaillir, son visage avait déjà retrouvé ses couleurs rosées, ses jarrets leur mouvement souple et nerveux…
+
+['Je', '-', 'Oui', 'Elle', 'Il']	Clara	Je voudrais la prendre dans mes bras et l’étreindre jusqu’à l’étouffer, jusqu’à la broyer, jusqu’à boire la mort – sa mort – à ses veines ouvertes. Je crie d’une voix, tour à tour menaçante et soumise: – [MASK]!
+
+['on', 'se', 'On', 'ON', 'personne']	Clara	Nulle part, vous n’en trouverez de meilleure… Il n’y en a pas de plus corrompue… Dès que nous fûmes engagés sur le pont, [MASK] me dit: – Ah! tu vois, nous sommes en retard. C’est de ta faute!…
+
+['le', 'les', 'la', "l'", 'un']	Clara	Alors, la Chinoise aux yeux peints se pencha sur [MASK], et d’une voix délicieusement rythmée, comme si elle chantait une chanson, elle dit: – Petite, petite amie de mes seins et de mon âme… que vous êtes belle ainsi!…
+
+[',', 'de', 'le', 'les', 'se']	Clara	[MASK] me montra, en riant, une sorte de petite échoppe où l’on vendait, étalés sur des feuilles de caladium, des portions de rats et des quartiers de chiens, des poissons pourris, des poulets étiques, enduits de copal, des régimes de bananes et des chauves-
+
+['...', ',', '(', 'le', 'les']	Clara	Devant les niches occupées, une sorte de greffier, en robe noire, se tenait debout, très grave, avec une écritoire sur le ventre et un registre de justice dans les mains. – C’est l’allée des prévenus… me dit [MASK]…
+
+['...', 'ce', 'tout', ',', 'ma']	Marianne	Imbécile!… Tu n’as donc pas compris que je te tiens, toi, ta fortune, tes secrets, ton portefeuille!… Ah! mon passé te gêne?… Il gêne ta pudeur et la pudeur de [MASK]?… Eh bien, attends!…
+
+['il', 'Il', 'elle', 'Elle', 'et']	Clara	Ce soleil… cette foule… ces odeurs… et tes yeux… ah! tes yeux de supplice et de volupté… et ta voix… et ton crime… tout cela m’effraie… tout cela me rend fou!… [MASK] eut un petit rire moqueur.
+
+['douleur', '...', 'terre', 'côté', 'force']	Clara	Il s’éteignit aussi vite qu’il s’était allumé… Honteux du cri injurieusement ignoble que je venais de proférer, je lâchai le bras de [MASK]… et toute ma colère, due à une excitation nerveuse, fondit subitement dans un grand accablement.
+
+[',', 'de', 'le', 'à', "l'"]	Clara	. [MASK] le suivit du regard quelques instants, et, comme nous nous remettions à marcher vers la cloche: – Est-il drôle, le gros patapouf! dit-elle… Il a l’air bon enfant… Je m’écriai stupidement:
+
+['...', 'le', 'ça', ':', 'mon']	Fleur-de-Pêcher	Je voulus bégayer je ne sais quoi. – Non, non… laissez!… C’est fini!… Je ne veux plus vous parler… Et je regrette de n’avoir pas amené [MASK]… Vous êtes insupportable… vous me rendez triste… Vous me rendez bête…
+
+['Non', 'Je', 'NON', 'je', 'JE']	Clara	Dans un mouvement, la patte du chien endormi, ayant glissé sur la soie, découvrit entièrement le globe du sein qui darda sa pointe, rose comme une jeune fleur. – Oui, je me demande encore, parfois, si je ne rêve pas… dit-elle. – [MASK]…
+
+['se', 'on', 'ne', ',', 'il']	Clara	Et [MASK] s’y trompa, en se les attribuant. Ce n’était pas sur elle que je pleurais, ni sur son péché, ni sur la pitié que m’inspirait sa pauvre âme malade, ni sur l’évocation qu’elle venait de faire de sa mort…
+
+['elle', 'Elle', '...', 'et', 'réponse']	Clara	– Non!… [MASK] se mordit les lèvres où le sang afflua: – Et, alors?… fit-elle. Je ne répondis pas… je n’avais pas la force de répondre… La tête vide, le cœur déchiré, j’aurais voulu glisser au néant…
+
+['elle', 'lui', ',', 'et', 'Elle']	Clara	[MASK] acheta quelques-uns de ces derniers, et elle me dit: – Vois comme les Chinois, qu’on accuse d’être des barbares, sont au contraire plus civilisés que nous; comme ils sont plus que nous dans la logique de la vie et dans l’harmonie de la nature!
+
+[',', 'de', 'à', 'en', "d'"]	Clara	– Ô bébé!… bébé!… bébé!… fit [MASK] sur un ton singulier, dont je ne sus pas démêler l’expression véritable, et si c’était de la joie, de l’ironie ou de la pitié! Puis, presque maternelle, elle me recommanda:
+
+['elle', 'respiration', 'voix', 'tête', 'Jeanne']	Clara	Tout à coup, [MASK] s’arrêta, comme si un bras invisible se fût posé sur elle, brutalement. Inquiète, nerveuse, les narines battantes, ainsi qu’une biche qui vient de flairer dans le vent l’odeur du mâle, elle huma l’air autour d’elle.
+
+['le', 'la', 'les', "l'", 'se']	Clara	Griserie de rêve, de débauche, de supplice et de crime, on eût dit que toutes ces bouches, toutes ces mains, tous ces seins, toute cette chair vivante, allaient se ruer sur [MASK], pour jouir de sa chair morte!…
+
+['son', 'le', "l'", 'la', 'sa']	Clara	D’un geste pessimiste et navré, il prit [MASK] à témoin de cette décadence, et ses grimaces furent quelque chose d’intraduisible… – Enfin, voyons, milady!… Est-ce pas à pleurer?… C’est moi qui avais inventé le supplice du rat.
+
+['elle', '...', 'est', 'Elle', "l'"]	Annie	… Est-ce qu’elle ne viendra pas aujourd’hui?… Est-ce qu’elle est toujours belle? – Comment?… Vous ne savez pas?… Mais [MASK] est morte, cher petit cœur… – Morte! m’écriai-je… Ce n’est pas possible…
+
+['-', '؟', 'more', '...', 'tout']	Clara	Ne me parlez plus, je vous en conjure!… C’est trop douloureux… trop inutilement douloureux. Ne me parlez plus… puisque, maintenant, tout est fini!… – Rien n’est jamais fini, prononça [MASK]… rien, pas même la mort!
+
+[',', '...', 'cor', "s'", 'à']	Clara	– J’ai froid! dit-elle. Elle eut vers moi un regard de véritable détresse. Ses narines, toujours gonflées comme des voiles au vent de la mort, s’étaient amincies… Je crus qu’elle allait défaillir… – [MASK]! suppliai-je…
+
+['...', 'S', 'EST', '(', 'TOUT']	Clara	– Bête! fit [MASK]… petite bête qui ne comprend rien!… Le front barré d’une ombre dure, elle continua: – Voyons!… Étant triste, ou malade, as-tu, quelquefois, passé dans une fête?…
+
+['la', 'leurs', 'voleurs', "l'", 'leur']	Mazas	Sur un geste ambigu que, rapidement, j’esquissai: – Oui… oui… je sais… on parle de mon exécution… de ma chute prochaine… de gendarmes… de [MASK]!… « Mort aux voleurs! »… Parfaitement… De quoi ne parle-t-on pas?
+
+['-', '...', 'dam', 'en', 'le']	Clara	Ah!… ah!… ah!… – Quelle horreur!… cria [MASK]. – Ah! vous voyez… Je ne vous le fais pas dire… Et je suis fier de l’intérêt que vous prenez à mon supplice… Mais attendez…
+
+['se', "l'", 'de', "s'", 'sa']	Mazas	Cette idée qu’il n’y eût point pour lui de place intermédiaire entre ces deux pôles: la présidence du Conseil, ou [MASK], émoustillait sa verve… Il se rapprocha de moi et, me tapotant les genoux, comme il faisait dans ses moments de détente et de gaieté, il répéta:
+
+['la', 'une', "l'", 'le', 'cette']	Clara	À mesure que je marche, ma fatigue se dissipe, et je sens monter en moi quelque chose comme un violent besoin d’amour… Je me suis rapproché de [MASK], et je marche à côté d’elle… tout près d’elle… brûlé par elle…
+
+['un', 'une', 'Aimé', 'ailleurs', 'Albert']	Annie	Je me sentais fatigué, la tête lourde, tout mon être envahi par la fièvre de cet effrayant climat… De plus, le récit de la mort d’[MASK] m’avait bouleversé l’âme… Et, la chaleur, au-dehors, était mortelle comme un poison…
+
+['on', ',', '...', "l'", 'il']	Clara	– Ne regarde pas ça!… me dit [MASK] avec une moue de mépris. Ça n’est que des bois peints, mon amour… Regarde par ici, où c’est vrai… Tiens!… Justement, le voilà, mon poète!…
+
+['monde', 'terre', 'France', 'la', 'tous']	Clara	la petite fée Dum-Dum qui avait les yeux, la bouche, toute la chair inconnue et dévoilée de [MASK]… Une fois, mon amie et moi, appuyés l’un près de l’autre au bastingage, nous regardions la mer et nous regardions le ciel.
+
+['elle', 'Dame', 'dame', 'Elle', 'on']	Annie	Et, depuis, j’y pense tous les jours… Après un court silence, elle reprit: – Et ce n’est pas tout!… Maintes fois, [MASK] avait manifesté le désir d’être emportée, quand elle serait morte, au petit cimetière des Parsis…
+
+['la', 'terre', "l'", 'neige', 'ces']	Clara	Sous la poussée de [MASK], une porte, soudain, s’était ouverte dans le mur du sombre couloir. Et, soudain, comme sous la baguette d’une fée, ç’avait été en moi une irruption de clarté céleste et devant moi des horizons, des horizons!
+
+['appel', '...', 'ai', 'ai-je', ',']	Clara	[MASK]!… appelai-je. Elle me fit respirer des sels, dont la puissance cordiale me ranima un peu. Elle était, elle, libre, très joyeuse au milieu de cette foule dont elle humait les odeurs, dont elle subissait les plus répugnantes étreintes avec une sorte de volupté pâmée.
+
+['se', 'et', 'qui', "s'", ',']	Clara	Des muscles pareils à ceux des statues… Embrasse-moi, cher amour… embrasse-moi donc! Les prunelles de [MASK] s’étaient révulsées. Entre ses paupières mi-closes, je ne voyais plus que le blanc de ses yeux… Elle dit encore: – Il ne bougeait pas…
+
+["l'", 'la', 'le', 'de', 'tordu']	Tantale	Ils ne peuvent pas atteindre la viande… Dame!… avec ces machines-là, ça se comprend… Au fond, ça n’est pas très neuf… C’est le supplice de [MASK], décuplé par l’horreur de l’imagination chinoise… Hein?…
+
+['R', 're', 'RE', 'Re', 'Ly']	Clara	Et quand elle eut fini de chanter: – Oh! le petit nuage! s’écria [MASK], redevenue toute joyeuse… Regarde comme il est joli, tout rose, sur l’azur!… Tu ne le connais pas?… Tu ne l’as jamais vu?…
+
+['s', 'Elle', 'elle', 'S', 'et']	Clara	Des abois encore… des râles toujours… et presque le silence… puis rien!… [MASK] s’était collée contre moi, toute frémissante. – Ah! mon chéri!… mon chéri!… Je lui criai: – Jette-leur donc toute la viande…
+
+['Dieu', 'soi', 'Jésus', 'Jésus-Christ', 'toi']	Clara	… C’était quelque chose de plus douloureux à quoi je n’avais jamais songé et dont il m’était impossible, non pas même de comprendre, mais seulement de concevoir l’impossible réalité: la fin du rêve prodigieux qu’avait été pour moi l’amour de [MASK].
+
+['de', '...', 'me', ',', 'je']	Clara	[MASK]! suppliai-je, éperdu d’horreur… ne me dites plus rien… Je voudrais que l’image de notre divine Annie restât intacte dans mon souvenir… Comment ferai-je, maintenant, pour éloigner de ma pensée ce cauchemar?…
+
+['...', 'non', 'étire', 'm', 'prenez']	Clara	du tout! – Le chemin est long, d’ici au fleuve… Prenez mon bras, je vous en prie! – Non… merci!… Et taisez-vous!… oh! taisez-vous!… – [MASK]! vous n’êtes plus la même… –
+
+['de', ',', 'le', 'la', 'à']	Clara	[MASK]! Elle ne répond pas, ne bouge pas, ne se retourne pas… Une vapeur, plus dense, bleu et argent, monte des pelouses, du bassin, enveloppe les massifs, estompe les charpentes de supplice…
+
+['...', 'te', 'ta', 'es', 'grave']	betteravier	Il y a dans la circonscription que je t’ai choisie une question qui domine toutes les autres: la betterave… Le reste ne compte pas et regarde le préfet… Tu es un candidat purement agricole… mieux que cela, exclusivement [MASK]… Ne l’oublie point…
+
+['la', 'S', "l'", 'son', 'sa']	Guizot	Elle me prit le bras… Ses plumes étaient défrisées, ses fleurs fanées, ses dentelles aplaties. – Venez donc!… dit-elle… Elle flirte, dans le petit salon de [MASK], avec la princesse Onane… – Comment, elle aussi?…
+
+['...', ':', 're', 'de', ',']	Clara	Elle soupira tristement: – Voilà encore une journée perdue!… Je n’ai pas de chance!… J’essayai de me défendre et de la calmer. – Non… non… insista [MASK]… c’est très mal!… Tu n’es pas un homme…
+
+['elle', ',', 'Elle', 'se', 'et']	Clara	Et, à ma droite, à ma gauche, toutes proches de moi, ou bien perdues dans les perspectives lointaines, c’étaient encore, c’étaient toujours des pivoines, des pivoines, des pivoines… [MASK] s’était remise à marcher très vite, presque insensible à cette beauté;
+

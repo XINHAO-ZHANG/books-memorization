@@ -1,0 +1,200 @@
+['elle', 'moi', 'elle-même', 'toi', 'rachel']	Maria	Un ramassis d’étudiants, de fuyards et d’éternelles feignasses. La seule à en avoir vraiment bavé, c’est [MASK]. Elle ne pouvait pas faire autrement. C’était ça ou le foyer du père Lussot. Moi je l’ai suivie, accroché à son étoile.
+
+['non', 'moi', 'vous', 'oui', 'mais']	Dan	— Ne vous laissez pas dévorer par cette histoire, [MASK]. Je la devine en vous, monstrueuse et inquiétante. Vous l’écrirez vraiment, ce livre ? — On me paie pour ça, répliquai-je un peu sèchement. — Oui, bien sûr.
+
+['une', 'un', 'la', 'le', 'marie']	Maria	L’enveloppe ne renfermait qu’une photo couleur sans légende au dos. Elle représentait [MASK], facilement reconnaissable, un panier à la main et penchée sur un massif de fleurs. Un homme se tenait derrière elle, mais son visage était masqué par l’ombre épaisse d’un arbre exotique.
+
+[',', 'parfait', 'lui', 'aimé', 'innocent']	Benito	Non, c’était autre chose, l’innocence peut-être. On les devinait tendus, embrassant d’un regard panoramique le décor, attentifs au moindre geste suspect, à la plus infime différence. Celui que je pensais être [MASK] adoptait une attitude conquérante, frisant la noblesse.
+
+['monsieur', 'là', 'madame', 'là-bas', 'hein']	Toni	Il était très grand, un peu voûté, portait une barbe grise et accusait la cinquantaine. Il cligna des yeux et son regard devint plus clair en m’apercevant. — Quelle est cette chose piteuse abandonnée près du feu, [MASK] ? — Un visiteur.
+
+['et', 'mais', 'en', 'comme', 'celle-ci']	Maria	— Comment ça ? — [MASK] étant muette, je suppose qu’elle communiquait en écrivant… — Muette ! T’es bourré ou quoi ? C’était plutôt la grande gueule, la mitrailleuse au débit meurtrier, tout le monde au tapis. Quelque chose, là.
+
+['il', 'et', ',', '</s>', 'qui']	Forrest	[MASK] se dressa tel un pantin abandonné par son maître. Sans prévenir, il s’abattit sur moi, enserrant ma gorge entre ses doigts énormes. Je me laissai aller en arrière, la chaise qui me supportait se renversa et nous roulâmes sur le plancher ciré, enlacés en un ballet pataud et misérable.
+
+['toi', 'vous', 'moi', 'toujours', '"']	Rosa	Un jour, elle a surpris sa chère maman carrément en extase devant la croûte. Alors, elle a décroché le tableau et a découvert au dos le nom du peintre – Alain Boucher – et ces mots : « Pour [MASK] ». C’est le prénom de la mère Vaqueros.
+
+['</s>', '-', '"', 'puis', 'et']	Benito	— Quelqu’un qui ne demandait qu’à vivre peinard, répondis-je, peu sûr de moi. — Ça se discute, ma biche. [MASK], tirant sur son cigare, effectua un cercle complet autour de moi. — Tu n’es pas épais, mon garçon.
+
+['oui', 'certes', 'non', 'sûr', 'ok']	Wendy	— Je séduis la nature et la nature me le rend bien. Bon, d’accord, parfois, mes hommes exagèrent. Ils aiment bien torturer les animaux, [MASK], mais il y a quelque chose de sacré dans cette souffrance qu’ils infligent. Quelque chose de vrai.
+
+['ali', 'nasser', '</s>', 'consorts', 'moubarak']	Philippe	Babar et [MASK] nous ont alors expliqué qu’il s’agit, en fait, d’une récupération : les possédants volent le peuple, le peuple se venge sur les biens de consommation. Tout le monde a éclaté de rire. Sauf moi.
+
+['plus', 'quoi', 'tout', 'ce', 'premier']	Saint-André	— Chauffez-vous près de la cheminée, commanda-t-elle. Vous n’êtes quand même pas le collectionneur de [MASK] ? Elle réussit à m’arracher un sourire. — Non, je ne collectionne que les emmerdements, avouai-je, reprenant goût à la vie.
+
+['celui-ci', 'chacun', 'lui', 'celle-ci', 'lui-même']	Pancho	Alors, je distinguai la jeune fille. Ses jambes brunies sautaient de roche en roche et sa jupe de toile bleue se gonflait sous la brise légère. Elle était insouciante, pure et aérienne, subtile comme un rêve. Je compris enfin que [MASK] s’apprêtait à la canarder paisiblement.
+
+['il', 'homme', 'qui', ',', '-']	Barney	[MASK] m’accompagna jusqu’à la voiture et au moment où j’enclenchais la première, il laissa choir sur le siège avant un couteau à manche de nacre. Je levai un œil interrogateur. — Pour la route, mec, histoire de couper les cheveux en quatre.
+
+['taverne', 'cabaret', 'quartier', 'bois', 'garde']	Lily	Les autres n’étaient pas mal non plus, donnant dans la sobriété sauvage. La buvette de [MASK] leur servait de boîte aux lettres, de point de ralliement. En fait, ils ne constituaient pas une bande, mais plutôt une confrérie d’individualités qui se réunissait selon les urgences en cours.
+
+['toi', 'marie', 'jean', "c'", 'maman']	Fifi	— Ta gueule, [MASK], le coupa Monique. On n’est pas à la maternelle. Les communautés, c’était une démarche politique sans la politique. La marginalité lyrique, le retour à la simplicité des rapports essentiels.
+
+['maintenant', 'non', 'toi', 'moi', 'aussi']	Wendy	— Je savais qu’un jour il me faudrait affronter cela. Mais toi, [MASK], tu m’as menti. C’est mal. Imperceptiblement, il faisait pivoter le M16 dans ma direction. Puis il arma le fusil et l’écho de cette perturbation métallique se répercuta dans toute la montagne.
+
+['et', 'de', ',', 'à', 'le']	Pancho	Un mythomane, probablement. 20 mai Les serpents sont revenus. [MASK], qui dort au rez-de-chaussée, m’a entendu crier. Il dit qu’il peut m’aider. Il y a une maladie chez les chèvres. Nous commençons à rembourser le prêt le 1 er juin
+
+['il', '...', '</s>', 'on', ',']	Pancho	» [MASK] s’adonnait vraisemblablement à des drogues plus sévères dans sa tanière. Quant à moi, j’occupais un petit tertre rocheux que la lueur du feu n’éclairait que faiblement. Je tirai de ma chemise la lettre rédigée en anglais et entrepris sur-le-champ de la traduire.
+
+['pourquoi', 'après', 'vous', 'maintenant', 'alors']	Maria	— Et [MASK] ? — Elle commence à sortir la tête de l’eau. Elle est toujours incapable de nous donner son patronyme, ce qui signifie qu’apr��s son choc amnésique, personne n’a été en mesure de lui dire qui elle était. —
+
+['celle', 'paris', 'papa', 'banque', 'maman']	Gonzalès	Deux jours plus tard, j’abandonnai mon nid à poussière sur le coup des seize heures. Démoralisé, l’œil vitreux, je laissai choir les registres policiers, le sous-sol caverneux et la bonne amie de [MASK] qui m’avait refait de 250 francs au 421.
+
+['non', 'dieu', 'papa', 'moi', 'ça']	Mallory	Ça commençait à bien faire. — Vous ne voulez pas répondre à mes questions, c’est bien ça ? Il soupira pesamment et se frotta le visage avec sa main brunie. — Ah, bon Dieu, [MASK], ne complique pas tout. Tiens, bois un coup.
+
+['fusil', 'canon', 'shérif', 'pistolet', 'chasseur']	Manurhin	À 25 mètres, j’ai entendu l’impact de la crosse du [MASK] sur le crâne du vieillard. Nous avons ensuite brisé les carreaux d’une porte latérale et au moment où je pénétrais dans l’enceinte, une voix a hurlé derrière nous : « Ne bougez plus, charognes.
+
+['temps', 'or', 'date', 'défense', 'jour']	Wendy	— Regarde cette balle, [MASK], regarde ce magnifique objet. Question : pourquoi les combattants du Vietnam portaient-ils, fixée à leur casque, une balle de M16 ? — Je ne sais pas… en guise de gri-gri, pour conjurer le sort, peut-être
+
+['musique', 'rhétorique', 'danse', 'théâtre', 'chimie']	Davenport	Moi, en l’occurrence. Les yeux du barbu semblaient plus noirs qu’à l’habitude et son humeur était à l’unisson. Il avait revêtu une veste de treillis et actionnait le fusil-mitrailleur avec aisance. Les cours de [MASK] avaient conquis un émule attentif.
+
+['oui', 'non', 'ça', 'moi', 'dieu']	Lavrut	On s’y rend comment sur cette île ? Le gendarme saisit le récepteur téléphonique et composa sur le cadran un numéro intérieur. — [MASK], c’est moi. Dis donc, la femme du peintre, elle débarque combien de fois par semaine ? — …
+
+['il', 'et', 'elle', ',', 'qui']	Lambertin	[MASK] se rapprocha de la croisée pour éclairer le papier photo. — Non, ça ne me dit rien. Par contre, la silhouette de l’homme derrière la jeune fille me rappelle quelqu’un… — Qui ? — C’est trop flou.
+
+['paris', 'ça', 'celui-là', 'ceci', '...']	Goldorak	— Y a pas de rayon de la mort dans [MASK], répliquai-je avec assurance. Ils haussèrent les épaules, confrontés à un cas incurable. — La porte s’ouvre ! hurla un chef en civil. Nous pivotâmes de concert en direction de la porte vitrée située à l’extrême droite.
+
+['feu', 'fond', 'pot', 'cheval', 'reste']	M16	? — Je suis rentré pour regarder les écussons dans le cadre. — Tu n’as pas touché au [MASK], j’espère ? — Pas du tout. — Parfait. Un accident est vite arrivé, comme disait ma pauvre mère.
+
+['</s>', 'qui', 'il', 'on', 'ne']	Jean	Mais il n’y en a pas. Les frères Sartoni sont montés hier avec l’huissier. Maintenant qu’on a retapé les deux ruines, ils retrouvent goût à la propriété. [MASK] sait s’y prendre avec l’huissier.
+
+['napoléon', 'jacques', 'jésus', 'david', 'philippe']	Maria	J’essuyais régulièrement un savon à l’annonce des arrivées, car le cher homme était mauvais perdant. Cette caricature d’existence aurait pu se prolonger pendant des années. Mais il y eut ce samedi 15 juin, le jour où ma route croisa celle de [MASK].
+
+['il', 'et', 'nous', 'qui', 'elle']	Prisunic	En vitrine, [MASK] promettait pour cette semaine un rabais de 20 % sur les couches-culottes, 10 % sur les alcools et un tarif d’une complaisance douteuse pour le développement en 4 heures de nos photos couleur. Contrairement à toute attente, les clients bougeaient à l’intérieur du magasin.
+
+['ça', 'cela', 'bien', 'peut-être', 'pas']	Freddy	Moi aussi, j’en ai cassé une. — Vous connaissez [MASK] ? — Oui. C’est lui qui m’a prêté cette 4L. Il se décontracta soudainement. — Vous m’avez foutu la trouille. Je vous prenais pour un flic en civil.
+
+['elle', ',', 'qui', 'et', 'ina']	Maria	[MASK] s’est jetée contre moi en tremblant. Je lui ai susurré subtilement : « c’est rien, chérie, juste une égratignure ». Nous avons ri de cette stupidité pendant cinq minutes. Il est très tard, je veux dormir. Ma décision est prise : nous partirons.
+
+['moi', 'alors', 'pourquoi', 'maintenant', 'vous']	Pancho	On a fait ça sur le petit plateau, à 20 mètres de son tracteur. C’est con, la vie. — Et [MASK] ? — J’ai trouvé le cahier vers minuit. Certains voulaient écraser le coup, mais la majorité était contre les drogues dures dans la communauté.
+
+['moi', 'nous', 'toi', 'lui', 'tout']	Pierre	Elle est amnésique, expliquai-je. Il plia son double mètre et se posa sur un cageot renversé. — J’étais déjà là quand elle est partie… — Oui ? — J’aurais pu me la draguer, malgré mon âge, mais elle était avec [MASK].
+
+['</s>', '"', '_', 'lui', ')']	Pancho	Je me prenais à singer le motard, mais toute cette énergie était dépensée en vain : rien ne collait au mythe. [MASK], telle une diva, se faisait désirer, enfermé dans son sanctuaire granitique. La nuit s’empara du décor et seuls quelques méplats schisteux persistèrent sur les crêtes de la montagne.
+
+['communiste', 'celui', 'nationaliste', 'le', 'pour']	Malville	— Vous l’avez connue ? — Non, mais j’en ai entendu parler. La grande époque, le combat antiatomique, [MASK], la Fraction Armée Rouge, la punkitude et aussi le début de la fin des communautés.
+
+["jusqu'", ',', 'oreille', 'voix', "qu'"]	Pancho	Finalement, je me laissai choir sur une pierre plate, tentant vainement de me raccrocher au réel. — High Times. Wendy ! chuinta [MASK] à mon oreille. Il se détourna vivement et son attention se porta sur une forme mouvante qui virevoltait à cent mètres sur la roche.
+
+['adieu', 'oui', 'non', 'merci', 'allons']	Maria	— Connaissez-vous cette jeune femme ? Ce disant, je flanquai sous le nez de la vieille mon polaroïd récupéré à Sud-Ouest. — [MASK], mon enfant, souffla-t-elle. — Je n’ai plus de fille, petit jeune homme, s’interposa l’homme.
+
+['pierre', 'jean', 'joseph', 'martin', 'antoine']	Pierre	— Un trip mystique, siffla la brune acide. Au huitième verre, il trinque avec saint [MASK]. — Freddy, gargouilla le chauve imbibé. — Quoi, Freddy ? s’énerva la blonde qui suivait les débats d’une oreille distraite.
+
+['catherine', 'elle', 'il', 'sophie', 'marie']	Pancho	Alors mon amour Catherine et moi Décidons de faire une dernière promenade Au milieu du vacarme jusqu’à la mer Non pas pour y mourir, mais pour y renaître Loin des terres meurtries et déchirées Pour toujours, pour toujours… [MASK] rouvrit les yeux et se tourna vers moi.
+
+['elle', 'il', 'dieu', 'elle-même', 'marie']	Maria	Elle ne trouverait jamais la force de quitter ce sanctuaire comme [MASK] l’avait fait. Elle resterait. Toutes ces années vécues dans un tombeau voué à la gloire de Dieu avaient annihilé sa personnalité. C’est sur elle-même qu’elle pleurait, sur son mari et leur commun enlisement.
+
+['</s>', '-', '"', ')', '.']	Monique	. [MASK], une passionaria pure et dure, noire de poil et la poitrine plate, prit la parole : — Le déclin des communautés a commencé avec la réussite de l’Union de la Gauche et la prise de pouvoir des technocrates sur l’écologie.
+
+['boucher', 'cuisine', 'service', 'chasse', 'crime']	Barney	Carrément programmé, je plongeai la main dans ma chemise, empoignai le couteau de [MASK] et lui plantai la lame à trois reprises dans le cœur. Un gars hurlait à mes côtés. C’était vraiment horrible, un cri sauvage, de la souffrance à l’état pur.
+
+["m'", 'qui', 'il', 'lui', 'ali']	Pancho	[MASK] arriva peu après sur une BMW fatiguée. Il était boudiné dans une combinaison orange de mécanicien. Le gros garçon à la fine moustache qui m’avait tiré du trou vint à sa rencontre et lui chuchota à l’oreille. Le capitaine hocha la tête et me rejoignit.
+
+['</s>', 'elle', ',', 'on', 'et']	Maria	Hier soir, discussion orageuse ayant pour thème la prostitution. Les hommes prenaient leurs distances. Les femmes critiquaient « en sœurs ». [MASK] est intervenue en pleurant, c’était affreux. Je crois qu’ils ont compris à demi-mot et qu’on n’en parlera plus.
+
+['morphine', 'sommeil', 'sucre', 'cholestérol', 'fatigue']	Bandol	Vive la mort, ha, ha !! 2 mars Hier, j’ai dépassé ma dose de [MASK], mais je ne retire rien. Si nous sommes en communauté, c’est aussi pour lutter contre des pedzouilles du genre Sartoni.
+
+['toi', 'maintenant', 'oui', 'si', 'mais']	Dan	Il y a des témoins, ils disent tous qu’elle n’a pas bougé. On a fait le maximum, [MASK], tu sais. Elle est morte dans la nuit, hémorragie interne. J’avais déconnecté. Un glacier me serrait le cœur dans ses cristaux pourris.
+
+['alice', 'anna', 'anne', 'hélène', 'origine']	Elvis	— Merci, vous êtes sympa. — Intéressée aussi. Vous me ferez un compte rendu de vos recherches. Je lui aurais promis la lune. Je la saluai puis rentrai à la maison pour retrouver la voix d’[MASK] et mon manuscrit indien.
+
+['</s>', '"', 'qui', 'lui', 'elle']	Babar	Nous avons ensuite brisé les carreaux d’une porte latérale et au moment où je pénétrais dans l’enceinte, une voix a hurlé derrière nous : « Ne bougez plus, charognes. » Un second gardien. [MASK], côté tuyaux, n’est pas très fiable, c’est le moins que l’on puisse dire.
+
+['</s>', ',', 'une', 'toute', 'la']	Maria	D’avoir abandonné [MASK] amnésique et muette, ce n’est pas assez, de pervertir des gosses de quinze ans, c’est encore trop peu. Il te faut celle-là aussi, fumier ! Il vint vers moi très lentement. Son visage s’était affaissé et il parut soudainement épuisé.
+
+['allez', 'tiens', 'allons', 'va', 'non']	Patricia	Son regard troublé se planta dans le mien. — Quand j’pense que je l’ai refusé ! Il avait pas l’air normal. J’me suis dit : [MASK], fais gaffe à ton cul. Vaut mieux cracher sur 10 sacs que s’faire coller une boutonnière.
+
+['moi', 'dit-elle', 'peut-être', 'dit-il', 'aussi']	Mallory	— Je l’aimais, bon Dieu oui, je l’aimais… Puis il s’ébroua, projeta son verre derrière lui et accommoda sa vue à mon visage. — Je savais qu’un jour quelqu’un viendrait, [MASK]. Je m’y suis préparé.
+
+['je', 'celle-ci', 'elle', 'jadis', 'tu']	Maria	Elle croisa les bras sur sa poitrine et plongea le regard dans la vallée. Brutalement, la pensée que [MASK] s’était tenue elle aussi au petit matin, à cette même place, me submergea. Je me tétanisai.
+
+['il', ',', 'de', 'elle', 'et']	Maria	Moi je l’ai suivie, accroché à son étoile. 21 février Cette nuit, les serpents se sont glissés autour de mon cou. J’ai hurlé et [MASK] m’a fait boire deux cafés très forts. Pourquoi ai-je peur de la nuit, de m’endormir
+
+['guerre', 'folie', 'démence', 'siège', 'choses']	Maria	Il était donc fou, malfaisant et, surtout, responsable de l’état de [MASK]. Épuisé par ma course de la nuit et mes cogitations matinales, je parvins à m’endormir alors que les Yougoslaves se levaient un à un.
+
+['ça', 'là', 'juste', ',', 'comme']	Pierre	Après ça, elle est restée prostrée dans un coin et elle n’a plus jamais parlé. On a descendu [MASK] pour une veillée funèbre et le lendemain, très tôt, on l’a collé entre deux meules de foin auxquelles j’ai foutu le feu.
+
+['mr', 'la', 'm', '40', '20']	Lambertin	Je présentai à la marchande le mot d’introduction de [MASK]. — Vous rentrez un moment ? — Bien sûr, j’ai tout mon temps. Elle me précéda dans une cuisine ultra-moderne qui contrastait singulièrement avec l’apparence physique de la vieille femme.
+
+['tous', 'gauche', 'droite', 'paris', 'bord']	Valjean	Je lui ai susurré subtilement : « c’est rien, chérie, juste une égratignure ». Nous avons ri de cette stupidité pendant cinq minutes. Il est très tard, je veux dormir. Ma décision est prise : nous partirons. 8 juin Le seul sentiment commun à [MASK] c’est la désillusion.
+
+['on', 'il', 'je', 'elle', 'ça']	Pierre	— Oui, bien sûr, approuvai-je d’une voix émue. — Attends voir ; [MASK] connaissait quelqu’un dans une communauté du midi, c’est là qu’ils voulaient vivre. Le retour à la terre, les biquettes et les vieux disques du Jefferson Airplane.
+
+[',', 'maintenant', 'et', ';', 'aussi']	Wendy	— Une salope V.C., elle est pour moi [MASK], tu me couvres. Couvrir quoi, par cette chaleur ? Un pétard explosa devant mes yeux et, peu à peu, j’accommodai ma vision au relief de la roche et aux buissons qui reprenaient enfin leurs formes et leurs couleurs originelles.
+
+['"', 'ça', 'cela', 'maintenant', 'ceci']	Benito	— Je vois qui c’est. Un ancien Hell’s Angel, il est vieux maintenant. — Quel âge ? — Quarante ans, je pense. [MASK], c’est pas son vrai nom, c’est son blaze de motard. — Tu les as vus récemment avec le Professeur
+
+['scène', 'papier', 'internet', 'place', 'facebook']	Maria	Ces satanés bourrins devenaient franchement sympathiques. J’en profitai, dans la foulée, pour placer mon projet de reportage sur [MASK]. Un long papier, fruit d’occultes recherches que j’envisageais de titrer : Identification d’une aventurière.
+
+['on', 'il', 'qui', 'tu', 'un']	Freddy	[MASK] pourrait me trouver une moto. Je terminai ma gnôle, pliai mon barda et m’allongeai sur un matelas fatigué. Pour ma dernière nuit au Beausset Vieux, un orage d’une rare violence ravagea les cultures toute la nuit durant.
+
+['qui', 'dieu', 'elle', 'et', 'mère']	Maria	[MASK], avec tout son amour, ne peut rien contre les serpents. Ils sont en moi comme une maladie incurable. J’ai peur de dormir. 23 avril 22 heures. Trois coups de feu ont été tirés sur les volets du premier étage de la grande maison.
+
+['moi', 'toi', 'jamais', 'non', 'personne']	Wendy	Qui… qui êtes-vous ? bégayai-je. — J’ai souffert comme jamais tu n’as souffert, [MASK], et maintenant je règne sur cette montagne. Ce sont mes hommes qui t’ont trouvé, vois-tu. — Pas des hommes, des enfants.
+
+[',', 'elle', ')', 'qui', '-']	Maria	Ils s’y emploient de l’aube à l’aurore. Pendant ce temps, les champs tombent en friche. 18 janvier [MASK] s’est penchée vers moi la nuit dernière et m’a dévisagé longuement alors que nous étions réveillés par la faute d’un volet claqueur.
+
+['dieu', 'chacun', 'jésus', 'marie', 'personne']	Pancho	J’avais soif, mes vêtements étaient trempés de sueur et j’en vins à prier pour que [MASK] se décide à venir prendre de mes nouvelles. Une brise souffla bientôt et la hutte se balança légèrement d’avant en arrière.
+
+['de', '.', 'le', 'qui', 'il']	Maria	Pierre, [MASK]. Assis sur un muret en surplomb de la grande maison qui m’offrait à nouveau l’hospitalité, je ne pouvais m’empêcher de comparer ces deux itinéraires. Chacun dans son supermarché, un pied dans le gouffre, un pied dans la vie.
+
+['le', 'la', 'les', "l'", 'un']	Maria	De la déception pure, c’était ça le détonateur. Une vague de violence me tordait l’estomac. Je possédais maintenant un nom sur lequel déverser ma rage. L’homme qui, vraisemblablement, avait tué Pierre et cassé [MASK]. De voyeur, je devais passer comédien.
+
+['jésus', 'thérèse', 'jean', 'marie', 'jacques']	Maria	Devant celle qui m’occupait l’esprit, des gamins railleurs s’agglutinaient autour d’une starlette périphérique. Je franchis l’obstacle et pénétrai dans une cour des miracles, à l’extrémité de laquelle survivaient peut-être les parents de [MASK]. Je cognai contre la porte entrouverte, mais sans résultat.
+
+['chacun', 'elle', 'on', 'chacune', 'il']	Lucette	Prenez les tasses, on émigre à côté. Nous regagnâmes la salle de séjour et, autour des tasses fumantes, [MASK] reprit son récit. — Elle avait remarqué chez ses parents un petit tableau représentant une femme en costume espagnol, qui ressemblait à sa mère.
+
+['dit-il', 'répondit-il', 'dis-je', 'dit-elle', 'm']	Wendy	J’en étais là de mes réflexions quand la masse du capitaine Pancho se matérialisa devant moi. Il fumait une petite pipe de terre. — J’ai de grands projets pour cette montagne, [MASK]. Elle et moi, on a carrément des rapports cosmiques, des passerelles au niveau de l’hyperconscience.
+
+['</s>', 'il', 'elle', 'qui', 'ça']	Barney	— Muette ! T’es bourré ou quoi ? C’était plutôt la grande gueule, la mitrailleuse au débit meurtrier, tout le monde au tapis. Quelque chose, là. [MASK] continuait à déblatérer, mais je ne l’entendais plus.
+
+['on', 'chacun', 'il', 'qui', 'ça']	Charlie	Sur le terrain, [MASK] reculait et en prenait plein la gueule – chez nous, des sections entières ont été décimées –, mais on progressait vers le Nord. Plus personne n’imaginait ramener des prisonniers et les combats se terminaient au corps à corps.
+
+['elle', 'il', 'celui-ci', 'celle-ci', 'ulrich']	Monique	Les tuiles ocre clair d’une modeste baraque se découpaient sur le ciel sans nuage alors qu’une brise légère persistait, retardant la canicule pour une heure encore. Je m’enfilais mon Nescafé sur le pas de la porte quand [MASK] se matérialisa à mes côtés.
+
+['toi-même', 'ainsi', 'dieu', 'moi', 'toi']	Wendy	— Tu t’appelles [MASK], mon garçon, et tu cherchais dans la montagne les enfants perdus. Ils m’adorent, sais-tu ? Ils me disent capitaine, le capitaine Pancho. Ça sonne bien, non ? — Heu… oui, c’est pas mal.
+
+['on', 'il', 'jésus', 'elle', 'obama']	Maria	Ils mettent de l’argent de côté pour la naissance du gosse et [MASK] leur a fait un discours sur le thème de la solidarité. Ici, il fait très froid l’hiver. Dans la petite maison, la cheminée tire mal ; il va falloir les prendre avec nous.
+
+['elle', 'ré', 'isis', 'il', 'celle-ci']	Goldorak	La porte centrale s’ouvrit sous une nouvelle poussée et [MASK] apparut sur l’aire bétonnée. Elle était grande et ses jambes paraissaient minces sous le jean noir. Sa poitrine haut perchée était moulée dans un sweat-shirt mauve quant à son visage, il arborait l’effigie grimaçante du robot nippon.
+
+['oui', 'non', 'bon', 'bien', 'écoute']	Dan	Expédiez-moi le contrat et le fric poste restante. — Entendu. Heu, [MASK], j’ai profité de ton absence prolongée pour dépunaiser ton affiche de merde sur le fantôme, mais je te la garde au chaud, pliée bien proprement. Je soupirai, résigné.
+
+['donc', 'toi', 'pas', 'bien', 'maintenant']	Rosa	— Je lui dirai que vous pensez à elle. — Oui. Dites-lui ça. Comme je m’apprêtais à prendre congé, l’intégriste hystérique fit son apparition sur le pas de la porte. — Rentre [MASK], le malin rôde autour de nous.
+
+['chacun', 'tom', 'm', 'mrs', 'jacques']	Lucette	? — Aucune idée. Faut partir, mon grand, je suis fatiguée. Je pris congé rapidement et descendis en direction de la Promenade des Anglais qui baignait dans l’habituelle fournaise. Tout en longeant le bord de mer, je récapitulais les propos de [MASK].
+
+['formel', 'obligatoire', 'officiel', 'strict', 'simple']	Wendy	Son regard se voila brutalement. Il éteignit l’électrophone qui grésillait puis déplia ses cent kilos en courbant la tête pour éviter de percuter la voûte du front. — Ici, comme sur les Hauts Plateaux, il existe un code non écrit, [MASK] : pas de prisonniers.
+
+['</s>', '--non', '--oui', 'puis', 'oui']	Pierre	? Il souffla bruyamment puis, sans se laisser distraire de son ouvrage, laissa tomber : — Il y a une photo noire punaisée au-dessus du réchaud. [MASK], c’est le blond à l’extrême gauche. Je fis demi-tour et réintégrai le bain-marie.
+
+['joe', 'certains', 'billy', 'théo', 'johnny']	Pancho	Je méditais tout cela, étendu sur mon matelas dans la cahute, alors que le jour pointait faiblement derrière les crêtes. À ce niveau d’inconscience, ce n’était pas de la vengeance qui avait poussé [MASK] sur les routes, mais bien de l’hystérie meurtrière.
+
+['celui', "l'", 'celui-ci', 'et', 'jacques']	Pierre	Le capitaine, atterré par la disparition de son amant, perd la boule et bat la campagne pour retrouver [MASK] auquel – dans sa tête malade – il fait porter la responsabilité de la mort du noir. Je l’imaginais, le salaud pitoyable, tournant dans sa fosse et confortant sa haine.
+
+['hâte', 'va-', 'perfection', 'dernière', 'longue']	Carlsberg	Devant moi, une jeune fille très sage, plus bordelaise que nature, insérait avec un grand sérieux des missives toutes fraîches dans les cases des clients de l’hôtel. Le timbre, caréné à la [MASK], du rédacteur en chef éclata bientôt à mes oreilles.
+
+['"', ':', 'la', '...', 'm']	Maria	Mais pour moi, elle méritait mieux qu’une épitaphe convenue, elle était la femme qui avait aimé [MASK]. Elle était aussi le dernier maillon de la chaîne pouvant raccrocher la jeune femme à son passé. Il me fallait tout reprendre à zéro.
+
+['elle', 'lui', 'chacun', 'moi', 'celle-ci']	Maria	Le choix était vite fait, [MASK] représentant un poids qu’il ne pouvait assumer. Je n’ai pas eu le courage de la fiche à la porte dans son état, mais elle a compris la situation nouvelle. Un soir, elle a disparu et je n’ai plus jamais entendu parler d’elle.
+
+[',', 'étaient', 'chacun', 'assis', 'était']	Pancho	À défaut d’être miraculeuse, la pêche s’avérait intéressante : une lettre manuscrite en anglais, une coupure de presse et un cliché photographique jauni représentant [MASK] aux côtés d’un noir taillé en athlète qui lui enlaçait le cou.
+
+['on', 'il', 'et', 'elle', 'qui']	Freddy	À propos de motos, [MASK] m’avait déconseillé de jouer ce jeu-là avec eux. Mieux valait passer pour ce que j’étais : une gueule d’empeigne, fouineuse, mais inoffensive. Je m’étais donc rabattu sur une 4L cadavérique aimablement prêtée par le garagiste.
+
+['toi', 'oui', 'bien', 'ami', 'voyons']	Wendy	demandai-je, la voix peu sûre. — Voyons, [MASK], tu es notre invité ! s’insurgea le barbu. Mes hommes ne torturent pas les visiteurs. — Qui s’en charge, alors ? fis-je, d’un ton léger. Son regard se voila brutalement.
+
+["s'", 'lui', 'il', "m'", 'qui']	Pancho	Enfermé dans une sphère où seuls les cris, la mort, le choc sourd des obus paraissaient réels, [MASK] interdisait, par l’ampleur de son discours, toute intrusion extérieure à son délire. Je me levai et glissai vivement le long de l’échelle de bois.
+
+["s'", 'qui', 'elle', ',', 'femme']	Maria	[MASK] était passée par ici, mais nul ne s’en souvenait, la mémoire des hommes étant sélective. Le cinquième jour, la réceptionniste de la poste me tendit une enveloppe à mon nom. Je retournai le rectangle de papier : l’envoi était anonyme.
+
+['elle', 'lui', 'moi', 'toi', 'vous']	Maria	Eh oui, comment dire ce qui se dérobe ? Je marchais pour [MASK], pour elle je frappais aux portes. Comment expliquer la fusion d’un regard ? Car le livre était un prétexte, j’en avais conscience.
+
+['et', 'voilà', 'parce', '-', 'alors']	Rosa	— Vous voulez quelque chose, mon… — Ne lui parle pas, intima le vieillard. La pourriture monte jusqu’à nous, [MASK], les incroyants gouvernent le monde. Un fou de Dieu, manifestement. — Connaissez-vous cette jeune femme ?
+
+['</s>', 'il', 'elle', 'chacun', 'Il']	Benito	Il me fallait lui parler absolument. Au passage des deux hommes, l’un des motards présents ricana en agitant ses bracelets métalliques. [MASK] se figea, tourna la tête vers l’homme. L’intensité de son regard consuma le crétin satisfait. Un viol.
+
+['</s>', 'je', 'il', '--je', 'ça']	Barney	Le retour à la terre, les biquettes et les vieux disques du Jefferson Airplane. Tu vois la merde ! Je voyais très bien. [MASK] m’entraîna sans perdre une minute dans la piaule du père Lussot qui notait toujours les adresses futures de ses protégés.
+
+['ce', 'il', '"', ',', 'qui']	Maria	[MASK] n’est pas un flipper à deux trous. Il n’a pas aimé, mais au fond, je crois qu’il s’en moque. 4 juin Nuit horrible. Les serpents, leur longue traînée rance sur ma langue, dans mon œsophage.
+

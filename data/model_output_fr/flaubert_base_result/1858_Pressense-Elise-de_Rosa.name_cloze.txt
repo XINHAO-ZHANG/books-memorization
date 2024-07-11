@@ -1,0 +1,200 @@
+['il', 'elle', ',', 'et', 'mais']	Cécile	[MASK] ne se retourna pas. – Vous ne voulez pas me répondre ? – Vous auriez mieux fait de ne pas me faire punir et gronder. – Pouvais-je faire autrement ? – Vous n’aviez qu’à vous taire. Ce n’était pas bien difficile.
+
+['</s>', 'on', 'il', 'elle', 'qui']	Rosa	En ce moment on vint annoncer que le déjeuner, qui avait été retardé pour l’arrivée du collégien, tait servi. [MASK] refusait de se mettre à table en lléguant la tasse de lait qu’elle avait prise le matin vant de partir.
+
+['elle', 'il', 'emma', 'on', 'celle-ci']	Rosa	La curiosité excitée par l’élément romanesque que la petite fille venait d’introduire dans son histoire ne s’apaisa pas de sitôt, et [MASK] dut répéter et répéter encore tous les détails qu’elle avait donnés sur l’héroïne de son drame de récente invention et sur l’effrayante et hideuse femme qui l’accompagnait.
+
+['venez', 'monsieur', 'donc', 'vous', 'seigneur']	Rosa	– [MASK], dit-il, en lui tendant la main avec un doux sourire, venez vers moi. Me pardonnez-vous les mauvaises réponses que je vous ai souvent faites quand vous cherchiez à me faire plaisir. J’ai été très égoïste et très ingrat.
+
+['qui', ',', 'il', 'elle', "s'"]	Marthe	[MASK] était à genoux au pied du lit, le regard fixe et attaché sur celle qui, depuis plus de vingt ans, était le centre de toute sa vie. La malade avait fermé les yeux et joint les mains sur sa poitrine.
+
+['madame', 'dit-elle', 'moi', 'mademoiselle', 'heureuse']	Rosa	Elle ne prenait pas les choses si vivement, mais elle faisait du bien à tous ceux qui étaient autour d’elle. – Je voudrais être comme elle. – Pensez combien vous êtes heureuse, [MASK] ; vous êtes forte, bien portante, vous pouvez être utile, et votre vie ne sera pas perdue.
+
+['</s>', 'elle', 'il', '-', 'jeanne']	Rosa	– Je souffre, sans doute, chère enfant, mais je ne suis pas bien malheureuse, parce que je sais qu’elle est près de Dieu et que j’irai vers elle un jour. [MASK] cessa de pleurer et parut réfléchir. – Je voudrais lui ressembler, dit-elle.
+
+['il', 'elle', 'chacun', 'marie', 'jean']	Rosa	Nous ferons bon ménage ensemble et je serai toujours content, pourvu que tes yeux soient bien brillants et ton sourire bien gai. Quelques jours s’écoulèrent, jours heureux ! pendant lesquels [MASK] put réaliser son rêve, être tout pour son père et ne vivre que pour lui.
+
+['tout', 'elle', 'lui', 'elle-même', 'celui-là']	Jenny	Elle se sentit si heureuse qu’elle eût volontiers serré dans ses bras le monde entier. Elle se contenta cependant d’embrasser [MASK], qui n’avait pas souvent senti sur ses joues pâles le contact de lèvres si roses et si fraîches.
+
+['ceci', '...', ';', ':', '</s>']	Alfred	dit-elle avec un soupir de satisfaction. – C’est suivant les goûts, dit [MASK] ; pour ma part, j’aimerais tout autant que ce brûlant soleil ne pénétrât pas si splendidement par ces croisées. – Ah ! ce n’est pas de cela que je veux parler
+
+['elle', 'lui', 'plaisir', 'soin', 'empressement']	Marthe	Au milieu de sa joie quelque chose de triste lui vint au cœur, et il se serra. Elle se souvint qu’elle avait vu se flétrir cette parure de la campagne qui la rendait si belle quand elle la parcourait avec [MASK] pour faire ses premières visites à la ville.
+
+['elle', 'il', 'jeanne', ',', 'henri']	Marthe	Elle s’approcha du lit, les yeux encore tout aveuglés de sommeil, et cherchant à se rappeler pourquoi elle ne dormait pas dans le sien comme de coutume. – Elle me parle et je ne puis la comprendre, lui dit [MASK] d’un air désespéré.
+
+['tom', 'maman', 'harry', 'alice', 'robert']	Rosa	; il peut certainement guérir votre papa. – Mais, reprit [MASK] d’un air inquiet, je ne pense pas que papa soit très malade. Il est fatigué de son voyage, et puis il a eu beaucoup de chagrin là-bas.
+
+['oui', 'madame', 'maman', 'monsieur', 'moi']	Catherine	– C’est vrai, [MASK], mais il n’y a pas de ma faute. Je serais venue plus tôt si je l’avais pu. Je vous apporte de l’ouvrage, deux paires de bas à faire. Voici le coton et le modèle. –
+
+['henriette', 'juliette', 'marguerite', 'jeanne', 'madeleine']	Marthe	! tu n’as donc pas même des yeux ? Tu es donc une idiote ! – Hé ! hé ! doucement, Mademoiselle ! dit [MASK], qui entrait dans la chambre attirée par le bruit. Il me semble que vous êtes bien pressée d’enseigner les autres.
+
+['il', 'elle', 'on', 'jeanne', 'julien']	Marthe	C’était un silence si complet que, sans la respiration douce et égale qui entr’ouvrait les lèvres de la petite dormeuse, on eût pu le prendre pour celui de la mort. Tout à coup, un peu après minuit, [MASK] crut voir remuer sa maîtresse.
+
+['il', 'elle', 'on', 'celui-ci', 'madeleine']	Marthe	? [MASK] tressaillit en voyant que c’était là le sujet des préoccupations de l’enfant. – Le bon Dieu fait ce qu’il veut, répondit-elle après un moment de silence ; il peut certainement guérir votre papa.
+
+['elle', 'ée', 'èle', 'mère', 'is']	Cécile	[MASK] n’était point encore assez humiliée pour vouloir lui laisser lire ce qui se passait en elle. Elle cacha sa tête sous ses couvertures et feignit de dormir jusqu’au moment où elle pensa que les traces de ses larmes étaient bien effacées.
+
+['toi', 'dit-il', 'maintenant', 'imbécile', 'dit-elle']	Paul	– Oui, maman, et le petit garçon a l’air d’un sauvage ; mais l’homme a l’air d’un brigand. Il m’aurait fait peur, s’il n’avait pas paru si malheureux. – Tais-toi donc, [MASK], tu embrouilles tout.
+
+['(', 'un', 'à', 'de', 'que']	Alfred	? Et elle fondit en larmes ; car, agitée comme elle l’était encore par tout ce qui s’était passé depuis vingt-quatre heures, ses impressions, toujours si vives, ne trouvaient pas d’autre moyen de s’exprimer. – Voulez-vous m’embrasser ? demanda [MASK]
+
+['jacques', 'maurice', 'paul', 'alice', 'jean']	Marthe	Est-ce que je ne puis pas tout faire pour l’amour de papa, dites ? Est-ce que vous croyez que je ne suis pas capable de tout pour lui ? – Oui, même de le réveiller, dit [MASK].
+
+['il', 'elle', 'on', "c'", 'horace']	Ernest	Il y a du plaisir à leur raconter un trait de courage ! Elles plaignent le méchant et le lâche. – Ah ! c’est seulement parce qu’il a eu les dents cassées ; mais je trouve qu’[MASK] était très courageux de prendre ainsi le parti du pauvre petit.
+
+['"', '</s>', '--non', '...', '-']	Alfred	? – Oh ! [MASK], je n’ai rien à vous pardonner. Mais pourquoi voulez-vous nous quitter ? restez encore un peu de temps avec nous. – Vous ne voudriez pas m’empêcher d’être heureux ? C’est si beau là-haut.
+
+['chacun', 'table', 'midi', 'monsieur', 'madame']	Rosa	– Il faut d’abord que nous passions chez l’épicier où j’ai une commande à faire, puis nous ferons quelques emplettes. Dans la boutique de L’épicier une grosse dame, dont la figure haute en couleurs brillait comme un soleil derrière le comptoir, offrit gracieusement à [MASK] quelques dragées.
+
+['lui', 'marie', 'celle-ci', 'nouveau', 'celui-ci']	Rosa	Cependant elle s’approcha de [MASK] et lui dit de sa voix mielleuse qu’elle serait charmée de la recevoir chez elle ; puis se tournant vers la vieille femme au mouchoir rouge : – Vous pouvez être tranquille, lui dit-elle, elle sera bien soignée.
+
+['...', 'vous', ':', 'm', 'la']	Jésus	– Ne vous a-t-on jamais parlé, lui dit-elle, de Celui qui pardonne tous les péchés, qui console tous les affligés et qui dit à tous ceux que les hommes repoussent : « Venez à moi ? » N’avez – vous jamais entendu prononcer le nom de [MASK]
+
+['entre', "qu'", 'à', ',', 'qui']	Rosa	Elle se contenta de faire un signe d’assentiment comme si son cœur eût été trop fatigué d’impressions pour qu’une peine nouvelle pût l’atteindre. Maintenant, chère enfant, laisse-moi, j’ai à travailler, dit son père. [MASK] obéit aussitôt et s’éloigna à pas lents
+
+['henriette', 'geneviève', 'madame', 'maurice', 'celle-ci']	Alfred	elle voyait que sans le vouloir et sans qu’elle pût comprendre comment cela s’était fait, elle avait irrité [MASK], et cela lui causait un vrai chagrin. Elle ne connaissait pas encore le point sensible du pauvre enfant : un amour-propre très chatouilleux qui mettait dans sa disgrâce une double dose d’amertume.
+
+['...', 'qui', 'personne', '</s>', ':']	Mariette	Pour commencer, il me semble que [MASK] s’est distinguée dans la confection de ces tartes. Vive la maison de ma tante ! ce n’est que là qu’on sait ce que c’est qu’un déjeuner de fête. – Est-ce que vous n’avez jamais de tartes à la pension
+
+['il', 'elle', 'je', 'on', '</s>']	Rosa	pour que tu ne gardes pas un trop mauvais souvenir de ta première leçon, je veux te donner quelque chose. [MASK] fouilla dans son tiroir et y trouva une gravure coloriée, qui fit briller les yeux de la petite sauvage, peu accoutumée aux bagatelles de ce genre.
+
+['monsieur', 'madame', 'moi', 'docteur', 'mademoiselle']	Marthe	– Et qu’allez-vous faire, Madame ? – Je ne sais vraiment pas. Que me conseillez-vous, [MASK] ? demanda la vieille dame en levant les yeux d’un air un peu inquiet. – Il me semble que c’est bien simple.
+
+['qui', 'elle', 'et', ',', ';']	Germaine	[MASK] marchait un peu en arrière ; sortant le panier qui contenait du sucre et un pâté, les yeux baissés et la figure aussi triste que si elle se fût trouvée à la suite d’un enterrement au lieu d’être d’une partie de plaisir.
+
+['un', 'hommes', 'autres', 'enfants', 'eux']	Alfred	C’étaient pourtant de belles gravures qui l’auraient fort amusée en tout autre moment, mais elle était trop préoccupée de la présence d’[MASK], et surtout de son silence obstiné, pour trouver quelque plaisir à les regarder.
+
+['celui', 'celle', 'julien', 'marie', 'jacques']	Rosa	Vous aurez des robes plus belles que celles de toutes vos amies. – Qu’est-ce que cela me fait, s’il me faut quitter papa maintenant ! s’écria [MASK] qui avait écouté ce discours avec un mélange d’impatience et d’étonnement.
+
+['elle', 'il', 'je', 'on', 'maman']	Cécile	– Pourquoi avez-vous l’air triste ? lui demanda-t-elle tout à coup. Maman n’est pas fâchée contre vous. Au contraire, je suis sûre qu’elle vous aime mieux qu’avant. – Mais [MASK] m’en veut.
+
+['monsieur', 'moi', 'maintenant', 'madame', 'croyez-moi']	Marthe	Je sais bien que les enfants sont des enfants, et qu’il ne faut pas leur demander ce qu’ils ne peuvent pas donner. Ils oublient vite ; heureusement pour eux, peut-être. – Mais, [MASK], je vous assure que je n’ai pas oublié.
+
+['docteur', 'vous', 'monsieur', 'là', 'vieux']	Cécile	– Comment êtes-vous, [MASK] ? Comme vous avez l’air malade ! – Je ne suis plus malade, mais faible seulement, si faible que je ne puis qu’avec peine me tourner dans mon lit. J’ai faim, j’ai si faim, et on ne me permet pas de manger.
+
+['celui', 'lui', 'celle', 'elle', 'jésus']	Jenny	en s’élançant vers [MASK] dont elle prit doucement la main, ayant bien soin cette fois de ne porter aucun préjudice à la dentelle. Si vous saviez comme je suis malheureuse de ce que j’ai fait ! Pardonnez-moi, je vous en prie.
+
+['famille', 'père', 'paul', 'pierre', 'joseph']	Rosa	L’argent qui reste suffira tout au lus pour acheter les outils du père et quelques provisions pour commencer le ménage ; c’est donc nous à les habiller. La figure de [MASK] s’allongea indéfiniment. – Je n’ai point d’argent, dit-elle tristement.
+
+['</s>', '"', '...', '_', ')']	Marthe	Elle regarda sa tante, qui était retombée dans son assoupissement habituel et sortit doucement de la chambre. [MASK], qui venait de quitter la maison, lui avait bien souvent défendu d’ouvrir la porte à qui que ce fût quand elle n’était pas là ;
+
+['elle', 'marguerite', 'valentine', 'jeanne', 'catherine']	Marthe	– Oh ! ne vous en allez pas sans m’avoir pardonné. Je suis si fâchée de vous donner tant de peine ! – A la bonne heure, dit [MASK] en revenant sur ses pas pour l’embrasser, je pensais bien que vous ne me laisseriez pas partir comme cela.
+
+['</s>', 'je', 'elle', 'personne', '--je']	Rosa	Point de conversations, point d’épanchements. C’est à présent que je vais savoir si vous l’aimez assez pour être une bonne garde-malade. [MASK] n’osait en croire les paroles qu’elle venait d’entendre. – Plus de danger ! plus de danger !
+
+['</s>', '--je', '--il', '--', '--non']	Germaine	Et quand même on vous mépriserait, ne vous suffirait-il pas d’avoir l’estime de ceux qui vous connaissent et l’approbation de Dieu ? [MASK] ne répondit pas, mais un rayon d’un sentiment nouveau de dignité et d’espoir brilla sur son visage.
+
+['elle', ',', 'et', 'elle-même', 'mais']	Rosa	[MASK] ne le devina pas, car elle ne connaissait encore ni son propre cœur ni celui des autres, et d’ailleurs comme elle ne voyait rien dans un semblable malheur qui pût prêter à rire, l’idée lui fût difficilement venue qu’on pût la soupçonner de moquerie.
+
+['jean', 'jacques', 'harry', 'jeanne', 'maurice']	Rosa	Eh bien, le bon Dieu punit ceux qui font mal et il récompense ceux qui font bien. Ce n’est pas bien malin, à ce qu’il me semble ; – Non…, dit [MASK] d’un air de doute ; mais… – Eh bien, quoi !
+
+['lui', 'dragon', 'eux', 'cela', 'moi']	Jehan	Le dragon était immobile à son poste, mais ses yeux étaient plus sanglants que de coutume, et sa gueule lançait des tourbillons plus épais de flamme et de fumée. Depuis lors on n’entendit plus parler de [MASK].
+
+['le', 'la', "l'", 'madame', 'sa']	Marthe	– Eh bien, Madame, reprenait [MASK], qui sentait une nuance de tristesse dans l’accent de sa maîtresse, les choses sont bien comme elles sont. Ce n’est pas moi qui regretterai le tracas des visites et des dîners de cérémonie.
+
+['</s>', '-', '"', '...', '!']	Cécile	! [MASK], n’en as-tu pas honte ? – Si peu de chose ! C’est bien vite dit, mon frère. – Quelques points à défaire et à refaire, une étourderie à réparer ; voilà tout. – Oui, si c’était tout.
+
+['dit-il', 'dit-elle', 'dis-je', 'et', 'tout']	Ernest	– Une tasse de lait ! qu’est-ce que c’est que cela ? lit [MASK] en lui en servant une de chocolat. C’est e qu’on nous donne en pension, et cela nous empêche tout juste de mourir de faim.
+
+['elle', 'marie', 'jeanne', 'madeleine', 'marthe']	Rosa	La journée s’écoula doucement, et quand, le soir, [MASK] se retrouva seule avec son père, elle se sentit si profondément heureuse qu’elle appuya sa tête sur son épaule et pleura. – Ce ne sont pas des larmes de tristesse, n’est-ce pas
+
+['lui', 'moi', 'la', 'son', 'dieu']	Marthe	Il faut l’avouer, les idées ne lui manquaient pas, et les projets abondaient toujours dans sa petite tête ; nais celui-ci réunissait tous les avantages. Il était bon, il était utile, il était charmant ; et, dans la chaleur de son enthousiasme, elle courut en faire part à [MASK].
+
+['elle', '</s>', 'marie', 'et', 'jeanne']	Marthe	! Miséricorde ! quels cris ! Mais malgré tant de raisons de redouter ce qu’il y avait de pire, [MASK] n’était point préparée au spectacle qui s’offrit à ses regards. Une poule sanglante étendue sur la terre, entourée des débris de ses ailes mutilées ;
+
+['les', 'par', 'et', '"', 'des']	Rosa	Il accepta, et lui tendit un livre qui se trouvait sur la table près de lui. La petite fille lut quelques page, mais en faisant de visibles efforts pour raffermir sa voix qui tremblait. Tout à coup elle s’arrêta et fondit en larmes. – Qu’avez-vous, [MASK]
+
+['le', 'la', 'l', 'vous', 'moi']	Lydie	Vraiment, ce n’est pas une société convenable pour vous. – Est-ce une raison pour ne pas s’occuper d’elle, si elle est mal élevée ? Je suis bien sûre qu’elle ne sera pas plus grognon et plus entêtée que [MASK] ?
+
+['monsieur', '-', 'madame', 'etc', '</s>']	Marthe	– Que faut-il que je fasse, [MASK] ? – Rien. Que voulez-vous faire ? vous n’avez pas d’argent, n’est-ce pas ? – Non. Oh ! si j’avais encore celui que papa me donnait autrefois pour acheter des bonbons. –
+
+['tenez', 'donc', 'monsieur', 'bien', 'madame']	Rosa	On me l’a toujours dit. Si je n’étais pas là, personne n’en serait moins heureux aussi ; je pense souvent que je voudrais tomber malade et mourir. Tenez, [MASK], le docteur disait aujourd’hui que la fièvre typhoïde régnait dans la ville.
+
+['</s>', 'il', '--il', '"', '-']	Ernest	Le beau temps des vacances était passé. [MASK] avait, repris le chemin de la pension, emportant avec lui une bonne moitié de l’animation et de la – gaieté de la maison. Octobre même avait fui, faisant place au terne et humide novembre.
+
+['</s>', 'il', 'elle', 'on', 'cela']	Rosa	Mais ce n’était que le premier pas, et bien qu’on dise souvent que c’est celui-là seul qui coûte, le plus difficile restait encore à faire. [MASK] ne se laissa point décourager par les obstacles.
+
+['maman', 'jean', 'jacques', 'henriette', 'papa']	Rosa	Ta bonne, à elle seule, serait pour moi un surcroît de dépenses que je ne puis me permettre. – Mais je me passerai de ma bonne, dit résolûment [MASK] ; je vous assure, papa, que je le puis.
+
+['...', 's', 'dieu', 'qui', 'jésus']	Rosa	A peine était-elle entrée qu’on l’entoura, les uns la tirant par sa robe, les autres l’accablant de questions. – Maman, ma tante, racontez-nous ce qui est arrivé ? Qui avez-vous vu ? La tante de [MASK] est-elle vraiment bien malade
+
+['elle', 'et', 'qui', 'celle-ci', 'valentine']	Rosa	Dans l’élan de sa générosité irréfléchie, [MASK] monta en courant l’escalier, et courut à sa chambre où elle fit précipitamment un paquet de ses meilleures chaussures, d’une jolie robe de mousseline de laine et de plusieurs autres objets qu’elle se donna à peine le temps de choisir.
+
+['chacun', '</s>', 'le', 'm', '"']	Ernest	Elle lui dit qu’elle n’avait point abandonne les jeunes promeneurs à eux-mêmes, ce qu’elle n’aurait pu faire sans une extrême inquiétude, malgré la dose de sagesse et de prudence que s’attribuait généreusement [MASK] ;
+
+['</s>', '"', '-', 'il', '_']	Rosa	Non, ils n’y sont pas. C’est bien singulier tout de même. Il est impossible que personne soit entré dans la maison. Il n’y avait plus moyen de garder le silence. [MASK] s’approcha résolûment, mais aussi blanche que sa collerette. –
+
+['celui-ci', 'il', 'elle', 'lui', 't-il']	Marthe	Ces détails, qui ne l’avaient pas frappée au premier abord, lui revenaient à l’esprit. – Pourvu quelles n’aient pas pris encore autre chose ! dit [MASK], en jetant un regard inquiet tout autour d’elle. Eh bien ! qu’est-ce que je disais ?
+
+['il', 'on', ',', 'lui-même', 'qui']	Ernest	[MASK] ne partageait point l’admiration de son frère pour ses hauts faits de la veille, et il riait de tout son cœur de l’idée qu’on voulait faire de lui un héros pour avoir plongé dans un verre d’eau ; comme il disait, et y avoir repêché sa cousine.
+
+['tout', ',', 'et', 'ou', '-']	Marthe	Il lui sembla que la malade disait : – Parlez-moi de lui… Répétez ce qu’il a dit. – Est-ce du médecin que vous voulez parler ? demanda [MASK] en élevant la voix pour se faire mieux entendre ; il a dit que vous seriez mieux demain
+
+['elle', 'il', 'et', 'marie', 'alice']	Rosa	Une après-midi qu’il faisait particulièrement sombre et que la pluie fouettait les vitres, chassée par les rafales d’un vent impétueux, [MASK] trouva que son heure de travail tournait à l’éternité. Elle avait beau regarder la pendule, l’aiguille s’obstinait à ne pas avancer.
+
+['</s>', 'il', 'on', 'elle', 'cela']	Marthe	puis, il faut le dire, certaines douleurs que sa chute lui avait laissées dans tous les membres, faisaient de sa tranquillité un mérite moins volontaire qu’on n’aurait pu le croire. [MASK] lui fournit quelques amusements de circonstance, comme d’éplucher son légume et des amandes pour un gâteau.
+
+['elle', ';', ',', 'qui', ':']	Rosa	[MASK] approcha de la cheminée un grand fauteuil, s’y assit pour voir comment on s’y trouvait et sauta de joie en pensant qu’elle y verrait bientôt son père ; puis elle sortit en courant pour visiter le jardin.
+
+['"', '-', 'seigneur', 'moi', 'etc']	Cécile	Voulez-vous m’aimer à cause de lui et m’aider à devenir meilleure ? – Je vous aime à cause de lui et pour vous-même, [MASK]. Nous nous aiderons l’une l’autre, car j’ai bien besoin qu’on m’aide aussi à ne plus être si légère.
+
+['</s>', 'elle', 'on', 'et', '-']	Rosa	Mais mes beaux couverts ! De peur que la leçon ne fût pas assez forte, on eut recours à la punition habituelle. [MASK] fut mise au lit sur l’heure, et eut tout le temps de réfléchir à la faute qu’elle avait faite.
+
+['vous', 'moi', 'toi', 'elle', 'lui']	Cécile	? Oh ! quelle belle gravure ! Qu’est-ce qu’elle représente ? – C’est Jésus bénissant les enfants. N’en avez-vous jamais vu de semblable ? – Non, jamais. Elle est aussi à [MASK] ? – Elle est à elle maintenant.
+
+['celle-ci', "d'", 'marthe', 'cécile', 'julie']	Rosa	elle rêva qu’elle avait une petite élève, mais chaque fois qu’elle voulait lui montrer une lettre, la lettre prenait des formes si bizarres que [MASK] elle-même ne pouvait plus la reconnaître, et à sa grande mortification, l’écolière riait et semblait ravie de l’embarras où se trouvait la maîtresse.
+
+['elle', 'en', 'mère', 'âme', 'qui']	Rosa	[MASK] était plus consternée encore qu’affligée. – Quoi ! c’est la mort, dit-elle, je croyais que c’était bien plus terrible de mourir. J’aurais eu si peur cette nuit si l’on m’avait dit que ma tante serait morte ce matin.
+
+['</s>', 'un', 'une', 'le', 'la']	Rosa	Et reprenant son parapluie, elle s’en alla seule braver le déluge qui avait déjà rendu les chemins presque impraticables. [MASK] debout près de la croisée la suivit des yeux, et quand elle se retourna la jeune fille qu’elle avait entrevue la veille était à côté d’elle.
+
+['edward', 'ulrich', 'angélique', 'isaac', 'henri']	Alfred	propre. Elle se leva, s’approcha du canapé, et prenant doucement une des mains d’[MASK] dans les siennes, elle lui dit : – Elle ne peut plus revenir, mais vous irez une fois vers elle.
+
+['il', 'et', 'ce', 'maintenant', ',']	Rosa	– Je le méritais, car j’avais entendu ma mère m’appeler bien des fois sans vouloir répondre, et ce ne fut que l’odeur des choux au lard qu’elle cuisait pour le dîner qui me fit descendre de ma cachette. De ce moment, [MASK] ne prêta plus qu’une attention distraite à la conversation
+
+['elle', '</s>', 'il', 'madeleine', '--il']	Rosa	Sa grand’mère m’a dit bien souvent qu’elle ne savait pas ce qu’elle serait devenue sans elle. [MASK] ne répondit pas, mais sa figure prit une expression sérieuse. Elle ne regarda, le long du chemin, ni les haies d’aubépine, ni les prés en fleurs.
+
+['il', 'elle', 'on', 'celui-ci', 'jean']	Rosa	c’est un grand pas dans la vie. Nous savons tous que l’on meurt, mais nous ne le croyons bien que lorsque nous avons vu le sceau de la mort sur un visage aimé. Lorsque [MASK] revint avec le vieux jardinier et sa femme, la garde était arrivée.
+
+['il', 'on', 'elle', 'personne', 'qui']	Rosa	Mais nous sommes en vacances, et je me suis fait serment de ne rien apprendre pendant ces deux mois. Tu ne voudrais pas me faire manquer à ma parole. – [MASK] n’a encore rien dit. Qu’avez-vous à nous proposer, petite ?
+
+['voyez-vous', 'justement', 'tenez', 'vois-tu', 'bon']	Virginie	– Peut-être que ma tante m’aimera. – Oh ! comptez-y sur l’affection de ces vieilles momies qui sèchent depuis quarante ans dans leur égoïsme. Ne me parlez pas de ces gens-là. – Mais, [MASK], papa dit que sa tante est très bonne.
+
+['monsieur', 'madame', 'mademoiselle', 'docteur', 'moi']	Rosa	? demanda-t-elle d’un ton qu’elle s’efforçait de rendre calme. – Rien qui doive vous effrayer, Madame. Comment pouvez-vous raconter les choses d’une pareille manière, [MASK] ? On dirait vraiment que vous prenez plaisir à tourmenter votre tante.
+
+['robert', 'jacques', 'john', 'catherine', 'alice']	Jehan	Tu ne nous dis rien ce soir. Te serait-il arrivé quelque chose de fâcheux ? – Non, mère, répondit [MASK], mais notre vallée est étroite, et cela me semble dur d’y rester toujours. La mère secoua la tête et dit d’une voix lente :
+
+['et', 'il', 'elle', ',', 'qui']	Marthe	[MASK] ne répondit que par un sanglot. – Je ne voulais pas pleurer ainsi près d’elle, reprit-elle quand elle se fut un peu calmée ; elle est si paisible, il me semble que je pourrais la troubler.
+
+['chacun', 'lui', 'henry', 'harry', 'charles']	Rosa	Mais elle crut plus prudent de se montrer sévère, et ordonnant à [MASK] de s’asseoir sur son tabouret vis-à-vis d’elle, elle lui doubla sa tâche de tapisserie pour lui apprendre à ne pas la quitter une autre fois.
+
+['elle', 'me', 'en', 'lui', 'qui']	Rosa	[MASK] parut contrariée, puis un peu embarrassée. Enfin elle prit courage et demanda si elle ne pourrait pas rester pour soigner sa tante. – Chère enfant, vous êtes bien jeune pour soigner une maladie aussi grave. Vous savez qu’il ne faut ni bruit ni mouvement autour de votre tante.
+
+['jane', 'jeanne', 'sophie', 'holmes', 'celui-ci']	Rosa	Jamais le regard de [MASK] n’avait interrogé celui du médecin avec une plus poignante anxiété qu’il ne le fit ce matin-là, pendant que le docteur tenait dans ses mains la main moite et sans force de son patient. Mais elle n’y put rien lire.
+
+['</s>', '-', 'qui', 'et', '_']	Rosa	; de même, certains moments de la vie apprennent à ceux qui les traversent à connaître le secret de leur propre cœur, et leur révèlent leur force ou leur faiblesse. [MASK] ne perdit pas cette heure précieuse en stériles rêveries ou en découragement inutile ;
+
+['eugénie', 'valentine', 'sophie', 'rodolphe', 'alice']	Marthe	Il y eut un moment de silence. – Cette petite fille, dit enfin [MASK], a déjà treize ans, quoiqu’elle ne soit pas de beaucoup plus grande que vous. Voilà plus de trois ans qu’elle soutient, par son travail, sa pauvre grand’mère aveugle.
+
+['</s>', 'elle', 'marie', 'jeanne', 'thérèse']	Cécile	Elle était pour ses enfants une seconde conscience, plus délicate que l’autre, et qui ne se laissait jamais gagner par aucun raisonnement subtil. Un regard attristé de leur mère suffisait pour les faire rentrer en eux-mêmes. [MASK] seule savait se soustraire à cette douce influence.
+
+['marguerite', 'jacques', 'paul', 'bussy', 'madame']	Rosa	– Non, dit [MASK], mais racontez-moi votre histoire. – Eh bien ! la voici : Vous savez que dans toutes les pensions les grands profitent de leur force pour vexer et tyranniser les petits ? – Oui, je l’ai vu dans les livres.
+
+['</s>', 'elle', "c'", 'celle-ci', 'il']	Cécile	Elles soulevaient eu marchant les feuilles sèches qui jonchaient la terre autour des arbres dépouillés. [MASK] était en veine d’abandon, et, comme cela lui arrivait toujours dès qu’elle ouvrait un peu son cœur, elle se plaignit de tout le monde et du peu d’affection dont elle était l’objet.
+
+['marie', 'celle-ci', 'sara', 'marguerite', 'suzanne']	Marthe	La petite fille regardait [MASK] avec inquiétude, car quelque chose lui disait que celle-ci n’était pas contente. Cependant elle remercia poliment la marchande, et l’on sortit de la boutique, non sans que quelques paroles flatteuses eussent encore atteint ses oreilles.
+
+['peut-être', 'monsieur', 'un', 'vous', 'madame']	Rosa	restez encore un peu de temps avec nous. – Vous ne voudriez pas m’empêcher d’être heureux ? C’est si beau là-haut. Vous y viendrez un jour, [MASK]. Il faut aimer Dieu de tout votre cœur et votre prochain comme vous-même.
+
+['catherine', 'elle', 'alice', 'robert', 'henri']	Rosa	Cela m’ennuie. Dites-moi combien de temps j’ai été malade. – Je ne sais pas bien, dit [MASK], laissez-moi comper. Il me semble que vous êtes tombée malade au milieu de novembre, et nous sommes maintenant out près de Noël ;
+
+['elle-même', 'elle', 'un', 'eux', 'aimer']	Alfred	ma tante nous aime tous ; elle est comme une mère pour nous trois. – Non pas pour moi. Elle n’aime qu’[MASK], et pour lui, je crois qu’elle oublierait ses propres enfants. Mais moi, je compte pour rien dans cette maison.
+
+['elle', 'catherine', 'robert', 'celui-ci', 'celle-ci']	Rosa	– Connaissez-vous quelqu’un à la ville ? demanda la brave femme avant de remettre son cheval en mouvement. – Non, répondit [MASK], mais je suis allée une fois dans un magasin avec ma bonne. Je crois bien que je pourrais le retrouver.
+
+['tous', 'marie', 'thérèse', 'dieu', 'joseph']	Rosa	Et elle se remit à l’œuvre plus activement et plus gaiement qu’elle ne l’avait encore fait. La sollicitude de son frère et l’attention de [MASK] avaient versé du baume sur son cœur si habituellement contracté par des sentiments pénibles.
+
+['isolement', 'attente', 'hôpital', 'étude', 'observation']	Alfred	– Laissez-moi, je veux être seule. Lorsque, la veille au matin, le médecin était entré dans la chambre d’[MASK], il avait été frappé du changement qu’une nuit avait opéré dans l’état du jeune malade. La fièvre était tombée avec une rapidité étonnante.
+
+['elle', 'auparavant', 'autrefois', 'elle-même', 'avant']	Aline	Cette femme demanda et obtint de sa maîtresse la permission de la faire venir sous prétexte de l’aider. Cette jeune fille, un peu plus âgée qu’[MASK], avait une figure repoussante par une expression d’ennui, de mécontement et d’orgueil qui ne la quittait jamais.
+

@@ -1,0 +1,200 @@
+['Monsieur', 'Jean', 'Pierre', 'Joseph', 'François']	Jean	[MASK], mon domestique, avait un chardonneret dans une cage suspendue à la fenêtre de l’office. Je l’ai envoyé faire une course, et j’ai pris le petit oiseau dans ma main, dans ma main où je sentais battre son cœur. Il avait chaud.
+
+['Maintenant', 'Papa', 'Maman', 'Toi', 'Alors']	Georges	Tout à coup, une voix de femme jeta en lui un de ces frissons qui font tressaillir les moelles.Elle avait dit, cette voix : « [MASK], tu vas découper le poulet. »Et une autre voix répondit : « Oui, maman. »
+
+['Il', 'Charles', 'Louis', 'Joseph', 'Eugène']	Paul	Dès qu’ils furent entrés dans un cabinet meublé de quatre fauteuils et d’un large canapé de velours rouge, le maître d’hôtel, en habit noir, entra et présenta la carte. [MASK] la tendit à sa femme.– Qu’est-ce que tu veux manger ?
+
+['oui', 'non', 'oh', 'merci', 'pardon']	Marguerite	– Quand on est à jeun, on a faim, et quand on a faim, on se décide à manger des choses qu’on n’aimerait point à un autre moment. Je suis le plat… négligé jadis que vous ne seriez pas fâché de vous mettre sous la dent… ce soir.– Oh ! [MASK] !
+
+['Il', 'Lui', 'Pierre', 'Elle', 'Thomas']	Kerderen	[MASK] ne comprenait pas, mais il soupçonnait vaguement quelque chose, sans deviner ce que ça pouvait être.Ils ne dirent pas un mot jusqu’à leur place habituelle, dont ils avaient usé l’herbe à force de s’asseoir au même endroit ; et ils déjeunèrent lentement.
+
+['il', 'Jésus', 'lui', 'chacun', 'Jean']	Belhomme	Il jappait, hurlait, piaulait, aboyait. Et tout le monde se mit à rire dans la voiture, même l’instituteur qui ne riait jamais.Cependant, comme [MASK] paraissait fâché qu’on se moquât de lui, le curé détourna la conversation
+
+['Elle', 'elle', 'Il', 'il', 'et']	Limousin	– Eh bien ! je vous somme aujourd’hui de me dire lequel de nous est le père de ce jeune homme : lui ou moi ; votre mari ou votre amant. Allons, allons, dites ![MASK] se jeta sur lui.
+
+['elle', 'Marie', 'Jeanne', 'maman', 'Madeleine']	Julie	Huit heures sonnèrent ; la porte se rouvrit et [MASK] reparut. Elle n’avait plus son air exaspéré, mais un air de résolution méchante et froide, plus redoutable encore.– Monsieur, dit-elle, j’ai servi votre maman jusqu’à son dernier jour, je vous ai élevé
+
+['Il', 'On', 'Elle', 'Chacun', 'Lui']	Picot	Il raconta d’abord toute l’histoire du sourd et celle de son mariage ; puis, quand il en vint au crime, il interrogea lui-même l’assassin.Toute l’assistance était silencieuse.[MASK] prononçait avec lenteur : « Savais-tu qu’elle te trompait ? »
+
+['Je', 'Vous', 'Il', 'On', 'Nous']	Calypso	(Elle jette un regard désespéré vers le Christ douloureux et tordu sur sa croix, puis elle se lève et s’en va, à petits pas, avec des hoquets de chagrin, cachant sa figure dans son mouchoir.)Le juge de paix se tourne vers son greffier, et, d’une voix goguenarde. – [MASK] ne
+
+['On', 'Il', 'Elle', 'Jésus', 'Pasteur']	Caniveau	; puis on le coucha sur la table de cuisine pour recommencer l’opération. [MASK] conseillait toujours de mêler de l’eau-de-vie à l’eau, afin de griser et d’endormir la bête, de la tuer peut-être. Mais le curé préféra du vinaigre.
+
+['toi', 'vous', 'Dieu', 'lui', 'moi']	Simon	:– Écoute, chérie, jure-moi de ne jamais répéter ce que je vais t’avouer !– Je te le jure.– Sur ton salut éternel ?– Sur mon salut éternel.– Eh bien ! je viens de me venger de [MASK].L’autre s’écria :
+
+['Il', 'Chacun', 'Un', 'On', 'Lui']	Musset	je ne rencontre jamais personne, je ne trouve jamais une autre main dans ce noir qui m’entoure. Me comprends-tu ?Quelques hommes ont parfois deviné cette souffrance atroce.[MASK] s’est écrié :Qui vient ? Qui m’appelle ? Personne.Je suis seul.
+
+['–', '</s>NOTUSED', '?', '—', '[...]']	Julie.–	– Oui, je l’ai renvoyée parce qu’elle avait été insolente… et qu’elle… qu’elle a maltraité l’enfant.– Julie ?– Oui… [MASK] À propos de quoi a-t-elle été insolente ?– À propos de toi.– À propos de moi ?
+
+['Il', 'Pierre', 'Chacun', 'Jean', 'Paul']	Jean	Puis ils s’engagèrent sur le pont, et, comme chaque dimanche, ils s’arrêtèrent au milieu, afin de regarder couler l’eau quelques instants.[MASK] se penchait, se penchait de plus en plus sur la balustrade de fer, comme s’il avait vu dans le courant quelque chose qui l’attirait.
+
+['justice', 'compte', 'grâce', 'hommage', 'visite']	Georget	On l’avait donc séparé de son fils par vengeance, par cruauté, pour le punir de ce qu’il les avait surpris.Et il se décidait à aller, dès l’aurore, requérir les magistrats pour se faire rendre [MASK].
+
+['–', 'femme', 'homme', '...', 'et']	Manon	[MASK] pour qui l’amour, le plaisir et l’argent ne font qu’un. Il se tut. Puis, après quelques minutes : – Quand j’eus mangé mon dernier sou pour elle, elle m’a dit simplement : «
+
+['elle', 'il', 'Marie', 'Pierre', 'Jean']	Luc	Ils n’avaient faim ni l’un ni l’autre.Bientôt la fille apparut. Ils la regardaient venir comme ils faisaient tous les dimanches. Quand elle fut tout près, [MASK] se leva et fit deux pas. Elle posa son seau par terre, et l’embrassa.
+
+['main', 'Marie', 'tête', 'foule', 'mains']	Georges	: il suivait ses moindres gestes avec amour, semblait envoyer des baisers du bout des lèvres à tous les mouvements de [MASK].Mais ayant levé les yeux vers l’horloge du clocher, il constata qu’il se trouvait en retard de cinq minutes.
+
+['On', 'Il', 'Elle', 'on', 'Personne']	Jean	La fille se baissa pour la traire, tandis qu’il caressait d’une main distraite l’échine coupante de l’animal. Puis ils laissèrent le seau dans l’herbe et ils s’enfoncèrent sous le bois.[MASK] ne voyait plus rien que le mur de feuilles où ils étaient entrés
+
+['Marie', 'Pierre', 'Joseph', 'maman', 'Jeanne']	Julie	Elle dit, avec un air d’étonnement où apparaissait un peu d’irritation :– C’est toi qui ouvres, maintenant ? Où est donc [MASK] ?Il avait la gorge serrée, la respiration précipitée ; et il s’efforçait de répondre, sans pouvoir prononcer un mot.
+
+['maman', 'lui', 'Joseph', 'Marie', 'Georges']	Georges	Mais, peu à peu, le souvenir de l’enfant commença à hanter sa pensée. Souvent, quand il était seul, chez lui, le soir, il s’imaginait tout à coup entendre [MASK] crier « papa ».
+
+['Jésus', 'Marie', 'Dieu', 'Joseph', 'Moïse']	Limousin	Et il cherchait dans le front, dans le nez, dans la bouche, dans les joues, s’il ne retrouvait pas quelque chose du front, du nez, de la bouche ou des joues de [MASK].Sa pensée s’égarait comme lorsqu’on devient fou ;
+
+['chambre', 'ménage', 'Jésus', 'Dieu', 'famille']	Poiret	Il hurlait avec de telles contorsions que la femme de [MASK], le croyant possédé du diable, se mit à pleurer en faisant le signe de la croix. Puis, la douleur se calmant un peu, le malade raconta qu’elle faisait le tour de son oreille.
+
+['?', 'la', 'cette', 'ce', '...']	Limousin	Et c’était la faute de ces trois misérables, cela ! la faute de cette femme indigne, de cet ami infâme et de ce grand garçon blond qui prenait des airs arrogants.Il en voulait maintenant à l’enfant autant qu’aux deux autres ! N’était-il pas le fils de [MASK]
+
+['Dieu', 'Jésus', 'dieu', 'Pierre', 'Marie']	Limousin	Et quelquefois Parent se relevait en pleine nuit, résolu à aller trouver [MASK], à le prier, à lui offrir tout ce qu’il voudrait, pour mettre fin à cette abominable angoisse. Puis il se recouchait désespéré, ayant réfléchi que l’amant aussi mentirait sans doute
+
+['lui', 'moi', 'Pierre', 'Jean', 'Antoine']	Georges	Puis, se tournant vers [MASK], éperdu, qui s’était appuyé contre un arbre :– Écoute, toi : Quand elle est partie de chez moi, elle a pensé que ce n’était pas assez de m’avoir trahi ; elle a voulu encore me désespérer.
+
+['il', 'elle', 'ça', 'tout', 'on']	Rabot	Et [MASK] fila dans la voiture à la façon d’un rat qui rentre dans son trou.– Maît’ Caniveau.Un gros paysan, plus lourd qu’un bœuf, fit plier les ressorts et s’engouffra à son tour dans l’intérieur du coffre jaune.– Maît’ Belhomme.
+
+['moi', 'maman', 'toi', 'ce', 'celle']	Zulie	? »Caressé par sa mère, il se tut. Elle répéta :– Qu’est-ce que tu as ?Il répondit, ayant vu trouble avec ses yeux d’enfant effrayé :– C’est [MASK] qu’a battu papa.
+
+['lui', 'Paul', 'Lui', 'Antoine', 'Pierre']	Limousin	Elle l’avait bravé, en cherchant à le désespérer. En pesant froidement le pour et le contre, il y avait bien des chances pour qu’elle eût menti.Seul [MASK], peut-être, aurait pu dire la vérité. Mais comment savoir, comment l’interroger, comment le décider à avouer
+
+['nouveau', 'raison', 'loisir', 'propos', 'merveille']	Parent	»Et la caissière, pleine de pitié et de bienveillance pour ce consommateur obstiné, répétait chaque jour à [MASK] : « Voyons, monsieur, décidez-vous à prendre l’air ! C’est si joli, la campagne quand il fait beau ! Oh ! moi !
+
+['Jean', 'Pierre', 'Louis', 'Jacques', 'François']	Simon	Quand nous sommes ensemble, nous parlons patois, nous vivons, pensons, agissons en Normands, nous devenons des Normands terriens plus paysans que nos fermiers.Or, depuis quinze jours, nous attendions les bécasses.Chaque matin l’aîné, [MASK], me disait : «
+
+['Elle', 'Alice', 'Marie', 'Anna', 'Sophie']	Henriette	Dix bougies les éclairaient, reflétées dans une grande glace ternie par des milliers de noms tracés au diamant, et qui jetaient sur le cristal clair une sorte d’immense toile d’araignée.[MASK] buvait coup sur coup pour s’animer, bien qu’elle se sentît étourdie dès les premiers verres.
+
+['tout', 'moi', 'lui', 'ainsi', 'fait']	Baubignac	; eh bien ! ce sera [MASK]. Il est bête comme ses pieds, mais très honnête ; incapable de rien dire. Alors j’ai été chez lui, après déjeuner.– Tu as été chez lui ? Sous quel prétexte ?– Une quête… pour les orphelins…
+
+['</s>NOTUSED', 'Jean', 'Joseph', 'Il', 'Pierre']	Luc	les jambes enlevées décrivirent un cercle en l’air, et le petit soldat bleu et rouge tomba d’un bloc, entra et disparut dans l’eau.[MASK], la gorge paralysée d’angoisse, essayait en vain de crier. Il vit plus loin quelque chose remuer ;
+
+['Il', 'Elle', 'On', 'Tu', 'Maman']	Limousin	Je sors tout de suite, afin de me procurer quelqu’un pour demain matin. Je rentrerai peut-être un peu tard.Elle répondit : – Va ; je ne bougerai pas d’ici. [MASK] me tiendra compagnie. Nous t’attendrons.Puis, se tournant vers la femme de chambre :
+
+['Non', 'Mais', 'Allons', 'Henri', 'Enfant']	Julie	!Parent, tout frémissant d’angoisse, sentit qu’il fallait arrêter net la scène menaçante.– [MASK], dit-il, je ne te permets point de parler ainsi de ta maîtresse. Tu entends, n’est-ce pas ? ne l’oublie plus à l’avenir.
+
+['bois', 'pierre', 'cheval', 'mort', 'verre']	Jean	C’est-il que tu veux y boire un coup ? » Comme il prononçait le dernier mot, la tête de [MASK] emporta le reste, les jambes enlevées décrivirent un cercle en l’air, et le petit soldat bleu et rouge tomba d’un bloc, entra et disparut dans l’eau.
+
+['moi', 'nous', 'lui', 'Dieu', 'toi']	Limousin	– Je veux mon enfant… et tu n’as pas le droit de le garder, parce qu’il n’est pas à toi… tu entends, tu entends bien… Il n’est pas à toi… Il est à [MASK].
+
+['lui', 'David', 'John', 'William', 'Thomas']	Limousin	? Non, c’est trop fort à la fin de faire souffrir ce garçon uniquement parce qu’il est trop bon, et de lui en vouloir uniquement parce que tu le trompes.Elle s’approcha de [MASK], et, le regardant au fond des yeux :
+
+['Havre', 'là', 'port', 'vois', 'ça']	Chambrelan	Ousquè tu vas, comme ça ?– J’vas t’au Havre vé Chambrelan.– Qué [MASK] ?– L’guérisseux, donc.– Qué guérisseux ?– L’guérisseux qu’a guéri mon pé.– Ton pé ?– Oui, mon pé, dans l’temps.– Que qu’il avait, ton pé
+
+['Il', 'Louis', 'Pierre', 'Charles', 'il']	Parent	Il n’était pas trop tôt d’ailleurs, après vingt-trois ans de souffrances. Ah ! ils ne soupçonnaient guère ce qui allait leur arriver.Ils achevaient doucement leur déjeuner, en causant avec sécurité. [MASK] ne pouvait entendre leurs paroles, mais il voyait leurs gestes calmes
+
+['elle', 'lui', 'Marie', 'Jeanne', 'Dieu']	Limousin	À peine couché, il recommençait, chaque soir, la même série d’argumentations désespérées.Après le départ de sa femme, il n’avait plus douté tout d’abord : l’enfant, certes, appartenait à [MASK]. Puis, peu à peu, il se remit à hésiter.
+
+['Marie', 'Jeanne', 'Joseph', 'famille', 'Jean']	Picot	Puis, recueilli par le père de [MASK], il était devenu berger de la ferme. C’était un excellent berger, dévoué, probe, et qui savait replacer les membres démis, bien que personne ne lui eût jamais rien appris.
+
+['Il', 'Elle', 'On', 'il', 'Pierre']	Caniveau	« Tenez, v’la qu’a r’monte… gniau… gniau… gniau… qué misère ! »[MASK] s’impatientait : « C’est l’iau qui la rend enragée, c’te bête. All’est p’t-être ben accoutumée au vin.
+
+['Oh', 'Ah', 'Merci', 'Hé', 'oh']	Cristi	:– [MASK] ! c’est gentil ! Allez un matin de printemps dans nos rues. Elles ont l’air d’éclore comme des fleurs, les petites femmes qui trottent le long des maisons. Oh ! le joli, le joli, joli spectacle !
+
+['Marie', 'Madame', 'madame', 'une', 'Jeanne']	Julie	Et il dit :– Ma chère amie, comme je viens de renvoyer [MASK], il faut que je m’occupe, dès aujourd’hui, de trouver une autre bonne. Je sors tout de suite, afin de me procurer quelqu’un pour demain matin.
+
+['Il', 'Elle', 'On', 'Je', 'Paul']	Sidoine	Et les vieilles misses, encore plus grêles, ouvrant au vent leur mâchoire nationale, paraissaient menacer l’espace de leurs dents jaunes et démesurées.On sentait, en passant près d’elles, une odeur de caoutchouc et d’eau dentifrice.[MASK] répéta, avec une colère grandissante :
+
+['lui', 'un', '?', 'toi', 'Pierre']	Georges	Il portait un chapeau de haute forme, un gilet de coutil blanc et un monocle, par chic, sans doute. Parent le regardait, stupéfait ! C’était là [MASK], son fils ? – Non, il ne connaissait pas ce jeune homme ;
+
+['allons', 'venez', 'allez', 'voyons', 'viens']	Limousin	Mais toute son impudence lui était revenue et sa haine contre cet homme, exaspérée à présent, la poussait à l’audace, mettait en elle un besoin de défi, un besoin de bravade.Elle dit d’une voix claire :– Venez, [MASK].
+
+['Jésus', 'Marie', 'Dieu', 'Joseph', 'Jacob']	Georges	Puis, vingt fois, cent fois en un jour il se posait cette question : « Était-il ou n’était-il pas le père de [MASK] ? » Mais c’était surtout la nuit qu’il se livrait sur cette idée à des raisonnements interminables.
+
+['Il', 'Elle', 'il', 'On', 'Qui']	Parent	Comment constater les rapports entre ce gras menton d’enfant et le menton poilu de cet homme ?[MASK] pensait : « Je n’y vois pas, moi, je n’y vois plus ; je suis trop troublé ; je ne pourrais rien reconnaître maintenant… Il faut attendre ;
+
+['ce', 'je', 'ça', 'cela', 'se']	Baubignac	Avec qui as-tu couché aujourd’hui ? » Moi, je pleurais et il était enchanté.Et puis, c’est devenu pis encore. L’autre semaine, il m’emmena dîner aux Champs-Élysées. Le hasard voulut que [MASK] fût à la table voisine.
+
+['Il', 'Elle', 'il', 'elle', 'On']	Caniveau	Ça fait, deusse écus de cent sous, deusse écus, pour sûr… Et qu’est-ce qu’il aurait fait, dis, çu fainéant, dis, qu’est-ce qu’il aurait fait ? Sais-tu, té ?[MASK] riait.– Non j’sais point
+
+['il', 'lui', 'Pierre', 'Jean', 'le']	Georges	? Je veux t’apprendre ce que sont ces gens-là.Mais [MASK], exaspéré, le secouait, allait le frapper. L’autre reprit :– Lâche-moi donc. Je suis ton père… Tiens, regarde s’ils me reconnaissent maintenant, ces misérables !
+
+['Il', 'Elle', 'il', 'On', 'Mère']	Georges	[MASK] abattait des feuilles avec sa badine, et franchissait parfois les fossés de la route, d’un saut léger de jeune cheval ardent prêt à s’emporter dans le feuillage.Parent, peu à peu, se rapprochait, haletant d’émotion et de fatigue ;
+
+['il', 'Pierre', 'elle', 'Jean', 'Louis']	Belhomme	Il reprit : « Quand j’allons arriver au café Bourbeux, donne-li du fil en six et all’n’bougera pu, j’te le jure. »Mais [MASK] n’y tenait plus de douleur. Il se mit à crier comme si on lui arrachait l’âme.
+
+['Monsieur', 'Madame', 'maintenant', 'Maman', 'là']	Georges	Nous t’attendrons.Puis, se tournant vers la femme de chambre : – Vous allez coucher [MASK], ensuite vous pourrez desservir et monter chez vous.Parent s’était levé. Il oscillait sur ses jambes, étourdi, trébuchant.
+
+['On', 'Elle', 'on', 'elle', 'Il']	Parent	; et sa tête blonde, son cou frais, ses mains grasses sortaient de ce joli vêtement coquet et parfumé, comme d’une coquille bordée d’écume. Qu’avait-elle fait tout le jour avec cet homme ? [MASK] les voyait embrassés, balbutiant des paroles ardentes !
+
+['elle', 'Marie', 'maman', 'petite', 'madame']	Irma	une bien bonne.Et elle nous conta son idée.Tu sais, [MASK], elle avait une tournure à troubler la tête de tous les hommes, et puis une taille, et puis des hanches qui leur faisaient venir l’eau à la bouche. Donc, elle imagina
+
+['Il', 'Elle', 'Et', '</s>NOTUSED', 'il']	Parent	Taisez-vous. Comprenez donc ce que vous faites.[MASK] reprit avec emportement :– Je le sais bien, ce que je fais. Ce n’est pas tout. Il y a une chose que je veux savoir, une chose qui me torture depuis vingt ans.
+
+['voyons', 'maman', 'moi', 'chéri', 'enfin']	Paul	Elle bavardait maintenant, hardie, les joues rouges, le regard vif et noyé.– Oh ! voyons, [MASK], confesse-toi, tu sais, je voudrais tout savoir ?– Quoi donc, ma chérie ?– Je n’ose pas te dire.– Dis toujours…
+
+['lui', 'hein', 'déjà', 'ça', 'quinze']	Rabot	Il en avait fait quinze, lui, lui tout seul, [MASK] ! Sa femme l’avouait ! Donc, on n’en pouvait point douter. Il en était fier, parbleu !De qui le seizième ? Elle ne le dit pas. C’était le premier, sans doute
+
+['en', 'leur', 'lui', 'se', 'comme']	Belhomme	Quelques gouttes retombèrent dans le vase blanc. Tous les voyageurs se précipitèrent. Aucune bête n’était sortie.Cependant [MASK] déclarant : « Je sens pu rien », le curé, triomphant, s’écria : « Certainement elle est noyée. » Tout le monde était content.
+
+['Monsieur', 'un', '</s>NOTUSED', 'monsieur', 'Pierre']	Belhomme	! »Puis, s’étant un peu calmé, il cria : « Allons, en route ! V’là assez de temps perdu. »Et les voyageurs, riant toujours, s’en allèrent vers la voiture.Cependant [MASK], venu le dernier, déclara : «
+
+['celui', 'Jésus', 'Alexandre', 'Joseph', 'Pierre']	Parent	; et ils aperçurent [MASK] qui les regardait, livide, les poings fermés, déchaussé, et son chapeau sur le front.Il les regardait, l’un après l’autre, d’un rapide mouvement de l’œil, sans remuer la tête. Il semblait fou ;
+
+['cela', 'elle', 'lui', 'ça', 'ceci']	Georges	Il voulait voir s’il ressemblait à [MASK]. Mais il n’osait pas lever les yeux. Il s’y décida pourtant, et considéra brusquement cette figure qu’il connaissait bien, quoiqu’il lui semblât ne l’avoir jamais examinée, tant elle lui parut différente de ce qu’il pensait.
+
+['moi', 'ma', 'mon', 'toi', 'la']	Baubignac	pense à sa tête en le regardant…La baronne, un peu apaisée, soufflait comme après une course. Elle reprit :– Oh ! dis-moi comment tu as fait… dis-moi !…– C’est bien simple… Je me suis dit : Il est jaloux de [MASK]
+
+['Madame', 'madame', 'Mme', 'Marie', 'elle']	Henriette	Enfin, enfin… Voilà… chacun suivant sa nature. »Un jour même elle avait été insolente avec [MASK], qui s’était contentée de dire, le soir, à son mari : « Tu sais, à la première parole vive de cette fille, je la flanque dehors, moi.
+
+['bonne', 'maître', 'parent', 'nuit', 'parents']	Georges	Elle arriva étonnée, n’ayant rien entendu dans la chambre de [MASK] où elle travaillait.Elle apporta la soupe, un gigot brûlé, puis des pommes de terre en purée.Parent s’était assis à côté de son enfant, l’esprit en détresse, la raison emportée dans cette catastrophe.
+
+['lui', 'elle', 'cela', 'ça', 'eux']	Georget	»Et dès qu’il se retrouvait seul dans la rue sombre, il recommençait à penser à [MASK] et à se creuser la tête, à se torturer la pensée pour découvrir s’il était ou s’il n’était point le père de son enfant.
+
+['Elle', 'Maman', 'Marie', 'Mère', 'Jeanne']	Julie	[MASK] parut sur la porte, le visage pâle, l’œil brillant, et elle annonça d’une voix tremblante d’exaspération :– Il est sept heures et demie, monsieur.Parent jeta sur la pendule un regard inquiet et résigné, et murmura :
+
+['Il', 'Elle', 'il', 'On', 'elle']	Julie	et le visage de son enfant se transformait sous son regard, prenait des aspects bizarres, des ressemblances invraisemblables.[MASK] avait dit : « Un aveugle ne s’y tromperait pas. » Il y avait donc quelque chose de frappant, quelque chose d’indéniable ! Mais quoi
+
+['Jean', 'Georges', 'Pierre', 'Joseph', 'Paul']	Belhomme	On remonta dans la voiture.Mais à peine se fut-elle remise en route que [MASK] poussa des cris terribles. La bête s’était réveillée et était devenue furieuse. Il affirmait même qu’elle était entrée dans la tête maintenant, qu’elle lui dévorait la cervelle.
+
+['Il', 'On', 'Elle', 'Dieu', 'Jésus']	Picot	Le berger fit « oui » de la tête.[MASK] lui dit : « Allons, montre comment c’est arrivé ? »Alors, le sourd mima lui-même toute la scène. Il montra qu’il dormait dans la meule ;
+
+['maintenant', 'alors', 'toi', 'vous', 'moi']	Kérandec	Je m’endormis bientôt, car je dors comme un vrai matelot.Je fus réveillé, dès l’aube, par mon serviteur qui m’apportait l’eau chaude pour ma barbe.Dès que j’eus les yeux ouverts, je demandai : « Et [MASK] ? »
+
+['vous', 'toi', 'lui', 'ça', 'Balzac']	Diogène	et nous voyons arriver des poseurs insupportables ou des bohèmes mal élevés. Moi je cherche un homme, comme [MASK], un seul homme dans toute la société parisienne ; mais je suis déjà bien certaine de ne pas le trouver et je ne tarderai pas à souffler ma lanterne.
+
+['Parent', 'Mère', 'Maman', 'mère', 'maman']	Limousin	De sorte que lui, Parent, chassant la mère, aurait gardé son fils, et il aurait été heureux, tout à fait heureux.Il se retournait dans son lit, suant et torturé, et cherchant à se souvenir des attitudes de [MASK] avec le petit.
+
+['Elle', 'Il', 'elle', 'Jeanne', 'Marie']	Parent	[MASK] le repoussa et, ricanant avec fureur :– Ah ! tu es brave aujourd’hui ; tu es plus brave que le jour où tu te sauvais sur l’escalier parce que j’allais t’assommer. Eh bien ! si elle ne répond pas, réponds toi-même.
+
+['il', 'on', 'elle', 'monsieur', 'papa']	Irma	Oh ! si tu savais les ruses que nous avions ; vrai, c’était à mourir de rire. Donc, quand [MASK] nous proposa de nous faire gagner cent francs, nous voilà toutes allumées. C’est très vilain ce que je vais te raconter, mais ça ne fait rien ;
+
+['chacun', 'tout', 'qui', 'chacune', 'Pierre']	Paf	Là-bas, un chien jette un aboiement aigu. C’est Pif. Je connais sa voix frêle. Puis, plus rien. Voilà un autre cri, puis un autre ; et [MASK] à son tour donne de la gueule.
+
+['jadis', 'Bretagne', 'granit', 'pierre', 'Normandie']	Locneuven	Ils revoyaient un coin de champ, une haie, un bout de lande, un carrefour, une croix de granit.Chaque fois aussi, ils s’arrêtaient auprès d’une pierre qui bornait une propriété, parce qu’elle avait quelque chose du dolmen de [MASK].
+
+['il', 'elle', 'lui', 'tout', 'Il']	Georges	sa femme, au contraire, plus fraîche que jamais, avait plutôt engraissé ; [MASK] était devenu méconnaissable, si différent de jadis !Ils se remirent en route. Parent les suivit de nouveau, puis les devança à grands pas pour revenir et les revoir, de tout près, en face.
+
+['Emma', 'Alice', 'Anna', 'Eva', 'Annie']	Henriette	Puis, peu à peu, il se remit à hésiter. Assurément, l’affirmation d’[MASK] ne pouvait avoir aucune valeur. Elle l’avait bravé, en cherchant à le désespérer. En pesant froidement le pour et le contre, il y avait bien des chances pour qu’elle eût menti.
+
+['Il', 'Elle', 'il', 'elle', 'On']	Rabot	– Est-ce que vous n’avez pas une nombreuse famille ?– Que oui, m’sieu le curé… Que c’est dur à élever ![MASK] opinait de la tête, comme pour dire : « Oh ! oui, c’est dur à élever. »
+
+['«', '2', '–', '5', '...']	ISIDORE	[MASK], avec précipitation. – Sur la tête d’mon pé, d’ma mé, d’mon grand-pé, de ma grand’mé, et du bon Dieu qui m’entend, je jure que c’est point mé. (Il lève la main et crache de côté pour appuyer son serment.)LE
+
+['lui', 'elle', 'Joseph', 'Pierre', 'Eugène']	Luc	La culotte rouge de son camarade faisait une tache éclatante dans le chemin. Ce fut [MASK] qui ramassa le maillet et frappa sur le pieu qui retenait la bête.La fille se baissa pour la traire, tandis qu’il caressait d’une main distraite l’échine coupante de l’animal.
+
+['Il', 'Pierre', 'Chacun', 'Joseph', 'il']	Simon	[MASK] a la direction des chiens qu’il traîne, tous les trois attachés au bout d’une corde.Car nous ne chassons pas la bécasse, mais le lapin. Nous sommes convaincus qu’il ne faut pas chercher la bécasse, mais la trouver.
+
+['</s>NOTUSED', 'aussitôt', 'soudain', 'brusquement', 'le']	Belhomme	a galope… Oh ! gniau… gniau… gniau… que misère ! !…– T’as point vu l’médecin ? demanda Caniveau.– Pour sûr, non.– D’où vient ça ?La peur du médecin sembla guérir [MASK].Il se redressa, sans toutefois lâcher son mouchoir.–
+
+['le', 'mon', 'la', 'donc', 'ton']	Baubignac	ça y est ! ! ! Rien ne peut plus empêcher ça ! ! ! pense à sa tête… et dis-toi… ça y est ! ! ! ! !La baronne qui s’étranglait demanda :– Reverras-tu [MASK]… ?– Non.
+
+['elle', 'eux', 'moi', 'lui', 'nous']	Kérandec	Je courus chez [MASK], mais le père, la belle-sœur et la garde n’étaient pas encore revenus.L’accouchée, restée toute seule, grelottait de froid dans son lit, et elle avait faim, n’ayant rien mangé depuis la veille.– Où diable sont-ils partis
+
+['»', '[...]', '...', '(...)', '«']	Poiret	À m’mange la tête, pour sûr ! a m’mange la tête ! Oh ! gniau… gniau… gniau… Et il se remit à taper du pied.Un grand intérêt s’était éveillé dans l’assistance. Chacun donnait son avis. [MASK]
+
+['elle', 'il', 'Jeanne', 'Marie', 'Madame']	Julie	Mais voilà que, depuis bientôt six mois, [MASK] se permettait sans cesse sur sa maîtresse des remarques et des appréciations malveillantes. Elle la jugeait à tout moment, déclarait vingt fois par jour : « Si j’étais monsieur, c’est moi qui ne me laisserais pas mener comme ça par le nez.
+
+['Il', 'David', 'Thomas', 'Jean', 'il']	Parent	[MASK] cessa de manger, il ne pouvait plus. Une douleur atroce, une de ces douleurs qui font hurler, se rouler par terre, mordre les meubles, lui déchirait tout le dedans du corps. Il eut envie de prendre son couteau et de se l’enfoncer dans le ventre.
+
+['Il', 'Paul', 'Jean', 'Joseph', 'Pierre']	Parent	[MASK] fit un bond, comme si une balle l’eût traversé. Il dit : « La voilà… qu’est-ce que je vais faire ?… » Et il courut s’enfermer dans sa chambre pour avoir le temps, au moins, de s’essuyer les yeux.
+
+['que', 'la', ':', 'le', 'tout']	Limousin	La figure de sa femme, surtout, l’exaspérait. Elle avait pris un air hautain, un air de dévote grasse, de dévote inabordable, cuirassée de principes, blindée de vertu.Puis, ils payèrent l’addition et se levèrent. Alors il vit [MASK].
+
+['appui', 'place', 'assise', 'position', 'pied']	Georges	et prenant [MASK] sur un genou, il lui fit faire « à dada ».L’enfant riait enchanté, agitait ses bras, poussait des cris de plaisir, et le père aussi riait et criait de contentement, secouant son gros ventre, s’amusant plus encore que le petit.
+
+['son', 'bébé', 'enfant', 'Joseph', 'Pierre']	Georges	Et il traversa le salon en deux enjambées pour aller examiner dans la glace la face de son enfant à côté de la sienne.Il tenait [MASK] assis sur son bras, afin que leurs visages fussent tout proches, et il parlait haut, tant son égarement était grand.
+
+['Il', 'Elle', 'il', 'Et', 'Puis']	Parent	pareille à une bête qui va sauter.[MASK] reprit d’une voix plus forte :– Allez-vous-en, tout de suite… Allez-vous-en !Voyant calmée sa première exaspération, sa femme s’enhardit, se redressa, fit deux pas vers lui, et presque insolente déjà :
+
+['papa', 'Dieu', 'lui', 'Pierre', 'Papa']	Limousin	Est-ce que [MASK] n’aurait pas lâché bien vite la mère et le petit s’il n’avait pas su que le petit était à lui, bien à lui ? Est-ce qu’on élève les enfants des autres ?
+

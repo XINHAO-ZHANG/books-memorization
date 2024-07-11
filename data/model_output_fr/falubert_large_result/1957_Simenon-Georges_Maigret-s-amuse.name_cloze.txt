@@ -1,0 +1,200 @@
+['ne', 'il', 'on', 'lui', 'seul']	Josépha	Il n’a eu aucun contact avec le premier groupe. Le docteur Jave, de son côté, n’a toujours pas quitté son appartement du boulevard Haussmann, ou [MASK] prend soin de lui. Le téléphone reste muet.
+
+['pensée', "l'", 'la', 'S', 'le']	Josépha	— Une fois. Je passais dans le quartier. J’avais envie de connaître l’endroit où il travaillait. J’aime connaître toutes les atmosphères dans lesquelles il vit, afin de le suivre en pensée. — Vous avez été introduite par [MASK] ? — Par la bonne
+
+['Il', 'il', 'Elle', 'elle', ',']	Éveline	[MASK] avait seize ans à l’époque et, d’après la rumeur publique, ce n’était pas sa première aventure. Elle recevait les soins d’un certain docteur Alain Lemaire, dentiste installé en face de la poste, alors marié depuis cinq ans et père de deux enfants.
+
+['il', 'elle', 'on', 'celui-ci', 'lui']	Jave	C’est assez rare qu’une affaire de ce genre se produise dans notre profession et nous sommes aussi curieux que des concierges. Comme la plupart des médecins qui partent en vacances, [MASK] a pris un jeune remplaçant pour le temps de son absence.
+
+['le', 'la', 'votre', "l'", 'celui-ci']	Jave	— Elles se ressemblent ? — Assez pour qu’un homme pressé, ému, puisse s’y tromper. — Votre avis, à vous ? — Je n’en ai pas. J’ai seulement appris que [MASK], hier dans la soirée, a appelé le docteur Mérou.
+
+['ce', 'celui', 'lui', ',', 'dîner']	Janvier	Il avait cessé de rêvasser et de se sentir comme un petit garçon qui ne va pas à l’école. Il alla reprendre sa place à la terrasse, commanda un autre demi et pensa à [MASK] qui devait être terriblement excité.
+
+['qui', 'lui', 'se', ',', 'le']	Maigret	À l’intérieur, un jeune homme en chandail noir et en espadrilles était penché sur le zinc et parlait à voix basse au patron. [MASK] commanda un marc pour lui, un café pour sa femme, qui ne le boirait pas. « Troublant rapport des toxicologues »
+
+['Il', 'il', '</s>', ',', 'et']	Jave	[MASK] n’a eu, la place une fois libre, qu’à traverser le palier. — Taisez-vous ! — Je ne tiens pas à entrer dans les détails. Je souligne seulement le fait qu’il l’a ensuite déshabillée et qu’il a fait disparaître les vêtements.
+
+['elle', 'apprendre', 'aimer', 'enseigner', 'abord']	Éveline	— Ce qu’on a appris d’[MASK] n’est-il pas une raison suffisante ? — Pour la tuer ? Il haussa les épaules une fois de plus. — Ce que je n’aime pas, avoua-t-il comme à regret, c’est qu’il l’ait déshabillée.
+
+['il', ',', 'on', 'elle', 'Il']	Maigret	[MASK] n’avait vu aucun des personnages du drame en chair et en os. Ce n’est qu’à travers les journaux qu’il s’était familiarisé avec eux. Il avait pourtant l’impression de ne pas se tromper en pensant que les bijoux constituaient une sorte de vengeance.
+
+['il', 'Jean', 'Pierre', 'Alain', 'on']	Maigret	C’en était fini de la détente. Quelques minutes plus tôt, [MASK] se promenait tranquillement avec sa femme le long du quai et lui racontait de vieilles enquêtes. Son visage venait à nouveau de s’alourdir et il n’avait plus l’air de voir les murs jaunes ornés de chromos.
+
+[',', "s'", 'et', 'se', 'de']	Éveline	Il s’était trouvé en présence d’une jeune fille frêle, repliée sur elle-même, qui menait une vie sans joie. [MASK] s’était-elle révélée plus tard différente de ce qu’il avait pensé ? N’y avait-il pas une indication dans l’histoire des bijoux amassés comme des provisions dans une fourmilière
+
+['Il', 'il', 'celui-ci', 'Lui', 'lui']	Jave	Cela se comprenait. Il avait sauvé sa fille. Il avait dû, au début, se pencher sur elle avec une tendresse presque paternelle. Cela ne le surprenait pas non plus que [MASK] soit tombé amoureux d’une femme qui ressemblait à la sienne. C’est fréquent.
+
+['la', 'elle', 'celle-ci', "l'", 'sa']	Josépha	Le ménage des locaux professionnels terminé, le matin, [MASK], en effet, passait de l’autre côté du palier, et c’est dans l’appartement aussi qu’elle se tenait l’après-midi. La sonnerie l’avertissait lorsqu’un client sonnait en face.
+
+['il', "n'", 'Il', ',', 'on']	Maigret	[MASK] aurait pu se faire monter les journaux chaque matin par la concierge, mais cela lui aurait enlevé le plaisir d’aller les chercher lui-même. Il finit par s’habiller, pendant que sa femme vaquait au ménage. — Je viendrai te chercher tout à l’heure.
+
+['donc', ',', 'ne', 'diable', 'bien']	Josépha	— Je crois que je comprends. — Où [MASK] se serait-elle tenue, pendant les heures de consultation ? Dans l’appartement du médecin ? Dans l’antichambre ? Dans la chambre à coucher ? Dans la salle de bains ?
+
+['lui', 'elle', 'moi', 'nous', 'eux']	Maigret	: — Assez ! Un homme d’un certain âge murmura, derrière [MASK] : — Je savais bien que c’était lui. L’écran s’obscurcit encore et ce fut un soulagement d’entendre la musique qui préludait au grand film, dont le générique commença à apparaître.
+
+['</s>', ',', '.', '-', 'de']	Maigret	[MASK] n’était-il pas fidèle au programme qu’il s’était tracé pour ses vacances ? — Il y a des choses dont on parle toujours, qu’on fredonne même en musique et qu’on ne fait jamais, avait-il déclaré au début du repas.
+
+['tu', 'je', 'lui', 'ton', 'le']	Janvier	Son client en avait autant. — Tu es sûr que tu n’as pas envie de passer par ton bureau. — Certain. D’autant plus que [MASK] s’y est installé. Encore heureux qu’il ne fume que la cigarette, car il se servirait peut-être de mes pipes.
+
+['il', 'vous', 'monsieur', 'Monsieur', 'celui-ci']	Gilbert	J’ai lu les journaux, moi aussi, et tout à l’heure, par hasard, dans un bar, j’ai entendu les nouvelles à la radio. — Vous croyez que l’inspecteur Janvier est capable de comprendre ? — De comprendre quoi ? — Que [MASK] n’a pas tué cette femme.
+
+['midi', 'lui-même', 'table', 'tous', ',']	Maigret	Les deux voyageurs de commerce étaient partis les premiers. Comme le patron était venu le dire à [MASK] vers la fin du repas, sa vraie clientèle était à la campagne ou à la mer et, avec les touristes, « on ne savait jamais ».
+
+['lui', 'cela', '...', 'vous', 'celui-ci']	Jave	— Tous les deux ? — Tous les deux, oui. — Que pensez-vous de [MASK] ? — Que c’est un excellent praticien. — Comme homme ? — Je l’ai toujours considéré comme un honnête homme et même comme un homme scrupuleux.
+
+['jurés', 'juré', 'ceux-ci', 'jury', 'chacun']	Janvier	— Voyez-vous, mon petit, cela ne me regarde pas, car je suis en vacances. Et, même si j étais à la place de [MASK], je ne me permettrais pas d’en décider, car cela regarde les jurés.
+
+['elle', "aujourd'", 'qui', 'celle-ci', 'à']	Antoinette	C’était une grande femme sèche, aux allures un peu masculines. Le reporter laissait entendre que la fille, [MASK], âgée de vingt-neuf ans, n’était pas de conduite irréprochable. La mère et la fille n’en passaient pas moins pour entretenir d’excellentes relations.
+
+['tu', "t'", 'maman', 'papa', "j'"]	Pardon	— Qu’est-ce que tu as ? avait demandé sa femme qui, depuis sa bronchite, restait attentive. — Je commence à me demander si nous irons en vacances. — Tu oublies ce que [MASK] a dit ? — Je n’oublie pas.
+
+[',', 'et', 'il', 'rien', '...']	Maigret	[MASK] ne dit rien. À quoi bon lui expliquer que, dans toute sa carrière, en dehors de quelques professionnels, il n’avait jamais rencontré un meurtrier ayant une tête de criminel. — Qu’est-ce que je vous dois, patron ? — Les deux dîners ?
+
+['Il', 'il', '-', 'Elle', 'On']	Janvier	— Sa mère est venue nous le présenter il y a trois semaines. Il retourne au lycée en octobre. Ce sont des gens pauvres et, pendant les vacances, il s’efforce de gagner un peu d’argent. — [MASK] n’est pas venu ici depuis trois semaines ?
+
+[',', 'or', "s'", 'et', 'donc']	Janvier	Sur le quai, deux photographes attendaient avec leurs appareils, et il devait y en avoir d’autres, ainsi que des reporters, dans le vaste corridor du premier étage. [MASK] avait-il réellement découvert un fait nouveau ? Agissait-il de son plein gré, ou sous les ordres de l’irascible juge Coméliau
+
+['on', 'elle', 'il', 'une', 'où']	Éveline	On ne signalait pas que le lit ait été trouvé défait. À supposer qu’[MASK] ait été tuée dans l’appartement d’en face, pourquoi aurait-on pris le risque de traverser le palier avec le corps alors qu’il y avait, là aussi, des placards où le cacher
+
+['ce', 'tout', ',', '...', '"']	Gilbert	? — Cela indique qu’il voulait faire tomber les soupçons sur quelqu’un d’autre. — Sur [MASK] ! — Oui. Il a cru agir en homme intelligent. Or, si étrange que cela paraisse, ce sont toujours les hommes intelligents qui se font prendre.
+
+['ça', 'cela', 'un', 'eux', 'ç']	Bodard	Il lui arrivait de se sentir usé, fatigué pour un rien, et il s’était demandé s’il ne finirait pas comme [MASK]. C’était un de ses collègues, des Renseignements Généraux, un honnête homme, scrupuleux à l’excès, qui s’était trouvé soudain en butte à des attaques injustes.
+
+["l'", 'la', 'son', 'ce', 'ses']	Moers	Il ne signa pas, bien entendu. Il est rare que les gens qui donnent des avis à la police signent leurs messages. Il imaginait la tête de [MASK], au laboratoire, si on lui demandait de rechercher les empreintes digitales, car il possédait celles du commissaire.
+
+['lui', 'elle', 'eux', 'nous', 'elles']	Antoinette	N’en avait-il pas profité pour se précipiter à l’aéroport afin d’avoir quelques heures avec [MASK] ? Cela se tenait. On pouvait faire un certain nombre d’objections, mais on pouvait aussi y trouver des réponses.
+
+['il', 'Il', 'Napoléon', 'Monseigneur', 'Monsieur']	Gilbert	Je ne vois pas pourquoi, quand je désire le voir, je n’irais pas chez lui. Nous ne sommes plus à l’époque des chaperons. [MASK] a eu des maîtresses, je vous l’ai dit, mais il s’est toujours gardé des liaisons qui entraînent des complications et des pertes de temps.
+
+['Il', 'il', 'Elle', '.Il', 'elle']	Maigret	C’est tout. Il vaudra mieux ne pas revenir ici ce soir, car on pourrait te suivre. — C’est une farce que vous leur faites ? [MASK] se contenta de sourire et regagna sa place près de la jeune fille. — Cela donnera ce que cela donnera.
+
+['je', 'personne', 'quiconque', 'rien', 'celui-ci']	Maigret	? Pas nécessairement pour détourner les soupçons. Plutôt par une sorte de réflexe. La radio jouait toujours en sourdine sans que [MASK] l’entende et il continuait, les yeux mi-clos, à reprendre un à un les événements du samedi après-midi.
+
+['Il', 'il', 'Tout', 'Celui-ci', '</s>']	Maigret	Si l’assassin avait eu l’intention de faire disparaître le corps, il y avait des chances pour qu’il dispose d’un véhicule… [MASK] s’était remis en marche et s’arrêtait machinalement devant les vitrines familières, car c’était au cinéma d’en face qu’il venait le plus souvent avec sa femme.
+
+['celui-ci', 'chacun', 'Pierre', 'maître', 'celle-ci']	Janvier	Ce fut son tour d’avoir le trac, car il se livrait à une expérience qui ne lui était pas familière et qu’il ne se serait pas permise s’il s’était trouvé à la place de [MASK] dans son bureau.
+
+['Elle', 'Il', 'elle', 'On', "J'"]	Négrel	— C’était une malheureuse ? — Je n’en sais rien. Elle s’est raccrochée à lui. Elle a arraché un bouton de sa veste. — Je n’aime pas imaginer cette scène-là. — Moi non plus. [MASK] a préféré s’en aller.
+
+['aussi', 'plus', 'pas', '...', 'que']	Antoinette	— Et la jeune femme, [MASK]. — Ils vont la garder et il y a des chances qu’elle soit poursuivie pour complicité, car elle a fourni un alibi au docteur. — Sa mère aussi ? — Probablement. — À votre avis, elles savaient ?
+
+[',', 'ans', "l'", 'que', 'est']	Négrel	La concierge n’a aucune raison de mentir et je suis persuadée qu’elle l’a vraiment reconnue. Son mari est plus âgé qu’elle. Il la traitait en petite fille, et les femmes n’aiment pas ça. [MASK], au contraire, est beau garçon, avec des yeux tendres…
+
+['possible', 'ainsi', 'tout', 'vrai', 'cela']	Négrel	Ils marchaient en silence et, de loin, on devait les prendre pour des amoureux, ou plutôt pour un couple qui vient respirer l’air du soir sur les quais avant d’aller se coucher. — Je regrette presque, grommela soudain le commissaire, que ce ne soit pas [MASK].
+
+['</s>', 'et', 'qui', ',', 'il']	Lassagne	Si ce n’était pas sensationnel, comme le crieur de journaux l’affirmait, s’il ne s’agissait pas à proprement parler de révélations, le texte n’en était pas moins intéressant. [MASK], comme d’habitude, plantait d’abord son décor.
+
+['il', 'elle', 'ils', 'celui-ci', 'Il']	Maigret	Il avait cru que cela l’amusait. Ils étaient trempés tous les deux et, chaque fois qu’ils recevaient une rafale, [MASK] lui lançait : — Imagine-toi que tu es au bord de la mer ! Cela n’avait pas d’importance.
+
+['lui', 'moi', 'tout', 'vous', 'son']	Lucas	Vous êtes déjà venu, il y a deux ou trois ans. Vous étiez même, je m’en souviens, avec un petit gros qui marchait en sautillant. Elle parlait de [MASK]. — C’est moi, avoua-t-il, faute de pouvoir faire autrement.
+
+['avait-elle', 'avait', 'elle', 'tout', 'qui']	Maigret	[MASK] sourit autour de sa pipe. Où avait-elle pris les yeux tendres ? Était-ce parce que le journal parlait de sourcils épais ? — J’en suis sûre, que c’est un passionné. Dans toutes ses réponses, on sent qu’il se contient.
+
+[',', 'pourquoi', "n'", 'donc', 'Y']	Maigret	Pourquoi [MASK] avait-il l’impression que, d’un côté comme de l’autre, elle avait été frustrée ? Ce n’était qu’une intuition. Il revoyait la photographie, les cuisses maigres, le regard, qui manquait d’assurance, semblait quêter l’indulgence ou la sympathie.
+
+['il', 'Il', 'elle', 'lui', 'Elle']	Lassagne	Elle espérait que le journal, que la suite de l’enquête sur la morte du boulevard Haussmann allaient les lui enseigner. [MASK] continuait, tirant le maximum de son exclusivité : Nous lui demandons alors : — Vous recevez beaucoup de femmes, monsieur Négrel ?
+
+[',', 'lui', 'se', "s'", 'le']	Lassagne	« Troublant rapport des toxicologues » Cela, il l’avait déjà lu dans les journaux du matin, sauf que [MASK] avait eu le temps de fignoler et d’interviewer plusieurs médecins connus. Leur opinion était à peu de chose près
+
+['il', 'elle', 'on', 'Il', 'Elle']	Éveline	— Vous croyez au crime ? — Vous imaginez qu’[MASK] aurait pu se faire une piqûre hypodermique et aller se tasser, pliée en deux, dans un placard, pour y mourir, après avoir refermé la porte à clef ? Où est cette clef ? Où sont ses vêtements ?
+
+['il', 'on', 'elle', 'personne', 'lui']	Maigret	Ou bien la jeune femme s’était déshabillée elle-même, ou bien on l’avait dévêtue après sa mort. Puisque le corps ne portait pas de blessure, les vêtements n’étaient pas tachés de sang et, dès lors, [MASK] ne voyait aucune raison valable pour la dévêtir.
+
+['à', 'avoir', 'en', ',', 'que']	Éveline	— Ce que je t’ai dit. — Tu as… ? — Pas encore tout à fait, mais presque. Je suis allée chez lui. C’était un célibataire qui passait et qui passe encore pour avoir des bonnes fortunes. Je ne croyais pas [MASK].
+
+['</s>', 'et', 'cette', 'la', ',']	Éveline	Il y avait quelque chose d’à la fois ironique et tragique dans cette situation. [MASK], qui avait une si furieuse envie de vivre intensément, de vivre vite, de tout absorber de l’existence, restait seule entre deux hommes, et chacun des deux aimait ailleurs.
+
+['Il', 'Elle', 'il', 'et', 'On']	Maigret	C’est à ce moment-là qu’un crieur de journaux fit irruption, lançant lui aussi des mots confus où l’on distinguait seulement : — … révélations sensationnelles… [MASK] tendit le bras, fit claquer ses doigts comme à l’école.
+
+['du', 'périphérique', 'de', 'Saint-Germain', 'Voltaire']	Haussmann	Petit mystère à ajouter au mystère plus angoissant de la morte du boulevard [MASK]. La patronne du bar le regardait, interrogative. — C’est vous, n’est-ce pas ? Vous êtes déjà venu, il y a deux ou trois ans.
+
+['Il', 'Elle', 'et', 'On', 'Et']	Pardon	— S’il s’était agi de ma femme, peut-être. Nous nous affolons facilement quand il s’agit des nôtres ou de nous-même. — Ou de votre maîtresse ? [MASK] eut un petit rire. — Je n’ai pas eu de maîtresse depuis l’internat.
+
+['elle', 'il', 'ils', 'celui-ci', 'celle-ci']	Maigret	Ce n’était plus la place du Tertre qu’ils avaient connue quand [MASK] débutait comme secrétaire d’un commissariat de police, certes, mais c’était amusant quand même, c’était maintenant une foire colorée, bruyante, d’une vulgarité plus agressive.
+
+[',', 'on', '-', 'de', 'plus']	Jave	Ne manquait-il pas un peu d’épaules pour le rôle qu’il était en train de jouer ? En langage de cinéma, on dit « de la présence ». [MASK] était son aîné, un homme solide, qui avait beaucoup vu et beaucoup vécu. — Nous partons
+
+['ainsi', 'bien', 'tout', 'vrai', 'cela']	Jave	De temps en temps, un des joueurs l’observait, et il y en eut même un pour se pencher vers lui afin de jeter un coup d’œil au journal. — C’est [MASK] ? questionna-t-il. — On ne sait pas encore.
+
+['</s>', 'un', 'était', ',', 'est']	Jave	[MASK], qui connaissait bien sa femme, ne devait pas l’ignorer et je suis sûre qu’il n’était pas jaloux d’elle. Après le départ de la jeune fille, une certaine agitation a régné Quai des Orfèvres, où on semble s’attendre à de très prochains développements.
+
+['cela', ',', 'morte', 'que', 'perdue']	Jave	La plupart, d’ailleurs, ne détestent pas seulement les hommes, mais les femmes, et vivent comme enfermées en elles-mêmes. Mais elles ne détestent pas nécessairement tous les hommes. Parfois, elles vouent à un seul un culte secret qui devient leur seule raison d’exister. Connaissait-elle [MASK] depuis longtemps ?
+
+['ELLE', 'IL', 'LE', 'SON', '-']	JOSÉPHA	? Tout en marchant vers le parvis du Sacré-Cœur, il serra soudain le bras de sa femme et elle comprit qu’il était ému, il lui sembla même qu’elle devinait pourquoi, mais elle n’en dit rien. CHAPITRE 4 OÙ ÉTAIT [MASK] ?
+
+['elle', 'celle-ci', '...', 'vous', 'lui']	Josépha	Considérez-vous [MASK] comme particulièrement dévouée à ses maîtres ? — Je ne m’en suis pas préoccupé. — Vous venez de vivre plusieurs semaines avec elle. Vous avez eu de fréquents contacts. Est-ce la femme à commettre un faux témoignage dans l’intérêt de l’un ou l’autre de ses patrons ?
+
+['cela', 'ça', 'celle-ci', ',', 'celui-ci']	Éveline	Ce n’est qu’en connaissant mieux [MASK] qu’on arriverait à comprendre les mobiles de son meurtrier. Durant les dernières années, deux années au moins, elle s’était trouvée en quelque sorte entre deux hommes, son mari d’une part, le docteur Négrel de l’autre.
+
+['elle', 'Alice', 'elle-même', 'Hélène', 'Emma']	Éveline	— Tout le monde, à l’école, puis au lycée, savait qu’[MASK] était malade et qu’elle pouvait mourir d’un moment à l’autre. C’est elle-même qui nous l’a dit et on nous avait averties qu’il fallait la ménager.
+
+['maman', 'madame', 'monsieur', 'papa', 'Madame']	Josépha	— Ni elle, ni lui. J’ai reçu cinq patients dans l’après-midi et on a retrouvé leurs fiches dans le bureau. Je suis parti à cinq heures et demie, après avoir dit au revoir à [MASK] et lui avoir recommandé de fermer les fenêtres.
+
+['lui', 'son', 'nouveau', "l'", 'un']	Janvier	— Je me demande si tu ne ferais pas mieux de téléphoner à [MASK]. — Pourquoi ? — Pas pour t’occuper de l’affaire, mais pour qu’il te tienne au courant. Il y a des moments où j’ai l’impression que tu te ronges.
+
+['se', ',', 'ON', 'il', 'et']	Pardon	! Il rentrait chez lui. Tout cela ne le regardait pas. Il était en vacances et [MASK] avait insisté pour ce que soient de vraies vacances. — Tu as décidé de ce que nous faisons ? — Pas encore. Tu n’as pas une idée, toi
+
+[',', 'la', 'de', "l'", 'le']	Josépha	[MASK], pour lui, ne posait pas de problème. Il en avait connu beaucoup comme elle, des veuves laborieuses, qui avaient obéi toute leur vie à la morale traditionnelle mais qui, quand il s’agissait de leur fille, se montraient soudain pleines d’indulgence.
+
+['il', 'elle', 'on', 'celui-ci', 'lui']	Maigret	Il y avait, devant la porte cochère bien vernie, un groupe de curieux, un agent en uniforme qui les regardait avec ennui. C’était la première fois que, dans un pareil cas, [MASK] se trouvait du côté des badauds et cela l’avait amusé.
+
+['cela', 'ça', 'ce', 'tort', 'ceci']	Janvier	C’était à [MASK] qu’il pensait, en effet. Cela l’irritait de rester dans le noir, de penser qu’au Quai ils avaient en mains des éléments qui lui permettraient d’y voir clair. — Tu crois qu’il ne s’y prend pas bien ?
+
+['</s>', 'il', 'qui', 'cela', 'on']	Lassagne	Sans être vaniteux, il n’en eut pas moins une moue satisfaite, car il ne s’était pas trompé, encore que n’ayant à sa disposition que les éléments connus du grand public. [MASK] exposait la question des deux appartements, des deux portes face à face.
+
+['on', 'il', 'elle', 'vous', 'consommateur']	Janvier	Alors, elle se mettait à dépenser à son tour. Et, pour dépenser plus vite, pour dépenser davantage, c’étaient des bijoux qu’elle s’offrait ou qu’elle exigeait de son mari. Cela, [MASK] était à même de le contrôler en examinant les comptes en banque.
+
+['il', 'celui-ci', 'lui', "c'", 'lui-même']	Gilbert	J’ai attendu quelques mois avant de le présenter à mes parents et ceux-ci ont autant confiance en lui que moi-même. — Où vous êtes-vous rencontrés ? — Chez le professeur Lebier, dont je suis les cours et dont [MASK] est l’assistant.
+
+['qui', 'personne', 'quiconque', '...', 'Madame']	Pardon	— Tu as rencontré quelqu’un ? — Personne. J’ai seulement téléphoné à [MASK]. Nous les emmenons dîner ce soir dans un bistrot, je ne sais pas encore lequel. — Tu ne te sens pas bien ? — Je suis en pleine forme. C’était vrai.
+
+['elle', 'une', 'Elle', 'un', 'elle-même']	Éveline	— Elle était nue… L’image d’[MASK], nue, pliée en deux dans le placard, lui revenait sans cesse à l’esprit. Il fut surpris de voir sa femme surmonter pour une fois sa pudeur, au sujet de laquelle il lui arrivait de la taquiner.
+
+['Pierre', 'celui-ci', 'Philippe', 'Bernard', 'David']	Maigret	Deux photographes sortirent à pied et se dirigèrent vers le Pont-Neuf. Il restait de la lumière dans le bureau de [MASK] et enfin elle s’éteignit à son tour. — Venez ici… Il s’éloignait un peu, cherchait l’ombre la plus épaisse.
+
+['tout', 'regardait', 'bien', 'le', 'les']	Janvier	Il avait fait son possible. Le reste regardait [MASK]. Ils marchaient en silence et, de loin, on devait les prendre pour des amoureux, ou plutôt pour un couple qui vient respirer l’air du soir sur les quais avant d’aller se coucher.
+
+['tous', ',', 'chacun', 'en', 'Re']	Maigret	Demain matin, nous serions sûrement repérés. — Il faut que je me recoiffe. Il était deux heures et demie et la nuit était calme et douce quand ils descendirent, [MASK] portant la valise dont ils se servaient au cours de leurs rares week-ends. —
+
+['son', 'le', "l'", 'la', 'lui']	Éveline	Elle n’avait pas connu l’amour ou, si elle l’avait connu, cela avait été un amour malheureux. Quels étaient ses rapports avec [MASK], qu’elle voyait entasser des bijoux et qui avait non seulement un mari mais un amant ?
+
+['il', 'qui', 'lui', "qu'", 'pourtant']	Maigret	Comme un animal qu’on va achever – et [MASK] n’avait jamais pu tuer une bête, même nuisible – il avait presque toujours, pour celui qu’il acculait aux aveux, un regard étonné qui contenait un reproche.
+
+[',', "l'", 'ou', "L'", 'et']	Éveline	? [MASK] avait-elle menacé d’empêcher le mariage de son amant ? Avait-il frappé, puis affolé, lui avait-il fait une piqûre ? Dans ce cas, s’était-il trompé d’ampoule ou avait-il choisi sciemment le produit qui allait la tuer ?
+
+['toujours', ',', 'encore', 'cela', 'parfois']	Maigret	Lèverait-elle la main pour appeler la fille de salle ? Elle commençait le geste, jetait un coup d’œil au commissaire. Bon ! Elle changeait d’avis, regardait [MASK] avec plus d’insistance, en écarquillant un peu les yeux comme pour poser une question.
+
+['il', '</s>', 'Il', 'y', 'on']	Jave	Il n’en était plus si sûr. [MASK] avait des dettes. Comment les avait-il contractées ? Était-il joueur ? Spéculait-il en bourse ? Car le train de vie du ménage n’était pas disproportionné d’avec la clientèle du médecin et les revenus de sa femme.
+
+["d'", 'de', ',', 'en', 'valeur']	Éveline	Ils étaient sans grande valeur, surtout des bijoux anciens. [MASK] a laissé ma femme choisir sans s’inquiéter de sa part. — Elle possédait pourtant une trentaine de millions de bijoux. — Vous dites ? — Je dis une trentaine de millions. — Qui prétend cela
+
+['il', 'elle', 'Il', 'lui', 'puis']	Maigret	On y donnait les premiers Charlot et [MASK] s’arrêta, hésitant. — On y va ? proposa-t-il à sa femme. Elle avait eu un regard méfiant au rideau de peluche sombre derrière la caisse, aux murs grisâtres du couloir. — Tu crois que c’est propre ?
+
+['qui', 'il', ',', 'et', 'elle']	Jave	[MASK] devait arriver quelques minutes plus tard. La même porte s’est ouverte devant lui et s’est aussitôt refermée. L’interrogatoire du docteur et d’Antoinette Chauvet dure déjà depuis plus de deux heures et rien ne laisse prévoir qu’il va bientôt se terminer.
+
+[',', 'se', '"', '-', 'ou']	Lassagne	— Vous venez de vivre plusieurs semaines avec elle. Vous avez eu de fréquents contacts. Est-ce la femme à commettre un faux témoignage dans l’intérêt de l’un ou l’autre de ses patrons ? — Je vous répète que je n’en sais rien. [MASK] concluait :
+
+['Jean', 'Pierre', 'Paul', 'lui', 'Jacques']	Maigret	— Ce n’est pas vous ? questionna-t-elle alors. Elle soulignait du doigt un titre en « Dernière heure ». C’était le même journal que [MASK] avait en poche, mais il s’agissait d’une édition qui venait de sortir de presse.
+
+['elle', 'qui', 'il', 'on', 'Madame']	Jave	— Elle l’affirme. — De sorte que [MASK] a un alibi ? L’inspecteur Janvier ne s’est pas montré aussi catégorique. Étant donné la dévotion d’Antoinette et de sa mère pour le docteur, il est certain que leur témoignage peut être considéré comme suspect.
+
+['Cela', 'Peut-être', 'cela', 'Y', 'Mais']	Janvier	— Je n’en sais rien. Cela dépendait de tant de choses dont il n’avait pas la moindre idée ! [MASK] possédait-il des informations dont il n’avait pas parlé à la presse ? C’était possible et c’était bien ce qui vexait le commissaire.
+
+['il', 'on', 'papa', 'monsieur', "j'"]	Gilbert	— Il lui a donné des conseils ? — Je n’ai pas écouté leur conversation. Ce que je sais, c’est que, si [MASK] est interrogé à nouveau par le juge d’instruction, comme c’est probable, papa l’accompagnera en tant qu’avocat.
+
+['Il', 'il', 'On', 'et', '--Il']	Gilbert	Nous avons une petite maison à Seine-Port, où nous passons les week-ends. [MASK] est venu nous y rejoindre dimanche matin par le premier train. Il n’a pas d’auto. — Il ne paraissait pas préoccupé ? — Il était comme toujours.
+
+['eux', ',', 'nous', 'vous', 'là']	Gilbert	— Je me demande ce qu’ils font, en face, depuis des heures. — Il vaut mieux ne pas vous impatienter, car cela peut durer toute la nuit. — Vous croyez qu’ils interrogeront [MASK] aussi ? — C’est possible, mais improbable.
+
+['elle', 'Elle', 'on', 'il', 'On']	Janvier	Elle a une très haute opinion d’elle. — Est-ce la femme à écouter aux portes ? Ici, [MASK] avait risqué une petite phrase qui allait lui mettre quelques millions de lectrices à dos. — Toutes les femmes n’écoutent-elles pas aux portes ?
+
+['On', 'Il', 'on', 'Elle', 'il']	Maigret	— Sans vous arrêter ? — Sans nous arrêter. [MASK] avait regardé la maison du docteur Jave, bien sûr. Il y avait, devant la porte cochère bien vernie, un groupe de curieux, un agent en uniforme qui les regardait avec ennui.
+
+['la', 'ses', "l'", 'de', 'le']	Lindbergh	Vit-on jamais foule aussi dense et passionnée, sur les Grands Boulevards, en pleine nuit pourtant, que lors de l’arrivée de [MASK] ? Ce que les gens cherchent, n’est-ce pas d’apprendre jusqu’où l’homme peut aller, dans le bien comme dans le mal
+
+['celui-ci', 'on', 'celle-ci', 'Napoléon', 'Dieu']	Coméliau	Il n’était pas seul. Il faisait partie d’un groupe de médecins en blouse blanche, dans la cour d’un hôpital. Une croix, sous un des personnages, désignait celui que [MASK] venait d’envoyer au Dépôt sous l’inculpation de meurtre.
+
+['...', 'Jane', 'S', 'R', 'M']	Maigret	Quand on a découvert le corps de cette femme, il était entièrement nu… Les yeux de [MASK] se firent plus petits, plus aigus, car elle touchait à un point qui l’avait intrigué dès le début. — Je ne sais comment dire… C’est délicat…
+
+['Il', 'Elle', 'Celui-ci', 'On', 'Jean']	Lassagne	Elle ne disait pas : — Nous devions. Elle était optimiste, sûre d’elle et de son fiancé. — Nous devons… [MASK] ne dormait pas beaucoup depuis quatre jours, à en juger par la besogne qu’il abattait.
+

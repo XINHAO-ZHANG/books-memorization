@@ -1,0 +1,200 @@
+['de', ',', 'se', 'le', 'la']	Jules	[MASK] revint chez sa femme.– Clémence, lui dit-il, j’ai besoin de mettre un peu d’ordre dans mes comptes de maison, ne t’offense donc pas de ce que je vais te demander. Ne t’ai-je pas remis quarante mille francs depuis le commencement de l’année
+
+['larmes', 'douleur', 'famille', 'colère', 'joie']	Clémence	; puis, regardant d’un œil sec cette belle tête devenue couleur de feu, mais sillonnée de larmes : – Allons, dis, répéta-t-il.Les sanglots de [MASK] recommencèrent. – Non, c’est un secret de vie et de mort.
+
+['celui-ci', 'Jean', 'Pierre', 'celui', 'Jacques']	Montriveau	– À huit heures moins un quart.– Je vous salue, dit [MASK] qui revint précipitamment chez lui pour demander à son portier s’il n’avait pas vu dans la soirée une dame à la porte.– Oui, monsieur, une belle femme qui paraissait avoir bien du désagrément.
+
+['et', ',', 'de', 'il', 'à']	Montriveau	Néanmoins, il fallait répondre. Quoiqu’il eût le sang fouetté par ces petites phrases en forme de flèches, bien aiguës, bien froides, bien acérées, décochées coup sur coup, [MASK] devait aussi cacher sa rage, pour ne pas tout perdre par une extravagance.–
+
+[',', 'de', "s'", 'se', 'on']	Armand	Aller au-devant de son aimé est une faute que peu d’hommes savent pardonner. La plupart d’entre eux voient une dégradation dans cette céleste flatterie ; mais [MASK] avait une grande âme, et devait faire partie du petit nombre d’hommes qui savent acquitter par un éternel amour un tel excès d’amour.–
+
+['elle', 'Elle', '</s>', 'tête', 'celle-ci']	Clémence	Il m’arrache sa fille, s’écria le mari dans un violent accès de désespoir.Il s’élança dans la chambre de sa femme ; mais le père n’y était plus. [MASK] avait été mise dans un cercueil de plomb, et des ouvriers s’apprêtaient à en souder le couvercle.
+
+['Isabelle', 'homme', 'autrui', 'un', 'Édouard']	Armand	Il dit un mot qui fit disparaître ses trois amis. Les femmes habituées à la vie des salons connaissent le jeu des glaces. Aussi la duchesse, intéressée à bien lire dans le cœur d’[MASK], était tout yeux.
+
+['elle', 'Alice', 't-elle', 'celle-ci', 'Diane']	Armand	– Ah ! dit-elle tout bas, tu vois, j’ai donc raison.– Laisse-moi finir, reprit [MASK], je vais d’un seul mot dissiper toutes tes craintes. Écoute, si je t’abandonnais, je mériterais mille morts.
+
+['il', 'elle', 'on', 'Pierre', 'celui-ci']	Clémence	Il ne voulut rien préjuger, et remit au lendemain à donner son avis, après avoir ordonné quelques prescriptions qui ne furent point exécutées, les intérêts du cœur ayant fait oublier tous les soins physiques. Vers le matin, [MASK] n’avait pas encore dormi.
+
+['Non', 'Oui', 'Très', 'Bonjour', 'OUI']	Justin	Maintenant, monsieur le vidame et monsieur le baron ont-ils quelque chose à me commander ?– [MASK], je suis content de toi, ne va pas plus loin sans ordre ; mais veille ici à tout, de manière que monsieur le baron n’ait rien à craindre.–
+
+['elle', "l'", 'la', 'le', 'une']	Auguste	La lettre ne fut rien pour [MASK], en comparaison des tendres reproches que lui fit essuyer la baronne de Maulincour. Manquer de respect et de confiance envers une femme, l’espionner sans en avoir le droit ! Et devait-on espionner la femme dont on est aimé ?
+
+['duchesse', 'mère', 'femme', 'Nevers', 'Villiers']	Marsay	Ils virent alors, dans l’antichambre de la cellule, la duchesse morte, posée à terre sur la planche de son lit, et éclairée par deux cierges. Ni Montriveau ni de [MASK] ne dirent une parole, ne jetèrent un cri ; mais ils se regardèrent.
+
+['tout', 'très', 'le', 'les', 'je']	Ronquerolles	Ah ! si ma vie m’appartenait, je me serais déjà fait sauter la cervelle !– Bah ! bah ! dit [MASK], calme-toi. Les duchesses ne s’envolent pas comme des bergeronnettes. Elle ne fera pas plus de trois lieues à l’heure ;
+
+['celui-ci', 'celle-ci', 'lui', 'je', 'Jean']	Jules	Elle eut une perception à la fois physique et morale de l’absence de son mari. Elle ne sentait plus le bras que [MASK] lui passait sous la tête, ce bras dans lequel elle dormait heureuse, paisible, depuis cinq années, et qu’elle ne fatiguait jamais.
+
+['Pierre', 'celui-ci', 'Jean', 'Paul', 'Jésus']	Montriveau	Oui, reprit [MASK] d’une voix altérée, votre foi catholique à laquelle vous voulez me convertir est un mensonge que les hommes se font, l’espérance est un mensonge appuyé sur l’avenir, l’orgueil est un mensonge de nous à nous, la pitié, la sagesse, la terreur sont des calculs mensongers.
+
+[',', 'mon', 'ma', 'de', 'la']	Henry	[MASK], que j’aime plus que moi-même, m’a dit que je faisai son malheure, et puisqu’il m’a repoussé de lui, et que j’ai perdu toutes mes espairence d’établiceman, je vai me noyer.
+
+[',', 'te', 'bien', 'tu', 'de']	Jules	– Comment te portes-tu ? dit-il à sa femme malgré l’espèce de froid qui les séparait.Les habitudes de cœur sont si difficiles à quitter !– Assez bien. [MASK], reprit-elle d’une voix coquette, veux-tu dîner près de moi
+
+['</s>', 'la', 'le', 'un', "l'"]	Jules	et, en consultation, je m’opposerais à son emploi.[MASK] rentra. Pendant onze jours et onze nuits, il resta près du lit de sa femme, ne prenant de sommeil que pendant le jour, la tête appuyée sur le pied de ce lit.
+
+['Alice', 'Marianne', 'Isabelle', 'Angélique', 'Diane']	Montriveau	puis, elle désirait sans doute se faire faire quelque confidence, car elle se haussa sur la pointe des pieds pour apporter son front sous les lèvres brûlantes d’Armand.– Après, reprit [MASK], vous ne me parlerez plus de votre mari : vous n’y devez plus penser.
+
+['très', 'et', 'je', 'bien', 'tout']	Henri	Mon affaire est de défendre mon bien, et j’en ai le droit ; car, moi, je l’aime, [MASK] ! C’est ma promière inclination, et il y va de mon amour et de mon sort à venir. Je ne crains rien, monsieur
+
+['diable', 'Quichotte', 'page', 'Molière', 'dieu']	Voltaire	Il ressemblait tout à la fois à [MASK] et à don Quichotte ; il était railleur et mélancolique, plein de mépris, de philosophie, mais à demi aliéné. Il paraissait ne pas avoir de chemise. Sa barbe était longue.
+
+["l'", 'en', 'le', 'un', 'celui-ci']	Ferragus	Je ne sais, répondit l’inconnu ; mais, au dire des médecins, il faudra bien encore sept ou huit pansements.– Eh ! bien, à ce soir, dit [MASK] en tendant la main à celui qui venait de poser la dernière bande de l’appareil.–
+
+['de', ',', 'le', 'S', "l'"]	Ferragus	En rien, madame. Mais, d’ailleurs, il paraît que votre fille se conduit bien mal envers vous. Aimée par un homme aussi riche, aussi puissant que l’est [MASK], il devrait lui être facile de vous rendre plus heureuse que vous ne semblez l’être.–
+
+['</s>', 'car', 'et', 'son', '"']	Jules	Faites, mon Dieu, dit-elle, qu’il ne sache pas que je voudrais le voir mourir avec moi.[MASK], ne pouvant soutenir ce spectacle, était en ce moment dans le salon voisin, et n’entendit pas des vœux auxquels il eût obéi.
+
+['sa', 'la', "l'", 'son', 'le']	Jules	Mais que se passe-t-il donc en toi ? lui dit sa femme en témoignant une vive anxiété.– J’en suis arrivé, répondit [MASK], à me demander si c’est toi qui me fais parvenir cet avis pour dissiper mes soupçons, reprit-il en lui jetant la lettre.
+
+['tu', 'je', 'HA', 'JE', 'ma']	Clémence	Eh ! bien, [MASK], j’aime encore mieux te croire, croire en ta voix, croire en tes yeux ! Si tu me trompes, tu mériterais…– Oh ! mille morts, dit-elle en l’interrompant.– Moi, je ne te cache aucune de mes pensées, et toi, tu…
+
+['un', 'une', 'en', 'Hô', 'or']	Armand.–	mais elle regarda malicieusement la pendule quand minuit sonna.– Ah ! vous me faites manquer le bal ! dit-elle en exprimant de la surprise et du dépit de s’être oubliée. Puis, elle se justifia le changement de ses jouissances par un sourire qui fit bondir le cœur d’[MASK]
+
+['et', 'il', ',', 'Il', 'elle']	Armand	mais [MASK] se contenta d’envoyer tous les matins sa carte à l’hôtel de Langeais. Chaque fois que cette carte était remise à la duchesse, elle ne pouvait s’empêcher de tressaillir, frappée par de sinistres pensées, mais indistinctes comme l’est un pressentiment de malheur.
+
+['Dame', 'le', '-', 'Monsieur', 'parti']	Armand	– Vous avez eu bien des peines, dit-elle après une pause pleine de pensées et avec cet attendrissement qui souvent est dans la voix des femmes sans être dans le cœur. – Non, répondit [MASK]. Jusqu’aujourd’hui, je ne savais pas ce qu’était le bonheur.–
+
+['il', 'et', 'on', 'Il', 'ils']	Montriveau	Arrivés au mur d’enceinte, ils le franchirent au moyen d’échelles qu’ils avaient fabriquées, et se trouvèrent dans le cimetière du couvent. [MASK] reconnut et la longue galerie voûtée par laquelle il était venu naguère au parloir, et les fenêtres de cette salle.
+
+['il', ',', 'elle', 'Il', 'et']	Jules	[MASK] examina tous les meubles de l’appartement avec une curiosité pleine d’intérêt, et manifesta malgré lui sa secrète satisfaction.– Eh ! bien, dites donc, monsieur, est-ce que vous voulez vous arranger de mes meubes ?
+
+['elle', 'lui', 'réponse', 'posée', 'elle-même']	Armand	Journée affreuse, mêlée de souffrances qui plaisent, de palpitations qui écrasent, excès de cœur qui usent la vie. Le lendemain elle envoya chez [MASK] chercher une réponse.– Monsieur le marquis a fait dire qu’il viendrait chez madame la duchesse, répondit
+
+['dam', 'val', '...', 'Monsieur', 'le']	Joséphine	Qu’y a-t-il donc, [MASK] ? demanda le valet.– Je ne sais pas, répondit-elle. Madame pleure et va se mettre au lit. Monsieur avait sans doute une inclination en ville, et cela s’est découvert dans un bien mauvais moment, entendez-vous
+
+['il', 'elle', '</s>', 'qui', 'Il']	Jules	Une poule qui sortit en caquetant d’une soupente le tira de sa méditation secrète. [MASK] avait pris sa résolution. Il suivit alors la mère d’Ida dans la pièce à feu, où ils furent accompagnés par le petit carlin poussif, personnage muet, qui grimpa sur un vieux tabouret.
+
+[',', 'elle', 'il', 'et', "qu'"]	Maulincour	[MASK] se proposa d’aller rendre une visite à cette femme le lendemain, elle ne pouvait pas refuser de le voir, il s’était fait son complice, il avait les pieds et les mains dans cette ténébreuse intrigue.
+
+['ge', 'le', 'ge', 'gi', 've']	Henry	; maintenant que je l’é, j’orai le couraje que mon projet exije. Mon parti est pris et l’honneur de ma famille le commande : je vais donc mettre un terme à mes souffransses. Ne faites aucune réflaictions sur mon projet, [MASK].
+
+['toutes', 'étaient', ',', 'et', 'entièrement']	Saint-Roch	Aucun peuple du monde n’a eu des yeux plus voraces. Mais les curieux furent particulièrement surpris en apercevant les six chapelles latérales de [MASK] également tendues de noir. Deux hommes en deuil assistaient à une messe mortuaire dans chacune de ces chapelles.
+
+['le', 'un', 'une', 'la', ',']	Jacquet	si les parents s’avisent de venir aujourd’hui qu’il fait beau, ils s’en prendront à moi : ils crieront comme des brûlés, ils diront des horreurs de nous et nous calomnieront…– Monsieur, lui dit [MASK], nous désirerions savoir où a été inhumée madame Jules.–
+
+['</s>', 'toi', 'moi', 'je', 'Moi']	Jules	Mais tu es aimé comme nul homme ne le sera jamais. Je ne sais pas ce que veulent dire les mots devoir et vertu. [MASK], je t’aime pour toi, je suis heureuse de t’aimer, et je t’aimerai toujours mieux jusqu’à mon dernier souffle.
+
+['de', ',', '-', 'le', 'la']	Antoinette	[MASK], veux-tu me suivre ?– Mais je ne vous quitte pas. Je vis dans votre cœur, mais autrement que par un intérêt de plaisir mondain, de vanité, de jouissance égoïste ; je vis ici pour vous, pâle et flétrie, dans le sein de Dieu
+
+['ce', 'et', '</s>', 'en', 'les']	Armand	Les aubergistes et les autorités du pays n’en demandèrent pas davantage.[MASK] et les amis dévoués qui le secondaient dans sa difficile entreprise pensèrent tout d’abord que ni la ruse ni la force ne pouvaient faire réussir la délivrance ou l’enlèvement de la sœur Thérèse du côté de la petite ville.
+
+['se', 'tous', 'la', 'tout', 'ses']	Clémence	Les souvenirs de cinq années tout heureuses, la beauté de [MASK], la naïveté de son amour, effacèrent alors promptement les derniers vestiges d’une intolérable douleur. Ce lendemain était un dimanche, jour où il n’y avait ni Bourse ni affaire ;
+
+['Là', "C'", 'là', 'Ici', 'Oui']	Jules	Là est ma faute, [MASK], une faute expiée par la mort. J’ai douté de toi. Mais la crainte est si naturelle à la femme, et surtout à la femme qui sait tout ce qu’elle peut perdre. J’ai tremblé pour mon amour.
+
+['le', 'de', 'les', 'à', 'la']	Henri	– Ah ! vous êtes donc mariés vous deusse ! dit la grisette en manifestant quelque surprise. C’est alors bien plus mal, monsieur, pas vrai, à une femme qui a le bonheur d’être mariée en légitime mariage, d’avoir des rapports avec un homme comme [MASK]…
+
+['il', 'cela', 'ça', 'elle', 'on']	Montriveau	Ce sont les mauvais lieux de notre histoire ! Ce préambule, ma chère enfant, reprit-elle après une pause, est pour arriver à te dire que si [MASK] te plaît, tu es bien la maîtresse de l’aimer à ton aise, et tant que tu pourras.
+
+['lui', 'il', 'alors', 'elle', 'là']	Clémence	Autre faute. Mais il souffrait tant ! Sa vie, jusque-là si droite, si pure, devenait tortueuse ; et il lui fallait maintenant ruser, mentir. Et [MASK] aussi mentait et rusait. Ce moment fut un moment de dégoût.
+
+['...', 'de', '-', '"', 'non']	Armand	L’un d’eux est un chirurgien…– Un chirurgien, dit-elle. [MASK], mon ami, l’incertitude est la plus cruelle des douleurs. Parlez donc, dites-moi si vous voulez ma vie : je vous la donnerai, vous ne la prendrez pas…
+
+['il', 'on', 'elle', 'Dieu', 'ne']	Montriveau	; et si [MASK] l’avait pu voir, il aurait tout pardonné…– Ceci serait d’un bel effet au théâtre, dit le duc de Grandlieu, et ne signifie rien quand il s’agit de vos paraphernaux, de votre position et de votre indépendance.
+
+[',', 'se', 'en', 'de', 'a']	Clémence	– Mon Dieu, laisse-moi cet ange encore assez de temps pour que je m’absolve moi-même de mes torts par une longue adoration… Fille, elle est sublime ; femme, quel mot pourrait la qualifier ?[MASK] leva les yeux, ils étaient pleins de larmes.–
+
+[',', 'se', 'de', 'en', 'le']	Armand	[MASK] comprenait déjà qu’il était ridicule de tirer son amour à brûle-pourpoint sur une femme si supérieure. Il entendit par une seule pensée toutes les délicatesses du sentiment et les exigences de l’âme. Aimer, n’est-ce pas savoir bien plaider, mendier, attendre
+
+['il', ',', 'et', 'soir', 'matin']	Montriveau	Le lendemain [MASK] passa la plus grande partie de la journée assis à la fenêtre de son cabinet, et occupé à fumer une quantité indéterminée de cigares. Il put atteindre ainsi l’heure de s’habiller et d’aller à l’hôtel de Langeais.
+
+[',', 'de', 'le', 'la', 'se']	Clémence	[MASK], qui était pâle, rougit extrêmement en apercevant la lettre, et cette rougeur subite causa la plus vive douleur à son mari.– Est-ce de la joie, dit-il en riant, est-ce un effet de l’attente ?–
+
+['"', 'bien', 'aussi', '_', 'ici']	Clémence	c’est de l’amour ! L’amour seul est aussi sagace, aussi ingénieux que l’est ce correspondant. Mon Dieu ! je tuerai [MASK].En ce moment une idée heureuse jaillit dans sa cervelle avec tant de force, qu’il en fut presque physiquement éclairé.
+
+['le', "l'", 'les', 'la', 'nous']	Morgan	Ils sont paisiblement rentrés sous le joug des lois civiles, de même que [MASK], l’Achille des pirates, se fit, de ravageur, colon tranquille, et disposa sans remords, à la lueur du foyer domestique, de millions ramassés dans le sang, à la rouge clarté des incendies.
+
+[',', 'de', 'le', 'en', 'encore']	Jules	dit [MASK]. Eh ! bien, il y a dans le fond de mon cœur une voix qui plaide pour ma femme, et qui se fait entendre plus haut que toutes les douleurs de la jalousie. Je subirai jusqu’à demain le plus horrible des supplices ;
+
+['NON', '...', 'Non', '-', 'HA']	Antoinette	– Je suis un grand sot, reprit-il en baisant la main de cette terrible reine redevenue femme.– [MASK], reprit-il s’appuyant la tête sur ses pieds, tu es trop chastement tendre pour dire nos bonheurs à qui que ce soit au monde.–
+
+[',', 'tout', 'que', 'tu', 'encore']	Ferragus	Ne mettez pas en balance deux sentiments si différents. J’avais un époux avant de savoir que mon père était vivant…– Si ton mari a mis, le premier, des baisers sur ton front, répondit [MASK], moi, le premier, j’y ai mis des larmes…
+
+['à', 'mort', ',', 'le', 'douleur']	Jules	Cette crainte, rien ne peut la détruire en moi. Telle est, [MASK], la cause de ma mort. Je ne saurais vivre en redoutant un mot, un regard ; un mot que tu ne diras peut-être jamais, un regard qui ne t’échappera point ;
+
+['il', 'elle', 'on', 'à', 'une']	Armand	Puis la terreur qu’[MASK] lui inspirait fut augmentée par une de ces sensations pétrifiantes, analogues aux agitations sans mouvement ressenties dans le cauchemar. Elle resta clouée par la peur, en croyant voir la lueur placée derrière le rideau prendre de l’intensité sous les aspirations d’un soufflet.
+
+['regardant', 'mal', 'car', '...', 'le']	Jules	Où vais-je ? – J’ai eu tort, monsieur, dit-il en regardant [MASK] ; mais la mort est, certes, la plus grande des expiations, et ma mort approche. Vous pouvez donc me demander tout ce que vous désirerez, je suis à vos ordres.–
+
+['Madame', 'Oui', 'Non', 'Monsieur', 'Mais']	Armand	elle ne prit la parole qu’après un intervalle de silence.– [MASK], dit-elle, il me semble qu’en résistant à l’amour, j’obéissais à toutes les pudeurs de la femme, et ce n’est pas de vous que j’eusse attendu de tels reproches.
+
+['elle', 'tout', 'il', 'on', 'à']	Montriveau	Pendant que [MASK] lui parlait, la duchesse jeta autour d’elle ce regard de femme, regard furtif qui sait tout voir en paraissant distrait. Elle aima beaucoup cette chambre assez semblable à la cellule d’un moine. L’âme et la pensée de l’homme y planaient.
+
+['celui-ci', 'il', 'lui', 'le', 'et']	Jules	, je te les accorde.Et, comme elle baisait les mains de son mari dans une touchante effusion de cœur, [MASK], fasciné par ce cri de l’innocence, la prit et la baisa au front, tout honteux de subir encore le pouvoir de cette noble beauté.
+
+['bien', 'que', 'est', 'soir', 'alors']	Armand	L’inconvenance de votre conduite est excusable : l’amour en est le principe ; laissez-moi le croire et vous justifier à moi-même. Hé bien ! [MASK], au moment même où ce soir vous me prédisiez le malheur, moi je croyais à notre bonheur.
+
+["n'", ',', "qu'", 'il', 'y']	Ronquerolles	[MASK] a donc raison, pensa-t-il, nous allons jouer maintenant une partie d’échecs.Dès lors il cacha ses émotions sous un calme complet. Aucun homme n’est assez fort pour pouvoir supporter ces changements, qui font passer rapidement l’âme du plus grand bien à des malheurs suprêmes.
+
+["l'", 'ait', 'de', 'un', 'le']	Montriveau	; il devina donc, en échangeant quelques regards avec le futur évêque, que cet homme était le promoteur des difficultés dont s’armait pour lui l’amour de la duchesse. Qu’un ambitieux abbé bricolât et retînt le bonheur d’un homme trempé comme l’était [MASK] ?
+
+[';', ',', '...', 'appeler', 'ainsi']	Antoinette	En fait d’obstacles, il n’avait donc plus que ses propres terreurs à vaincre ; car il ne voyait plus à son bonheur d’autre empêchement que les caprices de celle qui se laissait appeler [MASK]. Il résolut alors de vouloir plus, de vouloir tout.
+
+['adieu', 'Monsieur', 'Adieu', 'partez', 'Madame']	Armand	Mais laissez Dieu tranquille là où il est, pour l’amour de lui et de moi. Madame, vous n’irez plus à confesse, ou…– Ou ? dit-elle en souriant.– Ou je ne reviendrai plus ici.– Partez, [MASK]. Adieu, adieu pour jamais.
+
+['la', ',', "l'", 'se', 'ce']	Jules	Vous vous faites aimer davantage, et il me semble que c’est voler quelque chose à [MASK]. Mais, mon bon père, songez donc qu’il est au désespoir. Que lui dire dans deux heures ?– Enfant, ai-je donc attendu ta lettre pour te sauver du malheur qui te menace
+
+['Elle', 'Personne', 'On', 'Ta', 'elle']	Clémence	Amant encore, il songea moins à sa vie brisée qu’à celle de cette femme ; il écouta, non sa propre douleur, mais la voix lointaine qui lui criait : – [MASK] ne saurait mentir ! Pourquoi te trahirait-elle ?
+
+['le', 'la', ',', 'à', 'de']	Clara	Vous ne regretteriez pas cette délicieuse figure qui…– Ha, beaucoup ; mais moins pour moi que pour celui dont elle ferait la joie. Cependant, si j’étais sincèrement aimée, toujours, bien, que m’importerait la beauté ? Qu’en dites-vous, [MASK]
+
+['elle', 'autrui', 'eux', 'elle-même', 'un']	Auguste	La chère douairière, qui faisait une neuvaine pour le salut d’[MASK], se crut exaucée. – Eh ! bien, dit le commandeur, tu peux maintenant te rendre au bal dont tu me parlais, je n’ai plus d’objections à t’opposer.
+
+['dignité', ',', 'plus', 'moi', 'femme']	Médée	Il y avait du moi de [MASK] dans sa vie, comme dans celle de l’aristocratie, qui se mourait sans vouloir ni se mettre sur son séant, ni tendre la main à quelque médecin politique, ni toucher, ni être touchée, tant elle se sentait faible ou déjà poussière.
+
+['Mais', 'Seigneur', 'Oh', 'Oui', 'Maintenant']	Jules	Tu vois bien ? Déjà tes sourcils se froncent. Oh ! je hais cordialement le monde. Nous sommes si heureux sans lui ! pourquoi donc l’aller chercher ? [MASK], je t’en supplie, promets-moi d’oublier tout ceci.
+
+['il', 'elle', 'et', '</s>', 'qui']	Jules	Elle leva la tête, se mit sur son séant, trouva la place de son mari froide, et l’aperçut assis devant le feu, les pieds sur le garde-cendre, la tête appuyée sur le dos d’un grand fauteuil. [MASK] avait des larmes sur les joues.
+
+[',', ';', '-', '...', '/']	Fouquereau	Elle avait été écrite en chiffres. – Va-t’en, [MASK]. Le concierge sortit. – C’est un mystère plus profond que ne l’est la mer à l’endroit où la sonde s’y perd. Ah ! c’est de l’amour !
+
+['elle', '...', 'la', 'bad', 'a']	Clémence	– Oh ! s’écria [MASK], vous avez lu dans le cœur de votre enfant, je n’ai pas d’autre peur, ajouta-t-elle d’un ton déchirant. C’est une pensée qui me glace. Mais, mon père, songez que je lui ai promis la vérité dans deux heures.–
+
+['on', 'il', 'elle', 'je', 'celui-ci']	Jules	Quand il sortit, [MASK] ne lui fit pas une seule question, il n’eut besoin que d’un geste. – Appelez en consultation ceux de mes confrères en qui vous aurez le plus de confiance, je puis avoir tort.– Mais, docteur, dites-moi la vérité.
+
+['il', 'le', "l'", 'son', 'lui']	Montriveau	De son côté, [MASK], tout heureux d’obtenir la plus vague des promesses, et d’écarter à jamais les objections qu’une épouse puise dans la foi conjugale pour se refuser à l’amour, s’applaudissait d’avoir conquis encore un peu plus de terrain.
+
+['il', 'on', 'elle', 'et', 'celui-ci']	Armand	et quand la main de la duchesse l’interrogeait, la sienne restait muette. Enfin, après avoir cheminé pendant quelque temps ensemble, [MASK] lui dit d’avancer, elle avança, et s’aperçut qu’il empêchait la robe d’effleurer les parois d’une ouverture sans doute étroite.
+
+['se', ',', 'on', 'On', 'ne']	Auguste	[MASK] se livra donc tout entier aux délices de la plus touchante et de la plus profonde des passions, à un amour purement admiratif. Ce fut d’innombrables désirs réprimés, nuances de passion si vagues et si profondes, si fugitives et si frappantes, qu’on ne sait à quoi les comparer
+
+['il', ',', 'on', 'qui', 'elle']	Montriveau	[MASK] ne savait pas, comme en ces sortes de circonstances le savent les héros de boudoir, imiter le rude logicien marchant devant les Pyrrhoniens, qui niaient le mouvement. Cet homme audacieux manquait précisément de l’audace habituelle aux amants qui connaissent les formules de l’algèbre féminine.
+
+['féminin', 'sujet', 'verbe', 'temps', 'genre']	Furne	Une voiture, vite, dit-elleErreur du [MASK] : « dit elle » au lieu de « dit-elle »..La voiture venue, elle descendit avec une rapidité convulsive, revint chez elle, se mit au lit, et fit défendre sa porte.
+
+['Dieu', 'lui', 'elle', 'cela', 'vous']	Jules	Adjoint né de sa mairie, il obtenait, en style de journal, toute la considération qui lui était due. Grâce à [MASK], sa position s’était améliorée par un bon mariage. Patriote inconnu, ministériel en fait, il se contentait de gémir, au coin du feu, sur la marche du gouvernement.
+
+['France', 'Bordeaux', 'Provence', 'Paris', 'lèvres']	Martin	Mais, pour lui rendre entièrement justice, il est nécessaire d’ajouter qu’elle avait une si haute idée de ses ruines, qu’elle se décolletait le soir, portait des gants longs, et se teignait encore les joues avec le rouge classique de [MASK].
+
+['personne', 'il', 'et', 'on', '</s>']	Jules	; puis, en dehors de l’enceinte, les domestiques. Il y avait, pour les flâneurs ecclésiastiques, quelque chose d’inexplicable dans une telle pompe et si peu de parenté. [MASK] n’avait voulu d’aucun indifférent à cette cérémonie.
+
+['avenir', 'amour', 'autrui', 'astrologie', 'astres']	Armand	Malgré son apparent dédain pour les noires prédictions d’[MASK], la duchesse était en proie à une véritable terreur. À peine l’oppression morale et presque physique sous laquelle la tenait son amant cessa-t-elle lorsqu’il quitta le bal.
+
+['-', ',', ';', '...', ':']	Jules.–	Allons, viens, quitte cet odieux cimetière, où les morts sont parés comme des femmes au bal.– Si nous l’ôtions de là ?– Est-ce possible ?– Tout est possible, s’écria [MASK] Je viendrai donc là, dit-il après une pause.
+
+['se', 'je', 'de', ',', 'il']	Othello	; mais, auprès de vous, [MASK] n’est qu’un enfant !– Ha ! dit-il au désespoir, je ne suis pas aimé.– Du moins, en ce moment, convenez que vous n’êtes pas aimable.– J’en suis donc encore à vous plaire ?–
+
+['langues', 'histoire', 'géographie', 'lois', 'français']	Montriveau	Les grandes connaissances de [MASK] sur les mœurs de ces pays en faisaient un précieux compagnon de voyage pour ces personnes, qui le prièrent d’être des leurs, et il y consentit. Le ministre de la guerre le nomma lieutenant-général et le mit au comité d’artillerie pour lui faciliter cette partie de plaisir.
+
+['ceux', 'ce', ',', 'se', 'de']	Montriveau	Le monde sait bien deviner le malheur des hommes dédaignés, et ne le confond point avec les brouilles que certaines femmes ordonnent à leurs amants d’affecter dans l’espoir de cacher un mutuel amour. Et chacun se moqua de [MASK] qui, n’ayant pas consulté son cornac, resta rêveur, souffrant ;
+
+["c'", "C'", 'Socrate', 'Kant', 'vertu']	Descartes	Il y avait encore de l’amour dans le si… Le doute philosophique de [MASK] est une politesse par laquelle il faut toujours honorer la vertu. Dix heures sonnèrent. En ce moment le baron de Maulincour se rappela que cette femme devait aller au bal dans une maison où il avait accès.
+
+['t-il', ':', '"', 'aussi', ';']	Julien	Monsieur le marquis a fait dire qu’il viendrait chez madame la duchesse, répondit [MASK].Elle se sauva afin de ne pas laisser voir son bonheur, elle alla tomber sur son canapé pour y dévorer ses premières émotions.– Il va venir ! Cette pensée lui déchira l’âme.
+
+["l'", 'celui', 'cet', 'celui-ci', 'Monseigneur']	Montriveau	La vue de cet homme au teint frais et reposé, dont le front était calme, la bouche ascétique, le regard malicieusement inquisiteur, qui avait dans son maintien une véritable noblesse ecclésiastique, et déjà dans son vêtement le violet épiscopal, rembrunit singulièrement le visage de [MASK] qui ne salua personne et resta silencieux.
+
+["c'", "C'", 'elle', 'qui', 'il']	Montriveau	; car, dans le doute d’être aimée qui la poignait, elle se trouvait heureuse de se dire à elle-même : – Je l’aime ! Le monde et Dieu, elle avait envie de les fouler à ses pieds. [MASK] était maintenant sa religion.
+
+['Oui', 'moi', 'toi', 'oui', 'tristesse']	Jules	? Morte, tu ne m’en chasseras jamais. Je suis fière de cette vie unique ! Tu ne m’auras connue que dans la fleur de la jeunesse, je te laisse des regrets sans désenchantement. [MASK], c’est une mort bien heureuse.
+
+['le', ',', 'se', 'de', 'tout']	Jules	Faut-il me taire maintenant ?[MASK] pâlit, mais sa belle figure reprit promptement un calme faux ; puis, entraînant l’officier sous un des auvents de la Bourse provisoire où ils se trouvaient alors, il lui dit d’une voix que voilait une profonde émotion intérieure :
+
+['il', 't-il', 'elle', 'mari', 'elle']	Jules	: – Vous pouvez desservir, je vais tenir compagnie à madame.Et il rentra chez sa femme qu’il trouva pleurant, mais étouffant ses sanglots dans son mouchoir.– Pourquoi pleurez-vous ? lui dit [MASK]. Vous n’avez à attendre de moi ni violences ni reproches.
+
+['à', 'de', 'le', 'S', 'm']	Armand	Mais cela ne se fait pas, dit-elle en croisant à la hâte son peignoir, [MASK], vous êtes un homme abominable. Allons, laissez-moi, je vous prie. Sortez, sortez donc. Attendez-moi dans le salon. Allez.–
+
+['...', 'la', ':', 'de', 'BUR']	Camuset	– Je sais, reprit-il, que vous avez chez vous un inconnu qui prend le nom de [MASK]. La vieille le regarda soudain, sans donner la moindre marque d’étonnement. – Dites, peut-il nous entendre ? Songez qu’il s’agit de votre fortune.–
+

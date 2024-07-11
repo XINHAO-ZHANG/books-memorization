@@ -1,0 +1,200 @@
+['</s>', '"', '_', '-', 'le']	Bauport	La cloche qui sonnait vêpres vint enfin leur rendre la liberté. Ils s’envolèrent vers l’église par le chemin parcouru tant de fois. [MASK] restait pour tenir tête à ses hôtes qui n’avaient aucune envie de déserter le banquet ;
+
+['</s>', 'il', 'on', '--il', 'celui-ci']	Laurent	Elle avait rougi en parlant ; tout son joli visage respirait la tendresse et la chaleur d’une âme maternelle. [MASK] la regardait toujours troublé, inquiet, sentant monter à ses lèvres il ne savait quel flot de paroles qu’il n’avait jamais dites et ne savait comment dire.
+
+['moi', 'toi', 'non', '-', 'oui']	Vevette	Elle baissait la tête et rougissait sous ce regard qui n’était pas celui d’un maître. La voix du père, grave et très douce, s’éleva dans l’ombre : — Tu aimes les petits, – garde le mien, [MASK] ;
+
+[',', 'il', 'lui', 'on', 'qui']	Roger	[MASK] prêta l’oreille, et le grand fracas des vagues qui déferlaient à une lieue de là, sur la plage, lui arriva comme l’écho d’une bataille. Le froissement des galets roulés rappelait les mitrailleuses, les lourdes vagues, s’écroulant à pic, imitaient les coups de canon…
+
+['il', '</s>', 'elle', 'et', 'on']	Réal	— Oh ! non ! Il y a tant de choses amusantes dans la forêt ! Il y a les fleurs, il y a les bêtes !… Mais toi, tu n’aimes les bêtes que pour les tuer. [MASK] posa la main sur son carnier vide.
+
+['et', 'ou', 'goethe', 'lui', 'wagner']	Virgile	; la poésie entrevue dans [MASK] pendant les heures d’étude venait d’apparaître brusquement dans sa vie ; mais les lumières du château brillaient à quelque distance dans l’obscurité ; on l’attendait pour souper. — Adieu, dit-il, non sans regret.
+
+['</s>', 'le', '"', 'un', 'et']	Jacques	Je ne suis pas mariée, ajouta-t-elle plus bas. [MASK], ivre de joie, sentit tout à coup que cette heure allait faire date dans sa vie. — Les rossignols chantaient aussi bien autrefois, dit-il, s’enhardissant soudain, et cela ne vous a pas empêchée de partir
+
+['encore', 'couché', ',', 'cela', 'ainsi']	Sylvie	le soleil était couché quand il rentra. Le lendemain, il attendit [MASK] pendant longtemps. Venu alors que le soleil était encore haut sur l’horizon, il partit bien après que la bande d’or se fut éteinte au couchant… mais il ne vit point son amie.
+
+['ah', 'oh', 'non', 'hélas', 'oui']	Jacques	il s’élança rapidement vers la jeune femme, qui se retourna effrayée. — [MASK] ! murmura-t-elle en le reconnaissant. Elle étendit la main vers un tronc pour se soutenir, palpitante de sa peur passée et de son émotion nouvelle, et resta immobile, appuyée aux branches inférieures d’un lilas.
+
+['</s>', 'personne', 'il', 'elle', '--il']	Marcel	il était tranquille pour sa mère. La veuve languit quelques mois, puis elle mourut un jour d’une indisposition légère que sa constitution affaiblie ne put supporter. [MASK] se trouva tout seul au moulin qui lui paraissait désormais bien grand.
+
+['jeanne', 'georges', 'robert', 'elle', 'jacques']	Naïs	— Je ne sais, murmura [MASK], et qu’importe ? Nul ne mourra pour moi ! — Mieux vaudrait pour toi vivre ! dit le jeune homme. Il posa l’écuelle et se leva. — Quelle chose incompréhensible ! dit-il.
+
+['jules', 'valentine', 'pierre', 'maurice', 'julien']	Laurent	Malgré lui, le regard de [MASK] revenait toujours à la jeune fille, qui restait immobile et comme assoupie dans la chaleur du soleil déjà haut. — Il y a longtemps que tu es chez nous ? demanda-t-il.
+
+['elle', 'lui', 'elle-même', 'celle-ci', 'eux']	Vevette	Il revoyait la mourante s’appuyant sur [MASK] pour respirer avec effort l’air qui n’entrait plus dans ses poumons, – il voyait la jeune fille, pâle de fatigue, soutenir courageusement dans ses bras la pauvre femme qui se débattait contre la mort ;
+
+['robert', 'tom', 'paul', 'alice', 'john']	Roger	Il y a là un contraste qui me navre et qui m’attire. N’est-il pas vrai que le soleil ne devrait briller que sur des scènes de paix, sinon de joie ? — Les malheureux ont pourtant quelque droit à un peu de consolation, répondit [MASK].
+
+[',', 'il', 'elle', ';', 'et']	Roger	[MASK] ferma sa fenêtre, descendit l’escalier de granit qui résonnait sous les clous de ses souliers de chasse, et, passant devant la servante, se trouva dans le jardin. — Monsieur, est-ce que vous sortez ? Il n’y pas de bon sens.
+
+['jacques', ':', ';', '.', 'jeanne']	Régine	— Vous êtes seule, dans ce bois, la nuit ? demanda-t-il avec un reste de soupçon ; votre mari vous laisse sortir seule ? — J’étais venue écouter les rossignols, répondit doucement [MASK], ils chantent si bien !
+
+['on', 'cela', 'avoir', 'porter', 'il']	Martial	Il n’en était pas sûr. Revoir en présence des amis et de la famille un visage dont on a rêvé deux ans n’est pas une épreuve indifférente : on peut être ridicule, produire une impression défavorable, et [MASK] craignait le ridicule par-dessus tout.
+
+['elle', 'on', 'il', 'celle-ci', 'personne']	Régine	Un soir, la pluie les avait empêchés de sortir ensemble, il vint retrouver son amie sous la lampe, auprès des vieux parents ; un intrus se présenta, fut aimable et se retira après une courte visite. C’était un prétendant protégé par la famille : [MASK] ne pouvait rester veuve ;
+
+[',', 'rodin', 'maurice', 'rodolphe', 'chateaubriand']	Charmide	la tête penchée, les yeux bleus perdus dans l’ombre de ses cheveux blonds et frisés, elle avait l’air d’une jeune victime parée pour le sacrifice. — Entre donc, dit enfin [MASK], arraché à sa contemplation d’artiste par sa préoccupation d’amoureux.
+
+['il', 'elle', 'et', ',', 'on']	Marcel	[MASK] ne lui répondit pas ; il la regardait avec une expression pénible. Enfin, les paroles se firent jour. — Est-ce vrai, lui dit-il, que tu vas te marier ? Elle leva la tête et vit qu’il souffrait.
+
+['maman', 'marie', 'je', 'papa', 'louise']	Claire	; un soir d’hiver, pendant que [MASK] travaillait auprès de son lit, la mère se souleva un peu sur le coude. — Tiens-tu toujours à ton bon ami ? dit-elle. — Autant que le premier jour, vous le savez, maman ;
+
+['dieu', 'pierre', '</s>', 'jésus', 'chacun']	Naïs	Dis, petite fille, viens ici, et écoute ce jeune homme qui demande s’il te déplaît. La modestie, attribut des vierges, fermait les lèvres de [MASK], et l’ombre qui descendait du ciel cachait sa rougeur ; mais elle dit d’une voix faible :
+
+['le', 'chacun', "l'", 'roi', 'il']	Marcel	La fenêtre se referma, et [MASK], vexé, dégringola de son poste au travers des aubépines et des troènes, non sans quelque dommage pour ses habits, puis s’en alla en faisant claquer bruyamment un fouet de charretier qu’il avait pris pour contenance.
+
+['"', '</s>', '.', ',', 'le']	Chrysis	[MASK], qui l’avait d’abord écouté avec indifférence, le regarda d’un air étonné, et, renversant en arrière sa jolie tête sans cervelle, se mit à rire à gorge déployée. — La postérité ! dit-elle au milieu de ses rires, la postérité !
+
+['chambre', 'ménage', 'charge', 'celui-ci', 'maison']	Laurent	Faudrait-il mendier de village en village ce pain qu’elle eût préféré devoir au travail ? C’est alors que la femme de [MASK] s’était approchée, et trouvant à cette enfant un visage honnête, l’avait louée pour soigner les veaux et les agneaux, et donner du grain aux poules.
+
+['il', 'elle', 'pour', 'se', 'à']	Laurent	plein de colère contre la négligence de ses serviteurs, [MASK] pénétra plus loin, et, à mesure qu’il avançait, la bergerie s’étendait de plus en plus, déroulant à perte de vue son toit noir d’ombre, sa litière de paille froissée et ses cr��ches vides
+
+['je', 'ne', 'dieu', 'il', 'celui-ci']	Chrysis	S’il n’était pas encore considéré comme un grand artiste, il pouvait l’être du jour au lendemain. Que [MASK] l’aimât, seulement, et dans la joie de son désir satisfait, dans l’épanouissement de son orgueil d’amant, il pouvait faire une œuvre qui passerait à la postérité…
+
+['le', 'un', 'jacques', 'son', 'pierre']	Marcel	Qui avait pu grimper là ? Elle pencha la tête en dehors, et aperçut [MASK], assis dans la haie, en face de la maison, qui la regardait de tous ses yeux noirs. — Te voilà ? dit-elle en souriant, sans élever la voix.
+
+['il', '...', 'un', 'son', ':']	Réal	Le jour, [MASK] courait la plaine et la forêt ; mais, le soir venu, un sentier frayé dans les herbes par son pas fidèle le ramenait au lieu de la première rencontre. Lorsqu’il voyait les troncs d’arbres s’éclaircir, une singulière émotion s’emparait de lui
+
+['elle', "l'", 'cette', 'qui', 'pour']	Martial	. Un frisson presque insensible agita les brins d’herbe dressés sur le chaume, et une faible lueur rosée, si faible qu’on la distinguait à peine, se glissa entre les vapeurs grises du levant. [MASK] ouvrit sa fenêtre : rien dans le village n’annonçait encore le réveil
+
+['il', 'elle', 'celui-ci', 't-il', 't-elle']	Daphné	— Eh bien ! s’écria [MASK] en levant au ciel ses mains rougeaudes, que veux-tu donc qu’elle aime ? Est-ce que l’or ne donne pas tout ? Toi-même, si tu avais de l’or, elle t’aimerait !
+
+['</s>', 'marcel', 'paul', 'le', '"']	Bauport	De même qu’ils avaient été les seuls enfants du hameau pour aller à l’école la première année, ils se trouvaient, en raison de leur âge, seuls en cette circonstance. [MASK], qui n’était ni méchant ni orgueilleux, avait invité les parents de Marcel au dîner de fête.
+
+['marguerite', 'thérèse', 'geneviève', 'jeanne', 'louise']	Mélie	cependant jamais il n’avait frappé l’orpheline, retenu peut-être par un vague respect de ce malheur qui n’avait aucune protection. La vie de [MASK] s’était écoulée dans cette cabane, entre les vaches et les poules, sans joies, sans espérances, sans rêves d’avenir.
+
+['moi', 'viens', 'va', 'je', 'non']	Chrysis	Va, [MASK], j’ai réfléchi, depuis : tu n’es ni meilleure ni pire que tes semblables, et ce n’est point à vous, filles amoureuses de tous les plaisirs, qu’il faut demander des sentiments délicats… — Tu ne m’aimes plus, alors ?
+
+[',', 'il', 'elle', 'paul', 'ève']	Charmide	Tu prétends m’aimer, et tu m’exposes à perdre les bienfaits de cet homme généreux. — Ce n’est pas pour de l’argent que je voulais ton amour, dit [MASK] d’un air sombre. Il avait reculé et se tenait sur le seuil de sa porte
+
+['celui-ci', 'vénus', 'rose', 'celle-ci', 'narcisse']	Naïs	La fraîcheur du matin et celle du printemps donnaient un éclat incomparable aux touffes des lauriers, ainsi qu’à la verdure glauque des iris et des nénufars. Au bout du jardin, dans l’ombre d’un bouquet d’arbres, le jeune homme aperçut la forme élancée de [MASK].
+
+['le', 'jacques', 'paul', '.', 'georges']	Roger	— C’est mon avis, dit [MASK]. Ils se remirent à marcher de conserve dans l’air apaisé de ce coin de vallée, protégé par une haute colline. — Vous allez loin ? demanda-t-il au bout d’un instant. — Jusqu’au rivage.
+
+['cela', 'ainsi', 'elle', 'celle-ci', 'ça']	Maurice	Il se penchait vers elle, et de temps en temps essuyait avec ses lèvres une larme sur la joue de la jeune fille. En voyant [MASK], ils s’arrêtèrent confus et surpris. — Voilà pourquoi, pensait-il, j’ai respecté cette fleur !
+
+['paris', 'versailles', 'palais', 'jérusalem', 'vincennes']	Charmide	la brassée de feuillages qui jonchait le seuil, balayée de ci, de là, s’éparpillait de tous côtés, et, dernier outrage plus cruel, la statuette, repoussée d’un pied brutal, brisée en plusieurs morceaux, gisait devant la porte même de [MASK].
+
+['.', '</s>', ',', '?', '"']	Laurent	; mais la famille, c’est tout bon ou tout mauvais : quand on ne s’aime pas, on se déchire, et moi, j’aime la paix. — Elles ne sont pas bonnes pour toi ? insista [MASK].
+
+['il', 'puis', 'elle', 'et', 'mais']	Charmide	Avec un léger soupir, [MASK] se leva, et, soulevant un cuveau renversé dans le coin le plus frais de la cour, il retira avec précaution, de dessous cet abri, un objet d’argile qu’il regarda longtemps avec une sorte de respect.
+
+[',', 'et', 'il', 'en', '</s>']	Mélie	[MASK] prenait bien la chose, à ce qu’il lui semblait, et cela le mettait en belle humeur. — Et jolie ? — Pour cela, rien de trop ! fit l’ex-amoureux en baissant l’oreille. Mais la noce n’est pas faite, et ne se fera qu’à Pâques
+
+['il', 'et', 'elle', ',', 'qui']	Roger	[MASK] interrogea le ciel du regard. — Dites donc, monsieur, lui dit la vieille servante qui venait aussi examiner le temps, est-ce que ce n’est pas fini, le sabbat de cette nuit ? — Je crois plutôt que cela va recommencer, répondit-il.
+
+[',', 'elle', 'il', 'cela', 'natacha']	Réal	demanda [MASK] avec un certain trouble. — Je ne sais pas… tu es presque de mon âge, tu es beau, tu dois être bon, j’ai pensé que tu ne te moquerais pas de moi…, et puis j’avais envie de te parler.
+
+["d'", ',', 'juste', 'terre', "jusqu'"]	Martial	; le ciel étincela jusque dans ses replis de l’occident. Une flèche d’or vint frapper [MASK] entre les yeux, et la brume enroulée comme un voile de tulle s’éleva lentement sur l’onde, sur les collines ;
+
+['elle', 'alice', 'harry', 'celui-ci', 'anna']	Sylvie	— Allons, répondit [MASK], je vais te montrer quelque chose. Il ramassa son fusil et la suivit docilement. Il l’eût suivie partout. Ils marchèrent un moment, puis la jeune fille s’arrêta auprès d’un rocher qui surplombait une source.
+
+['valentine', 'alice', 'la', 'marguerite', 'jeanne']	Sylvie	Il n’osait rien demander. — À demain, répondit [MASK], les yeux brillants, les joues couvertes de carmin. Il attendait… Elle lui présenta les couronnes de lierre, qu’elle tenait toujours à la main. — Prends-les, dit-elle.
+
+[',', 'et', 'de', '...', '"']	Régine	Était-ce la douleur qui, en la touchant de son aile, lui avait donné cette maturité précoce ? [MASK] était-elle un de ces fruits savoureux qui contiennent d’eux-mêmes, sans que le jardinier y contribue, la quintessence de tous les arômes, de tous les parfums
+
+[',', 'paul', '...', 'antoine', '(']	Claire	Je lui en parlerai, dit [MASK] en retirant sa main. — Quand ? — Tout de suite. Viens après souper, tu auras la réponse. Il se pencha vers elle et voulut l’embrasser ; elle se retira tout doucement. — Nous ne sommes plus des enfants
+
+['famille', 'jacques', 'napoléon', 'marguerite', 'jeanne']	Sylvie	Au bout d’un peu de temps il entrevit une maisonnette ; un homme à l’air soucieux, à l’aspect peu encourageant, était assis sur un banc devant la porte. C’était le père de [MASK], sans doute.
+
+['jacques', 'julien', 'jean', 'georges', 'pierre']	Mélie	Pendant que [MASK] sentait la rage et l’indignation lui déchirer le cœur, la porte extérieure s’ouvrit, et le vieux entra tout couvert de neige. Il se secoua sur le seuil, et pénétra dans sa demeure sans une parole amicale pour celle qui gardait son foyer.
+
+[',', '...', ';', ')', '-']	Charmide	— La voilà telle qu’elle est, dit tout haut [MASK], la voilà, la courtisane qui n’aime que l’or, et qui, pour de l’or, accepte le plus ridicule et le plus laid de ceux qui possèdent des vaisseaux ou des fermes d’un bon rapport.
+
+['il', 'on', 'lui', 'et', 'homme']	Roger	[MASK] ne voyait que son profil délicat de médaille grecque, et cependant il sentait le regard de ses yeux verts se fixer sur les vagues comme pour les interroger. Dans cette courte conversation sur la route, elle venait de lui révéler la plaie de son cœur, jusque-là si religieusement cachée.
+
+['il', 'léonard', 'on', 'beethoven', 'raphaël']	Maurice	comme la veille, [MASK] retrouva les tons doux et fins qui l’avaient charmé, et l’œuvre avança de cent coudées vers la postérité. Il la revit encore plusieurs fois, sous le jour tamisé de l’atelier ; il se complut à faire de cette œuvre la meilleure.
+
+[',', ';', 'le', 'la', ':']	Roger	; elle ne portait aucune indication et n’offrait rien d’intéressant. — C’est une épave, dit [MASK]. Pour s’entendre, ils devaient se parler à l’oreille, et son souffle effleura la joue de sa compagne. — En arrive-t-il beaucoup ainsi
+
+['ainsi', 'cela', ',', 'encore', 'ça']	Martial	? La jeune fille sourit et fit un signe de tête, puis levant les yeux timidement, elle regarda [MASK] pendant la durée d’un éclair. Il tressaillit ; que n’eût-il pas donné pour revoir ces yeux merveilleux, pleins de flammes et peut-être de larmes !
+
+['non', 'oui', 'mais', 'seigneur', 'sire']	Chrysis	dit-elle attristée. Moi qui venais t’offrir… — Ce que tu m’as refusé quand je l’implorais ? Tu as peur de moi maintenant, et c’est pour m’apaiser que tu viens… Non, [MASK], je ne me vends point, moi ;
+
+['et', 'elle', 'a', 'il', ';']	Martial	; la jeune fille sourit, fit un signe affirmatif et recommença de traire… [MASK], le cœur serré, reprit lentement le chemin de la falaise. — Trop tard ! pensa-t-il amèrement ; qu’irais-je maintenant chercher auprès de celle qui en aime un autre
+
+['</s>', 'il', 'elle', '--il', 'et']	Charmide	— Aucune, mon bel ami, tant que tu n’auras pas une bourse à la main, et tâche que la bourse soit pleine de pièces sonnantes. Elle lui jeta un dernier rire de mépris, et rentra dans la maison. [MASK] demeura un instant indécis.
+
+['son', "l'", 'ses', 'la', 'maître']	Céline	Celui-ci laissa tomber sa baguette ; doucement, parlant toujours, mais très bas, il prit la main de [MASK], et ils restèrent tous deux silencieux, sous les rayons ardents du soleil qui dominait le coteau, noyés jusqu’aux genoux dans l’herbe humide et verte…
+
+['il', 'et', 'on', 'elle', 'puis']	Laurent	Poussé par un désir secret de retrouver au moins l’image de son rêve, [MASK] vint jeter un coup d’œil sur le troupeau rentré au bercail, et dans le rayon de soleil, il aperçut la jeune fille assise à la même place que le matin, nourrissant son agneau de la même façon.
+
+['personne', ',', 'plus', '...', 'pas']	Chrysis	; qui sait si lui-même, en plaidant sa cause avec l’enthousiasme d’un ardent désir, ne pourrait séduire [MASK] ? Il se résolut à l’attendre, et laissa sa porte ouverte, afin de distinguer le plus léger bruit dans la rue.
+
+['claire', 'thomas', 'simon', 'jean', 'mathieu']	Marcel	Après la procession, la cérémonie, le pain bénit, les cantiques, l’étourdissement général d’un jour si peu semblable aux autres, Claire et [MASK] se trouvèrent à la sortie de l’église au milieu de leurs parents, venus quelques-uns de très loin pour cette occasion mémorable.
+
+['san', '.', 'ali', 'ra', 'fergu']	Roger	elle ne peut ni s’écarter ni trouver un port. — Elle trouvera bien quelqu’un pour la sécher et la brûler, répondit [MASK]. — Eh bien ? fit-elle en tournant vers lui son visage soudain enfiévré, elle sera au moins bonne à quelque chose !
+
+['</s>', 'il', 'elle', 'qui', 'celui-ci']	Laurent	? Le soleil dardait entre des nuages gris qui changeaient lentement de place, jetant des ombres tantôt ici, tantôt là. [MASK] se trouvait dans un rayon qui lui brûlait le front sous son chapeau de feutre et les épaules sous sa blouse ;
+
+['il', "c'", '</s>', 'elle', 'qui']	Charmide	? [MASK] était beau, et il estimait sa beauté digne d’attirer sur lui les regards d’une femme libre d’aimer qui lui plaît. D’ailleurs, s’il ne possédait pas de fortune, il était maître en son art ;
+
+['le', 'les', 'la', 'moi', 'lui']	Vevette	Tout allait bien, ses granges étaient pleines, il ne devait rien à personne, on lui devait quelque argent. Il se sentit content – fier d’être riche – et toujours le trouble lui revenait à la pensée de son ingratitude envers [MASK]. Le soir approchait ;
+
+['</s>', '-', 'elle', 'il', 'on']	Réal	Mon père dit qu’un homme n’a pas peur et ne pleure pas. — J’ai vu pleurer mon père, répliqua la fillette d’un ton grave. — Quand cela ? — Quand on a emporté ma mère qui était morte. [MASK] ne répondit pas ;
+
+['elle', 'il', ',', 'et', 'qui']	Sylvie	[MASK] s’était assise au haut du rocher, les pieds pendants sur l’onde. Il la rejoignit et s’assit près d’elle. Un filet d’eau s’échappait de la pierre et tombait dans un petit bassin creusé par la nature entre les troncs des arbres.
+
+['il', ',', 'elle', 'qui', 'la']	Claire	Il répondit de la même façon silencieuse. — Comment as-tu fait ? — J’ai grimpé amont le cerisier qui est à la muraille. Ce n’est pas difficile. [MASK] resta pensive. — Il ne faut plus, dit-elle. — Ça t’ennuie
+
+['celui-ci', 'pierre', 'jésus', 'jean', 'jacques']	Jean	; ou je te tuerais ! Elle avait pris la pelle à feu et la brandissait si près du visage de [MASK], qu’il recula prudemment du côté de la porte du jardin. — Comme tu voudras, murmura-t-il, déconfit ; comme tu voudras…
+
+['</s>', 'il', '-', 'ne', 'lui']	Charmide	chacun saura que tu n’aimes que l’or… — Eh ! potier, il n’y a pas de mal à cela ! fit la belle insolente en refermant la porte avec colère. [MASK] ne resta pas longtemps à regarder la muraille devant lui ;
+
+['marie', 'jeanne', 'marguerite', 'madame', 'mademoiselle']	Mélie	C’était par un jour d’hiver semblable à celui-ci qu’on avait accueilli dans la maison communale sa mère mourante, qui la portait dans ses bras. Le seul mot que la malheureuse avait su prononcer était un nom : [MASK].
+
+['tous', 'burns', 'napoléon', 'jacques', 'toujours']	Martial	Ce sentier bizarre, presque impraticable pour tout autre qu’un homme du pays, était la route préférée de [MASK], celle qui menait à la mer, la mer qui l’avait toujours attiré, tant qu’à la fin, il s’était fait marin pour l’amour d’elle.
+
+['mère', 'marie', 'reine', 'agathe', 'madeleine']	Mélie	L’enfant fut nommée [MASK] ; on enterra la mère, et tout fut dit. Le vieux Jacques, qui n’était pas jeune alors, avait ramassé vers sept ans cette petite créature, jusque-là un peu nourrie par tous, et il l’avait promue au grade de servante.
+
+['ça', 'cela', 'jésus', 'agneaux', 'moutons']	Vevette	Il se rappela les images de la Charité qu’il avait vues dans les livres de prières, et se demanda pourquoi, au lieu d’enfants, on ne leur avait pas mis des agneaux dans les bras. Bien sûr, elles ressemblaient à [MASK].
+
+['oui', 'non', 'certes', 'père', 'bien']	Naïs	— Un jouet ? Je le veux bien, [MASK], mais n’as-tu pas passé l’âge des hochets ? — J’aime ces figures, dit la jeune fille, tu les fais bien ; si petites qu’elles soient, elles ont l’apparence de la vie…
+
+['et', 'on', 'il', 'qui', 'elle']	Réal	Deux grosses larmes tombant sans cesse et sans cesse renouvelées débordaient de ses yeux mornes… Le fossoyeur, sa bêche sur l’épaule, suivait ce groupe funéraire, [MASK] l’arrêta. — Qu’est cela ? demanda-t-il d’une voix étranglée.
+
+['il', 'chacun', 'elle', 'on', 'lui-même']	Maurice	Déjà célèbre, il n’avait plus besoin de chercher à se faire un nom, et cependant il était sûr que cette toile mettrait le sceau à sa renommée. Quand il en fut tout à fait content, l’hiver était venu, – et [MASK] aimait son petit modèle.
+
+['maurice', 'celui-ci', 'albert', 'georges', 'robert']	Charmide	— Non, à moi, à moi ! crièrent dix voix, pendant que dix mains se tendaient vers la figurine. — J’en ai pour tous, mes amis, dit [MASK] avec la placidité d’un triomphe longtemps attendu.
+
+['il', '</s>', 'elle', '--il', 'celui-ci']	Laurent	Il rendit l’enfant à la bonne et s’en alla de son pas ordinaire voir les veaux nouveau-nés à l’étable. [MASK] avait perdu sa femme dix-huit mois auparavant, et la joie d’être père avait été assombrie par la mort prématurée de la jeune mère.
+
+['elle', 'il', 'celui-ci', 'marie', 'on']	Daphné	; s’était-il trompé ? Il voulut en avoir le cœur net, et, courant à la porte, il arriva sur le seuil au moment où [MASK] se montrait en face, ouvrant au riche amant la maison de sa belle.
+
+['marie', 'jeanne', 'jean', 'jacques', 'geneviève']	Laurent	Reviens à moi, mon fisset, et montre que tu es un grand garçon ! Mais l’enfant ne voulait pas quitter sa petite amie, et détournait obstinément la tête. La voix grave de [MASK] se fit entendre. — Il a marché tout seul !
+
+['la', "l'", 'quoi', 'vous', 'soi']	Céline	Il le crut, et, pressant le pas, il allait atteindre la barrière, lorsqu’à l’autre extrémité du pré il vit apparaître un autre homme. C’était un ami d’enfance, il le reconnaissait bien : celui-là n’avait pas quitté le village ; que venait-il faire auprès de [MASK]
+
+["l'", 'la', 'non', 'travail', 'faire']	Vevette	? Ils sont, autant dire, perdus ! Il vit alors dans la clarté qui venait à lui, se dessiner la forme de [MASK]. Elle tendait aux bestioles le creux de ses mains pleines de lait, et à cette source intarissable ils se désaltéraient à longs traits
+
+['</s>', '"', 'elle', '_', 'il']	Laurent	ce n’est pas pour de l’argent que je vous sers fidèlement, c’est par grand amour pour la défunte et pour son joli fisset, votre petit garçon. [MASK] rougit à son tour, un peu de honte, et il fit un mouvement pour sortir, mais il se ravisa.
+
+["j'", 'marie', 'jean', 'jésus', 'madeleine']	Marcel	puis la solennité du jour lui faisait haïr le péché plus encore que de coutume : elle répondit franchement : — J’avais eu du chagrin ce matin, en voyant que j’avais le plus beau cierge de toute la communion, tandis que [MASK] en avait presque le plus petit.
+
+['elle', 'on', 'il', 'âme', 'ce']	Marcel	Sa mère l’avait grondée, – bien peu, – mais c’en était plus qu’elle n’avait l’habitude d’en entendre, et d’ailleurs, sous la douceur transparente de la semonce, elle sentait quelque chose qu’on ne lui disait pas ; puis, [MASK] n’était pas riche.
+
+['jacques', 'maurice', 'robert', 'catherine', 'jeanne']	Claire	nous avons eu notre temps, il ne faut pas nous plaindre. — Nous plaindre, – non, dit [MASK] : sa voix était devenue très faible et très douce, ses cheveux blancs dépassaient un peu le bord de sa coiffe, mais elle marchait droit et sans bâton.
+
+['enfin', 'se', 'il', 'puis', 'finalement']	Mélie	Il battit en retraite et sortit en refermant sur lui la porte du jardin. Sa silhouette assombrit un instant le peu de jour que laissaient entrer les carreaux verdâtres, puis disparut, et [MASK] retourna près du foyer. Elle ne pleurait pas ;
+
+['vous', 'de', '</s>', 'en', 'par']	Charmide	— Arrière, dit-elle, ne me touche pas, ma personne est sacrée, c’est mon bien, tout comme tes amphores sont le tien. Tu es un sot, [MASK] ; avec quelques drachmes, et tu les possèdes, tu pouvais passer plusieurs jours à mes côtés
+
+['valentine', 'marguerite', 'bussy', 'marie', 'jeanne']	Claire	son intelligence était moins développée que celle de [MASK] ; il crut l’avoir fâchée, et sa bonne figure devint toute rouge comme s’il allait pleurer. — Tu sais bien, dit-elle, avec une gravité de jeune matrone, que nous ne sommes plus des enfants.
+
+['pierre', 'maison', 'paille', 'gauche', 'bois']	Martial	Un pas fit craquer le gravier de la route, une forme féminine passa au bout des champs voisins… En ce moment l’hirondelle qui nichait sous le toit de [MASK] sortit de son nid, et de son aile fourchue effleura en passant la joue du jeune homme.
+
+['1848', 'paris', 'descartes', 'la', 'corneille']	Mélie	Les traces de ses pas venant de la route qui conduisait à la ville étaient presque effacées par la neige ; d’autres traces toutes fraîches reprenaient le même chemin en sens inverse, celles-là étaient celles de [MASK], reconnaissables à la petitesse des empreintes ;
+
+['elle', 'il', 'on', 'et', 'lui']	Réal	Elle s’était mise en marche, [MASK] la suivait, ils prirent le chemin du château. La nuit était venue, le rayon d’or pâle avait disparu du ciel, et les étoiles commençaient à pointer dans le bleu. La clairière finissait au bord du pré ;
+
+['bien', 'vrai', 'toi', 'bon', 'ça']	Chrysis	— C’est [MASK], dit la fillette ; elle est bien belle, mais tu l’as faite bien hardie ! — Elle n’aime que l’or, elle me l’a dit tantôt : aussi tu vois, je lui en ai mis plein la main !
+
+['</s>', '"', ',', 'il', '-']	Charmide	— Tu en as fait deux ! dit-elle. Oh ! donne-moi celle-là ! [MASK] se mit entre elle et sa création. — Non, dit-il, je regrette de te refuser quelque chose ; mais je ne puis te donner cela…
+
+['"', ',', '-', ':', ')']	Charmide	Elle se dirigea vers la porte, la tête baissée, ses yeux bleus pleins de larmes. — Et l’argent, tu l’oublies ? fit [MASK]. Mon ouvrage a payé le tien, mais les fleurs ont quelque prix…
+
+['il', ',', 'qui', 'on', 'elle']	Maurice	[MASK] aimait l’heure où le jour baisse, après la pluie, quand le soleil ne s’est pas montré, et qu’une teinte grise embrasse tous les objets, confondant leurs contours, adoucissant leurs angles, ajoutant à toutes les formes une rondeur délicieuse et molle.
+
+['il', 'elle', 'celui-ci', 'lui-même', 'harry']	Jacques	; depuis, elle y vivait non mariée, mais il l’ignorait, très fêtée, il le savait, sans qu’on le lui apprît. Qui sait ce qui s’était passé dans son âme quand [MASK] avait pris la fuite ?
+

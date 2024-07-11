@@ -1,0 +1,200 @@
+['elle', 'eux', 'lui', 'elles', 'nous']	Gilberte	? Qui veillerait sur [MASK] ? Qui défendrait les intérêts de la famille et dirigerait la barque ? Elle resta, s’applaudissant de n’avoir pas aliéné sa liberté, sacrifiant pour jamais à ce qu’elle jugeait son devoir les aspirations de son cœur ;
+
+['Elle', 'qui', 'ne', 'elle', 'femme']	Denise	[MASK] dut bientôt soutenir à elle seule tout le poids de la conversation : la maîtresse du logis avait à s’occuper de ses hôtes et le receveur nouveau venu ne se départait pas de sa courtoise circonspection. « Oui, mademoiselle. – En effet ! – Sans doute
+
+['voyons', 'Voyons', 'monsieur', 'allons', 'Monsieur']	Roger	! — Voyons, [MASK] !… Pas de scandale, mon enfant !… Remettez-vous ! Voyons !… J’augmenterai la dot de cinquante mille francs, ajouta-t-il à voix basse et en forçant son gendre à se rasseoir. Une petite charité s.v.p.
+
+['et', 'mais', 'tu', 'puis', 'toi']	Cabrillat	Tu nous prépareras deux pilules, [MASK]… — Ah ! vous vous décidez pour les pilules ? — Oui ! Il y en aura une d’inoffensive ; l’autre renfermera un poison des plus énergiques et dont tu nous tairas le nom, afin que nous ne puissions découvrir sur-le-champ l’antidote, tu comprends ?
+
+['Charles', 'David', 'Paul', 'Joseph', 'John']	Richefeu	Lorsqu’il eut fini, il mit la fiole et les deux petits paquets de drogues dans sa poche, et, comme avait fait [MASK] la veille, s’apprêta à sortir, mais ostensiblement, par la porte du magasin et non par celle du corridor.
+
+['Elle', 'Alice', 'Marie', 'Anna', 'Emma']	Annette	Plus de voiture, plus rien ! [MASK] n’en croyait pas ses yeux. Elle se mit en quête, courut d’un côté, d’un autre, revint sur ses pas, rebroussa chemin de nouveau, arrêtant les passants, les interrogeant, tout anxieuse, haletante, éperdue…
+
+['un', 'Monsieur', 'le', 'monsieur', '</s>NOTUSED']	Galmiche	Lorsque, vers les dix ou onze heures, le propriétaire rentra avec tout son monde et voulut conduire ses deux épagneuls à leur demeure, il la trouva donc occupée par [MASK], qui ronflait à lui seul comme tous les tuyaux des grandes orgues de la cathédrale.
+
+['il', 'elle', 'on', 'Charles', 'Louis']	Brigodin	Vous pouvez me fouiller, si vous ne me croyez pas… et vous fouiller surtout ! Vous n’avez qu’à envoyer chercher les agents, ils me fourreront au bloc ! Oui, [MASK] espérait obtenir encore le gîte après le souper ; mais son attente fut déçue.
+
+['Monsieur', 'Jean', 'Charles', 'Gustave', 'Henri']	Galmiche	[MASK], qui était un fumeur enragé et ne possédait pour le moment ni un seul maravédis ni le moindre cornet de tabac, vint à passer le long du canal et avisa ce mirifique cigare, dont le parfum délicieux, exquis, arrivait jusqu’à lui et le faisait soupirer et renifler.
+
+['Pierre', 'Rodrigue', 'Roland', 'Marius', 'César']	Lardenois	Je suis fils de maître d’armes, n’oubliez pas ! Et l’extrémité du gourdin passa si près du nez de [MASK] que ce dernier se hâta de battre en retraite et de gagner le large, entraînant avec lui l’autre assaillant, le bouillant Nestor.
+
+['Jacques', 'Renard', 'Simon', 'Jean', 'Pierre']	Brigodin	et qu’il était bien plus économique de passer les frais de ce repas au compte de profits et pertes. Il administra en conséquence un vigoureux coup de pied dans le fond de culotte de maître [MASK], et invita ce « sacré filou » à aller se faire pendre ailleurs.
+
+['Marie', 'Pierre', 'Charles', 'Louis', 'Juliette']	Paul	C’est tout ce qu’elle demandait. La soirée était trop avancée pour que [MASK] remplît sur-le-champ sa promesse. — Le magasin doit être fermé à cette heure-ci… Mais demain matin, sans faute, j’y passerai, ma chatte. †
+
+['Marie', 'Madame', 'Jean', 'Pierre', 'Jules']	Paul	Vois donc, quels feux ! Nous causerions avec le commis ou le patron. Quelquefois les prix annoncés ne sont pas exacts. Peut-être aussi consentirait-on à un rabais. — Soit, entrons, dit [MASK]. Le prix marqué était toujours un prix fixe.
+
+['Il', 'Elle', 'il', 'On', 'Louis']	Cabrillat	[MASK] eut le temps de rétrograder et de saisir un énorme gourdin oublié dans le porte-parapluie par quelque paysan des environs. Alors décrivant un artistique moulinet : — Attention, mes braves ! méfiez-vous !… Ce ne sera pas à la pilule avec moi…
+
+['Elle', 'On', 'Il', 'Marie', 'Jeanne']	Denise	C’était le plus jeune d’entre eux : il n’avait que quarante-trois ans. [MASK] ne tarda pas à voir en lui un parti pour sa sœur cadette. — Nous ne pouvons pas rester vieilles filles toutes les trois : c’est bien assez de moi
+
+['Sophie', 'Marie', 'Madame', 'Alice', 'Julie']	Paul	— Et les saphirs, quel éclat ! Vois, le joli bleu ! Un bleu pas trop foncé, à la fois limpide et velouté… — Un bleu magnifique ! Oh ! certes ! s’écria [MASK]. Seulement… — Oui, c’est le prix !
+
+['Marie', 'Jeanne', 'Sophie', 'Mathilde', 'Rose']	Léa	Le lendemain, la matinée s’écoula sans que [MASK] vît rien arriver. À trois heures de l’après-midi, elle n’avait encore rien reçu. Dévorée d’impatience, saisie peut-être bien aussi d’un commencement d’inquiétude, d’une naissante panique, elle courut chez le bijoutier.
+
+['Merlin', 'Roland', 'chacun', 'Satan', 'David']	Richefeu	En vain [MASK] invoquait-il ses pouvoirs et s’efforçait-il d’imposer silence à son rival : celui-ci haussait les épaules, l’envoyait promener, lui et son autorité, le narguait, le défiait, lui montrait le poing.
+
+['oui', 'non', 'maman', 'Marie', 'chéri']	Clairette	— Nous ne pouvons pas rester vieilles filles toutes les trois : c’est bien assez de moi ! répétait-elle sans cesse. Il faut un homme dans une maison. C’est indispensable ! Les femmes ont beau faire… Oui, oui, [MASK], crois-moi !
+
+['la', 'le', 'sa', 'son', '</s>NOTUSED']	Hermance	ou veuve, ayant âge, fortune et caract. en rapport. » « Goûts simples », il se pourrait bien que ce fussent ces deux petits mots qui, au milieu de son inextricable perplexité et en fin de compte, avaient déterminé [MASK].
+
+['Jésus', 'Dieu', 'Pierre', 'Paul', 'François']	Maurice	. — Allons, tenez, lui dit [MASK] un soir, après avoir fouillé dans sa poche et en souriant malgré lui dans sa barbe, puisque vous êtes si fidèle à votre parole… — Je vous remercie bien, monsieur ! Que le bon Dieu vous protège !
+
+['Madame', 'Marie', 'Alice', 'madame', 'Julie']	Richefeu	— Moi aussi, monsieur ! ajouta [MASK]. — Ah ! vous aussi ? En même temps ? Comme ça ? Faudrait cependant mettre un peu de variété dans vos… vos contes en l’air, mes bons amis. Je n’aime pas qu’on se moque de moi !
+
+['«', '–', 'Elle', 'Oui', '-']	Gilberte	[MASK], elle aussi, est très bien ! » Et, avec son exaltation accoutumée, croyant déjà le mariage en train, sinon décidé et conclu, elle s’empressa de faire part à sa jeune sœur de sa découverte et de lui garantir la réussite de son dessein.
+
+['monsieur', 'Monsieur', 'madame', 'messieurs', 'Madame']	Galmiche	! — Vos antécédents sont déplorables, [MASK]. Votre première condamnation remonte à 1845… C’était pour ivresse déjà et insultes aux agents. — Ça me rajeunit de vous entendre rappeler ces souvenirs, m’sieu de Blosselières. J’avais dix-sept ans alors. Ah !
+
+['oui', 'monsieur', 'Monsieur', 'madame', 'mais']	mossieu	Oui, [MASK], tout aussi bien que vous ! et c’est moi qu’on pige ! Enfin, je serai du moins logé et nourri pour rien tout mon hiver ! C’est toujours ça de gagné, n’est-ce pas, père Barbier ?
+
+['le', 'la', 'un', 'terre', 'au']	barre	Que diantre ! on ne fait pas deux cents lieues pour toucher [MASK] simplement et rebrousser chemin au galop. — Ce ne serait pas raisonnable ! Maintenant que le premier moment de surprise est passé, que la glace est rompue, il faut deviser un brin… †
+
+['Madame', 'Elle', 'Marie', 'Jeanne', '</s>NOTUSED']	Hermance	… N’ayez crainte : je m’embusque dans le corridor, et, au premier coup de sonnette… Il retentit, ce coup de sonnette. [MASK], assise devant la cheminée du salon, tenait un livre à la main, par contenance, et tremblait, tremblait…
+
+['</s>NOTUSED', 'Madame', 'Elle', 'Marie', '!']	Hermance	! Maintenant que le premier moment de surprise est passé, que la glace est rompue, il faut deviser un brin… † [MASK], pendant ce temps, était en train de se tenir un langage analogue. Ce n’était pas si facile d’agripper un mari ;
+
+['elle', 'Marie', 'Jeanne', 'Anna', 'Alice']	Léa	À différentes reprises, [MASK] avait remarqué, dans la vitrine d’un bijoutier du boulevard des Italiens, un bracelet en or mat garni de trois superbes saphirs sertis de brillants, et peu à peu elle s’était laissé fasciner par ce bijou, s’en était entichée.
+
+['Elle', 'Anna', 'Marie', 'Il', 'elle']	Andrée	[MASK] se surprit comptant les jours qu’elle avait à passer sans le voir, épiant sa venue, l’appelant tout bas, avec une fébrile impatience. Sa pensée maintenant ne cessait de l’évoquer ; elle ne voyait que lui, ne vivait que pour lui.
+
+['lui', 'moi', 'nous', 'elle', 'vous']	Matte	— Oui…, s’informe de ma santé, m’avoue qi’il m’attendait avec une anxieuse impatience, se montre très empressé, très galant, finit par m’inviter à souper… J’accepte. Nous voilà installés en tête-à-tête chez [MASK], dans un cabinet de l’entresol…
+
+['Marie', 'Jeanne', 'Marguerite', 'Madame', 'Louise']	Denise	Elle touchait à ses vingt-trois ans, lorsque [MASK], de plus en plus convaincue des désagréments et crève-cœur réservés aux vieilles filles lui annonça qu’elle lui avait trouvé un mari. — Oui, ma chourotte (un de ses petits noms d’amitié habituels que lui fournissait le patois local).
+
+['Il', 'Elle', 'On', 'Marie', 'Louis']	Annette	; il avait comme peine à soulever les paupières, et, lorsqu’il regardait, c’était d’un œil terne et fixe, atone et vitreux, inconscient, sans expression, sans vie. [MASK] remarqua vite ce changement et crut devoir le signaler à sa maîtresse.
+
+['Il', 'Pierre', 'Joseph', 'Jean', 'Paul']	Brigodin	[MASK] effectua sans encombre ce périlleux trajet. Aussitôt entré dans la place, il s’empressa d’ouvrir les tiroirs de la commode – la clef était à la serrure de l’un d’eux – et fouilla partout rapidement, fiévreusement, pour découvrir la réserve, les « économies » du locataire.
+
+['Elle', 'elle', 'Marie', 'Il', 'Rachel']	Claire	Il ne s’agit pas de… C’était… Oh !… Et elle s’enfuit, toute consternée et affolée. † [MASK] n’eut pas de peine à abjurer les espérances que sa sœur lui avait insinuées et imposées, et à se résoudre définitivement au célibat.
+
+['Madame', 'Monsieur', 'Mme', 'le', 'madame']	Roger	Elle est absolument intacte et parfaite, votre perle, interrompit [MASK], toujours avec son ironique placidité. — Non, malheureusement ! Elle… elle boite. — Vous avez dit ? — Elle boite, cette jeune personne. Elle est atteinte de… claudication.
+
+['elle', 'Marie', 'Madeleine', 'Louise', 'Charlotte']	Léa	† Deux heures plus tard, [MASK] réapparaissait dans le magasin. — Il vous serait égal, n’est-ce pas, dit-elle au bijoutier, de laisser le bracelet à deux mille francs, du moment où la différence vous serait préalablement payée ?
+
+['allez', 'entre', 'venez', 'mais', 'et']	Richefeu	! J’avais bien deviné : mes gaillards ont décampé tous deux ensemble, s’en sont allés de conserve tirer une bordée, et les voici qui nous reviennent, toujours de compagnie ! Entrez donc, [MASK], ne restez pas sur le trottoir, mon garçon !
+
+['entreprend', 'tâche', 'décide', 'vient', 'promet']	Galmiche	L’adjudant, sans défiance, lui passe son cigare par-dessus la clôture, et [MASK] de réintégrer bien vite sa pipe dans sa profonde et d’emboucher le londrès sans façon, en aspirant voluptueusement et coup sur coup quelques bouffées. — Merci bien, mon général
+
+['il', 'on', 'Il', 'elle', 'lui']	Brigodin	Non pas qu’il lui fût échu quelque bon gros ou même bon petit héritage et qu’il jugeât plus simple et plus agréable de manger ses rentes que de besogner et trimer : [MASK] ne roulait pas sur l’or et l’argent, hélas non ! tant s’en faut
+
+['Ah', 'Oh', 'Comment', 'Quoi', 'Eh']	Annette	Oui, elle doit certainement posséder quelque secret pour ravigoter ces malades-là ! — [MASK] ! À quoi pensez-vous ! — Que madame veuille seulement se rappeler comment était monsieur quand nous l’avons repris, comme il avait l’air éveillé et florissant… et comparer ! —
+
+['Marie', 'Juliette', 'Jeanne', 'Louise', 'Caroline']	Denise	L’amener, le pousser à avouer son amour, se faire de gré ou de force sa confidente, lui laisser entendre que cette confidente ne demanderait pas mieux que de lui servir d’intermédiaire, le presser, le stimuler, lui promettre gain de cause, tel était le plan de [MASK].
+
+['maintenant', 'moi', 'là', 'alors', 'mais']	Lardenois	– Regardez donc ce grand serin !… – Ne m’échauffe pas les oreilles plus longtemps, ou bien !… – N’achève pas, sinon !… – Je ne réponds plus de moi, [MASK], je t’en avertis !…
+
+['il', 'elle', 'on', 'Madeleine', 'Paul']	Brigodin	Où les a-t-il fourrées ? Derechef, [MASK] explora l’armoire, la commode, le cabinet de toilette… Toute la garde-robe avait été emportée ! Tout le linge enlevé ! Et ses pauvres frusques avaient été, elles aussi, comprises dans la rafle ! — Oh
+
+['on', 'il', 'elle', 'Joseph', 'On']	Annette	Près de ce banc, en bordure de la pelouse, se dressait un épais bouquet de bois devant lequel [MASK] avait eu soin de placer la petite voiture, de façon que le malade fût abrité le mieux possible contre le soleil et contre le vent.
+
+['elle', 'il', 'on', 'monsieur', 'madame']	Antoinette	Le garçon va le porter… Excusez-moi, monsieur, ce bouquet est vendu… La fillette alla chercher dans le fond du magasin un autre bouquet de même sorte et, pendant qu’elle s’occupait de l’habiller de papier blanc, [MASK] s’approcha de la caisse.
+
+['moi', 'Madame', 'madame', 'Monsieur', 'monsieur']	Toinette	— J’attends quelqu’un, [MASK] ! — Mademoiselle me l’a déjà assez dit ! Ce n’est pas pour le lui reprocher !… — Vous aurez soin de ne pas faire languir à la porte, comme cela vous arrive souvent… — Oh ! peut-on…
+
+['ceci', 'madame', 'cela', 'monsieur', 'ça']	Suzanne	Où l’avez-vous trouvé ? Comment osez-vous le… Mais la mendiante, jugeant ces questions trop indiscrètes et la situation quelque peu gênante, s’était empressée de gagner le large. — Annette, passez-moi [MASK], et prenez cette voiture !… Ramenez monsieur !
+
+['il', 'Émile', 'Albert', 'elle', 'André']	Antonin	Un soir qu’elle avait eu ce suprême bonheur et qu’[MASK], après lui avoir, comme de coutume, tendrement serré la main, venait de prendre congé d’elle et de sa mère : — Tu ne sais pas, fillette ?
+
+['Jean', 'Marie', 'Pierre', '!', 'Alice']	Lardenois	! répliqua [MASK]. Comment, tu ne la connais pas ? Et tu avais l’air si à l’aise avec elle, tu la couvais d’un œil si… — Enfin, qui est-ce, cette jeune fille ?
+
+['</s>NOTUSED', '»', 'Elle', 'Marie', '«']	Renée	— Il a du toupet, vrai, ce petit pion ! [MASK], qui était orpheline et avait été élevée par ses grands-parents, avait dû se soumettre et rencogner ses larmes, car elle l’aimait, « ce petit pion ».
+
+['Moi', 'moi', 'Et', 'et', 'pour']	Gilberte	un peu… un peu froid ? — Oui, trop froid, trop fermé, mais fort bien, oh ! fort bien ! [MASK] qui aime les hommes graves !… — Vous me tiendrez au courant, bien entendu ? Ne manquez pas ! Bonne chance !
+
+['monsieur', 'Monsieur', 'lui', 'Pierre', 'Joseph']	Cabrillat	Ah ! oui, ils sont trois, continua-t-il. C’est que [MASK], lui aussi, s’en va… Lui, c’est autre chose !… Je ne le congédie pas… C’est lui qui se retire, – pour se marier.
+
+['Marie', 'Alice', 'Sophie', 'Charles', 'Maria']	Léa	— Nous pourrions toujours entrer, insinua [MASK], examiner de près… Il est ravissant ! Vois donc, quels feux ! Nous causerions avec le commis ou le patron. Quelquefois les prix annoncés ne sont pas exacts. Peut-être aussi consentirait-on à un rabais.
+
+['lui', 'Louis', 'Joseph', 'Paul', 'nous']	Richefeu	Et, jugeant à divers symptômes que ce toxique devait être l’opium, il prescrivit les révulsifs et antidotes indiqués. Une insurmontable torpeur s’était emparée de [MASK], et ce n’est que dans l’après-midi du lendemain qu’il commença à sortir de cet état comateux et à recouvrer ses esprits.
+
+['madame', 'elle', 'il', 'monsieur', 'Madame']	Annette	L’entretien était si intéressant, si passionnant, qu’il se prolongea toute une grande heure. Quand enfin [MASK] se décida à prendre congé de ses pays pour regagner la maison et tourna la tête… ô stupeur ! miséricorde divine ! le père de madame avait disparu.
+
+['Elle', 'Il', 'elle', 'Madame', 'il']	Maurice	— Une petite charité, mon bon monsieur, s’il vous plaît ! [MASK] eut l’air de ne pas entendre, ne broncha point et doubla le pas. — Je vous en prie, monsieur ! Une petite charité !… Je suis bien malheureuse, mon bon monsieur…
+
+['il', 'Louis', 'Charles', 'Paul', 'on']	Maurice	— N’ayez crainte, je ne soufflerai mot… Et puis elle ne verra pas ce que j’emporte. Trois semaines environ après cette visite matinale, [MASK] fut tout étonné, à sa sortie du ministère, de ne pas voir sa mendiante dans les parages habituels.
+
+['Marie', 'Jeanne', 'Marguerite', 'Louise', 'Anne']	Claire	; et, si elle avait dû l’accepter, la subir, cette condition, elle devait à tout prix l’épargner à ses sœurs. [MASK], la cadette, approchait de la trentaine, et aucun prétendant ne s’était encore révélé.
+
+['Madame', 'Mme', 'madame', 'Monsieur', 'Voltaire']	Hermance	Ce n’est pas pour le lui reprocher !… — Vous aurez soin de ne pas faire languir à la porte, comme cela vous arrive souvent… — Oh ! peut-on… — … et d’introduire aussitôt ce… cette personne dans le salon, acheva [MASK].
+
+['Marie', 'Jeanne', 'Jules', 'Ernest', 'Henri']	Richefeu	; j’ai interrogé la femme de chambre de la patronne, entre autres, cette grande bringue d’Ernestine… Et voilà tout le mystère ! — C’est étonnant ! s’écria naïvement [MASK]. Je ne l’avais pas encore remarquée, moi ! —
+
+['Elle', 'Marie', 'Marguerite', 'qui', 'Louise']	Gilberte	. [MASK], quoique n’ayant pas l’embarras du choix, tant s’en faut, était bien excusable de ne pas deviner quel époux la tendre prévoyance de son aînée avait réussi à découvrir et lui tenait en réserve. « L’heureux mortel »
+
+['il', 'elle', 'Louis', 'Joseph', 'Léon']	Adrien	Elle mourut sans avoir mis la main sur cette perle fine. Cependant [MASK] se voyait monter en graine et songeait qu’il était temps, grand temps de se décider, de faire choix d’une compagne qui remplaçât cette chère et inappréciable maman. Mais où choisir ?
+
+['Jean', 'Alexandre', 'Pierre', 'Marie', 'Charles']	Lardenois	; l’origine, le réel motif, en sera moins facile à démêler… — Il a raison ! s’écrièrent ensemble les deux prétendants. — Tu n’as plus maintenant qu’à confectionner les pilules : je suis prêt ! clama [MASK].
+
+['Monsieur', 'Madame', 'Pierre', 'madame', 'monsieur']	Lardenois	C’est ce que j’étais justement en train de dire à [MASK]… J’aurais pris mes dispositions en conséquence. Je ne vous ai jamais refusé de congé : au besoin je serais venu moi-même vous suppléer… Mais déguerpir ainsi, laisser ainsi une maison en plan
+
+['monsieur', 'Monsieur', 'Pierre', 'Jean', 'Mr']	M.	Mais pour un sou, un sale petit sou ! Oh ! ! ! oh ! ! ! C’est encore lui, un jour qu’un des fashionnables de la ville, le fils de [MASK] Peulvier-Royon, le négociant en laines, lui refusait l’aumône, qui ripostait
+
+['lui', 'toi', 'cela', 'ça', 'ceci']	Vincent	— Où vas-tu donc ? demanda le remplaçant de M. Pichancourt. — Porter l’ordonnance Desormeaux. — Et [MASK], à quoi sert-il alors ? C’est la besogne du garçon de laboratoire, et non celle des élèves, de porter les ordonnances à domicile.
+
+['Paul', 'Jean', 'Pierre', 'Georges', 'Julien']	Lardenois	Mais ni l’un ni l’autre n’avait jamais tenu un pistolet, jamais manié fleuret, sabre ou épée. — À coups de poing ! La boxe ! vociféra [MASK] tout enflammé. — Comme des goujats, des ivrognes ?… Fi donc !
+
+['Joseph', 'Charles', 'Louis', 'Pierre', 'Alexandre']	Roger	— Oh ! oh !… Mais c’est que… elle a une jambe de bois ! — Une jambe de bois ? se récria [MASK] en se levant d’un bond et en considérant sa femme avec stupeur. Vous avez une…
+
+['elle', 'il', 'Marie', 'maman', 'Suzanne']	Séraphine	Dix-huit mois après la mise en terre de l’infortuné pochard, [MASK] donnait le jour à un vigoureux petit bonhomme, qui ressemblait à son papa comme une goutte d’eau microscopique ressemble à une autre goutte d’eau volumineuse.
+
+['toi', 'hein', 'là', 'non', 'maintenant']	Francis	? — Pourquoi faire ? Tu es content comme tu es, n’est-ce pas, [MASK] ? Moi itou. Eh bin, alors ! À quoi bon changer, aller reprendre ma… ma succession ? Non, ma vieille, restons comme ça !
+
+['Elle', 'Il', 'elle', 'Maman', 'Marie']	Claire	Il n’y a pas de oh ! qui tienne. Il faut te sacrifier, ma chatte ! C’est toi que le sort a désignée. Pour maman, pour moi, pour nous toutes… il faut te sacrifier ! [MASK] courba le front et laissa faire son aînée.
+
+['Jeanne', 'Napoléon', 'Charles', 'Louis', 'Madame']	Galmiche	Est-ce que j’ai jamais songé à vous le reprocher ? — Qu’avez-vous encore fait ? Qui vous amène ici ? — Hélas ! soupirait [MASK] en montrant les gendarmes ; vous le voyez bien : ce sont ces messieurs !
+
+['Jeanne', 'Morel', 'Marie', '</s>NOTUSED', 'Émile']	Richefeu	!… Même que le docteur Morel a trouvé que tu aurais mieux fait de te tenir tranquille plutôt que de te mêler de soigner ses malades !… — Je te dis que tu ne sortiras pas ! rugit [MASK]. — Je te dis que je sortirai ! —
+
+['!', '—', '...', 'Jules', 'Paul']	Roger	Tiens, tiens, mais !… Ce ne serait pas si bête… Son infirmité ? Mais elle n’avait rien de pénible pour autrui, rien de désagréable… — Au contraire ! était même presque tenté d’ajouter [MASK].
+
+['Marie', 'Jeanne', 'Julie', 'Marguerite', 'Catherine']	Denise	j’ai… je vous ai aimée tout de suite ! Et il tomba aux pieds de [MASK], lui saisit la main et y appuya pieusement et passionnément les lèvres. — Moi !… moi ! s’exclama-t-elle aussitôt en le repoussant avec une fébrile vivacité.
+
+['madame', 'monsieur', 'Madame', 'Mme', 'Monsieur']	Paul	Cependant, pour être agréable à madame, ne pas refuser une affaire, et à titre tout à fait exceptionnel, on laisserait le bracelet à trois mille francs, chiffre rond. C’était encore bien plus que ne voulait payer [MASK]. — Nous verrons… Nous réfléchirons…
+
+['Jean', 'il', 'Jack', 'Max', 'Julien']	Brigodin	Que devenir ? Comment me carapater de là ? ruminait [MASK], transi et glacé de la tête aux pieds. Je ne peux pourtant pas me sauver tout nu, courir sur les toits comme un singe… Ah ! miséricorde ! En voilà une déveine ! Oh ! !
+
+['</s>NOTUSED', 'le', 'la', 'madame', 'Madame']	Richefeu	Ah ! vous allez bien, vous, quand vous vous y mettez ! — Pardon, monsieur, mais je… je vous vous assure, monsieur…, bégaya [MASK]. — Permettez-moi, monsieur, de… de vous… Monsieur, je… je vous certifie
+
+['il', 'elle', 'on', 'Voltaire', 'François']	Antoinette	Loin de sourire des inexpériences du provincial, de le prendre en pitié, lui et sa simplicité de mise et de ton, voire ses gaucheries, [MASK] démêlait là des indices de ses qualités morales, de sa franchise, sa loyauté, du sérieux et de la sûreté de son caractère.
+
+['faire', 'la', 'dire', 'changer', 'voir']	Proserp	? Moi itou. Eh bin, alors ! À quoi bon changer, aller reprendre ma… ma succession ? Non, ma vieille, restons comme ça ! – Bien des choses à [MASK]-i-i-i-ne !
+
+['Charles', 'Napoléon', 'Louis', 'Henry', 'Henri']	Césaire	? Pourquoi avoir attendu jusqu’à présent ? Et encore il a fallu que je vous arrache cet aveu mot par mot ! — Chère demoiselle Denise ! combien je vous sais gré… d’avoir eu pitié… balbutia [MASK], tremblant et rayonnant de joie.
+
+['il', 'elle', 'on', 'Voltaire', 'Napoléon']	Cabrillat	décidez-vous pour le fleuret, l’épée ou le pistolet ; mais, de grâce, plus de disputes, plus de criailleries, – la paix ! — Eh bien, c’est cela ! Oui, [MASK] a raison ; battons-nous !
+
+['!', '...', 'Jean', 'Jeanne', 'Pierrot']	Richefeu	?… — Eh ! mordienne, pas n’est besoin d’avoir hanté les salles d’escrime ni les tirs pour être à même d’appuyer le doigt sur la gâchette d’un pistolet ! — Sans doute, mais… — Il s’agit de viser ! objecta [MASK]
+
+['?', 'le', '!', '...', '[...]']	Roger	? — Je ne le puis pas, effectivement. — Alors d’ici même je m’en vais chez l’huissier ! Je m’en vais vous poursuivre, faire vendre… Il faut en finir, à la fin des fins ! — Faites ! conclut [MASK]
+
+['Marie', 'Jeanne', 'Madeleine', 'Marguerite', 'Thérèse']	Denise	— C’est cela, évidemment ! Le banc des dames Juvigny se trouvait à l’entrée de l’église, sous les orgues. Les deux sœurs y prirent place, comme le prêtre terminait l’épître. — Nous arrivons juste, murmura [MASK]. Un peu plus !
+
+['autres', 'Dubois', 'Duval', 'compagnie', 'Valentin']	Cabrillat	La petite boîte était là, dans une pochette de son portefeuille. Il fallait s’exécuter… Autrement, que penseraient de lui ses collègues Lardenois et [MASK] ? Il avait juré d’ailleurs… Il devait tenir son serment, montrer qu’il n’était pas un lâche !
+
+['Il', 'il', 'II', 'Louis', 'On']	Maurice	s’agripper férocement à ses grègues, et ne le lâcher qu’après avoir empoché son obole. [MASK] finissait par être impatienté de cette poursuite aussi méthodique et inévitable qu’acharnée et implacable, et de cet impôt forcé. — Je ne suis plus libre à présent !…
+
+['moi', 'docteur', 'Docteur', 'mais', 'là']	Richefeu	– J’en ai assez, [MASK], je te préviens !… » Bref, ils faillirent en venir aux mains, et, sans l’intervention de leur collègue Cabrillat, ils eussent très certainement passé des paroles aux actes et transformé la pharmacie en champ d’honneur.
+
+['Julie', 'Marie', 'Charlotte', 'Madame', 'Juliette']	Léa	« Que le bien que cet argent va faire à vos victimes vous indemnise de votre perte, ma charmante, et soit un adoucissement à votre douleur ! Signé : « Un Justicier. » — Et il me nargue encore ! s’écria [MASK], avec son manque habituel et absolu de sens moral.
+
+['Alice', 'Marie', 'Jeanne', 'Sophie', 'Anna']	Richefeu	. Comment, tu ne la connais pas ? Et tu avais l’air si à l’aise avec elle, tu la couvais d’un œil si… — Enfin, qui est-ce, cette jeune fille ? interrompit [MASK] avec impatience. Où habite-t-elle ?
+
+['il', 'elle', 'Il', 'on', 'Pierre']	Cabrillat	une nouvelle altercation ayant éclaté, [MASK] revint à la charge et somma les deux adversaires d’en finir, une fois pour toutes. — Ou sinon c’est moi qui aviserai le patron ! C’est insoutenable, cette vie-là, c’est à devenir fou, ma parole
+
+['maman', 'mère', 'madame', 'elle', 'Marie']	Denise	En outre, mère et filles s’étaient arrangées pour n’occuper que le rez-de-chaussée de leur grande bicoque, et avaient, non sans quelque peine et délai, réussi à en louer le premier étage : encore deux cents francs à ajouter au budget annuel. Quant au jardin, [MASK] s’en était chargée.
+
+['Il', 'Elle', 'On', 'il', 'II']	Denise	[MASK] la sermonna, s’efforça de l’arracher à ses nuages, de la ramener sur le terre-plein de la réalité. Son ignorance des choses du ménage, son peu de goût pour ces serviles mais indispensables besognes, ne devaient pas être un obstacle ;
+
+['Jean', 'Julien', 'Alexandre', 'Pierre', 'Antoine']	Richefeu	Battons-nous ! glapit à son tour [MASK], qui, en présence du zèle et de la fougue de son adversaire, ne pouvait décemment paraître reculer. Mais ni l’un ni l’autre n’avait jamais tenu un pistolet, jamais manié fleuret, sabre ou épée.
+
+['Holmes', 'Merlin', '</s>NOTUSED', 'Marie', 'Socrate']	Cabrillat	Il y en aura une d’inoffensive ; l’autre renfermera un poison des plus énergiques et dont tu nous tairas le nom, afin que nous ne puissions découvrir sur-le-champ l’antidote, tu comprends ? — Parfaitement, répondit [MASK]. Quoique… Vilaine besogne dont vous me chargez là !
+
+['Mais', 'Cependant', 'Or', 'Et', 'Là']	Alexandrine	[MASK], la cuisinière, attirée par le bruit, venait de se glisser dans le laboratoire, pour écouter tout à son aise. — Oui, messieurs, elle était là il y a un instant. Que le patron ait vent de l’affaire, et… vous devinez ce qui en résultera pour vous deux ?
+
+['Charles', 'Louis', 'Marie', 'Henri', 'Camille']	Denise	— Ah ! j’avais bien deviné ! repartit [MASK] avec un malicieux et encourageant sourire. Mais pourquoi n’avez-vous pas eu plus de confiance ? Pourquoi avoir attendu jusqu’à présent ? Et encore il a fallu que je vous arrache cet aveu mot par mot !
+
+['Paul', 'Jean', 'Louis', 'Pierre', 'Joseph']	Galmiche	Ce n’est que le lendemain, dans l’après-midi, que [MASK] se réveilla et entreprit de quitter son logement improvisé, et tout d’abord de se débarrasser de son étrange faux col. — Qu’est-ce que ça signifie donc ? maugréait-il. Qu’est-il donc arrivé
+
+['mais', 'docteur', 'oui', 'et', 'camarade']	Cabrillat	Vous avez joliment raison, allez, [MASK], fichu métier que la pharmacie ! En voilà la preuve ! On n’est jamais tranquille, on n’est jamais sûr de… ce qui se passe chez vous quand vous n’y êtes pas… Toujours esclave, à l’attache !
+

@@ -1,0 +1,200 @@
+['Il', '.', '-', '</s>', 'Et']	Marie-Joseph	—Aux débuts des événements? fit [MASK], semblant chercher dans sa mémoire. Ah! parfaitement, mademoiselle, voilà comment c'est arrivé. J'avais été prévenu qu'un certain X..., appartenant au Journal du Département , en voulait à papa, et qu'il se vengerait prochainement.
+
+['la', 'les', 'plus', 'le', "l'"]	Saint-Cyr	Évidemment la jeune fille lui plaisait. Il ne tenait pas à une dot, du moment que papa avait dit que «ça s'arrangerait très bien comme ça». Il n'avait quitté sa mère que pendant les années de [MASK]; les jeunes époux vivraient à la maison paternelle;
+
+['Pierre', 'Alice', 'dame', ',', 'Jeanne']	Mariette	ses deux mains étaient jointes, les doigts croisés, sauf les deux index tout droit tendus, appliqués en forme de compas, et dont elle se fourrageait les lèvres en gardant des yeux fixes. —Eh bien! criait [MASK] dans l'escalier, faudra donc que je vous appelle aujourd'hui pour déjeuner?
+
+['elle', 'il', ',', 'on', 'lui']	Geneviève	Ah! si tu savais!... —Mais si je savais quoi? Voyons, ma chère enfant; quoi? —Je ne sais pas! je ne sais pas!... Et [MASK] secouait entre les genoux de sa tante, la masse épaisse de sa chevelure blonde.
+
+["s'", 'un', 'on', 'de', 'se']	Marie-Joseph	Elle semblait regarder une des têtes de femmes au pastel. Elle la voyait tout juste pour recueillir sur ces traits séduisants les songeries qu'elle avait eues ici durant les heures d'attente; et à toutes ces songeries, [MASK] était mêlé. Aujourd'hui, il était là;
+
+['son', 'merveille', "l'", 'tout', 'sa']	Geneviève	Si elle ne mourut pas sur ce coup, elle, la pauvre vieille, ce fut que son amour pour l'enfant opéra un miracle. Elle eut le courage de mentir immédiatement à [MASK]: —Heureusement, son dernier mot m'a rassurée.
+
+['famille', '...', 'M.', 'notre', "l'"]	Léopoldine	mais... mais il y a... il y a le père de [MASK], notre pauvre frère... —Monsieur votre frère? Mais vous ne nous avez jamais donné à penser qu'il fût fonctionnaire! Un homme qui met sa fille au Sacré-Cœur?
+
+['quiconque', 'cela', 'personne', 'elle', 'autrui']	Loupaing	Comment se tirer de là? Plutôt que d'avoir des obligations à [MASK], elle résolut de s'entendre avec la couturière. Mais celle-ci surprit ces demoiselles pendant le déjeuner, étant entrée par le porche de la plomberie.
+
+['Madame', 'Mademoiselle', 'Monsieur', '-', '...']	Mariette	—Ah çà! voyons, [MASK], qu'est-ce que ça sent donc? —Qu'est-ce que ça sent? Mais, Mademoiselle, je viens seulement d'allumer mon fourneau, qu'est-ce que vous voulez donc que ça sente?
+
+['France', 'Paris', 'Saint-Denis', 'Québec', 'campagne']	Saint-Martin	Et il y avait là des centaines de personnes qui eussent vendu leur lit pour voir surgir le monument grandiose, le manifeste universel de la puissance catholique! M. l'abbé Janvier poursuivait l'énumération des travaux prochains. Il possédait pierre par pierre la future église de [MASK].
+
+['la', ',', 'en', 'part', 'ce']	Geneviève	Outre qu'elle jugeait imprudent de parler mariage en ce moment à [MASK], elle préférait encore pour celle-ci le voyage et son imprévu, à la piteuse solution d'un véritable enterrement dans un village. —Plus tard, monsieur l'abbé, nous verrons;
+
+['il', 'je', 'on', 'madame', 'Madame']	Cornet	—Le voyage n'est pas si cher, dit [MASK], et c'est là-bas que vous pourrez trouver au meilleur compte le moyen de passer trois ou quatre mois hors de chez vous, toutes conditions réunies. Allons! allons!
+
+['il', 'on', 'elle', 'et', 'celui-ci']	Geneviève	Les mouches harcelaient les chevaux chez le maréchal ferrant; et, quand il passait sur la grande route une charrette fleurant bon le foin et traînée par des bœufs accouplés, [MASK] éprouvait de la peine à voir les beaux yeux mélancoliques des bêtes s'ouvrir et se fermer sans défense sous les piqûres.
+
+['</s>', 'il', 'Il', 'elle', 'et']	Cornet	Mais, de minute en minute, le vagissement sinistre agitait sa lèvre entr'ouverte, et un effort de volonté soulevait sa paupière. [MASK] avait déclaré toute médication inutile. L'abbé Moisan venait d'administrer l'absolution à la mourante, et l'on attendait le curé de Notre-Dame-la-Riche pour les derniers sacrements.
+
+['Il', 'il', 'ils', 'Elle', 'Ils']	Geneviève	Mais il paraît qu'il n'y a plus ni noms ni métiers; on dit que tout cela, c'est des mots qui ne garantissent plus rien; il faut encore aller là-dessous trier les bons et les mauvais... [MASK] se redressa tout à coup.
+
+['elle', 'eux', 'lui', ',', 'une']	Geneviève	Elle venait de toucher en arrivant quelques petits coupons qu'elle pensait lui verser en acompte. Mais elle avait oublié la couturière: les costumes supplémentaires commandés en hâte, pour partir au plus vite, quand c'était pour [MASK] une «question de vie ou de mort!»
+
+['le', 'que', 'la', ',', '...']	Marie-Joseph	Elle avait vu [MASK]. Elle n'eut certainement pas la force de crier. Il était près d'elle. Il disait: —Il le fallait bien! il le fallait bien! Depuis le temps que je vous attends... Je vous aime... Je vous aime...
+
+['tout', 'se', '-', '...', 'TABLE']	Geneviève	—Il est amusant, dit [MASK]; il ne fait pas peur. —Il n'est peut-être bien pas si fort, après tout!... Il n'a rien ordonné; il dit qu'il faut que tu manges et que tu t'amuses...
+
+[',', 'le', 'à', 'tout', 'les']	Mariette	Il regardait fixement, sans que l'on sût jamais où, de son œil incertain. Sa femme était tranquille et muette, près de lui, en camisole blanche. —Paraît qu'il a promis de ne plus sortir le soir, d'ici l'élection, dit [MASK];
+
+['elle', 'elle-même', 'Elle', 'lui', 'ELLE']	Geneviève	Elle n'avait pas osé le faire. Et aujourd'hui, c'était [MASK] qui lui disait elle-même: «Regarde donc dans le pupitre!» —A quoi bon? tu dois savoir ce que tu as de côté? —Non, non! regarde! regarde!
+
+['Alice', 'elle', 'je', 'il', 'le']	Geneviève	—Je voudrais que la dent me fît mal, dit [MASK], alors j'y retournerais... Mais, je t'en prie, laisse-moi tranquille avec ce sujet-là! —Les temps orageux te rendent nerveuse. Oh! je vois bien ça, depuis quelque temps.
+
+[',', 'il', 'et', 'en', 'se']	Loupaing	[MASK] ne sut pas cacher son triomphe. Sa joie montra qu'il n'avait eu que des présomptions sur les embarras d'argent de sa locataire et que la confirmation qu'il en recevait flattait ses desseins secrets. Il se leva, la figure illuminée, et posa la main sur son cœur:
+
+[';', '...', '.', ',', 'je']	Geneviève	—Mon enfant, voyons, ma petite enfant! nous traversons de grandes épreuves; mais il faut du courage. —Oh!... balbutiait [MASK], comme elles sont méchantes!... as-tu vu?... —Nous devons les plaindre; elles sont dans l'erreur.
+
+['il', 'elle', 'et', 'on', 'Il']	Geneviève	—Sois tranquille. A ce soir! Seule, elle se sentait les membres légers. Elle eût été au bout du monde. Le train rattrapait promptement le cabriolet sur la route parallèle. [MASK] agitait son mouchoir par la portière, jusqu'à la rangée de peupliers.
+
+['elle', 'Elle', 'et', ',', 'puis']	Marie-Joseph	Il la grisait par une longue litanie de mots d'amour dont elle avait parfois imaginé quelques-uns, accoudée sur son pupitre aux confidences, mais qu'elle n'avait jamais entendus. Elle portait sur les genoux un petit sac qui tomba. [MASK] le ramassa et le lui remit.
+
+['elle', "qu'", 'que', 'vous', 'lui']	Victorine	Excusez-la. —On peut dire qu'elle a profité, elle au moins, pendant son voyage d'agrément! Je la montrais à ma bru, ce matin, par la fenêtre; c'est-il pas vrai, [MASK]? Eh! nom d'un petit bonhomme!
+
+[',', 'elle', 'il', 'et', 'puis']	Chateaubriand	[MASK] se pencha, lui prit la main et la releva avec bienveillance, à peine surpris quant à lui de ces émotions féminines maintes fois causées par sa personne. Et après l'avoir mise debout, il lui avait adressé cette question banale: —Comment vous appelez-vous, mademoiselle?
+
+['elle', 'on', 'personne', 'qui', 'et']	Léopoldine	je fais observer à la sœur: «Prenez garde, ma chère sœur, de donner lieu à un scandale public, dans la rue; montée comme elle l'est, [MASK] ne saura plus se contenir.» Nous continuons à rouler. Mais voilà-t-il pas.
+
+['elle', 'lui', 'la', 'le', 'nous']	Geneviève	—L'ange de droite, dit le Frère, en or massif, est un don de Mme la comtesse de Grenaille-Montcontour... Et il glissa un regard malin sur [MASK]. —Presque toutes les personnes notables de la ville, ajouta-t-il, se sont fait remarquer par leur générosité.
+
+['Notre-Dame', 'Paris', 'Sainte-Marie', 'Saint-Denis', 'Saint-Pierre']	Saint-Martin	Il étendit la main, en fermant les yeux, comme pour signifier: «n'insistez pas...» M. le chapelain de [MASK] avait été nommé chanoine honoraire, le jour même où les démolisseurs avaient attaqué la maison qu'il occupait à côté de la chapelle provisoire.
+
+["s'", ',', 'se', 'tous', 'tout']	Loupaing	-toi donc un peu pour dire bonjour! Mais [MASK] était assis là comme au conseil municipal; il se carrait, s'élargissait, se faisait, sur sa chaise, plus pesant que nature. Il avait le teint allumé;
+
+[',', 'se', 'le', 'la', '...']	Geneviève	La coupole, d'une noble élégance, est surmontée de la statue du grand évêque... Enfin, comme les jeunes époux s'en allaient, le Frère posa un doigt sur la manche de [MASK] signifiant l'annonce d'une confidence précieuse que l'on ne fait pas à tout le monde:
+
+['faire', 'la', "l'", 'Dieu', 'un']	Saint-Martin	—Qu'est-ce que tu dirais d'une petite prière à [MASK]? —Je veux bien. —J'y vais quelquefois le soir, parce qu'il n'y a personne. C'est ce Frère surtout que je tiens à éviter depuis les événements , car il a montré un cynisme dans toute cette affaire!
+
+['jour', 'son', 'la', 'matin', 'à']	Geneviève	—Je l'ai vu hier, disait-elle à [MASK], en s'acheminant vers chez le dentiste; il était comme l'ordinaire; on n'aurait pas cru qu'il lui fût arrivé quelque chose... Quel exemple que cet homme-là!
+
+[':', '...', 'M.', '-', ',']	Geneviève	—Dis donc! [MASK]: si tu venais un peu? C'est le propriétaire, je ne sais pas comment m'en dépêtrer. Il ne veut pas croire au malheur; il vient pour une question de bail.
+
+['Il', 'Elle', ',', 'On', 'il']	Mariette	La vieille bonne cognait sur un clou à tour de bras. —Mais dites-le moi! avouez-le, au moins: Vous avez encore été bavarder!... [MASK] bégaya sans regarder sa maîtresse et en lui prenant un clou dans la main:
+
+['il', ',', 'Il', 'et', 'lui']	Cornet	[MASK] ayant fiché sur ses cheveux gris une toque grasse, s'était assis à son bureau, et il écrivait. —Cette fois-ci, dit-il, on va donc vous mettre sur du papier ce qu'il faut faire. C'est une ordonnance cela!
+
+[',', "s'", 'chambre', 'pot', 'se']	Loupaing	ses bandeaux gris étaient bien lissés, sa figure honnête de femme n'ayant connu jamais qu'une ligne de conduite, qu'une foi, qu'un but, en imposait à tout le monde. La mère et la femme de [MASK] arrivèrent en même temps de la pièce voisine;
+
+['Elle', 'elle', 'Il', 'il', '...']	Marie-Joseph	Mais [MASK] ne comprit pas. Il dit seulement, avec les mêmes yeux pleins de sous-entendus très clairs qu'il avait eus en prononçant ces mots pour la première fois: —Elle aura beaucoup regretté. Elle avait des choses à vous dire... Et il eut un sourire heureux.
+
+['Pierre', 'Bernard', 'Michel', 'Claude', 'Paul']	Stanislas	La nature des souvenirs qui papillonnaient dans le silence les gênait l'une et l'autre. On distinguait, de l'autre côté de la cloison, la voix douce de [MASK] et le choc minuscule des petits instruments d'acier qu'il posait sur la planchette mobile.
+
+['il', 'elle', 'le', 't-elle', '...']	Geneviève	—Tu n'as pas peur que cela arrive? —Non, fit [MASK]. —Non! Mais pourquoi? voyons, ma chère petite, il faut penser à tout; il faut tout prévoir, surtout le pire, hélas! en ce bas monde.
+
+['elle', 'la', 'nous', 'rue', 'eux']	Roche	car, toutes les fois qu'elle venait dans cette rue, elle pensait à eux, pour les éviter. Et elle dit, de peur que le laconisme des deux questions et réponses ne prît l'importance d'une réticence: —Ils sortent sans doute de chez [MASK]?
+
+['Non', 'Oui', 'Monsieur', 'non', 'monsieur']	Mariette	—[MASK], vous n'avez pas assez de confiance dans le bon Dieu; il est plus fort que tous les méchants. Les journaux de la semaine étaient en pile devant elle sur une commode contenant des papiers, des souvenirs, les reliques sentimentales de sa vie.
+
+['est', 'qui', 'lieux', 'titre', "l'"]	Loupaing	Et, tenez, voici qui est de bonne augure, pour ne vous citer qu'un exemple: figurez-vous que mon propriétaire, [MASK], depuis son élection, est devenu doux comme un agneau: il m'accable de prévenances... —Ces gens-là sont tous les mêmes.
+
+['</s>', 'il', 'elle', 'Il', 'Elle']	Geneviève	et ses yeux attristés reposaient sur les feuilles du catalpa qu'un air faible agitait. La scierie criait dans le lointain; les bruits métalliques de la plomberie couvraient le clapotis de la fontaine. [MASK] entra avec tout le parfum de la jeunesse, et sourit.
+
+['trahison', 'lui', 'cela', 'chef', 'chefs']	Monseigneur	On n'osait pas trop parler de [MASK], car il est délicat de s'exprimer sur la trahison d'un chef, et toute l'acrimonie s'accumulait sur la tête du vicaire général. —Est-il sorti? demandait-on. —Non; on ne l'a pas vu.
+
+['le', 'la', "l'", 'il', 'M.']	Geneviève	—Ce serait drôle, avait dit [MASK], qu' ils aient l'idée de venir faire leur voyage de noces par ici... Tout allait si bien qu'on avait prolongé le séjour jusqu'aux extrêmes limites de la saison.
+
+['la', 'le', "l'", 'elle', 'Pau']	Mariette	—Dame! fit [MASK], sans plus se tourmenter, Mademoiselle a ses lunettes sur le front! C'était une des distractions ordinaires de cette pauvre demoiselle. Elle était toujours vexée qu'on la lui fît remarquer. Mais la lecture était trop captivante, et elle oublia de se fâcher.
+
+["l'", 'homme', 'un', ',', 'celui-ci']	Loupaing	Le plâtrier était venu en personne blanchir le pan de muraille où s'adossait la cage à poules. Et, bien avant que la lumière du printemps eût percé le ciel gris, [MASK] armé de la lance arrosait le jardinet de sa locataire, de préférence à sa propre cour.
+
+['celle', 'la', 'elle', 'cette', "l'"]	Léopoldine	—Mais qu'est-ce qu'il s'est passé? interrogent les parents. Et l'on se tourne vers [MASK] qui, dès le premier abord avait attiré tous les regards par un corsage et un chapeau d'une recherche qui contrastait outrageusement avec le costume d'uniforme de toutes ces demoiselles.
+
+['docteur', 'médecin', 'lui', 'monsieur', 'malade']	Geneviève	On se demande où l'on va pêcher la confiance que l'on a dans ces êtres-là.» Elle remonta un moment près de [MASK] qu'elle crut devoir tranquilliser en lui disant que le docteur ne la trouvait point malade.
+
+[',', 'tout', 'que', 'et', 'à']	Geneviève	mais c'est une autre affaire quand il s'agit de soutenir son honneur mordicus contre un papa qui vous menace de vous priver de votre argent de poche... —Mais tante, tante, disait [MASK] entre deux sanglots, réfléchis aussi que c'était son père;
+
+['est', 'é', 'peine', 'Re', '...']	Rachel	... —... Corps et biens! lâcha l'abbé. —Ce n'est pas encore le cas de le dire, monsieur l'abbé, vous allez plus vite que les piqueurs. [MASK] perdue, on la cherche, on l'appelle. C'est en vain.
+
+['il', 'elle', 'se', 'et', 'ON']	Mariette	Le savetier lui-même s'était interrompu, et les deux mains appuyées contre l'étal des chaussures, il penchait la tête au dehors. [MASK] criait du milieu de l'escalier: —Mademoiselle, qu'est-ce qu'il faut dire?
+
+['elle-même', ',', 'elle', 'lui-même', 'nouveau']	Geneviève	Signé (sic): « Quelqu'un de bien informé, sans être précisément dans la dévotion, et qui veut du bien à son prochain. » Elle affirma à [MASK] et elle se déclara très sincèrement à elle-même qu'il ne fallait tenir aucun compte de tel avis.
+
+[',', 'de', 'ore', 'un', 'en']	Rachel	Elle ne vient pas au déjeûner servi sur l'herbe au lieu dit la Croix-du-Rond. On s'inquiète, on songe à l'étang qu'ont grossi les pluies dernières. On y court, on reste un quart d'heure devant cette eau saumâtre et profonde qui recouvre peut-être, [MASK] sous sa tranquillité perfide...
+
+['celle', 'celui', 'elle', 'ce', 'lui']	Geneviève	—Qui est-ce donc? demanda-t-il à [MASK] qui avait rougi jusqu'aux oreilles. —Mais, c'est lui , dit-elle. —Lui? qui?... Et il parut comprendre tout a coup: —Ah! parfaitement.
+
+[',', 'lui', 'y', 'et', 'la']	Geneviève	Un chat parut sur la crête d'un des murs; il marchait avec des précautions sur les cimes à demi séchées des moellons. Il s'arrêta tout à coup, une patte levée, en regardant fixement Jules et [MASK] de ses yeux étranges de métal jaune.
+
+[',', 'aussi', 'donc', 'tout', 'Voltaire']	Nana	C'était désormais une librairie profane, étalant à sa devanture tous les ouvrages nouvellement parus, sans aucune distinction. On y trouvait [MASK] à côté du Maître de forges et d'un roman qui faisait alors beaucoup de bruit, l'auteur en étant renvoyé devant la Cour d'assises.
+
+['elle', ',', 'une', '...', ':']	Marie-Joseph	» Le sentiment toujours stupéfiant des combinaisons qui semblent l'œuvre d'une ironique puissance souveraine, s'empara d'elle en même temps qu'elle retombait anéantie sur une chaise. —Puisque vous venez le samedi, balbutiait [MASK], je puis vous voir... Je vous verrai...
+
+['sa', 'son', 'la', 'ses', 'elle']	Loupaing	» Et, ne pensant plus qu'au bien-être immédiat de sa nièce, elle avait consacré à un prolongement de séjour la somme due à [MASK]. Elle venait de toucher en arrivant quelques petits coupons qu'elle pensait lui verser en acompte.
+
+['le', "l'", 'la', 'Jean', 'Mari']	Loupaing	on l'attend à passer d'un instant à l'autre... —Comment ça se fait-il qu'on n'en sache rien à la maison? dit [MASK], en regardant la figure bouleversée de la jeune femme. —C'est que Mariette n'est pas là!
+
+['elle', 'il', 'celle-ci', 'Alice', 'Elle']	Geneviève	Mais elle revint à la minute présente. —Est-ce qu'elles regardent encore? —Oh! dit [MASK], qu'est-ce que ça fait? laisse-les donc. —Non! non! Va voir à la fenêtre, je t'en prie.
+
+['Il', 'Elle', '-', '...', 'Je']	Geneviève	Il était près d'elle. Il disait: —Il le fallait bien! il le fallait bien! Depuis le temps que je vous attends... Je vous aime... Je vous aime... [MASK]! Elle ramassa ses forces pour lui dire: —Vous êtes perdu!
+
+['</s>', 'elle', 'Elle', "m'", 'qui']	Geneviève	Dans le petit salon, on dansait quelquefois. Ou bien on allait s'asseoir et causer en rêvant, au bord de l'eau toujours lumineuse, même les nuits où l'on est privé du plaisir de la lune. [MASK] avait été demandée deux fois en mariage.
+
+['Elle', 'elle', 'Il', ',', 'il']	Mariette	[MASK] hésita, tourna sa langue. Enfin elle lâcha: —Mademoiselle!... —Qu'est-ce qu'il y a? —... Ah! tant pis, mademoiselle, faut que je vous dise!... —Mais dites donc!
+
+['les', 'de', ',', 'la', 'ces']	Geneviève	Et ils revenaient. Selon le vent, telle ou telle cloche semait dans la campagne sa douce invitation à la prière ou au repos du soir. —Comme c'est joli! soupirait [MASK], ces petites cloches, là-bas, là-bas;
+
+['Elle', 'Il', 'il', 'elle', 'Maman']	Victorine	Les deux femmes firent simultanément un geste destiné à l'apaiser. La mère crut même devoir dire: —Mon fils, prends garde! Tu vas aller contre ce que tu veux! [MASK] ajouta: —Elle est si comme il faut, cette petite demoiselle!
+
+['parents', 'le', 'tous', 'la', 'que']	Mariette	—Taisez-vous, [MASK], ne dites pas des choses comme cela! Vous ne savez rien, et cette enfant est trop jeune, élevée comme elle est, à son couvent, pour savoir seulement ce que c'est que...
+
+['il', 'le', 'Jean', '.', 'elle']	Mariette	—C'est-il pour lui porter de l'argent? dit [MASK]. Eh! pardi, ne vous dépêchez donc point, un coup que le terme est passé. Il ne réclame rien: allez donc au plus pressé.
+
+['il', 'Il', ',', '...', 'on']	Loupaing	est-ce que j'ai une figure à pressurer le monde? On est au-dessus de ça; on est au-dessus de ça!» —Ah!... il vous a dit?... Ainsi [MASK] s'était flatté de faire des générosités à sa locataire!
+
+['Elle', 'On', 'elle', 'et', 'Il']	Geneviève	Ce fut la vieille tante, qui, enfin, se plaignit de ce qu'on ne vînt plus la voir. [MASK] exigea que son mari l'accompagnât à Tours. Et, cette fois-ci, on alla chez le dentiste, tous les trois, après le déjeuner.
+
+['il', ',', 'on', 'ap', "n'"]	Notre-Seigneur	—Heu! heu!... Il ne faudrait pas vous imaginer que je ne prenne pas plaisir à la conversation des hommes intelligents!... Et comme il s'installait à la petite table de jeu: —Cependant, [MASK] a dit: «Heureux les pauvres d'esprit...
+
+['tous', 'ses', 'gens', 'terrain', 'ceux']	Geneviève	elle distingua même des lignes inégales qui pouvaient être des vers. Ce diable de docteur aurait-il eu l'intuition complète de la réalité? Mais, qu'importait-il, maintenant? Elle ne saurait plus rien apprendre des mémoires de [MASK], quels qu'ils fussent.
+
+['voyons', 'je', 'elle', 'vous', 'il']	Léopoldine	Comme elle posait le pied sur la première marche de l'escalier descendant à la marquise, elle entendit une porte s'entr'ouvrir avec précaution, et il lui sembla, sans que ses yeux lui permissent de distinguer bien, que quelqu'un la regardait par l'entre-bâillement. —Voyons! [MASK]!
+
+['il', 'elle', 'on', 'Il', 'Elle']	Geneviève	On ouvrit encore une fois la fenêtre sut le jardin. Les parfums du soir commençaient à monter. Il venait d'épaisses bouffées des fleurs du magnolia grêle. De temps en temps, [MASK] se mouchait; et des restes décroissants de sanglots lui donnaient comme un petit hoquet.
+
+['voyons', 'monsieur', 'mais', 'Monsieur', 'messieurs']	Mariette	—Mettez donc vos lunettes pour trier votre salade, voyons, [MASK], faudra-t-il que je vous le dise cent fois!... Ah! décidément, c'est une grosse charge que d'avoir une jeune fille à caser.
+
+['il', 'tu', 'je', 'elle', 'toi']	Geneviève	—Oh! quant à ça, dit [MASK], je saurai bien l'empêcher d'être si méchant! —D'être aussi méchant que les autres, peut-être; mais tu ne l'empêcherais pas d'être du parti de nos ennemis... Et toi, toi?
+
+['HA', 'TH', 'LIN', 'NO', '...']	Geneviève	Ces demoiselles Jouffroy sont bien ennuyées, allez! —Ah? fit [MASK]. Alors, l'ancienne chaisière lui souffla avec une odeur de tabac: —Ce n'est pas moi qui le dis. On prétend que c'est un ménage d'enfer!...
+
+['elle', 'Elle', 'il', 'Jeanne', 'Marie']	Geneviève	et de ses lèvres tuméfiées tombait la plainte et la prière d'autrefois: «Ayez pitié messieurs, mesdames, ayez pitié d'un pauvre aveugle». Comme à tous les rappels de ses années de jeune fille, [MASK] frissonna. Le Frère bleu la reconnut.
+
+['il', 'on', 'elle', 'chacun', 'Il']	Loupaing	La locataire s'était réservé le droit d'en user pour l'entretien de son jardinet improvisé dans la cour du propriétaire. Or [MASK] prétendait s'en servir pour laver sa cour, à l'heure même où l'arrosage est avantageux pour les plantes.
+
+['il', 'Il', 'sou', 'en', 'Elle']	Caen	que tout monde se dégraisse sans pudeur, on ne prendra plus guère de précautions pour garder ses vêtements intacts. Niort-[MASK] leva ses sourcils en se frottant toujours la main sur la râpe de sa peau rasée. L'éclair de ses yeux montrait qu'il comprenait.
+
+['il', 'et', 'mais', '</s>', 'Il']	Jésus	—Et puis, continua le marquis, si vous vouliez vous donner la peine d'y regarder d'un peu près et de remonter aux origines, vous verriez que ce goût de vertu farouche n'est nullement chrétien. [MASK] n'a fait que prêcher la douceur et l'indulgence.
+
+['Sarkozy', "l'", 'Bernard', 'Robert', 'Monsieur']	Saint-Brice	c'était celle de [MASK], patron des mauvaises têtes. On ouvrait tout à coup sur le salon qu'il fallait bien se garder d'appeler parloir, ce mot bas étant réservé aux Maisons de second ordre. Une immense pièce blanche, au parquet ciré, emplie d'une grand murmure.
+
+['elle', 'et', 'il', 'elles', 'Elle']	Mariette	A chaque heurt violent, elles sautaient, l'une et l'autre, sur la banquette, car leur vie enclose et abritée des rigueurs physiques leur donnait une sensibilité excessive. [MASK] bougonnait: —C'est autant fait pour voyager que moi pour dire la messe!
+
+['Elle', 'elle', 'et', 'on', 'On']	Geneviève	-Et on avait essayé de se taire. Mais la porte des secrets demeurait entr'ouverte, et les aveux inhabiles, alourdis par la longue prison, se pressaient confusément à l'issue nouvelle. [MASK] s'ingénia à ramener elle-même la conversation sur un sujet que la tante écartait.
+
+['elle', ',', 'il', 'on', '-']	Geneviève	—Elle aura donc appris pendant les vacances. [MASK] cousait avec une application, exagérée, la tête sur son ouvrage. —N'avez-vous pas mal à la gorge, ma chère petite? —Oh! non, madame, c'est un chat...
+
+['toi', 'ça', 'cela', 'ce', 'lui']	Léopoldine	—Je ne comptais sur rien; j'espérais!... Ce n'est que [MASK] qui m'a fait peur. Oh! quand je l'aie sue de retour ici, après ses vacances, j'ai bien compris tout de suite pour qui elle revenait.
+
+['mé', ',', 'ma', 'le', 'de']	Martin	C'est sur ce sol que s'élèvera la misérable masure, la bicoque, le chalet!... que les temps modernes—oh! bien modernes!—se proposent d'élever à la gloire de saint [MASK]! Le mot de chalet, véritable trouvaille, fut saisi, relancé;
+
+['On', 'Il', 'Elle', 'on', 'il']	Jules	Tu penses que ce sera bon gré ! [MASK] me conseille d'y aller samedi, quoique les trains et le salon du dentiste soient bondés, à cause de la réduction sur les billets, qui est assez importante ce jour-là. «J'ai eu la lessive cette semaine.
+
+['on', 'On', 'ure', 'elle', 'on']	Geneviève	Et on entendait, au milieu des éclats de joie de courtisane qu'un Dieu cruel permettait d'émettre à cette bouche sainte: —...ure... ure... ure! [MASK] dit: —Que je jure ? c'est ce que tu demandes, n'est-ce pas?
+
+["s'", 'elle', ',', 'on', 'il']	Geneviève	Je connais les habitudes de cet énergumène; il ne s'agit que de m'être désagréable. [MASK] insista de grand cœur auprès de sa tante afin qu'elle quittât cette maison et vînt habiter près d'elle: —Vois un peu dans quel état tu te mets...
+
+[',', 'de', 'le', 'ne', 'la']	Geneviève	[MASK] comprit et tira son porte-monnaie. La Mouche lui toucha le bras, l'amena dans l'ombre et lui glissa à l'oreille: —Vous avez joliment bien fait de vous marier, madame: paraît que ça ne va pas bien du tout «de l'autre côté.»
+
+['il', 'elle', ',', 'et', 'qui']	Geneviève	Sa tête épouvantable appuyait par le menton sur l'épaule de l'hercule; elle n'ouvrait plus son œil droit, mais sa bouche tordue s'exténuait dans un perpétuel vagissement. Derrière l'homme, [MASK] tendait son mouchoir pour essuyer ces lèvres désormais inhumaines, d'où filait la salive.
+
+['Dieu', 'Jésus-Christ', 'lui', 'Jésus', 'la']	Marie-Joseph	mais le nom de [MASK] la troublait dans des régions presque ignorées de sa conscience. Osait-elle seulement penser à lui, avec cette étrange servilité d'esprit des natures comme la sienne, foncièrement et scrupuleusement soumises aux méthodes spirituelles imposées, aux examens de conscience quotidiens, aux confessions très fréquentes?
+
+["l'", 'la', 'son', 'sa', 'blonde']	Geneviève	au plafond le halo sautillait, donnant l'illusion de nuages fumeux et éphémères ou dansant en sarabande; sur l'oreiller, dans la pénombre, penchait la tête gracieuse de [MASK], et sous le front droit que découvrait la mousse blonde, le mystère était clos.
+
+['elle', 'celle-ci', 'Alice', 'il', 'Marie']	Geneviève	—Ah! bien! dit [MASK], tu es meilleure chercheuse que moi. Tu trouves tout de suite! Alors elle vint elle-même au pupitre. Elle le rouvrit; et, pendant que sa tante énumérait le contenu de la caisse, elle restait pensive devant les papiers.
+
+['guerre', 'circonstance', 'trop', 'torture', 'réponse']	Cornet	je vous prie! Elle avait cru qu'il la regardait avec un air de pitié. Mais les mots de [MASK] lui bourdonnaient sans cesse aux oreilles: «Question de vie ou de mort.» La tournée des adieux fut courte, puisque tous s'étaient retirés d'elle.
+
+['bien', 'droit', 'à', 'tendrement', 'clair']	Geneviève	que je suis heureuse de vous voir ainsi tous les deux!... Sais-tu bien, dit-elle, en regardant [MASK] dans les yeux, que tu es ma seule consolation au milieu d'un monde qui s'en va tout entier à vau-l'eau!
+
+['faim', 'vous', 'nous', 'moi', 'toi']	Loupaing	je ne mourrai toujours pas de faim d'ici après-demain; car pour ce que j'en mange, c'est pas une souris qui s'en contenterait... Il y a encore du bon monde... —Ah! vous allez chez [MASK], à présent?
+

@@ -1,0 +1,200 @@
+['il', 'elle', 'on', 'et', 'celui-ci']	Nali	Et reprenant un air grave : – Vous avez vu l’objet ; il vous convient… Donc à ce soir, onze heures. – Mes enfants et moi serons exacts. Ces paroles échangées, les deux hommes se dirigèrent vers la porte. [MASK] ne bougea pas.
+
+['plancher', 'sol', 'placard', 'compartiment', 'local']	Karrovarka	C’est un réservoir d’oxygène. Le gaz bienfaisant va couler goutte à goutte, et remplacer celui qui aura apporté la vie dans vos poumons. Des trous imperceptibles percent le plancher, mettant ce compartiment en communication avec celui qui occupe le fond du [MASK].
+
+['il', '</s>', 'elle', 'chacun', 'on']	Lucien	Vérité contestable que le peintre avait qualifiée de paradoxe. À cette heure, et pour aider sa jolie complice en détournant l’attention de leurs compagnons, [MASK] se rappela ses procédés prosodiques d’antan et parodiant le bon Lafontaine, incita ses amis à déjeuner par ce vers :
+
+["l'", 'pierre', 'jacques', 'georges', 'tom']	Vouno	À perte de vue s’étendait la surface gelée, au dessus de laquelle se dressaient ainsi qu’une forêt de lances, d’innombrables roseaux desséchés. – Qu’est-cela, demanda-t-il à [MASK], chargé en cet instant de la direction du chariot ?
+
+['il', 'on', 'elle', 'chacun', 'celui-ci']	Jean	Et, la porte repoussée, il ajouta : – Entrez, je vous prie. Les Anglais obéirent à l’invitation ; [MASK] donna un tour de clef à la serrure, et les quatre conjurés se trouvèrent isolés du reste des humains. –
+
+['il', 'on', 'elle', 'ils', 'abraham']	Andrea	Je vais confier la maison à votre garde, tandis que je chercherai un marinier. Mais souvenez-vous que je n’ai pas dit qu’[MASK] connût la statue dont vous avez parlé. Vous désirez vous entretenir avec mon enfant, je vous envoie où il est.
+
+['</s>', '"', '_', 'la', 'le']	Nali	! En vain il essaya de combattre cette nouvelle turlutaine. [MASK], plongée dans un état cataleptique était insensible ; ni les frimas, ni les ardeurs du soleil n’étaient capables de lui causer une impression. Raisonnements inutiles !
+
+['il', 'on', 'elle', 'qui', 'chacun']	Wolfburg	C’est elle que j’ai repoussée. Insensé ! Insensé ! Toujours ancré dans son idée, [MASK] voit là l’écrasement d’un coupable convaincu du crime dont on l’accuse. Il sourit fièrement : – Ah ! Vous êtes bien persuadé de l’excellence de mes renseignements.
+
+['on', 'il', 'elle', 'julien', 'marie']	Ergopoulos	L’oreille tendue, elle écouta décroître le bruit des pas de ses ennemis ; elle entendit la porte du quai se refermer. Alors elle eut un cri de délivrance. Avant de sortir, [MASK] avait éteint la bougie ; une obscurité compacte remplissait la pièce.
+
+['</s>', 'puis', '"', 'le', 'et']	Garavod	Moujicks, pêcheurs, chasseurs, femmes, enfants, uniformément encapuchonnés de fourrures grossières qui leur donnaient plutôt l’apparence de bêtes sauvages que d’êtres humains, envahirent le hall. [MASK], en sa qualité de grand prêtre, s’assit à terre au milieu de la nef.
+
+['</s>', 'et', ',', 'tout', 'rien']	Suka	Cependant ils n’ont pas le choix. En s’enfonçant dans le souterrain, ils s’éloigneront des Turcs. [MASK] d’ailleurs les encourage à sa façon. Le brave danois s’avance dans le corridor, puis il revient invitant par de petits cris ses compagnons à le suivre
+
+['dieu', 'tous', 'demain', 'moi-même', 'vivre']	Nali	– Puis-je en avoir lorsque du succès de nos démarches dépend le salut de [MASK] ? – Certainement. Tâche au moins d’en montrer assez pour écouter mon raisonnement. – Va, va… je me tais. – Et très bien fais-tu.
+
+[',', 'exactement', 'ainsi', 'que', 'qui']	Suka	– L’hospitalité est une vertu. Il avait choisi ma demeure, je ne pouvais l’en chasser. – Chez vous, parfait ! Et sifflant son chien qui, assis sur son derrière, semblait suivre la conversation avec un réel intérêt. – Ici, [MASK], aux Turcs
+
+['on', 'elle', 'que', 'à', 'personne']	Nali	Peine inutile, les vapeurs demeurèrent impénétrables. Peu à peu, [MASK] se sentit reprise par l’inquiétude. Elle constatait, sans en comprendre la cause, une sorte de gêne chez ses alliés de la veille. Le poète et les clowns lui lançaient à la dérobée des regards singuliers
+
+['"', ',', 'que', 'à', '!']	Taxidi	Pour moi, ma résolution est prise, et dussé-je demeurer seul, je répondrais à l’envoyé du sultan : Au dessus de mon front flotte le drapeau grec ; j’aime mieux mourir à son ombre que vivre sous les plis de vos étendards. – Vive [MASK], clamèrent les rebelles
+
+['ce', 'celui', 'celle', ',', 'femme']	Frog	– Des pensionnats. – Aoh ! gronda [MASK] qui piétinait, ce femme est résolument stioupid ; on n’a jamais vu un gentleman se raser avec un seringue. – Dernier modèle, glapit la négociante. – Vos êtes entêtée comme une mule.
+
+['celui-ci', 'mais', 'et', 'cependant', 'chacun']	Vemtite	Ils n’aiment que ce qui leur est défendu. Subitement [MASK], n’étant contrarié par aucun de ses compagnons, sentit son inspiration s’envoler, sa verve s’éteindre, et de nouveau un silence pénible plana dans la salle. Bientôt les clowns se retirèrent.
+
+['européennes', 'germaniques', 'inférieures', '"', 'américaines']	Hellènes	les autres se voyaient acculés à la nécessité de se déjuger, sous peine de mécontenter leurs lecteurs. L’aluminium vainqueur entrait de force dans les mœurs des antiques races [MASK], quand une manœuvre de la presse anglaise déplaça la polémique, en la transportant des régions poético-scientifiques sur le terrain politique.
+
+['john', 'tom', 'robert', 'samuel', 'paul']	Jean	Il la parcourut du regard : – C’est bien cela. Une statue en bronze d’aluminium, dont une tribu tchérémisse a fait une image sainte et qu’elle a placé dans un temple. – Un temple, répéta [MASK] d’une voix tremblante ? – Parfaitement.
+
+['robert', 'tom', 'john', 'catherine', 'jacques']	Nali	Le soleil s’est mis à la fenêtre de l’horizon ; les nids s’éveillent. Jouez, enfants des oiseaux ; vos ébats sont la joie de la terre. Interloqués les clowns ne bougèrent pas. – Mais jouez donc, répéta [MASK] avec impatience.
+
+['il', '</s>', '--il', '-', 'on']	Ergopoulos	– Non, cela n’est pas. [MASK] ne m’aurait pas écrit cette lettre s’il avait commis le crime dont il se vante. Ce serait jouer sa tête. Il prétend se cacher, mais un assassin se retrouve souvent, eût-il fui au bout du monde.
+
+['une', 'la', 'sa', "l'", 'cette']	Nali	Elle conta aussi comment, sortie la veille pour faire un peu de marche, sport qu’elle affectionnait, elle avait rencontré [MASK], mourante de froid et de faim ; comment l’Américaine après s’être reposée l’avait quittée brusquement en lui apprenant de façon laconique le péril dont ses amis étaient menacés.
+
+['dante', 'dieu', 'longtemps', 'cela', 'jeanne']	Jean	Mais une révolte lui vint. Non, elle ne mourrait pas ainsi sans lutte. Elle ne pouvait sortir de la vie sans avoir revu [MASK], sans avoir chassé le soupçon cruel de son esprit. Il lui fallait quitter ce caveau plein d’ombre. Mais comment ?
+
+['il', 'le', 'on', 'et', 'elle']	Fanfare	Et visité, non pas comme le touriste vulgaire, mais en connaisseur émérite, en dilettante délicat. Non sans surprise, [MASK] l’entendait désigner, avec une sûreté incontestable, les œuvres maîtresses de chaque galerie, ce que lui peintre n’aurait su faire sans de longues réflexions.
+
+['napoléon', 'roland', 'bussy', 'frédéric', 'charlemagne']	Nali	; des graines s’étaient accrochées aux lézardes, aux cimes effritées, et avaient couvert les ruines d’une parure plus riche que celle dont le vieux château était orgueilleux aux jours de sa splendeur. Maintenant les amis de [MASK] marchaient à l’ombre des oliviers.
+
+['tous', 'pierre', 'ceux-ci', 'chacun', 'jacques']	Thomas	– Justement ! je voulais profiter de le voisinage, pour faire le tour de l’arène, me faire une idée de le monument pendant le jour, et puis revenir ce soir après dîner. Les yeux de [MASK] brillèrent, ils entrevoyaient un nouveau repas.
+
+['de', 'pour', 'et', 'par', 'le']	Ergopoulos	– Je ne le suis pas. – Ton nom, quel est-il ? – [MASK]. Il ne résiste plus. Dans le cauchemar qui l’étreint, il a perdu toute énergie, toute idée de lutte. Et l’interrogatoire continue : –
+
+['rien', '-', 'non', 'monsieur', '(']	Nizan	– Rien, [MASK]. – Ces insurgés ont dû se cacher en amont. – Cela est certain. Car leur étrange bateau a été signalé à tous les postes de la rivière, et aucun ne l’a vu. Les passagers du Karrovarka avaient tressailli.
+
+['m', 's.', 'l', "l'", 'qui']	Frig	La statue était toujours sur son piédestal, séparée de la nef par le rideau de fourrures improvisé la veille à la demande de [MASK]. Avec une attention inquiète l’artiste regarda autour de lui, cherchant à découvrir quelles dispositions les Anglais avaient prises pour réaliser leur engagement.
+
+['il', 'celui-ci', 'on', 'tom', 'julien']	Hook	– Ouest-sud-ouest, répondit paisiblement l’homme, avec un angle moyen de 30 à 35 degrés. – Tu en es sûr ? – Consultez la boussole, Monsieur. De plus en plus étonné, [MASK] se pencha sur l’habitacle. Son subordonné avait dit vrai.
+
+['"', 'oui', 'dit-il', 'non', 'dit']	Vemtite	Jean, [MASK], les Anglais étaient braves, mais leur bravoure était celle des terriens qui courent au devant du danger sur le sol ferme. Ici, ils étaient troublés par l’idée qu’une fragile coque de bois les séparait seule de l’abîme.
+
+['bains', 'bain', 'classe', 'cinéma', 'spectacle']	Jupiter	La marche était facile, car on s’était muni de torches qui éclairaient le sanctuaire mystérieux. Sans hésitation, les jeunes gens retrouvèrent l’escalier conduisant à la salle de [MASK]. Mais là, un spectacle navrant attendait les artistes.
+
+[',', '-', 'chambre', '...', 'famille']	Taxidi	– Il est temps de dîner, déclara la fille de [MASK] pour mettre fin à cette scène attendrissante. Et comme pour s’excuser de manifester ce souci prosaïque en un pareil moment : – La nuit sera peut-être une longue veille, il est bon de s’y préparer.
+
+['il', ',', 'qui', 'homme', 'et']	Alcibiade	[MASK] descendit seul à terre, parla à quelques personnes, qu’à leur costume les passagers jugèrent être des fonctionnaires importants. Ceux-ci pressèrent les mains du jeune officier de marine, se livrant à toute la mimique exprimant l’affection et le contentement. Puis ils se séparèrent.
+
+['lui', 'elle', 'lui-même', 'napoléon', 'tous']	Fanfare	Vers minuit, la lune dégagée de nuages brilla dans le ciel. Par les hautes fenêtres ses rayons pâles envahirent le hall. Mais cette clarté, qui eût dû être recueillie avec joie par [MASK], lui causa seulement une impression de malaise.
+
+['il', 'elle', 'je', 'et', 'on']	Nali	l’angoisse de son estomac était sans doute pour quelque chose dans son abattement. Depuis longtemps sa bougie, consumée jusqu’au bout, s’était éteinte avec un grésillement sinistre. À la clarté d’une allumette, [MASK] consulta sa montre. Les aiguilles marquaient neuf heures et demie.
+
+['paris', 'tout', ',', 'toi-même', '...']	Fiumicino	– Ce moyen le voici. Tu connais sûrement dans [MASK] un patron de barque en qui tu as toute confiance ? La vieille fit oui de la tête. – Bien ! Décide-le à nous prendre à son bord et à nous conduire auprès de ton fils.
+
+['lui', 'tout', 'fini', 'fait', 'ainsi']	Frog	Des surveillants accompagnaient deux hommes couverts d’amples limousines et coiffés de casquettes de cuir portant des lettres en cuivre. L’artiste hésita à les reconnaître ; pourtant l’un d’eux ayant levé la tête vers l’endroit où il se trouvait, le jeune homme respira. C’était [MASK].
+
+['marbre', 'cire', 'pompée', 'liberté', 'napoléon']	Diane	Si le statue de [MASK] est dans leurs cottages, nous le reprendrons easy… no, facilement. – Mais que se passe-t-il donc, interrogea le peintre qui n’avait rien compris au dialogue inconnu qui avait frappé ses oreilles ? – Une petite chose pas compliquée du tout.
+
+['le', 'la', ',', ':', "l'"]	Frig	– Il faut cacher le Monsieur, murmura-t-il, pour qu’on le trouvait pas tout de suite. Une bouche de calorifère chauffe le bureau, la cheminée est vide de feu. – Dans le cheminée, reprend [MASK]. Son cousin a compris.
+
+['</s>', 'elle', 'il', 'je', 'et']	Vemtite	Les yeux agrandis par une angoisse intérieure, immobile, figée, la jeune fille écoutait. [MASK] continua : – Je ne vous crois pas méchante. Je pense que votre but est de ceux qui peuvent être avoués. Parlez, je vous en prie.
+
+['...', '-', 'le', 't-il', '-t-il']	Jean	– Mais à côté de cela, insinua [MASK], il y a… – Une infinité d’œuvres de valeur, mais ayant…, comment dirai-je, une personnalité moins puissante, une conception moins particulière. Là-dessus une discussion s’engagea.
+
+['il', 'on', 'celui-ci', 'dieu', 'david']	Frig	Alors [MASK] saisit délicatement, entre le pouce et l’index de la main gauche, le nez de la patiente, et de la dextre il lui frotta les joues en redisant comme un refrain : – For shaving ? Vo comprenez ? pour faire tomber le barbe de mon face.
+
+['l', 'm', 'c', 'à', 'a']	Maso	Oh ! la cabane serait facile à découvrir. À cinq cents mètres de la côte, avait dit [MASK]. Ce renseignement même eût-il manqué que la recherche n’eût été ni longue, ni difficile. Il était clair que le contrebandier jouissait d’une notoriété considérable dans le pays.
+
+['-', 'et', 'par', 'trouvé', 'ou']	Sir	– Il était trouvé, [MASK]. – Par qui ? – Par moi, ici presently. – Et c’est ? – Vo verrez ce chose plus tard. – Mais encore ? – Vous demandez une explanation, no… explication ? – Je vous en prie.
+
+['il', ',', 'et', '-', '"']	Frig	[MASK] entraîna ses compagnons dans l’une de ces voies étroites : – On réparait une porte à l’extrémité du jardin. Nous pourrons entrer sans escalade. Cela sera plus aisé pour le jeune dame qui n’a pas l’habitude, je pense, de promener soi-même sur les murs.
+
+['--', 'qui', '--il', '--et', 'il']	Lucien	Instinctivement il voulut l’éviter, mais la jeune fille vint à lui et d’un air agité : – Savez-vous, demanda-t-elle à voix basse, quel est le personnage qui se tient auprès du matelot placé à la barre ? [MASK] regarda dans la direction indiquée.
+
+["s'", "l'", "d'", 'les', 'il']	Taxidi	[MASK] entra. À pas de loup il se rapprocha de ses hôtes, les regarda l’un après l’autre, puis se retournant vers son préparateur : – Ils dorment, dit-il d’une voix faible comme un souffle.
+
+['</s>', '"', 'il', '-', 'elle']	Frig	– Oui… Certainement notre tentative peut être couronnée de succès. Une seule chose continue à me paraître donner prise à la malechance. C’est l’escalade nécessaire pour gagner ma cachette ! [MASK] haussa insoucieusement les épaules : – Ce chose ira toute seule, vous verrez.
+
+[',', '(', ';', 'et', "l'"]	Jean	Une parole imprudente, une supposition dont l’employé du musée ne se souvient même pas, vous avait mis sur la piste de la statue que vous cherchiez. Oh ! vous êtes très intelligent, je le reconnais. – Vos allégations sont dénuées de tout fondement, s’écria [MASK] exaspéré
+
+['ils', 'elle', 'vous', 't-il', 'eux-mêmes']	Fanfare	Enfin elle revint. Son visage resplendissait d’un enthousiasme étrange et sa voix vibrait quand elle prononça ces mots : – Venez. Ils vous parleront. – Qui cela, Ils, interrogea [MASK] ? – Venez. Eux seuls ont droit de le dire.
+
+['laura', 'jane', 'sarah', 'john', 'bella']	Nali	« Entre les lèvres de [MASK], je glissai de nouveau un peu de haschich, puis je saturai la jeune fille de fluide magnétique. Peu à peu les membres se raidirent. Elle se figea, ainsi que je le lui ordonnais, dans l’attitude de la rêverie.
+
+[':', ',', ';', '.', '"']	Vemtite	Que faire ? – Obéir, répondit nettement [MASK]. L’administration, je la connais, ne plaisante, pas. Allons prendre possession de notre logement, et cette marque de soumission donnée à la police, nous tiendrons conseil.
+
+['.', ',', ';', 'en', '...']	Jean	– Lévy et ses fils, mais je ne connais que cela, s’exclama [MASK]. Des gens charmants, aimables au possible, et dont les collections photographiques présentent un intérêt de premier ordre. – C’est cela même, Monsieur, qui m’a perdu.
+
+['en', 'de', 'le', 'pour', 'après']	Frig	C’étaient les Grecs ; nés de cailloux ils devaient être solides et courageux comme une roc, ce qui arriva. Elle s’arrêta un moment, respirant avec peine, oppressée par le souvenir du disparu, et [MASK], renfonçant une larme prête à tomber, ressaisit la parole
+
+['robert', 'georges', 'jacques', 'julien', 'catherine']	Taxidi	On distinguait maintenant en avant deux personnes qui, chaussées de raquettes, glissaient sur la croûte de neige durcie. Elles semblaient fuir et se dirigeaient en droite ligne vers le Karrovarka. – Ces gens là ne s’occupent point de nous, murmura [MASK] au bout d’un instant.
+
+['il', 'le', 'delacroix', 'celui-ci', 'wagner']	Frig	Il cherchait à faire comprendre aux Anglais la poésie, la puissance de ces œuvres ; mais ni les clowns, ni l’écuyère n’étaient amateurs de peinture, et [MASK], avec sa franchise habituelle, traduisit ainsi son opinion : – Yes. Certainly tout cela est joli, joli.
+
+['il', 'elle', 'on', "c'", '--il']	Garavod	Ils avaient prescrit à nous, en nous donnant le voiture magique sans chevaux, de nous placer au service de le divinité en métal. – [MASK] est incapable de s’opposer aux désirs des esprits de la nuit, répondit le chef tchérémisse avec une respectueuse terreur.
+
+['"', 'm', 'oui', 'monsieur', 'non']	JACOPO	Je pense, en effet, qu’après les avoir dépouillés du fruit de leurs rapines, la société peut pratiquer à leur égard le pardon des offenses. « Et je me dis charmé d’avoir fait votre connaissance, encore qu’elle soit compromettante pour un citoyen loyal et sans condamnation. Signé : « [MASK].
+
+['maurice', 'jacques', 'pierre', 'paul', 'jean']	Taxidi	– Je comprends. L’état des routes est meilleur de ce côté. – Précisément. Il y avait dans le ton du savant quelque chose de sarcastique qui frappa son interlocuteur. Un instant il regarda fixement [MASK], mais celui-ci soutint son inspection avec un visage impassible.
+
+["s'", 'marie', 'celle-ci', 'jeanne', 'elle']	Nali	; on eût dit que [MASK] était drapée dans une tunique d’or en fusion. Son front se nimbait d’une auréole éclatante. Il semblait que l’expression pensive de son gracieux visage se modifiait pour faire place à la joie, à l’espérance.
+
+['travail', 'georges', 'dante', 'wagner', 'faust']	Jean	Sous l’empire de ces pensées, la souffrance de [MASK] augmentait, prenait une acuité insupportable. Il reprit sa promenade sans but à travers les salles bondées de trésors. Il ne lui était plus permis de s’arrêter ; son angoisse lui criait sans cesse : Marche !
+
+['il', 'lui', 'qui', 'se', ',']	Frig	Avec ensemble, ils portèrent la main à leurs chapeaux, geste que l’Allemand imita aussitôt, puis [MASK] répéta pour la douzième fois : – For shaving ? En complétant sa question par le mouvement approprié. Leur interlocuteur les regarda, prononça quelques mots en allemand ;
+
+['bonaparte', 'césar', 'bayard', 'napoléon', 'le']	Jean	Quatre fois encore cette manœuvre fut répétée avec un plein succès, et [MASK], qui avait voulu rester le dernier, prit pied enfin au sommet du mont Prospero où ses compagnons l’avaient précédé. Quatre révoltés seulement étaient près d’eux.
+
+['circonstances', 'dieux', 'temps', 'conditions', 'choses']	Kérémel	Viens prendre les coupables, et si les [MASK] le permettent, emmène-les pour les punir. La face bronzée du chef s’épanouit : – Les hommes du village prétendaient employer la force mais je leur ai dit : à quoi bon nous créer des démêlés avec la gendarmerie russe.
+
+['elle', 'il', 'on', 'elle-même', 'hélène']	Anacharsia	C’était là qu’il fallait se rendre. Aussi la petite troupe se mit-elle en marche, non sans qu’[MASK] retournât souvent la tête vers l’éminence où son père dormait son dernier sommeil. En peu de temps on arriva au bourg. Tout y était en mouvement.
+
+['âne', 'enfants', 'honneur', 'été', 'ânes']	Alcibiade	Dans les pas d’[MASK], ils traversèrent la ville. Leur passage attirait les habitants aux fenêtres ouvertes, sur le seuil des maisons. Les femmes les saluaient du kaliméra ( χαλή μέρα – bonjour) si doux quand il est prononcé par des bouches grecques ;
+
+['il', ',', 'elle', 'et', 'se']	Pétrowitch	– Alors je n’hésite pas. Et fidèlement [MASK] rapporta au chef la réflexion de son interlocuteur. Celui-ci eut une mimique désolée : – C’est vrai, clama-t-il, je n’y songeais pas. Que les esprits me pardonnent.
+
+['il', 'on', 'qui', 'où', 'que']	Vouno	Dans un coude de la rivière, ombragé de grands arbres, [MASK] conduisit l’appareil. Au fond d’une petite crique on s’arrêta, non sans que les voyageurs protestassent contre la manœuvre. Le préparateur eut tôt fait de les amener à résipiscence. –
+
+['le', 'robespierre', 'on', 'chacun', 'bonaparte']	Taxidi	Déjà les révoltés avaient dissimulé le puits sous un amoncellement de débris de toutes sortes, et rassemblés en groupe, ils semblaient attendre que [MASK] leur communiquât sa pensée. – Demeurez autour de moi, mes enfants, fit le docteur à haute voix.
+
+['t-il', 'il', 'elle', '-il', '-t-il']	Frig	Le brave danois s’avance dans le corridor, puis il revient invitant par de petits cris ses compagnons à le suivre. – Le dog était un gouide sûre, déclare [MASK] ; je le souis sans hésiter. Lentement on se met en marche ; bientôt la galerie fait un coude.
+
+['il', 'on', 'elle', 'qui', ',']	Ergopoulos	Une nouvelle tentative ne fut pas plus heureuse. Évidemment [MASK] l’avait fermée sans qu’elle y fît attention. Durant un moment, elle secoua le vantail de chêne renforcé de barres de fer, sans réussir à l’ébranler. Son allumette s’était consumée.
+
+['</s>', '"', ')', '_', '...']	Frig	La présence de cet homme allait-elle l’empêcher de réaliser son dessein ? Soudain il resta immobile, les pieds rivés au sol. [MASK], toujours couvert de son pardessus à carreaux, s’approchait de lui. L’Anglais le rejoignit et, baissant la voix :
+
+['il', 'qui', 'et', 'elle', 'on']	Jean	Les côtes meurtries par son support de pierre, [MASK] se retournait à chaque instant pour déplacer la douleur. Puis des rondes passaient silencieuses, ombres noires se dessinant en silhouettes sur le halo lumineux d’une lanterne. Alors le peintre demeurait immobile, retenait son souffle.
+
+[',', 'bel', 'et', 'belle', 'la']	Nali	[MASK] captive sous une enveloppe de métal, sa sœur Arbel acharnée à sa perte, et nous, nous, ainsi que des alchimistes du moyen âge, cherchant à faire jaillir la vie d’un bloc de métal. Étrange ! Étrange !
+
+['celui', 'jérémie', 'john', 'celle', 'ulrich']	Pétrowitch	Celui-ci eut un geste de colère, il avança la main vers l’échelle, mais crédule comme tous ceux de sa race, une crainte salutaire l’empêcha d’achever son mouvement : – Jure, répéta [MASK] qui ne le perdait pas de vue.
+
+['il', 'elle', 'je', 'qui', 'lui']	Fanfare	Alors, pouvez-vous m’expliquer comment vous avez découvert que la sculpture en question avait été enfermée dans une cave de débarras de la galerie Nationale ? À cette déclaration, [MASK] poussa un gémissement : – Elle était si près de nous, et nous l’ignorions. –
+
+['</s>', 'il', 'chacun', 'elle', 'ne']	Fanfare	Rien n’est plus naturel, car l’esprit tendu sur les nécessités de l’action, cesse de s’appesantir sur la douleur ; le présent de l’acte relègue dans le passé la souffrance qui le motive. [MASK] se rendit compte de cette vérité.
+
+['"', 'le', 'à', 'un', '15']	Nali	Là, j’avais préparé dans une large cuve à galvanoplastie un bain contenant de l’alumine. « J’y plongeai [MASK]. Ainsi qu’un objet d’art que l’on veut argenter ou nickeler, j’allais la recouvrir d’une croûte épaisse d’aluminium.
+
+['moi', 'lui', 'nous', 'cela', 'vous-même']	Diane	C’est à cet instant de la journée que nous opérons les transports nécessaires au service des musées, de sorte que vos allées et venues n’attireront pas l’attention. – Dès ce soir, M. le secrétaire général, vous serez débarrassé de [MASK].
+
+['il', 'chacun', 'ils', 'elle', 'se']	Frig	Sans doute pour utiliser leur attente, les deux clowns répétaient un de leurs exercices ; couché sur le dos, les genoux en l’air, [MASK] supportait son cousin Frog, lequel, se servant de ses pieds comme d’un siège improvisé y effectuait un « numéro » de dislocation.
+
+['travail', 'route', 'voyage', 'chambre', 'qui']	Jean	Les compagnons de [MASK] dormaient, mais lui, résistait au sommeil. En entrant dans le compartiment, il avait remarqué que les fenêtres étaient obstruées par les volets de tôle qui, les jours précédents, étaient restés abaissés. Cette constatation, bien futile en apparence, aviva ses soupçons.
+
+['tout', 'ça', 'cela', 'ca', 'elle']	Nali	À son retour elle répondait avec une humeur toujours égale aux interminables questions de ses hôtes. Mais son doux visage s’assombrissait de plus en plus. Pourtant [MASK] allait mieux. Sa blessure se cicatrisait ; la fièvre l’avait abandonnée. Alors pourquoi ces mines inquiètes ?
+
+['il', 'elle', '</s>', '-', 'on']	Taxidi	– Puisse le danger t’épargner, petit père. [MASK] souriait. La voiture se remettait en marche à travers le désert de neige, croisée à de rares intervalles par des kibitkas dont les trois chevaux, attelés de front, faisaient tintinnabuler les grelots suspendus à leur cou.
+
+['non', 'répondit-il', 'dit-il', 'monsieur', 'moi']	Guttierez	– Eh bien, señor, voilà une véritable chance ! – Et inespérée aussi, [MASK]. – Je crois bien. Je me suis tenu à quatre pour ne pas me montrer, tant j’avais le désir de voir ce digne monsieur Fanfare qui nous tire de peine.
+
+["c'", 'il', ',', 'homme', '"']	Taxidi	[MASK] était un homme universel. Les problèmes de mécanique, de médecine, d’astronomie qui avaient occupé sa vie ne l’avaient point détourné des choses artistiques, ainsi que cela arrive trop souvent à certains hommes de science.
+
+['elle', "c'", 'maman', 'marie', 'madame']	Nali	N’est-ce pas nous enlever toute chance de sortir de la situation où nous sommes ? Le peintre insiste quand même, répétant toujours : – [MASK] est morte ! qu’importe le reste ? Ses amis emploient la violence pour le faire débarquer. Ils le traînent jusqu’à Mohlstrasse.
+
+['il', 'on', ',', 'napoléon', 'erdogan']	Taxidi	Connaissant le petit nombre des insurgés, les Turcs n’avaient pris aucune précaution contre une sortie impossible. Enfin [MASK] jugea que ses hommes s’étaient suffisamment avancés. À voix basse, il ordonna au Candiote le plus rapproché de faire halte, et ce commandement se propagea sur toute la ligne.
+
+['il', "s'", 'chacun', 'on', 'elle']	Fanfare	Partout la mort les entourait. Sur la surface mouvante des glaçons, sur le sol de l’îlot, les éléments semblaient conjurés pour les anéantir. Et [MASK] exprima comme malgré lui la conviction de tous : – Coûte que coûte, il faut essayer d’atteindre le rivage.
+
+["c'", 'il', ',', 'elle', "l'"]	Taxidi	; puis bientôt l’amour de leur art fouailla la verve des clowns, et leur imagination fantasque trouva des effets irrésistibles. Le déjeuner réunit tout le monde à l’avant. [MASK] était là. À l’entrée de Fanfare, il vint à lui et sans autre préambule
+
+['</s>', 'il', 'on', 'chacun', 'tout']	Jean	Plus découragé après cet espoir passager, il allait retourner vers ses compagnons, quand la lumière brilla de nouveau. Cette fois ce n’était pas une illusion. Une flamme s’élevait sur la crête d’une colline. [MASK] demeura saisi, attendant. La vision persista.
+
+['lui', 'elle', 'lui-même', 'moi', 'elle-même']	Vemtite	Mais la jeune fille a fixé son doux regard sur [MASK]. Obéissant à cette prière muette, le poète se lève, il se glisse le long de la falaise, il disparaît parmi les lauriers. Quelques moments s’écoulent, puis il revient. Son visage exprime l’étonnement.
+
+['</s>', '-', '"', 'il', '...']	Ergopoulos	J’ai de la famille, et si je me dévoue pour la nourrir… – Vous désirez vous dévouer avec circonspection. – Vous avez dit le mot juste. [MASK] eut un sourire cruel aussitôt réprimé et frappant amicalement sur l’épaule de son interlocuteur :
+
+['il', 'chacun', 'elle', 'molière', 'ils']	Frog	Leurs amis n’avaient point eu envie de rire durant leur improvisation burlesque. Devant tous s’était retracée la scène terrible, où [MASK] avait trouvé la mort. Leurs yeux étaient humides, leurs joues tremblantes, et l’esprit falot du clown dut tressaillir d’aise ;
+
+['oui', 'dit-il', 'alors', 'non', 'monsieur']	Well	– [MASK], approuve son camarade ! Maintenant venez avec moi, et surtout empêchez vos langues de remuer. Il ouvre paisiblement la porte. Les dix agents qui ont escorté les prisonniers attendent dans le couloir. Tous saluent militairement le chapeau et le pardessus de leur chef.
+
+['il', 'elle', 'lui', 'celui-ci', 'jean']	Lucien	– Je ne peux pas. Je ne peux pas. Et comme [MASK] fronçait le sourcil, elle se rapprocha de lui, les mains jointes : – Ne croyez pas cela, ne le croyez pas, je vous en prie. Mais ma langue doit demeurer muette.
+
+['détresse', 'secours', 'dieu', 'téléphone', 'tête']	Lee	Soudain un appel de [MASK] interrompit la conversation. L’écuyère accourait, les traits décomposés, les yeux fous : – Nous allons être broyés si nous restons dans l’île, s’écria-t-elle. – Broyés, pourquoi ? – Regardez.
+
+[',', 'il', 't-il', 't-elle', 'dit-il']	Frig	– Dormez bien, recommanda [MASK] en manière de conclusion, car demain vous ne dormirez pas. – Merci, repartit le jeune homme qui, après le départ de ses étranges alliés, se coucha avec l’intention bien arrêtée de prendre du repos pour quarante-huit heures au moins.
+
+['le', 'jacques', 'john', 'mrs', 'jean']	Vouno	! – C’est cela même, poursuivit [MASK]. Seulement avez-vous parfois réfléchi au phénomène qui se produit lorsque vous approchez un aimant d’une aiguille. Par la pesanteur, par son poids, l’aiguille tend à s’appuyer sur la surface de la terre.
+
+['john', 'robert', 'georges', 'jacques', 'charles']	Jean	On parle français dans la maison. Après quoi, faisant montre d’une discrétion louable, le digne homme prit congé de ses compagnons de voyage et rentra à la préfecture. – Que faire, murmura [MASK], encore abasourdi par ce qui venait de se passer ?
+

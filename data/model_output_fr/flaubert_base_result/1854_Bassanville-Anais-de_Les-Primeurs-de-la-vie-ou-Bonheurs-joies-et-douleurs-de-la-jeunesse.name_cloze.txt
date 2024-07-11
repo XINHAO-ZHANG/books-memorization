@@ -1,0 +1,200 @@
+['-', '</s>', 'il', '"', 'elle']	Léon	— Mon avis est qu’un duel est toujours une terrible chose !.. et si j’avais un ami qui se trouvât dans votre position, je ferais tout au monde pour que cela pût s’arranger. [MASK] se leva vivement et marcha à grands pas autour de la chambre.
+
+['il', 'elle', 'et', 'chacun', 'puis']	Léon	; car vous y avez perdu en route, mon pauvre enfant, le don le plus précieux qu’ait pu nous accorder le Ciel, la confiance dans l’amitié. — [MASK] fit un petit mouvement d’épaule fort significatif, quoique dissimulé.
+
+['moi', 'ami', 'non', 'toi', 'oui']	René	Crois-moi, [MASK], je saurais être au besoin un ami tout aussi solide que tu le serais, j’en suis convaincu, toi-même ; seulement nous possédons tous les deux de bien différents caractères : tu parles beaucoup de tes sentiments, et moi je cherche seulement à les prouver.
+
+['il', 'et', 'celui-ci', 'paul', 'jacques']	Marcel	— [MASK] sourit à son tour, puis il dit avec une aimable bonhomie : — Allons, soyez plus franc, vous vouliez me voir pour me parler de votre aventure du foyer de l’Opéra. — Vous la connaissez donc ? s’exclama le jeune de Gransseuil.
+
+['il', 'elle', 'celui-ci', 'robert', 'catherine']	Lia	et tu n’as pas l’air de te le rappeler non plus. — Pour cela, tu as raison, fit [MASK] en partant d’un franc éclat de rire, voilà ma guirlande restée pour orner le pays des chimères : et pourtant je ne lui envoie pas le moindre regret...
+
+['.', '?', '!', '...', '"']	OJean	... par vanité !... par orgueil !... Mais n’entends-tu donc pas le canon qui tonne sur le monde ?... ne sais-tu pas que les fils que l’on enlève ne renvoient que des crêpes funèbres à leurs mères au désespoir ?...[MASK]
+
+['ah', 'oh', 'hélas', 'misérable', '!']	Jean	!... [MASK] !... pourquoi Dieu a-t-il donc voulu te montrer à tous comme je t’ai toujours vu, moi !... En achevant ce triste récit, le vieillard laissa tomber sa tête entre ses mains et resta plongé dans une méditation profonde.
+
+['il', 'et', ',', 'que', '...']	Byron	elle prouve tout, au contraire, il me semble... [MASK] ne doit-il pas la vie à son ami ?... — D’accord !... mais cet ami était un chien, et je n’ai jamais douté des... chiens, je vous prie de le croire
+
+[',', "qu'", '(', 'tout', ':']	Valentine	— Oh ! voyons cela !... voyons cela !... s’écria [MASK] en frappant joyeusement ses petites mains l’une contre l’autre. Mais d’abord il faut que je te remercie du bonheur que j’éprouve à te retrouver aussi bonne, aussi affectueuse que lorsque je t’ai quittée
+
+[',', 'toujours', 'et', 'julien', 'chacun']	Léon	Monsieur ne doute que des hommes, interrompit vivement le baron ; voici qui est flatteur pour l’espèce humaine !... Puis il reprit plus gravement, en regardant [MASK] avec une bienveillance toute paternelle : — Ne jouez donc pas ainsi avec la désillusion, mon jeune ami ;
+
+['dieu', 'on', 'napoléon', 'je', 'bonaparte']	Bérangère	mais elle se refusa à y répondre, et lui répéta si souvent et avec une conviction si grande que son bonheur était attaché à cette action, que moitié convaincu, moitié subjugué, le brave homme consentit à se charger de la mission mystérieuse que [MASK] lui avait destinée.
+
+['</s>', '.', ':', ',', 'et']	Germain	Seulement elle ajouta, et alors sa voix tremblait, et ses yeux étaient humides comme si les larmes s’y pressaient malgré elle : — Et de plus, si vous m’aimez, [MASK], il faut, quoi qu’il arrive, garder le secret le plus profond sur cette action
+
+['vous', 'non', 'parler', 'parlez', 'mais']	Germaine	— Vous ne voulez pas parler, [MASK] ? eh bien, je vais le faire pour vous : Vous êtes orpheline, et c’est là un bien grand malheur ! je le sais, car quelque affection que des étrangers aient pour nous, rien ne remplace une mère !
+
+['moi', 'toi', 'jeanne', 'elle', 'lui']	Valentine	C’est encore [MASK] qui commence à parler : — Est-ce que tu es satisfaite de ce que ma tante nous a donné hier pour le jour de notre naissance ? fit-elle en avançant sa petite bouche de cerise de la façon du monde la plus dédaigneuse.
+
+['non', 'mais', '?', 'car', 'moi']	Clotilde	et, le croirais-tu, [MASK], ce fut le cœur gros et les yeux remplis de larmes que je vis remplir le plus cher de mes vœux, — ma sortie du couvent. Faut-il donc payer toujours la joie par la douleur !...
+
+[',', '...', 't-elle', 't-il', 'rodin']	Bérangère	On a peur, si l’on ne fait pas comme ils font, de passer pour un hypocrite... pour un sot... — Comment ! c’est par une mauvaise honte que l’on se perd ?... s’écria [MASK] avec un étonnement mêlé de mépris...
+
+['voyons', 'allons', 'monsieur', 'amis', 'ami']	Louise	! Et comme il s’aperçut que mes yeux se remplissaient de larmes : —Voyons, [MASK], causons un peu sérieusement, me dit-il en riant. — Je me fais bien vieux pour rester le tuteur d’une jeune fille et l’administrateur d’une fortune ;
+
+['elle', 'il', 'et', 'on', 'puis']	Germaine	?...— [MASK] se prit à sourire pour cacher un mouvement d’humeur. — Je m’impatientais, dit-elle, contre un passage de cette contredanse que je ne puis jouer en mesure, et que j’ai déjà recommencé plus de dix fois.
+
+['dit-il', 'dis-je', 'ami', '-', 'dit-elle']	Marcel	— Il est tout simple qu’on se moque d’une chose que l’on ne sait pas comprendre, et j’avoue mon tort, de parler ainsi d’un noble et grand sentiment devant un fou tel que toi, [MASK]. — Merci du compliment !
+
+['vous', 'moi', 'toi', 'monsieur', 'oui']	Marcel	; et comme dans l’affaire malheureuse où vous vous trouvez engagé il n’est pas plus permis d’être imprudent que d’être pusillanime, nous consulterons mon oncle, si vous le voulez bien, et vous me chargerez de vos pleins pouvoirs. — Vous, [MASK] !
+
+['marguerite', 'la', 'jeanne', 'madeleine', 'catherine']	Lia	— Mais, oui, j’en suis enchantée ! s’écria [MASK], dont les yeux brillèrent de plaisir ; c’est ma première pièce d’or, et je l’aime, pour sa primeur, comme un enfant chéri.
+
+['moi', 'elle', 'lui', 'eux', 'nous']	Valentine	Mais pourtant, reprit-il, —et en parlant ainsi il jeta sur [MASK] un regard empreint de mécontentement, — je préfère la charité exagérée qui part d’une belle âme, à la raison n’ayant pour source que l’égoïsme et la sécheresse du cœur.
+
+['chateaubriand', ',', 'wagner', 'faust', 'napoléon']	René	» Sur ses lèvres, avec les grâces, » Siège l’utile vérité..... » Un franc et joyeux éclat de rire vint interrompre [MASK] dans sa pompeuse tirade ; aussi en prit-il un accès de violente humeur, et secouant la tète, il se prit à dire fort brusquement :
+
+['nouveau', 'propos', 'tous', 'cheval', 'tout']	Bérangère	— Mais ces amis peuvent sinon vous tromper, au moins se tromper eux-mêmes... » D’abord le vicomte garda le silence au lieu de répondre à [MASK] ; puis il parut accorder quelque confiance aux dernières paroles qu’elle avait prononcées, car il lui dit tout à coup :
+
+['son', 'm.', 'monsieur', 'un', 'madame']	Léon	demanda-t-il à [MASK]. Celui-ci se sentit rougir ; et pour dissimuler son embarras, il répondit d’un petit ton fort dégagé : — J’ai dix-huit ans, Monsieur le baron, mais j’ai déjà visité toutes les cours étrangères.
+
+['</s>', 'il', ',', 'et', '.']	Georges	[MASK] lui serra affectueusement la main pour le remercier de son intéressant récit ; puis souriant à son tour : — Je profiterai, dit-il, de votre exemple, et je renonce à mes projets pour demain, du moins en nombreuse compagnie ;
+
+['et', ',', 'le', 'la', 'que']	Lionel	mais elle espéra avoir détourné l’orage qui menaçait son protégé, et elle accepta courageusement cette douleur. Alors, voulant connaître toute la vérité, elle lui demanda s’il avait vu [MASK]. — Non, je ne l’ai pas vu, et n’ai pas le moindre désir de le voir
+
+[',', ':', 'ici', '...', ';']	Pierre	quand je dis seul, c’est loin d’eux que je sous-entends ; car j’avais auprès de moi ma femme, ma belle-mère et mon fils qui avait été nommé [MASK] en souvenir du fils du prince, et jamais intérieur de famille ne fut plus heureux que le nôtre
+
+['elle', 'thérèse', 'valentine', 'celle-ci', 'clara']	Germaine	aussi le matin quand elle se leva, la nature sombre, échevelée, glaciale, lui semblait porter le deuil de son âme..... Une lettre adressée par [MASK] à une de ses amies peu de temps après cette triste scène, nous apprendra quel en fut le dénouement.
+
+['il', 'celui-là', "c'", 'dieu', 'celui-ci']	René	—Celui-ci le regarda avec surprise, puis il lui répondit simplement : — [MASK] est si bon, si généreux, si dévoué, que tout le monde l’aime ! Et je fais comme tout le monde : ce n’est donc pas bonheur, mais justice.
+
+['il', 't-il', 'elle', 'maurice', 'bussy']	Jules	— Quel heureux hasard vous a mis sur notre route ! s’écria [MASK] vivement en offrant son bras au curé, comme pour lui apporter un appui. — Il n’y a pas de hasard pour un chrétien, mon enfant !
+
+['je', ',', 'et', 'on', 'ou']	Lionel	songes-y, c’est au nom de notre mère que je t’implore !... Rappelle-toi les paroles de notre oncle : — « Si [MASK] joue encore, aussitôt je te marie,.. » — Et à qui me mariera-t-il, mon Dieu
+
+['non', 'monsieur', 'moi', 'pourquoi', 'hein']	Germain	mais presque au même instant, et comme s’il eût été placé là en vedette, un vieux serviteur vint ouvrir. A cette vue notre jeune voyageur parut éprouver une vive contrariété. — Mon oncle est-il déjà couché, que vous puissiez venir ainsi à ma rencontre, [MASK] ?
+
+['jeanne', 'marguerite', 'elle', 'celle-ci', 'geneviève']	Adrienne	? — fit [MASK] avec surprise et gaîté tout à la fois. — A qui ?... tu vas le savoir ;... et, comme je suis très-curieuse de connaître le mot de l’énigme, je vais te parler sans charade.
+
+['en', 'que', 'pourquoi', 'cela', 'lui']	Léon	— [MASK] serait-il léger, se demandait-elle, et la douleur de celle qui va être sa compagne serait-elle déjà effacée de son cœur ?... Tout à coup le général s’approcha d’elle et l’arracha à ses tristes réflexions.
+
+['moi', 'lui', 'ardeur', 'enthousiasme', 'joie']	Gertrude	— Peu à peu le grand air dissipa cette impression fâcheuse ; et mon cœur avait repris toute son allégresse, quand je montai avec [MASK] dans le chemin de fer qui allait nous emporter pour ***, endroit où nous devions trouver les gens et la voiture de mon grand-père ;
+
+['monsieur', 'moi', 'madame', 'comte', 'mademoiselle']	Marcel	— J’ai toujours besoin de vous voir, [MASK], dit le jeune comte en dissimulant son embarras sous un sourire, et j’ai profité de la bonne occasion qui vous faisait passer sous ma fenêtre pour vous obliger à me rendre une visite : me trouvez-vous trop indiscret ?
+
+['jeanne', 'thérèse', 'louis', 'marie', 'hélène']	Denise	; car, pour secourir [MASK], plusieurs domestiques s’empressaient dans l’appartement, et tous ont entendu ces paroles fatales... Atterrée,... elle sent avec effroi la portée du mystère terrible que son indiscrète curiosité vient de dévoiler à tous ;
+
+['il', 'dieu', 'on', 'elle', 'qui']	Jean	» En entendant ces paroles, ma mère devint rouge et embarrassée. — » Monsieur le Curé, balbutia-t-elle, [MASK] m’a suivie, et j’ai cru qu’il était plus prudent de lui faire tout connaître que de le laisser bavarder sur ce qu’il aurait pu découvrir.
+
+['lire', 'jour', 'paul', 'écrit', 'temps']	Bérangère	alors j’avoue mes torts envers lui... et je lui rends toute ma tendresse. » Le vicomte parlait encore quand un domestique entra et remit à [MASK] une lettre qui venait d’être apportée pour elle. Elle l’ouvrit avec indifférence, croyant à quelque invitation ou autre banalité d’usage
+
+['la', 'celle-ci', 'sa', 'madame', 'mademoiselle']	Valentine	— Celle-ci se rendit aussitôt aux ordres de sa maîtresse, et bientôt, suivant l’ordre qu’elle en avait reçu, étala sous les yeux de [MASK] ravie des toilettes si légères qu’on eût pu les croire l’ouvrage de quelque fée protectrice.
+
+['elle', 'celle-ci', 'il', 'marie', 'alice']	Bérangère	; mais, plus prompte que la pensée, [MASK] s’élança vers lui et, lui faisant un signe rapide : — Ne dis rien à mon oncle, murmura-t-elle de façon que lui seul pût l’entendre, et regarde à table sous ta serviette.
+
+["j'", 'on', 'il', 'elle', 'qui']	Germain	lui demanda gravement le vicomte. — Je dis qu’il a volé,... et il ne le nie pas ;... ainsi son affaire est claire, répondit le nouveau venu avec un rire méchant. — [MASK] avoue avoir volé !... s’écria le vicomte.
+
+['total', ':', 'de', '(', 'pour']	Germaine	— C’est donc une chose bien grave et bien mystérieuse qui te fait pleurer ainsi ? puisque tu n’oses pas même me la dire, reprit l’excellente femme, en commençant à pressentir un malheur. — Mon Dieu !..... mon Dieu ! ayez pitié de moi !... s’écria [MASK] pour toute réponse
+
+[',', 'celui-ci', 'henri', 'elle', 'rodolphe']	Léon	; puis [MASK], ayant secoué la cendre de son cigare et sans doute son émotion avec elle, se prit à dire en souriant : — Votre histoire est charmante, Monsieur, cela ne fait pas le moindre doute, mais elle ne prouve rien.
+
+['présent', 'propos', 'faire', 'nouveau', 'dieu']	Lia	Au bout de quelques instants, pourtant, il dit à [MASK], et cela d’une façon si paternellement bonne qu’il n’y avait aucun mécontentement dans ses paroles : — Je suis de l’avis de ta sœur, ma fille, tu as disposé bien légèrement d’une somme très-forte
+
+['mais', '-', 'et', '"', ',']	Bérangère	— [MASK] aussi me tromperait-elle ?... se demanda, en la voyant sortir, le vicomte tristement préoccupé de cet incident, si léger en apparence. Je le saurai, et alors ni elle ni son frère ne seront plus rien pour moi ;
+
+['moi', '-', 'toi', 'maître', 'ami']	Clotilde	— Voulez-vous les interroger pour moi ? demandai-je en me rapprochant de la charmante enfant ; — car, tu le sais, [MASK], l’imagination est amie de l’avenir. — C’est inutile ! répondit-elle en secouant la tête avec découragement ;
+
+['henri', 'marie', 'louis', 'jeanne', 'armand']	Lionel	s’écria [MASK], qui s’élança vers sa sœur et l’entraîna rapidement devant le vicomte stupéfait ; et vous, mon oncle, ouvrez-lui vos bras, ajouta-t-il, car elle ne m��rite que votre amour, et c’est un ange que Dieu vous a envoyé pour vous bénir.
+
+['laisse-moi', 'moi', 'va', 'maintenant', 'toi']	Clotilde	ton père n’en a pas eu le démenti, et tu es restée attachée à l’étude comme le chat à la maison. Tout est bien qui finit bien, ai-je entendu dire à mon grand-père ; alors, [MASK], sois heureuse, et ton père aura eu raison.
+
+[',', '(', ';', 'le', ':']	Valentine	— Cela est pourtant vrai ! fit [MASK] plus gravement, après avoir gardé quelques instants le silence ; et je ne m’explique pas, continua-t-elle, pourquoi papa, qui est si généreux, ne nous donne jamais d’argent. Le comprends-tu, toi ma sœur ?
+
+['une', 'paris', 'un', 'chacune', 'celui-ci']	Georges	; ce qu’il désirait avant tout, c’était d’éloigner [MASK] de ces parties si dangereuses pour un chasseur inexpérimenté ; et le lendemain matin, à peine fit-il jour, que mon frère, accompagné du garde-chasse du château, partait résolûment pour battre la campagne.
+
+['</s>', '"', '_', ',', '-']	LOUISE	mais, ce qui est inutile, c’est de m’envoyer ton souvenir, puisqu’il occupe toujours la meilleure partie de mon cœur. Adieu, Madame, je reprends mon respect au moment de quitter la plume, et cela pour vous montrer que je sais vivre. [MASK] A CLOTILDE.
+
+['métal', 'bois', 'maître', 'or', 'pierre']	Bérangère	je dis seulement qu’il ne nie pas,... voilà tout.... — Et que l’accusez-vous d’avoir volé,... je vous prie ?... — Rien que ça,... excusez !... — et l’inconnu sortit de sa poche la montre de [MASK] :
+
+['maintenant', 'seigneur', 'chevalier', 'toi', 'donc']	Clotilde	Je suis aujourd’hui et mariée et comtesse !... à ton tour, [MASK], de prendre le respect et de me faire la révérence, que je te rendrai du haut de ma grandeur ; car me voici une fort grande dame, je te prie de le croire !
+
+['henri', 'césar', 'dieu', 'jean', 'jeanne']	Lionel	— J’ai cru que vous aviez pardonné à [MASK], dit-elle d’une voix aussi ferme que cela lui fut possible ; et, vous le savez mieux que moi, mon cher oncle, un gentilhomme n’a que sa parole. »
+
+['elle', 'il', 'pierre', 'jean', 'on']	Lionel	s’écria la jeune fille toute joyeuse... mais maintenant bonsoir, ami... il se fait tard... Adieu. — Adieu, et dors heureuse, mon bon ange, car tu le mérites, ma sœur. En achevant ces derniers mots, [MASK] s’éloigna.
+
+['celle-ci', 'anna', 'tout', 'louise', 'solidement']	Denise	; et, forts de la recommandation du brave curé, ils attachèrent [MASK] à leur maison, ce dont ils eurent lieu de se louer, car la pauvre enfant paya la générosité de ses maîtres par un dévouement complet, par une affection sans bornes.
+
+['toi', 'maman', 'marie', 'marthe', 'femme']	Clotilde	! Et toi, [MASK], es-tu heureuse dans ton ménage ? Je l’espère, et aussi je le crois, car on dit que le bonheur rend égoïste, et vous l’êtes devenue, madame, puisque vous m’oubliez.
+
+['cela', ',', 'ceci', 'tout', 'ainsi']	Bérangère	. — Ce n’est qu’une lettre fort insignifiante, mon oncle, quelqu’un qui quête pour les malheureux du quartier,... —fit [MASK] en rougissant de son mensonge et baissant les yeux comme pour le cacher ;
+
+['je', 'elle', 'celui-ci', 'celle-ci', "j'"]	Lia	!.. A peine achevait-elle ces mots, que [MASK] lui mit vivement la main sur la bouche, en lui disant tout bas et avec inquiétude : — Chut... chut... tais-toi... il me semble que j’entends parler à côté de nous...
+
+['le', 'vous', 'et', 'la', 'les']	Jules	... — Toujours des reproches, mon Dieu ! murmura la jeune femme en laissant tomber sa tète sur sa poitrine avec découragement ; j’ai fait pourtant tout ce que j’ai pu pour réparer le malheur que j’ai causé !... Vous n’êtes pas juste, [MASK]
+
+['enfants', '...', 'et', 'autres', '</s>']	Georges	« — Une chasse !... m’écriai-je en rougissant moitié de bonheur, moitié d’embarras, car, ainsi que vous, [MASK], c’était mon début dans cette sorte de petite guerre. Voila l’endroit ou nous devons attendre pour nous embusquer à notre aise
+
+['dit-il', 'dit-elle', 'dites-vous', 'monsieur', 'madame']	Bérangère	— Votre leçon est mal adressée, [MASK] ; envoyez-la à votre frère, qui a grand besoin d’en profiter, je vous assure !... » La pauvre enfant eut le cœur saisi en entendant son oncle lui parler aussi durement qu’il le faisait par le passé ;
+
+['tom', 'celui-ci', 'john', 'robert', 'harry']	Georges	. — Oui, Monsieur, c’est la première fois, mais qu’importe !... Je sais tenir un fusil, il me semble... et je suis d’une certaine force au pistolet, — reprit [MASK] en se rengorgeant d’un air tout à fait capable.
+
+['tout', 'tous', 'bien', 'déjà', 'cela']	Michel	— Mais nous retournerons, si vous le voulez bien, à mon récit, qui, je l’espère, ne vous intéressera pas moins maintenant que vous connaissez [MASK]. « Ainsi que l’avait fort bien dit le docteur, je fus promptement hors d’affaire,
+
+['louise', 'non', '...', 'mère', 'folle']	Clotilde	Tu ne l’as pas oubliée l’ingrate Louise, n’est-ce pas, [MASK] ?... Tu la crois encore dans l’enivrement du plaisir, et si tu la délaisses, tu penses que ce n’est que justice...
+
+[',', '...', 'et', 'alors', 'puis']	Léon	— Oui,... oui,... je me rappelle, murmura [MASK] d’un air pensif : — « Donnez aux autres ce que vous voulez recevoir d’eux, — » c’est ce que m’a dit votre aimable oncle le baron,-n’est-ce pas ?...
+
+['maurice', 'catherine', 'marie', 'elle', 'marguerite']	Lia	Le comprends-tu, toi ma sœur ? — Eh ! mon Dieu, ce mystère est bien simple à découvrir, dit [MASK] avec un joyeux éclat de rire. Il n’y a qu’à écouter ce que nous dit notre bon père à chaque instant :
+
+[',', ':', '(', 'et', '...']	Lionel	regardez un peu quelle heure il est. Et d’un geste rempli de grâce et de gentillesse, tout en secouant tristement la tête, elle lui mit sous les yeux une délicieuse petite montre qu’elle portait attachée à sa ceinture. — Bientôt minuit !... s’exclama [MASK]
+
+["l'", 'une', 'un', ';', 'son']	Valentine	A cette vue, un cri d’effroi s’échappa de toutes les poitrines, et l’on allait s’élancer à sa poursuite, quand une détonation terrible se fit entendre, et on aperçut accourir le vieillard, portant entre ses bras [MASK] évanouie ;
+
+['rome', 'm', 'paris', 'm.', 'londres']	Peterkoff	et je ne veux vous raconter que les tristes souvenirs de la malheureuse affaire où je fus fait prisonnier. « En attendant ce moment heureux, je me vis installé au château ; le prince envoya une indemnité à [MASK], pour le payer de l’hospitalité que j’avais reçue chez lui, et je devins son hôte
+
+['monsieur', '-', 'demain', 'amis', 'messieurs']	Louise	— Où irons-nous aujourd’hui, [MASK] ? — me demande-t-il chaque matin ; — et nous discutons gravement les promenades, les théâtres et les fêtes qui doivent nous attirer. — C’est un rêve qu’une vie semblable ! et un rêve de bonheur....
+
+['dit-il', 'dit-elle', 'dis-je', 'père', 'oui']	Valentine	je suis curieuse de savoir comment tu peux être aussi contente d’une misérable petite monnaie, nous à qui rien n’est refusé. Notre père est si riche !... — Tu as raison, [MASK], notre bon père va au-devant de tous nos désirs ;
+
+["j'", 'ce', 'du', 'contenu', 'il']	Denise	Jusque là [MASK] avait caché dans les replis de sa pensée, enseveli au plus profond de son cœur, ce secret plein de honte et de déshonneur pour elle. Nul ne pouvait le soupçonner, le lire sur sa douce figure, où semblaient respirer le calme et le bonheur
+
+['le', 'et', 'je', 'il', 'tu']	Clotilde	Il se refusa à me servir lui même, eu égard à son âge avancé, me dit-il, mais il m’offrit son notaire, son homme de confiance, le plus honnête homme qu’il connût. Et sais-tu qui il m’a nommé, [MASK] ?
+
+['elle', 'il', 'jeanne', 'marie', 'marguerite']	Valentine	... Je ne l’ai que trop appris, hélas !... Et, sous un autre ciel, tous deux nous oublierons, lui ses souffrances cruelles, et moi mes espérances bien chères !... Le lendemain, [MASK] épousa en grande pompe son noble et bienfaisant fiancé.
+
+['</s>', 'chacun', 'on', 'il', 'et']	Valentine	; chacun présageait aux aimables fiancés le plus heureux avenir. [MASK] recevait tous ces compliments avec modestie et reconnaissance. Le bon goût de sa parure, riche dans sa simplicité, faisait ressortir encore sa grâce et sa beauté. En un mot, elle était charmante !...
+
+[',', 'et', '"', "qu'", '(']	Jules	s’écria [MASK] en se relevant et venant se placer devant sa femme ; et si votre existence-est triste, à qui en est la faute, je vous le demande ?... Est-ce moi qui suis venu détruire votre santé quand vous étiez dans toute la force de l’existence
+
+['jacques', 'jeanne', 'georges', 'henriette', 'robert']	Léon	... s’écria [MASK] ; oh ! non, je ne veux pas abuser de votre bonté qui vous entraîne. On ne peut accepter un pareil service que d’un ami ;... et... je n’en ai pas,... ajouta-t-il tristement.
+
+[',', 'le', 'de', 'les', 'et']	Petit-Pierre	— Que Dieu te conduise, enfant ! dit le vieillard attendri, en voyant [MASK] ramper sur le ventre et s’élancer par la fenêtre comme un jeune chat sauvage. Une fois dans le parc, l’enfant se glissa sur le gazon, de même qu’un serpent
+
+['exemple', 'hasard', 'contre', 'ailleurs', 'là']	Roger	. « Monsieur, Au dessous est le lavoir autour duquel les lavandières rédigent la gazette de l’endroit a coups de langue et de bavoir. « Vous avez dû savoir par [MASK], que j’ai remporté le grand prix de littérature, c’était ma première couronne !
+
+['elle', 'il', ',', 'et', '-']	Valentine	[MASK] haussa légèrement les épaules. — Que tu es enfant, ma pauvre sœur ! laissa-t-elle échapper de ses lèvres ; un rien te plaît, un rien t’amuse... je suis curieuse de savoir comment tu peux être aussi contente d’une misérable petite monnaie, nous à qui rien n’est refusé.
+
+['et', 'mais', 'une', 'puis', 'toute']	Valentine	J’y ai trouvé une fortune, [MASK] la vie, et nos sauveurs le bonheur ! Bénissons donc le bon Dieu, qui permet que du mal découle souvent un très-grand bien. LA PREMIÈRE MONTRE OU DEVOUEMENT ET RECONNAISSANCE. LA PREMIÈRE MONTRE.
+
+['</s>', 'on', '"', 'il', 'et']	Germaine	;... mais tu vis trop dans le pays des chimères, et malgré tout notre désir de te voir heureuse, ton tuteur et moi, soit notre faute, soit la tienne, nos efforts n’aboutissent à rien. [MASK] baissa tristement la tête sans répondre ;
+
+['thérèse', 'rodin', 'charlotte', 'celui-ci', 'julien']	Germain	en dissimulant la mauvaise humeur que venait de faire naître en lui la brève mais mordante leçon que lui avait donnée [MASK]. — Mademoiselle vous attend, répondit celui-ci, et c’est pour lui faire plaisir que je suis venu ainsi au-devant de vous.
+
+['elle', 'jeanne', 'marguerite', ',', 't-elle']	Lia	... Certes, papa a raison en te refusant de l’argent, car, avec ta stupide générosité, sa fortune n’y suffirait pas pour enrichir tous les passants. — J’avoue, fit [MASK] en baissant la tête et comme honteuse de sa bonté, que la somme était forte
+
+['il', 'elle', 'qui', 'lui-même', "qu'"]	Valentine	— Oh ! moi, je ne suis pas si brillante que toi dans mes emplettes ! voici tout simplement un flacon et un petit panier en coco que j’ai achetés à quelqu’un de ta connaissance ; — et [MASK] accentuait ces paroles d’un sourire fort significatif.
+
+['elle', 'il', 'on', 'madeleine', 'marguerite']	Bérangère	» En entendant ces paroles, dont elle devina instinctivement le sens, [MASK] se sentit froid au cœur, et, laissant échapper la fourchette qu’elle tenait entre ses doigts, elle joignit les mains en jetant un regard suppliant sur son oncle.
+
+['marie', 'jeanne', 'marguerite', 'celle-ci', 'fanny']	Lia	A cette vue, le cœur de [MASK] se serre douloureusement, et oubliant et ses projets et l’importance de la somme qu’elle donnait ainsi, elle fait un signe à l’enfant et lui jette sans regret sa pièce d’or dans la main.
+
+['</s>', 'rousseau', 'napoléon', 'paris', 'dante']	Valentine	— Et cette vision terrible, qui la nuit s’asseyait à son chevet, le jour partageait sa solitude, était une réalité aujourd’hui. La légèreté indiscrète de [MASK] l’avait souffletée publiquement de cette vérité infamante, que la malheureuse enfant eut voulu se cacher à elle-même...
+
+['ce', '...', '(', 'que', 'travail']	Lia	— Je suis de l’avis de ta sœur, ma fille, tu as disposé bien légèrement d’une somme très-forte ; car une pièce d’or est quelquefois une fortune !.. — Et comme il vit un sourire sur les lèvres de [MASK], il reprit plus gravement
+
+['charles', 'henri', 'diane', 'tom', 'louis']	Lionel	Aussi la conversation s’interrompit-elle aussitôt ; [MASK], laissant son cheval à son domestique, marcha vivement vers la maison, et, en évitant de faire le moindre bruit, monta rapidement l’escalier qui le conduisait à la chambre de sa sœur.
+
+['jeanne', 'marguerite', 'elle', 'ève', 'geneviève']	Germaine	dit-elle d’un ton doux et indulgent, mais qui n’avait rien de cette tendresse alarmée qui fait reconnaître une mère à sa première parole. — Moi ?... fit [MASK] en rougissant d’avoir été ainsi surprise ; non vraiment. — Que disais-tu donc alors !
+
+['et', 'qui', 'il', ',', 'elle']	Michel	Un jour, par une belle soirée d’automne le brave fermier était assis sous la treille [MASK] était à ses côtés..... — Mais je m’aperçois que ma plume vient de commettre une indiscrétion et vous apprendre que c’est moi qui suis le héros de cette ridicule histoire.
+
+['elle', '...', '</s>', 'on', '--']	Valentine	— O mon père !... mon pauvre père !... un galérien !... le bagne !... je suis la fille d’un forçat !... [MASK] a tout compris !... et le mal qu’elle a fait... et l’indiscrétion qu’elle a commise ;
+
+['lui-même', 'marthe', 'thérèse', 'elle-même', 'maman']	Valentine	Et l’avenir de son enfant chérie occupait et ses veilles et ses rêves. — Aujourd’hui ou demain, disait-il quelquefois à [MASK], Dieu peut me rappeler à lui, et je ne partirai tranquille que si quelqu’un me remplace auprès de toi.
+
+[',', 'en', '(', 'plus', 'et']	Adrienne	Le premier moment fut donné tout entier au bonheur de se revoir, et les deux amies ne se lassaient pas de se le dire. — Que te voilà belle et vermeille, Valentine ! s’écriait [MASK] en redoublant de caresses, et que j’éprouve de plaisir de te revoir
+
+[',', 'qui', 'et', '"', 'enfants']	Lia	[MASK] vint bientôt les y rejoindre, et, les yeux remplis de larmes causées par une douce émotion, elle leur raconta la surprise et le bonheur de ses chers protégés quand ils s’étaient vus ainsi commensaux de la maison.
+
+[')', '"', ',', 'madeleine', '...']	Bérangère	Comme toutes ces pensées agitaient douloureusement [MASK], elle mit la main sur son cœur pour en modérer les battements, qui l’oppressaient et la faisaient souffrir ; alors elle sentit sous ses doigts un objet qu’elle prit machinalement : — c’était sa montre...
+

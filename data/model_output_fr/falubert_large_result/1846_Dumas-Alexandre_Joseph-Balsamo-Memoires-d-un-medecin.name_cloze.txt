@@ -1,0 +1,200 @@
+['moi', 'lui', 'nous', 'elle', 'lui-même']	Marat	vous vous déchaînez contre les poètes, et vous parlez par métaphores plus poétiques et plus imagées que les leurs ! Frère, frère ! continua-t-il en s’adressant à [MASK], vous avez pris ces phrases, je vous le dis, dans quelque roman que vous élaborez dans votre mansarde.
+
+['qui', 'se', "s'", "l'", 'tout']	Gilbert	La pâleur, le tremblement de honte de [MASK] émurent la bonne femme. Assez d’autres eussent triomphé de voir un orgueilleux puni ; elle, elle souffrit de cette souffrance si bien peinte sur les traits bouleversés du jeune homme.– Voyons, mon pauvre enfant, lui dit-elle, soupez et couchez ici
+
+['le', "l'", 'la', 'un', 'ce']	Balsamo	Qui sait ! dit [MASK], avec un accent si grave qu’il acheva de captiver la jeune fille.– Voyons, sérieusement, monsieur le baron, reprit le vieillard, qui paraissait décidé à tirer la chose au clair, est-ce que vous avez plus de trente ans ?
+
+['je', 'Docteur', 'le', 'Mesdames', 'Monsieur']	Andrée	Je vous vois trente ans au plus, n’est-ce pas, [MASK] ?– En effet, répondit celle-ci, qui essaya encore de soutenir le regard puissant de son hôte, et qui cette fois encore ne put y réussir.– Non pas, non pas, dit ce dernier
+
+['il', 'Il', '.Il', 'qui', 'et']	Balsamo	Oui, monsieur le comte.[MASK] enveloppa de son regard profond et dévorant le jeune homme dont le nom emportait une accusation si terrible.Il fut surpris, lui qui se connaissait en hommes, de l’assurance de son maintien, de la dignité de sa parole.
+
+[',', 'ées', 'faites', 'famille', 'France']	Gilbert	C’étaient les économies de [MASK] depuis trois ou quatre ans peut-être.Il ouvrit le papier, regarda l’écu pour bien s’assurer qu’il n’était point changé et le mit dans la poche de sa culotte, toujours protégé par son papier.
+
+['il', 'elle', 'lui-même', "s'", 'on']	Andrée	Après quoi, il revint s’asseoir sur le même sofa où [MASK] était assise.Le plus profond silence régnait dehors.Pas un souffle de vent ne passait dans l’air, pas une voix humaine ne retentissait ; la nature était calme.
+
+['?', 'celui-là', '</s>', '"', 'là']	Acharat	Le drap de cet appareil trempait dans un mélange d’eau acidulée ; les deux extrémités ou les deux pôles, comme on les appelle, sortaient du baquet.– Quel œil veux-tu qu’il ouvre, [MASK] ? demanda le vieillard.– Le droit.
+
+[',', 'alors', 'Jean', 'brusquement', 'soudain']	Balsamo	? s’écria [MASK] avec une autorité surprenante. Votre religion, qui dit de rendre le bien pour le mal, n’est donc qu’hypocrisie, puisque vous prétendez suivre cette religion et que vous rendez, vous, le mal pour le bien ?
+
+["j'", 'tu', 'elle', 'lui', 'vous']	Philippe	La vengeance !… murmura-t-elle effrayée elle-même de l’accentuation terrible que [MASK] avait mise sur ce mot.– En attendant, repose-toi, ma sœur, de tous les chagrins, de toutes les hontes que ma folle curiosité t’a causés. Si j’avais su !
+
+['or', 'non', 'DE', 'oui', '...']	Richelieu	Oh ! oh ! fit [MASK], c’est que notre couronne est bien aventurée, comte… Il ne s’agit pas ici d’une blessure que l’on guérit avec trois gouttes d’élixir.– Non, mais d’un ministre que l’on renverse avec trois paroles…, répliqua
+
+['il', 'et', 'Il', 'elle', 'lui']	Balsamo	Et tandis que le cardinal, épouvanté, se demandait si ce n’était pas le diable en personne et non un de ses suppôts qui se trouvait à ses côtés, [MASK] plongea dans la fournaise sa tenaille aux longs bras.L’étreinte fut sûre et rapide.
+
+['il', 'et', ',', 'mais', 'a-t-il']	Philippe	[MASK] ne s’attendait pas à ce début ; il tressaillit.– Quel malheur ? demanda-t-il sans trop savoir ce qu’il répondait.– Ah ! tu le sais bien, mon frère.– Forcez-la de parler, monsieur, elle parlera.– Comment puis-je la forcer ?
+
+['il', ',', 'et', ';', "qu'"]	Gilbert	[MASK] se souleva par un dernier effort ; il sentait que là était le salut, car là était le calme et la puissance. Un dernier rayon de la flamme des charpentes, se ravivant pour mourir, éclaira le visage de cet homme.
+
+['partir', 'sortir', 'départ', 'rester', 'être']	Gilbert	Et puis que l’ange jette au vent sa robe de candeur, à moi quelques lambeaux de sa chasteté !La résolution de [MASK] était prise cette fois, il s’élança vers le salon.Mais comme il allait en franchir le seuil, une main sortit de l’ombre et le saisit énergiquement par le bras.
+
+['ma', 'Sa', 'sa', 'son', 'mon']	Sa	mais enfin, puisque tu le veux…– Tu aimes autant cela, hein ?– Mais oui, franchement.– Eh bien, dans la galerie des Glaces, à onze heures, pendant que moi, j’entrerai chez [MASK] Majesté.– Soit, adieu.–
+
+['il', 'celui-ci', 'Pierre', 'Jean', 'Henri']	Balsamo	Un éclair de joie brilla dans ses yeux.– Il serait possible ! s’écria-t-il. Mais non, une pareille générosité serait trop sublime.– Tu es défiant, dit [MASK] ; tu as raison, mais habitue-toi à choisir tes sujets de défiance.
+
+['la', 'La', 'Une', 'une', 'Sa']	Philippe.–	demanda [MASK] Personne.– Alors ce n’est pas un complice, c’est un coupable qu’il me faut punir ?– Je ne vous comprends pas, mon frère.Philippe regarda le comte comme pour lui demander avis.– Pressez-la, dit Balsamo.– Que je la presse ?
+
+['lui', 'elle', 'vous', 'un', 'la']	Marat	Puis, s’adressant à [MASK] :– Monsieur, dit-il, voici le moment où toutes vos incrédulités vont cesser, toutes vos hésitations s’évanouir ; ramassez cette lettre que vous apportait cette femme et qu’elle a laissé échapper lorsqu’elle est tombée.
+
+['le', "l'", 'un', 'il', 'en']	Gilbert	demanda-t-elle tout haut.– Oui.– Était-elle bien garnie ?– Je n’avais qu’un seul écu de six livres, dit [MASK], partagé entre la honte d’avouer sa détresse et le danger d’afficher une trop grande fortune, que l’on pouvait supposer mal acquise ;
+
+['elle', 'et', ',', ';', 'il']	Andrée	[MASK] vit son frère retomber, fléchir et disparaître ; elle jeta un cri, étendit les bras, fut repoussée, tournoya, et au bout d’un instant se trouva seule, chancelante, emportée comme la plume au vent, sans pouvoir faire à la force qui l’attirait plus de résistance qu’elle.
+
+['elle', 'et', 'Elle', ',', '.Elle']	Lorenza	[MASK] se précipita aux pieds de sa protectrice, lui prodiguant les plus tendres, les plus sincères remerciements.Mais tout à coup elle se releva sur un genou, écouta, pâlit, trembla.– Oh ! mon Dieu ! dit-elle, mon Dieu ! mon Dieu !
+
+['...', ',', 'TH', 'de', 'On']	Gilbert	… Quoi ! pas même de résistance !… Mais je t’étrangle, tu vois bien, résiste donc ! défends-toi donc… lâche ! lâche ! assassin ![MASK] sentit les doigts acérés de son ennemi pénétrer dans sa gorge ;
+
+['Champagne', 'celui-ci', 'celle-ci', 'Monseigneur', 'Blanche']	Richelieu	Que diable fait-il là ? demanda le duc.– Allons voir, répondit la comtesse. Champagne, à la voiture brisée, allez.Le cocher de la comtesse quitta aussitôt la route et s’enfonça sous la futaie.– Ma foi, oui, c’est monseigneur le cardinal, dit [MASK].
+
+['on', 'il', 'elle', 'aucun', 'nul']	Althotas	Le renard a été pris ici, je le reconnaîtrai mort ou vif. »« Et ce malheur inouï, ce malheur qu’[MASK] ne peut comprendre et que, pour cette raison, je ne lui ai pas même raconté ;
+
+['as', ',', 'de', 'en', 'la']	Nicole	elle a ses faiblesses comme ici-bas toute créature. Oublions ![MASK], de son côté, n’était pas fille à avoir perdu de vue la physionomie de sa maîtresse, et elle remarquait la bienveillance croissante qui se peignait sur son beau et calme visage.–
+
+['je', 'demande', 'on', 'JE', 'Je']	Lorenza	Voyons, dit-il, [MASK], de la douceur, du calme ; raisonnons, je vous en supplie.– Il me demande du calme ! il me demande de la raison ! Le bourreau demande de la douceur au patient qu’il torture, du calme à l’innocent qu’il martyrise.–
+
+['elle', 'il', 'la', 'le', "l'"]	Jean	demanda la vieille plaideuse avec sollicitude.– Non, dit [MASK] en se laissant doucement retomber, non, c’est une idée qui me vient.– Quelle idée ! dit la comtesse en riant, elle vous a presque renversé.– Elle doit être bien bonne !
+
+['on', ',', 'le', "s'", 'on']	Gilbert	Il était bien pénible, pour un jeune homme sans forces, presque sans idées, de se hisser sur le tabouret, de soulever le châssis de la lucarne, et de s’arc-bouter sur l’arête du toit. [MASK] y réussit pourtant ;
+
+['...', 'la', 'tous', "l'", ',']	Balsamo	Mais, à l’invitation de [MASK], le malade sourit et commença de chanter mélodieusement, lentement, en extase, comme un amant ou comme un poète :À mon sel couvert d’écume,À mon lac couleur du ciel,À mon four, tourbe qui fume
+
+['la', 'se', ',', 'ce', 'un']	Balsamo	et, sortant, comme nous l’avons dit, de sa chambré inaccessible à tous, excepté à [MASK], il était en train de se transporter dans la chambre inférieure.Pour que ce faible vieillard, si paresseux, eût quitté son fauteuil, intelligente machine qui lui épargnait toute fatigue
+
+['Jésus', 'celui-ci', 'Pierre', 'Jean', 'Paul']	Balsamo	Qu’est-ce que prolonger la vie, quand on est déjà parvenu à annuler la mort ?– Mais on ne le sait pas encore, objecta [MASK], car cette vie que vous lui avez rendue est une vie factice.– Ayons du temps et nous retrouverons la vie réelle.
+
+['se', ',', 'et', 'en', 'me']	Andrée	en baissant les yeux, oui, j’ai des chagrins.[MASK] descendit nonchalamment de son lit, et, tout en se déshabillant pour se rhabiller.– Conte-moi cela, dit-elle.– En effet, je venais justement auprès de mademoiselle pour lui dire…
+
+[',', 'lui', 'il', 'elle', "c'"]	Gilbert	– Rien.Cependant [MASK] et celui auquel il servait de guide marchaient depuis un quart d’heure à peu près ; la pluie avait tout à fait cessé, et la terre commençait même à exhaler cet âcre parfum qui remplace au printemps les brûlantes émanations de l’orage.
+
+['lui', "l'", 'son', 'elle', 'le']	Gilbert	Il résulta de cette impression inusitée chez [MASK], et contre laquelle son orgueil inné se raidissait en vain, que pendant les premiers instants la surprise et l’admiration le rendirent silencieux et souple. Le sentiment de sa misère et de son infériorité l’écrasait.
+
+['le', "l'", 'Pierre', 'celui-ci', 'Jean']	Balsamo	Eh bien ! qu’as-tu à dire à cela ?– Je dis, répondit [MASK], visiblement ébranlé, je dis que j’ai mon œuvre et que vous avez la vôtre. Accomplissons-la, chacun de notre côté, et à nos risques et périls.
+
+['très', 'blement', 'parents', 'peu', 'calement']	Gilbert	– Oh ! oui, monsieur.– Passons aux payements d’une pension pour les autres années.– L’enfant nous resterait ?– Probablement.– En ce cas, monsieur, c’est nous qui serions ses père et mère ?[MASK] pâlit.– Oui, dit-il d’une voix étouffée.–
+
+[',', 'il', 'celui-ci', 'alors', 't-il']	Althotas	– Mais, répliqua-t-il tout doucement, il me semble, mon ami, que vous venez seulement d’appeler.– Ton ami ! s’écria [MASK], ton ami ! vile créature humaine ! Je crois que tu me parles, à moi, la langue de tes semblables.
+
+['on', 'ez', 'autr', 'ét', 'estim']	Aiguillon	; vous êtes un bon parent, j’en ai eu plus d’une preuve.– Vous n’avez rien en vue, d’[MASK] ?– Absolument rien, sinon de n’être pas dégradé de mon titre de duc et pair, comme le demandent messieurs du
+
+[',', "l'", "d'", 'les', "s'"]	Taverney	Il importe que, toi aussi, tu voies Sa Majesté.– Tu crois ? dit [MASK] enchanté.– Je l’exige ; je veux que tu t’assures par toi-même de l’exactitude de ma parole.– Je ne doute pas ; mais enfin, puisque tu le veux…
+
+[',', 'était', 'homme', 'femme', 'officier']	Andrée	C’est qu’en face de lui, à dix pas au plus, dans l’une de ces voitures à fleurs de lis que le sergent lui avait recommandé de saluer, il venait d’apercevoir la resplendissante, la lumineuse figure d’[MASK] vêtue toute de blanc, comme un ange ou comme un fantôme.
+
+[',', 'le', 'on', 'la', 'en']	Rousseau	je ne vous demande, en effet, qu’un abri ; quant à mon pain, je le gagnerai ; vous savez que je ne suis pas un paresseux.– Eh bien, dit [MASK] d’un air inquiet, si la chose est convenue ainsi, montez là-haut ;
+
+['il', 'on', 'mais', 'ce', 'nul']	Gilbert	Quant à entendre ce qui se disait, quant à voir le jeu des physionomies, [MASK] ne le put ; un épais rideau, qui servait de store, retomba le long de la fenêtre et intercepta tout le sens de la scène.On peut juger des angoisses du jeune homme.
+
+["n'", 'peut-être', 'Peut-être', 'et', 'comment']	Gilbert	; peut-être s’il eût habité un premier étage, et si, par sa fenêtre ouverte, on eût pu apercevoir derrière lui de riches tapisseries et des meubles somptueux, [MASK] eût-il moins craint de se faire voir.
+
+['un', 'il', 'qui', 'le', 'son']	Balsamo	; elle secoua les bras avec effort, fit un grand mouvement de lassitude et retomba étendue, mais éveillée, sur le sofa.[MASK], assis à trois pas d’elle, poussa un profond soupir.– Adieu le rêve, murmura-t-il ; adieu le bonheur.
+
+['vous', 'je', 'il', 'on', 'en']	Balsamo	Maître, demanda-t-il, ai-je donc, en effet, commis une faute ?– Une grande, monsieur, dit [MASK] ; et, ce qu’il y a de pis, c’est que vous ne croyez pas l’avoir commise.– Eh bien oui, je l’avoue
+
+['la', 'le', 'les', 'Q', 'not']	Balsamo	»Les frères se regardèrent avec une muette surprise ; le langage du farouche illuminé, sa prescience, à laquelle beaucoup d’exemples frappants donnaient une autorité imposante, ne contribuèrent pas peu à assombrir le comité présidé par [MASK].Lui
+
+['lui', "l'", 'la', 'son', 'ce']	Rousseau	La dauphine attendit que le roi eût fait son examen, et alors elle s’avança du côté de [MASK] en disant :– Votre Majesté veut-elle me permettre de lui présenter notre auteur ?– Votre auteur ? fit le roi affectant de chercher dans sa mémoire.
+
+['ce', 'le', 'la', 'se', 'les']	Rousseau	»L’orateur finit ainsi sa proposition et regarda autour de lui pour en examiner l’effet.Sur [MASK], l’effet avait été magique : le Genevois connaissait les mystères préparatoires de la maçonnerie ; il les avait vus avec une sorte de répugnance bien naturelle aux esprits éclairés ;
+
+['toutes', '...', 'plus', '-', ',']	Blaise	je guetterai à la sortie, et le premier Choiseul ou la première Grammont qui me tombera sous la main… Tant pis, ma foi !– Comtesse ! comtesse !– Que voulez-vous ! je suis une femme mal élevée, moi. Je suis la maîtresse de [MASK], la belle Bourbonnaise,
+
+['il', 'le', 'Bus', 'Cav', 'en']	Balsamo	– Alors, puisqu’il faut absolument que vous voyiez, retournez-vous, dit [MASK] en étendant la main vers l’avenue, au bout de laquelle galopait à toute bride un cavalier dont le cheval faisait résonner la terre sous ses pas.– Oh ! oh ! s’écria le baron, voilà en effet…
+
+['Jean', 'Pierre', 'il', 'Martin', 'Jacques']	Gilbert	?– J’aime tout cela vaguement, dit [MASK], mais j’y suis trop accoutumé pour y faire grande attention.– Dites qu’il n’y a pas assez longtemps que vous avez perdu la campagne pour la regretter encore. Mais vous avez fini ; allons travailler.
+
+['elle', 'lui', 'vous', 'soi', 'eux']	Rousseau	Puis, rentrant chez [MASK], qui déjà prenait des notes avec un crayon :– Dépêchez-vous de serrer toutes ces infamies, dit-elle. Voilà quelqu’un qui veut vous voir.– Qui est-ce ?– Un seigneur de la cour.– Il ne vous a pas dit son nom ?
+
+['elle', ',', 'oui', 'seulement', 'que']	Balsamo	Aussitôt la jeune fille sourit et murmura :– Ah ! c’est toi, mon frère ?– Vous voyez, dit [MASK], elle vous reconnaît maintenant.– Oui. C’est étrange.– Interrogez, elle répondra.– Mais, si elle ne se souvenait pas éveillée, comment se souviendra-t-elle endormie
+
+["l'", 'dés', "d'", 'un', 'de']	Marat	– Monsieur, dit-il, voici le moment où toutes vos incrédulités vont cesser, toutes vos hésitations s’évanouir ; ramassez cette lettre que vous apportait cette femme et qu’elle a laissé échapper lorsqu’elle est tombée.[MASK] obéit.– Eh bien ? demanda-t-il.–
+
+["l'", 'le', 'la', 'de', 'en']	Gilbert	La maîtresse de l’hôtel était là, surveillant tout et comptant sa recette.– Pardon, madame, dit [MASK], donnez-moi, s’il vous plaît, un morceau de pain et du jambon.– Il n’y a pas de jambon, mon ami, répondit l’hôtesse, Voulez-vous du poulet
+
+['t-il', ':', '...', 'roi', 'MAD']	Gilbert	; cherchez-lui une longue écritoire, qu’il se pendra à la ceinture.– Avec plume et papier, cria [MASK]. Je tiens à ce que le costume soit complet.Le laquais s’élança pour exécuter l’ordre donné.
+
+[',', 'de', 'à', 'tout', 'le']	Taverney	Le roi, dit-il, m’a affirmé qu’il n’avait encore vu à sa cour personne qui réunît au même point que vous, mademoiselle, les dons de l’esprit et ceux de la figure.– Vous oubliez ceux du cœur, dit [MASK] avec épanouissement ;
+
+['de', 'le', 'la', ',', '...']	Jeannette	Eh bien, après ?– Eh bien, je vous dis que vous avez bien fait de le faire venir.– Ah ! très bien ! très bien !… Il m’aidera, voulez-vous dire ?– Il nous aidera tous… Vous savez qu’il est au mieux avec [MASK]
+
+['le', ',', 'la', 'qui', 'ce']	Septimanie	Ou bien :– Que j’étais certain de votre défection !Ou bien encore :– Que vous disais-je à propos des conjurations ?– Mais vous-même, duc ? répondaient les dames.– Moi, je représentais ma fille, je représentais la comtesse d’Egmont. Cherchez, [MASK] n’y est point
+
+[',', 'à', 'de', 'une', 'un']	Nicole	Écris donc un mot à ta fille, baron, pour lui dire l’importance que tu attaches à ce qu’elle ait une femme de chambre auprès d’elle, et à ce que cette femme de chambre s’appelle Nicole.– Tu crois qu’il est urgent qu’elle s’appelle [MASK]
+
+['elle', ',', 'la', 'en', 'au']	Andrée	; mais [MASK], du ciel placide où planaient ses idées, regardait rarement sur la terre et, quand elle y regardait, les êtres inférieurs apparaissaient comme des atomes à ses yeux.Elle ne s’aperçut donc de rien.
+
+[',', '"', 'de', 'la', 'le']	Philippe	? dit le baron avec une colère d’autant plus injuste, que nous avons fait assister le lecteur aux secrets de sa logique.[MASK], pour toute réponse, s’approcha, montra son visage sanglant et son bras brisé et pendant à son côté comme une branche morte.–
+
+[',', ';', '...', 'est', ':']	Richelieu	Le roi s’arrêta en face du maréchal.– Voyons, dit-il, vous me voulez quelque chose, n’est-ce pas ?– Moi, sire ? fit [MASK] souriant ; eh ! quoi donc ?– Mais vous me poursuivez, duc, morbleu !
+
+['le', "l'", 'la', 'un', 'son']	Balsamo	, c’est le vôtre.– Ce sang est le mien ! s’écria [MASK], ivre d’égarement.– Oui, le vôtre, le vôtre ! Vous vous êtes coupé les doigts avec un couteau, avec un poignard, et vous avez appuyé votre doigt ensanglanté sur l’œil du lion.
+
+['Louis', 'Marie', 'Louise', 'Henri', 'Jeanne']	Andrée	Le docteur Louis étudia longtemps le pouls de la jeune fille, et l’interrogea sur ce qu’elle ressentait.– Un profond dégoût pour toute nourriture, répondit [MASK] ; des tiraillements subits, des chaleurs qui montent tout à coup à la tête, des spasmes, des palpitations, des défaillances.
+
+['il', 'on', 'celui-ci', 'elle', '-il']	Gilbert	; il savait que le meilleur comédien ne pouvait avoir cet accent trempé de larmes avec lequel [MASK] parlait, et ce geste fiévreux avec lequel il accompagnait ses paroles.– Ainsi, dit-il, cette jeune dame, c’est mademoiselle Andrée ?
+
+['...', 'la', 'le', 'de', 'en']	Rousseau	maintenant, je sais ce qui me reste à faire.– Et, dans tous les cas, jeune comme vous l’êtes, avec votre travail, vous pouvez nourrir votre enfant, dit [MASK]. Mais vous avez parlé de crime ; on vous cherche, on vous poursuit peut-être…
+
+[',', 'le', 'de', 'les', 'la']	Rousseau	– Vous vous trompez, illustre frère, dit une voix suave et pénétrante qui attira doucement [MASK], il y a plus que vous ne pensez dans l’association que vous voulez bien accepter ; il y a tout l’avenir du monde ;
+
+['elle', 'il', '</s>', ',', 'et']	Andrée	; au contraire, la chère enfant n’est pas assez coquette, monsieur, et en bon père je m’applique à développer en elle cette qualité, qui fait la première force de la femme.[MASK] baissa les yeux et rougit.
+
+['qui', 'le', 'se', 'il', "s'"]	Andrée	Donnez-lui votre pliant, l’abbé.[MASK] s’assit, et peu à peu, sous la douce influence de cette bonté, son esprit se rasséréna, les couleurs remontèrent à ses joues.– Eh bien, mademoiselle, pouvez-vous lire, maintenant ? demanda la dauphine.–
+
+['soit', 'sois', 'et', 'je', 'oui']	Mahon	?Puis, réfléchissant :– Mais on m’abandonnait libre, au moins, libre de chercher ma vie comme je l’entendais. Eh bien ! soit, [MASK], je ferai pour toi ce que l’on faisait pour moi, ni plus ni moins.
+
+['enfant', 'honneur', 'amis', 'entrée', 'enfants']	Andrée	que, sur le palier de cette chapelle, un escalier monte à droite au premier étage, c’est-à-dire aux chambres des dames de service, chambres qu’un long corridor éclairé sur les jardins borde comme une allée.La chambre d’[MASK] était la première à gauche dans ce corridor.
+
+['le', 'lui-même', "l'", 'celui-ci', 'la']	Nicole	Il résolut donc de contrefaire le mort jusqu’à ce que le hasard lui eût donné une occasion favorable de ressusciter, ou jusqu’à ce que [MASK], par faiblesse ou par besoin, risquât à son endroit une démarche qui lui fît perdre tous ses avantages.
+
+['lui', 'la', 'le', 'sa', 'son']	Andrée	; que lit-elle là ?– Premier meuble indispensable, répondit le vicomte en tirant de sa poche une lunette qu’il allongea et braqua sur [MASK], en l’appuyant, pour la fixer, à l’angle de la fenêtre.
+
+['dit', 'répond', 'répondit', 'fit', 'reprit']	misérable	En vérité, je deviens superstitieux comme un diable… Mais dépêche-toi donc, [MASK] La Brie.– Monsieur, j’ai été obligé d’aller à tâtons. Il n’y avait plus de chandelle au château.– Il était temps, à ce qu’il paraît, dit le baron.
+
+['tout', ',', 'en', 'il', "l'"]	Philippe	Le jeune homme ne résista point.– Tu n’es donc pas un homme ? dit [MASK] en le secouant avec rage, tu n’en as donc que le visage ?… Quoi ! pas même de résistance !… Mais je t’étrangle, tu vois bien, résiste donc
+
+['toi', 'le', 'tu', 'je', 'ton']	Nicole	En effet, je venais justement auprès de mademoiselle pour lui dire…Elle s’arrêta.– Pour lui dire quoi ? Bon Dieu ! Comme tu as l’air effaré, [MASK] !– J’ai l’air effaré comme mademoiselle a l’air fatigué ; sans doute nous souffrons toutes deux.
+
+['dame', 'non', 'je', 'sire', 'or']	Andrée	– Oh ! oui, [MASK], vous êtes toute pâle et toute tremblante.– Mais où donc avez-vous vu cela, mon frère ? Je ne suis pas même indisposée ; qui donc vous a si mal renseigné, mon Dieu ? Qui donc a eu la sottise de vous alarmer
+
+['tous', 'loin', 'personne', 'pas', 'regard']	Gilbert	Entrez, monsieur, s’il vous plaît : là… bon ; par ici…L’étranger s’avança d’un pas rapide ; mais, en arrivant à la première marche du perron, il lui prit l’envie de se retourner pour voir s’il était suivi de [MASK].
+
+['moi', 'lui', 'elle', 'celui', 'lui-même']	Philippe	– Qu’avez-vous donc fait contre moi, pour que je vous pardonne ? Dites, expliquez-vous. En tout cas, continua-t-elle avec un sourire mélancolique, comme l’offense ne peut être grande, le pardon sera facile. C’est [MASK] qui vous a remis la clef ?
+
+['madame', 'Madame', 'certes', 'monsieur', 'alors']	Jeanne	à ce compte, [MASK], vous ne seriez donc pas une beauté distinguée ? Vous vous moquez, je crois.– Bon ! un compliment, dit tout bas la comtesse ; malheureusement, ce compliment sert d’enveloppe à un autre compliment qui n’est point pour moi.
+
+['Madame', 'Mademoiselle', 'dame', 'Dame', "qu'"]	Nicole	– C’est nous exposer à être surpris.– Allons donc ! répliqua [MASK] avec un sourire de dédain, qui nous surprendrait ? Mademoiselle ? En effet, elle doit être jalouse de ce beau monsieur ! Malheureusement pour elle, les gens dont on sait le secret ne sont point à craindre.
+
+['-', 'Q', 'h', ',', 'de']	Andrée	Dame ! fit [MASK], je le traite comme il le mérite ; c’est un paresseux.– Oh ! mademoiselle, il lit toujours, et ne demande qu’à s’instruire.– Rempli de mauvaise volonté, continua Andrée.– Pas pour mademoiselle, toujours
+
+[',', 'le', 'de', 'est', 'en']	Gilbert	; ici, les pauvres le ramassent.– Eh bien ! monsieur, dit [MASK] singulièrement ému de la voix pénétrante et douce du vieillard, bien que nous soyons ici dans un bois, je connais un homme qui disputerait votre pain aux petits oiseaux.– Serait-ce vous, mon ami
+
+['de', ',', 'se', 'le', "l'"]	Philippe	[MASK] poussa un cri de colère et, s’élançant à son tour vers le trophée, chercha à y saisir une arme.En ce moment, la porte secrète du corridor s’ouvrit et, se détachant sur le cadre sombre
+
+['"', ':', 'base', 'Montaigne', 'Bernard']	César	Outre qu’il n’était pas d’une complexion fort tendre, le baron était homme d’action, et, dans les grandes crises de la vie, ces sortes de tempéraments mettent toujours en pratique cet adage de [MASK] : Age quod agis.« Fais ce que tu fais.
+
+['on', 'elle', 'on', 'je', 'il']	Andrée	Chacune de ces perles est d’une nature étrange, ma sœur… elles font des taches sur les fronts qu’elles touchent…[MASK] frissonna.– Je garde cet écrin, ma sœur, pour le rendre à qui de droit. Je vous le dis, ce n’est pas notre bien
+
+['les', 'le', 'la', 'me', 'il']	Gilbert	[MASK] regardait avec des yeux tellement avides, qu’ils en semblaient hébétés. Successivement, en arrivant en face de la porte de l’abbaye, les voitures s’arrêtaient, les seigneurs de la suite en descendaient, opération qui, de cinq minutes en cinq minutes, occasionnait un mouvement de halte sur toute la ligne.
+
+["l'", 'la', 'elle', 'quel', 'lui']	Nicole	Il en gonfla d’orgueil.Quant à [MASK], il n’y pensa même point.Le frère et la sœur reprirent leur conversation en patois.– Bon ! s’écria tout à coup le vicomte en se penchant à la portière et en regardant en arrière.– Quoi ? demanda Chon.–
+
+['S', ':', 'ON', 'IT', 'D']	Balsamo.–	entrez-y, regardez-le, et dites-moi la vérité sur lui.– Oh ! il est malade, bien malade : on lui a coupé la jambe.– En vérité ? dit [MASK] Oui.– Et l’opération a-t-elle bien réussi ?– À merveille ;
+
+['elle', 'Elle', 'ne', 'et', '</s>']	Louise	le dauphin se regarde déjà comme à moitié maître et croit qu’il le sera tout à fait quand il aura fait asseoir sa petite Autrichienne sur le trône. [MASK] m’aime, mais bien durement, puisqu’elle me fait de la morale et qu’elle s’en va.
+
+['elle', 'et', 'il', 'Elle', 'personne']	Lorenza	La chambre était vide comme le laboratoire : [MASK] ne paraissait pas même y être entrée.Alors une pensée douloureuse, une pensée qui, on s’en souvient, l’avait déjà mordu au cœur, vint chasser toutes les suppositions, toutes les espérances de l’amant heureux.
+
+['nom', 'le', 'de', ',', 'à']	Philippe	[MASK], vous mentez à votre propre conscience… Ce nom, il faut que je le sache, afin que, toute faible que je suis et n’ayant pour moi que la prière, je puisse, en priant, armer contre le criminel toute la colère de Dieu…
+
+['le', "l'", 'un', 'Pierre', 'celui-ci']	Gilbert	Oh ! soyez tranquille, mon enfant, je ne suis pas assez riche pour faire l’aumône, et pas assez fou surtout pour la faire au hasard.– À la bonne heure, dit [MASK], que cette boutade misanthropique mettait à l’aise au lieu de le blesser.
+
+[',', 'le', 'les', 'à', 'tout']	Balsamo	Ne vous arrêtez qu’à ce que je dirai, monsieur, et ne supposez rien, je vous prie.– Continuez donc.– Eh bien, au lieu de me laisser m’abîmer dans ces colères et dans ces désespoirs, accordez-moi, puisque je ne vous suis utile à rien…Elle s’arrêta pour regarder [MASK]
+
+['le', "l'", 'la', 'un', 'son']	Andrée	Comme il venait de placer son échelle et qu’il posait le pied sur le premier échelon, la porte de Balsamo s’ouvrit et se referma, laissant passer [MASK], qui descendit sans lumière et sans bruit, comme si une puissance surnaturelle la guidait et la soutenait.
+
+['le', 'celui-ci', 'Monsieur', 'Monseigneur', 'il']	Richelieu	Sire, dit [MASK], si la musique met les hommes d’accord, comme dit notre maître de ballet et comme semble le penser Votre Majesté, en dira-t elle autant des femmes ?– Oh ! duc, dit le roi, ne parlons pas des femmes.
+
+['sentiments', 'esprit', 'cœur', 'coeur', 'générosité']	Philippe	Voici ma bourse, partageons.– Merci, monsieur, dit l’indomptable jeune homme, touché, sans vouloir en convenir, de cette admirable expansion de [MASK] ; merci, je n’ai besoin de rien ; seulement… seulement, je vous suis reconnaissant bien plus que si j’eusse accepté votre offre, soyez-en sûr.
+
+['se', 'le', "s'", 'il', 'en']	Balsamo	Et comme, tout chancelant, il cherchait, pour se retenir, quelque saillie de meuble, il aperçut avec horreur un vaste bassin de cuivre, dont les parois brillantes reflétaient la couleur pourpre et laqueuse du sang fraîchement répandu.L’énorme vase était à moitié rempli.[MASK] recula épouvanté.–
+
